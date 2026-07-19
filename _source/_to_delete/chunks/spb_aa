@@ -1,0 +1,735 @@
+[
+  {
+    "id": "saint-petersburg-hermitage",
+    "slug": "hermitage",
+    "region": "saint-petersburg",
+    "region_name_vi": "Saint Petersburg",
+    "federal_district": "Thành phố trực thuộc liên bang",
+    "name_vi": "Bảo tàng Ẩn Cung (Hermitage) – Cung điện Mùa Đông",
+    "name_ru": "Государственный Эрмитаж",
+    "name_en": "State Hermitage Museum",
+    "categories": [
+      "museum",
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 59.940556,
+      "lon": 30.313611
+    },
+    "address_vi": "Số 34 bờ kè Cung điện (Dvortsovaya nab.), Saint Petersburg",
+    "rating": {
+      "value": 4.7,
+      "count": 26762,
+      "source": "Tripadvisor",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách choáng ngợp trước nội thất hoàng gia xa hoa và bộ sưu tập tầm cỡ thế giới (Da Vinci, Rembrandt, Raphael, Đồng hồ Công). Lời than phiền phổ biến nhất là bảo tàng quá rộng để xem hết trong một lần, hàng chờ vào dài và dễ lạc giữa các phòng.",
+    "presentation_short_vi": "Bảo tàng nghệ thuật lớn bậc nhất thế giới, đặt trong Cung điện Mùa Đông lộng lẫy bên bờ sông Neva — nơi lưu giữ khoảng 3 triệu hiện vật, từ Da Vinci, Rembrandt đến chiếc Đồng hồ Công bằng vàng vẫn còn chạy.",
+    "presentation_long_vi": "Bước qua ngưỡng cửa Cung điện Mùa Đông, bạn đang đặt chân vào nơi từng là dinh thự chính của các Sa hoàng Nga và ngày nay là một trong những bảo tàng vĩ đại nhất hành tinh. Hermitage ra đời năm 1764, khi Nữ hoàng Ekaterina Đại đế mua về bộ sưu tập hơn hai trăm bức tranh; gần ba thế kỷ sau, kho báu ấy đã lên tới khoảng ba triệu hiện vật, trải dài từ nghệ thuật Ai Cập cổ đại tới các kiệt tác của Leonardo da Vinci, Rembrandt, Raphael và Rubens. Những gian phòng dát vàng, cầu thang Đại sảnh tráng lệ, trần nhà chạm trổ và các chùm đèn pha lê khiến bản thân toà cung điện cũng là một tác phẩm nghệ thuật. Đừng bỏ lỡ chiếc Đồng hồ Công (Peacock Clock) bằng vàng vẫn còn hoạt động, hay phòng tranh của các danh hoạ Ý. Du khách thường choáng ngợp vì quy mô: đi hết các phòng có thể ngốn của bạn nhiều ngày, nên hãy chọn trước vài khu vực yêu thích. Và nếu gặp một chú mèo ung dung dạo bước, đừng ngạc nhiên — 'những chú mèo Hermitage' đã canh giữ kho tranh khỏi lũ chuột suốt hàng trăm năm.",
+    "highlights_vi": [
+      "Thành lập năm 1764 từ bộ sưu tập hơn 225 bức tranh của Ekaterina Đại đế; mở cửa cho công chúng năm 1852.",
+      "Một trong những bảo tàng lớn nhất thế giới với khoảng 3 triệu hiện vật — chỉ một phần nhỏ được trưng bày.",
+      "Cung điện Mùa Đông từng là nơi ở chính của các hoàng đế Nga; bảo tàng nổi tiếng với đàn 'mèo Hermitage' canh gác."
+    ],
+    "practical": {
+      "hours_vi": "Thứ Ba, Sáu, Bảy 11:00–20:00; Thứ Tư, Năm, CN 11:00–18:00; đóng cửa Thứ Hai.",
+      "ticket_vi": "Khoảng 500 RUB (khách nước ngoài); vé mở ngày ~1.200 RUB; dưới 18 tuổi miễn phí.",
+      "duration_vi": "3–4 giờ (nửa ngày).",
+      "best_time_vi": "Sáng sớm giữa tuần để tránh đông; mùa hè (Đêm Trắng) đẹp nhất.",
+      "tips_vi": "Mua vé online trước để đỡ xếp hàng; chọn trước 2–3 khu muốn xem; đi giày êm."
+    },
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Winter_Palace_Panorama_4.jpg",
+    "photo_credit": "Wikimedia Commons",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=30.313611,59.940556&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=59.940556,30.313611"
+    },
+    "official_site": "https://www.hermitagemuseum.org",
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=State%20Hermitage%20Museum"
+      }
+    ],
+    "tags": [
+      "museum",
+      "art",
+      "indoor",
+      "landmark",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-15"
+  },
+  {
+    "id": "saint-petersburg-savior-on-blood",
+    "slug": "savior-on-blood",
+    "region": "saint-petersburg",
+    "region_name_vi": "Saint Petersburg",
+    "federal_district": "Thành phố trực thuộc liên bang",
+    "name_vi": "Nhà thờ Chúa Cứu Thế trên Máu Đổ (Spas na Krovi)",
+    "name_ru": "Спас на Крови",
+    "name_en": "Church of the Savior on Spilled Blood",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 59.94,
+      "lon": 30.32861
+    },
+    "address_vi": "Kênh Griboedov 2Б (nab. kanala Griboedova, 2Б), Saint Petersburg",
+    "rating": {
+      "value": 4.8,
+      "count": 21728,
+      "source": "Tripadvisor",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách liên tục xếp đây là điểm ấn tượng nhất Saint Petersburg, khen mái vòm củ hành rực rỡ bên ngoài và nội thất choáng ngợp với hơn 7.000 m² tranh khảm. Điểm trừ nhỏ: bên trong có thể đông, đôi khi có giàn giáo trùng tu che mặt tiền.",
+    "presentation_short_vi": "Nhà thờ mái vòm củ hành sặc sỡ nhất Saint Petersburg, dựng ngay nơi Sa hoàng Aleksandr II bị ám sát, với nội thất phủ hơn 7.000 m² tranh khảm (mosaic) lấp lánh.",
+    "presentation_long_vi": "Nổi bật giữa lòng thành phố với những mái vòm củ hành nhiều màu như bước ra từ cổ tích, Nhà thờ Chúa Cứu Thế trên Máu Đổ được xây trong các năm 1883–1907 ngay tại điểm Sa hoàng Aleksandr II trúng bom mưu sát năm 1881 — cái tên 'trên Máu Đổ' bắt nguồn từ bi kịch ấy. Khác hẳn phong cách Baroque và tân cổ điển thống trị Saint Petersburg, công trình cố tình mô phỏng kiến trúc Nga thời trung cổ, gợi nhớ Nhà thờ Thánh Basil ở Moskva. Nhưng điều khiến du khách sững sờ nằm ở bên trong: hơn bảy nghìn mét vuông tranh khảm mosaic phủ kín tường và trần, một trong những bộ sưu tập mosaic lớn nhất châu Âu, kể lại các tích Kinh Thánh bằng hàng triệu mảnh đá và thuỷ tinh. Thời Xô Viết, nhà thờ từng bị dùng làm kho chứa khoai tây, nên dân gian gọi vui là 'Đấng Cứu Thế trên Khoai tây'. Ngày nay đây là điểm được du khách chấm điểm cao nhất thành phố. Hãy đến sớm hoặc mua vé buổi tối mùa hè để chiêm ngưỡng không gian bớt chật, và dành thời gian ngẩng đầu ngắm từng vòm trần — mỗi centimet đều là nghệ thuật.",
+    "highlights_vi": [
+      "Xây 1883–1907 đúng nơi Hoàng đế Aleksandr II bị ám sát bằng bom năm 1881.",
+      "Nội thất có hơn 7.000 m² tranh khảm mosaic — thuộc hàng lớn nhất châu Âu.",
+      "Thời Xô Viết từng làm kho khoai tây, nên có biệt danh 'Đấng Cứu Thế trên Khoai tây'."
+    ],
+    "practical": {
+      "hours_vi": "10:30–18:00; đóng cửa Thứ Tư; mùa hè có suất tối tới ~22:30.",
+      "ticket_vi": "~450 RUB người lớn (~400 RUB suất tối); trẻ dưới 7 tuổi miễn phí.",
+      "duration_vi": "45–90 phút.",
+      "best_time_vi": "Mùa hè, buổi tối muộn để tránh đông; ánh chiều làm mosaic rực rỡ.",
+      "tips_vi": "Mua vé suất tối để vắng hơn; mang ống nhòm nhỏ để ngắm mosaic trên vòm cao."
+    },
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Church_of_the_Savior_on_Spilled_Blood.jpg",
+    "photo_credit": "Wikimedia Commons",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=30.32861,59.94&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=59.94,30.32861"
+    },
+    "official_site": "https://eng.cathedral.ru",
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Church%20of%20the%20Savior%20on%20Spilled%20Blood"
+      }
+    ],
+    "tags": [
+      "church",
+      "art",
+      "indoor",
+      "landmark",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-15"
+  },
+  {
+    "id": "saint-petersburg-st-isaacs",
+    "slug": "st-isaacs",
+    "region": "saint-petersburg",
+    "region_name_vi": "Saint Petersburg",
+    "federal_district": "Thành phố trực thuộc liên bang",
+    "name_vi": "Nhà thờ Thánh Isaac (Isaakievsky)",
+    "name_ru": "Исаакиевский собор",
+    "name_en": "Saint Isaac's Cathedral",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 59.933994,
+      "lon": 30.305969
+    },
+    "address_vi": "Quảng trường Thánh Isaac 4 (Isaakiyevskaya pl., 4), Saint Petersburg",
+    "rating": {
+      "value": 4.7,
+      "count": 10350,
+      "source": "Tripadvisor",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách trầm trồ trước quy mô hoành tráng, mái vòm dát vàng và nội thất xa hoa bằng malachite, lapis lazuli, tranh khảm; điểm nhấn với nhiều người là leo hàng cột ngắm toàn cảnh. Ít lời chê, chủ yếu là phải leo cầu thang và nên mua vé tại chỗ.",
+    "presentation_short_vi": "Một trong những thánh đường Chính thống giáo lớn nhất thế giới, với mái vòm dát vàng rực rỡ; leo lên hàng cột (colonnade) trên cao để ngắm toàn cảnh Saint Petersburg.",
+    "presentation_long_vi": "Sừng sững với mái vòm dát vàng dùng gần 100 kg vàng ròng, Nhà thờ Thánh Isaac là một trong những thánh đường Chính thống giáo lớn nhất hành tinh. Do kiến trúc sư người Pháp Auguste de Montferrand thiết kế, công trình mất tới 40 năm để hoàn thành (1818–1858). Những cột đá granite đỏ nguyên khối — cột lớn nhất nặng chừng 114 tấn — được dựng lên trước cả khi xây tường, một kỳ tích kỹ thuật của thế kỷ 19. Bên trong, du khách lạc vào một thế giới của malachite, lapis lazuli, tranh khảm và mạ vàng; vòm nhà thờ cao hơn 100 mét và có thể chứa tới 14.000 người. Nhưng phần thưởng được yêu thích nhất lại nằm bên ngoài: leo khoảng 200 bậc lên hàng cột quanh mái vòm, cả Saint Petersburg trải ra dưới chân bạn — từ dòng Neva, Cung điện Mùa Đông đến mũi nhọn Pháo đài Petropavlovsk. Ngày nay nhà thờ hoạt động như một bảo tàng nhà nước. Lời khuyên nhỏ: mua vé ngay tại quầy chính hãng để tránh giá 'cò', và nếu còn sức, hãy chinh phục colonnade vào lúc hoàng hôn.",
+    "highlights_vi": [
+      "Do Auguste de Montferrand thiết kế, xây suốt 40 năm (1818–1858); mái vòm dùng khoảng 100 kg vàng.",
+      "Một trong những thánh đường Chính thống lớn nhất thế giới: vòm cao ~101,5 m, chứa được ~14.000 người.",
+      "112 cột granite đỏ nguyên khối (cột lớn nhất ~114 tấn) được dựng trước khi xây tường."
+    ],
+    "practical": {
+      "hours_vi": "10:30–18:00; đóng cửa Thứ Tư; hàng cột mở tới ~22:30 vào mùa hè.",
+      "ticket_vi": "Nhà thờ ~450 RUB; hàng cột ngắm cảnh thêm ~400 RUB; dưới 7 tuổi miễn phí.",
+      "duration_vi": "1–1,5 giờ (gồm hàng cột).",
+      "best_time_vi": "Hoàng hôn mùa hè để ngắm toàn cảnh từ colonnade.",
+      "tips_vi": "Mua vé tại quầy chính hãng; vé nhà thờ và vé hàng cột tách riêng; chuẩn bị leo ~200 bậc."
+    },
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Saint_Isaac%27s_Cathedral_Saint_Petersburg.jpg",
+    "photo_credit": "Wikimedia Commons",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=30.305969,59.933994&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=59.933994,30.305969"
+    },
+    "official_site": "https://eng.cathedral.ru",
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Saint%20Isaac%27s%20Cathedral"
+      }
+    ],
+    "tags": [
+      "church",
+      "viewpoint",
+      "indoor",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-15"
+  },
+  {
+    "id": "saint-petersburg-kazan-cathedral",
+    "slug": "kazan-cathedral",
+    "region": "saint-petersburg",
+    "region_name_vi": "Saint Petersburg",
+    "federal_district": "Thành phố trực thuộc liên bang",
+    "name_vi": "Nhà thờ Kazan (Kazansky)",
+    "name_ru": "Казанский собор",
+    "name_en": "Kazan Cathedral",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 59.934116,
+      "lon": 30.324432
+    },
+    "address_vi": "Đại lộ Nevsky 25 (Nevsky pr., 25), Saint Petersburg",
+    "rating": {
+      "value": 4.6,
+      "count": 4185,
+      "source": "Tripadvisor",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách khen hàng cột bán nguyệt hùng vĩ (thường ví với Thánh đường Thánh Peter ở Roma) và không khí trầm mặc của một giáo đường đang hoạt động với nến, biểu tượng và hợp xướng; vào cửa miễn phí là điểm cộng. Phàn nàn chính là đông vào giờ cao điểm và 'cò' chụp ảnh chèo kéo bên ngoài.",
+    "presentation_short_vi": "Thánh đường đang hoạt động với hàng cột hình bán nguyệt 96 cột gợi nhớ Vương cung Thánh đường Thánh Peter ở Roma; nơi an nghỉ của Thống chế Kutuzov, vào cửa miễn phí.",
+    "presentation_long_vi": "Vươn ra ôm lấy đại lộ Nevsky bằng hàng cột hình bán nguyệt chín mươi sáu chiếc, Nhà thờ Kazan là một trong những công trình bề thế và duyên dáng nhất Saint Petersburg. Do kiến trúc sư Andrei Voronikhin xây dựng trong các năm 1801–1811, hàng cột sải rộng của nhà thờ lấy cảm hứng trực tiếp từ Vương cung Thánh đường Thánh Peter ở Roma. Đây không chỉ là nơi thờ phụng: sau chiến thắng trước Napoléon năm 1812, Kazan trở thành đài tưởng niệm vinh quang của nước Nga, và Thống chế lừng danh Mikhail Kutuzov được an táng ngay bên trong. Trung tâm tinh thần của nhà thờ là bản sao được tôn kính của biểu tượng Đức Mẹ Kazan. Khác với nhiều điểm tham quan thu phí, Kazan mở cửa miễn phí và vẫn là một giáo đường sống động — bạn sẽ bắt gặp những ngọn nến lung linh, mùi hương trầm và tiếng hợp xướng vang vọng dưới mái vòm. Thời Xô Viết, nơi đây từng là 'Bảo tàng Lịch sử Tôn giáo và Vô thần'. Hãy giữ im lặng và ăn mặc kín đáo khi vào, và tránh những người mặc trang phục hoá trang mời chụp ảnh tính phí bên ngoài.",
+    "highlights_vi": [
+      "Xây 1801–1811 bởi Andrei Voronikhin; hàng cột 96 chiếc lấy cảm hứng từ Thánh đường Thánh Peter, Roma.",
+      "Thống chế Mikhail Kutuzov an nghỉ bên trong; nhà thờ là đài tưởng niệm chiến thắng Napoléon 1812.",
+      "Lưu giữ bản sao tôn kính của biểu tượng Đức Mẹ Kazan; thời Xô Viết từng là bảo tàng vô thần."
+    ],
+    "practical": {
+      "hours_vi": "Hằng ngày ~06:30 đến hết buổi lễ tối (thường ~20:00).",
+      "ticket_vi": "Miễn phí (giáo đường đang hoạt động; hoan nghênh quyên góp).",
+      "duration_vi": "30–45 phút.",
+      "best_time_vi": "Trong giờ lễ để nghe hợp xướng; buổi tối khi lên đèn.",
+      "tips_vi": "Ăn mặc kín đáo, giữ trật tự; tránh 'cò' chụp ảnh tính phí trước nhà thờ."
+    },
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Kazan_Cathedral_Saint_Petersburg.jpg",
+    "photo_credit": "Wikimedia Commons",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=30.324432,59.934116&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=59.934116,30.324432"
+    },
+    "official_site": "https://kazansky-spb.ru",
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Kazan%20Cathedral"
+      }
+    ],
+    "tags": [
+      "church",
+      "free",
+      "indoor",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-15"
+  },
+  {
+    "id": "saint-petersburg-russian-museum",
+    "slug": "russian-museum",
+    "region": "saint-petersburg",
+    "region_name_vi": "Saint Petersburg",
+    "federal_district": "Thành phố trực thuộc liên bang",
+    "name_vi": "Bảo tàng Nga (Russkiy Muzey)",
+    "name_ru": "Русский музей",
+    "name_en": "State Russian Museum",
+    "categories": [
+      "museum",
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 59.93861,
+      "lon": 30.33222
+    },
+    "address_vi": "Phố Inzhenernaya 4 — Cung điện Mikhailovsky, Saint Petersburg",
+    "rating": {
+      "value": 4.7,
+      "count": 3306,
+      "source": "Tripadvisor",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách gọi bộ sưu tập nghệ thuật Nga là kho báu — Repin, Aivazovsky, Bryullov và các icon — trưng bày trong Cung điện Mikhailovsky thanh lịch, và thường thấy dễ chịu hơn Hermitage. Điểm trừ: đông vào ngày cao điểm, một số tranh bị loá sáng, đôi khi nhân viên chưa niềm nở.",
+    "presentation_short_vi": "Bảo tàng nghệ thuật Nga đầu tiên của nhà nước, đặt trong Cung điện Mikhailovsky tân cổ điển; yên tĩnh hơn Hermitage, với kiệt tác của Repin, Aivazovsky, Bryullov.",
+    "presentation_long_vi": "Nếu Hermitage tôn vinh nghệ thuật thế giới, thì Bảo tàng Nga (Russkiy Muzey) là ngôi đền của chính hội hoạ Nga. Được Hoàng đế Nikolai II thành lập năm 1895 để tưởng nhớ vua cha Aleksandr III, đây là bảo tàng nghệ thuật quốc gia đầu tiên của nước Nga, mở cửa năm 1898. Toà nhà chính — Cung điện Mikhailovsky — tự thân đã là kiệt tác tân cổ điển do kiến trúc sư Carlo Rossi thiết kế đầu thế kỷ 19. Bên trong là hơn 400.000 tác phẩm trải dài từ các biểu tượng (icon) cổ kính tới hội hoạ hiện đại: bạn sẽ được đứng trước 'Con sóng thứ chín' của Aivazovsky, 'Ngày cuối cùng của Pompeii' của Bryullov, cùng những bức chân dung và tranh lịch sử hùng tráng của Repin. Nhiều du khách thấy nơi đây dễ chịu và bớt choáng ngợp hơn Hermitage — một lựa chọn lý tưởng để thật sự thưởng thức tranh mà không bị đám đông cuốn đi. Hãy dành ít nhất hai giờ, và nếu có thời gian, dạo bước sang Vườn Mikhailovsky ngay bên cạnh.",
+    "highlights_vi": [
+      "Do Hoàng đế Nikolai II lập năm 1895 (mở cửa 1898) — bảo tàng nghệ thuật quốc gia đầu tiên của Nga.",
+      "Toà nhà chính là Cung điện Mikhailovsky, kiệt tác tân cổ điển của Carlo Rossi (1819–1825).",
+      "Sở hữu hơn 400.000 tác phẩm, gồm 'Con sóng thứ chín' (Aivazovsky) và 'Ngày cuối cùng của Pompeii' (Bryullov)."
+    ],
+    "practical": {
+      "hours_vi": "Thứ 2,4,6,7,CN 10:00–18:00; Thứ 5 13:00–21:00; đóng cửa Thứ Ba.",
+      "ticket_vi": "~500 RUB người lớn (Cung điện Mikhailovsky); sinh viên ~250 RUB; trẻ em miễn phí.",
+      "duration_vi": "2–3 giờ.",
+      "best_time_vi": "Giữa tuần, buổi sáng.",
+      "tips_vi": "Kết hợp dạo Vườn Mikhailovsky kế bên; Thứ Năm mở muộn, ít đông hơn."
+    },
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Russian_museam.JPG",
+    "photo_credit": "Wikimedia Commons",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=30.33222,59.93861&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=59.93861,30.33222"
+    },
+    "official_site": "https://rusmuseum.ru",
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=State%20Russian%20Museum"
+      }
+    ],
+    "tags": [
+      "museum",
+      "art",
+      "indoor"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-15"
+  },
+  {
+    "id": "saint-petersburg-palace-square",
+    "slug": "palace-square",
+    "region": "saint-petersburg",
+    "region_name_vi": "Saint Petersburg",
+    "federal_district": "Thành phố trực thuộc liên bang",
+    "name_vi": "Quảng trường Cung điện (Dvortsovaya)",
+    "name_ru": "Дворцовая площадь",
+    "name_en": "Palace Square",
+    "categories": [
+      "square_street",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 59.939305,
+      "lon": 30.315425
+    },
+    "address_vi": "Quảng trường Cung điện (Dvortsovaya pl.), Saint Petersburg",
+    "rating": {
+      "value": 4.7,
+      "count": 5479,
+      "source": "Tripadvisor",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách mô tả đây là quần thể bề thế phải xem — Cung điện Mùa Đông, Toà nhà Bộ Tổng tham mưu với cổng khải hoàn, và Cột Aleksandr sừng sững — đặc biệt huyền ảo khi lên đèn ban đêm hoặc có nghệ sĩ đường phố. Vài lời chê nhắc đến rào chắn và kiểm tra an ninh khi có sự kiện.",
+    "presentation_short_vi": "Quảng trường trung tâm hoành tráng với Cung điện Mùa Đông, Toà nhà Bộ Tổng tham mưu hình vòng cung và Cột Aleksandr cao 47,5 m — sân khấu của những biến cố lịch sử Nga.",
+    "presentation_long_vi": "Là trái tim nghi lễ của Saint Petersburg, Quảng trường Cung điện (Dvortsovaya Ploshchad) khiến bất kỳ ai lần đầu đặt chân tới cũng phải ngước nhìn. Ba mặt của quảng trường là ba kiệt tác: mặt tiền xanh-trắng của Cung điện Mùa Đông, đường cong hoành tráng của Toà nhà Bộ Tổng tham mưu do Carlo Rossi thiết kế với cổng khải hoàn kép được đội bằng cỗ xe chiến thắng bằng đồng, và ở chính giữa là Cột Aleksandr cao chừng 47,5 mét. Điều kỳ diệu về cây cột: nó chỉ đứng vững nhờ chính trọng lượng khổng lồ của mình, không hề gắn chặt vào bệ. Quảng trường này cũng là nơi lịch sử Nga sang trang — từ vụ thảm sát 'Ngày Chủ nhật đẫm máu' năm 1905 tới cuộc tấn công Cung điện Mùa Đông năm 1917. Ngày nay, không gian rộng lớn ấy là nơi diễn ra hoà nhạc, lễ hội và những nghệ sĩ đường phố; đẹp nhất là khi lên đèn về đêm. Vì đây là quảng trường ngoài trời, bạn có thể ghé bất cứ lúc nào, hoàn toàn miễn phí — điểm khởi đầu hoàn hảo cho hành trình khám phá thành phố.",
+    "highlights_vi": [
+      "Cột Aleksandr ở trung tâm (1830–1834) cao ~47,5 m, chỉ đứng vững nhờ trọng lượng, không gắn vào bệ.",
+      "Chứng kiến nhiều bước ngoặt lịch sử: 'Ngày Chủ nhật đẫm máu' 1905 và cuộc tấn công Cung điện Mùa Đông 1917.",
+      "Được bao quanh bởi Toà nhà Bộ Tổng tham mưu của Carlo Rossi với cổng khải hoàn kép đội cỗ xe nữ thần Chiến thắng."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa 24 giờ (quảng trường ngoài trời).",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "20–45 phút.",
+      "best_time_vi": "Buổi tối khi lên đèn; các dịp lễ hội.",
+      "tips_vi": "Điểm khởi đầu lý tưởng, sát Hermitage; đề phòng rào chắn khi có sự kiện."
+    },
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Palace_Square%2C_Saint_Petersburg%2C_Russia.JPG",
+    "photo_credit": "Wikimedia Commons",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=30.315425,59.939305&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=59.939305,30.315425"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Palace%20Square"
+      }
+    ],
+    "tags": [
+      "square",
+      "free",
+      "outdoor",
+      "landmark",
+      "night",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-15"
+  },
+  {
+    "id": "saint-petersburg-peter-paul-fortress",
+    "slug": "peter-paul-fortress",
+    "region": "saint-petersburg",
+    "region_name_vi": "Saint Petersburg",
+    "federal_district": "Thành phố trực thuộc liên bang",
+    "name_vi": "Pháo đài Petropavlovsk (Thánh Phêrô và Phaolô)",
+    "name_ru": "Петропавловская крепость",
+    "name_en": "Peter and Paul Fortress",
+    "categories": [
+      "fortress",
+      "church"
+    ],
+    "coordinates": {
+      "lat": 59.950191,
+      "lon": 30.316346
+    },
+    "address_vi": "Đảo Zayachy (Zayachy Ostrov), Saint Petersburg",
+    "rating": {
+      "value": 4.4,
+      "count": 5155,
+      "source": "Tripadvisor",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách ca ngợi đây là nơi khai sinh lịch sử của Saint Petersburg — thánh đường mũi nhọn dát vàng với lăng mộ dòng họ Romanov, tầm nhìn sông Neva từ tường thành, và khẩu đại bác trưa. Phàn nàn thường gặp là đông vào mùa cao điểm và hầu hết bảo tàng bên trong đều bán vé riêng.",
+    "presentation_short_vi": "Nơi khai sinh Saint Petersburg (1703), với thánh đường mũi nhọn dát vàng cao 122,5 m — lăng mộ các Sa hoàng — và khẩu đại bác bắn đúng trưa mỗi ngày.",
+    "presentation_long_vi": "Mọi câu chuyện về Saint Petersburg đều bắt đầu từ đây. Ngày 27 tháng 5 năm 1703, Pyotr Đại đế đặt viên đá đầu tiên của Pháo đài Petropavlovsk trên một hòn đảo nhỏ giữa sông Neva — và thành phố ra đời từ khoảnh khắc ấy. Bên trong những bức tường thành, Nhà thờ Petropavlovsk vươn mũi nhọn dát vàng cao 122,5 mét lên bầu trời, từng là công trình cao nhất thành phố; dưới mái vòm là nơi an nghỉ của gần như toàn bộ các hoàng đế Nga từ Pyotr I tới Nikolai II. Pháo đài còn là nhà tù chính trị khét tiếng, từng giam giữ nhiều nhân vật lịch sử. Một truyền thống được du khách yêu thích: đúng 12 giờ trưa mỗi ngày, một khẩu đại bác trên pháo đài Naryshkin khai hoả — nghi thức có từ năm 1873. Dạo bước trên tường thành, bạn sẽ có tầm nhìn tuyệt đẹp ra sông Neva và đường chân trời của trung tâm lịch sử. Khuôn viên pháo đài vào cửa tự do; chỉ các bảo tàng và nhà thờ bên trong mới cần vé. Mùa hè, bãi cát ven thành còn là nơi người dân thành phố ra tắm nắng.",
+    "highlights_vi": [
+      "Pyotr Đại đế khởi dựng ngày 27/5/1703 — đánh dấu nơi khai sinh Saint Petersburg.",
+      "Mũi nhọn Nhà thờ Petropavlovsk cao 122,5 m, là nơi an táng gần như mọi hoàng đế Nga từ Pyotr I đến Nikolai II.",
+      "Khẩu đại bác bắn đúng 12 giờ trưa từ pháo đài Naryshkin, truyền thống có từ năm 1873."
+    ],
+    "practical": {
+      "hours_vi": "Khuôn viên ~09:30–20:00 (miễn phí); bảo tàng Thứ 5–Thứ 3 10:00–18:00, đóng cửa Thứ Tư.",
+      "ticket_vi": "Khuôn viên miễn phí; vé combo các bảo tàng ~750 RUB.",
+      "duration_vi": "2–3 giờ.",
+      "best_time_vi": "Gần trưa để xem bắn đại bác; mùa hè.",
+      "tips_vi": "Vào khuôn viên miễn phí; canh 12h trưa xem đại bác; vé nhà thờ và bảo tàng mua riêng."
+    },
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/PeterandPaulFortress2.JPG",
+    "photo_credit": "Wikimedia Commons",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=30.316346,59.950191&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=59.950191,30.316346"
+    },
+    "official_site": "https://www.spbmuseum.ru",
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Peter%20and%20Paul%20Fortress"
+      }
+    ],
+    "tags": [
+      "fortress",
+      "church",
+      "outdoor",
+      "viewpoint",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-15"
+  },
+  {
+    "id": "saint-petersburg-palace-bridge",
+    "slug": "palace-bridge",
+    "region": "saint-petersburg",
+    "region_name_vi": "Saint Petersburg",
+    "federal_district": "Thành phố trực thuộc liên bang",
+    "name_vi": "Cầu Cung điện (Dvortsovy Most)",
+    "name_ru": "Дворцовый мост",
+    "name_en": "Palace Bridge",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 59.941149,
+      "lon": 30.308105
+    },
+    "address_vi": "Cầu Cung điện, bắc qua sông Neva, Saint Petersburg",
+    "rating": {
+      "value": 4.7,
+      "count": 1658,
+      "source": "Tripadvisor",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách mê mẩn cảnh nâng nhịp cầu về đêm mùa Đêm Trắng, đặc biệt góc nhìn mũi nhọn Nhà thờ Petropavlovsk lọt giữa hai cánh cầu, và xem đây là trải nghiệm phải thử. Điểm chê: ban ngày cầu khá đơn giản, và giờ nâng cầu đôi khi khó nắm chính xác nên nhiều người lỡ.",
+    "presentation_short_vi": "Cây cầu bập bênh biểu tượng của Đêm Trắng — khi các nhịp cầu nâng lên trong đêm, mũi nhọn Nhà thờ Petropavlovsk hiện ra giữa khung cầu như một tấm bưu thiếp.",
+    "presentation_long_vi": "Ban ngày, Cầu Cung điện (Dvortsovy Most) trông khá giản dị. Nhưng khi màn đêm buông xuống mùa Đêm Trắng, nó biến thành ngôi sao của cả thành phố. Được hãng Batignolles của Pháp xây dựng trong các năm 1912–1916, đây là cầu bập bênh (bascule) năm nhịp dài khoảng 260 mét bắc qua sông Neva. Trong mùa thông thuyền (khoảng cuối tháng Tư đến tháng Mười Một), vào rạng sáng mỗi đêm, hai cánh cầu trung tâm từ từ nâng lên để tàu lớn đi qua — và chính khoảnh khắc ấy tạo nên bức ảnh kinh điển của Saint Petersburg: mũi nhọn dát vàng của Nhà thờ Petropavlovsk lọt gọn giữa hai cánh cầu dựng đứng, in bóng trên nền trời không bao giờ tối hẳn. Hàng nghìn người tụ về hai bờ kè, hoà cùng nhạc và tiếng trầm trồ, chỉ để chứng kiến vài phút kỳ diệu ấy. Hãy tra kỹ lịch nâng cầu (thường quanh 01:10 và 03:10) vì giờ giấc có thể thay đổi, và chọn chỗ đứng phía bờ Cung điện Mùa Đông để có góc nhìn đẹp nhất. Một chuyến du thuyền đêm cũng là cách tuyệt vời để ngắm cầu mở.",
+    "highlights_vi": [
+      "Xây 1912–1916 bởi hãng Batignolles (Pháp), thông xe năm 1916.",
+      "Cầu bập bênh 5 nhịp, dài ~260 m, rộng 27,8 m bắc qua sông Neva.",
+      "Hai nhịp nâng lên, ôm lấy mũi nhọn Nhà thờ Petropavlovsk, là biểu tượng của Đêm Trắng."
+    ],
+    "practical": {
+      "hours_vi": "Đi lại 24/7; nâng cầu ban đêm mùa thông thuyền (cuối T4–T11), khoảng 01:10–02:50 và 03:10–04:55.",
+      "ticket_vi": "Miễn phí (cầu công cộng).",
+      "duration_vi": "15–30 phút (tới ~1 giờ nếu xem nâng cầu).",
+      "best_time_vi": "Rạng sáng mùa Đêm Trắng (tháng 6–7).",
+      "tips_vi": "Tra lịch nâng cầu trong đêm; đứng phía bờ Cung điện Mùa Đông; cân nhắc du thuyền đêm."
+    },
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Petersburg%20Palace%20Bridge%20IMG%205789%201280.jpg",
+    "photo_credit": "Wikimedia Commons",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=30.308105,59.941149&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=59.941149,30.308105"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Palace%20Bridge"
+      }
+    ],
+    "tags": [
+      "bridge",
+      "free",
+      "outdoor",
+      "night",
+      "landmark",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-15"
+  },
+  {
+    "id": "saint-petersburg-bronze-horseman",
+    "slug": "bronze-horseman",
+    "region": "saint-petersburg",
+    "region_name_vi": "Saint Petersburg",
+    "federal_district": "Thành phố trực thuộc liên bang",
+    "name_vi": "Kỵ sĩ Đồng (Medny Vsadnik)",
+    "name_ru": "Медный всадник",
+    "name_en": "The Bronze Horseman",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 59.936424,
+      "lon": 30.302245
+    },
+    "address_vi": "Quảng trường Thượng viện (Senatskaya pl.), Saint Petersburg",
+    "rating": {
+      "value": 4.5,
+      "count": 1394,
+      "source": "Tripadvisor",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách thán phục dáng tượng đầy kịch tính và tính biểu tượng, đặc biệt ấn tượng với bệ đá 'Tảng đá Sấm' khổng lồ và câu chuyện di chuyển nó. Nhiều người lưu ý đây là điểm dừng ngắn (dưới 1 giờ), hợp nhất khi đi cùng Nhà thờ Thánh Isaac và Quảng trường Thượng viện.",
+    "presentation_short_vi": "Tượng đài Pyotr Đại đế cưỡi ngựa trên 'Tảng đá Sấm' khổng lồ — nguồn cảm hứng cho bài thơ nổi tiếng của Pushkin, đứng uy nghi trên Quảng trường Thượng viện.",
+    "presentation_long_vi": "Trên Quảng trường Thượng viện, hướng ánh nhìn ra sông Neva, Pyotr Đại đế ghì cương con tuấn mã đang chồm lên — đó là Kỵ sĩ Đồng (Medny Vsadnik), một trong những tượng đài nổi tiếng nhất nước Nga. Do nhà điêu khắc người Pháp Étienne-Maurice Falconet thực hiện và khánh thành năm 1782 theo lệnh Ekaterina Đại đế, bức tượng khắc hoạ vị hoàng đế như người khai sáng, dẫn dắt nước Nga vươn tới tương lai. Nhưng kỳ công lớn nhất lại nằm ở phần bệ: 'Tảng đá Sấm', được cho là khối đá lớn nhất từng được con người di chuyển — ban đầu nặng chừng 1.500 tấn, được kéo suốt khoảng 6 km từ vùng Lakhta về đây. Bức tượng đã đi vào văn chương bất hủ qua bài thơ 'Kỵ sĩ Đồng' (1833) của Aleksandr Pushkin, và sống sót qua 900 ngày vây hãm Leningrad nhờ được che chắn bằng bao cát. Đây là điểm dừng ngắn nhưng đầy sức nặng lịch sử — hãy kết hợp với Nhà thờ Thánh Isaac và Quảng trường Thượng viện ngay bên cạnh trong một buổi tản bộ.",
+    "highlights_vi": [
+      "Do Ekaterina Đại đế đặt làm, nhà điêu khắc Étienne-Maurice Falconet thực hiện, khánh thành 1782.",
+      "Bệ tượng 'Tảng đá Sấm' được xem là khối đá lớn nhất từng được con người di chuyển (~1.500 tấn, kéo ~6 km).",
+      "Là nguồn cảm hứng cho bài thơ 'Kỵ sĩ Đồng' (1833) của Pushkin; sống sót qua cuộc vây hãm Leningrad."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa 24 giờ (tượng đài ngoài trời trên Quảng trường Thượng viện).",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "15–30 phút.",
+      "best_time_vi": "Buổi sáng ít người để chụp ảnh; kết hợp tản bộ quanh Thánh Isaac.",
+      "tips_vi": "Đi cùng Nhà thờ Thánh Isaac gần đó; buổi sáng vắng hơn."
+    },
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Bronze%20Horseman%20IMG%202908.JPG",
+    "photo_credit": "Wikimedia Commons",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=30.302245,59.936424&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=59.936424,30.302245"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=The%20Bronze%20Horseman"
+      }
+    ],
+    "tags": [
+      "monument",
+      "free",
+      "outdoor",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-15"
+  },
+  {
+    "id": "saint-petersburg-nevsky-prospect",
+    "slug": "nevsky-prospect",
+    "region": "saint-petersburg",
+    "region_name_vi": "Saint Petersburg",
+    "federal_district": "Thành phố trực thuộc liên bang",
+    "name_vi": "Đại lộ Nevsky (Nevsky Prospekt)",
+    "name_ru": "Невский проспект",
+    "name_en": "Nevsky Prospect",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 59.935944,
+      "lon": 30.324097
+    },
+    "address_vi": "Đại lộ Nevsky (Nevsky Prospekt), Saint Petersburg",
+    "rating": {
+      "value": 4.5,
+      "count": 4730,
+      "source": "Tripadvisor",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách yêu kiến trúc bề thế, không khí sôi động và vô số cửa hàng, quán cà phê, nhà thờ, thắng cảnh dọc Nevsky, gọi đây là trái tim rực rỡ của thành phố, đặc biệt khi tản bộ buổi tối lúc lên đèn. Phàn nàn chính là quá đông giờ cao điểm và đôi khi vướng công trình trùng tu mặt tiền.",
+    "presentation_short_vi": "Đại lộ chính dài ~4,5 km — trái tim sôi động của thành phố với kiến trúc tráng lệ, nhà thờ, cửa hàng và quán cà phê; nơi tản bộ lý tưởng cả ngày lẫn đêm.",
+    "presentation_long_vi": "Nếu Saint Petersburg có một mạch máu chính, thì đó là Đại lộ Nevsky (Nevsky Prospekt). Được quy hoạch từ năm 1712 và mang tên hoàng thân trung cổ Aleksandr Nevsky, đại lộ dài khoảng 4,5 km này là nơi thành phố phô diễn trọn vẹn sự tráng lệ của mình. Dạo bước dọc Nevsky, bạn lần lượt đi qua Nhà thờ Kazan với hàng cột bán nguyệt, Nhà Singer (Nhà Sách) với mái vòm thuỷ tinh, Cung điện Stroganov theo phong cách Baroque và khu thương xá cổ Gostiny Dvor. Đây cũng là con phố đầu tiên ở Nga được thắp đèn đường bằng đèn dầu vào năm 1723. Nevsky từng in dấu trong những trang văn của Gogol và Dostoevsky, và đến nay vẫn không ngừng nhộn nhịp: cửa hàng, quán cà phê, hiệu sách, nghệ sĩ đường phố và dòng người bất tận. Ban ngày là nhịp sống thương mại hối hả; buổi tối, khi các mặt tiền lịch sử lên đèn, đại lộ khoác lên vẻ lãng mạn khó cưỡng. Hãy dành ít nhất hai đến ba giờ thong dong, sà vào một quán cà phê, và để thành phố tự kể câu chuyện của nó.",
+    "highlights_vi": [
+      "Đại lộ dài ~4,5 km, quy hoạch từ năm 1712, mang tên hoàng thân Aleksandr Nevsky.",
+      "Năm 1723 trở thành con phố đầu tiên ở Nga có đèn đường (đèn dầu).",
+      "Nối liền loạt thắng cảnh: Nhà thờ Kazan, Nhà Singer, Cung điện Stroganov, Gostiny Dvor; xuất hiện trong văn Gogol và Dostoevsky."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa 24 giờ (đường phố công cộng).",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "2–3 giờ (tản bộ, khám phá).",
+      "best_time_vi": "Buổi tối khi lên đèn; mùa hè.",
+      "tips_vi": "Đi bộ là tốt nhất; kết hợp ghé Kazan, Nhà Singer; cẩn thận móc túi chỗ đông."
+    },
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Nevsky%20Prospect%2C%20St.%20Petersburg%2C%20Russia.jpg",
+    "photo_credit": "Wikimedia Commons",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=30.324097,59.935944&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=59.935944,30.324097"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Nevsky%20Prospect"
+      }
+    ],
+    "tags": [
+      "street",
+      "free",
+      "outdoor",
+      "shopping",
+      "night"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-15"
+  },
+  {
+    "id": "saint-petersburg-kunstkamera",
+    "slug": "kunstkamera",
+    "region": "saint-petersburg",
+    "region_name_vi": "Saint Petersburg",
+    "federal_district": "Thành phố trực thuộc liên bang",
+    "name_vi": "Bảo tàng Kunstkamera (Nhân học & Dân tộc học)",
+    "name_ru": "Кунсткамера",
+    "name_en": "Kunstkamera",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 59.941545,
+      "lon": 30.304488
+    },
+    "address_vi": "Bờ kè Đại học 3 (Universitetskaya nab., 3), Saint Petersburg",
+    "rating": {
+      "value": 3.7,
+      "count": 835,
+      "source": "Tripadvisor",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách trân trọng bộ sưu tập dân tộc học đồ sộ và độc đáo, nhất là 'tủ kỳ vật' của Pyotr Đại đế với các tiêu bản giải phẫu (dù phản ứng trái chiều). Phàn nàn: đông đúc, bố cục chật và khó theo, hướng dẫn viên vội, và hụt hẫng khi khu tiêu bản đóng cửa trùng tu.",
+    "presentation_short_vi": "Bảo tàng công cộng đầu tiên của Nga (1714), nổi tiếng với 'tủ kỳ vật' của Pyotr Đại đế và các tiêu bản giải phẫu — kỳ lạ nhưng đầy mê hoặc.",
+    "presentation_long_vi": "Được Pyotr Đại đế sáng lập năm 1714, Kunstkamera là bảo tàng công cộng đầu tiên của nước Nga — và cũng là một trong những nơi kỳ lạ nhất Saint Petersburg. Nằm bên bờ sông Neva với tháp xanh đặc trưng (từng là đài thiên văn đầu tiên của Nga), bảo tàng lưu giữ gần hai triệu hiện vật dân tộc học từ khắp các châu lục. Nhưng thứ khiến Kunstkamera nổi danh — và gây tranh cãi — chính là 'tủ kỳ vật' của Pyotr: bộ sưu tập các tiêu bản giải phẫu và dị dạng mà vị hoàng đế mua lại từ nhà giải phẫu Hà Lan Frederik Ruysch và nhà tự nhiên học Albertus Seba. Pyotr tin rằng trưng bày những điều kỳ lạ sẽ giúp dân chúng bớt mê tín và cởi mở với khoa học. Ngày nay, phản ứng của du khách khá trái chiều: người thấy hấp dẫn, người thấy rùng mình. Ngoài khu tiêu bản, các gian trưng bày về văn hoá Nhật Bản, châu Phi, châu Mỹ và quả địa cầu Gottorp khổng lồ cũng rất đáng xem. Nếu đi cùng trẻ nhỏ hoặc dễ nhạy cảm, hãy cân nhắc trước khi vào khu giải phẫu.",
+    "highlights_vi": [
+      "Pyotr Đại đế lập năm 1714 — bảo tàng công cộng đầu tiên của nước Nga.",
+      "Nổi tiếng với 'tủ kỳ vật' gồm tiêu bản giải phẫu mua từ Frederik Ruysch và Albertus Seba.",
+      "Sưu tập gần 2 triệu hiện vật; tháp bảo tàng từng là đài thiên văn đầu tiên của Nga và chứa quả địa cầu Gottorp."
+    ],
+    "practical": {
+      "hours_vi": "Thứ Ba–CN 11:00–18:00; đóng cửa Thứ Hai.",
+      "ticket_vi": "Người lớn ~300–400 RUB; sinh viên/trẻ em ~100 RUB.",
+      "duration_vi": "1,5–2 giờ.",
+      "best_time_vi": "Giữa tuần buổi sáng.",
+      "tips_vi": "Cân nhắc nếu đi cùng trẻ nhỏ; kiểm tra khu giải phẫu có mở không trước khi đến."
+    },
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Petersburg%20Kunstkamera%20from%20Neva.jpg",
+    "photo_credit": "Wikimedia Commons",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=30.304488,59.941545&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=59.941545,30.304488"
+    },
+    "official_site": "https://www.kunstkamera.ru",
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Kunstkamera"
+      }
+    ],
+    "tags": [
+      "museum",
+      "indoor",
+      "unusual"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-15"
+  },
+  {
+    "id": "saint-petersburg-summer-garden",
+    "slug": "summer-garden",
+    "region": "saint-petersburg",
+    "region_name_vi": "Saint Petersburg",
+    "federal_district": "Thành phố trực thuộc liên bang",
+    "name_vi": "Vườn Mùa Hè (Letny Sad)",
+    "name_ru": "Летний сад",
+    "name_en": "Summer Garden",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 59.944908,
+      "lon": 30.335553
+    },
+    "address_vi": "Vườn Mùa Hè (Letny Sad), bên sông Neva/Fontanka, Saint Petersburg",
+    "rating": {
+      "value": 4.5,
+      "count": 886,
+      "source": "Tripadvisor",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách khen khu vườn là chốn nghỉ chân tĩnh lặng, thanh lịch giữa trung tâm, với lối đi rợp cây, đài phun nước, hồ thiên nga và hàng tượng cẩm thạch (nay là bản sao). Điểm chê: đợt trùng tu thêm nhiều hàng rào khiến vài người thấy đổi nét cổ kính, đôi khi đài phun nước không chạy.",
+    "presentation_short_vi": "Khu vườn cổ nhất Saint Petersburg (1704), do Pyotr Đại đế tự tay lên ý tưởng — những lối đi rợp bóng cây, đài phun nước, hồ thiên nga và hàng tượng cẩm thạch.",
+    "presentation_long_vi": "Giữa lòng thành phố sôi động, Vườn Mùa Hè (Letny Sad) là một ốc đảo thanh bình được chính Pyotr Đại đế lên ý tưởng từ năm 1704 — một trong những khu vườn lâu đời nhất Saint Petersburg. Được thiết kế theo phong cách vườn Pháp cổ điển với những lối đi thẳng tắp rợp bóng cây, vườn từng được điểm tô bằng khoảng một trăm bức tượng cẩm thạch Venice. Ngày nay, khoảng 90 bản gốc được cất giữ trong nhà để bảo quản, thay bằng các bản sao ngoài trời, nhưng vẻ duyên dáng thì vẫn nguyên vẹn: đài phun nước róc rách, những hồ nước có thiên nga bơi lượn, và hàng rào sắt rèn tinh xảo dọc bờ Neva mà nữ thi sĩ Anna Akhmatova từng ngợi ca. Đây cũng là nơi đặt tượng đài nhà thơ ngụ ngôn Ivan Krylov — tượng đài dành cho một nhà thơ đầu tiên ở Đông Âu. Vườn đóng cửa suốt tháng Tư mỗi năm để bảo dưỡng, nên hãy tránh thời điểm ấy. Một buổi chiều thong dong ở đây, với một cuốn sách hoặc một cây kem, là cách hoàn hảo để nghỉ chân giữa hành trình khám phá.",
+    "highlights_vi": [
+      "Lên ý tưởng bởi Pyotr Đại đế từ năm 1704 — một trong những khu vườn lâu đời nhất Saint Petersburg.",
+      "Từng có khoảng 100 tượng cẩm thạch Venice; nay ~90 bản gốc cất trong nhà, ngoài trời là bản sao.",
+      "Hàng rào sắt rèn bên sông Neva được Anna Akhmatova ngợi ca; có tượng đài nhà thơ Ivan Krylov."
+    ],
+    "practical": {
+      "hours_vi": "1/5–30/9: 10:00–22:00; 1/10–31/3: 10:00–20:00; đóng cửa Thứ Ba và cả tháng Tư.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "1–1,5 giờ.",
+      "best_time_vi": "Mùa hè, buổi chiều; tránh tháng Tư (đóng cửa).",
+      "tips_vi": "Tránh tháng Tư; kết hợp dạo bờ sông Neva; mang theo sách hoặc kem để nghỉ chân."
+    },
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Letniy%20Sad.jpg",
+    "photo_credit": "Wikimedia Commons",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=30.335553,59.944908&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=59.944908,30.335553"
+    },
+    "official_site": "https://igardens.ru",
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Summer%20Garden"
+      }
+    ],
+    "tags": [
+      "park",
+      "free",
+      "outdoor",
+      "relax"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-15"
+  },
+  {
+    "id": "saint-petersburg-peterhof",
+    "slug": "peterhof",
+  

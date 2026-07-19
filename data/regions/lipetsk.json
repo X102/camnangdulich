@@ -1,0 +1,439 @@
+[
+  {
+    "id": "lipetsk-yelets-town",
+    "slug": "yelets-town",
+    "region": "lipetsk",
+    "region_name_vi": "Tỉnh Lipetsk",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Thị trấn cổ Yelets (Ê-lét)",
+    "name_ru": "Елец",
+    "name_en": "Yelets Historic Town",
+    "categories": [
+      "square_street",
+      "church",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 52.6224,
+      "lon": 38.5019
+    },
+    "address_vi": "Trung tâm lịch sử Yelets, tỉnh Lipetsk, Nga (cách thành phố Lipetsk khoảng 78 km về phía tây)",
+    "rating": {
+      "value": 4.5,
+      "count": 13,
+      "source": "Tripadvisor",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách yêu thích bầu không khí cổ kính, yên bình và kiến trúc được gìn giữ tốt của khu phố trung tâm. Một số ý kiến cho rằng cơ sở hạ tầng du lịch còn khiêm tốn và đường sá đôi chỗ xuống cấp, nhưng phần lớn đều xem đây là điểm dừng chân đáng giá.",
+    "presentation_short_vi": "Yelets là một trong những thị trấn cổ nhất nước Nga, được nhắc đến lần đầu năm 1146. Khu phố cổ với những dãy nhà thương gia thế kỷ 19, mái vòm nhà thờ và các con phố lát đá tạo nên một bảo tàng kiến trúc ngoài trời hiếm có.",
+    "presentation_long_vi": "Nằm bên bờ sông Bystraya Sosna ở tỉnh Lipetsk, Yelets là một trong những đô thị lâu đời nhất của nước Nga, xuất hiện trong sử sách từ năm 1146 như một tiền đồn của các công tước Ryazan. Trải qua nhiều thế kỷ chống chọi với các cuộc xâm lăng của quân Mông Cổ, Timur và Tatar, thị trấn hồi sinh mạnh mẽ vào thế kỷ 19 để trở thành trung tâm buôn bán sầm uất của cả vùng. Chính thời kỳ vàng son ấy đã để lại cho Yelets một khu phố cổ gần như nguyên vẹn: những ngôi nhà thương gia bằng gạch đỏ, các cửa hiệu, xưởng thủ công và hàng chục nhà thờ Chính thống với mái vòm hành củ vươn lên nền trời. Dạo bước trên phố đi bộ Mira hay Quảng trường Đỏ, du khách như lạc vào một nước Nga tỉnh lẻ của thế kỷ trước. Yelets còn nổi tiếng với nghề ren tinh xảo và từng gắn bó với những danh nhân như văn hào Ivan Bunin và nhạc sĩ Tikhon Khrennikov. Không ồn ào như các thành phố lớn, nơi đây quyến rũ bằng nhịp sống chậm rãi, những góc phố mộc mạc và bầu không khí đậm chất hoài niệm, rất đáng để dành trọn một ngày khám phá.",
+    "highlights_vi": [
+      "Khu phố cổ và phố đi bộ Mira với kiến trúc nhà thương gia thế kỷ 19 gần như nguyên vẹn",
+      "Quần thể nhà thờ Chính thống, nổi bật là Nhà thờ chính tòa Thăng Thiên đồ sộ",
+      "Nghề ren truyền thống Yelets cùng các bảo tàng địa phương (bảo tàng làng nghề, nhà lưu niệm Bunin)"
+    ],
+    "practical": {
+      "hours_vi": "Khu phố cổ mở tự do suốt ngày; các bảo tàng thường mở khoảng 10:00–18:00 và nghỉ thứ Hai.",
+      "ticket_vi": "Miễn phí dạo phố; vé vào các bảo tàng khoảng 100–250 RUB.",
+      "duration_vi": "Khoảng 3–5 giờ, có thể trọn một ngày.",
+      "best_time_vi": "Cuối xuân đến đầu thu (tháng 5–9), thời tiết dễ chịu cho việc đi bộ.",
+      "tips_vi": "Mang giày thoải mái để đi trên phố lát đá; kết hợp thăm Nhà thờ Thăng Thiên và mua ren Yelets làm quà."
+    },
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Ascension%20Cathedral%20in%20Yelets.jpg",
+    "photo_credit": "Wikimedia Commons",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=38.5019,52.6224&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=52.6224,38.5019"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Yelets%20Historic%20Town"
+      }
+    ],
+    "tags": [
+      "town",
+      "history",
+      "architecture",
+      "old-town",
+      "churches",
+      "lace"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-16"
+  },
+  {
+    "id": "lipetsk-zadonsk-nativity-monastery",
+    "slug": "zadonsk-nativity-monastery",
+    "region": "lipetsk",
+    "region_name_vi": "Tỉnh Lipetsk",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Tu viện Sinh Nhật Đức Mẹ Zadonsk (Za-đôn-xki)",
+    "name_ru": "Задонский Рождество-Богородицкий монастырь",
+    "name_en": "Zadonsk Nativity-of-the-Mother-of-God Monastery",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 52.3924,
+      "lon": 38.916
+    },
+    "address_vi": "Ул. Коммуны 14, thành phố Zadonsk, tỉnh Lipetsk, Nga (bên tả ngạn sông Đông)",
+    "rating": {
+      "value": 4.7,
+      "count": 93,
+      "source": "Tripadvisor",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Khách tham quan trầm trồ trước những mái vòm xanh - vàng, khuôn viên sạch sẽ và bầu không khí an lành. Nhiều người khen bánh và kvass của tu viện; một số ít nhận xét nơi này khá đông vào dịp lễ và không quá đặc sắc nếu chỉ ghé ngang.",
+    "presentation_short_vi": "Được lập từ năm 1610, Tu viện Sinh Nhật Đức Mẹ ở Zadonsk là một trong những trung tâm hành hương Chính thống giáo lớn nhất miền trung nước Nga. Nơi đây gắn liền với Thánh Tikhon xứ Zadonsk và nổi bật với Nhà thờ Vladimir hoành tráng cùng tháp chuông cao 82 mét.",
+    "presentation_long_vi": "Bên tả ngạn sông Đông thanh bình, Tu viện Sinh Nhật Đức Mẹ Zadonsk hiện lên như một thành phố trắng - lam với những mái vòm vàng lấp lánh. Được hai tu sĩ Kirill và Gerasim sáng lập năm 1610, tu viện trở nên nổi tiếng khắp nước Nga khi Thánh Tikhon xứ Zadonsk - một trong những vị thánh được tôn kính nhất của Chính thống giáo Nga - lui về đây sống những năm cuối đời (1769–1783). Ngày nay, quần thể gồm bảy ngôi thánh đường được trùng tu công phu, trong đó trung tâm là Nhà thờ Vladimir đồ sộ hoàn thành năm 1853, được ví như bản thu nhỏ của Nhà thờ Chúa Cứu Thế ở Moskva. Tháp chuông cao 82 mét vươn lên giữa khuôn viên rợp hoa, còn nguồn nước thánh và các sản vật của tu viện như bánh ngọt, kvass thu hút đông đảo khách hành hương. Mỗi năm hàng vạn tín đồ và du khách tìm đến đây để chiêm bái xá lợi Thánh Tikhon, cầu nguyện và tìm sự tĩnh lặng. Dù đôi lúc đông đúc vào các dịp lễ lớn, tu viện vẫn giữ được vẻ trang nghiêm, thanh sạch và bầu không khí tâm linh sâu lắng đặc trưng của các đan viện Nga.",
+    "highlights_vi": [
+      "Nhà thờ Vladimir đồ sộ - phiên bản thu nhỏ của Nhà thờ Chúa Cứu Thế ở Moskva",
+      "Xá lợi Thánh Tikhon xứ Zadonsk và nguồn nước thánh linh thiêng",
+      "Tháp chuông cao 82 mét cùng vườn hoa và các sản vật tu viện (bánh, kvass)"
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa hằng ngày cho khách hành hương; các buổi lễ bắt đầu từ khoảng 6:00 sáng, kinh chiều lúc 17:00.",
+      "ticket_vi": "Miễn phí vào cửa (có thể quyên góp tùy tâm).",
+      "duration_vi": "Khoảng 1–2 giờ.",
+      "best_time_vi": "Mùa ấm (tháng 5–9); chủ động sắp xếp nếu ngại đông vào các đại lễ (lễ Thánh Tikhon ngày 26/8).",
+      "tips_vi": "Ăn mặc kín đáo, nữ nên mang khăn trùm đầu; đừng bỏ lỡ bánh và kvass tu viện, mang chai để lấy nước thánh."
+    },
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Church%20of%20Our%20Lady%20of%20Vladimir%20%28Zadonsk%29.JPG",
+    "photo_credit": "Wikimedia Commons",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=38.916,52.3924&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=52.3924,38.916"
+    },
+    "official_site": "https://zadonsk-monastyr.ru",
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Zadonsk%20Nativity-of-the-Mother-of-God%20Monastery"
+      }
+    ],
+    "tags": [
+      "monastery",
+      "orthodox",
+      "pilgrimage",
+      "religion",
+      "architecture",
+      "bell-tower"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-16"
+  },
+  {
+    "id": "lipetsk-kudykina-gora-safari-park",
+    "slug": "kudykina-gora-safari-park",
+    "region": "lipetsk",
+    "region_name_vi": "Tỉnh Lipetsk",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Công viên Safari Kudykina Gora (Cu-đư-ki-na Go-ra)",
+    "name_ru": "Парк «Кудыкина гора»",
+    "name_en": "Kudykina Gora Safari Park",
+    "categories": [
+      "park_garden",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 52.367845,
+      "lon": 38.771867
+    },
+    "address_vi": "Làng Kamenka, huyện Zadonsky, tỉnh Lipetsk, Nga (bên bờ sông Đông, cách Lipetsk khoảng 75 km)",
+    "rating": {
+      "value": 4.2,
+      "count": 257,
+      "source": "Tripadvisor",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách khen công viên rộng rãi, sạch đẹp, vào cửa miễn phí và rất hợp cho gia đình có trẻ nhỏ, đặc biệt là màn rồng phun lửa. Một số phàn nàn về chất lượng đồ ăn, dịch vụ lưu trú và đường vào còn xấu, cùng cảm giác các hoạt động bị cắt giảm dần theo thời gian.",
+    "presentation_short_vi": "Kudykina Gora là công viên safari - giải trí rộng khoảng 500 ha bên bờ sông Đông, nổi tiếng khắp nước Nga nhờ bức tượng rồng ba đầu Zmey Gorynych cao 15 mét biết phun lửa. Đây là điểm đến lý tưởng cho gia đình với vườn thú, thành lũy gỗ và vô số hoạt động ngoài trời.",
+    "presentation_long_vi": "Mở cửa năm 2007, Kudykina Gora nhanh chóng trở thành thắng cảnh được yêu thích bậc nhất tỉnh Lipetsk. Trải rộng khoảng 500 ha trên triền đồi bên sông Đông, công viên là sự pha trộn độc đáo giữa thiên nhiên, văn hóa dân gian Slav và khu vui chơi gia đình. Ngôi sao của công viên là Zmey Gorynych - con rồng ba đầu trong cổ tích Nga - được tạc thành bức tượng khổng lồ cao 15 mét; vào cuối tuần và ngày lễ lúc 19:00, cả ba cái đầu rồng gầm vang và phun ra những cột lửa thật khiến du khách trầm trồ. Bên cạnh đó là thành lũy gỗ kiểu Scythia, ngựa gỗ thành Troy, hồ nước nhân tạo với suối nguồn tự nhiên, khu vui chơi trẻ em thuộc hàng lớn nhất vùng và một vườn thú nuôi thả lạc đà, đà điểu, trâu, kangaroo, công cùng nhiều loài khác trong điều kiện gần với tự nhiên. Vào cửa công viên miễn phí, du khách chỉ trả tiền cho một số trò chơi và dịch vụ. Không gian thoáng đãng, nhiều lối đi bộ và bãi đỗ xe rộng khiến nơi đây phù hợp để dành trọn một ngày dã ngoại, đặc biệt với các gia đình có trẻ nhỏ.",
+    "highlights_vi": [
+      "Tượng rồng ba đầu Zmey Gorynych cao 15 mét phun lửa vào cuối tuần và ngày lễ (19:00)",
+      "Vườn thú nuôi thả (lạc đà, đà điểu, kangaroo, trâu, công...) và thành lũy gỗ kiểu Scythia",
+      "Khu vui chơi trẻ em rộng lớn, trường cưỡi ngựa và nhiều hoạt động dã ngoại gia đình"
+    ],
+    "practical": {
+      "hours_vi": "Công viên mở cửa hằng ngày, thường khoảng 10:00–20:00 (màn rồng phun lửa cuối tuần và ngày lễ lúc 19:00).",
+      "ticket_vi": "Vào cửa miễn phí; một số trò chơi và dịch vụ tính phí (ví dụ vào 'lâu đài' khoảng 200 RUB).",
+      "duration_vi": "Nửa ngày đến trọn một ngày (khoảng 3–6 giờ).",
+      "best_time_vi": "Cuối tuần và ngày lễ mùa ấm (tháng 5–9) để xem rồng phun lửa; nên đến sớm để tránh hết chỗ và hết đồ ăn.",
+      "tips_vi": "Mang theo tiền mặt, đồ ăn nhẹ và nước; đi giày thể thao vì phải đi bộ nhiều, canh giờ 19:00 để xem rồng phun lửa."
+    },
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Zmei%20Gorinich%20%28colour%20fixed%29.jpg",
+    "photo_credit": "Wikimedia Commons",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=38.771867,52.367845&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=52.367845,38.771867"
+    },
+    "official_site": "https://kudikina-gora.org",
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Kudykina%20Gora%20Safari%20Park"
+      }
+    ],
+    "tags": [
+      "safari-park",
+      "dragon",
+      "family",
+      "sculpture",
+      "animals",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-16"
+  },
+  {
+    "id": "lipetsk-galichya-gora-reserve",
+    "slug": "galichya-gora-reserve",
+    "region": "lipetsk",
+    "region_name_vi": "Tỉnh Lipetsk",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Khu bảo tồn thiên nhiên Galichya Gora (Ga-lít-cha Go-ra)",
+    "name_ru": "Галичья гора",
+    "name_en": "Galichya Gora Nature Reserve",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 52.60139,
+      "lon": 38.92833
+    },
+    "address_vi": "Làng Donskoye, huyện Zadonsky, tỉnh Lipetsk, Nga (bên bờ sông Đông)",
+    "rating": {
+      "value": 4.2,
+      "count": 44,
+      "source": "Tripadvisor",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Khách tham quan đánh giá cao khung cảnh thiên nhiên đẹp, vách đá bên sông Đông và giá trị khoa học độc đáo của khu bảo tồn. Một số cho biết khu vực khá nhỏ và ít tiện ích, nên phù hợp nhất với người thực sự yêu thiên nhiên và chim muông.",
+    "presentation_short_vi": "Galichya Gora được xem là khu bảo tồn thiên nhiên nhỏ nhất thế giới, với khu lõi ban đầu chỉ khoảng 19 hecta bên bờ sông Đông. Nơi đây nổi tiếng nhờ hệ thực vật độc đáo với nhiều loài hiếm còn sót lại từ kỷ băng hà, mọc trên các vách đá vôi.",
+    "presentation_long_vi": "Nằm bên hữu ngạn sông Đông, Galichya Gora đi vào lịch sử khoa học như khu bảo tồn thiên nhiên nhỏ nhất thế giới: khu lõi ban đầu được thành lập năm 1925 chỉ rộng khoảng 19 hecta. Điều khiến mảnh đất tí hon này trở nên quý giá là hệ thực vật kỳ lạ mọc trên các vách đá vôi - nơi cư ngụ của hàng loạt loài cây hiếm, trong đó có những hóa thạch sống sót lại từ thời kỳ băng hà và các loài vốn chỉ gặp ở vùng núi xa xôi. Sự tương phản sinh thái độc đáo ấy đã thu hút giới thực vật học từ đầu thế kỷ 20, và ngày nay khu bảo tồn do Đại học Tổng hợp Voronezh quản lý, mở rộng thành nhiều mảnh rải rác với tổng diện tích khoảng 230 hecta. Bên cạnh giá trị khoa học, Galichya Gora còn hấp dẫn bởi phong cảnh: những vách đá dựng đứng nhìn xuống khúc sông uốn lượn, đồng cỏ thảo nguyên xen rừng và một trạm nghiên cứu chim săn mồi nổi tiếng. Du khách có thể ghé bảo tàng thiên nhiên nhỏ, tìm hiểu về các loài chim ưng, đại bàng được nuôi dưỡng và thả về tự nhiên. Đây là điểm đến lý tưởng cho những ai yêu thiên nhiên, khoa học và muốn tránh xa đám đông.",
+    "highlights_vi": [
+      "Danh hiệu khu bảo tồn thiên nhiên nhỏ nhất thế giới (khu lõi chỉ khoảng 19 ha)",
+      "Hệ thực vật hiếm trên vách đá vôi, gồm nhiều loài sót lại từ kỷ băng hà",
+      "Trạm nghiên cứu và phục hồi các loài chim săn mồi (chim ưng, đại bàng)"
+    ],
+    "practical": {
+      "hours_vi": "Bảo tàng và trạm chim săn mồi thường mở khoảng 9:00–17:00; nên liên hệ trước vì đây là khu bảo tồn khoa học.",
+      "ticket_vi": "Phí tham quan/hướng dẫn tượng trưng, khoảng 100–200 RUB (một số khu vực cần đăng ký trước).",
+      "duration_vi": "Khoảng 1–2 giờ.",
+      "best_time_vi": "Cuối xuân đến đầu hè (tháng 5–6) khi hoa cỏ nở rộ trên vách đá.",
+      "tips_vi": "Nên đi cùng hướng dẫn viên để hiểu giá trị thực vật; mang giày bám tốt vì địa hình đá dốc, kết hợp thăm vách đá Vorgol gần đó."
+    },
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%92%D0%B8%D0%B4%20%D0%B7%D0%B0%20%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA%20%D0%93%D0%B0%D0%BB%D0%B8%D1%87%D1%8C%D1%8F%20%D0%93%D0%BE%D1%80%D0%B0.%20%D0%A1%D0%BA%D0%B0%D0%BB%D1%8B.jpg",
+    "photo_credit": "Wikimedia Commons",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=38.92833,52.60139&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=52.60139,38.92833"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Galichya%20Gora%20Nature%20Reserve"
+      }
+    ],
+    "tags": [
+      "nature-reserve",
+      "botany",
+      "flora",
+      "science",
+      "raptors",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-16"
+  },
+  {
+    "id": "lipetsk-ascension-cathedral-yelets",
+    "slug": "ascension-cathedral-yelets",
+    "region": "lipetsk",
+    "region_name_vi": "Tỉnh Lipetsk",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Nhà thờ chính tòa Thăng Thiên, Yelets (Vô-dơ-nhe-xen-xki)",
+    "name_ru": "Вознесенский собор (Елец)",
+    "name_en": "Ascension Cathedral, Yelets",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 52.624444,
+      "lon": 38.505556
+    },
+    "address_vi": "Quảng trường Đỏ (Красная площадь) 1, thành phố Yelets, tỉnh Lipetsk, Nga",
+    "rating": {
+      "value": 4.9,
+      "count": 80,
+      "source": "Tripadvisor",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách gần như nhất trí ca ngợi vẻ tráng lệ cả bên ngoài lẫn bên trong của nhà thờ, xếp hạng đây là một trong những điểm đẹp nhất Yelets. Nhiều người ấn tượng với các biểu tượng thêu đính hạt cườm và tầm vóc đồ sộ của công trình.",
+    "presentation_short_vi": "Nhà thờ chính tòa Thăng Thiên là biểu tượng của Yelets, do kiến trúc sư danh tiếng Konstantin Ton thiết kế và xây dựng suốt 44 năm (1845–1889). Với chiều cao 74 mét và năm mái vòm hành củ, đây là một trong những thánh đường ấn tượng nhất cả vùng.",
+    "presentation_long_vi": "Sừng sững trên Quảng trường Đỏ ở trung tâm Yelets, Nhà thờ chính tòa Thăng Thiên là công trình tôn giáo lớn nhất và là biểu tượng không thể nhầm lẫn của thị trấn. Nhà thờ được thiết kế bởi Konstantin Ton - vị kiến trúc sư cung đình từng dựng nên Nhà thờ Chúa Cứu Thế ở Moskva - theo phong cách Nga - Byzantine đặc trưng: một khối lập phương đồ sộ đội năm mái vòm hành củ trên các tháp trống bát giác, điểm xuyết những vòm cong kokoshnik và hoa văn Nga truyền thống. Công trình được khởi công năm 1845 và phải mất tới 44 năm mới hoàn thành, đến năm 1889 mới được cung hiến. Với chiều cao 74 mét tính cả thánh giá, mái vòm nhà thờ vươn cao trên nền trời và có thể nhìn thấy từ tận cây cầu đường sắt bắc qua sông. Bên trong, du khách choáng ngợp trước không gian trang trí lộng lẫy: những bức bích họa, bộ khung tượng thánh dát vàng và các biểu tượng được thêu đính hạt cườm tinh xảo. Từng bị đóng cửa trong thời Xô Viết (1934–1947), nhà thờ nay đã được phục hồi và trở thành nhà thờ chính tòa của giáo phận. Đây là điểm dừng chân gần như bắt buộc với bất kỳ ai ghé thăm Yelets.",
+    "highlights_vi": [
+      "Kiến trúc Nga - Byzantine của Konstantin Ton, cao 74 mét với năm mái vòm hành củ",
+      "Nội thất lộng lẫy với bích họa và khung tượng thánh dát vàng, đính hạt cườm",
+      "Vị trí trung tâm trên Quảng trường Đỏ, có thể nhìn thấy từ xa qua sông"
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa hằng ngày, thường khoảng 7:00–19:00 theo giờ lễ (sáng và chiều).",
+      "ticket_vi": "Miễn phí vào cửa (khuyến khích quyên góp).",
+      "duration_vi": "Khoảng 30–45 phút.",
+      "best_time_vi": "Buổi sáng khi ánh nắng chiếu vào mặt tiền; đẹp quanh năm.",
+      "tips_vi": "Ăn mặc kín đáo, nữ nên trùm khăn; giữ yên lặng và xin phép trước khi chụp ảnh bên trong."
+    },
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%95%D0%BB%D0%B5%D1%86%2C%20%D0%92%D0%BE%D0%B7%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D0%B1%D0%BE%D1%80%2C%20%D0%B1%D1%8B%D0%BB%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%20%D0%B2%201889%20%D0%B3%D0%BE%D0%B4%D1%83.%20-%20panoramio%20%281%29.jpg",
+    "photo_credit": "Wikimedia Commons",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=38.505556,52.624444&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=52.624444,38.505556"
+    },
+    "official_site": "https://sobor-elec.cerkov.ru",
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Ascension%20Cathedral%2C%20Yelets"
+      }
+    ],
+    "tags": [
+      "cathedral",
+      "orthodox",
+      "architecture",
+      "ton",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-16"
+  },
+  {
+    "id": "lipetsk-nizhny-park-lipetsk",
+    "slug": "nizhny-park-lipetsk",
+    "region": "lipetsk",
+    "region_name_vi": "Tỉnh Lipetsk",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Công viên Hạ (Nizhny Park), Lipetsk (Ni-giơ-nưi)",
+    "name_ru": "Нижний парк",
+    "name_en": "Nizhny Park (Lipetsk spa resort)",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 52.606226,
+      "lon": 39.600779
+    },
+    "address_vi": "Петровский проезд 2, thành phố Lipetsk, tỉnh Lipetsk, Nga",
+    "rating": {
+      "value": 4.1,
+      "count": 151,
+      "source": "Tripadvisor",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách yêu thích không gian rộng, nhiều cây xanh, lối đi đẹp và tiện ích đa dạng cho mọi lứa tuổi. Một số nhận xét rằng vài trò chơi còn cũ kỹ từ thời Xô Viết và cần nâng cấp, song các đánh giá gần đây ghi nhận công viên đang được cải tạo tích cực.",
+    "presentation_short_vi": "Công viên Hạ là công viên lâu đời và nổi tiếng nhất Lipetsk, ra đời từ năm 1805 khi Sa hoàng Aleksandr I cho lập khu điều dưỡng nước khoáng tại đây. Ngày nay đây là lá phổi xanh rộng lớn giữa lòng thành phố với suối khoáng, vườn thú, đài phun nước và nhiều trò chơi giải trí.",
+    "presentation_long_vi": "Trải dài trong trung tâm Lipetsk, Công viên Hạ (Nizhny Park) là trái tim xanh và cũng là cái nôi của thành phố với tư cách một khu nghỉ dưỡng suối khoáng. Nguồn gốc của công viên gắn với những hồ nước phục vụ các xưởng luyện sắt thời Pyotr Đại đế; đến năm 1805, Sa hoàng Aleksandr I ban sắc lệnh thành lập khu điều dưỡng nước khoáng Lipetsk ngay tại đây, biến nơi này thành một trong những khu spa lâu đời nhất nước Nga. Một khu vườn kiểu Anh được tạo lập, cùng tòa nhà hành chính do kiến trúc sư lừng danh Voronikhin thiết kế vẫn còn đến ngày nay. Trải qua hơn hai thế kỷ, công viên không ngừng được bồi đắp: đèn điện từ năm 1891, nhà hát, sàn nhảy, sân trượt băng, và đặc biệt là Vườn thú Lipetsk mở năm 1973. Du khách có thể dạo bước dưới những tán cây rợp bóng, ngắm đài phun nước, ghé quầy uống nước khoáng (byuvet), thăm vườn thú, chèo thuyền trên hồ có đàn vịt, hay cho trẻ chơi các trò giải trí. Ba khẩu đại bác gang gợi nhớ về các xưởng đúc của Pyotr Đại đế, còn dòng suối khoáng - từng được chính nhà vua ghé thăm - vẫn tuôn chảy. Vào cửa miễn phí, đây là nơi thư giãn quen thuộc của cả người dân địa phương lẫn khách phương xa.",
+    "highlights_vi": [
+      "Suối nước khoáng và quầy byuvet - di sản của khu điều dưỡng lâu đời từ năm 1805",
+      "Vườn thú Lipetsk cùng đài phun nước, hồ nước và khu trò chơi giải trí",
+      "Không gian xanh rộng lớn với cây cổ thụ và các di tích như ba khẩu đại bác gang thời Pyotr Đại đế"
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa hằng ngày, khoảng 10:00–22:00 (cuối tuần và ngày lễ đến 23:00).",
+      "ticket_vi": "Vào cửa miễn phí; các trò chơi và vườn thú tính phí riêng.",
+      "duration_vi": "Khoảng 2–4 giờ.",
+      "best_time_vi": "Mùa hè ấm áp (tháng 6–8) khi đài phun nước và các trò chơi hoạt động đầy đủ.",
+      "tips_vi": "Mang chai để nếm nước khoáng ở quầy byuvet; chuẩn bị tiền lẻ cho các trò chơi và kết hợp dạo bộ dọc bờ hồ."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=39.600779,52.606226&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=52.606226,39.600779"
+    },
+    "official_site": "https://parki48.ru",
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Nizhny%20Park%20%28Lipetsk%20spa%20resort%29"
+      }
+    ],
+    "tags": [
+      "park",
+      "spa",
+      "mineral-water",
+      "zoo",
+      "family",
+      "promenade"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-16"
+  },
+  {
+    "id": "lipetsk-vorgol-rocks",
+    "slug": "vorgol-rocks",
+    "region": "lipetsk",
+    "region_name_vi": "Tỉnh Lipetsk",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Vách đá Vorgol (Vo-rơ-gôn)",
+    "name_ru": "Воргольские скалы",
+    "name_en": "Vorgol Rocks",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 52.575278,
+      "lon": 38.352222
+    },
+    "address_vi": "Gần làng Nizhny Vorgol, huyện Yeletsky, tỉnh Lipetsk, Nga (cách Yelets khoảng 12–15 km)",
+    "rating": {
+      "value": 4.6,
+      "count": 71,
+      "source": "Tripadvisor",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách mô tả nơi đây đẹp như tranh, hùng vĩ đến bất ngờ và rất đáng để cắm trại qua đêm ngắm bình minh. Nhiều người lưu ý địa hình trơn trượt, nhiều khe nứt nên cần đi lại thận trọng, đặc biệt với trẻ em.",
+    "presentation_short_vi": "Vách đá Vorgol là quần thể vách đá vôi dựng đứng cao tới 20 mét bên dòng sông Vorgol, cách Yelets khoảng 15 km. Cảnh quan hùng vĩ hiếm thấy ở vùng đồng bằng này khiến nơi đây trở thành thiên đường cho dân leo núi, cắm trại và nhiếp ảnh.",
+    "presentation_long_vi": "Giữa vùng thảo nguyên bằng phẳng của tỉnh Lipetsk, Vách đá Vorgol hiện lên như một điều bất ngờ của tạo hóa: những bức tường đá vôi dựng đứng cao 15–20 mét soi bóng xuống dòng sông Vorgol quanh co. Thuộc phạm vi khu bảo tồn Galichya Gora, nơi đây không chỉ đẹp mà còn quý về sinh thái, với hệ thực vật hiếm bám trên các mỏm đá - di sản còn sót lại từ thời kỳ băng hà. Những khối đá lớn mang tên gọi dân dã như 'Đá Quạ' (Voronov Kamen) từ lâu đã là điểm hẹn của giới leo núi thể thao, với hơn ba mươi tuyến leo đủ độ khó. Bên cạnh leo núi, du khách còn có thể đu dây zipline, cắm trại, dã ngoại hay chèo thuyền trên sông. Vào bình minh và hoàng hôn, ánh nắng nhuộm vàng vách đá tạo nên khung cảnh nên thơ mà nhiều người mê mẩn, tiếc nuối vì chưa mang lều để ở lại qua đêm. Vì địa hình đá dốc, nhiều khe nứt và dễ trơn trượt, du khách cần di chuyển cẩn thận, nhất là khi trời mưa. Không mất phí vào cửa và luôn rộng mở, Vorgol là điểm đến tuyệt vời cho những ai yêu thiên nhiên hoang sơ và các hoạt động ngoài trời.",
+    "highlights_vi": [
+      "Vách đá vôi dựng đứng cao tới 20 mét bên sông Vorgol - cảnh quan hiếm có ở vùng đồng bằng",
+      "Thiên đường leo núi thể thao với hơn 30 tuyến leo, cùng zipline và cắm trại",
+      "Khung cảnh bình minh, hoàng hôn nên thơ và hệ thực vật quý thuộc khu bảo tồn Galichya Gora"
+    ],
+    "practical": {
+      "hours_vi": "Khu vực thiên nhiên mở tự do suốt ngày, không có cổng soát vé.",
+      "ticket_vi": "Miễn phí (một số dịch vụ như zipline tính phí, khoảng 1.500 RUB).",
+      "duration_vi": "Khoảng 2–4 giờ (có thể cắm trại qua đêm).",
+      "best_time_vi": "Cuối xuân đến đầu thu, chọn ngày khô ráo vì đá trơn khi ẩm ướt.",
+      "tips_vi": "Đi giày bám tốt, cẩn thận ở mép vách đá và khe nứt; mang theo nước, đồ ăn và lều nếu muốn ngắm bình minh."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=38.352222,52.575278&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=52.575278,38.352222"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Vorgol%20Rocks"
+      }
+    ],
+    "tags": [
+      "rocks",
+      "climbing",
+      "nature",
+      "scenic",
+      "hiking",
+      "camping"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-16"
+  }
+]

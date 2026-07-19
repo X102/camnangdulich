@@ -1,0 +1,19 @@
+[Tác vụ định kỳ — CHẠY TRÊN MÁY TÍNH] Mở rộng cơ sở dữ liệu du lịch Nga (tiếng Việt). Xử lý MỘT lô rồi kết thúc. Ưu tiên CHÍNH XÁC hơn số lượng.
+
+Dự án nằm trong thư mục đã kết nối "DU-LICH", ở russia-tourism/ (trong máy: /sessions/*/mnt/DU-LICH/russia-tourism).
+
+BƯỚC 0 — Định vị: chạy Bash `ls /sessions/*/mnt/DU-LICH/russia-tourism`. Nếu KHÔNG thấy thư mục, DỪNG và báo "chưa truy cập được thư mục, bỏ qua lượt này".
+
+BƯỚC 1 — Đọc: russia-tourism/AUTOMATION_GUIDE.md, data/schema.json, _source/progress.json, _source/regions_queue.json, và 2 bản ghi mẫu trong data/regions/saint-petersburg.json (bám cấu trúc + văn phong tiếng Việt).
+
+BƯỚC 2 — Chọn vùng đầu tiên trong regions_queue.json chưa có trong progress.done.
+
+BƯỚC 3 — Xử lý tối đa batch_size địa điểm (mặc định 12). Với mỗi điểm, dùng WebSearch lấy: toạ độ thập phân chính xác (6 số), số sao + số lượng đánh giá + nguồn, tóm tắt bình luận thực tế, giờ/vé/thời lượng, ảnh Wikimedia Special:FilePath (chỉ khi chắc chắn). Tự VIẾT MỚI bằng tiếng Việt: thuyết trình ngắn (2–3 câu) + chi tiết (~180–260 từ), 3 điểm nhấn, mẹo. KHÔNG sao chép sách nguồn. KHÔNG bịa — không tìm được thì để null. status="enriched".
+
+BƯỚC 4 — Ghi vào russia-tourism/data/regions/<slug-vùng>.json (mảng JSON đúng schema; id="<slug-vùng>-<slug-điểm>"; region=slug vùng; maps.yandex/google sinh từ toạ độ; categories theo README). Nếu file đã có thì đọc và nối thêm, tránh trùng id. Dùng Write/Bash thao tác trực tiếp trên thư mục.
+
+BƯỚC 5 — Cập nhật _source/progress.json (thêm slug vào "done" nếu đủ; hoặc "in_progress"). Chạy Bash `cd /sessions/*/mnt/DU-LICH/russia-tourism && python3 tools/build.py`. Nối 1 dòng vào _source/run_log.txt (ngày giờ, vùng, số điểm).
+
+BƯỚC 6 — Báo cáo ngắn: vùng nào, thêm bao nhiêu điểm, còn lại bao nhiêu vùng.
+
+Chỉ xử lý MỘT lô rồi dừng.

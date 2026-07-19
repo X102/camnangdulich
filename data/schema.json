@@ -1,0 +1,70 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Địa điểm du lịch Nga — cấu trúc bản ghi",
+  "description": "Mỗi file data/regions/<slug>.json là MỘT MẢNG các bản ghi theo cấu trúc này. Xem ví dụ thực tế tại data/regions/saint-petersburg.json. Thêm trường mới vẫn an toàn: giao diện đọc trường theo tên nên không vỡ khi bổ sung.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["id", "slug", "region", "name_vi", "categories", "coordinates"],
+    "properties": {
+      "id": { "type": "string", "description": "Định danh duy nhất: <region>-<slug>. Ví dụ: saint-petersburg-hermitage" },
+      "slug": { "type": "string", "description": "Định danh ngắn trong vùng, không dấu, dùng gạch nối" },
+      "region": { "type": "string", "description": "Slug vùng, trùng tên file. Ví dụ: saint-petersburg" },
+      "region_name_vi": { "type": "string" },
+      "federal_district": { "type": "string", "description": "Vùng liên bang (VI). Ví dụ: Vùng Tây Bắc" },
+      "name_vi": { "type": "string", "description": "Tên tiếng Việt (kèm phiên âm)" },
+      "name_ru": { "type": "string" },
+      "name_en": { "type": "string" },
+      "categories": {
+        "type": "array",
+        "description": "Danh sách slug loại hình. Bảng loại: museum, palace, church, fortress, monument, park_garden, bridge, square_street, theatre, other",
+        "items": { "type": "string" }
+      },
+      "coordinates": {
+        "type": "object",
+        "required": ["lat", "lon"],
+        "properties": { "lat": { "type": "number" }, "lon": { "type": "number" } }
+      },
+      "address_vi": { "type": "string" },
+      "rating": {
+        "type": "object",
+        "description": "Đánh giá tổng hợp từ web. Để null nếu không có.",
+        "properties": {
+          "value": { "type": ["number", "null"], "description": "Số sao 0–5" },
+          "count": { "type": ["integer", "null"], "description": "Số lượng đánh giá (xấp xỉ)" },
+          "source": { "type": "string", "description": "Nguồn: Tripadvisor / Google / Yandex" },
+          "as_of": { "type": "string", "description": "Thời điểm ghi nhận, ví dụ 2026-07" }
+        }
+      },
+      "review_summary_vi": { "type": "string", "description": "Tóm tắt bình luận du khách (VI), viết mới từ nhận xét thực tế" },
+      "presentation_short_vi": { "type": "string", "description": "Thuyết trình ngắn 2–3 câu (cho TTS nhanh)" },
+      "presentation_long_vi": { "type": "string", "description": "Thuyết trình chi tiết, hấp dẫn, ~180–260 từ (cho TTS nghe kỹ)" },
+      "highlights_vi": { "type": "array", "items": { "type": "string" }, "description": "3 điểm nhấn/dữ kiện thú vị" },
+      "practical": {
+        "type": "object",
+        "properties": {
+          "hours_vi": { "type": "string" },
+          "ticket_vi": { "type": "string" },
+          "duration_vi": { "type": "string", "description": "Thời lượng tham quan, ví dụ '2–3 giờ' (dùng để ước lượng lịch trình)" },
+          "best_time_vi": { "type": "string" },
+          "tips_vi": { "type": "string" }
+        }
+      },
+      "photo": { "type": ["string", "null"], "description": "URL ảnh (khuyến nghị Wikimedia Special:FilePath, giấy phép tự do). Giao diện có ảnh dự phòng nếu lỗi." },
+      "photo_credit": { "type": ["string", "null"] },
+      "maps": {
+        "type": "object",
+        "description": "Link bản đồ (build.py/seed tự sinh từ toạ độ nếu cần)",
+        "properties": { "yandex": { "type": "string" }, "google": { "type": "string" } }
+      },
+      "official_site": { "type": ["string", "null"] },
+      "sources": {
+        "type": "array",
+        "items": { "type": "object", "properties": { "title": { "type": "string" }, "url": { "type": "string" } } }
+      },
+      "tags": { "type": "array", "items": { "type": "string" }, "description": "Nhãn tự do: free, outdoor, indoor, night, family, viewpoint, daytrip, unesco, top..." },
+      "status": { "type": "string", "enum": ["stub", "enriched", "verified"], "description": "stub=mới tạo; enriched=đã làm giàu tự động; verified=người đã kiểm chứng" },
+      "last_updated": { "type": "string" }
+    }
+  }
+}

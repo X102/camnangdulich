@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Bản đồ GIS &amp; Lập kế hoạch tour · Du lịch Nga</title>
+<link rel="stylesheet" href="assets/vendor/leaflet.css" />
+<link rel="stylesheet" href="assets/vendor/MarkerCluster.css" />
+<link rel="stylesheet" href="assets/vendor/MarkerCluster.Default.css" />
+<link rel="stylesheet" href="assets/app.css" />
+<style>
+  html, body { height: 100%; }
+  .gis-layout { display: flex; height: calc(100vh - 58px); }
+  .sidebar { width: 350px; min-width: 350px; background: #fff; border-right: 1px solid var(--line); overflow-y: auto; }
+  .sidebar .sec { padding: 14px 16px; border-bottom: 1px solid var(--line); }
+  .sidebar h3 { margin: 0 0 10px; font-size: 15px; }
+  .map-wrap { flex: 1; position: relative; }
+  #map { position: absolute; inset: 0; z-index: 1; }
+  .rt-pin .pin {
+    width: 30px; height: 30px; border-radius: 50% 50% 50% 0; transform: rotate(-45deg);
+    border: 2px solid #fff; box-shadow: 0 2px 6px rgba(0,0,0,.4);
+    display: flex; align-items: center; justify-content: center;
+  }
+  .rt-pin .pin span { transform: rotate(45deg); font-size: 14px; }
+  .leaflet-tooltip.rt-label { background: rgba(255,255,255,.92); border: 1px solid var(--line); border-radius: 6px; box-shadow: 0 1px 4px rgba(0,0,0,.2); color: var(--navy); font-weight: 600; font-size: 11.5px; padding: 2px 7px; white-space: nowrap; }
+  .leaflet-tooltip.rt-label:before { display: none; }
+  .leaflet-popup-content { margin: 12px 14px; font-family: inherit; }
+  .pop h4 { margin: 0 0 4px; font-size: 15px; }
+  .pop .sub { color: var(--muted); font-size: 11.5px; margin-bottom: 6px; }
+  .pop .pop-actions { display: flex; gap: 5px; flex-wrap: wrap; margin-top: 8px; }
+  .pop-photo { width: 100%; height: 96px; object-fit: cover; border-radius: 8px; margin-bottom: 6px; background:#22405f; }
+  .fc-row { display: flex; gap: 6px; flex-wrap: wrap; }
+  .fc { cursor: pointer; user-select: none; padding: 4px 9px; border-radius: 999px; border: 1.5px solid var(--line); font-size: 12px; font-weight: 600; color: var(--muted); }
+  .fc.on { color: #fff; border-color: transparent; }
+  .rng { width: 100%; }
+  .tour-item { display: flex; gap: 8px; align-items: flex-start; padding: 7px 0; border-bottom: 1px dashed var(--line); font-size: 13px; }
+  .tour-item .idx { background: var(--navy); color: #fff; width: 22px; height: 22px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 12px; font-weight: 700; flex: 0 0 auto; }
+  .tour-item .day { background: var(--gold); color: #241c05; }
+  .tour-empty { color: var(--muted); font-size: 13px; }
+  .tour-stat { background: #f0f4fa; border-radius: 10px; padding: 8px 10px; font-size: 12.5px; margin: 8px 0; }
+  .detail-panel {
+    position: absolute; top: 0; right: 0; bottom: 0; width: 380px; max-width: 88%;
+    background: #fff; border-left: 1px solid var(--line); box-shadow: -8px 0 24px rgba(0,0,0,.12);
+    z-index: 1200; transform: translateX(100%); transition: .25s; overflow-y: auto; padding: 16px 18px;
+  }
+  .detail-panel.open { transform: translateX(0); }
+  .detail-panel .close { position: absolute; right: 12px; top: 10px; cursor: pointer; font-size: 20px; color: var(--muted); background: none; border: none; }
+  .detail-panel h2 { font-size: 19px; margin: 4px 40px 2px 0; }
+  .detail-panel h4 { margin: 14px 0 4px; font-size: 12px; text-transform: uppercase; letter-spacing: .04em; color: var(--navy); }
+  .mini-legend { position: absolute; left: 10px; bottom: 18px; z-index: 800; background: rgba(255,255,255,.94); border: 1px solid var(--line); border-radius: 10px; padding: 8px 10px; font-size: 11.5px; max-width: 190px; box-shadow: var(--shadow); }
+  .mini-legend .lg { display: flex; align-items: center; gap: 6px; margin: 2px 0; }
+  .mini-legend .sw { width: 12px; height: 12px; border-radius: 3px; }
+  .mobile-toggle { display: none; }
+  @media (max-width: 820px) {
+    .gis-layout { flex-direction: column; height: auto; }
+    .sidebar { width: 100%; min-width: 0; max-height: 46vh; }
+    .map-wrap { height: 64vh; }
+    .detail-panel { width: 100%; }
+  }
+</style>
+</head>
+<body>
+<header class="site-header">
+  <nav class="nav">
+    <a class="brand" href="index.html"><span>🇷🇺 Cẩm nang Du lịch Nga</span><span class="dot">●</span></a>
+    <div class="nav-links">
+      <a href="index.html">Trang chủ</a>
+      <a href="list.html">Danh sách</a>
+      <a href="gis.html" class="active">Bản đồ GIS</a>
+    </div>
+  </nav>
+</header>
+
+<div class="gis-layout">
+  <aside class="sidebar">
+    <div class="sec">
+      <h3>🔎 Lọc địa điểm</h3>
+      <input type="search" id="q" placeholder="Tìm theo tên…" style="width:100%;border:1px solid var(--line);border-radius:10px;padding:8px 12px;font-family:inherit;margin-bottom:10px;" />
+      <select id="region" style="width:100%;border:1px solid var(--line);border-radius:10px;padding:8px 12px;font-family:inherit;margin-bottom:10px;"><option value="">Tất cả vùng</option></select>
+      <div style="font-size:12px;" class="muted">Đánh giá tối thiểu: <b id="starVal">0</b>★</div>
+      <input type="range" id="minStar" class="rng" min="0" max="5" step="0.5" value="0" />
+      <div class="fc-row" id="filterCats" style="margin-top:10px;"></div>
+      <label style="display:flex;align-items:center;gap:7px;font-size:12.5px;margin-top:12px;cursor:pointer;font-weight:600;color:var(--navy);"><input type="checkbox" id="showLabels" style="width:15px;height:15px;cursor:pointer;" /> 🏷️ Hiện tên địa điểm trên bản đồ</label>
+    </div>
+
+    <div class="sec">
+      <h3>🧭 Kế hoạch tour <span class="muted" style="font-weight:400;font-size:12px;">(<span id="tourCount">0</span> điểm)</span></h3>
+      <div id="tourList"><div class="tour-empty">Bấm “➕ Thêm vào tour” trên bản đồ để tạo lịch trình.</div></div>
+      <div id="tourStat"></div>
+      <div style="display:flex;gap:6px;flex-wrap:wrap;margin-top:8px;">
+        <label class="muted" style="font-size:12px;display:flex;align-items:center;gap:4px;">Điểm/ngày
+          <input type="number" id="perDay" min="1" max="10" value="4" style="width:52px;border:1px solid var(--line);border-radius:8px;padding:3px 6px;" />
+        </label>
+      </div>
+      <div style="display:flex;gap:6px;flex-wrap:wrap;margin-top:8px;">
+        <button class="btn sm primary" id="optimize">🧮 Tối ưu lộ trình</button>
+        <button class="btn sm" id="exportCsv">⬇️ Xuất CSV</button>
+        <button class="btn sm" id="copyPlan">📋 Sao chép</button>
+        <button class="btn sm" id="clearTour">🗑️ Xoá</button>
+      </div>
+    </div>
+
+    <div class="sec">
+      <div class="muted" style="font-size:12px;">Tốc độ đọc</div>
+      <input type="range" id="rate" class="rng" min="0.6" max="1.4" step="0.1" value="1" />
+      <button class="btn sm" id="stopAll" style="margin-top:6px;">⏹ Dừng đọc</button>
+    </div>
+  </aside>
+
+  <div class="map-wrap">
+    <div id="map"></div>
+    <div class="mini-legend" id="legend"></div>
+    <div class="detail-panel" id="detailPanel"></div>
+  </div>
+</div>
+
+<script src="assets/vendor/leaflet.js"></script>
+<script src="assets/vendor/leaflet.markercluster.js"></script>
+<script src="assets/common.js"></script>
+<script src="data/bundle.js"></script>
+<script>
+(function () {
+  if (typeof L === "undefined") {
+    document.getElementById("map").innerHTML =
+      '<div style="padding:40px;text-align:center;color:#667085;font-family:sans-serif;">' +
+      '⚠️ Không tải được thư viện bản đồ (Leaflet). Hãy mở lại trang, hoặc dùng trang ' +
+      '<a href="list.html">Danh sách</a> vốn không cần bản đồ.</div>';
+    return;
+  }
+  var places = RT.getPlaces();
+  var meta = RT.getMeta();
+  var activeCats = {};
+  var tour = [];              // mảng id theo thứ tự
+  var markers = {};          // id -> marker
+  var routeLayer = null;
+  var labelsOn = false;      // hiện tên trên bản đồ
+
+  var center = meta.center || [59.93, 30.33];
+  var map = L.map("map", { zoomControl: true }).setView(center, 11);
+  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    maxZoom: 19, attribution: "&copy; OpenStreetMap"
+  }).addTo(map);
+  var cluster = (typeof L.markerClusterGroup === "function")
+    ? L.markerClusterGroup({ maxClusterRadius: 45, spiderfyOnMaxZoom: true })
+    : L.layerGroup();
+  map.addLayer(cluster);
+
+  function makeIcon(p) {
+    var info = RT.catInfo(RT.primaryCat(p));
+    return L.divIcon({
+      className: "rt-pin",
+      html: '<div class="pin" style="background:' + info.color + '"><span>' + info.emoji + "</span></div>",
+      iconSize: [30, 30], iconAnchor: [15, 30], popupAnchor: [0, -30]
+    });
+  }
+
+  function popupHTML(p) {
+    var rt = p.rating || {};
+    var inTour = tour.indexOf(p.id) >= 0;
+    return '<div class="pop">' +
+      (p.photo ? '<img class="pop-photo" src="' + p.photo + '" onerror="this.style.display=\'none\'" />' : '') +
+      '<h4>' + RT.escapeHtml(p.name_vi) + '</h4>' +
+      '<div class="sub">' + RT.escapeHtml(p.name_ru || "") + '</div>' +
+      '<div>' + RT.starHTML(rt.value) + (rt.value != null ? ' <b>' + rt.value + '</b>' : '') +
+        (rt.count != null ? ' <span class="muted">(' + RT.fmtCount(rt.count) + ')</span>' : '') + '</div>' +
+      '<div style="font-size:12.5px;margin-top:6px;">' + RT.escapeHtml(p.presentation_short_vi || "") + '</div>' +
+      '<div class="pop-actions">' +
+        '<button class="btn sm gold" onclick="RTGIS.speak(\'' + p.id + '\')">🔊 Nghe</button>' +
+        '<button class="btn sm" onclick="RTGIS.detail(\'' + p.id + '\')">📖 Chi tiết</button>' +
+        '<button class="btn sm ' + (inTour ? "primary" : "") + '" onclick="RTGIS.toggleTour(\'' + p.id + '\')">' + (inTour ? "✓ Trong tour" : "➕ Thêm vào tour") + '</button>' +
+      '</div>' +
+      '<div class="pop-actions">' +
+        (p.maps && p.maps.yandex ? '<a class="btn sm" href="' + p.maps.yandex + '" target="_blank" rel="noopener">📍 Yandex</a>' : '') +
+        (p.maps && p.maps.google ? '<a class="btn sm" href="' + p.maps.google + '" target="_blank" rel="noopener">🗺️ Google</a>' : '') +
+      '</div>' +
+    '</div>';
+  }
+
+  function visitHours(p) {
+    var t = (p.practical || {}).duration_vi || "";
+    var m = t.match(/(\d+(?:[.,]\d+)?)/);
+    if (!m) return 1.5;
+    var n = parseFloat(m[1].replace(",", "."));
+    if (/phút/.test(t) && !/giờ/.test(t)) return n / 60;
+    return n;
+  }
+
+  function passFilter(p) {
+    var q = (document.getElementById("q").value || "").trim().toLowerCase();
+    var region = document.getElementById("region").value;
+    var minStar = parseFloat(document.getElementById("minStar").value) || 0;
+    var catKeys = Object.keys(activeCats);
+    if (region && p.region !== region) return false;
+    if (minStar && ((p.rating || {}).value || 0) < minStar) return false;
+    if (catKeys.length && !(p.categories || []).some(function (c) { return activeCats[c]; })) return false;
+    if (q) {
+      var hay = [p.name_vi, p.name_ru, p.name_en, p.presentation_short_vi].join(" ").toLowerCase();
+      if (hay.indexOf(q) < 0) return false;
+    }
+    return true;
+  }
+
+  function renderMarkers() {
+    cluster.clearLayers();
+    markers = {};
+    var shown = 0;
+    places.forEach(function (p) {
+      if (!passFilter(p)) return;
+      var m = L.marker([p.coordinates.lat, p.coordinates.lon], { icon: makeIcon(p) });
+      m.bindPopup(popupHTML(p), { minWidth: 240, maxWidth: 260 });
+      if (labelsOn) m.bindTooltip(p.name_vi, { permanent: true, direction: "right", offset: [10, -10], className: "rt-label" });
+      markers[p.id] = m;
+      cluster.addLayer(m);
+      shown++;
+    });
+    return shown;
+  }
+
+  /* ---------- Tour planner ---------- */
+  function tourPlaces() {
+    return tour.map(function (id) { return places.filter(function (p) { return p.id === id; })[0]; }).filter(Boolean);
+  }
+  function renderTour() {
+    document.getElementById("tourCount").textContent = tour.length;
+    var wrap = document.getElementById("tourList");
+    var tp = tourPlaces();
+    if (!tp.length) { wrap.innerHTML = '<div class="tour-empty">Bấm “➕ Thêm vào tour” trên bản đồ để tạo lịch trình.</div>'; document.getElementById("tourStat").innerHTML = ""; drawRoute(); return; }
+    var perDay = Math.max(1, parseInt(document.getElementById("perDay").value) || 4);
+    var html = "";
+    tp.forEach(function (p, i) {
+      var day = Math.floor(i / perDay) + 1;
+      var segd = i > 0 ? RT.haversineKm(
+        { lat: tp[i - 1].coordinates.lat, lon: tp[i - 1].coordinates.lon },
+        { lat: p.coordinates.lat, lon: p.coordinates.lon }).toFixed(1) + " km" : "";
+      html += '<div class="tour-item">' +
+        '<div class="idx' + (i % perDay === 0 ? " day" : "") + '" title="Ngày ' + day + '">' + (i + 1) + '</div>' +
+        '<div style="flex:1;"><div><b>' + RT.escapeHtml(p.name_vi) + '</b></div>' +
+        '<div class="muted" style="font-size:11.5px;">Ngày ' + day + (segd ? ' · cách điểm trước ' + segd : '') + ' · ' + ((p.practical || {}).duration_vi || "") + '</div></div>' +
+        '<button class="btn sm" onclick="RTGIS.toggleTour(\'' + p.id + '\')" title="Bỏ">✕</button>' +
+      '</div>';
+    });
+    wrap.innerHTML = html;
+    var totalKm = RT.routeDistanceKm(tp);
+    var totalVisit = tp.reduce(function (s, p) { return s + visitHours(p); }, 0);
+    var days = Math.ceil(tp.length / perDay);
+    document.getElementById("tourStat").innerHTML =
+      '<div class="tour-stat">🧮 <b>' + tp.length + '</b> điểm · <b>' + days + '</b> ngày · quãng đường (đường chim bay) <b>' + totalKm.toFixed(1) + ' km</b><br>⏱️ Tổng thời gian tham quan ~<b>' + totalVisit.toFixed(1) + ' giờ</b> <span class="muted">(chưa gồm di chuyển)</span></div>';
+    drawRoute();
+  }
+  function drawRoute() {
+    if (routeLayer) { map.removeLayer(routeLayer); routeLayer = null; }
+    var tp = tourPlaces();
+    if (tp.length < 2) return;
+    var perDay = Math.max(1, parseInt(document.getElementById("perDay").value) || 4);
+    var dayColors = ["#1f3a5f", "#c8a24b", "#2E86DE", "#27AE60", "#E74C3C", "#7C5CFC", "#16A085", "#D6409F"];
+    var layers = [];
+    for (var i = 1; i < tp.length; i++) {
+      if (Math.floor(i / perDay) !== Math.floor((i - 1) / perDay)) continue; // không nối giữa 2 ngày
+      var day = Math.floor(i / perDay);
+      layers.push(L.polyline([
+        [tp[i - 1].coordinates.lat, tp[i - 1].coordinates.lon],
+        [tp[i].coordinates.lat, tp[i].coordinates.lon]
+      ], { color: dayColors[day % dayColors.length], weight: 3, opacity: .8, dashArray: "6,6" }));
+    }
+    routeLayer = L.layerGroup(layers).addTo(map);
+  }
+
+  /* ---------- API popup ---------- */
+  window.RTGIS = {
+    speak: function (id) {
+      var p = places.filter(function (x) { return x.id === id; })[0];
+      if (!p) return;
+      if (RT.TTS.activeId === id) { RT.TTS.stop(); return; }
+      RT.TTS.speak(p.presentation_long_vi || p.presentation_short_vi, { id: id });
+    },
+    toggleTour: function (id) {
+      var i = tour.indexOf(id);
+      if (i >= 0) tour.splice(i, 1); else tour.push(id);
+      renderTour();
+      if (markers[id]) markers[id].setPopupContent(popupHTML(places.filter(function (x) { return x.id === id; })[0]));
+    },
+    detail: function (id) {
+      var p = places.filter(function (x) { return x.id === id; })[0];
+      if (!p) return;
+      var pr = p.practical || {};
+      var hl = (p.highlights_vi || []).map(function (h) { return "<li>" + RT.escapeHtml(h) + "</li>"; }).join("");
+      var panel = document.getElementById("detailPanel");
+      panel.innerHTML =
+        '<button class="close" onclick="document.getElementById(\'detailPanel\').classList.remove(\'open\')">✕</button>' +
+        (p.photo ? '<img src="' + p.photo + '" style="width:100%;height:170px;object-fit:cover;border-radius:10px;" onerror="this.style.display=\'none\'"/>' : '') +
+        '<h2>' + RT.escapeHtml(p.name_vi) + '</h2>' +
+        '<div class="muted" style="font-size:12.5px;">' + RT.escapeHtml(p.name_ru || "") + (p.name_en ? " · " + RT.escapeHtml(p.name_en) : "") + '</div>' +
+        '<div style="margin:8px 0;">' + RT.starHTML((p.rating || {}).value) + ((p.rating || {}).value != null ? ' <b>' + p.rating.value + '</b>' : '') +
+          ((p.rating || {}).count != null ? ' <span class="muted">· ' + RT.fmtCount(p.rating.count) + ' đánh giá · ' + RT.escapeHtml(p.rating.source || "") + '</span>' : '') + '</div>' +
+        '<div style="display:flex;gap:6px;flex-wrap:wrap;margin-bottom:8px;">' +
+          '<button class="btn sm gold" onclick="RTGIS.speak(\'' + p.id + '\')">🎧 Nghe chi tiết</button>' +
+          (p.maps && p.maps.yandex ? '<a class="btn sm" href="' + p.maps.yandex + '" target="_blank" rel="noopener">📍 Yandex</a>' : '') +
+          (p.maps && p.maps.google ? '<a class="btn sm" href="' + p.maps.google + '" target="_blank" rel="noopener">🗺️ Google</a>' : '') +
+        '</div>' +
+        '<h4>Thuyết trình chi tiết</h4><p style="font-size:14px;">' + RT.escapeHtml(p.presentation_long_vi || "") + '</p>' +
+        (hl ? '<h4>Điểm nhấn</h4><ul style="font-size:13.5px;">' + hl + '</ul>' : '') +
+        '<h4>Thông tin tham quan</h4><div style="font-size:13.5px;line-height:1.7;">' +
+          (pr.hours_vi ? '<div>🕒 <b>Giờ:</b> ' + RT.escapeHtml(pr.hours_vi) + '</div>' : '') +
+          (pr.ticket_vi ? '<div>🎟️ <b>Vé:</b> ' + RT.escapeHtml(pr.ticket_vi) + '</div>' : '') +
+          (pr.duration_vi ? '<div>⏱️ <b>Thời lượng:</b> ' + RT.escapeHtml(pr.duration_vi) + '</div>' : '') +
+          (pr.best_time_vi ? '<div>🌤️ <b>Thời điểm đẹp:</b> ' + RT.escapeHtml(pr.best_time_vi) + '</div>' : '') +
+          (pr.tips_vi ? '<div>💡 <b>Mẹo:</b> ' + RT.escapeHtml(pr.tips_vi) + '</div>' : '') +
+        '</div>' +
+        (p.review_summary_vi ? '<h4>Tóm tắt bình luận</h4><p style="font-size:13.5px;">' + RT.escapeHtml(p.review_summary_vi) + '</p>' : '') +
+        '<div style="margin-top:10px;"><button class="btn sm primary" onclick="RTGIS.toggleTour(\'' + p.id + '\')">➕ Thêm/bỏ khỏi tour</button></div>';
+      panel.classList.add("open");
+    }
+  };
+
+  /* ---------- Controls ---------- */
+  (function fillRegions() {
+    var sel = document.getElementById("region");
+    (meta.regions || []).forEach(function (r) {
+      var o = document.createElement("option"); o.value = r.slug; o.textContent = r.name_vi + " (" + r.count + ")"; sel.appendChild(o);
+    });
+    if ((meta.regions || []).length < 2) sel.parentNode && (sel.style.display = "none");
+  })();
+  (function fillCats() {
+    var wrap = document.getElementById("filterCats");
+    Object.keys(meta.categories || {}).forEach(function (slug) {
+      var info = RT.catInfo(slug);
+      var el = document.createElement("span");
+      el.className = "fc"; el.textContent = info.emoji + " " + info.vi;
+      el.onclick = function () {
+        if (activeCats[slug]) { delete activeCats[slug]; el.classList.remove("on"); el.style.background = ""; }
+        else { activeCats[slug] = true; el.classList.add("on"); el.style.background = info.color; }
+        renderMarkers();
+      };
+      wrap.appendChild(el);
+    });
+  })();
+  (function legend() {
+    var el = document.getElementById("legend");
+    var used = meta.categories || {};
+    el.innerHTML = "<div style='font-weight:700;margin-bottom:4px;'>Chú giải</div>" +
+      Object.keys(used).map(function (slug) {
+        var i = RT.catInfo(slug);
+        return '<div class="lg"><span class="sw" style="background:' + i.color + '"></span>' + i.vi + "</div>";
+      }).join("");
+  })();
+
+  document.getElementById("q").oninput = renderMarkers;
+  document.getElementById("region").onchange = renderMarkers;
+  document.getElementById("minStar").oninput = function () { document.getElementById("starVal").textContent = this.value; renderMarkers(); };
+  document.getElementById("showLabels").onchange = function () { labelsOn = this.checked; renderMarkers(); };
+  document.getElementById("perDay").oninput = renderTour;
+  document.getElementById("rate").oninput = function () { RT.TTS.setRate(parseFloat(this.value)); };
+  document.getElementById("stopAll").onclick = function () { RT.TTS.stop(); };
+  document.getElementById("optimize").onclick = function () {
+    var tp = tourPlaces();
+    if (tp.length < 2) return;
+    var ordered = RT.nearestRoute(tp, 0);
+    tour = ordered.map(function (p) { return p.id; });
+    renderTour();
+  };
+  document.getElementById("clearTour").onclick = function () { tour = []; renderTour(); };
+  document.getElementById("copyPlan").onclick = function () {
+    var tp = tourPlaces(); if (!tp.length) return;
+    var perDay = Math.max(1, parseInt(document.getElementById("perDay").value) || 4);
+    var lines = ["LỊCH TRÌNH DU LỊCH — Cẩm nang Du lịch Nga", ""];
+    tp.forEach(function (p, i) {
+      if (i % perDay === 0) lines.push("— NGÀY " + (Math.floor(i / perDay) + 1) + " —");
+      lines.push((i + 1) + ". " + p.name_vi + "  [" + ((p.rating || {}).value || "?") + "★] · " + ((p.practical || {}).duration_vi || "") + " · " + (p.maps ? p.maps.google : ""));
+    });
+    lines.push(""); lines.push("Tạo bởi lopmaybay@gmail.com · fb.com/lopmaybay");
+    var txt = lines.join("\n");
+    navigator.clipboard && navigator.clipboard.writeText(txt).then(function () { alert("Đã sao chép lịch trình vào clipboard!"); }, function () { prompt("Sao chép lịch trình:", txt); });
+  };
+  document.getElementById("exportCsv").onclick = function () {
+    var tp = tourPlaces(); if (!tp.length) return;
+    var perDay = Math.max(1, parseInt(document.getElementById("perDay").value) || 4);
+    var rows = [["Ngay", "Thu_tu", "Ten", "Sao", "Thoi_luong", "Gia_ve", "Yandex", "Google", "Lat", "Lon"]];
+    tp.forEach(function (p, i) {
+      rows.push([Math.floor(i / perDay) + 1, i + 1, p.name_vi, (p.rating || {}).value || "",
+        (p.practical || {}).duration_vi || "", (p.practical || {}).ticket_vi || "",
+        (p.maps || {}).yandex || "", (p.maps || {}).google || "", p.coordinates.lat, p.coordinates.lon]);
+    });
+    var csv = "﻿" + rows.map(function (r) { return r.map(function (c) { return '"' + String(c).replace(/"/g, '""') + '"'; }).join(","); }).join("\n");
+    var blob = new Blob([csv], { type: "text/csv;charset=utf-8;" });
+    var a = document.createElement("a"); a.href = URL.createObjectURL(blob); a.download = "lich-trinh-tour.csv"; a.click();
+  };
+
+  var shown = renderMarkers();
+  renderTour();
+  // fit bounds theo dữ liệu
+  try {
+    var bounds = L.latLngBounds(places.map(function (p) { return [p.coordinates.lat, p.coordinates.lon]; }));
+    if (bounds.isValid()) map.fitBounds(bounds.pad(0.15));
+  } catch (e) {}
+})();
+</script>
+</body>
+</html>

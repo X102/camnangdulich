@@ -1,0 +1,38 @@
+[
+  {
+    "id": "<region>-<slug>",
+    "slug": "<slug>",
+    "region": "<region>",
+    "region_name_vi": "<Tên vùng tiếng Việt>",
+    "federal_district": "<Vùng liên bang, ví dụ: Vùng Volga>",
+    "name_vi": "<Tên tiếng Việt (kèm phiên âm)>",
+    "name_ru": "<Название по-русски>",
+    "name_en": "<English name>",
+    "categories": ["museum"],
+    "coordinates": { "lat": 0.0, "lon": 0.0 },
+    "address_vi": "<Địa chỉ>",
+    "rating": { "value": null, "count": null, "source": "Tripadvisor", "as_of": "2026-07" },
+    "review_summary_vi": "<Tóm tắt bình luận du khách, viết mới>",
+    "presentation_short_vi": "<Thuyết trình ngắn 2-3 câu>",
+    "presentation_long_vi": "<Thuyết trình chi tiết ~180-260 từ, hấp dẫn, nguyên bản>",
+    "highlights_vi": ["<điểm nhấn 1>", "<điểm nhấn 2>", "<điểm nhấn 3>"],
+    "practical": {
+      "hours_vi": "<Giờ mở cửa>",
+      "ticket_vi": "<Giá vé / Miễn phí>",
+      "duration_vi": "<ví dụ: 1-2 giờ>",
+      "best_time_vi": "<Thời điểm đẹp nhất>",
+      "tips_vi": "<Mẹo tham quan>"
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=<lon>,<lat>&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=<lat>,<lon>"
+    },
+    "official_site": null,
+    "sources": [{ "title": "Wikipedia (EN)", "url": "<url>" }],
+    "tags": ["outdoor"],
+    "status": "stub",
+    "last_updated": "2026-07-15"
+  }
+]

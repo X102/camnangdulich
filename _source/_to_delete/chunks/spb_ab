@@ -1,0 +1,696 @@
+  "region": "saint-petersburg",
+    "region_name_vi": "Saint Petersburg",
+    "federal_district": "Thành phố trực thuộc liên bang",
+    "name_vi": "Peterhof (Petergof) — Cung điện Lớn & đài phun nước",
+    "name_ru": "Петергоф",
+    "name_en": "Peterhof Grand Palace and Fountains",
+    "categories": [
+      "palace",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 59.884444,
+      "lon": 29.908889
+    },
+    "address_vi": "Petergof, Razvodnaya ul. 2 (cách trung tâm ~30 km về phía tây)",
+    "rating": {
+      "value": 4.7,
+      "count": 12817,
+      "source": "Tripadvisor",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách trầm trồ trước Đại Thác nước và các đài phun mạ vàng ngoạn mục, nội thất cung điện xa hoa và khuôn viên rộng lớn được chăm chút, thường gọi đây là điểm nhấn của chuyến đi. Phàn nàn chính: đông và xếp hàng dài, giá vé cao hơn cho khách nước ngoài, và đồ ăn tại chỗ đắt.",
+    "presentation_short_vi": "'Versailles của nước Nga' — quần thể cung điện và Công viên Hạ với hơn 60 đài phun nước mạ vàng chảy hoàn toàn bằng trọng lực; Di sản Thế giới UNESCO.",
+    "presentation_long_vi": "Được Pyotr Đại đế cho khởi công từ năm 1714 như câu trả lời của nước Nga dành cho Versailles, Peterhof (Petergof) là bản giao hưởng của nước, vàng và quyền lực. Trái tim của quần thể là Đại Thác nước (Grand Cascade) trước Cung điện Lớn: hơn 60 đài phun nước và khoảng 200 pho tượng mạ vàng đổ xuống bậc thang, tất cả vận hành hoàn toàn bằng trọng lực, dẫn nước từ các mạch nguồn cách xa chừng 20 km mà không cần một chiếc máy bơm nào — một kỳ tích thuỷ lực của thế kỷ 18. Đứng giữa làn nước lấp lánh, hướng nhìn chạy dài theo con kênh ra tận Vịnh Phần Lan, bạn sẽ hiểu vì sao du khách gọi đây là điểm nhấn của cả chuyến đi. Bên trong Cung điện Lớn là chuỗi phòng khánh tiết lộng lẫy; ngoài vườn còn có những 'đài phun nước tinh nghịch' bất ngờ phun nước trêu khách. Trong Thế chiến II, Peterhof bị quân Đức chiếm đóng và tàn phá nặng nề, rồi được phục dựng công phu. Hãy đến vào mùa đài phun nước hoạt động (khoảng tháng Năm–Mười) và đi tàu cánh ngầm (hydrofoil) từ trung tâm thành phố để có trải nghiệm trọn vẹn nhất.",
+    "highlights_vi": [
+      "Pyotr Đại đế cho khởi công (từ 1714) như 'Versailles của nước Nga'.",
+      "Đại Thác nước có hơn 60 đài phun và ~200 tượng mạ vàng, chảy hoàn toàn bằng trọng lực từ nguồn cách ~20 km.",
+      "Di sản Thế giới UNESCO; bị tàn phá trong Thế chiến II rồi được phục dựng công phu."
+    ],
+    "practical": {
+      "hours_vi": "Công viên Hạ ~9:00–20:00 (đài phun nước ~T5–T10); Cung điện Lớn ~10:30–19:00, đóng cửa Thứ Hai.",
+      "ticket_vi": "Công viên Hạ ~1.000 RUB; Cung điện Lớn ~1.200 RUB (khách nước ngoài cao hơn); dưới 16 tuổi miễn phí.",
+      "duration_vi": "3–4 giờ (nửa ngày).",
+      "best_time_vi": "Tháng 5–10 khi đài phun nước hoạt động; sáng để tránh đông.",
+      "tips_vi": "Đi tàu cánh ngầm từ trung tâm cho nhanh và đẹp; mua vé trước; canh mùa đài phun nước."
+    },
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Peterhof_-_Grand_Palace_and_Grand_Cascade.jpg",
+    "photo_credit": "Wikimedia Commons",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=29.908889,59.884444&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=59.884444,29.908889"
+    },
+    "official_site": "https://peterhofmuseum.ru",
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Peterhof%20Grand%20Palace%20and%20Fountains"
+      }
+    ],
+    "tags": [
+      "palace",
+      "park",
+      "fountains",
+      "unesco",
+      "outdoor",
+      "top",
+      "daytrip"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-15"
+  },
+  {
+    "id": "saint-petersburg-catherine-palace",
+    "slug": "catherine-palace",
+    "region": "saint-petersburg",
+    "region_name_vi": "Saint Petersburg",
+    "federal_district": "Thành phố trực thuộc liên bang",
+    "name_vi": "Cung điện Ekaterina & Phòng Hổ phách (Tsarskoye Selo)",
+    "name_ru": "Екатерининский дворец",
+    "name_en": "Catherine Palace (Amber Room)",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 59.716111,
+      "lon": 30.395556
+    },
+    "address_vi": "Pushkin (Tsarskoye Selo), Sadovaya ul. 7 (~30 km phía nam)",
+    "rating": {
+      "value": 4.7,
+      "count": 8689,
+      "source": "Tripadvisor",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách choáng ngợp trước mặt tiền Rococo rực rỡ, Đại sảnh dát vàng và trên hết là Phòng Hổ phách được phục dựng — nhiều người gọi là khó quên. Phàn nàn thường gặp: quá đông và phải chờ lâu dù đã đặt vé, và bị hối đi nhanh qua các phòng vì dòng khách đoàn.",
+    "presentation_short_vi": "Cung điện Rococo lộng lẫy ở Tsarskoye Selo với mặt tiền dài hơn 300 m và Phòng Hổ phách huyền thoại — từng bị Đức Quốc xã cướp phá và được phục dựng.",
+    "presentation_long_vi": "Cách trung tâm Saint Petersburg khoảng 30 km, tại thị trấn Pushkin (Tsarskoye Selo), Cung điện Ekaterina hiện ra như một giấc mơ màu xanh và vàng. Được kiến trúc sư Bartolomeo Rastrelli thiết kế lại theo phong cách Rococo và hoàn thành năm 1756, cung điện có mặt tiền dài hơn 300 mét, dát vàng rực rỡ đến mức đương thời bị chê là quá xa hoa. Mang tên Nữ hoàng Ekaterina I, đây từng là hành cung mùa hè của hoàng gia Nga. Chuỗi phòng khánh tiết nối nhau bất tận, đỉnh cao là Đại sảnh dát vàng lộng lẫy. Nhưng viên ngọc thật sự là Phòng Hổ phách (Amber Room) — căn phòng ốp toàn hổ phách và vàng lá được mệnh danh 'kỳ quan thứ tám của thế giới'. Bản gốc bị quân Đức cướp đi trong Thế chiến II và biến mất bí ẩn cho đến nay; những gì bạn chiêm ngưỡng hôm nay là bản phục dựng công phu suốt các năm 1979–2003. Du khách gần như luôn choáng ngợp, dù thường phải chen chân giữa các đoàn khách. Hãy đặt vé trước, đến sớm, và dành thời gian dạo Công viên Ekaterina thơ mộng ngay bên cạnh.",
+    "highlights_vi": [
+      "Cung điện Rococo do Bartolomeo Rastrelli thiết kế lại, hoàn thành 1756, mặt tiền dài hơn 300 m.",
+      "Nổi tiếng với Phòng Hổ phách — bản gốc bị Đức Quốc xã cướp trong Thế chiến II, phục dựng 1979–2003.",
+      "Mang tên Nữ hoàng Ekaterina I; từng là hành cung mùa hè của hoàng gia Nga."
+    ],
+    "practical": {
+      "hours_vi": "Cung điện ~10:00–18:00, đóng cửa Thứ Ba và Thứ Hai cuối tháng; Công viên Ekaterina mở hằng ngày.",
+      "ticket_vi": "Cung điện gồm Phòng Hổ phách ~1.500 RUB; Công viên thu phí nhỏ mùa hè (~150–200 RUB).",
+      "duration_vi": "2–3 giờ.",
+      "best_time_vi": "Sáng sớm, giữa tuần; mùa hè để dạo công viên.",
+      "tips_vi": "Bắt buộc đặt vé trước; đến sớm; kết hợp dạo Công viên Ekaterina."
+    },
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Catherine_Palace_in_Tsarskoe_Selo.jpg",
+    "photo_credit": "Wikimedia Commons",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=30.395556,59.716111&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=59.716111,30.395556"
+    },
+    "official_site": "https://tzar.ru",
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Catherine%20Palace%20%28Amber%20Room%29"
+      }
+    ],
+    "tags": [
+      "palace",
+      "art",
+      "indoor",
+      "top",
+      "daytrip"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-15"
+  },
+  {
+    "id": "saint-petersburg-pavlovsk",
+    "slug": "pavlovsk",
+    "region": "saint-petersburg",
+    "region_name_vi": "Saint Petersburg",
+    "federal_district": "Thành phố trực thuộc liên bang",
+    "name_vi": "Cung điện & Công viên Pavlovsk",
+    "name_ru": "Павловск",
+    "name_en": "Pavlovsk Palace and Park",
+    "categories": [
+      "palace",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 59.685833,
+      "lon": 30.453333
+    },
+    "address_vi": "Pavlovsk, Sadovaya ul. 20 (~30 km phía nam Saint Petersburg)",
+    "rating": {
+      "value": 4.7,
+      "count": 1347,
+      "source": "Tripadvisor",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách yêu Pavlovsk vì nội thất cung điện tao nhã, chừng mực và nhất là công viên phong cảnh kiểu Anh rộng lớn, tĩnh lặng, ít đông hơn hẳn Cung điện Ekaterina gần đó. Điểm chê: phải chờ vào, nhà vệ sinh hạn chế, vài phần cung điện bắt buộc theo tour tiếng Nga, và nhân viên đôi khi chưa niềm nở.",
+    "presentation_short_vi": "Cung điện Palladian thanh nhã của Hoàng đế Pavel I, nằm giữa một trong những công viên phong cảnh kiểu Anh lớn nhất châu Âu (~600 ha) — yên tĩnh hơn hẳn các cung điện lân cận.",
+    "presentation_long_vi": "Nếu Cung điện Ekaterina choáng ngợp bởi sự xa hoa, thì Pavlovsk chinh phục bằng sự thanh nhã và tĩnh lặng. Được kiến trúc sư người Scotland Charles Cameron xây dựng trong các năm 1782–1786 theo phong cách Palladian cho vị hoàng đế tương lai Pavel I và phu nhân Maria Feodorovna, cung điện có nội thất tinh tế, chừng mực — một gu thẩm mỹ cổ điển hiếm thấy. Nhưng điều khiến Pavlovsk thật sự đặc biệt là khu công viên bao quanh: rộng khoảng 600 ha, đây là một trong những công viên phong cảnh kiểu Anh lớn nhất châu Âu, với những dòng suối uốn lượn, cầu đá, đền đài nhỏ và rừng cây trải dài. Du khách yêu Pavlovsk chính vì nó vắng vẻ và thư thái hơn nhiều so với Tsarskoye Selo gần đó — nơi lý tưởng để đi dạo, đạp xe hay đơn giản là hít thở. Trong Thế chiến II, cung điện bị quân Đức chiếm đóng và thiêu rụi chỉ còn khung tường, rồi trở thành một trong những cung điện – bảo tàng Xô Viết đầu tiên được phục dựng hoàn chỉnh sau chiến tranh. Hãy kết hợp Pavlovsk với Tsarskoye Selo trong cùng một ngày, và dành thời gian lang thang trong công viên.",
+    "highlights_vi": [
+      "Xây 1782–1786 bởi kiến trúc sư Scotland Charles Cameron theo phong cách Palladian cho Hoàng đế Pavel I.",
+      "Nằm trong công viên phong cảnh kiểu Anh rộng ~600 ha — một trong những công viên lớn nhất châu Âu.",
+      "Bị thiêu rụi trong Thế chiến II, là một trong những cung điện–bảo tàng Xô Viết đầu tiên được phục dựng."
+    ],
+    "practical": {
+      "hours_vi": "Cung điện ~10:00–18:00 (đóng cửa Thứ Hai đầu tháng, vài phòng đóng Thứ Sáu); công viên mở hằng ngày.",
+      "ticket_vi": "Cung điện ~700–900 RUB; công viên ~100–150 RUB (miễn phí mùa đông).",
+      "duration_vi": "2–4 giờ (cung điện + công viên rộng).",
+      "best_time_vi": "Mùa hè hoặc thu; kết hợp cùng Tsarskoye Selo.",
+      "tips_vi": "Đi cùng ngày với Cung điện Ekaterina; dành thời gian cho công viên; mang giày đi bộ."
+    },
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Pavlovsk_town_Pavlovsk_Palace_IMG_6257_1280.jpg",
+    "photo_credit": "Wikimedia Commons",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=30.453333,59.685833&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=59.685833,30.453333"
+    },
+    "official_site": "https://pavlovskmuseum.ru",
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Pavlovsk%20Palace%20and%20Park"
+      }
+    ],
+    "tags": [
+      "palace",
+      "park",
+      "outdoor",
+      "relax",
+      "daytrip"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-15"
+  },
+  {
+    "id": "saint-petersburg-mariinsky-theatre",
+    "slug": "mariinsky-theatre",
+    "region": "saint-petersburg",
+    "region_name_vi": "Saint Petersburg",
+    "federal_district": "Thành phố trực thuộc liên bang",
+    "name_vi": "Nhà hát Mariinsky",
+    "name_ru": "Мариинский театр",
+    "name_en": "Mariinsky Theatre",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 59.925556,
+      "lon": 30.296111
+    },
+    "address_vi": "Quảng trường Teatralnaya 1 (Teatralnaya pl., 1), Saint Petersburg",
+    "rating": {
+      "value": 4.6,
+      "count": 2164,
+      "source": "Tripadvisor",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Khán giả ca ngợi ballet và opera đẳng cấp thế giới, khán phòng dát vàng lịch sử và không khí trang trọng, nhiều người xem đây là trải nghiệm phải thử. Điểm chê: đôi khi diễn bắt đầu trễ, thỉnh thoảng vấn đề âm thanh dàn nhạc, và xếp hàng an ninh/gửi đồ hoặc chỗ ngồi–vé còn bất tiện.",
+    "presentation_short_vi": "Thánh đường của ballet và opera Nga, nơi ra mắt 'Kẹp hạt dẻ' và 'Người đẹp ngủ trong rừng' của Tchaikovsky — khán phòng dát vàng lộng lẫy, quê nhà của đoàn Mariinsky (Kirov).",
+    "presentation_long_vi": "Với những ai yêu ballet và opera, Nhà hát Mariinsky là một điểm hành hương. Khánh thành năm 1860 theo thiết kế của Alberto Cavos và mang tên Hoàng hậu Maria Aleksandrovna, nhà hát khoác lên mình khán phòng dát vàng, ghế nhung xanh và những chùm đèn lộng lẫy — một khung cảnh cổ điển khiến buổi diễn trở thành sự kiện trọng thể. Đây là nơi lịch sử nghệ thuật Nga được viết nên: các vở 'Kẹp hạt dẻ', 'Người đẹp ngủ trong rừng' của Tchaikovsky và 'Boris Godunov' của Mussorgsky đều ra mắt lần đầu trên sân khấu này. Mariinsky là quê nhà của đoàn ballet và opera lừng danh từng mang tên Kirov thời Xô Viết, nơi những Nureyev, Baryshnikov, Pavlova từng toả sáng. Dưới sự dẫn dắt của nhạc trưởng Valery Gergiev từ năm 1988, nhà hát vươn tầm thế giới, và sân khấu thứ hai hiện đại Mariinsky II mở cửa năm 2013. Hãy đặt vé sớm cho các buổi diễn nổi tiếng, ăn mặc lịch sự, và đến sớm để thưởng thức trọn vẹn không gian. Một đêm ở Mariinsky là trải nghiệm văn hoá khó quên của Saint Petersburg.",
+    "highlights_vi": [
+      "Khánh thành 1860 theo thiết kế Alberto Cavos, mang tên Hoàng hậu Maria Aleksandrovna.",
+      "Nơi ra mắt 'Kẹp hạt dẻ', 'Người đẹp ngủ trong rừng' (Tchaikovsky) và 'Boris Godunov' (Mussorgsky).",
+      "Quê nhà đoàn Mariinsky (Kirov); do nhạc trưởng Valery Gergiev dẫn dắt từ 1988; sân khấu Mariinsky II mở năm 2013."
+    ],
+    "practical": {
+      "hours_vi": "Buổi diễn thường bắt đầu 19:00 (đôi khi có suất matinee); phòng vé ~11:00–19:00.",
+      "ticket_vi": "Tuỳ buổi diễn và chỗ ngồi, khoảng 1.000–8.000+ RUB.",
+      "duration_vi": "~2,5–3 giờ (một buổi diễn).",
+      "best_time_vi": "Mùa diễn (thu–xuân); đặt vé sớm cho vở nổi tiếng.",
+      "tips_vi": "Đặt vé trước qua trang chính thức; ăn mặc lịch sự; đến sớm gửi áo khoác."
+    },
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C_%D0%9C%D0%B0%D1%80%D0%B8%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80%2C_%D1%84%D0%B0%D1%81%D0%B0%D0%B4_%28edited_version%29.jpg",
+    "photo_credit": "Wikimedia Commons",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=30.296111,59.925556&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=59.925556,30.296111"
+    },
+    "official_site": "https://www.mariinsky.ru",
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Mariinsky%20Theatre"
+      }
+    ],
+    "tags": [
+      "theatre",
+      "culture",
+      "indoor",
+      "evening"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-15"
+  },
+  {
+    "id": "saint-petersburg-alexander-nevsky-lavra",
+    "slug": "alexander-nevsky-lavra",
+    "region": "saint-petersburg",
+    "region_name_vi": "Saint Petersburg",
+    "federal_district": "Thành phố trực thuộc liên bang",
+    "name_vi": "Tu viện Aleksandr Nevsky (Lavra)",
+    "name_ru": "Александро-Невская лавра",
+    "name_en": "Alexander Nevsky Lavra",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 59.921111,
+      "lon": 30.388889
+    },
+    "address_vi": "Nab. reki Monastyrki 1 (cuối Đại lộ Nevsky), Saint Petersburg",
+    "rating": {
+      "value": 4.6,
+      "count": 413,
+      "source": "Tripadvisor",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách trân trọng quần thể tu viện thanh bình, giàu tâm linh, Thánh đường Chúa Ba Ngôi tân cổ điển và nghĩa trang danh nhân nơi Dostoevsky, Tchaikovsky an nghỉ. Vài người thấy hơi được ca ngợi quá mức hoặc đang trùng tu nhiều, và lưu ý khuôn viên miễn phí nhưng nghĩa trang lịch sử thu phí.",
+    "presentation_short_vi": "Tu viện Chính thống giáo bậc 'lavra' do Pyotr Đại đế lập năm 1710, với thánh đường Chúa Ba Ngôi tân cổ điển và nghĩa trang nơi Dostoevsky, Tchaikovsky an nghỉ.",
+    "presentation_long_vi": "Ở đầu phía đông của Đại lộ Nevsky, nơi con phố kết thúc, là Tu viện Aleksandr Nevsky — một quần thể tôn giáo thanh tĩnh và giàu chiều sâu tâm linh. Được Pyotr Đại đế sáng lập năm 1710, đây là một trong số ít tu viện ở Nga được phong hàm 'lavra' (bậc cao nhất), danh hiệu nhận từ năm 1797. Trung tâm quần thể là Thánh đường Chúa Ba Ngôi (Troitsky) theo phong cách tân cổ điển do kiến trúc sư Ivan Starov xây dựng (1778–1790), nơi lưu giữ thánh tích của Thánh Aleksandr Nevsky — vị hoàng thân được phong thánh mà cả thành phố mang tên. Nhưng với nhiều du khách, điều cuốn hút nhất là các nghĩa trang danh nhân: tại Nghĩa trang Tikhvin, bạn có thể đứng trước mộ của những tên tuổi vĩ đại nhất văn hoá Nga — Dostoevsky, Tchaikovsky, Rimsky-Korsakov, Glinka và Borodin. Dạo bước giữa những bia mộ nghệ thuật ấy là một trải nghiệm trầm mặc và đầy cảm xúc. Khuôn viên và thánh đường vào cửa tự do; chỉ các nghĩa trang lịch sử mới bán vé. Hãy ăn mặc kín đáo, giữ yên lặng, và đến vào buổi sáng để cảm nhận trọn vẹn sự tĩnh lặng.",
+    "highlights_vi": [
+      "Pyotr Đại đế lập năm 1710; là một trong số ít tu viện mang hàm 'lavra' (từ năm 1797).",
+      "Thánh đường Chúa Ba Ngôi tân cổ điển (1778–1790) của Ivan Starov lưu giữ thánh tích Thánh Aleksandr Nevsky.",
+      "Nghĩa trang Tikhvin là nơi an nghỉ của Dostoevsky, Tchaikovsky, Rimsky-Korsakov, Glinka và Borodin."
+    ],
+    "practical": {
+      "hours_vi": "Khuôn viên & Thánh đường Chúa Ba Ngôi ~6:00–20:00; nghĩa trang bảo tàng ~9:30–18:00.",
+      "ticket_vi": "Khuôn viên và thánh đường miễn phí; Nghĩa trang (Tikhvin/Lazarev) ~300–500 RUB.",
+      "duration_vi": "1–2 giờ.",
+      "best_time_vi": "Buổi sáng để yên tĩnh.",
+      "tips_vi": "Ăn mặc kín đáo, giữ trật tự; mua vé nếu muốn thăm nghĩa trang danh nhân."
+    },
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE-%D0%9D%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B9_%D0%9B%D0%B0%D0%B2%D1%80%D1%8B_06.jpg",
+    "photo_credit": "Wikimedia Commons",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=30.388889,59.921111&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=59.921111,30.388889"
+    },
+    "official_site": "https://lavra.spb.ru",
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Alexander%20Nevsky%20Lavra"
+      }
+    ],
+    "tags": [
+      "church",
+      "free",
+      "outdoor",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-15"
+  },
+  {
+    "id": "saint-petersburg-smolny-cathedral",
+    "slug": "smolny-cathedral",
+    "region": "saint-petersburg",
+    "region_name_vi": "Saint Petersburg",
+    "federal_district": "Thành phố trực thuộc liên bang",
+    "name_vi": "Nhà thờ Smolny",
+    "name_ru": "Смольный собор",
+    "name_en": "Smolny Cathedral",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 59.948611,
+      "lon": 30.395
+    },
+    "address_vi": "Quảng trường Rastrelli 3/1 (ploshchad Rastrelli), Saint Petersburg",
+    "rating": {
+      "value": 4.5,
+      "count": 626,
+      "source": "Tripadvisor",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách trầm trồ trước mặt ngoài Baroque xanh-trắng nổi bật, một trong những kiệt tác của Rastrelli, và nội thất cao sáng, phấn chấn; vào cửa miễn phí được khen nhiều. Điểm chê: đang trùng tu, nội thất có phần trống trải/chưa hoàn thiện so với mặt tiền, và tháp chuông đồ sộ theo dự định ban đầu chưa bao giờ được xây.",
+    "presentation_short_vi": "Kiệt tác Baroque xanh-trắng của Rastrelli, khởi công năm 1748 cho Nữ hoàng Elizaveta — mặt ngoài rực rỡ, nội thất sáng bừng, vào cửa miễn phí.",
+    "presentation_long_vi": "Nổi bật trên nền trời với sắc xanh da trời và trắng tinh khôi, Nhà thờ Smolny là một trong những kiệt tác Baroque của bậc thầy Francesco Bartolomeo Rastrelli — cũng chính là kiến trúc sư của Cung điện Mùa Đông và Cung điện Ekaterina. Khởi công năm 1748 theo lệnh Nữ hoàng Elizaveta (người muốn lui về đây làm nữ tu), công trình có số phận trắc trở: việc xây dựng kéo dài hàng thập kỷ và chỉ hoàn tất vào khoảng năm 1835 dưới bàn tay kiến trúc sư Vasily Stasov. Tháp chuông trung tâm cao chừng 140 mét mà Rastrelli dự định dựng lên rốt cuộc không bao giờ thành hình vì thiếu kinh phí — nếu hoàn thành, nó đã là công trình cao nhất Saint Petersburg. Bên ngoài lộng lẫy bao nhiêu thì bên trong lại giản dị và tràn ngập ánh sáng bấy nhiêu, tạo cảm giác cao vút, thanh thoát. Sau thời gian dài được dùng làm phòng hoà nhạc, nhà thờ đã được tái thánh hiến cho hoạt động tôn giáo Chính thống giáo trong thập niên 2010. Vào cửa miễn phí; hãy đến vào ngày nắng để chiêm ngưỡng sắc xanh-trắng rực rỡ nhất, và cân nhắc leo lên đài quan sát trên tháp chuông để ngắm thành phố.",
+    "highlights_vi": [
+      "Kiệt tác Baroque của Francesco Bartolomeo Rastrelli, khởi công năm 1748 cho Nữ hoàng Elizaveta.",
+      "Việc xây dựng kéo dài hàng chục năm, chỉ hoàn tất khoảng năm 1835 bởi Vasily Stasov.",
+      "Tháp chuông dự định cao ~140 m chưa từng được xây vì thiếu kinh phí; nhà thờ được tái thánh hiến trong thập niên 2010."
+    ],
+    "practical": {
+      "hours_vi": "Hằng ngày ~7:00–20:00 (nay là thánh đường Chính thống đang hoạt động).",
+      "ticket_vi": "Vào cửa miễn phí (hoan nghênh quyên góp); đài quan sát tháp chuông ~200–360 RUB.",
+      "duration_vi": "30–60 phút.",
+      "best_time_vi": "Ngày nắng để ngắm sắc xanh-trắng; buổi sáng.",
+      "tips_vi": "Vào cửa miễn phí; cân nhắc leo tháp chuông ngắm cảnh; ăn mặc kín đáo."
+    },
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Smolny_Convent.jpg",
+    "photo_credit": "Wikimedia Commons",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=30.395,59.948611&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=59.948611,30.395"
+    },
+    "official_site": "https://smolnyspb.ru",
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Smolny%20Cathedral"
+      }
+    ],
+    "tags": [
+      "church",
+      "free",
+      "landmark",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-15"
+  },
+  {
+    "id": "saint-petersburg-yusupov-palace",
+    "slug": "yusupov-palace",
+    "region": "saint-petersburg",
+    "region_name_vi": "Saint Petersburg",
+    "federal_district": "Thành phố trực thuộc liên bang",
+    "name_vi": "Cung điện Yusupov (Iu-xu-pốp) bên sông Moika",
+    "name_ru": "Юсуповский дворец (на Мойке)",
+    "name_en": "Yusupov Palace on the Moika",
+    "categories": [
+      "palace",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 59.9295,
+      "lon": 30.2987
+    },
+    "address_vi": "Kè sông Moika số 94 (lối vào ở phố Dekabristov số 21), Saint Petersburg",
+    "rating": {
+      "value": 4.5,
+      "count": 2816,
+      "source": "Tripadvisor",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách trầm trồ trước nội thất nguy nga, nhà hát nhỏ trong cung điện và câu chuyện lịch sử ly kỳ, nhiều người khen hướng dẫn viên am hiểu. Điểm trừ thường gặp là quá đông khách khiến audio guide khó nghe, một số tour bị hối thúc và lối vào phụ ở phố Dekabristov gây bối rối.",
+    "presentation_short_vi": "Một dinh thự quý tộc lộng lẫy bên bờ sông Moika, nổi tiếng là nơi hoàng thân Felix Yusupov cùng đồng mưu sát hại 'nhà tiên tri' Rasputin trong đêm cuối năm 1916. Bên trong là chuỗi phòng khách xa hoa, phòng hòa nhạc mạ vàng và một nhà hát rococo tí hon đẹp như mơ.",
+    "presentation_long_vi": "Xin chào mừng bạn đến với cung điện Yusupov, một trong những dinh thự tư nhân tráng lệ nhất của giới quý tộc Nga bên dòng sông Moika thơ mộng. Được gia tộc Yusupov giàu có bậc nhất đế quốc sở hữu từ năm 1830, tòa nhà là cả một mê cung của những phòng khách mạ vàng, thư viện gỗ sồi, phòng khiêu vũ lấp lánh pha lê và đặc biệt là một nhà hát riêng theo phong cách rococo tinh xảo, nơi từng vang lên giọng ca của các nghệ sĩ lừng danh. Nhưng điều khiến nơi đây in sâu vào lịch sử lại là một đêm tháng 12 năm 1916: chính tại tầng hầm này, hoàng thân Felix Yusupov cùng các đồng mưu đã đầu độc rồi bắn chết Grigori Rasputin, nhân vật đầy quyền lực và tai tiếng trong triều đình cuối cùng của nhà Romanov. Ngày nay, bạn có thể men theo hành trình tham quan các sảnh đường xa hoa, rồi bước xuống khu trưng bày tái hiện vụ ám sát bằng những tượng sáp sống động như thật. Mỗi căn phòng là một câu chuyện về giàu sang, quyền lực và bi kịch. Hãy dành thời gian ngắm cầu thang đá cẩm thạch trắng, trần vẽ bích họa và khung cảnh dòng Moika lặng lẽ trôi ngoài cửa sổ, tất cả gợi lại một thời hoàng kim đã khép lại cùng cách mạng.",
+    "highlights_vi": [
+      "Nhà hát rococo riêng tuyệt đẹp trong cung điện, hiếm có ở dinh thự tư nhân",
+      "Khu trưng bày tái hiện vụ ám sát Rasputin năm 1916 bằng tượng sáp",
+      "Chuỗi phòng khách mạ vàng và cầu thang cẩm thạch của gia tộc giàu nhất nước Nga"
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa hằng ngày; khu trưng bày nội thất khoảng 10:00–19:30, quầy vé mở 09:30–18:00 (buổi tham quan cuối bắt đầu khoảng 18:00).",
+      "ticket_vi": "Lộ trình 'phòng khánh tiết + Rasputin' khoảng 1.050 rúp; trẻ dưới 7 tuổi miễn phí; phụ phí chụp ảnh khoảng 150 rúp.",
+      "duration_vi": "Khoảng 1,5–2 giờ (2–3 giờ nếu đi hết các lộ trình).",
+      "best_time_vi": "Buổi sáng sớm ngay khi mở cửa để tránh đoàn đông và dễ mua vé.",
+      "tips_vi": "Nên đặt hoặc mua vé trước và mang tiền mặt rúp vì thẻ nước ngoài hay bị từ chối; vào bằng cửa số 21 phố Dekabristov; đừng bỏ lỡ nhà hát và tầng hầm Rasputin."
+    },
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Yusupov%20Palace%20on%20the%20Moika%20River%2C%20Saint%20Petersburg.JPG",
+    "photo_credit": "Wikimedia Commons",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=30.2987,59.9295&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=59.9295,30.2987"
+    },
+    "official_site": "https://yusupov-palace.ru/en",
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Yusupov%20Palace%20on%20the%20Moika"
+      }
+    ],
+    "tags": [
+      "palace",
+      "museum",
+      "history",
+      "indoor"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-16"
+  },
+  {
+    "id": "saint-petersburg-mikhailovsky-castle",
+    "slug": "mikhailovsky-castle",
+    "region": "saint-petersburg",
+    "region_name_vi": "Saint Petersburg",
+    "federal_district": "Thành phố trực thuộc liên bang",
+    "name_vi": "Lâu đài Mikhailovsky (Mi-khai-lốp-xki) – Lâu đài Kỹ sư",
+    "name_ru": "Михайловский замок (Инженерный замок)",
+    "name_en": "Saint Michael's Castle (Mikhailovsky / Engineers' Castle)",
+    "categories": [
+      "palace",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 59.940278,
+      "lon": 30.337778
+    },
+    "address_vi": "Phố Sadovaya số 2, Saint Petersburg",
+    "rating": {
+      "value": 4.4,
+      "count": 376,
+      "source": "Tripadvisor",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Khách tham quan đánh giá cao giá trị lịch sử, kiến trúc lạ mắt và những trần thạch cao lộng lẫy đã được phục chế. Một số phàn nàn về việc thiếu ghế ngồi, khó tiếp cận cho người đi lại kém và hệ thống thông gió chưa tốt.",
+    "presentation_short_vi": "Tòa lâu đài đỏ hồng độc đáo được Sa hoàng Pavel I xây làm nơi ở kiên cố vì luôn ám ảnh sợ bị mưu sát. Trớ trêu thay, chỉ 40 ngày sau khi dọn vào, chính ông bị sát hại ngay trong phòng ngủ tại đây năm 1801.",
+    "presentation_long_vi": "Trước mặt bạn là Lâu đài Mikhailovsky, hay còn gọi là Lâu đài Kỹ sư, công trình kỳ lạ và nhuốm màu bi kịch bậc nhất Saint Petersburg. Sa hoàng Pavel I, con trai của Nữ hoàng Ekaterina Đại đế, luôn sống trong nỗi sợ bị mưu phản nên đã ra lệnh xây cho mình một tòa lâu đài thực thụ: có hào nước bao quanh, cầu rút và tường thành, tách biệt hẳn với các cung điện khác. Màu sơn đỏ hồng khác thường của tường, theo truyền thuyết, lấy cảm hứng từ chiếc găng tay của một quý cô mà nhà vua sủng ái. Nhưng số phận thật nghiệt ngã: chỉ 40 ngày sau khi chuyển vào 'pháo đài an toàn' của mình, Pavel I bị chính các sĩ quan trong triều siết cổ ngay trong phòng ngủ vào đêm tháng 3 năm 1801. Sau đó lâu đài được giao cho Học viện Kỹ sư quân sự, nên có tên gọi thứ hai. Ngày nay đây là một chi nhánh của Bảo tàng Nga, trưng bày bộ sưu tập chân dung quý giá và những nội thất trần thạch cao được phục chế công phu. Dạo bước qua các sảnh, bạn sẽ cảm nhận rõ tham vọng, nỗi hoang tưởng và kết cục cô độc của một vị hoàng đế, tất cả gói gọn trong bốn bức tường màu hồng bên dòng kênh.",
+    "highlights_vi": [
+      "Lâu đài duy nhất ở Saint Petersburg, có hào nước và tường thành bao quanh",
+      "Nơi Sa hoàng Pavel I bị ám sát năm 1801, chỉ 40 ngày sau khi dọn vào",
+      "Màu tường đỏ hồng độc đáo và bộ sưu tập chân dung của Bảo tàng Nga"
+    ],
+    "practical": {
+      "hours_vi": "Thứ Hai, Tư, Sáu, Bảy, Chủ nhật 10:00–18:00; thứ Năm 13:00–21:00; đóng cửa thứ Ba.",
+      "ticket_vi": "Người lớn khoảng 500 rúp; sinh viên khoảng 250 rúp; trẻ em miễn phí.",
+      "duration_vi": "Khoảng 1,5–2 giờ.",
+      "best_time_vi": "Chiều muộn thứ Năm khi lâu đài mở đến 21:00, thường ít khách hơn.",
+      "tips_vi": "Kết hợp tham quan cùng Vườn Mùa Hè và Nhà thờ Máu Đổ gần đó; để ý phòng ngủ nơi Pavel I qua đời."
+    },
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Spb%2006-2017%20img20%20StMichael%20Castle%20%28cropped%29.jpg",
+    "photo_credit": "Wikimedia Commons",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=30.337778,59.940278&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=59.940278,30.337778"
+    },
+    "official_site": "https://rusmuseum.ru",
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Saint%20Michael%27s%20Castle%20%28Mikhailovsky%20/%20Engineers%27%20Castle%29"
+      }
+    ],
+    "tags": [
+      "palace",
+      "museum",
+      "history",
+      "indoor"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-16"
+  },
+  {
+    "id": "saint-petersburg-stroganov-palace",
+    "slug": "stroganov-palace",
+    "region": "saint-petersburg",
+    "region_name_vi": "Saint Petersburg",
+    "federal_district": "Thành phố trực thuộc liên bang",
+    "name_vi": "Cung điện Stroganov (Xtơ-rô-ga-nốp)",
+    "name_ru": "Строгановский дворец",
+    "name_en": "Stroganov Palace",
+    "categories": [
+      "palace",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 59.935736,
+      "lon": 30.320672
+    },
+    "address_vi": "Đại lộ Nevsky số 17, Saint Petersburg",
+    "rating": {
+      "value": 4.3,
+      "count": 212,
+      "source": "Tripadvisor",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách khen kiến trúc và nội thất Baroque lộng lẫy, không gian yên tĩnh, ít chen chúc và nhân viên thân thiện. Điểm chê là nhiều phòng khá trống trải, thiếu bảng thuyết minh và ít tour có hướng dẫn.",
+    "presentation_short_vi": "Kiệt tác Baroque màu xanh ngọc do kiến trúc sư Rastrelli thiết kế, tọa lạc ngay góc đại lộ Nevsky và sông Moika. Đây là dinh thự của dòng họ Stroganov quyền quý, cái tên gắn liền với món bò 'beef Stroganoff' trứ danh.",
+    "presentation_long_vi": "Ngay tại giao lộ nhộn nhịp giữa đại lộ Nevsky và dòng sông Moika, cung điện Stroganov nổi bật với gam màu xanh ngọc dịu mắt cùng những chi tiết trang trí trắng muốt. Công trình được kiến trúc sư lừng danh Bartolomeo Rastrelli, cha đẻ của Cung điện Mùa Đông, hoàn thành năm 1754 cho gia tộc Stroganov, một trong những dòng họ thương nhân và quý tộc giàu có, quyền thế bậc nhất nước Nga. Chính từ căn bếp của gia đình này mà món bò xào kem 'beef Stroganoff' nổi tiếng thế giới ra đời. Bước qua mặt tiền Baroque tráng lệ, bạn sẽ lạc vào những gian phòng nghi lễ được phục chế tinh tế: đại sảnh khiêu vũ với trần bích họa, phòng khoáng vật và các phòng khách nhìn ra sân trong yên tĩnh. Ngày nay cung điện là một chi nhánh của Bảo tàng Nga, thường xuyên tổ chức các triển lãm nghệ thuật và mỹ thuật trang trí luân phiên. So với những cung điện đông đúc khác, nơi đây mang lại cảm giác thư thái, ít khách, cho phép bạn thong thả chiêm ngưỡng vẻ đẹp quý phái của tầng lớp quý tộc Nga xưa. Đừng quên ngắm mặt tiền từ bên kia sông Moika, một trong những góc ảnh đẹp nhất của đại lộ Nevsky.",
+    "highlights_vi": [
+      "Mặt tiền Baroque màu xanh ngọc do kiến trúc sư Rastrelli thiết kế năm 1754",
+      "Dinh thự của gia tộc Stroganov, nơi khai sinh món 'beef Stroganoff'",
+      "Đại sảnh khiêu vũ và các phòng nghi lễ phục chế, nay thuộc Bảo tàng Nga"
+    ],
+    "practical": {
+      "hours_vi": "Thứ Hai, Tư, Sáu, Bảy, Chủ nhật 10:00–18:00; thứ Năm 13:00–21:00; đóng cửa thứ Ba.",
+      "ticket_vi": "Vé lẻ khoảng 200–400 rúp; có vé combo nhiều chi nhánh Bảo tàng Nga 350–750 rúp.",
+      "duration_vi": "Khoảng 1–1,5 giờ.",
+      "best_time_vi": "Ngày thường buổi sáng, khi rất vắng khách.",
+      "tips_vi": "Mua vé combo nếu định thăm thêm Cung điện Cẩm Thạch hay Lâu đài Mikhailovsky; ngắm mặt tiền từ bờ đối diện sông Moika."
+    },
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Stroganov%20Palace.JPG",
+    "photo_credit": "Wikimedia Commons",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=30.320672,59.935736&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=59.935736,30.320672"
+    },
+    "official_site": "https://rusmuseum.ru",
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Stroganov%20Palace"
+      }
+    ],
+    "tags": [
+      "palace",
+      "museum",
+      "art",
+      "history",
+      "indoor"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-16"
+  },
+  {
+    "id": "saint-petersburg-sheremetev-palace",
+    "slug": "sheremetev-palace",
+    "region": "saint-petersburg",
+    "region_name_vi": "Saint Petersburg",
+    "federal_district": "Thành phố trực thuộc liên bang",
+    "name_vi": "Cung điện Sheremetev (Sê-rê-mê-chép) – Nhà Đài Phun Nước (Fontanny Dom)",
+    "name_ru": "Шереметевский дворец (Фонтанный дом)",
+    "name_en": "Sheremetev Palace (Fountain House) – Museum of Music",
+    "categories": [
+      "palace",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 59.936632,
+      "lon": 30.34575
+    },
+    "address_vi": "Kè sông Fontanka số 34, Saint Petersburg",
+    "rating": {
+      "value": 4.5,
+      "count": 110,
+      "source": "Tripadvisor",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Khách yêu thích nội thất Baroque tráng lệ, bộ sưu tập nhạc cụ phong phú và không khí yên tĩnh, ít đông đúc. Một số ý kiến than phiền nhân viên đôi khi kém niềm nở và thiếu thuyết minh tiếng Anh.",
+    "presentation_short_vi": "Dinh thự Baroque màu vàng của gia tộc bá tước Sheremetev bên bờ sông Fontanka, nay là Bảo tàng Âm nhạc với hơn 3.000 nhạc cụ quý. Trong khuôn viên còn có căn hộ - bảo tàng của nữ thi sĩ Anna Akhmatova, người từng sống nhiều năm tại đây.",
+    "presentation_long_vi": "Ẩn sau hàng rào sắt uy nghi bên bờ sông Fontanka là cung điện Sheremetev, thường được gọi thân mật là 'Nhà Đài Phun Nước' (Fontanny Dom). Trong gần hai thế kỷ, đây là tổ ấm của dòng họ bá tước Sheremetev, những nhà quý tộc nổi tiếng yêu nghệ thuật và bảo trợ âm nhạc, kịch nghệ. Tòa nhà Baroque màu vàng ấm áp này từng vang lên tiếng nhạc của dàn nhạc và đoàn hát nông nô riêng của gia đình. Rất hợp lẽ, ngày nay cung điện trở thành Bảo tàng Âm nhạc, lưu giữ bộ sưu tập hơn ba nghìn nhạc cụ từ khắp thế giới, trong đó có những cây vĩ cầm quý và nhạc cụ từng thuộc về các nhạc sĩ lừng danh. Dạo qua các gian phòng nghi lễ được phục chế, bạn vừa chiêm ngưỡng nội thất quý tộc, vừa lắng nghe câu chuyện âm nhạc Nga qua nhiều thế kỷ; nhiều buổi hòa nhạc cổ điển vẫn được tổ chức tại đây. Một điểm đặc biệt: trong khuôn viên còn có bảo tàng - căn hộ tưởng niệm nữ thi sĩ vĩ đại Anna Akhmatova, người đã sống ở đây suốt những năm tháng khắc nghiệt của thời Xô Viết. Sheremetev vì thế là nơi giao thoa hiếm có giữa kiến trúc, âm nhạc và văn chương, một điểm dừng bình yên, ít du khách giữa lòng thành phố.",
+    "highlights_vi": [
+      "Bộ sưu tập hơn 3.000 nhạc cụ của Bảo tàng Âm nhạc",
+      "Dinh thự Baroque màu vàng của gia tộc bá tước Sheremetev bên sông Fontanka",
+      "Bảo tàng - căn hộ tưởng niệm nữ thi sĩ Anna Akhmatova trong khuôn viên"
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa hằng ngày 11:00–19:00 (nhận khách cuối lúc 18:00); đóng cửa thứ Ba và thứ Tư cuối cùng của tháng.",
+      "ticket_vi": "Vé vào khoảng 250 rúp; thuê audio guide thêm khoảng 100 rúp.",
+      "duration_vi": "Khoảng 1–1,5 giờ.",
+      "best_time_vi": "Buổi sáng ngày thường; lý tưởng nếu ghép với một buổi hòa nhạc cổ điển.",
+      "tips_vi": "Kiểm tra lịch hòa nhạc trước; nếu quan tâm văn chương, ghé thêm bảo tàng Anna Akhmatova cùng khuôn viên (vé riêng)."
+    },
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/6509.1.%20St.%20Petersburg.%20Sheremetev%20Palace.jpg",
+    "photo_credit": "Wikimedia Commons",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=30.34575,59.936632&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=59.936632,30.34575"
+    },
+    "official_site": "https://theatremuseum.ru",
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Sheremetev%20Palace%20%28Fountain%20House%29%20%E2%80%93%20Museum%20of%20Music"
+      }
+    ],
+    "tags": [
+      "palace",
+      "museum",
+      "art",
+      "history",
+      "indoor"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-16"
+  },
+  {
+    "id": "saint-petersburg-menshikov-palace",
+    "slug": "menshikov-palace",
+    "region": "saint-petersburg",
+    "region_name_vi": "Saint Petersburg",
+    "federal_district": "Thành phố trực thuộc liên bang",
+    "name_vi": "Cung điện Menshikov (Men-si-cốp)",
+    "name_ru": "Меншиковский дворец",
+    "name_en": "Menshikov Palace",
+    "categories": [
+      "palace",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 59.939525,
+      "lon": 30.295545
+    },
+    "address_vi": "Kè Đại học (Universitetskaya) số 15, đảo Vasilievsky, Saint Petersburg",
+    "rating": {
+      "value": 4.4,
+      "count": 270,
+      "source": "Tripadvisor",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách đánh giá cao ý nghĩa lịch sử, kiến trúc màu vàng nổi bật bên sông và những căn phòng ốp gạch men hiếm có. Nhiều người thấy nội thất khá trống so với các cung điện khác, việc mua vé đôi khi khó khăn và tour nặng về đồ đạc hơn là kể chuyện về Menshikov.",
+    "presentation_short_vi": "Tòa nhà đá đầu tiên của Saint Petersburg, xây cho Aleksandr Menshikov, người bạn thân và cánh tay phải của Pyotr Đại đế. Nổi bật với những căn phòng ốp gạch men Hà Lan xanh - trắng độc đáo, nay là chi nhánh của Bảo tàng Hermitage.",
+    "presentation_long_vi": "Bên bờ nam sông Neva trên đảo Vasilievsky, cung điện Menshikov mang một vị trí đặc biệt trong lịch sử: đây được xem là tòa nhà bằng đá đầu tiên của Saint Petersburg. Chủ nhân của nó, Aleksandr Menshikov, xuất thân bình dân nhưng nhờ tài năng và lòng trung thành đã trở thành bạn tâm giao, cánh tay phải của Sa hoàng Pyotr Đại đế và là vị Toàn quyền đầu tiên của thành phố. Hoàn thành đầu thế kỷ 18, dinh thự từng là nơi diễn ra những buổi tiệc và lễ tiếp đón xa hoa nhất kinh đô mới, thậm chí còn lộng lẫy hơn cả cung điện của chính nhà vua. Điểm nhấn khiến du khách trầm trồ là những căn phòng được ốp kín bằng hàng nghìn viên gạch men Delft xanh - trắng nhập từ Hà Lan, cùng nội thất, tranh và đồ đạc mang đậm phong cách thời Pyotr buổi đầu. Ngày nay Menshikov là chi nhánh của Bảo tàng Hermitage, tái hiện sinh động đời sống quý tộc Nga buổi bình minh của đế quốc. Bước qua các gian phòng, bạn như ngược dòng thời gian về thuở Saint Petersburg còn là một đại công trường đầy tham vọng vươn lên từ đầm lầy. Vị trí ngay sát sông Neva cũng mang lại tầm nhìn tuyệt đẹp sang bờ đối diện.",
+    "highlights_vi": [
+      "Được xem là tòa nhà bằng đá đầu tiên của Saint Petersburg",
+      "Những căn phòng ốp gạch men Delft Hà Lan xanh - trắng độc đáo",
+      "Dinh thự của Aleksandr Menshikov, cánh tay phải của Pyotr Đại đế, nay thuộc Hermitage"
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa 10:30–18:00 (thứ Tư đến 21:00); đóng cửa thứ Hai.",
+      "ticket_vi": "Người lớn khoảng 300 rúp; trẻ em và sinh viên miễn phí; miễn phí cho mọi người vào thứ Năm đầu tháng.",
+      "duration_vi": "Khoảng 1–1,5 giờ.",
+      "best_time_vi": "Buổi sáng ngày thường; kết hợp tham quan Kunstkamera và mũi đất Strelka gần đó.",
+      "tips_vi": "Vé thuộc hệ thống Hermitage nên có thể mua kèm; chú ý các phòng ốp gạch men Hà Lan ở tầng trên."
+    },
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Menshikov%20Palace%20%28Grand%20Hall%29%20-%20panoramio.jpg",
+    "photo_credit": "Wikimedia Commons",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=30.295545,59.939525&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=59.939525,30.295545"
+    },
+    "official_site": "https://www.hermitagemuseum.org/visitus/menshikov-palace",
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Menshikov%20Palace"
+      }
+    ],
+    "tags": [
+      "palace",
+      "museum",
+      "history",
+      "indoor"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-16"
+  },
+  {
+    "id": "saint-petersburg-marble-palace",
+    "slug": "marble-palace",
+    "region": "saint-petersburg",
+    "region_name_vi": "Saint Petersburg",
+    "federal_district": "Thành phố trực thuộc liên bang",
+    "name_vi": "Cung điện Cẩm Thạch (Marble / Mra-mor-nưi)",
+    "name_ru": "Мраморный дворец",
+    "name_en": "Marble Palace",
+    "categories": [
+      "palace",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 59.945178,
+      "lon": 30.326797
+    },
+    "address_vi": "Phố Millionnaya số 5/1, Saint Petersburg",
+    "rating": {
+      "value": 4.1,
+      "count": 183,
+      "source": "Tripadvisor",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Khách thích vẻ đẹp thanh lịch của đá cẩm thạch, không gian sang trọng và vị trí sát bờ sông. Điểm chê là số phòng nguy nga còn lại khá ít (phần lớn dành cho triển lãm nghệ thuật), không gian hơi lạnh và kém hoành tráng so với các cung điện l�

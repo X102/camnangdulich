@@ -1,0 +1,515 @@
+{
+  "total": 85,
+  "regions": [
+    {
+      "slug": "moscow",
+      "name_vi": "Moskva",
+      "name_ru": "Москва",
+      "federal_district": "Thành phố trực thuộc liên bang"
+    },
+    {
+      "slug": "saint-petersburg",
+      "name_vi": "Saint Petersburg",
+      "name_ru": "Санкт-Петербург",
+      "federal_district": "Thành phố trực thuộc liên bang"
+    },
+    {
+      "slug": "sevastopol",
+      "name_vi": "Sevastopol",
+      "name_ru": "Севастополь",
+      "federal_district": "Thành phố trực thuộc liên bang"
+    },
+    {
+      "slug": "belgorod",
+      "name_vi": "Tỉnh Belgorod",
+      "name_ru": "Белгородская область",
+      "federal_district": "Vùng Trung tâm"
+    },
+    {
+      "slug": "bryansk",
+      "name_vi": "Tỉnh Bryansk",
+      "name_ru": "Брянская область",
+      "federal_district": "Vùng Trung tâm"
+    },
+    {
+      "slug": "vladimir",
+      "name_vi": "Tỉnh Vladimir",
+      "name_ru": "Владимирская область",
+      "federal_district": "Vùng Trung tâm"
+    },
+    {
+      "slug": "voronezh",
+      "name_vi": "Tỉnh Voronezh",
+      "name_ru": "Воронежская область",
+      "federal_district": "Vùng Trung tâm"
+    },
+    {
+      "slug": "ivanovo",
+      "name_vi": "Tỉnh Ivanovo",
+      "name_ru": "Ивановская область",
+      "federal_district": "Vùng Trung tâm"
+    },
+    {
+      "slug": "kaluga",
+      "name_vi": "Tỉnh Kaluga",
+      "name_ru": "Калужская область",
+      "federal_district": "Vùng Trung tâm"
+    },
+    {
+      "slug": "kostroma",
+      "name_vi": "Tỉnh Kostroma",
+      "name_ru": "Костромская область",
+      "federal_district": "Vùng Trung tâm"
+    },
+    {
+      "slug": "kursk",
+      "name_vi": "Tỉnh Kursk",
+      "name_ru": "Курская область",
+      "federal_district": "Vùng Trung tâm"
+    },
+    {
+      "slug": "lipetsk",
+      "name_vi": "Tỉnh Lipetsk",
+      "name_ru": "Липецкая область",
+      "federal_district": "Vùng Trung tâm"
+    },
+    {
+      "slug": "moscow-oblast",
+      "name_vi": "Tỉnh Moskva",
+      "name_ru": "Московская область",
+      "federal_district": "Vùng Trung tâm"
+    },
+    {
+      "slug": "oryol",
+      "name_vi": "Tỉnh Oryol",
+      "name_ru": "Орловская область",
+      "federal_district": "Vùng Trung tâm"
+    },
+    {
+      "slug": "ryazan",
+      "name_vi": "Tỉnh Ryazan",
+      "name_ru": "Рязанская область",
+      "federal_district": "Vùng Trung tâm"
+    },
+    {
+      "slug": "smolensk",
+      "name_vi": "Tỉnh Smolensk",
+      "name_ru": "Смоленская область",
+      "federal_district": "Vùng Trung tâm"
+    },
+    {
+      "slug": "tambov",
+      "name_vi": "Tỉnh Tambov",
+      "name_ru": "Тамбовская область",
+      "federal_district": "Vùng Trung tâm"
+    },
+    {
+      "slug": "tver",
+      "name_vi": "Tỉnh Tver",
+      "name_ru": "Тверская область",
+      "federal_district": "Vùng Trung tâm"
+    },
+    {
+      "slug": "tula",
+      "name_vi": "Tỉnh Tula",
+      "name_ru": "Тульская область",
+      "federal_district": "Vùng Trung tâm"
+    },
+    {
+      "slug": "yaroslavl",
+      "name_vi": "Tỉnh Yaroslavl",
+      "name_ru": "Ярославская область",
+      "federal_district": "Vùng Trung tâm"
+    },
+    {
+      "slug": "karelia",
+      "name_vi": "Cộng hoà Karelia",
+      "name_ru": "Республика Карелия",
+      "federal_district": "Vùng Tây Bắc"
+    },
+    {
+      "slug": "komi",
+      "name_vi": "Cộng hoà Komi",
+      "name_ru": "Республика Коми",
+      "federal_district": "Vùng Tây Bắc"
+    },
+    {
+      "slug": "arkhangelsk",
+      "name_vi": "Tỉnh Arkhangelsk",
+      "name_ru": "Архангельская область",
+      "federal_district": "Vùng Tây Bắc"
+    },
+    {
+      "slug": "vologda",
+      "name_vi": "Tỉnh Vologda",
+      "name_ru": "Вологодская область",
+      "federal_district": "Vùng Tây Bắc"
+    },
+    {
+      "slug": "kaliningrad",
+      "name_vi": "Tỉnh Kaliningrad",
+      "name_ru": "Калининградская область",
+      "federal_district": "Vùng Tây Bắc"
+    },
+    {
+      "slug": "leningrad-oblast",
+      "name_vi": "Tỉnh Leningrad",
+      "name_ru": "Ленинградская область",
+      "federal_district": "Vùng Tây Bắc"
+    },
+    {
+      "slug": "murmansk",
+      "name_vi": "Tỉnh Murmansk",
+      "name_ru": "Мурманская область",
+      "federal_district": "Vùng Tây Bắc"
+    },
+    {
+      "slug": "novgorod",
+      "name_vi": "Tỉnh Novgorod",
+      "name_ru": "Новгородская область",
+      "federal_district": "Vùng Tây Bắc"
+    },
+    {
+      "slug": "pskov",
+      "name_vi": "Tỉnh Pskov",
+      "name_ru": "Псковская область",
+      "federal_district": "Vùng Tây Bắc"
+    },
+    {
+      "slug": "nenets",
+      "name_vi": "Khu tự trị Nenets",
+      "name_ru": "Ненецкий автономный округ",
+      "federal_district": "Vùng Tây Bắc"
+    },
+    {
+      "slug": "bashkortostan",
+      "name_vi": "Cộng hoà Bashkortostan",
+      "name_ru": "Республика Башкортостан",
+      "federal_district": "Vùng Volga"
+    },
+    {
+      "slug": "mari-el",
+      "name_vi": "Cộng hoà Mari El",
+      "name_ru": "Республика Марий Эл",
+      "federal_district": "Vùng Volga"
+    },
+    {
+      "slug": "mordovia",
+      "name_vi": "Cộng hoà Mordovia",
+      "name_ru": "Республика Мордовия",
+      "federal_district": "Vùng Volga"
+    },
+    {
+      "slug": "tatarstan",
+      "name_vi": "Cộng hoà Tatarstan",
+      "name_ru": "Республика Татарстан",
+      "federal_district": "Vùng Volga"
+    },
+    {
+      "slug": "udmurtia",
+      "name_vi": "Cộng hoà Udmurtia",
+      "name_ru": "Удмуртская Республика",
+      "federal_district": "Vùng Volga"
+    },
+    {
+      "slug": "chuvashia",
+      "name_vi": "Cộng hoà Chuvashia",
+      "name_ru": "Чувашская Республика",
+      "federal_district": "Vùng Volga"
+    },
+    {
+      "slug": "kirov",
+      "name_vi": "Tỉnh Kirov",
+      "name_ru": "Кировская область",
+      "federal_district": "Vùng Volga"
+    },
+    {
+      "slug": "nizhny-novgorod",
+      "name_vi": "Tỉnh Nizhny Novgorod",
+      "name_ru": "Нижегородская область",
+      "federal_district": "Vùng Volga"
+    },
+    {
+      "slug": "orenburg",
+      "name_vi": "Tỉnh Orenburg",
+      "name_ru": "Оренбургская область",
+      "federal_district": "Vùng Volga"
+    },
+    {
+      "slug": "penza",
+      "name_vi": "Tỉnh Penza",
+      "name_ru": "Пензенская область",
+      "federal_district": "Vùng Volga"
+    },
+    {
+      "slug": "perm",
+      "name_vi": "Vùng Perm",
+      "name_ru": "Пермский край",
+      "federal_district": "Vùng Volga"
+    },
+    {
+      "slug": "samara",
+      "name_vi": "Tỉnh Samara",
+      "name_ru": "Самарская область",
+      "federal_district": "Vùng Volga"
+    },
+    {
+      "slug": "saratov",
+      "name_vi": "Tỉnh Saratov",
+      "name_ru": "Саратовская область",
+      "federal_district": "Vùng Volga"
+    },
+    {
+      "slug": "ulyanovsk",
+      "name_vi": "Tỉnh Ulyanovsk",
+      "name_ru": "Ульяновская область",
+      "federal_district": "Vùng Volga"
+    },
+    {
+      "slug": "adygea",
+      "name_vi": "Cộng hoà Adygea",
+      "name_ru": "Республика Адыгея",
+      "federal_district": "Vùng Nam"
+    },
+    {
+      "slug": "kalmykia",
+      "name_vi": "Cộng hoà Kalmykia",
+      "name_ru": "Республика Калмыкия",
+      "federal_district": "Vùng Nam"
+    },
+    {
+      "slug": "crimea",
+      "name_vi": "Cộng hoà Krym",
+      "name_ru": "Республика Крым",
+      "federal_district": "Vùng Nam"
+    },
+    {
+      "slug": "krasnodar",
+      "name_vi": "Vùng Krasnodar",
+      "name_ru": "Краснодарский край",
+      "federal_district": "Vùng Nam"
+    },
+    {
+      "slug": "astrakhan",
+      "name_vi": "Tỉnh Astrakhan",
+      "name_ru": "Астраханская область",
+      "federal_district": "Vùng Nam"
+    },
+    {
+      "slug": "volgograd",
+      "name_vi": "Tỉnh Volgograd",
+      "name_ru": "Волгоградская область",
+      "federal_district": "Vùng Nam"
+    },
+    {
+      "slug": "rostov",
+      "name_vi": "Tỉnh Rostov",
+      "name_ru": "Ростовская область",
+      "federal_district": "Vùng Nam"
+    },
+    {
+      "slug": "dagestan",
+      "name_vi": "Cộng hoà Dagestan",
+      "name_ru": "Республика Дагестан",
+      "federal_district": "Vùng Bắc Kavkaz"
+    },
+    {
+      "slug": "ingushetia",
+      "name_vi": "Cộng hoà Ingushetia",
+      "name_ru": "Республика Ингушетия",
+      "federal_district": "Vùng Bắc Kavkaz"
+    },
+    {
+      "slug": "kabardino-balkaria",
+      "name_vi": "Cộng hoà Kabardino-Balkaria",
+      "name_ru": "Кабардино-Балкарская Республика",
+      "federal_district": "Vùng Bắc Kavkaz"
+    },
+    {
+      "slug": "karachay-cherkessia",
+      "name_vi": "Cộng hoà Karachay-Cherkessia",
+      "name_ru": "Карачаево-Черкесская Республика",
+      "federal_district": "Vùng Bắc Kavkaz"
+    },
+    {
+      "slug": "north-ossetia",
+      "name_vi": "Cộng hoà Bắc Ossetia",
+      "name_ru": "Республика Северная Осетия — Алания",
+      "federal_district": "Vùng Bắc Kavkaz"
+    },
+    {
+      "slug": "chechnya",
+      "name_vi": "Cộng hoà Chechnya",
+      "name_ru": "Чеченская Республика",
+      "federal_district": "Vùng Bắc Kavkaz"
+    },
+    {
+      "slug": "stavropol",
+      "name_vi": "Vùng Stavropol",
+      "name_ru": "Ставропольский край",
+      "federal_district": "Vùng Bắc Kavkaz"
+    },
+    {
+      "slug": "kurgan",
+      "name_vi": "Tỉnh Kurgan",
+      "name_ru": "Курганская область",
+      "federal_district": "Vùng Ural"
+    },
+    {
+      "slug": "sverdlovsk",
+      "name_vi": "Tỉnh Sverdlovsk",
+      "name_ru": "Свердловская область",
+      "federal_district": "Vùng Ural"
+    },
+    {
+      "slug": "tyumen",
+      "name_vi": "Tỉnh Tyumen",
+      "name_ru": "Тюменская область",
+      "federal_district": "Vùng Ural"
+    },
+    {
+      "slug": "chelyabinsk",
+      "name_vi": "Tỉnh Chelyabinsk",
+      "name_ru": "Челябинская область",
+      "federal_district": "Vùng Ural"
+    },
+    {
+      "slug": "khanty-mansi",
+      "name_vi": "Khu tự trị Khanty-Mansi",
+      "name_ru": "Ханты-Мансийский автономный округ",
+      "federal_district": "Vùng Ural"
+    },
+    {
+      "slug": "yamalo-nenets",
+      "name_vi": "Khu tự trị Yamalo-Nenets",
+      "name_ru": "Ямало-Ненецкий автономный округ",
+      "federal_district": "Vùng Ural"
+    },
+    {
+      "slug": "altai-republic",
+      "name_vi": "Cộng hoà Altai",
+      "name_ru": "Республика Алтай",
+      "federal_district": "Vùng Siberia"
+    },
+    {
+      "slug": "altai-krai",
+      "name_vi": "Vùng Altai",
+      "name_ru": "Алтайский край",
+      "federal_district": "Vùng Siberia"
+    },
+    {
+      "slug": "tuva",
+      "name_vi": "Cộng hoà Tuva",
+      "name_ru": "Республика Тыва",
+      "federal_district": "Vùng Siberia"
+    },
+    {
+      "slug": "khakassia",
+      "name_vi": "Cộng hoà Khakassia",
+      "name_ru": "Республика Хакасия",
+      "federal_district": "Vùng Siberia"
+    },
+    {
+      "slug": "irkutsk",
+      "name_vi": "Tỉnh Irkutsk",
+      "name_ru": "Иркутская область",
+      "federal_district": "Vùng Siberia"
+    },
+    {
+      "slug": "kemerovo",
+      "name_vi": "Tỉnh Kemerovo",
+      "name_ru": "Кемеровская область",
+      "federal_district": "Vùng Siberia"
+    },
+    {
+      "slug": "krasnoyarsk",
+      "name_vi": "Vùng Krasnoyarsk",
+      "name_ru": "Красноярский край",
+      "federal_district": "Vùng Siberia"
+    },
+    {
+      "slug": "novosibirsk",
+      "name_vi": "Tỉnh Novosibirsk",
+      "name_ru": "Новосибирская область",
+      "federal_district": "Vùng Siberia"
+    },
+    {
+      "slug": "omsk",
+      "name_vi": "Tỉnh Omsk",
+      "name_ru": "Омская область",
+      "federal_district": "Vùng Siberia"
+    },
+    {
+      "slug": "tomsk",
+      "name_vi": "Tỉnh Tomsk",
+      "name_ru": "Томская область",
+      "federal_district": "Vùng Siberia"
+    },
+    {
+      "slug": "buryatia",
+      "name_vi": "Cộng hoà Buryatia",
+      "name_ru": "Республика Бурятия",
+      "federal_district": "Vùng Viễn Đông"
+    },
+    {
+      "slug": "sakha",
+      "name_vi": "Cộng hoà Sakha (Yakutia)",
+      "name_ru": "Республика Саха (Якутия)",
+      "federal_district": "Vùng Viễn Đông"
+    },
+    {
+      "slug": "zabaykalsky",
+      "name_vi": "Vùng Zabaykalsky",
+      "name_ru": "Забайкальский край",
+      "federal_district": "Vùng Viễn Đông"
+    },
+    {
+      "slug": "kamchatka",
+      "name_vi": "Vùng Kamchatka",
+      "name_ru": "Камчатский край",
+      "federal_district": "Vùng Viễn Đông"
+    },
+    {
+      "slug": "primorsky",
+      "name_vi": "Vùng Primorsky",
+      "name_ru": "Приморский край",
+      "federal_district": "Vùng Viễn Đông"
+    },
+    {
+      "slug": "khabarovsk",
+      "name_vi": "Vùng Khabarovsk",
+      "name_ru": "Хабаровский край",
+      "federal_district": "Vùng Viễn Đông"
+    },
+    {
+      "slug": "amur",
+      "name_vi": "Tỉnh Amur",
+      "name_ru": "Амурская область",
+      "federal_district": "Vùng Viễn Đông"
+    },
+    {
+      "slug": "magadan",
+      "name_vi": "Tỉnh Magadan",
+      "name_ru": "Магаданская область",
+      "federal_district": "Vùng Viễn Đông"
+    },
+    {
+      "slug": "sakhalin",
+      "name_vi": "Tỉnh Sakhalin",
+      "name_ru": "Сахалинская область",
+      "federal_district": "Vùng Viễn Đông"
+    },
+    {
+      "slug": "jewish-ao",
+      "name_vi": "Tỉnh tự trị Do Thái",
+      "name_ru": "Еврейская автономная область",
+      "federal_district": "Vùng Viễn Đông"
+    },
+    {
+      "slug": "chukotka",
+      "name_vi": "Khu tự trị Chukotka",
+      "name_ru": "Чукотский автономный округ",
+      "federal_district": "Vùng Viễn Đông"
+    }
+  ]
+}
