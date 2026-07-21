@@ -28,6 +28,11 @@ def main():
     bundle_js = read("data", "bundle.js")
     app_js = read("tools", "standalone_app.js")
 
+    import json as _json
+    _meta = _json.load(open(os.path.join(ROOT, "data", "index.json"), encoding="utf-8"))
+    n_places = _meta.get("total_places", 0)
+    n_regions = len(_meta.get("regions", []))
+
     extra_css = """
     html,body{height:100%}
     .tabs{max-width:1280px;margin:0 auto;padding:10px 20px 0;display:flex;gap:8px}
@@ -52,18 +57,18 @@ def main():
     .tour-empty{color:var(--muted);font-size:13px}.tour-stat{background:#f0f4fa;border-radius:10px;padding:8px 10px;font-size:12.5px;margin:8px 0}
     .fc{cursor:pointer;user-select:none;padding:4px 9px;border-radius:999px;border:1.5px solid var(--line);font-size:12px;font-weight:600;color:var(--muted)}
     .fc.on{color:#fff;border-color:transparent}
-    @media(max-width:820px){#mapView{flex-direction:column;height:auto}.map-side{width:100%;min-width:0}.map-wrap{height:60vh}}
+    @media(max-width:820px){#mapView{flex-direction:column;height:auto;margin:0 12px 16px}.map-side{width:100%;min-width:0;max-width:100%}.map-wrap{order:-1;flex:0 0 auto;height:56vh}}
     """
 
     html = """<!DOCTYPE html><html lang="vi"><head>
 <meta charset="UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<title>Cẩm nang Du lịch Nga · Saint Petersburg (bản mẫu)</title>
+<title>Cẩm nang Du lịch Nga · Toàn nước Nga (__NPLACES__ địa điểm)</title>
 <style>
 """ + leaflet_css + "\n" + mc_css + "\n" + mcd_css + "\n" + app_css + "\n" + extra_css + """
 </style></head><body>
 <header class="site-header"><nav class="nav">
   <span class="brand"><span>🇷🇺 Cẩm nang Du lịch Nga</span><span class="dot">●</span></span>
-  <div class="nav-links"><span class="muted" style="color:#cdd7e6;font-size:13px">Bản mẫu Saint Petersburg · một file duy nhất</span></div>
+  <div class="nav-links"><span class="muted" style="color:#cdd7e6;font-size:13px">__NPLACES__ địa điểm · __NREGIONS__ vùng · một file duy nhất, chạy offline</span></div>
 </nav></header>
 
 <div class="tabs">
@@ -86,6 +91,7 @@ def main():
   <div class="notice voice-warn" id="voiceWarn" style="display:none;margin-bottom:12px">🔊 Máy chưa có giọng tiếng Việt riêng — vẫn đọc được, cài giọng vi-VN để hay hơn.</div>
   <div id="countLine" class="muted" style="margin:4px 0 14px"></div>
   <div class="grid" id="grid"></div>
+  <div id="moreWrap" style="text-align:center;margin:18px 0"></div>
 </div>
 
 <div id="mapView">
@@ -101,7 +107,7 @@ def main():
 </div>
 
 <footer class="site-footer"><div class="fwrap">
-  <div>Cẩm nang Du lịch Nga · bản mẫu Saint Petersburg (18 địa điểm) · dữ liệu mở rộng dần.</div>
+  <div>Cẩm nang Du lịch Nga · __NPLACES__ địa điểm khắp __NREGIONS__ vùng &amp; thành phố nước Nga · một file duy nhất.</div>
   <div class="contact">Liên hệ: <b>Phạm Đăng Hiển</b> · <a href="mailto:lopmaybay@gmail.com">lopmaybay@gmail.com</a> · <a href="https://fb.com/lopmaybay" target="_blank" rel="noopener">fb.com/lopmaybay</a></div>
 </div></footer>
 
@@ -111,6 +117,8 @@ def main():
 <script>""" + bundle_js + """</script>
 <script>""" + app_js + """</script>
 </body></html>"""
+
+    html = html.replace("__NPLACES__", str(n_places)).replace("__NREGIONS__", str(n_regions))
 
     os.makedirs(os.path.join(ROOT, "dist"), exist_ok=True)
     out = os.path.join(ROOT, "dist", "russia-tourism-standalone.html")

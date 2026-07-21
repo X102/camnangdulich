@@ -2,7 +2,7 @@
 
 Tài liệu này mô tả **chính xác** những gì tác vụ tự động làm mỗi khi chạy. Mỗi lần chạy là một phiên Claude mới, làm việc trực tiếp trong thư mục dự án trên máy bạn.
 
-> ⚠️ **QUAN TRỌNG — phải chạy ở chế độ 'Trên máy tính':** Tác vụ này đọc/ghi file trên ổ D:, nên **KHÔNG chạy được dưới dạng scheduled task trên đám mây** (phiên đám mây không thấy ổ D:). Hãy tạo tác vụ định kỳ ở chế độ **'Chạy trên máy tính'** trong app Claude desktop (Cài đặt → Cowork: tắt *Run new tasks in the cloud*; hoặc dùng nút *Run this task* ở góc trên phải, chọn *On your computer*). Máy phải bật và app mở vào lúc chạy. Nếu app không có tuỳ chọn này, hãy chạy **theo yêu cầu**: nhắn Claude trong một phiên chat để xử lý vùng tiếp theo. Prompt mẫu để dán: **`_source/scheduled_task_prompt.txt`**.
+> ⚠️ **Điều kiện:** Vì dữ liệu lưu trong thư mục máy bạn, hãy **mở sẵn ứng dụng Claude trên máy tính** vào thời điểm tác vụ chạy. Nếu máy tắt/ứng dụng đóng, lần chạy đó sẽ bỏ qua và thử lại vào giờ kế tiếp.
 
 ---
 

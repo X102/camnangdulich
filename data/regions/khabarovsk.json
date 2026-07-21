@@ -1,0 +1,424 @@
+[
+  {
+    "id": "khabarovsk-khabarovsk-amur-embankment",
+    "slug": "khabarovsk-amur-embankment",
+    "region": "khabarovsk",
+    "region_name_vi": "Vùng Khabarovsk",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Bờ kè sông Amur (Naberezhnaya Amura)",
+    "name_ru": "Набережная Амура (Набережная адмирала Невельского)",
+    "name_en": "Amur River Embankment",
+    "categories": [
+      "square_street",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 48.47288,
+      "lon": 135.049746
+    },
+    "address_vi": "Bờ kè Đô đốc Nevelskoy, trung tâm thành phố Khabarovsk, Vùng Khabarovsk, Nga",
+    "rating": null,
+    "review_summary_vi": "Du khách và người dân địa phương đều yêu thích bờ kè như một nơi thư giãn tuyệt vời, đặc biệt vào những buổi chiều hè ngắm hoàng hôn trên sông Amur. Không gian rộng rãi, sạch đẹp và lãng mạn là những điểm được khen ngợi nhiều nhất.",
+    "presentation_short_vi": "Bờ kè sông Amur là không gian dạo chơi biểu tượng của Khabarovsk, trải dài bên dòng sông hùng vĩ với công viên bậc thang, tượng đài lịch sử và Mỏm đá Amur nổi tiếng. Đây là nơi lý tưởng để tản bộ, ngắm hoàng hôn và cảm nhận nhịp sống thư thái của thành phố Viễn Đông.",
+    "presentation_long_vi": "Bờ kè sông Amur là trái tim và cũng là \"phòng khách\" ngoài trời của Khabarovsk, trải dài dọc dòng Amur hùng vĩ ngay dưới chân đại lộ trung tâm. Đây là nơi người dân thành phố và du khách tìm đến để tản bộ, hóng gió và ngắm khung cảnh mênh mông của con sông vốn là biểu tượng của vùng Viễn Đông Nga. Điểm nhấn nổi bật nhất là Mỏm đá Amur (Utyos) - vách đá lịch sử vươn ra mặt nước, nơi có tòa nhà cổ với đài quan sát và không gian triển lãm. Dọc theo bờ kè, du khách sẽ bắt gặp tượng đài Bá tước Muravyov-Amursky uy nghi, tượng nhà thám hiểm Nevelskoy, cùng công viên bậc thang xanh mát, bãi tắm thành phố, sân vận động Lenin và các bến tàu du lịch trên sông. Vào mùa hè, khu vực này trở nên sống động với những chuyến du thuyền ngắm cảnh, tiếng nhạc và ánh đèn lung linh khi màn đêm buông xuống. Người Khabarovsk đặc biệt yêu thích khoảnh khắc hoàng hôn, khi mặt trời chầm chậm khuất sau bờ bên kia và cả dòng Amur nhuộm sắc vàng cam. Đây cũng là điểm hẹn quen thuộc của các cặp đôi mới cưới, nhiếp ảnh gia và những ai muốn cảm nhận nhịp sống thư thái, phóng khoáng rất riêng của thành phố bên sông.",
+    "highlights_vi": [
+      "Mỏm đá Amur (Utyos) với đài quan sát và không gian triển lãm",
+      "Tượng đài Muravyov-Amursky và công viên bậc thang ven sông",
+      "Hoàng hôn và du thuyền trên dòng Amur vào mùa hè"
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa tự do 24/24, quanh năm.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "1-2 giờ.",
+      "best_time_vi": "Chiều tối mùa hè (tháng 6-9) để ngắm hoàng hôn trên sông Amur; các dịp lễ có bắn pháo hoa.",
+      "tips_vi": "Kết hợp leo lên Mỏm đá Amur (Utyos) để ngắm toàn cảnh; buổi tối có đèn chiếu sáng lung linh; nên mang áo khoác nhẹ vì gió sông khá mạnh."
+    },
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Le%20quai%20de%20Khabarivsk.JPG",
+    "photo_credit": "Wikimedia Commons",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=135.049746,48.47288&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=48.47288,135.049746"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Amur%20River%20Embankment"
+      }
+    ],
+    "tags": [
+      "amur",
+      "embankment",
+      "promenade",
+      "river",
+      "viewpoint",
+      "khabarovsk",
+      "far-east"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-21"
+  },
+  {
+    "id": "khabarovsk-amur-bridge-khabarovsk",
+    "slug": "amur-bridge-khabarovsk",
+    "region": "khabarovsk",
+    "region_name_vi": "Vùng Khabarovsk",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Cầu Amur / Cầu Sa hoàng (Amursky most / Tsarsky most)",
+    "name_ru": "Амурский мост («Царский мост»)",
+    "name_en": "Amur Bridge (Khabarovsk Bridge)",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 48.536111,
+      "lon": 135.0
+    },
+    "address_vi": "Sông Amur, phía tây thành phố Khabarovsk, Vùng Khabarovsk, Nga (nối Khabarovsk với khu định cư Imeni Telmana)",
+    "rating": {
+      "value": 4.9,
+      "count": 79,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Được đánh giá rất cao (khoảng 4,9/5 trên Google), cây cầu gây ấn tượng bởi tầm vóc, bề dày lịch sử và khung cảnh sông nước hùng vĩ. Nhiều du khách thích thú với câu chuyện về \"cây cầu trên tờ tiền 5.000 rúp\" và bảo tàng cầu độc đáo bên bờ sông.",
+    "presentation_short_vi": "Cầu Amur - biệt danh \"Cầu Sa hoàng\" - là cây cầu lịch sử bắc qua dòng Amur, từng được xem là kỳ quan kỹ thuật của Đế quốc Nga. Hình ảnh cây cầu hai tầng dài gần 3.900 m này được in trang trọng trên tờ tiền 5.000 rúp.",
+    "presentation_long_vi": "Cầu Amur, hay còn gọi là cầu Khabarovsk, là một trong những công trình biểu tượng và giàu lịch sử bậc nhất của nước Nga. Khởi công năm 1913 và hoàn thành năm 1916, cây cầu ban đầu mang tên \"Alekseevsky\" để vinh danh Hoàng thái tử Aleksei, con trai Sa hoàng Nikolai II - vì thế người dân quen gọi là \"Cầu Sa hoàng\". Do kỹ sư Lavr Proskuryakov thiết kế, cầu từng được ca ngợi là \"kỳ quan sông Amur\" và là cây cầu dài nhất Đế quốc Nga thời bấy giờ. Trong nội chiến năm 1920, hai nhịp cầu bị phá hủy rồi được khôi phục vào năm 1925. Đến giai đoạn 1991-1999, cầu được tái thiết toàn diện thành công trình hai tầng dài gần 3.900 m: tầng dưới dành cho đường sắt, tầng trên cho ô tô, nối Khabarovsk với bờ bên kia của dòng Amur. Tầm vóc và ý nghĩa của cây cầu lớn đến mức hình ảnh của nó được in trên tờ tiền mệnh giá 5.000 rúp - tờ có giá trị cao nhất của Nga. Ngày nay, ngay cạnh cầu là Bảo tàng Cầu Amur ngoài trời, nơi trưng bày một nhịp cầu nguyên bản từ năm 1916 cùng đầu máy và toa tàu cổ, giúp du khách hình dung trọn vẹn hành trình hơn một thế kỷ của công trình vĩ đại này.",
+    "highlights_vi": [
+      "Cây cầu lịch sử hơn 100 năm, biệt danh \"Cầu Sa hoàng\"",
+      "Hình ảnh cây cầu được in trên tờ tiền 5.000 rúp",
+      "Bảo tàng Cầu Amur trưng bày nhịp cầu nguyên bản năm 1916"
+    ],
+    "practical": {
+      "hours_vi": "Ngắm cầu tự do mọi thời điểm. Bảo tàng Cầu Amur ngoài trời mở theo giờ hành chính (nên kiểm tra trước khi đến).",
+      "ticket_vi": "Miễn phí khi ngắm cầu từ bờ kè; bảo tàng cạnh cầu thu phí tham quan.",
+      "duration_vi": "30-60 phút (thêm khoảng 45 phút nếu vào bảo tàng).",
+      "best_time_vi": "Mùa hè, ban ngày để chụp ảnh rõ nét hoặc lúc hoàng hôn.",
+      "tips_vi": "Ghé Bảo tàng Cầu Amur để xem nhịp cầu nguyên bản năm 1916; thử đối chiếu hình cây cầu với tờ tiền 5.000 rúp; tránh quay phim/chụp ảnh ở khu vực có biển cấm vì đây là công trình giao thông trọng yếu."
+    },
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Khabarovsk%20Bridge%20-%20aerial%20view%20-%20P1040665.JPG",
+    "photo_credit": "Wikimedia Commons",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=135.0,48.536111&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=48.536111,135.0"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Amur%20Bridge%20%28Khabarovsk%20Bridge%29"
+      }
+    ],
+    "tags": [
+      "amur",
+      "bridge",
+      "railway",
+      "history",
+      "5000-ruble",
+      "khabarovsk",
+      "far-east"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-21"
+  },
+  {
+    "id": "khabarovsk-spaso-preobrazhensky-cathedral-khabarovsk",
+    "slug": "spaso-preobrazhensky-cathedral-khabarovsk",
+    "region": "khabarovsk",
+    "region_name_vi": "Vùng Khabarovsk",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Nhà thờ Chính tòa Chúa Biến Hình (Spaso-Preobrazhensky sobor)",
+    "name_ru": "Спасо-Преображенский кафедральный собор",
+    "name_en": "Transfiguration Cathedral, Khabarovsk",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 48.466238,
+      "lon": 135.066997
+    },
+    "address_vi": "Số 24 phố Turgenev, Khabarovsk, Vùng Khabarovsk, Nga",
+    "rating": {
+      "value": 4.7,
+      "count": 921,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Với điểm số khoảng 4,7/5 (Google), nhà thờ được du khách khen ngợi vì kiến trúc bề thế, nội thất trang nghiêm và tầm nhìn tuyệt đẹp ra sông Amur. Nhiều người ấn tượng với sự tráng lệ của các mái vòm vàng và bầu không khí thanh tịnh bên trong.",
+    "presentation_short_vi": "Nhà thờ Chính tòa Chúa Biến Hình cao khoảng 95 m là một trong những nhà thờ Chính thống giáo cao nhất nước Nga, nổi bật với những mái vòm mạ vàng bên bờ sông Amur. Đây vừa là trung tâm tôn giáo lớn, vừa là điểm ngắm cảnh tuyệt đẹp của Khabarovsk.",
+    "presentation_long_vi": "Nhà thờ Chính tòa Chúa Biến Hình là công trình tôn giáo nổi bật nhất Khabarovsk và là một trong những nhà thờ Chính thống giáo cao nhất nước Nga, với chiều cao khoảng 95 m. Được xây dựng trong các năm 2001-2004 theo phong cách kiến trúc Nga truyền thống, nhà thờ tọa lạc trên một mỏm đất cao nhìn thẳng ra dòng sông Amur, ngay cạnh Quảng trường Vinh Quang. Những mái vòm mạ vàng lấp lánh của công trình có thể được nhìn thấy từ rất xa, trở thành điểm định hướng quen thuộc và niềm tự hào của cư dân thành phố. Tương truyền, chính Thượng phụ Aleksei II đã chọn vị trí đặt nhà thờ trong một chuyến khảo sát bằng trực thăng trên bầu trời Khabarovsk. Bên trong, không gian rộng lớn có thể đón hàng nghìn giáo dân, được trang trí bằng những bức bích họa và tranh thánh (icon) trang nghiêm, cùng ánh sáng dịu nhẹ tạo cảm giác thanh tịnh. Du khách đến đây không chỉ để chiêm ngưỡng vẻ đẹp kiến trúc mà còn để tận hưởng khung cảnh tuyệt đẹp của sông Amur mở ra ngay phía sau nhà thờ - đặc biệt quyến rũ vào lúc hoàng hôn. Đây là nơi diễn ra các buổi lễ trọng của Giáo hội Chính thống, thu hút cả tín đồ hành hương lẫn khách tham quan yêu thích khám phá văn hóa và tâm linh vùng Viễn Đông.",
+    "highlights_vi": [
+      "Những mái vòm mạ vàng và chiều cao khoảng 95 m ấn tượng",
+      "Vị trí trên mỏm đất cao nhìn ra sông Amur",
+      "Không gian nội thất rộng lớn với tranh thánh và bích họa"
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa hằng ngày, thường khoảng 7:00-19:00; có lễ sáng và lễ chiều (xem lịch trên trang chính thức).",
+      "ticket_vi": "Miễn phí (khuyến khích công đức tùy tâm).",
+      "duration_vi": "30-45 phút.",
+      "best_time_vi": "Sáng sớm hoặc giờ hành lễ để cảm nhận không khí trang nghiêm; hoàng hôn để ngắm sông Amur phía sau nhà thờ.",
+      "tips_vi": "Ăn mặc kín đáo, phụ nữ nên trùm khăn; giữ yên lặng và hỏi phép trước khi chụp ảnh bên trong; nên tham quan cùng Quảng trường Vinh Quang liền kề."
+    },
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Cathedral%20of%20the%20Transfiguration%20%28Khabarovsk%29%20%D1%84%D0%BE%D1%82%D0%BE4.JPG",
+    "photo_credit": "Wikimedia Commons",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=135.066997,48.466238&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=48.466238,135.066997"
+    },
+    "official_site": "https://soborkhv.ru/",
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Transfiguration%20Cathedral%2C%20Khabarovsk"
+      }
+    ],
+    "tags": [
+      "orthodox",
+      "cathedral",
+      "church",
+      "gilded-domes",
+      "khabarovsk",
+      "amur",
+      "far-east"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-21"
+  },
+  {
+    "id": "khabarovsk-sikachi-alyan-petroglyphs",
+    "slug": "sikachi-alyan-petroglyphs",
+    "region": "khabarovsk",
+    "region_name_vi": "Vùng Khabarovsk",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Tranh khắc đá Sikachi-Alyan (Petroglify Sikachi-Alyana)",
+    "name_ru": "Петроглифы Сикачи-Аляна",
+    "name_en": "Petroglyphs of Sikachi-Alyan",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 48.7989,
+      "lon": 135.7231
+    },
+    "address_vi": "Ven sông Amur gần làng Sikachi-Alyan, huyện Khabarovsk, Vùng Khabarovsk, Nga (cách Khabarovsk khoảng 70-75 km về phía đông bắc)",
+    "rating": null,
+    "review_summary_vi": "Du khách mô tả Sikachi-Alyan là một trải nghiệm độc đáo và có phần bí ẩn, nơi được tận mắt chạm vào nghệ thuật của người tiền sử. Một số lưu ý rằng cần có hướng dẫn viên và chọn đúng mùa nước rút để tìm thấy các hình khắc rõ nét nhất.",
+    "presentation_short_vi": "Sikachi-Alyan là quần thể tranh khắc đá cổ xưa nằm trên các tảng bazan dọc bờ sông Amur, nổi tiếng với những chiếc \"mặt nạ\" bí ẩn có niên đại hàng nghìn năm. Di tích được xếp hạng cấp liên bang và nằm trong danh sách dự kiến đề cử Di sản Thế giới của UNESCO.",
+    "presentation_long_vi": "Tranh khắc đá Sikachi-Alyan là một trong những di sản khảo cổ độc đáo và bí ẩn nhất vùng Viễn Đông Nga, nằm rải rác trên những tảng đá bazan khổng lồ dọc bờ sông Amur, gần ngôi làng Nanai cùng tên. Cách Khabarovsk khoảng 70-75 km về phía đông bắc, khu di tích quy tụ hàng trăm hình khắc cổ xưa, trong đó nổi tiếng nhất là những chiếc \"mặt nạ\" (lichiny) với đường nét kỳ lạ, cùng hình hươu, ngựa, thuyền và các biểu tượng gắn với tín ngưỡng shaman. Các nhà nghiên cứu cho rằng những hình khắc cổ nhất có niên đại lên tới khoảng 12.000-9.000 năm trước Công nguyên, trải dài qua nhiều thời kỳ cho đến thời đại đồ đá mới và đồ sắt sớm. Người đầu tiên ghi chép khoa học về chúng là nhà tự nhiên học Richard Maack vào năm 1859. Ngày nay, di tích được xếp hạng di sản văn hóa cấp liên bang và nằm trong danh sách dự kiến đề cử Di sản Thế giới của UNESCO. Điều đặc biệt là nhiều hình khắc chỉ lộ ra khi mực nước sông Amur hạ thấp vào cuối hè và mùa thu, nên việc tham quan phụ thuộc nhiều vào mùa. Kết hợp với khu bảo tàng dân tộc học của người Nanai trong làng, Sikachi-Alyan mang đến trải nghiệm vừa khám phá nghệ thuật thời tiền sử, vừa tìm hiểu văn hóa bản địa lâu đời bên dòng Amur.",
+    "highlights_vi": [
+      "Những hình \"mặt nạ\" (lichiny) bí ẩn khắc trên đá bazan",
+      "Niên đại cổ nhất lên tới khoảng 12.000-9.000 năm trước Công nguyên",
+      "Bảo tàng dân tộc học của người Nanai ngay trong làng"
+    ],
+    "practical": {
+      "hours_vi": "Di tích ngoài trời, tham quan tự do vào ban ngày; bảo tàng dân tộc học trong làng mở theo giờ riêng.",
+      "ticket_vi": "Xem tranh khắc đá miễn phí; tour có hướng dẫn viên và vé vào bảo tàng dân tộc học thu phí.",
+      "duration_vi": "1-2 giờ tại di tích (chưa kể thời gian di chuyển từ Khabarovsk).",
+      "best_time_vi": "Cuối hè đến mùa thu (tháng 8-10) khi mực nước sông rút, để lộ nhiều tảng đá có hình khắc; tránh mùa nước cao.",
+      "tips_vi": "Nên thuê hướng dẫn viên địa phương để tìm đúng các nhóm hình khắc nằm rải rác; đi giày chống trơn trượt trên đá; tuyệt đối không chạm, tô vẽ hay làm hư hại di sản."
+    },
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B3%D0%BB%D0%B8%D1%84%D1%8B%20%D0%A1%D0%B8%D0%BA%D0%B0%D1%87%D0%B8-%D0%90%D0%BB%D1%8F%D0%BD%D0%B0%201.JPG",
+    "photo_credit": "Wikimedia Commons",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=135.7231,48.7989&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=48.7989,135.7231"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Petroglyphs%20of%20Sikachi-Alyan"
+      }
+    ],
+    "tags": [
+      "petroglyphs",
+      "rock-art",
+      "neolithic",
+      "nanai",
+      "archaeology",
+      "amur",
+      "far-east"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-21"
+  },
+  {
+    "id": "khabarovsk-komsomolsk-on-amur-monument",
+    "slug": "komsomolsk-on-amur-monument",
+    "region": "khabarovsk",
+    "region_name_vi": "Vùng Khabarovsk",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Đài tưởng niệm Những người Xây dựng Đầu tiên (Pamyatnik pervostroitelyam)",
+    "name_ru": "Монумент первостроителям Комсомольска-на-Амуре",
+    "name_en": "Monument to the First Builders of Komsomolsk-on-Amur",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 50.557,
+      "lon": 137.002
+    },
+    "address_vi": "Bờ kè sông Amur, thành phố Komsomolsk-na-Amur, Vùng Khabarovsk, Nga",
+    "rating": null,
+    "review_summary_vi": "Người dân địa phương xem tượng đài như \"tấm danh thiếp\" của thành phố, còn du khách đánh giá đây là điểm dừng chân ý nghĩa để hiểu về lịch sử ra đời của Komsomolsk. Vị trí bên bờ sông Amur cũng được nhiều người khen là đẹp và thoáng đãng.",
+    "presentation_short_vi": "Đài tưởng niệm Những người Xây dựng Đầu tiên là biểu tượng của Komsomolsk-na-Amur, đánh dấu nơi các đoàn viên Komsomol đặt chân lập nên thành phố năm 1932. Tượng đài bên bờ Amur khắc ghi tinh thần lao động quả cảm của một thế hệ trẻ.",
+    "presentation_long_vi": "Đài tưởng niệm Những người Xây dựng Đầu tiên là biểu tượng và cũng là \"tấm danh thiếp\" của thành phố Komsomolsk-na-Amur. Công trình được dựng trên bờ kè sông Amur, đúng nơi mà vào ngày 10 tháng 5 năm 1932, những đoàn viên thanh niên Komsomol đầu tiên đã đặt chân lên vùng đất taiga hoang vu để khởi dựng nên một thành phố công nghiệp giữa rừng rậm Viễn Đông. Được khánh thành năm 1982, đài tưởng niệm tái hiện hình ảnh những người trẻ tuổi quả cảm - thế hệ đã hy sinh tuổi thanh xuân, chịu đựng giá rét và gian khó để biến giấc mơ xây dựng thành hiện thực. Từ vị trí của tượng đài, du khách có thể phóng tầm mắt ra dòng Amur rộng lớn, cảm nhận rõ tinh thần lao động và lý tưởng của một thời kỳ lịch sử đặc biệt trong lòng nước Nga Xô viết. Đối với người dân địa phương, đây không chỉ là một tác phẩm điêu khắc mà còn là nơi gắn với ký ức và niềm tự hào về cội nguồn thành phố. Vào các dịp lễ, người ta thường tới đây dâng hoa và chụp ảnh lưu niệm. Nằm trên tuyến dạo bộ ven sông đẹp nhất Komsomolsk, tượng đài là điểm dừng chân không thể bỏ qua để hiểu về câu chuyện ra đời phi thường của \"thành phố tuổi trẻ\" bên bờ Amur.",
+    "highlights_vi": [
+      "Tượng đài đánh dấu nơi lập thành phố ngày 10/5/1932",
+      "Biểu tượng và \"tấm danh thiếp\" của Komsomolsk-na-Amur",
+      "Vị trí đẹp bên bờ kè nhìn ra sông Amur"
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa tự do 24/24.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "15-30 phút.",
+      "best_time_vi": "Mùa hè, kết hợp dạo bộ dọc bờ kè sông Amur; đẹp nhất vào lúc chiều muộn.",
+      "tips_vi": "Komsomolsk-na-Amur cách Khabarovsk khoảng 360-400 km (đi ô tô, tàu hỏa hoặc máy bay); nên kết hợp trong hành trình khám phá thành phố; mang theo áo ấm nếu đi ngoài mùa hè."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=137.002,50.557&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=50.557,137.002"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Monument%20to%20the%20First%20Builders%20of%20Komsomolsk-on-Amur"
+      }
+    ],
+    "tags": [
+      "monument",
+      "soviet",
+      "first-builders",
+      "komsomolsk-on-amur",
+      "amur",
+      "far-east"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-21"
+  },
+  {
+    "id": "khabarovsk-glory-square-khabarovsk",
+    "slug": "glory-square-khabarovsk",
+    "region": "khabarovsk",
+    "region_name_vi": "Vùng Khabarovsk",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Quảng trường Vinh Quang (Ploshchad Slavy)",
+    "name_ru": "Площадь Славы",
+    "name_en": "Glory Square (Square of Fame)",
+    "categories": [
+      "square_street",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 48.466846,
+      "lon": 135.064258
+    },
+    "address_vi": "Quảng trường Vinh Quang, khu vực phố Turgenev/Lenin, Khabarovsk, Vùng Khabarovsk, Nga",
+    "rating": {
+      "value": 4.9,
+      "count": 331,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Được đánh giá rất cao (khoảng 4,9/5 trên Google), quảng trường được du khách cảm nhận như một nơi trang nghiêm và xúc động, gợi nhắc về những hy sinh trong chiến tranh. Nhiều người khuyên nên dành thời gian đọc các tên khắc trên tường và ghé thăm cùng nhà thờ liền kề.",
+    "presentation_short_vi": "Quảng trường Vinh Quang là quần thể tưởng niệm trang nghiêm với cột tháp cao 30 m, Ngọn lửa Vĩnh cửu và Bức tường Tưởng niệm khắc tên những người đã ngã xuống trong Chiến tranh Vệ quốc Vĩ đại. Ngay trên quảng trường là Nhà thờ Chúa Biến Hình nhìn ra sông Amur.",
+    "presentation_long_vi": "Quảng trường Vinh Quang là không gian tưởng niệm trang nghiêm và thiêng liêng bậc nhất của Khabarovsk, được dành để tri ân những người con của vùng đất này đã ngã xuống trong Chiến tranh Vệ quốc Vĩ đại. Trung tâm quảng trường là cột tháp tưởng niệm cao khoảng 30 m vươn thẳng lên bầu trời, bên cạnh là Ngọn lửa Vĩnh cửu cháy không ngừng qua mưa nắng và một Bức tường Tưởng niệm hình vòng cung khắc tên hàng chục nghìn người dân vùng Khabarovsk đã hy sinh. Quần thể được khánh thành năm 1975 nhân kỷ niệm 30 năm Chiến thắng, sau đó bổ sung thêm bức tường và ngọn lửa vào năm 1985. Điều làm nên nét đặc biệt của nơi đây là sự kết hợp giữa ký ức chiến tranh và đời sống tâm linh: ngay trên quảng trường, Nhà thờ Chính tòa Chúa Biến Hình với những mái vòm vàng rực đã được dựng lên năm 2004, tạo thành một tổng thể vừa bi tráng vừa linh thiêng nhìn ra dòng Amur. Vào ngày 9 tháng 5 hằng năm - Ngày Chiến thắng - quảng trường trở thành nơi diễn ra các nghi lễ long trọng, người dân mang hoa đến đặt dưới chân đài tưởng niệm. Với du khách, đây là điểm đến ý nghĩa để hiểu về lịch sử, lòng biết ơn và tinh thần của người dân Viễn Đông, đồng thời tận hưởng tầm nhìn tuyệt đẹp ra con sông biểu tượng.",
+    "highlights_vi": [
+      "Cột tháp tưởng niệm cao 30 m và Ngọn lửa Vĩnh cửu",
+      "Bức tường Tưởng niệm khắc tên hàng chục nghìn liệt sĩ",
+      "Quần thể kết hợp với Nhà thờ Chúa Biến Hình nhìn ra sông Amur"
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa tự do 24/24.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "30-45 phút (có thể kết hợp với nhà thờ).",
+      "best_time_vi": "Ngày Chiến thắng 9/5 với không khí trang trọng; hoàng hôn để ngắm sông Amur; buổi tối đài tưởng niệm được chiếu sáng.",
+      "tips_vi": "Giữ thái độ tôn nghiêm tại khu tưởng niệm và Ngọn lửa Vĩnh cửu; nên tham quan cùng Nhà thờ Chúa Biến Hình ngay cạnh; đây cũng là điểm ngắm sông Amur rất đẹp."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=135.064258,48.466846&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=48.466846,135.064258"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Glory%20Square%20%28Square%20of%20Fame%29"
+      }
+    ],
+    "tags": [
+      "memorial",
+      "eternal-flame",
+      "wwii",
+      "square",
+      "khabarovsk",
+      "amur",
+      "far-east"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-21"
+  },
+  {
+    "id": "khabarovsk-bolshekhekhtsirsky-reserve",
+    "slug": "bolshekhekhtsirsky-reserve",
+    "region": "khabarovsk",
+    "region_name_vi": "Vùng Khabarovsk",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Khu bảo tồn thiên nhiên Bolshekhekhtsirsky (Bolshekhekhtsirsky zapovednik)",
+    "name_ru": "Большехехцирский заповедник",
+    "name_en": "Bolshekhekhtsirsky Nature Reserve",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 48.205,
+      "lon": 134.858889
+    },
+    "address_vi": "Làng Bychikha, huyện Khabarovsk, Vùng Khabarovsk, Nga (cách Khabarovsk khoảng 20 km về phía tây nam)",
+    "rating": null,
+    "review_summary_vi": "Những du khách yêu thiên nhiên đánh giá cao sự yên tĩnh, không khí trong lành và hệ sinh thái phong phú của khu bảo tồn. Do là khu bảo vệ nghiêm ngặt, trải nghiệm chủ yếu diễn ra ở bảo tàng và các tuyến sinh thái có hướng dẫn, nên cần đăng ký trước.",
+    "presentation_short_vi": "Khu bảo tồn thiên nhiên Bolshekhekhtsirsky bảo vệ dãy núi rừng Khekhtsir đa dạng sinh học chỉ cách Khabarovsk khoảng 20 km. Đây là thiên đường của rừng taiga Viễn Đông với hơn 1.000 loài thực vật cùng nhiều loài động vật quý hiếm.",
+    "presentation_long_vi": "Khu bảo tồn thiên nhiên Bolshekhekhtsirsky là một \"kho báu xanh\" nằm cách trung tâm Khabarovsk chỉ khoảng 20 km về phía tây nam, nơi dãy núi Bolshoi Khekhtsir nổi lên như một hòn đảo rừng giữa vùng đồng bằng thấp bao quanh bởi sông Amur và Ussuri. Được thành lập năm 1963 với diện tích hơn 45.000 ha, đây là khu bảo tồn nghiêm ngặt (zapovednik) gìn giữ một trong những hệ sinh thái đa dạng nhất Viễn Đông Nga. Có tới 91% diện tích được rừng che phủ, từ rừng lá kim trên đỉnh núi cao gần 950 m đến rừng hỗn giao với dương, sồi và rừng thông rụng lá ven các thung lũng. Sự giao thoa giữa taiga Siberia và hệ động thực vật vùng Hoa Nam - Himalaya tạo nên sự phong phú đáng kinh ngạc: hơn 1.000 loài thực vật có mạch cùng vô số loài chim và thú, trong đó có những loài quý hiếm và thi thoảng còn ghi nhận cả dấu vết của hổ Amur. Phần lớn diện tích khu bảo tồn được bảo vệ nghiêm ngặt và hạn chế ra vào, nhưng du khách vẫn có thể ghé thăm bảo tàng thiên nhiên cùng các tuyến đường mòn sinh thái được tổ chức gần làng Bychikha, nếu đăng ký trước với ban quản lý. Đây là điểm đến lý tưởng cho những ai yêu thiên nhiên, muốn hít thở không khí trong lành và tìm hiểu về sự sống hoang dã đặc trưng của vùng hạ lưu Amur.",
+    "highlights_vi": [
+      "Dãy núi rừng Khekhtsir như \"hòn đảo\" giữa đồng bằng Amur-Ussuri",
+      "Đa dạng sinh học: hơn 1.000 loài thực vật, giao thoa taiga và Hoa Nam-Himalaya",
+      "Bảo tàng thiên nhiên và tuyến đường mòn sinh thái gần làng Bychikha"
+    ],
+    "practical": {
+      "hours_vi": "Vào khu bảo tồn phải đăng ký trước; bảo tàng thiên nhiên và các tuyến sinh thái gần làng Bychikha hoạt động theo lịch hẹn với ban quản lý.",
+      "ticket_vi": "Cần xin phép/đăng ký trước; các tour có hướng dẫn và tuyến tham quan thu phí (liên hệ ban quản lý để biết mức giá).",
+      "duration_vi": "2-4 giờ cho tuyến sinh thái và bảo tàng; các chương trình chuyên sâu có thể kéo dài cả ngày.",
+      "best_time_vi": "Cuối xuân đến đầu thu (tháng 5-9); mùa thu (tháng 9-10) rừng chuyển màu rất đẹp.",
+      "tips_vi": "Bắt buộc liên hệ trước với ФГБУ \"Заповедное Приамурье\" (zapovedamur.ru) để xin phép và đặt tour; luôn đi cùng kiểm lâm/hướng dẫn viên; mang thuốc chống muỗi và ve rừng; không tự ý vào vùng lõi được bảo vệ nghiêm ngặt."
+    },
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%A5%D1%80%D0%B5%D0%B1%D0%B5%D1%82%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9%20%D0%A5%D0%B5%D1%85%D1%86%D0%B8%D1%80.JPG",
+    "photo_credit": "Wikimedia Commons",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=134.858889,48.205&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=48.205,134.858889"
+    },
+    "official_site": "https://zapovedamur.ru/",
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Bolshekhekhtsirsky%20Nature%20Reserve"
+      }
+    ],
+    "tags": [
+      "nature-reserve",
+      "zapovednik",
+      "taiga",
+      "biodiversity",
+      "khekhtsir",
+      "amur",
+      "far-east"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-21"
+  }
+]

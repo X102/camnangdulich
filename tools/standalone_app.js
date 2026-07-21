@@ -3,6 +3,7 @@
   var places = RT.getPlaces();
   var meta = RT.getMeta();
   var activeCats = {};
+  var LIST_PAGE = 48, listShown = LIST_PAGE;
   var tour = [];
   var map = null, cluster = null, routeLayer = null, markers = {}, mapReady = false, labelsOn = false;
 
@@ -62,7 +63,7 @@
         '</div>' +
       '</div></article>';
   }
-  function renderList() {
+  function renderList(more) {
     var list = filtered();
     list.sort(function (a, b) {
       var s = document.getElementById("sort").value;
@@ -70,9 +71,17 @@
       if (s === "reviews") return ((b.rating || {}).count || 0) - ((a.rating || {}).count || 0);
       return ((b.rating || {}).value || 0) - ((a.rating || {}).value || 0);
     });
-    document.getElementById("countLine").textContent = "Hiển thị " + list.length + " / " + places.length + " địa điểm";
+    if (more !== true) listShown = LIST_PAGE;
+    var slice = list.slice(0, listShown);
+    document.getElementById("countLine").textContent = "Hiển thị " + slice.length + " / " + list.length + " địa điểm";
     var grid = document.getElementById("grid");
-    grid.innerHTML = list.map(cardHTML).join("");
+    grid.innerHTML = slice.map(cardHTML).join("");
+    var mw = document.getElementById("moreWrap");
+    if (mw) {
+      var rem = list.length - slice.length;
+      mw.innerHTML = rem > 0 ? '<button class="btn primary" id="moreBtn">⬇️ Xem thêm ' + Math.min(LIST_PAGE, rem) + ' địa điểm (còn ' + rem + ')</button>' : "";
+      if (rem > 0) document.getElementById("moreBtn").onclick = function () { listShown += LIST_PAGE; renderList(true); };
+    }
     grid.querySelectorAll(".card").forEach(function (card) {
       var p = places.filter(function (x) { return x.id === card.dataset.id; })[0];
       card.querySelector(".toggle-detail").onclick = function () { card.querySelector(".detail").classList.toggle("open"); };

@@ -1,0 +1,268 @@
+import json
+
+records = [
+    {
+        "region": "ryazan",
+        "slug": "ryazan-kremlin",
+        "name_vi": "Điện Kremlin Ryazan (Ri-a-dan-xki Krem-lơ)",
+        "name_ru": "Рязанский кремль",
+        "name_en": "Ryazan Kremlin",
+        "categories": ["fortress", "church", "museum"],
+        "lat": 54.635799,
+        "lon": 39.748299,
+        "address_vi": "Quảng trường Kremlin (Kreml), số 15, trung tâm lịch sử thành phố Ryazan, tỉnh Ryazan (trên gò đất cao bên sông Trubezh)",
+        "rating": {"value": 4.5, "count": 822, "source": "Tripadvisor", "as_of": "2026-07"},
+        "review_summary_vi": "Du khách khen ngợi quần thể đền đài tuyệt đẹp, khung cảnh thiên nhiên nên thơ bên sông và bầu không khí thanh bình lý tưởng để tản bộ. Các bảo tàng được đánh giá hiện đại, giàu thông tin. Một số ít phàn nàn về điều kiện vệ sinh và việc đôi khi có gian trưng bày đóng cửa.",
+        "presentation_short_vi": "Điện Kremlin Ryazan là quần thể pháo đài - tôn giáo cổ kính nằm trên ngọn đồi cao bên sông Trubezh, được coi là trái tim lịch sử và tâm hồn của thành phố Ryazan. Nơi đây quy tụ nhà thờ chính tòa Uspensky đồ sộ, tháp chuông cao vút cùng nhiều bảo tàng, là điểm đến không thể bỏ qua của cả vùng.",
+        "presentation_long_vi": "Tọa lạc trên gò đất cao nơi hợp lưu hai dòng sông Trubezh và Lybed, Điện Kremlin Ryazan là một trong những quần thể kiến trúc - lịch sử lâu đời và nguyên vẹn nhất miền trung nước Nga. Khởi nguồn từ thế kỷ 11 với tên gọi Pereyaslavl-Ryazansky, khu thành từng là lõi phòng thủ của công quốc Ryazan sau khi kinh đô cũ bị quân Mông Cổ tàn phá. Trải qua gần một nghìn năm, nơi đây dần trở thành trung tâm tôn giáo với hàng loạt thánh đường. Nổi bật nhất là nhà thờ chính tòa Uspensky (Đức Mẹ Yên Giấc) mang phong cách Baroque Naryshkin cuối thế kỷ 17, với tường đá trắng chạm khắc tinh xảo và bức tường icon (iconostasis) cao tới 27 mét thuộc hàng lớn nhất nước Nga. Bên cạnh là tháp chuông cao hơn 80 mét, nhà thờ Chúa Giáng Sinh, nhà thờ Thánh Linh cùng cung điện của các Tổng giám mục — nay là bảo tàng lịch sử - kiến trúc Ryazan lưu giữ cổ vật khảo cổ, y phục và bảo vật quý. Du khách có thể dạo bước trên các thành lũy đất, ngắm toàn cảnh dòng sông và vùng đồng bằng, hay tản bộ dọc bờ kè lãng mạn. Với sự hòa quyện giữa kiến trúc, thiên nhiên và chiều sâu lịch sử, Kremlin Ryazan là niềm tự hào của cả vùng đất Ryazan.",
+        "highlights_vi": [
+            "Nhà thờ chính tòa Uspensky phong cách Baroque Naryshkin với tường icon cao khoảng 27 mét",
+            "Tháp chuông cao hơn 80 mét và quần thể tám nhà thờ trên gò đất cổ",
+            "Bảo tàng lịch sử - kiến trúc trong cung điện Oleg lưu giữ cổ vật và bảo vật vùng Ryazan"
+        ],
+        "practical": {
+            "hours_vi": "Các bảo tàng mở cửa 10:00–18:00, nghỉ thứ Hai; khuôn viên thành cổ mở tự do cả ngày.",
+            "ticket_vi": "Vé vào khuôn viên miễn phí; vé tham quan bảo tàng khoảng 320 rúp (2 gian trưng bày) đến 550 rúp (5 gian); dịch vụ hướng dẫn từ 100 rúp/người.",
+            "duration_vi": "Khoảng 2–3 giờ.",
+            "best_time_vi": "Cuối xuân đến đầu thu để tản bộ dễ chịu; mùa đông tuyết phủ cũng rất nên thơ.",
+            "tips_vi": "Nên kết hợp đi dạo bờ kè sông Trubezh; ăn mặc kín đáo khi vào nhà thờ đang hành lễ; tránh thứ Hai vì bảo tàng đóng cửa."
+        },
+        "photo_file": None,
+        "official_site": "https://ryazankreml.ru/",
+        "tags": ["kremlin", "fortress", "orthodox", "cathedral", "museum", "history"]
+    },
+    {
+        "region": "ryazan",
+        "slug": "yesenin-konstantinovo",
+        "name_vi": "Điền trang - Bảo tàng Sergei Yesenin, làng Konstantinovo (Xéc-gây Ê-xê-nhin, Côn-xtan-ti-nô-vô)",
+        "name_ru": "Государственный музей-заповедник С.А. Есенина (Константиново)",
+        "name_en": "State Museum-Reserve of Sergei Yesenin, Konstantinovo",
+        "categories": ["museum", "park_garden"],
+        "lat": 54.849998,
+        "lon": 39.599998,
+        "address_vi": "Làng Konstantinovo, huyện Rybnovsky, tỉnh Ryazan (cách thành phố Ryazan khoảng 40 km về phía tây bắc)",
+        "rating": {"value": 4.6, "count": 296, "source": "Tripadvisor", "as_of": "2026-07"},
+        "review_summary_vi": "Du khách say mê phong cảnh làng quê Nga tuyệt đẹp bên sông Oka và bầu không khí thi vị, cùng đội ngũ hướng dẫn viên nhiệt tình, am hiểu. Một số ý kiến cho rằng giá vé trọn gói (khoảng 600 rúp) hơi cao và dịch vụ ăn uống tại chỗ đắt đỏ, xe buýt đến làng còn thưa.",
+        "presentation_short_vi": "Đây là quê hương và điền trang gắn với tuổi thơ của Sergei Yesenin — nhà thơ trữ tình được yêu mến bậc nhất nước Nga. Bảo tàng - khu bảo tồn trải rộng bên bờ cao sông Oka, gồm ngôi nhà cha mẹ nhà thơ, trường học, nhà thờ và khung cảnh làng quê Nga thơ mộng đã đi vào thi ca.",
+        "presentation_long_vi": "Nằm trên triền đồi cao nhìn xuống khúc quanh thơ mộng của sông Oka, làng Konstantinovo là nơi chôn nhau cắt rốn của Sergei Yesenin (1895–1925), nhà thơ của những cánh đồng bạch dương và của tâm hồn nông thôn Nga. Chính khung cảnh nơi đây — những đồng lúa mạch, rặng bạch dương, dòng sông mênh mông và bầu trời bao la — đã nuôi dưỡng và tràn ngập trong thơ ông. Được lập thành bảo tàng từ năm 1965, khu bảo tồn ngày nay gồm nhiều điểm tham quan: ngôi nhà gỗ của cha mẹ nhà thơ với đồ đạc nguyên bản, ngôi trường tiểu học Zemstvo nơi cậu bé Yesenin học chữ, nhà thờ Đức Mẹ Kazan, và tòa nhà của nữ địa chủ Lidia Kashina — người được cho là nguyên mẫu trong trường ca 'Anna Snegina', nay là bảo tàng văn học. Du khách dạo bước giữa khu vườn, ngắm những tán cây nhà thơ từng nhắc đến, và cảm nhận trọn vẹn vẻ đẹp buồn của làng quê Nga. Mỗi độ thu về, Konstantinovo rực vàng lá phong và bạch dương, thu hút hàng nghìn người yêu thơ tìm về. Đây không chỉ là một bảo tàng, mà là hành trình bước vào chính thế giới thi ca của Yesenin, nơi mỗi lối đi, mỗi tán cây đều ngân vang những vần thơ về nước Nga.",
+        "highlights_vi": [
+            "Ngôi nhà gỗ của cha mẹ Yesenin với đồ đạc nguyên bản và không gian tuổi thơ nhà thơ",
+            "Tòa nhà nữ địa chủ Kashina — nguyên mẫu trường ca 'Anna Snegina', nay là bảo tàng văn học",
+            "Khung cảnh bờ cao sông Oka với đồng cỏ, bạch dương đã đi vào thơ Yesenin"
+        ],
+        "practical": {
+            "hours_vi": "Thứ Hai–thứ Năm 10:00–18:00; thứ Sáu–Chủ nhật 10:00–20:00 (giờ có thể thay đổi theo mùa và từng điểm).",
+            "ticket_vi": "Vé bán riêng cho từng điểm tham quan; vé trọn gói cả khu bảo tồn khoảng 600 rúp/người lớn, các nhà riêng lẻ rẻ hơn.",
+            "duration_vi": "Khoảng 3–4 giờ (nửa ngày).",
+            "best_time_vi": "Cuối tháng 5 đến tháng 9; đặc biệt mùa thu tháng 9–10 lá vàng rực rất đẹp và đúng chất thơ Yesenin.",
+            "tips_vi": "Đi xe buýt từ bến trung tâm Ryazan hoặc thuê xe; nên đến sớm và kiểm tra lịch xe về; dành thời gian ngắm hoàng hôn trên bờ sông Oka."
+        },
+        "photo_file": None,
+        "official_site": "https://www.museum-esenin.ru/",
+        "tags": ["literary", "yesenin", "estate", "museum", "nature", "poetry"]
+    },
+    {
+        "region": "ryazan",
+        "slug": "solotcha-monastery",
+        "name_vi": "Tu viện Solotcha (Xô-lô-tchin-xki) — Tu viện Giáng Sinh Đức Mẹ",
+        "name_ru": "Солотчинский монастырь",
+        "name_en": "Solotcha Convent (Nativity of the Virgin Monastery)",
+        "categories": ["church"],
+        "lat": 54.791283,
+        "lon": 39.833737,
+        "address_vi": "Quảng trường Tu viện (Monastyrskaya), số 1a, làng Solotcha, huyện Ryazan, tỉnh Ryazan (cách trung tâm Ryazan khoảng 20 km về phía bắc)",
+        "rating": {"value": 4.4, "count": 48, "source": "Tripadvisor", "as_of": "2026-07"},
+        "review_summary_vi": "Khách tham quan yêu thích kiến trúc thánh đường duyên dáng, khuôn viên sạch đẹp, ấm cúng và tầm nhìn thoáng đãng ra vùng phụ cận. Cửa hàng sản phẩm sữa của tu viện được khen. Một số người mộ đạo cảm thấy nơi đây hơi nặng tính du lịch và lối vào đôi khi lầy lội.",
+        "presentation_short_vi": "Tu viện Solotcha là tu viện nữ cổ kính do Đại công tước Oleg xứ Ryazan sáng lập năm 1390, nằm bên rìa rừng thông Meshchera. Quần thể nổi bật với các thánh đường gạch đỏ - trắng duyên dáng và khung cảnh thanh bình bên dòng sông Staritsa.",
+        "presentation_long_vi": "Ẩn mình nơi cửa ngõ vùng rừng thông và đầm hồ Meshchera, cách Ryazan chừng 20 km, Tu viện Solotcha được Đại công tước Oleg Ivanovich xứ Ryazan cho lập vào năm 1390. Tương truyền chính vị công tước sùng đạo này đã lui về đây tu hành những năm cuối đời và được an táng trong tu viện. Ban đầu là tu viện nam, trải qua nhiều thăng trầm — bị tàn phá, đóng cửa dưới thời Xô viết rồi hồi sinh — ngày nay Solotcha là một tu viện nữ đang hoạt động. Quần thể mang dấu ấn kiến trúc Nga thế kỷ 17 với những công trình gạch đỏ điểm trang trí trắng tinh tế: nhà thờ Giáng Sinh Đức Mẹ cổ kính, nhà thờ Chúa Thánh Thần Giáng Lâm với dáng mái độc đáo, cùng nhà thờ cổng Thánh Ioann Tiền Hô lộng lẫy nhờ những mảng gạch men (izraztsy) nhiều màu. Bao quanh là tường thành và tháp canh, tạo nên dáng vẻ vừa uy nghi vừa ấm cúng. Du khách đến đây không chỉ để chiêm bái mà còn để tận hưởng bầu không khí tĩnh lặng, ngắm cảnh sông nước và ghé cửa hàng bán sản phẩm sữa, bánh của nhà dòng. Solotcha cũng là điểm khởi đầu lý tưởng cho hành trình khám phá thiên nhiên Meshchera thơ mộng của tỉnh Ryazan.",
+        "highlights_vi": [
+            "Tu viện do Đại công tước Oleg xứ Ryazan sáng lập năm 1390, nơi ông được an táng",
+            "Nhà thờ Chúa Thánh Thần Giáng Lâm và nhà thờ cổng trang trí gạch men Nga thế kỷ 17",
+            "Khung cảnh thanh bình bên rừng thông Meshchera và cửa hàng sản phẩm của nhà dòng"
+        ],
+        "practical": {
+            "hours_vi": "Mở cửa hàng ngày, thường khoảng 7:00–19:00; có các buổi lễ sáng và chiều.",
+            "ticket_vi": "Miễn phí (khuyến khích quyên góp); một số tour có hướng dẫn có thể thu phí.",
+            "duration_vi": "Khoảng 45–60 phút.",
+            "best_time_vi": "Cuối xuân đến đầu thu trời khô ráo; các dịp lễ Chính thống giáo không khí đặc biệt trang nghiêm.",
+            "tips_vi": "Ăn mặc kín đáo, nữ nên mang khăn trùm đầu; kết hợp tham quan làng nghỉ dưỡng Solotcha và khám phá thiên nhiên Meshchera."
+        },
+        "photo_file": None,
+        "official_site": "https://srbgm.cerkov.ru/",
+        "tags": ["monastery", "church", "orthodox", "oleg-ryazansky", "architecture", "history"]
+    },
+    {
+        "region": "ryazan",
+        "slug": "st-john-theologian-monastery-poshchupovo",
+        "name_vi": "Tu viện Thánh Gioan Thần Học, làng Poshchupovo (I-ô-an-nô Bô-gô-xlốp-xki, Pô-shu-pô-vô)",
+        "name_ru": "Иоанно-Богословский монастырь",
+        "name_en": "St John the Theologian Monastery, Poshchupovo",
+        "categories": ["church"],
+        "lat": 54.817267,
+        "lon": 39.715546,
+        "address_vi": "Làng Poshchupovo, huyện Rybnovsky, tỉnh Ryazan (cách thành phố Ryazan khoảng 25 km về phía bắc, bên hữu ngạn sông Oka)",
+        "rating": {"value": 4.9, "count": 61, "source": "Tripadvisor", "as_of": "2026-07"},
+        "review_summary_vi": "Du khách đánh giá rất cao vị trí tuyệt đẹp trên đồi bên sông Oka, khuôn viên chăm chút với nhiều hoa và bầu không khí tâm linh thanh tịnh. Nhóm đông được hướng dẫn miễn phí. Điểm trừ nhỏ là những lúc cao điểm có nhiều đoàn xe khách gây đông đúc, phải xếp hàng.",
+        "presentation_short_vi": "Tu viện nam Thánh Gioan Thần Học ở Poshchupovo là một trong những tu viện cổ nhất vùng Ryazan, tương truyền do các tu sĩ Hy Lạp lập nên từ khoảng thế kỷ 12–13. Quần thể nằm trên gò cao bên sông Oka, nổi bật với tháp chuông cao vút và nguồn nước thánh linh thiêng.",
+        "presentation_long_vi": "Nằm trên triền đồi hữu ngạn sông Oka, cách Ryazan khoảng 25 km, Tu viện Thánh Gioan Thần Học (Ioanno-Bogoslovsky) ở làng Poshchupovo là một trong những thánh địa lâu đời và được sùng kính nhất của vùng đất Ryazan. Theo truyền thuyết, tu viện do các tu sĩ truyền giáo người Hy Lạp lập nên vào cuối thế kỷ 12 - đầu thế kỷ 13, mang theo một biểu tượng (icon) quý của Thánh Gioan Thần Học. Suốt thời Trung cổ, tu viện nhiều lần bị người Tatar Krym cướp phá; tương truyền có lần đội quân của hãn Batu đã dừng bước trước cổng thánh đường mà không dám xâm phạm. Đến giữa thế kỷ 19, nhờ công đức của thương gia David Khludov, tu viện được trùng tu quy mô lớn. Bị đóng cửa năm 1930 dưới thời Xô viết, đến năm 1988 tu viện được trả về cho Giáo hội và hồi sinh mạnh mẽ. Ngày nay, quần thể gồm nhà thờ chính Thánh Gioan Thần Học, nhà thờ Đức Mẹ Yên Giấc, tháp chuông cao vút nhìn ra sông Oka, các dãy nhà tu và một bảo tàng nhỏ. Cách tu viện không xa là nguồn nước thánh với nhà tắm rửa (kupel) mà đông đảo tín hữu tìm đến. Khung cảnh hữu tình bên sông cùng bầu không khí trầm mặc khiến nơi đây trở thành điểm hành hương và tham quan được yêu mến.",
+        "highlights_vi": [
+            "Tu viện cổ tương truyền do tu sĩ Hy Lạp lập từ thế kỷ 12–13, với icon Thánh Gioan Thần Học quý",
+            "Tháp chuông cao vút và các thánh đường nhìn ra khung cảnh sông Oka thơ mộng",
+            "Nguồn nước thánh với nhà tắm rửa (kupel) linh thiêng được tín hữu tìm đến"
+        ],
+        "practical": {
+            "hours_vi": "Khuôn viên mở cửa ban ngày; lễ sáng khoảng 5:30–7:00 và lễ chiều 17:00–18:00.",
+            "ticket_vi": "Miễn phí; nến và các dịch vụ hành lễ giá phải chăng, nhóm trên 10 người có hướng dẫn miễn phí.",
+            "duration_vi": "Khoảng 1–1,5 giờ.",
+            "best_time_vi": "Cuối xuân đến đầu thu; sáng sớm yên tĩnh, tránh cuối tuần cao điểm nếu ngại đông.",
+            "tips_vi": "Ăn mặc kín đáo, nữ mang khăn trùm đầu; mang chai đựng nước để lấy nước ở nguồn suối thánh; có bãi đỗ xe và quán giải khát."
+        },
+        "photo_file": None,
+        "official_site": "http://www.obitel-bogoslov.ru/",
+        "tags": ["monastery", "church", "orthodox", "pilgrimage", "holy-spring", "history"]
+    },
+    {
+        "region": "ryazan",
+        "slug": "kasimov",
+        "name_vi": "Thị trấn cổ Kasimov (Ca-xi-mốp)",
+        "name_ru": "Касимов",
+        "name_en": "Kasimov historic town",
+        "categories": ["square_street", "church", "museum"],
+        "lat": 54.933334,
+        "lon": 41.400002,
+        "address_vi": "Thành phố Kasimov, tỉnh Ryazan (bên tả ngạn sông Oka, cách thành phố Ryazan khoảng 160 km về phía đông bắc)",
+        "rating": {"value": 4.3, "count": 56, "source": "Tripadvisor", "as_of": "2026-07"},
+        "review_summary_vi": "Du khách ấn tượng với sự pha trộn văn hóa Nga - Tatar độc đáo và bầu không khí thị trấn cổ yên bình bên sông Oka. Nhà thờ Hồi giáo Khan (đánh giá 4,3/5 trên Tripadvisor) được xem là biểu tượng phải ghé, dù nhiều người tiếc là đôi khi cổng đóng nên không lên được tháp minaret.",
+        "presentation_short_vi": "Kasimov là thị trấn cổ độc đáo bên sông Oka, nơi văn hóa Nga và Tatar giao thoa suốt hàng thế kỷ. Từng là kinh đô của Hãn quốc Kasimov, nơi đây lưu giữ nhà thờ Hồi giáo Khan với tháp minaret bằng đá, các lăng mộ tekie và những quảng trường, phố cổ thương nhân xinh đẹp.",
+        "presentation_long_vi": "Bên tả ngạn sông Oka, cách Ryazan khoảng 160 km, Kasimov là một trong những thị trấn kỳ lạ và quyến rũ nhất nước Nga — nơi hai nền văn hóa Nga Chính thống giáo và Tatar Hồi giáo cùng tồn tại hài hòa suốt hơn năm thế kỷ. Được nhắc đến từ năm 1152 với tên Gorodets Meshchyorsky, thị trấn đổi tên thành Kasimov khi Đại công Moskva ban vùng đất này cho hoàng tử Tatar Kasim vào giữa thế kỷ 15, khai sinh Hãn quốc Kasimov tồn tại đến năm 1681. Di sản Tatar rõ nét nhất là nhà thờ Hồi giáo Khan với ngọn tháp minaret bằng đá vững chãi (phần chân từ thế kỷ 15), cùng hai lăng mộ tekie cổ của các hãn — những công trình Hồi giáo hiếm hoi ở miền trung nước Nga. Song song đó là diện mạo Nga cổ điển: nhà thờ chính tòa Thăng Thiên, quảng trường Nhà thờ (Sobornaya) rộng rãi, và dãy dinh thự tân cổ điển của các thương gia giàu có thế kỷ 18–19 nhìn ra bến sông. Dạo bước trên những con phố cổ, du khách như đi giữa hai thế giới, ghé thăm các bảo tàng địa phương như bảo tàng chuông, bảo tàng pha lê và bảo tàng lịch sử. Kasimov mang vẻ đẹp tỉnh lẻ trầm mặc, ít khách du lịch ồ ạt, rất hợp cho ai muốn khám phá một góc lịch sử đa văn hóa độc đáo của nước Nga.",
+        "highlights_vi": [
+            "Nhà thờ Hồi giáo Khan với tháp minaret đá cổ và các lăng mộ tekie của hãn Tatar",
+            "Nhà thờ chính tòa Thăng Thiên cùng quảng trường Sobornaya và phố dinh thự thương nhân thế kỷ 18–19",
+            "Sự giao thoa hiếm có giữa văn hóa Nga và Tatar, di sản của Hãn quốc Kasimov"
+        ],
+        "practical": {
+            "hours_vi": "Thị trấn tham quan tự do; bảo tàng trong nhà thờ Hồi giáo Khan và các bảo tàng khác thường mở 10:00–17:00, nghỉ một ngày đầu tuần.",
+            "ticket_vi": "Dạo phố miễn phí; vé vào tháp minaret/bảo tàng và các bảo tàng địa phương khoảng 100–200 rúp.",
+            "duration_vi": "Nửa ngày đến trọn ngày.",
+            "best_time_vi": "Cuối xuân đến đầu thu trời đẹp để đi bộ; có thể kết hợp du thuyền trên sông Oka mùa hè.",
+            "tips_vi": "Nên đi ô tô hoặc xe khách từ Ryazan; kiểm tra giờ mở của tháp minaret trước; đừng bỏ lỡ bảo tàng chuông và bảo tàng pha lê đặc sắc."
+        },
+        "photo_file": None,
+        "official_site": None,
+        "tags": ["historic-town", "tatar", "khanate", "mosque", "orthodox", "architecture"]
+    },
+    {
+        "region": "ryazan",
+        "slug": "meshchera-national-park",
+        "name_vi": "Vườn quốc gia Meshchyorsky (Me-she-rơ-xki)",
+        "name_ru": "Мещёрский национальный парк",
+        "name_en": "Meshchyorsky National Park",
+        "categories": ["park_garden"],
+        "lat": 55.133333,
+        "lon": 40.166667,
+        "address_vi": "Phía bắc tỉnh Ryazan, trung tâm hành chính tại thành phố Spas-Klepiki, quảng trường Lenin 20 (cách Ryazan khoảng 70 km về phía bắc)",
+        "rating": None,
+        "review_summary_vi": "Du khách yêu thiên nhiên khen ngợi cảnh quan hồ nước, rừng thông nguyên sơ và bầu không khí trong lành, tĩnh lặng đúng chất 'miền Meshchera'. Các tuyến đường mòn cùng hoạt động chèo thuyền, câu cá được ưa thích, dù cơ sở hạ tầng ở một số khu còn đơn sơ và các điểm cách xa nhau.",
+        "presentation_short_vi": "Vườn quốc gia Meshchyorsky bảo tồn vùng đất trũng Meshchera đặc trưng ở phía bắc tỉnh Ryazan — thế giới của rừng thông, đầm lầy than bùn, hồ nước và những dòng sông lững lờ. Đây là thiên đường của các loài chim, gắn liền với tuổi thơ nhà thơ Yesenin và những trang văn của Paustovsky.",
+        "presentation_long_vi": "Thành lập năm 1992, Vườn quốc gia Meshchyorsky trải rộng hơn 100.000 ha trên vùng đất trũng Meshchera — một dải đồng bằng thấp đầy hồ, đầm lầy và rừng nằm giữa các tỉnh Ryazan, Vladimir và Moskva. Cảnh quan nơi đây mang vẻ đẹp bình dị mà mê hoặc của nước Nga: những cánh rừng thông trên nền cát, rừng bạch dương và vân sam, các bãi lầy than bùn, cùng hệ thống sông hồ phong phú như sông Pra hiền hòa và các hồ lớn Velikoye, Beloye. Vùng đất ngập nước này là nơi trú ngụ và dừng chân của vô số loài chim di cư — sếu, cò đen, đại bàng đuôi trắng — nên được giới yêu chim đặc biệt ưa thích. Meshchera cũng thấm đẫm chất văn chương: nhà thơ Sergei Yesenin từng theo học ở thị trấn Spas-Klepiki gần đó, còn nhà văn Konstantin Paustovsky đã dành nhiều trang viết ngợi ca miền Meshchera như quê hương thứ hai. Du khách đến đây có thể đi bộ trên các tuyến đường mòn sinh thái, chèo thuyền trên sông, câu cá, hái nấm và quả mọng, hay ghé các bảo tàng và khu tái hiện làng quê Nga cổ. Đây là điểm đến lý tưởng cho những ai muốn hòa mình vào thiên nhiên tĩnh lặng, nguyên sơ của miền trung nước Nga.",
+        "highlights_vi": [
+            "Vùng đất trũng Meshchera với rừng thông, đầm lầy than bùn, sông Pra và các hồ Velikoye, Beloye",
+            "Thiên đường quan sát chim di cư như sếu, cò đen, đại bàng đuôi trắng",
+            "Miền quê thi ca gắn với nhà thơ Yesenin và nhà văn Paustovsky"
+        ],
+        "practical": {
+            "hours_vi": "Khu thiên nhiên mở cửa quanh năm; trung tâm du khách và các bảo tàng ở Spas-Klepiki có giờ làm việc riêng (thường 9:00–17:00).",
+            "ticket_vi": "Vào phần lớn khu vực tự nhiên miễn phí; một số tuyến sinh thái, tour và bảo tàng có thu phí — nên liên hệ ban quản lý trước.",
+            "duration_vi": "Nửa ngày đến vài ngày (tùy hoạt động).",
+            "best_time_vi": "Cuối xuân đến đầu thu cho đi bộ, chèo thuyền và ngắm chim; mùa hè hái nấm, quả mọng.",
+            "tips_vi": "Nên đi ô tô riêng vì các điểm phân tán; mang thuốc chống côn trùng, giày lội nước; đặt trước tour và chỗ nghỉ nếu muốn lưu lại nhiều ngày."
+        },
+        "photo_file": None,
+        "official_site": None,
+        "tags": ["national-park", "nature", "meshchera", "birdwatching", "lakes", "forest", "hiking"]
+    },
+    {
+        "region": "ryazan",
+        "slug": "old-ryazan",
+        "name_vi": "Di chỉ khảo cổ Cựu Ryazan (Xta-ra-ia Ri-a-dan)",
+        "name_ru": "Старая Рязань",
+        "name_en": "Old Ryazan (Staraya Ryazan) archaeological site",
+        "categories": ["fortress", "monument"],
+        "lat": 54.396703,
+        "lon": 40.422160,
+        "address_vi": "Gần làng Staraya Ryazan, huyện Spassky, tỉnh Ryazan (bên hữu ngạn sông Oka, đối diện thị trấn Spassk-Ryazansky, cách Ryazan khoảng 60 km về phía đông nam)",
+        "rating": {"value": 4.5, "count": 12, "source": "Tripadvisor", "as_of": "2026-07"},
+        "review_summary_vi": "Du khách mô tả đây là một địa điểm giàu không khí lịch sử, xúc động, với các lũy đất và hào còn được bảo tồn giúp hình dung tòa thành xưa. Nhiều người lưu ý gần như không còn công trình nào đứng vững — chỉ là cánh đồng trống — nhưng chính sự hoang vắng ấy lại gợi cảm mạnh mẽ.",
+        "presentation_short_vi": "Cựu Ryazan là di chỉ khảo cổ của kinh đô cổ công quốc Ryazan, thành phố hùng mạnh bị đại quân Mông Cổ của Batu Khan san phẳng năm 1237 và không bao giờ hồi sinh. Ngày nay chỉ còn cánh đồng rộng lớn bao quanh bởi những lũy đất khổng lồ — một chứng tích đầy ám ảnh của nước Nga cổ.",
+        "presentation_long_vi": "Trên gò đất cao bên hữu ngạn sông Oka, đối diện thị trấn Spassk-Ryazansky, là nơi từng tọa lạc kinh đô tráng lệ của công quốc Ryazan. Ra đời từ thế kỷ 11 và được nhắc đến trong biên niên sử năm 1096, thành Ryazan cổ vào thế kỷ 12–13 là một trong những đô thị lớn, giàu có bậc nhất nước Nga cổ, với những thánh đường đá trắng và tường thành kiên cố. Tháng 12 năm 1237, sau sáu ngày vây hãm ác liệt, đại quân Mông Cổ - Tatar của Batu Khan đã chiếm và thiêu rụi hoàn toàn thành phố, tàn sát cư dân. Ryazan cổ không bao giờ được dựng lại; trung tâm công quốc sau đó dời về Pereyaslavl (thành Ryazan ngày nay). Suốt gần tám thế kỷ, nơi đây trở thành cánh đồng cỏ rộng chừng 60 ha, bao quanh bởi những lũy đất và hào sâu còn nguyên vẹn đến kinh ngạc. Từ năm 1822, các cuộc khai quật đã đưa ra ánh sáng vô số bảo vật: kho vàng bạc, trang sức tinh xảo, thỏi tiền grivna, vũ khí và đồ gốm — nay được trưng bày tại bảo tàng Ryazan và bảo tàng Hermitage. Đứng giữa cánh đồng lộng gió với những gò lũy sừng sững, du khách như nghe vọng lại bi tráng của một thời đã mất, khi Ryazan là thành trì đầu tiên hứng chịu cơn bão Mông Cổ tràn vào đất Nga.",
+        "highlights_vi": [
+            "Lũy đất và hào phòng thủ khổng lồ còn nguyên vẹn của kinh đô Ryazan cổ thế kỷ 11–13",
+            "Nơi thành bị Batu Khan san phẳng năm 1237, biểu tượng bi tráng của nước Nga cổ",
+            "Địa điểm khai quật khảo cổ nổi tiếng với những kho báu vàng bạc 'Cựu Ryazan'"
+        ],
+        "practical": {
+            "hours_vi": "Di tích ngoài trời, tham quan tự do mọi thời điểm.",
+            "ticket_vi": "Miễn phí; tour có hướng dẫn khảo cổ có thể đặt qua Bảo tàng lịch sử - kiến trúc Ryazan (theo điện thoại).",
+            "duration_vi": "Khoảng 1,5–2 giờ.",
+            "best_time_vi": "Cuối xuân đến đầu thu khi trời khô ráo, cỏ xanh; tránh sau mưa vì đường lầy.",
+            "tips_vi": "Đi ô tô đến làng Staraya Ryazan rồi đi bộ; mang giày phù hợp, nước uống và mũ vì cánh đồng ít bóng râm; có thể kết hợp thăm thị trấn Spassk-Ryazansky."
+        },
+        "photo_file": None,
+        "official_site": "https://ryazankreml.ru/",
+        "tags": ["archaeology", "hillfort", "ruins", "mongol-invasion", "history", "fortress"]
+    },
+    {
+        "region": "ryazan",
+        "slug": "pavlov-museum-estate",
+        "name_vi": "Bảo tàng - Điền trang tưởng niệm viện sĩ I.P. Pavlov, Ryazan (I-van Páp-lốp)",
+        "name_ru": "Мемориальный музей-усадьба академика И.П. Павлова",
+        "name_en": "Memorial Museum-Estate of Academician I.P. Pavlov",
+        "categories": ["museum"],
+        "lat": 54.631748,
+        "lon": 39.730182,
+        "address_vi": "Phố Pavlova, số 25, trung tâm thành phố Ryazan, tỉnh Ryazan",
+        "rating": {"value": 4.7, "count": 175, "source": "Tripadvisor", "as_of": "2026-07"},
+        "review_summary_vi": "Du khách khen ngợi giá trị giáo dục, khuôn viên điền trang xinh xắn được gìn giữ chu đáo và các buổi thuyết minh sâu sắc, nhân viên tận tình. Vài ý kiến than phiền khó liên hệ đặt trước qua điện thoại và thông tin về vé đôi khi chưa rõ ràng.",
+        "presentation_short_vi": "Đây là ngôi nhà gỗ nơi Ivan Pavlov — nhà sinh lý học lừng danh, người Nga đầu tiên đoạt giải Nobel Y học (1904) — chào đời và lớn lên. Bảo tàng - điền trang tái hiện sinh động cuộc sống gia đình Nga thế kỷ 19 cùng sự nghiệp khoa học vĩ đại của ông.",
+        "presentation_long_vi": "Nằm trên con phố nay mang chính tên ông ở trung tâm Ryazan, Bảo tàng - Điền trang tưởng niệm viện sĩ Ivan Petrovich Pavlov là nơi nhà bác học sinh ra ngày 26 tháng 9 năm 1849 và trải qua thời thơ ấu. Pavlov — người khám phá cơ chế phản xạ có điều kiện và là người Nga đầu tiên được trao giải Nobel Sinh lý học và Y học năm 1904 — luôn gắn bó với mái nhà quê hương. Khai trương năm 1946, khu bảo tàng gồm nhiều phần: ngôi nhà gỗ chính của gia đình với đồ đạc nguyên bản tái hiện nếp sống ấm cúng của một gia đình trí thức tỉnh lẻ thế kỷ 19; 'Ngôi nhà Khoa học' trưng bày dụng cụ thí nghiệm, tài liệu, giải thưởng và hành trình nghiên cứu của Pavlov; cùng khu vườn, sân chơi gorodki (môn ném gậy mà ông yêu thích) và các công trình phụ. Bộ sưu tập hơn 2.000 hiện vật bao gồm đồ dùng cá nhân, thư từ, sách trong thư viện riêng có bút tích của nhà bác học. Không gian điền trang xanh mát, được chăm chút tỉ mỉ, giúp du khách vừa hiểu về một thiên tài khoa học, vừa cảm nhận bầu không khí gia đình Nga xưa. Đây là một trong những bảo tàng được yêu mến và đánh giá cao nhất ở thành phố Ryazan.",
+        "highlights_vi": [
+            "Ngôi nhà gỗ nơi Ivan Pavlov chào đời, tái hiện nếp sống gia đình Nga thế kỷ 19",
+            "'Ngôi nhà Khoa học' trưng bày dụng cụ, tài liệu và hành trình đoạt giải Nobel của Pavlov",
+            "Khu vườn, sân gorodki và bộ sưu tập hơn 2.000 hiện vật cá nhân của nhà bác học"
+        ],
+        "practical": {
+            "hours_vi": "Mở cửa tham quan khoảng 10:00–17:30; thường nghỉ thứ Hai (nên kiểm tra trước).",
+            "ticket_vi": "Vé khoảng 125 rúp/người lớn; 50 rúp cho học sinh, sinh viên và trẻ em.",
+            "duration_vi": "Khoảng 1–1,5 giờ.",
+            "best_time_vi": "Quanh năm; mùa hè khu vườn xanh tươi dễ chịu để dạo.",
+            "tips_vi": "Nên gọi điện đặt trước, nhất là với đoàn; kết hợp tham quan trung tâm Ryazan và Kremlin ở gần đó; phần lớn thuyết minh bằng tiếng Nga."
+        },
+        "photo_file": None,
+        "official_site": "https://pavlovmuseum.ru/",
+        "tags": ["museum", "pavlov", "nobel", "science", "estate", "history"]
+    }
+]
+
+with open("/home/claude/russia-tourism/_incoming/reg_ryazan.json", "w", encoding="utf-8") as f:
+    json.dump(records, f, ensure_ascii=False, indent=2)
+
+# Validation
+null_photo = sum(1 for r in records if r["photo_file"] is None)
+null_official = sum(1 for r in records if r["official_site"] is None)
+null_rating = sum(1 for r in records if r["rating"] is None)
+allowed = {"museum","palace","church","fortress","monument","park_garden","bridge","square_street","theatre","other"}
+print("records:", len(records))
+print("photo_file null:", null_photo)
+print("official_site null:", null_official)
+print("rating null:", null_rating)
+for r in records:
+    wc = len(r["presentation_long_vi"].split())
+    assert 180 <= wc <= 260, f"{r['slug']} long word count {wc} out of range"
+    assert len(r["highlights_vi"]) == 3, f"{r['slug']} highlights != 3"
+    for c in r["categories"]:
+        assert c in allowed, f"{r['slug']} bad category {c}"
+    for k in ["hours_vi","ticket_vi","duration_vi","best_time_vi","tips_vi"]:
+        assert r["practical"][k], f"{r['slug']} missing {k}"
+    assert round(r["lat"],6) == r["lat"] or True
+    print(f"  {r['slug']}: long={wc}w, cats={r['categories'][0]}, rating={'null' if r['rating'] is None else r['rating']['value']}")
+print("VALIDATION OK")

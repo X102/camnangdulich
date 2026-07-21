@@ -49,6 +49,7 @@
   <div class="filter-cats" id="filterCats" style="margin:-6px 0 16px;"></div>
 
   <div class="grid" id="grid"></div>
+  <div id="moreWrap" style="text-align:center; margin:20px 0 10px;"></div>
   <div id="empty" class="muted" style="display:none; padding:40px 0; text-align:center;">Không tìm thấy địa điểm phù hợp.</div>
 </main>
 
@@ -195,13 +196,23 @@
     return list;
   }
 
-  function render() {
+  var PAGE = 48, shownCount = PAGE;
+  function render(more) {
+    if (!more) shownCount = PAGE;
     var list = currentList();
+    var slice = list.slice(0, shownCount);
     document.getElementById("countLine").textContent =
-      "Hiển thị " + list.length + " / " + places.length + " địa điểm" +
-      (meta.total_places ? " · " + (meta.regions || []).length + " vùng" : "");
-    grid.innerHTML = list.map(cardHTML).join("");
+      "Hiển thị " + slice.length + " / " + list.length + " địa điểm" +
+      (list.length !== places.length ? " (lọc từ " + places.length + ")" : "") +
+      " · " + (meta.regions || []).length + " vùng";
+    grid.innerHTML = slice.map(cardHTML).join("");
     document.getElementById("empty").style.display = list.length ? "none" : "block";
+    var mw = document.getElementById("moreWrap");
+    var remaining = list.length - slice.length;
+    if (remaining > 0) {
+      mw.innerHTML = '<button class="btn primary" id="moreBtn">⬇️ Xem thêm ' + Math.min(PAGE, remaining) + ' địa điểm (còn ' + remaining + ')</button>';
+      document.getElementById("moreBtn").onclick = function () { shownCount += PAGE; render(true); };
+    } else { mw.innerHTML = ""; }
     bindCards();
   }
 
@@ -230,9 +241,9 @@
     });
   }
 
-  document.getElementById("q").oninput = render;
-  document.getElementById("sort").onchange = render;
-  document.getElementById("region").onchange = render;
+  document.getElementById("q").oninput = function () { render(); };
+  document.getElementById("sort").onchange = function () { render(); };
+  document.getElementById("region").onchange = function () { render(); };
   document.getElementById("rate").oninput = function () { RT.TTS.setRate(parseFloat(this.value)); };
   document.getElementById("stopAll").onclick = function () {
     RT.TTS.stop();

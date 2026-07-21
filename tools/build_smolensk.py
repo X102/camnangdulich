@@ -1,0 +1,273 @@
+# -*- coding: utf-8 -*-
+import json, re
+
+records = [
+{
+ "region":"smolensk",
+ "slug":"smolensk-fortress-wall",
+ "name_vi":"Tường thành pháo đài Smolensk (Smolenskaya krepostnaya stena)",
+ "name_ru":"Смоленская крепостная стена",
+ "name_en":"Smolensk Fortress Wall",
+ "categories":["fortress","monument"],
+ "lat":54.779970,
+ "lon":32.043950,
+ "address_vi":"Trung tâm lịch sử thành phố Smolensk (tháp Gromovaya, đường Oktyabrskoy Revolyutsii), tỉnh Smolensk, Nga",
+ "rating":{"value":4.5,"count":444,"source":"Tripadvisor","as_of":"2026-07"},
+ "review_summary_vi":"Du khách trầm trồ trước quy mô và bề dày lịch sử của tường thành, thích thú khi được leo lên các tháp và đi trong hành lang gạch cổ. Một số ý kiến tiếc nuối vì nhiều đoạn bị rào chắn, xuống cấp hoặc thiếu bảng chỉ dẫn, hạ tầng du lịch chưa hoàn thiện.",
+ "presentation_short_vi":"Được kiến trúc sư Fyodor Kon xây dựng năm 1595-1602, Tường thành Smolensk từng dài 6,5 km với 38 tòa tháp, được mệnh danh là 'chuỗi ngọc của toàn nước Nga'. Là lá chắn trấn giữ biên cương phía tây, tường thành đã chống chọi quân Ba Lan, Napoléon và phát xít Đức. Nay còn khoảng một nửa cùng chừng mười tám tháp, trong đó tháp Gromovaya là bảo tàng pháo đài.",
+ "presentation_long_vi":"Được xây dựng trong bảy năm ngắn ngủi từ 1595 đến 1602 dưới thời Sa hoàng Fyodor I và Boris Godunov, Tường thành Smolensk là công trình phòng thủ đồ sộ do kiến trúc sư tài ba Fyodor Kon chỉ huy. Nguyên bản, bức tường gạch đỏ dài tới 6,5 km, cao 13-19 mét, dày 5-6 mét, với 38 tòa tháp canh, ôm trọn thành phố cổ như một vòng thành khép kín. Boris Godunov từng ca ngợi nó là 'chuỗi ngọc của toàn nước Nga', bởi đây là lá chắn trấn giữ biên cương phía tây, chặn bước quân xâm lược suốt nhiều thế kỷ. Tường thành đã chứng kiến cuộc vây hãm khốc liệt của quân Ba Lan (1609-1611), cuộc xâm lăng của Napoléon năm 1812 và những trận đánh đẫm máu thời Thế chiến II. Ngày nay còn khoảng một nửa chiều dài cùng chừng mười tám tòa tháp được bảo tồn, mỗi tháp mang một dáng vẻ và tên gọi riêng như Veselukha, Nikolskaya hay Oryol. Tháp Gromovaya (Tháp Sấm) hiện là bảo tàng 'Smolensk - Lá chắn nước Nga', nơi du khách leo lên các tầng gỗ, ngắm súng thần công và tìm hiểu nghệ thuật quân sự cổ. Đi dọc chân tường rêu phong, phóng tầm mắt xuống dòng Dnieper, ta như chạm vào linh hồn kiêu hãnh của một thành phố tiền tuyến.",
+ "highlights_vi":[
+   "Bức tường gạch đỏ dài 6,5 km với 38 tháp do kiến trúc sư Fyodor Kon xây (1595-1602), được gọi là 'chuỗi ngọc của toàn nước Nga'",
+   "Tháp Gromovaya (Tháp Sấm) - bảo tàng 'Smolensk, Lá chắn nước Nga' với súng thần công và các tầng gỗ",
+   "Lá chắn tiền tuyến từng chống quân Ba Lan, Napoléon và phát xít Đức qua nhiều thế kỷ"
+ ],
+ "practical":{
+   "hours_vi":"Các đoạn tường và tháp ngoài trời có thể tham quan tự do mọi lúc. Bảo tàng trong tháp Gromovaya (Tháp Sấm) mở thứ Ba-Năm 10:00-18:00, thứ Sáu 10:00-17:00, thứ Bảy-Chủ nhật 11:00-19:00; nghỉ thứ Hai.",
+   "ticket_vi":"Đi dạo dọc tường thành ngoài trời miễn phí. Vé vào bảo tàng tháp Gromovaya có giá phải chăng (khoảng trên 100 RUB); nên kiểm tra giá mới nhất tại chỗ.",
+   "duration_vi":"Khoảng 1-2 giờ để đi một đoạn tường tiêu biểu và thăm bảo tàng trong tháp.",
+   "best_time_vi":"Cuối xuân đến đầu thu để đi bộ dễ chịu; buổi chiều muộn ánh nắng nghiêng rất đẹp để chụp ảnh tường gạch đỏ.",
+   "tips_vi":"Mang giày đi bộ thoải mái vì mặt đất gồ ghề. Kết hợp thăm tháp Gromovaya, đoạn tường phía đông và tháp Veselukha. Một số đoạn bị rào chắn hoặc xuống cấp, nên đi theo lối được phép."
+ },
+ "photo_file":None,
+ "official_site":"https://www.smolensk-museum.ru/",
+ "tags":["fortress","wall","history","fyodor-kon","military-history"]
+},
+{
+ "region":"smolensk",
+ "slug":"assumption-cathedral-smolensk",
+ "name_vi":"Nhà thờ chính tòa Đức Mẹ Lên Trời Smolensk (Uspensky sobor)",
+ "name_ru":"Успенский собор (Смоленск)",
+ "name_en":"Assumption Cathedral, Smolensk",
+ "categories":["church"],
+ "lat":54.788890,
+ "lon":32.054440,
+ "address_vi":"Đồi Nhà thờ (Sobornaya Gora), thành phố Smolensk, tỉnh Smolensk, Nga",
+ "rating":{"value":4.9,"count":714,"source":"Tripadvisor","as_of":"2026-07"},
+ "review_summary_vi":"Được đánh giá là điểm đến số một của Smolensk, nhà thờ khiến du khách choáng ngợp trước vẻ tráng lệ bên ngoài và bức tường thánh dát vàng cao ngất bên trong. Nhiều người khuyên nên đi cùng hướng dẫn viên để cảm nhận trọn vẹn giá trị kiến trúc và lịch sử; hầu như không có lời chê.",
+ "presentation_short_vi":"Nhà thờ chính tòa Đức Mẹ Lên Trời là biểu tượng của Smolensk, tọa lạc uy nghi trên Đồi Nhà thờ. Công trình Baroque trắng - lục với mái vòm vàng hiện nay được dựng từ cuối thế kỷ 17, nổi tiếng với bức tường thánh dát vàng cao 30 mét. Đây là một trong những nhà thờ lớn và đẹp nhất nước Nga, vẹn nguyên qua Thế chiến II.",
+ "presentation_long_vi":"Sừng sững trên Đồi Nhà thờ (Sobornaya Gora), Nhà thờ chính tòa Đức Mẹ Lên Trời là biểu tượng thiêng liêng và tráng lệ nhất của Smolensk. Ngôi thánh đường bằng đá đầu tiên tại đây được đại công Vladimir Monomakh cho dựng từ năm 1101, nhưng đã bị phá hủy trong cuộc vây hãm của quân Ba Lan năm 1611, khi kho thuốc súng gần đó phát nổ. Công trình nguy nga hiện nay khởi công năm 1677 và hoàn thiện vào giữa thế kỷ 18 theo phong cách Baroque, với sắc trắng - lục thanh nhã cùng những mái vòm dát vàng vươn cao gần 70 mét. Bên trong, du khách sẽ sững sờ trước bức tường thánh (iconostasis) năm tầng cao tới 30 mét, chạm khắc tinh xảo, sơn son thếp vàng - một kiệt tác điêu khắc Baroque Nga hiếm có. Thánh đường còn lưu giữ nhiều thánh tích quý: tấm khăn liệm thêu tay thế kỷ 16, đôi hài của Thánh Mercurius - vị anh hùng bảo vệ Smolensk trước quân Mông Cổ, và gắn liền với truyền thuyết về bức icon Đức Mẹ Hodegetria linh thiêng. Kỳ diệu thay, nhà thờ vẫn nguyên vẹn qua bom đạn Thế chiến II. Với sức chứa hàng nghìn người, đây là một trong những nhà thờ lớn nhất nước Nga, nơi tiếng chuông và lời kinh vẫn ngân vang mỗi ngày.",
+ "highlights_vi":[
+   "Tường thánh (iconostasis) Baroque năm tầng cao 30 mét, chạm khắc và dát vàng lộng lẫy",
+   "Kiến trúc Baroque trắng - lục với mái vòm vàng cao gần 70 mét, sừng sững trên Đồi Nhà thờ",
+   "Thánh tích quý: khăn liệm thêu thế kỷ 16, đôi hài Thánh Mercurius và truyền thuyết icon Đức Mẹ Hodegetria"
+ ],
+ "practical":{
+   "hours_vi":"Mở cửa hằng ngày, thường khoảng 7:00-20:00; các buổi lễ diễn ra sáng sớm và chiều tối.",
+   "ticket_vi":"Vào cửa miễn phí; đón nhận quyên góp tùy tâm.",
+   "duration_vi":"Khoảng 30-60 phút.",
+   "best_time_vi":"Ngoài giờ hành lễ để tham quan thong thả; buổi sáng ánh sáng đẹp chiếu vào tường thánh dát vàng.",
+   "tips_vi":"Trang phục kín đáo; nữ nên mang khăn trùm đầu và váy/quần dài. Giữ yên lặng, hạn chế và xin phép trước khi chụp ảnh bên trong. Leo lên Đồi Nhà thờ để có góc nhìn toàn cảnh đẹp nhất."
+ },
+ "photo_file":"File:Uspensky cathedral.jpg",
+ "official_site":None,
+ "tags":["cathedral","orthodox","baroque","iconostasis","cathedral-hill"]
+},
+{
+ "region":"smolensk",
+ "slug":"talashkino-teremok-flyonovo",
+ "name_vi":"Điền trang Talashkino và nhà gỗ Teremok ở Flyonovo (Talashkino, Teremok)",
+ "name_ru":"Талашкино, историко-архитектурный комплекс «Теремок» (Флёново)",
+ "name_en":"Talashkino Estate and Teremok, Flyonovo",
+ "categories":["museum","church"],
+ "lat":54.659700,
+ "lon":32.209323,
+ "address_vi":"Làng Flyonovo, huyện Smolensky, tỉnh Smolensk, Nga (cách Smolensk khoảng 18 km về phía đông nam)",
+ "rating":{"value":4.5,"count":82,"source":"Tripadvisor","as_of":"2026-07"},
+ "review_summary_vi":"Du khách gọi đây là 'chốn quê Nga đậm hồn dân tộc', yêu thích ngôi nhà Teremok như bước ra từ cổ tích và khung cảnh vườn ao thanh bình. Một số cho rằng cần có thuyết minh mới thấy hết cái hay, và việc đi lại hơi bất tiện nếu không có xe riêng.",
+ "presentation_short_vi":"Talashkino ở Flyonovo là điền trang của nữ công tước Maria Tenisheva, một trung tâm hồi sinh nghệ thuật dân gian Nga đầu thế kỷ 20. Điểm nhấn là ngôi nhà gỗ Teremok chạm trổ như trong cổ tích và Nhà thờ Chúa Thánh Thần với tranh khảm của Nicholas Roerich. Nhiều danh họa Nga như Malyutin, Vrubel và Roerich từng sáng tác tại đây.",
+ "presentation_long_vi":"Nằm giữa vùng quê Flyonovo cách Smolensk chừng 18 km về phía đông nam, Talashkino từng là điền trang của nữ công tước Maria Tenisheva - một nhà bảo trợ nghệ thuật lỗi lạc. Mua lại vùng đất năm 1893, bà đã biến nơi đây thành một trung tâm hồi sinh nghệ thuật dân gian và 'phong cách Nga' cuối thế kỷ 19, đầu thế kỷ 20. Tại các xưởng thủ công, những người nông dân được đào tạo làm gốm, chạm khắc gỗ và thêu thùa, cho ra đời vô số tác phẩm mang hồn cổ tích Nga. Nhiều danh họa từng lui tới và sáng tác ở đây: Sergey Malyutin thiết kế ngôi nhà gỗ Teremok rực rỡ như bước ra từ truyện cổ tích, Mikhail Vrubel vẽ những cây đàn balalaika, còn Nicholas Roerich tạo nên bức tranh khảm 'Đấng Cứu Thế' lộng lẫy trên mặt tiền Nhà thờ Chúa Thánh Thần. Ngày nay, Teremok là bảo tàng trưng bày đồ mỹ nghệ, nhạc cụ và những thiết kế độc đáo của trường phái tân-Nga. Dạo bước giữa vườn táo, ao nước và ngôi nhà gỗ chạm trổ tinh xảo, du khách được đắm mình trong một thế giới cổ tích thấm đẫm bản sắc dân tộc Nga - nơi hội tụ khát vọng gìn giữ cái đẹp truyền thống của cả một thế hệ nghệ sĩ.",
+ "highlights_vi":[
+   "Nhà gỗ Teremok chạm trổ rực rỡ như trong truyện cổ tích, do họa sĩ Sergey Malyutin thiết kế",
+   "Bức tranh khảm 'Đấng Cứu Thế' của Nicholas Roerich trên Nhà thờ Chúa Thánh Thần",
+   "Trung tâm hồi sinh nghệ thuật dân gian và 'phong cách Nga' của nữ công tước Maria Tenisheva"
+ ],
+ "practical":{
+   "hours_vi":"Thường mở thứ Ba-Chủ nhật 10:00-18:00 (thứ Sáu đến 17:00), nghỉ thứ Hai; có thể có ngày vệ sinh trong tháng. Nên kiểm tra lịch trên trang bảo tàng.",
+   "ticket_vi":"Vé vào khuôn viên khoảng 50 RUB (giảm còn 30 RUB); vé từng khu trưng bày 40-100 RUB; thuê audio guide 150-200 RUB; phí chụp ảnh chuyên nghiệp 500 RUB.",
+   "duration_vi":"Khoảng 1,5-2 giờ cho nhà Teremok, nhà thờ và khuôn viên.",
+   "best_time_vi":"Mùa hè và đầu thu khi vườn táo và ao nước đẹp nhất; ngày thường vắng khách hơn.",
+   "tips_vi":"Nên đặt trước suất thuyết minh vì nhiều hiện vật cần lời giới thiệu mới thấy hết giá trị. Không có phương tiện công cộng thuận tiện, nên đi xe riêng hoặc theo tour từ Smolensk. Kết hợp thăm cả làng Talashkino gần đó."
+ },
+ "photo_file":None,
+ "official_site":"https://www.smolensk-museum.ru/catalog/teremok/",
+ "tags":["museum","art-colony","tenisheva","roerich","russian-style","estate"]
+},
+{
+ "region":"smolensk",
+ "slug":"katyn-memorial",
+ "name_vi":"Khu tưởng niệm Katyn (Memorial «Katyn»)",
+ "name_ru":"Мемориал «Катынь»",
+ "name_en":"Katyn Memorial",
+ "categories":["monument","museum"],
+ "lat":54.775400,
+ "lon":31.788507,
+ "address_vi":"Rừng Kozy Gory, gần làng Katyn/Gnezdovo, huyện Smolensky, tỉnh Smolensk, Nga (khoảng 20 km về phía tây Smolensk)",
+ "rating":{"value":4.5,"count":111,"source":"Tripadvisor","as_of":"2026-07"},
+ "review_summary_vi":"Du khách mô tả đây là nơi trang nghiêm, xúc động và được chăm sóc chu đáo, để lại ấn tượng sâu sắc về một trang sử bi thương. Nhiều người khuyên nên dành thời gian đọc kỹ và đi cùng hướng dẫn để thấu hiểu bối cảnh lịch sử.",
+ "presentation_short_vi":"Khu tưởng niệm Katyn trong rừng Kozy Gory tưởng nhớ các nạn nhân của những cuộc đàn áp chính trị thập niên 1930-1940. Tại đây năm 1940, hơn bốn nghìn sĩ quan Ba Lan bị mật vụ NKVD hành quyết, cùng hàng nghìn công dân Xô Viết. Khánh thành năm 2000, đây là một trong những đài tưởng niệm bi tráng và lay động nhất nước Nga.",
+ "presentation_long_vi":"Ẩn mình trong rừng Kozy Gory (Đồi Dê) cách Smolensk khoảng 20 km về phía tây, Khu tưởng niệm Katyn là một trong những địa điểm bi tráng và lay động nhất nước Nga. Khánh thành ngày 28 tháng 7 năm 2000, đài tưởng niệm quốc tế này tưởng nhớ các nạn nhân của những cuộc đàn áp chính trị thập niên 1930-1940. Tại đây, mùa xuân năm 1940, hơn bốn nghìn sĩ quan Ba Lan - tù binh của trại Kozelsk - đã bị mật vụ NKVD hành quyết và chôn trong các hố tập thể; cùng với họ là hàng nghìn công dân Xô Viết bị xử bắn trong thời kỳ 'Đại thanh trừng'. Quần thể gồm nghĩa trang quân đội Ba Lan, nghĩa trang Nga, bức tường khắc tên các nạn nhân, hai cây thánh giá Chính thống giáo và Công giáo khổng lồ, cùng nhóm tượng 'Cuộc hành quyết' của nhà điêu khắc Kovalchuk. Nhà thờ Phục Sinh với quả chuông Katyn ngân lên như lời nhắc nhở gửi tới muôn đời sau, còn một toa tàu chở hàng mô phỏng gợi nhớ những chuyến lưu đày. Năm 2017, một trung tâm bảo tàng - triển lãm hiện đại mang tên 'Nga và Ba Lan. Thế kỷ XX' được bổ sung. Đến Katyn, du khách bước đi trong tĩnh lặng, cúi đầu trước ký ức đau thương và bài học về giá trị của hòa bình cùng nhân phẩm.",
+ "highlights_vi":[
+   "Nghĩa trang và bức tường khắc tên tưởng niệm hơn 4.000 sĩ quan Ba Lan bị NKVD hành quyết năm 1940",
+   "Nhóm tượng 'Cuộc hành quyết' và Nhà thờ Phục Sinh với quả chuông Katyn",
+   "Trung tâm bảo tàng 'Nga và Ba Lan. Thế kỷ XX' (mở năm 2017) kể lại tấn bi kịch lịch sử"
+ ],
+ "practical":{
+   "hours_vi":"Khu tưởng niệm mở cửa hằng ngày, thường khoảng 9:00-17:00 (trung tâm bảo tàng có thể nghỉ một ngày đầu tuần - nên kiểm tra trước).",
+   "ticket_vi":"Vào khu tưởng niệm ngoài trời miễn phí. Trung tâm bảo tàng - triển lãm có thể thu phí; nên xem thông tin vé trên trang chính thức.",
+   "duration_vi":"Khoảng 1,5-2 giờ.",
+   "best_time_vi":"Mùa xuân đến mùa thu; nên đi vào ban ngày. Đây là nơi tưởng niệm trang nghiêm, phù hợp với tâm thế tĩnh lặng.",
+   "tips_vi":"Giữ thái độ trang nghiêm, ăn mặc lịch sự. Nên thuê hướng dẫn hoặc audio guide để hiểu bối cảnh lịch sử. Có thể kết hợp thăm quần thể gò mộ Gnyozdovo ở gần."
+ },
+ "photo_file":None,
+ "official_site":"https://memorial-katyn.ru/",
+ "tags":["memorial","history","katyn","wwii","political-repression","poland"]
+},
+{
+ "region":"smolensk",
+ "slug":"gnyozdovo-burial-mounds",
+ "name_vi":"Quần thể gò mộ cổ Gnyozdovo (Gnyozdovskiye kurgany)",
+ "name_ru":"Гнёздовские курганы (Гнёздовский археологический комплекс)",
+ "name_en":"Gnyozdovo Burial Mounds",
+ "categories":["monument","museum"],
+ "lat":54.784720,
+ "lon":31.879440,
+ "address_vi":"Gần làng Gnezdovo/Sliznevo, huyện Smolensky, tỉnh Smolensk, Nga (khoảng 12 km về phía tây Smolensk)",
+ "rating":{"value":4.6,"count":330,"source":"Google","as_of":"2026-07"},
+ "review_summary_vi":"Những ai yêu khảo cổ và lịch sử Viking đánh giá cao ý nghĩa đặc biệt của di chỉ và không gian đồng quê yên tĩnh. Một số lưu ý rằng hiện trường chủ yếu là các gò đất, cần hướng dẫn viên hoặc chút trí tưởng tượng để hình dung thời hoàng kim.",
+ "presentation_short_vi":"Quần thể gò mộ Gnyozdovo là một trong những di chỉ khảo cổ thời đại Viking lớn nhất châu Âu, có niên đại thế kỷ 10. Nơi đây từng là khu định cư Varangian - Slav sầm uất trên tuyến thương mại 'từ người Varangian đến người Hy Lạp'. Gần bốn nghìn gò mộ và vô số hiện vật quý gắn liền với nguồn gốc thành phố Smolensk.",
+ "presentation_long_vi":"Trải rộng trên bờ sông Dnieper cách Smolensk chừng 12 km về phía tây, quần thể gò mộ cổ Gnyozdovo là một trong những di chỉ khảo cổ thời đại Viking lớn và quan trọng bậc nhất châu Âu. Có niên đại từ thế kỷ 10, nơi đây từng là một khu định cư sầm uất của người Varangian (Viking) và người Slav, nằm trên tuyến đường thương mại huyền thoại 'từ người Varangian đến người Hy Lạp' nối biển Baltic với Byzantium. Cánh đồng mênh mông này từng có tới gần bốn nghìn ngôi mộ hình gò (kurgan), trong đó khoảng một nghìn ba trăm gò đã được khai quật kể từ năm 1874. Lòng đất Gnyozdovo cất giữ kho báu khảo cổ vô giá: kiếm Carolingian, áo giáp, mũ trụ, trang sức tinh xảo, cân tiểu ly, cùng nhiều kho tiền xu Ả Rập và Byzantine. Đặc biệt, tại đây người ta tìm thấy dòng chữ Đông Slav cổ nhất từng được biết đến, khắc trên một chiếc bình gốm giữa thế kỷ 10. Nhiều nhà nghiên cứu tin rằng Gnyozdovo chính là tiền thân hoặc 'người anh em' của thành phố Smolensk cổ. Ngày nay, khu bảo tồn - bảo tàng Gnyozdovo mời gọi du khách dạo bước giữa những gò mộ phủ cỏ xanh, lắng nghe hơi thở của một thời đại giao thương và chiến binh đã xa.",
+ "highlights_vi":[
+   "Gần 4.000 gò mộ (kurgan) thời đại Viking thế kỷ 10 trên tuyến 'từ người Varangian đến người Hy Lạp'",
+   "Một trong những di chỉ Viking lớn nhất châu Âu, nơi tìm thấy kiếm, trang sức và kho tiền xu Ả Rập",
+   "Dòng chữ Đông Slav cổ nhất từng được biết đến, khắc trên bình gốm giữa thế kỷ 10"
+ ],
+ "practical":{
+   "hours_vi":"Cánh đồng gò mộ ngoài trời có thể tham quan tự do quanh năm. Các chương trình tham quan có hướng dẫn và hoạt động của khu bảo tàng - bảo tồn thường tổ chức vào mùa ấm; nên liên hệ trước.",
+   "ticket_vi":"Đi dạo khu gò mộ ngoài trời miễn phí. Các tour có hướng dẫn hoặc chương trình khảo cổ tương tác thu phí ở mức vừa phải.",
+   "duration_vi":"Khoảng 1-2 giờ.",
+   "best_time_vi":"Cuối xuân đến đầu thu khi cỏ xanh và đường mòn khô ráo; tránh mùa lầy lội.",
+   "tips_vi":"Mang giày lội tốt vì địa hình đồng cỏ, có chỗ ẩm thấp. Nên đi cùng hướng dẫn viên vì hiện trường chủ yếu là gò đất, cần lời kể để hình dung. Kết hợp với Khu tưởng niệm Katyn ở gần."
+ },
+ "photo_file":None,
+ "official_site":"https://gnezdovo-museum.ru/",
+ "tags":["archaeology","viking-age","kurgans","varangians","history"]
+},
+{
+ "region":"smolensk",
+ "slug":"khmelita-griboyedov-estate",
+ "name_vi":"Điền trang - bảo tàng Griboyedov ở Khmelita (Khmelita)",
+ "name_ru":"Музей-заповедник А. С. Грибоедова «Хмелита»",
+ "name_en":"Griboyedov Estate-Museum Khmelita",
+ "categories":["museum","palace"],
+ "lat":55.405590,
+ "lon":33.888706,
+ "address_vi":"Làng Khmelita, đường Griboyedova 9, huyện Vyazemsky, tỉnh Smolensk, Nga (khoảng 35 km về phía tây bắc Vyazma)",
+ "rating":{"value":4.6,"count":64,"source":"Tripadvisor","as_of":"2026-07"},
+ "review_summary_vi":"Du khách khen ngợi công viên và khuôn viên điền trang thơ mộng, các hướng dẫn viên tận tình giúp 'sống lại' không khí lịch sử. Vài ý kiến tiếc nuối vì bề ngoài tòa nhà có phần xuống cấp và mối liên hệ với Griboyedov không quá đậm nét.",
+ "presentation_short_vi":"Điền trang Khmelita là một dinh thự Baroque giữa thế kỷ 18, thuộc dòng họ Griboyedov, nơi văn hào Aleksandr Griboyedov trải qua tuổi thơ. Sau nhiều năm hoang phế, điền trang được phục dựng công phu và trở thành bảo tàng - khu bảo tồn từ năm 1990. Quần thể còn có trung tâm bảo tàng Đô đốc Nakhimov và khu tưởng niệm chiến tranh.",
+ "presentation_long_vi":"Cách thành phố Vyazma khoảng 35 km về phía tây bắc, điền trang Khmelita là một trong những dinh thự quý tộc cổ kính nhất vùng Smolensk và là viên ngọc kiến trúc Baroque giữa miền quê nước Nga. Tòa nhà chính duyên dáng với sắc hồng - trắng được xây dựng vào giữa thế kỷ 18, từng thuộc dòng họ Griboyedov danh giá. Chính tại đây, cậu bé Aleksandr Griboyedov - sau này là tác giả vở kịch bất hủ 'Khổ vì trí tuệ' - đã trải qua những mùa hè tuổi thơ, hấp thụ không khí văn hóa và ngôn ngữ của giới quý tộc Nga mà về sau ông tái hiện sống động trên sân khấu. Sau nhiều thập kỷ hoang phế và cả một trận hỏa hoạn, điền trang được phục dựng công phu từ cuối thập niên 1960 nhờ tâm huyết của các nhà bảo tồn, rồi trở thành bảo tàng - khu bảo tồn mang tên nhà viết kịch vào năm 1990. Ngày nay, du khách có thể dạo qua các gian phòng tái hiện đời sống điền trang Nga thế kỷ 19, chiêm ngưỡng nội thất, tranh ảnh và tư liệu về Griboyedov. Quần thể còn có trung tâm bảo tàng về Đô đốc Nakhimov - người con của vùng đất này, và khu tưởng niệm chiến tranh tại cánh đồng Bogoroditskoe. Giữa công viên cổ thụ tĩnh lặng, Khmelita mang đến cảm giác thời gian như ngưng đọng.",
+ "highlights_vi":[
+   "Dinh thự Baroque hồng - trắng giữa thế kỷ 18, một trong những điền trang quý tộc cổ nhất vùng Smolensk",
+   "Nơi văn hào Aleksandr Griboyedov - tác giả 'Khổ vì trí tuệ' - trải qua tuổi thơ",
+   "Quần thể có thêm trung tâm bảo tàng Đô đốc Nakhimov và khu tưởng niệm chiến tranh Bogoroditskoe"
+ ],
+ "practical":{
+   "hours_vi":"Thứ Tư-Chủ nhật; mùa hè (1/4-31/10) 10:00-18:00, mùa đông (1/11-31/3) 9:00-17:00; nghỉ thứ Hai và thứ Ba; thứ Tư cuối tháng là ngày vệ sinh.",
+   "ticket_vi":"Khoảng 60-500 RUB tùy khu: vào khuôn viên/công viên từ ~70 RUB, trưng bày chính từ ~400 RUB, vé gộp cả quần thể từ ~435 RUB; trung tâm Nakhimov và điền trang Bogoroditskoe từ ~110 RUB.",
+   "duration_vi":"Khoảng 1,5-2 giờ cho tòa nhà chính và công viên.",
+   "best_time_vi":"Cuối xuân đến đầu thu khi công viên cổ thụ xanh mát; tránh thứ Hai và thứ Ba (đóng cửa).",
+   "tips_vi":"Ở xa nên đi xe riêng hoặc theo tour từ Vyazma/Smolensk. Nên đặt suất thuyết minh để hiểu về Griboyedov và đời sống điền trang. Kết hợp thăm trung tâm bảo tàng Đô đốc Nakhimov trong khuôn viên."
+ },
+ "photo_file":None,
+ "official_site":"https://khmelita.com/",
+ "tags":["museum","estate","griboyedov","baroque","literature"]
+},
+{
+ "region":"smolensk",
+ "slug":"smolensk-lakeland-national-park",
+ "name_vi":"Vườn quốc gia Smolenskoye Poozerye - Vùng hồ Smolensk (Smolenskoye Poozyorye)",
+ "name_ru":"Национальный парк «Смоленское Поозерье»",
+ "name_en":"Smolenskoye Poozerye National Park (Smolensk Lakeland)",
+ "categories":["park_garden"],
+ "lat":55.517000,
+ "lon":31.867000,
+ "address_vi":"Thị trấn Przhevalskoye, huyện Demidovsky, tỉnh Smolensk, Nga (bên hồ Sapsho)",
+ "rating":None,
+ "review_summary_vi":"Du khách yêu thích không khí trong lành, mặt hồ Sapsho tĩnh lặng cùng hệ thống đường mòn và chỗ nghỉ đa dạng giữa thiên nhiên. Nơi đây được xem là điểm nghỉ dưỡng và khám phá thiên nhiên lý tưởng, dù một số dịch vụ còn mộc mạc.",
+ "presentation_short_vi":"Vườn quốc gia Smolenskoye Poozerye - 'Vùng hồ Smolensk' - là khu dự trữ sinh quyển UNESCO rộng hơn 1.460 km² với 35 hồ băng hà. Nổi bật là hồ Sapsho thơ mộng và thị trấn nghỉ dưỡng Przhevalskoye. Đây là thiên đường cho những ai yêu rừng, hồ và các hoạt động ngoài trời.",
+ "presentation_long_vi":"Vườn quốc gia Smolenskoye Poozerye - 'Vùng hồ Smolensk' - trải rộng hơn 1.460 km² ở phía bắc tỉnh Smolensk, là thiên đường của rừng nguyên sinh, đầm lầy và những mặt hồ băng hà trong vắt. Được thành lập năm 1992 và công nhận là Khu dự trữ sinh quyển của UNESCO từ năm 2002, công viên sở hữu tới 35 hồ nước lớn nhỏ, nổi bật nhất là hồ Sapsho mà nhà thám hiểm Nikolay Przhevalsky trìu mến gọi là 'hồ Baikal thu nhỏ'. Bên bờ hồ là thị trấn nghỉ dưỡng Przhevalskoye, nơi có điền trang - bảo tàng của chính nhà thám hiểm lừng danh. Hệ sinh thái nơi đây phong phú đến kinh ngạc với 54 loài thú, hơn 230 loài chim, trong đó nhiều loài quý hiếm được ghi trong Sách Đỏ. Du khách có thể thong thả đi bộ trên các cung đường mòn xuyên rừng, đạp xe, cưỡi ngựa, chèo thuyền trên hồ, hay khám phá con đường cổ tích 'Truyện kể rừng Nga' đầy sắc màu dân gian dành cho trẻ nhỏ. Những người yêu chim tìm về đây để quan sát các loài chim nước, còn người mê lịch sử có thể ghé di chỉ khu định cư cổ Verzhavsk. Không khí trong lành, mặt nước phẳng lặng phản chiếu rừng thông và những buổi hoàng hôn tĩnh mịch khiến Poozerye trở thành chốn tìm về với thiên nhiên đích thực.",
+ "highlights_vi":[
+   "35 hồ băng hà, nổi bật là hồ Sapsho - 'hồ Baikal thu nhỏ' theo lời Przhevalsky",
+   "Khu dự trữ sinh quyển UNESCO với 54 loài thú và hơn 230 loài chim",
+   "Đường mòn xuyên rừng, con đường cổ tích 'Truyện kể rừng Nga' và bảo tàng nhà thám hiểm Przhevalsky"
+ ],
+ "practical":{
+   "hours_vi":"Khu thiên nhiên mở quanh năm; văn phòng/trung tâm du khách của vườn quốc gia làm việc các ngày trong tuần khoảng 9:00-17:00 (nghỉ trưa).",
+   "ticket_vi":"Vé vào vườn quốc gia khoảng 150 RUB/người lớn, trẻ em miễn phí; tour có hướng dẫn khoảng 250 RUB (người lớn)/100 RUB (trẻ em); cắm trại có phụ phí (khoảng 150 RUB/người/ngày và 150 RUB/xe).",
+   "duration_vi":"Từ nửa ngày đến vài ngày tùy lịch trình; nhiều du khách lưu trú qua đêm.",
+   "best_time_vi":"Mùa hè để bơi, chèo thuyền trên hồ Sapsho và đi rừng; mùa thu lá vàng rất đẹp; mùa đông có trượt tuyết băng đồng.",
+   "tips_vi":"Đăng ký chỗ nghỉ (nhà khách, khu cắm trại) và tuyến tham quan trước qua trang chính thức của vườn. Mang theo thuốc chống côn trùng vào mùa hè. Ghé bảo tàng nhà thám hiểm Przhevalsky tại thị trấn Przhevalskoye."
+ },
+ "photo_file":None,
+ "official_site":"https://www.poozerie.ru/",
+ "tags":["national-park","nature","lakes","biosphere-reserve","sapsho","przhevalsky"]
+},
+{
+ "region":"smolensk",
+ "slug":"vyazma",
+ "name_vi":"Thành phố cổ Vyazma (Vyazma)",
+ "name_ru":"Вязьма",
+ "name_en":"Vyazma",
+ "categories":["square_street","church","monument"],
+ "lat":55.210700,
+ "lon":34.291200,
+ "address_vi":"Thành phố Vyazma, huyện Vyazemsky, tỉnh Smolensk, Nga",
+ "rating":{"value":4.9,"count":80,"source":"Tripadvisor","as_of":"2026-07"},
+ "review_summary_vi":"Du khách ấn tượng với các nhà thờ cổ, đặc biệt là nhà thờ Odigitrievskaya ba chóp nhọn được ca ngợi là kiệt tác kiến trúc thế kỷ 17 với 'bầu không khí tĩnh lặng, đầy cảm xúc'. Thị trấn được yêu mến vì bề dày lịch sử, sự bình yên và món bánh gừng trứ danh.",
+ "presentation_short_vi":"Vyazma là thị trấn cổ gần 800 năm tuổi bên đường Moskva-Smolensk, giàu di sản kiến trúc và ký ức chiến tranh. Nổi bật là nhà thờ Odigitrievskaya ba chóp nhọn thế kỷ 17 trong Tu viện Thánh Gioan Tẩy Giả. Thị trấn còn nổi danh với món bánh gừng 'pryanik' trứ danh và những trang sử Thế chiến II bi hùng.",
+ "presentation_long_vi":"Nằm bên dòng sông Vyazma trên con đường cổ nối Moskva và Smolensk, Vyazma là một thị trấn nhỏ nhưng mang bề dày lịch sử gần tám thế kỷ, lần đầu được nhắc đến trong biên niên sử từ năm 1230. Là điểm trấn giữ trọng yếu và trung tâm buôn bán sầm uất, Vyazma từng nhiều lần đứng nơi đầu sóng ngọn gió: trận đánh với quân Napoléon năm 1812, và nhất là thảm kịch 'vạc lửa Vyazma' năm 1941, khi hàng chục vạn binh sĩ Hồng quân bị vây hãm trong những ngày đầu Thế chiến II. Thị trấn bị quân Đức chiếm đóng đến tận năm 1943. Vượt lên đau thương, Vyazma ngày nay quyến rũ du khách bằng những công trình cổ kính. Nổi bật nhất là Tu viện Thánh Gioan Tẩy Giả với nhà thờ Odigitrievskaya ba chóp nhọn - một kiệt tác kiến trúc Nga thế kỷ 17 hiếm có, thanh thoát và tráng lệ. Bên cạnh đó là Nhà thờ chính tòa Chúa Ba Ngôi, tháp Spasskaya - tàn tích của pháo đài xưa, cùng nhiều đài tưởng niệm chiến tranh xúc động. Vyazma còn nổi danh với món bánh gừng 'pryanik' từng đi vào văn học Nga. Dạo bước giữa những con phố thương nhân cổ, ngắm mái vòm nhà thờ và thưởng thức chiếc bánh gừng thơm lừng, du khách sẽ cảm nhận nhịp sống trầm mặc mà ấm áp của một thị trấn tỉnh lẻ Nga đích thực.",
+ "highlights_vi":[
+   "Nhà thờ Odigitrievskaya ba chóp nhọn (thế kỷ 17) - kiệt tác kiến trúc Nga trong Tu viện Thánh Gioan Tẩy Giả",
+   "Thị trấn gần 800 năm tuổi trên đường Moskva-Smolensk, gắn với thảm kịch 'vạc lửa Vyazma' năm 1941",
+   "Bánh gừng 'pryanik' Vyazma trứ danh từng đi vào văn học Nga"
+ ],
+ "practical":{
+   "hours_vi":"Thành phố tham quan tự do mọi lúc. Các nhà thờ và Tu viện Thánh Gioan Tẩy Giả thường mở cửa hằng ngày (khoảng 8:00-20:00 theo lịch lễ); bảo tàng địa phương có giờ riêng.",
+   "ticket_vi":"Dạo phố và vào các nhà thờ, tu viện miễn phí (đón nhận quyên góp); một số bảo tàng thu phí vé khiêm tốn.",
+   "duration_vi":"Khoảng nửa ngày để đi bộ khám phá trung tâm cổ và các nhà thờ chính.",
+   "best_time_vi":"Cuối xuân đến đầu thu để đi bộ dễ chịu; các ngày lễ Chính thống giáo không khí đặc biệt sống động.",
+   "tips_vi":"Đừng bỏ lỡ nhà thờ Odigitrievskaya ba chóp nhọn trong Tu viện Thánh Gioan Tẩy Giả - viên ngọc của thị trấn. Thử mua bánh gừng 'pryanik' Vyazma làm quà. Vyazma nằm trên tuyến Moskva-Smolensk, tiện dừng chân giữa đường."
+ },
+ "photo_file":None,
+ "official_site":None,
+ "tags":["historic-town","monastery","hodegetria-church","gingerbread","wwii-history"]
+}
+]
+
+# --- validation ---
+allowed_cats = {"museum","palace","church","fortress","monument","park_garden","bridge","square_street","theatre","other"}
+req = ["region","slug","name_vi","name_ru","name_en","categories","lat","lon","address_vi","rating","review_summary_vi","presentation_short_vi","presentation_long_vi","highlights_vi","practical","photo_file","official_site","tags"]
+pr = ["hours_vi","ticket_vi","duration_vi","best_time_vi","tips_vi"]
+null_photo=0; null_site=0; null_rating=0
+print("=== VALIDATION ===")
+for r in records:
+    for k in req:
+        assert k in r, f"{r['slug']} missing {k}"
+    assert r["region"]=="smolensk"
+    for c in r["categories"]:
+        assert c in allowed_cats, f"{r['slug']} bad cat {c}"
+    assert len(r["highlights_vi"])==3, f"{r['slug']} highlights={len(r['highlights_vi'])}"
+    for k in pr:
+        assert k in r["practical"], f"{r['slug']} missing practical {k}"
+    wc=len(r["presentation_long_vi"].split())
+    if r["photo_file"] is None: null_photo+=1
+    if r["official_site"] is None: null_site+=1
+    if r["rating"] is None: null_rating+=1
+    flag = "" if 180<=wc<=260 else "  <-- OUT OF RANGE"
+    print(f"{r['slug']:34} long_words={wc:3}  cats={r['categories']}  rating={'null' if r['rating'] is None else r['rating']['value']}{flag}")
+
+print(f"\nrecords={len(records)}  null_photo_file={null_photo}  null_official_site={null_site}  null_rating={null_rating}")
+
+with open("/home/claude/russia-tourism/_incoming/reg_smolensk.json","w",encoding="utf-8") as f:
+    json.dump(records,f,ensure_ascii=False,indent=2)
+print("written -> /home/claude/russia-tourism/_incoming/reg_smolensk.json")

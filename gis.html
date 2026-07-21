@@ -14,7 +14,7 @@
   .sidebar { width: 350px; min-width: 350px; background: #fff; border-right: 1px solid var(--line); overflow-y: auto; }
   .sidebar .sec { padding: 14px 16px; border-bottom: 1px solid var(--line); }
   .sidebar h3 { margin: 0 0 10px; font-size: 15px; }
-  .map-wrap { flex: 1; position: relative; }
+  .map-wrap { flex: 1; position: relative; overflow: hidden; }
   #map { position: absolute; inset: 0; z-index: 1; }
   .rt-pin .pin {
     width: 30px; height: 30px; border-radius: 50% 50% 50% 0; transform: rotate(-45deg);
@@ -50,12 +50,36 @@
   .mini-legend { position: absolute; left: 10px; bottom: 18px; z-index: 800; background: rgba(255,255,255,.94); border: 1px solid var(--line); border-radius: 10px; padding: 8px 10px; font-size: 11.5px; max-width: 190px; box-shadow: var(--shadow); }
   .mini-legend .lg { display: flex; align-items: center; gap: 6px; margin: 2px 0; }
   .mini-legend .sw { width: 12px; height: 12px; border-radius: 3px; }
-  .mobile-toggle { display: none; }
+  .filter-fab, .drawer-backdrop, .drawer-close { display: none; }
   @media (max-width: 820px) {
-    .gis-layout { flex-direction: column; height: auto; }
-    .sidebar { width: 100%; min-width: 0; max-height: 46vh; }
-    .map-wrap { height: 64vh; }
-    .detail-panel { width: 100%; }
+    /* Bản đồ chiếm toàn màn hình; bộ lọc + lộ trình nằm trong ngăn kéo trượt */
+    .gis-layout { display: block; height: auto; }
+    .map-wrap { height: calc(100dvh - 92px); }
+    .sidebar {
+      position: fixed; top: 0; left: 0; bottom: 0; width: 87%; max-width: 340px;
+      transform: translateX(-100%); transition: transform .25s ease; z-index: 1600;
+      box-shadow: 6px 0 26px rgba(0,0,0,.28); max-height: none; border-right: none;
+    }
+    .sidebar.open { transform: translateX(0); }
+    .drawer-backdrop {
+      display: block; position: fixed; inset: 0; background: rgba(15,25,40,.45);
+      opacity: 0; visibility: hidden; transition: .25s; z-index: 1500;
+    }
+    .drawer-backdrop.open { opacity: 1; visibility: visible; }
+    .drawer-close {
+      display: flex; align-items: center; justify-content: space-between;
+      position: sticky; top: 0; margin: 0; padding: 13px 16px;
+      background: var(--navy); color: #fff; font-weight: 700; font-size: 15px; z-index: 3;
+    }
+    .drawer-close button { background: none; border: none; font-size: 22px; color: #dbe4f0; cursor: pointer; line-height: 1; }
+    .filter-fab {
+      display: inline-flex; align-items: center; gap: 7px; position: fixed; right: 14px; bottom: 16px;
+      z-index: 1400; background: var(--navy); color: #fff; border: none; border-radius: 999px;
+      padding: 13px 18px; font-size: 15px; font-weight: 700; box-shadow: 0 6px 20px rgba(0,0,0,.32); cursor: pointer;
+    }
+    .filter-fab:active { transform: scale(.96); }
+    .detail-panel { width: 100%; max-width: 100%; z-index: 1700; }
+    .mini-legend { bottom: 80px; left: 10px; font-size: 11px; max-width: 148px; padding: 7px 9px; }
   }
 </style>
 </head>
@@ -73,6 +97,7 @@
 
 <div class="gis-layout">
   <aside class="sidebar">
+    <div class="drawer-close" id="drawerClose"><span>🧭 Bộ lọc &amp; lộ trình</span><button aria-label="Đóng">✕</button></div>
     <div class="sec">
       <h3>🔎 Lọc địa điểm</h3>
       <input type="search" id="q" placeholder="Tìm theo tên…" style="width:100%;border:1px solid var(--line);border-radius:10px;padding:8px 12px;font-family:inherit;margin-bottom:10px;" />
@@ -113,6 +138,8 @@
     <div class="detail-panel" id="detailPanel"></div>
   </div>
 </div>
+<div class="drawer-backdrop" id="drawerBackdrop"></div>
+<button class="filter-fab" id="filterFab">🔎 Bộ lọc &amp; lộ trình</button>
 
 <script src="assets/vendor/leaflet.js"></script>
 <script src="assets/vendor/leaflet.markercluster.js"></script>
@@ -392,6 +419,23 @@
     var bounds = L.latLngBounds(places.map(function (p) { return [p.coordinates.lat, p.coordinates.lon]; }));
     if (bounds.isValid()) map.fitBounds(bounds.pad(0.15));
   } catch (e) {}
+
+  /* ---------- Mobile: ngăn kéo bộ lọc + căn chỉnh chiều cao bản đồ ---------- */
+  var _sb = document.querySelector(".sidebar");
+  var _bd = document.getElementById("drawerBackdrop");
+  function drawer(open) { _sb.classList.toggle("open", open); _bd.classList.toggle("open", open); }
+  var _fab = document.getElementById("filterFab"); if (_fab) _fab.onclick = function () { drawer(true); };
+  if (_bd) _bd.onclick = function () { drawer(false); };
+  var _dc = document.getElementById("drawerClose"); if (_dc) _dc.onclick = function () { drawer(false); };
+  function sizeMap() {
+    var head = document.querySelector(".site-header").offsetHeight;
+    var mw = document.querySelector(".map-wrap");
+    if (mw) mw.style.height = (window.innerHeight - head) + "px";
+    map.invalidateSize();
+  }
+  window.addEventListener("resize", sizeMap);
+  window.addEventListener("orientationchange", function () { setTimeout(sizeMap, 200); });
+  setTimeout(sizeMap, 60);
 })();
 </script>
 </body>

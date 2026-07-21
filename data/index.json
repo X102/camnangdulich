@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-18T16:15:58",
-  "total_places": 580,
+  "generated": "2026-07-21T11:02:44",
+  "total_places": 740,
   "regions": [
     {
       "slug": "adygea",
@@ -16,6 +16,54 @@
       "center": [
         44.26247862499999,
         40.08886475
+      ]
+    },
+    {
+      "slug": "altai-krai",
+      "name_vi": "Vùng Altai",
+      "federal_district": "Vùng Siberia",
+      "count": 7,
+      "bbox": [
+        78.6125,
+        51.363889,
+        85.70164,
+        53.32872
+      ],
+      "center": [
+        52.271166714285705,
+        83.59611928571428
+      ]
+    },
+    {
+      "slug": "altai-republic",
+      "name_vi": "Cộng hoà Altai",
+      "federal_district": "Vùng Siberia",
+      "count": 8,
+      "bbox": [
+        85.830765,
+        49.8075,
+        88.2212,
+        51.904794
+      ],
+      "center": [
+        50.779925125,
+        86.83777912500001
+      ]
+    },
+    {
+      "slug": "amur",
+      "name_vi": "Tỉnh Amur",
+      "federal_district": "Vùng Viễn Đông",
+      "count": 6,
+      "bbox": [
+        124.0775,
+        49.106762,
+        130.830846,
+        53.39056
+      ],
+      "center": [
+        51.2328415,
+        128.098649
       ]
     },
     {
@@ -99,6 +147,22 @@
       ]
     },
     {
+      "slug": "buryatia",
+      "name_vi": "Cộng hoà Buryatia",
+      "federal_district": "Vùng Viễn Đông",
+      "count": 8,
+      "bbox": [
+        102.42889,
+        51.480556,
+        110.416667,
+        54.333333
+      ],
+      "center": [
+        52.667335625,
+        107.63674362500001
+      ]
+    },
+    {
       "slug": "chechnya",
       "name_vi": "Cộng hoà Chechnya",
       "federal_district": "Vùng Bắc Kavkaz",
@@ -128,6 +192,22 @@
       "center": [
         54.861751625,
         59.735207125
+      ]
+    },
+    {
+      "slug": "chukotka",
+      "name_vi": "Khu tự trị Chukotka",
+      "federal_district": "Vùng Viễn Đông",
+      "count": 6,
+      "bbox": [
+        -179.416667,
+        62.583333,
+        177.521783,
+        71.233333
+      ],
+      "center": [
+        65.93197783333333,
+        -57.71537466666666
       ]
     },
     {
@@ -195,6 +275,22 @@
       ]
     },
     {
+      "slug": "irkutsk",
+      "name_vi": "Tỉnh Irkutsk",
+      "federal_district": "Vùng Siberia",
+      "count": 8,
+      "bbox": [
+        104.28966,
+        51.85,
+        107.34139,
+        53.20389
+      ],
+      "center": [
+        52.15898837499999,
+        105.02004000000001
+      ]
+    },
+    {
       "slug": "ivanovo",
       "name_vi": "Tỉnh Ivanovo",
       "federal_district": "Vùng Trung tâm",
@@ -208,6 +304,22 @@
       "center": [
         57.01829375,
         41.46247625
+      ]
+    },
+    {
+      "slug": "jewish-ao",
+      "name_vi": "Tỉnh tự trị Do Thái",
+      "federal_district": "Vùng Viễn Đông",
+      "count": 5,
+      "bbox": [
+        132.930006,
+        48.788571,
+        133.120278,
+        48.943611
+      ],
+      "center": [
+        48.821937399999996,
+        132.97097300000001
       ]
     },
     {
@@ -275,6 +387,22 @@
       ]
     },
     {
+      "slug": "kamchatka",
+      "name_vi": "Vùng Kamchatka",
+      "federal_district": "Vùng Viễn Đông",
+      "count": 12,
+      "bbox": [
+        157.117,
+        51.45,
+        160.6441,
+        56.056
+      ],
+      "center": [
+        53.6722,
+        158.930425
+      ]
+    },
+    {
       "slug": "karachay-cherkessia",
       "name_vi": "Cộng hoà Karachay-Cherkessia",
       "federal_district": "Vùng Bắc Kavkaz",
@@ -304,6 +432,54 @@
       "center": [
         62.79924462500001,
         32.974435
+      ]
+    },
+    {
+      "slug": "kemerovo",
+      "name_vi": "Tỉnh Kemerovo",
+      "federal_district": "Vùng Siberia",
+      "count": 7,
+      "bbox": [
+        85.6206,
+        52.934994,
+        88.75,
+        56.2
+      ],
+      "center": [
+        54.429167285714286,
+        87.38989285714285
+      ]
+    },
+    {
+      "slug": "khabarovsk",
+      "name_vi": "Vùng Khabarovsk",
+      "federal_district": "Vùng Viễn Đông",
+      "count": 7,
+      "bbox": [
+        134.858889,
+        48.205,
+        137.002,
+        50.557
+      ],
+      "center": [
+        48.786139285714285,
+        135.39499857142854
+      ]
+    },
+    {
+      "slug": "khakassia",
+      "name_vi": "Cộng hoà Khakassia",
+      "federal_district": "Vùng Siberia",
+      "count": 7,
+      "bbox": [
+        88.648046,
+        53.014061,
+        91.427369,
+        54.67929
+      ],
+      "center": [
+        53.94107171428572,
+        90.12324942857143
       ]
     },
     {
@@ -387,6 +563,22 @@
       ]
     },
     {
+      "slug": "krasnoyarsk",
+      "name_vi": "Vùng Krasnoyarsk",
+      "federal_district": "Vùng Siberia",
+      "count": 8,
+      "bbox": [
+        91.37028,
+        52.807787,
+        93.288072,
+        56.023646
+      ],
+      "center": [
+        54.853839875,
+        92.57269000000001
+      ]
+    },
+    {
       "slug": "kurgan",
       "name_vi": "Tỉnh Kurgan",
       "federal_district": "Vùng Ural",
@@ -448,6 +640,22 @@
       "center": [
         52.54142614285714,
         38.79666485714285
+      ]
+    },
+    {
+      "slug": "magadan",
+      "name_vi": "Tỉnh Magadan",
+      "federal_district": "Vùng Viễn Đông",
+      "count": 6,
+      "bbox": [
+        149.52861,
+        59.559,
+        152.40045,
+        62.08028
+      ],
+      "center": [
+        60.25298383333334,
+        150.86287816666666
       ]
     },
     {
@@ -595,6 +803,38 @@
       ]
     },
     {
+      "slug": "novosibirsk",
+      "name_vi": "Tỉnh Novosibirsk",
+      "federal_district": "Vùng Siberia",
+      "count": 7,
+      "bbox": [
+        82.88,
+        54.848675,
+        83.10655,
+        55.056
+      ],
+      "center": [
+        54.93183742857144,
+        83.00029828571428
+      ]
+    },
+    {
+      "slug": "omsk",
+      "name_vi": "Tỉnh Omsk",
+      "federal_district": "Vùng Siberia",
+      "count": 7,
+      "bbox": [
+        73.343572,
+        54.668736,
+        73.818308,
+        54.990178
+      ],
+      "center": [
+        54.93932071428572,
+        73.429666
+      ]
+    },
+    {
       "slug": "orenburg",
       "name_vi": "Tỉnh Orenburg",
       "federal_district": "Vùng Volga",
@@ -659,6 +899,22 @@
       ]
     },
     {
+      "slug": "primorsky",
+      "name_vi": "Vùng Primorsky",
+      "federal_district": "Vùng Viễn Đông",
+      "count": 12,
+      "bbox": [
+        131.4167,
+        42.9236,
+        132.4167,
+        45.0
+      ],
+      "center": [
+        43.23063008333333,
+        131.86564583333333
+      ]
+    },
+    {
       "slug": "pskov",
       "name_vi": "Tỉnh Pskov",
       "federal_district": "Vùng Tây Bắc",
@@ -720,6 +976,38 @@
       "center": [
         59.91833971698113,
         30.29486996226415
+      ]
+    },
+    {
+      "slug": "sakha",
+      "name_vi": "Cộng hoà Sakha (Yakutia)",
+      "federal_district": "Vùng Viễn Đông",
+      "count": 7,
+      "bbox": [
+        127.58471,
+        61.14619,
+        142.78583,
+        63.46083
+      ],
+      "center": [
+        62.061280000000004,
+        131.07595857142854
+      ]
+    },
+    {
+      "slug": "sakhalin",
+      "name_vi": "Tỉnh Sakhalin",
+      "federal_district": "Vùng Viễn Đông",
+      "count": 8,
+      "bbox": [
+        141.233,
+        45.033333,
+        147.616667,
+        52.04254
+      ],
+      "center": [
+        47.08163650000001,
+        143.4537845
       ]
     },
     {
@@ -851,6 +1139,22 @@
       ]
     },
     {
+      "slug": "tomsk",
+      "name_vi": "Tỉnh Tomsk",
+      "federal_district": "Vùng Siberia",
+      "count": 7,
+      "bbox": [
+        84.945056,
+        56.4665,
+        84.964759,
+        56.493908
+      ],
+      "center": [
+        56.477386,
+        84.95118471428573
+      ]
+    },
+    {
       "slug": "tula",
       "name_vi": "Tỉnh Tula",
       "federal_district": "Vùng Trung tâm",
@@ -864,6 +1168,22 @@
       "center": [
         54.10785144444444,
         37.64127499999999
+      ]
+    },
+    {
+      "slug": "tuva",
+      "name_vi": "Cộng hoà Tuva",
+      "federal_district": "Vùng Siberia",
+      "count": 7,
+      "bbox": [
+        91.656614,
+        50.15,
+        95.1,
+        51.761635
+      ],
+      "center": [
+        51.261306,
+        93.873919
       ]
     },
     {
@@ -1025,28 +1345,44 @@
         57.508579999999995,
         39.485502499999996
       ]
+    },
+    {
+      "slug": "zabaykalsky",
+      "name_vi": "Vùng Zabaykalsky",
+      "federal_district": "Vùng Viễn Đông",
+      "count": 10,
+      "bbox": [
+        110.9994,
+        49.7194,
+        118.062,
+        56.793
+      ],
+      "center": [
+        51.85462,
+        114.18909
+      ]
     }
   ],
   "categories": {
-    "park_garden": 162,
-    "other": 80,
-    "church": 167,
-    "fortress": 60,
-    "museum": 215,
-    "square_street": 51,
-    "monument": 178,
-    "palace": 35,
-    "theatre": 6,
-    "bridge": 7
+    "park_garden": 236,
+    "other": 103,
+    "church": 187,
+    "square_street": 64,
+    "monument": 216,
+    "museum": 240,
+    "fortress": 64,
+    "palace": 36,
+    "bridge": 10,
+    "theatre": 7
   },
   "bbox": [
-    19.9167,
+    -179.416667,
     42.05306,
-    71.424213,
-    69.3965
+    177.521783,
+    71.233333
   ],
   "center": [
-    54.41231010344825,
-    41.69045424137938
+    54.098866293243276,
+    55.57872202027028
   ]
 }
