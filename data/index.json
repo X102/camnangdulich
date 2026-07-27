@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-27T14:28:27",
-  "total_places": 1448,
+  "generated": "2026-07-27T16:31:02",
+  "total_places": 1472,
   "regions": [
     {
       "slug": "adygea",
@@ -1877,16 +1877,16 @@
       "name_vi": "Huế",
       "federal_district": "Miền Trung",
       "country": "vietnam",
-      "count": 7,
+      "count": 31,
       "bbox": [
-        107.545,
-        16.227,
+        107.4108,
+        16.1972,
         108.08,
-        16.4698
+        16.6486
       ],
       "center": [
-        16.417928571428572,
-        107.6413142857143
+        16.44664193548387,
+        107.60017741935484
       ]
     },
     {
@@ -2027,20 +2027,20 @@
     }
   ],
   "categories": {
-    "park_garden": 474,
-    "other": 354,
-    "church": 342,
-    "square_street": 106,
-    "monument": 429,
-    "museum": 369,
+    "park_garden": 485,
+    "other": 365,
+    "church": 346,
+    "square_street": 108,
+    "monument": 438,
+    "museum": 370,
     "fortress": 84,
-    "palace": 61,
-    "bridge": 27,
+    "palace": 63,
+    "bridge": 28,
     "theatre": 23
   },
   "countries": {
     "russia": 1059,
-    "vietnam": 389
+    "vietnam": 413
   },
   "country_names": {
     "russia": "Nga",
@@ -2053,7 +2053,7 @@
     71.233333
   ],
   "center": [
-    44.811856483425416,
-    66.31164004834248
+    44.349516703804355,
+    66.98462709918473
   ]
 }
