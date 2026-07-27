@@ -154,5 +154,1871 @@
       "yandex": "https://yandex.com/maps/?text=Cua%20Lo%20Beach%2C%20Nghe%20An%2C%20Vietnam&ll=105.717,18.806&z=17",
       "google": "https://www.google.com/maps/search/?api=1&query=Cua%20Lo%20Beach%2C%20Nghe%20An%2C%20Vietnam"
     }
+  },
+  {
+    "id": "vn-nghe-an-ho-chi-minh-square-vinh",
+    "slug": "ho-chi-minh-square-vinh",
+    "region": "vn-nghe-an",
+    "country": "vietnam",
+    "region_name_vi": "Nghệ An",
+    "federal_district": "Miền Trung",
+    "name_vi": "Quảng trường Hồ Chí Minh và Tượng đài Bác Hồ (TP. Vinh)",
+    "name_ru": "Площадь Хо Ши Мина и памятник (город Винь)",
+    "name_en": "Ho Chi Minh Square and Statue (Vinh City)",
+    "categories": [
+      "square_street",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 18.6699,
+      "lon": 105.6819
+    },
+    "address_vi": "Đường Hồ Tùng Mậu, phường Trường Thi, thành phố Vinh, tỉnh Nghệ An",
+    "rating": {
+      "value": 4.7,
+      "count": 9200,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Không gian rộng rãi, thoáng đãng ngay trung tâm Vinh; tượng đài Bác uy nghi trên nền núi Chung mô phỏng. Buổi tối đông người dân dạo mát, chụp ảnh, trẻ em vui chơi.",
+    "presentation_short_vi": "Quảng trường Hồ Chí Minh là trái tim của thành phố Vinh, nơi đặt tượng đài Chủ tịch Hồ Chí Minh cao 18 m bằng đồng, phía sau là mô hình núi Chung. Đây là điểm sinh hoạt cộng đồng, lễ hội và là biểu tượng của tình cảm người dân xứ Nghệ với Bác.",
+    "presentation_short_en": "Ho Chi Minh Square is the heart of Vinh City, home to an 18-metre bronze statue of President Ho Chi Minh set against a re-created Chung Mountain. It is the city's main civic and festival space and a symbol of the people of Nghe An's affection for their most famous son.",
+    "presentation_short_ru": "Площадь Хо Ши Мина — сердце города Винь, где установлен 18-метровый бронзовый памятник президенту Хо Ши Мину на фоне воссозданной горы Тюнг. Это главное место городских праздников и символ любви жителей Нгеана к своему земляку.",
+    "presentation_long_vi": "Nằm ở trung tâm thành phố Vinh, Quảng trường Hồ Chí Minh được khánh thành năm 2003 nhân kỷ niệm ngày sinh của Bác và nhanh chóng trở thành không gian công cộng lớn nhất, đẹp nhất xứ Nghệ. Điểm nhấn là tượng đài Chủ tịch Hồ Chí Minh đúc bằng đồng, cao 18 m (riêng phần tượng cao 12 m), đứng uy nghi trên bệ đá granit, tay phải giơ cao như đang vẫy chào đồng bào. Phía sau tượng là công trình mô phỏng núi Chung – ngọn núi gắn với tuổi thơ của Người ở làng Sen – được đắp bằng đá và trồng cây xanh, cây cảnh từ nhiều vùng miền gửi về. Quảng trường rộng khoảng 11 ha, lát đá sạch đẹp, có hệ thống đài phun nước, cột cờ, thảm cỏ và hàng cây rợp bóng. Đây là nơi diễn ra các sự kiện chính trị, văn hóa lớn của tỉnh, các buổi mít tinh, biểu diễn nghệ thuật và bắn pháo hoa dịp lễ. Vào buổi chiều tối, người dân Vinh đổ về đây đi bộ, tập thể dục, thả diều, còn trẻ nhỏ chơi xe điện, tạo nên khung cảnh sống động, thanh bình. Với du khách, quảng trường là điểm dừng chân dễ chịu để cảm nhận nhịp sống và tình cảm đặc biệt mà người xứ Nghệ dành cho Bác Hồ.",
+    "presentation_long_en": "Opened in 2003 to mark President Ho Chi Minh's birthday, Ho Chi Minh Square quickly became the largest and finest public space in Nghe An. Its centrepiece is an 18-metre bronze statue of Ho Chi Minh (the figure alone standing 12 metres) on a granite plinth, his right hand raised as if greeting the people. Behind it rises a re-creation of Chung Mountain, the hill linked to his childhood in Sen village, built of stone and planted with trees and ornamental plants sent from across the country. The square covers about 11 hectares, neatly paved and dotted with fountains, a flagpole, lawns and shady rows of trees. It hosts the province's major political and cultural events, rallies, performances and holiday fireworks. In the late afternoon and evening, Vinh residents flood in to stroll, exercise and fly kites while children ride electric cars, creating a lively yet peaceful scene. For visitors it is a pleasant stop to feel the rhythm of the city and the special affection the people of Nghe An hold for Uncle Ho.",
+    "presentation_long_ru": "Открытая в 2003 году к дню рождения президента Хо Ши Мина, площадь быстро стала крупнейшим и красивейшим общественным пространством провинции Нгеан. Её центр — 18-метровый бронзовый памятник Хо Ши Мину (сама фигура высотой 12 метров) на гранитном постаменте; правая рука поднята, будто приветствуя народ. За памятником возвышается воссозданная гора Тюнг, связанная с его детством в деревне Сен, сложенная из камня и засаженная деревьями и растениями со всей страны. Площадь занимает около 11 гектаров, аккуратно вымощена, украшена фонтанами, флагштоком, газонами и тенистыми аллеями. Здесь проходят главные политические и культурные события провинции, митинги, концерты и праздничные фейерверки. Под вечер жители Виня приходят сюда гулять, заниматься спортом и запускать воздушных змеев, а дети катаются на электромобилях, создавая живую и вместе с тем мирную атмосферу. Для гостей это приятная остановка, где можно почувствовать ритм города и особую любовь жителей Нгеана к «дядюшке Хо».",
+    "highlights_vi": [
+      "Tượng đài Bác Hồ bằng đồng cao 18 m trên nền núi Chung mô phỏng",
+      "Quảng trường rộng ~11 ha, trung tâm sinh hoạt của thành phố Vinh",
+      "Khánh thành năm 2003; nơi tổ chức lễ hội, mít tinh, bắn pháo hoa"
+    ],
+    "highlights_en": [
+      "An 18-metre bronze statue of Ho Chi Minh against a re-created Chung Mountain",
+      "About 11 hectares — the civic heart of Vinh City",
+      "Opened in 2003; venue for festivals, rallies and fireworks"
+    ],
+    "highlights_ru": [
+      "18-метровый бронзовый памятник Хо Ши Мину на фоне воссозданной горы Тюнг",
+      "Около 11 гектаров — гражданское сердце города Винь",
+      "Открыта в 2003 году; место праздников, митингов и фейерверков"
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa cả ngày; đẹp nhất buổi tối.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 30–60 phút.",
+      "best_time_vi": "Chiều tối mát mẻ, đông vui; dịp lễ có sự kiện, pháo hoa.",
+      "tips_vi": "Kết hợp dạo phố Vinh, thăm thành cổ và bảo tàng gần đó; buổi tối có phố đi bộ."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (VI) — Quảng trường Hồ Chí Minh (Vinh)",
+        "url": "https://vi.wikipedia.org/wiki/Qu%E1%BA%A3ng_tr%C6%B0%E1%BB%9Dng_H%E1%BB%93_Ch%C3%AD_Minh_(Vinh)"
+      }
+    ],
+    "tags": [
+      "monument",
+      "square",
+      "culture",
+      "top",
+      "outdoor",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Ho%20Chi%20Minh%20Square%20and%20Statue%2C%20Nghe%20An%2C%20Vietnam&ll=105.6819,18.6699&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Ho%20Chi%20Minh%20Square%20and%20Statue%2C%20Nghe%20An%2C%20Vietnam"
+    }
+  },
+  {
+    "id": "vn-nghe-an-den-ong-hoang-muoi",
+    "slug": "den-ong-hoang-muoi",
+    "region": "vn-nghe-an",
+    "country": "vietnam",
+    "region_name_vi": "Nghệ An",
+    "federal_district": "Miền Trung",
+    "name_vi": "Đền Ông Hoàng Mười (Đền Mỏ Hạc)",
+    "name_ru": "Храм Онг Хоанг Мыой",
+    "name_en": "Ong Hoang Muoi Temple",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 18.647,
+      "lon": 105.685
+    },
+    "address_vi": "Xã Hưng Thịnh (Làng Xuân Am), huyện Hưng Nguyên, tỉnh Nghệ An",
+    "rating": {
+      "value": 4.6,
+      "count": 5400,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Ngôi đền linh thiêng bậc nhất xứ Nghệ, đông khách hành hương cầu tài lộc, công danh. Không gian ven sông Lam yên bình, kiến trúc cổ kính; dịp lễ hội rất đông.",
+    "presentation_short_vi": "Đền Ông Hoàng Mười ở huyện Hưng Nguyên là một trong những đền thờ nổi tiếng và linh thiêng nhất xứ Nghệ, gắn với tín ngưỡng thờ Mẫu và ông Hoàng Mười trong đạo Tứ Phủ. Du khách về đây cầu công danh, tài lộc, bình an, nhất là dịp cuối năm.",
+    "presentation_short_en": "Ong Hoang Muoi Temple in Hung Nguyen is one of the most famous and revered shrines in Nghe An, tied to the Mother Goddess religion and the deity Ong Hoang Muoi of the Four Palaces. Pilgrims come to pray for career success, prosperity and peace, especially at year's end.",
+    "presentation_short_ru": "Храм Онг Хоанг Мыой в уезде Хынгнгуен — одно из самых известных и почитаемых святилищ провинции Нгеан, связанное с культом Богини-Матери и божеством Онг Хоанг Мыой в веровании «Четырёх дворцов». Паломники приходят молиться об успехе в карьере, достатке и мире, особенно в конце года.",
+    "presentation_long_vi": "Đền Ông Hoàng Mười, còn gọi là đền Mỏ Hạc, tọa lạc bên dòng sông Lam ở làng Xuân Am, xã Hưng Thịnh, huyện Hưng Nguyên, cách thành phố Vinh khoảng 7 km. Đền thờ ông Hoàng Mười – một vị thánh trong hệ thống tín ngưỡng thờ Mẫu Tứ Phủ của người Việt, được dân gian xem là vị thần ban lộc về công danh, học hành và sự nghiệp. Tương truyền ông Hoàng Mười giáng trần gắn với hình tượng những danh tướng, danh nhân có công với quê hương xứ Nghệ. Ngôi đền có lịch sử hàng trăm năm, kiến trúc truyền thống với tam quan, các tòa bái đường và hậu cung chạm khắc tinh xảo, mái ngói rêu phong, cây cối um tùm tạo không gian trầm mặc, linh thiêng. Hằng năm, đền tổ chức nhiều kỳ lễ, lớn nhất là lễ hội vào rằm tháng Ba và lễ giỗ ông Hoàng Mười ngày 10 tháng Mười âm lịch, thu hút hàng vạn người hành hương với các nghi lễ rước, hầu đồng, hát chầu văn đặc sắc. Du khách đến đây không chỉ dâng hương cầu may mà còn được hòa mình vào không khí văn hóa tâm linh đậm đà bản sắc của vùng đất bên bờ sông Lam.",
+    "presentation_long_en": "Ong Hoang Muoi Temple, also called Mo Hac Temple, sits beside the Lam River in Xuan Am hamlet, Hung Thinh commune, Hung Nguyen district, about 7 km from Vinh City. It honours Ong Hoang Muoi, a saint in the Vietnamese Mother Goddess (Four Palaces) tradition, popularly regarded as a deity who bestows blessings on careers, study and success. Legend links him to renowned generals and worthies who served the land of Nghe An. Several centuries old, the temple follows traditional architecture with a triple gate, worship halls and a finely carved rear sanctum, its mossy tiled roofs and lush trees creating a solemn, sacred atmosphere. Each year it holds several ceremonies, the largest being the festival on the fifteenth day of the third lunar month and Ong Hoang Muoi's memorial day on the tenth day of the tenth lunar month, drawing tens of thousands of pilgrims with processions, spirit-mediumship rituals and distinctive chau van singing. Visitors come not only to offer incense and pray for luck but also to immerse themselves in the deeply traditional spiritual culture of this riverside land.",
+    "presentation_long_ru": "Храм Онг Хоанг Мыой, называемый также храмом Мо Хак, стоит у реки Лам в деревне Суанам общины Хынгтхинь уезда Хынгнгуен, примерно в 7 км от города Винь. Он посвящён Онг Хоанг Мыою — святому во вьетнамской традиции культа Богини-Матери («Четыре дворца»), которого в народе почитают как божество, дарующее удачу в карьере, учёбе и делах. Предание связывает его с прославленными полководцами и достойными людьми, служившими земле Нгеан. Храму несколько столетий; он выстроен в традиционном стиле с тройными воротами, молитвенными залами и тонко резным задним святилищем, а замшелые черепичные крыши и густая зелень создают торжественную, священную атмосферу. Ежегодно здесь проводят несколько церемоний; крупнейшие — праздник в пятнадцатый день третьего лунного месяца и день памяти Онг Хоанг Мыоя в десятый день десятого лунного месяца, собирающие десятки тысяч паломников с процессиями, ритуалами медиумов и самобытным пением тямван. Гости приходят не только воскурить благовония и попросить удачи, но и погрузиться в глубоко традиционную духовную культуру этого приречного края.",
+    "highlights_vi": [
+      "Đền linh thiêng thờ ông Hoàng Mười trong tín ngưỡng thờ Mẫu Tứ Phủ",
+      "Bên bờ sông Lam, cách Vinh ~7 km; kiến trúc cổ, không gian trầm mặc",
+      "Lễ hội lớn rằm tháng Ba và giỗ 10/10 âm lịch với hầu đồng, chầu văn"
+    ],
+    "highlights_en": [
+      "A revered shrine to Ong Hoang Muoi in the Mother Goddess tradition",
+      "On the Lam River, ~7 km from Vinh; old architecture, solemn setting",
+      "Major festivals in the third lunar month and on the 10th day of the 10th month"
+    ],
+    "highlights_ru": [
+      "Почитаемое святилище Онг Хоанг Мыоя в традиции культа Богини-Матери",
+      "На реке Лам, ~7 км от Виня; старинная архитектура, торжественная атмосфера",
+      "Крупные праздники в третьем лунном месяце и 10-го числа десятого месяца"
+    ],
+    "practical": {
+      "hours_vi": "Khoảng 6:00–18:00; dịp lễ mở muộn hơn.",
+      "ticket_vi": "Miễn phí (công đức tùy tâm).",
+      "duration_vi": "Khoảng 1–1,5 giờ.",
+      "best_time_vi": "Dịp lễ hội tháng Ba và tháng Mười âm lịch; cuối năm đông khách cầu lộc.",
+      "tips_vi": "Ăn mặc lịch sự, giữ trật tự; cẩn thận tư trang khi đông người; kết hợp thăm thành phố Vinh."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (VI) — Đền Ông Hoàng Mười",
+        "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%81n_%C3%94ng_Ho%C3%A0ng_M%C6%B0%E1%BB%9Di"
+      }
+    ],
+    "tags": [
+      "spiritual",
+      "temple",
+      "culture",
+      "festival",
+      "outdoor"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Ong%20Hoang%20Muoi%20Temple%2C%20Nghe%20An%2C%20Vietnam&ll=105.685,18.647&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Ong%20Hoang%20Muoi%20Temple%2C%20Nghe%20An%2C%20Vietnam"
+    }
+  },
+  {
+    "id": "vn-nghe-an-pu-mat-national-park",
+    "slug": "pu-mat-national-park",
+    "region": "vn-nghe-an",
+    "country": "vietnam",
+    "region_name_vi": "Nghệ An",
+    "federal_district": "Miền Trung",
+    "name_vi": "Vườn quốc gia Pù Mát",
+    "name_ru": "Национальный парк Пумат",
+    "name_en": "Pu Mat National Park",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 18.767,
+      "lon": 104.4
+    },
+    "address_vi": "Địa phận các huyện Con Cuông, Anh Sơn, Tương Dương, tỉnh Nghệ An",
+    "rating": {
+      "value": 4.6,
+      "count": 2100,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Rừng nguyên sinh rộng lớn, đa dạng sinh học cao; du khách thích trekking, tắm thác, thăm bản làng dân tộc. Đường vào một số điểm còn khó, nên đi có hướng dẫn.",
+    "presentation_short_vi": "Vườn quốc gia Pù Mát trải trên ba huyện miền Tây Nghệ An là khu rừng nguyên sinh lớn nhất Bắc Trung Bộ, lõi của Khu dự trữ sinh quyển thế giới miền Tây Nghệ An. Nơi đây có hệ động thực vật phong phú cùng nhiều thác nước, sông suối và bản làng dân tộc thiểu số.",
+    "presentation_short_en": "Pu Mat National Park, spread across three districts of western Nghe An, is the largest primary forest in north-central Vietnam and the core of the Western Nghe An World Biosphere Reserve. It shelters rich flora and fauna along with waterfalls, streams and ethnic minority villages.",
+    "presentation_short_ru": "Национальный парк Пумат, раскинувшийся на трёх уездах западного Нгеана, — крупнейший первичный лес северо-центрального Вьетнама и ядро всемирного биосферного заповедника Западный Нгеан. Здесь обитают богатая флора и фауна, есть водопады, реки и деревни этнических меньшинств.",
+    "presentation_long_vi": "Vườn quốc gia Pù Mát nằm trên sườn đông dãy Trường Sơn, thuộc ba huyện Con Cuông, Anh Sơn và Tương Dương, cách thành phố Vinh khoảng 130 km về phía tây. Với diện tích vùng lõi hơn 94.000 ha, đây là khu rừng nguyên sinh lớn nhất khu vực Bắc Trung Bộ và là trung tâm của Khu dự trữ sinh quyển thế giới miền Tây Nghệ An được UNESCO công nhận. Pù Mát nổi tiếng bởi đa dạng sinh học bậc cao với hàng nghìn loài thực vật cùng nhiều loài thú quý hiếm như sao la, voi, hổ, vượn đen má trắng, các loài linh trưởng và chim đặc hữu. Đến với vườn, du khách có thể trekking xuyên rừng, khám phá thác Khe Kèm hùng vĩ, ngược dòng sông Giăng bằng thuyền, tắm suối nước Mọc mát lạnh, thăm rừng săng lẻ cổ thụ và trải nghiệm văn hóa của đồng bào Thái, Đan Lai sống trong vùng đệm. Khí hậu ở đây trong lành, cảnh quan hoang sơ với núi rừng trùng điệp, suối trong và không khí mát mẻ quanh năm. Pù Mát là điểm đến lý tưởng cho những ai yêu thiên nhiên, thích du lịch sinh thái, nghiên cứu và mạo hiểm giữa đại ngàn miền Tây xứ Nghệ.",
+    "presentation_long_en": "Pu Mat National Park lies on the eastern slope of the Truong Son range across the districts of Con Cuong, Anh Son and Tuong Duong, about 130 km west of Vinh City. With a core zone of over 94,000 hectares, it is the largest primary forest in north-central Vietnam and the heart of the UNESCO-recognised Western Nghe An World Biosphere Reserve. Pu Mat is famed for its high biodiversity, with thousands of plant species and rare mammals such as the saola, elephant, tiger, white-cheeked gibbon, other primates and endemic birds. Visitors can trek through the forest, admire the mighty Khe Kem Waterfall, travel upstream on the Giang River by boat, bathe in the cool Moc spring, walk among ancient sang le (crape-myrtle) groves and experience the culture of the Thai and Dan Lai peoples living in the buffer zone. The air is clean and the scenery wild, with layered mountains, clear streams and a cool climate year-round. Pu Mat is an ideal destination for nature lovers and those drawn to eco-tourism, research and adventure deep in the forests of western Nghe An.",
+    "presentation_long_ru": "Национальный парк Пумат расположен на восточном склоне хребта Чыонгшон в уездах Конкуонг, Аншон и Тыонгзыонг, примерно в 130 км к западу от города Винь. С ядром площадью более 94 000 гектаров это крупнейший первичный лес северо-центрального Вьетнама и сердце признанного ЮНЕСКО всемирного биосферного заповедника Западный Нгеан. Пумат славится высоким биоразнообразием: тысячи видов растений и редкие млекопитающие — саола, слон, тигр, белощёкий гиббон, другие приматы и эндемичные птицы. Здесь можно совершать треккинг по лесу, любоваться могучим водопадом Кхекем, подниматься по реке Зянг на лодке, купаться в прохладном источнике Мок, гулять среди древних рощ криптомерии-лагерстрёмии и знакомиться с культурой народов тхай и данлай, живущих в буферной зоне. Воздух чист, а пейзажи первозданны: гряды гор, прозрачные ручьи и прохладный климат круглый год. Пумат — идеальное место для любителей природы, экотуризма, исследований и приключений в лесах западного Нгеана.",
+    "highlights_vi": [
+      "Rừng nguyên sinh lớn nhất Bắc Trung Bộ, vùng lõi ~94.000 ha",
+      "Trung tâm Khu dự trữ sinh quyển thế giới miền Tây Nghệ An (UNESCO)",
+      "Trekking, thác Khe Kèm, sông Giăng, suối nước Mọc, bản người Thái/Đan Lai"
+    ],
+    "highlights_en": [
+      "The largest primary forest in north-central Vietnam, core ~94,000 ha",
+      "Heart of the UNESCO Western Nghe An World Biosphere Reserve",
+      "Trekking, Khe Kem Waterfall, Giang River, Moc spring, Thai/Dan Lai villages"
+    ],
+    "highlights_ru": [
+      "Крупнейший первичный лес северо-центрального Вьетнама, ядро ~94 000 га",
+      "Сердце биосферного заповедника ЮНЕСКО Западный Нгеан",
+      "Треккинг, водопад Кхекем, река Зянг, источник Мок, деревни тхай/данлай"
+    ],
+    "practical": {
+      "hours_vi": "Ban ngày; cần đăng ký/hướng dẫn ở một số tuyến.",
+      "ticket_vi": "Có phí tham quan và dịch vụ (thuyền, hướng dẫn) tùy tuyến.",
+      "duration_vi": "Từ nửa ngày đến 2–3 ngày tùy hành trình.",
+      "best_time_vi": "Mùa khô (khoảng tháng 10–4); thác nhiều nước sau mùa mưa.",
+      "tips_vi": "Đi giày trekking, mang chống côn trùng; nên thuê hướng dẫn địa phương; đặt trước dịch vụ thuyền sông Giăng."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (VI) — Vườn quốc gia Pù Mát",
+        "url": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_P%C3%B9_M%C3%A1t"
+      }
+    ],
+    "tags": [
+      "nature",
+      "ecotourism",
+      "trekking",
+      "unesco",
+      "outdoor",
+      "top",
+      "daytrip"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Pu%20Mat%20National%20Park%2C%20Nghe%20An%2C%20Vietnam&ll=104.4,18.767&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Pu%20Mat%20National%20Park%2C%20Nghe%20An%2C%20Vietnam"
+    }
+  },
+  {
+    "id": "vn-nghe-an-thac-khe-kem",
+    "slug": "thac-khe-kem",
+    "region": "vn-nghe-an",
+    "country": "vietnam",
+    "region_name_vi": "Nghệ An",
+    "federal_district": "Miền Trung",
+    "name_vi": "Thác Khe Kèm",
+    "name_ru": "Водопад Кхекем",
+    "name_en": "Khe Kem Waterfall",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 18.9,
+      "lon": 104.72
+    },
+    "address_vi": "Xã Lục Dạ, huyện Con Cuông (trong Vườn quốc gia Pù Mát), tỉnh Nghệ An",
+    "rating": {
+      "value": 4.5,
+      "count": 1300,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Thác nước nguyên sơ cao, buông mình qua rừng như dải lụa trắng; nước mát, cảnh đẹp. Du khách thích tắm thác, chụp ảnh; đường vào đã thuận tiện hơn.",
+    "presentation_short_vi": "Thác Khe Kèm nằm sâu trong Vườn quốc gia Pù Mát, cao khoảng 150 m, được ví như một trong những thác nước còn nguyên sơ đẹp nhất Việt Nam. Dòng nước đổ qua nhiều tầng đá giữa rừng già tạo khung cảnh hùng vĩ, mát lành.",
+    "presentation_short_en": "Khe Kem Waterfall, deep inside Pu Mat National Park, drops roughly 150 metres and is regarded as one of Vietnam's most pristine falls. Its waters cascade over rock tiers amid old-growth forest, creating a majestic, refreshing scene.",
+    "presentation_short_ru": "Водопад Кхекем в глубине национального парка Пумат падает примерно на 150 метров и считается одним из самых нетронутых водопадов Вьетнама. Его воды каскадом стекают по уступам скал среди древнего леса, создавая величественную и освежающую картину.",
+    "presentation_long_vi": "Thác Khe Kèm là một thắng cảnh nổi tiếng nằm trong vùng lõi Vườn quốc gia Pù Mát, thuộc huyện Con Cuông, cách thị trấn Con Cuông khoảng 20 km về phía tây nam. Thác có độ cao khoảng 150 m, dòng nước bắt nguồn từ những đỉnh núi cao của dãy Trường Sơn, len qua rừng nguyên sinh rồi buông mình xuống nhiều bậc đá dựng đứng, trắng xóa như một dải lụa vắt giữa đại ngàn xanh thẳm. Các nhà nghiên cứu đánh giá Khe Kèm là một trong những thác nước còn giữ được vẻ hoang sơ, nguyên vẹn bậc nhất cả nước, chưa bị tác động nhiều bởi con người. Dưới chân thác là những vũng nước trong mát, quanh năm rợp bóng cây rừng, không khí trong lành, mát lạnh, rất thích hợp để tắm mát, nghỉ ngơi và chụp ảnh. Xung quanh thác, hệ thực vật phong phú với nhiều loài phong lan, dương xỉ, cây cổ thụ và tiếng chim rừng khiến khung cảnh thêm phần thơ mộng. Đường tới thác nay đã được nâng cấp, du khách có thể đi ô tô, xe máy vào gần chân thác. Khe Kèm thường được kết hợp trong hành trình khám phá Pù Mát cùng sông Giăng, đập Phà Lài và các bản làng người Thái, mang lại trải nghiệm sinh thái trọn vẹn giữa miền Tây xứ Nghệ.",
+    "presentation_long_en": "Khe Kem Waterfall is a celebrated beauty spot in the core of Pu Mat National Park, in Con Cuong district, about 20 km southwest of Con Cuong town. Around 150 metres high, its waters rise from the high peaks of the Truong Son range, thread through primary forest and tumble down steep rock tiers, foaming white like a silk band draped across the deep green forest. Researchers rate Khe Kem among the most pristine, untouched falls in the whole country. At its foot lie clear, cool pools shaded year-round by forest trees, with fresh, chilly air perfect for bathing, resting and photography. The surrounding vegetation is rich in orchids, ferns and ancient trees, and the calls of forest birds make the scene all the more poetic. The road to the falls has been upgraded, so visitors can drive a car or motorbike close to the base. Khe Kem is usually combined into a Pu Mat itinerary with the Giang River, Pha Lai weir and Thai ethnic villages, offering a complete eco-experience in western Nghe An.",
+    "presentation_long_ru": "Водопад Кхекем — знаменитая достопримечательность в ядре национального парка Пумат, в уезде Конкуонг, примерно в 20 км к юго-западу от посёлка Конкуонг. Высотой около 150 метров, его воды берут начало на высоких вершинах хребта Чыонгшон, пробиваются сквозь первичный лес и низвергаются по крутым уступам скал, пенясь белым, словно шёлковая лента на фоне тёмно-зелёного леса. Исследователи относят Кхекем к числу самых нетронутых водопадов всей страны. У его подножия лежат прозрачные прохладные заводи, круглый год затенённые лесными деревьями, а свежий и холодный воздух идеален для купания, отдыха и фотографий. Окружающая растительность богата орхидеями, папоротниками и вековыми деревьями, а пение лесных птиц делает пейзаж ещё поэтичнее. Дорога к водопаду обновлена, поэтому подъехать к его подножию можно на автомобиле или мотоцикле. Кхекем обычно включают в маршрут по Пумату вместе с рекой Зянг, плотиной Фалай и деревнями народа тхай, что дарит полноценный экологический опыт в западном Нгеане.",
+    "highlights_vi": [
+      "Thác nguyên sơ cao ~150 m trong Vườn quốc gia Pù Mát",
+      "Một trong những thác đẹp, hoang sơ bậc nhất Việt Nam",
+      "Tắm mát dưới chân thác; kết hợp sông Giăng, đập Phà Lài, bản Thái"
+    ],
+    "highlights_en": [
+      "A pristine ~150 m waterfall inside Pu Mat National Park",
+      "Among the most beautiful, untouched falls in Vietnam",
+      "Swim at its foot; combine with the Giang River, Pha Lai weir and Thai villages"
+    ],
+    "highlights_ru": [
+      "Нетронутый водопад высотой ~150 м в национальном парке Пумат",
+      "Среди самых красивых и первозданных водопадов Вьетнама",
+      "Купание у подножия; сочетается с рекой Зянг, плотиной Фалай и деревнями тхай"
+    ],
+    "practical": {
+      "hours_vi": "Ban ngày.",
+      "ticket_vi": "Có phí tham quan Vườn quốc gia/dịch vụ.",
+      "duration_vi": "Khoảng 2–3 giờ (chưa kể di chuyển).",
+      "best_time_vi": "Sau mùa mưa (khoảng tháng 9–11) thác nhiều nước; mùa hè tắm mát.",
+      "tips_vi": "Mang dép chống trơn, đồ bơi; cẩn thận đá trơn; kết hợp khám phá Pù Mát."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Cổng thông tin du lịch Việt Nam — Pù Mát, thác Khe Kèm",
+        "url": "https://vietnamtourism.gov.vn/post/23786"
+      }
+    ],
+    "tags": [
+      "nature",
+      "waterfall",
+      "ecotourism",
+      "outdoor",
+      "family",
+      "daytrip"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Khe%20Kem%20Waterfall%2C%20Nghe%20An%2C%20Vietnam&ll=104.72,18.9&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Khe%20Kem%20Waterfall%2C%20Nghe%20An%2C%20Vietnam"
+    }
+  },
+  {
+    "id": "vn-nghe-an-dao-che-thanh-chuong",
+    "slug": "dao-che-thanh-chuong",
+    "region": "vn-nghe-an",
+    "country": "vietnam",
+    "region_name_vi": "Nghệ An",
+    "federal_district": "Miền Trung",
+    "name_vi": "Đảo chè Thanh Chương (Hồ Cầu Cau)",
+    "name_ru": "Чайный остров Тханьтьыонг (озеро Каукау)",
+    "name_en": "Thanh Chuong Tea Island (Cau Cau Lake)",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 18.695,
+      "lon": 105.305
+    },
+    "address_vi": "Xã Thanh An, huyện Thanh Chương, tỉnh Nghệ An",
+    "rating": {
+      "value": 4.5,
+      "count": 3600,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Những ốc đảo chè xanh mướt nổi giữa hồ nước, đẹp như tranh; du khách chèo thuyền, chụp ảnh 'sống ảo'. Sáng sớm sương phủ rất nên thơ; dịch vụ còn đơn giản.",
+    "presentation_short_vi": "Đảo chè Thanh Chương là những đồi chè xanh mướt nổi lên giữa mặt hồ Cầu Cau, tạo nên khung cảnh nên thơ hiếm có ở xứ Nghệ. Du khách đi thuyền len giữa các 'ốc đảo' chè, hít thở không khí trong lành và chụp những bức ảnh tuyệt đẹp.",
+    "presentation_short_en": "Thanh Chuong Tea Island is a cluster of lush green tea hills rising from Cau Cau Lake, forming a rare, picturesque scene in Nghe An. Visitors glide by boat between the tea 'islets', breathe the fresh air and take stunning photographs.",
+    "presentation_short_ru": "Чайный остров Тханьтьыонг — группа сочно-зелёных чайных холмов, поднимающихся из озера Каукау и образующих редкий живописный пейзаж в Нгеане. Гости плывут на лодке между чайными «островками», дышат свежим воздухом и делают потрясающие снимки.",
+    "presentation_long_vi": "Đảo chè Thanh Chương nằm ở xã Thanh An, huyện Thanh Chương, cách thành phố Vinh khoảng 45–50 km về phía tây. Đây vốn là vùng đồi trồng chè của nông trường, khi hồ Cầu Cau tích nước đã biến những quả đồi chè thành hàng chục hòn đảo lớn nhỏ nổi giữa mặt nước xanh biếc, tạo nên một bức tranh thiên nhiên độc đáo được ví như 'Hạ Long xanh' trên cạn của xứ Nghệ. Từng luống chè được trồng uốn lượn theo hình bát úp, xanh mướt quanh năm, phản chiếu xuống làn nước phẳng lặng khiến khung cảnh thêm phần thơ mộng. Du khách đến đây thường thuê thuyền máy hoặc thuyền chèo dạo quanh hồ, len lỏi giữa các đảo chè, ngắm cảnh, câu cá và chụp ảnh; nhiều người chọn thời điểm sáng sớm khi sương mờ giăng trên mặt hồ hoặc lúc hoàng hôn buông để có những khoảnh khắc đẹp nhất. Không khí ở đây trong lành, yên tĩnh, rất hợp cho những chuyến dã ngoại, cắm trại nhẹ nhàng. Gần đảo chè còn có đền Cửa Lũy và các vườn cây ăn quả để kết hợp tham quan. Với vẻ đẹp bình dị mà cuốn hút, đảo chè Thanh Chương đã trở thành một trong những điểm 'check-in' được yêu thích nhất Nghệ An trong những năm gần đây.",
+    "presentation_long_en": "Thanh Chuong Tea Island lies in Thanh An commune, Thanh Chuong district, about 45-50 km west of Vinh City. Once a state farm's tea-growing hills, the area was transformed when Cau Cau Lake filled: the tea hills became dozens of large and small islands floating on the blue water, an unusual natural picture nicknamed the 'green Ha Long' of Nghe An. The tea is planted in curving, dome-shaped rows, green all year and mirrored in the still water for an even more poetic effect. Visitors usually hire a motorboat or rowboat to cruise the lake, weaving among the tea islands to sightsee, fish and take photos; many choose early morning, when mist drifts over the water, or sunset for the finest moments. The air is fresh and quiet, ideal for gentle picnics and camping. Nearby are Cua Luy Temple and fruit orchards to combine into a visit. With its simple yet captivating beauty, Thanh Chuong Tea Island has become one of Nghe An's most beloved check-in spots in recent years.",
+    "presentation_long_ru": "Чайный остров Тханьтьыонг находится в общине Тханьан уезда Тханьтьыонг, примерно в 45-50 км к западу от города Винь. Некогда чайные холмы государственной фермы преобразились, когда наполнилось озеро Каукау: холмы стали десятками больших и малых островов, плывущих по синей воде, — необычная природная картина, прозванная «зелёным Халонгом» Нгеана. Чай посажен изогнутыми куполообразными рядами, зелёными круглый год и отражающимися в неподвижной воде, что делает пейзаж ещё поэтичнее. Гости обычно нанимают моторную или гребную лодку, чтобы плыть по озеру, лавируя между чайными островами, любоваться видами, рыбачить и фотографировать; многие выбирают раннее утро, когда над водой стелется туман, или закат для лучших кадров. Воздух свеж и тих, идеален для спокойных пикников и кемпинга. Рядом — храм Кыалуй и фруктовые сады, которые можно посетить заодно. Своей простой, но пленительной красотой чайный остров Тханьтьыонг в последние годы стал одним из самых любимых мест для фотографий в Нгеане.",
+    "highlights_vi": [
+      "Đồi chè xanh nổi giữa hồ Cầu Cau — 'Hạ Long xanh' của xứ Nghệ",
+      "Đi thuyền len giữa các ốc đảo chè, chụp ảnh, câu cá",
+      "Đẹp nhất lúc sáng sớm sương phủ hoặc hoàng hôn"
+    ],
+    "highlights_en": [
+      "Green tea hills floating on Cau Cau Lake — the 'green Ha Long' of Nghe An",
+      "Boat among the tea islets to sightsee, fish and take photos",
+      "At its best in the misty early morning or at sunset"
+    ],
+    "highlights_ru": [
+      "Зелёные чайные холмы на озере Каукау — «зелёный Халонг» Нгеана",
+      "Лодка между чайными островками для видов, рыбалки и фото",
+      "Прекраснее всего туманным ранним утром или на закате"
+    ],
+    "practical": {
+      "hours_vi": "Ban ngày (khoảng 6:00–18:00).",
+      "ticket_vi": "Phí thuyền theo lượt/nhóm (thỏa thuận tại bến).",
+      "duration_vi": "Khoảng 2–3 giờ.",
+      "best_time_vi": "Sáng sớm hoặc chiều muộn; mùa xuân, đầu hè trời đẹp.",
+      "tips_vi": "Mang mũ nón, kem chống nắng; mặc áo phao khi đi thuyền; đi sớm tránh nắng và đông."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Traveloka — Đảo chè Thanh Chương",
+        "url": "https://www.traveloka.com/vi-vn/explore/destination/dao-che-thanh-chuong-acc/245803"
+      }
+    ],
+    "tags": [
+      "nature",
+      "lake",
+      "viewpoint",
+      "outdoor",
+      "family",
+      "daytrip",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Thanh%20Chuong%20Tea%20Island%2C%20Nghe%20An%2C%20Vietnam&ll=105.305,18.695&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Thanh%20Chuong%20Tea%20Island%2C%20Nghe%20An%2C%20Vietnam"
+    }
+  },
+  {
+    "id": "vn-nghe-an-den-cuong",
+    "slug": "den-cuong",
+    "region": "vn-nghe-an",
+    "country": "vietnam",
+    "region_name_vi": "Nghệ An",
+    "federal_district": "Miền Trung",
+    "name_vi": "Đền Cuông (đền thờ An Dương Vương)",
+    "name_ru": "Храм Дэнкуонг (храм короля Ан Зыонг Выонга)",
+    "name_en": "Den Cuong Temple (An Duong Vuong Temple)",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 18.955,
+      "lon": 105.585
+    },
+    "address_vi": "Núi Mộ Dạ, xã Diễn An (nay thuộc Diễn Châu), tỉnh Nghệ An",
+    "rating": {
+      "value": 4.5,
+      "count": 1500,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Ngôi đền cổ kính bên núi Mộ Dạ, gắn truyền thuyết An Dương Vương; không gian linh thiêng, cây cối cổ thụ. Lễ hội đầu năm rất đông; nhiều người leo núi vãn cảnh.",
+    "presentation_short_vi": "Đền Cuông tọa lạc trên núi Mộ Dạ ở huyện Diễn Châu, thờ Thục Phán An Dương Vương – vị vua nước Âu Lạc gắn với truyền thuyết Loa Thành và nỏ thần. Ngôi đền cổ kính giữa rừng cây, gắn với sự tích công chúa Mỵ Châu và câu chuyện lịch sử bi tráng.",
+    "presentation_short_en": "Den Cuong Temple stands on Mo Da Mountain in Dien Chau district, honouring Thuc Phan An Duong Vuong, king of Au Lac, tied to the legend of the Co Loa citadel and the magic crossbow. The ancient temple amid the forest is linked to Princess My Chau and a tragic historical tale.",
+    "presentation_short_ru": "Храм Дэнкуонг стоит на горе Мода в уезде Зьентяу и посвящён Тхук Фан Ан Зыонг Выонгу, королю государства Аулак, связанному с легендой о цитадели Колоа и волшебном арбалете. Древний храм среди леса связан с принцессой Ми Тяу и трагической исторической легендой.",
+    "presentation_long_vi": "Đền Cuông là một ngôi đền cổ nằm trên sườn núi Mộ Dạ, bên Quốc lộ 1A thuộc xã Diễn An, huyện Diễn Châu, cách thành phố Vinh khoảng 30 km về phía bắc. Đền thờ Thục Phán An Dương Vương – vị vua đã lập nên nhà nước Âu Lạc và xây thành Cổ Loa – gắn liền với truyền thuyết nỏ thần, mối tình Mỵ Châu – Trọng Thủy và kết cục bi tráng khi nhà vua theo thần Kim Quy đi về phía biển tại chính vùng đất này. Đền được xây dựng từ lâu đời, kiến trúc theo lối truyền thống với tam quan, tòa trung điện và thượng điện, mái ngói rêu phong, cột kèo chạm khắc, nép mình dưới những tán cây cổ thụ xanh tốt trên núi Mộ Dạ tạo nên không gian trầm mặc, linh thiêng. Từ đền, du khách có thể leo lên núi ngắm cảnh rừng cây, phóng tầm mắt ra biển Cửa Hiền và vùng đồng bằng Diễn Châu. Hằng năm, lễ hội đền Cuông diễn ra vào rằm tháng Hai âm lịch, kéo dài nhiều ngày với các nghi lễ rước, tế và phần hội sôi nổi, thu hút đông đảo nhân dân và du khách thập phương về dâng hương, tưởng nhớ vị vua trong buổi đầu dựng nước. Đền Cuông đã được công nhận là di tích lịch sử – văn hóa cấp quốc gia.",
+    "presentation_long_en": "Den Cuong is an ancient temple on the slope of Mo Da Mountain beside National Highway 1A in Dien An commune, Dien Chau district, about 30 km north of Vinh City. It honours Thuc Phan An Duong Vuong, the king who founded the state of Au Lac and built the Co Loa citadel, and is bound to the legend of the magic crossbow, the romance of My Chau and Trong Thuy, and the tragic ending when the king followed the Golden Turtle deity toward the sea in this very area. Long established, the temple follows traditional architecture with a triple gate, middle hall and upper sanctum, its mossy tiled roofs and carved beams nestled beneath ancient trees on Mo Da Mountain, creating a solemn, sacred space. From the temple, visitors can climb the hill to enjoy forest views and gaze out over Cua Hien beach and the Dien Chau plain. Each year the Den Cuong festival takes place on the fifteenth day of the second lunar month, lasting several days with processions, rites and lively activities that draw crowds of pilgrims to offer incense in memory of the king of Vietnam's founding era. Den Cuong is recognised as a national historical and cultural relic.",
+    "presentation_long_ru": "Дэнкуонг — древний храм на склоне горы Мода у национального шоссе 1А в общине Зьенан уезда Зьентяу, примерно в 30 км к северу от города Винь. Он посвящён Тхук Фан Ан Зыонг Выонгу — королю, основавшему государство Аулак и построившему цитадель Колоа, — и связан с легендой о волшебном арбалете, романом Ми Тяу и Чонг Тхюи и трагическим финалом, когда король последовал за божеством Золотой Черепахой к морю именно в этих краях. Издавна построенный храм выдержан в традиционном стиле с тройными воротами, средним залом и верхним святилищем; замшелые черепичные крыши и резные балки укрыты под вековыми деревьями на горе Мода, создавая торжественное, священное пространство. От храма посетители могут подняться на холм, чтобы любоваться лесом и видами на пляж Кыахьен и равнину Зьентяу. Ежегодно праздник Дэнкуонг проходит в пятнадцатый день второго лунного месяца и длится несколько дней с процессиями, обрядами и оживлёнными гуляньями, привлекая толпы паломников, воскуряющих благовония в память о короле эпохи основания страны. Дэнкуонг признан национальным историко-культурным памятником.",
+    "highlights_vi": [
+      "Đền cổ trên núi Mộ Dạ thờ An Dương Vương, gắn truyền thuyết nỏ thần",
+      "Không gian linh thiêng dưới cây cổ thụ, nhìn ra biển và đồng bằng Diễn Châu",
+      "Lễ hội rằm tháng Hai âm lịch; di tích lịch sử – văn hóa quốc gia"
+    ],
+    "highlights_en": [
+      "Ancient temple on Mo Da Mountain to An Duong Vuong, tied to the magic-crossbow legend",
+      "Sacred setting under old trees, overlooking the sea and Dien Chau plain",
+      "Festival on the 15th of the second lunar month; national relic"
+    ],
+    "highlights_ru": [
+      "Древний храм на горе Мода в честь Ан Зыонг Выонга и легенды о волшебном арбалете",
+      "Священное место под старыми деревьями, вид на море и равнину Зьентяу",
+      "Праздник 15-го числа второго лунного месяца; национальный памятник"
+    ],
+    "practical": {
+      "hours_vi": "Khoảng 6:00–18:00.",
+      "ticket_vi": "Miễn phí (công đức tùy tâm).",
+      "duration_vi": "Khoảng 1–2 giờ (kể cả leo núi).",
+      "best_time_vi": "Lễ hội rằm tháng Hai âm lịch; đầu xuân đông khách.",
+      "tips_vi": "Ăn mặc lịch sự; đi giày đế bám để leo núi; kết hợp thăm biển Diễn Thành gần đó."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (VI) — Đền Cuông",
+        "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%81n_Cu%C3%B4ng"
+      }
+    ],
+    "tags": [
+      "spiritual",
+      "temple",
+      "history",
+      "culture",
+      "festival",
+      "outdoor"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Den%20Cuong%20Temple%2C%20Nghe%20An%2C%20Vietnam&ll=105.585,18.955&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Den%20Cuong%20Temple%2C%20Nghe%20An%2C%20Vietnam"
+    }
+  },
+  {
+    "id": "vn-nghe-an-bien-quynh",
+    "slug": "bien-quynh",
+    "region": "vn-nghe-an",
+    "country": "vietnam",
+    "region_name_vi": "Nghệ An",
+    "federal_district": "Miền Trung",
+    "name_vi": "Biển Quỳnh (Quỳnh Lưu)",
+    "name_ru": "Пляж Куинь (Куиньлыу)",
+    "name_en": "Quynh Beach (Quynh Luu)",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 19.165,
+      "lon": 105.675
+    },
+    "address_vi": "Vùng biển các xã Quỳnh Bảng, Quỳnh Phương, Tiến Thủy (Quỳnh Lưu, Hoàng Mai), tỉnh Nghệ An",
+    "rating": {
+      "value": 4.3,
+      "count": 1900,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Bãi biển dài, cát mịn, còn hoang sơ, hải sản tươi ngon và rẻ; làng chài nhộn nhịp. Ít chen chúc hơn Cửa Lò, hợp nghỉ dưỡng bình dân, ngắm bình minh trên biển.",
+    "presentation_short_vi": "Biển Quỳnh là tên gọi chung cho dải bãi biển đẹp, hoang sơ ở vùng Quỳnh Lưu – Hoàng Mai, phía bắc Nghệ An. Nơi đây có bãi cát dài phẳng mịn, nước biển trong, làng chài sầm uất và hải sản tươi ngon, là điểm nghỉ mát yên bình được nhiều du khách yêu thích.",
+    "presentation_short_en": "Quynh Beach is the collective name for the lovely, unspoilt stretch of coast in the Quynh Luu-Hoang Mai area of northern Nghe An. It offers long, flat, fine sand, clear water, busy fishing villages and fresh seafood, making it a peaceful seaside retreat that many travellers love.",
+    "presentation_short_ru": "Пляж Куинь — общее название красивой нетронутой полосы побережья в районе Куиньлыу-Хоангмай на севере Нгеана. Здесь длинный, ровный и мелкий песок, чистая вода, оживлённые рыбацкие деревни и свежие морепродукты, что делает его тихим морским уголком, любимым многими путешественниками.",
+    "presentation_long_vi": "Biển Quỳnh là tên gọi chung cho chuỗi các bãi tắm trải dài dọc bờ biển huyện Quỳnh Lưu và thị xã Hoàng Mai ở phía bắc tỉnh Nghệ An, cách thành phố Vinh khoảng 60–70 km. Khác với sự sầm uất của Cửa Lò, biển Quỳnh vẫn giữ được nét hoang sơ, mộc mạc với bãi cát vàng mịn thoai thoải, sóng êm và hàng phi lao xanh chạy dài ven bờ. Các bãi tắm nổi tiếng như Quỳnh Bảng, Quỳnh Phương, Quỳnh Nghĩa, Tiến Thủy thu hút du khách bởi không gian thoáng đãng, trong lành và cảm giác gần gũi với đời sống làng chài. Đây là vùng biển gắn với nghề đánh bắt lâu đời, mỗi sớm mai những đoàn thuyền đầy ắp cá tôm lại cập bến, tạo nên khung cảnh chợ cá nhộn nhịp, đầy sắc màu. Nhờ vậy, du khách đến biển Quỳnh có thể thưởng thức hải sản tươi sống với giá bình dân, từ ghẹ, mực, tôm đến các loại cá biển. Bình minh trên biển Quỳnh đặc biệt đẹp khi mặt trời đỏ rực nhô lên khỏi mặt nước, phía sau là những con thuyền và bóng người ngư dân. Với chi phí hợp lý, không khí yên bình và hải sản hấp dẫn, biển Quỳnh là lựa chọn lý tưởng cho những chuyến nghỉ dưỡng, dã ngoại tránh xa ồn ào phố thị.",
+    "presentation_long_en": "Quynh Beach is the collective name for a chain of bathing beaches running along the coast of Quynh Luu district and Hoang Mai town in northern Nghe An, about 60-70 km from Vinh City. Unlike the bustle of Cua Lo, Quynh Beach keeps its wild, rustic character, with gently sloping fine golden sand, calm waves and long rows of green casuarina trees. Famous beaches such as Quynh Bang, Quynh Phuong, Quynh Nghia and Tien Thuy draw visitors with their open, fresh air and closeness to fishing-village life. This is a coast of long-standing fisheries: each morning boats laden with fish and shrimp return to shore, creating a lively, colourful fish market. As a result, visitors can enjoy fresh seafood at modest prices, from crab, squid and shrimp to many kinds of sea fish. Sunrise over Quynh Beach is especially beautiful as the fiery red sun climbs from the water behind the boats and the silhouettes of fishermen. With reasonable costs, a peaceful atmosphere and tempting seafood, Quynh Beach is an ideal choice for a restful getaway far from the noise of the city.",
+    "presentation_long_ru": "Пляж Куинь — общее название цепочки купальных пляжей вдоль побережья уезда Куиньлыу и города Хоангмай на севере Нгеана, примерно в 60-70 км от города Винь. В отличие от суеты Кыало, пляж Куинь сохраняет дикий, деревенский характер: полого спускающийся мелкий золотистый песок, спокойные волны и длинные ряды зелёных казуарин. Известные пляжи — Куиньбанг, Куиньфыонг, Куиньнгиа и Тьентхюи — привлекают гостей простором, свежим воздухом и близостью к жизни рыбацких деревень. Это побережье давних рыбных промыслов: каждое утро лодки, полные рыбы и креветок, возвращаются к берегу, создавая живой, красочный рыбный рынок. Благодаря этому гости могут отведать свежие морепродукты по скромным ценам — от крабов, кальмаров и креветок до разной морской рыбы. Восход над пляжем Куинь особенно красив, когда огненно-красное солнце поднимается из воды за лодками и силуэтами рыбаков. С разумными ценами, спокойной атмосферой и заманчивыми морепродуктами пляж Куинь — идеальный выбор для спокойного отдыха вдали от городского шума.",
+    "highlights_vi": [
+      "Bãi biển dài, hoang sơ, ít đông đúc hơn Cửa Lò",
+      "Làng chài lâu đời, hải sản tươi ngon giá bình dân",
+      "Bình minh trên biển tuyệt đẹp cùng cảnh thuyền cá cập bến"
+    ],
+    "highlights_en": [
+      "Long, unspoilt beach, quieter than Cua Lo",
+      "Age-old fishing villages with fresh, affordable seafood",
+      "Beautiful sunrises with fishing boats returning to shore"
+    ],
+    "highlights_ru": [
+      "Длинный нетронутый пляж, спокойнее, чем Кыало",
+      "Старинные рыбацкие деревни со свежими недорогими морепродуктами",
+      "Красивые восходы с возвращающимися рыбацкими лодками"
+    ],
+    "practical": {
+      "hours_vi": "Cả ngày; tắm biển hợp buổi sáng và chiều.",
+      "ticket_vi": "Miễn phí (có phí gửi xe, dịch vụ).",
+      "duration_vi": "Nửa ngày đến cả ngày.",
+      "best_time_vi": "Mùa hè (tháng 5–8); đi sớm ngắm bình minh và mua hải sản.",
+      "tips_vi": "Mua hải sản tại chợ cá buổi sáng; mang kem chống nắng; hỏi giá dịch vụ trước."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (VI) — Quỳnh Lưu",
+        "url": "https://vi.wikipedia.org/wiki/Qu%E1%BB%B3nh_L%C6%B0u"
+      }
+    ],
+    "tags": [
+      "beach",
+      "nature",
+      "seafood",
+      "outdoor",
+      "family",
+      "daytrip"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Quynh%20Beach%2C%20Nghe%20An%2C%20Vietnam&ll=105.675,19.165&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Quynh%20Beach%2C%20Nghe%20An%2C%20Vietnam"
+    }
+  },
+  {
+    "id": "vn-nghe-an-truong-bon",
+    "slug": "truong-bon",
+    "region": "vn-nghe-an",
+    "country": "vietnam",
+    "region_name_vi": "Nghệ An",
+    "federal_district": "Miền Trung",
+    "name_vi": "Khu di tích lịch sử Truông Bồn",
+    "name_ru": "Мемориал Чыонгбон",
+    "name_en": "Truong Bon Historical Relic Site",
+    "categories": [
+      "monument",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 18.885,
+      "lon": 105.418
+    },
+    "address_vi": "Xã Mỹ Sơn, huyện Đô Lương, tỉnh Nghệ An",
+    "rating": {
+      "value": 4.7,
+      "count": 2300,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Địa chỉ đỏ xúc động tưởng niệm 13 chiến sĩ thanh niên xung phong hy sinh; khuôn viên trang nghiêm, thuyết minh cảm động. Nhiều đoàn về nguồn, dâng hương tri ân.",
+    "presentation_short_vi": "Truông Bồn ở huyện Đô Lương là 'tọa độ lửa' huyền thoại trên tuyến đường chi viện thời chống Mỹ, nơi 13 chiến sĩ thanh niên xung phong hy sinh anh dũng ngày 31/10/1968. Khu di tích là 'địa chỉ đỏ' thiêng liêng để tưởng niệm và giáo dục truyền thống.",
+    "presentation_short_en": "Truong Bon in Do Luong district is a legendary 'coordinate of fire' on a wartime supply route, where 13 Youth Volunteer soldiers died heroically on 31 October 1968. The relic site is a sacred 'red address' for remembrance and patriotic education.",
+    "presentation_short_ru": "Чыонгбон в уезде Долыонг — легендарная «огненная точка» на военной дороге снабжения, где 31 октября 1968 года героически погибли 13 бойцов молодёжного добровольческого отряда. Мемориал — священный «красный адрес» памяти и патриотического воспитания.",
+    "presentation_long_vi": "Khu di tích lịch sử Truông Bồn nằm ở xã Mỹ Sơn, huyện Đô Lương, cách thành phố Vinh khoảng 30 km. Trong kháng chiến chống Mỹ, Truông Bồn là điểm nút giao thông trọng yếu trên tuyến đường chiến lược 15A, nơi mọi chuyến xe chi viện cho chiến trường miền Nam đều phải đi qua, vì thế trở thành 'tọa độ lửa' bị máy bay địch đánh phá ác liệt suốt ngày đêm. Tại đây, những đội thanh niên xung phong đã ngày đêm bám trụ, san lấp hố bom, thông đường cho xe qua. Rạng sáng 31 tháng 10 năm 1968, chỉ vài giờ trước khi có lệnh ngừng ném bom miền Bắc, một trận bom dữ dội đã cướp đi sinh mạng của 13 chiến sĩ thanh niên xung phong thuộc 'Tiểu đội thép', hầu hết còn rất trẻ. Sự hy sinh anh dũng của họ trở thành biểu tượng bất tử của chủ nghĩa anh hùng cách mạng. Ngày nay, khu di tích được xây dựng khang trang, trang nghiêm với đền thờ, nhà tưởng niệm, khu mộ và tượng đài, cùng hồ nước, cây xanh và các công trình tái hiện lịch sử. Mỗi năm, Truông Bồn đón hàng vạn lượt khách, cựu chiến binh, học sinh sinh viên về dâng hương tri ân và tìm hiểu về một trang sử bi tráng, hào hùng của dân tộc.",
+    "presentation_long_en": "The Truong Bon Historical Relic Site lies in My Son commune, Do Luong district, about 30 km from Vinh City. During the war against America, Truong Bon was a vital junction on strategic route 15A: every supply convoy heading to the southern front had to pass through, making it a 'coordinate of fire' pounded relentlessly by enemy aircraft. Here, teams of Youth Volunteers held their ground day and night, filling bomb craters and clearing the road for vehicles. At dawn on 31 October 1968, just hours before the order to halt bombing of the North, a fierce raid killed 13 Youth Volunteers of the 'Steel Squad', most of them very young. Their heroic sacrifice became an immortal symbol of revolutionary heroism. Today the site is dignified and well built, with a temple, memorial house, tombs and a monument, together with a lake, greenery and structures re-creating its history. Each year Truong Bon welcomes tens of thousands of visitors, veterans and students who come to offer incense in gratitude and learn about a tragic yet glorious chapter of the nation's history.",
+    "presentation_long_ru": "Мемориал Чыонгбон находится в общине Мишон уезда Долыонг, примерно в 30 км от города Винь. Во время войны против США Чыонгбон был важнейшим узлом на стратегической дороге 15А: каждый конвой снабжения, идущий на южный фронт, должен был проходить здесь, что превратило его в «огненную точку», которую вражеская авиация нещадно бомбила днём и ночью. Здесь отряды молодых добровольцев держались круглые сутки, засыпая воронки и расчищая дорогу для машин. На рассвете 31 октября 1968 года, всего за несколько часов до приказа прекратить бомбардировки Севера, жестокий налёт унёс жизни 13 добровольцев «Стального отделения», большинство из которых были совсем юными. Их героическая жертва стала бессмертным символом революционного героизма. Сегодня мемориал благоустроен и торжественен: храм, дом памяти, могилы и монумент, а также озеро, зелень и сооружения, воссоздающие его историю. Ежегодно Чыонгбон принимает десятки тысяч посетителей, ветеранов и учащихся, приходящих воскурить благовония в знак благодарности и узнать о трагической, но славной странице истории народа.",
+    "highlights_vi": [
+      "Tưởng niệm 13 chiến sĩ thanh niên xung phong hy sinh 31/10/1968",
+      "'Tọa độ lửa' trên tuyến đường 15A chi viện chiến trường miền Nam",
+      "Đền thờ, nhà tưởng niệm, tượng đài; địa chỉ đỏ giáo dục truyền thống"
+    ],
+    "highlights_en": [
+      "Memorial to 13 Youth Volunteers who died on 31 October 1968",
+      "A 'coordinate of fire' on supply route 15A to the southern front",
+      "Temple, memorial house and monument; a 'red address' for education"
+    ],
+    "highlights_ru": [
+      "Память о 13 молодых добровольцах, погибших 31 октября 1968 года",
+      "«Огненная точка» на дороге снабжения 15А к южному фронту",
+      "Храм, дом памяти и монумент; «красный адрес» воспитания"
+    ],
+    "practical": {
+      "hours_vi": "Khoảng 7:00–17:00.",
+      "ticket_vi": "Miễn phí (công đức tùy tâm).",
+      "duration_vi": "Khoảng 1–1,5 giờ.",
+      "best_time_vi": "Dịp 27/7, 31/10 và các ngày lễ tri ân; quanh năm đều viếng được.",
+      "tips_vi": "Giữ trang nghiêm, ăn mặc lịch sự; nên nghe thuyết minh để hiểu ý nghĩa lịch sử."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Tỉnh ủy Nghệ An — Truông Bồn",
+        "url": "https://nghean.dcs.vn/vi-vn/tin/truong-bon---bieu-tuong-cao-dep-cua-chu-nghia-anh-hung-cach-mang/24021-682955-868013"
+      }
+    ],
+    "tags": [
+      "history",
+      "memorial",
+      "monument",
+      "culture",
+      "top",
+      "outdoor"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Truong%20Bon%20Historical%20Relic%20Site%2C%20Nghe%20An%2C%20Vietnam&ll=105.418,18.885&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Truong%20Bon%20Historical%20Relic%20Site%2C%20Nghe%20An%2C%20Vietnam"
+    }
+  },
+  {
+    "id": "vn-nghe-an-den-qua-son",
+    "slug": "den-qua-son",
+    "region": "vn-nghe-an",
+    "country": "vietnam",
+    "region_name_vi": "Nghệ An",
+    "federal_district": "Miền Trung",
+    "name_vi": "Đền Quả Sơn",
+    "name_ru": "Храм Куашон",
+    "name_en": "Qua Son Temple",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 18.925,
+      "lon": 105.348
+    },
+    "address_vi": "Xã Bồi Sơn, huyện Đô Lương, tỉnh Nghệ An",
+    "rating": {
+      "value": 4.6,
+      "count": 900,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Ngôi đền cổ linh thiêng dưới chân núi Quả, thờ Uy Minh Vương Lý Nhật Quang; cảnh quan đẹp bên sông Lam. Lễ hội đầu năm đông vui với lễ rước độc đáo.",
+    "presentation_short_vi": "Đền Quả Sơn ở huyện Đô Lương là một trong 'tứ đại' đền linh thiêng của xứ Nghệ, thờ Uy Minh Vương Lý Nhật Quang – vị Tri châu có công lớn với vùng đất Nghệ An thời Lý. Đền nằm dưới chân núi Quả, cảnh quan hữu tình bên dòng sông Lam.",
+    "presentation_short_en": "Qua Son Temple in Do Luong district is one of the 'four great' sacred temples of Nghe An, honouring Uy Minh Vuong Ly Nhat Quang, a governor who did great service for the land in the Ly dynasty. It sits at the foot of Qua Mountain in a charming setting by the Lam River.",
+    "presentation_short_ru": "Храм Куашон в уезде Долыонг — один из «четырёх великих» священных храмов Нгеана, посвящённый Уи Минь Выонгу Ли Нят Куангу, наместнику, много сделавшему для этого края при династии Ли. Он стоит у подножия горы Куа в живописном месте у реки Лам.",
+    "presentation_long_vi": "Đền Quả Sơn tọa lạc dưới chân núi Quả, thuộc xã Bồi Sơn, huyện Đô Lương, bên bờ sông Lam thơ mộng, cách thành phố Vinh khoảng 70 km. Đây được xem là một trong bốn ngôi đền linh thiêng và có quy mô bậc nhất xứ Nghệ ('nhất Cờn, nhì Quả, tam Bạch Mã, tứ Chiêu Trưng'). Đền thờ Uy Minh Vương Lý Nhật Quang – con trai vua Lý Thái Tổ, người được cử vào làm Tri châu Nghệ An dưới thời Lý. Ông có công lớn trong việc khai khẩn đất đai, phát triển nông nghiệp, mở mang giáo dục, ổn định đời sống nhân dân và giữ yên bờ cõi phía nam của quốc gia, nên được nhân dân tôn kính, lập đền thờ phụng. Ngôi đền cổ có kiến trúc bề thế, gồm nhiều tòa điện, được bao bọc bởi núi non và cây cối xanh mát, phía trước là dòng sông Lam uốn lượn tạo nên khung cảnh 'sơn thủy hữu tình'. Hằng năm, lễ hội đền Quả Sơn diễn ra vào khoảng ngày 19–21 tháng Giêng âm lịch với nhiều nghi lễ truyền thống, đặc sắc nhất là lễ rước thần bằng thuyền trên sông và rước bộ, thu hút đông đảo người dân và du khách. Đền Quả Sơn không chỉ là nơi sinh hoạt tín ngưỡng mà còn là di tích lịch sử – văn hóa giá trị của vùng đất Đô Lương.",
+    "presentation_long_en": "Qua Son Temple sits at the foot of Qua Mountain in Boi Son commune, Do Luong district, beside the poetic Lam River, about 70 km from Vinh City. It is regarded as one of the four most sacred and imposing temples of Nghe An (in the local ranking 'first Con, second Qua, third Bach Ma, fourth Chieu Trung'). The temple honours Uy Minh Vuong Ly Nhat Quang, a son of King Ly Thai To sent to govern Nghe An under the Ly dynasty. He did great service in reclaiming land, developing agriculture, spreading education, stabilising people's lives and securing the country's southern frontier, and so was revered and enshrined. The ancient temple has grand architecture with several halls, encircled by mountains and cool greenery, with the winding Lam River before it forming a scene of 'harmonious mountains and water'. Each year the Qua Son festival takes place around the 19th-21st days of the first lunar month with many traditional rites, the most striking being the deity procession by boat on the river and on foot, drawing large crowds. Qua Son Temple is not only a place of worship but also a valuable historical and cultural relic of the Do Luong area.",
+    "presentation_long_ru": "Храм Куашон стоит у подножия горы Куа в общине Бойшон уезда Долыонг, у поэтичной реки Лам, примерно в 70 км от города Винь. Он считается одним из четырёх самых священных и внушительных храмов Нгеана (в местном порядке «первый Кон, второй Куа, третий Батьма, четвёртый Тьеучынг»). Храм посвящён Уи Минь Выонгу Ли Нят Куангу — сыну короля Ли Тхай То, направленному управлять Нгеаном при династии Ли. Он много сделал для освоения земель, развития сельского хозяйства, распространения образования, стабилизации жизни людей и охраны южных рубежей страны, за что был почитаем и увековечен в храме. Древний храм имеет величественную архитектуру с несколькими залами, окружён горами и прохладной зеленью, а перед ним извивается река Лам, образуя пейзаж «гармонии гор и воды». Ежегодно праздник Куашон проходит около 19-21-го числа первого лунного месяца со множеством традиционных обрядов; самый яркий — процессия божества на лодках по реке и пешком, собирающая большие толпы. Храм Куашон — не только место поклонения, но и ценный историко-культурный памятник края Долыонг.",
+    "highlights_vi": [
+      "Một trong 'tứ đại' đền linh thiêng xứ Nghệ, thờ Lý Nhật Quang",
+      "Dưới chân núi Quả, cảnh sơn thủy hữu tình bên sông Lam",
+      "Lễ hội tháng Giêng với lễ rước thần bằng thuyền độc đáo"
+    ],
+    "highlights_en": [
+      "One of the 'four great' sacred temples of Nghe An, honouring Ly Nhat Quang",
+      "At the foot of Qua Mountain, harmonious mountains and water by the Lam River",
+      "First-lunar-month festival with a striking deity procession by boat"
+    ],
+    "highlights_ru": [
+      "Один из «четырёх великих» священных храмов Нгеана в честь Ли Нят Куанга",
+      "У подножия горы Куа, гармония гор и воды у реки Лам",
+      "Праздник первого лунного месяца с яркой процессией на лодках"
+    ],
+    "practical": {
+      "hours_vi": "Khoảng 6:00–18:00.",
+      "ticket_vi": "Miễn phí (công đức tùy tâm).",
+      "duration_vi": "Khoảng 1–1,5 giờ.",
+      "best_time_vi": "Lễ hội 19–21 tháng Giêng âm lịch; đầu xuân cảnh đẹp.",
+      "tips_vi": "Ăn mặc lịch sự; kết hợp thăm Truông Bồn và các di tích Đô Lương."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (VI) — Đền Quả Sơn",
+        "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%81n_Qu%E1%BA%A3_S%C6%A1n"
+      }
+    ],
+    "tags": [
+      "spiritual",
+      "temple",
+      "history",
+      "culture",
+      "festival",
+      "outdoor"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Qua%20Son%20Temple%2C%20Nghe%20An%2C%20Vietnam&ll=105.348,18.925&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Qua%20Son%20Temple%2C%20Nghe%20An%2C%20Vietnam"
+    }
+  },
+  {
+    "id": "vn-nghe-an-chua-dai-tue",
+    "slug": "chua-dai-tue",
+    "region": "vn-nghe-an",
+    "country": "vietnam",
+    "region_name_vi": "Nghệ An",
+    "federal_district": "Miền Trung",
+    "name_vi": "Chùa Đại Tuệ",
+    "name_ru": "Пагода Дайтюэ",
+    "name_en": "Dai Tue Pagoda",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 18.755,
+      "lon": 105.468
+    },
+    "address_vi": "Núi Đại Huệ, xã Nam Anh, huyện Nam Đàn, tỉnh Nghệ An",
+    "rating": {
+      "value": 4.7,
+      "count": 2600,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Ngôi chùa trên đỉnh núi Đại Huệ, cảnh quan hùng vĩ, view nhìn toàn cảnh Nam Đàn. Kiến trúc bề thế, nhiều kỷ lục; không gian thanh tịnh, hợp vãn cảnh, chiêm bái.",
+    "presentation_short_vi": "Chùa Đại Tuệ tọa lạc trên đỉnh núi Đại Huệ ở huyện Nam Đàn, độ cao gần 500 m, là ngôi chùa cổ gắn với nhiều truyền thuyết và giữ nhiều kỷ lục. Từ chùa có thể phóng tầm mắt ngắm toàn cảnh vùng quê Nam Đàn và dòng sông Lam.",
+    "presentation_short_en": "Dai Tue Pagoda stands on the summit of Dai Hue Mountain in Nam Dan district at nearly 500 metres, an ancient temple linked to many legends and holding several records. From it one can gaze over the whole Nam Dan countryside and the Lam River.",
+    "presentation_short_ru": "Пагода Дайтюэ стоит на вершине горы Дайхюэ в уезде Намдан на высоте почти 500 метров — древний храм, связанный со множеством легенд и хранящий несколько рекордов. Отсюда открывается вид на всю сельскую местность Намдана и реку Лам.",
+    "presentation_long_vi": "Chùa Đại Tuệ nằm trên đỉnh động Thăng Thiên của dãy núi Đại Huệ, thuộc xã Nam Anh, huyện Nam Đàn, ở độ cao gần 500 m so với mực nước biển, cách thành phố Vinh khoảng 25 km. Đây là ngôi chùa cổ có lịch sử lâu đời, tương truyền gắn với các triều đại và những nhân vật lịch sử như vua Mai Hắc Đế, Hồ Quý Ly và cả vua Quang Trung – Nguyễn Huệ trên đường hành quân ra Bắc đại phá quân Thanh. Chùa thờ Phật Bà Đại Tuệ – tượng trưng cho trí tuệ lớn của nhà Phật. Sau nhiều lần trùng tu, tôn tạo, ngày nay chùa Đại Tuệ trở thành một quần thể kiến trúc bề thế, uy nghi giữa mây núi, gồm nhiều hạng mục như cổng tam quan, các tòa bảo điện, tháp chuông, tượng Phật và hệ thống câu đối bằng chữ thư pháp thuần Việt. Chùa được ghi nhận nhiều kỷ lục quốc gia như ngôi chùa trên núi có hồ nhân tạo lớn, hệ thống câu đối bằng thư pháp thuần Việt nhiều nhất. Đứng từ sân chùa, du khách có thể ngắm toàn cảnh vùng quê Nam Đàn trù phú, dòng sông Lam và núi Thiên Nhẫn trải dài phía xa. Không gian thanh tịnh, khí hậu mát mẻ cùng cảnh quan hùng vĩ khiến chùa Đại Tuệ trở thành điểm hành hương và du lịch tâm linh hấp dẫn của xứ Nghệ.",
+    "presentation_long_en": "Dai Tue Pagoda stands atop the Thang Thien peak of the Dai Hue range in Nam Anh commune, Nam Dan district, at nearly 500 metres above sea level, about 25 km from Vinh City. This ancient temple has a long history and is said to be linked to several dynasties and historical figures such as King Mai Hac De, Ho Quy Ly and even King Quang Trung-Nguyen Hue on his march north to crush the Qing army. It venerates the Buddha of Great Wisdom (Dai Tue), a symbol of the Buddha's profound wisdom. After many restorations, Dai Tue is today a grand, dignified architectural complex amid mountain clouds, comprising a triple gate, main halls, a bell tower, Buddha statues and a set of parallel sentences in pure Vietnamese calligraphy. It holds several national records, such as the mountain pagoda with a large artificial lake and the most parallel sentences in pure Vietnamese calligraphy. From the courtyard, visitors can survey the fertile Nam Dan countryside, the Lam River and the distant Thien Nhan mountains. Its serene atmosphere, cool climate and majestic scenery make Dai Tue Pagoda an appealing pilgrimage and spiritual-tourism site in Nghe An.",
+    "presentation_long_ru": "Пагода Дайтюэ стоит на вершине Тхангтхьен хребта Дайхюэ в общине Намань уезда Намдан, на высоте почти 500 метров над уровнем моря, примерно в 25 км от города Винь. У этого древнего храма долгая история; предание связывает его с несколькими династиями и историческими фигурами — королём Май Хак Дэ, Хо Куи Ли и даже королём Куанг Чунгом-Нгуен Хюэ во время его похода на север, чтобы разгромить цинскую армию. Храм чтит Будду Великой Мудрости (Дайтюэ) — символ глубокой мудрости Будды. После многих реставраций Дайтюэ сегодня — величественный, торжественный архитектурный комплекс среди горных облаков: тройные ворота, главные залы, колокольня, статуи Будды и набор парных изречений на чистой вьетнамской каллиграфии. Он хранит несколько национальных рекордов, например горная пагода с большим искусственным озером и наибольшим числом парных изречений вьетнамской каллиграфии. С храмового двора видны плодородная сельская местность Намдана, река Лам и далёкие горы Тхьеннян. Безмятежная атмосфера, прохладный климат и величественные пейзажи делают пагоду Дайтюэ привлекательным местом паломничества и духовного туризма в Нгеане.",
+    "highlights_vi": [
+      "Chùa cổ trên đỉnh núi Đại Huệ (~500 m), nhiều kỷ lục quốc gia",
+      "Gắn truyền thuyết vua Mai Hắc Đế, Hồ Quý Ly, Quang Trung",
+      "View toàn cảnh Nam Đàn, sông Lam; không gian thanh tịnh, mát mẻ"
+    ],
+    "highlights_en": [
+      "Ancient pagoda atop Dai Hue Mountain (~500 m) with several national records",
+      "Linked to legends of King Mai Hac De, Ho Quy Ly and Quang Trung",
+      "Panoramic views of Nam Dan and the Lam River; serene, cool setting"
+    ],
+    "highlights_ru": [
+      "Древняя пагода на вершине горы Дайхюэ (~500 м) с рядом рекордов",
+      "Связана с легендами о короле Май Хак Дэ, Хо Куи Ли и Куанг Чунге",
+      "Панорама Намдана и реки Лам; безмятежная прохладная атмосфера"
+    ],
+    "practical": {
+      "hours_vi": "Khoảng 6:00–18:00.",
+      "ticket_vi": "Miễn phí (công đức tùy tâm; có phí gửi xe).",
+      "duration_vi": "Khoảng 1,5–2 giờ.",
+      "best_time_vi": "Sáng sớm hoặc chiều mát; đầu xuân đông khách hành hương.",
+      "tips_vi": "Đi giày thoải mái; đường lên núi dốc, lái xe cẩn thận; kết hợp thăm quê Bác Kim Liên."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (VI) — Chùa Đại Tuệ",
+        "url": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_%C4%90%E1%BA%A1i_Tu%E1%BB%87"
+      }
+    ],
+    "tags": [
+      "spiritual",
+      "temple",
+      "viewpoint",
+      "culture",
+      "outdoor",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Dai%20Tue%20Pagoda%2C%20Nghe%20An%2C%20Vietnam&ll=105.468,18.755&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Dai%20Tue%20Pagoda%2C%20Nghe%20An%2C%20Vietnam"
+    }
+  },
+  {
+    "id": "vn-nghe-an-khu-di-tich-phan-boi-chau",
+    "slug": "khu-di-tich-phan-boi-chau",
+    "region": "vn-nghe-an",
+    "country": "vietnam",
+    "region_name_vi": "Nghệ An",
+    "federal_district": "Miền Trung",
+    "name_vi": "Khu lưu niệm Phan Bội Châu (Nam Đàn)",
+    "name_ru": "Мемориал Фан Бой Тяу (Намдан)",
+    "name_en": "Phan Boi Chau Memorial Site (Nam Dan)",
+    "categories": [
+      "monument",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 18.7,
+      "lon": 105.5
+    },
+    "address_vi": "Thị trấn Nam Đàn, huyện Nam Đàn, tỉnh Nghệ An",
+    "rating": {
+      "value": 4.6,
+      "count": 700,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Nơi lưu niệm nhà chí sĩ yêu nước Phan Bội Châu với nhà tranh, kỷ vật giản dị. Không gian yên tĩnh, ý nghĩa lịch sử; hợp tìm hiểu phong trào yêu nước đầu thế kỷ 20.",
+    "presentation_short_vi": "Khu lưu niệm Phan Bội Châu ở thị trấn Nam Đàn là nơi gắn với thời niên thiếu của nhà chí sĩ yêu nước Phan Bội Châu – lãnh tụ phong trào Đông Du. Khu di tích gồm ngôi nhà tranh xưa cùng các kỷ vật, tư liệu về cuộc đời và sự nghiệp cách mạng của cụ.",
+    "presentation_short_en": "The Phan Boi Chau Memorial Site in Nam Dan town preserves the youth home of the patriotic scholar Phan Boi Chau, leader of the Dong Du (Go East) movement. It includes his old thatched house along with keepsakes and documents on his life and revolutionary work.",
+    "presentation_short_ru": "Мемориал Фан Бой Тяу в посёлке Намдан хранит дом юности патриота-учёного Фан Бой Тяу, лидера движения Донгзу («Идти на восток»). В него входят его старый тростниковый дом, а также реликвии и документы о его жизни и революционной деятельности.",
+    "presentation_long_vi": "Khu lưu niệm Phan Bội Châu nằm ở thị trấn Nam Đàn, huyện Nam Đàn, quê hương của nhà chí sĩ yêu nước Phan Bội Châu (1867–1940) – một trong những lãnh tụ tiêu biểu của phong trào yêu nước và cách mạng Việt Nam đầu thế kỷ 20, người khởi xướng phong trào Đông Du đưa thanh niên sang Nhật Bản học tập để về cứu nước. Khu di tích bảo tồn ngôi nhà tranh đơn sơ ba gian nơi cụ đã sống thời niên thiếu, cùng nhà thờ, giếng nước, mảnh vườn và nhiều hiện vật, tư liệu quý phản ánh cuộc đời hoạt động sôi nổi, đầy gian truân của một nhà nho yêu nước. Tại đây, du khách được tìm hiểu về tấm gương học tập, ý chí và tinh thần yêu nước mãnh liệt của cụ Phan qua các trước tác, thư từ, hình ảnh và kỷ vật được trưng bày. Không gian khu lưu niệm mộc mạc, yên tĩnh, mang đậm nét làng quê xứ Nghệ, gợi nhớ về một thời kỳ lịch sử đầy biến động khi các sĩ phu yêu nước trăn trở tìm đường giải phóng dân tộc. Khu lưu niệm đã được xếp hạng di tích quốc gia và thường được kết hợp trong hành trình về Nam Đàn cùng quê Bác Kim Liên, tạo thành cụm di tích giàu ý nghĩa lịch sử – văn hóa.",
+    "presentation_long_en": "The Phan Boi Chau Memorial Site is in Nam Dan town, Nam Dan district, the homeland of the patriotic scholar Phan Boi Chau (1867-1940), one of the leading figures of Vietnam's early-20th-century patriotic and revolutionary movement and the initiator of the Dong Du movement, which sent young people to study in Japan to return and save the country. The site preserves the simple three-compartment thatched house where he spent his youth, along with an ancestral shrine, a well, a garden and many precious objects and documents reflecting the eventful, arduous life of a patriotic Confucian scholar. Here visitors learn about Phan's example of study, willpower and fierce patriotism through his writings, letters, photographs and displayed keepsakes. The memorial's rustic, quiet setting is rich in the character of the Nghe An countryside and recalls a turbulent era when patriotic scholars agonised over the path to national liberation. Ranked a national relic, it is often combined into a Nam Dan itinerary with Uncle Ho's homeland at Kim Lien, forming a cluster of great historical and cultural significance.",
+    "presentation_long_ru": "Мемориал Фан Бой Тяу находится в посёлке Намдан уезда Намдан — на родине патриота-учёного Фан Бой Тяу (1867-1940), одного из ведущих деятелей вьетнамского патриотического и революционного движения начала XX века и зачинателя движения Донгзу, отправлявшего молодёжь учиться в Японию, чтобы вернуться и спасти страну. Мемориал хранит простой трёхсекционный тростниковый дом, где он провёл юность, а также родовое святилище, колодец, сад и множество ценных предметов и документов, отражающих насыщенную, трудную жизнь патриотичного конфуцианского учёного. Здесь посетители узнают о примере учёбы, воле и пламенном патриотизме Фана через его сочинения, письма, фотографии и выставленные реликвии. Скромная, тихая обстановка мемориала пропитана духом сельской местности Нгеана и напоминает о бурной эпохе, когда патриотичные учёные мучительно искали путь к национальному освобождению. Признанный национальным памятником, он часто включается в маршрут по Намдану вместе с родиной «дядюшки Хо» в Кимльене, образуя комплекс большого историко-культурного значения.",
+    "highlights_vi": [
+      "Quê hương nhà chí sĩ Phan Bội Châu, lãnh tụ phong trào Đông Du",
+      "Nhà tranh thời niên thiếu cùng kỷ vật, tư liệu quý",
+      "Di tích quốc gia; kết hợp cụm di tích Nam Đàn cùng quê Bác Kim Liên"
+    ],
+    "highlights_en": [
+      "Homeland of the scholar Phan Boi Chau, leader of the Dong Du movement",
+      "His youth thatched house with keepsakes and precious documents",
+      "A national relic; combine with the Nam Dan cluster near Kim Lien"
+    ],
+    "highlights_ru": [
+      "Родина учёного Фан Бой Тяу, лидера движения Донгзу",
+      "Тростниковый дом юности с реликвиями и ценными документами",
+      "Национальный памятник; сочетается с комплексом Намдана у Кимльена"
+    ],
+    "practical": {
+      "hours_vi": "Khoảng 7:00–17:00.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 45–60 phút.",
+      "best_time_vi": "Quanh năm; kết hợp hành trình về Nam Đàn.",
+      "tips_vi": "Nên thuê thuyết minh; đi cùng quê Bác Kim Liên và đền vua Mai để trọn cụm di tích."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (VI) — Phan Bội Châu",
+        "url": "https://vi.wikipedia.org/wiki/Phan_B%E1%BB%99i_Ch%C3%A2u"
+      }
+    ],
+    "tags": [
+      "history",
+      "monument",
+      "culture",
+      "memorial",
+      "outdoor"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Phan%20Boi%20Chau%20Memorial%20Site%2C%20Nghe%20An%2C%20Vietnam&ll=105.5,18.7&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Phan%20Boi%20Chau%20Memorial%20Site%2C%20Nghe%20An%2C%20Vietnam"
+    }
+  },
+  {
+    "id": "vn-nghe-an-den-vua-mai",
+    "slug": "den-vua-mai",
+    "region": "vn-nghe-an",
+    "country": "vietnam",
+    "region_name_vi": "Nghệ An",
+    "federal_district": "Miền Trung",
+    "name_vi": "Đền thờ Vua Mai Hắc Đế",
+    "name_ru": "Храм короля Май Хак Дэ",
+    "name_en": "King Mai Hac De Temple",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 18.692,
+      "lon": 105.515
+    },
+    "address_vi": "Thị trấn Nam Đàn, huyện Nam Đàn, tỉnh Nghệ An",
+    "rating": {
+      "value": 4.5,
+      "count": 800,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Khu đền và lăng mộ tưởng nhớ vua Mai Hắc Đế, người lãnh đạo khởi nghĩa chống Đường. Không gian cổ kính, lễ hội đầu năm đông vui; ý nghĩa lịch sử sâu sắc.",
+    "presentation_short_vi": "Đền thờ Vua Mai Hắc Đế ở huyện Nam Đàn tưởng nhớ Mai Thúc Loan – thủ lĩnh cuộc khởi nghĩa chống ách đô hộ nhà Đường đầu thế kỷ 8, xưng đế và lập nên nhà nước độc lập. Quần thể gồm đền thờ, lăng mộ và khu tưởng niệm giữa vùng quê Nam Đàn.",
+    "presentation_short_en": "The King Mai Hac De Temple in Nam Dan district commemorates Mai Thuc Loan, leader of the early-8th-century uprising against Tang rule who proclaimed himself emperor and founded an independent state. The complex includes a temple, tomb and memorial area in the Nam Dan countryside.",
+    "presentation_short_ru": "Храм короля Май Хак Дэ в уезде Намдан посвящён Май Тхук Лоану — предводителю восстания начала VIII века против танского владычества, который провозгласил себя императором и основал независимое государство. В комплекс входят храм, гробница и мемориальная зона среди сельской местности Намдана.",
+    "presentation_long_vi": "Đền thờ Vua Mai Hắc Đế nằm ở thị trấn Nam Đàn, huyện Nam Đàn, gắn với tên tuổi Mai Thúc Loan – vị anh hùng dân tộc quê ở vùng đất này. Đầu thế kỷ 8, trước ách đô hộ hà khắc của nhà Đường, Mai Thúc Loan đã tập hợp nhân dân dựng cờ khởi nghĩa, đánh đuổi quân xâm lược, xưng đế lấy hiệu là Mai Hắc Đế (Vua Đen họ Mai) và lập nên chính quyền độc lập với kinh đô Vạn An bên bờ sông Lam. Cuộc khởi nghĩa Hoan Châu do ông lãnh đạo là một trong những mốc son chói lọi trong lịch sử chống ngoại xâm của dân tộc. Để tưởng nhớ công lao của ông, nhân dân đã lập đền thờ và lăng mộ tại quê hương. Quần thể di tích gồm đền thờ chính, khu lăng mộ vua Mai và mộ thân mẫu, nằm giữa vùng núi Vệ, rú Đụn với cây cối xanh mát, mang không khí trang nghiêm, cổ kính. Hằng năm, lễ hội đền vua Mai được tổ chức vào dịp Rằm tháng Giêng, kéo dài nhiều ngày với các nghi lễ rước, tế truyền thống cùng nhiều trò chơi dân gian như đua thuyền, đấu vật, thu hút đông đảo nhân dân và du khách. Đây là di tích lịch sử quốc gia có giá trị, góp phần giáo dục truyền thống yêu nước cho các thế hệ.",
+    "presentation_long_en": "The King Mai Hac De Temple stands in Nam Dan town, Nam Dan district, tied to the name of Mai Thuc Loan, a national hero from this land. In the early 8th century, faced with the harsh rule of the Tang, Mai Thuc Loan rallied the people to raise the banner of revolt, drove out the invaders, proclaimed himself emperor under the title Mai Hac De (the Black Emperor of the Mai clan) and founded an independent government with its capital, Van An, by the Lam River. The Hoan Chau uprising he led is one of the brilliant milestones in the nation's history of resisting foreign aggression. To honour his merit, the people built a temple and tomb in his homeland. The relic complex comprises the main temple, the tomb of King Mai and his mother's tomb, set among the Ve and Dun hills with cool greenery and a solemn, ancient air. Each year the King Mai festival is held around the full moon of the first lunar month, lasting several days with traditional processions and rites and folk games such as boat racing and wrestling, drawing large crowds. It is a valuable national historical relic that helps pass patriotic tradition to new generations.",
+    "presentation_long_ru": "Храм короля Май Хак Дэ стоит в посёлке Намдан уезда Намдан и связан с именем Май Тхук Лоана — национального героя из этих мест. В начале VIII века, столкнувшись с жестоким владычеством Тан, Май Тхук Лоан поднял народ на восстание, изгнал захватчиков, провозгласил себя императором под именем Май Хак Дэ («Чёрный император из рода Май») и основал независимое правление со столицей Ванан у реки Лам. Возглавленное им восстание Хоантяу — одна из блистательных вех в истории борьбы народа с иноземной агрессией. В честь его заслуг народ построил храм и гробницу на его родине. Комплекс включает главный храм, гробницу короля Мая и гробницу его матери среди холмов Ве и Зун с прохладной зеленью и торжественной, древней атмосферой. Ежегодно праздник короля Мая проводится около полнолуния первого лунного месяца и длится несколько дней с традиционными процессиями, обрядами и народными играми — лодочными гонками и борьбой, — собирая большие толпы. Это ценный национальный памятник, помогающий передавать патриотическую традицию новым поколениям.",
+    "highlights_vi": [
+      "Tưởng nhớ Mai Thúc Loan – Mai Hắc Đế, thủ lĩnh khởi nghĩa chống Đường (thế kỷ 8)",
+      "Quần thể đền thờ và lăng mộ giữa vùng núi Vệ, rú Đụn",
+      "Lễ hội Rằm tháng Giêng với đua thuyền, đấu vật; di tích quốc gia"
+    ],
+    "highlights_en": [
+      "Commemorates Mai Thuc Loan-Mai Hac De, leader of the 8th-century anti-Tang revolt",
+      "A temple-and-tomb complex among the Ve and Dun hills",
+      "First-lunar-month festival with boat racing and wrestling; a national relic"
+    ],
+    "highlights_ru": [
+      "Память о Май Тхук Лоане-Май Хак Дэ, вожде восстания против Тан (VIII век)",
+      "Комплекс храма и гробницы среди холмов Ве и Зун",
+      "Праздник первого лунного месяца с гонками лодок и борьбой; национальный памятник"
+    ],
+    "practical": {
+      "hours_vi": "Khoảng 6:30–17:30.",
+      "ticket_vi": "Miễn phí (công đức tùy tâm).",
+      "duration_vi": "Khoảng 1 giờ.",
+      "best_time_vi": "Lễ hội Rằm tháng Giêng âm lịch; đầu xuân.",
+      "tips_vi": "Kết hợp cụm di tích Nam Đàn: quê Bác, khu lưu niệm Phan Bội Châu."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (VI) — Mai Hắc Đế",
+        "url": "https://vi.wikipedia.org/wiki/Mai_H%E1%BA%AFc_%C4%90%E1%BA%BF"
+      }
+    ],
+    "tags": [
+      "history",
+      "temple",
+      "monument",
+      "culture",
+      "festival",
+      "outdoor"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=King%20Mai%20Hac%20De%20Temple%2C%20Nghe%20An%2C%20Vietnam&ll=105.515,18.692&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=King%20Mai%20Hac%20De%20Temple%2C%20Nghe%20An%2C%20Vietnam"
+    }
+  },
+  {
+    "id": "vn-nghe-an-dao-lan-chau",
+    "slug": "dao-lan-chau",
+    "region": "vn-nghe-an",
+    "country": "vietnam",
+    "region_name_vi": "Nghệ An",
+    "federal_district": "Miền Trung",
+    "name_vi": "Đảo Lan Châu (Cửa Lò)",
+    "name_ru": "Остров Лантяу (Кыало)",
+    "name_en": "Lan Chau Island (Cua Lo)",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 18.823,
+      "lon": 105.718
+    },
+    "address_vi": "Phường Thu Thủy, thị xã Cửa Lò (nay thuộc TP. Vinh), tỉnh Nghệ An",
+    "rating": {
+      "value": 4.3,
+      "count": 1200,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Hòn đảo nhỏ nhô ra biển ngay cạnh bãi tắm Cửa Lò; leo lên ngắm toàn cảnh biển rất đẹp. Có bãi đá, biệt thự cổ; hoàng hôn và bình minh lãng mạn.",
+    "presentation_short_vi": "Đảo Lan Châu là hòn đảo nhỏ nằm ngay sát bãi biển Cửa Lò, nhô ra biển như một 'hòn ngọc' chia bãi tắm thành hai phần. Leo lên đảo, du khách được ngắm toàn cảnh biển Cửa Lò, bãi đá và tận hưởng khung cảnh lãng mạn lúc bình minh, hoàng hôn.",
+    "presentation_short_en": "Lan Chau Island is a small island right beside Cua Lo Beach, jutting into the sea like a 'gem' that splits the bathing beach in two. Climbing it, visitors enjoy a panorama of Cua Lo, its rocky shore and a romantic scene at sunrise and sunset.",
+    "presentation_short_ru": "Остров Лантяу — небольшой остров прямо у пляжа Кыало, выступающий в море словно «жемчужина», которая делит пляж надвое. Поднявшись на него, гости любуются панорамой Кыало, скалистым берегом и романтичным пейзажем на восходе и закате.",
+    "presentation_long_vi": "Đảo Lan Châu, còn gọi là Rú Cóc, là một hòn đảo nhỏ nằm ngay trong khu vực bãi biển Cửa Lò, cách bờ chỉ vài trăm mét và khi thủy triều xuống có thể đi bộ ra đảo. Đảo có diện tích khiêm tốn nhưng địa hình độc đáo: một bên là bãi cát, một bên là ghềnh đá lô nhô bị sóng biển bào mòn tạo thành nhiều hình thù kỳ thú. Trên đảo có ngọn đồi nhỏ, đường mòn dẫn lên đỉnh, nơi từng có tòa lâu đài nghỉ mát của vua Bảo Đại xây dựng từ đầu thế kỷ 20. Từ trên cao, du khách có thể phóng tầm mắt bao quát toàn cảnh bãi biển Cửa Lò cong cong ôm lấy bờ, những rặng phi lao xanh, thị xã biển sầm uất và mặt biển mênh mông với thuyền bè qua lại. Đây là địa điểm lý tưởng để ngắm bình minh khi mặt trời nhô lên từ biển và hoàng hôn buông xuống nhuộm vàng cả một vùng trời nước. Đảo Lan Châu gắn với đền thờ Nguyễn Sư Hồi và nhiều truyền thuyết dân gian, tạo thêm sức hấp dẫn về văn hóa, tâm linh. Kết hợp tắm biển Cửa Lò với leo đảo Lan Châu, thưởng thức hải sản tươi ngon, du khách sẽ có một hành trình nghỉ dưỡng biển trọn vẹn nơi xứ Nghệ.",
+    "presentation_long_en": "Lan Chau Island, also called Ru Coc, is a small island right within the Cua Lo beach area, only a few hundred metres offshore, reachable on foot at low tide. It is modest in size but has unusual terrain: sand on one side and jagged, wave-worn rocks on the other, sculpted into fascinating shapes. On the island a small hill and a path lead to the summit, where King Bao Dai built a holiday chateau in the early 20th century. From the top, visitors can take in the whole curving sweep of Cua Lo beach embracing the shore, the green casuarina rows, the busy seaside town and the vast sea dotted with boats. It is an ideal spot to watch the sunrise as the sun lifts from the sea and the sunset gilding the sky and water. Lan Chau Island is linked to the Nguyen Su Hoi shrine and many folk legends, adding cultural and spiritual appeal. Combining a swim at Cua Lo with a climb of Lan Chau and fresh seafood gives visitors a complete seaside retreat in Nghe An.",
+    "presentation_long_ru": "Остров Лантяу, называемый также Рукок, — небольшой остров прямо в зоне пляжа Кыало, всего в нескольких сотнях метров от берега, до которого при отливе можно дойти пешком. Он невелик, но обладает необычным рельефом: с одной стороны песок, с другой — зубчатые, обточенные волнами скалы причудливых форм. На острове небольшой холм и тропа ведут к вершине, где в начале XX века король Бао Дай построил летний замок. С вершины гости охватывают взглядом всю изгибающуюся дугу пляжа Кыало, обнимающую берег, зелёные ряды казуарин, оживлённый приморский городок и бескрайнее море с лодками. Это идеальное место, чтобы встречать восход, когда солнце поднимается из моря, и закат, золотящий небо и воду. Остров Лантяу связан со святилищем Нгуен Ши Хоя и множеством народных легенд, что добавляет культурной и духовной привлекательности. Сочетая купание в Кыало с подъёмом на Лантяу и свежими морепродуктами, гости получают полноценный морской отдых в Нгеане.",
+    "highlights_vi": [
+      "Đảo nhỏ ngay cạnh bãi tắm Cửa Lò, khi triều xuống đi bộ ra được",
+      "Có ghềnh đá kỳ thú và dấu tích lâu đài nghỉ mát của vua Bảo Đại",
+      "Điểm ngắm bình minh, hoàng hôn và toàn cảnh biển Cửa Lò"
+    ],
+    "highlights_en": [
+      "A small island beside Cua Lo beach, reachable on foot at low tide",
+      "Fascinating rocks and traces of King Bao Dai's holiday chateau",
+      "A spot to watch sunrise, sunset and the panorama of Cua Lo"
+    ],
+    "highlights_ru": [
+      "Небольшой остров у пляжа Кыало, при отливе доступен пешком",
+      "Причудливые скалы и следы летнего замка короля Бао Дая",
+      "Место для восходов, закатов и панорамы Кыало"
+    ],
+    "practical": {
+      "hours_vi": "Ban ngày; chú ý lịch thủy triều khi ra đảo.",
+      "ticket_vi": "Miễn phí (có thể có phí dịch vụ).",
+      "duration_vi": "Khoảng 1–1,5 giờ.",
+      "best_time_vi": "Bình minh hoặc hoàng hôn; mùa hè kết hợp tắm biển Cửa Lò.",
+      "tips_vi": "Đi dép bám đá, cẩn thận ghềnh trơn; xem giờ thủy triều; kết hợp tắm biển và ăn hải sản."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (VI) — Cửa Lò",
+        "url": "https://vi.wikipedia.org/wiki/C%E1%BB%ADa_L%C3%B2"
+      }
+    ],
+    "tags": [
+      "beach",
+      "island",
+      "viewpoint",
+      "nature",
+      "outdoor",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Lan%20Chau%20Island%2C%20Nghe%20An%2C%20Vietnam&ll=105.718,18.823&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Lan%20Chau%20Island%2C%20Nghe%20An%2C%20Vietnam"
+    }
+  },
+  {
+    "id": "vn-nghe-an-bai-lu",
+    "slug": "bai-lu",
+    "region": "vn-nghe-an",
+    "country": "vietnam",
+    "region_name_vi": "Nghệ An",
+    "federal_district": "Miền Trung",
+    "name_vi": "Khu du lịch Bãi Lữ",
+    "name_ru": "Курорт Байлы",
+    "name_en": "Bai Lu Resort",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 18.848,
+      "lon": 105.765
+    },
+    "address_vi": "Xã Nghi Yên, huyện Nghi Lộc, tỉnh Nghệ An",
+    "rating": {
+      "value": 4.2,
+      "count": 1500,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Bãi biển đẹp lưng tựa núi, mặt hướng biển, không gian riêng tư yên tĩnh; hợp nghỉ dưỡng. Có khu resort, cảnh quan xanh mát; dịch vụ đang hoàn thiện thêm.",
+    "presentation_short_vi": "Bãi Lữ là khu du lịch nghỉ dưỡng ven biển ở huyện Nghi Lộc, nổi bật với bãi biển cong hình vòng cung, lưng tựa vào những dãy đồi thông xanh mát. Không gian yên tĩnh, riêng tư cùng bãi cát sạch và làn nước trong khiến nơi đây thích hợp cho kỳ nghỉ thư giãn.",
+    "presentation_short_en": "Bai Lu is a coastal resort area in Nghi Loc district, notable for its arc-shaped beach backed by cool green pine-clad hills. Its quiet, private setting with clean sand and clear water makes it ideal for a relaxing holiday.",
+    "presentation_short_ru": "Байлы — приморская курортная зона в уезде Нгилок, примечательная пляжем в форме дуги, за которым поднимаются прохладные зелёные сосновые холмы. Тихая, уединённая обстановка с чистым песком и прозрачной водой делает её идеальной для спокойного отдыха.",
+    "presentation_long_vi": "Khu du lịch Bãi Lữ nằm ở xã Nghi Yên, huyện Nghi Lộc, bên Quốc lộ ven biển, cách thành phố Vinh khoảng 25 km và không xa biển Cửa Lò. Đây là một trong những bãi biển đẹp và đặc biệt của Nghệ An bởi địa thế 'sơn thủy hữu tình': một bên là bãi cát vàng cong hình vòng cung ôm lấy vịnh biển, một bên là những dãy đồi thấp phủ rừng thông và cây xanh mát rượi chạy sát mép nước. Chính nhờ địa hình núi bao bọc, sóng ở đây khá êm, nước trong, không gian kín đáo, yên tĩnh và trong lành, mang lại cảm giác riêng tư, tách biệt khỏi sự ồn ào. Bãi Lữ đã được đầu tư thành khu nghỉ dưỡng với hệ thống khách sạn, biệt thự, khu vui chơi, nhà hàng hải sản và các dịch vụ tắm biển, thể thao. Du khách đến đây có thể tắm biển, dạo bộ trên bãi cát, leo đồi thông ngắm toàn cảnh vịnh, chèo thuyền, câu cá hoặc đơn giản là nghỉ ngơi, thư giãn giữa thiên nhiên. Buổi sớm, bình minh trên vịnh Bãi Lữ rất đẹp với ánh nắng phản chiếu trên mặt nước phẳng lặng. Với khung cảnh hài hòa giữa biển và rừng, Bãi Lữ là lựa chọn hấp dẫn cho những kỳ nghỉ dưỡng yên bình bên bờ biển xứ Nghệ.",
+    "presentation_long_en": "Bai Lu Resort lies in Nghi Yen commune, Nghi Loc district, along the coastal highway, about 25 km from Vinh City and not far from Cua Lo beach. It is one of Nghe An's loveliest and most distinctive beaches thanks to its 'harmonious mountains and water' setting: on one side an arc of golden sand embraces the bay, while on the other low hills clad in pine and cool greenery run right down to the water's edge. Sheltered by the surrounding hills, the waves here are fairly gentle, the water clear and the atmosphere secluded, quiet and fresh, giving a sense of privacy away from the noise. Bai Lu has been developed into a resort with hotels, villas, play areas, seafood restaurants and bathing and sports services. Visitors can swim, stroll the sand, climb the pine hills for bay panoramas, row boats, fish or simply rest and relax amid nature. At dawn, sunrise over Bai Lu bay is beautiful, the light reflecting on the still water. With its harmony of sea and forest, Bai Lu is an appealing choice for a peaceful seaside holiday in Nghe An.",
+    "presentation_long_ru": "Курорт Байлы находится в общине Нгиен уезда Нгилок, вдоль прибрежного шоссе, примерно в 25 км от города Винь и недалеко от пляжа Кыало. Это один из красивейших и самобытнейших пляжей Нгеана благодаря обстановке «гармонии гор и воды»: с одной стороны дуга золотого песка обнимает залив, с другой — низкие холмы, покрытые сосной и прохладной зеленью, спускаются прямо к воде. Защищённые окружающими холмами, волны здесь довольно спокойны, вода прозрачна, а атмосфера уединённа, тиха и свежа, что создаёт ощущение приватности вдали от шума. Байлы превращён в курорт с отелями, виллами, игровыми зонами, ресторанами морепродуктов и услугами купания и спорта. Гости могут купаться, гулять по песку, подниматься на сосновые холмы ради панорам залива, кататься на лодках, рыбачить или просто отдыхать среди природы. На рассвете восход над заливом Байлы прекрасен, свет отражается в неподвижной воде. С гармонией моря и леса Байлы — привлекательный выбор для спокойного морского отдыха в Нгеане.",
+    "highlights_vi": [
+      "Bãi biển hình vòng cung lưng tựa đồi thông, sóng êm, nước trong",
+      "Không gian riêng tư, yên tĩnh; khu nghỉ dưỡng ven biển",
+      "Leo đồi thông ngắm vịnh; bình minh trên biển rất đẹp"
+    ],
+    "highlights_en": [
+      "An arc-shaped beach backed by pine hills, gentle waves and clear water",
+      "A private, quiet setting; a coastal resort",
+      "Climb the pine hills for bay views; beautiful sunrises"
+    ],
+    "highlights_ru": [
+      "Пляж в форме дуги за сосновыми холмами, спокойные волны и чистая вода",
+      "Уединённая тихая обстановка; приморский курорт",
+      "Подъём на сосновые холмы ради видов залива; красивые восходы"
+    ],
+    "practical": {
+      "hours_vi": "Cả ngày (khu nghỉ dưỡng).",
+      "ticket_vi": "Có phí vào cổng/dịch vụ tùy khu.",
+      "duration_vi": "Nửa ngày đến vài ngày (nghỉ dưỡng).",
+      "best_time_vi": "Mùa hè (tháng 4–8); đi sớm ngắm bình minh trên vịnh.",
+      "tips_vi": "Đặt phòng trước dịp cao điểm; mang đồ bơi, kem chống nắng; hỏi rõ dịch vụ và giá."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (VI) — Nghi Lộc",
+        "url": "https://vi.wikipedia.org/wiki/Nghi_L%E1%BB%99c"
+      }
+    ],
+    "tags": [
+      "beach",
+      "resort",
+      "nature",
+      "outdoor",
+      "family",
+      "daytrip"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Bai%20Lu%20Resort%2C%20Nghe%20An%2C%20Vietnam&ll=105.765,18.848&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Bai%20Lu%20Resort%2C%20Nghe%20An%2C%20Vietnam"
+    }
+  },
+  {
+    "id": "vn-nghe-an-thanh-co-vinh",
+    "slug": "thanh-co-vinh",
+    "region": "vn-nghe-an",
+    "country": "vietnam",
+    "region_name_vi": "Nghệ An",
+    "federal_district": "Miền Trung",
+    "name_vi": "Thành cổ Vinh (Thành Nghệ An)",
+    "name_ru": "Крепость Винь (цитадель Нгеан)",
+    "name_en": "Vinh Citadel (Nghe An Citadel)",
+    "categories": [
+      "fortress",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 18.6785,
+      "lon": 105.681
+    },
+    "address_vi": "Phường Cửa Nam, thành phố Vinh, tỉnh Nghệ An",
+    "rating": {
+      "value": 4.3,
+      "count": 1100,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Di tích thành cổ thời Nguyễn với ba cổng thành rêu phong còn lại; không gian hoài cổ giữa lòng thành phố. Hợp dạo bộ, chụp ảnh, tìm hiểu lịch sử Vinh.",
+    "presentation_short_vi": "Thành cổ Vinh là tòa thành quân sự – hành chính thời Nguyễn, xây dựng đầu thế kỷ 19 để trấn giữ vùng Nghệ An. Ngày nay còn lại ba cổng thành cổ kính (Tiền, Tả, Hữu) rêu phong, là chứng tích lịch sử và điểm hoài niệm giữa trung tâm thành phố Vinh.",
+    "presentation_short_en": "Vinh Citadel was a military-administrative fortress of the Nguyen dynasty, built in the early 19th century to guard the Nghe An region. Today its three mossy old gates (Front, Left, Right) survive as historical evidence and a nostalgic spot in the centre of Vinh City.",
+    "presentation_short_ru": "Крепость Винь была военно-административной цитаделью династии Нгуен, построенной в начале XIX века для охраны края Нгеан. Сегодня сохранились её трое старых замшелых ворот (Передние, Левые, Правые) — историческое свидетельство и ностальгическое место в центре города Винь.",
+    "presentation_long_vi": "Thành cổ Vinh, còn gọi là thành Nghệ An, được xây dựng dưới triều Nguyễn vào đầu thế kỷ 19 (khởi dựng thời vua Gia Long, hoàn thiện dưới thời Minh Mạng) nhằm làm trung tâm hành chính và quân sự trấn giữ cả vùng Nghệ An – Hà Tĩnh. Ban đầu thành đắp bằng đất, sau được xây lại bằng đá ong kiên cố theo kiểu thành Vauban với sáu cạnh, hào nước bao quanh và ba cửa: cửa Tiền (phía nam), cửa Tả (phía đông) và cửa Hữu (phía tây). Trong thành xưa có hành cung, dinh thự, kho tàng, trại lính và nhiều công trình quan trọng. Trải qua chiến tranh và thời gian, phần lớn tường thành và công trình bên trong đã không còn, nhưng ba cổng thành cổ kính với lối kiến trúc vòm đá, rêu phong vẫn được bảo tồn, trở thành biểu tượng lịch sử của thành phố Vinh. Ngày nay, khu vực thành cổ là không gian xanh giữa lòng đô thị, nơi người dân đi dạo, tập thể dục, còn du khách thì tìm đến để chiêm ngưỡng dấu tích xưa, chụp ảnh và tìm hiểu về lịch sử vùng đất. Gần đó là Bảo tàng Xô Viết Nghệ Tĩnh nằm ngay trong khuôn viên thành, giúp du khách có cái nhìn đầy đủ hơn về truyền thống đấu tranh cách mạng của người dân xứ Nghệ.",
+    "presentation_long_en": "Vinh Citadel, also called Nghe An Citadel, was built under the Nguyen dynasty in the early 19th century (begun under King Gia Long and completed under Minh Mang) as an administrative and military centre guarding the whole Nghe An-Ha Tinh region. Originally an earthen rampart, it was later rebuilt solidly in laterite in the Vauban style, with six sides, a surrounding moat and three gates: the Front Gate (south), Left Gate (east) and Right Gate (west). Within it once stood a royal residence, mansions, storehouses, barracks and other important structures. Through war and time, most of the walls and interior buildings are gone, but the three ancient gates with their mossy stone arches survive as a historical symbol of Vinh City. Today the citadel area is a green space in the heart of the city where residents stroll and exercise, and visitors come to admire the old traces, take photos and learn about the region's history. Nearby, the Soviet Nghe Tinh Museum sits within the citadel grounds, giving visitors a fuller picture of the revolutionary struggle tradition of the people of Nghe An.",
+    "presentation_long_ru": "Крепость Винь, называемая также цитаделью Нгеан, была построена при династии Нгуен в начале XIX века (начата при короле Зя Лонге и завершена при Минь Манге) как административный и военный центр, охраняющий весь край Нгеан-Хатинь. Изначально земляной вал, она позже была прочно перестроена из латерита в стиле Вобана — с шестью сторонами, окружающим рвом и тремя воротами: Передними (юг), Левыми (восток) и Правыми (запад). Внутри некогда стояли королевская резиденция, дворцы, склады, казармы и другие важные сооружения. Сквозь войны и время большая часть стен и внутренних построек исчезла, но трое древних ворот с замшелыми каменными арками сохранились как исторический символ города Винь. Сегодня территория крепости — зелёное пространство в сердце города, где жители гуляют и занимаются спортом, а гости приходят полюбоваться старинными следами, фотографировать и узнавать историю края. Рядом, на территории крепости, расположен музей Советов Нгетинь, дающий гостям более полное представление о традиции революционной борьбы жителей Нгеана.",
+    "highlights_vi": [
+      "Thành quân sự – hành chính thời Nguyễn (đầu thế kỷ 19) kiểu Vauban",
+      "Còn lại ba cổng thành rêu phong: Tiền, Tả, Hữu",
+      "Không gian hoài cổ giữa TP. Vinh; gần Bảo tàng Xô Viết Nghệ Tĩnh"
+    ],
+    "highlights_en": [
+      "A Nguyen-dynasty military-administrative fortress (early 19th c.) in Vauban style",
+      "Three surviving mossy gates: Front, Left and Right",
+      "A nostalgic space in central Vinh; near the Soviet Nghe Tinh Museum"
+    ],
+    "highlights_ru": [
+      "Военно-административная крепость династии Нгуен (нач. XIX в.) в стиле Вобана",
+      "Сохранились трое замшелых ворот: Передние, Левые, Правые",
+      "Ностальгическое место в центре Виня; рядом музей Советов Нгетинь"
+    ],
+    "practical": {
+      "hours_vi": "Khu vực cổng thành: cả ngày.",
+      "ticket_vi": "Miễn phí (tham quan cổng thành).",
+      "duration_vi": "Khoảng 30–45 phút.",
+      "best_time_vi": "Sáng sớm hoặc chiều mát; quanh năm.",
+      "tips_vi": "Kết hợp thăm Bảo tàng Xô Viết Nghệ Tĩnh và trung tâm Vinh; chụp ảnh ở cổng cổ."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (VI) — Thành cổ Vinh",
+        "url": "https://vi.wikipedia.org/wiki/Th%C3%A0nh_c%E1%BB%95_Vinh"
+      }
+    ],
+    "tags": [
+      "history",
+      "fortress",
+      "monument",
+      "culture",
+      "outdoor"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Vinh%20Citadel%2C%20Nghe%20An%2C%20Vietnam&ll=105.681,18.6785&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Vinh%20Citadel%2C%20Nghe%20An%2C%20Vietnam"
+    }
+  },
+  {
+    "id": "vn-nghe-an-bao-tang-xo-viet-nghe-tinh",
+    "slug": "bao-tang-xo-viet-nghe-tinh",
+    "region": "vn-nghe-an",
+    "country": "vietnam",
+    "region_name_vi": "Nghệ An",
+    "federal_district": "Miền Trung",
+    "name_vi": "Bảo tàng Xô Viết Nghệ Tĩnh",
+    "name_ru": "Музей Советов Нгетинь",
+    "name_en": "Soviet Nghe Tinh Museum",
+    "categories": [
+      "museum",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 18.6778,
+      "lon": 105.6805
+    },
+    "address_vi": "Trong khuôn viên Thành cổ Vinh, phường Cửa Nam, thành phố Vinh, tỉnh Nghệ An",
+    "rating": {
+      "value": 4.5,
+      "count": 600,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Bảo tàng chuyên đề về phong trào Xô Viết Nghệ Tĩnh 1930–1931; nhiều hiện vật, tư liệu quý. Không gian trong thành cổ, thuyết minh cuốn hút với người thích lịch sử.",
+    "presentation_short_vi": "Bảo tàng Xô Viết Nghệ Tĩnh nằm trong khuôn viên Thành cổ Vinh, trưng bày về cao trào cách mạng Xô Viết Nghệ Tĩnh 1930–1931 – đỉnh cao đầu tiên của cách mạng Việt Nam dưới sự lãnh đạo của Đảng. Bảo tàng lưu giữ nhiều hiện vật, hình ảnh, tư liệu quý về phong trào.",
+    "presentation_short_en": "The Soviet Nghe Tinh Museum, in the grounds of Vinh Citadel, presents the revolutionary high tide of the Nghe Tinh Soviets of 1930-1931, the first peak of Vietnam's revolution under Party leadership. It preserves many precious objects, images and documents about the movement.",
+    "presentation_short_ru": "Музей Советов Нгетинь на территории крепости Винь рассказывает о революционном подъёме Советов Нгетинь 1930-1931 годов — первой вершине вьетнамской революции под руководством Партии. Он хранит множество ценных предметов, изображений и документов о движении.",
+    "presentation_long_vi": "Bảo tàng Xô Viết Nghệ Tĩnh tọa lạc ngay trong khuôn viên Thành cổ Vinh, được thành lập nhằm lưu giữ và giới thiệu về phong trào Xô Viết Nghệ Tĩnh những năm 1930–1931 – một cao trào cách mạng rộng lớn của công nông hai tỉnh Nghệ An và Hà Tĩnh dưới sự lãnh đạo của Đảng Cộng sản Việt Nam vừa mới ra đời. Trong phong trào này, nhân dân đã đứng lên đấu tranh mạnh mẽ, ở nhiều nơi chính quyền địch tan rã và các 'Xô viết' – hình thức chính quyền của công nông đầu tiên ở Việt Nam – được thành lập, thực hiện nhiều chính sách tiến bộ. Đây được xem là cuộc tổng diễn tập đầu tiên cho thắng lợi của Cách mạng Tháng Tám sau này. Bảo tàng trưng bày hàng nghìn hiện vật, tài liệu, hình ảnh, bản đồ, mô hình sinh động tái hiện bối cảnh, diễn biến và ý nghĩa của cao trào, cũng như sự hy sinh anh dũng của các chiến sĩ cách mạng và quần chúng. Qua các gian trưng bày, du khách hiểu thêm về truyền thống yêu nước, tinh thần đấu tranh kiên cường của người dân xứ Nghệ. Nằm trong không gian cổ kính của thành cổ, bảo tàng là điểm đến ý nghĩa cho những ai muốn tìm hiểu lịch sử cách mạng Việt Nam, đặc biệt phù hợp với các đoàn học sinh, sinh viên và du khách yêu lịch sử.",
+    "presentation_long_en": "The Soviet Nghe Tinh Museum sits within the grounds of Vinh Citadel and was founded to preserve and present the Nghe Tinh Soviet movement of 1930-1931, a broad revolutionary high tide of the workers and peasants of Nghe An and Ha Tinh provinces under the leadership of the newly born Communist Party of Vietnam. In this movement the people rose up in fierce struggle; in many places the enemy's authority collapsed and 'Soviets', the first form of worker-peasant government in Vietnam, were established, carrying out many progressive policies. It is regarded as the first general rehearsal for the later victory of the August Revolution. The museum displays thousands of objects, documents, images, maps and vivid models re-creating the context, course and significance of the high tide, as well as the heroic sacrifice of revolutionaries and the masses. Through its galleries, visitors gain a deeper understanding of the patriotic tradition and indomitable fighting spirit of the people of Nghe An. Set in the ancient space of the citadel, the museum is a meaningful destination for anyone wishing to learn about Vietnam's revolutionary history, especially suited to school and student groups and history-loving travellers.",
+    "presentation_long_ru": "Музей Советов Нгетинь находится на территории крепости Винь и был основан, чтобы хранить и представлять движение Советов Нгетинь 1930-1931 годов — широкий революционный подъём рабочих и крестьян провинций Нгеан и Хатинь под руководством только что родившейся Коммунистической партии Вьетнама. В ходе этого движения народ поднялся на ожесточённую борьбу; во многих местах власть врага рухнула, и были созданы «Советы» — первая форма рабоче-крестьянской власти во Вьетнаме, проводившая множество прогрессивных мер. Оно считается первой генеральной репетицией будущей победы Августовской революции. Музей демонстрирует тысячи предметов, документов, изображений, карт и живых макетов, воссоздающих контекст, ход и значение подъёма, а также героическую жертву революционеров и масс. Через залы посетители глубже понимают патриотическую традицию и несокрушимый боевой дух жителей Нгеана. Расположенный в древнем пространстве крепости, музей — значимое место для всех, кто хочет узнать революционную историю Вьетнама, особенно подходящее для школьных и студенческих групп и любящих историю путешественников.",
+    "highlights_vi": [
+      "Bảo tàng chuyên đề về cao trào Xô Viết Nghệ Tĩnh 1930–1931",
+      "Hàng nghìn hiện vật, tư liệu, hình ảnh, mô hình sinh động",
+      "Nằm trong Thành cổ Vinh; điểm học lịch sử ý nghĩa"
+    ],
+    "highlights_en": [
+      "A museum on the Nghe Tinh Soviet high tide of 1930-1931",
+      "Thousands of objects, documents, images and vivid models",
+      "Located in Vinh Citadel; a meaningful history stop"
+    ],
+    "highlights_ru": [
+      "Музей о подъёме Советов Нгетинь 1930-1931 годов",
+      "Тысячи предметов, документов, изображений и макетов",
+      "Расположен в крепости Винь; значимое место для истории"
+    ],
+    "practical": {
+      "hours_vi": "Khoảng 7:30–11:30 và 13:30–17:00 (nghỉ trưa); nên hỏi trước.",
+      "ticket_vi": "Miễn phí hoặc phí thấp.",
+      "duration_vi": "Khoảng 45–60 phút.",
+      "best_time_vi": "Quanh năm; kết hợp thăm Thành cổ Vinh.",
+      "tips_vi": "Nên đi cùng hướng dẫn để hiểu bối cảnh lịch sử; kết hợp trung tâm Vinh."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (VI) — Xô viết Nghệ Tĩnh",
+        "url": "https://vi.wikipedia.org/wiki/X%C3%B4_vi%E1%BA%BFt_Ngh%E1%BB%87_T%C4%A9nh"
+      }
+    ],
+    "tags": [
+      "history",
+      "museum",
+      "culture",
+      "indoor"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Soviet%20Nghe%20Tinh%20Museum%2C%20Nghe%20An%2C%20Vietnam&ll=105.6805,18.6778&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Soviet%20Nghe%20Tinh%20Museum%2C%20Nghe%20An%2C%20Vietnam"
+    }
+  },
+  {
+    "id": "vn-nghe-an-nui-quyet-phuong-hoang-trung-do",
+    "slug": "nui-quyet-phuong-hoang-trung-do",
+    "region": "vn-nghe-an",
+    "country": "vietnam",
+    "region_name_vi": "Nghệ An",
+    "federal_district": "Miền Trung",
+    "name_vi": "Núi Quyết và Phượng Hoàng Trung Đô",
+    "name_ru": "Гора Куйет и Фыонг Хоанг Чунг До",
+    "name_en": "Quyet Mountain and Phuong Hoang Trung Do",
+    "categories": [
+      "monument",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 18.658,
+      "lon": 105.715
+    },
+    "address_vi": "Phường Trung Đô, thành phố Vinh, tỉnh Nghệ An",
+    "rating": {
+      "value": 4.4,
+      "count": 1400,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Ngọn núi bên sông Lam gắn với kinh đô dang dở của vua Quang Trung; có đền thờ, view sông núi đẹp. Hợp leo núi, ngắm cảnh, tìm hiểu lịch sử Tây Sơn.",
+    "presentation_short_vi": "Núi Quyết (Lâm viên Núi Quyết) bên bờ sông Lam ở TP. Vinh là nơi vua Quang Trung từng chọn xây kinh đô Phượng Hoàng Trung Đô. Nay là công viên lâm viên với đền thờ vua Quang Trung, cây xanh và điểm ngắm toàn cảnh thành phố, sông Lam và núi Hồng.",
+    "presentation_short_en": "Quyet Mountain (Nui Quyet Park) on the bank of the Lam River in Vinh City is where King Quang Trung once chose to build the capital Phuong Hoang Trung Do. Today it is a forest park with a temple to King Quang Trung, greenery and viewpoints over the city, the Lam River and Hong Mountain.",
+    "presentation_short_ru": "Гора Куйет (парк Нуйкуйет) на берегу реки Лам в городе Винь — место, где король Куанг Чунг некогда выбрал построить столицу Фыонг Хоанг Чунг До. Сегодня это лесопарк с храмом королю Куанг Чунгу, зеленью и смотровыми площадками на город, реку Лам и гору Хонг.",
+    "presentation_long_vi": "Núi Quyết là ngọn núi nằm ở phường Trung Đô, thành phố Vinh, bên bờ sông Lam, gắn liền với một sự kiện lịch sử quan trọng cuối thế kỷ 18. Năm 1788, sau khi lên ngôi, vua Quang Trung – Nguyễn Huệ đã chọn vùng đất dưới chân núi Quyết, nơi có thế 'sơn thủy hữu tình' với núi Dũng Quyết và núi Kỳ Lân, để xây dựng kinh đô mới mang tên Phượng Hoàng Trung Đô, với ý định dời đô về đây nhằm khống chế cả hai miền Nam – Bắc. Tuy nhiên, do vua Quang Trung mất sớm, công trình còn dang dở và kinh đô này chưa bao giờ được hoàn thành. Ngày nay, khu vực núi Quyết được quy hoạch thành Lâm viên Núi Quyết – một công viên rừng rộng lớn với nhiều cây xanh, đường dạo, cùng đền thờ vua Quang Trung uy nghi được xây dựng trên núi để tưởng nhớ vị anh hùng áo vải. Từ trên đỉnh núi, du khách có thể phóng tầm mắt ngắm toàn cảnh thành phố Vinh, dòng sông Lam uốn khúc đổ ra biển, núi Hồng Lĩnh phía Hà Tĩnh và cầu Bến Thủy nối đôi bờ. Đây là điểm đến kết hợp giữa tham quan di tích lịch sử, dâng hương và tận hưởng không gian thiên nhiên, ngắm cảnh, rất được người dân và du khách yêu thích, nhất là vào buổi chiều mát.",
+    "presentation_long_en": "Quyet Mountain lies in Trung Do ward, Vinh City, on the bank of the Lam River, and is tied to an important event of the late 18th century. In 1788, after ascending the throne, King Quang Trung-Nguyen Hue chose the land at the foot of Quyet Mountain, with its 'harmonious mountains and water' between Dung Quyet and Ky Lan hills, to build a new capital named Phuong Hoang Trung Do, intending to move the capital here to command both south and north. However, because King Quang Trung died early, the work remained unfinished and the capital was never completed. Today the Quyet Mountain area is planned as Nui Quyet Forest Park, a large woodland park with greenery, walking paths and a dignified temple to King Quang Trung built on the mountain in memory of the 'cloth-robed hero'. From the summit, visitors can survey the whole of Vinh City, the winding Lam River flowing to the sea, the Hong Linh mountains in Ha Tinh and the Ben Thuy Bridge linking the two banks. It is a destination combining a historical visit, incense offering and enjoyment of nature and views, much loved by residents and travellers, especially in the cool of the afternoon.",
+    "presentation_long_ru": "Гора Куйет находится в квартале Чунгдо города Винь, на берегу реки Лам, и связана с важным событием конца XVIII века. В 1788 году, взойдя на трон, король Куанг Чунг-Нгуен Хюэ выбрал землю у подножия горы Куйет с её «гармонией гор и воды» между холмами Зунгкуйет и Килан, чтобы построить новую столицу под названием Фыонг Хоанг Чунг До, намереваясь перенести сюда столицу, чтобы держать под контролем и юг, и север. Однако из-за ранней смерти короля Куанг Чунга работы остались незавершёнными, и столица так и не была достроена. Сегодня район горы Куйет спланирован как лесопарк Нуйкуйет — большой лесной парк с зеленью, дорожками и величественным храмом королю Куанг Чунгу, построенным на горе в память о «герое в холщовом одеянии». С вершины гости могут окинуть взглядом весь город Винь, извивающуюся реку Лам, текущую к морю, горы Хонглинь в Хатине и мост Бентхюи, соединяющий два берега. Это место сочетает посещение исторического памятника, воскурение благовоний и наслаждение природой и видами, любимое жителями и путешественниками, особенно в прохладу второй половины дня.",
+    "highlights_vi": [
+      "Nơi vua Quang Trung định xây kinh đô Phượng Hoàng Trung Đô (1788)",
+      "Lâm viên Núi Quyết với đền thờ vua Quang Trung trên núi",
+      "View toàn cảnh TP. Vinh, sông Lam, núi Hồng và cầu Bến Thủy"
+    ],
+    "highlights_en": [
+      "Where King Quang Trung planned the capital Phuong Hoang Trung Do (1788)",
+      "Nui Quyet Forest Park with a mountain temple to King Quang Trung",
+      "Panoramas of Vinh City, the Lam River, Hong Mountain and Ben Thuy Bridge"
+    ],
+    "highlights_ru": [
+      "Место, где король Куанг Чунг задумал столицу Фыонг Хоанг Чунг До (1788)",
+      "Лесопарк Нуйкуйет с горным храмом королю Куанг Чунгу",
+      "Панорамы Виня, реки Лам, горы Хонг и моста Бентхюи"
+    ],
+    "practical": {
+      "hours_vi": "Ban ngày; đền thờ khoảng 7:00–17:00.",
+      "ticket_vi": "Miễn phí (công đức tùy tâm).",
+      "duration_vi": "Khoảng 1–1,5 giờ.",
+      "best_time_vi": "Chiều mát để ngắm hoàng hôn trên sông Lam.",
+      "tips_vi": "Đi giày thoải mái để leo núi; kết hợp dạo TP. Vinh; mang nước uống."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (VI) — Phượng Hoàng Trung Đô",
+        "url": "https://vi.wikipedia.org/wiki/Ph%C6%B0%E1%BB%A3ng_Ho%C3%A0ng_Trung_%C4%90%C3%B4"
+      }
+    ],
+    "tags": [
+      "history",
+      "monument",
+      "viewpoint",
+      "nature",
+      "outdoor",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Quyet%20Mountain%20and%20Phuong%20Hoang%20Trung%20Do%2C%20Nghe%20An%2C%20Vietnam&ll=105.715,18.658&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Quyet%20Mountain%20and%20Phuong%20Hoang%20Trung%20Do%2C%20Nghe%20An%2C%20Vietnam"
+    }
+  },
+  {
+    "id": "vn-nghe-an-chua-can-linh",
+    "slug": "chua-can-linh",
+    "region": "vn-nghe-an",
+    "country": "vietnam",
+    "region_name_vi": "Nghệ An",
+    "federal_district": "Miền Trung",
+    "name_vi": "Chùa Cần Linh (Chùa Sư Nữ)",
+    "name_ru": "Пагода Канлинь",
+    "name_en": "Can Linh Pagoda",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 18.671,
+      "lon": 105.688
+    },
+    "address_vi": "Phường Cửa Nam, thành phố Vinh, tỉnh Nghệ An",
+    "rating": {
+      "value": 4.6,
+      "count": 900,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Ngôi chùa cổ hàng nghìn năm giữa lòng TP. Vinh, kiến trúc truyền thống yên tĩnh. Không gian thanh tịnh, hợp lễ Phật, vãn cảnh; dịp lễ Vu Lan, đầu năm đông khách.",
+    "presentation_short_vi": "Chùa Cần Linh, còn gọi là chùa Sư Nữ, là ngôi chùa cổ nhất thành phố Vinh, tương truyền có từ thời nhà Đường. Chùa mang kiến trúc Phật giáo truyền thống, không gian cổ kính, thanh tịnh giữa lòng đô thị, là chốn tâm linh quen thuộc của người dân xứ Nghệ.",
+    "presentation_short_en": "Can Linh Pagoda, also called the Nuns' Pagoda, is the oldest pagoda in Vinh City, said to date from the Tang era. With traditional Buddhist architecture and an ancient, serene space in the heart of the city, it is a familiar spiritual site for the people of Nghe An.",
+    "presentation_short_ru": "Пагода Канлинь, называемая также Монашеской пагодой, — старейшая пагода города Винь, по преданию возникшая в эпоху Тан. С традиционной буддийской архитектурой и древним, безмятежным пространством в сердце города она — привычное духовное место для жителей Нгеана.",
+    "presentation_long_vi": "Chùa Cần Linh, dân gian quen gọi là chùa Sư Nữ, tọa lạc ở phường Cửa Nam, thành phố Vinh, được xem là ngôi chùa cổ và lớn nhất của thành phố. Theo truyền thuyết và các tư liệu, chùa được khởi dựng từ rất sớm, khoảng thế kỷ 9 dưới thời nhà Đường, trải qua nhiều lần trùng tu, tôn tạo qua các triều đại. Chùa mang đậm phong cách kiến trúc Phật giáo truyền thống Bắc Trung Bộ với tam quan, tòa bái đường, thượng điện, nhà tổ, tháp chuông và khuôn viên rợp bóng cây cổ thụ, ao sen, tạo nên không gian tĩnh lặng, trang nghiêm giữa phố phường sầm uất. Bên trong chùa lưu giữ nhiều pho tượng Phật cổ, chuông đồng, hoành phi câu đối và các hiện vật có giá trị lịch sử, nghệ thuật. Đây là nơi tu hành của các ni sư, đồng thời là điểm sinh hoạt tín ngưỡng quen thuộc của phật tử và người dân địa phương. Vào các ngày rằm, mồng một, lễ Phật đản, Vu Lan hay dịp đầu xuân, chùa đón đông đảo người đến lễ Phật, cầu an, thắp hương. Với bề dày lịch sử và giá trị văn hóa – tâm linh, chùa Cần Linh đã được công nhận là di tích lịch sử – văn hóa cấp quốc gia, trở thành điểm đến ý nghĩa cho du khách muốn tìm chút bình yên và tìm hiểu đời sống tín ngưỡng của người xứ Nghệ.",
+    "presentation_long_en": "Can Linh Pagoda, popularly called the Nuns' Pagoda, stands in Cua Nam ward, Vinh City, and is regarded as the oldest and largest pagoda in the city. According to legend and records, it was founded very early, around the 9th century under the Tang, and restored many times across the dynasties. It strongly reflects the traditional Buddhist architecture of north-central Vietnam, with a triple gate, worship hall, upper sanctum, patriarch's house, bell tower and grounds shaded by ancient trees and a lotus pond, creating a quiet, solemn space amid the busy city. Inside it keeps many old Buddha statues, a bronze bell, horizontal lacquered boards, parallel sentences and objects of historical and artistic value. It is a place of practice for nuns and a familiar site of worship for local Buddhists and residents. On full-moon and new-moon days, Buddha's Birthday, the Vu Lan festival and the new year, the pagoda welcomes crowds who come to worship, pray for peace and offer incense. With its long history and cultural-spiritual value, Can Linh Pagoda is recognised as a national historical and cultural relic and is a meaningful destination for visitors seeking calm and an insight into the religious life of Nghe An.",
+    "presentation_long_ru": "Пагода Канлинь, в народе называемая Монашеской пагодой, стоит в квартале Кыанам города Винь и считается старейшей и крупнейшей пагодой города. Согласно преданию и записям, она была основана очень рано, около IX века при династии Тан, и многократно реставрировалась при разных династиях. Она ярко отражает традиционную буддийскую архитектуру северо-центрального Вьетнама: тройные ворота, молитвенный зал, верхнее святилище, дом патриарха, колокольня и территория, затенённая вековыми деревьями и лотосовым прудом, создают тихое, торжественное пространство среди оживлённого города. Внутри хранятся многие старинные статуи Будды, бронзовый колокол, лаковые доски, парные изречения и предметы исторической и художественной ценности. Это место практики монахинь и привычное место поклонения для местных буддистов и жителей. В дни полнолуния и новолуния, в день рождения Будды, на праздник Вулан и в новый год пагода принимает толпы приходящих поклоняться, молиться о мире и воскурять благовония. С долгой историей и культурно-духовной ценностью пагода Канлинь признана национальным историко-культурным памятником и является значимым местом для гостей, ищущих покой и знакомство с религиозной жизнью Нгеана.",
+    "highlights_vi": [
+      "Ngôi chùa cổ nhất TP. Vinh, tương truyền có từ thời nhà Đường (thế kỷ 9)",
+      "Kiến trúc Phật giáo truyền thống, không gian thanh tịnh giữa phố",
+      "Di tích lịch sử – văn hóa quốc gia; đông khách dịp lễ Phật, đầu năm"
+    ],
+    "highlights_en": [
+      "The oldest pagoda in Vinh, said to date from the Tang era (9th c.)",
+      "Traditional Buddhist architecture, a serene space in the city",
+      "A national relic; busy on Buddhist holidays and the new year"
+    ],
+    "highlights_ru": [
+      "Старейшая пагода Виня, по преданию — эпохи Тан (IX век)",
+      "Традиционная буддийская архитектура, безмятежность в городе",
+      "Национальный памятник; многолюдна в буддийские праздники и новый год"
+    ],
+    "practical": {
+      "hours_vi": "Khoảng 6:00–18:00.",
+      "ticket_vi": "Miễn phí (công đức tùy tâm).",
+      "duration_vi": "Khoảng 30–45 phút.",
+      "best_time_vi": "Ngày rằm, mồng một, lễ Vu Lan, Phật đản, đầu xuân.",
+      "tips_vi": "Ăn mặc kín đáo, giữ yên tĩnh; bỏ dép trước khi vào điện thờ."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (VI) — Chùa Cần Linh",
+        "url": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_C%E1%BA%A7n_Linh"
+      }
+    ],
+    "tags": [
+      "spiritual",
+      "temple",
+      "culture",
+      "history",
+      "indoor"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Can%20Linh%20Pagoda%2C%20Nghe%20An%2C%20Vietnam&ll=105.688,18.671&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Can%20Linh%20Pagoda%2C%20Nghe%20An%2C%20Vietnam"
+    }
+  },
+  {
+    "id": "vn-nghe-an-den-hong-son",
+    "slug": "den-hong-son",
+    "region": "vn-nghe-an",
+    "country": "vietnam",
+    "region_name_vi": "Nghệ An",
+    "federal_district": "Miền Trung",
+    "name_vi": "Đền Hồng Sơn (TP. Vinh)",
+    "name_ru": "Храм Хонгшон (город Винь)",
+    "name_en": "Hong Son Temple (Vinh City)",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 18.6725,
+      "lon": 105.6905
+    },
+    "address_vi": "Phường Hồng Sơn, thành phố Vinh, tỉnh Nghệ An",
+    "rating": {
+      "value": 4.5,
+      "count": 700,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Ngôi đền cổ trung tâm Vinh thờ Hưng Đạo Vương và các vị thần; kiến trúc chạm khắc đẹp. Không gian tâm linh giữa phố, đông khách dịp lễ; hợp vãn cảnh, chiêm bái.",
+    "presentation_short_vi": "Đền Hồng Sơn là ngôi đền cổ ở trung tâm thành phố Vinh, thờ Hưng Đạo Đại Vương Trần Quốc Tuấn cùng nhiều vị thần, thánh trong tín ngưỡng dân gian. Đền có kiến trúc truyền thống, chạm khắc tinh xảo, là một trong những trung tâm sinh hoạt tín ngưỡng lớn của xứ Nghệ.",
+    "presentation_short_en": "Hong Son Temple is an ancient temple in central Vinh City honouring Hung Dao Dai Vuong Tran Quoc Tuan and many folk deities and saints. With traditional architecture and fine carving, it is one of Nghe An's major centres of religious life.",
+    "presentation_short_ru": "Храм Хонгшон — древний храм в центре города Винь, посвящённый Хынг Дао Дай Выонгу Чан Куок Туану и многим народным божествам и святым. С традиционной архитектурой и тонкой резьбой он — один из главных центров религиозной жизни Нгеана.",
+    "presentation_long_vi": "Đền Hồng Sơn nằm ở phường Hồng Sơn, ngay khu vực trung tâm thành phố Vinh, gần chợ Vinh. Đây là một ngôi đền cổ có quy mô lớn, được xây dựng từ thời Nguyễn, ban đầu là Võ Miếu thờ các danh tướng, về sau thờ chính Hưng Đạo Đại Vương Trần Quốc Tuấn – vị anh hùng dân tộc ba lần đánh thắng quân Nguyên Mông, cùng nhiều vị thần, thánh khác như Thánh Mẫu, các vị trong tín ngưỡng thờ Mẫu. Ngôi đền mang phong cách kiến trúc truyền thống với hệ thống cổng, sân, các tòa điện thờ được bố trí hài hòa, nổi bật là nghệ thuật chạm khắc gỗ tinh xảo trên các cột kèo, hoành phi, câu đối, cùng nhiều hiện vật, đồ thờ cổ có giá trị. Nằm giữa lòng đô thị nhộn nhịp, đền Hồng Sơn vẫn giữ được nét cổ kính, trầm mặc, là chốn tâm linh quen thuộc của người dân địa phương. Vào các dịp lễ, đặc biệt là ngày giỗ Đức Thánh Trần (20 tháng Tám âm lịch) và các ngày lễ thờ Mẫu, đền thu hút đông đảo người dân và du khách đến dâng hương, cầu tài lộc, bình an, tham dự các nghi lễ và hoạt động tín ngưỡng truyền thống. Đền Hồng Sơn đã được xếp hạng di tích lịch sử – văn hóa quốc gia, là điểm đến tâm linh và văn hóa đáng chú ý khi tham quan thành phố Vinh.",
+    "presentation_long_en": "Hong Son Temple stands in Hong Son ward, in the central area of Vinh City near Vinh Market. It is a large ancient temple built in the Nguyen era, originally a Military Shrine honouring famous generals and later dedicated chiefly to Hung Dao Dai Vuong Tran Quoc Tuan, the national hero who thrice defeated the Yuan-Mongol armies, along with other deities and saints such as the Holy Mother and figures of the Mother Goddess tradition. The temple follows traditional architecture with a system of gates, courtyards and worship halls harmoniously arranged, notable for the fine wood carving on its columns, beams, lacquered boards and parallel sentences, and many valuable objects and old ritual items. Amid the bustling city, Hong Son Temple keeps its ancient, contemplative character and is a familiar spiritual site for locals. On festival days, especially the memorial day of Saint Tran (the 20th of the eighth lunar month) and Mother Goddess ceremonies, the temple draws crowds of residents and visitors who come to offer incense, pray for prosperity and peace and take part in traditional rites. Recognised as a national historical and cultural relic, Hong Son Temple is a notable spiritual and cultural destination when touring Vinh City.",
+    "presentation_long_ru": "Храм Хонгшон стоит в квартале Хонгшон, в центральной части города Винь рядом с рынком Виня. Это большой древний храм, построенный в эпоху Нгуен, изначально военное святилище в честь прославленных полководцев, а позднее посвящённый главным образом Хынг Дао Дай Выонгу Чан Куок Туану — национальному герою, трижды разгромившему юаньско-монгольские армии, — а также другим божествам и святым, таким как Святая Мать и фигуры традиции культа Богини-Матери. Храм выдержан в традиционной архитектуре с системой ворот, дворов и молитвенных залов, гармонично расположенных, и примечателен тонкой резьбой по дереву на колоннах, балках, лаковых досках и парных изречениях, а также множеством ценных предметов и старинной ритуальной утвари. Среди оживлённого города храм Хонгшон сохраняет древний, созерцательный характер и остаётся привычным духовным местом для местных жителей. В праздничные дни, особенно в день памяти Святого Чана (20-е число восьмого лунного месяца) и на церемонии культа Богини-Матери, храм собирает толпы жителей и гостей, приходящих воскурить благовония, молиться о достатке и мире и участвовать в традиционных обрядах. Признанный национальным историко-культурным памятником, храм Хонгшон — заметное духовное и культурное место при осмотре города Винь.",
+    "highlights_vi": [
+      "Đền cổ trung tâm Vinh thờ Hưng Đạo Vương Trần Quốc Tuấn và các vị thần",
+      "Kiến trúc truyền thống, chạm khắc gỗ tinh xảo; di tích quốc gia",
+      "Đông khách dịp giỗ Đức Thánh Trần và lễ thờ Mẫu"
+    ],
+    "highlights_en": [
+      "An ancient central-Vinh temple to Tran Quoc Tuan and various deities",
+      "Traditional architecture with fine wood carving; a national relic",
+      "Busy on Saint Tran's memorial day and Mother Goddess ceremonies"
+    ],
+    "highlights_ru": [
+      "Древний храм в центре Виня в честь Чан Куок Туана и разных божеств",
+      "Традиционная архитектура с тонкой резьбой; национальный памятник",
+      "Многолюден в день памяти Святого Чана и на церемониях культа Матери"
+    ],
+    "practical": {
+      "hours_vi": "Khoảng 6:00–18:00.",
+      "ticket_vi": "Miễn phí (công đức tùy tâm).",
+      "duration_vi": "Khoảng 30–45 phút.",
+      "best_time_vi": "Dịp giỗ Đức Thánh Trần (20/8 âm lịch), lễ thờ Mẫu, đầu xuân.",
+      "tips_vi": "Ăn mặc lịch sự; cẩn thận tư trang khi đông; kết hợp dạo chợ Vinh gần đó."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (VI) — Đền Hồng Sơn",
+        "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%81n_H%E1%BB%93ng_S%C6%A1n"
+      }
+    ],
+    "tags": [
+      "spiritual",
+      "temple",
+      "history",
+      "culture",
+      "indoor"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Hong%20Son%20Temple%2C%20Nghe%20An%2C%20Vietnam&ll=105.6905,18.6725&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Hong%20Son%20Temple%2C%20Nghe%20An%2C%20Vietnam"
+    }
+  },
+  {
+    "id": "vn-nghe-an-cho-vinh",
+    "slug": "cho-vinh",
+    "region": "vn-nghe-an",
+    "country": "vietnam",
+    "region_name_vi": "Nghệ An",
+    "federal_district": "Miền Trung",
+    "name_vi": "Chợ Vinh",
+    "name_ru": "Рынок Винь",
+    "name_en": "Vinh Market",
+    "categories": [
+      "square_street",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 18.674,
+      "lon": 105.687
+    },
+    "address_vi": "Phường Hồng Sơn, thành phố Vinh, tỉnh Nghệ An",
+    "rating": {
+      "value": 4.2,
+      "count": 2000,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Khu chợ trung tâm lớn nhất Vinh, bán đủ hàng hóa, đặc sản xứ Nghệ; nhộn nhịp, giá phải chăng. Nơi trải nghiệm đời sống địa phương, mua quà và ăn đặc sản.",
+    "presentation_short_vi": "Chợ Vinh là khu chợ trung tâm lớn nhất và lâu đời của thành phố Vinh, đầu mối buôn bán sầm uất của cả vùng Nghệ An – Hà Tĩnh. Đây là nơi du khách có thể tìm mua đủ loại hàng hóa, đặc sản xứ Nghệ và trải nghiệm nhịp sống, văn hóa chợ búa địa phương.",
+    "presentation_short_en": "Vinh Market is the largest and long-established central market of Vinh City, a bustling trading hub for the whole Nghe An-Ha Tinh region. Here visitors can buy all kinds of goods and Nghe An specialities and experience the rhythm and culture of local market life.",
+    "presentation_short_ru": "Рынок Винь — крупнейший и старейший центральный рынок города Винь, оживлённый торговый узел для всего края Нгеан-Хатинь. Здесь гости могут купить всевозможные товары и деликатесы Нгеана и ощутить ритм и культуру местной рыночной жизни.",
+    "presentation_long_vi": "Chợ Vinh nằm ở phường Hồng Sơn, khu vực trung tâm thành phố Vinh, là một trong những khu chợ lớn và sầm uất bậc nhất khu vực Bắc Trung Bộ. Có lịch sử lâu đời, chợ Vinh từ xưa đã là đầu mối giao thương quan trọng, nơi tập trung buôn bán hàng hóa của cả vùng Nghệ An – Hà Tĩnh và các tỉnh lân cận. Chợ được xây dựng khang trang với nhiều tầng và khu vực bán hàng phân theo ngành hàng: từ quần áo, vải vóc, giày dép, đồ gia dụng, điện tử đến thực phẩm tươi sống, hàng khô, gia vị và đặc biệt là các loại đặc sản xứ Nghệ. Đến chợ Vinh, du khách có thể tìm mua nhiều món quà và đặc sản nổi tiếng như cam Vinh, tương Nam Đàn, nhút Thanh Chương, bánh đa Đô Lương, cá thu, mực khô, các loại hải sản, cùng nhiều món ăn vặt hấp dẫn của địa phương. Không khí chợ nhộn nhịp, tấp nập kẻ mua người bán, phản ánh sinh động đời sống thường nhật và văn hóa buôn bán của người dân xứ Nghệ. Với du khách phương xa, chợ Vinh không chỉ là nơi mua sắm mà còn là điểm trải nghiệm văn hóa, ẩm thực địa phương thú vị, nơi có thể cảm nhận rõ nét nhất hơi thở cuộc sống của thành phố bên bờ sông Lam.",
+    "presentation_long_en": "Vinh Market lies in Hong Son ward, in the central area of Vinh City, and is one of the largest and busiest markets in north-central Vietnam. With a long history, it has long been an important trading hub gathering the goods of the whole Nghe An-Ha Tinh region and neighbouring provinces. The market is well built, with several floors and areas divided by trade: from clothes, fabrics, footwear, household goods and electronics to fresh food, dry goods, spices and, above all, Nghe An specialities. At Vinh Market, visitors can buy many famous gifts and specialities such as Vinh oranges, Nam Dan soybean sauce, Thanh Chuong nhut (salted jackfruit), Do Luong rice crackers, mackerel, dried squid, various seafood and many tempting local snacks. The market is lively and crowded with buyers and sellers, vividly reflecting the daily life and trading culture of the people of Nghe An. For travellers from afar, Vinh Market is not only a place to shop but also an interesting spot to experience local culture and cuisine, where one can most clearly feel the breath of life in this city by the Lam River.",
+    "presentation_long_ru": "Рынок Винь находится в квартале Хонгшон, в центральной части города Винь, и является одним из крупнейших и оживлённейших рынков северо-центрального Вьетнама. С долгой историей он давно служит важным торговым узлом, собирающим товары всего края Нгеан-Хатинь и соседних провинций. Рынок хорошо построен, с несколькими этажами и зонами по видам торговли: от одежды, тканей, обуви, хозтоваров и электроники до свежих продуктов, сухих товаров, специй и прежде всего деликатесов Нгеана. На рынке Винь гости могут купить множество знаменитых подарков и деликатесов — апельсины Виня, соевый соус Намдан, нют Тханьтьыонга (солёное джекфрутовое блюдо), рисовые лепёшки Долыонга, скумбрию, сушёный кальмар, разные морепродукты и множество заманчивых местных закусок. Рынок оживлён и полон покупателей и продавцов, ярко отражая повседневную жизнь и торговую культуру жителей Нгеана. Для путешественников издалека рынок Винь — не только место покупок, но и интересная точка знакомства с местной культурой и кухней, где яснее всего ощущается дыхание жизни города у реки Лам.",
+    "highlights_vi": [
+      "Chợ trung tâm lớn nhất, lâu đời của TP. Vinh và vùng Bắc Trung Bộ",
+      "Mua đặc sản xứ Nghệ: cam Vinh, tương Nam Đàn, nhút, bánh đa, hải sản khô",
+      "Trải nghiệm đời sống, ẩm thực và văn hóa chợ địa phương"
+    ],
+    "highlights_en": [
+      "The largest, long-established central market of Vinh and north-central Vietnam",
+      "Buy Nghe An specialities: Vinh oranges, Nam Dan sauce, nhut, rice crackers, dried seafood",
+      "Experience local life, food and market culture"
+    ],
+    "highlights_ru": [
+      "Крупнейший, старейший центральный рынок Виня и северо-центрального Вьетнама",
+      "Деликатесы Нгеана: апельсины Виня, соус Намдан, нют, лепёшки, сушёные морепродукты",
+      "Знакомство с местной жизнью, едой и рыночной культурой"
+    ],
+    "practical": {
+      "hours_vi": "Khoảng 6:00–18:00 (một số khu bán sớm/muộn hơn).",
+      "ticket_vi": "Miễn phí vào chợ.",
+      "duration_vi": "Khoảng 45–90 phút.",
+      "best_time_vi": "Buổi sáng đông vui, hàng tươi ngon nhất.",
+      "tips_vi": "Nên hỏi giá và mặc cả; giữ tư trang cẩn thận; thử đặc sản và mua quà."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (VI) — Chợ Vinh",
+        "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_Vinh"
+      }
+    ],
+    "tags": [
+      "market",
+      "food",
+      "shopping",
+      "culture",
+      "indoor",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Vinh%20Market%2C%20Nghe%20An%2C%20Vietnam&ll=105.687,18.674&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Vinh%20Market%2C%20Nghe%20An%2C%20Vietnam"
+    }
+  },
+  {
+    "id": "vn-nghe-an-thac-sao-va",
+    "slug": "thac-sao-va",
+    "region": "vn-nghe-an",
+    "country": "vietnam",
+    "region_name_vi": "Nghệ An",
+    "federal_district": "Miền Trung",
+    "name_vi": "Thác Sao Va",
+    "name_ru": "Водопад Шаова",
+    "name_en": "Sao Va Waterfall",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 19.58,
+      "lon": 104.9
+    },
+    "address_vi": "Xã Đồng Văn, huyện Quế Phong, tỉnh Nghệ An",
+    "rating": {
+      "value": 4.4,
+      "count": 500,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Thác nước đẹp giữa rừng miền Tây Nghệ An, nước trong xanh, mát lạnh; hợp tắm thác, dã ngoại. Đường xa nhưng cảnh hoang sơ, yên tĩnh, ít khách.",
+    "presentation_short_vi": "Thác Sao Va là thác nước đẹp ở huyện miền núi Quế Phong, phía tây bắc Nghệ An, cao khoảng 20–24 m, nước đổ xuống hồ tự nhiên trong xanh giữa rừng. Đây là điểm du lịch sinh thái hoang sơ, mát lành, gắn với văn hóa đồng bào Thái vùng cao.",
+    "presentation_short_en": "Sao Va Waterfall is a beautiful fall in the mountainous Que Phong district of north-western Nghe An, about 20-24 metres high, its water dropping into a clear natural pool amid the forest. It is a wild, refreshing eco-tourism spot linked to the culture of the upland Thai people.",
+    "presentation_short_ru": "Водопад Шаова — красивый водопад в горном уезде Куэфонг на северо-западе Нгеана, высотой около 20-24 метров; его вода падает в прозрачную природную заводь среди леса. Это дикое, освежающее место экотуризма, связанное с культурой горного народа тхай.",
+    "presentation_long_vi": "Thác Sao Va nằm ở xã Đồng Văn, huyện Quế Phong, vùng núi phía tây bắc tỉnh Nghệ An, cách thành phố Vinh khoảng 170 km. Thác có độ cao khoảng 20–24 m, dòng nước từ trên cao đổ xuống một hồ nước tự nhiên trong xanh, được bao quanh bởi rừng cây rậm rạp, vách đá và thảm thực vật phong phú, tạo nên khung cảnh hoang sơ, thơ mộng. Theo tiếng địa phương, 'Sao Va' có nghĩa liên quan đến hình ảnh dòng thác như con hươu, con nai; cũng có cách giải thích gắn với vẻ đẹp huyền ảo của thác. Nước thác quanh năm mát lạnh, trong vắt, dưới chân thác là hồ nước sâu vừa phải, khá an toàn để tắm mát, bơi lội và vui chơi. Xung quanh thác là không gian núi rừng yên tĩnh, không khí trong lành, thích hợp cho các hoạt động dã ngoại, cắm trại, khám phá thiên nhiên. Khu vực Quế Phong còn là nơi sinh sống của đồng bào các dân tộc Thái, Thổ, Khơ Mú với nhiều nét văn hóa, ẩm thực đặc sắc, nên chuyến đi tới thác Sao Va thường được kết hợp trải nghiệm bản làng, thưởng thức đặc sản vùng cao. Dù đường đi khá xa và còn nhiều đoạn quanh co, nhưng vẻ đẹp nguyên sơ, thanh bình của thác Sao Va là phần thưởng xứng đáng cho những ai yêu thích du lịch sinh thái, ưa khám phá miền Tây xứ Nghệ.",
+    "presentation_long_en": "Sao Va Waterfall lies in Dong Van commune, Que Phong district, in the north-western mountains of Nghe An, about 170 km from Vinh City. The fall is around 20-24 metres high, its water dropping from above into a clear natural pool surrounded by dense forest, cliffs and rich vegetation, creating a wild, poetic scene. In the local tongue, 'Sao Va' relates to the image of the fall as a deer or roe, while some explanations tie it to the fall's magical beauty. The water is cool and crystal-clear year-round, and the pool at its foot is moderately deep and fairly safe for bathing, swimming and play. Around the fall lies quiet mountain forest with fresh air, ideal for picnics, camping and nature exploration. The Que Phong area is also home to the Thai, Tho and Kho Mu peoples, with distinctive culture and cuisine, so a trip to Sao Va is often combined with visiting villages and tasting upland specialities. Although the road is quite long and winding, the pristine, peaceful beauty of Sao Va Waterfall is a fitting reward for those who love eco-tourism and exploring western Nghe An.",
+    "presentation_long_ru": "Водопад Шаова находится в общине Донгван уезда Куэфонг, в северо-западных горах Нгеана, примерно в 170 км от города Винь. Высота водопада около 20-24 метров; вода падает сверху в прозрачную природную заводь, окружённую густым лесом, скалами и богатой растительностью, создавая дикую, поэтичную картину. На местном языке «Шаова» связано с образом водопада как оленя или косули, а некоторые объяснения соотносят его с волшебной красотой водопада. Вода прохладна и кристально чиста круглый год, а заводь у подножия умеренно глубока и достаточно безопасна для купания, плавания и игр. Вокруг водопада — тихий горный лес со свежим воздухом, идеальный для пикников, кемпинга и изучения природы. Район Куэфонг также населяют народы тхай, тхо и кхому с самобытной культурой и кухней, поэтому поездку к Шаове часто сочетают с посещением деревень и дегустацией горных деликатесов. Хотя дорога довольно длинна и извилиста, первозданная, мирная красота водопада Шаова — достойная награда для любителей экотуризма и исследования западного Нгеана.",
+    "highlights_vi": [
+      "Thác cao ~20–24 m đổ xuống hồ tự nhiên trong xanh giữa rừng",
+      "Điểm du lịch sinh thái hoang sơ ở vùng cao Quế Phong",
+      "Kết hợp trải nghiệm bản làng Thái, Thổ, Khơ Mú và đặc sản vùng cao"
+    ],
+    "highlights_en": [
+      "A ~20-24 m fall dropping into a clear natural pool amid the forest",
+      "A wild eco-tourism spot in upland Que Phong",
+      "Combine with Thai, Tho and Kho Mu villages and upland specialities"
+    ],
+    "highlights_ru": [
+      "Водопад ~20-24 м, падающий в прозрачную заводь среди леса",
+      "Дикое место экотуризма в горном Куэфонге",
+      "Сочетается с деревнями тхай, тхо, кхому и горными деликатесами"
+    ],
+    "practical": {
+      "hours_vi": "Ban ngày.",
+      "ticket_vi": "Miễn phí hoặc phí thấp.",
+      "duration_vi": "Khoảng 1,5–2 giờ (chưa kể di chuyển xa).",
+      "best_time_vi": "Mùa hè để tắm mát; sau mưa thác nhiều nước (chú ý an toàn).",
+      "tips_vi": "Đường xa, nên đi xe khỏe, khởi hành sớm; mang đồ bơi, đồ ăn; hỏi người dân về mực nước."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (VI) — Quế Phong",
+        "url": "https://vi.wikipedia.org/wiki/Qu%E1%BA%BF_Phong"
+      }
+    ],
+    "tags": [
+      "nature",
+      "waterfall",
+      "ecotourism",
+      "outdoor",
+      "family",
+      "daytrip"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Sao%20Va%20Waterfall%2C%20Nghe%20An%2C%20Vietnam&ll=104.9,19.58&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Sao%20Va%20Waterfall%2C%20Nghe%20An%2C%20Vietnam"
+    }
+  },
+  {
+    "id": "vn-nghe-an-muong-long",
+    "slug": "muong-long",
+    "region": "vn-nghe-an",
+    "country": "vietnam",
+    "region_name_vi": "Nghệ An",
+    "federal_district": "Miền Trung",
+    "name_vi": "Mường Lống (Kỳ Sơn)",
+    "name_ru": "Мыонглонг (Кишон)",
+    "name_en": "Muong Long (Ky Son)",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 19.36,
+      "lon": 104.19
+    },
+    "address_vi": "Xã Mường Lống, huyện Kỳ Sơn, tỉnh Nghệ An",
+    "rating": {
+      "value": 4.5,
+      "count": 700,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Thung lũng vùng cao mát mẻ quanh năm, được ví như 'Sa Pa xứ Nghệ'; mây mù, ruộng bậc thang, bản Mông. Cảnh đẹp hoang sơ, hợp trekking, săn mây, khám phá văn hóa.",
+    "presentation_short_vi": "Mường Lống là một xã vùng cao ở huyện biên giới Kỳ Sơn, nằm trên độ cao gần 1.500 m giữa dãy Trường Sơn, được ví như 'Sa Pa của xứ Nghệ'. Nơi đây có khí hậu mát mẻ quanh năm, mây mù bao phủ, bản làng người Mông và cảnh sắc núi rừng hoang sơ, hùng vĩ.",
+    "presentation_short_en": "Muong Long is an upland commune in the border district of Ky Son, at nearly 1,500 metres in the Truong Son range, likened to the 'Sa Pa of Nghe An'. It has a cool climate year-round, drifting mist, Hmong villages and wild, majestic mountain scenery.",
+    "presentation_short_ru": "Мыонглонг — горная община в приграничном уезде Кишон, на высоте почти 1500 метров в хребте Чыонгшон, которую сравнивают с «Сапой Нгеана». Здесь прохладный климат круглый год, плывущий туман, деревни хмонгов и дикие, величественные горные пейзажи.",
+    "presentation_long_vi": "Mường Lống là một xã vùng cao thuộc huyện Kỳ Sơn – huyện biên giới cực tây của tỉnh Nghệ An, giáp với nước bạn Lào. Nằm trong một thung lũng trên độ cao trung bình khoảng 1.400–1.500 m so với mực nước biển, giữa những dãy núi cao của Trường Sơn, Mường Lống có khí hậu mát mẻ, se lạnh quanh năm, thường xuyên chìm trong mây mù, nên được nhiều người ví như 'Sa Pa' hay 'cổng trời' của xứ Nghệ. Cảnh quan nơi đây mang vẻ đẹp hoang sơ, hùng vĩ với núi non trùng điệp, những thửa ruộng bậc thang, vườn mận, đào và các bản làng của đồng bào dân tộc Mông sinh sống lâu đời. Đến Mường Lống, du khách có thể trải nghiệm không khí trong lành, săn mây trên các đỉnh núi, ngắm bình minh và hoàng hôn tuyệt đẹp, khám phá đời sống, trang phục, ẩm thực và các phong tục độc đáo của người Mông. Vào mùa xuân, hoa mận, hoa đào nở trắng hồng khắp các sườn đồi tạo nên khung cảnh nên thơ; mùa lúa chín, ruộng bậc thang lại nhuộm vàng thung lũng. Dù đường lên Mường Lống khá xa và quanh co, hiểm trở, nhưng vẻ đẹp nguyên sơ cùng bản sắc văn hóa vùng cao khiến nơi đây ngày càng hấp dẫn du khách ưa khám phá, đặc biệt là giới trẻ đam mê 'phượt' và du lịch trải nghiệm ở miền Tây Nghệ An.",
+    "presentation_long_en": "Muong Long is an upland commune in Ky Son, the far-western border district of Nghe An bordering Laos. Set in a valley at an average altitude of about 1,400-1,500 metres among the high mountains of the Truong Son range, Muong Long has a cool, chilly climate year-round and is often shrouded in mist, so many liken it to the 'Sa Pa' or 'heaven's gate' of Nghe An. Its scenery is wild and majestic, with layered mountains, terraced fields, plum and peach gardens, and long-settled villages of the Hmong people. In Muong Long, visitors can enjoy fresh air, chase clouds on the peaks, watch beautiful sunrises and sunsets, and explore the life, dress, cuisine and unique customs of the Hmong. In spring, plum and peach blossoms bloom white and pink across the slopes for a poetic scene; in the ripe-rice season, the terraces turn the valley golden. Although the road up is quite long, winding and rugged, the pristine beauty and upland cultural identity make it increasingly appealing to explorers, especially young backpackers and experiential travellers in western Nghe An.",
+    "presentation_long_ru": "Мыонглонг — горная община в Кишоне, крайнем западном приграничном уезде Нгеана, граничащем с Лаосом. Расположенная в долине на средней высоте около 1400-1500 метров среди высоких гор хребта Чыонгшон, Мыонглонг имеет прохладный, зябкий климат круглый год и часто окутана туманом, поэтому многие сравнивают её с «Сапой» или «небесными вратами» Нгеана. Её пейзажи дики и величественны: гряды гор, террасные поля, сливовые и персиковые сады и издавна обжитые деревни народа хмонг. В Мыонглонге гости могут наслаждаться свежим воздухом, ловить облака на вершинах, встречать красивые восходы и закаты и знакомиться с жизнью, одеждой, кухней и самобытными обычаями хмонгов. Весной сливовый и персиковый цвет распускается белым и розовым по склонам, создавая поэтичную картину; в сезон спелого риса террасы золотят долину. Хотя дорога наверх довольно длинна, извилиста и труднопроходима, первозданная красота и горная культурная самобытность делают это место всё более привлекательным для исследователей, особенно молодых бэкпекеров и любителей опытного туризма на западе Нгеана.",
+    "highlights_vi": [
+      "Thung lũng vùng cao ~1.500 m, 'Sa Pa của xứ Nghệ', mát mẻ quanh năm",
+      "Săn mây, ruộng bậc thang, vườn mận đào, bản người Mông",
+      "Mùa xuân hoa mận, hoa đào nở; mùa lúa chín ruộng bậc thang vàng"
+    ],
+    "highlights_en": [
+      "An upland valley at ~1,500 m, the 'Sa Pa of Nghe An', cool year-round",
+      "Cloud-hunting, terraced fields, plum and peach gardens, Hmong villages",
+      "Plum and peach blossoms in spring; golden terraces at harvest"
+    ],
+    "highlights_ru": [
+      "Горная долина ~1500 м, «Сапа Нгеана», прохладная круглый год",
+      "Охота за облаками, террасы, сливовые и персиковые сады, деревни хмонгов",
+      "Весной цветение сливы и персика; золотые террасы в жатву"
+    ],
+    "practical": {
+      "hours_vi": "Cả ngày (điểm đến vùng cao); nên lưu trú qua đêm.",
+      "ticket_vi": "Miễn phí (chi phí lưu trú, dịch vụ homestay).",
+      "duration_vi": "Nên đi 2 ngày 1 đêm.",
+      "best_time_vi": "Mùa hoa mận đào (khoảng tháng 1–2) và mùa lúa chín; sáng sớm săn mây.",
+      "tips_vi": "Đường xa, đèo dốc, đi xe khỏe và lái vững; mang áo ấm; đặt homestay bản Mông trước; tôn trọng phong tục địa phương."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (VI) — Mường Lống",
+        "url": "https://vi.wikipedia.org/wiki/M%C6%B0%E1%BB%9Dng_L%E1%BB%91ng"
+      }
+    ],
+    "tags": [
+      "nature",
+      "mountain",
+      "viewpoint",
+      "ethnic",
+      "trekking",
+      "outdoor",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Muong%20Long%2C%20Nghe%20An%2C%20Vietnam&ll=104.19,19.36&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Muong%20Long%2C%20Nghe%20An%2C%20Vietnam"
+    }
+  },
+  {
+    "id": "vn-nghe-an-rung-sang-le-tuong-duong",
+    "slug": "rung-sang-le-tuong-duong",
+    "region": "vn-nghe-an",
+    "country": "vietnam",
+    "region_name_vi": "Nghệ An",
+    "federal_district": "Miền Trung",
+    "name_vi": "Rừng săng lẻ Tương Dương",
+    "name_ru": "Лес санглэ (лагерстрёмии), Тыонгзыонг",
+    "name_en": "Sang Le (Crape-myrtle) Forest, Tuong Duong",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 19.19,
+      "lon": 104.64
+    },
+    "address_vi": "Xã Tam Đình, huyện Tương Dương, tỉnh Nghệ An",
+    "rating": {
+      "value": 4.4,
+      "count": 400,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Rừng săng lẻ cổ thụ thẳng tắp bên Quốc lộ 7, cao vút, xanh mát; khung cảnh nên thơ, độc đáo. Điểm dừng chân chụp ảnh, nghỉ mát khi đi miền Tây Nghệ An.",
+    "presentation_short_vi": "Rừng săng lẻ Tương Dương là khu rừng cây săng lẻ (bằng lăng rừng) cổ thụ hàng trăm năm tuổi, thân cao thẳng tắp bên Quốc lộ 7, thuộc huyện Tương Dương. Rừng cây độc đáo, xanh mát, tạo khung cảnh nên thơ và là điểm dừng chân quen thuộc trên hành trình lên miền Tây xứ Nghệ.",
+    "presentation_short_en": "The Sang Le Forest in Tuong Duong is a stand of centuries-old crape-myrtle (sang le) trees, tall and straight, beside National Highway 7 in Tuong Duong district. This unusual, cool green forest forms a poetic scene and a familiar stop on the way into western Nghe An.",
+    "presentation_short_ru": "Лес санглэ в Тыонгзыонге — роща вековых деревьев лагерстрёмии (санглэ), высоких и прямых, у национального шоссе 7 в уезде Тыонгзыонг. Этот необычный прохладный зелёный лес образует поэтичную картину и привычную остановку на пути в западный Нгеан.",
+    "presentation_long_vi": "Rừng săng lẻ Tương Dương nằm ở xã Tam Đình, huyện Tương Dương, ngay bên Quốc lộ 7 – tuyến đường huyết mạch lên các huyện miền Tây Nghệ An và sang cửa khẩu Nậm Cắn (Lào), cách thành phố Vinh khoảng 150 km. Đây là một khu rừng đặc biệt với quần thể cây săng lẻ (còn gọi là bằng lăng rừng) cổ thụ, nhiều cây đã hàng trăm năm tuổi, thân cao thẳng tắp, vươn lên tới vài chục mét, tán lá xanh mát rợp bóng cả một vùng. Điều đặc biệt là rừng gần như thuần loài săng lẻ, tạo nên cảnh quan hiếm có với những hàng cây cao vút, thẳng đứng như những cột chống trời, ánh nắng xuyên qua kẽ lá tạo khung cảnh huyền ảo, nên thơ. Vào mùa săng lẻ ra hoa (khoảng cuối hè), rừng điểm xuyết sắc tím hồng của hoa bằng lăng rừng càng thêm quyến rũ; mùa cây thay lá, rừng lại khoác lên vẻ đẹp khác lạ. Nhờ vẻ đẹp độc đáo và vị trí thuận tiện ngay ven đường, rừng săng lẻ trở thành điểm dừng chân lý tưởng để du khách nghỉ ngơi, tránh nắng, hít thở không khí trong lành và chụp ảnh trên hành trình khám phá miền Tây Nghệ An. Khu rừng cũng gắn với đời sống của đồng bào Thái địa phương và được gìn giữ như một 'báu vật xanh' của huyện Tương Dương.",
+    "presentation_long_en": "The Sang Le Forest in Tuong Duong lies in Tam Dinh commune, Tuong Duong district, right beside National Highway 7, the key route into the western districts of Nghe An and on to the Nam Can border gate with Laos, about 150 km from Vinh City. It is a special forest with a stand of ancient sang le (forest crape-myrtle) trees, many centuries old, their trunks tall and straight, rising tens of metres, their cool green canopy shading a whole area. Remarkably, the forest is almost purely sang le, creating a rare landscape of soaring, upright trees like pillars propping up the sky, with sunlight filtering through the leaves for a magical, poetic effect. When the sang le blooms (around late summer), the forest is touched with the pink-purple of forest crape-myrtle flowers, all the more enchanting; when the trees change their leaves, the forest takes on another kind of beauty. Thanks to its unique beauty and convenient roadside location, the Sang Le Forest has become an ideal stop for visitors to rest, escape the sun, breathe fresh air and take photos while exploring western Nghe An. The forest is also bound to the life of the local Thai people and is preserved as a 'green treasure' of Tuong Duong district.",
+    "presentation_long_ru": "Лес санглэ в Тыонгзыонге находится в общине Тамдинь уезда Тыонгзыонг, прямо у национального шоссе 7 — ключевой дороги в западные уезды Нгеана и далее к пограничному переходу Намкан с Лаосом, примерно в 150 км от города Винь. Это особый лес с рощей вековых деревьев санглэ (лесная лагерстрёмия), многим из которых сотни лет; их стволы высоки и прямы, поднимаются на десятки метров, а прохладный зелёный полог затеняет целую местность. Примечательно, что лес почти чисто санглэ, что создаёт редкий пейзаж из взмывающих ввысь прямых деревьев, словно колонн, подпирающих небо, где солнечный свет, пробиваясь сквозь листья, даёт волшебный, поэтичный эффект. Когда санглэ цветёт (примерно в конце лета), лес трогает розово-фиолетовый цвет лесной лагерстрёмии, ещё более чарующий; когда деревья меняют листву, лес обретает иную красоту. Благодаря уникальной красоте и удобному расположению у дороги лес санглэ стал идеальной остановкой, где гости могут отдохнуть, укрыться от солнца, подышать свежим воздухом и фотографировать во время путешествия по западному Нгеану. Лес также связан с жизнью местного народа тхай и сохраняется как «зелёное сокровище» уезда Тыонгзыонг.",
+    "highlights_vi": [
+      "Rừng săng lẻ cổ thụ thuần loài, cao thẳng tắp bên Quốc lộ 7",
+      "Cảnh quan hiếm có, nên thơ; mùa hoa điểm sắc tím hồng",
+      "Điểm dừng chân nghỉ mát, chụp ảnh khi đi miền Tây Nghệ An"
+    ],
+    "highlights_en": [
+      "A pure stand of tall, straight ancient crape-myrtle by Highway 7",
+      "A rare, poetic landscape; touched with pink-purple flowers in bloom",
+      "A rest and photo stop on the way into western Nghe An"
+    ],
+    "highlights_ru": [
+      "Чистая роща высоких прямых вековых лагерстрёмий у шоссе 7",
+      "Редкий, поэтичный пейзаж; в цвету — розово-фиолетовые оттенки",
+      "Остановка для отдыха и фото по пути в западный Нгеан"
+    ],
+    "practical": {
+      "hours_vi": "Cả ngày (ven Quốc lộ 7).",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 20–40 phút.",
+      "best_time_vi": "Mùa hoa săng lẻ cuối hè; ban ngày nắng xuyên kẽ lá đẹp.",
+      "tips_vi": "Dừng xe nơi an toàn ven đường; kết hợp hành trình lên Mường Lống, cửa khẩu Nậm Cắn."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (VI) — Tương Dương",
+        "url": "https://vi.wikipedia.org/wiki/T%C6%B0%C6%A1ng_D%C6%B0%C6%A1ng"
+      }
+    ],
+    "tags": [
+      "nature",
+      "forest",
+      "viewpoint",
+      "outdoor",
+      "daytrip"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Sang%20Le%20Forest%2C%20Tuong%20Duong%2C%20Nghe%20An%2C%20Vietnam&ll=104.64,19.19&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Sang%20Le%20Forest%2C%20Tuong%20Duong%2C%20Nghe%20An%2C%20Vietnam"
+    }
+  },
+  {
+    "id": "vn-nghe-an-km0-duong-ho-chi-minh",
+    "slug": "km0-duong-ho-chi-minh",
+    "region": "vn-nghe-an",
+    "country": "vietnam",
+    "region_name_vi": "Nghệ An",
+    "federal_district": "Miền Trung",
+    "name_vi": "Cột mốc Km số 0 đường Hồ Chí Minh (Tân Kỳ)",
+    "name_ru": "Нулевой километр тропы Хо Ши Мина (Танки)",
+    "name_en": "Kilometre Zero of the Ho Chi Minh Trail (Tan Ky)",
+    "categories": [
+      "monument",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 19.035,
+      "lon": 105.205
+    },
+    "address_vi": "Thị trấn Tân Kỳ, huyện Tân Kỳ, tỉnh Nghệ An",
+    "rating": {
+      "value": 4.5,
+      "count": 500,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Cột mốc khởi đầu 'đường Trường Sơn' huyền thoại; di tích lịch sử ý nghĩa. Không gian trang trọng, hợp tìm hiểu lịch sử kháng chiến; nhiều đoàn về nguồn ghé thăm.",
+    "presentation_short_vi": "Cột mốc Km số 0 ở thị trấn Tân Kỳ là điểm khởi đầu của đường Trường Sơn – đường Hồ Chí Minh huyền thoại, tuyến chi viện chiến lược cho miền Nam trong kháng chiến chống Mỹ. Đây là di tích lịch sử quốc gia, biểu tượng của con đường huyền thoại thời chiến.",
+    "presentation_short_en": "Kilometre Zero in Tan Ky town marks the starting point of the Truong Son Road, the legendary Ho Chi Minh Trail that supplied the South during the war against America. It is a national historical relic and a symbol of that legendary wartime route.",
+    "presentation_short_ru": "Нулевой километр в посёлке Танки отмечает начало Дороги Чыонгшон — легендарной тропы Хо Ши Мина, снабжавшей Юг во время войны против США. Это национальный исторический памятник и символ той легендарной военной дороги.",
+    "presentation_long_vi": "Cột mốc Km số 0 nằm ở thị trấn Tân Kỳ, huyện Tân Kỳ, được xác định là điểm khởi đầu (cây số 0) của tuyến đường Trường Sơn – đường Hồ Chí Minh lịch sử. Trong cuộc kháng chiến chống Mỹ cứu nước, đây là nơi bắt đầu của tuyến đường vận tải chiến lược huyền thoại, kéo dài hàng nghìn ki-lô-mét xuyên dãy Trường Sơn, qua cả đất Lào và Campuchia, làm nhiệm vụ chi viện sức người, sức của từ hậu phương miền Bắc cho tiền tuyến miền Nam. Con đường này gắn liền với biết bao gian khổ, hy sinh của bộ đội, thanh niên xung phong, dân công hỏa tuyến và trở thành biểu tượng bất khuất của ý chí thống nhất đất nước. Để ghi dấu ý nghĩa lịch sử ấy, cột mốc Km số 0 đã được dựng lên tại Tân Kỳ và khu vực này được xếp hạng di tích lịch sử quốc gia. Ngày nay, nơi đây có cột mốc, tượng đài và khuôn viên được xây dựng khang trang, trang nghiêm. Du khách, cựu chiến binh và các đoàn học sinh, sinh viên thường tìm đến để tham quan, chụp ảnh lưu niệm bên cột mốc, dâng hương tưởng nhớ và ôn lại một trang sử hào hùng của dân tộc. Cột mốc Km số 0 không chỉ là điểm đến lịch sử mà còn là nơi giáo dục truyền thống cách mạng, khơi dậy lòng tự hào và biết ơn đối với các thế hệ cha anh.",
+    "presentation_long_en": "Kilometre Zero stands in Tan Ky town, Tan Ky district, marked as the starting point (kilometre zero) of the historic Truong Son Road, the Ho Chi Minh Trail. During the war of resistance against America, this was the beginning of the legendary strategic transport route that ran thousands of kilometres through the Truong Son range and across Laos and Cambodia, carrying manpower and supplies from the northern rear to the southern front. The road is bound up with the hardship and sacrifice of soldiers, youth volunteers and frontline labourers and became an indomitable symbol of the will to reunify the country. To mark this historical significance, the Kilometre Zero marker was erected in Tan Ky and the area was ranked a national historical relic. Today it has a marker, a monument and a dignified, well-built compound. Visitors, veterans and school and student groups often come to sightsee, take souvenir photos by the marker, offer incense in remembrance and revisit a heroic chapter of the nation's history. Kilometre Zero is not only a historical destination but also a place of revolutionary education that awakens pride and gratitude toward earlier generations.",
+    "presentation_long_ru": "Нулевой километр стоит в посёлке Танки уезда Танки и обозначен как начальная точка (нулевой километр) исторической Дороги Чыонгшон — тропы Хо Ши Мина. Во время войны сопротивления против США это было начало легендарного стратегического транспортного маршрута, тянувшегося на тысячи километров через хребет Чыонгшон и по территории Лаоса и Камбоджи, доставлявшего людей и грузы из северного тыла на южный фронт. Дорога связана с лишениями и жертвами солдат, молодых добровольцев и фронтовых рабочих и стала несокрушимым символом воли к объединению страны. Чтобы отметить это историческое значение, в Танки был установлен знак нулевого километра, а район получил статус национального исторического памятника. Сегодня здесь есть знак, монумент и благоустроенный, торжественный комплекс. Гости, ветераны и школьные и студенческие группы часто приезжают осмотреть, сфотографироваться на память у знака, воскурить благовония в память и вновь пережить героическую страницу истории народа. Нулевой километр — не только историческое место, но и точка революционного воспитания, пробуждающая гордость и благодарность к прежним поколениям.",
+    "highlights_vi": [
+      "Điểm khởi đầu (Km0) của đường Trường Sơn – đường Hồ Chí Minh huyền thoại",
+      "Tuyến chi viện chiến lược cho miền Nam thời chống Mỹ",
+      "Di tích lịch sử quốc gia; có cột mốc, tượng đài để tưởng niệm"
+    ],
+    "highlights_en": [
+      "The starting point (Km0) of the legendary Truong Son / Ho Chi Minh Trail",
+      "A strategic supply route to the South in the war against America",
+      "A national relic with a marker and monument for remembrance"
+    ],
+    "highlights_ru": [
+      "Начальная точка (Км0) легендарной Дороги Чыонгшон / тропы Хо Ши Мина",
+      "Стратегический маршрут снабжения Юга во время войны с США",
+      "Национальный памятник со знаком и монументом для памяти"
+    ],
+    "practical": {
+      "hours_vi": "Ban ngày.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 30–45 phút.",
+      "best_time_vi": "Quanh năm; dịp lễ 30/4, 27/7, 19/5 nhiều đoàn về nguồn.",
+      "tips_vi": "Giữ trang nghiêm; nên nghe thuyết minh; kết hợp khám phá vùng Tân Kỳ."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (VI) — Đường Trường Sơn",
+        "url": "https://vi.wikipedia.org/wiki/%C4%90%C6%B0%E1%BB%9Dng_Tr%C6%B0%E1%BB%9Dng_S%C6%A1n"
+      }
+    ],
+    "tags": [
+      "history",
+      "monument",
+      "memorial",
+      "culture",
+      "outdoor"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Kilometre%20Zero%20of%20the%20Ho%20Chi%20Minh%20Trail%2C%20Nghe%20An%2C%20Vietnam&ll=105.205,19.035&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kilometre%20Zero%20of%20the%20Ho%20Chi%20Minh%20Trail%2C%20Nghe%20An%2C%20Vietnam"
+    }
   }
 ]
