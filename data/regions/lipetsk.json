@@ -42,8 +42,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Ascension%20Cathedral%20in%20Yelets.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=38.5019,52.6224&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=52.6224,38.5019"
+      "yandex": "https://yandex.com/maps/?text=%D0%95%D0%BB%D0%B5%D1%86&ll=38.5019,52.6224&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Yelets%20Historic%20Town%2C%20Lipetsk%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -61,7 +61,8 @@
       "lace"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "lipetsk-zadonsk-nativity-monastery",
@@ -104,8 +105,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Church%20of%20Our%20Lady%20of%20Vladimir%20%28Zadonsk%29.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=38.916,52.3924&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=52.3924,38.916"
+      "yandex": "https://yandex.com/maps/?text=%D0%97%D0%B0%D0%B4%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%BE-%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C&ll=38.916,52.3924&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Zadonsk%20Nativity-of-the-Mother-of-God%20Monastery%2C%20Lipetsk%2C%20Russia"
     },
     "official_site": "https://zadonsk-monastyr.ru",
     "sources": [
@@ -123,7 +124,8 @@
       "bell-tower"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "lipetsk-kudykina-gora-safari-park",
@@ -167,8 +169,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Zmei%20Gorinich%20%28colour%20fixed%29.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=38.771867,52.367845&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=52.367845,38.771867"
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D1%80%D0%BA%20%C2%AB%D0%9A%D1%83%D0%B4%D1%8B%D0%BA%D0%B8%D0%BD%D0%B0%20%D0%B3%D0%BE%D1%80%D0%B0%C2%BB&ll=38.771867,52.367845&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kudykina%20Gora%20Safari%20Park%2C%20Lipetsk%2C%20Russia"
     },
     "official_site": "https://kudikina-gora.org",
     "sources": [
@@ -186,7 +188,8 @@
       "nature"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "lipetsk-galichya-gora-reserve",
@@ -229,8 +232,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%92%D0%B8%D0%B4%20%D0%B7%D0%B0%20%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA%20%D0%93%D0%B0%D0%BB%D0%B8%D1%87%D1%8C%D1%8F%20%D0%93%D0%BE%D1%80%D0%B0.%20%D0%A1%D0%BA%D0%B0%D0%BB%D1%8B.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=38.92833,52.60139&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=52.60139,38.92833"
+      "yandex": "https://yandex.com/maps/?text=%D0%93%D0%B0%D0%BB%D0%B8%D1%87%D1%8C%D1%8F%20%D0%B3%D0%BE%D1%80%D0%B0&ll=38.92833,52.60139&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Galichya%20Gora%20Nature%20Reserve%2C%20Lipetsk%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -248,7 +251,8 @@
       "scenic"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "lipetsk-ascension-cathedral-yelets",
@@ -291,8 +295,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%95%D0%BB%D0%B5%D1%86%2C%20%D0%92%D0%BE%D0%B7%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D0%B1%D0%BE%D1%80%2C%20%D0%B1%D1%8B%D0%BB%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%20%D0%B2%201889%20%D0%B3%D0%BE%D0%B4%D1%83.%20-%20panoramio%20%281%29.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=38.505556,52.624444&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=52.624444,38.505556"
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D0%BE%D0%B7%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D0%B1%D0%BE%D1%80%20%28%D0%95%D0%BB%D0%B5%D1%86%29&ll=38.505556,52.624444&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Ascension%20Cathedral%2C%20Yelets%2C%20Lipetsk%2C%20Russia"
     },
     "official_site": "https://sobor-elec.cerkov.ru",
     "sources": [
@@ -309,7 +313,8 @@
       "landmark"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "lipetsk-nizhny-park-lipetsk",
@@ -352,8 +357,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=39.600779,52.606226&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=52.606226,39.600779"
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9%20%D0%BF%D0%B0%D1%80%D0%BA&ll=39.600779,52.606226&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Nizhny%20Park%20%28Lipetsk%20spa%20resort%29%2C%20Russia"
     },
     "official_site": "https://parki48.ru",
     "sources": [
@@ -371,7 +376,8 @@
       "promenade"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "lipetsk-vorgol-rocks",
@@ -415,8 +421,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=38.352222,52.575278&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=52.575278,38.352222"
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D0%BE%D1%80%D0%B3%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B5%20%D1%81%D0%BA%D0%B0%D0%BB%D1%8B&ll=38.352222,52.575278&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Vorgol%20Rocks%2C%20Lipetsk%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -434,6 +440,7 @@
       "camping"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   }
 ]

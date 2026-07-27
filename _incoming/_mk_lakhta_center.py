@@ -1,0 +1,137 @@
+# -*- coding: utf-8 -*-
+"""Builder: doc_lakhta-center.json — nội dung nguyên gốc tiếng Việt."""
+import json, os
+HERE = os.path.dirname(os.path.abspath(__file__))
+
+d = {
+ "slug": "lakhta-center",
+ "name_vi": "Trung tâm Lakhta",
+ "name_ru": "Лахта-центр",
+ "name_en": "Lakhta Center",
+ "subtitle": "Toà nhà chọc trời cao 462 mét bên Vịnh Phần Lan — công trình cao nhất nước Nga và cả châu Âu, trụ sở tập đoàn Gazprom và là biểu tượng kiến trúc tương lai của Sankt-Peterburg.",
+ "sections": [
+  {"heading": "Giới thiệu chung", "paras": [
+   "Trung tâm Lakhta (tiếng Nga: Лахта-центр) là toà nhà chọc trời cao nhất nước Nga và cũng là công trình cao nhất toàn châu Âu, với chiều cao kiến trúc lên tới 462 mét và 87 tầng nổi. Sừng sững bên bờ Vịnh Phần Lan ở phía tây bắc Sankt-Peterburg, toà tháp xoắn ốc bằng kính này là một tuyên ngôn táo bạo về tham vọng và năng lực kỹ thuật của nước Nga đương đại.",
+   "Đây là một sự tương phản ngoạn mục với hình ảnh cổ điển quen thuộc của Sankt-Peterburg — thành phố của những cung điện baroque, những nhà thờ mái vòm dát vàng và các quần thể tân cổ điển. Trong khi trung tâm lịch sử được gìn giữ nghiêm ngặt với giới hạn chiều cao nghiêm khắc, thì Lakhta lại vươn lên ở vùng ngoại vi ven vịnh, tạo nên một đường chân trời tương lai hoàn toàn mới cho thành phố.",
+   "Công trình là trụ sở chính của Gazprom — tập đoàn năng lượng khổng lồ của Nga — cùng một tổ hợp đa chức năng bao gồm không gian công cộng, khoa học và văn hoá. Chính vì gắn với Gazprom, toà tháp còn thường được người dân gọi bằng cái tên 'tháp Gazprom', và nó đã trở thành biểu tượng gắn liền với sức mạnh kinh tế của nước Nga hiện đại.",
+   "Với một hướng dẫn viên, Lakhta là cơ hội để kể một câu chuyện khác về Sankt-Peterburg: không chỉ là 'kinh đô phương Bắc' cổ kính của các Sa hoàng, mà còn là một thành phố đang hướng tới tương lai. Toà tháp cũng chứa đựng vô số con số và kỷ lục ấn tượng, luôn khiến du khách phải trầm trồ khi nghe kể.",
+   "Cần lưu ý rằng Lakhta nằm khá xa khu trung tâm lịch sử, và việc tiếp cận các không gian bên trong (đặc biệt đài quan sát) có thể bị giới hạn hoặc cần đăng ký trước. Vì thế, với đa số du khách, đây trước hết là một biểu tượng để ngắm nhìn từ xa — từ vịnh, từ các công viên ven biển hay từ trên cao — hơn là một điểm 'vào trong tham quan' tự do.",
+   "Dù vậy, ngay cả khi chỉ ngắm từ bên ngoài, Lakhta vẫn là một trải nghiệm thị giác đáng nhớ. Hình dáng xoắn mềm mại như một ngọn lửa hay một xoáy nước, lớp kính phản chiếu ánh sáng đổi màu theo thời tiết và giờ trong ngày, khiến toà tháp trông khác nhau mỗi lần nhìn. Vào ban đêm, khi được chiếu sáng, nó trở thành ngọn hải đăng rực rỡ của vùng bờ vịnh."
+  ]},
+  {"heading": "Vị trí & cách di chuyển", "paras": [
+   "Trung tâm Lakhta toạ lạc tại khu Lakhta thuộc quận Primorsky, phía tây bắc Sankt-Peterburg, ngay bên bờ Vịnh Neva của Vịnh Phần Lan. Vị trí ven biển này được lựa chọn có chủ đích, vừa để tránh phá vỡ đường chân trời của trung tâm lịch sử, vừa tạo cho toà tháp một phông nền mặt nước mênh mông tôn lên vẻ hùng vĩ.",
+   "Khoảng cách từ trung tâm lịch sử (khu Cung điện Mùa Đông, Nevsky Prospekt) tới Lakhta vào khoảng 9–10 km về phía tây bắc. Vì nằm ngoài vùng lõi, việc di chuyển tới đây cần nhiều thời gian hơn so với các điểm trung tâm, và du khách nên tính toán lộ trình kỹ để không mất quá nhiều thời gian đi lại.",
+   "Cách phổ biến là kết hợp tàu điện ngầm và xe buýt hoặc taxi. Các ga metro như Begovaya (tuyến số 3) là điểm trung chuyển thuận tiện, từ đó bắt xe buýt hoặc taxi đi tiếp tới khu Lakhta. Taxi và các ứng dụng gọi xe như Yandex Go là lựa chọn tiện lợi nhất, đặc biệt cho đoàn hoặc gia đình, với thời gian di chuyển khoảng 20–40 phút tuỳ điểm xuất phát và giao thông.",
+   "Một trong những cách ngắm Lakhta thú vị nhất lại không phải đến sát chân tháp, mà là chiêm ngưỡng nó từ xa. Từ mũi đảo Vasilievsky, từ các công viên ven biển như Công viên 300 năm Sankt-Peterburg, hay từ các chuyến tàu thuỷ trên vịnh, du khách có thể thu trọn dáng tháp vươn lên khỏi mặt nước — những góc nhìn thường đẹp và ấn tượng hơn cả khi đứng ngay dưới chân.",
+   "Khu vực quanh Lakhta cũng đang được phát triển với các không gian công cộng, công viên, quảng trường và đường dạo ven biển. Tuy nhiên, do đây là một khu đô thị mới còn đang hoàn thiện, du khách nên cập nhật trước về những phần nào đã mở cửa cho công chúng và cách tiếp cận chúng.",
+   "Vì Lakhta nằm xa và việc vào trong hạn chế, lời khuyên thực tế cho hướng dẫn viên là xác định rõ mục tiêu của chuyến đi: nếu chỉ để ngắm và chụp ảnh biểu tượng, có thể chọn một điểm ngắm đẹp từ xa mà không cần tới tận nơi; nếu muốn tới gần hoặc trải nghiệm không gian công cộng, cần kiểm tra thông tin mở cửa và sắp xếp thời gian di chuyển hợp lý trong lịch trình."
+  ]},
+  {"heading": "Lịch sử hình thành và phát triển", "paras": [
+   "Câu chuyện của Lakhta bắt đầu từ một dự án tiền thân đầy tranh cãi mang tên Okhta Center. Ban đầu, Gazprom dự định xây một toà tháp cao khoảng 400 mét ở khu vực gần Tu viện Smolny, ngay trong lòng thành phố. Kế hoạch này lập tức vấp phải sự phản đối dữ dội, bởi trung tâm lịch sử Sankt-Peterburg là Di sản Thế giới được UNESCO công nhận từ năm 1990, và một toà tháp khổng lồ sẽ phá vỡ đường chân trời cổ kính được bảo vệ nghiêm ngặt.",
+   "UNESCO cùng nhiều tổ chức di sản quốc tế đã bày tỏ quan ngại sâu sắc; đường chân trời lịch sử của thành phố thậm chí bị đưa vào danh sách theo dõi các địa điểm bị đe doạ. Trước áp lực lớn, dự án được dời ra khu Lakhta ven vịnh — một quyết định vừa giải toả tranh cãi, vừa mang lại cho toà tháp một vị trí độc lập, không chen lấn với di sản cổ.",
+   "Việc xây dựng chính thức khởi công ngày 30 tháng 10 năm 2012. Công trình do hãng kiến trúc Anh RMJM thiết kế ý tưởng ban đầu, sau đó được Gorproject của Nga tiếp tục phát triển; nhà thầu chính là tập đoàn Rönesans Holding của Thổ Nhĩ Kỳ, phần kính mặt dựng do công ty Josef Gartner của Đức đảm nhận. Đây là một dự án mang tính quốc tế cao về mặt kỹ thuật.",
+   "Quá trình thi công lập nhiều kỷ lục. Móng của toà tháp được đổ bê tông liên tục trong khoảng 49 giờ không nghỉ — một kỷ lục về khối lượng bê tông đổ liền mạch, với gần 20.000 mét khối bê tông. Toàn bộ tổ hợp được chống đỡ bởi hàng nghìn cọc, riêng phần tháp là 264 cọc, cho thấy quy mô nền móng khổng lồ cần thiết cho một công trình cao đến vậy trên nền đất ven biển.",
+   "Ngày 5 tháng 10 năm 2017, khi đạt tới độ cao vượt qua toà tháp Federation ở Moskva, Lakhta chính thức trở thành công trình cao nhất châu Âu. Đến ngày 29 tháng 1 năm 2018, việc lắp đặt phần chóp hoàn tất, đưa toà tháp đạt chiều cao thiết kế 462 mét. Công trình được hoàn thành và đưa vào sử dụng trong năm 2019.",
+   "Toà tháp đạt chứng chỉ công trình xanh LEED cấp Bạch kim (Platinum) vào cuối năm 2018, và giành nhiều giải thưởng kiến trúc – kỹ thuật uy tín trong các năm sau đó. Đến tháng 8 năm 2021, Gazprom hoàn tất việc chuyển đăng ký trụ sở từ Moskva về Sankt-Peterburg, đặt tại Trung tâm Lakhta — một sự kiện có ý nghĩa lớn với kinh tế và vị thế của thành phố.",
+   "Tham vọng chưa dừng lại: đã có kế hoạch xây dựng các giai đoạn tiếp theo, trong đó Lakhta Center II được công bố với chiều cao dự kiến lên tới 703 mét — nếu hoàn thành sẽ nằm trong nhóm cao nhất thế giới và là toà nhà xoắn cao nhất hành tinh. Các kế hoạch này cho thấy khát vọng biến khu Lakhta thành một cụm công trình siêu cao tầng, dù tiến độ thực tế cần được theo dõi và cập nhật thêm."
+  ]},
+  {"heading": "Kiến trúc & đặc điểm nổi bật", "paras": [
+   "Đặc điểm gây ấn tượng nhất của Lakhta là hình dáng xoắn: toà tháp vặn dần khoảng 90 độ từ chân lên đỉnh, tạo nên một khối kiến trúc mềm mại, uyển chuyển như một ngọn lửa đang cháy hay một xoáy nước vươn lên trời. Đây là một trong những toà nhà xoắn cao nhất thế giới, và chính hình thái động này giúp nó trông nhẹ nhàng, thanh thoát dù có quy mô khổng lồ.",
+   "Toàn bộ ý tưởng thiết kế lấy cảm hứng từ chủ đề biển cả — điều rất hợp với Sankt-Peterburg, thành phố cảng do Pyotr Đại đế lập nên. Những đường nét uốn lượn của toà tháp gợi liên tưởng đến dòng nước chảy; các khối nhà đa chức năng phía dưới gợi hình dáng thân tàu; còn vòm lối vào được tạo hình như một con sóng đang cuộn. Chủ đề hàng hải xuyên suốt này gắn kết công trình hiện đại với căn tính lịch sử của thành phố.",
+   "Về kỹ thuật, việc dựng một toà tháp xoắn cao 462 mét trên nền đất ven biển đầy thách thức là một kỳ công. Lớp vỏ kính khổng lồ được thiết kế đặc biệt để chịu được khí hậu ẩm, gió mạnh và lạnh giá của vùng tây bắc nước Nga. Đáng chú ý, để chống đóng băng ở phần chóp cao nhất, các kỹ sư đã thay kính bằng một dạng lưới kim loại, còn kính ở các tầng cao được sưởi ấm để bảo đảm tầm nhìn.",
+   "Toà tháp không đứng một mình mà là hạt nhân của một tổ hợp đa chức năng rộng lớn. Bên cạnh tháp là khối nhà đa năng hình 'boomerang', cùng các công trình phụ trợ, tổng diện tích sàn lên tới hơn 160.000 mét vuông. Tổ hợp được quy hoạch để dành phần đáng kể cho không gian công cộng, giải trí và văn hoá, chứ không chỉ là văn phòng.",
+   "Bên trong, tổ hợp Lakhta được trang bị nhiều tiện ích công cộng ấn tượng: một nhà chiếu hình vũ trụ (planetarium), trung tâm khoa học dành cho trẻ em, trung tâm thể thao, không gian triển lãm, khu hội nghị và các không gian sáng tạo. Ý tưởng là biến toà nhà trụ sở doanh nghiệp thành một điểm đến mở, phục vụ cả cộng đồng chứ không đóng kín.",
+   "Điểm nhấn được nhắc tới nhiều nhất là đài quan sát ở độ cao khoảng 357 mét — một trong những đài quan sát cao nhất châu Âu. Từ đây, tầm nhìn bao quát toàn bộ Vịnh Phần Lan và thành phố Sankt-Peterburg trải rộng phía xa. Tuy nhiên, việc mở cửa đài quan sát cho công chúng có thể theo lịch và điều kiện riêng, nên du khách cần kiểm tra thông tin trước.",
+   "Về mặt bền vững, Lakhta áp dụng nhiều công nghệ tiết kiệm năng lượng, tận dụng nhiệt thừa từ thiết bị để sưởi ấm, sử dụng vật liệu cách âm cách nhiệt hiện đại. Chính những giải pháp này đã mang về cho công trình chứng chỉ xanh LEED cấp cao nhất, cho thấy tham vọng của dự án không chỉ ở chiều cao mà còn ở tính hiện đại và trách nhiệm môi trường."
+  ]},
+  {"heading": "Những điểm nhấn không thể bỏ lỡ", "paras": [
+   "Điểm nhấn đầu tiên và rõ ràng nhất chính là dáng tháp xoắn nhìn từ xa. Từ nhiều điểm quanh vịnh và thành phố, hình bóng thanh mảnh, vặn xoắn của Lakhta vươn lên khỏi đường chân trời tạo nên một hình ảnh khó lẫn — biểu tượng của một Sankt-Peterburg hướng tới tương lai.",
+   "Đài quan sát ở độ cao 357 mét, nếu mở cửa, là trải nghiệm đỉnh cao theo đúng nghĩa đen. Được đứng ở một trong những điểm ngắm cảnh cao nhất châu Âu, phóng tầm mắt ra Vịnh Phần Lan bao la và toàn cảnh thành phố, là một cảm giác choáng ngợp mà ít nơi nào ở Nga mang lại.",
+   "Diện mạo toà tháp về đêm là một điểm nhấn không thể bỏ qua. Khi hệ thống chiếu sáng nghệ thuật được bật, lớp vỏ kính của Lakhta biến thành một màn trình diễn ánh sáng lung linh, đổi màu, phản chiếu xuống mặt nước vịnh. Đây là thời điểm toà tháp đẹp và giàu tính điện ảnh nhất.",
+   "Không gian công cộng dưới chân tháp — quảng trường, công viên, đài phun nước và (theo mùa) sân trượt băng — là điểm nhấn dành cho những ai tới gần. Đây là nơi người dân địa phương dạo chơi, và cũng là chỗ lý tưởng để ngắm toà tháp từ dưới lên, cảm nhận trọn vẹn quy mô khổng lồ của nó.",
+   "Với những ai quan tâm khoa học và giáo dục, nhà chiếu hình vũ trụ và trung tâm khoa học trong tổ hợp là điểm nhấn đặc biệt, nhất là với gia đình có trẻ em. Đây là minh chứng cho ý tưởng biến một toà nhà doanh nghiệp thành không gian tri thức mở cho cộng đồng.",
+   "Cuối cùng, bản thân bộ sưu tập các con số và kỷ lục của Lakhta là một 'điểm nhấn kể chuyện': cao nhất châu Âu, toà nhà xoắn thuộc hàng cao nhất thế giới, toà nhà chọc trời ở vĩ độ cao nhất hành tinh, kỷ lục đổ bê tông móng liên tục... Những dữ kiện này luôn khiến du khách thích thú và giúp họ hình dung rõ tầm vóc của công trình.",
+   "Khi tới gần, một điểm nhấn kiến trúc đáng chú ý là vòm lối vào tạo hình con sóng và cách thân tháp vặn xoắn lộ rõ dần khi ta ngước lên. Đứng sát chân tháp nhìn lên, du khách cảm nhận được rõ nhất hiệu ứng xoắn ốc và sự khổng lồ của công trình — những đường kính uốn cong như cuốn lấy bầu trời. Đây là góc trải nghiệm rất khác so với khi ngắm toàn cảnh từ xa, và cũng là nơi nhiều người thích chụp những bức ảnh 'ngước nhìn' đầy ấn tượng về chiều cao của toà tháp."
+  ]},
+  {"heading": "Ý nghĩa lịch sử – văn hoá", "paras": [
+   "Lakhta là biểu tượng cho một chương mới trong lịch sử phát triển của Sankt-Peterburg. Sau ba thế kỷ được biết đến như một bảo tàng kiến trúc sống của thời đại đế chế, thành phố nay có một công trình đại diện cho khát vọng hiện đại, công nghệ và tầm vóc kinh tế đương đại. Toà tháp đánh dấu sự chuyển mình của thành phố sang thế kỷ 21.",
+   "Câu chuyện di dời dự án từ khu Okhta ra Lakhta cũng mang ý nghĩa văn hoá sâu sắc. Nó cho thấy sức nặng của việc bảo vệ di sản: chính áp lực từ cộng đồng và các tổ chức quốc tế đã buộc phải thay đổi vị trí một dự án khổng lồ, để giữ gìn đường chân trời lịch sử vô giá của thành phố. Đây là một ví dụ đáng suy ngẫm về cách cân bằng giữa phát triển và bảo tồn.",
+   "Về mặt kinh tế và chính trị, việc Gazprom đặt trụ sở tại Lakhta và chuyển đăng ký về Sankt-Peterburg có ý nghĩa lớn, đưa một trong những tập đoàn quyền lực nhất nước Nga về thành phố. Toà tháp vì thế không chỉ là công trình kiến trúc mà còn là biểu tượng cho vai trò kinh tế của Sankt-Peterburg trong bức tranh nước Nga hiện đại.",
+   "Trên bình diện quốc tế, Lakhta đưa Sankt-Peterburg lên bản đồ các thành phố có công trình siêu cao tầng, sánh với những đô thị phát triển mạnh về nhà chọc trời. Việc sở hữu toà nhà cao nhất châu Âu là một niềm tự hào và cũng là công cụ quảng bá hình ảnh cho thành phố cũng như cho nước Nga.",
+   "Về khía cạnh kiến trúc, Lakhta thể hiện xu hướng 'neo-futurism' — chủ nghĩa tương lai mới, với hình khối động, đường cong mềm mại và công nghệ vật liệu tiên tiến. Nó là ví dụ cho thấy kiến trúc đương đại có thể vừa phô diễn kỹ thuật, vừa kể một câu chuyện văn hoá gắn với bản sắc địa phương — ở đây là chủ đề biển cả và truyền thống hàng hải của thành phố.",
+   "Cần trình bày công bằng rằng, như mọi công trình siêu cao tầng đặt cạnh một di sản cổ, Lakhta cũng có những ý kiến trái chiều. Người ủng hộ xem nó là biểu tượng của tiến bộ và niềm tự hào; một số người khác vẫn còn băn khoăn về sự tương phản với vẻ đẹp cổ điển của thành phố. Chính cuộc đối thoại giữa 'cũ' và 'mới' này làm nên chiều sâu văn hoá cho câu chuyện về toà tháp."
+  ]},
+  {"heading": "Trải nghiệm dành cho du khách", "paras": [
+   "Trải nghiệm phổ biến nhất với du khách là ngắm và chụp ảnh toà tháp từ các điểm quan sát quanh vịnh và thành phố. Do quy mô đồ sộ, Lakhta có thể được nhìn thấy từ rất nhiều nơi, và mỗi góc nhìn lại mang một vẻ đẹp riêng — từ cận cảnh hùng vĩ dưới chân tháp tới hình bóng thanh mảnh trên đường chân trời xa.",
+   "Nếu đài quan sát mở cửa, việc lên tầng cao chiêm ngưỡng toàn cảnh là trải nghiệm không thể bỏ lỡ. Tuy nhiên, du khách nên đặt trước và kiểm tra điều kiện tham quan, bởi số lượng khách và khung giờ có thể bị giới hạn. Đây là hoạt động cần lên kế hoạch, không phải thứ có thể 'tiện đường ghé qua' bất cứ lúc nào.",
+   "Khu vực công cộng dưới chân tháp và ven vịnh mang lại trải nghiệm dạo chơi dễ chịu, đặc biệt trong những ngày đẹp trời. Không gian mở rộng rãi, gió biển mát mẻ và tầm nhìn ra vịnh khiến đây trở thành nơi thư giãn thú vị, khác hẳn không khí đông đúc của khu trung tâm lịch sử.",
+   "Với gia đình có trẻ em, các tiện ích như nhà chiếu hình vũ trụ và trung tâm khoa học (nếu tiếp cận được) là điểm cộng lớn, biến chuyến đi thành một trải nghiệm vừa chơi vừa học. Đây là điều khiến Lakhta khác biệt so với nhiều điểm đến 'chỉ để ngắm' khác.",
+   "Một cách trải nghiệm hấp dẫn là kết hợp Lakhta với một chuyến đi thuyền trên Vịnh Phần Lan. Nhìn toà tháp dần hiện ra từ mặt nước, ngày càng lớn khi tàu tiến lại gần, là một cảm giác đặc biệt gợi nhớ hình ảnh những ngọn hải đăng dẫn đường cho tàu thuyền vào cảng.",
+   "Vì Lakhta nằm xa trung tâm, du khách nên xem đây là một 'chuyến đi riêng' cần bố trí thời gian hợp lý, thay vì cố nhồi nhét vào lịch trình dày đặc ở khu lõi. Với những ai eo hẹp thời gian, việc ngắm toà tháp từ xa — chẳng hạn khi đi qua trên đường hoặc từ một điểm cao — cũng đã đủ để cảm nhận sự hiện diện ấn tượng của nó.",
+   "Trải nghiệm ở Lakhta cũng thay đổi rõ rệt theo mùa. Vào mùa hè với hiện tượng 'đêm trắng' đặc trưng của Sankt-Peterburg, bầu trời sáng đến tận khuya khiến việc ngắm và chụp toà tháp trở nên đặc biệt; còn mùa đông, khung cảnh toà tháp kính giữa mặt vịnh đóng băng và tuyết trắng lại mang vẻ đẹp lạnh lùng, siêu thực. Khu vực công cộng dưới chân tháp cũng có các hoạt động theo mùa, mang lại lý do để du khách quay lại vào những thời điểm khác nhau trong năm và cảm nhận toà tháp trong nhiều sắc thái."
+  ]},
+  {"heading": "Mẹo tham quan", "paras": [
+   "Kiểm tra trước thông tin về đài quan sát và các không gian công cộng: điều kiện mở cửa, cách đặt vé, khung giờ và các yêu cầu (như đăng ký trước, giấy tờ tuỳ thân). Vì đây là công trình gắn với trụ sở doanh nghiệp, việc tiếp cận không hoàn toàn tự do như các điểm du lịch thông thường.",
+   "Chọn điểm ngắm phù hợp với mục tiêu. Nếu muốn có bức ảnh toà tháp trên nền vịnh, hãy tới các công viên và bờ biển phía tây thành phố. Nếu muốn thấy toà tháp trong tương quan với thành phố, mũi đảo Vasilievsky và các điểm cao là lựa chọn tốt. Xác định trước sẽ giúp tiết kiệm thời gian di chuyển đáng kể.",
+   "Tính toán thời gian di chuyển. Do Lakhta cách trung tâm khoảng 9–10 km và giao thông có thể đông, nên dự trù thời gian đi lại rộng rãi và cân nhắc dùng taxi/ứng dụng gọi xe cho tiện, nhất là khi đi theo nhóm hoặc mang theo trẻ nhỏ, người lớn tuổi.",
+   "Ưu tiên thời tiết đẹp. Toà tháp và khung cảnh vịnh đẹp nhất vào những ngày trời trong; khi trời mù hoặc mưa, tầm nhìn từ đài quan sát (nếu lên) và chất lượng ảnh đều giảm. Buổi chiều tối cho ánh sáng đẹp và cơ hội ngắm toà tháp lên đèn.",
+   "Kết hợp với các điểm lân cận ở phía tây bắc như Công viên 300 năm Sankt-Peterburg hay khu ven biển để chuyến đi xa trung tâm trở nên đáng công hơn. Việc gộp nhiều điểm cùng khu vực giúp tối ưu quãng đường và thời gian.",
+   "Chuẩn bị trang phục phù hợp: khu vực ven vịnh thường lộng gió và mát hơn trong thành phố, kể cả mùa hè. Một chiếc áo khoác gió mỏng sẽ hữu ích. Và như mọi công trình đang trong quá trình hoàn thiện khu vực xung quanh, nên sẵn sàng cho khả năng một số lối đi hoặc khu vực có thể tạm thời bị rào chắn."
+  ]},
+  {"heading": "Khám phá xung quanh", "paras": [
+   "Gần Lakhta là Công viên 300 năm Sankt-Peterburg — một công viên ven biển rộng lớn được lập nhân dịp kỷ niệm 300 năm thành phố, với bãi cỏ, lối dạo ven vịnh và tầm nhìn tuyệt đẹp ra mặt nước cùng toà tháp Lakhta. Đây là một trong những điểm ngắm và chụp ảnh Lakhta lý tưởng, đồng thời là nơi thư giãn dễ chịu.",
+   "Khu vực quận Primorsky và vùng ven vịnh còn có các không gian mới phát triển, bến du thuyền và những dự án đô thị hiện đại. Với du khách quan tâm tới bộ mặt đương đại của Sankt-Peterburg, đây là nơi để cảm nhận sự khác biệt so với vẻ cổ kính của trung tâm.",
+   "Không xa về phía đảo Krestovsky là sân vận động Gazprom Arena (Sân vận động Sankt-Peterburg) — một công trình thể thao hiện đại từng tổ chức các trận đấu lớn, cùng công viên và khu vui chơi Divo Ostrov. Cả khu vực đảo Krestovsky là một quần thể giải trí, thể thao và cây xanh hấp dẫn.",
+   "Từ khu vực này, du khách cũng có thể hướng tới mũi đảo Vasilievsky, nơi có Cột Rostral và các điểm ngắm toàn cảnh sông Neva đổ ra vịnh — một trong những khung cảnh biểu tượng của thành phố, nơi cái cổ điển và cái hiện đại (với Lakhta phía xa) cùng hiện diện trong một tầm mắt.",
+   "Với những ai muốn kết hợp thiên nhiên, vùng ven Vịnh Phần Lan về phía tây còn có các khu nghỉ, bãi biển và rừng thông đặc trưng của vùng Baltic. Đây là hướng đi thú vị cho những ngày muốn tạm rời phố xá để tận hưởng không khí biển trong lành.",
+   "Cuối cùng, dù Lakhta ở xa trung tâm, đường về thành phố có thể được thiết kế thành một hành trình ngắm cảnh: đi dọc bờ vịnh, qua các cây cầu và tuyến đường ven biển, du khách sẽ thấy Sankt-Peterburg chuyển dần từ diện mạo hiện đại ở ngoại vi sang vẻ cổ kính lộng lẫy nơi trung tâm — một 'lát cắt' trọn vẹn về thành phố nhiều tầng lịch sử này.",
+   "Với những ai yêu biển, khu vực ven Vịnh Phần Lan còn mở ra cơ hội kết nối tới các điểm đến hàng hải nổi tiếng khác của Sankt-Peterburg. Từ thành phố, các chuyến tàu cánh ngầm chạy ra Peterhof với quần thể cung điện và đài phun nước lừng danh, hay tới đảo pháo đài Kronstadt lịch sử ngoài khơi. Việc gắn Lakhta — biểu tượng hàng hải hiện đại — vào một mạch khám phá chủ đề 'Sankt-Peterburg và biển cả' sẽ tạo nên một câu chuyện xuyên suốt, giàu ý nghĩa và hấp dẫn cho du khách."
+  ]},
+  {"heading": "Câu chuyện & giai thoại thú vị", "paras": [
+   "Một trong những câu chuyện đáng nhớ nhất là cuộc 'giằng co' về vị trí toà tháp. Ít ai ngờ rằng biểu tượng hiện đại bên vịnh này lẽ ra đã mọc lên ngay giữa lòng thành phố cổ, gần Tu viện Smolny. Chính làn sóng phản đối vì lo ngại phá vỡ di sản đã đẩy dự án ra tận Lakhta — và nhìn lại, nhiều người cho rằng đó là một 'cái kết có hậu', bởi vị trí ven vịnh hoá ra lại tôn vinh toà tháp đẹp hơn bất kỳ đâu trong trung tâm.",
+   "Kỷ lục đổ bê tông móng của Lakhta là một giai thoại kỹ thuật thú vị: gần 20.000 mét khối bê tông được đổ liên tục trong khoảng 49 giờ không ngừng nghỉ, huy động một 'đội quân' xe bồn và máy bơm khổng lồ hoạt động ngày đêm. Thành tích này từng được ghi nhận như một kỷ lục thế giới về khối lượng bê tông đổ liền mạch, cho thấy quy mô phi thường của công trình ngay từ phần móng.",
+   "Cuộc chiến chống băng giá cho toà tháp cũng là một câu chuyện kỹ thuật hấp dẫn. Ở vĩ độ cao và khí hậu ẩm lạnh của Sankt-Peterburg, nguy cơ đóng băng trên phần chóp cao nhất là có thật và nguy hiểm. Các kỹ sư đã giải bài toán này bằng cách dùng lưới kim loại thay cho kính ở phần chóp và sưởi ấm kính ở các tầng cao — những giải pháp ít ai để ý nhưng lại rất quan trọng.",
+   "Danh xưng 'toà nhà chọc trời ở vĩ độ cao nhất thế giới' cũng là một chi tiết khiến Lakhta trở nên độc đáo. Nằm gần vòng Bắc Cực hơn bất kỳ toà nhà chọc trời nào khác, Lakhta phải đối mặt với những điều kiện thời tiết mà các toà tháp ở vùng ấm áp không bao giờ gặp — từ mùa đông băng giá kéo dài cho tới hiện tượng 'đêm trắng' đặc trưng của phương Bắc.",
+   "Tham vọng về Lakhta Center II cao tới 703 mét cũng là một câu chuyện gây tò mò. Nếu được xây dựng, đây sẽ là toà nhà xoắn cao nhất thế giới và là công trình siêu cao đầu tiên bên ngoài châu Á — một tuyên bố tham vọng táo bạo. Dù kế hoạch còn nhiều ẩn số, chính viễn cảnh ấy đã khiến Lakhta trở thành tâm điểm chú ý của giới kiến trúc quốc tế.",
+   "Cuối cùng, hình ảnh Lakhta như một 'ngọn hải đăng hiện đại' bên Vịnh Phần Lan mang ý nghĩa biểu tượng đẹp đẽ. Với một thành phố cảng do Pyotr Đại đế lập nên để 'mở cửa ra biển', việc toà nhà cao nhất châu Âu lại mọc lên ngay bên mặt nước, mang hình dáng gợi sóng và lửa, như thể nối tiếp giấc mơ hướng biển của người sáng lập thành phố hơn ba thế kỷ trước — một sợi dây liên kết đầy thi vị giữa quá khứ và tương lai."
+  ]}
+ ],
+ "highlights": [
+  "Toà nhà cao nhất nước Nga và châu Âu: 462 m, 87 tầng nổi; toà nhà chọc trời ở vĩ độ cao nhất thế giới; thuộc hàng toà nhà xoắn cao nhất hành tinh.",
+  "Trụ sở tập đoàn Gazprom bên Vịnh Phần Lan (khu Lakhta, quận Primorsky); khởi công 2012, đạt đỉnh 462 m đầu 2018, hoàn thành 2019; đạt chứng chỉ xanh LEED Platinum.",
+  "Thiết kế lấy cảm hứng biển cả, thân tháp xoắn ~90 độ; do RMJM và Gorproject thiết kế, nhà thầu Rönesans Holding (Thổ Nhĩ Kỳ).",
+  "Đài quan sát ~357 m — một trong những đài quan sát cao nhất châu Âu; tổ hợp còn có nhà chiếu hình vũ trụ, trung tâm khoa học, không gian công cộng.",
+  "Tiền thân là dự án Okhta Center gần trung tâm, bị phản đối vì đe doạ di sản UNESCO nên phải dời ra Lakhta; móng lập kỷ lục đổ bê tông liên tục ~49 giờ.",
+  "Nằm cách trung tâm ~9–10 km; ngắm đẹp từ Công viên 300 năm, mũi đảo Vasilievsky hoặc từ vịnh; nên kiểm tra trước điều kiện vào đài quan sát."
+ ],
+ "images": [
+  {"url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gazprom tower (Lakhta Center) St Petersburg. Russia.jpg", "caption": "Trung tâm Lakhta — toà tháp xoắn cao 462 m, công trình cao nhất châu Âu, bên Vịnh Phần Lan."},
+  {"url": "https://commons.wikimedia.org/wiki/Special:FilePath/Saint Petersburg Lakhta center.jpg", "caption": "Toà tháp Lakhta vươn lên khỏi đường chân trời phía tây bắc Sankt-Peterburg."},
+  {"url": "https://commons.wikimedia.org/wiki/Special:FilePath/Saint Petersburg Lakhta center 09.jpg", "caption": "Dáng xoắn đặc trưng của Lakhta nhìn từ phía thành phố."},
+  {"url": "https://commons.wikimedia.org/wiki/Special:FilePath/Das Lachta Zentr- Лахта Центр 2H1A5980WI.jpg", "caption": "Lớp vỏ kính của toà tháp phản chiếu ánh sáng — một màn trình diễn thị giác thay đổi theo thời tiết."},
+  {"url": "https://commons.wikimedia.org/wiki/Special:FilePath/Лахта-центр (июль 2016).jpg", "caption": "Trung tâm Lakhta trong giai đoạn xây dựng (tháng 7/2016)."},
+  {"url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gazprom Headquarters.jpg", "caption": "Trụ sở Gazprom tại Trung tâm Lakhta — biểu tượng kinh tế của Sankt-Peterburg hiện đại."}
+ ],
+ "references": [
+  {"title": "Wikipedia — Lakhta Center", "url": "https://en.wikipedia.org/wiki/Lakhta_Center"},
+  {"title": "Trang chính thức Lakhta Center", "url": "https://lakhta.center/en/"},
+  {"title": "GW2RU — St. Petersburg's Lakhta Center: Europe's tallest building", "url": "https://www.gw2ru.com/arts/2696-petersburg-lakhta-center-"},
+  {"title": "RMJM — Lakhta Center (Russia)", "url": "https://rmjm.com/portfolio/lakhta-center-russia/"},
+  {"title": "Werner Sobek — The Lakhta Center Highrise", "url": "https://www.wernersobek.com/projects/the-lakhta-center/"},
+  {"title": "Dezeen — Kettle Collective plans world's second tallest tower (Lakhta Centre II)", "url": "https://www.dezeen.com/2021/05/26/kettle-collective-lakhta-centre-ii/"},
+  {"title": "Wikimedia Commons — Category: Lakhta Center", "url": "https://commons.wikimedia.org/wiki/Category:Lakhta_Center"}
+ ],
+ "sources": [
+  "Wikipedia (bản tiếng Anh) mục 'Lakhta Center' — chiều cao 462 m, 87 tầng, diện tích sàn 163.000 m², chi phí 1,77 tỷ USD, mốc khởi công 2012 / đạt đỉnh 2018 / hoàn thành 2019, đài quan sát 357 m, 264 cọc cho tháp, LEED Platinum, kế hoạch Lakhta II/III; truy cập 7/2026.",
+  "Trang chính thức lakhta.center — mô tả chủ đề thiết kế biển cả, các tiện ích công cộng (planetarium, trung tâm khoa học, khu triển lãm).",
+  "GW2RU và RMJM — thông tin thiết kế, đơn vị kiến trúc (RMJM, Gorproject) và bối cảnh dự án.",
+  "Werner Sobek và Dezeen — chi tiết kỹ thuật mặt dựng và kế hoạch Lakhta Center II (703 m).",
+  "Bối cảnh dự án tiền thân Okhta Center và phản đối của UNESCO tổng hợp từ Wikipedia (mục Lakhta Center) và các bản tin liên quan; một số kế hoạch tương lai (Lakhta II/III) có thể thay đổi.",
+  "Thông tin giao thông, điểm ngắm và các địa danh lân cận (Công viên 300 năm, đảo Krestovsky, Gazprom Arena, mũi đảo Vasilievsky) tổng hợp từ bản đồ và hướng dẫn du lịch Sankt-Peterburg. Ảnh minh hoạ từ Wikimedia Commons."
+ ]
+}
+
+out = os.path.join(HERE, "doc_lakhta-center.json")
+json.dump(d, open(out, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+wc = sum(len(p.split()) for s in d["sections"] for p in s["paras"])
+print("WROTE", out, "| sections", len(d["sections"]), "| words", wc)

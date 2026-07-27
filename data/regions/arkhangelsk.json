@@ -41,8 +41,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Solovetsky%20Monastery%202001.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=35.71056,65.02444&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=65.02444,35.71056"
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%BE%D0%BB%D0%BE%D0%B2%D0%B5%D1%86%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C&ll=35.71056,65.02444&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Solovetsky%20Monastery%2C%20Arkhangelsk%2C%20Russia"
     },
     "official_site": "http://www.solovki-monastyr.ru/",
     "sources": [
@@ -59,7 +59,8 @@
       "island"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "arkhangelsk-malye-korely",
@@ -103,8 +104,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/RUS-2016-Arkhangelsk-Malye%20Korely-Windmill%20tent%20of%20Dr.%20Kozhposelok.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=40.93833,64.45444&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=64.45444,40.93833"
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D0%B0%D0%BB%D1%8B%D0%B5%20%D0%9A%D0%BE%D1%80%D0%B5%D0%BB%D1%8B&ll=40.93833,64.45444&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Malye%20Korely%20Museum%20of%20Wooden%20Architecture%2C%20Arkhangelsk%2C%20Russia"
     },
     "official_site": "https://korely.ru",
     "sources": [
@@ -122,7 +123,8 @@
       "family"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "arkhangelsk-arkhangelsk-embankment",
@@ -166,8 +168,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Northern%20Dvina%20embankment%2C%20Navy%20boat.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=40.5228,64.534&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=64.534,40.5228"
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F%20%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D0%B9%20%D0%94%D0%B2%D0%B8%D0%BD%D1%8B%2C%20%D0%90%D1%80%D1%85%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D1%8C%D1%81%D0%BA&ll=40.5228,64.534&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Arkhangelsk%20and%20the%20Northern%20Dvina%20Embankment%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -184,7 +186,8 @@
       "viewpoint"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "arkhangelsk-kargopol",
@@ -224,8 +227,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%92%D0%B8%D0%B4%20%D0%BD%D0%B0%20%D0%9A%D0%B0%D1%80%D0%B3%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C%20%D1%81%20%D0%9E%D0%BD%D0%B5%D0%B3%D0%B8.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=38.9486,61.5036&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=61.5036,38.9486"
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D0%B0%D1%80%D0%B3%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C&ll=38.9486,61.5036&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kargopol%2C%20Arkhangelsk%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -242,7 +245,8 @@
       "offbeat"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "arkhangelsk-kenozero-national-park",
@@ -281,8 +285,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Of%20Kenozero%20lake.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=38.19417,62.0775&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=62.0775,38.19417"
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D0%B5%D0%BD%D0%BE%D0%B7%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%B0%D1%80%D0%BA&ll=38.19417,62.0775&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kenozero%20National%20Park%2C%20Arkhangelsk%2C%20Russia"
     },
     "official_site": "https://www.kenozero.ru/en",
     "sources": [
@@ -300,7 +304,8 @@
       "ecotourism"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "arkhangelsk-golubino-pinega-caves",
@@ -339,8 +344,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Arkhangelsk%20Golubino%20Cave.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=43.2836,64.5411&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=64.5411,43.2836"
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B8%D0%BD%D0%B5%D0%B6%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D1%8B%20%28%D0%93%D0%BE%D0%BB%D1%83%D0%B1%D0%B8%D0%BD%D0%BE%29&ll=43.2836,64.5411&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Pinega%20Caves%20/%20Golubino%2C%20Arkhangelsk%2C%20Russia"
     },
     "official_site": "https://golubino.org",
     "sources": [
@@ -358,7 +363,8 @@
       "outdoor"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "arkhangelsk-northern-maritime-museum",
@@ -401,8 +407,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=40.5104,64.5391&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=64.5391,40.5104"
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9&ll=40.5104,64.5391&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Northern%20Maritime%20Museum%2C%20Arkhangelsk%2C%20Russia"
     },
     "official_site": "https://northernmaritime.ru",
     "sources": [
@@ -420,7 +426,8 @@
       "north"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "arkhangelsk-antoniev-siysky-monastery",
@@ -459,8 +466,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9%20%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%B5%D0%B2%D0%BE-%D0%A1%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D1%83%D0%B6%D1%81%D0%BA%D0%BE%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=41.557636,63.552086&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=63.552086,41.557636"
+      "yandex": "https://yandex.com/maps/?text=%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%B5%D0%B2%D0%BE-%D0%A1%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C&ll=41.557636,63.552086&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Antoniev-Siysky%20Monastery%2C%20Arkhangelsk%2C%20Russia"
     },
     "official_site": "http://www.siyamon.ru",
     "sources": [
@@ -478,6 +485,7 @@
       "lake"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   }
 ]

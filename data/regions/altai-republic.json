@@ -40,8 +40,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Teletskoye%20lake.%20Taiga%20massif%20on%20the%20northern%20shore.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=87.71472,51.52917&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=51.52917,87.71472"
+      "yandex": "https://yandex.com/maps/?text=%D0%A2%D0%B5%D0%BB%D0%B5%D1%86%D0%BA%D0%BE%D0%B5%20%D0%BE%D0%B7%D0%B5%D1%80%D0%BE&ll=87.71472,51.52917&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Lake%20Teletskoye%2C%20Altai%20Republic%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -59,7 +59,8 @@
       "waterfall"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "altai-republic-katu-yaryk-pass",
@@ -102,8 +103,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Katu-YarykPass%20101%200305.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=88.2212,50.9088&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=50.9088,88.2212"
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB%20%D0%9A%D0%B0%D1%82%D1%83-%D0%AF%D1%80%D1%8B%D0%BA&ll=88.2212,50.9088&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Katu-Yaryk%20Pass%2C%20Altai%20Republic%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -121,7 +122,8 @@
       "chulyshman"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "altai-republic-multinskiye-lakes",
@@ -164,8 +166,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Middle%20Multinskoe%20-%20Panoramic.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=85.830765,49.999259&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=49.999259,85.830765"
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BE%D0%B7%D1%91%D1%80%D0%B0&ll=85.830765,49.999259&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Multinskiye%20Lakes%2C%20Altai%20Republic%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -183,7 +185,8 @@
       "katunsky"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "altai-republic-mount-belukha",
@@ -226,8 +229,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Belucha%20mountain.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=86.59,49.8075&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=49.8075,86.59"
+      "yandex": "https://yandex.com/maps/?text=%D0%93%D0%BE%D1%80%D0%B0%20%D0%91%D0%B5%D0%BB%D1%83%D1%85%D0%B0&ll=86.59,49.8075&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Mount%20Belukha%2C%20Altai%20Republic%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -245,7 +248,8 @@
       "mountaineering"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "altai-republic-chemal-patmos-island",
@@ -288,8 +292,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Skala-of-patmos.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=86.000556,51.398606&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=51.398606,86.000556"
+      "yandex": "https://yandex.com/maps/?text=%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%20%D0%9F%D0%B0%D1%82%D0%BC%D0%BE%D1%81%20%28%D0%A7%D0%B5%D0%BC%D0%B0%D0%BB%29&ll=86.000556,51.398606&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Patmos%20Island%20%28Chemal%29%2C%20Altai%20Republic%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -307,7 +311,8 @@
       "chemal"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "altai-republic-blue-geyser-lake",
@@ -350,8 +355,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=87.673044,50.290252&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=50.290252,87.673044"
+      "yandex": "https://yandex.com/maps/?text=%D0%93%D0%B5%D0%B9%D0%B7%D0%B5%D1%80%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B7%D0%B5%D1%80%D0%BE&ll=87.673044,50.290252&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Geyser%20Lake%20%28Blue%20Geyser%20Lake%29%2C%20Altai%20Republic%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -369,7 +374,8 @@
       "chuysky-trakt"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "altai-republic-kalbak-tash-petroglyphs",
@@ -412,8 +418,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=86.81821,50.40102&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=50.40102,86.81821"
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D0%B0%D0%BB%D0%B1%D0%B0%D0%BA-%D0%A2%D0%B0%D1%88&ll=86.81821,50.40102&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kalbak-Tash%20Petroglyphs%2C%20Altai%20Republic%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -431,7 +437,8 @@
       "chuysky-trakt"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "altai-republic-aya-lake",
@@ -474,8 +481,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=85.853738,51.904794&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=51.904794,85.853738"
+      "yandex": "https://yandex.com/maps/?text=%D0%90%D0%B9%D1%81%D0%BA%D0%BE%D0%B5%20%D0%BE%D0%B7%D0%B5%D1%80%D0%BE%20%28%D0%9E%D0%B7%D0%B5%D1%80%D0%BE%20%D0%90%D1%8F%29&ll=85.853738,51.904794&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Lake%20Aya%2C%20Altai%20Republic%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -493,6 +500,7 @@
       "resort"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   }
 ]

@@ -1,0 +1,161 @@
+# -*- coding: utf-8 -*-
+"""Builder: doc_sanduny-baths.json — Nhà tắm hơi Sanduny (Moskva).
+Nội dung biên soạn nguyên gốc tiếng Việt, tổng hợp từ nguồn công khai (xem 'sources').
+"""
+import json, os, urllib.parse
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+
+def img(fname, caption):
+    url = "https://commons.wikimedia.org/wiki/Special:FilePath/" + urllib.parse.quote(fname)
+    return {"url": url, "caption": caption}
+
+doc = {
+    "slug": "sanduny-baths",
+    "name_vi": "Nhà tắm hơi Sanduny (Sandunovskie Bani)",
+    "name_ru": "Сандуновские бани",
+    "name_en": "Sanduny Baths (Sandunovskie Bani)",
+    "subtitle": "Nhà tắm hơi (banya) lâu đời và lộng lẫy nhất Moskva, hoạt động liên tục từ năm 1808. Toà nhà kiểu chiết trung xa hoa năm 1896 với cầu thang cẩm thạch, phù điêu mạ vàng và bể bơi kiểu La Mã từng được danh ca Fyodor Chaliapin phong là 'Sa hoàng của các nhà tắm' — vừa là di sản kiến trúc, vừa là trải nghiệm văn hoá tắm hơi Nga đích thực.",
+    "sections": [],
+    "highlights": [
+        "Nhà tắm hơi công cộng lâu đời và sang trọng nhất Moskva, mở cửa từ năm 1808 và hoạt động liên tục đến nay.",
+        "Do diễn viên gốc Gruzia Sila Sandunov sáng lập — kinh phí đến từ việc bán bộ nữ trang kim cương mà Nữ hoàng Ekaterina II tặng vợ ông, danh ca Elizaveta Uranova.",
+        "Diện mạo lộng lẫy hiện nay có từ đợt tái thiết năm 1896 do kiến trúc sư Boris Freudenberg khởi xướng: cầu thang cẩm thạch, trần và tường phủ phù điêu mạ vàng, các gian phòng phỏng theo nhiều phong cách châu Âu.",
+        "Bể bơi trứ danh với cột kiểu Hy Lạp – La Mã và trần kính màu từng đóng vai 'Biển Đen' trong phim kinh điển 'Chiến hạm Potemkin' (1925).",
+        "Được danh ca opera Fyodor Chaliapin gọi là 'Sa hoàng của các nhà tắm' (Tsar-banya); từng đón Pushkin, Tolstoy, Chekhov cùng vô số nghệ sĩ, chính khách.",
+        "Trải nghiệm cốt lõi là nghi thức banya Nga: xông parilka, quật venik (bó lá bạch dương), dội nước lạnh và nghỉ ngơi bên tách trà.",
+    ],
+    "images": [
+        img("Sandunovskiye Baths.jpg", "Mặt tiền chiết trung xa hoa của quần thể Sanduny trên phố Neglinnaya — một tượng đài kiến trúc giữa trung tâm Moskva."),
+        img("Москва, Неглинная улица, 14, строение 3.jpg", "Toà nhà Sanduny tại số 14 phố Neglinnaya, lớp mặt đứng công phu kiểu cuối thế kỷ 19."),
+        img("Сандуновские бани. Интерьер 01.JPG", "Nội thất kiểu cung điện: trần cao, phù điêu, mạ vàng và các chi tiết trang trí phỏng theo nhiều phong cách."),
+        img("Бассейн Сандуновских бань 01.JPG", "Bể bơi lừng danh với hàng cột kiểu cổ điển và ánh sáng từ trần kính — bối cảnh từng lên phim."),
+        img("Сандуновские бани. Интерьер 03.JPG", "Một gian phòng nghỉ lộng lẫy trong khu hạng sang, nơi khách xưa ngồi hàng giờ uống trà, chuyện trò."),
+        img("Реклама Сандуновских бань, 1897.jpg", "Áp phích quảng cáo Nhà tắm Sanduny năm 1897 — tư liệu cho thấy danh tiếng của cơ sở ngay sau khi tái thiết."),
+    ],
+    "references": [
+        {"title": "Sanduny — Wikipedia (tiếng Anh)", "url": "https://en.wikipedia.org/wiki/Sanduny"},
+        {"title": "Sanduny, the most famous banya in Moscow — Live the World", "url": "https://www.livetheworld.com/post/sanduny-the-most-famous-banya-in-moscow-5958"},
+        {"title": "Legendary 'Sanduny' – the bathhouse frequented by Tolstoy and Chekhov — GW2RU", "url": "https://www.gw2ru.com/travel/3725-sanduny-moscow-bathhouse"},
+        {"title": "Historic and Cultural Heritage Days: landmark buildings — Mos.ru", "url": "https://www.mos.ru/en/news/item/152841073/"},
+        {"title": "Russian Banya: What It Is, Prices & Sanduny in 2026 — Russiable", "url": "https://russiable.com/russian-banya/"},
+        {"title": "Sandunov Baths (Sanduny): Full Description — Findit.city", "url": "https://findit.city/en/russia/moscow/leisure/tourism/sights/sandunov-baths-sanduny/description"},
+        {"title": "Category: Sanduny — Wikimedia Commons (ảnh)", "url": "https://commons.wikimedia.org/wiki/Category:Sanduny"},
+    ],
+    "sources": [
+        "Wikipedia tiếng Anh, mục 'Sanduny' — mở cửa 1808, người sáng lập Sila Sandunov (Zandukeli, 1756–1820), mua đất bên sông Neglinnaya năm 1800; chuỗi chủ sở hữu Firsanov – Vera Firsanova – Alexey Ganetsky; kiến trúc sư Boris Freidenberg, hoàn tất bởi Sergei Kalugin, tái mở cửa 14/2/1896; nước từ đập Babyegorodskaya và giếng khoan; nhà máy điện riêng; khách sạn, nhà hàng, ~400 nhân viên phục vụ.",
+        "Live the World — chi tiết 'bán nữ trang kim cương của vợ (quà cưới của Ekaterina II)', khu hạng sang nam giống lâu đài trung cổ, khách nổi tiếng Pushkin/Tolstoy/Chekhov, Chaliapin hát trong phòng xông; bể bơi đóng vai 'Biển Đen' trong 'Chiến hạm Potemkin' (1925) và cảnh 'Trận băng hồ' trong phim về Aleksandr Nevsky (1938); lò gạch và 8 tấn thanh gang; lời chúc 'S lyogkim parom!'.",
+        "GW2RU (Russia Beyond) — biệt danh 'Tsar-banya' của Chaliapin, mô tả nội thất xa hoa và lịch sử lui tới của giới văn nghệ sĩ.",
+        "Mos.ru và Findit.city — Sanduny là tượng đài kiến trúc chiết trung được bảo vệ, thông tin về toà nhà và các gian phòng phong cách Gothic, La Mã.",
+        "Dữ liệu điểm đến nội bộ dự án 'Cẩm nang Du lịch Nga' — địa chỉ Neglinnaya 14 (lối vào ở ngõ Sandunovsky/Zvonarsky), quận Meshchansky, các ga metro Kuznetsky Most, Trubnaya, Tsvetnoy Bulvar; phần giới thiệu ngắn/dài.",
+        "Ảnh minh hoạ: Wikimedia Commons, Category: Sanduny (giấy phép tự do).",
+    ],
+}
+
+S = doc["sections"]
+
+S.append({"heading": "Giới thiệu chung", "paras": [
+    "Ở ngay trung tâm Moskva, cách Nhà hát Lớn (Bolshoi) và Quảng trường Lubyanka chỉ vài phút đi bộ, có một toà nhà bề thế mà từ ngoài trông giống một dinh thự hay khách sạn hạng sang hơn là nơi người ta đến để... tắm. Đó là Sanduny — tên gọi thân mật của Nhà tắm hơi Sandunovskie (Sandunovskie Bani), cơ sở banya công cộng lâu đời và lộng lẫy bậc nhất nước Nga. Hoạt động liên tục từ năm 1808 đến nay, Sanduny không chỉ là một nơi để thư giãn, mà còn là một 'bảo tàng sống' của văn hoá tắm hơi Nga và là một tượng đài kiến trúc được gìn giữ.",
+    "Với người Nga, banya không đơn thuần là chuyện vệ sinh thân thể. Đó là một nghi thức, một không gian giao tiếp, và theo cách nói dân gian, là nơi 'gột rửa' cả thân lẫn tâm. Trong bối cảnh ấy, Sanduny giữ một vị trí đặc biệt: nó là banya sang trọng và danh tiếng nhất, nơi hội tụ tinh hoa của truyền thống tắm hơi và sự xa hoa của kiến trúc cuối thế kỷ 19. Chính danh ca opera lừng danh Fyodor Chaliapin đã phong cho nơi đây danh hiệu 'Sa hoàng của các nhà tắm' (Tsar-banya), và biệt danh ấy theo Sanduny đến tận hôm nay.",
+    "Điều làm nên sức hút của Sanduny là sự pha trộn hiếm có giữa hai thái cực. Một mặt, đây là chốn xa hoa với cầu thang cẩm thạch, trần và tường phủ phù điêu mạ vàng, gương lớn, tượng và những gian phòng phỏng theo đủ phong cách châu Âu — từ Gothic, Baroque, Rococo cho tới sắc thái phương Đông. Mặt khác, cốt lõi trải nghiệm vẫn là nghi thức banya mộc mạc và rất 'đời': ngồi xông trong phòng hơi nóng rực, để người ta quật nhẹ khắp lưng bằng bó lá bạch dương, rồi dội nước lạnh và ngồi nghỉ bên tách trà nóng.",
+    "Suốt hơn hai thế kỷ, Sanduny đã đón đủ mọi hạng người. Các văn hào như Pushkin, Tolstoy, Chekhov từng lui tới; nghệ sĩ, vận động viên, thương nhân và chính khách cũng coi đây là điểm hẹn quen thuộc. Nhờ nội thất giàu chất sân khấu, nơi đây còn nhiều lần trở thành bối cảnh điện ảnh — trong đó có những cảnh quay đã đi vào lịch sử phim ảnh Nga và thế giới.",
+    "Với du khách nước ngoài, một buổi ở Sanduny mang lại điều mà ít điểm tham quan nào có được: cơ hội bước vào một phần đời sống và văn hoá Nga còn nguyên vẹn qua hàng trăm năm, thay vì chỉ đứng ngoài ngắm nhìn. Đây vừa là hoạt động thư giãn, vừa là một 'lát cắt nhân học' sống động về cách người Nga chăm sóc thân thể, kết giao và tận hưởng cuộc sống.",
+    "Tài liệu thuyết minh nội bộ này được biên soạn cho đội ngũ Cẩm nang Du lịch Nga nhằm cung cấp bức tranh toàn diện về Sanduny: từ lịch sử ly kỳ của người sáng lập, kiến trúc và các gian phòng, cho tới nghi thức banya, mẹo trải nghiệm và những giai thoại có thể kể để bài thuyết minh thêm cuốn hút. Toàn bộ nội dung do nhóm biên soạn tổng hợp và diễn đạt lại, có dẫn nguồn ở cuối bài.",
+]})
+
+S.append({"heading": "Vị trí & cách di chuyển", "paras": [
+    "Sanduny toạ lạc tại số 14 phố Neglinnaya (Neglinnaya Ulitsa), thuộc quận Meshchansky ở lõi trung tâm Moskva, ngay cạnh trụ sở Ngân hàng Trung ương Nga. Đây là khu vực lịch sử sầm uất, nằm giữa hai trục nổi tiếng là phố Kuznetsky Most và Đại lộ Tsvetnoy. Lối vào chính của các khu tắm nằm ở phía ngõ Sandunovsky (còn gọi là ngõ Zvonarsky), nên khi tìm đường, du khách nên để ý cả tên ngõ chứ không chỉ số nhà trên mặt phố Neglinnaya.",
+    "Về tàu điện ngầm, ga gần nhất là Kuznetsky Most, chỉ cách vài phút đi bộ. Ngoài ra, các ga Trubnaya và Tsvetnoy Bulvar (cùng nằm trên các tuyến chạy qua khu trung tâm) cũng trong tầm đi bộ dễ chịu. Từ cụm ga Teatralnaya – Okhotny Ryad – Ploshchad Revolyutsii quanh Nhà hát Lớn, du khách có thể tản bộ chừng 10–12 phút để tới Sanduny, kết hợp ngắm phố phường trung tâm trên đường đi.",
+    "Vì nằm ở khu vực trung tâm với mạng lưới metro dày đặc, Sanduny rất dễ tiếp cận từ hầu hết các điểm tham quan lớn. Nếu xuất phát từ Quảng trường Đỏ hay khu GUM/Nhà hát Lớn, quãng đường chỉ khoảng 1–1,5 km. Du khách hoàn toàn có thể đi bộ nếu thời tiết đẹp, vừa vận động vừa cảm nhận nhịp sống của khu phố tài chính – thương mại lâu đời này.",
+    "Với ai ưu tiên sự tiện lợi, taxi và xe công nghệ hoạt động rộng khắp và là lựa chọn nhanh gọn, nhất là sau buổi tắm khi cơ thể đã thư giãn và có phần uể oải. Cần lưu ý khu vực trung tâm thường đông xe vào giờ cao điểm, nên nếu có lịch hẹn (ví dụ đặt trước suất tắm), hãy trừ hao thời gian di chuyển.",
+    "Một điểm cộng về vị trí: Sanduny nằm ngay giữa nhiều điểm tham quan và mua sắm, nên rất dễ ghép vào lịch trình. Du khách có thể tham quan khu trung tâm vào ban ngày, rồi dành buổi chiều tối cho một 'nghi lễ' banya để phục hồi sức lực — một cách khép lại ngày khám phá Moskva vừa thư giãn vừa đậm chất bản địa.",
+    "Về thời điểm, nên tra cứu trước giờ mở cửa của từng khu (nam, nữ, và các hạng phòng khác nhau) vì lịch có thể thay đổi, đặc biệt là 'ngày vệ sinh' định kỳ khi một số khu tạm dừng đón khách thường và chỉ mở cho các đoàn tham quan có hướng dẫn.",
+]})
+
+S.append({"heading": "Lịch sử hình thành và phát triển", "paras": [
+    "Câu chuyện Sanduny bắt đầu bằng một thiên tình sử mang màu sắc cung đình. Người sáng lập là Sila Sandunov (tên gốc Gruzia là Zandukeli, 1756–1820), một diễn viên phục vụ trong nhà hát triều đình dưới thời Nữ hoàng Ekaterina II vào thập niên 1790. Ông kết hôn với Elizaveta Uranova, một danh ca opera nổi tiếng đương thời. Theo các giai thoại được lưu truyền, mối lương duyên của họ từng vấp phải trắc trở chốn cung đình, và chính Nữ hoàng đã can thiệp để tác thành, ban tặng cô dâu một bộ nữ trang kim cương quý giá làm quà cưới.",
+    "Về sau, để hiện thực hoá tham vọng kinh doanh, Sila Sandunov đã bán bộ nữ trang kim cương ấy lấy vốn. Ông mua một khu đất bên bờ sông Neglinnaya (Neglinka) vào năm 1800 — chọn nơi này vì nguồn nước ở đây được xem là sạch nhất Moskva khi đó — rồi dựng lên nhà tắm bằng đá đầu tiên của thành phố, mang tên chính mình. Sanduny mở cửa năm 1808, với các khu riêng cho nam và nữ, và nhanh chóng nổi tiếng nhờ sự tươm tất, sang trọng vượt trội so với các nhà tắm gỗ bình dân đương thời.",
+    "Qua thế kỷ 19, quyền sở hữu Sanduny chuyển qua nhiều chủ. Đến năm 1869, cơ sở thuộc về thương gia giàu có Ivan Firsanov; sau khi ông qua đời năm 1881, toàn bộ được để lại cho người con gái duy nhất là Vera Ivanovna Firsanova. Vera là một nữ doanh nhân bản lĩnh; sau khi ly hôn người chồng đầu, bà tái giá với sĩ quan Alexey Ganetsky — con trai của một vị tướng từng tham chiến trong Chiến tranh Krym.",
+    "Chính Ganetsky là người đưa ra ý tưởng táo bạo: phá bỏ dãy nhà tắm cũ đã xuống cấp để dựng nên một quần thể banya lộng lẫy chưa từng có ở Moskva. Năm 1894, ông mời kiến trúc sư danh tiếng Boris Freudenberg đảm nhận thiết kế. Tuy nhiên, giữa chừng Freudenberg rời bỏ dự án và rời Moskva; công trình được kiến trúc sư Sergei Kalugin tiếp tục và hoàn tất. Ngày 14 tháng 2 năm 1896, Sanduny 'phiên bản mới' chính thức mở cửa và lập tức gây choáng ngợp bởi độ xa hoa.",
+    "Công trình 1896 là một kỳ công kỹ thuật của thời đại. Nước được dẫn về qua một tuyến ống dẫn riêng từ đập Babyegorodskaya trên sông Moskva, kết hợp với nguồn nước từ giếng khoan sâu, bảo đảm cả lưu lượng lẫn độ tinh khiết. Đáng nể hơn, Sanduny có hẳn một nhà máy điện riêng để chiếu sáng — nguồn điện này còn được dùng trong dịp đăng quang của Hoàng đế Nikolai II. Bên cạnh khu tắm, quần thể còn có khách sạn, nhà hàng, thậm chí cả một cửa hàng bán thú cảnh, với đội ngũ chừng bốn trăm nhân viên phục vụ.",
+    "Cũng có một mẩu chuyện 'hậu trường' đắt giá: không lâu sau khi công trình hoàn thành, Ganetsky được cho là đã thua bạc và mất quyền sở hữu Sanduny trên chiếu bạc; Vera Firsanova sau đó phải trả nợ cho ông và một lần nữa ly hôn. Dù thực hư đến đâu, giai thoại này càng tô đậm không khí phù hoa, kịch tính bao quanh lịch sử của nhà tắm.",
+    "Bước sang thế kỷ 20, Sanduny trải qua cách mạng, quốc hữu hoá và mọi biến động của thời Xô-viết, nhưng điều đáng kinh ngạc là nó gần như chưa bao giờ ngừng hoạt động. Nhà tắm tiếp tục phục vụ công chúng qua bao thăng trầm, và đến nay cả khu tắm lẫn nhà hàng vẫn mở cửa. Chính sự vận hành liên tục hơn hai trăm năm ấy khiến Sanduny trở thành một trong những cơ sở dịch vụ lâu đời và bền bỉ nhất nước Nga.",
+]})
+
+S.append({"heading": "Kiến trúc & đặc điểm nổi bật", "paras": [
+    "Nhìn từ phố Neglinnaya, Sanduny hiện ra như một toà nhà bề thế theo phong cách chiết trung (eclectic) đặc trưng cuối thế kỷ 19 — thời kỳ mà giới kiến trúc Nga tự do vay mượn và pha trộn nhiều phong cách lịch sử. Mặt đứng công phu với các lớp phào chỉ, cửa sổ vòm, chi tiết trang trí dày đặc khiến người qua đường dễ lầm tưởng đây là một khách sạn sang trọng hay trụ sở của một định chế lớn, hơn là một nhà tắm công cộng.",
+    "Nhưng phần 'gây choáng' thực sự nằm ở bên trong, đặc biệt là khu hạng sang dành cho nam giới. Du khách bước qua sảnh và cầu thang cẩm thạch dẫn lên các gian phòng nối tiếp nhau, mỗi phòng lại phỏng theo một phong cách khác nhau. Có gian gợi nhớ lâu đài Gothic trung cổ với vòm nhọn và gỗ sẫm màu; có gian lộng lẫy kiểu Baroque – Rococo với phù điêu mạ vàng, gương lớn và đèn chùm; lại có gian mang sắc thái phương Đông, Moorish với hoa văn tinh xảo. Sự đa dạng ấy biến hành trình đi qua các phòng thành một 'chuyến du lịch phong cách' thu nhỏ.",
+    "Viên ngọc kiến trúc của Sanduny là bể bơi trong khu tắm. Đây là một không gian tráng lệ với hồ nước, hàng cột kiểu Hy Lạp – La Mã, tường ốp cẩm thạch và trần lắp kính màu cho ánh sáng rọi xuống mặt nước. Chính vẻ đẹp cổ điển, giàu chất sân khấu của bể bơi đã khiến nó nhiều lần được chọn làm bối cảnh điện ảnh, và trở thành hình ảnh biểu tượng gắn với tên tuổi Sanduny.",
+    "Đằng sau vẻ hào nhoáng là một 'trái tim' kỹ thuật vận hành theo đúng tinh thần banya truyền thống. Nhiệt cho các phòng xông đến từ lò gạch cùng khối thanh gang lớn — theo mô tả, lên tới khoảng tám tấn — được nung nóng ở nhiệt độ rất cao. Khi người phụ trách hơi (parilshchik) hắt nước lên khối gang nóng đỏ, hơi nước bùng lên tạo nên thứ 'hơi' được dân sành banya ở Moskva đánh giá vào hàng ngon nhất. Với giới đi tắm lâu năm, tạo hơi là cả một nghệ thuật, và chất hơi mỗi người tạo ra lại một khác.",
+    "Các gian phòng nghỉ (predbannik) cũng được chăm chút không kém khu xông. Đây là nơi khách ngồi lại giữa các đợt xông để hạ nhiệt, uống trà, trò chuyện; nội thất gỗ, ghế bọc êm, tranh và chi tiết trang trí tạo cảm giác như một câu lạc bộ quý ông hơn là một nhà tắm. Chính không gian này lý giải vì sao xưa kia người ta có thể dành cả buổi, thậm chí cả ngày, ở Sanduny.",
+    "Một điểm đáng lưu ý về bố cục: phần mặt tiền hoành tráng trông ra phố Neglinnaya vốn là dãy nhà cho thuê sinh lợi, còn các khu tắm thực sự nằm sâu bên trong sân, phân thành nhiều dãy (korpus). Cách tổ chức 'ngoài phố – trong sân' này khá phổ biến với các quần thể lớn ở Moskva cuối thế kỷ 19, vừa khai thác giá trị thương mại của mặt phố, vừa tạo không gian yên tĩnh, kín đáo cho hoạt động tắm ở phía trong.",
+    "Về tổng thể, giá trị kiến trúc của Sanduny nằm ở chỗ nó là một trong số ít công trình phục vụ đời sống thường nhật lại được đầu tư ở đẳng cấp cung điện, và may mắn giữ được phần lớn diện mạo lịch sử. Ngày nay, cơ sở được công nhận là di sản kiến trúc cần bảo vệ, đồng nghĩa mỗi lần trùng tu đều phải cân nhắc kỹ để bảo toàn các chi tiết nguyên bản.",
+]})
+
+S.append({"heading": "Những điểm nhấn không thể bỏ lỡ", "paras": [
+    "Cầu thang và sảnh cẩm thạch khu hạng sang: đây là 'màn chào' choáng ngợp ngay khi bước vào. Hãy dành một chút thời gian ngắm các chi tiết mạ vàng, gương và phù điêu — nơi lột tả rõ nhất vì sao Sanduny được ví như cung điện.",
+    "Bể bơi kiểu La Mã: điểm nhấn nổi tiếng nhất và cũng 'lên hình' đẹp nhất, với hàng cột cổ điển và ánh sáng từ trần kính. Đây là biểu tượng thị giác gắn liền với danh tiếng Sanduny và là chi tiết nên nhấn mạnh khi thuyết minh.",
+    "Các gian phòng đa phong cách: đi qua từng phòng để cảm nhận sự 'nhảy múa' giữa Gothic, Baroque, Rococo và sắc thái phương Đông. Mỗi gian là một tiểu vũ trụ thẩm mỹ riêng, cho thấy tham vọng phô diễn của những người kiến tạo năm 1896.",
+    "Phòng xông (parilka) và nghệ thuật tạo hơi: trung tâm của trải nghiệm banya. Ngay cả khi không quen xông lâu, du khách cũng nên ghé để cảm nhận không khí và chứng kiến 'nghi thức' hắt nước tạo hơi đặc trưng.",
+    "Không gian phòng nghỉ kiểu câu lạc bộ quý ông: nơi lý tưởng để hiểu banya không chỉ là tắm, mà là một hình thức giao tiếp xã hội. Tách trà, ghế êm và những câu chuyện rôm rả chính là 'linh hồn' của văn hoá tắm hơi Nga.",
+    "Chi tiết lịch sử và tư liệu: nếu có bảng giới thiệu, ảnh xưa hay hiện vật trưng bày, đừng bỏ qua — chúng giúp kết nối vẻ đẹp hiện tại với hơn hai thế kỷ thăng trầm của cơ sở.",
+    "Màn hắt nước tạo hơi của người phụ trách (parilshchik): nếu có dịp chứng kiến, hãy quan sát kỹ động tác điều tiết hơi và cách phe phẩy để đưa làn hơi nóng lan đều. Với dân sành banya, đây là 'phần biểu diễn' được chờ đợi, và mỗi người tạo hơi lại có 'chữ ký' riêng.",
+    "Tách trà và khoảnh khắc chuyển tiếp: giữa các đợt xông, hãy thử ngồi lại phòng nghỉ với một tách trà nóng như người bản địa. Chính những quãng lặng thư thái này — chứ không chỉ hơi nóng — mới là điều khiến người Nga gắn bó với banya suốt đời.",
+]})
+
+S.append({"heading": "Ý nghĩa lịch sử – văn hoá", "paras": [
+    "Sanduny là hiện thân sống động của banya — một trong những nét văn hoá lâu đời và gắn bó nhất với đời sống Nga. Nếu ở làng quê, banya là căn nhà tắm nhỏ dựng cạnh nhà ở và quan trọng ngang một gian bếp, thì ở đô thị, banya công cộng trở thành không gian sinh hoạt cộng đồng. Sanduny nâng truyền thống bình dân ấy lên tầm nghệ thuật, cho thấy người Nga coi trọng nghi thức tắm hơi đến mức nào.",
+    "Về mặt xã hội, Sanduny từng là điểm hội tụ của mọi tầng lớp. Trong các gian phòng của nó, ranh giới địa vị phần nào được xoá nhoà: nhà văn ngồi cạnh thương nhân, nghệ sĩ bên vận động viên, tất cả cùng chia sẻ một nghi thức chung. Việc những tên tuổi lớn như Tolstoy hay Chekhov lui tới khiến nơi đây mang thêm hào quang văn chương, trở thành một phần trong 'bản đồ văn hoá' của Moskva.",
+    "Vai trò của Sanduny trong điện ảnh cũng góp phần định hình ý nghĩa văn hoá của nó. Nhờ nội thất giàu chất trang trí, bể bơi và các gian phòng của nhà tắm đã trở thành phim trường cho những tác phẩm quan trọng, đưa hình ảnh Sanduny vượt ra ngoài phạm vi một cơ sở dịch vụ để đi vào ký ức thị giác của công chúng.",
+    "Câu chuyện người sáng lập — một diễn viên bán nữ trang kim cương của vợ để xây nhà tắm — còn mang ý nghĩa biểu tượng về sự chuyển hoá: từ hào quang sân khấu và quà tặng hoàng gia thành một công trình phục vụ số đông, tồn tại qua nhiều thế hệ. Đó là minh chứng cho tinh thần khởi nghiệp và thẩm mỹ của tầng lớp thị dân Nga cuối thế kỷ 18 – 19.",
+    "Trong đời sống Nga, banya còn mang một chiều kích gần như 'y học dân gian' và nghi lễ: người ta tin rằng xông hơi đúng cách giúp thải độc, cải thiện tuần hoàn, ngủ ngon và nâng cao tinh thần. Banya gắn với các mốc quan trọng của đời người và với nhịp mùa — đặc biệt là cái rét khắc nghiệt của mùa đông Nga, khi hơi nóng của nhà tắm trở thành chốn nương náu ấm áp cho cả thể chất lẫn tâm hồn. Sanduny, ở vị thế banya danh giá nhất, cô đọng trọn vẹn tầng ý nghĩa ấy.",
+    "Cuối cùng, việc Sanduny hoạt động gần như liên tục hơn hai trăm năm, xuyên qua cách mạng và mọi biến động, khiến nó trở thành một 'sợi chỉ đỏ' nối liền các thời kỳ lịch sử Nga. Ít có nơi nào mà một du khách hôm nay lại có thể tham dự vào đúng nghi thức mà người Moskva đã thực hành từ thời Pushkin — và đó chính là giá trị di sản phi vật thể quý giá mà Sanduny lưu giữ.",
+]})
+
+S.append({"heading": "Trải nghiệm dành cho du khách", "paras": [
+    "Với nhiều du khách, đến Sanduny là để 'thử' làm người Moskva trong vài giờ. Trải nghiệm cốt lõi là một vòng banya trọn vẹn: bắt đầu bằng việc làm nóng cơ thể, vào phòng xông (parilka) ngồi cho mồ hôi toát ra, rồi được (hoặc tự) quật nhẹ khắp lưng và chân tay bằng bó lá gọi là venik — thường làm từ cành bạch dương hoặc sồi — để kích thích tuần hoàn máu. Sau đó là bước 'gây sốc nhiệt' sảng khoái: dội nước lạnh hoặc ngâm mình trong bể mát, rồi ra phòng nghỉ uống trà.",
+    "Nhịp điệu 'nóng – lạnh – nghỉ' này được lặp lại vài lượt, xen kẽ là những khoảng nghỉ để chuyện trò và thư giãn. Với người mới, cảm giác ban đầu có thể hơi choáng vì nhiệt độ cao, nhưng nếu đi từ từ và lắng nghe cơ thể, hầu hết đều thấy khoan khoái, nhẹ nhõm sau buổi tắm. Người Nga có câu chúc quen thuộc dành cho nhau sau khi xông: 'S lyogkim parom!' — đại ý chúc cho thân tâm được nhẹ nhàng.",
+    "Sanduny có nhiều khu và hạng phòng khác nhau, từ hạng phổ thông đến hạng sang, với mức giá tương ứng. Khu nam và khu nữ tách riêng. Du khách có thể tự phục vụ, hoặc thuê người phụ trách hỗ trợ các bước — đặc biệt là màn dùng venik, vốn cần chút kỹ thuật để vừa hiệu quả vừa dễ chịu. Với người lần đầu, thuê hỗ trợ là lựa chọn đáng cân nhắc để trải nghiệm đúng điệu và an toàn.",
+    "Ngoài tắm hơi, quần thể còn có dịch vụ nhà hàng, cho phép khách ăn uống, nghỉ ngơi và kéo dài buổi thư giãn. Nhiều người xem một buổi ở Sanduny như một 'nghi lễ' cuối tuần trọn gói: vừa chăm sóc cơ thể, vừa gặp gỡ bạn bè, vừa thưởng thức ẩm thực — thay vì chỉ ghé qua chóng vánh.",
+    "Đối với du khách quốc tế, nên chuẩn bị tâm lý rằng đây là trải nghiệm 'nhập gia tuỳ tục': quy tắc ứng xử, cách dùng venik, thứ tự các bước có thể khác với spa kiểu phương Tây. Nhưng chính sự khác biệt ấy làm nên giá trị — bạn không chỉ đi tắm, mà đang tham dự vào một truyền thống văn hoá còn nguyên sức sống.",
+    "Một lưu ý quan trọng: banya với nhiệt độ cao không phù hợp cho tất cả mọi người. Người có bệnh tim mạch, huyết áp hoặc đang có vấn đề sức khoẻ nên tham vấn ý kiến y tế và hết sức thận trọng, tránh xông quá lâu hay thay đổi nhiệt độ quá đột ngột.",
+]})
+
+S.append({"heading": "Mẹo tham quan", "paras": [
+    "Tìm hiểu trước về các khu và giờ mở cửa: Sanduny có nhiều khu (nam, nữ) và nhiều hạng phòng với mức giá khác nhau, cùng 'ngày vệ sinh' định kỳ khi một số khu chỉ mở cho đoàn tham quan. Kiểm tra thông tin cập nhật trước khi đến sẽ giúp bạn chọn đúng khu và tránh đi nhầm giờ.",
+    "Mang theo hoặc thuê đồ dùng cần thiết: dép, khăn, và đặc biệt là chiếc mũ nỉ (felt) để đội trong phòng xông nhằm bảo vệ đầu khỏi nhiệt. Nhiều thứ có thể thuê hoặc mua tại chỗ, nhưng biết trước sẽ giúp bạn chủ động hơn.",
+    "Đừng cố xông quá sức: người mới nên giới hạn mỗi lượt trong phòng hơi ở mức vừa phải (thường không quá 10–15 phút), ra nghỉ khi thấy nóng, và uống đủ nước. 'Chậm mà chắc' là nguyên tắc vàng để tận hưởng banya mà không bị mệt hay nhức đầu.",
+    "Cân nhắc thuê người hỗ trợ nếu lần đầu: màn dùng venik và cách phối hợp các bước nóng – lạnh sẽ dễ chịu và đúng điệu hơn nhiều khi có người quen việc hướng dẫn. Đây là khoản chi đáng giá cho trải nghiệm đầu tiên.",
+    "Dành đủ thời gian: một buổi banya trọn vẹn thường kéo dài vài giờ, chưa kể ăn uống, nghỉ ngơi. Đừng xếp lịch quá sát ngay sau đó, vì cơ thể sau khi tắm hơi thường muốn được thong thả nghỉ ngơi.",
+    "Giữ ý và tôn trọng không gian: đây là nơi sinh hoạt của cả người dân địa phương. Quan sát và làm theo cách ứng xử chung, giữ trật tự và lịch sự sẽ giúp bạn hoà nhập và có trải nghiệm trọn vẹn hơn. Hỏi trước về quy định chụp ảnh, vì nhiều khu vực hạn chế để bảo đảm sự riêng tư.",
+    "Cân nhắc đặt trước, nhất là cuối tuần và mùa cao điểm: các khu hạng sang và một số dịch vụ có thể kín chỗ vào giờ đẹp. Đặt trước (hoặc đến sớm) giúp bạn chủ động chọn khung giờ ưng ý và tránh phải chờ đợi. Nếu đi theo nhóm hoặc muốn thuê phòng riêng, việc liên hệ trước lại càng cần thiết.",
+]})
+
+S.append({"heading": "Khám phá xung quanh", "paras": [
+    "Phố Kuznetsky Most ngay gần đó là một trong những con phố thương mại lâu đời và thanh lịch nhất Moskva, xưa nay gắn với các cửa hiệu thời trang, tiệm sách và quán cà phê. Đây là nơi lý tưởng để dạo bộ trước hoặc sau buổi tắm, cảm nhận không khí đô thị cổ điển của trung tâm thành phố.",
+    "Đại lộ Tsvetnoy (Tsvetnoy Bulvar) ở phía bắc nổi tiếng với Rạp xiếc Nikulin — một điểm giải trí gia đình gắn với tên tuổi nghệ sĩ hài huyền thoại Yuri Nikulin. Khu vực này còn có khu ẩm thực và không gian dạo chơi dễ chịu, hợp để tiếp nối buổi khám phá.",
+    "Cụm Nhà hát Lớn (Bolshoi) và Nhà hát Maly chỉ cách Sanduny quãng đi bộ ngắn. Nếu lịch trình cho phép, du khách có thể kết hợp một buổi xem biểu diễn nghệ thuật đỉnh cao với trải nghiệm banya — hai 'đặc sản' rất khác nhau nhưng đều rất Moskva.",
+    "Về phía Quảng trường Lubyanka có cửa hàng thiếu nhi trứ danh Detsky Mir với đài quan sát trên tầng thượng nhìn ra trung tâm; còn xa hơn chút là Quảng trường Đỏ, GUM và Điện Kremlin — bộ ba biểu tượng mà hầu như du khách nào cũng ghé. Từ Sanduny, tất cả đều nằm trong tầm đi bộ hoặc một chặng metro ngắn.",
+    "Con phố Neglinnaya nơi Sanduny toạ lạc bản thân nó cũng có câu chuyện thú vị: nó chạy trên vị trí dòng sông Neglinka xưa, con sông về sau bị dẫn ngầm vào cống hộp dưới lòng đất. Biết chi tiết này, du khách sẽ thấy cái tên phố và lý do Sanduny chọn đặt ở đây (vì nguồn nước) trở nên có ý nghĩa hơn.",
+    "Khu vực quanh Kuznetsky Most và Neglinnaya cũng tập trung nhiều quán ăn, tiệm cà phê và nhà hàng ở nhiều mức giá, thuận tiện để nạp năng lượng trước buổi tắm hoặc dùng bữa nhẹ sau đó. Đây là một trong những khu ẩm thực – dạo bộ dễ chịu nhất của trung tâm Moskva, phù hợp để kéo dài buổi khám phá mà không cần di chuyển xa.",
+    "Nhìn chung, Sanduny nằm ở vị trí 'vàng' để ghép vào bất kỳ lịch trình khám phá trung tâm Moskva nào. Du khách có thể dành ban ngày cho các bảo tàng, quảng trường và mua sắm, rồi khép lại bằng buổi banya buổi tối — một cách cân bằng giữa 'khám phá' và 'phục hồi' rất được ưa chuộng.",
+]})
+
+S.append({"heading": "Câu chuyện & giai thoại thú vị", "paras": [
+    "Giai thoại nổi tiếng nhất về Sanduny chính là gốc gác ra đời của nó: một nhà tắm được xây bằng tiền bán... kim cương của một danh ca. Chuyện kể rằng Sila Sandunov đã bán bộ nữ trang mà Nữ hoàng Ekaterina II ban tặng vợ ông, Elizaveta Uranova, để lấy vốn mua đất và dựng nhà tắm. Từ ánh hào quang sân khấu và quà tặng hoàng gia, số phận đã dẫn tới sự ra đời của banya danh tiếng nhất Moskva — một khởi đầu lãng mạn và đầy kịch tính hiếm có.",
+    "Biệt danh 'Sa hoàng của các nhà tắm' (Tsar-banya) gắn với danh ca opera Fyodor Chaliapin. Ông không chỉ yêu thích Sanduny mà còn cho rằng bầu không khí nơi đây tốt cho giọng hát; tương truyền ông từng đến vào những ngày vắng và cất tiếng hát ngay trong phòng xông. Chi tiết này vừa cho thấy sức hút của Sanduny với giới nghệ sĩ, vừa là một hình ảnh đẹp để kể trong bài thuyết minh.",
+    "Bể bơi của Sanduny có một 'sự nghiệp điện ảnh' đáng nể. Nhờ vẻ cổ điển với cột và trần kính, mặt nước nơi đây từng vào vai Biển Đen trong bộ phim kinh điển 'Chiến hạm Potemkin' (1925) của Sergei Eisenstein. Hơn một thập niên sau, cũng chính không gian này được dùng để dàn dựng cảnh trận đánh trên băng trong phim lịch sử về Aleksandr Nevsky (1938). Ít bể bơi nào trên thế giới lại có 'lý lịch' phim ảnh phong phú đến vậy.",
+    "Lịch sử sở hữu Sanduny cũng đầy những khúc quanh ly kỳ, trong đó có mẩu chuyện Alexey Ganetsky — người khởi xướng công trình xa hoa năm 1896 — được cho là đã thua bạc và mất quyền sở hữu nhà tắm ngay sau khi nó hoàn thành. Người vợ, nữ doanh nhân Vera Firsanova, sau đó phải đứng ra trả nợ. Câu chuyện phù hoa và trớ trêu này thường được nhắc đến như một 'gia vị' cho lịch sử của cơ sở.",
+    "Sanduny cũng in dấu trong văn chương và ký ức đô thị Moskva. Thế giới nhà tắm công cộng, với đủ hạng người và những sinh hoạt đặc trưng, từng là đề tài cho các cây bút viết về Moskva xưa — giúp hậu thế hình dung banya không chỉ là nơi tắm, mà là cả một 'sân khấu đời thường' của thành phố. Việc các văn hào lớn từng lui tới càng khiến Sanduny thấm đẫm chất văn hoá.",
+    "Cuối cùng, có lẽ 'giai thoại' bền bỉ nhất chính là sự trường tồn của Sanduny. Qua hơn hai thế kỷ với bao đổi thay của nước Nga — từ đế chế, cách mạng, thời Xô-viết đến hiện tại — nhà tắm gần như chưa bao giờ đóng cửa. Khi một du khách hôm nay bước vào phòng xông và nghe lời chúc 'S lyogkim parom!', họ đang nối dài một truyền thống không đứt đoạn suốt bao thế hệ — và đó có lẽ là điều kỳ diệu nhất mà Sanduny mang lại.",
+]})
+
+out = os.path.join(HERE, "doc_sanduny-baths.json")
+with open(out, "w", encoding="utf-8") as f:
+    json.dump(doc, f, ensure_ascii=False, indent=2)
+
+wc = sum(len(p.split()) for s in doc["sections"] for p in s["paras"])
+print("WROTE", out)
+print("sections:", len(doc["sections"]), "| total word-tokens:", wc)
+for s in doc["sections"]:
+    print("  -", s["heading"], "|", sum(len(p.split()) for p in s["paras"]))

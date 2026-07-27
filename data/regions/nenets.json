@@ -40,8 +40,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/000%20Narjan-mar.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=53.00371,67.63869&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=67.63869,53.00371"
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%B0%D1%80%D1%8C%D1%8F%D0%BD-%D0%9C%D0%B0%D1%80&ll=53.00371,67.63869&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Naryan-Mar%2C%20Nenets%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -56,7 +56,8 @@
       "city"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "nenets-pustozersk",
@@ -99,8 +100,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Pustozersk-1908-11.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=52.58639,67.53639&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=67.53639,52.58639"
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D1%83%D1%81%D1%82%D0%BE%D0%B7%D0%B5%D1%80%D1%81%D0%BA&ll=52.58639,67.53639&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Pustozersk%2C%20Nenets%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -115,7 +116,8 @@
       "old-believers"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "nenets-nenets-local-lore-museum",
@@ -158,8 +160,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=53.0049,67.6381&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=67.6381,53.0049"
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%B5%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9%20%D0%BA%D1%80%D0%B0%D0%B5%D0%B2%D0%B5%D0%B4%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9&ll=53.0049,67.6381&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Nenets%20Local%20Lore%20Museum%2C%20Russia"
     },
     "official_site": "https://naomuseum.ru",
     "sources": [
@@ -174,7 +176,8 @@
       "culture"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "nenets-epiphany-cathedral-naryan-mar",
@@ -217,8 +220,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=53.009859,67.638347&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=67.638347,53.009859"
+      "yandex": "https://yandex.com/maps/?text=%D0%91%D0%BE%D0%B3%D0%BE%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%81%D0%BE%D0%B1%D0%BE%D1%80&ll=53.009859,67.638347&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Epiphany%20Cathedral%2C%20Naryan-Mar%2C%20Nenets%2C%20Russia"
     },
     "official_site": "https://sobornm.pravorg.ru",
     "sources": [
@@ -233,7 +236,8 @@
       "architecture"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "nenets-nenets-tundra-reindeer-camps",
@@ -276,8 +280,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Nenetsia%20banner%20Naryan-Mar%20reindeers.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=53.3,67.7&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=67.7,53.3"
+      "yandex": "https://yandex.com/maps/?text=%D0%A2%D1%83%D0%BD%D0%B4%D1%80%D0%B0%2C%20%D0%BE%D0%BB%D0%B5%D0%BD%D0%B5%D0%B2%D0%BE%D0%B4%D1%8B%2C%20%D1%87%D1%83%D0%BC&ll=53.3,67.7&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Nenets%20tundra%20and%20reindeer%20herders%27%20camps%20%28chum%29%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -292,6 +296,7 @@
       "reindeer"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   }
 ]

@@ -41,8 +41,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Dormition%20Cathedral%20%2819964269815%29.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=49.6714,58.5975&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=58.5975,49.6714"
+      "yandex": "https://yandex.com/maps/?text=%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%A2%D1%80%D0%B8%D1%84%D0%BE%D0%BD%D0%BE%D0%B2%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C&ll=49.6714,58.5975&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Assumption%20%28Uspensky%29%20Trifonov%20Monastery%2C%20Kirov%2C%20Russia"
     },
     "official_site": "https://uspenskysobor.ru",
     "sources": [
@@ -59,7 +59,8 @@
       "architecture"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "kirov-dymkovo-toy-museum",
@@ -102,8 +103,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%A1%D0%BB%D0%BE%D0%B1%D0%BE%D0%B4%D0%B0%20%D0%94%D1%8B%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=49.676538,58.602742&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=58.602742,49.676538"
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%B9%20%D0%B4%D1%8B%D0%BC%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B8%D0%B3%D1%80%D1%83%D1%88%D0%BA%D0%B8&ll=49.676538,58.602742&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Dymkovo%20Toy%2C%20Kirov%2C%20Russia"
     },
     "official_site": "https://dymkatoys.ru",
     "sources": [
@@ -119,7 +120,8 @@
       "family"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "kirov-velikoretskoye",
@@ -163,8 +165,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D1%80%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20%D1%85%D0%BE%D0%B4.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=49.05417,58.89556&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=58.89556,49.05417"
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D1%80%D0%B5%D1%86%D0%BA%D0%BE%D0%B5&ll=49.05417,58.89556&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Velikoretskoye%2C%20Kirov%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -182,7 +184,8 @@
       "history"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "kirov-kotelnich-paleontology-museum",
@@ -225,8 +228,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=48.3305,58.3037&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=58.3037,48.3305"
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D1%87%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D0%B0%D0%BB%D0%B5%D0%BE%D0%BD%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9&ll=48.3305,58.3037&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kotelnich%20Paleontological%20Museum%2C%20Kirov%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -243,7 +246,8 @@
       "family"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "kirov-kirov-alexander-garden",
@@ -287,8 +291,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Vyatka-Kirov%20asv2019-05%20img31%20Alexander%20Garden.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=49.686537,58.608026&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=58.608026,49.686537"
+      "yandex": "https://yandex.com/maps/?text=%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%B0%D0%B4%20/%20%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F%20%D0%93%D1%80%D0%B8%D0%BD%D0%B0&ll=49.686537,58.608026&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Alexander%20Garden%20and%20Grin%20Embankment%2C%20Kirov%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -306,7 +310,8 @@
       "family"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "kirov-nizhne-ivkino-resort",
@@ -349,8 +354,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=49.513171,58.198089&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=58.198089,49.513171"
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%B0%D0%BD%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D0%B9%20%C2%AB%D0%9D%D0%B8%D0%B6%D0%BD%D0%B5-%D0%98%D0%B2%D0%BA%D0%B8%D0%BD%D0%BE%C2%BB&ll=49.513171,58.198089&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Nizhne-Ivkino%20Health%20Resort%20%28Sanatorium%29%2C%20Kirov%2C%20Russia"
     },
     "official_site": "https://n-ivkino.ru",
     "sources": [
@@ -368,7 +373,8 @@
       "nature"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "kirov-vasnetsov-art-museum-kirov",
@@ -411,8 +417,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Vasnetsov%20Vyatka.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=49.6689,58.6024&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=58.6024,49.6689"
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D1%8F%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%20%D0%92.%20%D0%9C.%20%D0%B8%20%D0%90.%20%D0%9C.%20%D0%92%D0%B0%D1%81%D0%BD%D0%B5%D1%86%D0%BE%D0%B2%D1%8B%D1%85&ll=49.6689,58.6024&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Vyatka%20Art%20Museum%20named%20after%20the%20Vasnetsov%20Brothers%2C%20Kirov%2C%20Russia"
     },
     "official_site": "https://kirov-artmuzeum.ru",
     "sources": [
@@ -429,6 +435,7 @@
       "indoor"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   }
 ]

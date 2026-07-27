@@ -1,0 +1,229 @@
+# -*- coding: utf-8 -*-
+"""Builder: sinh _incoming/doc_cosmonautics-museum.json (nội dung nguyên gốc tiếng Việt)."""
+import json, os, re, unicodedata, urllib.parse
+
+SLUG = "cosmonautics-museum"
+NAME_VI = "Bảo tàng Du hành Vũ trụ Moscow & Đài tưởng niệm Những người chinh phục Không gian"
+NAME_RU = "Мемориальный музей космонавтики"
+NAME_EN = "Memorial Museum of Cosmonautics"
+
+CONTENT = r'''
+##SUBTITLE
+Dưới chân cây tháp titan cao 107 mét mô phỏng luồng lửa của một con tàu đang rời bệ phóng là bảo tàng vũ trụ hàng đầu nước Nga: nơi lưu giữ vệ tinh Sputnik, khoang tàu Gagarin, chú chó Belka và Strelka, và cả câu chuyện người Việt Nam đầu tiên bay vào không gian.
+
+##HIGHLIGHTS
+- Đài tưởng niệm «Những người chinh phục Không gian» cao 107 m, nghiêng 77°, ốp bằng titan sáng bạc — biểu tượng của Kỷ nguyên Vũ trụ khánh thành năm 1964.
+- Bộ sưu tập khoảng 85.000 hiện vật với mô hình vệ tinh Sputnik-1, khoang đổ bộ tàu Vostok, xe tự hành Mặt Trăng Lunokhod và trạm Luna.
+- Xác ướp bảo quản của hai chú chó Belka và Strelka — những sinh vật đầu tiên bay lên quỹ đạo rồi trở về Trái Đất an toàn năm 1960.
+- Đại lộ Các Nhà Du hành Vũ trụ với hàng tượng bán thân các phi hành gia và tượng đài nhà lý thuyết Tsiolkovsky dẫn thẳng từ ga tàu điện ngầm VDNKh.
+- Ý tưởng bảo tàng thuộc về Tổng công trình sư Sergei Korolev; nơi đây cũng kể lại chuyến bay của Phạm Tuân — người châu Á đầu tiên vào vũ trụ (1980).
+
+##SECTION Giới thiệu chung
+Bảo tàng Du hành Vũ trụ Moscow, tên chính thức trong tiếng Nga là Мемориальный музей космонавтики (Bảo tàng Tưởng niệm Du hành Vũ trụ), là bảo tàng chuyên đề về công cuộc chinh phục không gian lớn và nổi tiếng bậc nhất nước Nga. Điều khiến nó khác thường ngay từ cái nhìn đầu tiên là vị trí: toàn bộ không gian trưng bày nằm ẩn bên trong phần bệ của một tượng đài khổng lồ — Đài tưởng niệm «Những người chinh phục Không gian». Vì thế, với nhiều du khách, bảo tàng và tượng đài là một cặp không thể tách rời: người ta ngước nhìn cây tháp titan vươn lên trời trước, rồi mới bước xuống lòng bệ để gặp những hiện vật đã làm nên huyền thoại vũ trụ Xô Viết.
+
+Đây là điểm đến gần như bắt buộc đối với bất kỳ ai quan tâm đến lịch sử khoa học – kỹ thuật thế kỷ 20. Bộ sưu tập của bảo tàng lên tới khoảng 85.000 hiện vật, và mỗi năm đón chừng 300.000 lượt khách. Chủ đề xuyên suốt là chương trình vũ trụ Liên Xô với những cái tên đã đi vào sách giáo khoa toàn cầu: Yuri Gagarin — người đầu tiên bay vào vũ trụ; Sergei Korolev — vị Tổng công trình sư đứng sau mọi thành tựu; vệ tinh nhân tạo Sputnik; và dòng tàu Soyuz vẫn đang bay đến tận ngày nay.
+
+Không giống nhiều bảo tàng lịch sử có phần khô khan, nơi đây đầy ắp vật thể ba chiều gây choáng ngợp: tên lửa, động cơ, khoang tàu, bộ đồ du hành, mô hình trạm quỹ đạo, thậm chí cả những chú chó vũ trụ được bảo quản nguyên vẹn. Với người Việt Nam, chuyến thăm còn mang một ý nghĩa đặc biệt: chính trong khuôn khổ chương trình hợp tác vũ trụ Interkosmos mà Liên Xô dẫn dắt, phi công Phạm Tuân đã trở thành công dân châu Á đầu tiên bay vào không gian năm 1980 — một câu chuyện được nhắc đến khi nói về tinh thần quốc tế của ngành du hành vũ trụ Xô Viết.
+
+Về quy mô và tầm vóc, đây được xem là một trong những bảo tàng vũ trụ lớn nhất thế giới, có thể sánh với các trung tâm trưng bày không gian danh tiếng ở Hoa Kỳ hay châu Âu. Bộ sưu tập không chỉ gồm thiết bị bay mà còn có vô số tài liệu gốc, thư từ, bản vẽ kỹ thuật, vật dụng cá nhân của các nhà du hành cùng nhiều tác phẩm nghệ thuật lấy cảm hứng từ vũ trụ. Nhờ vậy, người xem không chỉ chiêm ngưỡng những cỗ máy lạnh lùng bằng kim loại mà còn cảm nhận được nhịp đập con người phía sau mỗi sứ mệnh: nỗi hồi hộp trước giờ phóng, niềm vui vỡ oà khi tàu trở về và cả những hy sinh thầm lặng. Chính chiều sâu ấy khiến bảo tàng trở thành nơi giáo dục lý tưởng cho học sinh, sinh viên và là điểm hành hương của những người say mê khám phá không gian từ khắp nơi trên thế giới.
+
+##SECTION Vị trí & cách di chuyển
+Bảo tàng nằm ở phía đông bắc Moscow, ngay cạnh cổng chính của Trung tâm Triển lãm Thành tựu Kinh tế Quốc dân (VDNKh), bên Đại lộ Hoà Bình (Prospekt Mira). Đây là một trong những khu vực «đậm chất vũ trụ» nhất thủ đô: quanh đó có Gian Vũ trụ trong VDNKh, các con phố mang tên những người tiên phong ngành tên lửa như Kibalchich, Zander, Kondratyuk và cả Korolev, bởi phần lớn cơ sở nghiên cứu vũ trụ ngày trước đặt ở vùng ngoại ô đông bắc, tại thành phố Podlipki mà nay được đổi tên thành Korolyov để vinh danh vị Tổng công trình sư.
+
+Cách di chuyển thuận tiện nhất là bằng tàu điện ngầm. Du khách đi tới ga VDNKh trên tuyến số 6 (tuyến Kaluzhsko–Rizhskaya, màu cam) của metro Moscow. Từ cửa ga, chỉ cần men theo Đại lộ Các Nhà Du hành Vũ trụ (аллея Космонавтов) — một trục đi bộ rộng rãi hai bên là tượng đài — là sẽ tới thẳng chân tượng đài và lối vào bảo tàng, quãng đường chừng vài trăm mét. Trên đường đi, người ta lần lượt gặp tượng bán thân của Gagarin, của nữ phi hành gia Valentina Tereshkova, của Korolev, cùng mô hình hệ Mặt Trời được đặt dọc lối đi từ năm 2008.
+
+Vì bảo tàng gắn liền với quần thể VDNKh và tháp truyền hình Ostankino ở gần đó, du khách nên xem đây là một cụm điểm đến để đi trọn nửa ngày hoặc cả ngày, thay vì ghé qua vội vàng. Lối vào bảo tàng nằm ở mặt bên của khối bệ tượng đài; do công trình nằm chìm một phần dưới lòng đất, nhiều người lần đầu đến hơi bối rối — hãy nhắm hướng có dòng người xếp hàng và các bảng chỉ dẫn hình phi thuyền. Bãi để xe quanh khu vực khá hạn chế vào cuối tuần, nên phương tiện công cộng vẫn là lựa chọn hợp lý nhất.
+
+Một lưu ý nhỏ về định hướng: do bảo tàng nằm chìm trong khối bệ, biển hiệu bên ngoài không quá phô trương, nên du khách hãy bám theo trục Đại lộ Các Nhà Du hành Vũ trụ và hướng về phía cây tháp titan là chắc chắn không lạc. Nếu di chuyển bằng taxi hay xe công nghệ, hãy báo tài xế điểm đến là khu tượng đài cạnh cổng VDNKh trên Đại lộ Hoà Bình. Khu vực có vỉa hè rộng, thân thiện với người đi bộ và xe đẩy, phù hợp cho cả gia đình có trẻ nhỏ hoặc người lớn tuổi đi cùng. Vào giờ cao điểm cuối tuần, các lối ra của ga VDNKh khá đông, nên hãy đi theo dòng người và bảng chỉ dẫn để ra đúng phía tượng đài thay vì phía trung tâm triển lãm.
+
+##SECTION Lịch sử hình thành và phát triển
+Câu chuyện của bảo tàng bắt đầu từ chính cây tượng đài che chở nó. Sau khi Liên Xô phóng thành công Sputnik-1 — vệ tinh nhân tạo đầu tiên của nhân loại — vào tháng 10 năm 1957, cả đất nước sống trong niềm hưng phấn về không gian. Đến tháng 3 năm 1958, một cuộc thi thiết kế được phát động để tìm mẫu đài tưởng niệm xứng tầm với buổi bình minh của Kỷ nguyên Vũ trụ. Trong khoảng 350 phương án gửi về, ban giám khảo chọn thiết kế của nhà điêu khắc A.P. Faidysh-Krandievsky cùng hai kiến trúc sư A.N. Kolchin và M.O. Barshch. Công trình được khánh thành ngày 4 tháng 10 năm 1964, đúng dịp kỷ niệm bảy năm ngày Sputnik-1 rời bệ phóng.
+
+Ngay từ đầu, tượng đài đã được thiết kế để có thể chứa một bảo tàng trong phần bệ. Tuy vậy, phải mất nhiều năm chuẩn bị, đến ngày 10 tháng 4 năm 1981 — chỉ hai ngày trước lễ kỷ niệm 20 năm chuyến bay lịch sử của Gagarin — bảo tàng mới chính thức mở cửa đón công chúng. Người khai sinh ý tưởng chính là Sergei Korolev; ông muốn có một nơi lưu giữ và tôn vinh thành quả của cả một thế hệ kỹ sư, nhà khoa học và công nhân vô danh đã đưa con người lên quỹ đạo.
+
+Bước ngoặt lớn tiếp theo diễn ra vào cuối thập niên 2000. Sau khoảng ba năm đóng cửa để cải tạo toàn diện, bảo tàng mở lại đúng ngày Du hành Vũ trụ 12 tháng 4 năm 2009. Diện tích được mở rộng gần gấp ba, đồng thời bổ sung những khu trưng bày mới nói về chương trình vũ trụ của Hoa Kỳ, châu Âu, Trung Quốc và Trạm Vũ trụ Quốc tế ISS — một sự thừa nhận rằng chinh phục không gian giờ đây là sự nghiệp chung của cả nhân loại chứ không riêng một cường quốc. Nhiều mô hình tương tác, màn hình cảm ứng và không gian mô phỏng cũng được đưa vào, biến nơi đây từ một «kho hiện vật» trang nghiêm thành một trung tâm giáo dục sống động cho học sinh, sinh viên và khách du lịch.
+
+Cần nhớ rằng bối cảnh ra đời của cả quần thể gắn liền với cuộc chạy đua không gian thời Chiến tranh Lạnh. Việc Sputnik-1 phát đi những tín hiệu đầu tiên từ quỹ đạo tháng 10 năm 1957 đã gây chấn động thế giới và khơi mào một cuộc đua quyết liệt giữa Liên Xô và Hoa Kỳ. Chưa đầy bốn năm sau, ngày 12 tháng 4 năm 1961, Yuri Gagarin trở thành người đầu tiên bay quanh Trái Đất trên con tàu Vostok-1, biến ngày này thành Ngày Du hành Vũ trụ được kỷ niệm hằng năm. Việc chọn ngày mở cửa bảo tàng sát dịp kỷ niệm chuyến bay của Gagarin, cũng như khánh thành tượng đài đúng ngày kỷ niệm Sputnik, cho thấy các cột mốc của bảo tàng luôn được gắn khít với những khoảnh khắc thiêng liêng nhất trong lịch sử vũ trụ Xô Viết.
+
+##SECTION Kiến trúc & đặc điểm nổi bật
+Điểm nhấn kiến trúc không thể bỏ qua chính là Đài tưởng niệm «Những người chinh phục Không gian». Cây tháp cao 107 mét, nghiêng một góc 77 độ, mô phỏng hình ảnh một con tên lửa đang lao vút lên trời trên chính luồng khói lửa của nó. Bề mặt được ốp bằng những tấm titan sáng bạc — chất liệu do đích thân Korolev đề xuất, vừa hiện đại vừa gợi liên tưởng đến kim loại của ngành hàng không vũ trụ. Dưới ánh nắng, cả khối tháp lấp lánh như một mũi tên bạc cắm ngược vào bầu trời Moscow, trở thành một trong những hình bóng dễ nhận ra nhất của thành phố.
+
+Dưới chân tháp, phía trước, là tượng nhà bác học Konstantin Tsiolkovsky — người thầy lý thuyết của ngành du hành vũ trụ, được khắc hoạ trong tư thế trầm tư ngước nhìn trời cao. Hai bên sườn của khối bệ được trang trí bằng các bức phù điêu nổi khắc hoạ đội ngũ làm nên kỳ tích không gian: nhà khoa học, kỹ sư, công nhân, mỗi người gắn với công cụ nghề nghiệp của mình. Trong đám đông ấy, tinh mắt sẽ nhận ra một người cầm băng đục lỗ — biểu tượng của lập trình viên và ngành tính toán thuở sơ khai — một phi hành gia trong bộ đồ du hành, và cả chú chó Laika, sinh vật đầu tiên bay quanh Trái Đất. Theo thông lệ của Liên Xô thời hậu Stalin, không một chính khách đương thời nào được khắc hoạ; đám đông tiến bước dưới lá cờ mang hình Lenin.
+
+Bên trong, không gian trưng bày được tổ chức thành nhiều khu chủ đề, dẫn dắt người xem đi từ giấc mơ bay của loài người, qua thời khắc Sputnik và Gagarin, đến các trạm quỹ đạo và hợp tác quốc tế. Trần và tường nhiều chỗ được thiết kế gợi cảm giác của khoang tàu hoặc bầu trời sao, tạo nên bầu không khí vừa trang nghiêm vừa mộng mơ. Chính sự kết hợp giữa một tượng đài ngoài trời hoành tráng và một bảo tàng ngầm giàu hiện vật đã làm nên nét độc đáo hiếm có của công trình này.
+
+Bản thân ý tưởng đặt một bảo tàng vào trong bệ của tượng đài cũng là một giải pháp kiến trúc táo bạo và giàu tính biểu tượng: du khách theo nghĩa đen bước vào bên trong tượng đài để chạm tới lịch sử. Không gian ngầm giúp bảo vệ hiện vật khỏi khí hậu khắc nghiệt của Moscow, đồng thời tạo cảm giác chuyển tiếp — từ ánh sáng ban ngày ngoài quảng trường, người xem bước vào một thế giới tĩnh lặng được chiếu sáng có chủ đích, nơi từng con tàu và bộ đồ du hành hiện lên như những thánh tích. Đợt cải tạo cuối thập niên 2000 đã tinh chỉnh lối dẫn tuyến, ánh sáng và cách trưng bày để dòng người di chuyển mạch lạc hơn, đồng thời bổ sung nhiều bảng thông tin song ngữ và thiết bị nghe nhìn hiện đại.
+
+##SECTION Những điểm nhấn không thể bỏ lỡ
+Hiện vật được nhắc đến nhiều nhất có lẽ là hai chú chó Belka và Strelka. Tháng 8 năm 1960, chúng bay lên quỹ đạo trên con tàu tiền thân của Vostok rồi trở về Trái Đất an toàn, trở thành những sinh vật cao cấp đầu tiên sống sót sau chuyến bay vào không gian — mở đường cho chuyến bay của con người chưa đầy một năm sau đó. Ngày nay, thân thể được bảo quản của Belka và Strelka nằm trong tủ kính, khiến không ít du khách vừa xúc động vừa tò mò dừng lại rất lâu.
+
+Bên cạnh đó là những «ngôi sao» khác của bộ sưu tập: mô hình vệ tinh Sputnik-1 với chiếc ăng-ten toả ra bốn phía, động cơ tên lửa thời kỳ đầu, khoang đổ bộ hình cầu kiểu Vostok từng đưa nhà du hành trở về mặt đất, bộ đồ du hành và cả bộ giáp Krechet dùng cho các chuyến đi bộ ngoài không gian. Đặc biệt hấp dẫn là xe tự hành Mặt Trăng Lunokhod — cỗ máy tám bánh trông như một chú rùa cơ khí từng lăn bánh trên bề mặt chị Hằng — và mô hình trạm tự động Luna-3, thiết bị đầu tiên chụp được ảnh phần khuất của Mặt Trăng mà từ Trái Đất không bao giờ nhìn thấy.
+
+Một hiện vật nhỏ nhưng giàu ý nghĩa ngoại giao là lá cờ Liên Xô gắn những mảnh đá Mặt Trăng, do Tổng thống Mỹ Richard Nixon trao tặng nhân dân Liên Xô vào tháng 6 năm 1970 — một cái bắt tay hiếm hoi giữa hai siêu cường ngay giữa thời Chiến tranh Lạnh. Ngoài ra, khu trưng bày về đời sống trên trạm quỹ đạo cho thấy các nhà du hành ăn, ngủ, làm việc và vệ sinh cá nhân ra sao trong môi trường không trọng lực; những chi tiết đời thường ấy thường khiến trẻ em thích thú không kém gì các con tàu hoành tráng.
+
+Ngoài các hiện vật cỡ lớn, bảo tàng còn dành không gian trang trọng cho những nhân vật đã làm nên lịch sử. Khu tưởng niệm Sergei Korolev giới thiệu chân dung và di vật của vị Tổng công trình sư mà tên tuổi từng được giữ bí mật suốt nhiều năm vì lý do an ninh — công chúng chỉ biết đến ông như «Tổng công trình sư» vô danh cho tới khi ông qua đời. Bên cạnh đó là các hiện vật gắn với Gagarin và nữ phi hành gia đầu tiên trên thế giới Valentina Tereshkova, cùng những khu trưng bày về trạm quỹ đạo Mir và hợp tác quốc tế trên Trạm ISS. Với người yêu thiên văn, các mô hình hành tinh, thiên thạch và thiết bị quan sát cũng là những điểm dừng chân thú vị, mở rộng câu chuyện từ lịch sử tên lửa sang bức tranh vũ trụ bao la.
+
+##SECTION Ý nghĩa lịch sử – văn hoá
+Bảo tàng và tượng đài không chỉ kể chuyện khoa học; chúng là đài kỷ niệm cho một giai đoạn mà cả một quốc gia đặt niềm tự hào vào bầu trời. Trong nhận thức của người Xô Viết, việc phóng Sputnik và đưa Gagarin lên vũ trụ là bằng chứng hùng hồn về sức mạnh khoa học – kỹ thuật của chế độ, một chiến thắng biểu tượng trong cuộc chạy đua với phương Tây. Vì thế, cả khu vực đông bắc Moscow này được quy hoạch như một «thánh địa vũ trụ», với tên đường, tượng đài và bảo tàng cùng hướng về một chủ đề duy nhất.
+
+Đối với ngành du hành vũ trụ toàn cầu, những hiện vật ở đây có giá trị nguyên bản đặc biệt: nhiều thiết bị là bản gốc hoặc bản chế tạo song song với vật đã bay thật, gắn với các cột mốc mà nhân loại chỉ trải qua một lần trong lịch sử. Việc bảo tàng sau này bổ sung nội dung về chương trình của Mỹ, châu Âu, Trung Quốc và Trạm ISS cho thấy một sự chuyển dịch trong cách kể chuyện — từ niềm tự hào dân tộc sang tinh thần hợp tác chung của loài người trước vũ trụ bao la.
+
+Với du khách Việt Nam, sợi dây kết nối gần gũi nhất chính là chương trình Interkosmos. Đây là sáng kiến để phi công của các nước bạn bè cùng huấn luyện và bay chung với những kíp lái Xô Viết dày dạn, mang ý nghĩa ngoại giao rõ rệt về tình đoàn kết quốc tế và tiến bộ khoa học được chia sẻ. Chính trong khuôn khổ ấy, năm 1980, Phạm Tuân đã bay vào vũ trụ và trở thành người châu Á đầu tiên làm được điều đó. Câu chuyện của ông là minh chứng cho việc giấc mơ chinh phục không gian, khởi nguồn từ dưới chân cây tháp titan này, đã lan toả ra ngoài biên giới Liên Xô và chạm tới cả Việt Nam.
+
+Ở tầm rộng hơn, khu quần thể này phản ánh cách một xã hội chọn lưu giữ ký ức tập thể và truyền cảm hứng cho các thế hệ sau. Không phải ngẫu nhiên mà nhiều thế hệ trẻ em Xô Viết và Nga lớn lên với ước mơ trở thành phi hành gia; tượng đài và bảo tàng chính là nơi nuôi dưỡng giấc mơ ấy. Ngày nay, khi du lịch vũ trụ tư nhân và các sứ mệnh liên hành tinh dần trở thành hiện thực, những hiện vật ở đây nhắc nhở rằng mọi bước tiến khổng lồ đều bắt đầu từ những thử nghiệm đầu tiên đầy rủi ro — và rằng tinh thần dấn thân cùng hợp tác chính là động lực đưa loài người vượt ra khỏi Trái Đất.
+
+##SECTION Trải nghiệm dành cho du khách
+Một chuyến thăm điển hình thường bắt đầu bằng khoảnh khắc đứng dưới chân tượng đài, ngửa cổ ngước nhìn cây tháp bạc và chụp vài tấm ảnh — góc máy được yêu thích là lấy trọn con tên lửa cùng luồng khói lửa vươn lên nền trời. Sau đó, du khách đi xuống lối vào bên hông để bắt đầu hành trình trong lòng bảo tàng, nơi ánh sáng dịu và những vòm trần gợi cảm giác đang bước vào một con tàu vũ trụ.
+
+Bên trong, trải nghiệm rất đa dạng cho nhiều lứa tuổi. Người lớn thường mê mải trước các hiện vật gốc và những tấm bảng thông tin về lịch sử tên lửa; trẻ em lại thích các mô hình tương tác, buồng mô phỏng và những màn hình cho phép «điều khiển» tàu hay quan sát Trái Đất từ quỹ đạo. Nhiều khu vực tái hiện đời sống thường nhật của phi hành gia trên trạm Mir và ISS, giúp người xem hình dung cụ thể những điều tưởng chừng chỉ có trong phim khoa học viễn tưởng. Bảo tàng cũng có khu chiếu phim, cửa hàng lưu niệm bán mô hình tên lửa, huy hiệu và đồ chơi chủ đề vũ trụ.
+
+Để hiểu sâu hơn, du khách có thể tham gia tour có hướng dẫn hoặc thuê thiết bị thuyết minh; nhiều đoàn khách quốc tế đặt trước hướng dẫn viên nói tiếng Anh. Thời gian tham quan hợp lý là từ một tiếng rưỡi đến hai tiếng, nhưng người thực sự say mê có thể ở lại lâu hơn. Vì hiện vật phần lớn là vật thể lớn đặt trong không gian rộng, nhịp tham quan khá thoải mái, không gây cảm giác chen chúc như ở một số bảo tàng nghệ thuật đông đúc trong trung tâm thành phố.
+
+Vào các dịp lễ hội thiên văn hay Ngày Du hành Vũ trụ, bảo tàng tổ chức nhiều hoạt động đặc biệt: gặp gỡ phi hành gia, chiếu phim khoa học, hội thảo và trại hè cho thiếu nhi. Đây cũng là địa điểm quen thuộc cho các buổi học ngoại khoá của trường học Moscow, nên đừng bất ngờ nếu bắt gặp từng đoàn học sinh say sưa ghi chép trước các hiện vật. Với du khách quốc tế, chính bầu không khí trang nghiêm mà gần gũi ấy — nơi người lớn trầm trồ còn trẻ em reo lên thích thú — mới là trải nghiệm đáng nhớ nhất, đôi khi còn hơn cả từng hiện vật riêng lẻ.
+
+##SECTION Mẹo tham quan
+Trước khi đi, du khách nên kiểm tra giờ mở cửa và ngày nghỉ trên trang chính thức của bảo tàng, bởi giống nhiều bảo tàng Nga, nơi đây thường đóng cửa vào một ngày đầu tuần và có một buổi trong tuần mở muộn hơn bình thường. Đặt vé trực tuyến từ sớm sẽ giúp tránh xếp hàng, nhất là vào cuối tuần, kỳ nghỉ hè hay quanh ngày Du hành Vũ trụ 12 tháng 4 — dịp bảo tàng đông khách và có nhiều hoạt động đặc biệt.
+
+Về thời điểm, buổi sáng các ngày trong tuần thường vắng hơn, thích hợp để thong thả ngắm hiện vật và chụp ảnh. Hãy chừa thời gian đi bộ thong dong dọc Đại lộ Các Nhà Du hành Vũ trụ để ngắm dàn tượng bán thân và mô hình hệ Mặt Trời trước khi vào trong. Nếu đi cùng trẻ nhỏ, nên ưu tiên các khu tương tác và khu chó vũ trụ để giữ sự hứng thú; nếu đi cùng người lớn tuổi, lưu ý bảo tàng có nhiều bậc thang nên cần hỏi trước về lối đi và thang máy.
+
+Một vài lưu ý thực tế khác: chụp ảnh thường được phép nhưng có thể phải mua thêm vé chụp hình, và nên hạn chế đèn flash; ba lô lớn cần gửi ở quầy. Vì bảo tàng nằm ngay cạnh VDNKh rộng mênh mông, du khách nên tính toán để gộp cả hai điểm trong một ngày, mang theo nước, giày đi bộ thoải mái và trang phục phù hợp thời tiết — mùa đông khu vực này khá lạnh và gió. Cuối cùng, đừng quên ghé cửa hàng lưu niệm: những mô hình tên lửa và huy hiệu ở đây là món quà rất được ưa chuộng.
+
+Nếu muốn kết hợp tìm hiểu sâu, du khách có thể ghé Nhà lưu niệm Korolev gần đó trong cùng buổi, hoặc dành riêng một ngày cho cụm VDNKh – bảo tàng vũ trụ. Về ẩm thực, khu vực quanh VDNKh có nhiều quán ăn và cửa hàng tiện lợi nên không lo thiếu chỗ nghỉ chân. Người mê nhiếp ảnh nên đến vào cuối buổi chiều khi nắng xiên làm lớp titan của tượng đài ánh lên rực rỡ — thời điểm đẹp nhất để ghi lại hình bóng con tên lửa bạc in trên nền trời. Nếu đi vào mùa đông, hãy mặc thật ấm và mang giày chống trơn, vì quảng trường trước tượng đài khá rộng và lộng gió.
+
+##SECTION Khám phá xung quanh
+Điểm đến hiển nhiên ngay bên cạnh là VDNKh — Trung tâm Triển lãm Thành tựu Kinh tế Quốc dân, một «thành phố triển lãm» rộng lớn với các gian mái vòm mạ vàng, đài phun nước lộng lẫy và Gian Vũ trụ trưng bày tên lửa cùng nhiều hiện vật hàng không. Chỉ riêng VDNKh đã đủ cho một ngày dạo chơi, và nó bổ sung hoàn hảo cho chủ đề vũ trụ mà du khách vừa khám phá trong bảo tàng.
+
+Cách đó không xa là Tháp truyền hình Ostankino, một trong những công trình cao nhất châu Âu, có đài quan sát cho tầm nhìn toàn cảnh Moscow; gần tháp còn có cung điện – bảo tàng Ostankino và Vườn Bách thảo chính. Với những ai muốn đi sâu vào câu chuyện con người phía sau các con tàu, Nhà lưu niệm Sergei Korolev — ngôi nhà nơi vị Tổng công trình sư từng sống, chỉ cách tượng đài vài dãy phố — là một điểm dừng đầy cảm xúc, nơi bàn làm việc và vật dụng của ông vẫn được gìn giữ nguyên vẹn.
+
+Nhờ nằm trên tuyến metro thuận tiện, từ đây du khách cũng dễ dàng kết nối về trung tâm để thăm Quảng trường Đỏ, Điện Kremlin hay các bảo tàng lớn. Tuy nhiên, nếu muốn giữ trọn mạch cảm hứng «vũ trụ», lộ trình lý tưởng là: đi bộ trên Đại lộ Các Nhà Du hành Vũ trụ, vào Bảo tàng Du hành Vũ trụ, rồi sang VDNKh ngắm tên lửa Vostok và tượng «Công nhân và Nữ nông trang viên», khép lại bằng bữa tối tại một trong nhiều quán ăn trong khuôn viên triển lãm.
+
+Nếu còn thời gian và yêu thích không gian xanh, Vườn Bách thảo chính mang tên Tsitsin ngay cạnh đó là một trong những vườn thực vật lớn nhất châu Âu, lý tưởng để thư giãn sau khi tham quan. Vào mùa đông, khu VDNKh biến thành một trong những sân trượt băng ngoài trời lớn nhất thành phố, tạo nên khung cảnh lễ hội rực rỡ. Sự đa dạng ấy khiến khu đông bắc Moscow trở thành điểm đến cho cả gia đình: người mê khoa học, người thích thiên nhiên và trẻ nhỏ đều tìm được niềm vui riêng, và bảo tàng vũ trụ chính là hạt nhân gắn kết tất cả những trải nghiệm đó.
+
+##SECTION Câu chuyện & giai thoại thú vị
+Giai thoại được người Việt yêu thích nhất gắn với cái tên Phạm Tuân. Ngày 23 tháng 7 năm 1980, ông cùng nhà du hành Xô Viết Viktor Gorbatko rời bệ phóng từ sân bay vũ trụ Baikonur trên con tàu Soyuz 37, bay lên trạm quỹ đạo Salyut-6. Trong gần tám ngày trên vũ trụ, thực hiện khoảng 142 vòng quanh Trái Đất, ông tiến hành các thí nghiệm khoa học, trong đó có nghiên cứu về sự nóng chảy của khoáng chất trong môi trường vi trọng lực. Trở về mặt đất ngày 31 tháng 7 năm 1980, Phạm Tuân được phong tặng danh hiệu Anh hùng Liên Xô, đi vào lịch sử với tư cách người Việt Nam và người châu Á đầu tiên bay vào không gian — một dấu ấn mà bất cứ du khách Việt nào đứng trong bảo tàng cũng có thể tự hào nhớ đến.
+
+Một giai thoại khác thuộc về chính cây tượng đài. Vì hình dáng thanh mảnh vươn cao đầy khí thế, nó đã trở thành biểu tượng phổ biến của thời đại vũ trụ: hình ảnh tháp từng xuất hiện trên đồng xu kỷ niệm 10 kopeck năm 1967 — đồng xu kỷ niệm có mệnh giá nhỏ nhất từng được Liên Xô phát hành — và nhiều thập niên sau còn góp mặt trong video ca nhạc quốc tế cũng như trên mẫu áo đấu của đội tuyển bóng đá Nga. Ít có tượng đài khoa học nào lại đi sâu vào văn hoá đại chúng đến vậy.
+
+Cuối cùng, chi tiết về hai chú chó Belka và Strelka luôn để lại dư âm. Sau chuyến bay lịch sử, Strelka về sau sinh được một lứa chó con khoẻ mạnh, và một trong số đó từng được gửi tặng gia đình Tổng thống Mỹ như một cử chỉ thiện chí — bằng chứng cho thấy ngay cả giữa cuộc chạy đua căng thẳng, những sinh vật bé nhỏ bay vào vũ trụ vẫn có thể trở thành sứ giả của hoà bình. Đứng trước tủ kính của chúng, nhiều du khách nhận ra rằng đằng sau những con số và cột mốc kỹ thuật khô khan là vô số câu chuyện rất con người và rất đời.
+
+Còn một chi tiết ít người để ý: trong nhiều năm, danh tính của Korolev — bộ óc đứng sau Sputnik và chuyến bay của Gagarin — được giữ kín tuyệt đối. Người phương Tây chỉ biết đến một «Tổng công trình sư» bí ẩn mà không rõ mặt, và mãi đến khi ông đột ngột qua đời năm 1966, tên tuổi thật mới được công bố rộng rãi. Nghịch lý ấy — người kiến tạo cả một kỷ nguyên vũ trụ nhưng phải sống trong bóng tối vì lý do an ninh — khiến câu chuyện về bảo tàng thêm phần day dứt, và làm cho khu tưởng niệm ông ngay trong lòng bảo tàng trở nên đặc biệt xúc động đối với những ai hiểu chuyện.
+
+##IMAGES
+7359. Moscow. Memorial Museum of Cosmonautics.jpg | Đại sảnh trưng bày trong lòng bệ tượng đài với các mô hình tàu và tên lửa
+Memorial Museum of Cosmonautics.jpg | Lối vào Bảo tàng Du hành Vũ trụ nằm dưới chân Đài tưởng niệm
+Yuri Gagarin Capsule and space suit.jpg | Khoang đổ bộ kiểu Vostok và bộ đồ du hành trưng bày trong bảo tàng
+Luna-3 (Memorial Museum of Astronautics).JPG | Mô hình trạm tự động Luna-3 — thiết bị đầu tiên chụp ảnh phần khuất của Mặt Trăng
+Монумент «Покорителям космоса» (14006733426).jpg | Đài tưởng niệm «Những người chinh phục Không gian» cao 107 m ốp titan
+
+##REFERENCES
+Memorial Museum of Cosmonautics — Wikipedia (tiếng Anh) | https://en.wikipedia.org/wiki/Memorial_Museum_of_Cosmonautics
+Monument to the Conquerors of Space — Wikipedia (tiếng Anh) | https://en.wikipedia.org/wiki/Monument_to_the_Conquerors_of_Space
+Cosmonauts Alley — Wikipedia (tiếng Anh) | https://en.wikipedia.org/wiki/Cosmonauts_Alley
+Phạm Tuân — Wikipedia (tiếng Anh) | https://en.wikipedia.org/wiki/Pham_Tuan
+Soyuz 37 — Wikipedia (tiếng Anh) | https://en.wikipedia.org/wiki/Soyuz_37
+Memorial Museum of Cosmonautics in Moscow — Atlas Obscura | https://www.atlasobscura.com/places/memorial-museum-of-cosmonautics
+Trang chính thức Bảo tàng Du hành Vũ trụ (tiếng Nga) | http://kosmo-museum.ru/
+
+##SOURCES
+Wikipedia tiếng Anh, mục «Memorial Museum of Cosmonautics» — dùng cho dữ kiện: vị trí trong bệ tượng đài, quy mô ~85.000 hiện vật, ~300.000 khách/năm, ngày mở cửa 10/4/1981, ý tưởng của Korolev, đợt cải tạo và mở lại 12/4/2009, các hiện vật (Sputnik, khoang Vostok, Lunokhod, Belka & Strelka, cờ có đá Mặt Trăng do Nixon tặng 6/1970).
+Wikipedia tiếng Anh, mục «Monument to the Conquerors of Space» — dùng cho: chiều cao 107 m, độ nghiêng 77°, ốp titan, cuộc thi thiết kế 1958 với ~350 phương án, tác giả Faidysh-Krandievsky/Kolchin/Barshch, khánh thành 4/10/1964, tượng Tsiolkovsky, phù điêu, đồng xu 10 kopeck 1967.
+Wikipedia tiếng Anh, mục «Cosmonauts Alley» — dùng cho: đại lộ đi bộ nối ga VDNKh với bảo tàng, hàng tượng phi hành gia, mô hình hệ Mặt Trời đặt năm 2008.
+Wikipedia tiếng Anh, mục «Phạm Tuân» và «Soyuz 37» — dùng cho: chuyến bay 23/7/1980 cùng Gorbatko, trạm Salyut-6, 142 vòng quỹ đạo, thí nghiệm nóng chảy khoáng chất, trở về 31/7/1980, danh hiệu Anh hùng Liên Xô, chương trình Interkosmos.
+Atlas Obscura và các trang du lịch chuyên đề — dùng để đối chiếu mô tả trải nghiệm tham quan và bối cảnh khu vực VDNKh.
+Lưu ý biên soạn: toàn bộ nội dung là tổng hợp nguyên gốc bằng tiếng Việt, không sao chép hay dịch nguyên văn từ bất kỳ nguồn nào; các chi tiết về giờ mở cửa, giá vé mang tính tham khảo, du khách nên kiểm tra lại trên trang chính thức trước khi đi.
+'''
+
+
+def nfc(s):
+    return unicodedata.normalize("NFC", s)
+
+
+def filepath(fn):
+    fn = fn.strip().replace(" ", "_")
+    return "https://commons.wikimedia.org/wiki/Special:FilePath/" + urllib.parse.quote(fn)
+
+
+def parse(content):
+    subtitle = ""
+    highlights, sections, images, references, sources = [], [], [], [], []
+    mode = None
+    cur = None
+    buf = []
+
+    def flush_para():
+        nonlocal buf
+        if cur is not None and buf:
+            txt = " ".join(x.strip() for x in buf).strip()
+            if txt:
+                cur["paras"].append(txt)
+        buf = []
+
+    for raw in content.splitlines():
+        line = raw.rstrip()
+        if line.startswith("##SUBTITLE"):
+            mode = "subtitle"; continue
+        if line.startswith("##HIGHLIGHTS"):
+            mode = "highlights"; continue
+        if line.startswith("##SECTION"):
+            flush_para()
+            mode = "section"
+            heading = line[len("##SECTION"):].strip()
+            cur = {"heading": heading, "paras": []}
+            sections.append(cur)
+            continue
+        if line.startswith("##IMAGES"):
+            flush_para(); mode = "images"; continue
+        if line.startswith("##REFERENCES"):
+            mode = "references"; continue
+        if line.startswith("##SOURCES"):
+            mode = "sources"; continue
+
+        if mode == "subtitle":
+            if line.strip():
+                subtitle = (subtitle + " " + line.strip()).strip()
+        elif mode == "highlights":
+            if line.strip().startswith("- "):
+                highlights.append(line.strip()[2:].strip())
+        elif mode == "section":
+            if not line.strip():
+                flush_para()
+            else:
+                buf.append(line)
+        elif mode == "images":
+            if "|" in line:
+                fn, cap = line.split("|", 1)
+                images.append({"url": filepath(fn), "caption": cap.strip()})
+        elif mode == "references":
+            if "|" in line:
+                title, url = line.split("|", 1)
+                references.append({"title": title.strip(), "url": url.strip()})
+        elif mode == "sources":
+            if line.strip():
+                sources.append(line.strip())
+    flush_para()
+    return subtitle, highlights, sections, images, references, sources
+
+
+subtitle, highlights, sections, images, references, sources = parse(CONTENT)
+doc = {
+    "slug": SLUG,
+    "name_vi": nfc(NAME_VI),
+    "name_ru": nfc(NAME_RU),
+    "name_en": nfc(NAME_EN),
+    "subtitle": nfc(subtitle),
+    "sections": [{"heading": nfc(s["heading"]), "paras": [nfc(p) for p in s["paras"]]} for s in sections],
+    "highlights": [nfc(x) for x in highlights],
+    "images": [{"url": im["url"], "caption": nfc(im["caption"])} for im in images],
+    "references": [{"title": nfc(r["title"]), "url": r["url"]} for r in references],
+    "sources": [nfc(x) for x in sources],
+}
+
+wc = sum(len(p.split()) for s in doc["sections"] for p in s["paras"])
+HERE = os.path.dirname(os.path.abspath(__file__))
+out = os.path.join(HERE, "doc_%s.json" % SLUG)
+with open(out, "w", encoding="utf-8") as f:
+    json.dump(doc, f, ensure_ascii=False, indent=2)
+print("WROTE", out)
+print("sections:", len(doc["sections"]), "| words:", wc, "| highlights:", len(doc["highlights"]),
+      "| images:", len(doc["images"]), "| refs:", len(doc["references"]), "| sources:", len(doc["sources"]))
+print("headings:", [s["heading"] for s in doc["sections"]])

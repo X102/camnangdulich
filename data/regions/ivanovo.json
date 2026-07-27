@@ -41,8 +41,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Plyos%20in%20Russia.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=41.5135,57.4608&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=57.4608,41.5135"
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%BB%D1%91%D1%81&ll=41.5135,57.4608&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Plyos%2C%20Ivanovo%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -61,7 +61,8 @@
       "art"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "ivanovo-palekh",
@@ -106,8 +107,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D0%B0%D0%BB%D0%B5%D1%85.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=41.8562,56.8036&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=56.8036,41.8562"
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D0%BB%D0%B5%D1%85&ll=41.8562,56.8036&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Palekh%2C%20Ivanovo%2C%20Russia"
     },
     "official_site": "http://muzei-paleh.ru",
     "sources": [
@@ -124,7 +125,8 @@
       "handicraft"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "ivanovo-ivanovo-museum-industry-art",
@@ -163,8 +165,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Stained%20glass%20in%20the%20Ivanovo%20Museum%20of%20calico%20%28Burylin%27s%20House%29%2001.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=40.97394,57.00489&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=57.00489,40.97394"
+      "yandex": "https://yandex.com/maps/?text=%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%20%D0%BF%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B8%20%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B0&ll=40.97394,57.00489&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Ivanovo%20Museum%20of%20Industry%20and%20Art%2C%20Russia"
     },
     "official_site": "https://igikm.ru",
     "sources": [
@@ -182,7 +184,8 @@
       "history"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "ivanovo-shchudrovskaya-palatka",
@@ -221,8 +224,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=40.9758,57.0067&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=57.0067,40.9758"
+      "yandex": "https://yandex.com/maps/?text=%D0%A9%D1%83%D0%B4%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BB%D0%B0%D1%82%D0%BA%D0%B0&ll=40.9758,57.0067&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Shchudrovskaya%20Palatka%2C%20Ivanovo%2C%20Russia"
     },
     "official_site": "https://igikm.ru",
     "sources": [
@@ -239,7 +242,8 @@
       "museum"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "ivanovo-kineshma",
@@ -283,8 +287,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Kineshma.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=42.1442,57.4398&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=57.4398,42.1442"
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D0%B8%D0%BD%D0%B5%D1%88%D0%BC%D0%B0&ll=42.1442,57.4398&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kineshma%2C%20Ivanovo%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -302,7 +306,8 @@
       "ostrovsky"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "ivanovo-kholui",
@@ -346,8 +351,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=41.87417,56.57556&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=56.57556,41.87417"
+      "yandex": "https://yandex.com/maps/?text=%D0%A5%D0%BE%D0%BB%D1%83%D0%B9&ll=41.87417,56.57556&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kholui%2C%20Ivanovo%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -364,7 +369,8 @@
       "teza-river"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "ivanovo-shuya",
@@ -408,8 +414,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Shuya%20resurrection%20cathedral.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=41.3806,56.8556&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=56.8556,41.3806"
+      "yandex": "https://yandex.com/maps/?text=%D0%A8%D1%83%D1%8F&ll=41.3806,56.8556&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Shuya%2C%20Ivanovo%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -426,7 +432,8 @@
       "textile-history"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "ivanovo-ivanovo-constructivism",
@@ -465,8 +472,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Ivanovo%20Dom-korabl.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=40.9814,56.9994&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=56.9994,40.9814"
+      "yandex": "https://yandex.com/maps/?text=%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D0%B8%D0%B2%D0%B8%D0%B7%D0%BC%3A%20%D0%94%D0%BE%D0%BC-%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C%20%D0%B8%20%D0%94%D0%BE%D0%BC-%D0%BF%D0%BE%D0%B4%D0%BA%D0%BE%D0%B2%D0%B0&ll=40.9814,56.9994&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Ivanovo%20Constructivism%3A%20the%20House-Ship%20and%20the%20Horseshoe%20House%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -483,6 +490,7 @@
       "horseshoe-house"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   }
 ]

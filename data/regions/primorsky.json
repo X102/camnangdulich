@@ -35,8 +35,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Zolotoy%20bridge%2C%20Golden%20Bridge%20%2822076779162%29.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=131.8961,43.1086&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=43.1086,131.8961"
+      "yandex": "https://yandex.com/maps/?text=%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B9%20%D0%BC%D0%BE%D1%81%D1%82&ll=131.8961,43.1086&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Golden%20Bridge%20%28Zolotoy%20Bridge%29%2C%20Primorsky%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -55,7 +55,8 @@
       "apec-2012"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "primorsky-vd-russky-bridge",
@@ -93,8 +94,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Russki%20Island%20Bridge%2C%20Russia1.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=131.9081,43.0636&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=43.0636,131.9081"
+      "yandex": "https://yandex.com/maps/?text=%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D1%81%D1%82&ll=131.9081,43.0636&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Russky%20Bridge%2C%20Primorsky%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -113,7 +114,8 @@
       "apec-2012"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "primorsky-vd-eagles-nest-hill",
@@ -151,8 +153,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Eagle%27s%20Nest%20panorama%2C%20Vladivostok%20%2822076581422%29.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=131.8922,43.1156&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=43.1156,131.8922"
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%BE%D0%BF%D0%BA%D0%B0%20%D0%9E%D1%80%D0%BB%D0%B8%D0%BD%D0%BE%D0%B5%20%D0%B3%D0%BD%D0%B5%D0%B7%D0%B4%D0%BE&ll=131.8922,43.1156&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Eagle%27s%20Nest%20Hill%20%28Orlinoye%20Gnezdo%29%2C%20Primorsky%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -170,7 +172,8 @@
       "far-east"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "primorsky-vd-tokarevsky-lighthouse",
@@ -208,8 +211,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Tokarevsky%20Lighthouse%20%2821466329494%29.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=131.8447,43.0728&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=43.0728,131.8447"
+      "yandex": "https://yandex.com/maps/?text=%D0%A2%D0%BE%D0%BA%D0%B0%D1%80%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%B0%D1%8F%D0%BA&ll=131.8447,43.0728&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Tokarevsky%20Lighthouse%2C%20Primorsky%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -228,7 +231,8 @@
       "far-east"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "primorsky-vd-primorsky-aquarium",
@@ -266,8 +270,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=131.7553,43.024&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=43.024,131.7553"
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D1%80%D0%B8%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BE%D0%BA%D0%B5%D0%B0%D0%BD%D0%B0%D1%80%D0%B8%D1%83%D0%BC&ll=131.7553,43.024&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Primorsky%20Aquarium%20%28Primorsky%20Oceanarium%29%2C%20Russia"
     },
     "official_site": "https://primocean.ru",
     "sources": [
@@ -286,7 +290,8 @@
       "far-east"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "primorsky-vd-submarine-s56",
@@ -325,8 +330,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Vladivostok%20Submarine%20S-56%20P8050502%202200.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=131.8876,43.1147&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=43.1147,131.8876"
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%BE%D0%B4%D0%B2%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F%20%D0%BB%D0%BE%D0%B4%D0%BA%D0%B0%20%D0%A1-56&ll=131.8876,43.1147&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Memorial%20Submarine%20S-56%2C%20Primorsky%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -345,7 +350,8 @@
       "far-east"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "primorsky-vd-railway-station",
@@ -383,8 +389,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Vladivostok%20railway%20station%2019920503.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=131.85155,43.111161&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=43.111161,131.85155"
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D0%BA%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B2%D0%BE%D0%BA%D0%B7%D0%B0%D0%BB&ll=131.85155,43.111161&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Vladivostok%20Railway%20Station%2C%20Primorsky%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -403,7 +409,8 @@
       "far-east"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "primorsky-vd-fortress",
@@ -442,8 +449,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Vladivostok%20Fortress%20museum%20%2822099310821%29.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=131.876,43.1178&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=43.1178,131.876"
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D0%BA%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C&ll=131.876,43.1178&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Vladivostok%20Fortress%2C%20Primorsky%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -462,7 +469,8 @@
       "far-east"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "primorsky-primorsky-land-of-leopard",
@@ -500,8 +508,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Amur%20Leopard%20Panthera%20pardus%20orientalis%20Facing%20Forward%201761px.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=131.4167,43.0&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=43.0,131.4167"
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%B0%D1%80%D0%BA%20%C2%AB%D0%97%D0%B5%D0%BC%D0%BB%D1%8F%20%D0%BB%D0%B5%D0%BE%D0%BF%D0%B0%D1%80%D0%B4%D0%B0%C2%BB&ll=131.4167,43.0&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Land%20of%20the%20Leopard%20National%20Park%2C%20Primorsky%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -520,7 +528,8 @@
       "far-east"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "primorsky-primorsky-lake-khanka",
@@ -558,8 +567,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Primorsky%20Krai%20banner%20Beach%20of%20Khanka%20Lake.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=132.4167,45.0&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=45.0,132.4167"
+      "yandex": "https://yandex.com/maps/?text=%D0%9E%D0%B7%D0%B5%D1%80%D0%BE%20%D0%A5%D0%B0%D0%BD%D0%BA%D0%B0&ll=132.4167,45.0&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Lake%20Khanka%2C%20Primorsky%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -578,7 +587,8 @@
       "far-east"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "primorsky-vd-svetlanskaya-street",
@@ -616,8 +626,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D0%BA%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BF%D0%BE%D1%80%D1%82%D0%B0%20%D0%B8%20%D0%A1%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA%D0%BE%D0%B9%20%D1%84%D0%BB%D0%BE%D1%82%D0%B8%D0%BB%D0%B8%D0%B8%2C%20%D0%B3.%20%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D0%BA%2C%20%D1%83%D0%BB.%20%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2072.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=131.8875,43.1157&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=43.1157,131.8875"
+      "yandex": "https://yandex.com/maps/?text=%D0%A3%D0%BB%D0%B8%D1%86%D0%B0%20%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F&ll=131.8875,43.1157&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Svetlanskaya%20Street%2C%20Primorsky%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -636,7 +646,8 @@
       "far-east"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "primorsky-primorsky-cape-tobizina",
@@ -674,8 +685,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/20220812%20Tobizin%20cape%20Russky%20Island.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=131.7553,42.9236&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=42.9236,131.7553"
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%8B%D1%81%20%D0%A2%D0%BE%D0%B1%D0%B8%D0%B7%D0%B8%D0%BD%D0%B0&ll=131.7553,42.9236&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Cape%20Tobizina%2C%20Primorsky%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -694,6 +705,7 @@
       "far-east"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   }
 ]

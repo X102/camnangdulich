@@ -40,8 +40,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Kalashnikov%20Museum%20and%20Exhibition%20Complex%20of%20Small%20Arms.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=53.2069,56.8516&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=56.8516,53.2069"
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%B9%D0%BD%D0%BE-%D0%B2%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%20%D0%B8%D0%BC.%20%D0%9C.%D0%A2.%20%D0%9A%D0%B0%D0%BB%D0%B0%D1%88%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0&ll=53.2069,56.8516&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=M.T.%20Kalashnikov%20Museum%20and%20Exhibition%20Complex%20of%20Small%20Arms%2C%20Udmurtia%2C%20Russia"
     },
     "official_site": "https://museum-mtk.ru",
     "sources": [
@@ -58,7 +58,8 @@
       "shooting-range"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "udmurtia-votkinsk-tchaikovsky-estate",
@@ -102,8 +103,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Muzej%204alkovskogo.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=53.985,57.0553&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=57.0553,53.985"
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%B9-%D1%83%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0%20%D0%9F.%20%D0%98.%20%D0%A7%D0%B0%D0%B9%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE&ll=53.985,57.0553&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Tchaikovsky%20Estate%20Museum%20%28Votkinsk%29%2C%20Udmurtia%2C%20Russia"
     },
     "official_site": "https://tchaikovskyhome.ru",
     "sources": [
@@ -120,7 +121,8 @@
       "history"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "udmurtia-ludorvai-open-air-museum",
@@ -159,8 +161,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=53.035,56.7717&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=56.7717,53.035"
+      "yandex": "https://yandex.com/maps/?text=%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%BD%D0%BE-%D1%8D%D1%82%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9-%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA%20%C2%AB%D0%9B%D1%83%D0%B4%D0%BE%D1%80%D0%B2%D0%B0%D0%B9%C2%BB&ll=53.035,56.7717&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Ludorvai%20Architectural-Ethnographic%20Museum-Reserve%2C%20Udmurtia%2C%20Russia"
     },
     "official_site": "https://ludorvay.ru",
     "sources": [
@@ -177,7 +179,8 @@
       "folk-culture"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "udmurtia-sarapul-historic-town",
@@ -217,8 +220,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Sarapul%20-%20Sedelnikov%20street.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=53.8078,56.4636&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=56.4636,53.8078"
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%B0%D1%80%D0%B0%D0%BF%D1%83%D0%BB&ll=53.8078,56.4636&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Sarapul%20%28historic%20town%29%2C%20Udmurtia%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -235,7 +238,8 @@
       "heritage"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "udmurtia-izhevsk-mikhailovsky-cathedral",
@@ -273,8 +277,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Svyato%20Mihailovsky%20Cathedral%20Izhevsk%20Russia%20Richard%20Bartz.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=53.1999,56.8562&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=56.8562,53.1999"
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D0%B1%D0%BE%D1%80&ll=53.1999,56.8562&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=St.%20Michael%27s%20Cathedral%20%28Izhevsk%29%2C%20Udmurtia%2C%20Russia"
     },
     "official_site": "https://izhsobor.ru",
     "sources": [
@@ -291,7 +295,8 @@
       "izhevsk"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "udmurtia-buranovo-village",
@@ -330,8 +335,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Buranovskiye%20Babushki%202011.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=52.9553,56.5236&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=56.5236,52.9553"
+      "yandex": "https://yandex.com/maps/?text=%D0%91%D1%83%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D0%BE%20%28%D0%91%D1%83%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B1%D0%B0%D0%B1%D1%83%D1%88%D0%BA%D0%B8%29&ll=52.9553,56.5236&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Buranovo%20village%20%28Buranovskiye%20Babushki%29%2C%20Udmurtia%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -348,7 +353,8 @@
       "ethnography"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "udmurtia-national-museum-udmurtia",
@@ -386,8 +392,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Izhevsk%20Arsenal.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=53.2036,56.8503&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=56.8503,53.2036"
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%20%D0%A3%D0%B4%D0%BC%D1%83%D1%80%D1%82%D1%81%D0%BA%D0%BE%D0%B9%20%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%20%D0%9A%D1%83%D0%B7%D0%B5%D0%B1%D0%B0%D1%8F%20%D0%93%D0%B5%D1%80%D0%B4%D0%B0&ll=53.2036,56.8503&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20the%20Udmurt%20Republic%20named%20after%20Kuzebay%20Gerd%2C%20Udmurtia%2C%20Russia"
     },
     "official_site": "https://nmur.ru",
     "sources": [
@@ -404,6 +410,7 @@
       "arsenal"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   }
 ]

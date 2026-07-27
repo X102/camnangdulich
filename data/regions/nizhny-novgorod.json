@@ -42,8 +42,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Gorky_City._Nizhny_Novgorod_Kremlin.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=44.002564,56.328503&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=56.328503,44.002564"
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D1%80%D0%B5%D0%BC%D0%BB%D1%8C&ll=44.002564,56.328503&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Nizhny%20Novgorod%20Kremlin%2C%20Russia"
     },
     "official_site": "https://ngiamz.ru",
     "sources": [
@@ -60,7 +60,8 @@
       "architecture"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "nizhny-novgorod-chkalov-staircase",
@@ -104,8 +105,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/NN%20Chkalov%20Stairs%2008-2016%20img3.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=44.00944,56.33083&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=56.33083,44.00944"
+      "yandex": "https://yandex.com/maps/?text=%D0%A7%D0%BA%D0%B0%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BB%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D1%86%D0%B0&ll=44.00944,56.33083&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Chkalov%20Staircase%2C%20Nizhny%20Novgorod%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -122,7 +123,8 @@
       "soviet"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "nizhny-novgorod-diveyevo-monastery",
@@ -166,8 +168,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Diveyevo_Serafimo-Diveevsky_Monastery_The_Trinity_Cathedral_IMG_9603.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=43.2325,55.04583&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=55.04583,43.2325"
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%B5%D1%80%D0%B0%D1%84%D0%B8%D0%BC%D0%BE-%D0%94%D0%B8%D0%B2%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C&ll=43.2325,55.04583&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Holy%20Trinity-Saint%20Seraphim-Diveyevo%20Monastery%2C%20Nizhny%20Novgorod%2C%20Russia"
     },
     "official_site": "https://diveevo-monastyr.ru",
     "sources": [
@@ -184,7 +186,8 @@
       "relics"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "nizhny-novgorod-makaryev-monastery",
@@ -228,8 +231,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Makaryev_Monastery.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=45.063889,56.0825&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=56.0825,45.063889"
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D0%B0%D0%BA%D0%B0%D1%80%D1%8C%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C&ll=45.063889,56.0825&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Makaryev%20Monastery%20%28Makaryevo-Zheltovodsky%29%2C%20Nizhny%20Novgorod%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -246,7 +249,8 @@
       "history"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "nizhny-novgorod-gorodets",
@@ -285,8 +289,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Gorodets%2C_Nizhegorodskaya_oblast%27%2C_Russia_-_panoramio_%284%29.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=43.483,56.65&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=56.65,43.483"
+      "yandex": "https://yandex.com/maps/?text=%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D0%B5%D1%86&ll=43.483,56.65&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Gorodets%2C%20Nizhny%20Novgorod%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -304,7 +308,8 @@
       "history"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "nizhny-novgorod-boldino-pushkin",
@@ -344,8 +349,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B5_%D0%91%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%BE_-_panoramio_%285%29.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=45.309722,55.003889&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=55.003889,45.309722"
+      "yandex": "https://yandex.com/maps/?text=%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B5%20%D0%91%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%BE&ll=45.309722,55.003889&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Bolshoye%20Boldino%20%28Pushkin%20Museum-Reserve%29%2C%20Nizhny%20Novgorod%2C%20Russia"
     },
     "official_site": "https://www.boldinomuzey.ru",
     "sources": [
@@ -362,7 +367,8 @@
       "history"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "nizhny-novgorod-nizhny-novgorod-fair",
@@ -401,8 +407,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/NN%20the%20Fair%2001-11-2021%2013.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=43.96083,56.32833&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=56.32833,43.96083"
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D1%8F%D1%80%D0%BC%D0%B0%D1%80%D0%BA%D0%B0&ll=43.96083,56.32833&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Nizhny%20Novgorod%20Fair%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -419,7 +425,8 @@
       "exhibition"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "nizhny-novgorod-semyonov-khokhloma",
@@ -458,8 +465,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Khokhloma%20Hochloma%2020090814%2002.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=44.5,56.8&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=56.8,44.5"
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%B5%D0%BC%D1%91%D0%BD%D0%BE%D0%B2%20%28%D1%85%D0%BE%D1%85%D0%BB%D0%BE%D0%BC%D0%B0%29&ll=44.5,56.8&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Semyonov%20%28Khokhloma%29%2C%20Nizhny%20Novgorod%2C%20Russia"
     },
     "official_site": "https://semenov-museum.ru",
     "sources": [
@@ -476,6 +483,3054 @@
       "museum"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-bolshaya-pokrovskaya",
+    "slug": "bolshaya-pokrovskaya",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Phố Bolshaya Pokrovskaya (Bôn-sai-a Pô-krốp-xkai-a)",
+    "name_ru": "Большая Покровская улица",
+    "name_en": "Bolshaya Pokrovskaya Street",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 56.322222,
+      "lon": 44.000556
+    },
+    "address_vi": "Phố Bolshaya Pokrovskaya, trung tâm lịch sử thành phố Nizhny Novgorod (nối Quảng trường Minin và Pozharsky với Quảng trường Lyadov)",
+    "rating": null,
+    "presentation_short_vi": "Bolshaya Pokrovskaya là phố đi bộ chính và là 'trái tim' của khu trung tâm lịch sử Nizhny Novgorod, thường được ví như 'phố Arbat của Nizhny'. Con phố dài hơn 2 km, phần lớn dành cho người đi bộ, rợp bóng những toà nhà cổ, quán cà phê cùng nhiều bức tượng đồng đời thường ngộ nghĩnh.",
+    "presentation_long_vi": "Nếu chỉ có thời gian dạo một con phố ở Nizhny Novgorod, hãy chọn Bolshaya Pokrovskaya. Đây là tuyến phố cổ và sầm uất bậc nhất thành phố, kéo dài hơn hai cây số từ Quảng trường Minin và Pozharsky bên chân thành Kremlin xuống tới Quảng trường Lyadov, trong đó phần lớn chiều dài (khoảng 1,3 km) đã được biến thành phố đi bộ từ đầu thập niên 1980. Hình thành và phát triển mạnh từ giữa thế kỷ 17 nhờ nằm gần trục đường lớn đi Moskva, con phố từng là nơi cư ngụ của giới quý tộc và thương nhân giàu có, để lại một quần thể kiến trúc thế kỷ 19 – đầu thế kỷ 20 duyên dáng còn được gìn giữ tốt. Điểm nhấn nổi bật là toà Nhà hát Kịch Nghệ thuật Nizhny Novgorod bề thế và toà nhà Ngân hàng Nhà nước mang phong cách tân-Nga lộng lẫy như một cung điện cổ tích. Người dân trìu mến gọi phố là 'Pokrovka'. Dọc lối đi, du khách sẽ bắt gặp hàng loạt tượng đồng đời thường sinh động — chú dê vui nhộn, quý bà bên ghế dài, người thợ ảnh, chú mèo… — những điểm chụp ảnh được yêu thích. Về chiều tối, phố lên đèn, nghệ sĩ đường phố biểu diễn, quán xá nhộn nhịp, biến Pokrovskaya thành nơi tản bộ lý tưởng để cảm nhận nhịp sống của thành phố bên sông Volga.",
+    "highlights_vi": [
+      "Phố đi bộ chính và cổ kính bậc nhất Nizhny Novgorod, được ví như 'phố Arbat của thành phố'.",
+      "Quần thể kiến trúc thế kỷ 19 – đầu 20 nổi bật với Nhà hát Kịch và toà nhà Ngân hàng Nhà nước tráng lệ.",
+      "Hàng loạt tượng đồng đời thường ngộ nghĩnh (chú dê, quý bà, người thợ ảnh…) là điểm chụp ảnh yêu thích."
+    ],
+    "practical": {
+      "hours_vi": "Phố mở tự do suốt cả ngày.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "1–2 giờ tản bộ.",
+      "best_time_vi": "Chiều muộn đến tối, nhất là cuối tuần, khi phố lên đèn và có biểu diễn đường phố.",
+      "tips_vi": "Đầu phố là thành Kremlin Nizhny Novgorod; giữa phố có ga metro Gorkovskaya — dễ kết hợp tham quan. Hai bên phố có nhiều quán cà phê, nhà hàng và cửa hàng lưu niệm."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F%20%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D1%83%D0%BB%D0%B8%D1%86%D0%B0&ll=44.000556,56.322222&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Bolshaya%20Pokrovskaya%20Street%2C%20Nizhny%20Novgorod%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN) — Bolshaya Pokrovskaya Street",
+        "url": "https://en.wikipedia.org/wiki/Bolshaya_Pokrovskaya_Street"
+      },
+      {
+        "title": "Advantour — Bolshaya Pokrovskaya Street, Nizhny Novgorod",
+        "url": "https://www.advantour.com/russia/nizhny-novgorod/bolshaya-pokrovskaya-street.htm"
+      },
+      {
+        "title": "Travel portal Nizhny Novgorod region — Walking route along Bolshaya Pokrovskaya",
+        "url": "https://nn-tourist.ru/en/stati/marshrut-po-pokrovke"
+      }
+    ],
+    "tags": [
+      "outdoor",
+      "free",
+      "square_street",
+      "walk",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-25",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-cableway",
+    "slug": "nizhny-novgorod-cableway",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Cáp treo Nizhny Novgorod (Nizhegorodskaya Kanatnaya Doroga, Ka-nát-na-ya Đô-rô-ga)",
+    "name_ru": "Нижегородская канатная дорога",
+    "name_en": "Nizhny Novgorod Cableway",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 56.3377,
+      "lon": 44.0493
+    },
+    "country": "russia",
+    "address_vi": "Ga dưới ở Nizhny Novgorod: kè Kazanskaya, số 8A (gần Quảng trường Sennaya); tuyến vượt sông Volga sang thành phố Bor.",
+    "rating": null,
+    "review_summary_vi": "Du khách thích thú vì được ngắm sông Volga, dải bờ kè và Kremlin Nizhny Novgorod từ trên cao trong cabin nhỏ — trải nghiệm vừa là phương tiện đi lại vừa là trò giải trí. Trẻ em đặc biệt hào hứng. Nhiều người khuyên đi lúc trời quang và lưu ý cáp có thể chạy chậm hoặc tạm dừng khi gió lớn; phía Bor không có nhiều điểm chơi nên khách thường mua vé khứ hồi rồi quay lại ngay.",
+    "presentation_short_vi": "Tuyến cáp treo vượt sông Volga dài 3.661 m, khánh thành năm 2012, nối Nizhny Novgorod với thành phố Bor. Nhịp vượt mặt nước không trụ đỡ dài 861 m của tuyến từng được xem là dài nhất châu Âu, mang lại tầm nhìn ngoạn mục xuống dòng Volga.",
+    "presentation_long_vi": "Khánh thành ngày 9 tháng 2 năm 2012, cáp treo Nizhny Novgorod ban đầu được xây để giải bài toán đi lại: đưa cư dân băng qua sông Volga rộng lớn sang thành phố Bor ở bờ đối diện nhanh hơn nhiều so với đường bộ hay tàu. Nhưng rồi tuyến cáp do hãng Poma của Pháp thi công lại nhanh chóng trở thành một điểm tham quan được yêu thích. Với chiều dài 3.661 mét và nhịp vượt mặt nước không trụ đỡ lên tới 861 mét, tuyến từng giữ kỷ lục nhịp qua nước dài nhất châu Âu; những cột trụ cao hơn 80 mét đỡ dây cáp băng ngang dòng sông. Mỗi chuyến đi kéo dài khoảng mười ba phút, đủ để hành khách thu vào tầm mắt khung cảnh mở rộng: dòng Volga uốn lượn, dải bờ kè, những mái vòm nhà thờ và cả Kremlin Nizhny Novgorod cổ kính phía xa. Nhìn từ cabin treo lơ lửng giữa trời, cảnh quan đổi thay theo mùa — mặt nước lấp lánh mùa hè, băng tuyết trắng xoá mùa đông — khiến chuyến 'bay' ngắn ngủi trở nên đáng nhớ. Vào những ngày gió mạnh, hệ thống có thể tự động giảm tốc hoặc tạm dừng, nên du khách hãy kiểm tra lịch chạy trước khi đến.",
+    "highlights_vi": [
+      "Khánh thành năm 2012, dài 3.661 m, do hãng Poma (Pháp) xây dựng để vượt sông Volga sang thành phố Bor.",
+      "Nhịp vượt mặt nước không trụ đỡ dài 861 m — từng được coi là dài nhất châu Âu; trụ cáp cao hơn 80 m.",
+      "Mỗi lượt khoảng 13 phút, mở tầm nhìn toàn cảnh sông Volga, bờ kè và Kremlin Nizhny Novgorod."
+    ],
+    "practical": {
+      "hours_vi": "Khoảng 06:45–21:00; nghỉ kỹ thuật thứ Hai và thứ Năm 10:45–13:00 (nên kiểm tra lịch trên trang chính thức).",
+      "ticket_vi": "Một chiều khoảng 100 rúp; trẻ 7–12 tuổi khoảng 50 rúp; dưới 7 tuổi miễn phí (giá tham khảo, có thể thay đổi).",
+      "duration_vi": "~13 phút mỗi lượt; tính cả chờ và đi khứ hồi khoảng 45–60 phút.",
+      "best_time_vi": "Ngày trời quang để ngắm sông Volga; hoàng hôn và mùa đông băng tuyết đặc biệt đẹp.",
+      "tips_vi": "Ga dưới cách Kremlin Nizhny Novgorod khoảng 30 phút đi bộ, gần Quảng trường Sennaya; mang theo áo ấm vì trên cao lộng gió; gió lớn có thể khiến cáp chạy chậm."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BA%D0%B0%D0%BD%D0%B0%D1%82%D0%BD%D0%B0%D1%8F%20%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B0&ll=44.0493,56.3377&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Nizhny%20Novgorod%20Cableway%2C%20Russia"
+    },
+    "official_site": "http://nnkd.ru/",
+    "sources": [
+      {
+        "title": "Nizhny Novgorod Cableway — Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Nizhny_Novgorod_Cableway"
+      },
+      {
+        "title": "Cáp treo Nizhny Novgorod — NashaPlaneta.net",
+        "url": "https://nashaplaneta.net/europe/russia/nizhny-novgorod-dostoprimechatelnosti-kanatnaya-doroga_en"
+      },
+      {
+        "title": "Trang chính thức (nnkd.ru)",
+        "url": "http://nnkd.ru/"
+      }
+    ],
+    "tags": [
+      "modern",
+      "viewpoint",
+      "family",
+      "outdoor",
+      "transport"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-25"
+  },
+  {
+    "id": "nizhny-novgorod-rozhdestvenskaya-stroganov-church",
+    "slug": "rozhdestvenskaya-stroganov-church",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Nhà thờ Giáng Sinh Đức Mẹ (nhà thờ Stroganov, Rozhdestvenskaya / Stroganovskaya tserkov)",
+    "name_ru": "Рождественская (Строгановская) церковь",
+    "name_en": "Church of the Nativity of Our Lady (Stroganov Church)",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 56.32722,
+      "lon": 43.985
+    },
+    "address_vi": "Phố Rozhdestvenskaya (Rождественская) số 34А, khu phố dưới ven sông Oka, thành phố Nizhny Novgorod, tỉnh Nizhny Novgorod, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Nhà thờ Stroganov là một trong những kiệt tác đẹp nhất của phong cách 'Baroque nhà Stroganov' ở Nga. Công trình được nhà đại phú thương Grigory Stroganov cho xây dựng trong khoảng 1696–1719, nổi bật với những mảng chạm khắc đá trắng tinh xảo trên nền tường đỏ và năm vòm dát vàng.",
+    "presentation_long_vi": "Sừng sững trên phố cổ Rozhdestvenskaya của khu phố dưới, Nhà thờ Giáng Sinh Đức Mẹ – quen gọi là nhà thờ Stroganov – được xây bằng kinh phí của gia tộc thương nhân – nhà công nghiệp muối Stroganov, khởi công năm 1696 và hoàn tất khoảng năm 1719. Đây được xem là mẫu mực tiêu biểu nhất của 'Baroque nhà Stroganov', một biến thể lộng lẫy của kiến trúc Nga cuối thế kỷ 17. Điều làm du khách sững sờ là những dải hoa văn chạm nổi bằng đá trắng: từng chùm nho, quả lựu, hoa lá cuốn quanh cửa sổ và cổng vào, tương phản rực rỡ với thân tường sơn đỏ và những vòm củ hành nhiều màu. Tháp chuông có chiếc đồng hồ cổ nhiều mặt độc đáo. Tương truyền chính Pyotr Đại đế từng ghé thăm và có giai thoại ông cho đóng cửa nhà thờ một thời gian. Trải qua thời Xô viết bị đóng cửa và dùng làm kho, công trình được trùng tu và trả lại cho Giáo hội, nay vừa là nơi hành lễ vừa là một trong những biểu tượng kiến trúc được yêu thích nhất của Nizhny Novgorod.",
+    "highlights_vi": [
+      "Kiệt tác 'Baroque nhà Stroganov' với hoa văn đá trắng chạm nổi cực kỳ tinh xảo trên nền tường đỏ.",
+      "Do đại phú thương Grigory Stroganov xây dựng năm 1696–1719, di tích kiến trúc cấp liên bang.",
+      "Tháp chuông gắn đồng hồ cổ độc đáo, nằm ngay trên phố cổ Rozhdestvenskaya sầm uất."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa cho khách tham quan và hành lễ hằng ngày, thường khoảng 8:00–19:00 theo lịch nhà thờ.",
+      "ticket_vi": "Vào tham quan tự do (miễn phí); hoan nghênh quyên góp tuỳ tâm.",
+      "duration_vi": "Khoảng 30–45 phút.",
+      "best_time_vi": "Quanh năm; đẹp nhất khi nắng chiếu làm nổi bật hoa văn đá trắng và vòm mái nhiều màu.",
+      "tips_vi": "Ăn mặc kín đáo khi vào; kết hợp dạo bộ dọc phố Rozhdestvenskaya và ra bờ sông Oka gần đó."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%28%D0%A1%D1%82%D1%80%D0%BE%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%29%20%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C&ll=43.985,56.32722&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Church%20of%20the%20Nativity%20of%20Our%20Lady%20%28Stroganov%20Church%29%2C%20Nizhny%20Novgorod%2C%20Russia"
+    },
+    "official_site": "https://stroganovskaya.ru",
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Рождественская церковь (Нижний Новгород)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_(%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9_%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)"
+      },
+      {
+        "title": "sobory.ru — Нижний Новгород, церковь Собора Пресвятой Богородицы (Рождественская)",
+        "url": "https://sobory.ru/article/?object=01787"
+      }
+    ],
+    "tags": [
+      "church",
+      "stroganov-baroque",
+      "architecture",
+      "17th-century",
+      "rozhdestvenskaya"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-alexander-nevsky-cathedral-nn",
+    "slug": "alexander-nevsky-cathedral-nn",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Nhà thờ chính toà Aleksandr Nevsky (Novoyarmarochny sobor)",
+    "name_ru": "Кафедральный собор во имя святого благоверного князя Александра Невского",
+    "name_en": "Alexander Nevsky Cathedral (Novoyarmarochny)",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 56.3336,
+      "lon": 43.97118
+    },
+    "address_vi": "Mũi đất Strelka (Стрелка), nơi sông Oka đổ vào sông Volga, gần sân vận động Nizhny Novgorod, thành phố Nizhny Novgorod, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Nhà thờ Aleksandr Nevsky vươn cao bên bãi Strelka – nơi hai dòng Oka và Volga gặp nhau – là một trong những nhà thờ Chính thống giáo cao nhất nước Nga (khoảng 87 m). Được giới thương nhân hội chợ Nizhny Novgorod góp tiền dựng năm 1868–1881, công trình có dáng vẻ uy nghi với thân tháp lều nhọn vút.",
+    "presentation_long_vi": "Được xây dựng trong khoảng 1868–1881 bằng tiền quyên góp của các thương nhân đến buôn bán tại Hội chợ Nizhny Novgorod danh tiếng, Nhà thờ chính toà Aleksandr Nevsky (còn gọi là 'nhà thờ Tân hội chợ') là một trong những thánh đường Chính thống giáo cao nhất nước Nga, đỉnh tháp vươn tới khoảng 87 mét. Nhà thờ mọc lên ngay tại mũi đất Strelka – điểm hợp lưu ngoạn mục của sông Oka và sông Volga – nên từ xa đã thấy khối tháp lều (shatyor) nhọn vút in trên nền trời. Công trình từng suýt bị phá huỷ thời Xô viết: mái vòm bị dỡ, bên trong biến thành kho, thậm chí có kế hoạch cho nổ mìn. Từ thập niên 1980–1990 nhà thờ dần được phục dựng và trở lại là thánh đường trung tâm của giáo phận. Ngày nay công trình đứng cạnh sân vận động Nizhny Novgorod hiện đại và quần thể Пакгаузы trên Strelka, tạo nên một trong những cụm cảnh quan gây ấn tượng mạnh nhất thành phố, đặc biệt khi ngắm từ phía kremlin bên kia sông hay lúc lên đèn buổi tối.",
+    "highlights_vi": [
+      "Một trong những nhà thờ Chính thống giáo cao nhất nước Nga, đỉnh tháp khoảng 87 m.",
+      "Do thương nhân Hội chợ Nizhny Novgorod góp tiền xây năm 1868–1881, dáng tháp lều nhọn đặc trưng.",
+      "Toạ lạc trên bãi Strelka – hợp lưu Oka và Volga – cạnh sân vận động và quần thể Пакгаузы."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa hành lễ và tham quan hằng ngày, thường khoảng 7:00–19:00.",
+      "ticket_vi": "Vào tự do (miễn phí); có thể quyên góp tuỳ tâm.",
+      "duration_vi": "Khoảng 30–45 phút.",
+      "best_time_vi": "Quanh năm; đẹp lúc hoàng hôn hoặc khi thắp đèn, ngắm cùng khung cảnh hợp lưu hai sông.",
+      "tips_vi": "Kết hợp tham quan Пакгаузы trên Strelka và ngắm sân vận động; ăn mặc kín đáo khi vào nhà thờ."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%81%D0%BE%D0%B1%D0%BE%D1%80%20%D0%B2%D0%BE%20%D0%B8%D0%BC%D1%8F%20%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE%20%D0%B1%D0%BB%D0%B0%D0%B3%D0%BE%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BA%D0%BD%D1%8F%D0%B7%D1%8F%20%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B0%20%D0%9D%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE&ll=43.97118,56.3336&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Alexander%20Nevsky%20Cathedral%20%28Novoyarmarochny%29%2C%20Nizhny%20Novgorod%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Собор Александра Невского (Нижний Новгород)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B0_%D0%9D%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_(%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9_%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)"
+      },
+      {
+        "title": "sobory.ru — Нижний Новгород, собор Александра Невского Новоярмарочный",
+        "url": "https://sobory.ru/article/?object=01788"
+      }
+    ],
+    "tags": [
+      "church",
+      "cathedral",
+      "strelka",
+      "19th-century",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-pechersky-ascension-monastery",
+    "slug": "pechersky-ascension-monastery",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Tu viện Thăng Thiên Pechyory (Voznesensky Pechyorsky monastyr)",
+    "name_ru": "Вознесенский Печёрский монастырь",
+    "name_en": "Ascension Pechyorsky Monastery",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 56.32357,
+      "lon": 44.04705
+    },
+    "address_vi": "Slobodá Privolzhskaya (Приволжская слобода) số 108, ven bờ cao sông Volga phía đông trung tâm, thành phố Nizhny Novgorod, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Tu viện Thăng Thiên Pechyory là một trong những tu viện cổ kính và đẹp nhất Nizhny Novgorod, nằm nép mình bên bờ cao sông Volga. Được Thánh Dionysius lập vào khoảng năm 1328–1330, quần thể trắng muốt hiện nay gồm nhà thờ chính, tháp chuông nghiêng và tường bao được dựng lại từ thế kỷ 17 sau khi công trình gốc bị lở đất phá huỷ.",
+    "presentation_long_vi": "Nằm bên triền dốc thoải xuống sông Volga ở khu Pechyory phía đông thành phố, Tu viện Thăng Thiên Pechyorsky là một trong những trung tâm tôn giáo – lịch sử lâu đời nhất vùng. Tu viện do Thánh Dionysius xứ Suzdal khai lập vào khoảng năm 1328–1330 và từng là một trung tâm chép sách, tu học quan trọng thời trung cổ. Năm 1597, một trận lở đất lớn đã phá huỷ gần như toàn bộ quần thể gốc, buộc tu viện phải dời lên vị trí cao hơn ngày nay và được xây dựng lại trong thế kỷ 17. Quần thể hiện tại là một tổ hợp kiến trúc Nga thế kỷ 17 hài hoà: Nhà thờ Thăng Thiên năm mái vòm làm trung tâm, cùng các nhà thờ nhỏ, phòng ăn, tường thành và một tháp chuông nổi tiếng hơi nghiêng. Khung cảnh những mái vòm trắng – vàng trên nền sông Volga mênh mông khiến nơi đây trở thành một trong những góc chụp ảnh đẹp nhất Nizhny Novgorod. Tu viện đang hoạt động tôn giáo trở lại và có một bảo tàng nhỏ về lịch sử giáo phận.",
+    "highlights_vi": [
+      "Tu viện do Thánh Dionysius lập khoảng 1328–1330, một trong những nơi cổ kính nhất vùng.",
+      "Quần thể kiến trúc Nga thế kỷ 17 với nhà thờ Thăng Thiên năm vòm và tháp chuông hơi nghiêng.",
+      "Vị trí tuyệt đẹp bên bờ cao sông Volga, góc ngắm và chụp ảnh lý tưởng."
+    ],
+    "practical": {
+      "hours_vi": "Khuôn viên mở hằng ngày, thường khoảng 7:00–20:00; bảo tàng giáo phận mở theo giờ riêng.",
+      "ticket_vi": "Vào khuôn viên miễn phí; bảo tàng có thể thu phí nhỏ.",
+      "duration_vi": "Khoảng 45–60 phút.",
+      "best_time_vi": "Cuối xuân đến đầu thu; đẹp vào sáng sớm hoặc chiều muộn khi ánh sáng dịu.",
+      "tips_vi": "Đi giày thoải mái vì địa hình dốc ven sông; ăn mặc kín đáo khi vào khu tu viện."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D0%BE%D0%B7%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%9F%D0%B5%D1%87%D1%91%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C&ll=44.04705,56.32357&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Ascension%20Pechyorsky%20Monastery%2C%20Nizhny%20Novgorod%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Вознесенский Печёрский монастырь",
+        "url": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B7%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%9F%D0%B5%D1%87%D1%91%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+      },
+      {
+        "title": "sobory.ru — Нижний Новгород, Вознесенский Печёрский монастырь",
+        "url": "https://sobory.ru/article/?object=00896"
+      }
+    ],
+    "tags": [
+      "monastery",
+      "orthodox",
+      "14th-century",
+      "volga",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-arzamas-resurrection-cathedral",
+    "slug": "arzamas-resurrection-cathedral",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Nhà thờ chính toà Phục Sinh ở Arzamas (Voskresensky sobor)",
+    "name_ru": "Воскресенский собор (Арзамас)",
+    "name_en": "Resurrection Cathedral in Arzamas",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 55.38668,
+      "lon": 43.81342
+    },
+    "address_vi": "Quảng trường Nhà thờ (Соборная площадь), thành phố Arzamas, tỉnh Nizhny Novgorod, cách Nizhny Novgorod khoảng 110 km về phía nam, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Nhà thờ Phục Sinh là biểu tượng bề thế của thành phố cổ Arzamas, được dựng năm 1814–1842 để tạ ơn chiến thắng Napoléon năm 1812. Công trình tân cổ điển đồ sộ với năm vòm mái, hàng cột lớn bốn phía và nội thất vẽ theo lối grisaille (đơn sắc) do kiến trúc sư người Arzamas Mikhail Korinfsky thiết kế.",
+    "presentation_long_vi": "Ngự trên đỉnh đồi giữa Quảng trường Nhà thờ của Arzamas, Nhà thờ chính toà Phục Sinh là một trong những thánh đường tân cổ điển hùng vĩ nhất vùng Volga. Nhà thờ được xây trong gần ba thập niên (1814–1842) như một đài kỷ niệm chiến thắng của nước Nga trước quân Napoléon năm 1812; phần lớn kinh phí đến từ đóng góp của người dân Arzamas. Người thiết kế là Mikhail Korinfsky, một kiến trúc sư sinh tại chính Arzamas và là học trò của bậc thầy Andrey Voronikhin. Khối nhà thờ vuông vức đội năm vòm mái lớn, bốn mặt đều có hàng cột portico đồ sộ, tạo dáng vẻ cân đối trang nghiêm nhìn thấy từ khắp thành phố. Bên trong, các bức tường và vòm được trang trí bằng tranh grisaille – kỹ thuật vẽ đơn sắc mô phỏng phù điêu đá – hiếm gặp và rất được ngưỡng mộ. Ngày nay nhà thờ vẫn là trung tâm tôn giáo và điểm tham quan chính khi ghé Arzamas, thường được kết hợp với việc dạo quanh quần thể các nhà thờ cổ vây quanh quảng trường.",
+    "highlights_vi": [
+      "Đài kỷ niệm chiến thắng Napoléon 1812, xây dựng 1814–1842.",
+      "Kiến trúc tân cổ điển đồ sộ với năm vòm mái và bốn hàng cột, do Mikhail Korinfsky thiết kế.",
+      "Nội thất trang trí bằng tranh grisaille đơn sắc mô phỏng phù điêu, độc đáo bậc nhất."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa hằng ngày, thường khoảng 7:00–19:00 theo lịch hành lễ.",
+      "ticket_vi": "Vào tự do (miễn phí); quyên góp tuỳ tâm.",
+      "duration_vi": "Khoảng 40–60 phút (kèm dạo quảng trường).",
+      "best_time_vi": "Cuối xuân đến đầu thu; buổi sáng ánh sáng đẹp cho khối kiến trúc trắng.",
+      "tips_vi": "Kết hợp tham quan cả cụm nhà thờ quanh Quảng trường Nhà thờ; ăn mặc kín đáo khi vào."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D0%BE%D1%81%D0%BA%D1%80%D0%B5%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D0%B1%D0%BE%D1%80%20%28%D0%90%D1%80%D0%B7%D0%B0%D0%BC%D0%B0%D1%81%29&ll=43.81342,55.38668&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Resurrection%20Cathedral%20in%20Arzamas%2C%20Nizhny%20Novgorod%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Воскресенский собор (Арзамас)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D0%BA%D1%80%D0%B5%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%90%D1%80%D0%B7%D0%B0%D0%BC%D0%B0%D1%81)"
+      },
+      {
+        "title": "sobory.ru — Арзамас, собор Воскресения Христова",
+        "url": "https://sobory.ru/article/?object=00903"
+      }
+    ],
+    "tags": [
+      "church",
+      "cathedral",
+      "arzamas",
+      "neoclassical",
+      "1812",
+      "grisaille"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-rukavishnikov-estate",
+    "slug": "rukavishnikov-estate",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Điền trang Rukavishnikov (Usadba Rukavishnikovykh)",
+    "name_ru": "Усадьба Рукавишниковых",
+    "name_en": "Rukavishnikov Estate (Mansion)",
+    "categories": [
+      "palace",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 56.32933,
+      "lon": 44.01624
+    },
+    "address_vi": "Bờ sông Thượng Volga (Верхне-Волжская набережная) số 7, thành phố Nizhny Novgorod, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Điền trang Rukavishnikov là dinh thự lộng lẫy bậc nhất trên bờ sông Thượng Volga, xây năm 1875–1877 cho gia đình đại thương nhân Sergei Rukavishnikov theo phong cách cung điện Ý. Mặt tiền trang trí dày đặc phù điêu, tượng thần vác mái (atlant), nội thất mạ vàng nay là trụ sở chính của Bảo tàng – Bảo tồn Lịch sử & Kiến trúc bang Nizhny Novgorod.",
+    "presentation_long_vi": "Trải dài trên bờ cao Thượng Volga, Điền trang Rukavishnikov là biểu tượng cho thời hoàng kim của tầng lớp thương nhân giàu có Nizhny Novgorod cuối thế kỷ 19. Dinh thự được xây dựng trong khoảng 1875–1877 cho gia đình Sergei Mikhailovich Rukavishnikov, mô phỏng một palazzo (cung điện) kiểu Ý thời Phục Hưng. Mặt tiền phủ kín hoa văn đắp nổi, những bức tượng thần atlant vạm vỡ chống đỡ ban công, còn bên trong là chuỗi phòng khách xa hoa với trần vẽ, gương lớn, cầu thang cẩm thạch và đồ trang trí mạ vàng – phô diễn sự giàu sang gần như không giới hạn của chủ nhân. Sau Cách mạng, toà nhà được quốc hữu hoá và trở thành bảo tàng; ngày nay đây là trụ sở trung tâm của Bảo tàng – Bảo tồn Lịch sử & Kiến trúc bang Nizhny Novgorod, giới thiệu các trưng bày về lịch sử vùng đất và chính đời sống quý tộc – thương nhân xưa. Tham quan các phòng nội thất được phục dựng công phu là một trải nghiệm không nên bỏ lỡ, giúp hình dung nhịp sống thượng lưu bên sông Volga hơn một thế kỷ trước.",
+    "highlights_vi": [
+      "Dinh thự thương nhân lộng lẫy nhất bờ Thượng Volga, xây 1875–1877 theo kiểu palazzo Ý.",
+      "Mặt tiền dày đặc phù điêu và tượng thần atlant; nội thất mạ vàng, cầu thang cẩm thạch.",
+      "Trụ sở chính Bảo tàng – Bảo tồn Lịch sử & Kiến trúc bang Nizhny Novgorod với nhiều trưng bày."
+    ],
+    "practical": {
+      "hours_vi": "Thường mở cửa khoảng 10:00–18:00, nghỉ một ngày trong tuần (thường thứ Hai); kiểm tra lịch trước khi đi.",
+      "ticket_vi": "Bán vé tham quan bảo tàng; có vé riêng cho các trưng bày/tour theo phòng nội thất.",
+      "duration_vi": "Khoảng 1–1,5 giờ.",
+      "best_time_vi": "Quanh năm (điểm tham quan trong nhà); kết hợp dạo bờ Thượng Volga khi trời đẹp.",
+      "tips_vi": "Nên đi tour có hướng dẫn để vào các phòng nội thất đẹp nhất; kết hợp cầu thang Chkalov gần đó."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A3%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0%20%D0%A0%D1%83%D0%BA%D0%B0%D0%B2%D0%B8%D1%88%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D1%85&ll=44.01624,56.32933&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Rukavishnikov%20Estate%20%28Mansion%29%2C%20Nizhny%20Novgorod%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Усадьба Рукавишниковых",
+        "url": "https://ru.wikipedia.org/wiki/%D0%A3%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0_%D0%A0%D1%83%D0%BA%D0%B0%D0%B2%D0%B8%D1%88%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D1%85"
+      },
+      {
+        "title": "Bảo tàng – Bảo tồn Lịch sử & Kiến trúc bang NN (ngmii.ru)",
+        "url": "https://www.ngiamz.ru"
+      }
+    ],
+    "tags": [
+      "mansion",
+      "museum",
+      "merchant",
+      "19th-century",
+      "volga",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-nizhny-novgorod-art-museum",
+    "slug": "nizhny-novgorod-art-museum",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Bảo tàng Mỹ thuật bang Nizhny Novgorod (NGHM)",
+    "name_ru": "Нижегородский государственный художественный музей",
+    "name_en": "Nizhny Novgorod State Art Museum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 56.32952,
+      "lon": 44.0064
+    },
+    "address_vi": "Toà nhà Nghệ thuật Nga: khuôn viên Kremlin, dãy nhà số 3 (nhà cựu Toàn quyền quân sự), thành phố Nizhny Novgorod, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Bảo tàng Mỹ thuật bang Nizhny Novgorod thành lập năm 1896, là một trong những bảo tàng nghệ thuật lâu đời và giàu có nhất tỉnh. Bộ sưu tập nghệ thuật Nga đặt trong toà nhà cựu Toàn quyền quân sự bên trong Kremlin, nổi tiếng với bức tranh khổng lồ 'Lời hiệu triệu của Minin' của Konstantin Makovsky.",
+    "presentation_long_vi": "Ra đời năm 1896 nhân dịp Triển lãm Toàn Nga tổ chức tại Nizhny Novgorod, Bảo tàng Mỹ thuật bang là một trong những bảo tàng nghệ thuật tỉnh lâu đời nhất nước Nga. Phần trưng bày nghệ thuật Nga được đặt trong toà nhà cựu dinh Toàn quyền quân sự nằm ngay trong khuôn viên Kremlin, quy tụ tác phẩm của hầu hết các bậc thầy hội hoạ Nga thế kỷ 18–20 như Repin, Levitan, Aivazovsky, Serov, Roerich. Kho báu nổi tiếng nhất là bức 'Lời hiệu triệu của Kuzma Minin' – tấm toan khổ khổng lồ của Konstantin Makovsky, tái hiện khoảnh khắc người anh hùng Minin kêu gọi dân Nizhny Novgorod đứng lên cứu nước năm 1611; bức tranh lớn đến mức có hẳn một phòng riêng. Bảo tàng còn có chi nhánh trưng bày nghệ thuật Tây Âu đặt trong toà nhà Sirotkin bên bờ Thượng Volga, với các tác phẩm châu Âu từ thế kỷ 15 đến 20. Đây là điểm đến hàng đầu cho người yêu hội hoạ khi tới thành phố, lại rất tiện vì nằm ngay trong Kremlin.",
+    "highlights_vi": [
+      "Bảo tàng nghệ thuật tỉnh lâu đời (từ 1896) với sưu tập phong phú các bậc thầy Nga.",
+      "Sở hữu bức tranh khổng lồ 'Lời hiệu triệu của Minin' của Konstantin Makovsky, trưng bày trong phòng riêng.",
+      "Toà nhà Nghệ thuật Nga nằm ngay trong Kremlin; chi nhánh nghệ thuật Tây Âu ở nhà Sirotkin bên sông."
+    ],
+    "practical": {
+      "hours_vi": "Thường mở khoảng 11:00–18:00 (một số ngày muộn hơn), nghỉ một ngày trong tuần; kiểm tra lịch trước.",
+      "ticket_vi": "Bán vé vào cửa; vé kết hợp cho cả hai toà nhà; có ưu đãi cho học sinh, người cao tuổi.",
+      "duration_vi": "Khoảng 1–2 giờ mỗi toà nhà.",
+      "best_time_vi": "Quanh năm (tham quan trong nhà).",
+      "tips_vi": "Kết hợp tham quan Kremlin cùng lượt; dành thời gian cho phòng tranh Makovsky."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9&ll=44.0064,56.32952&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Nizhny%20Novgorod%20State%20Art%20Museum%2C%20Russia"
+    },
+    "official_site": "https://artmuseumnn.ru",
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Нижегородский художественный музей",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9"
+      },
+      {
+        "title": "Trang chính thức Bảo tàng Mỹ thuật NN (artmuseumnn.ru)",
+        "url": "https://artmuseumnn.ru"
+      }
+    ],
+    "tags": [
+      "museum",
+      "art",
+      "makovsky",
+      "russian-painting",
+      "kremlin"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-kashirin-house-gorky-museum",
+    "slug": "kashirin-house-gorky-museum",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Nhà Kashirin – Bảo tàng tuổi thơ Maxim Gorky (Domik Kashirina)",
+    "name_ru": "Музей детства А. М. Горького «Домик Каширина»",
+    "name_en": "Kashirin House – Museum of Maxim Gorky's Childhood",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 56.32388,
+      "lon": 43.99077
+    },
+    "address_vi": "Phố Pochtovy sъezd (Почтовый съезд) số 21, thành phố Nizhny Novgorod, Nga.",
+    "rating": null,
+    "presentation_short_vi": "'Nhà nhỏ Kashirin' là ngôi nhà gỗ nơi văn hào Maxim Gorky sống thời thơ ấu bên gia đình ông ngoại Vasily Kashirin. Chính nơi đây đã trở thành bối cảnh cho cuốn tiểu thuyết tự truyện nổi tiếng 'Thời thơ ấu'; bảo tàng phục dựng nguyên vẹn nội thất một gia đình thợ nhuộm Nga giữa thế kỷ 19.",
+    "presentation_long_vi": "Nằm trên con dốc Pochtovy sъezd dẫn xuống sông Oka, 'Nhà nhỏ Kashirin' là một trong những bảo tàng văn học được yêu mến nhất Nizhny Novgorod – quê hương của đại văn hào Maxim Gorky (Alexei Peshkov). Đây chính là ngôi nhà của ông bà ngoại Kashirin, nơi cậu bé Alexei được gửi tới sống sau khi cha mất và đã trải qua những năm tháng tuổi thơ nhọc nhằn. Những gì diễn ra dưới mái nhà này – xưởng nhuộm của ông ngoại, không khí gia trưởng ngột ngạt xen lẫn tình thương của bà ngoại – về sau được Gorky tái hiện sống động trong tiểu thuyết tự truyện 'Thời thơ ấu' (Детство). Mở cửa làm bảo tàng từ năm 1938, ngôi nhà gỗ cùng sân, nhà kho và xưởng nhuộm được phục dựng tỉ mỉ theo đúng mô tả trong tác phẩm và ký ức đương thời, tái hiện chân thực nếp sống của một gia đình thị dân – thợ thủ công Nga giữa thế kỷ 19. Với người yêu văn học Nga, ghé thăm nơi này giống như bước thẳng vào từng trang sách của Gorky.",
+    "highlights_vi": [
+      "Ngôi nhà gỗ nơi Maxim Gorky sống thời thơ ấu cùng ông bà ngoại Kashirin.",
+      "Bối cảnh có thật của tiểu thuyết tự truyện 'Thời thơ ấu' (Детство).",
+      "Nội thất, sân và xưởng nhuộm phục dựng nguyên vẹn nếp sống thị dân Nga giữa thế kỷ 19."
+    ],
+    "practical": {
+      "hours_vi": "Thường mở khoảng 9:00–17:00, nghỉ một ngày trong tuần; kiểm tra lịch trước khi đến.",
+      "ticket_vi": "Vé vào cửa giá phổ thông, khá rẻ; có ưu đãi cho học sinh, sinh viên.",
+      "duration_vi": "Khoảng 30–45 phút.",
+      "best_time_vi": "Quanh năm; dễ chịu nhất vào mùa ấm khi đi bộ trên dốc.",
+      "tips_vi": "Đọc trước vài trang 'Thời thơ ấu' để cảm nhận sâu hơn; kết hợp các bảo tàng Gorky khác trong thành phố."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%B9%20%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B0%20%D0%90.%20%D0%9C.%20%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%20%C2%AB%D0%94%D0%BE%D0%BC%D0%B8%D0%BA%20%D0%9A%D0%B0%D1%88%D0%B8%D1%80%D0%B8%D0%BD%D0%B0%C2%BB&ll=43.99077,56.32388&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kashirin%20House%20%E2%80%93%20Museum%20of%20Maxim%20Gorky%27s%20Childhood%2C%20Nizhny%20Novgorod%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Домик Каширина",
+        "url": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BC%D0%B8%D0%BA_%D0%9A%D0%B0%D1%88%D0%B8%D1%80%D0%B8%D0%BD%D0%B0"
+      },
+      {
+        "title": "Bảo tàng A. M. Gorky Nizhny Novgorod (museumgorkogo.ru)",
+        "url": "https://museumgorkogo.ru"
+      }
+    ],
+    "tags": [
+      "museum",
+      "literature",
+      "gorky",
+      "childhood",
+      "wooden-house"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-chkalov-museum-chkalovsk",
+    "slug": "chkalov-museum-chkalovsk",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Bảo tàng tưởng niệm phi công V. P. Chkalov (Chkalovsk)",
+    "name_ru": "Мемориальный музей В. П. Чкалова",
+    "name_en": "V. P. Chkalov Memorial Museum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 56.765074,
+      "lon": 43.265766
+    },
+    "address_vi": "Phố Chkalov (ул. Чкалова) số 5, thành phố Chkalovsk, tỉnh Nizhny Novgorod, bên hồ chứa Gorky trên sông Volga, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Bảo tàng tưởng niệm nằm tại quê hương của Valery Chkalov (1904–1938) – phi công huyền thoại Liên Xô, người đầu tiên bay xuyên Bắc Cực từ Moskva sang Mỹ năm 1937. Khu bảo tàng gồm ngôi nhà thời thơ ấu của ông và một nhà vòm lớn trưng bày những chiếc máy bay gắn liền tên tuổi ông, trong đó có chiếc ANT-25.",
+    "presentation_long_vi": "Thành phố nhỏ Chkalovsk bên hồ chứa Gorky vốn mang tên Vasilyovo, được đổi tên để vinh danh người con nổi tiếng nhất của mình: phi công thử nghiệm Valery Chkalov (1904–1938). Chkalov là anh hùng Liên Xô, nổi danh toàn thế giới sau chuyến bay lịch sử năm 1937 khi ông cùng đồng đội lái chiếc ANT-25 bay thẳng từ Moskva, vượt qua Bắc Cực và hạ cánh xuống Vancouver (bang Washington, Mỹ) – chuyến bay xuyên cực đầu tiên nối liền hai lục địa. Bảo tàng tưởng niệm được lập ngay tại quê ông, gồm ngôi nhà gỗ nơi ông sinh ra và lớn lên (phục dựng nội thất đầu thế kỷ 20) cùng một nhà vòm – ăng-ga lớn trưng bày các máy bay thật gắn với sự nghiệp của ông, đáng chú ý nhất là chiếc ANT-25 huyền thoại và một số phi cơ tiêm kích, thuỷ phi cơ ông từng thử nghiệm. Đây là điểm đến hấp dẫn cho những ai yêu lịch sử hàng không, đồng thời là dịp khám phá một thị trấn ven sông Volga yên bình.",
+    "highlights_vi": [
+      "Quê hương phi công huyền thoại Valery Chkalov (1904–1938), Anh hùng Liên Xô.",
+      "Nhà vòm – ăng-ga trưng bày máy bay thật, nổi bật là chiếc ANT-25 bay xuyên Bắc Cực sang Mỹ (1937).",
+      "Ngôi nhà thời thơ ấu của Chkalov phục dựng nguyên trạng đầu thế kỷ 20."
+    ],
+    "practical": {
+      "hours_vi": "Thường mở khoảng 9:00–17:00, nghỉ một ngày trong tuần; nên kiểm tra lịch trước.",
+      "ticket_vi": "Bán vé vào cửa; vé riêng cho nhà ăng-ga trưng bày máy bay.",
+      "duration_vi": "Khoảng 1–1,5 giờ.",
+      "best_time_vi": "Cuối xuân đến đầu thu; kết hợp dạo bờ hồ chứa Gorky khi trời đẹp.",
+      "tips_vi": "Chkalovsk cách Nizhny Novgorod khoảng 100 km; thuận tiện đi bằng ô tô, có thể ghép cùng Gorodets."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%20%D0%92.%20%D0%9F.%20%D0%A7%D0%BA%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0&ll=43.265766,56.765074&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=V.%20P.%20Chkalov%20Memorial%20Museum%2C%20Nizhny%20Novgorod%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Чкалов, Валерий Павлович",
+        "url": "https://ru.wikipedia.org/wiki/%D0%A7%D0%BA%D0%B0%D0%BB%D0%BE%D0%B2,_%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D0%B9_%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D0%B8%D1%87"
+      },
+      {
+        "title": "Yandex Maps — Мемориальный музей В. П. Чкалова (Дом Валерия Чкалова)",
+        "url": "https://yandex.ru/maps/org/memorialny_muzey_v_p_chkalova_dom_valeriya_chkalova/134959545013/"
+      }
+    ],
+    "tags": [
+      "museum",
+      "aviation",
+      "chkalov",
+      "ant-25",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-shchelokovsky-khutor-museum",
+    "slug": "shchelokovsky-khutor-museum",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Bảo tàng kiến trúc gỗ ngoài trời Shchelokovsky Khutor",
+    "name_ru": "Музей архитектуры и быта народов Нижегородского Поволжья «Щёлоковский хутор»",
+    "name_en": "Shchelokovsky Khutor Museum of Wooden Architecture",
+    "categories": [
+      "museum",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 56.27417,
+      "lon": 44.01056
+    },
+    "address_vi": "Phố Gorbatovskaya (Горбатовская ул.) số 41, trong công viên rừng Shchelokovsky Khutor phía nam thành phố Nizhny Novgorod, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Shchelokovsky Khutor là bảo tàng kiến trúc gỗ ngoài trời của thành phố, nằm giữa một công viên rừng phía nam. Nơi đây quy tụ những nhà thờ gỗ, nhà nông dân (izba), cối xay gió và giếng nước thế kỷ 17–19 được di dời từ khắp vùng Volga về, tái hiện đời sống làng quê Nga xưa.",
+    "presentation_long_vi": "Ẩn mình trong một công viên rừng ở rìa nam Nizhny Novgorod, Bảo tàng Kiến trúc và Đời sống các dân tộc vùng Volga Nizhny Novgorod – quen gọi là 'Shchelokovsky Khutor' – là bảo tàng ngoài trời (skansen) tái hiện làng quê Nga truyền thống. Được thành lập từ đầu thập niên 1970, bảo tàng sưu tầm và di dời về đây những công trình gỗ tiêu biểu thế kỷ 17–19 từ khắp các huyện trong tỉnh: vài ngôi nhà thờ gỗ mái vòm thanh thoát dựng hoàn toàn không dùng đinh, các izba (nhà nông dân) với nội thất sinh hoạt nguyên bản, cối xay gió, kho thóc và giếng nước cần trục. Dạo bước trên những lối mòn giữa rừng bạch dương, du khách như lạc vào một ngôi làng Nga của mấy thế kỷ trước, tìm hiểu cách người nông dân dựng nhà, sưởi ấm, dệt vải và thờ phụng. Vào mùa hè nơi đây thường tổ chức các lễ hội dân gian, còn mùa đông tuyết phủ khiến khung cảnh những mái nhà gỗ càng thêm nên thơ. Đây là điểm đến thư giãn, kết hợp thiên nhiên và di sản, rất hợp cho gia đình.",
+    "highlights_vi": [
+      "Bảo tàng gỗ ngoài trời (skansen) với nhà thờ, izba, cối xay gió thế kỷ 17–19.",
+      "Các công trình di dời từ khắp vùng Volga, nhiều nhà thờ gỗ dựng không dùng đinh.",
+      "Nằm giữa công viên rừng yên tĩnh phía nam thành phố, hay có lễ hội dân gian mùa hè."
+    ],
+    "practical": {
+      "hours_vi": "Khu ngoài trời thường mở hằng ngày khoảng 10:00–18:00 (mùa đông có thể ngắn hơn); một số nhà mở theo giờ.",
+      "ticket_vi": "Vé vào cửa giá phổ thông; có thể thu thêm phí cho một số nhà trưng bày hoặc sự kiện.",
+      "duration_vi": "Khoảng 1–1,5 giờ.",
+      "best_time_vi": "Mùa hè cho lễ hội và cây xanh; mùa đông tuyết phủ cũng rất đẹp.",
+      "tips_vi": "Đi giày thoải mái để dạo đường rừng; mang nước và đồ chống muỗi vào mùa ấm."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%B9%20%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D1%8B%20%D0%B8%20%D0%B1%D1%8B%D1%82%D0%B0%20%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BE%D0%B2%20%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%9F%D0%BE%D0%B2%D0%BE%D0%BB%D0%B6%D1%8C%D1%8F%20%C2%AB%D0%A9%D1%91%D0%BB%D0%BE%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D1%85%D1%83%D1%82%D0%BE%D1%80%C2%BB&ll=44.01056,56.27417&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Shchelokovsky%20Khutor%20Museum%20of%20Wooden%20Architecture%2C%20Nizhny%20Novgorod%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Щёлоковский хутор (музей)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%A9%D1%91%D0%BB%D0%BE%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D1%83%D1%82%D0%BE%D1%80_(%D0%BC%D1%83%D0%B7%D0%B5%D0%B9)"
+      },
+      {
+        "title": "Culture.ru — Музей «Щёлоковский хутор»",
+        "url": "https://www.culture.ru/institutes/11994/muzej-shyolokovskij-hutor"
+      }
+    ],
+    "tags": [
+      "museum",
+      "open-air",
+      "wooden-architecture",
+      "skansen",
+      "folk-life"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-nizhny-novgorod-planetarium",
+    "slug": "nizhny-novgorod-planetarium",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Cung thiên văn Nizhny Novgorod mang tên G. M. Grechko",
+    "name_ru": "Нижегородский планетарий имени Г. М. Гречко",
+    "name_en": "Nizhny Novgorod Planetarium named after G. M. Grechko",
+    "categories": [
+      "museum",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 56.31855,
+      "lon": 43.95484
+    },
+    "address_vi": "Phố Revolyutsii (ул. Революции) số 20, gần khu Hội chợ, thành phố Nizhny Novgorod, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Cung thiên văn Nizhny Novgorod là một trong những cung thiên văn lâu đời nhất nước Nga (từ năm 1948) và là cung thiên văn đầu tiên trong nước được trang bị hệ chiếu vòm kỹ thuật số hiện đại. Toà nhà mới (2005) mang tên nhà du hành vũ trụ Georgy Grechko, có nhà hát ngôi sao, đài quan sát và nhiều chương trình khoa học.",
+    "presentation_long_vi": "Khai trương từ năm 1948, Cung thiên văn Nizhny Novgorod nằm trong số những cung thiên văn hoạt động lâu đời nhất nước Nga. Sau nhiều thập niên đặt trong một nhà thờ cũ, cung thiên văn chuyển tới toà nhà hiện đại được xây riêng trên phố Revolyutsii vào năm 2005, và trở thành cung thiên văn đầu tiên ở Nga lắp đặt hệ thống máy chiếu vòm kỹ thuật số toàn cảnh. Công trình mang tên Georgy Grechko – nhà du hành vũ trụ Liên Xô hai lần Anh hùng, người có nhiều gắn bó với thành phố. Bên trong có 'Nhà hát Ngôi sao' với mái vòm lớn trình chiếu bầu trời đêm và các bộ phim khoa học vòm 360 độ, cùng phòng trưng bày tương tác, đài quan sát với kính thiên văn để ngắm Mặt Trăng và các hành tinh trong những buổi tối trời quang. Đây là điểm đến giáo dục – giải trí hấp dẫn, đặc biệt phù hợp với gia đình có trẻ em và những người yêu thích thiên văn, đồng thời là một lựa chọn thú vị cho ngày thời tiết xấu.",
+    "highlights_vi": [
+      "Một trong những cung thiên văn lâu đời nhất nước Nga (từ 1948).",
+      "Cung thiên văn Nga đầu tiên có hệ chiếu vòm kỹ thuật số toàn cảnh (toà nhà mới 2005).",
+      "Mang tên nhà du hành vũ trụ Georgy Grechko; có Nhà hát Ngôi sao, đài quan sát và trưng bày tương tác."
+    ],
+    "practical": {
+      "hours_vi": "Mở theo lịch suất chiếu, thường khoảng 9:00–19:00; nghỉ một ngày trong tuần.",
+      "ticket_vi": "Bán vé theo từng suất chương trình; nên đặt trước cho suất đông khách và cuối tuần.",
+      "duration_vi": "Khoảng 45–60 phút mỗi chương trình.",
+      "best_time_vi": "Quanh năm; buổi tối trời quang thích hợp cho quan sát qua kính thiên văn.",
+      "tips_vi": "Xem lịch suất chiếu và chọn chương trình phù hợp độ tuổi; đặt vé trực tuyến khi có thể."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0%D1%80%D0%B8%D0%B9%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%20%D0%93.%20%D0%9C.%20%D0%93%D1%80%D0%B5%D1%87%D0%BA%D0%BE&ll=43.95484,56.31855&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Nizhny%20Novgorod%20Planetarium%20named%20after%20G.%20M.%20Grechko%2C%20Russia"
+    },
+    "official_site": "https://planetariumnn.ru",
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Нижегородский планетарий",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0%D1%80%D0%B8%D0%B9"
+      },
+      {
+        "title": "Trang chính thức Cung thiên văn NN (planetariumnn.ru)",
+        "url": "https://planetariumnn.ru"
+      }
+    ],
+    "tags": [
+      "planetarium",
+      "science",
+      "astronomy",
+      "family",
+      "grechko"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-gorky-drama-theatre",
+    "slug": "gorky-drama-theatre",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Nhà hát kịch hàn lâm bang Nizhny Novgorod mang tên M. Gorky",
+    "name_ru": "Нижегородский государственный академический театр драмы имени М. Горького",
+    "name_en": "Nizhny Novgorod State Academic Drama Theatre named after M. Gorky",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 56.32416,
+      "lon": 44.00135
+    },
+    "address_vi": "Phố đi bộ Bolshaya Pokrovskaya (Большая Покровская) số 13, thành phố Nizhny Novgorod, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Nhà hát kịch mang tên M. Gorky là một trong những nhà hát lâu đời nhất nước Nga, có gốc từ năm 1798. Toà nhà lộng lẫy hiện nay khánh thành năm 1896 trên phố đi bộ Bolshaya Pokrovskaya, do kiến trúc sư Viktor Schröter thiết kế theo phong cách chiết trung cầu kỳ.",
+    "presentation_long_vi": "Toạ lạc ngay trên phố đi bộ sầm uất Bolshaya Pokrovskaya, Nhà hát kịch bang Nizhny Novgorod là một trong những đoàn kịch lâu đời nhất nước Nga, với lịch sử truy về tận năm 1798. Toà nhà nhà hát hiện nay được khánh thành năm 1896 – đúng dịp Triển lãm Toàn Nga tổ chức tại thành phố – theo thiết kế của kiến trúc sư danh tiếng Viktor Schröter. Mặt tiền trang trí công phu với các chi tiết đắp nổi, tượng và ban công, còn khán phòng bên trong lộng lẫy theo phong cách sân khấu cổ điển châu Âu. Nhà hát mang tên đại văn hào Maxim Gorky – người con của thành phố – và trên sân khấu này nhiều vở kịch kinh điển của ông cùng các tác gia Nga và thế giới vẫn được dàn dựng đều đặn. Ngay cả khi không xem biểu diễn, du khách vẫn thường dừng chân trước nhà hát để chiêm ngưỡng một trong những công trình đẹp nhất của phố Pokrovskaya và chụp ảnh cùng bức tượng đồng nghệ sĩ đặt gần đó.",
+    "highlights_vi": [
+      "Một trong những nhà hát lâu đời nhất nước Nga, có gốc từ năm 1798.",
+      "Toà nhà tráng lệ khánh thành 1896 do kiến trúc sư Viktor Schröter thiết kế.",
+      "Nằm ngay trên phố đi bộ Bolshaya Pokrovskaya, mang tên đại văn hào Maxim Gorky."
+    ],
+    "practical": {
+      "hours_vi": "Phòng vé mở ban ngày; suất diễn thường vào buổi tối và cuối tuần theo lịch mùa diễn.",
+      "ticket_vi": "Mua vé theo vở diễn tại phòng vé hoặc trực tuyến; giá đa dạng theo hạng ghế.",
+      "duration_vi": "Ngắm bên ngoài ~15 phút; một buổi diễn khoảng 2–3 giờ.",
+      "best_time_vi": "Mùa diễn (thu–xuân); mặt tiền đẹp cả ngày lẫn khi lên đèn.",
+      "tips_vi": "Xem lịch diễn và đặt vé trước; kết hợp dạo trọn phố đi bộ Bolshaya Pokrovskaya."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D1%82%D0%B5%D0%B0%D1%82%D1%80%20%D0%B4%D1%80%D0%B0%D0%BC%D1%8B%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%20%D0%9C.%20%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE&ll=44.00135,56.32416&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Nizhny%20Novgorod%20State%20Academic%20Drama%20Theatre%20named%20after%20M.%20Gorky%2C%20Russia"
+    },
+    "official_site": "https://dramteatr.nnov.ru",
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Нижегородский театр драмы имени М. Горького",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D0%B4%D1%80%D0%B0%D0%BC%D1%8B"
+      },
+      {
+        "title": "Trang chính thức Nhà hát kịch NN (dramteatr.nnov.ru)",
+        "url": "https://dramteatr.nnov.ru"
+      }
+    ],
+    "tags": [
+      "theatre",
+      "drama",
+      "architecture",
+      "pokrovskaya",
+      "gorky"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-nizhny-novgorod-opera-ballet",
+    "slug": "nizhny-novgorod-opera-ballet",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Nhà hát Opera và Ballet hàn lâm bang mang tên A. S. Pushkin",
+    "name_ru": "Нижегородский государственный академический театр оперы и балета имени А. С. Пушкина",
+    "name_en": "Nizhny Novgorod State Academic Opera and Ballet Theatre named after A. S. Pushkin",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 56.31583,
+      "lon": 44.01696
+    },
+    "address_vi": "Phố Belinskogo (ул. Белинского) số 59, thành phố Nizhny Novgorod, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Nhà hát Opera và Ballet mang tên A. S. Pushkin là sân khấu nhạc kịch chính của Nizhny Novgorod, thành lập năm 1935. Đây cũng là nơi tổ chức Liên hoan nghệ thuật quốc tế 'Những buổi hoà nhạc Sakharov' danh tiếng, quy tụ nhiều nghệ sĩ opera và ballet hàng đầu.",
+    "presentation_long_vi": "Được thành lập năm 1935, Nhà hát Opera và Ballet hàn lâm bang Nizhny Novgorod là trung tâm nghệ thuật hàn lâm hàng đầu của thành phố trong lĩnh vực nhạc kịch. Nhà hát mang tên đại thi hào Aleksandr Pushkin, gắn với việc khai trương đúng dịp kỷ niệm 100 năm ngày mất của ông. Trên sân khấu này, các vở opera kinh điển Nga và thế giới – từ Tchaikovsky, Rimsky-Korsakov đến Verdi, Puccini – cùng những vở ballet lớn được dàn dựng công phu với dàn nhạc, hợp xướng và đoàn múa riêng. Nhà hát đặc biệt nổi tiếng nhờ là nơi tổ chức Liên hoan Nghệ thuật quốc tế mang tên viện sĩ Andrei Sakharov, sự kiện âm nhạc uy tín thu hút nghệ sĩ và khán giả từ nhiều quốc gia. Với những ai muốn thưởng thức một đêm opera hoặc ballet đúng chất Nga trong không gian trang trọng, đây là lựa chọn hàng đầu tại Nizhny Novgorod.",
+    "highlights_vi": [
+      "Sân khấu opera – ballet chính của thành phố, thành lập năm 1935.",
+      "Mang tên đại thi hào A. S. Pushkin; dàn dựng nhiều vở kinh điển Nga và thế giới.",
+      "Nơi tổ chức Liên hoan Nghệ thuật quốc tế mang tên viện sĩ Sakharov danh tiếng."
+    ],
+    "practical": {
+      "hours_vi": "Phòng vé mở ban ngày; suất diễn chủ yếu buổi tối và cuối tuần theo lịch mùa diễn.",
+      "ticket_vi": "Mua vé theo vở tại phòng vé hoặc trực tuyến; giá theo hạng ghế và chương trình.",
+      "duration_vi": "Một buổi opera/ballet thường 2–3 giờ.",
+      "best_time_vi": "Mùa diễn (thu–xuân); dịp Liên hoan Sakharov có nhiều chương trình đặc sắc.",
+      "tips_vi": "Đặt vé sớm cho các buổi diễn lớn; đến sớm để ổn định chỗ và gửi áo khoác."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D1%82%D0%B5%D0%B0%D1%82%D1%80%20%D0%BE%D0%BF%D0%B5%D1%80%D1%8B%20%D0%B8%20%D0%B1%D0%B0%D0%BB%D0%B5%D1%82%D0%B0%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%20%D0%90.%20%D0%A1.%20%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0&ll=44.01696,56.31583&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Nizhny%20Novgorod%20State%20Academic%20Opera%20and%20Ballet%20Theatre%20named%20after%20A.%20S.%20Pushkin%2C%20Russia"
+    },
+    "official_site": "https://operann.ru",
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Нижегородский театр оперы и балета",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D0%BE%D0%BF%D0%B5%D1%80%D1%8B_%D0%B8_%D0%B1%D0%B0%D0%BB%D0%B5%D1%82%D0%B0"
+      },
+      {
+        "title": "Trang chính thức Nhà hát Opera & Ballet NN (operann.ru)",
+        "url": "https://operann.ru"
+      }
+    ],
+    "tags": [
+      "theatre",
+      "opera",
+      "ballet",
+      "sakharov-festival",
+      "pushkin"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-state-bank-building-nn",
+    "slug": "state-bank-building-nn",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Toà nhà Ngân hàng Nhà nước Nizhny Novgorod (Gosbank)",
+    "name_ru": "Здание Государственного банка (Нижний Новгород)",
+    "name_en": "State Bank Building",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 56.32031,
+      "lon": 43.99886
+    },
+    "address_vi": "Phố đi bộ Bolshaya Pokrovskaya (Большая Покровская) số 26, thành phố Nizhny Novgorod, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Toà nhà Ngân hàng Nhà nước là một trong những công trình gây ấn tượng mạnh nhất Nizhny Novgorod, xây năm 1911–1913 nhân 300 năm triều Romanov. Kiến trúc sư Vladimir Pokrovsky dựng nó theo phong cách 'tân Nga' như một lâu đài cổ tích, với nội thất bích hoạ theo phác thảo của trường phái Ivan Bilibin.",
+    "presentation_long_vi": "Đứng trên phố đi bộ Bolshaya Pokrovskaya, Toà nhà Ngân hàng Nhà nước trông chẳng khác một lâu đài bước ra từ truyện cổ tích Nga. Công trình được xây dựng năm 1911–1913 nhân dịp kỷ niệm 300 năm vương triều Romanov, theo thiết kế của kiến trúc sư Vladimir Pokrovsky – bậc thầy của phong cách 'tân Nga' (neo-russky) phỏng theo kiến trúc terem và nhà thờ Nga cổ. Mặt ngoài toà nhà là một tổ hợp tháp nhọn, cổng vòm, mái dốc và những chi tiết chạm khắc tinh vi, kèm chiếc đồng hồ và hàng rào sắt uốn cầu kỳ. Bên trong, các sảnh được phủ bích hoạ rực rỡ theo phác thảo gắn với trường phái hoạ sĩ minh hoạ trứ danh Ivan Bilibin, cùng đèn chùm, cầu thang và trần vòm lộng lẫy. Điều đặc biệt là toà nhà đến nay vẫn là một chi nhánh hoạt động của Ngân hàng Trung ương Nga, nên nội thất chỉ mở cửa cho công chúng vào những dịp hiếm hoi (như 'Đêm bảo tàng'). Dù chỉ ngắm từ bên ngoài, đây vẫn là một trong những điểm chụp ảnh và kiến trúc đáng nhớ nhất thành phố.",
+    "highlights_vi": [
+      "Toà nhà kiểu 'tân Nga' như lâu đài cổ tích, xây 1911–1913 nhân 300 năm triều Romanov.",
+      "Do kiến trúc sư Vladimir Pokrovsky thiết kế; bích hoạ nội thất theo trường phái Ivan Bilibin.",
+      "Vẫn là chi nhánh Ngân hàng Trung ương hoạt động; nội thất chỉ mở cửa dịp đặc biệt."
+    ],
+    "practical": {
+      "hours_vi": "Ngắm bên ngoài bất cứ lúc nào; nội thất chỉ mở cho công chúng vào dịp đặc biệt (ví dụ 'Đêm bảo tàng').",
+      "ticket_vi": "Ngắm ngoài miễn phí; tham quan nội thất theo sự kiện có tổ chức riêng.",
+      "duration_vi": "Ngắm ngoài ~15–20 phút.",
+      "best_time_vi": "Quanh năm; đẹp khi lên đèn buổi tối làm nổi bật các chi tiết tháp mái.",
+      "tips_vi": "Kết hợp dạo phố Bolshaya Pokrovskaya; theo dõi lịch 'Đêm bảo tàng' nếu muốn vào trong."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%97%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0%20%28%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9%20%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%29&ll=43.99886,56.32031&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=State%20Bank%20Building%2C%20Nizhny%20Novgorod%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Здание Государственного банка (Нижний Новгород)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%97%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0_(%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9_%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)"
+      },
+      {
+        "title": "Culture.ru — Здание Государственного банка в Нижнем Новгороде",
+        "url": "https://www.culture.ru/institutes/nizhny-novgorod"
+      }
+    ],
+    "tags": [
+      "architecture",
+      "neo-russian",
+      "pokrovsky",
+      "bilibin",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-rozhdestvenskaya-street",
+    "slug": "rozhdestvenskaya-street",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Phố cổ Rozhdestvenskaya (Rozhdestvenskaya ulitsa)",
+    "name_ru": "Рождественская улица (Нижний Новгород)",
+    "name_en": "Rozhdestvenskaya Street",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 56.32833,
+      "lon": 43.9875
+    },
+    "address_vi": "Phố Rozhdestvenskaya (Рождественская улица), khu phố dưới ven sông Oka, thành phố Nizhny Novgorod, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Rozhdestvenskaya là con phố cổ đẹp nhất khu phố dưới của Nizhny Novgorod, chạy song song bờ sông Oka. Hai bên phố là dãy dinh thự thương nhân, ngân hàng và nhà thờ thế kỷ 18–19 được trùng tu, trong đó có nhà thờ Stroganov; nay là khu tản bộ nhiều quán cà phê, nhà hàng và bảo tàng nhỏ.",
+    "presentation_long_vi": "Nếu phố Bolshaya Pokrovskaya là trục đi bộ của khu phố trên, thì Rozhdestvenskaya chính là 'linh hồn' của khu phố dưới ven sông Oka. Con phố cong mềm mại này từng là trung tâm buôn bán sầm uất của giới thương nhân Nizhny Novgorod thế kỷ 18–19, và đến nay vẫn giữ được một quần thể kiến trúc lịch sử gần như trọn vẹn: những dinh thự, nhà kho, ngân hàng và khách sạn cổ với mặt tiền được phục chế tỉ mỉ, điểm xuyết bằng viên ngọc kiến trúc là nhà thờ Stroganov lộng lẫy. Sau các đợt chỉnh trang, Rozhdestvenskaya trở thành một trong những không gian tản bộ được yêu thích nhất thành phố, nơi tập trung nhiều quán cà phê, nhà hàng, phòng trưng bày và bảo tàng nhỏ, thường xuyên diễn ra các sự kiện văn hoá và lễ hội đường phố. Đi dạo dọc con phố này, du khách vừa thưởng ngoạn kiến trúc, vừa cảm nhận nhịp sống thư thái bên sông – rất hợp để kết thúc bằng một bữa tối hoặc ly cà phê ngắm hoàng hôn trên sông Oka.",
+    "highlights_vi": [
+      "Con phố cổ đẹp nhất khu phố dưới, giữ gần trọn vẹn kiến trúc thương nhân thế kỷ 18–19.",
+      "Có nhà thờ Stroganov cùng nhiều dinh thự, ngân hàng cổ được phục chế công phu.",
+      "Không gian tản bộ sôi động với quán cà phê, nhà hàng, phòng tranh và lễ hội đường phố."
+    ],
+    "practical": {
+      "hours_vi": "Phố mở tự do suốt ngày; quán xá và bảo tàng nhỏ theo giờ riêng.",
+      "ticket_vi": "Dạo phố miễn phí; chi phí tuỳ theo quán ăn, quán cà phê, bảo tàng ghé thăm.",
+      "duration_vi": "Khoảng 1–2 giờ (kèm nghỉ chân).",
+      "best_time_vi": "Cuối xuân đến đầu thu; đẹp vào chiều muộn và buổi tối khi lên đèn.",
+      "tips_vi": "Kết hợp thăm nhà thờ Stroganov và ra bờ sông Oka; nhiều nhà hàng ngon nằm ngay trên phố."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D1%83%D0%BB%D0%B8%D1%86%D0%B0%20%28%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9%20%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%29&ll=43.9875,56.32833&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Rozhdestvenskaya%20Street%2C%20Nizhny%20Novgorod%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Рождественская улица (Нижний Новгород)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%83%D0%BB%D0%B8%D1%86%D0%B0_(%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9_%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)"
+      },
+      {
+        "title": "Culture.ru — Рождественская улица",
+        "url": "https://www.culture.ru/institutes/nizhny-novgorod"
+      }
+    ],
+    "tags": [
+      "street",
+      "old-town",
+      "merchant-architecture",
+      "promenade",
+      "oka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-verkhne-volzhskaya-embankment",
+    "slug": "verkhne-volzhskaya-embankment",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Bờ sông Thượng Volga (Verkhne-Volzhskaya naberezhnaya)",
+    "name_ru": "Верхне-Волжская набережная",
+    "name_en": "Upper Volga Embankment",
+    "categories": [
+      "square_street",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 56.32833,
+      "lon": 44.02333
+    },
+    "address_vi": "Bờ sông Thượng Volga (Верхне-Волжская набережная), dọc bờ cao hữu ngạn sông Volga, thành phố Nizhny Novgorod, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Bờ sông Thượng Volga là tuyến tản bộ sang trọng chạy dọc bờ cao hữu ngạn sông Volga, nối từ Cầu thang Chkalov về phía đông. Con đường rợp cây, viền bởi các dinh thự lịch sử như điền trang Rukavishnikov và nhà Sirotkin, mở ra tầm nhìn toàn cảnh dòng Volga mênh mông và bờ bên kia.",
+    "presentation_long_vi": "Chạy dọc mép bờ cao hữu ngạn sông Volga, Bờ sông Thượng Volga là một trong những tuyến đi bộ được yêu thích và 'quý phái' nhất Nizhny Novgorod. Từ khu vực quảng trường Minin và đỉnh Cầu thang Chkalov, con đường trải dài về phía đông dưới những hàng cây, một bên là dãy dinh thự và biệt thự lịch sử cuối thế kỷ 19 – đầu thế kỷ 20 (nổi bật là điền trang Rukavishnikov lộng lẫy và toà nhà Sirotkin nay là bảo tàng), bên kia là lan can nhìn thẳng ra dòng Volga rộng lớn. Đây là nơi người dân thành phố và du khách ưa thả bộ, đạp xe, ngắm hoàng hôn và chụp ảnh toàn cảnh sông nước. Dọc theo tuyến còn có đài tưởng niệm phi công Valery Chkalov đặt ngay đầu cầu thang mang tên ông, cùng nhiều điểm ngắm cảnh lý tưởng. Kết hợp giữa kiến trúc thanh lịch, không gian xanh và khung cảnh sông Volga hùng vĩ, bờ sông Thượng Volga là điểm dừng gần như bắt buộc để cảm nhận vẻ đẹp đặc trưng của 'thành phố trên đồi cao bên sông' Nizhny Novgorod.",
+    "highlights_vi": [
+      "Tuyến tản bộ sang trọng dọc bờ cao sông Volga, nối liền với Cầu thang Chkalov.",
+      "Viền bởi dinh thự lịch sử như điền trang Rukavishnikov và nhà Sirotkin.",
+      "Điểm ngắm hoàng hôn và toàn cảnh sông Volga đẹp bậc nhất thành phố."
+    ],
+    "practical": {
+      "hours_vi": "Mở tự do suốt ngày; đẹp cả sáng sớm lẫn chiều tối.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 40–60 phút thả bộ.",
+      "best_time_vi": "Cuối xuân đến đầu thu; hoàng hôn cho khung cảnh và ánh sáng đẹp nhất.",
+      "tips_vi": "Kết hợp Cầu thang Chkalov, đài tưởng niệm Chkalov và điền trang Rukavishnikov trên cùng tuyến."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D0%B5%D1%80%D1%85%D0%BD%D0%B5-%D0%92%D0%BE%D0%BB%D0%B6%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F&ll=44.02333,56.32833&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Upper%20Volga%20Embankment%2C%20Nizhny%20Novgorod%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Верхне-Волжская набережная",
+        "url": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%80%D1%85%D0%BD%D0%B5-%D0%92%D0%BE%D0%BB%D0%B6%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F"
+      },
+      {
+        "title": "Culture.ru — Верхне-Волжская набережная, Нижний Новгород",
+        "url": "https://www.culture.ru/institutes/nizhny-novgorod"
+      }
+    ],
+    "tags": [
+      "embankment",
+      "promenade",
+      "volga",
+      "viewpoint",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-strelka-pakgauzy",
+    "slug": "strelka-pakgauzy",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Pakgauzy trên bãi Strelka – nhà hoà nhạc & triển lãm (Pakgauzy na Strelke)",
+    "name_ru": "Пакгаузы на Стрелке",
+    "name_en": "The Pakgauzy on the Strelka",
+    "categories": [
+      "other",
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 56.33524,
+      "lon": 43.97395
+    },
+    "address_vi": "Bãi Strelka (Стрелка), nơi sông Oka đổ vào sông Volga, gần sân vận động Nizhny Novgorod, thành phố Nizhny Novgorod, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Пакгаузы là cặp nhà kho khung thép thế kỷ 19 trên bãi Strelka, được cải tạo tài tình năm 2021–2022 thành một nhà hoà nhạc và một không gian triển lãm bọc kính hiện đại. Khung sắt lịch sử lộ ra ngoài lớp vỏ kính trong suốt đã biến nơi đây thành biểu tượng văn hoá mới của thành phố.",
+    "presentation_long_vi": "Trên mũi đất Strelka – nơi sông Oka gặp sông Volga – hai kết cấu khung thép cũ từng bị lãng quên dưới lớp tường kho hàng nay đã hồi sinh ngoạn mục thành quần thể 'Пакгаузы'. Bộ khung kim loại có từ thế kỷ 19, được cho là gắn với các gian trưng bày của Triển lãm Công nghiệp – Nghệ thuật Toàn Nga từng tổ chức tại Nizhny Novgorod năm 1896, thuộc thời kỳ hoàng kim của kỹ thuật kết cấu thép Nga. Khi được phát hiện còn nguyên vẹn, thành phố đã quyết định bảo tồn và cải tạo (hoàn thành 2021–2022): một nhà kho biến thành nhà hoà nhạc hiện đại với âm thanh đạt chuẩn, nhà kho còn lại thành không gian triển lãm; cả hai được bọc trong lớp vỏ kính trong suốt để lộ ra bộ khung sắt lịch sử như một tác phẩm điêu khắc. Kết quả là một công trình vừa tôn vinh di sản kỹ thuật, vừa mang hơi thở đương đại, ban đêm lên đèn lung linh soi bóng xuống sông. Пакгаузы nhanh chóng trở thành một trong những địa điểm 'phải check-in' mới của Nizhny Novgorod, đặc biệt khi đứng cạnh sân vận động và nhà thờ Aleksandr Nevsky tạo thành cụm cảnh quan Strelka độc đáo.",
+    "highlights_vi": [
+      "Khung thép nhà kho thế kỷ 19 (được cho là từ Triển lãm Toàn Nga 1896) bọc trong vỏ kính hiện đại.",
+      "Cải tạo 2021–2022 thành một nhà hoà nhạc và một không gian triển lãm đương đại.",
+      "Biểu tượng văn hoá mới trên bãi Strelka, cạnh sân vận động và nhà thờ Aleksandr Nevsky."
+    ],
+    "practical": {
+      "hours_vi": "Không gian triển lãm và sự kiện mở theo lịch chương trình; khu ngoài trời ngắm được cả ngày.",
+      "ticket_vi": "Ngắm bên ngoài miễn phí; vé riêng cho hoà nhạc và triển lãm bên trong.",
+      "duration_vi": "Ngắm ngoài ~20–30 phút; kèm buổi hoà nhạc/triển lãm thì lâu hơn.",
+      "best_time_vi": "Quanh năm; buổi tối khi lên đèn đẹp nhất để chụp ảnh.",
+      "tips_vi": "Theo dõi lịch hoà nhạc và triển lãm để đặt vé; kết hợp tham quan cụm Strelka."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D0%BA%D0%B3%D0%B0%D1%83%D0%B7%D1%8B%20%D0%BD%D0%B0%20%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D0%BA%D0%B5&ll=43.97395,56.33524&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=The%20Pakgauzy%20on%20the%20Strelka%2C%20Nizhny%20Novgorod%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Пакгаузы на Стрелке",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BA%D0%B3%D0%B0%D1%83%D0%B7%D1%8B_%D0%BD%D0%B0_%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D0%BA%D0%B5"
+      },
+      {
+        "title": "Culture.ru — Пакгаузы на Стрелке, Нижний Новгород",
+        "url": "https://www.culture.ru/institutes/nizhny-novgorod"
+      }
+    ],
+    "tags": [
+      "modern",
+      "concert-hall",
+      "exhibition",
+      "strelka",
+      "architecture",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-svetloyar-lake",
+    "slug": "svetloyar-lake",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Hồ Svetloyar – hồ thiêng gắn truyền thuyết thành phố Kitezh",
+    "name_ru": "Озеро Светлояр",
+    "name_en": "Lake Svetloyar",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 56.8186,
+      "lon": 45.0931
+    },
+    "address_vi": "Gần làng Vladimirskoye (Владимирское), huyện Voskresensky, tỉnh Nizhny Novgorod, cách Nizhny Novgorod khoảng 130 km về phía đông bắc, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Hồ Svetloyar là một hồ nước nhỏ nhưng sâu khác thường, nổi tiếng khắp nước Nga nhờ truyền thuyết về thành phố Kitezh 'vô hình' đã chìm xuống đáy hồ để tránh quân Mông Cổ. Cảnh quan thiên nhiên tĩnh lặng cùng huyền thoại đã biến nơi đây thành điểm hành hương và di tích tự nhiên được bảo vệ.",
+    "presentation_long_vi": "Nằm giữa vùng rừng và đồng quê huyện Voskresensky, bên làng Vladimirskoye, hồ Svetloyar là một trong những thắng cảnh gắn liền huyền thoại nổi tiếng nhất nước Nga. Mặt hồ hình bầu dục tuy không lớn nhưng lại sâu khác thường và nước trong vắt, khiến từ xưa dân gian đã bao phủ nơi đây bằng những câu chuyện kỳ bí. Nổi tiếng nhất là truyền thuyết về Kitezh – 'thành phố vô hình': tương truyền khi đại quân Batu Khan tràn tới, cả thành phố cùng nhà thờ đã chìm xuống lòng hồ để không rơi vào tay giặc, và người có tâm trong sáng vào những đêm tĩnh lặng còn nghe thấy tiếng chuông vọng lên từ đáy nước. Huyền thoại này đã truyền cảm hứng cho vở opera bất hủ 'Thành phố vô hình Kitezh' của nhà soạn nhạc Rimsky-Korsakov. Ngày nay Svetloyar vừa là di tích tự nhiên được bảo vệ, vừa là nơi hành hương: mỗi mùa hè người ta tổ chức lễ rước quanh hồ, và nơi đây cũng gắn với các nghi lễ dân gian cổ. Với du khách, đó là chốn thiên nhiên yên bình để đi bộ quanh hồ, đắm mình trong không khí huyền thoại và tìm hiểu văn hoá tâm linh Nga.",
+    "highlights_vi": [
+      "Hồ nhỏ nhưng sâu và trong khác thường, di tích tự nhiên được bảo vệ.",
+      "Gắn truyền thuyết thành phố 'vô hình' Kitezh chìm xuống hồ để tránh quân Mông Cổ.",
+      "Nguồn cảm hứng cho vở opera 'Thành phố vô hình Kitezh' của Rimsky-Korsakov; nơi hành hương mùa hè."
+    ],
+    "practical": {
+      "hours_vi": "Khu vực hồ mở tự do; trung tâm du khách và bảo tàng làng Vladimirskoye theo giờ riêng.",
+      "ticket_vi": "Tham quan hồ miễn phí; một số bảo tàng/hoạt động ở làng có thể thu phí nhỏ.",
+      "duration_vi": "Khoảng 1–2 giờ (đi bộ quanh hồ).",
+      "best_time_vi": "Cuối xuân đến đầu thu; đầu tháng 7 có lễ hội truyền thống quanh hồ.",
+      "tips_vi": "Cách NN khoảng 130 km, nên đi bằng ô tô; mang giày đi bộ và giữ gìn cảnh quan thiêng."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9E%D0%B7%D0%B5%D1%80%D0%BE%20%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%BE%D1%8F%D1%80&ll=45.0931,56.8186&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Lake%20Svetloyar%2C%20Nizhny%20Novgorod%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Светлояр",
+        "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%BE%D1%8F%D1%80"
+      },
+      {
+        "title": "Wikipedia (EN) — Lake Svetloyar",
+        "url": "https://en.wikipedia.org/wiki/Lake_Svetloyar"
+      }
+    ],
+    "tags": [
+      "lake",
+      "nature",
+      "legend",
+      "kitezh",
+      "pilgrimage",
+      "voskresensky"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-shukhov-tower-oka",
+    "slug": "shukhov-tower-oka",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Tháp Shukhov trên sông Oka (Shukhovskaya bashnya na Oke)",
+    "name_ru": "Шуховская башня на Оке",
+    "name_en": "Shukhov Tower on the Oka",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 56.1933,
+      "lon": 43.5431
+    },
+    "address_vi": "Bên tả ngạn sông Oka gần làng Dudenevo, huyện Bogorodsky, gần thành phố Dzerzhinsk, tỉnh Nizhny Novgorod, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Tháp Shukhov trên sông Oka là một tháp lưới thép hyperboloid cao khoảng 128 m, do kỹ sư thiên tài Vladimir Shukhov thiết kế và dựng năm 1927–1929 để đỡ đường dây tải điện vượt sông Oka. Đây là tháp truyền tải kiểu hyperboloid nhiều tầng duy nhất còn sót lại trên thế giới, một di tích kỹ thuật quý giá.",
+    "presentation_long_vi": "Vươn cao bên bờ sông Oka gần Dzerzhinsk, Tháp Shukhov trên sông Oka là một kiệt tác kỹ thuật độc nhất vô nhị của nước Nga. Tháp được kỹ sư – nhà phát minh lỗi lạc Vladimir Shukhov thiết kế và xây dựng trong khoảng 1927–1929, thuộc một cặp tháp dùng để đỡ đường dây điện cao thế vượt qua sông Oka, phục vụ nhà máy điện NiGRES. Điểm đặc biệt nằm ở kết cấu 'hyperboloid': thân tháp được tạo bởi những thanh thép thẳng đan chéo thành lưới, nhưng tổng thể lại cong mềm như chiếc eo, cho độ vững chắc cao mà lại nhẹ và tiết kiệm vật liệu – nguyên lý mà chính Shukhov đã phát minh và đăng ký từ cuối thế kỷ 19. Cao khoảng 128 mét với nhiều tầng lưới xếp chồng, đây là tháp truyền tải kiểu hyperboloid nhiều tầng duy nhất còn tồn tại trên thế giới (tháp còn lại trong cặp đã bị tháo dỡ). Sau khi bị hư hại vì nạn trộm kim loại, tháp đã được trùng tu và công nhận là di tích di sản. Với người yêu kiến trúc – kỹ thuật, đây là một điểm đến hiếm có, minh chứng cho tài năng vượt thời đại của kỹ sư Shukhov.",
+    "highlights_vi": [
+      "Tháp lưới thép hyperboloid cao khoảng 128 m, do kỹ sư Vladimir Shukhov dựng năm 1927–1929.",
+      "Tháp truyền tải kiểu hyperboloid nhiều tầng duy nhất còn sót lại trên thế giới.",
+      "Di tích kỹ thuật độc đáo bên sông Oka, minh chứng cho nguyên lý kết cấu thiên tài của Shukhov."
+    ],
+    "practical": {
+      "hours_vi": "Khu vực ngoài trời, tiếp cận tự do ban ngày; không có giờ mở cửa cố định.",
+      "ticket_vi": "Miễn phí (ngắm từ bên ngoài; không leo lên tháp).",
+      "duration_vi": "Khoảng 30–45 phút.",
+      "best_time_vi": "Cuối xuân đến đầu thu, khi thời tiết thuận lợi cho việc di chuyển và chụp ảnh.",
+      "tips_vi": "Nằm ở khu vực ven sông hẻo lánh gần Dzerzhinsk, nên đi bằng ô tô; đi giày phù hợp địa hình."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A8%D1%83%D1%85%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B1%D0%B0%D1%88%D0%BD%D1%8F%20%D0%BD%D0%B0%20%D0%9E%D0%BA%D0%B5&ll=43.5431,56.1933&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Shukhov%20Tower%20on%20the%20Oka%2C%20Nizhny%20Novgorod%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Шуховская башня на Оке",
+        "url": "https://ru.wikipedia.org/wiki/%D0%A8%D1%83%D1%85%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B0%D1%88%D0%BD%D1%8F_%D0%BD%D0%B0_%D0%9E%D0%BA%D0%B5"
+      },
+      {
+        "title": "Wikipedia (EN) — NiGRES tower / Shukhov Oka Towers",
+        "url": "https://en.wikipedia.org/wiki/Shukhov_Tower_on_the_Oka_River"
+      }
+    ],
+    "tags": [
+      "engineering",
+      "hyperboloid",
+      "shukhov",
+      "monument",
+      "oka",
+      "industrial-heritage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-blagoveshchensky-monastery",
+    "slug": "blagoveshchensky-monastery",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Tu viện Truyền Tin (Blagoveshchensky monastyr)",
+    "name_ru": "Благовещенский монастырь",
+    "name_en": "Annunciation Monastery",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 56.323218,
+      "lon": 43.977365
+    },
+    "address_vi": "Ngõ Melnichny (Мельничный переулок) số 1, bên bờ dốc phải sông Oka, thành phố Nizhny Novgorod, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Tu viện Truyền Tin là một trong những tu viện lâu đời nhất Nizhny Novgorod, tương truyền được lập từ năm 1221 cùng thời điểm khai sinh thành phố. Quần thể nhà thờ đá trắng nằm trên sườn dốc cao bên sông Oka, nổi bật với nhà thờ chính toà Truyền Tin thế kỷ 17.",
+    "presentation_long_vi": "Nép mình trên triền dốc cao ở hữu ngạn sông Oka, gần nơi con sông đổ vào Volga, Tu viện Truyền Tin gắn liền với chính buổi bình minh của Nizhny Novgorod. Theo truyền thống, tu viện được đại công tước Georgy Vsevolodovich – người sáng lập thành phố – cùng giám mục Simon cho lập năm 1221. Trải qua binh lửa và tàn phá, tu viện được hồi sinh vào nửa sau thế kỷ 14 nhờ công của thánh Aleksy, đô thành giáo chủ Moskva. Quần thể hiện nay chủ yếu hình thành trong thế kỷ 17, khi nhiều nhà thờ đá trắng được dựng lên: trung tâm là nhà thờ chính toà Truyền Tin năm cột năm vòm, cùng các nhà thờ Dòng Uspenskaya, Sergiy Radonezhsky và Aleksy. Thời Xô viết, tu viện bị đóng cửa và các toà nhà dùng cho mục đích khác, trong đó từng có cả một xưởng làm dụng cụ thiên văn – khí tượng. Từ thập niên 1990, tu viện được trả lại cho Giáo hội và trùng tu, trở lại là tu viện nam đang hoạt động. Ngày nay du khách tới đây vừa để chiêm ngưỡng cụm kiến trúc cổ kính bậc nhất thành phố, vừa để ngắm khung cảnh sông Oka mở ra bên dưới.",
+    "highlights_vi": [
+      "Một trong những tu viện cổ nhất Nizhny Novgorod, tương truyền lập từ năm 1221 cùng lúc khai sinh thành phố.",
+      "Quần thể nhà thờ đá trắng thế kỷ 17 với nhà thờ chính toà Truyền Tin làm trung tâm.",
+      "Vị trí tuyệt đẹp trên sườn dốc cao bên bờ sông Oka."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa cho khách hành hương và tham quan hằng ngày, thường khoảng 7:00–19:00 theo lịch tu viện.",
+      "ticket_vi": "Vào tham quan tự do (miễn phí); hoan nghênh quyên góp tuỳ tâm.",
+      "duration_vi": "Khoảng 45–60 phút.",
+      "best_time_vi": "Cuối xuân đến đầu thu; buổi sáng hoặc chiều muộn ánh sáng đẹp trên tường đá trắng.",
+      "tips_vi": "Ăn mặc kín đáo; kết hợp đi bộ ra bờ sông Oka và cầu Kanavinsky gần đó."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%91%D0%BB%D0%B0%D0%B3%D0%BE%D0%B2%D0%B5%D1%89%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C&ll=43.977365,56.323218&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Annunciation%20Monastery%2C%20Nizhny%20Novgorod%2C%20Russia"
+    },
+    "official_site": "https://blagomm.ru",
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Благовещенский монастырь (Нижний Новгород)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%91%D0%BB%D0%B0%D0%B3%D0%BE%D0%B2%D0%B5%D1%89%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9_%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)"
+      },
+      {
+        "title": "sobory.ru — Нижний Новгород, Благовещенский монастырь",
+        "url": "https://sobory.ru/article/?object=00566"
+      }
+    ],
+    "tags": [
+      "monastery",
+      "church",
+      "history",
+      "architecture",
+      "oka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-spassky-old-fair-cathedral",
+    "slug": "spassky-old-fair-cathedral",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Nhà thờ chính toà Spassky Cũ của Hội chợ (Spassky Staroyarmarochny sobor)",
+    "name_ru": "Спасский Староярмарочный собор",
+    "name_en": "Spassky Old Fair Cathedral",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 56.331373,
+      "lon": 43.954006
+    },
+    "address_vi": "Lối Yarmarochny (Ярмарочный проезд) số 10, khu Kanavino (khu vực Hội chợ), thành phố Nizhny Novgorod, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Nhà thờ chính toà Spassky Cũ của Hội chợ là công trình cổ điển tráng lệ do kiến trúc sư lừng danh Auguste de Montferrand thiết kế, hoàn tất năm 1822. Với mái vòm lớn và hàng cột uy nghi, nhà thờ từng là trung tâm tinh thần của Hội chợ Nizhny Novgorod trứ danh.",
+    "presentation_long_vi": "Dựng lên giữa khu Hội chợ Nizhny Novgorod sầm uất một thời, nhà thờ chính toà Spassky – quen gọi là 'nhà thờ Cũ của Hội chợ' để phân biệt với nhà thờ Aleksandr Nevsky 'Mới' xây sau – là một trong những công trình tân cổ điển đẹp nhất thành phố. Nhà thờ do Auguste de Montferrand, chính là kiến trúc sư của nhà thờ chính toà Thánh Isaac ở Sankt-Peterburg, thiết kế và hoàn thành vào năm 1822. Bố cục cân đối với mái vòm trung tâm bề thế đặt trên tang trống, bốn mặt là các hàng cột portico theo tinh thần cổ điển cao, gợi nhớ phong cách của thời đại. Đây từng là nơi thương nhân khắp nước Nga và nước ngoài tề tựu cầu nguyện trong những mùa hội chợ nhộn nhịp bậc nhất châu Âu thế kỷ 19. Nội thất được trang trí lộng lẫy dưới vòm cao tràn ngập ánh sáng. Sau thời gian bị đóng cửa và xuống cấp dưới thời Xô viết, nhà thờ đã được trùng tu và trả lại chức năng tôn giáo, đứng đó như một chứng nhân cho thời hoàng kim thương mại của thành phố.",
+    "highlights_vi": [
+      "Kiệt tác tân cổ điển do Auguste de Montferrand – tác giả nhà thờ Thánh Isaac – thiết kế, hoàn thành 1822.",
+      "Trung tâm tinh thần của Hội chợ Nizhny Novgorod nổi tiếng thế kỷ 19.",
+      "Mái vòm bề thế trên tang trống cùng các hàng cột portico cân đối bốn mặt."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa hằng ngày cho khách hành lễ và tham quan, thường khoảng 8:00–19:00.",
+      "ticket_vi": "Vào tự do (miễn phí).",
+      "duration_vi": "Khoảng 30–40 phút.",
+      "best_time_vi": "Quanh năm; kết hợp khi tham quan cung Hội chợ và nhà thờ Aleksandr Nevsky gần đó.",
+      "tips_vi": "Ăn mặc kín đáo khi vào; đi bộ vài phút là tới Cung Hội chợ (Yarmarka)."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%BF%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D1%8F%D1%80%D0%BC%D0%B0%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B9%20%D1%81%D0%BE%D0%B1%D0%BE%D1%80&ll=43.954006,56.331373&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Spassky%20Old%20Fair%20Cathedral%2C%20Nizhny%20Novgorod%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Спасский Староярмарочный собор",
+        "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D1%8F%D1%80%D0%BC%D0%B0%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80"
+      },
+      {
+        "title": "Нижегородская митрополия — Спасский Староярмарочный собор",
+        "url": "https://nne.ru/objects/spasskij-staroyarmarochnyj-sobor/"
+      }
+    ],
+    "tags": [
+      "cathedral",
+      "church",
+      "montferrand",
+      "classicism",
+      "fair"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-sormovo-transfiguration-cathedral",
+    "slug": "sormovo-transfiguration-cathedral",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Nhà thờ chính toà Chúa Biến Hình ở Sormovo (Spaso-Preobrazhensky sobor)",
+    "name_ru": "Спасо-Преображенский собор (Сормово)",
+    "name_en": "Sormovo Transfiguration Cathedral",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 56.350094,
+      "lon": 43.872068
+    },
+    "address_vi": "Phố Shcherbakova (улица Щербакова) số 13а, quận Sormovsky, thành phố Nizhny Novgorod, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Nhà thờ chính toà Chúa Biến Hình ở Sormovo là một trong những thánh đường đồ sộ và đẹp nhất Nizhny Novgorod, xây dựng năm 1900–1905 bằng kinh phí đóng góp của công nhân nhà máy Sormovo. Công trình theo phong cách tân Byzantine với mái vòm lớn và tháp chuông cao.",
+    "presentation_long_vi": "Sừng sững ở quận công nghiệp Sormovo phía tây bắc thành phố, nhà thờ chính toà Chúa Biến Hình là niềm tự hào của cộng đồng thợ thuyền nhà máy đóng tàu và cơ khí Sormovo lừng danh. Nhà thờ được khởi công đặt móng long trọng năm 1900 và khánh thành năm 1905, xây bằng tiền quyên góp của chính công nhân nhà máy cùng ban giám đốc. Kiến trúc theo phong cách tân Byzantine (Nga – Byzantine) với khối trung tâm bề thế đội mái vòm lớn, bao quanh là các vòm phụ, cùng tháp chuông vươn cao. Không gian bên trong rộng thoáng, có thể chứa hàng nghìn giáo dân, gợi liên tưởng tới các thánh đường lớn cùng thời. Dưới thời Xô viết nhà thờ bị đóng cửa và dùng làm kho, nhưng may mắn không bị phá dỡ; sau này được trả lại và trùng tu, trở thành một trong những nhà thờ trung tâm của thành phố. Với quy mô và vẻ bề thế, đây là điểm đến đáng ghé khi khám phá phần phía bắc Nizhny Novgorod, ngay gần ga tàu điện ngầm Burevestnik.",
+    "highlights_vi": [
+      "Thánh đường tân Byzantine đồ sộ xây 1900–1905 bằng tiền quyên góp của công nhân nhà máy Sormovo.",
+      "Mái vòm trung tâm lớn cùng tháp chuông cao, sức chứa hàng nghìn người.",
+      "Sống sót qua thời Xô viết, nay là một trong những nhà thờ trung tâm của thành phố."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa hằng ngày, thường khoảng 7:30–19:00 (cuối tuần mở sớm hơn).",
+      "ticket_vi": "Vào tự do (miễn phí).",
+      "duration_vi": "Khoảng 30–40 phút.",
+      "best_time_vi": "Quanh năm; đẹp khi nắng chiếu lên mái vòm.",
+      "tips_vi": "Đi tàu điện ngầm tới ga Burevestnik rồi đi bộ; ăn mặc kín đáo khi vào."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%BF%D0%B0%D1%81%D0%BE-%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D0%B1%D0%BE%D1%80%20%28%D0%A1%D0%BE%D1%80%D0%BC%D0%BE%D0%B2%D0%BE%29&ll=43.872068,56.350094&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Sormovo%20Transfiguration%20Cathedral%2C%20Nizhny%20Novgorod%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "sobory.ru — Нижний Новгород, Собор Спаса Преображения в Сормове",
+        "url": "https://sobory.ru/article/?object=01786"
+      },
+      {
+        "title": "Нижегородская митрополия — Спасо-Преображенский собор",
+        "url": "https://nne.ru/objects/spaso-preobrazhenskij-sobor/"
+      }
+    ],
+    "tags": [
+      "cathedral",
+      "church",
+      "neo-byzantine",
+      "sormovo",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-sakharov-museum-nn",
+    "slug": "sakharov-museum-nn",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Bảo tàng - căn hộ Viện sĩ Andrei Sakharov (Muzey A. D. Sakharova)",
+    "name_ru": "Музей А. Д. Сахарова",
+    "name_en": "Sakharov Museum (Apartment Museum)",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 56.232366,
+      "lon": 43.950358
+    },
+    "address_vi": "Đại lộ Gagarin (проспект Гагарина) số 214, khu Shcherbinki, quận Prioksky, thành phố Nizhny Novgorod, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Bảo tàng - căn hộ Andrei Sakharov nằm trong chính căn hộ nơi nhà vật lý đoạt giải Nobel Hoà bình sống những năm bị quản thúc ở thành phố Gorky (1980–1986). Bảo tàng mở cửa năm 1991, lưu giữ đồ đạc và tư liệu về cuộc đời và cuộc đấu tranh vì nhân quyền của ông.",
+    "presentation_long_vi": "Nằm ở tầng trệt một chung cư mười hai tầng trên đại lộ Gagarin, khu Shcherbinki, đây là căn hộ nơi viện sĩ Andrei Sakharov – 'cha đẻ bom khinh khí' của Liên Xô đồng thời là nhà hoạt động nhân quyền đoạt giải Nobel Hoà bình – bị đưa đi quản thúc từ năm 1980 đến 1986. Khi ấy Nizhny Novgorod còn mang tên Gorky và là thành phố 'đóng' với người nước ngoài; Sakharov bị lưu đày tại đây vì phản đối cuộc chiến ở Afghanistan và lên tiếng đòi các quyền tự do. Bảo tàng mở cửa năm 1991, ngay sau khi ông qua đời, tái hiện gần như nguyên vẹn không gian sống khiêm nhường: bàn viết, sách vở, đồ đạc thường nhật, cùng các tư liệu, ảnh và hiện vật kể lại quãng đời khoa học lẫn hành trình bảo vệ nhân quyền của ông. Đây là một điểm đến giàu ý nghĩa lịch sử, cho thấy một lát cắt của thời kỳ Xô viết và câu chuyện về lương tri của một nhà khoa học.",
+    "highlights_vi": [
+      "Căn hộ nơi viện sĩ Andrei Sakharov bị quản thúc tại Gorky (1980–1986).",
+      "Không gian sống được giữ gần như nguyên vẹn cùng tư liệu về cuộc đời và hoạt động nhân quyền của ông.",
+      "Mở cửa năm 1991, một điểm đến giàu ý nghĩa lịch sử thời Xô viết."
+    ],
+    "practical": {
+      "hours_vi": "Thường mở 10:00–17:00; nghỉ thứ Sáu (nên kiểm tra lịch trước khi đến).",
+      "ticket_vi": "Vé vào cửa giá phổ thông, mức thấp; có ưu đãi cho học sinh, sinh viên, người cao tuổi.",
+      "duration_vi": "Khoảng 45–60 phút.",
+      "best_time_vi": "Quanh năm; nằm khá xa trung tâm nên tính thời gian di chuyển.",
+      "tips_vi": "Đi tàu điện ngầm/ xe buýt về hướng Shcherbinki; nên gọi trước để xác nhận giờ mở."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%B9%20%D0%90.%20%D0%94.%20%D0%A1%D0%B0%D1%85%D0%B0%D1%80%D0%BE%D0%B2%D0%B0&ll=43.950358,56.232366&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Sakharov%20Museum%20%28Apartment%20Museum%29%2C%20Nizhny%20Novgorod%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Музей-квартира А. Д. Сахарова (Нижний Новгород)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D0%B7%D0%B5%D0%B9-%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D0%B0_%D0%90._%D0%94._%D0%A1%D0%B0%D1%85%D0%B0%D1%80%D0%BE%D0%B2%D0%B0_(%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9_%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)"
+      },
+      {
+        "title": "Culture.ru — Музей А.Д. Сахарова",
+        "url": "https://www.culture.ru/institutes/10880/muzei-a-d-sakharova"
+      }
+    ],
+    "tags": [
+      "museum",
+      "sakharov",
+      "history",
+      "soviet",
+      "human-rights"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-gaz-history-museum",
+    "slug": "gaz-history-museum",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Bảo tàng lịch sử nhà máy ô tô GAZ (Muzey istorii GAZ)",
+    "name_ru": "Музей истории ГАЗ",
+    "name_en": "GAZ History Museum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 56.25098,
+      "lon": 43.88926
+    },
+    "address_vi": "Đại lộ Lenin (проспект Ленина) số 95, quận Avtozavodsky, thành phố Nizhny Novgorod, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Bảo tàng lịch sử nhà máy ô tô Gorky (GAZ) trưng bày bộ sưu tập xe hơi độc đáo, kể lại gần một thế kỷ ngành công nghiệp ô tô Nga. Nơi đây có nhiều mẫu xe huyền thoại như Volga, Chaika cùng các dòng xe quân sự.",
+    "presentation_long_vi": "Đặt tại quận Avtozavodsky – 'thành phố ô tô' hình thành quanh nhà máy GAZ khổng lồ, Bảo tàng lịch sử GAZ là điểm hẹn của những người mê xe và tò mò về công nghiệp Xô viết. Nhà máy ô tô Gorky ra đời đầu thập niên 1930 với sự hỗ trợ kỹ thuật ban đầu từ Ford, và từ đó cho ra đời nhiều dòng xe gắn liền với lịch sử nước Nga. Bảo tàng bố trí trên hai tầng của Trung tâm đào tạo GAZ: một khu giới thiệu lịch sử và sự phát triển của nhà máy, khu còn lại là triển lãm 'Những chiếc xe và người tạo ra chúng' với dàn xe nguyên bản được gìn giữ cẩn thận. Khách tham quan có thể ngắm những mẫu xe biểu tượng như limousine Chaika, sedan Volga sang trọng, xe tải, cùng các xe quân sự và mẫu thử hiếm gặp. Đây là cách sinh động để hiểu về một trong những trụ cột công nghiệp của Nizhny Novgorod.",
+    "highlights_vi": [
+      "Bộ sưu tập xe hơi phong phú của nhà máy ô tô Gorky (GAZ) huyền thoại.",
+      "Nhiều mẫu xe biểu tượng: limousine Chaika, sedan Volga, xe tải và xe quân sự.",
+      "Kể lại gần một thế kỷ công nghiệp ô tô gắn với quận Avtozavodsky."
+    ],
+    "practical": {
+      "hours_vi": "Thứ Hai–Năm 9:00–18:00, thứ Sáu 9:00–17:00, thứ Bảy 9:00–16:00; Chủ nhật nghỉ.",
+      "ticket_vi": "Vé vào cửa mức phổ thông; có thể đặt tour hướng dẫn.",
+      "duration_vi": "Khoảng 1–1,5 giờ.",
+      "best_time_vi": "Quanh năm; nằm ở quận Avtozavodsky phía nam, tính thời gian di chuyển.",
+      "tips_vi": "Đi tàu điện ngầm tới các ga khu Avtozavod; nên kiểm tra lịch mở cửa trước khi đến."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%B9%20%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8%20%D0%93%D0%90%D0%97&ll=43.88926,56.25098&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=GAZ%20History%20Museum%2C%20Nizhny%20Novgorod%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Culture.ru — Музей истории ГАЗ",
+        "url": "https://www.culture.ru/institutes/4662/muzei-istorii-gaz"
+      },
+      {
+        "title": "Yandex Maps — Музей истории ГАЗ (просп. Ленина, 95)",
+        "url": "https://yandex.ru/maps/org/muzey_istorii_gaz/1085889766/"
+      }
+    ],
+    "tags": [
+      "museum",
+      "cars",
+      "gaz",
+      "industry",
+      "avtozavod"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-minin-pozharsky-square",
+    "slug": "minin-pozharsky-square",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Quảng trường Minin và Pozharsky (ploshchad Minina i Pozharskogo)",
+    "name_ru": "Площадь Минина и Пожарского",
+    "name_en": "Minin and Pozharsky Square",
+    "categories": [
+      "square_street",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 56.327436,
+      "lon": 44.006948
+    },
+    "address_vi": "Trung tâm lịch sử, ngay cạnh mặt đông nam của Kremlin, quận Nizhegorodsky, thành phố Nizhny Novgorod, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Quảng trường Minin và Pozharsky là quảng trường chính và trái tim đô thị của Nizhny Novgorod, trải rộng ngay bên chân đồi của Kremlin. Đây là nơi diễn ra các lễ hội, sự kiện lớn và điểm khởi đầu lý tưởng để khám phá thành phố.",
+    "presentation_long_vi": "Mang tên hai người anh hùng dân tộc Kuzma Minin và công tước Dmitry Pozharsky – những người đã tập hợp đội dân binh tại chính Nizhny Novgorod để giải phóng Moskva năm 1612 – quảng trường này là không gian công cộng quan trọng nhất của thành phố. Nằm ở phần cao (nagornaya) của trung tâm lịch sử, ngay sát mặt đông nam của Kremlin, quảng trường được bao quanh bởi nhiều công trình biểu tượng: Bảo tàng Mỹ thuật bang, các toà nhà thế kỷ 19 của trường đại học sư phạm, Cung Lao động, tháp Kladovaya của Kremlin. Từ đây, phố đi bộ Bolshaya Pokrovskaya và các tuyến bờ sông toả ra bốn phía, biến quảng trường thành điểm giao và điểm hẹn quen thuộc. Vào các dịp lễ lớn, ngày thành phố hay đêm giao thừa, nơi đây trở thành sân khấu ngoài trời rộn ràng với hàng nghìn người. Ngày thường, quảng trường vẫn là chốn dạo bộ, ngắm phố và chụp ảnh lý tưởng.",
+    "highlights_vi": [
+      "Quảng trường chính, trái tim đô thị của Nizhny Novgorod, ngay cạnh Kremlin.",
+      "Mang tên Minin và Pozharsky – những người khởi xướng đội dân binh giải phóng Moskva năm 1612.",
+      "Điểm khởi đầu của phố đi bộ Bolshaya Pokrovskaya và các tuyến bờ sông."
+    ],
+    "practical": {
+      "hours_vi": "Không gian mở, tham quan tự do suốt cả ngày.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 20–40 phút dạo quanh; lâu hơn nếu vào các bảo tàng lân cận.",
+      "best_time_vi": "Chiều muộn và buổi tối khi lên đèn; đặc biệt sôi động vào các dịp lễ.",
+      "tips_vi": "Dùng làm điểm xuất phát: từ đây đi bộ vào Kremlin, xuống Cầu thang Chkalov hoặc dọc phố Pokrovskaya."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C%20%D0%9C%D0%B8%D0%BD%D0%B8%D0%BD%D0%B0%20%D0%B8%20%D0%9F%D0%BE%D0%B6%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE&ll=44.006948,56.327436&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Minin%20and%20Pozharsky%20Square%2C%20Nizhny%20Novgorod%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Площадь Минина и Пожарского",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C_%D0%9C%D0%B8%D0%BD%D0%B8%D0%BD%D0%B0_%D0%B8_%D0%9F%D0%BE%D0%B6%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE"
+      },
+      {
+        "title": "Yandex Maps — Площадь Минина и Пожарского",
+        "url": "https://yandex.com/maps/47/nizhny-novgorod/geo/ploshchad_minina_i_pozharskogo/1520637017/"
+      }
+    ],
+    "tags": [
+      "square",
+      "center",
+      "landmark",
+      "minin",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-fedorovsky-embankment",
+    "slug": "fedorovsky-embankment",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Bờ sông Fedorovsky (Naberezhnaya Fyodorovskogo)",
+    "name_ru": "Набережная Фёдоровского",
+    "name_en": "Fedorovsky Embankment",
+    "categories": [
+      "square_street",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 56.32641,
+      "lon": 43.987357
+    },
+    "address_vi": "Bờ dốc cao hữu ngạn sông Oka, gần phố cổ Rozhdestvenskaya, quận Nizhegorodsky, thành phố Nizhny Novgorod, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Bờ sông Fedorovsky là tuyến đi dạo trên triền dốc cao nhìn ra sông Oka và bãi Strelka – nơi Oka gặp Volga. Đây là một trong những điểm ngắm hoàng hôn và toàn cảnh thành phố đẹp nhất Nizhny Novgorod.",
+    "presentation_long_vi": "Uốn theo triền dốc cao ở hữu ngạn sông Oka, bờ sông Fedorovsky là một trong những điểm ngắm cảnh được yêu thích nhất Nizhny Novgorod. Từ các sân ngắm bậc thang ở đây, tầm mắt mở ra bao la: dòng Oka rộng lớn, bãi Strelka nơi Oka hoà vào Volga, cầu Kanavinsky cổ kính và cả những nhà thờ mái vòm phía bờ đối diện. Sau đợt cải tạo, tuyến bờ sông được trang bị lối đi lát đá, ghế ngồi hình bậc thang như khán đài, chòi nghỉ, đèn trang trí và các sân ngắm cảnh; nơi đây cũng có tượng đài đại văn hào Maxim Gorky. Buổi chiều tà, người dân và du khách kéo tới đây dạo bộ, ngắm hoàng hôn buông trên mặt sông – khung cảnh làm nên nhiều bức ảnh biểu tượng của thành phố. Bờ sông nằm ngay trên phố cổ Rozhdestvenskaya, nên rất dễ kết hợp trong hành trình đi bộ khám phá khu phố dưới.",
+    "highlights_vi": [
+      "Điểm ngắm toàn cảnh sông Oka, bãi Strelka và cầu Kanavinsky – đẹp nhất lúc hoàng hôn.",
+      "Tuyến đi dạo cải tạo hiện đại với sân ngắm bậc thang, chòi nghỉ và tượng đài Maxim Gorky.",
+      "Nằm ngay trên phố cổ Rozhdestvenskaya, dễ kết hợp tham quan khu phố dưới."
+    ],
+    "practical": {
+      "hours_vi": "Không gian mở, dạo chơi tự do cả ngày; đẹp nhất lúc chiều tà.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 30–60 phút.",
+      "best_time_vi": "Cuối chiều để ngắm hoàng hôn; mùa ấm từ cuối xuân đến đầu thu.",
+      "tips_vi": "Kết hợp đi bộ dọc phố Rozhdestvenskaya; mang máy ảnh để chụp toàn cảnh Strelka."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F%20%D0%A4%D1%91%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE&ll=43.987357,56.32641&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Fedorovsky%20Embankment%2C%20Nizhny%20Novgorod%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "KP.ru — Набережная Фёдоровского в Нижнем Новгороде",
+        "url": "https://www.kp.ru/russia/nizhnij-novgorod/mesta/naberezhnaya-fedorovskogo/"
+      },
+      {
+        "title": "Kudago — Набережная Фёдоровского",
+        "url": "https://nn.kudago.com/place/naberezhnaya-fedorovskogo/"
+      }
+    ],
+    "tags": [
+      "embankment",
+      "viewpoint",
+      "oka",
+      "strelka",
+      "walk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-alexandrovsky-garden-nn",
+    "slug": "alexandrovsky-garden-nn",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Vườn Aleksandrovsky (Aleksandrovsky sad)",
+    "name_ru": "Александровский сад",
+    "name_en": "Alexander Garden",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 56.3306,
+      "lon": 44.0152
+    },
+    "address_vi": "Trên sườn dốc bờ sông Volga, giữa hai tuyến bờ sông Thượng và Hạ Volga, quận Nizhegorodsky, thành phố Nizhny Novgorod, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Vườn Aleksandrovsky là công viên lâu đời trải dọc sườn dốc bờ Volga trong trung tâm lịch sử. Những lối đi uốn lượn giữa cây xanh mở ra tầm nhìn rộng ra dòng sông và nối liền từ Cầu thang Chkalov gần như tới ga cáp treo.",
+    "presentation_long_vi": "Trải mình trên triền dốc thoai thoải bên bờ sông Volga, giữa tuyến bờ sông Thượng Volga (Verkhne-Volzhskaya) phía trên và Hạ Volga (Nizhne-Volzhskaya) phía dưới, Vườn Aleksandrovsky là một trong những công viên lâu đời và giàu chất thơ nhất Nizhny Novgorod. Công viên được lập từ nửa đầu thế kỷ 19 trên một dải đất hình tam giác giữa các đường dốc xuống sông, với hệ thống lối đi quanh co men theo sườn đồi. Dạo bước dưới tán cây, du khách vừa được che mát vừa liên tục bắt gặp những khung nhìn mở ra mặt sông Volga rộng lớn. Công viên có chiều dài đáng kể, kéo dài từ khu vực Cầu thang Chkalov gần như tới ga cáp treo, nên có thể kết hợp thành một tuyến đi dạo dài ngắm sông. Sau các đợt cải tạo, nơi đây có thêm lối đi, ghế nghỉ và điểm ngắm cảnh, trở thành chốn thư giãn quen thuộc của người dân thành phố.",
+    "highlights_vi": [
+      "Công viên lâu đời từ thế kỷ 19 trên sườn dốc bờ Volga giữa hai tuyến bờ sông.",
+      "Lối đi uốn lượn dưới tán cây với nhiều khung nhìn mở ra sông Volga.",
+      "Kéo dài từ Cầu thang Chkalov gần như tới ga cáp treo – tuyến đi dạo dài lý tưởng."
+    ],
+    "practical": {
+      "hours_vi": "Không gian mở, dạo chơi tự do cả ngày.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 40–90 phút tuỳ tuyến đi.",
+      "best_time_vi": "Mùa ấm từ cuối xuân đến đầu thu; đẹp cả buổi sáng lẫn chiều tà.",
+      "tips_vi": "Đi giày thoải mái vì đường dốc; kết hợp với Cầu thang Chkalov và bờ Thượng Volga."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%B0%D0%B4&ll=44.0152,56.3306&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Alexander%20Garden%2C%20Nizhny%20Novgorod%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Александровский сад (Нижний Новгород)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%B0%D0%B4_(%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9_%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)"
+      },
+      {
+        "title": "Yandex Maps — Александровский сад",
+        "url": "https://yandex.com/maps/org/aleksandrovskiy_sad/97201849390/"
+      }
+    ],
+    "tags": [
+      "park",
+      "garden",
+      "volga",
+      "walk",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-shveytsariya-park",
+    "slug": "shveytsariya-park",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Công viên «Thuỵ Sĩ» (Park «Shveytsariya»)",
+    "name_ru": "Парк «Швейцария»",
+    "name_en": "Shvetsariya Park (Switzerland Park)",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 56.2806,
+      "lon": 43.9755
+    },
+    "address_vi": "Đại lộ Gagarin (проспект Гагарина) số 35, quận Prioksky, ven bờ dốc sông Oka, thành phố Nizhny Novgorod, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Công viên 'Thuỵ Sĩ' là công viên lớn nhất Nizhny Novgorod, trải dài ven bờ dốc sông Oka. Sau đợt cải tạo quy mô lớn, nơi đây trở thành không gian dạo chơi, thể thao và giải trí hiện đại được yêu thích bậc nhất thành phố.",
+    "presentation_long_vi": "Nằm dọc theo bờ dốc cao của sông Oka ở quận Prioksky, công viên 'Thuỵ Sĩ' (Shveytsariya) là công viên lớn nhất và một trong những điểm đến được yêu thích nhất Nizhny Novgorod. Tên gọi 'Thuỵ Sĩ' gợi tới địa hình đồi dốc và cảnh quan xanh mướt của công viên. Trải qua một cuộc cải tạo toàn diện hoàn tất vào đầu thập niên 2020, công viên khoác diện mạo hiện đại với nhiều lối đi bộ và làn xe đạp, các khu vui chơi trẻ em, sân thể thao, khu vực biểu diễn, quán cà phê, đài phun nước và những điểm ngắm sông Oka. Trong khuôn viên còn có một vườn thú nhỏ. Công viên có nhiều cổng vào từ phía đại lộ Gagarin, mở cửa gần như cả ngày và vào tự do. Rộng rãi, nhiều cây xanh và tiện ích, đây là nơi lý tưởng để người dân và du khách thư giãn, tập thể thao hoặc dạo mát cuối tuần.",
+    "highlights_vi": [
+      "Công viên lớn nhất Nizhny Novgorod, trải dài ven bờ dốc sông Oka.",
+      "Được cải tạo hiện đại với lối đi bộ, làn xe đạp, sân chơi, khu thể thao và điểm ngắm sông.",
+      "Nhiều cổng vào từ đại lộ Gagarin, vào tự do, có cả vườn thú nhỏ bên trong."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa hằng ngày, khoảng 5:00–23:00 (vào đến ~22:00).",
+      "ticket_vi": "Vào cửa miễn phí; một số dịch vụ, trò chơi thu phí riêng.",
+      "duration_vi": "Khoảng 1–2 giờ hoặc hơn.",
+      "best_time_vi": "Mùa ấm từ cuối xuân đến đầu thu; cuối tuần rất nhộn nhịp.",
+      "tips_vi": "Vào bằng cổng chính gần bến 'Park Shveytsariya'; công viên rất rộng nên chọn tuyến trước."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D1%80%D0%BA%20%C2%AB%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F%C2%BB&ll=43.9755,56.2806&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Shvetsariya%20Park%20%28Switzerland%20Park%29%2C%20Nizhny%20Novgorod%2C%20Russia"
+    },
+    "official_site": "https://swissparknn.ru/",
+    "sources": [
+      {
+        "title": "Culture.ru — Парк «Швейцария»",
+        "url": "https://www.culture.ru/institutes/87164/park-shveicariya"
+      },
+      {
+        "title": "Trang chính thức — Парк «Швейцария» (swissparknn.ru)",
+        "url": "https://swissparknn.ru/"
+      }
+    ],
+    "tags": [
+      "park",
+      "recreation",
+      "oka",
+      "family",
+      "modern"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-limpopo-zoo",
+    "slug": "limpopo-zoo",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Vườn thú «Limpopo» (Zoopark «Limpopo»)",
+    "name_ru": "Зоопарк «Лимпопо»",
+    "name_en": "Limpopo Zoo",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 56.334352,
+      "lon": 43.854332
+    },
+    "address_vi": "Phố Yaroshenko (улица Ярошенко) số 7Б, rìa Công viên Sormovsky, quận Sormovsky, thành phố Nizhny Novgorod, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Vườn thú 'Limpopo' là vườn thú tư nhân đầu tiên của nước Nga, nằm ở rìa Công viên Sormovsky. Nơi đây nuôi dưỡng hơn 270 loài với hàng nghìn cá thể từ khắp thế giới, là điểm đến quen thuộc cho gia đình.",
+    "presentation_long_vi": "Toạ lạc ở rìa tây nam Công viên văn hoá Sormovsky, vườn thú 'Limpopo' được thành lập năm 2003 và được biết đến như vườn thú tư nhân đầu tiên tại Nga. Trên diện tích khoảng bảy héc-ta, vườn thú quy tụ hơn 270 loài động vật với hơn một nghìn năm trăm cá thể đến từ nhiều châu lục – từ hổ, sư tử, gấu, linh trưởng cho tới các loài chim, bò sát và thú nhỏ. Các chuồng trại và khu nuôi được bố trí dọc những lối đi rợp bóng cây trong công viên, kèm bảng thông tin, khu vui chơi và dịch vụ cho trẻ em. Vườn thú tham gia các chương trình nhân giống, chăm sóc và giáo dục bảo tồn, là điểm đến giải trí – học hỏi được nhiều gia đình ở Nizhny Novgorod yêu thích, đặc biệt vào cuối tuần và dịp nghỉ.",
+    "highlights_vi": [
+      "Vườn thú tư nhân đầu tiên của nước Nga, thành lập năm 2003.",
+      "Hơn 270 loài với hàng nghìn cá thể từ khắp thế giới trên diện tích khoảng 7 ha.",
+      "Nằm ở rìa Công viên Sormovsky, điểm đến quen thuộc cho gia đình và trẻ em."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa hằng ngày, khoảng 9:00–20:00 (bán vé đến ~19:00).",
+      "ticket_vi": "Vé vào cửa theo giá niêm yết; có ưu đãi cho trẻ em và một số nhóm.",
+      "duration_vi": "Khoảng 1,5–3 giờ.",
+      "best_time_vi": "Mùa ấm từ cuối xuân đến đầu thu; đi sớm để tránh đông cuối tuần.",
+      "tips_vi": "Đi tàu điện ngầm/ xe buýt về hướng Sormovo; kết hợp dạo Công viên Sormovsky bên cạnh."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%97%D0%BE%D0%BE%D0%BF%D0%B0%D1%80%D0%BA%20%C2%AB%D0%9B%D0%B8%D0%BC%D0%BF%D0%BE%D0%BF%D0%BE%C2%BB&ll=43.854332,56.334352&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Limpopo%20Zoo%2C%20Nizhny%20Novgorod%2C%20Russia"
+    },
+    "official_site": "https://nnzoo.ru/",
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Лимпопо (зоопарк)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D0%BC%D0%BF%D0%BE%D0%BF%D0%BE_(%D0%B7%D0%BE%D0%BE%D0%BF%D0%B0%D1%80%D0%BA)"
+      },
+      {
+        "title": "Trang chính thức — Зоопарк «Лимпопо» (nnzoo.ru)",
+        "url": "https://nnzoo.ru/"
+      }
+    ],
+    "tags": [
+      "zoo",
+      "family",
+      "animals",
+      "sormovo",
+      "recreation"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-kanavinsky-bridge",
+    "slug": "kanavinsky-bridge",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Cầu Kanavinsky (Kanavinsky most)",
+    "name_ru": "Канавинский мост",
+    "name_en": "Kanavinsky Bridge",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 56.3219,
+      "lon": 43.9724
+    },
+    "address_vi": "Bắc qua sông Oka, nối phần cao (nagornaya) với phần bờ trái (zarechnaya) của thành phố Nizhny Novgorod, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Cầu Kanavinsky là cây cầu cố định đầu tiên bắc qua sông Oka ở Nizhny Novgorod, khánh thành năm 1933. Cầu dài gần 800 m, nối trung tâm lịch sử với khu Kanavino, gần nơi Oka đổ vào Volga.",
+    "presentation_long_vi": "Bắc ngang dòng Oka ngay gần chỗ con sông hoà vào Volga, cầu Kanavinsky là cây cầu cố định đầu tiên qua sông Oka trong lòng Nizhny Novgorod. Cầu được xây trong các năm 1930–1933 và thông xe ngày 2 tháng 4 năm 1933, dài khoảng 795,5 m và rộng hơn 23 m, nối phần cao (nagornaya) ở hữu ngạn với phần bờ trái (zarechnaya) bên khu Kanavino, nơi có Cung Hội chợ và ga đường sắt Moskovsky. Từng mang nhiều tên gọi qua các thời kỳ, cây cầu là một phần không thể thiếu của giao thông và diện mạo đô thị, đặc biệt khi lên đèn vào buổi tối. Với người đi bộ, cầu còn là nơi lý tưởng để ngắm toàn cảnh hai bờ sông, bãi Strelka và các bờ sông của thành phố. Đây là một trong những công trình hạ tầng mang tính biểu tượng, gắn với quá trình hiện đại hoá Nizhny Novgorod thế kỷ 20.",
+    "highlights_vi": [
+      "Cây cầu cố định đầu tiên bắc qua sông Oka ở Nizhny Novgorod, thông xe năm 1933.",
+      "Dài gần 800 m, nối phần cao trung tâm với khu Kanavino gần bãi Strelka.",
+      "Điểm ngắm cảnh hai bờ sông đẹp, đặc biệt khi lên đèn buổi tối."
+    ],
+    "practical": {
+      "hours_vi": "Công trình giao thông công cộng, qua lại tự do; đi bộ đẹp nhất ban ngày và tối.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 15–30 phút nếu đi bộ ngắm cảnh.",
+      "best_time_vi": "Chiều tối khi lên đèn; mùa ấm dễ đi bộ.",
+      "tips_vi": "Kết hợp ngắm từ bờ sông Fedorovsky hoặc bãi Strelka để có góc nhìn đẹp."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D0%B0%D0%BD%D0%B0%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D1%81%D1%82&ll=43.9724,56.3219&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kanavinsky%20Bridge%2C%20Nizhny%20Novgorod%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Канавинский мост",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD%D0%B0%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D1%81%D1%82"
+      },
+      {
+        "title": "Kudago — Канавинский мост",
+        "url": "https://nn.kudago.com/place/kanavinskij-most/"
+      }
+    ],
+    "tags": [
+      "bridge",
+      "oka",
+      "landmark",
+      "history",
+      "engineering"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-ostrovoezersky-monastery-vorsma",
+    "slug": "ostrovoezersky-monastery-vorsma",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Tu viện Trinity Ostrovoezersky trên đảo hồ (Svyato-Troitsky Ostrovoezersky monastyr)",
+    "name_ru": "Свято-Троицкий Островоезерский монастырь",
+    "name_en": "Holy Trinity Ostrovoezersky Monastery",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 55.990277,
+      "lon": 43.293688
+    },
+    "address_vi": "Trên một hòn đảo giữa hồ Tosканka (hồ Vorsma), thị trấn Vorsma, huyện Pavlovsky, tỉnh Nizhny Novgorod, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Tu viện Trinity Ostrovoezersky là tu viện duy nhất của tỉnh nằm trên một hòn đảo giữa hồ. Được lập từ cuối thế kỷ 16 và mang các nhà thờ đá cuối thế kỷ 17, tu viện nối với bờ bằng một cây cầu nhỏ, tạo nên khung cảnh nên thơ hiếm có.",
+    "presentation_long_vi": "Nổi lên giữa mặt nước hồ Tosканka (còn gọi là hồ Vorsma) ở rìa thị trấn Vorsma, Tu viện Trinity Ostrovoezersky là một trong những điểm đến nên thơ nhất tỉnh Nizhny Novgorod – tu viện duy nhất trong vùng thực sự 'đứng trên nước', trên một hòn đảo giữa hồ. Theo sử liệu, đời sống tu hành ở đây bắt đầu từ nửa sau thế kỷ 16 với vị ẩn tu Makary, dưới sự bảo trợ của dòng họ quý tộc Cherkassky. Sang cuối thế kỷ 17, dưới thời công tước Mikhail Yakovlevich Cherkassky, tu viện bước vào giai đoạn xây dựng bằng đá, tạo nên quần thể hài hoà gồm nhà thờ chính toà Trinity, nhà thờ Kazan, dãy phòng tu kèm nhà thờ cổng Mikhail Malein và tường thành có tháp. Phần lớn công trình gốc bị phá dỡ vào thập niên 1930–1950; từ năm 2007 tu viện được hồi sinh (nay là tu viện nữ) với nhà thờ Trinity và Kazan được dựng lại phỏng theo nguyên mẫu, còn nhà thờ cổng Mikhail Malein thế kỷ 17 vẫn giữ được nét nguyên bản. Đường vào đảo qua một cây cầu nhỏ; nhìn từ trên gò đất khi tiến vào Vorsma, cả tu viện hiện ra soi bóng xuống hồ, đẹp như tranh.",
+    "highlights_vi": [
+      "Tu viện duy nhất trong tỉnh nằm trên một hòn đảo giữa hồ Tosканka, nối bờ bằng cầu nhỏ.",
+      "Được lập cuối thế kỷ 16, có các nhà thờ đá cuối thế kỷ 17 gắn với dòng họ Cherkassky.",
+      "Khung cảnh soi bóng xuống mặt hồ đẹp như tranh, đặc biệt khi nhìn từ đường vào Vorsma."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa cho khách hành hương ban ngày; nên đi vào buổi sáng hoặc chiều.",
+      "ticket_vi": "Vào tự do (miễn phí); hoan nghênh quyên góp tuỳ tâm.",
+      "duration_vi": "Khoảng 45–60 phút; thêm thời gian di chuyển từ Nizhny Novgorod (~70 km).",
+      "best_time_vi": "Mùa ấm khi hồ trong xanh; mùa thu lá vàng cũng rất đẹp.",
+      "tips_vi": "Đi bằng ô tô là tiện nhất; ăn mặc kín đáo; dừng ở điểm cao đầu thị trấn để chụp toàn cảnh."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9%20%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%BE%D0%B5%D0%B7%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C&ll=43.293688,55.990277&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Holy%20Trinity%20Ostrovoezersky%20Monastery%2C%20Nizhny%20Novgorod%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Свято-Троицкий Островоезерский монастырь",
+        "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%BE%D0%B5%D0%B7%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+      },
+      {
+        "title": "sobory.ru — Ворсма, Островоезерский Троицкий монастырь (Координаты 55.990277, 43.293688)",
+        "url": "https://sobory.ru/article/?object=05553"
+      }
+    ],
+    "tags": [
+      "monastery",
+      "church",
+      "island",
+      "vorsma",
+      "lake"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-pavlovo-town",
+    "slug": "pavlovo-town",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Thị trấn thủ công Pavlovo bên sông Oka",
+    "name_ru": "Павлово",
+    "name_en": "Pavlovo (Pavlovo-on-Oka)",
+    "categories": [
+      "monument",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 55.9667,
+      "lon": 43.0667
+    },
+    "address_vi": "Thị trấn Pavlovo, hữu ngạn sông Oka, cách Nizhny Novgorod khoảng 70 km về phía tây nam, tỉnh Nizhny Novgorod, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Pavlovo là thị trấn cổ bên sông Oka nổi danh về nghề kim khí: dao, khoá, dụng cụ và những chiếc khoá tí hon tinh xảo. Phố cổ trên sườn đồi, bảo tàng nghề thủ công và truyền thống nuôi chim, trồng chanh cảnh tạo nên bản sắc riêng.",
+    "presentation_long_vi": "Nằm trên các sườn đồi Peremilovsky bên hữu ngạn sông Oka, cách Nizhny Novgorod chừng 70 km, Pavlovo (Pavlovo-na-Oke) là một trong những thị trấn thủ công nổi tiếng nhất nước Nga. Từ nhiều thế kỷ, nơi đây là trung tâm nghề kim khí: thợ Pavlovo làm ra dao, kéo, khoá, dụng cụ y tế và cả những chiếc khoá, con dao siêu nhỏ tinh xảo được xem như tuyệt kỹ. Truyền thống ấy được kể lại sinh động trong Bảo tàng lịch sử Pavlovo. Bên cạnh đó, thị trấn còn nổi tiếng với những thú chơi độc đáo: nuôi ngỗng chọi, gà chọi, nuôi chim hoàng yến (canary) và trồng chanh cảnh 'Pavlovsky' trên bậu cửa sổ – những nét văn hoá dân dã đã thành thương hiệu. Dạo bước trên các con phố cổ men theo sườn đồi nhìn xuống sông Oka, du khách bắt gặp những ngôi nhà gỗ chạm khắc, nhà thờ và khung cảnh tỉnh lẻ Nga đặc trưng. Pavlovo là điểm đến thú vị cho ai muốn tìm hiểu di sản thủ công và đời sống địa phương ngoài thành phố lớn.",
+    "highlights_vi": [
+      "Thị trấn cổ nổi danh về nghề kim khí: dao, khoá, dụng cụ và khoá tí hon tinh xảo.",
+      "Nổi tiếng với thú nuôi ngỗng chọi, chim hoàng yến và trồng chanh cảnh 'Pavlovsky'.",
+      "Phố cổ trên sườn đồi nhìn xuống sông Oka cùng Bảo tàng lịch sử Pavlovo."
+    ],
+    "practical": {
+      "hours_vi": "Thị trấn tham quan tự do; bảo tàng thường mở khoảng 10:00–17:00 và nghỉ một ngày trong tuần.",
+      "ticket_vi": "Dạo phố miễn phí; vé bảo tàng mức thấp.",
+      "duration_vi": "Nửa ngày; cộng thời gian di chuyển từ Nizhny Novgorod.",
+      "best_time_vi": "Mùa ấm từ cuối xuân đến đầu thu.",
+      "tips_vi": "Đi bằng ô tô hoặc xe khách; kết hợp ghé tu viện trên đảo ở Vorsma gần đó."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D0%BE&ll=43.0667,55.9667&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Pavlovo%20%28Pavlovo-on-Oka%29%2C%20Nizhny%20Novgorod%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Павлово (Нижегородская область)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D0%BE_(%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)"
+      },
+      {
+        "title": "nn-obl.ru — История города Павлово",
+        "url": "https://www.nn-obl.ru/%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0-%D0%BF%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D0%BE/"
+      }
+    ],
+    "tags": [
+      "town",
+      "crafts",
+      "metalwork",
+      "oka",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-balakhna-town",
+    "slug": "balakhna-town",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Thị trấn cổ Balakhna",
+    "name_ru": "Балахна",
+    "name_en": "Balakhna",
+    "categories": [
+      "monument",
+      "church"
+    ],
+    "coordinates": {
+      "lat": 56.4906,
+      "lon": 43.5919
+    },
+    "address_vi": "Thị trấn Balakhna, hữu ngạn sông Volga, cách Nizhny Novgorod khoảng 34 km về phía tây bắc, tỉnh Nizhny Novgorod, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Balakhna là thị trấn cổ bên sông Volga, quê hương của người anh hùng Kuzma Minin. Nổi tiếng với nghề làm muối, đóng thuyền và ren tay truyền thống, thị trấn còn giữ nhà thờ Nikolskaya năm 1552 – nhà thờ đá cổ nhất giáo phận.",
+    "presentation_long_vi": "Trải dọc hữu ngạn sông Volga, cách Nizhny Novgorod khoảng 34 km về phía tây bắc, Balakhna là một trong những thị trấn cổ nhất vùng, được nhắc tới từ năm 1474. Đây là quê hương của Kuzma Minin – người anh hùng khởi xướng đội dân binh giải phóng Moskva năm 1612 – nên thị trấn mang ý nghĩa lịch sử đặc biệt với người Nga. Thời trung đại, Balakhna trù phú nhờ nghề nấu muối, đóng thuyền và về sau nổi danh với nghề ren tay (kruzhevo) tinh xảo của phụ nữ địa phương. Di sản kiến trúc nổi bật nhất là nhà thờ Nikolskaya (Thánh Nikolay) xây năm 1552 theo lệnh Ivan Bạo chúa để mừng chiến thắng Kazan – được xem là nhà thờ đá cổ nhất còn lại của giáo phận Nizhny Novgorod, với hình khối bát giác trên đế vuông gợi nhớ các nhà thờ gỗ mái nhọn. Bên cạnh đó còn có tu viện Pokrovsky và các nhà thờ, bảo tàng địa phương kể về nghề muối và ren. Balakhna phù hợp cho một chuyến đi trong ngày để cảm nhận chiều sâu lịch sử của vùng Volga.",
+    "highlights_vi": [
+      "Thị trấn cổ bên sông Volga (nhắc tới từ 1474), quê hương anh hùng Kuzma Minin.",
+      "Nhà thờ Nikolskaya năm 1552 – nhà thờ đá cổ nhất giáo phận Nizhny Novgorod.",
+      "Truyền thống nghề muối, đóng thuyền và ren tay tinh xảo."
+    ],
+    "practical": {
+      "hours_vi": "Thị trấn tham quan tự do; các nhà thờ và bảo tàng mở ban ngày, nên kiểm tra lịch.",
+      "ticket_vi": "Dạo phố và vào nhà thờ miễn phí; vé bảo tàng mức thấp.",
+      "duration_vi": "Nửa ngày; cộng thời gian di chuyển từ Nizhny Novgorod.",
+      "best_time_vi": "Mùa ấm từ cuối xuân đến đầu thu.",
+      "tips_vi": "Đi bằng ô tô hoặc tàu/ xe khách; ưu tiên ghé nhà thờ Nikolskaya cổ kính."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%91%D0%B0%D0%BB%D0%B0%D1%85%D0%BD%D0%B0&ll=43.5919,56.4906&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Balakhna%2C%20Nizhny%20Novgorod%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Балахна",
+        "url": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%BB%D0%B0%D1%85%D0%BD%D0%B0"
+      },
+      {
+        "title": "sobory.ru — Балахна, церковь Николая Чудотворца (1552)",
+        "url": "https://sobory.ru/article/?object=01869"
+      }
+    ],
+    "tags": [
+      "town",
+      "volga",
+      "minin",
+      "church",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-ichalkovsky-bor",
+    "slug": "ichalkovsky-bor",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Rừng Ichalkovsky và hang động karst (Ichalkovsky bor)",
+    "name_ru": "Ичалковский бор",
+    "name_en": "Ichalkovsky Bor (Forest and Karst Caves)",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 55.437297,
+      "lon": 44.537652
+    },
+    "address_vi": "Gần làng Ichalki, huyện Perevozsky, bên khúc uốn sông Pyana, tỉnh Nizhny Novgorod, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Ichalkovsky bor là khu bảo tồn thiên nhiên độc đáo bên khúc uốn sông Pyana, nổi tiếng với hàng nghìn hố sụt và hang động karst. Những vực đá, grotto và hồ ngầm giữa rừng thông tạo nên cảnh quan kỳ vĩ hiếm có ở đồng bằng Nga.",
+    "presentation_long_vi": "Nằm trong khúc uốn quanh co của sông Pyana, cách làng Ichalki chừng vài cây số, Ichalkovsky bor là một trong những kỳ quan thiên nhiên đặc sắc nhất tỉnh Nizhny Novgorod. Trên diện tích khoảng 900 héc-ta rừng thông hỗn giao – kiểu rừng hiếm gặp ở vùng Volga – ẩn chứa hơn một nghìn hố sụt và hang động karst hình thành do nước mưa và nước sông bào mòn tầng đá vôi qua hàng nghìn năm. Du khách có thể men theo các lối mòn để khám phá những vực đá sâu hoắm, các grotto nổi tiếng như 'Kholodnaya' (Lạnh) và 'Teplaya' (Ấm) với hồ nước ngầm trong vắt dưới đáy, cùng những 'cây cầu đá' tự nhiên bắc ngang miệng vực. Cảnh quan hùng vĩ với vách đá dựng đứng, rừng thông cổ thụ và mặt nước ẩn hiện tạo cảm giác như lạc vào vùng núi, dù đang ở giữa đồng bằng. Khu vực được bảo vệ như một khu bảo tồn (zakaznik) từ đầu thập niên 1970. Đây là điểm đến lý tưởng cho người ưa đi bộ đường dài và chụp ảnh thiên nhiên.",
+    "highlights_vi": [
+      "Hơn một nghìn hố sụt và hang động karst giữa rừng thông cổ bên sông Pyana.",
+      "Các grotto nổi tiếng 'Kholodnaya' và 'Teplaya' có hồ nước ngầm trong vắt.",
+      "Cảnh quan vách đá, cầu đá tự nhiên kỳ vĩ hiếm có ở đồng bằng Nga."
+    ],
+    "practical": {
+      "hours_vi": "Không gian thiên nhiên mở; tham quan ban ngày, tự chịu trách nhiệm an toàn.",
+      "ticket_vi": "Vào tự do (miễn phí).",
+      "duration_vi": "Khoảng 2–4 giờ đi bộ khám phá.",
+      "best_time_vi": "Cuối xuân đến đầu thu; đường khô ráo, an toàn hơn.",
+      "tips_vi": "Đi giày bám tốt, cẩn thận mép vực trơn; nên đi cùng nhóm và mang đủ nước."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%98%D1%87%D0%B0%D0%BB%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B1%D0%BE%D1%80&ll=44.537652,55.437297&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Ichalkovsky%20Bor%20%28Forest%20and%20Karst%20Caves%29%2C%20Nizhny%20Novgorod%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Tonkosti.ru — Ичалковский бор",
+        "url": "https://tonkosti.ru/%D0%98%D1%87%D0%B0%D0%BB%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B1%D0%BE%D1%80"
+      },
+      {
+        "title": "Putidorogi-nn.ru — Ичалковский бор (Нижегородская область)",
+        "url": "https://putidorogi-nn.ru/evropa/350-ichalkovskii-bor"
+      }
+    ],
+    "tags": [
+      "nature",
+      "karst",
+      "caves",
+      "forest",
+      "hiking"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-kerzhensky-reserve",
+    "slug": "kerzhensky-reserve",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Khu bảo tồn thiên nhiên Kerzhensky (Kerzhensky zapovednik)",
+    "name_ru": "Керженский заповедник",
+    "name_en": "Kerzhensky Nature Reserve",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 56.4719,
+      "lon": 44.4917
+    },
+    "address_vi": "Trung tâm sinh thái tại làng Rustay, phố Oktyabrskaya số 17, tả ngạn sông Kerzhenets, tỉnh Nizhny Novgorod, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Kerzhensky là khu bảo tồn thiên nhiên sinh quyển (UNESCO) ở tả ngạn sông Kerzhenets, bảo vệ hệ rừng taiga phương nam, đầm lầy và các loài quý hiếm. Trung tâm sinh thái ở làng Rustay giới thiệu cảnh quan và động thực vật của khu bảo tồn cho du khách.",
+    "presentation_long_vi": "Trải rộng ở vùng Zavolzhye tả ngạn sông Kerzhenets, cách Nizhny Novgorod khoảng 55 km về phía đông bắc, Khu bảo tồn thiên nhiên Kerzhensky được thành lập năm 1993 và về sau được UNESCO công nhận là khu dự trữ sinh quyển. Khu bảo tồn gìn giữ một mẫu điển hình của hệ sinh thái taiga phương nam: rừng thông chiếm phần lớn diện tích, xen kẽ rừng cây lá nhỏ và những vùng đầm lầy rộng lớn. Đây là nơi trú ngụ của nhiều loài động vật – trong đó có chương trình phục hồi đàn hải ly và bảo tồn các loài chim quý – cùng thảm thực vật đặc trưng vùng Kerzhenets, vốn gắn với lịch sử của cộng đồng Tín đồ Cũ (Old Believers). Vì là khu bảo tồn nghiêm ngặt, phần lõi không mở cho tham quan tự do; thay vào đó, du khách đến trung tâm sinh thái ở làng Rustay – một toà nhà sáng sủa mái dốc – để tìm hiểu về cảnh quan, hệ động thực vật qua trưng bày và các tuyến đường mòn sinh thái được phép. Đây là điểm đến cho những ai yêu thiên nhiên hoang sơ và muốn tìm hiểu công tác bảo tồn.",
+    "highlights_vi": [
+      "Khu dự trữ sinh quyển UNESCO bảo vệ rừng taiga phương nam và đầm lầy bên sông Kerzhenets.",
+      "Có chương trình phục hồi hải ly và bảo tồn nhiều loài chim, thú quý.",
+      "Trung tâm sinh thái ở làng Rustay với trưng bày và tuyến đường mòn cho du khách."
+    ],
+    "practical": {
+      "hours_vi": "Trung tâm sinh thái mở theo lịch; các tuyến tham quan cần đăng ký trước với ban quản lý.",
+      "ticket_vi": "Tham quan các tuyến sinh thái có thu phí/ theo tour; nên liên hệ trước.",
+      "duration_vi": "Nửa ngày đến một ngày; cộng thời gian di chuyển.",
+      "best_time_vi": "Cuối xuân đến đầu thu; mang đồ chống muỗi vào mùa hè.",
+      "tips_vi": "Liên hệ đặt tour trước; phần lõi bảo tồn không vào tự do, hãy đi theo hướng dẫn."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D0%B5%D1%80%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA&ll=44.4917,56.4719&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kerzhensky%20Nature%20Reserve%2C%20Nizhny%20Novgorod%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Керженский заповедник",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D1%80%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA"
+      },
+      {
+        "title": "ООПТ России — Керженский заповедник",
+        "url": "http://oopt.info/index.php?oopt=786"
+      }
+    ],
+    "tags": [
+      "nature",
+      "reserve",
+      "biosphere",
+      "taiga",
+      "kerzhenets"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-klyuchik-blue-lake",
+    "slug": "klyuchik-blue-lake",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Hồ Klyuchik (Hồ Xanh - Goluboe ozero)",
+    "name_ru": "Озеро Ключик (Голубое озеро)",
+    "name_en": "Lake Klyuchik (Blue Lake)",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 55.975531,
+      "lon": 43.327413
+    },
+    "address_vi": "Gần làng Grudtsino, huyện Pavlovsky, giữa Vorsma và Dzerzhinsk, tỉnh Nizhny Novgorod, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Hồ Klyuchik là một hồ karst nhỏ nổi tiếng với làn nước xanh ngọc trong vắt, quanh năm không đóng băng nhờ các mạch nước ngầm. Được công nhận là di tích thiên nhiên, đây là điểm dã ngoại và chụp ảnh được yêu thích.",
+    "presentation_long_vi": "Ẩn mình gần làng Grudtsino, huyện Pavlovsky, hồ Klyuchik (thường được gọi chung là 'Hồ Xanh') là một trong những di tích thiên nhiên độc đáo nhất tỉnh Nizhny Novgorod. Đây là hồ có nguồn gốc karst, được nuôi bởi các mạch nước ngầm phun lên từ đáy, khiến nước trong đến mức có thể nhìn thấu xuống độ sâu đáng kể và mang sắc xanh ngọc bích rất đặc trưng. Nhờ dòng nước ngầm liên tục, hồ gần như không đóng băng ngay cả trong những ngày đông giá rét, tạo nên khung cảnh hơi nước bốc lên kỳ ảo giữa mùa tuyết. Xung quanh là rừng cây và bãi cỏ, thích hợp cho dã ngoại, chụp ảnh và tận hưởng thiên nhiên yên bình. Do là di tích thiên nhiên được bảo vệ và có mạch nước ngầm, du khách nên giữ gìn cảnh quan, không xả rác và cẩn trọng khi xuống nước vì nhiệt độ lạnh và địa hình đáy phức tạp. Hồ thường được kết hợp trong hành trình tới Vorsma và Pavlovo.",
+    "highlights_vi": [
+      "Hồ karst với làn nước xanh ngọc trong vắt, nhìn thấu đáy.",
+      "Gần như không đóng băng quanh năm nhờ các mạch nước ngầm.",
+      "Di tích thiên nhiên được bảo vệ, điểm dã ngoại và chụp ảnh nổi tiếng."
+    ],
+    "practical": {
+      "hours_vi": "Không gian thiên nhiên mở; tham quan ban ngày, tự chịu trách nhiệm an toàn.",
+      "ticket_vi": "Vào tự do (miễn phí).",
+      "duration_vi": "Khoảng 1–2 giờ.",
+      "best_time_vi": "Mùa hè để ngắm màu nước xanh; mùa đông có cảnh hơi nước kỳ ảo.",
+      "tips_vi": "Không xả rác, giữ gìn di tích; nước rất lạnh và sâu, cẩn trọng khi tới gần mép."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9E%D0%B7%D0%B5%D1%80%D0%BE%20%D0%9A%D0%BB%D1%8E%D1%87%D0%B8%D0%BA%20%28%D0%93%D0%BE%D0%BB%D1%83%D0%B1%D0%BE%D0%B5%20%D0%BE%D0%B7%D0%B5%D1%80%D0%BE%29&ll=43.327413,55.975531&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Lake%20Klyuchik%20%28Blue%20Lake%29%2C%20Nizhny%20Novgorod%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Iskatel.com — Озеро Ключик: где находится, описание",
+        "url": "https://iskatel.com/places/ozero-klyuchik"
+      },
+      {
+        "title": "budetinteresno.info — Голубые озёра",
+        "url": "https://budetinteresno.info/lakes/golubye_ozera.htm"
+      }
+    ],
+    "tags": [
+      "nature",
+      "lake",
+      "karst",
+      "spring",
+      "grudtsino"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-ioann-predtecha-church",
+    "slug": "ioann-predtecha-church",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Nhà thờ Giáng Sinh Thánh Gioan Tiền Hô «trên chợ» (Rozhdestva Ioanna Predtechi na Torgu)",
+    "name_ru": "Церковь Рождества Иоанна Предтечи на Торгу",
+    "name_en": "Church of the Nativity of John the Baptist on the Torg",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 56.329792,
+      "lon": 43.998142
+    },
+    "address_vi": "Phố Rozhdestvenskaya, số 1Б, ngay dưới chân tháp Ivanovskaya của Kremlin, thành phố Nizhny Novgorod, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Ngôi nhà thờ trắng đứng ngay dưới chân Kremlin bên bến sông cũ là một trong những thánh đường cổ nhất Nizhny Novgorod: nhà thờ đá được thánh hiến năm 1683. Theo truyền thống, chính từ bậc thềm nhà thờ (khi còn bằng gỗ) mà Kuzma Minin đã kêu gọi dân thành đứng lên lập đội dân binh giải phóng Moskva năm 1611.",
+    "presentation_long_vi": "Nhà thờ Giáng Sinh Thánh Gioan Tiền Hô «trên chợ» nằm ở khu Hạ (Nizhny Posad), ngay dưới chân tháp Ivanovskaya của Kremlin, nơi xưa kia là khu chợ và bến sông sầm uất của Nizhny Novgorod. Một nhà thờ gỗ mang tên thánh Gioan Tiền Hô «ở chợ» cạnh cầu Ivanovsky đã được nhắc tới trong sổ điền bạ 1621–1622; đến năm 1683 ngôi nhà thờ đá hiện nay được thánh hiến. Công trình tiêu biểu cho lối kiến trúc khu phố buôn Nizhny với khối tứ diện bề thế, năm mái vòm và tháp chuông. Địa điểm gắn với một trong những trang sử hào hùng nhất của nước Nga: theo truyền thống, từ bậc thềm nhà thờ này, người bán thịt Kuzma Minin đã cất lời hiệu triệu dân Nizhny Novgorod góp của, góp người lập đội dân binh (cùng công tước Dmitry Pozharsky) tiến về giải phóng Moskva khỏi quân can thiệp Ba Lan năm 1611–1612. Ngày nay nhà thờ đã được trùng tu, sơn trắng nổi bật, là điểm dừng chân quen thuộc khi đi bộ từ phố Rozhdestvenskaya lên Kremlin, ngay cạnh tượng đài Minin và Pozharsky.",
+    "highlights_vi": [
+      "Một trong những nhà thờ cổ nhất thành phố (nhà thờ đá thánh hiến 1683), ngay chân Kremlin.",
+      "Gắn truyền thống nơi Kuzma Minin kêu gọi lập đội dân binh cứu nước năm 1611.",
+      "Kiến trúc khu phố buôn Nizhny với năm mái vòm; nằm cạnh tượng đài Minin–Pozharsky."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa theo giờ lễ, thường ban ngày; nên vào giờ hành lễ hoặc buổi sáng.",
+      "ticket_vi": "Vào tự do (nơi thờ tự đang hoạt động).",
+      "duration_vi": "Khoảng 20–30 phút.",
+      "best_time_vi": "Quanh năm; đẹp nhất khi kết hợp đi bộ phố Rozhdestvenskaya lên Kremlin.",
+      "tips_vi": "Ăn mặc lịch sự khi vào; kết hợp thăm tượng đài Minin–Pozharsky và phố cổ ngay bên cạnh."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C%20%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%98%D0%BE%D0%B0%D0%BD%D0%BD%D0%B0%20%D0%9F%D1%80%D0%B5%D0%B4%D1%82%D0%B5%D1%87%D0%B8%20%D0%BD%D0%B0%20%D0%A2%D0%BE%D1%80%D0%B3%D1%83&ll=43.998142,56.329792&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Church%20of%20the%20Nativity%20of%20John%20the%20Baptist%20on%20the%20Torg%2C%20Nizhny%20Novgorod%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Церковь Рождества Иоанна Предтечи на Торгу",
+        "url": "https://ru.wikipedia.org/wiki/Церковь_Рождества_Иоанна_Предтечи_на_Торгу"
+      },
+      {
+        "title": "sobory.ru — Церковь Рождества Иоанна Предтечи на Торгу (object 01403)",
+        "url": "https://sobory.ru/article/?object=01403"
+      }
+    ],
+    "tags": [
+      "church",
+      "minin",
+      "1611",
+      "old-town",
+      "rozhdestvenskaya"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-zhyon-mironosits-church",
+    "slug": "zhyon-mironosits-church",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Nhà thờ các Bà Mang Mộc Dược (Zhyon-Mironosits)",
+    "name_ru": "Церковь Жён-Мироносиц на Верхнем посаде",
+    "name_en": "Church of the Holy Myrrh-Bearers",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 56.32412,
+      "lon": 43.99484
+    },
+    "address_vi": "Phố Dobrolyubova, số 13, khu Verkhny Posad, thành phố Nizhny Novgorod, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Nhà thờ các Bà Mang Mộc Dược (1649) là nhà thờ đá giáo xứ đầu tiên của khu Thượng (Verkhny Posad) và được coi là ngôi thánh đường kiểu «con thuyền» (korabl) đầu tiên trong lịch sử kiến trúc Nga – bố cục thẳng trục gồm cung thánh, gian cầu nguyện, phòng ăn và tháp chuông trên lối vào phía tây.",
+    "presentation_long_vi": "Toạ lạc trên phố Dobrolyubova ở khu Thượng của Nizhny Novgorod, nhà thờ các Bà Mang Mộc Dược được xây năm 1649 và giữ một vị trí đặc biệt trong lịch sử kiến trúc Nga: đây là ngôi nhà thờ đầu tiên áp dụng bố cục kiểu «con thuyền» (храм типа «корабль») – tức cung thánh, gian cầu nguyện, phòng ăn (trapeznaya) và tháp chuông được sắp thẳng theo một trục từ đông sang tây, một sơ đồ về sau trở nên phổ biến khắp nước Nga. Nhà thờ cũng gắn với ký ức về hai vị thánh Nga được tôn kính có gốc gác từ giáo xứ này. Trải qua nhiều thăng trầm thời Xô Viết, công trình đã được phục hồi và hiện là nơi thờ tự đang hoạt động, một điểm đến bình yên cho những ai quan tâm tới kiến trúc nhà thờ cổ và lịch sử tôn giáo của thành phố.",
+    "highlights_vi": [
+      "Nhà thờ đá giáo xứ đầu tiên của khu Thượng, xây năm 1649.",
+      "Được coi là thánh đường kiểu «con thuyền» (korabl) đầu tiên trong kiến trúc Nga.",
+      "Gắn với ký ức hai vị thánh Nga xuất thân từ giáo xứ này."
+    ],
+    "practical": {
+      "hours_vi": "Mở theo giờ lễ, thường ban ngày; kiểm tra lịch hành lễ.",
+      "ticket_vi": "Vào tự do (nơi thờ tự đang hoạt động).",
+      "duration_vi": "Khoảng 20–30 phút.",
+      "best_time_vi": "Quanh năm.",
+      "tips_vi": "Kết hợp dạo khu phố cổ Verkhny Posad và các nhà thờ lân cận (Ilyinskaya, Uspenskaya)."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C%20%D0%96%D1%91%D0%BD-%D0%9C%D0%B8%D1%80%D0%BE%D0%BD%D0%BE%D1%81%D0%B8%D1%86%20%D0%BD%D0%B0%20%D0%92%D0%B5%D1%80%D1%85%D0%BD%D0%B5%D0%BC%20%D0%BF%D0%BE%D1%81%D0%B0%D0%B4%D0%B5&ll=43.99484,56.32412&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Church%20of%20the%20Holy%20Myrrh-Bearers%2C%20Nizhny%20Novgorod%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Церковь Жён-Мироносиц на Верхнем посаде",
+        "url": "https://ru.wikipedia.org/wiki/Церковь_Жён-Мироносиц_на_Верхнем_посаде"
+      },
+      {
+        "title": "sobory.ru — Церковь Жён-мироносиц на Верхнем посаде (object 00918)",
+        "url": "https://sobory.ru/article/?object=00918"
+      }
+    ],
+    "tags": [
+      "church",
+      "1649",
+      "korabl",
+      "architecture",
+      "old-town"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-uspenskaya-church-ilyinskaya",
+    "slug": "uspenskaya-church-ilyinskaya",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Nhà thờ Đức Mẹ An Nghỉ trên đồi Ilyinskaya (Uspenskaya)",
+    "name_ru": "Успенская церковь на Ильинской горе",
+    "name_en": "Church of the Dormition on Ilyinskaya Hill",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 56.32634,
+      "lon": 43.99016
+    },
+    "address_vi": "Ngõ Krutoy, số 3, khu Zapochainye/đồi Ilyinskaya, thành phố Nizhny Novgorod, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Nhà thờ Đức Mẹ An Nghỉ (1672) do thương nhân Afanasy Olisov xây, là công trình đá độc nhất vô nhị của nước Nga có phần mái hình «thùng chữ thập bốn mặt» (крещатая бочка в четыре лица) – kiểu mái vốn chỉ thấy trong kiến trúc gỗ. Nhà thờ còn nổi tiếng với các mảng gạch men Balakhna thế kỷ 17.",
+    "presentation_long_vi": "Nằm trên đồi Ilyinskaya ở khu Zapochainye cổ kính, nhà thờ Đức Mẹ An Nghỉ được thương nhân giàu có Afanasy Firsovich Olisov cho xây năm 1672 theo lời khấn nguyện. Điểm khiến công trình trở nên độc nhất trong lịch sử kiến trúc đá Nga là phần mái hình «thùng chữ thập bốn mặt» (крещатая бочка в четыре лица) – một hình thức mái phổ biến trong kiến trúc gỗ dân gian nhưng hầu như chỉ được dựng bằng đá duy nhất ở Nizhny Novgorod. Các tang trống của những mái vòm nhỏ được trang trí bằng gạch men nhiều màu (изразцы) kiểu Balakhna đặc trưng thế kỷ 17. Trải qua nhiều lần cải tạo, thậm chí suýt bị phá bỏ thời Xô Viết, công trình được cứu nhờ nỗ lực của kiến trúc sư và được trùng tu; năm 2004 phần phòng ăn và tháp chuông đã mất được dựng lại trong khuôn khổ dự án «Ilyinskaya Sloboda». Trước nhà thờ có bia tưởng niệm nhà phát minh Ivan Kulibin, người sinh ra gần đó. Đây là một trong những viên ngọc kiến trúc cổ ít người biết nhưng rất đáng ghé của thành phố.",
+    "highlights_vi": [
+      "Công trình đá độc nhất ở Nga có mái «thùng chữ thập bốn mặt», xây 1672.",
+      "Trang trí gạch men (изразцы) kiểu Balakhna thế kỷ 17 trên các tang trống.",
+      "Được trùng tu trong dự án «Ilyinskaya Sloboda»; gần bia tưởng niệm Ivan Kulibin."
+    ],
+    "practical": {
+      "hours_vi": "Mở theo giờ lễ, thường ban ngày.",
+      "ticket_vi": "Vào tự do (nơi thờ tự đang hoạt động).",
+      "duration_vi": "Khoảng 20–30 phút.",
+      "best_time_vi": "Quanh năm; buổi sáng có ánh sáng đẹp để ngắm mái và gạch men.",
+      "tips_vi": "Kết hợp đi bộ khu phố cổ Zapochainye và ngắm điền trang cổ (Палаты Олисова) ngay bên cạnh."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C%20%D0%BD%D0%B0%20%D0%98%D0%BB%D1%8C%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B3%D0%BE%D1%80%D0%B5&ll=43.99016,56.32634&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Church%20of%20the%20Dormition%20on%20Ilyinskaya%20Hill%2C%20Nizhny%20Novgorod%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "sobory.ru — Церковь Успения на Ильинской горе (object 00922)",
+        "url": "https://sobory.ru/article/?object=00922"
+      },
+      {
+        "title": "Wikipedia (RU) — Успенская церковь на Ильинской горе",
+        "url": "https://ru.wikipedia.org/wiki/Успенская_церковь_на_Ильинской_горе"
+      }
+    ],
+    "tags": [
+      "church",
+      "1672",
+      "uzorochye",
+      "izraztsy",
+      "olisov",
+      "zapochainye"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-ilyinskaya-church",
+    "slug": "ilyinskaya-church",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Nhà thờ Tiên tri Ê-li-a (Ilyinskaya tserkov)",
+    "name_ru": "Церковь Илии Пророка",
+    "name_en": "Church of Elijah the Prophet",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 56.32819,
+      "lon": 43.99357
+    },
+    "address_vi": "Phố Ilyinskaya, số 9, khu Zapochainye, thành phố Nizhny Novgorod, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Nhà thờ Tiên tri Ê-li-a đứng trên phố cổ Ilyinskaya, trái tim của khu phố buôn Zapochainye. Theo truyền thống, nhà thờ gắn với việc thành phố thoát vây năm 1505; ngôi nhà thờ đá xuất hiện từ giữa thế kỷ 17 và đã được phục dựng.",
+    "presentation_long_vi": "Nằm trên phố Ilyinskaya – con phố cổ dẫn lên đồi Ilyinskaya, từng là khu phố buôn sầm uất Zapochainye của Nizhny Novgorod – nhà thờ Tiên tri Ê-li-a có một truyền thuyết lập nên đáng nhớ: người ta kể rằng trong cuộc vây hãm năm 1505, một phát đại bác bắn đi từ ngọn đồi này đã hạ được thủ lĩnh quân địch, khiến vòng vây tan rã; để tạ ơn, dân thành dựng một nhà thờ gỗ mang tên Tiên tri Ê-li-a. Ngôi nhà thờ đá hiện nay hình thành từ giữa thế kỷ 17, sau đó được cải tạo nhiều lần. Thời Xô Viết nhà thờ bị đóng cửa và biến dạng, đến những thập niên gần đây mới được trả lại hình dáng và chức năng ban đầu. Ngày nay nhà thờ là một điểm nhấn của tuyến phố đi bộ lịch sử Ilyinskaya với nhiều dinh thự thương nhân được phục hồi, rất hợp để kết hợp trong hành trình khám phá khu phố cổ.",
+    "highlights_vi": [
+      "Điểm nhấn của phố cổ Ilyinskaya – khu phố buôn Zapochainye lịch sử.",
+      "Truyền thuyết gắn với việc thành phố thoát vây năm 1505.",
+      "Nhà thờ đá từ giữa thế kỷ 17, đã được phục dựng sau thời Xô Viết."
+    ],
+    "practical": {
+      "hours_vi": "Mở theo giờ lễ, thường ban ngày.",
+      "ticket_vi": "Vào tự do (nơi thờ tự đang hoạt động).",
+      "duration_vi": "Khoảng 20–30 phút.",
+      "best_time_vi": "Quanh năm.",
+      "tips_vi": "Đi bộ dọc phố Ilyinskaya ngắm các dinh thự thương nhân được phục hồi; kết hợp nhà thờ Uspenskaya gần đó."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C%20%D0%98%D0%BB%D0%B8%D0%B8%20%D0%9F%D1%80%D0%BE%D1%80%D0%BE%D0%BA%D0%B0&ll=43.99357,56.32819&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Church%20of%20Elijah%20the%20Prophet%2C%20Nizhny%20Novgorod%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "sobory.ru — Церковь Илии Пророка, Нижний Новгород (object 01402)",
+        "url": "https://sobory.ru/article/?object=01402"
+      },
+      {
+        "title": "Wikipedia (RU) — Ильинская церковь (Нижний Новгород)",
+        "url": "https://ru.wikipedia.org/wiki/Ильинская_церковь_(Нижний_Новгород)"
+      }
+    ],
+    "tags": [
+      "church",
+      "ilyinskaya",
+      "zapochainye",
+      "old-town"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-oransky-monastery",
+    "slug": "oransky-monastery",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Tu viện Oranky Bogoroditsky (Oransky monastyr)",
+    "name_ru": "Оранский Богородицкий монастырь",
+    "name_en": "Oransky Bogoroditsky Monastery",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 55.895119,
+      "lon": 43.716106
+    },
+    "address_vi": "Làng Oranki, phố Pochtovaya số 2, huyện Bogorodsky, tỉnh Nizhny Novgorod, Nga (cách thành phố ~60 km về phía nam).",
+    "rating": null,
+    "presentation_short_vi": "Tu viện nam Oranky Bogoroditsky được lập năm 1634 để tôn kính bản sao icon Đức Mẹ Oranskaya. Là một trong những trung tâm hành hương lớn của tỉnh, tu viện có quần thể thánh đường và tháp chuông giữa vùng đồng quê yên tĩnh phía nam Nizhny Novgorod.",
+    "presentation_long_vi": "Được quý tộc Pyotr Glyadkov lập năm 1634 như một ẩn thất để tôn kính bản sao icon Đức Mẹ Vladimir–Oranskaya, tu viện Oranky Bogoroditsky nằm ở làng Oranki, huyện Bogorodsky, cách thành phố Nizhny Novgorod khoảng 60 km về phía nam. Qua nhiều thế kỷ, nơi đây trở thành một trong những trung tâm hành hương quan trọng nhất của tỉnh, gắn với các cuộc rước icon Oranskaya nổi tiếng. Quần thể tu viện gồm thánh đường chính, các nhà thờ phụ và tháp chuông, được bao quanh bởi cảnh quan đồng quê thanh bình. Trong thế kỷ 20 đầy biến động, khu tu viện từng bị trưng dụng làm trại giam giữ trong một giai đoạn; sau này được trả lại cho Giáo hội và dần được phục hồi. Ngày nay tu viện đón khách hành hương và du khách muốn tìm một điểm đến tâm linh, tĩnh lặng ngoài thành phố.",
+    "highlights_vi": [
+      "Lập năm 1634, tôn kính icon Đức Mẹ Oranskaya; trung tâm hành hương lớn của tỉnh.",
+      "Quần thể thánh đường và tháp chuông giữa vùng đồng quê phía nam Nizhny Novgorod.",
+      "Gắn với các cuộc rước icon Oranskaya truyền thống."
+    ],
+    "practical": {
+      "hours_vi": "Ban ngày; giờ mở theo lịch tu viện và giờ lễ.",
+      "ticket_vi": "Vào tự do; tuỳ tâm công đức.",
+      "duration_vi": "Khoảng 1 giờ (chưa kể di chuyển).",
+      "best_time_vi": "Cuối xuân đến đầu thu; các dịp lễ rước icon rất đông khách hành hương.",
+      "tips_vi": "Cần xe riêng để tới; ăn mặc kín đáo, nữ nên mang khăn trùm đầu."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9E%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C&ll=43.716106,55.895119&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Oransky%20Bogoroditsky%20Monastery%2C%20Nizhny%20Novgorod%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "svyatsy.org — Оранский Богородицкий мужской монастырь",
+        "url": "https://svyatsy.org/churches/nizhegorodskaya_oblast/bogorodskiy_rayon/oranki/oranskiy_bogorodickiy_muzhskoy_monastyr/"
+      },
+      {
+        "title": "sobory.ru — Оранки, Оранский Богородицкий монастырь (object 04995)",
+        "url": "https://sobory.ru/article/?object=04995"
+      }
+    ],
+    "tags": [
+      "monastery",
+      "pilgrimage",
+      "1634",
+      "oranskaya-icon",
+      "bogorodsky"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-gorodets-feodorovsky-monastery",
+    "slug": "gorodets-feodorovsky-monastery",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Tu viện Feodorovsky ở Gorodets (nơi Aleksandr Nevsky qua đời)",
+    "name_ru": "Городецкий Феодоровский монастырь",
+    "name_en": "Gorodets Feodorovsky Monastery",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 56.646416,
+      "lon": 43.477505
+    },
+    "address_vi": "Thành phố Gorodets, Quảng trường Proletarskaya số 34б, tỉnh Nizhny Novgorod, Nga (bên bờ sông Volga).",
+    "rating": null,
+    "presentation_short_vi": "Tu viện cổ bên bờ Volga ở Gorodets, gắn với sự kiện Đại công tước Aleksandr Nevsky đi tu và qua đời tại đây năm 1263 khi trở về từ Kim Trướng hãn quốc. Bị phá huỷ thời Xô Viết, tu viện được dựng lại năm 2008–2009 với thánh đường Feodorovsky là ngôi nhà thờ chính.",
+    "presentation_long_vi": "Nằm bên bờ sông Volga tại thị trấn thủ công cổ Gorodets, tu viện Feodorovsky có bề dày lịch sử gắn liền với một nhân vật vĩ đại của nước Nga: Đại công tước Aleksandr Nevsky. Trên đường trở về từ Kim Trướng hãn quốc (Golden Horde) năm 1263, ông lâm bệnh nặng, đã khấn nguyện đi tu và nhận đại lược tu (схима) với tên Alexy, rồi qua đời tại tu viện này. Suốt nhiều thế kỷ, tu viện là một trung tâm tinh thần của vùng; đến những năm 1930 bị phá huỷ. Quần thể hiện nay được tái thiết trong các năm 2008–2009, với nhà thờ chính toà Feodorovsky (tôn kính icon Đức Mẹ Feodorovskaya) làm trung tâm và là nhà thờ chính của giáo phận Gorodets. Kết hợp cùng khu phố cổ Gorodets với nghề vẽ tranh Gorodets và bánh mật (пряник) trứ danh, tu viện là điểm dừng ý nghĩa cả về tâm linh lẫn lịch sử.",
+    "highlights_vi": [
+      "Nơi Đại công tước Aleksandr Nevsky đi tu và qua đời năm 1263.",
+      "Thánh đường Feodorovsky là nhà thờ chính toà của giáo phận Gorodets.",
+      "Tái thiết 2008–2009; kết hợp tốt với khu phố cổ Gorodets."
+    ],
+    "practical": {
+      "hours_vi": "Ban ngày; theo lịch tu viện và giờ lễ.",
+      "ticket_vi": "Vào tự do; tuỳ tâm công đức.",
+      "duration_vi": "Khoảng 45–60 phút.",
+      "best_time_vi": "Cuối xuân đến đầu thu; đẹp khi kết hợp tham quan Gorodets.",
+      "tips_vi": "Đi cùng lượt tham quan phố cổ Gorodets (tranh Gorodets, bảo tàng bánh mật); ăn mặc lịch sự."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D0%B5%D1%86%D0%BA%D0%B8%D0%B9%20%D0%A4%D0%B5%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C&ll=43.477505,56.646416&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Gorodets%20Feodorovsky%20Monastery%2C%20Nizhny%20Novgorod%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Феодоровский монастырь (Городец)",
+        "url": "https://ru.wikipedia.org/wiki/Феодоровский_монастырь_(Городец)"
+      },
+      {
+        "title": "sobory.ru — Городец, Феодоровский мужской монастырь (object 24204)",
+        "url": "https://sobory.ru/article/?object=24204"
+      }
+    ],
+    "tags": [
+      "monastery",
+      "gorodets",
+      "alexander-nevsky",
+      "volga",
+      "feodorovskaya-icon"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-dudin-monastery",
+    "slug": "dudin-monastery",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Tu viện Dudin (Amvrosiev Nikolaevsky) bên vách sông Oka",
+    "name_ru": "Амвросиев Николаевский Дудин монастырь",
+    "name_en": "Amvrosiev Nikolaevsky Dudin Monastery",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 56.181734,
+      "lon": 43.385054
+    },
+    "address_vi": "Gần làng Teteryugino (Podyablonnoye), huyện Bogorodsky, bờ phải sông Oka, tỉnh Nizhny Novgorod, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Tu viện trung cổ (khoảng năm 1408) nép mình trên vách cao dựng đứng của bờ phải sông Oka, được ví như «pháo đài tinh thần» của vùng. Truyền thống kể rằng thánh Sergy Radonezhsky từng ghé qua. Đường tới hiểm trở nên nơi đây giữ được vẻ tĩnh mịch, hoang sơ.",
+    "presentation_long_vi": "Ẩn mình trên một vách đá cao chóng mặt của bờ phải sông Oka gần làng Teteryugino (đi qua Podyablonnoye), huyện Bogorodsky, tu viện Amvrosiev Nikolaevsky Dudin là một trong những tu viện cổ nhất vùng, có từ khoảng năm 1408. Được đặt tên Amvrosiev theo vị viện phụ đầu tiên và Nikolaevsky để tôn kính thánh Nikolai; theo truyền thống, thánh Sergy Radonezhsky từng ghé qua đây trên đường tới Nizhny Novgorod. Trong nhiều thế kỷ, tu viện là một «tiền đồn tinh thần» canh giữ tuyến sông Oka. Quần thể gồm nhà thờ Đức Mẹ An Nghỉ, tháp chuông và các dãy nhà tu; sau thời gian dài hoang phế, từ năm 2006 nơi đây bắt đầu được khôi phục. Do đường vào khá hiểm trở – phải đi đường đất rồi men lối mòn xuống phía sông – tu viện vẫn giữ được sự tĩnh mịch, hoang sơ và tầm nhìn ngoạn mục ra khúc sông Oka, hấp dẫn cả khách hành hương lẫn người yêu thiên nhiên.",
+    "highlights_vi": [
+      "Một trong những tu viện cổ nhất vùng (khoảng 1408), trên vách cao bờ phải sông Oka.",
+      "Truyền thống gắn với chuyến ghé của thánh Sergy Radonezhsky.",
+      "Cảnh quan hoang sơ, tầm nhìn đẹp ra sông Oka; đang được khôi phục từ 2006."
+    ],
+    "practical": {
+      "hours_vi": "Ban ngày; nên đi khi thời tiết khô ráo.",
+      "ticket_vi": "Vào tự do; tuỳ tâm công đức.",
+      "duration_vi": "Khoảng 1 giờ (chưa kể di chuyển khó khăn).",
+      "best_time_vi": "Cuối xuân đến đầu thu; tránh sau mưa vì đường đất trơn lầy.",
+      "tips_vi": "Cần xe gầm cao và đi bộ đoạn cuối; mang giày phù hợp; ăn mặc kín đáo."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%90%D0%BC%D0%B2%D1%80%D0%BE%D1%81%D0%B8%D0%B5%D0%B2%20%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%94%D1%83%D0%B4%D0%B8%D0%BD%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C&ll=43.385054,56.181734&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Amvrosiev%20Nikolaevsky%20Dudin%20Monastery%2C%20Nizhny%20Novgorod%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "sobory.ru — Тетерюгино, Николаевский Амвросиев Дудин монастырь (object 03521)",
+        "url": "https://sobory.ru/article/?object=03521"
+      },
+      {
+        "title": "azbyka.ru (Азбука паломника) — Амвросиев Николаевский Дудин монастырь",
+        "url": "https://azbyka.ru/palomnik/Амвросиев_Николаевский_Дудин_мужской_монастырь"
+      }
+    ],
+    "tags": [
+      "monastery",
+      "oka",
+      "medieval",
+      "1408",
+      "bogorodsky",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-minin-pozharsky-monument",
+    "slug": "minin-pozharsky-monument",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Tượng đài Minin và Pozharsky (bản sao ở Nizhny Novgorod)",
+    "name_ru": "Памятник Минину и Пожарскому",
+    "name_en": "Monument to Minin and Pozharsky",
+    "categories": [
+      "monument",
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 56.32972,
+      "lon": 43.99667
+    },
+    "address_vi": "Quảng trường Narodnogo Edinstva (Đoàn kết Nhân dân), dưới chân Kremlin, cạnh nhà thờ Ioann Predtechi, thành phố Nizhny Novgorod, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Tượng đài Kuzma Minin và công tước Dmitry Pozharsky – hai thủ lĩnh đội dân binh 1611–1612 – khánh thành ngày 4/11/2005. Đây là bản sao (nhỏ hơn bản gốc 5 cm) do điêu khắc gia Zurab Tsereteli thực hiện, phỏng theo tượng đài nổi tiếng của Ivan Martos trên Quảng trường Đỏ ở Moskva.",
+    "presentation_long_vi": "Đứng ngay dưới chân Kremlin, trên Quảng trường Đoàn kết Nhân dân (площадь Народного единства) và bên cạnh nhà thờ Giáng Sinh Thánh Gioan Tiền Hô, tượng đài Minin và Pozharsky tôn vinh hai người anh hùng đã dẫn dắt đội dân binh Nizhny Novgorod giải phóng Moskva khỏi quân can thiệp Ba Lan trong Thời loạn (Smuta) năm 1611–1612. Tượng được khánh thành ngày 4 tháng 11 năm 2005 – đúng dịp Ngày Đoàn kết Nhân dân của nước Nga. Đây là một bản sao gần như y hệt (chỉ nhỏ hơn 5 cm) của tượng đài trứ danh do điêu khắc gia Ivan Martos tạc, hiện đặt trên Quảng trường Đỏ ở Moskva; tác giả bản sao là điêu khắc gia lừng danh Zurab Tsereteli. Vị trí đặt tượng mang tính biểu tượng: theo truyền thống, chính từ khu vực này – bên nhà thờ Ioann Predtechi – phong trào dân binh năm 1611 đã khởi phát. Đây là điểm chụp ảnh và tưởng niệm quen thuộc, thuận tiện kết hợp với lối lên Kremlin và phố cổ Rozhdestvenskaya.",
+    "highlights_vi": [
+      "Bản sao (nhỏ hơn 5 cm) tượng đài Minin–Pozharsky trên Quảng trường Đỏ, do Tsereteli thực hiện.",
+      "Khánh thành 4/11/2005 nhân Ngày Đoàn kết Nhân dân của Nga.",
+      "Đặt tại nơi truyền thống khởi phát đội dân binh 1611, dưới chân Kremlin."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tham quan mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 15–20 phút.",
+      "best_time_vi": "Quanh năm; dịp 4/11 (Ngày Đoàn kết Nhân dân) có sự kiện.",
+      "tips_vi": "Kết hợp tham quan nhà thờ Ioann Predtechi ngay bên và đi bộ lên Kremlin."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%D0%9C%D0%B8%D0%BD%D0%B8%D0%BD%D1%83%20%D0%B8%20%D0%9F%D0%BE%D0%B6%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%BC%D1%83&ll=43.99667,56.32972&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Monument%20to%20Minin%20and%20Pozharsky%2C%20Nizhny%20Novgorod%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Памятник Минину и Пожарскому (Нижний Новгород)",
+        "url": "https://ru.wikipedia.org/wiki/Памятник_Минину_и_Пожарскому_(Нижний_Новгород)"
+      },
+      {
+        "title": "1000mest.ru — Памятник Минину и Пожарскому в Нижнем Новгороде",
+        "url": "https://www.1000mest.ru/mininu_i_pozharskomu_nn"
+      }
+    ],
+    "tags": [
+      "monument",
+      "minin",
+      "pozharsky",
+      "tsereteli",
+      "kremlin",
+      "2005"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-nizhny-novgorod-stadium",
+    "slug": "nizhny-novgorod-stadium",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Sân vận động «Nizhny Novgorod» (trên bãi Strelka)",
+    "name_ru": "Стадион «Нижний Новгород»",
+    "name_en": "Nizhny Novgorod Stadium",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 56.337626,
+      "lon": 43.962753
+    },
+    "address_vi": "Phố Dolzhanskaya, số 2А, bãi Strelka (nơi sông Oka đổ vào Volga), thành phố Nizhny Novgorod, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Sân vận động bóng đá hiện đại xây dựng năm 2015–2018 phục vụ World Cup 2018, đặt ngay trên bãi Strelka – điểm hợp lưu sông Oka và Volga. Sức chứa khoảng 45.000 chỗ, kiến trúc gợi hình sóng nước và gió; nay là sân nhà của CLB Pari Nizhny Novgorod.",
+    "presentation_long_vi": "Toạ lạc trên bãi Strelka – mũi đất nơi sông Oka đổ vào sông Volga – sân vận động «Nizhny Novgorod» được xây dựng trong các năm 2015–2018 để phục vụ Giải vô địch bóng đá thế giới FIFA World Cup 2018. Công trình có sức chứa khoảng 45.000 khán giả, nổi bật với thiết kế cột trụ và mái nhẹ gợi liên tưởng tới nước và gió của vùng hợp lưu hai dòng sông. Trong kỳ World Cup, sân đã đăng cai nhiều trận đấu và nhanh chóng trở thành một biểu tượng kiến trúc mới của thành phố. Sau giải, sân là sân nhà của câu lạc bộ bóng đá Pari Nizhny Novgorod và được dùng làm tổ hợp thể thao – giải trí đa năng (những năm gần đây sân mang tên thương mại Sovcombank Arena). Cùng với các nhà kho Pakgauzy được cải tạo và nhà thờ Aleksandr Nevsky, sân vận động tạo nên quần thể hiện đại – lịch sử đặc sắc của bãi Strelka, một điểm dạo chơi và ngắm hoàng hôn bên sông rất được ưa thích.",
+    "highlights_vi": [
+      "Xây cho World Cup 2018, đặt trên bãi Strelka hợp lưu Oka–Volga.",
+      "Sức chứa ~45.000; kiến trúc gợi hình sóng nước và gió.",
+      "Sân nhà CLB Pari Nizhny Novgorod (tên thương mại gần đây: Sovcombank Arena)."
+    ],
+    "practical": {
+      "hours_vi": "Vào sân theo ngày có trận đấu/sự kiện; khu vực Strelka quanh sân dạo tự do.",
+      "ticket_vi": "Vé theo trận đấu/sự kiện; đôi khi có tour tham quan sân.",
+      "duration_vi": "Khoảng 30–60 phút quanh khu vực (chưa kể xem trận).",
+      "best_time_vi": "Mùa bóng đá; hoàng hôn trên bãi Strelka rất đẹp.",
+      "tips_vi": "Kết hợp ngắm nhà kho Pakgauzy và nhà thờ Aleksandr Nevsky ngay cạnh trên Strelka."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D1%82%D0%B0%D0%B4%D0%B8%D0%BE%D0%BD%20%C2%AB%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9%20%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%C2%BB&ll=43.962753,56.337626&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Nizhny%20Novgorod%20Stadium%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Нижний Новгород (стадион)",
+        "url": "https://ru.wikipedia.org/wiki/Нижний_Новгород_(стадион)"
+      },
+      {
+        "title": "Стрелка (Нижний Новгород) — Википедия",
+        "url": "https://ru.wikipedia.org/wiki/Стрелка_(Нижний_Новгород)"
+      }
+    ],
+    "tags": [
+      "stadium",
+      "world-cup-2018",
+      "strelka",
+      "modern",
+      "football"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-nizhny-novgorod-circus",
+    "slug": "nizhny-novgorod-circus",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Rạp xiếc Nizhny Novgorod (mang tên M. P. Nazarova)",
+    "name_ru": "Нижегородский цирк имени М. П. Назаровой",
+    "name_en": "Nizhny Novgorod Circus",
+    "categories": [
+      "theatre",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 56.3185,
+      "lon": 43.953
+    },
+    "address_vi": "Phố Kommunisticheskaya, số 38, khu Kanavino (gần ga Moskovsky), thành phố Nizhny Novgorod, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Rạp xiếc Nizhny Novgorod mang tên nữ nghệ sĩ thuần hổ Margarita Nazarova. Sau đợt tái thiết dài, rạp mở cửa trở lại năm 2007 và được xem là một trong những tổ hợp xiếc lớn nhất châu Âu, nằm ở tả ngạn sông Oka gần ga Moskovsky.",
+    "presentation_long_vi": "Rạp xiếc Nizhny Novgorod nằm ở khu Kanavino bên tả ngạn sông Oka, trong tầm đi bộ từ ga đường sắt Moskovsky và ga metro Moskovskaya. Rạp mang tên Margarita Nazarova – nữ nghệ sĩ thuần dưỡng hổ huyền thoại của Liên Xô. Sau một quá trình tái thiết kéo dài, công trình được khánh thành lại vào năm 2007 và khi đó được đánh giá là một trong những tổ hợp biểu diễn xiếc lớn và hiện đại nhất châu Âu, với khán phòng khoảng 2.000 chỗ cùng trang thiết bị sân khấu tiên tiến. Đây là điểm giải trí lý tưởng cho gia đình và trẻ em, thường xuyên đón các chương trình lưu diễn danh tiếng của Nga. Vị trí thuận tiện gần đầu mối giao thông khiến rạp xiếc dễ kết hợp trong hành trình khám phá khu vực tả ngạn (Hội chợ Nizhny Novgorod, nhà thờ Aleksandr Nevsky, bãi Strelka).",
+    "highlights_vi": [
+      "Mang tên nữ nghệ sĩ thuần hổ Margarita Nazarova.",
+      "Tái thiết và mở lại năm 2007, thuộc hàng tổ hợp xiếc lớn nhất châu Âu.",
+      "Khán phòng ~2.000 chỗ; gần ga Moskovsky, tiện cho gia đình và trẻ em."
+    ],
+    "practical": {
+      "hours_vi": "Theo lịch biểu diễn (thường cuối tuần và các suất chiều/tối); kiểm tra lịch trước.",
+      "ticket_vi": "Mua vé theo chương trình; nhiều mức giá.",
+      "duration_vi": "Mỗi suất diễn khoảng 2 giờ.",
+      "best_time_vi": "Quanh năm; dịp lễ và nghỉ học có nhiều suất diễn.",
+      "tips_vi": "Đặt vé sớm cho các chương trình lưu diễn nổi tiếng; kết hợp thăm khu tả ngạn Kanavino."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B9%20%D1%86%D0%B8%D1%80%D0%BA%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%20%D0%9C.%20%D0%9F.%20%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B9&ll=43.953,56.3185&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Nizhny%20Novgorod%20Circus%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Культура.РФ — Нижегородский государственный цирк",
+        "url": "https://www.culture.ru/institutes/42792/nizhegorodskii-gosudarstvennyi-cirk"
+      },
+      {
+        "title": "Wikidata — Nizhny Novgorod Circus (Q19911285)",
+        "url": "https://www.wikidata.org/wiki/Q19911285"
+      }
+    ],
+    "tags": [
+      "circus",
+      "nazarova",
+      "family",
+      "kanavino",
+      "entertainment"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-pustynskie-lakes",
+    "slug": "pustynskie-lakes",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Hệ hồ Pustynskie (Pustynskie ozyora)",
+    "name_ru": "Пустынские озёра",
+    "name_en": "Pustynskie Lakes",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 55.668564,
+      "lon": 43.56521
+    },
+    "address_vi": "Gần làng Staraya Pustyn, trên sông Serezha, huyện Arzamassky, tỉnh Nizhny Novgorod, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Chuỗi tám hồ karst nối nhau trên sông Serezha, thuộc khu bảo tồn Pustynsky (thành lập 1934). Đây là hệ hồ lớn và đẹp bậc nhất tỉnh, giàu động vật hoang dã quý (chuột chũi nước vyhukhol, hải ly, rái cá) và hơn 160 loài chim.",
+    "presentation_long_vi": "Trải dài trên sông Serezha gần làng Staraya Pustyn ở phía bắc huyện Arzamassky, Pustynskie ozyora là một chuỗi gồm tám hồ karst nối thông nhau – hệ hồ đẹp và nổi tiếng vào loại bậc nhất tỉnh Nizhny Novgorod. Các hồ hình thành do quá trình karst (đá vôi bị hoà tan tạo hố sụt) ngay trong lòng và ven sông Serezha. Toàn khu vực nằm trong khu bảo tồn thiên nhiên Pustynsky, được lập từ năm 1934, với hệ sinh thái phong phú: nơi đây có loài chuột chũi nước vyhukhol (desman) quý hiếm, hải ly, rái cá, chồn thông và nhiều loài dơi; đã ghi nhận hơn 160 loài chim, trong đó có đại bàng vàng, cắt lớn và ó cá. Cảnh sắc hồ nước lặng soi bóng rừng cây tạo nên khung cảnh yên bình, là điểm đến ưa thích cho du lịch sinh thái, chèo thuyền, câu cá và cắm trại. Vì là khu bảo tồn, du khách cần giữ gìn cảnh quan và tuân thủ quy định bảo vệ thiên nhiên.",
+    "highlights_vi": [
+      "Chuỗi tám hồ karst nối nhau trên sông Serezha – hệ hồ đẹp bậc nhất tỉnh.",
+      "Thuộc khu bảo tồn Pustynsky (từ 1934); hệ sinh thái phong phú.",
+      "Có chuột chũi nước vyhukhol quý hiếm và hơn 160 loài chim."
+    ],
+    "practical": {
+      "hours_vi": "Không gian thiên nhiên mở; tham quan ban ngày.",
+      "ticket_vi": "Vào tự do; một số dịch vụ (thuyền, cơ sở nghỉ) thu phí.",
+      "duration_vi": "Nửa ngày đến trọn ngày.",
+      "best_time_vi": "Mùa hè (tắm, chèo thuyền, ngắm chim); thu để ngắm lá vàng.",
+      "tips_vi": "Là khu bảo tồn – không xả rác, không gây ồn; mang chống muỗi; tôn trọng quy định bảo vệ động vật."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D1%83%D1%81%D1%82%D1%8B%D0%BD%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BE%D0%B7%D1%91%D1%80%D0%B0&ll=43.56521,55.668564&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Pustynskie%20Lakes%2C%20Nizhny%20Novgorod%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "kerzhenskiy.ru — Пустынские озёра. Нижегородское Поволжье",
+        "url": "https://kerzhenskiy.ru/place/pustynskij/"
+      },
+      {
+        "title": "tourismnn.ru — Пустынские озёра (природный заказник)",
+        "url": "https://tourismnn.ru/maintour/eco/pustynskie-lake"
+      }
+    ],
+    "tags": [
+      "nature",
+      "lakes",
+      "karst",
+      "zakaznik",
+      "serezha",
+      "vyhukhol",
+      "arzamassky"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-vadskoye-lake",
+    "slug": "vadskoye-lake",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Hồ Vad (Vadskoye ozero) – hồ karst với «voklina»",
+    "name_ru": "Вадское озеро",
+    "name_en": "Lake Vad (Vadskoye)",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 55.5395,
+      "lon": 44.192
+    },
+    "address_vi": "Thị trấn Vad, huyện Vadsky, tỉnh Nizhny Novgorod, Nga (trên sông Vadok, nhánh của sông Pyana).",
+    "rating": null,
+    "presentation_short_vi": "Hồ karst hình thành từ các hố sụt trên sông Vadok. Nổi tiếng với «voklina» – những mạch nước ngầm karst phun mạnh từ đáy hồ tạo sóng đồng tâm trên mặt nước và giữ cho một khoảng hồ không đóng băng ngay giữa mùa đông. Là di tích thiên nhiên của tỉnh.",
+    "presentation_long_vi": "Nằm ngay bên thị trấn Vad, hồ Vad (Vadskoye ozero) hình thành do sự hợp nhất của nhiều hố sụt karst trong lòng sông Vadok – một nhánh của sông Pyana. Điều làm nên danh tiếng của hồ là hiện tượng «voklina»: từ những phễu karst sâu dưới đáy, các mạch nước ngầm lạnh và trong vắt phun lên mạnh mẽ, tạo thành những vòng sóng đồng tâm lan toả trên mặt nước. Nhờ dòng chảy ngầm mạnh (lan tới khoảng 20 mét quanh miệng voklina), một khoảng mặt hồ không đóng băng ngay cả giữa mùa đông giá rét, tạo nên cảnh «polynya» (khoảng nước hở) kỳ thú giữa băng tuyết. Hồ được công nhận là di tích thiên nhiên của tỉnh, là điểm đến độc đáo cho những ai muốn tận mắt thấy hiện tượng thuỷ văn hiếm gặp, câu cá và dã ngoại. Du khách nên cẩn trọng khi tới gần mép nước vì có dòng chảy ngầm và nhiệt độ lạnh.",
+    "highlights_vi": [
+      "Hồ karst hình thành từ các hố sụt trên sông Vadok.",
+      "Nổi tiếng với «voklina» – mạch nước ngầm phun tạo sóng đồng tâm.",
+      "Một khoảng hồ không đóng băng giữa mùa đông; là di tích thiên nhiên."
+    ],
+    "practical": {
+      "hours_vi": "Không gian thiên nhiên mở; tham quan ban ngày.",
+      "ticket_vi": "Vào tự do (miễn phí).",
+      "duration_vi": "Khoảng 1–2 giờ.",
+      "best_time_vi": "Mùa hè để ngắm nước trong và voklina; mùa đông để thấy polynya không đóng băng.",
+      "tips_vi": "Cẩn trọng khi tới gần mép nước (dòng ngầm, nước lạnh); giữ gìn di tích thiên nhiên."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D0%B0%D0%B4%D1%81%D0%BA%D0%BE%D0%B5%20%D0%BE%D0%B7%D0%B5%D1%80%D0%BE&ll=44.192,55.5395&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Lake%20Vad%20%28Vadskoye%29%2C%20Nizhny%20Novgorod%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "putidorogi-nn.ru — Озеро Вад (Нижегородская область)",
+        "url": "https://putidorogi-nn.ru/evropa/353-ozero-vad"
+      },
+      {
+        "title": "esosedi — Вадское озеро (координаты)",
+        "url": "http://ru.esosedi.org/RU/NIZ/1000069079/vadskoe_ozero/"
+      }
+    ],
+    "tags": [
+      "nature",
+      "lake",
+      "karst",
+      "voklina",
+      "spring",
+      "vadsky"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "nizhny-novgorod-podvyazye-estate",
+    "slug": "podvyazye-estate",
+    "region": "nizhny-novgorod",
+    "region_name_vi": "Tỉnh Nizhny Novgorod",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Điền trang Priklonsky–Rukavishnikov ở Podvyazye",
+    "name_ru": "Усадьба Приклонских-Рукавишниковых (Подвязье)",
+    "name_en": "Priklonsky-Rukavishnikov Estate (Podvyazye)",
+    "categories": [
+      "palace",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 56.16534,
+      "lon": 43.34911
+    },
+    "address_vi": "Làng Podvyazye, phố Okskaya, huyện Bogorodsky, tỉnh Nizhny Novgorod, Nga (mỏm đất cao bờ phải sông Oka, đối diện Zhelnino, cách thành phố ~40 km).",
+    "rating": null,
+    "presentation_short_vi": "Một trong những điền trang quý tộc lớn còn sót lại của tỉnh, di sản văn hoá cấp liên bang, nằm trên mỏm đất cao nhìn ra khúc quanh sông Oka. Từ thế kỷ 18 thuộc dòng họ Priklonsky, đến 1879 về tay triệu phú Sergei Rukavishnikov – người biến nơi đây thành trang trại kiểu mẫu với trại ngựa, tháp nước, nhà kính, điện, nước máy và sưởi hơi.",
+    "presentation_long_vi": "Nằm trên một mỏm đất cao và hẹp của bờ phải sông Oka, đối diện khu Zhelnino và cách trung tâm Nizhny Novgorod khoảng 40 km, điền trang Priklonsky–Rukavishnikov ở làng Podvyazye là một trong những dinh cơ quý tộc lớn nhất còn sót lại của tỉnh và là di tích kiến trúc cấp liên bang. Nửa sau thế kỷ 18, điền trang thuộc về Mikhail Priklonsky (giám đốc Đại học Moskva); dòng họ Priklonsky đã cho dựng dinh chính, nhà phụ, các dãy nhà phục vụ và lập vườn cây ăn quả, đồng thời xây một nhà thờ Phục Sinh kiểu vòng tròn cột (rotunda) độc đáo để mừng chiến thắng Napoléon (nay chỉ còn phế tích cùng gác chuông hình khải hoàn môn). Năm 1879, điền trang về tay triệu phú Nizhny Novgorod Sergei Rukavishnikov; suốt gần 40 năm ông biến nơi đây thành một trang trại kiểu mẫu với trại nuôi ngựa, kết hợp các dãy nhà gạch đỏ (chuồng ngựa, lò rèn) cùng những công trình phong cách cổ điển và Tây Âu. Ông cho lắp đặt đủ tiện nghi tân tiến thời đó: nước máy, sưởi hơi nước, điện, nhà kính trồng dứa và đào chín ngay giữa mùa đông; dinh chính có cả vọng lâu (belveder) trên mái để ngắm cảnh. Ngày nay điền trang tuy xuống cấp nhưng vẫn giữ được nét bề thế; một tổ chức tình nguyện địa phương đang trùng tu và tổ chức tham quan, mang lại cơ hội chiêm ngưỡng một «tổ ấm quý tộc» cùng khung cảnh sông Oka thơ mộng.",
+    "highlights_vi": [
+      "Một trong những điền trang quý tộc lớn nhất còn sót lại của tỉnh; di sản cấp liên bang.",
+      "Gắn với dòng họ Priklonsky (thế kỷ 18) và triệu phú Rukavishnikov (từ 1879).",
+      "Trang trại kiểu mẫu với trại ngựa, tháp nước, nhà kính, điện; phế tích nhà thờ Phục Sinh hình rotunda."
+    ],
+    "practical": {
+      "hours_vi": "Ban ngày; nên liên hệ trước vì do tổ chức tình nguyện quản lý.",
+      "ticket_vi": "Vé vào cửa (khoảng 250 rúp cho người lớn); có tổ chức tham quan.",
+      "duration_vi": "Khoảng 1–1,5 giờ (chưa kể di chuyển).",
+      "best_time_vi": "Cuối xuân đến đầu thu; cảnh sông Oka đẹp vào chiều muộn.",
+      "tips_vi": "Cần xe riêng; mang giày đi bộ vì địa hình mỏm đất; nhiều công trình đang xuống cấp, cẩn trọng an toàn."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A3%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0%20%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D1%85-%D0%A0%D1%83%D0%BA%D0%B0%D0%B2%D0%B8%D1%88%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D1%85%20%28%D0%9F%D0%BE%D0%B4%D0%B2%D1%8F%D0%B7%D1%8C%D0%B5%29&ll=43.34911,56.16534&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Priklonsky-Rukavishnikov%20Estate%20%28Podvyazye%29%2C%20Nizhny%20Novgorod%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "putidorogi-nn.ru — Усадьба Рукавишниковых-Приклонских в Подвязье",
+        "url": "https://putidorogi-nn.ru/evropa/352-usadba-podviaze"
+      },
+      {
+        "title": "Wikipedia (RU) — Подвязье (усадьба)",
+        "url": "https://ru.wikipedia.org/wiki/Подвязье_(усадьба)"
+      }
+    ],
+    "tags": [
+      "estate",
+      "rukavishnikov",
+      "priklonsky",
+      "oka",
+      "federal-heritage",
+      "bogorodsky"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
   }
 ]

@@ -35,8 +35,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9C%D1%8B%D1%81%20%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=143.51583,46.63028&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=46.63028,143.51583"
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%8B%D1%81%20%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD&ll=143.51583,46.63028&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Cape%20Velikan%20%28Cape%20Giant%29%2C%20Sakhalin%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -53,7 +53,8 @@
       "photography"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "sakhalin-tunaicha-lake",
@@ -91,8 +92,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=143.225,46.769444&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=46.769444,143.225"
+      "yandex": "https://yandex.com/maps/?text=%D0%9E%D0%B7%D0%B5%D1%80%D0%BE%20%D0%A2%D1%83%D0%BD%D0%B0%D0%B9%D1%87%D0%B0&ll=143.225,46.769444&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Lake%20Tunaicha%2C%20Sakhalin%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -109,7 +110,8 @@
       "nature"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "sakhalin-sakhalin-regional-museum",
@@ -148,8 +150,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Japanese%20building%20of%20Yuzhno-Sakhalinsk%20Regional%20Museum%20%2821469244223%29.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=142.7444,46.959&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=46.959,142.7444"
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%B0%D1%85%D0%B0%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%BD%D0%BE%D0%B9%20%D0%BA%D1%80%D0%B0%D0%B5%D0%B2%D0%B5%D0%B4%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9&ll=142.7444,46.959&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Sakhalin%20Regional%20Museum%2C%20Russia"
     },
     "official_site": "https://sakhalinmuseum.ru",
     "sources": [
@@ -166,7 +168,8 @@
       "ethnography"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "sakhalin-mountain-air-resort",
@@ -204,8 +207,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/View%20of%20Yuzhno-Sakhalinsk%20from%20Gorny%20Vozduh.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=142.797042,46.94961&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=46.94961,142.797042"
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%A2%D0%9A%20%C2%AB%D0%93%D0%BE%D1%80%D0%BD%D1%8B%D0%B9%20%D0%B2%D0%BE%D0%B7%D0%B4%D1%83%D1%85%C2%BB&ll=142.797042,46.94961&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Gorny%20Vozdukh%20%28Mountain%20Air%29%20Resort%2C%20Sakhalin%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -222,7 +225,8 @@
       "viewpoint"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "sakhalin-iturup-white-rocks",
@@ -260,8 +264,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Iturup%20White%20cliffs.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=147.616667,45.033333&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=45.033333,147.616667"
+      "yandex": "https://yandex.com/maps/?text=%D0%91%D0%B5%D0%BB%D1%8B%D0%B5%20%D1%81%D0%BA%D0%B0%D0%BB%D1%8B%20%28%D0%98%D1%82%D1%83%D1%80%D1%83%D0%BF%29&ll=147.616667,45.033333&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=White%20Rocks%20of%20Iturup%2C%20Sakhalin%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -278,7 +282,8 @@
       "black-sand-beach"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "sakhalin-moneron-island",
@@ -316,8 +321,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Moneron%20Island.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=141.233,46.25&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=46.25,141.233"
+      "yandex": "https://yandex.com/maps/?text=%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%20%D0%9C%D0%BE%D0%BD%D0%B5%D1%80%D0%BE%D0%BD&ll=141.233,46.25&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Moneron%20Island%2C%20Sakhalin%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -334,7 +339,8 @@
       "sea-of-japan"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "sakhalin-dagi-hot-springs",
@@ -372,8 +378,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=143.08426,52.04254&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=52.04254,143.08426"
+      "yandex": "https://yandex.com/maps/?text=%D0%94%D0%B0%D0%B3%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5%20%D1%82%D0%B5%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8&ll=143.08426,52.04254&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Daginskie%20Thermal%20Springs%2C%20Sakhalin%2C%20Russia"
     },
     "official_site": "https://dagisakh.com",
     "sources": [
@@ -390,7 +396,8 @@
       "okhotsk-coast"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "sakhalin-cape-aniva-lighthouse",
@@ -428,8 +435,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Aniva%20Lighthouse%20by%20Vyacheslav%20Ovchinnikov.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=143.414077,46.018885&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=46.018885,143.414077"
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D0%B0%D1%8F%D0%BA%20%D0%90%D0%BD%D0%B8%D0%B2%D0%B0&ll=143.414077,46.018885&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Aniva%20Lighthouse%2C%20Sakhalin%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -446,6 +453,7 @@
       "sea-of-okhotsk"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   }
 ]

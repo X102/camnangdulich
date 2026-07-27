@@ -40,8 +40,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Curonian%20Spit%20NP%2005-2017%20img17%20aerial%20view%20at%20Epha%20Dune.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=20.8,55.133&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=55.133,20.8"
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%B0%D1%80%D0%BA%20%C2%AB%D0%9A%D1%83%D1%80%D1%88%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BA%D0%BE%D1%81%D0%B0%C2%BB&ll=20.8,55.133&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Curonian%20Spit%20National%20Park%2C%20Kaliningrad%2C%20Russia"
     },
     "official_site": "https://www.park-kosa.ru/",
     "sources": [
@@ -59,7 +59,8 @@
       "daytrip"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "kaliningrad-konigsberg-cathedral",
@@ -103,8 +104,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Konigsberg%20%28Kaliningrad%29%20cathedral.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=20.51167,54.70639&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.70639,20.51167"
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%81%D0%BE%D0%B1%D0%BE%D1%80%20%28%D0%9A%D1%91%D0%BD%D0%B8%D0%B3%D1%81%D0%B1%D0%B5%D1%80%D0%B3%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D0%B1%D0%BE%D1%80%29%2C%20%D0%BC%D0%BE%D0%B3%D0%B8%D0%BB%D0%B0%20%D0%9A%D0%B0%D0%BD%D1%82%D0%B0&ll=20.51167,54.70639&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=K%C3%B6nigsberg%20Cathedral%20%26%20Kant%27s%20Tomb%2C%20Kaliningrad%2C%20Russia"
     },
     "official_site": "https://sobor39.ru/",
     "sources": [
@@ -122,7 +123,8 @@
       "landmark"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "kaliningrad-fishing-village",
@@ -165,8 +167,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Fishery%20Village%20in%20Kaliningrad2.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=20.514335,54.70542&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.70542,20.514335"
+      "yandex": "https://yandex.com/maps/?text=%D0%A0%D1%8B%D0%B1%D0%BD%D0%B0%D1%8F%20%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BD%D1%8F&ll=20.514335,54.70542&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Fishing%20Village%2C%20Kaliningrad%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -183,7 +185,8 @@
       "viewpoint"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "kaliningrad-museum-world-ocean",
@@ -226,8 +229,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Kaliningrad%2005-2017%20img62%20Ocean%20Museum.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=20.499529,54.706708&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.706708,20.499529"
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%B9%20%D0%9C%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%BE%D0%BA%D0%B5%D0%B0%D0%BD%D0%B0&ll=20.499529,54.706708&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20the%20World%20Ocean%2C%20Kaliningrad%2C%20Russia"
     },
     "official_site": "https://world-ocean.ru/",
     "sources": [
@@ -245,7 +248,8 @@
       "indoor"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "kaliningrad-amber-museum",
@@ -288,8 +292,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Amber%20Museum%20in%20Kaliningrad.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=20.522997,54.72216&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.72216,20.522997"
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%B9%20%D1%8F%D0%BD%D1%82%D0%B0%D1%80%D1%8F&ll=20.522997,54.72216&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kaliningrad%20Amber%20Museum%2C%20Russia"
     },
     "official_site": "https://www.ambermuseum.ru/",
     "sources": [
@@ -305,7 +309,8 @@
       "indoor"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "kaliningrad-svetlogorsk",
@@ -348,8 +353,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%92%D0%BE%D0%B4%D0%BE%D0%BD%D0%B0%D0%BF%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D0%B1%D0%B0%D1%88%D0%BD%D1%8F.%20%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA%20%D0%A0%D0%B0%D1%83%D1%88%D0%B5%D0%BD%20%281908%29.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=20.15,54.95&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.95,20.15"
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA&ll=20.15,54.95&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Svetlogorsk%2C%20Kaliningrad%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -367,7 +372,8 @@
       "daytrip"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "kaliningrad-baltiysk",
@@ -411,8 +417,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9C%D0%B0%D1%8F%D0%BA.%20%D0%91%D0%B0%D0%BB%D1%82%D0%B8%D0%B9%D1%81%D0%BA.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=19.9167,54.65&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.65,19.9167"
+      "yandex": "https://yandex.com/maps/?text=%D0%91%D0%B0%D0%BB%D1%82%D0%B8%D0%B9%D1%81%D0%BA%20%28%D0%9F%D0%B8%D0%BB%D0%BB%D0%B0%D1%83%29&ll=19.9167,54.65&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Baltiysk%2C%20Kaliningrad%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -430,7 +436,8 @@
       "daytrip"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "kaliningrad-fort-no-5",
@@ -474,8 +481,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%A4%D0%BE%D1%80%D1%82%20%E2%84%96%205%2C%20%D0%BC%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%BB%D0%B8%D1%82%D0%B0.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=20.442872,54.752639&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.752639,20.442872"
+      "yandex": "https://yandex.com/maps/?text=%D0%A4%D0%BE%D1%80%D1%82%20%E2%84%965%20%C2%AB%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D1%8C%20%D0%A4%D1%80%D0%B8%D0%B4%D1%80%D0%B8%D1%85-%D0%92%D0%B8%D0%BB%D1%8C%D0%B3%D0%B5%D0%BB%D1%8C%D0%BC%20III%C2%BB&ll=20.442872,54.752639&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Fort%20No.%205%20%28King%20Friedrich%20Wilhelm%20III%29%2C%20Kaliningrad%2C%20Russia"
     },
     "official_site": "https://koihm.ru/filialy/muzej-fort-5/",
     "sources": [
@@ -493,6 +500,7 @@
       "outdoor"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   }
 ]

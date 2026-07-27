@@ -40,8 +40,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D1%83%D0%B3%D0%B0%D1%87%D1%91%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B3%D1%80%D0%BE%D1%82%20%D0%BD%D0%B0%20%D0%BE%D0%B7%D0%B5%D1%80%D0%B5%20%D0%A2%D1%83%D1%80%D0%B3%D0%BE%D1%8F%D0%BA.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=60.067,55.15&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=55.15,60.067"
+      "yandex": "https://yandex.com/maps/?text=%D0%9E%D0%B7%D0%B5%D1%80%D0%BE%20%D0%A2%D1%83%D1%80%D0%B3%D0%BE%D1%8F%D0%BA&ll=60.067,55.15&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Lake%20Turgoyak%2C%20Chelyabinsk%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -58,7 +58,8 @@
       "clear water"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "chelyabinsk-taganay-national-park",
@@ -101,8 +102,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%A2%D0%B0%D0%B3%D0%B0%D0%BD%D0%B0%D0%B9%2C%20%D0%9E%D1%82%D0%BA%D0%BB%D0%B8%D0%BA%D0%BD%D0%BE%D0%B9%20%D0%93%D1%80%D0%B5%D0%B1%D0%B5%D0%BD%D1%8C.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=59.731585,55.221313&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=55.221313,59.731585"
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%B0%D1%80%D0%BA%20%C2%AB%D0%A2%D0%B0%D0%B3%D0%B0%D0%BD%D0%B0%D0%B9%C2%BB&ll=59.731585,55.221313&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Taganay%20National%20Park%2C%20Chelyabinsk%2C%20Russia"
     },
     "official_site": "https://taganay.org",
     "sources": [
@@ -119,7 +120,8 @@
       "trekking"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "chelyabinsk-zyuratkul-national-park",
@@ -162,8 +164,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Zyuratkul%20National%20Park%2C%20Chelyabinsk%20Region%2C%20Russia.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=59.2,54.9167&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.9167,59.2"
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%B0%D1%80%D0%BA%20%C2%AB%D0%97%D1%8E%D1%80%D0%B0%D1%82%D0%BA%D1%83%D0%BB%D1%8C%C2%BB&ll=59.2,54.9167&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Zyuratkul%20National%20Park%2C%20Chelyabinsk%2C%20Russia"
     },
     "official_site": "https://zuratkul.ru",
     "sources": [
@@ -180,7 +182,8 @@
       "mountains"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "chelyabinsk-arkaim",
@@ -225,8 +228,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Arkaim%20plane.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=59.571111,52.649167&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=52.649167,59.571111"
+      "yandex": "https://yandex.com/maps/?text=%D0%90%D1%80%D0%BA%D0%B0%D0%B8%D0%BC&ll=59.571111,52.649167&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Arkaim%2C%20Chelyabinsk%2C%20Russia"
     },
     "official_site": "https://arkaim-center.ru",
     "sources": [
@@ -243,7 +246,8 @@
       "museum reserve"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "chelyabinsk-ignatievskaya-cave",
@@ -282,8 +286,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Russia%20Ignateva%20Cave%20Figure.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=57.7815,54.90045&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.90045,57.7815"
+      "yandex": "https://yandex.com/maps/?text=%D0%98%D0%B3%D0%BD%D0%B0%D1%82%D1%8C%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0&ll=57.7815,54.90045&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Ignatievskaya%20Cave%2C%20Chelyabinsk%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -300,7 +304,8 @@
       "natural monument"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "chelyabinsk-chelyabinsk-meteorite-museum",
@@ -343,8 +348,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Chelyabinsk%20meteorite%20Historical%20Museum%201.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=61.397669,55.168303&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=55.168303,61.397669"
+      "yandex": "https://yandex.com/maps/?text=%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%20%D0%AE%D0%B6%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%A3%D1%80%D0%B0%D0%BB%D0%B0%20%28%D0%BC%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%82%20%C2%AB%D0%A7%D0%B5%D0%BB%D1%8F%D0%B1%D0%B8%D0%BD%D1%81%D0%BA%C2%BB%29&ll=61.397669,55.168303&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=State%20Historical%20Museum%20of%20the%20Southern%20Urals%20%28Chelyabinsk%20meteorite%29%2C%20Russia"
     },
     "official_site": "https://chelmuseum.ru",
     "sources": [
@@ -361,7 +366,8 @@
       "local history"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "chelyabinsk-zlatoust-mountain-park-bazhov",
@@ -405,8 +411,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=59.672425,55.173113&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=55.173113,59.672425"
+      "yandex": "https://yandex.com/maps/?text=%D0%93%D0%BE%D1%80%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%B0%D1%80%D0%BA%20%D0%B8%D0%BC.%20%D0%9F.%20%D0%9F.%20%D0%91%D0%B0%D0%B6%D0%BE%D0%B2%D0%B0&ll=59.672425,55.173113&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Bazhov%20Mountain%20Park%20%28Zlatoust%29%2C%20Chelyabinsk%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -423,7 +429,8 @@
       "viewpoint"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "chelyabinsk-sugomak-cave-kyshtym",
@@ -466,8 +473,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%A1%D1%83%D0%B3%D0%BE%D0%BC%D0%B0%D0%BA%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0.%20%D0%92%D0%B8%D0%B4%20%D0%BD%D0%B0%20%D0%B2%D1%85%D0%BE%D0%B4%20%D0%B8%D0%B7%20%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D1%8B.%20%D0%97%D0%B8%D0%BC%D0%B0.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=60.460367,55.714967&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=55.714967,60.460367"
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D1%83%D0%B3%D0%BE%D0%BC%D0%B0%D0%BA%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0&ll=60.460367,55.714967&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Sugomak%20Cave%2C%20Chelyabinsk%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -484,6 +491,7 @@
       "natural monument"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   }
 ]

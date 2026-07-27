@@ -10,6 +10,7 @@
       "id": { "type": "string", "description": "Định danh duy nhất: <region>-<slug>. Ví dụ: saint-petersburg-hermitage" },
       "slug": { "type": "string", "description": "Định danh ngắn trong vùng, không dấu, dùng gạch nối" },
       "region": { "type": "string", "description": "Slug vùng, trùng tên file. Ví dụ: saint-petersburg" },
+      "country": { "type": "string", "enum": ["russia", "vietnam"], "description": "Quốc gia (mặc định 'russia' nếu trống). Dùng để lọc theo nước & mở rộng đa quốc gia." },
       "region_name_vi": { "type": "string" },
       "federal_district": { "type": "string", "description": "Vùng liên bang (VI). Ví dụ: Vùng Tây Bắc" },
       "name_vi": { "type": "string", "description": "Tên tiếng Việt (kèm phiên âm)" },
@@ -39,7 +40,13 @@
       "review_summary_vi": { "type": "string", "description": "Tóm tắt bình luận du khách (VI), viết mới từ nhận xét thực tế" },
       "presentation_short_vi": { "type": "string", "description": "Thuyết trình ngắn 2–3 câu (cho TTS nhanh)" },
       "presentation_long_vi": { "type": "string", "description": "Thuyết trình chi tiết, hấp dẫn, ~180–260 từ (cho TTS nghe kỹ)" },
+      "presentation_short_en": { "type": "string", "description": "EN — short intro (2–3 sentences) for foreign visitors" },
+      "presentation_long_en": { "type": "string", "description": "EN — detailed presentation (~180–260 words)" },
+      "presentation_short_ru": { "type": "string", "description": "RU — краткое описание (2–3 предложения)" },
+      "presentation_long_ru": { "type": "string", "description": "RU — подробное описание (~180–260 слов)" },
       "highlights_vi": { "type": "array", "items": { "type": "string" }, "description": "3 điểm nhấn/dữ kiện thú vị" },
+      "highlights_en": { "type": "array", "items": { "type": "string" }, "description": "EN — 3 highlights" },
+      "highlights_ru": { "type": "array", "items": { "type": "string" }, "description": "RU — 3 факта/особенности" },
       "practical": {
         "type": "object",
         "properties": {

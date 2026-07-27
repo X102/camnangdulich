@@ -4,6 +4,11 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>Bản đồ GIS &amp; Lập kế hoạch tour · Du lịch Nga</title>
+<meta name="description" content="Bản đồ GIS du lịch Nga & Việt Nam: lọc địa điểm, lập lộ trình tour theo ngày, ước tính chi phí, nghe thuyết minh đa ngôn ngữ." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Bản đồ GIS &amp; Lập kế hoạch tour · Cẩm nang Du lịch Nga" />
+<meta property="og:description" content="Lọc địa điểm trên bản đồ, tự lập lộ trình theo ngày, ước tính chi phí đoàn và nghe thuyết minh (VI/EN/RU)." />
+<meta property="og:image" content="assets/vendor/images/marker-icon-2x.png" />
 <link rel="stylesheet" href="assets/vendor/leaflet.css" />
 <link rel="stylesheet" href="assets/vendor/MarkerCluster.css" />
 <link rel="stylesheet" href="assets/vendor/MarkerCluster.Default.css" />
@@ -24,6 +29,24 @@
   .rt-pin .pin span { transform: rotate(45deg); font-size: 14px; }
   .leaflet-tooltip.rt-label { background: rgba(255,255,255,.92); border: 1px solid var(--line); border-radius: 6px; box-shadow: 0 1px 4px rgba(0,0,0,.2); color: var(--navy); font-weight: 600; font-size: 11.5px; padding: 2px 7px; white-space: nowrap; }
   .leaflet-tooltip.rt-label:before { display: none; }
+  /* Nhãn chủ quyền Việt Nam — Hoàng Sa & Trường Sa (cố định, nổi bật, KHÔNG thể ẩn) */
+  .leaflet-tooltip.vn-island-label { background: rgba(196,30,58,.94); color: #fff; font-weight: 800; font-size: 12.5px; line-height: 1.25; padding: 3px 10px; border: 1.5px solid #ffcd00; border-radius: 9px; box-shadow: 0 2px 10px rgba(0,0,0,.4); white-space: nowrap; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Noto Sans",Arial,sans-serif; opacity: 1 !important; }
+  .leaflet-tooltip.vn-island-label:before { display: none; }
+  .vn-island-label .vn-flag { margin-right: 4px; }
+  .vn-island-label .vn-sov { font-weight: 700; opacity: .96; }
+  .vn-island-dot span { display: block; width: 10px; height: 10px; border-radius: 50%; background: #ffcd00; border: 2px solid #c41e3a; box-shadow: 0 0 0 1.5px #fff; }
+  .coord-readout { position: absolute; left: 50%; transform: translateX(-50%); top: 8px; z-index: 650; background: rgba(21,44,78,.9); color: #fff; font-size: 11.5px; font-weight: 600; padding: 4px 10px; border-radius: 7px; pointer-events: none; font-family: ui-monospace,Menlo,Consolas,monospace; letter-spacing: .02em; box-shadow: 0 2px 8px rgba(0,0,0,.25); }
+  .coord-readout:empty { display: none; }
+  .tools-row { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
+  .tool-btn.active, .base-btn.active { background: var(--navy); color: #fff; border-color: var(--navy); }
+  .tool-out { margin-top: 8px; }
+  .tool-hint { font-size: 12px; color: var(--muted); }
+  .tool-res { font-size: 13px; background: #f6f7fb; border: 1px solid var(--line); border-radius: 8px; padding: 7px 9px; line-height: 1.5; }
+  .cp .cp-row { display: flex; gap: 5px; flex-wrap: wrap; margin-top: 6px; }
+  .vn-feat-label { background: rgba(255,255,255,.96); color: #152c4e; font-weight: 700; font-size: 11px; padding: 2px 7px; border: 1px solid #c8a24b; border-radius: 6px; box-shadow: 0 1px 4px rgba(0,0,0,.28); white-space: nowrap; opacity: 1 !important; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Noto Sans",Arial,sans-serif; }
+  .vn-feat-label:before { display: none; }
+  .vn-feat-dot span { display: block; width: 6px; height: 6px; border-radius: 50%; background: #c41e3a; box-shadow: 0 0 0 1.5px #fff; }
+  #map.hide-feats .vn-feat-label, #map.hide-feats .vn-feat-dot { display: none !important; }
   .leaflet-popup-content { margin: 12px 14px; font-family: inherit; }
   .pop h4 { margin: 0 0 4px; font-size: 15px; }
   .pop .sub { color: var(--muted); font-size: 11.5px; margin-bottom: 6px; }
@@ -81,6 +104,48 @@
     .detail-panel { width: 100%; max-width: 100%; z-index: 1700; }
     .mini-legend { bottom: 80px; left: 10px; font-size: 11px; max-width: 148px; padding: 7px 9px; }
   }
+  /* Language switcher (header) */
+  .lang-switch { display: flex; gap: 6px; }
+  .lang-chip {
+    display: inline-flex; align-items: center; gap: 5px; cursor: pointer;
+    border: 1.5px solid rgba(255,255,255,.28); background: rgba(255,255,255,.08);
+    color: #fff; padding: 7px 12px; border-radius: 999px; font-size: 13px; font-weight: 700;
+    line-height: 1; transition: .15s; font-family: inherit;
+  }
+  .lang-chip:hover { background: rgba(255,255,255,.18); }
+  .lang-chip.active { background: var(--gold); color: #241c05; border-color: var(--gold); }
+  /* Country control */
+  .ctry-label { display: block; font-size: 12px; font-weight: 700; color: var(--navy); margin: 0 0 4px; }
+  /* Search suggestions */
+  .q-wrap { position: relative; margin-bottom: 10px; }
+  .q-suggest {
+    display: none; position: absolute; left: 0; right: 0; top: calc(100% + 3px);
+    background: #fff; border: 1px solid var(--line); border-radius: 10px;
+    box-shadow: 0 10px 26px rgba(0,0,0,.18); z-index: 1800; max-height: 280px; overflow-y: auto;
+  }
+  .q-suggest .sug-item {
+    display: flex; align-items: center; gap: 8px; padding: 10px 12px; cursor: pointer;
+    border-bottom: 1px solid var(--line); font-size: 13.5px; min-height: 40px;
+  }
+  .q-suggest .sug-item:last-child { border-bottom: none; }
+  .q-suggest .sug-item:hover { background: #f0f4fa; }
+  .q-suggest .sug-name { color: var(--navy); font-weight: 600; }
+  /* Collapsible legend */
+  .mini-legend .lg-head { display: flex; align-items: center; justify-content: space-between; gap: 12px; cursor: pointer; font-weight: 700; }
+  .mini-legend .lg-tog { color: var(--muted); font-weight: 700; }
+  .mini-legend .lg-body { margin-top: 5px; }
+  /* Tour cost estimate */
+  .cost-panel { background: #fff; border: 1px solid var(--line); border-radius: 10px; padding: 9px 10px; margin: 8px 0; }
+  .cost-panel .cost-title { font-weight: 700; font-size: 12.5px; color: var(--navy); margin-bottom: 7px; }
+  .cost-panel .cost-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 7px 8px; }
+  .cost-panel label { display: flex; flex-direction: column; gap: 3px; font-size: 11.5px; color: var(--muted); font-weight: 600; }
+  .cost-panel .cost-hotel-toggle { flex-direction: row; align-items: center; gap: 6px; }
+  .cost-panel input[type=number] { border: 1px solid var(--line); border-radius: 8px; padding: 7px 8px; font-family: inherit; font-size: 13px; width: 100%; }
+  .cost-panel input[type=checkbox] { width: 16px; height: 16px; cursor: pointer; }
+  .cost-out { margin-top: 8px; font-size: 12.5px; color: var(--ink); background: #f0f4fa; border-radius: 8px; padding: 8px 9px; }
+  @media (max-width: 640px) {
+    .lang-chip { padding: 9px 13px; font-size: 13.5px; }
+  }
 </style>
 </head>
 <body>
@@ -92,6 +157,7 @@
       <a href="list.html">Danh sách</a>
       <a href="gis.html" class="active">Bản đồ GIS</a>
     </div>
+    <div class="lang-switch" id="langSwitch"></div>
   </nav>
 </header>
 
@@ -100,7 +166,12 @@
     <div class="drawer-close" id="drawerClose"><span>🧭 Bộ lọc &amp; lộ trình</span><button aria-label="Đóng">✕</button></div>
     <div class="sec">
       <h3>🔎 Lọc địa điểm</h3>
-      <input type="search" id="q" placeholder="Tìm theo tên…" style="width:100%;border:1px solid var(--line);border-radius:10px;padding:8px 12px;font-family:inherit;margin-bottom:10px;" />
+      <label class="ctry-label" for="country">🌍 Quốc gia</label>
+      <select id="country" style="width:100%;border:1px solid var(--line);border-radius:10px;padding:8px 12px;font-family:inherit;margin-bottom:10px;"><option value="">Tất cả</option></select>
+      <div class="q-wrap">
+        <input type="search" id="q" placeholder="Tìm theo tên…" autocomplete="off" style="width:100%;border:1px solid var(--line);border-radius:10px;padding:8px 12px;font-family:inherit;" />
+        <div class="q-suggest" id="qSuggest"></div>
+      </div>
       <select id="region" style="width:100%;border:1px solid var(--line);border-radius:10px;padding:8px 12px;font-family:inherit;margin-bottom:10px;"><option value="">Tất cả vùng</option></select>
       <div style="font-size:12px;" class="muted">Đánh giá tối thiểu: <b id="starVal">0</b>★</div>
       <input type="range" id="minStar" class="rng" min="0" max="5" step="0.5" value="0" />
@@ -109,9 +180,35 @@
     </div>
 
     <div class="sec">
+      <h3>🗺️ Công cụ bản đồ</h3>
+      <div class="tools-row">
+        <button class="btn sm tool-btn" id="toolCoord">📍 Lấy toạ độ</button>
+        <button class="btn sm tool-btn" id="toolMeasure">📏 Đo khoảng cách</button>
+      </div>
+      <div class="tools-row" style="margin-top:6px;">
+        <span class="muted" style="font-size:12px;">Nền:</span>
+        <button class="btn sm base-btn active" id="baseStreetsBtn">🗺️ Đường phố</button>
+        <button class="btn sm base-btn" id="baseSatBtn">🛰️ Vệ tinh</button>
+      </div>
+      <div id="toolOut" class="tool-out"></div>
+      <div class="muted" style="font-size:11.5px;margin-top:8px;line-height:1.5;">🇻🇳 <b>Hoàng Sa</b> &amp; <b>Trường Sa</b>: tên các đảo/bãi đúng chuẩn Việt Nam được gắn đè lên nhãn sai của bản đồ nền (phóng gần để hiện chi tiết). Nhãn chủ quyền luôn hiển thị.</div>
+    </div>
+
+    <div class="sec">
       <h3>🧭 Kế hoạch tour <span class="muted" style="font-weight:400;font-size:12px;">(<span id="tourCount">0</span> điểm)</span></h3>
       <div id="tourList"><div class="tour-empty">Bấm “➕ Thêm vào tour” trên bản đồ để tạo lịch trình.</div></div>
       <div id="tourStat"></div>
+      <div id="costPanel" class="cost-panel">
+        <div class="cost-title">💰 Ước tính chi phí đoàn</div>
+        <div class="cost-grid">
+          <label>Số khách<input type="number" id="costPax" min="1" step="1" value="4" /></label>
+          <label>Ăn/ngày ₽<input type="number" id="costFood" min="0" step="100" value="1500" /></label>
+          <label>Đi lại nội đô/ngày ₽<input type="number" id="costLocal" min="0" step="100" value="800" /></label>
+          <label class="cost-hotel-toggle"><input type="checkbox" id="costHotelOn" checked /> Gồm khách sạn</label>
+          <label>Khách sạn/đêm ₽<input type="number" id="costHotel" min="0" step="500" value="6000" /></label>
+        </div>
+        <div id="costOut" class="cost-out"></div>
+      </div>
       <div style="display:flex;gap:6px;flex-wrap:wrap;margin-top:8px;">
         <label class="muted" style="font-size:12px;display:flex;align-items:center;gap:4px;">Điểm/ngày
           <input type="number" id="perDay" min="1" max="10" value="4" style="width:52px;border:1px solid var(--line);border-radius:8px;padding:3px 6px;" />
@@ -135,6 +232,7 @@
   <div class="map-wrap">
     <div id="map"></div>
     <div class="mini-legend" id="legend"></div>
+    <div class="coord-readout" id="coordReadout"></div>
     <div class="detail-panel" id="detailPanel"></div>
   </div>
 </div>
@@ -161,12 +259,115 @@
   var markers = {};          // id -> marker
   var routeLayer = null;
   var labelsOn = false;      // hiện tên trên bản đồ
+  var currentDetailId = null; // id đang mở ở panel chi tiết (để render lại khi đổi ngôn ngữ)
+  var legendOpen = window.innerWidth > 820; // chú giải: mở khi màn rộng, thu gọn khi hẹp
+
+  // Bản đồ quốc gia (dùng meta nếu có; nếu chưa có thì tự suy ra từ dữ liệu — mặc định 'russia')
+  var COUNTRY_NAMES = Object.assign({ russia: "Nga", vietnam: "Việt Nam" }, meta.country_names || {});
+  var COUNTRIES = meta.countries;
+  if (!COUNTRIES || !Object.keys(COUNTRIES).length) {
+    COUNTRIES = {};
+    places.forEach(function (p) { var c = p.country || "russia"; COUNTRIES[c] = (COUNTRIES[c] || 0) + 1; });
+  }
 
   var center = meta.center || [59.93, 30.33];
   var map = L.map("map", { zoomControl: true }).setView(center, 11);
-  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+  // ===== Lớp nền: Đường phố (OSM) & Vệ tinh (Esri) — có thể chuyển =====
+  var baseStreets = L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
     maxZoom: 19, attribution: "&copy; OpenStreetMap"
-  }).addTo(map);
+  });
+  var baseSat = L.tileLayer("https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}", {
+    maxZoom: 19, attribution: "Tiles &copy; Esri — World Imagery"
+  });
+  baseStreets.addTo(map);
+  var curBase = "streets";
+  function setBase(kind) {
+    if (kind === curBase) return;
+    if (kind === "sat") { map.removeLayer(baseStreets); baseSat.addTo(map); }
+    else { map.removeLayer(baseSat); baseStreets.addTo(map); }
+    curBase = kind;
+    // nền đổi: nhãn chủ quyền & tên đảo nằm ở pane trên nên vẫn giữ nguyên, không cần vẽ lại
+  }
+
+  // (Đã bỏ lớp che khối lớn — thay bằng nhãn tên đảo ĐÚNG của Việt Nam đặt đè lên đúng
+  //  vị trí từng đảo/bãi, chỉ che nhãn sai của bản đồ nền tại điểm đó. Xem drawVNFeatures bên dưới.)
+
+  /* ===== CHỦ QUYỀN VIỆT NAM — nhãn CỐ ĐỊNH, luôn hiển thị ở MỌI ngôn ngữ & MỌI tỉ lệ, KHÔNG thể ẩn/tắt =====
+     Quần đảo Hoàng Sa & Trường Sa thuộc chủ quyền Việt Nam. Nhãn nằm trên pane riêng zIndex cao,
+     thêm thẳng vào bản đồ — KHÔNG chịu bộ lọc, KHÔNG có nút tắt, không bị ẩn theo độ phóng. */
+  map.createPane("vnSovereignty");
+  map.getPane("vnSovereignty").style.zIndex = 1200;
+  map.getPane("vnSovereignty").style.pointerEvents = "none";
+  var VN_ISLANDS = [
+    { key: "hoangsa",  lat: 16.50, lon: 112.00,
+      vi: "Quần đảo Hoàng Sa", en: "Hoàng Sa (Paracel Islands)", ru: "Хоангша (Парасельские о-ва)" },
+    { key: "truongsa", lat: 9.70,  lon: 114.00,
+      vi: "Quần đảo Trường Sa", en: "Trường Sa (Spratly Islands)", ru: "Чыонгша (Спратли)" }
+  ];
+  var VN_SOV = { vi: "Việt Nam", en: "Việt Nam", ru: "Вьетнам" };
+  var _vnIslandMarkers = [];
+  function _vnIslandLabel(isl) {
+    var lang = RT.getLang();
+    var name = isl[lang] || isl.vi;
+    return '<span class="vn-flag">🇻🇳</span>' + RT.escapeHtml(name) +
+           ' <span class="vn-sov">· ' + (VN_SOV[lang] || VN_SOV.vi) + '</span>';
+  }
+  function drawVNIslands() {
+    _vnIslandMarkers.forEach(function (m) { try { map.removeLayer(m); } catch (e) {} });
+    _vnIslandMarkers = [];
+    VN_ISLANDS.forEach(function (isl) {
+      var m = L.marker([isl.lat, isl.lon], {
+        pane: "vnSovereignty", interactive: false, keyboard: false,
+        icon: L.divIcon({ className: "vn-island-dot", html: "<span></span>", iconSize: [14, 14], iconAnchor: [7, 7] })
+      }).addTo(map);
+      m.bindTooltip(_vnIslandLabel(isl), {
+        permanent: true, direction: "top", offset: [0, -6],
+        pane: "vnSovereignty", interactive: false, className: "vn-island-label"
+      }).openTooltip();
+      _vnIslandMarkers.push(m);
+    });
+  }
+  drawVNIslands();
+
+  // ===== Tên các đảo/bãi ĐÚNG của Việt Nam — nhãn opaque đặt ĐÈ lên nhãn sai của bản đồ nền tại từng điểm.
+  //       Toạ độ tra từ Wikipedia (Hoàng Sa) & trang từng thực thể (Trường Sa). Hiện khi phóng gần (zoom ≥ 7). =====
+  var VN_FEATURES = [
+    { g: "hs", vi: "Đảo Phú Lâm",       lat: 16.833, lon: 112.333 },
+    { g: "hs", vi: "Đảo Hoàng Sa",      lat: 16.534, lon: 111.607 },
+    { g: "hs", vi: "Đảo Tri Tôn",       lat: 15.783, lon: 111.200 },
+    { g: "hs", vi: "Đảo Linh Côn",      lat: 16.667, lon: 112.733 },
+    { g: "hs", vi: "Đảo Quang Hòa",     lat: 16.451, lon: 111.713 },
+    { g: "hs", vi: "Đảo Hữu Nhật",      lat: 16.506, lon: 111.585 },
+    { g: "ts", vi: "Đảo Trường Sa Lớn", lat: 8.640,  lon: 111.919 },
+    { g: "ts", vi: "Đảo Song Tử Tây",   lat: 11.433, lon: 114.333 },
+    { g: "ts", vi: "Đảo Nam Yết",       lat: 10.183, lon: 114.367 },
+    { g: "ts", vi: "Đảo Sinh Tồn",      lat: 9.885,  lon: 114.330 },
+    { g: "ts", vi: "Đảo Sơn Ca",        lat: 10.383, lon: 114.467 },
+    { g: "ts", vi: "Đá Chữ Thập",       lat: 9.549,  lon: 112.889 },
+    { g: "ts", vi: "Đảo Ba Bình",       lat: 10.377, lon: 114.365 },
+    { g: "ts", vi: "Đảo Thị Tứ",        lat: 11.053, lon: 114.285 }
+  ];
+  var _vnFeatMarkers = [];
+  function drawVNFeatures() {
+    _vnFeatMarkers.forEach(function (m) { try { map.removeLayer(m); } catch (e) {} });
+    _vnFeatMarkers = [];
+    VN_FEATURES.forEach(function (f) {
+      var m = L.marker([f.lat, f.lon], {
+        pane: "vnSovereignty", interactive: false, keyboard: false,
+        icon: L.divIcon({ className: "vn-feat-dot", html: "<span></span>", iconSize: [8, 8], iconAnchor: [4, 4] })
+      }).addTo(map);
+      m.bindTooltip(f.vi, { permanent: true, direction: "center", pane: "vnSovereignty", interactive: false, className: "vn-feat-label" }).openTooltip();
+      _vnFeatMarkers.push(m);
+    });
+  }
+  function applyFeatZoom() {
+    var el = document.getElementById("map");
+    if (el) el.classList.toggle("hide-feats", map.getZoom() < 7);
+  }
+  drawVNFeatures();
+  applyFeatZoom();
+  map.on("zoomend", applyFeatZoom);
+
   var cluster = (typeof L.markerClusterGroup === "function")
     ? L.markerClusterGroup({ maxClusterRadius: 45, spiderfyOnMaxZoom: true })
     : L.layerGroup();
@@ -186,15 +387,15 @@
     var inTour = tour.indexOf(p.id) >= 0;
     return '<div class="pop">' +
       (p.photo ? '<img class="pop-photo" src="' + p.photo + '" onerror="this.style.display=\'none\'" />' : '') +
-      '<h4>' + RT.escapeHtml(p.name_vi) + '</h4>' +
+      '<h4>' + RT.escapeHtml(RT.t(p, "name")) + '</h4>' +
       '<div class="sub">' + RT.escapeHtml(p.name_ru || "") + '</div>' +
       '<div>' + RT.starHTML(rt.value) + (rt.value != null ? ' <b>' + rt.value + '</b>' : '') +
         (rt.count != null ? ' <span class="muted">(' + RT.fmtCount(rt.count) + ')</span>' : '') + '</div>' +
-      '<div style="font-size:12.5px;margin-top:6px;">' + RT.escapeHtml(p.presentation_short_vi || "") + '</div>' +
+      '<div style="font-size:12.5px;margin-top:6px;">' + RT.escapeHtml(RT.t(p, "presentation_short")) + '</div>' +
       '<div class="pop-actions">' +
-        '<button class="btn sm gold" onclick="RTGIS.speak(\'' + p.id + '\')">🔊 Nghe</button>' +
-        '<button class="btn sm" onclick="RTGIS.detail(\'' + p.id + '\')">📖 Chi tiết</button>' +
-        '<button class="btn sm ' + (inTour ? "primary" : "") + '" onclick="RTGIS.toggleTour(\'' + p.id + '\')">' + (inTour ? "✓ Trong tour" : "➕ Thêm vào tour") + '</button>' +
+        '<button class="btn sm gold" onclick="RTGIS.speak(\'' + p.id + '\')">' + RT.uiText("listen") + '</button>' +
+        '<button class="btn sm" onclick="RTGIS.detail(\'' + p.id + '\')">' + RT.uiText("detail") + '</button>' +
+        '<button class="btn sm ' + (inTour ? "primary" : "") + '" onclick="RTGIS.toggleTour(\'' + p.id + '\')">' + (inTour ? RT.uiText("inTour") : RT.uiText("addTour")) + '</button>' +
       '</div>' +
       '<div class="pop-actions">' +
         (p.maps && p.maps.yandex ? '<a class="btn sm" href="' + p.maps.yandex + '" target="_blank" rel="noopener">📍 Yandex</a>' : '') +
@@ -214,14 +415,16 @@
 
   function passFilter(p) {
     var q = (document.getElementById("q").value || "").trim().toLowerCase();
+    var country = document.getElementById("country").value;
     var region = document.getElementById("region").value;
     var minStar = parseFloat(document.getElementById("minStar").value) || 0;
     var catKeys = Object.keys(activeCats);
+    if (country && (p.country || "russia") !== country) return false;
     if (region && p.region !== region) return false;
     if (minStar && ((p.rating || {}).value || 0) < minStar) return false;
     if (catKeys.length && !(p.categories || []).some(function (c) { return activeCats[c]; })) return false;
     if (q) {
-      var hay = [p.name_vi, p.name_ru, p.name_en, p.presentation_short_vi].join(" ").toLowerCase();
+      var hay = [RT.t(p, "name"), p.name_vi, p.name_ru, p.name_en, RT.t(p, "presentation_short")].join(" ").toLowerCase();
       if (hay.indexOf(q) < 0) return false;
     }
     return true;
@@ -235,7 +438,7 @@
       if (!passFilter(p)) return;
       var m = L.marker([p.coordinates.lat, p.coordinates.lon], { icon: makeIcon(p) });
       m.bindPopup(popupHTML(p), { minWidth: 240, maxWidth: 260 });
-      if (labelsOn) m.bindTooltip(p.name_vi, { permanent: true, direction: "right", offset: [10, -10], className: "rt-label" });
+      if (labelsOn) m.bindTooltip(RT.t(p, "name"), { permanent: true, direction: "right", offset: [10, -10], className: "rt-label" });
       markers[p.id] = m;
       cluster.addLayer(m);
       shown++;
@@ -251,7 +454,7 @@
     document.getElementById("tourCount").textContent = tour.length;
     var wrap = document.getElementById("tourList");
     var tp = tourPlaces();
-    if (!tp.length) { wrap.innerHTML = '<div class="tour-empty">Bấm “➕ Thêm vào tour” trên bản đồ để tạo lịch trình.</div>'; document.getElementById("tourStat").innerHTML = ""; drawRoute(); return; }
+    if (!tp.length) { wrap.innerHTML = '<div class="tour-empty">Bấm “➕ Thêm vào tour” trên bản đồ để tạo lịch trình.</div>'; document.getElementById("tourStat").innerHTML = ""; drawRoute(); computeCost(); return; }
     var perDay = Math.max(1, parseInt(document.getElementById("perDay").value) || 4);
     var html = "";
     tp.forEach(function (p, i) {
@@ -261,7 +464,7 @@
         { lat: p.coordinates.lat, lon: p.coordinates.lon }).toFixed(1) + " km" : "";
       html += '<div class="tour-item">' +
         '<div class="idx' + (i % perDay === 0 ? " day" : "") + '" title="Ngày ' + day + '">' + (i + 1) + '</div>' +
-        '<div style="flex:1;"><div><b>' + RT.escapeHtml(p.name_vi) + '</b></div>' +
+        '<div style="flex:1;"><div><b>' + RT.escapeHtml(RT.t(p, "name")) + '</b></div>' +
         '<div class="muted" style="font-size:11.5px;">Ngày ' + day + (segd ? ' · cách điểm trước ' + segd : '') + ' · ' + ((p.practical || {}).duration_vi || "") + '</div></div>' +
         '<button class="btn sm" onclick="RTGIS.toggleTour(\'' + p.id + '\')" title="Bỏ">✕</button>' +
       '</div>';
@@ -273,6 +476,28 @@
     document.getElementById("tourStat").innerHTML =
       '<div class="tour-stat">🧮 <b>' + tp.length + '</b> điểm · <b>' + days + '</b> ngày · quãng đường (đường chim bay) <b>' + totalKm.toFixed(1) + ' km</b><br>⏱️ Tổng thời gian tham quan ~<b>' + totalVisit.toFixed(1) + ' giờ</b> <span class="muted">(chưa gồm di chuyển)</span></div>';
     drawRoute();
+    computeCost();
+  }
+  /* ---------- Ước tính chi phí đoàn ---------- */
+  function computeCost() {
+    var out = document.getElementById("costOut");
+    if (!out) return;
+    var tp = tourPlaces();
+    var perDay = Math.max(1, parseInt(document.getElementById("perDay").value) || 4);
+    var days = Math.ceil(tp.length / perDay);
+    if (!tp.length || !days) { out.innerHTML = '<span class="muted">Thêm điểm vào tour để ước tính chi phí.</span>'; return; }
+    var pax = Math.max(1, parseInt(document.getElementById("costPax").value) || 1);
+    var food = Math.max(0, parseFloat(document.getElementById("costFood").value) || 0);
+    var local = Math.max(0, parseFloat(document.getElementById("costLocal").value) || 0);
+    var hotelOn = document.getElementById("costHotelOn").checked;
+    var hotel = Math.max(0, parseFloat(document.getElementById("costHotel").value) || 0);
+    var estimate = days * (food + local) * pax + (hotelOn ? days * hotel : 0);
+    var vnd = Math.round(estimate * 337);
+    var perPax = Math.round(estimate / pax);
+    out.innerHTML =
+      'Ước tính chi phí đoàn: <b>' + estimate.toLocaleString() + ' ₽</b> ' +
+      '<span class="muted">(~' + vnd.toLocaleString() + ' ₫)</span> · ~<b>' + perPax.toLocaleString() + ' ₽/người</b>' +
+      '<div class="muted" style="font-size:11px;margin-top:2px;">' + days + ' ngày × ' + pax + ' khách' + (hotelOn ? ' · gồm khách sạn' : '') + '</div>';
   }
   function drawRoute() {
     if (routeLayer) { map.removeLayer(routeLayer); routeLayer = null; }
@@ -294,11 +519,12 @@
 
   /* ---------- API popup ---------- */
   window.RTGIS = {
+    focus: focusPlace,
     speak: function (id) {
       var p = places.filter(function (x) { return x.id === id; })[0];
       if (!p) return;
       if (RT.TTS.activeId === id) { RT.TTS.stop(); return; }
-      RT.TTS.speak(p.presentation_long_vi || p.presentation_short_vi, { id: id });
+      RT.TTS.speak(RT.t(p, "presentation_long") || RT.t(p, "presentation_short"), { id: id, lang: RT.getLang() });
     },
     toggleTour: function (id) {
       var i = tour.indexOf(id);
@@ -309,44 +535,63 @@
     detail: function (id) {
       var p = places.filter(function (x) { return x.id === id; })[0];
       if (!p) return;
+      currentDetailId = id;
       var pr = p.practical || {};
-      var hl = (p.highlights_vi || []).map(function (h) { return "<li>" + RT.escapeHtml(h) + "</li>"; }).join("");
+      var hl = RT.tArr(p, "highlights").map(function (h) { return "<li>" + RT.escapeHtml(h) + "</li>"; }).join("");
+      var reviewTxt = RT.t(p, "review_summary");
       var panel = document.getElementById("detailPanel");
       panel.innerHTML =
         '<button class="close" onclick="document.getElementById(\'detailPanel\').classList.remove(\'open\')">✕</button>' +
         (p.photo ? '<img src="' + p.photo + '" style="width:100%;height:170px;object-fit:cover;border-radius:10px;" onerror="this.style.display=\'none\'"/>' : '') +
-        '<h2>' + RT.escapeHtml(p.name_vi) + '</h2>' +
+        '<h2>' + RT.escapeHtml(RT.t(p, "name")) + '</h2>' +
         '<div class="muted" style="font-size:12.5px;">' + RT.escapeHtml(p.name_ru || "") + (p.name_en ? " · " + RT.escapeHtml(p.name_en) : "") + '</div>' +
         '<div style="margin:8px 0;">' + RT.starHTML((p.rating || {}).value) + ((p.rating || {}).value != null ? ' <b>' + p.rating.value + '</b>' : '') +
-          ((p.rating || {}).count != null ? ' <span class="muted">· ' + RT.fmtCount(p.rating.count) + ' đánh giá · ' + RT.escapeHtml(p.rating.source || "") + '</span>' : '') + '</div>' +
+          ((p.rating || {}).count != null ? ' <span class="muted">· ' + RT.fmtCount(p.rating.count) + ' · ' + RT.escapeHtml(p.rating.source || "") + '</span>' : '') + '</div>' +
         '<div style="display:flex;gap:6px;flex-wrap:wrap;margin-bottom:8px;">' +
-          '<button class="btn sm gold" onclick="RTGIS.speak(\'' + p.id + '\')">🎧 Nghe chi tiết</button>' +
+          '<button class="btn sm gold" onclick="RTGIS.speak(\'' + p.id + '\')">' + RT.uiText("listenLong") + '</button>' +
+          '<a class="btn sm" href="diem.html?id=' + encodeURIComponent(p.id) + '" target="_blank" rel="noopener">🔗 Trang riêng</a>' +
           (p.maps && p.maps.yandex ? '<a class="btn sm" href="' + p.maps.yandex + '" target="_blank" rel="noopener">📍 Yandex</a>' : '') +
           (p.maps && p.maps.google ? '<a class="btn sm" href="' + p.maps.google + '" target="_blank" rel="noopener">🗺️ Google</a>' : '') +
         '</div>' +
-        '<h4>Thuyết trình chi tiết</h4><p style="font-size:14px;">' + RT.escapeHtml(p.presentation_long_vi || "") + '</p>' +
-        (hl ? '<h4>Điểm nhấn</h4><ul style="font-size:13.5px;">' + hl + '</ul>' : '') +
-        '<h4>Thông tin tham quan</h4><div style="font-size:13.5px;line-height:1.7;">' +
-          (pr.hours_vi ? '<div>🕒 <b>Giờ:</b> ' + RT.escapeHtml(pr.hours_vi) + '</div>' : '') +
-          (pr.ticket_vi ? '<div>🎟️ <b>Vé:</b> ' + RT.escapeHtml(pr.ticket_vi) + '</div>' : '') +
-          (pr.duration_vi ? '<div>⏱️ <b>Thời lượng:</b> ' + RT.escapeHtml(pr.duration_vi) + '</div>' : '') +
-          (pr.best_time_vi ? '<div>🌤️ <b>Thời điểm đẹp:</b> ' + RT.escapeHtml(pr.best_time_vi) + '</div>' : '') +
-          (pr.tips_vi ? '<div>💡 <b>Mẹo:</b> ' + RT.escapeHtml(pr.tips_vi) + '</div>' : '') +
+        '<h4>' + RT.uiText("detailPres") + '</h4><p style="font-size:14px;">' + RT.escapeHtml(RT.t(p, "presentation_long")) + '</p>' +
+        (hl ? '<h4>' + RT.uiText("highlights") + '</h4><ul style="font-size:13.5px;">' + hl + '</ul>' : '') +
+        '<h4>' + RT.uiText("visitInfo") + '</h4><div style="font-size:13.5px;line-height:1.7;">' +
+          (pr.hours_vi ? '<div>🕒 <b>' + RT.uiText("hours") + ':</b> ' + RT.escapeHtml(pr.hours_vi) + '</div>' : '') +
+          (pr.ticket_vi ? '<div>🎟️ <b>' + RT.uiText("ticket") + ':</b> ' + RT.escapeHtml(pr.ticket_vi) + '</div>' : '') +
+          (pr.duration_vi ? '<div>⏱️ <b>' + RT.uiText("duration") + ':</b> ' + RT.escapeHtml(pr.duration_vi) + '</div>' : '') +
+          (pr.best_time_vi ? '<div>🌤️ <b>' + RT.uiText("bestTime") + ':</b> ' + RT.escapeHtml(pr.best_time_vi) + '</div>' : '') +
+          (pr.tips_vi ? '<div>💡 <b>' + RT.uiText("tips") + ':</b> ' + RT.escapeHtml(pr.tips_vi) + '</div>' : '') +
         '</div>' +
-        (p.review_summary_vi ? '<h4>Tóm tắt bình luận</h4><p style="font-size:13.5px;">' + RT.escapeHtml(p.review_summary_vi) + '</p>' : '') +
-        '<div style="margin-top:10px;"><button class="btn sm primary" onclick="RTGIS.toggleTour(\'' + p.id + '\')">➕ Thêm/bỏ khỏi tour</button></div>';
+        (reviewTxt ? '<h4>' + RT.uiText("reviews") + '</h4><p style="font-size:13.5px;">' + RT.escapeHtml(reviewTxt) + '</p>' : '') +
+        '<div style="margin-top:10px;"><button class="btn sm primary" onclick="RTGIS.toggleTour(\'' + p.id + '\')">' + RT.uiText("addTour") + '</button></div>';
       panel.classList.add("open");
     }
   };
 
   /* ---------- Controls ---------- */
-  (function fillRegions() {
-    var sel = document.getElementById("region");
-    (meta.regions || []).forEach(function (r) {
-      var o = document.createElement("option"); o.value = r.slug; o.textContent = r.name_vi + " (" + r.count + ")"; sel.appendChild(o);
+  function fillCountries() {
+    var sel = document.getElementById("country");
+    var keys = Object.keys(COUNTRIES);
+    var html = '<option value="">Tất cả</option>';
+    keys.forEach(function (c) {
+      html += '<option value="' + RT.escapeHtml(c) + '">' + RT.escapeHtml(COUNTRY_NAMES[c] || c) + ' (' + COUNTRIES[c] + ')</option>';
     });
-    if ((meta.regions || []).length < 2) sel.parentNode && (sel.style.display = "none");
-  })();
+    sel.innerHTML = html;
+    // mặc định chọn Nga (russia) nếu có, nếu không thì "Tất cả"
+    sel.value = (COUNTRIES.russia != null) ? "russia" : "";
+  }
+  function fillRegions(country) {
+    var sel = document.getElementById("region");
+    var regions = (meta.regions || []).filter(function (r) {
+      return !country || (r.country || "russia") === country;
+    });
+    var html = '<option value="">Tất cả vùng</option>';
+    regions.forEach(function (r) {
+      html += '<option value="' + RT.escapeHtml(r.slug) + '">' + RT.escapeHtml(r.name_vi) + ' (' + r.count + ')</option>';
+    });
+    sel.innerHTML = html;
+    sel.style.display = regions.length < 2 ? "none" : "";
+  }
   (function fillCats() {
     var wrap = document.getElementById("filterCats");
     Object.keys(meta.categories || {}).forEach(function (slug) {
@@ -361,23 +606,223 @@
       wrap.appendChild(el);
     });
   })();
-  (function legend() {
+  function buildLegend() {
     var el = document.getElementById("legend");
     var used = meta.categories || {};
-    el.innerHTML = "<div style='font-weight:700;margin-bottom:4px;'>Chú giải</div>" +
-      Object.keys(used).map(function (slug) {
-        var i = RT.catInfo(slug);
-        return '<div class="lg"><span class="sw" style="background:' + i.color + '"></span>' + i.vi + "</div>";
-      }).join("");
-  })();
+    var body = Object.keys(used).map(function (slug) {
+      var i = RT.catInfo(slug);
+      return '<div class="lg"><span class="sw" style="background:' + i.color + '"></span>' + i.vi + "</div>";
+    }).join("");
+    el.innerHTML =
+      '<div class="lg-head" id="legendHead"><span>Chú giải</span><span class="lg-tog" id="legendTog">' + (legendOpen ? "▾" : "▸") + '</span></div>' +
+      '<div class="lg-body" id="legendBody" style="display:' + (legendOpen ? "block" : "none") + ';">' + body + '</div>';
+    document.getElementById("legendHead").onclick = function () {
+      legendOpen = !legendOpen;
+      document.getElementById("legendBody").style.display = legendOpen ? "block" : "none";
+      document.getElementById("legendTog").textContent = legendOpen ? "▾" : "▸";
+    };
+  }
 
-  document.getElementById("q").oninput = renderMarkers;
+  /* ---------- Ngôn ngữ ---------- */
+  function buildLangSwitch() {
+    var box = document.getElementById("langSwitch");
+    if (!box) return;
+    Object.keys(RT.LANGS).forEach(function (code) {
+      var info = RT.LANGS[code];
+      var b = document.createElement("button");
+      b.type = "button";
+      b.className = "lang-chip";
+      b.dataset.code = code;
+      b.title = info.label;
+      b.setAttribute("aria-label", info.label);
+      b.innerHTML = info.flag + " <span>" + code.toUpperCase() + "</span>";
+      b.onclick = function () { if (RT.getLang() !== code) onLangChange(code); };
+      box.appendChild(b);
+    });
+    markLang();
+  }
+  function markLang() {
+    var cur = RT.getLang();
+    document.querySelectorAll(".lang-chip").forEach(function (c) {
+      c.classList.toggle("active", c.dataset.code === cur);
+    });
+    document.documentElement.lang = cur;
+  }
+  function onLangChange(l) {
+    RT.setLang(l);
+    RT.TTS.stop();
+    markLang();
+    renderMarkers();
+    renderTour();
+    buildLegend();
+    drawVNIslands();   // đổi ngôn ngữ: cập nhật nhãn chủ quyền (luôn giữ, không bao giờ ẩn)
+    if (currentDetailId && document.getElementById("detailPanel").classList.contains("open")) {
+      window.RTGIS.detail(currentDetailId);
+    }
+  }
+
+  /* ---------- Auto-zoom tới 1 điểm (sửa lỗi) ---------- */
+  function focusPlace(id) {
+    var p = places.filter(function (x) { return x.id === id; })[0];
+    if (!p) return;
+    var lat = p.coordinates.lat, lon = p.coordinates.lon;
+    map.setView([lat, lon], 16);
+    var m = markers[id];
+    if (m) {
+      if (cluster && typeof cluster.zoomToShowLayer === "function") {
+        cluster.zoomToShowLayer(m, function () { m.openPopup(); });
+      } else {
+        m.openPopup();
+      }
+    } else {
+      // marker bị lọc ra: vẫn zoom tới toạ độ và mở popup tạm thời
+      L.popup({ minWidth: 200, maxWidth: 240 })
+        .setLatLng([lat, lon])
+        .setContent('<div class="pop"><h4>' + RT.escapeHtml(RT.t(p, "name")) + '</h4>' +
+          '<div class="pop-actions"><button class="btn sm" onclick="RTGIS.detail(\'' + p.id + '\')">' + RT.uiText("detail") + '</button></div></div>')
+        .openOn(map);
+    }
+  }
+
+  /* ---------- Gợi ý tìm kiếm (companion sửa lỗi) ---------- */
+  function renderSuggest() {
+    var box = document.getElementById("qSuggest");
+    if (!box) return;
+    var q = (document.getElementById("q").value || "").trim().toLowerCase();
+    if (!q) { box.style.display = "none"; box.innerHTML = ""; return; }
+    var matches = places.filter(function (p) {
+      return RT.t(p, "name").toLowerCase().indexOf(q) >= 0;
+    }).slice(0, 8);
+    if (!matches.length) { box.style.display = "none"; box.innerHTML = ""; return; }
+    box.innerHTML = matches.map(function (p) {
+      var info = RT.catInfo(RT.primaryCat(p));
+      return '<div class="sug-item" data-id="' + RT.escapeHtml(p.id) + '">' +
+        '<span class="sug-emoji">' + info.emoji + '</span>' +
+        '<span class="sug-name">' + RT.escapeHtml(RT.t(p, "name")) + '</span></div>';
+    }).join("");
+    box.style.display = "block";
+    box.querySelectorAll(".sug-item").forEach(function (it) {
+      it.onclick = function () {
+        var id = it.dataset.id;
+        document.getElementById("q").value = "";
+        box.style.display = "none"; box.innerHTML = "";
+        renderMarkers();
+        if (window.innerWidth <= 820) drawer(false);
+        focusPlace(id);
+      };
+    });
+  }
+
+  /* ---------- Fit bounds theo tập đã lọc ---------- */
+  function fitFiltered() {
+    var pts = places.filter(passFilter).map(function (p) { return [p.coordinates.lat, p.coordinates.lon]; });
+    // Khi xem Việt Nam (hoặc Tất cả), đưa cả Hoàng Sa & Trường Sa vào khung nhìn để nhãn chủ quyền luôn thấy
+    var country = document.getElementById("country").value;
+    if (country === "vietnam" || country === "") {
+      VN_ISLANDS.forEach(function (isl) { pts.push([isl.lat, isl.lon]); });
+    }
+    try {
+      var b = L.latLngBounds(pts);
+      if (b.isValid()) map.fitBounds(b.pad(0.15));
+    } catch (e) {}
+  }
+
+  document.getElementById("q").oninput = function () { renderMarkers(); renderSuggest(); };
+  document.getElementById("q").onfocus = renderSuggest;
+  document.getElementById("country").onchange = function () {
+    fillRegions(this.value);
+    document.getElementById("region").value = "";
+    renderMarkers();
+    fitFiltered();
+  };
   document.getElementById("region").onchange = renderMarkers;
   document.getElementById("minStar").oninput = function () { document.getElementById("starVal").textContent = this.value; renderMarkers(); };
   document.getElementById("showLabels").onchange = function () { labelsOn = this.checked; renderMarkers(); };
   document.getElementById("perDay").oninput = renderTour;
+  ["costPax", "costFood", "costLocal", "costHotel"].forEach(function (cid) {
+    var el = document.getElementById(cid); if (el) el.oninput = computeCost;
+  });
+  document.getElementById("costHotelOn").onchange = computeCost;
+  // Đóng gợi ý khi bấm ra ngoài
+  document.addEventListener("mousedown", function (e) {
+    var w = document.querySelector(".q-wrap");
+    if (w && !w.contains(e.target)) { var box = document.getElementById("qSuggest"); if (box) { box.style.display = "none"; } }
+  });
   document.getElementById("rate").oninput = function () { RT.TTS.setRate(parseFloat(this.value)); };
   document.getElementById("stopAll").onclick = function () { RT.TTS.stop(); };
+
+  /* ===== Công cụ bản đồ: lấy toạ độ khi bấm chuột, đo khoảng cách, đọc toạ độ con trỏ, chuyển nền ===== */
+  (function mapTools(){
+    var readout = document.getElementById("coordReadout");
+    var out = document.getElementById("toolOut");
+    var mode = null;                       // null | 'coord' | 'measure'
+    var coordMarker = null;
+    var measurePts = [], measureLine = null, measureDots = [];
+
+    function fmt(ll){ return ll.lat.toFixed(6) + ", " + ll.lng.toFixed(6); }
+
+    map.on("mousemove", function(e){
+      if (readout) readout.textContent = "📍 " + e.latlng.lat.toFixed(5) + ", " + e.latlng.lng.toFixed(5);
+    });
+    map.on("mouseout", function(){ if (readout) readout.textContent = ""; });
+
+    function clearMeasure(){
+      if (measureLine){ map.removeLayer(measureLine); measureLine = null; }
+      measureDots.forEach(function(m){ map.removeLayer(m); }); measureDots = [];
+      measurePts = [];
+    }
+    function setMode(m){
+      mode = (mode === m) ? null : m;
+      var tc = document.getElementById("toolCoord"), tm = document.getElementById("toolMeasure");
+      if (tc) tc.classList.toggle("active", mode === "coord");
+      if (tm) tm.classList.toggle("active", mode === "measure");
+      document.getElementById("map").style.cursor = mode ? "crosshair" : "";
+      if (mode !== "measure") clearMeasure();
+      if (mode === "coord") out.innerHTML = '<div class="tool-hint">Bấm lên bản đồ để lấy toạ độ điểm đó.</div>';
+      else if (mode === "measure") out.innerHTML = '<div class="tool-hint">Bấm lần lượt các điểm để đo tổng quãng đường.</div>';
+      else out.innerHTML = "";
+    }
+    document.getElementById("toolCoord").onclick = function(){ setMode("coord"); };
+    document.getElementById("toolMeasure").onclick = function(){ setMode("measure"); };
+
+    function showCoord(ll, withPopup){
+      var s = fmt(ll);
+      var g = "https://www.google.com/maps/search/?api=1&query=" + ll.lat.toFixed(6) + "," + ll.lng.toFixed(6);
+      var y = "https://yandex.com/maps/?pt=" + ll.lng.toFixed(6) + "," + ll.lat.toFixed(6) + "&z=16&l=map";
+      out.innerHTML = '<div class="tool-res">📍 <b>' + s + '</b> <span class="muted">(kéo ghim để chỉnh)</span>'
+        + '<div class="cp-row"><button class="btn sm" id="coordCopy">📋 Sao chép</button>'
+        + '<a class="btn sm" target="_blank" rel="noopener" href="' + g + '">🗺️ Google</a>'
+        + '<a class="btn sm" target="_blank" rel="noopener" href="' + y + '">📍 Yandex</a></div></div>';
+      var cc = document.getElementById("coordCopy");
+      if (cc) cc.onclick = function(){ if (navigator.clipboard) navigator.clipboard.writeText(s); cc.textContent = "✓ Đã chép"; };
+      if (withPopup && coordMarker) coordMarker.bindPopup('<div class="pop"><b>' + s + '</b></div>', { minWidth: 150 }).openPopup();
+    }
+
+    map.on("click", function(e){
+      if (mode === "coord"){
+        var ll = e.latlng;
+        if (coordMarker) coordMarker.setLatLng(ll);
+        else { coordMarker = L.marker(ll, { draggable: true }).addTo(map);
+               coordMarker.on("dragend", function(){ showCoord(coordMarker.getLatLng(), false); }); }
+        showCoord(ll, true);
+      } else if (mode === "measure"){
+        measurePts.push(e.latlng);
+        measureDots.push(L.circleMarker(e.latlng, { radius: 4, color: "#c8a24b", weight: 2, fillColor: "#fff", fillOpacity: 1 }).addTo(map));
+        if (measureLine) map.removeLayer(measureLine);
+        measureLine = L.polyline(measurePts, { color: "#c8a24b", weight: 3, dashArray: "6 4" }).addTo(map);
+        var km = 0;
+        for (var i = 1; i < measurePts.length; i++)
+          km += RT.haversineKm({ lat: measurePts[i-1].lat, lon: measurePts[i-1].lng }, { lat: measurePts[i].lat, lon: measurePts[i].lng });
+        out.innerHTML = '<div class="tool-res">📏 Tổng: <b>' + km.toFixed(2) + ' km</b> · ' + measurePts.length + ' điểm '
+          + '<button class="btn sm" id="measClear" style="margin-left:4px;">🗑️ Xoá</button></div>';
+        var mc = document.getElementById("measClear"); if (mc) mc.onclick = clearMeasure;
+      }
+    });
+
+    var bs = document.getElementById("baseStreetsBtn"), bt = document.getElementById("baseSatBtn");
+    if (bs) bs.onclick = function(){ setBase("streets"); bs.classList.add("active"); if (bt) bt.classList.remove("active"); };
+    if (bt) bt.onclick = function(){ setBase("sat"); bt.classList.add("active"); if (bs) bs.classList.remove("active"); };
+  })();
   document.getElementById("optimize").onclick = function () {
     var tp = tourPlaces();
     if (tp.length < 2) return;
@@ -412,13 +857,34 @@
     var a = document.createElement("a"); a.href = URL.createObjectURL(blob); a.download = "lich-trinh-tour.csv"; a.click();
   };
 
-  var shown = renderMarkers();
+  buildLangSwitch();
+  fillCountries();                                   // mặc định chọn 'russia'
+  fillRegions(document.getElementById("country").value);
+  buildLegend();
+  renderMarkers();
   renderTour();
-  // fit bounds theo dữ liệu
-  try {
-    var bounds = L.latLngBounds(places.map(function (p) { return [p.coordinates.lat, p.coordinates.lon]; }));
-    if (bounds.isValid()) map.fitBounds(bounds.pad(0.15));
-  } catch (e) {}
+
+  // Đọc ?focus=<id> (fallback ?slug=<slug>) và zoom tới điểm sau khi vẽ marker
+  var params = new URLSearchParams(location.search || "");
+  var fParam = params.get("focus");
+  var sParam = params.get("slug");
+  var target = null;
+  if (fParam) target = places.filter(function (p) { return p.id === fParam; })[0];
+  if (!target && (sParam || fParam)) target = places.filter(function (p) { return p.slug === (sParam || fParam); })[0];
+  if (target) {
+    // Nếu điểm nằm ở quốc gia khác bộ lọc hiện tại thì chuyển bộ lọc để marker hiển thị
+    var tc = target.country || "russia";
+    var csel = document.getElementById("country");
+    if (csel.value && csel.value !== tc) {
+      csel.value = (COUNTRIES[tc] != null) ? tc : "";
+      fillRegions(csel.value);
+      renderMarkers();
+    }
+    fitFiltered();
+    setTimeout(function () { focusPlace(target.id); }, 350);
+  } else {
+    fitFiltered();                                   // tải lần đầu: fit theo Nga
+  }
 
   /* ---------- Mobile: ngăn kéo bộ lọc + căn chỉnh chiều cao bản đồ ---------- */
   var _sb = document.querySelector(".sidebar");

@@ -41,8 +41,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/2018-10-08%20Bank%20of%20the%20Volga%20%28Saratov%29.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=46.0445,51.526&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=51.526,46.0445"
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%BE%D0%B2&ll=46.0445,51.526&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Cosmonauts%20Embankment%2C%20Saratov%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -62,7 +62,8 @@
       "space"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "saratov-gagarin-landing-site",
@@ -105,8 +106,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9C%D0%B5%D1%81%D1%82%D0%BE%20%D0%BF%D1%80%D0%B8%D0%B7%D0%B5%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0%20%D0%AE.%D0%90.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=45.9975,51.2769&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=51.2769,45.9975"
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D0%B5%D1%81%D1%82%D0%BE%20%D0%BF%D1%80%D0%B8%D0%B7%D0%B5%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%AE.%20%D0%90.%20%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0&ll=45.9975,51.2769&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Yuri%20Gagarin%20Landing%20Site%2C%20Saratov%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -125,7 +126,8 @@
       "outdoor"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "saratov-sokolovaya-gora-victory-park",
@@ -169,8 +171,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Saratov.%20Memorial%20complex%20%C2%ABCranes%C2%BB%20in%20the%20Victory%20Park%20P8090846%202200.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=46.053615,51.54432&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=51.54432,46.053615"
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D1%80%D0%BA%20%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D1%8B%20%D0%BD%D0%B0%20%D0%A1%D0%BE%D0%BA%D0%BE%D0%BB%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%B3%D0%BE%D1%80%D0%B5&ll=46.053615,51.54432&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Victory%20Park%20on%20Sokolovaya%20Gora%2C%20Saratov%2C%20Russia"
     },
     "official_site": "https://sargmbs.ru",
     "sources": [
@@ -190,7 +192,8 @@
       "family"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "saratov-radishchev-art-museum",
@@ -233,8 +236,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%A0%D0%B0%D0%B4%D0%B8%D1%89%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%20%D0%BB%D0%B5%D1%82%D0%BE%D0%BC.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=46.02861,51.53306&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=51.53306,46.02861"
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%20%D0%90.%20%D0%9D.%20%D0%A0%D0%B0%D0%B4%D0%B8%D1%89%D0%B5%D0%B2%D0%B0&ll=46.02861,51.53306&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Radishchev%20Art%20Museum%2C%20Saratov%2C%20Russia"
     },
     "official_site": "https://radmuseumart.ru",
     "sources": [
@@ -253,7 +256,8 @@
       "indoor"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "saratov-khvalynsk-national-park",
@@ -296,8 +300,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Khvalynsky%20national%20park%20%282020%29%201.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=48.09,52.48&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=52.48,48.09"
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%B0%D1%80%D0%BA%20%C2%AB%D0%A5%D0%B2%D0%B0%D0%BB%D1%8B%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%C2%BB&ll=48.09,52.48&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Khvalynsky%20National%20Park%2C%20Saratov%2C%20Russia"
     },
     "official_site": "https://nphvalynskiy.ru",
     "sources": [
@@ -317,7 +321,8 @@
       "daytrip"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "saratov-saratov-conservatory",
@@ -361,8 +366,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Konserv%20saratov.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=46.0081,51.5327&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=51.5327,46.0081"
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%BE%D0%BD%D1%81%D0%B5%D1%80%D0%B2%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%20%D0%9B.%20%D0%92.%20%D0%A1%D0%BE%D0%B1%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0&ll=46.0081,51.5327&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Saratov%20State%20Conservatory%20named%20after%20L.%20V.%20Sobinov%2C%20Russia"
     },
     "official_site": "https://sarcons.ru",
     "sources": [
@@ -381,7 +386,8 @@
       "organ"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "saratov-limonarium-saratov",
@@ -425,8 +431,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=46.05,51.553&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=51.553,46.05"
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BB%D0%B8%D0%BC%D0%BE%D0%BD%D0%B0%D1%80%D0%B8%D0%B9&ll=46.05,51.553&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Saratov%20Limonarium%2C%20Russia"
     },
     "official_site": "https://xn--80apbeghhhu.xn--p1ai",
     "sources": [
@@ -445,6 +451,7 @@
       "botanical"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   }
 ]

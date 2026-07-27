@@ -40,8 +40,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Architectural%20complex.%20Dargavs.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=44.446111,42.841111&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=42.841111,44.446111"
+      "yandex": "https://yandex.com/maps/?text=%D0%94%D0%B0%D1%80%D0%B3%D0%B0%D0%B2%D1%81%2C%20%C2%AB%D0%93%D0%BE%D1%80%D0%BE%D0%B4%20%D0%BC%D1%91%D1%80%D1%82%D0%B2%D1%8B%D1%85%C2%BB&ll=44.446111,42.841111&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Dargavs%2C%20City%20of%20the%20Dead%2C%20North%20Ossetia%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -58,7 +58,8 @@
       "crypts"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-07-17",
+    "country": "russia"
   },
   {
     "id": "north-ossetia-kurtatinsky-gorge",
@@ -101,8 +102,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=44.233333,42.783333&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=42.783333,44.233333"
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D1%83%D1%80%D1%82%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B5%20%D1%83%D1%89%D0%B5%D0%BB%D1%8C%D0%B5&ll=44.233333,42.783333&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kurtatinsky%20Gorge%2C%20North%20Ossetia%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -119,7 +120,8 @@
       "history"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-07-17",
+    "country": "russia"
   },
   {
     "id": "north-ossetia-tsey-gorge",
@@ -162,8 +164,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/019%20%D0%A6%D0%B5%D0%B9%D1%81%D0%BA%D0%BE%D0%B5%20%D1%83%D1%89%D0%B5%D0%BB%D1%8C%D0%B5.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=43.883,42.767&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=42.767,43.883"
+      "yandex": "https://yandex.com/maps/?text=%D0%A6%D0%B5%D0%B9%D1%81%D0%BA%D0%BE%D0%B5%20%D1%83%D1%89%D0%B5%D0%BB%D1%8C%D0%B5&ll=43.883,42.767&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Tsey%20Gorge%2C%20North%20Ossetia%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -180,7 +182,8 @@
       "ski-resort"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-07-17",
+    "country": "russia"
   },
   {
     "id": "north-ossetia-dzivgis-rock-fortress",
@@ -224,8 +227,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=44.312578,42.875257&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=42.875257,44.312578"
+      "yandex": "https://yandex.com/maps/?text=%D0%94%D0%B7%D0%B8%D0%B2%D0%B3%D0%B8%D1%81%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BD%D0%B0%D1%81%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C&ll=44.312578,42.875257&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Dzivgis%20Rock%20Fortress%2C%20North%20Ossetia%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -242,7 +245,8 @@
       "alania"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-07-17",
+    "country": "russia"
   },
   {
     "id": "north-ossetia-midagrabin-waterfalls",
@@ -285,8 +289,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=44.36181,42.76988&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=42.76988,44.36181"
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D0%B8%D0%B4%D0%B0%D0%B3%D1%80%D0%B0%D0%B1%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4%D1%8B&ll=44.36181,42.76988&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Midagrabin%20Waterfalls%2C%20North%20Ossetia%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -303,7 +307,8 @@
       "hiking"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-07-17",
+    "country": "russia"
   },
   {
     "id": "north-ossetia-vladikavkaz-sunni-mosque",
@@ -347,8 +352,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%A1%D1%83%D0%BD%D0%BD%D0%B8%D1%82%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C%20%D0%B2%D0%BE%20%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BA%D0%B0%D0%B2%D0%BA%D0%B0%D0%B7%D0%B5.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=44.675853,43.026101&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=43.026101,44.675853"
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D1%83%D0%BD%D0%BD%D0%B8%D1%82%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C%20%28%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C%20%D0%9C%D1%83%D1%85%D1%82%D0%B0%D1%80%D0%BE%D0%B2%D0%B0%29%2C%20%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BA%D0%B0%D0%B2%D0%BA%D0%B0%D0%B7&ll=44.675853,43.026101&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Sunni%20Mosque%20%28Mukhtarov%20Mosque%29%2C%20Vladikavkaz%2C%20North%20Ossetia%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -365,7 +370,8 @@
       "vladikavkaz"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-07-17",
+    "country": "russia"
   },
   {
     "id": "north-ossetia-alania-national-park",
@@ -403,8 +409,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%92%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4%20%D0%A2%D1%80%D0%B8%20%D0%A1%D0%B5%D1%81%D1%82%D1%80%D1%8B%20%D0%BD%D0%B0%20%D1%80%D0%B0%D1%81%D1%81%D0%B2%D0%B5%D1%82%D0%B5.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=43.333333,42.833333&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=42.833333,43.333333"
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%B0%D1%80%D0%BA%20%C2%AB%D0%90%D0%BB%D0%B0%D0%BD%D0%B8%D1%8F%C2%BB&ll=43.333333,42.833333&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Alania%20National%20Park%2C%20North%20Ossetia%2C%20Russia"
     },
     "official_site": "https://alaniazapoved.ru/",
     "sources": [
@@ -421,6 +427,7 @@
       "hiking"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-07-17",
+    "country": "russia"
   }
 ]

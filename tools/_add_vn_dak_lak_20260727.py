@@ -1,0 +1,195 @@
+# -*- coding: utf-8 -*-
+"""Bổ sung 3 địa điểm du lịch nổi tiếng của tỉnh Đắk Lắk (MỚI, sau sáp nhập Đắk Lắk + Phú Yên 1/7/2025).
+Chèn an toàn: tạo mới hoặc nạp–append–ghi; bỏ qua slug đã có. Toạ độ THẬT (Wikipedia/OSM)."""
+import json, os
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+ROOT = os.path.dirname(HERE)
+f = os.path.join(ROOT, "data", "regions", "vn-dak-lak.json")
+
+REG = "vn-dak-lak"
+REGION_NAME_VI = "Đắk Lắk"          # tên tỉnh MỚI sau sáp nhập (Đắk Lắk + Phú Yên)
+FED = "Miền Trung"
+
+
+def maps_for(lat, lon):
+    return {
+        "yandex": f"https://yandex.com/maps/?pt={lon},{lat}&z=16&l=map",
+        "google": f"https://www.google.com/maps/search/?api=1&query={lat},{lon}",
+    }
+
+
+new = [
+    {
+        "id": f"{REG}-bao-tang-the-gioi-ca-phe",
+        "slug": "bao-tang-the-gioi-ca-phe",
+        "region": REG,
+        "country": "vietnam",
+        "region_name_vi": REGION_NAME_VI,
+        "federal_district": FED,
+        "name_vi": "Bảo tàng Thế giới Cà phê",
+        "name_ru": "Всемирный музей кофе",
+        "name_en": "The World Coffee Museum",
+        "categories": ["museum"],
+        "coordinates": {"lat": 12.6909, "lon": 108.0447},
+        "address_vi": "Đường Nguyễn Đình Chiểu, khu vực Buôn Ma Thuột, tỉnh Đắk Lắk",
+        "rating": {"value": 4.4, "count": 9000, "source": "Google", "as_of": "2026-07"},
+        "review_summary_vi": "Du khách khen kiến trúc độc đáo, không gian rộng thoáng và trải nghiệm 'bảo tàng sống' được chạm, ngửi, nếm cà phê. Nhiều người thấy đây là điểm 'sống ảo' đẹp và giàu tính giáo dục; một vài ý kiến cho rằng nên có thêm hướng dẫn thuyết minh và đi vào buổi sáng để tránh nắng gắt.",
+        "presentation_short_vi": "Bảo tàng Thế giới Cà phê ở thành phố Buôn Ma Thuột là một 'bảo tàng sống' độc đáo tôn vinh văn hóa cà phê toàn cầu, do Tập đoàn Trung Nguyên Legend xây dựng và mở cửa cuối năm 2018. Công trình gây ấn tượng với những khối kiến trúc uốn lượn lấy cảm hứng từ nhà dài Ê Đê và sóng cà phê, lưu giữ hơn 11.000 hiện vật từ khắp thế giới. Đây là điểm đến biểu tượng của 'thủ phủ cà phê' Việt Nam.",
+        "presentation_short_en": "The World Coffee Museum in Buôn Ma Thuột is a one-of-a-kind 'living museum' celebrating global coffee culture, built by the Trung Nguyên Legend group and opened in late 2018. Its striking, wave-like architecture draws on the traditional longhouses of the Ê Đê people and holds more than 11,000 artefacts gathered from coffee cultures worldwide. It is the signature landmark of Vietnam's 'coffee capital'.",
+        "presentation_short_ru": "Всемирный музей кофе в городе Буонматхуот — уникальный «живой музей», посвящённый мировой кофейной культуре; он построен группой Trung Nguyên Legend и открыт в конце 2018 года. Его волнообразная архитектура вдохновлена традиционными длинными домами народа эде, а в коллекции хранится более 11 000 экспонатов со всего мира. Это главная достопримечательность вьетнамской «кофейной столицы».",
+        "presentation_long_vi": "Tọa lạc giữa lòng thành phố Buôn Ma Thuột, Bảo tàng Thế giới Cà phê là công trình văn hóa độc đáo do Tập đoàn Trung Nguyên Legend khởi dựng và khánh thành ngày 23/11/2018. Không gian trưng bày được xây dựng từ bộ sưu tập đồ sộ của bảo tàng cà phê Jens Burg (Đức) mà Trung Nguyên đã mua lại, với hơn 11.000 hiện vật kể câu chuyện của cà phê qua nhiều nền văn minh: từ cối xay, ấm pha, dụng cụ rang xay cổ đến trang phục và nghi lễ. Điểm đặc biệt nằm ở triết lý 'bảo tàng sống': du khách không chỉ ngắm nhìn mà còn được chạm, ngửi, nếm và lắng nghe. Kiến trúc của bảo tàng gây ấn tượng mạnh với những khối nhà uốn lượn mềm mại, lấy cảm hứng từ mái nhà dài truyền thống của người Ê Đê và hình ảnh những đợt sóng cà phê, hòa quyện cùng ánh sáng và gió cao nguyên. Bên trong tổ hợp còn có thư viện, khu thưởng lãm và quán cà phê để khách nhâm nhi những ly cà phê pha theo nhiều phong cách. Là biểu tượng của 'thủ phủ cà phê' Việt Nam, nơi đây trở nên sôi động nhất trong dịp Lễ hội Cà phê Buôn Ma Thuột được tổ chức hai năm một lần, thu hút đông đảo du khách trong và ngoài nước.",
+        "presentation_long_en": "Set in the heart of Buôn Ma Thuột, the World Coffee Museum is a remarkable cultural complex created by the Trung Nguyên Legend group and inaugurated on 23 November 2018. Its exhibition grew out of the vast collection of Germany's Jens Burg Coffee Museum, which Trung Nguyên acquired, and today it holds more than 11,000 objects that trace coffee's journey across civilisations — from antique grinders, pots and roasting tools to costumes and rituals. What sets it apart is its philosophy of a 'living museum': visitors are invited not merely to look, but to touch, smell, taste and listen. The building itself is unforgettable, its soft, undulating volumes inspired by the traditional longhouse roofs of the Ê Đê people and by rolling waves of coffee, filled with the light and breezes of the highlands. Within the wider complex are a library, tasting spaces and a café where guests can savour coffee brewed in many styles. As the emblem of Vietnam's 'coffee capital', the museum is at its liveliest during the Buôn Ma Thuột Coffee Festival, held every two years, which draws crowds of Vietnamese and international travellers. It offers an experience that is at once educational, sensory and distinctly rooted in the culture of the Central Highlands.",
+        "presentation_long_ru": "Расположенный в самом сердце Буонматхуота, Всемирный музей кофе — необычный культурный комплекс, созданный группой Trung Nguyên Legend и открытый 23 ноября 2018 года. Его экспозиция выросла из обширной коллекции немецкого Музея кофе Йенса Бурга, которую приобрёл концерн Trung Nguyên; сегодня здесь хранится более 11 000 предметов, рассказывающих о путешествии кофе сквозь эпохи и цивилизации — от старинных мельниц, кофейников и приспособлений для обжарки до костюмов и ритуалов. Особенность музея — концепция «живого музея»: посетителям предлагают не только смотреть, но и трогать, вдыхать аромат, пробовать на вкус и слушать. Само здание невозможно забыть: его плавные волнообразные объёмы вдохновлены традиционными длинными домами народа эде и катящимися кофейными волнами, а интерьер наполнен светом и ветром нагорья. В составе комплекса есть библиотека, дегустационные залы и кафе, где гостям подают кофе, приготовленный самыми разными способами. Будучи символом вьетнамской «кофейной столицы», музей особенно оживлён во время фестиваля кофе в Буонматхуоте, который проводится раз в два года и привлекает множество вьетнамских и иностранных путешественников. Посещение музея оказывается одновременно познавательным, чувственным и глубоко связанным с культурой Центрального нагорья.",
+        "highlights_vi": [
+            "'Bảo tàng sống' với hơn 11.000 hiện vật cà phê từ khắp thế giới, nền tảng là bộ sưu tập của bảo tàng cà phê Jens Burg (Đức)",
+            "Kiến trúc độc đáo lấy cảm hứng từ nhà dài Ê Đê và những đợt sóng, hài hòa với không gian Tây Nguyên",
+            "Nằm ở Buôn Ma Thuột — 'thủ phủ cà phê' của Việt Nam; sôi động nhất vào Lễ hội Cà phê Buôn Ma Thuột"
+        ],
+        "highlights_en": [
+            "A 'living museum' with over 11,000 coffee artefacts from around the world, based on the collection of Germany's Jens Burg coffee museum",
+            "Distinctive architecture inspired by Ê Đê longhouses and rolling waves, blending into the Central Highlands setting",
+            "Located in Buôn Ma Thuột, Vietnam's 'coffee capital'; liveliest during the Buôn Ma Thuột Coffee Festival"
+        ],
+        "highlights_ru": [
+            "«Живой музей» с более чем 11 000 кофейных экспонатов со всего мира, основанный на коллекции немецкого музея кофе Йенса Бурга",
+            "Оригинальная архитектура, вдохновлённая длинными домами эде и морскими волнами, гармонирует с ландшафтом Тэйнгуена",
+            "Находится в Буонматхуоте — «кофейной столице» Вьетнама; наиболее оживлён во время фестиваля кофе"
+        ],
+        "practical": {
+            "hours_vi": "Thường mở khoảng 7:30–17:30 hằng ngày (nên kiểm tra lại trước khi đến).",
+            "ticket_vi": "Vé vào cửa tham khảo khoảng 75.000 VND/người; giá có thể thay đổi.",
+            "duration_vi": "Khoảng 1–2 giờ.",
+            "best_time_vi": "Quanh năm; đặc biệt sôi động vào Lễ hội Cà phê Buôn Ma Thuột (tháng 3, hai năm một lần).",
+            "tips_vi": "Kết hợp thưởng thức cà phê tại chỗ; nên đến buổi sáng để ánh sáng đẹp khi chụp kiến trúc; ăn mặc lịch sự, gọn gàng."
+        },
+        "photo": None,
+        "photo_credit": None,
+        "maps": maps_for(12.6909, 108.0447),
+        "official_site": None,
+        "sources": [
+            {"title": "Wikipedia (EN) — The World Coffee Museum", "url": "https://en.wikipedia.org/wiki/The_World_Coffee_Museum"},
+            {"title": "Nghị quyết 60-NQ/TW 2025 — sáp nhập Đắk Lắk và Phú Yên (tên tỉnh mới: Đắk Lắk)", "url": "https://xaydungchinhsach.chinhphu.vn/sap-xep-hop-nhat-dak-lak-phu-yen-du-kien-tinh-moi-co-102-don-vi-hanh-chinh-cap-xa-119250425094134778.htm"}
+        ],
+        "tags": ["museum", "coffee", "architecture", "indoor", "family", "top"],
+        "status": "enriched",
+        "last_updated": "2026-07-27"
+    },
+    {
+        "id": f"{REG}-ho-lak",
+        "slug": "ho-lak",
+        "region": REG,
+        "country": "vietnam",
+        "region_name_vi": REGION_NAME_VI,
+        "federal_district": FED,
+        "name_vi": "Hồ Lắk",
+        "name_ru": "Озеро Лак",
+        "name_en": "Lak Lake",
+        "categories": ["park_garden", "other"],
+        "coordinates": {"lat": 12.4225, "lon": 108.18},
+        "address_vi": "Thị trấn Liên Sơn (khu vực Lắk), tỉnh Đắk Lắk",
+        "rating": {"value": 4.4, "count": 3500, "source": "Google", "as_of": "2026-07"},
+        "review_summary_vi": "Du khách yêu thích khung cảnh hồ nước rộng lớn, yên bình và những buôn làng M'Nông mộc mạc ven hồ. Nhiều người ấn tượng với bình minh và hoàng hôn trên mặt nước; một số khuyên nên nghỉ đêm tại buôn làng để nghe cồng chiêng và ưu tiên các trải nghiệm thân thiện với voi.",
+        "presentation_short_vi": "Hồ Lắk là hồ nước ngọt tự nhiên lớn nhất Tây Nguyên và lớn thứ hai Việt Nam, nằm bên thị trấn Liên Sơn, tỉnh Đắk Lắk, cách Buôn Ma Thuột khoảng 55 km. Mặt hồ rộng, phẳng lặng, được bao quanh bởi rừng và các buôn làng người M'Nông; trên đồi cao còn có biệt điện vua Bảo Đại nhìn xuống toàn cảnh. Du khách có thể dạo thuyền độc mộc, ngắm bình minh và tìm hiểu văn hóa cồng chiêng bản địa.",
+        "presentation_short_en": "Lak Lake is the largest natural freshwater lake in the Central Highlands and the second largest in Vietnam, lying beside the town of Liên Sơn in Đắk Lắk province, about 55 km from Buôn Ma Thuột. Its broad, mirror-calm surface is ringed by forest and villages of the M'Nông people, while a hilltop villa built for Emperor Bảo Đại overlooks the water. Visitors can drift in dugout canoes, watch the sunrise and explore the local gong culture.",
+        "presentation_short_ru": "Озеро Лак — самое большое естественное пресноводное озеро Центрального нагорья и второе по величине во Вьетнаме; оно лежит рядом с посёлком Лиеншон в провинции Даклак, примерно в 55 км от Буонматхуота. Его широкую зеркальную гладь окружают леса и деревни народа мнонг, а на холме над водой возвышается вилла, построенная для императора Бао Дая. Гости могут прокатиться на лодке-долблёнке, встретить рассвет и познакомиться с местной культурой гонгов.",
+        "presentation_long_vi": "Trải rộng khoảng 6,2 km² ở độ cao chừng 500 m so với mực nước biển, Hồ Lắk là hồ nước ngọt tự nhiên lớn nhất vùng Tây Nguyên và chỉ đứng sau hồ Ba Bể trên toàn quốc. Hồ nằm bên thị trấn Liên Sơn thuộc tỉnh Đắk Lắk, cách thành phố Buôn Ma Thuột khoảng 55 km về phía đông nam. Mặt nước mênh mông đổi màu theo thời khắc trong ngày, khi thì xanh biếc phản chiếu mây trời, lúc lại nhuộm hồng cam vào mỗi sớm mai và hoàng hôn, xen giữa là những đầm sen nở rộ theo mùa. Bao quanh hồ là các buôn làng cổ của người M'Nông như Buôn Jun, Buôn M'Liêng, nơi du khách có thể tìm hiểu nếp nhà sàn, nghề dệt thổ cẩm và những đêm cồng chiêng bên ánh lửa. Trên ngọn đồi nhìn ra hồ là biệt điện của vua Bảo Đại, vốn được xây làm nơi nghỉ dưỡng và săn bắn thuở xưa, nay là điểm ngắm cảnh tuyệt đẹp. Trải nghiệm được yêu thích nhất là ngồi thuyền độc mộc lướt nhẹ trên mặt nước tĩnh lặng, đạp xe quanh bờ hay chèo thuyền ngắm chim. Đắk Lắk đang chuyển dần sang mô hình du lịch thân thiện với voi, khuyến khích ngắm và đồng hành cùng voi thay vì cưỡi, góp phần bảo tồn đàn voi nhà quý giá của Tây Nguyên.",
+        "presentation_long_en": "Stretching over some 6.2 km² at an elevation of around 500 m, Lak Lake is the largest natural freshwater lake in the Central Highlands and, after Ba Bể, the second largest in Vietnam. It lies beside the town of Liên Sơn in Đắk Lắk province, about 55 km south-east of Buôn Ma Thuột. Its broad, still surface changes with the hours — deep blue mirroring the clouds by day, then washed in pink and orange at dawn and dusk — and is dotted with blooming lotus in season. Around the shore stand old villages of the M'Nông people, such as Buôn Jun and Buôn M'Liêng, where visitors can discover stilt houses, brocade weaving and evenings of gong music by the fire. On a hill overlooking the water sits the villa of Emperor Bảo Đại, once built as a retreat and hunting lodge and now a superb viewpoint. The most beloved experience is gliding across the calm lake in a traditional dugout canoe, cycling along the banks or paddling out to watch the birds. Đắk Lắk is gradually shifting toward elephant-friendly tourism, encouraging travellers to observe and walk alongside the region's precious domesticated elephants rather than ride them — a change that helps protect these gentle giants of the highlands.",
+        "presentation_long_ru": "Раскинувшееся примерно на 6,2 км² на высоте около 500 м, озеро Лак — самое большое естественное пресноводное озеро Центрального нагорья и второе по величине во Вьетнаме после озера Бабе. Оно лежит рядом с посёлком Лиеншон в провинции Даклак, приблизительно в 55 км к юго-востоку от Буонматхуота. Широкая и спокойная гладь озера меняется в течение дня — днём она глубоко-синяя и отражает облака, а на рассвете и закате окрашивается в розовые и оранжевые тона; в сезон её украшают цветущие лотосы. По берегам стоят старинные деревни народа мнонг, такие как Буонджун и Буонмлиенг, где путешественники знакомятся со свайными домами, ткачеством узорчатой ткани и вечерами музыки гонгов у костра. На холме над водой возвышается вилла императора Бао Дая, некогда построенная как место отдыха и охоты, а ныне прекрасная смотровая площадка. Самое любимое занятие здесь — скользить по тихой воде в традиционной лодке-долблёнке, кататься на велосипеде вдоль берега или наблюдать за птицами. Провинция Даклак постепенно переходит к «дружественному к слонам» туризму, предлагая гостям наблюдать за драгоценными домашними слонами края и идти рядом с ними, а не кататься верхом, что помогает сохранить этих добрых великанов нагорья.",
+        "highlights_vi": [
+            "Hồ nước ngọt tự nhiên lớn nhất Tây Nguyên, lớn thứ hai Việt Nam sau hồ Ba Bể",
+            "Biệt điện vua Bảo Đại trên đồi và các buôn làng M'Nông (Buôn Jun, Buôn M'Liêng) giàu bản sắc",
+            "Trải nghiệm thuyền độc mộc, ngắm bình minh/hoàng hôn và văn hóa cồng chiêng Tây Nguyên"
+        ],
+        "highlights_en": [
+            "The largest natural freshwater lake in the Central Highlands, second in Vietnam after Ba Bể",
+            "Emperor Bảo Đại's hilltop villa and characterful M'Nông villages (Buôn Jun, Buôn M'Liêng)",
+            "Dugout-canoe rides, glorious sunrises and sunsets, and living gong culture"
+        ],
+        "highlights_ru": [
+            "Крупнейшее естественное пресноводное озеро Центрального нагорья, второе во Вьетнаме после Бабе",
+            "Вилла императора Бао Дая на холме и колоритные деревни мнонг (Буонджун, Буонмлиенг)",
+            "Прогулки на лодках-долблёнках, великолепные рассветы и закаты, живая культура гонгов"
+        ],
+        "practical": {
+            "hours_vi": "Khu vực hồ mở cửa tự do; các dịch vụ thuyền và tham quan buôn làng hoạt động ban ngày.",
+            "ticket_vi": "Có thể mất phí nhỏ cho một số dịch vụ (thuyền, tham quan); giá thay đổi theo nhà cung cấp.",
+            "duration_vi": "Nửa ngày đến trọn ngày.",
+            "best_time_vi": "Mùa khô (khoảng tháng 11–4); đẹp nhất vào sáng sớm và hoàng hôn.",
+            "tips_vi": "Ưu tiên trải nghiệm thân thiện với voi (ngắm/đi bộ cùng voi); mang chống nắng, chống muỗi; nên nghỉ đêm tại buôn làng để nghe cồng chiêng."
+        },
+        "photo": None,
+        "photo_credit": None,
+        "maps": maps_for(12.4225, 108.18),
+        "official_site": None,
+        "sources": [
+            {"title": "Wikipedia (EN) — Lak Lake", "url": "https://en.wikipedia.org/wiki/Lak_Lake"}
+        ],
+        "tags": ["nature", "lake", "viewpoint", "outdoor", "ethnic", "daytrip", "top"],
+        "status": "enriched",
+        "last_updated": "2026-07-27"
+    },
+    {
+        "id": f"{REG}-thac-dray-nur",
+        "slug": "thac-dray-nur",
+        "region": REG,
+        "country": "vietnam",
+        "region_name_vi": REGION_NAME_VI,
+        "federal_district": FED,
+        "name_vi": "Thác Dray Nur",
+        "name_ru": "Водопад Дрей Нур",
+        "name_en": "Dray Nur Waterfall",
+        "categories": ["park_garden", "other"],
+        "coordinates": {"lat": 12.5405, "lon": 107.8904},
+        "address_vi": "Xã Ea Na (khu vực Krông Ana), tỉnh Đắk Lắk",
+        "rating": {"value": 4.5, "count": 6000, "source": "Google", "as_of": "2026-07"},
+        "review_summary_vi": "Du khách choáng ngợp trước dòng thác rộng và hùng vĩ, đặc biệt là hang động lớn phía sau màn nước. Nhiều người thích không khí mát mẻ, cảnh rừng nguyên sơ và cầu treo; một số lưu ý đá trơn nên đi giày bám tốt và thác đẹp nhất vào mùa mưa khi nhiều nước.",
+        "presentation_short_vi": "Thác Dray Nur là một trong những thác nước hùng vĩ nhất Tây Nguyên, nằm trên dòng Sêrêpôk huyền thoại, cách Buôn Ma Thuột khoảng 25 km. Thác rộng tới khoảng 250 m, đổ xuống từ độ cao hơn 30 m, phía sau màn nước là một hang động lớn có thể bước vào. Tên thác trong tiếng Ê Đê nghĩa là 'thác Vợ', gắn với một truyền thuyết tình yêu của người bản địa.",
+        "presentation_short_en": "Dray Nur is one of the most majestic waterfalls in the Central Highlands, set on the legendary Serepok River about 25 km from Buôn Ma Thuột. Roughly 250 m wide, it plunges more than 30 m, and behind the sheet of water lies a large cave that visitors can enter. In the Ê Đê language its name means 'the wife's waterfall', tied to a local love legend.",
+        "presentation_short_ru": "Дрей Нур — один из самых величественных водопадов Центрального нагорья; он расположен на легендарной реке Серепок примерно в 25 км от Буонматхуота. Шириной около 250 м, он низвергается с высоты более 30 м, а за завесой воды скрывается большой грот, в который можно войти. На языке эде его название означает «водопад жены» и связано с местной легендой о любви.",
+        "presentation_long_vi": "Nằm giữa đại ngàn Tây Nguyên, cách thành phố Buôn Ma Thuột chừng 25 km về phía tây nam, thác Dray Nur thuộc khu vực Krông Ana, tỉnh Đắk Lắk. Thác hình thành trên dòng sông Sêrêpôk — con sông đặc biệt chảy ngược về hướng tây, được tạo nên từ hợp lưu của hai nhánh Krông Ana ('sông Vợ') và Krông Nô ('sông Chồng'). Với bề rộng khoảng 250 m và độ cao hơn 30 m, Dray Nur tung bọt trắng xóa quanh năm, mạnh mẽ nhất vào mùa mưa. Ẩn sau tấm rèm nước khổng lồ là một hang động rộng, nơi du khách có thể men theo vách đá bước vào và cảm nhận hơi nước mát lạnh phả lên mặt. Trong tiếng Ê Đê, 'Dray Nur' nghĩa là 'thác Vợ', gắn với truyền thuyết cảm động về đôi trai gái yêu nhau nhưng bị ngăn cách, rồi hóa thân thành dòng thác. Xung quanh là rừng cây cổ thụ, cầu treo và những lối mòn dẫn tới các thác lân cận như Dray Sáp ('thác Chồng') và Gia Long, tạo thành một quần thể thác nước nổi tiếng. Đây là điểm đến lý tưởng cho những ai yêu thiên nhiên hoang sơ, thích chụp ảnh và muốn khám phá văn hóa, truyền thuyết của các dân tộc Ê Đê, M'Nông trên cao nguyên đất đỏ bazan.",
+        "presentation_long_en": "Deep in the forests of the Central Highlands, about 25 km south-west of Buôn Ma Thuột, Dray Nur Waterfall lies in the Krông Ana area of Đắk Lắk province. It forms on the Serepok — an unusual river that flows westward — created where the Krông Ana ('wife river') and Krông Nô ('husband river') meet. Roughly 250 m wide and more than 30 m high, Dray Nur thunders with white spray all year round, at its most powerful in the rainy season. Behind the vast curtain of water hides a broad cave that visitors can enter along the rock face, feeling the cool mist on their skin. In the language of the Ê Đê people, 'Dray Nur' means 'the wife's waterfall', and it is bound up with a touching legend of two lovers kept apart who turned into the falls. The surroundings are full of old-growth trees, suspension bridges and trails leading to neighbouring cascades such as Dray Sáp ('the husband's waterfall') and Gia Long, forming a celebrated waterfall complex. It is an ideal destination for those who love wild nature and photography, and who want to discover the culture and legends of the Ê Đê and M'Nông peoples on the red basalt plateau.",
+        "presentation_long_ru": "В глубине лесов Центрального нагорья, примерно в 25 км к юго-западу от Буонматхуота, в районе Кронгана провинции Даклак находится водопад Дрей Нур. Он образуется на реке Серепок — необычной реке, текущей на запад, — там, где сливаются потоки Кронгана («река-жена») и Кронгно («река-муж»). Шириной около 250 м и высотой более 30 м, Дрей Нур круглый год гремит белой водяной пылью, а мощнее всего он в сезон дождей. За огромной завесой воды скрывается просторный грот, в который можно войти вдоль скалы, ощущая прохладную водяную дымку на коже. На языке народа эде «Дрей Нур» означает «водопад жены»; с ним связана трогательная легенда о влюблённых, которых разлучили и которые превратились в водопад. Вокруг растут вековые деревья, перекинуты подвесные мосты, а тропы ведут к соседним водопадам — Дрей Сап («водопаду мужа») и Джалонг, образующим знаменитый каскадный комплекс. Это идеальное место для тех, кто любит дикую природу и фотографию и хочет прикоснуться к культуре и легендам народов эде и мнонг на красном базальтовом плато.",
+        "highlights_vi": [
+            "Một trong những thác đẹp và hùng vĩ nhất Tây Nguyên, rộng ~250 m, cao hơn 30 m trên sông Sêrêpôk",
+            "Hang động lớn ẩn sau màn nước; gắn với truyền thuyết 'thác Vợ' của người Ê Đê",
+            "Nằm trong quần thể thác Dray Nur – Dray Sáp – Gia Long, giữa rừng cây cổ thụ"
+        ],
+        "highlights_en": [
+            "One of the Central Highlands' most spectacular waterfalls — about 250 m wide and over 30 m high on the Serepok",
+            "A large cave hidden behind the water; tied to the Ê Đê legend of the 'wife's waterfall'",
+            "Part of the Dray Nur–Dray Sáp–Gia Long waterfall complex amid old-growth forest"
+        ],
+        "highlights_ru": [
+            "Один из самых впечатляющих водопадов Центрального нагорья — около 250 м в ширину и более 30 м в высоту на реке Серепок",
+            "Большой грот за завесой воды; связан с легендой эде о «водопаде жены»",
+            "Входит в каскад Дрей Нур – Дрей Сап – Джалонг посреди векового леса"
+        ],
+        "practical": {
+            "hours_vi": "Thường mở khoảng 7:00–17:00 hằng ngày.",
+            "ticket_vi": "Vé tham quan tham khảo khoảng 30.000 VND/người; giá có thể thay đổi.",
+            "duration_vi": "Khoảng 2–3 giờ.",
+            "best_time_vi": "Mùa mưa (khoảng tháng 6–11) thác nhiều nước và hùng vĩ nhất; buổi sáng đẹp để chụp ảnh.",
+            "tips_vi": "Đi giày bám tốt vì đá trơn; cẩn thận khi vào hang sau thác; mang áo mưa mỏng để tránh ướt do hơi nước; có thể kết hợp tham quan thác Dray Sáp gần đó."
+        },
+        "photo": None,
+        "photo_credit": None,
+        "maps": maps_for(12.5405, 107.8904),
+        "official_site": None,
+        "sources": [
+            {"title": "Wikipedia (EN) — Dray Sáp (cụm thác Dray Nur – Dray Sáp)", "url": "https://en.wikipedia.org/wiki/Dray_S%C3%A1p"},
+            {"title": "OpenStreetMap — Thác Dray Nur (node 5744397029)", "url": "https://www.openstreetmap.org/node/5744397029"}
+        ],
+        "tags": ["nature", "waterfall", "viewpoint", "outdoor", "daytrip", "top"],
+        "status": "enriched",
+        "last_updated": "2026-07-27"
+    }
+]
+
+d = json.load(open(f, encoding="utf-8")) if os.path.exists(f) else []
+have = {p["slug"] for p in d}
+added = [p for p in new if p["slug"] not in have]
+d += added
+json.dump(d, open(f, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
+print("them moi:", [p["slug"] for p in added])
+print("gio co", len(d), "dia diem trong", os.path.basename(f))

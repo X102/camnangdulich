@@ -40,8 +40,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=113.2322,50.9109&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=50.9109,113.2322"
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%B0%D1%80%D0%BA%20%C2%AB%D0%90%D0%BB%D1%85%D0%B0%D0%BD%D0%B0%D0%B9%C2%BB&ll=113.2322,50.9109&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Alkhanay%20National%20Park%2C%20Zabaykalsky%2C%20Russia"
     },
     "official_site": "https://alkhana.ru",
     "sources": [
@@ -60,7 +60,8 @@
       "siberia"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "zabaykalsky-vd-charskiye-peski",
@@ -103,8 +104,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Chara%20Sands%20before%20it%20rains%20-%20Kalarsky%20District%2C%20Zabaykalsky%20Krai%2C%20Siberia.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=118.062,56.793&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=56.793,118.062"
+      "yandex": "https://yandex.com/maps/?text=%D0%A7%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BF%D0%B5%D1%81%D0%BA%D0%B8&ll=118.062,56.793&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Charskiye%20Peski%20%28Chara%20Sands%29%2C%20Zabaykalsky%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -123,7 +124,8 @@
       "siberia"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "zabaykalsky-vd-aginsky-datsan",
@@ -166,8 +168,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D0%B3%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D0%B0%D1%86%D0%B0%D0%BD.%20%D0%9C%D0%B0%D0%BD%D0%B4%D0%B0%D0%BB%20%D0%A8%D0%B8%D0%B2%D0%B0.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=114.4852,51.083&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=51.083,114.4852"
+      "yandex": "https://yandex.com/maps/?text=%D0%90%D0%B3%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D0%B0%D1%86%D0%B0%D0%BD&ll=114.4852,51.083&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Aginsky%20Datsan%2C%20Zabaykalsky%2C%20Russia"
     },
     "official_site": "https://aginskydatsan.ru",
     "sources": [
@@ -186,7 +188,8 @@
       "siberia"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "zabaykalsky-vd-tsugolsky-datsan",
@@ -229,8 +232,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=115.627,51.0457&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=51.0457,115.627"
+      "yandex": "https://yandex.com/maps/?text=%D0%A6%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D0%B0%D1%86%D0%B0%D0%BD&ll=115.627,51.0457&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Tsugolsky%20Datsan%2C%20Zabaykalsky%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -249,7 +252,8 @@
       "siberia"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "zabaykalsky-vd-kazan-cathedral-chita",
@@ -292,8 +296,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Kazansky%20cathedral%20Chita.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=113.4968,52.0301&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=52.0301,113.4968"
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%81%D0%BE%D0%B1%D0%BE%D1%80&ll=113.4968,52.0301&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kazan%20Cathedral%20%28Chita%29%2C%20Zabaykalsky%2C%20Russia"
     },
     "official_site": "https://kazan-sobor.cerkov.ru",
     "sources": [
@@ -311,7 +315,8 @@
       "landmark"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "zabaykalsky-vd-decembrist-church-chita",
@@ -350,8 +355,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Decabrists%20church.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=113.5129,52.0215&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=52.0215,113.5129"
+      "yandex": "https://yandex.com/maps/?text=%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C%20%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B2%20%28%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE-%D0%90%D1%80%D1%85%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%20%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C%29&ll=113.5129,52.0215&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Church%20of%20the%20Decembrists%20%28Decembrist%20Museum%29%2C%20Zabaykalsky%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -369,7 +374,8 @@
       "heritage"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "zabaykalsky-vd-butin-palace-nerchinsk",
@@ -413,8 +419,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=116.5831,51.9784&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=51.9784,116.5831"
+      "yandex": "https://yandex.com/maps/?text=%D0%91%D1%83%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86&ll=116.5831,51.9784&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Butin%20Palace%20%28Nerchinsk%29%2C%20Zabaykalsky%2C%20Russia"
     },
     "official_site": "http://nerchmuz.ru",
     "sources": [
@@ -432,7 +438,8 @@
       "nerchinsk"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "zabaykalsky-vd-titovskaya-sopka",
@@ -475,8 +482,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=113.4583,51.9972&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=51.9972,113.4583"
+      "yandex": "https://yandex.com/maps/?text=%D0%A2%D0%B8%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D1%81%D0%BE%D0%BF%D0%BA%D0%B0&ll=113.4583,51.9972&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Titovskaya%20Sopka%2C%20Zabaykalsky%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -494,7 +501,8 @@
       "history"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "zabaykalsky-vd-lake-arey",
@@ -532,8 +540,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=112.434,50.967&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=50.967,112.434"
+      "yandex": "https://yandex.com/maps/?text=%D0%9E%D0%B7%D0%B5%D1%80%D0%BE%20%D0%90%D1%80%D0%B5%D0%B9&ll=112.434,50.967&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Lake%20Arey%2C%20Zabaykalsky%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -551,7 +559,8 @@
       "siberia"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "zabaykalsky-vd-sokhondinsky-reserve",
@@ -589,8 +598,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=110.9994,49.7194&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=49.7194,110.9994"
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%BE%D1%85%D0%BE%D0%BD%D0%B4%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA&ll=110.9994,49.7194&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Sokhondinsky%20Nature%20Reserve%2C%20Zabaykalsky%2C%20Russia"
     },
     "official_site": "https://sokhondo.ru",
     "sources": [
@@ -609,6 +618,7 @@
       "siberia"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   }
 ]

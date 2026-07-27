@@ -40,8 +40,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Novosibirsk%20KrasnyPr%20Opera%20Theatre%2007-2016.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=82.92444,55.03056&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=55.03056,82.92444"
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D1%82%D0%B5%D0%B0%D1%82%D1%80%20%D0%BE%D0%BF%D0%B5%D1%80%D1%8B%20%D0%B8%20%D0%B1%D0%B0%D0%BB%D0%B5%D1%82%D0%B0%20%28%D0%9D%D0%9E%D0%92%D0%90%D0%A2%29&ll=82.92444,55.03056&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Novosibirsk%20State%20Academic%20Opera%20and%20Ballet%20Theatre%20%28NOVAT%29%2C%20Russia"
     },
     "official_site": "https://novat.ru",
     "sources": [
@@ -59,7 +59,8 @@
       "siberia"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "novosibirsk-akademgorodok",
@@ -97,8 +98,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Monument%20to%20lab%20mouse-4.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=83.106,54.851&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.851,83.106"
+      "yandex": "https://yandex.com/maps/?text=%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%BA&ll=83.106,54.851&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Akademgorodok%20%28Novosibirsk%20Science%20Town%29%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -116,7 +117,8 @@
       "neighbourhood"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "novosibirsk-novosibirsk-zoo",
@@ -159,8 +161,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B7%D0%BE%D0%BE%D0%BF%D0%B0%D1%80%D0%BA%20-%20panoramio.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=82.88,55.056&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=55.056,82.88"
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B7%D0%BE%D0%BE%D0%BF%D0%B0%D1%80%D0%BA%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%20%D0%A0.%20%D0%90.%20%D0%A8%D0%B8%D0%BB%D0%BE&ll=82.88,55.056&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Novosibirsk%20Zoo%20%28named%20after%20R.%20A.%20Shilo%29%2C%20Russia"
     },
     "official_site": "https://zoonovosib.ru",
     "sources": [
@@ -178,7 +180,8 @@
       "siberia"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "novosibirsk-alexander-nevsky-cathedral-novosibirsk",
@@ -221,8 +224,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexander%20Nevsky%20Cathedral%20Novosibirsk%2002.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=82.9202,55.0183&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=55.0183,82.9202"
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%BE%D0%B1%D0%BE%D1%80%20%D0%B2%D0%BE%20%D0%B8%D0%BC%D1%8F%20%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE%20%D0%B1%D0%BB%D0%B0%D0%B3%D0%BE%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BA%D0%BD%D1%8F%D0%B7%D1%8F%20%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B0%20%D0%9D%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE&ll=82.9202,55.0183&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Alexander%20Nevsky%20Cathedral%2C%20Novosibirsk%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -240,7 +243,8 @@
       "siberia"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "novosibirsk-ob-reservoir-sea",
@@ -278,8 +282,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Russia-novosibirsk-lake.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=82.98889,54.84917&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.84917,82.98889"
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B2%D0%BE%D0%B4%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D0%BB%D0%B8%D1%89%D0%B5%20%28%D0%9E%D0%B1%D1%81%D0%BA%D0%BE%D0%B5%20%D0%BC%D0%BE%D1%80%D0%B5%29&ll=82.98889,54.84917&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Novosibirsk%20Reservoir%20%28Ob%20Sea%29%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -297,7 +301,8 @@
       "siberia"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "novosibirsk-west-siberian-railway-museum",
@@ -340,8 +345,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%92%D0%9B60%D0%9A-649%2C%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2C%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C%2C%20%D0%9C%D0%96%D0%A2%20%D0%BD%D0%B0%20%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D0%B8%20%D0%A1%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%20%28Trainpix%2012814%29.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=83.076008,54.869157&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.869157,83.076008"
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%B9%20%D0%B6%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D0%BE%D0%B9%20%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%B8%D0%BC.%20%D0%9D.%20%D0%90.%20%D0%90%D0%BA%D1%83%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD%D0%B0&ll=83.076008,54.869157&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Novosibirsk%20Museum%20of%20Railway%20Technology%20%28named%20after%20N.%20A.%20Akulinin%29%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -359,7 +364,8 @@
       "siberia"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "novosibirsk-monument-laboratory-mouse",
@@ -402,8 +408,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Monument%20to%20lab%20mouse-4.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=83.10655,54.848675&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.848675,83.10655"
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%BE%D0%B9%20%D0%BC%D1%8B%D1%88%D0%B8&ll=83.10655,54.848675&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Monument%20to%20the%20Laboratory%20Mouse%2C%20Novosibirsk%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -421,6 +427,7 @@
       "siberia"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   }
 ]

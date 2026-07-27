@@ -64,7 +64,7 @@ def bbox_center(items):
 
 def build():
     print("Đang biên dịch dữ liệu...")
-    regions = load_regions()
+    regions = [r for r in load_regions() if r["items"]]  # bỏ vùng rỗng (vd tỉnh cũ đã gộp đi)
     all_places = []
     region_meta = []
     cat_counts = {}
@@ -78,10 +78,12 @@ def build():
         bbox, center = bbox_center(items)
         name_vi = items[0].get("region_name_vi", r["slug"]) if items else r["slug"]
         fed = items[0].get("federal_district") if items else None
+        country = (items[0].get("country") if items else None) or "russia"
         region_meta.append({
             "slug": r["slug"],
             "name_vi": name_vi,
             "federal_district": fed,
+            "country": country,
             "count": len(items),
             "bbox": bbox,
             "center": center,
@@ -95,11 +97,19 @@ def build():
     except Exception:
         pass
 
+    country_counts = {}
+    country_names = {"russia": "Nga", "vietnam": "Việt Nam"}
+    for p in all_places:
+        c = p.get("country") or "russia"
+        country_counts[c] = country_counts.get(c, 0) + 1
+
     index = {
         "generated": generated,
         "total_places": len(all_places),
         "regions": region_meta,
         "categories": cat_counts,
+        "countries": country_counts,
+        "country_names": country_names,
         "bbox": gbbox,
         "center": gcenter,
     }

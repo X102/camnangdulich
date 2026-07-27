@@ -41,8 +41,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%A2%D0%B2%D0%B5%D1%80%D1%8C.%20%D0%98%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%83%D1%82%D0%B5%D0%B2%D0%BE%D0%B9%20%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86%20%D0%BF%D0%BE%D0%B4%20%D0%BE%D1%82%D0%B1%D0%BB%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%20%D1%84%D0%B0%D0%B2%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%81%D0%B2%D0%B5%D1%82%D0%B0.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=35.899722,56.861944&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=56.861944,35.899722"
+      "yandex": "https://yandex.com/maps/?text=%D0%A2%D0%B2%D0%B5%D1%80%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%83%D1%82%D0%B5%D0%B2%D0%BE%D0%B9%20%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86&ll=35.899722,56.861944&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Tver%20Imperial%20Travel%20Palace%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -59,7 +59,8 @@
       "volga"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "tver-lake-seliger-ostashkov",
@@ -103,8 +104,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Ostashkov%20from%20lake.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=33.07222,57.19194&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=57.19194,33.07222"
+      "yandex": "https://yandex.com/maps/?text=%D0%9E%D0%B7%D0%B5%D1%80%D0%BE%20%D0%A1%D0%B5%D0%BB%D0%B8%D0%B3%D0%B5%D1%80%2C%20%D0%9E%D1%81%D1%82%D0%B0%D1%88%D0%BA%D0%BE%D0%B2&ll=33.07222,57.19194&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Lake%20Seliger%20%26%20Ostashkov%2C%20Tver%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -121,7 +122,8 @@
       "fishing"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "tver-nilov-monastery-stolobny",
@@ -165,8 +167,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9D%D0%B8%D0%BB%D0%BE%D0%B2%D0%B0%20%D0%BF%D1%83%D1%81%D1%82%D1%8B%D0%BD%D1%8C%20Nilov%20monastery%20Seliger%20lake%20Russia%20%2834349892646%29.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=33.063611,57.234722&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=57.234722,33.063611"
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%B8%D0%BB%D0%BE%D0%B2%D0%B0%20%D0%BF%D1%83%D1%81%D1%82%D1%8B%D0%BD%D1%8C%20%28%D0%9D%D0%B8%D0%BB%D0%BE-%D0%A1%D1%82%D0%BE%D0%BB%D0%BE%D0%B1%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BF%D1%83%D1%81%D1%82%D1%8B%D0%BD%D1%8C%29&ll=33.063611,57.234722&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Nilov%20Monastery%20%28Nilo-Stolobensky%20Monastery%29%2C%20Tver%2C%20Russia"
     },
     "official_site": "http://nilostolobenskaja-pustyn.ru",
     "sources": [
@@ -183,7 +185,8 @@
       "island"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "tver-torzhok-borisoglebsky-monastery",
@@ -227,8 +230,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Borisogleb%20monastery.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=34.956667,57.033611&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=57.033611,34.956667"
+      "yandex": "https://yandex.com/maps/?text=%D0%A2%D0%BE%D1%80%D0%B6%D0%BE%D0%BA%2C%20%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B3%D0%BB%D0%B5%D0%B1%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C&ll=34.956667,57.033611&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Torzhok%20%26%20Borisoglebsky%20Monastery%2C%20Tver%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -245,7 +248,8 @@
       "history"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "tver-kalyazin-bell-tower",
@@ -289,8 +293,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Kalyazin%20bell%20tower.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=37.857306,57.243628&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=57.243628,37.857306"
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D0%B0%D0%BB%D1%8F%D0%B7%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BA%D0%BE%D0%BB%D0%BE%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D1%8F&ll=37.857306,57.243628&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kalyazin%20Flooded%20Bell%20Tower%2C%20Tver%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -307,7 +311,8 @@
       "scenic"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "tver-rzhev-memorial-soviet-soldier",
@@ -350,8 +355,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Rzhev%20Memorial%20to%20the%20Soviet%20Soldier%20show%20to%20pay%20respect.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=34.262778,56.218611&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=56.218611,34.262778"
+      "yandex": "https://yandex.com/maps/?text=%D0%A0%D0%B6%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%20%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%BC%D1%83%20%D1%81%D0%BE%D0%BB%D0%B4%D0%B0%D1%82%D1%83&ll=34.262778,56.218611&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Rzhev%20Memorial%20to%20the%20Soviet%20Soldier%2C%20Tver%2C%20Russia"
     },
     "official_site": "https://rzhevskiimemorial.ru/",
     "sources": [
@@ -368,7 +373,8 @@
       "history"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "tver-staritsa-dormition-monastery",
@@ -412,8 +418,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%A1%D1%82%D0%B0%D1%80%D0%B8%D1%86%D0%BA%D0%B8%D0%B9%20%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=34.931161,56.513442&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=56.513442,34.931161"
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D1%82%D0%B0%D1%80%D0%B8%D1%86%D0%B0%2C%20%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C&ll=34.931161,56.513442&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Staritsa%20%26%20Holy%20Dormition%20Monastery%2C%20Tver%2C%20Russia"
     },
     "official_site": "https://staritsamonastery.ru/",
     "sources": [
@@ -430,7 +436,8 @@
       "white-stone"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "tver-vyshny-volochyok",
@@ -474,8 +481,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Vyshny%20Volochek%20railstation.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=34.566667,57.583333&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=57.583333,34.566667"
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D1%8B%D1%88%D0%BD%D0%B8%D0%B9%20%D0%92%D0%BE%D0%BB%D0%BE%D1%87%D1%91%D0%BA&ll=34.566667,57.583333&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Vyshny%20Volochyok%20%28Russian%20Venice%29%2C%20Tver%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -492,7 +499,8 @@
       "architecture"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "tver-tver-embankment-afanasy-nikitin",
@@ -536,8 +544,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%D0%90%D1%84%D0%B0%D0%BD%D0%B0%D1%81%D0%B8%D1%8E%20%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D0%B8%D0%BD%D1%83%20%D0%B2%20%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B5%20%D0%A2%D0%B2%D0%B5%D1%80%D1%8C.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=35.904444,56.865556&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=56.865556,35.904444"
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F%20%D0%A2%D0%B2%D0%B5%D1%80%D0%B8%2C%20%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%D0%90%D1%84%D0%B0%D0%BD%D0%B0%D1%81%D0%B8%D1%8E%20%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D0%B8%D0%BD%D1%83&ll=35.904444,56.865556&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Tver%20Embankment%20%26%20Monument%20to%20Afanasy%20Nikitin%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -554,6 +562,7 @@
       "embankment"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   }
 ]

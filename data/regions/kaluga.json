@@ -40,8 +40,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Space%20museum%20%28Kaluga%29.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=36.230625,54.516969&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.516969,36.230625"
+      "yandex": "https://yandex.com/maps/?text=%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%20%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8%20%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8%20%D0%B8%D0%BC.%20%D0%9A.%20%D0%AD.%20%D0%A6%D0%B8%D0%BE%D0%BB%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE&ll=36.230625,54.516969&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=State%20Museum%20of%20the%20History%20of%20Cosmonautics%20named%20after%20K.%20E.%20Tsiolkovsky%2C%20Kaluga%2C%20Russia"
     },
     "official_site": "https://gmik.ru/",
     "sources": [
@@ -58,7 +58,8 @@
       "tsiolkovsky"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "kaluga-optina-pustyn-monastery",
@@ -101,8 +102,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9C%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C%20%D0%9E%D0%BF%D1%82%D0%B8%D0%BD%D0%B0%20%D0%9F%D1%83%D1%81%D1%82%D1%8B%D0%BD%D1%8C.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=35.832373,54.050759&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.050759,35.832373"
+      "yandex": "https://yandex.com/maps/?text=%D0%9E%D0%BF%D1%82%D0%B8%D0%BD%D0%B0%20%D0%BF%D1%83%D1%81%D1%82%D1%8B%D0%BD%D1%8C%20%28%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D1%82%D0%B0%D0%B2%D1%80%D0%BE%D0%BF%D0%B8%D0%B3%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BC%D1%83%D0%B6%D1%81%D0%BA%D0%BE%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C%29&ll=35.832373,54.050759&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Optina%20Pustyn%20Monastery%2C%20Kaluga%2C%20Russia"
     },
     "official_site": "https://www.optina.ru/",
     "sources": [
@@ -119,7 +120,8 @@
       "dostoevsky"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "kaluga-tarusa-town",
@@ -163,8 +165,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%A2%D0%B0%D1%80%D1%83%D1%81%D0%B0.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=37.1739,54.7235&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.7235,37.1739"
+      "yandex": "https://yandex.com/maps/?text=%D0%A2%D0%B0%D1%80%D1%83%D1%81%D0%B0&ll=37.1739,54.7235&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Tarusa%2C%20Kaluga%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -182,7 +184,8 @@
       "paustovsky"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "kaluga-nikola-lenivets-art-park",
@@ -225,8 +228,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20view%20from%20the%20window%20of%20Nikolay%20Polissky%27s%20house.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=35.604298,54.757605&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.757605,35.604298"
+      "yandex": "https://yandex.com/maps/?text=%D0%90%D1%80%D1%82-%D0%BF%D0%B0%D1%80%D0%BA%20%C2%AB%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0-%D0%9B%D0%B5%D0%BD%D0%B8%D0%B2%D0%B5%D1%86%C2%BB&ll=35.604298,54.757605&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Nikola-Lenivets%20Art%20Park%2C%20Kaluga%2C%20Russia"
     },
     "official_site": "https://nikola-lenivets.ru/",
     "sources": [
@@ -244,7 +247,8 @@
       "nature"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "kaluga-polotnyany-zavod-estate",
@@ -288,8 +292,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%BE%D0%B5%20%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%83%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D1%8B%20%D0%9F%D0%BE%D0%BB%D0%BE%D1%82%D0%BD%D1%8F%D0%BD%D1%8B%D0%B9%20%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=35.996671,54.738785&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.738785,35.996671"
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%B9-%D1%83%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0%20%C2%AB%D0%9F%D0%BE%D0%BB%D0%BE%D1%82%D0%BD%D1%8F%D0%BD%D1%8B%D0%B9%20%D0%97%D0%B0%D0%B2%D0%BE%D0%B4%C2%BB%20%28%D1%83%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0%20%D0%93%D0%BE%D0%BD%D1%87%D0%B0%D1%80%D0%BE%D0%B2%D1%8B%D1%85%29&ll=35.996671,54.738785&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Polotnyany%20Zavod%20Estate%20%28Goncharov%20Manor%29%2C%20Kaluga%2C%20Russia"
     },
     "official_site": "https://pzapovednik.ru/",
     "sources": [
@@ -307,7 +311,8 @@
       "museum"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "kaluga-tsiolkovsky-house-museum",
@@ -350,8 +355,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=36.230203,54.511207&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.511207,36.230203"
+      "yandex": "https://yandex.com/maps/?text=%D0%94%D0%BE%D0%BC-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%20%D0%9A.%20%D0%AD.%20%D0%A6%D0%B8%D0%BE%D0%BB%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE&ll=36.230203,54.511207&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=K.%20E.%20Tsiolkovsky%20House-Museum%2C%20Kaluga%2C%20Russia"
     },
     "official_site": "https://gmik.ru/otdely/dom-muzey-k-e-tsiolkovskogo/",
     "sources": [
@@ -369,7 +374,8 @@
       "science"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "kaluga-shamordino-convent",
@@ -412,8 +418,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Shamordino-04.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=35.868803,54.160059&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.160059,35.868803"
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%90%D0%BC%D0%B2%D1%80%D0%BE%D1%81%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BF%D1%83%D1%81%D1%82%D1%8B%D0%BD%D1%8C%20%28%D0%A8%D0%B0%D0%BC%D0%BE%D1%80%D0%B4%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C%29&ll=35.868803,54.160059&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kazan%20Amvrosievskaya%20Convent%2C%20Shamordino%2C%20Kaluga%2C%20Russia"
     },
     "official_site": "https://www.shamordino-m.ru/",
     "sources": [
@@ -430,7 +436,8 @@
       "architecture"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "kaluga-ugra-national-park",
@@ -473,8 +480,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Ugra%20River.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=36.18667,54.22944&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.22944,36.18667"
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%B0%D1%80%D0%BA%20%C2%AB%D0%A3%D0%B3%D1%80%D0%B0%C2%BB&ll=36.18667,54.22944&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Ugra%20National%20Park%2C%20Kaluga%2C%20Russia"
     },
     "official_site": "https://parkugra.ru/",
     "sources": [
@@ -492,6 +499,7 @@
       "history"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   }
 ]

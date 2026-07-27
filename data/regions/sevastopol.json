@@ -42,8 +42,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Chersonesos%20ruins.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=33.49333,44.61167&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=44.61167,33.49333"
+      "yandex": "https://yandex.com/maps/?text=%D0%A5%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B5%D1%81%20%D0%A2%D0%B0%D0%B2%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9&ll=33.49333,44.61167&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Tauric%20Chersonesos%2C%20Sevastopol%2C%20Russia"
     },
     "official_site": "https://chersonesos-sev.ru",
     "sources": [
@@ -61,7 +61,8 @@
       "outdoor"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "sevastopol-panorama-defence-sevastopol",
@@ -104,8 +105,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Museum%20Panorama%20Defence%20of%20Sevastopol%201854-1855%20in%20Sevastopol.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=33.523392,44.595558&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=44.595558,33.523392"
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D0%B0%20%C2%AB%D0%9E%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B0%20%D0%A1%D0%B5%D0%B2%D0%B0%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D1%8F%201854%E2%80%941855%C2%BB&ll=33.523392,44.595558&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Panorama%20%27The%20Defence%20of%20Sevastopol%201854-1855%27%2C%20Russia"
     },
     "official_site": "https://sevmuseum.ru",
     "sources": [
@@ -122,7 +123,8 @@
       "indoor"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "sevastopol-malakhov-kurgan",
@@ -167,8 +169,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Malakhov4.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=33.545649,44.606516&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=44.606516,33.545649"
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D0%B0%D0%BB%D0%B0%D1%85%D0%BE%D0%B2%20%D0%BA%D1%83%D1%80%D0%B3%D0%B0%D0%BD&ll=33.545649,44.606516&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Malakhov%20Kurgan%2C%20Sevastopol%2C%20Russia"
     },
     "official_site": "https://sevmuseum.ru",
     "sources": [
@@ -186,7 +188,8 @@
       "outdoor"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "sevastopol-monument-sunken-ships",
@@ -229,8 +232,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%D0%B7%D0%B0%D1%82%D0%BE%D0%BF%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%BC%20%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8F%D0%BC%20%D0%B2%20%D0%A1%D0%B5%D0%B2%D0%B0%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D0%B5.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=33.524263,44.618388&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=44.618388,33.524263"
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%D0%B7%D0%B0%D1%82%D0%BE%D0%BF%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%BC%20%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8F%D0%BC&ll=33.524263,44.618388&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Monument%20to%20the%20Sunken%20Ships%2C%20Sevastopol%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -248,7 +251,8 @@
       "outdoor"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "sevastopol-grafskaya-pier",
@@ -292,8 +296,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%A1%D0%B5%D0%B2%D0%B0%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C.%20%D0%93%D1%80%D0%B0%D1%84%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BF%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D1%8C.%20%D0%A1%D1%82%D0%B0%D1%80%D0%B0%20%D0%BB%D0%B8%D1%81%D1%82%D1%96%D0%B2%D0%BA%D0%B0.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=33.526667,44.616944&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=44.616944,33.526667"
+      "yandex": "https://yandex.com/maps/?text=%D0%93%D1%80%D0%B0%D1%84%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BF%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D1%8C&ll=33.526667,44.616944&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Count%27s%20Wharf%20%28Grafskaya%20Pier%29%2C%20Sevastopol%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -310,7 +314,8 @@
       "outdoor"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "sevastopol-sapun-gora",
@@ -355,8 +360,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/ISU-152%20model%201944%20at%20the%20Museum%20on%20Sapun%20Mountain%20Sevastopol%202.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=33.582861,44.553347&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=44.553347,33.582861"
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%B0%D0%BF%D1%83%D0%BD-%D0%B3%D0%BE%D1%80%D0%B0&ll=33.582861,44.553347&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Sapun%20Mountain%20Memorial%20%26%20Diorama%2C%20Sevastopol%2C%20Russia"
     },
     "official_site": "https://sevmuseum.ru",
     "sources": [
@@ -374,7 +379,8 @@
       "outdoor"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "sevastopol-35th-coastal-battery",
@@ -419,8 +425,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=33.406257,44.558806&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=44.558806,33.406257"
+      "yandex": "https://yandex.com/maps/?text=35-%D1%8F%20%D0%B1%D0%B5%D1%80%D0%B5%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%B1%D0%B0%D1%82%D0%B0%D1%80%D0%B5%D1%8F&ll=33.406257,44.558806&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=35th%20Coastal%20Battery%20Memorial%20Complex%2C%20Sevastopol%2C%20Russia"
     },
     "official_site": "https://35batery.ru",
     "sources": [
@@ -438,7 +444,8 @@
       "seaside"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "sevastopol-balaklava-submarine-base",
@@ -482,8 +489,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Balaklava%20Naval%20museum%20complex%20IMG%201012%201725.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=33.59648,44.50104&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=44.50104,33.59648"
+      "yandex": "https://yandex.com/maps/?text=%D0%91%D0%B0%D0%BB%D0%B0%D0%BA%D0%BB%D0%B0%D0%B2%D0%B0%20%28%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%20%D0%BF%D0%BE%D0%B4%D0%B7%D0%B5%D0%BC%D0%BD%D0%BE%D0%B9%20%D0%B1%D0%B0%D0%B7%D1%8B%20%D0%BF%D0%BE%D0%B4%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D1%85%20%D0%BB%D0%BE%D0%B4%D0%BE%D0%BA%2C%20%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%20825%20%D0%93%D0%A2%D0%A1%29&ll=33.59648,44.50104&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Balaklava%20%26%20the%20Underground%20Submarine%20Base%20Museum%20%28Object%20825%20GTS%29%2C%20Sevastopol%2C%20Russia"
     },
     "official_site": "https://muzey-sevastopol.com",
     "sources": [
@@ -501,7 +508,8 @@
       "history"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "sevastopol-vladimir-cathedral-admirals",
@@ -545,8 +553,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/St.%20Vladimir%27s%20Cathedral%2C%20Sevastopol%2005.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=33.523536,44.610447&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=44.610447,33.523536"
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D0%B1%D0%BE%D1%80%20%E2%80%94%20%D1%83%D1%81%D1%8B%D0%BF%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D0%B0%20%D0%B0%D0%B4%D0%BC%D0%B8%D1%80%D0%B0%D0%BB%D0%BE%D0%B2&ll=33.523536,44.610447&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=St.%20Vladimir%27s%20Cathedral%20%E2%80%94%20Tomb%20of%20the%20Admirals%2C%20Sevastopol%2C%20Russia"
     },
     "official_site": "https://sevmuseum.ru",
     "sources": [
@@ -564,7 +572,8 @@
       "tomb"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "sevastopol-cape-fiolent",
@@ -608,8 +617,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Cape%20Fiolent%2C%20Crimea.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=33.48889,44.49861&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=44.49861,33.48889"
+      "yandex": "https://yandex.com/maps/?text=%D0%BC%D1%8B%D1%81%20%D0%A4%D0%B8%D0%BE%D0%BB%D0%B5%D0%BD%D1%82&ll=33.48889,44.49861&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Cape%20Fiolent%2C%20Sevastopol%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -627,6 +636,7 @@
       "outdoor"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   }
 ]

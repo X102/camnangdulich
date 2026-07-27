@@ -35,8 +35,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Lagonaki%20plateau.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=40.0,44.0833&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=44.0833,40.0"
+      "yandex": "https://yandex.com/maps/?text=%D0%BF%D0%BB%D0%B0%D1%82%D0%BE%20%D0%9B%D0%B0%D0%B3%D0%BE-%D0%9D%D0%B0%D0%BA%D0%B8&ll=40.0,44.0833&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Lago-Naki%20Plateau%2C%20Adygea%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -54,7 +54,8 @@
       "skiing"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "adygea-guam-gorge",
@@ -92,8 +93,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Guam%20Gorge%20-%20panoramio.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=39.928889,44.236944&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=44.236944,39.928889"
+      "yandex": "https://yandex.com/maps/?text=%D0%93%D1%83%D0%B0%D0%BC%D1%81%D0%BA%D0%BE%D0%B5%20%D1%83%D1%89%D0%B5%D0%BB%D1%8C%D0%B5&ll=39.928889,44.236944&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Guam%20Gorge%2C%20Adygea%2C%20Russia"
     },
     "official_site": "https://guamka-kuban.ru",
     "sources": [
@@ -111,7 +112,8 @@
       "hiking"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "adygea-rufabgo-waterfalls",
@@ -149,8 +151,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/7.%20%D0%92%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4%20%D0%A7%D0%B0%D1%88%D0%B0%20%D0%BB%D1%8E%D0%B1%D0%B2%D0%B8.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=40.18793,44.270026&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=44.270026,40.18793"
+      "yandex": "https://yandex.com/maps/?text=%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4%D1%8B%20%D0%A0%D1%83%D1%84%D0%B0%D0%B1%D0%B3%D0%BE&ll=40.18793,44.270026&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Rufabgo%20Waterfalls%2C%20Adygea%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -167,7 +169,8 @@
       "canyon"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "adygea-khadzhokh-gorge",
@@ -205,8 +208,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%A5%D0%B0%D0%B4%D0%B6%D0%BE%D1%85%D1%81%D0%BA%D0%B0%D1%8F%20%D1%82%D0%B5%D1%81%D0%BD%D0%B8%D0%BD%D0%B0.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=40.174389,44.287661&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=44.287661,40.174389"
+      "yandex": "https://yandex.com/maps/?text=%D0%A5%D0%B0%D0%B4%D0%B6%D0%BE%D1%85%D1%81%D0%BA%D0%B0%D1%8F%20%D1%82%D0%B5%D1%81%D0%BD%D0%B8%D0%BD%D0%B0&ll=40.174389,44.287661&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Khadzhokh%20Gorge%2C%20Adygea%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -223,7 +226,8 @@
       "boardwalk"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "adygea-bolshaya-azishskaya-cave",
@@ -261,8 +265,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=40.02884,44.121432&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=44.121432,40.02884"
+      "yandex": "https://yandex.com/maps/?text=%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F%20%D0%90%D0%B7%D0%B8%D1%88%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0&ll=40.02884,44.121432&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Bolshaya%20Azishskaya%20Cave%20%28Big%20Azish%20Cave%29%2C%20Adygea%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -279,7 +283,8 @@
       "geology"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "adygea-svyato-mikhailovsky-monastery-adygea",
@@ -317,8 +322,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C%2C%20%D0%BA%D0%BE%D0%BB%D0%BE%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D1%8F.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=40.318092,44.290744&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=44.290744,40.318092"
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C&ll=40.318092,44.290744&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Svyato-Mikhailovsky%20Monastery%20%28St.%20Michael%27s%20Athos%20Monastery%29%2C%20Adygea%2C%20Russia"
     },
     "official_site": "http://mihailov-monastir.narod.ru/",
     "sources": [
@@ -335,7 +340,8 @@
       "history"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "adygea-mezmay",
@@ -373,8 +379,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%92%D0%B8%D0%B4%20%D0%BD%D0%B0%20%D0%BF%D0%BE%D1%81%D1%91%D0%BB%D0%BE%D0%BA%20%D0%9C%D0%B5%D0%B7%D0%BC%D0%B0%D0%B9.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=39.966667,44.2&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=44.2,39.966667"
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D0%B5%D0%B7%D0%BC%D0%B0%D0%B9&ll=39.966667,44.2&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Mezmay%2C%20Adygea%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -391,7 +397,8 @@
       "ecotourism"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "adygea-maykop-city",
@@ -429,8 +436,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9C%D0%B0%D0%B9%D0%BA%D0%BE%D0%BF%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=40.106111,44.609722&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=44.609722,40.106111"
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D0%B0%D0%B9%D0%BA%D0%BE%D0%BF&ll=40.106111,44.609722&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Maykop%2C%20Adygea%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -447,6 +454,7 @@
       "architecture"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   }
 ]

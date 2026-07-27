@@ -42,8 +42,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Kreml%20veliky%20novgorod.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=31.275556,58.520972&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=58.520972,31.275556"
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D0%B5%D1%82%D0%B8%D0%BD%D0%B5%D1%86&ll=31.275556,58.520972&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Novgorod%20Kremlin%20%28Detinets%29%2C%20Russia"
     },
     "official_site": "https://novgorodmuseum.ru",
     "sources": [
@@ -60,7 +60,8 @@
       "architecture"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "novgorod-st-sophia-cathedral-novgorod",
@@ -104,8 +105,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Sophia%20Cathedral%20in%20Novgorod.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=31.2766,58.52217&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=58.52217,31.2766"
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%BE%D1%84%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D0%B1%D0%BE%D1%80&ll=31.2766,58.52217&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Cathedral%20of%20St%20Sophia%2C%20Novgorod%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -122,7 +123,8 @@
       "architecture"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "novgorod-yaroslavs-court",
@@ -166,8 +168,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Nicholas%20Church%20on%20Yaroslav%27s%20Court%20%28Veliky%20Novgorod%29.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=31.282561,58.518471&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=58.518471,31.282561"
+      "yandex": "https://yandex.com/maps/?text=%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%BE%D0%B2%D0%BE%20%D0%B4%D0%B2%D0%BE%D1%80%D0%B8%D1%89%D0%B5&ll=31.282561,58.518471&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Yaroslav%27s%20Court%20and%20Marketplace%2C%20Novgorod%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -184,7 +186,8 @@
       "architecture"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "novgorod-vitoslavlitsy-museum",
@@ -228,8 +231,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Vitoslavlicy%207.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=31.272267,58.490325&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=58.490325,31.272267"
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D0%B8%D1%82%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%BB%D0%B8%D1%86%D1%8B&ll=31.272267,58.490325&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Vitoslavlitsy%20Museum%20of%20Wooden%20Architecture%2C%20Novgorod%2C%20Russia"
     },
     "official_site": "https://novgorodmuseum.ru/muzei/vitoslavlitsy",
     "sources": [
@@ -246,7 +249,8 @@
       "history"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "novgorod-yuriev-monastery",
@@ -289,8 +293,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Yuriev-Monastery-Novgorod.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=31.285278,58.487499&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=58.487499,31.285278"
+      "yandex": "https://yandex.com/maps/?text=%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C&ll=31.285278,58.487499&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=St%20George%27s%20%28Yuriev%29%20Monastery%2C%20Novgorod%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -307,7 +311,8 @@
       "architecture"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "novgorod-millennium-of-russia-monument",
@@ -350,8 +355,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%D0%A2%D1%8B%D1%81%D1%8F%D1%87%D0%B5%D0%BB%D0%B5%D1%82%D0%B8%D0%B5%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=31.275242,58.521126&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=58.521126,31.275242"
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%C2%AB%D0%A2%D1%8B%D1%81%D1%8F%D1%87%D0%B5%D0%BB%D0%B5%D1%82%D0%B8%D0%B5%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8%C2%BB&ll=31.275242,58.521126&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Millennium%20of%20Russia%20Monument%2C%20Novgorod%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -368,7 +373,8 @@
       "sculpture"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "novgorod-rurikovo-gorodishche",
@@ -411,8 +417,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9%20%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%20%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%89%D0%B5.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=31.283333,58.483334&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=58.483334,31.283333"
+      "yandex": "https://yandex.com/maps/?text=%D0%A0%D1%8E%D1%80%D0%B8%D0%BA%D0%BE%D0%B2%D0%BE%20%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%89%D0%B5&ll=31.283333,58.483334&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Rurikovo%20Gorodishche%2C%20Novgorod%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -429,7 +435,8 @@
       "viking"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "novgorod-valday-iversky-monastery",
@@ -472,8 +479,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Valdaysky%20Monastery%2032.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=33.30417,57.98861&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=57.98861,33.30417"
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D0%B0%D0%BB%D0%B4%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20%D0%98%D0%B2%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C&ll=33.30417,57.98861&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Valday%20Iversky%20Monastery%2C%20Novgorod%2C%20Russia"
     },
     "official_site": "https://iveron.ru",
     "sources": [
@@ -490,6 +497,7 @@
       "architecture"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   }
 ]

@@ -41,8 +41,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Tobolsk%20Kremlin%20by%20Dmitry%20Medvedev.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=68.252778,58.198889&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=58.198889,68.252778"
+      "yandex": "https://yandex.com/maps/?text=%D0%A2%D0%BE%D0%B1%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D1%80%D0%B5%D0%BC%D0%BB%D1%8C&ll=68.252778,58.198889&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Tobolsk%20Kremlin%2C%20Tyumen%2C%20Russia"
     },
     "official_site": "http://tiamz.ru",
     "sources": [
@@ -60,7 +60,8 @@
       "museum"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "tyumen-abalak-monastery",
@@ -104,8 +105,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%20%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C%20%D1%81.%D0%90%D0%B1%D0%B0%D0%BB%D0%B0%D0%BA.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=68.59,58.129167&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=58.129167,68.59"
+      "yandex": "https://yandex.com/maps/?text=%D0%90%D0%B1%D0%B0%D0%BB%D0%B0%D0%BA%D1%81%D0%BA%D0%B8%D0%B9%20%D0%97%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C&ll=68.59,58.129167&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Abalak%20%28Znamensky%29%20Monastery%2C%20Tyumen%2C%20Russia"
     },
     "official_site": "https://abalak-monastery.cerkov.ru",
     "sources": [
@@ -123,7 +124,8 @@
       "church"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "tyumen-tyumen-hot-springs",
@@ -166,8 +168,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=65.440925,57.234622&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=57.234622,65.440925"
+      "yandex": "https://yandex.com/maps/?text=%D0%93%D0%BE%D1%80%D1%8F%D1%87%D0%B8%D0%B5%20%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A2%D1%8E%D0%BC%D0%B5%D0%BD%D0%B8&ll=65.440925,57.234622&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Tyumen%20Hot%20Springs%20%28Thermal%20Springs%29%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -185,7 +187,8 @@
       "nature"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "tyumen-tyumen-embankment",
@@ -229,8 +232,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Tura%20River%20embankment%20013.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=65.52194,57.164197&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=57.164197,65.52194"
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B5%D0%BA%D0%B8%20%D0%A2%D1%83%D1%80%D1%8B&ll=65.52194,57.164197&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Tyumen%20Embankment%20%28Tura%20River%20Embankment%29%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -248,7 +251,8 @@
       "bridge"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "tyumen-znamensky-cathedral-tyumen",
@@ -291,8 +295,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Cathedral%20of%20the%20Theotokos%20of%20the%20Sign%20%28Tyumen%29%2002.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=65.531974,57.158821&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=57.158821,65.531974"
+      "yandex": "https://yandex.com/maps/?text=%D0%97%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D0%B1%D0%BE%D1%80%20%28%D0%A2%D1%8E%D0%BC%D0%B5%D0%BD%D1%8C%29&ll=65.531974,57.158821&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Znamensky%20Cathedral%20%28Tyumen%29%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -309,7 +313,8 @@
       "history"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "tyumen-yalutorovsk-ostrog",
@@ -353,8 +358,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Y-ostrog.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=66.312206,56.654689&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=56.654689,66.312206"
+      "yandex": "https://yandex.com/maps/?text=%D0%AF%D0%BB%D1%83%D1%82%D0%BE%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B3&ll=66.312206,56.654689&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Yalutorovsk%20Ostrog%2C%20Tyumen%2C%20Russia"
     },
     "official_site": "https://yalutmuzey.ru",
     "sources": [
@@ -372,7 +377,8 @@
       "crafts"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "tyumen-tobolsk-prison-castle-museum",
@@ -416,8 +422,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Turemniy%20zamok.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=68.251,58.197&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=58.197,68.251"
+      "yandex": "https://yandex.com/maps/?text=%D0%A2%D1%8E%D1%80%D0%B5%D0%BC%D0%BD%D1%8B%D0%B9%20%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA%20%28%D0%A2%D0%BE%D0%B1%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%29&ll=68.251,58.197&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Tobolsk%20Prison%20Castle%20%28Museum%20of%20Siberian%20Penal%20Servitude%20and%20Exile%29%2C%20Tyumen%2C%20Russia"
     },
     "official_site": "http://tiamz.ru",
     "sources": [
@@ -434,6 +440,7 @@
       "dark tourism"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   }
 ]

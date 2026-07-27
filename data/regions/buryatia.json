@@ -40,8 +40,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=107.203333,51.758333&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=51.758333,107.203333"
+      "yandex": "https://yandex.com/maps/?text=%D0%98%D0%B2%D0%BE%D0%BB%D0%B3%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D0%B0%D1%86%D0%B0%D0%BD&ll=107.203333,51.758333&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Ivolginsky%20Datsan%2C%20Buryatia%2C%20Russia"
     },
     "official_site": "https://ivolgdatsan.ru",
     "sources": [
@@ -59,7 +59,8 @@
       "siberia"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "buryatia-lake-baikal-buryatia-side",
@@ -97,8 +98,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Lake%20Baikal%2C%20Siberian%20taiga%20on%20slopes%2C%20Siberia%2C%20Russia.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=108.217,52.933&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=52.933,108.217"
+      "yandex": "https://yandex.com/maps/?text=%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%2C%20%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9%20%D0%B1%D0%B5%D1%80%D0%B5%D0%B3&ll=108.217,52.933&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Lake%20Baikal%2C%20Eastern%20Shore%20%28Buryatia%20side%29%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -117,7 +118,8 @@
       "swimming"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "buryatia-ulan-ude-lenin-head",
@@ -160,8 +162,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20memorial%20to%20V.%20I.%20Lenin%20in%20Ulan-Ude.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=107.585337,51.834853&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=51.834853,107.585337"
+      "yandex": "https://yandex.com/maps/?text=%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0%2C%20%D0%A3%D0%BB%D0%B0%D0%BD-%D0%A3%D0%B4%D1%8D&ll=107.585337,51.834853&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Lenin%27s%20Head%20Monument%2C%20Ulan-Ude%2C%20Buryatia%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -179,7 +181,8 @@
       "free"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "buryatia-barguzin-valley",
@@ -217,8 +220,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=110.416667,54.333333&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.333333,110.416667"
+      "yandex": "https://yandex.com/maps/?text=%D0%91%D0%B0%D1%80%D0%B3%D1%83%D0%B7%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B4%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0&ll=110.416667,54.333333&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Barguzin%20Valley%2C%20Buryatia%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -237,7 +240,8 @@
       "baikal"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "buryatia-svyatoy-nos-peninsula",
@@ -275,8 +279,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Svyatoy%20Nos%20Peninsula%20Buryatia.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=108.85,53.69&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=53.69,108.85"
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%BE%D0%BB%D1%83%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%20%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B9%20%D0%9D%D0%BE%D1%81%2C%20%D0%A7%D0%B8%D0%B2%D1%8B%D1%80%D0%BA%D1%83%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B7%D0%B0%D0%BB%D0%B8%D0%B2&ll=108.85,53.69&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Svyatoy%20Nos%20Peninsula%20%26%20Chivyrkuysky%20Bay%2C%20Buryatia%2C%20Russia"
     },
     "official_site": "http://zapovednoe-podlemorye.ru",
     "sources": [
@@ -295,7 +299,8 @@
       "bay"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "buryatia-tunka-valley",
@@ -338,8 +343,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Road%20in%20the%20Tunkinsky%20district%20of%20Buryatia%2C%20Russia.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=102.42889,51.90861&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=51.90861,102.42889"
+      "yandex": "https://yandex.com/maps/?text=%D0%A2%D1%83%D0%BD%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B4%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0&ll=102.42889,51.90861&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Tunka%20Valley%2C%20Buryatia%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -359,7 +364,8 @@
       "buddhism"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "buryatia-old-believers-tarbagatai",
@@ -403,8 +409,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=107.359722,51.480556&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=51.480556,107.359722"
+      "yandex": "https://yandex.com/maps/?text=%D0%A2%D0%B0%D1%80%D0%B1%D0%B0%D0%B3%D0%B0%D1%82%D0%B0%D0%B9%20%28%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%BE%D0%B1%D1%80%D1%8F%D0%B4%D1%86%D1%8B%29&ll=107.359722,51.480556&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Tarbagatai%20Old%20Believers%20Village%2C%20Buryatia%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -423,7 +429,8 @@
       "folk-music"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "buryatia-ust-barguzin",
@@ -461,8 +468,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=109.033,53.4&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=53.4,109.033"
+      "yandex": "https://yandex.com/maps/?text=%D0%A3%D1%81%D1%82%D1%8C-%D0%91%D0%B0%D1%80%D0%B3%D1%83%D0%B7%D0%B8%D0%BD&ll=109.033,53.4&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Ust-Barguzin%2C%20Buryatia%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -480,6 +487,7 @@
       "siberia"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   }
 ]

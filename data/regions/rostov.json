@@ -41,8 +41,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Rostov-on-Don%2C%20Panorama%20of%20Don%20River%2C%20Russia.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=39.707253,47.2127&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=47.2127,39.707253"
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F%20%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B0-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83&ll=39.707253,47.2127&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Rostov-on-Don%20Embankment%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -60,7 +60,8 @@
       "outdoor"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "rostov-starocherkasskaya",
@@ -105,8 +106,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Cathedral%20of%20the%20Resurrection.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=40.0508,47.2408&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=47.2408,40.0508"
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D1%87%D0%B5%D1%80%D0%BA%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D1%8F%20%D1%81%D1%82%D0%B0%D0%BD%D0%B8%D1%86%D0%B0&ll=40.0508,47.2408&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Starocherkasskaya%20%28Old%20Cherkassk%29%2C%20Rostov%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -124,7 +125,8 @@
       "open-air"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "rostov-novocherkassk-ascension-cathedral",
@@ -168,8 +170,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Voznesensky%20Metropolitan%20Cathedral%20Novocherkassk%201905.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=40.110176,47.414214&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=47.414214,40.110176"
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D0%BE%D0%B7%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B2%D0%BE%D0%B9%D1%81%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BA%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%81%D0%BE%D0%B1%D0%BE%D1%80&ll=40.110176,47.414214&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Ascension%20Cathedral%20%28Novocherkassk%29%2C%20Rostov%2C%20Russia"
     },
     "official_site": "https://soborpatriarha.ru",
     "sources": [
@@ -187,7 +189,8 @@
       "landmark"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "rostov-tanais-museum",
@@ -231,8 +234,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Tanais%20Museum%2026.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=39.359671,47.269673&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=47.269673,39.359671"
+      "yandex": "https://yandex.com/maps/?text=%D0%90%D1%80%D1%85%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9-%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA%20%C2%AB%D0%A2%D0%B0%D0%BD%D0%B0%D0%B8%D1%81%C2%BB&ll=39.359671,47.269673&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Tanais%20Archaeological%20Museum-Reserve%2C%20Rostov%2C%20Russia"
     },
     "official_site": "https://museum-tanais.ru",
     "sources": [
@@ -250,7 +253,8 @@
       "ruins"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "rostov-taganrog-chekhov",
@@ -294,8 +298,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Anton%20Pavlovich%20Chekhov%27s%20house-museum.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=38.931199,47.206864&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=47.206864,38.931199"
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%B8%20%D0%90.%20%D0%9F.%20%D0%A7%D0%B5%D1%85%D0%BE%D0%B2%D0%B0%20%D0%B2%20%D0%A2%D0%B0%D0%B3%D0%B0%D0%BD%D1%80%D0%BE%D0%B3%D0%B5&ll=38.931199,47.206864&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Chekhov%20Museums%20in%20Taganrog%2C%20Rostov%2C%20Russia"
     },
     "official_site": "https://tgliamz.ru",
     "sources": [
@@ -313,7 +317,8 @@
       "house-museum"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "rostov-azov-fortress",
@@ -358,8 +363,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Azov%20fortress.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=39.423564,47.111687&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=47.111687,39.423564"
+      "yandex": "https://yandex.com/maps/?text=%D0%90%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C&ll=39.423564,47.111687&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Azov%20Fortress%2C%20Rostov%2C%20Russia"
     },
     "official_site": "https://azovmuseum.ru",
     "sources": [
@@ -377,7 +382,8 @@
       "museum"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "rostov-rostov-nativity-cathedral",
@@ -421,8 +427,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%81%D0%BE%D0%B1%D0%BE%D1%80%20%D0%B2%20%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=39.71197,47.21724&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=47.21724,39.71197"
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%BE%D0%B1%D0%BE%D1%80%20%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9%20%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B&ll=39.71197,47.21724&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Cathedral%20of%20the%20Nativity%20of%20the%20Theotokos%20%28Rostov-on-Don%29%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -439,7 +445,8 @@
       "landmark"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "rostov-sholokhov-veshenskaya",
@@ -484,8 +491,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%92%D0%B5%D1%88%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2C%20%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB.%2C%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2C%20%D0%A3%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0%20%D0%A8%D0%BE%D0%BB%D0%BE%D1%85%D0%BE%D0%B2%D0%B0%20-%20panoramio.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=41.72873,49.626507&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=49.626507,41.72873"
+      "yandex": "https://yandex.com/maps/?text=%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9-%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA%20%D0%9C.%20%D0%90.%20%D0%A8%D0%BE%D0%BB%D0%BE%D1%85%D0%BE%D0%B2%D0%B0&ll=41.72873,49.626507&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Sholokhov%20State%20Museum-Reserve%20%28Veshenskaya%29%2C%20Rostov%2C%20Russia"
     },
     "official_site": "https://www.sholokhov.ru",
     "sources": [
@@ -503,6 +510,7 @@
       "don-river"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   }
 ]

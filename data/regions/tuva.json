@@ -40,8 +40,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%A6%D0%B5%D0%BD%D1%82%D1%80%20%D0%90%D0%B7%D0%B8%D0%B8%20%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82%202015%D0%B3.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=94.443588,51.724898&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=51.724898,94.443588"
+      "yandex": "https://yandex.com/maps/?text=%D0%BE%D0%B1%D0%B5%D0%BB%D0%B8%D1%81%D0%BA%20%C2%AB%D0%A6%D0%B5%D0%BD%D1%82%D1%80%20%D0%90%D0%B7%D0%B8%D0%B8%C2%BB&ll=94.443588,51.724898&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Center%20of%20Asia%20Obelisk%2C%20Tuva%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -59,7 +59,8 @@
       "siberia"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "tuva-tuva-national-museum-scythian-gold",
@@ -102,8 +103,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=94.4294,51.719013&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=51.719013,94.4294"
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%20%D0%90%D0%BB%D0%B4%D0%B0%D0%BD-%D0%9C%D0%B0%D0%B0%D0%B4%D1%8B%D1%80%20%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8%20%D0%A2%D1%8B%D0%B2%D0%B0&ll=94.4294,51.719013&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20the%20Republic%20of%20Tuva%20%28Aldan-Maadyr%29%2C%20Russia"
     },
     "official_site": "https://tuvmuseum.ru",
     "sources": [
@@ -121,7 +122,8 @@
       "siberia"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "tuva-dogee-mountain",
@@ -159,8 +161,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Om%20mani%20padme%20hum%20on%20Dogee%20Mountain%2C%20Kyzyl%2C%20Tuva%20Republic%2C%20Russia.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=94.423224,51.761635&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=51.761635,94.423224"
+      "yandex": "https://yandex.com/maps/?text=%D0%B3%D0%BE%D1%80%D0%B0%20%D0%94%D0%BE%D0%B3%D1%8D%D1%8D&ll=94.423224,51.761635&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Mount%20D%C3%B6gee%2C%20Tuva%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -178,7 +180,8 @@
       "tuva"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "tuva-ubsunur-hollow",
@@ -216,8 +219,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Uvs-Nuur%20Hollow%2C%20Mongolia%2C%20Russia%2C%20Landsat-7%20CROP.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=93.177212,50.66292&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=50.66292,93.177212"
+      "yandex": "https://yandex.com/maps/?text=%D0%A3%D0%B1%D1%81%D1%83%D0%BD%D1%83%D1%80%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BA%D0%BE%D1%82%D0%BB%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0&ll=93.177212,50.66292&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Uvs%20Nuur%20Basin%20%28Ubsunur%20Hollow%29%2C%20Tuva%2C%20Russia"
     },
     "official_site": "https://ubsunurtuva.ru",
     "sources": [
@@ -236,7 +239,8 @@
       "siberia"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "tuva-ustuu-huree-monastery",
@@ -279,8 +283,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%A3%D1%81%D1%82%D1%83%D1%83-%D0%A5%D1%83%D1%80%D1%8D%D1%8D%2001.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=91.656614,51.257401&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=51.257401,91.656614"
+      "yandex": "https://yandex.com/maps/?text=%D0%A3%D1%81%D1%82%D1%83%D1%83-%D0%A5%D1%83%D1%80%D1%8D%D1%8D%20%28%D0%92%D0%B5%D1%80%D1%85%D0%BD%D0%B5-%D0%A7%D0%B0%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D1%85%D1%83%D1%80%D1%8D%D1%8D%29&ll=91.656614,51.257401&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Ustuu-Huree%20Monastery%20%28Upper%20Chadan%20Khuree%29%2C%20Tuva%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -298,7 +302,8 @@
       "tuva"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "tuva-tsugeer-els-sands",
@@ -336,8 +341,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=95.1,50.15&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=50.15,95.1"
+      "yandex": "https://yandex.com/maps/?text=%D0%BF%D0%B5%D1%81%D0%BA%D0%B8%20%D0%A6%D1%83%D0%B3%D1%8D%D1%8D%D1%80-%D0%AD%D0%BB%D1%81&ll=95.1,50.15&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Tsugeer-Els%20Sands%2C%20Tuva%2C%20Russia"
     },
     "official_site": "https://ubsunurtuva.ru",
     "sources": [
@@ -354,7 +359,8 @@
       "tuva"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "tuva-aldyn-bulak-ethno-resort",
@@ -397,8 +403,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=93.887395,51.553275&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=51.553275,93.887395"
+      "yandex": "https://yandex.com/maps/?text=%D0%90%D0%BB%D0%B4%D1%8B%D0%BD-%D0%91%D1%83%D0%BB%D0%B0%D0%BA&ll=93.887395,51.553275&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Aldyn-Bulak%20Ethno-cultural%20Resort%2C%20Tuva%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -416,6 +422,7 @@
       "glamping"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   }
 ]

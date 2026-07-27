@@ -41,8 +41,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=69.007798,60.980233&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=60.980233,69.007798"
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%BD%D0%BE-%D1%82%D1%83%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%20%C2%AB%D0%90%D1%80%D1%85%D0%B5%D0%BE%D0%BF%D0%B0%D1%80%D0%BA%C2%BB&ll=69.007798,60.980233&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Archeopark%2C%20Khanty%20Mansi%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -60,7 +60,8 @@
       "siberia"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "khanty-mansi-torum-maa-ethnographic-museum",
@@ -103,8 +104,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=69.003478,60.998421&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=60.998421,69.003478"
+      "yandex": "https://yandex.com/maps/?text=%D0%AD%D1%82%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%20%D0%BF%D0%BE%D0%B4%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D0%BC%20%D0%BD%D0%B5%D0%B1%D0%BE%D0%BC%20%C2%AB%D0%A2%D0%BE%D1%80%D1%83%D0%BC%20%D0%9C%D0%B0%D0%B0%C2%BB&ll=69.003478,60.998421&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Torum%20Maa%20Open-Air%20Ethnographic%20Museum%2C%20Khanty%20Mansi%2C%20Russia"
     },
     "official_site": "https://torummaa.ru/",
     "sources": [
@@ -122,7 +123,8 @@
       "culture"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "khanty-mansi-samarovsky-chugas",
@@ -165,8 +167,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=69.060214,60.970636&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=60.970636,69.060214"
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%B0%D1%80%D0%BA%20%C2%AB%D0%A1%D0%B0%D0%BC%D0%B0%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D1%87%D1%83%D0%B3%D0%B0%D1%81%C2%BB&ll=69.060214,60.970636&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Samarovsky%20Chugas%20Nature%20Park%2C%20Khanty%20Mansi%2C%20Russia"
     },
     "official_site": "https://ugraoopt.admhmao.ru/samchugas/",
     "sources": [
@@ -184,7 +186,8 @@
       "ecotrail"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "khanty-mansi-museum-nature-and-man",
@@ -227,8 +230,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=69.024418,61.004785&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=61.004785,69.024418"
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%B9%20%D0%9F%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D1%8B%20%D0%B8%20%D0%A7%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%B0&ll=69.024418,61.004785&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Nature%20and%20Man%2C%20Khanty%20Mansi%2C%20Russia"
     },
     "official_site": "https://www.ugramuseum.ru/",
     "sources": [
@@ -246,7 +249,8 @@
       "indigenous"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "khanty-mansi-numto-nature-park",
@@ -284,8 +288,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=71.424213,63.495617&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=63.495617,71.424213"
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%B0%D1%80%D0%BA%20%C2%AB%D0%9D%D1%83%D0%BC%D1%82%D0%BE%C2%BB&ll=71.424213,63.495617&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Numto%20Nature%20Park%2C%20Khanty%20Mansi%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -303,7 +307,8 @@
       "remote"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "khanty-mansi-khanty-mansiysk-fountains-square",
@@ -341,8 +346,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=69.0194,61.0038&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=61.0038,69.0194"
+      "yandex": "https://yandex.com/maps/?text=%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C%20%28%D1%84%D0%BE%D0%BD%D1%82%D0%B0%D0%BD%D1%8B%29&ll=69.0194,61.0038&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Central%20Square%20and%20Fountains%2C%20Khanty%20Mansi%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -360,7 +365,8 @@
       "winter"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "khanty-mansi-kondinskiye-lakes-park",
@@ -398,8 +404,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=63.420586,60.863797&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=60.863797,63.420586"
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%B0%D1%80%D0%BA%20%C2%AB%D0%9A%D0%BE%D0%BD%D0%B4%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BE%D0%B7%D1%91%D1%80%D0%B0%C2%BB%20%D0%B8%D0%BC.%20%D0%9B.%20%D0%A4.%20%D0%A1%D1%82%D0%B0%D1%88%D0%BA%D0%B5%D0%B2%D0%B8%D1%87%D0%B0&ll=63.420586,60.863797&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kondinskiye%20Lakes%20Nature%20Park%2C%20Khanty%20Mansi%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -417,6 +423,7 @@
       "family"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   }
 ]

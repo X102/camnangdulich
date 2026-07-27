@@ -41,8 +41,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Swallow%27s%20Nest%20%28Crimea%29%202007.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=34.128333,44.430556&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=44.430556,34.128333"
+      "yandex": "https://yandex.com/maps/?text=%D0%9B%D0%B0%D1%81%D1%82%D0%BE%D1%87%D0%BA%D0%B8%D0%BD%D0%BE%20%D0%B3%D0%BD%D0%B5%D0%B7%D0%B4%D0%BE&ll=34.128333,44.430556&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Swallow%27s%20Nest%2C%20Crimea%2C%20Russia"
     },
     "official_site": "https://lasto4kinognezdo.ru",
     "sources": [
@@ -60,7 +60,8 @@
       "yalta"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "crimea-livadia-palace",
@@ -104,8 +105,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Livadia%20Palace%20Crimea.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=34.14333,44.46778&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=44.46778,34.14333"
+      "yandex": "https://yandex.com/maps/?text=%D0%9B%D0%B8%D0%B2%D0%B0%D0%B4%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86&ll=34.14333,44.46778&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Livadia%20Palace%2C%20Crimea%2C%20Russia"
     },
     "official_site": "https://livadia-palace.ru",
     "sources": [
@@ -123,7 +124,8 @@
       "seaside"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "crimea-vorontsov-palace-alupka",
@@ -167,8 +169,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Vorontsov%20Palace%20Alupka.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=34.0542,44.419683&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=44.419683,34.0542"
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D1%86%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86&ll=34.0542,44.419683&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Vorontsov%20Palace%2C%20Crimea%2C%20Russia"
     },
     "official_site": "https://worontsovpalace.ru",
     "sources": [
@@ -186,7 +188,8 @@
       "alupka"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "crimea-bakhchisaray-khan-palace",
@@ -230,8 +233,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Bakhchisaray%2C%20Hansaray%20Museum.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=33.881961,44.748672&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=44.748672,33.881961"
+      "yandex": "https://yandex.com/maps/?text=%D0%A5%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86%20%28%D0%91%D0%B0%D1%85%D1%87%D0%B8%D1%81%D0%B0%D1%80%D0%B0%D0%B9%29&ll=33.881961,44.748672&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Khan%27s%20Palace%20%28Bakhchisaray%29%2C%20Crimea%2C%20Russia"
     },
     "official_site": "https://handvorec.ru",
     "sources": [
@@ -249,7 +252,8 @@
       "fountain-of-tears"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "crimea-chufut-kale",
@@ -293,8 +297,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Chufut%20Kale%2019.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=33.924586,44.741325&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=44.741325,33.924586"
+      "yandex": "https://yandex.com/maps/?text=%D0%A7%D1%83%D1%84%D1%83%D1%82-%D0%9A%D0%B0%D0%BB%D0%B5&ll=33.924586,44.741325&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Chufut-Kale%20%28cave%20town%29%2C%20Crimea%2C%20Russia"
     },
     "official_site": "https://handvorec.ru",
     "sources": [
@@ -312,7 +316,8 @@
       "viewpoint"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "crimea-ai-petri",
@@ -355,8 +360,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Ai-Petri%20Rocks%2C%20Crimea.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=34.05577,44.448669&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=44.448669,34.05577"
+      "yandex": "https://yandex.com/maps/?text=%D0%90%D0%B9-%D0%9F%D0%B5%D1%82%D1%80%D0%B8&ll=34.05577,44.448669&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Ai-Petri%2C%20Crimea%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -374,7 +379,8 @@
       "panorama"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "crimea-massandra-palace",
@@ -418,8 +424,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Massandra%20Palace%2C%20Massandra%2C%20Crimea.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=34.2025,44.517167&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=44.517167,34.2025"
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D0%B0%D1%81%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86&ll=34.2025,44.517167&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Massandra%20Palace%2C%20Crimea%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -437,7 +443,8 @@
       "yalta"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "crimea-sudak-genoese-fortress",
@@ -481,8 +488,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Sudak%20Genoese%20Fortress.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=34.95778,44.84028&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=44.84028,34.95778"
+      "yandex": "https://yandex.com/maps/?text=%D0%93%D0%B5%D0%BD%D1%83%D1%8D%D0%B7%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C%20%28%D0%A1%D1%83%D0%B4%D0%B0%D0%BA%29&ll=34.95778,44.84028&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Genoese%20Fortress%20%28Sudak%29%2C%20Crimea%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -500,7 +507,8 @@
       "viewpoint"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "crimea-marble-cave-crimea",
@@ -543,8 +551,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Marmurova%20pechera2.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=34.279452,44.797239&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=44.797239,34.279452"
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%80%D0%B0%D0%BC%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0&ll=34.279452,44.797239&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Marble%20Cave%2C%20Crimea%2C%20Russia"
     },
     "official_site": "https://пещерамраморная.рф",
     "sources": [
@@ -562,7 +570,8 @@
       "tour"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "crimea-yalta-embankment",
@@ -605,8 +614,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Yalta.%20Lenin%20Embankment%2C%2023.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=34.165334,44.493592&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=44.493592,34.165334"
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0%20%28%D0%AF%D0%BB%D1%82%D0%B0%29&ll=34.165334,44.493592&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Yalta%20Embankment%20%28Lenin%20Embankment%29%2C%20Crimea%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -624,6 +633,7 @@
       "yalta"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   }
 ]

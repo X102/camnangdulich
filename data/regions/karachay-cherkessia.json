@@ -40,8 +40,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Greater%20Caucasus%20Range%2C%20Caucasus%20Mountains%2C%20Dombay%2C%20Karachay-Cherkessia.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=41.62167,43.29167&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=43.29167,41.62167"
+      "yandex": "https://yandex.com/maps/?text=%D0%94%D0%BE%D0%BC%D0%B1%D0%B0%D0%B9&ll=41.62167,43.29167&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Dombay%2C%20Karachay%20Cherkessia%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -59,7 +59,8 @@
       "caucasus"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-07-17",
+    "country": "russia"
   },
   {
     "id": "karachay-cherkessia-arkhyz-resort",
@@ -102,8 +103,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=41.278889,43.565&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=43.565,41.278889"
+      "yandex": "https://yandex.com/maps/?text=%D0%90%D1%80%D1%85%D1%8B%D0%B7&ll=41.278889,43.565&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Arkhyz%2C%20Karachay%20Cherkessia%2C%20Russia"
     },
     "official_site": "https://resort-arkhyz.ru",
     "sources": [
@@ -121,7 +122,8 @@
       "caucasus"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-07-17",
+    "country": "russia"
   },
   {
     "id": "karachay-cherkessia-teberda-nature-reserve",
@@ -164,8 +166,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Gonachkhir%20Valley%2C%20Caucasus%20Mountains%2C%20Dombay%2C%20Karachay-Cherkessia.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=41.744167,43.446111&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=43.446111,41.744167"
+      "yandex": "https://yandex.com/maps/?text=%D0%A2%D0%B5%D0%B1%D0%B5%D1%80%D0%B4%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA&ll=41.744167,43.446111&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Teberda%20Nature%20Reserve%2C%20Karachay%20Cherkessia%2C%20Russia"
     },
     "official_site": "https://tgpbz.ru",
     "sources": [
@@ -183,7 +185,8 @@
       "biosphere"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-07-17",
+    "country": "russia"
   },
   {
     "id": "karachay-cherkessia-lower-arkhyz-alan-churches",
@@ -226,8 +229,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Central%20Church%20Zelenchuk.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=41.475307,43.684412&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=43.684412,41.475307"
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%B8%D0%B6%D0%BD%D0%B5-%D0%90%D1%80%D1%85%D1%8B%D0%B7%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5%20%D1%85%D1%80%D0%B0%D0%BC%D1%8B&ll=41.475307,43.684412&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Lower%20Arkhyz%20Alan%20Churches%2C%20Karachay%20Cherkessia%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -245,7 +248,8 @@
       "christianity"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-07-17",
+    "country": "russia"
   },
   {
     "id": "karachay-cherkessia-sofia-waterfalls",
@@ -288,8 +292,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=41.230833,43.450833&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=43.450833,41.230833"
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%BE%D1%84%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4%D1%8B&ll=41.230833,43.450833&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Sofia%20Waterfalls%2C%20Karachay%20Cherkessia%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -307,7 +311,8 @@
       "arkhyz"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-07-17",
+    "country": "russia"
   },
   {
     "id": "karachay-cherkessia-special-astrophysical-observatory-bta",
@@ -350,8 +355,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Bta-6.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=41.440556,43.646944&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=43.646944,41.440556"
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%B0%D1%81%D1%82%D1%80%D0%BE%D1%84%D0%B8%D0%B7%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D1%81%D0%B5%D1%80%D0%B2%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20%D0%A0%D0%90%D0%9D%20%28%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%BA%D0%BE%D0%BF%20%D0%91%D0%A2%D0%90%29&ll=41.440556,43.646944&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Special%20Astrophysical%20Observatory%20%28BTA%20telescope%29%2C%20Karachay%20Cherkessia%2C%20Russia"
     },
     "official_site": "https://www.sao.ru",
     "sources": [
@@ -369,7 +374,8 @@
       "mountains"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-07-17",
+    "country": "russia"
   },
   {
     "id": "karachay-cherkessia-khurzuk-village",
@@ -407,8 +413,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=42.033333,43.283333&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=43.283333,42.033333"
+      "yandex": "https://yandex.com/maps/?text=%D0%A5%D1%83%D1%80%D0%B7%D1%83%D0%BA&ll=42.033333,43.283333&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Khurzuk%2C%20Karachay%20Cherkessia%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -426,6 +432,7 @@
       "kuban"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-07-17",
+    "country": "russia"
   }
 ]

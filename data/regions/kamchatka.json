@@ -36,8 +36,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Valley%20of%20the%20Geysers.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=160.14,54.4333&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.4333,160.14"
+      "yandex": "https://yandex.com/maps/?text=%D0%94%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0%20%D0%B3%D0%B5%D0%B9%D0%B7%D0%B5%D1%80%D0%BE%D0%B2&ll=160.14,54.4333&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Valley%20of%20Geysers%2C%20Kamchatka%2C%20Russia"
     },
     "official_site": "https://kronoki.ru",
     "sources": [
@@ -56,7 +56,8 @@
       "wilderness"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "kamchatka-petropavlovsk-kamchatsky",
@@ -96,8 +97,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Petropavlovsk-Kamchatsky%20with%20Koryaksky%20Volcano%20in%20background.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=158.65,53.017&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=53.017,158.65"
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D1%81%D0%BA-%D0%9A%D0%B0%D0%BC%D1%87%D0%B0%D1%82%D1%81%D0%BA%D0%B8%D0%B9&ll=158.65,53.017&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Petropavlovsk-Kamchatsky%2C%20Kamchatka%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -115,7 +116,8 @@
       "gateway"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "kamchatka-avachinsky-volcano",
@@ -154,8 +156,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Avachinsky%20Volcano%20%2823682444539%29.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=158.83,53.255&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=53.255,158.83"
+      "yandex": "https://yandex.com/maps/?text=%D0%90%D0%B2%D0%B0%D1%87%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B2%D1%83%D0%BB%D0%BA%D0%B0%D0%BD&ll=158.83,53.255&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Avachinsky%20Volcano%2C%20Kamchatka%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -173,7 +175,8 @@
       "mountaineering"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "kamchatka-mutnovsky-volcano",
@@ -212,8 +215,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Mutnovka2.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=158.1975,52.4483&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=52.4483,158.1975"
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D1%82%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B2%D1%83%D0%BB%D0%BA%D0%B0%D0%BD&ll=158.1975,52.4483&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Mutnovsky%20Volcano%2C%20Kamchatka%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -231,7 +234,8 @@
       "hiking"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "kamchatka-klyuchevskaya-sopka",
@@ -270,8 +274,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Klyuchevskoi%20Volcano.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=160.6441,56.056&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=56.056,160.6441"
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D0%BB%D1%8E%D1%87%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D0%A1%D0%BE%D0%BF%D0%BA%D0%B0&ll=160.6441,56.056&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Klyuchevskaya%20Sopka%2C%20Kamchatka%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -289,7 +293,8 @@
       "landscape"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "kamchatka-kronotsky-nature-reserve",
@@ -329,8 +334,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Kronotsky%20volcano.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=160.5403,54.9253&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.9253,160.5403"
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D1%80%D0%BE%D0%BD%D0%BE%D1%86%D0%BA%D0%B8%D0%B9%20%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA&ll=160.5403,54.9253&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kronotsky%20Nature%20Reserve%2C%20Kamchatka%2C%20Russia"
     },
     "official_site": "https://kronoki.ru",
     "sources": [
@@ -349,7 +354,8 @@
       "helicopter-tour"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "kamchatka-three-brothers-rocks-avacha-bay",
@@ -389,8 +395,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Kamchatka%20three%20brothers%20rdfr.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=158.689,52.8931&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=52.8931,158.689"
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%BA%D0%B0%D0%BB%D1%8B%20%D0%A2%D1%80%D0%B8%20%D0%B1%D1%80%D0%B0%D1%82%D0%B0%20%28%D0%90%D0%B2%D0%B0%D1%87%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B1%D1%83%D1%85%D1%82%D0%B0%29&ll=158.689,52.8931&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Three%20Brothers%20Rocks%20%28Avacha%20Bay%29%2C%20Kamchatka%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -408,7 +414,8 @@
       "landmark"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "kamchatka-khalaktyrsky-beach",
@@ -447,8 +454,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=158.8164,52.9653&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=52.9653,158.8164"
+      "yandex": "https://yandex.com/maps/?text=%D0%A5%D0%B0%D0%BB%D0%B0%D0%BA%D1%82%D1%8B%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D0%BB%D1%8F%D0%B6&ll=158.8164,52.9653&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Khalaktyrsky%20Beach%2C%20Kamchatka%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -466,7 +473,8 @@
       "volcanic"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "kamchatka-kuril-lake",
@@ -506,8 +514,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Kurile%20lake.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=157.117,51.45&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=51.45,157.117"
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D1%83%D1%80%D0%B8%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B5%20%D0%BE%D0%B7%D0%B5%D1%80%D0%BE&ll=157.117,51.45&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kurile%20Lake%2C%20Kamchatka%2C%20Russia"
     },
     "official_site": "https://kronoki.ru",
     "sources": [
@@ -526,7 +534,8 @@
       "helicopter-tour"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "kamchatka-esso-village",
@@ -565,8 +574,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Wooden%20houses%20in%20Esso%2C%20Kamchatka%2C%20Russia.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=158.6947,55.9306&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=55.9306,158.6947"
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%B5%D0%BB%D0%BE%20%D0%AD%D1%81%D1%81%D0%BE&ll=158.6947,55.9306&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Esso%2C%20Kamchatka%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -584,7 +593,8 @@
       "mountains"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "kamchatka-vachkazhets",
@@ -623,8 +633,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Vachkazhets%202021%2008.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=157.7161,53.0525&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=53.0525,157.7161"
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D0%B0%D1%87%D0%BA%D0%B0%D0%B6%D0%B5%D1%86&ll=157.7161,53.0525&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Vachkazhets%2C%20Kamchatka%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -642,7 +652,8 @@
       "wildflowers"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "kamchatka-nalychevo-nature-park",
@@ -682,8 +693,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Nalychevo.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=159.13,53.64&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=53.64,159.13"
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%B0%D1%80%D0%BA%20%D0%9D%D0%B0%D0%BB%D1%8B%D1%87%D0%B5%D0%B2%D0%BE&ll=159.13,53.64&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Nalychevo%20Nature%20Park%2C%20Kamchatka%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -701,6 +712,7 @@
       "unesco"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   }
 ]

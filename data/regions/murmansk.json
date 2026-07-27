@@ -41,8 +41,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Teriberka%2C%20Kola%20Peninsula%2C%20Russia.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=35.1408,69.1656&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=69.1656,35.1408"
+      "yandex": "https://yandex.com/maps/?text=%D0%A2%D0%B5%D1%80%D0%B8%D0%B1%D0%B5%D1%80%D0%BA%D0%B0&ll=35.1408,69.1656&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Teriberka%2C%20Murmansk%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -58,7 +58,8 @@
       "sea"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "murmansk-khibiny-mountains",
@@ -102,8 +103,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Apatity%20and%20Khibiny%20mountains.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=33.7267,67.735&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=67.735,33.7267"
+      "yandex": "https://yandex.com/maps/?text=%D0%A5%D0%B8%D0%B1%D0%B8%D0%BD%D1%8B&ll=33.7267,67.735&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Khibiny%20Mountains%2C%20Murmansk%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -119,7 +120,8 @@
       "mountains"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "murmansk-kirovsk-snow-village-botanical-garden",
@@ -163,8 +165,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Kirovsk%20in%20Murmansk%20Oblast.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=33.6675,67.6156&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=67.6156,33.6675"
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D0%B8%D1%80%D0%BE%D0%B2%D1%81%D0%BA%20%E2%80%94%20%C2%AB%D0%A1%D0%BD%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F%20%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BD%D1%8F%C2%BB%20%D0%B8%20%D0%9F%D0%BE%D0%BB%D1%8F%D1%80%D0%BD%D0%BE-%D0%B0%D0%BB%D1%8C%D0%BF%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%B0%D0%B4&ll=33.6675,67.6156&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kirovsk%20%E2%80%94%20Snow%20Village%20%26%20Polar-Alpine%20Botanical%20Garden%2C%20Murmansk%2C%20Russia"
     },
     "official_site": "https://snowderevnya.ru",
     "sources": [
@@ -180,7 +182,8 @@
       "aurora"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "murmansk-murmansk-alyosha-lenin-icebreaker",
@@ -224,8 +227,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/RUS-2016-Murmansk-Icebreaker%20Lenin%2001.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=33.07167,68.99306&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=68.99306,33.07167"
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D1%80%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%3A%20%C2%AB%D0%90%D0%BB%D1%91%D1%88%D0%B0%C2%BB%20%D0%B8%20%D0%B0%D1%82%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9%20%D0%BB%D0%B5%D0%B4%D0%BE%D0%BA%D0%BE%D0%BB%20%C2%AB%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%C2%BB&ll=33.07167,68.99306&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Murmansk%3A%20Alyosha%20Monument%20%26%20nuclear%20icebreaker%20Lenin%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -241,7 +244,8 @@
       "aurora"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "murmansk-lovozero-seydozero",
@@ -285,8 +289,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Lake%20Seydozero%2C%20Sacred%20Sami%20Lake%20in%20Murmansk%20Oblast%2C%20Russia.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=34.85,67.817&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=67.817,34.85"
+      "yandex": "https://yandex.com/maps/?text=%D0%9B%D0%BE%D0%B2%D0%BE%D0%B7%D0%B5%D1%80%D0%BE%20%D0%B8%20%D0%A1%D0%B5%D0%B9%D0%B4%D0%BE%D0%B7%D0%B5%D1%80%D0%BE&ll=34.85,67.817&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Lovozero%20%26%20Lake%20Seydozero%20%28Sami%20land%29%2C%20Murmansk%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -302,7 +306,8 @@
       "sami"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "murmansk-kola-superdeep-borehole",
@@ -345,8 +350,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Kola%20sverhglubokaya%202020.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=30.61,69.3965&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=69.3965,30.61"
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%20%D1%81%D0%B2%D0%B5%D1%80%D1%85%D0%B3%D0%BB%D1%83%D0%B1%D0%BE%D0%BA%D0%B0%D1%8F%20%D1%81%D0%BA%D0%B2%D0%B0%D0%B6%D0%B8%D0%BD%D0%B0&ll=30.61,69.3965&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kola%20Superdeep%20Borehole%20%28SG-3%29%2C%20Murmansk%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -361,7 +366,8 @@
       "offbeat"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "murmansk-abram-mys",
@@ -405,8 +411,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=33.02878,68.98125&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=68.98125,33.02878"
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%BC%D0%BE%D1%82%D1%80%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D0%BA%D0%B0%20%C2%AB%D0%90%D0%B1%D1%80%D0%B0%D0%BC-%D0%9C%D1%8B%D1%81%C2%BB&ll=33.02878,68.98125&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Abram-Mys%20Observation%20Deck%2C%20Murmansk%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -421,6 +427,7 @@
       "arctic"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   }
 ]

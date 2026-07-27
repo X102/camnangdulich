@@ -41,8 +41,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%A8%D1%83%D0%BB%D1%8C%D0%B3%D0%B0%D0%BD-%D0%A2%D0%B0%D1%88%20%D0%BB%D0%B5%D1%82%D0%BE%D0%BC.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=57.06389,53.044417&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=53.044417,57.06389"
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D0%B0%D0%BF%D0%BE%D0%B2%D0%B0%20%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0%20%28%D0%A8%D1%83%D0%BB%D1%8C%D0%B3%D0%B0%D0%BD-%D0%A2%D0%B0%D1%88%29&ll=57.06389,53.044417&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Shulgan-Tash%20Cave%20%28Kapova%20Cave%29%2C%20Bashkortostan%2C%20Russia"
     },
     "official_site": "https://shulgan-tash.ru",
     "sources": [
@@ -60,7 +60,8 @@
       "archaeology"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "bashkortostan-salavat-yulaev-monument",
@@ -103,8 +104,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Ufa.%20Monument%20to%20Salavat%20Yulaev.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=55.923889,54.719444&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.719444,55.923889"
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%D0%A1%D0%B0%D0%BB%D0%B0%D0%B2%D0%B0%D1%82%D1%83%20%D0%AE%D0%BB%D0%B0%D0%B5%D0%B2%D1%83&ll=55.923889,54.719444&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Monument%20to%20Salavat%20Yulaev%2C%20Bashkortostan%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -121,7 +122,8 @@
       "bashkir"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "bashkortostan-toratau-shikhan",
@@ -165,8 +167,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Shihan%20Toratau.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=56.098889,53.554444&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=53.554444,56.098889"
+      "yandex": "https://yandex.com/maps/?text=%D0%A8%D0%B8%D1%85%D0%B0%D0%BD%20%D0%A2%D0%BE%D1%80%D0%B0%D1%82%D0%B0%D1%83%20%28%D0%A2%D1%80%D0%B0%D1%82%D0%B0%D1%83%29&ll=56.098889,53.554444&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Toratau%20Shikhan%2C%20Bashkortostan%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -184,7 +186,8 @@
       "sacred"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "bashkortostan-iremel-mountain",
@@ -228,8 +231,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Mount%20Iremel.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=58.84,54.515&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.515,58.84"
+      "yandex": "https://yandex.com/maps/?text=%D0%93%D0%BE%D1%80%D0%B0%20%D0%98%D1%80%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C&ll=58.84,54.515&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Mount%20Iremel%2C%20Bashkortostan%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -247,7 +250,8 @@
       "nature-park"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "bashkortostan-askynskaya-ice-cave",
@@ -291,8 +295,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9B%D0%B5%D0%B4%D1%8F%D0%BD%D0%B0%D1%8F%20%D0%90%D1%81%D0%BA%D1%8B%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=56.902833,54.235694&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.235694,56.902833"
+      "yandex": "https://yandex.com/maps/?text=%D0%90%D1%81%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BB%D0%B5%D0%B4%D1%8F%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0&ll=56.902833,54.235694&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Askynskaya%20Ice%20Cave%2C%20Bashkortostan%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -309,7 +313,8 @@
       "geology"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "bashkortostan-lala-tulpan-mosque",
@@ -352,8 +357,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Lala%20Tulpan.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=56.05583,54.81972&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.81972,56.05583"
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D0%B5%D1%87%D0%B5%D1%82%D1%8C%20%D0%9B%D1%8F%D0%BB%D1%8F-%D0%A2%D1%8E%D0%BB%D1%8C%D0%BF%D0%B0%D0%BD&ll=56.05583,54.81972&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Lala%20Tulpan%20Mosque%2C%20Bashkortostan%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -370,7 +375,8 @@
       "islam"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "bashkortostan-pavlovka-reservoir",
@@ -414,8 +420,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Pavlovka%20reservoir.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=56.6333,55.4167&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=55.4167,56.6333"
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B2%D0%BE%D0%B4%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D0%BB%D0%B8%D1%89%D0%B5&ll=56.6333,55.4167&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Pavlovka%20Reservoir%2C%20Bashkortostan%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -433,7 +439,8 @@
       "lake"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "bashkortostan-sterlitamak-shikhans",
@@ -477,8 +484,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Shihan%20Toratau.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=56.077161,53.689781&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=53.689781,56.077161"
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D1%82%D0%B5%D1%80%D0%BB%D0%B8%D1%82%D0%B0%D0%BC%D0%B0%D0%BA%D1%81%D0%BA%D0%B8%D0%B5%20%D1%88%D0%B8%D1%85%D0%B0%D0%BD%D1%8B&ll=56.077161,53.689781&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Sterlitamak%20Shikhans%2C%20Bashkortostan%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -496,6 +503,7 @@
       "environment"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   }
 ]

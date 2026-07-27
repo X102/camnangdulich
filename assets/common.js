@@ -29,6 +29,47 @@
   }
   function catColor(place) { return catInfo(primaryCat(place)).color; }
 
+  /* ---------- Đa ngôn ngữ (VI / EN / RU) ---------- */
+  const LANGS = {
+    vi: { label: "Tiếng Việt", locale: "vi-VN", flag: "🇻🇳" },
+    en: { label: "English",    locale: "en-US", flag: "🇬🇧" },
+    ru: { label: "Русский",    locale: "ru-RU", flag: "🇷🇺" },
+  };
+  let LANG = "vi";
+  function getLang() { return LANG; }
+  function setLang(l) { if (LANGS[l]) LANG = l; return LANG; }
+  // Trường bản địa hoá: t(place,'presentation_short') -> presentation_short_<lang>, fallback VI/EN/RU
+  function t(o, base) {
+    if (!o) return "";
+    return o[base + "_" + LANG] || o[base + "_vi"] || o[base + "_en"] || o[base + "_ru"] || "";
+  }
+  function tArr(o, base) {
+    if (!o) return [];
+    return o[base + "_" + LANG] || o[base + "_vi"] || o[base + "_en"] || o[base + "_ru"] || [];
+  }
+  // Nhãn giao diện đa ngôn ngữ
+  const UI = {
+    listen:     { vi: "🔊 Nghe",         en: "🔊 Listen",        ru: "🔊 Слушать" },
+    listenLong: { vi: "🎧 Nghe chi tiết", en: "🎧 Listen (full)", ru: "🎧 Подробно" },
+    detail:     { vi: "📖 Chi tiết",     en: "📖 Details",       ru: "📖 Подробнее" },
+    addTour:    { vi: "➕ Thêm vào tour", en: "➕ Add to tour",   ru: "➕ В маршрут" },
+    inTour:     { vi: "✓ Trong tour",    en: "✓ In tour",        ru: "✓ В маршруте" },
+    map:        { vi: "🗺️ Bản đồ",       en: "🗺️ Map",           ru: "🗺️ Карта" },
+    share:      { vi: "🔗 Chia sẻ",      en: "🔗 Share",         ru: "🔗 Поделиться" },
+    highlights: { vi: "Điểm nhấn",       en: "Highlights",       ru: "Особенности" },
+    detailPres: { vi: "Thuyết trình chi tiết", en: "Full presentation", ru: "Подробное описание" },
+    visitInfo:  { vi: "Thông tin tham quan",   en: "Visitor info",      ru: "Информация для посещения" },
+    reviews:    { vi: "Tóm tắt bình luận",     en: "Review summary",    ru: "Отзывы" },
+    hours:      { vi: "Giờ mở cửa", en: "Opening hours", ru: "Часы работы" },
+    ticket:     { vi: "Vé",         en: "Ticket",        ru: "Билет" },
+    duration:   { vi: "Thời lượng", en: "Duration",      ru: "Длительность" },
+    bestTime:   { vi: "Thời điểm đẹp", en: "Best time",  ru: "Лучшее время" },
+    tips:       { vi: "Mẹo",        en: "Tip",           ru: "Совет" },
+    address:    { vi: "Địa chỉ",    en: "Address",       ru: "Адрес" },
+    noRating:   { vi: "chưa có đánh giá", en: "no rating yet", ru: "нет оценки" },
+  };
+  function uiText(key) { const e = UI[key]; return e ? (e[LANG] || e.vi) : key; }
+
   /* ---------- Truy cập dữ liệu ---------- */
   function getDB() {
     if (global.RUSSIA_DB && Array.isArray(global.RUSSIA_DB.places)) return global.RUSSIA_DB;
@@ -45,7 +86,7 @@
     });
   }
   function starHTML(value) {
-    if (value == null) return '<span class="stars muted">chưa có đánh giá</span>';
+    if (value == null) return '<span class="stars muted">' + uiText("noRating") + '</span>';
     const v = Number(value);
     const full = Math.floor(v);
     const half = v - full >= 0.25 && v - full < 0.75;
@@ -116,13 +157,17 @@
     activeId: null,       // id đang đọc (để làm nổi nút)
     supported: !!global.speechSynthesis,
 
-    pickVoice: function () {
-      if (!this.synth) return;
+    pickVoice: function (lang) {
+      if (!this.synth) return null;
+      lang = lang || "vi";
+      const loc = ((LANGS[lang] || LANGS.vi).locale).toLowerCase();   // "vi-vn"
       const vs = this.synth.getVoices() || [];
-      this.voice =
-        vs.find(function (v) { return /vi[-_]?VN/i.test(v.lang); }) ||
-        vs.find(function (v) { return /^vi/i.test(v.lang); }) ||
-        this.voice || null;
+      const re1 = new RegExp(loc.replace("-", "[-_]?"), "i");
+      const re2 = new RegExp("^" + lang, "i");
+      const v = vs.find(function (x) { return re1.test(x.lang); }) ||
+                vs.find(function (x) { return re2.test(x.lang); }) || null;
+      if (lang === "vi") this.voice = v || this.voice;                 // giữ tương thích
+      return v;
     },
     hasVietnameseVoice: function () {
       if (!this.synth) return false;
@@ -144,7 +189,9 @@
       if (!this.synth) { alert("Trình duyệt của bạn không hỗ trợ đọc thành tiếng."); return; }
       this.stop();
       if (!text) return;
-      this.pickVoice();
+      const lang = opts.lang || LANG;
+      this._locale = (LANGS[lang] || LANGS.vi).locale;
+      this._voice = this.pickVoice(lang);
       this.activeId = opts.id || null;
       this._queue = this._chunk(text);
       this._i = 0;
@@ -160,8 +207,8 @@
         return;
       }
       const u = new SpeechSynthesisUtterance(this._queue[this._i]);
-      u.lang = "vi-VN";
-      if (this.voice) u.voice = this.voice;
+      u.lang = this._locale || "vi-VN";
+      if (this._voice) u.voice = this._voice;
       u.rate = this.rate;
       u.onend = function () { self._i++; self._speakNext(); };
       u.onerror = function () { self._i++; self._speakNext(); };
@@ -194,6 +241,12 @@
     catInfo: catInfo,
     primaryCat: primaryCat,
     catColor: catColor,
+    LANGS: LANGS,
+    getLang: getLang,
+    setLang: setLang,
+    t: t,
+    tArr: tArr,
+    uiText: uiText,
     getDB: getDB,
     getPlaces: getPlaces,
     getMeta: getMeta,

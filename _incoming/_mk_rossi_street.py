@@ -1,0 +1,144 @@
+# -*- coding: utf-8 -*-
+"""Builder: doc_rossi-street.json — nội dung nguyên gốc tiếng Việt."""
+import json, os
+HERE = os.path.dirname(os.path.abspath(__file__))
+
+d = {
+ "slug": "rossi-street",
+ "name_vi": "Phố Kiến trúc sư Rossi",
+ "name_ru": "Улица зодчего Росси",
+ "name_en": "Architect Rossi Street (Ulitsa Zodchego Rossi)",
+ "subtitle": "Con phố có tỷ lệ hoàn hảo bậc nhất thế giới do Carlo Rossi thiết kế — rộng 22 m, hai dãy nhà cao đúng 22 m, dài 220 m — nơi toạ lạc Học viện Ballet Vaganova huyền thoại của Sankt-Peterburg.",
+ "sections": [
+  {"heading": "Giới thiệu chung", "paras": [
+   "Phố Kiến trúc sư Rossi (tiếng Nga: Улица зодчего Росси) là một trong những con phố đẹp và hài hoà nhất không chỉ của Sankt-Peterburg mà của cả thế giới. Không dài, không ồn ào, nhưng con phố này lại là một 'bài học kiến trúc' sống động về sự hoàn hảo của tỷ lệ, đến mức nhiều người gọi nó là 'con phố hoàn hảo' hay 'con phố lý tưởng'.",
+   "Điều làm nên danh tiếng của con phố chính là những con số kỳ diệu: phố rộng đúng 22 mét, hai dãy nhà hai bên cao cũng đúng 22 mét, và toàn bộ chiều dài phố là 220 mét — tức gấp đúng mười lần chiều rộng. Sự trùng khớp toán học này tạo nên một cảm giác cân bằng, nhịp nhàng gần như tuyệt đối khi ta bước đi giữa hai hàng nhà.",
+   "Con phố là tác phẩm của Carlo Rossi, kiến trúc sư vĩ đại đã định hình phần lớn diện mạo tân cổ điển của trung tâm Sankt-Peterburg. Hai dãy nhà hai bên phố có mặt tiền giống hệt nhau như soi gương: cùng màu vàng đặc trưng, cùng hàng cột trắng thanh thoát, tạo nên một sự đối xứng hoàn hảo hiếm thấy.",
+   "Con phố nối liền Quảng trường Ostrovsky (nơi có Nhà hát Alexandrinsky) với Quảng trường Lomonosov bên bờ sông Fontanka, và là một phần không thể tách rời của cả một quần thể kiến trúc thống nhất do Rossi thiết kế. Nói cách khác, đây không chỉ là một con phố, mà là một 'tác phẩm sắp đặt đô thị' hoàn chỉnh.",
+   "Với một hướng dẫn viên, phố Rossi là điểm đến tuyệt vời để nói về nghệ thuật quy hoạch đô thị và về khái niệm 'cái đẹp toán học'. Đây cũng là nơi lý tưởng để chụp những bức ảnh kiến trúc ấn tượng và để du khách cảm nhận sự tĩnh lặng, trang nhã hiếm có ngay giữa trung tâm một đô thị lớn.",
+   "Thêm một điểm đặc biệt: con phố là địa chỉ của Học viện Ballet Nga mang tên Vaganova — một trong những ngôi trường ballet lâu đời và danh giá nhất thế giới. Nhờ vậy, phố Rossi không chỉ đẹp về kiến trúc mà còn thấm đẫm tinh thần nghệ thuật múa, nơi từng đào tạo nên vô số ngôi sao ballet lừng danh.",
+   "Tổng thể, phố Kiến trúc sư Rossi là một 'viên ngọc ẩn' mà nhiều du khách vội vã dễ bỏ qua, nhưng lại là điểm đến khiến những ai yêu kiến trúc, nghệ thuật và sự tinh tế phải say mê. Chỉ cần vài phút dạo bước nơi đây cũng đủ để cảm nhận đỉnh cao của thẩm mỹ đô thị Nga thế kỷ 19."
+  ]},
+  {"heading": "Vị trí & cách di chuyển", "paras": [
+   "Phố Kiến trúc sư Rossi nằm ngay trung tâm lịch sử Sankt-Peterburg, chạy từ Quảng trường Ostrovsky — nơi toạ lạc Nhà hát Alexandrinsky — tới Quảng trường Lomonosov bên sông Fontanka. Vị trí này cực kỳ trung tâm, chỉ cách đại lộ Nevsky Prospekt một quãng ngắn đi bộ.",
+   "Cách tiếp cận thuận tiện nhất là bằng tàu điện ngầm, với các ga Gostiny Dvor và Nevsky Prospekt nằm gần đó. Từ ga, du khách đi bộ dọc Nevsky Prospekt tới khu vực Nhà hát Alexandrinsky và vườn Ostrovsky, rồi rẽ vào con phố ngay phía sau nhà hát.",
+   "Một cách 'khám phá' con phố rất thú vị là tiếp cận từ phía Quảng trường Ostrovsky: sau khi ngắm Nhà hát Alexandrinsky lộng lẫy và tượng đài Nữ hoàng Ekaterina II trong vườn, du khách vòng ra sau nhà hát và bất ngờ bước vào con phố có tỷ lệ hoàn hảo — một sự chuyển tiếp không gian đầy ấn tượng.",
+   "Vì con phố rất ngắn (chỉ 220 mét) và nằm giữa hai quảng trường đẹp, việc tham quan hoàn toàn bằng đi bộ là lý tưởng nhất. Du khách có thể thong thả đi hết chiều dài phố chỉ trong vài phút, nhưng nên dành thêm thời gian để dừng lại quan sát, chụp ảnh và cảm nhận.",
+   "Từ nhiều điểm đến nổi tiếng khác ở trung tâm như nhà thờ Kazan, Nhà hát Mariinsky hay khu Quảng trường Cung điện, phố Rossi đều nằm trong cự ly đi bộ hoặc một chặng metro/taxi ngắn. Điều này giúp dễ dàng ghép con phố vào một lộ trình khám phá trung tâm lịch sử.",
+   "Do là phố nhỏ và yên tĩnh, khu vực này ít xe cộ và khá thanh bình, rất phù hợp cho việc đi dạo. Tuy nhiên, đây vẫn là phố có phương tiện qua lại, nên du khách cần chú ý quan sát khi đứng giữa lòng đường chụp ảnh — một tư thế mà rất nhiều người muốn thực hiện để lấy trọn sự đối xứng của hai hàng nhà.",
+   "Nhìn chung, nhờ vị trí trung tâm và không gian đi bộ dễ chịu, phố Kiến trúc sư Rossi là một điểm dừng nhẹ nhàng, dễ kết hợp, có thể chèn vào bất kỳ hành trình khám phá trung tâm Sankt-Peterburg nào mà không tốn nhiều thời gian di chuyển."
+  ]},
+  {"heading": "Lịch sử hình thành và phát triển", "paras": [
+   "Con phố ra đời trong khoảng thời gian 1828–1834, như một phần của dự án quy hoạch đầy tham vọng do Carlo Rossi thực hiện quanh Nhà hát Alexandrinsky. Ý tưởng của Rossi không phải xây từng công trình riêng lẻ, mà kiến tạo cả một quần thể đô thị thống nhất, trong đó con phố, các quảng trường và nhà hát hoà quyện thành một tổng thể hài hoà.",
+   "Ban đầu, con phố mang tên Phố Nhà hát (Teatralnaya ulitsa), do nằm ngay sau Nhà hát Alexandrinsky và gắn liền với đời sống sân khấu. Cái tên này phản ánh chức năng và vị trí của con phố trong suốt gần một thế kỷ đầu tồn tại của nó.",
+   "Đến năm 1923, con phố được đổi tên thành Phố Kiến trúc sư Rossi (Ulitsa Zodchego Rossi) để vinh danh chính người đã tạo ra nó — Carlo Rossi. Đây là một sự ghi nhận xứng đáng, bởi hiếm có con phố nào trên thế giới lại là hiện thân trọn vẹn cho tài năng của một kiến trúc sư đến vậy.",
+   "Ngay từ khi hình thành, các toà nhà dọc phố đã phục vụ những chức năng quan trọng. Một bên là các cơ quan liên quan tới sân khấu và giáo dục, bên kia là trụ sở của các bộ, ban ngành. Đáng chú ý nhất, toà nhà số 2 trở thành nơi đặt trường múa hoàng gia — tiền thân của Học viện Ballet Vaganova ngày nay.",
+   "Trường múa này có nguồn gốc từ thế kỷ 18 (thành lập năm 1738 dưới thời Nữ hoàng Anna), là một trong những trường ballet lâu đời nhất thế giới. Việc trường toạ lạc trên con phố hoàn hảo của Rossi khiến nơi đây trở thành cái nôi đào tạo nên nhiều thế hệ nghệ sĩ ballet vĩ đại, gắn kết vẻ đẹp kiến trúc với đỉnh cao nghệ thuật biểu diễn.",
+   "Trải qua các biến động lịch sử của thế kỷ 20 — cách mạng, chiến tranh, thời Xô-viết — con phố may mắn giữ được gần như nguyên vẹn diện mạo và tỷ lệ nguyên bản. Sự bảo tồn cẩn thận này giúp phố Rossi vẫn là minh chứng sống cho tầm nhìn của Carlo Rossi gần hai thế kỷ trước.",
+   "Ngày nay, con phố là một di sản kiến trúc được bảo vệ, đồng thời vẫn là một 'con phố sống' với hoạt động của học viện ballet và các cơ quan văn hoá. Sự kết hợp giữa giá trị di sản và sức sống đương đại khiến phố Rossi vừa trang nghiêm cổ kính, vừa gần gũi và có hồn.",
+   "Một điểm đáng chú ý trong lịch sử con phố là nó được thiết kế và xây dựng gần như đồng thời, theo một bản vẽ tổng thể duy nhất — điều hiếm gặp trong quy hoạch đô thị, nơi các con phố thường hình thành dần qua nhiều thế hệ với đủ loại phong cách chồng lấn. Chính sự 'ra đời một lần' này giải thích vì sao phố Rossi đạt được sự đồng nhất tuyệt đối về hình thức. Qua gần hai thế kỷ, bất chấp bao biến động, ý chí gìn giữ nguyên trạng con phố luôn được đề cao, để hôm nay du khách vẫn được chiêm ngưỡng gần đúng những gì Carlo Rossi từng hình dung."
+  ]},
+  {"heading": "Kiến trúc & đặc điểm nổi bật", "paras": [
+   "Đặc điểm nổi bật và trứ danh nhất của con phố chính là tỷ lệ hoàn hảo của nó. Với chiều rộng 22 mét bằng đúng chiều cao của các dãy nhà, và chiều dài 220 mét gấp mười lần chiều rộng, con phố đạt tới một sự cân đối mà các nhà lý luận kiến trúc thường viện dẫn như ví dụ mẫu mực về hài hoà tỷ lệ trong không gian đô thị.",
+   "Hai dãy nhà hai bên phố có mặt tiền hoàn toàn giống nhau, đối xứng như soi gương. Cùng một màu vàng ấm áp đặc trưng của kiến trúc Đế chế Nga, cùng những hàng cột đôi màu trắng chạy dọc tầng trên, cùng nhịp điệu cửa sổ và trang trí — tất cả tạo nên một sự lặp lại nhịp nhàng, đưa mắt người xem trôi mượt mà dọc theo con phố.",
+   "Phong cách chủ đạo là tân cổ điển kiểu Đế chế (Empire) mà Rossi là bậc thầy: trang nghiêm, tiết chế, dựa trên các nguyên tắc cổ điển về tỷ lệ và trật tự. Không có sự phô trương hay chi tiết rườm rà; vẻ đẹp đến từ chính sự cân đối, giản dị và hoàn hảo về hình khối tổng thể.",
+   "Điều tài tình là Rossi không thiết kế con phố như một thực thể độc lập, mà như một phần của cả quần thể quanh Nhà hát Alexandrinsky. Con phố đóng vai trò như một 'hành lang kiến trúc' trang trọng dẫn từ nhà hát tới sông Fontanka, tạo nên trục thị giác và không gian liên hoàn giữa các công trình.",
+   "Hàng cột trắng trên nền tường vàng là một mô-típ được lặp lại có chủ đích, tạo hiệu ứng nhịp điệu thị giác mạnh mẽ. Khi ánh nắng chiếu xiên, các cột và khoảng lõm giữa chúng tạo nên trò chơi sáng – tối đầy chất điêu khắc, khiến con phố trông sống động và có chiều sâu.",
+   "Sự đơn giản có chủ đích của con phố lại chính là điều khó đạt được nhất trong kiến trúc. Để tạo ra một không gian 'không có gì thừa và không có gì thiếu', người thiết kế phải làm chủ hoàn toàn các nguyên tắc tỷ lệ và có kỷ luật thẩm mỹ tuyệt đối. Đây là lý do giới chuyên môn xem phố Rossi là đỉnh cao của nghệ thuật quy hoạch cổ điển.",
+   "Chính nhờ những phẩm chất ấy, con phố thường xuyên xuất hiện trong các tài liệu kiến trúc, các bộ phim và ảnh nghệ thuật. Nó là bằng chứng cho thấy một không gian đô thị có thể đẹp không phải nhờ sự hoành tráng hay xa hoa, mà nhờ sự hài hoà và trật tự — những giá trị vượt thời gian."
+  ]},
+  {"heading": "Những điểm nhấn không thể bỏ lỡ", "paras": [
+   "Điểm nhấn đầu tiên và cốt lõi là chính sự đối xứng hoàn hảo của con phố. Du khách nên đứng ở một đầu phố, nhìn thẳng dọc theo trục để cảm nhận trọn vẹn sự cân đối gần như tuyệt đối của hai hàng nhà — một trải nghiệm thị giác khó quên và là 'chữ ký' của con phố.",
+   "Học viện Ballet Vaganova tại toà nhà số 2 là điểm nhấn giàu ý nghĩa nhất. Đây là nơi đã đào tạo nên những huyền thoại ballet thế giới, và nếu may mắn, du khách có thể bắt gặp hình ảnh các học viên trẻ mang giày múa đi lại trên phố — một khoảnh khắc đời thường nhưng đầy chất thơ, gắn kết kiến trúc với nghệ thuật múa.",
+   "Nhà hát Alexandrinsky ở đầu phố phía Quảng trường Ostrovsky là điểm nhấn kiến trúc hùng vĩ, cũng do Rossi thiết kế. Với hàng cột uy nghi và cỗ xe của thần Apollo trên đỉnh, nhà hát là 'người anh cả' của cả quần thể và là phông nền lộng lẫy khi nhìn từ con phố ra.",
+   "Vườn và Quảng trường Ostrovsky trước nhà hát, với tượng đài Nữ hoàng Ekaterina II bề thế, là điểm nhấn không thể tách rời. Đây là nơi du khách thường dừng chân trước hoặc sau khi dạo phố Rossi, tạo thành một cụm tham quan hoàn chỉnh và giàu chất lịch sử.",
+   "Đầu phố phía Quảng trường Lomonosov bên sông Fontanka là một điểm nhấn dịu dàng khác, nơi con phố mở ra không gian thoáng đãng bên dòng nước. Sự chuyển tiếp từ con phố khép kín, đối xứng ra quảng trường và bờ sông mang lại cảm giác thư thái, khép lại hành trình dạo bộ một cách nhẹ nhàng.",
+   "Với người yêu nhiếp ảnh, các chi tiết kiến trúc lặp lại — hàng cột, nhịp cửa sổ, đường gờ trang trí — là kho 'điểm nhấn' vô tận để sáng tạo khung hình. Dù chụp toàn cảnh đối xứng hay cận cảnh chi tiết, con phố đều mang lại những bức ảnh đậm chất cổ điển và tinh tế.",
+   "Cuối cùng, chính bầu không khí tĩnh lặng, trang nhã của con phố — hiếm có ở một trung tâm đô thị lớn — là một 'điểm nhấn vô hình' đáng trân trọng. Bước vào phố Rossi như bước vào một ốc đảo yên bình, nơi thời gian dường như chậm lại giữa nhịp sống hối hả của thành phố."
+  ]},
+  {"heading": "Ý nghĩa lịch sử – văn hoá", "paras": [
+   "Về mặt kiến trúc, phố Kiến trúc sư Rossi là một trong những minh chứng thuyết phục nhất cho quan niệm rằng cái đẹp đô thị có thể được xây dựng trên nền tảng của tỷ lệ và trật tự toán học. Nó là 'giáo trình trực quan' cho các nguyên lý cổ điển về hài hoà, được các trường kiến trúc trên thế giới nhắc tới.",
+   "Con phố là hiện thân cho tài năng và tầm nhìn của Carlo Rossi, người đã định hình phần lớn diện mạo trung tâm Sankt-Peterburg với các quần thể như Quảng trường Cung điện, Cung điện Mikhailovsky và quần thể Nhà hát Alexandrinsky. Việc một con phố được đặt theo tên ông cho thấy vị trí đặc biệt của Rossi trong lịch sử kiến trúc Nga.",
+   "Con phố cũng góp phần vào giá trị của trung tâm lịch sử Sankt-Peterburg — quần thể được UNESCO công nhận là Di sản Thế giới. Là một mảnh ghép trong bức tranh đô thị tân cổ điển tuyệt mỹ ấy, phố Rossi mang ý nghĩa di sản vượt ra ngoài phạm vi một thành phố hay một quốc gia.",
+   "Sự hiện diện của Học viện Ballet Vaganova khoác lên con phố một lớp ý nghĩa văn hoá đặc biệt sâu đậm. Ballet Nga là một trong những đỉnh cao nghệ thuật mà đất nước này cống hiến cho nhân loại, và con phố này chính là 'cái nôi' vật chất nơi truyền thống ấy được nuôi dưỡng qua nhiều thế hệ.",
+   "Sự gắn kết giữa một không gian kiến trúc hoàn hảo và một trường nghệ thuật đỉnh cao tạo nên một biểu tượng đẹp: nơi cái đẹp của hình khối tĩnh tại gặp gỡ cái đẹp của chuyển động và cơ thể. Với nhiều người, đi trên phố Rossi để đến trường múa Vaganova là một hành trình đầy chất thơ và cảm hứng.",
+   "Về mặt bản sắc đô thị, con phố nhắc nhở rằng Sankt-Peterburg là một thành phố được thiết kế có chủ đích, với tham vọng trở thành một trong những kinh đô đẹp nhất châu Âu. Từng con phố, từng quảng trường đều là kết quả của tư duy quy hoạch tổng thể, chứ không phải sự phát triển ngẫu nhiên.",
+   "Tổng thể, phố Kiến trúc sư Rossi là điểm giao thoa giữa lịch sử, kiến trúc và nghệ thuật biểu diễn — một không gian nhỏ nhưng cô đọng nhiều tầng ý nghĩa, xứng đáng được coi là một trong những biểu tượng tinh tế nhất của văn hoá Sankt-Peterburg."
+  ]},
+  {"heading": "Trải nghiệm dành cho du khách", "paras": [
+   "Trải nghiệm cốt lõi ở đây rất giản dị mà sâu lắng: dạo bộ và cảm nhận. Con phố tuy ngắn nhưng mời gọi du khách đi chậm lại, ngắm nhìn sự đối xứng, quan sát các chi tiết kiến trúc và tận hưởng bầu không khí thanh bình — một sự nghỉ ngơi cho tâm hồn giữa hành trình tham quan bận rộn.",
+   "Đây là một trong những điểm chụp ảnh kiến trúc đẹp nhất Sankt-Peterburg. Du khách thường chụp toàn cảnh con phố với hai hàng nhà đối xứng chạy dài, hoặc các khung hình lấy hàng cột trắng làm điểm nhấn. Ánh sáng buổi sáng sớm hoặc chiều muộn làm nổi bật hiệu ứng sáng – tối của các cột, cho những bức ảnh đẹp nhất.",
+   "Thời gian dành cho con phố thường khá ngắn — khoảng 15 đến 30 phút là đủ để đi dạo và chụp ảnh. Chính vì thế, đây là điểm đến lý tưởng để ghép vào một lộ trình lớn hơn, như một 'khoảng lặng thẩm mỹ' xen giữa các điểm tham quan hoành tráng khác.",
+   "Với những du khách yêu ballet, việc đứng trước Học viện Vaganova và hình dung các huyền thoại từng bước ra bước vào nơi đây là một trải nghiệm cảm xúc đặc biệt. Đôi khi có thể tìm hiểu về bảo tàng hoặc các hoạt động liên quan tới lịch sử ballet trong khu vực để làm phong phú thêm chuyến đi.",
+   "Đây là điểm đến phù hợp với mọi đối tượng và không đòi hỏi thể lực hay chi phí: không vé vào, không leo trèo, không xếp hàng. Điều này khiến phố Rossi đặc biệt dễ chịu cho người lớn tuổi, gia đình có trẻ nhỏ, hoặc bất kỳ ai muốn một trải nghiệm nhẹ nhàng, thư giãn.",
+   "Vai trò của hướng dẫn viên ở đây rất quan trọng để 'kích hoạt' giá trị của con phố. Nếu chỉ nhìn thoáng qua, du khách có thể thấy đây chỉ là một con phố yên tĩnh bình thường; nhưng khi được kể về những con số hoàn hảo, về Carlo Rossi và về học viện ballet, con phố lập tức trở nên hấp dẫn và ý nghĩa hơn nhiều.",
+   "Nhìn chung, trải nghiệm tại phố Rossi mang tính chiêm nghiệm và thẩm mỹ nhiều hơn là 'hoạt động'. Nó dạy du khách cách chậm lại, quan sát và trân trọng vẻ đẹp của sự hài hoà — một trải nghiệm tinh tế mà không phải điểm đến nào cũng mang lại.",
+   "Một cách nâng tầm trải nghiệm là kết hợp chuyến dạo phố với việc xem một buổi biểu diễn tại Nhà hát Alexandrinsky ngay đầu phố, hoặc tìm hiểu về nghệ thuật ballet gắn với Học viện Vaganova. Khi ấy, con phố không còn là điểm 'ngắm cho biết' mà trở thành cửa ngõ dẫn vào cả một thế giới nghệ thuật biểu diễn Nga. Với những du khách yêu văn hoá, sự kết hợp giữa kiến trúc ban ngày và một đêm thưởng thức nghệ thuật đỉnh cao sẽ tạo nên kỷ niệm trọn vẹn và khó quên về Sankt-Peterburg."
+  ]},
+  {"heading": "Mẹo tham quan", "paras": [
+   "Hãy đến từ phía Quảng trường Ostrovsky và Nhà hát Alexandrinsky để có 'màn mở đầu' đẹp nhất: ngắm nhà hát và vườn tượng trước, rồi vòng ra sau bước vào con phố hoàn hảo. Cách tiếp cận này giúp du khách cảm nhận rõ hơn sự chuyển tiếp không gian đầy dụng ý của Rossi.",
+   "Để chụp được bức ảnh đối xứng kinh điển, hãy đứng ở giữa hoặc một đầu con phố, canh máy thẳng theo trục. Tuy nhiên, luôn chú ý quan sát xe cộ khi đứng giữa lòng đường, và ưu tiên những thời điểm phố vắng để có khung hình sạch và an toàn.",
+   "Chọn thời điểm ánh sáng đẹp: buổi sáng sớm khi phố còn vắng và ánh nắng dịu, hoặc chiều muộn khi nắng xiên tôn lên các hàng cột. Vào mùa hè với hiện tượng 'đêm trắng', ánh sáng kéo dài tới khuya cũng mở ra nhiều cơ hội chụp ảnh độc đáo.",
+   "Kết hợp con phố với các điểm lân cận để tối ưu thời gian: Nhà hát Alexandrinsky, vườn Ostrovsky, sông Fontanka và đại lộ Nevsky đều ở ngay cạnh. Một vòng đi bộ khép kín qua các điểm này là hành trình lý tưởng cho nửa buổi khám phá trung tâm.",
+   "Hãy dành một chút thời gian tĩnh lặng để thực sự 'cảm' con phố, thay vì chỉ chụp ảnh rồi rời đi. Đứng yên vài phút, quan sát nhịp điệu của các hàng cột và lắng nghe sự yên tĩnh, du khách sẽ hiểu vì sao nơi đây được mệnh danh là con phố hoàn hảo.",
+   "Tôn trọng không gian của Học viện Vaganova: đây là một cơ sở đào tạo đang hoạt động, không phải điểm tham quan mở cửa tự do. Du khách nên ngắm từ bên ngoài, giữ trật tự và không làm phiền hoạt động của trường cũng như các học viên.",
+   "Cuối cùng, hãy chuẩn bị tinh thần rằng đây là một điểm đến 'chất lượng hơn số lượng': không có nhiều thứ để 'làm', nhưng lại có nhiều thứ để 'cảm'. Với đúng tâm thế thưởng thức, một con phố ngắn 220 mét có thể trở thành một trong những kỷ niệm tinh tế nhất của cả chuyến đi."
+  ]},
+  {"heading": "Khám phá xung quanh", "paras": [
+   "Ngay đầu phố là Nhà hát Alexandrinsky và Quảng trường Ostrovsky — trái tim của đời sống sân khấu Sankt-Peterburg. Đây là một trong những nhà hát kịch lâu đời và danh giá nhất nước Nga, với kiến trúc lộng lẫy do chính Rossi thiết kế, rất đáng để chiêm ngưỡng và tìm hiểu.",
+   "Trong vườn trước nhà hát là tượng đài Nữ hoàng Ekaterina II bề thế, xung quanh khắc hoạ các nhân vật kiệt xuất của thời đại bà. Khu vườn là nơi dừng chân dễ chịu, cũng là điểm khởi đầu hoặc kết thúc lý tưởng cho hành trình khám phá phố Rossi.",
+   "Đại lộ Nevsky Prospekt — trục phố chính sầm uất của thành phố — nằm ngay gần, dẫn tới vô số điểm đến như nhà thờ Kazan, cửa hàng sách Dom Knigi trong toà nhà Singer, các cửa hiệu và quán cà phê lịch sử. Chỉ cần bước ra Nevsky là du khách hoà vào nhịp sống nhộn nhịp nhất của Sankt-Peterburg.",
+   "Về phía Quảng trường Lomonosov và sông Fontanka, du khách có thể dạo bộ ven sông thơ mộng, ngắm các cây cầu và toà nhà lịch sử soi bóng nước. Đây là một trong những dòng sông nhỏ duyên dáng tạo nên đặc trưng 'Venice phương Bắc' của thành phố.",
+   "Không xa là Thư viện Quốc gia Nga và các công trình văn hoá quan trọng khác, cùng khu vực có nhiều nhà hát, phòng hoà nhạc — phản ánh vị thế của khu vực này như một trung tâm nghệ thuật biểu diễn của thành phố qua nhiều thế kỷ.",
+   "Với những ai muốn tiếp tục mạch kiến trúc của Carlo Rossi, có thể tìm tới các kiệt tác khác của ông như Cung điện Mikhailovsky (nay là Bảo tàng Nga) và Tòa nhà Bộ Tổng Tham mưu ở Quảng trường Cung điện. Một 'tour Rossi' xâu chuỗi các công trình này là hành trình lý thú cho người mê kiến trúc.",
+   "Nhờ nằm ngay trung tâm, phố Rossi là một mắt xích hoàn hảo trong bất kỳ lộ trình khám phá lõi lịch sử nào của Sankt-Peterburg, dễ dàng kết nối các điểm đến từ sân khấu, hội hoạ, kiến trúc cho tới cảnh quan sông nước, tất cả trong cự ly đi bộ.",
+   "Cả khu vực quanh phố Rossi từ lâu đã là một 'quận nghệ thuật' của Sankt-Peterburg, nơi tập trung nhiều nhà hát, thư viện và thiết chế văn hoá lớn. Dạo bước ở đây mang lại cảm giác đang đi giữa trái tim tinh thần của thành phố, nơi bao thế hệ nghệ sĩ, nhà văn và trí thức Nga từng qua lại. Với những ai có thêm thời gian, việc khám phá các con phố và quảng trường lân cận sẽ hé lộ vô số chi tiết kiến trúc và câu chuyện lịch sử ẩn mình, làm giàu thêm cho hành trình khám phá trung tâm Sankt-Peterburg."
+  ]},
+  {"heading": "Câu chuyện & giai thoại thú vị", "paras": [
+   "Giai thoại nổi tiếng nhất về con phố xoay quanh chính những con số hoàn hảo của nó. Người ta kể rằng Carlo Rossi đã cố ý thiết kế con phố với tỷ lệ rộng bằng cao và dài gấp mười lần rộng, như một tuyên ngôn về niềm tin của ông vào sự hài hoà toán học trong kiến trúc. Chính sự chính xác gần như tuyệt đối ấy đã biến con phố thành huyền thoại.",
+   "Một câu chuyện thú vị là việc con phố từng mang tên Phố Nhà hát trước khi được đổi tên theo chính người tạo ra nó vào năm 1923. Việc đặt tên phố theo một kiến trúc sư là điều không phổ biến, cho thấy sự trân trọng đặc biệt mà hậu thế dành cho thiên tài Carlo Rossi.",
+   "Số phận của bản thân Carlo Rossi lại mang màu sắc bi kịch tương phản với vinh quang của các công trình ông để lại. Dù là kiến trúc sư định hình cả một thành phố, những năm cuối đời ông sống trong cảnh khó khăn, ít được trọng vọng. Câu chuyện này khiến việc con phố đẹp nhất mang tên ông càng thêm ý nghĩa như một sự tri ân muộn màng.",
+   "Học viện Ballet Vaganova trên con phố này là 'lò' đào tạo nên vô số huyền thoại của ballet thế giới. Những tên tuổi lẫy lừng từng học tập và rèn luyện tại đây đã trở thành niềm tự hào của nghệ thuật múa Nga và thế giới. Ý nghĩ rằng những đôi chân tài hoa ấy từng bước đi trên chính con phố này khiến du khách không khỏi bồi hồi.",
+   "Nhờ vẻ đẹp cổ điển thuần khiết, phố Rossi thường được chọn làm bối cảnh cho phim ảnh, các buổi chụp hình nghệ thuật và thời trang. Sự vắng bóng của các yếu tố hiện đại giúp con phố dễ dàng 'đóng vai' bối cảnh thế kỷ 19, đưa người xem ngược dòng thời gian.",
+   "Có một trải nghiệm thị giác thú vị mà du khách nên tự kiểm chứng: khi đứng ở một đầu phố nhìn về đầu kia, sự đối xứng hoàn hảo của hai hàng nhà tạo cảm giác như đang nhìn vào một bức tranh phối cảnh được vẽ theo quy tắc chính xác. Đây là minh chứng sống động cho sức mạnh của tỷ lệ trong việc tạo nên cảm xúc thẩm mỹ.",
+   "Cuối cùng, câu chuyện đẹp nhất có lẽ là sự hoà quyện giữa kiến trúc và nghệ thuật múa nơi đây. Một con phố hoàn hảo về hình khối tĩnh tại lại là nơi nuôi dưỡng ballet — nghệ thuật của chuyển động và sự cân bằng cơ thể. Sự gặp gỡ giữa hai hình thái của cái đẹp ấy khiến phố Rossi trở thành một biểu tượng độc đáo, nơi hình học và vũ điệu cùng ngân lên một giai điệu hài hoà."
+  ]}
+ ],
+ "highlights": [
+  "Con phố có tỷ lệ hoàn hảo: rộng 22 m = cao 22 m, dài 220 m (gấp 10 lần rộng); hai dãy nhà đối xứng như soi gương, màu vàng với hàng cột trắng.",
+  "Kiệt tác của kiến trúc sư Carlo Rossi (xây ~1828–1834), một phần của quần thể quanh Nhà hát Alexandrinsky.",
+  "Nơi toạ lạc Học viện Ballet Nga mang tên Vaganova (toà nhà số 2) — một trong những trường ballet lâu đời và danh giá nhất thế giới.",
+  "Nối Quảng trường Ostrovsky (Nhà hát Alexandrinsky) với Quảng trường Lomonosov bên sông Fontanka; đổi tên theo Rossi năm 1923 (vốn là Phố Nhà hát).",
+  "Điểm dạo bộ & chụp ảnh kiến trúc tuyệt đẹp, miễn phí, yên tĩnh ngay trung tâm; ga metro gần nhất: Gostiny Dvor / Nevsky Prospekt.",
+  "Điểm đến 'chất lượng hơn số lượng' — cần được thuyết minh để cảm nhận trọn vẹn giá trị; tôn trọng không gian của học viện ballet đang hoạt động."
+ ],
+ "images": [
+  {"url": "https://commons.wikimedia.org/wiki/Special:FilePath/Uliza zodchego Rossi.jpg", "caption": "Phố Kiến trúc sư Rossi với hai dãy nhà đối xứng, màu vàng và hàng cột trắng đặc trưng."},
+  {"url": "https://commons.wikimedia.org/wiki/Special:FilePath/4849. St. Petersburg. Zodchego Rossi Street.jpg", "caption": "Nhìn dọc con phố — tỷ lệ hoàn hảo và sự lặp lại nhịp nhàng của các hàng cột."},
+  {"url": "https://commons.wikimedia.org/wiki/Special:FilePath/La rue parfaite (Saint-Petersbourg, Russie) (5232198793).jpg", "caption": "'Con phố hoàn hảo' — biệt danh gắn với sự cân đối toán học của phố Rossi."},
+  {"url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexandrinsky Theatre.jpg", "caption": "Nhà hát Alexandrinsky ở đầu phố (Quảng trường Ostrovsky) — cũng do Carlo Rossi thiết kế."},
+  {"url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sankt Petersburg-Alexandrinsky theatre.jpg", "caption": "Mặt tiền Nhà hát Alexandrinsky — 'người anh cả' của quần thể kiến trúc quanh phố Rossi."}
+ ],
+ "references": [
+  {"title": "Wikipedia — Carlo Rossi (architect)", "url": "https://en.wikipedia.org/wiki/Carlo_Rossi_(architect)"},
+  {"title": "Wikipedia — Vaganova Academy of Russian Ballet", "url": "https://en.wikipedia.org/wiki/Vaganova_Academy_of_Russian_Ballet"},
+  {"title": "Saint-Petersburg.com — Ulitsa Zodchego Rossi (Rossi Street)", "url": "http://www.saint-petersburg.com/streets/zodchego-rossi-street/"},
+  {"title": "Saint-Petersburg.com — Carlo Rossi's St. Petersburg (walking tour)", "url": "http://www.saint-petersburg.com/walking-tours/rossi-walking-tour/"},
+  {"title": "Saint-Petersburg.com — Ostrovsky Square", "url": "http://www.saint-petersburg.com/squares/ostrovsky-square/"},
+  {"title": "Fodor's Travel — Ulitsa Zodchevo Rossi", "url": "https://www.fodors.com/world/europe/russia/st-petersburg/things-to-do/sights/reviews/ulitsa-zodchevo-rossi-191237"},
+  {"title": "Wikimedia Commons — Category: Zodchego Rossi Street", "url": "https://commons.wikimedia.org/wiki/Category:Zodchego_Rossi_Street"}
+ ],
+ "sources": [
+  "Saint-Petersburg.com (mục streets & walking tours) — tỷ lệ con phố (rộng/cao 22 m, dài 220 m), kiến trúc sư Carlo Rossi, niên đại ~1828–1834, quan hệ với Nhà hát Alexandrinsky và các quảng trường Ostrovsky, Lomonosov; truy cập 7/2026.",
+  "Fodor's Travel — mô tả 'con phố hoàn hảo', Học viện Ballet Vaganova ở số 2 và danh sách các nghệ sĩ ballet nổi tiếng từng theo học.",
+  "Wikipedia mục 'Carlo Rossi (architect)' — tiểu sử và các công trình tiêu biểu (Quảng trường Cung điện, Cung điện Mikhailovsky, quần thể Alexandrinsky).",
+  "Wikipedia mục 'Vaganova Academy of Russian Ballet' — lịch sử trường múa (thành lập 1738) và vị trí trên phố Rossi.",
+  "Thông tin đổi tên phố (từ Teatralnaya ulitsa sang Ulitsa Zodchego Rossi năm 1923) và các giai thoại về Carlo Rossi tổng hợp từ các nguồn lịch sử kiến trúc; một số chi tiết mang tính truyền khẩu, nêu như câu chuyện tham khảo.",
+  "Thông tin giao thông (ga Gostiny Dvor, Nevsky Prospekt) và các địa danh lân cận tổng hợp từ bản đồ và hướng dẫn du lịch Sankt-Peterburg. Ảnh minh hoạ từ Wikimedia Commons."
+ ]
+}
+
+out = os.path.join(HERE, "doc_rossi-street.json")
+json.dump(d, open(out, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+wc = sum(len(p.split()) for s in d["sections"] for p in s["paras"])
+print("WROTE", out, "| sections", len(d["sections"]), "| words", wc)

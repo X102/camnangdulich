@@ -40,8 +40,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/RosaKhutor2013.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=40.2969,43.6725&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=43.6725,40.2969"
+      "yandex": "https://yandex.com/maps/?text=%D0%A0%D0%BE%D0%B7%D0%B0%20%D0%A5%D1%83%D1%82%D0%BE%D1%80%20%28%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F%20%D0%9F%D0%BE%D0%BB%D1%8F%D0%BD%D0%B0%29&ll=40.2969,43.6725&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Rosa%20Khutor%20Alpine%20Resort%20%28Krasnaya%20Polyana%29%2C%20Krasnodar%2C%20Russia"
     },
     "official_site": "https://rosakhutor.com",
     "sources": [
@@ -58,7 +58,8 @@
       "olympic"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "krasnodar-sochi-arboretum",
@@ -101,8 +102,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Dendrarium%20Sochi%20main%20entrance.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=39.74271,43.571096&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=43.571096,39.74271"
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%BE%D1%87%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D0%B5%D0%BD%D0%B4%D1%80%D0%B0%D1%80%D0%B8%D0%B9&ll=39.74271,43.571096&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Sochi%20Arboretum%2C%20Krasnodar%2C%20Russia"
     },
     "official_site": "https://dendrarium.ru",
     "sources": [
@@ -119,7 +120,8 @@
       "family"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "krasnodar-akhun-tower",
@@ -163,8 +165,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Tower%20on%20the%20Akhun%20mountain.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=39.84333,43.55056&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=43.55056,39.84333"
+      "yandex": "https://yandex.com/maps/?text=%D0%91%D0%B0%D1%88%D0%BD%D1%8F%20%D0%BD%D0%B0%20%D0%B3%D0%BE%D1%80%D0%B5%20%D0%90%D1%85%D1%83%D0%BD&ll=39.84333,43.55056&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Akhun%20Tower%2C%20Krasnodar%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -180,7 +182,8 @@
       "historic"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "krasnodar-abrau-dyurso",
@@ -224,8 +227,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%92%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%20%C2%AB%D0%90%D0%B1%D1%80%D0%B0%D1%83-%D0%94%D1%8E%D1%80%D1%81%D0%BE%C2%BB%20%28%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D1%80%D0%B0%D0%B9%29.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=37.60194,44.70278&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=44.70278,37.60194"
+      "yandex": "https://yandex.com/maps/?text=%D0%90%D0%B1%D1%80%D0%B0%D1%83-%D0%94%D1%8E%D1%80%D1%81%D0%BE&ll=37.60194,44.70278&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Abrau-Dyurso%20Winery%2C%20Krasnodar%2C%20Russia"
     },
     "official_site": "https://abraudurso.ru",
     "sources": [
@@ -242,7 +245,8 @@
       "tasting"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "krasnodar-krasnodar-galitsky-park",
@@ -285,8 +289,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Park%20near%20the%20stadium%20in%20Krasnodar%20%283%29.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=39.03857,45.0419&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=45.0419,39.03857"
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D1%80%D0%BA%20%C2%AB%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80%C2%BB%20%28%D0%9F%D0%B0%D1%80%D0%BA%20%D0%93%D0%B0%D0%BB%D0%B8%D1%86%D0%BA%D0%BE%D0%B3%D0%BE%29&ll=39.03857,45.0419&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Galitsky%20Park%20%28Krasnodar%20Park%29%2C%20Russia"
     },
     "official_site": "https://galitskypark.ru",
     "sources": [
@@ -303,7 +307,8 @@
       "family"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "krasnodar-sochi-olympic-park",
@@ -347,8 +352,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Sochi%20Olympic%20Park%20Fisht%20Olympic%20Stadium%20P5020324%202200.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=39.954592,43.405647&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=43.405647,39.954592"
+      "yandex": "https://yandex.com/maps/?text=%D0%9E%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D0%B0%D1%80%D0%BA%20%28%D0%A1%D0%BE%D1%87%D0%B8%29&ll=39.954592,43.405647&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Sochi%20Olympic%20Park%2C%20Krasnodar%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -365,7 +370,8 @@
       "family"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "krasnodar-gelendzhik-embankment",
@@ -408,8 +414,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Gelendzhik%20Bay.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=38.06355,44.577756&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=44.577756,38.06355"
+      "yandex": "https://yandex.com/maps/?text=%D0%93%D0%B5%D0%BB%D0%B5%D0%BD%D0%B4%D0%B6%D0%B8%D0%BA%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F&ll=38.06355,44.577756&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Gelendzhik%20Embankment%2C%20Krasnodar%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -426,7 +432,8 @@
       "family"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "krasnodar-ataman-taman",
@@ -469,8 +476,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Ataman%20museum%20Lob%20153.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=36.695536,45.217842&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=45.217842,36.695536"
+      "yandex": "https://yandex.com/maps/?text=%D0%90%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D1%8C&ll=36.695536,45.217842&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Ataman%20Cossack%20Village%20%28Taman%29%2C%20Krasnodar%2C%20Russia"
     },
     "official_site": "https://atamani.ru",
     "sources": [
@@ -487,7 +494,8 @@
       "family"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "krasnodar-agura-waterfalls",
@@ -530,8 +538,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Upper%20Agura%20waterfall.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=39.817243,43.55161&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=43.55161,39.817243"
+      "yandex": "https://yandex.com/maps/?text=%D0%90%D0%B3%D1%83%D1%80%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4%D1%8B&ll=39.817243,43.55161&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Agura%20Waterfalls%2C%20Krasnodar%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -548,6 +556,73 @@
       "national-park"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
+  },
+  {
+    "id": "krasnodar-skypark-sochi",
+    "slug": "skypark-sochi",
+    "region": "krasnodar",
+    "region_name_vi": "Vùng Krasnodar",
+    "federal_district": "Vùng Nam",
+    "name_vi": "Skypark AJ Hackett Sochi (Công viên mạo hiểm & cầu treo SkyBridge, Xcai-pác)",
+    "name_ru": "Скайпарк AJ Hackett Sochi",
+    "name_en": "Skypark AJ Hackett Sochi (SkyBridge)",
+    "categories": [
+      "bridge",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 43.52531,
+      "lon": 39.99736
+    },
+    "address_vi": "Phố Krasnoflotskaya, số 54A, làng Kazachy Brod, thành phố Sochi, Vùng Krasnodar (hẻm núi Akhshtyr, thung lũng sông Mzymta, trên đường lên Krasnaya Polyana); cách Adler khoảng 20 km.",
+    "rating": null,
+    "review_summary_vi": "Du khách mô tả đây là trải nghiệm 'nghẹt thở' đáng nhớ: đi bộ trên cây cầu treo lắc lư giữa hẻm núi sâu, phóng tầm mắt ra núi và biển. Người mê cảm giác mạnh thích các cú bungee và đu khổng lồ, trong khi khách nhẹ nhàng vẫn tận hưởng cảnh quan khi qua cầu. Một số lưu ý giá vé các trò chơi khá cao và nên đặt trước vào mùa cao điểm.",
+    "presentation_short_vi": "Công viên giải trí mạo hiểm bên hẻm núi sông Mzymta ở Sochi, khai trương năm 2014. Điểm nhấn là cầu treo đi bộ SkyBridge dài 439 m, treo cao khoảng 207 m so với đáy hẻm, cùng loạt trò cảm giác mạnh như nhảy bungee, đu khổng lồ và trượt dây.",
+    "presentation_long_vi": "Skypark AJ Hackett Sochi là công viên phiêu lưu mạo hiểm do hãng bungee lừng danh của New Zealand — AJ Hackett — vận hành, nằm trong ranh giới Vườn quốc gia Sochi, nơi hẻm núi Akhshtyr thuộc thung lũng sông Mzymta, trên tuyến đường nối trung tâm Sochi với khu nghỉ dưỡng núi Krasnaya Polyana. Khai trương năm 2014, công viên gây tiếng vang nhờ cây cầu treo dành cho người đi bộ mang tên SkyBridge dài 439 mét, bắc ngang hẻm núi ở độ cao khoảng 207 mét — vào thời điểm khánh thành thuộc hàng cầu treo đi bộ dài nhất thế giới. Đứng giữa cầu, du khách thu vào tầm mắt khung cảnh dãy Kavkaz trùng điệp và thấp thoáng dải bờ Biển Đen phía xa. Với người ưa cảm giác mạnh, đây là 'thiên đường adrenaline': cú nhảy bungee Bungy 207 từ độ cao 207 mét (được giới thiệu là cao nhất châu Âu), phiên bản nhẹ hơn Bungy 69, chiếc đu khổng lồ SochiSwing, đường trượt dây MegaTroll đạt tốc độ tới 120 km/h, công viên dây 'Mowgli' cho trẻ em và tuyến leo vách Via Ferrata dẫn tới hang Nho. Ngay cả khách không chơi trò mạo hiểm cũng có thể mua vé đi bộ qua cầu để ngắm cảnh và chụp ảnh. Kết hợp thiên nhiên hùng vĩ với trải nghiệm vượt giới hạn bản thân, Skypark đã trở thành một biểu tượng du lịch hiện đại của vùng Sochi.",
+    "highlights_vi": [
+      "Cầu treo đi bộ SkyBridge dài 439 m, treo ở độ cao khoảng 207 m trên hẻm núi Mzymta — khi khánh thành năm 2014 thuộc hàng cầu treo đi bộ dài nhất thế giới.",
+      "Loạt trò mạo hiểm: bungee Bungy 207 và Bungy 69, đu khổng lồ SochiSwing, trượt dây MegaTroll tới 120 km/h, công viên dây 'Mowgli' và tuyến Via Ferrata.",
+      "Nằm trong Vườn quốc gia Sochi, trên đường lên Krasnaya Polyana; từ cầu nhìn được cả dãy Kavkaz lẫn Biển Đen."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa hằng ngày (giờ phổ biến khoảng 10:00–18:30, có thể thay đổi theo mùa); nên kiểm tra trang chính thức trước khi đi.",
+      "ticket_vi": "Có vé vào cổng để đi bộ qua cầu và ngắm cảnh; các trò mạo hiểm (bungee, đu, trượt dây) tính phí riêng theo từng hoạt động.",
+      "duration_vi": "Khoảng 1,5–3 giờ tuỳ số hoạt động tham gia.",
+      "best_time_vi": "Từ mùa xuân đến mùa thu thời tiết đẹp; buổi sáng ít đông và ánh sáng thuận để chụp hẻm núi.",
+      "tips_vi": "Từ Adler đi ô tô khoảng 30–40 phút; mang giày bám tốt và giấy tờ tuỳ thân; cân nhắc sức khoẻ trước khi chơi trò cảm giác mạnh."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%BA%D0%B0%D0%B9%D0%BF%D0%B0%D1%80%D0%BA%20AJ%20Hackett%20Sochi&ll=39.99736,43.52531&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Skypark%20AJ%20Hackett%20Sochi%20%28SkyBridge%29%2C%20Krasnodar%2C%20Russia"
+    },
+    "official_site": "https://skypark.ru",
+    "sources": [
+      {
+        "title": "Sochi Skybridge — HighestBridges.com",
+        "url": "https://www.highestbridges.com/wiki/index.php?title=Sochi_Skybridge"
+      },
+      {
+        "title": "Skypark Sochi — Discover Russia",
+        "url": "https://discoverrussia.travel/things-to-do/skypark-sochi"
+      },
+      {
+        "title": "AJ Hackett Sochi (trang chính thức)",
+        "url": "https://www.ajhackett.com/sochi/"
+      }
+    ],
+    "tags": [
+      "bridge",
+      "outdoor",
+      "adventure",
+      "viewpoint",
+      "modern",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-25"
   }
 ]

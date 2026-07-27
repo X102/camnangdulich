@@ -1,0 +1,214 @@
+# -*- coding: utf-8 -*-
+"""Bổ sung 3 địa điểm du lịch nổi tiếng của tỉnh Tây Ninh (đơn vị MỚI sau sáp nhập
+Tây Ninh + Long An, hiệu lực 1/7/2025, giữ tên Tây Ninh, trung tâm hành chính Tân An).
+Chèn an toàn: nạp file nếu có, bỏ qua slug đã tồn tại, ghi lại JSON.
+Sau đó chạy: python3 tools/build.py && python3 tools/refresh_hub_stat.py
+"""
+import json, os, glob, urllib.parse
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+ROOT = os.path.dirname(HERE)
+REGION_SLUG = "vn-tay-ninh"
+F = os.path.join(ROOT, "data", "regions", REGION_SLUG + ".json")
+
+REG_NAME_VI = "Tây Ninh"
+FED = "Miền Nam"
+
+
+def build_maps(rec):
+    """Cùng logic với tools/retrofit_map_links.py để link bản đồ nhất quán toàn CSDL."""
+    lat = rec["coordinates"]["lat"]
+    lon = rec["coordinates"]["lon"]
+    name_ru = (rec.get("name_ru") or "").strip()
+    name_en = (rec.get("name_en") or "").strip()
+    name_vi = (rec.get("name_vi") or "").strip()
+    y_name = name_ru or name_en or name_vi
+    yandex = "https://yandex.com/maps/?text=%s&ll=%s,%s&z=16" % (
+        urllib.parse.quote(y_name), lon, lat)
+    g_name = name_en or name_vi or name_ru
+    reg_en = "Tay Ninh"
+    parts = [g_name]
+    if reg_en.lower() not in g_name.lower():
+        parts.append(reg_en)
+    parts.append("Vietnam")
+    google = "https://www.google.com/maps/search/?api=1&query=%s" % urllib.parse.quote(", ".join(parts))
+    return {"yandex": yandex, "google": google}
+
+
+new = [
+    {
+        "id": "vn-tay-ninh-nui-ba-den",
+        "slug": "nui-ba-den",
+        "region": REGION_SLUG,
+        "country": "vietnam",
+        "region_name_vi": REG_NAME_VI,
+        "federal_district": FED,
+        "name_vi": "Núi Bà Đen",
+        "name_ru": "Гора Ба Ден (Чёрная Дева)",
+        "name_en": "Ba Den Mountain (Black Virgin Mountain)",
+        "categories": ["park_garden", "monument"],
+        "coordinates": {"lat": 11.3733, "lon": 106.1719},
+        "address_vi": "Núi Bà Đen, cách trung tâm thành phố Tây Ninh khoảng 10 km về phía đông bắc, tỉnh Tây Ninh",
+        "rating": {"value": 4.6, "count": 30000, "source": "Google", "as_of": "2026-07"},
+        "review_summary_vi": "Du khách trầm trồ trước hệ thống cáp treo hiện đại, khuôn viên tâm linh trên đỉnh được đầu tư quy mô và cảnh 'biển mây' đẹp mê hồn vào sáng sớm. Nhiều người thấy khí hậu trên đỉnh mát mẻ, dễ chịu; một số lưu ý cuối tuần và dịp lễ khá đông, nên đi sớm và mặc trang phục kín đáo khi vào khu thờ tự.",
+        "presentation_short_vi": "Núi Bà Đen cao 986 m là ngọn núi cao nhất Nam Bộ, được mệnh danh là 'nóc nhà Đông Nam Bộ' và là điểm hành hương linh thiêng bậc nhất Tây Ninh. Ngày nay du khách có thể đi cáp treo hiện đại lên gần đỉnh, chiêm bái tượng Phật Bà Tây Bổ Đà Sơn bằng đồng cao 72 m và ngắm biển mây bồng bềnh.",
+        "presentation_short_en": "At 986 m, Ba Den Mountain is the highest peak in southern Vietnam, nicknamed the 'roof of the Southeast'. A revered pilgrimage site in Tay Ninh, it now offers modern cable cars up to a summit complex crowned by the 72-metre bronze statue of the Bodhisattva Tay Bo Da Son, often floating above a sea of clouds.",
+        "presentation_short_ru": "Гора Ба Ден высотой 986 м — самая высокая вершина Южного Вьетнама, которую называют «крышей Юго-Востока». Это одно из главных мест паломничества в провинции Тэйнинь: современная канатная дорога поднимает гостей к храмовому комплексу на вершине с 72-метровой бронзовой статуей бодхисаттвы Тэйбодашон, нередко парящей над морем облаков.",
+        "presentation_long_vi": "Sừng sững giữa đồng bằng Tây Ninh, núi Bà Đen cao 986 m là đỉnh núi cao nhất khu vực Nam Bộ, thường được gọi là 'nóc nhà Đông Nam Bộ'. Ngọn núi gắn với truyền thuyết Linh Sơn Thánh Mẫu (Bà Đen) và từ lâu đã là trung tâm hành hương, tín ngưỡng thu hút hàng triệu lượt khách mỗi năm, đặc biệt dịp đầu xuân và lễ vía Bà tháng Năm âm lịch. Dưới chân và lưng chừng núi là hệ thống chùa Bà cổ kính nép mình bên sườn dốc. Từ năm 2020, tuyến cáp treo hiện đại đưa du khách vượt quãng đường dài chỉ trong ít phút lên khu quần thể tâm linh gần đỉnh, nơi tọa lạc tượng Phật Bà Tây Bổ Đà Sơn bằng đồng cao 72 m — một trong những tượng Phật Bà bằng đồng trên đỉnh núi cao nhất châu Á. Trên đỉnh, du khách thường được chiêm ngưỡng 'biển mây' bồng bềnh vào sáng sớm, cùng khí hậu mát lành và tầm nhìn bao quát cả vùng hồ Dầu Tiếng phía xa. Sự kết hợp giữa cảnh quan thiên nhiên hùng vĩ, không gian tâm linh trang nghiêm và trải nghiệm cáp treo hiện đại khiến núi Bà Đen trở thành biểu tượng du lịch mới của Tây Ninh, đón cả khách hành hương lẫn người mê ngắm cảnh quanh năm.",
+        "presentation_long_en": "Rising abruptly from the flat plains of Tay Ninh, Ba Den (Black Virgin) Mountain reaches 986 metres and is the tallest peak in all of southern Vietnam, earning it the nickname 'the roof of the Southeast'. The mountain is tied to the legend of the Holy Mother Linh Son (Lady Ba Den) and has long been one of the region's most important pilgrimage and spiritual centres, drawing millions of visitors each year, especially during the Lunar New Year and the Lady's festival in the fifth lunar month. Ancient temples cling to its lower slopes. Since 2020, a modern cable-car system has whisked visitors up to a spiritual complex near the summit in just a few minutes. There stands the 72-metre bronze statue of the Bodhisattva Tay Bo Da Son, among the tallest hilltop bronze statues of the goddess in Asia. At the top, travellers often admire a drifting 'sea of clouds' at dawn, enjoy cool mountain air and sweeping views that reach as far as the Dau Tieng Reservoir. The blend of majestic scenery, solemn sacred spaces and a record-setting cable car has made Ba Den Mountain the new tourism icon of Tay Ninh, welcoming both pilgrims and sightseers throughout the year.",
+        "presentation_long_ru": "Резко вздымаясь над равнинами Тэйниня, гора Ба Ден (Чёрная Дева) достигает 986 метров и является самой высокой вершиной всего Южного Вьетнама, за что её прозвали «крышей Юго-Востока». Гора связана с легендой о Святой Матери Линьшон (госпоже Ба Ден) и издавна служит одним из важнейших центров паломничества и духовной жизни региона, привлекая миллионы посетителей в год, особенно в дни лунного Нового года и праздника в честь Богини в пятый лунный месяц. На нижних склонах прячутся старинные храмы. С 2020 года современная канатная дорога всего за несколько минут поднимает гостей к храмовому комплексу почти у вершины, где возвышается 72-метровая бронзовая статуя бодхисаттвы Тэйбодашон — одна из самых высоких горных бронзовых статуй богини в Азии. На вершине путешественники нередко любуются плывущим на рассвете «морем облаков», наслаждаются прохладным горным воздухом и панорамой, простирающейся до водохранилища Зэутьенг. Сочетание величественных пейзажей, торжественных святынь и рекордной канатной дороги превратило гору Ба Ден в новый туристический символ Тэйниня, привлекающий и паломников, и любителей видов круглый год.",
+        "highlights_vi": [
+            "Đỉnh núi cao nhất Nam Bộ (986 m) — 'nóc nhà Đông Nam Bộ'",
+            "Tượng Phật Bà Tây Bổ Đà Sơn bằng đồng cao 72 m trên đỉnh núi",
+            "Cáp treo hiện đại và cảnh 'biển mây' huyền ảo lúc bình minh"
+        ],
+        "highlights_en": [
+            "Highest peak in southern Vietnam (986 m) — the 'roof of the Southeast'",
+            "72-metre bronze statue of Bodhisattva Tay Bo Da Son at the summit",
+            "Modern cable cars and a magical dawn 'sea of clouds'"
+        ],
+        "highlights_ru": [
+            "Самая высокая вершина Южного Вьетнама (986 м) — «крыша Юго-Востока»",
+            "72-метровая бронзовая статуя бодхисаттвы Тэйбодашон на вершине",
+            "Современная канатная дорога и волшебное «море облаков» на рассвете"
+        ],
+        "practical": {
+            "hours_vi": "Khu du lịch và cáp treo thường mở khoảng 5:00–18:00 hằng ngày (có khung giờ đón bình minh).",
+            "ticket_vi": "Vé cáp treo khứ hồi tham khảo khoảng 250.000–350.000 VND/người tùy tuyến; trẻ nhỏ có ưu đãi.",
+            "duration_vi": "Khoảng 3–5 giờ (nửa ngày).",
+            "best_time_vi": "Mùa khô (tháng 11–4); sáng sớm để ngắm biển mây và tránh nắng.",
+            "tips_vi": "Mang áo khoác mỏng vì trên đỉnh mát; ăn mặc lịch sự khi vào khu thờ tự; đi sớm dịp lễ để tránh đông."
+        },
+        "photo": None,
+        "photo_credit": None,
+        "official_site": None,
+        "sources": [
+            {"title": "Wikipedia (EN) — Black Virgin Mountain", "url": "https://en.wikipedia.org/wiki/Black_Virgin_Mountain"},
+            {"title": "Vietnam Airlines — A–Z Guide to Ba Den Mountain", "url": "https://www.vietnamairlines.com/us/en/plan-book/travel/travel-guide/nui-ba-den"}
+        ],
+        "tags": ["mountain", "cable-car", "viewpoint", "spiritual", "nature", "top", "daytrip", "outdoor"],
+        "status": "enriched",
+        "last_updated": "2026-07-27"
+    },
+    {
+        "id": "vn-tay-ninh-toa-thanh-cao-dai",
+        "slug": "toa-thanh-cao-dai",
+        "region": REGION_SLUG,
+        "country": "vietnam",
+        "region_name_vi": REG_NAME_VI,
+        "federal_district": FED,
+        "name_vi": "Tòa Thánh Cao Đài Tây Ninh",
+        "name_ru": "Святой Престол Каодай (Великий Божественный Храм), Тэйнинь",
+        "name_en": "Cao Dai Holy See (Great Divine Temple), Tay Ninh",
+        "categories": ["church", "monument"],
+        "coordinates": {"lat": 11.3039, "lon": 106.1333},
+        "address_vi": "Khu vực Long Hoa, cách trung tâm thành phố Tây Ninh khoảng 4 km về phía đông, tỉnh Tây Ninh",
+        "rating": {"value": 4.5, "count": 9000, "source": "Google", "as_of": "2026-07"},
+        "review_summary_vi": "Du khách đánh giá đây là công trình tôn giáo độc đáo, rực rỡ sắc màu và rất đáng xem, đặc biệt khi vào đúng giờ lễ giữa trưa để chứng kiến nghi thức trang nghiêm. Nhiều người khuyên nên đến trước 12 giờ, giữ yên lặng, cởi giày và ăn mặc kín đáo; một số lưu ý khá đông khách tham quan vào giờ lễ.",
+        "presentation_short_vi": "Tòa Thánh Cao Đài Tây Ninh là thánh địa trung tâm của đạo Cao Đài — tôn giáo bản địa ra đời tại Việt Nam năm 1926. Ngôi đền chính dài gần 100 m nổi bật với kiến trúc rực rỡ pha trộn Đông – Tây và biểu tượng 'Thiên Nhãn' (Con Mắt Trời), nơi diễn ra các buổi lễ với hàng trăm tín đồ trong trang phục nhiều màu.",
+        "presentation_short_en": "The Cao Dai Holy See in Tay Ninh is the spiritual heart of Caodaism, a syncretic religion founded in Vietnam in 1926. Its nearly 100-metre-long Great Divine Temple dazzles with a flamboyant East-meets-West design and the all-seeing 'Divine Eye', and hosts daily ceremonies filled with hundreds of robed adherents.",
+        "presentation_short_ru": "Святой Престол Каодай в Тэйнине — духовный центр каодаизма, синкретической религии, зародившейся во Вьетнаме в 1926 году. Его Великий Божественный Храм длиной почти 100 метров поражает ярким убранством в стиле «Восток встречает Запад» и символом всевидящего «Божественного Ока», а ежедневные церемонии собирают сотни верующих в длинных одеяниях.",
+        "presentation_long_vi": "Tọa lạc tại khu vực Long Hoa, cách trung tâm thành phố Tây Ninh khoảng 4 km, Tòa Thánh Cao Đài là trung tâm hành đạo lớn nhất của đạo Cao Đài — một tôn giáo bản địa được khai sinh ở Nam Bộ năm 1926, dung hợp tinh hoa của Phật giáo, Đạo giáo, Nho giáo, Cơ Đốc giáo và tín ngưỡng dân gian. Công trình chính là Đền Thánh, được khởi công năm 1931 và hoàn thành năm 1947, dài khoảng 97,5 m với hai tháp chuông cao vút ở mặt tiền hướng tây. Bên trong, những hàng cột rồng sơn son thếp vàng, vòm trần xanh điểm mây sao và trên hết là biểu tượng 'Thiên Nhãn' — Con Mắt Trời — đặt trên quả cầu vũ trụ, tạo nên không gian vừa huyền bí vừa lộng lẫy. Mỗi ngày tại đây diễn ra bốn thời cúng, đông và dễ xem nhất là lễ giữa trưa, khi hàng trăm chức sắc và tín đồ trong trang phục áo dài trắng, xanh, vàng, đỏ trang nghiêm hành lễ trong tiếng nhạc lễ cổ truyền. Du khách được chào đón vào tham quan và chụp ảnh từ ban công tầng trên, với điều kiện giữ trật tự, đi chân trần và ăn mặc kín đáo. Quần thể rộng khoảng 1 km² còn có nhiều đền đài, vườn cây và công trình hành chính, tạo nên một điểm đến độc đáo bậc nhất Việt Nam, rất thuận tiện kết hợp cùng núi Bà Đen gần đó.",
+        "presentation_long_en": "Set in Long Hoa, about 4 km from the centre of Tay Ninh, the Cao Dai Holy See is the largest place of worship of Caodaism — a home-grown religion born in southern Vietnam in 1926 that blends Buddhism, Taoism, Confucianism, Christianity and folk belief. Its centrepiece, the Great Divine Temple, was begun in 1931 and completed in 1947. Roughly 97.5 metres long, it presents a twin-towered façade facing west and an interior of astonishing colour: rows of dragon-wrapped columns in gold and vermilion, a vaulted blue ceiling scattered with clouds and stars, and, above all, the 'Divine Eye' — the all-seeing left eye of God set upon a celestial globe. Four ceremonies are held here each day; the famous noon service draws hundreds of dignitaries and followers in flowing robes of white, blue, yellow and red, worshipping to traditional ritual music. Visitors are warmly welcomed to observe and photograph from the upper balconies, provided they stay quiet, go barefoot and dress modestly. The complex, covering about one square kilometre, also contains numerous shrines, gardens and administrative halls. Unlike anything else in the country, the Holy See offers a mesmerising window into one of Vietnam's most distinctive faiths and is easily combined with nearby Ba Den Mountain.",
+        "presentation_long_ru": "Расположенный в районе Лонгхоа, примерно в 4 км от центра города Тэйнинь, Святой Престол Каодай — крупнейший храмовый центр каодаизма, самобытной религии, возникшей на юге Вьетнама в 1926 году и объединившей буддизм, даосизм, конфуцианство, христианство и народные верования. Его сердце — Великий Божественный Храм, заложенный в 1931 году и завершённый в 1947-м. Здание длиной около 97,5 метра обращено к западу двухбашенным фасадом, а внутри поражает буйством красок: ряды колонн, обвитых золотыми драконами на алом фоне, синий сводчатый потолок с облаками и звёздами и, главное, «Божественное Око» — всевидящий левый глаз Бога на небесной сфере. Здесь ежедневно проходят четыре богослужения; знаменитая полуденная церемония собирает сотни сановников и верующих в развевающихся одеждах белого, синего, жёлтого и красного цветов под традиционную ритуальную музыку. Гостей радушно приглашают наблюдать и фотографировать с верхних балконов при условии тишины, разутых ног и скромной одежды. Комплекс площадью около одного квадратного километра включает и другие святилища, сады и административные здания. Не имеющий аналогов в стране, Святой Престол открывает завораживающее окно в одну из самых необычных религий Вьетнама и легко сочетается с поездкой к соседней горе Ба Ден.",
+        "highlights_vi": [
+            "Thánh địa trung tâm của đạo Cao Đài — tôn giáo bản địa ra đời năm 1926",
+            "Đền Thánh dài ~97,5 m, kiến trúc Đông–Tây rực rỡ với biểu tượng Thiên Nhãn",
+            "Lễ cúng giữa trưa với hàng trăm tín đồ trong trang phục nhiều màu"
+        ],
+        "highlights_en": [
+            "Central holy site of Caodaism, a religion founded in 1926",
+            "~97.5 m Great Divine Temple with a flamboyant East-West design and the Divine Eye",
+            "Noon ceremony with hundreds of adherents in colourful robes"
+        ],
+        "highlights_ru": [
+            "Главная святыня каодаизма — религии, основанной в 1926 году",
+            "Великий Божественный Храм (~97,5 м) с ярким убранством и «Божественным Оком»",
+            "Полуденная церемония с сотнями верующих в разноцветных одеждах"
+        ],
+        "practical": {
+            "hours_vi": "Mở cửa cho khách tham quan hằng ngày; bốn thời lễ vào khoảng 6:00, 12:00, 18:00 và 24:00 (lễ giữa trưa đông và dễ xem nhất).",
+            "ticket_vi": "Miễn phí vào tham quan (tùy tâm công đức).",
+            "duration_vi": "Khoảng 1–1,5 giờ.",
+            "best_time_vi": "Trước buổi lễ 12:00 trưa để xem nghi lễ; kết hợp cùng núi Bà Đen trong ngày.",
+            "tips_vi": "Cởi giày trước khi vào đền, đi nhẹ, giữ trật tự; ăn mặc kín đáo; chỉ chụp ảnh từ ban công tầng trên và không làm gián đoạn buổi lễ."
+        },
+        "photo": None,
+        "photo_credit": None,
+        "official_site": None,
+        "sources": [
+            {"title": "Wikipedia (EN) — Great Divine Temple", "url": "https://en.wikipedia.org/wiki/Great_Divine_Temple"},
+            {"title": "Lonely Planet — Cao Dai Holy See", "url": "https://www.lonelyplanet.com/vietnam/around-ho-chi-minh-city/tay-ninh/attractions/cao-dai-holy-see/a/poi-sig/1390404/357857"}
+        ],
+        "tags": ["temple", "religion", "architecture", "top", "indoor", "daytrip", "culture"],
+        "status": "enriched",
+        "last_updated": "2026-07-27"
+    },
+    {
+        "id": "vn-tay-ninh-ho-dau-tieng",
+        "slug": "ho-dau-tieng",
+        "region": REGION_SLUG,
+        "country": "vietnam",
+        "region_name_vi": REG_NAME_VI,
+        "federal_district": FED,
+        "name_vi": "Hồ Dầu Tiếng",
+        "name_ru": "Водохранилище Зэутьенг",
+        "name_en": "Dau Tieng Reservoir (Dau Tieng Lake)",
+        "categories": ["park_garden", "other"],
+        "coordinates": {"lat": 11.3842, "lon": 106.3636},
+        "address_vi": "Khu vực huyện Dương Minh Châu, cách trung tâm thành phố Tây Ninh khoảng 25 km về phía đông, tỉnh Tây Ninh",
+        "rating": {"value": 4.4, "count": 4500, "source": "Google", "as_of": "2026-07"},
+        "review_summary_vi": "Du khách thích không gian rộng thoáng, mát mẻ và cảnh hoàng hôn, bình minh trên mặt hồ; nhiều nhóm bạn trẻ chọn cắm trại qua đêm, chèo SUP và chụp ảnh. Một số nhắc nhở khu vực còn khá hoang sơ, ít dịch vụ nên cần chuẩn bị đồ dùng, nước uống và chú ý an toàn khi xuống nước.",
+        "presentation_short_vi": "Hồ Dầu Tiếng là hồ nước nhân tạo lớn nhất Việt Nam và thuộc hàng lớn nhất Đông Nam Á, với mặt nước mênh mông khoảng 270 km². Nằm cách thành phố Tây Ninh chừng 25 km, hồ nổi tiếng với cảnh hoàng hôn thơ mộng, những đảo nhỏ và bãi cắm trại được giới trẻ yêu thích.",
+        "presentation_short_en": "Dau Tieng Reservoir is the largest artificial lake in Vietnam and among the biggest in Southeast Asia, spreading over roughly 270 km². About 25 km from Tay Ninh city, it is loved for its dreamy sunsets, scattered islets and lakeside camping, with the silhouette of Ba Den Mountain on the horizon.",
+        "presentation_short_ru": "Водохранилище Зэутьенг — крупнейшее искусственное озеро Вьетнама и одно из самых больших в Юго-Восточной Азии, площадью около 270 км². Расположенное примерно в 25 км от города Тэйнинь, оно славится живописными закатами, маленькими островами и озёрными кемпингами, а на горизонте виднеется гора Ба Ден.",
+        "presentation_long_vi": "Hồ Dầu Tiếng là công trình thủy lợi nhân tạo lớn nhất Việt Nam và thuộc loại lớn nhất Đông Nam Á, được khởi công năm 1981 và hoàn thành năm 1985 trên thượng nguồn sông Sài Gòn. Trải rộng chủ yếu trên địa phận tỉnh Tây Ninh (khu vực Dương Minh Châu) và giáp ranh các tỉnh lân cận, hồ có diện tích mặt nước khoảng 270 km² và dung tích lên tới 1,58 tỷ m³, giữ vai trò then chốt trong việc cấp nước tưới, điều tiết lũ và cung cấp nước sinh hoạt cho cả vùng Đông Nam Bộ. Với du khách, Dầu Tiếng là một 'biển hồ' nội địa khoáng đạt: mặt nước phẳng lặng in bóng mây trời, điểm xuyết những hòn đảo nhỏ và bán đảo cỏ xanh, phía xa là dáng núi Bà Đen sừng sững. Nơi đây đặc biệt được giới trẻ ưa chuộng để cắm trại qua đêm, đón bình minh và ngắm hoàng hôn rực rỡ, chèo SUP, câu cá hay đơn giản là dạo bước đón gió lộng. Vào mùa nước rút, những bãi đất và 'đồng cỏ' ven hồ hiện ra tạo khung cảnh lạ mắt như thảo nguyên. Cùng với núi Bà Đen và Tòa Thánh Cao Đài, hồ Dầu Tiếng khép lại bộ ba điểm đến làm nên cung đường khám phá Tây Ninh.",
+        "presentation_long_en": "Dau Tieng Reservoir is the largest man-made irrigation lake in Vietnam and one of the largest in Southeast Asia. Built between 1981 and 1985 on the upper Saigon River, it stretches mainly across Tay Ninh province (largely in the Duong Minh Chau area) and borders neighbouring provinces. With a water surface of about 270 km² and a capacity of some 1.58 billion cubic metres, it plays a vital role in irrigation, flood control and water supply for the whole southeastern region. For travellers, Dau Tieng is a vast inland 'sea': mirror-calm water reflecting the sky, dotted with small islands and grassy peninsulas, with the unmistakable form of Ba Den Mountain rising in the distance. It has become a favourite with young Vietnamese for overnight camping, sunrise and sunset watching, stand-up paddling, fishing or simply strolling in the breeze. When the water level drops, exposed banks and 'grasslands' create an unexpected steppe-like landscape popular for photography. Peaceful, wide open and still relatively unspoilt, the reservoir offers a refreshing contrast to Tay Ninh's spiritual sites. Together with Ba Den Mountain and the Cao Dai Holy See, it completes the trio of destinations along the classic Tay Ninh sightseeing route.",
+        "presentation_long_ru": "Водохранилище Зэутьенг — крупнейшее искусственное ирригационное озеро Вьетнама и одно из самых больших в Юго-Восточной Азии. Оно было построено в 1981–1985 годах в верховьях реки Сайгон и раскинулось главным образом на территории провинции Тэйнинь (в основном в районе Зыонгминьтяу), гранича с соседними провинциями. При площади водного зеркала около 270 км² и объёме порядка 1,58 млрд кубометров водохранилище играет ключевую роль в орошении, регулировании паводков и водоснабжении всего юго-восточного региона. Для путешественников Зэутьенг — это просторное внутреннее «море»: зеркально-гладкая вода отражает небо, среди неё разбросаны маленькие острова и травянистые полуострова, а вдали возвышается узнаваемый силуэт горы Ба Ден. Место особенно полюбилось молодёжи для ночного кемпинга, встречи рассвета и любования яркими закатами, катания на сапбордах, рыбалки или неспешных прогулок на ветру. Когда уровень воды понижается, обнажившиеся берега и «луга» создают неожиданный степной пейзаж, популярный для фотосессий. Спокойное, широкое и всё ещё сравнительно нетронутое, водохранилище приятно контрастирует с духовными святынями Тэйниня. Вместе с горой Ба Ден и Святым Престолом Каодай оно завершает тройку достопримечательностей классического туристического маршрута по Тэйниню.",
+        "highlights_vi": [
+            "Hồ nhân tạo lớn nhất Việt Nam (mặt nước ~270 km²), xây dựng 1981–1985",
+            "Điểm cắm trại, ngắm bình minh – hoàng hôn nổi tiếng gần Sài Gòn",
+            "Tầm nhìn ra núi Bà Đen; mùa nước rút lộ 'đồng cỏ' như thảo nguyên"
+        ],
+        "highlights_en": [
+            "Vietnam's largest artificial lake (~270 km² surface), built 1981–1985",
+            "Popular camping and sunrise/sunset spot near Saigon",
+            "Views of Ba Den Mountain; steppe-like 'grasslands' at low water"
+        ],
+        "highlights_ru": [
+            "Крупнейшее искусственное озеро Вьетнама (~270 км²), построено в 1981–1985",
+            "Популярное место кемпинга и встречи рассвета/заката недалеко от Сайгона",
+            "Виды на гору Ба Ден; «луга» в степном стиле при низкой воде"
+        ],
+        "practical": {
+            "hours_vi": "Khu vực hồ mở tự do (nhiều điểm cắm trại quanh hồ); nên đến ban ngày và về trước tối nếu không cắm trại.",
+            "ticket_vi": "Vào khu vực hồ thường miễn phí; một số bãi cắm trại/dịch vụ thu phí gửi xe và cho thuê thiết bị.",
+            "duration_vi": "Nửa ngày, hoặc cắm trại qua đêm.",
+            "best_time_vi": "Mùa khô (tháng 11–4); đẹp nhất lúc bình minh và hoàng hôn.",
+            "tips_vi": "Mang theo nước, đồ ăn và dụng cụ cắm trại; chú ý an toàn khi bơi/chèo; giữ vệ sinh, mang rác về."
+        },
+        "photo": None,
+        "photo_credit": None,
+        "official_site": None,
+        "sources": [
+            {"title": "Wikipedia (EN) — Dầu Tiếng Reservoir", "url": "https://en.wikipedia.org/wiki/D%E1%BA%A7u_Ti%E1%BA%BFng_Reservoir"},
+            {"title": "Tổng cục Du lịch Việt Nam — Hồ Dầu Tiếng", "url": "https://vietnamtourism.gov.vn/post/35002"}
+        ],
+        "tags": ["lake", "nature", "camping", "sunset", "outdoor", "daytrip", "viewpoint"],
+        "status": "enriched",
+        "last_updated": "2026-07-27"
+    }
+]
+
+for rec in new:
+    rec["maps"] = build_maps(rec)
+
+d = json.load(open(F, encoding="utf-8")) if os.path.exists(F) else []
+have = {p["slug"] for p in d}
+added = [p for p in new if p["slug"] not in have]
+d += added
+json.dump(d, open(F, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
+print("File:", os.path.basename(F))
+print("Da them:", [p["slug"] for p in added])
+print("Bo qua (trung slug):", [p["slug"] for p in new if p["slug"] in have])
+print("Gio co:", len(d), "dia diem trong", os.path.basename(F))

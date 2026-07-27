@@ -4,12 +4,28 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>Danh sách địa điểm · Du lịch Nga</title>
+<meta name="description" content="Danh sách địa điểm du lịch Nga & Việt Nam bằng tiếng Việt: đánh giá, thuyết minh, bản đồ, nghe thành tiếng — đa ngôn ngữ VI/EN/RU." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Danh sách địa điểm · Cẩm nang Du lịch Nga" />
+<meta property="og:description" content="Tra cứu địa điểm du lịch Nga & Việt Nam: đánh giá, thuyết minh, bản đồ và nghe thành tiếng (VI/EN/RU)." />
+<meta property="og:image" content="assets/vendor/images/marker-icon-2x.png" />
 <link rel="stylesheet" href="assets/app.css" />
 <style>
   .count-line { margin: 2px 0 14px; color: var(--muted); font-size: 14px; }
   .tts-global { display: flex; align-items: center; gap: 8px; margin-left: auto; }
   .tts-global input[type=range] { width: 110px; }
   .voice-warn { margin: 0 0 14px; }
+  /* Language switcher (header) */
+  .lang-switch { display: flex; gap: 6px; }
+  .lang-chip {
+    display: inline-flex; align-items: center; gap: 5px; cursor: pointer;
+    border: 1.5px solid rgba(255,255,255,.28); background: rgba(255,255,255,.08);
+    color: #fff; padding: 7px 12px; border-radius: 999px; font-size: 13px; font-weight: 700;
+    line-height: 1; transition: .15s; font-family: inherit;
+  }
+  .lang-chip:hover { background: rgba(255,255,255,.18); }
+  .lang-chip.active { background: var(--gold); color: #241c05; border-color: var(--gold); }
+  @media (max-width: 640px) { .lang-chip { padding: 9px 13px; font-size: 13.5px; } }
 </style>
 </head>
 <body>
@@ -21,6 +37,7 @@
       <a href="list.html" class="active">Danh sách</a>
       <a href="gis.html">Bản đồ GIS</a>
     </div>
+    <div class="lang-switch" id="langSwitch"></div>
   </nav>
 </header>
 
@@ -39,6 +56,7 @@
       <option value="reviews">Nhiều lượt đánh giá nhất</option>
       <option value="name">Tên A→Z</option>
     </select>
+    <select id="country" title="Quốc gia"><option value="">Tất cả quốc gia</option></select>
     <select id="region"><option value="">Tất cả vùng</option></select>
     <div class="tts-global">
       <span class="muted" style="font-size:12px;">Tốc độ đọc</span>
@@ -69,6 +87,47 @@
   var activeCats = {}; // slug -> bool (rỗng = tất cả)
   var grid = document.getElementById("grid");
 
+  // Bản đồ quốc gia (dùng meta nếu có; nếu chưa có thì tự suy ra — mặc định 'russia')
+  var COUNTRY_NAMES = Object.assign({ russia: "Nga", vietnam: "Việt Nam" }, meta.country_names || {});
+  var COUNTRIES = meta.countries;
+  if (!COUNTRIES || !Object.keys(COUNTRIES).length) {
+    COUNTRIES = {};
+    places.forEach(function (p) { var c = p.country || "russia"; COUNTRIES[c] = (COUNTRIES[c] || 0) + 1; });
+  }
+
+  /* ---------- Ngôn ngữ ---------- */
+  (function buildLangSwitch() {
+    var box = document.getElementById("langSwitch");
+    if (!box) return;
+    Object.keys(RT.LANGS).forEach(function (code) {
+      var info = RT.LANGS[code];
+      var b = document.createElement("button");
+      b.type = "button";
+      b.className = "lang-chip";
+      b.dataset.code = code;
+      b.title = info.label;
+      b.setAttribute("aria-label", info.label);
+      b.innerHTML = info.flag + " <span>" + code.toUpperCase() + "</span>";
+      b.onclick = function () {
+        if (RT.getLang() === code) return;
+        RT.setLang(code);
+        RT.TTS.stop();
+        document.querySelectorAll(".tts-btn").forEach(function (bb) { bb.classList.remove("speaking"); });
+        markLang();
+        render();
+      };
+      box.appendChild(b);
+    });
+    markLang();
+  })();
+  function markLang() {
+    var cur = RT.getLang();
+    document.querySelectorAll(".lang-chip").forEach(function (c) {
+      c.classList.toggle("active", c.dataset.code === cur);
+    });
+    document.documentElement.lang = cur;
+  }
+
   // Cảnh báo giọng đọc
   function checkVoice() {
     if (RT.TTS.supported && !RT.TTS.hasVietnameseVoice()) {
@@ -77,16 +136,35 @@
   }
   setTimeout(checkVoice, 600);
 
-  // Bộ lọc vùng
-  (function fillRegions() {
-    var sel = document.getElementById("region");
-    (meta.regions || []).forEach(function (r) {
-      var o = document.createElement("option");
-      o.value = r.slug; o.textContent = r.name_vi + " (" + r.count + ")";
-      sel.appendChild(o);
+  // Bộ lọc quốc gia
+  function fillCountries() {
+    var sel = document.getElementById("country");
+    var keys = Object.keys(COUNTRIES);
+    var html = '<option value="">Tất cả quốc gia</option>';
+    keys.forEach(function (c) {
+      html += '<option value="' + RT.escapeHtml(c) + '">' + RT.escapeHtml(COUNTRY_NAMES[c] || c) + ' (' + COUNTRIES[c] + ')</option>';
     });
-    if ((meta.regions || []).length < 2) sel.style.display = "none";
-  })();
+    sel.innerHTML = html;
+    // mặc định: ?country= trên URL (nếu hợp lệ), nếu không thì 'russia'
+    var urlC = new URLSearchParams(location.search || "").get("country");
+    if (urlC && COUNTRIES[urlC] != null) sel.value = urlC;
+    else sel.value = (COUNTRIES.russia != null) ? "russia" : "";
+  }
+  // Bộ lọc vùng (theo quốc gia đang chọn)
+  function fillRegions(country) {
+    var sel = document.getElementById("region");
+    var regions = (meta.regions || []).filter(function (r) {
+      return !country || (r.country || "russia") === country;
+    });
+    var html = '<option value="">Tất cả vùng</option>';
+    regions.forEach(function (r) {
+      html += '<option value="' + RT.escapeHtml(r.slug) + '">' + RT.escapeHtml(r.name_vi) + ' (' + r.count + ')</option>';
+    });
+    sel.innerHTML = html;
+    sel.style.display = regions.length < 2 ? "none" : "";
+  }
+  fillCountries();
+  fillRegions(document.getElementById("country").value);
 
   // Bộ lọc loại
   (function fillCats() {
@@ -120,7 +198,7 @@
       var ci = RT.catInfo(c);
       return '<span class="chip" style="background:' + ci.color + '">' + ci.emoji + " " + ci.vi + "</span>";
     }).join(" ");
-    var highlights = (p.highlights_vi || []).map(function (h) { return "<li>" + RT.escapeHtml(h) + "</li>"; }).join("");
+    var highlights = RT.tArr(p, "highlights").map(function (h) { return "<li>" + RT.escapeHtml(h) + "</li>"; }).join("");
     var sources = (p.sources || []).map(function (s) {
       return '<a href="' + s.url + '" target="_blank" rel="noopener">' + RT.escapeHtml(s.title) + "</a>";
     }).join(" · ");
@@ -133,7 +211,7 @@
       '</div>' +
       '<div class="card-body">' +
         '<div style="display:flex;justify-content:space-between;gap:8px;align-items:flex-start;">' +
-          '<div><h3>' + RT.escapeHtml(p.name_vi) + '</h3>' +
+          '<div><h3>' + RT.escapeHtml(RT.t(p, "name")) + '</h3>' +
           '<div class="subname">' + RT.escapeHtml(p.name_ru || "") + (p.name_en ? " · " + RT.escapeHtml(p.name_en) : "") + '</div></div>' +
           (isFree ? '<span class="badge-free">Miễn phí</span>' : '') +
         '</div>' +
@@ -141,28 +219,30 @@
           (rt.value != null ? '<b>' + rt.value + '</b>' : '') +
           (rt.count != null ? '<span class="muted">· ' + RT.fmtCount(rt.count) + ' đánh giá' + (rt.source ? " · " + RT.escapeHtml(rt.source) : "") + '</span>' : '') +
         '</div>' +
-        '<div class="short">' + RT.escapeHtml(p.presentation_short_vi || "") + '</div>' +
+        '<div class="short">' + RT.escapeHtml(RT.t(p, "presentation_short")) + '</div>' +
         '<div class="card-actions">' +
-          '<button class="btn sm gold tts-btn" data-kind="short">🔊 Nghe</button>' +
-          '<button class="btn sm tts-btn" data-kind="long">🎧 Nghe chi tiết</button>' +
-          '<button class="btn sm toggle-detail">📖 Chi tiết</button>' +
+          '<button class="btn sm gold tts-btn" data-kind="short">' + RT.uiText("listen") + '</button>' +
+          '<button class="btn sm tts-btn" data-kind="long">' + RT.uiText("listenLong") + '</button>' +
+          '<button class="btn sm toggle-detail">' + RT.uiText("detail") + '</button>' +
+          '<a class="btn sm" href="gis.html?focus=' + encodeURIComponent(p.id) + '">' + RT.uiText("map") + '</a>' +
+          '<a class="btn sm" href="diem.html?id=' + encodeURIComponent(p.id) + '">🔗 Trang riêng</a>' +
           (p.maps && p.maps.yandex ? '<a class="btn sm" href="' + p.maps.yandex + '" target="_blank" rel="noopener">📍 Yandex</a>' : '') +
           (p.maps && p.maps.google ? '<a class="btn sm" href="' + p.maps.google + '" target="_blank" rel="noopener">🗺️ Google</a>' : '') +
         '</div>' +
         '<div class="detail">' +
-          '<h4>Thuyết trình chi tiết</h4>' +
-          '<p>' + RT.escapeHtml(p.presentation_long_vi || "") + '</p>' +
-          (highlights ? '<h4>Điểm nhấn</h4><ul>' + highlights + '</ul>' : '') +
-          '<h4>Thông tin tham quan</h4>' +
+          '<h4>' + RT.uiText("detailPres") + '</h4>' +
+          '<p>' + RT.escapeHtml(RT.t(p, "presentation_long")) + '</p>' +
+          (highlights ? '<h4>' + RT.uiText("highlights") + '</h4><ul>' + highlights + '</ul>' : '') +
+          '<h4>' + RT.uiText("visitInfo") + '</h4>' +
           '<div class="practical">' +
-            (pr.hours_vi ? '<div><b>🕒 Giờ mở cửa:</b> ' + RT.escapeHtml(pr.hours_vi) + '</div>' : '') +
-            (pr.ticket_vi ? '<div><b>🎟️ Vé:</b> ' + RT.escapeHtml(pr.ticket_vi) + '</div>' : '') +
-            (pr.duration_vi ? '<div><b>⏱️ Thời lượng:</b> ' + RT.escapeHtml(pr.duration_vi) + '</div>' : '') +
-            (pr.best_time_vi ? '<div><b>🌤️ Thời điểm đẹp:</b> ' + RT.escapeHtml(pr.best_time_vi) + '</div>' : '') +
-            (pr.tips_vi ? '<div><b>💡 Mẹo:</b> ' + RT.escapeHtml(pr.tips_vi) + '</div>' : '') +
-            (p.address_vi ? '<div><b>📮 Địa chỉ:</b> ' + RT.escapeHtml(p.address_vi) + '</div>' : '') +
+            (pr.hours_vi ? '<div><b>🕒 ' + RT.uiText("hours") + ':</b> ' + RT.escapeHtml(pr.hours_vi) + '</div>' : '') +
+            (pr.ticket_vi ? '<div><b>🎟️ ' + RT.uiText("ticket") + ':</b> ' + RT.escapeHtml(pr.ticket_vi) + '</div>' : '') +
+            (pr.duration_vi ? '<div><b>⏱️ ' + RT.uiText("duration") + ':</b> ' + RT.escapeHtml(pr.duration_vi) + '</div>' : '') +
+            (pr.best_time_vi ? '<div><b>🌤️ ' + RT.uiText("bestTime") + ':</b> ' + RT.escapeHtml(pr.best_time_vi) + '</div>' : '') +
+            (pr.tips_vi ? '<div><b>💡 ' + RT.uiText("tips") + ':</b> ' + RT.escapeHtml(pr.tips_vi) + '</div>' : '') +
+            (p.address_vi ? '<div><b>📮 ' + RT.uiText("address") + ':</b> ' + RT.escapeHtml(p.address_vi) + '</div>' : '') +
           '</div>' +
-          (p.review_summary_vi ? '<h4>Tóm tắt bình luận du khách</h4><p>' + RT.escapeHtml(p.review_summary_vi) + '</p>' : '') +
+          (RT.t(p, "review_summary") ? '<h4>' + RT.uiText("reviews") + '</h4><p>' + RT.escapeHtml(RT.t(p, "review_summary")) + '</p>' : '') +
           '<div style="margin-top:10px;font-size:12.5px;" class="muted">' +
             (p.official_site ? '🌐 <a href="' + p.official_site + '" target="_blank" rel="noopener">Web chính thức</a> · ' : '') +
             (sources ? 'Nguồn: ' + sources + ' · ' : '') +
@@ -175,14 +255,16 @@
 
   function currentList() {
     var q = (document.getElementById("q").value || "").trim().toLowerCase();
+    var country = document.getElementById("country").value;
     var region = document.getElementById("region").value;
     var sort = document.getElementById("sort").value;
     var catKeys = Object.keys(activeCats);
     var list = places.filter(function (p) {
+      if (country && (p.country || "russia") !== country) return false;
       if (region && p.region !== region) return false;
       if (catKeys.length && !(p.categories || []).some(function (c) { return activeCats[c]; })) return false;
       if (q) {
-        var hay = [p.name_vi, p.name_ru, p.name_en, p.presentation_short_vi, p.presentation_long_vi,
+        var hay = [RT.t(p, "name"), p.name_vi, p.name_ru, p.name_en, RT.t(p, "presentation_short"), p.presentation_long_vi,
           (p.practical || {}).tips_vi, (p.tags || []).join(" ")].join(" ").toLowerCase();
         if (hay.indexOf(q) < 0) return false;
       }
@@ -226,11 +308,12 @@
       card.querySelectorAll(".tts-btn").forEach(function (btn) {
         btn.onclick = function () {
           var kind = btn.dataset.kind;
-          var txt = kind === "long" ? p.presentation_long_vi : p.presentation_short_vi;
+          var txt = kind === "long" ? RT.t(p, "presentation_long") : RT.t(p, "presentation_short");
           var speakingNow = RT.TTS.activeId === id + ":" + kind;
           if (speakingNow) { RT.TTS.stop(); return; }
           RT.TTS.speak(txt, {
             id: id + ":" + kind,
+            lang: RT.getLang(),
             onState: function (st) {
               document.querySelectorAll(".tts-btn").forEach(function (b) { b.classList.remove("speaking"); });
               if (st === "start") btn.classList.add("speaking");
@@ -243,6 +326,11 @@
 
   document.getElementById("q").oninput = function () { render(); };
   document.getElementById("sort").onchange = function () { render(); };
+  document.getElementById("country").onchange = function () {
+    fillRegions(this.value);
+    document.getElementById("region").value = "";
+    render();
+  };
   document.getElementById("region").onchange = function () { render(); };
   document.getElementById("rate").oninput = function () { RT.TTS.setRate(parseFloat(this.value)); };
   document.getElementById("stopAll").onclick = function () {

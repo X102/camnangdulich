@@ -37,8 +37,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Vyborg%20Castle%20in%20Russia.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=28.72917,60.71583&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=60.71583,28.72917"
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D0%B3%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C&ll=28.72917,60.71583&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Vyborg%20Castle%2C%20Leningrad%20Oblast%2C%20Russia"
     },
     "official_site": "https://vyborgmuseum.org",
     "sources": [
@@ -56,7 +56,8 @@
       "daytrip"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "leningrad-oblast-mon-repos-park",
@@ -94,8 +95,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Monrepos%20park.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=28.725702,60.730387&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=60.730387,28.725702"
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D1%80%D0%BA%20%D0%9C%D0%BE%D0%BD%D1%80%D0%B5%D0%BF%D0%BE%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C&ll=28.725702,60.730387&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Mon%20Repos%20Park%2C%20Leningrad%20Oblast%2C%20Russia"
     },
     "official_site": "https://www.parkmonrepos.org",
     "sources": [
@@ -113,7 +114,8 @@
       "daytrip"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "leningrad-oblast-staraya-ladoga-fortress",
@@ -153,8 +155,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C%20%D0%A1%D1%82%D0%B0%D1%80%D0%B0%D1%8F%20%D0%9B%D0%B0%D0%B4%D0%BE%D0%B3%D0%B0%20%D1%81%20%D0%B2%D1%8B%D1%81%D0%BE%D1%82%D1%8B%20%D0%BF%D1%82%D0%B8%D1%87%D1%8C%D0%B5%D0%B3%D0%BE%20%D0%BF%D0%BE%D0%BB%D0%B5%D1%82%D0%B0%2001.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=32.29806,59.99722&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=59.99722,32.29806"
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%BB%D0%B0%D0%B4%D0%BE%D0%B6%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C&ll=32.29806,59.99722&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Staraya%20Ladoga%20Fortress%2C%20Leningrad%20Oblast%2C%20Russia"
     },
     "official_site": "https://ladogamuseum.com",
     "sources": [
@@ -172,7 +174,8 @@
       "river"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "leningrad-oblast-oreshek-fortress",
@@ -212,8 +215,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Fortress%20Oreshek.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=31.038522,59.954022&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=59.954022,31.038522"
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C%20%D0%9E%D1%80%D0%B5%D1%88%D0%B5%D0%BA%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C&ll=31.038522,59.954022&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Oreshek%20Fortress%2C%20Leningrad%20Oblast%2C%20Russia"
     },
     "official_site": "https://www.spbmuseum.ru/themuseum/museum_complex/oreshek_fortress/",
     "sources": [
@@ -231,7 +234,8 @@
       "daytrip"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "leningrad-oblast-ivangorod-fortress",
@@ -270,8 +274,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/View%20to%20Ivangorod%20Fortress%20%28Russia%29%20from%20Narva%20%28Estonia%29.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=28.2075,59.374722&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=59.374722,28.2075"
+      "yandex": "https://yandex.com/maps/?text=%D0%98%D0%B2%D0%B0%D0%BD%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C&ll=28.2075,59.374722&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Ivangorod%20Fortress%2C%20Leningrad%20Oblast%2C%20Russia"
     },
     "official_site": "https://www.lenoblmus.ru/museums/ivangorodskiy-muzey",
     "sources": [
@@ -289,7 +293,8 @@
       "viewpoint"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "leningrad-oblast-koporye-fortress",
@@ -328,8 +333,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%BE%D0%BF%D0%BE%D1%80%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=29.032231,59.709308&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=59.709308,29.032231"
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D0%BE%D0%BF%D0%BE%D1%80%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C&ll=29.032231,59.709308&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Koporye%20Fortress%2C%20Leningrad%20Oblast%2C%20Russia"
     },
     "official_site": "https://www.lenoblmus.ru/museums/muzey-koporskaya-krepost",
     "sources": [
@@ -347,7 +352,8 @@
       "daytrip"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "leningrad-oblast-korela-fortress",
@@ -387,8 +393,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Korela%20Fort.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=30.12244,61.02991&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=61.02991,30.12244"
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C%20%D0%9A%D0%BE%D1%80%D0%B5%D0%BB%D0%B0%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C&ll=30.12244,61.02991&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Korela%20Fortress%2C%20Leningrad%20Oblast%2C%20Russia"
     },
     "official_site": "https://vyborgmuseum.org/krepost-korela",
     "sources": [
@@ -406,7 +412,8 @@
       "daytrip"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "leningrad-oblast-tikhvin-assumption-monastery",
@@ -445,8 +452,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Monas1.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=33.521176,59.653156&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=59.653156,33.521176"
+      "yandex": "https://yandex.com/maps/?text=%D0%A2%D0%B8%D1%85%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C&ll=33.521176,59.653156&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Tikhvin%20Assumption%20Monastery%2C%20Leningrad%20Oblast%2C%20Russia"
     },
     "official_site": "https://tihvinskii-monastyr.ru",
     "sources": [
@@ -464,6 +471,940 @@
       "architecture"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
+  },
+  {
+    "id": "leningrad-oblast-rimsky-korsakov-house-museum-tikhvin",
+    "slug": "rimsky-korsakov-house-museum-tikhvin",
+    "region": "leningrad-oblast",
+    "region_name_vi": "Tỉnh Leningrad",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Nhà - Bảo tàng N. A. Rimsky-Korsakov ở Tikhvin",
+    "name_ru": "Мемориальный дом-музей Н. А. Римского-Корсакова",
+    "name_en": "Rimsky-Korsakov House-Museum (Tikhvin)",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 59.65354,
+      "lon": 33.51491
+    },
+    "address_vi": "Phố Rimskogo-Korsakova số 12, thành phố Tikhvin, Tỉnh Leningrad; bên bờ sông Tikhvinka, đối diện Tu viện Đức Mẹ Lên Trời Tikhvin, cách Saint Petersburg khoảng 200 km về phía đông.",
+    "rating": null,
+    "presentation_short_vi": "Ngôi nhà gỗ đầu thế kỉ 19 bên sông Tikhvinka - nơi nhà soạn nhạc Nikolai Rimsky-Korsakov chào đời năm 1844 và trải qua tuổi thơ. Khánh thành năm 1944 nhân 100 năm ngày sinh của ông, đây là bảo tàng tưởng niệm gìn giữ đồ đạc nguyên bản của gia đình cùng những kỉ vật gắn với thời niên thiếu của người nhạc sĩ.",
+    "presentation_long_vi": "Toà nhà gỗ khang trang bên bờ sông Tikhvinka, nhìn thẳng sang Tu viện Đức Mẹ Lên Trời Tikhvin, do gia đình quý tộc Rimsky-Korsakov dựng từ năm 1801. Chính tại đây, ngày 18 tháng 3 năm 1844, Nikolai Andreyevich Rimsky-Korsakov cất tiếng khóc chào đời và sống trọn tuổi thơ cho tới khoảng mười hai tuổi, trước khi lên Saint Petersburg vào học Trường Thiếu sinh quân Hải quân. Ông về sau trở thành một trong những cột trụ của nhóm 'Khoẻ khoắn' (Moguchaya kuchka) và là bậc thầy phối khí, tác giả của tổ khúc giao hưởng 'Sheherazade', các vở opera 'Con gà trống vàng', 'Nàng tuyết', cùng khúc 'Chuyến bay của ong nghệ' quen thuộc khắp thế giới. Ngôi nhà được mở thành bảo tàng vào tháng 7 năm 1944, đúng dịp kỉ niệm 100 năm ngày sinh nhạc sĩ. Không gian bên trong tái hiện nếp sống của một gia đình quý tộc tỉnh lẻ giữa thế kỉ 19: bàn ghế, tranh chân dung, sách vở và nhạc cụ nguyên bản của gia đình, trong đó có cây đàn piano gắn với những bài học âm nhạc đầu đời của cậu bé Nikolai. Khu vườn và mặt sông phía trước tạo nên khung cảnh nên thơ; bảo tàng thường xuyên tổ chức các buổi hoà nhạc thính phòng và sự kiện tưởng niệm. Nằm ngay cạnh quần thể tu viện nổi tiếng của Tikhvin, ngôi nhà - bảo tàng là điểm dừng chân giàu chất văn hoá cho hành trình khám phá vùng đông Tỉnh Leningrad.",
+    "highlights_vi": [
+      "Ngôi nhà nơi Nikolai Rimsky-Korsakov chào đời (1844) và sống thời thơ ấu.",
+      "Bảo tàng mở năm 1944 nhân 100 năm ngày sinh, giữ nguyên đồ đạc và nhạc cụ của gia đình.",
+      "Vị trí nên thơ bên sông Tikhvinka, đối diện Tu viện Đức Mẹ Lên Trời Tikhvin."
+    ],
+    "practical": {
+      "hours_vi": "Thường mở 10:00–18:00, nghỉ thứ Hai và ngày vệ sinh cuối tháng; giờ có thể thay đổi nên xem trang chính thức.",
+      "ticket_vi": "Có bán vé vào cửa, nhiều mức ưu đãi cho học sinh - sinh viên - người cao tuổi.",
+      "duration_vi": "Khoảng 1 giờ (có thể lâu hơn nếu trùng buổi hoà nhạc).",
+      "best_time_vi": "Mùa hè khi khu vườn ven sông đẹp nhất; nên hỏi lịch hoà nhạc thính phòng.",
+      "tips_vi": "Tiện kết hợp thăm Tu viện Đức Mẹ Lên Trời Tikhvin ngay đối diện; từ Saint Petersburg có tàu hoả và xe khách tới Tikhvin."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%B4%D0%BE%D0%BC-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%20%D0%9D.%20%D0%90.%20%D0%A0%D0%B8%D0%BC%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D0%9A%D0%BE%D1%80%D1%81%D0%B0%D0%BA%D0%BE%D0%B2%D0%B0%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C&ll=33.51491,59.65354&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Rimsky-Korsakov%20House-Museum%20%28Tikhvin%29%2C%20Leningrad%20Oblast%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Culture.ru — Мемориальный дом-музей Н. А. Римского-Корсакова",
+        "url": "https://www.culture.ru/institutes/11116/memorialnyi-dom-muzei-n-a-rimskogo-korsakova"
+      },
+      {
+        "title": "KudaGo — Дом-музей Н. Римского-Корсакова в Тихвине",
+        "url": "https://kudago.com/spb/place/dom-muzej-n-rimskogo-korsakova-v-g-tihvin/"
+      },
+      {
+        "title": "Lonely Planet — Rimsky-Korsakov House-Museum (Tikhvin)",
+        "url": "https://www.lonelyplanet.com/russia/st-petersburg/around-st-petersburg/tikhvin/attractions/rimsky-korsakov-house-museum/a/poi-sig/1474161/1315169"
+      }
+    ],
+    "tags": [
+      "museum",
+      "music",
+      "rimsky-korsakov",
+      "memorial",
+      "tikhvin",
+      "composer"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-26",
+    "country": "russia"
+  },
+  {
+    "id": "leningrad-oblast-alexander-svirsky-monastery",
+    "slug": "alexander-svirsky-monastery",
+    "region": "leningrad-oblast",
+    "region_name_vi": "Tỉnh Leningrad",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Tu viện Alexander-Svirsky (Aleksandro-Svirsky monastyr)",
+    "name_ru": "Александро-Свирский монастырь",
+    "name_en": "Alexander-Svirsky Monastery",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 60.77928,
+      "lon": 33.30928
+    },
+    "address_vi": "Làng Staraya Sloboda, huyện Lodeynopolsky, Tỉnh Leningrad; bên hồ Roshchinskoye giữa rừng, cách Saint Petersburg khoảng 260 km về phía đông và cách thị trấn Lodeynoye Pole khoảng 21 km.",
+    "rating": null,
+    "presentation_short_vi": "Tu viện Chính thống giáo cổ kính nằm giữa rừng sâu vùng đông bắc Tỉnh Leningrad, do Thánh Aleksandr Svirsky - một tu sĩ đến từ Valaam - lập năm 1487 bên hồ Roshchinskoye. Gồm hai cụm 'Chúa Ba Ngôi' (Troitsky) và 'Hiển Dung' (Preobrazhensky), tu viện nổi tiếng với tháp chuông ba chóp lều hiếm hoi thế kỉ 17 và di hài được xem là bất hoại của vị thánh sáng lập - một trong những điểm hành hương quan trọng nhất vùng Tây Bắc nước Nga.",
+    "presentation_long_vi": "Tu viện được lập năm 1487 khi tu sĩ Aleksandr - vốn tu ở Tu viện Valaam trên hồ Ladoga - lui về ẩn tu giữa vùng rừng hồ hoang vắng, khoảng 20 km về phía đông hồ Ladoga và cách sông Svir chừng 6 km, giữa hai hồ Roshchinskoye và Svyatoye (hồ Thánh). Theo truyền thống Chính thống giáo, tại đây ngài được ơn thị kiến Chúa Ba Ngôi hiện ra dưới hình ba thiên thần - một sự kiện hiếm thấy khiến ngài được kính nhớ đặc biệt; vâng lời thị kiến, ngài dựng hai nguyện đường gỗ sồi kính Chúa Ba Ngôi và sự Hiển Dung, từ đó hình thành hai cụm tu viện song sinh Troitsky (Chúa Ba Ngôi) và Preobrazhensky (Hiển Dung). Thánh Aleksandr qua đời năm 1533, được Giáo hội tuyên thánh sớm khác thường vào năm 1547 và trở thành một vị thánh được sùng kính khắp nước Nga - thậm chí một nguyện đường của Nhà thờ Thánh Vasily Phúc trên Quảng trường Đỏ cũng được dâng kính ngài. Thời hoàng kim của tu viện là thế kỉ 17: Nhà thờ Hiển Dung năm vòm hoàn thành năm 1644 (Sa hoàng Mikhail Feodorovich ban tặng một hòm vàng để lưu giữ di hài thánh nhân), tháp chuông ba tầng đội ba chóp lều dựng năm 1649 - một trong số rất ít tháp chuông kiểu này còn lại ở Nga - và Nhà thờ Chúa Ba Ngôi rộng rãi hoàn tất năm 1695. Trong Thời loạn, quân Thuỵ Điển nhiều lần cướp phá và thiêu rụi, nhưng tu viện vẫn hồi sinh và thịnh vượng nhờ hội chợ Svir sầm uất họp ngay dưới chân thành. Ruộng đất mênh mông của tu viện bị sung công trong cuộc cải cách nhà thờ của Ekaterina II năm 1764. Sau Cách mạng 1917, các tu sĩ bị bắt và xử bắn, di hài thánh nhân bị đưa đi trưng bày ở Leningrad, còn quần thể cổ kính bị biến thành một phần trại lao động khổ sai Svirlag rồi tiếp tục hư hại trong Thế chiến II. Việc trùng tu chỉ bắt đầu từ thập niên 1970; tu viện được trao trả cho Giáo hội năm 1997 và di hài được xem là bất hoại của Thánh Aleksandr Svirsky đưa trở về năm 1998, từ đó nơi đây trở lại là một trung tâm hành hương lớn, đón dòng người từ khắp nước Nga về kính viếng.",
+    "highlights_vi": [
+      "Do Thánh Aleksandr Svirsky lập năm 1487; theo truyền thống, ngài được ơn thị kiến Chúa Ba Ngôi - điều hiếm thấy trong lịch sử các thánh.",
+      "Quần thể kiến trúc thế kỉ 17 với Nhà thờ Hiển Dung năm vòm (1644) và tháp chuông ba chóp lều (1649) độc đáo bậc nhất nước Nga.",
+      "Di hài được xem là bất hoại của Thánh Aleksandr được đưa trở về năm 1998 - điểm hành hương lớn của vùng Tây Bắc."
+    ],
+    "practical": {
+      "hours_vi": "Tu viện mở đón khách hành hương ban ngày (khoảng 8:00–20:00 tuỳ mùa); giờ lễ và giờ mở nhà thờ đặt di hài xem thông báo tại chỗ.",
+      "ticket_vi": "Vào cửa tự do; hoan nghênh quyên góp.",
+      "duration_vi": "Khoảng 1,5–2 giờ.",
+      "best_time_vi": "Cuối xuân đến đầu thu; đông người hành hương vào các ngày kính Thánh Aleksandr Svirsky (30/8 và 17/4 theo lịch nhà thờ).",
+      "tips_vi": "Nên ăn mặc kín đáo, nữ mang khăn trùm đầu. Đường khá xa - từ Saint Petersburg có thể đi tàu tới ga Lodeynoye Pole rồi bắt xe, hoặc theo tour hành hương; tiện kết hợp hành trình dọc sông Svir."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE-%D0%A1%D0%B2%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C&ll=33.30928,60.77928&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Alexander-Svirsky%20Monastery%2C%20Leningrad%20Oblast%2C%20Russia"
+    },
+    "official_site": "http://svirskoe.org",
+    "sources": [
+      {
+        "title": "Wikipedia (EN) — Alexander-Svirsky Monastery",
+        "url": "https://en.wikipedia.org/wiki/Alexander-Svirsky_Monastery"
+      },
+      {
+        "title": "Sobory.ru — Старая Слобода, Александро-Свирский монастырь",
+        "url": "https://sobory.ru/article/?object=00119"
+      },
+      {
+        "title": "Tu viện Alexander-Svirsky — Trang chính thức (svirskoe.org)",
+        "url": "http://svirskoe.org"
+      }
+    ],
+    "tags": [
+      "church",
+      "monastery",
+      "pilgrimage",
+      "alexander-svirsky",
+      "relics",
+      "leningrad-oblast"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-26",
+    "country": "russia"
+  },
+  {
+    "id": "leningrad-oblast-konevets-monastery",
+    "slug": "konevets-monastery",
+    "region": "leningrad-oblast",
+    "region_name_vi": "Tỉnh Leningrad",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Tu viện Konevets - Sinh Nhật Đức Mẹ (Kô-nhe-vét)",
+    "name_ru": "Коневский Рождество-Богородичный монастырь",
+    "name_en": "Konevsky Monastery",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 60.84778,
+      "lon": 30.58556
+    },
+    "address_vi": "Đảo Konevets, mặt tây hồ Ladoga, huyện Priozersk, Tỉnh Leningrad; lên đảo từ vịnh Vladimirskaya bằng tàu (khoảng 40–50 phút).",
+    "rating": null,
+    "presentation_short_vi": "Tu viện Chính thống giáo cổ kính trên đảo Konevets giữa mặt tây hồ Ladoga, được xem là 'người anh em song sinh' của tu viện Valaam. Do Thánh Arseny Konevsky lập khoảng năm 1393, nơi đây gìn giữ icon Đức Mẹ Konevskaya mang từ núi Athos về. Đảo mang tên tảng đá khổng lồ Kon-Kamen ('Đá Ngựa') nặng hơn 750 tấn từng được các bộ tộc Karelia ngoại giáo thờ phụng.",
+    "presentation_long_vi": "Konevets là một hòn đảo dài chừng 5 km ở mặt tây hồ Ladoga, cách bờ khoảng một eo nước rộng 5 km. Thời Trung cổ, các bộ tộc Phần Lan - Karelia coi đảo là đất thiêng và thờ một tảng đá hoa cương khổng lồ hình đầu ngựa nặng hơn 750 tấn, gọi là Kon-Kamen ('Đá Ngựa') - cũng chính là nguồn gốc tên đảo. Khoảng năm 1393, tu sĩ Arseny (sau là Thánh Arseny Konevsky) tìm đến đây lập tu viện với ước nguyện đưa dân Karelia ngoại giáo theo Kitô giáo; ngài mang về icon Đức Mẹ đặc biệt - hình Hài Nhi Giêsu cầm chim bồ câu non - từ núi Athos, về sau nổi danh là icon Đức Mẹ Konevskaya. Trên đỉnh Đá Ngựa, người ta dựng một nhà nguyện nhỏ đánh dấu sự lụi tàn của tín ngưỡng cổ. Cũng như Valaam ở phía bắc hồ, Konevets nổi tiếng về truyền giáo và trở thành một cặp tu viện đảo song sinh của Ladoga. Trải bao thăng trầm - bị quân Thuỵ Điển chiếm trong Chiến tranh Ingria khiến các tu sĩ phải lánh về Novgorod, rồi hồi sinh sau Đại chiến Bắc Âu - tu viện bước vào thời hoàng kim thế kỷ 19, khi cả những vị khách lừng danh như văn hào Alexandre Dumas hay thi sĩ Fyodor Tyutchev cũng tìm đến, còn nhà văn Nikolai Leskov viết hẳn một thiên bút ký (1873) về nơi này. Nhà thờ chính toà Sinh Nhật Đức Mẹ hiện nay - khối nhà hai tầng, tám trụ, đội năm vòm xanh - được dựng trong các năm 1800–1809, cùng tháp chuông ba tầng cao 35 m (1810–1812). Sau năm 1917, đảo thuộc về Phần Lan độc lập; trong Chiến tranh Mùa đông và Chiến tranh Tiếp diễn, các tu sĩ phải sơ tán (năm 1940 mang theo icon quý), rồi sáp nhập vào tu viện Tân Valamo trên đất Phần Lan. Thời Xô-viết, đảo trở thành một căn cứ quân sự. Tu viện hồi sinh từ năm 1990–1991; tháng 11/1991 người ta tìm lại được hài cốt Thánh Arseny. Sau đợt trùng tu quy mô lớn hoàn tất vào cuối thập niên 2010 - đầu 2020, Konevets trở lại là một trung tâm hành hương và điểm du lịch đang lên của vùng Tây Bắc, đón dòng khách vượt hồ Ladoga ra đảo.",
+    "highlights_vi": [
+      "Tu viện đảo do Thánh Arseny Konevsky lập khoảng năm 1393, được coi là 'song sinh' với Valaam trên hồ Ladoga.",
+      "Nhà thờ chính toà Sinh Nhật Đức Mẹ (1800–1809) năm vòm xanh cùng tháp chuông cao 35 m (1810–1812).",
+      "Tảng đá thiêng Kon-Kamen ('Đá Ngựa') nặng hơn 750 tấn với nhà nguyện nhỏ trên đỉnh - dấu tích tín ngưỡng cổ của người Karelia."
+    ],
+    "practical": {
+      "hours_vi": "Đón khách hành hương và du khách ban ngày; việc lưu trú hay tham quan sâu cần sắp xếp trước qua Ban Hành hương của tu viện.",
+      "ticket_vi": "Vào tu viện tự do (hoan nghênh quyên góp); phí chủ yếu là vé tàu ra đảo hoặc tour trọn gói.",
+      "duration_vi": "Thường là chuyến đi trong ngày, tính cả thời gian đi tàu (khoảng nửa ngày đến trọn ngày).",
+      "best_time_vi": "Cuối xuân đến đầu thu, khi hồ Ladoga thuận cho tàu bè; mùa đông băng giá khó tiếp cận.",
+      "tips_vi": "Từ Saint Petersburg đi theo xa lộ Priozerskoye tới vịnh Vladimirskaya rồi lên tàu ra đảo (~40–50 phút); nên liên hệ Ban Hành hương trước. Ăn mặc kín đáo, nữ mang khăn trùm đầu; mang áo ấm/chống gió vì thời tiết trên hồ đổi nhanh."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D0%BE%D0%BD%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%BE-%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C&ll=30.58556,60.84778&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Konevsky%20Monastery%2C%20Leningrad%20Oblast%2C%20Russia"
+    },
+    "official_site": "https://konevets.ru",
+    "sources": [
+      {
+        "title": "Wikipedia (EN) — Konevsky Monastery",
+        "url": "https://en.wikipedia.org/wiki/Konevsky_Monastery"
+      },
+      {
+        "title": "Коневский Рождество-Богородичный мужской монастырь — trang chính thức",
+        "url": "https://konevets.ru"
+      },
+      {
+        "title": "Глобус Санкт-Петербургской митрополии — Коневский монастырь",
+        "url": "https://globus.aquaviva.ru/konevskiy-rozhdestvo-bogorodichnyy-muzhskoy-monastyr"
+      }
+    ],
+    "tags": [
+      "church",
+      "monastery",
+      "island",
+      "ladoga",
+      "pilgrimage",
+      "konevets",
+      "arseny"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-26",
+    "country": "russia"
+  },
+  {
+    "id": "leningrad-oblast-broken-ring-memorial",
+    "slug": "broken-ring-memorial",
+    "region": "leningrad-oblast",
+    "region_name_vi": "Tỉnh Leningrad",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Đài tưởng niệm «Vòng tròn Bị phá vỡ» (Razorvannoye Koltso)",
+    "name_ru": "Мемориал «Разорванное кольцо»",
+    "name_en": "Broken Ring Memorial (Road of Life)",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 60.08148,
+      "lon": 31.06767
+    },
+    "address_vi": "Km số 40 đường «Con đường Sự sống» (Doroga Zhizni), gần làng Kokkorevo, huyện Vsevolozhsk, Tỉnh Leningrad; nằm ngay bên bờ tây hồ Ladoga.",
+    "rating": null,
+    "presentation_short_vi": "«Vòng tròn Bị phá vỡ» là một trong những tượng đài Thế chiến II nổi tiếng nhất nước Nga, dựng năm 1966 bên bờ hồ Ladoga. Hai vòm bê tông khổng lồ tách rời nhau tượng trưng cho vòng vây phong toả Leningrad, còn khoảng trống ở giữa chính là «Con đường Sự sống» - tuyến tiếp tế băng qua mặt hồ đóng băng đã cứu sống thành phố trong những năm bị vây hãm.",
+    "presentation_long_vi": "Cuộc phong toả Leningrad bắt đầu ngày 8 tháng 9 năm 1941, khi quân Đức chiếm Shlisselburg và cắt đứt mọi tuyến đường bộ nối thành phố với phần còn lại của đất nước. Hồ Ladoga trở thành lối tiếp tế cuối cùng: mùa đông, khi mặt hồ đóng băng đủ dày, một tuyến đường băng được mở - người dân Leningrad gọi là «Con đường Sự sống» (Doroga Zhizni). Riêng mùa đông 1941–1942, tuyến hoạt động khoảng 152 ngày, đưa được chừng 514.000 người ra khỏi thành phố và chở vào khoảng 360.000 tấn hàng - chủ yếu là lương thực, cùng nhiên liệu và đạn dược. Con đường vô cùng nguy hiểm: những ngày đầu băng còn mỏng, hàng chục xe tải đã lọt xuống hồ. Để tưởng nhớ tuyến đường huyền thoại ấy, ngày 29 tháng 10 năm 1966, đài tưởng niệm «Vòng tròn Bị phá vỡ» được khánh thành tại km số 40 của Con đường Sự sống, ngay sát bờ hồ Ladoga gần làng Kokkorevo. Tác giả ý tưởng là nhà điêu khắc Konstantin Simun, cùng kiến trúc sư V. G. Filippov và kỹ sư I. A. Rybin. Công trình gồm hai bán vòm bê tông cốt thép cao 7 m, nặng 32 tấn, dựng cách nhau một quãng: hai vòm là vòng vây phong toả, còn khoảng hở ở giữa tượng trưng cho con đường đã chọc thủng vòng vây để cứu thành phố. Trên nền bê tông dưới chân vòm in hằn vệt bánh xe tải; bên cạnh có hai quả cầu trắng mô phỏng bệ đèn pha phòng không và một khẩu pháo cao xạ 85 mm nguyên bản. Đài tưởng niệm là một mắt xích của «Vành đai Vinh quang Xanh» - chuỗi công trình tưởng niệm chạy vòng quanh Saint Petersburg, đánh dấu tuyến phòng thủ và những sự kiện bi tráng của cuộc vây hãm. Ngày nay, nơi đây cũng là điểm xuất phát của giải chạy marathon mùa đông quốc tế «Con đường Sự sống» tổ chức hằng năm.",
+    "highlights_vi": [
+      "Hai bán vòm bê tông cao 7 m, nặng 32 tấn tách rời nhau - hình tượng vòng vây phong toả bị chọc thủng, khoảng hở giữa chính là «Con đường Sự sống».",
+      "Vệt bánh xe tải in trên nền bê tông, hai quả cầu trắng mô phỏng đèn pha phòng không và khẩu pháo cao xạ 85 mm nguyên bản.",
+      "Vị trí bên bờ hồ Ladoga - điểm khởi đầu tuyến tiếp tế qua mặt hồ đóng băng và là một phần của «Vành đai Vinh quang Xanh» quanh Saint Petersburg."
+    ],
+    "practical": {
+      "hours_vi": "Đài tưởng niệm ngoài trời, mở tự do suốt ngày đêm.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 30–45 phút.",
+      "best_time_vi": "Bốn mùa đều tới được; mùa đông tuyết phủ bên hồ Ladoga cho không khí trầm mặc đúng tinh thần đài tưởng niệm. Các ngày lễ tưởng niệm cuộc phong toả (cuối tháng 1) thường có nghi lễ đặt hoa.",
+      "tips_vi": "Cách Saint Petersburg khoảng 45 km theo «Con đường Sự sống»; nên kết hợp tham quan Bảo tàng Con đường Sự sống ở Osinovets gần đó. Ăn mặc ấm khi ra sát bờ hồ vì gió lạnh."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%20%C2%AB%D0%A0%D0%B0%D0%B7%D0%BE%D1%80%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%BA%D0%BE%D0%BB%D1%8C%D1%86%D0%BE%C2%BB%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C&ll=31.06767,60.08148&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Broken%20Ring%20Memorial%20%28Road%20of%20Life%29%2C%20Leningrad%20Oblast%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Разорванное кольцо",
+        "url": "https://ru.wikipedia.org/wiki/Разорванное_кольцо"
+      },
+      {
+        "title": "Wikipedia (EN) — Green Belt of Glory",
+        "url": "https://en.wikipedia.org/wiki/Green_Belt_of_Glory"
+      },
+      {
+        "title": "Thư viện Tổng thống Nga (Presidential Library) — Memorial «The Broken Ring»",
+        "url": "https://www.prlib.ru/en/node/343340"
+      }
+    ],
+    "tags": [
+      "monument",
+      "wwii",
+      "memorial",
+      "road-of-life",
+      "siege-of-leningrad",
+      "lake-ladoga",
+      "vsevolozhsk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-26",
+    "country": "russia"
+  },
+  {
+    "id": "leningrad-oblast-vyborg-alvar-aalto-library",
+    "slug": "vyborg-alvar-aalto-library",
+    "region": "leningrad-oblast",
+    "region_name_vi": "Tỉnh Leningrad",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Thư viện Alvar Aalto ở Vyborg",
+    "name_ru": "Библиотека Алвара Аалто",
+    "name_en": "Vyborg Library (Alvar Aalto Library)",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 60.70889,
+      "lon": 28.7475
+    },
+    "address_vi": "Đại lộ Suvorova số 4, thành phố Vyborg, Tỉnh Leningrad; nằm trong công viên trung tâm thành phố.",
+    "rating": null,
+    "presentation_short_vi": "Thư viện thành phố Vyborg do kiến trúc sư Phần Lan Alvar Aalto thiết kế (1927-1935) là một trong những công trình biểu tượng của kiến trúc hiện đại (chủ nghĩa công năng) thế kỉ 20 và là điểm «hành hương» của giới kiến trúc khắp thế giới. Công trình nổi tiếng với trần gỗ uốn lượn như sóng trong khán phòng và hệ giếng trời hình trụ đưa ánh sáng tự nhiên dịu đều xuống các phòng đọc.",
+    "presentation_long_vi": "Alvar Aalto giành quyền thiết kế thư viện sau khi thắng cuộc thi kiến trúc năm 1927; công trình hoàn thành năm 1935, khi Vyborg (tên Phần Lan là Viipuri) còn thuộc Phần Lan. Từ phương án ban đầu mang hơi hướng cổ điển Bắc Âu, Aalto đã chuyển hẳn sang ngôn ngữ công năng (functionalism) thuần khiết, biến thư viện thành một trong những tuyên ngôn sớm của «chủ nghĩa hiện đại vùng miền». Nhiều giải pháp lần đầu thử nghiệm ở đây về sau trở thành «chữ kí» của Aalto: giếng đọc âm xuống nền (sunken reading well), hệ giếng trời hình trụ trên mái (khoảng 57 chiếc) lấy ánh sáng tự nhiên không tạo bóng đổ, và đặc biệt là trần gỗ uốn lượn của khán phòng - hình dạng mà Aalto lí giải dựa trên nghiên cứu về âm học. Aalto khác thế hệ kiến trúc sư hiện đại đầu tiên ở tình yêu với vật liệu tự nhiên: gỗ được đưa vào giữa bối cảnh bê tông, kính và thép. Sau Thế chiến II, Vyborg thuộc về Liên Xô; tòa nhà bị hư hại nặng, bỏ hoang gần một thập kỉ khiến trần khán phòng uốn sóng bị phá hủy, rồi được đổi tên thành Thư viện thành phố mang tên Nadezhda Krupskaya. Từ năm 1994 đến 2013, một dự án trùng tu Nga - Phần Lan kéo dài gần hai thập kỉ (do Viện hàn lâm Alvar Aalto dẫn dắt, với các kiến trúc sư Maija Kairamo và Tapani Mustonen) đã phục dựng công trình gần như nguyên trạng, tiêu tốn khoảng 9 triệu euro. Thành quả trùng tu được trao Giải Modernism của Quỹ Di tích Thế giới/Knoll (2014) và Giải Europa Nostra của châu Âu (2015). Ngày nay công trình vẫn là thư viện công cộng đang hoạt động (tên chính thức: Thư viện Trung tâm Thành phố mang tên A. Aalto), đồng thời mở các tour tham quan kiến trúc - một điểm đến độc đáo giữa Vyborg vốn nổi tiếng với lâu đài trung cổ.",
+    "highlights_vi": [
+      "Trần gỗ uốn lượn như sóng trong khán phòng - thiết kế dựa trên nghiên cứu âm học, một biểu tượng của kiến trúc hiện đại.",
+      "Hệ giếng trời hình trụ trên mái (khoảng 57 chiếc) và giếng đọc âm xuống nền - giải pháp lấy sáng tự nhiên đặc trưng của Aalto.",
+      "Công trình chủ nghĩa công năng kinh điển (1935) của Alvar Aalto; dự án trùng tu đoạt giải World Monuments Fund/Knoll (2014) và Europa Nostra (2015)."
+    ],
+    "practical": {
+      "hours_vi": "Là thư viện đang hoạt động, thường mở gần như cả tuần (nghỉ một ngày trong tuần và ngày lễ); khu vực tham quan kiến trúc mở theo giờ hành chính. Nên đặt trước tour có hướng dẫn để vào khán phòng và các khu nội bộ.",
+      "ticket_vi": "Vào khu vực thư viện thường miễn phí; tour tham quan kiến trúc (nhất là khán phòng) thường có thu phí.",
+      "duration_vi": "Khoảng 45 phút - 1 giờ cho tour kiến trúc.",
+      "best_time_vi": "Quanh năm (công trình trong nhà). Có thể ghép trong ngày cùng Lâu đài Vyborg và công viên Monrepos.",
+      "tips_vi": "Vyborg cách Saint Petersburg khoảng 130 km, đi tàu tốc hành «Lastochka» từ ga Finlyandsky khoảng 1-1,5 giờ. Thư viện nằm ngay công viên trung tâm, đi bộ gần từ ga và từ Lâu đài Vyborg. Kiểm tra lịch tour trên trang chính thức aalto.vbgcity.ru."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0%20%D0%90%D0%BB%D0%B2%D0%B0%D1%80%D0%B0%20%D0%90%D0%B0%D0%BB%D1%82%D0%BE%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C&ll=28.7475,60.70889&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Vyborg%20Library%20%28Alvar%20Aalto%20Library%29%2C%20Leningrad%20Oblast%2C%20Russia"
+    },
+    "official_site": "http://www.aalto.vbgcity.ru/",
+    "sources": [
+      {
+        "title": "Wikipedia (EN) — Vyborg Library",
+        "url": "https://en.wikipedia.org/wiki/Vyborg_Library"
+      },
+      {
+        "title": "Visit Alvar Aalto — Vyborg Library",
+        "url": "https://visit.alvaraalto.fi/en/destinations/vyborg-library/"
+      },
+      {
+        "title": "Trang chính thức thư viện — aalto.vbgcity.ru",
+        "url": "http://www.aalto.vbgcity.ru/"
+      }
+    ],
+    "tags": [
+      "architecture",
+      "modernism",
+      "functionalism",
+      "alvar-aalto",
+      "library",
+      "vyborg",
+      "leningrad-oblast"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-26",
+    "country": "russia"
+  },
+  {
+    "id": "leningrad-oblast-proryv-panorama-museum",
+    "slug": "proryv-panorama-museum",
+    "region": "leningrad-oblast",
+    "region_name_vi": "Tỉnh Leningrad",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Bảo tàng Panorama «Proryv» (Chọc thủng vòng vây Leningrad)",
+    "name_ru": "Музей-панорама «Прорыв»",
+    "name_en": "Proryv Panorama Museum (Breakthrough of the Leningrad Siege)",
+    "categories": [
+      "museum",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 59.90855,
+      "lon": 30.99431
+    },
+    "address_vi": "Chân cầu Ladoga (bờ trái sông Neva), gần làng Maryino, thành phố Kirovsk, huyện Kirovsky, Tỉnh Leningrad; km 41 đường cao tốc Murmansk (R21 «Kola»), cách Saint Petersburg khoảng 40 km.",
+    "rating": null,
+    "presentation_short_vi": "Bảo tàng Panorama «Proryv» là một trong những bảo tàng chiến tranh hiện đại và giàu cảm xúc nhất vùng Leningrad. Khánh thành ngày 18 tháng 1 năm 2018 nhân 75 năm ngày chọc thủng vòng vây Leningrad, panorama ba chiều tái hiện sống động một khoảnh khắc của trận đánh trên 'Mảnh đất Neva' (Nevsky Pyatachok) ngày 13/1/1943 - ngày thứ hai của Chiến dịch «Iskra». Người xem như bị đặt thẳng vào giữa trận địa.",
+    "presentation_long_vi": "Tháng 1 năm 1943, Chiến dịch «Iskra» ('Tia lửa') của hai Phương diện quân Leningrad và Volkhov đã chọc thủng vòng vây phong tỏa Leningrad kéo dài gần 900 ngày, mở lại hành lang đường bộ nối thành phố với đất nước. Cụm bảo tàng - khu bảo tồn «Proryv blokady Leningrada» ở Kirovsk được lập nên để tưởng nhớ chiến dịch này, mà trung tâm ban đầu là bảo tàng - diorama nổi tiếng (khánh thành 7/5/1985) gắn ngay trong khối bê tông của cầu Ladoga ở bờ trái sông Neva - đúng nơi bộ đội vượt sông năm 1943. Năm 2018, ngay cạnh diorama, khu này được bổ sung Bảo tàng Panorama «Proryv» - một panorama lịch sử - nghệ thuật ba chiều do họa sĩ Dmitry Poshtarenko và xưởng sáng tác «Nevsky Batalist» thực hiện. Khác với tranh panorama truyền thống, tác phẩm kết hợp hình nộm người kích thước thật, khí tài, âm thanh, ánh sáng và bố cục không gian để 'đóng băng' một khoảnh khắc chiến đấu cụ thể trên Nevsky Pyatachok - dải đầu cầu nhỏ bé mà đẫm máu bên tả ngạn Neva. Bước vào, khách như trở thành một người lính trong nhóm xung kích đang tấn công tuyến phòng ngự của địch, cảm nhận rõ 'hiệu ứng hiện diện'. Trong khuôn viên còn có trưng bày ngoài trời về xe tăng của chiến dịch (nhiều chiếc được trục vớt từ lòng sông Neva) cùng một số khí tài hiện đại. Nằm cùng cụm với diorama, đài Nevsky Pyatachok và cao điểm Sinyavino, «Proryv» là điểm đến đáng nhớ cho ai muốn hiểu về một trong những trang bi tráng nhất của Chiến tranh Vệ quốc, đồng thời là ví dụ tiêu biểu cho thế hệ bảo tàng nhập vai hiện đại của Nga.",
+    "highlights_vi": [
+      "Panorama ba chiều nhập vai tái hiện trận đánh trên 'Mảnh đất Neva' ngày 13/1/1943, với hình nộm kích thước thật, khí tài, ánh sáng và âm thanh tạo 'hiệu ứng hiện diện'.",
+      "Tác phẩm của họa sĩ Dmitry Poshtarenko và xưởng «Nevsky Batalist»; khánh thành năm 2018 nhân 75 năm chọc thủng vòng vây Leningrad.",
+      "Nằm ngay chân cầu Ladoga cạnh bảo tàng - diorama (1985); có trưng bày ngoài trời nhiều xe tăng trục vớt từ sông Neva."
+    ],
+    "practical": {
+      "hours_vi": "Thường mở Thứ Ba–Thứ Năm và Chủ nhật 10:00–18:00; Thứ Sáu–Thứ Bảy 10:00–20:00; nghỉ Thứ Hai. Nên kiểm tra lịch trước khi đến.",
+      "ticket_vi": "Vé thu phí theo suất (có ưu đãi cho học sinh, sinh viên, người cao tuổi; trẻ nhỏ thường miễn phí). Cuối tuần đông khách nên đặt trước hoặc đến sớm; có thể mua vé gộp cả panorama lẫn diorama.",
+      "duration_vi": "Khoảng 1–1,5 giờ nếu xem cả panorama và diorama cùng khu trưng bày ngoài trời.",
+      "best_time_vi": "Quanh năm (trưng bày trong nhà); dịp 18/1 và 27/1 (mốc phá vây và giải phóng hoàn toàn Leningrad) có nhiều hoạt động tưởng niệm.",
+      "tips_vi": "Cách Saint Petersburg khoảng 40 km theo đường cao tốc Murmansk (R21). Có thể đi ô tô/taxi hoặc xe buýt tới Kirovsk/Maryino; nên ghép cùng pháo đài Oreshek (Shlisselburg) và đài Nevsky Pyatachok gần đó."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%B9-%D0%BF%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D0%B0%20%C2%AB%D0%9F%D1%80%D0%BE%D1%80%D1%8B%D0%B2%C2%BB%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C&ll=30.99431,59.90855&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Proryv%20Panorama%20Museum%20%28Breakthrough%20of%20the%20Leningrad%20Siege%29%2C%20Leningrad%20Oblast%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Культура.РФ — Музей-панорама «Прорыв»",
+        "url": "https://www.culture.ru/institutes/97702/muzei-panorama-proryv"
+      },
+      {
+        "title": "Музейное агентство ЛО — Музей-заповедник «Прорыв блокады Ленинграда»",
+        "url": "https://www.lenoblmus.ru/museums/muzey-zapovednik-proryv-blokady-leningrada"
+      },
+      {
+        "title": "Книга Памяти СЗФО (memgid.ru) — toạ độ GPS diorama/panorama «Прорыв»",
+        "url": "https://memgid.ru/object/1377"
+      }
+    ],
+    "tags": [
+      "museum",
+      "panorama",
+      "wwii",
+      "siege-of-leningrad",
+      "operation-iskra",
+      "nevsky-batalist",
+      "kirovsk",
+      "leningrad-oblast"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-26",
+    "country": "russia"
+  },
+  {
+    "id": "leningrad-oblast-st-andrew-church-vuoksa",
+    "slug": "st-andrew-church-vuoksa",
+    "region": "leningrad-oblast",
+    "region_name_vi": "Tỉnh Leningrad",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Nhà thờ Thánh Andrei Được gọi Đầu tiên trên sông Vuoksa",
+    "name_ru": "Церковь Андрея Первозванного на Вуоксе",
+    "name_en": "Church of St. Andrew the First-Called on the Vuoksa",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 60.877009,
+      "lon": 29.824944
+    },
+    "address_vi": "Trên một đảo đá nhỏ giữa sông Vuoksa, cạnh làng Vasilyevo (nằm giữa Melnikovo và Losevo), huyện Priozersk, Tỉnh Leningrad; theo đường 41K-153 (Sapernoe–Melnikovo), có bãi đỗ xe đối diện làng.",
+    "rating": null,
+    "presentation_short_vi": "Nhà thờ gỗ Thánh Andrei Được gọi Đầu tiên là một trong những hình ảnh biểu tượng của eo đất Karelia và Tỉnh Leningrad: ngôi nhà thờ nhỏ dựng trên một mỏm đá vươn lên giữa dòng Vuoksa. Hoàn thành năm 2000, công trình được sách Kỉ lục Guinness ghi nhận là nhà thờ duy nhất trên thế giới xây trên một đảo đá tí hon mà nền móng chính là khối đá nguyên khối nhô khỏi mặt nước.",
+    "presentation_long_vi": "Giữa dòng Vuoksa - con sông lớn nhất eo đất Karelia - có một đảo đá chỉ rộng chừng trăm mét vuông, và trên đó là nhà thờ gỗ Thánh Andrei Được gọi Đầu tiên, một trong những cảnh quan được chụp ảnh nhiều nhất vùng Tây Bắc nước Nga. Ý tưởng ban đầu chỉ là dựng một chỗ nghỉ chân cho dân chèo thuyền, nhưng rồi được nâng thành việc xây một nhà thờ; công trình do kiến trúc sư Andrey Rotinov thiết kế, lấy cảm hứng từ dáng vươn cao của Nhà thờ Chúa Thăng Thiên ở Kolomenskoye. Việc xây dựng được Đô thành Ioann (Snychev) của Saint Petersburg và Ladoga ban phép lành năm 1994, và nhà thờ được thánh hiến ngày 23 tháng 9 năm 2000, dâng kính Thánh tông đồ Andrei - người mà theo truyền thuyết từng tới vùng này và làm phép rửa cho dân bản địa; ngài được coi là bổn mạng của ngư dân và người đi biển, còn lá cờ Thánh Andrei (chữ thập xanh chéo trên nền trắng) là quân kì của Hải quân Nga. Nhà thờ mang kiểu 'bát giác' (vosmerik) truyền thống, đội mái lều nhọn (shatyor) với chỏm hành, hai bên là gian tiền đường và gian thánh, phía trên tiền đường có một tháp chuông nhỏ. Trước kia đảo chỉ nối với bờ bằng phà; về sau người ta bắc một cây cầu chắc chắn để đón lượng khách ngày một đông, dù nhiều người tiếc rằng cây cầu làm giảm phần nào vẻ tách biệt huyền hoặc vốn có. Nằm giữa thiên nhiên hồ - sông - rừng của eo đất Karelia, nhà thờ đẹp trong mọi mùa: phủ tuyết mùa đông, sương sớm mùa hè hay lá vàng mùa thu, và thường được ghép trong hành trình khám phá Priozersk, ghềnh Losevo và vùng sông Vuoksa.",
+    "highlights_vi": [
+      "Nhà thờ gỗ dựng trên đảo đá tí hon giữa sông Vuoksa - được sách Kỉ lục Guinness ghi nhận là nhà thờ duy nhất thế giới có nền là khối đá nguyên khối giữa dòng nước.",
+      "Kiến trúc gỗ kiểu bát giác với mái lều nhọn, lấy cảm hứng từ Nhà thờ Chúa Thăng Thiên ở Kolomenskoye; thánh hiến năm 2000, dâng kính Thánh tông đồ Andrei - bổn mạng của ngư dân và người đi biển.",
+      "Một trong những khung cảnh được chụp ảnh nhiều nhất eo đất Karelia, đẹp cả bốn mùa; dễ ghép cùng Priozersk, ghềnh Losevo và hành trình sông Vuoksa."
+    ],
+    "practical": {
+      "hours_vi": "Nhà thờ nhỏ, thường mở cửa cho khách vào cuối tuần khoảng 12:00–17:00; lễ được cử hành theo lịch riêng, chủ yếu vào mùa hè. Khuôn viên ngoài trời và cây cầu có thể ngắm cảnh, chụp ảnh mọi lúc.",
+      "ticket_vi": "Vào tham quan tự do (không bán vé). Nếu muốn dự lễ hoặc làm các bí tích (rửa tội, hôn phối) cần liên hệ trước với giáo xứ.",
+      "duration_vi": "Khoảng 30–60 phút để tham quan, đi qua cầu ra đảo và chụp ảnh.",
+      "best_time_vi": "Đẹp quanh năm; mùa hè và mùa thu lá vàng thuận tiện đi lại và chụp ảnh nhất, mùa đông tuyết phủ cho khung cảnh cổ tích nhưng đường trơn.",
+      "tips_vi": "Từ Saint Petersburg đi theo hướng Priozersk rồi rẽ vào đường 41K-153 (Sapernoe–Melnikovo); lấy làng Vasilyevo làm mốc, gửi xe ở bãi đối diện rồi đi bộ theo lối mòn ra bờ Vuoksa. Nên đi bằng ô tô vì giao thông công cộng tới tận nơi hạn chế; có thể kết hợp thăm ghềnh Losevo và thị trấn Priozersk (pháo đài Korela) trong cùng chuyến."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C%20%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D1%8F%20%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%B7%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BD%D0%B0%20%D0%92%D1%83%D0%BE%D0%BA%D1%81%D0%B5%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C&ll=29.824944,60.877009&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Church%20of%20St.%20Andrew%20the%20First-Called%20on%20the%20Vuoksa%2C%20Leningrad%20Oblast%2C%20Russia"
+    },
+    "official_site": "https://melnikovo.cerkov.ru/pervozvanny/",
+    "sources": [
+      {
+        "title": "Глобус Санкт-Петербургской митрополии — Храм св. ап. Андрея Первозванного на Вуоксе",
+        "url": "https://globus.aquaviva.ru/khram-sv-ap-andreya-pervozvannogo-na-vuokse"
+      },
+      {
+        "title": "Приход — melnikovo.cerkov.ru (Андрей Первозванный на Вуоксе)",
+        "url": "https://melnikovo.cerkov.ru/pervozvanny/"
+      },
+      {
+        "title": "Дорогами Срединного Пути (anashina.com) — Храм апостола Андрея Первозванного на Вуоксе",
+        "url": "https://anashina.com/xram-apostola-andreya-pervozvannogo-na-vuokse/"
+      }
+    ],
+    "tags": [
+      "church",
+      "wooden-architecture",
+      "vuoksa",
+      "karelian-isthmus",
+      "priozersk",
+      "guinness-record",
+      "leningrad-oblast"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-26",
+    "country": "russia"
+  },
+  {
+    "id": "leningrad-oblast-sablino-natural-monument",
+    "slug": "sablino-natural-monument",
+    "region": "leningrad-oblast",
+    "region_name_vi": "Tỉnh Leningrad",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Di tích thiên nhiên Sablino (hang động và thác nước Sablinsky)",
+    "name_ru": "Саблинский памятник природы",
+    "name_en": "Sablino Natural Monument (Sablinsky)",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 59.66694,
+      "lon": 30.79639
+    },
+    "address_vi": "Gần làng đô thị Ulyanovka (tên cũ Sablino), huyện Tosno, Tỉnh Leningrad; hai bên thung lũng sông Sablinka và Tosna, cách Saint Petersburg khoảng 40 km về phía đông nam.",
+    "rating": null,
+    "presentation_short_vi": "Di tích thiên nhiên Sablino là một trong những điểm dã ngoại trong ngày được yêu thích nhất quanh Saint Petersburg: một quần thể hang động nhân tạo, thác nước và hẻm sông để lộ các tầng đá cổ hàng trăm triệu năm. Được công nhận là di tích thiên nhiên từ năm 1976, nơi đây hấp dẫn du khách bằng những chuyến chui hang có hướng dẫn, hai thác nước trên sông Sablinka và Tosna, cùng nhiều dấu tích lịch sử.",
+    "presentation_long_vi": "Cách Saint Petersburg chừng 40 km về phía đông nam, quanh làng Ulyanovka (tên cũ là Sablino) thuộc huyện Tosno, thiên nhiên đã bào mòn hai con sông nhỏ Sablinka và Tosna thành những hẻm vực, để lộ các lớp đá trầm tích kỉ Cambri và Ordovic có tuổi tới khoảng nửa tỉ năm - một 'trang giáo khoa địa chất' lộ thiên hiếm có ở gần đô thị. Đan xen giữa cảnh quan ấy là hệ thống hang động: khác với hang tự nhiên, đây là các đường hầm do con người đào từ thế kỉ 19 đến đầu thế kỉ 20 để khai thác cát thạch anh cung cấp cho các nhà máy thuỷ tinh khắp nước Nga; khi việc khai thác dừng lại, những hầm cát bỏ hoang biến thành mê cung ngầm mát lạnh, nay là nơi trú đông của loài dơi. Hang lớn nhất mở cho khách tham quan là Levoberezhnaya ('Tả Ngạn'), nơi có các tour chui hang đội mũ bảo hộ, nghe kể về địa chất và truyền thuyết địa phương. Bên cạnh giá trị tự nhiên, Sablino còn giàu dấu ấn lịch sử: gần đây là những gò mộ cổ, địa điểm được cho là nơi công tước Aleksandr Nevsky hạ trại trước trận đánh với quân Thuỵ Điển bên sông Neva năm 1240, và điền trang 'Pustynka' của thi hào Aleksey Konstantinovich Tolstoy. Với thác nước, hẻm sông, hang động và lịch sử hoà quyện, Sablino là lựa chọn quen thuộc cho các chuyến đi trong ngày, dã ngoại và du lịch địa chất - sinh thái từ Saint Petersburg; du khách nên đi cùng tour có hướng dẫn khi vào hang và mang giày chống trơn.",
+    "highlights_vi": [
+      "Chui hang có hướng dẫn trong hang nhân tạo Levoberezhnaya - đường hầm khai thác cát thạch anh xưa, nay là mê cung ngầm và nơi dơi trú đông.",
+      "Hai thác nước trên sông Sablinka và Tosna cùng hẻm vực để lộ các tầng đá kỉ Cambri - Ordovic khoảng nửa tỉ năm tuổi.",
+      "Dấu tích lịch sử: gò mộ cổ, nơi tương truyền Aleksandr Nevsky hạ trại năm 1240 và điền trang 'Pustynka' của thi hào A. K. Tolstoy."
+    ],
+    "practical": {
+      "hours_vi": "Khu di tích ngoài trời (thác, hẻm sông) có thể dạo quanh năm. Tham quan hang động phải đi theo tour có hướng dẫn của đơn vị khai thác, tổ chức theo suất trong ngày - nên đặt trước, nhất là cuối tuần.",
+      "ticket_vi": "Đi dạo khu thác và hẻm sông cơ bản không thu phí; tour chui hang Levoberezhnaya bán vé theo suất (thường đã gồm mũ bảo hộ và hướng dẫn viên). Giá thay đổi theo chương trình, nên kiểm tra trước.",
+      "duration_vi": "Khoảng 1 giờ cho một tour hang; 2–3 giờ nếu đi thêm cả hai thác và dạo hẻm sông.",
+      "best_time_vi": "Thác đẹp nhất vào mùa xuân khi tuyết tan (tháng 4–5) và sau mưa; hang mát ổn định quanh năm (khoảng 8°C) nên mang áo ấm khi vào hang kể cả mùa hè. Mùa đông đường trơn, cần cẩn trọng.",
+      "tips_vi": "Từ Saint Petersburg đi tàu ngoại ô hướng Tosno/Moskva, xuống ga Sablino (Ulyanovka) rồi đi bộ/taxi tới khu thác - hang; hoặc đi ô tô theo cao tốc M10. Bắt buộc đi tour có hướng dẫn khi vào hang (không tự ý vào vì dễ lạc); mang giày chống trơn và đèn pin."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%B0%D0%B1%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D1%8B%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C&ll=30.79639,59.66694&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Sablino%20Natural%20Monument%20%28Sablinsky%29%2C%20Leningrad%20Oblast%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Саблинский памятник природы",
+        "url": "https://ru.wikipedia.org/wiki/Саблинский_памятник_природы"
+      },
+      {
+        "title": "vpoxod.ru — Саблинские пещеры: история, как добраться",
+        "url": "https://www.vpoxod.ru/page/toponym/sablino_info"
+      },
+      {
+        "title": "Туристер.Ру — Саблинский водопад (координаты, как добраться)",
+        "url": "https://www.tourister.ru/world/europe/russia/city/ulyanovka/waterfall/28772"
+      }
+    ],
+    "tags": [
+      "nature",
+      "caves",
+      "waterfall",
+      "geology",
+      "sablino",
+      "tosno",
+      "day-trip",
+      "leningrad-oblast"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-26",
+    "country": "russia"
+  },
+  {
+    "id": "leningrad-oblast-lindulovskaya-grove",
+    "slug": "lindulovskaya-grove",
+    "region": "leningrad-oblast",
+    "region_name_vi": "Tỉnh Leningrad",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Rừng thông rụng lá Lindulovskaya (Lindulovskaya roshcha)",
+    "name_ru": "Линдуловская роща",
+    "name_en": "Lindulovskaya Grove",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 60.239476,
+      "lon": 29.535834
+    },
+    "address_vi": "Gần thị trấn Roshchino, huyện Vyborg, Tỉnh Leningrad; thung lũng sông Roshchinka (tên cũ Lintulovka), eo đất Karelia, cách Saint Petersburg khoảng 60 km về phía tây bắc.",
+    "rating": null,
+    "presentation_short_vi": "Rừng thông rụng lá Lindulovskaya là khu rừng trồng nhân tạo lâu đời nhất nước Nga và cả châu Âu. Được gieo trồng từ năm 1738 theo sắc lệnh của Pyotr Đại đế để lấy gỗ đóng tàu cho hạm đội Baltic, rừng thông rụng lá Siberia bên sông Roshchinka nay là một khu bảo tồn thuộc Di sản Thế giới UNESCO, với những cây cao trên 40 m.",
+    "presentation_long_vi": "Bên thung lũng sông Roshchinka (tên cũ Lintulovka) gần thị trấn Roshchino thuộc huyện Vyborg, cách Saint Petersburg khoảng 60 km về phía tây bắc trên eo đất Karelia, có một cánh rừng đặc biệt: Lindulovskaya - khu rừng trồng nhân tạo lâu đời nhất của Nga và cả châu Âu. Năm 1738, thực hiện một sắc lệnh trước đó của Pyotr Đại đế nhằm bảo đảm nguồn gỗ tốt để đóng tàu cho hải quân, nhà lâm học người Đức Ferdinand Fokel đã tổ chức gieo những hạt thông rụng lá (larch) Siberia đầu tiên trên nền đất canh tác cũ. Loài thông rụng lá vốn không mọc tự nhiên ở vùng này, nhưng cho thứ gỗ bền chắc và chịu nước - lí tưởng cho thân và ván tàu. Gần ba thế kỉ trôi qua, những hàng cây năm xưa đã vươn thành rừng cổ thụ uy nghi: nhiều cây cao trên 40 m, thân to cả người ôm, tuổi đời hơn hai trăm năm, tạo nên những 'đại lộ' thông rụng lá thẳng tắp hiếm nơi nào có. Rừng được lập thành khu bảo tồn (zakaznik) năm 1976 và từ đó trở thành điểm dạo bộ, dã ngoại và chụp ảnh được yêu thích của người dân Saint Petersburg, rực rỡ nhất vào mùa thu khi lá thông chuyển vàng óng rồi trút xuống thành thảm mềm. Nhờ giá trị lịch sử và khoa học đặc biệt, Lindulovskaya đã được đưa vào danh mục Di sản Thế giới của UNESCO như một hợp phần của quần thể 'Trung tâm lịch sử Saint Petersburg và các cụm di tích liên quan'. Tới đây, du khách có thể tản bộ dưới tán thông rụng lá cổ thụ, ngắm dòng Roshchinka và tận hưởng không khí trong lành - một 'bảo tàng sống' của ngành lâm nghiệp Nga.",
+    "highlights_vi": [
+      "Khu rừng trồng nhân tạo lâu đời nhất nước Nga và châu Âu, gieo trồng từ năm 1738 theo sắc lệnh của Pyotr Đại đế để lấy gỗ đóng tàu.",
+      "Những 'đại lộ' thông rụng lá (larch) Siberia cổ thụ cao trên 40 m, tuổi đời hơn hai thế kỉ; đẹp nhất vào mùa thu lá vàng.",
+      "Hợp phần của Di sản Thế giới UNESCO 'Trung tâm lịch sử Saint Petersburg và các cụm di tích liên quan'; được lập thành khu bảo tồn từ năm 1976."
+    ],
+    "practical": {
+      "hours_vi": "Khu bảo tồn ngoài trời, có thể dạo quanh năm vào ban ngày. Không có giờ đóng/mở cố định; nên đi ban ngày để an toàn và dễ tìm đường.",
+      "ticket_vi": "Vào tham quan tự do (thường không thu phí). Là khu bảo tồn nên cần giữ gìn: không đốt lửa, không xả rác, không bẻ cây.",
+      "duration_vi": "Khoảng 1,5-2,5 giờ để đi hết các lối mòn chính dưới tán rừng và ra bờ sông Roshchinka.",
+      "best_time_vi": "Đẹp nhất vào mùa thu (cuối tháng 9 - tháng 10) khi lá thông rụng lá chuyển vàng; mùa hè xanh mát, mùa đông tuyết phủ yên tĩnh.",
+      "tips_vi": "Từ Saint Petersburg đi tàu ngoại ô từ ga Finlyandsky về hướng Vyborg, xuống ga Roshchino rồi đi taxi/đi bộ tới rừng; hoặc đi ô tô theo cao tốc Skandinaviya (A181). Mang giày đi bộ, nước uống và thuốc chống côn trùng vào mùa hè."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9B%D0%B8%D0%BD%D0%B4%D1%83%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%BE%D1%89%D0%B0%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C&ll=29.535834,60.239476&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Lindulovskaya%20Grove%2C%20Leningrad%20Oblast%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Линдуловская роща",
+        "url": "https://ru.wikipedia.org/wiki/Линдуловская_роща"
+      },
+      {
+        "title": "Туристер.Ру — Линдуловская роща",
+        "url": "https://www.tourister.ru/world/europe/russia/city/saint_petersburg/reserves/28526"
+      },
+      {
+        "title": "World Heritage Site — Historic Centre of Saint Petersburg (hợp phần Lindulovskaya)",
+        "url": "https://www.worldheritagesite.org/list/st-petersburg/"
+      }
+    ],
+    "tags": [
+      "nature",
+      "reserve",
+      "larch",
+      "forest",
+      "unesco",
+      "karelian-isthmus",
+      "vyborg",
+      "day-trip",
+      "leningrad-oblast"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-26",
+    "country": "russia"
+  },
+  {
+    "id": "leningrad-oblast-priyutino-estate",
+    "slug": "priyutino-estate",
+    "region": "leningrad-oblast",
+    "region_name_vi": "Tỉnh Leningrad",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Bảo tàng - Điền trang Priyutino (Muzey-usadba Priyutino)",
+    "name_ru": "Музей-усадьба «Приютино»",
+    "name_en": "Priyutino Estate Museum",
+    "categories": [
+      "museum",
+      "park_garden"
+    ],
+    "address_vi": "Đường Priyutinskaya, số 1, thành phố Vsevolozhsk, Tỉnh Leningrad; gần ga Berngardovka (tuyến Irinovka), bên bờ sông Lubya, tại km số 6 của «Con đường Sự sống», cách trung tâm Saint Petersburg khoảng 25 km về phía đông bắc.",
+    "coordinates": {
+      "lat": 60.012264,
+      "lon": 30.580619
+    },
+    "rating": null,
+    "presentation_short_vi": "Priyutino là điền trang của Aleksey Olenin - giám đốc đầu tiên của Thư viện Công cộng và chủ tịch Viện Hàn lâm Nghệ thuật - một trong số ít điền trang nửa đầu thế kỉ 19 còn giữ được gần Saint Petersburg. Từng là nơi tụ họp của giới tinh hoa văn hoá Nga thời hoàng kim (Pushkin, Krylov, Bryullov, Glinka...), nay Priyutino là bảo tàng văn học - nghệ thuật giữa một công viên cổ bên hồ.",
+    "presentation_long_vi": "Bên bờ sông Lubya, tại km số 6 của «Con đường Sự sống» thuộc thành phố Vsevolozhsk, ẩn mình một điền trang bằng gạch đỏ không trát: Priyutino - «chốn nương náu», nơi từng được gọi trìu mến là «tổ ấm của các thi nhân Nga». Năm 1795, Aleksey Nikolaevich Olenin - nhà khảo cổ, hoạ sĩ, giám đốc đầu tiên của Thư viện Công cộng Hoàng gia và chủ tịch Viện Hàn lâm Nghệ thuật - mua mảnh đất này bằng của hồi môn của vợ và cho dựng dần một quần thể điền trang theo kế hoạch thống nhất suốt hai thập niên. Đến những năm 1820, nơi đây đã có hai toà nhà chính, nhà kính, hàng chục công trình phụ và một công viên cảnh quan tuyệt đẹp bao quanh hồ nước - tất cả xây bằng gạch đỏ để mộc, một nét hiếm thấy. Điều làm nên linh hồn của Priyutino là bầu không khí tự do, ấm áp mà gia đình Olenin tạo ra: «nhóm Olenin» quy tụ gần như toàn bộ tinh hoa văn hoá Nga đương thời. Thi hào Ivan Krylov gắn bó suốt gần ba mươi năm và viết nhiều truyện ngụ ngôn tại đây; Nikolai Gnedich hoàn thành phần lớn bản dịch «Iliad» của Homer; và chàng trai trẻ Aleksandr Pushkin nhiều lần lui tới, đem lòng yêu Anna - con gái út của chủ nhà - rồi viết tặng nàng những vần thơ tình bất hủ, trong đó có «Tôi yêu em». Batyushkov, Zhukovsky, Vyazemsky, Griboyedov, Mickiewicz, anh em hoạ sĩ Bryullov, Kiprensky, nhạc sĩ Glinka... đều từng là khách của Priyutino. Sau khi gia đình Olenin bán điền trang (1841), nơi này đổi chủ nhiều lần và dần sa sút. Năm 1960 Priyutino được công nhận di tích văn hoá; từ 1974 mở bảo tàng văn học - nghệ thuật trong toà nhà chính, tái hiện nội thất và cuộc sống điền trang đầu thế kỉ 19. Ngày nay du khách tới Priyutino để thăm bảo tàng, dạo công viên cổ bên hồ và cảm nhận không gian thơ mộng gắn với thời hoàng kim của văn học Nga.",
+    "highlights_vi": [
+      "Điền trang của A. N. Olenin - giám đốc đầu tiên Thư viện Công cộng, chủ tịch Viện Hàn lâm Nghệ thuật; một trong số ít điền trang nửa đầu thế kỉ 19 còn giữ được gần Saint Petersburg, xây bằng gạch đỏ để mộc.",
+      "«Tổ ấm của các thi nhân Nga»: nơi Krylov viết truyện ngụ ngôn, Gnedich dịch «Iliad», và Pushkin đem lòng yêu Anna Olenina; từng đón Zhukovsky, Griboyedov, Bryullov, Glinka...",
+      "Bảo tàng văn học - nghệ thuật (mở từ 1974) trong toà nhà chính, giữa công viên cảnh quan cổ bên hồ - điểm dạo bộ và tìm hiểu văn hoá điền trang Nga."
+    ],
+    "practical": {
+      "hours_vi": "Bảo tàng thường mở thứ Tư - Chủ nhật, khoảng 10:00-17:00 (ngừng bán vé/vào cửa trước giờ đóng ~1 giờ); nghỉ thứ Hai, thứ Ba và thường là thứ Sáu cuối tháng. Công viên có thể dạo tự do. Nên gọi/kiểm tra trước khi đến.",
+      "ticket_vi": "Vé vào bảo tàng ở mức phải chăng (thường khoảng 100 rúp; ưu đãi cho học sinh, sinh viên, người hưu trí). Tham quan có hướng dẫn giúp hiểu rõ hơn lịch sử «nhóm Olenin».",
+      "duration_vi": "Khoảng 1-2 giờ cho bảo tàng và dạo công viên bên hồ.",
+      "best_time_vi": "Đẹp nhất vào cuối xuân đến mùa thu khi công viên xanh mát hoặc lá vàng; mùa hè cuối tuần đôi khi có các chương trình, lễ hội âm nhạc ngoài trời.",
+      "tips_vi": "Từ Saint Petersburg đi tàu ngoại ô từ ga Finlyandsky tới ga Berngardovka rồi đi bộ/taxi, hoặc đi ô tô theo «Con đường Sự sống» (Doroga Zhizni). Mang giày đi bộ để dạo công viên; chú ý một số công trình điền trang vẫn đang chờ trùng tu."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%B9-%D1%83%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0%20%C2%AB%D0%9F%D1%80%D0%B8%D1%8E%D1%82%D0%B8%D0%BD%D0%BE%C2%BB%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C&ll=30.580619,60.012264&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Priyutino%20Estate%20Museum%2C%20Leningrad%20Oblast%2C%20Russia"
+    },
+    "official_site": "https://www.lenoblmus.ru/museums/literaturno-khudozhestvennyy-muzey-usadba-priyutino",
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Приютино (усадьба)",
+        "url": "https://ru.wikipedia.org/wiki/Приютино_(усадьба)"
+      },
+      {
+        "title": "Autotravel.ru — Музей-усадьба «Приютино» (toạ độ geo.position)",
+        "url": "https://autotravel.ru/otklik.php/2046"
+      },
+      {
+        "title": "ГБУК ЛО «Музейное агентство» — Литературно-художественный музей-усадьба «Приютино»",
+        "url": "https://www.lenoblmus.ru/museums/literaturno-khudozhestvennyy-muzey-usadba-priyutino"
+      }
+    ],
+    "tags": [
+      "museum",
+      "estate",
+      "literary",
+      "olenin",
+      "pushkin",
+      "krylov",
+      "park",
+      "vsevolozhsk",
+      "day-trip",
+      "leningrad-oblast"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-26",
+    "country": "russia"
+  },
+  {
+    "id": "leningrad-oblast-rozhdestveno-nabokov-estate",
+    "slug": "rozhdestveno-nabokov-estate",
+    "region": "leningrad-oblast",
+    "region_name_vi": "Tỉnh Leningrad",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Bảo tàng - Điền trang «Rozhdestveno» (gắn với V. V. Nabokov)",
+    "name_ru": "Музей-усадьба «Рождествено»",
+    "name_en": "Rozhdestveno Museum-Estate (Vladimir Nabokov)",
+    "categories": [
+      "museum",
+      "palace",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 59.325,
+      "lon": 29.935833
+    },
+    "address_vi": "Село Рождествено (làng Rozhdestveno), ул. Музейная, д. 1, thành phố (okrug) Gatchina, Tỉnh Leningrad; nằm trên tuyến quốc lộ P23 (Kiyevskoye) phía tây nam Gatchina, cách Gatchina khoảng 30 km và cách Saint Petersburg chừng 70 km.",
+    "rating": null,
+    "presentation_short_vi": "Rozhdestveno là toà dinh thự gỗ kiểu cổ điển hiếm hoi cuối thế kỷ 18, nổi bật với hàng cột trắng như một «ngôi đền» giữa vùng quê Tỉnh Leningrad. Điền trang gắn liền với đại văn hào Vladimir Nabokov: đây là gia sản ông thừa kế năm 1916 từ người cậu V. I. Rukavishnikov, và cả vùng Rozhdestveno - Vyra - Batovo đã trở thành «thiên đường tuổi thơ» in đậm trong hồi ký nổi tiếng của ông. Sau trận hoả hoạn năm 1995, toà nhà đã được phục dựng công phu và mở cửa làm bảo tàng, giữa một công viên cổ với vách đá sa thạch đỏ và hang động bên sông Gryaznaya.",
+    "presentation_long_vi": "Toà nhà chính của điền trang Rozhdestveno là một dinh thự gỗ mang phong cách cổ điển (classicism), dựng vào cuối thế kỷ 18 với hàng cột và mái vòm khiến nó trông tựa một ngôi đền cổ - kiểu kiến trúc điền trang bằng gỗ nay còn lại rất ít ở Nga. Trong thế kỷ 19 - đầu thế kỷ 20, điền trang thuộc về dòng họ Rukavishnikov - gia đình bên ngoại của Vladimir Nabokov. Năm 1916, chàng thanh niên Nabokov thừa kế Rozhdestveno từ người cậu Vasily Ivanovich Rukavishnikov; cùng với điền trang Vyra (của mẹ ông) và Batovo (của bà ngoại) ở ngay gần, vùng quê này trở thành khung cảnh tuổi thơ mà về sau ông tái hiện đầy hoài niệm trong cuốn hồi ký «Speak, Memory» (bản tiếng Nga «Những bến bờ khác»). Chỉ hơn một năm sau, Cách mạng 1917 buộc gia đình Nabokov lưu vong, điền trang bị quốc hữu hoá và trải qua nhiều công năng. Toà nhà bắt đầu được dùng làm bảo tàng từ thập niên 1970 và dần chuyển trọng tâm sang đề tài Nabokov. Tháng 4 năm 1995, một trận hoả hoạn lớn đã thiêu rụi phần lớn dinh thự; công cuộc phục dựng tỉ mỉ sau đó đã trả lại diện mạo cho công trình. Bao quanh nhà là công viên cổ rộng khoảng 16 ha với những cây đoan (bồ đề) và sồi hàng trăm năm tuổi, dẫn tới hẻm sông Gryaznaya nơi có vách đá sa thạch đỏ, các mạch nước ngầm và hệ hang động - một cảnh quan thiên nhiên độc đáo hiếm thấy ở vùng tây bắc nước Nga. Ngày nay bảo tàng là một chi nhánh trong hệ thống bảo tàng của Tỉnh Leningrad.",
+    "highlights_vi": [
+      "Toà dinh thự gỗ kiểu cổ điển cuối thế kỷ 18 với hàng cột trắng đặc trưng - một trong số ít «điền trang - đền thờ» bằng gỗ còn lại ở Nga, phục dựng sau hoả hoạn năm 1995.",
+      "Gắn với Vladimir Nabokov: gia sản ông thừa kế năm 1916 và vùng quê tuổi thơ (Rozhdestveno - Vyra - Batovo) đi vào hồi ký «Speak, Memory» nổi tiếng của ông.",
+      "Công viên cổ ~16 ha với cây đoan, sồi hàng trăm năm tuổi cùng vách đá sa thạch đỏ, mạch nước ngầm và hang động bên sông Gryaznaya."
+    ],
+    "practical": {
+      "hours_vi": "Bảo tàng thường mở cửa hằng ngày trừ ngày nghỉ cố định (thường nghỉ Thứ Hai - Thứ Ba và một ngày cuối tháng để vệ sinh); nên kiểm tra lịch trước khi đến.",
+      "ticket_vi": "Có thu phí, giá vé phổ thông ở mức vừa phải; có vé riêng cho tham quan toà nhà và dạo công viên, cùng các tour có hướng dẫn.",
+      "duration_vi": "Khoảng 1,5-2 giờ cho toà nhà và công viên; lâu hơn nếu khám phá vách đá, hang động và mạch nước ven sông.",
+      "best_time_vi": "Cuối xuân đến đầu thu để dạo công viên và ngắm vách đá đỏ ven sông; mùa thu lá vàng đặc biệt đẹp.",
+      "tips_vi": "Từ Saint Petersburg đi tàu ngoại ô hướng Luga/Oredezh hoặc xe buýt về Rozhdestveno (~1,5 giờ); nếu tự lái theo quốc lộ P23 (Kiyevskoye). Có thể kết hợp thăm điền trang Vyra (Bảo tàng «Nhà trạm bưu chính») và cảnh quan sông Oredezh gần đó. Lối xuống vách đá và hang khá trơn - nên đi giày bám tốt."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%B9-%D1%83%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0%20%C2%AB%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BE%C2%BB%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C&ll=29.935833,59.325&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Rozhdestveno%20Museum-Estate%20%28Vladimir%20Nabokov%29%2C%20Leningrad%20Oblast%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Культура.РФ — Музей-усадьба «Рождествено»",
+        "url": "https://www.culture.ru/institutes/11135/muzei-usadba-rozhdestveno"
+      },
+      {
+        "title": "ГМЗ «Гатчина» — Музей-усадьба «Рождествено»",
+        "url": "https://gatchinapalace.ru/visitors/okrest_ARHIV/rozdestveno.php"
+      },
+      {
+        "title": "РУВИКИ — Рождествено (музей-усадьба)",
+        "url": "https://ru.ruwiki.ru/wiki/Рождествено_(музей-усадьба)"
+      }
+    ],
+    "tags": [
+      "nabokov",
+      "literature",
+      "estate",
+      "museum",
+      "classicism",
+      "park",
+      "day-trip",
+      "leningrad-oblast"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "leningrad-oblast-osinovets-lighthouse",
+    "slug": "osinovets-lighthouse",
+    "region": "leningrad-oblast",
+    "region_name_vi": "Tỉnh Leningrad",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Hải đăng Osinovets & Bảo tàng «Con đường Sự sống»",
+    "name_ru": "Осиновецкий маяк (и музей «Дорога жизни»)",
+    "name_en": "Osinovets Lighthouse & Road of Life Museum",
+    "categories": [
+      "monument",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 60.118765,
+      "lon": 31.080604
+    },
+    "address_vi": "Мыс Осиновец (mũi Osinovets), làng ga Ladozhskoye Ozero, huyện Vsevolozhsk, Tỉnh Leningrad; nằm trên bờ tây hồ Ladoga, cuối tuyến «Дорога жизни» (Con đường Sự sống), cách trung tâm Saint Petersburg khoảng 50 km về phía đông bắc.",
+    "rating": null,
+    "presentation_short_vi": "Hải đăng Osinovets là ngọn hải đăng đá cao khoảng 70 m vươn lên trên mũi Osinovets bên bờ tây hồ Ladoga - một trong những hải đăng cao nhất nước Nga và châu Âu, hoạt động từ đầu thế kỷ 20 và vẫn dẫn đường cho tàu bè đến nay. Nơi đây mang ý nghĩa lịch sử đặc biệt: trong thời kỳ Leningrad bị phong toả (1941-1944), vùng bờ hồ quanh hải đăng chính là điểm mốc bờ tây của «Con đường Sự sống» - tuyến tiếp tế và sơ tán duy nhất băng qua hồ Ladoga (bằng tàu thuyền mùa hè, bằng đường băng trên mặt hồ đóng băng mùa đông). Ngay gần đó là Bảo tàng «Con đường Sự sống» với toà nhà hiện đại hình khối băng, trưng bày hiện vật về chiến công cứu thành phố.",
+    "presentation_long_vi": "Quyết định xây hải đăng trên đoạn bờ nguy hiểm này của hồ Ladoga được đưa ra năm 1905; công trình hoàn thành trong những năm sau đó, tạo nên tháp đèn cao chừng 70 m với hàng trăm bậc thang xoắn ốc bên trong. Bản thân hải đăng là công trình hàng hải đang vận hành nên thường chỉ được chiêm ngưỡng từ bên ngoài, song dáng tháp sọc vươn cao trên nền hồ mênh mông đã trở thành một trong những hình ảnh biểu tượng của vùng Ladoga. Điều khiến Osinovets nổi tiếng nhất là vai trò trong Chiến tranh Vệ quốc Vĩ đại. Từ tháng 9/1941, khi vòng vây siết chặt quanh Leningrad, hồ Ladoga trở thành hành lang sinh tử: các đoàn tàu, sà lan chở lương thực, nhiên liệu, đạn dược vượt hồ cập bờ tây ở khu vực cảng Osinovets ngay cạnh hải đăng, rồi theo đường sắt vào thành phố; chiều ngược lại đưa hàng trăm nghìn dân thường, nhất là trẻ em, ra khỏi vòng vây. Mùa đông, khi mặt hồ đóng băng, tuyến này biến thành «con đường băng» cho xe tải chạy - cả tuyến được người dân gọi bằng cái tên đầy xúc động: «Дорога жизни» (Con đường Sự sống). Ngày nay, bên cạnh hải đăng là Bảo tàng «Con đường Sự sống» - chi nhánh của Bảo tàng Hải quân Trung ương; toà nhà trưng bày hiện đại (khánh thành năm 2016) được tạo hình như một khối băng, giới thiệu tàu thuyền, xe cộ, máy bay và câu chuyện về những con người đã giữ cho tuyến đường sống còn hoạt động. Cùng cụm di tích còn có nhà ga - đài tưởng niệm «Ладожское Озеро». Osinovets vì thế vừa là một thắng cảnh thiên nhiên - kiến trúc bên hồ Ladoga, vừa là địa chỉ tưởng niệm quan trọng bậc nhất gắn với cuộc phong toả Leningrad.",
+    "highlights_vi": [
+      "Ngọn hải đăng đá cao khoảng 70 m (một trong những hải đăng cao nhất nước Nga) vươn trên mũi Osinovets bên hồ Ladoga - biểu tượng và điểm chụp ảnh nổi tiếng, vẫn đang hoạt động.",
+      "Điểm mốc bờ tây của «Con đường Sự sống» - tuyến tiếp tế và sơ tán băng qua hồ Ladoga cứu Leningrad trong thời kỳ phong toả 1941-1944.",
+      "Bảo tàng «Con đường Sự sống» (chi nhánh Bảo tàng Hải quân) với toà nhà hình khối băng khánh thành năm 2016, trưng bày tàu thuyền, xe cộ và hiện vật lịch sử ngay bên hải đăng."
+    ],
+    "practical": {
+      "hours_vi": "Hải đăng có thể ngắm từ bên ngoài bất cứ lúc nào (không mở cửa vào trong vì là công trình hàng hải đang vận hành). Bảo tàng «Con đường Sự sống» thường mở cửa các ngày trong tuần (thường nghỉ Thứ Hai), giờ có thể thay đổi theo mùa - nên kiểm tra trước khi đến.",
+      "ticket_vi": "Ngắm hải đăng và ra bờ hồ miễn phí. Vé vào Bảo tàng «Con đường Sự sống» ở mức phải chăng; giá thay đổi theo thời điểm và có thể miễn/giảm cho một số đối tượng.",
+      "duration_vi": "Khoảng 1,5-3 giờ cho cả cụm: bờ hồ - hải đăng và tham quan bảo tàng.",
+      "best_time_vi": "Mùa hè và đầu thu để dạo bờ hồ Ladoga và chụp ảnh hải đăng; ngày 27/1 (kỷ niệm phá vây Leningrad) và 9/5 có các sự kiện tưởng niệm trang nghiêm.",
+      "tips_vi": "Từ Saint Petersburg thuận tiện nhất là đi tàu ngoại ô (elektrichka) từ ga Finlyandsky đến ga cuối «Ладожское Озеро», rồi đi bộ ra bờ hồ và bảo tàng; hoặc tự lái theo đường «Дорога жизни». Không trèo/không vào trong hải đăng. Có thể kết hợp với đài tưởng niệm «Vòng tròn Bị phá vỡ» (Broken Ring) trên cùng tuyến Con đường Sự sống."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9E%D1%81%D0%B8%D0%BD%D0%BE%D0%B2%D0%B5%D1%86%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%B0%D1%8F%D0%BA%20%28%D0%B8%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%20%C2%AB%D0%94%D0%BE%D1%80%D0%BE%D0%B3%D0%B0%20%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8%C2%BB%29%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C&ll=31.080604,60.118765&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Osinovets%20Lighthouse%20%26%20Road%20of%20Life%20Museum%2C%20Leningrad%20Oblast%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN) — Osinovetsky Light",
+        "url": "https://en.wikipedia.org/wiki/Osinovetsky_Light"
+      },
+      {
+        "title": "Большая Страна — Осиновецкий маяк: страж «Дороги жизни»",
+        "url": "https://bolshayastrana.com/dostoprimechatelnosti/leningradskaya-oblast/osinoveckij-mayak-740"
+      },
+      {
+        "title": "Tourister.ru — Осиновецкий маяк на Ладожском озере",
+        "url": "https://www.tourister.ru/world/europe/russia/city/vsevolozhsk/placeofinterest/36956"
+      }
+    ],
+    "tags": [
+      "lighthouse",
+      "monument",
+      "museum",
+      "road-of-life",
+      "lake-ladoga",
+      "wwii",
+      "siege-of-leningrad",
+      "vsevolozhsk",
+      "leningrad-oblast"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "leningrad-oblast-nevsky-pyatachok-memorial",
+    "slug": "nevsky-pyatachok-memorial",
+    "region": "leningrad-oblast",
+    "region_name_vi": "Tỉnh Leningrad",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Đài tưởng niệm «Nevsky Pyatachok» (Bãi đất Neva)",
+    "name_ru": "Мемориал «Невский пятачок»",
+    "name_en": "Nevsky Pyatachok Memorial",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 59.841954,
+      "lon": 30.956176
+    },
+    "address_vi": "Bờ đông (tả ngạn) sông Neva, rìa nam thành phố Kirovsk, huyện Kirovsky, Tỉnh Leningrad; cách Sankt-Peterburg khoảng 45 km về phía đông nam.",
+    "rating": null,
+    "presentation_short_vi": "«Nevsky Pyatachok» là tên gọi bãi đất đầu cầu nhỏ bé bên bờ đông sông Neva, nơi Hồng quân cố thủ trong những trận đánh khốc liệt bậc nhất của cuộc phong toả Leningrad. Trung tâm đài tưởng niệm là tượng đài «Tảng đá Biên cương» (Rubezhny Kamen) dựng năm 1972.",
+    "presentation_long_vi": "Trên dải đất hẹp bên tả ngạn sông Neva, ở rìa nam thành phố Kirovsk, «Nevsky Pyatachok» ghi dấu một trong những trang bi tráng nhất của Chiến tranh Vệ quốc vĩ đại. Từ tháng 9 năm 1941, Hồng quân đổ bộ và giữ được một bàn đạp nhỏ - chỉ rộng chừng vài km2, nên được gọi là 'bãi đất' (pyatachok, nghĩa đen là 'đồng xu') - với hy vọng từ đây phá vây, nối lại liên lạc với Leningrad đang bị phong toả. Suốt nhiều tháng ròng, binh sĩ Xô Viết bám trụ dưới mưa bom bão đạn trong điều kiện vô cùng khắc nghiệt; tổn thất tại đây được xem là cực kỳ nặng nề, khiến địa danh này trở thành biểu tượng của lòng quả cảm và sự hy sinh. Quần thể tưởng niệm dần hình thành từ năm 1952 với cột tháp cao, về sau bổ sung xe tăng T-34, pháo và đặc biệt là tượng đài «Tảng đá Biên cương» (Rubezhny Kamen) khánh thành ngày 12 tháng 9 năm 1972 - khối gang và đá hoa cương lồng vào nhau, khắc hình người lính và những vần thơ của Robert Rozhdestvensky. Là một mắt xích của 'Vành đai Vinh quang Xanh' bảo vệ Leningrad, nơi đây nay là không gian tưởng niệm trang nghiêm, nhắc nhớ cái giá của hoà bình. Du khách đến đây trong tâm thế tưởng niệm, có thể kết hợp thăm bảo tàng - khu bảo tồn 'Chọc thủng vòng vây Leningrad' gần đó.",
+    "highlights_vi": [
+      "Bãi đất đầu cầu bên bờ đông sông Neva - một trong những chiến địa khốc liệt nhất thời phong toả Leningrad.",
+      "Tượng đài «Tảng đá Biên cương» (Rubezhny Kamen, 1972) khắc thơ Robert Rozhdestvensky.",
+      "Một mắt xích của 'Vành đai Vinh quang Xanh'; có xe tăng T-34 và cột tháp tưởng niệm."
+    ],
+    "practical": {
+      "hours_vi": "Khu tưởng niệm ngoài trời, tham quan tự do quanh năm.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 30-45 phút.",
+      "best_time_vi": "Cuối xuân đến đầu thu; các ngày lễ tưởng niệm (9/5, các mốc phá vây) rất trang trọng.",
+      "tips_vi": "Đến đây với thái độ tưởng niệm trang nghiêm. Thuận tiện đi ô tô từ Sankt-Peterburg theo hướng Kirovsk; có thể kết hợp bảo tàng - khu bảo tồn 'Proryv' (Chọc thủng vòng vây Leningrad)."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%20%C2%AB%D0%9D%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%8F%D1%82%D0%B0%D1%87%D0%BE%D0%BA%C2%BB%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C&ll=30.956176,59.841954&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Nevsky%20Pyatachok%20Memorial%2C%20Leningrad%20Oblast%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Невский пятачок",
+        "url": "https://ru.wikipedia.org/wiki/Невский_пятачок"
+      },
+      {
+        "title": "Artefact (ar.culture.ru) — Невский пятачок",
+        "url": "https://ar.culture.ru/ru/subject/nevskiy-pyatachok"
+      }
+    ],
+    "tags": [
+      "monument",
+      "memorial",
+      "wwii",
+      "leningrad-blockade",
+      "kirovsk",
+      "neva",
+      "leningrad-oblast"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "leningrad-oblast-antonievo-dymsky-monastery",
+    "slug": "antonievo-dymsky-monastery",
+    "region": "leningrad-oblast",
+    "region_name_vi": "Tỉnh Leningrad",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Tu viện Antoniyevo-Dymsky (gần Tikhvin)",
+    "name_ru": "Антониево-Дымский монастырь",
+    "name_en": "Anthony-Dymsky Monastery",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 59.57228,
+      "lon": 33.675936
+    },
+    "address_vi": "Làng Bronevik, bên hồ Dymskoye, huyện Boksitogorsk, Tỉnh Leningrad; cách thành phố Tikhvin khoảng 15-17 km về phía đông nam.",
+    "rating": null,
+    "presentation_short_vi": "Tu viện Antoniyevo-Dymsky bên hồ Dymskoye được xem là một trong những tu viện lâu đời nhất miền tây bắc nước Nga, gắn với Thánh Antoniy Dymsky ở thế kỷ 13. Người hành hương có truyền thống dầm mình dưới hồ, nơi có cây thánh giá đánh dấu chỗ vị thánh từng cầu nguyện.",
+    "presentation_long_vi": "Nằm bên hồ Dymskoye tĩnh lặng, cách Tikhvin chừng 15-17 km về phía đông nam, Tu viện Antoniyevo-Dymsky được coi là một trong những tu viện cổ xưa nhất của vùng tây bắc nước Nga. Theo truyền thống, tu viện gắn với Thánh Antoniy Dymsky, người đã tới ẩn tu bên hồ vào thế kỷ 13 và được tôn kính là vị sáng lập; thánh tích của ngài được lưu giữ tại đây. Một nét độc đáo của nơi này là tục hành hương ra hồ Dymskoye: giữa hồ có một tảng đá và cây thánh giá đánh dấu chỗ tương truyền Thánh Antoniy từng đứng cầu nguyện, và khách mộ đạo có lệ dầm mình xuống làn nước được xem là thiêng. Quần thể tu viện với nhà thờ chính thờ Icon Đức Mẹ Kazan cùng các nhà nguyện đã trải qua nhiều lần hưng phế - bị tàn phá, đóng cửa rồi hồi sinh - và nay là một nam tu viện đang hoạt động, thu hút khách hành hương và những ai muốn tìm chốn tĩnh lặng giữa thiên nhiên. Với bề dày lịch sử và khung cảnh hồ nước thanh bình, Antoniyevo-Dymsky là điểm đến ý nghĩa để kết hợp cùng Tu viện Đức Mẹ Lên Trời Tikhvin nổi tiếng trong cùng hành trình.",
+    "highlights_vi": [
+      "Một trong những tu viện cổ nhất tây bắc nước Nga, gắn với Thánh Antoniy Dymsky thế kỷ 13.",
+      "Tục hành hương dầm mình dưới hồ Dymskoye, nơi có thánh giá đánh dấu chỗ vị thánh cầu nguyện.",
+      "Nhà thờ thờ Icon Đức Mẹ Kazan và thánh tích Thánh Antoniy; nay là nam tu viện đang hoạt động."
+    ],
+    "practical": {
+      "hours_vi": "Tu viện đang hoạt động, mở cửa hằng ngày theo giờ lễ.",
+      "ticket_vi": "Vào tự do (khuyến khích công đức tuỳ tâm).",
+      "duration_vi": "Khoảng 45 phút - 1 giờ.",
+      "best_time_vi": "Cuối xuân đến đầu thu; mùa hè thuận tiện cho tục dầm mình dưới hồ.",
+      "tips_vi": "Trang phục kín đáo. Đường tới tu viện khá xa, tự lái hoặc theo tour hành hương từ Tikhvin sẽ thuận tiện; dễ kết hợp với Tu viện Đức Mẹ Lên Trời Tikhvin."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%B5%D0%B2%D0%BE-%D0%94%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C&ll=33.675936,59.57228&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Anthony-Dymsky%20Monastery%2C%20Leningrad%20Oblast%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Соборы.ру — Броневик, Антониево-Дымский Троицкий мужской монастырь",
+        "url": "https://sobory.ru/article/?object=06588"
+      },
+      {
+        "title": "Глобус Санкт-Петербургской митрополии — Антониево-Дымский мужской монастырь",
+        "url": "https://globus.aquaviva.ru/antonievo-dymskiy-muzhskoy-monastyr"
+      }
+    ],
+    "tags": [
+      "church",
+      "monastery",
+      "orthodox",
+      "pilgrimage",
+      "tikhvin",
+      "lake",
+      "leningrad-oblast"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
   }
 ]

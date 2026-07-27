@@ -41,8 +41,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Mamayev%20Kurgan%20Volgograd.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=44.53694,48.7425&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=48.7425,44.53694"
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D0%B0%D0%BC%D0%B0%D0%B5%D0%B2%20%D0%BA%D1%83%D1%80%D0%B3%D0%B0%D0%BD%2C%20%C2%AB%D0%A0%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0-%D0%BC%D0%B0%D1%82%D1%8C%20%D0%B7%D0%BE%D0%B2%D1%91%D1%82%21%C2%BB&ll=44.53694,48.7425&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Mamayev%20Kurgan%20%E2%80%93%20The%20Motherland%20Calls%2C%20Volgograd%2C%20Russia"
     },
     "official_site": "https://stalingrad-battle.ru",
     "sources": [
@@ -60,7 +60,8 @@
       "soviet"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "volgograd-panorama-stalingrad-battle",
@@ -103,8 +104,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Volgograd%20panorama%20museum.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=44.533337,48.715061&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=48.715061,44.533337"
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%B9-%D0%BF%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D0%B0%20%C2%AB%D0%A1%D1%82%D0%B0%D0%BB%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B1%D0%B8%D1%82%D0%B2%D0%B0%C2%BB&ll=44.533337,48.715061&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=The%20Battle%20of%20Stalingrad%20Panorama%20Museum%2C%20Volgograd%2C%20Russia"
     },
     "official_site": "https://stalingrad-battle.ru",
     "sources": [
@@ -122,7 +123,8 @@
       "military"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "volgograd-gerhardt-mill-ruins",
@@ -165,8 +167,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Gerhardt%27s%20Mill%20-%202024-02-17a.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=44.533078,48.71549&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=48.71549,44.533078"
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D0%B0%20%D0%93%D0%B5%D1%80%D0%B3%D0%B0%D1%80%D0%B4%D1%82%D0%B0&ll=44.533078,48.71549&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Gerhardt%20Mill%20%28ruins%29%2C%20Volgograd%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -183,7 +185,8 @@
       "stalingrad"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "volgograd-old-sarepta",
@@ -226,8 +229,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Distillery%20Old%20Sarepta%20Volgograd%202023-07-13%206389.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=44.550847,48.512275&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=48.512275,44.550847"
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D1%82%D0%B0%D1%80%D0%B0%D1%8F%20%D0%A1%D0%B0%D1%80%D0%B5%D0%BF%D1%82%D0%B0&ll=44.550847,48.512275&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Old%20Sarepta%2C%20Volgograd%2C%20Russia"
     },
     "official_site": "https://sareptamuseum.ru",
     "sources": [
@@ -244,7 +247,8 @@
       "ethnography"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "volgograd-central-embankment-volgograd",
@@ -288,8 +292,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20central%20embankment%20of%20Volgograd%20006.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=44.521389,48.703889&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=48.703889,44.521389"
+      "yandex": "https://yandex.com/maps/?text=%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F%20%28%D0%9D%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F%2062-%D0%B9%20%D0%90%D1%80%D0%BC%D0%B8%D0%B8%29&ll=44.521389,48.703889&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Central%20Embankment%20%2862nd%20Army%20Embankment%29%2C%20Volgograd%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -306,7 +310,8 @@
       "soviet-architecture"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "volgograd-volga-don-canal-lenin",
@@ -349,8 +354,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Volga-Don%20Canal%20-a.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=44.558888,48.527686&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=48.527686,44.558888"
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D0%BE%D0%BB%D0%B3%D0%BE-%D0%94%D0%BE%D0%BD%D1%81%D0%BA%D0%BE%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%2C%20%D1%88%D0%BB%D1%8E%D0%B7%20%E2%84%961%2C%20%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%8F%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0&ll=44.558888,48.527686&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Volga%E2%80%93Don%20Canal%20%E2%80%93%20Lock%20No.%201%20and%20Lenin%20Monument%2C%20Volgograd%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -367,7 +372,8 @@
       "engineering"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "volgograd-volzhskaya-hydro-station",
@@ -405,8 +411,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Volga%20Hydroelectric%20Station%20002.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=44.67667,48.82444&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=48.82444,44.67667"
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D0%BE%D0%BB%D0%B6%D1%81%D0%BA%D0%B0%D1%8F%20%D0%93%D0%AD%D0%A1&ll=44.67667,48.82444&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Volzhskaya%20Hydroelectric%20Station%2C%20Volgograd%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -423,6 +429,7 @@
       "engineering"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   }
 ]

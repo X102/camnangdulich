@@ -41,8 +41,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Smolensk%20by%20Ginsburg%20-%2000036.%20Smolensk%20fortress%20wall.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=32.04395,54.77997&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.77997,32.04395"
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D0%BD%D0%B0%D1%8F%20%D1%81%D1%82%D0%B5%D0%BD%D0%B0&ll=32.04395,54.77997&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Smolensk%20Fortress%20Wall%2C%20Russia"
     },
     "official_site": "https://www.smolensk-museum.ru/",
     "sources": [
@@ -59,7 +59,8 @@
       "military-history"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "smolensk-assumption-cathedral-smolensk",
@@ -102,8 +103,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Uspensky%20cathedral.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=32.05444,54.78889&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.78889,32.05444"
+      "yandex": "https://yandex.com/maps/?text=%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D0%B1%D0%BE%D1%80%20%28%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%29&ll=32.05444,54.78889&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Assumption%20Cathedral%2C%20Smolensk%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -120,7 +121,8 @@
       "cathedral-hill"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "smolensk-talashkino-teremok-flyonovo",
@@ -164,8 +166,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Holy%20Spirit%20Church%20%28Talashkino%3B%202013-11-10%29%2014.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=32.209323,54.6597&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.6597,32.209323"
+      "yandex": "https://yandex.com/maps/?text=%D0%A2%D0%B0%D0%BB%D0%B0%D1%88%D0%BA%D0%B8%D0%BD%D0%BE%2C%20%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%BE-%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%20%C2%AB%D0%A2%D0%B5%D1%80%D0%B5%D0%BC%D0%BE%D0%BA%C2%BB%20%28%D0%A4%D0%BB%D1%91%D0%BD%D0%BE%D0%B2%D0%BE%29&ll=32.209323,54.6597&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Talashkino%20Estate%20and%20Teremok%2C%20Flyonovo%2C%20Smolensk%2C%20Russia"
     },
     "official_site": "https://www.smolensk-museum.ru/catalog/teremok/",
     "sources": [
@@ -183,7 +185,8 @@
       "estate"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "smolensk-katyn-memorial",
@@ -227,8 +230,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%A0%D0%B8%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D0%BA%D0%B0%20%D0%9C%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D0%B0%20%C2%AB%D0%9A%D0%B0%D1%82%D1%8B%D0%BD%D1%8C%C2%BB.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=31.788507,54.7754&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.7754,31.788507"
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%20%C2%AB%D0%9A%D0%B0%D1%82%D1%8B%D0%BD%D1%8C%C2%BB&ll=31.788507,54.7754&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Katyn%20Memorial%2C%20Smolensk%2C%20Russia"
     },
     "official_site": "https://memorial-katyn.ru/",
     "sources": [
@@ -246,7 +249,8 @@
       "poland"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "smolensk-gnyozdovo-burial-mounds",
@@ -290,8 +294,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Gnezdovo%20complex%20-%20Forest%20kurgan%20group%20-%2020.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=31.87944,54.78472&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.78472,31.87944"
+      "yandex": "https://yandex.com/maps/?text=%D0%93%D0%BD%D1%91%D0%B7%D0%B4%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BA%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D1%8B%20%28%D0%93%D0%BD%D1%91%D0%B7%D0%B4%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D1%80%D1%85%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%29&ll=31.87944,54.78472&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Gnyozdovo%20Burial%20Mounds%2C%20Smolensk%2C%20Russia"
     },
     "official_site": "https://gnezdovo-museum.ru/",
     "sources": [
@@ -308,7 +312,8 @@
       "history"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "smolensk-khmelita-griboyedov-estate",
@@ -352,8 +357,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=33.888706,55.40559&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=55.40559,33.888706"
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%B9-%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA%20%D0%90.%20%D0%A1.%20%D0%93%D1%80%D0%B8%D0%B1%D0%BE%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%20%C2%AB%D0%A5%D0%BC%D0%B5%D0%BB%D0%B8%D1%82%D0%B0%C2%BB&ll=33.888706,55.40559&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Griboyedov%20Estate-Museum%20Khmelita%2C%20Smolensk%2C%20Russia"
     },
     "official_site": "https://khmelita.com/",
     "sources": [
@@ -370,7 +375,8 @@
       "literature"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "smolensk-smolensk-lakeland-national-park",
@@ -408,8 +414,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%92%D0%B8%D0%B4%20%D0%BD%D0%B0%20%D0%B1%D0%B5%D1%80%D0%B5%D0%B3%20%D0%BE%D0%B7%D0%B5%D1%80%D0%B0.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=31.867,55.517&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=55.517,31.867"
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%B0%D1%80%D0%BA%20%C2%AB%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%B5%20%D0%9F%D0%BE%D0%BE%D0%B7%D0%B5%D1%80%D1%8C%D0%B5%C2%BB&ll=31.867,55.517&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Smolenskoye%20Poozerye%20National%20Park%20%28Smolensk%20Lakeland%29%2C%20Russia"
     },
     "official_site": "https://www.poozerie.ru/",
     "sources": [
@@ -427,7 +433,8 @@
       "przhevalsky"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "smolensk-vyazma",
@@ -472,8 +479,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Vazma-P1020923.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=34.2912,55.2107&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=55.2107,34.2912"
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D1%8F%D0%B7%D1%8C%D0%BC%D0%B0&ll=34.2912,55.2107&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Vyazma%2C%20Smolensk%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -490,6 +497,7 @@
       "wwii-history"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   }
 ]

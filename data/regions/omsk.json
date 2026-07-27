@@ -40,8 +40,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Dormition%20Cathedral%20in%20Omsk.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=73.36713,54.990178&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.990178,73.36713"
+      "yandex": "https://yandex.com/maps/?text=%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%81%D0%BE%D0%B1%D0%BE%D1%80&ll=73.36713,54.990178&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Dormition%20%28Assumption%29%20Cathedral%2C%20Omsk%2C%20Russia"
     },
     "official_site": "https://omsk-sobor.ru",
     "sources": [
@@ -60,7 +60,8 @@
       "architecture"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "omsk-lyubinsky-avenue",
@@ -103,8 +104,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=73.374308,54.985928&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.985928,73.374308"
+      "yandex": "https://yandex.com/maps/?text=%D0%9B%D1%8E%D0%B1%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%28%D1%83%D0%BB%D0%B8%D1%86%D0%B0%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0%29&ll=73.374308,54.985928&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Lyubinsky%20Avenue%20%28Lenin%20Street%29%2C%20Omsk%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -122,7 +123,8 @@
       "siberia"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "omsk-omsk-fortress",
@@ -165,8 +167,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Omsk%20fortress%20view%20from%20Tobolsk%20Gate.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=73.362759,54.985534&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.985534,73.362759"
+      "yandex": "https://yandex.com/maps/?text=%D0%9E%D0%BC%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C&ll=73.362759,54.985534&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Omsk%20Fortress%2C%20Russia"
     },
     "official_site": "https://omskfortress.ru",
     "sources": [
@@ -184,7 +186,8 @@
       "siberia"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "omsk-dostoevsky-literary-museum-omsk",
@@ -227,8 +230,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%94%D0%BE%D0%BC%20%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%20%D0%9E%D0%BC%D1%81%D0%BA%D0%BE%D0%B9%20%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D0%B8%203.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=73.368708,54.983665&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.983665,73.368708"
+      "yandex": "https://yandex.com/maps/?text=%D0%9E%D0%BC%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%BD%D1%8B%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%20%D0%A4.%20%D0%9C.%20%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE&ll=73.368708,54.983665&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Omsk%20State%20Literary%20Museum%20named%20after%20F.%20M.%20Dostoevsky%2C%20Russia"
     },
     "official_site": "https://lit-museum.ru",
     "sources": [
@@ -245,7 +248,8 @@
       "siberia"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "omsk-ptichya-gavan-park",
@@ -288,8 +292,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D1%82%D0%B8%D1%87%D1%8C%D1%8F%20%D0%B3%D0%B0%D0%B2%D0%B0%D0%BD%D1%8C%20%D0%B2%20%D0%9E%D0%BC%D1%81%D0%BA%D0%B5.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=73.343572,54.973006&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.973006,73.343572"
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%B0%D1%80%D0%BA%20%C2%AB%D0%9F%D1%82%D0%B8%D1%87%D1%8C%D1%8F%20%D0%B3%D0%B0%D0%B2%D0%B0%D0%BD%D1%8C%C2%BB&ll=73.343572,54.973006&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Ptichya%20Gavan%20Natural%20Park%20%28Bird%20Harbour%29%2C%20Omsk%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -307,7 +311,8 @@
       "siberia"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "omsk-achair-monastery",
@@ -350,8 +355,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=73.818308,54.668736&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.668736,73.818308"
+      "yandex": "https://yandex.com/maps/?text=%D0%90%D1%87%D0%B0%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C%20%28%D0%90%D1%87%D0%B0%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C%20%D0%A7%D0%B5%D1%81%D1%82%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%9A%D1%80%D0%B5%D1%81%D1%82%D0%B0%20%D0%93%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D0%BD%D1%8F%29&ll=73.818308,54.668736&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Achair%20Monastery%20%28Achair%20Cross%20Convent%29%2C%20Omsk%2C%20Russia"
     },
     "official_site": "https://achair.ru",
     "sources": [
@@ -369,7 +374,8 @@
       "siberia"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "omsk-vrubel-museum-of-fine-arts",
@@ -412,8 +418,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Omsk%20Vrubel%20Museum.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=73.372877,54.988198&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.988198,73.372877"
+      "yandex": "https://yandex.com/maps/?text=%D0%9E%D0%BC%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%BD%D0%BE%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%20%D0%9C.%20%D0%90.%20%D0%92%D1%80%D1%83%D0%B1%D0%B5%D0%BB%D1%8F&ll=73.372877,54.988198&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Omsk%20Regional%20Museum%20of%20Fine%20Arts%20named%20after%20M.%20A.%20Vrubel%2C%20Russia"
     },
     "official_site": "https://vrubel.ru",
     "sources": [
@@ -431,6 +437,7 @@
       "siberia"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   }
 ]

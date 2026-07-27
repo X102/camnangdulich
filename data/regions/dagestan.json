@@ -42,8 +42,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Derbent.%20Naryn-Kala%20citadel.%20The%20curtain%20wall.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=48.27417,42.05306&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=42.05306,48.27417"
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C%20%D0%9D%D0%B0%D1%80%D1%8B%D0%BD-%D0%9A%D0%B0%D0%BB%D0%B0%20%28%D0%94%D0%B5%D1%80%D0%B1%D0%B5%D0%BD%D1%82%29&ll=48.27417,42.05306&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Naryn-Kala%20Citadel%2C%20Derbent%2C%20Dagestan%2C%20Russia"
     },
     "official_site": "https://derbentmuseum.ru/",
     "sources": [
@@ -61,7 +61,8 @@
       "caspian"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-07-17",
+    "country": "russia"
   },
   {
     "id": "dagestan-juma-mosque-derbent",
@@ -105,8 +106,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Grand%20mosque%20of%20Derbent.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=48.27972,42.05528&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=42.05528,48.27972"
+      "yandex": "https://yandex.com/maps/?text=%D0%94%D0%B6%D1%83%D0%BC%D0%B0-%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C%20%D0%94%D0%B5%D1%80%D0%B1%D0%B5%D0%BD%D1%82%D0%B0&ll=48.27972,42.05528&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Juma%20Mosque%20of%20Derbent%2C%20Dagestan%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -124,7 +125,8 @@
       "heritage"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-07-17",
+    "country": "russia"
   },
   {
     "id": "dagestan-sulak-canyon",
@@ -167,8 +169,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Sulak%20Canyon%20in%20Dagestan.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=46.82778,43.00944&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=43.00944,46.82778"
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D1%83%D0%BB%D0%B0%D0%BA%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B0%D0%BD%D1%8C%D0%BE%D0%BD&ll=46.82778,43.00944&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Sulak%20Canyon%2C%20Dagestan%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -186,7 +188,8 @@
       "deepest"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-07-17",
+    "country": "russia"
   },
   {
     "id": "dagestan-sarykum-dune",
@@ -229,8 +232,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%A1%D0%B0%D1%80%D1%8B%D0%BA%D1%83%D0%BC%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B1%D0%B0%D1%80%D1%85%D0%B0%D0%BD.%20%D0%94%D0%B0%D0%B3%D0%B5%D1%81%D1%82%D0%B0%D0%BD.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=47.23694,43.01&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=43.01,47.23694"
+      "yandex": "https://yandex.com/maps/?text=%D0%91%D0%B0%D1%80%D1%85%D0%B0%D0%BD%20%D0%A1%D0%B0%D1%80%D1%8B%D0%BA%D1%83%D0%BC&ll=47.23694,43.01&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Sarykum%20Dune%2C%20Dagestan%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -248,7 +251,8 @@
       "film-location"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-07-17",
+    "country": "russia"
   },
   {
     "id": "dagestan-gamsutl-ghost-village",
@@ -292,8 +296,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%93%D0%B0%D0%BC%D1%81%D1%83%D1%82%D0%BB%D1%8C.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=46.99639,42.30278&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=42.30278,46.99639"
+      "yandex": "https://yandex.com/maps/?text=%D0%93%D0%B0%D0%BC%D1%81%D1%83%D1%82%D0%BB%D1%8C&ll=46.99639,42.30278&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Gamsutl%20%28ghost%20village%29%2C%20Dagestan%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -311,7 +315,8 @@
       "avar"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-07-17",
+    "country": "russia"
   },
   {
     "id": "dagestan-gunib",
@@ -355,8 +360,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Wall%20at%20Gunib%2C%20Dagestan%2C%20RU.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=46.96167,42.38667&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=42.38667,46.96167"
+      "yandex": "https://yandex.com/maps/?text=%D0%93%D1%83%D0%BD%D0%B8%D0%B1&ll=46.96167,42.38667&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Gunib%2C%20Dagestan%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -374,7 +379,8 @@
       "caucasian-war"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-07-17",
+    "country": "russia"
   },
   {
     "id": "dagestan-saltinskaya-gorge-waterfall",
@@ -418,8 +424,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=47.06702,42.389392&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=42.389392,47.06702"
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%B0%D0%BB%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D1%82%D0%B5%D1%81%D0%BD%D0%B8%D0%BD%D0%B0%20%28%D0%A1%D0%B0%D0%BB%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4%29&ll=47.06702,42.389392&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Saltinskaya%20Gorge%20%28Saltinsky%20Waterfall%29%2C%20Dagestan%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -437,7 +443,8 @@
       "photography"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-07-17",
+    "country": "russia"
   },
   {
     "id": "dagestan-makhachkala-central-mosque",
@@ -481,8 +488,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Makhachkala%20mosque%201.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=47.49389,42.96917&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=42.96917,47.49389"
+      "yandex": "https://yandex.com/maps/?text=%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%94%D0%B6%D1%83%D0%BC%D0%B0-%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C%20%D0%9C%D0%B0%D1%85%D0%B0%D1%87%D0%BA%D0%B0%D0%BB%D1%8B&ll=47.49389,42.96917&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Central%20Juma%20Mosque%20%28Grand%20Mosque%29%20of%20Makhachkala%2C%20Dagestan%2C%20Russia"
     },
     "official_site": "https://massjid.ru",
     "sources": [
@@ -500,6 +507,7 @@
       "landmark"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-07-17",
+    "country": "russia"
   }
 ]

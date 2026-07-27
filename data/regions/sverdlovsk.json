@@ -41,8 +41,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Church%20on%20the%20Blood%2C%20Yekaterinburg%20%28110%29.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=60.608877,56.844381&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=56.844381,60.608877"
+      "yandex": "https://yandex.com/maps/?text=%D0%A5%D1%80%D0%B0%D0%BC-%D0%BD%D0%B0-%D0%9A%D1%80%D0%BE%D0%B2%D0%B8%20%D0%B2%D0%BE%20%D0%B8%D0%BC%D1%8F%20%D0%92%D1%81%D0%B5%D1%85%20%D1%81%D0%B2%D1%8F%D1%82%D1%8B%D1%85%2C%20%D0%B2%20%D0%B7%D0%B5%D0%BC%D0%BB%D0%B5%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D1%81%D0%B8%D1%8F%D0%B2%D1%88%D0%B8%D1%85&ll=60.608877,56.844381&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Church%20on%20the%20Blood%2C%20Sverdlovsk%2C%20Russia"
     },
     "official_site": "https://xram-na-krovi.ru/",
     "sources": [
@@ -59,7 +59,8 @@
       "architecture"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "sverdlovsk-ganina-yama-monastery",
@@ -103,8 +104,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Ganina%20Jama%201.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=60.473417,56.941839&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=56.941839,60.473417"
+      "yandex": "https://yandex.com/maps/?text=%D0%93%D0%B0%D0%BD%D0%B8%D0%BD%D0%B0%20%D0%AF%D0%BC%D0%B0%20%28%D0%9C%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C%20%D0%A1%D0%B2%D1%8F%D1%82%D1%8B%D1%85%20%D0%A6%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D1%85%20%D0%A1%D1%82%D1%80%D0%B0%D1%81%D1%82%D0%BE%D1%82%D0%B5%D1%80%D0%BF%D1%86%D0%B5%D0%B2%29&ll=60.473417,56.941839&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Ganina%20Yama%20%28Monastery%20of%20the%20Holy%20Royal%20Martyrs%29%2C%20Sverdlovsk%2C%20Russia"
     },
     "official_site": "https://ganinayama.ru/",
     "sources": [
@@ -121,7 +122,8 @@
       "forest"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "sverdlovsk-vysotsky-tower-observation",
@@ -164,8 +166,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Vysotsky%20skyscraper%20%28August%202022%29%20-%208.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=60.614521,56.836022&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=56.836022,60.614521"
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%BC%D0%BE%D1%82%D1%80%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D0%BA%D0%B0%20%C2%AB%D0%92%D1%8B%D1%81%D0%BE%D1%86%D0%BA%D0%B8%D0%B9%C2%BB&ll=60.614521,56.836022&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Vysotsky%20Skyscraper%20Observation%20Deck%2C%20Sverdlovsk%2C%20Russia"
     },
     "official_site": "https://visotsky-e.ru/",
     "sources": [
@@ -182,7 +184,8 @@
       "city"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "sverdlovsk-europe-asia-border-obelisk",
@@ -225,8 +228,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Yekaterinburg%20Border%20Asia%20Europe.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=60.350693,56.832136&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=56.832136,60.350693"
+      "yandex": "https://yandex.com/maps/?text=%D0%9E%D0%B1%D0%B5%D0%BB%D0%B8%D1%81%D0%BA%20%C2%AB%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B0%20%E2%80%94%20%D0%90%D0%B7%D0%B8%D1%8F%C2%BB&ll=60.350693,56.832136&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Europe-Asia%20Border%20Obelisk%2C%20Sverdlovsk%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -243,7 +246,8 @@
       "photo-spot"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "sverdlovsk-deer-streams-park",
@@ -286,8 +290,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9E%D0%BB%D0%B5%D0%BD%D1%8C%D0%B8%20%D1%80%D1%83%D1%87%D1%8C%D0%B8%20%D0%B1%D0%BE%D1%80%D1%82%D1%8C.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=59.245134,56.517224&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=56.517224,59.245134"
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%B0%D1%80%D0%BA%20%C2%AB%D0%9E%D0%BB%D0%B5%D0%BD%D1%8C%D0%B8%20%D1%80%D1%83%D1%87%D1%8C%D0%B8%C2%BB&ll=59.245134,56.517224&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Deer%20Streams%20Nature%20Park%2C%20Sverdlovsk%2C%20Russia"
     },
     "official_site": "http://olenpark.ru/",
     "sources": [
@@ -304,7 +308,8 @@
       "park"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "sverdlovsk-verkhoturye-kremlin",
@@ -348,8 +353,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Verkhoturye%20TrinityCathedral%20DJI%200116.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=60.808585,58.860618&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=58.860618,60.808585"
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D0%B5%D1%80%D1%85%D0%BE%D1%82%D1%83%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D1%80%D0%B5%D0%BC%D0%BB%D1%8C&ll=60.808585,58.860618&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Verkhoturye%20Kremlin%2C%20Sverdlovsk%2C%20Russia"
     },
     "official_site": "https://vgiamz.ru/",
     "sources": [
@@ -366,7 +371,8 @@
       "museum"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "sverdlovsk-nevyansk-leaning-tower",
@@ -410,8 +416,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Tower%20Nevyansk%20overview.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=60.223322,57.489878&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=57.489878,60.223322"
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%B5%D0%B2%D1%8C%D1%8F%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BD%D0%B0%D0%BA%D0%BB%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%B1%D0%B0%D1%88%D0%BD%D1%8F&ll=60.223322,57.489878&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Leaning%20Tower%20of%20Nevyansk%2C%20Sverdlovsk%2C%20Russia"
     },
     "official_site": "https://nevyanskaya-bashnya.ru/",
     "sources": [
@@ -428,7 +434,8 @@
       "engineering"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
   },
   {
     "id": "sverdlovsk-yekaterinburg-plotinka",
@@ -472,8 +479,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Water%20tower%20at%20the%20City%20Pond%2C%20Yekaterinburg.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=60.60417,56.836763&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=56.836763,60.60417"
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%BB%D0%BE%D1%82%D0%B8%D0%BD%D0%BA%D0%B0%20%28%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BA%D0%B2%D0%B5%D1%80%29&ll=60.60417,56.836763&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Plotinka%20%28Historical%20Square%29%2C%20Sverdlovsk%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -490,6 +497,870 @@
       "history"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-18"
+    "last_updated": "2026-07-18",
+    "country": "russia"
+  },
+  {
+    "id": "sverdlovsk-yeltsin-center",
+    "slug": "yeltsin-center",
+    "region": "sverdlovsk",
+    "region_name_vi": "Tỉnh Sverdlovsk",
+    "federal_district": "Vùng Ural",
+    "name_vi": "Trung tâm Yeltsin (Yeltsin Center), Yekaterinburg",
+    "name_ru": "Ельцин-центр (Президентский центр Б. Н. Ельцина)",
+    "name_en": "Boris Yeltsin Presidential Center",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 56.8445,
+      "lon": 60.5911
+    },
+    "address_vi": "Ul. Borisa Yeltsina 3, ven sông Iset, trung tâm Yekaterinburg, tỉnh Sverdlovsk",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Tổ hợp văn hóa – giáo dục hiện đại khánh thành năm 2015 bên sông Iset, với điểm nhấn là Bảo tàng Boris Yeltsin kể lại lịch sử chính trị nước Nga thập niên 1990 qua 'bảy ngày' bước ngoặt. Năm 2017, nơi đây được Hội đồng châu Âu vinh danh là bảo tàng xuất sắc nhất châu Âu.",
+    "presentation_long_vi": "Nằm bên bờ sông Iset giữa lòng Yekaterinburg, Trung tâm Yeltsin là một trong những không gian bảo tàng hiện đại và cũng gây tranh luận nhất nước Nga. Khánh thành năm 2015, công trình do kiến trúc sư Boris Bernaskoni thiết kế với khối kiến trúc tương lai, mặt ngoài bằng kim loại đục lỗ có thể biến thành màn hình media khổng lồ khi đêm xuống. Trái tim của tổ hợp là Bảo tàng Boris Yeltsin, dành cho vị Tổng thống đầu tiên của nước Nga và giai đoạn lịch sử đầy biến động cuối thập niên 1980 đến 1990. Lối trưng bày giàu tính điện ảnh: hành trình được chia thành 'bảy ngày' — bảy bước ngoặt như cuộc mít tinh đòi đổi thay, cuộc đảo chính tháng Tám 1991, những cải cách kinh tế đau đớn, sự ra đời của Hiến pháp mới — với các không gian tái dựng sống động căn hộ, đường phố và phòng làm việc của thời kỳ ấy. Năm 2017, Trung tâm được Hội đồng châu Âu trao giải Bảo tàng châu Âu xuất sắc, lần đầu tiên cho một bảo tàng Nga. Ngoài bảo tàng, nơi đây còn có phòng tranh nghệ thuật, rạp chiếu kiêm hội trường, hiệu sách và thường xuyên tổ chức hòa nhạc, liên hoan phim, các buổi diễn thuyết — trở thành điểm hẹn văn hóa sôi động của cả vùng Ural.",
+    "highlights_vi": [
+      "Khánh thành năm 2015; kiến trúc tương lai của Boris Bernaskoni, mặt ngoài biến thành màn hình media về đêm.",
+      "Bảo tàng Boris Yeltsin kể lịch sử nước Nga thập niên 1990 qua 'bảy ngày' bước ngoặt, trưng bày giàu tính điện ảnh.",
+      "Được Hội đồng châu Âu vinh danh Bảo tàng châu Âu xuất sắc 2017 — bảo tàng Nga đầu tiên đoạt giải."
+    ],
+    "practical": {
+      "hours_vi": "Bảo tàng thường mở 10:00–21:00, đóng cửa Thứ Hai (kiểm tra lịch chính thức).",
+      "ticket_vi": "Có thu phí vé vào Bảo tàng Yeltsin; nhiều khu vực công cộng khác vào tự do.",
+      "duration_vi": "1,5–2,5 giờ.",
+      "best_time_vi": "Quanh năm (không gian trong nhà).",
+      "tips_vi": "Có audio guide; kết hợp dạo bờ kè sông Iset và khu Ekaterinburg-City gần đó."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%95%D0%BB%D1%8C%D1%86%D0%B8%D0%BD-%D1%86%D0%B5%D0%BD%D1%82%D1%80%20%28%D0%9F%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D1%86%D0%B5%D0%BD%D1%82%D1%80%20%D0%91.%20%D0%9D.%20%D0%95%D0%BB%D1%8C%D1%86%D0%B8%D0%BD%D0%B0%29&ll=60.5911,56.8445&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Boris%20Yeltsin%20Presidential%20Center%2C%20Sverdlovsk%2C%20Russia"
+    },
+    "official_site": "https://yeltsin.ru",
+    "sources": [
+      {
+        "title": "Boris Yeltsin Presidential Center — Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Boris_Yeltsin_Presidential_Center"
+      },
+      {
+        "title": "Yeltsin Center — trang chính thức",
+        "url": "https://yeltsin.ru/"
+      }
+    ],
+    "tags": [
+      "modern",
+      "museum",
+      "history",
+      "architecture",
+      "indoor"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-24",
+    "country": "russia"
+  },
+  {
+    "id": "sverdlovsk-sevastyanov-house",
+    "slug": "sevastyanov-house",
+    "region": "sverdlovsk",
+    "region_name_vi": "Tỉnh Sverdlovsk",
+    "federal_district": "Vùng Ural",
+    "name_vi": "Dinh thự Sevastyanov (Dom Sevastyanova)",
+    "name_ru": "Дом Севастьянова",
+    "name_en": "Sevastyanov House",
+    "categories": [
+      "palace",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 56.83889,
+      "lon": 60.60583
+    },
+    "address_vi": "Проспект Ленина, 35, bên bờ đông hồ Thành phố (City Pond), trung tâm Yekaterinburg, tỉnh Sverdlovsk, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Dinh thự lộng lẫy bên bờ hồ Thành phố được xem là một trong những toà nhà đẹp nhất Yekaterinburg. Công trình nổi bật với lối trang trí tân-Gothic pha sắc thái Moor cùng ba màu trắng – lục – đỏ hiếm gặp. Sau đợt trùng tu 2008, dinh thự trở thành dinh tiếp tân của Tổng thống Liên bang Nga tại Yekaterinburg.",
+    "presentation_long_vi": "Đứng ngay góc phố Lenin và bờ đông hồ Thành phố, dinh thự Sevastyanov là một trong những công trình dân dụng tráng lệ và được yêu thích nhất Yekaterinburg. Toà nhà hình thành từ đầu thế kỷ 19 và được cải tạo lớn vào những năm 1860 cho viên quan Nikolai Sevastyanov, mang diện mạo độc đáo pha trộn tân-Gothic với các mô-típ Moor: những vòm nhọn, hoa văn chạm khắc tinh xảo và bảng màu trắng – lục – đỏ rất riêng, ít thấy ở kiến trúc Nga. Có nhiều giai thoại quanh chủ nhân và sự xa hoa của dinh thự, khiến nó sớm trở thành đề tài truyền miệng của người dân thành phố. Thời Xô Viết, toà nhà là Nhà Công đoàn (Дом профсоюзов). Đến năm 2008, nhân dịp thành phố chuẩn bị đón các hội nghị quốc tế lớn, dinh thự được trùng tu toàn diện và trở thành dinh tiếp tân của Tổng thống Nga tại Yekaterinburg. Vì công năng đặc biệt này, bên trong thường không mở cho khách tham quan tự do, nhưng bản thân mặt tiền rực rỡ soi bóng xuống hồ đã là một điểm ngắm và chụp ảnh không thể bỏ qua trên trục phố Lenin, gần sát quảng trường Lịch sử (Plotinka).",
+    "highlights_vi": [
+      "Một trong những toà nhà đẹp và độc đáo nhất Yekaterinburg, phong cách tân-Gothic pha Moor.",
+      "Bảng màu trắng – lục – đỏ hiếm gặp, soi bóng bên bờ hồ Thành phố trên phố Lenin.",
+      "Từ 2008 là dinh tiếp tân của Tổng thống Nga tại Yekaterinburg (thường không mở tham quan bên trong)."
+    ],
+    "practical": {
+      "hours_vi": "Ngắm mặt ngoài mọi lúc; bên trong hạn chế/không mở tham quan tự do do là dinh tiếp tân.",
+      "ticket_vi": "Ngắm bên ngoài miễn phí.",
+      "duration_vi": "Khoảng 15–20 phút chụp ảnh mặt tiền.",
+      "best_time_vi": "Chiều muộn và buổi tối khi toà nhà lên đèn, soi bóng xuống hồ rất đẹp.",
+      "tips_vi": "Kết hợp đi bộ quảng trường Lịch sử (Plotinka) và trục phố Lenin ngay bên cạnh."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%94%D0%BE%D0%BC%20%D0%A1%D0%B5%D0%B2%D0%B0%D1%81%D1%82%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%B0&ll=60.60583,56.83889&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Sevastyanov%20House%2C%20Sverdlovsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikidata — Sevastyanov's house (Q4165394)",
+        "url": "https://www.wikidata.org/wiki/Q4165394"
+      },
+      {
+        "title": "Wikipedia (EN) — Yekaterinburg (Sevastyanov House)",
+        "url": "https://en.wikipedia.org/wiki/Yekaterinburg"
+      }
+    ],
+    "tags": [
+      "architecture",
+      "neo-gothic",
+      "landmark",
+      "city-pond",
+      "yekaterinburg"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "sverdlovsk-rastorguyev-kharitonov-palace",
+    "slug": "rastorguyev-kharitonov-palace",
+    "region": "sverdlovsk",
+    "region_name_vi": "Tỉnh Sverdlovsk",
+    "federal_district": "Vùng Ural",
+    "name_vi": "Điền trang Rastorguyev–Kharitonov và vườn Kharitonov",
+    "name_ru": "Усадьба Расторгуева — Харитонова",
+    "name_en": "Rastorguyev-Kharitonov Palace",
+    "categories": [
+      "palace",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 56.84583,
+      "lon": 60.61333
+    },
+    "address_vi": "Улица Карла Либкнехта, 44, trên đồi Voznesenskaya, đối diện Nhà thờ Trên Máu, Yekaterinburg, tỉnh Sverdlovsk, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Điền trang cổ điển lớn nhất Yekaterinburg, dựng đầu thế kỷ 19 trên đồi Voznesenskaya, đối diện Nhà thờ Trên Máu. Quần thể gắn với nhiều truyền thuyết về hầm ngầm và lối đi bí mật của phái Ly khai (Old Believers). Bên cạnh là vườn Kharitonov – công viên công cộng cổ với hồ nước và đình vọng cảnh.",
+    "presentation_long_vi": "Toạ lạc trên đồi Voznesenskaya, đối diện Nhà thờ Trên Máu, điền trang Rastorguyev–Kharitonov là quần thể kiến trúc cổ điển bề thế và lớn nhất còn lại của Yekaterinburg. Công trình được khởi dựng đầu thế kỷ 19 cho thương gia giàu có Lev Rastorguyev rồi truyền sang con rể Pyotr Kharitonov, với sự tham gia của nhiều kiến trúc sư; kết quả là một dinh cơ đồ sộ gồm toà nhà chính có hàng cột, các dãy nhà phụ, cổng và sân trong. Cả hai chủ nhân đều là tín đồ phái Ly khai giàu có, nên quanh điền trang lưu truyền vô số giai thoại ly kỳ về những căn hầm ngầm, đường hầm bí mật và cả những bi kịch gia đình. Sau Cách mạng, dinh thự được dùng cho mục đích giáo dục và ngày nay là Cung Sáng tạo Thiếu nhi. Liền kề là vườn Kharitonov (Харитоновский сад) – một trong những công viên công cộng lâu đời nhất thành phố, với hồ nước nhân tạo, hòn đảo nhỏ và đình vọng cảnh hình tròn (rotunda) đã trở thành biểu tượng quen thuộc. Đây là nơi lý tưởng để tản bộ, chèo thuyền mùa hè và kết hợp tham quan cùng Nhà thờ Trên Máu gần đó.",
+    "highlights_vi": [
+      "Điền trang cổ điển lớn nhất Yekaterinburg, xây đầu thế kỷ 19 cho các thương gia phái Ly khai.",
+      "Gắn với nhiều truyền thuyết về hầm ngầm và lối đi bí mật.",
+      "Kề bên là vườn Kharitonov với hồ nước và đình rotunda – công viên công cộng cổ nhất thành phố."
+    ],
+    "practical": {
+      "hours_vi": "Vườn Kharitonov mở cửa tự do ban ngày; toà điền trang là Cung Thiếu nhi, tham quan bên trong hạn chế.",
+      "ticket_vi": "Dạo vườn miễn phí.",
+      "duration_vi": "Khoảng 45–60 phút cho cả điền trang và vườn.",
+      "best_time_vi": "Mùa hè để dạo vườn và chèo thuyền trên hồ; mùa thu lá vàng rất đẹp.",
+      "tips_vi": "Kết hợp tham quan Nhà thờ Trên Máu ngay đối diện; ngắm đình rotunda soi bóng trên hồ."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A3%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0%20%D0%A0%D0%B0%D1%81%D1%82%D0%BE%D1%80%D0%B3%D1%83%D0%B5%D0%B2%D0%B0%20%E2%80%94%20%D0%A5%D0%B0%D1%80%D0%B8%D1%82%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0&ll=60.61333,56.84583&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Rastorguyev-Kharitonov%20Palace%2C%20Sverdlovsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN) — Kharitonov Palace",
+        "url": "https://en.wikipedia.org/wiki/Kharitonov_Palace"
+      },
+      {
+        "title": "Wikidata — Rastorguyev-Kharitonov Palace (Q1984395)",
+        "url": "https://www.wikidata.org/wiki/Q1984395"
+      }
+    ],
+    "tags": [
+      "estate",
+      "classicism",
+      "kharitonov-garden",
+      "old-believers",
+      "yekaterinburg"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "sverdlovsk-white-tower-uralmash",
+    "slug": "white-tower-uralmash",
+    "region": "sverdlovsk",
+    "region_name_vi": "Tỉnh Sverdlovsk",
+    "federal_district": "Vùng Ural",
+    "name_vi": "Tháp Trắng ở Uralmash (Belaya bashnya)",
+    "name_ru": "Белая башня",
+    "name_en": "White Tower (Yekaterinburg)",
+    "categories": [
+      "monument",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 56.89306,
+      "lon": 60.5725
+    },
+    "address_vi": "Улица Бакинских Комиссаров, 2, khu công nghiệp Uralmash, Yekaterinburg, tỉnh Sverdlovsk, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Tháp nước theo phong cách Kiến tạo (Constructivism) dựng năm 1929–1931 tại khu Uralmash, do kiến trúc sư Moisei Reisher thiết kế. Cao khoảng 29 m, đây là một trong những biểu tượng tiên phong của kiến trúc avant-garde Xô Viết và là biểu tượng không chính thức của Uralmash.",
+    "presentation_long_vi": "Tháp Trắng là một trong những công trình mang tính biểu tượng nhất của kiến trúc Kiến tạo (Constructivism) Xô Viết và là niềm tự hào của khu công nghiệp Uralmash ở phía bắc Yekaterinburg. Được kiến trúc sư trẻ Moisei Reisher thiết kế và xây trong các năm 1929–1931, tháp cao khoảng 29 mét, gồm một bồn chứa nước lớn đặt trên thân trụ – nhưng thay vì che giấu công năng kỹ thuật, hình khối lại được xử lý táo bạo, khúc chiết theo tinh thần avant-garde, biến một công trình hạ tầng thành tác phẩm nghệ thuật. Đây từng là một trong những kết cấu bê tông cốt thép đầu tiên của thành phố. Khi mạng cấp nước phát triển vào thập niên 1960, tháp ngừng hoạt động và xuống cấp dần. Những năm gần đây, nhờ nỗ lực của nhóm tình nguyện viên kiến trúc, tháp được bảo tồn, phục hồi và trở thành không gian văn hoá – nơi tổ chức triển lãm, sự kiện về di sản kiến tạo. Được công nhận là di sản văn hoá, Tháp Trắng thu hút những người yêu kiến trúc và là điểm nhấn nhận diện của Uralmash.",
+    "highlights_vi": [
+      "Tháp nước Kiến tạo (Constructivism) 1929–1931, kiến trúc sư Moisei Reisher.",
+      "Cao ~29 m, một trong những kết cấu bê tông cốt thép đầu tiên của thành phố.",
+      "Biểu tượng của Uralmash; nay là không gian văn hoá sau khi được phục hồi."
+    ],
+    "practical": {
+      "hours_vi": "Ngắm bên ngoài mọi lúc; bên trong mở theo lịch sự kiện/triển lãm của nhóm bảo tồn.",
+      "ticket_vi": "Ngắm bên ngoài miễn phí; vào trong tuỳ sự kiện.",
+      "duration_vi": "Khoảng 20–30 phút.",
+      "best_time_vi": "Quanh năm; nên xem lịch sự kiện nếu muốn vào bên trong.",
+      "tips_vi": "Nằm ở khu Uralmash khá xa trung tâm; tiện đi metro/xe tới rồi kết hợp khám phá kiến trúc Xô Viết quanh khu."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%91%D0%B5%D0%BB%D0%B0%D1%8F%20%D0%B1%D0%B0%D1%88%D0%BD%D1%8F&ll=60.5725,56.89306&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=White%20Tower%20%28Yekaterinburg%29%2C%20Sverdlovsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN) — White Tower (Yekaterinburg)",
+        "url": "https://en.wikipedia.org/wiki/White_Tower_(Yekaterinburg)"
+      },
+      {
+        "title": "Ủy ban UNESCO Nga — Bạch Tháp (Белая башня)",
+        "url": "https://unesco.ru/en/news/45-belaya-bashnya/"
+      }
+    ],
+    "tags": [
+      "constructivism",
+      "avant-garde",
+      "water-tower",
+      "uralmash",
+      "heritage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "sverdlovsk-shartash-stone-tents",
+    "slug": "shartash-stone-tents",
+    "region": "sverdlovsk",
+    "region_name_vi": "Tỉnh Sverdlovsk",
+    "federal_district": "Vùng Ural",
+    "name_vi": "Lều Đá hồ Shartash (Shartashskie kamennye palatki)",
+    "name_ru": "Шарташские каменные палатки",
+    "name_en": "Shartash Stone Tents",
+    "categories": [
+      "park_garden",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 56.842971,
+      "lon": 60.678783
+    },
+    "address_vi": "Улица Владимира Высоцкого, 11, gần hồ Shartash, rìa đông Yekaterinburg, tỉnh Sverdlovsk, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Di tích thiên nhiên cấp vùng ngay trong Yekaterinburg, gần hồ Shartash: những khối đá granite xếp chồng lên nhau như các phiến bàn (matrasnye), tạo thành «lều đá» đặc trưng hình thành hàng trăm triệu năm trước. Quanh hồ từng có nhiều di chỉ khảo cổ của người cổ đại.",
+    "presentation_long_vi": "Nằm ở rìa đông Yekaterinburg, sát bờ hồ Shartash, Lều Đá Shartash là một di tích thiên nhiên cấp vùng và cũng là điểm dã ngoại quen thuộc của người dân thành phố. «Lều đá» là những cụm đá granite khổng lồ bị phong hoá thành các phiến phẳng xếp chồng lên nhau tựa như nệm (dạng đá matrasovidnye), hình thành từ khối granite có tuổi khoảng 300 triệu năm. Từ trên các phiến đá cao có thể phóng tầm mắt ra mặt hồ và rừng thông xung quanh. Khu vực này không chỉ có giá trị địa chất mà còn giàu ý nghĩa khảo cổ: theo các nghiên cứu, ven hồ Shartash từng tồn tại nhiều điểm cư trú và trại săn của người cổ đại, với những dấu tích sớm nhất được cho là thuộc thiên niên kỷ thứ 3 trước Công nguyên. Ngày nay, nhờ nằm ngay trong ranh giới thành phố và dễ tiếp cận, Lều Đá Shartash là nơi lý tưởng để đi bộ, leo trèo nhẹ, ngắm cảnh và picnic cuối tuần. Là di tích thiên nhiên, du khách được nhắc giữ gìn cảnh quan, không viết vẽ lên đá và không xả rác.",
+    "highlights_vi": [
+      "Đá granite phong hoá xếp chồng dạng phiến («lều đá»), tuổi khoảng 300 triệu năm.",
+      "Di tích thiên nhiên cấp vùng, nằm ngay trong Yekaterinburg, gần hồ Shartash.",
+      "Khu vực giàu di chỉ khảo cổ của người cổ đại quanh hồ."
+    ],
+    "practical": {
+      "hours_vi": "Không gian ngoài trời, tham quan ban ngày.",
+      "ticket_vi": "Vào tự do (miễn phí).",
+      "duration_vi": "Khoảng 1–1,5 giờ.",
+      "best_time_vi": "Cuối xuân đến đầu thu; sáng hoặc chiều mát để leo đá và ngắm hồ.",
+      "tips_vi": "Mang giày bám tốt khi leo phiến đá; giữ gìn cảnh quan, không viết vẽ lên đá."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A8%D0%B0%D1%80%D1%82%D0%B0%D1%88%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BA%D0%B0%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BF%D0%B0%D0%BB%D0%B0%D1%82%D0%BA%D0%B8&ll=60.678783,56.842971&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Shartash%20Stone%20Tents%2C%20Sverdlovsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Шарташские каменные палатки",
+        "url": "https://ru.wikipedia.org/wiki/Шарташские_каменные_палатки"
+      },
+      {
+        "title": "Ураловед — Шарташские каменные палатки",
+        "url": "https://uraloved.ru/shartashskie-kamennie-palatki"
+      }
+    ],
+    "tags": [
+      "nature",
+      "granite",
+      "rocks",
+      "natural-monument",
+      "shartash",
+      "archaeology"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "sverdlovsk-chertovo-gorodishche-rocks",
+    "slug": "chertovo-gorodishche-rocks",
+    "region": "sverdlovsk",
+    "region_name_vi": "Tỉnh Sverdlovsk",
+    "federal_district": "Vùng Ural",
+    "name_vi": "Núi đá Chyortovo Gorodishche («Thành Quỷ»)",
+    "name_ru": "Скалы Чёртово городище",
+    "name_en": "Chertovo Gorodishche Rocks",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 56.9415,
+      "lon": 60.34808
+    },
+    "address_vi": "Cách Yekaterinburg khoảng 25 km về phía tây bắc, gần làng Iset, tỉnh Sverdlovsk, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Một trong những «tác phẩm điêu khắc thiên nhiên» nổi tiếng nhất vùng ngoại ô Yekaterinburg: dải đá granite dựng đứng trên đỉnh núi cùng tên (cao 347 m), phần chóp là bức tường đá răng lược cao khoảng 20 m. Đá được tạo thành từ granite núi lửa khoảng 300 triệu năm trước.",
+    "presentation_long_vi": "Chyortovo Gorodishche («Thành Quỷ») là một trong những núi đá kỳ vĩ và được ưa thích nhất trong vùng phụ cận Yekaterinburg, nằm cách thành phố khoảng 25 km về phía tây bắc và cách làng Iset chừng 6 km. Đỉnh núi cao 347 mét so với mực nước biển, nhưng gây ấn tượng mạnh nhất là 20 mét cuối cùng: một dải tường đá granite dựng đứng, xếp thành hàng răng lược chạy từ đông nam sang tây bắc, trông như bức thành do bàn tay khổng lồ dựng nên – nguồn gốc của cái tên «Thành Quỷ» trong dân gian. Khối granite ở đây có nguồn gốc núi lửa, hình thành khoảng 300 triệu năm trước và bị phong hoá thành các phiến chồng lớp đặc trưng. Từ trên đỉnh, du khách được thưởng cảnh rừng taiga bạt ngàn của vùng Trung Ural. Đây là điểm đi bộ đường dài (hiking) và leo núi thể thao rất phổ biến; để lên chóp đá có lắp một cầu thang gỗ hỗ trợ. Là di tích thiên nhiên cấp vùng, khu vực thu hút đông người vào cuối tuần, thường kết hợp với các cụm đá lân cận (như đá Petra Gronskogo). Du khách nên đi giày phù hợp, cẩn trọng khi leo và giữ gìn cảnh quan.",
+    "highlights_vi": [
+      "Dải tường đá granite răng lược cao ~20 m trên đỉnh núi 347 m.",
+      "Granite núi lửa khoảng 300 triệu năm tuổi; di tích thiên nhiên cấp vùng.",
+      "Điểm hiking và leo núi nổi tiếng gần Yekaterinburg, có cầu thang gỗ lên chóp."
+    ],
+    "practical": {
+      "hours_vi": "Không gian thiên nhiên mở; nên đi ban ngày, thời tiết khô ráo.",
+      "ticket_vi": "Vào tự do (miễn phí).",
+      "duration_vi": "Nửa ngày (gồm đi bộ tiếp cận từ bãi đỗ/ga gần nhất).",
+      "best_time_vi": "Cuối xuân đến đầu thu; tránh khi đá trơn ướt sau mưa hoặc băng giá.",
+      "tips_vi": "Mang giày leo núi và nước; cẩn trọng ở đoạn chóp đá và cầu thang; giữ gìn cảnh quan."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%BA%D0%B0%D0%BB%D1%8B%20%D0%A7%D1%91%D1%80%D1%82%D0%BE%D0%B2%D0%BE%20%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%89%D0%B5&ll=60.34808,56.9415&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Chertovo%20Gorodishche%20Rocks%2C%20Sverdlovsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Чёртово городище (гора)",
+        "url": "https://ru.wikipedia.org/wiki/Чёртово_городище_(гора)"
+      },
+      {
+        "title": "Ураловед — Гора Чёртово Городище",
+        "url": "https://uraloved.ru/chertovo-gorodishe"
+      }
+    ],
+    "tags": [
+      "nature",
+      "granite",
+      "rocks",
+      "hiking",
+      "natural-monument",
+      "middle-urals"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "sverdlovsk-talkov-kamen-lake",
+    "slug": "talkov-kamen-lake",
+    "region": "sverdlovsk",
+    "region_name_vi": "Tỉnh Sverdlovsk",
+    "federal_district": "Vùng Ural",
+    "name_vi": "Hồ Talkov Kamen (mỏ talc ngập nước)",
+    "name_ru": "Озеро Тальков камень",
+    "name_en": "Talkov Kamen Lake",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 56.492749,
+      "lon": 60.727663
+    },
+    "address_vi": "Cách thành phố Sysert khoảng 4 km về phía tây, trong công viên thiên nhiên «Bazhov Places», tỉnh Sverdlovsk, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Hồ nhân tạo tuyệt đẹp hình thành từ một mỏ khai thác talc bị bỏ hoang rồi ngập nước, nằm trong công viên thiên nhiên «Những nơi của Bazhov» gần Sysert. Vách hồ là những lớp đá phiến talc dựng đứng, nước sâu tới hơn 30 m, phản chiếu rừng thông tạo khung cảnh nên thơ.",
+    "presentation_long_vi": "Talkov Kamen là một hồ nước nhỏ nhưng ngoạn mục, nằm cách thị trấn Sysert khoảng 4 km về phía tây, trong ranh giới công viên thiên nhiên «Những nơi của Bazhov» (Bazhovskie mesta) – vùng đất gắn với nhà văn Ural Pavel Bazhov. Hồ không phải do tự nhiên tạo ra mà là dấu tích của một mỏ khai thác talc (đá phấn) hoạt động vào cuối thế kỷ 19 – đầu thế kỷ 20. Khi việc khai thác dừng lại và các máy bơm thoát nước ngừng chạy, nước ngầm và nước mưa dần dâng lên lấp đầy moong mỏ, tạo thành một hồ nước trong xanh có chỗ sâu tới hơn 30 mét. Bao quanh hồ là những vách đá phiến talc dựng đứng, xám ánh bạc, xen giữa rừng thông, tạo nên khung cảnh vừa hùng vĩ vừa nên thơ soi bóng xuống mặt nước. Ngày nay đây là điểm dã ngoại, tắm mát mùa hè và chụp ảnh rất được ưa chuộng của người dân Yekaterinburg và vùng lân cận; quanh hồ có đường mòn đi bộ và khu vực nghỉ. Vì nằm trong công viên thiên nhiên, du khách cần tuân thủ quy định bảo vệ cảnh quan.",
+    "highlights_vi": [
+      "Hồ hình thành từ mỏ talc bỏ hoang ngập nước, sâu hơn 30 m.",
+      "Vách đá phiến talc dựng đứng xen rừng thông, soi bóng mặt nước rất đẹp.",
+      "Nằm trong công viên thiên nhiên «Những nơi của Bazhov» gần Sysert."
+    ],
+    "practical": {
+      "hours_vi": "Không gian thiên nhiên mở; tham quan ban ngày.",
+      "ticket_vi": "Có thể thu phí vào công viên thiên nhiên/bãi đỗ; bản thân hồ vào tự do.",
+      "duration_vi": "Nửa ngày (gồm đi bộ từ cổng công viên).",
+      "best_time_vi": "Mùa hè để tắm và dã ngoại; mùa thu ngắm lá vàng ven hồ.",
+      "tips_vi": "Cẩn trọng khi bơi vì nước sâu và lạnh; giữ gìn cảnh quan; kết hợp thăm các điểm khác của công viên Bazhov."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9E%D0%B7%D0%B5%D1%80%D0%BE%20%D0%A2%D0%B0%D0%BB%D1%8C%D0%BA%D0%BE%D0%B2%20%D0%BA%D0%B0%D0%BC%D0%B5%D0%BD%D1%8C&ll=60.727663,56.492749&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Talkov%20Kamen%20Lake%2C%20Sverdlovsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Тальков Камень",
+        "url": "https://ru.wikipedia.org/wiki/Тальков_Камень"
+      },
+      {
+        "title": "Ураловед — Озеро Тальков Камень",
+        "url": "https://uraloved.ru/ozero-talkov-kamen"
+      }
+    ],
+    "tags": [
+      "nature",
+      "lake",
+      "flooded-quarry",
+      "talc",
+      "bazhov-places",
+      "sysert"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "sverdlovsk-lisya-gora-watchtower",
+    "slug": "lisya-gora-watchtower",
+    "region": "sverdlovsk",
+    "region_name_vi": "Tỉnh Sverdlovsk",
+    "federal_district": "Vùng Ural",
+    "name_vi": "Tháp canh trên núi Lisya (Lisya gora), Nizhny Tagil",
+    "name_ru": "Сторожевая башня на Лисьей горе",
+    "name_en": "Watchtower on Lisya Gora",
+    "categories": [
+      "monument",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 57.899588,
+      "lon": 59.946822
+    },
+    "address_vi": "Улица Лисогорская, đỉnh núi Lisya (Lysaya), trung tâm thành phố Nizhny Tagil, tỉnh Sverdlovsk, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Tháp canh nhỏ xây đầu thế kỷ 19 theo phong cách cổ điển trên đỉnh núi Lisya (Núi Cáo) giữa trung tâm Nizhny Tagil. Đây là điểm nhấn kiến trúc và biểu tượng chính của thành phố, đồng thời được ví là «bảo tàng nhỏ nhất nước Nga».",
+    "presentation_long_vi": "Vươn lên trên đỉnh núi Lisya (còn gọi là Lysaya – Núi Trọc/Núi Cáo) ngay giữa trung tâm Nizhny Tagil, tháp canh Lisegorskaya là biểu tượng dễ nhận ra nhất của thành phố công nghiệp này. Tháp được dựng vào đầu thế kỷ 19 theo phong cách cổ điển (classicism); qua thời gian nó từng đảm nhận nhiều vai trò khác nhau như trạm quan sát hoả hoạn, đài quan trắc, trạm tín hiệu. Dù kích thước khiêm tốn, vị trí đắc địa trên đỉnh đồi khiến tháp trở thành điểm cao ngắm toàn cảnh thành phố, hồ Tagil và các nhà máy lịch sử phía dưới. Sau đợt trùng tu, bên trong tháp mở một không gian trưng bày tí hon giới thiệu lịch sử ngọn đồi và thành phố – được quảng bá vui là «bảo tàng nhỏ nhất nước Nga». Leo lên Lisya gora và tháp canh là trải nghiệm gần như bắt buộc với du khách tới Nizhny Tagil, đặc biệt vào lúc hoàng hôn khi cả thành phố công nghiệp trải ra trong ánh chiều.",
+    "highlights_vi": [
+      "Tháp canh cổ điển đầu thế kỷ 19 trên đỉnh núi Lisya – biểu tượng của Nizhny Tagil.",
+      "Điểm ngắm toàn cảnh thành phố, hồ Tagil và các nhà máy lịch sử.",
+      "Bên trong là không gian trưng bày được ví «bảo tàng nhỏ nhất nước Nga»."
+    ],
+    "practical": {
+      "hours_vi": "Lên đồi tự do; phòng trưng bày trong tháp mở theo giờ (thường mùa ấm), nên kiểm tra trước.",
+      "ticket_vi": "Lên đồi miễn phí; vào trưng bày trong tháp có vé nhỏ.",
+      "duration_vi": "Khoảng 30–45 phút.",
+      "best_time_vi": "Cuối xuân đến đầu thu; đẹp nhất vào hoàng hôn.",
+      "tips_vi": "Đường lên hơi dốc, mang giày phù hợp; kết hợp tham quan xưởng-bảo tàng dưới chân đồi."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D1%82%D0%BE%D1%80%D0%BE%D0%B6%D0%B5%D0%B2%D0%B0%D1%8F%20%D0%B1%D0%B0%D1%88%D0%BD%D1%8F%20%D0%BD%D0%B0%20%D0%9B%D0%B8%D1%81%D1%8C%D0%B5%D0%B9%20%D0%B3%D0%BE%D1%80%D0%B5&ll=59.946822,57.899588&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Watchtower%20on%20Lisya%20Gora%2C%20Sverdlovsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Сторожевая башня (Нижний Тагил)",
+        "url": "https://ru.wikipedia.org/wiki/Сторожевая_башня_(Нижний_Тагил)"
+      },
+      {
+        "title": "Wikipedia (RU) — Лисья гора",
+        "url": "https://ru.wikipedia.org/wiki/Лисья_гора"
+      }
+    ],
+    "tags": [
+      "landmark",
+      "watchtower",
+      "classicism",
+      "viewpoint",
+      "nizhny-tagil"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "sverdlovsk-nizhny-tagil-factory-museum",
+    "slug": "nizhny-tagil-factory-museum",
+    "region": "sverdlovsk",
+    "region_name_vi": "Tỉnh Sverdlovsk",
+    "federal_district": "Vùng Ural",
+    "name_vi": "Xưởng–bảo tàng lịch sử kỹ thuật luyện kim Nizhny Tagil",
+    "name_ru": "Завод-музей истории горнозаводской техники",
+    "name_en": "Factory-Museum of Mining and Metallurgy History",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 57.905371,
+      "lon": 59.950334
+    },
+    "address_vi": "Проспект Ленина, 1 (khu xưởng cũ trên sông Tagil), thành phố Nizhny Tagil, tỉnh Sverdlovsk, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Xưởng luyện gang – thép cổ của dòng họ Demidov (khởi nguồn từ năm 1725) được bảo tồn nguyên trạng và biến thành bảo tàng ngoài trời – được xem là xưởng-bảo tàng đầu tiên của nước Nga. Nơi đây trưng bày dây chuyền, lò cao, máy móc luyện kim qua các thời kỳ.",
+    "presentation_long_vi": "Nizhny Tagil ra đời và lớn lên nhờ nghề khai mỏ – luyện kim của dòng họ Demidov, và không nơi nào kể câu chuyện đó rõ hơn Xưởng–bảo tàng lịch sử kỹ thuật luyện kim. Đây chính là khu nhà máy gang – sắt cổ, có nguồn gốc từ xưởng Demidov khởi dựng năm 1725, sau khi ngừng sản xuất đã được giữ lại gần như nguyên trạng và chuyển thành bảo tàng ngoài trời – thường được nhắc tới như xưởng-bảo tàng (zavod-muzey) đầu tiên của nước Nga. Trên khuôn viên bên bờ sông Tagil, du khách có thể đi giữa những lò cao, đập nước, cầu trục, đường ray, máy hơi nước và các dây chuyền luyện kim thuộc nhiều thời kỳ, hình dung được cả một thời đại công nghiệp đã tạo nên «vương quốc sắt thép» của vùng Ural. Xưởng-bảo tàng là hạt nhân của Khu bảo tồn – bảo tàng «Gornozavodskoy Ural», cùng với các bảo tàng vệ tinh khác trong thành phố. Với những ai quan tâm tới di sản công nghiệp, lịch sử Demidov và kỹ thuật luyện kim, đây là điểm đến độc đáo bậc nhất nước Nga, kết hợp tốt với việc leo núi Lisya gora ngay gần đó.",
+    "highlights_vi": [
+      "Xưởng luyện kim Demidov (gốc từ 1725) bảo tồn nguyên trạng làm bảo tàng ngoài trời.",
+      "Được xem là xưởng-bảo tàng (zavod-muzey) đầu tiên của nước Nga.",
+      "Trưng bày lò cao, đập nước, cầu trục, máy móc luyện kim qua các thời kỳ."
+    ],
+    "practical": {
+      "hours_vi": "Theo giờ của Khu bảo tồn «Gornozavodskoy Ural»; tham quan ngoài trời thường vào mùa ấm.",
+      "ticket_vi": "Có vé vào cửa; nên đặt tour có hướng dẫn để hiểu dây chuyền công nghệ.",
+      "duration_vi": "Khoảng 1–1,5 giờ.",
+      "best_time_vi": "Cuối xuân đến đầu thu (khu ngoài trời).",
+      "tips_vi": "Mang giày đi bộ; kết hợp leo tháp canh Lisya gora và các bảo tàng khác của thành phố."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%97%D0%B0%D0%B2%D0%BE%D0%B4-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%20%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8%20%D0%B3%D0%BE%D1%80%D0%BD%D0%BE%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B9%20%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B8&ll=59.950334,57.905371&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Factory-Museum%20of%20Mining%20and%20Metallurgy%20History%2C%20Sverdlovsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Завод-музей истории горнозаводской техники",
+        "url": "https://ru.wikipedia.org/wiki/Завод-музей_истории_горнозаводской_техники"
+      },
+      {
+        "title": "museum-nt.ru — Нижнетагильский музей-заповедник «Горнозаводской Урал»",
+        "url": "https://museum-nt.ru/"
+      }
+    ],
+    "tags": [
+      "museum",
+      "industrial-heritage",
+      "demidov",
+      "metallurgy",
+      "open-air",
+      "nizhny-tagil"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "sverdlovsk-verkhoturye-krestovozdvizhensky-cathedral",
+    "slug": "verkhoturye-krestovozdvizhensky-cathedral",
+    "region": "sverdlovsk",
+    "region_name_vi": "Tỉnh Sverdlovsk",
+    "federal_district": "Vùng Ural",
+    "name_vi": "Nhà thờ Suy Tôn Thánh Giá ở Verkhoturye (Krestovozdvizhensky sobor)",
+    "name_ru": "Крестовоздвиженский собор (Верхотурье)",
+    "name_en": "Exaltation of the Cross Cathedral (Verkhoturye)",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 58.86306,
+      "lon": 60.80972
+    },
+    "address_vi": "Улица Воинская, 1А, trong Tu viện Thánh Nicholas (Nikolaevsky), thành phố Verkhoturye, tỉnh Sverdlovsk, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Thánh đường khổng lồ trong Tu viện Thánh Nicholas ở Verkhoturye – được coi là nhà thờ lớn thứ ba nước Nga về thể tích, chỉ sau Nhà thờ Chúa Cứu Thế (Moskva) và Nhà thờ Thánh Isaac (Saint Petersburg). Khởi công 1905, thánh hiến 1913, nơi lưu giữ di hài Thánh Simeon xứ Verkhoturye.",
+    "presentation_long_vi": "Verkhoturye được mệnh danh là «thủ đô tâm linh của vùng Ural», và công trình gây choáng ngợp nhất nơi đây là Nhà thờ Suy Tôn Thánh Giá (Krestovozdvizhensky sobor) trong Tu viện nam Thánh Nicholas. Được khởi công năm 1905 và thánh hiến năm 1913 nhân dịp kỷ niệm 300 năm triều đại Romanov, thánh đường có quy mô đồ sộ theo phong cách Nga – Byzantine và thường được xếp là nhà thờ lớn thứ ba nước Nga xét theo thể tích, chỉ sau Nhà thờ Chúa Cứu Thế ở Moskva và Nhà thờ Thánh Isaac ở Saint Petersburg. Điểm đặc biệt của nội thất là những bộ khung thờ (iconostasis) bằng gốm sứ tráng men – một giải pháp hiếm gặp và rất ấn tượng. Nhà thờ là nơi tôn kính và lưu giữ di hài Thánh Simeon xứ Verkhoturye, vị thánh bảo trợ của vùng Ural, nên hằng năm thu hút đông đảo tín đồ hành hương. Cùng với điện Kremlin Verkhoturye ở gần đó, tu viện và thánh đường tạo nên một quần thể lịch sử – tôn giáo bậc nhất của tỉnh Sverdlovsk, đưa du khách trở về với cội nguồn của quá trình người Nga khai phá Siberia qua «cửa ngõ» Verkhoturye.",
+    "highlights_vi": [
+      "Được coi là nhà thờ lớn thứ ba nước Nga về thể tích.",
+      "Khởi công 1905, thánh hiến 1913; phong cách Nga–Byzantine với iconostasis bằng gốm men.",
+      "Nơi lưu giữ di hài Thánh Simeon xứ Verkhoturye – điểm hành hương lớn của vùng Ural."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa hằng ngày theo giờ tu viện và giờ lễ, thường ban ngày.",
+      "ticket_vi": "Vào tự do; tuỳ tâm công đức.",
+      "duration_vi": "Khoảng 45–60 phút cho cả tu viện.",
+      "best_time_vi": "Cuối xuân đến đầu thu; dịp lễ Thánh Simeon rất đông khách hành hương.",
+      "tips_vi": "Ăn mặc kín đáo, nữ nên mang khăn trùm đầu; kết hợp thăm điện Kremlin Verkhoturye gần đó."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D1%80%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B7%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D0%B1%D0%BE%D1%80%20%28%D0%92%D0%B5%D1%80%D1%85%D0%BE%D1%82%D1%83%D1%80%D1%8C%D0%B5%29&ll=60.80972,58.86306&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Exaltation%20of%20the%20Cross%20Cathedral%20%28Verkhoturye%29%2C%20Sverdlovsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Собор Воздвижения Креста Господня (Верхотурье)",
+        "url": "https://ru.wikipedia.org/wiki/Собор_Воздвижения_Креста_Господня_(Верхотурье)"
+      },
+      {
+        "title": "sobory.ru — Верхотурье, Николаевский монастырь, собор Воздвижения Креста (object 05754)",
+        "url": "https://sobory.ru/article/?object=05754"
+      }
+    ],
+    "tags": [
+      "cathedral",
+      "monastery",
+      "pilgrimage",
+      "verkhoturye",
+      "simeon",
+      "romanov-300"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "sverdlovsk-irbit-motorcycle-museum",
+    "slug": "irbit-motorcycle-museum",
+    "region": "sverdlovsk",
+    "region_name_vi": "Tỉnh Sverdlovsk",
+    "federal_district": "Vùng Ural",
+    "name_vi": "Bảo tàng Mô-tô Quốc gia Irbit (Irbitsky muzey mototsiklov)",
+    "name_ru": "Ирбитский государственный музей мотоциклов",
+    "name_en": "Irbit State Motorcycle Museum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 57.66334,
+      "lon": 63.08893
+    },
+    "address_vi": "Улица Советская, 100А, thành phố Irbit, tỉnh Sverdlovsk, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Bảo tàng mô-tô cấp nhà nước duy nhất ở Nga, đặt tại Irbit – quê hương của nhà máy mô-tô Ural (IMZ). Bộ sưu tập gồm khoảng 120 mẫu xe trong và ngoài nước (Anh, Đức, Mỹ, Nhật) sản xuất từ 1935 đến 1989, cùng nhiều mẫu Ural quân sự và dân dụng.",
+    "presentation_long_vi": "Thành phố nhỏ Irbit ở phía đông tỉnh Sverdlovsk nổi tiếng khắp nước Nga nhờ nhà máy mô-tô Ural (IMZ) – nơi cho ra đời những chiếc mô-tô ba bánh có thùng bên (sidecar) huyền thoại từ thời Chiến tranh Vệ quốc Vĩ đại. Chính vì thế, Irbit là nơi đặt Bảo tàng Mô-tô Quốc gia – bảo tàng mô-tô cấp nhà nước duy nhất của nước Nga, chính thức mở cửa năm 2004. Bộ sưu tập quy tụ khoảng 120 mẫu xe, trong đó có các dòng mô-tô hạng nặng nội địa từ thập niên 1940 trở đi, những nguyên mẫu thử nghiệm hiếm và cả các mẫu xe của những hãng lừng danh nước ngoài (Anh, Đức, Mỹ, Nhật) sản xuất trong giai đoạn 1935–1989. Nhiều hiện vật gắn với các kỷ lục, chuyến đi vòng quanh thế giới hoặc lịch sử quân sự, giúp người xem hình dung cả một chương phát triển của ngành công nghiệp mô-tô Nga và thế giới. Đây là điểm đến hấp dẫn không chỉ với dân mê xe mà cả gia đình và những ai muốn khám phá một Irbit từng là thị trấn hội chợ sầm uất của vùng Ural.",
+    "highlights_vi": [
+      "Bảo tàng mô-tô cấp nhà nước duy nhất ở Nga, mở cửa năm 2004.",
+      "Khoảng 120 mẫu xe, gồm cả Ural nội địa và các hãng Anh, Đức, Mỹ, Nhật (1935–1989).",
+      "Đặt tại Irbit – quê hương nhà máy mô-tô Ural (IMZ)."
+    ],
+    "practical": {
+      "hours_vi": "Thường mở thứ Ba–thứ Bảy (giờ hành chính), nghỉ Chủ nhật và thứ Hai; nên kiểm tra lịch trước.",
+      "ticket_vi": "Có vé vào cửa; nên đặt trước cho đoàn/tour có hướng dẫn.",
+      "duration_vi": "Khoảng 1–1,5 giờ.",
+      "best_time_vi": "Quanh năm (bảo tàng trong nhà).",
+      "tips_vi": "Irbit cách Yekaterinburg khá xa (~200 km), nên đi trong ngày bằng ô tô; kết hợp thăm phố cổ hội chợ Irbit."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%98%D1%80%D0%B1%D0%B8%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%20%D0%BC%D0%BE%D1%82%D0%BE%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%B2&ll=63.08893,57.66334&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Irbit%20State%20Motorcycle%20Museum%2C%20Sverdlovsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Ирбитский государственный музей мотоциклов",
+        "url": "https://ru.wikipedia.org/wiki/Ирбитский_государственный_музей_мотоциклов"
+      },
+      {
+        "title": "Культура.РФ — Ирбитский государственный музей мотоциклов",
+        "url": "https://www.culture.ru/institutes/6622/irbitskii-gosudarstvennyi-muzei-motociklov"
+      }
+    ],
+    "tags": [
+      "museum",
+      "motorcycles",
+      "ural-imz",
+      "irbit",
+      "technology"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "sverdlovsk-ummc-museum-verkhnyaya-pyshma",
+    "slug": "ummc-museum-verkhnyaya-pyshma",
+    "region": "sverdlovsk",
+    "region_name_vi": "Tỉnh Sverdlovsk",
+    "federal_district": "Vùng Ural",
+    "name_vi": "Tổ hợp Bảo tàng kỹ thuật quân sự & ô tô UGMK (Verkhnyaya Pyshma)",
+    "name_ru": "Музейный комплекс УГМК военной и автомобильной техники",
+    "name_en": "UMMC Museum Complex of Military and Automotive Equipment",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 56.959724,
+      "lon": 60.58583
+    },
+    "address_vi": "Улица Александра Козицына, 2, thành phố Verkhnyaya Pyshma, tỉnh Sverdlovsk, Nga (giáp ranh phía bắc Yekaterinburg).",
+    "rating": null,
+    "presentation_short_vi": "Một trong những bảo tàng kỹ thuật quân sự và ô tô lớn nhất thế giới, do Tập đoàn Luyện kim Ural (UGMK) xây dựng tại Verkhnyaya Pyshma. Khai trương ngày 9/5/2005, khu phức hợp rộng khoảng 13 ha với nhiều toà trưng bày và khu ngoài trời, quy tụ tới 15.000 hiện vật, gồm ~1.500 phương tiện quân sự và dân dụng.",
+    "presentation_long_vi": "Chỉ cách trung tâm Yekaterinburg một quãng ngắn về phía bắc, thành phố vệ tinh Verkhnyaya Pyshma là nơi đặt một trong những bảo tàng kỹ thuật ấn tượng nhất nước Nga: Tổ hợp Bảo tàng UGMK. Được Tập đoàn Khai mỏ – Luyện kim Ural (UGMK) đầu tư và khai trương đúng ngày Chiến thắng 9/5/2005 nhân 60 năm kết thúc Chiến tranh Vệ quốc Vĩ đại, bảo tàng không ngừng mở rộng và nay là một khu phức hợp rộng khoảng 13 ha gồm nhiều trung tâm trưng bày kết hợp khu triển lãm ngoài trời. Bộ sưu tập lên tới khoảng 15.000 hiện vật, trong đó có chừng 1.500 phương tiện quân sự và dân dụng: xe tăng, pháo tự hành, xe bọc thép, đầu máy và toa tàu bọc thép, máy bay chiến đấu, cùng bộ sưu tập xe hơi và mô-tô cổ vào loại phong phú nhất nước Nga (kể cả xe đua Xô Viết và một số khí tài Lend-Lease của Mỹ như xe tăng Sherman, Stuart). Từ năm 2011, bảo tàng trở thành chi nhánh của Bảo tàng Trung ương Lực lượng Vũ trang Liên bang Nga. Với quy mô hoành tráng và cách trưng bày hiện đại, đây là điểm đến hàng đầu cho gia đình, người mê lịch sử quân sự và xe cộ khi tới vùng Ural.",
+    "highlights_vi": [
+      "Một trong những bảo tàng kỹ thuật quân sự & ô tô lớn nhất thế giới, do UGMK xây dựng.",
+      "Khai trương 9/5/2005; ~13 ha, tới 15.000 hiện vật gồm ~1.500 phương tiện (tăng, pháo, máy bay, xe cổ).",
+      "Từ 2011 là chi nhánh của Bảo tàng Trung ương Lực lượng Vũ trang Nga."
+    ],
+    "practical": {
+      "hours_vi": "Thường mở thứ Ba–Chủ nhật (khoảng 10:00–19:00); nghỉ thứ Hai; nên kiểm tra lịch trước.",
+      "ticket_vi": "Có vé vào cửa cho các toà trưng bày; khu ngoài trời một số phần xem tự do.",
+      "duration_vi": "Khoảng 2–3 giờ cho toàn khu phức hợp.",
+      "best_time_vi": "Quanh năm; khu ngoài trời đẹp và thoải mái nhất vào mùa ấm.",
+      "tips_vi": "Đi từ Yekaterinburg rất tiện (xe buýt/ô tô ~30–40 phút); dành đủ thời gian vì khu rất rộng."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%20%D0%A3%D0%93%D0%9C%D0%9A%20%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%B8%20%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9%20%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B8&ll=60.58583,56.959724&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=UMMC%20Museum%20Complex%20of%20Military%20and%20Automotive%20Equipment%2C%20Sverdlovsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN) — UMMC Museum Complex",
+        "url": "https://en.wikipedia.org/wiki/UMMC_Museum_Complex"
+      },
+      {
+        "title": "Культура.РФ — Музей военной техники УГМК",
+        "url": "https://www.culture.ru/institutes/53301/muzei-voennoi-tekhniki-ugmk"
+      }
+    ],
+    "tags": [
+      "museum",
+      "military",
+      "vehicles",
+      "ugmk",
+      "verkhnyaya-pyshma",
+      "open-air"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "sverdlovsk-nizhnyaya-sinyachikha-museum",
+    "slug": "nizhnyaya-sinyachikha-museum",
+    "region": "sverdlovsk",
+    "region_name_vi": "Tỉnh Sverdlovsk",
+    "federal_district": "Vùng Ural",
+    "name_vi": "Bảo tàng ngoài trời kiến trúc gỗ Nizhnyaya Sinyachikha",
+    "name_ru": "Нижнесинячихинский музей-заповедник деревянного зодчества и народного искусства",
+    "name_en": "Nizhnyaya Sinyachikha Museum of Wooden Architecture",
+    "categories": [
+      "museum",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 57.94792,
+      "lon": 61.76563
+    },
+    "address_vi": "Улица Первомайская, 20, làng Nizhnyaya Sinyachikha, huyện Alapayevsky, tỉnh Sverdlovsk, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Bảo tàng ngoài trời về kiến trúc gỗ và nghệ thuật dân gian Ural, do nhà bảo tồn Ivan Samoylov gây dựng, mở cửa năm 1978. Trong khuôn viên bên sông Sinyachikha quy tụ nhà gỗ (izba), nhà nguyện, tháp canh, cối xay gió… cùng bộ sưu tập tranh vẽ trang trí nhà cửa (rospis) đặc trưng vùng Ural.",
+    "presentation_long_vi": "Nằm ở làng Nizhnyaya Sinyachikha, cách Alapayevsk không xa về phía bắc Yekaterinburg, đây là một trong những bảo tàng ngoài trời hấp dẫn nhất vùng Ural về kiến trúc gỗ và nghệ thuật dân gian. Bảo tàng là thành quả tâm huyết cả đời của ông Ivan Danilovich Samoylov – người đã bỏ nhiều thập niên để tìm kiếm, phục dựng và di dời các công trình gỗ cổ từ khắp vùng về đây; bảo tàng chính thức mở cửa năm 1978. Trên diện tích rộng bên bờ sông Sinyachikha, du khách như lạc vào một ngôi làng Ural xưa với những căn nhà gỗ (izba) qua các thế kỷ, nhà nguyện, tháp canh, cối xay gió, chòi canh lửa, kho thóc… được sắp đặt sinh động. Trái tim của bảo tàng là nhà thờ Spaso-Preobrazhenskaya theo phong cách Baroque Ural, nơi trưng bày bộ sưu tập độc đáo về tranh vẽ trang trí nội thất nhà nông dân (roспись) – nghệ thuật vẽ hoa lá, chim muông rực rỡ lên tường, cửa chớp và đồ dùng, vốn là nét đặc sắc của văn hoá dân gian Ural. Đây là điểm đến lý tưởng để hiểu đời sống, tín ngưỡng và thẩm mỹ của cư dân Ural xưa, kết hợp tốt với hành trình khám phá vùng Alapayevsk giàu di tích.",
+    "highlights_vi": [
+      "Bảo tàng ngoài trời về nhà gỗ (izba), nhà nguyện, tháp canh, cối xay… của vùng Ural.",
+      "Do Ivan Samoylov gây dựng, mở cửa năm 1978, bên bờ sông Sinyachikha.",
+      "Bộ sưu tập tranh vẽ trang trí nhà cửa (rospis) Ural trong nhà thờ Baroque Spaso-Preobrazhenskaya."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa hằng ngày ban ngày; kiểm tra lịch mùa đông vì một số phần ngoài trời.",
+      "ticket_vi": "Có vé vào cửa; có thể mua vé lẻ hoặc trọn gói các công trình.",
+      "duration_vi": "Khoảng 1,5–2 giờ.",
+      "best_time_vi": "Cuối xuân đến đầu thu để dạo khu ngoài trời; mùa đông cảnh tuyết cũng rất đẹp.",
+      "tips_vi": "Cách Yekaterinburg ~150 km, nên đi ô tô trong ngày; kết hợp thăm các di tích vùng Alapayevsk."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%B8%D0%B6%D0%BD%D0%B5%D1%81%D0%B8%D0%BD%D1%8F%D1%87%D0%B8%D1%85%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9-%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA%20%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D1%8F%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%B7%D0%BE%D0%B4%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%B8%20%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B0&ll=61.76563,57.94792&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Nizhnyaya%20Sinyachikha%20Museum%20of%20Wooden%20Architecture%2C%20Sverdlovsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "museum.ru — Нижнесинячихинский музей-заповедник деревянного зодчества им. И.Д. Самойлова",
+        "url": "http://www.museum.ru/M1961"
+      },
+      {
+        "title": "Ураловед — Нижняя Синячиха и музей-заповедник деревянного зодчества",
+        "url": "https://uraloved.ru/nizhnaya-sinyachiha"
+      }
+    ],
+    "tags": [
+      "museum",
+      "wooden-architecture",
+      "folk-art",
+      "open-air",
+      "samoylov",
+      "alapayevsky"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
+  },
+  {
+    "id": "sverdlovsk-yekaterinburg-opera-ballet-theatre",
+    "slug": "yekaterinburg-opera-ballet-theatre",
+    "region": "sverdlovsk",
+    "region_name_vi": "Tỉnh Sverdlovsk",
+    "federal_district": "Vùng Ural",
+    "name_vi": "Nhà hát Opera và Ballet Yekaterinburg («Bạch Thiên Nga»)",
+    "name_ru": "Екатеринбургский театр оперы и балета",
+    "name_en": "Yekaterinburg Opera and Ballet Theatre",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 56.838953,
+      "lon": 60.616702
+    },
+    "address_vi": "Проспект Ленина, 46А, quảng trường Công xã Paris, trung tâm Yekaterinburg, tỉnh Sverdlovsk, Nga.",
+    "rating": null,
+    "presentation_short_vi": "Nhà hát opera và ballet lâu đời của Yekaterinburg, khánh thành năm 1912, tọa lạc trên quảng trường Công xã Paris giữa trục phố Lenin. Toà nhà tân-baroque duyên dáng được người dân trìu mến gọi là «Bạch Thiên Nga»; ngày nay hoạt động dưới thương hiệu «Ural Opera Ballet».",
+    "presentation_long_vi": "Đứng giữa quảng trường Công xã Paris trên trục phố Lenin, Nhà hát Opera và Ballet Yekaterinburg là một trong những công trình đẹp và giàu lịch sử nhất thành phố. Toà nhà được xây dựng chỉ trong khoảng hai năm và khánh thành vào tháng 9 năm 1912 bằng vở opera «Cuộc đời vì Sa hoàng» của Mikhail Glinka. Thiết kế thắng cuộc thi kiến trúc toàn Nga thuộc về kỹ sư Vladimir Semyonov, còn người hiện thực hoá công trình là kiến trúc sư Konstantin Babykin – người được coi là ông tổ của trường phái kiến trúc Ural. Với mặt tiền tân-baroque thanh thoát, những nàng thơ (muse) trên đỉnh và âm học tuyệt vời, nhà hát sớm được người dân trìu mến gọi là «Bạch Thiên Nga». Từ giữa thập niên 1920, sân khấu này nổi danh là một trong những «phòng thí nghiệm của opera Xô Viết», nơi khởi nghiệp của nhiều giọng ca lừng danh như Sergei Lemeshev và Ivan Kozlovsky; năm 1966 nhà hát được phong danh hiệu «hàn lâm». Ngày nay, dưới thương hiệu «Ural Opera Ballet», đây là một trong những nhà hát opera – ballet hàng đầu ngoài hai thủ đô, với các chương trình chất lượng cao và cả đoàn ballet thiếu nhi «Shchelkunchik». Dù chỉ ngắm mặt tiền hay thưởng thức một buổi diễn, nhà hát đều là điểm nhấn không thể bỏ qua ở trung tâm Yekaterinburg.",
+    "highlights_vi": [
+      "Khánh thành 1912 bằng vở opera «Cuộc đời vì Sa hoàng» của Glinka.",
+      "Kiến trúc tân-baroque, biệt danh «Bạch Thiên Nga»; do K. Babykin hiện thực hoá.",
+      "Nơi khởi nghiệp của Lemeshev, Kozlovsky; nay là «Ural Opera Ballet» hàng đầu ngoài hai thủ đô."
+    ],
+    "practical": {
+      "hours_vi": "Theo lịch biểu diễn (thường buổi tối và một số suất chiều cuối tuần); phòng vé mở ban ngày.",
+      "ticket_vi": "Mua vé theo chương trình; nhiều mức giá.",
+      "duration_vi": "Ngắm mặt tiền ~15 phút; xem một buổi diễn khoảng 2–3 giờ.",
+      "best_time_vi": "Mùa biểu diễn (thu – xuân); mùa hè có thể ít suất hơn.",
+      "tips_vi": "Đặt vé sớm cho các vở nổi tiếng; kết hợp dạo trục phố Lenin và quảng trường lân cận."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3%D1%81%D0%BA%D0%B8%D0%B9%20%D1%82%D0%B5%D0%B0%D1%82%D1%80%20%D0%BE%D0%BF%D0%B5%D1%80%D1%8B%20%D0%B8%20%D0%B1%D0%B0%D0%BB%D0%B5%D1%82%D0%B0&ll=60.616702,56.838953&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Yekaterinburg%20Opera%20and%20Ballet%20Theatre%2C%20Sverdlovsk%2C%20Russia"
+    },
+    "official_site": "https://uralopera.ru/",
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Екатеринбургский театр оперы и балета",
+        "url": "https://ru.wikipedia.org/wiki/Екатеринбургский_театр_оперы_и_балета"
+      },
+      {
+        "title": "Наш Урал — Екатеринбургский театр оперы и балета (GPS)",
+        "url": "https://nashural.ru/dostoprimechatelnosti-urala/sverdlovskaya-oblast/ekaterinburgskij-teatr-opery-i-baleta/"
+      }
+    ],
+    "tags": [
+      "theatre",
+      "opera",
+      "ballet",
+      "architecture",
+      "white-swan",
+      "yekaterinburg"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-27",
+    "country": "russia"
   }
 ]

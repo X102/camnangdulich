@@ -36,8 +36,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Le%20quai%20de%20Khabarivsk.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=135.049746,48.47288&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=48.47288,135.049746"
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F%20%D0%90%D0%BC%D1%83%D1%80%D0%B0%20%28%D0%9D%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F%20%D0%B0%D0%B4%D0%BC%D0%B8%D1%80%D0%B0%D0%BB%D0%B0%20%D0%9D%D0%B5%D0%B2%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%29&ll=135.049746,48.47288&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Amur%20River%20Embankment%2C%20Khabarovsk%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -56,7 +56,8 @@
       "far-east"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "khabarovsk-amur-bridge-khabarovsk",
@@ -99,8 +100,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Khabarovsk%20Bridge%20-%20aerial%20view%20-%20P1040665.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=135.0,48.536111&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=48.536111,135.0"
+      "yandex": "https://yandex.com/maps/?text=%D0%90%D0%BC%D1%83%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D1%81%D1%82%20%28%C2%AB%D0%A6%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D1%81%D1%82%C2%BB%29&ll=135.0,48.536111&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Amur%20Bridge%20%28Khabarovsk%20Bridge%29%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -119,7 +120,8 @@
       "far-east"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "khabarovsk-spaso-preobrazhensky-cathedral-khabarovsk",
@@ -162,8 +164,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Cathedral%20of%20the%20Transfiguration%20%28Khabarovsk%29%20%D1%84%D0%BE%D1%82%D0%BE4.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=135.066997,48.466238&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=48.466238,135.066997"
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%BF%D0%B0%D1%81%D0%BE-%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%81%D0%BE%D0%B1%D0%BE%D1%80&ll=135.066997,48.466238&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Transfiguration%20Cathedral%2C%20Khabarovsk%2C%20Russia"
     },
     "official_site": "https://soborkhv.ru/",
     "sources": [
@@ -182,7 +184,8 @@
       "far-east"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "khabarovsk-sikachi-alyan-petroglyphs",
@@ -220,8 +223,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B3%D0%BB%D0%B8%D1%84%D1%8B%20%D0%A1%D0%B8%D0%BA%D0%B0%D1%87%D0%B8-%D0%90%D0%BB%D1%8F%D0%BD%D0%B0%201.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=135.7231,48.7989&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=48.7989,135.7231"
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B3%D0%BB%D0%B8%D1%84%D1%8B%20%D0%A1%D0%B8%D0%BA%D0%B0%D1%87%D0%B8-%D0%90%D0%BB%D1%8F%D0%BD%D0%B0&ll=135.7231,48.7989&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Petroglyphs%20of%20Sikachi-Alyan%2C%20Khabarovsk%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -240,7 +243,8 @@
       "far-east"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "khabarovsk-komsomolsk-on-amur-monument",
@@ -278,8 +282,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=137.002,50.557&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=50.557,137.002"
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D0%BE%D0%BD%D1%83%D0%BC%D0%B5%D0%BD%D1%82%20%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8F%D0%BC%20%D0%9A%D0%BE%D0%BC%D1%81%D0%BE%D0%BC%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0-%D0%BD%D0%B0-%D0%90%D0%BC%D1%83%D1%80%D0%B5&ll=137.002,50.557&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Monument%20to%20the%20First%20Builders%20of%20Komsomolsk-on-Amur%2C%20Khabarovsk%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -297,7 +301,8 @@
       "far-east"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "khabarovsk-glory-square-khabarovsk",
@@ -341,8 +346,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=135.064258,48.466846&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=48.466846,135.064258"
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C%20%D0%A1%D0%BB%D0%B0%D0%B2%D1%8B&ll=135.064258,48.466846&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Glory%20Square%20%28Square%20of%20Fame%29%2C%20Khabarovsk%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -361,7 +366,8 @@
       "far-east"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   },
   {
     "id": "khabarovsk-bolshekhekhtsirsky-reserve",
@@ -399,8 +405,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%A5%D1%80%D0%B5%D0%B1%D0%B5%D1%82%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9%20%D0%A5%D0%B5%D1%85%D1%86%D0%B8%D1%80.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=134.858889,48.205&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=48.205,134.858889"
+      "yandex": "https://yandex.com/maps/?text=%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B5%D1%85%D0%B5%D1%85%D1%86%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA&ll=134.858889,48.205&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Bolshekhekhtsirsky%20Nature%20Reserve%2C%20Khabarovsk%2C%20Russia"
     },
     "official_site": "https://zapovedamur.ru/",
     "sources": [
@@ -419,6 +425,7 @@
       "far-east"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-07-21",
+    "country": "russia"
   }
 ]

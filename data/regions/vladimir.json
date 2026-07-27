@@ -41,8 +41,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Golden%20Gate%20in%20Vladimir%2010.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=40.396944,56.126944&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=56.126944,40.396944"
+      "yandex": "https://yandex.com/maps/?text=%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D1%8B%D0%B5%20%D0%B2%D0%BE%D1%80%D0%BE%D1%82%D0%B0&ll=40.396944,56.126944&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Golden%20Gate%20of%20Vladimir%2C%20Russia"
     },
     "official_site": "https://vladmuseum.ru/ru/geografiya-muzeya/vladimir/zolotye-vorota/",
     "sources": [
@@ -59,7 +59,8 @@
       "architecture"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "vladimir-dormition-cathedral-vladimir",
@@ -102,8 +103,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Dormition%20Cathedral%2C%20Vladimir%2C%20Russia%20-%2050398767551.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=40.409167,56.126944&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=56.126944,40.409167"
+      "yandex": "https://yandex.com/maps/?text=%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D0%B1%D0%BE%D1%80&ll=40.409167,56.126944&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Dormition%20%28Assumption%29%20Cathedral%2C%20Vladimir%2C%20Russia"
     },
     "official_site": "https://vladmuseum.ru",
     "sources": [
@@ -121,7 +122,8 @@
       "architecture"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "vladimir-cathedral-saint-demetrius-vladimir",
@@ -164,8 +166,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Cathedral%20of%20Saint%20Demetrius%2C%20Vladimir%2C%20Russia%20-%2050401840073.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=40.410833,56.129167&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=56.129167,40.410833"
+      "yandex": "https://yandex.com/maps/?text=%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D0%B1%D0%BE%D1%80&ll=40.410833,56.129167&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Cathedral%20of%20Saint%20Demetrius%2C%20Vladimir%2C%20Russia"
     },
     "official_site": "https://vladmuseum.ru/ru/geografiya-muzeya/vladimir/dmitrievskiy-sobor/",
     "sources": [
@@ -183,7 +185,8 @@
       "history"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "vladimir-church-intercession-nerl",
@@ -226,8 +229,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Church%20Of%20The%20Intercession%20On%20The%20Nerl%20%28218455893%29.jpeg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=40.561389,56.19625&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=56.19625,40.561389"
+      "yandex": "https://yandex.com/maps/?text=%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C%20%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D0%B0%20%D0%BD%D0%B0%20%D0%9D%D0%B5%D1%80%D0%BB%D0%B8&ll=40.561389,56.19625&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Church%20of%20the%20Intercession%20on%20the%20Nerl%2C%20Vladimir%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -245,7 +248,8 @@
       "riverside"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "vladimir-suzdal-kremlin-nativity-cathedral",
@@ -290,8 +294,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Golden%20Doors%20-%20Cathedral%20of%20the%20Nativity%20-%20Suzdal%20-%20Russia.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=40.4425,56.41667&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=56.41667,40.4425"
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D1%83%D0%B7%D0%B4%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D1%80%D0%B5%D0%BC%D0%BB%D1%8C%20%28%D0%A1%D0%BE%D0%B1%D0%BE%D1%80%20%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B%29&ll=40.4425,56.41667&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Suzdal%20Kremlin%20and%20Nativity%20Cathedral%2C%20Vladimir%2C%20Russia"
     },
     "official_site": "https://vladmuseum.ru/ru/geografiya-muzeya/suzdal/muzeynyy-kompleks-kreml/",
     "sources": [
@@ -309,7 +313,8 @@
       "history"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "vladimir-saviour-monastery-st-euthymius-suzdal",
@@ -354,8 +359,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Suzdal%20asv2019-01%20img03%20Spaso-Evfimiev%20Monastery.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=40.440278,56.433333&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=56.433333,40.440278"
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%BF%D0%B0%D1%81%D0%BE-%D0%95%D0%B2%D1%84%D0%B8%D0%BC%D0%B8%D0%B5%D0%B2%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C&ll=40.440278,56.433333&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Saviour%20Monastery%20of%20St%20Euthymius%2C%20Suzdal%2C%20Vladimir%2C%20Russia"
     },
     "official_site": "https://vladmuseum.ru",
     "sources": [
@@ -373,7 +378,8 @@
       "orthodox"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "vladimir-museum-wooden-architecture-suzdal",
@@ -417,8 +423,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Russia-Suzdal-MWAPL-Windmill-2.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=40.440352,56.41275&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=56.41275,40.440352"
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%B9%20%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D1%8F%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%B7%D0%BE%D0%B4%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0&ll=40.440352,56.41275&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Wooden%20Architecture%2C%20Suzdal%2C%20Vladimir%2C%20Russia"
     },
     "official_site": "https://vladmuseum.ru/ru/geografiya-muzeya/suzdal/muzey-derevyannogo-zodchestva/",
     "sources": [
@@ -435,7 +441,8 @@
       "history"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "vladimir-holy-bogolyubovo-monastery",
@@ -479,8 +486,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Remains%20of%20Castle%20of%20Andrey%20Bogolyubsky%20%28Andrei%20the%20Pious%29%2C%20Bogolyubovo%2C%20Russia%20-%2050406506698.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=40.53503,56.19617&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=56.19617,40.53503"
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%91%D0%BE%D0%B3%D0%BE%D0%BB%D1%8E%D0%B1%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C&ll=40.53503,56.19617&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Holy%20Bogolyubovo%20Monastery%2C%20Vladimir%2C%20Russia"
     },
     "official_site": "http://sv-bogolubovo.ru/",
     "sources": [
@@ -498,7 +505,8 @@
       "pilgrimage"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "vladimir-gus-khrustalny-crystal-museum",
@@ -542,8 +550,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Gus-Khrustalny%20Crystal%20Museum%20The%20museum%20exposition%20IMG%209442%201725.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=40.657929,55.619897&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=55.619897,40.657929"
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%B9%20%D1%85%D1%80%D1%83%D1%81%D1%82%D0%B0%D0%BB%D1%8F%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%20%D0%9C%D0%B0%D0%BB%D1%8C%D1%86%D0%BE%D0%B2%D1%8B%D1%85&ll=40.657929,55.619897&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Gus-Khrustalny%20Crystal%20Museum%2C%20Vladimir%2C%20Russia"
     },
     "official_site": "https://vladmuseum.ru",
     "sources": [
@@ -560,7 +568,8 @@
       "history"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "vladimir-cathedral-square-vladimir",
@@ -604,8 +613,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%2C%20%D0%B2%D0%B8%D0%B4%20%D0%BD%D0%B0%20%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D0%B1%D0%BE%D1%80.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=40.404261,56.129426&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=56.129426,40.404261"
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%BE%D0%B1%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C&ll=40.404261,56.129426&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Cathedral%20Square%2C%20Vladimir%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -622,6 +631,7 @@
       "history"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   }
 ]

@@ -42,8 +42,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Tula%20Kremlin%20view.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=37.62,54.195278&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.195278,37.62"
+      "yandex": "https://yandex.com/maps/?text=%D0%A2%D1%83%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D1%80%D0%B5%D0%BC%D0%BB%D1%8C&ll=37.62,54.195278&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Tula%20Kremlin%2C%20Russia"
     },
     "official_site": "https://museum-tula.ru",
     "sources": [
@@ -60,7 +60,8 @@
       "cathedral"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "tula-yasnaya-polyana",
@@ -104,8 +105,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Tula%20YasnayaPolyana%20asv2019-09%20img11%20LNTolstoy%20House.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=37.526111,54.076111&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.076111,37.526111"
+      "yandex": "https://yandex.com/maps/?text=%D0%AF%D1%81%D0%BD%D0%B0%D1%8F%20%D0%9F%D0%BE%D0%BB%D1%8F%D0%BD%D0%B0&ll=37.526111,54.076111&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Yasnaya%20Polyana%20%E2%80%94%20Leo%20Tolstoy%20Estate-Museum%2C%20Tula%2C%20Russia"
     },
     "official_site": "https://ypmuseum.ru",
     "sources": [
@@ -122,7 +123,8 @@
       "nature"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "tula-tula-state-museum-of-weapons",
@@ -165,8 +167,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Tula%20State%20Museum%20of%20Weapons%203.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=37.61633,54.204116&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.204116,37.61633"
+      "yandex": "https://yandex.com/maps/?text=%D0%A2%D1%83%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%20%D0%BE%D1%80%D1%83%D0%B6%D0%B8%D1%8F&ll=37.61633,54.204116&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Tula%20State%20Museum%20of%20Weapons%2C%20Russia"
     },
     "official_site": "https://museum-arms.ru",
     "sources": [
@@ -183,7 +185,8 @@
       "science"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "tula-polenovo",
@@ -227,8 +230,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Polenov%27s%20mansion.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=37.244436,54.749931&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.749931,37.244436"
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%BE%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2%D0%BE&ll=37.244436,54.749931&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Polenovo%20%E2%80%94%20Vasily%20Polenov%20Museum-Reserve%2C%20Tula%2C%20Russia"
     },
     "official_site": "https://polenovo.ru",
     "sources": [
@@ -245,7 +248,8 @@
       "river"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "tula-kulikovo-field",
@@ -289,8 +293,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Kulikovo%20pole%20-%20monument.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=38.667007,53.622684&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=53.622684,38.667007"
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D1%83%D0%BB%D0%B8%D0%BA%D0%BE%D0%B2%D0%BE%20%D0%BF%D0%BE%D0%BB%D0%B5&ll=38.667007,53.622684&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kulikovo%20Field%20battle%20memorial%2C%20Tula%2C%20Russia"
     },
     "official_site": "https://kulpole.ru",
     "sources": [
@@ -307,7 +311,8 @@
       "monument"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "tula-bogoroditsk-palace-park",
@@ -352,8 +357,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Bogoroditsk%20Palace%20of%20the%20Bobrinsky%20family%20IMG%205175%201280.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=38.141261,53.77173&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=53.77173,38.141261"
+      "yandex": "https://yandex.com/maps/?text=%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D0%BA%D0%B8%D0%B9%20%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%20%D0%B8%20%D0%BF%D0%B0%D1%80%D0%BA&ll=38.141261,53.77173&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Bogoroditsk%20Palace%20%26%20Park%2C%20Tula%2C%20Russia"
     },
     "official_site": "https://museum-tula.ru/muzei/muzej-bogoroditsk/",
     "sources": [
@@ -370,7 +375,8 @@
       "architecture"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "tula-tula-gingerbread-museum",
@@ -413,8 +419,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Big%20Tula%20Gingerbread.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=37.622091,54.211387&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.211387,37.622091"
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%B9%20%C2%AB%D0%A2%D1%83%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80%D1%8F%D0%BD%D0%B8%D0%BA%C2%BB&ll=37.622091,54.211387&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Tula%20Gingerbread%20Museum%2C%20Russia"
     },
     "official_site": "https://oldtula.ru",
     "sources": [
@@ -431,7 +437,8 @@
       "souvenir"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "tula-anastasov-monastery",
@@ -475,8 +482,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D0%B5-%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%90%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D1%81%D0%BE%D0%B2%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C%20%D1%84%D0%BE%D1%82%D0%BE%204.jpg",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=36.715376,53.945041&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=53.945041,36.715376"
+      "yandex": "https://yandex.com/maps/?text=%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D0%B5-%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%90%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D1%81%D0%BE%D0%B2%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C&ll=36.715376,53.945041&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Anastasov%20Monastery%2C%20Tula%2C%20Russia"
     },
     "official_site": null,
     "sources": [
@@ -493,7 +500,8 @@
       "pilgrimage"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   },
   {
     "id": "tula-tula-samovars-museum",
@@ -536,8 +544,8 @@
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Tula%20samovar%20Museum.JPG",
     "photo_credit": "Wikimedia Commons",
     "maps": {
-      "yandex": "https://yandex.com/maps/?pt=37.618863,54.194385&z=17&l=map",
-      "google": "https://www.google.com/maps/search/?api=1&query=54.194385,37.618863"
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%B9%20%C2%AB%D0%A2%D1%83%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B5%20%D1%81%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%80%D1%8B%C2%BB&ll=37.618863,54.194385&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Museum%20%22Tula%20Samovars%22%2C%20Russia"
     },
     "official_site": "https://museum-tula.ru/muzei/muzej-samovar/",
     "sources": [
@@ -554,6 +562,7 @@
       "culture"
     ],
     "status": "enriched",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-16",
+    "country": "russia"
   }
 ]

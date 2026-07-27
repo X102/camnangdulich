@@ -5,6 +5,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>Khám phá nước Nga cùng Phạm Đăng Hiển · Cẩm nang & tư vấn dẫn tour</title>
 <meta name="description" content="Cẩm nang du lịch Nga bằng tiếng Việt: hàng trăm địa điểm khắp nước Nga kèm bản đồ, đánh giá, thuyết minh. Tư vấn lộ trình và đồng hành dẫn tour cá nhân hoá." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Khám phá nước Nga cùng Phạm Đăng Hiển · Cẩm nang & tư vấn dẫn tour" />
+<meta property="og:description" content="Cẩm nang du lịch Nga (và nay có cả Việt Nam) bằng tiếng Việt: bản đồ, đánh giá, thuyết minh, lập lộ trình. Tư vấn & đồng hành dẫn tour cá nhân hoá." />
+<meta property="og:image" content="assets/vendor/images/marker-icon-2x.png" />
 <link rel="stylesheet" href="assets/app.css" />
 <style>
   .heroX { position: relative; overflow: hidden; background: radial-gradient(1200px 500px at 80% -10%, #2a4d78 0%, transparent 60%), linear-gradient(135deg, #1f3a5f 0%, #16293f 100%); color: #fff; }
@@ -67,6 +71,18 @@
 
   .quote { border-left: 4px solid var(--gold); padding: 6px 0 6px 18px; color: #35404f; font-size: 17px; font-style: italic; max-width: 760px; margin: 8px 0 0; }
   @media (max-width: 640px){ .heroX h1{font-size:30px} .contactX{padding:26px} }
+
+  /* Language switcher (header) */
+  .lang-switch { display: flex; gap: 6px; }
+  .lang-chip {
+    display: inline-flex; align-items: center; gap: 5px; cursor: pointer;
+    border: 1.5px solid rgba(255,255,255,.28); background: rgba(255,255,255,.08);
+    color: #fff; padding: 7px 12px; border-radius: 999px; font-size: 13px; font-weight: 700;
+    line-height: 1; transition: .15s; font-family: inherit;
+  }
+  .lang-chip:hover { background: rgba(255,255,255,.18); }
+  .lang-chip.active { background: var(--gold); color: #241c05; border-color: var(--gold); }
+  @media (max-width: 640px) { .lang-chip { padding: 9px 13px; font-size: 13.5px; } }
 </style>
 </head>
 <body>
@@ -79,6 +95,7 @@
       <a href="gis.html">Bản đồ GIS</a>
       <a href="#lienhe">Liên hệ</a>
     </div>
+    <div class="lang-switch" id="langSwitch"></div>
   </nav>
 </header>
 
@@ -139,6 +156,7 @@
       <div class="fx"><div class="e">⭐</div><div><b>Đánh giá thực tế</b><p>Số sao, lượt đánh giá và tóm tắt nhận xét du khách tổng hợp từ web.</p></div></div>
       <div class="fx"><div class="e">📊</div><div><b>Xuất nhiều định dạng</b><p>CSV, Excel, GeoJSON, JSON — dùng cho phân tích hoặc phần mềm GIS.</p></div></div>
       <div class="fx"><div class="e">🧩</div><div><b>Cập nhật liên tục</b><p>Dữ liệu mở rộng dần ra toàn nước Nga, ngày một đầy đủ hơn.</p></div></div>
+      <div class="fx"><div class="e">🇻🇳</div><div><b>Mới: mở rộng sang Việt Nam</b><p>Cơ sở dữ liệu nay có thêm các điểm đến ở Việt Nam. <a href="list.html?country=vietnam"><b>Xem địa điểm Việt Nam →</b></a></p></div></div>
     </div>
   </div>
 </section>
@@ -179,6 +197,38 @@
   document.getElementById("stRegions").textContent = (m.regions || []).length;
   document.getElementById("stCats").textContent = Object.keys(m.categories || {}).length;
 
+  /* ---------- Ngôn ngữ ---------- */
+  (function buildLangSwitch() {
+    var box = document.getElementById("langSwitch");
+    if (!box) return;
+    Object.keys(RT.LANGS).forEach(function (code) {
+      var info = RT.LANGS[code];
+      var b = document.createElement("button");
+      b.type = "button";
+      b.className = "lang-chip";
+      b.dataset.code = code;
+      b.title = info.label;
+      b.setAttribute("aria-label", info.label);
+      b.innerHTML = info.flag + " <span>" + code.toUpperCase() + "</span>";
+      b.onclick = function () {
+        if (RT.getLang() === code) return;
+        RT.setLang(code);
+        RT.TTS.stop();
+        markLang();
+        renderFeatured();
+      };
+      box.appendChild(b);
+    });
+    markLang();
+  })();
+  function markLang() {
+    var cur = RT.getLang();
+    document.querySelectorAll(".lang-chip").forEach(function (c) {
+      c.classList.toggle("active", c.dataset.code === cur);
+    });
+    document.documentElement.lang = cur;
+  }
+
   // Điểm đến nổi bật: ưu tiên có ảnh + đánh giá cao, đa dạng vùng
   var withPhoto = places.filter(function (p) { return p.photo; });
   withPhoto.sort(function (a, b) {
@@ -194,18 +244,21 @@
     if (feat.length < 8) feat.push(p);
   });
   var fg = document.getElementById("featured");
-  fg.innerHTML = feat.map(function (p) {
-    var info = RT.catInfo(RT.primaryCat(p));
-    var rt = p.rating || {};
-    return '<a class="feat-card" href="gis.html" title="Xem trên bản đồ">' +
-      '<div class="ph" style="background-image:url(\'' + p.photo + '\')">' +
-        '<div class="fallback">' + info.emoji + '</div><div class="grad"></div>' +
-        '<span class="region-chip">' + RT.escapeHtml(p.region_name_vi || "") + '</span>' +
-      '</div>' +
-      '<div class="cap"><h4>' + RT.escapeHtml(p.name_vi) + '</h4>' +
-        '<div class="meta">' + (rt.value != null ? '★ ' + rt.value + (rt.count ? ' · ' + RT.fmtCount(rt.count) + ' đánh giá' : '') : info.vi) + '</div>' +
-      '</div></a>';
-  }).join("");
+  function renderFeatured() {
+    fg.innerHTML = feat.map(function (p) {
+      var info = RT.catInfo(RT.primaryCat(p));
+      var rt = p.rating || {};
+      return '<a class="feat-card" href="gis.html?focus=' + encodeURIComponent(p.id) + '" title="Xem trên bản đồ">' +
+        '<div class="ph" style="background-image:url(\'' + p.photo + '\')">' +
+          '<div class="fallback">' + info.emoji + '</div><div class="grad"></div>' +
+          '<span class="region-chip">' + RT.escapeHtml(p.region_name_vi || "") + '</span>' +
+        '</div>' +
+        '<div class="cap"><h4>' + RT.escapeHtml(RT.t(p, "name")) + '</h4>' +
+          '<div class="meta">' + (rt.value != null ? '★ ' + rt.value + (rt.count ? ' · ' + RT.fmtCount(rt.count) + ' ' + (RT.getLang() === "vi" ? "đánh giá" : RT.getLang() === "ru" ? "оценок" : "reviews") : '') : info.vi) + '</div>' +
+        '</div></a>';
+    }).join("");
+  }
+  renderFeatured();
 
   // Chip các vùng đã có
   var rc = document.getElementById("regionsCloud");
