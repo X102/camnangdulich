@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-27T17:24:47",
-  "total_places": 1493,
+  "generated": "2026-07-27T18:32:46",
+  "total_places": 1535,
   "regions": [
     {
       "slug": "adygea",
@@ -1350,16 +1350,16 @@
       "name_vi": "An Giang",
       "federal_district": "Miền Nam",
       "country": "vietnam",
-      "count": 6,
+      "count": 28,
       "bbox": [
-        103.9583,
-        10.0433,
-        105.0894,
-        10.6817
+        103.8419,
+        9.6792,
+        105.4386,
+        10.917
       ],
       "center": [
-        10.347433333333333,
-        104.52601666666668
+        10.344664285714288,
+        104.63029285714286
       ]
     },
     {
@@ -1571,16 +1571,16 @@
       "name_vi": "Hải Phòng",
       "federal_district": "Miền Bắc",
       "country": "vietnam",
-      "count": 2,
+      "count": 22,
       "bbox": [
-        106.788,
-        20.713,
-        107.048,
-        20.728
+        106.228,
+        20.137,
+        107.718,
+        21.145
       ],
       "center": [
-        20.7205,
-        106.918
+        20.815645454545454,
+        106.69220454545456
       ]
     },
     {
@@ -2027,20 +2027,20 @@
     }
   ],
   "categories": {
-    "park_garden": 490,
-    "other": 372,
-    "church": 353,
-    "square_street": 110,
-    "monument": 454,
-    "museum": 373,
+    "park_garden": 496,
+    "other": 402,
+    "church": 360,
+    "square_street": 112,
+    "monument": 473,
+    "museum": 376,
     "fortress": 84,
     "palace": 65,
-    "bridge": 28,
-    "theatre": 24
+    "bridge": 29,
+    "theatre": 25
   },
   "countries": {
     "russia": 1059,
-    "vietnam": 434
+    "vietnam": 476
   },
   "country_names": {
     "russia": "Nga",
@@ -2053,7 +2053,7 @@
     71.233333
   ],
   "center": [
-    43.869001264568006,
-    67.54629470194237
+    43.08826585537462,
+    68.58794957003252
   ]
 }
