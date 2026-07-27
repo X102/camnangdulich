@@ -1,0 +1,130 @@
+# -*- coding: utf-8 -*-
+import json, os, unicodedata
+HERE = os.path.dirname(os.path.abspath(__file__))
+
+d = {
+"slug": "cathedral-mosque",
+"name_vi": "Nhà thờ Hồi giáo Lớn Moskva",
+"name_ru": "Московская соборная мечеть",
+"name_en": "Moscow Cathedral Mosque",
+"subtitle": "Thánh đường Hồi giáo trung tâm của thủ đô nước Nga — một trong những nhà thờ Hồi giáo lớn nhất châu Âu, với hai tháp minaret vút cao, mái vòm dát vàng và không gian chứa được hơn mười nghìn tín đồ, biểu tượng cho sự chung sống của nhiều tôn giáo giữa lòng Moskva.",
+"sections": [
+ {"heading": "Giới thiệu chung", "paras": [
+  "Nằm trên phố Vypolzov, ngay gần khu liên hợp thể thao Olimpiysky và ga tàu điện ngầm Prospekt Mira, Nhà thờ Hồi giáo Lớn Moskva (tiếng Nga: Московская соборная мечеть) là thánh đường Hồi giáo trung tâm và quan trọng nhất của thủ đô nước Nga. Với sức chứa hơn mười nghìn tín đồ, đây được xem là một trong những nhà thờ Hồi giáo lớn nhất châu Âu, đồng thời là trung tâm tinh thần của cộng đồng Hồi giáo đông đảo đang sinh sống tại Moskva và là trụ sở gắn với Hội đồng Muftis của nước Nga.",
+  "Công trình hiện nay được khánh thành năm 2015, thay thế cho ngôi đền cũ khiêm tốn từng đứng trên mảnh đất này từ năm 1904. Diện mạo mới bề thế và lộng lẫy hơn hẳn: hai tháp minaret cao khoảng bảy mươi hai mét vươn thẳng lên nền trời, mái vòm trung tâm dát vàng lấp lánh, cùng khối kiến trúc đồ sộ nhiều tầng gợi nhớ tới nghệ thuật Hồi giáo của vùng Kazan và truyền thống kiến trúc đền đài của thế giới Hồi giáo nói chung.",
+  "Điểm đặc biệt của thánh đường không chỉ nằm ở quy mô, mà còn ở thông điệp hoà hợp mà nó gửi gắm. Hình dáng các tháp minaret được thiết kế gợi liên tưởng tới tháp nghiêng Söyembika ở Kazan và tháp Spasskaya của Điện Kremlin Moskva — một cách kết nối tinh tế giữa bản sắc Hồi giáo Tatar và biểu tượng của nước Nga. Với ý nghĩa đó, nhà thờ được nhìn nhận như một biểu tượng cho sự chung sống hoà bình giữa các dân tộc và tôn giáo trên đất Nga.",
+  "Đối với du khách, đây là một điểm đến giúp mở rộng góc nhìn về Moskva vượt ra khỏi hình ảnh quen thuộc của những nhà thờ Chính thống giáo mái vòm củ hành. Sự hiện diện của một thánh đường Hồi giáo nguy nga giữa lòng thủ đô cho thấy diện mạo đa tôn giáo, đa sắc tộc của nước Nga đương đại. Tuy nhiên, cần luôn ghi nhớ đây trước hết là một nơi thờ tự linh thiêng đang hoạt động, nên mọi hoạt động tham quan đều phải tuân thủ các quy tắc ứng xử trang nghiêm.",
+  "Là tài liệu thuyết minh nội bộ, phần trình bày dưới đây tổng hợp và biên soạn lại từ các nguồn tư liệu tiếng Anh và tiếng Nga, nhằm cung cấp cho hướng dẫn viên bức tranh đầy đủ về lịch sử, kiến trúc và ý nghĩa của công trình. Do đặc thù tôn giáo, tài liệu cũng nhấn mạnh những lưu ý quan trọng về trang phục, thời điểm và cách ứng xử để bảo đảm chuyến tham quan diễn ra suôn sẻ và tôn trọng nơi thờ tự."
+ ]},
+ {"heading": "Vị trí & cách di chuyển", "paras": [
+  "Nhà thờ Hồi giáo Lớn Moskva toạ lạc tại số 7 phố Vypolzov (Vypolzov pereulok), thuộc quận Meshchansky ở phía Bắc trung tâm thành phố. Vị trí này nằm sát cạnh khu liên hợp thể thao Olimpiysky lịch sử và không xa đại lộ Prospekt Mira — một trong những trục đường lớn dẫn từ trung tâm lên khu vực triển lãm VDNKh ở phía Bắc. Toạ độ địa lý xấp xỉ 55,78 độ vĩ Bắc và 37,63 độ kinh Đông.",
+  "Phương tiện thuận tiện nhất là tàu điện ngầm. Du khách đi tới ga Prospekt Mira — ga này nằm trên cả tuyến vòng (tuyến số 5, màu nâu) lẫn tuyến Kaluzhsko-Rizhskaya (tuyến số 6, màu cam), nên rất dễ tiếp cận từ nhiều hướng. Từ ga đi bộ khoảng bảy đến mười phút là tới nhà thờ. Ngoài ra, ga Dostoevskaya (tuyến số 10) cũng nằm trong khoảng cách đi bộ hợp lý và có thể là lựa chọn thay thế.",
+  "Nếu di chuyển bằng taxi hay xe riêng, du khách nên dùng ứng dụng Yandex Go phổ biến ở Nga và lấy mốc là Московская соборная мечеть hoặc khu Olimpiysky. Từ khu vực Quảng trường Đỏ, quãng đường chỉ chừng bốn đến năm cây số, mất khoảng mười lăm đến hai mươi phút. Khu vực quanh nhà thờ khá đông đúc vào giờ cầu nguyện và các ngày lễ Hồi giáo, nên cần tính toán thời gian và chỗ đỗ xe hợp lý.",
+  "Về tổ chức lộ trình, nhà thờ nằm ở khu vực có nhiều điểm tham quan lân cận nên rất dễ ghép tuyến. Cách bố trí hợp lý là kết hợp với Vườn Bách thảo Aptekarsky Ogorod (chỉ cách vài phút, ngay trên Prospekt Mira), hoặc lồng vào hành trình lên VDNKh và Bảo tàng Du hành Vũ trụ ở phía Bắc theo cùng trục tàu điện. Đây cũng có thể là một điểm dừng ngắn trên đường ra – vào khu vực phía Bắc thành phố.",
+  "Một lưu ý quan trọng về thời điểm: vì là nơi thờ tự đang hoạt động, nhà thờ đông nhất vào các giờ cầu nguyện trong ngày, đặc biệt là buổi trưa thứ Sáu và trong tháng lễ Ramadan cũng như hai dịp lễ lớn Eid. Để tham quan thuận lợi và tránh làm ảnh hưởng tới tín đồ, hướng dẫn viên nên chủ động sắp xếp đến vào khung giờ ngoài lễ cầu nguyện và luôn kiểm tra tình hình thực tế trước khi đưa đoàn tới."
+ ]},
+ {"heading": "Lịch sử hình thành và phát triển", "paras": [
+  "Lịch sử thánh đường bắt đầu từ năm 1904, khi ngôi nhà thờ Hồi giáo đầu tiên được dựng lên trên mảnh đất này theo thiết kế của kiến trúc sư Nikolay Zhukov, với sự tài trợ của cộng đồng thương nhân Hồi giáo, phần lớn là người Tatar. Chính vì cộng đoàn chủ yếu là người Tatar mà ngôi đền khi ấy còn được gọi thân mật là 'Nhà thờ Tatar'. Trong suốt thế kỷ 20, đây là một trong số ít thánh đường Hồi giáo phục vụ cộng đồng tín đồ ở Moskva và có vai trò như nhà thờ trung tâm.",
+  "Trải qua nhiều thập niên và một số lần tu sửa, ngôi đền cũ dần trở nên chật hẹp so với cộng đồng Hồi giáo ngày một đông đảo của thủ đô. Đến năm 2011, một quyết định gây nhiều tranh luận đã được đưa ra: phá dỡ ngôi đền cũ để xây mới trên nền đất đó. Ngày 11 tháng 9 năm 2011, công trình lịch sử bị hạ giải. Một trong những lý do được nêu ra là toà nhà cũ đã xuống cấp và bị lệch vài độ so với hướng về Mecca (thánh địa mà tín đồ hướng về khi cầu nguyện), nên việc xây mới sẽ giúp điều chỉnh lại phương hướng cho chuẩn xác.",
+  "Trên nền đất cũ, một thánh đường hoàn toàn mới, đồ sộ hơn nhiều, đã được xây dựng. Công trình tiêu tốn nguồn kinh phí rất lớn (theo nhiều nguồn ước tính khoảng một trăm bảy mươi triệu đô-la Mỹ, phần lớn từ các nhà hảo tâm) và mất vài năm để hoàn thành. Nhà thờ mới được thiết kế để đáp ứng nhu cầu của một cộng đồng lên tới hàng triệu người Hồi giáo ở Moskva và vùng phụ cận, với sức chứa vượt trội so với công trình cũ.",
+  "Lễ khánh thành trọng thể diễn ra ngày 23 tháng 9 năm 2015, với sự tham dự của nhiều nguyên thủ và lãnh đạo quốc gia, trong đó có Tổng thống Nga Vladimir Putin, Tổng thống Thổ Nhĩ Kỳ Recep Tayyip Erdoğan và lãnh đạo Palestine Mahmoud Abbas, cùng đông đảo giáo sĩ và tín đồ. Quy mô của buổi lễ cho thấy tầm vóc và ý nghĩa của công trình không chỉ đối với cộng đồng Hồi giáo Nga mà còn trong quan hệ đối ngoại và hình ảnh của nước Nga đa tôn giáo.",
+  "Kể từ khi khánh thành, thánh đường trở thành trung tâm sinh hoạt tôn giáo lớn nhất của cộng đồng Hồi giáo tại Moskva. Vào các dịp lễ lớn như Eid al-Fitr (kết thúc tháng Ramadan) và Eid al-Adha, hàng chục nghìn người tề tựu về đây và khu vực xung quanh để cầu nguyện, tạo nên một trong những khung cảnh tôn giáo ấn tượng nhất của thủ đô. Công trình cũng nhanh chóng trở thành một điểm nhấn kiến trúc mới, thường xuyên xuất hiện trong các ấn phẩm giới thiệu về một Moskva hiện đại và đa dạng."
+ ]},
+ {"heading": "Kiến trúc & đặc điểm nổi bật", "paras": [
+  "Về tổng thể, nhà thờ mới là một khối kiến trúc bề thế trải trên nhiều tầng, kết hợp giữa truyền thống kiến trúc Hồi giáo và những mô-típ mang bản sắc của vùng Kazan — trung tâm văn hoá của người Tatar theo đạo Hồi ở Nga. Mặt ngoài công trình sử dụng các gam màu đặc trưng của nghệ thuật Hồi giáo như xanh ngọc lục bảo, xanh lam và trắng, tạo cảm giác vừa uy nghi vừa thanh thoát. Các hoạ tiết trang trí, hoa văn hình học và thư pháp Ả Rập phủ khắp bề mặt theo đúng truyền thống trang trí đền đài Hồi giáo.",
+  "Hai tháp minaret là điểm nhấn dễ nhận thấy nhất từ xa, cao khoảng bảy mươi hai mét. Hình dáng của chúng được thiết kế mang tính biểu tượng: gợi liên tưởng tới tháp nghiêng Söyembika nổi tiếng trong Điện Kremlin Kazan và tháp Spasskaya của Điện Kremlin Moskva. Sự gợi nhắc kép này thể hiện ý tưởng về sự hoà quyện và đoàn kết giữa người Nga và người Tatar, giữa văn hoá Hồi giáo và bản sắc chung của nước Nga — một thông điệp được cài cắm khéo léo vào chính hình khối kiến trúc.",
+  "Mái vòm trung tâm là bộ phận lộng lẫy nhất của công trình, được phủ vàng lá lấp lánh dưới ánh mặt trời. Theo các nguồn tư liệu, lượng vàng dùng để dát mái vòm và các chi tiết lên tới khoảng mười hai ki-lô-gam. Vào những ngày nắng, ánh vàng của mái vòm nổi bật trên nền trời và các gam màu xanh của công trình, tạo nên hình ảnh vô cùng ấn tượng, có thể nhìn thấy từ nhiều hướng trong khu vực.",
+  "Không gian nội thất cũng gây choáng ngợp không kém. Đại sảnh cầu nguyện rộng lớn có thể đón hàng nghìn tín đồ cùng lúc, với những hàng cột, đèn chùm nguy nga và thảm trải sàn cầu kỳ. Đặc biệt, phần trong của mái vòm cùng tường và trần được trang trí bằng những dòng thư pháp trích từ kinh Koran, do các nghệ nhân Thổ Nhĩ Kỳ thực hiện. Sự tinh xảo trong từng nét chữ và hoa văn cho thấy trình độ nghệ thuật cao và tâm huyết dành cho công trình.",
+  "Tổng hoà lại, kiến trúc của Nhà thờ Hồi giáo Lớn Moskva là sự pha trộn giữa quy mô hoành tráng của kiến trúc hiện đại và bề dày truyền thống của nghệ thuật Hồi giáo. Công trình vừa đáp ứng nhu cầu thực tế của một cộng đồng tín đồ đông đảo, vừa mang tính biểu tượng cao. Với du khách, ngay cả khi chỉ chiêm ngưỡng từ bên ngoài, khối kiến trúc với hai tháp minaret và mái vòm dát vàng cũng đủ để lại ấn tượng mạnh mẽ về một trong những công trình tôn giáo tiêu biểu của Moskva đương đại."
+ ]},
+ {"heading": "Những điểm nhấn không thể bỏ lỡ", "paras": [
+  "Điểm nhấn đầu tiên là toàn cảnh mặt tiền với hai tháp minaret và mái vòm dát vàng. Đây là góc nhìn kinh điển để cảm nhận sự bề thế của công trình và cũng là góc chụp ảnh đẹp nhất từ bên ngoài. Hướng dẫn viên nên chỉ cho đoàn thấy sự tương phản giữa sắc vàng của mái vòm, sắc xanh của thân công trình và nền trời, đồng thời giải thích ý nghĩa biểu tượng của hình dáng các tháp minaret.",
+  "Điểm nhấn thứ hai là đại sảnh cầu nguyện bên trong — không gian rộng lớn, trang nghiêm với hệ thống đèn chùm, cột trụ và thảm trải. Nếu điều kiện cho phép vào tham quan (ngoài giờ lễ và tuân thủ quy tắc), du khách sẽ cảm nhận được sự tĩnh lặng thiêng liêng và vẻ đẹp choáng ngợp của không gian nội thất. Đây là trải nghiệm giúp hiểu rõ hơn về kiến trúc và nghi lễ Hồi giáo.",
+  "Điểm nhấn thứ ba là phần trang trí thư pháp và hoa văn. Những dòng chữ trích từ kinh Koran uốn lượn trên vòm và tường, cùng các hoa văn hình học tinh xảo, là tinh hoa của nghệ thuật trang trí Hồi giáo. Việc quan sát kỹ những chi tiết này giúp du khách hiểu rằng trong nghệ thuật Hồi giáo, chữ viết và hoa văn hình học đóng vai trò trung tâm thay cho hình tượng người và vật.",
+  "Điểm nhấn thứ tư là mihrab — hốc tường chỉ hướng về Mecca, nơi vị imam đứng dẫn dắt buổi cầu nguyện — cùng minbar (bục giảng). Đây là những thành phần cốt lõi và giàu ý nghĩa nhất trong bất kỳ thánh đường Hồi giáo nào. Hiểu về chức năng của mihrab và minbar sẽ giúp du khách nắm được cấu trúc và trật tự của một buổi hành lễ, từ đó cảm nhận trọn vẹn hơn không gian tôn giáo này.",
+  "Cuối cùng, bản thân bầu không khí xung quanh nhà thờ, đặc biệt vào các dịp lễ, cũng là một 'điểm nhấn sống'. Cảnh hàng nghìn tín đồ tề tựu, dòng người đông đúc, tiếng gọi cầu nguyện vang lên — tất cả tạo nên một trải nghiệm văn hoá – tôn giáo chân thực và khó quên. Dù vậy, vào những dịp này, du khách nên giữ khoảng cách tôn trọng và chỉ quan sát, tránh gây ảnh hưởng tới hoạt động thờ phượng."
+ ]},
+ {"heading": "Ý nghĩa lịch sử – văn hoá", "paras": [
+  "Nhà thờ Hồi giáo Lớn Moskva mang ý nghĩa biểu tượng sâu sắc về một nước Nga đa tôn giáo và đa sắc tộc. Hồi giáo là tôn giáo lớn thứ hai ở Nga, với hàng triệu tín đồ thuộc nhiều dân tộc như Tatar, Bashkir, các dân tộc vùng Bắc Kavkaz và cộng đồng nhập cư từ Trung Á. Việc thủ đô có một thánh đường trung tâm bề thế phản ánh vị thế của cộng đồng Hồi giáo trong đời sống quốc gia và tinh thần chung sống giữa các tôn giáo.",
+  "Về mặt lịch sử, sự nối tiếp từ ngôi đền năm 1904 tới công trình năm 2015 trên cùng một mảnh đất là biểu tượng cho tính liên tục của cộng đồng Hồi giáo Moskva qua hơn một thế kỷ đầy biến động — từ thời đế quốc Nga, qua thời kỳ Xô-viết với chính sách vô thần, cho tới nước Nga hiện đại. Ngôi đền đã chứng kiến và đồng hành cùng cộng đồng qua nhiều thăng trầm, và diện mạo mới hôm nay là kết quả của một quá trình phục hồi và phát triển đời sống tôn giáo.",
+  "Thiết kế mang tính hoà giải của công trình — với các tháp minaret gợi nhắc cả biểu tượng Tatar lẫn biểu tượng Nga — thể hiện một thông điệp văn hoá quan trọng: sự gắn bó giữa các dân tộc trong một quốc gia chung. Đây không chỉ là nơi thờ tự mà còn là một tuyên ngôn kiến trúc về đoàn kết và bao dung, đặc biệt có ý nghĩa trong bối cảnh thế giới còn nhiều chia rẽ về tôn giáo và sắc tộc.",
+  "Sự kiện khánh thành năm 2015 với sự hiện diện của nhiều nguyên thủ quốc gia cũng cho thấy vai trò của công trình trong hoạt động đối ngoại và ngoại giao tôn giáo của nước Nga. Thánh đường trở thành một điểm đến biểu trưng cho quan hệ giữa Nga với thế giới Hồi giáo, đồng thời khẳng định hình ảnh một quốc gia coi trọng sự đa dạng tôn giáo trong lòng mình.",
+  "Với du khách quốc tế, và đặc biệt là du khách Việt Nam vốn quen thuộc với hình ảnh chùa chiền và nhà thờ Chính thống, việc ghé thăm một thánh đường Hồi giáo lớn là cơ hội quý để mở rộng hiểu biết về một nền văn hoá – tôn giáo khác. Trải nghiệm này góp phần bồi đắp sự tôn trọng và cảm thông giữa các nền văn hoá, đúng với tinh thần cởi mở mà chính công trình muốn truyền tải."
+ ]},
+ {"heading": "Trải nghiệm dành cho du khách", "paras": [
+  "Trải nghiệm cốt lõi khi tới đây là chiêm ngưỡng một công trình tôn giáo lộng lẫy và cảm nhận không khí thiêng liêng của một thánh đường Hồi giáo đang hoạt động. Ngay cả khi chỉ dừng lại bên ngoài để ngắm nhìn kiến trúc và chụp ảnh, du khách cũng đã có được ấn tượng đáng nhớ. Nếu được vào bên trong, cảm giác choáng ngợp trước không gian rộng lớn và tĩnh lặng sẽ là điểm nhấn của chuyến thăm.",
+  "Việc vào tham quan bên trong là hoàn toàn có thể với du khách, nhưng phải tuân thủ nghiêm ngặt các quy tắc. Trước khi vào, tất cả phải bỏ giày dép. Trang phục cần kín đáo: nam mặc quần dài, tránh áo cộc; nữ cần trùm khăn che tóc và mặc đồ dài che kín tay chân. Đây là những yêu cầu bắt buộc ở hầu hết các thánh đường Hồi giáo, thể hiện sự tôn trọng đối với nơi thờ tự.",
+  "Trong không gian nhà thờ, du khách nên giữ im lặng, đi lại nhẹ nhàng và tránh đi vào khu vực đang có người cầu nguyện. Tuyệt đối không chụp ảnh cận cảnh những người đang hành lễ nếu chưa được phép, và nên hỏi ý trước khi quay phim, chụp ảnh ở những khu vực nhạy cảm. Việc tôn trọng sự riêng tư và tính thiêng liêng của nghi lễ là điều tối quan trọng.",
+  "Miễn phí vào cửa là một điểm thuận lợi, vì đây là nơi thờ tự chứ không phải điểm du lịch thu phí. Tuy nhiên, du khách nên cư xử như một vị khách được đón tiếp: lịch sự, kín đáo và có ý thức. Nếu có thể, việc đi cùng một hướng dẫn viên am hiểu hoặc tham gia một tour có tổ chức sẽ giúp trải nghiệm vừa thuận lợi vừa hiểu biết hơn về ý nghĩa của từng không gian.",
+  "Thời lượng tham quan hợp lý khoảng ba mươi đến bốn mươi lăm phút, đủ để ngắm kiến trúc bên ngoài, vào bên trong (nếu điều kiện cho phép) và nghe thuyết minh. Đây là điểm đến phù hợp để bổ sung chiều sâu văn hoá cho hành trình, giúp đoàn có một trải nghiệm khác biệt so với chuỗi nhà thờ Chính thống và cung điện thường thấy trong các tour Moskva truyền thống."
+ ]},
+ {"heading": "Mẹo tham quan", "paras": [
+  "Về thời điểm, hãy tránh các giờ cầu nguyện trong ngày và đặc biệt là buổi trưa thứ Sáu — thời điểm đông tín đồ nhất. Nếu muốn tham quan yên tĩnh, nên chọn buổi sáng các ngày trong tuần ngoài giờ lễ. Trong tháng Ramadan và hai dịp lễ Eid, khu vực này cực kỳ đông đúc; nếu đến vào dịp này, du khách chỉ nên quan sát từ xa và không nên cố vào bên trong.",
+  "Về trang phục, hãy chuẩn bị sẵn đồ phù hợp trước khi đến: nữ nên mang theo khăn trùm đầu và áo/khăn dài che tay chân; nam mặc quần dài. Việc chuẩn bị từ trước giúp tránh tình huống bị từ chối vào cửa vì trang phục không phù hợp. Một số nơi có thể cho mượn khăn choàng, nhưng không nên phụ thuộc vào điều đó.",
+  "Về ứng xử, hãy dặn dò đoàn giữ thái độ trang nghiêm, nói khẽ và tôn trọng tín đồ. Nhắc mọi người tắt hoặc để chuông điện thoại ở chế độ im lặng, không đùa giỡn, không tạo dáng chụp ảnh phản cảm. Sự tôn trọng này không chỉ là phép lịch sự mà còn giúp giữ hình ảnh đẹp cho đoàn khách trong mắt cộng đồng địa phương.",
+  "Về di chuyển và kết hợp, hãy tận dụng vị trí thuận lợi gần ga Prospekt Mira để ghép nhà thờ với các điểm lân cận như Vườn Bách thảo Aptekarsky Ogorod hoặc hành trình lên VDNKh. Nên bố trí nhà thờ như một điểm dừng có chủ đích trong buổi, tính toán thời gian đi lại để không ảnh hưởng tới các điểm khác trong lịch trình.",
+  "Cuối cùng, về nội dung thuyết minh, hãy chuẩn bị trước những kiến thức nền về Hồi giáo và về công trình để giải thích cho đoàn, đặc biệt là những du khách chưa quen với văn hoá Hồi giáo. Việc giới thiệu ngắn gọn về ý nghĩa của mihrab, minbar, các quy tắc cầu nguyện và biểu tượng của các tháp minaret sẽ giúp chuyến tham quan trở nên ý nghĩa và tránh những hiểu lầm hay ứng xử vô tình thiếu tế nhị."
+ ]},
+ {"heading": "Khám phá xung quanh", "paras": [
+  "Ngay gần nhà thờ, trên đại lộ Prospekt Mira, là Vườn Bách thảo Aptekarsky Ogorod — vườn thực vật lâu đời nhất Moskva, có nguồn gốc từ 'vườn thuốc' do Pyotr Đại đế cho lập từ đầu thế kỷ 18. Đây là một ốc đảo xanh mát với nhà kính nhiệt đới, hồ nước và những bộ sưu tập cây quý, rất thích hợp để ghé thăm ngay sau khi tham quan nhà thờ, tạo nên sự chuyển tiếp thú vị giữa không gian tôn giáo và thiên nhiên.",
+  "Kề bên nhà thờ là khu liên hợp thể thao Olimpiysky — công trình từng được xây dựng phục vụ Thế vận hội Mùa hè 1980 tổ chức tại Moskva. Dù khu vực này đã trải qua quá trình cải tạo, cải tổ lớn, tên tuổi và vị trí của nó vẫn gắn liền với ký ức thể thao của thành phố. Đây là điểm dễ nhận biết giúp du khách định vị nhà thờ trong không gian đô thị.",
+  "Đi dọc Prospekt Mira về phía Nam, du khách sẽ tới khu vực phố Sretenka và các con phố cổ với nhiều nhà thờ nhỏ, quán cà phê và không khí Moskva xưa. Ngược lại, đi về phía Bắc theo cùng trục tàu điện sẽ dẫn tới quần thể triển lãm VDNKh nổi tiếng cùng Bảo tàng Du hành Vũ trụ và tượng đài Chinh phục Vũ trụ — một cụm điểm đến lớn rất đáng dành trọn nửa ngày.",
+  "Khu vực này cũng có Nhà hát Thú vật Durov (Ugolok Durova) — một nhà hát độc đáo dành cho thiếu nhi với các tiết mục biểu diễn của động vật, phù hợp cho các đoàn có trẻ em. Ngoài ra, gần đó còn có bảo tàng và nhà tưởng niệm gắn với văn hào Dostoevsky, bổ sung thêm lựa chọn cho những ai quan tâm tới văn học Nga.",
+  "Về ẩm thực, khu vực quanh Prospekt Mira và Meshchansky có nhiều nhà hàng đa dạng, trong đó có các quán phục vụ ẩm thực Trung Á, Tatar, Kavkaz và Halal — rất phù hợp để du khách thưởng thức những món ăn gắn với văn hoá Hồi giáo mà mình vừa tìm hiểu. Một bữa ăn với các món như plov, kebab hay bánh samsa sẽ là phần bổ sung sinh động cho trải nghiệm khám phá không gian Hồi giáo tại Moskva."
+ ]},
+ {"heading": "Câu chuyện & giai thoại thú vị", "paras": [
+  "Một câu chuyện đáng nhớ gắn với công trình là quyết định phá dỡ ngôi đền cũ năm 2011 — sự kiện từng gây nhiều tranh luận. Ngôi đền năm 1904 đã được công nhận là di sản văn hoá vào tháng 6 năm 2008, nhưng chỉ ít lâu sau lại bị đưa ra khỏi danh sách các di tích lịch sử – kiến trúc được bảo vệ. Nhờ vậy, tại thời điểm hạ giải, công trình không còn nằm trong diện được bảo vệ. Chi tiết này cho thấy những câu chuyện phức tạp thường ẩn sau các công trình lớn, nơi giá trị di sản, nhu cầu thực tế và quyết định hành chính đan xen.",
+  "Một trong những lý do được nêu để biện minh cho việc xây mới là ngôi đền cũ bị lệch vài độ so với hướng chuẩn về Mecca. Trong Hồi giáo, hướng cầu nguyện (qibla) có ý nghĩa cực kỳ quan trọng, nên việc điều chỉnh lại phương hướng của thánh đường không đơn thuần là chuyện kỹ thuật mà còn mang ý nghĩa tôn giáo. Câu chuyện nhỏ này giúp du khách hiểu vì sao phương hướng của một công trình Hồi giáo lại được coi trọng đến vậy.",
+  "Việc trùng hợp ngày phá dỡ ngôi đền cũ rơi đúng vào ngày 11 tháng 9 — ngày kỷ niệm sự kiện khủng bố năm 2001 ở Mỹ — cũng từng được báo chí quốc tế nhắc tới như một sự trùng hợp không mong muốn và nhạy cảm. Dù chỉ là ngẫu nhiên, chi tiết này cho thấy sự chú ý mà công trình nhận được vượt ra ngoài phạm vi một dự án xây dựng thông thường.",
+  "Sự hiện diện của các nghệ nhân Thổ Nhĩ Kỳ trong việc trang trí nội thất, đặc biệt là các dòng thư pháp kinh Koran trên vòm và tường, là một chi tiết thú vị cho thấy tính quốc tế của công trình. Thổ Nhĩ Kỳ vốn có truyền thống lâu đời và trình độ bậc thầy về nghệ thuật trang trí đền đài Hồi giáo, nên việc mời nghệ nhân của họ tham gia là cách bảo đảm chất lượng nghệ thuật ở mức cao nhất cho thánh đường.",
+  "Cuối cùng, hình ảnh hai tháp minaret được thiết kế gợi nhớ tới cả tháp Söyembika ở Kazan lẫn tháp Spasskaya của Kremlin Moskva là một 'giai thoại kiến trúc' đáng kể. Ẩn sau hình khối tưởng như thuần tuý thẩm mỹ ấy là cả một tuyên ngôn về sự gắn bó giữa hai dân tộc Nga và Tatar, giữa hai nền văn hoá và tôn giáo. Đây là ví dụ điển hình cho thấy kiến trúc có thể kể chuyện và truyền tải thông điệp sâu xa như thế nào, và là chi tiết mà hướng dẫn viên nên nhấn mạnh để tạo chiều sâu cho bài thuyết minh."
+ ]}
+],
+"highlights": [
+ "Một trong những nhà thờ Hồi giáo lớn nhất châu Âu, sức chứa hơn 10.000 tín đồ; thánh đường Hồi giáo trung tâm của Moskva.",
+ "Tái thiết trên nền ngôi đền năm 1904 (kiến trúc sư Nikolay Zhukov, 'Nhà thờ Tatar'); ngôi đền cũ bị phá năm 2011.",
+ "Khánh thành ngày 23 tháng 9 năm 2015 với sự hiện diện của Tổng thống Nga Putin, Tổng thống Thổ Nhĩ Kỳ Erdoğan và lãnh đạo Palestine Abbas.",
+ "Hai tháp minaret cao khoảng 72 m, gợi hình tháp Söyembika (Kazan) và tháp Spasskaya (Kremlin) — biểu tượng đoàn kết Nga – Tatar.",
+ "Mái vòm trung tâm dát khoảng 12 kg vàng lá; kinh phí xây dựng ước tính khoảng 170 triệu USD.",
+ "Nội thất trang trí thư pháp kinh Koran do nghệ nhân Thổ Nhĩ Kỳ thực hiện; gam màu xanh ngọc, xanh lam và trắng đặc trưng.",
+ "Miễn phí vào cửa (là nơi thờ tự); yêu cầu trang phục kín đáo, bỏ giày, nữ trùm khăn.",
+ "Gần ga metro Prospekt Mira, dễ kết hợp với Vườn Bách thảo Aptekarsky Ogorod và trục VDNKh."
+],
+"images": [
+ {"url": "https://commons.wikimedia.org/wiki/Special:FilePath/Moscow%20Cathedral%20Mosque%202015-08.jpg", "caption": "Toàn cảnh Nhà thờ Hồi giáo Lớn Moskva với hai tháp minaret và mái vòm dát vàng (2015)."},
+ {"url": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Moscow%20Cathedral%20Mosque%20Moscow%20Russia%20DSC-0002.jpg", "caption": "Mặt tiền thánh đường nhìn từ phố Vypolzov."},
+ {"url": "https://commons.wikimedia.org/wiki/Special:FilePath/Moscow%20Cathedral%20Mosque%2001-2016.jpg", "caption": "Công trình trong sắc tuyết mùa đông đầu năm 2016."},
+ {"url": "https://commons.wikimedia.org/wiki/Special:FilePath/Moscow%20Cathedral%20Mosque%20interior%2001-2016%20img1.jpg", "caption": "Không gian nội thất lộng lẫy bên trong đại sảnh cầu nguyện."},
+ {"url": "https://commons.wikimedia.org/wiki/Special:FilePath/Moscow%20Cathedral%20Mosque%20(22079109675).jpg", "caption": "Mái vòm và tháp minaret nổi bật trên nền trời Moskva."}
+],
+"references": [
+ {"title": "Moscow Cathedral Mosque — Wikipedia (EN)", "url": "https://en.wikipedia.org/wiki/Moscow_Cathedral_Mosque"},
+ {"title": "5 facts about Moscow's new central mosque — Russia Beyond (RBTH)", "url": "https://www.rbth.com/society/2015/09/23/five_facts_about_moscows_new_central_mosque_49461.html"},
+ {"title": "Moscow Cathedral Mosque: The History of Foundation — ResearchGate", "url": "https://www.researchgate.net/publication/304223790_MOSCOW_CATHEDRAL_MOSQUE_THE_HISTORY_OF_FOUNDATION"},
+ {"title": "Moscow Cathedral Mosque — Mosqpedia", "url": "https://mosqpedia.org/masajid/moscow-central-mosque/"},
+ {"title": "Moscow Cathedral Mosque — Religiana", "url": "https://religiana.com/moscow-cathedral-mosque"},
+ {"title": "Moscow Cathedral Mosque — Alluring World", "url": "https://www.alluringworld.com/moscow-cathedral-mosque/"}
+],
+"sources": [
+ "Wikipedia tiếng Anh — mục 'Moscow Cathedral Mosque' (lịch sử 1904, kiến trúc sư Nikolay Zhukov, phá dỡ 11/9/2011, khánh thành 23/9/2015, sức chứa 10.000, khách mời Putin – Erdoğan – Abbas, hướng qibla).",
+ "Russia Beyond (RBTH), bài '5 facts about Moscow's new central mosque' (2015) — chi tiết về quy mô, mái vòm và bối cảnh.",
+ "Dữ liệu dự án 'Cẩm nang Du lịch Nga' (data/regions/moscow) — số liệu tháp minaret ~72 m, ~12 kg vàng lá, kinh phí ~170 triệu USD, địa chỉ Vypolzov pereulok 7.",
+ "ResearchGate — 'Moscow Cathedral Mosque: The History of Foundation' (bối cảnh lịch sử hình thành).",
+ "Mosqpedia — hồ sơ mô tả thánh đường trung tâm Moskva.",
+ "Religiana và Alluring World — mô tả kiến trúc, phong cách trang trí và các gam màu đặc trưng.",
+ "Thông tin nền về nghệ thuật trang trí Hồi giáo (mihrab, minbar, thư pháp, hoa văn hình học) tổng hợp từ kiến thức phổ thông về kiến trúc tôn giáo.",
+ "Bối cảnh về cộng đồng Hồi giáo tại Nga và vùng Kazan/Tatar tổng hợp từ các nguồn bách khoa phổ biến."
+]
+}
+
+def norm(o):
+    if isinstance(o, str): return unicodedata.normalize("NFC", o)
+    if isinstance(o, list): return [norm(x) for x in o]
+    if isinstance(o, dict): return {k: norm(v) for k, v in o.items()}
+    return o
+d = norm(d)
+
+out = os.path.join(HERE, "doc_" + d["slug"] + ".json")
+json.dump(d, open(out, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+wc = sum(len(p.split()) for s in d["sections"] for p in s["paras"])
+print("WROTE", out, "| sections:", len(d["sections"]), "| body words:", wc)

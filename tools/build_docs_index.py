@@ -77,7 +77,7 @@ def main():
 .empty{{color:#5c6773;padding:30px 0;text-align:center;display:none}}
 .foot{{color:#5c6773;font-size:12px;text-align:center;padding:20px}}
 </style></head><body>
-<div class="hd"><div class="k">Cẩm nang Du lịch Nga · Nội bộ</div>
+<div class="hd"><div class="k">Cẩm nang Du lịch · Nội bộ</div>
 <h1>📚 Tài liệu thuyết minh chi tiết — Mục lục</h1>
 <p>{total} tài liệu · mở 1 link để tra cứu mọi địa điểm · cập nhật {TODAY}</p></div>
 <div class="wrap">

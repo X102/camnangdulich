@@ -38,10 +38,12 @@ a:hover { text-decoration: underline; }
   position: sticky; top: 0; z-index: 1000;
 }
 .nav {
-  max-width: 1280px; margin: 0 auto; padding: 12px 20px;
-  display: flex; align-items: center; gap: 16px; flex-wrap: wrap;
+  max-width: 1280px; margin: 0 auto; padding: 10px 20px;
+  display: flex; align-items: center; gap: 14px; flex-wrap: wrap;
 }
-.brand { display: flex; align-items: center; gap: 10px; font-weight: 800; font-size: 18px; color: #fff; }
+.brand { display: flex; align-items: center; gap: 9px; font-weight: 800; font-size: 17px; color: #fff; }
+.brand-logo { width: 30px; height: 30px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,.28); flex-shrink: 0; display: block; }
+.brand-name { white-space: nowrap; }
 .brand .dot { color: var(--gold); }
 .brand:hover { text-decoration: none; }
 .nav-links { display: flex; gap: 6px; margin-left: auto; flex-wrap: wrap; }
@@ -164,10 +166,13 @@ a:hover { text-decoration: underline; }
   .card-photo { height: 150px; }
 }
 @media (max-width: 640px) {
-  .nav { padding: 10px 14px; gap: 8px 12px; }
-  .brand { font-size: 16px; }
-  .nav-links { width: 100%; margin-left: 0; gap: 6px; }
-  .nav-links a { padding: 8px 13px; font-size: 13.5px; }
+  .nav { padding: 9px 13px; gap: 8px 10px; }
+  .brand { font-size: 14.5px; flex: 0 1 auto; min-width: 0; margin-right: auto; }
+  .brand-logo { width: 26px; height: 26px; }
+  .brand-name { overflow: hidden; text-overflow: ellipsis; }
+  .lang-switch { margin-left: auto; order: 1; }
+  .nav-links { order: 2; width: 100%; margin-left: 0; gap: 6px; justify-content: center; }
+  .nav-links a { padding: 7px 12px; font-size: 13px; }
   .hero { padding: 34px 16px; }
   .hero h1 { font-size: 25px; }
   .hero p.lead { font-size: 15.5px; }

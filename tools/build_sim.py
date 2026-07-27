@@ -334,7 +334,7 @@ footer{{padding:20px;text-align:center;color:#5c6773;font-size:12px}}
 </style></head><body>
 {navtop}
 <div class="hd"><div class="wrap">
-  <div class="k">Cẩm nang Du lịch Nga · Mô phỏng hành trình (dry-run)</div>
+  <div class="k">Cẩm nang Du lịch · Mô phỏng hành trình (dry-run)</div>
   <h1>{esc(sim.get('city',''))} · Ngày {sim.get('day','')} — {esc(grp)}</h1>
   <div class="sub">{esc(sim.get('date',''))} · bắt đầu {S['start']} → kết thúc {S['end']} · mô phỏng như một đoàn khách thật</div>
   <div class="tot">
@@ -363,7 +363,7 @@ footer{{padding:20px;text-align:center;color:#5c6773;font-size:12px}}
   </div>
 </div>
 {navbot}
-<footer>Cẩm nang Du lịch Nga · Mô phỏng hành trình · dữ liệu do người biên soạn nhập, AI gợi ý quán ăn &amp; tính toán.</footer>
+<footer>Cẩm nang Du lịch · Mô phỏng hành trình · dữ liệu do người biên soạn nhập, AI gợi ý quán ăn &amp; tính toán.</footer>
 <script src="../assets/vendor/leaflet.js"></script>
 <script>
 var P={mjson};
@@ -482,7 +482,7 @@ def build_sim_index(rows, trips_summary=None):
 .grand{{grid-column:1/-1;background:linear-gradient(135deg,#152c4e,#0f2138);color:#fff;border-radius:12px;padding:14px 16px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px}}
 .grand b{{color:#c8a24b;font-size:19px}}
 .foot{{color:#5c6773;font-size:12px;text-align:center;padding:20px}}</style></head><body>
-<div class="hd"><div class="wrap" style="padding:0"><div class="k">Cẩm nang Du lịch Nga · Mô phỏng hành trình</div>
+<div class="hd"><div class="wrap" style="padding:0"><div class="k">Cẩm nang Du lịch · Mô phỏng hành trình</div>
 <h1>🎬 Mô phỏng các ngày (dry-run)</h1><a href="../trung-tam.html">🏠 Trang chủ</a></div></div>
 <div class="wrap">{trips_block}<div class="grid">{cards}</div>
 <div class="foot">Bấm một ngày để xem mô phỏng trực quan; tải .docx để chỉnh sửa trong Word.</div></div></body></html>"""

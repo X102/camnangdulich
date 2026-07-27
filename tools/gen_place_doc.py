@@ -181,13 +181,13 @@ figcaption{{font-size:12px;color:var(--muted);margin-top:4px}}
 </style></head><body>
 <div class="topbar no-print"><a href="../index.html">← Tất cả tài liệu</a><a href="../../trung-tam.html">🏠 Trang chủ</a></div>
 <div class="doc">
-<div class="badge">Cẩm nang Du lịch Nga · Tài liệu thuyết minh nội bộ</div>
+<div class="badge">Cẩm nang Du lịch · Tài liệu thuyết minh nội bộ</div>
 <h1>{esc(d.get('name_vi',''))}</h1>
 <div class="meta">{esc(meta)}</div>
 <div class="sub">{esc(d.get('subtitle',''))}</div>
 <div class="toc"><b>MỤC LỤC</b><ol>{toc}</ol></div>
 {hlbox}{body}{imgbox}{refbox}{srcbox}
-<div class="foot">Tài liệu nội bộ — không dùng cho mục đích public. Nội dung biên soạn nguyên gốc, có dẫn nguồn dữ kiện. Cập nhật {TODAY}. · Cẩm nang Du lịch Nga · lopmaybay@gmail.com</div>
+<div class="foot">Tài liệu nội bộ — không dùng cho mục đích public. Nội dung biên soạn nguyên gốc, có dẫn nguồn dữ kiện. Cập nhật {TODAY}. · Cẩm nang Du lịch · lopmaybay@gmail.com</div>
 </div>
 {TTS_JS}
 </body></html>"""
