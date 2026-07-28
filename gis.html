@@ -149,6 +149,20 @@
   @media (max-width: 640px) {
     .lang-chip { padding: 5px 9px; font-size: 12px; }
   }
+  /* Vành đai du lịch */
+  .ring-row { display: flex; align-items: center; gap: 6px; margin: 6px 0; }
+  .ring-row label { display: flex; align-items: center; gap: 7px; cursor: pointer; font-size: 12.5px; font-weight: 600; color: var(--navy); flex: 1; min-width: 0; }
+  .ring-row .ring-nm { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .ring-sw { width: 22px; height: 6px; border-radius: 3px; flex: 0 0 auto; box-shadow: 0 0 0 1px rgba(0,0,0,.12) inset; }
+  .ring-cb { width: 15px; height: 15px; cursor: pointer; flex: 0 0 auto; }
+  .ring-zoom { border: 1px solid var(--line); background: #fff; color: var(--navy); border-radius: 999px; font-size: 11px; font-weight: 700; padding: 3px 11px; cursor: pointer; flex: 0 0 auto; }
+  .ring-zoom:hover { background: #f0f4fa; border-color: var(--navy); }
+  .ring-city-lbl { background: rgba(255,255,255,.94); border: 1px solid rgba(20,30,50,.18); color: #1c2431; font-size: 10.5px; font-weight: 700; padding: 1px 6px; border-radius: 6px; box-shadow: 0 1px 4px rgba(0,0,0,.22); white-space: nowrap; }
+  .ring-city-lbl:before { display: none !important; }
+  .ring-hub-lbl { background: none; border: none; box-shadow: none; }
+  .ring-hub-lbl span { display: inline-block; background: #16293f; color: #fff; font-size: 12px; font-weight: 800; padding: 3px 11px 3px 9px; border-radius: 999px; white-space: nowrap; box-shadow: 0 2px 8px rgba(0,0,0,.35); }
+  .ring-name-lbl { background: none; border: none; box-shadow: none; }
+  .ring-name-lbl span { display: inline-block; background: rgba(255,255,255,.92); border: 2px solid; border-radius: 999px; padding: 3px 13px; font-size: 13px; font-weight: 800; white-space: nowrap; box-shadow: 0 2px 9px rgba(0,0,0,.28); letter-spacing: .01em; }
 </style>
 </head>
 <body>
@@ -197,6 +211,12 @@
       <div id="toolOut" class="tool-out"></div>
       <div class="muted" style="font-size:11px;margin-top:8px;padding-top:8px;border-top:1px solid var(--line);line-height:1.5;">⚠️ Các vị trí chỉ mang tính tham khảo, không tránh khỏi sai sót và đang được cập nhật thường xuyên, có thể lệch so với toạ độ gốc. Mọi ý kiến góp ý và liên hệ hợp tác vui lòng liên hệ tác giả. Tác giả không chịu trách nhiệm về những sự cố liên quan đến nội dung web.</div>
       <div class="muted" style="font-size:11.5px;margin-top:8px;line-height:1.5;">🇻🇳 <b>Hoàng Sa &amp; Trường Sa là của Việt Nam!</b> Bản đồ nền do bên thứ ba cung cấp, nằm ngoài khả năng giám sát của tác giả; tác giả đã cố gắng tối đa bằng các biện pháp kỹ thuật để nội dung hiển thị đúng. Mọi thiếu sót nếu được phát hiện, vui lòng góp ý ngay cho tác giả.</div>
+    </div>
+
+    <div class="sec">
+      <h3>💍 Vành đai du lịch Nga</h3>
+      <div class="muted" style="font-size:11.5px;margin:-4px 0 8px;line-height:1.45;">Các tuyến vòng cổ điển nối những thành phố cổ. Bấm “xem” để phóng tới vành đai.</div>
+      <div id="ringsBox"></div>
     </div>
 
     <div class="sec">
@@ -249,6 +269,7 @@
 <script src="assets/common.js"></script>
 <script src="data/bundle.js"></script>
 <script src="data/vn-archipelago.js"></script>
+<script src="data/rings.js"></script>
 <script>
 (function () {
   if (typeof L === "undefined") {
@@ -463,6 +484,74 @@
   drawVNFeatures();
   applyFeatZoom();
   map.on("zoomend", applyFeatZoom);
+
+  /* ===== VÀNH ĐAI DU LỊCH NGA (Golden Ring, Silver Ring, …) ===== */
+  map.createPane("rings"); map.getPane("rings").style.zIndex = 620;
+  var _ringLayers = {}, _ringOn = {};
+  function _rCity(c) { return c[RT.getLang()] || c.vi || c.en; }
+  function _rName(r) { return r[RT.getLang()] || r.vi || r.en; }
+  function _rSub(r) { return r["sub_" + RT.getLang()] || r.sub_vi || ""; }
+  function buildRings() {
+    Object.keys(_ringLayers).forEach(function (id) { try { map.removeLayer(_ringLayers[id]); } catch (e) {} });
+    _ringLayers = {};
+    (window.RUSSIA_RINGS || []).forEach(function (r) {
+      if (_ringOn[r.id] === undefined) _ringOn[r.id] = (r.on !== false);
+      var grp = L.layerGroup();
+      var ll = r.cities.map(function (c) { return [c.lat, c.lon]; });
+      var isRoute = (r.type === "route");
+      var line = isRoute ? ll : ll.concat([ll[0]]);   // ring: khép vòng; route: đường thẳng
+      if (!isRoute) L.polygon(ll, { pane: "rings", interactive: false, stroke: false, fillColor: r.color, fillOpacity: 0.05 }).addTo(grp);
+      L.polyline(line, { pane: "rings", interactive: false, color: r.color, weight: 9, opacity: 0.15, lineJoin: "round", lineCap: "round" }).addTo(grp);
+      L.polyline(line, { pane: "rings", interactive: false, color: r.color, weight: 3.5, opacity: 0.92, lineJoin: "round", lineCap: "round", dashArray: isRoute ? "7,8" : null }).addTo(grp);
+      r.cities.forEach(function (c) {
+        var m = L.circleMarker([c.lat, c.lon], { pane: "rings", radius: 5, color: "#fff", weight: 2, fillColor: r.color, fillOpacity: 1 });
+        m.bindTooltip(_rCity(c), { permanent: true, direction: "top", className: "ring-city-lbl", offset: [0, -3] });
+        m.bindPopup("<b>" + _rCity(c) + "</b><br><span style='color:" + r.color + ";font-weight:700'>💍 " + _rName(r) + "</span>");
+        m.addTo(grp);
+      });
+      if (r.hub) {
+        L.marker([r.hub.lat, r.hub.lon], { pane: "rings", interactive: false,
+          icon: L.divIcon({ className: "ring-hub-lbl", html: "<span>★ " + _rCity(r.hub) + "</span>", iconSize: null }) }).addTo(grp);
+      }
+      var clat = ll.reduce(function (s, x) { return s + x[0]; }, 0) / ll.length;
+      var clon = ll.reduce(function (s, x) { return s + x[1]; }, 0) / ll.length;
+      L.marker([clat, clon], { pane: "rings", interactive: false,
+        icon: L.divIcon({ className: "ring-name-lbl", html: '<span style="border-color:' + r.color + ';color:' + r.color + '">💍 ' + _rName(r) + "</span>", iconSize: null }) }).addTo(grp);
+      _ringLayers[r.id] = grp;
+      if (_ringOn[r.id]) grp.addTo(map);
+    });
+  }
+  function buildRingsUI() {
+    var box = document.getElementById("ringsBox");
+    if (!box) return;
+    box.innerHTML = (window.RUSSIA_RINGS || []).map(function (r) {
+      var on = _ringOn[r.id] !== false;
+      return '<div class="ring-row"><label><input type="checkbox" class="ring-cb" data-ring="' + r.id + '"' + (on ? " checked" : "") + "/>" +
+        '<span class="ring-sw" style="background:' + r.color + '"></span>' +
+        '<span class="ring-nm">' + _rName(r) + " <span class='muted' style='font-weight:400'>· " + _rSub(r) + "</span></span></label>" +
+        '<button class="ring-zoom" data-ring="' + r.id + '">' + ({ vi: "xem", en: "view", ru: "показать" }[RT.getLang()] || "xem") + "</button></div>";
+    }).join("");
+    box.querySelectorAll(".ring-cb").forEach(function (cb) {
+      cb.onchange = function () {
+        var id = this.getAttribute("data-ring"); _ringOn[id] = this.checked;
+        var g = _ringLayers[id]; if (!g) return;
+        if (this.checked) g.addTo(map); else map.removeLayer(g);
+      };
+    });
+    box.querySelectorAll(".ring-zoom").forEach(function (bt) {
+      bt.onclick = function () {
+        var id = this.getAttribute("data-ring");
+        var r = (window.RUSSIA_RINGS || []).filter(function (x) { return x.id === id; })[0]; if (!r) return;
+        if (!_ringOn[id]) { _ringOn[id] = true; var cb = box.querySelector('.ring-cb[data-ring="' + id + '"]'); if (cb) cb.checked = true; if (_ringLayers[id]) _ringLayers[id].addTo(map); }
+        var pts = r.cities.map(function (c) { return [c.lat, c.lon]; });
+        if (r.hub) pts.push([r.hub.lat, r.hub.lon]);
+        try { map.fitBounds(pts, { padding: [50, 50] }); } catch (e) {}
+        if (window.innerWidth <= 820) drawer(false);
+      };
+    });
+  }
+  buildRings();
+  buildRingsUI();
 
   var cluster = (typeof L.markerClusterGroup === "function")
     ? L.markerClusterGroup({ maxClusterRadius: 45, spiderfyOnMaxZoom: true })
@@ -759,6 +848,8 @@
     buildLegend();
     drawVNIslands();    // đổi ngôn ngữ: cập nhật nhãn chủ quyền
     drawVNFeatures();   // đổi ngôn ngữ: cập nhật tên đảo/bãi
+    buildRings();       // đổi ngôn ngữ: cập nhật nhãn vành đai & thành phố
+    buildRingsUI();
     if (currentDetailId && document.getElementById("detailPanel").classList.contains("open")) {
       window.RTGIS.detail(currentDetailId);
     }
@@ -818,15 +909,17 @@
 
   /* ---------- Fit bounds theo tập đã lọc ---------- */
   function fitFiltered() {
+    var region = document.getElementById("region").value;
     var pts = places.filter(passFilter).map(function (p) { return [p.coordinates.lat, p.coordinates.lon]; });
-    // Khi xem Việt Nam (hoặc Tất cả), đưa cả Hoàng Sa & Trường Sa vào khung nhìn để nhãn chủ quyền luôn thấy
+    // Chỉ đưa Hoàng Sa & Trường Sa vào khung khi xem toàn quốc/Tất cả (KHÔNG chọn 1 vùng cụ thể),
+    // để khi chọn 1 thành phố thì bản đồ nhảy sát vào vùng đó thay vì thu nhỏ ra tận Biển Đông.
     var country = document.getElementById("country").value;
-    if (country === "vietnam" || country === "") {
+    if (!region && (country === "vietnam" || country === "")) {
       VN_ISLANDS.forEach(function (isl) { pts.push([isl.lat, isl.lon]); });
     }
     try {
       var b = L.latLngBounds(pts);
-      if (b.isValid()) map.fitBounds(b.pad(0.15));
+      if (b.isValid()) map.fitBounds(b.pad(region ? 0.2 : 0.15), region ? { maxZoom: 13 } : {});
     } catch (e) {}
   }
 
@@ -838,7 +931,11 @@
     renderMarkers();
     fitFiltered();
   };
-  document.getElementById("region").onchange = renderMarkers;
+  document.getElementById("region").onchange = function () {
+    renderMarkers();
+    fitFiltered();
+    if (window.innerWidth <= 820) drawer(false);
+  };
   document.getElementById("minStar").oninput = function () { document.getElementById("starVal").textContent = this.value; renderMarkers(); };
   document.getElementById("showLabels").onchange = function () { labelsOn = this.checked; renderMarkers(); };
   document.getElementById("perDay").oninput = renderTour;

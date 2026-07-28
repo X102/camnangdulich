@@ -175,8 +175,8 @@
       "other"
     ],
     "coordinates": {
-      "lat": 20.75,
-      "lon": 107.08
+      "lat": 20.751572,
+      "lon": 107.104278
     },
     "address_vi": "Quần đảo Cát Bà, huyện Cát Hải, thành phố Hải Phòng",
     "rating": {
@@ -235,7 +235,7 @@
     "status": "enriched",
     "last_updated": "2026-07-27",
     "maps": {
-      "yandex": "https://yandex.com/maps/?text=Lan%20Ha%20Bay%2C%20Hai%20Phong%2C%20Vietnam&ll=107.08,20.75&z=17",
+      "yandex": "https://yandex.com/maps/?text=Lan%20Ha%20Bay%2C%20Hai%20Phong%2C%20Vietnam&ll=107.104278,20.751572&z=17",
       "google": "https://www.google.com/maps/search/?api=1&query=Lan%20Ha%20Bay%2C%20Hai%20Phong%2C%20Vietnam"
     }
   },
@@ -409,8 +409,8 @@
       "other"
     ],
     "coordinates": {
-      "lat": 20.718,
-      "lon": 106.788
+      "lat": 20.7148,
+      "lon": 106.7821
     },
     "address_vi": "Chân núi Độc, phường Ngọc Hải, khu du lịch Đồ Sơn, thành phố Hải Phòng",
     "rating": {
@@ -467,7 +467,7 @@
     "status": "enriched",
     "last_updated": "2026-07-27",
     "maps": {
-      "yandex": "https://yandex.com/maps/?text=Ba%20De%20Temple%2C%20Hai%20Phong%2C%20Vietnam&ll=106.788,20.718&z=17",
+      "yandex": "https://yandex.com/maps/?text=Ba%20De%20Temple%2C%20Hai%20Phong%2C%20Vietnam&ll=106.7821,20.7148&z=17",
       "google": "https://www.google.com/maps/search/?api=1&query=Ba%20De%20Temple%2C%20Hai%20Phong%2C%20Vietnam"
     }
   },
@@ -486,8 +486,8 @@
       "other"
     ],
     "coordinates": {
-      "lat": 20.8588,
-      "lon": 106.682
+      "lat": 20.8556,
+      "lon": 106.6796
     },
     "address_vi": "Phố Lê Chân, phường An Biên, quận Lê Chân, thành phố Hải Phòng",
     "rating": {
@@ -543,7 +543,7 @@
     "status": "enriched",
     "last_updated": "2026-07-27",
     "maps": {
-      "yandex": "https://yandex.com/maps/?text=Nghe%20Temple%2C%20Hai%20Phong%2C%20Vietnam&ll=106.682,20.8588&z=17",
+      "yandex": "https://yandex.com/maps/?text=Nghe%20Temple%2C%20Hai%20Phong%2C%20Vietnam&ll=106.6796,20.8556&z=17",
       "google": "https://www.google.com/maps/search/?api=1&query=Nghe%20Temple%2C%20Hai%20Phong%2C%20Vietnam"
     }
   },
@@ -562,8 +562,8 @@
       "square_street"
     ],
     "coordinates": {
-      "lat": 20.8577,
-      "lon": 106.6845
+      "lat": 20.855998,
+      "lon": 106.679569
     },
     "address_vi": "Vườn hoa trung tâm, phố Nguyễn Đức Cảnh, quận Lê Chân, thành phố Hải Phòng",
     "rating": {
@@ -621,7 +621,7 @@
     "status": "enriched",
     "last_updated": "2026-07-27",
     "maps": {
-      "yandex": "https://yandex.com/maps/?text=Statue%20of%20General%20Le%20Chan%2C%20Hai%20Phong%2C%20Vietnam&ll=106.6845,20.8577&z=17",
+      "yandex": "https://yandex.com/maps/?text=Statue%20of%20General%20Le%20Chan%2C%20Hai%20Phong%2C%20Vietnam&ll=106.679569,20.855998&z=17",
       "google": "https://www.google.com/maps/search/?api=1&query=Statue%20of%20General%20Le%20Chan%2C%20Hai%20Phong%2C%20Vietnam"
     }
   },
@@ -716,8 +716,8 @@
       "monument"
     ],
     "coordinates": {
-      "lat": 20.8508,
-      "lon": 106.679
+      "lat": 20.8481,
+      "lon": 106.6822
     },
     "address_vi": "Phố Dư Hàng, phường Hồ Nam, quận Lê Chân, thành phố Hải Phòng",
     "rating": {
@@ -774,7 +774,7 @@
     "status": "enriched",
     "last_updated": "2026-07-27",
     "maps": {
-      "yandex": "https://yandex.com/maps/?text=Du%20Hang%20Pagoda%2C%20Hai%20Phong%2C%20Vietnam&ll=106.679,20.8508&z=17",
+      "yandex": "https://yandex.com/maps/?text=Du%20Hang%20Pagoda%2C%20Hai%20Phong%2C%20Vietnam&ll=106.6822,20.8481&z=17",
       "google": "https://www.google.com/maps/search/?api=1&query=Du%20Hang%20Pagoda%2C%20Hai%20Phong%2C%20Vietnam"
     }
   },
@@ -870,8 +870,8 @@
       "monument"
     ],
     "coordinates": {
-      "lat": 20.8592,
-      "lon": 106.6838
+      "lat": 20.8575,
+      "lon": 106.6818
     },
     "address_vi": "Quảng trường Nhà hát, phố Trần Hưng Đạo, quận Hồng Bàng, thành phố Hải Phòng",
     "rating": {
@@ -922,13 +922,13 @@
       "landmark",
       "night"
     ],
-    "photo": null,
-    "photo_credit": null,
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/03-OPERA_HOUSE.jpg",
+    "photo_credit": "HoangTuanAnh, CC BY-SA 3.0 (Wikimedia Commons)",
     "official_site": null,
     "status": "enriched",
-    "last_updated": "2026-07-27",
+    "last_updated": "2026-07-28",
     "maps": {
-      "yandex": "https://yandex.com/maps/?text=Hai%20Phong%20Opera%20House%2C%20Vietnam&ll=106.6838,20.8592&z=17",
+      "yandex": "https://yandex.com/maps/?text=Hai%20Phong%20Opera%20House%2C%20Vietnam&ll=106.6818,20.8575&z=17",
       "google": "https://www.google.com/maps/search/?api=1&query=Hai%20Phong%20Opera%20House%2C%20Vietnam"
     }
   },
@@ -1102,8 +1102,8 @@
       "other"
     ],
     "coordinates": {
-      "lat": 20.137,
-      "lon": 107.718
+      "lat": 20.135096,
+      "lon": 107.730106
     },
     "address_vi": "Huyện đảo Bạch Long Vĩ, thành phố Hải Phòng (giữa vịnh Bắc Bộ)",
     "rating": {
@@ -1160,7 +1160,7 @@
     "status": "enriched",
     "last_updated": "2026-07-27",
     "maps": {
-      "yandex": "https://yandex.com/maps/?text=Bach%20Long%20Vi%20Island%2C%20Hai%20Phong%2C%20Vietnam&ll=107.718,20.137&z=17",
+      "yandex": "https://yandex.com/maps/?text=Bach%20Long%20Vi%20Island%2C%20Hai%20Phong%2C%20Vietnam&ll=107.730106,20.135096&z=17",
       "google": "https://www.google.com/maps/search/?api=1&query=Bach%20Long%20Vi%20Island%2C%20Hai%20Phong%2C%20Vietnam"
     }
   },
@@ -1179,8 +1179,8 @@
       "monument"
     ],
     "coordinates": {
-      "lat": 20.865,
-      "lon": 106.7
+      "lat": 20.8666,
+      "lon": 106.6956
     },
     "address_vi": "Bắc qua sông Cấm, nối quận Hồng Bàng với huyện Thủy Nguyên, thành phố Hải Phòng",
     "rating": {
@@ -1238,7 +1238,7 @@
     "status": "enriched",
     "last_updated": "2026-07-27",
     "maps": {
-      "yandex": "https://yandex.com/maps/?text=Hoang%20Van%20Thu%20Bridge%2C%20Hai%20Phong%2C%20Vietnam&ll=106.7,20.865&z=17",
+      "yandex": "https://yandex.com/maps/?text=Hoang%20Van%20Thu%20Bridge%2C%20Hai%20Phong%2C%20Vietnam&ll=106.6956,20.8666&z=17",
       "google": "https://www.google.com/maps/search/?api=1&query=Hoang%20Van%20Thu%20Bridge%2C%20Hai%20Phong%2C%20Vietnam"
     }
   },
@@ -1257,8 +1257,8 @@
       "other"
     ],
     "coordinates": {
-      "lat": 21.109,
-      "lon": 106.306
+      "lat": 21.150995,
+      "lon": 106.381656
     },
     "address_vi": "Thành phố Chí Linh (Hải Dương cũ), nay thuộc thành phố Hải Phòng",
     "rating": {
@@ -1321,7 +1321,7 @@
     "status": "enriched",
     "last_updated": "2026-07-27",
     "maps": {
-      "yandex": "https://yandex.com/maps/?text=Con%20Son%20%E2%80%93%20Kiep%20Bac%20Relic%20Complex%2C%20Hai%20Phong%2C%20Vietnam&ll=106.306,21.109&z=17",
+      "yandex": "https://yandex.com/maps/?text=Con%20Son%20%E2%80%93%20Kiep%20Bac%20Relic%20Complex%2C%20Hai%20Phong%2C%20Vietnam&ll=106.381656,21.150995&z=17",
       "google": "https://www.google.com/maps/search/?api=1&query=Con%20Son%20%E2%80%93%20Kiep%20Bac%20Relic%20Complex%2C%20Hai%20Phong%2C%20Vietnam"
     }
   },
@@ -1711,5 +1711,801 @@
       "yandex": "https://yandex.com/maps/?text=An%20Phu%20%E2%80%93%20Kinh%20Chu%20Relic%20Complex%2C%20Hai%20Phong%2C%20Vietnam&ll=106.51,20.96&z=17",
       "google": "https://www.google.com/maps/search/?api=1&query=An%20Phu%20%E2%80%93%20Kinh%20Chu%20Relic%20Complex%2C%20Hai%20Phong%2C%20Vietnam"
     }
+  },
+  {
+    "id": "vn-hai-phong-chua-hang-do-son",
+    "slug": "chua-hang-do-son",
+    "region": "vn-hai-phong",
+    "country": "vietnam",
+    "region_name_vi": "Hải Phòng",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Chùa Hang (Cốc Tự) — Đồ Sơn",
+    "name_ru": "Пагода Ханг (Кок Ты) — Дошон",
+    "name_en": "Hang Pagoda (Coc Tu) - Do Son",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 20.72,
+      "lon": 106.785
+    },
+    "address_vi": "Phường Vạn Hương, quận Đồ Sơn, TP. Hải Phòng",
+    "presentation_short_vi": "Chùa Hang (Cốc Tự) là ngôi chùa cổ nằm trong hang đá ven biển Đồ Sơn, tương truyền là một trong những nơi Phật giáo du nhập vào Việt Nam. Không gian tĩnh lặng, huyền ảo, gắn với truyền thuyết và cảnh biển Đồ Sơn.",
+    "presentation_short_en": "Hang Pagoda (Coc Tu) is an ancient temple set inside a seaside cave in Do Son, by legend one of the first places Buddhism entered Vietnam. It offers a quiet, mystical atmosphere beside the Do Son coast.",
+    "presentation_short_ru": "Пагода Ханг (Кок Ты) — древний храм в приморской пещере Дошона; по преданию, одно из мест, откуда буддизм пришёл во Вьетнам. Тихое, таинственное место у побережья Дошона.",
+    "presentation_long_vi": "Chùa Hang (Cốc Tự) là ngôi chùa cổ nằm trong hang đá ven biển Đồ Sơn, tương truyền là một trong những nơi Phật giáo du nhập vào Việt Nam. Không gian tĩnh lặng, huyền ảo, gắn với truyền thuyết và cảnh biển Đồ Sơn.",
+    "presentation_long_en": "Hang Pagoda (Coc Tu) is an ancient temple set inside a seaside cave in Do Son, by legend one of the first places Buddhism entered Vietnam. It offers a quiet, mystical atmosphere beside the Do Son coast.",
+    "presentation_long_ru": "Пагода Ханг (Кок Ты) — древний храм в приморской пещере Дошона; по преданию, одно из мест, откуда буддизм пришёл во Вьетнам. Тихое, таинственное место у побережья Дошона.",
+    "highlights_vi": [],
+    "highlights_en": [],
+    "highlights_ru": [],
+    "practical": {},
+    "sources": [],
+    "tags": [
+      "hai-phong"
+    ],
+    "photo": "",
+    "photo_credit": "",
+    "official_site": "",
+    "status": "stub",
+    "last_updated": "2026-07",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Hang%20Pagoda%20-%20Do%20Son%2C%20Hai%20Phong%2C%20Vietnam&ll=106.785,20.72&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Hang%20Pagoda%20-%20Do%20Son%2C%20Hai%20Phong%2C%20Vietnam"
+    }
+  },
+  {
+    "id": "vn-hai-phong-thap-tuong-long",
+    "slug": "thap-tuong-long",
+    "region": "vn-hai-phong",
+    "country": "vietnam",
+    "region_name_vi": "Hải Phòng",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Tháp Tường Long (Đồ Sơn)",
+    "name_ru": "Башня Тыонг Лонг (Дошон)",
+    "name_en": "Tuong Long Tower (Do Son)",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 20.71427,
+      "lon": 106.770396
+    },
+    "address_vi": "Phường Ngọc Xuyên, quận Đồ Sơn, TP. Hải Phòng",
+    "presentation_short_vi": "Tháp Tường Long là bảo tháp thời Lý được phục dựng trên đỉnh đồi Ngọc, Đồ Sơn; từ đây phóng tầm mắt ra toàn cảnh bán đảo và biển. Công trình gạch đỏ mang đậm dấu ấn kiến trúc Phật giáo thời Lý.",
+    "presentation_short_en": "Tuong Long Tower is a reconstructed Ly-dynasty Buddhist stupa atop Ngoc Hill in Do Son, offering sweeping views over the peninsula and sea. Its red-brick architecture reflects classic Ly-era Buddhist style.",
+    "presentation_short_ru": "Башня Тыонг Лонг — восстановленная буддийская ступа эпохи Ли на вершине холма Нгок в Дошоне, откуда открывается вид на полуостров и море. Краснокирпичная архитектура в стиле династии Ли.",
+    "presentation_long_vi": "Tháp Tường Long là bảo tháp thời Lý được phục dựng trên đỉnh đồi Ngọc, Đồ Sơn; từ đây phóng tầm mắt ra toàn cảnh bán đảo và biển. Công trình gạch đỏ mang đậm dấu ấn kiến trúc Phật giáo thời Lý.",
+    "presentation_long_en": "Tuong Long Tower is a reconstructed Ly-dynasty Buddhist stupa atop Ngoc Hill in Do Son, offering sweeping views over the peninsula and sea. Its red-brick architecture reflects classic Ly-era Buddhist style.",
+    "presentation_long_ru": "Башня Тыонг Лонг — восстановленная буддийская ступа эпохи Ли на вершине холма Нгок в Дошоне, откуда открывается вид на полуостров и море. Краснокирпичная архитектура в стиле династии Ли.",
+    "highlights_vi": [],
+    "highlights_en": [],
+    "highlights_ru": [],
+    "practical": {},
+    "sources": [],
+    "tags": [
+      "hai-phong"
+    ],
+    "photo": "",
+    "photo_credit": "",
+    "official_site": "",
+    "status": "stub",
+    "last_updated": "2026-07",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Tuong%20Long%20Tower%2C%20Hai%20Phong%2C%20Vietnam&ll=106.770396,20.71427&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Tuong%20Long%20Tower%2C%20Hai%20Phong%2C%20Vietnam"
+    }
+  },
+  {
+    "id": "vn-hai-phong-doi-rong-dragon-ocean",
+    "slug": "doi-rong-dragon-ocean",
+    "region": "vn-hai-phong",
+    "country": "vietnam",
+    "region_name_vi": "Hải Phòng",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Khu du lịch Đồi Rồng – Dragon Ocean Đồ Sơn",
+    "name_ru": "Курорт Дой Ронг – Dragon Ocean Дошон",
+    "name_en": "Doi Rong - Dragon Ocean Do Son",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 20.6965,
+      "lon": 106.773
+    },
+    "address_vi": "Khu du lịch quốc tế Đồi Rồng, quận Đồ Sơn, TP. Hải Phòng",
+    "presentation_short_vi": "Đồi Rồng (Dragon Ocean) là khu du lịch – giải trí quy mô lớn mới xây dựng trên đất lấn biển Đồ Sơn, gồm bãi tắm nhân tạo, công viên nước, quảng trường, khách sạn và sân golf. Điểm vui chơi mới nổi bật của Hải Phòng.",
+    "presentation_short_en": "Doi Rong (Dragon Ocean) is a large, newly built seaside resort and entertainment complex on reclaimed land in Do Son, with an artificial beach, water park, plaza, hotels and a golf course. A rising must-visit in Hai Phong.",
+    "presentation_short_ru": "Дой Ронг (Dragon Ocean) — крупный новый курортно-развлекательный комплекс на намывной территории Дошона: искусственный пляж, аквапарк, площадь, отели и гольф-поле. Новое популярное место Хайфона.",
+    "presentation_long_vi": "Đồi Rồng (Dragon Ocean) là khu du lịch – giải trí quy mô lớn mới xây dựng trên đất lấn biển Đồ Sơn, gồm bãi tắm nhân tạo, công viên nước, quảng trường, khách sạn và sân golf. Điểm vui chơi mới nổi bật của Hải Phòng.",
+    "presentation_long_en": "Doi Rong (Dragon Ocean) is a large, newly built seaside resort and entertainment complex on reclaimed land in Do Son, with an artificial beach, water park, plaza, hotels and a golf course. A rising must-visit in Hai Phong.",
+    "presentation_long_ru": "Дой Ронг (Dragon Ocean) — крупный новый курортно-развлекательный комплекс на намывной территории Дошона: искусственный пляж, аквапарк, площадь, отели и гольф-поле. Новое популярное место Хайфона.",
+    "highlights_vi": [],
+    "highlights_en": [],
+    "highlights_ru": [],
+    "practical": {},
+    "sources": [],
+    "tags": [
+      "hai-phong"
+    ],
+    "photo": "",
+    "photo_credit": "",
+    "official_site": "",
+    "status": "stub",
+    "last_updated": "2026-07",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Doi%20Rong%20-%20Dragon%20Ocean%20Do%20Son%2C%20Hai%20Phong%2C%20Vietnam&ll=106.773,20.6965&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Doi%20Rong%20-%20Dragon%20Ocean%20Do%20Son%2C%20Hai%20Phong%2C%20Vietnam"
+    }
+  },
+  {
+    "id": "vn-hai-phong-hon-dau-resort",
+    "slug": "hon-dau-resort",
+    "region": "vn-hai-phong",
+    "country": "vietnam",
+    "region_name_vi": "Hải Phòng",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Hòn Dáu Resort (Đồ Sơn)",
+    "name_ru": "Курорт Хон Зау (Дошон)",
+    "name_en": "Hon Dau Resort (Do Son)",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 20.679779,
+      "lon": 106.803863
+    },
+    "address_vi": "Khu 3, quận Đồ Sơn, TP. Hải Phòng",
+    "presentation_short_vi": "Hòn Dáu Resort là khu nghỉ dưỡng ven biển ở Đồ Sơn với bể bơi tạo sóng lớn, công viên, khu vui chơi và khách sạn. Điểm nghỉ dưỡng – giải trí quen thuộc cho gia đình.",
+    "presentation_short_en": "Hon Dau Resort is a seaside resort in Do Son featuring a large wave pool, parks, amusement areas and hotels - a popular family leisure destination.",
+    "presentation_short_ru": "Хон Зау Резорт — приморский курорт в Дошоне с большим волновым бассейном, парками, аттракционами и отелями; популярное место семейного отдыха.",
+    "presentation_long_vi": "Hòn Dáu Resort là khu nghỉ dưỡng ven biển ở Đồ Sơn với bể bơi tạo sóng lớn, công viên, khu vui chơi và khách sạn. Điểm nghỉ dưỡng – giải trí quen thuộc cho gia đình.",
+    "presentation_long_en": "Hon Dau Resort is a seaside resort in Do Son featuring a large wave pool, parks, amusement areas and hotels - a popular family leisure destination.",
+    "presentation_long_ru": "Хон Зау Резорт — приморский курорт в Дошоне с большим волновым бассейном, парками, аттракционами и отелями; популярное место семейного отдыха.",
+    "highlights_vi": [],
+    "highlights_en": [],
+    "highlights_ru": [],
+    "practical": {},
+    "sources": [],
+    "tags": [
+      "hai-phong"
+    ],
+    "photo": "",
+    "photo_credit": "",
+    "official_site": "",
+    "status": "stub",
+    "last_updated": "2026-07",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Hon%20Dau%20Resort%2C%20Hai%20Phong%2C%20Vietnam&ll=106.803863,20.679779&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Hon%20Dau%20Resort%2C%20Hai%20Phong%2C%20Vietnam"
+    }
+  },
+  {
+    "id": "vn-hai-phong-do-son-casino",
+    "slug": "do-son-casino",
+    "region": "vn-hai-phong",
+    "country": "vietnam",
+    "region_name_vi": "Hải Phòng",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Đồ Sơn Resort & Casino",
+    "name_ru": "Казино и курорт Дошон",
+    "name_en": "Do Son Resort & Casino",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 20.7052,
+      "lon": 106.7918
+    },
+    "address_vi": "Khu 2, quận Đồ Sơn, TP. Hải Phòng",
+    "presentation_short_vi": "Đồ Sơn Casino là sòng bài đầu tiên của Việt Nam, nằm trong khu nghỉ dưỡng ven biển Đồ Sơn, phục vụ chủ yếu khách quốc tế. Công trình gắn với lịch sử du lịch giải trí của thành phố.",
+    "presentation_short_en": "Do Son Casino is Vietnam's first casino, set within the seaside Do Son resort area and catering mainly to international guests - part of the city's entertainment-tourism history.",
+    "presentation_short_ru": "Казино Дошон — первое казино во Вьетнаме в приморской курортной зоне Дошона, обслуживающее в основном иностранных гостей.",
+    "presentation_long_vi": "Đồ Sơn Casino là sòng bài đầu tiên của Việt Nam, nằm trong khu nghỉ dưỡng ven biển Đồ Sơn, phục vụ chủ yếu khách quốc tế. Công trình gắn với lịch sử du lịch giải trí của thành phố.",
+    "presentation_long_en": "Do Son Casino is Vietnam's first casino, set within the seaside Do Son resort area and catering mainly to international guests - part of the city's entertainment-tourism history.",
+    "presentation_long_ru": "Казино Дошон — первое казино во Вьетнаме в приморской курортной зоне Дошона, обслуживающее в основном иностранных гостей.",
+    "highlights_vi": [],
+    "highlights_en": [],
+    "highlights_ru": [],
+    "practical": {},
+    "sources": [],
+    "tags": [
+      "hai-phong"
+    ],
+    "photo": "",
+    "photo_credit": "",
+    "official_site": "",
+    "status": "stub",
+    "last_updated": "2026-07",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Do%20Son%20Resort%20%26%20Casino%2C%20Hai%20Phong%2C%20Vietnam&ll=106.7918,20.7052&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Do%20Son%20Resort%20%26%20Casino%2C%20Hai%20Phong%2C%20Vietnam"
+    }
+  },
+  {
+    "id": "vn-hai-phong-cap-treo-cat-hai-cat-ba",
+    "slug": "cap-treo-cat-hai-cat-ba",
+    "region": "vn-hai-phong",
+    "country": "vietnam",
+    "region_name_vi": "Hải Phòng",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Cáp treo Cát Hải – Phù Long (Sun World Cát Bà)",
+    "name_ru": "Канатная дорога Катхай – Фулонг (Sun World Катба)",
+    "name_en": "Cat Hai - Phu Long Cable Car (Sun World Cat Ba)",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 20.796,
+      "lon": 106.8885
+    },
+    "address_vi": "Cát Hải, huyện Cát Hải, TP. Hải Phòng",
+    "presentation_short_vi": "Tuyến cáp treo Cát Hải – Phù Long thuộc Sun World Cát Bà, nổi tiếng với cột trụ cáp treo cao kỷ lục thế giới. Cabin lớn đưa du khách vượt biển ngắm toàn cảnh vịnh và đảo Cát Bà.",
+    "presentation_short_en": "The Cat Hai - Phu Long cable car (Sun World Cat Ba) is famous for its record-height support pylon. Large cabins carry visitors across the sea with panoramic views of the bay and Cat Ba Island.",
+    "presentation_short_ru": "Канатная дорога Катхай – Фулонг (Sun World Катба) известна рекордно высокой опорой. Большие кабины перевозят гостей над морем с панорамой залива и острова Катба.",
+    "presentation_long_vi": "Tuyến cáp treo Cát Hải – Phù Long thuộc Sun World Cát Bà, nổi tiếng với cột trụ cáp treo cao kỷ lục thế giới. Cabin lớn đưa du khách vượt biển ngắm toàn cảnh vịnh và đảo Cát Bà.",
+    "presentation_long_en": "The Cat Hai - Phu Long cable car (Sun World Cat Ba) is famous for its record-height support pylon. Large cabins carry visitors across the sea with panoramic views of the bay and Cat Ba Island.",
+    "presentation_long_ru": "Канатная дорога Катхай – Фулонг (Sun World Катба) известна рекордно высокой опорой. Большие кабины перевозят гостей над морем с панорамой залива и острова Катба.",
+    "highlights_vi": [],
+    "highlights_en": [],
+    "highlights_ru": [],
+    "practical": {},
+    "sources": [],
+    "tags": [
+      "hai-phong"
+    ],
+    "photo": "",
+    "photo_credit": "",
+    "official_site": "",
+    "status": "stub",
+    "last_updated": "2026-07",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Cat%20Hai%20-%20Phu%20Long%20Cable%20Car%2C%20Hai%20Phong%2C%20Vietnam&ll=106.8885,20.796&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Cat%20Hai%20-%20Phu%20Long%20Cable%20Car%2C%20Hai%20Phong%2C%20Vietnam"
+    }
+  },
+  {
+    "id": "vn-hai-phong-cau-tan-vu-lach-huyen",
+    "slug": "cau-tan-vu-lach-huyen",
+    "region": "vn-hai-phong",
+    "country": "vietnam",
+    "region_name_vi": "Hải Phòng",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Cầu vượt biển Tân Vũ – Lạch Huyện",
+    "name_ru": "Морской мост Танву – Лактьхюйен",
+    "name_en": "Tan Vu - Lach Huyen Sea Bridge",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 20.818,
+      "lon": 106.833
+    },
+    "address_vi": "Nối Đình Vũ với đảo Cát Hải, TP. Hải Phòng",
+    "presentation_short_vi": "Cầu Tân Vũ – Lạch Huyện là cầu vượt biển dài nhất Việt Nam, nối bán đảo Đình Vũ với đảo Cát Hải. Công trình hiện đại mở ra tuyến đường ra cảng Lạch Huyện và Cát Bà.",
+    "presentation_short_en": "The Tan Vu - Lach Huyen Bridge is Vietnam's longest sea-crossing bridge, linking the Dinh Vu peninsula with Cat Hai Island - a modern gateway toward Lach Huyen Port and Cat Ba.",
+    "presentation_short_ru": "Мост Танву – Лактьхюйен — самый длинный морской мост Вьетнама, соединяющий полуостров Диньву с островом Катхай; современный путь к порту Лактьхюйен и Катба.",
+    "presentation_long_vi": "Cầu Tân Vũ – Lạch Huyện là cầu vượt biển dài nhất Việt Nam, nối bán đảo Đình Vũ với đảo Cát Hải. Công trình hiện đại mở ra tuyến đường ra cảng Lạch Huyện và Cát Bà.",
+    "presentation_long_en": "The Tan Vu - Lach Huyen Bridge is Vietnam's longest sea-crossing bridge, linking the Dinh Vu peninsula with Cat Hai Island - a modern gateway toward Lach Huyen Port and Cat Ba.",
+    "presentation_long_ru": "Мост Танву – Лактьхюйен — самый длинный морской мост Вьетнама, соединяющий полуостров Диньву с островом Катхай; современный путь к порту Лактьхюйен и Катба.",
+    "highlights_vi": [],
+    "highlights_en": [],
+    "highlights_ru": [],
+    "practical": {},
+    "sources": [],
+    "tags": [
+      "hai-phong"
+    ],
+    "photo": "",
+    "photo_credit": "",
+    "official_site": "",
+    "status": "stub",
+    "last_updated": "2026-07",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Tan%20Vu%20-%20Lach%20Huyen%20Sea%20Bridge%2C%20Hai%20Phong%2C%20Vietnam&ll=106.833,20.818&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Tan%20Vu%20-%20Lach%20Huyen%20Sea%20Bridge%2C%20Hai%20Phong%2C%20Vietnam"
+    }
+  },
+  {
+    "id": "vn-hai-phong-flamingo-cat-ba",
+    "slug": "flamingo-cat-ba",
+    "region": "vn-hai-phong",
+    "country": "vietnam",
+    "region_name_vi": "Hải Phòng",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Flamingo Cát Bà Beach Resort",
+    "name_ru": "Flamingo Катба Бич Резорт",
+    "name_en": "Flamingo Cat Ba Beach Resort",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 20.7218,
+      "lon": 106.999
+    },
+    "address_vi": "Đảo Cát Bà, huyện Cát Hải, TP. Hải Phòng",
+    "presentation_short_vi": "Flamingo Cát Bà là khu nghỉ dưỡng cao cấp bên bãi tắm Cát Bà, nổi bật với các toà tháp view biển, bể bơi và kiến trúc xanh. Điểm lưu trú – nghỉ dưỡng mới sang trọng trên đảo.",
+    "presentation_short_en": "Flamingo Cat Ba is a high-end beach resort by Cat Ba's beaches, known for sea-view towers, pools and green architecture - a luxurious new stay on the island.",
+    "presentation_short_ru": "Flamingo Катба — премиальный пляжный курорт у пляжей Катба с башнями с видом на море, бассейнами и «зелёной» архитектурой; новое роскошное место для отдыха.",
+    "presentation_long_vi": "Flamingo Cát Bà là khu nghỉ dưỡng cao cấp bên bãi tắm Cát Bà, nổi bật với các toà tháp view biển, bể bơi và kiến trúc xanh. Điểm lưu trú – nghỉ dưỡng mới sang trọng trên đảo.",
+    "presentation_long_en": "Flamingo Cat Ba is a high-end beach resort by Cat Ba's beaches, known for sea-view towers, pools and green architecture - a luxurious new stay on the island.",
+    "presentation_long_ru": "Flamingo Катба — премиальный пляжный курорт у пляжей Катба с башнями с видом на море, бассейнами и «зелёной» архитектурой; новое роскошное место для отдыха.",
+    "highlights_vi": [],
+    "highlights_en": [],
+    "highlights_ru": [],
+    "practical": {},
+    "sources": [],
+    "tags": [
+      "hai-phong"
+    ],
+    "photo": "",
+    "photo_credit": "",
+    "official_site": "",
+    "status": "stub",
+    "last_updated": "2026-07",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Flamingo%20Cat%20Ba%20Beach%20Resort%2C%20Hai%20Phong%2C%20Vietnam&ll=106.999,20.7218&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Flamingo%20Cat%20Ba%20Beach%20Resort%2C%20Hai%20Phong%2C%20Vietnam"
+    }
+  },
+  {
+    "id": "vn-hai-phong-dao-khi-cat-dua",
+    "slug": "dao-khi-cat-dua",
+    "region": "vn-hai-phong",
+    "country": "vietnam",
+    "region_name_vi": "Hải Phòng",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Đảo Khỉ (Cát Dứa) – Cát Bà",
+    "name_ru": "Остров обезьян (Катзыа) — Катба",
+    "name_en": "Monkey Island (Cat Dua) - Cat Ba",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 20.752,
+      "lon": 107.044
+    },
+    "address_vi": "Vịnh Lan Hạ, quần đảo Cát Bà, TP. Hải Phòng",
+    "presentation_short_vi": "Đảo Khỉ (Cát Dứa) là hòn đảo nhỏ trong vịnh Lan Hạ với hai bãi tắm cát mịn và đàn khỉ dạn người. Điểm dừng chân tắm biển, leo núi ngắm vịnh quen thuộc của tour Cát Bà.",
+    "presentation_short_en": "Monkey Island (Cat Dua) is a small isle in Lan Ha Bay with two sandy beaches and a troop of semi-wild monkeys - a favorite swim-and-hike stop on Cat Ba tours.",
+    "presentation_short_ru": "Остров обезьян (Катзыа) — маленький остров в заливе Лунгха с двумя песчаными пляжами и полудикими обезьянами; популярная остановка туров по Катба.",
+    "presentation_long_vi": "Đảo Khỉ (Cát Dứa) là hòn đảo nhỏ trong vịnh Lan Hạ với hai bãi tắm cát mịn và đàn khỉ dạn người. Điểm dừng chân tắm biển, leo núi ngắm vịnh quen thuộc của tour Cát Bà.",
+    "presentation_long_en": "Monkey Island (Cat Dua) is a small isle in Lan Ha Bay with two sandy beaches and a troop of semi-wild monkeys - a favorite swim-and-hike stop on Cat Ba tours.",
+    "presentation_long_ru": "Остров обезьян (Катзыа) — маленький остров в заливе Лунгха с двумя песчаными пляжами и полудикими обезьянами; популярная остановка туров по Катба.",
+    "highlights_vi": [],
+    "highlights_en": [],
+    "highlights_ru": [],
+    "practical": {},
+    "sources": [],
+    "tags": [
+      "hai-phong"
+    ],
+    "photo": "",
+    "photo_credit": "",
+    "official_site": "",
+    "status": "stub",
+    "last_updated": "2026-07",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Monkey%20Island%20-%20Cat%20Ba%2C%20Hai%20Phong%2C%20Vietnam&ll=107.044,20.752&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Monkey%20Island%20-%20Cat%20Ba%2C%20Hai%20Phong%2C%20Vietnam"
+    }
+  },
+  {
+    "id": "vn-hai-phong-vinhomes-royal-island-vu-yen",
+    "slug": "vinhomes-royal-island-vu-yen",
+    "region": "vn-hai-phong",
+    "country": "vietnam",
+    "region_name_vi": "Hải Phòng",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Vinhomes Royal Island (Đảo Vũ Yên)",
+    "name_ru": "Vinhomes Royal Island (остров Вуйен)",
+    "name_en": "Vinhomes Royal Island (Vu Yen Island)",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 20.888,
+      "lon": 106.752
+    },
+    "address_vi": "Đảo Vũ Yên, TP. Hải Phòng",
+    "presentation_short_vi": "Vinhomes Royal Island trên đảo Vũ Yên là khu đô thị – vui chơi mới quy mô lớn của Hải Phòng, với công viên, phố thương mại, safari và các khu vui chơi. Điểm đến mới nổi cho gia đình.",
+    "presentation_short_en": "Vinhomes Royal Island on Vu Yen Island is Hai Phong's large new urban and entertainment district, with parks, shopping streets, a safari and amusement zones - a rising family destination.",
+    "presentation_short_ru": "Vinhomes Royal Island на острове Вуйен — крупный новый городской и развлекательный район Хайфона: парки, торговые улицы, сафари и аттракционы.",
+    "presentation_long_vi": "Vinhomes Royal Island trên đảo Vũ Yên là khu đô thị – vui chơi mới quy mô lớn của Hải Phòng, với công viên, phố thương mại, safari và các khu vui chơi. Điểm đến mới nổi cho gia đình.",
+    "presentation_long_en": "Vinhomes Royal Island on Vu Yen Island is Hai Phong's large new urban and entertainment district, with parks, shopping streets, a safari and amusement zones - a rising family destination.",
+    "presentation_long_ru": "Vinhomes Royal Island на острове Вуйен — крупный новый городской и развлекательный район Хайфона: парки, торговые улицы, сафари и аттракционы.",
+    "highlights_vi": [],
+    "highlights_en": [],
+    "highlights_ru": [],
+    "practical": {},
+    "sources": [],
+    "tags": [
+      "hai-phong"
+    ],
+    "photo": "",
+    "photo_credit": "",
+    "official_site": "",
+    "status": "stub",
+    "last_updated": "2026-07",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Vinhomes%20Royal%20Island%2C%20Hai%20Phong%2C%20Vietnam&ll=106.752,20.888&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Vinhomes%20Royal%20Island%2C%20Hai%20Phong%2C%20Vietnam"
+    }
+  },
+  {
+    "id": "vn-hai-phong-vinhomes-imperia-hai-phong",
+    "slug": "vinhomes-imperia-hai-phong",
+    "region": "vn-hai-phong",
+    "country": "vietnam",
+    "region_name_vi": "Hải Phòng",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Vinhomes Imperia Hải Phòng",
+    "name_ru": "Vinhomes Imperia Хайфон",
+    "name_en": "Vinhomes Imperia Hai Phong",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 20.867016,
+      "lon": 106.667421
+    },
+    "address_vi": "Thượng Lý, quận Hồng Bàng, TP. Hải Phòng",
+    "presentation_short_vi": "Vinhomes Imperia là khu đô thị hiện đại ven sông Cấm với công viên, quảng trường nhạc nước và trung tâm thương mại Vincom. Không gian dạo chơi, mua sắm quen thuộc giữa lòng thành phố.",
+    "presentation_short_en": "Vinhomes Imperia is a modern riverside urban area on the Cam River, with parks, a musical-fountain square and a Vincom mall - a popular strolling and shopping spot in the city.",
+    "presentation_short_ru": "Vinhomes Imperia — современный жилой район на берегу реки Кам с парками, площадью с музыкальным фонтаном и торговым центром Vincom.",
+    "presentation_long_vi": "Vinhomes Imperia là khu đô thị hiện đại ven sông Cấm với công viên, quảng trường nhạc nước và trung tâm thương mại Vincom. Không gian dạo chơi, mua sắm quen thuộc giữa lòng thành phố.",
+    "presentation_long_en": "Vinhomes Imperia is a modern riverside urban area on the Cam River, with parks, a musical-fountain square and a Vincom mall - a popular strolling and shopping spot in the city.",
+    "presentation_long_ru": "Vinhomes Imperia — современный жилой район на берегу реки Кам с парками, площадью с музыкальным фонтаном и торговым центром Vincom.",
+    "highlights_vi": [],
+    "highlights_en": [],
+    "highlights_ru": [],
+    "practical": {},
+    "sources": [],
+    "tags": [
+      "hai-phong"
+    ],
+    "photo": "",
+    "photo_credit": "",
+    "official_site": "",
+    "status": "stub",
+    "last_updated": "2026-07",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Vinhomes%20Imperia%20Hai%20Phong%2C%20Vietnam&ll=106.667421,20.867016&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Vinhomes%20Imperia%20Hai%20Phong%2C%20Vietnam"
+    }
+  },
+  {
+    "id": "vn-hai-phong-nha-tho-chinh-toa-hai-phong",
+    "slug": "nha-tho-chinh-toa-hai-phong",
+    "region": "vn-hai-phong",
+    "country": "vietnam",
+    "region_name_vi": "Hải Phòng",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Nhà thờ Chính tòa Hải Phòng",
+    "name_ru": "Кафедральный собор Хайфона",
+    "name_en": "Hai Phong Cathedral",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 20.860718,
+      "lon": 106.680658
+    },
+    "address_vi": "Phố Hoàng Văn Thụ, quận Hồng Bàng, TP. Hải Phòng",
+    "presentation_short_vi": "Nhà thờ Chính tòa Hải Phòng là nhà thờ Công giáo cổ theo lối kiến trúc Gothic, nằm ở trung tâm thành phố. Công trình đẹp, quen thuộc với người dân và du khách.",
+    "presentation_short_en": "Hai Phong Cathedral is an old Gothic-style Catholic cathedral in the city center - a graceful landmark well known to residents and visitors.",
+    "presentation_short_ru": "Кафедральный собор Хайфона — старинный католический собор в готическом стиле в центре города; изящная и известная достопримечательность.",
+    "presentation_long_vi": "Nhà thờ Chính tòa Hải Phòng là nhà thờ Công giáo cổ theo lối kiến trúc Gothic, nằm ở trung tâm thành phố. Công trình đẹp, quen thuộc với người dân và du khách.",
+    "presentation_long_en": "Hai Phong Cathedral is an old Gothic-style Catholic cathedral in the city center - a graceful landmark well known to residents and visitors.",
+    "presentation_long_ru": "Кафедральный собор Хайфона — старинный католический собор в готическом стиле в центре города; изящная и известная достопримечательность.",
+    "highlights_vi": [],
+    "highlights_en": [],
+    "highlights_ru": [],
+    "practical": {},
+    "sources": [],
+    "tags": [
+      "hai-phong"
+    ],
+    "photo": "",
+    "photo_credit": "",
+    "official_site": "",
+    "status": "stub",
+    "last_updated": "2026-07",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Hai%20Phong%20Cathedral%2C%20Vietnam&ll=106.680658,20.860718&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Hai%20Phong%20Cathedral%2C%20Vietnam"
+    }
+  },
+  {
+    "id": "vn-hai-phong-cho-sat-hai-phong",
+    "slug": "cho-sat-hai-phong",
+    "region": "vn-hai-phong",
+    "country": "vietnam",
+    "region_name_vi": "Hải Phòng",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Chợ Sắt Hải Phòng",
+    "name_ru": "Рынок Шат (Железный рынок) Хайфон",
+    "name_en": "Sat Market (Iron Market) Hai Phong",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 20.8642,
+      "lon": 106.6822
+    },
+    "address_vi": "Phường Phạm Hồng Thái, quận Hồng Bàng, TP. Hải Phòng",
+    "presentation_short_vi": "Chợ Sắt là khu chợ lâu đời biểu tượng của Hải Phòng bên sông Cấm, nay được xây dựng lại thành trung tâm thương mại – chợ hiện đại. Địa chỉ mua sắm và ẩm thực gắn với ký ức thành phố Cảng.",
+    "presentation_short_en": "Sat Market is a historic Hai Phong landmark by the Cam River, now rebuilt into a modern market and commercial center - a shopping and food spot woven into the port city's memory.",
+    "presentation_short_ru": "Рынок Шат — историческая достопримечательность Хайфона у реки Кам, ныне перестроенная в современный торговый центр; место для покупок и еды.",
+    "presentation_long_vi": "Chợ Sắt là khu chợ lâu đời biểu tượng của Hải Phòng bên sông Cấm, nay được xây dựng lại thành trung tâm thương mại – chợ hiện đại. Địa chỉ mua sắm và ẩm thực gắn với ký ức thành phố Cảng.",
+    "presentation_long_en": "Sat Market is a historic Hai Phong landmark by the Cam River, now rebuilt into a modern market and commercial center - a shopping and food spot woven into the port city's memory.",
+    "presentation_long_ru": "Рынок Шат — историческая достопримечательность Хайфона у реки Кам, ныне перестроенная в современный торговый центр; место для покупок и еды.",
+    "highlights_vi": [],
+    "highlights_en": [],
+    "highlights_ru": [],
+    "practical": {},
+    "sources": [],
+    "tags": [
+      "hai-phong"
+    ],
+    "photo": "",
+    "photo_credit": "",
+    "official_site": "",
+    "status": "stub",
+    "last_updated": "2026-07",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Sat%20Market%20Hai%20Phong%2C%20Vietnam&ll=106.6822,20.8642&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Sat%20Market%20Hai%20Phong%2C%20Vietnam"
+    }
+  },
+  {
+    "id": "vn-hai-phong-suoi-khoang-nong-tien-lang",
+    "slug": "suoi-khoang-nong-tien-lang",
+    "region": "vn-hai-phong",
+    "country": "vietnam",
+    "region_name_vi": "Hải Phòng",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Suối khoáng nóng Tiên Lãng",
+    "name_ru": "Горячие источники Тьенланг",
+    "name_en": "Tien Lang Hot Spring",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 20.7182,
+      "lon": 106.5722
+    },
+    "address_vi": "Thị trấn Tiên Lãng, huyện Tiên Lãng, TP. Hải Phòng",
+    "presentation_short_vi": "Khu suối khoáng nóng Tiên Lãng cung cấp dịch vụ tắm khoáng, tắm bùn và nghỉ dưỡng chăm sóc sức khỏe. Điểm thư giãn cuối tuần được ưa chuộng gần trung tâm Hải Phòng.",
+    "presentation_short_en": "Tien Lang Hot Spring offers mineral baths, mud baths and wellness stays - a popular weekend relaxation spot near Hai Phong.",
+    "presentation_short_ru": "Горячие источники Тьенланг предлагают минеральные и грязевые ванны и оздоровительный отдых; популярное место отдыха недалеко от Хайфона.",
+    "presentation_long_vi": "Khu suối khoáng nóng Tiên Lãng cung cấp dịch vụ tắm khoáng, tắm bùn và nghỉ dưỡng chăm sóc sức khỏe. Điểm thư giãn cuối tuần được ưa chuộng gần trung tâm Hải Phòng.",
+    "presentation_long_en": "Tien Lang Hot Spring offers mineral baths, mud baths and wellness stays - a popular weekend relaxation spot near Hai Phong.",
+    "presentation_long_ru": "Горячие источники Тьенланг предлагают минеральные и грязевые ванны и оздоровительный отдых; популярное место отдыха недалеко от Хайфона.",
+    "highlights_vi": [],
+    "highlights_en": [],
+    "highlights_ru": [],
+    "practical": {},
+    "sources": [],
+    "tags": [
+      "hai-phong"
+    ],
+    "photo": "",
+    "photo_credit": "",
+    "official_site": "",
+    "status": "stub",
+    "last_updated": "2026-07",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Tien%20Lang%20Hot%20Spring%2C%20Hai%20Phong%2C%20Vietnam&ll=106.5722,20.7182&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Tien%20Lang%20Hot%20Spring%2C%20Hai%20Phong%2C%20Vietnam"
+    }
+  },
+  {
+    "id": "vn-hai-phong-khu-tuong-niem-nha-mac",
+    "slug": "khu-tuong-niem-nha-mac",
+    "region": "vn-hai-phong",
+    "country": "vietnam",
+    "region_name_vi": "Hải Phòng",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Khu tưởng niệm Vương triều nhà Mạc (Kiến Thụy)",
+    "name_ru": "Мемориал династии Мак (Кьентхюй)",
+    "name_en": "Mac Dynasty Memorial (Kien Thuy)",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 20.7692,
+      "lon": 106.6608
+    },
+    "address_vi": "Xã Ngũ Đoan, huyện Kiến Thụy, TP. Hải Phòng",
+    "presentation_short_vi": "Khu tưởng niệm Vương triều nhà Mạc ở Kiến Thụy là nơi thờ và tưởng nhớ các vua nhà Mạc, gắn với vùng đất phát tích của vương triều. Không gian di tích trang nghiêm, giàu giá trị lịch sử.",
+    "presentation_short_en": "The Mac Dynasty Memorial in Kien Thuy honors the kings of the Mac dynasty in the land of the dynasty's origin - a solemn, historically rich site.",
+    "presentation_short_ru": "Мемориал династии Мак в Кьентхюй посвящён королям династии Мак на земле её происхождения; торжественное историческое место.",
+    "presentation_long_vi": "Khu tưởng niệm Vương triều nhà Mạc ở Kiến Thụy là nơi thờ và tưởng nhớ các vua nhà Mạc, gắn với vùng đất phát tích của vương triều. Không gian di tích trang nghiêm, giàu giá trị lịch sử.",
+    "presentation_long_en": "The Mac Dynasty Memorial in Kien Thuy honors the kings of the Mac dynasty in the land of the dynasty's origin - a solemn, historically rich site.",
+    "presentation_long_ru": "Мемориал династии Мак в Кьентхюй посвящён королям династии Мак на земле её происхождения; торжественное историческое место.",
+    "highlights_vi": [],
+    "highlights_en": [],
+    "highlights_ru": [],
+    "practical": {},
+    "sources": [],
+    "tags": [
+      "hai-phong"
+    ],
+    "photo": "",
+    "photo_credit": "",
+    "official_site": "",
+    "status": "stub",
+    "last_updated": "2026-07",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Mac%20Dynasty%20Memorial%2C%20Hai%20Phong%2C%20Vietnam&ll=106.6608,20.7692&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Mac%20Dynasty%20Memorial%2C%20Hai%20Phong%2C%20Vietnam"
+    }
+  },
+  {
+    "id": "vn-hai-phong-den-kiep-bac",
+    "slug": "den-kiep-bac",
+    "region": "vn-hai-phong",
+    "country": "vietnam",
+    "region_name_vi": "Hải Phòng",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Đền Kiếp Bạc (Chí Linh)",
+    "name_ru": "Храм Кьепбак (Тьилинь)",
+    "name_en": "Kiep Bac Temple (Chi Linh)",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 21.136,
+      "lon": 106.3558
+    },
+    "address_vi": "Phường Chí Linh, TP. Hải Phòng (Hải Dương cũ)",
+    "presentation_short_vi": "Đền Kiếp Bạc thờ Hưng Đạo Đại Vương Trần Quốc Tuấn, nằm bên sông Lục Đầu, là trung tâm lễ hội mùa thu nổi tiếng. Cùng Côn Sơn tạo thành quần thể di tích quốc gia đặc biệt Côn Sơn – Kiếp Bạc.",
+    "presentation_short_en": "Kiep Bac Temple honors the national hero Tran Hung Dao by the Luc Dau River and hosts a famous autumn festival - together with Con Son it forms the special national relic complex.",
+    "presentation_short_ru": "Храм Кьепбак посвящён национальному герою Чан Хынг Дао у реки Лукдау и известен осенним фестивалем; вместе с Коншон образует особый национальный комплекс.",
+    "presentation_long_vi": "Đền Kiếp Bạc thờ Hưng Đạo Đại Vương Trần Quốc Tuấn, nằm bên sông Lục Đầu, là trung tâm lễ hội mùa thu nổi tiếng. Cùng Côn Sơn tạo thành quần thể di tích quốc gia đặc biệt Côn Sơn – Kiếp Bạc.",
+    "presentation_long_en": "Kiep Bac Temple honors the national hero Tran Hung Dao by the Luc Dau River and hosts a famous autumn festival - together with Con Son it forms the special national relic complex.",
+    "presentation_long_ru": "Храм Кьепбак посвящён национальному герою Чан Хынг Дао у реки Лукдау и известен осенним фестивалем; вместе с Коншон образует особый национальный комплекс.",
+    "highlights_vi": [],
+    "highlights_en": [],
+    "highlights_ru": [],
+    "practical": {},
+    "sources": [],
+    "tags": [
+      "hai-phong"
+    ],
+    "photo": "",
+    "photo_credit": "",
+    "official_site": "",
+    "status": "stub",
+    "last_updated": "2026-07",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Kiep%20Bac%20Temple%2C%20Hai%20Phong%2C%20Vietnam&ll=106.3558,21.136&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kiep%20Bac%20Temple%2C%20Hai%20Phong%2C%20Vietnam"
+    }
+  },
+  {
+    "id": "vn-hai-phong-chua-hang-luong",
+    "slug": "chua-hang-luong",
+    "region": "vn-hai-phong",
+    "country": "vietnam",
+    "region_name_vi": "Hải Phòng",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Chùa Hang Lương",
+    "name_en": "Hang Luong Pagoda",
+    "name_ru": "Пагода Ханглыонг",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 20.9961776,
+      "lon": 106.6803944
+    },
+    "address_vi": "QL10, xã Bạch Đằng, huyện Thủy Nguyên, TP. Hải Phòng",
+    "presentation_short_vi": "Chùa Hang Lương là ngôi chùa làng ở xã Bạch Đằng, Thủy Nguyên, gần vùng di tích Bạch Đằng Giang. Không gian thờ tự yên tĩnh, gắn với đời sống tín ngưỡng của cư dân địa phương.",
+    "presentation_short_en": "Hang Luong Pagoda is a village temple in Bach Dang commune, Thuy Nguyen, near the Bach Dang Giang relic area - a quiet place of worship tied to local community life.",
+    "presentation_short_ru": "Пагода Ханглыонг — сельский храм в общине Батьданг (Тхюйнгуен) рядом с историческим комплексом Батьданьзянг; тихое место поклонения местных жителей.",
+    "presentation_long_vi": "Chùa Hang Lương là ngôi chùa làng ở xã Bạch Đằng, huyện Thủy Nguyên, TP. Hải Phòng, nằm gần khu di tích Bạch Đằng Giang. Đây là điểm sinh hoạt tín ngưỡng của cư dân địa phương với không gian thờ tự yên tĩnh, cây xanh và nét kiến trúc chùa Bắc Bộ.",
+    "presentation_long_en": "Hang Luong Pagoda is a village temple in Bach Dang commune, Thuy Nguyen district, Hai Phong, near the Bach Dang Giang relic complex - a local place of worship with a quiet compound and northern-Vietnamese temple architecture.",
+    "presentation_long_ru": "Пагода Ханглыонг — сельский храм в общине Батьданг района Тхюйнгуен (Хайфон) рядом с комплексом Батьданьзянг; местное место поклонения с тихим двором и архитектурой храмов Северного Вьетнама.",
+    "highlights_vi": [],
+    "highlights_en": [],
+    "highlights_ru": [],
+    "practical": {},
+    "sources": [],
+    "tags": [
+      "hai-phong"
+    ],
+    "photo": "",
+    "photo_credit": "",
+    "official_site": "",
+    "status": "stub",
+    "last_updated": "2026-07",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Hang%20Luong%20Pagoda%2C%20Hai%20Phong%2C%20Vietnam&ll=106.6803944,20.9961776&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Hang%20Luong%20Pagoda%2C%20Hai%20Phong%2C%20Vietnam"
+    }
+  },
+  {
+    "id": "vn-hai-phong-ga-hai-phong",
+    "slug": "ga-hai-phong",
+    "region": "vn-hai-phong",
+    "country": "vietnam",
+    "region_name_vi": "Hải Phòng",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Ga Hải Phòng",
+    "name_ru": "Железнодорожный вокзал Хайфона",
+    "name_en": "Hai Phong Railway Station",
+    "categories": [
+      "other",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 20.856,
+      "lon": 106.6874
+    },
+    "address_vi": "75 Lương Khánh Thiện, phường Cầu Đất, quận Ngô Quyền, thành phố Hải Phòng",
+    "rating": {
+      "value": 4.5,
+      "count": 1600,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách yêu thích kiến trúc Pháp cổ màu vàng đặc trưng và bầu không khí hoài niệm của nhà ga trăm tuổi; nhiều người ghé chụp ảnh, ngắm đoàn tàu và tản bộ khu phố xung quanh. Một số lưu ý nên tránh giờ tàu đông và giữ an toàn khi chụp gần đường ray.",
+    "presentation_short_vi": "Ga Hải Phòng là nhà ga xe lửa cổ kính khánh thành năm 1902, điểm cuối của tuyến đường sắt Hà Nội – Hải Phòng. Với kiến trúc Pháp màu vàng thanh lịch, đây là một trong những nhà ga đẹp và giàu hoài niệm nhất Việt Nam.",
+    "presentation_short_en": "Hai Phong Railway Station, opened in 1902, is the terminus of the Hanoi–Hai Phong line. With its elegant yellow French architecture, it is one of Vietnam's most beautiful and nostalgic railway stations.",
+    "presentation_short_ru": "Железнодорожный вокзал Хайфона, открытый в 1902 году, — конечная станция линии Ханой–Хайфон. Со своей изящной жёлтой французской архитектурой это один из красивейших и самых ностальгических вокзалов Вьетнама.",
+    "presentation_long_vi": "Toạ lạc ngay trung tâm thành phố, Ga Hải Phòng là một trong những nhà ga xe lửa lâu đời và đẹp nhất Việt Nam, được người Pháp xây dựng và đưa vào hoạt động từ năm 1902. Đây là điểm cuối của tuyến đường sắt Hà Nội – Hải Phòng, đồng thời từng là một mắt xích của tuyến đường sắt khổ hẹp nối tới tận Vân Nam (Trung Quốc). Nhà ga khoác lên mình lối kiến trúc Pháp cổ điển với gam vàng đặc trưng, mái ngói, những ô cửa vòm và hàng chữ 'GA HẢI PHÒNG' nổi bật phía trước, gợi lại không khí của một thời đã xa. Trải qua hơn một thế kỷ, ga vẫn hoạt động đều đặn, mỗi ngày đón tiễn những chuyến tàu chở khách xuôi ngược giữa Hải Phòng và thủ đô. Với nhiều du khách, đi tàu hoả từ Hà Nội xuống Hải Phòng rồi bước xuống sân ga cổ kính này là một trải nghiệm du lịch đầy chất thơ và hoài niệm. Khu vực quanh ga cũng nhộn nhịp với hàng quán, phố phường mang dấu ấn đô thị cảng lâu đời. Không chỉ là đầu mối giao thông, Ga Hải Phòng còn là một biểu tượng kiến trúc – lịch sử của thành phố Hoa phượng đỏ, là nơi lý tưởng để chụp ảnh, tìm hiểu lịch sử đường sắt và cảm nhận nhịp sống đặc trưng của người dân đất Cảng.",
+    "presentation_long_en": "In the very heart of the city, Hai Phong Railway Station is one of the oldest and most beautiful train stations in Vietnam, built by the French and opened in 1902. It is the terminus of the Hanoi–Hai Phong line and was once a link in the narrow-gauge railway that ran all the way to Yunnan in China. The station wears classic French architecture in its signature yellow, with a tiled roof, arched windows and the bold letters 'GA HAI PHONG' across its face, evoking the atmosphere of a bygone era. After more than a century it still works steadily, each day seeing off and welcoming passenger trains that run between Hai Phong and the capital. For many travellers, taking the train down from Hanoi and stepping onto this old platform is a poetic, nostalgic experience. The area around the station also bustles with shops and streets that carry the imprint of a long-established port city. More than a transport hub, Hai Phong Railway Station is an architectural and historical symbol of the City of the Red Flamboyant, an ideal place to take photographs, learn about railway history and feel the distinctive rhythm of the port city's people.",
+    "presentation_long_ru": "В самом сердце города железнодорожный вокзал Хайфона — один из старейших и красивейших вокзалов Вьетнама, построенный французами и открытый в 1902 году. Это конечная станция линии Ханой–Хайфон, а некогда и звено узкоколейной железной дороги, тянувшейся вплоть до Юньнани в Китае. Вокзал одет в классическую французскую архитектуру своего фирменного жёлтого цвета, с черепичной крышей, арочными окнами и крупной надписью «GA HAI PHONG» на фасаде, воскрешая атмосферу ушедшей эпохи. Спустя более чем столетие он по-прежнему исправно работает, ежедневно провожая и встречая пассажирские поезда между Хайфоном и столицей. Для многих путешественников поездка на поезде из Ханоя и выход на этот старый перрон — поэтичное, ностальгическое переживание. Район вокруг вокзала тоже оживлён лавками и улицами, хранящими отпечаток давнего портового города. Больше чем транспортный узел, вокзал Хайфона — архитектурный и исторический символ Города красных огненных деревьев, идеальное место, чтобы фотографировать, знакомиться с историей железных дорог и ощущать особый ритм жизни жителей портового города.",
+    "highlights_vi": [
+      "Nhà ga khánh thành năm 1902, điểm cuối tuyến đường sắt Hà Nội – Hải Phòng",
+      "Kiến trúc Pháp cổ điển màu vàng đặc trưng, biểu tượng của đất Cảng",
+      "Điểm chụp ảnh, du lịch hoài niệm ngay trung tâm thành phố"
+    ],
+    "highlights_en": [
+      "A station opened in 1902, terminus of the Hanoi–Hai Phong line",
+      "Classic French architecture in signature yellow, a symbol of the port city",
+      "A photo and nostalgic-travel spot right in the city centre"
+    ],
+    "highlights_ru": [
+      "Вокзал, открытый в 1902 году, конечная линии Ханой–Хайфон",
+      "Классическая французская архитектура в фирменном жёлтом, символ порта",
+      "Место для фото и ностальгических путешествий в центре города"
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa theo lịch tàu chạy hằng ngày; ban ngày dễ tham quan, chụp ảnh bên ngoài.",
+      "ticket_vi": "Vào khu vực ga không mất phí; vé tàu Hà Nội – Hải Phòng tham khảo khoảng 70.000–120.000 VND/lượt.",
+      "duration_vi": "Khoảng 30–45 phút tham quan, chụp ảnh.",
+      "best_time_vi": "Sáng sớm hoặc chiều muộn ánh sáng đẹp; tránh giờ cao điểm tàu đông.",
+      "tips_vi": "Giữ an toàn, không đứng chụp ảnh trên/gần đường ray khi có tàu; kết hợp tản bộ khu phố Pháp và Nhà hát lớn gần đó."
+    },
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Ga_Hai_Phong.JPG",
+    "photo_credit": "Wikimedia Commons, CC BY-SA 3.0",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Hai%20Phong%20Railway%20Station%2C%20Vietnam&ll=106.6874,20.856&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Hai%20Phong%20Railway%20Station%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Hải Phòng station (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Haiphong_station"
+      },
+      {
+        "title": "Ga Hải Phòng — OpenStreetMap (way 241081956)",
+        "url": "https://www.openstreetmap.org/way/241081956"
+      }
+    ],
+    "tags": [
+      "historic",
+      "railway",
+      "photo",
+      "architecture",
+      "city",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
   }
 ]

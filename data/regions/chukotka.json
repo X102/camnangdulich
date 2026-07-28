@@ -368,5 +368,1680 @@
     "status": "enriched",
     "last_updated": "2026-07-21",
     "country": "russia"
+  },
+  {
+    "id": "chukotka-chukotka-heritage-museum-anadyr",
+    "slug": "chukotka-heritage-museum-anadyr",
+    "region": "chukotka",
+    "region_name_vi": "Khu tự trị Chukotka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Trung tâm Bảo tàng “Di sản Chukotka” (Muzeyny tsentr «Nasledie Chukotki»)",
+    "name_ru": "Музейный центр «Наследие Чукотки»",
+    "name_en": "Museum Center “Chukotka Heritage” (Anadyr)",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 64.7337,
+      "lon": 177.5093
+    },
+    "address_vi": "Trung tâm thành phố Anadyr, Khu tự trị Chukotka, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng lớn nhất và hiện đại nhất vùng Chukotka, nơi kể trọn câu chuyện của miền cực đông nước Nga: văn hoá người Chukchi và Eskimo, nghệ thuật chạm ngà – xương, thiên nhiên Bắc Cực và lịch sử khai phá vùng đất băng giá.",
+    "presentation_long_vi": "Trung tâm Bảo tàng “Di sản Chukotka” ở thủ phủ Anadyr là điểm khởi đầu lý tưởng để hiểu cả một vùng đất rộng lớn nhưng thưa vắng bậc nhất hành tinh. Sưu tập của bảo tàng trải rộng từ khảo cổ và dân tộc học của các dân tộc bản địa (Chukchi, Eskimo/Yupik, Even, Chuvan) đến bộ sưu tập nghệ thuật chạm khắc ngà hải mã và xương cá voi nổi tiếng thế giới của Chukotka. Khách tham quan còn gặp các trưng bày về thiên nhiên đài nguyên và biển Bắc Cực, về lịch sử tuyến Đường Biển Phương Bắc, về đời sống của người chăn tuần lộc và thợ săn thú biển. Bảo tàng được đầu tư bài bản với không gian trưng bày đa phương tiện, được xem là một trong những bảo tàng “sáng” và tiện nghi nhất ở vùng Viễn Đông Bắc Cực. Đây là nơi giúp du khách hình dung bức tranh tổng thể trước khi lên đường tới các làng bản và điểm hoang dã xa xôi của Chukotka.",
+    "highlights_vi": [
+      "Bảo tàng đầu ngành của Chukotka về văn hoá bản địa và thiên nhiên Bắc Cực.",
+      "Sưu tập nghệ thuật chạm ngà hải mã và xương cá voi đặc sắc.",
+      "Trưng bày đa phương tiện hiện đại, điểm định hướng trước khi khám phá vùng."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa theo giờ hành chính, thường nghỉ thứ Hai; nên kiểm tra lịch trước khi đến.",
+      "ticket_vi": "Vé vào cửa mức thấp; có thể có tour hướng dẫn tính phí thêm.",
+      "duration_vi": "Khoảng 1–2 giờ.",
+      "best_time_vi": "Quanh năm; thuận tiện kết hợp khi ghé Anadyr mùa hè (tháng 7–8).",
+      "tips_vi": "Điểm dừng đầu tiên rất đáng giá để hiểu văn hoá Chukchi/Eskimo trước khi đi các làng xa."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9%20%D1%86%D0%B5%D0%BD%D1%82%D1%80%20%C2%AB%D0%9D%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D0%B8%D0%B5%20%D0%A7%D1%83%D0%BA%D0%BE%D1%82%D0%BA%D0%B8%C2%BB&ll=177.5093,64.7337&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Museum%20Center%20%E2%80%9CChukotka%20Heritage%E2%80%9D%20%28Anadyr%29%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Анадырь",
+        "url": "https://ru.wikipedia.org/wiki/Анадырь"
+      },
+      {
+        "title": "Museu.ms — Chukotka Heritage Museum Center",
+        "url": "http://museu.ms/museum/details/13485"
+      }
+    ],
+    "tags": [
+      "chukotka",
+      "anadyr",
+      "museum",
+      "chukchi",
+      "eskimo",
+      "ivory-carving"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "chukotka-anadyr-st-nicholas-monument",
+    "slug": "anadyr-st-nicholas-monument",
+    "region": "chukotka",
+    "region_name_vi": "Khu tự trị Chukotka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Tượng đài Thánh Nikolay Kỳ Diệu (Pamyatnik Nikolayu Chudotvortsu)",
+    "name_ru": "Памятник Николаю Чудотворцу",
+    "name_en": "Monument to St. Nicholas the Wonderworker (Anadyr)",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 64.7351,
+      "lon": 177.5165
+    },
+    "address_vi": "Trên gò cao nhìn ra cửa vịnh Anadyr, gần Nhà thờ Chính tòa Chúa Ba Ngôi, thành phố Anadyr, Chukotka, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bức tượng đồng khổng lồ Thánh Nikolay – vị thánh bảo trợ của người đi biển và lữ khách – đứng trên gò cao đón gió biển, dang tay che chở cho thành phố cực đông nước Nga. Đây là một trong những tượng đài Thánh Nikolay lớn nhất thế giới.",
+    "presentation_long_vi": "Vươn lên trên gò đất nhìn thẳng ra cửa vịnh Anadyr, tượng đài Thánh Nikolay Kỳ Diệu (Nikolay Chudotvorets) là một trong những biểu tượng dễ nhận ra nhất của thủ phủ Chukotka. Bức tượng bằng đồng cao lớn khắc hoạ vị thánh – người được tín đồ Chính Thống giáo tôn là đấng bảo trợ của thuỷ thủ, ngư dân và những người đi đường xa – trong tư thế ban phước, hướng ra biển như đang canh giữ cho những con tàu ra vào cảng và cho cả thành phố quanh năm gió tuyết. Công trình được dựng đầu những năm 2000, cùng thời với việc xây Nhà thờ Chính tòa Chúa Ba Ngôi bằng gỗ gần đó, tạo thành cụm điểm nhấn tâm linh của Anadyr. Từ chân tượng, du khách có tầm nhìn đẹp bao quát cửa vịnh, khu cảng và những dãy nhà nhiều màu của thành phố – một điểm chụp ảnh và ngắm cảnh quen thuộc.",
+    "highlights_vi": [
+      "Một trong những tượng đài Thánh Nikolay lớn nhất thế giới.",
+      "Vị trí trên gò cao, tầm nhìn đẹp bao quát cửa vịnh và cảng Anadyr.",
+      "Tạo thành cụm điểm nhấn cùng Nhà thờ Chính tòa Chúa Ba Ngôi bằng gỗ."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tham quan tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 15–30 phút.",
+      "best_time_vi": "Mùa hè (tháng 6–8) trời sáng dài, dễ đi bộ và ngắm cảnh.",
+      "tips_vi": "Kết hợp tham quan cùng Nhà thờ Chúa Ba Ngôi kề bên; mang áo chắn gió vì trên gò lộng gió biển."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D1%8E%20%D0%A7%D1%83%D0%B4%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D1%86%D1%83&ll=177.5165,64.7351&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Monument%20to%20St.%20Nicholas%20the%20Wonderworker%20%28Anadyr%29%2C%20Chukotka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Анадырь",
+        "url": "https://ru.wikipedia.org/wiki/Анадырь"
+      },
+      {
+        "title": "Wikipedia (EN) — Anadyr (search)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Anadyr%20Saint%20Nicholas%20monument"
+      }
+    ],
+    "tags": [
+      "chukotka",
+      "anadyr",
+      "monument",
+      "orthodox",
+      "saint-nicholas",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "chukotka-anadyr-rytkheu-monument",
+    "slug": "anadyr-rytkheu-monument",
+    "region": "chukotka",
+    "region_name_vi": "Khu tự trị Chukotka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Tượng đài nhà văn Yuri Rytkheu (Pamyatnik Yuriyu Rytkheu)",
+    "name_ru": "Памятник Юрию Рытхэу",
+    "name_en": "Monument to Yuri Rytkheu (Anadyr)",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 64.7322,
+      "lon": 177.5075
+    },
+    "address_vi": "Khu trung tâm ven vịnh, thành phố Anadyr, Khu tự trị Chukotka, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Tượng đài tưởng niệm Yuri Rytkheu (1930–2008) – nhà văn Chukchi lừng danh, người đưa cuộc sống, huyền thoại và tâm hồn của dân tộc mình vào văn học thế giới. Ông sinh ra ở làng Uelen bên bờ eo biển Bering.",
+    "presentation_long_vi": "Ở trung tâm Anadyr có tượng đài dành cho Yuri Rytkheu – nhà văn nổi tiếng nhất mà vùng Chukotka từng sinh ra. Sinh năm 1930 trong một gia đình thợ săn ở làng Uelen cực đông, Rytkheu viết bằng cả tiếng Chukchi và tiếng Nga, và qua hàng loạt tiểu thuyết, truyện ngắn ông đã kể cho thế giới nghe về đời sống, tín ngưỡng, huyền thoại và những biến động của người Chukchi giữa thế kỷ 20. Tác phẩm của ông được dịch ra nhiều thứ tiếng, giúp một dân tộc nhỏ nơi tận cùng Á – Âu có tiếng nói trong văn chương toàn cầu. Tượng đài ở Anadyr là nơi người dân và du khách bày tỏ lòng trân trọng với “người kể chuyện của vùng đài nguyên”, đồng thời là dịp để hiểu thêm về văn hoá bản địa Chukotka qua lăng kính văn học.",
+    "highlights_vi": [
+      "Tưởng niệm Yuri Rytkheu – nhà văn Chukchi được dịch ra nhiều thứ tiếng.",
+      "Gợi nhắc di sản văn học và văn hoá của các dân tộc bản địa Chukotka.",
+      "Nằm ở khu trung tâm Anadyr, dễ kết hợp dạo phố ven vịnh."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tham quan tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 10–20 phút.",
+      "best_time_vi": "Mùa hè, khi dạo bộ trong thành phố dễ chịu.",
+      "tips_vi": "Đọc trước một tác phẩm của Rytkheu (ví dụ “Khi cá voi ra đi”) sẽ khiến chuyến thăm ý nghĩa hơn."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%D0%AE%D1%80%D0%B8%D1%8E%20%D0%A0%D1%8B%D1%82%D1%85%D1%8D%D1%83&ll=177.5075,64.7322&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Monument%20to%20Yuri%20Rytkheu%20%28Anadyr%29%2C%20Chukotka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN) — Yuri Rytkheu",
+        "url": "https://en.wikipedia.org/wiki/Yuri_Rytkheu"
+      },
+      {
+        "title": "Wikipedia (RU) — Рытхэу, Юрий Сергеевич",
+        "url": "https://ru.wikipedia.org/wiki/Рытхэу,_Юрий_Сергеевич"
+      }
+    ],
+    "tags": [
+      "chukotka",
+      "anadyr",
+      "monument",
+      "literature",
+      "chukchi",
+      "rytkheu"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "chukotka-anadyr-first-revkom-monument",
+    "slug": "anadyr-first-revkom-monument",
+    "region": "chukotka",
+    "region_name_vi": "Khu tự trị Chukotka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Đài kỷ niệm Ban Cách mạng đầu tiên Chukotka (Pamyatnik Pervomu revkomu Chukotki)",
+    "name_ru": "Памятник Первому ревкому Чукотки",
+    "name_en": "Monument to the First Revolutionary Committee of Chukotka (Anadyr)",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 64.7345,
+      "lon": 177.5085
+    },
+    "address_vi": "Khu trung tâm ven vịnh, thành phố Anadyr, Khu tự trị Chukotka, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Đài tưởng niệm những thành viên Ban Cách mạng (revkom) đầu tiên của Chukotka bị sát hại năm 1920. Đây là một trong những tượng đài lịch sử lâu đời và mang tính biểu tượng của Anadyr thời Xô-viết.",
+    "presentation_long_vi": "Giữa trung tâm Anadyr là đài kỷ niệm dành cho Ban Cách mạng đầu tiên của Chukotka – nhóm những người thành lập chính quyền Xô-viết non trẻ ở vùng cực đông năm 1919–1920, do Mikhail Mandrikov đứng đầu, và bị bắn chết trong cuộc phản loạn đầu năm 1920. Công trình là một trong những đài tưởng niệm lâu đời của thành phố, gắn với giai đoạn lịch sử đầy biến động khi Chukotka bước vào thời kỳ hiện đại. Với người dân địa phương, đây là một địa chỉ đỏ quen thuộc, nơi diễn ra các nghi lễ tưởng niệm; với du khách, đó là dịp tìm hiểu lịch sử thế kỷ 20 của vùng đất xa xôi này. Đài nằm ở khu vực dễ tiếp cận trong thành phố, có thể ghé qua khi dạo bộ giữa các điểm tham quan của Anadyr.",
+    "highlights_vi": [
+      "Tưởng niệm nhóm cách mạng đầu tiên của Chukotka bị sát hại năm 1920.",
+      "Một trong những tượng đài lịch sử lâu đời của Anadyr.",
+      "Gắn với trang sử thế kỷ 20 của miền cực đông nước Nga."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tham quan tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 10–15 phút.",
+      "best_time_vi": "Quanh năm; mùa hè thuận tiện đi bộ.",
+      "tips_vi": "Dễ kết hợp trong lịch dạo phố Anadyr cùng bảo tàng và các tượng đài khác."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%BC%D1%83%20%D1%80%D0%B5%D0%B2%D0%BA%D0%BE%D0%BC%D1%83%20%D0%A7%D1%83%D0%BA%D0%BE%D1%82%D0%BA%D0%B8&ll=177.5085,64.7345&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Monument%20to%20the%20First%20Revolutionary%20Committee%20of%20Chukotka%20%28Anadyr%29%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Первый ревком Чукотки",
+        "url": "https://ru.wikipedia.org/wiki/Первый_ревком_Чукотки"
+      },
+      {
+        "title": "Wikipedia (RU) — Анадырь",
+        "url": "https://ru.wikipedia.org/wiki/Анадырь"
+      }
+    ],
+    "tags": [
+      "chukotka",
+      "anadyr",
+      "monument",
+      "history",
+      "soviet",
+      "memorial"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "chukotka-anadyr-murals",
+    "slug": "anadyr-murals",
+    "region": "chukotka",
+    "region_name_vi": "Khu tự trị Chukotka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Tranh tường phố phường Anadyr (Muraly / graffiti Anadyrya)",
+    "name_ru": "Муралы и граффити Анадыря",
+    "name_en": "Anadyr Street Murals",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 64.7337,
+      "lon": 177.514
+    },
+    "address_vi": "Trên các mặt tường chung cư khắp thành phố Anadyr, Khu tự trị Chukotka, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Anadyr được mệnh danh là một trong những thành phố “sặc sỡ” nhất nước Nga: những khối chung cư bê tông thời Xô-viết được sơn màu rực rỡ và phủ tranh tường khổng lồ – gấu Bắc Cực, cá voi, người Chukchi, cảnh đài nguyên – để xua đi cái ảm đạm của mùa cực đêm.",
+    "presentation_long_vi": "Giữa một vùng đất quanh năm tuyết trắng, xám xịt và nhiều tháng chìm trong bóng tối cực đêm, Anadyr chọn cách “phản công” bằng màu sắc. Các dãy chung cư bê tông kiểu Liên Xô được sơn phủ những gam màu tươi và trang trí bằng hàng loạt bức tranh tường (mural) cỡ lớn: gấu trắng, cá voi, hải mã, chân dung người bản địa, cảnh săn bắt và huyền thoại Chukchi, những dòng chữ cổ vũ tinh thần. Nhờ vậy, thủ phủ Chukotka thường được nhắc tới như một trong những thành phố nhiều màu sắc và “vui mắt” nhất nước Nga, dù nằm ở nơi khắc nghiệt bậc nhất. Với du khách, dạo bộ giữa các khu nhà để “săn” tranh tường là một cách thú vị và miễn phí để cảm nhận tinh thần lạc quan cùng bản sắc văn hoá của người dân nơi đây.",
+    "highlights_vi": [
+      "Anadyr nổi tiếng là một trong những thành phố nhiều màu sắc nhất nước Nga.",
+      "Tranh tường chủ đề Bắc Cực và văn hoá Chukchi phủ khắp các khối chung cư.",
+      "Điểm dạo bộ, chụp ảnh miễn phí và độc đáo ngay trong thành phố."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 1 giờ dạo bộ ngắm tranh.",
+      "best_time_vi": "Mùa hè có ánh sáng ban ngày dài, màu tranh lên rực rỡ nhất.",
+      "tips_vi": "Kết hợp lộ trình đi bộ giữa bảo tàng, nhà thờ và tượng đài để ngắm nhiều bức tranh nhất."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D1%80%D0%B0%D0%BB%D1%8B%20%D0%B8%20%D0%B3%D1%80%D0%B0%D1%84%D1%84%D0%B8%D1%82%D0%B8%20%D0%90%D0%BD%D0%B0%D0%B4%D1%8B%D1%80%D1%8F&ll=177.514,64.7337&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Anadyr%20Street%20Murals%2C%20Chukotka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Анадырь",
+        "url": "https://ru.wikipedia.org/wiki/Анадырь"
+      },
+      {
+        "title": "Wikipedia (EN) — Anadyr (town)",
+        "url": "https://en.wikipedia.org/wiki/Anadyr_(town)"
+      }
+    ],
+    "tags": [
+      "chukotka",
+      "anadyr",
+      "street-art",
+      "murals",
+      "city-walk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "chukotka-anadyr-estuary-beluga",
+    "slug": "anadyr-estuary-beluga",
+    "region": "chukotka",
+    "region_name_vi": "Khu tự trị Chukotka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Cửa vịnh Anadyr – nơi ngắm cá voi trắng beluga (Anadyrsky liman)",
+    "name_ru": "Анадырский лиман",
+    "name_en": "Anadyr Estuary (Anadyrsky Liman)",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 64.718,
+      "lon": 177.47
+    },
+    "address_vi": "Cửa sông – vụng nước lợ nơi các sông Anadyr, Kanchalan, Velikaya đổ ra vịnh Anadyr, cạnh thành phố Anadyr, Chukotka, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Vùng cửa sông rộng lớn ôm lấy thành phố Anadyr, nơi mùa hè đàn cá voi trắng beluga và cả cá voi xám kéo vào săn cá hồi ngay trước mặt thành phố – một cảnh tượng thiên nhiên hiếm có ngay cạnh khu dân cư.",
+    "presentation_long_vi": "Anadyr nằm bên bờ một cửa sông – vụng nước lợ mênh mông (liman), nơi ba con sông Anadyr, Kanchalan và Velikaya cùng đổ nước ra vịnh Anadyr thuộc biển Bering. Vào mùa hè, khi từng đàn cá hồi ngược dòng, vùng nước này trở thành “bàn tiệc” thu hút cá voi trắng beluga bơi thành đàn ngay sát thành phố; đôi khi cả cá voi xám cũng xuất hiện. Từ bờ kè hoặc trên chuyến phà/tàu nhỏ nối thành phố với sân bay Ugolny bên kia cửa vịnh, du khách có thể bắt gặp những tấm lưng trắng nhấp nhô – một trong những trải nghiệm ngắm cá voi dễ tiếp cận nhất Bắc Cực Nga. Cửa vịnh cũng là nơi trú ngụ của hải cẩu và vô số loài chim biển, đồng thời đóng khung nên khung cảnh đặc trưng của Anadyr với mặt nước rộng, con tàu và những dãy nhà nhiều màu.",
+    "highlights_vi": [
+      "Cá voi trắng beluga (và đôi khi cá voi xám) kéo vào săn cá hồi ngay cạnh thành phố mỗi mùa hè.",
+      "Một trong những nơi ngắm cá voi dễ tiếp cận nhất ở Bắc Cực Nga.",
+      "Cảnh quan cửa vịnh đặc trưng: mặt nước rộng, phà, chim biển và hải cẩu."
+    ],
+    "practical": {
+      "hours_vi": "Tự do; ngắm cá voi phụ thuộc mùa và thuỷ triều.",
+      "ticket_vi": "Miễn phí từ bờ; tour thuyền/phà tính phí riêng.",
+      "duration_vi": "Từ 30 phút ngắm cảnh đến vài giờ nếu đi thuyền.",
+      "best_time_vi": "Giữa hè (tháng 7–8) khi cá hồi về và cá voi vào cửa vịnh.",
+      "tips_vi": "Mang ống nhòm; hỏi người địa phương về thời điểm cá voi hay xuất hiện trong ngày."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%90%D0%BD%D0%B0%D0%B4%D1%8B%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BB%D0%B8%D0%BC%D0%B0%D0%BD&ll=177.47,64.718&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Anadyr%20Estuary%20%28Anadyrsky%20Liman%29%2C%20Chukotka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN) — Gulf of Anadyr",
+        "url": "https://en.wikipedia.org/wiki/Gulf_of_Anadyr"
+      },
+      {
+        "title": "Wikipedia (RU) — Анадырский лиман",
+        "url": "https://ru.wikipedia.org/wiki/Анадырский_лиман"
+      }
+    ],
+    "tags": [
+      "chukotka",
+      "anadyr",
+      "nature",
+      "beluga",
+      "whale-watching",
+      "estuary"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "chukotka-lake-elgygytgyn",
+    "slug": "lake-elgygytgyn",
+    "region": "chukotka",
+    "region_name_vi": "Khu tự trị Chukotka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Hồ Elgygytgyn – hồ miệng thiên thạch (Ozero Elgygytgyn)",
+    "name_ru": "Озеро Эльгыгытгын",
+    "name_en": "Lake Elgygytgyn",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 67.5,
+      "lon": 172.09
+    },
+    "address_vi": "Vùng cao nguyên trung tâm Chukotka, huyện Anadyrsky (xa các khu dân cư), Khu tự trị Chukotka, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Một hồ nước tròn gần như hoàn hảo nằm trong lòng chảo miệng va chạm thiên thạch khoảng 3,6 triệu năm tuổi. Lớp trầm tích đáy hồ chưa từng bị băng hà xáo trộn, trở thành “cuốn nhật ký” khí hậu quý giá bậc nhất Bắc Cực.",
+    "presentation_long_vi": "Ẩn giữa cao nguyên hoang vắng ở trung tâm Chukotka, hồ Elgygytgyn có hình gần tròn với đường kính khoảng 12 km, hình thành khi một thiên thạch lao xuống Trái Đất chừng 3,6 triệu năm trước (kỷ Pliocene). Điều khiến giới khoa học say mê là suốt hàng triệu năm ấy, lòng chảo này chưa bao giờ bị các dòng sông băng lục địa cày xới, nên lớp trầm tích dưới đáy sâu (hơn 170 m nước) lưu giữ liên tục dấu vết biến đổi khí hậu của cả vùng Bắc Cực – một kho tư liệu cổ khí hậu hiếm có mà nhiều đoàn khoan quốc tế đã tìm đến. Cái tên trong tiếng Chukchi mang nghĩa “hồ trắng” (nước lạnh trong veo). Hồ và vùng quanh nó nằm trong khu bảo tồn, là môi trường sống của loài cá hồi than vây dài đặc hữu và điểm dừng của tuần lộc, chim di cư. Đây là điểm đến cực kỳ xa xôi, chỉ tiếp cận được bằng trực thăng hoặc chuyến đi hoang dã có tổ chức.",
+    "highlights_vi": [
+      "Hồ nằm trong miệng va chạm thiên thạch ~3,6 triệu năm tuổi, hình gần tròn hoàn hảo.",
+      "Trầm tích đáy hồ là kho lưu trữ cổ khí hậu Bắc Cực quý giá cho khoa học.",
+      "Sinh cảnh của cá hồi than vây dài đặc hữu, cực kỳ hoang sơ và biệt lập."
+    ],
+    "practical": {
+      "hours_vi": "Vùng hoang dã, không có cơ sở dịch vụ; tiếp cận theo đoàn.",
+      "ticket_vi": "Không bán vé; cần tự tổ chức/thuê dịch vụ chuyên biệt (rất tốn kém).",
+      "duration_vi": "Chuyến đi nhiều ngày (thường bằng trực thăng).",
+      "best_time_vi": "Mùa hè ngắn ngủi (tháng 7–8) khi băng tan và thời tiết tương đối ổn.",
+      "tips_vi": "Chỉ đi cùng đơn vị chuyên nghiệp; cần giấy phép, thiết bị và kế hoạch hậu cần cho vùng cực xa."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9E%D0%B7%D0%B5%D1%80%D0%BE%20%D0%AD%D0%BB%D1%8C%D0%B3%D1%8B%D0%B3%D1%8B%D1%82%D0%B3%D1%8B%D0%BD&ll=172.09,67.5&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Lake%20Elgygytgyn%2C%20Chukotka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN) — Lake Elgygytgyn",
+        "url": "https://en.wikipedia.org/wiki/Lake_Elgygytgyn"
+      },
+      {
+        "title": "Wikipedia (RU) — Эльгыгытгын",
+        "url": "https://ru.wikipedia.org/wiki/Эльгыгытгын"
+      }
+    ],
+    "tags": [
+      "chukotka",
+      "nature",
+      "impact-crater",
+      "lake",
+      "science",
+      "remote"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "chukotka-beringia-national-park",
+    "slug": "beringia-national-park",
+    "region": "chukotka",
+    "region_name_vi": "Khu tự trị Chukotka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Vườn quốc gia Beringia (Natsionalny park Beringiya)",
+    "name_ru": "Национальный парк «Берингия»",
+    "name_en": "Beringia National Park",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 64.4229,
+      "lon": -173.2264
+    },
+    "address_vi": "Trải rộng trên bán đảo Chukchi phía đông Chukotka (huyện Providensky và Chukotsky); trụ sở đặt tại thị trấn Provideniya, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Vườn quốc gia lớn nằm ở nơi tận cùng phía đông nước Nga, nhìn sang Alaska – bảo tồn đài nguyên Beringia, các di chỉ Eskimo cổ, đàn hải mã, cá voi và cả “Hẻm Xương Cá voi” huyền thoại. Đây là phần Nga của di sản chung Beringia hai bên eo biển Bering.",
+    "presentation_long_vi": "Được thành lập năm 2013, Vườn quốc gia Beringia bảo vệ một vùng rộng lớn trên bán đảo Chukchi – dải đất từng là cầu nối lục địa Beringia nối châu Á với châu Mỹ trong kỷ Băng hà. Công viên gồm nhiều cụm bảo tồn ôm lấy các vịnh và mũi đất hướng ra biển Bering và eo biển Bering, che chở cho đài nguyên vùng cực, các đàn hải mã trên bãi đá, cá voi xám và cá voi đầu cong, cùng vô số chim biển. Nhưng Beringia còn là một công viên “văn hoá”: trong ranh giới của nó có những di chỉ khảo cổ và làng Eskimo/Yupik cổ, có “Hẻm Xương Cá voi” trên đảo Yttygran, có làng bỏ hoang Naukan gần mũi Dezhnev. Vườn quốc gia được xem là phần Nga của “di sản chung Beringia”, kết nối về ý tưởng với Khu bảo tồn Cầu Đất Bering (Bering Land Bridge) bên phía Alaska, Hoa Kỳ. Đây là điểm đến cho du khách ưa mạo hiểm, thường tiếp cận từ Provideniya bằng thuyền hoặc tour chuyên biệt.",
+    "highlights_vi": [
+      "Bảo tồn đài nguyên Beringia – “cầu đất” cổ nối châu Á với châu Mỹ.",
+      "Bao gồm di chỉ Eskimo cổ, Hẻm Xương Cá voi (Yttygran) và làng bỏ hoang Naukan.",
+      "Phần Nga của di sản chung Beringia, gắn với Khu bảo tồn bên phía Alaska."
+    ],
+    "practical": {
+      "hours_vi": "Vùng bảo tồn hoang dã; tham quan theo tour và cần giấy phép vào công viên.",
+      "ticket_vi": "Có phí vào công viên và thủ tục đăng ký; liên hệ ban quản lý ở Provideniya.",
+      "duration_vi": "Thường là các tour nhiều ngày bằng thuyền.",
+      "best_time_vi": "Mùa hè (tháng 7–9) khi biển bớt băng, thuận tiện đi thuyền.",
+      "tips_vi": "Đăng ký trước với ban quản lý; nhiều khu thuộc vùng biên giới nên cần giấy phép đặc biệt."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%B0%D1%80%D0%BA%20%C2%AB%D0%91%D0%B5%D1%80%D0%B8%D0%BD%D0%B3%D0%B8%D1%8F%C2%BB&ll=-173.2264,64.4229&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Beringia%20National%20Park%2C%20Chukotka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN) — Beringia National Park",
+        "url": "https://en.wikipedia.org/wiki/Beringia_(national_park)"
+      },
+      {
+        "title": "Wikipedia (RU) — Берингия (национальный парк)",
+        "url": "https://ru.wikipedia.org/wiki/Берингия_(национальный_парк)"
+      }
+    ],
+    "tags": [
+      "chukotka",
+      "national-park",
+      "beringia",
+      "tundra",
+      "walrus",
+      "unesco-tentative"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "chukotka-kolyuchin-island",
+    "slug": "kolyuchin-island",
+    "region": "chukotka",
+    "region_name_vi": "Khu tự trị Chukotka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Đảo Kolyuchin – trạm cực bỏ hoang & gấu Bắc Cực (Ostrov Kolyuchin)",
+    "name_ru": "Остров Колючин",
+    "name_en": "Kolyuchin Island",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 67.4667,
+      "lon": -174.6167
+    },
+    "address_vi": "Đảo nhỏ ngoài khơi bờ bắc Chukotka, biển Chukchi, gần vịnh Kolyuchinskaya, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Hòn đảo đá nhỏ giữa biển Chukchi với trạm nghiên cứu cực bị bỏ hoang – nơi từng gây chấn động khi những chú gấu Bắc Cực chiếm ngụ các toà nhà đổ nát, tạo nên loạt ảnh nổi tiếng thế giới. Đảo còn là “chung cư” của hàng vạn chim biển.",
+    "presentation_long_vi": "Đảo Kolyuchin là một mỏm đá nhỏ nhô lên giữa biển Chukchi, ngoài khơi bờ bắc Chukotka. Trên đảo từng có một trạm khí tượng – nghiên cứu địa cực hoạt động thời Xô-viết, nay đã bị bỏ hoang, chỉ còn lại những ngôi nhà gỗ mục nát và thiết bị han gỉ. Đảo bất ngờ nổi tiếng khắp thế giới vào năm 2021, khi một nhiếp ảnh gia ghi lại cảnh những con gấu Bắc Cực thong dong “dọn vào ở” trong các ô cửa sổ và căn phòng đổ nát của trạm cũ – bộ ảnh giành nhiều giải thưởng và trở thành biểu tượng cho sự giao thoa kỳ lạ giữa thiên nhiên hoang dã và tàn tích của con người ở Bắc Cực. Vách đá của đảo còn là nơi làm tổ của hàng chục nghìn con chim biển (chim anca, chim uống nước, hải âu cổ rụt…), biến Kolyuchin thành một điểm quan sát động vật hoang dã ấn tượng cho các tour thám hiểm bằng thuyền dọc bờ biển Chukchi.",
+    "highlights_vi": [
+      "Trạm nghiên cứu địa cực bỏ hoang – bối cảnh loạt ảnh gấu Bắc Cực nổi tiếng năm 2021.",
+      "Vách đá là nơi làm tổ của hàng chục nghìn chim biển.",
+      "Điểm quan sát động vật hoang dã trên các tour thuyền dọc biển Chukchi."
+    ],
+    "practical": {
+      "hours_vi": "Đảo hoang; chỉ ghé qua trên tour thuyền/du thuyền thám hiểm.",
+      "ticket_vi": "Không bán vé; chi phí nằm trong tour.",
+      "duration_vi": "Thường là điểm dừng vài giờ trong hành trình dài ngày.",
+      "best_time_vi": "Cuối hè (tháng 8–9) khi biển ít băng và động vật hoạt động.",
+      "tips_vi": "Không lên bờ khi có gấu; luôn giữ khoảng cách an toàn và tuân theo hướng dẫn viên."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%20%D0%9A%D0%BE%D0%BB%D1%8E%D1%87%D0%B8%D0%BD&ll=-174.6167,67.4667&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kolyuchin%20Island%2C%20Chukotka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN) — Kolyuchin",
+        "url": "https://en.wikipedia.org/wiki/Kolyuchin"
+      },
+      {
+        "title": "Wikipedia (RU) — Колючин",
+        "url": "https://ru.wikipedia.org/wiki/Колючин_(остров)"
+      }
+    ],
+    "tags": [
+      "chukotka",
+      "island",
+      "polar-bear",
+      "abandoned",
+      "birds",
+      "chukchi-sea"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "chukotka-naukan-abandoned-village",
+    "slug": "naukan-abandoned-village",
+    "region": "chukotka",
+    "region_name_vi": "Khu tự trị Chukotka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Naukan – làng Eskimo bỏ hoang gần mũi Dezhnev (Naukan)",
+    "name_ru": "Наукан",
+    "name_en": "Naukan (abandoned Yupik village)",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 66.0272,
+      "lon": -169.7078
+    },
+    "address_vi": "Trên sườn mũi Dezhnev, bán đảo Chukchi, huyện Chukotsky, Khu tự trị Chukotka, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Ngôi làng Eskimo (Yupik Naukan) từng là khu định cư ở cực đông nhất lục địa Á – Âu, có người ở suốt gần 2.000 năm trước khi bị di dời năm 1958. Nay chỉ còn nền nhà đá và xương cá voi, lặng lẽ nhìn sang Alaska bên kia eo biển Bering.",
+    "presentation_long_vi": "Bám vào sườn dốc của mũi Dezhnev – điểm cực đông của lục địa Á – Âu – Naukan từng là ngôi làng của người Eskimo Naukan (một nhánh Yupik), có người sinh sống liên tục gần hai thiên niên kỷ. Ở vị trí đắc địa nhìn thẳng ra eo biển Bering và hai đảo Diomede, dân làng sống bằng nghề săn cá voi, hải mã và hải cẩu, phát triển một thứ tiếng Yupik riêng biệt. Năm 1958, chính quyền Xô-viết buộc dân Naukan phải rời đi và phân tán về các làng khác, khép lại lịch sử của một trong những cộng đồng cổ xưa nhất Bắc Cực. Ngày nay Naukan là một di chỉ hoang phế đầy ám ảnh: những vòng nền nhà bán âm bằng đá, hàm xương cá voi, khung nhà mục và các bậc đá rêu phong nằm rải trên sườn núi. Là một phần của Vườn quốc gia Beringia, nơi này thường được ghép cùng chuyến thăm mũi Dezhnev, cho du khách cảm nhận sâu sắc về đời sống bản địa và sự khắc nghiệt của vùng cực.",
+    "highlights_vi": [
+      "Từng là khu định cư ở cực đông nhất lục địa Á – Âu, có người ở gần 2.000 năm.",
+      "Bị di dời năm 1958; nay là di chỉ hoang phế với nền nhà đá và xương cá voi.",
+      "Nằm trên mũi Dezhnev, nhìn sang Alaska; thuộc Vườn quốc gia Beringia."
+    ],
+    "practical": {
+      "hours_vi": "Di chỉ ngoài trời hoang vắng; tiếp cận theo tour cùng mũi Dezhnev.",
+      "ticket_vi": "Không bán vé; chi phí và giấy phép vùng biên nằm trong tour.",
+      "duration_vi": "Khoảng 1–2 giờ tham quan di chỉ.",
+      "best_time_vi": "Mùa hè (tháng 7–8) khi biển đi lại được và sương mù ít.",
+      "tips_vi": "Cần giấy phép vùng biên giới; giữ nguyên hiện trạng di chỉ, không lấy hiện vật."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%B0%D1%83%D0%BA%D0%B0%D0%BD&ll=-169.7078,66.0272&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Naukan%20%28abandoned%20Yupik%20village%29%2C%20Chukotka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN) — Naukan",
+        "url": "https://en.wikipedia.org/wiki/Naukan"
+      },
+      {
+        "title": "Wikipedia (RU) — Наукан",
+        "url": "https://ru.wikipedia.org/wiki/Наукан"
+      }
+    ],
+    "tags": [
+      "chukotka",
+      "eskimo",
+      "yupik",
+      "abandoned",
+      "archaeology",
+      "beringia"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "chukotka-uelen-ivory-carving",
+    "slug": "uelen-ivory-carving",
+    "region": "chukotka",
+    "region_name_vi": "Khu tự trị Chukotka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Uelen – làng cực đông & xưởng chạm ngà (Uelen)",
+    "name_ru": "Уэлен",
+    "name_en": "Uelen (easternmost village & bone-carving workshop)",
+    "categories": [
+      "other",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 66.1594,
+      "lon": -169.8092
+    },
+    "address_vi": "Trên dải cát hẹp giữa đầm phá và biển Chukchi, gần mũi Dezhnev, huyện Chukotsky, Chukotka, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Ngôi làng có người ở nằm ở cực đông nhất nước Nga và cả lục địa Á – Âu, quê hương của xưởng chạm ngà – xương lừng danh và của nhà văn Yuri Rytkheu. Một điểm đến biểu tượng cho nghệ thuật và văn hoá bản địa Chukotka.",
+    "presentation_long_vi": "Uelen nằm trên một dải cát hẹp kẹp giữa đầm phá và biển Chukchi, ngay gần mũi Dezhnev – khiến nơi đây là khu dân cư ở cực đông nhất của cả nước Nga lẫn lục địa Á – Âu, chỉ cách đường đổi ngày và Alaska một tầm nhìn. Làng nổi tiếng khắp thế giới nhờ Xưởng Chạm khắc Xương Uelen, thành lập năm 1931, nơi các nghệ nhân Chukchi và Eskimo tiếp nối truyền thống chạm ngà hải mã, xương cá voi và khắc tranh trên ngà (kỹ thuật khắc – tô màu độc đáo). Những tác phẩm tinh xảo kể lại cảnh săn bắt, huyền thoại và đời sống đài nguyên; xưởng có phòng trưng bày như một bảo tàng nhỏ, được xem là cái nôi của nghệ thuật tạo hình bản địa vùng cực đông. Uelen cũng là nơi sinh của nhà văn Yuri Rytkheu. Với du khách, ghé Uelen là dịp hiếm hoi để tận mắt thấy nghề thủ công cổ truyền vẫn sống động nơi tận cùng nước Nga.",
+    "highlights_vi": [
+      "Khu dân cư ở cực đông nhất nước Nga và lục địa Á – Âu.",
+      "Xưởng chạm khắc xương Uelen (1931) – cái nôi nghệ thuật chạm ngà Chukchi/Eskimo.",
+      "Quê hương nhà văn Yuri Rytkheu; có phòng trưng bày như bảo tàng nhỏ."
+    ],
+    "practical": {
+      "hours_vi": "Xưởng/phòng trưng bày mở theo giờ làm việc; nên báo trước qua tour.",
+      "ticket_vi": "Có thể mua tác phẩm tại chỗ; tham quan thường trong khuôn khổ tour.",
+      "duration_vi": "Khoảng 1–2 giờ ở làng và xưởng.",
+      "best_time_vi": "Mùa hè (tháng 7–8) khi có thể tiếp cận bằng thuyền/trực thăng.",
+      "tips_vi": "Cần giấy phép vùng biên; mua đồ chạm ngà cần lưu ý quy định xuất khẩu sản phẩm từ ngà."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A3%D1%8D%D0%BB%D0%B5%D0%BD&ll=-169.8092,66.1594&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Uelen%20%28easternmost%20village%20%26%20bone-carving%20workshop%29%2C%20Chukotka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN) — Uelen",
+        "url": "https://en.wikipedia.org/wiki/Uelen"
+      },
+      {
+        "title": "Wikipedia (RU) — Уэлен",
+        "url": "https://ru.wikipedia.org/wiki/Уэлен"
+      }
+    ],
+    "tags": [
+      "chukotka",
+      "uelen",
+      "ivory-carving",
+      "chukchi",
+      "easternmost",
+      "craft"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "chukotka-lorino-whaling-village",
+    "slug": "lorino-whaling-village",
+    "region": "chukotka",
+    "region_name_vi": "Khu tự trị Chukotka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Lorino – làng săn cá voi truyền thống (Lorino)",
+    "name_ru": "Лорино",
+    "name_en": "Lorino",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 65.5042,
+      "lon": -171.7042
+    },
+    "address_vi": "Bên vịnh Mechigmen, huyện Chukotsky, Khu tự trị Chukotka, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Làng ven biển đông dân người Chukchi nhất Chukotka, nơi vẫn duy trì nghề săn cá voi và hải mã truyền thống của thợ săn thú biển bản địa. Gần làng có những suối nước nóng phun giữa đài nguyên lạnh giá.",
+    "presentation_long_vi": "Nằm bên vịnh Mechigmen nhìn ra biển Bering, Lorino là ngôi làng ven biển có đông người Chukchi sinh sống bậc nhất vùng. Đời sống nơi đây gắn chặt với biển: cộng đồng thợ săn thú biển bản địa vẫn được phép duy trì nghề săn cá voi xám và hải mã theo hạn ngạch truyền thống, một tập tục hàng nghìn năm nay đóng vai trò sống còn cả về lương thực lẫn văn hoá. Du khách đến Lorino có thể tìm hiểu cách người dân xẻ thịt, chia phần và bảo quản chiến lợi phẩm theo tập quán, xem những chiếc thuyền da hải mã và nghe các câu chuyện săn bắt. Cách làng không xa là những suối nước nóng tự nhiên (nguồn nóng Lorino) phun lên giữa đài nguyên – nơi người dân và du khách ngâm mình thư giãn giữa khung cảnh hoang vu. Lorino cho thấy một Chukotka “sống”, nơi truyền thống bản địa vẫn tiếp diễn trong đời sống thường nhật.",
+    "highlights_vi": [
+      "Một trong những làng người Chukchi đông dân nhất, giữ nghề săn thú biển truyền thống.",
+      "Cơ hội tìm hiểu văn hoá săn cá voi – hải mã của người bản địa Bắc Cực.",
+      "Gần làng có suối nước nóng tự nhiên để ngâm mình giữa đài nguyên."
+    ],
+    "practical": {
+      "hours_vi": "Làng dân cư; tham quan nên đi cùng hướng dẫn viên địa phương.",
+      "ticket_vi": "Không có vé; chi phí theo tour và dịch vụ tại chỗ.",
+      "duration_vi": "Nửa ngày đến một ngày (kể cả suối nước nóng).",
+      "best_time_vi": "Mùa hè – thu, mùa săn thú biển và biển đi lại thuận tiện.",
+      "tips_vi": "Tôn trọng tập quán bản địa; xin phép trước khi chụp ảnh cảnh săn bắt và người dân."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9B%D0%BE%D1%80%D0%B8%D0%BD%D0%BE&ll=-171.7042,65.5042&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Lorino%2C%20Chukotka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN) — Lorino",
+        "url": "https://en.wikipedia.org/wiki/Lorino,_Chukotka_Autonomous_Okrug"
+      },
+      {
+        "title": "Wikipedia (RU) — Лорино",
+        "url": "https://ru.wikipedia.org/wiki/Лорино"
+      }
+    ],
+    "tags": [
+      "chukotka",
+      "chukchi",
+      "whaling",
+      "indigenous",
+      "hot-springs",
+      "mechigmen"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "chukotka-sireniki-ancient-village",
+    "slug": "sireniki-ancient-village",
+    "region": "chukotka",
+    "region_name_vi": "Khu tự trị Chukotka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Sireniki – làng cổ bên biển Bering (Sireniki)",
+    "name_ru": "Сиреники",
+    "name_en": "Sireniki",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 64.4167,
+      "lon": -173.95
+    },
+    "address_vi": "Trên bờ biển Bering, huyện Providensky, Khu tự trị Chukotka, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Một trong những khu định cư có người ở liên tục lâu đời nhất Bắc Cực – khoảng 2.500 đến 3.000 năm. Làng ven biển của người Yupik và Chukchi này còn gắn với thứ tiếng Eskimo Sirenik nay đã thất truyền.",
+    "presentation_long_vi": "Sireniki nằm nép bên bờ biển Bering, dưới chân những vách đá và đồi đài nguyên, và được xem là một trong những nơi có người ở liên tục lâu đời nhất vùng Bắc Cực – các di chỉ khảo cổ cho thấy con người đã sinh sống ở đây khoảng 2.500–3.000 năm. Cộng đồng làng gồm người Yupik và Chukchi, sống nhờ săn hải mã, hải cẩu và cá voi. Sireniki đặc biệt nổi tiếng trong giới ngôn ngữ học vì từng là quê hương của tiếng Eskimo Sirenik – một ngôn ngữ khác biệt tới mức được coi là nhánh riêng, nay đã tuyệt tích khi người nói cuối cùng qua đời. Với du khách ưa khám phá, làng mang đến cái nhìn về một cộng đồng bản địa bền bỉ bám trụ nơi biển và băng, giữa cảnh quan bờ biển hoang sơ với đá, sóng và những đàn chim, hải mã. Sireniki thường được ghé thăm trong các hành trình dọc bờ nam bán đảo Chukchi.",
+    "highlights_vi": [
+      "Một trong những khu định cư có người ở liên tục lâu đời nhất Bắc Cực (~2.500–3.000 năm).",
+      "Làng của người Yupik và Chukchi, sống bằng nghề săn thú biển.",
+      "Quê hương của tiếng Eskimo Sirenik đặc biệt, nay đã thất truyền."
+    ],
+    "practical": {
+      "hours_vi": "Làng dân cư ven biển; tham quan theo tour dọc bờ nam Chukchi.",
+      "ticket_vi": "Không có vé; chi phí theo tour.",
+      "duration_vi": "Khoảng 1–2 giờ trong hành trình dài hơn.",
+      "best_time_vi": "Mùa hè (tháng 7–9) khi biển thông thoáng.",
+      "tips_vi": "Cần giấy phép vùng biên; tôn trọng cộng đồng và di chỉ khảo cổ."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D0%BA%D0%B8&ll=-173.95,64.4167&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Sireniki%2C%20Chukotka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN) — Sireniki",
+        "url": "https://en.wikipedia.org/wiki/Sireniki"
+      },
+      {
+        "title": "Wikipedia (RU) — Сиреники",
+        "url": "https://ru.wikipedia.org/wiki/Сиреники"
+      }
+    ],
+    "tags": [
+      "chukotka",
+      "eskimo",
+      "yupik",
+      "ancient-settlement",
+      "bering-sea",
+      "language"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "chukotka-ratmanov-big-diomede-island",
+    "slug": "ratmanov-big-diomede-island",
+    "region": "chukotka",
+    "region_name_vi": "Khu tự trị Chukotka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Đảo Ratmanov (Diomede Lớn) – điểm cực đông nước Nga (Ostrov Ratmanova)",
+    "name_ru": "Остров Ратманова (Большой Диомид)",
+    "name_en": "Ratmanov Island (Big Diomede)",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 65.7811,
+      "lon": -169.0569
+    },
+    "address_vi": "Giữa eo biển Bering, huyện Chukotsky, Khu tự trị Chukotka, Nga (cực đông của nước Nga).",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Hòn đảo đá nằm chính giữa eo biển Bering là điểm cực đông của nước Nga. Chỉ cách đảo Diomede Nhỏ của Mỹ khoảng 4 km, với Đường Đổi Ngày Quốc tế chạy giữa hai đảo – nên có biệt danh “hòn đảo của ngày mai”.",
+    "presentation_long_vi": "Đảo Ratmanov, người Eskimo gọi là Imaqliq và phương Tây gọi là Diomede Lớn, là một khối đá cao nằm giữa eo biển Bering và đánh dấu điểm cực đông của lãnh thổ Nga. Điều kỳ thú là chỉ cách đó khoảng 4 km về phía đông là đảo Diomede Nhỏ thuộc bang Alaska, Hoa Kỳ – và Đường Đổi Ngày Quốc tế chạy đúng giữa khe nước hẹp giữa hai đảo. Vì thế khi đứng ở Diomede Lớn nhìn sang Diomede Nhỏ, người ta thực sự “nhìn từ ngày mai sang ngày hôm qua”: hai đảo lệch nhau gần 21 giờ đồng hồ, khiến Ratmanov mang biệt danh “hòn đảo của ngày mai”. Đảo không có dân thường sinh sống, chỉ có một trạm biên phòng Nga; vách đá là nơi làm tổ của hàng loạt chim biển, quanh đảo có hải mã và cá voi. Đây là biểu tượng địa lý đặc biệt của Chukotka, tuy rất khó tiếp cận do nằm trong vùng biên giới nhạy cảm.",
+    "highlights_vi": [
+      "Điểm cực đông của nước Nga, nằm giữa eo biển Bering.",
+      "Cách đảo Diomede Nhỏ (Mỹ) chỉ ~4 km, Đường Đổi Ngày chạy giữa hai đảo.",
+      "“Hòn đảo của ngày mai” – lệch gần 21 giờ so với đảo láng giềng của Mỹ."
+    ],
+    "practical": {
+      "hours_vi": "Vùng biên giới quân sự; không mở cho tham quan tự do.",
+      "ticket_vi": "Không có dịch vụ du lịch thông thường; chỉ ngắm từ xa trên tour biển (nếu được phép).",
+      "duration_vi": "Tùy hành trình; thường chỉ quan sát từ tàu.",
+      "best_time_vi": "Mùa hè khi biển bớt băng.",
+      "tips_vi": "Khu vực biên giới rất nhạy cảm – tuyệt đối tuân thủ quy định và không tự ý tiếp cận."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%20%D0%A0%D0%B0%D1%82%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0%20%28%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9%20%D0%94%D0%B8%D0%BE%D0%BC%D0%B8%D0%B4%29&ll=-169.0569,65.7811&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Ratmanov%20Island%20%28Big%20Diomede%29%2C%20Chukotka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN) — Big Diomede",
+        "url": "https://en.wikipedia.org/wiki/Big_Diomede"
+      },
+      {
+        "title": "Wikipedia (RU) — Ратманова (остров)",
+        "url": "https://ru.wikipedia.org/wiki/Ратманова_(остров)"
+      }
+    ],
+    "tags": [
+      "chukotka",
+      "island",
+      "bering-strait",
+      "easternmost",
+      "date-line",
+      "border"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "chukotka-cape-navarin",
+    "slug": "cape-navarin",
+    "region": "chukotka",
+    "region_name_vi": "Khu tự trị Chukotka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Mũi Navarin (Mys Navarin)",
+    "name_ru": "Мыс Наварин",
+    "name_en": "Cape Navarin",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 62.2753,
+      "lon": 179.0989
+    },
+    "address_vi": "Mỏm đất phía nam vịnh Anadyr, bờ biển Bering, huyện Anadyrsky, Chukotka, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Mũi đất núi non hiểm trở nhô ra biển Bering ở rìa nam vịnh Anadyr, nổi tiếng với vách đá dựng đứng, hải đăng cô độc, đàn chim biển và những cơn bão dữ dội – một trong những mốc hàng hải khắc nghiệt của vùng Viễn Đông.",
+    "presentation_long_vi": "Mũi Navarin là một mỏm đất núi non gồ ghề nhô ra biển Bering ở rìa phía nam vịnh Anadyr, gần như chạm tới kinh tuyến 180. Đây là một trong những điểm mốc hàng hải nổi tiếng và đáng gờm của vùng biển Viễn Đông: vách đá dốc đứng cao hàng trăm mét đổ thẳng xuống mặt nước, quanh năm hứng gió mạnh và những cơn bão dữ, khiến thuỷ thủ xưa nay đều dè chừng khi đi ngang. Trên mũi có một hải đăng đơn độc; các vách đá là nơi trú ngụ của những đàn chim biển đông đúc, còn vùng nước quanh đó thu hút hải mã, hải cẩu và cá voi. Với đặc thù hoang vu và hiểm trở, Cape Navarin chủ yếu được biết đến như một cột mốc địa lý và điểm quan sát thiên nhiên từ tàu biển, hơn là nơi du khách có thể dễ dàng đặt chân lên.",
+    "highlights_vi": [
+      "Mũi đất núi non hiểm trở nhô ra biển Bering, gần kinh tuyến 180.",
+      "Vách đá dựng đứng, hải đăng cô độc và những đàn chim biển.",
+      "Điểm mốc hàng hải khét tiếng vì gió bão dữ dội của vùng Viễn Đông."
+    ],
+    "practical": {
+      "hours_vi": "Vùng hoang dã ngoài khơi; chủ yếu quan sát từ tàu biển.",
+      "ticket_vi": "Không có dịch vụ; nằm trong hành trình tàu/tour biển.",
+      "duration_vi": "Điểm dừng quan sát trong hành trình dài.",
+      "best_time_vi": "Mùa hè khi biển tương đối yên và ít băng.",
+      "tips_vi": "Thời tiết đổi nhanh và biển động mạnh – theo sát lịch trình và hướng dẫn của thuyền."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%8B%D1%81%20%D0%9D%D0%B0%D0%B2%D0%B0%D1%80%D0%B8%D0%BD&ll=179.0989,62.2753&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Cape%20Navarin%2C%20Chukotka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN) — Cape Navarin",
+        "url": "https://en.wikipedia.org/wiki/Cape_Navarin"
+      },
+      {
+        "title": "Wikidata — Cape Navarin (Q3562501)",
+        "url": "https://www.wikidata.org/wiki/Q3562501"
+      }
+    ],
+    "tags": [
+      "chukotka",
+      "cape",
+      "bering-sea",
+      "lighthouse",
+      "seabirds",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "chukotka-anyuysky-volcano",
+    "slug": "anyuysky-volcano",
+    "region": "chukotka",
+    "region_name_vi": "Khu tự trị Chukotka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Núi lửa Anyuisky (Anyuysky vulkan)",
+    "name_ru": "Анюйский вулкан",
+    "name_en": "Anyuysky Volcano",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 67.1742,
+      "lon": 165.8356
+    },
+    "address_vi": "Vùng cao nguyên Anyuy, huyện Bilibinsky (tây Chukotka), Khu tự trị Chukotka, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Núi lửa trẻ nhất vùng đông bắc Á – một nón xỉ đã tắt vươn lên giữa cao nguyên Anyuy, để lại dòng dung nham dài hàng chục cây số đông cứng giữa đài nguyên, dấu tích của những đợt phun trào cách nay chỉ vài thế kỷ đến vài nghìn năm.",
+    "presentation_long_vi": "Ẩn sâu trong vùng cao nguyên Anyuy hoang vắng ở phía tây Chukotka, gần thị trấn Bilibino, núi lửa Anyuisky là một hiện tượng địa chất hiếm có: được xem là ngọn núi lửa trẻ nhất ở vùng đông bắc châu Á. Đây là một nón xỉ (cinder cone) nay đã tắt, cao vài trăm mét, phun trào tương đối gần đây theo thang thời gian địa chất – chỉ vài thế kỷ đến vài nghìn năm trước – và để lại một dòng dung nham đen chảy dài hàng chục kilomet, nay đông cứng thành dải đá bazan gồ ghề vắt ngang thung lũng và làm nghẽn dòng chảy tạo nên các hồ nhỏ. Giữa một Chukotka phần lớn là đài nguyên và núi trầm tích, cảnh quan dung nham nguyên sơ này trông như đến từ hành tinh khác. Vị trí cực kỳ hẻo lánh khiến Anyuisky chủ yếu là điểm đến của các nhà địa chất và số ít đoàn thám hiểm hoang dã, đi tới bằng trực thăng hoặc hành trình dài băng qua đài nguyên.",
+    "highlights_vi": [
+      "Được xem là núi lửa trẻ nhất vùng đông bắc châu Á.",
+      "Dòng dung nham dài hàng chục km đông cứng giữa đài nguyên, tạo hồ chặn dòng.",
+      "Cảnh quan bazan nguyên sơ, cực kỳ hẻo lánh, hấp dẫn giới địa chất và thám hiểm."
+    ],
+    "practical": {
+      "hours_vi": "Vùng hoang dã không dịch vụ; đi theo đoàn chuyên biệt.",
+      "ticket_vi": "Không bán vé; chi phí hậu cần cao (trực thăng/đoàn thám hiểm).",
+      "duration_vi": "Chuyến đi nhiều ngày.",
+      "best_time_vi": "Mùa hè ngắn (tháng 7–8) khi tuyết tan và thời tiết ổn định hơn.",
+      "tips_vi": "Chỉ đi cùng đơn vị chuyên nghiệp, chuẩn bị hậu cần kỹ cho vùng cực xa."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%90%D0%BD%D1%8E%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B2%D1%83%D0%BB%D0%BA%D0%B0%D0%BD&ll=165.8356,67.1742&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Anyuysky%20Volcano%2C%20Chukotka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN) — Anyuyskiy",
+        "url": "https://en.wikipedia.org/wiki/Anyuyskiy"
+      },
+      {
+        "title": "Wikipedia (RU) — Анюйский (вулкан)",
+        "url": "https://ru.wikipedia.org/wiki/Анюйский_(вулкан)"
+      }
+    ],
+    "tags": [
+      "chukotka",
+      "volcano",
+      "lava-flow",
+      "geology",
+      "bilibino",
+      "remote"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "chukotka-lavrentiya-village",
+    "slug": "lavrentiya-village",
+    "region": "chukotka",
+    "region_name_vi": "Khu tự trị Chukotka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Lavrentiya – cửa ngõ vùng cực đông (Lavrentiya)",
+    "name_ru": "Лаврентия",
+    "name_en": "Lavrentiya",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 65.5842,
+      "lon": -170.9889
+    },
+    "address_vi": "Bên vịnh Lavrentiya (Zaliv Lavrentiya), trung tâm huyện Chukotsky, Khu tự trị Chukotka, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Trung tâm hành chính của huyện Chukotsky bên bờ vịnh Lavrentiya, là cửa ngõ để đến mũi Dezhnev, làng Uelen và các điểm cực đông. Vịnh mang tên Thánh Lavrenti được nhà thám hiểm James Cook đặt năm 1778.",
+    "presentation_long_vi": "Lavrentiya là trung tâm hành chính của huyện Chukotsky, nằm bên bờ vịnh cùng tên nhìn ra biển Bering. Đây là điểm trung chuyển quan trọng và là cửa ngõ để du khách tiếp cận những địa danh biểu tượng ở cực đông Chukotka: mũi Dezhnev, làng chạm ngà Uelen, làng bỏ hoang Naukan. Cái tên Lavrentiya bắt nguồn từ vịnh Thánh Lavrenti (St Lawrence Bay) mà nhà hàng hải người Anh James Cook đặt khi đi ngang đây năm 1778, đúng dịp lễ vị thánh này. Thị trấn nhỏ có sân bay địa phương, bảo tàng vùng và là nơi cư trú của cộng đồng Chukchi, Eskimo cùng cư dân đến từ khắp nước Nga. Với khách du lịch, Lavrentiya thường là chặng dừng chân hậu cần – nghỉ ngơi, chuẩn bị và làm thủ tục vùng biên – trước khi lên đường tới các điểm hoang dã lân cận.",
+    "highlights_vi": [
+      "Trung tâm huyện Chukotsky, cửa ngõ tới mũi Dezhnev, Uelen và Naukan.",
+      "Vịnh mang tên Thánh Lavrenti do James Cook đặt năm 1778.",
+      "Điểm trung chuyển hậu cần với sân bay địa phương và bảo tàng vùng."
+    ],
+    "practical": {
+      "hours_vi": "Thị trấn dân cư; dịch vụ theo giờ địa phương.",
+      "ticket_vi": "Không có vé tham quan chung; bảo tàng vùng có thể thu phí nhỏ.",
+      "duration_vi": "Thường là điểm dừng chân 1 ngày hoặc qua đêm.",
+      "best_time_vi": "Mùa hè, khi giao thông tới các điểm cực đông thuận lợi.",
+      "tips_vi": "Làm thủ tục giấy phép vùng biên tại đây trước khi đi Dezhnev/Uelen/Naukan."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9B%D0%B0%D0%B2%D1%80%D0%B5%D0%BD%D1%82%D0%B8%D1%8F&ll=-170.9889,65.5842&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Lavrentiya%2C%20Chukotka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN) — Lavrentiya",
+        "url": "https://en.wikipedia.org/wiki/Lavrentiya"
+      },
+      {
+        "title": "Wikipedia (RU) — Лаврентия",
+        "url": "https://ru.wikipedia.org/wiki/Лаврентия_(село)"
+      }
+    ],
+    "tags": [
+      "chukotka",
+      "chukotsky",
+      "gateway",
+      "bering",
+      "james-cook",
+      "village"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "chukotka-provideniya-bay-town",
+    "slug": "provideniya-bay-town",
+    "region": "chukotka",
+    "region_name_vi": "Khu tự trị Chukotka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Provideniya – thị trấn cảng bên vịnh Provideniya (Provideniya)",
+    "name_ru": "Провидения",
+    "name_en": "Provideniya",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 64.4229,
+      "lon": -173.2264
+    },
+    "address_vi": "Bên vịnh Provideniya (Komsomolskaya), huyện Providensky, Khu tự trị Chukotka, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Thị trấn cảng nằm sâu trong một vịnh kín gió tuyệt đẹp, là cửa ngõ chính vào Vườn quốc gia Beringia và là điểm cập bến của các chuyến tàu thám hiểm Bắc Cực. Nơi đây có bảo tàng di sản Beringia và bề dày lịch sử Đường Biển Phương Bắc.",
+    "presentation_long_vi": "Provideniya nằm nép trong một vịnh biển sâu và kín gió – được các nhà hàng hải xưa đặt tên là “Thiên Hựu” (Provideniya, nghĩa là “sự quan phòng của Chúa”) vì đây là chốn trú bão an toàn hiếm có trên tuyến đường biển gian nan. Thị trấn phát triển mạnh thời Xô-viết như một cảng quan trọng trên Đường Biển Phương Bắc và là điểm gần Alaska; ngày nay dân số đã giảm nhiều nhưng Provideniya vẫn là trung tâm hành chính huyện và cửa ngõ chính để vào Vườn quốc gia Beringia. Từ đây, các tour thuyền toả đi thăm Hẻm Xương Cá voi, đảo hải mã, làng bản Eskimo và bờ biển hoang dã. Thị trấn có bảo tàng di sản Beringia giới thiệu văn hoá bản địa và lịch sử vùng. Với các chuyến tàu du lịch thám hiểm vòng quanh Chukotka, Provideniya thường là cảng cập bến, nơi khung cảnh vịnh núi bao quanh những dãy nhà nhiều màu tạo nên một trong những bức tranh Bắc Cực đẹp và đặc trưng nhất.",
+    "highlights_vi": [
+      "Thị trấn cảng trong vịnh kín gió, cửa ngõ chính vào Vườn quốc gia Beringia.",
+      "Cảng lịch sử trên Đường Biển Phương Bắc, gần Alaska; điểm cập bến tàu thám hiểm.",
+      "Có bảo tàng di sản Beringia và khung cảnh vịnh núi rất đặc trưng."
+    ],
+    "practical": {
+      "hours_vi": "Thị trấn dân cư; dịch vụ và bảo tàng theo giờ địa phương.",
+      "ticket_vi": "Bảo tàng thu phí nhỏ; tour thuyền đi Beringia tính phí riêng.",
+      "duration_vi": "1 ngày trở lên, hoặc làm căn cứ cho các tour biển.",
+      "best_time_vi": "Mùa hè (tháng 7–9) khi biển thông và tàu du lịch hoạt động.",
+      "tips_vi": "Là vùng biên giới – cần giấy phép; dùng làm điểm xuất phát đi Hẻm Xương Cá voi và các đảo."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D1%80%D0%BE%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F&ll=-173.2264,64.4229&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Provideniya%2C%20Chukotka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN) — Provideniya",
+        "url": "https://en.wikipedia.org/wiki/Provideniya"
+      },
+      {
+        "title": "Wikipedia (RU) — Провидения (посёлок)",
+        "url": "https://ru.wikipedia.org/wiki/Провидения_(посёлок)"
+      }
+    ],
+    "tags": [
+      "chukotka",
+      "provideniya",
+      "port",
+      "beringia-gateway",
+      "northern-sea-route",
+      "bay"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "chukotka-pevek-northernmost-city",
+    "slug": "pevek-northernmost-city",
+    "region": "chukotka",
+    "region_name_vi": "Khu tự trị Chukotka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Pevek – thành phố cực bắc nước Nga (Pevek)",
+    "name_ru": "Певек",
+    "name_en": "Pevek",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 69.7003,
+      "lon": 170.2833
+    },
+    "address_vi": "Bên vịnh Chaunskaya, biển Đông Siberia, huyện Chaunsky, Khu tự trị Chukotka, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Thành phố nằm ở cực bắc nhất của nước Nga, một cảng biển trên Đường Biển Phương Bắc bên vịnh Chaunskaya. Nơi đây nổi tiếng với gió “yuzhak” dữ dội và là bến đỗ của nhà máy điện hạt nhân nổi đầu tiên thế giới.",
+    "presentation_long_vi": "Pevek là thành phố nằm ở vĩ độ cao nhất trong tất cả các thành phố của nước Nga, bên bờ vịnh Chaunskaya thuộc biển Đông Siberia. Là một cảng quan trọng trên Đường Biển Phương Bắc, thành phố hình thành và lớn lên nhờ khai khoáng (thiếc, vàng) và vận tải biển vùng cực. Pevek nổi tiếng với “yuzhak” – những cơn gió nam đổ từ trên núi xuống với sức mạnh khủng khiếp, có thể quật ngã người và làm tê liệt cả thành phố trong nhiều ngày. Dù khắc nghiệt, Pevek lại là điểm đến của khách ưa “sưu tầm” cực điểm địa lý và tò mò về đời sống nơi tận cùng phương bắc: những dãy nhà chịu gió, bến cảng nhìn ra biển băng, và đặc biệt là nhà máy điện hạt nhân nổi “Akademik Lomonosov” neo ngay tại cảng, cung cấp điện và nhiệt cho vùng. Từ Pevek, du khách có thể tiếp cận những vùng đài nguyên và di sản khai khoáng của tây bắc Chukotka.",
+    "highlights_vi": [
+      "Thành phố ở cực bắc nhất của nước Nga, bên vịnh Chaunskaya.",
+      "Nổi tiếng với gió “yuzhak” cực mạnh đổ từ núi xuống.",
+      "Bến đỗ của nhà máy điện hạt nhân nổi đầu tiên thế giới “Akademik Lomonosov”."
+    ],
+    "practical": {
+      "hours_vi": "Thành phố dân cư; dịch vụ theo giờ địa phương.",
+      "ticket_vi": "Không có vé tham quan chung.",
+      "duration_vi": "1–2 ngày kết hợp khám phá vùng.",
+      "best_time_vi": "Mùa hè (tháng 7–8); mùa đông cực kỳ khắc nghiệt và nhiều gió.",
+      "tips_vi": "Theo dõi dự báo gió “yuzhak”; chuyến bay tới Pevek dễ bị hoãn vì thời tiết."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B5%D0%B2%D0%B5%D0%BA&ll=170.2833,69.7003&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Pevek%2C%20Chukotka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN) — Pevek",
+        "url": "https://en.wikipedia.org/wiki/Pevek"
+      },
+      {
+        "title": "Wikipedia (RU) — Певек",
+        "url": "https://ru.wikipedia.org/wiki/Певек"
+      }
+    ],
+    "tags": [
+      "chukotka",
+      "pevek",
+      "northernmost-city",
+      "port",
+      "northern-sea-route",
+      "arctic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "chukotka-akademik-lomonosov-fnpp",
+    "slug": "akademik-lomonosov-fnpp",
+    "region": "chukotka",
+    "region_name_vi": "Khu tự trị Chukotka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Nhà máy điện hạt nhân nổi “Akademik Lomonosov” (Plavuchaya AES)",
+    "name_ru": "Плавучая АЭС «Академик Ломоносов»",
+    "name_en": "Akademik Lomonosov Floating Nuclear Power Plant",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 69.7003,
+      "lon": 170.2999
+    },
+    "address_vi": "Neo tại cảng Pevek, vịnh Chaunskaya, huyện Chaunsky, Khu tự trị Chukotka, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhà máy điện hạt nhân nổi đầu tiên và duy nhất trên thế giới đang vận hành, neo ngay tại cảng Pevek. Con “tàu điện” với hai lò phản ứng cung cấp điện và nhiệt cho thành phố cực bắc nước Nga, thay thế các nhà máy cũ trong vùng.",
+    "presentation_long_vi": "Neo cố định tại cảng Pevek, “Akademik Lomonosov” là nhà máy điện hạt nhân nổi đầu tiên trên thế giới đi vào vận hành thương mại. Về bản chất, đây là một sà lan lớn không tự hành, trên đó lắp hai lò phản ứng kiểu tàu phá băng (KLT-40S) cho tổng công suất điện khoảng 70 MW cùng lượng nhiệt sưởi đáng kể. Được đóng ở nhà máy tại Saint Petersburg rồi kéo vòng qua Bắc Băng Dương tới Chukotka, nhà máy bắt đầu hoà lưới cuối năm 2019 và cấp điện – nhiệt cho Pevek cùng khu công nghiệp – khai khoáng lân cận, thay thế dần nhà máy điện hạt nhân Bilibino cũ và nhà máy nhiệt điện địa phương. Ý tưởng “nhà máy điện di động” này được thiết kế riêng cho những vùng cực xa xôi khó kéo đường dây, và Pevek trở thành nơi kiểm chứng công nghệ đó trong điều kiện Bắc Cực thực tế. Dù không phải điểm cho khách vào tham quan (là công trình hạt nhân canh phòng nghiêm ngặt), “con tàu nguyên tử” neo bên bến cảng vẫn là một biểu tượng công nghệ độc đáo có thể ngắm từ xa và là câu chuyện hấp dẫn của Pevek.",
+    "highlights_vi": [
+      "Nhà máy điện hạt nhân nổi đầu tiên trên thế giới đi vào vận hành.",
+      "Hai lò phản ứng KLT-40S (~70 MW điện) cấp điện – nhiệt cho Pevek từ cuối 2019.",
+      "Được kéo từ Saint Petersburg qua Bắc Băng Dương; thay thế các nhà máy cũ trong vùng."
+    ],
+    "practical": {
+      "hours_vi": "Công trình hạt nhân canh phòng nghiêm; không mở cửa tham quan bên trong.",
+      "ticket_vi": "Không có; chỉ có thể ngắm/chụp từ xa ở khu vực cho phép.",
+      "duration_vi": "Ngắm ngoài từ bến cảng: vài chục phút.",
+      "best_time_vi": "Mùa hè khi ra bến cảng dễ chịu hơn.",
+      "tips_vi": "Không chụp ảnh ở khu vực cấm; tuân thủ quy định an ninh của cảng và nhà máy."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%BB%D0%B0%D0%B2%D1%83%D1%87%D0%B0%D1%8F%20%D0%90%D0%AD%D0%A1%20%C2%AB%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D0%BA%20%D0%9B%D0%BE%D0%BC%D0%BE%D0%BD%D0%BE%D1%81%D0%BE%D0%B2%C2%BB&ll=170.2999,69.7003&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Akademik%20Lomonosov%20Floating%20Nuclear%20Power%20Plant%2C%20Chukotka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN) — Akademik Lomonosov",
+        "url": "https://en.wikipedia.org/wiki/Akademik_Lomonosov"
+      },
+      {
+        "title": "Wikipedia (RU) — Академик Ломоносов (ПАТЭС)",
+        "url": "https://ru.wikipedia.org/wiki/Академик_Ломоносов_(плавучая_атомная_электростанция)"
+      }
+    ],
+    "tags": [
+      "chukotka",
+      "pevek",
+      "floating-npp",
+      "nuclear",
+      "technology",
+      "arctic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "chukotka-bilibino-npp-town",
+    "slug": "bilibino-npp-town",
+    "region": "chukotka",
+    "region_name_vi": "Khu tự trị Chukotka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Bilibino – thị trấn vàng & nhà máy điện hạt nhân Bắc Cực (Bilibino)",
+    "name_ru": "Билибино",
+    "name_en": "Bilibino (town & nuclear power plant)",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 68.05,
+      "lon": 166.45
+    },
+    "address_vi": "Tây Chukotka, trung tâm huyện Bilibinsky, Khu tự trị Chukotka, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Thị trấn khai thác vàng ở vùng đài nguyên tây Chukotka, nơi có nhà máy điện hạt nhân Bilibino – từng là nhà máy điện hạt nhân nằm ở vị trí cực bắc nhất thế giới và là nhà máy hạt nhân đầu tiên vận hành trên nền băng vĩnh cửu Bắc Cực.",
+    "presentation_long_vi": "Bilibino là một thị trấn nhỏ giữa đài nguyên tây Chukotka, hình thành từ thập niên 1950 nhờ các mỏ vàng của vùng thượng nguồn sông Anyuy – tên thị trấn đặt theo nhà địa chất Yuri Bilibin, người khai mở vàng vùng Kolyma – Chukotka. Điều khiến Bilibino có tên trên bản đồ công nghệ là Nhà máy điện hạt nhân Bilibino, vận hành từ năm 1974 để cấp điện và nhiệt cho các mỏ và cộng đồng biệt lập nơi đây. Trong nhiều thập niên, đây là nhà máy điện hạt nhân nằm ở vĩ độ cao nhất thế giới và là một trong những nhà máy hạt nhân đầu tiên được xây dựng, vận hành thành công trên nền băng vĩnh cửu Bắc Cực – một kỳ tích kỹ thuật thời bấy giờ. Khi đã lớn tuổi, nhà máy dần được cho ngừng hoạt động và thay thế bằng nguồn điện từ nhà máy nổi “Akademik Lomonosov” ở Pevek. Với du khách, Bilibino là cửa sổ nhìn vào lịch sử khai khoáng và năng lượng nơi vùng cực, cũng là điểm xuất phát để tới các vùng hoang dã tây Chukotka như núi lửa Anyuisky.",
+    "highlights_vi": [
+      "Thị trấn khai thác vàng ở đài nguyên tây Chukotka, mang tên nhà địa chất Yuri Bilibin.",
+      "Nhà máy điện hạt nhân Bilibino – từng ở vị trí cực bắc nhất thế giới.",
+      "Một trong những nhà máy hạt nhân đầu tiên vận hành trên nền băng vĩnh cửu."
+    ],
+    "practical": {
+      "hours_vi": "Thị trấn dân cư; nhà máy hạt nhân không mở cửa tham quan.",
+      "ticket_vi": "Không có vé tham quan chung.",
+      "duration_vi": "1 ngày, hoặc làm điểm xuất phát đi vùng hoang dã lân cận.",
+      "best_time_vi": "Mùa hè (tháng 7–8).",
+      "tips_vi": "Tiếp cận chủ yếu bằng máy bay; chuẩn bị cho hạ tầng và dịch vụ hạn chế."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%91%D0%B8%D0%BB%D0%B8%D0%B1%D0%B8%D0%BD%D0%BE&ll=166.45,68.05&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Bilibino%20%28town%20%26%20nuclear%20power%20plant%29%2C%20Chukotka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN) — Bilibino",
+        "url": "https://en.wikipedia.org/wiki/Bilibino"
+      },
+      {
+        "title": "Wikipedia (EN) — Bilibino Nuclear Power Plant",
+        "url": "https://en.wikipedia.org/wiki/Bilibino_Nuclear_Power_Plant"
+      }
+    ],
+    "tags": [
+      "chukotka",
+      "bilibino",
+      "gold-mining",
+      "nuclear",
+      "permafrost",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "chukotka-chaplino-hot-springs",
+    "slug": "chaplino-hot-springs",
+    "region": "chukotka",
+    "region_name_vi": "Khu tự trị Chukotka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Suối nước nóng Chaplino (Chaplinskiye goryachiye klyuchi)",
+    "name_ru": "Чаплинские горячие ключи",
+    "name_en": "Chaplino Hot Springs",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 64.4983,
+      "lon": -172.8617
+    },
+    "address_vi": "Gần làng Novoye Chaplino, bên vịnh Tkachen, huyện Providensky, Khu tự trị Chukotka, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Những dòng suối khoáng nóng bốc hơi nghi ngút giữa đài nguyên lạnh giá gần làng Novoye Chaplino – nơi người dân và du khách ngâm mình thư giãn trong làn nước ấm, ngắm cảnh biển và núi hoang sơ của bán đảo Chukchi.",
+    "presentation_long_vi": "Không xa làng Yupik Novoye Chaplino bên vịnh Tkachen là một cụm suối nước nóng tự nhiên phun lên giữa đài nguyên – hiện tượng địa nhiệt hiếm hoi mang lại chút ấm áp giữa vùng đất quanh năm giá lạnh. Dòng nước khoáng ấm nóng được người dân địa phương dẫn vào những bồn tắm lộ thiên đơn sơ, nơi có thể ngâm mình thư giãn ngay giữa khung cảnh núi non, biển và đài nguyên bốn bề vắng lặng. Cảnh tượng làn hơi nước bốc lên trong không khí băng giá, xung quanh là tuyết hoặc thảm cỏ đài nguyên và những đàn chim, tạo nên trải nghiệm rất đặc trưng của Chukotka. Suối nước nóng Chaplino là một trong những điểm tham quan yêu thích trong các tour ngắn khởi hành từ Provideniya, thường kết hợp với thăm làng bản Eskimo và ngắm động vật hoang dã ven biển.",
+    "highlights_vi": [
+      "Suối khoáng nóng tự nhiên phun giữa đài nguyên gần làng Novoye Chaplino.",
+      "Ngâm mình thư giãn trong bồn lộ thiên giữa khung cảnh biển – núi hoang sơ.",
+      "Điểm ưa thích trong các tour ngắn khởi hành từ Provideniya."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tự do; thường ghé theo tour từ Provideniya.",
+      "ticket_vi": "Bồn tắm tự nhiên miễn phí; chi phí đi lại theo tour.",
+      "duration_vi": "Khoảng 1–2 giờ ngâm và ngắm cảnh.",
+      "best_time_vi": "Quanh năm; ngâm nước nóng giữa tiết trời lạnh càng thú vị.",
+      "tips_vi": "Mang đồ bơi và khăn; đi cùng người địa phương để biết bồn nào an toàn, nhiệt độ phù hợp."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A7%D0%B0%D0%BF%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B3%D0%BE%D1%80%D1%8F%D1%87%D0%B8%D0%B5%20%D0%BA%D0%BB%D1%8E%D1%87%D0%B8&ll=-172.8617,64.4983&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Chaplino%20Hot%20Springs%2C%20Chukotka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN) — Novoye Chaplino",
+        "url": "https://en.wikipedia.org/wiki/Novoye_Chaplino"
+      },
+      {
+        "title": "Wikipedia (RU) — Новое Чаплино",
+        "url": "https://ru.wikipedia.org/wiki/Новое_Чаплино"
+      }
+    ],
+    "tags": [
+      "chukotka",
+      "hot-springs",
+      "geothermal",
+      "providensky",
+      "tundra",
+      "wellness"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "chukotka-cape-chaplina",
+    "slug": "cape-chaplina",
+    "region": "chukotka",
+    "region_name_vi": "Khu tự trị Chukotka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Mũi Chaplina (Mys Chaplina)",
+    "name_ru": "Мыс Чаплина",
+    "name_en": "Cape Chaplino",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 64.4048,
+      "lon": -172.2276
+    },
+    "address_vi": "Mỏm đông nam bán đảo Chukchi, ra biển Bering, huyện Providensky, Khu tự trị Chukotka, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Mũi đất ở góc đông nam bán đảo Chukchi, gần di chỉ làng Eskimo cổ Ungazik (Chaplino cũ). Nơi đây có hải đăng, bãi hải mã, xương cá voi và những đàn chim biển – một cột mốc và điểm quan sát động vật hoang dã ven bờ Bering.",
+    "presentation_long_vi": "Mũi Chaplina là một mỏm đất nhô ra biển Bering ở góc đông nam bán đảo Chukchi. Gần mũi từng có làng Eskimo cổ Ungazik (còn gọi là Chaplino cũ) – một trong những khu định cư săn thú biển quan trọng, nay đã bị bỏ và cư dân chuyển về Novoye Chaplino. Mũi đất là một mốc hàng hải với ngọn hải đăng, đồng thời là nơi tụ họp của thiên nhiên hoang dã vùng cực: các bãi đá là chỗ hải mã lên nghỉ, ven bờ rải rác xương cá voi, còn vách đá và triền cỏ đài nguyên là nơi làm tổ của chim biển. Vùng nước quanh mũi giàu sinh vật nên thu hút cả cá voi. Với du khách đi thuyền dọc bờ nam Chukchi, Cape Chaplino là điểm quan sát động vật và cảnh quan hoang sơ, đồng thời gợi nhớ lịch sử lâu đời của các cộng đồng Eskimo bản địa nơi đây.",
+    "highlights_vi": [
+      "Mỏm đông nam bán đảo Chukchi, gần di chỉ làng Eskimo cổ Ungazik.",
+      "Có hải đăng, bãi hải mã, xương cá voi và các đàn chim biển.",
+      "Điểm quan sát động vật hoang dã trên các tour thuyền dọc bờ Bering."
+    ],
+    "practical": {
+      "hours_vi": "Vùng hoang dã ven biển; ghé qua trên tour thuyền.",
+      "ticket_vi": "Không có vé; chi phí theo tour.",
+      "duration_vi": "Điểm dừng khoảng 1 giờ trong hành trình.",
+      "best_time_vi": "Mùa hè (tháng 7–9) khi có thể đi thuyền và động vật hoạt động.",
+      "tips_vi": "Giữ khoảng cách với bãi hải mã; tuân thủ hướng dẫn để không làm chúng hoảng loạn."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%8B%D1%81%20%D0%A7%D0%B0%D0%BF%D0%BB%D0%B8%D0%BD%D0%B0&ll=-172.2276,64.4048&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Cape%20Chaplino%2C%20Chukotka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN) — Cape Chaplino",
+        "url": "https://en.wikipedia.org/wiki/Cape_Chaplino"
+      },
+      {
+        "title": "Wikipedia (RU) — Мыс Чаплина",
+        "url": "https://ru.wikipedia.org/wiki/Мыс_Чаплина"
+      }
+    ],
+    "tags": [
+      "chukotka",
+      "cape",
+      "walrus",
+      "lighthouse",
+      "eskimo",
+      "bering-sea"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "chukotka-cape-schmidt",
+    "slug": "cape-schmidt",
+    "region": "chukotka",
+    "region_name_vi": "Khu tự trị Chukotka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Mũi Shmidta (Mys Shmidta)",
+    "name_ru": "Мыс Шмидта",
+    "name_en": "Cape Schmidt",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 68.9067,
+      "lon": -179.3667
+    },
+    "address_vi": "Bờ biển Chukchi, tây bắc Chukotka, huyện Iultinsky, Khu tự trị Chukotka, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Mũi đất và khu dân cư trên bờ biển Chukchi mang tên nhà thám hiểm Bắc Cực Otto Schmidt, gắn liền với lịch sử hàng không địa cực và Đường Biển Phương Bắc. Vùng bờ biển này còn nổi tiếng là nơi gấu Bắc Cực thường lai vãng.",
+    "presentation_long_vi": "Mũi Shmidta là một mỏm đất trên bờ biển Chukchi ở tây bắc Chukotka, cùng khu dân cư nhỏ mang tên nhà toán học – thám hiểm địa cực nổi tiếng Otto Schmidt. Trong thời kỳ khai phá Bắc Cực và vận hành Đường Biển Phương Bắc, đây là một điểm tựa quan trọng: có trạm khí tượng, sân bay phục vụ hàng không địa cực và là mắt xích trên tuyến hải trình băng giá. Vùng bờ biển quanh mũi Shmidta khét tiếng với băng dày, sương mù và thời tiết khắc nghiệt, đồng thời là nơi gấu Bắc Cực thường xuyên lang thang kiếm ăn ven bờ, nhất là vào mùa băng. Ngày nay khu dân cư đã thu nhỏ nhiều, nhưng địa danh vẫn gợi lại một chương sử hào hùng và gian khó của công cuộc chinh phục Bắc Cực Xô-viết. Đây là điểm đến của những ai muốn chạm tới một mốc địa lý xa xôi trên bờ biển băng của Chukotka.",
+    "highlights_vi": [
+      "Mũi đất và khu dân cư mang tên nhà thám hiểm địa cực Otto Schmidt.",
+      "Gắn với lịch sử hàng không địa cực và Đường Biển Phương Bắc.",
+      "Bờ biển băng giá nổi tiếng là nơi gấu Bắc Cực thường lui tới."
+    ],
+    "practical": {
+      "hours_vi": "Khu dân cư nhỏ vùng xa; không có dịch vụ du lịch chuyên biệt.",
+      "ticket_vi": "Không có vé.",
+      "duration_vi": "Điểm dừng ngắn tùy hành trình.",
+      "best_time_vi": "Mùa hè khi tiếp cận thuận lợi hơn.",
+      "tips_vi": "Cảnh giác gấu Bắc Cực ven bờ; thời tiết xấu thường làm gián đoạn chuyến bay."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%8B%D1%81%20%D0%A8%D0%BC%D0%B8%D0%B4%D1%82%D0%B0&ll=-179.3667,68.9067&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Cape%20Schmidt%2C%20Chukotka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN) — Cape Schmidt",
+        "url": "https://en.wikipedia.org/wiki/Cape_Schmidt"
+      },
+      {
+        "title": "Wikipedia (RU) — Мыс Шмидта (село)",
+        "url": "https://ru.wikipedia.org/wiki/Мыс_Шмидта_(село)"
+      }
+    ],
+    "tags": [
+      "chukotka",
+      "cape",
+      "otto-schmidt",
+      "polar-aviation",
+      "polar-bear",
+      "chukchi-sea"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "chukotka-arakamchechen-walrus-rookery",
+    "slug": "arakamchechen-walrus-rookery",
+    "region": "chukotka",
+    "region_name_vi": "Khu tự trị Chukotka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Bãi hải mã đảo Arakamchechen (Ostrov Arakamchechen)",
+    "name_ru": "Остров Аракамчечен",
+    "name_en": "Arakamchechen Island (walrus rookery)",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 64.7,
+      "lon": -172.45
+    },
+    "address_vi": "Trong eo biển Senyavin, gần đảo Yttygran, huyện Providensky, Khu tự trị Chukotka, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Hòn đảo trong eo biển Senyavin nổi tiếng với một trong những bãi lên bờ (rookery) đông đúc nhất của hải mã Thái Bình Dương. Hàng nghìn con hải mã chen chúc trên bãi đá, cùng cá voi lượn quanh vùng nước – một điểm nhấn của Vườn quốc gia Beringia.",
+    "presentation_long_vi": "Đảo Arakamchechen nằm trong eo biển Senyavin, ngay cạnh đảo Yttygran nơi có “Hẻm Xương Cá voi” nổi tiếng. Đảo được biết đến nhiều nhất nhờ bãi hải mã (walrus haulout/rookery) khổng lồ ở mũi phía đông: vào cuối hè và mùa thu, hàng nghìn con hải mã Thái Bình Dương kéo lên nằm chen chúc trên bãi đá và triền dốc ven biển, tạo nên một trong những cảnh tượng tập trung động vật hoang dã ấn tượng nhất Bắc Cực. Vùng nước quanh đảo, giàu nhuyễn thể và cá, cũng là nơi cá voi xám tìm đến kiếm ăn, nên các tour thuyền thường kết hợp ngắm hải mã trên bãi và cá voi dưới nước. Là một phần của Vườn quốc gia Beringia, Arakamchechen thường được ghép cùng chuyến thăm Hẻm Xương Cá voi ở Yttygran, cho du khách một ngày trọn vẹn giữa thiên nhiên và di sản của eo biển Senyavin.",
+    "highlights_vi": [
+      "Một trong những bãi lên bờ đông đúc nhất của hải mã Thái Bình Dương.",
+      "Hàng nghìn con hải mã chen chúc trên bãi đá vào cuối hè – thu.",
+      "Thường ghép tour cùng Hẻm Xương Cá voi (đảo Yttygran) trong Vườn quốc gia Beringia."
+    ],
+    "practical": {
+      "hours_vi": "Đảo hoang; ghé qua trên tour thuyền từ Provideniya.",
+      "ticket_vi": "Không có vé; chi phí và giấy phép công viên nằm trong tour.",
+      "duration_vi": "Điểm dừng 1–2 giờ, thường trong ngày cùng Yttygran.",
+      "best_time_vi": "Cuối hè đến đầu thu (tháng 8–9) khi hải mã tụ đông trên bãi.",
+      "tips_vi": "Tuyệt đối giữ khoảng cách và im lặng: hải mã dễ hoảng loạn giẫm đạp nhau khi bị quấy rầy."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%20%D0%90%D1%80%D0%B0%D0%BA%D0%B0%D0%BC%D1%87%D0%B5%D1%87%D0%B5%D0%BD&ll=-172.45,64.7&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Arakamchechen%20Island%20%28walrus%20rookery%29%2C%20Chukotka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN) — Arakamchechen Island",
+        "url": "https://en.wikipedia.org/wiki/Arakamchechen_Island"
+      },
+      {
+        "title": "Wikipedia (RU) — Аракамчечен",
+        "url": "https://ru.wikipedia.org/wiki/Аракамчечен"
+      }
+    ],
+    "tags": [
+      "chukotka",
+      "island",
+      "walrus",
+      "beringia",
+      "senyavin-strait",
+      "wildlife"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
   }
 ]

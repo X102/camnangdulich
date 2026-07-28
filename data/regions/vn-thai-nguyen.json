@@ -92,8 +92,8 @@
       "other"
     ],
     "coordinates": {
-      "lat": 21.55,
-      "lon": 105.7167
+      "lat": 21.577467,
+      "lon": 105.70388
     },
     "address_vi": "Hồ Núi Cốc, tỉnh Thái Nguyên (cách TP Thái Nguyên khoảng 15 km)",
     "rating": {
@@ -134,7 +134,7 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?text=Nui%20Coc%20Lake%2C%20Thai%20Nguyen%2C%20Vietnam&ll=105.7167,21.55&z=17",
+      "yandex": "https://yandex.com/maps/?text=Nui%20Coc%20Lake%2C%20Thai%20Nguyen%2C%20Vietnam&ll=105.70388,21.577467&z=17",
       "google": "https://www.google.com/maps/search/?api=1&query=Nui%20Coc%20Lake%2C%20Thai%20Nguyen%2C%20Vietnam"
     },
     "official_site": null,
@@ -307,5 +307,1828 @@
     ],
     "status": "enriched",
     "last_updated": "2026-07-27"
+  },
+  {
+    "id": "vn-thai-nguyen-dong-puong",
+    "slug": "dong-puong",
+    "region": "vn-thai-nguyen",
+    "country": "vietnam",
+    "region_name_vi": "Thái Nguyên",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Động Puông",
+    "name_ru": "Пещера Пуонг",
+    "name_en": "Puong Cave",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 22.4256,
+      "lon": 105.6633
+    },
+    "address_vi": "Sông Năng, Vườn quốc gia Ba Bể (huyện Ba Bể cũ), tỉnh Thái Nguyên",
+    "rating": {
+      "value": 4.6,
+      "count": 900,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách đi thuyền qua động thường trầm trồ trước vòm hang cao vút và đàn dơi đông đúc; nhiều người nói đây là chặng ấn tượng nhất trên tuyến sông Năng, nên đi buổi sáng nước êm.",
+    "presentation_short_vi": "Động Puông là hang xuyên thủy dài khoảng 300 m, cao tới 30 m, nơi dòng sông Năng chảy xuyên qua lòng núi đá vôi Lũng Nham trong Vườn quốc gia Ba Bể. Thuyền độc mộc đưa du khách luồn dưới những vòm thạch nhũ và hàng vạn con dơi trú ngụ.",
+    "presentation_short_en": "Puong Cave is a water cave about 300 m long where the Nang River flows straight through the Lung Nham limestone mountain inside Ba Be National Park. Small boats carry visitors beneath towering vaults, dripping stalactites and thousands of resident bats.",
+    "presentation_short_ru": "Пещера Пуонг — водная пещера длиной около 300 м, сквозь которую река Нанг протекает прямо через известняковую гору Лунгням в национальном парке Бабе. Лодки провозят гостей под высокими сводами со сталактитами, где живут тысячи летучих мышей.",
+    "presentation_long_vi": "Nằm trên hành trình sông Năng nối hồ Ba Bể với thác Đầu Đẳng, Động Puông là một trong những kỳ quan tự nhiên đặc sắc nhất của Vườn quốc gia Ba Bể. Dòng sông Năng đã kiên nhẫn khoét xuyên qua khối núi đá vôi Lũng Nham, tạo nên một hang ngầm dài chừng 300 m với trần vòm cao tới 30 m. Khi con thuyền độc mộc lặng lẽ trôi vào lòng động, không gian đột ngột mát lạnh và tối sẫm; ánh sáng chỉ còn le lói từ hai cửa hang, đủ để soi rõ những khối thạch nhũ buông rủ như rèm đá và bầy dơi hàng vạn con treo mình trên vách. Tiếng mái chèo khua nước vọng lại giữa hang tạo cảm giác vừa huyền bí vừa choáng ngợp. Ra khỏi động, du khách lại gặp khung cảnh núi rừng nguyên sinh hai bên bờ, nơi thi thoảng vẫn bắt gặp đàn khỉ, chim rừng. Chuyến đi thuyền qua Động Puông thường được ghép cùng tuyến thăm hồ Ba Bể và thác Đầu Đẳng, trở thành trải nghiệm không thể bỏ qua với bất kỳ ai đặt chân tới vùng hồ nổi tiếng bậc nhất miền núi phía Bắc này.",
+    "presentation_long_en": "Set on the Nang River route linking Ba Be Lake with Dau Dang Waterfall, Puong Cave is among the most striking natural wonders of Ba Be National Park. Over countless millennia the Nang River has carved straight through the Lung Nham limestone massif, forming an underground passage roughly 300 m long with a vaulted ceiling reaching 30 m. As the dugout boat slips inside, the air turns suddenly cool and the light fades; only the two cave mouths glow faintly, enough to reveal curtains of stalactites and colonies of bats, tens of thousands strong, clinging to the walls. The splash of the oar echoes through the chamber, at once mysterious and overwhelming. Emerging from the cave, visitors return to walls of primeval forest where monkeys and forest birds sometimes appear. The boat trip through Puong Cave is usually combined with a tour of Ba Be Lake and Dau Dang Waterfall, making it an unmissable experience for anyone reaching this most celebrated lake district of Vietnam's northern mountains.",
+    "presentation_long_ru": "Расположенная на речном маршруте, соединяющем озеро Бабе с водопадом Даудянг, пещера Пуонг — одно из самых впечатляющих природных чудес национального парка Бабе. За многие тысячелетия река Нанг прорезала известняковый массив Лунгням насквозь, образовав подземный проход длиной около 300 м со сводом высотой до 30 м. Когда лодка-долблёнка входит внутрь, воздух внезапно становится прохладным, а свет меркнет; лишь два входа мягко светятся, освещая занавеси сталактитов и колонии летучих мышей, десятки тысяч особей, висящих на стенах. Плеск весла эхом разносится по залу, создавая ощущение таинственности и восторга. Выйдя из пещеры, гости вновь оказываются среди первозданного леса, где порой появляются обезьяны и лесные птицы. Прогулку через пещеру Пуонг обычно совмещают с осмотром озера Бабе и водопада Даудянг, и она становится обязательным впечатлением для каждого, кто добрался до этого знаменитого озёрного края северных гор Вьетнама.",
+    "highlights_vi": [
+      "Hang xuyên thủy dài ~300 m, trần cao tới 30 m trên dòng sông Năng",
+      "Nơi trú ngụ của hàng vạn con dơi, không khí mát lạnh quanh năm",
+      "Ghép tuyến cùng hồ Ba Bể và thác Đầu Đẳng thành hành trình sông nước"
+    ],
+    "highlights_en": [
+      "A 300 m water cave with a 30 m vault where the Nang River flows through",
+      "Home to tens of thousands of bats; cool air all year round",
+      "Combined with Ba Be Lake and Dau Dang Waterfall for a classic river trip"
+    ],
+    "highlights_ru": [
+      "Водная пещера ~300 м со сводом 30 м, сквозь которую течёт река Нанг",
+      "Пристанище десятков тысяч летучих мышей; прохладно круглый год",
+      "Совмещается с озером Бабе и водопадом Даудянг в единый маршрут"
+    ],
+    "practical": {
+      "hours_vi": "Theo tuyến thuyền của Vườn quốc gia, thường 7h00–16h00.",
+      "ticket_vi": "Thuê thuyền trọn tuyến hồ Ba Bể khoảng 700.000–1.200.000đ/thuyền (chia nhóm); vé tham quan riêng.",
+      "duration_vi": "Khoảng 30–45 phút cho đoạn qua động (trong tuyến 3–4 giờ).",
+      "best_time_vi": "Mùa khô tháng 10–4; sáng sớm nước êm, đủ sáng ngắm thạch nhũ.",
+      "tips_vi": "Mang đèn pin nhỏ, áo khoác mỏng; mặc áo phao; giữ yên lặng để không làm động đàn dơi."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Puong%20Cave%2C%20Thai%20Nguyen%2C%20Vietnam&ll=105.6633,22.4256&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Puong%20Cave%2C%20Thai%20Nguyen%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Vườn quốc gia Ba Bể — Động Puông",
+        "url": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_Ba_B%E1%BB%83"
+      }
+    ],
+    "tags": [
+      "nature",
+      "cave",
+      "boat",
+      "outdoor",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-thai-nguyen-thac-dau-dang",
+    "slug": "thac-dau-dang",
+    "region": "vn-thai-nguyen",
+    "country": "vietnam",
+    "region_name_vi": "Thái Nguyên",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Thác Đầu Đẳng",
+    "name_ru": "Водопад Даудянг",
+    "name_en": "Dau Dang Waterfall",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 22.4497,
+      "lon": 105.5992
+    },
+    "address_vi": "Sông Năng, giáp ranh Nam Mẫu – Đồng Phúc (huyện Ba Bể cũ), Vườn quốc gia Ba Bể, tỉnh Thái Nguyên",
+    "rating": {
+      "value": 4.4,
+      "count": 650,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Nhiều du khách thích quãng đi bộ xuyên rừng để tới thác, khen dòng nước cuộn trắng xóa qua các bậc đá và không khí trong lành; một số lưu ý đường mòn trơn sau mưa.",
+    "presentation_short_vi": "Thác Đầu Đẳng là chuỗi thác trên sông Năng dài khoảng 2 km, đổ qua các bậc đá lớn ở nơi giáp ranh vùng hồ Ba Bể và tỉnh Tuyên Quang. Đây là điểm cuối đẹp mắt của tuyến thuyền trên sông Năng.",
+    "presentation_short_en": "Dau Dang Waterfall is a two-kilometre cascade on the Nang River, tumbling over massive boulders where the Ba Be lake area meets neighbouring Tuyen Quang. It is the scenic finale of the Nang River boat route.",
+    "presentation_short_ru": "Водопад Даудянг — двухкилометровый каскад на реке Нанг, обрушивающийся через огромные валуны на границе района озера Бабе и провинции Туенкуанг. Это живописный финал лодочного маршрута по реке Нанг.",
+    "presentation_long_vi": "Thác Đầu Đẳng là một trong những điểm đến ưa thích khi khám phá Vườn quốc gia Ba Bể. Đây thực chất là một chuỗi thác nối tiếp nhau trải dài gần 2 km trên dòng sông Năng, nơi dòng nước len qua vô số tảng đá lớn nhỏ chồng chất rồi đổ xuống ầm ào, tung bọt trắng xóa. Để tới thác, du khách thường đi thuyền dọc sông Năng rồi đi bộ thêm một đoạn đường mòn xuyên qua rừng nguyên sinh mát rượi, hai bên là cây cổ thụ, dương xỉ và tiếng chim rừng. Càng tới gần, tiếng nước đổ càng lớn dần, và trước mắt hiện ra những bậc thác bọt tung trắng xóa giữa khung cảnh núi rừng còn hoang sơ. Khu vực này cũng là nơi sinh sống của loài cá chiên quý hiếm. Nhờ nằm ở điểm cuối tuyến sông Năng, thác Đầu Đẳng thường được ghép cùng hành trình thăm hồ Ba Bể và Động Puông, khép lại một ngày khám phá thiên nhiên trọn vẹn. Không gian yên tĩnh, mát lành và vẻ đẹp nguyên sơ khiến nơi đây được nhiều người xem là một trong những thác đẹp nhất vùng núi Đông Bắc.",
+    "presentation_long_en": "Dau Dang Waterfall is a favourite stop when exploring Ba Be National Park. It is in fact a chain of cascades stretching nearly two kilometres along the Nang River, where the water threads between countless piled-up boulders before crashing down in sheets of white foam. To reach it, visitors usually take a boat along the Nang River and then walk a forest trail through cool primeval jungle lined with ancient trees, ferns and birdsong. The nearer you come, the louder the roar grows, until the tiered falls appear, spray flying amid still-wild mountain scenery. The area is also home to the rare Chien catfish. Lying at the end of the Nang River route, Dau Dang is commonly combined with visits to Ba Be Lake and Puong Cave, rounding off a full day in nature. Its quiet, refreshing atmosphere and pristine beauty lead many to rate it among the loveliest waterfalls of Vietnam's north-eastern mountains, a fitting reward after the gentle boat ride upstream.",
+    "presentation_long_ru": "Водопад Даудянг — любимая остановка при исследовании национального парка Бабе. По сути это цепь каскадов длиной почти два километра вдоль реки Нанг, где вода пробивается меж бесчисленных нагромождённых валунов и обрушивается пеленой белой пены. Чтобы добраться сюда, гости обычно плывут на лодке по реке Нанг, а затем идут по лесной тропе сквозь прохладные первозданные джунгли со старыми деревьями, папоротниками и пением птиц. Чем ближе, тем громче рокот, пока не открываются ступенчатые пороги, разбрасывающие брызги среди дикой горной природы. В этих местах обитает редкий сом-чиен. Находясь в конце маршрута по реке Нанг, Даудянг обычно совмещают с посещением озера Бабе и пещеры Пуонг, завершая насыщенный день на природе. Тишина, свежесть и первозданная красота заставляют многих считать его одним из красивейших водопадов северо-восточных гор Вьетнама.",
+    "highlights_vi": [
+      "Chuỗi thác dài gần 2 km trên sông Năng, nước cuộn trắng xóa qua bãi đá",
+      "Đi thuyền kết hợp đi bộ xuyên rừng nguyên sinh mát mẻ",
+      "Nơi sinh sống của loài cá chiên quý hiếm; điểm cuối tuyến sông Năng"
+    ],
+    "highlights_en": [
+      "A near-2 km chain of cascades on the Nang River over jumbled boulders",
+      "Reached by boat plus a walk through cool primeval forest",
+      "Habitat of the rare Chien catfish; the finale of the Nang River route"
+    ],
+    "highlights_ru": [
+      "Цепь каскадов длиной почти 2 км на реке Нанг среди валунов",
+      "Добираются на лодке и пешком через прохладный первозданный лес",
+      "Место обитания редкого сома-чиен; финал маршрута по реке Нанг"
+    ],
+    "practical": {
+      "hours_vi": "Theo tuyến thuyền của Vườn quốc gia, thường 7h00–16h00.",
+      "ticket_vi": "Nằm trong tuyến thuyền hồ Ba Bể; phí thuyền khoảng 700.000–1.200.000đ/thuyền.",
+      "duration_vi": "Khoảng 1–1,5 giờ gồm đi bộ và ngắm thác.",
+      "best_time_vi": "Mùa mưa nước nhiều, thác hùng vĩ; mùa khô đường mòn dễ đi hơn.",
+      "tips_vi": "Đi giày bám tốt vì đường mòn có thể trơn; mang nước và đồ chống côn trùng."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Dau%20Dang%20Waterfall%2C%20Thai%20Nguyen%2C%20Vietnam&ll=105.5992,22.4497&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Dau%20Dang%20Waterfall%2C%20Thai%20Nguyen%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Vườn quốc gia Ba Bể — Thác Đầu Đẳng",
+        "url": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_Ba_B%E1%BB%83"
+      }
+    ],
+    "tags": [
+      "nature",
+      "waterfall",
+      "outdoor",
+      "boat",
+      "hiking"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-thai-nguyen-ao-tien",
+    "slug": "ao-tien",
+    "region": "vn-thai-nguyen",
+    "country": "vietnam",
+    "region_name_vi": "Thái Nguyên",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Ao Tiên",
+    "name_ru": "Пруд Феи (Аотиен)",
+    "name_en": "Fairy Pond (Ao Tien)",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 22.4083,
+      "lon": 105.6272
+    },
+    "address_vi": "Gần hồ Ba Bể, xã Nam Mẫu (huyện Ba Bể cũ), Vườn quốc gia Ba Bể, tỉnh Thái Nguyên",
+    "rating": {
+      "value": 4.3,
+      "count": 300,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách thích sự tĩnh lặng gần như tuyệt đối của hồ nhỏ giấu mình giữa rừng; nhiều người thấy đây là điểm dừng nhẹ nhàng, thơ mộng gắn với truyền thuyết tiên nữ.",
+    "presentation_short_vi": "Ao Tiên là một hồ nước nhỏ trong vắt nằm lọt giữa những vách núi đá vôi và rừng cây, cách hồ Ba Bể một quãng chèo thuyền ngắn. Gắn với truyền thuyết các nàng tiên xuống trần tắm mát, nơi đây mang vẻ đẹp tĩnh lặng, huyền hoặc.",
+    "presentation_short_en": "Ao Tien, the Fairy Pond, is a small crystal-clear lake cradled among limestone cliffs and forest, a short paddle from Ba Be Lake. Tied to a legend of fairies descending to bathe, it has a still, dreamlike beauty.",
+    "presentation_short_ru": "Аотиен, Пруд Феи, — маленькое кристально чистое озеро в окружении известняковых скал и леса, в нескольких минутах гребли от озера Бабе. Связанный с легендой о спускавшихся купаться феях, он полон тихой, сказочной красоты.",
+    "presentation_long_vi": "Ẩn mình giữa vùng lõi Vườn quốc gia Ba Bể, Ao Tiên là một hồ nước nhỏ nhưng đầy chất thơ, nằm cao hơn mặt hồ Ba Bể và được bao bọc bởi những vách núi đá vôi phủ kín cây rừng. Điều kỳ lạ khiến người dân bản địa gọi tên Ao Tiên là dù nằm biệt lập trên núi, hồ vẫn quanh năm đầy nước trong xanh, không bao giờ cạn. Từ đó nảy sinh truyền thuyết rằng đây là nơi các nàng tiên từ trời cao thường xuống trần gian tắm mát, say mê cảnh sắc mà quên cả lối về. Để tới Ao Tiên, du khách thường chèo thuyền từ hồ Ba Bể rồi men theo lối mòn nhỏ len qua rừng. Mặt hồ phẳng lặng như gương, phản chiếu bóng núi và tán lá, tạo nên khung cảnh thanh bình gần như tuyệt đối, chỉ có tiếng chim và tiếng lá xào xạc. Đây là điểm dừng lý tưởng cho những ai muốn tìm chút tĩnh lặng và cảm giác lạc vào chốn cổ tích giữa thiên nhiên hoang sơ của vùng hồ nổi tiếng bậc nhất miền núi phía Bắc.",
+    "presentation_long_en": "Hidden in the core of Ba Be National Park, Ao Tien, the Fairy Pond, is a small but deeply poetic lake, set higher than Ba Be Lake itself and encircled by forest-clad limestone cliffs. What amazes local people is that, despite sitting isolated up in the mountains, it stays full of clear blue water all year and never runs dry. From this arose the legend that fairies from the heavens once descended here to bathe, so enchanted by the scenery that they forgot the way home. To reach Ao Tien, visitors usually paddle from Ba Be Lake and then follow a narrow trail through the forest. The mirror-still surface reflects the peaks and foliage, creating an almost absolute calm broken only by birdsong and rustling leaves. It is an ideal pause for anyone seeking quiet and the feeling of stepping into a fairy tale amid the pristine nature of the north's most famous lake district, and pairs naturally with a fuller day exploring the wider Ba Be waterways.",
+    "presentation_long_ru": "Скрытый в сердце национального парка Бабе, Аотиен, Пруд Феи, — маленькое, но очень поэтичное озеро, лежащее выше самого озера Бабе и окружённое поросшими лесом известняковыми скалами. Местных жителей поражает то, что, несмотря на уединённость высоко в горах, оно круглый год полно чистой голубой воды и никогда не пересыхает. Отсюда родилась легенда, будто феи с небес спускались сюда купаться, так очарованные пейзажем, что забывали дорогу домой. Чтобы добраться до Аотиена, гости обычно плывут от озера Бабе, а затем идут по узкой тропе через лес. Зеркальная гладь отражает вершины и листву, создавая почти абсолютный покой, нарушаемый лишь пением птиц и шелестом листьев. Это идеальная остановка для тех, кто ищет тишину и ощущение попадания в сказку среди первозданной природы самого знаменитого озёрного края севера.",
+    "highlights_vi": [
+      "Hồ nhỏ trong xanh trên núi, quanh năm không cạn nước",
+      "Gắn với truyền thuyết tiên nữ xuống trần tắm mát",
+      "Điểm dừng tĩnh lặng, thơ mộng trong tuyến khám phá hồ Ba Bể"
+    ],
+    "highlights_en": [
+      "A small clear mountain lake that never dries up all year",
+      "Linked to a legend of fairies descending to bathe",
+      "A serene, poetic stop on the Ba Be Lake circuit"
+    ],
+    "highlights_ru": [
+      "Маленькое чистое горное озеро, не пересыхающее круглый год",
+      "Связан с легендой о спускавшихся купаться феях",
+      "Тихая поэтичная остановка на маршруте по озеру Бабе"
+    ],
+    "practical": {
+      "hours_vi": "Trong khung giờ tuyến thuyền Vườn quốc gia, thường 7:00–16:00.",
+      "ticket_vi": "Nằm trong tuyến thuyền hồ Ba Bể; không thu vé riêng.",
+      "duration_vi": "Khoảng 30–45 phút.",
+      "best_time_vi": "Mùa khô, trời quang để mặt hồ trong và phẳng lặng.",
+      "tips_vi": "Đi giày bám tốt cho đoạn lội bộ ngắn; giữ gìn vệ sinh, không xả rác."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Fairy%20Pond%2C%20Thai%20Nguyen%2C%20Vietnam&ll=105.6272,22.4083&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Fairy%20Pond%2C%20Thai%20Nguyen%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Ao Tiên — Hồ Ba Bể",
+        "url": "https://vi.wikipedia.org/wiki/H%E1%BB%93_Ba_B%E1%BB%83"
+      }
+    ],
+    "tags": [
+      "nature",
+      "lake",
+      "outdoor",
+      "legend",
+      "boat"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-thai-nguyen-den-an-ma",
+    "slug": "den-an-ma",
+    "region": "vn-thai-nguyen",
+    "country": "vietnam",
+    "region_name_vi": "Thái Nguyên",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Đền An Mã",
+    "name_ru": "Храм Анма",
+    "name_en": "An Ma Temple",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 22.3968,
+      "lon": 105.6167
+    },
+    "address_vi": "Đảo giữa hồ Ba Bể, xã Nam Mẫu (huyện Ba Bể cũ), tỉnh Thái Nguyên",
+    "rating": {
+      "value": 4.5,
+      "count": 420,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Nhiều du khách kết hợp lễ đền với ngắm cảnh hồ, khen không gian linh thiêng, tĩnh mịch trên đảo nhỏ; lễ hội đầu năm rất đông người hành hương.",
+    "presentation_short_vi": "Đền An Mã là ngôi đền cổ tọa lạc trên một hòn đảo đá phủ kín cây xanh giữa hồ Ba Bể. Đây là điểm tâm linh quan trọng của vùng hồ, thờ Mẫu và các vị thần, thu hút đông đảo người hành hương mỗi dịp lễ hội.",
+    "presentation_short_en": "An Ma Temple is an ancient shrine on a green, rocky island in the middle of Ba Be Lake. A key spiritual site of the lake region, it venerates the Mother Goddesses and local deities and draws many pilgrims during festivals.",
+    "presentation_short_ru": "Храм Анма — древнее святилище на зелёном скалистом острове посреди озера Бабе. Важное духовное место озёрного края, он посвящён Богиням-Матерям и местным божествам и привлекает множество паломников во время праздников.",
+    "presentation_long_vi": "Giữa mặt nước mênh mông của hồ Ba Bể, đền An Mã nổi lên trên một hòn đảo đá nhỏ phủ kín cây rừng, tạo nên một điểm nhấn tâm linh giữa thiên nhiên kỳ vĩ. Ngôi đền thờ Mẫu Thượng Ngàn cùng các vị thần linh của vùng sông nước, từ lâu đã là chốn gửi gắm niềm tin của cộng đồng các dân tộc Tày, Nùng, Dao quanh hồ. Muốn tới đền, du khách phải xuống thuyền, lướt qua làn nước xanh trong rồi men theo bậc đá dẫn lên đảo, nơi rợp bóng cổ thụ và tiếng chuông ngân trong gió. Không gian ở đây vừa linh thiêng vừa tĩnh mịch, hòa quyện giữa hương khói và hơi nước mát lành từ mặt hồ. Vào dịp đầu xuân, đền An Mã trở thành trung tâm của lễ hội Ba Bể — một trong những lễ hội lớn nhất vùng, với các nghi lễ cầu an, hát then, đàn tính và nhiều trò chơi dân gian. Với sự kết hợp giữa giá trị tín ngưỡng và cảnh quan sông nước tuyệt đẹp, đền An Mã là điểm dừng ý nghĩa trong hành trình khám phá hồ Ba Bể.",
+    "presentation_long_en": "Amid the vast waters of Ba Be Lake, An Ma Temple rises on a small rocky island cloaked in forest, a spiritual accent within a majestic landscape. The shrine honours the Mother Goddess of the Forests together with local water deities and has long been a focus of faith for the Tay, Nung and Dao communities around the lake. To reach it, visitors board a boat, glide across the clear green water, then climb stone steps to the island, shaded by old trees where a temple bell rings on the breeze. The atmosphere is at once sacred and hushed, blending incense with the cool mist off the lake. In early spring the temple becomes the heart of the Ba Be Festival, one of the region's largest, with prayers for peace, then singing, tinh-lute music and folk games. Uniting living belief with superb water scenery, An Ma Temple is a meaningful stop on any journey around Ba Be Lake, and its island setting makes the short crossing feel like a small pilgrimage in itself.",
+    "presentation_long_ru": "Среди бескрайних вод озера Бабе храм Анма возвышается на маленьком скалистом острове, укрытом лесом, — духовный акцент в величественном пейзаже. Святилище посвящено Богине-Матери Лесов и местным водным божествам и издавна служит средоточием веры для общин тай, нунг и зао, живущих вокруг озера. Чтобы попасть сюда, гости садятся в лодку, скользят по прозрачной зелёной воде, а затем поднимаются по каменным ступеням на остров, затенённый старыми деревьями, где на ветру звонит храмовый колокол. Атмосфера здесь одновременно священная и тихая, смешивающая аромат благовоний с прохладной дымкой над озером. Ранней весной храм становится сердцем праздника Бабе — одного из крупнейших в регионе, с молитвами о мире, пением тхен, музыкой лютни тинь и народными играми. Соединяя живую веру с прекрасными водными пейзажами, храм Анма — значимая остановка в любом путешествии вокруг озера Бабе.",
+    "highlights_vi": [
+      "Đền cổ trên đảo đá giữa hồ Ba Bể, thờ Mẫu Thượng Ngàn",
+      "Trung tâm lễ hội Ba Bể đầu xuân với hát then, đàn tính",
+      "Kết hợp hành hương và ngắm cảnh sông nước trên thuyền"
+    ],
+    "highlights_en": [
+      "An ancient temple on a rocky island in Ba Be Lake, honouring the Forest Mother Goddess",
+      "Centre of the spring Ba Be Festival with then singing and tinh lute",
+      "Combines pilgrimage with lake scenery reached by boat"
+    ],
+    "highlights_ru": [
+      "Древний храм на скалистом острове озера Бабе, посвящённый Богине Лесов",
+      "Центр весеннего праздника Бабе с пением тхен и лютней тинь",
+      "Сочетает паломничество и водные пейзажи, куда добираются на лодке"
+    ],
+    "practical": {
+      "hours_vi": "Ban ngày; đông nhất dịp lễ hội đầu xuân (tháng Giêng âm lịch).",
+      "ticket_vi": "Không thu vé vào đền; chi phí thuê thuyền theo tuyến hồ.",
+      "duration_vi": "Khoảng 45–60 phút.",
+      "best_time_vi": "Dịp lễ hội Ba Bể đầu năm hoặc các sáng trời quang.",
+      "tips_vi": "Ăn mặc lịch sự khi vào đền; chuẩn bị lễ nhỏ nếu muốn dâng hương."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=An%20Ma%20Temple%2C%20Thai%20Nguyen%2C%20Vietnam&ll=105.6167,22.3968&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=An%20Ma%20Temple%2C%20Thai%20Nguyen%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Lễ hội Ba Bể — đền An Mã",
+        "url": "https://vi.wikipedia.org/wiki/H%E1%BB%93_Ba_B%E1%BB%83"
+      }
+    ],
+    "tags": [
+      "culture",
+      "temple",
+      "festival",
+      "boat",
+      "lake"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-thai-nguyen-dao-ba-goa",
+    "slug": "dao-ba-goa",
+    "region": "vn-thai-nguyen",
+    "country": "vietnam",
+    "region_name_vi": "Thái Nguyên",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Đảo Bà Góa",
+    "name_ru": "Остров Вдовы",
+    "name_en": "Widow Island (An Ma Islet)",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 22.4019,
+      "lon": 105.6183
+    },
+    "address_vi": "Giữa hồ Ba Bể, xã Nam Mẫu (huyện Ba Bể cũ), tỉnh Thái Nguyên",
+    "rating": {
+      "value": 4.4,
+      "count": 500,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách thường dừng thuyền chụp ảnh và nghe kể truyền thuyết; khung cảnh hồ nước bao quanh đảo được khen rất nên thơ.",
+    "presentation_short_vi": "Đảo Bà Góa là một đảo đá nhỏ phủ đầy cây xanh nổi lên giữa lòng hồ Ba Bể, gắn với truyền thuyết về nguồn gốc hình thành hồ. Đây là điểm nhấn cảnh quan quen thuộc trên các tuyến thuyền tham quan.",
+    "presentation_short_en": "Widow Island is a small tree-covered rock rising from the middle of Ba Be Lake, tied to the legend of how the lake was formed. It is a familiar scenic highlight on boat tours across the water.",
+    "presentation_short_ru": "Остров Вдовы — небольшая поросшая деревьями скала, поднимающаяся из середины озера Бабе и связанная с легендой о его происхождении. Это знакомый живописный ориентир на лодочных маршрутах.",
+    "presentation_long_vi": "Nổi lên giữa làn nước xanh biếc của hồ Ba Bể, Đảo Bà Góa là một hòn đảo đá nhỏ nhưng nổi tiếng, phủ kín cây cối xanh tốt quanh năm. Hòn đảo gắn liền với truyền thuyết dân gian giải thích sự hình thành của hồ: chuyện kể rằng xưa kia, trong một lễ hội của bản, chỉ có hai mẹ con bà góa nghèo tốt bụng cho một bà lão ăn mày lỡ đường trú nhờ. Bà lão ấy vốn là thần linh hóa thân để thử lòng người; đêm đó cả vùng chìm trong biển nước, riêng nền nhà của hai mẹ con nhô cao thành hòn đảo mà nay gọi là Đảo Bà Góa. Câu chuyện mang thông điệp về lòng nhân ái và ở hiền gặp lành, khiến hòn đảo không chỉ đẹp mà còn thấm đẫm ý nghĩa. Trên hành trình thuyền dạo hồ Ba Bể, Đảo Bà Góa là điểm dừng chân quen thuộc để du khách chụp ảnh, phóng tầm mắt ra mặt hồ mênh mông viền quanh bởi những dãy núi đá vôi trùng điệp, cảm nhận sự hòa quyện giữa thiên nhiên và những câu chuyện truyền đời của người dân bản địa.",
+    "presentation_long_en": "Rising from the emerald water of Ba Be Lake, Widow Island is a small but famous rocky islet, green with vegetation all year. It is bound to a folk legend that explains the lake's origin. The story tells that long ago, during a village festival, only a poor widow and her child were kind enough to shelter a ragged old beggar-woman who was in truth a deity in disguise, come to test people's hearts. That night the whole valley was drowned in a flood, but the ground beneath the mother and child rose up to form the island now called Widow Island. Carrying a message about compassion and the reward of good deeds, the islet is both beautiful and rich in meaning. On a boat tour of Ba Be Lake, Widow Island is a familiar stop where visitors take photographs and gaze across the wide expanse of water ringed by ranks of limestone peaks, feeling the blend of nature and the enduring stories of the local people who have lived beside the lake for generations.",
+    "presentation_long_ru": "Поднимаясь из изумрудной воды озера Бабе, Остров Вдовы — небольшой, но знаменитый скалистый островок, круглый год зелёный от растительности. Он связан с народной легендой о происхождении озера. Предание гласит, что давным-давно, во время деревенского праздника, лишь бедная вдова с ребёнком приютили оборванную старуху-нищенку, которая на деле была божеством, пришедшим испытать людские сердца. В ту ночь всю долину затопило наводнение, но земля под матерью и ребёнком поднялась и образовала остров, ныне называемый Островом Вдовы. Неся послание о сострадании и награде за добрые дела, островок и красив, и полон смысла. Во время лодочной прогулки по озеру Бабе Остров Вдовы — привычная остановка, где гости фотографируют и любуются широкой гладью воды в кольце известняковых вершин, ощущая слияние природы и вечных преданий местных жителей.",
+    "highlights_vi": [
+      "Đảo đá nhỏ giữa hồ, gắn truyền thuyết hình thành hồ Ba Bể",
+      "Câu chuyện về lòng nhân ái, ở hiền gặp lành",
+      "Điểm dừng ngắm cảnh, chụp ảnh trên tuyến thuyền dạo hồ"
+    ],
+    "highlights_en": [
+      "A small rock islet tied to the legend of the lake's origin",
+      "A folk tale about compassion and good deeds rewarded",
+      "A scenic photo stop on the Ba Be Lake boat tour"
+    ],
+    "highlights_ru": [
+      "Маленький скалистый островок, связанный с легендой о происхождении озера",
+      "Народная сказка о сострадании и награде за добро",
+      "Живописная остановка для фото на лодочном маршруте"
+    ],
+    "practical": {
+      "hours_vi": "Theo tuyến thuyền Vườn quốc gia, thường 7:00–16:00.",
+      "ticket_vi": "Nằm trong tuyến thuyền hồ Ba Bể; không thu vé riêng.",
+      "duration_vi": "Khoảng 15–20 phút dừng ngắm cảnh.",
+      "best_time_vi": "Mùa khô, sáng sớm hoặc chiều muộn ánh sáng đẹp.",
+      "tips_vi": "Mang máy ảnh; mặc áo phao khi đi thuyền."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Widow%20Island%2C%20Thai%20Nguyen%2C%20Vietnam&ll=105.6183,22.4019&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Widow%20Island%2C%20Thai%20Nguyen%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Đảo Bà Góa — Hồ Ba Bể",
+        "url": "https://vi.wikipedia.org/wiki/H%E1%BB%93_Ba_B%E1%BB%83"
+      }
+    ],
+    "tags": [
+      "nature",
+      "lake",
+      "legend",
+      "boat",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-thai-nguyen-ban-pac-ngoi",
+    "slug": "ban-pac-ngoi",
+    "region": "vn-thai-nguyen",
+    "country": "vietnam",
+    "region_name_vi": "Thái Nguyên",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Bản Pác Ngòi",
+    "name_ru": "Деревня Пакнгой",
+    "name_en": "Pac Ngoi Village",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 22.3925,
+      "lon": 105.63
+    },
+    "address_vi": "Ven hồ Ba Bể, xã Nam Mẫu (huyện Ba Bể cũ), tỉnh Thái Nguyên",
+    "rating": {
+      "value": 4.6,
+      "count": 800,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách yêu thích sự bình yên, hiếu khách và ẩm thực dân dã; nhiều người nói ở lại homestay nhà sàn là trải nghiệm đáng nhớ nhất chuyến đi Ba Bể.",
+    "presentation_short_vi": "Bản Pác Ngòi là làng của người Tày nằm ngay bên hồ Ba Bể, nổi tiếng với những ngôi nhà sàn gỗ truyền thống và dịch vụ homestay. Đây là nơi du khách trải nghiệm đời sống, ẩm thực và văn hóa bản địa.",
+    "presentation_short_en": "Pac Ngoi is a Tay village on the shore of Ba Be Lake, known for its traditional wooden stilt houses and homestays. It is where visitors experience local life, cuisine and culture.",
+    "presentation_short_ru": "Пакнгой — деревня народа тай на берегу озера Бабе, известная традиционными деревянными свайными домами и гостевыми домами. Здесь гости знакомятся с местным бытом, кухней и культурой.",
+    "presentation_long_vi": "Nằm nép bên bờ hồ Ba Bể, Bản Pác Ngòi là một trong những ngôi làng đẹp và bình yên nhất vùng, nơi cộng đồng người Tày vẫn giữ gìn nếp sống truyền thống giữa khung cảnh non nước hữu tình. Điều đầu tiên gây ấn tượng với du khách là những ngôi nhà sàn gỗ mái lá đứng san sát, lưng tựa núi, mặt hướng ra hồ, phản chiếu xuống làn nước phẳng lặng. Nhiều gia đình trong bản đã mở dịch vụ homestay, mời khách ngủ lại trên nhà sàn, cùng nhóm bếp lửa, thưởng thức các món ăn dân dã như cá nướng hồ Ba Bể, tôm sông, xôi ngũ sắc, rau rừng và rượu ngô men lá. Buổi tối, du khách có thể được nghe hát then, đàn tính hoặc trò chuyện với người dân về phong tục, mùa màng. Ban ngày, từ Pác Ngòi có thể thuê thuyền dạo hồ, đạp xe quanh những thửa ruộng và men theo các lối mòn ngắm cảnh. Chính sự mộc mạc, hiếu khách và không gian yên ả gần gũi thiên nhiên đã khiến Pác Ngòi trở thành điểm dừng chân được yêu thích, giúp du khách hiểu hơn về văn hóa các dân tộc vùng hồ Ba Bể.",
+    "presentation_long_en": "Nestled on the shore of Ba Be Lake, Pac Ngoi is one of the loveliest and most peaceful villages in the region, where a Tay community still keeps its traditional way of life amid gorgeous water-and-mountain scenery. What first strikes visitors is the cluster of wooden, thatch-roofed stilt houses standing side by side, backs to the mountains and fronts to the lake, mirrored in the calm water. Many families run homestays, inviting guests to sleep in the stilt houses, gather around the hearth and enjoy rustic dishes such as grilled Ba Be lake fish, river shrimp, five-colour sticky rice, wild greens and leaf-fermented corn wine. In the evening travellers may hear then singing and tinh-lute music or chat with locals about customs and the seasons. By day, from Pac Ngoi you can hire a boat across the lake, cycle past the rice fields and follow scenic trails. Its simplicity, hospitality and quiet closeness to nature have made Pac Ngoi a much-loved stop that helps visitors understand the culture of the peoples of the Ba Be lake district.",
+    "presentation_long_ru": "Приютившаяся на берегу озера Бабе, Пакнгой — одна из красивейших и самых спокойных деревень края, где община тай хранит традиционный уклад среди прекрасных водно-горных пейзажей. Первое, что поражает гостей, — ряды деревянных свайных домов с тростниковыми крышами, стоящих вплотную, спиной к горам и фасадом к озеру, отражаясь в тихой воде. Многие семьи держат гостевые дома, приглашая гостей ночевать в свайных домах, собираться у очага и пробовать простые блюда: жареную рыбу из озера Бабе, речные креветки, пятицветный клейкий рис, дикую зелень и кукурузное вино на листьях. Вечером путешественники могут услышать пение тхен и музыку лютни тинь или побеседовать с местными об обычаях и урожае. Днём из Пакнгоя можно нанять лодку для прогулки по озеру, покататься на велосипеде мимо рисовых полей и пройти по живописным тропам. Простота, гостеприимство и тихая близость к природе сделали Пакнгой любимой остановкой, помогающей гостям понять культуру народов озёрного края Бабе.",
+    "highlights_vi": [
+      "Làng người Tày với nhà sàn gỗ truyền thống ven hồ Ba Bể",
+      "Homestay, ẩm thực bản địa: cá nướng, xôi ngũ sắc, rượu ngô",
+      "Trải nghiệm hát then, đàn tính, đạp xe và thuê thuyền dạo hồ"
+    ],
+    "highlights_en": [
+      "A Tay village of traditional stilt houses on the Ba Be lakeshore",
+      "Homestays and local food: grilled fish, five-colour rice, corn wine",
+      "Then singing, tinh lute, cycling and boat trips on the lake"
+    ],
+    "highlights_ru": [
+      "Деревня тай с традиционными свайными домами на берегу озера Бабе",
+      "Гостевые дома и местная кухня: жареная рыба, пятицветный рис, вино",
+      "Пение тхен, лютня тинь, велосипед и прогулки на лодке"
+    ],
+    "practical": {
+      "hours_vi": "Bản mở đón khách cả ngày; homestay nhận khách lưu trú qua đêm.",
+      "ticket_vi": "Homestay tham khảo 150.000–350.000 VND/người/đêm; ăn uống tính riêng.",
+      "duration_vi": "Nên ở lại 1 đêm để trải nghiệm trọn vẹn.",
+      "best_time_vi": "Mùa khô (tháng 10–4); dịp lễ hội Ba Bể càng sôi động.",
+      "tips_vi": "Đặt homestay trước vào cuối tuần; mang tiền mặt vì ít nơi quẹt thẻ."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Pac%20Ngoi%20Village%2C%20Thai%20Nguyen%2C%20Vietnam&ll=105.63,22.3925&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Pac%20Ngoi%20Village%2C%20Thai%20Nguyen%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Bản Pác Ngòi — Hồ Ba Bể",
+        "url": "https://vi.wikipedia.org/wiki/H%E1%BB%93_Ba_B%E1%BB%83"
+      }
+    ],
+    "tags": [
+      "culture",
+      "homestay",
+      "village",
+      "food",
+      "lake"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-thai-nguyen-dong-hua-ma",
+    "slug": "dong-hua-ma",
+    "region": "vn-thai-nguyen",
+    "country": "vietnam",
+    "region_name_vi": "Thái Nguyên",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Động Hua Mạ",
+    "name_ru": "Пещера Хуама",
+    "name_en": "Hua Ma Cave",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 22.3639,
+      "lon": 105.6558
+    },
+    "address_vi": "Xã Quảng Khê (huyện Ba Bể cũ), gần hồ Ba Bể, tỉnh Thái Nguyên",
+    "rating": {
+      "value": 4.4,
+      "count": 500,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách khen động rộng, thạch nhũ đẹp và ánh sáng lung linh; lưu ý phải leo nhiều bậc đá để lên cửa động, nên đi giày thoải mái và mang nước.",
+    "presentation_short_vi": "Động Hua Mạ là hang động đá vôi khô lớn và đẹp bậc nhất vùng Ba Bể, nằm trên lưng chừng núi Cô Đơn. Trong lòng động là hệ thống thạch nhũ kỳ vĩ được chiếu sáng lung linh, gắn với nhiều truyền thuyết linh thiêng.",
+    "presentation_short_en": "Hua Ma Cave is one of the largest and most beautiful dry limestone caves in the Ba Be area, set midway up Lonely Mountain. Inside lie majestic, softly lit stalactite formations wrapped in local legend.",
+    "presentation_short_ru": "Пещера Хуама — одна из крупнейших и красивейших сухих известняковых пещер района Бабе, расположенная на середине склона Одинокой горы. Внутри — величественные, мягко подсвеченные натёки сталактитов, окутанные местными легендами.",
+    "presentation_long_vi": "Động Hua Mạ, còn được gọi là động Lèn Hạ Mã, nằm trên lưng chừng ngọn núi Cô Đơn thuộc xã Quảng Khê, cách hồ Ba Bể không xa. Đây là một trong những hang động đá vôi khô đẹp và kỳ vĩ nhất của khu vực, với cửa động cao rộng nhìn ra thung lũng sông Lèng. Leo qua mấy trăm bậc đá, du khách bước vào một không gian rộng lớn chia thành nhiều khoang, vòm trần cao vút, nơi hệ thống nhũ đá, măng đá và cột đá hàng triệu năm tuổi rủ xuống, mọc lên tạo thành muôn hình kỳ ảo. Nhờ được lắp đặt hệ thống đèn chiếu sáng nghệ thuật, các khối thạch nhũ ánh lên nhiều sắc màu huyền diệu, gợi liên tưởng tới hình Phật, tiên nữ, rừng cây hay thác nước hóa đá. Động gắn với truyền thuyết về đoàn quân xưa và tục tế lễ 'hạ mã' (xuống ngựa) khi đi qua, nên còn được xem là chốn linh thiêng. Với vẻ đẹp tráng lệ, mát mẻ và dễ tiếp cận, Động Hua Mạ là điểm tham quan hấp dẫn thường được kết hợp cùng hành trình khám phá hồ Ba Bể, mang đến cho du khách trải nghiệm về vẻ đẹp ngầm dưới lòng núi vùng Đông Bắc.",
+    "presentation_long_en": "Hua Ma Cave, also called Len Ha Ma, lies midway up Lonely Mountain in Quang Khe commune, not far from Ba Be Lake. It is one of the finest and grandest dry limestone caves in the region, its tall, wide mouth looking out over the Leng River valley. After climbing a few hundred stone steps, visitors enter a vast space divided into several chambers with soaring ceilings, where stalactites, stalagmites and columns millions of years old hang and rise into countless fantastical shapes. Thanks to artful lighting, the formations glow in magical colours, evoking images of the Buddha, fairies, forests or petrified waterfalls. The cave is tied to a legend of an ancient army and the custom of dismounting ('ha ma') when passing by, so it is regarded as sacred. Grand, cool and easy to reach, Hua Ma Cave is an appealing sight commonly combined with a Ba Be Lake tour, offering visitors a taste of the underground beauty beneath the mountains of Vietnam's north-east.",
+    "presentation_long_ru": "Пещера Хуама, называемая также Ленхама, находится на середине склона Одинокой горы в общине Куангкхе, недалеко от озера Бабе. Это одна из красивейших и величественных сухих известняковых пещер края; её высокий широкий вход смотрит на долину реки Ленг. Поднявшись по нескольким сотням каменных ступеней, гости входят в огромное пространство, разделённое на несколько залов с высокими сводами, где сталактиты, сталагмиты и колонны, которым миллионы лет, свисают и вырастают, образуя бесчисленные фантастические формы. Благодаря искусной подсветке натёки светятся волшебными красками, напоминая образы Будды, фей, лесов или окаменевших водопадов. Пещера связана с легендой о древнем войске и обычаем спешиваться («хама») при проезде мимо, поэтому считается священной. Величественная, прохладная и легкодоступная, Хуама — привлекательная достопримечательность, которую обычно совмещают с осмотром озера Бабе.",
+    "highlights_vi": [
+      "Động khô lớn, đẹp bậc nhất vùng Ba Bể trên núi Cô Đơn",
+      "Thạch nhũ kỳ vĩ được chiếu sáng nghệ thuật lung linh",
+      "Gắn truyền thuyết 'hạ mã', được xem là chốn linh thiêng"
+    ],
+    "highlights_en": [
+      "One of the largest, finest dry caves near Ba Be, on Lonely Mountain",
+      "Majestic stalactites lit with artful, colourful lighting",
+      "Tied to the 'dismount' legend and revered as sacred"
+    ],
+    "highlights_ru": [
+      "Одна из крупнейших сухих пещер района Бабе на Одинокой горе",
+      "Величественные сталактиты в искусной цветной подсветке",
+      "Связана с легендой «спешивания», почитается как священная"
+    ],
+    "practical": {
+      "hours_vi": "Khoảng 7h00–17h00 hằng ngày.",
+      "ticket_vi": "Vé tham quan khoảng 30.000–40.000đ.",
+      "duration_vi": "Khoảng 45–60 phút.",
+      "best_time_vi": "Quanh năm; kết hợp khi tham quan hồ Ba Bể.",
+      "tips_vi": "Đi giày thoải mái để leo bậc; mang nước; theo lối đi có đèn, không sờ vào nhũ đá."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Hua%20Ma%20Cave%2C%20Thai%20Nguyen%2C%20Vietnam&ll=105.6558,22.3639&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Hua%20Ma%20Cave%2C%20Thai%20Nguyen%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Cổng thông tin du lịch — Động Hua Mạ, Ba Bể",
+        "url": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_Ba_B%E1%BB%83"
+      }
+    ],
+    "tags": [
+      "nature",
+      "cave",
+      "heritage",
+      "outdoor",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-thai-nguyen-thac-na-khoang",
+    "slug": "thac-na-khoang",
+    "region": "vn-thai-nguyen",
+    "country": "vietnam",
+    "region_name_vi": "Thái Nguyên",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Thác Nà Khoang",
+    "name_ru": "Водопад Накхоанг",
+    "name_en": "Na Khoang Waterfall",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 22.4253,
+      "lon": 105.9836
+    },
+    "address_vi": "Ven Quốc lộ 3, xã Ngân Sơn (huyện Ngân Sơn cũ), tỉnh Thái Nguyên",
+    "rating": {
+      "value": 4.2,
+      "count": 350,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách khen thác dễ đến, nước mát và cảnh rừng đẹp; nhiều nhóm chọn cắm trại, dã ngoại cuối tuần vào mùa hè.",
+    "presentation_short_vi": "Thác Nà Khoang là thác nước nhiều tầng nằm ngay bên Quốc lộ 3 ở vùng Ngân Sơn, giữa rừng núi mát mẻ. Nhờ dễ tiếp cận, nơi đây là điểm dừng chân, cắm trại và tắm mát được ưa chuộng trên hành trình lên Cao Bằng.",
+    "presentation_short_en": "Na Khoang Waterfall is a multi-tiered cascade beside National Highway 3 in the Ngan Son area, set amid cool forested mountains. Easily reached, it is a popular rest, camping and bathing spot on the way to Cao Bang.",
+    "presentation_short_ru": "Водопад Накхоанг — многоступенчатый каскад у шоссе № 3 в районе Нганшон, среди прохладных лесистых гор. Благодаря доступности это популярное место отдыха, кемпинга и купания по пути в Каобанг.",
+    "presentation_long_vi": "Nằm ngay ven Quốc lộ 3 thuộc vùng Ngân Sơn, nơi có khí hậu mát mẻ quanh năm, Thác Nà Khoang là một điểm đến ngày càng được yêu thích nhờ vẻ đẹp tự nhiên và sự thuận tiện. Thác được tạo thành từ hai dòng suối Nà Đtaị và Bản Mạch hợp lại, đổ xuống qua nhiều tầng đá lớn nhỏ giữa khu rừng xanh mát, tạo nên chuỗi thác trải dài với những hồ nước trong vắt bên dưới. Từ chỗ gửi xe, du khách chỉ cần đi bộ một quãng ngắn men theo lối mòn và cầu treo nhỏ là tới chân thác, nên nơi đây phù hợp cho cả gia đình có trẻ nhỏ và người lớn tuổi. Vào mùa hè, dòng nước mát lạnh cùng bóng cây rợp mát biến Nà Khoang thành nơi lý tưởng để tắm suối, cắm trại, dã ngoại và tránh nóng. Cảnh quan rừng núi Ngân Sơn hoang sơ, không khí trong lành và tiếng nước reo suốt ngày đêm mang lại cảm giác thư thái dễ chịu. Là điểm dừng chân quen thuộc trên cung đường nối Thái Nguyên với Cao Bằng, Thác Nà Khoang giúp du khách nghỉ ngơi, nạp lại năng lượng giữa hành trình khám phá vùng núi Đông Bắc.",
+    "presentation_long_en": "Right beside National Highway 3 in the Ngan Son area, which enjoys cool weather all year, Na Khoang Waterfall is an increasingly loved destination for its natural beauty and convenience. The falls are formed where two streams meet and pour down over many tiers of boulders through cool green forest, creating a long chain of cascades with clear pools below. From the car park it is only a short walk along a trail and a small suspension bridge to the foot of the falls, so the site suits families with children and older visitors alike. In summer the cold water and shady trees make Na Khoang an ideal place to bathe, camp, picnic and escape the heat. The wild forest scenery of Ngan Son, the fresh air and the sound of running water day and night bring a pleasant sense of ease. A familiar stop on the road linking Thai Nguyen with Cao Bang, Na Khoang Waterfall lets travellers rest and recharge in the middle of a journey through the north-eastern mountains.",
+    "presentation_long_ru": "Прямо у шоссе № 3 в районе Нганшон, где круглый год прохладно, водопад Накхоанг становится всё более любимым благодаря природной красоте и удобству. Водопад образуется при слиянии двух ручьёв и обрушивается многими ступенями по валунам сквозь прохладный зелёный лес, создавая длинную цепь каскадов с чистыми заводями внизу. От парковки до подножия водопада ведёт лишь короткая тропа с небольшим подвесным мостом, поэтому место подходит и семьям с детьми, и пожилым гостям. Летом холодная вода и тенистые деревья делают Накхоанг идеальным местом для купания, кемпинга, пикника и спасения от жары. Дикая лесная природа Нганшона, свежий воздух и шум воды днём и ночью дарят приятное чувство покоя. Привычная остановка на дороге, связывающей Тхайнгуен с Каобангом, водопад Накхоанг позволяет путникам отдохнуть и набраться сил посреди путешествия по северо-восточным горам.",
+    "highlights_vi": [
+      "Thác nhiều tầng ngay ven Quốc lộ 3, dễ tiếp cận",
+      "Điểm tắm suối, cắm trại, dã ngoại tránh nóng mùa hè",
+      "Dừng chân mát mẻ trên cung đường Thái Nguyên – Cao Bằng"
+    ],
+    "highlights_en": [
+      "A multi-tiered waterfall right by Highway 3, easy to reach",
+      "A summer spot for stream bathing, camping and picnics",
+      "A cool rest stop on the Thai Nguyen–Cao Bang road"
+    ],
+    "highlights_ru": [
+      "Многоступенчатый водопад прямо у шоссе № 3, легко добраться",
+      "Летнее место для купания, кемпинга и пикников",
+      "Прохладная остановка на дороге Тхайнгуен–Каобанг"
+    ],
+    "practical": {
+      "hours_vi": "Ban ngày; đông vào cuối tuần và dịp hè.",
+      "ticket_vi": "Vé/phí gửi xe nhỏ tùy thời điểm; nhiều thời điểm miễn phí.",
+      "duration_vi": "Khoảng 1–2 giờ.",
+      "best_time_vi": "Mùa hè để tắm mát; mùa mưa thác nhiều nước hùng vĩ.",
+      "tips_vi": "Cẩn thận đá trơn; không tắm khi nước lớn sau mưa; mang đồ ăn dã ngoại."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Na%20Khoang%20Waterfall%2C%20Thai%20Nguyen%2C%20Vietnam&ll=105.9836,22.4253&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Na%20Khoang%20Waterfall%2C%20Thai%20Nguyen%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Thác Nà Khoang — Ngân Sơn",
+        "url": "https://vi.wikipedia.org/wiki/Ng%C3%A2n_S%C6%A1n"
+      }
+    ],
+    "tags": [
+      "nature",
+      "waterfall",
+      "outdoor",
+      "family",
+      "daytrip"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-thai-nguyen-dong-nang-tien",
+    "slug": "dong-nang-tien",
+    "region": "vn-thai-nguyen",
+    "country": "vietnam",
+    "region_name_vi": "Thái Nguyên",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Động Nàng Tiên",
+    "name_ru": "Пещера Нангтиен",
+    "name_en": "Nang Tien Cave (Fairy Cave)",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 22.1836,
+      "lon": 106.0247
+    },
+    "address_vi": "Xã Lương Thượng (huyện Na Rì cũ), tỉnh Thái Nguyên",
+    "rating": {
+      "value": 4.3,
+      "count": 260,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách ấn tượng với thạch nhũ đa dạng và không khí mát mẻ; nhiều người thấy hang còn khá hoang sơ, nên mang đèn để khám phá.",
+    "presentation_short_vi": "Động Nàng Tiên là hang động đá vôi đẹp nằm ở vùng Na Rì, với nhiều khối thạch nhũ lấp lánh và một dòng suối ngầm trong mát. Hang gắn với truyền thuyết các nàng tiên và là danh thắng cấp quốc gia.",
+    "presentation_short_en": "Nang Tien (Fairy) Cave is a beautiful limestone cave in the Na Ri area, filled with glittering stalactites and a cool underground stream. Linked to a legend of fairies, it is a nationally ranked scenic site.",
+    "presentation_short_ru": "Пещера Нангтиен (Феи) — красивая известняковая пещера в районе Нари с блестящими сталактитами и прохладным подземным ручьём. Связанная с легендой о феях, она внесена в список национальных достопримечательностей.",
+    "presentation_long_vi": "Ẩn mình trong lòng một ngọn núi đá vôi ở vùng Na Rì, Động Nàng Tiên là một trong những hang động đẹp và nổi tiếng nhất của khu vực Bắc Kạn cũ, đã được xếp hạng danh lam thắng cảnh cấp quốc gia. Cửa động rộng mở đón du khách vào một không gian rộng lớn, nơi ánh sáng lọt qua khe đá chiếu lên vô số khối thạch nhũ đủ hình thù kỳ lạ, lấp lánh như được dát bạc. Càng đi sâu, du khách càng bắt gặp những nhũ đá tạo hình sinh động mà trí tưởng tượng dân gian gọi tên thành hình tiên nữ, buồng tắm, giếng tiên… gắn với truyền thuyết kể rằng xưa kia các nàng tiên thường xuống đây dạo chơi, tắm mát. Trong hang còn có một dòng suối ngầm nước trong vắt, mát lạnh chảy quanh năm, càng tăng thêm vẻ huyền ảo. Không khí bên trong động mát dịu, tĩnh lặng, tương phản với cái nắng bên ngoài. Với vẻ đẹp nguyên sơ, những câu chuyện truyền thuyết ly kỳ và giá trị địa chất đặc sắc, Động Nàng Tiên là điểm đến hấp dẫn cho những ai muốn khám phá vẻ đẹp kỳ bí của thiên nhiên vùng núi đá vôi Đông Bắc.",
+    "presentation_long_en": "Hidden inside a limestone mountain in the Na Ri area, Nang Tien Cave is one of the most beautiful and famous caves of the former Bac Kan region and is ranked as a national scenic landscape. Its wide mouth opens into a spacious chamber where light filtering through crevices strikes countless stalactites in strange shapes, glittering as if silvered. Deeper in, visitors meet formations so lifelike that folk imagination has named them after fairy maidens, a bathing chamber and a fairy well, all tied to a legend that fairies once came here to play and bathe. A crystal-clear underground stream, cold and flowing all year, winds through the cave and adds to its magical air. Inside, the atmosphere is cool and hushed, in sharp contrast to the sunshine outside. With its pristine beauty, captivating legends and remarkable geological value, Nang Tien Cave is an appealing destination for anyone wishing to explore the mysterious natural beauty of the north-east's limestone country.",
+    "presentation_long_ru": "Скрытая внутри известняковой горы в районе Нари, пещера Нангтиен — одна из красивейших и известнейших пещер бывшего края Баккан, внесённая в список национальных живописных ландшафтов. Её широкий вход открывается в просторный зал, где свет, проникающий сквозь щели, падает на бесчисленные сталактиты причудливых форм, блестящие словно посеребрённые. Углубляясь, гости встречают образования настолько живые, что народное воображение назвало их феями, купальней и колодцем феи, связав с легендой о феях, некогда приходивших сюда играть и купаться. Кристально чистый подземный ручей, холодный и текущий круглый год, вьётся по пещере, усиливая её волшебство. Внутри прохладно и тихо, в резком контрасте с солнцем снаружи. С первозданной красотой, увлекательными легендами и замечательной геологической ценностью пещера Нангтиен — привлекательная цель для всех, кто хочет исследовать таинственную природную красоту известнякового края северо-востока.",
+    "highlights_vi": [
+      "Hang đá vôi đẹp với thạch nhũ lấp lánh, xếp hạng danh thắng quốc gia",
+      "Gắn truyền thuyết tiên nữ: buồng tắm, giếng tiên trong hang",
+      "Có suối ngầm nước trong mát chảy quanh năm"
+    ],
+    "highlights_en": [
+      "A beautiful limestone cave of glittering stalactites, a national scenic site",
+      "Tied to a fairy legend with a bathing chamber and fairy well",
+      "A clear, cool underground stream flows all year"
+    ],
+    "highlights_ru": [
+      "Красивая известняковая пещера со сверкающими сталактитами, национальный памятник",
+      "Связана с легендой о феях: купальня и колодец феи",
+      "Прохладный подземный ручей течёт круглый год"
+    ],
+    "practical": {
+      "hours_vi": "Ban ngày; nên đi cùng người địa phương hoặc hướng dẫn.",
+      "ticket_vi": "Vé/phí nhỏ hoặc miễn phí tùy thời điểm.",
+      "duration_vi": "Khoảng 1–1,5 giờ.",
+      "best_time_vi": "Mùa khô để đường vào và trong hang khô ráo.",
+      "tips_vi": "Mang đèn pin, giày bám tốt; đi theo nhóm; cẩn thận nền hang trơn."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Nang%20Tien%20Cave%2C%20Thai%20Nguyen%2C%20Vietnam&ll=106.0247,22.1836&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Nang%20Tien%20Cave%2C%20Thai%20Nguyen%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Động Nàng Tiên — Na Rì",
+        "url": "https://vi.wikipedia.org/wiki/Na_R%C3%AC"
+      }
+    ],
+    "tags": [
+      "nature",
+      "cave",
+      "legend",
+      "outdoor"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-thai-nguyen-atk-cho-don",
+    "slug": "atk-cho-don",
+    "region": "vn-thai-nguyen",
+    "country": "vietnam",
+    "region_name_vi": "Thái Nguyên",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Khu di tích ATK Chợ Đồn",
+    "name_ru": "Историческая база АТК Тёдон",
+    "name_en": "ATK Cho Don Historical Site",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 22.1667,
+      "lon": 105.55
+    },
+    "address_vi": "Các xã Bình Trung, Nghĩa Tá, Lương Bằng (huyện Chợ Đồn cũ), tỉnh Thái Nguyên",
+    "rating": {
+      "value": 4.5,
+      "count": 220,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Khách tham quan xúc động trước sự đơn sơ của các lán trại và ý nghĩa lịch sử; nhiều đoàn học sinh, cựu chiến binh về nguồn.",
+    "presentation_short_vi": "ATK Chợ Đồn là khu An toàn khu cách mạng, nơi Chủ tịch Hồ Chí Minh và các lãnh đạo từng sống, làm việc trong kháng chiến chống Pháp. Cụm di tích gồm nhiều điểm như Bản Ca, Nà Pậu, Khuổi Linh giữa rừng núi Chợ Đồn.",
+    "presentation_short_en": "ATK Cho Don is a revolutionary safe zone where President Ho Chi Minh and other leaders lived and worked during the resistance against France. The complex includes sites such as Ban Ca, Na Pau and Khuoi Linh amid the forests of Cho Don.",
+    "presentation_short_ru": "АТК Тёдон — революционная безопасная зона, где президент Хо Ши Мин и другие руководители жили и работали во время войны сопротивления Франции. Комплекс включает памятные места Банка, Напау и Кхуойлинь среди лесов Тёдона.",
+    "presentation_long_vi": "Cùng với ATK Định Hóa (Thái Nguyên) và Tân Trào (Tuyên Quang), ATK Chợ Đồn là một mắt xích quan trọng trong hệ thống An toàn khu — căn cứ địa cách mạng của Trung ương trong kháng chiến chống thực dân Pháp. Nằm giữa vùng rừng núi hiểm trở của Chợ Đồn, nơi đây từng che chở Chủ tịch Hồ Chí Minh cùng nhiều nhà lãnh đạo và cơ quan đầu não trong những năm 1947–1952. Cụm di tích trải rộng qua nhiều xã, gồm các điểm tiêu biểu như Bản Ca — nơi Bác Hồ ở cuối năm 1947, Nà Pậu, Khuổi Linh — nơi làm việc của các đồng chí lãnh đạo và cơ quan Trung ương. Đến với ATK Chợ Đồn, du khách không chỉ tham quan những lán trại, nền nhà, di vật đơn sơ giữa rừng mà còn cảm nhận sâu sắc tinh thần kháng chiến gian khổ nhưng kiên cường của cả dân tộc. Xen giữa các điểm di tích là cảnh sắc núi rừng xanh mát, bản làng người Tày yên bình, tạo nên một hành trình vừa tưởng niệm lịch sử vừa gần gũi thiên nhiên. Đây là địa chỉ đỏ giáo dục truyền thống được nhiều đoàn khách và học sinh, sinh viên tìm về.",
+    "presentation_long_en": "Together with ATK Dinh Hoa in Thai Nguyen and Tan Trao in Tuyen Quang, ATK Cho Don was a vital link in the network of safe zones that served as the central revolutionary base during the resistance against French colonialism. Set amid the rugged forested mountains of Cho Don, it sheltered President Ho Chi Minh and many leaders and headquarters offices in the years 1947 to 1952. The complex spreads across several communes and includes notable spots such as Ban Ca, where Ho Chi Minh stayed in late 1947, together with Na Pau and Khuoi Linh, where central leaders and offices worked. Visiting ATK Cho Don, travellers not only see the simple huts, house foundations and relics scattered through the forest but also gain a deep sense of the hard yet steadfast spirit of the whole nation's resistance. Between the historical sites lie cool green mountains and peaceful Tay villages, making a journey that both commemorates history and draws close to nature. It is a cherished site of patriotic education visited by many groups, pupils and students.",
+    "presentation_long_ru": "Вместе с АТК Диньхоа в Тхайнгуене и Тантрао в Туенкуанге АТК Тёдон был важнейшим звеном сети безопасных зон, служивших центральной революционной базой во время борьбы против французского колониализма. Расположенный среди суровых лесистых гор Тёдона, он укрывал президента Хо Ши Мина и многих руководителей и штабные учреждения в 1947–1952 годах. Комплекс простирается через несколько общин и включает такие места, как Банка, где Хо Ши Мин жил в конце 1947 года, а также Напау и Кхуойлинь, где работали центральные руководители и учреждения. Посещая АТК Тёдон, путники видят не только простые хижины, фундаменты домов и реликвии, разбросанные по лесу, но и глубоко ощущают тяжёлый, но стойкий дух общенационального сопротивления. Между памятными местами лежат прохладные зелёные горы и мирные деревни тай, создавая маршрут, что и чтит историю, и сближает с природой. Это дорогое сердцу место патриотического воспитания, куда приезжают многие группы, школьники и студенты.",
+    "highlights_vi": [
+      "An toàn khu cách mạng gắn với Chủ tịch Hồ Chí Minh (1947–1952)",
+      "Gồm nhiều điểm: Bản Ca, Nà Pậu, Khuổi Linh giữa rừng Chợ Đồn",
+      "Địa chỉ đỏ giáo dục truyền thống, kết hợp cảnh núi rừng, bản Tày"
+    ],
+    "highlights_en": [
+      "A revolutionary safe zone linked to President Ho Chi Minh (1947–1952)",
+      "Includes Ban Ca, Na Pau and Khuoi Linh amid Cho Don's forests",
+      "A patriotic education site blending mountains and Tay villages"
+    ],
+    "highlights_ru": [
+      "Революционная безопасная зона, связанная с Хо Ши Мином (1947–1952)",
+      "Включает Банка, Напау и Кхуойлинь среди лесов Тёдона",
+      "Место патриотического воспитания среди гор и деревень тай"
+    ],
+    "practical": {
+      "hours_vi": "Ban ngày; nên liên hệ ban quản lý để có thuyết minh.",
+      "ticket_vi": "Thường miễn phí hoặc phí nhỏ.",
+      "duration_vi": "Khoảng 2–3 giờ nếu đi nhiều điểm.",
+      "best_time_vi": "Quanh năm; đẹp và mát vào mùa thu, dịp lễ lớn.",
+      "tips_vi": "Các điểm cách xa nhau nên chủ động phương tiện; ăn mặc trang nghiêm."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=ATK%20Cho%20Don%20Historical%20Site%2C%20Thai%20Nguyen%2C%20Vietnam&ll=105.55,22.1667&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=ATK%20Cho%20Don%20Historical%20Site%2C%20Thai%20Nguyen%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "ATK Chợ Đồn — Di tích quốc gia",
+        "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_%C4%90%E1%BB%93n"
+      }
+    ],
+    "tags": [
+      "history",
+      "revolution",
+      "memorial",
+      "outdoor"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-thai-nguyen-di-tich-na-tu",
+    "slug": "di-tich-na-tu",
+    "region": "vn-thai-nguyen",
+    "country": "vietnam",
+    "region_name_vi": "Thái Nguyên",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Di tích lịch sử Nà Tu",
+    "name_ru": "Историческое место Нату",
+    "name_en": "Na Tu Historical Site",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 22.245,
+      "lon": 105.83
+    },
+    "address_vi": "Xã Cẩm Giàng (huyện Bạch Thông cũ), ven Quốc lộ 3, tỉnh Thái Nguyên",
+    "rating": {
+      "value": 4.5,
+      "count": 180,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Khách tham quan thấy ý nghĩa giáo dục sâu sắc, nhất là với thanh niên; khuôn viên được chăm sóc, có nhà bia và tượng đài.",
+    "presentation_short_vi": "Nà Tu là nơi năm 1951 Chủ tịch Hồ Chí Minh đến thăm đơn vị thanh niên xung phong và tặng bốn câu thơ nổi tiếng 'Không có việc gì khó...'. Di tích quốc gia này là địa chỉ giáo dục truyền thống cho tuổi trẻ.",
+    "presentation_short_en": "Na Tu is where, in 1951, President Ho Chi Minh visited a youth volunteer unit and gave the famous four-line verse beginning 'Nothing is difficult...'. This national relic is a site of patriotic education for young people.",
+    "presentation_short_ru": "Нату — место, где в 1951 году президент Хо Ши Мин посетил отряд молодёжных добровольцев и подарил знаменитое четверостишие, начинающееся словами «Нет ничего трудного...». Этот национальный памятник — место патриотического воспитания молодёжи.",
+    "presentation_long_vi": "Nằm ven Quốc lộ 3 thuộc xã Cẩm Giàng, Di tích lịch sử Nà Tu gắn với một sự kiện và bốn câu thơ đã đi vào lịch sử của tuổi trẻ Việt Nam. Ngày 28 tháng 3 năm 1951, trên đường công tác, Chủ tịch Hồ Chí Minh đã đến thăm Liên phân đội Thanh niên xung phong 312 đang làm nhiệm vụ bảo đảm giao thông tại đây. Trước tinh thần lao động hăng say của lực lượng thanh niên xung phong, Bác đã ân cần dặn dò và tặng bốn câu thơ nổi tiếng: 'Không có việc gì khó / Chỉ sợ lòng không bền / Đào núi và lấp biển / Quyết chí ắt làm nên'. Những vần thơ mộc mạc mà thấm thía ấy từ đó trở thành phương châm sống, thành nguồn động viên cho biết bao thế hệ thanh niên. Ngày nay, khu di tích được tôn tạo với nhà bia, tượng đài và khuôn viên cây xanh, trở thành 'địa chỉ đỏ' để các đoàn thanh niên, học sinh, sinh viên về nguồn, tổ chức lễ kết nạp, sinh hoạt truyền thống. Đến Nà Tu, du khách vừa hiểu thêm về một trang sử kháng chiến, vừa cảm nhận sức sống bền bỉ của lý tưởng và niềm tin mà Bác Hồ đã gửi gắm cho tuổi trẻ.",
+    "presentation_long_en": "On National Highway 3 in Cam Giang commune, the Na Tu Historical Site is bound to an event and four lines of verse that have entered the history of Vietnam's youth. On 28 March 1951, while travelling on duty, President Ho Chi Minh visited Youth Volunteer Unit 312, which was keeping the road open here. Moved by the young volunteers' zeal, he offered gentle advice and the famous quatrain: 'Nothing is difficult / Only fear a wavering heart / To dig up mountains and fill in seas / With resolve you will surely succeed.' Those plain yet profound lines became a motto and a source of encouragement for generations of young people. Today the site has been restored with a stele house, a monument and green grounds, becoming a cherished place where youth groups, pupils and students come to hold membership ceremonies and traditional gatherings. Visiting Na Tu, travellers learn about a chapter of the resistance while feeling the enduring vitality of the ideals and faith that Ho Chi Minh entrusted to the young.",
+    "presentation_long_ru": "На шоссе № 3 в общине Камзянг историческое место Нату связано с событием и четверостишием, вошедшими в историю вьетнамской молодёжи. 28 марта 1951 года по пути по служебным делам президент Хо Ши Мин посетил отряд молодёжных добровольцев № 312, обеспечивавший здесь движение по дороге. Тронутый рвением молодых добровольцев, он дал наставления и подарил знаменитое четверостишие: «Нет ничего трудного / Страшно лишь непостоянство сердца / Срыть горы и засыпать моря / С решимостью непременно добьёшься». Эти простые, но глубокие строки стали жизненным девизом и источником вдохновения для поколений молодёжи. Сегодня место восстановлено: здесь павильон со стелой, памятник и зелёная территория, и оно стало дорогим местом, куда молодёжные группы, школьники и студенты приезжают для церемоний приёма и традиционных встреч. Посещая Нату, путники узнают о странице сопротивления и ощущают живую силу идеалов и веры, которые Хо Ши Мин завещал молодым.",
+    "highlights_vi": [
+      "Nơi Bác Hồ tặng bốn câu thơ 'Không có việc gì khó...' (28/3/1951)",
+      "Gắn với lực lượng Thanh niên xung phong; di tích quốc gia",
+      "Địa chỉ đỏ để tuổi trẻ về nguồn, sinh hoạt truyền thống"
+    ],
+    "highlights_en": [
+      "Where Ho Chi Minh gave the verse 'Nothing is difficult...' (28 Mar 1951)",
+      "Linked to the Youth Volunteers; a national relic",
+      "A patriotic site for youth ceremonies and gatherings"
+    ],
+    "highlights_ru": [
+      "Место, где Хо Ши Мин подарил стих «Нет ничего трудного...» (28.03.1951)",
+      "Связано с молодёжными добровольцами; национальный памятник",
+      "Патриотическое место для молодёжных церемоний и встреч"
+    ],
+    "practical": {
+      "hours_vi": "Ban ngày; nằm ngay ven Quốc lộ 3, dễ ghé.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 30–45 phút.",
+      "best_time_vi": "Quanh năm; đông vào các dịp lễ, tháng 3 (kỷ niệm).",
+      "tips_vi": "Ăn mặc trang nghiêm; thích hợp làm điểm dừng khi đi Cao Bằng."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Na%20Tu%20Historical%20Site%2C%20Thai%20Nguyen%2C%20Vietnam&ll=105.83,22.245&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Na%20Tu%20Historical%20Site%2C%20Thai%20Nguyen%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Di tích Nà Tu — Bạch Thông",
+        "url": "https://vi.wikipedia.org/wiki/B%E1%BA%A1ch_Th%C3%B4ng"
+      }
+    ],
+    "tags": [
+      "history",
+      "memorial",
+      "youth",
+      "roadside"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-thai-nguyen-chua-thach-long",
+    "slug": "chua-thach-long",
+    "region": "vn-thai-nguyen",
+    "country": "vietnam",
+    "region_name_vi": "Thái Nguyên",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Chùa Thạch Long",
+    "name_ru": "Пещерный храм Тхатьлонг",
+    "name_en": "Thach Long Cave Pagoda",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 21.955,
+      "lon": 105.81
+    },
+    "address_vi": "Xã Cao Kỳ (huyện Chợ Mới cũ), ven Quốc lộ 3, tỉnh Thái Nguyên",
+    "rating": {
+      "value": 4.4,
+      "count": 300,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách thấy chùa trong hang rất độc đáo và mát mẻ; nhiều người ghé lễ Phật, vãn cảnh khi đi qua Quốc lộ 3.",
+    "presentation_short_vi": "Chùa Thạch Long là ngôi chùa nằm trong hang đá tự nhiên bên Quốc lộ 3, độc đáo với 'chùa trên' và 'chùa dưới' trong lòng núi. Nơi đây vừa là điểm tâm linh, vừa từng là cơ sở cách mạng thời kháng chiến.",
+    "presentation_short_en": "Thach Long is a pagoda set inside a natural stone cave beside National Highway 3, unusual for its 'upper' and 'lower' shrines within the mountain. It is both a spiritual site and a former revolutionary base.",
+    "presentation_short_ru": "Тхатьлонг — храм, устроенный в природной каменной пещере у шоссе № 3, необычный своими «верхним» и «нижним» святилищами внутри горы. Это и духовное место, и бывшая революционная база.",
+    "presentation_long_vi": "Tọa lạc ngay ven Quốc lộ 3 thuộc xã Cao Kỳ, Chùa Thạch Long là một ngôi chùa độc đáo được lập trong lòng một hang đá tự nhiên của ngọn núi đá vôi Thạch Long. Tên gọi 'Thạch Long' — rồng đá — gợi hình dáng ngọn núi như một con rồng nằm bên dòng sông Cầu. Điều đặc biệt của chùa là kiến trúc tận dụng hoàn toàn không gian hang động: có 'chùa dưới' nằm ở tầng hang thấp và 'chùa trên' ở tầng hang cao hơn, muốn lên phải leo qua các bậc đá trong lòng núi. Bên trong hang, ánh sáng mờ ảo, những khối thạch nhũ tự nhiên hòa cùng ban thờ, tượng Phật tạo nên không gian vừa linh thiêng vừa huyền bí, mát lạnh quanh năm. Không chỉ là nơi thờ tự lâu đời, hang Thạch Long còn có giá trị lịch sử: trong kháng chiến chống Pháp, nơi đây từng được dùng làm xưởng quân giới và cơ sở cách mạng nhờ địa thế kín đáo. Ngày nay, chùa là điểm dừng chân tâm linh quen thuộc trên cung đường từ Thái Nguyên đi Bắc Kạn, Cao Bằng, thu hút du khách đến vãn cảnh, lễ Phật và khám phá vẻ đẹp kỳ thú của một ngôi chùa trong hang.",
+    "presentation_long_en": "Right beside National Highway 3 in Cao Ky commune, Thach Long Pagoda is an unusual temple built inside a natural cave in the Thach Long limestone mountain. The name Thach Long, or Stone Dragon, evokes the mountain's shape, like a dragon lying beside the Cau River. What makes the pagoda special is that its layout uses the cave space entirely: a 'lower shrine' on a low level and an 'upper shrine' higher up, reached by climbing stone steps within the mountain. Inside, dim light plays over natural stalactites blended with altars and Buddha statues, creating a space at once sacred and mysterious, cool all year round. Beyond being a long-standing place of worship, Thach Long cave also holds historical value: during the resistance against France it served as an arms workshop and revolutionary base thanks to its hidden position. Today the pagoda is a familiar spiritual stop on the road from Thai Nguyen towards Bac Kan and Cao Bang, drawing visitors to admire the scenery, pray and explore the wonder of a temple set within a cave.",
+    "presentation_long_ru": "Прямо у шоссе № 3 в общине Каоки храм Тхатьлонг — необычный храм, устроенный внутри природной пещеры известняковой горы Тхатьлонг. Название Тхатьлонг, или Каменный Дракон, напоминает о форме горы, похожей на дракона, лежащего у реки Кау. Особенность храма в том, что его устройство полностью использует пространство пещеры: «нижнее святилище» на низком уровне и «верхнее святилище» выше, куда поднимаются по каменным ступеням внутри горы. Внутри тусклый свет играет на природных сталактитах, слитых с алтарями и статуями Будды, создавая пространство одновременно священное и таинственное, прохладное круглый год. Помимо давнего места поклонения, пещера Тхатьлонг имеет и историческую ценность: во время борьбы с Францией она служила оружейной мастерской и революционной базой благодаря скрытому расположению. Сегодня храм — привычная духовная остановка на дороге из Тхайнгуена к Баккану и Каобангу, привлекающая гостей полюбоваться пейзажем, помолиться и открыть чудо храма внутри пещеры.",
+    "highlights_vi": [
+      "Chùa nằm trong hang đá tự nhiên, có 'chùa trên' và 'chùa dưới'",
+      "Núi đá hình rồng bên sông Cầu, không gian mát lạnh, huyền bí",
+      "Từng là xưởng quân giới, cơ sở cách mạng thời kháng chiến"
+    ],
+    "highlights_en": [
+      "A pagoda inside a natural cave, with 'upper' and 'lower' shrines",
+      "A dragon-shaped rock by the Cau River, cool and mysterious",
+      "Once an arms workshop and revolutionary base in wartime"
+    ],
+    "highlights_ru": [
+      "Храм внутри природной пещеры с «верхним» и «нижним» святилищами",
+      "Скала в форме дракона у реки Кау, прохладная и таинственная",
+      "Служил оружейной мастерской и революционной базой в войну"
+    ],
+    "practical": {
+      "hours_vi": "Ban ngày; đông vào ngày rằm, mùng một và dịp đầu xuân.",
+      "ticket_vi": "Miễn phí; công đức tùy tâm.",
+      "duration_vi": "Khoảng 45–60 phút.",
+      "best_time_vi": "Đầu xuân đi lễ; quanh năm đều mát trong hang.",
+      "tips_vi": "Đi lại cẩn thận trên bậc đá trơn; mang đèn nếu vào sâu; ăn mặc lịch sự."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Thach%20Long%20Cave%20Pagoda%2C%20Thai%20Nguyen%2C%20Vietnam&ll=105.81,21.955&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Thach%20Long%20Cave%20Pagoda%2C%20Thai%20Nguyen%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Chùa Thạch Long — Chợ Mới",
+        "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_M%E1%BB%9Bi,_B%E1%BA%AFc_K%E1%BA%A1n"
+      }
+    ],
+    "tags": [
+      "culture",
+      "temple",
+      "cave",
+      "history",
+      "roadside"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-thai-nguyen-hang-phuong-hoang",
+    "slug": "hang-phuong-hoang",
+    "region": "vn-thai-nguyen",
+    "country": "vietnam",
+    "region_name_vi": "Thái Nguyên",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Hang Phượng Hoàng – Suối Mỏ Gà",
+    "name_ru": "Пещера Фыонгхоанг и ручей Мога",
+    "name_en": "Phuong Hoang Cave & Mo Ga Stream",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 21.766,
+      "lon": 106.033
+    },
+    "address_vi": "Xã Phú Thượng (huyện Võ Nhai cũ), ven Quốc lộ 1B, cách TP Thái Nguyên ~45 km, tỉnh Thái Nguyên",
+    "rating": {
+      "value": 4.3,
+      "count": 1200,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách khen sự kết hợp leo hang và tắm suối; một số lưu ý đường lên hang khá dốc, nên mang giày tốt và nước uống.",
+    "presentation_short_vi": "Hang Phượng Hoàng là hang động đẹp trên núi ở Võ Nhai, dưới chân núi là Suối Mỏ Gà chảy ra từ lòng hang. Được xếp hạng danh thắng quốc gia, đây là khu du lịch sinh thái nổi tiếng bậc nhất Thái Nguyên.",
+    "presentation_short_en": "Phuong Hoang (Phoenix) Cave is a beautiful mountain cave in Vo Nhai, with the Mo Ga Stream flowing out from its base. A nationally ranked scenic site, it is one of Thai Nguyen's most famous eco-tourism spots.",
+    "presentation_short_ru": "Пещера Фыонгхоанг (Феникс) — красивая горная пещера в Воняне, у подножия которой из недр вытекает ручей Мога. Национальный памятник и одно из известнейших мест экотуризма Тхайнгуена.",
+    "presentation_long_vi": "Cách thành phố Thái Nguyên khoảng 45 km về phía đông bắc, khu danh thắng Hang Phượng Hoàng – Suối Mỏ Gà thuộc xã Phú Thượng, huyện Võ Nhai cũ, là một trong những điểm du lịch sinh thái hấp dẫn nhất của tỉnh, đã được xếp hạng di tích danh thắng cấp quốc gia từ năm 1994. Ngọn núi mang tên Phượng Hoàng gắn với truyền thuyết về đôi chim phượng hoàng, trên đỉnh có hang động lớn chia thành ba tầng: tầng thượng là hang Dơi, tầng giữa là hang Sáng đón ánh nắng qua các khe đá, và tầng dưới là hang Tối. Để lên tới cửa hang, du khách phải leo khoảng 700–800 m đường dốc lát đá giữa rừng, mất chừng 45 phút, đổi lại là khung cảnh thạch nhũ kỳ vĩ và tầm nhìn thoáng đãng ra thung lũng. Ngay dưới chân núi, Suối Mỏ Gà chảy ra từ trong lòng hang, tạo thành dòng nước mát trong với một thác nhỏ và những vũng nước lý tưởng để tắm mát, vui chơi. Sự kết hợp giữa hang động trên cao và dòng suối dưới thấp mang đến trải nghiệm đa dạng: vừa leo núi khám phá, vừa nghỉ ngơi bên suối. Đây là điểm đến quen thuộc cho các chuyến dã ngoại, cắm trại cuối tuần của người dân Thái Nguyên và du khách gần xa.",
+    "presentation_long_en": "About 45 km north-east of Thai Nguyen city, the Phuong Hoang Cave and Mo Ga Stream scenic area in Phu Thuong commune, former Vo Nhai district, is one of the province's most appealing eco-tourism sites and has been a nationally ranked scenic relic since 1994. The mountain named Phuong Hoang, or Phoenix, is tied to a legend of a pair of phoenixes; at its top a large cave divides into three levels: the upper Bat Cave, the middle Bright Cave lit through crevices, and the lower Dark Cave. To reach the entrance, visitors climb a stone-paved slope of some 700 to 800 m through forest, about 45 minutes, rewarded by magnificent stalactites and open views over the valley. Right at the foot of the mountain, the Mo Ga Stream flows out from within the cave, forming a cool clear brook with a small waterfall and pools ideal for bathing and play. The pairing of a cave high above and a stream below offers a varied experience: climbing and exploring, then relaxing by the water. It is a familiar destination for weekend picnics and camping trips for the people of Thai Nguyen and visitors from afar.",
+    "presentation_long_ru": "Примерно в 45 км к северо-востоку от города Тхайнгуен живописная зона пещеры Фыонгхоанг и ручья Мога в общине Фытхыонг бывшего района Вонянь — одно из самых привлекательных мест экотуризма провинции и национальный памятник с 1994 года. Гора по имени Фыонгхоанг, или Феникс, связана с легендой о паре фениксов; на её вершине большая пещера делится на три яруса: верхний — Пещера Летучих Мышей, средний — Светлая пещера, освещённая сквозь щели, и нижний — Тёмная пещера. Чтобы добраться до входа, гости поднимаются по мощёному склону около 700–800 м через лес, примерно 45 минут, и вознаграждаются великолепными сталактитами и открытым видом на долину. У самого подножия горы ручей Мога вытекает из недр пещеры, образуя прохладный прозрачный поток с небольшим водопадом и заводями, идеальными для купания и игр. Сочетание пещеры наверху и ручья внизу дарит разнообразные впечатления: подъём и исследование, затем отдых у воды. Это привычное место для пикников и кемпинга выходного дня жителей Тхайнгуена и приезжих.",
+    "highlights_vi": [
+      "Hang lớn 3 tầng trên núi Phượng Hoàng, danh thắng quốc gia (1994)",
+      "Suối Mỏ Gà chảy ra từ lòng hang, có thác nhỏ để tắm mát",
+      "Leo ~700–800 m đường đá; kết hợp khám phá hang và nghỉ bên suối"
+    ],
+    "highlights_en": [
+      "A three-level cave on Phoenix Mountain, a national scenic site (1994)",
+      "The Mo Ga Stream flows from the cave with a small waterfall to bathe",
+      "A 700–800 m stone climb; cave exploring plus streamside rest"
+    ],
+    "highlights_ru": [
+      "Трёхъярусная пещера на горе Феникс, национальный памятник (1994)",
+      "Ручей Мога вытекает из пещеры, с водопадом для купания",
+      "Подъём 700–800 м по камню; пещера и отдых у ручья"
+    ],
+    "practical": {
+      "hours_vi": "Ban ngày; đông vào cuối tuần và mùa hè.",
+      "ticket_vi": "Vé tham quan tham khảo khoảng 20.000–40.000 VND; gửi xe tính riêng.",
+      "duration_vi": "Khoảng 3–4 giờ cho cả hang và suối.",
+      "best_time_vi": "Mùa hè để tắm suối; ngày khô ráo để leo hang an toàn.",
+      "tips_vi": "Mang giày bám tốt, đèn pin, nước uống; cẩn thận đá trơn khi leo và khi tắm suối."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Phuong%20Hoang%20Cave%20%26%20Mo%20Ga%20Stream%2C%20Thai%20Nguyen%2C%20Vietnam&ll=106.033,21.766&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Phuong%20Hoang%20Cave%20%26%20Mo%20Ga%20Stream%2C%20Thai%20Nguyen%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Hang Phượng Hoàng – Suối Mỏ Gà (Wikipedia)",
+        "url": "https://vi.wikipedia.org/wiki/Hang_Ph%C6%B0%E1%BB%A3ng_Ho%C3%A0ng_-_su%E1%BB%91i_M%E1%BB%8F_G%C3%A0"
+      }
+    ],
+    "tags": [
+      "nature",
+      "cave",
+      "stream",
+      "hiking",
+      "family",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-thai-nguyen-bao-tang-van-hoa-dan-toc",
+    "slug": "bao-tang-van-hoa-dan-toc",
+    "region": "vn-thai-nguyen",
+    "country": "vietnam",
+    "region_name_vi": "Thái Nguyên",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Bảo tàng Văn hóa các Dân tộc Việt Nam",
+    "name_ru": "Музей культур народов Вьетнама",
+    "name_en": "Museum of Cultures of Vietnam's Ethnic Groups",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 21.5928,
+      "lon": 105.8422
+    },
+    "address_vi": "Đường Đội Cấn, phường Trưng Vương, TP Thái Nguyên, tỉnh Thái Nguyên",
+    "rating": {
+      "value": 4.4,
+      "count": 900,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách đánh giá cao khu ngoài trời tái hiện nhà sàn, nhà rông; nhiều đoàn học sinh tới tham quan, học tập.",
+    "presentation_short_vi": "Đây là bảo tàng quốc gia lớn ở trung tâm TP Thái Nguyên, trưng bày văn hóa của 54 dân tộc Việt Nam. Không gian trong nhà và ngoài trời tái hiện đời sống, trang phục, kiến trúc và phong tục các tộc người.",
+    "presentation_short_en": "This large national museum in central Thai Nguyen city presents the cultures of Vietnam's 54 ethnic groups. Indoor and outdoor spaces recreate the life, costumes, architecture and customs of the country's peoples.",
+    "presentation_short_ru": "Это крупный национальный музей в центре города Тхайнгуен, представляющий культуры 54 народов Вьетнама. Внутренние и открытые площадки воссоздают быт, костюмы, архитектуру и обычаи народов страны.",
+    "presentation_long_vi": "Nằm ngay trung tâm thành phố Thái Nguyên, Bảo tàng Văn hóa các Dân tộc Việt Nam là một trong những bảo tàng quốc gia lớn và giàu giá trị nhất về đề tài dân tộc học. Được thành lập từ năm 1960, bảo tàng tọa lạc trong một tòa nhà kiến trúc đẹp và khuôn viên rộng rãi, lưu giữ hàng chục nghìn hiện vật phản ánh đời sống vật chất và tinh thần của cộng đồng 54 dân tộc anh em. Hệ thống trưng bày trong nhà được sắp xếp theo các nhóm ngôn ngữ – tộc người, giới thiệu trang phục, nhạc cụ, công cụ lao động, đồ thờ cúng cùng những nét đặc trưng về tín ngưỡng, lễ hội. Điểm hấp dẫn riêng của bảo tàng là khu trưng bày ngoài trời rộng lớn, tái hiện những vùng văn hóa tiêu biểu của đất nước — từ nhà sàn, nhà rông đến cảnh sinh hoạt của các dân tộc miền núi phía Bắc, Trường Sơn – Tây Nguyên, đồng bằng và ven biển. Du khách có thể vừa dạo bước trong không gian xanh mát, vừa tìm hiểu về sự đa dạng và phong phú của văn hóa Việt Nam. Đây là điểm đến lý tưởng cho những ai muốn hiểu sâu hơn về bức tranh tộc người của đất nước, đặc biệt phù hợp với các đoàn học sinh, sinh viên và gia đình.",
+    "presentation_long_en": "In the heart of Thai Nguyen city, the Museum of Cultures of Vietnam's Ethnic Groups is one of the country's largest and richest national museums devoted to ethnography. Founded in 1960, it occupies a handsome building with spacious grounds and holds tens of thousands of objects reflecting the material and spiritual life of the community of 54 ethnic groups. The indoor displays are arranged by language and ethnic families, presenting costumes, musical instruments, tools and ritual objects along with distinctive features of belief and festival. A special draw is the large open-air section that recreates the country's representative cultural regions, from stilt houses and communal rong houses to scenes of daily life among the peoples of the northern mountains, the Truong Son and Central Highlands, the deltas and the coast. Visitors can stroll through cool green space while learning about the diversity and richness of Vietnamese culture. It is an ideal destination for anyone wishing to understand the nation's ethnic mosaic more deeply, and is especially suited to school and student groups and families.",
+    "presentation_long_ru": "В сердце города Тхайнгуен Музей культур народов Вьетнама — один из крупнейших и богатейших национальных музеев страны, посвящённых этнографии. Основанный в 1960 году, он занимает красивое здание с просторной территорией и хранит десятки тысяч предметов, отражающих материальную и духовную жизнь сообщества 54 народов. Внутренние экспозиции устроены по языковым и этническим семьям и представляют костюмы, музыкальные инструменты, орудия труда и культовые предметы, а также особенности верований и праздников. Особая изюминка — большая площадка под открытым небом, воссоздающая характерные культурные регионы страны: от свайных и общинных домов ронг до сцен повседневной жизни народов северных гор, Чыонгшона и Центрального нагорья, дельт и побережья. Гости могут прогуляться в прохладной зелени, узнавая о разнообразии и богатстве вьетнамской культуры. Это идеальное место для тех, кто хочет глубже понять этническую мозаику страны, и особенно подходит школьным и студенческим группам и семьям.",
+    "highlights_vi": [
+      "Bảo tàng quốc gia về văn hóa 54 dân tộc Việt Nam (thành lập 1960)",
+      "Trưng bày trong nhà theo nhóm tộc người và khu ngoài trời rộng lớn",
+      "Điểm học tập, trải nghiệm lý tưởng cho học sinh, sinh viên, gia đình"
+    ],
+    "highlights_en": [
+      "A national museum of the cultures of Vietnam's 54 ethnic groups (est. 1960)",
+      "Indoor displays by ethnic family and a large open-air section",
+      "An ideal learning stop for students and families"
+    ],
+    "highlights_ru": [
+      "Национальный музей культур 54 народов Вьетнама (основан в 1960)",
+      "Внутренние экспозиции по народам и большая площадка под открытым небом",
+      "Идеальное место для учёбы школьников, студентов и семей"
+    ],
+    "practical": {
+      "hours_vi": "Thường mở cửa các ngày trong tuần (nghỉ trưa); nên kiểm tra lịch trước.",
+      "ticket_vi": "Vé tham khảo khoảng 20.000–30.000 VND; ưu đãi cho học sinh, sinh viên.",
+      "duration_vi": "Khoảng 1,5–2,5 giờ.",
+      "best_time_vi": "Quanh năm; buổi sáng mát để đi cả khu ngoài trời.",
+      "tips_vi": "Đi giày thoải mái để dạo khu ngoài trời; có thể thuê thuyết minh cho đoàn."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Museum%20of%20Cultures%20of%20Vietnam%27s%20Ethnic%20Groups%2C%20Thai%20Nguyen%2C%20Vietnam&ll=105.8422,21.5928&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Cultures%20of%20Vietnam%27s%20Ethnic%20Groups%2C%20Thai%20Nguyen%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Bảo tàng Văn hóa các Dân tộc Việt Nam (Wikipedia)",
+        "url": "https://vi.wikipedia.org/wiki/B%E1%BA%A3o_t%C3%A0ng_V%C4%83n_h%C3%B3a_c%C3%A1c_d%C3%A2n_t%E1%BB%99c_Vi%E1%BB%87t_Nam"
+      }
+    ],
+    "tags": [
+      "culture",
+      "museum",
+      "indoor",
+      "family",
+      "education"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-thai-nguyen-den-duom",
+    "slug": "den-duom",
+    "region": "vn-thai-nguyen",
+    "country": "vietnam",
+    "region_name_vi": "Thái Nguyên",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Đền Đuổm",
+    "name_ru": "Храм Зуом",
+    "name_en": "Duom Temple",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 21.718,
+      "lon": 105.715
+    },
+    "address_vi": "Xã Động Đạt (huyện Phú Lương cũ), ven Quốc lộ 3, tỉnh Thái Nguyên",
+    "rating": {
+      "value": 4.5,
+      "count": 500,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách thấy đền linh thiêng, cảnh núi đẹp; dịp lễ hội rất đông, nên đi sớm và giữ trật tự.",
+    "presentation_short_vi": "Đền Đuổm là ngôi đền cổ dưới chân núi Đuổm, thờ danh tướng Dương Tự Minh thời Lý. Lễ hội đền Đuổm đầu xuân là một trong những lễ hội lớn và lâu đời nhất của Thái Nguyên.",
+    "presentation_short_en": "Duom Temple is an ancient shrine at the foot of Duom Mountain, dedicated to the Ly-dynasty general Duong Tu Minh. Its spring festival is one of the largest and oldest in Thai Nguyen.",
+    "presentation_short_ru": "Храм Зуом — древнее святилище у подножия горы Зуом, посвящённое полководцу династии Ли Зыонг Ты Миню. Его весенний праздник — один из крупнейших и старейших в Тхайнгуене.",
+    "presentation_long_vi": "Nằm nép mình dưới chân dãy núi Đuổm với những vách đá vôi dựng đứng bên Quốc lộ 3, Đền Đuổm là một trong những ngôi đền cổ kính và linh thiêng nhất của Thái Nguyên. Đền được lập từ thời Lý để thờ Dương Tự Minh — vị thủ lĩnh người Tày tài giỏi, có công lớn giữ yên vùng biên ải phía bắc và được nhân dân tôn kính như một vị thánh. Quần thể đền gồm nhiều điểm thờ tự dựa vào thế núi, với cây cổ thụ, cổng đá và những lối bậc rêu phong, tạo nên khung cảnh trầm mặc, cổ xưa. Nổi bật phía sau là ba ngọn núi đá vôi sừng sững mà dân gian ví như bức bình phong che chở cho ngôi đền. Hằng năm, vào dịp đầu xuân (mùng 6 tháng Giêng âm lịch), lễ hội Đền Đuổm được tổ chức tưng bừng với các nghi lễ rước, tế trang nghiêm cùng nhiều trò chơi dân gian, thu hút hàng vạn người dân và du khách về trẩy hội, cầu cho một năm bình an, may mắn. Không chỉ là chốn linh thiêng gắn với truyền thống 'uống nước nhớ nguồn', Đền Đuổm còn là điểm dừng chân đẹp, giàu bản sắc trên cung đường từ Thái Nguyên lên các tỉnh miền núi phía Bắc.",
+    "presentation_long_en": "Tucked at the foot of the Duom range, with sheer limestone cliffs beside National Highway 3, Duom Temple is one of the most ancient and revered shrines in Thai Nguyen. Founded in the Ly dynasty, it honours Duong Tu Minh, a gifted Tay chieftain who did great service in guarding the northern frontier and is venerated by the people almost as a saint. The temple complex has several places of worship set against the mountain, with old trees, stone gates and moss-covered steps, creating a solemn, ancient atmosphere. Behind it rise three limestone peaks that folklore likens to a screen sheltering the shrine. Each year in early spring, on the sixth day of the first lunar month, the Duom Temple Festival is held with joyful processions, solemn rites and many folk games, drawing tens of thousands of locals and visitors who come to pray for a peaceful, lucky year. More than a sacred place bound to the tradition of gratitude to one's roots, Duom Temple is also a beautiful, characterful stop on the road from Thai Nguyen up to the northern mountain provinces.",
+    "presentation_long_ru": "Приютившийся у подножия хребта Зуом, с отвесными известняковыми скалами у шоссе № 3, храм Зуом — одно из самых древних и почитаемых святилищ Тхайнгуена. Основанный при династии Ли, он посвящён Зыонг Ты Миню, талантливому вождю народа тай, оказавшему большую службу в охране северной границы и почитаемому народом почти как святой. Комплекс храма включает несколько мест поклонения у горы, со старыми деревьями, каменными воротами и покрытыми мхом ступенями, создавая торжественную, древнюю атмосферу. За ним возвышаются три известняковые вершины, которые фольклор сравнивает с ширмой, укрывающей святилище. Каждый год ранней весной, в шестой день первого лунного месяца, проходит праздник храма Зуом с радостными шествиями, торжественными обрядами и множеством народных игр, привлекая десятки тысяч местных жителей и гостей, приходящих молиться о мирном и удачном годе. Больше, чем священное место, связанное с традицией благодарности предкам, храм Зуом — красивая, самобытная остановка на дороге из Тхайнгуена к северным горным провинциям.",
+    "highlights_vi": [
+      "Đền cổ thời Lý thờ danh tướng Dương Tự Minh dưới chân núi Đuổm",
+      "Ba ngọn núi đá vôi như bình phong che chở, cảnh trầm mặc cổ kính",
+      "Lễ hội đầu xuân (mùng 6 tháng Giêng) lớn bậc nhất Thái Nguyên"
+    ],
+    "highlights_en": [
+      "An ancient Ly-era temple to general Duong Tu Minh below Duom Mountain",
+      "Three limestone peaks like a sheltering screen; a solemn, old setting",
+      "A spring festival (6th of the 1st lunar month) among the province's largest"
+    ],
+    "highlights_ru": [
+      "Древний храм эпохи Ли в честь полководца Зыонг Ты Миня у горы Зуом",
+      "Три известняковые вершины как ширма; торжественная древняя атмосфера",
+      "Весенний праздник (6-й день 1-го лунного месяца) — крупнейший в провинции"
+    ],
+    "practical": {
+      "hours_vi": "Ban ngày; đông nhất dịp lễ hội mùng 6 tháng Giêng âm lịch.",
+      "ticket_vi": "Miễn phí; công đức tùy tâm.",
+      "duration_vi": "Khoảng 1–1,5 giờ.",
+      "best_time_vi": "Đầu xuân đi lễ hội; hoặc các ngày rằm, mùng một.",
+      "tips_vi": "Ăn mặc lịch sự; giữ gìn trật tự nơi thờ tự; cẩn thận bậc đá rêu trơn."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Duom%20Temple%2C%20Thai%20Nguyen%2C%20Vietnam&ll=105.715,21.718&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Duom%20Temple%2C%20Thai%20Nguyen%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Đền Đuổm — Phú Lương (Wikipedia)",
+        "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%81n_%C4%90u%E1%BB%95m"
+      }
+    ],
+    "tags": [
+      "culture",
+      "temple",
+      "festival",
+      "history",
+      "roadside"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-thai-nguyen-thac-khuon-tat",
+    "slug": "thac-khuon-tat",
+    "region": "vn-thai-nguyen",
+    "country": "vietnam",
+    "region_name_vi": "Thái Nguyên",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Thác Khuôn Tát",
+    "name_ru": "Водопад Кхуонтат",
+    "name_en": "Khuon Tat Waterfall",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 21.832,
+      "lon": 105.536
+    },
+    "address_vi": "Xã Phú Đình (huyện Định Hóa cũ), vùng ATK, tỉnh Thái Nguyên",
+    "rating": {
+      "value": 4.4,
+      "count": 400,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách khen thác nhiều tầng đẹp và nước mát; nhiều người ghép tham quan cùng ATK Định Hóa, nên đi mùa hè để tắm.",
+    "presentation_short_vi": "Thác Khuôn Tát là thác nước bảy tầng đẹp giữa rừng ATK Định Hóa, gắn với vùng căn cứ cách mạng. Nước đổ qua các bậc đá xuống hồ trong xanh, là điểm dã ngoại, tắm mát được yêu thích.",
+    "presentation_short_en": "Khuon Tat is a beautiful seven-tiered waterfall in the forests of the Dinh Hoa ATK, linked to the revolutionary base. Water drops over stone steps into a clear pool, a favourite spot for picnics and bathing.",
+    "presentation_short_ru": "Кхуонтат — красивый семиступенчатый водопад в лесах АТК Диньхоа, связанный с революционной базой. Вода спадает по каменным ступеням в прозрачную заводь, любимое место для пикников и купания.",
+    "presentation_long_vi": "Nằm giữa vùng An toàn khu Định Hóa lịch sử, Thác Khuôn Tát là một thắng cảnh thiên nhiên nổi tiếng, được nhiều người xem là thác đẹp nhất Thái Nguyên. Dòng thác đổ từ trên cao xuống qua bảy tầng đá nối tiếp nhau, mỗi tầng một dáng vẻ, khi thì tung bọt trắng xóa, khi lại chảy êm đềm trên phiến đá rộng. Dưới chân thác là một hồ nước trong xanh, mát lạnh, được bao quanh bởi rừng cây cổ thụ và những bãi cỏ bằng phẳng lý tưởng cho việc nghỉ ngơi, cắm trại. Không gian nơi đây yên bình, trong lành, tiếng nước reo hòa cùng tiếng chim rừng tạo cảm giác thư thái. Ngoài vẻ đẹp tự nhiên, Khuôn Tát còn mang ý nghĩa lịch sử đặc biệt: trong những năm kháng chiến chống Pháp, khu vực này thuộc căn cứ địa Việt Bắc, và Chủ tịch Hồ Chí Minh cùng các cán bộ từng sống, làm việc gần đây; tương truyền Bác đã có lần tắm và nghỉ ngơi bên dòng thác. Chính sự hòa quyện giữa cảnh quan tươi đẹp và dấu ấn lịch sử khiến Thác Khuôn Tát trở thành điểm đến hấp dẫn, thường được ghép cùng hành trình thăm khu di tích ATK Định Hóa.",
+    "presentation_long_en": "In the heart of the historic Dinh Hoa Safe Zone, Khuon Tat Waterfall is a famous natural beauty spot, regarded by many as the loveliest waterfall in Thai Nguyen. The falls drop from a height over seven successive stone tiers, each with its own character, now bursting into white foam, now sliding gently across broad slabs. At the foot lies a clear, cool pool ringed by old-growth forest and flat grassy banks ideal for resting and camping. The setting is peaceful and fresh, the sound of falling water mingling with birdsong to bring a deep sense of ease. Beyond its natural beauty, Khuon Tat carries special historical meaning: during the resistance against France this area belonged to the Viet Bac base, and President Ho Chi Minh and his cadres lived and worked nearby; by tradition he once bathed and rested by the falls. This blend of lovely scenery and historical imprint makes Khuon Tat Waterfall an appealing destination, usually combined with a visit to the Dinh Hoa ATK relic area.",
+    "presentation_long_ru": "В сердце исторической безопасной зоны Диньхоа водопад Кхуонтат — знаменитое место природной красоты, которое многие считают красивейшим водопадом Тхайнгуена. Вода падает с высоты по семи последовательным каменным ступеням, каждая со своим характером: то вскипает белой пеной, то мягко скользит по широким плитам. У подножия — прозрачная прохладная заводь в кольце старого леса и ровных травянистых берегов, идеальных для отдыха и кемпинга. Обстановка мирная и свежая, шум падающей воды сливается с пением птиц, даря глубокое чувство покоя. Помимо природной красоты, Кхуонтат имеет особое историческое значение: во время борьбы с Францией эта местность входила в базу Вьетбак, а президент Хо Ши Мин и его соратники жили и работали поблизости; по преданию, он однажды купался и отдыхал у водопада. Это сочетание прекрасного пейзажа и исторического следа делает водопад Кхуонтат привлекательной целью, которую обычно совмещают с посещением памятной зоны АТК Диньхоа.",
+    "highlights_vi": [
+      "Thác bảy tầng đẹp bậc nhất Thái Nguyên, có hồ nước trong dưới chân",
+      "Nằm trong vùng căn cứ cách mạng ATK Định Hóa (Việt Bắc)",
+      "Điểm dã ngoại, cắm trại, tắm mát giữa rừng cổ thụ"
+    ],
+    "highlights_en": [
+      "A seven-tiered waterfall, among Thai Nguyen's finest, with a clear pool",
+      "Set within the Dinh Hoa ATK revolutionary base (Viet Bac)",
+      "A picnic, camping and bathing spot amid old forest"
+    ],
+    "highlights_ru": [
+      "Семиступенчатый водопад, один из красивейших в Тхайнгуене, с заводью",
+      "Расположен в революционной базе АТК Диньхоа (Вьетбак)",
+      "Место для пикников, кемпинга и купания среди старого леса"
+    ],
+    "practical": {
+      "hours_vi": "Ban ngày; đông vào cuối tuần và mùa hè.",
+      "ticket_vi": "Vé/phí nhỏ hoặc miễn phí tùy thời điểm.",
+      "duration_vi": "Khoảng 1,5–2 giờ.",
+      "best_time_vi": "Mùa hè để tắm mát; mùa mưa thác nhiều nước.",
+      "tips_vi": "Cẩn thận đá trơn, không leo lên tầng cao khi nước lớn; mang đồ dã ngoại."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Khuon%20Tat%20Waterfall%2C%20Thai%20Nguyen%2C%20Vietnam&ll=105.536,21.832&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Khuon%20Tat%20Waterfall%2C%20Thai%20Nguyen%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Thác Khuôn Tát — Định Hóa (Wikipedia)",
+        "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Bnh_H%C3%B3a"
+      }
+    ],
+    "tags": [
+      "nature",
+      "waterfall",
+      "history",
+      "outdoor",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-thai-nguyen-chua-hang",
+    "slug": "chua-hang",
+    "region": "vn-thai-nguyen",
+    "country": "vietnam",
+    "region_name_vi": "Thái Nguyên",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Chùa Hang (Kim Sơn Tự)",
+    "name_ru": "Пещерный храм Ханг (Кимшон)",
+    "name_en": "Hang Pagoda (Kim Son Tu)",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 21.606,
+      "lon": 105.847
+    },
+    "address_vi": "Phường Chùa Hang, TP Thái Nguyên, tỉnh Thái Nguyên",
+    "rating": {
+      "value": 4.4,
+      "count": 550,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách thấy chùa trong hang mát mẻ, linh thiêng và tiện ghé thăm ngay trong thành phố; dịp lễ hội khá đông.",
+    "presentation_short_vi": "Chùa Hang, tên chữ Kim Sơn Tự, là ngôi chùa cổ dựa vào hang núi đá vôi ở cửa ngõ TP Thái Nguyên. Chùa nổi bật với ba ngọn núi và hang động tự nhiên làm nơi thờ tự, cảnh quan độc đáo.",
+    "presentation_short_en": "Hang Pagoda, formally Kim Son Tu, is an ancient temple built against a limestone cave at the gateway to Thai Nguyen city. It is notable for three peaks and natural caves used as places of worship.",
+    "presentation_short_ru": "Пещерный храм Ханг, официально Кимшон, — древний храм, устроенный у известняковой пещеры на въезде в город Тхайнгуен. Он примечателен тремя вершинами и природными пещерами, используемыми для поклонения.",
+    "presentation_long_vi": "Chùa Hang, tên chữ là Kim Sơn Tự, là một ngôi chùa cổ nổi tiếng nằm ngay khu vực cửa ngõ phía bắc thành phố Thái Nguyên. Điều làm nên nét độc đáo của chùa là sự gắn kết hài hòa giữa công trình thờ tự và cảnh quan thiên nhiên: chùa dựa lưng vào ba ngọn núi đá vôi mọc liền nhau, dân gian gọi là Huyền Vũ, Thanh Long và Bạch Hổ, ở giữa là hang động tự nhiên rộng và cao được dùng làm nơi bài trí ban thờ, tượng Phật. Bước vào trong hang, du khách cảm nhận không khí mát lạnh, tĩnh mịch, ánh sáng dịu cùng những khối thạch nhũ tự nhiên tạo nên không gian linh thiêng, huyền ảo. Theo sử sách, chùa có từ thời Lý và trải qua nhiều lần trùng tu, gìn giữ đến ngày nay. Xung quanh chùa là khuôn viên cây xanh, sân rộng, nơi diễn ra lễ hội chùa Hang vào dịp đầu xuân với nhiều nghi lễ và hoạt động văn hóa. Nhờ vị trí thuận tiện ngay trong thành phố và vẻ đẹp 'chùa trong hang, hang trong núi' hiếm có, Chùa Hang là điểm đến tâm linh và tham quan quen thuộc của người dân địa phương cũng như du khách khi đến Thái Nguyên.",
+    "presentation_long_en": "Hang Pagoda, formally Kim Son Tu, is a famous ancient temple right at the northern gateway of Thai Nguyen city. Its uniqueness lies in the harmonious union of shrine and nature: the pagoda backs onto three adjoining limestone peaks that folklore names Huyen Vu, Thanh Long and Bach Ho, with a broad, high natural cave between them used to arrange altars and Buddha statues. Stepping inside the cave, visitors feel the cool, hushed air, soft light and natural stalactites that create a sacred, magical space. According to records the temple dates from the Ly dynasty and has been restored many times to survive to this day. Around it lie green grounds and a wide courtyard where the Hang Pagoda Festival takes place in early spring with many rites and cultural activities. Thanks to its convenient location within the city and the rare beauty of a temple inside a cave inside a mountain, Hang Pagoda is a familiar spiritual and sightseeing destination for both locals and visitors to Thai Nguyen.",
+    "presentation_long_ru": "Пещерный храм Ханг, официально Кимшон, — знаменитый древний храм прямо у северного въезда в город Тхайнгуен. Его уникальность в гармоничном единстве святилища и природы: храм примыкает к трём смежным известняковым вершинам, которые фольклор называет Хюенву, Тханьлонг и Батьхо, а между ними — широкая высокая природная пещера, где размещены алтари и статуи Будды. Войдя в пещеру, гости ощущают прохладный тихий воздух, мягкий свет и природные сталактиты, создающие священное, волшебное пространство. Согласно записям, храм восходит к династии Ли и многократно восстанавливался, сохранившись доныне. Вокруг — зелёная территория и широкий двор, где ранней весной проходит праздник храма Ханг со множеством обрядов и культурных мероприятий. Благодаря удобному расположению в городе и редкой красоте храма в пещере внутри горы храм Ханг — привычное духовное и экскурсионное место для жителей и гостей Тхайнгуена.",
+    "highlights_vi": [
+      "Chùa cổ thời Lý dựa vào ba núi đá vôi, thờ tự trong hang tự nhiên",
+      "Không gian mát lạnh, huyền ảo với thạch nhũ trong lòng hang",
+      "Ngay trong TP Thái Nguyên; có lễ hội chùa Hang đầu xuân"
+    ],
+    "highlights_en": [
+      "An ancient Ly-era temple set against three peaks, worship in a natural cave",
+      "A cool, magical space with stalactites inside the cave",
+      "Right in Thai Nguyen city; hosts a spring festival"
+    ],
+    "highlights_ru": [
+      "Древний храм эпохи Ли у трёх вершин, поклонение в природной пещере",
+      "Прохладное волшебное пространство со сталактитами в пещере",
+      "Прямо в городе Тхайнгуен; весенний праздник храма"
+    ],
+    "practical": {
+      "hours_vi": "Ban ngày; đông vào rằm, mùng một và lễ hội đầu xuân.",
+      "ticket_vi": "Miễn phí; công đức tùy tâm.",
+      "duration_vi": "Khoảng 45–60 phút.",
+      "best_time_vi": "Đầu xuân đi lễ hội; quanh năm mát trong hang.",
+      "tips_vi": "Ăn mặc lịch sự; cẩn thận nền hang trơn; giữ trật tự nơi thờ tự."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Hang%20Pagoda%2C%20Thai%20Nguyen%2C%20Vietnam&ll=105.847,21.606&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Hang%20Pagoda%2C%20Thai%20Nguyen%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Chùa Hang (Kim Sơn Tự) — Thái Nguyên",
+        "url": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_Hang_(Th%C3%A1i_Nguy%C3%AAn)"
+      }
+    ],
+    "tags": [
+      "culture",
+      "temple",
+      "cave",
+      "city"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-thai-nguyen-nui-van-nui-vo",
+    "slug": "nui-van-nui-vo",
+    "region": "vn-thai-nguyen",
+    "country": "vietnam",
+    "region_name_vi": "Thái Nguyên",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Núi Văn – Núi Võ",
+    "name_ru": "Горы Ван и Во",
+    "name_en": "Van and Vo Mountains",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 21.548,
+      "lon": 105.608
+    },
+    "address_vi": "Xã Ký Phú – Văn Yên (huyện Đại Từ cũ), dưới chân Tam Đảo, tỉnh Thái Nguyên",
+    "rating": {
+      "value": 4.2,
+      "count": 150,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách thấy cảnh yên bình dưới Tam Đảo và câu chuyện lịch sử ý nghĩa; thường ghép cùng đồi chè Đại Từ.",
+    "presentation_short_vi": "Núi Văn – Núi Võ là cụm di tích danh thắng dưới chân dãy Tam Đảo thuộc Đại Từ, gắn với danh tướng Lưu Nhân Chú thời Lê sơ. Cảnh núi non, đền thờ và truyền thuyết tạo nên điểm đến giàu lịch sử.",
+    "presentation_short_en": "Van and Vo Mountains form a scenic historical cluster below the Tam Dao range in Dai Tu, tied to the early-Le general Luu Nhan Chu. Mountains, a shrine and legend make a destination rich in history.",
+    "presentation_short_ru": "Горы Ван и Во образуют живописный исторический комплекс у подножия хребта Тамдао в Дайты, связанный с полководцем ранней Ле Лыу Нян Тю. Горы, храм и легенда создают место, богатое историей.",
+    "presentation_long_vi": "Nằm dưới chân dãy Tam Đảo hùng vĩ thuộc vùng Đại Từ, cụm di tích Núi Văn – Núi Võ là một danh thắng gắn liền với tên tuổi danh tướng Lưu Nhân Chú và dòng họ Lưu có công lớn trong cuộc khởi nghĩa Lam Sơn chống quân Minh đầu thế kỷ XV. Theo truyền thuyết và sử sách, đây là quê hương, nơi luyện quân và cũng là vùng đất thiêng gắn với người anh hùng đã cùng Lê Lợi, Nguyễn Trãi làm nên chiến thắng, được phong tước hầu. Hai ngọn núi Văn và Võ đứng cạnh nhau như biểu tượng cho sự vẹn toàn văn – võ, xung quanh là đồng ruộng, làng mạc và những cánh rừng chân núi xanh mát. Trong khu di tích có đền thờ Lưu Nhân Chú, nơi người dân quanh năm hương khói tưởng nhớ công lao của ông. Đến đây, du khách vừa được chiêm ngưỡng cảnh sắc thiên nhiên yên bình dưới bóng Tam Đảo, vừa tìm hiểu một trang sử hào hùng của dân tộc thời Lê sơ. Cụm di tích đã được xếp hạng cấp quốc gia và thường được kết hợp trong hành trình khám phá vùng Đại Từ với những đồi chè, hồ nước và các điểm du lịch sinh thái ven Tam Đảo.",
+    "presentation_long_en": "At the foot of the majestic Tam Dao range in the Dai Tu area, the Van and Vo Mountains historical cluster is a scenic site bound to the name of general Luu Nhan Chu and the Luu family, who rendered great service in the early-15th-century Lam Son uprising against the Ming. By legend and record this was his homeland, a training ground and a sacred land tied to the hero who, with Le Loi and Nguyen Trai, helped win victory and was granted a marquis's title. The two peaks, Van (civil) and Vo (martial), stand side by side as a symbol of balance between letters and arms, surrounded by fields, villages and cool foothill forests. Within the site is a shrine to Luu Nhan Chu, where people offer incense all year in memory of his merit. Here visitors can admire the peaceful scenery beneath Tam Dao while learning a heroic chapter of the nation's early-Le history. The cluster is nationally ranked and is often combined with exploring the Dai Tu area, with its tea hills, lakes and eco-tourism spots along Tam Dao.",
+    "presentation_long_ru": "У подножия величественного хребта Тамдао в районе Дайты исторический комплекс гор Ван и Во — живописное место, связанное с именем полководца Лыу Нян Тю и рода Лыу, оказавших большую службу в восстании Лamшон против Мин в начале XV века. По легенде и летописям это была его родина, место обучения войск и священная земля, связанная с героем, который вместе с Ле Лоем и Нгуен Чаем добыл победу и получил титул маркиза. Две вершины, Ван (гражданская) и Во (воинская), стоят рядом как символ равновесия учёности и воинской доблести, в окружении полей, деревень и прохладных предгорных лесов. В комплексе есть храм Лыу Нян Тю, где люди круглый год возжигают благовония в память о его заслугах. Здесь гости могут любоваться мирным пейзажем под Тамдао и узнавать героическую страницу истории ранней Ле. Комплекс имеет национальный статус и часто включается в маршрут по району Дайты с его чайными холмами, озёрами и местами экотуризма вдоль Тамдао.",
+    "highlights_vi": [
+      "Di tích quốc gia gắn với danh tướng Lưu Nhân Chú (khởi nghĩa Lam Sơn)",
+      "Hai núi Văn – Võ biểu tượng cho sự vẹn toàn văn và võ",
+      "Cảnh núi non dưới chân Tam Đảo, có đền thờ, nhiều truyền thuyết"
+    ],
+    "highlights_en": [
+      "A national relic tied to general Luu Nhan Chu of the Lam Son uprising",
+      "The Van and Vo peaks symbolise balance of letters and arms",
+      "Mountain scenery below Tam Dao with a shrine and legends"
+    ],
+    "highlights_ru": [
+      "Национальный памятник, связанный с полководцем Лыу Нян Тю (восстание Ламшон)",
+      "Вершины Ван и Во символизируют равновесие учёности и доблести",
+      "Горные пейзажи под Тамдао с храмом и легендами"
+    ],
+    "practical": {
+      "hours_vi": "Ban ngày; đền mở đón khách quanh năm.",
+      "ticket_vi": "Miễn phí; công đức tùy tâm.",
+      "duration_vi": "Khoảng 1–1,5 giờ.",
+      "best_time_vi": "Mùa thu và mùa xuân mát mẻ, cảnh đẹp.",
+      "tips_vi": "Kết hợp tham quan đồi chè, hồ nước vùng Đại Từ; mang giày đi bộ."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Van%20and%20Vo%20Mountains%2C%20Thai%20Nguyen%2C%20Vietnam&ll=105.608,21.548&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Van%20and%20Vo%20Mountains%2C%20Thai%20Nguyen%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Núi Văn – Núi Võ, Đại Từ (Wikipedia)",
+        "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_T%E1%BB%AB"
+      }
+    ],
+    "tags": [
+      "history",
+      "mountain",
+      "temple",
+      "outdoor"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-thai-nguyen-ho-ghenh-che",
+    "slug": "ho-ghenh-che",
+    "region": "vn-thai-nguyen",
+    "country": "vietnam",
+    "region_name_vi": "Thái Nguyên",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Hồ Ghềnh Chè",
+    "name_ru": "Озеро Гхеньтэ",
+    "name_en": "Ghenh Che Lake",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 21.468,
+      "lon": 105.783
+    },
+    "address_vi": "Xã Bình Sơn, TP Sông Công, tỉnh Thái Nguyên",
+    "rating": {
+      "value": 4.4,
+      "count": 400,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách khen cảnh hồ và đồi chè yên bình, hợp chèo thuyền, chụp ảnh; dịch vụ đang phát triển, cuối tuần khá đông.",
+    "presentation_short_vi": "Hồ Ghềnh Chè là hồ nước nhân tạo rộng với nhiều đảo nhỏ và đồi chè xanh mướt bao quanh, thuộc TP Sông Công. Đây là điểm du lịch sinh thái, chèo thuyền và thưởng trà đang lên ở Thái Nguyên.",
+    "presentation_short_en": "Ghenh Che Lake is a broad reservoir dotted with islets and ringed by green tea hills in Song Cong city. It is a rising eco-tourism, boating and tea-tasting spot in Thai Nguyen.",
+    "presentation_short_ru": "Озеро Гхеньтэ — обширное водохранилище с островками, окружённое зелёными чайными холмами в городе Шонгконг. Это набирающее популярность место экотуризма, катания на лодках и чаепития в Тхайнгуене.",
+    "presentation_long_vi": "Nằm ở xã Bình Sơn thuộc thành phố Sông Công, Hồ Ghềnh Chè là một hồ nước ngọt rộng lớn được ví như một 'vịnh Hạ Long thu nhỏ' của vùng trung du Thái Nguyên. Mặt hồ trải rộng, uốn lượn quanh hàng chục hòn đảo và bán đảo lớn nhỏ phủ kín cây xanh, xen giữa là những đồi chè bát úp đặc trưng của vùng đất trà nổi tiếng. Đến với Ghềnh Chè, du khách có thể lên thuyền dạo quanh hồ, len lỏi qua các đảo, thả mình vào không gian thoáng đãng, yên bình của mây trời và mặt nước. Nhiều điểm ven hồ đã phát triển dịch vụ du lịch sinh thái, câu cá, chèo sup, thưởng thức các món cá hồ tươi ngon và nhâm nhi chén trà Thái Nguyên chính hiệu ngay bên đồi chè. Vào buổi sáng sớm hay lúc hoàng hôn, mặt hồ phủ hơi sương hoặc nhuộm ánh vàng, tạo nên khung cảnh nên thơ được nhiều bạn trẻ tìm đến chụp ảnh. Nhờ vị trí không quá xa trung tâm và vẻ đẹp kết hợp giữa sông nước và đồi chè, Hồ Ghềnh Chè đang trở thành một điểm dừng chân cuối tuần được yêu thích, góp phần làm phong phú thêm bản đồ du lịch của tỉnh Thái Nguyên.",
+    "presentation_long_en": "In Binh Son commune of Song Cong city, Ghenh Che Lake is a large freshwater reservoir likened to a miniature Ha Long Bay of the Thai Nguyen midlands. Its broad surface winds around dozens of islands and peninsulas cloaked in greenery, interspersed with the rounded tea hills typical of this famous tea land. At Ghenh Che, visitors can take a boat around the lake, thread between the islands and give themselves to the open, peaceful expanse of sky and water. Many lakeside spots have developed eco-tourism, fishing, paddleboarding, fresh lake-fish dishes and cups of genuine Thai Nguyen tea beside the tea slopes. At dawn or sunset the surface is veiled in mist or dyed gold, a poetic scene that draws many young people to take photographs. Thanks to its location not far from the centre and its beauty combining water and tea hills, Ghenh Che Lake is becoming a much-loved weekend stop, enriching the tourist map of Thai Nguyen province and offering a gentle counterpoint to the region's caves and historical sites.",
+    "presentation_long_ru": "В общине Биньшон города Шонгконг озеро Гхеньтэ — большое пресноводное водохранилище, которое сравнивают с миниатюрной бухтой Халонг среднегорья Тхайнгуена. Его широкая гладь вьётся вокруг десятков островов и полуостровов, укрытых зеленью, вперемешку с округлыми чайными холмами, типичными для этого знаменитого чайного края. На Гхеньтэ гости могут прокатиться на лодке вокруг озера, пройти меж островов и отдаться открытому, спокойному простору неба и воды. Многие места у берега развили экотуризм, рыбалку, сапбординг, блюда из свежей озёрной рыбы и чашки настоящего чая Тхайнгуен у чайных склонов. На рассвете или закате гладь окутана дымкой или окрашена золотом — поэтичная картина, привлекающая молодёжь для фотографий. Благодаря расположению недалеко от центра и красоте, соединяющей воду и чайные холмы, озеро Гхеньтэ становится любимой остановкой выходного дня, обогащая туристическую карту провинции Тхайнгуен.",
+    "highlights_vi": [
+      "Hồ rộng nhiều đảo, ví như 'vịnh Hạ Long thu nhỏ' vùng trung du",
+      "Đồi chè bao quanh; chèo thuyền, chèo sup, câu cá, thưởng trà",
+      "Cảnh bình minh, hoàng hôn nên thơ, gần TP Sông Công"
+    ],
+    "highlights_en": [
+      "A broad island-dotted lake, a 'miniature Ha Long Bay' of the midlands",
+      "Tea hills all around; boating, paddleboarding, fishing and tea",
+      "Poetic dawn and sunset scenery near Song Cong city"
+    ],
+    "highlights_ru": [
+      "Широкое озеро с островами, «мини-Халонг» среднегорья",
+      "Вокруг чайные холмы; лодки, сап, рыбалка и чай",
+      "Поэтичные рассветы и закаты у города Шонгконг"
+    ],
+    "practical": {
+      "hours_vi": "Ban ngày; đẹp nhất sáng sớm và chiều muộn.",
+      "ticket_vi": "Thuê thuyền/sup theo giờ; đồ ăn, trà tính riêng.",
+      "duration_vi": "Khoảng 2–3 giờ.",
+      "best_time_vi": "Mùa thu và mùa xuân trời quang, mát mẻ.",
+      "tips_vi": "Đặt dịch vụ thuyền trước dịp lễ; mang mũ, kem chống nắng; mặc áo phao."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Ghenh%20Che%20Lake%2C%20Thai%20Nguyen%2C%20Vietnam&ll=105.783,21.468&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Ghenh%20Che%20Lake%2C%20Thai%20Nguyen%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Hồ Ghềnh Chè — Sông Công",
+        "url": "https://vi.wikipedia.org/wiki/S%C3%B4ng_C%C3%B4ng"
+      }
+    ],
+    "tags": [
+      "nature",
+      "lake",
+      "boat",
+      "tea",
+      "viewpoint",
+      "daytrip"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-thai-nguyen-di-tich-27-7",
+    "slug": "di-tich-27-7",
+    "region": "vn-thai-nguyen",
+    "country": "vietnam",
+    "region_name_vi": "Thái Nguyên",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Khu di tích lịch sử Quốc gia 27/7",
+    "name_ru": "Национальный памятник Дня инвалидов войны и павших (27 июля)",
+    "name_en": "National Relic of War Invalids and Martyrs Day (27 July)",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 21.625,
+      "lon": 105.636
+    },
+    "address_vi": "Xã Hùng Sơn (huyện Đại Từ cũ), tỉnh Thái Nguyên",
+    "rating": {
+      "value": 4.6,
+      "count": 200,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Khách tham quan thấy nơi đây trang nghiêm, ý nghĩa; đông vào dịp 27/7 với các đoàn tri ân, dâng hương.",
+    "presentation_short_vi": "Đây là nơi công bố Ngày Thương binh – Liệt sĩ 27/7/1947, khởi nguồn của ngày lễ tri ân trên cả nước. Khu di tích quốc gia gồm nhà bia, đài tưởng niệm giữa vùng Đại Từ.",
+    "presentation_short_en": "This is where War Invalids and Martyrs Day was proclaimed on 27 July 1947, the origin of the nation's day of gratitude. The national relic includes a stele house and memorial in the Dai Tu area.",
+    "presentation_short_ru": "Здесь 27 июля 1947 года был провозглашён День инвалидов войны и павших — исток общенационального дня благодарности. Национальный памятник включает павильон со стелой и мемориал в районе Дайты.",
+    "presentation_long_vi": "Tọa lạc tại xã Hùng Sơn thuộc vùng Đại Từ, Khu di tích lịch sử Quốc gia 27/7 là nơi ghi dấu một sự kiện có ý nghĩa nhân văn sâu sắc trong lịch sử Việt Nam. Chính tại nơi đây, ngày 27 tháng 7 năm 1947, một cuộc mít tinh đã được tổ chức và công bố lấy ngày này làm Ngày Thương binh toàn quốc — về sau trở thành Ngày Thương binh – Liệt sĩ 27/7 được tưởng nhớ trên khắp cả nước. Đây là dịp để toàn dân bày tỏ lòng biết ơn, tri ân những người đã hy sinh xương máu vì độc lập, tự do của Tổ quốc. Khu di tích ngày nay được xây dựng khang trang với nhà bia ghi dấu sự kiện, đài tưởng niệm, cây đa lịch sử và khuôn viên trang nghiêm, xanh mát. Hằng năm, nhất là vào dịp 27/7, nơi đây đón nhiều đoàn cán bộ, cựu chiến binh, học sinh, sinh viên và nhân dân đến dâng hương, ôn lại truyền thống 'uống nước nhớ nguồn', 'đền ơn đáp nghĩa'. Với giá trị lịch sử và tính giáo dục đặc biệt, Khu di tích 27/7 không chỉ là một địa chỉ đỏ của tỉnh Thái Nguyên mà còn mang ý nghĩa thiêng liêng đối với cả nước.",
+    "presentation_long_en": "In Hung Son commune of the Dai Tu area, the National Relic of 27 July marks an event of deep humanitarian meaning in Vietnamese history. It was here, on 27 July 1947, that a rally was held and this day proclaimed the nationwide War Invalids Day, later becoming the War Invalids and Martyrs Day of 27 July commemorated throughout the country. It is an occasion for the whole people to express gratitude to those who sacrificed blood and bone for the independence and freedom of the homeland. The site today is handsomely built, with a stele house recording the event, a memorial, a historic banyan tree and solemn, green grounds. Each year, especially around 27 July, it welcomes many groups of officials, veterans, pupils, students and citizens who come to offer incense and recall the traditions of gratitude to one's roots and of repaying those who served. With its historical value and special educational role, the 27 July Relic is not only a cherished site of Thai Nguyen province but also holds sacred meaning for the whole nation.",
+    "presentation_long_ru": "В общине Хунгшон района Дайты Национальный памятник 27 июля отмечает событие глубокого гуманитарного значения в истории Вьетнама. Именно здесь 27 июля 1947 года прошёл митинг и этот день был объявлен общенациональным Днём инвалидов войны, позже ставшим Днём инвалидов войны и павших 27 июля, отмечаемым по всей стране. Это повод для всего народа выразить благодарность тем, кто отдал кровь и жизнь за независимость и свободу родины. Сегодня место благоустроено: павильон со стелой, увековечивающий событие, мемориал, историческое дерево баньян и торжественная зелёная территория. Каждый год, особенно к 27 июля, сюда приходят многие группы чиновников, ветеранов, школьников, студентов и граждан, чтобы возжечь благовония и вспомнить традиции благодарности предкам и воздаяния тем, кто служил. С исторической ценностью и особой воспитательной ролью памятник 27 июля — не только дорогое место провинции Тхайнгуен, но и святыня для всей страны.",
+    "highlights_vi": [
+      "Nơi công bố Ngày Thương binh toàn quốc 27/7/1947",
+      "Khởi nguồn Ngày Thương binh – Liệt sĩ tưởng nhớ trên cả nước",
+      "Có nhà bia, đài tưởng niệm, cây đa lịch sử; địa chỉ đỏ giáo dục"
+    ],
+    "highlights_en": [
+      "Where nationwide War Invalids Day was proclaimed on 27 July 1947",
+      "Origin of the War Invalids and Martyrs Day honoured nationwide",
+      "A stele house, memorial and historic banyan; a patriotic site"
+    ],
+    "highlights_ru": [
+      "Место провозглашения Дня инвалидов войны 27 июля 1947 года",
+      "Исток общенационального Дня инвалидов войны и павших",
+      "Павильон со стелой, мемориал и баньян; патриотическое место"
+    ],
+    "practical": {
+      "hours_vi": "Ban ngày; trang trọng nhất dịp 27/7 hằng năm.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 30–45 phút.",
+      "best_time_vi": "Quanh năm; đặc biệt dịp kỷ niệm 27/7.",
+      "tips_vi": "Ăn mặc trang nghiêm; giữ yên tĩnh; phù hợp giáo dục truyền thống cho học sinh."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=National%20Relic%20of%20War%20Invalids%20and%20Martyrs%20Day%2C%20Thai%20Nguyen%2C%20Vietnam&ll=105.636,21.625&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=National%20Relic%20of%20War%20Invalids%20and%20Martyrs%20Day%2C%20Thai%20Nguyen%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Khu di tích 27/7 — Đại Từ (Wikipedia)",
+        "url": "https://vi.wikipedia.org/wiki/Ng%C3%A0y_Th%C6%B0%C6%A1ng_binh_li%E1%BB%87t_s%C4%A9"
+      }
+    ],
+    "tags": [
+      "history",
+      "memorial",
+      "education"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-thai-nguyen-doi-che-la-bang",
+    "slug": "doi-che-la-bang",
+    "region": "vn-thai-nguyen",
+    "country": "vietnam",
+    "region_name_vi": "Thái Nguyên",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Đồi chè La Bằng",
+    "name_ru": "Чайные холмы Лабанг",
+    "name_en": "La Bang Tea Hills",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 21.617,
+      "lon": 105.523
+    },
+    "address_vi": "Xã La Bằng (huyện Đại Từ cũ), dưới chân Tam Đảo, tỉnh Thái Nguyên",
+    "rating": {
+      "value": 4.5,
+      "count": 350,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách thích cảnh đồi chè và trải nghiệm hái, thưởng trà; nhiều người mua trà La Bằng làm quà, khen trà thơm ngon.",
+    "presentation_short_vi": "La Bằng là vùng chè đặc sản dưới chân Tam Đảo với những đồi chè xanh mướt uốn lượn. Nơi đây nổi tiếng trà ngon, cảnh đẹp và trải nghiệm hái chè, thưởng trà cùng người dân.",
+    "presentation_short_en": "La Bang is a specialty tea area below Tam Dao with rolling green tea hills. It is famed for fine tea, lovely scenery and hands-on tea-picking and tasting with locals.",
+    "presentation_short_ru": "Лабанг — район фирменного чая у подножия Тамдао с волнистыми зелёными чайными холмами. Он славится отменным чаем, красивыми пейзажами и участием в сборе и дегустации чая с местными жителями.",
+    "presentation_long_vi": "Nằm dưới chân dãy Tam Đảo thuộc vùng Đại Từ, La Bằng là một trong những vùng chè đặc sản ngon và nổi tiếng bậc nhất của 'đệ nhất danh trà' Thái Nguyên. Nhờ khí hậu mát mẻ, thổ nhưỡng và nguồn nước từ núi Tam Đảo, búp chè La Bằng cho hương thơm cốm dịu và vị chát ngọt hậu đặc trưng, được nhiều người sành trà yêu thích. Đến La Bằng, du khách được đắm mình giữa những đồi chè xanh mướt trải dài, uốn lượn theo sườn đồi như những luống sóng, đẹp nhất vào buổi sáng sớm khi sương còn đọng trên lá và nắng vàng trải nhẹ. Không chỉ ngắm cảnh và chụp ảnh, du khách còn có thể trực tiếp trải nghiệm làm người hái chè, đeo gùi ra nương, tự tay hái những búp non, rồi tham quan quy trình sao, vò, sấy chè thủ công tại các hộ làm trà. Kết thúc hành trình là khoảnh khắc quây quần bên ấm trà nóng, nhâm nhi chén trà La Bằng thơm ngon ngay tại vùng đất sinh ra nó. Với vẻ đẹp thanh bình và trải nghiệm văn hóa trà độc đáo, đồi chè La Bằng ngày càng thu hút du khách, đặc biệt là những người yêu thiên nhiên và muốn tìm hiểu nghề trồng chè truyền thống của Thái Nguyên.",
+    "presentation_long_en": "At the foot of the Tam Dao range in the Dai Tu area, La Bang is one of the finest and most famous specialty tea zones of Thai Nguyen, the land of Vietnam's premier tea. Thanks to a cool climate, good soil and water from Tam Dao, La Bang tea buds yield a gentle young-rice fragrance and a distinctive astringent-then-sweet aftertaste beloved of tea connoisseurs. Here visitors immerse themselves in sweeping green tea hills that ripple along the slopes like waves, loveliest at dawn when dew still clings to the leaves and soft gold light spreads across them. Beyond admiring the view and taking photos, guests can try their hand at tea-picking, carrying a basket to the fields to pluck the tender buds, then watch the manual roasting, kneading and drying of tea at local households. The journey ends gathered around a hot teapot, savouring fragrant La Bang tea in the very land that produced it. With its peaceful beauty and unique tea culture, the La Bang tea hills increasingly draw travellers, especially those who love nature and wish to learn the traditional tea-growing craft of Thai Nguyen.",
+    "presentation_long_ru": "У подножия хребта Тамдао в районе Дайты Лабанг — одна из лучших и известнейших зон фирменного чая Тхайнгуена, края первейшего чая Вьетнама. Благодаря прохладному климату, хорошей почве и воде с Тамдао почки чая Лабанг дают нежный аромат молодого риса и характерное терпкое, а затем сладкое послевкусие, любимое знатоками. Здесь гости погружаются в раскинувшиеся зелёные чайные холмы, что волнами бегут по склонам, особенно прекрасные на рассвете, когда роса ещё держится на листьях, а мягкий золотой свет ложится на них. Помимо любования видом и фотографий, гости могут сами попробовать собирать чай, взяв корзину в поля, чтобы срывать нежные почки, а затем увидеть ручную обжарку, скручивание и сушку чая в местных хозяйствах. Путешествие завершается у горячего чайника, за чашкой ароматного чая Лабанг на той самой земле, что его породила. С мирной красотой и уникальной чайной культурой холмы Лабанг всё больше привлекают путников, особенно любящих природу и желающих узнать традиционное чаеводство Тхайнгуена.",
+    "highlights_vi": [
+      "Vùng chè đặc sản dưới chân Tam Đảo, hương cốm, vị chát ngọt hậu",
+      "Đồi chè xanh mướt uốn lượn, đẹp nhất sáng sớm có sương",
+      "Trải nghiệm hái chè, xem sao chế thủ công và thưởng trà"
+    ],
+    "highlights_en": [
+      "A specialty tea zone below Tam Dao, with young-rice aroma and sweet aftertaste",
+      "Rolling green tea hills, loveliest at misty dawn",
+      "Hands-on tea-picking, watching manual processing and tasting"
+    ],
+    "highlights_ru": [
+      "Зона фирменного чая под Тамдао, с ароматом молодого риса и сладким послевкусием",
+      "Волнистые зелёные чайные холмы, красивы на туманном рассвете",
+      "Сбор чая, ручная обработка и дегустация"
+    ],
+    "practical": {
+      "hours_vi": "Ban ngày; đẹp nhất buổi sáng sớm.",
+      "ticket_vi": "Tham quan đồi chè thường miễn phí; trải nghiệm hái/thưởng trà tùy hộ.",
+      "duration_vi": "Khoảng 2–3 giờ.",
+      "best_time_vi": "Mùa xuân – hè khi chè xanh tốt; sáng sớm có sương.",
+      "tips_vi": "Mang mũ, giày thoải mái; liên hệ hộ làm trà trước nếu muốn trải nghiệm; mua trà làm quà."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=La%20Bang%20Tea%20Hills%2C%20Thai%20Nguyen%2C%20Vietnam&ll=105.523,21.617&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=La%20Bang%20Tea%20Hills%2C%20Thai%20Nguyen%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Chè La Bằng — Đại Từ, Thái Nguyên",
+        "url": "https://vi.wikipedia.org/wiki/Ch%C3%A8_Th%C3%A1i_Nguy%C3%AAn"
+      }
+    ],
+    "tags": [
+      "nature",
+      "tea",
+      "viewpoint",
+      "experience",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-thai-nguyen-quang-truong-vo-nguyen-giap",
+    "slug": "quang-truong-vo-nguyen-giap",
+    "region": "vn-thai-nguyen",
+    "country": "vietnam",
+    "region_name_vi": "Thái Nguyên",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Quảng trường Võ Nguyên Giáp",
+    "name_ru": "Площадь Во Нгуен Зяпа",
+    "name_en": "Vo Nguyen Giap Square",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 21.579,
+      "lon": 105.825
+    },
+    "address_vi": "Trung tâm TP Thái Nguyên, tỉnh Thái Nguyên",
+    "rating": {
+      "value": 4.5,
+      "count": 700,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Người dân và du khách thấy quảng trường rộng đẹp, thoáng mát; buổi tối đông vui, phù hợp dạo chơi, chụp ảnh.",
+    "presentation_short_vi": "Quảng trường Võ Nguyên Giáp là quảng trường trung tâm rộng lớn của TP Thái Nguyên, không gian sinh hoạt cộng đồng và tổ chức sự kiện. Buổi tối nơi đây nhộn nhịp người dân dạo chơi, tập thể dục.",
+    "presentation_short_en": "Vo Nguyen Giap Square is the large central plaza of Thai Nguyen city, a space for community life and events. In the evening it bustles with people strolling and exercising.",
+    "presentation_short_ru": "Площадь Во Нгуен Зяпа — большая центральная площадь города Тхайнгуен, место общественной жизни и мероприятий. Вечером здесь оживлённо: люди гуляют и занимаются спортом.",
+    "presentation_long_vi": "Nằm ngay trung tâm thành phố Thái Nguyên, Quảng trường Võ Nguyên Giáp là quảng trường lớn và hiện đại, mang tên vị Đại tướng huyền thoại của dân tộc. Đây là không gian công cộng quan trọng bậc nhất của thành phố, nơi diễn ra các sự kiện chính trị, văn hóa, lễ kỷ niệm, hòa nhạc và những hoạt động cộng đồng lớn. Với mặt bằng rộng rãi, lát đá sạch đẹp, xung quanh là các công trình hành chính, cây xanh và hệ thống đài phun nước, đèn chiếu sáng nghệ thuật, quảng trường tạo nên bộ mặt khang trang, hiện đại cho đô thị trung du. Vào mỗi buổi chiều và tối, nhất là dịp cuối tuần, nơi đây trở nên nhộn nhịp khi người dân đủ mọi lứa tuổi tìm đến để đi dạo, tập thể dục, chơi thể thao, thả diều, và trẻ em vui chơi. Không gian mở thoáng đãng cùng làn gió mát khiến quảng trường trở thành điểm hẹn quen thuộc để thư giãn sau ngày dài. Với du khách, ghé Quảng trường Võ Nguyên Giáp là dịp cảm nhận nhịp sống đời thường, sôi động mà thân thiện của người dân thành phố thép Thái Nguyên, đồng thời là điểm khởi đầu thuận tiện để khám phá các danh thắng khác trong tỉnh.",
+    "presentation_long_en": "In the very centre of Thai Nguyen city, Vo Nguyen Giap Square is a large, modern plaza bearing the name of the nation's legendary general. It is the city's foremost public space, hosting political and cultural events, commemorations, concerts and major community activities. With its wide, cleanly paved surface surrounded by administrative buildings, greenery, fountains and artistic lighting, the square gives the midland city a smart, modern face. Every afternoon and evening, especially at weekends, it comes alive as people of all ages arrive to stroll, exercise, play sport, fly kites, and let children play. Its open, airy space and cool breezes make it a familiar place to unwind after a long day. For visitors, stopping by Vo Nguyen Giap Square is a chance to feel the everyday, lively yet friendly rhythm of the people of Thai Nguyen, the city of steel, and a convenient starting point from which to explore the province's other scenic and historical sights.",
+    "presentation_long_ru": "В самом центре города Тхайнгуен площадь Во Нгуен Зяпа — большая современная площадь, носящая имя легендарного полководца страны. Это главное общественное пространство города, где проходят политические и культурные события, торжества, концерты и крупные общинные мероприятия. С широкой, чисто вымощенной поверхностью в окружении административных зданий, зелени, фонтанов и художественной подсветки площадь придаёт среднегорному городу нарядный, современный облик. Каждый день после полудня и вечером, особенно в выходные, она оживает: люди всех возрастов приходят гулять, заниматься спортом, запускать воздушных змеев, а дети играют. Открытое, просторное пространство и прохладный ветер делают её привычным местом отдыха после долгого дня. Для гостей визит на площадь Во Нгуен Зяпа — возможность ощутить повседневный, живой и приветливый ритм жителей Тхайнгуена, города стали, а также удобная отправная точка для знакомства с другими достопримечательностями провинции.",
+    "highlights_vi": [
+      "Quảng trường trung tâm lớn, mang tên Đại tướng Võ Nguyên Giáp",
+      "Nơi tổ chức sự kiện, lễ kỷ niệm, hòa nhạc lớn của thành phố",
+      "Buổi tối nhộn nhịp: đi dạo, tập thể dục, thả diều, vui chơi"
+    ],
+    "highlights_en": [
+      "A large central square named after General Vo Nguyen Giap",
+      "Host to the city's events, commemorations and concerts",
+      "Lively evenings of strolling, exercise, kites and play"
+    ],
+    "highlights_ru": [
+      "Большая центральная площадь имени генерала Во Нгуен Зяпа",
+      "Место городских событий, торжеств и концертов",
+      "Оживлённые вечера: прогулки, спорт, воздушные змеи"
+    ],
+    "practical": {
+      "hours_vi": "Mở cả ngày; nhộn nhịp nhất chiều tối và cuối tuần.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 30–60 phút.",
+      "best_time_vi": "Chiều mát và buổi tối; dịp lễ có sự kiện, biểu diễn.",
+      "tips_vi": "Buổi tối có hàng quán, phù hợp gia đình; giữ gìn vệ sinh chung."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Vo%20Nguyen%20Giap%20Square%2C%20Thai%20Nguyen%2C%20Vietnam&ll=105.825,21.579&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Vo%20Nguyen%20Giap%20Square%2C%20Thai%20Nguyen%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Quảng trường Võ Nguyên Giáp — Thái Nguyên",
+        "url": "https://vi.wikipedia.org/wiki/Th%C3%A1i_Nguy%C3%AAn_(th%C3%A0nh_ph%E1%BB%91)"
+      }
+    ],
+    "tags": [
+      "city",
+      "square",
+      "night",
+      "family",
+      "free"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-thai-nguyen-chua-phu-lien",
+    "slug": "chua-phu-lien",
+    "region": "vn-thai-nguyen",
+    "country": "vietnam",
+    "region_name_vi": "Thái Nguyên",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Chùa Phủ Liễn",
+    "name_ru": "Храм Фульен",
+    "name_en": "Phu Lien Pagoda",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 21.59,
+      "lon": 105.829
+    },
+    "address_vi": "Phường Hoàng Văn Thụ, TP Thái Nguyên, tỉnh Thái Nguyên",
+    "rating": {
+      "value": 4.5,
+      "count": 450,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách thấy chùa linh thiêng, yên tĩnh và tiện ghé ngay trong thành phố; dịp đầu xuân rất đông người đi lễ.",
+    "presentation_short_vi": "Chùa Phủ Liễn là ngôi chùa cổ nổi tiếng linh thiêng ở trung tâm TP Thái Nguyên, có lịch sử hàng trăm năm. Chùa là chốn tâm linh quen thuộc và điểm tham quan yên bình giữa lòng thành phố.",
+    "presentation_short_en": "Phu Lien Pagoda is a famous, revered old temple in central Thai Nguyen city, with centuries of history. It is a familiar spiritual site and a peaceful stop in the heart of the city.",
+    "presentation_short_ru": "Храм Фульен — знаменитый почитаемый старинный храм в центре города Тхайнгуен с многовековой историей. Это привычное духовное место и тихая остановка в сердце города.",
+    "presentation_long_vi": "Nằm trên một khu đất cao ráo ngay trung tâm thành phố Thái Nguyên, Chùa Phủ Liễn là một trong những ngôi chùa cổ kính và linh thiêng nhất của tỉnh, tương truyền có lịch sử từ vài trăm năm trước. Trải qua bao thăng trầm và nhiều lần trùng tu, chùa vẫn giữ được nét trầm mặc, cổ kính với mái ngói rêu phong, những pho tượng Phật uy nghiêm và không gian thờ tự thanh tịnh. Khuôn viên chùa rộng rãi, có nhiều cây cổ thụ tỏa bóng mát, tạo cảm giác tách biệt khỏi sự ồn ào, náo nhiệt của phố phường ngay bên ngoài. Đây là chốn đi về quen thuộc của người dân địa phương mỗi dịp rằm, mùng một, lễ, Tết để dâng hương, cầu bình an, sức khỏe, may mắn cho gia đình. Vào những ngày đầu xuân, chùa Phủ Liễn đón rất đông phật tử và du khách đến lễ chùa, xin lộc, tạo nên không khí trang nghiêm mà ấm áp. Với vị trí thuận tiện ngay trong lòng thành phố cùng giá trị lịch sử, văn hóa và tâm linh, Chùa Phủ Liễn không chỉ là nơi sinh hoạt tín ngưỡng mà còn là một điểm dừng chân yên bình cho du khách muốn tìm chút tĩnh tại khi đến với thành phố thép Thái Nguyên.",
+    "presentation_long_en": "On a raised plot right in the centre of Thai Nguyen city, Phu Lien Pagoda is one of the most ancient and revered temples in the province, said to date back several centuries. Through many ups and downs and repeated restorations, it still keeps a solemn, antique air, with moss-tiled roofs, dignified Buddha statues and a serene worship space. Its spacious grounds hold many old shade trees, creating a feeling of separation from the bustle of the streets just outside. It is a familiar refuge for local people on the full moon, the first of the month and at festivals and Tet, when they offer incense and pray for peace, health and good fortune for their families. In the early spring days, Phu Lien Pagoda welcomes crowds of Buddhists and visitors coming to worship and seek blessings, creating a solemn yet warm atmosphere. With its convenient location in the city centre and its historical, cultural and spiritual value, Phu Lien Pagoda is not only a place of worship but also a peaceful stop for travellers seeking a little stillness on a visit to the steel city of Thai Nguyen.",
+    "presentation_long_ru": "На возвышенном участке прямо в центре города Тхайнгуен храм Фульен — один из самых древних и почитаемых храмов провинции, чья история, по преданию, насчитывает несколько веков. Пройдя через многие взлёты и падения и неоднократные восстановления, он сохраняет торжественный, старинный вид, с крышами в мшистой черепице, величавыми статуями Будды и безмятежным пространством поклонения. Просторная территория с множеством старых тенистых деревьев создаёт ощущение отрешённости от суеты улиц снаружи. Это привычное прибежище для местных жителей в полнолуние, в первый день месяца, на праздники и Тет, когда они возжигают благовония и молятся о мире, здоровье и удаче для своих семей. В ранние весенние дни храм Фульен принимает толпы буддистов и гостей, приходящих поклониться и просить благословения, создавая торжественную, но тёплую атмосферу. С удобным расположением в центре города и исторической, культурной и духовной ценностью храм Фульен — не только место поклонения, но и тихая остановка для путников, ищущих немного покоя в стальном городе Тхайнгуен.",
+    "highlights_vi": [
+      "Chùa cổ linh thiêng hàng trăm năm ngay trung tâm thành phố",
+      "Không gian trầm mặc, cây cổ thụ, tách biệt phố phường náo nhiệt",
+      "Đông phật tử dịp rằm, mùng một và đầu xuân đi lễ, xin lộc"
+    ],
+    "highlights_en": [
+      "A revered centuries-old temple in the city centre",
+      "A solemn setting with old trees, away from the busy streets",
+      "Crowded with worshippers on full moons and in early spring"
+    ],
+    "highlights_ru": [
+      "Почитаемый многовековой храм в центре города",
+      "Торжественная атмосфера со старыми деревьями, вдали от суеты",
+      "Многолюдно в полнолуния и ранней весной"
+    ],
+    "practical": {
+      "hours_vi": "Ban ngày; đông vào rằm, mùng một và dịp Tết, đầu xuân.",
+      "ticket_vi": "Miễn phí; công đức tùy tâm.",
+      "duration_vi": "Khoảng 30–45 phút.",
+      "best_time_vi": "Đầu xuân đi lễ; hoặc các ngày rằm, mùng một.",
+      "tips_vi": "Ăn mặc lịch sự; giữ trật tự; gửi xe đúng nơi quy định."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Phu%20Lien%20Pagoda%2C%20Thai%20Nguyen%2C%20Vietnam&ll=105.829,21.59&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Phu%20Lien%20Pagoda%2C%20Thai%20Nguyen%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Chùa Phủ Liễn — Thái Nguyên",
+        "url": "https://vi.wikipedia.org/wiki/Th%C3%A1i_Nguy%C3%AAn_(th%C3%A0nh_ph%E1%BB%91)"
+      }
+    ],
+    "tags": [
+      "culture",
+      "temple",
+      "city",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-thai-nguyen-thac-mua-roi",
+    "slug": "thac-mua-roi",
+    "region": "vn-thai-nguyen",
+    "country": "vietnam",
+    "region_name_vi": "Thái Nguyên",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Thác Mưa Rơi",
+    "name_ru": "Водопад Мыаröй (Падающий дождь)",
+    "name_en": "Mua Roi (Falling Rain) Waterfall",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 21.832,
+      "lon": 105.99
+    },
+    "address_vi": "Xã Thần Sa (huyện Võ Nhai cũ), ven sông Thần Sa, tỉnh Thái Nguyên",
+    "rating": {
+      "value": 4.3,
+      "count": 180,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách thấy thác lạ mắt, cảnh hoang sơ và mát mẻ; đường tới còn khó nên hợp người thích khám phá, tránh đông.",
+    "presentation_short_vi": "Thác Mưa Rơi là thác nước độc đáo ở vùng Thần Sa, nước từ vách đá vôi rỉ xuống thành muôn giọt như mưa. Nằm bên sông giữa rừng Thần Sa, đây là điểm dã ngoại yên bình, hoang sơ.",
+    "presentation_short_en": "Mua Roi (Falling Rain) Waterfall is an unusual cascade in the Than Sa area, where water seeps down a limestone cliff in countless drops like rain. Set by a river amid Than Sa's forests, it is a peaceful, pristine picnic spot.",
+    "presentation_short_ru": "Водопад Мыаröй (Падающий дождь) — необычный каскад в районе Тханша, где вода стекает по известняковой скале бесчисленными каплями, словно дождь. Расположенный у реки среди лесов Тханша, это тихое, первозданное место для пикника.",
+    "presentation_long_vi": "Nằm trong vùng Thần Sa – Phượng Hoàng thuộc Võ Nhai, nơi có khu bảo tồn thiên nhiên và các di chỉ khảo cổ nổi tiếng, Thác Mưa Rơi là một thắng cảnh mang vẻ đẹp độc đáo hiếm nơi nào có được. Khác với những thác nước ào ào đổ thành dòng, ở đây nước từ trên đỉnh vách núi đá vôi cao thấm qua các khe đá rồi rơi xuống thành vô vàn tia nước nhỏ li ti, mềm mại như một màn mưa bạc buông mình suốt ngày đêm — cũng chính vì thế mà thác có tên gọi 'Mưa Rơi'. Vào những ngày nắng, ánh mặt trời chiếu qua màn nước tạo nên sắc cầu vồng lung linh huyền ảo, khiến khung cảnh càng thêm nên thơ. Thác nằm ngay bên dòng sông Thần Sa hiền hòa, xung quanh là núi rừng nguyên sơ xanh mát, không khí trong lành, tĩnh lặng. Du khách có thể đi thuyền hoặc men theo bờ sông để tới ngắm thác, chụp ảnh, hóng mát và tận hưởng cảm giác gần gũi với thiên nhiên hoang dã. Do còn khá hoang sơ và ít bị tác động bởi du lịch, Thác Mưa Rơi giữ được nét đẹp mộc mạc, thanh khiết, là điểm đến lý tưởng cho những ai yêu thích khám phá và muốn tránh xa những nơi ồn ào, đông đúc.",
+    "presentation_long_en": "In the Than Sa–Phuong Hoang area of Vo Nhai, home to a nature reserve and famous archaeological sites, Mua Roi Waterfall is a beauty spot of a kind found almost nowhere else. Unlike falls that crash down in a single torrent, here water from the top of a high limestone cliff seeps through crevices and falls as countless tiny jets, soft as a silver curtain of rain drifting down day and night, which is exactly why it is called Falling Rain. On sunny days sunlight through the veil of water forms shimmering rainbows, making the scene all the more poetic. The falls stand right beside the gentle Than Sa River, ringed by cool, pristine mountain forest with fresh, quiet air. Visitors can travel by boat or follow the riverbank to view the falls, take photos, catch the breeze and enjoy a feeling of closeness to wild nature. Because it remains fairly untouched and little affected by tourism, Mua Roi Waterfall keeps a rustic, pure beauty, an ideal destination for anyone who loves exploring and wishes to escape noisy, crowded places.",
+    "presentation_long_ru": "В районе Тханша–Фыонгхоанг в Воняне, где есть природный заповедник и знаменитые археологические памятники, водопад Мыаröй — редкое по красоте место. В отличие от водопадов, обрушивающихся единым потоком, здесь вода с вершины высокой известняковой скалы просачивается сквозь щели и падает бесчисленными крошечными струйками, мягкими, как серебряный занавес дождя, ниспадающий днём и ночью, — потому он и зовётся Падающий дождь. В солнечные дни свет сквозь водяную завесу образует мерцающие радуги, делая картину ещё поэтичнее. Водопад стоит прямо у тихой реки Тханша, в кольце прохладного первозданного горного леса со свежим, спокойным воздухом. Гости могут добраться на лодке или вдоль берега, чтобы полюбоваться водопадом, пофотографировать, поймать ветер и ощутить близость к дикой природе. Оставаясь почти нетронутым и мало затронутым туризмом, водопад Мыаröй хранит простую, чистую красоту — идеальная цель для любящих исследовать и желающих избежать шумных, людных мест.",
+    "highlights_vi": [
+      "Nước rỉ qua vách đá vôi rơi thành muôn giọt như mưa bạc",
+      "Ngày nắng có cầu vồng lung linh qua màn nước",
+      "Bên sông Thần Sa, cảnh hoang sơ, yên tĩnh, ít khách"
+    ],
+    "highlights_en": [
+      "Water seeps down a limestone cliff in countless drops like silver rain",
+      "On sunny days a shimmering rainbow forms through the veil of water",
+      "Beside the Than Sa River; pristine, quiet, uncrowded"
+    ],
+    "highlights_ru": [
+      "Вода стекает по известняковой скале каплями, как серебряный дождь",
+      "В солнечные дни сквозь завесу воды видна радуга",
+      "У реки Тханша; первозданно, тихо, малолюдно"
+    ],
+    "practical": {
+      "hours_vi": "Ban ngày; nên đi cùng người địa phương do đường còn hoang sơ.",
+      "ticket_vi": "Thường miễn phí; chi phí thuyền/hướng dẫn nếu có.",
+      "duration_vi": "Khoảng 1–2 giờ.",
+      "best_time_vi": "Ngày nắng để thấy cầu vồng qua màn nước; mùa khô đường dễ đi.",
+      "tips_vi": "Đi giày bám tốt, mang nước; cẩn thận đá trơn ven sông; nên đi theo nhóm."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Mua%20Roi%20Waterfall%2C%20Thai%20Nguyen%2C%20Vietnam&ll=105.99,21.832&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Mua%20Roi%20Waterfall%2C%20Thai%20Nguyen%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Thác Mưa Rơi — Thần Sa, Võ Nhai",
+        "url": "https://vi.wikipedia.org/wiki/Th%E1%BA%A7n_Sa"
+      }
+    ],
+    "tags": [
+      "nature",
+      "waterfall",
+      "river",
+      "outdoor",
+      "offbeat"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
   }
 ]

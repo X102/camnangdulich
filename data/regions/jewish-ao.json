@@ -298,5 +298,1560 @@
     "status": "enriched",
     "last_updated": "2026-07-21",
     "country": "russia"
+  },
+  {
+    "id": "jewish-ao-blagoveshchensky-cathedral-birobidzhan",
+    "slug": "blagoveshchensky-cathedral-birobidzhan",
+    "region": "jewish-ao",
+    "region_name_vi": "Tỉnh tự trị Do Thái",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Nhà thờ chính toà Truyền Tin (Blagoveshchensky sobor)",
+    "name_ru": "Благовещенский кафедральный собор",
+    "name_en": "Annunciation Cathedral (Birobidzhan)",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 48.794353,
+      "lon": 132.927854
+    },
+    "address_vi": "Ул. Ленина, 34, thành phố Birobidzhan, Tỉnh tự trị Do Thái, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhà thờ chính toà của giáo phận Birobidzhan – ngôi nhà thờ Chính thống bằng đá đầu tiên của Tỉnh tự trị Do Thái, xây năm 2003–2005.",
+    "presentation_long_vi": "Благовещенский кафедральный собор là ngôi thánh đường Chính thống giáo bằng đá đầu tiên được dựng lên ở Tỉnh tự trị Do Thái – một vùng đất mà lịch sử thế kỷ 20 gắn với người Do Thái nhiều hơn là với Chính thống giáo. Công trình khởi công tháng 4/2003 và được thánh hiến ngày 21/9/2005 bởi vị giám mục đầu tiên của giáo phận Birobidzhan là Iosif. Nhà thờ có hai tầng: hạ đường cung hiến thánh Tông đồ Iakov, còn thượng đường mang tước hiệu Truyền Tin của Đức Mẹ. Với năm mái vòm hành hương màu vàng nổi bật trên nền trời, nội thất được các hoạ sĩ phục chế từ Serpukhov trang trí bích hoạ, đây là điểm nhấn kiến trúc tôn giáo trung tâm của thành phố và là trung tâm đời sống Chính thống giáo của cả tỉnh. Kế bên là toà nhà Quản trị giáo phận và trung tâm xã hội – giáo dục.",
+    "highlights_vi": [
+      "Nhà thờ Chính thống bằng đá đầu tiên của Tỉnh tự trị Do Thái.",
+      "Kiến trúc hai tầng, năm mái vòm vàng, bích hoạ nội thất.",
+      "Trung tâm giáo phận Birobidzhan, thánh hiến năm 2005."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa hằng ngày theo giờ lễ (thường sáng sớm đến chiều tối); giờ thánh lễ dày hơn vào cuối tuần và ngày lễ.",
+      "ticket_vi": "Miễn phí (nhà thờ đang hoạt động).",
+      "duration_vi": "Khoảng 20–40 phút.",
+      "best_time_vi": "Quanh năm; đẹp nhất vào các dịp lễ lớn của Chính thống giáo.",
+      "tips_vi": "Ăn mặc kín đáo; nữ nên mang khăn trùm đầu. Giữ yên lặng, xin phép trước khi chụp ảnh bên trong."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%91%D0%BB%D0%B0%D0%B3%D0%BE%D0%B2%D0%B5%D1%89%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%81%D0%BE%D0%B1%D0%BE%D1%80&ll=132.927854,48.794353&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Annunciation%20Cathedral%20%28Birobidzhan%29%2C%20Jewish%20Ao%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Соборы.ру — Кафедральный собор Благовещения Пресвятой Богородицы (Биробиджан)",
+        "url": "https://sobory.ru/article/?object=22277"
+      },
+      {
+        "title": "РИА Биробиджан — Благовещенский кафедральный собор",
+        "url": "https://riabir.ru/putevod/blagoveshhenskiy-kafedralnyiy-sobor/"
+      }
+    ],
+    "tags": [
+      "cathedral",
+      "orthodox",
+      "birobidzhan",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "jewish-ao-nikolskaya-church-birobidzhan",
+    "slug": "nikolskaya-church-birobidzhan",
+    "region": "jewish-ao",
+    "region_name_vi": "Tỉnh tự trị Do Thái",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Nhà thờ gỗ Thánh Nicholas (Tserkov Nikolaya Chudotvortsa)",
+    "name_ru": "Церковь Николая Чудотворца",
+    "name_en": "Church of St. Nicholas the Wonderworker (Birobidzhan)",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 48.797718,
+      "lon": 132.915168
+    },
+    "address_vi": "Ул. Шолом-Алейхема, 52, thành phố Birobidzhan, Tỉnh tự trị Do Thái, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Ngôi nhà thờ gỗ nhỏ dựng năm 1998–1999, từng giữ vai trò nhà thờ chính của Birobidzhan trước khi nhà thờ đá Truyền Tin ra đời.",
+    "presentation_long_vi": "Церковь Николая Чудотворца là một nhà thờ Chính thống bằng gỗ được xây dựng trong hai năm 1998–1999 và thánh hiến ngày 19/12/1999 – đúng ngày lễ Thánh Nikolay. Trong giai đoạn giáo phận Birobidzhan mới thành lập, ngôi nhà thờ gỗ khiêm nhường này từng đóng vai trò nhà thờ chính (собор) của thành phố cho đến khi nhà thờ đá Благовещенский được khánh thành tháng 9/2005. Nằm trên trục phố trung tâm mang tên nhà văn Sholom-Aleichem, với lối kiến trúc gỗ truyền thống Nga cùng mái vòm nhỏ, công trình là một điểm dừng chân yên tĩnh và là chứng nhân cho những bước đầu của đời sống Chính thống giáo tại vùng đất vốn nổi tiếng về văn hoá Do Thái.",
+    "highlights_vi": [
+      "Nhà thờ gỗ truyền thống Nga, thánh hiến năm 1999.",
+      "Từng là nhà thờ chính của Birobidzhan tới năm 2005.",
+      "Nằm trên phố trung tâm Sholom-Aleichem."
+    ],
+    "practical": {
+      "hours_vi": "Mở theo giờ lễ hằng ngày; đông tín hữu hơn vào cuối tuần.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 15–30 phút.",
+      "best_time_vi": "Quanh năm; đặc biệt dịp lễ Thánh Nikolay (19/12).",
+      "tips_vi": "Trang phục kín đáo, giữ yên tĩnh; kết hợp dạo bộ dọc phố Sholom-Aleichem gần đó."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C%20%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D1%8F%20%D0%A7%D1%83%D0%B4%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D1%86%D0%B0&ll=132.915168,48.797718&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Church%20of%20St.%20Nicholas%20the%20Wonderworker%20%28Birobidzhan%29%2C%20Jewish%20Ao%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Соборы.ру — Церковь Николая Чудотворца (Биробиджан)",
+        "url": "https://sobory.ru/article/?object=22276"
+      }
+    ],
+    "tags": [
+      "church",
+      "wooden-church",
+      "orthodox",
+      "birobidzhan"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "jewish-ao-birobidzhan-philharmonic",
+    "slug": "birobidzhan-philharmonic",
+    "region": "jewish-ao",
+    "region_name_vi": "Tỉnh tự trị Do Thái",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Nhạc viện – Nhà hát giao hưởng tỉnh Birobidzhan (Filarmoniya)",
+    "name_ru": "Биробиджанская областная филармония",
+    "name_en": "Birobidzhan Regional Philharmonic",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 48.786869,
+      "lon": 132.929777
+    },
+    "address_vi": "Пр. 60-летия СССР, 14 (Quảng trường Nhà hát), thành phố Birobidzhan, Tỉnh tự trị Do Thái, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Trung tâm âm nhạc chính của tỉnh, thành lập năm 1977, với phòng hoà nhạc 674 chỗ ngay trên Quảng trường Nhà hát.",
+    "presentation_long_vi": "Биробиджанская областная филармония là thiết chế biểu diễn âm nhạc trung tâm của Tỉnh tự trị Do Thái. Được thành lập năm 1977, đến năm 1984 nhạc viện dời về toà nhà hiện tại trên Quảng trường Nhà hát (Театральная площадь), sở hữu phòng hoà nhạc khoảng 674 ghế. Chương trình ở đây trải rộng từ nhạc hàn lâm, hoà tấu dân gian đến các đêm nhạc Do Thái (klezmer) và những sự kiện văn hoá – lễ hội mang bản sắc riêng của vùng. Nằm giữa quảng trường có đài phun nước và bồn hoa trang trí, cùng tượng «Nghệ sĩ vĩ cầm» kế bên, filармония là hạt nhân của không gian văn hoá – giải trí công cộng ở trung tâm Birobidzhan.",
+    "highlights_vi": [
+      "Trung tâm âm nhạc của tỉnh, thành lập 1977, hội trường ~674 chỗ.",
+      "Chương trình đa dạng: hàn lâm, dân gian, nhạc Do Thái klezmer.",
+      "Toạ lạc trên Quảng trường Nhà hát trung tâm thành phố."
+    ],
+    "practical": {
+      "hours_vi": "Phòng vé thường mở thứ Ba–thứ Sáu 12:00–19:00 (nghỉ trưa); biểu diễn theo lịch mùa.",
+      "ticket_vi": "Có phí theo từng chương trình; xem lịch và giá trên trang chính thức.",
+      "duration_vi": "Một buổi diễn khoảng 1,5–2 giờ.",
+      "best_time_vi": "Mùa diễn thu – xuân; kiểm tra áp phích trước khi tới.",
+      "tips_vi": "Đặt vé trước cho các đêm nhạc lớn; kết hợp dạo Quảng trường Nhà hát và chụp ảnh tượng «Nghệ sĩ vĩ cầm»."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%91%D0%B8%D1%80%D0%BE%D0%B1%D0%B8%D0%B4%D0%B6%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%BD%D0%B0%D1%8F%20%D1%84%D0%B8%D0%BB%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F&ll=132.929777,48.786869&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Birobidzhan%20Regional%20Philharmonic%2C%20Jewish%20Ao%2C%20Russia"
+    },
+    "official_site": "https://www.birfil.ru/",
+    "sources": [
+      {
+        "title": "Культура.РФ — Биробиджанская областная филармония",
+        "url": "https://www.culture.ru/institutes/53698/birobidzhanskaya-oblastnaya-filarmoniya"
+      },
+      {
+        "title": "Яндекс Карты — Биробиджанская областная филармония",
+        "url": "https://yandex.ru/maps/org/birobidzhanskaya_oblastnaya_filarmoniya/1043542327/"
+      }
+    ],
+    "tags": [
+      "philharmonic",
+      "concert-hall",
+      "music",
+      "birobidzhan"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "jewish-ao-kudesnik-puppet-theatre-birobidzhan",
+    "slug": "kudesnik-puppet-theatre-birobidzhan",
+    "region": "jewish-ao",
+    "region_name_vi": "Tỉnh tự trị Do Thái",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Nhà hát múa rối «Kudesnik» (Teatr kukol Kudesnik)",
+    "name_ru": "Театр кукол «Кудесник»",
+    "name_en": "Kudesnik Puppet Theatre",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 48.798508,
+      "lon": 132.917622
+    },
+    "address_vi": "Швейный переулок, 6Б, thành phố Birobidzhan, Tỉnh tự trị Do Thái, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhà hát múa rối duy nhất của tỉnh, điểm giải trí quen thuộc cho gia đình và trẻ em ở Birobidzhan.",
+    "presentation_long_vi": "Театр кукол «Кудесник» là nhà hát múa rối duy nhất của Tỉnh tự trị Do Thái, chuyên dàn dựng các vở diễn dành cho thiếu nhi và gia đình dựa trên truyện cổ tích Nga, dân gian thế giới và những câu chuyện mang màu sắc địa phương. Sân khấu rối nhỏ ấm cúng đặt trong một toà nhà ở Швейный переулок, là nơi thường xuyên tổ chức các buổi diễn cuối tuần, chương trình dịp lễ và hoạt động giáo dục nghệ thuật cho trẻ. Với một thành phố nhỏ như Birobidzhan, «Kudesnik» là địa chỉ văn hoá thân thuộc, giúp du khách đi cùng con nhỏ có thêm lựa chọn trải nghiệm.",
+    "highlights_vi": [
+      "Nhà hát múa rối duy nhất của Tỉnh tự trị Do Thái.",
+      "Chương trình hướng tới thiếu nhi và gia đình.",
+      "Không gian sân khấu rối ấm cúng, thân thiện."
+    ],
+    "practical": {
+      "hours_vi": "Biểu diễn theo lịch (thường cuối tuần và dịp lễ); phòng vé mở theo giờ hành chính.",
+      "ticket_vi": "Vé giá bình dân theo suất diễn.",
+      "duration_vi": "Một vở khoảng 40–60 phút.",
+      "best_time_vi": "Cuối tuần, kỳ nghỉ học và dịp lễ thiếu nhi.",
+      "tips_vi": "Phù hợp cho gia đình có trẻ nhỏ; nên hỏi lịch diễn trước vì suất diễn thay đổi theo tuần."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A2%D0%B5%D0%B0%D1%82%D1%80%20%D0%BA%D1%83%D0%BA%D0%BE%D0%BB%20%C2%AB%D0%9A%D1%83%D0%B4%D0%B5%D1%81%D0%BD%D0%B8%D0%BA%C2%BB&ll=132.917622,48.798508&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kudesnik%20Puppet%20Theatre%2C%20Jewish%20Ao%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Яндекс Карты — Театр кукол «Кудесник» (Биробиджан)",
+        "url": "https://yandex.ru/maps/org/kudesnik/1094333710/"
+      }
+    ],
+    "tags": [
+      "puppet-theatre",
+      "family",
+      "kids",
+      "birobidzhan"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "jewish-ao-regional-lore-museum-birobidzhan",
+    "slug": "regional-lore-museum-birobidzhan",
+    "region": "jewish-ao",
+    "region_name_vi": "Tỉnh tự trị Do Thái",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Bảo tàng địa phương tỉnh Birobidzhan (Kraevedcheskiy muzey)",
+    "name_ru": "Областной краеведческий музей г. Биробиджана",
+    "name_en": "Regional Museum of Local Lore (Birobidzhan)",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 48.793176,
+      "lon": 132.928569
+    },
+    "address_vi": "Ул. Ленина, 25, thành phố Birobidzhan, Tỉnh tự trị Do Thái, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng lịch sử – thiên nhiên chủ lực của tỉnh, mở cửa từ năm 1945, giới thiệu quá trình khai phá vùng Amur và lịch sử người Do Thái tới định cư.",
+    "presentation_long_vi": "Областной краеведческий музей là bảo tàng tổng hợp chủ lực của Tỉnh tự trị Do Thái. Được quyết định thành lập năm 1944 và đón khách lần đầu tháng 6/1945, bảo tàng tập hợp các gian trưng bày về thiên nhiên vùng đất (động – thực vật, khoáng vật của rặng Tiểu Hưng An), về quá khứ khảo cổ, về lịch sử người Nga khai phá lưu vực Amur, và đặc biệt là câu chuyện những đoàn di dân Do Thái đến lập nghiệp từ cuối thập niên 1920 tạo nên vùng tự trị độc nhất vô nhị này. Bộ sưu tập gồm hiện vật dân tộc học, tài liệu, ảnh tư liệu và các phục dựng sinh động, giúp du khách hiểu bối cảnh hình thành «Birobidzhan» – một thử nghiệm lịch sử về quê hương của người Do Thái ở Viễn Đông Xô-viết.",
+    "highlights_vi": [
+      "Bảo tàng tổng hợp lâu đời nhất tỉnh, mở cửa từ 1945.",
+      "Trưng bày thiên nhiên, khảo cổ, khai phá Amur và lịch sử di dân Do Thái.",
+      "Điểm khởi đầu lý tưởng để hiểu vùng tự trị độc đáo này."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa các ngày trong tuần theo giờ hành chính (thường nghỉ đầu tuần); nên kiểm tra trước.",
+      "ticket_vi": "Vé vào cửa mức bình dân; có thể phụ phí cho triển lãm đặc biệt.",
+      "duration_vi": "Khoảng 1–1,5 giờ.",
+      "best_time_vi": "Quanh năm; tiện ghép với các điểm trung tâm trên phố Lenin.",
+      "tips_vi": "Cùng toà nhà (Ленина 25) còn có Thư viện khoa học tỉnh Sholom-Aleichem – có thể tham quan liền mạch."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9E%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%BD%D0%BE%D0%B9%20%D0%BA%D1%80%D0%B0%D0%B5%D0%B2%D0%B5%D0%B4%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%20%D0%B3.%20%D0%91%D0%B8%D1%80%D0%BE%D0%B1%D0%B8%D0%B4%D0%B6%D0%B0%D0%BD%D0%B0&ll=132.928569,48.793176&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Regional%20Museum%20of%20Local%20Lore%20%28Birobidzhan%29%2C%20Jewish%20Ao%2C%20Russia"
+    },
+    "official_site": "https://okm79.ru/",
+    "sources": [
+      {
+        "title": "Культура.РФ — Областной краеведческий музей г. Биробиджана",
+        "url": "https://www.culture.ru/institutes/12091/oblastnoi-kraevedcheskii-muzei-g-birobidzhana"
+      },
+      {
+        "title": "Trang chính thức bảo tàng (okm79.ru)",
+        "url": "https://okm79.ru/"
+      }
+    ],
+    "tags": [
+      "museum",
+      "local-history",
+      "ethnography",
+      "birobidzhan"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "jewish-ao-contemporary-art-museum-eao",
+    "slug": "contemporary-art-museum-eao",
+    "region": "jewish-ao",
+    "region_name_vi": "Tỉnh tự trị Do Thái",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Bảo tàng Nghệ thuật Đương đại tỉnh (Muzey sovremennogo iskusstva)",
+    "name_ru": "Музей современного искусства Еврейской автономной области",
+    "name_en": "Museum of Contemporary Art of the Jewish AO",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 48.789534,
+      "lon": 132.93112
+    },
+    "address_vi": "Ул. Шолом-Алейхема, 11 (Cung Văn hoá thành phố – GDK), thành phố Birobidzhan, Tỉnh tự trị Do Thái, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng nghệ thuật hiện đại của tỉnh, nổi tiếng với bộ sưu tập tranh chủ đề Cựu Ước độc đáo.",
+    "presentation_long_vi": "Музей современного искусства của Tỉnh tự trị Do Thái là điểm đến nghệ thuật đặc sắc đặt trong Cung Văn hoá thành phố (ГДК) trên phố Sholom-Aleichem. Bảo tàng lưu giữ một bộ sưu tập tranh lấy cảm hứng từ các mô-típ và câu chuyện trong Kinh Cựu Ước – một chủ đề gắn bó mật thiết với bản sắc Do Thái của vùng đất, được xem là độc nhất trong hệ thống bảo tàng Nga. Bên cạnh đó là các tác phẩm hội hoạ, đồ hoạ và điêu khắc của nghệ sĩ đương đại vùng Viễn Đông cùng những triển lãm luân phiên. Đây là nơi giao thoa giữa nghệ thuật hiện đại và di sản văn hoá – tôn giáo Do Thái, mang lại một góc nhìn khác biệt so với các bảo tàng lịch sử truyền thống.",
+    "highlights_vi": [
+      "Bộ sưu tập tranh chủ đề Cựu Ước được xem là độc nhất ở Nga.",
+      "Trưng bày nghệ thuật đương đại vùng Viễn Đông.",
+      "Đặt trong Cung Văn hoá thành phố trên phố Sholom-Aleichem."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa theo giờ hành chính các ngày trong tuần; nên kiểm tra trước khi tới.",
+      "ticket_vi": "Vé vào cửa mức bình dân.",
+      "duration_vi": "Khoảng 45–60 phút.",
+      "best_time_vi": "Quanh năm; hỏi lịch triển lãm chuyên đề đang diễn ra.",
+      "tips_vi": "Nằm ngay trung tâm, dễ ghép với phố đi bộ Arbat và Quảng trường Nhà hát."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%B9%20%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B0%20%D0%95%D0%B2%D1%80%D0%B5%D0%B9%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D0%BE%D0%B9%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8&ll=132.93112,48.789534&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Contemporary%20Art%20of%20the%20Jewish%20AO%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Яндекс Карты — Музей современного искусства (Биробиджан)",
+        "url": "https://yandex.ru/maps/org/muzey_sovremennogo_iskusstva/1380266398/"
+      }
+    ],
+    "tags": [
+      "museum",
+      "contemporary-art",
+      "jewish-culture",
+      "birobidzhan"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "jewish-ao-first-settlers-monument-birobidzhan",
+    "slug": "first-settlers-monument-birobidzhan",
+    "region": "jewish-ao",
+    "region_name_vi": "Tỉnh tự trị Do Thái",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Đài tưởng niệm những di dân đầu tiên (Pamyatnik pervym pereselentsam)",
+    "name_ru": "Памятник первым переселенцам",
+    "name_en": "Monument to the First Settlers",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 48.792943,
+      "lon": 132.933577
+    },
+    "address_vi": "Привокзальная площадь (cạnh ga đường sắt), thành phố Birobidzhan, Tỉnh tự trị Do Thái, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Tượng đồng khắc hoạ một gia đình di dân Do Thái ngồi trên xe ngựa, đặt ngay quảng trường trước nhà ga – biểu tượng cho những người đầu tiên đến khai phá vùng đất.",
+    "presentation_long_vi": "Памятник первым переселенцам là một trong những biểu tượng cảm động nhất của Birobidzhan. Nhóm tượng đồng khắc hoạ hình ảnh một gia đình di dân trên chiếc xe ngựa chất đầy hành lý – bao tải, đồ đạc và cả ấm samovar – gợi lại làn sóng người Do Thái từ nhiều nơi đổ về lập nghiệp ở vùng Viễn Đông từ cuối thập niên 1920. Tác phẩm được đặt ở Quảng trường Nhà ga, ngay nơi những đoàn tàu năm xưa đưa các gia đình tới miền đất mới. Đây là điểm chụp ảnh và tưởng niệm gắn liền với câu chuyện hình thành Tỉnh tự trị Do Thái, thường được ghé thăm cùng đài Menorah và tượng nhà văn Sholom-Aleichem gần đó.",
+    "highlights_vi": [
+      "Tượng đồng gia đình di dân trên xe ngựa với hành lý, samovar.",
+      "Đặt tại Quảng trường Nhà ga – nơi các đoàn di dân từng tới.",
+      "Biểu tượng của làn sóng lập nghiệp hình thành vùng tự trị."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tham quan tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 10–15 phút.",
+      "best_time_vi": "Ban ngày để chụp ảnh; đẹp cả khi có ánh đèn buổi tối.",
+      "tips_vi": "Kết hợp tham quan đài Menorah và ga Birobidzhan I liền kề."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%BC%20%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D1%86%D0%B0%D0%BC&ll=132.933577,48.792943&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Monument%20to%20the%20First%20Settlers%2C%20Jewish%20Ao%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Яндекс Карты — Памятник первым переселенцам (Биробиджан)",
+        "url": "https://yandex.ru/maps/org/pervym_pereselentsam/219319683200/"
+      }
+    ],
+    "tags": [
+      "monument",
+      "settlers",
+      "history",
+      "birobidzhan"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "jewish-ao-fiddler-sculpture-birobidzhan",
+    "slug": "fiddler-sculpture-birobidzhan",
+    "region": "jewish-ao",
+    "region_name_vi": "Tỉnh tự trị Do Thái",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Tượng «Nghệ sĩ vĩ cầm» (Skulptura Skripach)",
+    "name_ru": "Скульптура «Скрипач»",
+    "name_en": "The Fiddler Sculpture",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 48.787825,
+      "lon": 132.930041
+    },
+    "address_vi": "Театральная площадь (trước Nhạc viện tỉnh), thành phố Birobidzhan, Tỉnh tự trị Do Thái, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Tượng đồng người nghệ sĩ kéo vĩ cầm trên Quảng trường Nhà hát – hình ảnh gợi nhắc «Người kéo vĩ cầm trên mái nhà» và di sản âm nhạc Do Thái.",
+    "presentation_long_vi": "Скульптура «Скрипач» là bức tượng đồng khắc hoạ một nghệ sĩ đang say sưa kéo vĩ cầm, đặt trên Quảng trường Nhà hát ngay trước toà nhà Nhạc viện tỉnh Birobidzhan. Hình tượng gợi liên tưởng tới «Fiddler on the Roof» (Người kéo vĩ cầm trên mái nhà) – biểu tượng quen thuộc của văn hoá và âm nhạc Do Thái Đông Âu, đồng thời tôn vinh truyền thống klezmer gắn với cộng đồng đã tạo nên vùng đất này. Xung quanh tượng là các nàng thơ, đài phun nước và bồn hoa trang trí, tạo nên một góc quảng trường sống động, được người dân và du khách yêu thích để dạo chơi, chụp ảnh.",
+    "highlights_vi": [
+      "Tượng đồng nghệ sĩ vĩ cầm gợi nhắc «Fiddler on the Roof».",
+      "Biểu tượng âm nhạc klezmer và văn hoá Do Thái của vùng.",
+      "Nằm trên Quảng trường Nhà hát với đài phun nước, bồn hoa."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tham quan tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 10–15 phút.",
+      "best_time_vi": "Mùa ấm khi đài phun nước hoạt động; buổi tối có đèn.",
+      "tips_vi": "Ghép cùng buổi diễn ở Nhạc viện tỉnh ngay bên cạnh."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%BA%D1%83%D0%BB%D1%8C%D0%BF%D1%82%D1%83%D1%80%D0%B0%20%C2%AB%D0%A1%D0%BA%D1%80%D0%B8%D0%BF%D0%B0%D1%87%C2%BB&ll=132.930041,48.787825&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=The%20Fiddler%20Sculpture%2C%20Jewish%20Ao%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Яндекс Карты — Скульптура «Скрипач» (Биробиджан)",
+        "url": "https://yandex.ru/maps/org/skripach/209137397571/"
+      }
+    ],
+    "tags": [
+      "monument",
+      "sculpture",
+      "music",
+      "jewish-culture",
+      "birobidzhan"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "jewish-ao-eternal-flame-victory-square-birobidzhan",
+    "slug": "eternal-flame-victory-square-birobidzhan",
+    "region": "jewish-ao",
+    "region_name_vi": "Tỉnh tự trị Do Thái",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Đài Ngọn lửa Vĩnh cửu – Vườn hoa Chiến thắng (Vechny ogon)",
+    "name_ru": "Мемориал «Вечный огонь» / сквер Победы",
+    "name_en": "Eternal Flame Memorial / Victory Square",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 48.791508,
+      "lon": 132.932787
+    },
+    "address_vi": "Сквер Победы (gần Quảng trường Nhà ga), thành phố Birobidzhan, Tỉnh tự trị Do Thái, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Đài tưởng niệm Chiến tranh Vệ quốc Vĩ đại với Ngọn lửa Vĩnh cửu, đặt trong Vườn hoa Chiến thắng ở trung tâm Birobidzhan.",
+    "presentation_long_vi": "Мемориал «Вечный огонь» nằm trong сквер Победы (Vườn hoa Chiến thắng) là đài tưởng niệm chính của Birobidzhan dành cho những người con của vùng đất đã ngã xuống trong Chiến tranh Vệ quốc Vĩ đại 1941–1945. Vườn hoa được khánh thành ngày 8/5/1975 nhân 30 năm Chiến thắng, và Ngọn lửa Vĩnh cửu được thắp lên cạnh bia tưởng niệm cùng «Con đường các Anh hùng» (Аллея героев). Đây là nơi diễn ra các nghi lễ đặt hoa vào Ngày Chiến thắng 9/5 và những dịp trọng thể khác, đồng thời là một không gian xanh trang nghiêm giữa lòng thành phố. Khu tưởng niệm đã được tu bổ và thắp lại ngọn lửa sau cải tạo cuối năm 2025.",
+    "highlights_vi": [
+      "Ngọn lửa Vĩnh cửu tưởng niệm liệt sĩ Chiến tranh Vệ quốc.",
+      "Vườn hoa Chiến thắng khánh thành năm 1975, có Аллея героев.",
+      "Nơi tổ chức nghi lễ Ngày Chiến thắng 9/5."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tham quan tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 15–20 phút.",
+      "best_time_vi": "Quanh năm; trang trọng nhất dịp 9/5 (Ngày Chiến thắng).",
+      "tips_vi": "Giữ thái độ trang nghiêm; gần Quảng trường Nhà ga nên dễ kết hợp tham quan."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%20%C2%AB%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9%20%D0%BE%D0%B3%D0%BE%D0%BD%D1%8C%C2%BB%20/%20%D1%81%D0%BA%D0%B2%D0%B5%D1%80%20%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D1%8B&ll=132.932787,48.791508&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Eternal%20Flame%20Memorial%20/%20Victory%20Square%2C%20Jewish%20Ao%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Яндекс Карты — Вечный огонь / сквер Победы (Биробиджан)",
+        "url": "https://yandex.ru/maps/org/vechny_ogon/165913077776/"
+      }
+    ],
+    "tags": [
+      "memorial",
+      "eternal-flame",
+      "wwii",
+      "birobidzhan"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "jewish-ao-birobidzhan-city-park",
+    "slug": "birobidzhan-city-park",
+    "region": "jewish-ao",
+    "region_name_vi": "Tỉnh tự trị Do Thái",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Công viên Văn hoá – Nghỉ ngơi thành phố & hồ Komsomol (Gorodskoy park)",
+    "name_ru": "Городской парк культуры и отдыха и Комсомольское озеро",
+    "name_en": "Birobidzhan City Park & Komsomol Lake",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 48.784107,
+      "lon": 132.931566
+    },
+    "address_vi": "Ул. Советская, ven sông Bira, thành phố Birobidzhan, Tỉnh tự trị Do Thái, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Công viên trung tâm bên sông Bira với khu vui chơi và hồ – bãi tắm liền kề, là nơi nghỉ ngơi quen thuộc của người dân thành phố.",
+    "presentation_long_vi": "Городской парк культуры и отдыха là công viên trung tâm của Birobidzhan, trải dọc bờ sông Bira. Đây là không gian nghỉ ngơi, dạo chơi và giải trí quen thuộc của người dân với các lối đi rợp cây, khu trò chơi thiếu nhi, sân khấu ngoài trời và những sự kiện văn hoá theo mùa. Sát cạnh công viên là hồ nước cùng bãi tắm – điểm hạ nhiệt được ưa chuộng trong những ngày hè oi ả của vùng Viễn Đông. Kết hợp giữa mảng xanh, mặt nước và không khí sinh hoạt cộng đồng, đây là nơi lý tưởng để du khách cảm nhận nhịp sống thường nhật của thủ phủ tỉnh nhỏ nhất về dân số này.",
+    "highlights_vi": [
+      "Công viên trung tâm bên bờ sông Bira.",
+      "Khu vui chơi, sân khấu ngoài trời, sự kiện theo mùa.",
+      "Có hồ và bãi tắm liền kề cho mùa hè."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, mở cửa tự do; các trò chơi/dịch vụ hoạt động chủ yếu mùa ấm.",
+      "ticket_vi": "Vào cửa miễn phí; một số trò chơi và dịch vụ tính phí riêng.",
+      "duration_vi": "Khoảng 1–2 giờ.",
+      "best_time_vi": "Cuối xuân đến đầu thu; mùa hè cho tắm hồ.",
+      "tips_vi": "Mang đồ chống muỗi vào mùa hè; kết hợp dạo bộ ven sông Bira."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B9%20%D0%BF%D0%B0%D1%80%D0%BA%20%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D1%8B%20%D0%B8%20%D0%BE%D1%82%D0%B4%D1%8B%D1%85%D0%B0%20%D0%B8%20%D0%9A%D0%BE%D0%BC%D1%81%D0%BE%D0%BC%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B5%20%D0%BE%D0%B7%D0%B5%D1%80%D0%BE&ll=132.931566,48.784107&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Birobidzhan%20City%20Park%20%26%20Komsomol%20Lake%2C%20Jewish%20Ao%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Яндекс Карты — Городской парк (Биробиджан)",
+        "url": "https://yandex.ru/maps/11393/birobidgan/search/%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B9%20%D0%BF%D0%B0%D1%80%D0%BA/"
+      }
+    ],
+    "tags": [
+      "park",
+      "recreation",
+      "lake",
+      "bira-river",
+      "birobidzhan"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "jewish-ao-sholom-aleichem-library-birobidzhan",
+    "slug": "sholom-aleichem-library-birobidzhan",
+    "region": "jewish-ao",
+    "region_name_vi": "Tỉnh tự trị Do Thái",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Thư viện khoa học tỉnh mang tên Sholom-Aleichem (Biblioteka im. Sholom-Aleykhema)",
+    "name_ru": "Областная научная библиотека им. Шолом-Алейхема",
+    "name_en": "Sholom-Aleichem Regional Scientific Library",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 48.792979,
+      "lon": 132.928952
+    },
+    "address_vi": "Ул. Ленина, 25, thành phố Birobidzhan, Tỉnh tự trị Do Thái, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Thư viện lớn nhất tỉnh mang tên đại văn hào Do Thái Sholom-Aleichem, cũng là trung tâm lưu giữ tư liệu và văn hoá của vùng.",
+    "presentation_long_vi": "Областная научная библиотека имени Шолом-Алейхема là thư viện tổng hợp lớn nhất Tỉnh tự trị Do Thái, mang tên nhà văn kinh điển viết bằng tiếng Yiddish – người đã trở thành biểu tượng văn hoá của vùng đất. Bên cạnh chức năng thư viện với kho sách phong phú, nơi đây còn là trung tâm lưu giữ tư liệu địa phương, tổ chức triển lãm, gặp gỡ văn học và các hoạt động gìn giữ di sản văn hoá – ngôn ngữ Do Thái (Yiddish). Toà nhà nằm ngay trung tâm trên phố Lenin, cùng địa chỉ với Bảo tàng địa phương, tạo thành một cụm văn hoá tiện lợi cho du khách muốn tìm hiểu sâu về Birobidzhan.",
+    "highlights_vi": [
+      "Thư viện lớn nhất tỉnh, mang tên đại văn hào Sholom-Aleichem.",
+      "Trung tâm lưu giữ tư liệu và di sản văn hoá Yiddish.",
+      "Cùng toà nhà với Bảo tàng địa phương trên phố Lenin."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa theo giờ hành chính các ngày trong tuần; thường nghỉ một ngày cố định.",
+      "ticket_vi": "Vào tham quan/đọc miễn phí.",
+      "duration_vi": "Khoảng 20–40 phút nếu tham quan.",
+      "best_time_vi": "Quanh năm; chú ý các sự kiện văn học – triển lãm.",
+      "tips_vi": "Kết hợp với Bảo tàng địa phương cùng toà nhà (Ленина 25)."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9E%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%BD%D0%B0%D1%8F%20%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%B0%D1%8F%20%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0%20%D0%B8%D0%BC.%20%D0%A8%D0%BE%D0%BB%D0%BE%D0%BC-%D0%90%D0%BB%D0%B5%D0%B9%D1%85%D0%B5%D0%BC%D0%B0&ll=132.928952,48.792979&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Sholom-Aleichem%20Regional%20Scientific%20Library%2C%20Jewish%20Ao%2C%20Russia"
+    },
+    "official_site": "https://bounb.ru/",
+    "sources": [
+      {
+        "title": "Trang chính thức thư viện (bounb.ru)",
+        "url": "https://bounb.ru/"
+      },
+      {
+        "title": "Яндекс Карты — Научная библиотека им. Шолом-Алейхема",
+        "url": "https://yandex.ru/maps/org/nauchnaya_biblioteka_im_sholom_aleykhema/1340875030/"
+      }
+    ],
+    "tags": [
+      "library",
+      "culture",
+      "yiddish",
+      "birobidzhan"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "jewish-ao-lenin-square-birobidzhan",
+    "slug": "lenin-square-birobidzhan",
+    "region": "jewish-ao",
+    "region_name_vi": "Tỉnh tự trị Do Thái",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Quảng trường Lenin (Ploshchad Lenina)",
+    "name_ru": "Площадь имени Ленина",
+    "name_en": "Lenin Square (Birobidzhan)",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 48.790149,
+      "lon": 132.925047
+    },
+    "address_vi": "Trung tâm hành chính thành phố Birobidzhan, Tỉnh tự trị Do Thái, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Quảng trường trung tâm và là nơi tổ chức các sự kiện lớn của thành phố, với tượng đài Lenin dựng năm 1978.",
+    "presentation_long_vi": "Площадь имени Ленина là quảng trường trung tâm của Birobidzhan – không gian công cộng chính, nơi bao quanh là các toà nhà chính quyền tỉnh và thành phố. Tượng đài Vladimir Lenin tại đây được khánh thành ngày 7/10/1978. Quảng trường là địa điểm diễn ra những sự kiện quan trọng: mít-tinh, lễ hội thành phố, hội chợ, chương trình đón năm mới với cây thông và sân trượt băng vào mùa đông. Rộng rãi và nằm ở vị trí trung tâm, đây là điểm khởi đầu thuận tiện để dạo bộ khám phá khu lõi lịch sử – hành chính của thủ phủ tỉnh.",
+    "highlights_vi": [
+      "Quảng trường trung tâm hành chính của thành phố.",
+      "Tượng đài Lenin khánh thành năm 1978.",
+      "Nơi tổ chức lễ hội, mít-tinh và sự kiện năm mới."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tham quan tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 15–20 phút.",
+      "best_time_vi": "Quanh năm; sôi động nhất vào dịp lễ và mùa đông (chợ năm mới).",
+      "tips_vi": "Điểm trung tâm dễ định vị; từ đây đi bộ tới các bảo tàng, nhà thờ và phố đi bộ."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0&ll=132.925047,48.790149&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Lenin%20Square%20%28Birobidzhan%29%2C%20Jewish%20Ao%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Яндекс Карты — Площадь имени Ленина (Биробиджан)",
+        "url": "https://yandex.ru/maps/11393/birobidgan/geo/ploshchad_imeni_lenina/1520635919/"
+      }
+    ],
+    "tags": [
+      "square",
+      "city-center",
+      "lenin",
+      "birobidzhan"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "jewish-ao-theatre-square-birobidzhan",
+    "slug": "theatre-square-birobidzhan",
+    "region": "jewish-ao",
+    "region_name_vi": "Tỉnh tự trị Do Thái",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Quảng trường Nhà hát (Teatralnaya ploshchad)",
+    "name_ru": "Театральная площадь",
+    "name_en": "Theatre Square (Birobidzhan)",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 48.78725,
+      "lon": 132.9299
+    },
+    "address_vi": "Trước Nhạc viện tỉnh, pr. 60-letiya SSSR, thành phố Birobidzhan, Tỉnh tự trị Do Thái, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Quảng trường văn hoá của thành phố trước Nhạc viện tỉnh, với đài phun nước, bồn hoa và tượng «Nghệ sĩ vĩ cầm».",
+    "presentation_long_vi": "Театральная площадь là quảng trường văn hoá trung tâm của Birobidzhan, trải rộng trước toà nhà Nhạc viện tỉnh. Đây là không gian dạo chơi sinh động với đài phun nước, các bồn hoa được tạo hình trang trí và bức tượng «Nghệ sĩ vĩ cầm» nổi tiếng. Vào mùa ấm, quảng trường là nơi hò hẹn, đi dạo buổi tối, tổ chức các buổi biểu diễn ngoài trời và lễ hội thành phố; mùa đông lại khoác lên mình khung cảnh trang trí băng tuyết. Kết nối liền mạch với Nhạc viện, quảng trường tạo thành trái tim văn hoá – giải trí của thủ phủ tỉnh.",
+    "highlights_vi": [
+      "Quảng trường văn hoá trước Nhạc viện tỉnh.",
+      "Đài phun nước, bồn hoa và tượng «Nghệ sĩ vĩ cầm».",
+      "Nơi diễn ra biểu diễn ngoài trời và lễ hội thành phố."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tham quan tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 15–30 phút.",
+      "best_time_vi": "Mùa ấm khi đài phun nước hoạt động; buổi tối lên đèn.",
+      "tips_vi": "Ghép cùng Nhạc viện tỉnh và tượng «Nghệ sĩ vĩ cầm» ngay tại quảng trường."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A2%D0%B5%D0%B0%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C&ll=132.9299,48.78725&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Theatre%20Square%20%28Birobidzhan%29%2C%20Jewish%20Ao%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Яндекс Карты — Театральная площадь (Биробиджан)",
+        "url": "https://yandex.ru/maps/11393/birobidgan/search/%D0%A2%D0%B5%D0%B0%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C/"
+      }
+    ],
+    "tags": [
+      "square",
+      "fountain",
+      "city-center",
+      "birobidzhan"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "jewish-ao-birobidzhan-arbat",
+    "slug": "birobidzhan-arbat",
+    "region": "jewish-ao",
+    "region_name_vi": "Tỉnh tự trị Do Thái",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Phố đi bộ Arbat Birobidzhan (Birobidzhanskiy Arbat)",
+    "name_ru": "Биробиджанский Арбат (пешеходная зона ул. Шолом-Алейхема)",
+    "name_en": "Birobidzhan Arbat (pedestrian street)",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 48.78875,
+      "lon": 132.934243
+    },
+    "address_vi": "Đoạn đi bộ phố Шолом-Алейхема (khu vực nhà số 1–11), thành phố Birobidzhan, Tỉnh tự trị Do Thái, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Đoạn phố đi bộ trung tâm mang tên nhà văn Sholom-Aleichem, với quán xá, cửa hàng và không khí thư giãn.",
+    "presentation_long_vi": "Биробиджанский Арбат là tên gọi thân mật cho đoạn phố đi bộ trên trục ул. Шолом-Алейхема ở trung tâm thành phố – tương tự phố Arbat nổi tiếng ở Moskva. Đây là nơi tập trung cửa hàng, quán cà phê, ghế nghỉ và cây xanh, là không gian dạo bộ, mua sắm và gặp gỡ được người dân yêu thích. Trên và quanh phố còn có các chi tiết trang trí, tiểu cảnh gợi nhắc bản sắc Do Thái của thành phố. Với những du khách muốn cảm nhận nhịp sống đời thường của Birobidzhan, đây là đoạn phố đáng để tản bộ, thưởng thức đồ uống và quan sát sinh hoạt địa phương.",
+    "highlights_vi": [
+      "Phố đi bộ trung tâm mang tên nhà văn Sholom-Aleichem.",
+      "Nhiều quán cà phê, cửa hàng, ghế nghỉ và cây xanh.",
+      "Không gian dạo bộ, mua sắm quen thuộc của người dân."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, dạo bộ tự do mọi lúc; quán xá theo giờ riêng.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 30–60 phút.",
+      "best_time_vi": "Mùa ấm và buổi chiều tối; mùa đông khá lạnh.",
+      "tips_vi": "Kết hợp với Bảo tàng nghệ thuật hiện đại và Quảng trường Nhà hát gần đó."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%91%D0%B8%D1%80%D0%BE%D0%B1%D0%B8%D0%B4%D0%B6%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%90%D1%80%D0%B1%D0%B0%D1%82%20%28%D0%BF%D0%B5%D1%88%D0%B5%D1%85%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F%20%D0%B7%D0%BE%D0%BD%D0%B0%20%D1%83%D0%BB.%20%D0%A8%D0%BE%D0%BB%D0%BE%D0%BC-%D0%90%D0%BB%D0%B5%D0%B9%D1%85%D0%B5%D0%BC%D0%B0%29&ll=132.934243,48.78875&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Birobidzhan%20Arbat%20%28pedestrian%20street%29%2C%20Jewish%20Ao%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Яндекс Карты — пешеходная зона ул. Шолом-Алейхема (Биробиджан)",
+        "url": "https://yandex.ru/maps/org/arbat/157498424964/"
+      }
+    ],
+    "tags": [
+      "pedestrian-street",
+      "shopping",
+      "walk",
+      "birobidzhan"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "jewish-ao-bira-river-embankment-birobidzhan",
+    "slug": "bira-river-embankment-birobidzhan",
+    "region": "jewish-ao",
+    "region_name_vi": "Tỉnh tự trị Do Thái",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Sông Bira và kè dạo bộ (Reka Bira / naberezhnaya)",
+    "name_ru": "Река Бира и набережная",
+    "name_en": "Bira River and Embankment",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 48.7855,
+      "lon": 132.9295
+    },
+    "address_vi": "Bờ sông Bira, khu trung tâm thành phố Birobidzhan, Tỉnh tự trị Do Thái, Nga. (toạ độ điểm mốc trên bờ sông ở trung tâm)",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Con sông đặt tên cho thành phố (Biro-Bidzhan) cùng đoạn kè dạo bộ ở trung tâm – điểm thư giãn ven nước của Birobidzhan.",
+    "presentation_long_vi": "Река Бира là con sông chảy qua trung tâm Birobidzhan và cùng với sông Bidzhan đã đặt tên cho thành phố (Biro-Bidzhan). Là nhánh trái của sông Amur, Bira dài khoảng 424 km, hình thành từ hợp lưu của các dòng Sutara và Kuldur ở rặng Tiểu Hưng An. Đoạn chảy qua thành phố với đoạn kè dạo bộ ở trung tâm là nơi người dân đi bộ, ngắm cảnh và câu cá; hai bờ sông gắn với công viên thành phố và các không gian xanh. Dòng Bira không chỉ là cảnh quan mà còn là một phần bản sắc – cái tên và cả nhịp sống của Birobidzhan đều gắn với con sông này. (Toạ độ ghi ở đây là điểm mốc trên bờ sông khu trung tâm.)",
+    "highlights_vi": [
+      "Con sông đặt tên cho thành phố Biro-Bidzhan.",
+      "Nhánh trái của Amur, dài khoảng 424 km.",
+      "Đoạn kè trung tâm là nơi dạo bộ, ngắm cảnh, câu cá."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tham quan tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 30–45 phút dạo bộ ven sông.",
+      "best_time_vi": "Cuối xuân đến đầu thu; mùa hè có thể câu cá, dạo mát.",
+      "tips_vi": "Mang đồ chống muỗi mùa hè; kết hợp công viên thành phố liền kề."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A0%D0%B5%D0%BA%D0%B0%20%D0%91%D0%B8%D1%80%D0%B0%20%D0%B8%20%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F&ll=132.9295,48.7855&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Bira%20River%20and%20Embankment%2C%20Jewish%20Ao%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Циклопедия — Бира (река)",
+        "url": "https://cyclowiki.org/wiki/%D0%91%D0%B8%D1%80%D0%B0_(%D1%80%D0%B5%D0%BA%D0%B0)"
+      }
+    ],
+    "tags": [
+      "river",
+      "embankment",
+      "nature",
+      "bira-river",
+      "birobidzhan"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "jewish-ao-volochaevka-battle-memorial",
+    "slug": "volochaevka-battle-memorial",
+    "region": "jewish-ao",
+    "region_name_vi": "Tỉnh tự trị Do Thái",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Đài – bảo tàng trận Volochaevka trên đồi Iyun-Koran (Volochaevskiy memorial)",
+    "name_ru": "Волочаевский мемориальный музей-памятник (сопка Июнь-Корань)",
+    "name_en": "Volochaevka Battle Memorial-Museum (Iyun-Koran Hill)",
+    "categories": [
+      "monument",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 48.5647,
+      "lon": 134.4988
+    },
+    "address_vi": "Đỉnh đồi Iyun-Koran, cạnh làng Volochaevka-1, huyện Smidovichsky, Tỉnh tự trị Do Thái, Nga (cách Birobidzhan ~76 km về phía đông).",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Khu tưởng niệm trên đồi Iyun-Koran – nơi diễn ra trận Volochaevka 1922, một trong những trận đánh lớn cuối Nội chiến ở Viễn Đông.",
+    "presentation_long_vi": "Волочаевский мемориальный музей-памятник nằm trên đỉnh đồi Iyun-Koran (сопка Июнь-Корань) bên cạnh làng Volochaevka-1, tưởng niệm trận Volochaevka diễn ra ngày 5–14/2/1922 – một trong những trận đánh quyết định của giai đoạn cuối Nội chiến Nga ở vùng Viễn Đông. Năm 1928, trên đỉnh đồi, cạnh ngôi mộ tập thể của 118 chiến sĩ hồng quân đã hy sinh, người ta dựng lên toà nhà bảo tàng với tượng người lính Hồng quân Nhân dân trên mái. Bên trong từng trưng bày các hiện vật và một bức tranh toàn cảnh (diorama) về trận đánh. Ngày 14/6/2022, đúng dịp kỷ niệm, quần thể tưởng niệm được mở cửa trở lại sau đợt trùng tu lớn. Đây là di tích lịch sử – quân sự nổi bật nhất của tỉnh, gắn với bài hát «Trên những ngọn đồi Mãn Châu» và ký ức về «những ngày Volochaevka».",
+    "highlights_vi": [
+      "Di tích trận Volochaevka 1922 – bước ngoặt cuối Nội chiến ở Viễn Đông.",
+      "Bảo tàng trên đồi (1928) với tượng lính Hồng quân trên mái, mộ tập thể 118 chiến sĩ.",
+      "Quần thể tưởng niệm được trùng tu, mở lại năm 2022."
+    ],
+    "practical": {
+      "hours_vi": "Bảo tàng mở theo lịch (nên hỏi trước); khu đồi và đài tưởng niệm ngoài trời thăm tự do.",
+      "ticket_vi": "Đồi và đài tưởng niệm miễn phí; phần bảo tàng có thể thu phí nhỏ.",
+      "duration_vi": "Khoảng 1–1,5 giờ.",
+      "best_time_vi": "Cuối xuân đến đầu thu; trang trọng dịp kỷ niệm tháng 2 và tháng 6.",
+      "tips_vi": "Đi ô tô theo quốc lộ Chita–Khabarovsk là thuận tiện nhất; leo lên đỉnh đồi để ngắm toàn cảnh."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D0%BE%D0%BB%D0%BE%D1%87%D0%B0%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9-%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%28%D1%81%D0%BE%D0%BF%D0%BA%D0%B0%20%D0%98%D1%8E%D0%BD%D1%8C-%D0%9A%D0%BE%D1%80%D0%B0%D0%BD%D1%8C%29&ll=134.4988,48.5647&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Volochaevka%20Battle%20Memorial-Museum%20%28Iyun-Koran%20Hill%29%2C%20Jewish%20Ao%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Музеи России — Волочаевский мемориальный музей-памятник (M1442)",
+        "url": "http://www.museum.ru/M1442"
+      },
+      {
+        "title": "Культурный туризм — Волочаевская сопка",
+        "url": "https://culttourism.ru/evreyskaya/volochaevskaya_sopka.html"
+      }
+    ],
+    "tags": [
+      "memorial",
+      "civil-war",
+      "battle",
+      "museum",
+      "volochaevka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "jewish-ao-kuldur-resort",
+    "slug": "kuldur-resort",
+    "region": "jewish-ao",
+    "region_name_vi": "Tỉnh tự trị Do Thái",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Khu nghỉ dưỡng suối khoáng nóng Kuldur (Kurort Kuldur)",
+    "name_ru": "Курорт Кульдур",
+    "name_en": "Kuldur Balneological Resort",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 49.2039,
+      "lon": 131.6319
+    },
+    "address_vi": "Thị trấn Kuldur, huyện Obluchensky, Tỉnh tự trị Do Thái, Nga (cách Birobidzhan ~135 km).",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Khu nghỉ dưỡng suối khoáng nóng lâu đời nhất vùng Viễn Đông, nằm trong thung lũng sông Kuldur giữa rặng Tiểu Hưng An.",
+    "presentation_long_vi": "Курорт Кульдур là khu nghỉ dưỡng chữa bệnh bằng suối khoáng nóng (balneological) lâu đời và nổi tiếng nhất vùng Viễn Đông, hoạt động từ năm 1924. Khu nghỉ nằm trong thung lũng sông Kuldur, giữa rừng taiga của rặng núi Tiểu Hưng An, sử dụng nguồn nước khoáng nóng chứa silic và các thành phần khoáng có tác dụng hỗ trợ điều trị bệnh cơ – xương – khớp, thần kinh và da. Không khí trong lành, cảnh quan núi rừng cùng hệ thống các nhà điều dưỡng khiến Kuldur trở thành điểm đến kết hợp nghỉ dưỡng và phục hồi sức khoẻ được ưa chuộng suốt bốn mùa. Đây cũng là địa danh gắn với tước hiệu của giám mục Birobidzhan «và Kuldur».",
+    "highlights_vi": [
+      "Khu suối khoáng nóng lâu đời nhất Viễn Đông (từ 1924).",
+      "Nước khoáng nóng silic hỗ trợ trị bệnh xương khớp, thần kinh, da.",
+      "Nằm giữa thung lũng và rừng taiga rặng Tiểu Hưng An."
+    ],
+    "practical": {
+      "hours_vi": "Theo lịch của các nhà điều dưỡng (санаторий); nhận khách quanh năm.",
+      "ticket_vi": "Trả phí theo gói lưu trú/điều trị của cơ sở điều dưỡng.",
+      "duration_vi": "Thường lưu trú vài ngày đến vài tuần theo liệu trình.",
+      "best_time_vi": "Quanh năm; mùa đông tuyết đẹp, mùa hè mát mẻ.",
+      "tips_vi": "Nên đặt gói điều dưỡng trước; đi tàu tới ga gần rồi trung chuyển, hoặc đi ô tô."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D1%83%D1%80%D0%BE%D1%80%D1%82%20%D0%9A%D1%83%D0%BB%D1%8C%D0%B4%D1%83%D1%80&ll=131.6319,49.2039&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kuldur%20Balneological%20Resort%2C%20Jewish%20Ao%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Рувики — Кульдур",
+        "url": "https://ru.ruwiki.ru/wiki/%D0%9A%D1%83%D0%BB%D1%8C%D0%B4%D1%83%D1%80"
+      }
+    ],
+    "tags": [
+      "resort",
+      "hot-springs",
+      "spa",
+      "health",
+      "kuldur"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "jewish-ao-obluchye-town",
+    "slug": "obluchye-town",
+    "region": "jewish-ao",
+    "region_name_vi": "Tỉnh tự trị Do Thái",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Thị trấn Obluchye (Gorod Obluchye)",
+    "name_ru": "Город Облучье",
+    "name_en": "Obluchye Town",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 49.018,
+      "lon": 131.05
+    },
+    "address_vi": "Trung tâm huyện Obluchensky, Tỉnh tự trị Do Thái, Nga (cách Birobidzhan ~159 km về phía tây).",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Thị trấn miền núi trên tuyến đường sắt Xuyên Siberia, cửa ngõ phía tây của tỉnh, ra đời từ việc xây dựng tuyến đường sắt Amur.",
+    "presentation_long_vi": "Город Облучье là thị trấn cực tây của Tỉnh tự trị Do Thái, trung tâm hành chính của huyện Obluchensky, nằm giữa vùng núi Tiểu Hưng An sát ranh giới với tỉnh Amur. Thị trấn hình thành đầu thế kỷ 20 gắn với việc xây dựng tuyến đường sắt Amur – một đoạn của Đường sắt Xuyên Siberia – và được nâng cấp thành thành phố năm 1938. Đây là một đầu mối đường sắt quan trọng, đồng thời nổi tiếng là một trong những nơi có khí hậu khắc nghiệt, mùa đông rất lạnh của vùng. Với du khách yêu thích hành trình bằng tàu hoả và cảnh quan núi rừng taiga, Obluchye là điểm dừng đặc trưng cho miền tây của tỉnh.",
+    "highlights_vi": [
+      "Thị trấn cực tây của tỉnh, giáp tỉnh Amur.",
+      "Ra đời cùng tuyến đường sắt Amur (Xuyên Siberia), thành phố từ 1938.",
+      "Đầu mối đường sắt giữa vùng núi Tiểu Hưng An."
+    ],
+    "practical": {
+      "hours_vi": "Thị trấn – tham quan tự do; dịch vụ theo giờ địa phương.",
+      "ticket_vi": "Miễn phí (đi lại, lưu trú tự túc).",
+      "duration_vi": "Nửa ngày nếu ghé qua.",
+      "best_time_vi": "Mùa hè và đầu thu dễ chịu hơn; mùa đông rất lạnh.",
+      "tips_vi": "Tiện nhất khi đi tàu trên tuyến Xuyên Siberia; chuẩn bị đồ ấm nếu tới vào mùa đông."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%93%D0%BE%D1%80%D0%BE%D0%B4%20%D0%9E%D0%B1%D0%BB%D1%83%D1%87%D1%8C%D0%B5&ll=131.05,49.018&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Obluchye%20Town%2C%20Jewish%20Ao%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Рувики — Облучье",
+        "url": "https://ru.ruwiki.ru/wiki/%D0%9E%D0%B1%D0%BB%D1%83%D1%87%D1%8C%D0%B5"
+      }
+    ],
+    "tags": [
+      "town",
+      "railway",
+      "trans-siberian",
+      "obluchye"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "jewish-ao-amurzet-village",
+    "slug": "amurzet-village",
+    "region": "jewish-ao",
+    "region_name_vi": "Tỉnh tự trị Do Thái",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Làng Amurzet bên sông Amur (Selo Amurzet)",
+    "name_ru": "Село Амурзет",
+    "name_en": "Amurzet Village",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 47.6967,
+      "lon": 131.0981
+    },
+    "address_vi": "Trung tâm huyện Oktyabrsky, bên bờ trái sông Amur, Tỉnh tự trị Do Thái, Nga (cách Birobidzhan ~180 km về tây-nam).",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Làng trung tâm huyện Oktyabrsky bên bờ sông Amur, do người Do Thái di cư lập nên cuối thập niên 1920, đối diện Trung Quốc qua sông.",
+    "presentation_long_vi": "Село Амурзет là trung tâm hành chính của huyện Oktyabrsky, nằm ở cực nam Tỉnh tự trị Do Thái, ngay bên bờ trái sông Amur – dòng sông biên giới ngăn cách Nga với Trung Quốc. Ngôi làng được lập năm 1929 bởi những người Do Thái di cư tới khai phá vùng đất; chính cái tên «Amurzet» là chữ viết tắt của cụm từ Nga «Hội hợp tác ruộng đất của người Do Thái trên sông Amur» (Амурское земельное еврейское товарищество). Ngày nay Amurzet là một làng nông nghiệp yên bình, điểm quan sát dòng Amur rộng lớn và cảnh quan đồng bằng ven sông, đồng thời là chứng tích cho công cuộc định cư nông nghiệp của người Do Thái ở Viễn Đông.",
+    "highlights_vi": [
+      "Làng trung tâm huyện Oktyabrsky, bên bờ sông Amur.",
+      "Do người Do Thái di cư lập năm 1929; tên là chữ viết tắt.",
+      "Điểm ngắm sông Amur và vùng biên giới Nga – Trung."
+    ],
+    "practical": {
+      "hours_vi": "Làng – tham quan tự do; dịch vụ theo giờ địa phương.",
+      "ticket_vi": "Miễn phí (đi lại, lưu trú tự túc).",
+      "duration_vi": "Nửa ngày nếu ghé qua.",
+      "best_time_vi": "Cuối xuân đến đầu thu; ven sông đẹp vào mùa hè.",
+      "tips_vi": "Đây là vùng biên giới – tuân thủ quy định chụp ảnh, giấy tờ khu vực biên giới nếu có."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%B5%D0%BB%D0%BE%20%D0%90%D0%BC%D1%83%D1%80%D0%B7%D0%B5%D1%82&ll=131.0981,47.6967&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Amurzet%20Village%2C%20Jewish%20Ao%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Рувики — Амурзет",
+        "url": "https://ru.ruwiki.ru/wiki/%D0%90%D0%BC%D1%83%D1%80%D0%B7%D0%B5%D1%82"
+      }
+    ],
+    "tags": [
+      "village",
+      "amur-river",
+      "border",
+      "jewish-settlement",
+      "amurzet"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "jewish-ao-leninskoye-village",
+    "slug": "leninskoye-village",
+    "region": "jewish-ao",
+    "region_name_vi": "Tỉnh tự trị Do Thái",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Làng Leninskoye bên sông Amur (Selo Leninskoye)",
+    "name_ru": "Село Ленинское",
+    "name_en": "Leninskoye Village",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 47.934,
+      "lon": 132.623
+    },
+    "address_vi": "Trung tâm huyện Leninsky, bên bờ trái sông Amur, Tỉnh tự trị Do Thái, Nga (cách Birobidzhan ~132 km).",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Làng biên giới bên sông Amur, một trong những điểm định cư Cossack lâu đời của vùng, có bến vượt sông sang Trung Quốc.",
+    "presentation_long_vi": "Село Ленинское là trung tâm hành chính của huyện Leninsky, nằm bên bờ trái sông Amur ở phía nam Tỉnh tự trị Do Thái. Ngôi làng được lập từ năm 1858 bởi những người Cossack vùng Transbaikal với tên gọi ban đầu là Mikhailo-Semyonovskoye – tức có lịch sử lâu đời hơn nhiều so với thời kỳ hình thành vùng tự trị Do Thái. Nằm ngay đối diện thành phố Tongjiang của Trung Quốc bên kia sông, Leninskoye là một điểm ở vùng biên giới với bến vượt sông và giao thương qua Amur. Với du khách, đây là nơi cảm nhận không khí làng quê biên viễn và ngắm dòng Amur hùng vĩ – ranh giới tự nhiên giữa hai quốc gia.",
+    "highlights_vi": [
+      "Làng trung tâm huyện Leninsky bên sông Amur.",
+      "Do người Cossack lập năm 1858 (tên gốc Mikhailo-Semyonovskoye).",
+      "Đối diện thành phố Tongjiang (Trung Quốc), có bến vượt sông."
+    ],
+    "practical": {
+      "hours_vi": "Làng – tham quan tự do; dịch vụ theo giờ địa phương.",
+      "ticket_vi": "Miễn phí (đi lại, lưu trú tự túc).",
+      "duration_vi": "Nửa ngày nếu ghé qua.",
+      "best_time_vi": "Cuối xuân đến đầu thu; mùa hè thuận cho ngắm sông.",
+      "tips_vi": "Vùng biên giới – tuân thủ quy định giấy tờ và chụp ảnh khu vực biên giới."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%B5%D0%BB%D0%BE%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B5&ll=132.623,47.934&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Leninskoye%20Village%2C%20Jewish%20Ao%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Рувики — Ленинское (Еврейская автономная область)",
+        "url": "https://ru.ruwiki.ru/wiki/%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_(%D0%95%D0%B2%D1%80%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)"
+      }
+    ],
+    "tags": [
+      "village",
+      "amur-river",
+      "border",
+      "cossack",
+      "leninskoye"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "jewish-ao-zabelovskoye-lake",
+    "slug": "zabelovskoye-lake",
+    "region": "jewish-ao",
+    "region_name_vi": "Tỉnh tự trị Do Thái",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Hồ Zabelovskoye – cụm Zabelovsky (Ozero Zabelovskoye)",
+    "name_ru": "Озеро Забеловское / кластер «Забеловский» (заповедник Бастак)",
+    "name_en": "Zabelovskoye Lake / Zabelovsky Cluster (Bastak Reserve)",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 48.3,
+      "lon": 133.867
+    },
+    "address_vi": "Đồng bằng ngập lũ sông Amur, huyện Smidovichsky, Tỉnh tự trị Do Thái, Nga (~35 km tây-bắc thị trấn Smidovich; toạ độ là tâm khu đất ngập nước).",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Hồ nước ngọt lớn nhất tỉnh trong vùng đầm lầy ven sông Amur, thuộc cụm Zabelovsky của khu bảo tồn Bastak – thiên đường của chim nước và hệ sinh thái ngập nước.",
+    "presentation_long_vi": "Озеро Забеловское là hồ nước ngọt lớn nhất Tỉnh tự trị Do Thái (khoảng 4,3 km²), một hồ cửa sông cổ (старица) nối với sông Amur qua lạch Krestovaya, nằm trong vùng đồng bằng ngập lũ rộng lớn ở phía nam tỉnh. Khu vực này thuộc cụm Zabelovsky – được sáp nhập vào khu bảo tồn thiên nhiên Bastak năm 2011 – và là một vùng đất ngập nước có giá trị sinh thái cao. Đây là nơi cư trú và dừng chân của nhiều loài chim nước di cư, trong đó có những loài quý hiếm như sếu và cò, cùng hệ động – thực vật đặc trưng của đầm lầy Amur. Việc tham quan cần theo tuyến và có sự cho phép của ban quản lý khu bảo tồn. (Toạ độ ghi ở đây là tâm của khu đất ngập nước.)",
+    "highlights_vi": [
+      "Hồ nước ngọt lớn nhất tỉnh (~4,3 km²), hồ cửa sông cổ nối Amur.",
+      "Thuộc cụm Zabelovsky của khu bảo tồn Bastak (từ 2011).",
+      "Vùng đất ngập nước quan trọng cho chim di cư (sếu, cò...)."
+    ],
+    "practical": {
+      "hours_vi": "Vùng bảo tồn – vào theo tuyến và cần xin phép ban quản lý Bastak.",
+      "ticket_vi": "Theo quy định của khu bảo tồn (có thể cần giấy phép và hướng dẫn viên).",
+      "duration_vi": "Nửa ngày đến cả ngày tuỳ tuyến.",
+      "best_time_vi": "Cuối xuân đến đầu thu (mùa chim làm tổ, di cư).",
+      "tips_vi": "Liên hệ khu bảo tồn Bastak trước; mang ống nhòm, đồ chống muỗi, không gây tiếng ồn."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9E%D0%B7%D0%B5%D1%80%D0%BE%20%D0%97%D0%B0%D0%B1%D0%B5%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B5%20/%20%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%20%C2%AB%D0%97%D0%B0%D0%B1%D0%B5%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%C2%BB%20%28%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA%20%D0%91%D0%B0%D1%81%D1%82%D0%B0%D0%BA%29&ll=133.867,48.3&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Zabelovskoye%20Lake%20/%20Zabelovsky%20Cluster%20%28Bastak%20Reserve%29%2C%20Jewish%20Ao%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "ФЕСК — Забеловское озеро (водно-болотное угодье)",
+        "url": "http://www.fesk.ru/wetlands/289.html"
+      }
+    ],
+    "tags": [
+      "lake",
+      "wetland",
+      "nature-reserve",
+      "bastak",
+      "birdwatching"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "jewish-ao-londoko-cave",
+    "slug": "londoko-cave",
+    "region": "jewish-ao",
+    "region_name_vi": "Tỉnh tự trị Do Thái",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Hang Londoko (Londokovskaya peshchera)",
+    "name_ru": "Лондоковская пещера",
+    "name_en": "Londoko Cave",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 49.04998,
+      "lon": 131.88
+    },
+    "address_vi": "Huyện Obluchensky, ~5 km bắc thị trấn Izvestkovy zavod (gần Teploozyorsk), Tỉnh tự trị Do Thái, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Di tích thiên nhiên hang động cấp tỉnh ở vùng núi đá vôi phía tây, điểm khám phá cho những người ưa hang động.",
+    "presentation_long_vi": "Лондоковская пещера là một di tích thiên nhiên (памятник природы) cấp tỉnh dạng hang động, nằm ở huyện Obluchensky phía tây Tỉnh tự trị Do Thái, cách thị trấn Izvestkovy zavod khoảng 5 km về phía bắc. Hang hình thành trong vùng đá vôi (karst) đặc trưng của khu vực – nơi vốn có hoạt động khai thác đá vôi lâu đời. Khu vực được bảo vệ có diện tích khoảng 12,5 ha, ranh giới là vòng tròn bán kính 200 m quanh cửa hang. Đây là điểm đến cho những du khách ưa khám phá địa chất – hang động và cảnh quan núi đá vôi của miền tây tỉnh, tuy quy mô nhỏ và cần chuẩn bị kỹ khi tham quan.",
+    "highlights_vi": [
+      "Di tích thiên nhiên hang động cấp tỉnh trong vùng đá vôi karst.",
+      "Khu bảo vệ ~12,5 ha (vòng tròn bán kính 200 m quanh cửa hang).",
+      "Điểm khám phá địa chất – hang động ở miền tây tỉnh."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời/hang tự nhiên – không có giờ cố định; nên đi ban ngày.",
+      "ticket_vi": "Miễn phí (tự túc di chuyển và trang bị).",
+      "duration_vi": "Khoảng 1–2 giờ tuỳ mức khám phá.",
+      "best_time_vi": "Mùa khô, cuối xuân đến đầu thu.",
+      "tips_vi": "Mang đèn pin, giày bám tốt và đi cùng người quen địa hình; thận trọng khi vào hang."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9B%D0%BE%D0%BD%D0%B4%D0%BE%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0&ll=131.88,49.04998&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Londoko%20Cave%2C%20Jewish%20Ao%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Иди лесом — Лондоковская пещера (ЕАО)",
+        "url": "https://idilesom.com/eao/places/1581"
+      }
+    ],
+    "tags": [
+      "cave",
+      "karst",
+      "nature-monument",
+      "obluchensky"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "jewish-ao-smidovich-settlement",
+    "slug": "smidovich-settlement",
+    "region": "jewish-ao",
+    "region_name_vi": "Tỉnh tự trị Do Thái",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Đô thị Smidovich (Posyolok Smidovich)",
+    "name_ru": "Посёлок Смидович",
+    "name_en": "Smidovich Settlement",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 48.593,
+      "lon": 133.81
+    },
+    "address_vi": "Trung tâm huyện Smidovichsky, trên quốc lộ Chita–Khabarovsk, Tỉnh tự trị Do Thái, Nga (cách Birobidzhan ~76 km về phía đông).",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Đô thị trung tâm huyện Smidovichsky ở miền đông tỉnh, cửa ngõ hướng về Khabarovsk và là điểm tiếp cận cụm bảo tồn Zabelovsky.",
+    "presentation_long_vi": "Посёлок Смидович là trung tâm hành chính của huyện Smidovichsky – huyện cực đông của Tỉnh tự trị Do Thái, nằm trên quốc lộ liên bang Chita–Khabarovsk và tuyến đường sắt Xuyên Siberia. Ban đầu khu dân cư mang tên «In» (theo tên con sông), đến năm 1934 được đổi thành Smidovich để tưởng nhớ nhà hoạt động Xô-viết P. G. Smidovich. Là điểm dừng thuận tiện trên trục giao thông chính về phía Khabarovsk, đô thị cũng là cửa ngõ để tiếp cận vùng đầm lầy ven Amur và cụm bảo tồn Zabelovsky của khu bảo tồn Bastak ở phía nam huyện.",
+    "highlights_vi": [
+      "Trung tâm huyện cực đông của tỉnh, trên trục Chita–Khabarovsk.",
+      "Đổi tên từ «In» thành Smidovich năm 1934.",
+      "Cửa ngõ tới cụm bảo tồn Zabelovsky (đầm lầy Amur)."
+    ],
+    "practical": {
+      "hours_vi": "Đô thị – tham quan tự do; dịch vụ theo giờ địa phương.",
+      "ticket_vi": "Miễn phí (đi lại, lưu trú tự túc).",
+      "duration_vi": "Vài giờ nếu ghé qua/nghỉ chân.",
+      "best_time_vi": "Cuối xuân đến đầu thu.",
+      "tips_vi": "Điểm dừng thuận tiện khi di chuyển giữa Birobidzhan và Khabarovsk; hỏi thông tin nếu muốn vào cụm Zabelovsky."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%BE%D1%81%D1%91%D0%BB%D0%BE%D0%BA%20%D0%A1%D0%BC%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87&ll=133.81,48.593&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Smidovich%20Settlement%2C%20Jewish%20Ao%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Рувики — Смидович (Еврейская автономная область)",
+        "url": "https://ru.ruwiki.ru/wiki/%D0%A1%D0%BC%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87_(%D0%95%D0%B2%D1%80%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)"
+      }
+    ],
+    "tags": [
+      "town",
+      "district-center",
+      "trans-siberian",
+      "smidovich"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "jewish-ao-bidzhan-river",
+    "slug": "bidzhan-river",
+    "region": "jewish-ao",
+    "region_name_vi": "Tỉnh tự trị Do Thái",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Sông Bidzhan (Reka Bidzhan)",
+    "name_ru": "Река Биджан",
+    "name_en": "Bidzhan River",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 48.347,
+      "lon": 131.94
+    },
+    "address_vi": "Chảy theo hướng bắc – nam qua huyện Leninsky, Tỉnh tự trị Do Thái, Nga (toạ độ là điểm tham chiếu gần làng Bidzhan).",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Con sông đặt nửa sau cái tên «Biro-Bidzhan», nhánh trái sông Amur bắt nguồn từ rặng Tiểu Hưng An.",
+    "presentation_long_vi": "Река Биджан là con sông đã góp nửa sau vào cái tên của thành phố và cả vùng «Biro-Bidzhan». Đây là nhánh trái của sông Amur, dài khoảng 274 km, hình thành từ hợp lưu của hai dòng Pravyy Bidzhan và Levyy Bidzhan, bắt nguồn từ vùng núi Tiểu Hưng An rồi chảy theo hướng bắc – nam qua huyện Leninsky trước khi đổ về đồng bằng ven Amur. Thung lũng sông với rừng, đầm và ruộng đồng là cảnh quan tiêu biểu của vùng, đồng thời gắn với các khu định cư nông nghiệp của người Do Thái xưa. Với ý nghĩa lịch sử – địa danh cùng cảnh sắc thiên nhiên, Bidzhan là một phần bản sắc của Tỉnh tự trị Do Thái. (Toạ độ ghi ở đây là điểm tham chiếu gần làng Bidzhan.)",
+    "highlights_vi": [
+      "Sông góp nửa sau tên gọi «Biro-Bidzhan».",
+      "Nhánh trái sông Amur, dài khoảng 274 km.",
+      "Bắt nguồn từ rặng Tiểu Hưng An, chảy qua huyện Leninsky."
+    ],
+    "practical": {
+      "hours_vi": "Cảnh quan thiên nhiên – tự do; nên đi ban ngày.",
+      "ticket_vi": "Miễn phí (tự túc di chuyển).",
+      "duration_vi": "Tuỳ hành trình; thường ghép với các điểm ở huyện Leninsky.",
+      "best_time_vi": "Cuối xuân đến đầu thu.",
+      "tips_vi": "Đường tới các đoạn sông chủ yếu là đường quê; nên đi ô tô và hỏi người địa phương."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A0%D0%B5%D0%BA%D0%B0%20%D0%91%D0%B8%D0%B4%D0%B6%D0%B0%D0%BD&ll=131.94,48.347&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Bidzhan%20River%2C%20Jewish%20Ao%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Водные ресурсы России — река Биджан",
+        "url": "https://waterresources.ru/reki/bidzhan/"
+      }
+    ],
+    "tags": [
+      "river",
+      "nature",
+      "amur-basin",
+      "leninsky",
+      "bidzhan"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
+  },
+  {
+    "id": "jewish-ao-nikolayevka-settlement",
+    "slug": "nikolayevka-settlement",
+    "region": "jewish-ao",
+    "region_name_vi": "Tỉnh tự trị Do Thái",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Đô thị Nikolayevka (Posyolok Nikolayevka)",
+    "name_ru": "Посёлок Николаевка",
+    "name_en": "Nikolayevka Settlement",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 48.56,
+      "lon": 134.78
+    },
+    "address_vi": "Huyện Smidovichsky, phía đông tỉnh, gần thành phố Khabarovsk (qua sông), Tỉnh tự trị Do Thái, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Một trong những đô thị lớn của huyện Smidovichsky ở cực đông tỉnh, nằm sát vùng Khabarovsk.",
+    "presentation_long_vi": "Посёлок Николаевка là một trong những khu dân cư đô thị lớn của huyện Smidovichsky, nằm ở cực đông Tỉnh tự trị Do Thái, gần ranh giới với vùng Khabarovsk (chỉ cách thành phố Khabarovsk bởi dòng Amur và ranh giới hành chính). Nhờ vị trí kề cận đô thị lớn Khabarovsk và nằm trên trục giao thông chính, Nikolayevka là điểm dân cư sầm uất theo tiêu chuẩn địa phương và thường là cửa ngõ phía đông khi vào tỉnh từ hướng Khabarovsk. Đây là điểm dừng chân tiện lợi hơn là một điểm tham quan nổi bật, phù hợp với du khách di chuyển giữa hai vùng.",
+    "highlights_vi": [
+      "Đô thị lớn của huyện Smidovichsky, cực đông tỉnh.",
+      "Nằm sát vùng Khabarovsk – cửa ngõ phía đông của tỉnh.",
+      "Điểm dừng chân tiện lợi trên trục giao thông chính."
+    ],
+    "practical": {
+      "hours_vi": "Đô thị – tham quan tự do; dịch vụ theo giờ địa phương.",
+      "ticket_vi": "Miễn phí (đi lại, lưu trú tự túc).",
+      "duration_vi": "Ghé qua ngắn; điểm trung chuyển.",
+      "best_time_vi": "Quanh năm; thuận tiện khi đi/đến Khabarovsk.",
+      "tips_vi": "Thích hợp làm điểm dừng khi di chuyển giữa Khabarovsk và các huyện của tỉnh."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%BE%D1%81%D1%91%D0%BB%D0%BE%D0%BA%20%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%BA%D0%B0&ll=134.78,48.56&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Nikolayevka%20Settlement%2C%20Jewish%20Ao%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Рувики — Николаевка (Еврейская автономная область)",
+        "url": "https://ru.ruwiki.ru/wiki/%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%BA%D0%B0_(%D0%95%D0%B2%D1%80%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)"
+      }
+    ],
+    "tags": [
+      "town",
+      "district",
+      "khabarovsk-border",
+      "nikolayevka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28",
+    "country": "russia"
   }
 ]

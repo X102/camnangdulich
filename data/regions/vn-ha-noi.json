@@ -14,8 +14,8 @@
       "park_garden"
     ],
     "coordinates": {
-      "lat": 21.0309,
-      "lon": 105.8525
+      "lat": 21.0288,
+      "lon": 105.8523
     },
     "address_vi": "Đinh Tiên Hoàng, quận Hoàn Kiếm, Hà Nội",
     "rating": {
@@ -56,7 +56,7 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?text=Hoan%20Kiem%20Lake%20%26%20Ngoc%20Son%20Temple%2C%20Ha%20Noi%2C%20Vietnam&ll=105.8525,21.0309&z=17",
+      "yandex": "https://yandex.com/maps/?text=Hoan%20Kiem%20Lake%20%26%20Ngoc%20Son%20Temple%2C%20Ha%20Noi%2C%20Vietnam&ll=105.8523,21.0288&z=17",
       "google": "https://www.google.com/maps/search/?api=1&query=Hoan%20Kiem%20Lake%20%26%20Ngoc%20Son%20Temple%2C%20Ha%20Noi%2C%20Vietnam"
     },
     "official_site": null,
@@ -248,8 +248,8 @@
       "monument"
     ],
     "coordinates": {
-      "lat": 21.035,
-      "lon": 105.8402
+      "lat": 21.03839,
+      "lon": 105.840624
     },
     "address_vi": "19C Hoàng Diệu, quận Ba Đình, Hà Nội",
     "rating": {
@@ -290,7 +290,7 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?text=Imperial%20Citadel%20of%20Thang%20Long%2C%20Ha%20Noi%2C%20Vietnam&ll=105.8402,21.035&z=17",
+      "yandex": "https://yandex.com/maps/?text=Imperial%20Citadel%20of%20Thang%20Long%2C%20Ha%20Noi%2C%20Vietnam&ll=105.840624,21.03839&z=17",
       "google": "https://www.google.com/maps/search/?api=1&query=Imperial%20Citadel%20of%20Thang%20Long%2C%20Ha%20Noi%2C%20Vietnam"
     },
     "official_site": null,
@@ -394,8 +394,8 @@
       "park_garden"
     ],
     "coordinates": {
-      "lat": 21.0583,
-      "lon": 105.8203
+      "lat": 21.058042,
+      "lon": 105.813965
     },
     "address_vi": "Quận Tây Hồ, Hà Nội",
     "rating": {
@@ -435,7 +435,7 @@
     },
     "photo": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?text=West%20Lake%2C%20Ha%20Noi%2C%20Vietnam&ll=105.8203,21.0583&z=17",
+      "yandex": "https://yandex.com/maps/?text=West%20Lake%2C%20Ha%20Noi%2C%20Vietnam&ll=105.813965,21.058042&z=17",
       "google": "https://www.google.com/maps/search/?api=1&query=West%20Lake%2C%20Ha%20Noi%2C%20Vietnam"
     },
     "tags": [
@@ -852,8 +852,8 @@
       "monument"
     ],
     "coordinates": {
-      "lat": 21.0245,
-      "lon": 105.8577
+      "lat": 21.028333,
+      "lon": 105.854041
     },
     "address_vi": "Số 1 phố Tràng Tiền, phường Cửa Nam, Hà Nội",
     "rating": {
@@ -911,8 +911,2047 @@
     "status": "enriched",
     "last_updated": "2026-07-27",
     "maps": {
-      "yandex": "https://yandex.com/maps/?text=Hanoi%20Opera%20House%2C%20Ha%20Noi%2C%20Vietnam&ll=105.8577,21.0245&z=17",
+      "yandex": "https://yandex.com/maps/?text=Hanoi%20Opera%20House%2C%20Ha%20Noi%2C%20Vietnam&ll=105.854041,21.028333&z=17",
       "google": "https://www.google.com/maps/search/?api=1&query=Hanoi%20Opera%20House%2C%20Ha%20Noi%2C%20Vietnam"
     }
+  },
+  {
+    "id": "vn-ha-noi-den-quan-thanh",
+    "slug": "den-quan-thanh",
+    "region": "vn-ha-noi",
+    "country": "vietnam",
+    "region_name_vi": "Hà Nội",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Đền Quán Thánh (Trấn Vũ Quán)",
+    "name_ru": "Храм Куантхань",
+    "name_en": "Quan Thanh Temple",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 21.0453,
+      "lon": 105.8352
+    },
+    "address_vi": "Đường Thanh Niên, phường Quán Thánh, quận Ba Đình, Hà Nội",
+    "rating": {
+      "value": 4.5,
+      "count": 6800,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách khen không gian cổ kính, yên tĩnh ngay sát hồ Tây và ấn tượng mạnh với pho tượng đồng đen khổng lồ. Nhiều người thích ghé đền rồi đi bộ trên đường Thanh Niên; một số lưu ý đền khá nhỏ nên tham quan nhanh.",
+    "presentation_short_vi": "Đền Quán Thánh là một trong Thăng Long tứ trấn, trấn giữ phía bắc kinh thành và thờ thần Huyền Thiên Trấn Vũ. Đền nổi tiếng với pho tượng đồng đen cao gần 4 mét, nặng khoảng 4 tấn, đúc năm 1677, tọa lạc bên hồ Tây thơ mộng.",
+    "presentation_short_en": "Quan Thanh Temple is one of the Four Sacred Temples of Thang Long, guarding the northern gate of the old capital and dedicated to the deity Huyen Thien Tran Vu. It is famous for a nearly four-metre black-bronze statue weighing about four tonnes, cast in 1677, standing beside romantic West Lake.",
+    "presentation_short_ru": "Храм Куантхань — один из «Четырёх священных храмов» древней столицы Тханглонг, охранявший её северные врата и посвящённый божеству Хюйентхьен Чанву. Он знаменит статуей из чёрной бронзы высотой почти четыре метра и весом около четырёх тонн, отлитой в 1677 году, у романтичного Западного озера.",
+    "presentation_long_vi": "Nằm ở góc giao giữa hồ Tây và hồ Trúc Bạch, đền Quán Thánh (còn gọi Trấn Vũ Quán) là một trong bốn ngôi đền thiêng trấn giữ bốn phương của kinh thành Thăng Long xưa, ứng với hướng bắc. Đền được lập từ thời Lý, thờ Huyền Thiên Trấn Vũ, vị thần cai quản phương bắc và trừ tà ma, thủy quái. Báu vật của đền là pho tượng Trấn Vũ bằng đồng đen cao gần 4 mét, nặng khoảng 4 tấn, đúc năm 1677, tay trái bắt quyết, tay phải chống gươm có rắn quấn và rùa đỡ dưới chân, được xem là kiệt tác đúc đồng của người Thăng Long. Cổng tam quan, nghi môn và những mảng chạm khắc gỗ, hoành phi câu đối cổ tạo nên không gian trầm mặc, cổ kính. Du khách thường xoa chân tượng để cầu may, thắp hương cầu bình an, rồi tản bộ trên con đường Thanh Niên lộng gió ven hồ. Gần Lăng Bác và chùa Trấn Quốc, đền là điểm dừng chân lý tưởng để hiểu thêm về tín ngưỡng và nghệ thuật của người Hà Nội.",
+    "presentation_long_en": "Standing where West Lake meets Truc Bach Lake, Quan Thanh Temple (also called Tran Vu Temple) is one of the four sacred shrines that once protected the four directions of the old capital, Thang Long, marking the north. Founded under the Ly dynasty, it honours Huyen Thien Tran Vu, the deity who rules the northern quarter and repels evil spirits and water demons. The temple's treasure is a statue of Tran Vu cast in black bronze, nearly four metres tall and weighing around four tonnes, made in 1677: the left hand forms a mudra while the right rests on a sword entwined by a serpent and supported by a tortoise, a masterpiece of Thang Long bronze-casting. A triple gateway, ceremonial arch and time-worn wooden carvings, lacquered boards and parallel sentences give the courtyard a hushed, ancient air. Visitors often rub the statue's foot for luck, light incense for peace, then stroll the breezy lakeside Thanh Nien Road. Close to the Ho Chi Minh Mausoleum and Tran Quoc Pagoda, the temple is an ideal stop for understanding the beliefs and craftsmanship of Hanoi.",
+    "presentation_long_ru": "На стрелке между Западным озером и озером Чукбать стоит храм Куантхань (также храм Чанву) — одно из четырёх священных святилищ, некогда оберегавших стороны света древней столицы Тханглонг; он отмечает север. Основанный при династии Ли, храм посвящён Хюйентхьен Чанву, божеству северной стороны, изгоняющему злых духов и водяных чудовищ. Главная реликвия — статуя Чанву из чёрной бронзы высотой почти четыре метра и весом около четырёх тонн, отлитая в 1677 году: левая рука сложена в жесте, правая опирается на меч, обвитый змеёй, а у ног черепаха — шедевр бронзолитейного дела Тханглонга. Тройные ворота, церемониальная арка, потемневшая от времени резьба по дереву, лаковые доски с изречениями создают тихую, старинную атмосферу. Гости часто трут ногу статуи на удачу, зажигают благовония ради покоя, а затем гуляют по продуваемой ветром набережной Тханьниен. Рядом с мавзолеем Хо Ши Мина и пагодой Чанкуок храм — прекрасная остановка, чтобы ближе узнать верования и мастерство ханойцев.",
+    "highlights_vi": [
+      "Một trong Thăng Long tứ trấn, trấn giữ phương bắc kinh thành",
+      "Tượng Huyền Thiên Trấn Vũ bằng đồng đen cao gần 4 m, đúc năm 1677",
+      "Vị trí đẹp bên hồ Tây và hồ Trúc Bạch, gần Lăng Bác"
+    ],
+    "highlights_en": [
+      "One of the Four Sacred Temples of Thang Long, guarding the north",
+      "Black-bronze statue of Tran Vu, nearly 4 m tall, cast in 1677",
+      "Scenic setting between West Lake and Truc Bach Lake, near the Mausoleum"
+    ],
+    "highlights_ru": [
+      "Один из «Четырёх священных храмов» Тханглонга, страж севера",
+      "Статуя Чанву из чёрной бронзы высотой почти 4 м, отлита в 1677 году",
+      "Живописное место между Западным озером и озером Чукбать, у мавзолея"
+    ],
+    "practical": {
+      "hours_vi": "Khoảng 8:00-17:00 hằng ngày (đông khách vào ngày rằm, mùng một).",
+      "ticket_vi": "Vé vào cửa khoảng 10.000 VND/người.",
+      "duration_vi": "Khoảng 30-45 phút.",
+      "best_time_vi": "Sáng sớm hoặc chiều mát; dịp lễ Tết rất đông.",
+      "tips_vi": "Ăn mặc lịch sự khi vào đền; kết hợp dạo đường Thanh Niên, chùa Trấn Quốc và Lăng Bác gần đó."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Quan%20Thanh%20Temple%2C%20Ha%20Noi%2C%20Vietnam&ll=105.8352,21.0453&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Quan%20Thanh%20Temple%2C%20Ha%20Noi%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Quan%20Thanh%20Temple"
+      },
+      {
+        "title": "Wikipedia (VI)",
+        "url": "https://vi.wikipedia.org/wiki/Special:Search?search=%C4%90%E1%BB%81n%20Qu%C3%A1n%20Th%C3%A1nh%20%28Tr%E1%BA%A5n%20V%C5%A9%20Qu%C3%A1n%29"
+      }
+    ],
+    "tags": [
+      "historic",
+      "temple",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-ha-noi-chua-quan-su",
+    "slug": "chua-quan-su",
+    "region": "vn-ha-noi",
+    "country": "vietnam",
+    "region_name_vi": "Hà Nội",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Chùa Quán Sứ",
+    "name_ru": "Пагода Куанши",
+    "name_en": "Quan Su Pagoda",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 21.0248,
+      "lon": 105.8447
+    },
+    "address_vi": "73 phố Quán Sứ, quận Hoàn Kiếm, Hà Nội",
+    "rating": {
+      "value": 4.5,
+      "count": 5200,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Nhiều người tới lễ Phật khen chùa trang nghiêm, thanh tịnh và có ý nghĩa tâm linh lớn. Du khách nước ngoài thích tìm hiểu vai trò trung tâm Phật giáo; một số nhắc chùa nằm trên phố đông nên chú ý gửi xe.",
+    "presentation_short_vi": "Chùa Quán Sứ là trụ sở của Giáo hội Phật giáo Việt Nam, một trong những ngôi chùa quan trọng bậc nhất Hà Nội. Điểm đặc biệt là các câu đối, hoành phi được viết bằng chữ Quốc ngữ thay vì chữ Hán, thể hiện tinh thần Phật giáo hiện đại.",
+    "presentation_short_en": "Quan Su Pagoda is the headquarters of the Vietnam Buddhist Sangha and one of Hanoi's most important temples. Unusually, its couplets and horizontal boards are written in the modern Vietnamese alphabet rather than Chinese characters, reflecting a spirit of modern Buddhism.",
+    "presentation_short_ru": "Пагода Куанши — резиденция Буддийской сангхи Вьетнама и один из важнейших храмов Ханоя. Её особенность в том, что парные надписи и таблички выполнены современным вьетнамским алфавитом, а не иероглифами, что отражает дух современного буддизма.",
+    "presentation_long_vi": "Tọa lạc trên con phố cùng tên giữa lòng Hà Nội, chùa Quán Sứ có nguồn gốc từ thế kỷ 15, khi triều đình dựng một công quán để đón sứ thần các nước láng giềng theo đạo Phật, trong khuôn viên có ngôi chùa nhỏ để họ hành lễ, từ đó thành tên. Ngày nay chùa là trụ sở của Giáo hội Phật giáo Việt Nam, nơi diễn ra nhiều đại lễ và hoạt động Phật sự lớn. Kiến trúc chùa mang nét đặc trưng Bắc Bộ với tam quan ba tầng, mái cong, chính điện trang nghiêm thờ các vị Phật, Bồ Tát và thiền sư. Điểm độc đáo hiếm thấy là các câu đối, hoành phi trong chùa được viết bằng chữ Quốc ngữ, giúp Phật tử dễ đọc, dễ hiểu, thể hiện tinh thần nhập thế và hiện đại của Phật giáo Việt Nam. Không gian chùa tuy nằm giữa phố xá nhộn nhịp nhưng vẫn giữ được sự tĩnh lặng, khói hương trầm mặc. Vào ngày rằm, mùng một và các dịp lễ Phật đản, Vu Lan, chùa đón rất đông người dân tới lễ bái, cầu an.",
+    "presentation_long_en": "Set on the street that bears its name in central Hanoi, Quan Su Pagoda dates to the fifteenth century, when the court built a guest house to receive Buddhist envoys from neighbouring states; a small shrine in its grounds let them worship, and so the name arose. Today it is the headquarters of the Vietnam Buddhist Sangha and the venue for major ceremonies and religious affairs. Its architecture is typically northern, with a three-tiered gateway, curving roofs and a solemn main hall enshrining Buddhas, bodhisattvas and Zen patriarchs. A rare and distinctive touch is that the couplets and lacquered boards are written in the modern Vietnamese alphabet rather than Chinese script, making them easy for the faithful to read and reflecting the engaged, modern spirit of Vietnamese Buddhism. Though it sits amid busy streets, the pagoda keeps a quiet, incense-scented calm. On the new and full moon and during festivals such as the Buddha's Birthday and Vu Lan, crowds of city dwellers come to pray for peace and blessings.",
+    "presentation_long_ru": "На улице, носящей её имя, в центре Ханоя пагода Куанши восходит к XV веку, когда двор построил гостевой дом для приёма буддийских послов из соседних государств; небольшое святилище в его дворе позволяло им молиться — отсюда и название. Сегодня это резиденция Буддийской сангхи Вьетнама и место крупных церемоний и религиозных дел. Её архитектура типична для севера: трёхъярусные ворота, изогнутые крыши и торжественный главный зал с изваяниями будд, бодхисаттв и дзенских патриархов. Редкая особенность в том, что парные надписи и лаковые таблички выполнены современным вьетнамским алфавитом, а не иероглифами, что облегчает чтение верующим и отражает деятельный, современный дух вьетнамского буддизма. Хотя пагода стоит среди оживлённых улиц, она хранит тихий, напоённый благовониями покой. В новолуние и полнолуние, а также в праздники — день рождения Будды и Вулан — сюда стекаются толпы горожан, чтобы помолиться о мире и благополучии.",
+    "highlights_vi": [
+      "Trụ sở của Giáo hội Phật giáo Việt Nam",
+      "Câu đối, hoành phi viết bằng chữ Quốc ngữ hiếm thấy",
+      "Trung tâm sinh hoạt Phật giáo giữa lòng Hà Nội"
+    ],
+    "highlights_en": [
+      "Headquarters of the Vietnam Buddhist Sangha",
+      "Rare couplets written in the modern Vietnamese alphabet",
+      "A hub of Buddhist life in central Hanoi"
+    ],
+    "highlights_ru": [
+      "Резиденция Буддийской сангхи Вьетнама",
+      "Редкие парные надписи на современном вьетнамском алфавите",
+      "Центр буддийской жизни в сердце Ханоя"
+    ],
+    "practical": {
+      "hours_vi": "Khoảng 6:00-19:00 hằng ngày.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 30 phút.",
+      "best_time_vi": "Sáng sớm; đông vào ngày rằm, mùng một và đại lễ Phật giáo.",
+      "tips_vi": "Ăn mặc kín đáo, giữ yên tĩnh; gần ga Hà Nội và Nhà tù Hỏa Lò."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Quan%20Su%20Pagoda%2C%20Ha%20Noi%2C%20Vietnam&ll=105.8447,21.0248&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Quan%20Su%20Pagoda%2C%20Ha%20Noi%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Quan%20Su%20Pagoda"
+      },
+      {
+        "title": "Wikipedia (VI)",
+        "url": "https://vi.wikipedia.org/wiki/Special:Search?search=Ch%C3%B9a%20Qu%C3%A1n%20S%E1%BB%A9"
+      }
+    ],
+    "tags": [
+      "temple",
+      "historic",
+      "free"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-ha-noi-bao-tang-dan-toc-hoc",
+    "slug": "bao-tang-dan-toc-hoc",
+    "region": "vn-ha-noi",
+    "country": "vietnam",
+    "region_name_vi": "Hà Nội",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Bảo tàng Dân tộc học Việt Nam",
+    "name_ru": "Вьетнамский музей этнологии",
+    "name_en": "Vietnam Museum of Ethnology",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 21.041,
+      "lon": 105.7985
+    },
+    "address_vi": "Đường Nguyễn Văn Huyên, quận Cầu Giấy, Hà Nội",
+    "rating": {
+      "value": 4.6,
+      "count": 15000,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Được đánh giá là một trong những bảo tàng đáng đi nhất Hà Nội. Du khách thích khu nhà truyền thống ngoài trời, phần trưng bày công phu và dễ hiểu; nhiều gia đình khen phù hợp cho trẻ em. Một số góp ý nên đi lúc trời mát vì khu ngoài trời khá rộng.",
+    "presentation_short_vi": "Bảo tàng Dân tộc học Việt Nam giới thiệu văn hóa của 54 dân tộc anh em qua hiện vật, hình ảnh và những ngôi nhà truyền thống dựng ngoài trời. Đây là một trong những bảo tàng hấp dẫn và được yêu thích nhất Hà Nội.",
+    "presentation_short_en": "The Vietnam Museum of Ethnology presents the cultures of the country's 54 ethnic groups through artefacts, photographs and full-size traditional houses in its open-air grounds. It is one of Hanoi's most engaging and best-loved museums.",
+    "presentation_short_ru": "Вьетнамский музей этнологии знакомит с культурами 54 народов страны через предметы быта, фотографии и настоящие традиционные дома под открытым небом. Это один из самых интересных и любимых музеев Ханоя.",
+    "presentation_long_vi": "Nằm ở quận Cầu Giấy, Bảo tàng Dân tộc học Việt Nam là nơi lưu giữ, nghiên cứu và tôn vinh sự đa dạng văn hóa của 54 dân tộc trên khắp đất nước. Khu trưng bày trong nhà, tòa nhà hình trống đồng, giới thiệu hàng nghìn hiện vật: trang phục, nhạc cụ, công cụ lao động, đồ thờ cúng, cùng phim tư liệu và ảnh sống động về đời sống của người Kinh, Tày, Thái, Mông, Ê Đê, Ba Na và nhiều tộc người khác. Hấp dẫn nhất là vườn kiến trúc ngoài trời, nơi phục dựng nguyên bản những ngôi nhà truyền thống: nhà rông Tây Nguyên cao vút, nhà dài Ê Đê, nhà sàn Tày, nhà trình tường người Hà Nhì và nhà mồ với tượng gỗ độc đáo. Du khách có thể bước vào từng ngôi nhà, cảm nhận không gian sống thật của mỗi dân tộc. Bảo tàng còn có khu trưng bày văn hóa Đông Nam Á và thường xuyên tổ chức trình diễn múa rối nước, làm bánh, in tranh dân gian, đặc biệt nhộn nhịp vào dịp Tết Trung thu và Tết Nguyên đán. Đây là điểm đến lý tưởng cho gia đình và những ai muốn hiểu sâu bức tranh văn hóa muôn màu của Việt Nam.",
+    "presentation_long_en": "In Cau Giay District, the Vietnam Museum of Ethnology preserves, studies and celebrates the cultural diversity of the country's 54 ethnic groups. Its indoor building, shaped like a bronze drum, displays thousands of artefacts — costumes, musical instruments, tools and ritual objects — alongside documentary films and vivid photographs of the lives of the Kinh, Tay, Thai, Hmong, Ede, Bahnar and many other peoples. The highlight is the open-air architecture garden, where traditional dwellings are rebuilt to full scale: a soaring Central Highlands communal house, a long Ede house, a Tay stilt house, a rammed-earth Ha Nhi home and a tomb house with striking wooden figures. Visitors can step inside each building and sense the real living space of every group. The museum also has a Southeast Asian gallery and regularly stages water-puppet shows, cake-making and folk woodblock printing, growing especially lively at the Mid-Autumn Festival and Lunar New Year. It is an ideal destination for families and for anyone wishing to understand the vivid mosaic of Vietnamese culture.",
+    "presentation_long_ru": "В районе Зяй музей этнологии Вьетнама хранит, изучает и прославляет культурное многообразие 54 народов страны. В крытом корпусе, по форме напоминающем бронзовый барабан, выставлены тысячи предметов — костюмы, музыкальные инструменты, орудия труда и ритуальная утварь, — а также документальные фильмы и живые фотографии из жизни кинь, тай, тхай, хмонгов, эде, банар и многих других народов. Изюминка — сад архитектуры под открытым небом, где в натуральную величину воссозданы традиционные жилища: устремлённый ввысь общинный дом Центрального нагорья, длинный дом эде, свайный дом тай, глинобитный дом ханьи и погребальный дом с выразительными деревянными фигурами. Посетители могут войти в каждое строение и ощутить настоящее жизненное пространство народа. В музее есть и зал культуры Юго-Восточной Азии, регулярно проходят представления кукол на воде, лепка лакомств и печать народных гравюр — особенно оживлённо в праздник середины осени и лунный Новый год. Это идеальное место для семей и для всех, кто хочет глубже понять яркую мозаику вьетнамской культуры.",
+    "highlights_vi": [
+      "Trưng bày văn hóa của cả 54 dân tộc Việt Nam",
+      "Vườn kiến trúc ngoài trời với nhà truyền thống dựng nguyên bản",
+      "Trình diễn múa rối nước và nghề thủ công dân gian"
+    ],
+    "highlights_en": [
+      "Displays the cultures of all 54 Vietnamese ethnic groups",
+      "Open-air garden of full-size traditional houses",
+      "Water-puppet shows and folk craft demonstrations"
+    ],
+    "highlights_ru": [
+      "Показывает культуры всех 54 народов Вьетнама",
+      "Сад под открытым небом с традиционными домами в натуральную величину",
+      "Представления кукол на воде и народные ремёсла"
+    ],
+    "practical": {
+      "hours_vi": "8:30-17:30, đóng cửa thứ Hai và Tết Nguyên đán.",
+      "ticket_vi": "Người lớn khoảng 40.000 VND; sinh viên, học sinh được giảm.",
+      "duration_vi": "Khoảng 2-3 giờ.",
+      "best_time_vi": "Cuối tuần có trình diễn; đẹp cả sáng lẫn chiều.",
+      "tips_vi": "Dành thời gian cho khu nhà ngoài trời; đi giày thoải mái; phù hợp cho gia đình có trẻ nhỏ."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Vietnam%20Museum%20of%20Ethnology%2C%20Ha%20Noi%2C%20Vietnam&ll=105.7985,21.041&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Vietnam%20Museum%20of%20Ethnology%2C%20Ha%20Noi%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Vietnam%20Museum%20of%20Ethnology"
+      },
+      {
+        "title": "Wikipedia (VI)",
+        "url": "https://vi.wikipedia.org/wiki/Special:Search?search=B%E1%BA%A3o%20t%C3%A0ng%20D%C3%A2n%20t%E1%BB%99c%20h%E1%BB%8Dc%20Vi%E1%BB%87t%20Nam"
+      }
+    ],
+    "tags": [
+      "museum",
+      "family",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-ha-noi-bao-tang-lich-su-quoc-gia",
+    "slug": "bao-tang-lich-su-quoc-gia",
+    "region": "vn-ha-noi",
+    "country": "vietnam",
+    "region_name_vi": "Hà Nội",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Bảo tàng Lịch sử Quốc gia",
+    "name_ru": "Национальный музей истории Вьетнама",
+    "name_en": "National Museum of Vietnamese History",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 21.0245,
+      "lon": 105.86
+    },
+    "address_vi": "Số 1 Tràng Tiền và 216 Trần Quang Khải, quận Hoàn Kiếm, Hà Nội",
+    "rating": {
+      "value": 4.4,
+      "count": 7300,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách đánh giá cao bộ sưu tập phong phú và tòa nhà kiến trúc đẹp. Nhiều người ấn tượng với trống đồng và cổ vật; một số mong có thêm chú thích tiếng Anh chi tiết hơn.",
+    "presentation_short_vi": "Bảo tàng Lịch sử Quốc gia trưng bày dòng chảy lịch sử Việt Nam từ thời tiền sử tới hiện đại, với nhiều bảo vật quốc gia như trống đồng Đông Sơn. Tòa nhà chính mang phong cách Đông Dương độc đáo, kết hợp kiến trúc Pháp và Á Đông.",
+    "presentation_short_en": "The National Museum of Vietnamese History traces the country's story from prehistory to modern times, with many national treasures such as Dong Son bronze drums. Its main building is a striking example of Indochine architecture, blending French and Asian design.",
+    "presentation_short_ru": "Национальный музей истории Вьетнама прослеживает историю страны от доисторических времён до современности, храня множество национальных сокровищ, в том числе бронзовые барабаны Донгшон. Его главное здание — яркий образец «индокитайского» стиля, соединяющего французскую и азиатскую архитектуру.",
+    "presentation_long_vi": "Bảo tàng Lịch sử Quốc gia là nơi hội tụ những dấu mốc quan trọng nhất trong hàng nghìn năm lịch sử dân tộc Việt Nam. Bộ sưu tập trải dài từ thời đại đồ đá, văn hóa Đông Sơn với những chiếc trống đồng tinh xảo, qua các triều đại Lý, Trần, Lê, Nguyễn, tới thời cận đại và cuộc đấu tranh giành độc lập. Du khách được chiêm ngưỡng nhiều bảo vật quốc gia: trống đồng Ngọc Lũ, tượng Phật, bia đá, gốm sứ, ấn triện và các hiện vật khảo cổ vô giá. Cơ sở chính tọa lạc trong tòa nhà xây năm 1932, vốn là Bảo tàng Louis Finot của Trường Viễn Đông Bác Cổ, do kiến trúc sư Ernest Hébrard thiết kế theo phong cách Đông Dương: mái ngói cong, sảnh bát giác, kết hợp hài hòa nét Pháp và Á Đông, bản thân đã là một tác phẩm nghệ thuật. Phần trưng bày về lịch sử cách mạng và kháng chiến đặt tại cơ sở gần đó. Nằm ngay sau Nhà hát Lớn, bảo tàng là điểm đến không thể bỏ qua với ai muốn hiểu ngọn nguồn văn hóa và lịch sử Việt Nam.",
+    "presentation_long_en": "The National Museum of Vietnamese History gathers the most important milestones of the nation's several thousand years of history. Its collection reaches from the Stone Age and the Dong Son culture, with its finely worked bronze drums, through the Ly, Tran, Le and Nguyen dynasties to the modern era and the struggle for independence. Visitors can admire many national treasures: the Ngoc Lu bronze drum, Buddhist statues, stone steles, ceramics, seals and priceless archaeological finds. The main branch occupies a building of 1932, formerly the Louis Finot Museum of the French School of the Far East, designed by architect Ernest Hébrard in the Indochine style: curving tiled roofs and an octagonal hall harmoniously blending French and Asian elements — a work of art in itself. Displays on the revolution and resistance wars are housed in a nearby branch. Standing just behind the Opera House, the museum is an essential stop for anyone wishing to understand the roots of Vietnamese culture and history.",
+    "presentation_long_ru": "Национальный музей истории Вьетнама собирает важнейшие вехи многотысячелетней истории страны. Его коллекция простирается от каменного века и культуры Донгшон с её тонко отлитыми бронзовыми барабанами через династии Ли, Чан, Ле и Нгуен до Нового времени и борьбы за независимость. Посетители могут увидеть множество национальных сокровищ: бронзовый барабан Нгоклу, статуи Будды, каменные стелы, керамику, печати и бесценные археологические находки. Главный корпус занимает здание 1932 года — бывший музей Луи Фино Французской школы Дальнего Востока, построенный архитектором Эрнестом Эбраром в «индокитайском» стиле: изогнутые черепичные крыши и восьмиугольный зал гармонично соединяют французские и азиатские черты — само по себе произведение искусства. Экспозиция о революции и войнах Сопротивления размещена в соседнем корпусе. Стоящий сразу за Оперным театром, музей — обязательная остановка для всех, кто хочет понять истоки вьетнамской культуры и истории.",
+    "highlights_vi": [
+      "Nhiều bảo vật quốc gia, tiêu biểu là trống đồng Đông Sơn",
+      "Tòa nhà kiến trúc Đông Dương của Ernest Hébrard (1932)",
+      "Kể trọn dòng lịch sử từ tiền sử đến hiện đại"
+    ],
+    "highlights_en": [
+      "Many national treasures, notably Dong Son bronze drums",
+      "Indochine-style building by Ernest Hébrard (1932)",
+      "Tells the full story from prehistory to modern times"
+    ],
+    "highlights_ru": [
+      "Множество национальных сокровищ, прежде всего барабаны Донгшон",
+      "Здание в «индокитайском» стиле Эрнеста Эбрара (1932)",
+      "Полная история от древности до современности"
+    ],
+    "practical": {
+      "hours_vi": "8:00-12:00 và 13:30-17:00, thường đóng cửa thứ Hai đầu tháng.",
+      "ticket_vi": "Người lớn khoảng 40.000 VND; giảm cho học sinh, sinh viên.",
+      "duration_vi": "Khoảng 1,5-2 giờ.",
+      "best_time_vi": "Buổi sáng; kết hợp tham quan Nhà hát Lớn gần đó.",
+      "tips_vi": "Có thuyết minh và bảng tiếng Anh; giữ trật tự, không dùng đèn flash với hiện vật cổ."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=National%20Museum%20of%20Vietnamese%20History%2C%20Ha%20Noi%2C%20Vietnam&ll=105.86,21.0245&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Vietnamese%20History%2C%20Ha%20Noi%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=National%20Museum%20of%20Vietnamese%20History"
+      },
+      {
+        "title": "Wikipedia (VI)",
+        "url": "https://vi.wikipedia.org/wiki/Special:Search?search=B%E1%BA%A3o%20t%C3%A0ng%20L%E1%BB%8Bch%20s%E1%BB%AD%20Qu%E1%BB%91c%20gia"
+      }
+    ],
+    "tags": [
+      "museum",
+      "historic",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-ha-noi-bao-tang-my-thuat",
+    "slug": "bao-tang-my-thuat",
+    "region": "vn-ha-noi",
+    "country": "vietnam",
+    "region_name_vi": "Hà Nội",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Bảo tàng Mỹ thuật Việt Nam",
+    "name_ru": "Вьетнамский музей изящных искусств",
+    "name_en": "Vietnam Fine Arts Museum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 21.0309,
+      "lon": 105.8373
+    },
+    "address_vi": "66 phố Nguyễn Thái Học, quận Ba Đình, Hà Nội",
+    "rating": {
+      "value": 4.5,
+      "count": 4600,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Người yêu nghệ thuật đánh giá rất cao bộ sưu tập tranh sơn mài, lụa và tượng cổ. Nhiều khách nước ngoài khen cách trưng bày theo dòng thời gian; một số cho rằng vé và không gian xứng đáng, nên đi lúc vắng để thưởng thức trọn vẹn.",
+    "presentation_short_vi": "Bảo tàng Mỹ thuật Việt Nam lưu giữ kho tàng nghệ thuật từ tượng Phật cổ, tranh dân gian tới hội họa hiện đại sơn mài, lụa và sơn dầu. Đây là nơi hội tụ tinh hoa mỹ thuật của đất nước qua nhiều thế kỷ.",
+    "presentation_short_en": "The Vietnam Fine Arts Museum holds a treasury of art, from ancient Buddhist sculpture and folk prints to modern lacquer, silk and oil painting. It brings together the finest of the country's art across many centuries.",
+    "presentation_short_ru": "Вьетнамский музей изящных искусств хранит сокровищницу искусства — от древней буддийской скульптуры и народных гравюр до современной лаковой живописи, картин на шёлке и маслом. Здесь собрано лучшее из искусства страны за многие века.",
+    "presentation_long_vi": "Tọa lạc trong một tòa nhà kiểu Pháp trên phố Nguyễn Thái Học, đối diện Văn Miếu, Bảo tàng Mỹ thuật Việt Nam là điểm đến hàng đầu cho những ai yêu nghệ thuật. Bộ sưu tập trải dài từ nghệ thuật cổ với tượng Phật gỗ, tượng Quan Âm nghìn mắt nghìn tay, điêu khắc đình chùa và gốm men ngọc, qua tranh dân gian Đông Hồ, Hàng Trống, tới hội họa hiện đại nửa đầu thế kỷ 20. Đây là nơi trưng bày nhiều kiệt tác của các danh họa trường Cao đẳng Mỹ thuật Đông Dương như Nguyễn Phan Chánh, Tô Ngọc Vân, Nguyễn Gia Trí, Bùi Xuân Phái, với những chất liệu độc đáo của Việt Nam: sơn mài, lụa, khắc gỗ. Người xem có thể cảm nhận vẻ đẹp trầm ấm của tranh sơn mài, sự mềm mại của tranh lụa và cái nhìn tinh tế về làng quê, phố cổ, người phụ nữ Việt. Không gian bảo tàng yên tĩnh, sáng sủa, được sắp đặt theo dòng thời gian giúp khách tham quan dễ theo dõi. Đây là nơi lý tưởng để hiểu tâm hồn và bản sắc dân tộc qua ngôn ngữ của màu sắc và hình khối.",
+    "presentation_long_en": "Housed in a French-era building on Nguyen Thai Hoc Street, opposite the Temple of Literature, the Vietnam Fine Arts Museum is a leading destination for art lovers. Its collection ranges from ancient art — wooden Buddha images, the thousand-eyed, thousand-armed Avalokiteshvara, communal-house carvings and celadon ceramics — through Dong Ho and Hang Trong folk prints to modern painting of the early twentieth century. Here hang many masterpieces by artists of the Indochina Fine Arts College, such as Nguyen Phan Chanh, To Ngoc Van, Nguyen Gia Tri and Bui Xuan Phai, in media distinctive to Vietnam: lacquer, silk and woodcut. Visitors can feel the warm depth of lacquer painting, the softness of silk and a tender eye for village life, the old quarter and Vietnamese women. The galleries are quiet and well lit, arranged chronologically so the story is easy to follow. It is an ideal place to sense the nation's soul and identity through the language of colour and form.",
+    "presentation_long_ru": "Размещённый в здании французской эпохи на улице Нгуен Тхай Хок, напротив Храма литературы, Вьетнамский музей изящных искусств — одно из главных мест для любителей искусства. Его собрание простирается от древнего искусства — деревянных изваяний Будды, тысячерукой и тысячеглазой Авалокитешвары, резьбы общинных домов и селадоновой керамики — через народные гравюры Донгхо и Хангчонг до живописи начала XX века. Здесь висят многие шедевры художников Индокитайского училища изящных искусств — Нгуен Фан Тьаня, То Нгок Вана, Нгуен Зя Чи, Буй Суан Фая — в характерных для Вьетнама техниках: лак, шёлк, ксилография. Посетители ощущают тёплую глубину лаковой живописи, мягкость шёлка и нежный взгляд на деревенскую жизнь, Старый квартал и вьетнамских женщин. Залы тихи и хорошо освещены, устроены хронологически, так что повествование легко проследить. Это идеальное место, чтобы почувствовать душу и самобытность народа языком цвета и формы.",
+    "highlights_vi": [
+      "Kiệt tác sơn mài, lụa của các danh họa Đông Dương",
+      "Tượng Quan Âm nghìn mắt nghìn tay và điêu khắc cổ",
+      "Đối diện Văn Miếu, trong tòa nhà kiểu Pháp yên tĩnh"
+    ],
+    "highlights_en": [
+      "Lacquer and silk masterpieces by Indochina-era artists",
+      "The thousand-eyed, thousand-armed Avalokiteshvara and ancient sculpture",
+      "Opposite the Temple of Literature, in a quiet French-era building"
+    ],
+    "highlights_ru": [
+      "Шедевры лаковой и шёлковой живописи мастеров индокитайской эпохи",
+      "Тысячерукая и тысячеглазая Авалокитешвара и древняя скульптура",
+      "Напротив Храма литературы, в тихом здании французской эпохи"
+    ],
+    "practical": {
+      "hours_vi": "8:30-17:00 hằng ngày.",
+      "ticket_vi": "Người lớn khoảng 40.000 VND; giảm cho học sinh, sinh viên.",
+      "duration_vi": "Khoảng 1,5-2 giờ.",
+      "best_time_vi": "Buổi sáng yên tĩnh; kết hợp Văn Miếu đối diện.",
+      "tips_vi": "Có thể thuê thuyết minh; đừng bỏ lỡ khu tranh sơn mài và lụa hiện đại."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Vietnam%20Fine%20Arts%20Museum%2C%20Ha%20Noi%2C%20Vietnam&ll=105.8373,21.0309&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Vietnam%20Fine%20Arts%20Museum%2C%20Ha%20Noi%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Vietnam%20Fine%20Arts%20Museum"
+      },
+      {
+        "title": "Wikipedia (VI)",
+        "url": "https://vi.wikipedia.org/wiki/Special:Search?search=B%E1%BA%A3o%20t%C3%A0ng%20M%E1%BB%B9%20thu%E1%BA%ADt%20Vi%E1%BB%87t%20Nam"
+      }
+    ],
+    "tags": [
+      "museum",
+      "art"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-ha-noi-bao-tang-ho-chi-minh",
+    "slug": "bao-tang-ho-chi-minh",
+    "region": "vn-ha-noi",
+    "country": "vietnam",
+    "region_name_vi": "Hà Nội",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Bảo tàng Hồ Chí Minh",
+    "name_ru": "Музей Хо Ши Мина",
+    "name_en": "Ho Chi Minh Museum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 21.0361,
+      "lon": 105.8339
+    },
+    "address_vi": "19 phố Ngọc Hà, quận Ba Đình, Hà Nội",
+    "rating": {
+      "value": 4.4,
+      "count": 8100,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách thấy cách trưng bày sáng tạo, khác lạ so với bảo tàng truyền thống. Nhiều người thích kiến trúc bông sen và vị trí thuận tiện trong cụm Ba Đình; một số nói phần biểu tượng nghệ thuật cần thuyết minh mới hiểu hết.",
+    "presentation_short_vi": "Bảo tàng Hồ Chí Minh giới thiệu cuộc đời và sự nghiệp của Chủ tịch Hồ Chí Minh qua nghệ thuật trưng bày hiện đại, giàu tính biểu tượng. Tòa nhà hình bông sen trắng nằm ngay cạnh Lăng Bác và Chùa Một Cột.",
+    "presentation_short_en": "The Ho Chi Minh Museum presents the life and work of President Ho Chi Minh through a modern, symbol-rich exhibition. Its building, shaped like a white lotus, stands beside the Mausoleum and the One Pillar Pagoda.",
+    "presentation_short_ru": "Музей Хо Ши Мина рассказывает о жизни и деятельности президента Хо Ши Мина с помощью современной, насыщенной символами экспозиции. Здание в форме белого лотоса стоит рядом с мавзолеем и Пагодой на одном столбе.",
+    "presentation_long_vi": "Khánh thành năm 1990 nhân kỷ niệm 100 năm ngày sinh Chủ tịch Hồ Chí Minh, bảo tàng nằm trong quần thể quảng trường Ba Đình lịch sử, ngay cạnh Lăng Bác và Chùa Một Cột. Tòa nhà lớn màu trắng được thiết kế cách điệu hình bông sen — loài hoa gắn với quê hương và phẩm chất thanh cao của Người. Bên trong, phần trưng bày kể lại hành trình cuộc đời Bác từ thời niên thiếu ở Nghệ An, những năm bôn ba tìm đường cứu nước qua nhiều châu lục, tới khi lãnh đạo cách mạng và lập nên nước Việt Nam Dân chủ Cộng hòa. Điều đặc biệt của bảo tàng là ngôn ngữ trưng bày hiện đại, giàu tính ẩn dụ: các gian được bố trí theo chủ đề, kết hợp hiện vật, hình ảnh, tài liệu với những biểu tượng nghệ thuật lớn phản ánh bối cảnh thế giới cùng thời. Du khách vừa tìm hiểu tiểu sử một nhân vật lịch sử, vừa cảm nhận không khí của thế kỷ 20 đầy biến động. Bảo tàng thường được ghép cùng hành trình viếng Lăng, thăm Nhà sàn và Chùa Một Cột, tạo thành cụm tham quan quan trọng bậc nhất ở khu Ba Đình.",
+    "presentation_long_en": "Opened in 1990 for the centenary of President Ho Chi Minh's birth, the museum lies within the historic Ba Dinh Square complex, next to the Mausoleum and the One Pillar Pagoda. The large white building is stylised as a lotus blossom — a flower tied to his homeland and to his ideals of purity. Inside, the exhibition follows his life from his youth in Nghe An, through the years he travelled across continents seeking a path to save his country, to his leadership of the revolution and the founding of the Democratic Republic of Vietnam. What sets the museum apart is its modern, metaphor-rich display: themed halls combine artefacts, photographs and documents with large artistic symbols reflecting the world context of each period. Visitors learn the biography of a historic figure while sensing the turbulent atmosphere of the twentieth century. The museum is usually combined with a visit to the Mausoleum, the stilt house and the One Pillar Pagoda, forming one of the most important sightseeing clusters in the Ba Dinh district.",
+    "presentation_long_ru": "Открытый в 1990 году к столетию со дня рождения президента Хо Ши Мина, музей расположен в историческом ансамбле площади Бадинь, рядом с мавзолеем и Пагодой на одном столбе. Крупное белое здание стилизовано под цветок лотоса — символ его родины и идеалов чистоты. Внутри экспозиция прослеживает его жизнь от юности в провинции Нгеан через годы странствий по континентам в поисках пути спасения страны до руководства революцией и основания Демократической Республики Вьетнам. Особенность музея — современный, насыщенный метафорами показ: тематические залы соединяют предметы, фотографии и документы с крупными художественными символами, отражающими мировой контекст каждой эпохи. Посетители узнают биографию исторической личности и одновременно ощущают бурную атмосферу XX века. Осмотр музея обычно объединяют с посещением мавзолея, свайного дома и Пагоды на одном столбе, образуя один из важнейших экскурсионных ансамблей района Бадинь.",
+    "highlights_vi": [
+      "Tòa nhà cách điệu hình bông sen trắng",
+      "Trưng bày hiện đại, giàu biểu tượng về cuộc đời Chủ tịch Hồ Chí Minh",
+      "Nằm trong cụm di tích Ba Đình, cạnh Lăng Bác và Chùa Một Cột"
+    ],
+    "highlights_en": [
+      "Building stylised as a white lotus blossom",
+      "Modern, symbol-rich display of President Ho Chi Minh's life",
+      "Part of the Ba Dinh cluster, beside the Mausoleum and One Pillar Pagoda"
+    ],
+    "highlights_ru": [
+      "Здание в форме белого лотоса",
+      "Современная, символичная экспозиция о жизни президента Хо Ши Мина",
+      "В ансамбле Бадинь, рядом с мавзолеем и Пагодой на одном столбе"
+    ],
+    "practical": {
+      "hours_vi": "8:00-12:00 và 14:00-16:30; thường đóng chiều thứ Hai và thứ Sáu.",
+      "ticket_vi": "Khoảng 40.000 VND/người.",
+      "duration_vi": "Khoảng 1-1,5 giờ.",
+      "best_time_vi": "Buổi sáng, kết hợp viếng Lăng Bác (thường mở buổi sáng).",
+      "tips_vi": "Kiểm tra lịch mở cửa của khu Lăng; ăn mặc lịch sự; đi cùng cụm Ba Đình để tiết kiệm thời gian."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Ho%20Chi%20Minh%20Museum%2C%20Ha%20Noi%2C%20Vietnam&ll=105.8339,21.0361&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Ho%20Chi%20Minh%20Museum%2C%20Ha%20Noi%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Ho%20Chi%20Minh%20Museum"
+      },
+      {
+        "title": "Wikipedia (VI)",
+        "url": "https://vi.wikipedia.org/wiki/Special:Search?search=B%E1%BA%A3o%20t%C3%A0ng%20H%E1%BB%93%20Ch%C3%AD%20Minh"
+      }
+    ],
+    "tags": [
+      "museum",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-ha-noi-khu-di-tich-phu-chu-tich",
+    "slug": "khu-di-tich-phu-chu-tich",
+    "region": "vn-ha-noi",
+    "country": "vietnam",
+    "region_name_vi": "Hà Nội",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Khu di tích Phủ Chủ tịch (Nhà sàn Bác Hồ)",
+    "name_ru": "Мемориальный комплекс Президентского дворца (свайный дом Хо Ши Мина)",
+    "name_en": "Presidential Palace Historical Site (Ho Chi Minh's Stilt House)",
+    "categories": [
+      "palace",
+      "monument",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 21.039,
+      "lon": 105.834
+    },
+    "address_vi": "Số 1 phố Hoàng Hoa Thám / Ngọc Hà, quận Ba Đình, Hà Nội",
+    "rating": {
+      "value": 4.6,
+      "count": 9400,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách xúc động trước sự giản dị của ngôi nhà sàn và khuôn viên xanh mát. Nhiều người coi đây là điểm ý nghĩa nhất khu Ba Đình; một số lưu ý nên đi sớm cùng buổi viếng Lăng để tránh nắng và đông.",
+    "presentation_short_vi": "Khu di tích Phủ Chủ tịch là nơi Chủ tịch Hồ Chí Minh sống và làm việc từ 1954 đến 1969. Điểm nhấn là ngôi nhà sàn gỗ giản dị bên ao cá, tương phản với tòa Phủ Chủ tịch kiểu Pháp nguy nga gần đó.",
+    "presentation_short_en": "The Presidential Palace Historical Site is where President Ho Chi Minh lived and worked from 1954 to 1969. Its centrepiece is a simple wooden stilt house beside a fish pond, in quiet contrast to the grand French-era Presidential Palace nearby.",
+    "presentation_short_ru": "Мемориальный комплекс Президентского дворца — место, где президент Хо Ши Мин жил и работал с 1954 по 1969 год. Его сердце — простой деревянный свайный дом у рыбного пруда, тихо контрастирующий с пышным Президентским дворцом французской эпохи неподалёку.",
+    "presentation_long_vi": "Nằm trong khuôn viên xanh mát phía sau Lăng Bác, khu di tích Phủ Chủ tịch gắn liền với 15 năm cuối đời của Chủ tịch Hồ Chí Minh. Tòa Phủ Chủ tịch bốn tầng màu vàng, xây thời Pháp làm dinh Toàn quyền Đông Dương, nay chỉ dùng cho nghi lễ; điều khiến du khách xúc động là Bác đã không ở trong dinh thự sang trọng ấy mà chọn sống trong ngôi nhà sàn gỗ mộc mạc dựng năm 1958, mô phỏng nhà sàn vùng Việt Bắc. Ngôi nhà nhỏ hai tầng, tầng dưới để tiếp khách và họp, tầng trên là phòng ngủ và phòng làm việc đơn sơ với bàn ghế, sách vở còn giữ nguyên. Bên cạnh là ao cá Bác thường cho ăn mỗi chiều, vườn cây trái với những loài cây từ khắp mọi miền, con đường xoài rợp bóng. Du khách còn thăm nhà 54, nhà 67 và chiếc xe Bác từng dùng. Tất cả toát lên lối sống giản dị, gần gũi thiên nhiên và tinh thần thanh cao của Người. Đây là điểm dừng chân đầy cảm xúc trong hành trình khám phá khu Ba Đình lịch sử.",
+    "presentation_long_en": "Set in green grounds behind the Mausoleum, the Presidential Palace Historical Site is bound up with the last fifteen years of President Ho Chi Minh's life. The four-storey yellow Presidential Palace, built by the French as the residence of the Governor-General of Indochina, is now used only for ceremonies; what moves visitors is that Ho Chi Minh chose not to live in that grand mansion but in a plain wooden stilt house built in 1958, modelled on the dwellings of the Viet Bac highlands. The small two-level house has a lower floor for receiving guests and meetings and, above, a simple bedroom and study with desk, chairs and books kept as they were. Beside it lies the fish pond he fed each afternoon, an orchard of trees gathered from every region and a shaded mango avenue. Visitors also see House 54, House 67 and a car he used. Everything expresses his simple way of life, his closeness to nature and his lofty spirit. It is a deeply moving stop on any tour of the historic Ba Dinh district.",
+    "presentation_long_ru": "В зелёном парке за мавзолеем мемориальный комплекс Президентского дворца связан с последними пятнадцатью годами жизни президента Хо Ши Мина. Четырёхэтажный жёлтый Президентский дворец, построенный французами как резиденция генерал-губернатора Индокитая, теперь используется лишь для церемоний; посетителей трогает то, что Хо Ши Мин предпочёл жить не в этом роскошном особняке, а в простом деревянном свайном доме 1958 года, повторяющем жилища нагорья Вьетбак. В небольшом двухъярусном доме нижний этаж служил для приёма гостей и совещаний, а наверху — скромные спальня и рабочий кабинет со столом, стульями и книгами, сохранёнными как были. Рядом — рыбный пруд, который он кормил каждый вечер, сад с деревьями со всех концов страны и тенистая манговая аллея. Гости видят также дом 54, дом 67 и автомобиль, которым он пользовался. Всё говорит о его простом образе жизни, близости к природе и высоком духе. Это глубоко трогательная остановка на маршруте по историческому району Бадинь.",
+    "highlights_vi": [
+      "Nhà sàn gỗ giản dị của Bác Hồ bên ao cá",
+      "Tương phản với dinh Toàn quyền kiểu Pháp bề thế",
+      "Vườn cây, đường xoài và không gian xanh yên bình"
+    ],
+    "highlights_en": [
+      "Ho Chi Minh's simple wooden stilt house by a fish pond",
+      "Contrast with the grand French Governor-General's palace",
+      "Orchards, a mango avenue and peaceful green grounds"
+    ],
+    "highlights_ru": [
+      "Простой деревянный свайный дом Хо Ши Мина у рыбного пруда",
+      "Контраст с пышным французским дворцом генерал-губернатора",
+      "Сады, манговая аллея и тихая зелень"
+    ],
+    "practical": {
+      "hours_vi": "7:30-11:00 và 13:30-16:00; kiểm tra lịch theo mùa.",
+      "ticket_vi": "Khoảng 40.000 VND/người.",
+      "duration_vi": "Khoảng 1 giờ.",
+      "best_time_vi": "Buổi sáng, ghép cùng viếng Lăng Bác và Chùa Một Cột.",
+      "tips_vi": "Ăn mặc lịch sự, đi theo lối tham quan quy định; đường đi bộ nhiều nên mang giày thoải mái."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Presidential%20Palace%20Historical%20Site%2C%20Ha%20Noi%2C%20Vietnam&ll=105.834,21.039&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Presidential%20Palace%20Historical%20Site%2C%20Ha%20Noi%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Presidential%20Palace%20Historical%20Site%20%28Ho%20Chi%20Minh%27s%20Stilt%20House%29"
+      },
+      {
+        "title": "Wikipedia (VI)",
+        "url": "https://vi.wikipedia.org/wiki/Special:Search?search=Khu%20di%20t%C3%ADch%20Ph%E1%BB%A7%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20%28Nh%C3%A0%20s%C3%A0n%20B%C3%A1c%20H%E1%BB%93%29"
+      }
+    ],
+    "tags": [
+      "historic",
+      "outdoor",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-ha-noi-cot-co-ha-noi",
+    "slug": "cot-co-ha-noi",
+    "region": "vn-ha-noi",
+    "country": "vietnam",
+    "region_name_vi": "Hà Nội",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Cột cờ Hà Nội (Kỳ đài)",
+    "name_ru": "Ханойская флаговая башня",
+    "name_en": "Hanoi Flag Tower",
+    "categories": [
+      "monument",
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 21.0324,
+      "lon": 105.8406
+    },
+    "address_vi": "28A Điện Biên Phủ, quận Ba Đình, Hà Nội (trong Bảo tàng Lịch sử Quân sự)",
+    "rating": {
+      "value": 4.4,
+      "count": 3800,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách thích leo lên đỉnh ngắm toàn cảnh và tìm hiểu lịch sử. Nhiều người xem đây là biểu tượng quen thuộc của Hà Nội; một số nhắc cầu thang bên trong hẹp, nên đi cẩn thận.",
+    "presentation_short_vi": "Cột cờ Hà Nội là kỳ đài cao hơn 33 mét, xây dưới triều Nguyễn đầu thế kỷ 19 và là một trong những biểu tượng của thủ đô. Đây là công trình hiếm hoi còn nguyên vẹn của thành Hà Nội xưa.",
+    "presentation_short_en": "The Hanoi Flag Tower is a flag pedestal over 33 metres high, built under the Nguyen dynasty in the early nineteenth century and one of the capital's emblems. It is among the few structures of the old Hanoi citadel to survive intact.",
+    "presentation_short_ru": "Ханойская флаговая башня — флаговый постамент высотой более 33 метров, возведённый при династии Нгуен в начале XIX века и ставший одним из символов столицы. Это одно из немногих сохранившихся в целости сооружений старой ханойской цитадели.",
+    "presentation_long_vi": "Cột cờ Hà Nội, hay Kỳ đài, được xây dựng trong khoảng năm 1805-1812 dưới triều vua Gia Long, nằm ở phía nam Hoàng thành Thăng Long. Công trình cao hơn 33 mét (tính cả trụ treo cờ), gồm ba tầng đế hình chóp cụt vuông xếp chồng và thân cột hình trụ tám cạnh, bên trong có cầu thang xoắn ốc dẫn lên vọng lâu trên đỉnh. Những ô cửa nhỏ hình hoa thị và hình rẻ quạt vừa lấy sáng, thông gió, vừa tạo nét duyên dáng cho khối kiến trúc quân sự. Trải qua bao biến động lịch sử, khi phần lớn thành Hà Nội bị phá dỡ thời Pháp thuộc, Cột cờ vẫn đứng vững và trở thành nhân chứng của thủ đô ngàn năm. Ngày 10 tháng 10 năm 1954, lá cờ đỏ sao vàng tung bay trên đỉnh cột trong ngày tiếp quản Thủ đô, khắc sâu hình ảnh Cột cờ vào ký ức dân tộc. Hiện nay công trình nằm trong khuôn viên Bảo tàng Lịch sử Quân sự Việt Nam; du khách có thể leo lên vọng lâu để phóng tầm mắt ngắm khu vực Ba Đình và cảm nhận chiều sâu lịch sử của Hà Nội.",
+    "presentation_long_en": "The Hanoi Flag Tower, or Ky Dai, was built between about 1805 and 1812 under Emperor Gia Long, at the southern side of the Thang Long Imperial Citadel. It rises more than 33 metres, including the flag mast, with three stacked square truncated-pyramid tiers and an octagonal cylindrical shaft holding a spiral staircase up to a watch pavilion at the top. Small flower- and fan-shaped openings admit light and air while lending grace to this military structure. Through many upheavals — when most of the Hanoi citadel was demolished in the colonial era — the Flag Tower stood firm and became a witness to the thousand-year capital. On 10 October 1954, the red flag with a golden star flew from its summit on the day the capital was handed back, fixing the tower in the nation's memory. Today it stands within the grounds of the Vietnam Military History Museum; visitors can climb to the watch pavilion for a sweeping view over the Ba Dinh area and a strong sense of Hanoi's historical depth.",
+    "presentation_long_ru": "Ханойская флаговая башня, или Кидай, была построена примерно между 1805 и 1812 годами при императоре Зя Лонге, у южной стороны императорской цитадели Тханглонг. Она поднимается более чем на 33 метра вместе с флагштоком и состоит из трёх составленных друг на друга квадратных усечённых пирамид и восьмигранного цилиндрического ствола со спиральной лестницей, ведущей к смотровому павильону на вершине. Небольшие проёмы в форме цветов и вееров пропускают свет и воздух, придавая изящество этому военному сооружению. Пережив множество потрясений — когда большая часть ханойской цитадели была снесена в колониальную эпоху, — башня устояла и стала свидетелем тысячелетней столицы. 10 октября 1954 года красный флаг с золотой звездой взвился над её вершиной в день возвращения столицы, навсегда запечатлев башню в народной памяти. Сегодня она стоит на территории Музея военной истории Вьетнама; посетители могут подняться к смотровому павильону ради широкого вида на район Бадинь и ощущения исторической глубины Ханоя.",
+    "highlights_vi": [
+      "Kỳ đài cao hơn 33 m, xây thời vua Gia Long",
+      "Công trình hiếm hoi còn nguyên vẹn của thành Hà Nội xưa",
+      "Gắn với ngày tiếp quản Thủ đô 10/10/1954"
+    ],
+    "highlights_en": [
+      "Flag pedestal over 33 m high, built under Emperor Gia Long",
+      "A rare intact structure of the old Hanoi citadel",
+      "Linked to the handover of the capital on 10 October 1954"
+    ],
+    "highlights_ru": [
+      "Флаговый постамент высотой более 33 м, эпохи императора Зя Лонга",
+      "Редкое уцелевшее сооружение старой ханойской цитадели",
+      "Связана с возвращением столицы 10 октября 1954 года"
+    ],
+    "practical": {
+      "hours_vi": "Theo giờ mở cửa Bảo tàng Lịch sử Quân sự, khoảng 8:00-16:30 (thường nghỉ một số ngày trong tuần).",
+      "ticket_vi": "Vé tham quan bảo tàng, khoảng 40.000 VND.",
+      "duration_vi": "Khoảng 30-45 phút.",
+      "best_time_vi": "Buổi sáng; trời quang để ngắm cảnh từ vọng lâu.",
+      "tips_vi": "Bậc thang lên đỉnh khá hẹp và tối; kết hợp tham quan bảo tàng trong cùng khuôn viên."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Hanoi%20Flag%20Tower%2C%20Ha%20Noi%2C%20Vietnam&ll=105.8406,21.0324&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Hanoi%20Flag%20Tower%2C%20Ha%20Noi%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Hanoi%20Flag%20Tower"
+      },
+      {
+        "title": "Wikipedia (VI)",
+        "url": "https://vi.wikipedia.org/wiki/Special:Search?search=C%E1%BB%99t%20c%E1%BB%9D%20H%C3%A0%20N%E1%BB%99i%20%28K%E1%BB%B3%20%C4%91%C3%A0i%29"
+      }
+    ],
+    "tags": [
+      "historic",
+      "monument",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-ha-noi-o-quan-chuong",
+    "slug": "o-quan-chuong",
+    "region": "vn-ha-noi",
+    "country": "vietnam",
+    "region_name_vi": "Hà Nội",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Ô Quan Chưởng",
+    "name_ru": "Ворота Куантьыонг",
+    "name_en": "Quan Chuong Gate (Old East Gate)",
+    "categories": [
+      "fortress",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 21.0378,
+      "lon": 105.8516
+    },
+    "address_vi": "Phố Ô Quan Chưởng, phường Đồng Xuân, quận Hoàn Kiếm, Hà Nội",
+    "rating": {
+      "value": 4.4,
+      "count": 4200,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách thích nét cổ kính hiếm hoi còn sót lại giữa phố cổ và coi đây là điểm chụp ảnh đẹp. Nhiều người ghé khi đi bộ quanh phố cổ; một số lưu ý giao thông quanh cổng khá đông đúc.",
+    "presentation_short_vi": "Ô Quan Chưởng là cửa ô duy nhất còn lại của tòa thành đất bao quanh kinh thành Thăng Long xưa, xây năm 1749. Cổng gạch cổ kính với vọng lâu là chứng tích quý giá ngay cửa ngõ khu phố cổ.",
+    "presentation_short_en": "Quan Chuong Gate is the only surviving gate of the earthen rampart that once encircled old Thang Long, built in 1749. Its ancient brick archway and watch pavilion are a precious relic at the very entrance to the Old Quarter.",
+    "presentation_short_ru": "Ворота Куантьыонг — единственные уцелевшие ворота земляного вала, некогда окружавшего древний Тханглонг, построенные в 1749 году. Старинная кирпичная арка со смотровым павильоном — драгоценная реликвия у самого входа в Старый квартал.",
+    "presentation_long_vi": "Ô Quan Chưởng, tên chữ là Đông Hà Môn, được xây năm 1749 dưới thời vua Lê Hiển Tông và tu bổ vào thế kỷ 19. Đây là cửa ô cuối cùng còn sót lại trong số nhiều cửa ô của lũy thành đất từng bao quanh kinh thành Thăng Long, nơi kiểm soát người và hàng hóa ra vào phía đông thành, hướng ra sông Hồng. Cổng xây bằng gạch theo kiểu vọng lâu, gồm một cửa chính lớn cuốn vòm và hai cửa phụ nhỏ hai bên, phía trên là chòi canh có mái. Trên tường cổng vẫn còn tấm bia đá khắc lệnh của Tổng đốc Hoàng Diệu năm 1881 cấm binh lính sách nhiễu dân qua lại. Tên gọi Ô Quan Chưởng gắn với sự tích một viên quan Chưởng cơ cùng binh lính đã anh dũng chống Pháp và hy sinh tại đây năm 1873. Trải qua gần ba thế kỷ, cổng thành rêu phong vẫn đứng vững giữa phố phường tấp nập, là biểu tượng cho sức sống của Hà Nội cổ. Nằm ngay đầu khu phố cổ, gần chợ Đồng Xuân và sông Hồng, đây là điểm check-in và tìm hiểu lịch sử được nhiều du khách yêu thích.",
+    "presentation_long_en": "Quan Chuong Gate, formally called Dong Ha Mon, was built in 1749 under Emperor Le Hien Tong and restored in the nineteenth century. It is the last surviving gate among the many that once pierced the earthen rampart encircling old Thang Long, controlling people and goods entering the city from the east, towards the Red River. Built of brick in watch-pavilion style, it has one large arched main passage flanked by two smaller side passages, with a roofed lookout above. On the gate wall a stone stele still bears an 1881 order by Governor Hoang Dieu forbidding soldiers from harassing passers-by. The name Quan Chuong recalls a commanding officer (Chuong Co) who, with his men, resisted the French and fell here in 1873. After nearly three centuries the moss-covered gate still stands amid busy streets, a symbol of old Hanoi's endurance. Right at the head of the Old Quarter, near Dong Xuan Market and the Red River, it is a much-loved spot for photos and for touching the city's history.",
+    "presentation_long_ru": "Ворота Куантьыонг, официально называемые Донгхамон, были построены в 1749 году при императоре Ле Хиен Тонге и отреставрированы в XIX веке. Это последние уцелевшие ворота из многих, что некогда прорезали земляной вал вокруг древнего Тханглонга, они контролировали въезд людей и товаров в город с востока, со стороны Красной реки. Сложенные из кирпича в стиле сторожевого павильона, они имеют один большой арочный проезд с двумя меньшими боковыми проходами и крытую вышку сверху. На стене ворот до сих пор сохранилась каменная стела с указом губернатора Хоанг Зьеу 1881 года, запрещавшим солдатам притеснять прохожих. Название Куантьыонг напоминает о командире (тьыонг ко), который вместе со своими воинами оборонялся от французов и пал здесь в 1873 году. Спустя почти три века поросшие мхом ворота всё ещё стоят среди оживлённых улиц — символ стойкости старого Ханоя. У самого начала Старого квартала, рядом с рынком Донгсуан и Красной рекой, это любимое место для фотографий и знакомства с историей города.",
+    "highlights_vi": [
+      "Cửa ô duy nhất còn lại của thành Thăng Long xưa (1749)",
+      "Bia đá khắc lệnh cấm sách nhiễu dân của Tổng đốc Hoàng Diệu",
+      "Nằm ngay đầu khu phố cổ, gần chợ Đồng Xuân"
+    ],
+    "highlights_en": [
+      "The only surviving gate of old Thang Long (1749)",
+      "A stone stele bearing Governor Hoang Dieu's anti-harassment order",
+      "At the head of the Old Quarter, near Dong Xuan Market"
+    ],
+    "highlights_ru": [
+      "Единственные уцелевшие ворота старого Тханглонга (1749)",
+      "Каменная стела с указом губернатора Хоанг Зьеу",
+      "У начала Старого квартала, рядом с рынком Донгсуан"
+    ],
+    "practical": {
+      "hours_vi": "Xem tự do ngoài trời cả ngày.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 15-20 phút.",
+      "best_time_vi": "Sáng sớm hoặc chiều tối; đẹp khi lên đèn.",
+      "tips_vi": "Cổng nằm ở ngã tư đông xe, chú ý an toàn khi chụp ảnh; kết hợp dạo phố cổ và chợ Đồng Xuân."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Quan%20Chuong%20Gate%2C%20Ha%20Noi%2C%20Vietnam&ll=105.8516,21.0378&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Quan%20Chuong%20Gate%2C%20Ha%20Noi%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Quan%20Chuong%20Gate%20%28Old%20East%20Gate%29"
+      },
+      {
+        "title": "Wikipedia (VI)",
+        "url": "https://vi.wikipedia.org/wiki/Special:Search?search=%C3%94%20Quan%20Ch%C6%B0%E1%BB%9Fng"
+      }
+    ],
+    "tags": [
+      "historic",
+      "monument",
+      "free"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-ha-noi-cho-dong-xuan",
+    "slug": "cho-dong-xuan",
+    "region": "vn-ha-noi",
+    "country": "vietnam",
+    "region_name_vi": "Hà Nội",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Chợ Đồng Xuân",
+    "name_ru": "Рынок Донгсуан",
+    "name_en": "Dong Xuan Market",
+    "categories": [
+      "square_street",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 21.0382,
+      "lon": 105.8496
+    },
+    "address_vi": "Phố Đồng Xuân, phường Đồng Xuân, quận Hoàn Kiếm, Hà Nội",
+    "rating": {
+      "value": 4.2,
+      "count": 12000,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách thấy chợ nhộn nhịp, nhiều hàng hóa và đồ ăn ngon, đặc biệt về đêm. Nhiều người thích không khí chợ đêm cuối tuần; một số nhắc chủ yếu bán buôn nên nhớ mặc cả và cẩn thận tư trang.",
+    "presentation_short_vi": "Chợ Đồng Xuân là khu chợ lớn và lâu đời nhất trong khu phố cổ Hà Nội, có từ cuối thế kỷ 19. Đây là trung tâm buôn bán sầm uất với đủ loại hàng hóa và khu ẩm thực đường phố hấp dẫn về đêm.",
+    "presentation_short_en": "Dong Xuan Market is the largest and oldest market in Hanoi's Old Quarter, dating from the late nineteenth century. It is a bustling trading hub offering every kind of goods, with a lively street-food scene by night.",
+    "presentation_short_ru": "Рынок Донгсуан — крупнейший и старейший рынок Старого квартала Ханоя, существующий с конца XIX века. Это оживлённый торговый центр со всевозможными товарами и живой уличной едой по вечерам.",
+    "presentation_long_vi": "Chợ Đồng Xuân được người Pháp xây dựng kiên cố năm 1889 trên nền một khu chợ họp lâu đời gần cửa sông Tô Lịch, trở thành ngôi chợ lớn nhất và biểu tượng thương mại của Hà Nội. Mặt tiền chợ với năm vòm cửa cuốn đặc trưng đã in đậm trong ký ức bao thế hệ người dân thủ đô. Bên trong, ba tầng lầu bày bán đủ loại mặt hàng: vải vóc, quần áo, giày dép, đồ gia dụng, phụ kiện, đồ khô, bánh kẹo, hàng lưu niệm, phần lớn theo hình thức bán buôn cho tiểu thương khắp miền Bắc. Chợ cũng là nơi lưu giữ ký ức lịch sử: khu vực này từng diễn ra những trận chiến ác liệt trong những ngày đầu Toàn quốc kháng chiến cuối năm 1946, nay có đài tưởng niệm nhắc nhớ. Khi màn đêm buông xuống, khu vực quanh chợ và phố Đồng Xuân biến thành thiên đường ẩm thực đường phố với bún riêu, bún chả, chè, ốc, hoa quả dầm; cuối tuần còn có chợ đêm kéo dài qua nhiều tuyến phố cổ. Đến chợ Đồng Xuân, du khách không chỉ mua sắm mà còn cảm nhận nhịp sống buôn bán rất Hà Nội, náo nhiệt mà thân thuộc.",
+    "presentation_long_en": "Dong Xuan Market was solidly rebuilt by the French in 1889 on the site of a long-established market near the mouth of the To Lich River, becoming Hanoi's largest market and a symbol of its commerce. Its façade, with five distinctive arched bays, is fixed in the memory of generations of city dwellers. Inside, three floors sell every kind of goods — fabrics, clothes, shoes, household items, accessories, dried foods, sweets and souvenirs — mostly wholesale to traders across the north. The market also holds historical memory: this area saw fierce fighting in the first days of the nationwide resistance in late 1946, now marked by a memorial. When night falls, the streets around the market and Dong Xuan Street turn into a street-food paradise, with bun rieu, bun cha, sweet soups, snails and fruit salads; at weekends a night market stretches through several old streets. At Dong Xuan, visitors not only shop but feel the very Hanoian rhythm of trade — busy yet familiar.",
+    "presentation_long_ru": "Рынок Донгсуан был капитально перестроен французами в 1889 году на месте давнего рынка у устья реки Толить и стал крупнейшим рынком Ханоя и символом его торговли. Его фасад с пятью характерными арочными пролётами запечатлён в памяти поколений горожан. Внутри три этажа торгуют всевозможными товарами — тканями, одеждой, обувью, хозяйственными мелочами, аксессуарами, сухими продуктами, сладостями и сувенирами — в основном оптом для торговцев со всего севера. Рынок хранит и историческую память: здесь шли ожесточённые бои в первые дни всенародного Сопротивления в конце 1946 года, о чём напоминает мемориал. С наступлением вечера улицы вокруг рынка и улица Донгсуан превращаются в рай уличной еды — бунзиеу, бунтя, сладкие супы, улитки, фруктовые салаты; по выходным ночной рынок тянется через несколько старых улиц. На Донгсуане гости не только делают покупки, но и ощущают истинно ханойский ритм торговли — шумный и в то же время родной.",
+    "highlights_vi": [
+      "Chợ lớn và lâu đời nhất phố cổ, xây năm 1889",
+      "Mặt tiền năm vòm cửa cuốn mang tính biểu tượng",
+      "Khu ẩm thực và chợ đêm sôi động cuối tuần"
+    ],
+    "highlights_en": [
+      "The largest and oldest Old Quarter market, built in 1889",
+      "Iconic façade with five arched bays",
+      "Lively street food and weekend night market"
+    ],
+    "highlights_ru": [
+      "Крупнейший и старейший рынок Старого квартала, 1889 год",
+      "Знаковый фасад с пятью арочными пролётами",
+      "Оживлённая уличная еда и ночной рынок по выходным"
+    ],
+    "practical": {
+      "hours_vi": "Khoảng 6:00-18:00; chợ đêm phố cổ tối thứ Sáu-Chủ nhật.",
+      "ticket_vi": "Miễn phí vào chợ.",
+      "duration_vi": "Khoảng 45-60 phút.",
+      "best_time_vi": "Buổi tối cuối tuần để trải nghiệm chợ đêm và ẩm thực.",
+      "tips_vi": "Nên mặc cả khi mua; giữ tư trang nơi đông người; thử món ăn ở ngõ phía sau chợ."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Dong%20Xuan%20Market%2C%20Ha%20Noi%2C%20Vietnam&ll=105.8496,21.0382&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Dong%20Xuan%20Market%2C%20Ha%20Noi%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Dong%20Xuan%20Market"
+      },
+      {
+        "title": "Wikipedia (VI)",
+        "url": "https://vi.wikipedia.org/wiki/Special:Search?search=Ch%E1%BB%A3%20%C4%90%E1%BB%93ng%20Xu%C3%A2n"
+      }
+    ],
+    "tags": [
+      "market",
+      "shopping",
+      "night"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-ha-noi-cau-long-bien",
+    "slug": "cau-long-bien",
+    "region": "vn-ha-noi",
+    "country": "vietnam",
+    "region_name_vi": "Hà Nội",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Cầu Long Biên",
+    "name_ru": "Мост Лонгбьен",
+    "name_en": "Long Bien Bridge",
+    "categories": [
+      "bridge",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 21.044,
+      "lon": 105.8555
+    },
+    "address_vi": "Bắc qua sông Hồng, nối quận Hoàn Kiếm với quận Long Biên, Hà Nội",
+    "rating": {
+      "value": 4.5,
+      "count": 14000,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách yêu thích vẻ cổ kính, hoài niệm và view sông Hồng, nhất là lúc hoàng hôn. Nhiều bạn trẻ tới chụp ảnh; một số nhắc cầu đã cũ, đông xe máy nên cần chú ý an toàn khi đi bộ.",
+    "presentation_short_vi": "Cầu Long Biên là cây cầu thép bắc qua sông Hồng, do Pháp xây dựng đầu thế kỷ 20 và từng là một trong những cây cầu dài nhất châu Á. Chứng nhân của bao thăng trầm lịch sử, cầu nay là biểu tượng hoài niệm của Hà Nội.",
+    "presentation_short_en": "Long Bien Bridge is a steel bridge across the Red River, built by the French in the early twentieth century and once among the longest bridges in Asia. A witness to many historical upheavals, it is now a nostalgic emblem of Hanoi.",
+    "presentation_short_ru": "Мост Лонгбьен — стальной мост через Красную реку, построенный французами в начале XX века и некогда один из длиннейших мостов Азии. Свидетель многих исторических потрясений, сегодня он — ностальгический символ Ханоя.",
+    "presentation_long_vi": "Cầu Long Biên được người Pháp xây dựng trong những năm 1899-1902 và mang tên Toàn quyền Paul Doumer, là cây cầu thép đầu tiên bắc qua sông Hồng nối Hà Nội với vùng châu thổ phía bắc. Với chiều dài hơn 2.400 mét, thời đó cầu được coi là một trong những công trình đồ sộ nhất Đông Dương và cả châu Á, do hãng liên quan đến kỹ thuật của Gustave Eiffel tham gia. Kết cấu dầm thép hình răng cưa độc đáo, tuyến đường sắt chạy giữa và hai làn đường bộ hai bên đã trở thành hình ảnh quen thuộc. Cầu là chứng nhân của lịch sử: từng bị bom Mỹ đánh phá nhiều lần trong chiến tranh và được sửa chữa, vá víu bằng nhiều loại vật liệu, khiến các nhịp cầu mang dáng vẻ chắp nối rất riêng. Ngày nay xe lửa, xe máy, xe đạp và người đi bộ vẫn qua lại; du khách thường tản bộ trên cầu lúc bình minh hay hoàng hôn để ngắm sông Hồng, bãi giữa xanh mướt và chụp những bức ảnh hoài cổ. Long Biên không chỉ là công trình giao thông mà còn là ký ức sống động, lãng mạn của người Hà Nội qua hơn một thế kỷ.",
+    "presentation_long_en": "Long Bien Bridge was built by the French between 1899 and 1902 and named after Governor-General Paul Doumer; it was the first steel bridge across the Red River, linking Hanoi with the northern delta. More than 2,400 metres long, it was then considered one of the mightiest structures in Indochina and Asia, built with engineering linked to Gustave Eiffel's firm. Its distinctive saw-toothed steel girders, a railway running down the middle and two road lanes on either side became a familiar sight. The bridge is a witness to history: bombed repeatedly by US aircraft during the war and patched with many kinds of material, its spans have a uniquely mismatched look. Today trains, motorbikes, bicycles and pedestrians still cross it; visitors often stroll it at dawn or dusk to watch the Red River, the green sandbank island midstream and take nostalgic photographs. Long Bien is not merely a transport structure but a living, romantic memory of Hanoi across more than a century.",
+    "presentation_long_ru": "Мост Лонгбьен был построен французами между 1899 и 1902 годами и назван в честь генерал-губернатора Поля Думера; это был первый стальной мост через Красную реку, связавший Ханой с северной дельтой. Длиной более 2400 метров, он тогда считался одним из величайших сооружений Индокитая и Азии и был возведён с участием инженерной фирмы, связанной с Гюставом Эйфелем. Характерные зубчатые стальные фермы, железная дорога посередине и две автомобильные полосы по бокам стали привычным видом. Мост — свидетель истории: во время войны его многократно бомбила американская авиация, и его латали разными материалами, отчего пролёты приобрели неповторимый разнородный облик. Сегодня по нему по-прежнему идут поезда, мотоциклы, велосипеды и пешеходы; гости часто гуляют по мосту на рассвете или закате, любуясь Красной рекой, зелёным островом-отмелью посреди русла, и делают ностальгические снимки. Лонгбьен — не просто транспортное сооружение, а живая, романтичная память Ханоя, охватывающая более века.",
+    "highlights_vi": [
+      "Cầu thép đầu tiên qua sông Hồng, xây 1899-1902",
+      "Kết cấu dầm thép răng cưa và tuyến đường sắt chạy giữa",
+      "Điểm ngắm bình minh, hoàng hôn và chụp ảnh hoài cổ"
+    ],
+    "highlights_en": [
+      "The first steel bridge across the Red River, 1899-1902",
+      "Saw-toothed steel girders and a central railway line",
+      "A spot for sunrise, sunset and nostalgic photos"
+    ],
+    "highlights_ru": [
+      "Первый стальной мост через Красную реку, 1899-1902",
+      "Зубчатые стальные фермы и центральная железная дорога",
+      "Место для рассветов, закатов и ностальгических фото"
+    ],
+    "practical": {
+      "hours_vi": "Đi bộ tự do cả ngày (đường bộ hai bên).",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 45-60 phút nếu đi bộ và chụp ảnh.",
+      "best_time_vi": "Bình minh hoặc hoàng hôn; trời quang để ngắm sông Hồng.",
+      "tips_vi": "Đi sát lối bộ hành, tránh làn tàu và xe máy; kết hợp thăm bãi giữa và chợ Long Biên."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Long%20Bien%20Bridge%2C%20Ha%20Noi%2C%20Vietnam&ll=105.8555,21.044&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Long%20Bien%20Bridge%2C%20Ha%20Noi%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Long%20Bien%20Bridge"
+      },
+      {
+        "title": "Wikipedia (VI)",
+        "url": "https://vi.wikipedia.org/wiki/Special:Search?search=C%E1%BA%A7u%20Long%20Bi%C3%AAn"
+      }
+    ],
+    "tags": [
+      "historic",
+      "outdoor",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-ha-noi-den-bach-ma",
+    "slug": "den-bach-ma",
+    "region": "vn-ha-noi",
+    "country": "vietnam",
+    "region_name_vi": "Hà Nội",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Đền Bạch Mã",
+    "name_ru": "Храм Батьма",
+    "name_en": "Bach Ma Temple",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 21.0357,
+      "lon": 105.8502
+    },
+    "address_vi": "76 phố Hàng Buồm, quận Hoàn Kiếm, Hà Nội",
+    "rating": {
+      "value": 4.5,
+      "count": 3100,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách ấn tượng với nét cổ kính, linh thiêng và bề dày lịch sử của đền ngay giữa phố cổ. Nhiều người thích truyền thuyết ngựa trắng; một số nói đền nhỏ, nằm khuất trên phố Hàng Buồm nên dễ đi lướt qua.",
+    "presentation_short_vi": "Đền Bạch Mã là một trong Thăng Long tứ trấn, trấn giữ phía đông kinh thành và được coi là ngôi đền cổ nhất khu phố cổ Hà Nội. Đền thờ thần Long Đỗ, vị thần bảo hộ của thành Thăng Long.",
+    "presentation_short_en": "Bach Ma Temple is one of the Four Sacred Temples of Thang Long, guarding the eastern gate and regarded as the oldest temple in Hanoi's Old Quarter. It honours the deity Long Do, the guardian spirit of Thang Long.",
+    "presentation_short_ru": "Храм Батьма — один из «Четырёх священных храмов» Тханглонга, охранявший восточные врата и считающийся старейшим храмом Старого квартала Ханоя. Он посвящён божеству Лонгдо, духу-хранителю Тханглонга.",
+    "presentation_long_vi": "Nằm khiêm nhường trên phố Hàng Buồm nhộn nhịp, đền Bạch Mã (Ngựa Trắng) là một trong Thăng Long tứ trấn, trấn giữ phương đông và được xem là ngôi đền cổ nhất khu phố cổ. Đền thờ thần Long Đỗ, thần bảo hộ của kinh thành Thăng Long. Tương truyền khi vua Lý Thái Tổ dời đô ra Thăng Long năm 1010 và cho đắp thành nhưng cứ đắp lại lở, nhà vua tới cầu khấn thì thấy một con ngựa trắng từ trong đền đi ra, vòng quanh một lượt rồi biến mất; vua cho xây thành theo dấu chân ngựa và thành đứng vững, từ đó phong thần làm Thành hoàng và đền mang tên Bạch Mã. Kiến trúc đền còn giữ nhiều nét cổ với hệ thống cột gỗ lim, mái vòm, những mảng chạm khắc tinh xảo, hoành phi câu đối sơn son thếp vàng và kiệu thờ, hương án cổ. Không gian trầm mặc, khói hương nghi ngút giữa khu phố buôn bán tấp nập tạo nên sự tương phản đầy cuốn hút. Với người Hà Nội, đền Bạch Mã là chốn linh thiêng gắn với cội nguồn dựng đô; với du khách, đây là điểm đến giàu chiều sâu văn hóa ngay trong lòng phố cổ.",
+    "presentation_long_en": "Standing modestly on busy Hang Buom Street, Bach Ma (White Horse) Temple is one of the Four Sacred Temples of Thang Long, guarding the east and regarded as the oldest temple in the Old Quarter. It honours Long Do, the guardian deity of the capital. Legend tells that when King Ly Thai To moved the capital to Thang Long in 1010 and built ramparts that kept collapsing, he came here to pray and saw a white horse emerge from the temple, circle once and vanish; the king built the wall along the horse's tracks and it held firm, whereupon he named the deity the city's tutelary god and the temple Bach Ma. The building keeps many ancient features — ironwood columns, vaulted roofs, exquisite carvings, gilded lacquered boards and couplets, old palanquins and altars. Its hushed, incense-filled space amid a bustling commercial quarter makes a captivating contrast. For Hanoians, Bach Ma is a sacred place bound to the founding of the capital; for visitors, it is a culturally rich stop right in the heart of the Old Quarter.",
+    "presentation_long_ru": "Скромно стоящий на оживлённой улице Хангбуом храм Батьма (Белой лошади) — один из «Четырёх священных храмов» Тханглонга, страж востока и, как считается, старейший храм Старого квартала. Он посвящён Лонгдо, божеству-хранителю столицы. Легенда гласит, что когда король Ли Тхай То перенёс столицу в Тханглонг в 1010 году и возводил валы, которые всё время обрушивались, он пришёл сюда помолиться и увидел белую лошадь, вышедшую из храма, обошедшую круг и исчезнувшую; король построил стену по следам лошади, и она устояла, после чего он объявил божество городским покровителем, а храм назвал Батьма. Здание сохранило многие древние черты — колонны из железного дерева, сводчатые крыши, изысканную резьбу, позолоченные лаковые таблички и парные надписи, старинные паланкины и алтари. Его тихое, напоённое благовониями пространство среди шумного торгового квартала создаёт пленительный контраст. Для ханойцев Батьма — священное место, связанное с основанием столицы; для гостей — насыщенная культурой остановка в самом сердце Старого квартала.",
+    "highlights_vi": [
+      "Một trong Thăng Long tứ trấn, trấn giữ phương đông",
+      "Ngôi đền được coi là cổ nhất khu phố cổ Hà Nội",
+      "Gắn với truyền thuyết ngựa trắng và việc dựng thành Thăng Long"
+    ],
+    "highlights_en": [
+      "One of the Four Sacred Temples of Thang Long, guarding the east",
+      "Regarded as the oldest temple in Hanoi's Old Quarter",
+      "Tied to the white-horse legend and the building of the citadel"
+    ],
+    "highlights_ru": [
+      "Один из «Четырёх священных храмов» Тханглонга, страж востока",
+      "Считается старейшим храмом Старого квартала Ханоя",
+      "Связан с легендой о белой лошади и возведении цитадели"
+    ],
+    "practical": {
+      "hours_vi": "Khoảng 8:00-17:00; đông vào ngày rằm, mùng một.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 20-30 phút.",
+      "best_time_vi": "Sáng sớm hoặc khi dạo phố cổ; dịp lễ rất đông.",
+      "tips_vi": "Ăn mặc lịch sự, giữ yên tĩnh; kết hợp khám phá các phố Hàng và chợ Đồng Xuân gần đó."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Bach%20Ma%20Temple%2C%20Ha%20Noi%2C%20Vietnam&ll=105.8502,21.0357&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Bach%20Ma%20Temple%2C%20Ha%20Noi%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Bach%20Ma%20Temple"
+      },
+      {
+        "title": "Wikipedia (VI)",
+        "url": "https://vi.wikipedia.org/wiki/Special:Search?search=%C4%90%E1%BB%81n%20B%E1%BA%A1ch%20M%C3%A3"
+      }
+    ],
+    "tags": [
+      "temple",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-ha-noi-den-voi-phuc",
+    "slug": "den-voi-phuc",
+    "region": "vn-ha-noi",
+    "country": "vietnam",
+    "region_name_vi": "Hà Nội",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Đền Voi Phục (Tây trấn)",
+    "name_ru": "Храм Войфук",
+    "name_en": "Voi Phuc Temple",
+    "categories": [
+      "church",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 21.033,
+      "lon": 105.8107
+    },
+    "address_vi": "Phố Kim Mã, công viên Thủ Lệ, quận Ba Đình, Hà Nội",
+    "rating": {
+      "value": 4.5,
+      "count": 2600,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách khen đền cổ kính, yên tĩnh và không gian cây xanh dễ chịu ngay trong công viên. Nhiều người ghé lễ rồi dạo chơi; một số nói đền nằm hơi khuất trong công viên Thủ Lệ, nên hỏi đường.",
+    "presentation_short_vi": "Đền Voi Phục là một trong Thăng Long tứ trấn, trấn giữ phía tây kinh thành, thờ hoàng tử Linh Lang. Đền nằm trong khuôn viên xanh mát bên hồ Thủ Lệ, với đôi voi đá quỳ phục trước cổng.",
+    "presentation_short_en": "Voi Phuc Temple is one of the Four Sacred Temples of Thang Long, guarding the western gate and dedicated to Prince Linh Lang. It stands in green grounds beside Thu Le Lake, with a pair of stone elephants kneeling before its gate.",
+    "presentation_short_ru": "Храм Войфук — один из «Четырёх священных храмов» Тханглонга, охранявший западные врата и посвящённый принцу Линьлангу. Он стоит в зелёном парке у озера Тхуле, а перед его воротами преклонили колени два каменных слона.",
+    "presentation_long_vi": "Đền Voi Phục, còn gọi là Tây trấn từ, được lập từ thời Lý và là một trong bốn ngôi đền thiêng trấn giữ bốn phương của kinh thành Thăng Long, ứng với hướng tây. Đền thờ Linh Lang đại vương, tương truyền là hoàng tử con vua Lý Thánh Tông, người đã có công đánh giặc ngoại xâm rồi hóa thánh. Tên gọi Voi Phục bắt nguồn từ đôi voi đá quỳ phục hai bên lối vào, biểu tượng cho sự thần phục và uy nghi. Đền tọa lạc trên một gò đất cao, cổng tam quan bề thế, đường dẫn lên có bậc đá rêu phong dưới bóng cây cổ thụ, tạo không khí u tịch, linh thiêng. Bên trong lưu giữ nhiều hoành phi, câu đối, long ngai, bài vị và đồ thờ cổ. Đặc biệt, đền nằm ngay trong khuôn viên công viên Thủ Lệ rợp bóng cây bên hồ nước, nên du khách có thể vừa lễ đền vừa dạo chơi, thư giãn giữa không gian xanh hiếm có ở nội đô. Hằng năm hội đền Voi Phục mở vào mùa xuân với rước kiệu, tế lễ trang trọng, thu hút đông đảo người dân và du khách tới chiêm bái.",
+    "presentation_long_en": "Voi Phuc Temple, also called the Western Guardian Shrine, was founded under the Ly dynasty as one of the four sacred temples protecting the directions of Thang Long, marking the west. It honours the great prince Linh Lang, said to be a son of King Ly Thanh Tong who won merit repelling invaders before being deified. The name Voi Phuc — kneeling elephants — comes from the pair of stone elephants crouching at the entrance, symbols of submission and majesty. The temple sits on a raised mound with an imposing triple gate; a mossy stone stairway rises beneath ancient trees, lending a secluded, sacred air. Inside are many lacquered boards, couplets, thrones, tablets and old ritual objects. The temple lies within leafy Thu Le Park beside a lake, so visitors can worship and then stroll and relax amid a rare stretch of inner-city greenery. Each spring the temple festival is held with solemn palanquin processions and rites, drawing many locals and travellers to pay their respects.",
+    "presentation_long_ru": "Храм Войфук, называемый также Западным храмом-хранителем, был основан при династии Ли как один из четырёх священных храмов, оберегавших стороны света Тханглонга, и отмечает запад. Он посвящён великому принцу Линьлангу, которого считают сыном короля Ли Тхань Тонга, отличившимся в отражении захватчиков и затем обожествлённым. Название Войфук — «преклонившие колени слоны» — происходит от пары каменных слонов у входа, символов покорности и величия. Храм стоит на возвышенном холме с внушительными тройными воротами; поросшая мхом каменная лестница поднимается под древними деревьями, создавая уединённую, священную атмосферу. Внутри — множество лаковых табличек, парных надписей, тронов, поминальных дощечек и старинной ритуальной утвари. Храм расположен в тенистом парке Тхуле у озера, так что гости могут помолиться, а затем прогуляться и отдохнуть среди редкой в центре города зелени. Каждую весну здесь проходит храмовый праздник с торжественными процессиями паланкинов и обрядами, привлекающий многих жителей и путешественников.",
+    "highlights_vi": [
+      "Một trong Thăng Long tứ trấn, trấn giữ phương tây",
+      "Đôi voi đá quỳ phục trước cổng đền",
+      "Nằm trong công viên Thủ Lệ xanh mát bên hồ"
+    ],
+    "highlights_en": [
+      "One of the Four Sacred Temples of Thang Long, guarding the west",
+      "A pair of kneeling stone elephants before the gate",
+      "Set in leafy Thu Le Park beside a lake"
+    ],
+    "highlights_ru": [
+      "Один из «Четырёх священных храмов» Тханглонга, страж запада",
+      "Пара преклонивших колени каменных слонов перед воротами",
+      "В зелёном парке Тхуле у озера"
+    ],
+    "practical": {
+      "hours_vi": "Khoảng 8:00-18:00; đông vào ngày rằm, mùng một và hội đền mùa xuân.",
+      "ticket_vi": "Miễn phí (công viên Thủ Lệ có thể thu phí riêng).",
+      "duration_vi": "Khoảng 30 phút.",
+      "best_time_vi": "Sáng sớm hoặc chiều mát; mùa xuân có lễ hội.",
+      "tips_vi": "Kết hợp dạo công viên Thủ Lệ; ăn mặc lịch sự khi vào đền."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Voi%20Phuc%20Temple%2C%20Ha%20Noi%2C%20Vietnam&ll=105.8107,21.033&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Voi%20Phuc%20Temple%2C%20Ha%20Noi%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Voi%20Phuc%20Temple"
+      },
+      {
+        "title": "Wikipedia (VI)",
+        "url": "https://vi.wikipedia.org/wiki/Special:Search?search=%C4%90%E1%BB%81n%20Voi%20Ph%E1%BB%A5c%20%28T%C3%A2y%20tr%E1%BA%A5n%29"
+      }
+    ],
+    "tags": [
+      "temple",
+      "historic",
+      "outdoor"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-ha-noi-chua-kim-lien",
+    "slug": "chua-kim-lien",
+    "region": "vn-ha-noi",
+    "country": "vietnam",
+    "region_name_vi": "Hà Nội",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Chùa Kim Liên",
+    "name_ru": "Пагода Кимльен",
+    "name_en": "Kim Lien Pagoda",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 21.0578,
+      "lon": 105.8323
+    },
+    "address_vi": "Phố Từ Hoa, phường Quảng An, quận Tây Hồ, Hà Nội",
+    "rating": {
+      "value": 4.5,
+      "count": 1900,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách yêu kiến trúc khen cổng tam quan gỗ chạm khắc tuyệt đẹp và không gian yên tĩnh bên hồ Tây. Nhiều người thấy chùa vắng, thanh tịnh; một số nói chùa nhỏ nên tham quan nhanh, hợp ghép với các điểm quanh hồ Tây.",
+    "presentation_short_vi": "Chùa Kim Liên là ngôi chùa cổ bên hồ Tây, nổi tiếng với cổng tam quan gỗ chạm khắc tinh xảo được coi là một trong những cổng chùa đẹp nhất Việt Nam. Chùa mang đậm nét kiến trúc truyền thống Bắc Bộ.",
+    "presentation_short_en": "Kim Lien Pagoda is an ancient temple on the shore of West Lake, famed for a finely carved wooden triple gateway regarded as one of the most beautiful pagoda gates in Vietnam. It is a fine example of traditional northern architecture.",
+    "presentation_short_ru": "Пагода Кимльен — древний храм на берегу Западного озера, знаменитый тонко резными деревянными тройными воротами, которые считаются одними из красивейших ворот пагод во Вьетнаме. Это прекрасный образец традиционной северной архитектуры.",
+    "presentation_long_vi": "Chùa Kim Liên (Sen Vàng) tọa lạc trên một dải đất nhô ra hồ Tây, thuộc làng Nghi Tàm xưa, vốn nổi tiếng với nghề trồng hoa và cây cảnh. Tương truyền nơi đây từng là cung Từ Hoa, gắn với công chúa Từ Hoa con vua Lý Thần Tông đã về đây dạy dân trồng dâu nuôi tằm; về sau dựng chùa thờ Phật. Ngôi chùa hiện nay mang dấu ấn kiến trúc thời Tây Sơn cuối thế kỷ 18. Điểm nổi bật nhất là cổng tam quan bằng gỗ với hai tầng tám mái đao cong vút, các cột, xà, con sơn chạm khắc hoa lá, rồng phượng vô cùng tinh xảo, được giới nghiên cứu đánh giá là một trong những cổng chùa đẹp nhất cả nước. Bên trong, ba nếp nhà chính điện xếp song song theo hình chữ tam, hệ khung gỗ vững chãi, mái ngói rêu phong, tạo nên vẻ đẹp cổ kính, hài hòa với mặt nước hồ Tây. Không gian chùa tĩnh lặng, thoảng hương sen mùa hạ, là chốn vãn cảnh, lễ Phật thanh tịnh, đồng thời là điểm đến quý giá cho những ai yêu kiến trúc và mỹ thuật cổ truyền Việt Nam.",
+    "presentation_long_en": "Kim Lien (Golden Lotus) Pagoda stands on a spit of land jutting into West Lake, in the old village of Nghi Tam, long famous for growing flowers and ornamental plants. Tradition holds that this was once Tu Hoa Palace, linked to Princess Tu Hoa, a daughter of King Ly Than Tong, who came here to teach the people mulberry growing and silkworm rearing; later a Buddhist pagoda was built. The present temple bears the architectural stamp of the late-eighteenth-century Tay Son period. Its greatest glory is the wooden triple gateway, with two tiers and eight soaring curved eaves, its columns, beams and brackets carved with flowers, dragons and phoenixes of exquisite delicacy — rated by scholars among the finest pagoda gates in the country. Inside, three parallel main halls form the Chinese character for the number three, with a sturdy timber frame and mossy tiled roofs, an ancient beauty in harmony with the lake. The hushed grounds, scented with summer lotus, offer serene sightseeing and worship, and are a precious destination for lovers of traditional Vietnamese architecture and art.",
+    "presentation_long_ru": "Пагода Кимльен («Золотой лотос») стоит на косе, вдающейся в Западное озеро, в старой деревне Нгитам, издавна известной выращиванием цветов и декоративных растений. Предание гласит, что здесь некогда был дворец Тыхоа, связанный с принцессой Тыхоа, дочерью короля Ли Тхан Тонга, которая пришла сюда учить народ разведению тутовника и шелкопряда; позже была построена буддийская пагода. Нынешний храм несёт архитектурный отпечаток эпохи Тэйшон конца XVIII века. Его главное украшение — деревянные тройные ворота с двумя ярусами и восемью взмывающими изогнутыми карнизами; колонны, балки и кронштейны украшены изысканной резьбой с цветами, драконами и фениксами — учёные относят их к числу красивейших ворот пагод страны. Внутри три параллельных главных зала образуют иероглиф «три», с прочным деревянным каркасом и поросшими мхом черепичными крышами — древняя красота в гармонии с озером. Тихий двор, напоённый ароматом летнего лотоса, дарит безмятежный осмотр и молитву и станет драгоценной целью для ценителей традиционной вьетнамской архитектуры и искусства.",
+    "highlights_vi": [
+      "Cổng tam quan gỗ chạm khắc thuộc hàng đẹp nhất Việt Nam",
+      "Kiến trúc dấu ấn thời Tây Sơn, ba nếp nhà chữ tam",
+      "Vị trí đẹp trên dải đất nhô ra hồ Tây"
+    ],
+    "highlights_en": [
+      "A carved wooden gateway among the finest in Vietnam",
+      "Architecture stamped by the Tay Son period, three parallel halls",
+      "A lovely setting on a spit reaching into West Lake"
+    ],
+    "highlights_ru": [
+      "Резные деревянные ворота — одни из красивейших во Вьетнаме",
+      "Архитектура эпохи Тэйшон, три параллельных зала",
+      "Прекрасное место на косе, вдающейся в Западное озеро"
+    ],
+    "practical": {
+      "hours_vi": "Khoảng 7:00-18:00 hằng ngày.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 30 phút.",
+      "best_time_vi": "Sáng sớm; mùa hè có hương sen hồ Tây.",
+      "tips_vi": "Ăn mặc kín đáo; kết hợp dạo hồ Tây, phủ Tây Hồ và chùa Trấn Quốc gần đó."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Kim%20Lien%20Pagoda%2C%20Ha%20Noi%2C%20Vietnam&ll=105.8323,21.0578&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kim%20Lien%20Pagoda%2C%20Ha%20Noi%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Kim%20Lien%20Pagoda"
+      },
+      {
+        "title": "Wikipedia (VI)",
+        "url": "https://vi.wikipedia.org/wiki/Special:Search?search=Ch%C3%B9a%20Kim%20Li%C3%AAn"
+      }
+    ],
+    "tags": [
+      "temple",
+      "architecture",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-ha-noi-ho-truc-bach",
+    "slug": "ho-truc-bach",
+    "region": "vn-ha-noi",
+    "country": "vietnam",
+    "region_name_vi": "Hà Nội",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Hồ Trúc Bạch",
+    "name_ru": "Озеро Чукбать",
+    "name_en": "Truc Bach Lake",
+    "categories": [
+      "park_garden",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 21.046325,
+      "lon": 105.838401
+    },
+    "address_vi": "Giữa quận Ba Đình và Tây Hồ, ngăn với hồ Tây bởi đường Thanh Niên, Hà Nội",
+    "rating": {
+      "value": 4.4,
+      "count": 5400,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách thích không gian yên bình, lãng mạn và các quán ăn ven hồ. Nhiều người kết hợp dạo đường Thanh Niên và đền Quán Thánh; một số nói hồ nhỏ, chủ yếu để đi dạo và ăn uống hơn là tham quan.",
+    "presentation_short_vi": "Hồ Trúc Bạch là hồ nước thơ mộng nằm sát hồ Tây, ngăn cách bởi con đường Thanh Niên rợp bóng cây. Quanh hồ có đền Quán Thánh, chùa cổ và nhiều quán ăn, là điểm dạo chơi, hóng mát quen thuộc của người Hà Nội.",
+    "presentation_short_en": "Truc Bach Lake is a romantic lake beside West Lake, separated from it by the tree-lined Thanh Nien Road. Ringed by Quan Thanh Temple, old pagodas and many eateries, it is a favourite spot for Hanoians to stroll and enjoy the breeze.",
+    "presentation_short_ru": "Озеро Чукбать — романтичное озеро рядом с Западным озером, отделённое от него обсаженной деревьями дорогой Тханьниен. Окружённое храмом Куантхань, старинными пагодами и множеством кафе, оно — любимое место ханойцев для прогулок и отдыха на свежем воздухе.",
+    "presentation_long_vi": "Hồ Trúc Bạch được tách ra từ hồ Tây khi người xưa đắp con đê Cố Ngự, nay là đường Thanh Niên, để ngăn giữ cá. Tên gọi Trúc Bạch (Lụa Trúc) gắn với truyền thuyết về một cung nữ dệt lụa nổi tiếng bên hồ. Tuy nhỏ hơn hồ Tây nhiều nhưng hồ Trúc Bạch lại mang vẻ duyên dáng, tĩnh lặng riêng, mặt nước lăn tăn phản chiếu hàng cây và những mái đền chùa cổ. Quanh hồ tập trung nhiều di tích và không gian đáng chú ý: đền Quán Thánh trấn phương bắc ở góc tây nam, chùa Châu Long, đền Thủy Trung Tiên, cùng những con phố nhỏ yên bình. Đường Thanh Niên ngăn giữa hai hồ là một trong những con đường lãng mạn nhất thủ đô, nơi các đôi lứa dạo bộ, hóng gió mỗi chiều. Ven hồ Trúc Bạch còn nổi tiếng với các quán ốc, lẩu và món ăn vặt đông vui về đêm. Du khách có thể thuê xe đạp nước, ngồi cà phê ngắm hoàng hôn hoặc thong dong tản bộ. Sự kết hợp giữa cảnh quan mặt nước, di tích cổ và nhịp sống đời thường khiến hồ Trúc Bạch trở thành một góc Hà Nội vừa nên thơ vừa gần gũi.",
+    "presentation_long_en": "Truc Bach Lake was separated from West Lake when people of old raised the Co Ngu dike — now Thanh Nien Road — to trap fish. The name Truc Bach (Bamboo Silk) recalls a legend of a palace maiden famed for weaving silk by the water. Much smaller than West Lake, it has its own graceful, quiet charm, its rippling surface mirroring rows of trees and the roofs of old temples. Around it cluster many notable sights: Quan Thanh Temple, guardian of the north, at the south-western corner, Chau Long Pagoda, the Thuy Trung Tien shrine and peaceful little streets. Thanh Nien Road, dividing the two lakes, is one of the capital's most romantic avenues, where couples stroll and take the evening breeze. The shores are also known for snail eateries, hotpot and snacks, lively by night. Visitors can hire pedal boats, sip coffee watching the sunset or wander at leisure. The blend of water views, ancient relics and everyday life makes Truc Bach a corner of Hanoi that is at once poetic and homely.",
+    "presentation_long_ru": "Озеро Чукбать отделилось от Западного озера, когда в старину подняли дамбу Конгы — ныне дорога Тханьниен, — чтобы удерживать рыбу. Название Чукбать («Бамбуковый шёлк») напоминает легенду о придворной девушке, славившейся ткачеством шёлка у воды. Гораздо меньшее, чем Западное озеро, оно обладает собственным изящным, тихим очарованием, а его подёрнутая рябью гладь отражает ряды деревьев и крыши старинных храмов. Вокруг сосредоточены многие примечательные места: храм Куантхань, страж севера, в юго-западном углу, пагода Тяулонг, святилище Тхюйчунгтьен и мирные улочки. Дорога Тханьниен, разделяющая два озера, — одна из романтичнейших в столице, где пары гуляют и наслаждаются вечерним ветром. Берега известны и заведениями с улитками, хого и закусками, оживлёнными по вечерам. Гости могут взять водные велосипеды, пить кофе, любуясь закатом, или неспешно бродить. Сочетание водных видов, древних реликвий и повседневной жизни делает Чукбать уголком Ханоя, одновременно поэтичным и уютным.",
+    "highlights_vi": [
+      "Hồ thơ mộng sát hồ Tây, ngăn bởi đường Thanh Niên",
+      "Bao quanh là đền Quán Thánh, chùa Châu Long và nhiều di tích",
+      "Điểm hóng mát, cà phê và ẩm thực về đêm được yêu thích"
+    ],
+    "highlights_en": [
+      "A romantic lake beside West Lake, split off by Thanh Nien Road",
+      "Ringed by Quan Thanh Temple, Chau Long Pagoda and other relics",
+      "A favourite for breezes, cafés and night-time food"
+    ],
+    "highlights_ru": [
+      "Романтичное озеро у Западного озера, отделённое дорогой Тханьниен",
+      "Окружено храмом Куантхань, пагодой Тяулонг и другими реликвиями",
+      "Любимое место для прогулок, кафе и вечерней еды"
+    ],
+    "practical": {
+      "hours_vi": "Dạo quanh hồ tự do cả ngày.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 45-60 phút.",
+      "best_time_vi": "Chiều tối và hoàng hôn; buổi tối nhộn nhịp quán ăn.",
+      "tips_vi": "Kết hợp đền Quán Thánh và đường Thanh Niên; thử món ốc, lẩu ven hồ."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Truc%20Bach%20Lake%2C%20Ha%20Noi%2C%20Vietnam&ll=105.838401,21.046325&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Truc%20Bach%20Lake%2C%20Ha%20Noi%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Truc%20Bach%20Lake"
+      },
+      {
+        "title": "Wikipedia (VI)",
+        "url": "https://vi.wikipedia.org/wiki/Special:Search?search=H%E1%BB%93%20Tr%C3%BAc%20B%E1%BA%A1ch"
+      }
+    ],
+    "tags": [
+      "outdoor",
+      "night",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-ha-noi-bao-tang-phu-nu",
+    "slug": "bao-tang-phu-nu",
+    "region": "vn-ha-noi",
+    "country": "vietnam",
+    "region_name_vi": "Hà Nội",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Bảo tàng Phụ nữ Việt Nam",
+    "name_ru": "Музей вьетнамской женщины",
+    "name_en": "Vietnamese Women's Museum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 21.023351,
+      "lon": 105.851596
+    },
+    "address_vi": "36 phố Lý Thường Kiệt, quận Hoàn Kiếm, Hà Nội",
+    "rating": {
+      "value": 4.6,
+      "count": 8900,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách, đặc biệt khách nước ngoài, đánh giá rất cao nội dung ý nghĩa và cách trưng bày hiện đại, dễ hiểu. Nhiều người bất ngờ vì thú vị hơn mong đợi; ít lời chê, chủ yếu khen đáng đồng tiền.",
+    "presentation_short_vi": "Bảo tàng Phụ nữ Việt Nam tôn vinh vai trò của người phụ nữ trong gia đình, lịch sử và văn hóa dân tộc. Cách trưng bày sinh động, hiện đại giúp đây trở thành một trong những bảo tàng được du khách đánh giá cao nhất Hà Nội.",
+    "presentation_short_en": "The Vietnamese Women's Museum celebrates the role of women in family, history and national culture. Its vivid, modern displays have made it one of the most highly rated museums in Hanoi among visitors.",
+    "presentation_short_ru": "Музей вьетнамской женщины прославляет роль женщины в семье, истории и национальной культуре. Благодаря яркой, современной экспозиции он стал одним из самых высоко оцениваемых посетителями музеев Ханоя.",
+    "presentation_long_vi": "Nằm trên phố Lý Thường Kiệt yên tĩnh giữa trung tâm, Bảo tàng Phụ nữ Việt Nam là nơi kể câu chuyện đầy tự hào về người phụ nữ Việt qua nhiều thế hệ. Bảo tàng tổ chức trưng bày theo ba chủ đề lớn: Phụ nữ trong gia đình, với các phong tục cưới hỏi, sinh nở, nuôi dạy con của nhiều dân tộc; Phụ nữ trong lịch sử, tôn vinh những nữ anh hùng, Bà mẹ Việt Nam Anh hùng và đóng góp to lớn của phụ nữ trong các cuộc kháng chiến; và Thời trang nữ, giới thiệu trang phục, đồ trang sức truyền thống rực rỡ của các dân tộc. Hiện vật phong phú, được sắp đặt khoa học, kết hợp hình ảnh, phim tư liệu, âm thanh và những câu chuyện cá nhân chân thực khiến người xem xúc động. Không gian trưng bày hiện đại, có chú thích tiếng Việt và tiếng Anh rõ ràng, thuận tiện cho cả khách nước ngoài. Bảo tàng cũng thường xuyên có các triển lãm chuyên đề về những vấn đề đương đại của phụ nữ. Nhờ nội dung ý nghĩa và cách thể hiện cuốn hút, đây liên tục được xếp vào nhóm điểm tham quan hàng đầu Hà Nội và là nơi tuyệt vời để hiểu thêm về xã hội, văn hóa Việt Nam qua lăng kính của người phụ nữ.",
+    "presentation_long_en": "On quiet Ly Thuong Kiet Street in the centre, the Vietnamese Women's Museum tells the proud story of Vietnamese women across generations. Its displays are arranged around three main themes: Women in the Family, covering the marriage, childbirth and child-rearing customs of many ethnic groups; Women in History, honouring heroines, Heroic Vietnamese Mothers and women's great contribution to the resistance wars; and Women's Fashion, presenting the vivid traditional costumes and jewellery of the country's peoples. A rich collection, thoughtfully arranged and combined with photographs, films, sound and authentic personal stories, moves its visitors. The modern galleries carry clear Vietnamese and English captions, convenient for foreign guests. The museum also holds regular special exhibitions on contemporary women's issues. For its meaningful content and engaging presentation, it is consistently ranked among Hanoi's top attractions and is a wonderful place to understand Vietnamese society and culture through the lens of its women.",
+    "presentation_long_ru": "На тихой улице Литхыонгкьет в центре Музей вьетнамской женщины рассказывает гордую историю вьетнамских женщин на протяжении поколений. Его экспозиция построена вокруг трёх главных тем: «Женщина в семье» — с обычаями сватовства, родов и воспитания детей у разных народов; «Женщина в истории» — в честь героинь, Матерей-героинь Вьетнама и огромного вклада женщин в войны Сопротивления; и «Женская мода» — с яркими традиционными костюмами и украшениями народов страны. Богатое собрание, продуманно выстроенное и соединённое с фотографиями, фильмами, звуком и подлинными личными историями, трогает посетителей. Современные залы снабжены ясными подписями на вьетнамском и английском, удобными для иностранных гостей. Музей регулярно проводит и тематические выставки о современных проблемах женщин. За содержательность и увлекательную подачу он неизменно входит в число лучших достопримечательностей Ханоя и служит замечательным местом, чтобы понять вьетнамское общество и культуру через призму его женщин.",
+    "highlights_vi": [
+      "Trưng bày ba chủ đề: gia đình, lịch sử và thời trang nữ",
+      "Hiện vật phong phú kèm câu chuyện cá nhân xúc động",
+      "Thường xuyên lọt top điểm tham quan hàng đầu Hà Nội"
+    ],
+    "highlights_en": [
+      "Three themes: family, history and women's fashion",
+      "A rich collection with moving personal stories",
+      "Regularly ranked among Hanoi's top attractions"
+    ],
+    "highlights_ru": [
+      "Три темы: семья, история и женская мода",
+      "Богатое собрание с трогательными личными историями",
+      "Регулярно в числе лучших достопримечательностей Ханоя"
+    ],
+    "practical": {
+      "hours_vi": "8:00-17:00 hằng ngày.",
+      "ticket_vi": "Người lớn khoảng 40.000 VND; giảm cho học sinh, sinh viên.",
+      "duration_vi": "Khoảng 1,5 giờ.",
+      "best_time_vi": "Buổi sáng hoặc đầu giờ chiều.",
+      "tips_vi": "Có chú thích tiếng Anh; gần Nhà tù Hỏa Lò và hồ Gươm, dễ ghép lịch trình."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Vietnamese%20Women%27s%20Museum%2C%20Ha%20Noi%2C%20Vietnam&ll=105.851596,21.023351&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Vietnamese%20Women%27s%20Museum%2C%20Ha%20Noi%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Vietnamese%20Women%27s%20Museum"
+      },
+      {
+        "title": "Wikipedia (VI)",
+        "url": "https://vi.wikipedia.org/wiki/Special:Search?search=B%E1%BA%A3o%20t%C3%A0ng%20Ph%E1%BB%A5%20n%E1%BB%AF%20Vi%E1%BB%87t%20Nam"
+      }
+    ],
+    "tags": [
+      "museum",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-ha-noi-lang-gom-bat-trang",
+    "slug": "lang-gom-bat-trang",
+    "region": "vn-ha-noi",
+    "country": "vietnam",
+    "region_name_vi": "Hà Nội",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Làng gốm Bát Tràng",
+    "name_ru": "Керамическая деревня Батчанг",
+    "name_en": "Bat Trang Ceramic Village",
+    "categories": [
+      "square_street",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 21.0039,
+      "lon": 105.9089
+    },
+    "address_vi": "Xã Bát Tràng, huyện Gia Lâm, Hà Nội (bên tả ngạn sông Hồng)",
+    "rating": {
+      "value": 4.4,
+      "count": 11000,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách thích trải nghiệm nặn gốm, mua đồ gốm đẹp giá tốt và chụp ảnh ở Bảo tàng Gốm. Nhiều gia đình khen phù hợp cho trẻ em; một số nói làng khá thương mại và đông vào cuối tuần.",
+    "presentation_short_vi": "Làng gốm Bát Tràng là làng nghề gốm sứ nổi tiếng hơn 600 năm tuổi bên sông Hồng. Du khách có thể tham quan lò gốm, tự tay nặn và vẽ sản phẩm, mua sắm và khám phá Bảo tàng Gốm Bát Tràng độc đáo.",
+    "presentation_short_en": "Bat Trang Ceramic Village is a famous pottery village more than 600 years old, on the Red River. Visitors can tour kilns, shape and paint their own pieces, shop for ceramics and explore the striking Bat Trang Pottery Museum.",
+    "presentation_short_ru": "Керамическая деревня Батчанг — знаменитая гончарная деревня возрастом более 600 лет на Красной реке. Гости могут осмотреть печи, самостоятельно лепить и расписывать изделия, покупать керамику и посетить необычный Музей керамики Батчанга.",
+    "presentation_long_vi": "Cách trung tâm Hà Nội khoảng 13 km về phía đông nam, làng Bát Tràng bên tả ngạn sông Hồng là một trong những làng nghề gốm sứ lâu đời và danh tiếng nhất Việt Nam, với lịch sử hơn sáu thế kỷ. Từ đất sét trắng quý và bàn tay tài hoa của bao thế hệ nghệ nhân, Bát Tràng cho ra đời những sản phẩm gốm men lam, men rạn, men ngọc nổi tiếng: bát đĩa, bình lọ, ấm chén, tượng, đồ thờ, được ưa chuộng khắp trong và ngoài nước. Dạo bước trong làng, du khách bắt gặp những con ngõ nhỏ lát gạch, các xưởng gốm đỏ lửa, những bức tường phơi than đặc trưng và vô số cửa hàng trưng bày lung linh. Trải nghiệm được yêu thích nhất là tự tay nặn gốm trên bàn xoay rồi tô vẽ theo ý thích, phù hợp cho cả trẻ em lẫn người lớn. Chợ gốm Bát Tràng bày bán đủ loại sản phẩm với giá phải chăng, còn Bảo tàng Gốm Bát Tràng (Trung tâm Tinh hoa Làng nghề Việt) với kiến trúc uốn lượn như những bàn xoay khổng lồ là điểm check-in ấn tượng. Đến Bát Tràng, du khách vừa mua sắm, vừa sáng tạo, vừa cảm nhận sức sống bền bỉ của một làng nghề truyền thống ngay ngoại ô thủ đô.",
+    "presentation_long_en": "About 13 km south-east of central Hanoi, on the left bank of the Red River, Bat Trang is one of Vietnam's oldest and most renowned pottery villages, with more than six centuries of history. From fine white clay and the skilled hands of generations of artisans, Bat Trang has produced famous wares in blue-and-white, crackle and celadon glazes — bowls, plates, vases, tea sets, statues and ritual objects — prized at home and abroad. Wandering the village, visitors find narrow brick-paved lanes, glowing kilns, the distinctive coal-drying walls and countless glittering showrooms. The most popular experience is to throw one's own pot on the wheel and paint it freely, suitable for children and adults alike. The Bat Trang ceramics market sells every kind of product at reasonable prices, while the Bat Trang Pottery Museum (the Vietnamese Craft Village Quintessence Centre), with its architecture curving like giant potter's wheels, is a striking photo spot. At Bat Trang, visitors shop, create and feel the enduring vitality of a traditional craft village on the capital's edge.",
+    "presentation_long_ru": "Примерно в 13 км к юго-востоку от центра Ханоя, на левом берегу Красной реки, Батчанг — одна из старейших и известнейших гончарных деревень Вьетнама, с историей более шести веков. Из тонкой белой глины и умелых рук поколений мастеров Батчанг создаёт знаменитые изделия в сине-белой, кракелюрной и селадоновой глазури — чаши, тарелки, вазы, чайные наборы, статуэтки и ритуальную утварь, ценимые дома и за рубежом. Прогуливаясь по деревне, гости видят узкие мощёные кирпичом переулки, пылающие печи, характерные стены для сушки угля и бесчисленные сверкающие витрины. Самое популярное занятие — самому вылепить горшок на гончарном круге и свободно его расписать, что подходит и детям, и взрослым. Керамический рынок Батчанга торгует всевозможными изделиями по доступным ценам, а Музей керамики Батчанга (Центр квинтэссенции вьетнамских ремёсел) с архитектурой, изгибающейся, как гигантские гончарные круги, — эффектное место для фото. В Батчанге гости делают покупки, творят и ощущают неувядающую жизнь традиционной ремесленной деревни на окраине столицы.",
+    "highlights_vi": [
+      "Làng gốm hơn 600 năm tuổi bên sông Hồng",
+      "Trải nghiệm tự nặn và vẽ gốm trên bàn xoay",
+      "Bảo tàng Gốm Bát Tràng kiến trúc độc đáo, chợ gốm sầm uất"
+    ],
+    "highlights_en": [
+      "A pottery village more than 600 years old on the Red River",
+      "Hands-on wheel-throwing and painting of your own piece",
+      "The striking Bat Trang Pottery Museum and busy ceramics market"
+    ],
+    "highlights_ru": [
+      "Гончарная деревня возрастом более 600 лет на Красной реке",
+      "Самостоятельная лепка и роспись изделий на круге",
+      "Необычный Музей керамики Батчанга и оживлённый рынок"
+    ],
+    "practical": {
+      "hours_vi": "Cửa hàng, xưởng và chợ gốm khoảng 8:00-18:00.",
+      "ticket_vi": "Vào làng miễn phí; trải nghiệm nặn gốm khoảng 40.000-60.000 VND; Bảo tàng Gốm có vé riêng.",
+      "duration_vi": "Khoảng nửa ngày.",
+      "best_time_vi": "Buổi sáng hoặc cuối tuần; tránh trời quá nắng.",
+      "tips_vi": "Trả giá khi mua; cẩn thận khi vận chuyển đồ gốm; đi xe buýt số 47 hoặc taxi từ trung tâm."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Bat%20Trang%20Ceramic%20Village%2C%20Ha%20Noi%2C%20Vietnam&ll=105.9089,21.0039&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Bat%20Trang%20Ceramic%20Village%2C%20Ha%20Noi%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Bat%20Trang%20Ceramic%20Village"
+      },
+      {
+        "title": "Wikipedia (VI)",
+        "url": "https://vi.wikipedia.org/wiki/Special:Search?search=L%C3%A0ng%20g%E1%BB%91m%20B%C3%A1t%20Tr%C3%A0ng"
+      }
+    ],
+    "tags": [
+      "craft_village",
+      "family",
+      "shopping"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-ha-noi-lang-lua-van-phuc",
+    "slug": "lang-lua-van-phuc",
+    "region": "vn-ha-noi",
+    "country": "vietnam",
+    "region_name_vi": "Hà Nội",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Làng lụa Vạn Phúc (Hà Đông)",
+    "name_ru": "Деревня шёлка Ванфук",
+    "name_en": "Van Phuc Silk Village",
+    "categories": [
+      "square_street",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 20.9736,
+      "lon": 105.7738
+    },
+    "address_vi": "Phường Vạn Phúc, quận Hà Đông, Hà Nội",
+    "rating": {
+      "value": 4.3,
+      "count": 6100,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách thích không khí làng nghề, con phố ô đầy màu sắc và mua được khăn, áo lụa đẹp. Nhiều người khen tiện đường trong nội đô; một số nhắc cần chọn cửa hàng uy tín vì có nơi bán lụa pha.",
+    "presentation_short_vi": "Làng lụa Vạn Phúc là làng dệt lụa truyền thống nổi tiếng hơn nghìn năm, quê hương của lụa Hà Đông trứ danh. Du khách có thể xem khung cửi dệt lụa, mua sản phẩm tơ tằm và dạo con phố ô rực rỡ sắc màu.",
+    "presentation_short_en": "Van Phuc Silk Village is a famous traditional silk-weaving village more than a thousand years old, home of the celebrated Ha Dong silk. Visitors can watch looms at work, buy silk products and stroll a colourful umbrella-lined street.",
+    "presentation_short_ru": "Деревня шёлка Ванфук — знаменитая традиционная деревня шелкоткачества возрастом более тысячи лет, родина прославленного шёлка Хадонг. Гости могут посмотреть на работу ткацких станков, купить шёлковые изделия и прогуляться по яркой улице под зонтиками.",
+    "presentation_long_vi": "Nằm bên dòng sông Nhuệ, cách trung tâm Hà Nội khoảng 10 km về phía tây nam, làng Vạn Phúc thuộc quận Hà Đông là cái nôi của nghề dệt lụa nổi tiếng bậc nhất Việt Nam, tương truyền có lịch sử hơn một nghìn năm. Lụa Vạn Phúc, hay lụa Hà Đông, từ lâu đã đi vào thơ ca với vẻ mềm mại, óng ả, hoa văn tinh tế và độ bền cao; xưa kia còn được chọn may trang phục cho vua quan và xuất khẩu ra nước ngoài. Bước vào làng, du khách nghe tiếng thoi đưa lách cách từ những khung cửi truyền thống, được tận mắt xem quy trình ươm tơ, dệt và nhuộm lụa, tìm hiểu cách phân biệt lụa tơ tằm thật. Con phố chính rợp những chiếc ô, đèn lồng đủ màu sắc trở thành điểm chụp ảnh nổi tiếng, hai bên là hàng loạt cửa hàng bán khăn, áo dài, quần áo và quà lưu niệm bằng lụa. Trong làng còn có đình, chùa cổ và miếu thờ tổ nghề, nơi tôn vinh bà tổ đã truyền dạy nghề dệt cho dân làng. Đến Vạn Phúc, du khách vừa mua được những tấm lụa chất lượng, vừa hiểu thêm về một nghề thủ công tinh xảo đã làm nên danh tiếng cho vùng đất này.",
+    "presentation_long_en": "On the banks of the Nhue River, about 10 km south-west of central Hanoi, Van Phuc village in Ha Dong is the cradle of Vietnam's most famous silk-weaving craft, said to be more than a thousand years old. Van Phuc silk, or Ha Dong silk, has long featured in poetry for its softness, sheen, delicate patterns and durability; in the past it was chosen for the robes of kings and mandarins and exported abroad. Entering the village, visitors hear the clack of shuttles on traditional looms, watch silk being reeled, woven and dyed, and learn how to tell genuine mulberry silk. The main street, canopied with colourful umbrellas and lanterns, has become a well-known photo spot, lined with shops selling scarves, ao dai, clothing and silk souvenirs. The village also has old communal houses, pagodas and a shrine to the craft's founder, honouring the ancestress who taught weaving to the villagers. At Van Phuc, visitors can buy quality silk and gain insight into an exquisite craft that made this land famous.",
+    "presentation_long_ru": "На берегах реки Нюэ, примерно в 10 км к юго-западу от центра Ханоя, деревня Ванфук в районе Хадонг — колыбель самого знаменитого во Вьетнаме шелкоткацкого ремесла, которому, как считается, более тысячи лет. Шёлк Ванфук, или шёлк Хадонг, издавна воспет в поэзии за мягкость, блеск, тонкие узоры и прочность; в прошлом его выбирали для одеяний королей и мандаринов и вывозили за границу. Войдя в деревню, гости слышат стук челноков на традиционных станках, наблюдают за размоткой, тканьём и окраской шёлка и узнают, как отличить настоящий тутовый шёлк. Главная улица под пологом из разноцветных зонтиков и фонарей стала известным местом для фото; вдоль неё — множество лавок с шарфами, аозай, одеждой и шёлковыми сувенирами. В деревне есть также старинные общинные дома, пагоды и святилище основателю ремесла в честь праматери, обучившей жителей ткачеству. В Ванфуке гости покупают качественный шёлк и глубже понимают изысканное ремесло, прославившее этот край.",
+    "highlights_vi": [
+      "Cái nôi của lụa Hà Đông nổi tiếng hơn nghìn năm",
+      "Xem khung cửi dệt lụa và mua sản phẩm tơ tằm thật",
+      "Con phố ô, đèn lồng rực rỡ là điểm chụp ảnh nổi tiếng"
+    ],
+    "highlights_en": [
+      "Cradle of the famous Ha Dong silk, over a thousand years old",
+      "Watch weaving looms and buy genuine mulberry silk",
+      "A street of colourful umbrellas and lanterns, a popular photo spot"
+    ],
+    "highlights_ru": [
+      "Колыбель знаменитого шёлка Хадонг, более тысячи лет",
+      "Ткацкие станки и покупка настоящего тутового шёлка",
+      "Улица ярких зонтиков и фонарей — популярное место для фото"
+    ],
+    "practical": {
+      "hours_vi": "Cửa hàng và xưởng khoảng 8:00-18:00.",
+      "ticket_vi": "Vào làng miễn phí.",
+      "duration_vi": "Khoảng 1,5-2 giờ.",
+      "best_time_vi": "Buổi sáng hoặc chiều; con phố ô đẹp khi có nắng nhẹ.",
+      "tips_vi": "Hỏi kỹ và chọn cửa hàng uy tín để mua đúng lụa tơ tằm thật; trả giá lịch sự."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Van%20Phuc%20Silk%20Village%2C%20Ha%20Noi%2C%20Vietnam&ll=105.7738,20.9736&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Van%20Phuc%20Silk%20Village%2C%20Ha%20Noi%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Van%20Phuc%20Silk%20Village"
+      },
+      {
+        "title": "Wikipedia (VI)",
+        "url": "https://vi.wikipedia.org/wiki/Special:Search?search=L%C3%A0ng%20l%E1%BB%A5a%20V%E1%BA%A1n%20Ph%C3%BAc%20%28H%C3%A0%20%C4%90%C3%B4ng%29"
+      }
+    ],
+    "tags": [
+      "craft_village",
+      "shopping"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-ha-noi-thanh-co-loa",
+    "slug": "thanh-co-loa",
+    "region": "vn-ha-noi",
+    "country": "vietnam",
+    "region_name_vi": "Hà Nội",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Thành Cổ Loa",
+    "name_ru": "Цитадель Колоа",
+    "name_en": "Co Loa Citadel",
+    "categories": [
+      "fortress",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 21.111167,
+      "lon": 105.876815
+    },
+    "address_vi": "Xã Cổ Loa, huyện Đông Anh, Hà Nội",
+    "rating": {
+      "value": 4.3,
+      "count": 3400,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách quan tâm lịch sử thích không gian cổ kính, đền thờ An Dương Vương và các truyền thuyết. Nhiều người thấy ý nghĩa với học sinh; một số nói dấu tích thành đất đã mờ, cần thuyết minh để hình dung rõ.",
+    "presentation_short_vi": "Thành Cổ Loa là tòa thành cổ hình xoắn ốc do An Dương Vương xây dựng từ thế kỷ 3 trước Công nguyên, kinh đô của nước Âu Lạc. Đây là một trong những tòa thành cổ nhất và lớn nhất Việt Nam, gắn với truyền thuyết nỏ thần.",
+    "presentation_short_en": "Co Loa Citadel is an ancient spiral-shaped fortress built by King An Duong Vuong in the third century BCE, capital of the Au Lac kingdom. It is one of Vietnam's oldest and largest ancient citadels, tied to the legend of the magic crossbow.",
+    "presentation_short_ru": "Цитадель Колоа — древняя крепость в форме спирали, построенная королём Ан Зыонг Выонгом в III веке до н. э., столица царства Аулак. Это одна из старейших и крупнейших древних цитаделей Вьетнама, связанная с легендой о волшебном арбалете.",
+    "presentation_long_vi": "Cách trung tâm Hà Nội khoảng 16 km về phía bắc, thành Cổ Loa thuộc huyện Đông Anh là kinh đô của nhà nước Âu Lạc do An Dương Vương lập nên vào khoảng thế kỷ 3 trước Công nguyên, được xem là tòa thành cổ nhất và có quy mô lớn nhất còn dấu tích ở Việt Nam. Thành được đắp bằng đất theo hình xoáy trôn ốc gồm ba vòng khép kín với hệ thống hào nước bao quanh, vừa là công trình phòng thủ quân sự tài tình, vừa thể hiện trình độ tổ chức của người Việt cổ. Nơi đây gắn liền với truyền thuyết nỏ thần Kim Quy bắn một phát hạ trăm quân, và chuyện tình bi thương Mỵ Châu - Trọng Thủy dẫn tới cảnh nước mất nhà tan. Ngày nay khu di tích còn đền thờ An Dương Vương (đền Thượng), am thờ công chúa Mỵ Châu với tảng đá hình người cụt đầu, đình Cổ Loa và giếng Ngọc soi bóng trước đền. Hằng năm, lễ hội Cổ Loa diễn ra vào đầu xuân với rước kiệu, tế lễ trang nghiêm, thu hút đông đảo người dân. Đến Cổ Loa, du khách như ngược dòng thời gian về buổi đầu dựng nước, cảm nhận chiều sâu lịch sử và những huyền thoại lắng đọng trong tâm thức dân tộc.",
+    "presentation_long_en": "About 16 km north of central Hanoi, Co Loa Citadel in Dong Anh was the capital of the Au Lac state founded by King An Duong Vuong around the third century BCE, regarded as the oldest and largest ancient citadel whose traces survive in Vietnam. Built of earth in a spiral form of three concentric ramparts ringed by moats, it was both an ingenious military defence and a mark of the ancient Vietnamese capacity for organisation. It is bound to the legend of the magic crossbow of the Golden Turtle, which felled a hundred soldiers with a single shot, and to the tragic love of My Chau and Trong Thuy that led to the loss of the kingdom. Today the site keeps the temple of An Duong Vuong (the Upper Temple), a shrine to Princess My Chau with a headless human-shaped stone, the Co Loa communal house and the Jade Well mirrored before the temple. Each early spring the Co Loa festival is held with solemn palanquin processions and rites, drawing great crowds. At Co Loa, visitors seem to travel back to the dawn of nationhood, feeling the depth of history and the legends settled in the nation's mind.",
+    "presentation_long_ru": "Примерно в 16 км к северу от центра Ханоя цитадель Колоа в районе Донгань была столицей государства Аулак, основанного королём Ан Зыонг Выонгом около III века до н. э., и считается старейшей и крупнейшей древней цитаделью, следы которой сохранились во Вьетнаме. Построенная из земли в форме спирали из трёх концентрических валов, окружённых рвами, она была одновременно хитроумной военной защитой и знаком организаторских способностей древних вьетов. Она связана с легендой о волшебном арбалете Золотой черепахи, сражавшем сотню воинов одним выстрелом, и с трагической любовью Ми Тяу и Чонг Тхюи, приведшей к гибели царства. Сегодня в комплексе сохранились храм Ан Зыонг Выонга (Верхний храм), святилище принцессы Ми Тяу с камнем в форме обезглавленного человека, общинный дом Колоа и Нефритовый колодец, отражающийся перед храмом. Каждую раннюю весну проходит праздник Колоа с торжественными процессиями паланкинов и обрядами, собирающий множество людей. В Колоа гости словно переносятся к заре государственности, ощущая глубину истории и легенды, укоренившиеся в народном сознании.",
+    "highlights_vi": [
+      "Kinh đô Âu Lạc của An Dương Vương, thế kỷ 3 TCN",
+      "Tòa thành đất hình xoắn ốc ba vòng với hào bao quanh",
+      "Gắn với truyền thuyết nỏ thần và chuyện Mỵ Châu - Trọng Thủy"
+    ],
+    "highlights_en": [
+      "Au Lac capital of King An Duong Vuong, 3rd century BCE",
+      "A spiral earthen citadel of three ramparts with moats",
+      "Tied to the magic crossbow legend and the My Chau - Trong Thuy tale"
+    ],
+    "highlights_ru": [
+      "Столица Аулака короля Ан Зыонг Выонга, III век до н. э.",
+      "Земляная цитадель-спираль из трёх валов со рвами",
+      "Связана с легендой об арбалете и историей Ми Тяу и Чонг Тхюи"
+    ],
+    "practical": {
+      "hours_vi": "Khoảng 7:00-18:00; lễ hội Cổ Loa mùng 6 tháng Giêng âm lịch.",
+      "ticket_vi": "Vé tham quan khoảng 10.000-20.000 VND.",
+      "duration_vi": "Khoảng 1,5-2 giờ.",
+      "best_time_vi": "Buổi sáng; dịp đầu xuân có lễ hội đặc sắc.",
+      "tips_vi": "Khu di tích rộng, nên thuê xe điện hoặc đi bộ theo tuyến; kết hợp tìm hiểu truyền thuyết trước khi đến."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Co%20Loa%20Citadel%2C%20Ha%20Noi%2C%20Vietnam&ll=105.876815,21.111167&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Co%20Loa%20Citadel%2C%20Ha%20Noi%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Co%20Loa%20Citadel"
+      },
+      {
+        "title": "Wikipedia (VI)",
+        "url": "https://vi.wikipedia.org/wiki/Special:Search?search=Th%C3%A0nh%20C%E1%BB%95%20Loa"
+      }
+    ],
+    "tags": [
+      "historic",
+      "fortress",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-ha-noi-chua-thay",
+    "slug": "chua-thay",
+    "region": "vn-ha-noi",
+    "country": "vietnam",
+    "region_name_vi": "Hà Nội",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Chùa Thầy",
+    "name_ru": "Пагода Тхай",
+    "name_en": "Thay Pagoda",
+    "categories": [
+      "church",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 21.0223,
+      "lon": 105.6456
+    },
+    "address_vi": "Xã Sài Sơn, huyện Quốc Oai, Hà Nội",
+    "rating": {
+      "value": 4.4,
+      "count": 4300,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách khen cảnh non nước hữu tình, thủy đình cổ và không khí thanh tịnh. Nhiều người thích leo núi ngắm cảnh và xem múa rối nước dịp lễ; một số nhắc đường lên hang trơn, nên đi cẩn thận.",
+    "presentation_short_vi": "Chùa Thầy là ngôi chùa cổ tựa lưng vào núi Sài Sơn, gắn với thiền sư Từ Đạo Hạnh và nghệ thuật múa rối nước. Cảnh quan non nước hữu tình với thủy đình giữa hồ Long Trì tạo nên bức tranh cổ kính, nên thơ.",
+    "presentation_short_en": "Thay Pagoda is an ancient temple nestled against Sai Son Mountain, linked to the monk Tu Dao Hanh and the art of water puppetry. Its poetic mountain-and-water setting, with a water pavilion in Long Tri pond, forms an image of timeless beauty.",
+    "presentation_short_ru": "Пагода Тхай — древний храм, прислонившийся к горе Шайшон, связанный с монахом Ты Дао Ханем и искусством кукол на воде. Поэтичный ландшафт гор и вод с водным павильоном в пруду Лонгчи создаёт образ вечной красоты.",
+    "presentation_long_vi": "Nằm dưới chân núi Sài Sơn cách trung tâm Hà Nội khoảng 25 km về phía tây, chùa Thầy (tên chữ Thiên Phúc Tự) là một trong những ngôi chùa cổ và đẹp nhất xứ Đoài, được dựng từ thời Lý. Chùa gắn liền với thiền sư Từ Đạo Hạnh, một cao tăng huyền thoại vừa tu Phật, chữa bệnh, dạy học, vừa được coi là ông tổ của nghệ thuật múa rối nước dân gian. Quần thể chùa gồm chùa Hạ, chùa Trung, chùa Thượng xếp theo thế đất, cùng các hang động, đền miếu trên núi. Trước chùa là hồ Long Trì với thủy đình cổ kính dựng giữa mặt nước, nơi mỗi mùa lễ hội lại diễn ra những màn múa rối nước đặc sắc. Hai cây cầu ngói cong duyên dáng mang tên Nhật Tiên và Nguyệt Tiên nối chùa với các điểm thờ tự và lối lên núi, tạo nên bố cục hài hòa giữa kiến trúc và thiên nhiên. Leo lên núi Sài Sơn, du khách khám phá hang Cắc Cớ kỳ bí, ngắm toàn cảnh đồng quê Bắc Bộ trải rộng. Lễ hội chùa Thầy tổ chức vào tháng Ba âm lịch với rước kiệu, múa rối nước, thu hút đông đảo khách hành hương. Đây là điểm đến lý tưởng cho chuyến đi trong ngày kết hợp tâm linh, lịch sử và cảnh quan.",
+    "presentation_long_en": "At the foot of Sai Son Mountain, about 25 km west of central Hanoi, Thay Pagoda (formally Thien Phuc Tu) is one of the oldest and loveliest temples of the Doai region, founded under the Ly dynasty. It is bound to the monk Tu Dao Hanh, a legendary master who practised Buddhism, healed the sick and taught, and is honoured as the founder of folk water puppetry. The complex comprises the Lower, Middle and Upper pagodas set along the slope, with caves and shrines on the mountain. Before the temple lies Long Tri pond with an ancient water pavilion built midstream, where striking water-puppet shows are performed each festival season. Two gracefully curved tiled bridges, named Nhat Tien and Nguyet Tien, link the pagoda to shrines and the path up the mountain, creating a harmonious blend of architecture and nature. Climbing Sai Son, visitors explore the mysterious Cac Co cave and take in a sweeping view of the northern countryside. The Thay Pagoda festival, held in the third lunar month with palanquin processions and water puppetry, draws many pilgrims. It is an ideal day trip combining spirituality, history and scenery.",
+    "presentation_long_ru": "У подножия горы Шайшон, примерно в 25 км к западу от центра Ханоя, пагода Тхай (официально Тхьенфук Ты) — один из старейших и красивейших храмов области Доай, основанный при династии Ли. Она связана с монахом Ты Дао Ханем, легендарным наставником, который постигал буддизм, исцелял больных и учил, а также почитается как основоположник народного искусства кукол на воде. Комплекс включает Нижнюю, Среднюю и Верхнюю пагоды, расположенные вдоль склона, а также пещеры и святилища на горе. Перед храмом лежит пруд Лонгчи со старинным водным павильоном, построенным посреди воды, где в праздничные сезоны дают яркие представления кукол на воде. Два изящно изогнутых черепичных моста, Нятьтьен и Нгуеттьен, связывают пагоду со святилищами и тропой в гору, создавая гармонию архитектуры и природы. Поднимаясь на Шайшон, гости исследуют загадочную пещеру Каккы и любуются широким видом северной сельской местности. Праздник пагоды Тхай в третий лунный месяц с процессиями паланкинов и куклами на воде привлекает множество паломников. Это идеальная однодневная поездка, соединяющая духовность, историю и природу.",
+    "highlights_vi": [
+      "Chùa cổ thời Lý gắn với thiền sư Từ Đạo Hạnh",
+      "Thủy đình cổ giữa hồ Long Trì, cái nôi múa rối nước",
+      "Cầu ngói Nhật Tiên - Nguyệt Tiên và hang động núi Sài Sơn"
+    ],
+    "highlights_en": [
+      "An ancient Ly-era pagoda linked to the monk Tu Dao Hanh",
+      "An old water pavilion in Long Tri pond, cradle of water puppetry",
+      "The Nhat Tien - Nguyet Tien tiled bridges and Sai Son caves"
+    ],
+    "highlights_ru": [
+      "Древняя пагода эпохи Ли, связанная с монахом Ты Дао Ханем",
+      "Старинный водный павильон в пруду Лонгчи, колыбель кукол на воде",
+      "Черепичные мосты Нятьтьен - Нгуеттьен и пещеры Шайшона"
+    ],
+    "practical": {
+      "hours_vi": "Khoảng 7:00-18:00; lễ hội tháng 3 âm lịch.",
+      "ticket_vi": "Vé tham quan khoảng 10.000 VND.",
+      "duration_vi": "Khoảng 2-3 giờ nếu leo núi.",
+      "best_time_vi": "Mùa xuân dịp lễ hội; sáng sớm để leo núi mát mẻ.",
+      "tips_vi": "Mang giày leo núi, mang đèn pin nếu vào hang Cắc Cớ; kết hợp chùa Tây Phương gần đó."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Thay%20Pagoda%2C%20Ha%20Noi%2C%20Vietnam&ll=105.6456,21.0223&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Thay%20Pagoda%2C%20Ha%20Noi%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Thay%20Pagoda"
+      },
+      {
+        "title": "Wikipedia (VI)",
+        "url": "https://vi.wikipedia.org/wiki/Special:Search?search=Ch%C3%B9a%20Th%E1%BA%A7y"
+      }
+    ],
+    "tags": [
+      "temple",
+      "historic",
+      "daytrip"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-ha-noi-chua-tay-phuong",
+    "slug": "chua-tay-phuong",
+    "region": "vn-ha-noi",
+    "country": "vietnam",
+    "region_name_vi": "Hà Nội",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Chùa Tây Phương",
+    "name_ru": "Пагода Тэйфыонг",
+    "name_en": "Tay Phuong Pagoda",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 21.0286,
+      "lon": 105.5864
+    },
+    "address_vi": "Xã Thạch Xá, huyện Thạch Thất, Hà Nội",
+    "rating": {
+      "value": 4.5,
+      "count": 2800,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách yêu mỹ thuật đánh giá rất cao bộ tượng La Hán và kiến trúc gỗ tinh xảo. Nhiều người thấy leo bậc đá xứng đáng vì cảnh và tượng đẹp; một số nhắc chùa xa trung tâm, nên đi cùng chùa Thầy.",
+    "presentation_short_vi": "Chùa Tây Phương là ngôi chùa cổ trên đỉnh núi Câu Lậu, nổi tiếng với bộ tượng Phật gỗ mít tinh xảo, đặc biệt là mười tám vị La Hán được coi là kiệt tác điêu khắc Việt Nam. Chùa được xếp hạng Di tích quốc gia đặc biệt.",
+    "presentation_short_en": "Tay Phuong Pagoda is an ancient temple atop Cau Lau hill, famous for its exquisite jackfruit-wood Buddhist statues, especially the eighteen Arhats considered masterpieces of Vietnamese sculpture. It is ranked a Special National Relic.",
+    "presentation_short_ru": "Пагода Тэйфыонг — древний храм на вершине холма Каулау, знаменитый изысканными статуями Будды из древесины джекфрута, особенно восемнадцатью архатами, которые считаются шедеврами вьетнамской скульптуры. Храм отнесён к особым национальным памятникам.",
+    "presentation_long_vi": "Chùa Tây Phương (Sùng Phúc Tự) tọa lạc trên đỉnh núi Câu Lậu ở huyện Thạch Thất, cách trung tâm Hà Nội khoảng 30 km về phía tây. Muốn lên chùa, du khách phải leo hơn hai trăm bậc đá ong rêu phong, càng lên cao càng thấy không gian thanh tịnh, thoáng đãng. Ngôi chùa hiện nay mang đậm phong cách kiến trúc và điêu khắc thời Tây Sơn cuối thế kỷ 18, gồm ba nếp nhà chùa Hạ, chùa Trung, chùa Thượng xếp song song, mái ngói hai lớp cong vút với những đầu đao chạm rồng phượng, hoa lá cầu kỳ. Điều làm nên danh tiếng đặc biệt của chùa là bộ tượng Phật bằng gỗ mít sơn son thếp vàng, được đánh giá là đỉnh cao của nghệ thuật tạc tượng cổ Việt Nam. Nổi bật nhất là bộ tượng mười tám vị La Hán với dáng vẻ, thần thái, cảm xúc khác nhau vô cùng sinh động, từng đi vào thơ ca như những con người thật đang trầm tư, đau đáu trước lẽ đời. Với giá trị nghệ thuật và lịch sử to lớn, chùa Tây Phương đã được xếp hạng Di tích quốc gia đặc biệt. Đây là điểm đến hấp dẫn cho người yêu mỹ thuật cổ, thường được kết hợp trong hành trình khám phá xứ Đoài cùng chùa Thầy.",
+    "presentation_long_en": "Tay Phuong Pagoda (Sung Phuc Tu) stands atop Cau Lau hill in Thach That, about 30 km west of central Hanoi. To reach it, visitors climb more than two hundred mossy laterite steps, the air growing calmer and more open with height. The present temple bears the strong architectural and sculptural stamp of the late-eighteenth-century Tay Son period, with three parallel halls — Lower, Middle and Upper — and double-layered tiled roofs that curve upward, their finials carved with dragons, phoenixes, flowers and elaborate motifs. What gives the pagoda its special fame is its set of jackfruit-wood statues, lacquered and gilded, regarded as a summit of ancient Vietnamese sculpture. Most striking are the eighteen Arhats, each with a different posture, bearing and emotion, so vividly rendered that they entered poetry as real people brooding over the sorrows of life. For its great artistic and historical value, Tay Phuong Pagoda has been ranked a Special National Relic. It is a compelling destination for lovers of classical art, often combined with Thay Pagoda on a tour of the Doai region.",
+    "presentation_long_ru": "Пагода Тэйфыонг (Сунгфук Ты) стоит на вершине холма Каулау в районе Тхатьтхат, примерно в 30 км к западу от центра Ханоя. Чтобы подняться к ней, гости преодолевают более двухсот поросших мхом ступеней из латерита, и с высотой воздух становится всё спокойнее и вольнее. Нынешний храм несёт яркий архитектурный и скульптурный отпечаток эпохи Тэйшон конца XVIII века: три параллельных зала — Нижний, Средний и Верхний — с двойными черепичными крышами, изгибающимися вверх, чьи навершия украшены резными драконами, фениксами, цветами и затейливыми узорами. Особую славу пагоде принесли статуи из древесины джекфрута, покрытые лаком и позолотой, которые считаются вершиной древней вьетнамской скульптуры. Наиболее впечатляют восемнадцать архатов, каждый со своей позой, осанкой и чувством, переданными столь живо, что они вошли в поэзию как реальные люди, размышляющие о скорбях жизни. За огромную художественную и историческую ценность пагода Тэйфыонг отнесена к особым национальным памятникам. Это притягательная цель для любителей классического искусства, которую часто объединяют с пагодой Тхай в поездке по области Доай.",
+    "highlights_vi": [
+      "Bộ tượng gỗ mít sơn son thếp vàng đỉnh cao nghệ thuật",
+      "Mười tám vị La Hán sinh động, kiệt tác điêu khắc Việt Nam",
+      "Chùa trên đỉnh núi Câu Lậu, Di tích quốc gia đặc biệt"
+    ],
+    "highlights_en": [
+      "Lacquered, gilded jackfruit-wood statues at the peak of the art",
+      "The vivid eighteen Arhats, masterpieces of Vietnamese sculpture",
+      "A hilltop temple on Cau Lau, a Special National Relic"
+    ],
+    "highlights_ru": [
+      "Позолоченные лаковые статуи из джекфрута — вершина искусства",
+      "Живые восемнадцать архатов, шедевры вьетнамской скульптуры",
+      "Храм на вершине Каулау, особый национальный памятник"
+    ],
+    "practical": {
+      "hours_vi": "Khoảng 7:00-18:00.",
+      "ticket_vi": "Vé tham quan khoảng 10.000 VND.",
+      "duration_vi": "Khoảng 1-1,5 giờ.",
+      "best_time_vi": "Sáng hoặc chiều mát; kết hợp chùa Thầy trong ngày.",
+      "tips_vi": "Chuẩn bị leo hơn 200 bậc đá; mang nước; ăn mặc lịch sự khi vào chùa."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Tay%20Phuong%20Pagoda%2C%20Ha%20Noi%2C%20Vietnam&ll=105.5864,21.0286&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Tay%20Phuong%20Pagoda%2C%20Ha%20Noi%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Tay%20Phuong%20Pagoda"
+      },
+      {
+        "title": "Wikipedia (VI)",
+        "url": "https://vi.wikipedia.org/wiki/Special:Search?search=Ch%C3%B9a%20T%C3%A2y%20Ph%C6%B0%C6%A1ng"
+      }
+    ],
+    "tags": [
+      "temple",
+      "art",
+      "daytrip"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-ha-noi-lang-co-duong-lam",
+    "slug": "lang-co-duong-lam",
+    "region": "vn-ha-noi",
+    "country": "vietnam",
+    "region_name_vi": "Hà Nội",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Làng cổ Đường Lâm",
+    "name_ru": "Древняя деревня Зыонглам",
+    "name_en": "Duong Lam Ancient Village",
+    "categories": [
+      "square_street",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 21.1361,
+      "lon": 105.4586
+    },
+    "address_vi": "Xã Đường Lâm, thị xã Sơn Tây, Hà Nội",
+    "rating": {
+      "value": 4.4,
+      "count": 5200,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách thích không gian làng quê yên bình, nhà cổ đá ong và đồ ăn truyền thống. Nhiều người khen trải nghiệm sống chậm, đạp xe dạo làng; một số nói dịch vụ còn giản dị và nên tránh ngày quá nắng.",
+    "presentation_short_vi": "Làng cổ Đường Lâm là ngôi làng Việt cổ tiêu biểu ở đồng bằng Bắc Bộ, nổi tiếng với cổng làng, đình, những nếp nhà đá ong hàng trăm năm tuổi. Đây còn là quê hương của hai vị vua, được gọi là 'đất hai vua'.",
+    "presentation_short_en": "Duong Lam Ancient Village is a classic old Vietnamese village of the northern delta, famous for its village gate, communal house and centuries-old laterite houses. It is the birthplace of two kings, earning the name 'land of two kings.'",
+    "presentation_short_ru": "Древняя деревня Зыонглам — образцовая старинная вьетнамская деревня северной дельты, знаменитая деревенскими воротами, общинным домом и латеритными домами возрастом в сотни лет. Это родина двух королей, отчего её называют «землёй двух королей».",
+    "presentation_long_vi": "Cách trung tâm Hà Nội khoảng 45 km về phía tây, làng cổ Đường Lâm thuộc thị xã Sơn Tây là một trong số ít ngôi làng còn giữ được gần như trọn vẹn diện mạo của làng quê Việt truyền thống vùng đồng bằng Bắc Bộ. Đường Lâm được ví là 'đất hai vua' vì là quê hương của Bố Cái Đại Vương Phùng Hưng và vua Ngô Quyền, người đánh tan quân Nam Hán trên sông Bạch Đằng năm 938, mở ra kỷ nguyên độc lập. Bước qua cổng làng Mông Phụ cổ kính bên gốc đa, giếng nước, du khách như lạc vào không gian xưa với đình Mông Phụ uy nghi, những con ngõ nhỏ quanh co và hàng trăm ngôi nhà cổ xây bằng đá ong màu nâu vàng đặc trưng, mái ngói rêu phong, có nhà tuổi đời hàng trăm năm. Trong làng còn có nhà thờ Thám hoa Giang Văn Minh, đền thờ Phùng Hưng, đền và lăng Ngô Quyền, chùa Mía với nhiều pho tượng đẹp. Người dân vẫn giữ nếp sống thuần hậu, làm tương, làm kẹo, bánh truyền thống mà du khách có thể thưởng thức ngay tại nhà cổ. Đến Đường Lâm, du khách được sống chậm, cảm nhận hồn quê Việt và bề dày lịch sử trong từng viên đá ong, mái ngói.",
+    "presentation_long_en": "About 45 km west of central Hanoi, Duong Lam Ancient Village in Son Tay is one of the few villages to have kept almost intact the face of a traditional Vietnamese village of the northern delta. Duong Lam is called the 'land of two kings' as the birthplace of Bo Cai Dai Vuong Phung Hung and King Ngo Quyen, who shattered the Southern Han fleet on the Bach Dang River in 938, opening an era of independence. Passing through the old Mong Phu village gate beside a banyan tree and a well, visitors step into a bygone world: the stately Mong Phu communal house, winding little lanes and hundreds of old houses built of the region's distinctive amber-brown laterite, with mossy tiled roofs, some centuries old. The village also holds the ancestral house of the scholar Giang Van Minh, the temple of Phung Hung, the temple and tomb of Ngo Quyen and Mia Pagoda with its many fine statues. The people keep their gentle way of life, making soy sauce, sweets and traditional cakes that visitors can taste in the old houses themselves. At Duong Lam, visitors slow down and feel the soul of rural Vietnam and the weight of history in every laterite block and tiled roof.",
+    "presentation_long_ru": "Примерно в 45 км к западу от центра Ханоя древняя деревня Зыонглам в городке Шонтэй — одна из немногих деревень, почти в целости сохранивших облик традиционной вьетнамской деревни северной дельты. Зыонглам зовут «землёй двух королей» как родину Бо Кай Дай Выонга Фунг Хынга и короля Нго Куйена, разгромившего флот Южной Хань на реке Батьданг в 938 году и открывшего эпоху независимости. Пройдя через старинные деревенские ворота Монгфу у баньяна и колодца, гости попадают в ушедший мир: величавый общинный дом Монгфу, извилистые переулки и сотни старых домов из характерного янтарно-коричневого латерита с поросшими мхом черепичными крышами, иным по нескольку веков. В деревне есть также родовой дом учёного Зянг Ван Миня, храм Фунг Хынга, храм и гробница Нго Куйена и пагода Миа с множеством прекрасных статуй. Жители хранят свой кроткий уклад, готовят соевый соус, сладости и традиционные лакомства, которые гости могут попробовать прямо в старых домах. В Зыонгламе гости замедляются и ощущают душу сельского Вьетнама и тяжесть истории в каждом латеритном блоке и черепичной крыше.",
+    "highlights_vi": [
+      "Làng Việt cổ giữ nguyên nhà đá ong hàng trăm năm tuổi",
+      "'Đất hai vua': quê hương Phùng Hưng và Ngô Quyền",
+      "Cổng làng Mông Phụ, đình cổ, chùa Mía và nghề làm tương"
+    ],
+    "highlights_en": [
+      "An old village keeping centuries-old laterite houses intact",
+      "'Land of two kings': home of Phung Hung and Ngo Quyen",
+      "Mong Phu gate, old communal house, Mia Pagoda and soy-sauce making"
+    ],
+    "highlights_ru": [
+      "Старая деревня с латеритными домами возрастом в века",
+      "«Земля двух королей»: родина Фунг Хынга и Нго Куйена",
+      "Ворота Монгфу, старый общинный дом, пагода Миа и варка соуса"
+    ],
+    "practical": {
+      "hours_vi": "Tham quan ban ngày; nhà cổ mở đón khách khoảng 8:00-17:00.",
+      "ticket_vi": "Vé vào làng khoảng 20.000 VND/người.",
+      "duration_vi": "Khoảng nửa ngày.",
+      "best_time_vi": "Mùa lúa chín hoặc dịp lễ; sáng sớm và chiều mát dễ chịu.",
+      "tips_vi": "Thuê xe đạp dạo làng; thử tương, kẹo dồi, chè lam; xin phép khi chụp ảnh trong nhà dân."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Duong%20Lam%20Ancient%20Village%2C%20Ha%20Noi%2C%20Vietnam&ll=105.4586,21.1361&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Duong%20Lam%20Ancient%20Village%2C%20Ha%20Noi%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Duong%20Lam%20Ancient%20Village"
+      },
+      {
+        "title": "Wikipedia (VI)",
+        "url": "https://vi.wikipedia.org/wiki/Special:Search?search=L%C3%A0ng%20c%E1%BB%95%20%C4%90%C6%B0%E1%BB%9Dng%20L%C3%A2m"
+      }
+    ],
+    "tags": [
+      "heritage_village",
+      "historic",
+      "daytrip"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-ha-noi-thanh-co-son-tay",
+    "slug": "thanh-co-son-tay",
+    "region": "vn-ha-noi",
+    "country": "vietnam",
+    "region_name_vi": "Hà Nội",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Thành cổ Sơn Tây",
+    "name_ru": "Древняя цитадель Шонтэй",
+    "name_en": "Son Tay Ancient Citadel",
+    "categories": [
+      "fortress",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 21.1388,
+      "lon": 105.5042
+    },
+    "address_vi": "Phường Ngô Quyền, thị xã Sơn Tây, Hà Nội",
+    "rating": {
+      "value": 4.4,
+      "count": 3600,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách thích không gian cổ kính, xanh mát và tường đá ong độc đáo. Nhiều người dân địa phương coi đây là nơi dạo bộ lý tưởng; một số nói bên trong ít công trình, chủ yếu ngắm tường thành và hào.",
+    "presentation_short_vi": "Thành cổ Sơn Tây là tòa thành quân sự xây bằng đá ong dưới triều Nguyễn năm 1822, hiếm có ở Việt Nam. Thành theo kiểu Vauban với hào nước, cổng thành cổ kính, nay là công viên lịch sử xanh mát giữa thị xã Sơn Tây.",
+    "presentation_short_en": "Son Tay Ancient Citadel is a military fortress built of laterite under the Nguyen dynasty in 1822, a rarity in Vietnam. Built in Vauban style with a moat and time-worn gates, it is now a green historical park in the heart of Son Tay town.",
+    "presentation_short_ru": "Древняя цитадель Шонтэй — военная крепость из латерита, построенная при династии Нгуен в 1822 году, редкость для Вьетнама. Возведённая в стиле Вобана со рвом и старинными воротами, сегодня она — зелёный исторический парк в сердце городка Шонтэй.",
+    "presentation_long_vi": "Thành cổ Sơn Tây được vua Minh Mạng cho xây dựng năm 1822 tại trung tâm trấn Sơn Tây xưa, là tòa thành quân sự độc đáo bởi được xây chủ yếu bằng đá ong, loại vật liệu đặc trưng của xứ Đoài. Thành có hình vuông mỗi cạnh khoảng 400 mét, tường cao chừng 5 mét, thiết kế theo kiểu Vauban của phương Tây với các góc thành nhô ra để phòng thủ, bao quanh là hào nước rộng. Bốn cổng thành quay ra bốn hướng, phía trên có vọng lâu, dẫn vào bên trong qua những cây cầu bắc qua hào. Đây từng là trung tâm quân sự, hành chính trọng yếu trấn giữ phía tây bắc kinh thành Thăng Long - Hà Nội, gắn với nhiều sự kiện lịch sử chống Pháp cuối thế kỷ 19. Trải qua thời gian, phần lớn công trình bên trong không còn, nhưng hệ thống tường thành, cổng và hào nước vẫn được bảo tồn, phủ rêu phong cổ kính dưới bóng cây cổ thụ. Ngày nay thành cổ trở thành một công viên lịch sử xanh mát, nơi người dân dạo bộ, tập thể dục và du khách tìm hiểu kiến trúc quân sự độc đáo. Không gian yên bình cùng những bức tường đá ong nhuốm màu thời gian khiến Sơn Tây thành điểm đến giàu hoài niệm ở phía tây Hà Nội.",
+    "presentation_long_en": "Son Tay Ancient Citadel was built by Emperor Minh Mang in 1822 at the centre of the old Son Tay province, a distinctive military fortress made chiefly of laterite, the characteristic material of the Doai region. Square, with sides of about 400 metres and walls some 5 metres high, it was laid out in the Western Vauban style, with projecting corner bastions for defence and a wide surrounding moat. Four gates face the four directions, topped by watch pavilions and reached across bridges over the moat. It was once a key military and administrative centre guarding the north-west of the Thang Long-Hanoi capital and was tied to events in the anti-French struggle of the late nineteenth century. Over time most of the inner buildings have vanished, but the walls, gates and moat survive, mossy and time-worn beneath ancient trees. Today the citadel has become a green historical park where locals walk and exercise and visitors study a rare military design. Its peaceful atmosphere and laterite walls tinged by time make Son Tay a nostalgic destination west of Hanoi.",
+    "presentation_long_ru": "Древняя цитадель Шонтэй была построена императором Минь Мангом в 1822 году в центре старой провинции Шонтэй — самобытная военная крепость, возведённая главным образом из латерита, характерного материала области Доай. Квадратная, со сторонами около 400 метров и стенами высотой примерно 5 метров, она была спланирована в западном стиле Вобана, с выступающими угловыми бастионами для обороны и широким рвом вокруг. Четверо ворот обращены к сторонам света, увенчаны смотровыми павильонами, и к ним ведут мосты через ров. Некогда это был важный военно-административный центр, охранявший северо-запад столицы Тханглонг-Ханой, и он связан с событиями антифранцузской борьбы конца XIX века. Со временем большинство внутренних строений исчезло, но стены, ворота и ров сохранились, поросшие мхом и потемневшие от времени под древними деревьями. Сегодня цитадель стала зелёным историческим парком, где местные жители гуляют и занимаются спортом, а гости изучают редкую военную планировку. Мирная атмосфера и латеритные стены, тронутые временем, делают Шонтэй ностальгической целью к западу от Ханоя.",
+    "highlights_vi": [
+      "Thành quân sự xây bằng đá ong năm 1822, hiếm có ở Việt Nam",
+      "Thiết kế kiểu Vauban với góc thành nhô ra và hào nước bao quanh",
+      "Nay là công viên lịch sử xanh mát giữa thị xã Sơn Tây"
+    ],
+    "highlights_en": [
+      "A military citadel built of laterite in 1822, rare in Vietnam",
+      "Vauban-style layout with corner bastions and a surrounding moat",
+      "Now a green historical park in the heart of Son Tay town"
+    ],
+    "highlights_ru": [
+      "Военная цитадель из латерита 1822 года, редкость для Вьетнама",
+      "Планировка в стиле Вобана с бастионами и рвом вокруг",
+      "Ныне зелёный исторический парк в центре городка Шонтэй"
+    ],
+    "practical": {
+      "hours_vi": "Tham quan ban ngày, khoảng 7:00-18:00.",
+      "ticket_vi": "Miễn phí hoặc vé rất thấp.",
+      "duration_vi": "Khoảng 1 giờ.",
+      "best_time_vi": "Sáng sớm hoặc chiều mát; kết hợp làng cổ Đường Lâm gần đó.",
+      "tips_vi": "Dạo dọc tường thành và hào nước; ghép cùng Đường Lâm và đền Và trong ngày."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Son%20Tay%20Ancient%20Citadel%2C%20Ha%20Noi%2C%20Vietnam&ll=105.5042,21.1388&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Son%20Tay%20Ancient%20Citadel%2C%20Ha%20Noi%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Son%20Tay%20Ancient%20Citadel"
+      },
+      {
+        "title": "Wikipedia (VI)",
+        "url": "https://vi.wikipedia.org/wiki/Special:Search?search=Th%C3%A0nh%20c%E1%BB%95%20S%C6%A1n%20T%C3%A2y"
+      }
+    ],
+    "tags": [
+      "historic",
+      "fortress",
+      "outdoor"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-ha-noi-vuon-quoc-gia-ba-vi",
+    "slug": "vuon-quoc-gia-ba-vi",
+    "region": "vn-ha-noi",
+    "country": "vietnam",
+    "region_name_vi": "Hà Nội",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Vườn quốc gia Ba Vì",
+    "name_ru": "Национальный парк Бави",
+    "name_en": "Ba Vi National Park",
+    "categories": [
+      "park_garden",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 21.018448,
+      "lon": 105.393026
+    },
+    "address_vi": "Huyện Ba Vì, Hà Nội (cách trung tâm khoảng 48 km về phía tây)",
+    "rating": {
+      "value": 4.3,
+      "count": 9800,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách thích khí hậu mát, cảnh rừng thông, phế tích Pháp và view săn mây. Nhiều bạn trẻ thích cắm trại, chụp ảnh mùa hoa; một số nhắc đường lên đền nhiều bậc, ngày mưa dễ trơn và có sương mù dày.",
+    "presentation_short_vi": "Vườn quốc gia Ba Vì là khu rừng núi xanh mát ôm lấy dãy núi Ba Vì huyền thoại, nơi có khí hậu mát lành, rừng thông, phế tích thời Pháp và đền thờ trên đỉnh. Đây là điểm trốn nóng và trekking được yêu thích gần Hà Nội.",
+    "presentation_short_en": "Ba Vi National Park is a lush mountain forest wrapping the legendary Ba Vi range, with cool air, pine woods, French-era ruins and temples on the peaks. It is a favourite escape from the heat and a trekking spot near Hanoi.",
+    "presentation_short_ru": "Национальный парк Бави — пышный горный лес, охватывающий легендарный хребет Бави, с прохладным воздухом, сосновыми рощами, руинами французской эпохи и храмами на вершинах. Это любимое место спасения от жары и треккинга близ Ханоя.",
+    "presentation_long_vi": "Nằm cách trung tâm Hà Nội khoảng 48 km về phía tây, Vườn quốc gia Ba Vì bao quanh dãy núi Ba Vì với ba đỉnh nổi tiếng là đỉnh Vua, đỉnh Tản Viên và đỉnh Ngọc Hoa, gắn liền với truyền thuyết Sơn Tinh - Thủy Tinh và Đức Thánh Tản Viên trong tín ngưỡng dân gian. Ở độ cao trên dưới một nghìn mét, nơi đây có khí hậu mát mẻ quanh năm, thảm rừng nguyên sinh đa dạng, thường bồng bềnh trong mây và sương, được ví như 'Đà Lạt của miền Bắc'. Du khách có thể chinh phục đền Thượng thờ Tản Viên Sơn Thánh trên đỉnh cao, thắp hương tại đền thờ Chủ tịch Hồ Chí Minh, khám phá những phế tích biệt thự, nhà thờ, trại hè do người Pháp xây từ đầu thế kỷ 20 nay phủ đầy rêu và dây leo, tạo khung cảnh vừa ma mị vừa lãng mạn. Vào cuối xuân đầu hạ, rừng thông và những vạt hoa dã quỳ, cẩm tú cầu nở rộ thu hút đông đảo bạn trẻ tới cắm trại, chụp ảnh. Ba Vì còn có suối, thác, khu bảo tồn động thực vật và nhiều khu nghỉ dưỡng sinh thái dưới chân núi. Với thiên nhiên trong lành, chiều sâu văn hóa tâm linh và các hoạt động trekking, dã ngoại, Vườn quốc gia Ba Vì là lựa chọn lý tưởng cho chuyến đi cuối tuần gần thủ đô.",
+    "presentation_long_en": "About 48 km west of central Hanoi, Ba Vi National Park wraps the Ba Vi range with its three famous peaks — King's Peak, Tan Vien and Ngoc Hoa — bound to the legend of Son Tinh and Thuy Tinh and to the mountain saint Tan Vien in folk belief. At around a thousand metres, it enjoys cool air all year and diverse primeval forest, often wreathed in cloud and mist, and is likened to a 'Da Lat of the north.' Visitors can climb to the Upper Temple honouring the mountain saint on a high peak, offer incense at the temple to President Ho Chi Minh, and explore the ruins of villas, a church and a summer camp built by the French in the early twentieth century, now cloaked in moss and creepers — a scene at once eerie and romantic. In late spring and early summer, pine woods and swathes of wild sunflowers and hydrangeas bloom, drawing many young people to camp and take photographs. Ba Vi also has streams, waterfalls, a nature reserve and several eco-resorts at the foot of the range. With its fresh nature, spiritual depth and trekking and picnicking, Ba Vi National Park is an ideal weekend trip near the capital.",
+    "presentation_long_ru": "Примерно в 48 км к западу от центра Ханоя национальный парк Бави охватывает хребет Бави с его тремя знаменитыми вершинами — пиком Короля, Танвьен и Нгокхоа, — связанными с легендой о Шонтине и Тхюйтине и с горным святым Танвьеном в народных верованиях. На высоте около тысячи метров здесь круглый год прохладный воздух и разнообразный первозданный лес, часто окутанный облаками и туманом; парк называют «Далатом севера». Гости могут подняться к Верхнему храму горного святого на высокой вершине, воскурить благовония в храме президента Хо Ши Мина и осмотреть руины вилл, церкви и летнего лагеря, построенных французами в начале XX века, ныне укрытых мхом и лианами, — картину одновременно жутковатую и романтичную. В конце весны и начале лета цветут сосновые рощи и полосы диких подсолнухов и гортензий, привлекая множество молодёжи для кемпинга и фотографий. В Бави есть также ручьи, водопады, природный заповедник и несколько эко-курортов у подножия хребта. Со свежей природой, духовной глубиной и возможностями треккинга и пикников национальный парк Бави — идеальная поездка на выходные близ столицы.",
+    "highlights_vi": [
+      "Dãy núi Ba Vì huyền thoại gắn với Sơn Tinh - Thủy Tinh",
+      "Đền Thượng, đền thờ Bác Hồ và phế tích thời Pháp phủ rêu",
+      "Khí hậu mát mẻ, rừng thông, hoa dã quỳ - điểm trekking, cắm trại"
+    ],
+    "highlights_en": [
+      "The legendary Ba Vi range of Son Tinh and Thuy Tinh",
+      "The Upper Temple, a temple to Ho Chi Minh and mossy French ruins",
+      "Cool climate, pine woods and wild sunflowers for trekking and camping"
+    ],
+    "highlights_ru": [
+      "Легендарный хребет Бави, связанный с Шонтином и Тхюйтином",
+      "Верхний храм, храм Хо Ши Мина и поросшие мхом руины французов",
+      "Прохладный климат, сосны и дикие подсолнухи для треккинга и кемпинга"
+    ],
+    "practical": {
+      "hours_vi": "Khoảng 7:00-18:00; một số điểm lưu trú qua đêm.",
+      "ticket_vi": "Vé vào vườn khoảng 60.000 VND/người lớn.",
+      "duration_vi": "Nửa ngày đến một ngày.",
+      "best_time_vi": "Cuối xuân, đầu hạ và mùa hoa dã quỳ (khoảng tháng 11); ngày trời quang.",
+      "tips_vi": "Mang áo khoác vì trên cao lạnh; đi giày trekking; đường lên đền có nhiều bậc, chuẩn bị sức khỏe."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Ba%20Vi%20National%20Park%2C%20Ha%20Noi%2C%20Vietnam&ll=105.393026,21.018448&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Ba%20Vi%20National%20Park%2C%20Ha%20Noi%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN)",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Ba%20Vi%20National%20Park"
+      },
+      {
+        "title": "Wikipedia (VI)",
+        "url": "https://vi.wikipedia.org/wiki/Special:Search?search=V%C6%B0%E1%BB%9Dn%20qu%E1%BB%91c%20gia%20Ba%20V%C3%AC"
+      }
+    ],
+    "tags": [
+      "nature",
+      "outdoor",
+      "daytrip"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-ha-noi-ga-ha-noi",
+    "slug": "ga-ha-noi",
+    "region": "vn-ha-noi",
+    "country": "vietnam",
+    "region_name_vi": "Hà Nội",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Ga Hà Nội",
+    "name_ru": "Железнодорожный вокзал Ханоя",
+    "name_en": "Hanoi Railway Station",
+    "categories": [
+      "other",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 21.0235,
+      "lon": 105.8405
+    },
+    "address_vi": "120 Lê Duẩn, quận Hoàn Kiếm (khu vực trung tâm), thành phố Hà Nội",
+    "rating": {
+      "value": 4.3,
+      "count": 6000,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách thích vẻ cổ kính pha hiện đại của ga, vị trí trung tâm và không khí nhộn nhịp; nhiều người coi việc bắt chuyến tàu đêm Thống Nhất từ đây là kỷ niệm khó quên.",
+    "presentation_short_vi": "Ga Hà Nội là nhà ga trung tâm của thủ đô, khánh thành năm 1902 với tên Ga Hàng Cỏ. Đây là đầu mối lớn nhất miền Bắc và điểm khởi đầu tuyến đường sắt Thống Nhất Bắc – Nam.",
+    "presentation_short_en": "Hanoi Railway Station is the capital's central station, opened in 1902 as Hang Co Station. It is the largest hub in the north and the starting point of the North–South Reunification railway.",
+    "presentation_short_ru": "Железнодорожный вокзал Ханоя — центральный вокзал столицы, открытый в 1902 году как вокзал Хангко. Это крупнейший узел севера и начальная точка объединяющей железной дороги Север–Юг.",
+    "presentation_long_vi": "Nằm ngay trung tâm thủ đô trên phố Lê Duẩn, Ga Hà Nội là nhà ga xe lửa lớn và quan trọng nhất miền Bắc Việt Nam. Được người Pháp xây dựng và khánh thành năm 1902 với tên gọi Ga Hàng Cỏ, nhà ga từng là công trình bề thế bậc nhất Đông Dương. Trong kháng chiến, khối nhà chính bị bom phá hỏng và về sau được xây lại ở giữa theo phong cách hiện đại, trong khi hai cánh hai bên vẫn giữ nét kiến trúc Pháp cổ, tạo nên diện mạo độc đáo 'cũ – mới' đan xen. Đây là ga khởi đầu của tuyến đường sắt Thống Nhất dài hơn 1.700 km nối Hà Nội với Thành phố Hồ Chí Minh, cùng các tuyến đi Lào Cai, Hải Phòng, Đồng Đăng. Mỗi ngày, hàng nghìn lượt khách qua lại nơi đây, và với nhiều du khách, được ngồi trên chuyến tàu Thống Nhất rời Ga Hà Nội là một trải nghiệm hoài niệm rất riêng. Không chỉ là đầu mối giao thông, Ga Hà Nội còn gắn với ký ức của bao thế hệ người dân thủ đô.",
+    "presentation_long_en": "In the very centre of the capital on Le Duan Street, Hanoi Railway Station is the largest and most important train station in northern Vietnam. Built by the French and opened in 1902 as Hang Co Station, it was once among the grandest buildings in Indochina. During the war its main block was destroyed by bombing and later rebuilt in the centre in a modern style, while the two wings kept their old French architecture, giving it a distinctive blend of old and new. It is the starting point of the 1,700-kilometre Reunification railway linking Hanoi with Ho Chi Minh City, along with lines to Lao Cai, Hai Phong and Dong Dang. Thousands of passengers pass through each day, and for many travellers, boarding the Reunification Express as it leaves Hanoi Station is a uniquely nostalgic experience. More than a transport hub, the station is woven into the memories of generations of the capital's people.",
+    "presentation_long_ru": "В самом центре столицы на улице Ледуан железнодорожный вокзал Ханоя — крупнейший и важнейший вокзал севера Вьетнама. Построенный французами и открытый в 1902 году как вокзал Хангко, он был одним из самых величественных зданий Индокитая. Во время войны его главный корпус разрушила бомбёжка, и позже центр отстроили в современном стиле, тогда как два крыла сохранили старую французскую архитектуру, что придало ему характерное сочетание старого и нового. Это начальная точка объединяющей железной дороги длиной 1700 км, связывающей Ханой с Хошимином, а также линий на Лаокай, Хайфон и Донгданг. Каждый день здесь проходят тысячи пассажиров, и для многих путешественников поездка на «Экспрессе воссоединения», отходящем от вокзала Ханоя, — по-особому ностальгическое переживание. Больше чем транспортный узел, вокзал вплетён в память поколений жителей столицы.",
+    "highlights_vi": [
+      "Khánh thành 1902 (Ga Hàng Cỏ), ga trung tâm lớn nhất miền Bắc",
+      "Điểm khởi đầu tuyến đường sắt Thống Nhất Bắc – Nam hơn 1.700 km",
+      "Kiến trúc 'cũ – mới' đan xen ngay trung tâm thủ đô"
+    ],
+    "highlights_en": [
+      "Opened in 1902 (Hang Co), the largest central station in the north",
+      "Starting point of the 1,700 km North–South Reunification railway",
+      "A blend of old and new architecture in the city centre"
+    ],
+    "highlights_ru": [
+      "Открыт в 1902 (Хангко), крупнейший центральный вокзал севера",
+      "Начало объединяющей ж/д Север–Юг длиной более 1700 км",
+      "Сочетание старой и новой архитектуры в центре столицы"
+    ],
+    "practical": {
+      "hours_vi": "Phục vụ theo lịch tàu hằng ngày; sảnh ga mở gần như cả ngày.",
+      "ticket_vi": "Vào ga không mất phí; giá vé tàu tùy tuyến và loại toa.",
+      "duration_vi": "Khoảng 20–40 phút tham quan, chụp ảnh.",
+      "best_time_vi": "Ban ngày; ga đẹp và tiện chụp ảnh vào sáng sớm.",
+      "tips_vi": "Đi tàu nên đặt vé trước dịp lễ, Tết; giữ an toàn tư trang nơi đông người."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Hanoi%20Railway%20Station%2C%20Ha%20Noi%2C%20Vietnam&ll=105.8405,21.0235&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Hanoi%20Railway%20Station%2C%20Ha%20Noi%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Hanoi railway station (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Hanoi_railway_station"
+      }
+    ],
+    "tags": [
+      "railway",
+      "historic",
+      "photo",
+      "architecture",
+      "city",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
+  },
+  {
+    "id": "vn-ha-noi-ga-long-bien",
+    "slug": "ga-long-bien",
+    "region": "vn-ha-noi",
+    "country": "vietnam",
+    "region_name_vi": "Hà Nội",
+    "federal_district": "Miền Bắc",
+    "name_vi": "Ga Long Biên",
+    "name_ru": "Железнодорожная станция Лонгбьен",
+    "name_en": "Long Bien Railway Station",
+    "categories": [
+      "other",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 21.0372,
+      "lon": 105.8502
+    },
+    "address_vi": "Phố Gầm Cầu, đầu cầu Long Biên, quận Hoàn Kiếm, thành phố Hà Nội",
+    "rating": {
+      "value": 4.3,
+      "count": 1500,
+      "source": "Google",
+      "as_of": "2026-07"
+    },
+    "review_summary_vi": "Du khách thích ga nhỏ cổ kính ngay đầu cầu Long Biên lịch sử, là điểm chụp ảnh và ngắm tàu qua cầu rất được ưa chuộng; không gian hoài cổ, gần phố cổ.",
+    "presentation_short_vi": "Ga Long Biên là nhà ga nhỏ nằm ngay đầu cầu Long Biên lịch sử bắc qua sông Hồng. Gắn với cây cầu hơn trăm tuổi, đây là điểm ngắm tàu, chụp ảnh hoài cổ nổi tiếng của Hà Nội.",
+    "presentation_short_en": "Long Bien Station is a small station right at the head of the historic Long Bien Bridge over the Red River. Tied to the century-old bridge, it is a famous Hanoi spot for train-watching and nostalgic photos.",
+    "presentation_short_ru": "Станция Лонгбьен — маленькая станция прямо у начала исторического моста Лонгбьен через Красную реку. Связанная со столетним мостом, она известна в Ханое как место наблюдения за поездами и ностальгических фото.",
+    "presentation_long_vi": "Nằm ngay đầu cầu Long Biên phía nội thành, Ga Long Biên là một nhà ga nhỏ nhưng đậm chất hoài niệm của Hà Nội. Ga gắn liền với cầu Long Biên — cây cầu thép do Pháp xây dựng đầu thế kỷ XX, từng là biểu tượng của thủ đô và chứng nhân của nhiều biến cố lịch sử. Tàu từ Ga Long Biên chạy qua cầu, băng ngang sông Hồng đỏ nặng phù sa, tạo nên khung cảnh vừa cổ kính vừa nên thơ. Chính vì thế, khu vực ga và đầu cầu từ lâu đã trở thành điểm hẹn quen thuộc của giới trẻ và nhiếp ảnh gia, nhất là vào lúc bình minh hay hoàng hôn khi ánh sáng phủ lên những nhịp cầu thép hoen gỉ theo thời gian. Nằm sát khu phố cổ và chợ Long Biên nhộn nhịp, ga còn là nơi cảm nhận rõ nhịp sống đời thường của người Hà Nội. Dù quy mô khiêm tốn, Ga Long Biên vẫn là một mảnh ghép giàu ký ức trong bức tranh đô thị của thủ đô ngàn năm.",
+    "presentation_long_en": "Right at the inner-city end of Long Bien Bridge, Long Bien Station is a small but deeply nostalgic Hanoi station. It is bound to the Long Bien Bridge, a steel structure built by the French in the early 20th century that was once a symbol of the capital and a witness to many historical events. Trains from Long Bien Station cross the bridge over the silt-laden Red River, creating a scene both antique and poetic. For this reason the station and bridgehead have long been a favourite haunt of young people and photographers, especially at dawn or dusk when light falls on the time-worn steel spans. Beside the Old Quarter and the busy Long Bien market, the station is also a place to feel the everyday rhythm of Hanoi life. Modest though it is, Long Bien Station remains a memory-rich piece in the urban portrait of the thousand-year-old capital.",
+    "presentation_long_ru": "Прямо у городского конца моста Лонгбьен станция Лонгбьен — маленькая, но очень ностальгическая станция Ханоя. Она связана с мостом Лонгбьен, стальным сооружением, построенным французами в начале XX века, который некогда был символом столицы и свидетелем многих исторических событий. Поезда от станции Лонгбьен идут по мосту над мутной от ила Красной рекой, создавая картину и старинную, и поэтичную. Поэтому станция и въезд на мост давно стали любимым местом молодёжи и фотографов, особенно на рассвете или закате, когда свет ложится на потемневшие от времени стальные пролёты. Рядом со Старым кварталом и оживлённым рынком Лонгбьен станция позволяет ощутить повседневный ритм ханойской жизни. Несмотря на скромные размеры, станция Лонгбьен остаётся полным памяти фрагментом городского портрета тысячелетней столицы.",
+    "highlights_vi": [
+      "Ga nhỏ ngay đầu cầu Long Biên hơn trăm tuổi bắc qua sông Hồng",
+      "Điểm ngắm tàu, chụp ảnh hoài cổ nổi tiếng, gần phố cổ",
+      "Đẹp nhất lúc bình minh, hoàng hôn trên những nhịp cầu thép"
+    ],
+    "highlights_en": [
+      "A small station at the head of the century-old Long Bien Bridge",
+      "A famous train-watching and nostalgic photo spot near the Old Quarter",
+      "Loveliest at dawn and dusk over the steel spans"
+    ],
+    "highlights_ru": [
+      "Маленькая станция у столетнего моста Лонгбьен через Красную реку",
+      "Известное место фото и наблюдения за поездами у Старого квартала",
+      "Красивее всего на рассвете и закате над стальными пролётами"
+    ],
+    "practical": {
+      "hours_vi": "Theo lịch tàu; khu đầu cầu có thể ghé cả ngày.",
+      "ticket_vi": "Không mất phí tham quan khu vực ga và đầu cầu.",
+      "duration_vi": "Khoảng 30–45 phút.",
+      "best_time_vi": "Bình minh hoặc hoàng hôn để chụp ảnh đẹp.",
+      "tips_vi": "Tuyệt đối không đi bộ/đứng trên đường ray khi có tàu; chú ý an toàn giao thông đầu cầu."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=Long%20Bien%20Railway%20Station%2C%20Ha%20Noi%2C%20Vietnam&ll=105.8502,21.0372&z=17",
+      "google": "https://www.google.com/maps/search/?api=1&query=Long%20Bien%20Railway%20Station%2C%20Ha%20Noi%2C%20Vietnam"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Long Biên Bridge (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Long_Bi%C3%AAn_Bridge"
+      }
+    ],
+    "tags": [
+      "railway",
+      "historic",
+      "photo",
+      "bridge",
+      "city"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-07-28"
   }
 ]
