@@ -211,6 +211,23 @@
   .pl-ops button { width: 30px; height: 26px; border: 1px solid var(--line); background: #fff; border-radius: 7px; cursor: pointer; font-size: 12px; color: var(--navy); }
   .pl-ops button:hover { background: #eef2f8; }
   .pl-ops button.rm:hover { background: #fdecec; color: #c0392b; border-color: #f0c0c0; }
+  .pl-r4 { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
+  .pl-r4 select { border: 1px solid var(--line); border-radius: 6px; padding: 3px 5px; font-size: 12px; font-family: inherit; background: #fff; }
+  .pl-lk { display: inline-flex; align-items: center; gap: 4px; font-size: 12px; font-weight: 700; border: 1px solid var(--line); background: #f6f8fb; border-radius: 8px; padding: 3px 9px; cursor: pointer; color: var(--navy); }
+  .pl-lk:hover { background: #eef2f8; }
+  .pl-lk.g { border-color: #cfe0f6; background: #eef4fd; }
+  .pl-lk.y { border-color: #ffe0b8; background: #fff5e8; }
+  .pl-doc { display: inline-flex; align-items: center; gap: 4px; font-size: 12px; font-weight: 700; text-decoration: none; border-radius: 8px; padding: 3px 9px; border: 1px solid #bfe3cd; background: #ecfbf1; color: #1f8f55; }
+  .pl-doc:hover { background: #d9f5e4; }
+  .pl-doc-miss { display: inline-flex; align-items: center; gap: 4px; font-size: 12px; font-weight: 700; border-radius: 8px; padding: 3px 9px; border: 1px dashed #e6b96a; background: #fdf6e8; color: #a6702a; }
+  .pl-check { display: inline-flex; align-items: center; gap: 6px; font-size: 12.5px; font-weight: 600; color: var(--navy); grid-column: 1 / -1; }
+  .pl-check input { width: auto; }
+  .pl-day-f { font-size: 12px; color: #cdd7e6; display: flex; align-items: center; gap: 5px; font-weight: 600; }
+  .pl-day-f input { border: none; border-radius: 6px; padding: 3px 6px; font-family: inherit; font-size: 13px; width: auto; }
+  .pl-day-f input[type=number] { width: 54px; }
+  .pl-docs-sum { background: #fff; border: 1px solid var(--line); border-left: 4px solid #2f8f5b; border-radius: 10px; padding: 10px 13px; margin: 4px 0 10px; font-size: 12.5px; color: #33404f; line-height: 1.5; }
+  .pl-docs-sum b { color: var(--navy); }
+  .pl-docs-sum .miss { color: #a6702a; }
   .pl-tot { background: #fff; border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px; margin-top: 4px; }
   .pl-tot-row { display: flex; justify-content: space-between; align-items: center; padding: 4px 0; font-size: 13.5px; border-bottom: 1px dashed var(--line); }
   .pl-tot-row:last-child { border-bottom: none; }
@@ -366,7 +383,8 @@
   var _uid = 0, _cust = 0, pickMode = false;
   var trip = { name: "", pax: 4, cur: "₽", date: "", time: "08:00",
                startName: "", startLat: null, startLon: null,
-               hotel: 0, hotelU: "g", meal: 0, mealU: "p", other: 0, otherU: "g" };
+               hotel: 0, hotelU: "g", meal: 0, mealU: "p", other: 0, otherU: "g",
+               exLinks: true };
   var diagram = { on: false, names: false };   // chế độ sơ đồ trên bản đồ
   var markers = {};          // id -> marker
   var routeLayer = null;
@@ -737,14 +755,26 @@
   ];
   function modeInfo(k) { for (var i = 0; i < MODES.length; i++) if (MODES[i].k === k) return MODES[i]; return MODES[0]; }
   function modeLabel(m) { return m[RT.getLang()] || m.vi; }
-  var activeDay = 1, dayStart = {};   // ngày đang thao tác + giờ bắt đầu mỗi ngày
+  var activeDay = 1, dayStart = {}, dayDate = {}, dayPax = {};   // ngày đang thao tác + giờ/ngày/số khách mỗi ngày
   function dayStartOf(d) { return dayStart[d] || (d === 1 ? (trip.time || "08:00") : "08:00"); }
+  function dayDateOf(d) { return (d === 1) ? (trip.date || "") : (dayDate[d] || ""); }   // ngày 1 = ngày khởi hành; ngày sau có thể cách quãng
+  function dayPaxOf(d) { var v = dayPax[d]; return (v == null || v === "") ? Math.max(1, +trip.pax || 1) : Math.max(1, +v || 1); }
+  function fmtDate(iso) { var m = String(iso || "").match(/^(\d{4})-(\d{2})-(\d{2})/); return m ? (m[3] + "/" + m[2] + "/" + m[1]) : (iso || ""); }
+  function dayHeadTxt(d) { var a = ["NGÀY " + d]; var dt = fmtDate(dayDateOf(d)); if (dt) a.push(dt); a.push(dayPaxOf(d) + " khách"); a.push("bắt đầu " + dayStartOf(d)); return a.join(" · "); }
   function maxDay() { var m = activeDay || 1; tour.forEach(function (s) { if ((s.day || 1) > m) m = s.day; }); return Math.max(1, m); }
   function resortByDay() { tour.sort(function (a, b) { return (a.day || 1) - (b.day || 1); }); }   // ổn định theo ngày
 
   function getPlace(pid) { return customPlaces[pid] || places.filter(function (x) { return x.id === pid; })[0] || null; }
   function pcoord(p) { return p && p.coordinates ? p.coordinates : { lat: 0, lon: 0 }; }
   function inTour(pid) { return tour.some(function (s) { return s.pid === pid; }); }
+  /* ---- link bản đồ cho mỗi điểm (theo tên hoặc theo toạ độ) ---- */
+  function linkModeOf(s, p) { var m = s && s.linkMode; if (m === "name" || m === "coord" || m === "off") return m; return (p && p.custom) ? "coord" : "name"; }
+  function gLink(p, mode) { if (!p || mode === "off") return ""; var c = pcoord(p); if (mode === "name") { if (p.maps && p.maps.google) return p.maps.google; return "https://www.google.com/maps/search/?api=1&query=" + encodeURIComponent(RT.t(p, "name") || ""); } return "https://www.google.com/maps/search/?api=1&query=" + c.lat + "," + c.lon; }
+  function yLink(p, mode) { if (!p || mode === "off") return ""; var c = pcoord(p); if (mode === "name") { if (p.maps && p.maps.yandex) return p.maps.yandex; return "https://yandex.com/maps/?text=" + encodeURIComponent(RT.t(p, "name") || ""); } return "https://yandex.com/maps/?ll=" + c.lon + "," + c.lat + "&z=17&pt=" + c.lon + "," + c.lat; }
+  function docUrlOf(p) { return (p && !p.custom && p.has_doc && p.doc_url) ? p.doc_url : ""; }   // link file thuyết minh nội bộ (nếu đã tạo)
+  var SITE_BASE = "https://x102.github.io/camnangdulich/";
+  var CREDIT_LINE = "Nguồn: " + SITE_BASE + " · Tác giả: Phạm Đăng Hiển · lopmaybay@gmail.com · fb.com/lopmaybay";
+  function absUrl(u) { return (!u ? "" : (/^https?:/i.test(u) ? u : SITE_BASE + u.replace(/^\//, ""))); }
   function newStop(pid) { return { uid: "s" + (++_uid), pid: pid, day: activeDay, stay: 90, travel: 30, mode: "car", note: "", cv: 0, cvu: "p", ct: 0, ctu: "g" }; }
   function tourPlaces() { return tour.map(function (s) { return getPlace(s.pid); }).filter(Boolean); }
   function stopIndex(uid) { for (var i = 0; i < tour.length; i++) if (tour[i].uid === uid) return i; return -1; }
@@ -793,17 +823,27 @@
   }
   function tripDays() { return maxDay(); }
   function totals() {
-    var pax = Math.max(1, +trip.pax || 1), g = 0;
+    var days = tripDays(), nights = Math.max(0, days - 1), g = 0;
+    // chi phí theo từng điểm — nhân theo SỐ KHÁCH CỦA NGÀY đó (số khách có thể khác nhau mỗi ngày)
     tour.forEach(function (s) {
-      g += (s.cvu === "p" ? (+s.cv || 0) * pax : (+s.cv || 0));
-      g += (s.ctu === "p" ? (+s.ct || 0) * pax : (+s.ct || 0));
+      var px = dayPaxOf(s.day || 1);
+      g += (s.cvu === "p" ? (+s.cv || 0) * px : (+s.cv || 0));
+      g += (s.ctu === "p" ? (+s.ct || 0) * px : (+s.ct || 0));
     });
-    var days = tripDays(), nights = Math.max(0, days - 1);
-    g += (trip.hotelU === "p" ? (+trip.hotel || 0) * pax : (+trip.hotel || 0)) * nights;
-    g += (trip.mealU === "p" ? (+trip.meal || 0) * pax : (+trip.meal || 0)) * days;
-    g += (trip.otherU === "p" ? (+trip.other || 0) * pax : (+trip.other || 0)) * days;
-    return { group: g, per: g / pax, days: days, nights: nights, pax: pax };
+    // chi phí chung — cộng theo từng ngày (khách sạn tính theo đêm)
+    for (var d = 1; d <= days; d++) {
+      var px = dayPaxOf(d);
+      g += (trip.mealU === "p" ? (+trip.meal || 0) * px : (+trip.meal || 0));
+      g += (trip.otherU === "p" ? (+trip.other || 0) * px : (+trip.other || 0));
+      if (d < days) g += (trip.hotelU === "p" ? (+trip.hotel || 0) * px : (+trip.hotel || 0));
+    }
+    var paxMin = Infinity, paxMax = 0;
+    for (var d2 = 1; d2 <= days; d2++) { var q = dayPaxOf(d2); if (q < paxMin) paxMin = q; if (q > paxMax) paxMax = q; }
+    if (!isFinite(paxMin)) paxMin = paxMax = Math.max(1, +trip.pax || 1);
+    var paxRef = Math.max(1, +trip.pax || 1);
+    return { group: g, per: g / paxRef, days: days, nights: nights, pax: paxRef, paxMin: paxMin, paxMax: paxMax, varies: paxMin !== paxMax };
   }
+  function paxLabel(t) { return t.varies ? (t.paxMin + "–" + t.paxMax + " khách") : (t.paxMin + " khách"); }
   function money(n) { return Math.round(n).toLocaleString("vi-VN") + " " + trip.cur; }
 
   /* ---- danh sách gọn ở thanh bên ---- */
@@ -862,6 +902,16 @@
   function modeOpts(cur) { return MODES.map(function (m) { return '<option value="' + m.k + '"' + (m.k === cur ? " selected" : "") + '>' + m.e + " " + modeLabel(m) + "</option>"; }).join(""); }
   function unitSel(uid, field, cur) { return '<select data-uid="' + uid + '" data-field="' + field + '"><option value="p"' + (cur === "p" ? " selected" : "") + '>×người</option><option value="g"' + (cur === "g" ? " selected" : "") + '>cả đoàn</option></select>'; }
   function curOpts(cur) { return ["₽", "₫", "$", "€"].map(function (c) { return '<option' + (c === cur ? " selected" : "") + '>' + c + "</option>"; }).join(""); }
+  function linkModeOpts(cur) {
+    var o = [["name", "📛 theo tên"], ["coord", "🧭 theo toạ độ"], ["off", "✖ tắt"]];
+    return o.map(function (x) { return '<option value="' + x[0] + '"' + (x[0] === cur ? " selected" : "") + '>' + x[1] + '</option>'; }).join("");
+  }
+  function docBadge(p) {
+    if (p.custom) return "";
+    var u = docUrlOf(p);
+    if (u) return '<a class="pl-doc" href="' + attrEsc(absUrl(u)) + '" target="_blank" rel="noopener" title="Mở bài thuyết minh nội bộ">📄 Bài thuyết minh</a>';
+    return '<span class="pl-doc-miss" title="Chưa có file thuyết minh — có thể chạy task tạo file">⚠️ chưa có thuyết minh</span>';
+  }
 
   function rowHTML(s, i, firstOfDay) {
     var p = getPlace(s.pid); if (!p) return "";
@@ -880,6 +930,10 @@
       '<label class="pl-f">🚕 Chi phí đi <input type="number" min="0" step="100" data-uid="' + s.uid + '" data-field="ct" value="' + (+s.ct || 0) + '"/>' + unitSel(s.uid, "ctu", s.ctu) + '</label></div>' +
       '<div class="pl-r3"><textarea class="pl-note" data-uid="' + s.uid + '" data-field="note" placeholder="Ghi chú / thuyết minh ngắn về điểm này...">' + RT.escapeHtml(s.note || "") + '</textarea>' +
       (!p.custom ? '<button class="btn sm" data-op="fill" data-uid="' + s.uid + '" title="Lấy thuyết minh có sẵn">📖</button>' : '') + '</div>' +
+      '<div class="pl-r4">🔗 <select data-uid="' + s.uid + '" data-field="linkMode" title="Kiểu link bản đồ cho điểm này">' + linkModeOpts(linkModeOf(s, p)) + '</select>' +
+      '<button class="pl-lk g" data-op="open-g" data-uid="' + s.uid + '" title="Mở trên Google Maps">🟦 Google</button>' +
+      '<button class="pl-lk y" data-op="open-y" data-uid="' + s.uid + '" title="Mở trên Yandex Maps">🟥 Yandex</button>' +
+      docBadge(p) + '</div>' +
       '</div><div class="pl-ops"><button data-op="up" data-uid="' + s.uid + '" title="Lên / ngày trước">▲</button><button data-op="down" data-uid="' + s.uid + '" title="Xuống / ngày sau">▼</button><button data-op="rm" data-uid="' + s.uid + '" class="rm" title="Xoá">✕</button></div></div>';
   }
   function renderPlanner() {
@@ -888,12 +942,13 @@
     // ---- Thông tin đoàn ----
     h += '<div class="pl-card"><div class="pl-h">👥 Thông tin đoàn & xuất phát</div><div class="pl-grid">' +
       '<label>Tên đoàn / lịch trình<input data-tfield="name" value="' + attrEsc(trip.name) + '" placeholder="VD: Đoàn Hà Nội – Moskva"/></label>' +
-      '<label>Số khách<input type="number" min="1" step="1" data-tfield="pax" value="' + (trip.pax || 1) + '"/></label>' +
+      '<label>Số khách (mặc định)<input type="number" min="1" step="1" data-tfield="pax" value="' + (trip.pax || 1) + '" title="Số khách mặc định — có thể chỉnh riêng theo từng ngày ở tiêu đề mỗi ngày"/></label>' +
       '<label>Tiền tệ<select data-tfield="cur">' + curOpts(trip.cur) + '</select></label>' +
-      '<label>Ngày xuất phát<input type="date" data-tfield="date" value="' + attrEsc(trip.date) + '"/></label>' +
+      '<label>Ngày xuất phát (ngày 1)<input type="date" data-tfield="date" value="' + attrEsc(trip.date) + '"/></label>' +
       '<label>Giờ xuất phát<input type="time" data-tfield="time" value="' + attrEsc(trip.time) + '"/></label>' +
       '<label>Điểm xuất phát<input data-tfield="startName" value="' + attrEsc(trip.startName) + '" placeholder="VD: Khách sạn ..."/></label>' +
-      '</div></div>';
+      '<label class="pl-check"><input type="checkbox" data-tfield="exLinks"' + (trip.exLinks === false ? "" : " checked") + '/> Kèm link bản đồ (Google/Yandex) khi xuất file</label>' +
+      '</div><div class="muted" style="font-size:11.5px;margin-top:6px;">💡 Ngày & số khách có thể chỉnh riêng cho từng ngày ở tiêu đề mỗi ngày bên dưới (ngày có thể cách quãng, số khách có thể khác nhau).</div></div>';
     // ---- Chi phí chung ----
     h += '<div class="pl-card"><div class="pl-h">💵 Chi phí chung (tuỳ chọn)</div><div class="pl-grid">' +
       '<label>Khách sạn/đêm<span class="pl-inl"><input type="number" min="0" step="100" data-tfield="hotel" value="' + (trip.hotel || 0) + '"/>' + unitSelT("hotelU", trip.hotelU) + '</span></label>' +
@@ -913,19 +968,40 @@
     }
     for (var d = 1; d <= md; d++) {
       var hasStops = tour.some(function (x) { return (x.day || 1) === d; });
+      var dateAttr = (d === 1) ? ('data-tfield="date" value="' + attrEsc(trip.date) + '"') : ('data-daydate="' + d + '" value="' + attrEsc(dayDate[d] || "") + '"');
+      var timeAttr = (d === 1) ? ('data-tfield="time" value="' + attrEsc(trip.time) + '"') : ('data-daystart="' + d + '" value="' + attrEsc(dayStartOf(d)) + '"');
       h += '<div class="pl-day"><span class="pl-day-t">🗓 NGÀY ' + d + '</span>' +
-        '<label class="pl-day-start">bắt đầu <input type="time" data-daystart="' + d + '" value="' + attrEsc(dayStartOf(d)) + '"/></label>' +
+        '<label class="pl-day-f">📅 <input type="date" ' + dateAttr + ' title="Ngày (có thể cách quãng)"/></label>' +
+        '<label class="pl-day-f">🕘 <input type="time" ' + timeAttr + ' title="Giờ bắt đầu ngày"/></label>' +
+        '<label class="pl-day-f">👥 <input type="number" min="1" step="1" data-daypax="' + d + '" value="' + attrEsc(dayPax[d] == null ? "" : dayPax[d]) + '" placeholder="' + Math.max(1, +trip.pax || 1) + '" title="Số khách ngày này (bỏ trống = mặc định)"/></label>' +
         (hasStops ? '<button class="btn sm" data-op="return-day" data-day="' + d + '">🏨 Về điểm 1 (kết thúc ngày)</button>' : '') + '</div>';
       if (!hasStops) { h += '<div class="tour-empty" style="padding:6px 4px 10px;">Ngày ' + d + ' chưa có điểm — bấm “Thêm điểm” (đang thêm vào ngày ' + md + ').</div>'; continue; }
       var firstDone = false;
       tour.forEach(function (s, i) { if ((s.day || 1) !== d) return; h += rowHTML(s, i, !firstDone); firstDone = true; });
     }
     h += '<div class="pl-add" style="justify-content:center;margin-top:6px;"><button class="btn sm primary" data-op="add-day">➕ Thêm ngày mới (ngày ' + (md + 1) + ')</button></div>';
+    h += docsSummaryHTML();
     h += '<div class="pl-tot" id="plTot"></div>';
     body.innerHTML = h;
     refreshDerived();
   }
   function unitSelT(field, cur) { return '<select data-tfield="' + field + '"><option value="p"' + (cur === "p" ? " selected" : "") + '>×người</option><option value="g"' + (cur === "g" ? " selected" : "") + '>cả đoàn</option></select>'; }
+  function docsSummaryHTML() {
+    var seen = {}, db = [];
+    tour.forEach(function (s) { var p = getPlace(s.pid); if (p && !p.custom && !seen[p.id]) { seen[p.id] = 1; db.push(p); } });
+    if (!db.length) return "";
+    var have = db.filter(function (p) { return docUrlOf(p); });
+    var miss = db.filter(function (p) { return !docUrlOf(p); });
+    var h = '<div class="pl-docs-sum">📚 <b>Bài thuyết minh nội bộ (HDV):</b> ' + have.length + '/' + db.length + ' điểm đã có file.';
+    if (miss.length) {
+      h += ' <span class="miss">Chưa có (' + miss.length + '):</span> ' +
+        miss.map(function (p) { return RT.escapeHtml(RT.t(p, "name")); }).join(", ") +
+        ' — có thể <b>chạy task tạo file thuyết minh</b> cho các điểm này rồi build lại để hiện link 📄.';
+    } else {
+      h += ' Tất cả điểm trong lịch trình đều đã có bài. 🎉';
+    }
+    return h + '</div>';
+  }
 
   function refreshDerived() {
     var tl = timeline();
@@ -937,16 +1013,19 @@
     var tot = document.getElementById("plTot");
     if (tot) tot.innerHTML = tour.length ? ('<div class="pl-tot-row"><span>Tổng quãng đường (chim bay)</span><b>' + km.toFixed(0) + ' km</b></div>' +
       '<div class="pl-tot-row"><span>Số ngày · số đêm</span><b>' + t.days + ' ngày · ' + t.nights + ' đêm</b></div>' +
-      '<div class="pl-tot-row big"><span>TỔNG mỗi người</span><b>' + money(t.per) + '</b></div>' +
-      '<div class="pl-tot-row big gold"><span>TỔNG cả đoàn (' + t.pax + ' khách)</span><b>' + money(t.group) + '</b></div>') : "";
+      '<div class="pl-tot-row big"><span>TỔNG mỗi người' + (t.varies ? ' <span class="muted" style="font-size:11px;font-weight:600">(cỡ đoàn ' + t.pax + ' khách)</span>' : '') + '</span><b>' + money(t.per) + '</b></div>' +
+      '<div class="pl-tot-row big gold"><span>TỔNG cả đoàn (' + paxLabel(t) + ')</span><b>' + money(t.group) + '</b></div>') : "";
     renderTour();
   }
 
   function onPlInput(e) {
     var el = e.target, tf = el.getAttribute("data-tfield"), uid = el.getAttribute("data-uid"), f = el.getAttribute("data-field");
-    var ds = el.getAttribute("data-daystart");
+    var ds = el.getAttribute("data-daystart"), dd = el.getAttribute("data-daydate"), dp = el.getAttribute("data-daypax");
     if (ds) { dayStart[+ds] = el.value; refreshDerived(); return; }
+    if (dd) { if (el.value) dayDate[+dd] = el.value; else delete dayDate[+dd]; refreshDerived(); return; }
+    if (dp) { if (el.value === "" || el.value == null) delete dayPax[+dp]; else dayPax[+dp] = Math.max(1, parseInt(el.value, 10) || 1); refreshDerived(); return; }
     if (tf) {
+      if (el.type === "checkbox") { trip[tf] = el.checked; refreshDerived(); return; }
       var numT = { pax: 1, hotel: 1, meal: 1, other: 1 };
       trip[tf] = (tf in numT) ? (parseFloat(el.value) || 0) : el.value;
       refreshDerived();
@@ -966,6 +1045,11 @@
     else if (op === "rm") removeStop(uid);
     else if (op === "add-day") addDay();
     else if (op === "return-day") returnToStartDay(+b.getAttribute("data-day"));
+    else if (op === "open-g" || op === "open-y") {
+      var so = stopByUid(uid), po = so && getPlace(so.pid); if (!po) return;
+      var u = (op === "open-g" ? gLink : yLink)(po, linkModeOf(so, po));
+      if (u) window.open(u, "_blank", "noopener"); else showToast("Điểm này đang tắt link bản đồ (chọn “theo tên” hoặc “theo toạ độ”).");
+    }
     else if (op === "fill") { var s = stopByUid(uid); var p = s && getPlace(s.pid); if (p) { s.note = RT.t(p, "presentation_short") || RT.t(p, "presentation_long") || ""; renderPlanner(); } }
     else if (op === "add-coord") {
       var v = prompt("Nhập toạ độ (vĩ độ, kinh độ):", "");
@@ -992,65 +1076,202 @@
   function itinRows() {
     var tl = timeline();
     return tour.map(function (s, i) {
-      var p = getPlace(s.pid), c = pcoord(p);
+      var p = getPlace(s.pid), c = pcoord(p), lm = linkModeOf(s, p);
       return { i: i + 1, name: RT.t(p, "name"), lat: c.lat, lon: c.lon, day: tl[i].day,
         arr: fmtHM(tl[i].arr), dep: fmtHM(tl[i].dep), mode: modeInfo(s.mode), travel: +s.travel || 0, stay: +s.stay || 0,
-        cv: +s.cv || 0, cvu: s.cvu, ct: +s.ct || 0, ctu: s.ctu, note: s.note || "" };
+        cv: +s.cv || 0, cvu: s.cvu, ct: +s.ct || 0, ctu: s.ctu, note: s.note || "",
+        gmap: gLink(p, lm), ymap: yLink(p, lm), doc: absUrl(docUrlOf(p)), custom: !!p.custom };
     });
   }
   function tripTitle() { return trip.name || "Lịch trình du lịch"; }
   function buildText() {
-    var t = totals(), rows = itinRows(), L = [];
+    var t = totals(), rows = itinRows(), L = [], links = trip.exLinks !== false;
     L.push("═══ " + tripTitle().toUpperCase() + " ═══");
-    L.push("Đoàn: " + t.pax + " khách" + (trip.date ? " · Khởi hành: " + trip.date + " " + trip.time : "") + (trip.startName ? " · Từ: " + trip.startName : ""));
+    L.push("Đoàn: " + paxLabel(t) + (trip.date ? " · Khởi hành: " + fmtDate(trip.date) + " " + trip.time : "") + (trip.startName ? " · Từ: " + trip.startName : ""));
     L.push(t.days + " ngày " + t.nights + " đêm · " + RT.routeDistanceKm(tourPlaces()).toFixed(0) + " km");
     L.push("");
     var curDay = 0;
     rows.forEach(function (r) {
-      if (r.day !== curDay) { curDay = r.day; L.push("── NGÀY " + curDay + " ──"); }
+      if (r.day !== curDay) { curDay = r.day; L.push("── " + dayHeadTxt(curDay) + " ──"); }
       L.push(r.i + ". [" + r.arr + "–" + r.dep + "] " + r.name + "  (" + r.mode.e + " " + modeLabel(r.mode) + " " + r.travel + "′, tham quan " + r.stay + "′)");
       var cost = [];
       if (r.cv) cost.push("vé " + r.cv + (r.cvu === "p" ? "/người" : "/đoàn"));
       if (r.ct) cost.push("đi " + r.ct + (r.ctu === "p" ? "/người" : "/đoàn"));
       if (cost.length) L.push("     💰 " + cost.join(" · "));
       if (r.note) L.push("     📝 " + r.note);
+      if (links) { var lk = []; if (r.gmap) lk.push("Google: " + r.gmap); if (r.ymap) lk.push("Yandex: " + r.ymap); if (lk.length) L.push("     🔗 " + lk.join("  |  ")); }
+      if (r.doc) L.push("     📄 Thuyết minh: " + r.doc);
     });
     L.push("");
-    L.push("TỔNG: " + money(t.per) + "/người · " + money(t.group) + " cả đoàn");
-    L.push("Tạo bởi Cẩm nang Du lịch · lopmaybay@gmail.com · fb.com/lopmaybay");
+    L.push("TỔNG: " + money(t.per) + "/người" + (t.varies ? " (cỡ đoàn " + t.pax + ")" : "") + " · " + money(t.group) + " cả đoàn");
+    L.push(CREDIT_LINE);
     return L.join("\n");
   }
   function buildHTML() {
-    var t = totals(), rows = itinRows();
-    var css = "body{font-family:Segoe UI,Arial,sans-serif;color:#1c2431;max-width:820px;margin:auto;padding:20px}h1{color:#16293f;margin:0 0 4px}.sub{color:#667085;margin-bottom:14px}table{border-collapse:collapse;width:100%;font-size:13px}th,td{border:1px solid #dfe3ea;padding:7px 8px;text-align:left;vertical-align:top}th{background:#16293f;color:#fff}tr:nth-child(even) td{background:#f6f8fb}.day{background:#e0a51f22;font-weight:700}.tot{margin-top:14px;font-size:15px}.tot b{color:#16293f}.ft{margin-top:16px;color:#667085;font-size:12px}";
-    var h = '<h1>' + RT.escapeHtml(tripTitle()) + '</h1><div class="sub">' + t.pax + ' khách · ' + t.days + ' ngày ' + t.nights + ' đêm' + (trip.date ? ' · Khởi hành ' + RT.escapeHtml(trip.date) + ' ' + RT.escapeHtml(trip.time) : "") + (trip.startName ? ' · Từ ' + RT.escapeHtml(trip.startName) : "") + '</div>';
+    var t = totals(), rows = itinRows(), links = trip.exLinks !== false, he = RT.escapeHtml;
+    var css = "body{font-family:Segoe UI,Arial,sans-serif;color:#1c2431;max-width:900px;margin:auto;padding:20px}h1{color:#16293f;margin:0 0 4px}.sub{color:#667085;margin-bottom:14px}table{border-collapse:collapse;width:100%;font-size:13px}th,td{border:1px solid #dfe3ea;padding:7px 8px;text-align:left;vertical-align:top}th{background:#16293f;color:#fff}tr:nth-child(even) td{background:#f6f8fb}.day td{background:#e0a51f22;font-weight:700}.tot{margin-top:14px;font-size:15px}.tot b{color:#16293f}.ft{margin-top:16px;color:#667085;font-size:12px}.ft a{color:#16293f}.lk{font-size:11px;margin-top:3px}.lk a{color:#0563C1;text-decoration:none;margin-right:9px}.lk.doc a{color:#1f8f55;font-weight:700}";
+    var h = '<h1>' + he(tripTitle()) + '</h1><div class="sub">' + paxLabel(t) + ' · ' + t.days + ' ngày ' + t.nights + ' đêm' + (trip.date ? ' · Khởi hành ' + he(fmtDate(trip.date)) + ' ' + he(trip.time) : "") + (trip.startName ? ' · Từ ' + he(trip.startName) : "") + '</div>';
     h += '<table><tr><th>#</th><th>Đến–Rời</th><th>Địa điểm</th><th>Di chuyển</th><th>Vé</th><th>Chi phí đi</th><th>Ghi chú</th></tr>';
     var curDay = 0;
     rows.forEach(function (r) {
-      if (r.day !== curDay) { curDay = r.day; h += '<tr class="day"><td colspan="7">🗓 NGÀY ' + curDay + '</td></tr>'; }
-      h += '<tr><td>' + r.i + '</td><td>' + r.arr + '–' + r.dep + '</td><td><b>' + RT.escapeHtml(r.name) + '</b></td>' +
+      if (r.day !== curDay) { curDay = r.day; h += '<tr class="day"><td colspan="7">🗓 ' + he(dayHeadTxt(curDay)) + '</td></tr>'; }
+      var pc = '<b>' + he(r.name) + '</b>';
+      if (links && (r.gmap || r.ymap)) pc += '<div class="lk">🔗 ' + (r.gmap ? '<a href="' + he(r.gmap) + '" target="_blank" rel="noopener">Google</a>' : "") + (r.ymap ? '<a href="' + he(r.ymap) + '" target="_blank" rel="noopener">Yandex</a>' : "") + '</div>';
+      if (r.doc) pc += '<div class="lk doc"><a href="' + he(r.doc) + '" target="_blank" rel="noopener">📄 Bài thuyết minh</a></div>';
+      h += '<tr><td>' + r.i + '</td><td>' + r.arr + '–' + r.dep + '</td><td>' + pc + '</td>' +
         '<td>' + r.mode.e + ' ' + modeLabel(r.mode) + '<br>' + r.travel + '′ đi · ' + r.stay + '′ tham quan</td>' +
         '<td>' + (r.cv ? r.cv + (r.cvu === "p" ? "/ng" : "/đoàn") : "") + '</td><td>' + (r.ct ? r.ct + (r.ctu === "p" ? "/ng" : "/đoàn") : "") + '</td>' +
-        '<td>' + RT.escapeHtml(r.note) + '</td></tr>';
+        '<td>' + he(r.note) + '</td></tr>';
     });
-    h += '</table><div class="tot">Tổng mỗi người: <b>' + money(t.per) + '</b> · Tổng cả đoàn: <b>' + money(t.group) + '</b></div>';
-    h += '<div class="ft">Tạo bởi Cẩm nang Du lịch · lopmaybay@gmail.com · fb.com/lopmaybay · <i>File này có thể mở lại trong bản đồ (nút “Mở/Nhập”) để chỉnh sửa.</i></div>';
+    h += '</table><div class="tot">Tổng mỗi người: <b>' + money(t.per) + '</b>' + (t.varies ? ' <span style="color:#667085;font-size:12px">(cỡ đoàn ' + t.pax + ' khách)</span>' : "") + ' · Tổng cả đoàn: <b>' + money(t.group) + '</b></div>';
+    h += '<div class="ft">Nguồn: <a href="' + SITE_BASE + '" target="_blank" rel="noopener">' + SITE_BASE + '</a> · Tác giả: Phạm Đăng Hiển · lopmaybay@gmail.com · fb.com/lopmaybay</div>';
     var data = JSON.stringify(tripState()).replace(/</g, "\\u003c");
     h += '<scr' + 'ipt type="application/json" id="tripdata">' + data + '</scr' + 'ipt>';
-    return "<!doctype html><html lang=vi><head><meta charset=utf-8><title>" + RT.escapeHtml(tripTitle()) + "</title><style>" + css + "</style></head><body>" + h + "</body></html>";
+    return "<!doctype html><html lang=vi><head><meta charset=utf-8><title>" + he(tripTitle()) + "</title><style>" + css + "</style></head><body>" + h + "</body></html>";
   }
   function dl(content, type, name) { var b = new Blob([content], { type: type }); var a = document.createElement("a"); a.href = URL.createObjectURL(b); a.download = name; document.body.appendChild(a); a.click(); a.remove(); }
   function slugName() { return (tripTitle().normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/[^a-zA-Z0-9]+/g, "-").toLowerCase() || "lich-trinh"); }
   function exportCSV() {
     var rows = itinRows(), t = totals();
-    var out = [["STT", "Ngay", "Den", "Roi", "Dia_diem", "Lat", "Lon", "Phuong_tien", "Di_phut", "O_lai_phut", "Ve", "Ve_don_vi", "Chi_phi_di", "Di_don_vi", "Ghi_chu"]];
-    rows.forEach(function (r) { out.push([r.i, r.day, r.arr, r.dep, r.name, r.lat, r.lon, modeLabel(r.mode), r.travel, r.stay, r.cv, r.cvu === "p" ? "nguoi" : "doan", r.ct, r.ctu === "p" ? "nguoi" : "doan", r.note]); });
-    out.push([]); out.push(["", "", "", "", "TONG/nguoi", "", "", "", "", "", "", "", "", "", Math.round(t.per)]);
-    out.push(["", "", "", "", "TONG ca doan", "", "", "", "", "", "", "", "", "", Math.round(t.group)]);
+    var head = ["STT", "Ngay", "Ngay_thang", "So_khach", "Den", "Roi", "Dia_diem", "Lat", "Lon", "Phuong_tien", "Di_phut", "Tham_quan_phut", "Ve", "Ve_don_vi", "Chi_phi_di", "Di_don_vi", "Ghi_chu", "Google_map", "Yandex_map", "Thuyet_minh"];
+    var out = [head];
+    rows.forEach(function (r) { out.push([r.i, r.day, fmtDate(dayDateOf(r.day)), dayPaxOf(r.day), r.arr, r.dep, r.name, r.lat, r.lon, modeLabel(r.mode), r.travel, r.stay, r.cv, r.cvu === "p" ? "nguoi" : "doan", r.ct, r.ctu === "p" ? "nguoi" : "doan", r.note, r.gmap, r.ymap, r.doc]); });
+    function pad(a) { while (a.length < head.length) a.push(""); return a; }
+    out.push([]); out.push(pad(["TONG/nguoi", Math.round(t.per)])); out.push(pad(["TONG ca doan", Math.round(t.group)]));
     var csv = "﻿" + out.map(function (r) { return r.map(function (c) { return '"' + String(c == null ? "" : c).replace(/"/g, '""') + '"'; }).join(","); }).join("\n");
     dl(csv, "text/csv;charset=utf-8;", slugName() + ".csv");
   }
-  function exportWordDoc() { dl("﻿" + buildHTML(), "application/msword", slugName() + ".doc"); }
+  /* ---- Xuất .docx THẬT (OOXML + ZIP "store", không cần thư viện ngoài) ---- */
+  function _crc32(u8) {
+    var t = _crc32.t;
+    if (!t) { t = _crc32.t = []; for (var n = 0; n < 256; n++) { var c = n; for (var k = 0; k < 8; k++) c = (c & 1) ? (0xEDB88320 ^ (c >>> 1)) : (c >>> 1); t[n] = c >>> 0; } }
+    var crc = -1; for (var i = 0; i < u8.length; i++) crc = (crc >>> 8) ^ t[(crc ^ u8[i]) & 0xFF];
+    return (crc ^ -1) >>> 0;
+  }
+  function _zipStore(files) {
+    var enc = new TextEncoder(), parts = [], central = [], offset = 0;
+    function u16(n) { return [n & 255, (n >>> 8) & 255]; }
+    function u32(n) { n >>>= 0; return [n & 255, (n >>> 8) & 255, (n >>> 16) & 255, (n >>> 24) & 255]; }
+    function put(a) { parts.push(a); offset += a.length; }
+    files.forEach(function (f) {
+      var name = enc.encode(f.name), data = (f.data instanceof Uint8Array) ? f.data : enc.encode(f.data), crc = _crc32(data), off = offset;
+      put(new Uint8Array([].concat(u32(0x04034b50), u16(20), u16(0x0800), u16(0), u16(0), u16(0), u32(crc), u32(data.length), u32(data.length), u16(name.length), u16(0))));
+      put(name); put(data);
+      central.push({ h: new Uint8Array([].concat(u32(0x02014b50), u16(20), u16(20), u16(0x0800), u16(0), u16(0), u16(0), u32(crc), u32(data.length), u32(data.length), u16(name.length), u16(0), u16(0), u16(0), u16(0), u32(0), u32(off))), n: name });
+    });
+    var cdStart = offset, cdSize = 0;
+    central.forEach(function (c) { put(c.h); put(c.n); cdSize += c.h.length + c.n.length; });
+    put(new Uint8Array([].concat(u32(0x06054b50), u16(0), u16(0), u16(files.length), u16(files.length), u32(cdSize), u32(cdStart), u16(0))));
+    var total = 0; parts.forEach(function (p) { total += p.length; });
+    var out = new Uint8Array(total), pos = 0; parts.forEach(function (p) { out.set(p, pos); pos += p.length; });
+    return out;
+  }
+  function buildDocxBytes() {
+    var t = totals(), rows = itinRows(), links = trip.exLinks !== false, rels = [];
+    function xe(s) { return String(s == null ? "" : s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;"); }
+    function run(text, o) {
+      o = o || {}; var rpr = "";
+      if (o.b) rpr += "<w:b/>";
+      if (o.color) rpr += '<w:color w:val="' + o.color + '"/>';
+      if (o.sz) rpr += '<w:sz w:val="' + o.sz + '"/><w:szCs w:val="' + o.sz + '"/>';
+      rpr = rpr ? "<w:rPr>" + rpr + "</w:rPr>" : "";
+      var seg = String(text == null ? "" : text).split("\n"), tt = "";
+      for (var i = 0; i < seg.length; i++) { if (i) tt += "<w:br/>"; tt += '<w:t xml:space="preserve">' + xe(seg[i]) + "</w:t>"; }
+      return "<w:r>" + rpr + tt + "</w:r>";
+    }
+    function hyper(text, url) {
+      var id = "rIdH" + (rels.length + 1); rels.push({ id: id, url: url });
+      return '<w:hyperlink r:id="' + id + '"><w:r><w:rPr><w:color w:val="0563C1"/><w:u w:val="single"/></w:rPr><w:t xml:space="preserve">' + xe(text) + "</w:t></w:r></w:hyperlink>";
+    }
+    function para(inner, o) {
+      o = o || {}; var ppr = "";
+      if (o.align) ppr += '<w:jc w:val="' + o.align + '"/>';
+      if (o.after != null) ppr += '<w:spacing w:after="' + o.after + '"/>';
+      ppr = ppr ? "<w:pPr>" + ppr + "</w:pPr>" : "";
+      return "<w:p>" + ppr + (inner || "") + "</w:p>";
+    }
+    function cell(inner, o) {
+      o = o || {}; var pr = "";
+      pr += o.w ? '<w:tcW w:w="' + o.w + '" w:type="dxa"/>' : '<w:tcW w:w="0" w:type="auto"/>';
+      if (o.span) pr += '<w:gridSpan w:val="' + o.span + '"/>';
+      if (o.shade) pr += '<w:shd w:val="clear" w:color="auto" w:fill="' + o.shade + '"/>';
+      pr += '<w:vAlign w:val="center"/>';
+      return "<w:tc><w:tcPr>" + pr + "</w:tcPr>" + (inner || para("")) + "</w:tc>";
+    }
+    var NC = 7, GW = [520, 1500, 4200, 2500, 1300, 1600, 3800];
+    var body = "";
+    body += para(run(tripTitle(), { b: true, sz: 36, color: "16293F" }), { after: 60 });
+    var sub = paxLabel(t) + " · " + t.days + " ngày " + t.nights + " đêm" + (trip.date ? " · Khởi hành " + fmtDate(trip.date) + " " + trip.time : "") + (trip.startName ? " · Từ " + trip.startName : "");
+    body += para(run(sub, { color: "667085", sz: 20 }), { after: 160 });
+    var tbl = '<w:tbl><w:tblPr><w:tblW w:w="0" w:type="auto"/><w:tblBorders>' +
+      '<w:top w:val="single" w:sz="4" w:color="BFBFBF"/><w:left w:val="single" w:sz="4" w:color="BFBFBF"/><w:bottom w:val="single" w:sz="4" w:color="BFBFBF"/><w:right w:val="single" w:sz="4" w:color="BFBFBF"/><w:insideH w:val="single" w:sz="4" w:color="BFBFBF"/><w:insideV w:val="single" w:sz="4" w:color="BFBFBF"/>' +
+      '</w:tblBorders></w:tblPr><w:tblGrid>' + GW.map(function (w) { return '<w:gridCol w:w="' + w + '"/>'; }).join("") + '</w:tblGrid>';
+    var hcells = ["#", "Đến–Rời", "Địa điểm", "Di chuyển", "Vé", "Chi phí đi", "Ghi chú"], hr = "";
+    hcells.forEach(function (hc, ci) { hr += cell(para(run(hc, { b: true, color: "FFFFFF", sz: 18 })), { shade: "16293F", w: GW[ci] }); });
+    tbl += "<w:tr>" + hr + "</w:tr>";
+    var curDay = 0;
+    rows.forEach(function (r) {
+      if (r.day !== curDay) { curDay = r.day; tbl += "<w:tr>" + cell(para(run("🗓 " + dayHeadTxt(curDay), { b: true, color: "5A4300", sz: 18 })), { span: NC, shade: "F6E7C2" }) + "</w:tr>"; }
+      var placeInner = para(run(r.name, { b: true }));
+      if (links && (r.gmap || r.ymap)) { var lk = run("🔗 ", { sz: 16, color: "667085" }); if (r.gmap) lk += hyper("Google", r.gmap); if (r.gmap && r.ymap) lk += run("   ", {}); if (r.ymap) lk += hyper("Yandex", r.ymap); placeInner += para(lk); }
+      if (r.doc) placeInner += para(hyper("📄 Bài thuyết minh", r.doc));
+      var moveTxt = r.mode.e + " " + modeLabel(r.mode) + "\n" + r.travel + "′ đi · " + r.stay + "′ tham quan";
+      tbl += "<w:tr>" +
+        cell(para(run(r.i)), { w: GW[0] }) +
+        cell(para(run(r.arr + "–" + r.dep)), { w: GW[1] }) +
+        cell(placeInner, { w: GW[2] }) +
+        cell(para(run(moveTxt)), { w: GW[3] }) +
+        cell(para(run(r.cv ? r.cv + (r.cvu === "p" ? "/ng" : "/đoàn") : "")), { w: GW[4] }) +
+        cell(para(run(r.ct ? r.ct + (r.ctu === "p" ? "/ng" : "/đoàn") : "")), { w: GW[5] }) +
+        cell(para(run(r.note)), { w: GW[6] }) +
+        "</w:tr>";
+    });
+    tbl += "</w:tbl>";
+    body += tbl;
+    body += para(run("Tổng mỗi người: " + money(t.per) + (t.varies ? " (cỡ đoàn " + t.pax + " khách)" : "") + "     ·     Tổng cả đoàn: " + money(t.group), { b: true, sz: 24, color: "16293F" }), { after: 40 });
+    body += para(run("Nguồn: ", { color: "8A97A8", sz: 18 }) + hyper(SITE_BASE, SITE_BASE) + run(" · Tác giả: Phạm Đăng Hiển · lopmaybay@gmail.com · fb.com/lopmaybay", { color: "8A97A8", sz: 18 }));
+    var sect = '<w:sectPr><w:pgSz w:w="16838" w:h="11906" w:orient="landscape"/><w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="360" w:footer="360" w:gutter="0"/></w:sectPr>';
+    var documentXml = '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>' +
+      '<w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">' +
+      "<w:body>" + body + sect + "</w:body></w:document>";
+    var relsXml = '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>' +
+      '<Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">' +
+      '<Relationship Id="rIdStyles" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/styles" Target="styles.xml"/>' +
+      rels.map(function (x) { return '<Relationship Id="' + x.id + '" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink" Target="' + xe(x.url) + '" TargetMode="External"/>'; }).join("") +
+      "</Relationships>";
+    var contentTypes = '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>' +
+      '<Types xmlns="http://schemas.openxmlformats.org/package/2006/content-types">' +
+      '<Default Extension="rels" ContentType="application/vnd.openxmlformats-package.relationships+xml"/>' +
+      '<Default Extension="xml" ContentType="application/xml"/>' +
+      '<Override PartName="/word/document.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml"/>' +
+      '<Override PartName="/word/styles.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.styles+xml"/>' +
+      "</Types>";
+    var rootRels = '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>' +
+      '<Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">' +
+      '<Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument" Target="word/document.xml"/>' +
+      "</Relationships>";
+    var stylesXml = '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>' +
+      '<w:styles xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main">' +
+      '<w:docDefaults><w:rPrDefault><w:rPr><w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/><w:sz w:val="22"/><w:szCs w:val="22"/></w:rPr></w:rPrDefault></w:docDefaults>' +
+      '<w:style w:type="paragraph" w:default="1" w:styleId="Normal"><w:name w:val="Normal"/></w:style>' +
+      "</w:styles>";
+    return _zipStore([
+      { name: "[Content_Types].xml", data: contentTypes },
+      { name: "_rels/.rels", data: rootRels },
+      { name: "word/document.xml", data: documentXml },
+      { name: "word/_rels/document.xml.rels", data: relsXml },
+      { name: "word/styles.xml", data: stylesXml }
+    ]);
+  }
+  function exportWordDoc() {
+    if (!tour.length) return;
+    try {
+      var bytes = buildDocxBytes();
+      dlBlob(new Blob([bytes], { type: "application/vnd.openxmlformats-officedocument.wordprocessingml.document" }), slugName() + ".docx");
+    } catch (e) {
+      dl("﻿" + buildHTML(), "application/msword", slugName() + ".doc");   // dự phòng nếu trình duyệt quá cũ
+    }
+  }
   function exportHTMLfile() { dl(buildHTML(), "text/html;charset=utf-8;", slugName() + ".html"); }
   function copyText() { var txt = buildText(); if (navigator.clipboard) navigator.clipboard.writeText(txt).then(function () { showToast("✓ Đã sao chép lịch trình!"); }, function () { prompt("Sao chép:", txt); }); else prompt("Sao chép:", txt); }
   function buildSVG() {
@@ -1063,13 +1284,13 @@
     s += '<rect width="' + W + '" height="' + H + '" fill="#ffffff"/>';
     s += '<rect width="' + W + '" height="72" fill="#16293f"/>';
     s += '<text x="24" y="32" fill="#fff" font-size="21" font-weight="700">' + esc(tripTitle()) + '</text>';
-    s += '<text x="24" y="56" fill="#c8d3e6" font-size="13">' + t.pax + ' khách · ' + t.days + ' ngày ' + t.nights + ' đêm' + (trip.date ? ' · KH ' + esc(trip.date) + ' ' + esc(trip.time) : "") + ' · ' + money(t.group) + ' cả đoàn</text>';
+    s += '<text x="24" y="56" fill="#c8d3e6" font-size="13">' + paxLabel(t) + ' · ' + t.days + ' ngày ' + t.nights + ' đêm' + (trip.date ? ' · KH ' + esc(fmtDate(trip.date)) + ' ' + esc(trip.time) : "") + ' · ' + money(t.group) + ' cả đoàn</text>';
     var y = top, curDay = 0;
     rows.forEach(function (r, i) {
       if (r.day !== curDay) {
         curDay = r.day;
         s += '<rect x="16" y="' + (y - 21) + '" width="' + (W - 32) + '" height="27" rx="6" fill="#eef2f8"/>';
-        s += '<text x="27" y="' + (y - 2) + '" font-size="14" font-weight="800" fill="#0f2138">NGÀY ' + curDay + '  ·  bắt đầu ' + esc(dayStartOf(curDay)) + '</text>';
+        s += '<text x="27" y="' + (y - 2) + '" font-size="14" font-weight="800" fill="#0f2138">' + esc(dayHeadTxt(curDay)) + '</text>';
         y += dayH;
       }
       if (i > 0 && rows[i - 1].day === r.day) s += '<line x1="' + x + '" y1="' + (y - rowH + 18) + '" x2="' + x + '" y2="' + (y - 4) + '" stroke="#e0a51f" stroke-width="3"/>';
@@ -1083,7 +1304,7 @@
       y += rowH;
     });
     s += '<text x="24" y="' + (y + 26) + '" font-size="13.5" font-weight="700" fill="#16293f">TỔNG: ' + money(t.per) + '/người  ·  ' + money(t.group) + ' cả đoàn</text>';
-    s += '<text x="24" y="' + (y + 46) + '" font-size="11.5" fill="#8a97a8">Cẩm nang Du lịch · lopmaybay@gmail.com · fb.com/lopmaybay</text>';
+    s += '<text x="24" y="' + (y + 46) + '" font-size="11.5" fill="#8a97a8">' + esc(CREDIT_LINE) + '</text>';
     s += '</svg>';
     return s;
   }
@@ -1118,11 +1339,12 @@
       });
     });
   }
-  function tripState() { return { v: 1, trip: trip, tour: tour, custom: customPlaces, dayStart: dayStart, activeDay: activeDay }; }
+  function tripState() { return { v: 1, trip: trip, tour: tour, custom: customPlaces, dayStart: dayStart, dayDate: dayDate, dayPax: dayPax, activeDay: activeDay }; }
   function saveJSON() { dl(JSON.stringify(tripState()), "application/json;charset=utf-8;", slugName() + ".json"); }
   function applyState(st) {
     if (!st || !st.trip || !st.tour) { alert("File không chứa dữ liệu lịch trình hợp lệ."); return; }
-    trip = st.trip; tour = st.tour; customPlaces = st.custom || {}; dayStart = st.dayStart || {}; activeDay = st.activeDay || 1;
+    trip = st.trip; tour = st.tour; customPlaces = st.custom || {}; dayStart = st.dayStart || {}; dayDate = st.dayDate || {}; dayPax = st.dayPax || {}; activeDay = st.activeDay || 1;
+    if (trip.exLinks == null) trip.exLinks = true;
     var mu = 0, mc = 0;
     tour.forEach(function (s) { var n = parseInt((s.uid || "").replace(/\D/g, ""), 10) || 0; if (n > mu) mu = n; });
     Object.keys(customPlaces).forEach(function (k) { var n = parseInt(k.replace(/\D/g, ""), 10) || 0; if (n > mc) mc = n; });

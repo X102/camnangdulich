@@ -15,33 +15,34 @@ rồi chạy lại `python3 tools/build.py`. KHÔNG cần sửa HTML/JS.
 
 Chạy:  python3 tools/build.py
 """
-import json, os, csv, glob, datetime, urllib.parse
+import json, os, csv, glob, datetime
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
 REGIONS_DIR = os.path.join(ROOT, "data", "regions")
 DATA_DIR = os.path.join(ROOT, "data")
 EXPORTS_DIR = os.path.join(ROOT, "exports")
+DOCS_DIR = os.path.join(ROOT, "tai-lieu-noi-bo")  # bài thuyết minh nội bộ: <region_slug>/<place_slug>.html|docx
+
+
+def attach_doc_flags(reg_slug, p):
+    """Đánh dấu điểm đã có file thuyết minh nội bộ chưa (tài liệu cho HDV).
+    has_doc/doc_url là dữ liệu SUY RA lúc build — không ghi vào file nguồn."""
+    slug = p.get("slug")
+    p.pop("has_doc", None); p.pop("doc_url", None); p.pop("doc_docx", None)
+    if not slug:
+        p["has_doc"] = False
+        return
+    html_path = os.path.join(DOCS_DIR, reg_slug, slug + ".html")
+    if os.path.exists(html_path):
+        p["has_doc"] = True
+        p["doc_url"] = "tai-lieu-noi-bo/" + reg_slug + "/" + slug + ".html"
+        if os.path.exists(os.path.join(DOCS_DIR, reg_slug, slug + ".docx")):
+            p["doc_docx"] = "tai-lieu-noi-bo/" + reg_slug + "/" + slug + ".docx"
+    else:
+        p["has_doc"] = False
 
 REQUIRED = ["id", "name_vi", "region", "coordinates"]
-
-
-def _apply_vn_maps(p):
-    """Điểm Việt Nam: luôn dùng TÊN TIẾNG VIỆT + tỉnh cho link tìm kiếm Google/Yandex (tìm đúng hơn)."""
-    if (p.get("country") or "russia") != "vietnam":
-        return
-    c = p.get("coordinates") or {}
-    lat = c.get("lat"); lon = c.get("lon")
-    q = urllib.parse.quote((p.get("name_vi") or "").strip() + ", " +
-                           (p.get("region_name_vi") or "").strip() + ", Việt Nam")
-    m = p.get("maps") or {}
-    m["google"] = "https://www.google.com/maps/search/?api=1&query=" + q
-    if lat is not None and lon is not None:
-        m["yandex"] = "https://yandex.com/maps/?text=" + q + f"&ll={lon},{lat}&z=17"
-    else:
-        m["yandex"] = "https://yandex.com/maps/?text=" + q
-    p["maps"] = m
-
 
 
 def load_regions():
@@ -87,10 +88,13 @@ def build():
     region_meta = []
     cat_counts = {}
 
+    docs_have = 0
     for r in regions:
         items = r["items"]
         for p in items:
-            _apply_vn_maps(p)
+            attach_doc_flags(r["slug"], p)
+            if p.get("has_doc"):
+                docs_have += 1
             all_places.append(p)
             for c in p.get("categories", []):
                 cat_counts[c] = cat_counts.get(c, 0) + 1
@@ -240,6 +244,7 @@ def build():
         print(f"  ! Không tạo được XLSX: {e}")
 
     print(f"Xong. Tổng {len(all_places)} địa điểm, {len(region_meta)} vùng.")
+    print(f"Bài thuyết minh nội bộ (HDV): {docs_have}/{len(all_places)} điểm đã có file.")
     print("Đã sinh: data/index.json, data/bundle.js, exports/{places.json,csv,geojson,xlsx}")
     return index
 
