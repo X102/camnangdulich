@@ -163,6 +163,65 @@
   .ring-hub-lbl span { display: inline-block; background: #16293f; color: #fff; font-size: 12px; font-weight: 800; padding: 3px 11px 3px 9px; border-radius: 999px; white-space: nowrap; box-shadow: 0 2px 8px rgba(0,0,0,.35); }
   .ring-name-lbl { background: none; border: none; box-shadow: none; }
   .ring-name-lbl span { display: inline-block; background: rgba(255,255,255,.92); border: 2px solid; border-radius: 999px; padding: 3px 13px; font-size: 13px; font-weight: 800; white-space: nowrap; box-shadow: 0 2px 9px rgba(0,0,0,.28); letter-spacing: .01em; }
+  .pl-tag { display: inline-block; background: #eef2f8; color: #5b7; color: #2f8f5b; border: 1px solid #bfe3cd; border-radius: 6px; font-size: 10px; font-weight: 700; padding: 0 5px; vertical-align: middle; }
+  /* Sơ đồ số trên bản đồ */
+  .rt-badge-wrap { background: none; border: none; }
+  .rt-badge { position: absolute; display: inline-flex; align-items: center; gap: 5px; white-space: nowrap; }
+  .rt-badge .n { width: 24px; height: 24px; border-radius: 50%; background: #e8514b; color: #fff; font-weight: 800; font-size: 13px; display: flex; align-items: center; justify-content: center; box-shadow: 0 2px 6px rgba(0,0,0,.4); border: 2px solid #fff; }
+  .rt-badge .t { background: rgba(255,255,255,.95); border: 1px solid rgba(20,30,50,.18); border-radius: 6px; padding: 1px 7px; font-size: 11.5px; font-weight: 700; color: #1c2431; box-shadow: 0 1px 4px rgba(0,0,0,.22); }
+  /* Toast */
+  .map-toast { display: none; position: fixed; left: 50%; bottom: 26px; transform: translateX(-50%); z-index: 3000; background: #16293f; color: #fff; padding: 11px 18px; border-radius: 999px; font-size: 13.5px; font-weight: 600; box-shadow: 0 8px 26px rgba(0,0,0,.4); max-width: 90vw; text-align: center; }
+  /* Bảng lịch trình (modal) */
+  .planner { display: none; position: fixed; inset: 0; z-index: 2500; background: rgba(10,20,35,.5); backdrop-filter: blur(2px); padding: 22px; }
+  .planner.open { display: flex; align-items: flex-start; justify-content: center; }
+  .pl-panel { background: #f6f7fb; width: 100%; max-width: 900px; max-height: calc(100vh - 44px); border-radius: 16px; box-shadow: 0 24px 70px rgba(0,0,0,.45); display: flex; flex-direction: column; overflow: hidden; }
+  .pl-top { background: linear-gradient(135deg, #16293f, #0f2138); color: #fff; padding: 13px 16px; display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+  .pl-title { font-size: 16px; font-weight: 800; margin-right: auto; }
+  .pl-actions { display: flex; gap: 6px; flex-wrap: wrap; }
+  .pl-exports { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; padding: 9px 16px; background: #eef2f8; border-bottom: 1px solid var(--line); }
+  #plBody { padding: 14px 16px 20px; overflow-y: auto; }
+  .pl-card { background: #fff; border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px; margin-bottom: 12px; }
+  .pl-h { font-weight: 800; color: var(--navy); font-size: 13.5px; margin-bottom: 9px; }
+  .pl-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; }
+  .pl-grid label { display: flex; flex-direction: column; gap: 3px; font-size: 12px; color: var(--muted); font-weight: 600; }
+  .pl-grid input, .pl-grid select { border: 1px solid var(--line); border-radius: 8px; padding: 7px 9px; font-size: 13.5px; font-family: inherit; color: var(--ink); }
+  .pl-inl { display: flex; gap: 5px; }
+  .pl-inl input { flex: 1; min-width: 0; }
+  .pl-add { display: flex; gap: 7px; flex-wrap: wrap; align-items: center; margin-bottom: 12px; }
+  .pl-day { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin: 14px 0 9px; padding: 8px 12px; background: linear-gradient(135deg,#16293f,#0f2138); color: #fff; border-radius: 10px; }
+  .pl-day-t { font-weight: 800; font-size: 14.5px; }
+  .pl-day-start { font-size: 12px; color: #cdd7e6; display: flex; align-items: center; gap: 5px; font-weight: 600; }
+  .pl-day-start input { border: none; border-radius: 6px; padding: 3px 6px; font-family: inherit; font-size: 13px; }
+  .pl-day .btn { margin-left: auto; }
+  .pl-row { display: flex; gap: 9px; background: #fff; border: 1px solid var(--line); border-radius: 12px; padding: 10px 12px; margin-bottom: 9px; box-shadow: 0 2px 8px rgba(20,30,50,.05); }
+  .pl-num { width: 26px; height: 26px; flex: 0 0 auto; border-radius: 50%; background: #e8514b; color: #fff; font-weight: 800; font-size: 13px; display: flex; align-items: center; justify-content: center; }
+  .pl-main { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 7px; }
+  .pl-r1 { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+  .pl-name { font-weight: 700; font-size: 14.5px; color: var(--navy); border: 1px solid transparent; border-radius: 7px; padding: 3px 6px; min-width: 160px; flex: 1; font-family: inherit; }
+  input.pl-name { border-color: var(--line); }
+  .pl-name.ro { padding-left: 0; }
+  .pl-time { font-size: 12px; color: #2f6f5b; font-weight: 700; white-space: nowrap; }
+  .pl-r2 { display: flex; gap: 8px; flex-wrap: wrap; }
+  .pl-f { display: inline-flex; align-items: center; gap: 5px; font-size: 12px; color: var(--muted); font-weight: 600; background: #f6f8fb; border: 1px solid var(--line); border-radius: 8px; padding: 4px 8px; }
+  .pl-f input { width: 66px; border: 1px solid var(--line); border-radius: 6px; padding: 3px 6px; font-size: 13px; font-family: inherit; }
+  .pl-f select { border: 1px solid var(--line); border-radius: 6px; padding: 3px 5px; font-size: 12.5px; font-family: inherit; background: #fff; }
+  .pl-r3 { display: flex; gap: 6px; align-items: flex-start; }
+  .pl-note { flex: 1; border: 1px solid var(--line); border-radius: 8px; padding: 6px 9px; font-size: 13px; font-family: inherit; resize: vertical; min-height: 34px; }
+  .pl-ops { display: flex; flex-direction: column; gap: 4px; flex: 0 0 auto; }
+  .pl-ops button { width: 30px; height: 26px; border: 1px solid var(--line); background: #fff; border-radius: 7px; cursor: pointer; font-size: 12px; color: var(--navy); }
+  .pl-ops button:hover { background: #eef2f8; }
+  .pl-ops button.rm:hover { background: #fdecec; color: #c0392b; border-color: #f0c0c0; }
+  .pl-tot { background: #fff; border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px; margin-top: 4px; }
+  .pl-tot-row { display: flex; justify-content: space-between; align-items: center; padding: 4px 0; font-size: 13.5px; border-bottom: 1px dashed var(--line); }
+  .pl-tot-row:last-child { border-bottom: none; }
+  .pl-tot-row.big { font-size: 16px; font-weight: 800; color: var(--navy); }
+  .pl-tot-row.big.gold b { color: var(--gold-2); }
+  @media (max-width: 640px) {
+    .planner { padding: 0; }
+    .pl-panel { max-width: 100%; max-height: 100vh; border-radius: 0; }
+    .pl-title { width: 100%; margin-bottom: 4px; }
+    .pl-f input { width: 58px; }
+  }
 </style>
 </head>
 <body>
@@ -221,28 +280,15 @@
 
     <div class="sec">
       <h3>🧭 Kế hoạch tour <span class="muted" style="font-weight:400;font-size:12px;">(<span id="tourCount">0</span> điểm)</span></h3>
-      <div id="tourList"><div class="tour-empty">Bấm “➕ Thêm vào tour” trên bản đồ để tạo lịch trình.</div></div>
+      <div id="tourList"><div class="tour-empty">Bấm “➕ Thêm vào tour” trên bản đồ, hoặc mở <b>Bảng lịch trình</b> để thêm &amp; sắp xếp điểm.</div></div>
       <div id="tourStat"></div>
-      <div id="costPanel" class="cost-panel">
-        <div class="cost-title">💰 Ước tính chi phí đoàn</div>
-        <div class="cost-grid">
-          <label>Số khách<input type="number" id="costPax" min="1" step="1" value="4" /></label>
-          <label>Ăn/ngày ₽<input type="number" id="costFood" min="0" step="100" value="1500" /></label>
-          <label>Đi lại nội đô/ngày ₽<input type="number" id="costLocal" min="0" step="100" value="800" /></label>
-          <label class="cost-hotel-toggle"><input type="checkbox" id="costHotelOn" checked /> Gồm khách sạn</label>
-          <label>Khách sạn/đêm ₽<input type="number" id="costHotel" min="0" step="500" value="6000" /></label>
-        </div>
-        <div id="costOut" class="cost-out"></div>
+      <div style="display:flex;gap:6px;flex-wrap:wrap;margin-top:10px;">
+        <button class="btn sm primary" id="openPlanner" style="flex:1 1 auto;justify-content:center;">🧾 Bảng lịch trình chi tiết</button>
       </div>
-      <div style="display:flex;gap:6px;flex-wrap:wrap;margin-top:8px;">
-        <label class="muted" style="font-size:12px;display:flex;align-items:center;gap:4px;">Điểm/ngày
-          <input type="number" id="perDay" min="1" max="10" value="4" style="width:52px;border:1px solid var(--line);border-radius:8px;padding:3px 6px;" />
-        </label>
-      </div>
-      <div style="display:flex;gap:6px;flex-wrap:wrap;margin-top:8px;">
-        <button class="btn sm primary" id="optimize">🧮 Tối ưu lộ trình</button>
-        <button class="btn sm" id="exportCsv">⬇️ Xuất CSV</button>
-        <button class="btn sm" id="copyPlan">📋 Sao chép</button>
+      <div style="display:flex;gap:6px;flex-wrap:wrap;margin-top:6px;">
+        <button class="btn sm" id="optimize">🧮 Tối ưu thứ tự</button>
+        <button class="btn sm" id="diagBtn">🗺️ Sơ đồ trên bản đồ</button>
+        <button class="btn sm" id="namesBtn">🔢 chỉ số</button>
         <button class="btn sm" id="clearTour">🗑️ Xoá</button>
       </div>
     </div>
@@ -264,6 +310,39 @@
 <div class="drawer-backdrop" id="drawerBackdrop"></div>
 <button class="filter-fab" id="filterFab">🔎 Bộ lọc &amp; lộ trình</button>
 
+<div id="mapToast" class="map-toast"></div>
+
+<!-- ===== BẢNG LỊCH TRÌNH CHI TIẾT ===== -->
+<div id="planner" class="planner">
+  <div class="pl-panel">
+    <div class="pl-top">
+      <div class="pl-title">🧾 Bảng lịch trình chi tiết</div>
+      <div class="pl-actions">
+        <button class="btn sm" id="plOptimize">🧮 Tối ưu thứ tự</button>
+        <button class="btn sm" id="plDiagram">🗺️ Xem sơ đồ trên bản đồ</button>
+        <button class="btn sm" id="plNames">🔢 chỉ số</button>
+        <button class="btn sm" id="plClearBtn">🗑️ Xoá hết</button>
+        <button class="btn sm primary" id="plClose">✕ Đóng</button>
+      </div>
+    </div>
+    <div class="pl-exports">
+      <span class="muted" style="font-size:12.5px;font-weight:700;">Xuất:</span>
+      <button class="btn sm" id="plCopy">📋 Text</button>
+      <button class="btn sm" id="plCsv">⬇️ CSV</button>
+      <button class="btn sm" id="plHtml">⬇️ HTML</button>
+      <button class="btn sm" id="plWord">⬇️ Word</button>
+      <button class="btn sm" id="plPdf">⬇️ PDF</button>
+      <button class="btn sm" id="plPng">🖼️ PNG</button>
+      <button class="btn sm" id="plJpg">🖼️ JPG</button>
+      <button class="btn sm" id="plSvg">SVG</button>
+      <span style="width:1px;height:20px;background:var(--line);margin:0 2px;"></span>
+      <button class="btn sm" id="plSave">💾 Lưu file</button>
+      <label class="btn sm" id="plImportLbl" style="cursor:pointer;">📂 Mở/Nhập<input type="file" id="plImport" accept=".json,.html,.htm" style="display:none;"/></label>
+    </div>
+    <div id="plBody"></div>
+  </div>
+</div>
+
 <script src="assets/vendor/leaflet.js"></script>
 <script src="assets/vendor/leaflet.markercluster.js"></script>
 <script src="assets/common.js"></script>
@@ -282,7 +361,13 @@
   var places = RT.getPlaces();
   var meta = RT.getMeta();
   var activeCats = {};
-  var tour = [];              // mảng id theo thứ tự
+  var tour = [];              // mảng STOP: {uid,pid,stay,travel,mode,note,cv,cvu,ct,ctu}
+  var customPlaces = {};     // pid tự thêm -> place-like object
+  var _uid = 0, _cust = 0, pickMode = false;
+  var trip = { name: "", pax: 4, cur: "₽", date: "", time: "08:00",
+               startName: "", startLat: null, startLon: null,
+               hotel: 0, hotelU: "g", meal: 0, mealU: "p", other: 0, otherU: "g" };
+  var diagram = { on: false, names: false };   // chế độ sơ đồ trên bản đồ
   var markers = {};          // id -> marker
   var routeLayer = null;
   var labelsOn = false;      // hiện tên trên bản đồ
@@ -569,7 +654,7 @@
 
   function popupHTML(p) {
     var rt = p.rating || {};
-    var inTour = tour.indexOf(p.id) >= 0;
+    var isIn = inTour(p.id);
     return '<div class="pop">' +
       (p.photo ? '<img class="pop-photo" src="' + p.photo + '" onerror="this.style.display=\'none\'" />' : '') +
       '<h4>' + RT.escapeHtml(RT.t(p, "name")) + '</h4>' +
@@ -580,7 +665,7 @@
       '<div class="pop-actions">' +
         '<button class="btn sm gold" onclick="RTGIS.speak(\'' + p.id + '\')">' + RT.uiText("listen") + '</button>' +
         '<button class="btn sm" onclick="RTGIS.detail(\'' + p.id + '\')">' + RT.uiText("detail") + '</button>' +
-        '<button class="btn sm ' + (inTour ? "primary" : "") + '" onclick="RTGIS.toggleTour(\'' + p.id + '\')">' + (inTour ? RT.uiText("inTour") : RT.uiText("addTour")) + '</button>' +
+        '<button class="btn sm ' + (isIn ? "primary" : "") + '" onclick="RTGIS.toggleTour(\'' + p.id + '\')">' + (isIn ? RT.uiText("inTour") : RT.uiText("addTour")) + '</button>' +
       '</div>' +
       '<div class="pop-actions">' +
         (p.maps && p.maps.yandex ? '<a class="btn sm" href="' + p.maps.yandex + '" target="_blank" rel="noopener">📍 Ya Maps</a>' : '') +
@@ -635,75 +720,427 @@
     return shown;
   }
 
-  /* ---------- Tour planner ---------- */
-  function tourPlaces() {
-    return tour.map(function (id) { return places.filter(function (p) { return p.id === id; })[0]; }).filter(Boolean);
+  /* ================= LẬP LỊCH TRÌNH CHI TIẾT ================= */
+  map.createPane("tour"); map.getPane("tour").style.zIndex = 640;
+  var MODES = [
+    { k: "car", e: "🚗", vi: "Ô tô", en: "Car", ru: "Авто" },
+    { k: "taxi", e: "🚕", vi: "Taxi", en: "Taxi", ru: "Такси" },
+    { k: "bus", e: "🚌", vi: "Xe khách", en: "Coach", ru: "Автобус" },
+    { k: "citybus", e: "🚍", vi: "Xe bus", en: "City bus", ru: "Городской автобус" },
+    { k: "train", e: "🚆", vi: "Tàu hoả", en: "Train", ru: "Поезд" },
+    { k: "metro", e: "🚇", vi: "Tàu điện ngầm", en: "Metro", ru: "Метро" },
+    { k: "walk", e: "🚶", vi: "Đi bộ", en: "Walk", ru: "Пешком" },
+    { k: "boat", e: "🚢", vi: "Tàu thuỷ", en: "Boat", ru: "Паром" },
+    { k: "plane", e: "✈️", vi: "Máy bay", en: "Flight", ru: "Самолёт" },
+    { k: "bike", e: "🚲", vi: "Xe đạp", en: "Bike", ru: "Велосипед" },
+    { k: "other", e: "🎯", vi: "Khác", en: "Other", ru: "Другое" }
+  ];
+  function modeInfo(k) { for (var i = 0; i < MODES.length; i++) if (MODES[i].k === k) return MODES[i]; return MODES[0]; }
+  function modeLabel(m) { return m[RT.getLang()] || m.vi; }
+  var activeDay = 1, dayStart = {};   // ngày đang thao tác + giờ bắt đầu mỗi ngày
+  function dayStartOf(d) { return dayStart[d] || (d === 1 ? (trip.time || "08:00") : "08:00"); }
+  function maxDay() { var m = activeDay || 1; tour.forEach(function (s) { if ((s.day || 1) > m) m = s.day; }); return Math.max(1, m); }
+  function resortByDay() { tour.sort(function (a, b) { return (a.day || 1) - (b.day || 1); }); }   // ổn định theo ngày
+
+  function getPlace(pid) { return customPlaces[pid] || places.filter(function (x) { return x.id === pid; })[0] || null; }
+  function pcoord(p) { return p && p.coordinates ? p.coordinates : { lat: 0, lon: 0 }; }
+  function inTour(pid) { return tour.some(function (s) { return s.pid === pid; }); }
+  function newStop(pid) { return { uid: "s" + (++_uid), pid: pid, day: activeDay, stay: 90, travel: 30, mode: "car", note: "", cv: 0, cvu: "p", ct: 0, ctu: "g" }; }
+  function tourPlaces() { return tour.map(function (s) { return getPlace(s.pid); }).filter(Boolean); }
+  function stopIndex(uid) { for (var i = 0; i < tour.length; i++) if (tour[i].uid === uid) return i; return -1; }
+  function stopByUid(uid) { var i = stopIndex(uid); return i < 0 ? null : tour[i]; }
+
+  function addStop(pid) { if (!getPlace(pid)) return; if (tour.length && !tour[0].travel) tour[0].travel = 0; tour.push(newStop(pid)); afterChange(); }
+  function removeStop(uid) { tour = tour.filter(function (s) { return s.uid !== uid; }); afterChange(); }
+  function moveStop(uid, dir) {
+    var i = stopIndex(uid); if (i < 0) return;
+    var s = tour[i], idxs = [], k;
+    for (k = 0; k < tour.length; k++) if ((tour[k].day || 1) === (s.day || 1)) idxs.push(k);
+    var pos = idxs.indexOf(i), t;
+    if (dir < 0) {
+      if (pos > 0) { var j1 = idxs[pos - 1]; t = tour[i]; tour[i] = tour[j1]; tour[j1] = t; }
+      else if ((s.day || 1) > 1) { s.day = (s.day || 1) - 1; }
+      else return;
+    } else {
+      if (pos < idxs.length - 1) { var j2 = idxs[pos + 1]; t = tour[i]; tour[i] = tour[j2]; tour[j2] = t; }
+      else { s.day = (s.day || 1) + 1; if (s.day > activeDay) activeDay = s.day; }
+    }
+    resortByDay(); afterChange();
   }
+  function addCustom(name, lat, lon) {
+    var pid = "cust-" + (++_cust);
+    customPlaces[pid] = { id: pid, name_vi: name || ("Điểm tự thêm " + _cust), name_en: name || ("Custom point " + _cust), name_ru: name || ("Своя точка " + _cust), coordinates: { lat: +(+lat).toFixed(6), lon: +(+lon).toFixed(6) }, custom: true, categories: ["other"] };
+    tour.push(newStop(pid)); afterChange(); return pid;
+  }
+  function returnToStartDay(d) { if (!tour.length) return; var s = newStop(tour[0].pid); s.day = d || maxDay(); s.stay = 0; s.travel = 30; tour.push(s); resortByDay(); afterChange(); }
+  function addDay() { activeDay = maxDay() + 1; if (plannerOpen) renderPlanner(); }
+  function afterChange() { renderTour(); if (plannerOpen) renderPlanner(); drawRoute(); }
+
+  /* ---- thời gian ---- */
+  function parseHM(s) { var m = (s || "").match(/(\d{1,2}):(\d{2})/); return m ? (+m[1]) * 60 + (+m[2]) : 480; }
+  function fmtHM(min) { min = ((min % 1440) + 1440) % 1440; var h = Math.floor(min / 60), m = min % 60; return (h < 10 ? "0" : "") + h + ":" + (m < 10 ? "0" : "") + m; }
+  function timeline() {
+    var res = [], accByDay = {};
+    for (var i = 0; i < tour.length; i++) {
+      var s = tour[i], d = s.day || 1;
+      if (accByDay[d] == null) accByDay[d] = parseHM(dayStartOf(d));
+      accByDay[d] += (+s.travel || 0);
+      var arr = accByDay[d];
+      accByDay[d] += (+s.stay || 0);
+      res.push({ arr: arr, dep: accByDay[d], day: d });
+    }
+    return res;
+  }
+  function tripDays() { return maxDay(); }
+  function totals() {
+    var pax = Math.max(1, +trip.pax || 1), g = 0;
+    tour.forEach(function (s) {
+      g += (s.cvu === "p" ? (+s.cv || 0) * pax : (+s.cv || 0));
+      g += (s.ctu === "p" ? (+s.ct || 0) * pax : (+s.ct || 0));
+    });
+    var days = tripDays(), nights = Math.max(0, days - 1);
+    g += (trip.hotelU === "p" ? (+trip.hotel || 0) * pax : (+trip.hotel || 0)) * nights;
+    g += (trip.mealU === "p" ? (+trip.meal || 0) * pax : (+trip.meal || 0)) * days;
+    g += (trip.otherU === "p" ? (+trip.other || 0) * pax : (+trip.other || 0)) * days;
+    return { group: g, per: g / pax, days: days, nights: nights, pax: pax };
+  }
+  function money(n) { return Math.round(n).toLocaleString("vi-VN") + " " + trip.cur; }
+
+  /* ---- danh sách gọn ở thanh bên ---- */
   function renderTour() {
     document.getElementById("tourCount").textContent = tour.length;
     var wrap = document.getElementById("tourList");
-    var tp = tourPlaces();
-    if (!tp.length) { wrap.innerHTML = '<div class="tour-empty">Bấm “➕ Thêm vào tour” trên bản đồ để tạo lịch trình.</div>'; document.getElementById("tourStat").innerHTML = ""; drawRoute(); computeCost(); return; }
-    var perDay = Math.max(1, parseInt(document.getElementById("perDay").value) || 4);
-    var html = "";
-    tp.forEach(function (p, i) {
-      var day = Math.floor(i / perDay) + 1;
-      var segd = i > 0 ? RT.haversineKm(
-        { lat: tp[i - 1].coordinates.lat, lon: tp[i - 1].coordinates.lon },
-        { lat: p.coordinates.lat, lon: p.coordinates.lon }).toFixed(1) + " km" : "";
-      html += '<div class="tour-item">' +
-        '<div class="idx' + (i % perDay === 0 ? " day" : "") + '" title="Ngày ' + day + '">' + (i + 1) + '</div>' +
-        '<div style="flex:1;"><div><b>' + RT.escapeHtml(RT.t(p, "name")) + '</b></div>' +
-        '<div class="muted" style="font-size:11.5px;">Ngày ' + day + (segd ? ' · cách điểm trước ' + segd : '') + ' · ' + ((p.practical || {}).duration_vi || "") + '</div></div>' +
-        '<button class="btn sm" onclick="RTGIS.toggleTour(\'' + p.id + '\')" title="Bỏ">✕</button>' +
-      '</div>';
+    if (!tour.length) { wrap.innerHTML = '<div class="tour-empty">Bấm “➕ Thêm vào tour” trên bản đồ, hoặc mở <b>Bảng lịch trình</b> để thêm & sắp xếp điểm.</div>'; document.getElementById("tourStat").innerHTML = ""; drawRoute(); return; }
+    var tl = timeline(), html = "";
+    tour.forEach(function (s, i) {
+      var p = getPlace(s.pid); if (!p) return;
+      html += '<div class="tour-item"><div class="idx">' + (i + 1) + '</div>' +
+        '<div style="flex:1;min-width:0;"><b>' + RT.escapeHtml(RT.t(p, "name")) + '</b>' + (p.custom ? ' <span class="pl-tag">tự thêm</span>' : '') +
+        '<div class="muted" style="font-size:11px;">' + (tl[i] ? ("N" + tl[i].day + " · " + fmtHM(tl[i].arr) + "–" + fmtHM(tl[i].dep) + " · " + modeInfo(s.mode).e) : "") + '</div></div>' +
+        '<button class="btn sm" onclick="RTGIS.rmStop(\'' + s.uid + '\')" title="Bỏ">✕</button></div>';
     });
     wrap.innerHTML = html;
-    var totalKm = RT.routeDistanceKm(tp);
-    var totalVisit = tp.reduce(function (s, p) { return s + visitHours(p); }, 0);
-    var days = Math.ceil(tp.length / perDay);
-    document.getElementById("tourStat").innerHTML =
-      '<div class="tour-stat">🧮 <b>' + tp.length + '</b> điểm · <b>' + days + '</b> ngày · quãng đường (đường chim bay) <b>' + totalKm.toFixed(1) + ' km</b><br>⏱️ Tổng thời gian tham quan ~<b>' + totalVisit.toFixed(1) + ' giờ</b> <span class="muted">(chưa gồm di chuyển)</span></div>';
+    var t = totals(), km = RT.routeDistanceKm(tourPlaces());
+    document.getElementById("tourStat").innerHTML = '<div class="tour-stat">🧮 <b>' + tour.length + '</b> điểm · <b>' + t.days + '</b> ngày · ~<b>' + km.toFixed(0) + ' km</b><br>💰 <b>' + money(t.group) + '</b> cả đoàn · <b>' + money(t.per) + '</b>/người</div>';
     drawRoute();
-    computeCost();
   }
-  /* ---------- Ước tính chi phí đoàn ---------- */
-  function computeCost() {
-    var out = document.getElementById("costOut");
-    if (!out) return;
-    var tp = tourPlaces();
-    var perDay = Math.max(1, parseInt(document.getElementById("perDay").value) || 4);
-    var days = Math.ceil(tp.length / perDay);
-    if (!tp.length || !days) { out.innerHTML = '<span class="muted">Thêm điểm vào tour để ước tính chi phí.</span>'; return; }
-    var pax = Math.max(1, parseInt(document.getElementById("costPax").value) || 1);
-    var food = Math.max(0, parseFloat(document.getElementById("costFood").value) || 0);
-    var local = Math.max(0, parseFloat(document.getElementById("costLocal").value) || 0);
-    var hotelOn = document.getElementById("costHotelOn").checked;
-    var hotel = Math.max(0, parseFloat(document.getElementById("costHotel").value) || 0);
-    var estimate = days * (food + local) * pax + (hotelOn ? days * hotel : 0);
-    var vnd = Math.round(estimate * 337);
-    var perPax = Math.round(estimate / pax);
-    out.innerHTML =
-      'Ước tính chi phí đoàn: <b>' + estimate.toLocaleString() + ' ₽</b> ' +
-      '<span class="muted">(~' + vnd.toLocaleString() + ' ₫)</span> · ~<b>' + perPax.toLocaleString() + ' ₽/người</b>' +
-      '<div class="muted" style="font-size:11px;margin-top:2px;">' + days + ' ngày × ' + pax + ' khách' + (hotelOn ? ' · gồm khách sạn' : '') + '</div>';
-  }
+
+  /* ---- vẽ lộ trình + sơ đồ số trên bản đồ ---- */
   function drawRoute() {
-    if (routeLayer) { map.removeLayer(routeLayer); routeLayer = null; }
-    var tp = tourPlaces();
-    if (tp.length < 2) return;
-    var perDay = Math.max(1, parseInt(document.getElementById("perDay").value) || 4);
-    var dayColors = ["#1f3a5f", "#c8a24b", "#2E86DE", "#27AE60", "#E74C3C", "#7C5CFC", "#16A085", "#D6409F"];
-    var layers = [];
-    for (var i = 1; i < tp.length; i++) {
-      if (Math.floor(i / perDay) !== Math.floor((i - 1) / perDay)) continue; // không nối giữa 2 ngày
-      var day = Math.floor(i / perDay);
-      layers.push(L.polyline([
-        [tp[i - 1].coordinates.lat, tp[i - 1].coordinates.lon],
-        [tp[i].coordinates.lat, tp[i].coordinates.lon]
-      ], { color: dayColors[day % dayColors.length], weight: 3, opacity: .8, dashArray: "6,6" }));
+    if (routeLayer) { try { map.removeLayer(routeLayer); } catch (e) { } routeLayer = null; }
+    if (diagram.on) {
+      try { map.removeLayer(cluster); } catch (e) { }
+      try { Object.keys(_ringLayers).forEach(function (id) { try { map.removeLayer(_ringLayers[id]); } catch (e) { } }); } catch (e) { }
+    } else {
+      if (!map.hasLayer(cluster)) map.addLayer(cluster);
+      try { Object.keys(_ringLayers).forEach(function (id) { if (_ringOn[id] && _ringLayers[id] && !map.hasLayer(_ringLayers[id])) _ringLayers[id].addTo(map); }); } catch (e) { }
     }
+    var tp = tourPlaces(); if (!tp.length) return;
+    var layers = [], pts = tp.map(function (p) { return [pcoord(p).lat, pcoord(p).lon]; });
+    if (pts.length >= 2) {
+      layers.push(L.polyline(pts, { pane: "tour", color: "#e8514b", weight: 8, opacity: .18, lineCap: "round", lineJoin: "round" }));
+      layers.push(L.polyline(pts, { pane: "tour", color: "#e8514b", weight: 3.2, opacity: .95, lineCap: "round", lineJoin: "round", dashArray: diagram.on ? null : "7,7" }));
+    }
+    var seen = {};
+    tp.forEach(function (p, i) {
+      var c = pcoord(p), key = c.lat.toFixed(4) + "," + c.lon.toFixed(4);
+      var occ = (seen[key] = (seen[key] || 0) + 1) - 1;      // điểm trùng toạ độ (vd điểm 1 = điểm cuối)
+      var nm = diagram.names ? '<span class="t">' + RT.escapeHtml(RT.t(p, "name")) + '</span>' : "";
+      var html = '<div class="rt-badge' + (nm ? " wide" : "") + '" style="transform:translate(-50%,-50%) translateX(' + (occ * 26) + 'px)"><span class="n">' + (i + 1) + '</span>' + nm + '</div>';
+      layers.push(L.marker([c.lat, c.lon], { pane: "tour", interactive: false, icon: L.divIcon({ className: "rt-badge-wrap", html: html, iconSize: [0, 0] }) }));
+    });
     routeLayer = L.layerGroup(layers).addTo(map);
+  }
+  function toggleDiagram(on) { diagram.on = (on == null ? !diagram.on : on); drawRoute(); if (diagram.on && tourPlaces().length) fitTour(); }
+  function fitTour() { var tp = tourPlaces(); if (!tp.length) return; try { map.fitBounds(tp.map(function (p) { return [pcoord(p).lat, pcoord(p).lon]; }), { padding: [60, 60], maxZoom: 14 }); } catch (e) { } }
+
+  /* ---- Bảng lịch trình (modal) ---- */
+  var plannerOpen = false;
+  function openPlanner() { plannerOpen = true; document.getElementById("planner").classList.add("open"); renderPlanner(); }
+  function closePlanner() { plannerOpen = false; document.getElementById("planner").classList.remove("open"); }
+  function attrEsc(s) { return RT.escapeHtml(s || "").replace(/"/g, "&quot;"); }
+  function modeOpts(cur) { return MODES.map(function (m) { return '<option value="' + m.k + '"' + (m.k === cur ? " selected" : "") + '>' + m.e + " " + modeLabel(m) + "</option>"; }).join(""); }
+  function unitSel(uid, field, cur) { return '<select data-uid="' + uid + '" data-field="' + field + '"><option value="p"' + (cur === "p" ? " selected" : "") + '>×người</option><option value="g"' + (cur === "g" ? " selected" : "") + '>cả đoàn</option></select>'; }
+  function curOpts(cur) { return ["₽", "₫", "$", "€"].map(function (c) { return '<option' + (c === cur ? " selected" : "") + '>' + c + "</option>"; }).join(""); }
+
+  function rowHTML(s, i, firstOfDay) {
+    var p = getPlace(s.pid); if (!p) return "";
+    return '<div class="pl-row" data-uid="' + s.uid + '">' +
+      '<div class="pl-num">' + (i + 1) + '</div><div class="pl-main">' +
+      '<div class="pl-r1">' +
+      (p.custom ? '<input class="pl-name" data-uid="' + s.uid + '" data-field="name" value="' + attrEsc(RT.t(p, "name")) + '"/>' : '<span class="pl-name ro">' + RT.escapeHtml(RT.t(p, "name")) + '</span>') +
+      (p.custom ? ' <span class="pl-tag">tự thêm</span>' : '') +
+      '<span class="pl-time" data-timeuid="' + s.uid + '"></span></div>' +
+      '<div class="pl-r2">' +
+      '<label class="pl-f">' + (firstOfDay ? "Từ xuất phát" : "Di chuyển") + ' <select data-uid="' + s.uid + '" data-field="mode">' + modeOpts(s.mode) + '</select></label>' +
+      '<label class="pl-f">⏱ đi <input type="number" min="0" step="5" data-uid="' + s.uid + '" data-field="travel" value="' + (+s.travel || 0) + '"/> ph</label>' +
+      '<label class="pl-f">🅿 tham quan <input type="number" min="0" step="15" data-uid="' + s.uid + '" data-field="stay" value="' + (+s.stay || 0) + '"/> ph</label></div>' +
+      '<div class="pl-r2">' +
+      '<label class="pl-f">🎟 Vé/tham quan <input type="number" min="0" step="100" data-uid="' + s.uid + '" data-field="cv" value="' + (+s.cv || 0) + '"/>' + unitSel(s.uid, "cvu", s.cvu) + '</label>' +
+      '<label class="pl-f">🚕 Chi phí đi <input type="number" min="0" step="100" data-uid="' + s.uid + '" data-field="ct" value="' + (+s.ct || 0) + '"/>' + unitSel(s.uid, "ctu", s.ctu) + '</label></div>' +
+      '<div class="pl-r3"><textarea class="pl-note" data-uid="' + s.uid + '" data-field="note" placeholder="Ghi chú / thuyết minh ngắn về điểm này...">' + RT.escapeHtml(s.note || "") + '</textarea>' +
+      (!p.custom ? '<button class="btn sm" data-op="fill" data-uid="' + s.uid + '" title="Lấy thuyết minh có sẵn">📖</button>' : '') + '</div>' +
+      '</div><div class="pl-ops"><button data-op="up" data-uid="' + s.uid + '" title="Lên / ngày trước">▲</button><button data-op="down" data-uid="' + s.uid + '" title="Xuống / ngày sau">▼</button><button data-op="rm" data-uid="' + s.uid + '" class="rm" title="Xoá">✕</button></div></div>';
+  }
+  function renderPlanner() {
+    var body = document.getElementById("plBody"); if (!body) return;
+    var h = '';
+    // ---- Thông tin đoàn ----
+    h += '<div class="pl-card"><div class="pl-h">👥 Thông tin đoàn & xuất phát</div><div class="pl-grid">' +
+      '<label>Tên đoàn / lịch trình<input data-tfield="name" value="' + attrEsc(trip.name) + '" placeholder="VD: Đoàn Hà Nội – Moskva"/></label>' +
+      '<label>Số khách<input type="number" min="1" step="1" data-tfield="pax" value="' + (trip.pax || 1) + '"/></label>' +
+      '<label>Tiền tệ<select data-tfield="cur">' + curOpts(trip.cur) + '</select></label>' +
+      '<label>Ngày xuất phát<input type="date" data-tfield="date" value="' + attrEsc(trip.date) + '"/></label>' +
+      '<label>Giờ xuất phát<input type="time" data-tfield="time" value="' + attrEsc(trip.time) + '"/></label>' +
+      '<label>Điểm xuất phát<input data-tfield="startName" value="' + attrEsc(trip.startName) + '" placeholder="VD: Khách sạn ..."/></label>' +
+      '</div></div>';
+    // ---- Chi phí chung ----
+    h += '<div class="pl-card"><div class="pl-h">💵 Chi phí chung (tuỳ chọn)</div><div class="pl-grid">' +
+      '<label>Khách sạn/đêm<span class="pl-inl"><input type="number" min="0" step="100" data-tfield="hotel" value="' + (trip.hotel || 0) + '"/>' + unitSelT("hotelU", trip.hotelU) + '</span></label>' +
+      '<label>Ăn uống/ngày<span class="pl-inl"><input type="number" min="0" step="100" data-tfield="meal" value="' + (trip.meal || 0) + '"/>' + unitSelT("mealU", trip.mealU) + '</span></label>' +
+      '<label>Khác/ngày<span class="pl-inl"><input type="number" min="0" step="100" data-tfield="other" value="' + (trip.other || 0) + '"/>' + unitSelT("otherU", trip.otherU) + '</span></label>' +
+      '</div></div>';
+    // ---- Thêm điểm ----
+    h += '<div class="pl-add"><b>➕ Thêm điểm (vào ngày ' + maxDay() + '):</b>' +
+      '<button class="btn sm" data-op="add-map">📍 Chọn trên bản đồ</button>' +
+      '<button class="btn sm" data-op="add-coord">🧭 Theo toạ độ</button>' +
+      '<button class="btn sm" data-op="add-addr">🏠 Theo địa chỉ</button>' +
+      '<span class="muted" style="font-size:12px;">· hoặc bấm “➕ Thêm vào tour” trên bản đồ</span></div>';
+    // ---- Các điểm theo NGÀY ----
+    var md = maxDay();
+    if (!tour.length && md <= 1) {
+      h += '<div class="tour-empty" style="padding:18px 4px;">Chưa có điểm nào. Thêm điểm từ bản đồ hoặc các nút ở trên.</div>';
+    }
+    for (var d = 1; d <= md; d++) {
+      var hasStops = tour.some(function (x) { return (x.day || 1) === d; });
+      h += '<div class="pl-day"><span class="pl-day-t">🗓 NGÀY ' + d + '</span>' +
+        '<label class="pl-day-start">bắt đầu <input type="time" data-daystart="' + d + '" value="' + attrEsc(dayStartOf(d)) + '"/></label>' +
+        (hasStops ? '<button class="btn sm" data-op="return-day" data-day="' + d + '">🏨 Về điểm 1 (kết thúc ngày)</button>' : '') + '</div>';
+      if (!hasStops) { h += '<div class="tour-empty" style="padding:6px 4px 10px;">Ngày ' + d + ' chưa có điểm — bấm “Thêm điểm” (đang thêm vào ngày ' + md + ').</div>'; continue; }
+      var firstDone = false;
+      tour.forEach(function (s, i) { if ((s.day || 1) !== d) return; h += rowHTML(s, i, !firstDone); firstDone = true; });
+    }
+    h += '<div class="pl-add" style="justify-content:center;margin-top:6px;"><button class="btn sm primary" data-op="add-day">➕ Thêm ngày mới (ngày ' + (md + 1) + ')</button></div>';
+    h += '<div class="pl-tot" id="plTot"></div>';
+    body.innerHTML = h;
+    refreshDerived();
+  }
+  function unitSelT(field, cur) { return '<select data-tfield="' + field + '"><option value="p"' + (cur === "p" ? " selected" : "") + '>×người</option><option value="g"' + (cur === "g" ? " selected" : "") + '>cả đoàn</option></select>'; }
+
+  function refreshDerived() {
+    var tl = timeline();
+    tour.forEach(function (s, i) {
+      var el = document.querySelector('[data-timeuid="' + s.uid + '"]');
+      if (el && tl[i]) el.textContent = "🕘 đến " + fmtHM(tl[i].arr) + " – rời " + fmtHM(tl[i].dep);
+    });
+    var t = totals(), km = RT.routeDistanceKm(tourPlaces());
+    var tot = document.getElementById("plTot");
+    if (tot) tot.innerHTML = tour.length ? ('<div class="pl-tot-row"><span>Tổng quãng đường (chim bay)</span><b>' + km.toFixed(0) + ' km</b></div>' +
+      '<div class="pl-tot-row"><span>Số ngày · số đêm</span><b>' + t.days + ' ngày · ' + t.nights + ' đêm</b></div>' +
+      '<div class="pl-tot-row big"><span>TỔNG mỗi người</span><b>' + money(t.per) + '</b></div>' +
+      '<div class="pl-tot-row big gold"><span>TỔNG cả đoàn (' + t.pax + ' khách)</span><b>' + money(t.group) + '</b></div>') : "";
+    renderTour();
+  }
+
+  function onPlInput(e) {
+    var el = e.target, tf = el.getAttribute("data-tfield"), uid = el.getAttribute("data-uid"), f = el.getAttribute("data-field");
+    var ds = el.getAttribute("data-daystart");
+    if (ds) { dayStart[+ds] = el.value; refreshDerived(); return; }
+    if (tf) {
+      var numT = { pax: 1, hotel: 1, meal: 1, other: 1 };
+      trip[tf] = (tf in numT) ? (parseFloat(el.value) || 0) : el.value;
+      refreshDerived();
+    } else if (uid && f) {
+      var s = stopByUid(uid); if (!s) return;
+      if (f === "name") { var p = getPlace(s.pid); if (p && p.custom) { p.name_vi = p.name_en = p.name_ru = el.value; } }
+      else if (f === "travel" || f === "stay" || f === "cv" || f === "ct") { s[f] = parseFloat(el.value) || 0; }
+      else { s[f] = el.value; }
+      refreshDerived();
+    }
+  }
+  function onPlClick(e) {
+    var b = e.target.closest("button"); if (!b) return;
+    var op = b.getAttribute("data-op"), uid = b.getAttribute("data-uid");
+    if (op === "up") moveStop(uid, -1);
+    else if (op === "down") moveStop(uid, 1);
+    else if (op === "rm") removeStop(uid);
+    else if (op === "add-day") addDay();
+    else if (op === "return-day") returnToStartDay(+b.getAttribute("data-day"));
+    else if (op === "fill") { var s = stopByUid(uid); var p = s && getPlace(s.pid); if (p) { s.note = RT.t(p, "presentation_short") || RT.t(p, "presentation_long") || ""; renderPlanner(); } }
+    else if (op === "add-coord") {
+      var v = prompt("Nhập toạ độ (vĩ độ, kinh độ):", "");
+      if (v) { var m = v.match(/(-?\d+(?:\.\d+)?)\s*,\s*(-?\d+(?:\.\d+)?)/); if (m) { var nm = prompt("Tên điểm:", "") || ""; addCustom(nm, +m[1], +m[2]); } else alert("Sai định dạng. Ví dụ: 55.7558, 37.6176"); }
+    }
+    else if (op === "add-addr") {
+      var q = prompt("Nhập địa chỉ / tên nơi cần tìm:", ""); if (!q) return;
+      b.textContent = "⏳ Đang tìm..."; b.disabled = true;
+      fetch("https://nominatim.openstreetmap.org/search?format=json&limit=1&q=" + encodeURIComponent(q))
+        .then(function (r) { return r.json(); })
+        .then(function (a) { if (a && a[0]) addCustom(q, +a[0].lat, +a[0].lon); else alert("Không tìm thấy địa chỉ."); })
+        .catch(function () { alert("Lỗi tra địa chỉ (cần kết nối mạng)."); })
+        .then(function () { b.textContent = "🏠 Theo địa chỉ"; b.disabled = false; });
+    }
+    else if (op === "add-map") { pickMode = true; closePlanner(); showToast("Bấm lên bản đồ để chọn điểm thêm vào lịch trình…"); }
+  }
+  function showToast(msg) {
+    var t = document.getElementById("mapToast"); if (!t) return;
+    t.textContent = msg; t.style.display = "block";
+    clearTimeout(showToast._t); showToast._t = setTimeout(function () { t.style.display = "none"; }, 4000);
+  }
+
+  /* ---- dữ liệu xuất ---- */
+  function itinRows() {
+    var tl = timeline();
+    return tour.map(function (s, i) {
+      var p = getPlace(s.pid), c = pcoord(p);
+      return { i: i + 1, name: RT.t(p, "name"), lat: c.lat, lon: c.lon, day: tl[i].day,
+        arr: fmtHM(tl[i].arr), dep: fmtHM(tl[i].dep), mode: modeInfo(s.mode), travel: +s.travel || 0, stay: +s.stay || 0,
+        cv: +s.cv || 0, cvu: s.cvu, ct: +s.ct || 0, ctu: s.ctu, note: s.note || "" };
+    });
+  }
+  function tripTitle() { return trip.name || "Lịch trình du lịch"; }
+  function buildText() {
+    var t = totals(), rows = itinRows(), L = [];
+    L.push("═══ " + tripTitle().toUpperCase() + " ═══");
+    L.push("Đoàn: " + t.pax + " khách" + (trip.date ? " · Khởi hành: " + trip.date + " " + trip.time : "") + (trip.startName ? " · Từ: " + trip.startName : ""));
+    L.push(t.days + " ngày " + t.nights + " đêm · " + RT.routeDistanceKm(tourPlaces()).toFixed(0) + " km");
+    L.push("");
+    var curDay = 0;
+    rows.forEach(function (r) {
+      if (r.day !== curDay) { curDay = r.day; L.push("── NGÀY " + curDay + " ──"); }
+      L.push(r.i + ". [" + r.arr + "–" + r.dep + "] " + r.name + "  (" + r.mode.e + " " + modeLabel(r.mode) + " " + r.travel + "′, tham quan " + r.stay + "′)");
+      var cost = [];
+      if (r.cv) cost.push("vé " + r.cv + (r.cvu === "p" ? "/người" : "/đoàn"));
+      if (r.ct) cost.push("đi " + r.ct + (r.ctu === "p" ? "/người" : "/đoàn"));
+      if (cost.length) L.push("     💰 " + cost.join(" · "));
+      if (r.note) L.push("     📝 " + r.note);
+    });
+    L.push("");
+    L.push("TỔNG: " + money(t.per) + "/người · " + money(t.group) + " cả đoàn");
+    L.push("Tạo bởi Cẩm nang Du lịch · lopmaybay@gmail.com · fb.com/lopmaybay");
+    return L.join("\n");
+  }
+  function buildHTML() {
+    var t = totals(), rows = itinRows();
+    var css = "body{font-family:Segoe UI,Arial,sans-serif;color:#1c2431;max-width:820px;margin:auto;padding:20px}h1{color:#16293f;margin:0 0 4px}.sub{color:#667085;margin-bottom:14px}table{border-collapse:collapse;width:100%;font-size:13px}th,td{border:1px solid #dfe3ea;padding:7px 8px;text-align:left;vertical-align:top}th{background:#16293f;color:#fff}tr:nth-child(even) td{background:#f6f8fb}.day{background:#e0a51f22;font-weight:700}.tot{margin-top:14px;font-size:15px}.tot b{color:#16293f}.ft{margin-top:16px;color:#667085;font-size:12px}";
+    var h = '<h1>' + RT.escapeHtml(tripTitle()) + '</h1><div class="sub">' + t.pax + ' khách · ' + t.days + ' ngày ' + t.nights + ' đêm' + (trip.date ? ' · Khởi hành ' + RT.escapeHtml(trip.date) + ' ' + RT.escapeHtml(trip.time) : "") + (trip.startName ? ' · Từ ' + RT.escapeHtml(trip.startName) : "") + '</div>';
+    h += '<table><tr><th>#</th><th>Đến–Rời</th><th>Địa điểm</th><th>Di chuyển</th><th>Vé</th><th>Chi phí đi</th><th>Ghi chú</th></tr>';
+    var curDay = 0;
+    rows.forEach(function (r) {
+      if (r.day !== curDay) { curDay = r.day; h += '<tr class="day"><td colspan="7">🗓 NGÀY ' + curDay + '</td></tr>'; }
+      h += '<tr><td>' + r.i + '</td><td>' + r.arr + '–' + r.dep + '</td><td><b>' + RT.escapeHtml(r.name) + '</b></td>' +
+        '<td>' + r.mode.e + ' ' + modeLabel(r.mode) + '<br>' + r.travel + '′ đi · ' + r.stay + '′ tham quan</td>' +
+        '<td>' + (r.cv ? r.cv + (r.cvu === "p" ? "/ng" : "/đoàn") : "") + '</td><td>' + (r.ct ? r.ct + (r.ctu === "p" ? "/ng" : "/đoàn") : "") + '</td>' +
+        '<td>' + RT.escapeHtml(r.note) + '</td></tr>';
+    });
+    h += '</table><div class="tot">Tổng mỗi người: <b>' + money(t.per) + '</b> · Tổng cả đoàn: <b>' + money(t.group) + '</b></div>';
+    h += '<div class="ft">Tạo bởi Cẩm nang Du lịch · lopmaybay@gmail.com · fb.com/lopmaybay · <i>File này có thể mở lại trong bản đồ (nút “Mở/Nhập”) để chỉnh sửa.</i></div>';
+    var data = JSON.stringify(tripState()).replace(/</g, "\\u003c");
+    h += '<scr' + 'ipt type="application/json" id="tripdata">' + data + '</scr' + 'ipt>';
+    return "<!doctype html><html lang=vi><head><meta charset=utf-8><title>" + RT.escapeHtml(tripTitle()) + "</title><style>" + css + "</style></head><body>" + h + "</body></html>";
+  }
+  function dl(content, type, name) { var b = new Blob([content], { type: type }); var a = document.createElement("a"); a.href = URL.createObjectURL(b); a.download = name; document.body.appendChild(a); a.click(); a.remove(); }
+  function slugName() { return (tripTitle().normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/[^a-zA-Z0-9]+/g, "-").toLowerCase() || "lich-trinh"); }
+  function exportCSV() {
+    var rows = itinRows(), t = totals();
+    var out = [["STT", "Ngay", "Den", "Roi", "Dia_diem", "Lat", "Lon", "Phuong_tien", "Di_phut", "O_lai_phut", "Ve", "Ve_don_vi", "Chi_phi_di", "Di_don_vi", "Ghi_chu"]];
+    rows.forEach(function (r) { out.push([r.i, r.day, r.arr, r.dep, r.name, r.lat, r.lon, modeLabel(r.mode), r.travel, r.stay, r.cv, r.cvu === "p" ? "nguoi" : "doan", r.ct, r.ctu === "p" ? "nguoi" : "doan", r.note]); });
+    out.push([]); out.push(["", "", "", "", "TONG/nguoi", "", "", "", "", "", "", "", "", "", Math.round(t.per)]);
+    out.push(["", "", "", "", "TONG ca doan", "", "", "", "", "", "", "", "", "", Math.round(t.group)]);
+    var csv = "﻿" + out.map(function (r) { return r.map(function (c) { return '"' + String(c == null ? "" : c).replace(/"/g, '""') + '"'; }).join(","); }).join("\n");
+    dl(csv, "text/csv;charset=utf-8;", slugName() + ".csv");
+  }
+  function exportWordDoc() { dl("﻿" + buildHTML(), "application/msword", slugName() + ".doc"); }
+  function exportHTMLfile() { dl(buildHTML(), "text/html;charset=utf-8;", slugName() + ".html"); }
+  function copyText() { var txt = buildText(); if (navigator.clipboard) navigator.clipboard.writeText(txt).then(function () { showToast("✓ Đã sao chép lịch trình!"); }, function () { prompt("Sao chép:", txt); }); else prompt("Sao chép:", txt); }
+  function buildSVG() {
+    var rows = itinRows(), t = totals(), esc = RT.escapeHtml;
+    var longest = 0; rows.forEach(function (r) { if ((r.name || "").length > longest) longest = r.name.length; });
+    var W = Math.round(Math.max(780, 175 + longest * 9.6)); if (W > 1500) W = 1500;
+    var rowH = 60, top = 108, dayH = 34, x = 48;
+    var H = top + rows.length * rowH + t.days * dayH + 78;
+    var s = '<svg xmlns="http://www.w3.org/2000/svg" width="' + W + '" height="' + H + '" viewBox="0 0 ' + W + ' ' + H + '" font-family="Segoe UI,Arial,sans-serif">';
+    s += '<rect width="' + W + '" height="' + H + '" fill="#ffffff"/>';
+    s += '<rect width="' + W + '" height="72" fill="#16293f"/>';
+    s += '<text x="24" y="32" fill="#fff" font-size="21" font-weight="700">' + esc(tripTitle()) + '</text>';
+    s += '<text x="24" y="56" fill="#c8d3e6" font-size="13">' + t.pax + ' khách · ' + t.days + ' ngày ' + t.nights + ' đêm' + (trip.date ? ' · KH ' + esc(trip.date) + ' ' + esc(trip.time) : "") + ' · ' + money(t.group) + ' cả đoàn</text>';
+    var y = top, curDay = 0;
+    rows.forEach(function (r, i) {
+      if (r.day !== curDay) {
+        curDay = r.day;
+        s += '<rect x="16" y="' + (y - 21) + '" width="' + (W - 32) + '" height="27" rx="6" fill="#eef2f8"/>';
+        s += '<text x="27" y="' + (y - 2) + '" font-size="14" font-weight="800" fill="#0f2138">NGÀY ' + curDay + '  ·  bắt đầu ' + esc(dayStartOf(curDay)) + '</text>';
+        y += dayH;
+      }
+      if (i > 0 && rows[i - 1].day === r.day) s += '<line x1="' + x + '" y1="' + (y - rowH + 18) + '" x2="' + x + '" y2="' + (y - 4) + '" stroke="#e0a51f" stroke-width="3"/>';
+      s += '<circle cx="' + x + '" cy="' + y + '" r="16" fill="#e8514b"/>';
+      s += '<text x="' + x + '" y="' + (y + 5) + '" fill="#fff" font-size="14" font-weight="700" text-anchor="middle">' + r.i + '</text>';
+      s += '<text x="' + (x + 32) + '" y="' + (y - 2) + '" font-size="15" font-weight="700" fill="#16293f">' + esc(r.name) + '</text>';
+      var sub = r.arr + '–' + r.dep + ' · ' + r.mode.e + ' ' + modeLabel(r.mode) + ' ' + r.travel + '′ · tham quan ' + r.stay + '′';
+      var cost = []; if (r.cv) cost.push('vé ' + r.cv + (r.cvu === "p" ? "/ng" : "/đoàn")); if (r.ct) cost.push('đi ' + r.ct + (r.ctu === "p" ? "/ng" : "/đoàn"));
+      if (cost.length) sub += ' · 💰 ' + cost.join(" · ");
+      s += '<text x="' + (x + 32) + '" y="' + (y + 17) + '" font-size="12.5" fill="#667085">' + esc(sub) + '</text>';
+      y += rowH;
+    });
+    s += '<text x="24" y="' + (y + 26) + '" font-size="13.5" font-weight="700" fill="#16293f">TỔNG: ' + money(t.per) + '/người  ·  ' + money(t.group) + ' cả đoàn</text>';
+    s += '<text x="24" y="' + (y + 46) + '" font-size="11.5" fill="#8a97a8">Cẩm nang Du lịch · lopmaybay@gmail.com · fb.com/lopmaybay</text>';
+    s += '</svg>';
+    return s;
+  }
+  function exportSVG() { if (!tour.length) return; dl(buildSVG(), "image/svg+xml;charset=utf-8;", slugName() + "-so-do.svg"); }
+  function svgToCanvas(cb) {
+    var img = new Image();
+    img.onload = function () {
+      var sc = 2, c = document.createElement("canvas");
+      c.width = (img.naturalWidth || 800) * sc; c.height = (img.naturalHeight || 600) * sc;
+      var ctx = c.getContext("2d"); ctx.fillStyle = "#fff"; ctx.fillRect(0, 0, c.width, c.height); ctx.scale(sc, sc); ctx.drawImage(img, 0, 0);
+      cb(c);
+    };
+    img.onerror = function () { alert("Không tạo được ảnh từ sơ đồ."); };
+    img.src = "data:image/svg+xml;charset=utf-8," + encodeURIComponent(buildSVG());
+  }
+  function dlBlob(blob, name) { var a = document.createElement("a"); a.href = URL.createObjectURL(blob); a.download = name; document.body.appendChild(a); a.click(); a.remove(); }
+  function exportPNG() { if (!tour.length) return; svgToCanvas(function (c) { c.toBlob(function (b) { dlBlob(b, slugName() + "-so-do.png"); }, "image/png"); }); }
+  function exportJPEG() { if (!tour.length) return; svgToCanvas(function (c) { c.toBlob(function (b) { dlBlob(b, slugName() + "-so-do.jpg"); }, "image/jpeg", 0.92); }); }
+  function ensureJsPDF(cb) {
+    if (window.jspdf && window.jspdf.jsPDF) return cb(true);
+    var sc = document.createElement("script"); sc.src = "https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js";
+    sc.onload = function () { cb(!!(window.jspdf && window.jspdf.jsPDF)); }; sc.onerror = function () { cb(false); };
+    document.head.appendChild(sc);
+  }
+  function exportPDF() {
+    if (!tour.length) return;
+    svgToCanvas(function (c) {
+      var png = c.toDataURL("image/png"), wpt = c.width / 2, hpt = c.height / 2;
+      ensureJsPDF(function (ok) {
+        if (ok) { var pdf = new window.jspdf.jsPDF({ orientation: wpt > hpt ? "l" : "p", unit: "pt", format: [wpt, hpt] }); pdf.addImage(png, "PNG", 0, 0, wpt, hpt); pdf.save(slugName() + ".pdf"); }
+        else { var w = window.open("", "_blank"); if (w) { w.document.write('<title>' + slugName() + '</title><img src="' + png + '" style="width:100%"/>'); w.document.close(); w.focus(); setTimeout(function () { try { w.print(); } catch (e) { } }, 500); } else alert("Không tải được thư viện PDF (cần mạng)."); }
+      });
+    });
+  }
+  function tripState() { return { v: 1, trip: trip, tour: tour, custom: customPlaces, dayStart: dayStart, activeDay: activeDay }; }
+  function saveJSON() { dl(JSON.stringify(tripState()), "application/json;charset=utf-8;", slugName() + ".json"); }
+  function applyState(st) {
+    if (!st || !st.trip || !st.tour) { alert("File không chứa dữ liệu lịch trình hợp lệ."); return; }
+    trip = st.trip; tour = st.tour; customPlaces = st.custom || {}; dayStart = st.dayStart || {}; activeDay = st.activeDay || 1;
+    var mu = 0, mc = 0;
+    tour.forEach(function (s) { var n = parseInt((s.uid || "").replace(/\D/g, ""), 10) || 0; if (n > mu) mu = n; });
+    Object.keys(customPlaces).forEach(function (k) { var n = parseInt(k.replace(/\D/g, ""), 10) || 0; if (n > mc) mc = n; });
+    _uid = mu; _cust = mc;
+    afterChange(); if (!plannerOpen) openPlanner(); else renderPlanner();
+    showToast("✓ Đã nhập lịch trình — có thể chỉnh sửa.");
+  }
+  function importFile(file) {
+    if (!file) return;
+    var r = new FileReader();
+    r.onload = function () {
+      var txt = String(r.result || ""), st = null, m = txt.match(/id="tripdata"[^>]*>([\s\S]*?)<\/scr/i);
+      if (m) { try { st = JSON.parse(m[1].replace(/\\u003c/g, "<")); } catch (e) { } }
+      if (!st) { try { st = JSON.parse(txt); } catch (e) { } }
+      if (!st) { alert("Không đọc được dữ liệu lịch trình (chọn file .json đã lưu hoặc .html đã xuất)."); return; }
+      applyState(st);
+    };
+    r.readAsText(file);
   }
 
   /* ---------- API popup ---------- */
@@ -716,11 +1153,17 @@
       RT.TTS.speak(RT.t(p, "presentation_long") || RT.t(p, "presentation_short"), { id: id, lang: RT.getLang() });
     },
     toggleTour: function (id) {
-      var i = tour.indexOf(id);
-      if (i >= 0) tour.splice(i, 1); else tour.push(id);
-      renderTour();
+      if (inTour(id)) { tour = tour.filter(function (s) { return s.pid !== id; }); }
+      else { tour.push(newStop(id)); }
+      afterChange();
       if (markers[id]) markers[id].setPopupContent(popupHTML(places.filter(function (x) { return x.id === id; })[0]));
     },
+    rmStop: function (uid) {
+      var s = stopByUid(uid), pid = s && s.pid;
+      removeStop(uid);
+      if (pid && markers[pid] && !inTour(pid)) markers[pid].setPopupContent(popupHTML(getPlace(pid)));
+    },
+    openPlanner: function () { openPlanner(); },
     detail: function (id) {
       var p = places.filter(function (x) { return x.id === id; })[0];
       if (!p) return;
@@ -938,11 +1381,7 @@
   };
   document.getElementById("minStar").oninput = function () { document.getElementById("starVal").textContent = this.value; renderMarkers(); };
   document.getElementById("showLabels").onchange = function () { labelsOn = this.checked; renderMarkers(); };
-  document.getElementById("perDay").oninput = renderTour;
-  ["costPax", "costFood", "costLocal", "costHotel"].forEach(function (cid) {
-    var el = document.getElementById(cid); if (el) el.oninput = computeCost;
-  });
-  document.getElementById("costHotelOn").onchange = computeCost;
+  // (phần ước tính chi phí/ngày cũ đã được thay bằng Bảng lịch trình chi tiết)
   // Đóng gợi ý khi bấm ra ngoài
   document.addEventListener("mousedown", function (e) {
     var w = document.querySelector(".q-wrap");
@@ -1042,38 +1481,47 @@
     });
   })();
   document.getElementById("optimize").onclick = function () {
-    var tp = tourPlaces();
-    if (tp.length < 2) return;
+    var tp = tourPlaces(); if (tp.length < 2) return;
     var ordered = RT.nearestRoute(tp, 0);
-    tour = ordered.map(function (p) { return p.id; });
-    renderTour();
+    var byId = {}; tour.forEach(function (s) { (byId[s.pid] = byId[s.pid] || []).push(s); });
+    var used = {}, newTour = [];
+    ordered.forEach(function (p) { var arr = byId[p.id] || [], k = used[p.id] || 0; if (arr[k]) { newTour.push(arr[k]); used[p.id] = k + 1; } });
+    tour.forEach(function (s) { if (newTour.indexOf(s) < 0) newTour.push(s); });
+    tour = newTour; afterChange();
   };
-  document.getElementById("clearTour").onclick = function () { tour = []; renderTour(); };
-  document.getElementById("copyPlan").onclick = function () {
-    var tp = tourPlaces(); if (!tp.length) return;
-    var perDay = Math.max(1, parseInt(document.getElementById("perDay").value) || 4);
-    var lines = ["LỊCH TRÌNH DU LỊCH — Cẩm nang Du lịch", ""];
-    tp.forEach(function (p, i) {
-      if (i % perDay === 0) lines.push("— NGÀY " + (Math.floor(i / perDay) + 1) + " —");
-      lines.push((i + 1) + ". " + p.name_vi + "  [" + ((p.rating || {}).value || "?") + "★] · " + ((p.practical || {}).duration_vi || "") + " · " + (p.maps ? p.maps.google : ""));
-    });
-    lines.push(""); lines.push("Tạo bởi lopmaybay@gmail.com · fb.com/lopmaybay");
-    var txt = lines.join("\n");
-    navigator.clipboard && navigator.clipboard.writeText(txt).then(function () { alert("Đã sao chép lịch trình vào clipboard!"); }, function () { prompt("Sao chép lịch trình:", txt); });
-  };
-  document.getElementById("exportCsv").onclick = function () {
-    var tp = tourPlaces(); if (!tp.length) return;
-    var perDay = Math.max(1, parseInt(document.getElementById("perDay").value) || 4);
-    var rows = [["Ngay", "Thu_tu", "Ten", "Sao", "Thoi_luong", "Gia_ve", "Yandex", "Google", "Lat", "Lon"]];
-    tp.forEach(function (p, i) {
-      rows.push([Math.floor(i / perDay) + 1, i + 1, p.name_vi, (p.rating || {}).value || "",
-        (p.practical || {}).duration_vi || "", (p.practical || {}).ticket_vi || "",
-        (p.maps || {}).yandex || "", (p.maps || {}).google || "", p.coordinates.lat, p.coordinates.lon]);
-    });
-    var csv = "﻿" + rows.map(function (r) { return r.map(function (c) { return '"' + String(c).replace(/"/g, '""') + '"'; }).join(","); }).join("\n");
-    var blob = new Blob([csv], { type: "text/csv;charset=utf-8;" });
-    var a = document.createElement("a"); a.href = URL.createObjectURL(blob); a.download = "lich-trinh-tour.csv"; a.click();
-  };
+  document.getElementById("clearTour").onclick = function () { if (tour.length && !confirm("Xoá toàn bộ lịch trình?")) return; tour = []; customPlaces = {}; afterChange(); };
+  document.getElementById("openPlanner").onclick = openPlanner;
+  document.getElementById("diagBtn").onclick = function () { toggleDiagram(); this.classList.toggle("primary", diagram.on); };
+  document.getElementById("namesBtn").onclick = function () { diagram.names = !diagram.names; this.classList.toggle("primary", diagram.names); this.textContent = diagram.names ? "🔢+tên" : "🔢 chỉ số"; drawRoute(); };
+  // Bảng lịch trình (modal)
+  document.getElementById("plClose").onclick = closePlanner;
+  var plBodyEl = document.getElementById("plBody");
+  plBodyEl.addEventListener("input", onPlInput);
+  plBodyEl.addEventListener("change", onPlInput);
+  plBodyEl.addEventListener("click", onPlClick);
+  document.getElementById("plCopy").onclick = copyText;
+  document.getElementById("plCsv").onclick = exportCSV;
+  document.getElementById("plHtml").onclick = exportHTMLfile;
+  document.getElementById("plWord").onclick = exportWordDoc;
+  document.getElementById("plSvg").onclick = exportSVG;
+  document.getElementById("plPdf").onclick = exportPDF;
+  document.getElementById("plPng").onclick = exportPNG;
+  document.getElementById("plJpg").onclick = exportJPEG;
+  document.getElementById("plSave").onclick = saveJSON;
+  document.getElementById("plImport").onchange = function () { if (this.files && this.files[0]) importFile(this.files[0]); this.value = ""; };
+  document.getElementById("plOptimize").onclick = function () { document.getElementById("optimize").onclick(); };
+  document.getElementById("plDiagram").onclick = function () { toggleDiagram(true); document.getElementById("diagBtn").classList.add("primary"); closePlanner(); showToast("Đang hiện SƠ ĐỒ trên bản đồ — chụp màn hình để lưu. Bấm nút ‘Sơ đồ’ ở thanh bên để tắt."); };
+  document.getElementById("plNames").onclick = function () { diagram.names = !diagram.names; this.classList.toggle("primary", diagram.names); this.textContent = diagram.names ? "🔢+tên" : "🔢 chỉ số"; drawRoute(); };
+  document.getElementById("plClearBtn").onclick = function () { document.getElementById("clearTour").onclick(); };
+  // Chọn điểm trên bản đồ để thêm vào lịch trình
+  map.on("click", function (e) {
+    if (!pickMode) return;
+    pickMode = false;
+    var nm = prompt("Tên điểm mới (có thể để trống):", "");
+    addCustom(nm || "", e.latlng.lat, e.latlng.lng);
+    showToast("✓ Đã thêm điểm vào lịch trình.");
+    openPlanner();
+  });
 
   buildLangSwitch();
   fillCountries();                                   // mặc định chọn 'russia'

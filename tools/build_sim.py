@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""build_sim.py — MÔ PHỎNG HÀNH TRÌNH TRỰC QUAN (dry-run) cho từng ngày.
+"""build_sim.py — MÔ PHỎNG HÀNH TRÌNH TRỰC QUAN cho từng ngày.
 
 Ý tưởng tiết kiệm token: AI chỉ viết MỘT file JSON nhỏ (kịch bản ngày, ~1–2KB).
 Script này (KHÔNG dùng token AI) tính toàn bộ: giờ giấc, cước taxi Yandex, vé metro,
@@ -334,7 +334,7 @@ footer{{padding:20px;text-align:center;color:#5c6773;font-size:12px}}
 </style></head><body>
 {navtop}
 <div class="hd"><div class="wrap">
-  <div class="k">Cẩm nang Du lịch · Mô phỏng hành trình (dry-run)</div>
+  <div class="k">Cẩm nang Du lịch · Mô phỏng hành trình</div>
   <h1>{esc(sim.get('city',''))} · Ngày {sim.get('day','')} — {esc(grp)}</h1>
   <div class="sub">{esc(sim.get('date',''))} · bắt đầu {S['start']} → kết thúc {S['end']} · mô phỏng như một đoàn khách thật</div>
   <div class="tot">
@@ -483,7 +483,7 @@ def build_sim_index(rows, trips_summary=None):
 .grand b{{color:#c8a24b;font-size:19px}}
 .foot{{color:#5c6773;font-size:12px;text-align:center;padding:20px}}</style></head><body>
 <div class="hd"><div class="wrap" style="padding:0"><div class="k">Cẩm nang Du lịch · Mô phỏng hành trình</div>
-<h1>🎬 Mô phỏng các ngày (dry-run)</h1><a href="../trung-tam.html">🏠 Trang chủ</a></div></div>
+<h1>🎬 Mô phỏng hành trình theo ngày</h1><a href="../trung-tam.html">🏠 Trang chủ</a></div></div>
 <div class="wrap">{trips_block}<div class="grid">{cards}</div>
 <div class="foot">Bấm một ngày để xem mô phỏng trực quan; tải .docx để chỉnh sửa trong Word.</div></div></body></html>"""
     with open(os.path.join(SIMDIR, "index.html"), "w", encoding="utf-8") as f:

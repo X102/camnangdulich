@@ -1,0 +1,932 @@
+# -*- coding: utf-8 -*-
+"""_add_places_orenburg_20260728_231500.py — VÙNG: Tỉnh Orenburg (Оренбургская область)
+(lần chạy tự động 2026-07-28).
+
+Bối cảnh: orenburg.json hiện có 7 địa điểm (Cầu đi bộ Âu-Á, Karavan-Saray, Hồ mặn Sol-Iletsk/
+Razval, VQG Buzuluksky Bor, Bảo tàng Mỹ thuật Orenburg, Bảo tàng Lịch sử Orenburg, Đồi
+Preobrazhenskaya/phố cổ Orsk). Bổ sung 25 địa điểm THẬT SỰ nổi bật/đặc sắc CÒN THIẾU, đa dạng loại
+hình → đưa vùng lên 32. TRÁNH trùng 7 điểm trên (đặc biệt KHÔNG lặp Sol-Iletsk/Razval, Buzuluksky
+Bor, Đồi Preobrazhenskaya Orsk).
+
+Trung tâm là thành phố Orenburg; mở rộng sang Orsk, Saraktash, Kuvandyk, Buzuluk và các điểm thiên
+nhiên (Губерлинские горы, Ириклинское вдхр, khu thảo nguyên Предуральская/Буртинская của Khu bảo
+tồn Orenburg với ngựa Przewalski, núi jasper Полковник).
+
+Phân bố loại hình (25 bản ghi mới):
+- museum (4): Губернаторский краеведческий музей, музей-квартира Ростроповичей, Орский
+  краеведческий музей, Бузулукский краеведческий музей.
+- theatre (3): драмтеатр им. Горького, театр музыкальной комедии, татарский театр им. Файзи.
+- church (4): Никольский кафедральный собор, Соборная мечеть (Оренбург), Свято-Троицкая Обитель
+  (Саракташ), Соборная мечеть Орска.
+- monument (4): Елизаветинские ворота, памятник Чкалову + набережная, Башня с курантами,
+  памятник Пушкину и Далю.
+- square_street (2): улица Советская (Оренбургский Арбат), Гостиный двор.
+- park_garden (5): Губерлинские горы, Ириклинское вдхр, Предуральская степь (Пржевальский),
+  Буртинская степь, Гора Полковник (орская яшма).
+- other (3): канатная дорога через Урал, культурный комплекс «Национальная деревня»,
+  Красная гора (Саракташ, декорации «Русский бунт») — cùng ГЛЦ «Долина» Кувандык (other).
+
+TOẠ ĐỘ — xác minh chéo (OpenStreetMap/Nominatim có osm_id, ru.wikipedia/geohack, Wikidata,
+sobory.ru, culture.ru, 2GIS, 2026-07-28). Phạm vi Orenburg lat ~50.5–54.5, lon ~50–62 (tp
+Orenburg ~51.77/55.10; Orsk ~51.23/58.47; Buzuluk ~52.79/52.27) — tất cả toạ độ trong phạm vi,
+KHÔNG đảo lat/lon:
+  Губернаторский музей 51.762060,55.102224 (OSM way 43838147, Советская 28); музей Ростроповичей
+  51.774002,55.098122 (OSM node 5895929426, Зиминская 25); ул. Советская 51.759726,55.103576 (OSM,
+  đoạn giữa phố đi bộ); Елизаветинские ворота 51.754925,55.106649 (OSM node 12480743603, city_gate);
+  памятник Чкалову 51.754653,55.106309 (OSM node 1208912342, memorial, наб. Урала); канатная дорога
+  51.752899,55.107564 (travel.orb.ru/tonkosti — 1 nguồn du lịch, cạnh cầu Âu-Á); драмтеатр Горького
+  51.761432,55.102967 (OSM way 43838067, Советская 26); театр музкомедии 51.770670,55.101372 (OSM
+  way 43839145, Терешковой 13); татарский театр Файзи 51.767615,55.098918 (OSM way 43838793,
+  Советская 52); Никольский собор 51.766307,55.121080 (OSM way 43829263, Чкалова 8, Форштадт);
+  Соборная мечеть Оренбург 51.776308,55.104146 (OSM way 44281416, Терешковой 10А); Гостиный двор
+  51.763004,55.098689 (OSM way 43838251 + 2ГИС, Кирова 13); Башня с курантами 51.764400,55.100184
+  (OSM, Советская 27); Национальная деревня 51.777757,55.167841 (OSM way 214617330, theme_park);
+  памятник Пушкину и Далю 51.764954,55.099449 (OSM node 1184146662, memorial); Свято-Троицкая
+  Обитель Саракташ 51.78656,56.357364 (sobory object=26003, Пушкина 77); Красная гора 51.82638,
+  56.37221 (autotravel.ru geo, Саракташский р-н); ГЛЦ «Долина» Кувандык 51.4936,57.3325 (OSM,
+  toạ độ khu base — POI dốc không có node riêng); Орский краеведческий музей 51.235714,58.472437
+  (OSM, пр. Ленина 46); Губерлинские горы 51.33333,58.35000 (ru.wiki 51°20'N 58°21'E, tâm dãy);
+  Ириклинское вдхр 51.68333,58.62500 (ru.wiki 51°41'N 58°37'30"E); Предуральская степь/Центр
+  Пржевальского 51.183657,56.182885 (OSM nature_reserve, Беляевский р-н); Бузулукский музей
+  52.790876,52.265334 (OSM node, Ленина 56 — lat/lon KHÔNG đảo, Buzuluk thực ~52.79N/52.27E);
+  Соборная мечеть Орска 51.211969,58.561638 (OSM + islamcenter, Орджоникидзе 8); Гора Полковник
+  51.168205,58.644294 (OSM protected_area, mỏ orская яшма, rìa đông nam Орск).
+
+GHI CHÚ: đã BỎ/không thêm các đối tượng để tránh TRÙNG hoặc không đủ độ tin cậy: Sol-Iletsk &
+hồ Razval, Buzuluksky Bor, Đồi Preobrazhenskaya/phố cổ Orsk (ĐÃ CÓ trong file); bảo tàng khăn
+choàng lông dê Orenburg (пуховый платок) — bộ sưu tập khăn lông cừu đã được giới thiệu trong Bảo
+tàng Mỹ thuật Orenburg đang có, nên không lập bản ghi riêng để tránh chồng nội dung; Спасо-
+Преображенский собор Орск (nằm ngay trên Đồi Preobrazhenskaya đã có → tránh chồng vị trí);
+«Андреевские шиханы» — KHÔNG xác minh được toạ độ tin cậy trong OSM/wiki, đã BỎ (thay bằng Гора
+Полковник đã kiểm chứng). Toạ độ канатная дорога & ГЛЦ «Долина» chỉ 1 nguồn/gần đúng khu vực —
+đã ghi chú, vị trí vẫn nằm đúng phạm vi. KHÔNG bịa toạ độ.
+
+Nội dung tiếng Việt NGUYÊN GỐC (paraphrase, KHÔNG dịch/sao chép nguyên văn), có ghi nguồn.
+
+Chạy:  python3 tools/_add_places_orenburg_20260728_231500.py
+"""
+import json, os, datetime, shutil, urllib.parse
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+ROOT = os.path.dirname(HERE)
+REGIONS = os.path.join(ROOT, "data", "regions")
+TS = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+TODAY = "2026-07-28"
+
+REGION = "orenburg"
+REGION_NAME_VI = "Tỉnh Orenburg"
+FD = "Vùng Volga"
+
+
+def maps_text(name_ru, city_ru, name_en, city_en, lat, lon):
+    """Link bản đồ TRỎ-ĐỊA-ĐIỂM bằng text-search + canh giữa theo toạ độ đã kiểm chứng."""
+    yq = urllib.parse.quote(f"{name_ru}, {city_ru}")
+    gq = urllib.parse.quote(f"{name_en}, {city_en}, Russia")
+    return {
+        "yandex": f"https://yandex.com/maps/?text={yq}&ll={lon},{lat}&z=16",
+        "google": f"https://www.google.com/maps/search/?api=1&query={gq}",
+    }
+
+
+def rec(slug, name_vi, name_ru, name_en, categories, lat, lon, address_vi,
+        short, long, highlights, practical, sources, tags, maps,
+        official_site=None):
+    return {
+        "id": f"{REGION}-{slug}",
+        "slug": slug,
+        "region": REGION,
+        "region_name_vi": REGION_NAME_VI,
+        "federal_district": FD,
+        "name_vi": name_vi,
+        "name_ru": name_ru,
+        "name_en": name_en,
+        "categories": categories,
+        "coordinates": {"lat": lat, "lon": lon},
+        "address_vi": address_vi,
+        "rating": {"value": None, "count": None, "source": None, "as_of": None},
+        "review_summary_vi": "",
+        "presentation_short_vi": short,
+        "presentation_long_vi": long,
+        "highlights_vi": highlights,
+        "practical": practical,
+        "photo": None,
+        "photo_credit": None,
+        "maps": maps,
+        "official_site": official_site,
+        "sources": sources,
+        "tags": tags,
+        "status": "enriched",
+        "last_updated": TODAY,
+        "country": "russia",
+    }
+
+
+def p(hours, ticket, duration, best, tips):
+    return {"hours_vi": hours, "ticket_vi": ticket, "duration_vi": duration,
+            "best_time_vi": best, "tips_vi": tips}
+
+
+RECORDS = []
+
+# ============================ BẢO TÀNG (museum) ============================
+
+# 1) Оренбургский губернаторский историко-краеведческий музей ----------------------
+RECORDS.append(rec(
+    "orenburg-gubernatorsky-museum",
+    "Bảo tàng địa phương học Tỉnh trưởng Orenburg (Gubernatorsky, kraevedcheskiy)",
+    "Оренбургский губернаторский историко-краеведческий музей",
+    "Orenburg Governor's Museum of Local Lore",
+    ["museum"],
+    51.762060, 55.102224,
+    "Phố Sovetskaya 28, thành phố Orenburg, tỉnh Orenburg, Nga",
+    "Bảo tàng địa phương học lâu đời và lớn nhất tỉnh Orenburg, đặt trong toà nhà lịch sử từng là dinh thự thương nhân. Trưng bày trải rộng từ thiên nhiên, khảo cổ, lịch sử biên cương Ural đến văn hoá đa sắc tộc của vùng thảo nguyên.",
+    "Bảo tàng địa phương học Tỉnh trưởng Orenburg là bảo tàng cổ nhất và giàu hiện vật bậc nhất của tỉnh, có gốc từ đầu thế kỷ 19 và ngày nay toạ lạc trong một toà nhà lịch sử duyên dáng ở trung tâm phố Sovetskaya. Bộ sưu tập kể câu chuyện của một vùng đất biên cương độc đáo, nơi châu Âu gặp châu Á: từ mẫu vật thiên nhiên thảo nguyên, hoá thạch, hiện vật khảo cổ của các dân tộc du mục, đến vũ khí, huân chương và tư liệu về pháo đài Orenburg — cửa ngõ giao thương với Trung Á. Nhiều gian trưng bày làm nổi bật tính đa sắc tộc của vùng (người Nga, Bashkir, Tatar, Kazakh, Ukraina...), nghề thủ công truyền thống và đặc biệt là di sản khăn choàng lông dê Orenburg trứ danh. Bảo tàng cũng lưu giữ những kỷ vật gắn với các nhân vật lịch sử từng đặt chân tới đây như Pushkin hay các nhà thám hiểm. Đây là điểm khởi đầu lý tưởng để hiểu chiều sâu lịch sử và bản sắc giao thoa Âu-Á của Orenburg.",
+    [
+        "Bảo tàng lâu đời nhất tỉnh, đặt trong toà nhà lịch sử ở trung tâm phố Sovetskaya.",
+        "Trưng bày thiên nhiên, khảo cổ và lịch sử pháo đài biên cương Orenburg.",
+        "Làm nổi bật văn hoá đa sắc tộc thảo nguyên và di sản khăn lông dê Orenburg.",
+    ],
+    p("Thứ Ba–Chủ nhật, khoảng 10:00–18:00; nghỉ Thứ Hai (nên kiểm tra trước).",
+      "Vé vào cửa ở mức khiêm tốn (vài trăm rúp); có ưu đãi cho học sinh, sinh viên và người cao tuổi.",
+      "Khoảng 1–1,5 giờ.",
+      "Quanh năm; hợp cả những ngày thời tiết xấu.",
+      "Nằm trên phố đi bộ Sovetskaya, dễ kết hợp dạo trung tâm. Thuyết minh chủ yếu bằng tiếng Nga; nên hỏi lịch triển lãm tạm thời."),
+    [
+        {"title": "Wikipedia (RU) — Оренбургский губернаторский историко-краеведческий музей", "url": "https://ru.wikipedia.org/wiki/Оренбургский_губернаторский_историко-краеведческий_музей"},
+        {"title": "Culture.ru — Оренбургский губернаторский музей", "url": "https://www.culture.ru/institutes/10869/orenburgskii-gubernatorskii-istoriko-kraevedcheskii-muzei"},
+    ],
+    ["museum", "history", "local-lore", "orenburg", "ethnography", "culture"],
+    maps_text("Оренбургский губернаторский историко-краеведческий музей", "Оренбург", "Orenburg Governor's Museum of Local Lore", "Orenburg", 51.762060, 55.102224),
+))
+
+# 2) Мемориальный музей-квартира семьи Ростроповичей -------------------------------
+RECORDS.append(rec(
+    "rostropovich-memorial-museum-orenburg",
+    "Bảo tàng-căn hộ tưởng niệm gia đình Rostropovich (Ros-tro-pô-vích)",
+    "Мемориальный музей-квартира семьи Ростроповичей",
+    "Rostropovich Family Memorial Apartment Museum",
+    ["museum"],
+    51.774002, 55.098122,
+    "Phố Ziminskaya 25, thành phố Orenburg, tỉnh Orenburg, Nga",
+    "Bảo tàng-căn hộ nơi gia đình nhạc sĩ thiên tài Mstislav Rostropovich sơ tán về Orenburg trong Thế chiến II. Không gian tái hiện đời sống của gia đình nghệ sĩ và những năm tháng thời chiến gắn với thành phố.",
+    "Bảo tàng-căn hộ tưởng niệm gia đình Rostropovich đưa du khách đến một lát cắt cảm động của lịch sử văn hoá Nga: trong những năm Thế chiến II, gia đình nghệ sĩ cello lừng danh thế giới Mstislav Rostropovich đã sơ tán từ Moskva về Orenburg (khi đó mang tên Chkalov). Chính tại thành phố thảo nguyên này, cậu bé Mstislav trải qua tuổi thiếu niên, biểu diễn trong dàn nhạc và mất người cha — nghệ sĩ cello Leopold Rostropovich. Bảo tàng được lập trong căn nhà gắn với gia đình, tái hiện nội thất, nhạc cụ, thư từ, ảnh tư liệu và những kỷ vật kể về cuộc sống thời chiến khó khăn nhưng đầy âm nhạc của một gia đình nghệ sĩ. Đây cũng là nơi tôn vinh mối liên hệ đặc biệt giữa Orenburg với một trong những nhạc công vĩ đại nhất thế kỷ 20, người sau này trở về thành phố biểu diễn và luôn coi Orenburg là quê hương thứ hai. Với người yêu nhạc cổ điển, đây là điểm ghé thăm nhiều xúc cảm.",
+    [
+        "Gắn với những năm gia đình nhạc sĩ cello huyền thoại Rostropovich sơ tán về Orenburg thời Thế chiến II.",
+        "Tái hiện nội thất, nhạc cụ và kỷ vật của một gia đình nghệ sĩ thời chiến.",
+        "Tôn vinh mối liên hệ đặc biệt giữa Orenburg và Mstislav Rostropovich.",
+    ],
+    p("Thứ Ba–Chủ nhật, khoảng 10:00–18:00; nghỉ Thứ Hai (nên gọi xác nhận).",
+      "Vé vào cửa thấp; ưu đãi cho học sinh, sinh viên.",
+      "Khoảng 45–60 phút.",
+      "Quanh năm.",
+      "Là bảo tàng nhỏ, nên đi cùng hướng dẫn viên để hiểu câu chuyện; thuyết minh chủ yếu bằng tiếng Nga."),
+    [
+        {"title": "Culture.ru — Музей-квартира семьи Ростроповичей", "url": "https://www.culture.ru/institutes/10871/memorialnyi-muzei-kvartira-semi-rostropovichei"},
+        {"title": "Wikipedia (RU) — Ростропович, Мстислав Леопольдович", "url": "https://ru.wikipedia.org/wiki/Ростропович,_Мстислав_Леопольдович"},
+    ],
+    ["museum", "music", "memorial", "orenburg", "rostropovich", "culture"],
+    maps_text("Музей-квартира семьи Ростроповичей", "Оренбург", "Rostropovich Family Memorial Apartment Museum", "Orenburg", 51.774002, 55.098122),
+))
+
+# 3) Орский краеведческий музей ----------------------------------------------------
+RECORDS.append(rec(
+    "orsk-local-lore-museum",
+    "Bảo tàng địa phương học Orsk (Orsky kraevedcheskiy)",
+    "Орский краеведческий музей",
+    "Orsk Museum of Local Lore",
+    ["museum"],
+    51.235714, 58.472437,
+    "Đại lộ Lenina 46, thành phố Orsk, tỉnh Orenburg, Nga",
+    "Bảo tàng trung tâm của Orsk — thành phố công nghiệp lớn thứ hai tỉnh Orenburg, nằm ngay biên giới Âu-Á. Trưng bày lịch sử pháo đài Orsk, nghề khai thác đá jasper (яшма) nổi tiếng và quá trình công nghiệp hoá vùng đông Orenburg.",
+    "Bảo tàng địa phương học Orsk là nơi lưu giữ ký ức của thành phố công nghiệp lớn thứ hai tỉnh Orenburg, một đô thị nằm vắt qua ranh giới địa lý giữa châu Âu và châu Á bên sông Ural. Bộ sưu tập đưa người xem qua nhiều lớp lịch sử: từ pháo đài Orskaya thành lập giữa thế kỷ 18 như một tiền đồn biên cương, qua thời kỳ giao thương với thảo nguyên Kazakh, đến giai đoạn công nghiệp hoá mạnh mẽ thời Xô Viết khi Orsk trở thành trung tâm luyện kim, hoá dầu và cơ khí. Một điểm nhấn đặc trưng của Orsk là đá jasper (яшма) — loại đá bán quý nhiều màu nổi tiếng khai thác ở núi Polkovnik gần đó — với những mẫu vật, đồ trang trí và tác phẩm chế tác tinh xảo. Bảo tàng còn có các gian về thiên nhiên thảo nguyên, khảo cổ và đời sống đa sắc tộc của vùng. Đây là điểm dừng tốt để hiểu Orsk và cả nửa phía đông của tỉnh Orenburg.",
+    [
+        "Bảo tàng trung tâm của Orsk — đô thị công nghiệp nằm trên ranh giới Âu-Á.",
+        "Kể lịch sử pháo đài biên cương và quá trình công nghiệp hoá vùng đông Orenburg.",
+        "Nổi bật bộ sưu tập đá jasper (яшма) nhiều màu — đặc sản của vùng Orsk.",
+    ],
+    p("Thứ Ba–Chủ nhật, khoảng 10:00–18:00; nghỉ Thứ Hai (nên kiểm tra trước).",
+      "Vé vào cửa thấp; ưu đãi cho học sinh, sinh viên và người cao tuổi.",
+      "Khoảng 1–1,5 giờ.",
+      "Quanh năm.",
+      "Orsk cách Orenburg khoảng 280 km về phía đông; dễ kết hợp với Đồi Preobrazhenskaya và phố cổ Orsk. Thuyết minh chủ yếu bằng tiếng Nga."),
+    [
+        {"title": "Culture.ru — Орский краеведческий музей", "url": "https://www.culture.ru/institutes/11616/orskii-kraevedcheskii-muzei"},
+        {"title": "Wikipedia (RU) — Орск", "url": "https://ru.wikipedia.org/wiki/Орск"},
+    ],
+    ["museum", "history", "orsk", "local-lore", "jasper", "industry"],
+    maps_text("Орский краеведческий музей", "Орск", "Orsk Museum of Local Lore", "Orsk", 51.235714, 58.472437),
+))
+
+# 4) Бузулукский краеведческий музей -----------------------------------------------
+RECORDS.append(rec(
+    "buzuluk-local-lore-museum",
+    "Bảo tàng địa phương học Buzuluk (Buzuluksky kraevedcheskiy)",
+    "Бузулукский краеведческий музей",
+    "Buzuluk Museum of Local Lore",
+    ["museum"],
+    52.790876, 52.265334,
+    "Phố Lenina 56, thành phố Buzuluk, tỉnh Orenburg, Nga",
+    "Bảo tàng địa phương của thành phố lịch sử Buzuluk ở phía tây tỉnh, gần rừng thông Buzuluksky Bor. Trưng bày lịch sử thị trấn thương mại, đời sống nông dân và thiên nhiên vùng rừng-thảo nguyên phía tây Orenburg.",
+    "Bảo tàng địa phương học Buzuluk là điểm văn hoá trung tâm của Buzuluk — thành phố cổ ở góc tây bắc tỉnh Orenburg, nằm sát khu rừng thông độc đáo Buzuluksky Bor. Buzuluk vốn hình thành từ đầu thế kỷ 18 như một pháo đài trên tuyến phòng thủ Samara, về sau trở thành thị trấn thương mại và trung tâm nông nghiệp trù phú. Bảo tàng lưu giữ hiện vật khảo cổ, nông cụ, đồ gia dụng, trang phục dân gian cùng tư liệu về đời sống thương nhân và nông dân qua các thời kỳ, kể cả những biến động thời Nội chiến và công nghiệp hoá. Các gian thiên nhiên giới thiệu hệ sinh thái đặc biệt của vùng chuyển tiếp rừng-thảo nguyên và khu rừng thông Buzuluksky Bor lân cận. Bảo tàng cũng thường gắn với những nhân vật văn hoá từng sống hoặc đi qua Buzuluk. Đây là điểm dừng hợp lý cho hành trình khám phá phía tây tỉnh, đặc biệt khi kết hợp tham quan Vườn quốc gia Buzuluksky Bor.",
+    [
+        "Bảo tàng trung tâm của thành phố cổ Buzuluk, phía tây tỉnh Orenburg.",
+        "Trưng bày lịch sử pháo đài, đời sống thương nhân và nông dân qua các thời kỳ.",
+        "Giới thiệu thiên nhiên vùng rừng-thảo nguyên và rừng thông Buzuluksky Bor lân cận.",
+    ],
+    p("Thứ Ba–Chủ nhật, khoảng 10:00–18:00; nghỉ Thứ Hai (nên gọi xác nhận).",
+      "Vé vào cửa thấp; ưu đãi cho học sinh, sinh viên.",
+      "Khoảng 1 giờ.",
+      "Quanh năm; kết hợp mùa ấm để đi rừng Buzuluksky Bor.",
+      "Buzuluk cách Orenburg khoảng 245 km về phía tây bắc; dễ ghé khi tham quan Vườn quốc gia Buzuluksky Bor. Thuyết minh chủ yếu bằng tiếng Nga."),
+    [
+        {"title": "Culture.ru — Бузулукский краеведческий музей", "url": "https://www.culture.ru/institutes/10879/buzulukskii-kraevedcheskii-muzei"},
+        {"title": "Wikipedia (RU) — Бузулук", "url": "https://ru.wikipedia.org/wiki/Бузулук"},
+    ],
+    ["museum", "history", "buzuluk", "local-lore", "nature"],
+    maps_text("Бузулукский краеведческий музей", "Бузулук", "Buzuluk Museum of Local Lore", "Buzuluk", 52.790876, 52.265334),
+))
+
+# ============================ NHÀ HÁT (theatre) ============================
+
+# 5) Оренбургский драматический театр им. М. Горького ------------------------------
+RECORDS.append(rec(
+    "orenburg-gorky-drama-theatre",
+    "Nhà hát Kịch tỉnh Orenburg mang tên Gorky (Tê-a-tơ Đra-ma)",
+    "Оренбургский государственный областной драматический театр имени М. Горького",
+    "Orenburg Gorky State Drama Theatre",
+    ["theatre"],
+    51.761432, 55.102967,
+    "Phố Sovetskaya 26, thành phố Orenburg, tỉnh Orenburg, Nga",
+    "Nhà hát kịch lâu đời và chủ lực của tỉnh Orenburg, mang tên đại văn hào Maksim Gorky. Toà nhà lịch sử duyên dáng ngay trên phố đi bộ Sovetskaya là trung tâm đời sống sân khấu của thành phố.",
+    "Nhà hát Kịch tỉnh Orenburg mang tên Maksim Gorky là sân khấu kịch chuyên nghiệp lâu đời và quan trọng nhất của tỉnh, có lịch sử từ nửa cuối thế kỷ 19 — thuộc hàng những nhà hát kịch cổ nhất vùng Ural-Volga. Toà nhà nhà hát mang kiến trúc cổ điển thanh lịch, toạ lạc ngay trên phố đi bộ Sovetskaya ở trung tâm lịch sử, là một điểm nhấn kiến trúc của thành phố. Đoàn hát dàn dựng đa dạng thể loại, từ kịch cổ điển Nga và thế giới (Ostrovsky, Chekhov, Gogol, Shakespeare...) đến các vở hiện đại và tác phẩm dành cho khán giả trẻ. Trải qua hơn một thế kỷ, nhà hát gắn bó mật thiết với đời sống văn hoá Orenburg, thường xuyên tham gia liên hoan sân khấu và lưu diễn. Một buổi tối xem kịch ở đây, trong không gian một nhà hát tỉnh cổ kính, là cách thú vị để du khách hoà vào nhịp sống văn hoá của người dân địa phương và ngắm nội thất lịch sử.",
+    [
+        "Một trong những nhà hát kịch cổ nhất vùng Ural-Volga, mang tên văn hào Gorky.",
+        "Toà nhà kiến trúc cổ điển ngay trên phố đi bộ Sovetskaya ở trung tâm.",
+        "Tiết mục đa dạng: kịch cổ điển Nga-thế giới và các vở hiện đại.",
+    ],
+    p("Mở theo lịch biểu diễn và giờ bán vé; nên xem lịch trước.",
+      "Có bán vé xem kịch; giá tuỳ suất diễn.",
+      "Buổi diễn thường 2–3 giờ.",
+      "Mùa diễn (thu–xuân); dịp liên hoan có nhiều vở đặc sắc.",
+      "Đặt vé trước qua trang chính thức hoặc phòng vé; các vở chủ yếu bằng tiếng Nga."),
+    [
+        {"title": "Wikipedia (RU) — Оренбургский драматический театр", "url": "https://ru.wikipedia.org/wiki/Оренбургский_драматический_театр_имени_М._Горького"},
+        {"title": "Culture.ru — Оренбургский драматический театр им. М. Горького", "url": "https://www.culture.ru/institutes/10883/orenburgskii-gosudarstvennyi-oblastnoi-dramaticheskii-teatr-im-m-gorkogo"},
+    ],
+    ["theatre", "drama", "orenburg", "culture", "performing-arts"],
+    maps_text("Оренбургский драматический театр имени М. Горького", "Оренбург", "Orenburg Gorky State Drama Theatre", "Orenburg", 51.761432, 55.102967),
+))
+
+# 6) Оренбургский театр музыкальной комедии ----------------------------------------
+RECORDS.append(rec(
+    "orenburg-musical-comedy-theatre",
+    "Nhà hát Nhạc kịch tỉnh Orenburg (Tê-a-tơ Mu-dư-can-nai)",
+    "Оренбургский государственный театр музыкальной комедии",
+    "Orenburg State Musical Comedy Theatre",
+    ["theatre"],
+    51.770670, 55.101372,
+    "Phố Tereshkovoy 13, thành phố Orenburg, tỉnh Orenburg, Nga",
+    "Nhà hát opérette và nhạc kịch của Orenburg, nơi dàn dựng các vở nhạc kịch, opérette và ca nhạc vui nhộn. Sân khấu âm nhạc sôi động này là điểm giải trí quen thuộc của người dân thành phố.",
+    "Nhà hát Nhạc kịch tỉnh Orenburg là sân khấu âm nhạc chuyên nghiệp của thành phố, chuyên các thể loại opérette, nhạc kịch (musical) và những vở diễn ca nhạc-hài kịch tươi vui. Được thành lập từ giữa thế kỷ 20, nhà hát mang đến cho khán giả Orenburg một không gian giải trí nghệ thuật nhẹ nhàng, giàu giai điệu — bổ sung cho dòng kịch nói cổ điển của Nhà hát Gorky gần đó. Tiết mục trải rộng từ những vở opérette kinh điển của châu Âu (Strauss, Kalman, Lehar...) đến nhạc kịch Nga và Xô Viết, cùng các chương trình dành cho thiếu nhi và dịp lễ. Với dàn diễn viên hát-diễn, dàn nhạc và vũ đoàn riêng, mỗi buổi diễn là sự kết hợp giữa âm nhạc, ca hát và sân khấu sinh động. Đây là lựa chọn giải trí dễ tiếp cận cho du khách, kể cả khi chưa thạo tiếng Nga, bởi phần âm nhạc và dàn cảnh rực rỡ luôn cuốn hút.",
+    [
+        "Sân khấu opérette và nhạc kịch chuyên nghiệp của Orenburg.",
+        "Tiết mục đa dạng: opérette châu Âu, nhạc kịch Nga và chương trình thiếu nhi.",
+        "Không gian giải trí âm nhạc sôi động, dễ tiếp cận với du khách.",
+    ],
+    p("Mở theo lịch biểu diễn và giờ bán vé; nên xem lịch trước.",
+      "Có bán vé; giá tuỳ suất diễn.",
+      "Buổi diễn thường 2–2,5 giờ.",
+      "Mùa diễn (thu–xuân); dịp lễ có nhiều vở vui nhộn.",
+      "Đặt vé trước qua trang chính thức; phần âm nhạc và dàn cảnh cuốn hút kể cả khi chưa thạo tiếng Nga."),
+    [
+        {"title": "Wikipedia (RU) — Оренбургский театр музыкальной комедии", "url": "https://ru.wikipedia.org/wiki/Оренбургский_театр_музыкальной_комедии"},
+        {"title": "Culture.ru — Оренбургский театр музыкальной комедии", "url": "https://www.culture.ru/institutes/10885/orenburgskii-gosudarstvennyi-teatr-muzykalnoi-komedii"},
+    ],
+    ["theatre", "operetta", "musical", "orenburg", "music", "culture"],
+    maps_text("Оренбургский театр музыкальной комедии", "Оренбург", "Orenburg State Musical Comedy Theatre", "Orenburg", 51.770670, 55.101372),
+))
+
+# 7) Оренбургский татарский драматический театр им. М. Файзи -----------------------
+RECORDS.append(rec(
+    "orenburg-tatar-theatre-fayzi",
+    "Nhà hát Kịch Tatar Orenburg mang tên Mirkhaydar Fayzi (Fai-di)",
+    "Оренбургский государственный татарский драматический театр имени Мирхайдара Файзи",
+    "Orenburg Tatar Drama Theatre named after Mirkhaydar Fayzi",
+    ["theatre"],
+    51.767615, 55.098918,
+    "Phố Sovetskaya 52, thành phố Orenburg, tỉnh Orenburg, Nga",
+    "Nhà hát kịch tiếng Tatar của Orenburg, phản ánh cộng đồng Tatar đông đảo và bề dày văn hoá Hồi giáo-Turk của vùng. Sân khấu dựng kịch bằng tiếng Tatar, gìn giữ ngôn ngữ và bản sắc dân tộc.",
+    "Nhà hát Kịch Tatar tỉnh Orenburg mang tên nhà viết kịch Mirkhaydar Fayzi là một trong những nét đặc sắc nhất trong đời sống sân khấu đa sắc tộc của thành phố. Orenburg từ lâu là một trung tâm văn hoá và tôn giáo của người Tatar và cộng đồng Hồi giáo vùng Ural-Volga; đầu thế kỷ 20 nơi đây từng là nơi in ấn, xuất bản và giáo dục nổi bật của người Tatar. Nhà hát tiếp nối truyền thống đó, dàn dựng các vở kịch bằng tiếng Tatar — từ tác phẩm kinh điển của các nhà viết kịch Tatar (trong đó có Mirkhaydar Fayzi, tác giả vở 'Galiyabanu' nổi tiếng) đến kịch hiện đại và các chương trình âm nhạc dân tộc. Đây không chỉ là nơi giải trí mà còn là thiết chế gìn giữ ngôn ngữ, âm nhạc và bản sắc Tatar. Với du khách, một buổi diễn ở đây (thường có yếu tố ca-múa-nhạc dân tộc) là cơ hội hiếm để cảm nhận chiều văn hoá Turk-Hồi giáo của vùng thảo nguyên Orenburg.",
+    [
+        "Nhà hát kịch tiếng Tatar, phản ánh cộng đồng Tatar đông đảo của vùng Orenburg.",
+        "Mang tên nhà viết kịch Mirkhaydar Fayzi, tác giả vở kinh điển 'Galiyabanu'.",
+        "Thiết chế gìn giữ ngôn ngữ, âm nhạc và bản sắc Turk-Hồi giáo.",
+    ],
+    p("Mở theo lịch biểu diễn và giờ bán vé; nên xem lịch trước.",
+      "Có bán vé; giá tuỳ suất diễn.",
+      "Buổi diễn thường 2–2,5 giờ.",
+      "Mùa diễn (thu–xuân); dịp lễ hội dân tộc Tatar có nhiều chương trình đặc sắc.",
+      "Các vở bằng tiếng Tatar (đôi khi có yếu tố ca múa dân tộc dễ theo dõi); nên xem trước nội dung chương trình."),
+    [
+        {"title": "Wikipedia (RU) — Оренбургский татарский драматический театр", "url": "https://ru.wikipedia.org/wiki/Оренбургский_татарский_драматический_театр_имени_Мирхайдара_Файзи"},
+        {"title": "Culture.ru — Оренбургский татарский драматический театр им. М. Файзи", "url": "https://www.culture.ru/institutes/10887/orenburgskii-gosudarstvennyi-tatarskii-dramaticheskii-teatr-im-m-faizi"},
+    ],
+    ["theatre", "tatar", "orenburg", "culture", "ethnic", "performing-arts"],
+    maps_text("Оренбургский татарский драматический театр имени Файзи", "Оренбург", "Orenburg Tatar Drama Theatre Fayzi", "Orenburg", 51.767615, 55.098918),
+))
+
+# ============================ NHÀ THỜ / ĐỀN (church) ============================
+
+# 8) Никольский кафедральный собор (Оренбург) --------------------------------------
+RECORDS.append(rec(
+    "nikolsky-cathedral-orenburg",
+    "Nhà thờ Chính toà Nikolsky (Thánh Nikolai) ở Orenburg (Ni-côn-xki)",
+    "Никольский кафедральный собор",
+    "St. Nicholas Cathedral (Orenburg)",
+    ["church"],
+    51.766307, 55.121080,
+    "Phố Chkalova 8, khu Forshtadt, thành phố Orenburg, tỉnh Orenburg, Nga",
+    "Nhà thờ chính toà của giáo phận Orenburg, một trong số ít thánh đường sống sót qua thời Xô Viết. Ngôi nhà thờ trắng-xanh với năm mái vòm ở khu Cossack Forshtadt là trung tâm đời sống Chính thống giáo của thành phố.",
+    "Nhà thờ Chính toà Nikolsky (mang tên Thánh Nikolai Kỳ diệu) là nhà thờ mẹ của giáo phận Orenburg và là một trong những công trình tôn giáo quan trọng nhất thành phố. Được xây dựng đầu thế kỷ 20 tại khu Forshtadt — vốn là khu định cư của người Cossack Orenburg, nhà thờ mang phong cách kiến trúc Nga truyền thống với năm mái vòm và sắc trắng-xanh đặc trưng. Điểm đặc biệt là nhà thờ đã tồn tại qua thời kỳ Xô Viết vô thần khắc nghiệt: dù bị đóng cửa và trưng dụng một thời gian, công trình không bị phá huỷ và sau chiến tranh được trả lại cho giáo hội, trở thành nhà thờ chính toà khi nhiều thánh đường lớn khác của Orenburg đã bị san phẳng. Bên trong lưu giữ các tranh thánh (icon) được tôn kính và những thánh tích. Với không gian trang nghiêm, những buổi lễ đông đảo và vị trí ở khu phố lịch sử Forshtadt, đây là điểm đến giúp du khách cảm nhận đời sống tâm linh Chính thống giáo còn sống động của Orenburg.",
+    [
+        "Nhà thờ chính toà của giáo phận Orenburg, kiến trúc Nga năm mái vòm trắng-xanh.",
+        "Một trong số ít thánh đường sống sót qua thời kỳ Xô Viết vô thần.",
+        "Nằm ở khu phố lịch sử Cossack Forshtadt, trung tâm đời sống Chính thống giáo thành phố.",
+    ],
+    p("Mở cửa hằng ngày theo lịch phụng vụ, thường từ sáng sớm đến chiều tối.",
+      "Vào cửa tự do (miễn phí); tuỳ tâm quyên góp.",
+      "Khoảng 30–45 phút.",
+      "Quanh năm; vào giờ lễ để cảm nhận không khí phụng vụ, đông nhất dịp lễ lớn.",
+      "Trang phục kín đáo, nữ nên mang khăn trùm đầu, nam bỏ mũ. Giữ yên lặng, hỏi phép trước khi chụp ảnh bên trong."),
+    [
+        {"title": "Wikipedia (RU) — Никольский собор (Оренбург)", "url": "https://ru.wikipedia.org/wiki/Никольский_собор_(Оренбург)"},
+        {"title": "Sobory.ru — Собор Николая Чудотворца (Оренбург)", "url": "https://sobory.ru/geo/?ll=55.121080,51.766307"},
+    ],
+    ["church", "orthodox", "cathedral", "orenburg", "forshtadt", "architecture"],
+    maps_text("Никольский кафедральный собор", "Оренбург", "St. Nicholas Cathedral", "Orenburg", 51.766307, 55.121080),
+))
+
+# 9) Соборная мечеть (Оренбург) ----------------------------------------------------
+RECORDS.append(rec(
+    "orenburg-cathedral-mosque",
+    "Thánh đường Hồi giáo Trung tâm Orenburg (Sobornaya mechet)",
+    "Соборная мечеть",
+    "Cathedral Mosque (Orenburg)",
+    ["church"],
+    51.776308, 55.104146,
+    "Phố Tereshkovoy 10А, thành phố Orenburg, tỉnh Orenburg, Nga",
+    "Thánh đường Hồi giáo trung tâm của Orenburg, phản ánh vai trò lịch sử của thành phố như một trung tâm Hồi giáo lớn ở biên giới Nga với thế giới Turk. Nhà thờ Hồi giáo với tháp minaret vươn cao là nơi hành lễ của cộng đồng Hồi giáo đông đảo.",
+    "Thánh đường Hồi giáo Trung tâm (Sobornaya mechet) là ngôi đền Hồi giáo chính của Orenburg và là biểu tượng cho vai trò đặc biệt của thành phố trong lịch sử đạo Hồi ở Nga. Từ thế kỷ 18–19, Orenburg là cửa ngõ giao thương và ngoại giao giữa Đế quốc Nga với thảo nguyên Kazakh và Trung Á Hồi giáo; nơi đây từng là trụ sở của Cơ quan Tôn giáo Hồi giáo và là trung tâm giáo dục, xuất bản của người Tatar và Bashkir. Truyền thống đó để lại một cộng đồng Hồi giáo đông đảo và nhiều thánh đường. Thánh đường Trung tâm ngày nay với mái vòm và tháp minaret vươn cao là nơi hành lễ, đặc biệt đông vào các buổi cầu nguyện thứ Sáu và các dịp lễ Eid. Cùng với quần thể Karavan-Saray nổi tiếng, thánh đường này giúp du khách cảm nhận diện mạo đa tôn giáo của Orenburg — nơi mái vòm nhà thờ Chính thống giáo và tháp minaret Hồi giáo cùng tồn tại. Khách tham quan nên tôn trọng không gian thờ phụng và giờ hành lễ.",
+    [
+        "Thánh đường Hồi giáo trung tâm của Orenburg với tháp minaret vươn cao.",
+        "Gắn với vai trò lịch sử của Orenburg như trung tâm Hồi giáo ở biên giới Nga-Turk.",
+        "Nơi hành lễ đông đảo dịp cầu nguyện thứ Sáu và các lễ Eid.",
+    ],
+    p("Mở cửa theo giờ hành lễ hằng ngày; đông nhất vào trưa thứ Sáu và dịp lễ.",
+      "Vào cửa tự do (miễn phí).",
+      "Khoảng 20–30 phút.",
+      "Quanh năm; tránh làm phiền vào giờ cầu nguyện nếu chỉ tham quan.",
+      "Trang phục kín đáo, nữ trùm khăn; cởi giày khi vào khu cầu nguyện; hỏi phép trước khi chụp ảnh và tránh giờ hành lễ."),
+    [
+        {"title": "Wikipedia (RU) — Ислам в Оренбургской области", "url": "https://ru.wikipedia.org/wiki/Ислам_в_Оренбургской_области"},
+        {"title": "OpenStreetMap — Соборная мечеть (Оренбург)", "url": "https://www.openstreetmap.org/?mlat=51.776308&mlon=55.104146#map=18/51.776308/55.104146"},
+    ],
+    ["church", "mosque", "islam", "orenburg", "religion", "architecture"],
+    maps_text("Соборная мечеть", "Оренбург", "Cathedral Mosque", "Orenburg", 51.776308, 55.104146),
+))
+
+# 10) Свято-Троицкая Симеонова Обитель Милосердия (Саракташ) -----------------------
+RECORDS.append(rec(
+    "svyato-troitskaya-obitel-saraktash",
+    "Tu viện Ba Ngôi Simeon - Nhà Từ thiện (Obitel Miloserdiya, Saraktash)",
+    "Свято-Троицкая Симеонова Обитель Милосердия",
+    "Holy Trinity Simeon Convent of Mercy (Saraktash)",
+    ["church"],
+    51.78656, 56.357364,
+    "Phố Pushkina 77, thị trấn Saraktash, huyện Saraktashsky, tỉnh Orenburg, Nga",
+    "Quần thể tu viện Chính thống giáo lớn và độc đáo ở thị trấn Saraktash, kết hợp đời sống tu hành với hoạt động từ thiện. Nơi đây nuôi dạy trẻ mồ côi, chăm sóc người già và là một trung tâm hành hương nổi bật của tỉnh Orenburg.",
+    "Свято-Троицкая Симеонова Обитель Милосердия (Tu viện Từ thiện Ba Ngôi mang tên Thánh Simeon) là một quần thể tôn giáo đặc biệt ở thị trấn Saraktash, được hình thành từ những năm 1990 quanh một giáo xứ nhỏ và phát triển thành một trong những trung tâm Chính thống giáo lớn nhất tỉnh Orenburg. Điểm khác biệt của tu viện là gắn liền đời sống cầu nguyện với sứ mệnh từ thiện thực tế: nơi đây có trại trẻ mồ côi, trường học Chính thống, nhà dưỡng lão, xưởng nghề và bếp ăn phục vụ người khó khăn — trở thành một 'thành phố nhỏ của lòng thương xót'. Quần thể gồm nhiều nhà thờ và nhà nguyện với kiến trúc Nga nhiều mái vòm rực rỡ, cùng khu nhà ở, vườn tược và các công trình phục vụ cộng đồng. Đây là điểm hành hương thu hút đông tín đồ và cũng gây ấn tượng với du khách bởi quy mô, sự ngăn nắp và tinh thần thiện nguyện. Ghé Saraktash, du khách thường kết hợp thăm tu viện với thắng cảnh Núi Đỏ (Krasnaya gora) gần đó.",
+    [
+        "Quần thể tu viện Chính thống lớn ở Saraktash, kết hợp tu hành với từ thiện.",
+        "Có trại trẻ mồ côi, trường học, nhà dưỡng lão — 'thành phố nhỏ của lòng thương xót'.",
+        "Kiến trúc Nga nhiều mái vòm rực rỡ, điểm hành hương nổi bật của tỉnh.",
+    ],
+    p("Mở cửa hằng ngày theo lịch phụng vụ, thường từ sáng đến chiều tối.",
+      "Vào cửa tự do (miễn phí); tuỳ tâm quyên góp và ủng hộ hoạt động từ thiện.",
+      "Khoảng 1–1,5 giờ.",
+      "Quanh năm; đẹp và thuận tiện vào mùa ấm; dịp lễ lớn rất đông người hành hương.",
+      "Saraktash cách Orenburg khoảng 100 km về phía đông; kết hợp thăm Núi Đỏ. Trang phục kín đáo, nữ mang khăn trùm đầu; tôn trọng nếp sinh hoạt của tu viện."),
+    [
+        {"title": "Sobory.ru — Свято-Троицкая Симеонова Обитель Милосердия", "url": "https://sobory.ru/article/?object=26003"},
+        {"title": "Wikipedia (RU) — Саракташ", "url": "https://ru.wikipedia.org/wiki/Саракташ"},
+    ],
+    ["church", "orthodox", "monastery", "convent", "saraktash", "pilgrimage", "charity"],
+    maps_text("Свято-Троицкая Симеонова Обитель Милосердия", "Саракташ", "Holy Trinity Simeon Convent of Mercy", "Saraktash", 51.78656, 56.357364),
+))
+
+# 11) Соборная мечеть Орска (мечеть им. Дербсали Беркембаева) -----------------------
+RECORDS.append(rec(
+    "orsk-cathedral-mosque",
+    "Thánh đường Hồi giáo Trung tâm Orsk (Sobornaya mechet Orska)",
+    "Соборная мечеть Орска",
+    "Cathedral Mosque of Orsk",
+    ["church"],
+    51.211969, 58.561638,
+    "Phố Ordzhonikidze 8, khu Phố Cổ, thành phố Orsk, tỉnh Orenburg, Nga",
+    "Thánh đường Hồi giáo trung tâm của Orsk, đặt trong khu phố cổ lịch sử. Với tháp minaret và mái vòm, đây là trung tâm sinh hoạt của cộng đồng Hồi giáo đông đảo ở nửa phía đông tỉnh Orenburg.",
+    "Thánh đường Hồi giáo Trung tâm Orsk là ngôi đền Hồi giáo chính của thành phố công nghiệp lớn thứ hai tỉnh Orenburg, nằm trong khu Phố Cổ lịch sử dưới chân Đồi Preobrazhenskaya. Cũng như phần lớn vùng Orenburg, Orsk có cộng đồng đa sắc tộc với đông người Tatar, Bashkir và Kazakh theo đạo Hồi, nên thánh đường trung tâm là một thiết chế tôn giáo và văn hoá quan trọng. Ngôi nhà thờ Hồi giáo với mái vòm và tháp minaret vươn cao là nơi diễn ra các buổi cầu nguyện hằng ngày, lễ cầu nguyện thứ Sáu đông đảo và các dịp lễ lớn như Eid al-Fitr, Eid al-Adha. Bên cạnh chức năng thờ phụng, thánh đường còn là nơi gặp gỡ cộng đồng, dạy giáo lý và gìn giữ bản sắc dân tộc. Nằm gần cụm di sản Phố Cổ Orsk và Đồi Preobrazhenskaya, đây là điểm bổ sung thú vị giúp du khách cảm nhận diện mạo đa tôn giáo của thành phố biên giới Âu-Á này.",
+    [
+        "Thánh đường Hồi giáo trung tâm của Orsc, trong khu Phố Cổ lịch sử.",
+        "Trung tâm sinh hoạt của cộng đồng Hồi giáo Tatar-Bashkir-Kazakh vùng đông tỉnh.",
+        "Gần cụm di sản Phố Cổ Orsk và Đồi Preobrazhenskaya.",
+    ],
+    p("Mở cửa theo giờ hành lễ hằng ngày; đông nhất vào trưa thứ Sáu và dịp lễ.",
+      "Vào cửa tự do (miễn phí).",
+      "Khoảng 20–30 phút.",
+      "Quanh năm; kết hợp thăm Phố Cổ Orsk.",
+      "Trang phục kín đáo, nữ trùm khăn, cởi giày khi vào khu cầu nguyện; hỏi phép trước khi chụp ảnh và tránh giờ hành lễ."),
+    [
+        {"title": "OpenStreetMap — Соборная мечеть (Орск)", "url": "https://www.openstreetmap.org/?mlat=51.211969&mlon=58.561638#map=18/51.211969/58.561638"},
+        {"title": "Wikipedia (RU) — Орск", "url": "https://ru.wikipedia.org/wiki/Орск"},
+    ],
+    ["church", "mosque", "islam", "orsk", "religion", "old-town"],
+    maps_text("Соборная мечеть", "Орск", "Cathedral Mosque of Orsk", "Orsk", 51.211969, 58.561638),
+))
+
+# ============================ TƯỢNG ĐÀI / DI TÍCH (monument) ============================
+
+# 12) Елизаветинские ворота --------------------------------------------------------
+RECORDS.append(rec(
+    "elizavetinskiye-vorota",
+    "Cổng Elizaveta (Elizavetinskiye Vorota)",
+    "Елизаветинские ворота",
+    "Elizabeth Gate (Elizavetinskiye Vorota)",
+    ["monument"],
+    51.754925, 55.106649,
+    "Đại lộ Pushkinsky (lối xuống bờ kè sông Ural), thành phố Orenburg, tỉnh Orenburg, Nga",
+    "Cổng đá lịch sử ở lối xuống bờ kè sông Ural, món quà của Nữ hoàng Elizaveta Petrovna tặng người Cossack Orenburg thế kỷ 18. Bản phục dựng ngày nay là một biểu tượng và điểm chụp ảnh nổi tiếng bên sông.",
+    "Cổng Elizaveta (Елизаветинские ворота) là một trong những biểu tượng lịch sử lâu đời nhất của Orenburg, gắn với thời kỳ thành phố còn là pháo đài biên cương. Theo sử sách, chiếc cổng đá này là món quà của Nữ hoàng Elizaveta Petrovna ban tặng cho quân Cossack Orenburg giữa thế kỷ 18 để ghi công bảo vệ biên giới, và từng được dựng ở một trong các cổng thành hướng ra thảo nguyên. Cổng mang phong cách baroque với các cột trụ, phù điêu và biểu tượng đế chế. Trải qua biến động thời gian, bản gốc hư hại và các chi tiết được bảo quản trong bảo tàng; công trình du khách thấy ngày nay là bản phục dựng, đặt ở lối xuống bờ kè sông Ural gần đại lộ Pushkinsky, ngay khu trung tâm lịch sử. Đứng ở đây, du khách vừa ngắm được dòng Ural — con sông ranh giới Âu-Á, vừa chạm vào câu chuyện về thời Orenburg là 'cửa ngõ' của Đế quốc Nga xuống phương Đông. Cổng Elizaveta là điểm chụp ảnh quen thuộc và là chặng dừng trên tuyến dạo bờ kè.",
+    [
+        "Cổng đá baroque gắn với món quà của Nữ hoàng Elizaveta cho Cossack Orenburg (thế kỷ 18).",
+        "Bản phục dựng đặt ở lối xuống bờ kè sông Ural, khu trung tâm lịch sử.",
+        "Điểm ngắm sông Ural (ranh giới Âu-Á) và chụp ảnh nổi tiếng của thành phố.",
+    ],
+    p("Không gian ngoài trời, tham quan tự do mọi lúc.",
+      "Miễn phí.",
+      "Khoảng 15–20 phút.",
+      "Chiều mát và hoàng hôn; đẹp nhất mùa hè khi bờ kè nhộn nhịp.",
+      "Kết hợp dạo bờ kè sông Ural, tượng đài Chkalov và cầu đi bộ Âu-Á gần đó; có bậc thang xuống sông."),
+    [
+        {"title": "Wikipedia (RU) — Елизаветинские ворота (Оренбург)", "url": "https://ru.wikipedia.org/wiki/Елизаветинские_ворота"},
+        {"title": "OpenStreetMap — Елизаветинские ворота", "url": "https://www.openstreetmap.org/?mlat=51.754925&mlon=55.106649#map=18/51.754925/55.106649"},
+    ],
+    ["monument", "history", "orenburg", "landmark", "ural-river", "cossack"],
+    maps_text("Елизаветинские ворота", "Оренбург", "Elizabeth Gate", "Orenburg", 51.754925, 55.106649),
+))
+
+# 13) Памятник В. П. Чкалову + набережная Урала ------------------------------------
+RECORDS.append(rec(
+    "chkalov-monument-ural-embankment",
+    "Tượng đài phi công Chkalov và bờ kè sông Ural (Pamyatnik Chkalovu)",
+    "Памятник В. П. Чкалову",
+    "Monument to Valery Chkalov & Ural Embankment",
+    ["monument"],
+    51.754653, 55.106309,
+    "Bờ kè sông Ural, đại lộ Pushkinsky, thành phố Orenburg, tỉnh Orenburg, Nga",
+    "Tượng đài phi công huyền thoại Valery Chkalov đứng trên bờ kè cao nhìn ra sông Ural, một biểu tượng của Orenburg (từng mang tên Chkalov). Quảng trường và bờ kè quanh tượng là điểm dạo chơi, ngắm sông đẹp nhất thành phố.",
+    "Tượng đài Valery Chkalov là một trong những biểu tượng nổi tiếng nhất của Orenburg, đến mức trong thời kỳ Xô Viết (1938–1957) thành phố từng được đổi tên thành 'Chkalov' để vinh danh viên phi công thử nghiệm huyền thoại này — người đầu tiên bay thẳng không nghỉ từ Moskva qua Bắc Cực đến Hoa Kỳ. Bức tượng đồng cao lớn đặt trên bệ đá granite, dựng ở đầu đại lộ Pushkinsky trên bờ kè cao, hướng nhìn ra dòng sông Ural. Đây là điểm ngắm cảnh đẹp bậc nhất Orenburg: từ quảng trường quanh tượng, du khách nhìn bao quát khúc sông Ural — ranh giới ước lệ giữa châu Âu và châu Á — cùng công viên Zauralnaya Roshcha bên kia bờ. Bờ kè lát đá với bậc thang xuống sông, hàng cây và ghế nghỉ là nơi người dân dạo bộ, chụp ảnh cưới và thư giãn, đặc biệt vào chiều tối khi lên đèn. Cụm tượng đài Chkalov, cổng Elizaveta, cầu đi bộ Âu-Á và cáp treo tạo thành một quần thể tham quan liền mạch, trái tim của Orenburg bên sông.",
+    [
+        "Tượng đài phi công huyền thoại Chkalov — thành phố từng mang tên ông (1938–1957).",
+        "Đặt trên bờ kè cao đầu đại lộ Pushkinsky, điểm ngắm sông Ural đẹp nhất thành phố.",
+        "Trung tâm quần thể bờ sông cùng cổng Elizaveta, cầu Âu-Á và cáp treo.",
+    ],
+    p("Không gian công cộng ngoài trời, tham quan và dạo chơi tự do mọi lúc.",
+      "Miễn phí.",
+      "Khoảng 20–40 phút (kể cả dạo bờ kè).",
+      "Chiều mát và hoàng hôn; đẹp nhất mùa hè và khi thành phố lên đèn.",
+      "Kết hợp cổng Elizaveta, cầu đi bộ Âu-Á và cáp treo qua sông ngay cạnh; nhiều bậc thang, mang giày thoải mái."),
+    [
+        {"title": "Wikipedia (RU) — Памятник Чкалову (Оренбург)", "url": "https://ru.wikipedia.org/wiki/Памятник_Чкалову_(Оренбург)"},
+        {"title": "OpenStreetMap — Памятник В. П. Чкалову", "url": "https://www.openstreetmap.org/?mlat=51.754653&mlon=55.106309#map=18/51.754653/55.106309"},
+    ],
+    ["monument", "orenburg", "chkalov", "ural-river", "embankment", "viewpoint"],
+    maps_text("Памятник В. П. Чкалову", "Оренбург", "Monument to Valery Chkalov", "Orenburg", 51.754653, 55.106309),
+))
+
+# 14) Башня с курантами (ул. Советская) --------------------------------------------
+RECORDS.append(rec(
+    "orenburg-clock-tower",
+    "Tháp Đồng hồ trên phố Sovetskaya (Bashnya s kurantami)",
+    "Башня с курантами",
+    "Clock Tower on Sovetskaya Street",
+    ["monument"],
+    51.764400, 55.100184,
+    "Phố Sovetskaya 27, thành phố Orenburg, tỉnh Orenburg, Nga",
+    "Tháp đồng hồ bằng gạch đỏ cao vút trên phố đi bộ Sovetskaya, một điểm nhấn kiến trúc và biểu tượng hiện đại của trung tâm Orenburg. Tiếng chuông đồng hồ điểm giờ trở thành âm thanh quen thuộc của thành phố.",
+    "Tháp Đồng hồ (Башня с курантами) là một trong những điểm nhận diện dễ thấy nhất trên phố đi bộ Sovetskaya — trục dạo bộ chính của Orenburg. Toà tháp gạch đỏ cao khoảng 35 mét được dựng theo phong cách gợi nhớ kiến trúc châu Âu cổ, với bốn mặt đồng hồ và bộ chuông điểm giờ (kuranty). Dù là công trình tương đối mới, tháp nhanh chóng trở thành biểu tượng và điểm hẹn quen thuộc của người dân cũng như du khách; tiếng chuông ngân vang mỗi giờ tạo nên nét duyên riêng cho khu phố đi bộ. Đứng nổi bật giữa những toà nhà thương nhân cổ và các quán cà phê, cửa hàng dọc phố Sovetskaya, tháp đồng hồ là phông nền được ưa chuộng để chụp ảnh. Đây là điểm dừng nhanh thú vị khi dạo trung tâm lịch sử Orenburg, dễ kết hợp với Gostiny Dvor, các bảo tàng và tượng đài lân cận.",
+    [
+        "Tháp đồng hồ gạch đỏ cao ~35 m, biểu tượng của phố đi bộ Sovetskaya.",
+        "Bốn mặt đồng hồ và bộ chuông điểm giờ (kuranty) ngân vang mỗi giờ.",
+        "Điểm hẹn và phông nền chụp ảnh quen thuộc giữa khu phố cổ.",
+    ],
+    p("Là công trình đô thị, ngắm từ bên ngoài tự do mọi lúc.",
+      "Miễn phí (ngắm bên ngoài).",
+      "Khoảng 10–15 phút.",
+      "Quanh năm; đẹp cả ban ngày lẫn buổi tối khi lên đèn.",
+      "Nằm trên phố đi bộ Sovetskaya, dễ kết hợp Gostiny Dvor, bảo tàng địa phương học và các quán cà phê."),
+    [
+        {"title": "Wikipedia (RU) — Оренбург", "url": "https://ru.wikipedia.org/wiki/Оренбург"},
+        {"title": "OpenStreetMap — Башня с курантами (Оренбург)", "url": "https://www.openstreetmap.org/?mlat=51.764400&mlon=55.100184#map=18/51.764400/55.100184"},
+    ],
+    ["monument", "landmark", "orenburg", "clock-tower", "architecture", "walking"],
+    maps_text("Башня с курантами", "Оренбург", "Clock Tower Sovetskaya Street", "Orenburg", 51.764400, 55.100184),
+))
+
+# 15) Памятник А. С. Пушкину и В. И. Далю ------------------------------------------
+RECORDS.append(rec(
+    "pushkin-dal-monument-orenburg",
+    "Tượng đài Pushkin và Dal (Pamyatnik Pushkinu i Dalyu)",
+    "Памятник А. С. Пушкину и В. И. Далю",
+    "Monument to Pushkin and Dahl",
+    ["monument"],
+    51.764954, 55.099449,
+    "Vườn hoa nhỏ gần phố Sovetskaya / Krasnoznamyonnaya, thành phố Orenburg, tỉnh Orenburg, Nga",
+    "Tượng đài đôi khắc hoạ đại thi hào Pushkin trò chuyện cùng nhà từ điển học Vladimir Dal, kỷ niệm chuyến đi Orenburg năm 1833 của Pushkin. Bức tượng gắn với sự ra đời của tác phẩm 'Người con gái viên đại uý'.",
+    "Tượng đài Pushkin và Dal là một trong những tượng đài văn học đáng yêu nhất Orenburg, ghi dấu một sự kiện có thật trong lịch sử văn hoá Nga. Năm 1833, đại thi hào Aleksandr Pushkin đến Orenburg và vùng thảo nguyên xung quanh để thu thập tư liệu cho công trình về cuộc khởi nghĩa Pugachev; người đồng hành và dẫn đường cho ông chính là Vladimir Dal — quan chức, nhà văn và nhà ngôn ngữ học nổi tiếng khi đó đang làm việc tại Orenburg, tác giả bộ 'Từ điển giải nghĩa tiếng Nga vĩ đại sống động' đồ sộ. Chuyến đi này đã cho ra đời tiểu thuyết kinh điển 'Người con gái viên đại uý' và tác phẩm sử 'Lịch sử Pugachev'. Bức tượng khắc hoạ hai văn hào đang thong thả trò chuyện, đặt trong một vườn hoa nhỏ ở trung tâm, trở thành điểm dừng gợi nhớ mối duyên giữa văn học Nga và vùng đất Orenburg. Với du khách yêu văn chương, đây là nơi thú vị để chụp ảnh và hình dung Orenburg qua con mắt của Pushkin gần hai thế kỷ trước.",
+    [
+        "Tượng đài đôi Pushkin và Dal, kỷ niệm chuyến đi Orenburg năm 1833 của Pushkin.",
+        "Gắn với sự ra đời tiểu thuyết 'Người con gái viên đại uý' và 'Lịch sử Pugachev'.",
+        "Đặt trong vườn hoa nhỏ ở trung tâm, điểm dừng cho người yêu văn học.",
+    ],
+    p("Không gian ngoài trời, tham quan tự do mọi lúc.",
+      "Miễn phí.",
+      "Khoảng 10–15 phút.",
+      "Quanh năm; đẹp khi có nắng để chụp ảnh.",
+      "Gần phố đi bộ Sovetskaya; dễ kết hợp Bảo tàng Lịch sử Orenburg (nơi lưu giữ tư liệu về Pushkin) và các điểm trung tâm."),
+    [
+        {"title": "Wikipedia (RU) — Оренбург (Пушкин в Оренбурге)", "url": "https://ru.wikipedia.org/wiki/Оренбург"},
+        {"title": "OpenStreetMap — Памятник Пушкину и Далю", "url": "https://www.openstreetmap.org/?mlat=51.764954&mlon=55.099449#map=18/51.764954/55.099449"},
+    ],
+    ["monument", "literature", "orenburg", "pushkin", "dahl", "culture"],
+    maps_text("Памятник Пушкину и Далю", "Оренбург", "Monument to Pushkin and Dahl", "Orenburg", 51.764954, 55.099449),
+))
+
+# ============================ PHỐ / QUẢNG TRƯỜNG (square_street) ============================
+
+# 16) Улица Советская (пешеходная, «Оренбургский Арбат») ---------------------------
+RECORDS.append(rec(
+    "sovetskaya-street-orenburg",
+    "Phố đi bộ Sovetskaya — 'Arbat Orenburg' (Ulitsa Sovetskaya)",
+    "Улица Советская",
+    "Sovetskaya Street (Orenburg Arbat)",
+    ["square_street"],
+    51.759726, 55.103576,
+    "Phố Sovetskaya (đoạn đi bộ), trung tâm lịch sử thành phố Orenburg, tỉnh Orenburg, Nga",
+    "Trục phố đi bộ chính của Orenburg, thường gọi là 'Arbat Orenburg'. Con phố lát đá với dãy nhà thương nhân cổ, tháp đồng hồ, tượng đường phố và quán cà phê là nơi dạo bộ, gặp gỡ yêu thích của người dân.",
+    "Phố Sovetskaya là tuyến phố chính và giàu lịch sử nhất của Orenburg; đoạn trung tâm được biến thành phố đi bộ và người dân trìu mến gọi là 'Arbat Orenburg'. Dạo dọc con phố lát đá, du khách như đi qua một bảo tàng kiến trúc ngoài trời: hai bên là những dinh thự, cửa hiệu và công thự thế kỷ 18–19 từ thời Orenburg còn là thủ phủ vùng biên và trung tâm giao thương với Trung Á, xen kẽ nhà thương nhân, khách sạn cổ và các công trình phong cách cổ điển, tân nghệ thuật. Phố tập trung nhiều điểm đáng xem: Tháp Đồng hồ với bộ chuông, Gostiny Dvor, Bảo tàng địa phương học, Nhà hát Kịch Gorky, cùng nhiều tượng đường phố nhỏ ngộ nghĩnh làm điểm chụp ảnh. Xen giữa là quán cà phê, nhà hàng, cửa hàng lưu niệm và ghế nghỉ dưới hàng cây. Đây là nơi diễn ra các sự kiện, lễ hội và biểu diễn đường phố, đồng thời là điểm hẹn quen thuộc của giới trẻ và các gia đình. Với du khách, dạo phố Sovetskaya là cách dễ chịu nhất để cảm nhận nhịp sống và bề dày lịch sử của trung tâm Orenburg.",
+    [
+        "Phố đi bộ trung tâm của Orenburg, biệt danh 'Arbat Orenburg'.",
+        "Kiến trúc thương nhân và công thự thế kỷ 18–19 dọc hai bên phố.",
+        "Tập trung Tháp Đồng hồ, Gostiny Dvor, bảo tàng, nhà hát và tượng đường phố.",
+    ],
+    p("Không gian mở, dạo chơi tự do mọi lúc.",
+      "Miễn phí.",
+      "Khoảng 1–1,5 giờ tuỳ nhịp dạo và ghé quán.",
+      "Chiều mát và buổi tối; đẹp nhất mùa hè và các dịp lễ hội đường phố.",
+      "Dễ kết hợp hầu hết điểm tham quan trung tâm và tuyến bờ kè sông Ural; nhiều quán cà phê để nghỉ chân."),
+    [
+        {"title": "Wikipedia (RU) — Улица Советская (Оренбург)", "url": "https://ru.wikipedia.org/wiki/Советская_улица_(Оренбург)"},
+        {"title": "OpenStreetMap — Советская улица (Оренбург)", "url": "https://www.openstreetmap.org/?mlat=51.759726&mlon=55.103576#map=17/51.759726/55.103576"},
+    ],
+    ["square-street", "pedestrian", "orenburg", "city-center", "architecture", "walking"],
+    maps_text("Улица Советская", "Оренбург", "Sovetskaya Street", "Orenburg", 51.759726, 55.103576),
+))
+
+# 17) Гостиный двор (Оренбург) -----------------------------------------------------
+RECORDS.append(rec(
+    "gostiny-dvor-orenburg",
+    "Thương xá cổ Gostiny Dvor Orenburg (Gostiny Dvor)",
+    "Гостиный двор",
+    "Gostiny Dvor (Orenburg Merchant Arcade)",
+    ["square_street", "monument"],
+    51.763004, 55.098689,
+    "Phố Kirova 13 (khối phố Sovetskaya/Kirova/Pushkinskaya/Volodarskogo), thành phố Orenburg, tỉnh Orenburg, Nga",
+    "Thương xá lịch sử của Orenburg, một quần thể buôn bán khép kín hình chữ nhật xây từ thế kỷ 18. Đây là chứng nhân cho thời hoàng kim khi Orenburg là cửa ngõ giao thương giữa Nga và Trung Á, nay vẫn là khu mua sắm sầm uất.",
+    "Gostiny Dvor (Thương xá) là một trong những công trình lâu đời và mang tính biểu tượng nhất của Orenburg, phản ánh sứ mệnh lịch sử của thành phố như một trung tâm giao thương lớn giữa Đế quốc Nga và các vùng thảo nguyên, Trung Á. Được xây dựng từ giữa thế kỷ 18 khi Orenburg vừa lập, đây là một quần thể buôn bán khép kín hình chữ nhật rộng lớn, với các dãy cửa hàng, kho hàng bao quanh một sân trong, được bảo vệ như một pháo đài thương mại. Tại đây từng diễn ra hoạt động trao đổi nhộn nhịp giữa thương nhân Nga và các đoàn lạc đà từ Bukhara, Khiva, Kazakhstan — đưa về lụa, bông, da, gia súc để đổi lấy hàng hoá Nga. Trải qua nhiều lần tu sửa, Gostiny Dvor ngày nay vẫn giữ dáng dấp tường bao và cổng lịch sử, đồng thời được cải tạo thành trung tâm thương mại hiện đại — một sự tiếp nối thú vị của chức năng buôn bán qua gần ba thế kỷ. Ghé thăm Gostiny Dvor, du khách vừa mua sắm vừa hình dung được nhịp sống thương mại từng làm nên sự giàu có của Orenburg.",
+    [
+        "Thương xá khép kín hình chữ nhật xây từ thế kỷ 18, biểu tượng thương mại Orenburg.",
+        "Chứng nhân thời Orenburg là cửa ngõ giao thương Nga - Trung Á.",
+        "Nay được cải tạo thành trung tâm mua sắm, tiếp nối chức năng buôn bán gần ba thế kỷ.",
+    ],
+    p("Khu thương mại, thường mở cửa hằng ngày theo giờ trung tâm mua sắm; ngắm mặt ngoài lịch sử tự do.",
+      "Vào tham quan/mua sắm miễn phí.",
+      "Khoảng 30–60 phút.",
+      "Quanh năm; hợp cả ngày thời tiết xấu.",
+      "Nằm ngay khu phố đi bộ trung tâm, dễ kết hợp phố Sovetskaya, Tháp Đồng hồ và các bảo tàng."),
+    [
+        {"title": "Wikipedia (RU) — Гостиный двор (Оренбург)", "url": "https://ru.wikipedia.org/wiki/Гостиный_двор_(Оренбург)"},
+        {"title": "OpenStreetMap — Гостиный двор (Оренбург)", "url": "https://www.openstreetmap.org/?mlat=51.763004&mlon=55.098689#map=18/51.763004/55.098689"},
+    ],
+    ["square-street", "monument", "orenburg", "trade", "architecture", "history"],
+    maps_text("Гостиный двор", "Оренбург", "Gostiny Dvor Orenburg", "Orenburg", 51.763004, 55.098689),
+))
+
+# ============================ THIÊN NHIÊN / CÔNG VIÊN (park_garden) ============================
+
+# 18) Губерлинские горы ------------------------------------------------------------
+RECORDS.append(rec(
+    "guberlinskiye-gory",
+    "Dãy núi Guberlinskiye (Guberlinskiye Gory)",
+    "Губерлинские горы",
+    "Guberlinsky Mountains",
+    ["park_garden"],
+    51.33333, 58.35000,
+    "Lưu vực sông Guberlya, huyện Gaysky/Novoorsky, phía đông tỉnh Orenburg, Nga",
+    "Dãy núi thấp lởm chởm ở phía đông tỉnh Orenburg, được ví như 'Thuỵ Sĩ Orenburg' nhờ cảnh quan hẻm núi, đồi đá và thảo nguyên khô cằn hoang sơ. Một trong những vùng phong cảnh ấn tượng và cổ xưa về địa chất nhất của tỉnh.",
+    "Dãy núi Guberlinskiye là một trong những cảnh quan thiên nhiên ngoạn mục nhất của tỉnh Orenburg, nằm ở rìa đông nam dãy Ural, trong lưu vực sông Guberlya (một nhánh của sông Ural). Đây thực chất là phần bị chia cắt mạnh của cao nguyên thảo nguyên, tạo thành một mê cung đồi đá thấp, hẻm núi, khe suối và sườn dốc lởm chởm — khiến vùng này được dân địa phương ví von là 'Thuỵ Sĩ Orenburg'. Về địa chất, đây là một trong những khu vực đá cổ xưa và độc đáo, lộ ra nhiều loại đá và khoáng vật, cùng thảm thực vật thảo nguyên khô đặc trưng với nhiều loài đặc hữu. Cảnh sắc thay đổi theo mùa: xanh mướt và rực rỡ hoa cỏ vào cuối xuân, vàng khô hùng vĩ vào mùa hè, trắng tuyết vào mùa đông. Guberlinskiye Gory hấp dẫn những người yêu thiên nhiên hoang sơ, thích đi bộ đường dài, chụp ảnh phong cảnh và cắm trại; đây cũng là điểm đến quen thuộc trong các tuyến du lịch khám phá phía đông Orenburg quanh Orsk, Gai và hồ chứa Iriklinskoye.",
+    [
+        "Cảnh quan đồi đá, hẻm núi và thảo nguyên hoang sơ — 'Thuỵ Sĩ Orenburg'.",
+        "Một trong những vùng đá cổ và độc đáo nhất về địa chất của tỉnh.",
+        "Điểm đến cho đi bộ đường dài, chụp ảnh phong cảnh và cắm trại.",
+    ],
+    p("Khu thiên nhiên ngoài trời, tham quan tự do; nên đi ban ngày.",
+      "Miễn phí (khu tự nhiên mở).",
+      "Nửa ngày đến trọn ngày tuỳ lộ trình.",
+      "Cuối xuân (tháng 5–6, mùa hoa cỏ) và đầu thu; tránh nắng gắt giữa hè.",
+      "Vùng hoang sơ, ít hạ tầng; nên đi ô tô gầm cao hoặc theo tour, mang đủ nước, mũ, giày leo và định vị GPS. Cách Orsk/Gai vài chục km."),
+    [
+        {"title": "Wikipedia (RU) — Губерлинские горы", "url": "https://ru.wikipedia.org/wiki/Губерлинские_горы"},
+        {"title": "OpenStreetMap — Губерлинские горы", "url": "https://www.openstreetmap.org/?mlat=51.33333&mlon=58.35000#map=11/51.33333/58.35000"},
+    ],
+    ["park-garden", "nature", "mountains", "orenburg", "steppe", "hiking", "landscape"],
+    maps_text("Губерлинские горы", "Оренбургская область", "Guberlinsky Mountains", "Orenburg Oblast", 51.33333, 58.35000),
+))
+
+# 19) Ириклинское водохранилище ----------------------------------------------------
+RECORDS.append(rec(
+    "iriklinskoye-reservoir",
+    "Hồ chứa Iriklinskoye (Iriklinskoye vodokhranilishche)",
+    "Ириклинское водохранилище",
+    "Iriklinskoye Reservoir",
+    ["park_garden"],
+    51.68333, 58.62500,
+    "Trên sông Ural, huyện Gaysky/Kvarkensky, phía đông tỉnh Orenburg, Nga",
+    "Hồ chứa nhân tạo lớn nhất tỉnh Orenburg trên sông Ural, một 'biển nội địa' rộng lớn giữa vùng đồi thảo nguyên phía đông. Nơi đây nổi tiếng về câu cá, nghỉ dưỡng ven hồ và cảnh quan mặt nước bao la.",
+    "Hồ chứa Iriklinskoye là hồ nhân tạo lớn nhất tỉnh Orenburg và là một trong những hồ chứa lớn của vùng Ural, được tạo thành khi ngăn dòng sông Ural bằng đập thuỷ điện vào cuối thập niên 1950. Trải dài hàng chục kilômét giữa những dãy đồi thảo nguyên khô cằn, mặt hồ rộng mênh mông tựa một 'biển nội địa', với nhiều vịnh, mũi đất và bờ đá tạo nên phong cảnh vừa hùng vĩ vừa nên thơ — tương phản ấn tượng với thảo nguyên xung quanh. Iriklinskoye là điểm nghỉ dưỡng và giải trí ngoài trời được ưa chuộng bậc nhất phía đông tỉnh: nổi tiếng về câu cá (cá tráp, cá rô, cá măng...), bơi thuyền, tắm mát mùa hè và cắm trại ven bờ. Quanh hồ có các khu nghỉ (baza otdykha) phục vụ du khách. Bên cạnh vai trò cấp nước và phát điện, hồ còn giữ vai trò điều hoà khí hậu tiểu vùng. Với những ai muốn kết hợp thiên nhiên và nghỉ ngơi trong hành trình khám phá phía đông Orenburg (gần Gai, Orsk và dãy Guberlinskiye), đây là điểm dừng lý tưởng.",
+    [
+        "Hồ chứa nhân tạo lớn nhất tỉnh trên sông Ural — 'biển nội địa' giữa thảo nguyên.",
+        "Nổi tiếng về câu cá, bơi thuyền, tắm mát và cắm trại ven hồ.",
+        "Cảnh quan mặt nước bao la với nhiều vịnh và bờ đá, có các khu nghỉ dưỡng.",
+    ],
+    p("Khu vực hồ mở, tham quan và nghỉ dưỡng theo dịch vụ của các baza otdykha.",
+      "Tiếp cận bờ hồ nhìn chung miễn phí; các khu nghỉ, thuê thuyền, câu cá có thu phí.",
+      "Nửa ngày đến vài ngày (nếu nghỉ lại).",
+      "Mùa hè (tháng 6–8) cho tắm và chèo thuyền; cuối xuân/đầu thu đẹp và mát.",
+      "Cách Orsk/Gai vài chục km; nên đi ô tô, đặt trước khu nghỉ vào cao điểm hè. Mang kem chống nắng, đồ câu nếu thích câu cá."),
+    [
+        {"title": "Wikipedia (RU) — Ириклинское водохранилище", "url": "https://ru.wikipedia.org/wiki/Ириклинское_водохранилище"},
+        {"title": "OpenStreetMap — Ириклинское водохранилище", "url": "https://www.openstreetmap.org/?mlat=51.68333&mlon=58.62500#map=10/51.68333/58.62500"},
+    ],
+    ["park-garden", "nature", "lake", "reservoir", "orenburg", "fishing", "recreation"],
+    maps_text("Ириклинское водохранилище", "Оренбургская область", "Iriklinskoye Reservoir", "Orenburg Oblast", 51.68333, 58.62500),
+))
+
+# 20) Оренбургский заповедник — участок «Предуральская степь» (лошади Пржевальского)
+RECORDS.append(rec(
+    "preduralskaya-step-przewalski",
+    "Thảo nguyên Preduralskaya - Trung tâm ngựa hoang Przewalski (Predural'skaya step)",
+    "Оренбургский заповедник, участок «Предуральская степь»",
+    "Pre-Ural Steppe (Orenburg Reserve, Przewalski's Horse Centre)",
+    ["park_garden"],
+    51.183657, 56.182885,
+    "Huyện Belyaevsky/Akbulaksky, Khu bảo tồn thiên nhiên Orenburg, tỉnh Orenburg, Nga",
+    "Khu thảo nguyên nguyên sinh thuộc Khu bảo tồn thiên nhiên Orenburg, nổi tiếng là nơi tái thả và bảo tồn ngựa hoang Przewalski. Đây là chương trình phục hồi loài ngựa hoang dã quý hiếm quy mô lớn duy nhất của nước Nga.",
+    "Khu 'Предуральская степь' (Thảo nguyên trước Ural) là một trong các phân khu của Khu bảo tồn thiên nhiên quốc gia Orenburg, và là điểm đến thiên nhiên độc đáo bậc nhất của tỉnh nhờ Trung tâm tái thả ngựa hoang Przewalski. Ngựa Przewalski là phân loài ngựa hoang dã thực sự duy nhất còn sót lại trên thế giới, từng tuyệt chủng ngoài tự nhiên và được cứu nhờ nhân giống trong điều kiện nuôi nhốt. Từ năm 2015, tại vùng thảo nguyên rộng lớn được bảo vệ nghiêm ngặt này, các cá thể ngựa Przewalski được đưa từ châu Âu về, thích nghi dần rồi thả vào môi trường bán hoang dã — biến nơi đây thành chương trình phục hồi loài ngựa hoang lớn nhất và duy nhất ở Nga. Đàn ngựa nay sinh sản và sống gần như hoang dã trên thảo nguyên nguyên sinh với hệ thực vật, chim và động vật đặc trưng. Du khách có thể tham quan theo tour có hướng dẫn của khu bảo tồn để quan sát ngựa và tìm hiểu công tác bảo tồn, kết hợp trải nghiệm không gian thảo nguyên bao la ít bị con người tác động — một cảnh quan tiêu biểu và cảm động của vùng Orenburg.",
+    [
+        "Khu thảo nguyên nguyên sinh thuộc Khu bảo tồn thiên nhiên quốc gia Orenburg.",
+        "Trung tâm tái thả ngựa hoang Przewalski lớn và duy nhất ở Nga (từ 2015).",
+        "Quan sát ngựa hoang bán dã và hệ sinh thái thảo nguyên qua tour có hướng dẫn.",
+    ],
+    p("Chỉ tham quan theo tour/đăng ký trước với ban quản lý khu bảo tồn; không tự do vào khu bảo vệ.",
+      "Có phí tham quan/hướng dẫn theo quy định của khu bảo tồn; cần đăng ký trước.",
+      "Nửa ngày (kể cả di chuyển).",
+      "Cuối xuân đến đầu thu (tháng 5–9); mùa xuân thảo nguyên nở hoa đẹp nhất.",
+      "Cách Orenburg khoảng 120–150 km; bắt buộc liên hệ, đăng ký tour trước. Mang nước, mũ, ống nhòm; tuân thủ quy định bảo tồn, không tự ý tiếp cận ngựa."),
+    [
+        {"title": "Wikipedia (RU) — Оренбургский заповедник", "url": "https://ru.wikipedia.org/wiki/Оренбургский_заповедник"},
+        {"title": "Wikipedia (RU) — Центр реинтродукции лошади Пржевальского", "url": "https://ru.wikipedia.org/wiki/Лошадь_Пржевальского"},
+    ],
+    ["park-garden", "nature", "reserve", "steppe", "orenburg", "przewalski-horse", "wildlife"],
+    maps_text("Оренбургский заповедник Предуральская степь", "Оренбургская область", "Pre-Ural Steppe Orenburg Reserve", "Orenburg Oblast", 51.183657, 56.182885),
+))
+
+# 21) Оренбургский заповедник — участок «Буртинская степь» -------------------------
+RECORDS.append(rec(
+    "burtinskaya-step-reserve",
+    "Thảo nguyên Burtinskaya (Burtinskaya step, Khu bảo tồn Orenburg)",
+    "Оренбургский заповедник, участок «Буртинская степь»",
+    "Burta Steppe (Orenburg Nature Reserve)",
+    ["park_garden"],
+    51.173684, 56.746766,
+    "Huyện Belyaevsky, cách thôn Burlyksky khoảng 10 km, Khu bảo tồn thiên nhiên Orenburg, tỉnh Orenburg, Nga",
+    "Phân khu thảo nguyên nguyên sinh đẹp nhất của Khu bảo tồn thiên nhiên Orenburg, với đồng cỏ, suối trong và mạch nước ngầm. Nơi lưu giữ hệ động thực vật thảo nguyên đặc trưng, gần như chưa bị con người tác động.",
+    "Khu 'Буртинская степь' (Thảo nguyên Burta) là một trong bốn phân khu của Khu bảo tồn thiên nhiên quốc gia Orenburg và được xem là mảnh thảo nguyên nguyên sinh đẹp, tiêu biểu nhất của vùng. Nằm ở huyện Belyaevsky, khu bảo tồn này gìn giữ một thảm thảo nguyên gần như chưa bị cày xới, với hệ thực vật phong phú — nhiều loài cỏ lông (kovyl), thảo dược và hoa dại đặc hữu bung nở rực rỡ vào cuối xuân, cùng các loài chim, thú và côn trùng thảo nguyên quý hiếm. Điểm đặc biệt của Burtinskaya step là hệ thống mạch nước: các con suối trong, đầm nhỏ và đặc biệt là mạch nước ngầm phun tự nhiên tạo nên những ốc đảo xanh giữa vùng khô hạn, thu hút chim di cư và làm nên cảnh quan độc đáo. Là khu bảo vệ nghiêm ngặt, nơi đây chỉ đón khách theo các tuyến sinh thái và tour có hướng dẫn của ban quản lý, nhằm giữ nguyên vẹn hệ sinh thái. Với người yêu thiên nhiên, đây là dịp hiếm để chiêm ngưỡng thảo nguyên Á-Âu ở trạng thái nguyên bản.",
+    [
+        "Mảnh thảo nguyên nguyên sinh tiêu biểu và đẹp nhất Khu bảo tồn Orenburg.",
+        "Hệ thực vật cỏ lông, thảo dược và hoa dại đặc hữu, rực rỡ vào cuối xuân.",
+        "Suối trong và mạch nước ngầm tạo ốc đảo xanh giữa thảo nguyên khô hạn.",
+    ],
+    p("Chỉ tham quan theo tuyến sinh thái/tour đăng ký trước với ban quản lý khu bảo tồn.",
+      "Có phí tham quan/hướng dẫn theo quy định; cần đăng ký trước.",
+      "Nửa ngày (kể cả di chuyển).",
+      "Cuối xuân (tháng 5–6, mùa hoa cỏ) là đẹp nhất; đầu thu cũng dễ chịu.",
+      "Cách Orenburg khoảng 120 km; bắt buộc liên hệ, đăng ký trước và đi cùng hướng dẫn. Mang nước, mũ; tuân thủ quy định bảo tồn, không rời tuyến."),
+    [
+        {"title": "Wikipedia (RU) — Оренбургский заповедник", "url": "https://ru.wikipedia.org/wiki/Оренбургский_заповедник"},
+        {"title": "Travel.orb.ru — Буртинская степь", "url": "https://travel.orb.ru/chem-zanyatsya/attractions/prirodnye-lokatsii/burtinskaya-step/"},
+    ],
+    ["park-garden", "nature", "reserve", "steppe", "orenburg", "wildflowers", "wildlife"],
+    maps_text("Оренбургский заповедник Буртинская степь", "Оренбургская область", "Burta Steppe Orenburg Reserve", "Orenburg Oblast", 51.173684, 56.746766),
+))
+
+# 22) Гора Полковник (месторождение орской яшмы) -----------------------------------
+RECORDS.append(rec(
+    "gora-polkovnik-jasper",
+    "Núi Polkovnik - mỏ đá jasper Orsk (Gora Polkovnik, orskaya yashma)",
+    "Гора Полковник",
+    "Mount Polkovnik (Orsk Jasper Deposit)",
+    ["park_garden"],
+    51.168205, 58.644294,
+    "Rìa đông nam thành phố Orsk, tỉnh Orenburg, Nga",
+    "Ngọn đồi bên rìa Orsk nổi tiếng thế giới với mỏ đá jasper (яшма) nhiều màu độc nhất vô nhị. 'Đá jasper Orsk' với hàng trăm sắc màu và hoa văn kỳ ảo được coi là báu vật khoáng sản của tỉnh Orenburg.",
+    "Núi Polkovnik là một địa danh thiên nhiên - địa chất đặc biệt bên rìa đông nam thành phố Orsk, nổi tiếng khắp nước Nga và thế giới nhờ mỏ đá jasper (яшма) độc đáo. 'Đá jasper Orsk' (орская яшма) được giới sưu tầm và nghệ nhân đánh giá là một trong những loại jasper đẹp và đa dạng bậc nhất hành tinh: một khối đá có thể hội tụ hàng chục sắc màu — đỏ, xanh, vàng, tím, xám — hoà quyện thành những hoa văn, 'phong cảnh' kỳ ảo như tranh vẽ tự nhiên, khiến mỗi phiến đá là độc bản. Từ thế kỷ 18–19, jasper Orsk đã được khai thác để chế tác đồ trang trí, bình, tranh khảm và tác phẩm nghệ thuật quý, nhiều trong số đó hiện diện tại các bảo tàng và cung điện lớn. Ngọn đồi và khu mỏ trở thành điểm đến của những người yêu khoáng vật, địa chất và du khách tò mò muốn tận mắt thấy nơi sinh ra loại đá kỳ diệu này; đá và sản phẩm jasper cũng là món quà lưu niệm đặc trưng của Orsk. Đây là điểm bổ sung hấp dẫn cho hành trình khám phá Orsk cùng Đồi Preobrazhenskaya và phố cổ.",
+    [
+        "Mỏ đá jasper (яшма) nhiều màu nổi tiếng thế giới bên rìa thành phố Orsk.",
+        "'Đá jasper Orsk' hội tụ hàng chục sắc màu, hoa văn kỳ ảo như tranh tự nhiên.",
+        "Từng cung cấp đá quý chế tác cho các bảo tàng, cung điện; nay là điểm địa chất-lưu niệm.",
+    ],
+    p("Khu đồi ngoài trời, tham quan tự do ban ngày; khu mỏ nên đi cẩn trọng.",
+      "Miễn phí (khu tự nhiên); sản phẩm/đá jasper mua tại cửa hàng lưu niệm Orsk.",
+      "Khoảng 1–2 giờ.",
+      "Cuối xuân đến đầu thu, ngày khô ráo.",
+      "Nằm ở rìa Orsk; nên đi ô tô. Đi giày chắc chắn, chú ý địa hình mỏ; không tự ý khai thác đá trái phép."),
+    [
+        {"title": "Wikipedia (RU) — Орская яшма", "url": "https://ru.wikipedia.org/wiki/Орская_яшма"},
+        {"title": "OpenStreetMap — Гора Полковник (Орск)", "url": "https://www.openstreetmap.org/?mlat=51.168205&mlon=58.644294#map=15/51.168205/58.644294"},
+    ],
+    ["park-garden", "nature", "geology", "jasper", "orsk", "orenburg", "mineral"],
+    maps_text("Гора Полковник", "Орск", "Mount Polkovnik Jasper", "Orsk", 51.168205, 58.644294),
+))
+
+# ============================ KHÁC (other) ============================
+
+# 23) Оренбургская канатная дорога через Урал --------------------------------------
+RECORDS.append(rec(
+    "orenburg-ural-cable-car",
+    "Cáp treo qua sông Ural nối Âu - Á (Kanatnaya doroga)",
+    "Оренбургская канатная дорога",
+    "Orenburg Ural Cable Car",
+    ["other"],
+    51.752899, 55.107564,
+    "Bờ kè sông Ural (gần tượng đài Chkalov), thành phố Orenburg, tỉnh Orenburg, Nga",
+    "Tuyến cáp treo ngắn vượt sông Ural, nối bờ 'châu Âu' ở trung tâm với bờ 'châu Á' bên công viên Zauralnaya Roshcha. Một trải nghiệm thú vị 'bay từ châu Âu sang châu Á' và ngắm toàn cảnh bờ sông Orenburg.",
+    "Cáp treo Orenburg là một trong những điểm hấp dẫn độc đáo và vui nhộn của thành phố, cho phép du khách 'di chuyển giữa hai châu lục' chỉ trong vài phút. Tuyến cáp treo bắc ngang sông Ural, nối bờ 'châu Âu' ở khu trung tâm lịch sử (gần tượng đài Chkalov và bờ kè) với bờ 'châu Á' bên công viên rừng Zauralnaya Roshcha. Ngồi trong cabin lơ lửng trên mặt nước, du khách được ngắm toàn cảnh khúc sông Ural uốn lượn, bờ kè lát đá, cầu đi bộ Âu-Á và đường chân trời của Orenburg — một góc nhìn đẹp mà đi bộ dưới đất khó có được, đặc biệt lãng mạn vào lúc hoàng hôn. Trải nghiệm 'bay từ châu Âu sang châu Á' này gắn liền với vị thế địa lý biểu tượng của Orenburg như thành phố nằm trên ranh giới hai lục địa. Cáp treo kết hợp cùng cầu đi bộ Âu-Á, cổng Elizaveta và tượng đài Chkalov tạo thành một cụm điểm đến liền mạch bên sông, rất được du khách và các gia đình yêu thích.",
+    [
+        "Cáp treo vượt sông Ural, 'bay' giữa hai bờ châu Âu và châu Á.",
+        "Ngắm toàn cảnh sông Ural, bờ kè, cầu Âu-Á và đường chân trời Orenburg từ trên cao.",
+        "Nối trung tâm với công viên rừng Zauralnaya Roshcha, đẹp nhất lúc hoàng hôn.",
+    ],
+    p("Mở cửa theo mùa và theo giờ khai thác (thường mùa ấm và ban ngày đến tối); nên kiểm tra trước.",
+      "Có bán vé lượt/khứ hồi, giá phải chăng.",
+      "Khoảng 15–30 phút (kể cả chờ và ngắm cảnh).",
+      "Mùa hè và đầu thu; đẹp nhất lúc hoàng hôn và khi thành phố lên đèn.",
+      "Kết hợp cầu đi bộ Âu-Á, tượng đài Chkalov và cổng Elizaveta ngay cạnh; kiểm tra lịch chạy vì có thể theo mùa/thời tiết."),
+    [
+        {"title": "Wikipedia (RU) — Оренбург (набережная, канатная дорога)", "url": "https://ru.wikipedia.org/wiki/Оренбург"},
+        {"title": "Travel.orb.ru — Канатная дорога через Урал", "url": "https://travel.orb.ru/"},
+    ],
+    ["other", "cable-car", "orenburg", "ural-river", "europe-asia", "viewpoint"],
+    maps_text("Оренбургская канатная дорога", "Оренбург", "Orenburg Ural Cable Car", "Orenburg", 51.752899, 55.107564),
+))
+
+# 24) Культурный комплекс «Национальная деревня» -----------------------------------
+RECORDS.append(rec(
+    "national-village-orenburg",
+    "Làng Dân tộc Orenburg - Công viên văn hoá các sắc tộc (Natsionalnaya derevnya)",
+    "Культурный комплекс «Национальная деревня»",
+    "National Village Cultural Complex (Orenburg)",
+    ["other"],
+    51.777757, 55.167841,
+    "Phố Mira, thành phố Orenburg, tỉnh Orenburg, Nga",
+    "Công viên văn hoá độc đáo tái hiện những ngôi làng của các dân tộc cùng sinh sống ở tỉnh Orenburg. Mỗi 'làng' có nhà truyền thống, bảo tàng, nhà hàng ẩm thực dân tộc, giúp du khách khám phá sự đa sắc tộc của vùng trong một không gian.",
+    "Làng Dân tộc (Национальная деревня) là một quần thể văn hoá độc đáo và rất được yêu thích của Orenburg, tôn vinh bản sắc đa sắc tộc — điểm đặc trưng nhất của vùng đất biên cương này. Trong công viên, mỗi cộng đồng dân tộc lớn của tỉnh có một 'ngôi làng' riêng gồm ngôi nhà truyền thống mang phong cách kiến trúc đặc trưng: làng Nga, Ukraina, Bashkir, Tatar, Kazakh, Mordva, Belarus, Chuvash, Armenia, Đức... Bên trong mỗi 'nhà dân tộc' thường có bảo tàng nhỏ giới thiệu trang phục, đồ dùng, phong tục; nhà hàng phục vụ ẩm thực truyền thống của dân tộc đó; đôi khi có thư viện, phòng lễ và nơi tổ chức sự kiện. Ý tưởng của công viên là thể hiện tinh thần chung sống hoà hợp giữa hàng chục dân tộc trên đất Orenburg. Với du khách, đây là một điểm đến vừa vui vừa bổ ích: chỉ trong một buổi, có thể 'đi vòng quanh' nhiều nền văn hoá, thưởng thức nhiều món ăn dân tộc và tìm hiểu bức tranh đa sắc tộc sống động của vùng thảo nguyên Nam Ural.",
+    [
+        "Công viên tái hiện các làng của nhiều dân tộc cùng sống ở tỉnh Orenburg.",
+        "Mỗi làng có nhà truyền thống, bảo tàng nhỏ và nhà hàng ẩm thực dân tộc.",
+        "Điểm khám phá bức tranh đa sắc tộc của vùng Nam Ural trong một không gian.",
+    ],
+    p("Công viên mở cửa ban ngày; các bảo tàng và nhà hàng trong từng làng có giờ riêng.",
+      "Vào công viên tự do; tham quan bảo tàng nhỏ và ăn uống tại nhà hàng tính phí riêng.",
+      "Khoảng 1,5–2,5 giờ.",
+      "Cuối xuân đến đầu thu (dạo bộ dễ chịu); dịp lễ hội dân tộc rất sôi động.",
+      "Kết hợp thưởng thức ẩm thực nhiều dân tộc; hỏi trước giờ mở của các bảo tàng trong từng làng."),
+    [
+        {"title": "Wikipedia (RU) — Национальная деревня (Оренбург)", "url": "https://ru.wikipedia.org/wiki/Национальная_деревня_(Оренбург)"},
+        {"title": "OpenStreetMap — Национальная деревня (Оренбург)", "url": "https://www.openstreetmap.org/?mlat=51.777757&mlon=55.167841#map=17/51.777757/55.167841"},
+    ],
+    ["other", "ethnography", "cultural-park", "orenburg", "multicultural", "cuisine"],
+    maps_text("Национальная деревня", "Оренбург", "National Village Cultural Complex", "Orenburg", 51.777757, 55.167841),
+))
+
+# 25) Красная гора (Саракташ, декорации «Русский бунт») ----------------------------
+RECORDS.append(rec(
+    "krasnaya-gora-saraktash",
+    "Núi Đỏ - Phim trường 'Nổi loạn Nga' ở Saraktash (Krasnaya gora)",
+    "Красная гора",
+    "Krasnaya Gora (Red Mountain Film Set, Saraktash)",
+    ["other"],
+    51.82638, 56.37221,
+    "Bờ phải sông Sakmara, gần làng Andreevka/Tatarsky Saraktash, huyện Saraktashsky, tỉnh Orenburg, Nga",
+    "Phim trường ngoài trời trên ngọn đồi đất đỏ bên sông Sakmara, dựng cho phim 'Nổi loạn Nga' (Russkiy bunt). Nay là khu du lịch dân tộc học tái hiện một pháo đài Cossack thế kỷ 18, giữa phong cảnh đồi đỏ ngoạn mục.",
+    "Красная гора (Núi Đỏ) là một trong những điểm đến hấp dẫn và 'sống ảo' nhất tỉnh Orenburg, kết hợp phong cảnh thiên nhiên độc đáo với một phim trường lịch sử. Trên những ngọn đồi đất sét đỏ au bên bờ sông Sakmara ở huyện Saraktashsky, đoàn làm phim đã dựng nguyên một 'thị trấn pháo đài Cossack thế kỷ 18' để quay bộ phim 'Русский бунт' (Nổi loạn Nga, năm 2000) chuyển thể từ tác phẩm 'Người con gái viên đại uý' của Pushkin — vốn lấy bối cảnh cuộc khởi nghĩa Pugachev ở chính vùng Orenburg. Sau khi phim đóng máy, khu phim trường được giữ lại và biến thành một quần thể du lịch dân tộc học ngoài trời: những ngôi nhà gỗ (izba), tường thành, tháp canh, nhà thờ và cối xay gió theo lối cổ, tái hiện đời sống làng Cossack xưa. Du khách có thể dạo trong 'ngôi làng lịch sử', mặc trang phục cổ chụp ảnh, ngắm khung cảnh đồi đỏ và khúc sông Sakmara uốn lượn từ trên cao — đặc biệt rực rỡ vào lúc hoàng hôn. Nằm gần thị trấn Saraktash, Núi Đỏ thường được kết hợp với chuyến thăm Tu viện Từ thiện Saraktash.",
+    [
+        "Phim trường ngoài trời của phim 'Nổi loạn Nga', tái hiện pháo đài Cossack thế kỷ 18.",
+        "Phong cảnh đồi đất đỏ bên sông Sakmara, đẹp ngoạn mục lúc hoàng hôn.",
+        "Khu du lịch dân tộc học: nhà gỗ, tường thành, tháp canh, chụp ảnh trang phục cổ.",
+    ],
+    p("Khu du lịch ngoài trời, mở cửa ban ngày (thường theo mùa ấm); nên kiểm tra trước.",
+      "Có thu phí vào cửa/tham quan; các dịch vụ (thuê trang phục, hướng dẫn) tính riêng.",
+      "Khoảng 1,5–2,5 giờ.",
+      "Cuối xuân đến đầu thu; đẹp nhất lúc chiều muộn - hoàng hôn để chụp đồi đỏ.",
+      "Cách Orenburg khoảng 100 km, gần thị trấn Saraktash; nên đi ô tô và kết hợp thăm Tu viện Từ thiện Saraktash. Mang giày phù hợp đi đồi."),
+    [
+        {"title": "Wikipedia (RU) — Красная гора (Саракташский район)", "url": "https://ru.wikipedia.org/wiki/Красная_гора_(Саракташский_район)"},
+        {"title": "Autotravel.ru — Красная гора (Саракташ)", "url": "https://autotravel.ru/otklik.php/12293"},
+    ],
+    ["other", "film-set", "saraktash", "orenburg", "cossack", "landscape", "ethnography"],
+    maps_text("Красная гора", "Саракташ", "Krasnaya Gora Red Mountain", "Saraktash", 51.82638, 56.37221),
+))
+
+# 26) Горнолыжный центр «Долина» (Кувандык) ----------------------------------------
+RECORDS.append(rec(
+    "dolina-ski-resort-kuvandyk",
+    "Khu trượt tuyết 'Dolina' ở Kuvandyk (Gornolyzhny tsentr Dolina)",
+    "Горнолыжный центр «Долина»",
+    "Dolina Ski Resort (Kuvandyk)",
+    ["other"],
+    51.4936, 57.3325,
+    "Thành phố Kuvandyk, huyện Kuvandyksky, tỉnh Orenburg, Nga",
+    "Khu trượt tuyết lớn nhất tỉnh Orenburg tại thị trấn Kuvandyk giữa dãy Ural, được ví là 'Thuỵ Sĩ Orenburg'. Điểm đến mùa đông quen thuộc với các đường trượt, cáp kéo và không khí núi non trong lành.",
+    "Trung tâm trượt tuyết 'Dolina' (Thung lũng) ở Kuvandyk là khu thể thao mùa đông lớn và nổi tiếng nhất tỉnh Orenburg, nằm giữa những ngọn đồi núi của dãy Ural ở phía đông nam tỉnh. Nhờ địa hình đồi núi hiếm có trong một vùng vốn chủ yếu là thảo nguyên bằng phẳng, khu Kuvandyk từ lâu được người dân trìu mến gọi là 'Thuỵ Sĩ Orenburg'. Khu trượt tuyết có nhiều đường trượt với độ khó khác nhau, phù hợp cả người mới lẫn người chơi có kinh nghiệm, cùng hệ thống cáp kéo, dịch vụ thuê thiết bị, huấn luyện viên và các cơ sở lưu trú, ăn uống. Vào mùa đông (thường từ tháng 12 đến tháng 3), nơi đây thu hút đông người dân Orenburg và các tỉnh lân cận đến trượt tuyết, trượt ván, chơi các trò trên tuyết và tận hưởng không khí núi non. Ngoài mùa trượt tuyết, cảnh quan đồi núi Kuvandyk cũng đẹp cho đi bộ và ngắm cảnh. Đây là điểm đến mùa đông tiêu biểu, cho thấy một khía cạnh khác lạ của tỉnh Orenburg ngoài hình ảnh thảo nguyên quen thuộc.",
+    [
+        "Khu trượt tuyết lớn nhất tỉnh Orenburg, ở Kuvandyk - 'Thuỵ Sĩ Orenburg'.",
+        "Nhiều đường trượt cho mọi trình độ, có cáp kéo, thuê đồ và huấn luyện viên.",
+        "Điểm đến mùa đông sôi động; cảnh đồi núi cũng đẹp cho đi bộ ngoài mùa tuyết.",
+    ],
+    p("Hoạt động chính vào mùa đông (khoảng tháng 12–3); giờ mở theo lịch khu trượt tuyết.",
+      "Vé trượt/cáp kéo và thuê thiết bị tính phí theo bảng giá khu nghỉ.",
+      "Nửa ngày đến trọn ngày (hoặc nghỉ lại).",
+      "Mùa đông (tháng 12–3) cho trượt tuyết; hè-thu cho đi bộ ngắm cảnh.",
+      "Kuvandyk cách Orenburg khoảng 200 km về phía đông; nên đi ô tô, đặt trước lưu trú vào cao điểm. Mang đồ giữ ấm; có thể thuê thiết bị tại chỗ."),
+    [
+        {"title": "Wikipedia (RU) — Кувандык", "url": "https://ru.wikipedia.org/wiki/Кувандык"},
+        {"title": "OpenStreetMap — Горнолыжный центр (Кувандык)", "url": "https://www.openstreetmap.org/?mlat=51.4936&mlon=57.3325#map=14/51.4936/57.3325"},
+    ],
+    ["other", "ski-resort", "winter-sports", "kuvandyk", "orenburg", "mountains"],
+    maps_text("Горнолыжный центр Долина", "Кувандык", "Dolina Ski Resort", "Kuvandyk", 51.4936, 57.3325),
+))
+
+
+def main():
+    path = os.path.join(REGIONS, f"{REGION}.json")
+    with open(path, encoding="utf-8") as f:
+        data = json.load(f)
+    existing_slugs = {p.get("slug") for p in data}
+    existing_ids = {p.get("id") for p in data}
+
+    added, skipped = [], []
+    for r in RECORDS:
+        if r["slug"] in existing_slugs or r["id"] in existing_ids:
+            skipped.append(r["slug"])
+            continue
+        data.append(r)
+        existing_slugs.add(r["slug"])
+        existing_ids.add(r["id"])
+        added.append(r["slug"])
+
+    if added:
+        bak = f"{path}.bak_add_{TS}"
+        shutil.copyfile(path, bak)
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+        print(f"Backup: {os.path.basename(bak)}")
+
+    print(f"REGION={REGION}  ADDED={len(added)}  SKIPPED(dup)={len(skipped)}  TOTAL_NOW={len(data)}")
+    if added:
+        print("  + " + "\n  + ".join(added))
+    if skipped:
+        print("  (skip dup): " + ", ".join(skipped))
+
+
+if __name__ == "__main__":
+    main()

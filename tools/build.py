@@ -15,7 +15,7 @@ rồi chạy lại `python3 tools/build.py`. KHÔNG cần sửa HTML/JS.
 
 Chạy:  python3 tools/build.py
 """
-import json, os, csv, glob, datetime
+import json, os, csv, glob, datetime, urllib.parse
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
@@ -24,6 +24,24 @@ DATA_DIR = os.path.join(ROOT, "data")
 EXPORTS_DIR = os.path.join(ROOT, "exports")
 
 REQUIRED = ["id", "name_vi", "region", "coordinates"]
+
+
+def _apply_vn_maps(p):
+    """Điểm Việt Nam: luôn dùng TÊN TIẾNG VIỆT + tỉnh cho link tìm kiếm Google/Yandex (tìm đúng hơn)."""
+    if (p.get("country") or "russia") != "vietnam":
+        return
+    c = p.get("coordinates") or {}
+    lat = c.get("lat"); lon = c.get("lon")
+    q = urllib.parse.quote((p.get("name_vi") or "").strip() + ", " +
+                           (p.get("region_name_vi") or "").strip() + ", Việt Nam")
+    m = p.get("maps") or {}
+    m["google"] = "https://www.google.com/maps/search/?api=1&query=" + q
+    if lat is not None and lon is not None:
+        m["yandex"] = "https://yandex.com/maps/?text=" + q + f"&ll={lon},{lat}&z=17"
+    else:
+        m["yandex"] = "https://yandex.com/maps/?text=" + q
+    p["maps"] = m
+
 
 
 def load_regions():
@@ -72,6 +90,7 @@ def build():
     for r in regions:
         items = r["items"]
         for p in items:
+            _apply_vn_maps(p)
             all_places.append(p)
             for c in p.get("categories", []):
                 cat_counts[c] = cat_counts.get(c, 0) + 1

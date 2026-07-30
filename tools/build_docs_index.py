@@ -55,7 +55,7 @@ def main():
                   f'<span class="c">({len(items)})</span></h2><div class="list">{rows}</div></section>')
     html = f"""<!DOCTYPE html><html lang="vi"><head><meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<title>Tài liệu thuyết minh nội bộ — Mục lục</title>
+<title>Tài liệu thuyết minh chi tiết — Mục lục</title>
 <style>
 *{{box-sizing:border-box}}body{{font-family:{FONT};margin:0;background:#f6f7fb;color:#1e2733}}
 .hd{{background:linear-gradient(135deg,#152c4e,#0f2138);color:#fff;padding:26px 20px}}
@@ -77,7 +77,7 @@ def main():
 .empty{{color:#5c6773;padding:30px 0;text-align:center;display:none}}
 .foot{{color:#5c6773;font-size:12px;text-align:center;padding:20px}}
 </style></head><body>
-<div class="hd"><div class="k">Cẩm nang Du lịch · Nội bộ</div>
+<div class="hd"><div class="k">Cẩm nang Du lịch</div>
 <h1>📚 Tài liệu thuyết minh chi tiết — Mục lục</h1>
 <p>{total} tài liệu · mở 1 link để tra cứu mọi địa điểm · cập nhật {TODAY}</p></div>
 <div class="wrap">
@@ -85,7 +85,7 @@ def main():
 <input id="q" type="search" placeholder="🔎 Tìm nhanh tên địa điểm…"/></div>
 {cards}
 <div class="empty" id="empty">Không tìm thấy tài liệu phù hợp.</div>
-<div class="foot">Tài liệu nội bộ — không public. Trang này tự cập nhật mỗi khi có tài liệu mới.</div>
+<div class="foot">Bộ bài thuyết minh chi tiết — tự cập nhật mỗi khi có tài liệu mới.</div>
 </div>
 <script>
 var q=document.getElementById('q');
