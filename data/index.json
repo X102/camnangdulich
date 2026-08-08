@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-29T19:32:03",
-  "total_places": 3173,
+  "generated": "2026-08-08T07:49:21",
+  "total_places": 3216,
   "regions": [
     {
       "slug": "adygea",
@@ -738,7 +738,7 @@
       "name_vi": "Tỉnh Moskva",
       "federal_district": "Vùng Trung tâm",
       "country": "russia",
-      "count": 53,
+      "count": 73,
       "bbox": [
         35.817,
         54.75667,
@@ -746,8 +746,8 @@
         56.495869
       ],
       "center": [
-        55.70154556603772,
-        37.49505949056605
+        55.865064260273954,
+        37.67472780821919
       ]
     },
     {
@@ -755,7 +755,7 @@
       "name_vi": "Moskva",
       "federal_district": "Thành phố trực thuộc liên bang",
       "country": "russia",
-      "count": 111,
+      "count": 134,
       "bbox": [
         37.443056,
         55.6156,
@@ -763,8 +763,8 @@
         55.8636
       ],
       "center": [
-        55.75295487387386,
-        37.61077381981983
+        55.7597788880597,
+        37.61296652238807
       ]
     },
     {
@@ -1545,8 +1545,8 @@
         21.1388
       ],
       "center": [
-        21.02880147368421,
-        105.79616231578946
+        21.02867165789474,
+        105.79639281578947
       ]
     },
     {
@@ -2027,19 +2027,19 @@
     }
   ],
   "categories": {
-    "park_garden": 975,
-    "other": 871,
-    "church": 652,
-    "museum": 596,
+    "park_garden": 979,
+    "other": 874,
+    "church": 671,
+    "museum": 606,
     "theatre": 116,
-    "monument": 865,
+    "monument": 883,
     "bridge": 64,
-    "square_street": 217,
-    "fortress": 130,
-    "palace": 81
+    "square_street": 218,
+    "fortress": 131,
+    "palace": 83
   },
   "countries": {
-    "russia": 2088,
+    "russia": 2131,
     "vietnam": 1085
   },
   "country_names": {
@@ -2053,7 +2053,7 @@
     71.233333
   ],
   "center": [
-    41.44366136942949,
-    74.6511274457925
+    41.63866068041038,
+    74.1593267231031
   ]
 }
