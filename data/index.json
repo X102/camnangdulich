@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-08T07:49:21",
-  "total_places": 3216,
+  "generated": "2026-08-08T23:26:01",
+  "total_places": 3881,
   "regions": [
     {
       "slug": "adygea",
@@ -75,16 +75,16 @@
       "name_vi": "Tỉnh Arkhangelsk",
       "federal_district": "Vùng Tây Bắc",
       "country": "russia",
-      "count": 8,
+      "count": 31,
       "bbox": [
         35.71056,
-        61.5036,
-        43.2836,
-        65.02444
+        61.32727,
+        52.8177,
+        80.3382
       ],
       "center": [
-        63.77828325,
-        39.958262
+        64.53027906451614,
+        41.41355983870968
       ]
     },
     {
@@ -109,16 +109,16 @@
       "name_vi": "Cộng hoà Bashkortostan",
       "federal_district": "Vùng Volga",
       "country": "russia",
-      "count": 8,
+      "count": 32,
       "bbox": [
-        55.923889,
-        53.044417,
+        54.06747,
+        52.57635,
         58.84,
         55.4167
       ],
       "center": [
-        54.2494,
-        56.699474
+        54.171514999999985,
+        56.571625062500004
       ]
     },
     {
@@ -126,16 +126,16 @@
       "name_vi": "Tỉnh Belgorod",
       "federal_district": "Vùng Trung tâm",
       "country": "russia",
-      "count": 8,
+      "count": 31,
       "bbox": [
         35.8003,
-        50.5311,
-        37.755964,
-        51.017747
+        50.1833361,
+        38.0841056,
+        51.2983508
       ],
       "center": [
-        50.672809375,
-        36.642766625
+        50.75586676774193,
+        36.865559296774194
       ]
     },
     {
@@ -160,16 +160,16 @@
       "name_vi": "Cộng hoà Buryatia",
       "federal_district": "Vùng Viễn Đông",
       "country": "russia",
-      "count": 8,
+      "count": 32,
       "bbox": [
-        102.42889,
-        51.480556,
+        100.59696559,
+        50.35,
         110.416667,
-        54.333333
+        55.63333
       ],
       "center": [
-        52.667335625,
-        107.63674362500001
+        52.42557326062499,
+        107.22894483093751
       ]
     },
     {
@@ -194,16 +194,16 @@
       "name_vi": "Tỉnh Chelyabinsk",
       "federal_district": "Vùng Ural",
       "country": "russia",
-      "count": 8,
+      "count": 32,
       "bbox": [
-        57.7815,
+        57.3308,
         52.649167,
-        61.397669,
-        55.714967
+        61.4137,
+        56.1204
       ],
       "center": [
-        54.861751625,
-        59.735207125
+        55.08982228125,
+        59.957851781249985
       ]
     },
     {
@@ -241,6 +241,210 @@
       ]
     },
     {
+      "slug": "cn-beijing",
+      "name_vi": "Bắc Kinh",
+      "federal_district": "Hoa Bắc",
+      "country": "china",
+      "count": 8,
+      "bbox": [
+        116.0169,
+        39.8822,
+        116.4171,
+        40.3587
+      ],
+      "center": [
+        39.99295,
+        116.3366625
+      ]
+    },
+    {
+      "slug": "cn-chongqing",
+      "name_vi": "Trùng Khánh",
+      "federal_district": "Tây Nam",
+      "country": "china",
+      "count": 6,
+      "bbox": [
+        105.7925,
+        29.4339,
+        107.8013,
+        29.7461
+      ],
+      "center": [
+        29.56448333333333,
+        106.61619999999999
+      ]
+    },
+    {
+      "slug": "cn-fujian",
+      "name_vi": "Phúc Kiến",
+      "federal_district": "Hoa Đông",
+      "country": "china",
+      "count": 6,
+      "bbox": [
+        117.056,
+        24.4383,
+        118.5811,
+        27.6556
+      ],
+      "center": [
+        25.081483333333335,
+        117.97215
+      ]
+    },
+    {
+      "slug": "cn-guangdong",
+      "name_vi": "Quảng Đông",
+      "federal_district": "Hoa Nam",
+      "country": "china",
+      "count": 7,
+      "bbox": [
+        112.5758,
+        22.3749,
+        113.9693,
+        23.1425
+      ],
+      "center": [
+        22.93305714285714,
+        113.26477142857142
+      ]
+    },
+    {
+      "slug": "cn-guangxi",
+      "name_vi": "Quảng Tây",
+      "federal_district": "Hoa Nam",
+      "country": "china",
+      "count": 7,
+      "bbox": [
+        106.7207,
+        22.8533,
+        110.5265,
+        25.7585
+      ],
+      "center": [
+        24.808828571428574,
+        109.84557142857145
+      ]
+    },
+    {
+      "slug": "cn-hong-kong",
+      "name_vi": "Hồng Kông",
+      "federal_district": "Đặc khu (HK/Macau)",
+      "country": "china",
+      "count": 7,
+      "bbox": [
+        113.905,
+        22.2461,
+        114.175,
+        22.313
+      ],
+      "center": [
+        22.28252857142857,
+        114.11192857142858
+      ]
+    },
+    {
+      "slug": "cn-jiangsu",
+      "name_vi": "Giang Tô",
+      "federal_district": "Hoa Đông",
+      "country": "china",
+      "count": 7,
+      "bbox": [
+        118.7919,
+        31.1153,
+        120.8456,
+        32.0643
+      ],
+      "center": [
+        31.477728571428575,
+        120.1464142857143
+      ]
+    },
+    {
+      "slug": "cn-shaanxi",
+      "name_vi": "Thiểm Tây",
+      "federal_district": "Tây Bắc",
+      "country": "china",
+      "count": 8,
+      "bbox": [
+        108.9401,
+        34.2186,
+        110.0838,
+        34.4772
+      ],
+      "center": [
+        34.32526250000001,
+        109.2018
+      ]
+    },
+    {
+      "slug": "cn-shanghai",
+      "name_vi": "Thượng Hải",
+      "federal_district": "Hoa Đông",
+      "country": "china",
+      "count": 8,
+      "bbox": [
+        121.4676,
+        31.1434,
+        121.6577,
+        31.2456
+      ],
+      "center": [
+        31.2203625,
+        121.51065
+      ]
+    },
+    {
+      "slug": "cn-sichuan",
+      "name_vi": "Tứ Xuyên",
+      "federal_district": "Tây Nam",
+      "country": "china",
+      "count": 8,
+      "bbox": [
+        103.3326,
+        29.5127,
+        104.1465,
+        33.2617
+      ],
+      "center": [
+        31.0443625,
+        103.7772375
+      ]
+    },
+    {
+      "slug": "cn-yunnan",
+      "name_vi": "Vân Nam",
+      "federal_district": "Tây Nam",
+      "country": "china",
+      "count": 8,
+      "bbox": [
+        99.7076,
+        23.0925,
+        103.3269,
+        27.8231
+      ],
+      "center": [
+        26.0470375,
+        100.83393749999999
+      ]
+    },
+    {
+      "slug": "cn-zhejiang",
+      "name_vi": "Chiết Giang",
+      "federal_district": "Hoa Đông",
+      "country": "china",
+      "count": 7,
+      "bbox": [
+        118.99,
+        29.6092,
+        122.3889,
+        30.9445
+      ],
+      "center": [
+        30.282971428571425,
+        120.44500000000001
+      ]
+    },
+    {
       "slug": "crimea",
       "name_vi": "Cộng hoà Krym",
       "federal_district": "Vùng Nam",
@@ -262,16 +466,16 @@
       "name_vi": "Cộng hoà Dagestan",
       "federal_district": "Vùng Bắc Kavkaz",
       "country": "russia",
-      "count": 8,
+      "count": 32,
       "bbox": [
-        46.82778,
-        42.05306,
-        48.27972,
+        46.153056,
+        41.221111,
+        48.545,
         43.01
       ],
       "center": [
-        42.52197400000001,
-        47.3921975
+        42.445806968750006,
+        47.31762456249999
       ]
     },
     {
@@ -296,16 +500,16 @@
       "name_vi": "Tỉnh Irkutsk",
       "federal_district": "Vùng Siberia",
       "country": "russia",
-      "count": 8,
+      "count": 33,
       "bbox": [
-        104.28966,
-        51.85,
-        107.34139,
-        53.20389
+        101.7861,
+        51.509,
+        107.7792,
+        56.2861
       ],
       "center": [
-        52.15898837499999,
-        105.02004000000001
+        52.364997181818175,
+        104.47634303030301
       ]
     },
     {
@@ -313,16 +517,16 @@
       "name_vi": "Tỉnh Ivanovo",
       "federal_district": "Vùng Trung tâm",
       "country": "russia",
-      "count": 8,
+      "count": 31,
       "bbox": [
-        40.97394,
-        56.57556,
-        42.1442,
-        57.4608
+        40.1321398,
+        56.5590255,
+        43.1591306,
+        57.5004979
       ],
       "center": [
-        57.01829375,
-        41.46247625
+        57.07214424838709,
+        41.40949471612904
       ]
     },
     {
@@ -364,16 +568,16 @@
       "name_vi": "Tỉnh Kaliningrad",
       "federal_district": "Vùng Tây Bắc",
       "country": "russia",
-      "count": 8,
+      "count": 35,
       "bbox": [
         19.9167,
-        54.65,
-        20.8,
+        54.63972,
+        21.90556,
         55.133
       ],
       "center": [
-        54.790789624999995,
-        20.419762874999996
+        54.754795999999985,
+        20.594976857142854
       ]
     },
     {
@@ -398,16 +602,16 @@
       "name_vi": "Tỉnh Kaluga",
       "federal_district": "Vùng Trung tâm",
       "country": "russia",
-      "count": 8,
+      "count": 32,
       "bbox": [
-        35.604298,
-        54.050759,
+        35.26889,
+        54.03333,
         37.1739,
-        54.757605
+        55.244
       ],
       "center": [
-        54.4610405,
-        36.140442875
+        54.63132606718751,
+        36.20825485906249
       ]
     },
     {
@@ -449,16 +653,16 @@
       "name_vi": "Cộng hoà Karelia",
       "federal_district": "Vùng Tây Bắc",
       "country": "russia",
-      "count": 8,
+      "count": 31,
       "bbox": [
         30.1397,
         61.38889,
-        35.225,
+        36.9167,
         66.2842
       ],
       "center": [
-        62.79924462500001,
-        32.974435
+        62.42293874193548,
+        33.359368458064516
       ]
     },
     {
@@ -568,16 +772,16 @@
       "name_vi": "Tỉnh Kostroma",
       "federal_district": "Vùng Trung tâm",
       "country": "russia",
-      "count": 8,
+      "count": 32,
       "bbox": [
-        40.89,
-        57.605417,
-        42.172468,
-        57.7764
+        40.573799,
+        57.460655,
+        43.8125,
+        59.08333
       ],
       "center": [
-        57.748703250000005,
-        41.07674525
+        57.91207128125,
+        41.376579562500005
       ]
     },
     {
@@ -602,16 +806,16 @@
       "name_vi": "Vùng Krasnoyarsk",
       "federal_district": "Vùng Siberia",
       "country": "russia",
-      "count": 8,
+      "count": 35,
       "bbox": [
-        91.37028,
+        88.21667,
         52.807787,
         93.288072,
-        56.023646
+        69.33333
       ],
       "center": [
-        54.853839875,
-        92.57269000000001
+        56.63634391428571,
+        92.53720272
       ]
     },
     {
@@ -636,16 +840,16 @@
       "name_vi": "Tỉnh Kursk",
       "federal_district": "Vùng Trung tâm",
       "country": "russia",
-      "count": 8,
+      "count": 44,
       "bbox": [
         34.681052,
         51.5702,
         36.47743,
-        51.989079
+        52.337949
       ],
       "center": [
-        51.7608495,
-        36.040168125
+        51.77988013636365,
+        36.07054372727272
       ]
     },
     {
@@ -840,16 +1044,16 @@
       "name_vi": "Tỉnh Novgorod",
       "federal_district": "Vùng Tây Bắc",
       "country": "russia",
-      "count": 8,
+      "count": 38,
       "bbox": [
-        31.272267,
-        57.98861,
-        33.30417,
-        58.52217
+        31.168758,
+        57.96667,
+        33.91139,
+        59.11722
       ],
       "center": [
-        58.441563375,
-        31.531875874999997
+        58.385698186842106,
+        31.58447361578948
       ]
     },
     {
@@ -908,16 +1112,16 @@
       "name_vi": "Tỉnh Oryol",
       "federal_district": "Vùng Trung tâm",
       "country": "russia",
-      "count": 8,
+      "count": 35,
       "bbox": [
         35.294907,
-        52.910984,
-        36.633695,
-        53.441895
+        52.425306,
+        37.608306,
+        53.48111
       ],
       "center": [
-        53.104314625,
-        36.011061375
+        53.03376337142858,
+        36.14419462857143
       ]
     },
     {
@@ -942,16 +1146,16 @@
       "name_vi": "Vùng Perm",
       "federal_district": "Vùng Volga",
       "country": "russia",
-      "count": 8,
+      "count": 36,
       "bbox": [
-        56.2303,
-        57.392283,
+        54.654394,
+        57.1821,
         59.21722,
         61.48611
       ],
       "center": [
-        58.83463162500001,
-        56.94915324999999
+        58.69140253055556,
+        56.786012027777765
       ]
     },
     {
@@ -976,16 +1180,16 @@
       "name_vi": "Tỉnh Pskov",
       "federal_district": "Vùng Tây Bắc",
       "country": "russia",
-      "count": 8,
+      "count": 42,
       "bbox": [
         27.615278,
-        57.02217,
-        28.933332,
+        56.13528,
+        31.32528,
         58.733334
       ],
       "center": [
-        57.72349100000001,
-        28.260255875000006
+        57.53334171428572,
+        28.5917920952381
       ]
     },
     {
@@ -1435,16 +1639,16 @@
       "name_vi": "Đà Nẵng",
       "federal_district": "Miền Trung",
       "country": "vietnam",
-      "count": 32,
+      "count": 56,
       "bbox": [
-        107.9967,
-        15.466107,
-        108.52272,
+        107.876,
+        15.453,
+        108.68,
         16.1988
       ],
       "center": [
-        15.958037687500001,
-        108.26886440625
+        15.923069749999998,
+        108.27646358928574
       ]
     },
     {
@@ -1537,16 +1741,16 @@
       "name_vi": "Hà Nội",
       "federal_district": "Miền Bắc",
       "country": "vietnam",
-      "count": 38,
+      "count": 62,
       "bbox": [
         105.393026,
         20.6178,
         105.9089,
-        21.1388
+        21.2833
       ],
       "center": [
-        21.02867165789474,
-        105.79639281578947
+        21.040200370967742,
+        105.78061172580644
       ]
     },
     {
@@ -1588,16 +1792,16 @@
       "name_vi": "TP. Hồ Chí Minh",
       "federal_district": "Miền Nam",
       "country": "vietnam",
-      "count": 32,
+      "count": 56,
       "bbox": [
         106.529124,
         8.6931,
-        107.093,
+        107.549,
         11.063044
       ],
       "center": [
-        10.676654843750006,
-        106.74350624999997
+        10.689502767857148,
+        106.7891482142857
       ]
     },
     {
@@ -1724,16 +1928,16 @@
       "name_vi": "Ninh Bình",
       "federal_district": "Miền Bắc",
       "country": "vietnam",
-      "count": 32,
+      "count": 55,
       "bbox": [
         105.617659,
         19.9531,
         106.582601,
-        20.576109
+        20.6349
       ],
       "center": [
-        20.304768999999993,
-        106.03996199999999
+        20.338783781818172,
+        106.0407488
       ]
     },
     {
@@ -1996,16 +2200,16 @@
       "name_vi": "Tỉnh Yaroslavl",
       "federal_district": "Vùng Trung tâm",
       "country": "russia",
-      "count": 10,
+      "count": 23,
       "bbox": [
         38.449444,
-        56.7206,
+        56.7128,
         39.9003,
         57.883335
       ],
       "center": [
-        57.508579999999995,
-        39.485502499999996
+        57.075596608695655,
+        39.10924599999999
       ]
     },
     {
@@ -2027,33 +2231,35 @@
     }
   ],
   "categories": {
-    "park_garden": 979,
-    "other": 874,
-    "church": 671,
-    "museum": 606,
-    "theatre": 116,
-    "monument": 883,
-    "bridge": 64,
-    "square_street": 218,
-    "fortress": 131,
-    "palace": 83
+    "park_garden": 1122,
+    "other": 1011,
+    "church": 838,
+    "museum": 725,
+    "theatre": 145,
+    "monument": 1034,
+    "bridge": 77,
+    "square_street": 278,
+    "fortress": 153,
+    "palace": 106
   },
   "countries": {
-    "russia": 2131,
-    "vietnam": 1085
+    "russia": 2614,
+    "china": 87,
+    "vietnam": 1180
   },
   "country_names": {
     "russia": "Nga",
-    "vietnam": "Việt Nam"
+    "vietnam": "Việt Nam",
+    "china": "Trung Quốc"
   },
   "bbox": [
     -179.416667,
     8.437303,
     179.0989,
-    71.233333
+    80.3382
   ],
   "center": [
-    41.63866068041038,
-    74.1593267231031
+    42.46140900010046,
+    72.73930429935068
   ]
 }

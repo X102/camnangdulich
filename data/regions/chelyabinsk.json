@@ -493,5 +493,1508 @@
     "status": "enriched",
     "last_updated": "2026-07-18",
     "country": "russia"
+  },
+  {
+    "id": "chelyabinsk-kirovka-street",
+    "slug": "kirovka-street",
+    "region": "chelyabinsk",
+    "region_name_vi": "Tỉnh Chelyabinsk",
+    "federal_district": "Vùng Ural",
+    "name_vi": "Phố đi bộ Kirovka (Ki-rốp-ca)",
+    "name_ru": "Кировка",
+    "name_en": "Kirovka pedestrian street",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 55.1656,
+      "lon": 61.4001
+    },
+    "address_vi": "Đoạn phố Kirov, trung tâm thành phố Chelyabinsk, tỉnh Chelyabinsk, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Kirovka là phố đi bộ nổi tiếng nhất Chelyabinsk, thường được người dân gọi vui là 'Arbat của vùng Ural'. Con phố lát đá trải dài giữa những toà nhà cổ, điểm xuyết hàng loạt tượng đồng ngộ nghĩnh và hàng quán sôi động.",
+    "presentation_long_vi": "Kirovka là tên thân mật của đoạn phố đi bộ trên đại lộ Kirov ở trung tâm Chelyabinsk, được cải tạo thành không gian dành riêng cho người đi bộ và nhanh chóng trở thành biểu tượng đô thị. Người dân địa phương hay ví nơi đây như 'Arbat của Ural' vì bầu không khí nghệ thuật, náo nhiệt tương tự phố Arbat ở Moskva. Dọc con phố lát đá là những công trình kiến trúc từ cuối thế kỷ 19 đến đầu thế kỷ 20, xen kẽ các quán cà phê, cửa hàng lưu niệm và trung tâm mua sắm. Điểm thú vị nhất là bộ sưu tập tượng đồng đường phố sinh động: chú lạc đà tượng trưng cho quốc huy thành phố, người bán rong, chàng đánh giày, cô gái làm đẹp, người ăn xin lịch lãm hay chú lính cứu hoả... mỗi bức đều gắn với một câu chuyện và là điểm chụp ảnh yêu thích. Cuối phố còn có cột mốc kilomet số 0 và các đài phun nước. Kirovka đặc biệt đông vui vào buổi tối và cuối tuần, khi các nghệ sĩ đường phố biểu diễn, biến nơi đây thành trái tim náo nhiệt của thành phố công nghiệp Nam Ural.",
+    "highlights_vi": [
+      "Phố đi bộ biểu tượng của Chelyabinsk, được ví như 'Arbat của Ural'.",
+      "Hàng loạt tượng đồng đường phố hài hước, mỗi bức gắn một câu chuyện riêng.",
+      "Kiến trúc cổ đầu thế kỷ 20 xen lẫn quán cà phê, cửa hàng và nghệ sĩ đường phố."
+    ],
+    "practical": {
+      "hours_vi": "Mở tự do quanh năm, suốt cả ngày; cửa hàng và quán ăn theo giờ riêng.",
+      "ticket_vi": "Đi dạo miễn phí.",
+      "duration_vi": "Khoảng 1–2 giờ.",
+      "best_time_vi": "Chiều tối và cuối tuần khi phố đông vui, có biểu diễn đường phố; mùa hè dễ chịu nhất.",
+      "tips_vi": "Kết hợp tham quan Bảo tàng thiên thạch và các nhà hát gần đó; để ý các tượng đồng để chụp ảnh."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0&ll=61.4001,55.1656&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kirovka%20pedestrian%20street%2C%20Chelyabinsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Кировка",
+        "url": "https://ru.wikipedia.org/wiki/Кировка"
+      }
+    ],
+    "tags": [
+      "square_street",
+      "pedestrian",
+      "city-walk",
+      "sculpture",
+      "chelyabinsk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "chelyabinsk-chelyabinsk-opera-ballet-theatre",
+    "slug": "chelyabinsk-opera-ballet-theatre",
+    "region": "chelyabinsk",
+    "region_name_vi": "Tỉnh Chelyabinsk",
+    "federal_district": "Vùng Ural",
+    "name_vi": "Nhà hát Opera và Ballet Glinka (Glin-ca)",
+    "name_ru": "Челябинский театр оперы и балета имени М. И. Глинки",
+    "name_en": "Chelyabinsk State Opera and Ballet Theatre",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 55.1665,
+      "lon": 61.4019
+    },
+    "address_vi": "Quảng trường Yaroslavskogo 1, trung tâm thành phố Chelyabinsk, tỉnh Chelyabinsk, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhà hát Opera và Ballet mang tên nhà soạn nhạc Mikhail Glinka là sân khấu nghệ thuật hàn lâm hàng đầu của Chelyabinsk. Toà nhà bề thế theo phong cách cổ điển Xô Viết là một trong những công trình đẹp nhất trung tâm thành phố.",
+    "presentation_long_vi": "Nhà hát Opera và Ballet Nhà nước Chelyabinsk mang tên Mikhail Glinka là trung tâm nghệ thuật sân khấu hàn lâm quan trọng bậc nhất vùng Nam Ural. Công trình được khởi công từ trước Thế chiến thứ hai nhưng phải gián đoạn, đến năm 1956 mới chính thức mở màn, với kiến trúc cổ điển đồ sộ gồm hàng cột lớn ở mặt tiền, sảnh trang trí lộng lẫy và khán phòng nhiều tầng. Trong nhiều thập niên, nhà hát dàn dựng các vở opera và ballet kinh điển của Nga và thế giới như Hồ Thiên Nga, Carmen, Evgeny Onegin cùng nhiều tác phẩm đương đại, quy tụ dàn nghệ sĩ, nhạc công và vũ công được đào tạo bài bản. Quảng trường phía trước nhà hát là không gian công cộng quen thuộc của người dân thành phố, gần với phố đi bộ Kirovka. Với du khách, một buổi tối thưởng thức opera hoặc ballet tại đây là cách tao nhã để cảm nhận đời sống văn hoá của thành phố công nghiệp Chelyabinsk, còn bản thân toà nhà cũng là điểm ngắm kiến trúc đáng chú ý ngay giữa trung tâm.",
+    "highlights_vi": [
+      "Nhà hát opera & ballet hàn lâm hàng đầu Nam Ural, mang tên nhạc sĩ Glinka.",
+      "Kiến trúc cổ điển hoành tráng với hàng cột lớn, ngay trung tâm Chelyabinsk.",
+      "Thường xuyên diễn các vở opera, ballet kinh điển Nga và thế giới."
+    ],
+    "practical": {
+      "hours_vi": "Phòng vé và suất diễn theo lịch mùa diễn (thường thứ Ba–Chủ nhật), nghỉ hè giữa mùa.",
+      "ticket_vi": "Giá vé tuỳ vở và vị trí ghế, phổ biến khoảng 300–1500 RUB.",
+      "duration_vi": "Một buổi diễn khoảng 2–3 giờ; ngắm ngoại thất 15–20 phút.",
+      "best_time_vi": "Quanh năm theo mùa diễn; nên đặt vé các vở kinh điển từ sớm.",
+      "tips_vi": "Xem lịch diễn và đặt vé trước trên trang chính thức; kết hợp dạo phố Kirovka gần đó."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A7%D0%B5%D0%BB%D1%8F%D0%B1%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D1%82%D0%B5%D0%B0%D1%82%D1%80%20%D0%BE%D0%BF%D0%B5%D1%80%D1%8B%20%D0%B8%20%D0%B1%D0%B0%D0%BB%D0%B5%D1%82%D0%B0%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%20%D0%9C.%20%D0%98.%20%D0%93%D0%BB%D0%B8%D0%BD%D0%BA%D0%B8&ll=61.4019,55.1665&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Chelyabinsk%20State%20Opera%20and%20Ballet%20Theatre%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Челябинский театр оперы и балета",
+        "url": "https://ru.wikipedia.org/wiki/Челябинский_театр_оперы_и_балета"
+      }
+    ],
+    "tags": [
+      "theatre",
+      "opera",
+      "ballet",
+      "culture",
+      "chelyabinsk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "chelyabinsk-alexander-nevsky-church-chelyabinsk",
+    "slug": "alexander-nevsky-church-chelyabinsk",
+    "region": "chelyabinsk",
+    "region_name_vi": "Tỉnh Chelyabinsk",
+    "federal_district": "Vùng Ural",
+    "name_vi": "Nhà thờ Thánh Alexander Nevsky trên Quảng trường Đỏ Thắm (A-lếch-xan-đrơ Nhép-xki)",
+    "name_ru": "Храм Александра Невского на Алом поле",
+    "name_en": "Church of Alexander Nevsky (Aloe Pole)",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 55.1625,
+      "lon": 61.3908
+    },
+    "address_vi": "Công viên Aloe Pole, đường Sovetskaya, trung tâm thành phố Chelyabinsk, tỉnh Chelyabinsk, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Ngôi nhà thờ Chính thống giáo trên quảng trường Aloe Pole ('cánh đồng đỏ thắm') là một trong những công trình tôn giáo đẹp nhất Chelyabinsk. Kiến trúc năm vòm mái theo phong cách Nga cổ do kiến trúc sư nổi tiếng Alexander Pomerantsev thiết kế.",
+    "presentation_long_vi": "Nhà thờ Thánh Alexander Nevsky toạ lạc giữa công viên Aloe Pole ở trung tâm Chelyabinsk, được xây dựng đầu thế kỷ 20 để tưởng nhớ Sa hoàng Alexander II. Công trình do kiến trúc sư Alexander Pomerantsev, người cũng thiết kế khu thương xá GUM ở Moskva, phác thảo theo phong cách Nga cổ (russian revival) với năm vòm mái hành củ đặc trưng, tường trắng và các chi tiết trang trí tinh xảo. Trong thời kỳ Xô Viết, nhà thờ bị đóng cửa và lần lượt được dùng làm nhiều mục đích khác nhau, thậm chí có giai đoạn trở thành phòng hoà nhạc đàn organ. Sau này công trình được trao trả cho Giáo hội, trùng tu và khôi phục vai trò nơi hành lễ, đồng thời vẫn giữ được vẻ đẹp kiến trúc nguyên bản. Nằm giữa không gian xanh mát của Aloe Pole với các đài tưởng niệm và lối đi dạo, nhà thờ vừa là điểm hành hương vừa là địa chỉ tham quan kiến trúc quen thuộc của người dân và du khách khi khám phá trung tâm thành phố.",
+    "highlights_vi": [
+      "Nhà thờ Chính thống giáo phong cách Nga cổ với năm vòm mái hành đặc trưng.",
+      "Do kiến trúc sư Pomerantsev (tác giả GUM Moskva) thiết kế, đầu thế kỷ 20.",
+      "Nằm giữa công viên Aloe Pole yên bình ở trung tâm Chelyabinsk."
+    ],
+    "practical": {
+      "hours_vi": "Thường mở cửa cho khách viếng ban ngày; giờ lễ theo lịch nhà thờ.",
+      "ticket_vi": "Vào cửa tự do; khuyến khích công đức tuỳ tâm.",
+      "duration_vi": "Khoảng 30–45 phút.",
+      "best_time_vi": "Quanh năm; đẹp nhất khi kết hợp dạo công viên vào mùa hè.",
+      "tips_vi": "Ăn mặc lịch sự, nữ nên trùm khăn khi vào trong; giữ yên tĩnh trong giờ lễ."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A5%D1%80%D0%B0%D0%BC%20%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B0%20%D0%9D%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BD%D0%B0%20%D0%90%D0%BB%D0%BE%D0%BC%20%D0%BF%D0%BE%D0%BB%D0%B5&ll=61.3908,55.1625&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Church%20of%20Alexander%20Nevsky%20%28Aloe%20Pole%29%2C%20Chelyabinsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Церковь Александра Невского (Челябинск)",
+        "url": "https://ru.wikipedia.org/wiki/Церковь_Александра_Невского_(Челябинск)"
+      }
+    ],
+    "tags": [
+      "church",
+      "orthodox",
+      "architecture",
+      "aloe-pole",
+      "chelyabinsk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "chelyabinsk-st-simeon-cathedral-chelyabinsk",
+    "slug": "st-simeon-cathedral-chelyabinsk",
+    "region": "chelyabinsk",
+    "region_name_vi": "Tỉnh Chelyabinsk",
+    "federal_district": "Vùng Ural",
+    "name_vi": "Nhà thờ chính toà Thánh Simeon (Xi-mê-ôn)",
+    "name_ru": "Свято-Симеоновский кафедральный собор",
+    "name_en": "St Simeon Cathedral",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 55.1769,
+      "lon": 61.3909
+    },
+    "address_vi": "Phố Kyshtymskaya 32, thành phố Chelyabinsk, tỉnh Chelyabinsk, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhà thờ chính toà Thánh Simeon là thánh đường trung tâm của giáo phận Chelyabinsk. Đây là một trong số ít nhà thờ trong thành phố hoạt động liên tục ngay cả trong thời kỳ Xô Viết, lưu giữ nhiều thánh tích quý.",
+    "presentation_long_vi": "Nhà thờ chính toà Thánh Simeon (Simeon xứ Verkhoturye) là thánh đường mẹ của giáo phận Chelyabinsk, khởi nguồn từ một nhà thờ nghĩa trang nhỏ được dựng vào cuối thế kỷ 19. Điều đặc biệt là công trình thuộc số ít nhà thờ ở Chelyabinsk không bị phá bỏ và vẫn duy trì hành lễ xuyên suốt thời kỳ Xô Viết, nhờ đó trở thành trung tâm đời sống Chính thống giáo của cả vùng. Qua nhiều lần mở rộng và trùng tu, nhà thờ ngày nay mang dáng vẻ bề thế với các vòm mái mạ vàng, tháp chuông cao và nội thất trang hoàng công phu bằng bích hoạ, tranh thánh (icon) và giá tượng iconostasis lộng lẫy. Bên trong lưu giữ nhiều thánh tích được tín đồ tôn kính. Là nhà thờ chính toà, đây cũng là nơi diễn ra các nghi lễ trọng thể của giáo phận vào các dịp lễ lớn. Với du khách quan tâm đến kiến trúc tôn giáo và văn hoá Chính thống giáo Nga, nhà thờ Thánh Simeon là điểm đến tiêu biểu, phản ánh chiều sâu lịch sử tâm linh của Chelyabinsk.",
+    "highlights_vi": [
+      "Nhà thờ chính toà (mẹ) của giáo phận Chelyabinsk, có từ cuối thế kỷ 19.",
+      "Một trong số ít nhà thờ hoạt động liên tục suốt thời Xô Viết.",
+      "Vòm mái mạ vàng, iconostasis lộng lẫy và nhiều thánh tích được tôn kính."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa hằng ngày cho khách viếng và hành lễ; giờ lễ sáng và chiều theo lịch.",
+      "ticket_vi": "Vào cửa tự do; công đức tuỳ tâm.",
+      "duration_vi": "Khoảng 30–45 phút.",
+      "best_time_vi": "Quanh năm; các đại lễ Chính thống giáo có nghi lễ trọng thể.",
+      "tips_vi": "Ăn mặc kín đáo, nữ trùm khăn; xin phép trước khi chụp ảnh bên trong."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%A1%D0%B8%D0%BC%D0%B5%D0%BE%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%81%D0%BE%D0%B1%D0%BE%D1%80&ll=61.3909,55.1769&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=St%20Simeon%20Cathedral%2C%20Chelyabinsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Симеоновский собор (Челябинск)",
+        "url": "https://ru.wikipedia.org/wiki/Симеоновский_собор_(Челябинск)"
+      }
+    ],
+    "tags": [
+      "church",
+      "cathedral",
+      "orthodox",
+      "pilgrimage",
+      "chelyabinsk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "chelyabinsk-gagarin-park-chelyabinsk",
+    "slug": "gagarin-park-chelyabinsk",
+    "region": "chelyabinsk",
+    "region_name_vi": "Tỉnh Chelyabinsk",
+    "federal_district": "Vùng Ural",
+    "name_vi": "Công viên Văn hoá Gagarin (Ga-ga-rin)",
+    "name_ru": "Центральный парк культуры и отдыха имени Ю. А. Гагарина",
+    "name_en": "Gagarin Central Park of Culture and Leisure",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 55.1651,
+      "lon": 61.3648
+    },
+    "address_vi": "Đường Kommuny 100, thành phố Chelyabinsk, tỉnh Chelyabinsk, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Công viên trung tâm mang tên nhà du hành vũ trụ Yuri Gagarin là lá phổi xanh lớn và được yêu thích nhất Chelyabinsk. Điểm độc đáo là những mỏ đá granit cũ ngập nước tạo thành các hồ nhỏ giữa rừng thông.",
+    "presentation_long_vi": "Công viên Văn hoá và Nghỉ ngơi Trung tâm mang tên Yuri Gagarin là không gian giải trí ngoài trời lớn và nổi tiếng nhất Chelyabinsk, nằm ngay trong lòng thành phố. Nét đặc biệt của công viên là địa hình được hình thành từ các mỏ khai thác đá granit cũ: khi ngừng khai thác, những hố đá ngập nước biến thành các hồ nhỏ trong xanh, xen giữa vách đá lộ thiên và rừng thông, tạo nên khung cảnh khác lạ hiếm có ở một công viên đô thị. Trong công viên có nhiều lối đi dạo, khu vui chơi thiếu nhi, trò chơi cảm giác mạnh, sân khấu ngoài trời, quán cà phê và các điểm cho thuê xe đạp, thuyền. Mùa hè, người dân đến đây đi bộ, đạp xe, dã ngoại dưới tán thông; mùa đông, công viên trở thành nơi trượt tuyết, trượt băng và dạo chơi trong tuyết. Nhờ vị trí thuận tiện và bầu không khí trong lành, công viên Gagarin là điểm hẹn quen thuộc của các gia đình và là nơi lý tưởng để du khách thư giãn, cảm nhận nhịp sống thường nhật của người Chelyabinsk.",
+    "highlights_vi": [
+      "Công viên đô thị lớn nhất Chelyabinsk, rợp bóng rừng thông.",
+      "Những mỏ đá granit cũ ngập nước tạo thành hồ nhỏ và vách đá độc đáo.",
+      "Đầy đủ khu vui chơi, đạp xe, dã ngoại mùa hè và trượt tuyết mùa đông."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa tự do quanh năm; khu trò chơi và dịch vụ theo giờ riêng.",
+      "ticket_vi": "Vào công viên miễn phí; các trò chơi và dịch vụ thu phí riêng.",
+      "duration_vi": "Khoảng 1–3 giờ.",
+      "best_time_vi": "Tháng 5–9 để đi dạo, đạp xe; mùa đông để trượt tuyết, trượt băng.",
+      "tips_vi": "Mang giày đi bộ; cuối tuần khá đông; có nhiều lối mòn ven các hồ đá đẹp để chụp ảnh."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%B0%D1%80%D0%BA%20%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D1%8B%20%D0%B8%20%D0%BE%D1%82%D0%B4%D1%8B%D1%85%D0%B0%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%20%D0%AE.%20%D0%90.%20%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0&ll=61.3648,55.1651&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Gagarin%20Central%20Park%20of%20Culture%20and%20Leisure%2C%20Chelyabinsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Парк имени Гагарина (Челябинск)",
+        "url": "https://ru.wikipedia.org/wiki/Парк_имени_Гагарина_(Челябинск)"
+      }
+    ],
+    "tags": [
+      "park_garden",
+      "city-park",
+      "nature",
+      "family",
+      "chelyabinsk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "chelyabinsk-chelyabinsk-zoo",
+    "slug": "chelyabinsk-zoo",
+    "region": "chelyabinsk",
+    "region_name_vi": "Tỉnh Chelyabinsk",
+    "federal_district": "Vùng Ural",
+    "name_vi": "Sở thú Chelyabinsk (Chê-li-a-bin)",
+    "name_ru": "Челябинский зоопарк",
+    "name_en": "Chelyabinsk Zoo",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 55.1683,
+      "lon": 61.3679
+    },
+    "address_vi": "Phố Truda 191, thành phố Chelyabinsk, tỉnh Chelyabinsk, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Sở thú Chelyabinsk là vườn thú lớn ở vùng Nam Ural, nơi nuôi dưỡng nhiều loài thú quý hiếm và tham gia các chương trình bảo tồn động vật. Đây là điểm tham quan được các gia đình có trẻ nhỏ đặc biệt yêu thích.",
+    "presentation_long_vi": "Sở thú Chelyabinsk nằm cạnh công viên Gagarin ở trung tâm thành phố, là một trong những vườn thú lớn của vùng Ural. Được thành lập vào giữa thập niên 1990, sở thú không ngừng mở rộng và hiện chăm sóc hàng trăm loài động vật đến từ nhiều châu lục, trong đó có không ít loài quý hiếm nằm trong Sách Đỏ như hổ Amur, báo tuyết, gấu Bắc Cực và các loài mèo lớn. Sở thú chú trọng công tác bảo tồn và nhân giống, tham gia các chương trình quốc tế nhằm duy trì quần thể những loài đang bị đe doạ. Không gian được bố trí thành các khu chuồng trại rộng, khu vực dành cho thú ăn thịt, thú móng guốc, chim, bò sát cùng khu tiếp xúc động vật nhỏ dành cho trẻ em. Vào mùa ấm, sở thú tổ chức nhiều hoạt động giáo dục, cho ăn theo giờ và các sự kiện dành cho gia đình. Đây là điểm đến lý tưởng để kết hợp tham quan cùng công viên Gagarin, mang lại một ngày vui trọn vẹn cho du khách đi cùng trẻ nhỏ.",
+    "highlights_vi": [
+      "Vườn thú lớn của vùng Nam Ural với hàng trăm loài động vật.",
+      "Nuôi và nhân giống nhiều loài quý hiếm: hổ Amur, báo tuyết, gấu Bắc Cực.",
+      "Nằm cạnh công viên Gagarin, lý tưởng cho gia đình có trẻ nhỏ."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa hằng ngày, thường 9:00/10:00 đến chiều tối; giờ mùa hè dài hơn mùa đông.",
+      "ticket_vi": "Vé phổ biến khoảng 300–500 RUB; ưu đãi cho trẻ em và người cao tuổi.",
+      "duration_vi": "Khoảng 1,5–2,5 giờ.",
+      "best_time_vi": "Tháng 5–9 khi thời tiết ấm, động vật hoạt động nhiều nhất.",
+      "tips_vi": "Kiểm tra giờ cho ăn động vật; kết hợp tham quan công viên Gagarin liền kề."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A7%D0%B5%D0%BB%D1%8F%D0%B1%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B7%D0%BE%D0%BE%D0%BF%D0%B0%D1%80%D0%BA&ll=61.3679,55.1683&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Chelyabinsk%20Zoo%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Челябинский зоопарк",
+        "url": "https://ru.wikipedia.org/wiki/Челябинский_зоопарк"
+      }
+    ],
+    "tags": [
+      "other",
+      "zoo",
+      "wildlife",
+      "family",
+      "chelyabinsk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "chelyabinsk-tale-of-urals-monument",
+    "slug": "tale-of-urals-monument",
+    "region": "chelyabinsk",
+    "region_name_vi": "Tỉnh Chelyabinsk",
+    "federal_district": "Vùng Ural",
+    "name_vi": "Đài tưởng niệm 'Truyền thuyết về Ural' (Xcát áp U-ran)",
+    "name_ru": "Памятник «Сказ об Урале»",
+    "name_en": "Tale of the Urals Monument",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 55.1417,
+      "lon": 61.4137
+    },
+    "address_vi": "Quảng trường nhà ga (Privokzalnaya), thành phố Chelyabinsk, tỉnh Chelyabinsk, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bức tượng đá granit khổng lồ khắc hoạ hình một dũng sĩ vùng Ural, đứng ngay quảng trường trước nhà ga Chelyabinsk. Đây là một trong những biểu tượng điêu khắc dễ nhận biết nhất của thành phố.",
+    "presentation_long_vi": "Đài tưởng niệm 'Truyền thuyết về Ural' là một trong những công trình điêu khắc biểu tượng của Chelyabinsk, được dựng trên quảng trường trước nhà ga chính của thành phố, chào đón hành khách ngay khi đặt chân xuống tàu. Tác phẩm khắc hoạ hình tượng một tráng sĩ hùng vĩ tượng trưng cho sức mạnh, sự giàu có khoáng sản và tinh thần của cả vùng Ural, được tạc từ những khối đá granit lớn lấy tại địa phương. Với chiều cao đáng kể, bức tượng gây ấn tượng mạnh về khối lượng và dáng vẻ trầm mặc, như một người khổng lồ bằng đá canh giữ 'vành đai đá' của nước Nga. Trên bệ tượng thường có dòng chữ ngợi ca vùng Ural. Vị trí ngay quảng trường nhà ga khiến đài tưởng niệm trở thành điểm hẹn quen thuộc và là bức ảnh lưu niệm gần như bắt buộc với du khách khi đến hoặc rời Chelyabinsk bằng đường sắt. Công trình vừa mang giá trị nghệ thuật, vừa gói ghém niềm tự hào của cư dân về mảnh đất công nghiệp và khoáng sản Ural.",
+    "highlights_vi": [
+      "Tượng đá granit khổng lồ tượng trưng cho sức mạnh và khoáng sản vùng Ural.",
+      "Đứng ngay quảng trường trước nhà ga chính Chelyabinsk, chào đón du khách.",
+      "Một trong những biểu tượng điêu khắc dễ nhận biết nhất thành phố."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tham quan tự do quanh năm, mọi thời điểm.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 10–15 phút.",
+      "best_time_vi": "Quanh năm; ban ngày để chụp ảnh rõ nét.",
+      "tips_vi": "Tiện ghé khi đi/đến bằng tàu hoả; cẩn thận giao thông trên quảng trường ga."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%C2%AB%D0%A1%D0%BA%D0%B0%D0%B7%20%D0%BE%D0%B1%20%D0%A3%D1%80%D0%B0%D0%BB%D0%B5%C2%BB&ll=61.4137,55.1417&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Tale%20of%20the%20Urals%20Monument%2C%20Chelyabinsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Сказ об Урале",
+        "url": "https://ru.wikipedia.org/wiki/Сказ_об_Урале"
+      }
+    ],
+    "tags": [
+      "monument",
+      "sculpture",
+      "landmark",
+      "ural",
+      "chelyabinsk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "chelyabinsk-ilmensky-reserve-museum",
+    "slug": "ilmensky-reserve-museum",
+    "region": "chelyabinsk",
+    "region_name_vi": "Tỉnh Chelyabinsk",
+    "federal_district": "Vùng Ural",
+    "name_vi": "Khu bảo tồn Ilmensky và Bảo tàng Khoáng vật (I-lmen-xki)",
+    "name_ru": "Ильменский государственный заповедник и минералогический музей",
+    "name_en": "Ilmensky Nature Reserve and Mineralogical Museum",
+    "categories": [
+      "museum",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 55.0154,
+      "lon": 60.1585
+    },
+    "address_vi": "Gần thành phố Miass, ven hồ Ilmen, tỉnh Chelyabinsk, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Ilmensky là khu bảo tồn thiên nhiên độc đáo được lập ra chủ yếu để bảo vệ các mỏ khoáng vật quý hiếm bậc nhất thế giới. Bảo tàng khoáng vật của khu bảo tồn trưng bày hàng nghìn mẫu đá và tinh thể lấp lánh từ chính vùng đất này.",
+    "presentation_long_vi": "Khu bảo tồn thiên nhiên quốc gia Ilmensky, nằm gần thành phố Miass, là một trong những khu bảo tồn lâu đời và đặc biệt nhất nước Nga. Được thành lập từ đầu thế kỷ 20, ban đầu mục tiêu chính không phải bảo vệ động thực vật mà là gìn giữ kho tàng khoáng vật vô cùng phong phú ẩn trong lòng dãy núi Ilmen. Tại đây, các nhà khoa học đã ghi nhận hàng trăm loại khoáng vật khác nhau, trong đó có những loại lần đầu tiên được phát hiện trên thế giới, khiến vùng núi này được ví như một 'bảo tàng địa chất lộ thiên'. Trung tâm của khu bảo tồn là Bảo tàng Khoáng vật, một trong những bảo tàng địa chất lớn nhất nước Nga, trưng bày hàng nghìn mẫu vật gồm đá quý, tinh thể, thạch anh khói, topaz, corundum cùng các thiên thạch và mô hình sinh cảnh vùng Ural. Ngoài giá trị địa chất, khu bảo tồn còn bảo vệ hệ sinh thái rừng và hồ nước đặc trưng của Nam Ural. Đây là điểm đến kết hợp lý tưởng giữa khoa học tự nhiên và du lịch, đặc biệt hấp dẫn với những ai say mê đá quý và địa chất.",
+    "highlights_vi": [
+      "Khu bảo tồn lập ra để bảo vệ kho khoáng vật quý hiếm bậc nhất thế giới.",
+      "Bảo tàng Khoáng vật trưng bày hàng nghìn mẫu đá, tinh thể và thiên thạch.",
+      "Nhiều khoáng vật lần đầu được phát hiện tại chính dãy núi Ilmen."
+    ],
+    "practical": {
+      "hours_vi": "Bảo tàng thường mở thứ Tư–Chủ nhật, khoảng 10:00–17:00; nên kiểm tra lịch trước.",
+      "ticket_vi": "Vé bảo tàng phổ biến khoảng 200–350 RUB; ưu đãi cho học sinh, sinh viên.",
+      "duration_vi": "Khoảng 1,5–2 giờ cho bảo tàng.",
+      "best_time_vi": "Quanh năm với bảo tàng; mùa hè để kết hợp ngắm cảnh hồ và rừng.",
+      "tips_vi": "Khu bảo tồn hạn chế ra vào tự do để bảo vệ mỏ khoáng; tập trung tham quan bảo tàng và khu vực cho phép."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%98%D0%BB%D1%8C%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA%20%D0%B8%20%D0%BC%D0%B8%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9&ll=60.1585,55.0154&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Ilmensky%20Nature%20Reserve%20and%20Mineralogical%20Museum%2C%20Chelyabinsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Ильменский заповедник",
+        "url": "https://ru.wikipedia.org/wiki/Ильменский_заповедник"
+      }
+    ],
+    "tags": [
+      "museum",
+      "park_garden",
+      "geology",
+      "minerals",
+      "nature-reserve",
+      "miass"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "chelyabinsk-solnechnaya-dolina-ski",
+    "slug": "solnechnaya-dolina-ski",
+    "region": "chelyabinsk",
+    "region_name_vi": "Tỉnh Chelyabinsk",
+    "federal_district": "Vùng Ural",
+    "name_vi": "Khu trượt tuyết Solnechnaya Dolina (Xôn-nhét-nai-a Đô-li-na)",
+    "name_ru": "Горнолыжный центр «Солнечная долина»",
+    "name_en": "Solnechnaya Dolina Ski Resort",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 55.0431,
+      "lon": 59.9624
+    },
+    "address_vi": "Gần thành phố Miass, chân núi Izvestnaya, tỉnh Chelyabinsk, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Solnechnaya Dolina ('Thung lũng Nắng') là một trong những khu trượt tuyết lớn và hiện đại nhất vùng Nam Ural. Nơi đây có hệ thống đường trượt đa dạng cùng công viên tuyết dành cho môn trượt ván.",
+    "presentation_long_vi": "Trung tâm trượt tuyết Solnechnaya Dolina, nằm gần Miass dưới chân núi Izvestnaya, là một trong những điểm đến thể thao mùa đông nổi tiếng và được đầu tư bài bản nhất tỉnh Chelyabinsk. Khu nghỉ có nhiều đường trượt với độ khó khác nhau, từ dốc thoải cho người mới học đến những đường dốc thử thách cho dân trượt lâu năm, được phục vụ bởi hệ thống cáp treo và thảm nâng hiện đại. Điểm nhấn của Solnechnaya Dolina là công viên tuyết (snowpark) với các địa hình nhân tạo dành cho trượt ván (snowboard) và trượt tuyết tự do, nơi thường xuyên tổ chức các giải đấu và sự kiện thể thao mạo hiểm. Ngoài các đường trượt, khu nghỉ còn có hệ thống bắn tuyết nhân tạo giúp kéo dài mùa trượt, cùng khách sạn, nhà hàng, khu cho thuê thiết bị và trường dạy trượt cho người mới. Vào mùa hè, khu vực này cũng phát triển các hoạt động ngoài trời như đạp xe địa hình và đi bộ đường dài. Với vị trí thuận tiện và dịch vụ đầy đủ, đây là lựa chọn hàng đầu cho kỳ nghỉ đông năng động ở Nam Ural.",
+    "highlights_vi": [
+      "Một trong những khu trượt tuyết lớn, hiện đại nhất Nam Ural.",
+      "Hệ thống đường trượt đa dạng cùng công viên tuyết cho snowboard.",
+      "Có cáp treo, bắn tuyết nhân tạo, khách sạn và trường dạy trượt."
+    ],
+    "practical": {
+      "hours_vi": "Mùa trượt thường mở cửa hằng ngày; giờ hoạt động và trượt đêm theo lịch khu nghỉ.",
+      "ticket_vi": "Vé cáp/thẻ trượt theo giờ hoặc theo ngày, thường vài trăm đến hơn 1000 RUB; thuê đồ tính riêng.",
+      "duration_vi": "Nửa ngày đến vài ngày nếu lưu trú.",
+      "best_time_vi": "Mùa đông (tháng 12–3) cho trượt tuyết; mùa hè cho hoạt động ngoài trời.",
+      "tips_vi": "Đặt phòng và thuê thiết bị trước vào cao điểm; người mới nên đăng ký lớp học cơ bản."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%93%D0%BE%D1%80%D0%BD%D0%BE%D0%BB%D1%8B%D0%B6%D0%BD%D1%8B%D0%B9%20%D1%86%D0%B5%D0%BD%D1%82%D1%80%20%C2%AB%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F%20%D0%B4%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0%C2%BB&ll=59.9624,55.0431&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Solnechnaya%20Dolina%20Ski%20Resort%2C%20Chelyabinsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Солнечная долина (горнолыжный центр)",
+        "url": "https://ru.wikipedia.org/wiki/Солнечная_долина_(горнолыжный_центр)"
+      }
+    ],
+    "tags": [
+      "other",
+      "ski-resort",
+      "snowboard",
+      "winter-sport",
+      "miass"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "chelyabinsk-zlatoust-bell-tower",
+    "slug": "zlatoust-bell-tower",
+    "region": "chelyabinsk",
+    "region_name_vi": "Tỉnh Chelyabinsk",
+    "federal_district": "Vùng Ural",
+    "name_vi": "Tháp chuông Thánh Ioann Zlatoust trên đồi Krasnaya Gorka (Krát-nai-a Goóc-ca)",
+    "name_ru": "Башня-колокольня с часовней Иоанна Златоуста",
+    "name_en": "Bell Tower with Chapel of John Chrysostom",
+    "categories": [
+      "monument",
+      "church"
+    ],
+    "coordinates": {
+      "lat": 55.1334,
+      "lon": 59.6708
+    },
+    "address_vi": "Khu Krasnaya Gorka 16a, thành phố Zlatoust, tỉnh Chelyabinsk, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Tháp chuông kèm nhà nguyện trên đồi Krasnaya Gorka là biểu tượng hiện đại của Zlatoust. Từ đài quan sát trên tháp, du khách phóng tầm mắt bao quát toàn cảnh thành phố nằm giữa núi non vùng Ural.",
+    "presentation_long_vi": "Tháp chuông có nhà nguyện dâng Thánh Ioann Zlatoust (John Chrysostom) toạ lạc trên đồi Krasnaya Gorka, được khánh thành năm 2006 nhân dịp kỷ niệm 1600 năm ngày phong thánh vị thánh bảo trợ mà thành phố Zlatoust mang tên. Công trình cao khoảng 53 mét, với đài quan sát ở độ cao chừng 36 mét, trở thành điểm ngắm toàn cảnh đẹp nhất Zlatoust: từ trên cao có thể thấy thành phố trải dài trong lòng thung lũng, bao quanh là những dãy núi Taganay hùng vĩ và mặt nước hồ chứa Zlatoust. Bên trong tháp là nhà nguyện nhỏ, còn quả chuông lớn nặng hơn một tấn được đúc tại Kamensk-Uralsky, lần đầu ngân vang vào cuối năm 2006. Kiến trúc tháp kết hợp nét truyền thống của tháp chuông Chính thống giáo với dáng vẻ vươn cao thanh thoát, nổi bật trên nền trời. Đây vừa là điểm hành hương, vừa là đài quan sát du lịch được yêu thích, đặc biệt vào lúc hoàng hôn khi ánh nắng phủ vàng lên các đỉnh núi Ural bao quanh thành phố.",
+    "highlights_vi": [
+      "Tháp chuông cao ~53 m, biểu tượng hiện đại của Zlatoust (khánh thành 2006).",
+      "Đài quan sát ngắm toàn cảnh thành phố giữa dãy núi Taganay.",
+      "Nhà nguyện dâng Thánh Ioann Zlatoust cùng quả chuông lớn hơn một tấn."
+    ],
+    "practical": {
+      "hours_vi": "Đài quan sát và nhà nguyện mở cửa ban ngày; giờ có thể thay đổi theo mùa.",
+      "ticket_vi": "Lên đài quan sát thu phí nhỏ (khoảng 50–100 RUB); viếng nhà nguyện tự do.",
+      "duration_vi": "Khoảng 30–45 phút.",
+      "best_time_vi": "Mùa hè và đầu thu để ngắm cảnh rõ; hoàng hôn cho khung cảnh đẹp nhất.",
+      "tips_vi": "Mặc đủ ấm vì trên đồi lộng gió; mang máy ảnh để chụp toàn cảnh núi non."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%91%D0%B0%D1%88%D0%BD%D1%8F-%D0%BA%D0%BE%D0%BB%D0%BE%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D1%8F%20%D1%81%20%D1%87%D0%B0%D1%81%D0%BE%D0%B2%D0%BD%D0%B5%D0%B9%20%D0%98%D0%BE%D0%B0%D0%BD%D0%BD%D0%B0%20%D0%97%D0%BB%D0%B0%D1%82%D0%BE%D1%83%D1%81%D1%82%D0%B0&ll=59.6708,55.1334&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Bell%20Tower%20with%20Chapel%20of%20John%20Chrysostom%2C%20Chelyabinsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Башня-колокольня Иоанна Златоуста",
+        "url": "https://ru.wikipedia.org/wiki/Башня-колокольня_Иоанна_Златоуста"
+      }
+    ],
+    "tags": [
+      "monument",
+      "church",
+      "viewpoint",
+      "landmark",
+      "zlatoust"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "chelyabinsk-zlatoust-local-lore-museum",
+    "slug": "zlatoust-local-lore-museum",
+    "region": "chelyabinsk",
+    "region_name_vi": "Tỉnh Chelyabinsk",
+    "federal_district": "Vùng Ural",
+    "name_vi": "Bảo tàng Địa phương Zlatoust (Dơ-la-tô-út)",
+    "name_ru": "Златоустовский краеведческий музей",
+    "name_en": "Zlatoust Local Lore Museum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 55.1726,
+      "lon": 59.6705
+    },
+    "address_vi": "Quảng trường 3-go Internatsionala 1, thành phố Zlatoust, tỉnh Chelyabinsk, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng Địa phương Zlatoust là một trong những bảo tàng lâu đời nhất vùng Ural, nổi tiếng với bộ sưu tập vũ khí lạnh chạm khắc và nghệ thuật khắc thép trứ danh của thành phố. Đây là nơi tôn vinh truyền thống luyện kim và thủ công độc đáo của Zlatoust.",
+    "presentation_long_vi": "Bảo tàng Địa phương Zlatoust, thành lập từ năm 1825, là một trong những bảo tàng cổ nhất vùng Ural và gắn liền với lịch sử luyện kim của thành phố. Zlatoust nổi danh khắp nước Nga nhờ nghệ thuật khắc trang trí trên thép (gravyura na stali) và nghề chế tác vũ khí lạnh cao cấp; bảo tàng chính là nơi lưu giữ những tinh hoa đó. Du khách có thể chiêm ngưỡng bộ sưu tập kiếm, dao găm, gươm nghi lễ được chạm trổ hoa văn tinh xảo, mạ vàng và khảm, cùng những tấm thép khắc tranh phong cảnh, chân dung công phu đến từng chi tiết. Ngoài mảng vũ khí và nghệ thuật khắc thép, bảo tàng còn trưng bày các hiện vật về lịch sử nhà máy luyện kim Zlatoust, khoáng vật vùng Ural, dân tộc học và thiên nhiên địa phương. Toà nhà bảo tàng nằm trong quần thể kiến trúc lịch sử ở trung tâm cũ của thành phố. Đây là điểm đến không thể bỏ qua để hiểu vì sao Zlatoust được xem là một trong những cái nôi của nghề thủ công kim loại nghệ thuật ở Nga.",
+    "highlights_vi": [
+      "Một trong những bảo tàng lâu đời nhất Ural (thành lập 1825).",
+      "Bộ sưu tập vũ khí lạnh chạm khắc và tranh khắc thép trứ danh của Zlatoust.",
+      "Trưng bày lịch sử luyện kim, khoáng vật và dân tộc học vùng Ural."
+    ],
+    "practical": {
+      "hours_vi": "Thường mở thứ Ba–Chủ nhật, khoảng 10:00–17:00; thứ Hai nghỉ.",
+      "ticket_vi": "Vé phổ biến khoảng 150–300 RUB; ưu đãi cho học sinh, sinh viên, người cao tuổi.",
+      "duration_vi": "Khoảng 1–1,5 giờ.",
+      "best_time_vi": "Quanh năm; thích hợp kết hợp ngày tham quan Zlatoust và núi Taganay.",
+      "tips_vi": "Kết hợp với tháp chuông Krasnaya Gorka và công viên Bazhov; có gian bán đồ khắc thép làm quà."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%97%D0%BB%D0%B0%D1%82%D0%BE%D1%83%D1%81%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D1%80%D0%B0%D0%B5%D0%B2%D0%B5%D0%B4%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9&ll=59.6705,55.1726&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Zlatoust%20Local%20Lore%20Museum%2C%20Chelyabinsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Златоустовский краеведческий музей",
+        "url": "https://ru.wikipedia.org/wiki/Златоустовский_краеведческий_музей"
+      }
+    ],
+    "tags": [
+      "museum",
+      "history",
+      "steel-engraving",
+      "arms",
+      "zlatoust"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "chelyabinsk-rear-front-monument-magnitogorsk",
+    "slug": "rear-front-monument-magnitogorsk",
+    "region": "chelyabinsk",
+    "region_name_vi": "Tỉnh Chelyabinsk",
+    "federal_district": "Vùng Ural",
+    "name_vi": "Đài tưởng niệm 'Hậu phương - Tiền tuyến' (Tưn - phrôn-tu)",
+    "name_ru": "Монумент «Тыл — фронту»",
+    "name_en": "Rear-Front Monument",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 53.4072,
+      "lon": 58.9925
+    },
+    "address_vi": "Công viên Chiến thắng, bờ sông Ural, thành phố Magnitogorsk, tỉnh Chelyabinsk, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Đài tưởng niệm 'Hậu phương - Tiền tuyến' ở Magnitogorsk là một trong những tượng đài chiến tranh nổi tiếng nhất nước Nga. Tượng khắc hoạ người công nhân trao thanh kiếm cho người lính, mở đầu bộ ba tượng đài huyền thoại thời Xô Viết.",
+    "presentation_long_vi": "Đài tưởng niệm 'Hậu phương - Tiền tuyến' dựng bên bờ sông Ural ở Magnitogorsk là một trong những công trình điêu khắc chiến tranh mang tính biểu tượng nhất của nước Nga. Khánh thành năm 1979, tượng khắc hoạ hai nhân vật: người công nhân Magnitogorsk trao thanh kiếm rèn từ thép cho người chiến sĩ Hồng quân, thể hiện tinh thần 'hậu phương rèn vũ khí cho tiền tuyến' trong Chiến tranh Vệ quốc Vĩ đại. Ý nghĩa lịch sử càng sâu sắc bởi chính thép Magnitogorsk đã làm nên phần lớn xe tăng và vũ khí của Liên Xô. Tác phẩm là phần mở đầu của bộ ba tượng đài nổi tiếng: thanh kiếm này được 'nâng lên' trong tượng đài Mẫu quốc Kêu gọi ở Volgograd và 'hạ xuống' trong tượng đài Người Giải phóng ở Berlin. Bức tượng cao khoảng 15 mét, đặt trên gò đất với ngọn lửa vĩnh cửu và các phiến đá khắc tên những người con Magnitogorsk đã ngã xuống. Đây là nơi diễn ra các nghi lễ tưởng niệm trọng thể, đồng thời là điểm đến để du khách hiểu về vai trò của vùng công nghiệp Ural trong lịch sử nước Nga.",
+    "highlights_vi": [
+      "Một trong những tượng đài chiến tranh biểu tượng nhất nước Nga (1979).",
+      "Người công nhân trao kiếm cho người lính — 'hậu phương rèn vũ khí cho tiền tuyến'.",
+      "Mở đầu bộ ba tượng đài huyền thoại: Magnitogorsk — Volgograd — Berlin."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tham quan tự do quanh năm, mọi thời điểm.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 30–45 phút.",
+      "best_time_vi": "Quanh năm; ngày 9/5 (Ngày Chiến thắng) có nghi lễ trọng thể.",
+      "tips_vi": "Kết hợp dạo công viên Chiến thắng ven sông Ural; giữ thái độ trang nghiêm gần ngọn lửa vĩnh cửu."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D0%BE%D0%BD%D1%83%D0%BC%D0%B5%D0%BD%D1%82%20%C2%AB%D0%A2%D1%8B%D0%BB%20%E2%80%94%20%D1%84%D1%80%D0%BE%D0%BD%D1%82%D1%83%C2%BB&ll=58.9925,53.4072&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Rear-Front%20Monument%2C%20Chelyabinsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Тыл — фронту",
+        "url": "https://ru.wikipedia.org/wiki/Тыл_—_фронту"
+      }
+    ],
+    "tags": [
+      "monument",
+      "wwii",
+      "memorial",
+      "sculpture",
+      "magnitogorsk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "chelyabinsk-kyshtym-white-house",
+    "slug": "kyshtym-white-house",
+    "region": "chelyabinsk",
+    "region_name_vi": "Tỉnh Chelyabinsk",
+    "federal_district": "Vùng Ural",
+    "name_vi": "Dinh thự Demidov 'Nhà Trắng' Kyshtym (Đê-mi-đốp)",
+    "name_ru": "Кыштымский «Белый дом» (усадьба Демидовых)",
+    "name_en": "Kyshtym White House (Demidov Estate)",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 55.7066,
+      "lon": 60.535
+    },
+    "address_vi": "Thành phố Kyshtym, ven hồ, tỉnh Chelyabinsk, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "'Nhà Trắng' Kyshtym là dinh thự cổ của dòng họ chủ mỏ Demidov, một trong những công trình kiến trúc quý giá bậc nhất vùng Ural. Toà nhà theo phong cách cổ điển từng là trung tâm quyền lực của cả một vùng luyện kim.",
+    "presentation_long_vi": "Dinh thự mang tên 'Nhà Trắng' ở Kyshtym là công trình gắn liền với gia tộc Demidov, những chủ mỏ và nhà tư bản luyện kim quyền lực đã khai phá vùng Ural từ thế kỷ 18. Được xây dựng vào nửa sau thế kỷ 18 theo phong cách cổ điển, toà dinh thự bề thế bên hồ nước từng là dinh cơ của giới chủ nhà máy, đồng thời là trung tâm điều hành của khu công nghiệp luyện kim Kyshtym. Kiến trúc gồm khối nhà chính đối xứng, hàng cột trang nghiêm, từng có công viên, hồ và các công trình phụ trợ tạo thành một quần thể trang viên hoàn chỉnh. Trải qua nhiều biến động lịch sử, dinh thự xuống cấp nhưng vẫn giữ được dáng vẻ cổ kính và là biểu tượng của thành phố Kyshtym. Đây được coi là một trong những di tích kiến trúc dân dụng lâu đời và có giá trị nhất của cả vùng Nam Ural, gợi nhớ thời kỳ hoàng kim của các 'ông vua sắt thép' Demidov. Du khách đến đây vừa để chiêm ngưỡng kiến trúc, vừa tìm hiểu lịch sử công nghiệp mỏ đã định hình nên vùng Ural.",
+    "highlights_vi": [
+      "Dinh thự cổ thế kỷ 18 của gia tộc chủ mỏ Demidov quyền lực.",
+      "Kiến trúc cổ điển bề thế bên hồ, biểu tượng của thành phố Kyshtym.",
+      "Một trong những di tích kiến trúc dân dụng lâu đời nhất Nam Ural."
+    ],
+    "practical": {
+      "hours_vi": "Khuôn viên có thể tham quan bên ngoài quanh năm; phần trong tuỳ tình trạng trùng tu và sự kiện.",
+      "ticket_vi": "Tham quan ngoại thất tự do; các sự kiện hoặc khu trưng bày (nếu có) thu phí riêng.",
+      "duration_vi": "Khoảng 30–45 phút.",
+      "best_time_vi": "Mùa hè và đầu thu để dạo khuôn viên và ven hồ.",
+      "tips_vi": "Kiểm tra trước vì công trình đang được bảo tồn; kết hợp tham quan hang Sugomak gần Kyshtym."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D1%8B%D1%88%D1%82%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D0%B9%20%C2%AB%D0%91%D0%B5%D0%BB%D1%8B%D0%B9%20%D0%B4%D0%BE%D0%BC%C2%BB%20%28%D1%83%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0%20%D0%94%D0%B5%D0%BC%D0%B8%D0%B4%D0%BE%D0%B2%D1%8B%D1%85%29&ll=60.535,55.7066&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kyshtym%20White%20House%20%28Demidov%20Estate%29%2C%20Chelyabinsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Кыштымский Белый дом",
+        "url": "https://ru.wikipedia.org/wiki/Кыштымский_Белый_дом"
+      }
+    ],
+    "tags": [
+      "palace",
+      "estate",
+      "demidov",
+      "architecture",
+      "kyshtym"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "chelyabinsk-kaolin-quarry-kyshtym",
+    "slug": "kaolin-quarry-kyshtym",
+    "region": "chelyabinsk",
+    "region_name_vi": "Tỉnh Chelyabinsk",
+    "federal_district": "Vùng Ural",
+    "name_vi": "Mỏ cao lanh Kyshtym - 'Bali của Ural' (Ka-ô-lin)",
+    "name_ru": "Каолиновый карьер (Кыштым)",
+    "name_en": "Kyshtym Kaolin Quarry",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 55.6773,
+      "lon": 60.5963
+    },
+    "address_vi": "Ngoại vi thành phố Kyshtym, tỉnh Chelyabinsk, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Mỏ cao lanh cũ ở Kyshtym có làn nước xanh ngọc lam đặc trưng và bờ đất trắng, tạo nên khung cảnh siêu thực khiến dân mạng gọi là 'Bali của Ural'. Đây là điểm chụp ảnh nổi đình đám trong những năm gần đây.",
+    "presentation_long_vi": "Mỏ cao lanh Kyshtym là một moong khai thác khoáng sản đã ngừng hoạt động, nơi nước ngầm và nước mưa tích tụ tạo thành một hồ nhân tạo với màu nước xanh ngọc lam kỳ ảo, tương phản với bờ đất sét trắng (cao lanh) mịn màng bao quanh. Sự kết hợp màu sắc lạ mắt này khiến khung cảnh trông giống một bãi biển nhiệt đới hơn là vùng công nghiệp Ural, nên được cộng đồng mạng đặt cho biệt danh 'Bali của Ural' và nhanh chóng trở thành điểm 'sống ảo' hút khách. Màu nước xanh có được là do các khoáng chất hoà tan, và tuỳ thời tiết, ánh sáng mà sắc độ thay đổi từ xanh ngọc đến xanh lam. Dù đẹp mắt, cần lưu ý đây không phải nơi tắm an toàn: nước có độ khoáng và độ kiềm cao, bờ đất trơn trượt, nên du khách chủ yếu đến ngắm cảnh và chụp ảnh từ trên bờ. Vị trí gần Kyshtym khiến mỏ cao lanh dễ kết hợp với các điểm tham quan khác trong vùng. Đây là ví dụ thú vị về cách một khu khai mỏ bỏ hoang biến thành thắng cảnh du lịch độc đáo.",
+    "highlights_vi": [
+      "Hồ mỏ cao lanh với nước xanh ngọc lam và bờ đất trắng siêu thực.",
+      "Được mệnh danh 'Bali của Ural', điểm chụp ảnh nổi tiếng mạng xã hội.",
+      "Cảnh sắc đổi màu theo ánh sáng và thời tiết trong ngày."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tham quan tự do quanh năm; đẹp nhất khi trời nắng.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 30–60 phút.",
+      "best_time_vi": "Mùa hè trời nắng để nước lên màu xanh đẹp nhất.",
+      "tips_vi": "KHÔNG bơi (nước khoáng, kiềm cao, bờ trơn); đi giày bám tốt và chỉ ngắm/chụp ảnh từ bờ."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D0%B0%D0%BE%D0%BB%D0%B8%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%B0%D1%80%D1%8C%D0%B5%D1%80%20%28%D0%9A%D1%8B%D1%88%D1%82%D1%8B%D0%BC%29&ll=60.5963,55.6773&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kyshtym%20Kaolin%20Quarry%2C%20Chelyabinsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Каолиновый карьер (Кыштым)",
+        "url": "https://ru.wikipedia.org/wiki/Каолиновый_карьер_(Кыштым)"
+      }
+    ],
+    "tags": [
+      "park_garden",
+      "other",
+      "quarry",
+      "instagram",
+      "kyshtym"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "chelyabinsk-lake-uvildy",
+    "slug": "lake-uvildy",
+    "region": "chelyabinsk",
+    "region_name_vi": "Tỉnh Chelyabinsk",
+    "federal_district": "Vùng Ural",
+    "name_vi": "Hồ Uvildy (U-vin-đứ)",
+    "name_ru": "Озеро Увильды",
+    "name_en": "Lake Uvildy",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 55.5253,
+      "lon": 60.4941
+    },
+    "address_vi": "Huyện Argayash, gần thành phố Kyshtym, tỉnh Chelyabinsk, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Uvildy là một trong những hồ nước ngọt lớn và sâu nhất tỉnh Chelyabinsk, nổi tiếng với nước trong xanh và các khu nghỉ dưỡng - an dưỡng ven bờ. Vùng hồ được đánh giá cao về khí hậu trong lành và nguồn bùn khoáng chữa bệnh.",
+    "presentation_long_vi": "Hồ Uvildy là một trong những hồ tự nhiên lớn nhất và đẹp nhất vùng Nam Ural, với diện tích rộng lớn, độ sâu đáng kể và làn nước trong xanh. Được hình thành từ nguồn gốc kiến tạo, hồ có nhiều đảo nhỏ, các vịnh kín gió và bờ rừng thông xen bạch dương bao quanh. Nước hồ sạch, giàu ô-xy, kết hợp với khí hậu ôn hoà và nguồn bùn sapropel có giá trị chữa bệnh đã biến Uvildy thành một trung tâm nghỉ dưỡng - an dưỡng nổi tiếng của cả vùng, với hàng loạt nhà điều dưỡng (sanatorium), khu nghỉ và trại hè mọc lên ven bờ từ thời Xô Viết. Vào mùa hè, du khách đến đây để tắm, chèo thuyền, câu cá và cắm trại; mùa đông hồ đóng băng thu hút người câu cá trên băng. Nhờ kích thước lớn và cảnh quan đa dạng, Uvildy còn được ví như một 'vùng biển nhỏ' của Chelyabinsk. Đây là điểm đến lý tưởng cho những kỳ nghỉ kết hợp thư giãn, chăm sóc sức khoẻ và hoà mình vào thiên nhiên Ural.",
+    "highlights_vi": [
+      "Một trong những hồ lớn, sâu và trong nhất tỉnh Chelyabinsk.",
+      "Trung tâm nghỉ dưỡng - an dưỡng với bùn khoáng sapropel chữa bệnh.",
+      "Nhiều đảo nhỏ, vịnh kín và rừng thông ven bờ, đẹp cả bốn mùa."
+    ],
+    "practical": {
+      "hours_vi": "Khu vực hồ mở tự do quanh năm; các khu nghỉ và bãi tắm có giờ và quy định riêng.",
+      "ticket_vi": "Tiếp cận nhiều điểm ven hồ miễn phí; một số bãi tắm, bãi đỗ xe và khu nghỉ thu phí.",
+      "duration_vi": "Nửa ngày đến vài ngày nếu lưu trú.",
+      "best_time_vi": "Tháng 6–8 để tắm, chèo thuyền; mùa đông cho câu cá trên băng.",
+      "tips_vi": "Đặt trước phòng ở sanatorium vào cao điểm hè; mang đồ chống muỗi khi cắm trại ven rừng."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9E%D0%B7%D0%B5%D1%80%D0%BE%20%D0%A3%D0%B2%D0%B8%D0%BB%D1%8C%D0%B4%D1%8B&ll=60.4941,55.5253&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Lake%20Uvildy%2C%20Chelyabinsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Увильды",
+        "url": "https://ru.wikipedia.org/wiki/Увильды"
+      }
+    ],
+    "tags": [
+      "park_garden",
+      "lake",
+      "resort",
+      "swimming",
+      "wellness",
+      "chelyabinsk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "chelyabinsk-arakul-shikhan",
+    "slug": "arakul-shikhan",
+    "region": "chelyabinsk",
+    "region_name_vi": "Tỉnh Chelyabinsk",
+    "federal_district": "Vùng Ural",
+    "name_vi": "Gờ đá Arakul Shikhan và hồ Arakul (A-ra-cun Si-khan)",
+    "name_ru": "Аракульский Шихан",
+    "name_en": "Arakul Shikhan",
+    "categories": [
+      "park_garden",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 55.9859,
+      "lon": 60.4916
+    },
+    "address_vi": "Gần làng Silach, phía bắc tỉnh Chelyabinsk, giáp tỉnh Sverdlovsk, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Arakul Shikhan là một dải gờ đá granit khổng lồ chạy dọc sống núi, cao vút phía trên hồ Arakul trong xanh. Đây là điểm leo núi, ngắm cảnh và cắm trại được yêu thích, đồng thời chứa dấu tích cư trú của người cổ đại.",
+    "presentation_long_vi": "Arakul Shikhan là một trong những kỳ quan thiên nhiên đặc sắc nhất phía bắc tỉnh Chelyabinsk: một dải gờ đá granit đồ sộ trải dài hơn hai km dọc theo đỉnh núi, với những khối đá xếp chồng cao tới vài chục mét tạo thành các vách đá dựng đứng. Từ trên đỉnh gờ đá, du khách phóng tầm mắt bao quát cả một vùng hồ và rừng taiga, trong đó nổi bật là hồ Arakul trong vắt nằm ngay dưới chân núi. Địa hình đá đa dạng với các khe nứt, hốc đá và mỏm nhô ra khiến nơi đây trở thành 'thiên đường' cho dân leo núi thể thao và những người thích chinh phục. Trên các phiến đá còn lưu lại những hõm nhân tạo được cho là bồn chứa nước hoặc dấu tích nghi lễ của người cổ đại, cùng nhiều phát hiện khảo cổ quanh chân núi, cho thấy con người đã sinh sống ở đây từ hàng nghìn năm trước. Sự kết hợp giữa cảnh quan đá hùng vĩ, hồ nước đẹp và chiều sâu lịch sử khiến Arakul Shikhan là điểm đến hấp dẫn cho các chuyến dã ngoại, leo núi và cắm trại cuối tuần.",
+    "highlights_vi": [
+      "Gờ đá granit khổng lồ dài hơn 2 km, vách dựng đứng cao hàng chục mét.",
+      "Điểm ngắm toàn cảnh hồ Arakul trong xanh và rừng taiga Ural.",
+      "Dấu tích cư trú và các hõm đá nghi lễ của người cổ đại."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tham quan tự do quanh năm; leo núi thuận lợi trong mùa ấm.",
+      "ticket_vi": "Miễn phí; có thể mất phí nhỏ nếu qua khu cắm trại tổ chức.",
+      "duration_vi": "Nửa ngày (leo lên và ngắm cảnh).",
+      "best_time_vi": "Tháng 5–9 khi đá khô ráo, an toàn để leo; tránh ngày mưa gió.",
+      "tips_vi": "Đi giày bám tốt, cẩn trọng ở mép vách; mang đủ nước; có thể cắm trại ven hồ Arakul."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%90%D1%80%D0%B0%D0%BA%D1%83%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D0%A8%D0%B8%D1%85%D0%B0%D0%BD&ll=60.4916,55.9859&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Arakul%20Shikhan%2C%20Chelyabinsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Аракульский Шихан",
+        "url": "https://ru.wikipedia.org/wiki/Аракульский_Шихан"
+      }
+    ],
+    "tags": [
+      "park_garden",
+      "monument",
+      "rock",
+      "hiking",
+      "climbing",
+      "archaeology"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "chelyabinsk-lake-itkul-shaitan-kamen",
+    "slug": "lake-itkul-shaitan-kamen",
+    "region": "chelyabinsk",
+    "region_name_vi": "Tỉnh Chelyabinsk",
+    "federal_district": "Vùng Ural",
+    "name_vi": "Hồ Itkul và đá Shaitan-Kamen (Ít-cun, Sai-tan Ca-men)",
+    "name_ru": "Озеро Иткуль и скала Шайтан-камень",
+    "name_en": "Lake Itkul and Shaitan-Kamen Rock",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 56.1204,
+      "lon": 60.5257
+    },
+    "address_vi": "Huyện Verkhny Ufaley, phía bắc tỉnh Chelyabinsk, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Itkul là hồ nước trong lành ở phía bắc tỉnh Chelyabinsk, nổi bật với mỏm đá Shaitan-Kamen ('đá Quỷ') nhô lên giữa mặt nước gần bờ. Hồ gắn với nhiều truyền thuyết và di chỉ khảo cổ của các bộ tộc cổ.",
+    "presentation_long_vi": "Hồ Itkul nằm ở phía bắc tỉnh Chelyabinsk, là một hồ nước ngọt trong lành, được bao quanh bởi rừng và đồi thấp. Điểm nhận diện nổi tiếng nhất của hồ là Shaitan-Kamen, một mỏm đá nhô lên khỏi mặt nước không xa bờ, mà theo tiếng địa phương có nghĩa là 'đá Quỷ' hay 'đá thiêng'. Với người Bashkir và các cư dân cổ, tảng đá này từng là nơi thờ cúng, hiến tế và gắn với nhiều truyền thuyết dân gian; các nhà khảo cổ đã tìm thấy quanh hồ dấu tích cư trú, đồ đồng và di vật cho thấy con người đã sinh sống ở đây từ thời tiền sử. Nước hồ sạch, giàu khoáng, nên khu vực này còn được khai thác nguồn nước và là nơi nghỉ ngơi, câu cá của người dân. Vào mùa hè, du khách đến Itkul để tắm, chèo thuyền tới gần tảng Shaitan-Kamen chụp ảnh, cắm trại ven bờ và tận hưởng khung cảnh yên bình. Sự hoà quyện giữa thiên nhiên trong lành, tảng đá kỳ bí và bề dày lịch sử tín ngưỡng khiến hồ Itkul trở thành điểm đến vừa thư giãn vừa giàu chất huyền thoại.",
+    "highlights_vi": [
+      "Hồ nước trong lành phía bắc tỉnh Chelyabinsk, bao quanh bởi rừng.",
+      "Mỏm đá Shaitan-Kamen ('đá Quỷ') linh thiêng nhô giữa mặt nước.",
+      "Nhiều truyền thuyết và di chỉ khảo cổ của cư dân cổ quanh hồ."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tham quan tự do quanh năm.",
+      "ticket_vi": "Miễn phí; một số bãi cắm trại tổ chức có thể thu phí nhỏ.",
+      "duration_vi": "Nửa ngày.",
+      "best_time_vi": "Tháng 6–8 để tắm và chèo thuyền ra gần Shaitan-Kamen.",
+      "tips_vi": "Muốn ra sát tảng đá cần thuyền/sup; giữ gìn vệ sinh và tôn trọng ý nghĩa tâm linh của địa điểm."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9E%D0%B7%D0%B5%D1%80%D0%BE%20%D0%98%D1%82%D0%BA%D1%83%D0%BB%D1%8C%20%D0%B8%20%D1%81%D0%BA%D0%B0%D0%BB%D0%B0%20%D0%A8%D0%B0%D0%B9%D1%82%D0%B0%D0%BD-%D0%BA%D0%B0%D0%BC%D0%B5%D0%BD%D1%8C&ll=60.5257,56.1204&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Lake%20Itkul%20and%20Shaitan-Kamen%20Rock%2C%20Chelyabinsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Иткуль (озеро, Челябинская область)",
+        "url": "https://ru.wikipedia.org/wiki/Иткуль_(озеро,_Челябинская_область)"
+      }
+    ],
+    "tags": [
+      "park_garden",
+      "lake",
+      "rock",
+      "legend",
+      "archaeology",
+      "chelyabinsk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "chelyabinsk-porogi-historic-power-station",
+    "slug": "porogi-historic-power-station",
+    "region": "chelyabinsk",
+    "region_name_vi": "Tỉnh Chelyabinsk",
+    "federal_district": "Vùng Ural",
+    "name_vi": "Trạm thuỷ điện lịch sử Porogi (Pô-rô-ghi)",
+    "name_ru": "Пороги (историческая ГЭС и завод ферросплавов)",
+    "name_en": "Porogi Historic Hydroelectric Station",
+    "categories": [
+      "monument",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 55.2819,
+      "lon": 59.1342
+    },
+    "address_vi": "Làng Porogi, huyện Satka, ven sông Bolshaya Satka, tỉnh Chelyabinsk, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Porogi là quần thể đập đá và nhà máy thuỷ điện cổ đầu thế kỷ 20, một trong những công trình thuỷ điện lâu đời nhất còn hoạt động ở Nga. Đập đá rêu phong bên hồ chứa tạo nên khung cảnh công nghiệp - thiên nhiên độc đáo.",
+    "presentation_long_vi": "Quần thể Porogi ở huyện Satka là một di tích công nghiệp độc đáo bậc nhất vùng Ural: một con đập bằng đá và nhà máy thuỷ điện được xây dựng vào năm 1910 để cấp điện cho xưởng luyện hợp kim sắt (ferroalloy) đầu tiên của nước Nga. Con đập cong bằng đá granit chắn ngang sông Bolshaya Satka, tạo thành một hồ chứa nước phẳng lặng, trong khi dòng nước tràn qua đập đổ xuống tạo nên khung cảnh vừa hùng vĩ vừa nên thơ. Điều đặc biệt là trạm thuỷ điện với các tổ máy phát điện cổ nhập từ nước ngoài đã vận hành liên tục suốt hơn một thế kỷ, biến Porogi thành một 'bảo tàng kỹ thuật sống' hiếm có. Xung quanh là những dãy núi thấp phủ rừng, khiến toàn bộ quần thể hoà quyện giữa di sản công nghiệp và thiên nhiên. Dù nằm ở nơi khá xa xôi, đường vào gập ghềnh, Porogi vẫn thu hút du khách yêu lịch sử kỹ thuật và những người tìm kiếm khung cảnh khác lạ. Đây là minh chứng sống động cho buổi bình minh của ngành điện và luyện kim ở Nga.",
+    "highlights_vi": [
+      "Đập đá và nhà máy thuỷ điện cổ (1910), một trong những cái đầu tiên ở Nga.",
+      "Tổ máy phát điện cổ vận hành hơn một thế kỷ — 'bảo tàng kỹ thuật sống'.",
+      "Đập granit rêu phong bên hồ chứa giữa núi rừng, khung cảnh độc đáo."
+    ],
+    "practical": {
+      "hours_vi": "Khu vực ngoài trời, tham quan tự do quanh năm; nên đi ban ngày.",
+      "ticket_vi": "Tham quan tự do; có thể thu phí nhỏ tại khu du lịch hoặc chỗ đỗ xe.",
+      "duration_vi": "Khoảng 1–2 giờ tại chỗ (chưa kể đường đi).",
+      "best_time_vi": "Mùa hè và đầu thu khi đường khô ráo dễ đi.",
+      "tips_vi": "Đường vào xấu, nên đi xe gầm cao; mang đủ đồ ăn nước uống vì khu vực xa dịch vụ."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%BE%D1%80%D0%BE%D0%B3%D0%B8%20%28%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D0%93%D0%AD%D0%A1%20%D0%B8%20%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%20%D1%84%D0%B5%D1%80%D1%80%D0%BE%D1%81%D0%BF%D0%BB%D0%B0%D0%B2%D0%BE%D0%B2%29&ll=59.1342,55.2819&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Porogi%20Historic%20Hydroelectric%20Station%2C%20Chelyabinsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Пороги (ГЭС)",
+        "url": "https://ru.wikipedia.org/wiki/Пороги_(ГЭС)"
+      }
+    ],
+    "tags": [
+      "monument",
+      "other",
+      "industrial-heritage",
+      "hydro",
+      "satka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "chelyabinsk-sikiyaz-tamak-caves",
+    "slug": "sikiyaz-tamak-caves",
+    "region": "chelyabinsk",
+    "region_name_vi": "Tỉnh Chelyabinsk",
+    "federal_district": "Vùng Ural",
+    "name_vi": "Quần thể hang Sikiyaz-Tamak (Xi-ki-át Ta-mác)",
+    "name_ru": "Сикияз-Тамакский пещерный комплекс",
+    "name_en": "Sikiyaz-Tamak Cave Complex",
+    "categories": [
+      "other",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 55.185,
+      "lon": 58.6142
+    },
+    "address_vi": "Gần làng Sikiyaz-Tamak, huyện Satka, ven sông Ay, tỉnh Chelyabinsk, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Sikiyaz-Tamak là một quần thể hang động dày đặc hiếm có trong một vách đá vôi ven sông Ay, nơi các nhà khảo cổ tìm thấy dấu tích cư trú của con người trải dài từ thời đồ đá. Đây được xem như một 'bảo tàng thiên nhiên - khảo cổ' ngoài trời.",
+    "presentation_long_vi": "Quần thể hang Sikiyaz-Tamak nằm trong một khối núi đá vôi bên bờ sông Ay thuộc huyện Satka, là một trong những di chỉ khảo cổ hang động quan trọng nhất vùng Ural. Điều làm nên sự đặc biệt của nơi đây là mật độ hang động dày đặc: trên một đoạn vách đá không lớn, các nhà nghiên cứu đã ghi nhận hàng chục hang, hốc, mái đá và cửa hang lớn nhỏ tập trung san sát nhau. Đáng kinh ngạc hơn, các cuộc khai quật cho thấy con người đã sử dụng những hang này liên tục qua nhiều thời kỳ, từ thời đồ đá cũ, đồ đá mới đến thời đồ đồng và đồ sắt, để lại vô số công cụ, xương động vật, gốm và dấu vết sinh hoạt. Vì lẽ đó, Sikiyaz-Tamak được ví như một 'bảo tàng khảo cổ tự nhiên' phản ánh gần như toàn bộ tiến trình cư trú của con người tiền sử trong một địa điểm duy nhất. Khung cảnh vách đá dựng đứng soi bóng xuống dòng Ay uốn khúc cũng rất ngoạn mục, khiến nơi đây trở thành điểm đến kết hợp giữa khám phá thiên nhiên và tìm hiểu lịch sử cổ đại.",
+    "highlights_vi": [
+      "Quần thể hàng chục hang động san sát trong vách đá vôi ven sông Ay.",
+      "Dấu tích cư trú của con người liên tục từ thời đồ đá đến đồ sắt.",
+      "Được ví như 'bảo tàng khảo cổ tự nhiên' ngoài trời của vùng Ural."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tham quan tự do quanh năm; thuận lợi nhất trong mùa khô ráo.",
+      "ticket_vi": "Miễn phí; tour đi bè hoặc hướng dẫn viên tính phí riêng.",
+      "duration_vi": "Khoảng 1,5–3 giờ.",
+      "best_time_vi": "Mùa hè và đầu thu; thường kết hợp trong hành trình đi bè trên sông Ay.",
+      "tips_vi": "Mang đèn pin, giày bám tốt; cẩn thận khi trèo vào hang; nên đi cùng người quen địa hình."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%B8%D0%BA%D0%B8%D1%8F%D0%B7-%D0%A2%D0%B0%D0%BC%D0%B0%D0%BA%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81&ll=58.6142,55.185&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Sikiyaz-Tamak%20Cave%20Complex%2C%20Chelyabinsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Сикияз-Тамакский пещерный комплекс",
+        "url": "https://ru.wikipedia.org/wiki/Сикияз-Тамакский_пещерный_комплекс"
+      }
+    ],
+    "tags": [
+      "other",
+      "monument",
+      "cave",
+      "archaeology",
+      "ay-river",
+      "satka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "chelyabinsk-ay-prityosy-cliffs",
+    "slug": "ay-prityosy-cliffs",
+    "region": "chelyabinsk",
+    "region_name_vi": "Tỉnh Chelyabinsk",
+    "federal_district": "Vùng Ural",
+    "name_vi": "Vách đá Ay Prityosy (Ai Pri-chô-xứ)",
+    "name_ru": "Айские притёсы (Большие Притёсы)",
+    "name_en": "Ay Prityosy Cliffs",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 55.149,
+      "lon": 58.6959
+    },
+    "address_vi": "Ven sông Ay, huyện Satka, tỉnh Chelyabinsk, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Ay Prityosy là những vách đá vôi dựng đứng cao khoảng trăm mét soi bóng xuống dòng sông Ay uốn khúc. Đây là một trong những cảnh quan sông núi ngoạn mục và được chụp ảnh nhiều nhất tỉnh Chelyabinsk.",
+    "presentation_long_vi": "Ay Prityosy (còn gọi là Bolshiye Prityosy - 'vách đá lớn') là dải vách đá vôi dựng đứng chạy dài ven sông Ay ở huyện Satka, cao khoảng trăm mét so với mặt nước. Được dòng sông bào mòn qua hàng triệu năm, những vách đá phẳng lì màu xám trắng dựng thẳng đứng như bức tường thành khổng lồ, tạo nên một trong những khung cảnh ngoạn mục nhất vùng Nam Ural. Trên đỉnh vách là điểm ngắm toàn cảnh khúc sông Ay uốn lượn giữa rừng, còn dưới chân vách có các hang và hốc đá bí ẩn, trong đó nổi tiếng là hang 'Sukhая Атя' và các hốc từng được người xưa lui tới. Khu vực này là điểm đến quen thuộc của các tour đi bè, chèo thuyền trên sông Ay: du khách vừa thả trôi theo dòng nước vừa chiêm ngưỡng vách đá sừng sững hai bên. Dân leo núi và ưa mạo hiểm còn tổ chức đu dây, trượt zipline từ đỉnh vách. Với vẻ đẹp hùng vĩ và sự đa dạng hoạt động, Ay Prityosy là một trong những biểu tượng du lịch thiên nhiên của tỉnh Chelyabinsk.",
+    "highlights_vi": [
+      "Vách đá vôi dựng đứng cao ~100 m soi bóng xuống sông Ay uốn khúc.",
+      "Điểm ngắm cảnh và chụp ảnh sông núi đẹp bậc nhất tỉnh Chelyabinsk.",
+      "Trung tâm các tour đi bè, chèo thuyền và trò chơi mạo hiểm zipline."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tham quan tự do quanh năm; đẹp và an toàn nhất trong mùa ấm.",
+      "ticket_vi": "Ngắm cảnh miễn phí; tour đi bè, zipline và dịch vụ tính phí riêng.",
+      "duration_vi": "Khoảng 1–2 giờ tại điểm ngắm (chưa kể tour sông).",
+      "best_time_vi": "Tháng 5–9 cho đi bè và ngắm cảnh; mùa thu lá vàng cũng rất đẹp.",
+      "tips_vi": "Cẩn trọng ở mép vách không rào chắn; đi giày bám tốt; kết hợp tour bè trên sông Ay."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%90%D0%B9%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BF%D1%80%D0%B8%D1%82%D1%91%D1%81%D1%8B%20%28%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B8%D0%B5%20%D0%9F%D1%80%D0%B8%D1%82%D1%91%D1%81%D1%8B%29&ll=58.6959,55.149&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Ay%20Prityosy%20Cliffs%2C%20Chelyabinsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Большие Притёсы",
+        "url": "https://ru.wikipedia.org/wiki/Большие_Притёсы"
+      }
+    ],
+    "tags": [
+      "park_garden",
+      "cliff",
+      "ay-river",
+      "viewpoint",
+      "rafting",
+      "satka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "chelyabinsk-sonkina-laguna-satka",
+    "slug": "sonkina-laguna-satka",
+    "region": "chelyabinsk",
+    "region_name_vi": "Tỉnh Chelyabinsk",
+    "federal_district": "Vùng Ural",
+    "name_vi": "Công viên Sonkina Laguna (Xôn-ki-na La-gu-na)",
+    "name_ru": "Парк-отель «Сонькина Лагуна»",
+    "name_en": "Sonkina Laguna Park",
+    "categories": [
+      "other",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 55.0381,
+      "lon": 59.0318
+    },
+    "address_vi": "Thành phố Satka, ven hồ chứa, tỉnh Chelyabinsk, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Sonkina Laguna là công viên giải trí - nghỉ dưỡng độc đáo bên hồ ở Satka, với những công trình mô phỏng pháo đài, tàu cướp biển và tượng trang trí hài hước. Đây là điểm vui chơi gia đình nổi tiếng do một doanh nhân địa phương gây dựng.",
+    "presentation_long_vi": "Sonkina Laguna là một công viên - khu nghỉ dưỡng tư nhân độc đáo nằm bên hồ chứa nước ở thành phố Satka, được một doanh nhân địa phương xây dựng và không ngừng mở rộng thành điểm đến nổi tiếng của cả vùng. Điểm hấp dẫn của công viên là hàng loạt công trình trang trí sinh động, mang phong cách phiêu lưu - cổ tích: pháo đài đá với tháp canh, chiếc thuyền buồm gỗ như tàu cướp biển, cầu treo, hải đăng, cùng vô số bức tượng, mô hình nhân vật ngộ nghĩnh rải khắp khuôn viên. Bên hồ có bãi tắm, khu vui chơi dưới nước, cầu trượt, chỗ câu cá, nhà hàng và khu lưu trú, tạo nên một tổ hợp giải trí đủ đầy cho các gia đình. Vào mùa hè, du khách đến đây để tắm hồ, chèo thuyền, chụp ảnh với các công trình lạ mắt; mùa đông khu vực cũng có các hoạt động và trang trí theo mùa. Với tinh thần vui tươi, giàu trí tưởng tượng và không gian bên hồ đẹp mắt, Sonkina Laguna trở thành một trong những điểm vui chơi được yêu thích nhất tỉnh Chelyabinsk, đặc biệt với du khách đi cùng trẻ nhỏ.",
+    "highlights_vi": [
+      "Công viên giải trí bên hồ với pháo đài, tàu buồm và tượng trang trí độc đáo.",
+      "Bãi tắm, khu vui chơi dưới nước, câu cá, nhà hàng và chỗ lưu trú.",
+      "Điểm vui chơi gia đình nổi tiếng do doanh nhân địa phương gây dựng."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa hằng ngày trong mùa du lịch; giờ và dịch vụ thay đổi theo mùa.",
+      "ticket_vi": "Vé vào cửa và dịch vụ thu phí; giá tuỳ mùa và loại vé, thường vài trăm RUB trở lên.",
+      "duration_vi": "Nửa ngày đến trọn ngày.",
+      "best_time_vi": "Mùa hè (tháng 6–8) để tắm hồ và chơi các trò dưới nước.",
+      "tips_vi": "Mang đồ bơi mùa hè; đi cùng trẻ nhỏ rất hợp; kiểm tra lịch mở cửa trước khi đến."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D1%80%D0%BA-%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%C2%AB%D0%A1%D0%BE%D0%BD%D1%8C%D0%BA%D0%B8%D0%BD%D0%B0%20%D0%9B%D0%B0%D0%B3%D1%83%D0%BD%D0%B0%C2%BB&ll=59.0318,55.0381&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Sonkina%20Laguna%20Park%2C%20Chelyabinsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Сонькина Лагуна",
+        "url": "https://ru.wikipedia.org/wiki/Special:Search?search=Сонькина Лагуна Сатка"
+      }
+    ],
+    "tags": [
+      "other",
+      "park_garden",
+      "amusement",
+      "family",
+      "lake",
+      "satka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "chelyabinsk-zigalga-national-park",
+    "slug": "zigalga-national-park",
+    "region": "chelyabinsk",
+    "region_name_vi": "Tỉnh Chelyabinsk",
+    "federal_district": "Vùng Ural",
+    "name_vi": "Vườn quốc gia Zigalga (Di-gan-ga)",
+    "name_ru": "Национальный парк «Зигальга»",
+    "name_en": "Zigalga National Park",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 54.6224,
+      "lon": 58.5962
+    },
+    "address_vi": "Huyện Katav-Ivanovsk, dọc dãy núi Zigalga, tây nam tỉnh Chelyabinsk, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Zigalga là vườn quốc gia trẻ bảo vệ dãy núi cùng tên - một trong những sống núi cao và hoang sơ nhất Nam Ural. Nơi đây có rừng taiga nguyên sinh, đồng rêu núi cao và những đỉnh đá phủ tuyết gần như quanh năm.",
+    "presentation_long_vi": "Vườn quốc gia Zigalga được thành lập năm 2019 nhằm bảo vệ dãy núi Zigalga, một trong những sống núi cao, dài và hoang sơ nhất vùng Nam Ural, nằm ở phía tây nam tỉnh Chelyabinsk gần ranh giới với Bashkortostan. Dãy núi kéo dài với nhiều đỉnh cao trên 1.300 mét, trong đó đỉnh Poperechnaya là một trong những điểm cao nhất, quanh năm gần như phủ tuyết trên các sườn cao. Vườn quốc gia bảo vệ một hệ sinh thái đa dạng theo độ cao: từ rừng taiga nguyên sinh với thông, vân sam và bạch dương ở chân núi, lên tới rừng thưa, đồng cỏ núi cao và vùng đồng rêu (tundra) trên đỉnh, nơi sinh sống của nhiều loài động thực vật quý hiếm và đặc hữu của Ural. Cảnh quan gồm những biển đá (kurum) trải dài, các mỏm đá kỳ vĩ và tầm nhìn khoáng đạt xuống các thung lũng sông. Là vườn quốc gia còn khá mới và ít bị tác động, Zigalga hấp dẫn những người ưa trekking đường dài, cắm trại hoang dã và khám phá thiên nhiên nguyên bản. Việc tham quan cần đăng ký với ban quản lý và tuân thủ quy định bảo tồn nghiêm ngặt.",
+    "highlights_vi": [
+      "Vườn quốc gia trẻ (2019) bảo vệ dãy Zigalga cao, hoang sơ bậc nhất Nam Ural.",
+      "Nhiều đỉnh trên 1.300 m với rừng taiga, đồng rêu núi cao và biển đá kurum.",
+      "Thiên nhiên nguyên bản, lý tưởng cho trekking dài ngày và cắm trại hoang dã."
+    ],
+    "practical": {
+      "hours_vi": "Vào vườn cần đăng ký với ban quản lý; các tuyến trekking chủ yếu vào mùa ấm.",
+      "ticket_vi": "Có thể thu phí vào vườn và phí dịch vụ; mức phí theo quy định ban quản lý.",
+      "duration_vi": "Từ một ngày đến nhiều ngày tuỳ tuyến trekking.",
+      "best_time_vi": "Tháng 6–9 khi thời tiết ổn định; trên núi cao có thể lạnh và có tuyết sớm.",
+      "tips_vi": "Đăng ký trước, đi theo tuyến được phép, chuẩn bị đồ trekking, đồ ấm và lương thực đầy đủ."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%B0%D1%80%D0%BA%20%C2%AB%D0%97%D0%B8%D0%B3%D0%B0%D0%BB%D1%8C%D0%B3%D0%B0%C2%BB&ll=58.5962,54.6224&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Zigalga%20National%20Park%2C%20Chelyabinsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Зигальга (национальный парк)",
+        "url": "https://ru.wikipedia.org/wiki/Зигальга_(национальный_парк)"
+      }
+    ],
+    "tags": [
+      "park_garden",
+      "national-park",
+      "mountain",
+      "taiga",
+      "trekking",
+      "chelyabinsk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "chelyabinsk-zavyalikha-ski",
+    "slug": "zavyalikha-ski",
+    "region": "chelyabinsk",
+    "region_name_vi": "Tỉnh Chelyabinsk",
+    "federal_district": "Vùng Ural",
+    "name_vi": "Khu trượt tuyết Zavyalikha (Da-vi-a-li-kha)",
+    "name_ru": "Горнолыжный курорт «Завьялиха»",
+    "name_en": "Zavyalikha Ski Resort",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 54.7933,
+      "lon": 58.539
+    },
+    "address_vi": "Gần thành phố Trekhgorny và Yuryuzan, huyện Katav-Ivanovsk, tỉnh Chelyabinsk, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Zavyalikha là khu trượt tuyết lớn trên núi cùng tên gần Trekhgorny, nổi tiếng với các đường trượt dài, chênh cao lớn và tuyết đẹp. Đây là một trong những điểm thể thao mùa đông được yêu thích nhất Nam Ural.",
+    "presentation_long_vi": "Trung tâm trượt tuyết Zavyalikha nằm trên sườn núi Zavyalikha gần thành phố Trekhgorny và thị trấn Yuryuzan ở tây nam tỉnh Chelyabinsk. Đây là một trong những khu trượt tuyết quy mô lớn và được đầu tư sớm của vùng Ural, với độ chênh cao đáng kể giữa đỉnh và chân núi, mang lại những đường trượt dài và đa dạng độ khó. Khu nghỉ có hệ thống cáp treo hiện đại đưa khách lên đỉnh, từ đó toả ra nhiều đường trượt xuyên rừng thông và trảng núi, phù hợp cả người mới lẫn dân trượt kỳ cựu. Nhờ vị trí trên cao và khí hậu vùng núi, Zavyalikha thường có lớp tuyết dày, chất lượng tốt và mùa trượt kéo dài. Bên cạnh trượt tuyết và trượt ván, khu nghỉ còn phát triển các dịch vụ lưu trú, nhà hàng, thuê thiết bị và trường dạy trượt. Cảnh quan núi rừng bao quanh cũng khiến nơi đây hấp dẫn cả vào mùa hè cho các hoạt động ngoài trời. Với đường trượt chất lượng và không gian núi non trong lành, Zavyalikha là điểm đến quen thuộc của tín đồ thể thao mùa đông ở Nam Ural.",
+    "highlights_vi": [
+      "Khu trượt tuyết lớn với chênh cao lớn và đường trượt dài, đa dạng.",
+      "Tuyết dày chất lượng tốt, mùa trượt kéo dài nhờ khí hậu vùng núi.",
+      "Có cáp treo hiện đại, lưu trú, thuê đồ và trường dạy trượt."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa trong mùa trượt; giờ hoạt động và trượt đêm theo lịch khu nghỉ.",
+      "ticket_vi": "Vé cáp/thẻ trượt theo giờ hoặc ngày; thuê thiết bị tính riêng.",
+      "duration_vi": "Nửa ngày đến vài ngày nếu lưu trú.",
+      "best_time_vi": "Mùa đông (tháng 12–3) cho trượt tuyết; mùa hè cho hoạt động ngoài trời.",
+      "tips_vi": "Đặt phòng và thuê đồ trước vào cao điểm; người mới nên học lớp cơ bản; kiểm tra tình trạng vận hành mùa vụ."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%93%D0%BE%D1%80%D0%BD%D0%BE%D0%BB%D1%8B%D0%B6%D0%BD%D1%8B%D0%B9%20%D0%BA%D1%83%D1%80%D0%BE%D1%80%D1%82%20%C2%AB%D0%97%D0%B0%D0%B2%D1%8C%D1%8F%D0%BB%D0%B8%D1%85%D0%B0%C2%BB&ll=58.539,54.7933&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Zavyalikha%20Ski%20Resort%2C%20Chelyabinsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Завьялиха (горнолыжный курорт)",
+        "url": "https://ru.wikipedia.org/wiki/Завьялиха_(горнолыжный_курорт)"
+      }
+    ],
+    "tags": [
+      "other",
+      "ski-resort",
+      "snowboard",
+      "winter-sport",
+      "trekhgorny"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "chelyabinsk-adzhigardak-ski",
+    "slug": "adzhigardak-ski",
+    "region": "chelyabinsk",
+    "region_name_vi": "Tỉnh Chelyabinsk",
+    "federal_district": "Vùng Ural",
+    "name_vi": "Khu trượt tuyết Adzhigardak (A-dgi-gác-đác)",
+    "name_ru": "Горнолыжный центр «Аджигардак»",
+    "name_en": "Adzhigardak Ski Resort",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 54.9768,
+      "lon": 57.3308
+    },
+    "address_vi": "Gần thành phố Asha, sườn núi Adzhigardak, tây tỉnh Chelyabinsk, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Adzhigardak là khu trượt tuyết gần thành phố Asha, phía tây tỉnh Chelyabinsk, nổi tiếng với những đường trượt dài men theo sườn núi rừng. Đây là điểm đến mùa đông được dân trượt yêu thích nhờ cảnh đẹp và tuyết ổn định.",
+    "presentation_long_vi": "Trung tâm trượt tuyết Adzhigardak nằm trên sườn núi cùng tên gần thành phố Asha ở rìa phía tây tỉnh Chelyabinsk, sát ranh giới với Bashkortostan. Khu nghỉ nổi bật với những đường trượt dài uốn lượn men theo sườn núi phủ rừng, trong đó có các đường trượt thuộc hàng dài nhất vùng Ural, mang lại trải nghiệm đổ đèo thú vị giữa khung cảnh thiên nhiên. Hệ thống cáp treo đưa khách lên các điểm xuất phát trên cao, từ đó có nhiều lựa chọn đường trượt với độ khó khác nhau, phù hợp cả người mới học và người trượt lâu năm. Nhờ nằm ở vùng núi có lượng tuyết tốt, mùa trượt ở Adzhigardak thường kéo dài và ổn định. Khu nghỉ có đầy đủ dịch vụ như thuê thiết bị, trường dạy trượt, quán ăn và chỗ nghỉ, cùng hoạt động trượt đêm dưới ánh đèn. Cảnh quan rừng núi yên bình còn khiến nơi đây hấp dẫn cả khi không vào mùa tuyết. Adzhigardak là lựa chọn đáng cân nhắc cho những ai muốn kết hợp trượt tuyết với khám phá vùng núi phía tây Nam Ural.",
+    "highlights_vi": [
+      "Khu trượt tuyết gần Asha với các đường trượt dài men sườn núi rừng.",
+      "Có đường trượt thuộc hàng dài nhất vùng Ural, tuyết ổn định.",
+      "Cáp treo, trượt đêm, thuê đồ, trường dạy trượt và chỗ nghỉ đầy đủ."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa trong mùa trượt; giờ hoạt động và trượt đêm theo lịch khu nghỉ.",
+      "ticket_vi": "Vé cáp/thẻ trượt theo giờ hoặc ngày; thuê thiết bị tính riêng.",
+      "duration_vi": "Nửa ngày đến vài ngày nếu lưu trú.",
+      "best_time_vi": "Mùa đông (tháng 12–3) là thời điểm chính.",
+      "tips_vi": "Đặt trước vào cao điểm; kiểm tra điều kiện tuyết và vận hành; người mới nên học lớp cơ bản."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%93%D0%BE%D1%80%D0%BD%D0%BE%D0%BB%D1%8B%D0%B6%D0%BD%D1%8B%D0%B9%20%D1%86%D0%B5%D0%BD%D1%82%D1%80%20%C2%AB%D0%90%D0%B4%D0%B6%D0%B8%D0%B3%D0%B0%D1%80%D0%B4%D0%B0%D0%BA%C2%BB&ll=57.3308,54.9768&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Adzhigardak%20Ski%20Resort%2C%20Chelyabinsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Аджигардак",
+        "url": "https://ru.wikipedia.org/wiki/Аджигардак"
+      }
+    ],
+    "tags": [
+      "other",
+      "ski-resort",
+      "snowboard",
+      "winter-sport",
+      "asha"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
   }
 ]

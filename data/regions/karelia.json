@@ -498,5 +498,1456 @@
     "status": "enriched",
     "last_updated": "2026-07-16",
     "country": "russia"
+  },
+  {
+    "id": "karelia-karelia-fine-arts-museum",
+    "slug": "karelia-fine-arts-museum",
+    "region": "karelia",
+    "region_name_vi": "Cộng hoà Karelia",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Bảo tàng Mỹ thuật Cộng hòa Karelia",
+    "name_ru": "Музей изобразительных искусств Республики Карелия",
+    "name_en": "Museum of Fine Arts of the Republic of Karelia",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 61.78778,
+      "lon": 34.38222
+    },
+    "address_vi": "Đại lộ Karl Marx 8, thành phố Petrozavodsk, Cộng hòa Karelia, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng Mỹ thuật chính của vùng Karelia, đặt trong tòa nhà tân cổ điển thế kỷ XIX ngay trung tâm Petrozavodsk. Điểm nhấn của bộ sưu tập là nghệ thuật tạo hình gắn với miền Bắc nước Nga và văn hóa Karelia, cùng bộ tranh biểu tượng (icon) và mỹ thuật dân gian đặc sắc.",
+    "presentation_long_vi": "Bảo tàng Mỹ thuật Cộng hòa Karelia thành lập năm 1960, là nơi lưu giữ di sản nghệ thuật tiêu biểu nhất của vùng đất phương Bắc này. Bảo tàng chiếm một tòa nhà cổ kiểu tân cổ điển từng là trường trung học nam sinh, nằm ngay trung tâm thành phố. Bộ sưu tập trải rộng từ tranh thánh (icon) Karelia và miền Bắc thế kỷ XV–XIX, mỹ thuật dân gian với hoa văn thêu, dệt, chạm gỗ, cho tới hội họa và điêu khắc Nga – Xô-viết. Đặc biệt giá trị là mảng nghệ thuật lấy cảm hứng từ sử thi Kalevala và thiên nhiên hồ nước Karelia. Các phòng trưng bày sáng sủa, luân phiên triển lãm chuyên đề và đón nhiều bộ sưu tập lưu động. Đây là điểm dừng chân lý tưởng để hiểu bản sắc văn hóa Karelia trước hoặc sau khi dạo bờ hồ Onega gần đó.",
+    "highlights_vi": [
+      "Bộ sưu tập tranh thánh (icon) Karelia và miền Bắc Nga thế kỷ XV–XIX quý hiếm.",
+      "Mỹ thuật dân gian và tác phẩm lấy cảm hứng từ sử thi Kalevala.",
+      "Tòa nhà tân cổ điển lịch sử ngay trung tâm, gần bờ hồ Onega."
+    ],
+    "practical": {
+      "hours_vi": "Thường mở thứ Ba–Chủ nhật, khoảng 10:00–18:00; thứ Hai nghỉ. Nên kiểm tra lịch trước.",
+      "ticket_vi": "Vé phổ thông khoảng 200–350 RUB; ưu đãi cho học sinh, sinh viên, người cao tuổi.",
+      "duration_vi": "Khoảng 1–1,5 giờ.",
+      "best_time_vi": "Quanh năm; hợp cho ngày mưa hoặc buổi chiều dạo trung tâm.",
+      "tips_vi": "Kết hợp tham quan bờ hồ Onega, Quảng trường Kirov và các nhà hát gần đó."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%B9%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%20%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8%20%D0%9A%D0%B0%D1%80%D0%B5%D0%BB%D0%B8%D1%8F&ll=34.38222,61.78778&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Fine%20Arts%20of%20the%20Republic%20of%20Karelia%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Музей изобразительных искусств Республики Карелия",
+        "url": "https://ru.wikipedia.org/wiki/Музей_изобразительных_искусств_Республики_Карелия"
+      }
+    ],
+    "tags": [
+      "museum",
+      "art",
+      "fine-arts",
+      "icons",
+      "petrozavodsk",
+      "karelia"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "karelia-karelia-national-museum",
+    "slug": "karelia-national-museum",
+    "region": "karelia",
+    "region_name_vi": "Cộng hoà Karelia",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Bảo tàng Quốc gia Cộng hòa Karelia (bảo tàng địa phương)",
+    "name_ru": "Национальный музей Республики Карелия",
+    "name_en": "National Museum of the Republic of Karelia",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 61.78694,
+      "lon": 34.36389
+    },
+    "address_vi": "Quảng trường Lenin 1, thành phố Petrozavodsk, Cộng hòa Karelia, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng địa phương lâu đời và lớn nhất Karelia, đặt trong quần thể kiến trúc hình bán nguyệt của Quảng trường Lenin (Quảng trường Tròn). Trưng bày trải rộng từ địa chất, khảo cổ, dân tộc học đến lịch sử vùng đất, với nhiều hiện vật về đời sống người Karelia, Veps và văn hóa nhà máy đúc súng cổ.",
+    "presentation_long_vi": "Bảo tàng Quốc gia Cộng hòa Karelia thành lập năm 1871, là một trong những bảo tàng địa phương cổ nhất miền Bắc nước Nga. Bảo tàng tọa lạc trong tòa nhà lịch sử hình cánh cung ôm lấy Quảng trường Lenin (còn gọi là Quảng trường Tròn) – quần thể kiến trúc cổ điển đẹp nhất Petrozavodsk. Hàng chục gian trưng bày dẫn khách đi qua toàn bộ câu chuyện của vùng đất: từ nền địa chất Baltic cổ xưa, đồ đá và tranh khắc đá thời tiền sử, tới dân tộc học của người Karelia, Veps và Nga phương Bắc với nhà gỗ, trang phục, nghề thủ công. Một phần quan trọng kể về nhà máy đúc súng Petrovsky – cội nguồn ra đời của thành phố dưới thời Pyotr Đại đế. Không gian hiện đại, nhiều mô hình và hiện vật gốc, phù hợp cho cả gia đình. Đây là nơi tốt nhất để nắm bắt lịch sử và bản sắc Karelia trong một buổi.",
+    "highlights_vi": [
+      "Bảo tàng địa phương cổ nhất vùng (từ 1871), hàng chục gian trưng bày đa dạng.",
+      "Đặt trong quần thể kiến trúc cổ điển hình cánh cung của Quảng trường Lenin.",
+      "Bộ sưu tập dân tộc học Karelia, Veps và lịch sử nhà máy đúc súng Petrovsky."
+    ],
+    "practical": {
+      "hours_vi": "Thường mở thứ Ba–Chủ nhật, khoảng 10:00–18:00; thứ Hai nghỉ. Kiểm tra lịch trước khi đến.",
+      "ticket_vi": "Vé phổ thông khoảng 250–400 RUB; vé tổ hợp cho nhiều gian trưng bày; ưu đãi học sinh, sinh viên.",
+      "duration_vi": "Khoảng 1,5–2 giờ.",
+      "best_time_vi": "Quanh năm; đặc biệt hợp cho ngày thời tiết xấu.",
+      "tips_vi": "Ngay Quảng trường Tròn với tượng Pyotr I; kết hợp dạo trung tâm lịch sử Petrozavodsk."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%20%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8%20%D0%9A%D0%B0%D1%80%D0%B5%D0%BB%D0%B8%D1%8F&ll=34.36389,61.78694&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20the%20Republic%20of%20Karelia%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Национальный музей Республики Карелия",
+        "url": "https://ru.wikipedia.org/wiki/Национальный_музей_Республики_Карелия"
+      }
+    ],
+    "tags": [
+      "museum",
+      "local-lore",
+      "history",
+      "ethnography",
+      "petrozavodsk",
+      "karelia"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "karelia-alexander-nevsky-cathedral-petrozavodsk",
+    "slug": "alexander-nevsky-cathedral-petrozavodsk",
+    "region": "karelia",
+    "region_name_vi": "Cộng hoà Karelia",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Nhà thờ chính tòa Alexander Nevsky (Petrozavodsk)",
+    "name_ru": "Собор Александра Невского (Петрозаводск)",
+    "name_en": "Alexander Nevsky Cathedral (Petrozavodsk)",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 61.78111,
+      "lon": 34.38
+    },
+    "address_vi": "Đại lộ Alexander Nevsky 32, thành phố Petrozavodsk, Cộng hòa Karelia, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhà thờ chính tòa của Petrozavodsk, công trình tân cổ điển màu trắng dựng cho thợ nhà máy đúc súng hồi đầu thế kỷ XIX. Sau thời Xô-viết bị dùng làm bảo tàng, nay đã được phục dựng thành trung tâm Chính thống giáo lớn nhất thành phố với năm mái vòm cân đối.",
+    "presentation_long_vi": "Nhà thờ chính tòa Alexander Nevsky là ngôi thánh đường Chính thống giáo trung tâm của Petrozavodsk. Công trình được xây năm 1826–1832 theo phong cách tân cổ điển, ban đầu là nhà thờ dành cho công nhân nhà máy đúc súng Alexandrovsky của thành phố. Kiến trúc thanh thoát với thân màu trắng, hàng cột kiểu cổ điển và cụm năm mái vòm xanh điểm sao vàng. Dưới thời Liên Xô, nhà thờ bị đóng cửa và cải tạo thành bảo tàng địa phương suốt nhiều thập niên. Từ năm 1990 công trình được trả lại cho Giáo hội và trùng tu quy mô lớn; năm 2000 được thánh hiến làm nhà thờ chính tòa của giáo phận Petrozavodsk. Nội thất phục dựng có hệ tranh thánh (iconostasis) chạm khắc tinh xảo. Nằm gần bờ hồ Onega, đây là điểm đến vừa mang giá trị tôn giáo vừa là dấu mốc kiến trúc – lịch sử của thành phố.",
+    "highlights_vi": [
+      "Nhà thờ chính tòa của Petrozavodsk, kiến trúc tân cổ điển đầu thế kỷ XIX.",
+      "Từng là bảo tàng thời Xô-viết, được phục dựng và thánh hiến lại năm 2000.",
+      "Cụm năm mái vòm cân đối và hệ tranh thánh chạm khắc trong nội thất."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa hằng ngày theo giờ lễ, thường khoảng 08:00–19:00.",
+      "ticket_vi": "Miễn phí (hoan nghênh quyên góp tùy tâm).",
+      "duration_vi": "Khoảng 20–40 phút.",
+      "best_time_vi": "Quanh năm; các dịp lễ Chính thống giáo không khí trang nghiêm đặc biệt.",
+      "tips_vi": "Ăn mặc kín đáo; nữ nên trùm khăn. Gần bờ hồ Onega, dễ kết hợp dạo bộ."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%BE%D0%B1%D0%BE%D1%80%20%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B0%20%D0%9D%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%28%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D1%81%D0%BA%29&ll=34.38,61.78111&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Alexander%20Nevsky%20Cathedral%20%28Petrozavodsk%29%2C%20Karelia%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Собор Александра Невского (Петрозаводск)",
+        "url": "https://ru.wikipedia.org/wiki/Собор_Александра_Невского_(Петрозаводск)"
+      }
+    ],
+    "tags": [
+      "church",
+      "cathedral",
+      "orthodox",
+      "neoclassical",
+      "petrozavodsk",
+      "karelia"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "karelia-muromsky-monastery",
+    "slug": "muromsky-monastery",
+    "region": "karelia",
+    "region_name_vi": "Cộng hoà Karelia",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Tu viện Muromsky (Uspensky Muromsky)",
+    "name_ru": "Муромский Успенский монастырь",
+    "name_en": "Muromsky Assumption Monastery",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 61.484545,
+      "lon": 36.248496
+    },
+    "address_vi": "Bờ đông hồ Onega, huyện Pudozhsky, Cộng hòa Karelia, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Một trong những tu viện lâu đời nhất miền Bắc nước Nga, tương truyền do tu sĩ Lazar sáng lập từ thế kỷ XIV trên bờ đông hoang vắng của hồ Onega. Vị trí biệt lập giữa rừng và mặt hồ mênh mông tạo nên khung cảnh tĩnh mịch, khắc khổ đúng tinh thần ẩn tu phương Bắc.",
+    "presentation_long_vi": "Tu viện Uspensky Muromsky nằm trên một dải đất hẹp giữa hồ Onega và hồ Muromskoye, thuộc huyện Pudozhsky hẻo lánh. Theo truyền thống, tu viện do thánh Lazar xứ Murom lập nên vào cuối thế kỷ XIV, khiến đây thuộc hàng những cơ sở tu hành cổ xưa nhất của miền Bắc Nga. Qua nhiều thế kỷ, tu viện trải bao thăng trầm: hưng thịnh rồi suy tàn, bị đóng cửa hoàn toàn dưới thời Xô-viết và chỉ được khôi phục đời sống tu hành từ những năm 1990. Quần thể hiện nay gồm nhà thờ, tháp chuông và các dãy nhà tu khiêm nhường, bao quanh là rừng taiga và mặt nước bao la. Điều làm nên sức hút của Muromsky không phải quy mô lộng lẫy mà là sự cô tịch gần như tuyệt đối và cảm giác thời gian ngưng đọng. Đường đến khá gian nan, thường bằng thuyền hoặc xe địa hình, nên nơi đây phù hợp với khách hành hương và người ưa khám phá vùng sâu.",
+    "highlights_vi": [
+      "Một trong những tu viện cổ nhất miền Bắc Nga, gắn với thánh Lazar (thế kỷ XIV).",
+      "Vị trí biệt lập tuyệt đối giữa hồ Onega, hồ Muromskoye và rừng taiga.",
+      "Không khí ẩn tu khắc khổ, tĩnh mịch hiếm có, hợp khách hành hương."
+    ],
+    "practical": {
+      "hours_vi": "Mở cho khách hành hương theo giờ tu viện; nên liên hệ trước.",
+      "ticket_vi": "Miễn phí (tùy tâm quyên góp).",
+      "duration_vi": "Nửa ngày đến trọn ngày do đường đi xa.",
+      "best_time_vi": "Mùa hè và đầu thu, khi có thể đi thuyền trên hồ Onega.",
+      "tips_vi": "Đường đến gian nan (thuyền/xe địa hình); chuẩn bị kỹ, hỏi lịch tại Pudozh trước khi đi."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D1%80%D0%BE%D0%BC%D1%81%D0%BA%D0%B8%D0%B9%20%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C&ll=36.248496,61.484545&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Muromsky%20Assumption%20Monastery%2C%20Karelia%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Муромский Успенский монастырь",
+        "url": "https://ru.wikipedia.org/wiki/Муромский_Успенский_монастырь"
+      }
+    ],
+    "tags": [
+      "church",
+      "monastery",
+      "orthodox",
+      "lake-onega",
+      "pilgrimage",
+      "karelia"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "karelia-kondopoga-assumption-church",
+    "slug": "kondopoga-assumption-church",
+    "region": "karelia",
+    "region_name_vi": "Cộng hoà Karelia",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Nhà thờ gỗ Đức Mẹ Lên Trời (Kondopoga)",
+    "name_ru": "Успенская церковь (Кондопога)",
+    "name_en": "Church of the Assumption, Kondopoga",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 62.17556,
+      "lon": 34.28667
+    },
+    "address_vi": "Bên bờ vịnh Chupa, hồ Onega, thành phố Kondopoga, Cộng hòa Karelia, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Từng là kiệt tác nhà thờ gỗ cao vút bên hồ Onega, dựng năm 1774 và được coi là đỉnh cao của kiến trúc gỗ hình tháp (shatyor) miền Bắc. Đáng tiếc công trình gốc đã bị thiêu rụi trong vụ hỏa hoạn năm 2018; hiện có kế hoạch phục dựng lại theo nguyên mẫu.",
+    "presentation_long_vi": "Nhà thờ Đức Mẹ Lên Trời ở Kondopoga được dựng năm 1774 bên bờ vịnh Chupa của hồ Onega, và trong hơn hai thế kỷ được xem là một trong những công trình gỗ đẹp nhất nước Nga. Với thân vươn cao 42 mét kết thúc bằng chóp tháp nhọn (shatyor) đặc trưng, nhà thờ là biểu tượng cho đỉnh cao kỹ thuật dựng nhà gỗ không cần đinh của thợ mộc phương Bắc; nội thất còn giữ được trần vẽ hình bầu trời («nebo») quý giá. Bi kịch xảy ra ngày 10/8/2018 khi một vụ phóng hỏa khiến toàn bộ công trình gốc bị thiêu rụi, một mất mát lớn cho di sản kiến trúc gỗ Nga. Hiện nay chính quyền và giới chuyên môn đang triển khai kế hoạch phục dựng lại nhà thờ theo đúng nguyên mẫu dựa trên các bản đo vẽ chi tiết. Du khách nên tìm hiểu trước tình trạng công trình; điểm đến vẫn mang ý nghĩa tưởng niệm và cảnh quan bờ hồ Onega vẫn rất đẹp.",
+    "highlights_vi": [
+      "Kiệt tác nhà thờ gỗ hình tháp cao 42 m (1774), biểu tượng kiến trúc gỗ phương Bắc.",
+      "Bị thiêu rụi trong vụ phóng hỏa năm 2018; đang có kế hoạch phục dựng nguyên mẫu.",
+      "Vị trí tuyệt đẹp bên vịnh Chupa của hồ Onega, ý nghĩa tưởng niệm sâu sắc."
+    ],
+    "practical": {
+      "hours_vi": "Là di tích ngoài trời; nên kiểm tra hiện trạng phục dựng trước khi đến.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 30–45 phút gồm ngắm cảnh bờ hồ.",
+      "best_time_vi": "Mùa hè, khi bờ hồ Onega dễ tiếp cận và cảnh quan đẹp nhất.",
+      "tips_vi": "Cách trung tâm Kondopoga vài km; nên hỏi thông tin cập nhật vì công trình gốc đã cháy."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C%20%28%D0%9A%D0%BE%D0%BD%D0%B4%D0%BE%D0%BF%D0%BE%D0%B3%D0%B0%29&ll=34.28667,62.17556&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Church%20of%20the%20Assumption%2C%20Kondopoga%2C%20Karelia%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Успенская церковь (Кондопога)",
+        "url": "https://ru.wikipedia.org/wiki/Успенская_церковь_(Кондопога)"
+      }
+    ],
+    "tags": [
+      "church",
+      "wooden-architecture",
+      "lake-onega",
+      "kondopoga",
+      "heritage",
+      "karelia"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "karelia-karelia-musical-theatre",
+    "slug": "karelia-musical-theatre",
+    "region": "karelia",
+    "region_name_vi": "Cộng hoà Karelia",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Nhà hát Nhạc kịch Cộng hòa Karelia",
+    "name_ru": "Музыкальный театр Республики Карелия",
+    "name_en": "Musical Theatre of the Republic of Karelia",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 61.787278,
+      "lon": 34.384583
+    },
+    "address_vi": "Quảng trường Kirov 4, thành phố Petrozavodsk, Cộng hòa Karelia, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhà hát nhạc kịch chính của Karelia, tọa lạc trong tòa nhà bề thế phong cách cổ điển Xô-viết ngay Quảng trường Kirov. Nơi đây dàn dựng opera, operetta, nhạc kịch và ballet, có đoàn giao hưởng riêng và mặt tiền trang trí các bức tượng nàng thơ nghệ thuật.",
+    "presentation_long_vi": "Nhà hát Nhạc kịch Cộng hòa Karelia mở cửa năm 1955, là sân khấu ca múa nhạc lớn nhất vùng. Tòa nhà mang phong cách tân cổ điển Xô-viết đường bệ với hàng cột, tiền sảnh rộng và những pho tượng biểu trưng cho các loại hình nghệ thuật trên mặt tiền, hướng thẳng ra Quảng trường Kirov – trung tâm văn hóa của Petrozavodsk. Tiết mục trải rộng từ opera kinh điển, operetta vui nhộn, nhạc kịch hiện đại đến các vở ballet, với dàn nhạc giao hưởng và đoàn múa riêng. Nhà hát cũng thường xuyên đưa lên sân khấu những tác phẩm mang màu sắc Karelia và Bắc Âu. Sau đợt trùng tu, không gian khán phòng và âm thanh được nâng cấp hiện đại. Với vị trí ngay quảng trường trung tâm, đây là lựa chọn lý tưởng cho một buổi tối thưởng thức nghệ thuật khi ghé thăm thành phố.",
+    "highlights_vi": [
+      "Sân khấu nhạc kịch, opera và ballet hàng đầu của Karelia (từ 1955).",
+      "Tòa nhà tân cổ điển Xô-viết bề thế ngay Quảng trường Kirov trung tâm.",
+      "Tiết mục đa dạng, có dàn nhạc giao hưởng và đoàn múa riêng."
+    ],
+    "practical": {
+      "hours_vi": "Buổi diễn thường bắt đầu 18:00–19:00; phòng vé mở ban ngày. Xem lịch trước.",
+      "ticket_vi": "Vé thường khoảng 300–1.500 RUB tùy vở và vị trí ghế.",
+      "duration_vi": "Buổi diễn khoảng 2–3 giờ.",
+      "best_time_vi": "Mùa diễn thu–xuân; mùa hè có thể tạm nghỉ.",
+      "tips_vi": "Đặt vé trước qua trang nhà hát; ăn mặc lịch sự cho buổi tối."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%82%D0%B5%D0%B0%D1%82%D1%80%20%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8%20%D0%9A%D0%B0%D1%80%D0%B5%D0%BB%D0%B8%D1%8F&ll=34.384583,61.787278&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Musical%20Theatre%20of%20the%20Republic%20of%20Karelia%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Музыкальный театр Республики Карелия",
+        "url": "https://ru.wikipedia.org/wiki/Музыкальный_театр_Республики_Карелия"
+      }
+    ],
+    "tags": [
+      "theatre",
+      "opera",
+      "ballet",
+      "music",
+      "petrozavodsk",
+      "karelia"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "karelia-karelia-national-theatre",
+    "slug": "karelia-national-theatre",
+    "region": "karelia",
+    "region_name_vi": "Cộng hoà Karelia",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Nhà hát Quốc gia Cộng hòa Karelia",
+    "name_ru": "Национальный театр Республики Карелия",
+    "name_en": "National Theatre of the Republic of Karelia",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 61.78722,
+      "lon": 34.37972
+    },
+    "address_vi": "Phố Karl Marx 19, thành phố Petrozavodsk, Cộng hòa Karelia, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhà hát kịch quốc gia độc đáo, có lẽ là sân khấu duy nhất trên thế giới diễn kịch bằng ba ngôn ngữ Karelia, Phần Lan và Nga (kèm phụ đề). Là trái tim của văn hóa sân khấu bản địa vùng Karelia, gắn với sử thi và truyền thống Balto-Phần Lan.",
+    "presentation_long_vi": "Nhà hát Quốc gia Cộng hòa Karelia có gốc rễ từ đoàn kịch Phần Lan thành lập năm 1932 tại Petrozavodsk, và ngày nay là một hiện tượng văn hóa hiếm có: các vở diễn được trình bày bằng tiếng Karelia, tiếng Phần Lan, tiếng Veps và tiếng Nga, có hệ thống dịch song song cho khán giả. Điều này biến nhà hát thành nơi gìn giữ và phát huy sống động ngôn ngữ, sử thi cùng bản sắc của các dân tộc Balto-Phần Lan ở miền Bắc. Tiết mục phong phú, từ những vở kịch dựa trên truyền thuyết dân gian và sử thi Kalevala đến kịch cổ điển và đương đại. Tòa nhà nằm ở khu trung tâm lịch sử, gần Quảng trường Kirov. Sau trùng tu, sân khấu được trang bị kỹ thuật hiện đại. Với du khách, đây là cơ hội độc đáo để cảm nhận văn hóa Karelia đích thực qua nghệ thuật sân khấu.",
+    "highlights_vi": [
+      "Sân khấu hiếm hoi diễn kịch bằng tiếng Karelia, Phần Lan, Veps và Nga.",
+      "Trung tâm gìn giữ ngôn ngữ, sử thi và bản sắc dân tộc Balto-Phần Lan.",
+      "Tiết mục dựa trên truyền thuyết dân gian và sử thi Kalevala."
+    ],
+    "practical": {
+      "hours_vi": "Buổi diễn thường 18:00–19:00; phòng vé mở ban ngày. Xem lịch trước.",
+      "ticket_vi": "Vé thường khoảng 300–1.200 RUB tùy vở và ghế.",
+      "duration_vi": "Buổi diễn khoảng 2–3 giờ.",
+      "best_time_vi": "Mùa diễn thu–xuân.",
+      "tips_vi": "Có hệ thống dịch song song; hỏi vở có phụ đề tiếng Nga nếu chưa thạo tiếng bản địa."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%82%D0%B5%D0%B0%D1%82%D1%80%20%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8%20%D0%9A%D0%B0%D1%80%D0%B5%D0%BB%D0%B8%D1%8F&ll=34.37972,61.78722&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=National%20Theatre%20of%20the%20Republic%20of%20Karelia%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Национальный театр Республики Карелия",
+        "url": "https://ru.wikipedia.org/wiki/Национальный_театр_Республики_Карелия"
+      }
+    ],
+    "tags": [
+      "theatre",
+      "drama",
+      "karelian-language",
+      "kalevala",
+      "petrozavodsk",
+      "karelia"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "karelia-kirov-square-petrozavodsk",
+    "slug": "kirov-square-petrozavodsk",
+    "region": "karelia",
+    "region_name_vi": "Cộng hoà Karelia",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Quảng trường Kirov (Petrozavodsk)",
+    "name_ru": "Площадь Кирова (Петрозаводск)",
+    "name_en": "Kirov Square (Petrozavodsk)",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 61.787421,
+      "lon": 34.381938
+    },
+    "address_vi": "Quảng trường Kirov, trung tâm thành phố Petrozavodsk, Cộng hòa Karelia, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Quảng trường sân khấu – văn hóa của Petrozavodsk, được bao quanh bởi Nhà hát Nhạc kịch, Nhà hát Quốc gia và bảo tàng mỹ thuật. Không gian cây xanh, tượng đài và những tòa nhà cổ điển tạo nên trái tim văn hóa của thành phố.",
+    "presentation_long_vi": "Quảng trường Kirov là một trong những không gian công cộng cổ và đẹp nhất Petrozavodsk, hình thành từ thế kỷ XVIII quanh khu nhà thờ và về sau trở thành trung tâm sân khấu của thành phố. Ngày nay quảng trường được vây quanh bởi các công trình văn hóa chủ chốt: Nhà hát Nhạc kịch Cộng hòa Karelia bề thế, Nhà hát Quốc gia và Bảo tàng Mỹ thuật, khiến nơi đây được ví như «quảng trường của các nàng thơ». Ở trung tâm là tượng đài và những vườn cây, bồn hoa được chăm chút, tạo không gian tản bộ dễ chịu. Đây cũng là điểm hẹn của các lễ hội, hòa nhạc ngoài trời và sự kiện mùa hè; mùa đông quảng trường thường dựng cây thông và khu vui chơi băng tuyết. Chỉ vài bước chân là tới bờ hồ Onega, nên Quảng trường Kirov là điểm khởi đầu tự nhiên cho hành trình khám phá trung tâm thành phố.",
+    "highlights_vi": [
+      "Trái tim văn hóa của Petrozavodsk, vây quanh bởi các nhà hát và bảo tàng mỹ thuật.",
+      "Không gian cây xanh, tượng đài và kiến trúc cổ điển để tản bộ.",
+      "Nơi diễn ra lễ hội, hòa nhạc ngoài trời mùa hè và trang trí mùa đông."
+    ],
+    "practical": {
+      "hours_vi": "Không gian mở, tham quan tự do cả ngày, quanh năm.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 30–45 phút.",
+      "best_time_vi": "Mùa hè cho sự kiện ngoài trời; mùa đông có trang trí lễ hội.",
+      "tips_vi": "Kết hợp xem một buổi diễn tại các nhà hát quanh quảng trường và dạo bờ hồ Onega."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C%20%D0%9A%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%20%28%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D1%81%D0%BA%29&ll=34.381938,61.787421&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kirov%20Square%20%28Petrozavodsk%29%2C%20Karelia%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Площадь Кирова (Петрозаводск)",
+        "url": "https://ru.wikipedia.org/wiki/Площадь_Кирова_(Петрозаводск)"
+      }
+    ],
+    "tags": [
+      "square_street",
+      "city-center",
+      "culture",
+      "petrozavodsk",
+      "karelia"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "karelia-sortavala-town",
+    "slug": "sortavala-town",
+    "region": "karelia",
+    "region_name_vi": "Cộng hoà Karelia",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Thị trấn cổ Sortavala",
+    "name_ru": "Сортавала",
+    "name_en": "Sortavala",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 61.7,
+      "lon": 30.66667
+    },
+    "address_vi": "Thành phố Sortavala, bờ bắc hồ Ladoga, Cộng hòa Karelia, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Thị trấn cảng cổ bên bờ bắc hồ Ladoga, nổi tiếng với quần thể kiến trúc gỗ và đá phong cách lãng mạn dân tộc, tân nghệ thuật (art nouveau) và chức năng Phần Lan từ thời còn thuộc Phần Lan. Đây cũng là cửa ngõ chính để đi công viên Ruskeala và quần đảo đá Ladoga.",
+    "presentation_long_vi": "Sortavala là một trong những đô thị giàu bản sắc kiến trúc nhất Karelia, từng thuộc Phần Lan cho tới năm 1940 nên còn lưu giữ dấu ấn đậm nét của thời kỳ đó. Dạo trung tâm thị trấn nhỏ, du khách bắt gặp những tòa nhà phong cách lãng mạn dân tộc Phần Lan, tân nghệ thuật và chức năng, xen lẫn nhà gỗ trang trí tinh tế – nhiều công trình do các kiến trúc sư Phần Lan danh tiếng thiết kế. Thị trấn nằm bên vịnh sâu của hồ Ladoga, với bến tàu là điểm xuất phát để ra đảo Valaam và len lỏi giữa quần đảo đá Ladoga. Gần đó còn có công viên núi Ruskeala và tuyến tàu hơi nước hoài cổ «Ruskeala Express» khởi hành từ ga Sortavala. Không khí yên bình, quy mô vừa phải và mật độ di sản dày đặc khiến Sortavala trở thành điểm dừng chân thú vị và là bàn đạp cho các chuyến khám phá tây bắc Karelia.",
+    "highlights_vi": [
+      "Quần thể kiến trúc lãng mạn dân tộc, art nouveau và chức năng thời Phần Lan.",
+      "Cảng bên hồ Ladoga - cửa ngõ đi đảo Valaam và quần đảo đá Ladoga.",
+      "Điểm khởi hành tàu hơi nước hoài cổ 'Ruskeala Express' và gần công viên Ruskeala."
+    ],
+    "practical": {
+      "hours_vi": "Là đô thị mở, tham quan tự do; bảo tàng và bến tàu có giờ riêng.",
+      "ticket_vi": "Dạo phố miễn phí; vé tàu, tour đảo và bảo tàng tính riêng.",
+      "duration_vi": "Nửa ngày dạo thị trấn; trọn ngày nếu kết hợp Ruskeala/Valaam.",
+      "best_time_vi": "Mùa hè cho các tuyến tàu trên hồ; mùa thu lá đỏ rất đẹp.",
+      "tips_vi": "Dùng làm căn cứ nghỉ đêm để đi Ruskeala, Valaam và quần đảo đá Ladoga."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%BE%D1%80%D1%82%D0%B0%D0%B2%D0%B0%D0%BB%D0%B0&ll=30.66667,61.7&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Sortavala%2C%20Karelia%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Сортавала",
+        "url": "https://ru.wikipedia.org/wiki/Сортавала"
+      }
+    ],
+    "tags": [
+      "square_street",
+      "town",
+      "architecture",
+      "lake-ladoga",
+      "art-nouveau",
+      "karelia"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "karelia-peter-the-great-monument-petrozavodsk",
+    "slug": "peter-the-great-monument-petrozavodsk",
+    "region": "karelia",
+    "region_name_vi": "Cộng hoà Karelia",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Tượng đài Pyotr Đại đế (Petrozavodsk)",
+    "name_ru": "Памятник Петру I (Петрозаводск)",
+    "name_en": "Monument to Peter the Great (Petrozavodsk)",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 61.790611,
+      "lon": 34.3897472
+    },
+    "address_vi": "Vườn Petrovsky, gần bờ hồ Onega, thành phố Petrozavodsk, Cộng hòa Karelia, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Tượng đồng Pyotr Đại đế – người khai sinh Petrozavodsk khi lập nhà máy đúc súng năm 1703. Bức tượng do điêu khắc gia I. Schroeder thực hiện, khánh thành năm 1873, đứng uy nghi gần bờ hồ Onega, tay chỉ về hướng nhà máy xưa.",
+    "presentation_long_vi": "Tượng đài Pyotr Đại đế là một trong những biểu tượng lâu đời của Petrozavodsk, tôn vinh vị hoàng đế đã khai sinh ra thành phố. Chính Pyotr I là người ra lệnh lập nhà máy đúc súng Petrovsky bên hồ Onega năm 1703 để phục vụ cuộc Chiến tranh phương Bắc, đặt nền móng cho đô thị sau này. Bức tượng đồng do điêu khắc gia Ivan Schroeder và kiến trúc sư Ippolit Monighetti thực hiện, khánh thành năm 1873 nhân kỷ niệm 200 năm ngày sinh của hoàng đế. Pyotr được khắc họa trong tư thế đứng oai vệ, khoác áo choàng, một tay cầm cuộn chiếu chỉ, tay kia chỉ về phía nơi từng đặt nhà máy. Trải qua nhiều lần di dời trong thế kỷ XX, tượng nay yên vị trong khuôn viên cây xanh gần bờ hồ Onega, trở thành điểm chụp ảnh và mốc định vị quen thuộc trên tuyến dạo bộ ven hồ nổi tiếng của thành phố.",
+    "highlights_vi": [
+      "Tượng đồng Pyotr Đại đế - người khai sinh Petrozavodsk (khánh thành 1873).",
+      "Tác phẩm của điêu khắc gia I. Schroeder, gắn với lịch sử nhà máy đúc súng.",
+      "Vị trí đẹp trong vườn cây gần bờ hồ Onega, điểm chụp ảnh quen thuộc."
+    ],
+    "practical": {
+      "hours_vi": "Không gian mở, tham quan tự do cả ngày, quanh năm.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 15 phút.",
+      "best_time_vi": "Mùa hè khi bờ hồ Onega rực nắng; hoàng hôn đêm trắng rất đẹp.",
+      "tips_vi": "Nằm trên tuyến dạo bộ ven hồ Onega; kết hợp ngắm các tác phẩm điêu khắc dọc bờ kè."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%D0%9F%D0%B5%D1%82%D1%80%D1%83%20I%20%28%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D1%81%D0%BA%29&ll=34.3897472,61.790611&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Monument%20to%20Peter%20the%20Great%20%28Petrozavodsk%29%2C%20Karelia%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Памятник Петру I (Петрозаводск)",
+        "url": "https://ru.wikipedia.org/wiki/Памятник_Петру_I_(Петрозаводск)"
+      }
+    ],
+    "tags": [
+      "monument",
+      "peter-the-great",
+      "lake-onega",
+      "petrozavodsk",
+      "karelia"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "karelia-belomorsk-petroglyphs",
+    "slug": "belomorsk-petroglyphs",
+    "region": "karelia",
+    "region_name_vi": "Cộng hoà Karelia",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Tranh khắc đá Belomorsk (Zalavruga)",
+    "name_ru": "Беломорские петроглифы",
+    "name_en": "Belomorsk Petroglyphs (Zalavruga)",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 64.49472,
+      "lon": 34.695
+    },
+    "address_vi": "Khu Zalavruga, gần thành phố Belomorsk, hạ lưu sông Vyg, Cộng hòa Karelia, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Một trong những cụm tranh khắc đá thời đồ đá lớn và nổi tiếng nhất châu Âu, khắc trên các phiến đá granite ven sông Vyg cách nay 5.000–6.000 năm. Hàng nghìn hình vẽ ghi lại cảnh săn bắn, chèo thuyền, trượt tuyết và những dấu chân người cổ xưa.",
+    "presentation_long_vi": "Tranh khắc đá Belomorsk, tập trung ở khu Zalavruga gần thành phố Belomorsk, là một quần thể nghệ thuật thời tiền sử có tầm quan trọng đặc biệt của miền Bắc châu Âu. Trên những phiến đá granite nhẵn bóng ven hạ lưu sông Vyg, người cổ đại thời đồ đá mới đã khắc hàng nghìn hình vẽ cách nay khoảng 5–6 nghìn năm: cảnh săn hươu nai và thú biển, những con thuyền chở đầy người, cảnh trượt tuyết bằng ván và cả những dấu chân người dài nối tiếp nhau – được xem là «vệt chân» nổi tiếng nhất của nghệ thuật đá Bắc Âu. Các hình khắc sống động, giàu tính tự sự, hé lộ đời sống, tín ngưỡng và kỹ năng của cư dân biển Bạch Hải xưa. Khu di tích được tổ chức thành tuyến tham quan có lối đi và bảng thuyết minh; cùng với các petroglyph ở hồ Onega, đây là ứng viên di sản văn hóa nổi bật của Karelia. Nên đi cùng hướng dẫn viên để hiểu và nhận diện các hình khắc.",
+    "highlights_vi": [
+      "Quần thể tranh khắc đá thời đồ đá mới (5.000–6.000 năm) tầm cỡ châu Âu.",
+      "Hàng nghìn hình săn bắn, thuyền, trượt tuyết và 'vệt chân người' nổi tiếng.",
+      "Nằm ven sông Vyg gần Belomorsk, có tuyến tham quan và bảng thuyết minh."
+    ],
+    "practical": {
+      "hours_vi": "Khu ngoài trời, thường tham quan mùa ấm; nên đi theo tour có hướng dẫn.",
+      "ticket_vi": "Vé/tour tham quan có thu phí khiêm tốn; tự đi thì miễn phí vào khu.",
+      "duration_vi": "Khoảng 1,5–2,5 giờ gồm đi bộ.",
+      "best_time_vi": "Tháng 6–9, khi đá khô ráo và ánh sáng nghiêng làm nổi hình khắc.",
+      "tips_vi": "Đi giày chống trơn; thuê hướng dẫn viên để tìm và hiểu các hình khắc."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%91%D0%B5%D0%BB%D0%BE%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BF%D0%B5%D1%82%D1%80%D0%BE%D0%B3%D0%BB%D0%B8%D1%84%D1%8B&ll=34.695,64.49472&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Belomorsk%20Petroglyphs%20%28Zalavruga%29%2C%20Karelia%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Беломорские петроглифы",
+        "url": "https://ru.wikipedia.org/wiki/Беломорские_петроглифы"
+      }
+    ],
+    "tags": [
+      "monument",
+      "petroglyphs",
+      "archaeology",
+      "prehistoric",
+      "belomorsk",
+      "karelia"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "karelia-vottovaara-mountain",
+    "slug": "vottovaara-mountain",
+    "region": "karelia",
+    "region_name_vi": "Cộng hoà Karelia",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Núi Vottovaara",
+    "name_ru": "Воттоваара",
+    "name_en": "Vottovaara",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 63.0742,
+      "lon": 32.6256
+    },
+    "address_vi": "Huyện Muezersky, trung tâm Cộng hòa Karelia, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Đỉnh núi cao nhất vùng Tây Karelia (417 m) với cảnh quan ma mị: cây thông xoắn vặn, đá tảng seid xếp chồng bí ẩn và một 'cầu thang đá' tự nhiên. Nơi đây gắn với nhiều huyền thoại, được xem là chốn thiêng của người Sami cổ.",
+    "presentation_long_vi": "Vottovaara là một trong những địa danh thiên nhiên huyền bí và ấn tượng nhất Karelia, nằm giữa vùng rừng taiga hẻo lánh của huyện Muezersky. Ở độ cao khoảng 417 mét, đỉnh núi trải ra một cao nguyên đá rộng với khung cảnh siêu thực: những cây thông còi cọc bị gió bão vặn xoắn thành hình thù kỳ dị, các khối đá tảng khổng lồ kê trên những viên đá nhỏ (gọi là seid) như do bàn tay ai sắp đặt, cùng một dãy bậc đá tự nhiên được ví như «cầu thang lên trời». Cảnh quan này hình thành do băng hà và phong hóa, nhưng vẻ kỳ lạ của nó đã sinh ra vô số truyền thuyết; nhiều người tin đây từng là nơi thờ cúng của người Sami cổ. Vottovaara thu hút giới ưa xê dịch, nhiếp ảnh và những ai tìm kiếm cảm giác bí ẩn của phương Bắc. Đường đến khá gian nan qua rừng và đầm lầy, nên cần chuẩn bị kỹ và tốt nhất đi cùng người dẫn đường.",
+    "highlights_vi": [
+      "Đỉnh cao nhất Tây Karelia (417 m) với cảnh quan siêu thực, ma mị.",
+      "Các khối đá seid bí ẩn, cây thông vặn xoắn và 'cầu thang đá' tự nhiên.",
+      "Gắn với huyền thoại và tín ngưỡng cổ, hấp dẫn dân phượt và nhiếp ảnh."
+    ],
+    "practical": {
+      "hours_vi": "Khu tự nhiên mở; đi tự túc hoặc theo tour trekking. Không có hạ tầng dịch vụ.",
+      "ticket_vi": "Miễn phí vào khu; tour có hướng dẫn/đưa đón tính phí riêng.",
+      "duration_vi": "Trọn ngày do đường đi xa và trekking.",
+      "best_time_vi": "Cuối hè – đầu thu; mùa đông rất khắc nghiệt.",
+      "tips_vi": "Đi giày lội nước, mang GPS/định vị và tốt nhất có người dẫn đường bản địa."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D0%BE%D1%82%D1%82%D0%BE%D0%B2%D0%B0%D0%B0%D1%80%D0%B0&ll=32.6256,63.0742&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Vottovaara%2C%20Karelia%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Воттоваара",
+        "url": "https://ru.wikipedia.org/wiki/Воттоваара"
+      }
+    ],
+    "tags": [
+      "park_garden",
+      "nature",
+      "mountain",
+      "seid",
+      "mystical",
+      "karelia"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "karelia-ladoga-skerries-national-park",
+    "slug": "ladoga-skerries-national-park",
+    "region": "karelia",
+    "region_name_vi": "Cộng hoà Karelia",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Vườn quốc gia Quần đảo đá Ladoga",
+    "name_ru": "Ладожские шхеры",
+    "name_en": "Ladoga Skerries National Park",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 61.6,
+      "lon": 30.83
+    },
+    "address_vi": "Bờ tây bắc hồ Ladoga, các huyện Sortavala, Lahdenpohja, Pitkyaranta, Cộng hòa Karelia, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Vườn quốc gia bảo tồn quần thể hàng nghìn đảo đá granite lô nhô (skerry) dọc bờ tây bắc hồ Ladoga. Cảnh quan vịnh hẹp, vách đá dựng đứng và rừng thông tạo nên thiên đường cho chèo thuyền kayak, du thuyền và cắm trại giữa thiên nhiên hoang sơ.",
+    "presentation_long_vi": "Vườn quốc gia Ladozhskiye Shkhery (Quần đảo đá Ladoga) thành lập năm 2017, bảo vệ một trong những cảnh quan độc đáo nhất vùng Tây Bắc nước Nga: hàng nghìn hòn đảo và mỏm đá granite trồi lên khỏi mặt nước dọc bờ tây bắc hồ Ladoga – hồ nước ngọt lớn nhất châu Âu. Địa hình «skerry» này do băng hà bào mòn tạo thành, với những vịnh hẹp sâu, vách đá dựng đứng cao tới hàng chục mét và rừng thông bám trên đá. Đây là địa bàn lý tưởng cho chèo kayak len lỏi giữa các đảo, đi du thuyền, câu cá, leo vách và cắm trại. Hệ sinh thái phong phú với hải cẩu Ladoga quý hiếm, chim biển và thực vật đặc hữu. Các điểm nổi tiếng gồm núi đá Hiidenvuori và nhiều đảo có tầm nhìn toàn cảnh. Với vẻ đẹp bắc âu tinh khôi và không khí tĩnh lặng, quần đảo đá Ladoga là điểm đến hàng đầu cho du lịch thiên nhiên chủ động ở Karelia.",
+    "highlights_vi": [
+      "Hàng nghìn đảo và mỏm đá granite hình thành do băng hà bên hồ Ladoga.",
+      "Thiên đường chèo kayak, du thuyền, leo vách và cắm trại hoang sơ.",
+      "Hệ sinh thái quý với hải cẩu Ladoga và các vách đá tầm nhìn panorama."
+    ],
+    "practical": {
+      "hours_vi": "Khu bảo tồn mở quanh năm; một số tuyến cần đăng ký/giấy phép của vườn.",
+      "ticket_vi": "Vào vườn cơ bản miễn phí; tour thuyền, kayak và cắm trại tính phí riêng.",
+      "duration_vi": "Nửa ngày đến vài ngày tùy hành trình.",
+      "best_time_vi": "Tháng 6–9 cho hoạt động trên nước; đêm trắng mùa hè rất đẹp.",
+      "tips_vi": "Xuất phát từ Sortavala hoặc Lahdenpohja; đặt tour thuyền/kayak trước, mang đồ chống nước."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9B%D0%B0%D0%B4%D0%BE%D0%B6%D1%81%D0%BA%D0%B8%D0%B5%20%D1%88%D1%85%D0%B5%D1%80%D1%8B&ll=30.83,61.6&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Ladoga%20Skerries%20National%20Park%2C%20Karelia%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Ладожские шхеры",
+        "url": "https://ru.wikipedia.org/wiki/Ладожские_шхеры"
+      }
+    ],
+    "tags": [
+      "park_garden",
+      "national-park",
+      "lake-ladoga",
+      "skerries",
+      "kayaking",
+      "karelia"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "karelia-vodlozersky-national-park",
+    "slug": "vodlozersky-national-park",
+    "region": "karelia",
+    "region_name_vi": "Cộng hoà Karelia",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Vườn quốc gia Vodlozersky",
+    "name_ru": "Водлозерский национальный парк",
+    "name_en": "Vodlozersky National Park",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 62.5,
+      "lon": 36.9167
+    },
+    "address_vi": "Quanh hồ Vodlozero, huyện Pudozhsky (Karelia) và tỉnh Arkhangelsk, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Một trong những vườn quốc gia rừng nguyên sinh lớn nhất châu Âu, bảo tồn taiga cổ chưa từng bị khai thác quanh hồ Vodlozero. Vương quốc của rừng vân sam nghìn năm, đầm lầy, sông suối và các nhà nguyện gỗ cổ, là khu dự trữ sinh quyển của UNESCO.",
+    "presentation_long_vi": "Vườn quốc gia Vodlozersky, thành lập năm 1991, trải rộng trên nửa triệu hecta giữa Karelia và tỉnh Arkhangelsk, bảo vệ một trong những vùng rừng taiga nguyên sinh còn nguyên vẹn lớn nhất châu Âu. Trung tâm là hồ Vodlozero rộng lớn cùng lưu vực sông Ileksa hoang dã, bao quanh bởi rừng vân sam và thông cổ thụ hàng trăm đến cả nghìn năm tuổi, xen kẽ những vùng đầm lầy mênh mông – hệ sinh thái gần như chưa bị con người tác động. Vườn là nơi trú ngụ của gấu nâu, chó sói, đại bàng đuôi trắng và nhiều loài chim quý; năm 2001 được UNESCO công nhận là khu dự trữ sinh quyển. Bên cạnh giá trị tự nhiên, nơi đây còn lưu giữ di sản văn hóa của cộng đồng cư dân hồ với các nhà nguyện, thánh đường gỗ cổ. Du khách có thể đi thuyền, chèo kayak trên hồ và sông, câu cá, ngắm chim và trải nghiệm đời sống làng quê phương Bắc. Đây là điểm đến dành cho những ai muốn đắm mình trong thiên nhiên hoang sơ đích thực.",
+    "highlights_vi": [
+      "Một trong những vùng rừng taiga nguyên sinh lớn nhất châu Âu.",
+      "Khu dự trữ sinh quyển UNESCO quanh hồ Vodlozero và sông Ileksa hoang dã.",
+      "Đi thuyền, câu cá, ngắm chim và thăm các nhà nguyện gỗ cổ ven hồ."
+    ],
+    "practical": {
+      "hours_vi": "Vườn mở quanh năm; vào vườn cần đăng ký và giấy phép, có nhà nghỉ/trại trong vườn.",
+      "ticket_vi": "Có phí tham quan và dịch vụ; liên hệ ban quản lý vườn để đặt trước.",
+      "duration_vi": "Vài ngày để trải nghiệm trọn vẹn.",
+      "best_time_vi": "Cuối xuân đến đầu thu; tránh mùa muỗi cao điểm giữa hè nếu nhạy cảm.",
+      "tips_vi": "Tiếp cận qua làng Kuganavolok; đặt chỗ và hướng dẫn viên trước, mang đồ chống côn trùng."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D0%BE%D0%B4%D0%BB%D0%BE%D0%B7%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%B0%D1%80%D0%BA&ll=36.9167,62.5&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Vodlozersky%20National%20Park%2C%20Karelia%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Водлозерский национальный парк",
+        "url": "https://ru.wikipedia.org/wiki/Водлозерский_национальный_парк"
+      }
+    ],
+    "tags": [
+      "park_garden",
+      "national-park",
+      "taiga",
+      "unesco-biosphere",
+      "lake",
+      "karelia"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "karelia-petrgu-botanical-garden",
+    "slug": "petrgu-botanical-garden",
+    "region": "karelia",
+    "region_name_vi": "Cộng hoà Karelia",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Vườn Bách thảo Đại học Quốc gia Petrozavodsk",
+    "name_ru": "Ботанический сад Петрозаводского государственного университета",
+    "name_en": "Botanical Garden of Petrozavodsk State University",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 61.842369,
+      "lon": 34.381168
+    },
+    "address_vi": "Khu Solomennoye, bờ hồ Onega, thành phố Petrozavodsk, Cộng hòa Karelia, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Vườn bách thảo nằm ở cực bắc châu Âu về vĩ độ trong số các vườn đại học, trải trên sườn dốc bên bờ hồ Onega. Nơi đây sưu tập cây gỗ phương Bắc, vườn đá arboretum và có cả một di tích núi lửa cổ, kết hợp nghiên cứu với cảnh quan hồ tuyệt đẹp.",
+    "presentation_long_vi": "Vườn Bách thảo của Đại học Quốc gia Petrozavodsk (PetrGU) nằm ở khu Solomennoye phía bắc thành phố, trên sườn dốc thoai thoải đổ xuống hồ Onega. Thành lập năm 1951, đây là một trong những vườn bách thảo nằm ở vĩ độ cao nhất châu Âu, chuyên nghiên cứu khả năng thích nghi của cây trồng trong điều kiện phương Bắc khắc nghiệt. Vườn có bộ sưu tập cây gỗ và cây bụi từ nhiều vùng khí hậu, khu arboretum (vườn cây thân gỗ), vườn thực vật đá và các luống cây thuốc, cây cảnh. Điều đặc biệt là trong khuôn viên còn lộ ra dấu tích dung nham của một núi lửa cổ hàng tỉ năm tuổi, cùng những tảng đá do băng hà để lại. Các lối đi dẫn khách qua rừng, đồng cỏ và những điểm nhìn mở ra mặt hồ Onega mênh mông. Đây là nơi tản bộ, học hỏi về thực vật phương Bắc và tận hưởng thiên nhiên yên tĩnh, cách trung tâm thành phố không xa.",
+    "highlights_vi": [
+      "Một trong các vườn bách thảo ở vĩ độ cao nhất châu Âu (từ 1951).",
+      "Bộ sưu tập cây gỗ phương Bắc, arboretum và vườn thực vật đá.",
+      "Có dấu tích núi lửa cổ và điểm nhìn tuyệt đẹp ra hồ Onega."
+    ],
+    "practical": {
+      "hours_vi": "Thường mở theo mùa và theo tour có hướng dẫn; nên đăng ký trước.",
+      "ticket_vi": "Có phí tham quan/tour khiêm tốn.",
+      "duration_vi": "Khoảng 1,5–2 giờ.",
+      "best_time_vi": "Tháng 6–9 khi cây cối xanh tốt và có tour thường xuyên.",
+      "tips_vi": "Nằm ở Solomennoye, khá xa trung tâm; đi taxi/xe buýt và hẹn tour trước."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%91%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%B0%D0%B4%20%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D0%B0&ll=34.381168,61.842369&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Botanical%20Garden%20of%20Petrozavodsk%20State%20University%2C%20Karelia%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Ботанический сад Петрозаводского государственного университета",
+        "url": "https://ru.wikipedia.org/wiki/Ботанический_сад_Петрозаводского_государственного_университета"
+      }
+    ],
+    "tags": [
+      "park_garden",
+      "botanical-garden",
+      "university",
+      "lake-onega",
+      "petrozavodsk",
+      "karelia"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "karelia-ruskeala-waterfalls-ahvenkoski",
+    "slug": "ruskeala-waterfalls-ahvenkoski",
+    "region": "karelia",
+    "region_name_vi": "Cộng hoà Karelia",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Thác Ruskeala (Ahvenkoski)",
+    "name_ru": "Рускеальские водопады (Ахвенкоски)",
+    "name_en": "Ruskeala Waterfalls (Ahvenkoski)",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 61.9143,
+      "lon": 30.6291
+    },
+    "address_vi": "Trên sông Tohmajoki, gần làng Ruskeala, huyện Sortavala, Cộng hòa Karelia, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Cụm thác nước rừng thơ mộng trên sông Tohmajoki gần công viên núi Ruskeala, dòng nước màu trà chảy qua các ghềnh đá giữa rừng thông. Nổi tiếng vì từng là bối cảnh quay bộ phim kinh điển 'Và nơi đây bình minh yên tĩnh', nay có cầu treo và lối dạo tiện lợi.",
+    "presentation_long_vi": "Thác Ruskeala, còn gọi theo tên Phần Lan là thác Ahvenkoski, là chuỗi thác nước không cao nhưng rất nên thơ trên dòng Tohmajoki, cách công viên núi Ruskeala nổi tiếng chỉ vài km. Nước sông mang màu nâu trà đặc trưng do giàu chất mùn của rừng đầm lầy phương Bắc, đổ qua những bậc ghềnh đá granite giữa cánh rừng thông rậm rạp, tạo nên khung cảnh vừa hoang sơ vừa quyến rũ. Địa danh này đặc biệt được người Nga yêu mến vì từng là nơi quay nhiều cảnh trong bộ phim chiến tranh kinh điển «Và nơi đây bình minh yên tĩnh» (1972) cũng như một số phim khác. Khu thác nay được đầu tư thành công viên nhỏ với hệ thống cầu treo bắc ngang dòng nước, lối đi lát ván, đài ngắm cảnh và dịch vụ như đu dây zipline. Nhờ nằm ngay trên tuyến đường tới công viên Ruskeala, đây là điểm dừng chân lý tưởng để chụp ảnh và tận hưởng không khí rừng.",
+    "highlights_vi": [
+      "Chuỗi thác rừng thơ mộng nước màu trà trên sông Tohmajoki.",
+      "Bối cảnh phim kinh điển 'Và nơi đây bình minh yên tĩnh'.",
+      "Có cầu treo, lối dạo lát ván, đài ngắm cảnh và zipline."
+    ],
+    "practical": {
+      "hours_vi": "Khu tham quan mở hằng ngày, thường khoảng 09:00–20:00 (mùa hè dài hơn).",
+      "ticket_vi": "Vé vào khu thác/cầu treo khoảng 150–300 RUB; dịch vụ zipline tính riêng.",
+      "duration_vi": "Khoảng 30–60 phút.",
+      "best_time_vi": "Cuối xuân và mùa lũ khi thác mạnh; mùa thu lá vàng rất đẹp.",
+      "tips_vi": "Kết hợp trong hành trình tới công viên núi Ruskeala cách đó vài km."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A0%D1%83%D1%81%D0%BA%D0%B5%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4%D1%8B%20%28%D0%90%D1%85%D0%B2%D0%B5%D0%BD%D0%BA%D0%BE%D1%81%D0%BA%D0%B8%29&ll=30.6291,61.9143&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Ruskeala%20Waterfalls%20%28Ahvenkoski%29%2C%20Karelia%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Рускеальские водопады",
+        "url": "https://ru.wikipedia.org/wiki/Рускеальские_водопады"
+      }
+    ],
+    "tags": [
+      "park_garden",
+      "waterfall",
+      "river",
+      "cinema-location",
+      "ruskeala",
+      "karelia"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "karelia-white-bridges-waterfall",
+    "slug": "white-bridges-waterfall",
+    "region": "karelia",
+    "region_name_vi": "Cộng hoà Karelia",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Thác Trắng (Yukankoski / Belye Mosty)",
+    "name_ru": "Юканкоски (Белые мосты)",
+    "name_en": "Yukankoski (White Bridges) Waterfall",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 61.7533,
+      "lon": 31.4103
+    },
+    "address_vi": "Trên sông Kulismajoki, huyện Pitkyaranta, Cộng hòa Karelia, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Một trong những thác nước cao nhất Karelia (khoảng 18 m), ẩn giữa rừng taiga trên sông Kulismajoki. Dòng nước đổ ào ạt qua vách đá dựng đứng tạo màn bọt trắng xóa, mang tên 'Belye Mosty' (Những cây cầu trắng) theo dấu tích cầu đá Phần Lan gần đó.",
+    "presentation_long_vi": "Thác Yukankoski, được người Nga gọi là «Belye Mosty» (Những cây cầu trắng), là một trong những thác nước cao và hùng vĩ nhất Karelia, nằm sâu trong rừng taiga huyện Pitkyaranta. Trên dòng sông Kulismajoki nhỏ, nước lao xuống qua một vách đá gần như thẳng đứng cao khoảng 17–18 mét, tung bọt trắng xóa và tạo tiếng gầm vang giữa rừng cây tĩnh lặng. Tên gọi «Những cây cầu trắng» bắt nguồn từ những cây cầu đá do người Phần Lan xây gần đó trong quá khứ, nay chỉ còn dấu tích. Vào mùa xuân và đầu hè khi tuyết tan, lưu lượng nước lớn nhất khiến thác trở nên đặc biệt ngoạn mục. Khung cảnh hoang sơ, ít dấu chân người khiến nơi đây là điểm đến ưa thích của dân trekking và nhiếp ảnh thiên nhiên. Đường vào đi qua rừng, phần cuối phải đi bộ, nên cần giày phù hợp và tinh thần khám phá; đổi lại là một trong những góc thiên nhiên đẹp và nguyên vẹn nhất nam Karelia.",
+    "highlights_vi": [
+      "Một trong những thác cao nhất Karelia (khoảng 18 m) trên sông Kulismajoki.",
+      "Màn nước tung bọt trắng xóa giữa rừng taiga hoang sơ.",
+      "Đặc biệt hùng vĩ vào mùa xuân và đầu hè khi tuyết tan."
+    ],
+    "practical": {
+      "hours_vi": "Khu tự nhiên mở; phần cuối phải đi bộ trong rừng. Ít hạ tầng dịch vụ.",
+      "ticket_vi": "Miễn phí (một số thời điểm có thu phí giữ xe/tour nhỏ).",
+      "duration_vi": "Nửa ngày gồm di chuyển và đi bộ.",
+      "best_time_vi": "Tháng 5–6 khi thác mạnh nhất; mùa thu cảnh rừng đẹp.",
+      "tips_vi": "Đi xe gầm cao trên đoạn đường rừng, mang giày lội và định vị GPS."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%AE%D0%BA%D0%B0%D0%BD%D0%BA%D0%BE%D1%81%D0%BA%D0%B8%20%28%D0%91%D0%B5%D0%BB%D1%8B%D0%B5%20%D0%BC%D0%BE%D1%81%D1%82%D1%8B%29&ll=31.4103,61.7533&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Yukankoski%20%28White%20Bridges%29%20Waterfall%2C%20Karelia%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Юканкоски",
+        "url": "https://ru.wikipedia.org/wiki/Юканкоски"
+      }
+    ],
+    "tags": [
+      "park_garden",
+      "waterfall",
+      "taiga",
+      "nature",
+      "pitkyaranta",
+      "karelia"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "karelia-girvas-paleovolcano",
+    "slug": "girvas-paleovolcano",
+    "region": "karelia",
+    "region_name_vi": "Cộng hoà Karelia",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Núi lửa cổ Girvas",
+    "name_ru": "Палеовулкан Гирвас",
+    "name_en": "Girvas Paleovolcano",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 62.4852,
+      "lon": 33.6744
+    },
+    "address_vi": "Gần làng Girvas, trên sông Suna, huyện Kondopozhsky, Cộng hòa Karelia, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Miệng núi lửa cổ lộ thiên vào hàng cổ nhất Trái Đất (khoảng 2–3 tỉ năm tuổi), lộ ra giữa lòng sông Suna nhờ đập thủy điện làm cạn dòng. Mỗi mùa xuân khi xả lũ, một thác nước hùng vĩ tạm thời hồi sinh, che phủ lại di tích dung nham.",
+    "presentation_long_vi": "Núi lửa cổ (palaeovolcano) Girvas là một trong những di tích địa chất độc đáo nhất Karelia, được giới khoa học xếp vào hàng những cấu trúc núi lửa lộ thiên cổ xưa nhất hành tinh, có tuổi khoảng 2–3 tỉ năm. Nằm trong lòng sông Suna gần làng Girvas, dấu tích dòng dung nham đông cứng, các lớp nham thạch xếp chồng và cấu trúc miệng phun lộ ra rõ ràng sau khi việc xây đập Girvas và nhà máy thủy điện Palyeozerskaya làm khô đoạn sông. Đây từng là nơi có một thác nước tự nhiên cao chừng 15 mét, nhưng thác đã «biến mất» khi dòng chảy bị chặn. Mỗi năm vào mùa xuân, khi các cửa đập được mở để xả nước lũ, một dòng thác mạnh mẽ lại đổ về trong ít ngày, phủ kín miệng núi lửa và tạo cảnh tượng ngoạn mục hiếm có. Với sự kết hợp giữa giá trị địa chất phi thường và cảnh quan sông đá, Girvas là điểm đến hấp dẫn cho những ai tò mò về lịch sử Trái Đất.",
+    "highlights_vi": [
+      "Miệng núi lửa lộ thiên vào loại cổ nhất Trái Đất (khoảng 2–3 tỉ năm).",
+      "Lộ ra giữa lòng sông Suna nhờ đập thủy điện làm cạn dòng.",
+      "Thác nước hùng vĩ 'hồi sinh' vài ngày mỗi mùa xuân khi xả lũ."
+    ],
+    "practical": {
+      "hours_vi": "Di tích ngoài trời, tham quan tự do cả ngày, quanh năm.",
+      "ticket_vi": "Miễn phí (có thể mất phí giữ xe).",
+      "duration_vi": "Khoảng 30–60 phút.",
+      "best_time_vi": "Cuối tháng 4 – tháng 5 nếu muốn thấy thác xả lũ; mùa khô thì thấy rõ lòng núi lửa.",
+      "tips_vi": "Nằm gần làng Girvas; kết hợp với thác Kivach và Marcial Waters trên cùng tuyến."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D0%BB%D0%B5%D0%BE%D0%B2%D1%83%D0%BB%D0%BA%D0%B0%D0%BD%20%D0%93%D0%B8%D1%80%D0%B2%D0%B0%D1%81&ll=33.6744,62.4852&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Girvas%20Paleovolcano%2C%20Karelia%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "anashina.com — Вулкан Гирвас, река Суна и Пальеозёрская ГЭС",
+        "url": "https://anashina.com/girvas/"
+      },
+      {
+        "title": "tonkosti.ru — Водопад Гирвас (координаты, что посмотреть)",
+        "url": "https://tonkosti.ru/Водопад_Гирвас"
+      }
+    ],
+    "tags": [
+      "park_garden",
+      "geology",
+      "paleovolcano",
+      "waterfall",
+      "suna-river",
+      "karelia"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "karelia-paaso-hillfort",
+    "slug": "paaso-hillfort",
+    "region": "karelia",
+    "region_name_vi": "Cộng hoà Karelia",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Thành cổ Paaso (Paasonvuori)",
+    "name_ru": "Городище Паасо (Паасонвуори)",
+    "name_en": "Paaso Hillfort (Paasonvuori)",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 61.7318,
+      "lon": 30.6996
+    },
+    "address_vi": "Đồi Paasonvuori gần Sortavala, bờ bắc hồ Ladoga, Cộng hòa Karelia, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Di chỉ thành lũy trên đỉnh đồi của người Karelia cổ, có niên đại thế kỷ XII–XIII, án ngữ trên mỏm đá cao nhìn ra thung lũng gần Sortavala. Đây là một trong những chứng tích lâu đời nhất về nhà nước sơ khai của người Karelia thời trung cổ.",
+    "presentation_long_vi": "Thành cổ Paaso (tiếng Phần Lan: Paasonvuori) là một di chỉ khảo cổ quan trọng, tọa lạc trên đỉnh một quả đồi đá cao dựng đứng gần thành phố Sortavala. Vào khoảng thế kỷ XII–XIII, người Karelia cổ đã dựng ở đây một thành lũy phòng thủ, tận dụng vị trí hiểm yếu nhìn bao quát thung lũng sông và tuyến đường thủy quan trọng nối hồ Ladoga với vùng nội địa. Các cuộc khai quật đã phát lộ dấu tích nhà ở, công cụ, đồ trang sức và vũ khí, cho thấy đây từng là một trung tâm cư trú, thủ công và phòng vệ của cộng đồng Karelia thời trung cổ – một trong những minh chứng sớm nhất về tổ chức xã hội của họ. Ngày nay du khách leo theo đường mòn dốc lên đỉnh đồi, nơi tuy không còn công trình nhưng mở ra tầm nhìn tuyệt đẹp xuống rừng, hồ và thị trấn Sortavala. Sự kết hợp giữa chiều sâu lịch sử và cảnh quan khiến Paaso là điểm dừng chân giàu ý nghĩa cho khách thăm vùng bắc Ladoga.",
+    "highlights_vi": [
+      "Thành lũy trên đồi của người Karelia cổ, niên đại thế kỷ XII–XIII.",
+      "Chứng tích khảo cổ quan trọng về xã hội Karelia thời trung cổ.",
+      "Đường mòn lên đỉnh mở ra tầm nhìn panorama xuống Sortavala và hồ Ladoga."
+    ],
+    "practical": {
+      "hours_vi": "Di chỉ ngoài trời, tham quan tự do; leo bộ lên đỉnh đồi.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 1–1,5 giờ gồm leo đồi.",
+      "best_time_vi": "Cuối xuân đến đầu thu; mùa thu lá đỏ đẹp.",
+      "tips_vi": "Đi giày bám tốt cho đoạn dốc; kết hợp tham quan trung tâm Sortavala gần đó."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%89%D0%B5%20%D0%9F%D0%B0%D0%B0%D1%81%D0%BE%20%28%D0%9F%D0%B0%D0%B0%D1%81%D0%BE%D0%BD%D0%B2%D1%83%D0%BE%D1%80%D0%B8%29&ll=30.6996,61.7318&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Paaso%20Hillfort%20%28Paasonvuori%29%2C%20Karelia%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Паасонвуори",
+        "url": "https://ru.wikipedia.org/wiki/Паасонвуори"
+      }
+    ],
+    "tags": [
+      "fortress",
+      "hillfort",
+      "archaeology",
+      "medieval",
+      "sortavala",
+      "karelia"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "karelia-kinerma-village",
+    "slug": "kinerma-village",
+    "region": "karelia",
+    "region_name_vi": "Cộng hoà Karelia",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Làng cổ Kinerma",
+    "name_ru": "Кинерма",
+    "name_en": "Kinerma",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 61.52722,
+      "lon": 32.82889
+    },
+    "address_vi": "Huyện Pryazhinsky, vùng người Karelia Livvik, Cộng hòa Karelia, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Ngôi làng Karelia cổ được bình chọn là 'Làng đẹp nhất nước Nga', gìn giữ gần như nguyên vẹn bố cục và những nếp nhà gỗ truyền thống hàng thế kỷ quanh một nhà nguyện nhỏ. Bảo tàng sống động về đời sống làng quê của người Karelia Livvik.",
+    "presentation_long_vi": "Kinerma là một trong những ngôi làng cổ đẹp và được bảo tồn tốt nhất Karelia, đến mức được trao danh hiệu «Làng đẹp nhất nước Nga». Nằm ở huyện Pryazhinsky, giữa vùng cư trú của người Karelia Livvik, ngôi làng nhỏ chỉ vài chục nếp nhà nhưng lưu giữ gần như nguyên vẹn cấu trúc quy hoạch truyền thống hình thành từ nhiều thế kỷ trước: những ngôi nhà gỗ lớn kiểu Bắc Nga vây quanh một nhà nguyện gỗ cổ kính nằm giữa lùm cây thiêng. Nhiều công trình có tuổi đời hàng trăm năm, được phục dựng cẩn thận theo kỹ thuật gỗ cổ. Một gia đình địa phương đã biến Kinerma thành một bảo tàng sống, đón khách tới tìm hiểu kiến trúc, nghề thủ công, ẩm thực và phong tục Karelia qua các tour có hướng dẫn, lớp làm bánh truyền thống và trải nghiệm nhà tắm hơi. Không khí thanh bình, chân thực khiến nơi đây trở thành điểm đến độc đáo để chạm vào cội nguồn văn hóa nông thôn Karelia.",
+    "highlights_vi": [
+      "Được vinh danh là 'Làng đẹp nhất nước Nga', bảo tồn nguyên vẹn.",
+      "Những nếp nhà gỗ cổ hàng thế kỷ quây quanh nhà nguyện gỗ và lùm cây thiêng.",
+      "Bảo tàng sống về văn hóa, ẩm thực và nghề thủ công người Karelia Livvik."
+    ],
+    "practical": {
+      "hours_vi": "Đón khách theo tour có hẹn trước với gia đình/cộng đồng địa phương.",
+      "ticket_vi": "Có phí tham quan/tour và trải nghiệm (làm bánh, nhà tắm hơi).",
+      "duration_vi": "Khoảng 1,5–2 giờ.",
+      "best_time_vi": "Cuối xuân đến đầu thu; mùa hè thuận tiện nhất.",
+      "tips_vi": "Liên hệ đặt tour trước; tôn trọng đây là làng có người dân sinh sống."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D0%B8%D0%BD%D0%B5%D1%80%D0%BC%D0%B0&ll=32.82889,61.52722&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kinerma%2C%20Karelia%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Кинерма",
+        "url": "https://ru.wikipedia.org/wiki/Кинерма"
+      }
+    ],
+    "tags": [
+      "other",
+      "village",
+      "wooden-architecture",
+      "ethnography",
+      "livvik",
+      "karelia"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "karelia-kalevala-village",
+    "slug": "kalevala-village",
+    "region": "karelia",
+    "region_name_vi": "Cộng hoà Karelia",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Làng Kalevala (Ukhta)",
+    "name_ru": "Калевала (посёлок)",
+    "name_en": "Kalevala (Uhtua)",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 65.2,
+      "lon": 31.16667
+    },
+    "address_vi": "Thị trấn Kalevala, vùng Bắc Karelia, gần biên giới Phần Lan, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Thị trấn phương Bắc mang tên bản sử thi vĩ đại của người Karelia – Phần Lan. Chính vùng đất này là nơi nhà nghiên cứu Elias Lönnrot sưu tầm những khúc hát dân gian để biên soạn sử thi Kalevala, khiến nơi đây được coi là cái nôi tinh thần của thi ca Balto-Phần Lan.",
+    "presentation_long_vi": "Kalevala, tên cũ là Ukhta (Uhtua), là một thị trấn nhỏ nằm sâu ở vùng bắc Karelia bên hồ Srednee Kuyto, gần biên giới Phần Lan. Cái tên đặc biệt của nó gắn liền với sử thi Kalevala – tác phẩm được xem là biểu tượng văn hóa của cả người Karelia lẫn Phần Lan. Vào thế kỷ XIX, học giả người Phần Lan Elias Lönnrot đã đi khắp các làng bản vùng này để ghi chép những bài hát rune (runo) và truyền thuyết dân gian từ các nghệ nhân hát rong, rồi biên tập thành trường ca Kalevala. Nhờ vai trò đó, vùng đất Ukhta được tôn vinh như quê hương tinh thần của sử thi. Ngày nay thị trấn giữ nếp sống phương Bắc yên bình với kiến trúc gỗ, cảnh quan hồ và rừng taiga, cùng các hoạt động tưởng nhớ di sản: bảo tàng nhỏ, lễ hội, biểu tượng cây thông rune nổi tiếng. Đây là điểm đến cho những ai yêu văn học dân gian và muốn tìm về cội nguồn của một trong những sử thi lớn của nhân loại.",
+    "highlights_vi": [
+      "Thị trấn mang tên và gắn với cội nguồn sử thi Kalevala.",
+      "Vùng đất nơi Elias Lönnrot sưu tầm các bài hát rune dân gian.",
+      "Cảnh quan hồ, rừng taiga phương Bắc và di sản văn hóa Balto-Phần Lan."
+    ],
+    "practical": {
+      "hours_vi": "Là thị trấn mở; bảo tàng và điểm văn hóa có giờ riêng.",
+      "ticket_vi": "Dạo thị trấn miễn phí; bảo tàng/tour tính phí riêng.",
+      "duration_vi": "Nửa ngày; xa nên thường kết hợp hành trình bắc Karelia nhiều ngày.",
+      "best_time_vi": "Mùa hè cho lễ hội và cảnh hồ; đường xa cần lên kế hoạch kỹ.",
+      "tips_vi": "Vị trí hẻo lánh gần biên giới; kiểm tra quy định vùng biên và đặt chỗ nghỉ trước."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D0%B0%D0%BB%D0%B5%D0%B2%D0%B0%D0%BB%D0%B0%20%28%D0%BF%D0%BE%D1%81%D1%91%D0%BB%D0%BE%D0%BA%29&ll=31.16667,65.2&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kalevala%20%28Uhtua%29%2C%20Karelia%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Калевала (Карелия)",
+        "url": "https://ru.wikipedia.org/wiki/Калевала_(Карелия)"
+      }
+    ],
+    "tags": [
+      "other",
+      "town",
+      "kalevala",
+      "folklore",
+      "epic",
+      "karelia"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "karelia-white-sea-baltic-canal",
+    "slug": "white-sea-baltic-canal",
+    "region": "karelia",
+    "region_name_vi": "Cộng hoà Karelia",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Kênh đào Bạch Hải – Baltic (Belomorkanal)",
+    "name_ru": "Беломорско-Балтийский канал",
+    "name_en": "White Sea–Baltic Canal",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 64.5114,
+      "lon": 34.8083
+    },
+    "address_vi": "Nối hồ Onega với Biển Trắng, đầu phía bắc tại Belomorsk, Cộng hòa Karelia, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Tuyến kênh đào dài 227 km nối hồ Onega với Biển Trắng, hoàn thành năm 1933. Công trình thủy lợi mang tầm vóc lịch sử nhưng cũng gắn với trang sử bi thương của lao động cưỡng bức thời Xô-viết, với hệ thống 19 âu thuyền vượt chênh cao địa hình.",
+    "presentation_long_vi": "Kênh đào Bạch Hải – Baltic (Belomorkanal) là một trong những công trình thủy lợi quy mô lớn đầu tiên của Liên Xô, khánh thành năm 1933, nối hồ Onega với Biển Trắng và qua đó thông thương giữa vùng Baltic và Bắc Băng Dương. Tuyến kênh dài khoảng 227 km, phần lớn tận dụng các hồ và sông tự nhiên, với hệ thống 19 âu thuyền (khóa nước) giúp tàu bè vượt qua chênh lệch độ cao địa hình. Xét về kỹ thuật, đây là thành tựu đáng nể của thời kỳ công nghiệp hóa; nhưng công trình cũng mang một trang sử bi thương, bởi nó được xây dựng chủ yếu bằng sức lao động của tù nhân trong hệ thống trại cải tạo, với tổn thất nhân mạng rất lớn. Ngày nay kênh vẫn hoạt động phục vụ vận tải và du lịch đường thủy; điểm dễ tham quan nhất là khu vực các âu thuyền gần Belomorsk và Povenets. Với du khách, Belomorkanal vừa là kỳ tích kỹ thuật vừa là nơi để suy ngẫm về một giai đoạn lịch sử phức tạp.",
+    "highlights_vi": [
+      "Kênh đào dài 227 km nối hồ Onega với Biển Trắng, hoàn thành 1933.",
+      "Hệ thống 19 âu thuyền vượt chênh cao địa hình phương Bắc.",
+      "Kỳ tích kỹ thuật gắn với trang sử bi thương của lao động cưỡng bức Xô-viết."
+    ],
+    "practical": {
+      "hours_vi": "Là công trình vận tải đang hoạt động; ngắm âu thuyền tự do từ bờ.",
+      "ticket_vi": "Miễn phí khi ngắm từ bờ; tour du thuyền qua kênh tính phí riêng.",
+      "duration_vi": "Khoảng 30–60 phút tại một cụm âu thuyền.",
+      "best_time_vi": "Mùa hè khi kênh thông thuyền và thời tiết thuận lợi.",
+      "tips_vi": "Điểm ngắm thuận tiện gần Belomorsk hoặc Povenets; chú ý đây là khu vực có kiểm soát."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%91%D0%B5%D0%BB%D0%BE%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%BE-%D0%91%D0%B0%D0%BB%D1%82%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB&ll=34.8083,64.5114&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=White%20Sea%E2%80%93Baltic%20Canal%2C%20Karelia%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Беломорско-Балтийский канал",
+        "url": "https://ru.wikipedia.org/wiki/Беломорско-Балтийский_канал"
+      }
+    ],
+    "tags": [
+      "other",
+      "canal",
+      "engineering",
+      "soviet-history",
+      "white-sea",
+      "karelia"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "karelia-spasskaya-guba-resort",
+    "slug": "spasskaya-guba-resort",
+    "region": "karelia",
+    "region_name_vi": "Cộng hoà Karelia",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Khu nghỉ dưỡng – trượt tuyết Spasskaya Guba",
+    "name_ru": "Спасская Губа",
+    "name_en": "Spasskaya Guba",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 62.21417,
+      "lon": 33.81528
+    },
+    "address_vi": "Làng Spasskaya Guba, huyện Kondopozhsky, Cộng hòa Karelia, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Ngôi làng nghỉ dưỡng bên hồ ở vùng Kondopoga, được biết đến như một điểm trượt tuyết và du lịch chủ động của Karelia. Gần suối khoáng Marcial Waters lịch sử, khu vực có đồi trượt, hồ nước và không gian rừng taiga trong lành bốn mùa.",
+    "presentation_long_vi": "Spasskaya Guba là một ngôi làng nhỏ nằm bên hồ ở huyện Kondopozhsky, từ lâu được người dân vùng Petrozavodsk biết đến như một điểm nghỉ ngơi và thể thao ngoài trời quen thuộc. Vào mùa đông, khu vực trở thành một trong những địa chỉ trượt tuyết gần thủ phủ Karelia, với các đồi trượt có độ dốc vừa phải, đường trượt tuyết băng đồng và dịch vụ cho cả người mới lẫn gia đình. Sang mùa hè và thu, nơi đây hấp dẫn bởi hồ nước trong, rừng taiga và những tuyến đi bộ, đạp xe, câu cá. Spasskaya Guba nằm ngay gần khu suối khoáng Marcial Waters – khu nghỉ dưỡng chữa bệnh đầu tiên của nước Nga do Pyotr Đại đế lập – nên thường được kết hợp trong cùng một hành trình khám phá vùng nội địa Karelia. Với vị trí thuận tiện, không khí trong lành và cảnh quan bốn mùa, đây là điểm dừng chân dễ chịu cho du khách muốn trải nghiệm thiên nhiên phương Bắc mà không phải đi quá xa Petrozavodsk.",
+    "highlights_vi": [
+      "Điểm trượt tuyết mùa đông gần Petrozavodsk với đồi trượt và đường băng đồng.",
+      "Mùa hè có hồ nước, rừng taiga và các tuyến đi bộ, đạp xe, câu cá.",
+      "Gần khu suối khoáng lịch sử Marcial Waters, dễ kết hợp hành trình."
+    ],
+    "practical": {
+      "hours_vi": "Khu nghỉ hoạt động theo mùa; đồi trượt mở vào mùa đông có tuyết.",
+      "ticket_vi": "Vé thang kéo/thuê đồ trượt tính theo bảng giá khu nghỉ; dạo quanh miễn phí.",
+      "duration_vi": "Nửa ngày đến trọn ngày.",
+      "best_time_vi": "Mùa đông cho trượt tuyết; hè–thu cho hoạt động trên hồ và rừng.",
+      "tips_vi": "Kết hợp ghé Marcial Waters gần đó; kiểm tra điều kiện tuyết trước khi đi mùa đông."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%BF%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D1%8F%20%D0%93%D1%83%D0%B1%D0%B0&ll=33.81528,62.21417&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Spasskaya%20Guba%2C%20Karelia%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Спасская Губа",
+        "url": "https://ru.wikipedia.org/wiki/Спасская_Губа"
+      }
+    ],
+    "tags": [
+      "other",
+      "ski-resort",
+      "recreation",
+      "lake",
+      "kondopoga",
+      "karelia"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
   }
 ]

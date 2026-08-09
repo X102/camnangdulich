@@ -498,5 +498,2228 @@
     "status": "enriched",
     "last_updated": "2026-07-16",
     "country": "russia"
+  },
+  {
+    "id": "pskov-mirozhsky-monastery",
+    "slug": "mirozhsky-monastery",
+    "region": "pskov",
+    "region_name_vi": "Tỉnh Pskov",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Tu viện Mirozhsky (Spaso-Preobrazhensky Mirozhsky, đọc: Mi-rôi-ski)",
+    "name_ru": "Мирожский монастырь",
+    "name_en": "Mirozhsky Monastery",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 57.8056,
+      "lon": 28.3292
+    },
+    "address_vi": "Bờ trái sông Velikaya, cửa sông Mirozha, phố Mirozhskaya naberezhnaya, thành phố Pskov, tỉnh Pskov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Tu viện Mirozhsky là một trong những tu viện cổ nhất Pskov, nổi danh khắp thế giới nhờ loạt bích họa (fresco) thế kỷ 12 gần như nguyên vẹn trong Nhà thờ Chúa Hiển Dung. Đây là kho tàng nghệ thuật Byzantine hiếm có nằm trong danh sách dự kiến Di sản Thế giới UNESCO.",
+    "presentation_long_vi": "Tu viện Mirozhsky (Мирожский монастырь) nằm bên bờ trái sông Velikaya, ngay nơi con suối Mirozha đổ vào sông, đối diện Điện Kremlin Pskov. Được lập vào giữa thế kỷ 12, đây là một trong những tu viện lâu đời nhất vùng đất Pskov. Báu vật của tu viện là Nhà thờ Chúa Hiển Dung (Спасо-Преображенский собор) xây khoảng năm 1140, bên trong phủ kín những bức bích họa Byzantine hoàn thiện giữa thế kỷ 12 – bộ tranh tường thời tiền Mông Cổ được bảo tồn trọn vẹn bậc nhất còn lại ở Nga. Các họa sĩ Hy Lạp đã kể trọn câu chuyện Phúc Âm bằng gam màu trầm ấm, với những gương mặt thánh nhân sống động khiến giới nghiên cứu nghệ thuật thế giới trầm trồ. Nhờ giá trị độc nhất đó, nhà thờ được đưa vào danh sách dự kiến (tentative list) Di sản Thế giới UNESCO. Ngày nay tu viện vừa là nơi tu hành vừa là chi nhánh của Bảo tàng - Khu bảo tồn Pskov, giữ gìn và giới thiệu di sản fresco cho du khách.",
+    "highlights_vi": [
+      "Bích họa Byzantine thế kỷ 12 gần như nguyên vẹn – hiếm bậc nhất nước Nga.",
+      "Nhà thờ Chúa Hiển Dung xây khoảng 1140, nằm trong danh sách dự kiến UNESCO.",
+      "Vị trí thơ mộng bên sông Velikaya, đối diện Điện Kremlin Pskov."
+    ],
+    "practical": {
+      "hours_vi": "Nhà thờ có bích họa mở theo giờ bảo tàng (thường 11:00–18:00), đóng khi độ ẩm cao để bảo vệ tranh; sân tu viện mở ban ngày.",
+      "ticket_vi": "Vé vào Nhà thờ Chúa Hiển Dung xem fresco khoảng 300–400 ₽; vào sân tu viện miễn phí.",
+      "duration_vi": "Khoảng 1–1,5 giờ.",
+      "best_time_vi": "Ngày khô ráo (nhà thờ có thể đóng khi mưa ẩm để bảo vệ tranh); sáng hoặc chiều.",
+      "tips_vi": "Hỏi trước về tình trạng mở cửa của nhà thờ fresco. Kết hợp ngắm Kremlin từ bờ đối diện."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D0%B8%D1%80%D0%BE%D0%B6%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C&ll=28.3292,57.8056&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Mirozhsky%20Monastery%2C%20Pskov%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Мирожский монастырь",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D1%80%D0%BE%D0%B6%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+      },
+      {
+        "title": "Wikipedia (EN) — Mirozhsky Monastery",
+        "url": "https://en.wikipedia.org/wiki/Mirozhsky_Monastery"
+      },
+      {
+        "title": "sobory.ru — Псков, Мирожский монастырь",
+        "url": "https://sobory.ru/article/?object=00264"
+      }
+    ],
+    "tags": [
+      "monastery",
+      "orthodox",
+      "fresco",
+      "unesco-tentative",
+      "byzantine",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "pskov-krypetsky-monastery",
+    "slug": "krypetsky-monastery",
+    "region": "pskov",
+    "region_name_vi": "Tỉnh Pskov",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Tu viện Krypetsky (Ioanno-Bogoslovsky Savvo-Krypetsky, đọc: Krư-pét-ski)",
+    "name_ru": "Крыпецкий монастырь",
+    "name_en": "Krypetsky Monastery",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 57.99139,
+      "lon": 28.489827
+    },
+    "address_vi": "Gần làng Krypetskoye, cách Pskov khoảng 22 km về phía đông bắc, huyện Pskovsky, tỉnh Pskov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Tu viện Krypetsky do thánh Savva Krypetsky – một tu sĩ gốc Serbia từ núi Athos – lập năm 1455 giữa vùng đầm lầy hẻo lánh. Nơi đây gắn với truyền thống ẩn tu khắc khổ và là điểm hành hương yên tĩnh giữa rừng.",
+    "presentation_long_vi": "Tu viện Krypetsky (đầy đủ: Иоанно-Богословский Савво-Крыпецкий монастырь) được thánh Savva Krypetsky – vị tu sĩ gốc Serbia từng tu ở núi thánh Athos – sáng lập năm 1455 giữa những cánh rừng đầm lầy cách Pskov chừng 22 km. Chính sự biệt lập giữa đầm lầy đã tạo nên đời sống ẩn tu khắc khổ, giúp tu viện trở thành một trung tâm tâm linh quan trọng của vùng Pskov suốt thời trung cổ. Quần thể hiện nay có Nhà thờ Thánh Gioan Thần học (thế kỷ 16) cùng tháp chuông, được trùng tu công phu sau thời gian dài hoang phế thời Xô Viết. Bao quanh là hồ nước, rừng cây và con đường đắp (damba) dẫn vào tu viện – khung cảnh thanh tịnh gợi cảm giác tách biệt khỏi thế giới. Nơi lưu giữ di hài thánh Savva và thánh Nikandr, Krypetsky là điểm đến của khách hành hương tìm sự tĩnh lặng và những ai yêu thích di sản kiến trúc Pskov cổ.",
+    "highlights_vi": [
+      "Do thánh Savva gốc Serbia (tu ở Athos) lập năm 1455 giữa vùng đầm lầy.",
+      "Nhà thờ Thánh Gioan Thần học thế kỷ 16 và tháp chuông đã được trùng tu.",
+      "Khung cảnh rừng - hồ biệt lập, đường đắp dẫn vào, rất thanh tịnh."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa hằng ngày cho khách hành hương, thường từ sáng đến chiều tối theo giờ lễ.",
+      "ticket_vi": "Miễn phí (khuyến khích quyên góp).",
+      "duration_vi": "Khoảng 1 giờ; cộng thời gian di chuyển đường quê.",
+      "best_time_vi": "Mùa hè và đầu thu khi đường vào khô ráo, dễ đi.",
+      "tips_vi": "Đường vào có đoạn đất/đắp qua đầm lầy, nên đi xe gầm cao; ăn mặc kín đáo khi vào nhà thờ."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D1%80%D1%8B%D0%BF%D0%B5%D1%86%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C&ll=28.489827,57.99139&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Krypetsky%20Monastery%2C%20Pskov%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Крыпецкий монастырь",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D1%8B%D0%BF%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+      },
+      {
+        "title": "Wikipedia (EN) — Krypetsky Monastery",
+        "url": "https://en.wikipedia.org/wiki/Krypetsky_Monastery"
+      },
+      {
+        "title": "sobory.ru — Крыпецкое, Савво-Крыпецкий монастырь",
+        "url": "https://sobory.ru/article/?object=00281"
+      }
+    ],
+    "tags": [
+      "monastery",
+      "orthodox",
+      "pilgrimage",
+      "medieval",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "pskov-spaso-eleazarovsky-monastery",
+    "slug": "spaso-eleazarovsky-monastery",
+    "region": "pskov",
+    "region_name_vi": "Tỉnh Pskov",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Tu viện Spaso-Eleazarovsky (đọc: Xpa-xô Ê-lê-a-da-rốp-ski)",
+    "name_ru": "Спасо-Елеазаровский монастырь",
+    "name_en": "Spaso-Eleazarovsky Monastery",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 58.04933,
+      "lon": 28.193574
+    },
+    "address_vi": "Làng Elizarovo, cách Pskov khoảng 28 km về phía bắc trên đường đi Gdov, huyện Pskovsky, tỉnh Pskov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Tu viện Spaso-Eleazarovsky do thánh Yevfrosin lập năm 1425 là nơi gắn với học thuyết 'Moskva – La Mã thứ ba' của trưởng lão Filofei. Đây là một trong những trung tâm tư tưởng và tâm linh có ảnh hưởng nhất lịch sử Nga.",
+    "presentation_long_vi": "Tu viện Spaso-Eleazarovsky (Спасо-Елеазаровский монастырь) được thánh Yevfrosin xứ Pskov sáng lập năm 1425 tại làng Elizarovo, cách thành phố Pskov khoảng 28 km về phía bắc. Tu viện đi vào lịch sử tư tưởng Nga nhờ trưởng lão Filofei (Philotheus) – một tu sĩ nơi đây – người đầu thế kỷ 16 đã nêu luận thuyết nổi tiếng 'Moskva là La Mã thứ ba', đặt nền cho ý thức về sứ mệnh của nước Nga Chính thống giáo. Tu viện từng lưu giữ ảnh thánh cổ 'Spas Eleazarovsky' quý giá. Trải qua thời kỳ đóng cửa và hư hại dưới thời Xô Viết, từ đầu thế kỷ 21 tu viện (nay là nữ tu viện) được trùng tu, khôi phục Nhà thờ Ba Thánh Sư (Собор Трёх Святителей) và các công trình phụ trợ. Nằm giữa khung cảnh đồng quê yên bình trên tuyến đường ra hồ Chudskoye, đây là điểm dừng ý nghĩa cho ai muốn tìm hiểu chiều sâu lịch sử - tôn giáo của nước Nga.",
+    "highlights_vi": [
+      "Gắn với học thuyết 'Moskva – La Mã thứ ba' của trưởng lão Filofei.",
+      "Do thánh Yevfrosin lập năm 1425; Nhà thờ Ba Thánh Sư đã được trùng tu.",
+      "Nữ tu viện thanh bình trên tuyến đường Pskov đi hồ Chudskoye."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa hằng ngày cho khách viếng, thường từ sáng đến chiều tối theo giờ lễ.",
+      "ticket_vi": "Miễn phí (khuyến khích quyên góp).",
+      "duration_vi": "Khoảng 45–60 phút.",
+      "best_time_vi": "Quanh năm; đẹp nhất cuối xuân đến đầu thu.",
+      "tips_vi": "Ăn mặc kín đáo, nữ nên mang khăn trùm đầu và váy. Kết hợp trên đường ra Gdov/hồ Chudskoye."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%BF%D0%B0%D1%81%D0%BE-%D0%95%D0%BB%D0%B5%D0%B0%D0%B7%D0%B0%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C&ll=28.193574,58.04933&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Spaso-Eleazarovsky%20Monastery%2C%20Pskov%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Спасо-Елеазаровский монастырь",
+        "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D1%81%D0%BE-%D0%95%D0%BB%D0%B5%D0%B0%D0%B7%D0%B0%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+      },
+      {
+        "title": "sobory.ru — Елизарово, Спасо-Елеазаровский монастырь",
+        "url": "https://sobory.ru/article/?object=00280"
+      }
+    ],
+    "tags": [
+      "monastery",
+      "orthodox",
+      "history",
+      "third-rome",
+      "pilgrimage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "pskov-nikandrova-pustyn",
+    "slug": "nikandrova-pustyn",
+    "region": "pskov",
+    "region_name_vi": "Tỉnh Pskov",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Tu viện Nikandrova Pustyn (Svyato-Blagoveshchenskaya, đọc: Ni-can-đrô-va Pút-xtưn)",
+    "name_ru": "Никандрова Свято-Благовещенская пустынь",
+    "name_en": "Nikandrova Hermitage",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 57.816217,
+      "lon": 29.286367
+    },
+    "address_vi": "Gần làng Lyubovets, huyện Porkhovsky, cách Porkhov khoảng 35 km và Pskov khoảng 70 km về phía đông, tỉnh Pskov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nikandrova Pustyn là tu viện - ẩn viện lập năm 1584 trên nơi tu hành của thánh Nikandr. Ngày nay nơi đây nổi tiếng với các mạch nước khoáng (có nguồn radon) được người hành hương tin là có tác dụng chữa lành.",
+    "presentation_long_vi": "Tu viện Nikandrova Pustyn (đầy đủ: Свято-Благовещенская Никандрова пустынь) được lập năm 1584 tại chính nơi thánh Nikandr đã ẩn tu suốt gần nửa thế kỷ giữa rừng sâu ở huyện Porkhovsky. Trải qua nhiều thăng trầm và bị phá hủy gần như hoàn toàn thời Xô Viết, tu viện bắt đầu hồi sinh từ năm 2000 với các nhà thờ mới được dựng lại trên nền cũ. Điều khiến Nikandrova Pustyn thu hút đông đảo khách hành hương là những mạch nước và giếng thánh rải rác quanh tu viện – trong đó có nguồn nước chứa radon – được tin là mang lại sức khỏe. Người ta tìm đến để múc nước, tắm trong các nhà tắm nước lạnh (kupel) và cầu nguyện bên mộ thánh Nikandr. Nằm giữa rừng thông tĩnh lặng, đây là điểm đến kết hợp đời sống tâm linh với thiên nhiên trong lành, đặc biệt đông khách vào các ngày lễ của tu viện.",
+    "highlights_vi": [
+      "Các mạch nước khoáng và giếng thánh (có nguồn radon) được tin là chữa lành.",
+      "Lập năm 1584 trên nơi ẩn tu của thánh Nikandr; hồi sinh từ năm 2000.",
+      "Không gian rừng thông tĩnh lặng, có nhà tắm nước thánh (kupel)."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa hằng ngày cho khách hành hương, thường từ sáng đến chiều tối.",
+      "ticket_vi": "Miễn phí; tắm/múc nước tại các giếng thánh tự nguyện quyên góp.",
+      "duration_vi": "Khoảng 1–2 giờ nếu đi hết các mạch nước.",
+      "best_time_vi": "Mùa hè thuận tiện; các ngày lễ của tu viện rất đông.",
+      "tips_vi": "Mang chai đựng nước và khăn nếu muốn trải nghiệm nhà tắm nước lạnh; đường vào là đường rừng."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%B8%D0%BA%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B0%20%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%91%D0%BB%D0%B0%D0%B3%D0%BE%D0%B2%D0%B5%D1%89%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BF%D1%83%D1%81%D1%82%D1%8B%D0%BD%D1%8C&ll=29.286367,57.816217&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Nikandrova%20Hermitage%2C%20Pskov%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Никандрова Свято-Благовещенская пустынь",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BA%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B0_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%91%D0%BB%D0%B0%D0%B3%D0%BE%D0%B2%D0%B5%D1%89%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%83%D1%81%D1%82%D1%8B%D0%BD%D1%8C"
+      },
+      {
+        "title": "sobory.ru — Никандрова пустынь",
+        "url": "https://sobory.ru/article/?object=05604"
+      }
+    ],
+    "tags": [
+      "monastery",
+      "orthodox",
+      "pilgrimage",
+      "holy-spring",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "pskov-malsky-monastery",
+    "slug": "malsky-monastery",
+    "region": "pskov",
+    "region_name_vi": "Tỉnh Pskov",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Tu viện Malsky (Spaso-Rozhdestvensky Malsky, đọc: Man-ski)",
+    "name_ru": "Мальской Спасо-Рождественский монастырь",
+    "name_en": "Malsky Monastery",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 57.74559,
+      "lon": 27.84214
+    },
+    "address_vi": "Làng Maly, thung lũng Malskaya, gần Izborsk và Pechory, huyện Pechorsky, tỉnh Pskov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Tu viện Malsky nép mình dưới thung lũng Malskaya thơ mộng bên hồ Malskoye, cạnh tuyến di sản Izborsk – Pechory. Quần thể với tháp chuông cổ và các mạch nước trong lành là một trong những góc nên thơ nhất vùng.",
+    "presentation_long_vi": "Tu viện Malsky (Мальской Спасо-Рождественский монастырь) hình thành từ thế kỷ 15 bên bờ hồ Malskoye, trong thung lũng Malskaya xanh mướt nằm giữa pháo đài Izborsk và tu viện Pechory. Dù nhiều lần bị tàn phá trong các cuộc chiến với Livonia và về sau chỉ còn là giáo xứ, cụm công trình cổ nơi đây vẫn giữ được vẻ đẹp cuốn hút: Nhà thờ Giáng Sinh (Собор Рождества Христова) bằng đá trắng thế kỷ 16, tháp chuông cổ và nhà thờ Thánh Stêphanô. Từ trên sườn đồi Izborsk – Maly nhìn xuống, tu viện lọt thỏm giữa thung lũng với hồ nước, đồng cỏ và những mạch suối trong vắt tạo nên khung cảnh như tranh. Nơi đây gắn với các mạch nước thánh và truyền thuyết địa phương, là điểm dừng chân yên bình, thường được kết hợp trong hành trình khám phá Izborsk và Pechory.",
+    "highlights_vi": [
+      "Nhà thờ Giáng Sinh bằng đá trắng thế kỷ 16 và tháp chuông cổ trong thung lũng.",
+      "Khung cảnh thung lũng Malskaya bên hồ, có mạch suối trong lành như tranh.",
+      "Nằm ngay trên tuyến di sản Izborsk – Pechory, dễ kết hợp tham quan."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa ban ngày cho khách viếng; nhà thờ mở theo giờ lễ.",
+      "ticket_vi": "Miễn phí (khuyến khích quyên góp).",
+      "duration_vi": "Khoảng 45–60 phút.",
+      "best_time_vi": "Cuối xuân đến đầu thu khi thung lũng xanh tươi; hoàng hôn rất đẹp.",
+      "tips_vi": "Đường xuống thung lũng khá dốc, mang giày phù hợp. Kết hợp Izborsk và Pechory trong ngày."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9%20%D0%A1%D0%BF%D0%B0%D1%81%D0%BE-%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C&ll=27.84214,57.74559&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Malsky%20Monastery%2C%20Pskov%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Мальский монастырь",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+      },
+      {
+        "title": "sobory.ru — Малы, Мальской Рождественский монастырь",
+        "url": "https://sobory.ru/article/?object=00809"
+      }
+    ],
+    "tags": [
+      "monastery",
+      "orthodox",
+      "valley",
+      "scenic",
+      "medieval"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "pskov-porkhov-fortress",
+    "slug": "porkhov-fortress",
+    "region": "pskov",
+    "region_name_vi": "Tỉnh Pskov",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Pháo đài Porkhov (Porkhovskaya krepost, đọc: Por-khốp-xca-i-a Cre-pốt)",
+    "name_ru": "Порховская крепость",
+    "name_en": "Porkhov Fortress",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 57.765159,
+      "lon": 29.562666
+    },
+    "address_vi": "Trung tâm thị trấn Porkhov, bờ phải sông Shelon, huyện Porkhovsky, tỉnh Pskov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Pháo đài Porkhov do hoàng thân Alexander Nevsky khởi dựng bằng gỗ năm 1239, sau xây lại bằng đá năm 1387, canh giữ tuyến đường thủy sông Shelon. Tường thành đá vôi sẫm màu còn nguyên vẹn ôm trọn một khu vườn và nhà thờ cổ bên trong.",
+    "presentation_long_vi": "Pháo đài Porkhov (Порховская крепость) đứng ở trung tâm thị trấn Porkhov, trên bờ phải sông Shelon – tuyến đường thủy nối Novgorod với Pskov. Theo biên niên sử Novgorod, hoàng thân Alexander Nevsky đã cho dựng công sự gỗ tại đây năm 1239 để bảo vệ con đường trên sông; đến năm 1387 pháo đài được xây lại bằng đá vôi để chống lại pháo và các cuộc vây hãm của Đại Công quốc Litva. Điều đặc biệt là tường và tháp bằng đá vôi sẫm màu của Porkhov còn được bảo tồn gần như trọn vẹn, cho phép du khách hình dung rõ một pháo đài trung cổ điển hình của vùng Pskov. Bên trong thành là Nhà thờ Thánh Nikolai (1412), một khu vườn cây xanh mát, bảo tàng địa phương và bảo tàng lịch sử bưu chính Porkhov độc đáo. Dạo trên tường thành, phóng tầm mắt ra sông Shelon, ta như trở về thời các thành lũy biên viễn của nước Nga cổ.",
+    "highlights_vi": [
+      "Do Alexander Nevsky khởi dựng năm 1239, xây lại bằng đá năm 1387.",
+      "Tường và tháp đá vôi sẫm màu được bảo tồn gần như nguyên vẹn.",
+      "Bên trong có Nhà thờ Thánh Nikolai (1412), vườn cây và bảo tàng địa phương."
+    ],
+    "practical": {
+      "hours_vi": "Khuôn viên pháo đài mở ban ngày; bảo tàng và nhà thờ có giờ riêng, thường nghỉ một ngày trong tuần.",
+      "ticket_vi": "Vào khuôn viên phần lớn miễn phí; vé bảo tàng và leo tháp khoảng 100–250 ₽.",
+      "duration_vi": "Khoảng 1–1,5 giờ.",
+      "best_time_vi": "Mùa hè khi khu vườn trong thành xanh tươi; sáng hoặc chiều.",
+      "tips_vi": "Cách Pskov khoảng 75 km trên tuyến đi Novgorod; kết hợp Nhà thờ Giáng Sinh của thị trấn."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%BE%D1%80%D1%85%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C&ll=29.562666,57.765159&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Porkhov%20Fortress%2C%20Pskov%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Порховская крепость",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%85%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+      },
+      {
+        "title": "Wikipedia (RU) — Порхов",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%85%D0%BE%D0%B2"
+      }
+    ],
+    "tags": [
+      "fortress",
+      "medieval",
+      "alexander-nevsky",
+      "history",
+      "museum"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "pskov-velikiye-luki-fortress",
+    "slug": "velikiye-luki-fortress",
+    "region": "pskov",
+    "region_name_vi": "Tỉnh Pskov",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Pháo đài Velikiye Luki (Velikolukskaya krepost, đọc: Vê-li-cô-lúc-xca-i-a Cre-pốt)",
+    "name_ru": "Великолукская крепость",
+    "name_en": "Velikiye Luki Fortress",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 56.34269,
+      "lon": 30.507225
+    },
+    "address_vi": "Bờ trái sông Lovat, trung tâm thành phố Velikiye Luki, tỉnh Pskov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Pháo đài Velikiye Luki là công trình phòng thủ kiểu pháo đài bờ lũy (bastion) bằng đất, dựng đầu thế kỷ 18 theo lệnh Pyotr Đại đế. Những ụ đất khổng lồ bên sông Lovat còn ghi dấu trận chiến ác liệt bậc nhất Thế chiến II ở vùng này.",
+    "presentation_long_vi": "Pháo đài Velikiye Luki (Великолукская крепость) nằm bên bờ trái sông Lovat, giữa lòng thành phố Velikiye Luki – 'thành phố Vinh quang Quân sự' ở phía nam tỉnh Pskov. Khác với các thành đá vôi Pskov cổ, đây là pháo đài bờ lũy (bastion) bằng đất theo kiểu công sự châu Âu hiện đại, được dựng đầu thế kỷ 18 dưới thời Pyotr Đại đế nhằm phòng thủ biên giới phía tây trong Chiến tranh phương Bắc. Những ụ đất, hào và bờ lũy cao vẫn còn nguyên hình khối, tạo nên một điểm nhấn cảnh quan giữa thành phố. Trong Thế chiến II, Velikiye Luki là chiến trường đẫm máu cuối 1942 – đầu 1943, được ví như 'Stalingrad nhỏ'; pháo đài trở thành cứ điểm cố thủ và nay là nơi đặt đài tưởng niệm, nghĩa trang liệt sĩ và tượng đài. Leo lên bờ lũy, du khách có thể ngắm toàn cảnh thành phố và dòng Lovat, đồng thời cảm nhận hai lớp lịch sử chồng lên nhau: công sự thời Pyotr và ký ức chiến tranh vệ quốc.",
+    "highlights_vi": [
+      "Pháo đài bờ lũy (bastion) bằng đất thời Pyotr Đại đế, đầu thế kỷ 18.",
+      "Chiến trường 'Stalingrad nhỏ' trong Thế chiến II, nay có đài tưởng niệm.",
+      "Bờ lũy cao bên sông Lovat, ngắm toàn cảnh thành phố Velikiye Luki."
+    ],
+    "practical": {
+      "hours_vi": "Khuôn viên ngoài trời mở tự do cả ngày.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 45–60 phút.",
+      "best_time_vi": "Mùa hè và đầu thu; dịp lễ Chiến thắng 9/5 có nhiều hoạt động.",
+      "tips_vi": "Ở phía nam tỉnh, cách Pskov khoảng 300 km; kết hợp tham quan trung tâm Velikiye Luki."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%BB%D1%83%D0%BA%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C&ll=30.507225,56.34269&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Velikiye%20Luki%20Fortress%2C%20Pskov%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Великолукская крепость",
+        "url": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%BB%D1%83%D0%BA%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+      },
+      {
+        "title": "Wikipedia (RU) — Великие Луки",
+        "url": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B5_%D0%9B%D1%83%D0%BA%D0%B8"
+      }
+    ],
+    "tags": [
+      "fortress",
+      "bastion",
+      "peter-the-great",
+      "wwii",
+      "memorial"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "pskov-pokrovskaya-tower",
+    "slug": "pokrovskaya-tower",
+    "region": "pskov",
+    "region_name_vi": "Tỉnh Pskov",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Tháp Pokrovskaya (Pokrovskaya bashnya, đọc: Pa-crốp-xca-i-a Ba-sni-a)",
+    "name_ru": "Покровская башня",
+    "name_en": "Pokrovskaya Tower",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 57.804823,
+      "lon": 28.333724
+    },
+    "address_vi": "Góc tây nam thành lũy Okolny gorod, bờ sông Velikaya, phố Gogolya, thành phố Pskov, tỉnh Pskov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Tháp Pokrovskaya là tháp góc đồ sộ nhất của thành Pskov với chu vi khoảng 90 m và năm tầng, giữ vị trí then chốt trong cuộc phòng thủ huyền thoại năm 1581 chống vua Ba Lan Stefan Batory. Đây là một trong những tháp thành lớn nhất châu Âu.",
+    "presentation_long_vi": "Tháp Pokrovskaya (Покровская башня) nằm ở góc tây nam vòng thành ngoài (Окольный город) của pháo đài Pskov, sát bờ sông Velikaya. Được thợ đá Pskov dựng cuối thế kỷ 15 – đầu thế kỷ 16, tháp có chu vi ngoài tới khoảng 90 m và năm tầng, thuộc hàng tháp thành lớn nhất châu Âu. Tên tuổi tháp gắn liền với sự kiện oanh liệt năm 1581, khi quân Pskov đẩy lui cuộc tổng công kích của đại quân vua Ba Lan Stefan Batory ngay tại đoạn tường gần tháp – trận phòng thủ được xem là một trong những trang sử hào hùng nhất của thành phố. Bên cạnh tháp là Nhà thờ Đức Mẹ Che Chở và Giáng Sinh (церковь Покрова и Рождества от Пролома) nhỏ nhắn, cùng đoạn tường thành và tháp Pokrovsky đối diện tạo thành một cụm di tích phòng thủ ấn tượng. Sau trùng tu, không gian quanh tháp trở thành điểm dạo chơi, chụp ảnh và tìm hiểu lịch sử quân sự Pskov bên dòng Velikaya.",
+    "highlights_vi": [
+      "Tháp góc lớn nhất thành Pskov, chu vi ~90 m, năm tầng – thuộc hàng lớn nhất châu Âu.",
+      "Gắn với trận phòng thủ huyền thoại năm 1581 chống vua Ba Lan Stefan Batory.",
+      "Bên cạnh là Nhà thờ Đức Mẹ Che Chở và đoạn tường thành ngoài bên sông Velikaya."
+    ],
+    "practical": {
+      "hours_vi": "Khuôn viên ngoài trời và đoạn tường thành mở tự do; nội thất tháp mở theo lịch trưng bày của bảo tàng.",
+      "ticket_vi": "Ngắm bên ngoài miễn phí; vé vào trưng bày trong tháp (nếu mở) khoảng 100–200 ₽.",
+      "duration_vi": "Khoảng 30–45 phút.",
+      "best_time_vi": "Sáng hoặc chiều muộn để chụp ảnh; buổi tối được chiếu sáng.",
+      "tips_vi": "Kết hợp dạo bờ kè sông Velikaya và cụm Nhà thờ Đức Mẹ Che Chở ngay cạnh."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B1%D0%B0%D1%88%D0%BD%D1%8F&ll=28.333724,57.804823&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Pokrovskaya%20Tower%2C%20Pskov%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Покровская башня (Псков)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B0%D1%88%D0%BD%D1%8F_%28%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%29"
+      },
+      {
+        "title": "Wikipedia (RU) — Псковская крепость",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+      }
+    ],
+    "tags": [
+      "fortress",
+      "tower",
+      "medieval",
+      "history",
+      "siege"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "pskov-gremyachaya-tower",
+    "slug": "gremyachaya-tower",
+    "region": "pskov",
+    "region_name_vi": "Tỉnh Pskov",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Tháp Gremyachaya (Gremyachaya bashnya, đọc: Grê-mi-a-cha-i-a Ba-sni-a)",
+    "name_ru": "Гремячая башня",
+    "name_en": "Gremyachaya Tower",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 57.823235,
+      "lon": 28.348706
+    },
+    "address_vi": "Đồi Gremyachaya, bờ phải sông Pskova, khu Zapskovye, phố Gremyachaya, thành phố Pskov, tỉnh Pskov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Tháp Gremyachaya dựng năm 1525 trên vách đồi bên sông Pskova là một trong những tháp thành cổ, bí ẩn và được yêu thích nhất Pskov. Dáng tháp đá cao vút bên dòng sông cùng vô số truyền thuyết khiến nơi đây trở thành điểm chụp ảnh mê hoặc.",
+    "presentation_long_vi": "Tháp Gremyachaya (Гремячая башня) được xây năm 1525 trên đỉnh đồi Gremyachaya, ở vách bờ phải dốc đứng của sông Pskova, thuộc hệ thống thành lũy vòng ngoài của pháo đài Pskov. Cao khoảng 20 m với sáu tầng, tháp đá vôi này là một trong những công trình phòng thủ được coi là phức tạp và bí ẩn nhất thành phố. Vị trí bên sông cùng dáng vẻ rêu phong đã sinh ra nhiều truyền thuyết dân gian: chuyện nàng công chúa ngủ mê giữ kho báu, chuyện những đường hầm bí mật dẫn xuống sông... khiến Gremyachaya nhuốm màu huyền thoại. Ngày nay tháp đứng cạnh phế tích tu viện và nhà thờ cổ, tạo nên một khung cảnh cổ kính, hoang sơ hiếm có ngay trong lòng thành phố. Đây là một trong những góc chụp ảnh được yêu thích nhất Pskov, đặc biệt vào lúc bình minh và hoàng hôn khi ánh sáng đổ lên tường tháp và mặt sông.",
+    "highlights_vi": [
+      "Tháp đá sáu tầng dựng năm 1525 trên vách đồi bên sông Pskova.",
+      "Gắn với nhiều truyền thuyết về kho báu, công chúa ngủ mê và đường hầm bí mật.",
+      "Một trong những góc chụp ảnh cổ kính, nên thơ nhất Pskov."
+    ],
+    "practical": {
+      "hours_vi": "Khu vực ngoài trời quanh tháp mở tự do cả ngày.",
+      "ticket_vi": "Miễn phí (ngắm và chụp ảnh bên ngoài).",
+      "duration_vi": "Khoảng 20–30 phút.",
+      "best_time_vi": "Bình minh hoặc hoàng hôn để có ánh sáng đẹp trên tháp và sông.",
+      "tips_vi": "Đường lên đồi hơi dốc, mang giày bệt. Kết hợp dạo bờ sông Pskova khu Zapskovye."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%93%D1%80%D0%B5%D0%BC%D1%8F%D1%87%D0%B0%D1%8F%20%D0%B1%D0%B0%D1%88%D0%BD%D1%8F&ll=28.348706,57.823235&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Gremyachaya%20Tower%2C%20Pskov%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Гремячая башня",
+        "url": "https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B5%D0%BC%D1%8F%D1%87%D0%B0%D1%8F_%D0%B1%D0%B0%D1%88%D0%BD%D1%8F"
+      },
+      {
+        "title": "Wikipedia (RU) — Псковская крепость",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+      }
+    ],
+    "tags": [
+      "fortress",
+      "tower",
+      "medieval",
+      "legend",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "pskov-velye-fortress",
+    "slug": "velye-fortress",
+    "region": "pskov",
+    "region_name_vi": "Tỉnh Pskov",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Thành cổ Velye (Velye, gorodishche, đọc: Vê-li-ê)",
+    "name_ru": "Велье (крепость)",
+    "name_en": "Velye Fortress",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 56.964801,
+      "lon": 28.561053
+    },
+    "address_vi": "Làng Velye, bên các hồ Velye, Chado và Chyornoye, huyện Pushkinogorsky, tỉnh Pskov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Velye là một trong những thành lũy tiền tiêu của vùng đất Pskov, dựng khoảng giữa thế kỷ 14 trên ngọn đồi cao bên các hồ nước. Nay tường thành đã không còn, chỉ lưu lại lũy đất (gorodishche) hùng vĩ giữa khung cảnh làng quê thơ mộng của huyện Pushkinogorsky.",
+    "presentation_long_vi": "Thành cổ Velye (крепость Велье) từng là một trong những cứ điểm phòng thủ tiền tiêu quan trọng ở biên giới tây nam của nước cộng hòa Pskov thời trung cổ, được dựng khoảng giữa thế kỷ 14. Điểm độc đáo là Velye có kết cấu 'đất – gỗ – đá' hiếm gặp: một phần tường bằng đá vôi, một phần là tường gỗ trên lũy đất, tọa lạc trên ngọn đồi cao chừng 13 m nhìn xuống các hồ Velye, Chado và Chyornoye. Pháo đài bị phá hủy năm 1581 và không được khôi phục; ngày nay chỉ còn lại lũy đất (городище) đồ sộ, hào nước và địa thế hiểm trở gợi nhớ quy mô công trình xưa. Ngôi làng Velye bên dưới vẫn giữ nếp cổ, có nhà thờ và một bảo tàng nhỏ giới thiệu lịch sử vùng. Nằm trong không gian của Khu bảo tồn Pushkin (Pushkinskiye Gory), Velye là điểm đến cho những ai yêu khảo cổ, lịch sử trung cổ và khung cảnh đồi – hồ yên bình.",
+    "highlights_vi": [
+      "Thành lũy tiền tiêu của Pskov, dựng giữa thế kỷ 14, kết cấu đất–gỗ–đá hiếm gặp.",
+      "Nay còn lũy đất (gorodishche) trên đồi cao bên ba hồ Velye, Chado, Chyornoye.",
+      "Làng cổ có nhà thờ và bảo tàng nhỏ, thuộc không gian Khu bảo tồn Pushkin."
+    ],
+    "practical": {
+      "hours_vi": "Khu di tích ngoài trời mở tự do; bảo tàng làng có giờ riêng.",
+      "ticket_vi": "Tham quan lũy đất miễn phí; vé bảo tàng nhỏ (nếu có) tượng trưng.",
+      "duration_vi": "Khoảng 45–60 phút.",
+      "best_time_vi": "Cuối xuân đến đầu thu khi đồi cỏ xanh và mặt hồ đẹp.",
+      "tips_vi": "Cách Pushkinskiye Gory không xa; kết hợp trong hành trình khám phá vùng Pushkin."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D0%B5%D0%BB%D1%8C%D0%B5%20%28%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C%29&ll=28.561053,56.964801&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Velye%20Fortress%2C%20Pskov%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Велье (крепость)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BB%D1%8C%D0%B5_%28%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C%29"
+      },
+      {
+        "title": "Wikipedia (RU) — Велье (Пушкиногорский район)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BB%D1%8C%D0%B5_%28%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%29"
+      }
+    ],
+    "tags": [
+      "fortress",
+      "hillfort",
+      "medieval",
+      "archaeology",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "pskov-trigorskoye",
+    "slug": "trigorskoye",
+    "region": "pskov",
+    "region_name_vi": "Tỉnh Pskov",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Điền trang Trigorskoye (Musei-usadba Trigorskoye, đọc: Tri-goóc-xcô-i-e)",
+    "name_ru": "Тригорское",
+    "name_en": "Trigorskoye Estate",
+    "categories": [
+      "museum",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 57.055994,
+      "lon": 28.871492
+    },
+    "address_vi": "Bên sông Sorot, gần làng Pushkinskiye Gory, huyện Pushkinogorsky, tỉnh Pskov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Trigorskoye là điền trang của gia đình Osipov–Vulf, những người bạn thân của thi hào Pushkin và là 'ngôi nhà thứ hai' của ông trong những năm bị đày ở Mikhailovskoye. Ngôi nhà, khu vườn cổ với 'ghế Onegin' và 'con đường Tatyana' đã đi vào tiểu thuyết 'Yevgeny Onegin'.",
+    "presentation_long_vi": "Điền trang Trigorskoye (Тригорское) nằm trên ba ngọn đồi bên sông Sorot, thuộc Khu bảo tồn Quốc gia Pushkin ở huyện Pushkinogorsky. Đây là dinh thự của gia đình địa chủ Osipov–Vulf – bạn thân của Aleksandr Pushkin, nơi thi hào thường lui tới trong thời gian bị quản thúc tại Mikhailovskoye gần đó. Không khí ấm cúng, hiếu khách của gia đình cùng những cô con gái tài hoa đã trở thành nguồn cảm hứng để Pushkin xây dựng nhiều nhân vật trong tiểu thuyết thơ 'Yevgeny Onegin' – người ta tin rằng Tatyana Larina mang bóng dáng các thiếu nữ nơi đây. Ngôi nhà gỗ dài đặc trưng được phục dựng thành bảo tàng, tái hiện đời sống quý tộc điền viên thế kỷ 19. Khu công viên lãng mạn trải trên các sườn đồi giữ những địa danh gắn với văn chương: 'ghế Onegin' bên vách sông, 'con đường Tatyana', đồng hồ mặt trời bằng cây xanh và 'cây sồi cô đơn'. Dạo bước ở Trigorskoye, du khách như sống lại thế giới trữ tình trong thơ Pushkin.",
+    "highlights_vi": [
+      "Nhà của gia đình Osipov–Vulf – bạn thân Pushkin, nguyên mẫu nhân vật 'Onegin'.",
+      "Công viên lãng mạn với 'ghế Onegin', 'con đường Tatyana', đồng hồ mặt trời cây xanh.",
+      "Nằm trên ba ngọn đồi bên sông Sorot, cạnh thành cổ Voronich."
+    ],
+    "practical": {
+      "hours_vi": "Nhà bảo tàng mở khoảng 10:00–18:00 (quầy vé 10:30–17:30), thường nghỉ một ngày trong tuần và ngày vệ sinh; công viên mở rộng hơn.",
+      "ticket_vi": "Vé vào nhà bảo tàng khoảng 200–350 ₽; dạo công viên vé riêng/miễn phí tuỳ thời điểm.",
+      "duration_vi": "Khoảng 1,5–2 giờ cả nhà và công viên.",
+      "best_time_vi": "Cuối xuân đến đầu thu khi công viên xanh mướt.",
+      "tips_vi": "Cách trung tâm Pushkinskiye Gory khoảng 5 km; kết hợp Mikhailovskoye, Voronich và mộ Pushkin trong ngày."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A2%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B5&ll=28.871492,57.055994&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Trigorskoye%20Estate%2C%20Pskov%2C%20Russia"
+    },
+    "official_site": "https://pushkinland.ru/",
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Тригорское",
+        "url": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B5"
+      },
+      {
+        "title": "2ГИС — Музей-усадьба Осиповых и Вульфов Тригорское",
+        "url": "https://2gis.ru/firm/70000001045900671"
+      }
+    ],
+    "tags": [
+      "pushkin",
+      "estate",
+      "literature",
+      "park",
+      "museum"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "pskov-petrovskoye",
+    "slug": "petrovskoye",
+    "region": "pskov",
+    "region_name_vi": "Tỉnh Pskov",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Điền trang Petrovskoye (Musei-usadba Petrovskoye, đọc: Pi-tơ-rốp-xcô-i-e)",
+    "name_ru": "Петровское",
+    "name_en": "Petrovskoye Estate",
+    "categories": [
+      "museum",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 57.078785,
+      "lon": 28.950057
+    },
+    "address_vi": "Làng Petrovskoye, bờ bắc hồ Kuchane, huyện Pushkinogorsky, tỉnh Pskov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Petrovskoye là điền trang tổ tiên của dòng họ Gannibal – gia tộc của cụ cố Pushkin, tướng quân Abram Gannibal, 'người Moor của Pyotr Đại đế'. Ngôi nhà quý tộc và công viên cổ bên hồ Kuchane tái hiện cội nguồn châu Phi độc đáo của thi hào.",
+    "presentation_long_vi": "Điền trang Petrovskoye (Петровское) nằm trên bờ bắc hồ Kuchane, đối diện Mikhailovskoye ở bờ nam. Vùng đất này được nữ hoàng Elizaveta ban cho Abram Petrovich Gannibal năm 1742 – vị tướng gốc Phi, con nuôi và cận thần của Pyotr Đại đế, cụ cố của Pushkin; điền trang mang tên 'Petrovskoye' để tôn vinh vị hoàng đế bảo trợ. Sau này nơi đây thuộc về Pyotr Gannibal, ông chú của thi hào, người Pushkin thường ghé thăm. Ngày nay bảo tàng phục dựng ngôi nhà của Pyotr Gannibal và ngôi nhà nhỏ của Abram Gannibal, trưng bày kỷ vật gia tộc và tái hiện không gian điền viên thế kỷ 18–19. Điểm nhấn là công viên kiểu Pháp rộng khoảng 9 ha với những hàng đoan (cây bồ đề) cổ thụ, 'phòng xanh' giữa vòm lá, hồ Gannibal và đình - động (grotto) bên hồ Kuchane. Petrovskoye kể câu chuyện về gốc gác châu Phi kỳ lạ của Pushkin và nếp sống quý tộc Nga xưa.",
+    "highlights_vi": [
+      "Điền trang tổ tiên dòng họ Gannibal – cội nguồn của cụ cố Pushkin, tướng Abram Gannibal.",
+      "Nhà Pyotr và Abram Gannibal được phục dựng, trưng bày kỷ vật gia tộc.",
+      "Công viên kiểu Pháp 9 ha với hàng đoan cổ, 'phòng xanh' và đình - động bên hồ Kuchane."
+    ],
+    "practical": {
+      "hours_vi": "Bảo tàng mở khoảng 10:00–18:00 (quầy vé 10:30–17:30), nghỉ một ngày trong tuần và ngày vệ sinh.",
+      "ticket_vi": "Vé vào nhà bảo tàng khoảng 200–350 ₽; dạo công viên vé riêng/miễn phí tuỳ thời điểm.",
+      "duration_vi": "Khoảng 1,5–2 giờ.",
+      "best_time_vi": "Cuối xuân đến đầu thu; công viên đẹp nhất khi cây lá xanh.",
+      "tips_vi": "Cách Pushkinskiye Gory khoảng 9 km; kết hợp Mikhailovskoye ở bờ đối diện hồ."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B5&ll=28.950057,57.078785&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Petrovskoye%20Estate%2C%20Pskov%2C%20Russia"
+    },
+    "official_site": "https://pushkinland.ru/",
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Петровское (Пушкиногорский район)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B5_%28%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%29"
+      },
+      {
+        "title": "2ГИС — Петровское, музей-усадьба",
+        "url": "https://2gis.ru/firm/70000001045894621"
+      }
+    ],
+    "tags": [
+      "pushkin",
+      "gannibal",
+      "estate",
+      "park",
+      "museum"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "pskov-bugrovo",
+    "slug": "bugrovo",
+    "region": "pskov",
+    "region_name_vi": "Tỉnh Pskov",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Bảo tàng 'Làng quê Pushkin' và Cối xay Bugrovo (Pushkinskaya derevnya, đọc: Búc-rô-vô)",
+    "name_ru": "Бугрово (Пушкинская деревня, водяная мельница)",
+    "name_en": "Bugrovo (Pushkin Village & Water Mill)",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 57.0417,
+      "lon": 28.9133
+    },
+    "address_vi": "Làng Bugrovo, giữa Mikhailovskoye và tu viện Svyatogorsky, huyện Pushkinogorsky, tỉnh Pskov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bugrovo là bảo tàng ngoài trời tái hiện một ngôi làng nông dân đúng thời Pushkin, đi kèm cối xay nước còn hoạt động bên sông Luchka. Đây là bảo tàng kiến trúc gỗ ngoài trời duy nhất của tỉnh Pskov.",
+    "presentation_long_vi": "Cụm bảo tàng Bugrovo (Бугрово) nằm trên đường giữa điền trang Mikhailovskoye và tu viện Svyatogorsky, thuộc Khu bảo tồn Pushkin. Tại đây, 'Làng quê Pushkin' (Пушкинская деревня) được dựng lại đúng diện mạo một xóm nông dân thế kỷ 19: nhà gỗ với gian đen (izba) và buồng khách, sân trong, kho thóc, chuồng ngựa, nhà tắm hơi (banya), sân đập lúa và lò sấy – bảo tàng kiến trúc gỗ ngoài trời duy nhất của vùng. Bên cạnh là Cối xay nước Bugrovo trên sông Luchka: sau khi các thợ phục chế tặng khung cối gỗ, bảo tàng cối xay mở cửa năm 1986 và tới 2007 được khôi phục thành cối xay vận hành thật, cuối tuần vẫn quay bánh xe nước xay bột. Pushkin từng đi qua và quan sát nếp sống nơi đây; hình ảnh cối xay và làng quê đã in dấu trong sáng tác của ông. Với các tour hoá trang, chương trình 'Pushkin làng quê' và lễ hội dân gian, Bugrovo mang lại trải nghiệm sống động về đời sống nông thôn Nga xưa.",
+    "highlights_vi": [
+      "Bảo tàng kiến trúc gỗ ngoài trời DUY NHẤT của tỉnh Pskov – tái hiện làng nông dân thế kỷ 19.",
+      "Cối xay nước còn vận hành thật trên sông Luchka, cuối tuần quay bánh xe xay bột.",
+      "Nằm giữa Mikhailovskoye và tu viện Svyatogorsky, gắn với sáng tác của Pushkin."
+    ],
+    "practical": {
+      "hours_vi": "Mở khoảng 10:00–18:00; cối xay thường vận hành vào cuối tuần và ngày lễ.",
+      "ticket_vi": "Vé mỗi bảo tàng khoảng 150–250 ₽; có vé gộp và tour hoá trang.",
+      "duration_vi": "Khoảng 1–1,5 giờ.",
+      "best_time_vi": "Cuối tuần để xem cối xay hoạt động; mùa hè và đầu thu.",
+      "tips_vi": "Kết hợp trên tuyến đi bộ/xe giữa Mikhailovskoye và mộ Pushkin ở Svyatogorsky."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%91%D1%83%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%20%28%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BD%D1%8F%2C%20%D0%B2%D0%BE%D0%B4%D1%8F%D0%BD%D0%B0%D1%8F%20%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D0%B0%29&ll=28.9133,57.0417&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Bugrovo%20%28Pushkin%20Village%20%26%20Water%20Mill%29%2C%20Pskov%2C%20Russia"
+    },
+    "official_site": "https://pushkinland.ru/",
+    "sources": [
+      {
+        "title": "Bảo tàng - Khu bảo tồn Pushkin (pushkinland.ru)",
+        "url": "https://pushkinland.ru/2018/reserve/res4.php"
+      },
+      {
+        "title": "Museum.ru — Музей-мельница в д. Бугрово",
+        "url": "https://www.museum.ru/M800"
+      }
+    ],
+    "tags": [
+      "pushkin",
+      "open-air-museum",
+      "watermill",
+      "folk",
+      "museum"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "pskov-voronich",
+    "slug": "voronich",
+    "region": "pskov",
+    "region_name_vi": "Tỉnh Pskov",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Thành cổ Voronich (Gorodishche Voronich, đọc: Va-rô-nhích)",
+    "name_ru": "Городище Воронич",
+    "name_en": "Voronich Hillfort",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 57.055113,
+      "lon": 28.875214
+    },
+    "address_vi": "Bên điền trang Trigorskoye, gần làng Pushkinskiye Gory, huyện Pushkinogorsky, tỉnh Pskov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Voronich là thành lũy cổ thế kỷ 14–16, từng là một trong những tiền đồn lớn của vùng đất Pskov với hàng trăm nóc nhà và nhiều nhà thờ. Nay trên gò đất còn nhà thờ Thánh Georgy và khu mộ gia đình Osipov–Vulf mà Pushkin từng đưa tang.",
+    "presentation_long_vi": "Thành cổ Voronich (Городище Воронич) tọa lạc trên một gò đất cao ngay cạnh điền trang Trigorskoye. Vào thế kỷ 14–16, đây là một trong những pháo đài tiền tiêu quan trọng ở biên giới tây nam của vùng đất Pskov, canh giữ con đường tới Litva và Livonia. Biên niên sử ghi rằng thời hưng thịnh, khu định cư quanh thành có tới 400 nóc nhà và nhiều nhà thờ, xưởng thủ công. Các cuộc chiến tranh Livonia đã tàn phá Voronich, để lại lũy đất và hào là dấu tích chính. Ngày nay trên gò còn ngôi nhà thờ Thánh Georgy (được phục dựng) cùng khu nghĩa trang gia đình Osipov–Vulf; chính tại đây Pushkin đã tiễn đưa những người thân của gia đình bạn. Từ đỉnh Voronich, du khách phóng tầm mắt ra sông Sorot, Trigorskoye và cả vùng đồi Pushkin thơ mộng – một điểm dừng giàu chất sử thi và văn chương.",
+    "highlights_vi": [
+      "Pháo đài tiền tiêu thế kỷ 14–16 của Pskov, thời thịnh có tới 400 nóc nhà.",
+      "Nhà thờ Thánh Georgy và khu mộ gia đình Osipov–Vulf gắn với Pushkin.",
+      "Điểm ngắm toàn cảnh sông Sorot, Trigorskoye và vùng đồi Pushkin."
+    ],
+    "practical": {
+      "hours_vi": "Khu di tích ngoài trời mở tự do cả ngày; nhà thờ mở theo giờ lễ.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 30–45 phút.",
+      "best_time_vi": "Cuối xuân đến đầu thu; hoàng hôn nhìn ra sông Sorot rất đẹp.",
+      "tips_vi": "Nằm ngay cạnh Trigorskoye, đi bộ vài phút; mang giày phù hợp lên gò."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%89%D0%B5%20%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B8%D1%87&ll=28.875214,57.055113&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Voronich%20Hillfort%2C%20Pskov%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Воронич",
+        "url": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B8%D1%87"
+      },
+      {
+        "title": "Dslov.ru — Городище Воронич (координаты)",
+        "url": "https://dslov.ru/geo/201/g201_7.htm"
+      }
+    ],
+    "tags": [
+      "pushkin",
+      "hillfort",
+      "medieval",
+      "archaeology",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "pskov-ostrov-chain-bridges",
+    "slug": "ostrov-chain-bridges",
+    "region": "pskov",
+    "region_name_vi": "Tỉnh Pskov",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Cầu xích Ostrov (Tsepnye mosty, đọc: Xép-nư-e Mô-xtư)",
+    "name_ru": "Цепные мосты (Остров)",
+    "name_en": "Ostrov Chain Bridges",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 57.341332,
+      "lon": 28.338389
+    },
+    "address_vi": "Bắc qua sông Velikaya, nối vào đảo giữa sông, trung tâm thị trấn Ostrov, tỉnh Pskov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Cầu xích Ostrov là hai cây cầu treo bằng xích sắt xây năm 1853 bắc qua sông Velikaya – những cây cầu treo giao thông giữa thế kỷ 19 duy nhất còn lại ở Nga. Chúng nối hai bờ với hòn đảo giữa sông, nơi có nhà thờ Thánh Nikolai cổ.",
+    "presentation_long_vi": "Cầu xích Ostrov (Островские цепные мосты) là một di sản kỹ thuật độc đáo bắc qua sông Velikaya ngay giữa thị trấn Ostrov. Được khánh thành năm 1853 theo thiết kế của kỹ sư đại úy M. Ya. Krasnopolsky, đây là hệ hai cây cầu treo bằng xích sắt – công trình cầu treo giao thông giữa thế kỷ 19 duy nhất còn được bảo tồn trên toàn nước Nga. Trước khi có cầu, việc qua sông phải nhờ phà và cầu gỗ tạm thường bị lũ cuốn; hai nhịp cầu xích đã nối hai bờ với hòn đảo nhỏ giữa dòng, nơi tọa lạc nhà thờ Thánh Nikolai (thế kỷ 16). Với những trụ đá, dây xích võng duyên dáng và vị trí thơ mộng bên đảo, cây cầu là biểu tượng của thị trấn Ostrov. Sau khi có đường tránh, cầu chuyển thành cầu đi bộ; buổi tối được chiếu sáng lung linh, thu hút du khách tới dạo bộ và chụp ảnh.",
+    "highlights_vi": [
+      "Cầu treo xích giao thông giữa thế kỷ 19 DUY NHẤT còn lại ở Nga (khánh thành 1853).",
+      "Nối hai bờ Velikaya với đảo giữa sông có nhà thờ Thánh Nikolai thế kỷ 16.",
+      "Biểu tượng thị trấn Ostrov, nay là cầu đi bộ, buổi tối được chiếu sáng."
+    ],
+    "practical": {
+      "hours_vi": "Cầu đi bộ mở tự do cả ngày.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 30–45 phút (gồm đảo và nhà thờ).",
+      "best_time_vi": "Chiều tà và buổi tối khi cầu được chiếu sáng; mùa hè.",
+      "tips_vi": "Cách Pskov khoảng 55 km về phía nam; kết hợp bảo tàng lịch sử địa phương ở Ostrov."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A6%D0%B5%D0%BF%D0%BD%D1%8B%D0%B5%20%D0%BC%D0%BE%D1%81%D1%82%D1%8B%20%28%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%29&ll=28.338389,57.341332&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Ostrov%20Chain%20Bridges%2C%20Pskov%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Цепные мосты (Остров)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B5%D0%BF%D0%BD%D1%8B%D0%B5_%D0%BC%D0%BE%D1%81%D1%82%D1%8B_%28%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%29"
+      },
+      {
+        "title": "Яндекс Карты — Цепной мост через р. Великая",
+        "url": "https://yandex.com/maps/org/chain_bridge_over_the_river_velikaya_1851_1853/7774834941/"
+      }
+    ],
+    "tags": [
+      "bridge",
+      "suspension",
+      "19th-century",
+      "engineering",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "pskov-pogankiny-palaty",
+    "slug": "pogankiny-palaty",
+    "region": "pskov",
+    "region_name_vi": "Tỉnh Pskov",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Cung thất Pogankiny (Pogankiny palaty, đọc: Pa-gan-ki-nư Pa-la-tư)",
+    "name_ru": "Поганкины палаты",
+    "name_en": "Pogankin Chambers",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 57.811351,
+      "lon": 28.337468
+    },
+    "address_vi": "Phố Nekrasova 5–7, trung tâm lịch sử thành phố Pskov, tỉnh Pskov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Pogankiny palaty là toà cung thất bằng đá của thương gia giàu có Sergey Pogankin, xây giữa thế kỷ 17 với tường dày như pháo đài. Đây là gian trưng bày trung tâm của Bảo tàng - Khu bảo tồn Pskov, lưu giữ bộ sưu tập icon trường phái Pskov và kho báu bạc.",
+    "presentation_long_vi": "Cung thất Pogankiny (Поганкины палаты) là một trong những công trình dân dụng bằng đá tiêu biểu nhất còn lại của nước Nga thế kỷ 17. Toà nhà được thương gia giàu có Sergey Pogankin cho xây giữa thế kỷ 17, vừa để ở vừa làm kho hàng và xưởng, với những bức tường đá vôi dày tới hai mét khiến nó trông chẳng khác gì một pháo đài thu nhỏ. Đầu thế kỷ 20, toà nhà được giao cho bảo tàng của Hội Khảo cổ Pskov và tới nay là gian trưng bày trung tâm của Bảo tàng - Khu bảo tồn Pskov. Bên trong lưu giữ những báu vật quý giá: bộ sưu tập icon (ảnh thánh) trường phái Pskov nổi tiếng với gam màu và bố cục riêng biệt, kho bạc - vàng của các nhà thờ, tài liệu và hiện vật khảo cổ về lịch sử ngàn năm của thành phố. Không gian vòm gạch dày, cửa sổ nhỏ và cầu thang đá tạo nên bầu không khí trung cổ đậm đặc, đưa du khách ngược dòng thời gian.",
+    "highlights_vi": [
+      "Cung thất đá của thương gia Pogankin, giữa thế kỷ 17, tường dày như pháo đài.",
+      "Gian trưng bày trung tâm của Bảo tàng - Khu bảo tồn Pskov.",
+      "Bộ sưu tập icon trường phái Pskov và kho bạc - vàng quý giá."
+    ],
+    "practical": {
+      "hours_vi": "Thường mở 11:00–18:00, nghỉ thứ Hai và ngày vệ sinh; nên kiểm tra tại museumpskov.ru.",
+      "ticket_vi": "Vé khoảng 200–400 ₽ tuỳ gian trưng bày; có vé gộp cả cụm bảo tàng.",
+      "duration_vi": "Khoảng 1–1,5 giờ.",
+      "best_time_vi": "Quanh năm; là điểm trong nhà lý tưởng cho ngày mưa/lạnh.",
+      "tips_vi": "Kết hợp với Nhà trưng bày tranh và các gian khác của bảo tàng ngay gần đó."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%BE%D0%B3%D0%B0%D0%BD%D0%BA%D0%B8%D0%BD%D1%8B%20%D0%BF%D0%B0%D0%BB%D0%B0%D1%82%D1%8B&ll=28.337468,57.811351&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Pogankin%20Chambers%2C%20Pskov%2C%20Russia"
+    },
+    "official_site": "https://museumpskov.ru/",
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Поганкины палаты",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B3%D0%B0%D0%BD%D0%BA%D0%B8%D0%BD%D1%8B_%D0%BF%D0%B0%D0%BB%D0%B0%D1%82%D1%8B"
+      },
+      {
+        "title": "2ГИС — Поганкины палаты, улица Некрасова",
+        "url": "https://2gis.ru/pskov/firm/70000001101050883"
+      }
+    ],
+    "tags": [
+      "museum",
+      "17th-century",
+      "merchant",
+      "icon",
+      "pskov-school"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "pskov-pskov-drama-theatre",
+    "slug": "pskov-drama-theatre",
+    "region": "pskov",
+    "region_name_vi": "Tỉnh Pskov",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Nhà hát Kịch Pskov mang tên Pushkin (Teatr dramy im. Pushkina, đọc: Chi-át-tơ Đra-mư)",
+    "name_ru": "Псковский академический театр драмы имени А. С. Пушкина",
+    "name_en": "Pskov Academic Drama Theatre named after A. S. Pushkin",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 57.817057,
+      "lon": 28.339546
+    },
+    "address_vi": "Phố Pushkina 13, trung tâm thành phố Pskov, tỉnh Pskov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhà hát Kịch Pskov mang tên Pushkin khai màn mùa diễn đầu tiên năm 1906 trong toà nhà lịch sử của thành phố. Từ năm 2021, nhà hát trở thành chi nhánh của Nhà hát Kịch Quốc gia Nga (Aleksandrinsky).",
+    "presentation_long_vi": "Nhà hát Kịch Hàn lâm Pskov mang tên A. S. Pushkin (Псковский академический театр драмы имени А. С. Пушкина) là trung tâm sân khấu lâu đời và quan trọng bậc nhất của tỉnh. Toà nhà nhà hát trên phố Pushkina khánh thành và khai màn mùa diễn đầu tiên vào ngày 4 tháng 4 năm 1906, gắn bó với đời sống văn hoá thành phố suốt hơn một thế kỷ. Sau đợt trùng tu lớn, công trình lấy lại vẻ đẹp cổ điển với khán phòng trang nhã và trở thành không gian biểu diễn hiện đại. Từ ngày 1 tháng 1 năm 2021, nhà hát nhận quy chế chi nhánh của Nhà hát Kịch Quốc gia Nga – tức Nhà hát Aleksandrinsky danh giá ở Sankt-Peterburg, nâng tầm chương trình nghệ thuật và các liên hoan sân khấu tổ chức tại đây. Với các vở kịch cổ điển Nga và đương đại, nhà hát là điểm đến hấp dẫn cho du khách muốn trải nghiệm đời sống văn hoá đương đại của Pskov.",
+    "highlights_vi": [
+      "Toà nhà nhà hát khai màn mùa diễn đầu tiên năm 1906.",
+      "Từ 2021 là chi nhánh của Nhà hát Kịch Quốc gia Nga (Aleksandrinsky).",
+      "Sân khấu cổ điển và đương đại giữa trung tâm phố Pushkina."
+    ],
+    "practical": {
+      "hours_vi": "Biểu diễn thường vào buổi tối; phòng vé mở ban ngày. Xem lịch tại drampush.ru.",
+      "ticket_vi": "Giá vé tuỳ vở, khoảng 300–1000 ₽.",
+      "duration_vi": "Một buổi diễn khoảng 2–3 giờ.",
+      "best_time_vi": "Quanh năm theo mùa diễn (thu – xuân sôi động nhất).",
+      "tips_vi": "Đặt vé trước cho các vở nổi bật; đến sớm để tham quan sảnh và kiến trúc."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D1%82%D0%B5%D0%B0%D1%82%D1%80%20%D0%B4%D1%80%D0%B0%D0%BC%D1%8B%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%20%D0%90.%20%D0%A1.%20%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0&ll=28.339546,57.817057&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Pskov%20Academic%20Drama%20Theatre%20named%20after%20A.%20S.%20Pushkin%2C%20Russia"
+    },
+    "official_site": "https://drampush.ru/",
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Псковский академический театр драмы имени А. С. Пушкина",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D0%B4%D1%80%D0%B0%D0%BC%D1%8B_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%90._%D0%A1._%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0"
+      },
+      {
+        "title": "2ГИС — Псковский театр драмы им. А.С. Пушкина, ул. Пушкина, 13",
+        "url": "https://2gis.ru/pskov/firm/12666902232961255"
+      }
+    ],
+    "tags": [
+      "theatre",
+      "culture",
+      "architecture",
+      "performing-arts",
+      "pushkin"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "pskov-two-captains-monument",
+    "slug": "two-captains-monument",
+    "region": "pskov",
+    "region_name_vi": "Tỉnh Pskov",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Tượng đài 'Hai thuyền trưởng' (Pamyatnik 'Dva kapitana', đọc: Đva Ca-pi-ta-na)",
+    "name_ru": "Памятник «Два капитана»",
+    "name_en": "Two Captains Monument",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 57.813934,
+      "lon": 28.33766
+    },
+    "address_vi": "Đại lộ Oktyabrsky 7a, trước Thư viện Thiếu nhi mang tên Kaverin, thành phố Pskov, tỉnh Pskov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Tượng đài 'Hai thuyền trưởng' dựng năm 1995 tôn vinh các nhân vật trong tiểu thuyết cùng tên của nhà văn Veniamin Kaverin – người con của Pskov. Bên cạnh là bảo tàng nhỏ dành cho cuốn sách và phương châm bất hủ 'Đấu tranh và tìm kiếm, tìm ra và không bỏ cuộc'.",
+    "presentation_long_vi": "Tượng đài 'Hai thuyền trưởng' (Памятник «Два капитана») đứng trong khu vườn nhỏ trước Thư viện Thiếu nhi tỉnh Pskov mang tên Veniamin Kaverin – nhà văn sinh ra tại Pskov, tác giả tiểu thuyết phiêu lưu nổi tiếng 'Hai thuyền trưởng'. Tác phẩm điêu khắc do hai nhà điêu khắc Sankt-Peterburg M. Belov và A. Ananyev thực hiện, khánh thành ngày 22 tháng 7 năm 1995. Tượng khắc họa hai nhân vật chính: thuyền trưởng Ivan Tatarinov (mang dáng dấp nhà thám hiểm địa cực) như đang bước ra từ khối băng, và chàng phi công trẻ Sanya Grigoryev – hình ảnh chàng trai Pskov quả cảm. Chính Kaverin khi xem phác thảo đã tâm đắc rằng tượng đài truyền tải trọn vẹn nội dung và lý tưởng đạo đức của cuốn sách. Bên trong thư viện có bảo tàng nhỏ giới thiệu về tác giả và tiểu thuyết. Tượng đài gắn với phương châm sống nổi tiếng của tác phẩm: 'Đấu tranh và tìm kiếm, tìm ra và không bỏ cuộc', trở thành điểm đến yêu thích của người yêu văn học.",
+    "highlights_vi": [
+      "Tôn vinh tiểu thuyết 'Hai thuyền trưởng' của Kaverin – nhà văn sinh tại Pskov (1995).",
+      "Hai nhân vật Tatarinov và Grigoryev trong tư thế đang bước đi đầy sinh động.",
+      "Gắn với phương châm 'Đấu tranh và tìm kiếm, tìm ra và không bỏ cuộc'; kề bảo tàng nhỏ."
+    ],
+    "practical": {
+      "hours_vi": "Tượng ngoài trời tham quan tự do cả ngày; bảo tàng trong thư viện có giờ riêng.",
+      "ticket_vi": "Ngắm tượng miễn phí; bảo tàng thu phí tượng trưng.",
+      "duration_vi": "Khoảng 15–30 phút.",
+      "best_time_vi": "Quanh năm; đẹp khi có ánh nắng.",
+      "tips_vi": "Ở trung tâm, gần Nhà hát kịch và bảo tàng; hợp kết hợp dạo phố Oktyabrsky."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%C2%AB%D0%94%D0%B2%D0%B0%20%D0%BA%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B0%C2%BB&ll=28.33766,57.813934&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Two%20Captains%20Monument%2C%20Pskov%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Два капитана (памятник)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%94%D0%B2%D0%B0_%D0%BA%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B0_%28%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%29"
+      },
+      {
+        "title": "2ГИС — Два капитана, музей, Октябрьский проспект, 7а",
+        "url": "https://2gis.ru/pskov/firm/70000001062262928"
+      }
+    ],
+    "tags": [
+      "monument",
+      "literature",
+      "kaverin",
+      "culture",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "pskov-dovlatov-museum",
+    "slug": "dovlatov-museum",
+    "region": "pskov",
+    "region_name_vi": "Tỉnh Pskov",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Nhà - Bảo tàng Sergei Dovlatov ở Berezino (Dom-muzei Dovlatova, đọc: Đáp-la-tô-va)",
+    "name_ru": "Дом-музей Сергея Довлатова",
+    "name_en": "Sergei Dovlatov House-Museum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 57.042344,
+      "lon": 28.927616
+    },
+    "address_vi": "Làng Berezino, gần Mikhailovskoye, huyện Pushkinogorsky, tỉnh Pskov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Ngôi nhà gỗ ở Berezino là nơi nhà văn Sergei Dovlatov trọ khi làm hướng dẫn viên tại Khu bảo tồn Pushkin những năm 1970, và trở thành bối cảnh cho truyện vừa trào phúng 'Khu bảo tồn'. Bảo tàng khai trương năm 2014, tái hiện không gian sống mộc mạc của ông.",
+    "presentation_long_vi": "Nhà - Bảo tàng Sergei Dovlatov (Дом-музей Сергея Довлатова) nằm trong ngôi làng nhỏ Berezino, cách điền trang Mikhailovskoye không xa. Vào giữa những năm 1970, nhà văn Sergei Dovlatov – một trong những cây bút được yêu thích nhất của văn học Nga thế kỷ 20 – từng thuê trọ trong căn nhà gỗ xiêu vẹo này khi làm hướng dẫn viên du lịch tại Khu bảo tồn Pushkin. Trải nghiệm đó đã trở thành chất liệu cho truyện vừa trào phúng 'Khu bảo tồn' (Заповедник), một tác phẩm vừa hài hước vừa cay đắng về đời sống trí thức Xô Viết. Bảo tàng mở cửa năm 2014, cố tình giữ nguyên vẻ tuềnh toàng, cũ kỹ của ngôi nhà để trung thành với tinh thần văn chương Dovlatov: nền nhà nghiêng, đồ đạc đơn sơ, những chi tiết đời thường được mô tả trong truyện. Đây là điểm đến độc đáo cho những ai yêu văn học, muốn khám phá một lát cắt khác của vùng đất Pushkin – nơi tiếng cười và nỗi buồn của thời Xô Viết cùng hiện diện.",
+    "highlights_vi": [
+      "Nơi Dovlatov trọ khi làm hướng dẫn viên ở Khu bảo tồn Pushkin (thập niên 1970).",
+      "Bối cảnh của truyện vừa trào phúng 'Khu bảo tồn' (Заповедник).",
+      "Bảo tàng (mở 2014) giữ nguyên vẻ mộc mạc, cũ kỹ đúng tinh thần văn chương."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa ban ngày theo giờ bảo tàng; nên hỏi trước lịch (thường nghỉ đầu tuần).",
+      "ticket_vi": "Vé tham quan khoảng 100–200 ₽.",
+      "duration_vi": "Khoảng 30–45 phút.",
+      "best_time_vi": "Mùa hè và đầu thu thuận tiện; đường làng.",
+      "tips_vi": "Kết hợp cụm điền trang Pushkin (Mikhailovskoye, Trigorskoye) trong cùng chuyến."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%94%D0%BE%D0%BC-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%20%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D1%8F%20%D0%94%D0%BE%D0%B2%D0%BB%D0%B0%D1%82%D0%BE%D0%B2%D0%B0&ll=28.927616,57.042344&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Sergei%20Dovlatov%20House-Museum%2C%20Pskov%2C%20Russia"
+    },
+    "official_site": "https://dovlatovland.ru/",
+    "sources": [
+      {
+        "title": "Dslov.ru — Дом-музей Сергея Довлатова (Берёзино)",
+        "url": "https://dslov.ru/geo/201/g201_3.htm"
+      },
+      {
+        "title": "Dovlatovland — официальный сайт",
+        "url": "https://dovlatovland.ru/"
+      }
+    ],
+    "tags": [
+      "dovlatov",
+      "literature",
+      "soviet",
+      "museum",
+      "pushkin-hills"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "pskov-vasily-na-gorke-church",
+    "slug": "vasily-na-gorke-church",
+    "region": "pskov",
+    "region_name_vi": "Tỉnh Pskov",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Nhà thờ Thánh Vasily trên Đồi (Церковь Василия на Горке, đọc: Xéc-cốp Va-xi-li-a na Goóc-ke)",
+    "name_ru": "Церковь Василия на Горке",
+    "name_en": "Church of St. Basil on the Hill",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 57.815257,
+      "lon": 28.335757
+    },
+    "address_vi": "Phố Oktyabrsky Prospekt, gần quảng trường trung tâm, thành phố Pskov, tỉnh Pskov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Ngôi nhà thờ đá trắng thế kỷ 15 dựng trên một gò đất giữa lòng phố cổ Pskov, tiêu biểu cho trường phái kiến trúc Pskov với vòm đơn, mái đầu hồi và tháp chuông tường (zvonnitsa). Đây là một trong các đền thuộc cụm Di sản UNESCO.",
+    "presentation_long_vi": "Nhà thờ Thánh Vasily trên Đồi (Церковь Василия на Горке) được dựng khoảng đầu thế kỷ 15 (bản hiện tồn có từ năm 1413) trên một ngọn đồi nhỏ ngay trung tâm lịch sử Pskov, xưa nằm sát tuyến hào và tường thành. Công trình là ví dụ điển hình của trường phái kiến trúc Pskov: khối đá vôi trát vôi trắng, một vòm mái duy nhất, các mái đầu hồi hình bán nguyệt và một tháp chuông tường mộc mạc gắn liền. Sự giản dị, cân đối và cảm giác 'chạm tay nặn nên' của các bức tường dày là nét quyến rũ đặc trưng khiến kiến trúc Pskov được ngưỡng mộ. Ngôi đền từng đóng vai trò báo động: chuông của nó vang lên cảnh báo dân thành khi quân địch áp sát. Năm 2019, nhà thờ được ghi danh vào Danh sách Di sản Thế giới UNESCO trong cụm 'Đền đài trường phái kiến trúc Pskov'. Nằm ngay trục phố chính, đây là điểm dừng thuận tiện khi dạo bộ khám phá trung tâm cổ.",
+    "highlights_vi": [
+      "Kiến trúc Pskov điển hình: đá trắng, một vòm mái, mái đầu hồi và tháp chuông tường",
+      "Nằm trên gò đất giữa trung tâm phố cổ, gắn với tuyến phòng thủ xưa",
+      "Thuộc cụm Di sản Thế giới UNESCO 'Đền đài trường phái Pskov' (2019)"
+    ],
+    "practical": {
+      "hours_vi": "Mở theo giờ lễ, thường buổi sáng và chiều tối; ngoài giờ lễ có thể chỉ xem bên ngoài.",
+      "ticket_vi": "Vào tự do (khuyến khích quyên góp).",
+      "duration_vi": "Khoảng 20-40 phút.",
+      "best_time_vi": "Buổi sáng sớm hoặc chiều muộn khi ánh sáng làm nổi bật khối đá trắng.",
+      "tips_vi": "Kết hợp đi bộ tham quan các nhà thờ cổ khác trong trung tâm; ăn mặc kín đáo khi vào lễ."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C%20%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%8F%20%D0%BD%D0%B0%20%D0%93%D0%BE%D1%80%D0%BA%D0%B5&ll=28.335757,57.815257&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Church%20of%20St.%20Basil%20on%20the%20Hill%2C%20Pskov%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Церковь Василия на Горке",
+        "url": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%8F_%D0%BD%D0%B0_%D0%93%D0%BE%D1%80%D0%BA%D0%B5_%28%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%29"
+      }
+    ],
+    "tags": [
+      "unesco",
+      "church",
+      "pskov-school",
+      "medieval",
+      "orthodox",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "pskov-epiphany-zapskovye-church",
+    "slug": "epiphany-zapskovye-church",
+    "region": "pskov",
+    "region_name_vi": "Tỉnh Pskov",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Nhà thờ Chúa Hiển Linh ở Zapskovye (Церковь Богоявления с Запсковья, đọc: ...Ba-ga-ia-vlê-ni-a...)",
+    "name_ru": "Церковь Богоявления с Запсковья",
+    "name_en": "Church of the Epiphany at Zapskovye",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 57.822778,
+      "lon": 28.338889
+    },
+    "address_vi": "Khu Zapskovye, bên tả ngạn sông Pskova, thành phố Pskov, tỉnh Pskov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Được xây năm 1496 bên bờ sông Pskova, nhà thờ Chúa Hiển Linh là một trong những công trình đẹp và hoàn chỉnh nhất của trường phái kiến trúc Pskov, với tháp chuông tường nhiều nhịp soi bóng xuống dòng nước. Nằm trong cụm Di sản UNESCO.",
+    "presentation_long_vi": "Nhà thờ Chúa Hiển Linh ở Zapskovye (Церковь Богоявления с Запсковья) dựng năm 1496 tại khu Zapskovye, ngay bên tả ngạn sông Pskova đối diện Điện Kremlin. Nhiều nhà nghiên cứu coi đây là đỉnh cao của kiến trúc Pskov: khối trung tâm bốn trụ với vòm mái vươn cao, bao quanh là các nguyện đường phụ và hiên, tất cả hợp thành một bố cục bất đối xứng mà vẫn hài hoà lạ thường. Điểm nhấn là tháp chuông tường (zvonnitsa) nhiều nhịp bề thế đặt trên bờ sông — hình ảnh từng làm say lòng danh hoạ Nikolai Roerich, người ca ngợi vẻ đẹp mộc mạc và sức biểu cảm của nó. Nhìn từ phía Kremlin qua sông, nhà thờ trắng với tháp chuông in bóng nước là một trong những khung cảnh biểu tượng của Pskov. Công trình nằm trong cụm 'Đền đài trường phái kiến trúc Pskov' được UNESCO ghi danh năm 2019.",
+    "highlights_vi": [
+      "Kiệt tác kiến trúc Pskov năm 1496 với tháp chuông tường nhiều nhịp bên sông Pskova",
+      "Khung cảnh biểu tượng nhìn từ Kremlin qua sông, từng được hoạ sĩ Roerich ngợi ca",
+      "Thuộc cụm Di sản Thế giới UNESCO (2019)"
+    ],
+    "practical": {
+      "hours_vi": "Mở theo giờ lễ; bên ngoài có thể ngắm và chụp ảnh mọi lúc.",
+      "ticket_vi": "Vào tự do (khuyến khích quyên góp).",
+      "duration_vi": "Khoảng 20-40 phút.",
+      "best_time_vi": "Chiều muộn để ngắm nhà thờ và tháp chuông phản chiếu trên sông Pskova.",
+      "tips_vi": "Ngắm đẹp nhất từ bờ kè phía Kremlin; kết hợp dạo khu Zapskovye và tháp Gremyachaya gần đó."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C%20%D0%91%D0%BE%D0%B3%D0%BE%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%81%20%D0%97%D0%B0%D0%BF%D1%81%D0%BA%D0%BE%D0%B2%D1%8C%D1%8F&ll=28.338889,57.822778&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Church%20of%20the%20Epiphany%20at%20Zapskovye%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Церковь Богоявления с Запсковья",
+        "url": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%91%D0%BE%D0%B3%D0%BE%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D1%81_%D0%97%D0%B0%D0%BF%D1%81%D0%BA%D0%BE%D0%B2%D1%8C%D1%8F"
+      }
+    ],
+    "tags": [
+      "unesco",
+      "church",
+      "pskov-school",
+      "medieval",
+      "river",
+      "orthodox"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "pskov-ivanovsky-cathedral",
+    "slug": "ivanovsky-cathedral",
+    "region": "pskov",
+    "region_name_vi": "Tỉnh Pskov",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Nhà thờ Sinh nhật Thánh Gioan Tẩy Giả (Собор Рождества Иоанна Предтечи, Ивановский, thế kỷ 12)",
+    "name_ru": "Собор Рождества Иоанна Предтечи",
+    "name_en": "Cathedral of the Nativity of St John the Baptist",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 57.825858,
+      "lon": 28.318141
+    },
+    "address_vi": "Khu Zavelichye, bờ tây sông Velikaya, thành phố Pskov, tỉnh Pskov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Một trong những công trình lâu đời nhất Pskov, nhà thờ chính toà của tu viện nữ Ivanovsky được dựng từ nửa đầu thế kỷ 12 theo lối Novgorod cổ, ba vòm mái đặc trưng và là nơi an nghỉ của các công nương Pskov.",
+    "presentation_long_vi": "Nhà thờ Sinh nhật Thánh Gioan Tẩy Giả (Собор Рождества Иоанна Предтечи) — quen gọi là nhà thờ Ivanovsky — được xây khoảng nửa đầu thế kỷ 12, thuộc hàng đền đá cổ nhất còn lại của Pskov và của cả miền tây bắc nước Nga. Khác với trường phái Pskov thanh mảnh về sau, công trình mang dáng dấp kiến trúc Novgorod – Kiev thời kỳ đầu: khối vuông vức, ba mái vòm nặng nề đặt trên các trụ tròn, tường đá vôi dày dặn toát lên vẻ trang nghiêm cổ sơ. Nhà thờ từng là trung tâm của một tu viện nữ và là nơi chôn cất nhiều công nương trong dòng dõi các hoàng thân Pskov, trong đó có công nương Efrosinia (Evpraksia). Trải qua gần chín thế kỷ, nhiều lần hư hại rồi trùng tu, ngôi đền vẫn giữ được cấu trúc gốc quý giá, là 'nhân chứng' hiếm hoi cho buổi bình minh của kiến trúc Chính thống giáo Nga. Nằm ở khu Zavelichye bên kia sông Velikaya, đây là điểm đến cho những ai muốn tìm về lớp lịch sử sâu nhất của Pskov.",
+    "highlights_vi": [
+      "Đền đá thế kỷ 12 — một trong những công trình cổ nhất Pskov còn tồn tại",
+      "Kiến trúc Novgorod – Kiev thời kỳ đầu với ba mái vòm nặng và trụ tròn",
+      "Nơi an nghỉ của các công nương trong dòng dõi hoàng thân Pskov"
+    ],
+    "practical": {
+      "hours_vi": "Mở theo giờ lễ; hiện là nhà thờ đang hoạt động.",
+      "ticket_vi": "Vào tự do (khuyến khích quyên góp).",
+      "duration_vi": "Khoảng 30 phút.",
+      "best_time_vi": "Ban ngày; kết hợp cụm điểm khu Zavelichye (gần Tu viện Mirozhsky).",
+      "tips_vi": "Ăn mặc kín đáo khi vào; đường tới hơi khuất, nên dùng bản đồ định vị."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%BE%D0%B1%D0%BE%D1%80%20%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%98%D0%BE%D0%B0%D0%BD%D0%BD%D0%B0%20%D0%9F%D1%80%D0%B5%D0%B4%D1%82%D0%B5%D1%87%D0%B8&ll=28.318141,57.825858&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Cathedral%20of%20the%20Nativity%20of%20St%20John%20the%20Baptist%2C%20Pskov%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Собор Рождества Иоанна Предтечи (Псков)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%B0_%D0%98%D0%BE%D0%B0%D0%BD%D0%BD%D0%B0_%D0%9F%D1%80%D0%B5%D0%B4%D1%82%D0%B5%D1%87%D0%B8_%28%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%29"
+      }
+    ],
+    "tags": [
+      "medieval",
+      "church",
+      "12th-century",
+      "orthodox",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "pskov-vybuty",
+    "slug": "vybuty",
+    "region": "pskov",
+    "region_name_vi": "Tỉnh Pskov",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Vybuty — quê hương công chúa Olga (Выбуты, đọc: Vư-bu-tư)",
+    "name_ru": "Выбуты",
+    "name_en": "Vybuty (birthplace of Princess Olga)",
+    "categories": [
+      "monument",
+      "church"
+    ],
+    "coordinates": {
+      "lat": 57.71028,
+      "lon": 28.28222
+    },
+    "address_vi": "Làng Vybuty bên sông Velikaya, huyện Pskovsky, cách Pskov khoảng 15 km về phía nam, tỉnh Pskov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Theo truyền thuyết, đây là nơi sinh của Thánh nữ công chúa Olga — vị nữ chúa Kiev đầu tiên theo đạo Kitô. Ngôi làng nhỏ bên sông Velikaya có nhà thờ Thánh Elijah cổ kính và là điểm hành hương gắn với buổi bình minh của lịch sử Nga.",
+    "presentation_long_vi": "Vybuty (Выбуты) là một ngôi làng nhỏ nằm bên bờ sông Velikaya, cách Pskov chừng 15 km về phía nam, được các biên niên sử và truyền thống dân gian coi là quê hương của công chúa Olga (bà Olga thành Kiev) — vị nữ chúa đầu tiên trong lịch sử Rus tiếp nhận Kitô giáo và về sau được phong thánh. Tương truyền chính tại bến sông này, cô gái Olga đã gặp hoàng thân Igor. Điểm nhấn của làng là nhà thờ Thánh Elijah (Ильинская церковь) bằng đá, mang phong cách Pskov, tọa lạc trên bờ sông và gắn liền với việc tưởng nhớ Thánh Olga. Xung quanh là những bãi đá, ghềnh nông và đồng cỏ ven sông tạo nên khung cảnh mộc mạc, thanh bình. Với người Nga, Vybuty là một 'thánh địa' của cội nguồn dân tộc và tôn giáo; hằng năm nơi đây đón các cuộc hành hương và lễ tưởng niệm. Sự kết hợp giữa lịch sử, tín ngưỡng và cảnh sông nước khiến Vybuty là một chuyến đi ngày trong lành từ Pskov.",
+    "highlights_vi": [
+      "Nơi sinh truyền thuyết của Thánh nữ công chúa Olga — nữ chúa Kiev đầu tiên theo đạo Kitô",
+      "Nhà thờ đá Thánh Elijah phong cách Pskov bên bờ sông Velikaya",
+      "Điểm hành hương gắn với cội nguồn lịch sử và tôn giáo Nga"
+    ],
+    "practical": {
+      "hours_vi": "Làng và bờ sông tham quan tự do quanh năm; nhà thờ mở theo giờ lễ.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 1-1,5 giờ.",
+      "best_time_vi": "Cuối xuân đến đầu thu để tận hưởng cảnh sông; mùa lễ Thánh Olga (24/7) rất đông khách hành hương.",
+      "tips_vi": "Cách Pskov ~15 km, nên đi ô tô/taxi; mang giày phù hợp đi bãi đá ven sông."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D1%8B%D0%B1%D1%83%D1%82%D1%8B&ll=28.28222,57.71028&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Vybuty%20%28birthplace%20of%20Princess%20Olga%29%2C%20Pskov%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Выбуты",
+        "url": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D1%83%D1%82%D1%8B"
+      }
+    ],
+    "tags": [
+      "history",
+      "princess-olga",
+      "pilgrimage",
+      "church",
+      "river"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "pskov-mussorgsky-estate-naumovo",
+    "slug": "mussorgsky-estate-naumovo",
+    "region": "pskov",
+    "region_name_vi": "Tỉnh Pskov",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Bảo tàng-điền trang M. P. Mussorgsky (Наумово, đọc: Na-u-ma-va)",
+    "name_ru": "Музей-заповедник М. П. Мусоргского",
+    "name_en": "Mussorgsky Museum-Estate (Naumovo)",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 56.27222,
+      "lon": 31.32528
+    },
+    "address_vi": "Làng Naumovo, huyện Kuninsky, bên hồ Zhizhitskoye, phía nam tỉnh Pskov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng duy nhất trên thế giới về nhà soạn nhạc vĩ đại Modest Mussorgsky, đặt trong điền trang của gia đình ông bên hồ Zhizhitskoye — nơi lưu giữ ký ức về tác giả 'Boris Godunov' và 'Những bức tranh trong phòng triển lãm'.",
+    "presentation_long_vi": "Bảo tàng – khu bảo tồn Modest Mussorgsky (Музей-заповедник М. П. Мусоргского) nằm ở làng Naumovo, huyện Kuninsky phía nam tỉnh Pskov, bên bờ hồ Zhizhitskoye thơ mộng. Đây là bảo tàng duy nhất trên thế giới dành cho nhà soạn nhạc Nga vĩ đại Modest Mussorgsky (1839–1881) — tác giả của vở opera 'Boris Godunov' và tổ khúc piano lừng danh 'Những bức tranh trong phòng triển lãm'. Điền trang vốn thuộc về gia đình bên ngoại của ông (dòng Chirikov), nơi mẹ ông sinh ra; bản thân nhạc sĩ chào đời ở làng Karevo lân cận. Bảo tàng, mở cửa năm 1972 trong ngôi nhà chính có gác lửng, hàng cột và ban công thế kỷ 19, tái hiện không gian sống quý tộc điền viên và trưng bày các hiện vật về cuộc đời, sự nghiệp của Mussorgsky. Quanh nhà là công viên, nhà phụ, kho, vườn cam và khung cảnh hồ nước – đồng nội đặc trưng vùng Pskov. Với người yêu âm nhạc cổ điển, Naumovo là một cuộc hành hương ý nghĩa về cội nguồn của một thiên tài.",
+    "highlights_vi": [
+      "Bảo tàng duy nhất thế giới về nhà soạn nhạc Modest Mussorgsky ('Boris Godunov')",
+      "Điền trang gia đình bên ngoại của nhạc sĩ, bên hồ Zhizhitskoye",
+      "Nhà chính thế kỷ 19 với gác lửng, hàng cột; công viên và cảnh quan hồ – đồng nội"
+    ],
+    "practical": {
+      "hours_vi": "Thường mở 10:00-17:00, nghỉ thứ Hai (kiểm tra qua Bảo tàng Pskov museumpskov.ru).",
+      "ticket_vi": "Vé khoảng 150-250 RUB.",
+      "duration_vi": "Khoảng 1-1,5 giờ.",
+      "best_time_vi": "Mùa hè để tận hưởng cảnh hồ và công viên.",
+      "tips_vi": "Nằm xa, gần Velikiye Luki (~50 km); nên đi ô tô. Kết hợp làng Karevo nơi nhạc sĩ chào đời."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%B9-%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA%20%D0%9C.%20%D0%9F.%20%D0%9C%D1%83%D1%81%D0%BE%D1%80%D0%B3%D1%81%D0%BA%D0%BE%D0%B3%D0%BE&ll=31.32528,56.27222&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Mussorgsky%20Museum-Estate%20%28Naumovo%29%2C%20Pskov%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Музей-заповедник М. П. Мусоргского",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D0%B7%D0%B5%D0%B9-%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA_%D0%9C._%D0%9F._%D0%9C%D1%83%D1%81%D0%BE%D1%80%D0%B3%D1%81%D0%BA%D0%BE%D0%B3%D0%BE"
+      }
+    ],
+    "tags": [
+      "museum",
+      "mussorgsky",
+      "music",
+      "estate",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "pskov-kovalevskaya-estate-polibino",
+    "slug": "kovalevskaya-estate-polibino",
+    "region": "pskov",
+    "region_name_vi": "Tỉnh Pskov",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Bảo tàng-điền trang S. V. Kovalevskaya (Полибино, đọc: Pa-li-bi-na)",
+    "name_ru": "Музей-усадьба С. В. Ковалевской",
+    "name_en": "Kovalevskaya Museum-Estate (Polibino)",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 56.13528,
+      "lon": 30.39889
+    },
+    "address_vi": "Làng Polibino, huyện Velikoluksky, phía nam tỉnh Pskov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Điền trang tuổi thơ của Sofia Kovalevskaya — nữ giáo sư toán học đầu tiên trên thế giới. Ngôi nhà bên vùng quê Velikiye Luki nay là bảo tàng tôn vinh nhà khoa học kiệt xuất và con đường phi thường của bà.",
+    "presentation_long_vi": "Bảo tàng – điền trang Sofia Kovalevskaya (Музей-усадьба С. В. Ковалевской) tọa lạc ở làng Polibino, huyện Velikoluksky, phía nam tỉnh Pskov. Đây là nơi Sofia Kovalevskaya (1850–1891) sống thời niên thiếu — người phụ nữ đã trở thành nữ tiến sĩ toán học và nữ giáo sư đại học đầu tiên trên thế giới (tại Stockholm), một biểu tượng cho khát vọng học vấn của phụ nữ thế kỷ 19. Tương truyền chính những tấm giấy dán tường in đầy công thức giải tích trong ngôi nhà đã khơi dậy niềm say mê toán học của cô bé Sofia. Ngôi nhà hai tầng và các công trình phụ đã được phục hồi thành bảo tàng, trưng bày đồ đạc gia đình, tài liệu, thư từ và hành trình khoa học phi thường của bà — vượt qua rào cản giới để ghi tên vào lịch sử toán học thế giới. Quanh nhà là công viên và ao hồ tĩnh lặng. Polibino là điểm đến truyền cảm hứng, đặc biệt với những ai quan tâm đến khoa học và bình đẳng giới.",
+    "highlights_vi": [
+      "Điền trang tuổi thơ của Sofia Kovalevskaya — nữ giáo sư toán học đầu tiên thế giới",
+      "Câu chuyện 'giấy dán tường công thức' khơi nguồn đam mê toán học của bà",
+      "Nhà hai tầng phục dựng, trưng bày tài liệu và hành trình khoa học phi thường"
+    ],
+    "practical": {
+      "hours_vi": "Thường mở 10:00-17:00, nghỉ thứ Hai (kiểm tra trước qua bảo tàng vùng Velikiye Luki).",
+      "ticket_vi": "Vé khoảng 100-200 RUB.",
+      "duration_vi": "Khoảng 1-1,5 giờ.",
+      "best_time_vi": "Mùa hè và đầu thu.",
+      "tips_vi": "Cách Velikiye Luki ~60 km; nên đi ô tô. Kết hợp với chuyến thăm phía nam tỉnh Pskov."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%B9-%D1%83%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0%20%D0%A1.%20%D0%92.%20%D0%9A%D0%BE%D0%B2%D0%B0%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B9&ll=30.39889,56.13528&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kovalevskaya%20Museum-Estate%20%28Polibino%29%2C%20Pskov%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Полибино (Великолукский район)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D0%B1%D0%B8%D0%BD%D0%BE_%28%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%BB%D1%83%D0%BA%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%29"
+      }
+    ],
+    "tags": [
+      "museum",
+      "kovalevskaya",
+      "science",
+      "mathematics",
+      "estate",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "pskov-olga-monument-pskov",
+    "slug": "olga-monument-pskov",
+    "region": "pskov",
+    "region_name_vi": "Tỉnh Pskov",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Tượng đài công chúa Olga (Памятник княгине Ольге, đọc: Pa-mít-nhic knhia-gi-nhê Ôn-ghê)",
+    "name_ru": "Памятник княгине Ольге",
+    "name_en": "Monument to Princess Olga",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 57.81625,
+      "lon": 28.335
+    },
+    "address_vi": "Quảng trường trung tâm gần Oktyabrsky Prospekt, thành phố Pskov, tỉnh Pskov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Tượng đài Thánh nữ công chúa Olga — người bảo trợ của Pskov — dựng năm 2003 nhân kỷ niệm 1100 năm thành phố, do nhà điêu khắc Vyacheslav Klykov thực hiện. Bà đứng uy nghi bên cây thánh giá, tay che chở cậu bé cầm biểu tượng.",
+    "presentation_long_vi": "Tượng đài công chúa Olga (Памятник княгине Ольге) tại quảng trường trung tâm Pskov được khánh thành năm 2003, đúng dịp thành phố tròn 1100 năm tuổi. Tác phẩm của nhà điêu khắc Vyacheslav Klykov khắc hoạ Thánh nữ Olga — nữ chúa Kiev thế kỷ 10, người được coi là quê ở vùng Pskov (làng Vybuty) và là người bảo trợ thiêng liêng của thành phố. Bà hiện lên uy nghi trong trang phục vương giả, một tay nâng cây thánh giá — biểu tượng cho việc bà là nhà cai trị Rus đầu tiên tiếp nhận Kitô giáo — tay kia đặt lên vai một cậu bé, gợi hình ảnh bà truyền lại đức tin cho cháu nội là Vladimir, người về sau rửa tội cho toàn nước Rus. Bệ tượng tròn chạm khắc hình các vị thánh Pskov. Đứng ở vị trí trung tâm dễ tiếp cận, tượng đài là một điểm gặp gỡ quen thuộc và là biểu tượng gắn kết Pskov với cội nguồn lịch sử – tôn giáo của mình. (Pskov còn có một tượng Olga thứ hai do Zurab Tsereteli thực hiện ở gần đó.)",
+    "highlights_vi": [
+      "Dựng năm 2003 mừng 1100 năm Pskov, tác phẩm của điêu khắc gia Vyacheslav Klykov",
+      "Tôn vinh Thánh nữ Olga — người bảo trợ của thành phố, nữ chúa Rus đầu tiên theo đạo Kitô",
+      "Bệ tượng chạm khắc hình các vị thánh của vùng đất Pskov"
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tham quan tự do 24/7.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 15-20 phút.",
+      "best_time_vi": "Bất kỳ lúc nào; buổi tối có đèn chiếu.",
+      "tips_vi": "Nằm giữa trung tâm, tiện kết hợp dạo phố và các nhà thờ cổ; là điểm hẹn quen thuộc."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%D0%BA%D0%BD%D1%8F%D0%B3%D0%B8%D0%BD%D0%B5%20%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5&ll=28.335,57.81625&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Monument%20to%20Princess%20Olga%2C%20Pskov%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Памятник княгине Ольге (Псков)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D0%BA%D0%BD%D1%8F%D0%B3%D0%B8%D0%BD%D0%B5_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5_%28%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%29"
+      }
+    ],
+    "tags": [
+      "monument",
+      "princess-olga",
+      "history",
+      "city-center",
+      "orthodox"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "pskov-sebezhsky-national-park",
+    "slug": "sebezhsky-national-park",
+    "region": "pskov",
+    "region_name_vi": "Tỉnh Pskov",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Vườn quốc gia Sebezhsky (Себежский национальный парк, đọc: Xê-bêj-ski)",
+    "name_ru": "Себежский национальный парк",
+    "name_en": "Sebezhsky National Park",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 56.26667,
+      "lon": 28.5
+    },
+    "address_vi": "Khu vực thành phố Sebezh, cực tây nam tỉnh Pskov, giáp Belarus và Latvia, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Vùng đất của hàng trăm hồ nước, rừng nguyên sinh và làng mạc cổ ở góc tây nam tỉnh Pskov, nơi giao thoa ba quốc gia. Vườn quốc gia bảo tồn hệ sinh thái hồ – rừng phong phú cùng thị trấn cổ Sebezh nên thơ.",
+    "presentation_long_vi": "Vườn quốc gia Sebezhsky (Себежский национальный парк) được thành lập năm 1996 tại cực tây nam tỉnh Pskov, nơi biên giới Nga gặp Belarus và Latvia. Đây là một vùng cảnh quan hồ – rừng tuyệt đẹp với hàng trăm hồ lớn nhỏ nối nhau, những cánh rừng thông – vân sam nguyên sinh, đầm lầy và đồi băng tích để lại từ thời băng hà. Hệ động thực vật phong phú với nhiều loài chim nước, thú rừng và thực vật quý được bảo vệ; đây là thiên đường cho hoạt động quan sát chim, chèo thuyền, câu cá và đi bộ đường dài. Trung tâm của vườn là thị trấn cổ Sebezh nằm trên một bán đảo nhô ra hồ, với nhà thờ, tháp chuông và những mái nhà gỗ soi bóng nước — một khung cảnh tỉnh lẻ Nga thanh bình hiếm có. Xa các tuyến du lịch đông đúc, Sebezhsky là điểm đến lý tưởng cho những ai tìm kiếm thiên nhiên hoang sơ và sự tĩnh lặng ở vùng đất Pskov.",
+    "highlights_vi": [
+      "Hàng trăm hồ nước nối nhau, rừng nguyên sinh và đồi băng tích ở nơi giao ba quốc gia",
+      "Hệ sinh thái phong phú: chim nước, thú rừng — thiên đường quan sát chim và chèo thuyền",
+      "Thị trấn cổ Sebezh trên bán đảo nhô ra hồ, khung cảnh tỉnh lẻ Nga thanh bình"
+    ],
+    "practical": {
+      "hours_vi": "Vườn mở tự do; một số khu bảo tồn nghiêm ngặt cần xin phép ban quản lý.",
+      "ticket_vi": "Vào vườn cơ bản miễn phí; một số dịch vụ (thuyền, hướng dẫn, cắm trại) thu phí.",
+      "duration_vi": "Từ nửa ngày đến vài ngày tuỳ hoạt động.",
+      "best_time_vi": "Cuối xuân đến đầu thu cho chèo thuyền, quan sát chim; thu lá vàng rất đẹp.",
+      "tips_vi": "Sebezh cách Pskov ~190 km; có tàu hoả/xe khách. Mang đồ chống muỗi, giày đi rừng; giữ vệ sinh thiên nhiên."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%B5%D0%B1%D0%B5%D0%B6%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%B0%D1%80%D0%BA&ll=28.5,56.26667&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Sebezhsky%20National%20Park%2C%20Pskov%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Себежский национальный парк",
+        "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B1%D0%B5%D0%B6%D1%81%D0%BA%D0%B8%D0%B9_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA"
+      }
+    ],
+    "tags": [
+      "national-park",
+      "nature",
+      "lakes",
+      "forest",
+      "birdwatching",
+      "hiking"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "pskov-truvorovo-gorodishche",
+    "slug": "truvorovo-gorodishche",
+    "region": "pskov",
+    "region_name_vi": "Tỉnh Pskov",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Thành cổ Truvor & suối Slovenskie Klyuchi (Труворово городище, Словенские ключи)",
+    "name_ru": "Труворово городище",
+    "name_en": "Truvorovo Gorodishche & Slovenskie Springs",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 57.7169,
+      "lon": 27.8533
+    },
+    "address_vi": "Gần làng Izborsk, huyện Pechorsky, cạnh hồ Gorodishchenskoye, tỉnh Pskov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nền thành cổ 'Izborsk cũ' trên gò đất cao, gắn với thủ lĩnh Varangian huyền thoại Truvor, cùng thập giá đá cổ, hồ Gorodishchenskoye và cụm suối 'Mười hai tông đồ' Slovenskie Klyuchi — một cảnh quan lịch sử – thiên nhiên tuyệt đẹp.",
+    "presentation_long_vi": "Thành cổ Truvor (Труворово городище) là nơi tọa lạc của 'Izborsk cũ' — khu định cư ban đầu trước khi pháo đài đá Izborsk được dời sang đồi Zheravya vào thế kỷ 14. Theo biên niên sử, Izborsk gắn với Truvor, một trong ba anh em thủ lĩnh Varangian được mời đến cai trị Rus năm 862; bởi vậy nơi đây được coi là một trong những cái nôi lâu đời nhất của nhà nước Nga. Trên gò đất cao nhìn ra hồ Gorodishchenskoye vẫn còn thành luỹ đất, nhà thờ Thánh Nicholas cổ và cây thập giá đá lớn mà dân gian gọi là 'thập giá Truvor'. Dưới chân đồi, từ vách đá tuôn ra cụm suối trong vắt mang tên Slovenskie Klyuchi ('Mười hai tông đồ') — những dòng nước được xem là thiêng, đổ xuống hồ nơi đàn thiên nga thường lui tới. Sự hoà quyện giữa gò thành cổ, thập giá huyền thoại, mặt hồ phẳng lặng và tiếng suối reo tạo nên một trong những cảnh quan lịch sử – thiên nhiên quyến rũ và giàu hồn cốt nhất của cả tỉnh Pskov.",
+    "highlights_vi": [
+      "Nền 'Izborsk cũ' gắn với thủ lĩnh Varangian huyền thoại Truvor (năm 862) và thập giá đá cổ",
+      "Cụm suối thiêng Slovenskie Klyuchi ('Mười hai tông đồ') tuôn ra từ vách đá",
+      "Hồ Gorodishchenskoye với đàn thiên nga và nhà thờ Thánh Nicholas cổ trên gò"
+    ],
+    "practical": {
+      "hours_vi": "Cảnh quan ngoài trời, tham quan tự do quanh năm (đi bộ từ pháo đài Izborsk sang).",
+      "ticket_vi": "Miễn phí (khu vực gò thành và suối).",
+      "duration_vi": "Khoảng 1-1,5 giờ.",
+      "best_time_vi": "Cuối xuân đến đầu thu; sáng sớm để ngắm sương trên hồ và ít khách.",
+      "tips_vi": "Đường xuống suối trơn và dốc, cần giày bám tốt; kết hợp pháo đài Izborsk kề bên. Cách Pskov ~30 km."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A2%D1%80%D1%83%D0%B2%D0%BE%D1%80%D0%BE%D0%B2%D0%BE%20%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%89%D0%B5&ll=27.8533,57.7169&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Truvorovo%20Gorodishche%20%26%20Slovenskie%20Springs%2C%20Pskov%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Труворово городище",
+        "url": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D1%83%D0%B2%D0%BE%D1%80%D0%BE%D0%B2%D0%BE_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%89%D0%B5"
+      }
+    ],
+    "tags": [
+      "nature",
+      "history",
+      "izborsk",
+      "springs",
+      "lake",
+      "varangian"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "pskov-talabsk-islands",
+    "slug": "talabsk-islands",
+    "region": "pskov",
+    "region_name_vi": "Tỉnh Pskov",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Quần đảo Talabsk (Талабские острова, đọc: Ta-láp-ski-e Os-tra-va)",
+    "name_ru": "Талабские острова",
+    "name_en": "Talabsk (Zalita) Islands",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 58.0008,
+      "lon": 28.0211
+    },
+    "address_vi": "Giữa hồ Pskov, huyện Pskovsky, cách bờ khoảng 25 km từ Pskov, tỉnh Pskov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Cụm đảo nhỏ giữa hồ Pskov với các làng chài cổ, nhà thờ và ngọn hải đăng — nơi gắn với vị trưởng lão được kính trọng Nikolai Guryanov. Một chuyến đi thuyền độc đáo tới đời sống làng chài truyền thống.",
+    "presentation_long_vi": "Quần đảo Talabsk (Талабские острова) gồm ba hòn đảo nhỏ nằm giữa hồ Pskov mênh mông: đảo Zalita (Talabsk), đảo Belov (Verkhny) và đảo Talabenets nhỏ không người ở. Đây là vùng cư trú của những cộng đồng ngư dân lâu đời, sống bằng nghề đánh bắt cá trên hồ suốt nhiều thế kỷ, giữ nếp sinh hoạt làng chài mộc mạc với nhà gỗ, lưới phơi và bến thuyền. Đảo Zalita nổi tiếng khắp nước Nga bởi từng là nơi trưởng lão Nikolai Guryanov (1909–2002) — một vị linh mục được nhiều tín đồ kính trọng như bậc thánh sống — phụng sự suốt hơn bốn thập niên; mộ ông và nhà thờ Thánh Nicholas nay là điểm hành hương. Đảo Belov thanh bình hơn với nhà thờ, rặng thông cổ và những bãi bờ hoang sơ để dạo bộ. Để đến Talabsk, du khách đi thuyền từ làng ven bờ, băng qua mặt hồ rộng — bản thân hành trình trên nước đã là một trải nghiệm khó quên. Sự kết hợp giữa đời sống ngư dân, không khí tâm linh và cảnh hồ nước khiến quần đảo trở thành một điểm đến độc đáo của Pskov.",
+    "highlights_vi": [
+      "Cụm đảo giữa hồ Pskov với các làng chài cổ, nhà thờ và bến thuyền truyền thống",
+      "Đảo Zalita gắn với trưởng lão Nikolai Guryanov — điểm hành hương nổi tiếng",
+      "Trải nghiệm đi thuyền qua mặt hồ rộng và khám phá đời sống ngư dân mộc mạc"
+    ],
+    "practical": {
+      "hours_vi": "Thuyền ra đảo chạy theo lịch/tự thuê từ làng ven bờ (Bolshaya Tolba); phụ thuộc thời tiết hồ.",
+      "ticket_vi": "Đi thuyền công cộng vé rẻ; thuê thuyền riêng đắt hơn. Trên đảo tham quan tự do.",
+      "duration_vi": "Nửa ngày đến trọn ngày.",
+      "best_time_vi": "Mùa hè và đầu thu khi hồ lặng; mùa đông có thể đi qua băng (rủi ro, cần người địa phương).",
+      "tips_vi": "Kiểm tra thời tiết trước khi ra hồ; mang áo ấm/gió. Tôn trọng nếp sống và nơi thờ tự của dân đảo."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A2%D0%B0%D0%BB%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0&ll=28.0211,58.0008&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Talabsk%20%28Zalita%29%20Islands%2C%20Pskov%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Талабские острова",
+        "url": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BB%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B5_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0"
+      }
+    ],
+    "tags": [
+      "islands",
+      "lake",
+      "fishing-village",
+      "pilgrimage",
+      "nature",
+      "boat"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "pskov-dom-ksyondza-palaty",
+    "slug": "dom-ksyondza-palaty",
+    "region": "pskov",
+    "region_name_vi": "Tỉnh Pskov",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Cung thất bên tháp Sokolya (Dom Ksyondza, đọc: Đôm Ki-xhôn-dza)",
+    "name_ru": "Дом Ксёндза (палаты у Сокольей башни)",
+    "name_en": "Dom Ksyondza (Chambers by Sokolya Tower)",
+    "categories": [
+      "palace",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 57.811459,
+      "lon": 28.33993
+    },
+    "address_vi": "Ngõ Komsomolsky 7, gần tháp Sokolya, trung tâm lịch sử thành phố Pskov, tỉnh Pskov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Cung thất bên tháp Sokolya, quen gọi là 'Nhà Ksyondz', là một toà nhà đá dân dụng thế kỷ 17 hiếm hoi còn lại của Pskov. Sau trùng tu, công trình trở thành gian trưng bày thuộc Bảo tàng - Khu bảo tồn Pskov.",
+    "presentation_long_vi": "Cung thất bên tháp Sokolya (палаты у Сокольей башни), thường được người dân gọi bằng cái tên dân dã 'Nhà Ksyondz' (Дом Ксёндза – 'nhà của linh mục', do một thời từng gắn với vị linh mục Công giáo), là một trong những toà nhà ở bằng đá thời trung cổ tiêu biểu còn sót lại trong khu 'Thành ngoài' (Okolny gorod) của Pskov. Được dựng vào thế kỷ 17 với tường đá vôi dày, vòm gạch và cửa sổ nhỏ đặc trưng của lối kiến trúc 'palaty' (cung thất), toà nhà phản ánh nếp sống và kỹ thuật xây dựng của thị dân Pskov giàu có xưa. Sau nhiều năm hư hại, công trình được tu bổ và mở cửa thành không gian trưng bày - triển lãm thuộc Bảo tàng - Khu bảo tồn Pskov, giới thiệu các bộ sưu tập luân phiên về lịch sử, nghệ thuật địa phương. Nằm gần tháp Sokolya và các di tích thành lũy, đây là điểm dừng thú vị cho ai muốn tìm hiểu kiến trúc dân dụng độc đáo của thành phố cổ.",
+    "highlights_vi": [
+      "Toà nhà đá dân dụng ('palaty') thế kỷ 17 hiếm hoi còn lại của Pskov.",
+      "Tên 'Nhà Ksyondz' gắn với một thời vị linh mục Công giáo từng sử dụng.",
+      "Nay là gian trưng bày của Bảo tàng - Khu bảo tồn Pskov, gần tháp Sokolya."
+    ],
+    "practical": {
+      "hours_vi": "Thường mở khoảng 11:00–18:00, nghỉ một ngày và ngày vệ sinh; nên kiểm tra tại museumpskov.ru.",
+      "ticket_vi": "Vé triển lãm khoảng 100–200 ₽.",
+      "duration_vi": "Khoảng 30–45 phút.",
+      "best_time_vi": "Quanh năm; điểm trong nhà hợp ngày mưa/lạnh.",
+      "tips_vi": "Kết hợp cụm bảo tàng phố Nekrasova và các tháp thành gần đó."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%94%D0%BE%D0%BC%20%D0%9A%D1%81%D1%91%D0%BD%D0%B4%D0%B7%D0%B0%20%28%D0%BF%D0%B0%D0%BB%D0%B0%D1%82%D1%8B%20%D1%83%20%D0%A1%D0%BE%D0%BA%D0%BE%D0%BB%D1%8C%D0%B5%D0%B9%20%D0%B1%D0%B0%D1%88%D0%BD%D0%B8%29&ll=28.33993,57.811459&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Dom%20Ksyondza%20%28Chambers%20by%20Sokolya%20Tower%29%2C%20Pskov%2C%20Russia"
+    },
+    "official_site": "https://museumpskov.ru/",
+    "sources": [
+      {
+        "title": "2ГИС — Дом Ксёндза, палаты у Сокольей башни",
+        "url": "https://2gis.ru/pskov/firm/12666902232961299"
+      },
+      {
+        "title": "Wikipedia (RU) — Псковская школа (древнерусское искусство)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D1%88%D0%BA%D0%BE%D0%BB%D0%B0_%28%D0%B4%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE%29"
+      }
+    ],
+    "tags": [
+      "chambers",
+      "17th-century",
+      "architecture",
+      "museum",
+      "medieval"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "pskov-pskov-railway-museum",
+    "slug": "pskov-railway-museum",
+    "region": "pskov",
+    "region_name_vi": "Tỉnh Pskov",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Bảo tàng Đường sắt Pskov (Pskovsky zheleznodorozhny muzei, đọc: Je-lê-znô-đa-rôj-nưi)",
+    "name_ru": "Псковский железнодорожный музей",
+    "name_en": "Pskov Railway Museum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 57.804269,
+      "lon": 28.359451
+    },
+    "address_vi": "Phố Yana Fabritsiusa 29, khu ga Pskov, thành phố Pskov, tỉnh Pskov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng Đường sắt Pskov giới thiệu lịch sử ngành hoả xa của vùng, gắn với nhà ga Pskov – nơi Nga hoàng Nikolai II ký thoái vị tháng 3 năm 1917. Bộ sưu tập tái hiện thời hoàng kim của đường sắt và những trang sử bi tráng thế kỷ 20.",
+    "presentation_long_vi": "Bảo tàng Đường sắt Pskov (Псковский железнодорожный музей) nằm trong khu vực nhà ga Pskov, giới thiệu lịch sử phát triển của tuyến đường sắt nối Sankt-Peterburg – Warszawa đi qua thành phố từ thế kỷ 19. Bảo tàng đặc biệt ý nghĩa bởi nhà ga Pskov chính là nơi diễn ra một trong những sự kiện bước ngoặt của lịch sử Nga: đêm 2 tháng 3 năm 1917 (lịch cũ), trên đoàn tàu của hoàng gia dừng tại ga Pskov, Nga hoàng Nikolai II đã ký văn kiện thoái vị, chấm dứt hơn ba thế kỷ trị vì của vương triều Romanov. Các gian trưng bày lưu giữ mô hình đầu máy, thiết bị tín hiệu, đồng phục, tài liệu và hiện vật kể về công việc của những người thợ hoả xa, về vai trò của nhà ga trong hai cuộc thế chiến. Đây là điểm đến hấp dẫn cho người yêu lịch sử và những ai muốn hiểu thêm về số phận nước Nga qua lăng kính con đường sắt.",
+    "highlights_vi": [
+      "Gắn với nhà ga Pskov – nơi Nga hoàng Nikolai II ký thoái vị năm 1917.",
+      "Trưng bày mô hình đầu máy, thiết bị tín hiệu, tài liệu lịch sử hoả xa.",
+      "Kể câu chuyện đường sắt Pskov qua các cuộc chiến tranh thế kỷ 20."
+    ],
+    "practical": {
+      "hours_vi": "Mở theo giờ bảo tàng (thường 10:00–18:00), nên gọi trước để xác nhận.",
+      "ticket_vi": "Vé khoảng 100–200 ₽.",
+      "duration_vi": "Khoảng 45–60 phút.",
+      "best_time_vi": "Quanh năm; điểm trong nhà.",
+      "tips_vi": "Ngay khu ga Pskov, tiện kết hợp khi đến/đi bằng tàu hoả."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B6%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D1%8B%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9&ll=28.359451,57.804269&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Pskov%20Railway%20Museum%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "2ГИС — Псковский железнодорожный музей, ул. Яна Фабрициуса, 29",
+        "url": "https://2gis.ru/pskov/firm/12666902232958675"
+      },
+      {
+        "title": "Wikipedia (RU) — Отречение Николая II",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9E%D1%82%D1%80%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D1%8F_II"
+      }
+    ],
+    "tags": [
+      "museum",
+      "railway",
+      "history",
+      "romanov",
+      "20th-century"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "pskov-lenin-house-museum-pskov",
+    "slug": "lenin-house-museum-pskov",
+    "region": "pskov",
+    "region_name_vi": "Tỉnh Pskov",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Nhà - Bảo tàng V. I. Lenin ở Pskov (Dom-muzei Lenina, đọc: Lê-nhi-na)",
+    "name_ru": "Дом-музей В. И. Ленина",
+    "name_en": "V. I. Lenin House-Museum (Pskov)",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 57.817027,
+      "lon": 28.352564
+    },
+    "address_vi": "Ngõ Iskry 5, trung tâm thành phố Pskov, tỉnh Pskov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Ngôi nhà gỗ này là nơi Vladimir Lenin sống trong thời gian ở Pskov năm 1900, khi ông chuẩn bị cho việc ra đời tờ báo cách mạng 'Iskra' (Tia lửa). Bảo tàng tái hiện một giai đoạn quan trọng trong lịch sử phong trào cách mạng Nga.",
+    "presentation_long_vi": "Nhà - Bảo tàng V. I. Lenin (Дом-музей В. И. Ленина) ở Pskov gắn với quãng thời gian năm 1900, khi Vladimir Ulyanov (Lenin) – sau khi mãn hạn lưu đày ở Siberia – chọn Pskov làm nơi cư trú và hoạt động. Chính tại thành phố này, ông đã cùng các đồng chí bàn bạc và chuẩn bị nền tảng cho việc xuất bản tờ báo mácxít toàn Nga 'Iskra' (Tia lửa) – tờ báo đóng vai trò quan trọng trong việc tập hợp phong trào dân chủ - xã hội Nga đầu thế kỷ 20; con ngõ nơi đặt bảo tàng cũng được đặt tên là 'Iskry' để ghi dấu sự kiện. Bảo tàng phục dựng không gian sinh hoạt khiêm tốn thời bấy giờ cùng tài liệu, hiện vật về hoạt động của Lenin ở Pskov và lịch sử tờ 'Iskra'. Dù chủ đề mang màu sắc chính trị - lịch sử, đây là một lát cắt đáng chú ý giúp du khách hiểu thêm về vai trò bất ngờ của Pskov trong dòng chảy lịch sử nước Nga hiện đại.",
+    "highlights_vi": [
+      "Nơi Lenin sống ở Pskov năm 1900, chuẩn bị cho tờ báo cách mạng 'Iskra'.",
+      "Con ngõ đặt bảo tàng mang tên 'Iskry' (Tia lửa) để ghi dấu sự kiện.",
+      "Phục dựng không gian sinh hoạt và tài liệu về lịch sử phong trào cách mạng."
+    ],
+    "practical": {
+      "hours_vi": "Mở theo giờ bảo tàng (thường 09:00–18:00), nghỉ một ngày và ngày vệ sinh.",
+      "ticket_vi": "Vé khoảng 100–200 ₽.",
+      "duration_vi": "Khoảng 30–45 phút.",
+      "best_time_vi": "Quanh năm; điểm trong nhà.",
+      "tips_vi": "Nằm ở trung tâm, dễ kết hợp với các bảo tàng và di tích trong phố cổ."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%94%D0%BE%D0%BC-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%20%D0%92.%20%D0%98.%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0&ll=28.352564,57.817027&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=V.%20I.%20Lenin%20House-Museum%20%28Pskov%29%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "2ГИС — Дом-музей В.И. Ленина, переулок Искры, 5",
+        "url": "https://2gis.ru/pskov/firm/12666902232958576"
+      },
+      {
+        "title": "Wikipedia (RU) — Искра (газета)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%98%D1%81%D0%BA%D1%80%D0%B0_%28%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D0%B0%29"
+      }
+    ],
+    "tags": [
+      "museum",
+      "lenin",
+      "history",
+      "iskra",
+      "20th-century"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "pskov-pskov-dom-remesel",
+    "slug": "pskov-dom-remesel",
+    "region": "pskov",
+    "region_name_vi": "Tỉnh Pskov",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Nhà Thủ công Pskov (Dom remesel, đọc: Đôm Ri-mê-xêl)",
+    "name_ru": "Дом ремёсел (Псковский областной центр народного творчества)",
+    "name_en": "House of Crafts (Pskov)",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 57.812367,
+      "lon": 28.336857
+    },
+    "address_vi": "Phố Nekrasova 8, trung tâm thành phố Pskov, tỉnh Pskov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhà Thủ công Pskov là trung tâm nghề thủ công truyền thống của tỉnh, nơi trưng bày và giữ gìn các nghề gốm, dệt, đan, rèn cùng đồ chơi dân gian. Du khách có thể xem thợ trình diễn và tham gia lớp trải nghiệm làm đồ thủ công.",
+    "presentation_long_vi": "Nhà Thủ công (Дом ремёсел) trực thuộc Trung tâm Sáng tạo Dân gian tỉnh Pskov là nơi gìn giữ và lan toả những nghề thủ công truyền thống của vùng đất cổ. Trong không gian ấm cúng ở trung tâm thành phố, du khách được chiêm ngưỡng các sản phẩm thủ công đặc trưng của Pskov: đồ gốm đất nung, vải dệt và thêu hoa văn dân gian, đồ đan liễu - vỏ cây bạch dương, đồ rèn và những con búp bê, đồ chơi dân gian. Điều thú vị nhất là các buổi trình diễn tay nghề của nghệ nhân cùng những lớp học trải nghiệm (master class), nơi khách có thể tự tay nặn gốm, dệt vải hay làm búp bê rơm theo lối cổ. Đây cũng là nơi diễn ra hội chợ, triển lãm nghề và các sự kiện văn hoá dân gian. Với ai muốn chạm vào di sản 'sống' và mang về món quà thủ công chính gốc Pskov, Nhà Thủ công là điểm đến đáng ghé.",
+    "highlights_vi": [
+      "Trung tâm gìn giữ nghề thủ công truyền thống Pskov: gốm, dệt, đan, rèn.",
+      "Có trình diễn tay nghề và lớp trải nghiệm (master class) cho du khách.",
+      "Nơi bán đồ thủ công chính gốc làm quà, tổ chức hội chợ - triển lãm nghề."
+    ],
+    "practical": {
+      "hours_vi": "Thường mở giờ hành chính các ngày trong tuần; lớp trải nghiệm nên đặt trước.",
+      "ticket_vi": "Vào xem miễn phí hoặc phí nhỏ; lớp trải nghiệm và sản phẩm tính phí riêng.",
+      "duration_vi": "Khoảng 30–60 phút.",
+      "best_time_vi": "Quanh năm; điểm trong nhà, hợp cả ngày mưa.",
+      "tips_vi": "Ngay cụm bảo tàng phố Nekrasova; hỏi lịch trình diễn và master class."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%94%D0%BE%D0%BC%20%D1%80%D0%B5%D0%BC%D1%91%D1%81%D0%B5%D0%BB%20%28%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%BD%D0%BE%D0%B9%20%D1%86%D0%B5%D0%BD%D1%82%D1%80%20%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%82%D0%B2%D0%BE%D1%80%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0%29&ll=28.336857,57.812367&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=House%20of%20Crafts%20%28Pskov%29%2C%20Russia"
+    },
+    "official_site": "http://ocntpskov.ru",
+    "sources": [
+      {
+        "title": "2ГИС — Дом ремесел, ул. Некрасова, 8",
+        "url": "https://2gis.ru/pskov/firm/12666902232958566"
+      },
+      {
+        "title": "Trung tâm Sáng tạo Dân gian Pskov (ocntpskov.ru)",
+        "url": "http://ocntpskov.ru"
+      }
+    ],
+    "tags": [
+      "crafts",
+      "folk",
+      "handicraft",
+      "workshop",
+      "culture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "pskov-pskov-radio-museum",
+    "slug": "pskov-radio-museum",
+    "region": "pskov",
+    "region_name_vi": "Tỉnh Pskov",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Bảo tàng Radio Pskov (Muzei radio, đọc: Mu-dê-i Ra-đi-ô)",
+    "name_ru": "Музей радио (Псков)",
+    "name_en": "Radio Museum (Pskov)",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 57.818564,
+      "lon": 28.330618
+    },
+    "address_vi": "Phố Sovetskaya 1/3, trung tâm thành phố Pskov, tỉnh Pskov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng Radio Pskov là bảo tàng tư nhân nhỏ xinh dành cho lịch sử ngành phát thanh và kỹ thuật vô tuyến. Bộ sưu tập máy thu thanh, máy hát và thiết bị điện tử cổ đưa du khách trở về thế kỷ 20 đầy hoài niệm.",
+    "presentation_long_vi": "Bảo tàng Radio (Музей радио) ở Pskov là một bảo tàng tư nhân ấm cúng nằm ngay trung tâm thành phố, dành trọn cho lịch sử phát thanh và kỹ thuật vô tuyến. Bộ sưu tập tập hợp hàng trăm hiện vật: từ những chiếc máy thu thanh bằng đèn điện tử, máy hát đĩa, máy ghi âm cuộn băng, điện thoại cổ cho tới các thiết bị liên lạc quân sự và dân sự qua nhiều thập niên thế kỷ 20. Người sáng lập và hướng dẫn viên thường đích thân kể những câu chuyện sống động về từng cỗ máy, bật cho khách nghe âm thanh phát ra từ các thiết bị đã gần trăm tuổi – một trải nghiệm hoài niệm khó quên. Không gian nhỏ nhưng được sắp đặt tỉ mỉ, phù hợp cho cả người mê kỹ thuật lẫn những ai muốn cảm nhận nhịp sống và văn hoá đại chúng của nước Nga thế kỷ trước. Đây là một điểm đến 'ngách' thú vị bên cạnh các di tích lớn của Pskov.",
+    "highlights_vi": [
+      "Bảo tàng tư nhân về lịch sử phát thanh và kỹ thuật vô tuyến thế kỷ 20.",
+      "Sưu tập máy thu thanh đèn điện tử, máy hát, máy ghi âm, thiết bị liên lạc cổ.",
+      "Chủ nhân trực tiếp thuyết minh và cho nghe âm thanh từ máy gần trăm tuổi."
+    ],
+    "practical": {
+      "hours_vi": "Mở theo lịch, thường cần đặt trước (по предварительной записи).",
+      "ticket_vi": "Vé khoảng 150–300 ₽.",
+      "duration_vi": "Khoảng 45–60 phút.",
+      "best_time_vi": "Quanh năm; nên hẹn trước để có người thuyết minh.",
+      "tips_vi": "Nằm ở trung tâm gần Kremlin; gọi trước để chắc chắn mở cửa."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%B9%20%D1%80%D0%B0%D0%B4%D0%B8%D0%BE%20%28%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%29&ll=28.330618,57.818564&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Radio%20Museum%20%28Pskov%29%2C%20Russia"
+    },
+    "official_site": "http://museumradio.ru",
+    "sources": [
+      {
+        "title": "2ГИС — Музей радио, Советская улица, 1/3",
+        "url": "https://2gis.ru/pskov/firm/70000001081847617"
+      },
+      {
+        "title": "Museumradio — официальный сайт",
+        "url": "http://museumradio.ru"
+      }
+    ],
+    "tags": [
+      "museum",
+      "radio",
+      "technology",
+      "retro",
+      "private-museum"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
   }
 ]

@@ -498,5 +498,1678 @@
     "status": "enriched",
     "last_updated": "2026-07-16",
     "country": "russia"
+  },
+  {
+    "id": "oryol-leskov-house-museum-oryol",
+    "slug": "leskov-house-museum-oryol",
+    "region": "oryol",
+    "region_name_vi": "Tỉnh Oryol",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Nhà - Bảo tàng N.S. Leskov (Дом-музей Н.С. Лескова, đọc: Đôm-mu-zây Le-xcốp)",
+    "name_ru": "Дом-музей Н. С. Лескова",
+    "name_en": "N.S. Leskov House-Museum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 52.968759,
+      "lon": 36.053638
+    },
+    "address_vi": "Phố Oktyabrskaya 9, thành phố Oryol, tỉnh Oryol, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng dành riêng cho Nikolai Leskov - nhà văn sinh ra ở vùng Oryol, tác giả 'Người tả nghiêng' và 'Lady Macbeth huyện Mtsensk'. Đây là bảo tàng văn học duy nhất trên thế giới tưởng niệm ông, đặt trong ngôi nhà gỗ cổ ấm cúng.",
+    "presentation_long_vi": "Mở cửa năm 1974 nhân 100 năm ngày sinh nhà văn, Nhà - Bảo tàng N.S. Leskov là bảo tàng duy nhất trên thế giới dành cho Nikolai Leskov (1831-1895), một trong những cây bút văn xuôi độc đáo nhất của Nga. Bảo tàng nằm trong một biệt thự gỗ hai tầng mang phong cách thế kỷ 19 trên phố Oktyabrskaya. Bên trong tái hiện phòng làm việc của nhà văn ở Sankt-Peterburg với bàn viết, tủ sách, những kỷ vật gia đình và bản thảo gốc. Các gian trưng bày dẫn dắt khách qua cuộc đời và sự nghiệp Leskov, từ thời thơ ấu ở điền trang Panino gần Oryol tới những kiệt tác như 'Người tả nghiêng' (Levsha), 'Giáo sĩ nhà thờ' và truyện vừa 'Lady Macbeth huyện Mtsensk' - vốn lấy cảm hứng từ chính vùng đất Oryol. Không gian trưng bày còn khắc họa mối quan hệ của Leskov với ngôn ngữ dân gian Nga và đời sống tỉnh lẻ mà ông miêu tả sắc sảo.",
+    "highlights_vi": [
+      "Bảo tàng duy nhất trên thế giới tưởng niệm nhà văn Nikolai Leskov",
+      "Phòng làm việc phục dựng cùng bản thảo, thư từ và đồ dùng cá nhân của nhà văn",
+      "Câu chuyện ra đời của 'Người tả nghiêng' và 'Lady Macbeth huyện Mtsensk'"
+    ],
+    "practical": {
+      "hours_vi": "Thường mở cửa 10:00–18:00, nghỉ một ngày trong tuần và ngày vệ sinh; nên kiểm tra trước.",
+      "ticket_vi": "Vé vào cửa giá phổ thông, có giảm cho học sinh - sinh viên và người hưu trí.",
+      "duration_vi": "Khoảng 1 giờ.",
+      "best_time_vi": "Quanh năm; kết hợp đi bộ dạo phố cổ Oryol.",
+      "tips_vi": "Nằm gần trung tâm, tiện ghép cùng các bảo tàng văn học khác trên cùng tuyến phố."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%94%D0%BE%D0%BC-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%20%D0%9D.%20%D0%A1.%20%D0%9B%D0%B5%D1%81%D0%BA%D0%BE%D0%B2%D0%B0&ll=36.053638,52.968759&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=N.S.%20Leskov%20House-Museum%2C%20Oryol%2C%20Russia"
+    },
+    "official_site": "http://turgenevmus.ru/",
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Дом-музей Н. С. Лескова",
+        "url": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BC-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9_%D0%9D._%D0%A1._%D0%9B%D0%B5%D1%81%D0%BA%D0%BE%D0%B2%D0%B0"
+      }
+    ],
+    "tags": [
+      "literary",
+      "leskov",
+      "museum",
+      "history",
+      "writer"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "oryol-oryol-writers-museum",
+    "slug": "oryol-writers-museum",
+    "region": "oryol",
+    "region_name_vi": "Tỉnh Oryol",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Bảo tàng các nhà văn xứ Oryol (Музей писателей-орловцев, đọc: Mu-zây pi-xa-che-lây oóc-lốp-txép)",
+    "name_ru": "Музей писателей-орловцев",
+    "name_en": "Museum of Oryol Writers",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 52.967545,
+      "lon": 36.060307
+    },
+    "address_vi": "Phố Turgeneva 13, thành phố Oryol, tỉnh Oryol, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng tổng hợp giới thiệu chùm 'ngôi sao' văn chương sinh ra hoặc gắn bó với vùng Oryol: Fet, Tyutchev, Andreyev, Bunin, Prishvin và nhiều tên tuổi khác. Một điểm khởi đầu lý tưởng để hiểu vì sao Oryol được gọi là 'thành phố văn học'.",
+    "presentation_long_vi": "Ra đời năm 1957 trong một dinh thự cổ trên phố Turgeneva, Bảo tàng các nhà văn xứ Oryol quy tụ di sản của nhiều văn nhân, thi sĩ gắn với mảnh đất này. Các gian phòng lần lượt tôn vinh Afanasy Fet, Fyodor Tyutchev, Leonid Andreyev, Ivan Bunin, Mikhail Prishvin cùng những cây bút khác, qua bản thảo, thư từ, ảnh chân dung, đồ dùng và ấn phẩm quý. Trưng bày làm nổi bật mật độ tài năng văn học đáng kinh ngạc của một tỉnh nhỏ - điều khiến nhà văn Nikolai Leskov từng ví Oryol đã 'nuôi dưỡng bằng dòng nước cạn của mình' nhiều nhà văn hơn bất cứ thành phố Nga nào. Đây là một trong những chi nhánh trung tâm của Bảo tàng Văn học Liên hợp Quốc gia I.S. Turgenev, thích hợp để bắt đầu hành trình khám phá 'bản đồ văn chương' Oryol.",
+    "highlights_vi": [
+      "Giới thiệu tổng quan chùm nhà văn - nhà thơ nổi tiếng của vùng Oryol",
+      "Sưu tập bản thảo, thư từ và kỷ vật của Fet, Tyutchev, Andreyev, Bunin, Prishvin",
+      "Điểm khởi đầu để hiểu danh xưng 'thành phố văn học' của Oryol"
+    ],
+    "practical": {
+      "hours_vi": "Thường mở 10:00–18:00, nghỉ một ngày trong tuần; nên kiểm tra lịch.",
+      "ticket_vi": "Vé phổ thông, có ưu đãi cho học sinh - sinh viên, hưu trí.",
+      "duration_vi": "Khoảng 1–1,5 giờ.",
+      "best_time_vi": "Quanh năm.",
+      "tips_vi": "Nằm ngay trung tâm, gần Bảo tàng Bunin và Bảo tàng Turgenev - tiện tham quan cụm."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%B9%20%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9-%D0%BE%D1%80%D0%BB%D0%BE%D0%B2%D1%86%D0%B5%D0%B2&ll=36.060307,52.967545&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Oryol%20Writers%2C%20Russia"
+    },
+    "official_site": "http://turgenevmus.ru/",
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Музей писателей-орловцев",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D0%B7%D0%B5%D0%B9_%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9-%D0%BE%D1%80%D0%BB%D0%BE%D0%B2%D1%86%D0%B5%D0%B2"
+      }
+    ],
+    "tags": [
+      "literary",
+      "museum",
+      "history",
+      "writers"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "oryol-granovsky-house-museum-oryol",
+    "slug": "granovsky-house-museum-oryol",
+    "region": "oryol",
+    "region_name_vi": "Tỉnh Oryol",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Nhà - Bảo tàng T.N. Granovsky (Дом-музей Т.Н. Грановского, đọc: Đôm-mu-zây Gra-nốp-xcô-vô)",
+    "name_ru": "Дом-музей Т. Н. Грановского",
+    "name_en": "T.N. Granovsky House-Museum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 52.96595,
+      "lon": 36.060027
+    },
+    "address_vi": "Phố 7 Noyabrya 24, thành phố Oryol, tỉnh Oryol, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Ngôi nhà gỗ nơi sinh sử gia và nhà tư tưởng khai sáng Timofey Granovsky - 'người phương Tây' nổi tiếng của Nga thế kỷ 19. Bảo tàng khắc họa đời sống trí thức tỉnh lẻ và phong trào tư tưởng thời Nikolai I.",
+    "presentation_long_vi": "Nằm trên phố 7 Noyabrya, Nhà - Bảo tàng T.N. Granovsky là ngôi nhà gỗ đô thị điển hình của Oryol thế kỷ 19, gắn với Timofey Granovsky (1813-1855) - nhà sử học, giáo sư Đại học Moskva, một trong những đại diện lỗi lạc nhất của trào lưu 'người phương Tây' (zapadniki). Bảo tàng phục dựng không gian sinh hoạt của một gia đình quý tộc tỉnh lẻ với nội thất, sách vở và tranh ảnh thời đại. Ngoài Granovsky, trưng bày còn mở rộng tới các nhân vật khai sáng khác của Oryol, cho thấy thành phố không chỉ nuôi dưỡng nhà văn mà cả các nhà tư tưởng, sử gia. Không gian yên tĩnh, đậm chất hoài cổ, giúp du khách hình dung bầu không khí trí thức Nga giữa thế kỷ 19.",
+    "highlights_vi": [
+      "Ngôi nhà gỗ nơi sinh sử gia Timofey Granovsky, thủ lĩnh phái 'người phương Tây'",
+      "Nội thất phục dựng đời sống gia đình quý tộc trí thức tỉnh lẻ Nga",
+      "Góc nhìn về phong trào tư tưởng và khai sáng Nga thế kỷ 19"
+    ],
+    "practical": {
+      "hours_vi": "Thường mở 10:00–18:00, nghỉ một ngày trong tuần; nên kiểm tra lịch.",
+      "ticket_vi": "Vé phổ thông, có ưu đãi cho học sinh - sinh viên, hưu trí.",
+      "duration_vi": "Khoảng 45–60 phút.",
+      "best_time_vi": "Quanh năm.",
+      "tips_vi": "Gần trung tâm lịch sử, dễ kết hợp với các nhà - bảo tàng văn học lân cận."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%94%D0%BE%D0%BC-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%20%D0%A2.%20%D0%9D.%20%D0%93%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE&ll=36.060027,52.96595&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=T.N.%20Granovsky%20House-Museum%2C%20Oryol%2C%20Russia"
+    },
+    "official_site": "http://turgenevmus.ru/",
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Дом-музей Т. Н. Грановского",
+        "url": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BC-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9_%D0%A2._%D0%9D._%D0%93%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE"
+      }
+    ],
+    "tags": [
+      "museum",
+      "history",
+      "granovsky",
+      "intellectual"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "oryol-oryol-regional-museum",
+    "slug": "oryol-regional-museum",
+    "region": "oryol",
+    "region_name_vi": "Tỉnh Oryol",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Bảo tàng Nghiên cứu địa phương Oryol (Орловский краеведческий музей, đọc: Oóc-lốp-xki cra-ê-vét-cheski)",
+    "name_ru": "Орловский краеведческий музей",
+    "name_en": "Oryol Regional Museum of Local Lore",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 52.964388,
+      "lon": 36.068637
+    },
+    "address_vi": "Phố Gostinaya 2, thành phố Oryol, tỉnh Oryol, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng lịch sử - địa phương lâu đời của tỉnh Oryol (thành lập 1897), trưng bày từ khảo cổ, dân tộc học đến lịch sử quân sự. Đặt trong Dãy phố Thương mại (Torgovye Ryady) cổ kính bên sông Orlik.",
+    "presentation_long_vi": "Được thành lập năm 1897, Bảo tàng Nghiên cứu địa phương Oryol là một trong những bảo tàng lâu đời nhất vùng, lưu giữ hàng chục nghìn hiện vật kể câu chuyện của mảnh đất Oryol từ thời tiền sử tới nay. Bộ sưu tập trải rộng: cổ vật khảo cổ, trang phục và đồ dùng dân gian, vũ khí, tiền cổ, tài liệu về đời sống quý tộc và nông dân, cùng các gian về Thế chiến thứ hai và công cuộc giải phóng Oryol năm 1943. Bảo tàng tọa lạc trong tòa nhà Dãy phố Thương mại (Torgovye Ryady) mang kiến trúc đô thị thế kỷ 19-20, ngay khu trung tâm lịch sử bên sông Orlik. Đây là nơi lý tưởng để nắm bắt bức tranh toàn cảnh về thiên nhiên, lịch sử và văn hóa của tỉnh trước khi khám phá các điểm đến chuyên đề.",
+    "highlights_vi": [
+      "Một trong những bảo tàng địa phương lâu đời nhất nước Nga (từ 1897)",
+      "Sưu tập đa dạng: khảo cổ, dân tộc học, lịch sử quân sự và đời sống địa phương",
+      "Đặt trong Dãy phố Thương mại cổ bên sông Orlik ở trung tâm thành phố"
+    ],
+    "practical": {
+      "hours_vi": "Thường mở 10:00–18:00, nghỉ một ngày trong tuần; kiểm tra lịch trước.",
+      "ticket_vi": "Vé phổ thông, ưu đãi cho học sinh - sinh viên, hưu trí; phụ thu triển lãm đặc biệt.",
+      "duration_vi": "Khoảng 1,5–2 giờ.",
+      "best_time_vi": "Quanh năm.",
+      "tips_vi": "Nằm ngay trung tâm, kết hợp dạo bộ khu Torgovye Ryady và bờ sông Orlik."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9E%D1%80%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D1%80%D0%B0%D0%B5%D0%B2%D0%B5%D0%B4%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9&ll=36.068637,52.964388&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Oryol%20Regional%20Museum%20of%20Local%20Lore%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Орловский краеведческий музей",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9E%D1%80%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B0%D0%B5%D0%B2%D0%B5%D0%B4%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9"
+      }
+    ],
+    "tags": [
+      "museum",
+      "history",
+      "local-lore",
+      "archaeology"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "oryol-oryol-fine-arts-museum",
+    "slug": "oryol-fine-arts-museum",
+    "region": "oryol",
+    "region_name_vi": "Tỉnh Oryol",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Bảo tàng Mỹ thuật Oryol (Орловский музей изобразительных искусств, đọc: Mu-zây i-zô-bra-zi-chen-nykh i-xcút-xtv)",
+    "name_ru": "Орловский музей изобразительных искусств",
+    "name_en": "Oryol Museum of Fine Arts",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 52.972261,
+      "lon": 36.058155
+    },
+    "address_vi": "Phố Oktyabrskaya 29, thành phố Oryol, tỉnh Oryol, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng mỹ thuật chính của tỉnh, trưng bày hội họa Nga và châu Âu từ thế kỷ 18 đến hiện đại, cùng nghệ thuật trang trí và tranh của các họa sĩ gốc Oryol. Đặt trong tòa nhà tân cổ điển bề thế.",
+    "presentation_long_vi": "Bảo tàng Mỹ thuật Oryol lưu giữ bộ sưu tập nghệ thuật phong phú của vùng, gồm tranh sơn dầu, đồ họa, điêu khắc và nghệ thuật trang trí - ứng dụng. Khách tham quan có thể chiêm ngưỡng tác phẩm của các bậc thầy hội họa Nga thế kỷ 18-20 - trong đó có những chân dung, phong cảnh của trường phái hiện thực - bên cạnh nghệ thuật châu Âu và các sáng tác của họa sĩ sinh trưởng ở Oryol. Bảo tàng đặt trong một tòa nhà kiến trúc trang nhã ở trung tâm, thường xuyên tổ chức triển lãm chuyên đề, chương trình giáo dục nghệ thuật và các buổi hòa nhạc thính phòng. Đây là điểm dừng chân đáng giá cho ai yêu hội họa và muốn thấy khía cạnh nghệ thuật tạo hình của 'thành phố văn học' Oryol.",
+    "highlights_vi": [
+      "Bộ sưu tập hội họa Nga và châu Âu từ thế kỷ 18 đến hiện đại",
+      "Tác phẩm của các họa sĩ gốc Oryol và nghệ thuật trang trí - ứng dụng",
+      "Triển lãm chuyên đề và chương trình nghệ thuật diễn ra thường xuyên"
+    ],
+    "practical": {
+      "hours_vi": "Thường mở 10:00–18:00, nghỉ một ngày trong tuần; kiểm tra lịch.",
+      "ticket_vi": "Vé phổ thông, ưu đãi cho học sinh - sinh viên, hưu trí.",
+      "duration_vi": "Khoảng 1–1,5 giờ.",
+      "best_time_vi": "Quanh năm.",
+      "tips_vi": "Ở trung tâm, tiện đi bộ tới quảng trường Lenin và các bảo tàng khác."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9E%D1%80%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2&ll=36.058155,52.972261&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Oryol%20Museum%20of%20Fine%20Arts%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Орловский музей изобразительных искусств",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9E%D1%80%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2"
+      }
+    ],
+    "tags": [
+      "museum",
+      "art",
+      "painting",
+      "culture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "oryol-rusanov-house-museum-oryol",
+    "slug": "rusanov-house-museum-oryol",
+    "region": "oryol",
+    "region_name_vi": "Tỉnh Oryol",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Nhà - Bảo tàng V.A. Rusanov (Дом-музей В.А. Русанова, đọc: Đôm-mu-zây Ru-xa-nô-vô)",
+    "name_ru": "Мемориальный дом-музей В. А. Русанова",
+    "name_en": "V.A. Rusanov House-Museum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 52.963327,
+      "lon": 36.087496
+    },
+    "address_vi": "Phố Rusanova 43, thành phố Oryol, tỉnh Oryol, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng tưởng niệm Vladimir Rusanov - nhà thám hiểm Bắc Cực sinh ra ở Oryol, người mất tích trong chuyến viễn chinh biển Kara năm 1912. Đặt trong ngôi nhà thời thơ ấu của ông bên bờ sông Oka.",
+    "presentation_long_vi": "Nhà - Bảo tàng V.A. Rusanov nằm trong ngôi nhà gỗ nơi nhà địa chất và thám hiểm vùng cực Vladimir Rusanov (1875-1913) trải qua tuổi thơ. Rusanov là một trong những người tiên phong nghiên cứu quần đảo Novaya Zemlya và tuyến đường biển phương Bắc; chuyến thám hiểm cuối cùng của ông trên con tàu 'Hercules' đã mất tích bí ẩn ở biển Kara. Bảo tàng tái hiện không gian gia đình cuối thế kỷ 19 và kể lại sự nghiệp khoa học đầy dấn thân của ông qua bản đồ, dụng cụ hàng hải, ảnh tư liệu và mô hình. Câu chuyện Rusanov thậm chí truyền cảm hứng cho tiểu thuyết nổi tiếng 'Hai thuyền trưởng' của Veniamin Kaverin. Đây là điểm đến bất ngờ giữa 'thành phố văn học', mở ra khía cạnh khám phá địa lý và tinh thần phiêu lưu.",
+    "highlights_vi": [
+      "Ngôi nhà thời thơ ấu của nhà thám hiểm Bắc Cực Vladimir Rusanov",
+      "Bản đồ, dụng cụ hàng hải và tư liệu về các chuyến thám hiểm vùng cực",
+      "Câu chuyện truyền cảm hứng cho tiểu thuyết 'Hai thuyền trưởng'"
+    ],
+    "practical": {
+      "hours_vi": "Thường mở 10:00–18:00, nghỉ một ngày trong tuần; kiểm tra lịch.",
+      "ticket_vi": "Vé phổ thông, ưu đãi cho học sinh - sinh viên, hưu trí.",
+      "duration_vi": "Khoảng 45–60 phút.",
+      "best_time_vi": "Quanh năm.",
+      "tips_vi": "Nằm ở khu Zheleznodorozhny bên tả ngạn Oka; kết hợp dạo bờ sông."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%B4%D0%BE%D0%BC-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%20%D0%92.%20%D0%90.%20%D0%A0%D1%83%D1%81%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0&ll=36.087496,52.963327&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=V.A.%20Rusanov%20House-Museum%2C%20Oryol%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "OpenStreetMap — vị trí Дом-музей В. А. Русанова",
+        "url": "https://www.openstreetmap.org/?mlat=52.963327&mlon=36.087496#map=18/52.963327/36.087496"
+      },
+      {
+        "title": "Wikipedia (RU) — Русанов, Владимир Александрович",
+        "url": "https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D0%B0%D0%BD%D0%BE%D0%B2%2C_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87"
+      }
+    ],
+    "tags": [
+      "museum",
+      "explorer",
+      "arctic",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "oryol-andreyev-house-museum-oryol",
+    "slug": "andreyev-house-museum-oryol",
+    "region": "oryol",
+    "region_name_vi": "Tỉnh Oryol",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Nhà - Bảo tàng Leonid Andreyev (Дом-музей Леонида Андреева, đọc: Đôm-mu-zây Le-a-nhít An-đrê-ê-vô)",
+    "name_ru": "Дом-музей Леонида Андреева",
+    "name_en": "Leonid Andreyev House-Museum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 52.961216,
+      "lon": 36.048971
+    },
+    "address_vi": "Phố 2-ya Pushkarnaya 41, thành phố Oryol, tỉnh Oryol, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Ngôi nhà gỗ nơi văn hào Leonid Andreyev - bậc thầy truyện ngắn và kịch của 'Thời đại Bạc' Nga - trải qua tuổi thơ. Không gian được phục dựng nguyên vẹn theo hồi ức chính nhà văn.",
+    "presentation_long_vi": "Trên phố 2-ya Pushkarnaya vẫn còn ngôi nhà gia đình Andreyev, nơi Leonid Andreyev (1871-1919) - một trong những nhà văn, nhà viết kịch tiêu biểu nhất của 'Thời đại Bạc' - sinh ra và lớn lên. Bảo tàng phục dựng tỉ mỉ nội thất căn nhà gỗ theo đúng những gì nhà văn mô tả trong hồi ký và các trang tự truyện, từ phòng khách, bàn ăn tới góc học tập của cậu bé Leonid. Trưng bày giới thiệu bản thảo, thư từ, ảnh chụp và cả những tác phẩm hội họa của Andreyev (ông cũng vẽ và chụp ảnh lập thể), làm nổi bật thế giới nội tâm u uẩn, đầy trăn trở về sự sống và cái chết trong sáng tác của ông như 'Bảy người bị treo cổ' hay 'Đời người'. Ngôi nhà ấm cúng giữa khu phố cổ Pushkarnaya mang lại cảm giác chân thực về tuổi thơ tỉnh lẻ đã nuôi dưỡng một tài năng văn chương lớn.",
+    "highlights_vi": [
+      "Ngôi nhà tuổi thơ của văn hào 'Thời đại Bạc' Leonid Andreyev",
+      "Nội thất phục dựng theo đúng hồi ký và tự truyện của nhà văn",
+      "Bản thảo, thư từ cùng tranh và ảnh lập thể do chính Andreyev thực hiện"
+    ],
+    "practical": {
+      "hours_vi": "Thường mở 10:00–17:00, nghỉ thứ Sáu và thứ Ba tuần thứ hai trong tháng; nên kiểm tra trước.",
+      "ticket_vi": "Vé phổ thông, ưu đãi cho học sinh - sinh viên, hưu trí.",
+      "duration_vi": "Khoảng 45–60 phút.",
+      "best_time_vi": "Quanh năm.",
+      "tips_vi": "Nằm ở khu Pushkarnaya bên tả ngạn Oka; đi taxi hoặc xe buýt từ trung tâm."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%94%D0%BE%D0%BC-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%20%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B0&ll=36.048971,52.961216&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Leonid%20Andreyev%20House-Museum%2C%20Oryol%2C%20Russia"
+    },
+    "official_site": "http://turgenevmus.ru/dom-muzej-l-n-andreeva/",
+    "sources": [
+      {
+        "title": "2GIS — Дом-музей Леонида Андреева (toạ độ 52.961216, 36.048971)",
+        "url": "https://2gis.ru/orel/firm/9992889954206946"
+      },
+      {
+        "title": "Орловский литературный музей — Дом-музей Л. Н. Андреева",
+        "url": "http://turgenevmus.ru/dom-muzej-l-n-andreeva/"
+      }
+    ],
+    "tags": [
+      "literary",
+      "andreyev",
+      "museum",
+      "silver-age",
+      "writer"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "oryol-mikhail-archangel-church-oryol",
+    "slug": "mikhail-archangel-church-oryol",
+    "region": "oryol",
+    "region_name_vi": "Tỉnh Oryol",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Nhà thờ Tổng lãnh thiên thần Mikhail (Собор Михаила Архангела / Успенская церковь, đọc: Xa-bo Mi-kha-i-la Ar-khan-ghe-la)",
+    "name_ru": "Собор Михаила Архангела (Успенский)",
+    "name_en": "Cathedral of St. Michael the Archangel (Assumption Church)",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 52.961863,
+      "lon": 36.063438
+    },
+    "address_vi": "Phố Lenina 20, thành phố Oryol, tỉnh Oryol, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhà thờ Chính thống giáo lớn bậc nhất Oryol, xây cuối thế kỷ 18 - đầu 19 theo phong cách baroque và cổ điển. Turgenev và Leskov từng nhắc tới ngôi đền này; nơi đây lưu giữ nhiều thánh tích quý.",
+    "presentation_long_vi": "Nhà thờ Tổng lãnh thiên thần Mikhail, còn gọi là nhà thờ Uspenskaya (Đức Mẹ An giấc), được khởi công năm 1801 và hoàn thành đầu thế kỷ 19 trên nền một ngôi đền cổ hơn bên bờ sông Orlik. Công trình kết hợp nét baroque muộn với cổ điển, nổi bật với gian giữa rộng, tháp chuông cao và các mái vòm. Đây là một trong những nhà thờ lớn và đẹp nhất thành phố, từng được nhắc đến trong trang viết của Turgenev và Leskov - những người con của Oryol. Trải qua thời kỳ Xô viết bị đóng cửa và trưng dụng, nhà thờ đã được trả lại cho Giáo hội và trùng tu, nay là một trung tâm tôn giáo sống động với các thánh tích được tôn kính. Vị trí sát dòng Orlik khiến ngôi đền trở thành điểm nhấn cảnh quan quen thuộc của trung tâm lịch sử Oryol.",
+    "highlights_vi": [
+      "Một trong những nhà thờ lớn và cổ kính nhất Oryol (đầu thế kỷ 19)",
+      "Kiến trúc pha trộn baroque muộn và cổ điển bên bờ sông Orlik",
+      "Gắn với trang viết của Turgenev và Leskov về quê hương Oryol"
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa hằng ngày theo giờ lễ, thường từ sáng sớm đến tối.",
+      "ticket_vi": "Miễn phí vào cửa; hoan nghênh quyên góp.",
+      "duration_vi": "Khoảng 30 phút.",
+      "best_time_vi": "Quanh năm; đẹp và trang nghiêm vào các dịp lễ Chính thống giáo.",
+      "tips_vi": "Ăn mặc kín đáo; nữ nên trùm khăn khi vào bên trong."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%BE%D0%B1%D0%BE%D1%80%20%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%D0%B0%20%D0%90%D1%80%D1%85%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D0%B0%20%28%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%29&ll=36.063438,52.961863&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Cathedral%20of%20St.%20Michael%20the%20Archangel%20%28Assumption%20Church%29%2C%20Oryol%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "OpenStreetMap — vị trí Собор Михаила Архангела",
+        "url": "https://www.openstreetmap.org/?mlat=52.961863&mlon=36.063438#map=18/52.961863/36.063438"
+      }
+    ],
+    "tags": [
+      "church",
+      "orthodox",
+      "architecture",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "oryol-akhtyrka-cathedral-oryol",
+    "slug": "akhtyrka-cathedral-oryol",
+    "region": "oryol",
+    "region_name_vi": "Tỉnh Oryol",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Nhà thờ chính tòa Akhtyrka (Ахтырский кафедральный собор, đọc: Akh-tưr-xki ca-phê-đran-nưi xa-bo)",
+    "name_ru": "Собор Ахтырской иконы Божией Матери (Никитский храм)",
+    "name_en": "Akhtyrka Cathedral (Church of the Akhtyrka Icon)",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 52.960384,
+      "lon": 36.086231
+    },
+    "address_vi": "Phố 5 Avgusta 18, thành phố Oryol, tỉnh Oryol, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhà thờ chính tòa của Oryol, còn gọi là Nikitsky храм, xây năm 1775 theo phong cách baroque, với tháp chuông cao vút. Một trong số ít đền thờ hoạt động liên tục qua thời Xô viết.",
+    "presentation_long_vi": "Được xây dựng năm 1775 và cung hiến cho biểu tượng Đức Mẹ Akhtyrka, nhà thờ Akhtyrka (dân gian còn gọi Nikitsky храм theo tên bàn thờ phụ Thánh Nikita) là một trong những công trình tôn giáo đẹp và quan trọng nhất Oryol. Ngôi đền mang phong cách baroque tỉnh lẻ với thân nhà thờ chắc khỏe, các mái vòm hành và tháp chuông nhiều tầng vươn cao - một điểm nhấn quen thuộc trên bờ tả ngạn sông Oka. Điều đặc biệt là nhà thờ gần như không ngừng hoạt động suốt thời kỳ Xô viết vô thần, nhờ đó giữ được nội thất, các biểu tượng thánh và bầu không khí tín ngưỡng nguyên vẹn. Từ năm 1962 tới nay, đây là nhà thờ chính tòa (собор) của giáo phận Oryol, nơi diễn ra những nghi lễ trọng thể nhất.",
+    "highlights_vi": [
+      "Nhà thờ chính tòa của giáo phận Oryol, xây năm 1775",
+      "Kiến trúc baroque tỉnh lẻ với tháp chuông nhiều tầng cao vút",
+      "Một trong số ít đền thờ hoạt động gần như liên tục qua thời Xô viết"
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa hằng ngày theo giờ lễ, thường từ sáng sớm đến tối.",
+      "ticket_vi": "Miễn phí vào cửa; hoan nghênh quyên góp.",
+      "duration_vi": "Khoảng 30 phút.",
+      "best_time_vi": "Quanh năm; trang nghiêm nhất vào các đại lễ Chính thống giáo.",
+      "tips_vi": "Ăn mặc kín đáo; nữ nên trùm khăn khi vào."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%BE%D0%B1%D0%BE%D1%80%20%D0%90%D1%85%D1%82%D1%8B%D1%80%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B8%D0%BA%D0%BE%D0%BD%D1%8B%20%D0%91%D0%BE%D0%B6%D0%B8%D0%B5%D0%B9%20%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%20%28%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D1%85%D1%80%D0%B0%D0%BC%29&ll=36.086231,52.960384&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Akhtyrka%20Cathedral%20%28Church%20of%20the%20Akhtyrka%20Icon%29%2C%20Oryol%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "OpenStreetMap — vị trí Ахтырский собор",
+        "url": "https://www.openstreetmap.org/?mlat=52.960384&mlon=36.086231#map=18/52.960384/36.086231"
+      }
+    ],
+    "tags": [
+      "church",
+      "orthodox",
+      "cathedral",
+      "baroque",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "oryol-vvedensky-convent-oryol",
+    "slug": "vvedensky-convent-oryol",
+    "region": "oryol",
+    "region_name_vi": "Tỉnh Oryol",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Tu viện nữ Vvedensky (Введенский женский монастырь, đọc: Vve-đen-xki)",
+    "name_ru": "Введенский женский монастырь",
+    "name_en": "Vvedensky Convent (Presentation Convent)",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 52.9575,
+      "lon": 36.09556
+    },
+    "address_vi": "Phố 1-ya Kurskaya 92, thành phố Oryol, tỉnh Oryol, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Tu viện nữ Chính thống giáo cổ của Oryol, thành lập từ thế kỷ 17. Sau khi bị hỏa hoạn và đóng cửa thời Xô viết, tu viện đã hồi sinh với các nhà thờ được trùng tu và khuôn viên thanh tịnh.",
+    "presentation_long_vi": "Tu viện nữ Vvedensky (dâng kính lễ Đức Mẹ Vào Đền Thờ) là một trong những cộng đoàn tu hành lâu đời nhất Oryol, có nguồn gốc từ thế kỷ 17. Ban đầu nằm gần trung tâm, sau trận đại hỏa hoạn năm 1843 tu viện được chuyển tới địa điểm hiện nay ở khu Kurskaya và dần được xây dựng lại với nhà thờ chính, các nhà nguyện, phòng ở của các nữ tu và tường bao. Thời Xô viết, tu viện bị đóng cửa và sử dụng vào mục đích thế tục; từ đầu thập niên 1990, đời sống tu trì được phục hồi, các công trình được trùng tu và khuôn viên trở lại vẻ thanh tịnh. Du khách tới đây tìm thấy không gian tĩnh lặng, những mái vòm xanh - vàng, vườn cây và bầu không khí cầu nguyện đặc trưng của một nữ tu viện Nga.",
+    "highlights_vi": [
+      "Một trong những tu viện nữ lâu đời nhất Oryol (gốc từ thế kỷ 17)",
+      "Quần thể nhà thờ và nhà nguyện được trùng tu sau thời Xô viết",
+      "Không gian tĩnh lặng, vườn cây và bầu không khí cầu nguyện"
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa hằng ngày theo giờ lễ và giờ sinh hoạt tu viện.",
+      "ticket_vi": "Miễn phí vào cửa; hoan nghênh quyên góp.",
+      "duration_vi": "Khoảng 30–45 phút.",
+      "best_time_vi": "Quanh năm.",
+      "tips_vi": "Ăn mặc kín đáo, giữ yên lặng; nữ nên mặc váy dài và trùm khăn."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C&ll=36.09556,52.9575&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Vvedensky%20Convent%20%28Presentation%20Convent%29%2C%20Oryol%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Введенский монастырь (Орёл)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_%28%D0%9E%D1%80%D1%91%D0%BB%29"
+      }
+    ],
+    "tags": [
+      "church",
+      "monastery",
+      "convent",
+      "orthodox",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "oryol-smolensky-church-oryol",
+    "slug": "smolensky-church-oryol",
+    "region": "oryol",
+    "region_name_vi": "Tỉnh Oryol",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Nhà thờ Đức Mẹ Smolensk (Церковь Смоленской иконы Божией Матери, đọc: Xmô-len-xca-ia)",
+    "name_ru": "Церковь Смоленской иконы Божией Матери",
+    "name_en": "Church of the Smolensk Icon of the Mother of God",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 52.953614,
+      "lon": 36.068312
+    },
+    "address_vi": "Phố Normandii-Nemana 27, thành phố Oryol, tỉnh Oryol, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhà thờ đồ sộ mang phong cách Nga - Byzantine cuối thế kỷ 19, một trong những công trình tôn giáo lớn và ấn tượng nhất Oryol với năm mái vòm và trang trí gạch tinh xảo.",
+    "presentation_long_vi": "Nhà thờ Đức Mẹ Smolensk được xây dựng trong những năm 1857-1908 bằng kinh phí quyên góp của giáo dân, trở thành một trong những ngôi đền lớn và bề thế nhất Oryol. Công trình mang phong cách chiết trung Nga - Byzantine (russo-vizantiysky) đặc trưng cuối thế kỷ 19, với khối nhà thờ vươn cao, năm mái vòm hành và mặt tường gạch đỏ trang trí hoa văn tinh tế theo kiểu 'узорочье'. Vào thời Xô viết, nhà thờ bị đóng cửa, tháp chuông bị phá và không gian bị dùng làm xưởng; từ thập niên 1990 công trình dần được trùng tu và trả lại chức năng phụng tự. Dù việc phục dựng vẫn tiếp tục, quy mô và vẻ đẹp mộc mạc của gạch đỏ khiến nhà thờ Smolensk trở thành một trong những kiến trúc tôn giáo đáng nhớ nhất thành phố.",
+    "highlights_vi": [
+      "Một trong những nhà thờ lớn nhất Oryol, xây trong nửa sau thế kỷ 19",
+      "Phong cách Nga - Byzantine với năm mái vòm và tường gạch hoa văn 'узорочье'",
+      "Hồi sinh sau thời Xô viết, việc trùng tu vẫn đang tiếp diễn"
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa hằng ngày theo giờ lễ.",
+      "ticket_vi": "Miễn phí vào cửa; hoan nghênh quyên góp.",
+      "duration_vi": "Khoảng 30 phút.",
+      "best_time_vi": "Quanh năm.",
+      "tips_vi": "Ăn mặc kín đáo; nữ nên trùm khăn khi vào bên trong."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C%20%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B8%D0%BA%D0%BE%D0%BD%D1%8B%20%D0%91%D0%BE%D0%B6%D0%B8%D0%B5%D0%B9%20%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8&ll=36.068312,52.953614&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Church%20of%20the%20Smolensk%20Icon%20of%20the%20Mother%20of%20God%2C%20Oryol%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "OpenStreetMap — vị trí Церковь Смоленской иконы",
+        "url": "https://www.openstreetmap.org/?mlat=52.953614&mlon=36.068312#map=18/52.953614/36.068312"
+      }
+    ],
+    "tags": [
+      "church",
+      "orthodox",
+      "architecture",
+      "russo-byzantine"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "oryol-trinity-church-oryol",
+    "slug": "trinity-church-oryol",
+    "region": "oryol",
+    "region_name_vi": "Tỉnh Oryol",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Nhà thờ Chúa Ba Ngôi (Троицкая церковь, đọc: Trô-ít-xca-ia txéc-cốp)",
+    "name_ru": "Церковь Троицы Живоначальной (Троицкая)",
+    "name_en": "Trinity Church (Oryol)",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 52.978712,
+      "lon": 36.055247
+    },
+    "address_vi": "Phố Leskova 17, thành phố Oryol, tỉnh Oryol, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhà thờ nghĩa trang cổ của Oryol, xây đầu thế kỷ 19, nơi an nghỉ của danh tướng Aleksey Yermolov - anh hùng chiến tranh 1812. Một điểm hành hương và lịch sử ý nghĩa.",
+    "presentation_long_vi": "Nhà thờ Chúa Ba Ngôi nằm cạnh nghĩa trang Troitskoye cổ ở phía bắc Oryol, được xây dựng đầu thế kỷ 19 theo phong cách cổ điển. Ngôi đền đặc biệt gắn với tên tuổi tướng Aleksey Yermolov (1777-1861) - vị chỉ huy lừng danh trong Chiến tranh Vệ quốc 1812 và các chiến dịch vùng Kavkaz, người gốc Oryol - được an táng trong một nhà nguyện phụ bên nhà thờ. Nhờ đó, nơi đây trở thành điểm đến vừa mang ý nghĩa tôn giáo vừa mang giá trị lịch sử - quân sự, thu hút những ai quan tâm tới di sản Chiến tranh 1812. Nhà thờ hoạt động gần như liên tục, giữ được nội thất và bầu không khí trầm mặc của một ngôi đền nghĩa trang cổ, bao quanh là những phần mộ cũ và cây xanh lâu năm.",
+    "highlights_vi": [
+      "Nhà thờ nghĩa trang cổ đầu thế kỷ 19 ở phía bắc thành phố",
+      "Nơi an nghỉ của danh tướng Aleksey Yermolov, anh hùng chiến tranh 1812",
+      "Điểm đến kết hợp giá trị tôn giáo và lịch sử - quân sự"
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa hằng ngày theo giờ lễ.",
+      "ticket_vi": "Miễn phí vào cửa; hoan nghênh quyên góp.",
+      "duration_vi": "Khoảng 30 phút.",
+      "best_time_vi": "Quanh năm.",
+      "tips_vi": "Ăn mặc kín đáo; giữ yên lặng vì nằm trong khu nghĩa trang."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C%20%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D1%8B%20%D0%96%D0%B8%D0%B2%D0%BE%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9%20%28%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B0%D1%8F%29&ll=36.055247,52.978712&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Trinity%20Church%20%28Oryol%29%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "OpenStreetMap — vị trí Троицкая церковь",
+        "url": "https://www.openstreetmap.org/?mlat=52.978712&mlon=36.055247#map=18/52.978712/36.055247"
+      }
+    ],
+    "tags": [
+      "church",
+      "orthodox",
+      "history",
+      "yermolov",
+      "1812"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "oryol-transfiguration-cathedral-bolkhov",
+    "slug": "transfiguration-cathedral-bolkhov",
+    "region": "oryol",
+    "region_name_vi": "Tỉnh Oryol",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Nhà thờ chính tòa Chúa Biến Hình, Bolkhov (Спасо-Преображенский собор, đọc: Xpa-xô Pre-a-bra-zhen-xki xa-bo)",
+    "name_ru": "Спасо-Преображенский собор (Болхов)",
+    "name_en": "Transfiguration Cathedral (Bolkhov)",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 53.442,
+      "lon": 36.0058
+    },
+    "address_vi": "Thị trấn Bolkhov, huyện Bolkhov, tỉnh Oryol, Nga (cách Oryol khoảng 55 km về phía bắc)",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhà thờ chính tòa nguy nga của thị trấn cổ Bolkhov, xây giữa thế kỷ 19 trên nền đền cổ hơn. Khối kiến trúc năm mái vòm đồ sộ trên đồi cao là biểu tượng của 'thành phố nhà thờ' Bolkhov.",
+    "presentation_long_vi": "Nhà thờ Chúa Biến Hình là ngôi đền chính và biểu tượng của Bolkhov - thị trấn cổ nổi tiếng với hàng chục nhà thờ, từng được mệnh danh là 'thành phố của những mái vòm'. Công trình hiện nay được xây dựng vào các năm 1841-1851 trên nền một nhà thờ đá thế kỷ 17, theo phong cách Nga - Byzantine với năm mái vòm lớn và một tháp chuông cao tách rời. Đứng trên ngọn đồi cao bên sông Nugr, nhà thờ chi phối toàn bộ đường chân trời của thị trấn và có thể nhìn thấy từ xa. Nội thất từng nổi tiếng với bích họa và bàn thờ mạ vàng; sau thời Xô viết bị tàn phá nặng nề, công trình đang được trùng tu từng bước. Cùng với nhà thờ Trinity kề bên, đây là điểm nhấn kiến trúc - tâm linh không thể bỏ qua khi ghé Bolkhov.",
+    "highlights_vi": [
+      "Nhà thờ chính và biểu tượng của thị trấn cổ Bolkhov",
+      "Khối năm mái vòm đồ sộ trên đồi cao bên sông Nugr, xây giữa thế kỷ 19",
+      "Trung tâm của 'thành phố nhà thờ' với hàng chục đền đài Chính thống giáo"
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa theo giờ lễ; một phần vẫn đang trùng tu.",
+      "ticket_vi": "Miễn phí vào cửa; hoan nghênh quyên góp cho việc phục dựng.",
+      "duration_vi": "Khoảng 30–45 phút (cùng nhà thờ Trinity kề bên).",
+      "best_time_vi": "Cuối xuân đến đầu thu để thuận tiện di chuyển và ngắm cảnh.",
+      "tips_vi": "Từ Oryol đi xe buýt/taxi khoảng 55 km; kết hợp dạo thị trấn cổ Bolkhov."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%BF%D0%B0%D1%81%D0%BE-%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D0%B1%D0%BE%D1%80%20%28%D0%91%D0%BE%D0%BB%D1%85%D0%BE%D0%B2%29&ll=36.0058,53.442&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Transfiguration%20Cathedral%20%28Bolkhov%29%2C%20Oryol%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Спасо-Преображенский собор (Болхов)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D1%81%D0%BE-%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%28%D0%91%D0%BE%D0%BB%D1%85%D0%BE%D0%B2%29"
+      }
+    ],
+    "tags": [
+      "church",
+      "orthodox",
+      "cathedral",
+      "bolkhov",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "oryol-turgenev-theatre-oryol",
+    "slug": "turgenev-theatre-oryol",
+    "region": "oryol",
+    "region_name_vi": "Tỉnh Oryol",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Nhà hát kịch Turgenev (Орловский театр им. И.С. Тургенева, đọc: Oóc-lốp-xki chi-a-tr Tuốc-ghê-nhép)",
+    "name_ru": "Орловский государственный академический театр имени И. С. Тургенева",
+    "name_en": "Oryol State Academic Turgenev Drama Theatre",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 52.970297,
+      "lon": 36.065429
+    },
+    "address_vi": "Quảng trường Lenina 2, thành phố Oryol, tỉnh Oryol, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhà hát kịch lâu đời và uy tín nhất Oryol, mang tên đại văn hào Turgenev. Có lịch sử từ năm 1815, nay tọa lạc trong tòa nhà hiện đại bề thế ngay quảng trường Lenin trung tâm.",
+    "presentation_long_vi": "Nhà hát kịch mang tên I.S. Turgenev có cội nguồn từ năm 1815, khi một trong những nhà hát nông nô sớm nhất của Nga được lập ở Oryol - vùng đất giàu truyền thống sân khấu. Trải qua hơn hai thế kỷ, nhà hát gắn bó mật thiết với di sản văn học Turgenev và trở thành sân khấu học thuật hàng đầu của tỉnh. Từ năm 1975, nhà hát chuyển về tòa nhà hiện đại uy nghi ngay quảng trường Lenin, với khán phòng lớn và trang thiết bị đầy đủ. Tiết mục phong phú, từ các vở kinh điển Nga (Turgenev, Ostrovsky, Chekhov) tới kịch nước ngoài và tác phẩm đương đại. Trước cửa nhà hát thường có các sự kiện văn hóa, còn bên trong là không gian trang trọng - nơi khán giả Oryol gìn giữ tình yêu sân khấu suốt nhiều thế hệ.",
+    "highlights_vi": [
+      "Nhà hát kịch học thuật lâu đời nhất Oryol, cội nguồn từ năm 1815",
+      "Mang tên đại văn hào Turgenev, gắn với di sản văn học của thành phố",
+      "Tòa nhà hiện đại bề thế ngay quảng trường Lenin trung tâm"
+    ],
+    "practical": {
+      "hours_vi": "Buổi diễn thường bắt đầu 18:00–19:00; phòng vé mở ban ngày.",
+      "ticket_vi": "Giá vé tùy vở diễn và vị trí ghế, nhìn chung phải chăng.",
+      "duration_vi": "Một buổi diễn khoảng 2–3 giờ.",
+      "best_time_vi": "Mùa diễn thường từ thu đến cuối xuân.",
+      "tips_vi": "Nên đặt vé trước qua phòng vé hoặc website; đến sớm để gửi áo khoác."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9E%D1%80%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D1%82%D0%B5%D0%B0%D1%82%D1%80%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%20%D0%98.%20%D0%A1.%20%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2%D0%B0&ll=36.065429,52.970297&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Oryol%20State%20Academic%20Turgenev%20Drama%20Theatre%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Орловский театр имени И. С. Тургенева",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9E%D1%80%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%98._%D0%A1._%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2%D0%B0"
+      }
+    ],
+    "tags": [
+      "theatre",
+      "drama",
+      "turgenev",
+      "culture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "oryol-free-space-theatre-oryol",
+    "slug": "free-space-theatre-oryol",
+    "region": "oryol",
+    "region_name_vi": "Tỉnh Oryol",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Nhà hát 'Không gian Tự do' (Театр 'Свободное пространство', đọc: Xvô-bốt-nô-e pra-xtran-xtvô)",
+    "name_ru": "Орловский театр «Свободное пространство»",
+    "name_en": "Svobodnoe Prostranstvo (Free Space) Theatre",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 52.96306,
+      "lon": 36.0675
+    },
+    "address_vi": "Phố Gorkogo 42, thành phố Oryol, tỉnh Oryol, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhà hát dành cho thanh thiếu niên và khán giả trẻ nổi tiếng với các dàn dựng táo bạo, giàu tính thể nghiệm. Từng đoạt nhiều giải thưởng sân khấu, kể cả tại các liên hoan quốc tế.",
+    "presentation_long_vi": "Nhà hát 'Svobodnoe prostranstvo' (Không gian Tự do) khởi nguồn từ nhà hát thiếu nhi - thanh thiếu niên (TYUZ) của Oryol và đã vươn lên thành một trong những sân khấu năng động, sáng tạo bậc nhất tỉnh. Đúng như tên gọi, nhà hát theo đuổi phong cách dàn dựng phóng khoáng, thể nghiệm, sẵn sàng phá vỡ khuôn khổ sân khấu truyền thống với không gian diễn linh hoạt và ngôn ngữ hình thể mạnh. Tiết mục trải rộng từ cổ tích, kịch thiếu nhi tới bi kịch cổ điển và tác phẩm đương đại, phục vụ mọi lứa tuổi. Nhà hát nhiều lần giành giải thưởng trong nước và góp mặt tại các liên hoan sân khấu quốc tế, trở thành niềm tự hào của đời sống nghệ thuật Oryol hiện đại - một đối trọng trẻ trung bên cạnh Nhà hát kịch Turgenev cổ kính.",
+    "highlights_vi": [
+      "Sân khấu thể nghiệm năng động dành cho khán giả trẻ và gia đình",
+      "Phong cách dàn dựng táo bạo, phá cách với không gian diễn linh hoạt",
+      "Từng đoạt giải thưởng trong nước và dự các liên hoan sân khấu quốc tế"
+    ],
+    "practical": {
+      "hours_vi": "Buổi diễn thường bắt đầu buổi tối; suất cho thiếu nhi vào cuối tuần ban ngày.",
+      "ticket_vi": "Giá vé phải chăng, tùy vở diễn và vị trí ghế.",
+      "duration_vi": "Một buổi diễn khoảng 1,5–2,5 giờ.",
+      "best_time_vi": "Mùa diễn từ thu đến cuối xuân.",
+      "tips_vi": "Đặt vé trước; phù hợp cho cả trải nghiệm cùng trẻ em."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9E%D1%80%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D1%82%D0%B5%D0%B0%D1%82%D1%80%20%C2%AB%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%BD%D0%BE%D0%B5%20%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE%C2%BB&ll=36.0675,52.96306&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Svobodnoe%20Prostranstvo%20%28Free%20Space%29%20Theatre%2C%20Oryol%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Свободное пространство (театр)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE_%28%D1%82%D0%B5%D0%B0%D1%82%D1%80%29"
+      }
+    ],
+    "tags": [
+      "theatre",
+      "youth",
+      "experimental",
+      "culture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "oryol-turgenev-monument-oryol",
+    "slug": "turgenev-monument-oryol",
+    "region": "oryol",
+    "region_name_vi": "Tỉnh Oryol",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Tượng đài I.S. Turgenev (Памятник И.С. Тургеневу, đọc: Pa-mét-nhic Tuốc-ghê-nhép-vu)",
+    "name_ru": "Памятник И. С. Тургеневу (Орёл)",
+    "name_en": "Monument to I.S. Turgenev",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 52.97167,
+      "lon": 36.06778
+    },
+    "address_vi": "Phố Turgeneva, khu 'Dvoryanskoe gnezdo' / bờ dốc sông Orlik, thành phố Oryol, tỉnh Oryol, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Tượng đài đồng tôn vinh đại văn hào Ivan Turgenev - người con vĩ đại nhất của Oryol, dựng năm 1968 nhân 150 năm ngày sinh. Nhà văn được khắc họa trong tư thế trầm tư nhìn về thành phố quê hương.",
+    "presentation_long_vi": "Tượng đài Ivan Turgenev được khánh thành năm 1968 nhân kỷ niệm 150 năm ngày sinh nhà văn, tôn vinh người con lừng lẫy nhất của Oryol - nơi ông chào đời năm 1818. Bức tượng đồng đặt trên bệ đá granite khắc họa Turgenev ngồi trầm tư, ánh nhìn hướng ra dòng Orlik và trung tâm thành phố, gợi hình ảnh nhà văn đang suy tưởng về quê hương và những nhân vật trong tác phẩm của mình. Đài tượng nằm ở khu vực cao ráo gần 'Tổ quý tộc' (Dvoryanskoe gnezdo) - địa danh gắn với tiểu thuyết cùng tên - trong một không gian cây xanh thoáng đãng, là điểm dừng chân quen thuộc của người dân và du khách. Đây cũng là nơi diễn ra nhiều sự kiện văn học nhân các dịp kỷ niệm về Turgenev.",
+    "highlights_vi": [
+      "Tượng đài tôn vinh đại văn hào Turgenev, người con vĩ đại nhất của Oryol",
+      "Dựng năm 1968 nhân 150 năm ngày sinh nhà văn",
+      "Vị trí cao thoáng nhìn ra sông Orlik, gần khu 'Tổ quý tộc'"
+    ],
+    "practical": {
+      "hours_vi": "Không gian ngoài trời, tham quan tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 15–20 phút.",
+      "best_time_vi": "Đẹp nhất vào mùa hè và mùa thu khi cây lá xanh hoặc vàng rực.",
+      "tips_vi": "Kết hợp dạo bộ tới 'Tổ quý tộc' và bờ dốc sông Orlik gần đó."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%D0%98.%20%D0%A1.%20%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2%D1%83%20%28%D0%9E%D1%80%D1%91%D0%BB%29&ll=36.06778,52.97167&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Monument%20to%20I.S.%20Turgenev%2C%20Oryol%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Памятник И. С. Тургеневу (Орёл)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D0%98._%D0%A1._%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2%D1%83_%28%D0%9E%D1%80%D1%91%D0%BB%29"
+      }
+    ],
+    "tags": [
+      "monument",
+      "turgenev",
+      "literary",
+      "sculpture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "oryol-tank-crew-memorial-oryol",
+    "slug": "tank-crew-memorial-oryol",
+    "region": "oryol",
+    "region_name_vi": "Tỉnh Oryol",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Vườn tưởng niệm Chiến sĩ Xe tăng (Сквер Танкистов, đọc: Xkvéc Tan-ki-xtốp)",
+    "name_ru": "Сквер Танкистов",
+    "name_en": "Tank Crews Memorial Square",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 52.968198,
+      "lon": 36.078575
+    },
+    "address_vi": "Phố Moskovskaya / trung tâm thành phố Oryol, tỉnh Oryol, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Đài tưởng niệm trung tâm của Oryol dành cho những chiến sĩ xe tăng đã hy sinh khi giải phóng thành phố năm 1943. Có ngôi mộ tập thể, ngọn lửa vĩnh cửu và một chiếc xe tăng T-70 đặt trên bệ.",
+    "presentation_long_vi": "Sквер Танкистов (Vườn Chiến sĩ Xe tăng) là một trong những đài tưởng niệm quan trọng và thiêng liêng nhất Oryol, gắn với sự kiện giải phóng thành phố ngày 5 tháng 8 năm 1943 trong trận vòng cung Kursk. Chính chiến thắng ở Oryol và Belgorod hôm ấy đã khiến Moskva bắn loạt pháo hoa chào mừng đầu tiên trong lịch sử Liên Xô, đưa Oryol vào danh xưng 'thành phố của loạt pháo hoa đầu tiên'. Tại quảng trường nhỏ này là ngôi mộ tập thể của những người lính xe tăng ngã xuống khi tiến vào thành phố, cùng ngọn lửa vĩnh cửu tưởng niệm và một chiếc xe tăng hạng nhẹ T-70 đặt trên bệ đá như biểu tượng chiến thắng. Đây là nơi diễn ra các lễ đặt hoa trọng thể vào Ngày Chiến thắng 9/5 và Ngày Giải phóng Oryol 5/8, đồng thời là điểm dừng chân để du khách tưởng nhớ ký ức Thế chiến của thành phố.",
+    "highlights_vi": [
+      "Đài tưởng niệm giải phóng Oryol ngày 5/8/1943 với mộ tập thể và ngọn lửa vĩnh cửu",
+      "Xe tăng T-70 trên bệ đá - biểu tượng chiến thắng ngay trung tâm",
+      "Gắn với danh xưng 'thành phố của loạt pháo hoa chào mừng đầu tiên' của Liên Xô"
+    ],
+    "practical": {
+      "hours_vi": "Không gian ngoài trời, tham quan tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 15–20 phút.",
+      "best_time_vi": "Quanh năm; đông và trang trọng nhất vào 9/5 và 5/8.",
+      "tips_vi": "Nằm ngay trung tâm, tiện kết hợp dạo phố Moskovskaya và bờ sông."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%BA%D0%B2%D0%B5%D1%80%20%D0%A2%D0%B0%D0%BD%D0%BA%D0%B8%D1%81%D1%82%D0%BE%D0%B2&ll=36.078575,52.968198&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Tank%20Crews%20Memorial%20Square%2C%20Oryol%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "OpenStreetMap — vị trí Сквер Танкистов",
+        "url": "https://www.openstreetmap.org/?mlat=52.968198&mlon=36.078575#map=18/52.968198/36.078575"
+      }
+    ],
+    "tags": [
+      "monument",
+      "wwii",
+      "memorial",
+      "liberation-1943",
+      "eternal-flame"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "oryol-krivtsovsky-memorial",
+    "slug": "krivtsovsky-memorial",
+    "region": "oryol",
+    "region_name_vi": "Tỉnh Oryol",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Khu tưởng niệm Krivtsovo (Кривцовский мемориал, đọc: Krip-txốp-xki me-ma-ri-an)",
+    "name_ru": "Кривцовский мемориал",
+    "name_en": "Krivtsovo Memorial",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 53.48111,
+      "lon": 36.27972
+    },
+    "address_vi": "Gần làng Krivtsovo, huyện Bolkhov, tỉnh Oryol, Nga (cách Oryol khoảng 45 km về phía bắc)",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Khu tưởng niệm quy mô lớn trên 'Vòng cung Krivtsovo' - nơi diễn ra những trận đánh đẫm máu 1942-1943. Đài tưởng niệm và mộ tập thể tưởng nhớ hàng vạn chiến sĩ Hồng quân đã hy sinh.",
+    "presentation_long_vi": "Kривцовский мемориал nằm giữa vùng đồng quê phía bắc tỉnh Oryol, tại khu vực từng được mệnh danh 'Vòng cung Krivtsovo' (Krivtsovskaya duga) - nơi Hồng quân tổ chức nhiều đợt tấn công ác liệt vào các cứ điểm phòng thủ của quân Đức trong những năm 1942-1943. Những trận đánh giằng co trên vùng đất trũng này đã cướp đi sinh mạng của hàng chục nghìn binh sĩ. Để tưởng nhớ, một quần thể tưởng niệm được dựng lên với đài kỷ niệm, các bia mộ tập thể, nhà nguyện và những tấm bảng khắc tên. Không gian trang nghiêm, tĩnh lặng giữa cánh đồng và rừng cây khiến nơi đây trở thành điểm hành hương của các cựu chiến binh, thân nhân liệt sĩ và những đoàn tìm kiếm hài cốt (poiskoviki) vẫn tiếp tục công việc tri ân cho tới ngày nay.",
+    "highlights_vi": [
+      "Tưởng niệm những trận đánh đẫm máu 1942-1943 trên 'Vòng cung Krivtsovo'",
+      "Đài kỷ niệm, mộ tập thể và nhà nguyện giữa vùng đồng quê tĩnh lặng",
+      "Điểm hành hương của cựu chiến binh và các đoàn tìm kiếm hài cốt liệt sĩ"
+    ],
+    "practical": {
+      "hours_vi": "Không gian ngoài trời, tham quan tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 30–45 phút.",
+      "best_time_vi": "Cuối xuân đến đầu thu để thuận tiện di chuyển; trang trọng vào 9/5 và 5/8.",
+      "tips_vi": "Cần ô tô/taxi từ Oryol hoặc Bolkhov; đường tới khu tưởng niệm khá xa trung tâm."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D1%80%D0%B8%D0%B2%D1%86%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB&ll=36.27972,53.48111&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Krivtsovo%20Memorial%2C%20Oryol%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Кривцовский мемориал",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D0%B2%D1%86%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB"
+      }
+    ],
+    "tags": [
+      "monument",
+      "wwii",
+      "memorial",
+      "battlefield",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "oryol-lenin-square-oryol",
+    "slug": "lenin-square-oryol",
+    "region": "oryol",
+    "region_name_vi": "Tỉnh Oryol",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Quảng trường Lenin (Площадь Ленина, đọc: Plô-shát Lê-nhin-a)",
+    "name_ru": "Площадь Ленина (Орёл)",
+    "name_en": "Lenin Square (Oryol)",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 52.970952,
+      "lon": 36.064534
+    },
+    "address_vi": "Quảng trường Lenina, trung tâm thành phố Oryol, tỉnh Oryol, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Quảng trường trung tâm chính của Oryol, không gian hành chính - văn hóa của thành phố. Bao quanh là Nhà hát kịch Turgenev, các tòa nhà công quyền và tượng đài Lenin.",
+    "presentation_long_vi": "Quảng trường Lenin là trái tim hành chính và văn hóa của Oryol, nơi tập trung những công trình quan trọng nhất thành phố. Được quy hoạch lại sau Thế chiến, quảng trường có bố cục rộng rãi, cân đối với tòa nhà Nhà hát kịch Turgenev bề thế ở một đầu, các trụ sở chính quyền tỉnh và tượng đài Vladimir Lenin ở trung tâm. Đây là địa điểm tổ chức các cuộc diễu hành, lễ hội thành phố, hội chợ và những sự kiện lớn trong năm, đặc biệt là dịp Ngày Chiến thắng và Ngày Thành phố. Vào buổi tối, quảng trường được chiếu sáng đẹp mắt, trở thành nơi dạo bộ, gặp gỡ quen thuộc. Với vị trí trung tâm, quảng trường Lenin là điểm định hướng lý tưởng để bắt đầu khám phá khu phố cổ và các bảo tàng của Oryol.",
+    "highlights_vi": [
+      "Quảng trường trung tâm và không gian sự kiện chính của Oryol",
+      "Bao quanh bởi Nhà hát Turgenev, trụ sở chính quyền và tượng đài Lenin",
+      "Nơi diễn ra diễu hành, lễ hội thành phố và các sự kiện lớn trong năm"
+    ],
+    "practical": {
+      "hours_vi": "Không gian công cộng ngoài trời, mở tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 20–30 phút.",
+      "best_time_vi": "Đẹp cả ngày lẫn buổi tối khi lên đèn; sôi động vào các dịp lễ.",
+      "tips_vi": "Điểm định hướng trung tâm, tiện đi bộ tới các bảo tàng và bờ sông."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0%20%28%D0%9E%D1%80%D1%91%D0%BB%29&ll=36.064534,52.970952&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Lenin%20Square%20%28Oryol%29%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "OpenStreetMap — vị trí Площадь Ленина (Орёл)",
+        "url": "https://www.openstreetmap.org/?mlat=52.970952&mlon=36.064534#map=18/52.970952/36.064534"
+      }
+    ],
+    "tags": [
+      "square",
+      "city-center",
+      "landmark",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "oryol-alexandrovsky-bridge-oryol",
+    "slug": "alexandrovsky-bridge-oryol",
+    "region": "oryol",
+    "region_name_vi": "Tỉnh Oryol",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Cầu Aleksandrovsky (Cầu Đỏ) (Александровский / Красный мост, đọc: A-lếc-xan-đrốp-xki / Kra-xnưi)",
+    "name_ru": "Александровский (Красный) мост",
+    "name_en": "Alexandrovsky (Red) Bridge",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 52.963993,
+      "lon": 36.065349
+    },
+    "address_vi": "Bắc qua sông Oka, nối trung tâm thành phố Oryol, tỉnh Oryol, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Cây cầu đi bộ lịch sử bắc qua sông Oka ở trung tâm Oryol, quen gọi là 'Cầu Đỏ'. Có nguồn gốc từ thế kỷ 19, nay là không gian dạo bộ lãng mạn với lan can trang trí và tầm nhìn đẹp ra sông.",
+    "presentation_long_vi": "Cầu Aleksandrovsky - người dân Oryol quen gọi là 'Cầu Đỏ' (Krasny most) - là một trong những cây cầu lịch sử biểu tượng của thành phố, bắc qua sông Oka nối hai bờ khu trung tâm. Cây cầu đầu tiên tại đây có từ thế kỷ 19 và được đặt tên để tưởng nhớ hoàng đế Aleksandr II. Trải qua chiến tranh và nhiều lần xây lại, cây cầu hiện nay được cải tạo thành cầu đi bộ khang trang với lan can trang trí kiểu cổ, đèn lồng và các điểm ngắm cảnh. Đứng trên cầu, du khách có thể phóng tầm mắt dọc dòng Oka, ngắm các nhà thờ và những mái nhà cổ của trung tâm Oryol. Đây là địa điểm dạo bộ, hẹn hò và chụp ảnh được yêu thích, đặc biệt lãng mạn vào lúc hoàng hôn và khi thành phố lên đèn.",
+    "highlights_vi": [
+      "Cây cầu đi bộ lịch sử bắc qua sông Oka, quen gọi 'Cầu Đỏ'",
+      "Nguồn gốc từ thế kỷ 19, mang tên hoàng đế Aleksandr II",
+      "Không gian dạo bộ với lan can cổ và tầm nhìn đẹp ra sông và phố cổ"
+    ],
+    "practical": {
+      "hours_vi": "Không gian công cộng ngoài trời, mở tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 15–20 phút.",
+      "best_time_vi": "Đẹp nhất lúc hoàng hôn và buổi tối khi lên đèn.",
+      "tips_vi": "Kết hợp dạo bờ kè sông Oka và khu trung tâm lịch sử."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%28%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9%29%20%D0%BC%D0%BE%D1%81%D1%82&ll=36.065349,52.963993&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Alexandrovsky%20%28Red%29%20Bridge%2C%20Oryol%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "OpenStreetMap — vị trí Александровский мост",
+        "url": "https://www.openstreetmap.org/?mlat=52.963993&mlon=36.065349#map=18/52.963993/36.065349"
+      }
+    ],
+    "tags": [
+      "bridge",
+      "landmark",
+      "river-oka",
+      "walk",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "oryol-dvoryanskoe-gnezdo-oryol",
+    "slug": "dvoryanskoe-gnezdo-oryol",
+    "region": "oryol",
+    "region_name_vi": "Tỉnh Oryol",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Danh thắng 'Tổ quý tộc' (Дворянское гнездо, đọc: Đva-ri-an-xcô-e ghnhét-đô)",
+    "name_ru": "Дворянское гнездо (Орёл)",
+    "name_en": "Dvoryanskoe Gnezdo (Nest of the Gentry)",
+    "categories": [
+      "park_garden",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 52.96768,
+      "lon": 36.052221
+    },
+    "address_vi": "Bờ dốc sông Orlik, phố Turgeneva, thành phố Oryol, tỉnh Oryol, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Góc lãng mạn bên bờ dốc sông Orlik gắn với tiểu thuyết 'Tổ quý tộc' của Turgenev. Có đình nghỉ (rotunda), tượng bán thân nhà văn và tầm nhìn thơ mộng - một biểu tượng văn học của Oryol.",
+    "presentation_long_vi": "'Dvoryanskoe gnezdo' (Tổ quý tộc) là một trong những địa danh trữ tình và giàu chất văn chương nhất Oryol, nằm trên gò cao bên bờ dốc sông Orlik. Tên gọi lấy từ tiểu thuyết cùng tên của Ivan Turgenev, và theo truyền thuyết địa phương, chính khung cảnh nơi đây đã gợi cảm hứng cho không gian trong tác phẩm. Khu vực được tôn tạo thành một quần thể tưởng niệm nhỏ với đình nghỉ mái tròn (rotunda) kiểu cổ điển, tượng bán thân Turgenev, các lối đi dạo và ghế nghỉ dưới tán cây. Từ đây có thể ngắm dòng Orlik uốn lượn và những mái nhà cổ của thành phố. Đây là điểm hẹn hò, dạo bộ ưa thích, nơi tổ chức các buổi đọc thơ và sự kiện văn học, đồng thời gợi lại bầu không khí quý tộc Nga thế kỷ 19 mà Turgenev từng miêu tả.",
+    "highlights_vi": [
+      "Danh thắng văn học gắn với tiểu thuyết 'Tổ quý tộc' của Turgenev",
+      "Đình nghỉ mái tròn (rotunda), tượng bán thân nhà văn và lối đi dạo",
+      "Tầm nhìn thơ mộng ra bờ dốc sông Orlik và phố cổ Oryol"
+    ],
+    "practical": {
+      "hours_vi": "Không gian ngoài trời, tham quan tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 20–30 phút.",
+      "best_time_vi": "Đẹp nhất mùa hè và mùa thu; buổi chiều muộn ánh sáng rất đẹp.",
+      "tips_vi": "Kết hợp với tượng đài Turgenev và bờ dốc sông Orlik gần đó."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%94%D0%B2%D0%BE%D1%80%D1%8F%D0%BD%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B3%D0%BD%D0%B5%D0%B7%D0%B4%D0%BE%20%28%D0%9E%D1%80%D1%91%D0%BB%29&ll=36.052221,52.96768&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Dvoryanskoe%20Gnezdo%20%28Nest%20of%20the%20Gentry%29%2C%20Oryol%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "OpenStreetMap — vị trí Дворянское гнездо (Орёл)",
+        "url": "https://www.openstreetmap.org/?mlat=52.96768&mlon=36.052221#map=18/52.96768/36.052221"
+      }
+    ],
+    "tags": [
+      "park",
+      "literary",
+      "turgenev",
+      "scenic",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "oryol-orel-fortress-park",
+    "slug": "orel-fortress-park",
+    "region": "oryol",
+    "region_name_vi": "Tỉnh Oryol",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Công viên 'Pháo đài Oryol' - Mũi đất Strelka (Парк 'Орловская крепость', đọc: Oóc-lốp-xca-ia kre-pốt)",
+    "name_ru": "Парк «Орловская крепость» (Стрелка)",
+    "name_en": "Orel Fortress Park (the Strelka)",
+    "categories": [
+      "park_garden",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 52.967135,
+      "lon": 36.070081
+    },
+    "address_vi": "Mũi hợp lưu sông Oka và Orlik, trung tâm thành phố Oryol, tỉnh Oryol, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Công viên tại 'Mũi đất' (Strelka) - nơi hợp lưu sông Oka và Orlik, chính là chỗ pháo đài Oryol được lập năm 1566. Có đài tưởng niệm 400 năm thành lập thành phố và không gian dạo bộ đẹp bên sông.",
+    "presentation_long_vi": "Công viên 'Pháo đài Oryol' nằm trên dải đất nhọn (Strelka) nơi sông Orlik đổ vào sông Oka - chính là địa điểm mà pháo đài Oryol được vua Ivan Bạo Chúa cho lập năm 1566 để trấn giữ biên thùy phía nam nước Nga, khai sinh ra thành phố. Ngày nay, khu vực lịch sử này được tôn tạo thành công viên ven sông thoáng đãng, là điểm khởi nguồn tượng trưng của Oryol. Điểm nhấn là đài tưởng niệm 400 năm thành lập thành phố (dựng năm 1966) - một cột bê tông cách điệu như cánh buồm, bên cạnh là quả cầu và các biểu tượng lịch sử. Từ mũi đất, du khách có thể ngắm cả hai dòng sông, các cây cầu và trung tâm thành phố. Đây là nơi dạo bộ, chụp ảnh và tổ chức sự kiện, đồng thời nhắc nhớ về cội nguồn hơn 450 năm của Oryol.",
+    "highlights_vi": [
+      "Nằm tại mũi hợp lưu Oka - Orlik, nơi pháo đài Oryol ra đời năm 1566",
+      "Đài tưởng niệm 400 năm thành lập thành phố hình cánh buồm cách điệu",
+      "Công viên ven sông với tầm nhìn ra hai dòng sông và các cây cầu"
+    ],
+    "practical": {
+      "hours_vi": "Không gian ngoài trời, tham quan tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 30–45 phút.",
+      "best_time_vi": "Đẹp nhất từ cuối xuân đến đầu thu; buổi tối có chiếu sáng.",
+      "tips_vi": "Ngay trung tâm, dễ kết hợp với bờ kè, các cầu và bảo tàng lân cận."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D1%80%D0%BA%20%C2%AB%D0%9E%D1%80%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C%C2%BB%20%28%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D0%BA%D0%B0%29&ll=36.070081,52.967135&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Orel%20Fortress%20Park%20%28the%20Strelka%29%2C%20Oryol%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "OpenStreetMap — vị trí парк Орловская крепость (Стрелка)",
+        "url": "https://www.openstreetmap.org/?mlat=52.967135&mlon=36.070081#map=18/52.967135/36.070081"
+      }
+    ],
+    "tags": [
+      "park",
+      "history",
+      "founding-1566",
+      "monument",
+      "river-confluence"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "oryol-mtsensk-town",
+    "slug": "mtsensk-town",
+    "region": "oryol",
+    "region_name_vi": "Tỉnh Oryol",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Thị trấn Mtsensk (Мценск, đọc: Mtxen-xkơ)",
+    "name_ru": "Мценск",
+    "name_en": "Mtsensk",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 53.27833,
+      "lon": 36.575
+    },
+    "address_vi": "Thành phố Mtsensk, huyện Mtsensk, tỉnh Oryol, Nga (cách Oryol khoảng 50 km về phía bắc)",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Thành phố cổ bên sông Zusha, có từ thời trung cổ, nổi tiếng khắp thế giới nhờ truyện 'Lady Macbeth huyện Mtsensk' của Leskov (và opera của Shostakovich). Nơi lưu giữ nhà thờ cổ và không khí tỉnh lẻ Nga.",
+    "presentation_long_vi": "Mtsensk là một trong những thành phố cổ nhất vùng Oryol, được nhắc tới trong sử biên niên từ năm 1146, nằm bên sông Zusha giữa vùng đồng quê thanh bình. Tên tuổi thị trấn vang xa nhờ truyện vừa 'Lady Macbeth huyện Mtsensk' của Nikolai Leskov - câu chuyện bi kịch về đam mê và tội ác ở tỉnh lẻ Nga, sau này được nhà soạn nhạc Dmitri Shostakovich chuyển thể thành vở opera lừng danh. Dạo bước qua Mtsensk, du khách bắt gặp những nhà thờ cổ trên các gò đồi, kiến trúc thương gia thế kỷ 19, chợ và những con phố yên ả mang đậm chất tỉnh lẻ. Vùng phụ cận còn có nhiều điền trang quý tộc và di tích lịch sử, trong đó điền trang Turgenev ở Spasskoye-Lutovinovo cũng thuộc huyện Mtsensk. Đây là điểm dừng chân lý tưởng để cảm nhận nước Nga sâu lắng, chậm rãi ngoài các đô thị lớn.",
+    "highlights_vi": [
+      "Thành phố cổ bên sông Zusha, có từ năm 1146",
+      "Bối cảnh của 'Lady Macbeth huyện Mtsensk' (Leskov) và opera của Shostakovich",
+      "Nhà thờ cổ, kiến trúc thương gia và không khí tỉnh lẻ Nga đặc trưng"
+    ],
+    "practical": {
+      "hours_vi": "Thị trấn tham quan tự do; nhà thờ mở theo giờ lễ.",
+      "ticket_vi": "Dạo phố miễn phí; một số bảo tàng nhỏ thu phí thấp.",
+      "duration_vi": "Khoảng nửa ngày.",
+      "best_time_vi": "Cuối xuân đến đầu thu để thuận tiện đi lại.",
+      "tips_vi": "Từ Oryol đi tàu/xe buýt khoảng 50 km; tiện ghép cùng Spasskoye-Lutovinovo."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%86%D0%B5%D0%BD%D1%81%D0%BA&ll=36.575,53.27833&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Mtsensk%2C%20Oryol%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Мценск",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9C%D1%86%D0%B5%D0%BD%D1%81%D0%BA"
+      }
+    ],
+    "tags": [
+      "town",
+      "history",
+      "literary",
+      "leskov",
+      "old-town"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "oryol-livny-town",
+    "slug": "livny-town",
+    "region": "oryol",
+    "region_name_vi": "Tỉnh Oryol",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Thành phố Livny (Ливны, đọc: Líp-nư)",
+    "name_ru": "Ливны",
+    "name_en": "Livny",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 52.425306,
+      "lon": 37.608306
+    },
+    "address_vi": "Thành phố Livny, huyện Livny, tỉnh Oryol, Nga (cách Oryol khoảng 150 km về phía đông nam)",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Thành phố cổ ở đông nam tỉnh Oryol, lập làm pháo đài biên thùy năm 1586. Nổi tiếng với đàn accordion 'livenka' truyền thống và nhà thờ Sergiy Radonezhsky đẹp.",
+    "presentation_long_vi": "Livny nằm ở góc đông nam tỉnh Oryol, nơi sông Livenka đổ vào sông Sosna, được thành lập năm 1586 như một pháo đài trấn giữ biên giới phía nam nước Nga khỏi các cuộc đột kích của người Tatar Krym. Qua nhiều thế kỷ, Livny phát triển thành trung tâm thương mại - thủ công nổi tiếng, đặc biệt gắn với cây đàn phong cầm dân gian 'livenka' - loại accordion đặc trưng của vùng, biểu tượng của âm nhạc dân gian địa phương. Thành phố có những nhà thờ đẹp như nhà thờ Sergiy Radonezhsky, các dãy phố thương gia cổ và bảo tàng địa phương giới thiệu lịch sử, nghề thủ công cùng cây đàn livenka. Không khí tỉnh lẻ yên bình, cảnh quan đồi và sông khiến Livny là điểm đến thú vị cho ai muốn khám phá vùng sâu của nước Nga và di sản âm nhạc dân gian.",
+    "highlights_vi": [
+      "Thành phố - pháo đài biên thùy cổ, lập năm 1586",
+      "Quê hương của cây phong cầm dân gian 'livenka' nổi tiếng",
+      "Nhà thờ Sergiy Radonezhsky và bảo tàng lịch sử - thủ công địa phương"
+    ],
+    "practical": {
+      "hours_vi": "Thành phố tham quan tự do; bảo tàng, nhà thờ mở theo giờ.",
+      "ticket_vi": "Dạo phố miễn phí; bảo tàng thu phí thấp.",
+      "duration_vi": "Khoảng nửa ngày.",
+      "best_time_vi": "Cuối xuân đến đầu thu.",
+      "tips_vi": "Cách Oryol khá xa (khoảng 150 km); nên đi ô tô hoặc tàu/xe buýt đường dài."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9B%D0%B8%D0%B2%D0%BD%D1%8B&ll=37.608306,52.425306&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Livny%2C%20Oryol%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Ливны",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D0%B2%D0%BD%D1%8B"
+      }
+    ],
+    "tags": [
+      "town",
+      "history",
+      "fortress-town",
+      "folk-music",
+      "livenka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "oryol-novosil-town",
+    "slug": "novosil-town",
+    "region": "oryol",
+    "region_name_vi": "Tỉnh Oryol",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Thị trấn Novosil (Новосиль, đọc: Nô-va-xil)",
+    "name_ru": "Новосиль",
+    "name_en": "Novosil",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 52.96667,
+      "lon": 37.05
+    },
+    "address_vi": "Thị trấn Novosil, huyện Novosil, tỉnh Oryol, Nga (cách Oryol khoảng 75 km về phía đông)",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Một trong những thị trấn cổ nhất nước Nga, được nhắc tới từ năm 1155, từng là thủ phủ của một công quốc trung cổ. Nằm bên sông Zusha với cảnh quan đồi và di tích lịch sử lâu đời.",
+    "presentation_long_vi": "Novosil là một trong những khu định cư cổ xưa nhất của vùng Oryol và cả nước Nga, xuất hiện trong sử biên niên từ năm 1155. Thời trung cổ, đây từng là trung tâm của Công quốc Novosil, một tiểu quốc trên vùng biên giữa các thế lực Nga và thảo nguyên. Nằm bên sông Zusha giữa khung cảnh đồi thoải và đồng ruộng, thị trấn nhỏ này mang đậm dấu ấn thời gian với những di tích, gò thành cổ (gorodishche), nhà thờ và bảo tàng địa phương kể lại lịch sử hơn tám thế kỷ. Dù ngày nay chỉ là một thị trấn khiêm nhường, Novosil hấp dẫn những ai yêu lịch sử và muốn tìm về cội nguồn nước Nga cổ, tận hưởng không gian thanh bình cùng cảnh quan sông nước hữu tình của vùng thượng nguồn Zusha.",
+    "highlights_vi": [
+      "Một trong những thị trấn cổ nhất nước Nga, có từ năm 1155",
+      "Từng là thủ phủ của Công quốc Novosil thời trung cổ",
+      "Gò thành cổ, nhà thờ và cảnh quan đồi - sông bên dòng Zusha"
+    ],
+    "practical": {
+      "hours_vi": "Thị trấn tham quan tự do; bảo tàng, nhà thờ mở theo giờ.",
+      "ticket_vi": "Dạo phố miễn phí; bảo tàng thu phí thấp.",
+      "duration_vi": "Khoảng 2–3 giờ.",
+      "best_time_vi": "Cuối xuân đến đầu thu.",
+      "tips_vi": "Từ Oryol đi ô tô/xe buýt khoảng 75 km; tiện kết hợp khám phá vùng quê đông tỉnh."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D0%B8%D0%BB%D1%8C&ll=37.05,52.96667&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Novosil%2C%20Oryol%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Новосиль",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D0%B8%D0%BB%D1%8C"
+      }
+    ],
+    "tags": [
+      "town",
+      "history",
+      "ancient-town",
+      "principality",
+      "old-russia"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "oryol-assumption-monastery-oryol",
+    "slug": "assumption-monastery-oryol",
+    "region": "oryol",
+    "region_name_vi": "Tỉnh Oryol",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Tu viện nam Uspensky (Успенский мужской монастырь, đọc: U-xpen-xki)",
+    "name_ru": "Успенский мужской монастырь",
+    "name_en": "Assumption Monastery (Oryol)",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 52.978106,
+      "lon": 36.077524
+    },
+    "address_vi": "Phố Naberezhnaya Dubrovinskogo, thành phố Oryol, tỉnh Oryol, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Tu viện nam cổ nhất của Oryol, có nguồn gốc từ thế kỷ 17, nằm trên gò cao bên sông Oka. Quần thể được khôi phục với nhà thờ, tháp chuông và tường thành nhìn ra thành phố.",
+    "presentation_long_vi": "Tu viện Uspensky (Đức Mẹ Yên Nghỉ) được coi là tu viện nam lâu đời nhất Oryol, hình thành từ nửa sau thế kỷ 17 trên một gò đất cao bên tả ngạn sông Oka. Trong nhiều thế kỷ, đây là trung tâm tôn giáo và văn hóa quan trọng của vùng, từng có chủng viện và nghĩa trang của giới quý tộc, tăng lữ địa phương. Thời Xô viết, tu viện bị đóng cửa và phần lớn công trình bị phá; khu vực từng được dùng cho nhiều mục đích thế tục. Từ cuối thế kỷ 20, tu viện được tái lập và bước vào giai đoạn trùng tu, phục dựng nhà thờ, tháp chuông cùng các dãy nhà tu. Vị trí trên cao mở ra tầm nhìn đẹp xuống dòng Oka và thành phố, khiến nơi đây vừa là chốn hành hương thanh tịnh, vừa là điểm ngắm cảnh và tìm hiểu lịch sử tôn giáo lâu đời của Oryol.",
+    "highlights_vi": [
+      "Tu viện nam cổ nhất Oryol, nguồn gốc từ thế kỷ 17",
+      "Vị trí trên gò cao bên sông Oka với tầm nhìn đẹp xuống thành phố",
+      "Đang được phục dựng nhà thờ, tháp chuông và các dãy nhà tu"
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa hằng ngày theo giờ tu viện.",
+      "ticket_vi": "Miễn phí (công đức tuỳ tâm).",
+      "duration_vi": "Khoảng 30–45 phút.",
+      "best_time_vi": "Quanh năm; mùa hè thuận tiện đi bộ và ngắm cảnh sông.",
+      "tips_vi": "Trang phục kín đáo, nữ trùm khăn; đường lên gò khá dốc, đi giày thoải mái."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D1%83%D0%B6%D1%81%D0%BA%D0%BE%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C&ll=36.077524,52.978106&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Assumption%20Monastery%20%28Oryol%29%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "sobory.ru — Орёл, Успенский мужской монастырь",
+        "url": "https://sobory.ru/article/?object=02336"
+      }
+    ],
+    "tags": [
+      "monastery",
+      "orthodox",
+      "pilgrimage",
+      "oka-river",
+      "oryol"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "oryol-troitsky-optin-monastery-bolkhov",
+    "slug": "troitsky-optin-monastery-bolkhov",
+    "region": "oryol",
+    "region_name_vi": "Tỉnh Oryol",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Tu viện Troitsky Optin Bolkhov (Троицкий Оптин монастырь, đọc: Trô-i-txki Ốp-tin)",
+    "name_ru": "Троицкий Рождества Богородицы Оптин монастырь",
+    "name_en": "Trinity Optina Monastery (Bolkhov)",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 53.457175,
+      "lon": 36.024483
+    },
+    "address_vi": "Thị trấn Bolkhov, huyện Bolkhov, tỉnh Oryol, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Tu viện Chính thống giáo cổ kính bên rìa thị trấn Bolkhov, có nguồn gốc từ thế kỷ 15–16. Quần thể với nhà thờ Trinity, tháp chuông cao và tường bao đang được khôi phục sau thời Xô viết.",
+    "presentation_long_vi": "Tu viện Troitsky Optin ở Bolkhov là một trong những tu viện lâu đời nhất vùng Oryol, tương truyền hình thành từ thế kỷ 15–16 và gắn với dòng chảy tu hành cổ của miền trung nước Nga. Trung tâm quần thể là nhà thờ Trinity (Chúa Ba Ngôi) cùng tháp chuông cao vươn lên giữa vùng đồng quê, xưa kia là điểm mốc thấy từ xa. Trong lịch sử, tu viện nhiều lần được các nhà bảo trợ quý tộc xây dựng và mở rộng. Thời Xô viết, tu viện bị đóng cửa, nhiều công trình hư hại nặng; từ cuối thế kỷ 20, đời sống tu hành được khôi phục và quần thể bước vào quá trình trùng tu lâu dài. Nằm ở rìa thị trấn Bolkhov cổ kính, tu viện mang vẻ trầm mặc, thanh tịnh, là điểm hành hương và tham quan lý tưởng để cảm nhận chiều sâu lịch sử tôn giáo của vùng đất này.",
+    "highlights_vi": [
+      "Một trong những tu viện lâu đời nhất vùng Oryol, nguồn gốc thế kỷ 15–16",
+      "Nhà thờ Trinity và tháp chuông cao giữa cảnh đồng quê Bolkhov",
+      "Đang được khôi phục đời sống tu hành và trùng tu sau thời Xô viết"
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa hằng ngày theo giờ tu viện; nên hỏi trước.",
+      "ticket_vi": "Miễn phí (công đức tuỳ tâm).",
+      "duration_vi": "Khoảng 30–45 phút.",
+      "best_time_vi": "Quanh năm; mùa hè cảnh quan đồng quê đẹp nhất.",
+      "tips_vi": "Cách Oryol khoảng 55 km; kết hợp với nhà thờ Biến Hình và thị trấn Bolkhov."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9%20%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B%20%D0%9E%D0%BF%D1%82%D0%B8%D0%BD%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C&ll=36.024483,53.457175&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Trinity%20Optina%20Monastery%20%28Bolkhov%29%2C%20Oryol%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "sobory.ru — Болхов, Троицкий Рождества Богородицы Оптин монастырь",
+        "url": "https://sobory.ru/article/?object=03009"
+      }
+    ],
+    "tags": [
+      "monastery",
+      "orthodox",
+      "pilgrimage",
+      "bolkhov",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
   }
 ]

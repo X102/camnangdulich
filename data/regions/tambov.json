@@ -502,5 +502,1500 @@
     "status": "enriched",
     "last_updated": "2026-07-16",
     "country": "russia"
+  },
+  {
+    "id": "tambov-voznesensky-convent-tambov",
+    "slug": "voznesensky-convent-tambov",
+    "region": "tambov",
+    "region_name_vi": "Tỉnh Tambov",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Tu viện nữ Voznesensky (Вознесенский монастырь, đọc: Vô-zne-xen-xki)",
+    "name_ru": "Вознесенский женский монастырь (Тамбов)",
+    "name_en": "Ascension Convent (Tambov)",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 52.73139,
+      "lon": 41.46222
+    },
+    "address_vi": "Phố Moskovskaya, thành phố Tambov, tỉnh Tambov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Tu viện nữ cổ do Thánh Pitirim sáng lập cuối thế kỷ 17, nổi bật với nhà thờ Voznesensky mái vòm vàng và thánh đường Ioann Predtechi màu sắc rực rỡ được phục dựng đầu thế kỷ 21.",
+    "presentation_long_vi": "Tu viện nữ Voznesensky (Chúa Thăng Thiên) được Thánh Pitirim - vị giám mục bảo trợ của Tambov - lập ra vào năm 1690, là tu viện nữ đầu tiên và lâu đời nhất vùng. Chị gái của thánh, bà Ekaterina, từng là viện mẫu đầu tiên. Trong nhiều thế kỷ, tu viện là trung tâm đời sống tâm linh và từ thiện, có trường học, xưởng thêu và nhà tế bần. Thời Xô Viết, tu viện bị đóng cửa, nhiều công trình bị phá; đời sống tu hành chỉ được khôi phục từ năm 1992. Điểm nhấn ngày nay là ngôi nhà thờ chính Voznesensky và đặc biệt là thánh đường Ioann Predtechi (Thánh Gioan Tẩy Giả) mới - một công trình lộng lẫy với sắc đỏ, xanh và mái vòm dát vàng, trở thành một trong những nhà thờ dễ nhận biết nhất Tambov. Khuôn viên yên tĩnh với vườn cây, suối thánh và các dãy nhà tu tạo nên không gian hành hương thanh tịnh giữa lòng thành phố.",
+    "highlights_vi": [
+      "Tu viện nữ đầu tiên và cổ nhất Tambov, do Thánh Pitirim lập năm 1690",
+      "Thánh đường Ioann Predtechi mới với sắc màu rực rỡ và mái vòm dát vàng",
+      "Không gian hành hương yên tĩnh với vườn cây và suối thánh"
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa hằng ngày, khoảng 7:00-19:00 theo giờ lễ.",
+      "ticket_vi": "Miễn phí (công đức tùy tâm).",
+      "duration_vi": "Khoảng 30-45 phút.",
+      "best_time_vi": "Buổi sáng hoặc chiều muộn khi ánh nắng làm nổi bật mái vòm vàng.",
+      "tips_vi": "Trang phục kín đáo, nữ trùm khăn; kết hợp thăm phần trung tâm lịch sử Tambov."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D0%BE%D0%B7%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C%2C%20%D0%A2%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2&ll=41.46222,52.73139&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Ascension%20Convent%2C%20Tambov%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) - Вознесенский монастырь (Тамбов)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B7%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_%28%D0%A2%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2%29"
+      }
+    ],
+    "tags": [
+      "convent",
+      "orthodox",
+      "saint-pitirim",
+      "pilgrimage",
+      "tambov"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "tambov-lazarevskaya-church-tambov",
+    "slug": "lazarevskaya-church-tambov",
+    "region": "tambov",
+    "region_name_vi": "Tỉnh Tambov",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Nhà thờ Lazarevskaya (Церковь Лазаря Четверодневного)",
+    "name_ru": "Церковь Лазаря Четверодневного (Тамбов)",
+    "name_en": "Church of St Lazarus (Tambov)",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 52.727187,
+      "lon": 41.454703
+    },
+    "address_vi": "Phố Sovetskaya, quận Oktyabrsky, thành phố Tambov, tỉnh Tambov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Ngôi nhà thờ Chính thống giáo xây năm 1872, gắn với quần thể nhà tế bần Nosovskaya - một di tích kiến trúc được nhà nước bảo hộ ở trung tâm Tambov.",
+    "presentation_long_vi": "Nhà thờ Thánh Lazarus (Lazarevskaya) là một ngôi thánh đường Chính thống giáo được xây dựng năm 1872 trong khuôn viên nhà tế bần Nosovskaya - cơ sở từ thiện chăm sóc người già và người nghèo do các thương gia địa phương bảo trợ. Toàn bộ quần thể nhà tế bần cùng ngôi nhà thờ là một di tích kiến trúc được đưa vào danh mục di sản văn hóa được nhà nước bảo vệ. Trải qua thời Xô Viết với nhiều biến động, nhà thờ đã được trả lại cho giáo hội và trùng tu, tiếp tục là nơi cầu nguyện của giáo phận Tambov. Với quy mô khiêm tốn nhưng đường nét kiến trúc thế kỷ 19 duyên dáng, Lazarevskaya là một điểm dừng thú vị cho những ai muốn tìm hiểu lịch sử tôn giáo và hoạt động từ thiện của Tambov xưa.",
+    "highlights_vi": [
+      "Nhà thờ Chính thống giáo xây năm 1872 gắn với nhà tế bần Nosovskaya",
+      "Thuộc quần thể di sản văn hóa được nhà nước bảo hộ",
+      "Kiến trúc thế kỷ 19 duyên dáng ở trung tâm thành phố"
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa theo giờ lễ, thường buổi sáng và chiều.",
+      "ticket_vi": "Miễn phí (công đức tùy tâm).",
+      "duration_vi": "Khoảng 15-30 phút.",
+      "best_time_vi": "Quanh năm; ghé kèm khi dạo phố Sovetskaya trung tâm.",
+      "tips_vi": "Trang phục kín đáo, nữ trùm khăn; giữ yên tĩnh trong giờ lễ."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C%20%D0%9B%D0%B0%D0%B7%D0%B0%D1%80%D1%8F%20%D0%A7%D0%B5%D1%82%D0%B2%D0%B5%D1%80%D0%BE%D0%B4%D0%BD%D0%B5%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE%2C%20%D0%A2%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2&ll=41.454703,52.727187&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Church%20of%20St%20Lazarus%2C%20Tambov%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) - Церковь Лазаря Четверодневного (Тамбов)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%9B%D0%B0%D0%B7%D0%B0%D1%80%D1%8F_%D0%A7%D0%B5%D1%82%D0%B2%D0%B5%D1%80%D0%BE%D0%B4%D0%BD%D0%B5%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE_%28%D0%A2%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2%29"
+      }
+    ],
+    "tags": [
+      "church",
+      "orthodox",
+      "heritage",
+      "19th-century",
+      "tambov"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "tambov-holy-cross-catholic-church-tambov",
+    "slug": "holy-cross-catholic-church-tambov",
+    "region": "tambov",
+    "region_name_vi": "Tỉnh Tambov",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Nhà thờ Công giáo Suy tôn Thánh Giá (Церковь Воздвижения Святого Креста)",
+    "name_ru": "Церковь Воздвижения Святого Креста (Тамбов)",
+    "name_en": "Church of the Exaltation of the Holy Cross (Tambov)",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 52.714138,
+      "lon": 41.458472
+    },
+    "address_vi": "Phố Kronshtadtskaya 14A, thành phố Tambov, tỉnh Tambov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhà thờ Công giáo La Mã hiếm hoi ở Tambov, một di tích kiến trúc, hiện do các linh mục dòng Ngôi Lời (SVD) và nữ tu dòng Nữ tỳ Chúa Thánh Thần phục vụ.",
+    "presentation_long_vi": "Giữa một thành phố mà đa số công trình tôn giáo mang phong cách Chính thống giáo, Nhà thờ Suy tôn Thánh Giá là một điểm nhấn khác biệt: đây là nhà thờ Công giáo La Mã của Tambov, thuộc giáo hạt trung lưu sông Volga của Giáo phận Thánh Clement (trung tâm đặt tại Saratov). Công trình được xếp hạng di tích kiến trúc, mang những đường nét đặc trưng của kiến trúc nhà thờ phương Tây, tương phản với các mái vòm hành củ tỏi quen thuộc. Nhà thờ do các linh mục thuộc dòng Ngôi Lời (SVD) và các nữ tu thuộc dòng Nữ tỳ Chúa Thánh Thần (SSpS) coi sóc, phục vụ cộng đồng Công giáo địa phương. Với du khách, đây là dịp để thấy bức tranh tôn giáo đa dạng của vùng đất Tambov và chiêm ngưỡng một phong cách kiến trúc thánh đường ít gặp ở miền trung nước Nga.",
+    "highlights_vi": [
+      "Nhà thờ Công giáo La Mã hiếm hoi giữa Tambov phần lớn Chính thống giáo",
+      "Di tích kiến trúc với đường nét thánh đường phương Tây khác biệt",
+      "Do dòng Ngôi Lời (SVD) và dòng Nữ tỳ Chúa Thánh Thần phục vụ"
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa theo giờ lễ Công giáo; nên hỏi trước lịch Thánh lễ.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 20-30 phút.",
+      "best_time_vi": "Quanh năm; các dịp lễ Công giáo không khí đặc biệt.",
+      "tips_vi": "Ăn mặc lịch sự; giữ trật tự khi có Thánh lễ."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C%20%D0%92%D0%BE%D0%B7%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE%20%D0%9A%D1%80%D0%B5%D1%81%D1%82%D0%B0%2C%20%D0%A2%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2&ll=41.458472,52.714138&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Church%20of%20the%20Exaltation%20of%20the%20Holy%20Cross%2C%20Tambov%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) - Церковь Воздвижения Святого Креста (Тамбов)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%92%D0%BE%D0%B7%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D1%81%D1%82%D0%B0_%28%D0%A2%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2%29"
+      }
+    ],
+    "tags": [
+      "church",
+      "catholic",
+      "architecture",
+      "svd",
+      "tambov"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "tambov-tregulyaevsky-monastery",
+    "slug": "tregulyaevsky-monastery",
+    "region": "tambov",
+    "region_name_vi": "Tỉnh Tambov",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Tu viện Tregulyaevsky (Иоанно-Предтеченский монастырь)",
+    "name_ru": "Трегуляевский Иоанно-Предтеченский монастырь",
+    "name_en": "Tregulyay St. John the Baptist Monastery",
+    "categories": [
+      "church",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 52.66222,
+      "lon": 41.51417
+    },
+    "address_vi": "Làng Trigulyay, huyện Tambovsky, tỉnh Tambov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Tu viện nam bên bờ sông Tsna trong rừng thông, do Thánh Pitirim sáng lập, gắn với truyền thuyết ba người bạn cùng đi dạo (tri-gulyay) chọn nơi lập tu viện.",
+    "presentation_long_vi": "Tu viện Tregulyaevsky mang tên Thánh Gioan Tẩy Giả nằm trong rừng thông bên bờ sông Tsna, cách Tambov không xa về phía nam. Theo truyền thuyết, Thánh Pitirim cùng hai người bạn - giám mục Mitrofan của Voronezh và một người bạn khác - đã cùng nhau đi dạo (tiếng Nga: 'tri gulyat' - ba người dạo bước) trong khu rừng này và chọn nơi đây để lập tu viện vào năm 1688; cái tên Trigulyay/Tregulyay được cho là bắt nguồn từ đó. Trong lịch sử, tu viện là chốn tĩnh tu quan trọng của giáo phận Tambov, có nguồn suối thánh gắn với Thánh Pitirim. Thời Xô Viết, tu viện bị đóng cửa và tàn phá; từ đầu thế kỷ 21 đời sống tu hành và công cuộc trùng tu dần được khôi phục. Khung cảnh rừng thông, dòng sông và suối thánh khiến nơi đây vừa là điểm hành hương vừa là chốn tận hưởng thiên nhiên yên bình.",
+    "highlights_vi": [
+      "Tu viện do Thánh Pitirim lập năm 1688 bên sông Tsna trong rừng thông",
+      "Gắn với truyền thuyết 'ba người bạn cùng dạo bước' đặt tên Tregulyay",
+      "Có suối thánh và khung cảnh thiên nhiên thanh tịnh gần Tambov"
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa hằng ngày theo giờ tu viện; nên hỏi trước.",
+      "ticket_vi": "Miễn phí (công đức tùy tâm).",
+      "duration_vi": "Khoảng 45-60 phút kể cả di chuyển.",
+      "best_time_vi": "Mùa hè khi rừng thông và dòng sông đẹp nhất.",
+      "tips_vi": "Cách trung tâm Tambov khoảng 12-15 km; nên đi ô tô; trang phục kín đáo."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A2%D1%80%D0%B5%D0%B3%D1%83%D0%BB%D1%8F%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%98%D0%BE%D0%B0%D0%BD%D0%BD%D0%BE-%D0%9F%D1%80%D0%B5%D0%B4%D1%82%D0%B5%D1%87%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C%2C%20%D0%A2%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2&ll=41.51417,52.66222&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Tregulyay%20Monastery%2C%20Tambov%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) - Трегуляевский Иоанно-Предтеченский монастырь",
+        "url": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B5%D0%B3%D1%83%D0%BB%D1%8F%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%98%D0%BE%D0%B0%D0%BD%D0%BD%D0%BE-%D0%9F%D1%80%D0%B5%D0%B4%D1%82%D0%B5%D1%87%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+      }
+    ],
+    "tags": [
+      "monastery",
+      "orthodox",
+      "pilgrimage",
+      "tsna-river",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "tambov-tambov-drama-theatre",
+    "slug": "tambov-drama-theatre",
+    "region": "tambov",
+    "region_name_vi": "Tỉnh Tambov",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Nhà hát kịch Tambov (Тамбовский драматический театр)",
+    "name_ru": "Тамбовский драматический театр",
+    "name_en": "Tambov Drama Theatre",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 52.722111,
+      "lon": 41.453056
+    },
+    "address_vi": "Phố Internatsionalnaya, trung tâm thành phố Tambov, tỉnh Tambov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhà hát kịch lâu đời của Tambov, một trong những sân khấu tỉnh lẻ ra đời sớm ở Nga, ngự trong tòa nhà cổ điển bề thế ngay trung tâm thành phố.",
+    "presentation_long_vi": "Nhà hát kịch Tambov là một trong những nhà hát tỉnh có lịch sử lâu đời của nước Nga, với truyền thống sân khấu chuyên nghiệp từ cuối thế kỷ 18 - đầu thế kỷ 19, thời kỳ đời sống văn hóa quý tộc phát triển. Trải qua nhiều lần đổi tên và di dời, nhà hát ngày nay tọa lạc trong một tòa nhà kiến trúc cổ điển trang nghiêm ở trung tâm Tambov, là trung tâm nghệ thuật kịch nói chủ chốt của vùng. Chương trình biểu diễn gồm các vở kinh điển Nga và thế giới lẫn tác phẩm đương đại, thu hút cả khán giả địa phương lẫn du khách. Việc ghé nhà hát không chỉ để xem một buổi diễn mà còn để cảm nhận truyền thống văn hóa lâu đời và chiêm ngưỡng kiến trúc của một công trình biểu tượng nơi phố thị.",
+    "highlights_vi": [
+      "Một trong những nhà hát tỉnh lâu đời của nước Nga",
+      "Tòa nhà kiến trúc cổ điển bề thế ở trung tâm Tambov",
+      "Sân khấu kịch chủ chốt của vùng với repertoire kinh điển và đương đại"
+    ],
+    "practical": {
+      "hours_vi": "Buổi tối theo lịch diễn; phòng vé mở ban ngày.",
+      "ticket_vi": "Giá vé tùy vở diễn và hạng ghế, thường phải chăng.",
+      "duration_vi": "Buổi diễn khoảng 2-3 giờ.",
+      "best_time_vi": "Mùa diễn thu - xuân; nên đặt vé trước cho vở nổi tiếng.",
+      "tips_vi": "Kiểm tra lịch diễn trên trang chính thức; đến sớm để gửi áo khoác."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A2%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D1%82%D0%B5%D0%B0%D1%82%D1%80%2C%20%D0%A2%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2&ll=41.453056,52.722111&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Tambov%20Drama%20Theatre%2C%20Tambov%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) - Тамбовский драматический театр",
+        "url": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80"
+      }
+    ],
+    "tags": [
+      "theatre",
+      "drama",
+      "culture",
+      "architecture",
+      "tambov"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "tambov-tambov-art-gallery",
+    "slug": "tambov-art-gallery",
+    "region": "tambov",
+    "region_name_vi": "Tỉnh Tambov",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Phòng tranh tỉnh Tambov (Тамбовская областная картинная галерея)",
+    "name_ru": "Тамбовская областная картинная галерея",
+    "name_en": "Tambov Regional Art Gallery",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 52.7247,
+      "lon": 41.4561
+    },
+    "address_vi": "Phố Sovetskaya 97, trong Công viên Văn hóa, thành phố Tambov, tỉnh Tambov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng mỹ thuật lớn nhất tỉnh Tambov, lưu giữ bộ sưu tập nghệ thuật Nga và Tây Âu từ thế kỷ 17 đến nay, nằm trong Công viên Văn hóa trung tâm.",
+    "presentation_long_vi": "Phòng tranh tỉnh Tambov là bảo tàng mỹ thuật lớn nhất của thành phố và của cả tỉnh, tọa lạc trên phố Sovetskaya ngay trong Công viên Văn hóa và Nghỉ ngơi trung tâm. Bộ sưu tập trải rộng từ tranh tượng Nga, các trường phái Tây Âu (Ý, Hà Lan, Đức, Pháp) thế kỷ 17-19 cho tới nghệ thuật hiện đại, cùng nghệ thuật trang trí - ứng dụng và các hiện vật quý từng thuộc những gia đình quý tộc địa phương. Được thành lập từ đầu thế kỷ 20 trên cơ sở các sưu tập tư nhân được quốc hữu hóa, phòng tranh nhiều lần được bổ sung và mở rộng. Đây là điểm đến lý tưởng để thưởng lãm hội họa cổ điển và tìm hiểu đời sống nghệ thuật của một tỉnh miền trung nước Nga, đồng thời kết hợp dạo chơi trong công viên xanh mát bao quanh.",
+    "highlights_vi": [
+      "Bảo tàng mỹ thuật lớn nhất tỉnh Tambov",
+      "Sưu tập nghệ thuật Nga và Tây Âu từ thế kỷ 17 đến hiện đại",
+      "Vị trí đẹp ngay trong Công viên Văn hóa trung tâm"
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa gần như cả tuần, thường 10:00-18:00; nghỉ một ngày trong tuần.",
+      "ticket_vi": "Vé vào phải chăng; có ưu đãi cho học sinh, sinh viên.",
+      "duration_vi": "Khoảng 1-1,5 giờ.",
+      "best_time_vi": "Quanh năm; kết hợp dạo Công viên Văn hóa liền kề.",
+      "tips_vi": "Kiểm tra lịch triển lãm tạm thời; có thể thuê thuyết minh."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A2%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%B3%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F%2C%20%D0%A2%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2&ll=41.4561,52.7247&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Tambov%20Regional%20Art%20Gallery%2C%20Tambov%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) - Тамбовская областная картинная галерея",
+        "url": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%BD%D0%B0%D1%8F_%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B3%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F"
+      }
+    ],
+    "tags": [
+      "art-museum",
+      "gallery",
+      "culture",
+      "park",
+      "tambov"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "tambov-postal-history-museum-tambov",
+    "slug": "postal-history-museum-tambov",
+    "region": "tambov",
+    "region_name_vi": "Tỉnh Tambov",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Bảo tàng Lịch sử Bưu chính Tambov (Музей истории Тамбовской почты)",
+    "name_ru": "Музей истории Тамбовской почты",
+    "name_en": "Museum of Tambov Postal History",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 52.723341,
+      "lon": 41.455687
+    },
+    "address_vi": "Trung tâm thành phố Tambov, tỉnh Tambov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng chuyên đề độc đáo kể câu chuyện phát triển của ngành bưu chính Tambov qua các thời kỳ, với tem, thiết bị, đồng phục và tài liệu lịch sử.",
+    "presentation_long_vi": "Bảo tàng Lịch sử Bưu chính Tambov là một điểm đến chuyên đề thú vị dành cho những ai tò mò về cách thông tin và thư từ từng được truyền đi ở nước Nga. Bộ sưu tập giới thiệu lịch sử ngành bưu chính vùng Tambov từ thời trạm ngựa (yamskaya) và bưu trạm thế kỷ 18-19 cho tới bưu điện hiện đại: các con tem quý, phong bì, dấu bưu chính, cân thư, hộp thư, đồng phục bưu tá, điện tín và nhiều hiện vật, tài liệu gốc. Qua đó, khách tham quan hình dung được vai trò của bưu chính trong đời sống một tỉnh nội địa, cũng như những câu chuyện con người gắn với nghề đưa thư. Đây là bảo tàng nhỏ nhưng giàu chi tiết, phù hợp cho người yêu lịch sử, sưu tầm tem hoặc muốn khám phá một góc ít ai để ý của Tambov.",
+    "highlights_vi": [
+      "Bảo tàng chuyên đề hiếm về lịch sử ngành bưu chính",
+      "Sưu tập tem, dấu bưu chính, đồng phục và thiết bị đưa thư xưa",
+      "Điểm dừng thú vị cho người yêu lịch sử và sưu tầm tem"
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa trong giờ hành chính, thường ngày thường; nên gọi hỏi trước.",
+      "ticket_vi": "Vé vào phải chăng hoặc miễn phí tùy thời điểm.",
+      "duration_vi": "Khoảng 30-45 phút.",
+      "best_time_vi": "Quanh năm.",
+      "tips_vi": "Nằm ở trung tâm, dễ kết hợp với các điểm khác quanh phố Sovetskaya."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%B9%20%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8%20%D0%A2%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B9%20%D0%BF%D0%BE%D1%87%D1%82%D1%8B%2C%20%D0%A2%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2&ll=41.455687,52.723341&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Tambov%20Postal%20History%2C%20Tambov%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) - Музей истории Тамбовской почты",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D0%B7%D0%B5%D0%B9_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8_%D0%A2%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B9_%D0%BF%D0%BE%D1%87%D1%82%D1%8B"
+      }
+    ],
+    "tags": [
+      "museum",
+      "postal-history",
+      "philately",
+      "niche",
+      "tambov"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "tambov-sin-museum-tambov",
+    "slug": "sin-museum-tambov",
+    "region": "tambov",
+    "region_name_vi": "Tỉnh Tambov",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Bảo tàng Tội lỗi (Музей греха)",
+    "name_ru": "Музей греха",
+    "name_en": "Museum of Sin (Tambov)",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 52.723256,
+      "lon": 41.456878
+    },
+    "address_vi": "Viện Y khoa, Đại học Tổng hợp Tambov mang tên G. R. Derzhavin, thành phố Tambov, tỉnh Tambov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng y khoa gây tò mò với các mẫu bệnh lý minh họa hậu quả của lối sống không lành mạnh, từng được xếp vào 'sáu bảo tàng kỳ lạ của nước Nga'.",
+    "presentation_long_vi": "Bảo tàng Tội lỗi (Muzey Grekha) là một trong những bảo tàng độc đáo và gây ấn tượng mạnh nhất Tambov, thuộc tổ hợp bảo tàng giáo dục - nghiên cứu của Viện Y khoa, Đại học Tổng hợp Tambov mang tên G. R. Derzhavin. Bảo tàng do bác sĩ pháp y sáng lập, trưng bày các mẫu bệnh lý học minh họa hậu quả tàn khốc của những thói quen và lối sống có hại như nghiện rượu, thuốc lá, ma túy hay lối sống buông thả. Với khẩu hiệu 'Nơi đây người chết dạy người sống', mục tiêu của bảo tàng là tuyên truyền lối sống lành mạnh một cách trực diện. Tạp chí RBK-Style từng đưa nơi này vào danh sách 'sáu bảo tàng kỳ lạ của nước Nga'. Đây là điểm đến khác thường, không dành cho người yếu tim, nhưng để lại bài học sâu sắc về sức khỏe và trách nhiệm với chính mình.",
+    "highlights_vi": [
+      "Bảo tàng y khoa độc đáo về hậu quả của lối sống có hại",
+      "Khẩu hiệu ấn tượng: 'Nơi đây người chết dạy người sống'",
+      "Từng được xếp vào 'sáu bảo tàng kỳ lạ của nước Nga'"
+    ],
+    "practical": {
+      "hours_vi": "Tham quan theo hẹn qua Viện Y khoa; nên liên hệ trước.",
+      "ticket_vi": "Thường miễn phí hoặc phí tượng trưng.",
+      "duration_vi": "Khoảng 30-45 phút.",
+      "best_time_vi": "Quanh năm.",
+      "tips_vi": "Nội dung nhạy cảm, cân nhắc với trẻ nhỏ và người dễ xúc động; cần đặt lịch."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%B9%20%D0%B3%D1%80%D0%B5%D1%85%D0%B0%2C%20%D0%A2%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2&ll=41.456878,52.723256&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Sin%2C%20Tambov%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) - Музей греха",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D0%B7%D0%B5%D0%B9_%D0%B3%D1%80%D0%B5%D1%85%D0%B0"
+      }
+    ],
+    "tags": [
+      "museum",
+      "medical",
+      "unusual",
+      "health",
+      "tambov"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "tambov-pushkin-library-tambov",
+    "slug": "pushkin-library-tambov",
+    "region": "tambov",
+    "region_name_vi": "Tỉnh Tambov",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Thư viện tỉnh Pushkin (Тамбовская областная библиотека имени А. С. Пушкина)",
+    "name_ru": "Тамбовская областная универсальная научная библиотека имени А. С. Пушкина",
+    "name_en": "Pushkin Tambov Regional Library",
+    "categories": [
+      "other",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 52.72167,
+      "lon": 41.45083
+    },
+    "address_vi": "Phố Internatsionalnaya, trung tâm thành phố Tambov, tỉnh Tambov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Thư viện khoa học tổng hợp lớn nhất tỉnh, tòa nhà bề thế ở trung tâm, là trung tâm tri thức, văn hóa và di sản in ấn quý của Tambov.",
+    "presentation_long_vi": "Thư viện khoa học tổng hợp tỉnh Tambov mang tên đại thi hào A. S. Pushkin là thư viện lớn nhất và quan trọng nhất của vùng, một trung tâm tri thức - văn hóa có bề dày lịch sử hơn một thế kỷ. Tọa lạc trong tòa nhà bề thế ở trung tâm thành phố, thư viện lưu giữ kho tài liệu đồ sộ gồm sách hiếm, ấn phẩm cổ, tư liệu địa phương học, bản đồ và báo chí phản ánh lịch sử vùng Tambov. Đây không chỉ là nơi đọc sách mà còn là không gian tổ chức triển lãm, hội thảo, các buổi giao lưu văn học và sự kiện văn hóa. Với du khách yêu sách và lịch sử, thư viện là một điểm dừng yên tĩnh để cảm nhận đời sống trí thức của thành phố, đồng thời chiêm ngưỡng một công trình kiến trúc tiêu biểu nơi trung tâm.",
+    "highlights_vi": [
+      "Thư viện khoa học lớn nhất tỉnh Tambov, hơn một thế kỷ lịch sử",
+      "Kho sách hiếm, ấn phẩm cổ và tư liệu địa phương học phong phú",
+      "Trung tâm tổ chức triển lãm và sự kiện văn hóa ở trung tâm thành phố"
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa các ngày trong tuần theo giờ thư viện.",
+      "ticket_vi": "Vào tham quan không gian chung thường miễn phí.",
+      "duration_vi": "Khoảng 20-40 phút.",
+      "best_time_vi": "Quanh năm; xem lịch triển lãm và sự kiện.",
+      "tips_vi": "Giữ yên tĩnh; hỏi nhân viên về khu trưng bày sách hiếm và tư liệu vùng."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A2%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%BD%D0%B0%D1%8F%20%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%20%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0%2C%20%D0%A2%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2&ll=41.45083,52.72167&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Pushkin%20Regional%20Library%2C%20Tambov%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) - Тамбовская областная универсальная научная библиотека имени А. С. Пушкина",
+        "url": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%BD%D0%B0%D1%8F_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%90._%D0%A1._%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0"
+      }
+    ],
+    "tags": [
+      "library",
+      "culture",
+      "architecture",
+      "knowledge",
+      "tambov"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "tambov-tambov-peasant-monument",
+    "slug": "tambov-peasant-monument",
+    "region": "tambov",
+    "region_name_vi": "Tỉnh Tambov",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Tượng đài Người nông dân Tambov (Памятник тамбовскому мужику)",
+    "name_ru": "Памятник тамбовскому мужику",
+    "name_en": "Monument to the Tambov Peasant",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 52.717,
+      "lon": 41.4633
+    },
+    "address_vi": "Gần trung tâm, ven sông Tsna, thành phố Tambov, tỉnh Tambov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Tượng đài tưởng niệm người nông dân Tambov - biểu tượng của những nông dân từng chịu nhiều đau thương trong lịch sử, đặc biệt cuộc nổi dậy nông dân Tambov đầu thập niên 1920.",
+    "presentation_long_vi": "Tượng đài Người nông dân Tambov (Tambovskiy muzhik) là một trong những tượng đài giàu ý nghĩa của thành phố, tôn vinh hình ảnh người nông dân vùng đất đen màu mỡ Tambov - trụ cột nuôi sống nước Nga suốt bao thế kỷ. Tác phẩm khắc họa một người đàn ông chân chất đang cầu nguyện, gợi nhớ đến số phận đầy đau thương của tầng lớp nông dân, đặc biệt là cuộc nổi dậy nông dân Tambov (khởi nghĩa Antonov) đầu thập niên 1920 bị đàn áp khốc liệt cùng những mất mát trong thời kỳ tập thể hóa. Tượng đài là lời tưởng niệm và hòa giải với quá khứ, nhắc nhở về công lao và bi kịch của người nông dân. Đặt ở vị trí gần trung tâm và ven sông, đây là điểm dừng để suy ngẫm về một chương lịch sử sâu sắc của vùng đất Tambov.",
+    "highlights_vi": [
+      "Tượng đài tôn vinh người nông dân vùng đất đen Tambov",
+      "Gợi nhớ cuộc nổi dậy nông dân Tambov (Antonov) đầu thập niên 1920",
+      "Biểu tượng của tưởng niệm và hòa giải với quá khứ"
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tham quan tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 10-15 phút.",
+      "best_time_vi": "Ban ngày; kết hợp dạo bờ sông Tsna gần đó.",
+      "tips_vi": "Kết hợp tìm hiểu lịch sử khởi nghĩa Antonov để hiểu trọn ý nghĩa tượng đài."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%D1%82%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%BC%D1%83%20%D0%BC%D1%83%D0%B6%D0%B8%D0%BA%D1%83%2C%20%D0%A2%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2&ll=41.4633,52.717&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Monument%20to%20the%20Tambov%20Peasant%2C%20Tambov%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) - Памятник тамбовскому мужику",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D1%82%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D0%BC%D1%83%D0%B6%D0%B8%D0%BA%D1%83"
+      }
+    ],
+    "tags": [
+      "monument",
+      "history",
+      "peasant",
+      "memorial",
+      "tambov"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "tambov-zoya-kosmodemyanskaya-monument-tambov",
+    "slug": "zoya-kosmodemyanskaya-monument-tambov",
+    "region": "tambov",
+    "region_name_vi": "Tỉnh Tambov",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Tượng đài Zoya Kosmodemyanskaya (Памятник Зое Космодемьянской)",
+    "name_ru": "Памятник Зое Космодемьянской (Тамбов)",
+    "name_en": "Monument to Zoya Kosmodemyanskaya (Tambov)",
+    "categories": [
+      "monument",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 52.720778,
+      "lon": 41.457694
+    },
+    "address_vi": "Vườn hoa Zoya Kosmodemyanskaya, phố Sovetskaya, thành phố Tambov, tỉnh Tambov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Tượng đài tưởng niệm Zoya Kosmodemyanskaya - người phụ nữ đầu tiên được phong Anh hùng Liên Xô, một nữ du kích quê ở tỉnh Tambov, hy sinh trong Thế chiến II.",
+    "presentation_long_vi": "Tượng đài Zoya Kosmodemyanskaya tôn vinh một trong những nữ anh hùng nổi tiếng nhất của nước Nga: Zoya - nữ du kích trẻ tuổi bị quân phát xít Đức hành quyết năm 1941, và là người phụ nữ đầu tiên được truy tặng danh hiệu Anh hùng Liên Xô. Zoya sinh ra ở làng Osino-Gai thuộc tỉnh Tambov, nên với người dân địa phương, cô là niềm tự hào của quê hương. Tượng đài được đặt trong một vườn hoa mang tên cô trên phố Sovetskaya trung tâm, giữa không gian cây xanh, trở thành nơi tưởng niệm và giáo dục truyền thống cho các thế hệ. Với du khách, đây là điểm dừng để hiểu thêm về ký ức Chiến tranh Vệ quốc Vĩ đại trong tâm thức người Nga và mối liên hệ đặc biệt của Tambov với câu chuyện anh hùng này.",
+    "highlights_vi": [
+      "Tưởng niệm Zoya - người phụ nữ đầu tiên được phong Anh hùng Liên Xô",
+      "Nữ anh hùng quê tỉnh Tambov, hy sinh trong Thế chiến II",
+      "Đặt trong vườn hoa mang tên cô trên phố Sovetskaya trung tâm"
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tham quan tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 10-15 phút.",
+      "best_time_vi": "Ban ngày; đẹp vào mùa cây xanh.",
+      "tips_vi": "Kết hợp dạo phố Sovetskaya và các điểm văn hóa lân cận."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%D0%97%D0%BE%D0%B5%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%B4%D0%B5%D0%BC%D1%8C%D1%8F%D0%BD%D1%81%D0%BA%D0%BE%D0%B9%2C%20%D0%A2%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2&ll=41.457694,52.720778&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Monument%20to%20Zoya%20Kosmodemyanskaya%2C%20Tambov%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) - Памятник Зое Космодемьянской (Тамбов)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D0%97%D0%BE%D0%B5_%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%B4%D0%B5%D0%BC%D1%8C%D1%8F%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%28%D0%A2%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2%29"
+      }
+    ],
+    "tags": [
+      "monument",
+      "wwii",
+      "hero",
+      "memorial",
+      "tambov"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "tambov-rachmaninoff-monument-tambov",
+    "slug": "rachmaninoff-monument-tambov",
+    "region": "tambov",
+    "region_name_vi": "Tỉnh Tambov",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Tượng đài Rachmaninov (Памятник С. В. Рахманинову)",
+    "name_ru": "Памятник С. В. Рахманинову (Тамбов)",
+    "name_en": "Monument to Sergei Rachmaninoff (Tambov)",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 52.72202,
+      "lon": 41.460266
+    },
+    "address_vi": "Bờ kè sông Tsna, gần tu viện Kazan, thành phố Tambov, tỉnh Tambov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Tượng đài nhà soạn nhạc thiên tài Sergei Rachmaninov trên bờ kè sông Tsna, tôn vinh mối gắn bó sâu sắc của ông với vùng đất Tambov và điền trang Ivanovka.",
+    "presentation_long_vi": "Tượng đài Sergei Rachmaninov trên bờ kè sông Tsna là một trong những điểm nhấn văn hóa được yêu thích của Tambov. Nhà soạn nhạc và nghệ sĩ dương cầm vĩ đại có mối gắn bó sâu sắc với vùng đất này: ông đã trải qua nhiều mùa hè tại điền trang Ivanovka của gia đình bên vợ ở tỉnh Tambov, nơi ông sáng tác nhiều tác phẩm quan trọng nhất trong sự nghiệp. Bức tượng khắc họa nhạc sĩ trong dáng vẻ trầm tư, đặt ở vị trí đẹp nhìn ra dòng sông, gần tu viện Kazan và khu trung tâm lịch sử. Đây là nơi người dân và du khách dừng chân chụp ảnh, tưởng nhớ một trong những tên tuổi âm nhạc lớn nhất mà nước Nga cống hiến cho thế giới, đồng thời cảm nhận niềm tự hào của Tambov về di sản Rachmaninov.",
+    "highlights_vi": [
+      "Tượng đài nhà soạn nhạc vĩ đại Sergei Rachmaninov",
+      "Vị trí đẹp trên bờ kè sông Tsna gần tu viện Kazan",
+      "Tôn vinh gắn bó của Rachmaninov với Tambov và điền trang Ivanovka"
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tham quan tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 10-15 phút.",
+      "best_time_vi": "Chiều muộn khi ánh nắng trên sông đẹp nhất.",
+      "tips_vi": "Kết hợp dạo bờ kè, thăm tu viện Kazan và nghe nhạc Rachmaninov khi ghé."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%D0%A0%D0%B0%D1%85%D0%BC%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%B2%D1%83%2C%20%D0%A2%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2&ll=41.460266,52.72202&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Monument%20to%20Rachmaninoff%2C%20Tambov%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) - Памятник С. В. Рахманинову (Тамбов)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D0%A1._%D0%92._%D0%A0%D0%B0%D1%85%D0%BC%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%B2%D1%83_%28%D0%A2%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2%29"
+      }
+    ],
+    "tags": [
+      "monument",
+      "rachmaninoff",
+      "music",
+      "embankment",
+      "tambov"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "tambov-tambov-treasurer-monument",
+    "slug": "tambov-treasurer-monument",
+    "region": "tambov",
+    "region_name_vi": "Tỉnh Tambov",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Tượng đài 'Người vợ thủ quỹ Tambov' (Памятник тамбовской казначейше)",
+    "name_ru": "Памятник тамбовской казначейше",
+    "name_en": "Monument to the Tambov Treasurer's Wife",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 52.723,
+      "lon": 41.449994
+    },
+    "address_vi": "Phố đi bộ Kommunalnaya, trung tâm thành phố Tambov, tỉnh Tambov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Tượng đài duyên dáng lấy cảm hứng từ nữ nhân vật trong trường ca 'Người vợ thủ quỹ Tambov' của đại thi hào Lermontov, dựng năm 2016 nhân dịp thành phố tròn tuổi.",
+    "presentation_long_vi": "Tượng đài 'Người vợ thủ quỹ Tambov' (Tambovskaya kaznacheysha) là một tác phẩm điêu khắc đầy chất thơ trên phố đi bộ Kommunalnaya, dựa trên nhân vật văn học nữ trong trường ca cùng tên của đại thi hào Mikhail Lermontov. Trong tác phẩm, Lermontov kể câu chuyện trào phúng và lãng mạn về một quý bà xinh đẹp - vợ viên thủ quỹ thành phố Tambov - và ván bài định mệnh của chồng nàng. Bức tượng khắc họa hình ảnh người phụ nữ thanh lịch của thế kỷ 19, được dựng năm 2016 theo sáng kiến của chính quyền tỉnh nhân dịp kỷ niệm thành lập thành phố Tambov; tác giả là nhà điêu khắc A. A. Mironov. Đặt giữa phố đi bộ nhộn nhịp, tượng đài là điểm chụp ảnh yêu thích và là lời nhắc thú vị về mối duyên giữa Tambov với văn học Nga cổ điển.",
+    "highlights_vi": [
+      "Tượng đài lấy cảm hứng từ trường ca của Lermontov về Tambov",
+      "Hình ảnh quý bà thanh lịch thế kỷ 19 duyên dáng",
+      "Dựng năm 2016 nhân kỷ niệm thành phố, trên phố đi bộ Kommunalnaya"
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời trên phố đi bộ, tham quan tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 10 phút.",
+      "best_time_vi": "Buổi tối khi phố đi bộ lên đèn và đông vui.",
+      "tips_vi": "Kết hợp dạo trọn phố đi bộ Kommunalnaya và đọc trước trường ca của Lermontov."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%D1%82%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B9%20%D0%BA%D0%B0%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%B9%D1%88%D0%B5%2C%20%D0%A2%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2&ll=41.449994,52.723&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Monument%20to%20the%20Tambov%20Treasurer%27s%20Wife%2C%20Tambov%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) - Памятник тамбовской казначейше",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D1%82%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B9_%D0%BA%D0%B0%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%B9%D1%88%D0%B5"
+      }
+    ],
+    "tags": [
+      "monument",
+      "lermontov",
+      "literature",
+      "pedestrian",
+      "tambov"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "tambov-sergeev-tsensky-monument-tambov",
+    "slug": "sergeev-tsensky-monument-tambov",
+    "region": "tambov",
+    "region_name_vi": "Tỉnh Tambov",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Tượng đài Sergeyev-Tsensky (Памятник С. Н. Сергееву-Ценскому)",
+    "name_ru": "Памятник С. Н. Сергееву-Ценскому",
+    "name_en": "Monument to Sergeyev-Tsensky (Tambov)",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 52.720078,
+      "lon": 41.461757
+    },
+    "address_vi": "Bờ kè sông Tsna, trung tâm thành phố Tambov, tỉnh Tambov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Tượng đài nhà văn Sergei Sergeyev-Tsensky - một cây bút Nga - Xô Viết nổi tiếng có cội nguồn gắn với vùng Tambov, đặt trên bờ kè sông Tsna.",
+    "presentation_long_vi": "Tượng đài Sergei Sergeyev-Tsensky tôn vinh một trong những nhà văn tên tuổi của văn học Nga - Xô Viết nửa đầu thế kỷ 20, tác giả của các trường thiên tiểu thuyết sử thi đồ sộ về nước Nga. Bút danh 'Tsensky' của ông chính là lấy từ tên dòng sông Tsna (Цна) chảy qua Tambov, thể hiện sự gắn bó với vùng đất quê hương nơi ông sinh ra và lớn lên. Bức tượng được đặt trên bờ kè sông Tsna, gần khu trung tâm lịch sử, giữa không gian thoáng đãng nhìn ra dòng nước. Đây là điểm dừng ý nghĩa cho những ai yêu văn chương, muốn tìm hiểu về các nhà văn xuất thân từ Tambov, đồng thời tận hưởng khung cảnh bờ sông thơ mộng của thành phố.",
+    "highlights_vi": [
+      "Tượng đài nhà văn Nga - Xô Viết Sergeyev-Tsensky",
+      "Bút danh 'Tsensky' lấy từ tên sông Tsna quê hương Tambov",
+      "Vị trí thơ mộng trên bờ kè sông Tsna trung tâm"
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tham quan tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 10 phút.",
+      "best_time_vi": "Ban ngày; đẹp khi dạo dọc bờ kè.",
+      "tips_vi": "Kết hợp với tượng đài Rachmaninov và tu viện Kazan gần đó."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D1%83-%D0%A6%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%BC%D1%83%2C%20%D0%A2%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2&ll=41.461757,52.720078&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Monument%20to%20Sergeyev-Tsensky%2C%20Tambov%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) - Памятник С. Н. Сергееву-Ценскому",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D0%A1._%D0%9D._%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D1%83-%D0%A6%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%BC%D1%83"
+      }
+    ],
+    "tags": [
+      "monument",
+      "writer",
+      "literature",
+      "embankment",
+      "tambov"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "tambov-kommunalnaya-street-tambov",
+    "slug": "kommunalnaya-street-tambov",
+    "region": "tambov",
+    "region_name_vi": "Tỉnh Tambov",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Phố đi bộ Kommunalnaya (Коммунальная улица)",
+    "name_ru": "Коммунальная улица (Тамбов)",
+    "name_en": "Kommunalnaya Street (Tambov)",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 52.72278,
+      "lon": 41.44861
+    },
+    "address_vi": "Phố Kommunalnaya, trung tâm thành phố Tambov, tỉnh Tambov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Trục phố trung tâm của Tambov với một đoạn dành cho người đi bộ - 'Arbat' của thành phố, nơi tập trung kiến trúc cổ, cửa hàng, quán cà phê và các tượng đài.",
+    "presentation_long_vi": "Phố Kommunalnaya là một trong những trục phố chính và giàu bản sắc nhất trung tâm Tambov. Ban đầu mang tên Penzenskaya (vì là điểm khởi đầu con đường đi Penza), rồi Gimnazicheskaya sau khi trường trung học nam được xây năm 1828, con phố được đổi tên thành Kommunalnaya vào tháng 4 năm 1918. Đoạn từ phố Karl Marx đến phố Proletarskaya được biến thành khu đi bộ - được ví như 'Arbat của Tambov'. Dạo trên phố, du khách bắt gặp những tòa nhà cổ thế kỷ 19 duyên dáng, cửa hàng, quán cà phê, ghế nghỉ và các tác phẩm điêu khắc đường phố, trong đó có tượng đài 'Người vợ thủ quỹ Tambov'. Đây là nơi lý tưởng để đi bộ thư thả, cảm nhận nhịp sống thành phố, mua sắm và chụp ảnh, đặc biệt sôi động vào buổi chiều tối và những ngày lễ.",
+    "highlights_vi": [
+      "Phố đi bộ trung tâm - 'Arbat của Tambov'",
+      "Kiến trúc cổ thế kỷ 19, cửa hàng, quán cà phê và điêu khắc đường phố",
+      "Có tượng đài 'Người vợ thủ quỹ Tambov' nổi tiếng"
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, dạo chơi tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 30-60 phút.",
+      "best_time_vi": "Chiều tối khi phố lên đèn và đông vui nhất.",
+      "tips_vi": "Đi giày thoải mái; kết hợp mua sắm, cà phê và ngắm các tượng đường phố."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C%20%D0%A2%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2&ll=41.44861,52.72278&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kommunalnaya%20Street%2C%20Tambov%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) - Коммунальная улица (Тамбов)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%83%D0%BB%D0%B8%D1%86%D0%B0_%28%D0%A2%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2%29"
+      }
+    ],
+    "tags": [
+      "pedestrian-street",
+      "arbat",
+      "shopping",
+      "architecture",
+      "tambov"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "tambov-tsna-embankment-tambov",
+    "slug": "tsna-embankment-tambov",
+    "region": "tambov",
+    "region_name_vi": "Tỉnh Tambov",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Bờ kè sông Tsna (Набережная реки Цны)",
+    "name_ru": "Набережная реки Цны (Тамбов)",
+    "name_en": "Tsna River Embankment (Tambov)",
+    "categories": [
+      "park_garden",
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 52.7208,
+      "lon": 41.4612
+    },
+    "address_vi": "Bờ tây sông Tsna, trung tâm thành phố Tambov, tỉnh Tambov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bờ kè hai tầng dọc sông Tsna - không gian dạo bộ đẹp nhất Tambov với hàng cây, đài phun nước, cầu đi bộ và nhiều tượng đài, tấp nập cả ngày lẫn tối.",
+    "presentation_long_vi": "Bờ kè sông Tsna là một trong những niềm tự hào và điểm dạo chơi được yêu thích nhất của người Tambov. Trải dài dọc bờ tây con sông ngay sát trung tâm lịch sử, bờ kè được quy hoạch thành hai tầng: tầng trên rợp bóng cây với lối đi lát đá, ghế nghỉ và các tượng đài (như tượng Rachmaninov, Sergeyev-Tsensky); tầng dưới sát mặt nước dành cho đi bộ, ngắm sông và cầu đi bộ bắc qua. Vào mùa ấm, nơi đây rực rỡ hoa, đài phun nước và các hoạt động ngoài trời; buổi tối, đèn chiếu sáng lung linh biến bờ kè thành không gian hẹn hò, dạo mát lãng mạn. Từ đây có thể phóng tầm mắt sang bờ đông xanh mát và các nhà thờ mái vòm vàng của thành phố. Bờ kè Tsna là nơi kết nối lý tưởng giữa nhiều điểm tham quan trung tâm và là chốn thư giãn không thể bỏ qua khi đến Tambov.",
+    "highlights_vi": [
+      "Bờ kè hai tầng dọc sông Tsna - không gian dạo bộ đẹp nhất thành phố",
+      "Hàng cây, đài phun nước, cầu đi bộ và nhiều tượng đài",
+      "Lung linh về đêm, lãng mạn và tấp nập cả ngày lẫn tối"
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, dạo chơi tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 45-90 phút.",
+      "best_time_vi": "Chiều tối mùa hè khi có đèn, đài phun nước và không khí mát mẻ.",
+      "tips_vi": "Kết hợp thăm tu viện Kazan, các tượng đài và nhà thờ Chúa Biến Hình gần đó."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B5%D0%BA%D0%B8%20%D0%A6%D0%BD%D1%8B%2C%20%D0%A2%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2&ll=41.4612,52.7208&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Tsna%20River%20Embankment%2C%20Tambov%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) - Тамбов (bờ kè sông Цна)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2"
+      }
+    ],
+    "tags": [
+      "embankment",
+      "promenade",
+      "river",
+      "walk",
+      "tambov"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "tambov-akhlebinovskaya-grove-tambov",
+    "slug": "akhlebinovskaya-grove-tambov",
+    "region": "tambov",
+    "region_name_vi": "Tỉnh Tambov",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Rừng Akhlebinovskaya (Công viên phía Nam)",
+    "name_ru": "Ахлебиновская роща",
+    "name_en": "Akhlebinovskaya Grove (Tambov)",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 52.6881,
+      "lon": 41.4592
+    },
+    "address_vi": "Quận Sovetsky, thành phố Tambov, tỉnh Tambov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Khu rừng - công viên tự nhiên rộng 13 ha ở phía nam Tambov, còn gọi là 'Công viên phía Nam', là lá phổi xanh và nơi dạo bộ, nghỉ ngơi của người dân.",
+    "presentation_long_vi": "Rừng Akhlebinovskaya, còn được gọi là 'Công viên phía Nam' (Yuzhny park), là một khu rừng - công viên tự nhiên rộng khoảng 13 ha nằm ở quận Sovetsky phía nam thành phố Tambov. Ranh giới phía tây và tây bắc của rừng chạy dọc con sông nhỏ Zhigalka, tạo nên khung cảnh sông nước mềm mại; xen giữa những tán cây là các lối mòn dạo bộ. Đây là một trong những mảng xanh tự nhiên quý giá còn giữ được giữa lòng đô thị, là nơi người dân đến đi bộ, chạy bộ, đạp xe, dã ngoại và tận hưởng không khí trong lành. Với du khách thích thiên nhiên và muốn tạm rời nhịp phố xá, Akhlebinovskaya là điểm đến yên tĩnh, dân dã, cho cảm nhận về mảng xanh sinh thái của Tambov.",
+    "highlights_vi": [
+      "Rừng - công viên tự nhiên rộng 13 ha, 'lá phổi xanh' phía nam Tambov",
+      "Cảnh sông nước dọc suối Zhigalka và những lối mòn dạo bộ",
+      "Nơi đi bộ, chạy bộ, đạp xe và dã ngoại của người dân"
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tự do vào ban ngày.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 45-90 phút.",
+      "best_time_vi": "Mùa xuân - hè - thu khi cây xanh tốt.",
+      "tips_vi": "Đi giày thể thao; mang nước; thích hợp đi bộ, dã ngoại nhẹ nhàng."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%90%D1%85%D0%BB%D0%B5%D0%B1%D0%B8%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%BE%D1%89%D0%B0%2C%20%D0%A2%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2&ll=41.4592,52.6881&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Akhlebinovskaya%20Grove%2C%20Tambov%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) - Ахлебиновская роща",
+        "url": "https://ru.wikipedia.org/wiki/%D0%90%D1%85%D0%BB%D0%B5%D0%B1%D0%B8%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%BE%D1%89%D0%B0"
+      }
+    ],
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "recreation",
+      "tambov"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "tambov-bogolyubsky-cathedral-michurinsk",
+    "slug": "bogolyubsky-cathedral-michurinsk",
+    "region": "tambov",
+    "region_name_vi": "Tỉnh Tambov",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Nhà thờ chính tòa Bogolyubsky (Боголюбский собор)",
+    "name_ru": "Боголюбский собор (Мичуринск)",
+    "name_en": "Bogolyubsky Cathedral (Michurinsk)",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 52.884975,
+      "lon": 40.50565
+    },
+    "address_vi": "Thành phố Michurinsk, tỉnh Tambov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhà thờ chính tòa của giáo phận Michurinsk, một di tích kiến trúc cấp liên bang xây theo phong cách Nga - Byzantine, gợi nhớ Nhà thờ Chúa Cứu Thế ở Moskva.",
+    "presentation_long_vi": "Nhà thờ chính tòa Bogolyubsky là công trình tôn giáo bề thế và nổi bật nhất của Michurinsk (tên cũ là Kozlov), giữ vai trò nhà thờ chính tòa của giáo phận Michurinsk thuộc Giáo hội Chính thống Nga. Được xây dựng vào giữa thế kỷ 19 để tạ ơn vì thành phố thoát khỏi dịch tả, thánh đường mang phong cách Nga - Byzantine với khối hình vuông đồ sộ và năm mái vòm đặc trưng, khiến nhiều người liên tưởng tới Nhà thờ Chúa Cứu Thế ở Moskva - vốn cùng do kiến trúc sư Konstantin Ton thiết kế theo dòng kiến trúc này. Công trình được công nhận là di tích kiến trúc cấp liên bang. Sau thời Xô Viết với nhiều tổn thất, nhà thờ đã được trùng tu và trở lại vai trò trung tâm đời sống tinh thần của thành phố. Với quy mô hoành tráng và giá trị lịch sử - nghệ thuật, đây là điểm đến hàng đầu khi ghé Michurinsk.",
+    "highlights_vi": [
+      "Nhà thờ chính tòa của giáo phận Michurinsk, di tích cấp liên bang",
+      "Phong cách Nga - Byzantine gợi nhớ Nhà thờ Chúa Cứu Thế ở Moskva",
+      "Xây giữa thế kỷ 19 để tạ ơn thành phố thoát dịch tả"
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa hằng ngày theo giờ lễ.",
+      "ticket_vi": "Miễn phí (công đức tùy tâm).",
+      "duration_vi": "Khoảng 30-45 phút.",
+      "best_time_vi": "Quanh năm; các dịp lễ lớn không khí trang trọng.",
+      "tips_vi": "Trang phục kín đáo, nữ trùm khăn; kết hợp tham quan các điểm khác ở Michurinsk."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%91%D0%BE%D0%B3%D0%BE%D0%BB%D1%8E%D0%B1%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D0%B1%D0%BE%D1%80%2C%20%D0%9C%D0%B8%D1%87%D1%83%D1%80%D0%B8%D0%BD%D1%81%D0%BA&ll=40.50565,52.884975&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Bogolyubsky%20Cathedral%2C%20Michurinsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) - Боголюбский собор (Мичуринск)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B3%D0%BE%D0%BB%D1%8E%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%28%D0%9C%D0%B8%D1%87%D1%83%D1%80%D0%B8%D0%BD%D1%81%D0%BA%29"
+      }
+    ],
+    "tags": [
+      "cathedral",
+      "orthodox",
+      "byzantine-revival",
+      "michurinsk",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "tambov-ilyinsky-church-michurinsk",
+    "slug": "ilyinsky-church-michurinsk",
+    "region": "tambov",
+    "region_name_vi": "Tỉnh Tambov",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Nhà thờ Ilyinsky - Thánh Elia (Ильинская церковь)",
+    "name_ru": "Ильинская церковь (Мичуринск)",
+    "name_en": "Elijah Church (Michurinsk)",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 52.8892111,
+      "lon": 40.515056
+    },
+    "address_vi": "Quảng trường Michurin, thành phố Michurinsk, tỉnh Tambov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Ngôi nhà thờ trên điểm cao nhất Michurinsk, với tháp chuông cao 67,5 m (tính cả thánh giá là 71 m) - công trình cao nhất thành phố, di tích cấp liên bang.",
+    "presentation_long_vi": "Nhà thờ Ilyinsky (dâng kính Thánh tiên tri Elia) là một trong những công trình tôn giáo biểu tượng của Michurinsk, tọa lạc trên điểm cao nhất thành phố - Quảng trường Michurin - nên có thể nhìn thấy từ hầu khắp mọi nơi. Điểm gây ấn tượng mạnh nhất là tháp chuông cao 67,5 mét, và nếu tính cả cây thánh giá trên đỉnh tháp thì đạt 71 mét, đưa nó trở thành công trình cao nhất thành phố. Ngôi nhà thờ được công nhận là di sản văn hóa cấp liên bang, mang giá trị kiến trúc và lịch sử đặc biệt. Vươn cao trên nền trời Michurinsk, tháp chuông là điểm mốc định hướng quen thuộc và là biểu tượng thị giác của thành phố. Với du khách, leo lên khu vực quảng trường quanh nhà thờ còn mở ra tầm nhìn đẹp bao quát phố phường Michurinsk cổ kính.",
+    "highlights_vi": [
+      "Nằm trên điểm cao nhất Michurinsk, nhìn thấy từ khắp thành phố",
+      "Tháp chuông cao 67,5 m (kèm thánh giá là 71 m) - cao nhất thành phố",
+      "Di sản văn hóa cấp liên bang, biểu tượng thị giác của Michurinsk"
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa hằng ngày theo giờ lễ.",
+      "ticket_vi": "Miễn phí (công đức tùy tâm).",
+      "duration_vi": "Khoảng 20-30 phút.",
+      "best_time_vi": "Ban ngày quang đãng để ngắm tháp chuông và toàn cảnh.",
+      "tips_vi": "Trang phục kín đáo, nữ trùm khăn; kết hợp thăm tượng đài Michurin ở quảng trường."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%98%D0%BB%D1%8C%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C%2C%20%D0%9C%D0%B8%D1%87%D1%83%D1%80%D0%B8%D0%BD%D1%81%D0%BA&ll=40.515056,52.8892111&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Elijah%20Church%2C%20Michurinsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) - Ильинская церковь (Мичуринск)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%98%D0%BB%D1%8C%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%28%D0%9C%D0%B8%D1%87%D1%83%D1%80%D0%B8%D0%BD%D1%81%D0%BA%29"
+      }
+    ],
+    "tags": [
+      "church",
+      "orthodox",
+      "bell-tower",
+      "michurinsk",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "tambov-gerasimov-museum-estate-michurinsk",
+    "slug": "gerasimov-museum-estate-michurinsk",
+    "region": "tambov",
+    "region_name_vi": "Tỉnh Tambov",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Bảo tàng - điền trang Gerasimov (Музей-усадьба А. М. Герасимова)",
+    "name_ru": "Музей-усадьба А. М. Герасимова",
+    "name_en": "Gerasimov Museum-Estate (Michurinsk)",
+    "categories": [
+      "museum",
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 52.88472,
+      "lon": 40.50667
+    },
+    "address_vi": "Thành phố Michurinsk, tỉnh Tambov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Ngôi nhà - điền trang thương gia thế kỷ 19, quê hương của họa sĩ A. M. Gerasimov (chủ tịch đầu tiên Viện Hàn lâm Mỹ thuật Liên Xô), lưu giữ bộ sưu tập lớn nhất tranh của ông.",
+    "presentation_long_vi": "Bảo tàng - điền trang Gerasimov là một quần thể nhà - vườn thương gia thế kỷ 19 ở Michurinsk, nơi gắn với cuộc đời họa sĩ Aleksandr Mikhailovich Gerasimov - chủ tịch đầu tiên của Viện Hàn lâm Mỹ thuật Liên Xô và Nghệ sĩ Nhân dân Liên Xô. Ngôi nhà gạch hai tầng do cha họa sĩ xây năm 1886, là nơi ông trải qua tuổi thơ và tuổi trẻ, sau cách mạng vẫn thường xuyên trở về sáng tác. Trong khuôn viên còn có nhà kho gạch cổ được chính họa sĩ cải tạo thành xưởng vẽ - nơi ra đời bức tranh nổi tiếng 'Hiên nhà ướt. Sau cơn mưa' (1935). Mở cửa từ năm 1977 và có thêm phòng triển lãm xây năm 1981, bảo tàng gìn giữ đồ đạc, tài liệu, ảnh gốc của gia đình cùng bộ sưu tập lớn nhất các tác phẩm của Gerasimov (khoảng 141 bức). Đây là điểm đến giàu chất nghệ thuật, giúp hình dung không gian sống của một danh họa và đời sống điền trang tỉnh lẻ nước Nga.",
+    "highlights_vi": [
+      "Điền trang - nhà thương gia thế kỷ 19, quê hương họa sĩ A. M. Gerasimov",
+      "Xưởng vẽ nơi ra đời bức tranh nổi tiếng 'Hiên nhà ướt. Sau cơn mưa'",
+      "Lưu giữ bộ sưu tập lớn nhất tranh của Gerasimov (khoảng 141 tác phẩm)"
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa gần như cả tuần, thường 10:00-18:00; nghỉ một ngày trong tuần.",
+      "ticket_vi": "Vé vào phải chăng; có ưu đãi cho học sinh, sinh viên.",
+      "duration_vi": "Khoảng 1-1,5 giờ.",
+      "best_time_vi": "Quanh năm.",
+      "tips_vi": "Nên thuê thuyết minh để hiểu sâu về cuộc đời và tác phẩm của họa sĩ."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%B9-%D1%83%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0%20%D0%93%D0%B5%D1%80%D0%B0%D1%81%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0%2C%20%D0%9C%D0%B8%D1%87%D1%83%D1%80%D0%B8%D0%BD%D1%81%D0%BA&ll=40.50667,52.88472&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Gerasimov%20Museum-Estate%2C%20Michurinsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) - Музей-усадьба А. М. Герасимова",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D0%B7%D0%B5%D0%B9-%D1%83%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0_%D0%90._%D0%9C._%D0%93%D0%B5%D1%80%D0%B0%D1%81%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0"
+      }
+    ],
+    "tags": [
+      "museum",
+      "estate",
+      "art",
+      "gerasimov",
+      "michurinsk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "tambov-michurinsk-drama-theatre",
+    "slug": "michurinsk-drama-theatre",
+    "region": "tambov",
+    "region_name_vi": "Tỉnh Tambov",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Nhà hát kịch Michurinsk (Мичуринский драматический театр)",
+    "name_ru": "Мичуринский драматический театр",
+    "name_en": "Michurinsk Drama Theatre",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 52.89361,
+      "lon": 40.51
+    },
+    "address_vi": "Thành phố Michurinsk, tỉnh Tambov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhà hát kịch của Michurinsk trong tòa nhà từ năm 1913 - công trình duy nhất ở tỉnh Tambov ngay từ đầu đã được xây dựng để làm nhà hát.",
+    "presentation_long_vi": "Nhà hát kịch Michurinsk là một viên ngọc văn hóa của thành phố nhỏ này. Điều đặc biệt: tòa nhà hiện tại của nhà hát, hoạt động từ năm 1913, là công trình duy nhất trên toàn tỉnh Tambov ngay từ đầu được thiết kế và xây dựng riêng để làm nhà hát - trong khi hầu hết các nhà hát khác đều cải tạo từ những tòa nhà có mục đích khác. Với truyền thống sân khấu hơn một thế kỷ, nhà hát Michurinsk dàn dựng các vở kịch kinh điển Nga, thế giới và đương đại, phục vụ khán giả địa phương và du khách. Không gian nội thất mang dấu ấn đầu thế kỷ 20 tạo cảm giác hoài cổ, ấm cúng. Ghé nhà hát là dịp để thưởng thức nghệ thuật sân khấu tỉnh lẻ giàu bản sắc và chiêm ngưỡng một công trình lịch sử độc đáo của vùng Tambov.",
+    "highlights_vi": [
+      "Tòa nhà nhà hát từ năm 1913, duy nhất ở tỉnh Tambov xây riêng để làm nhà hát",
+      "Truyền thống sân khấu hơn một thế kỷ",
+      "Nội thất mang dấu ấn hoài cổ đầu thế kỷ 20"
+    ],
+    "practical": {
+      "hours_vi": "Buổi tối theo lịch diễn; phòng vé mở ban ngày.",
+      "ticket_vi": "Giá vé phải chăng, tùy vở và hạng ghế.",
+      "duration_vi": "Buổi diễn khoảng 2-3 giờ.",
+      "best_time_vi": "Mùa diễn thu - xuân; nên đặt vé trước.",
+      "tips_vi": "Kiểm tra lịch diễn; kết hợp tham quan phố cổ Michurinsk."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D0%B8%D1%87%D1%83%D1%80%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D1%82%D0%B5%D0%B0%D1%82%D1%80%2C%20%D0%9C%D0%B8%D1%87%D1%83%D1%80%D0%B8%D0%BD%D1%81%D0%BA&ll=40.51,52.89361&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Michurinsk%20Drama%20Theatre%2C%20Michurinsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) - Мичуринский драматический театр",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D1%87%D1%83%D1%80%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80"
+      }
+    ],
+    "tags": [
+      "theatre",
+      "drama",
+      "historic-building",
+      "michurinsk",
+      "culture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "tambov-michurin-monument-michurinsk",
+    "slug": "michurin-monument-michurinsk",
+    "region": "tambov",
+    "region_name_vi": "Tỉnh Tambov",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Tượng đài Michurin (Памятник И. В. Мичурину)",
+    "name_ru": "Памятник Мичурину (Мичуринск, площадь Мичурина)",
+    "name_en": "Monument to Ivan Michurin (Michurinsk)",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 52.888084,
+      "lon": 40.515038
+    },
+    "address_vi": "Quảng trường Michurin, thành phố Michurinsk, tỉnh Tambov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Tượng đài nhà chọn giống cây trồng lừng danh Ivan Michurin trên quảng trường trung tâm mang tên ông - thành phố khoa học đặt theo tên ông.",
+    "presentation_long_vi": "Tượng đài Ivan Vladimirovich Michurin ngự trên quảng trường trung tâm mang tên ông ở thành phố Michurinsk - thành phố khoa học nông nghiệp được đổi tên để vinh danh nhà chọn giống cây trồng vĩ đại. Michurin (1855-1935) đã dành cả đời nghiên cứu và lai tạo hàng trăm giống cây ăn quả mới thích nghi với khí hậu khắc nghiệt của Nga, biến Kozlov - Michurinsk thành trung tâm làm vườn và chọn giống nổi tiếng cả nước. Bức tượng khắc họa ông trong dáng vẻ nhà khoa học điềm tĩnh, đặt ở nơi trang trọng nhất thành phố, gần nhà thờ Ilyinsky trên điểm cao. Đây là biểu tượng niềm tự hào của cư dân và là điểm dừng ý nghĩa để hiểu vì sao Michurinsk được mệnh danh là 'thủ đô làm vườn' của nước Nga.",
+    "highlights_vi": [
+      "Tượng đài nhà chọn giống cây trồng lừng danh Ivan Michurin",
+      "Đặt trên quảng trường trung tâm mang tên ông",
+      "Biểu tượng của 'thủ đô làm vườn' nước Nga - thành phố Michurinsk"
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tham quan tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 10-15 phút.",
+      "best_time_vi": "Ban ngày; kết hợp với nhà thờ Ilyinsky trên cùng quảng trường.",
+      "tips_vi": "Tìm hiểu thêm về sự nghiệp chọn giống của Michurin để cảm nhận trọn ý nghĩa."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%D0%9C%D0%B8%D1%87%D1%83%D1%80%D0%B8%D0%BD%D1%83%2C%20%D0%9C%D0%B8%D1%87%D1%83%D1%80%D0%B8%D0%BD%D1%81%D0%BA&ll=40.515038,52.888084&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Monument%20to%20Ivan%20Michurin%2C%20Michurinsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) - Памятник Мичурину (Мичуринск, площадь Мичурина)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D0%9C%D0%B8%D1%87%D1%83%D1%80%D0%B8%D0%BD%D1%83_%28%D0%9C%D0%B8%D1%87%D1%83%D1%80%D0%B8%D0%BD%D1%81%D0%BA%2C_%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C_%D0%9C%D0%B8%D1%87%D1%83%D1%80%D0%B8%D0%BD%D0%B0%29"
+      }
+    ],
+    "tags": [
+      "monument",
+      "michurin",
+      "science",
+      "michurinsk",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "tambov-morshansk-museum",
+    "slug": "morshansk-museum",
+    "region": "tambov",
+    "region_name_vi": "Tỉnh Tambov",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Bảo tàng Lịch sử - Nghệ thuật Morshansk (Моршанский историко-художественный музей)",
+    "name_ru": "Моршанский историко-художественный музей",
+    "name_en": "Morshansk Museum of History and Art",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 53.44278,
+      "lon": 41.81389
+    },
+    "address_vi": "Thành phố Morshansk, tỉnh Tambov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng lâu đời ở thị trấn thương mại Morshansk, nổi tiếng với bộ sưu tập phong phú về khảo cổ, mỹ thuật, đồ cổ và văn hóa dân gian vùng Tambov.",
+    "presentation_long_vi": "Bảo tàng Lịch sử - Nghệ thuật Morshansk là một trong những bảo tàng địa phương giàu giá trị bất ngờ của tỉnh Tambov, tọa lạc tại Morshansk - thị trấn thương mại sầm uất trên sông Tsna thời xưa. Được thành lập đầu thế kỷ 20 nhờ công lao sưu tầm của nhà nghiên cứu địa phương Pyotr Ivanov, bảo tàng gây ấn tượng với bộ sưu tập đa dạng vượt tầm một thị trấn nhỏ: hiện vật khảo cổ, tranh của các họa sĩ Nga và Tây Âu, biểu tượng tôn giáo (icon) cổ, trang phục, đồ thủ công, vũ khí và các vật dụng phản ánh đời sống thương nhân, nông dân vùng Tambov qua nhiều thế kỷ. Nhiều du khách bất ngờ vì chất lượng và độ quý hiếm của các hiện vật nơi đây. Đối với người yêu lịch sử và nghệ thuật, đây là điểm đến đáng để kết hợp khi ghé thăm nhà thờ chính tòa Ba Ngôi hoành tráng của Morshansk.",
+    "highlights_vi": [
+      "Bảo tàng địa phương lâu đời với sưu tập phong phú bất ngờ",
+      "Khảo cổ, tranh, icon cổ, đồ thủ công và di sản thương mại Morshansk",
+      "Kết hợp lý tưởng với nhà thờ chính tòa Ba Ngôi gần đó"
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa gần như cả tuần, thường 9:00-17:00; nghỉ một ngày trong tuần.",
+      "ticket_vi": "Vé vào phải chăng.",
+      "duration_vi": "Khoảng 1 giờ.",
+      "best_time_vi": "Quanh năm.",
+      "tips_vi": "Cách Tambov khoảng 90 km về phía bắc; kết hợp thăm nhà thờ Ba Ngôi Morshansk."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D0%BE%D1%80%D1%88%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%BE-%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%2C%20%D0%9C%D0%BE%D1%80%D1%88%D0%B0%D0%BD%D1%81%D0%BA&ll=41.81389,53.44278&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Morshansk%20Museum%20of%20History%20and%20Art%2C%20Morshansk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) - Моршанский историко-художественный музей",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D1%88%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%BE-%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9"
+      }
+    ],
+    "tags": [
+      "museum",
+      "local-history",
+      "art",
+      "morshansk",
+      "collection"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
+  },
+  {
+    "id": "tambov-rachmaninov-institute-tambov",
+    "slug": "rachmaninov-institute-tambov",
+    "region": "tambov",
+    "region_name_vi": "Tỉnh Tambov",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Học viện Âm nhạc Rachmaninov (Институт имени С. В. Рахманинова)",
+    "name_ru": "Тамбовский государственный музыкально-педагогический институт имени С. В. Рахманинова",
+    "name_en": "Rachmaninov State Institute of Music (Tambov)",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 52.7217,
+      "lon": 41.4569
+    },
+    "address_vi": "Trung tâm thành phố Tambov, tỉnh Tambov, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Học viện âm nhạc mang tên Rachmaninov - trung tâm đào tạo và biểu diễn âm nhạc của Tambov, gắn với Liên hoan Âm nhạc Rachmaninov danh tiếng của vùng.",
+    "presentation_long_vi": "Học viện Âm nhạc - Sư phạm Nhà nước Tambov mang tên Sergei Rachmaninov là trung tâm giáo dục và đời sống âm nhạc quan trọng nhất của vùng đất vốn tự hào về di sản Rachmaninov. Là một trong số ít học viện âm nhạc bậc đại học ở các tỉnh của Nga, nơi đây đào tạo nhạc công, ca sĩ và nhà sư phạm âm nhạc, đồng thời là địa điểm tổ chức các buổi hòa nhạc, cuộc thi và sự kiện nghệ thuật. Học viện gắn bó mật thiết với Liên hoan Âm nhạc quốc tế Rachmaninov - sự kiện thường niên tôn vinh nhà soạn nhạc có cội nguồn sâu sắc với Tambov và điền trang Ivanovka. Với du khách yêu nhạc cổ điển, việc dõi theo lịch hòa nhạc của học viện là cơ hội thưởng thức âm nhạc chất lượng ngay tại quê hương tinh thần của Rachmaninov, đồng thời cảm nhận không khí học thuật - nghệ thuật sôi động của thành phố.",
+    "highlights_vi": [
+      "Học viện âm nhạc bậc đại học mang tên Rachmaninov",
+      "Trung tâm đào tạo, hòa nhạc và sự kiện âm nhạc của vùng",
+      "Gắn với Liên hoan Âm nhạc quốc tế Rachmaninov danh tiếng"
+    ],
+    "practical": {
+      "hours_vi": "Theo lịch hòa nhạc và sự kiện; văn phòng làm việc giờ hành chính.",
+      "ticket_vi": "Vé hòa nhạc phải chăng; nhiều buổi miễn phí.",
+      "duration_vi": "Buổi hòa nhạc khoảng 1,5-2 giờ.",
+      "best_time_vi": "Mùa hòa nhạc thu - xuân và dịp Liên hoan Rachmaninov.",
+      "tips_vi": "Theo dõi lịch biểu diễn trên trang chính thức để đặt vé."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%98%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%20%D0%A0%D0%B0%D1%85%D0%BC%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0%2C%20%D0%A2%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2&ll=41.4569,52.7217&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Rachmaninov%20Institute%2C%20Tambov%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) - Тамбовский музыкально-педагогический институт имени С. В. Рахманинова",
+        "url": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE-%D0%BF%D0%B5%D0%B4%D0%B0%D0%B3%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%A1._%D0%92._%D0%A0%D0%B0%D1%85%D0%BC%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0"
+      }
+    ],
+    "tags": [
+      "music",
+      "institute",
+      "rachmaninoff",
+      "concert",
+      "tambov"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-08",
+    "country": "russia"
   }
 ]
