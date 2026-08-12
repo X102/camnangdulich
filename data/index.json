@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-12T05:48:01",
-  "total_places": 5724,
+  "generated": "2026-08-12T03:27:05",
+  "total_places": 5883,
   "regions": [
     {
       "slug": "adygea",
@@ -241,6 +241,23 @@
       ]
     },
     {
+      "slug": "cn-anhui",
+      "name_vi": "An Huy",
+      "federal_district": "Hoa Đông",
+      "country": "china",
+      "count": 6,
+      "bbox": [
+        116.45,
+        29.7146,
+        118.3134,
+        30.75
+      ],
+      "center": [
+        30.16388333333333,
+        117.78516666666667
+      ]
+    },
+    {
       "slug": "cn-beijing",
       "name_vi": "Bắc Kinh",
       "federal_district": "Hoa Bắc",
@@ -292,6 +309,23 @@
       ]
     },
     {
+      "slug": "cn-gansu",
+      "name_vi": "Cam Túc",
+      "federal_district": "Tây Bắc",
+      "country": "china",
+      "count": 6,
+      "bbox": [
+        94.6683,
+        35.2017,
+        103.0483,
+        40.0853
+      ],
+      "center": [
+        38.308233333333334,
+        98.89558333333333
+      ]
+    },
+    {
       "slug": "cn-guangdong",
       "name_vi": "Quảng Đông",
       "federal_district": "Hoa Nam",
@@ -326,6 +360,91 @@
       ]
     },
     {
+      "slug": "cn-guizhou",
+      "name_vi": "Quý Châu",
+      "federal_district": "Tây Nam",
+      "country": "china",
+      "count": 6,
+      "bbox": [
+        105.666,
+        25.2625,
+        108.68,
+        27.8956
+      ],
+      "center": [
+        26.469383333333337,
+        107.11615
+      ]
+    },
+    {
+      "slug": "cn-hainan",
+      "name_vi": "Hải Nam",
+      "federal_district": "Hoa Nam",
+      "country": "china",
+      "count": 6,
+      "bbox": [
+        109.2062,
+        18.2329,
+        110.5868,
+        19.1582
+      ],
+      "center": [
+        18.53635,
+        109.71228333333335
+      ]
+    },
+    {
+      "slug": "cn-hebei",
+      "name_vi": "Hà Bắc",
+      "federal_district": "Hoa Bắc",
+      "country": "china",
+      "count": 6,
+      "bbox": [
+        114.7579,
+        37.7188,
+        119.7542,
+        41.0147
+      ],
+      "center": [
+        39.74628333333333,
+        117.63313333333333
+      ]
+    },
+    {
+      "slug": "cn-heilongjiang",
+      "name_vi": "Hắc Long Giang",
+      "federal_district": "Đông Bắc",
+      "country": "china",
+      "count": 6,
+      "bbox": [
+        122.355,
+        44.7167,
+        128.6333,
+        53.47
+      ],
+      "center": [
+        47.3691,
+        126.15856666666667
+      ]
+    },
+    {
+      "slug": "cn-henan",
+      "name_vi": "Hà Nam",
+      "federal_district": "Hoa Trung",
+      "country": "china",
+      "count": 7,
+      "bbox": [
+        111.6397,
+        33.7187,
+        114.3169,
+        36.1214
+      ],
+      "center": [
+        34.835185714285714,
+        113.0903
+      ]
+    },
+    {
       "slug": "cn-hong-kong",
       "name_vi": "Hồng Kông",
       "federal_district": "Đặc khu (HK/Macau)",
@@ -340,6 +459,57 @@
       "center": [
         22.28252857142857,
         114.11192857142858
+      ]
+    },
+    {
+      "slug": "cn-hubei",
+      "name_vi": "Hồ Bắc",
+      "federal_district": "Hoa Trung",
+      "country": "china",
+      "count": 6,
+      "bbox": [
+        109.4056,
+        30.2444,
+        114.3833,
+        32.4005
+      ],
+      "center": [
+        31.004,
+        111.73295
+      ]
+    },
+    {
+      "slug": "cn-hunan",
+      "name_vi": "Hồ Nam",
+      "federal_district": "Hoa Trung",
+      "country": "china",
+      "count": 6,
+      "bbox": [
+        109.5993,
+        27.3017,
+        113.0883,
+        29.3847
+      ],
+      "center": [
+        28.52736666666667,
+        111.53463333333332
+      ]
+    },
+    {
+      "slug": "cn-inner-mongolia",
+      "name_vi": "Nội Mông",
+      "federal_district": "Hoa Bắc",
+      "country": "china",
+      "count": 6,
+      "bbox": [
+        109.8397,
+        39.3361,
+        120.1,
+        49.5984
+      ],
+      "center": [
+        44.83241666666667,
+        114.3288
       ]
     },
     {
@@ -360,6 +530,108 @@
       ]
     },
     {
+      "slug": "cn-jiangxi",
+      "name_vi": "Giang Tây",
+      "federal_district": "Hoa Đông",
+      "country": "china",
+      "count": 6,
+      "bbox": [
+        115.8767,
+        28.1033,
+        118.0653,
+        29.5594
+      ],
+      "center": [
+        28.966016666666665,
+        116.99543333333334
+      ]
+    },
+    {
+      "slug": "cn-jilin",
+      "name_vi": "Cát Lâm",
+      "federal_district": "Đông Bắc",
+      "country": "china",
+      "count": 6,
+      "bbox": [
+        125.339,
+        41.1542,
+        128.057,
+        44.02
+      ],
+      "center": [
+        43.03638333333333,
+        126.57565
+      ]
+    },
+    {
+      "slug": "cn-liaoning",
+      "name_vi": "Liêu Ninh",
+      "federal_district": "Đông Bắc",
+      "country": "china",
+      "count": 6,
+      "bbox": [
+        120.7145,
+        38.8712,
+        124.078,
+        41.7967
+      ],
+      "center": [
+        40.447833333333335,
+        122.47251666666666
+      ]
+    },
+    {
+      "slug": "cn-macau",
+      "name_vi": "Macau (Áo Môn)",
+      "federal_district": "Đặc khu",
+      "country": "china",
+      "count": 6,
+      "bbox": [
+        113.5311,
+        22.1482,
+        113.5609,
+        22.1975
+      ],
+      "center": [
+        22.18365,
+        113.54321666666665
+      ]
+    },
+    {
+      "slug": "cn-ningxia",
+      "name_vi": "Ninh Hạ",
+      "federal_district": "Tây Bắc",
+      "country": "china",
+      "count": 5,
+      "bbox": [
+        104.955,
+        37.454,
+        106.341,
+        38.799
+      ],
+      "center": [
+        38.388999999999996,
+        105.83399999999999
+      ]
+    },
+    {
+      "slug": "cn-qinghai",
+      "name_vi": "Thanh Hải",
+      "federal_district": "Tây Bắc",
+      "country": "china",
+      "count": 5,
+      "bbox": [
+        99.1021,
+        36.03,
+        101.7956,
+        36.8445
+      ],
+      "center": [
+        36.53312,
+        100.86134
+      ]
+    },
+    {
       "slug": "cn-shaanxi",
       "name_vi": "Thiểm Tây",
       "federal_district": "Tây Bắc",
@@ -374,6 +646,23 @@
       "center": [
         34.32526250000001,
         109.2018
+      ]
+    },
+    {
+      "slug": "cn-shandong",
+      "name_vi": "Sơn Đông",
+      "federal_district": "Hoa Đông",
+      "country": "china",
+      "count": 7,
+      "bbox": [
+        116.9916,
+        35.5966,
+        120.7581,
+        37.8266
+      ],
+      "center": [
+        36.46122857142858,
+        118.54528571428571
       ]
     },
     {
@@ -394,6 +683,23 @@
       ]
     },
     {
+      "slug": "cn-shanxi",
+      "name_vi": "Sơn Tây",
+      "federal_district": "Hoa Bắc",
+      "country": "china",
+      "count": 7,
+      "bbox": [
+        110.4372,
+        36.1476,
+        113.703,
+        40.1058
+      ],
+      "center": [
+        38.103742857142855,
+        112.47788571428569
+      ]
+    },
+    {
       "slug": "cn-sichuan",
       "name_vi": "Tứ Xuyên",
       "federal_district": "Tây Nam",
@@ -408,6 +714,74 @@
       "center": [
         31.0443625,
         103.7772375
+      ]
+    },
+    {
+      "slug": "cn-taiwan",
+      "name_vi": "Đài Loan",
+      "federal_district": "Đài Loan",
+      "country": "china",
+      "count": 7,
+      "bbox": [
+        120.7975,
+        21.9483,
+        121.8443,
+        25.1096
+      ],
+      "center": [
+        24.10348571428571,
+        121.30014285714286
+      ]
+    },
+    {
+      "slug": "cn-tianjin",
+      "name_vi": "Thiên Tân",
+      "federal_district": "Hoa Bắc",
+      "country": "china",
+      "count": 6,
+      "bbox": [
+        117.1804,
+        39.1095,
+        117.2726,
+        40.0305
+      ],
+      "center": [
+        39.284083333333335,
+        117.20703333333334
+      ]
+    },
+    {
+      "slug": "cn-tibet",
+      "name_vi": "Tây Tạng",
+      "federal_district": "Tây Nam",
+      "country": "china",
+      "count": 6,
+      "bbox": [
+        86.8517,
+        28.1417,
+        91.1322,
+        30.7
+      ],
+      "center": [
+        29.459133333333337,
+        90.25013333333334
+      ]
+    },
+    {
+      "slug": "cn-xinjiang",
+      "name_vi": "Tân Cương",
+      "federal_district": "Tây Bắc",
+      "country": "china",
+      "count": 6,
+      "bbox": [
+        75.989,
+        39.471,
+        89.7053,
+        48.7667
+      ],
+      "center": [
+        43.55198333333334,
+        85.67235
       ]
     },
     {
@@ -1996,16 +2370,16 @@
       "name_vi": "Quảng Trị",
       "federal_district": "Miền Trung",
       "country": "vietnam",
-      "count": 27,
+      "count": 52,
       "bbox": [
-        106.035,
-        16.6167,
+        106.01,
+        16.53,
         107.339358,
         17.95
       ],
       "center": [
-        17.254921999999997,
-        106.66006037037039
+        17.206397961538453,
+        106.6773678846154
       ]
     },
     {
@@ -2231,21 +2605,21 @@
     }
   ],
   "categories": {
-    "park_garden": 1600,
-    "other": 1474,
-    "church": 1244,
-    "museum": 1030,
+    "park_garden": 1682,
+    "other": 1528,
+    "church": 1269,
+    "museum": 1043,
     "theatre": 221,
-    "monument": 1472,
-    "bridge": 104,
-    "square_street": 374,
-    "palace": 155,
-    "fortress": 224
+    "monument": 1523,
+    "bridge": 107,
+    "square_street": 392,
+    "palace": 161,
+    "fortress": 232
   },
   "countries": {
     "russia": 4074,
-    "china": 87,
-    "vietnam": 1563
+    "china": 221,
+    "vietnam": 1588
   },
   "country_names": {
     "russia": "Nga",
@@ -2259,7 +2633,7 @@
     80.3382
   ],
   "center": [
-    43.2903500971175,
-    72.18418805182927
+    42.97862764846174,
+    73.23929075449107
   ]
 }
