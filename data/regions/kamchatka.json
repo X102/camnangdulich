@@ -714,5 +714,2498 @@
     "status": "enriched",
     "last_updated": "2026-07-21",
     "country": "russia"
+  },
+  {
+    "id": "kamchatka-koryaksky-volcano",
+    "slug": "koryaksky-volcano",
+    "region": "kamchatka",
+    "region_name_vi": "Vùng Kamchatka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Núi lửa Koryaksky (đọc: Cô-ri-ắc-xki)",
+    "name_ru": "Корякский вулкан (Корякская сопка)",
+    "name_en": "Koryaksky Volcano",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 53.32083,
+      "lon": 158.7125
+    },
+    "address_vi": "Khoảng 35 km về phía bắc thành phố Petropavlovsk-Kamchatsky, huyện Yelizovsky, Vùng Kamchatka",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Ngọn núi lửa hình nón hoàn hảo cao 3.456 m, đỉnh cao nhất trong bộ ba 'núi lửa nhà' che chở Petropavlovsk-Kamchatsky, quanh năm tuyết phủ và là biểu tượng trên đường chân trời thành phố.",
+    "presentation_long_vi": "Koryaksky (Koryakskaya Sopka) là ngọn stratovolcano hùng vĩ cao 3.456 m, cao nhất trong ba 'núi lửa nhà' (cùng Avachinsky và Kozelsky) vây quanh thủ phủ Petropavlovsk-Kamchatsky. Với hình nón gần như hoàn hảo phủ tuyết và băng hà quanh năm, Koryaksky là hình ảnh biểu tượng nhất trên mọi tấm bưu thiếp và đường chân trời của thành phố. Đây là núi lửa đang hoạt động: lần phun trào gần nhất diễn ra trong các năm 2008-2009 với những cột khí và tro nhẹ. Sườn núi dốc đứng, có nhiều khe băng và dòng dung nham cổ, khiến Koryaksky là mục tiêu thử thách dành cho những nhà leo núi giàu kinh nghiệm hơn hẳn Avachinsky bên cạnh - hành trình lên đỉnh đòi hỏi kỹ thuật đi băng và thường mất hai ngày. Với phần lớn du khách, Koryaksky là cảnh nền tuyệt đẹp để ngắm nhìn và chụp ảnh từ thành phố, từ đèo Avacha, hay từ các đài quan sát quanh vịnh Avacha. Cùng với Avachinsky, ngọn núi nằm trong Công viên tự nhiên Nalychevo và là một phần của Di sản Thế giới UNESCO 'Núi lửa Kamchatka'.",
+    "highlights_vi": [
+      "Núi lửa hình nón cao 3.456 m - đỉnh cao nhất bộ ba 'núi lửa nhà' của Petropavlovsk",
+      "Biểu tượng đường chân trời thành phố, tuyết và băng hà phủ quanh năm",
+      "Núi lửa đang hoạt động (phun trào 2008-2009); leo đỉnh dành cho người có kinh nghiệm"
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tự do; đi trong ngày cần khởi hành sớm, leo đỉnh cần 2 ngày.",
+      "ticket_vi": "Miễn phí ngắm cảnh; tour leo núi/đi bộ có hướng dẫn khoảng vài nghìn rúp.",
+      "duration_vi": "Ngắm cảnh 1-2 giờ; leo đỉnh 2 ngày cho người có kỹ năng đi băng.",
+      "best_time_vi": "Tháng 7 đến tháng 9 cho leo núi; mùa đông đẹp để ngắm và chụp ảnh.",
+      "tips_vi": "Chỉ leo đỉnh khi có hướng dẫn viên và trang bị đi băng; theo dõi cảnh báo hoạt động núi lửa của KVERT trước khi đi."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D0%BE%D1%80%D1%8F%D0%BA%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B2%D1%83%D0%BB%D0%BA%D0%B0%D0%BD%20%28%D0%9A%D0%BE%D1%80%D1%8F%D0%BA%D1%81%D0%BA%D0%B0%D1%8F%20%D1%81%D0%BE%D0%BF%D0%BA%D0%B0%29&ll=158.7125,53.32083&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Koryaksky%20Volcano%2C%20Kamchatka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia — Koryaksky",
+        "url": "https://en.wikipedia.org/wiki/Koryaksky"
+      },
+      {
+        "title": "Wikipedia — Корякский вулкан",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D1%8F%D0%BA%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%BE%D0%BF%D0%BA%D0%B0"
+      }
+    ],
+    "tags": [
+      "volcano",
+      "nature",
+      "unesco",
+      "home-volcanoes",
+      "avacha-bay",
+      "kamchatka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "kamchatka-kozelsky-volcano",
+    "slug": "kozelsky-volcano",
+    "region": "kamchatka",
+    "region_name_vi": "Vùng Kamchatka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Núi lửa Kozelsky (đọc: Cô-den-xki)",
+    "name_ru": "Козельский вулкан (Козельская сопка)",
+    "name_en": "Kozelsky Volcano",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 53.22694,
+      "lon": 158.88889
+    },
+    "address_vi": "Khoảng 30 km đông bắc Petropavlovsk-Kamchatsky, cạnh núi lửa Avachinsky, huyện Yelizovsky, Vùng Kamchatka",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Ngọn núi lửa 2.189 m ở cực đông của dãy 'núi lửa nhà', khép lại bộ ba Avachinsky - Koryaksky - Kozelsky, nổi bật với sườn dốc, băng hà và khu vực từng chịu dòng bùn đá lịch sử.",
+    "presentation_long_vi": "Kozelsky (Kozelskaya Sopka) cao 2.189 m là ngọn núi lửa nằm ở cực đông của rặng 'núi lửa nhà' che chở Petropavlovsk-Kamchatsky, đứng ngay sát Avachinsky và khép lại bộ ba biểu tượng Avachinsky - Koryaksky - Kozelsky. Tuy thấp và ít 'nổi tiếng' hơn hai người bạn khổng lồ, Kozelsky lại có dáng vẻ gồ ghề rất riêng với sườn dốc đứng, các máng băng hà và một vài dòng dung nham cổ. Ngọn núi được giới địa chất chú ý bởi những trận dòng bùn đá (lahar) và trượt lở từng xảy ra ở sườn đông nam. Nằm trong ranh giới Công viên tự nhiên Nalychevo và Di sản UNESCO 'Núi lửa Kamchatka', Kozelsky là điểm đến quen thuộc của các tuyến đi bộ đường dài kết hợp với Avachinsky: du khách thường cắm trại tại 'trại núi lửa' dưới chân Avachinsky rồi tản bộ tới chân Kozelsky để ngắm băng hà, thảm hoa vùng cao và toàn cảnh đồng bằng núi lửa. Đây là lựa chọn tuyệt vời cho ai muốn hòa mình vào phong cảnh núi lửa mà không cần leo đỉnh mạo hiểm.",
+    "highlights_vi": [
+      "Ngọn núi lửa 2.189 m khép lại bộ ba 'núi lửa nhà' Avachinsky - Koryaksky - Kozelsky",
+      "Sườn dốc, băng hà và dấu tích các dòng bùn đá lịch sử ở sườn đông nam",
+      "Điểm đi bộ đường dài lý tưởng, kết hợp cùng tuyến leo Avachinsky"
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tự do; thường ghép trong tour đi bộ nhiều ngày quanh Avachinsky.",
+      "ticket_vi": "Miễn phí; tour đi bộ có hướng dẫn khoảng vài nghìn rúp.",
+      "duration_vi": "Nửa ngày đi bộ tới chân núi từ 'trại núi lửa'.",
+      "best_time_vi": "Tháng 7 đến tháng 9 khi tuyết tan, hoa vùng cao nở rộ.",
+      "tips_vi": "Kết hợp với chuyến chinh phục Avachinsky; mang giày leo núi, chống nắng và nước; đề phòng đá lở ở sườn dốc."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D0%BE%D0%B7%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B2%D1%83%D0%BB%D0%BA%D0%B0%D0%BD%20%28%D0%9A%D0%BE%D0%B7%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%20%D1%81%D0%BE%D0%BF%D0%BA%D0%B0%29&ll=158.88889,53.22694&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kozelsky%20Volcano%2C%20Kamchatka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia — Kozelsky",
+        "url": "https://en.wikipedia.org/wiki/Kozelsky"
+      },
+      {
+        "title": "Wikidata — Kozelsky Volcano (Q2180374)",
+        "url": "https://www.wikidata.org/wiki/Q2180374"
+      }
+    ],
+    "tags": [
+      "volcano",
+      "nature",
+      "unesco",
+      "home-volcanoes",
+      "hiking",
+      "kamchatka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "kamchatka-vilyuchinsky-volcano",
+    "slug": "vilyuchinsky-volcano",
+    "region": "kamchatka",
+    "region_name_vi": "Vùng Kamchatka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Núi lửa Vilyuchinsky (Vilyuchik, đọc: Vi-li-u-chin-xki)",
+    "name_ru": "Вилючинский вулкан (Вилючинская сопка)",
+    "name_en": "Vilyuchinsky (Vilyuchik) Volcano",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 52.705,
+      "lon": 158.28167
+    },
+    "address_vi": "Phía nam vịnh Avacha, gần khu nghỉ Paratunka, huyện Yelizovsky, Vùng Kamchatka",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Ngọn stratovolcano cân đối cao 2.173 m ở phía nam vịnh Avacha, một trong những núi lửa được chụp ảnh nhiều nhất Kamchatka, nổi bật với đèo Vilyuchinsky và thác nước cạnh đường.",
+    "presentation_long_vi": "Vilyuchinsky (dân địa phương gọi thân mật là Vilyuchik) là ngọn núi lửa dạng nón cân đối cao 2.173 m, đứng trấn giữ phía nam vịnh Avacha, cách khu nghỉ suối nóng Paratunka không xa. Đây là một trong những núi lửa 'nhiếp ảnh' đẹp nhất Kamchatka: hình nón phủ tuyết soi bóng, thường xuất hiện trên đường tới các điểm nổi tiếng như Mutnovsky và Gorely. Ngọn núi hiện đã ngủ yên (lần phun trào cuối cách nay hàng nghìn năm), nên sườn núi an toàn cho du khách. Con đèo Vilyuchinsky ở chân núi là điểm dừng kinh điển với đài ngắm cảnh nhìn thẳng lên đỉnh núi và xuống thung lũng; gần đó có thác Vilyuchinsky cao khoảng 40 m đổ từ vách băng, và những triền hoa vùng cao rực rỡ vào mùa hè. Về mùa đông, khu vực quanh chân núi là thiên đường cho trượt tuyết ngoài đường ray (ski-touring) và xe trượt tuyết. Vilyuchinsky nằm trong Công viên tự nhiên Yuzhno-Kamchatsky và là chặng dừng gần như bắt buộc trong hầu hết các tour trong ngày về phía nam bán đảo.",
+    "highlights_vi": [
+      "Núi lửa hình nón cân đối 2.173 m - một trong những núi lửa được chụp nhiều nhất Kamchatka",
+      "Đèo Vilyuchinsky với đài ngắm cảnh và thác nước cao ~40 m gần đường",
+      "Điểm dừng kinh điển trên tuyến tour Mutnovsky - Gorely; mùa đông trượt tuyết đẹp"
+    ],
+    "practical": {
+      "hours_vi": "Đèo và đài ngắm cảnh mở tự do quanh năm; đường lên chân núi thuận tiện mùa hè.",
+      "ticket_vi": "Miễn phí; thường nằm trong lịch trình tour trong ngày.",
+      "duration_vi": "1-2 giờ dừng ngắm cảnh; nửa ngày nếu đi bộ tới thác.",
+      "best_time_vi": "Tháng 6 đến tháng 9 cho hoa và thác; mùa đông cho trượt tuyết.",
+      "tips_vi": "Kết hợp trong tour Mutnovsky/Gorely; đường tới đèo cần xe địa hình; mang máy ảnh vì đây là điểm 'sống ảo' đẹp nhất tuyến nam."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D0%B8%D0%BB%D1%8E%D1%87%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B2%D1%83%D0%BB%D0%BA%D0%B0%D0%BD%20%28%D0%92%D0%B8%D0%BB%D1%8E%D1%87%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D1%81%D0%BE%D0%BF%D0%BA%D0%B0%29&ll=158.28167,52.705&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Vilyuchinsky%20%28Vilyuchik%29%20Volcano%2C%20Kamchatka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia — Vilyuchik",
+        "url": "https://en.wikipedia.org/wiki/Vilyuchik"
+      },
+      {
+        "title": "Wikidata — Vilyuchik (Q644064)",
+        "url": "https://www.wikidata.org/wiki/Q644064"
+      }
+    ],
+    "tags": [
+      "volcano",
+      "nature",
+      "viewpoint",
+      "waterfall",
+      "paratunka",
+      "kamchatka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "kamchatka-gorely-volcano",
+    "slug": "gorely-volcano",
+    "region": "kamchatka",
+    "region_name_vi": "Vùng Kamchatka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Núi lửa Gorely (đọc: Gô-rê-lưi)",
+    "name_ru": "Вулкан Горелый",
+    "name_en": "Gorely Volcano",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 52.55806,
+      "lon": 158.03
+    },
+    "address_vi": "Khoảng 75 km về phía nam Petropavlovsk-Kamchatsky, gần núi lửa Mutnovsky, huyện Yelizovsky, Vùng Kamchatka",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Núi lửa hợp phần gồm năm nón chồng lên nhau, cao 1.829 m, nổi tiếng với chuỗi miệng phun và những hồ axit - hồ băng đầy màu sắc trên đỉnh; là một trong những đỉnh dễ leo và ngoạn mục nhất Kamchatka.",
+    "presentation_long_vi": "Gorely (nghĩa là 'Bị cháy') là một phức hệ núi lửa độc đáo gồm năm nón chồng lấn nằm trong một caldera cổ, cao 1.829 m, thuộc hàng hoạt động mạnh nhất nam Kamchatka. Điều khiến Gorely được yêu thích là chuỗi hơn chục miệng phun (crater) xếp dọc đỉnh núi, trong đó có những miệng chứa hồ nước màu ngọc lam xanh, hồ axit vàng lưu huỳnh và miệng phun khói nghi ngút - một bảo tàng địa chất sống động ngay dưới chân. Đường lên đỉnh Gorely tương đối thoải và không cần kỹ thuật leo băng, chỉ mất khoảng 3-4 giờ đi bộ từ bãi cắm trại, nên đây là một trong những đỉnh núi lửa 'dễ tính' mà phần thưởng lại cực lớn: từ vành miệng có thể phóng tầm mắt sang núi lửa Mutnovsky, Vilyuchinsky và cả một biển dung nham cổ. Cảnh quan quanh Gorely là những cánh đồng dung nham đen, tro núi lửa và rêu địa y trải dài như bề mặt hành tinh khác. Ngọn núi thường được ghép chung tour với Mutnovsky trong hành trình 2-3 ngày khám phá vùng núi lửa phía nam bán đảo.",
+    "highlights_vi": [
+      "Chuỗi hơn chục miệng phun với hồ ngọc lam, hồ axit và miệng phun khói",
+      "Một trong những đỉnh núi lửa dễ leo nhất (3-4 giờ, không cần kỹ thuật băng)",
+      "Toàn cảnh Mutnovsky, Vilyuchinsky và cánh đồng dung nham đen từ vành miệng"
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tự do; leo trong ngày từ bãi cắm trại dưới chân.",
+      "ticket_vi": "Miễn phí; tour leo có hướng dẫn thường ghép cùng Mutnovsky.",
+      "duration_vi": "Leo lên đỉnh và quay về khoảng 6-7 giờ.",
+      "best_time_vi": "Tháng 7 đến giữa tháng 9 khi đường mòn hết tuyết.",
+      "tips_vi": "Đi cùng hướng dẫn viên; mang mặt nạ/khăn che vì khí lưu huỳnh; đường tới chân núi cần xe địa hình chuyên dụng."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D1%83%D0%BB%D0%BA%D0%B0%D0%BD%20%D0%93%D0%BE%D1%80%D0%B5%D0%BB%D1%8B%D0%B9&ll=158.03,52.55806&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Gorely%20Volcano%2C%20Kamchatka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia — Gorely",
+        "url": "https://en.wikipedia.org/wiki/Gorely"
+      },
+      {
+        "title": "Wikidata — Gorely (Q1322653)",
+        "url": "https://www.wikidata.org/wiki/Q1322653"
+      }
+    ],
+    "tags": [
+      "volcano",
+      "nature",
+      "crater-lake",
+      "hiking",
+      "mutnovsky-area",
+      "kamchatka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "kamchatka-karymsky-volcano",
+    "slug": "karymsky-volcano",
+    "region": "kamchatka",
+    "region_name_vi": "Vùng Kamchatka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Núi lửa Karymsky (đọc: Ca-rưm-xki)",
+    "name_ru": "Вулкан Карымский (Карымская сопка)",
+    "name_en": "Karymsky Volcano",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 54.04778,
+      "lon": 159.44222
+    },
+    "address_vi": "Đông Kamchatka, khoảng 125 km bắc - đông bắc Petropavlovsk-Kamchatsky, huyện Yelizovsky, Vùng Kamchatka",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Ngọn núi lửa hình nón cao 1.536 m, hoạt động liên tục và dữ dội nhất Kamchatka kể từ năm 1996, thường xuyên phun tro và dung nham; điểm ngắm từ trực thăng ngoạn mục cạnh hồ Karymsky.",
+    "presentation_long_vi": "Karymsky (Karymskaya Sopka) là ngọn stratovolcano cao 1.536 m ở đông Kamchatka, cùng với Shiveluch được xem là hai núi lửa hoạt động liên tục và mạnh mẽ nhất bán đảo - và thuộc hàng năng động nhất hành tinh. Kể từ năm 1996, Karymsky gần như phun trào không ngừng: những vụ nổ nhỏ tống tro, đá và khói lên trời vài lần mỗi giờ, tạo nên khung cảnh ngoạn mục cho những ai may mắn chứng kiến. Ngay dưới chân núi về phía nam là hồ Karymsky - một hồ nằm trong caldera, nơi năm 1996 đã diễn ra đợt phun trào ngầm dưới nước hiếm có khiến toàn bộ hồ 'sôi' lên và cá chết hàng loạt. Vì hoạt động mạnh và nằm sâu trong vùng hoang vu không đường bộ, Karymsky hầu như chỉ có thể tiếp cận bằng trực thăng: các tour bay thường kết hợp Karymsky với Thung lũng Geyser và caldera Uzon trong cùng một hành trình. Từ trên cao, cảnh núi lửa hình nón đen sạm nhả khói bên hồ nước xanh biếc và caldera cổ là một trong những hình ảnh khó quên nhất của Kamchatka.",
+    "highlights_vi": [
+      "Núi lửa hoạt động liên tục và dữ dội nhất Kamchatka từ năm 1996",
+      "Thường xuyên phun tro và đá vài lần mỗi giờ - cảnh tượng hiếm có",
+      "Hồ Karymsky trong caldera cạnh chân núi; ngắm đẹp nhất từ trực thăng"
+    ],
+    "practical": {
+      "hours_vi": "Vùng hoang vu, tiếp cận bằng trực thăng theo tour; không có đường bộ.",
+      "ticket_vi": "Tour trực thăng trọn gói (thường ghép Thung lũng Geyser + Uzon) giá cao.",
+      "duration_vi": "Vài chục phút dừng ngắm trong tour bay nửa ngày đến trọn ngày.",
+      "best_time_vi": "Tháng 6 đến tháng 9, khi thời tiết cho phép trực thăng cất cánh.",
+      "tips_vi": "Chỉ đi theo tour bay có phép; giữ khoảng cách an toàn; theo dõi cảnh báo KVERT vì mức độ phun trào thay đổi."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D1%83%D0%BB%D0%BA%D0%B0%D0%BD%20%D0%9A%D0%B0%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D0%B9%20%28%D0%9A%D0%B0%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B0%D1%8F%20%D1%81%D0%BE%D0%BF%D0%BA%D0%B0%29&ll=159.44222,54.04778&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Karymsky%20Volcano%2C%20Kamchatka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia — Karymsky (volcano)",
+        "url": "https://en.wikipedia.org/wiki/Karymsky_%28volcano%29"
+      },
+      {
+        "title": "Wikipedia — Карымская сопка",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%BE%D0%BF%D0%BA%D0%B0"
+      }
+    ],
+    "tags": [
+      "volcano",
+      "nature",
+      "active-volcano",
+      "helicopter-tour",
+      "caldera",
+      "kamchatka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "kamchatka-uzon-caldera",
+    "slug": "uzon-caldera",
+    "region": "kamchatka",
+    "region_name_vi": "Vùng Kamchatka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Caldera Uzon (đọc: U-dôn)",
+    "name_ru": "Кальдера Узон",
+    "name_en": "Uzon Caldera",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 54.5,
+      "lon": 159.97
+    },
+    "address_vi": "Trong Khu bảo tồn thiên nhiên Kronotsky, đông Kamchatka, huyện Yelizovsky, Vùng Kamchatka",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Miệng núi lửa sụp khổng lồ rộng 9x12 km, một 'phòng thí nghiệm địa nhiệt' ngoài trời với hồ nước nóng, hố bùn sôi, đồng khoáng nhiều màu và suối phun lưu huỳnh; nằm cạnh Thung lũng Geyser.",
+    "presentation_long_vi": "Caldera Uzon là một miệng núi lửa sụp (caldera) khổng lồ rộng khoảng 9x12 km, hình thành sau những vụ phun trào và sụp đổ cách nay khoảng 40 nghìn năm, nằm trong lòng Khu bảo tồn thiên nhiên Kronotsky ở đông Kamchatka. Cùng với thung lũng Geyzernaya kề bên, Uzon tạo nên cánh đồng địa nhiệt lớn nhất bán đảo - một thế giới siêu thực của hồ nước nóng bốc hơi, hố bùn sôi ục ục, suối phun lưu huỳnh vàng óng, những vũng khoáng đủ sắc màu và cả những 'ao dầu' tự nhiên hiếm thấy. Các nhà khoa học coi Uzon như một 'phòng thí nghiệm sự sống' vì nơi đây tồn tại những vi khuẩn ưa nhiệt độc đáo, giúp nghiên cứu về nguồn gốc sự sống trên Trái Đất. Lòng caldera còn là nơi trú ngụ của gấu nâu, tuần lộc và nhiều loài chim; du khách thường bắt gặp gấu đi lại ngay cạnh lối đi lát ván gỗ. Vì nằm trong khu bảo tồn nghiêm ngặt và không có đường bộ, Uzon chỉ có thể tới bằng trực thăng, thường trong cùng tour với Thung lũng Geyser - một trải nghiệm đắt đỏ nhưng vô song.",
+    "highlights_vi": [
+      "Caldera khổng lồ 9x12 km - cánh đồng địa nhiệt lớn nhất Kamchatka",
+      "Hồ nước nóng, hố bùn sôi, đồng khoáng nhiều màu và suối lưu huỳnh",
+      "'Phòng thí nghiệm sự sống' với vi khuẩn ưa nhiệt; thường gặp gấu nâu"
+    ],
+    "practical": {
+      "hours_vi": "Nằm trong khu bảo tồn Kronotsky; chỉ vào theo tour trực thăng có giấy phép, đi trên đường ván gỗ.",
+      "ticket_vi": "Tour trực thăng trọn gói (kèm Thung lũng Geyser) giá cao; đã gồm phí khu bảo tồn.",
+      "duration_vi": "Khoảng 1-2 giờ tham quan trong tour bay trọn ngày.",
+      "best_time_vi": "Tháng 6 đến tháng 9, phụ thuộc thời tiết bay.",
+      "tips_vi": "Bắt buộc đi cùng kiểm lâm; tuyệt đối không rời đường ván (đất mỏng, nước sôi); giữ khoảng cách với gấu."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D0%B0%D0%BB%D1%8C%D0%B4%D0%B5%D1%80%D0%B0%20%D0%A3%D0%B7%D0%BE%D0%BD&ll=159.97,54.5&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Uzon%20Caldera%2C%20Kamchatka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia — Uzon",
+        "url": "https://en.wikipedia.org/wiki/Uzon"
+      },
+      {
+        "title": "Wikidata — Uzon (Q1374401)",
+        "url": "https://www.wikidata.org/wiki/Q1374401"
+      }
+    ],
+    "tags": [
+      "caldera",
+      "geothermal",
+      "nature",
+      "kronotsky-reserve",
+      "helicopter-tour",
+      "kamchatka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "kamchatka-tolbachik-volcano",
+    "slug": "tolbachik-volcano",
+    "region": "kamchatka",
+    "region_name_vi": "Vùng Kamchatka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Núi lửa Tolbachik (đọc: Tôn-ba-chích)",
+    "name_ru": "Вулкан Толбачик (Плоский Толбачик)",
+    "name_en": "Tolbachik Volcano",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 55.8289,
+      "lon": 160.3261
+    },
+    "address_vi": "Nhóm núi lửa Klyuchevskaya, trung tâm Kamchatka, huyện Milkovsky/Ust-Kamchatsky, Vùng Kamchatka",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Phức hệ núi lửa khiên - tầng gồm Plosky (Bằng phẳng) và Ostry (Nhọn) Tolbachik, nổi tiếng với những cánh đồng dung nham đen mênh mông và 'sa mạc chết' giống bề mặt Mặt Trăng, nơi từng thử nghiệm xe tự hành Lunokhod.",
+    "presentation_long_vi": "Tolbachik là một phức hệ núi lửa bazan hùng vĩ ở rìa nam nhóm núi lửa Klyuchevskaya, gồm hai đỉnh gối lên nhau: Ostry Tolbachik ('Nhọn') sắc cạnh cao 3.682 m và Plosky Tolbachik ('Bằng phẳng') dạng khiên cao 3.085 m với một caldera rộng trên đỉnh. Tolbachik lừng danh vì hai đợt phun trào lớn: 'Đợt phun trào lịch sử Tolbachik 1975-1976' và đợt phun trào 2012-2013 đã tạo nên những dòng dung nham dài hàng chục km và những nón xỉ mới toanh. Cảnh quan quanh núi là một 'sa mạc chết' (Myortvy Les) trải rộng - cánh đồng tro đen, dung nham đông cứng và cây cối cháy trụi, siêu thực đến mức Liên Xô từng đưa xe tự hành Mặt Trăng Lunokhod tới đây chạy thử nghiệm trước khi phóng lên vũ trụ. Ngày nay du khách đến Tolbachik để đi bộ giữa biển dung nham, chui vào các hang dung nham (lava tube) lấp lánh khoáng chất, leo lên những nón xỉ đỏ au và ngắm toàn cảnh nhóm núi lửa Klyuchevskaya. Đây là một trong những hành trình 'ngoài hành tinh' đáng nhớ nhất Kamchatka, thường kéo dài nhiều ngày bằng xe địa hình.",
+    "highlights_vi": [
+      "Cánh đồng dung nham đen và 'sa mạc chết' siêu thực như bề mặt Mặt Trăng",
+      "Nơi Liên Xô thử nghiệm xe tự hành Mặt Trăng Lunokhod",
+      "Hang dung nham lấp lánh khoáng và các nón xỉ mới từ đợt phun 2012-2013"
+    ],
+    "practical": {
+      "hours_vi": "Vùng hoang vu; đi theo tour xe địa hình nhiều ngày, cắm trại tại chỗ.",
+      "ticket_vi": "Tour trọn gói nhiều ngày giá cao (gồm xe, lều, hướng dẫn).",
+      "duration_vi": "Thường 2-4 ngày để tới nơi và khám phá các cánh đồng dung nham.",
+      "best_time_vi": "Tháng 7 đến đầu tháng 9 khi đường mòn khô ráo.",
+      "tips_vi": "Chỉ đi với hướng dẫn viên và xe chuyên dụng; mang đèn pin cho hang dung nham; đề phòng gió tro và thời tiết đổi nhanh."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D1%83%D0%BB%D0%BA%D0%B0%D0%BD%20%D0%A2%D0%BE%D0%BB%D0%B1%D0%B0%D1%87%D0%B8%D0%BA%20%28%D0%9F%D0%BB%D0%BE%D1%81%D0%BA%D0%B8%D0%B9%20%D0%A2%D0%BE%D0%BB%D0%B1%D0%B0%D1%87%D0%B8%D0%BA%29&ll=160.3261,55.8289&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Tolbachik%20Volcano%2C%20Kamchatka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia — Tolbachik",
+        "url": "https://en.wikipedia.org/wiki/Tolbachik"
+      },
+      {
+        "title": "Global Volcanism Program — Tolbachik",
+        "url": "https://volcano.si.edu/volcano.cfm?vn=300240"
+      }
+    ],
+    "tags": [
+      "volcano",
+      "lava-field",
+      "nature",
+      "klyuchevskaya-group",
+      "lava-tube",
+      "kamchatka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "kamchatka-ksudach-volcano",
+    "slug": "ksudach-volcano",
+    "region": "kamchatka",
+    "region_name_vi": "Vùng Kamchatka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Núi lửa Ksudach (đọc: Cxu-đách)",
+    "name_ru": "Вулкан Ксудач",
+    "name_en": "Ksudach Volcano",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 51.8,
+      "lon": 157.53
+    },
+    "address_vi": "Nam Kamchatka, giữa Petropavlovsk và hồ Kuril, huyện Yelizovsky, Vùng Kamchatka",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Núi lửa caldera cổ ở nam Kamchatka với hệ thống năm miệng lồng nhau, ôm trong lòng những hồ nước ngọt xanh biếc, bãi cát nóng và suối nước nóng ven hồ; phong cảnh 'thiên đường ẩn' hiếm người tới.",
+    "presentation_long_vi": "Ksudach là một núi lửa - caldera cổ ở nam bán đảo Kamchatka, chỉ cao 1.079 m nhưng ẩn chứa một trong những cảnh quan tuyệt đẹp và bí ẩn nhất vùng. Qua hàng nghìn năm phun trào và sụp đổ, Ksudach hình thành một hệ thống năm miệng caldera lồng vào nhau; trong lòng những miệng trẻ nhất là các hồ nước ngọt lớn màu xanh ngọc - nổi bật là hồ Key (Klyuchevoye) và hồ Nizhnee - được bao quanh bởi vách caldera dựng đứng nhiều tầng màu. Ven hồ có bãi cát đen ấm, những suối nước nóng tự nhiên chảy ra sát mép nước, cho phép du khách tắm khoáng giữa khung cảnh hoang sơ. Vụ phun trào năm 1907 của Ksudach thuộc hàng mạnh nhất từng ghi nhận ở Kamchatka (chỉ số VEI 5), phủ tro cả một vùng rộng lớn. Vì nằm biệt lập, không đường bộ, Ksudach chủ yếu được ghé thăm bằng trực thăng trong các tour dài ngày về phía nam, thường kết hợp với hồ Kuril. Ai đặt chân tới đây đều gọi Ksudach là 'thiên đường ẩn' - nơi hội tụ hồ, núi lửa, bãi tắm và suối nóng trong cùng một khung hình.",
+    "highlights_vi": [
+      "Hệ thống năm miệng caldera lồng nhau ôm những hồ nước ngọt xanh biếc",
+      "Bãi cát ấm và suối nước nóng tự nhiên chảy sát mép hồ để tắm khoáng",
+      "Dấu tích vụ phun trào cực mạnh năm 1907 (VEI 5) - cảnh quan hoang sơ, ít người tới"
+    ],
+    "practical": {
+      "hours_vi": "Vùng biệt lập; tới bằng trực thăng theo tour dài ngày, thường ghép hồ Kuril.",
+      "ticket_vi": "Tour trực thăng trọn gói giá cao.",
+      "duration_vi": "Nửa ngày đến trọn ngày ghé thăm trong tour bay.",
+      "best_time_vi": "Tháng 7 đến tháng 9, phụ thuộc thời tiết bay.",
+      "tips_vi": "Đi theo tour có phép; mang đồ bơi để tắm suối nóng ven hồ; tôn trọng cảnh quan nguyên sơ, không xả rác."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D1%83%D0%BB%D0%BA%D0%B0%D0%BD%20%D0%9A%D1%81%D1%83%D0%B4%D0%B0%D1%87&ll=157.53,51.8&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Ksudach%20Volcano%2C%20Kamchatka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia — Ksudach",
+        "url": "https://en.wikipedia.org/wiki/Ksudach"
+      },
+      {
+        "title": "Global Volcanism Program — Ksudach",
+        "url": "https://volcano.si.edu/volcano.cfm?vn=300100"
+      }
+    ],
+    "tags": [
+      "volcano",
+      "caldera",
+      "crater-lake",
+      "hot-spring",
+      "nature",
+      "kamchatka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "kamchatka-shiveluch-volcano",
+    "slug": "shiveluch-volcano",
+    "region": "kamchatka",
+    "region_name_vi": "Vùng Kamchatka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Núi lửa Shiveluch (đọc: Si-vê-lúch)",
+    "name_ru": "Вулкан Шивелуч",
+    "name_en": "Shiveluch Volcano",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 56.65333,
+      "lon": 161.36167
+    },
+    "address_vi": "Bắc Kamchatka, gần thị trấn Klyuchi, huyện Ust-Kamchatsky, Vùng Kamchatka",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Núi lửa đang hoạt động ở cực bắc bán đảo, cao khoảng 3.283 m, một trong những núi lửa lớn và bùng nổ dữ dội nhất Kamchatka với vòm dung nham lớn dần và những đợt phun tro cao hàng km.",
+    "presentation_long_vi": "Shiveluch là núi lửa đang hoạt động nằm ở cực bắc chuỗi núi lửa Kamchatka, gần thị trấn Klyuchi bên sông Kamchatka, cao khoảng 3.283 m. Cùng với Karymsky, đây là một trong những núi lửa phun trào liên tục và bùng nổ mạnh nhất bán đảo, đồng thời thuộc hàng nguy hiểm nhất do các đợt nổ lớn tống cột tro cao tới 10-15 km. Trong lòng miệng núi khổng lồ có một vòm dung nham (lava dome) không ngừng lớn lên rồi sụp đổ, tạo ra những dòng đá nóng (pyroclastic flow) chảy xuống sườn. Shiveluch đã ghi nhận nhiều đợt phun trào mạnh những năm gần đây, trong đó đợt tháng 4 năm 2023 phủ tro dày lên các làng lân cận. Vì mức độ hoạt động cao và nằm ở vùng hẻo lánh phía bắc, Shiveluch không phải điểm leo núi mà chủ yếu được các nhà núi lửa học theo dõi và du khách ngắm từ xa - từ Klyuchi, từ trạm nghiên cứu, hay qua tour bay. Ngọn núi là biểu tượng cho sức mạnh nguyên thủy và bất trị của 'vành đai lửa' Thái Bình Dương ngay trên đất Kamchatka.",
+    "highlights_vi": [
+      "Núi lửa hoạt động ở cực bắc bán đảo - một trong những núi lửa bùng nổ mạnh nhất Kamchatka",
+      "Vòm dung nham lớn dần rồi sụp đổ, sinh ra các dòng đá nóng pyroclastic",
+      "Nhiều đợt phun tro cao 10-15 km; đợt lớn tháng 4/2023 phủ tro các làng quanh vùng"
+    ],
+    "practical": {
+      "hours_vi": "Ngắm từ xa (Klyuchi/trạm nghiên cứu) hoặc qua tour trực thăng; không leo đỉnh.",
+      "ticket_vi": "Ngắm từ xa miễn phí; tour bay ngắm giá cao.",
+      "duration_vi": "Vài chục phút ngắm và chụp ảnh tùy điểm quan sát.",
+      "best_time_vi": "Quanh năm để ngắm từ xa; tháng 6-9 thuận lợi di chuyển.",
+      "tips_vi": "Không lại gần vì nguy cơ dòng đá nóng và tro; theo dõi cảnh báo hàng không và KVERT."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D1%83%D0%BB%D0%BA%D0%B0%D0%BD%20%D0%A8%D0%B8%D0%B2%D0%B5%D0%BB%D1%83%D1%87&ll=161.36167,56.65333&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Shiveluch%20Volcano%2C%20Kamchatka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia — Shiveluch",
+        "url": "https://en.wikipedia.org/wiki/Shiveluch"
+      },
+      {
+        "title": "Wikidata — Shiveluch (Q48877)",
+        "url": "https://www.wikidata.org/wiki/Q48877"
+      }
+    ],
+    "tags": [
+      "volcano",
+      "active-volcano",
+      "nature",
+      "klyuchi",
+      "northern-kamchatka",
+      "kamchatka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "kamchatka-paratunka-hot-springs",
+    "slug": "paratunka-hot-springs",
+    "region": "kamchatka",
+    "region_name_vi": "Vùng Kamchatka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Khu nghỉ suối nước nóng Paratunka (đọc: Pa-ra-tun-ca)",
+    "name_ru": "Курорт Паратунка (термальные источники)",
+    "name_en": "Paratunka Hot Springs Resort",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 52.9605,
+      "lon": 158.2485
+    },
+    "address_vi": "Làng Paratunka, huyện Yelizovsky, cách Petropavlovsk-Kamchatsky khoảng 70 km, Vùng Kamchatka",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Khu nghỉ dưỡng suối khoáng nóng nổi tiếng nhất Kamchatka bên sông Paratunka, với nhiều bể tắm nước nóng ngoài trời, bùn khoáng chữa bệnh và hàng loạt nhà nghỉ - resort, mở cửa quanh năm.",
+    "presentation_long_vi": "Paratunka là ngôi làng nhỏ trong thung lũng sông cùng tên ở huyện Yelizovsky, được xem là 'thủ phủ nghỉ dưỡng' của Kamchatka nhờ nguồn suối khoáng nóng dồi dào. Cách Petropavlovsk-Kamchatsky khoảng 70 km và nằm ngay dưới chân núi lửa Vilyuchinsky, khu vực này tập trung nhiều nhà nghỉ, khu điều dưỡng và bể bơi nước nóng ngoài trời quanh năm nghi ngút hơi - trải nghiệm ngâm mình trong làn nước ấm áp giữa tiết trời mát lạnh (mùa hè hiếm khi quá 15 độ C) hay giữa mùa đông tuyết trắng là điều du khách nào cũng muốn thử. Nước khoáng ở đây giàu silic và khoáng chất, kèm theo hồ bùn chữa bệnh, được cho là tốt cho da, xương khớp và thư giãn. Paratunka thường là điểm bắt đầu và kết thúc lý tưởng cho các hành trình Kamchatka: du khách ngâm suối nóng để phục hồi sau những chuyến leo núi lửa vất vả. Từ đây cũng dễ dàng khởi hành đi Vilyuchinsky, Mutnovsky, Gorely hay ra bờ biển. Không cầu kỳ sang trọng, nhưng Paratunka mang lại sự thư thái đặc trưng của 'vùng đất lửa và băng'.",
+    "highlights_vi": [
+      "Suối khoáng nóng nổi tiếng nhất Kamchatka, bể tắm ngoài trời mở quanh năm",
+      "Bùn khoáng chữa bệnh, nước giàu silic tốt cho da và xương khớp",
+      "Nằm dưới chân núi lửa Vilyuchinsky, điểm nghỉ phục hồi lý tưởng giữa các tour"
+    ],
+    "practical": {
+      "hours_vi": "Các bể tắm và khu nghỉ mở cửa quanh năm, phần lớn từ sáng đến tối muộn.",
+      "ticket_vi": "Vé vào bể nước nóng công cộng vài trăm rúp; resort/điều dưỡng tính theo dịch vụ.",
+      "duration_vi": "Từ vài giờ ngâm tắm đến lưu trú vài ngày dưỡng sức.",
+      "best_time_vi": "Quanh năm; đặc biệt thú vị vào mùa đông khi ngâm nước nóng giữa tuyết.",
+      "tips_vi": "Đặt phòng resort có bể riêng nếu muốn yên tĩnh; mang đồ bơi, dép; kết hợp làm căn cứ đi tour phía nam bán đảo."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D1%83%D1%80%D0%BE%D1%80%D1%82%20%D0%9F%D0%B0%D1%80%D0%B0%D1%82%D1%83%D0%BD%D0%BA%D0%B0%20%28%D1%82%D0%B5%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8%29&ll=158.2485,52.9605&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Paratunka%20Hot%20Springs%20Resort%2C%20Kamchatka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia — Paratunka",
+        "url": "https://en.wikipedia.org/wiki/Paratunka"
+      },
+      {
+        "title": "KamchatkaLand — Paratunka",
+        "url": "https://kamchatkaland.com/note/paratunka"
+      }
+    ],
+    "tags": [
+      "hot-spring",
+      "resort",
+      "spa",
+      "balneology",
+      "yelizovsky",
+      "kamchatka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "kamchatka-malki-hot-springs",
+    "slug": "malki-hot-springs",
+    "region": "kamchatka",
+    "region_name_vi": "Vùng Kamchatka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Suối nước nóng Malki (Malkinskiye, đọc: Man-ki)",
+    "name_ru": "Малкинские горячие источники",
+    "name_en": "Malki (Malkinskiye) Hot Springs",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 53.33286,
+      "lon": 157.4734
+    },
+    "address_vi": "Gần làng Malka, huyện Yelizovsky, cách Petropavlovsk-Kamchatsky khoảng 130 km, Vùng Kamchatka",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Cụm suối nước nóng tự nhiên bên sông Klyuchevka gần làng Malka, với những hồ khoáng nóng lộ thiên miễn phí giữa thiên nhiên; cũng là nơi nổi tiếng với nguồn nước khoáng đóng chai 'Malkinskaya'.",
+    "presentation_long_vi": "Suối nước nóng Malki (Malkinskiye) nằm gần làng Malka ở phía nam Kamchatka, cách thủ phủ khoảng 130 km theo tuyến đường về Esso. Trên một bãi bồi ven sông Klyuchevka, hàng loạt mạch nước nóng tự nhiên trào lên tạo thành những vũng và hồ khoáng nhỏ nhiệt độ khác nhau, để du khách tự chọn chỗ ngâm ưng ý - nơi ấm nóng, nơi mát dịu khi hòa với nước sông. Đây là điểm dừng chân dân dã và được yêu thích trên hành trình bắc bán đảo: người dân địa phương và du khách thường ghé Malki để ngâm mình thư giãn giữa khung cảnh rừng cây, hoàn toàn miễn phí và mở tự do. Vùng Malka còn nổi tiếng cả nước Nga nhờ nguồn nước khoáng thiên nhiên được khai thác đóng chai với thương hiệu 'Malkinskaya'. Vào mùa đông, khu suối nóng càng hấp dẫn khi hơi nước bốc lên nghi ngút giữa tuyết trắng. Malki là ví dụ điển hình cho vô số suối khoáng nóng rải khắp Kamchatka - món quà của hoạt động địa nhiệt dưới lòng bán đảo núi lửa.",
+    "highlights_vi": [
+      "Suối nước nóng tự nhiên lộ thiên bên sông Klyuchevka, ngâm tắm miễn phí",
+      "Nhiều vũng nhiệt độ khác nhau, tự chọn chỗ ngâm ưng ý giữa thiên nhiên",
+      "Vùng Malka nổi tiếng với nước khoáng đóng chai 'Malkinskaya'"
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, mở tự do quanh năm cả ngày.",
+      "ticket_vi": "Miễn phí; là điểm dừng chân trên đường đi Esso/bắc bán đảo.",
+      "duration_vi": "1-2 giờ ngâm tắm thư giãn.",
+      "best_time_vi": "Quanh năm; mùa đông đặc biệt thú vị khi ngâm nước nóng giữa tuyết.",
+      "tips_vi": "Mang đồ bơi, khăn và dép; thử nhiều vũng để tìm nhiệt độ hợp; giữ vệ sinh chung, không xả rác."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D0%B0%D0%BB%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B3%D0%BE%D1%80%D1%8F%D1%87%D0%B8%D0%B5%20%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8&ll=157.4734,53.33286&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Malki%20%28Malkinskiye%29%20Hot%20Springs%2C%20Kamchatka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia — Malka, Kamchatka Krai",
+        "url": "https://en.wikipedia.org/wiki/Malka%2C_Kamchatka_Krai"
+      },
+      {
+        "title": "RealKamchatka — Malkinskiye Hot Springs",
+        "url": "https://realkamchatka.com/en/tours/oneday/malki/"
+      }
+    ],
+    "tags": [
+      "hot-spring",
+      "nature",
+      "free",
+      "mineral-water",
+      "yelizovsky",
+      "kamchatka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "kamchatka-starichkov-island",
+    "slug": "starichkov-island",
+    "region": "kamchatka",
+    "region_name_vi": "Vùng Kamchatka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Đảo Starichkov (đọc: Xta-rích-cốp)",
+    "name_ru": "Остров Старичков",
+    "name_en": "Starichkov Island",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 52.77722,
+      "lon": 158.61611
+    },
+    "address_vi": "Ngoài khơi cửa vịnh Avacha, khoảng 10 km, phía nam Petropavlovsk-Kamchatsky, Vùng Kamchatka",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Hòn đảo nhỏ - di tích thiên nhiên gần cửa vịnh Avacha, 'vương quốc của chim biển' với hàng chục nghìn cá thể thuộc 11 loài làm tổ; điểm ngắm chim, hải cẩu và tour thuyền phổ biến nhất Kamchatka.",
+    "presentation_long_vi": "Đảo Starichkov là một hòn đảo đá nhỏ (diện tích chỉ khoảng nửa cây số vuông) nằm ngoài khơi cửa vịnh Avacha, cách Petropavlovsk-Kamchatsky chừng 30 km và cách lối vào vịnh khoảng 10 km. Được công nhận là di tích thiên nhiên cấp vùng từ năm 1981, hòn đảo là một trong những sân chim biển quan trọng nhất Kamchatka: ghi nhận 44 quần thể làm tổ của 11 loài chim biển, với hàng chục nghìn cá thể ríu rít quanh vách đá. Tên đảo bắt nguồn từ loài chim 'starik' (chim anh vũ cổ rằn Aleut) làm tổ đông đảo ở đây; ngoài ra còn có hải âu cổ rụt (puffin) mỏ đủ màu, chim cormoran, mòng biển... Quanh đảo, du khách thường bắt gặp hải cẩu, sư tử biển phơi nắng trên các mỏm đá và đôi khi cả cá voi, cá heo. Chuyến du thuyền ra Starichkov - thường kết hợp ngắm 'Ba anh em' (Three Brothers) và câu cá, thử hải sản tươi ngay trên thuyền - là một trong những tour trong ngày được yêu thích nhất khi tới Kamchatka, phù hợp cả với người không muốn leo núi lửa.",
+    "highlights_vi": [
+      "Di tích thiên nhiên - 'vương quốc chim biển' với 11 loài, hàng chục nghìn cá thể",
+      "Hải âu cổ rụt mỏ nhiều màu, chim cormoran; hải cẩu và sư tử biển quanh đảo",
+      "Tour du thuyền ngắm chim, câu cá, thử hải sản tươi phổ biến nhất Kamchatka"
+    ],
+    "practical": {
+      "hours_vi": "Tham quan bằng du thuyền theo tour trong ngày từ cảng Petropavlovsk; không lên đảo.",
+      "ticket_vi": "Tour du thuyền trọn gói (thường 6-8 giờ) vài nghìn rúp, gồm ăn hải sản.",
+      "duration_vi": "Nửa ngày đến trọn ngày cho chuyến du thuyền vịnh Avacha - Starichkov.",
+      "best_time_vi": "Tháng 6 đến tháng 9, khi biển êm và chim làm tổ đông.",
+      "tips_vi": "Chọn ngày biển lặng để đỡ say sóng; mang áo ấm chống gió biển và ống nhòm ngắm chim."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%20%D0%A1%D1%82%D0%B0%D1%80%D0%B8%D1%87%D0%BA%D0%BE%D0%B2&ll=158.61611,52.77722&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Starichkov%20Island%2C%20Kamchatka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "KamchatkaLand — Starichkov Island",
+        "url": "https://kamchatkaland.com/note/starichkov-island"
+      },
+      {
+        "title": "Russia-InfoCentre — Starichkov Island",
+        "url": "http://russia-ic.com/travel/travelling/2295"
+      }
+    ],
+    "tags": [
+      "island",
+      "bird-colony",
+      "nature-monument",
+      "boat-trip",
+      "avacha-bay",
+      "kamchatka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "kamchatka-russkaya-bay",
+    "slug": "russkaya-bay",
+    "region": "kamchatka",
+    "region_name_vi": "Vùng Kamchatka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Vịnh Russkaya (đọc: Rút-xcai-a)",
+    "name_ru": "Бухта Русская",
+    "name_en": "Russkaya Bay",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 52.433,
+      "lon": 158.5
+    },
+    "address_vi": "Bờ đông nam bán đảo, khoảng 70 km về phía nam vịnh Avacha, huyện Yelizovsky, Vùng Kamchatka",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Vịnh hẹp dạng fjord sâu và tĩnh lặng ở bờ đông nam Kamchatka, được bao bọc bởi vách núi phủ cây bụi thấp; thiên đường của rái cá biển, sư tử biển, cá voi và những chuyến du thuyền ngắm biển.",
+    "presentation_long_vi": "Vịnh Russkaya (trước năm 1952 mang tên Itelmen cổ là Akhomten) là một trong những vịnh đẹp và tĩnh lặng nhất bờ đông nam Kamchatka, nằm cách cửa vịnh Avacha khoảng 70 km về phía nam. Đây là một vịnh dạng fjord điển hình - hẹp, dài và sâu, hai bên là những sườn núi dốc đứng phủ cây bụi thấp (elfin wood) và thác nước nhỏ đổ xuống từ trên cao. Nước vịnh trong lặng như gương, kín gió, nên từ xưa đã là nơi tàu thuyền trú ẩn và tiếp nước ngọt. Russkaya nổi tiếng về sự phong phú của đời sống biển: những đàn rái cá biển (sea otter) tinh nghịch, đàn sư tử biển gầm vang trên mỏm đá Cape Kekurny gần cửa vịnh, chim biển làm tổ dày đặc, và vào mùa hè thường xuất hiện cá voi, cá heo bơi vào tận trong vịnh kiếm ăn. Du khách đến Russkaya bằng du thuyền trong các tour biển dài ngày dọc bờ đông Kamchatka: trải nghiệm thả neo giữa vịnh vắng, câu cá tuyết, cua và ngắm động vật hoang dã trong khung cảnh nguyên sơ khiến nơi đây được ví như 'chốn ẩn mình' của bán đảo.",
+    "highlights_vi": [
+      "Vịnh fjord hẹp, sâu và tĩnh lặng, hai bên vách núi và thác nước nhỏ",
+      "Rái cá biển, sư tử biển ở Cape Kekurny, chim biển và cá voi vào mùa hè",
+      "Điểm neo đậu, câu cá và ngắm động vật hoang dã trên các tour du thuyền biển"
+    ],
+    "practical": {
+      "hours_vi": "Tiếp cận bằng du thuyền theo tour biển (thường nhiều ngày); không có đường bộ.",
+      "ticket_vi": "Tour du thuyền trọn gói giá cao tùy độ dài hành trình.",
+      "duration_vi": "Thường là một chặng trong tour biển 1-3 ngày dọc bờ đông.",
+      "best_time_vi": "Tháng 6 đến tháng 9, khi biển êm và động vật biển hoạt động mạnh.",
+      "tips_vi": "Đi tour biển có kinh nghiệm; mang thuốc chống say sóng, áo ấm; tuân thủ khoảng cách với động vật hoang dã."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%91%D1%83%D1%85%D1%82%D0%B0%20%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F&ll=158.5,52.433&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Russkaya%20Bay%2C%20Kamchatka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "KamchatkaLand — Russkaya Bay",
+        "url": "https://kamchatkaland.com/note/russkaya-bay"
+      },
+      {
+        "title": "Wikidata — Russkaya Bukhta (Q33553027)",
+        "url": "https://www.wikidata.org/wiki/Q33553027"
+      }
+    ],
+    "tags": [
+      "bay",
+      "fjord",
+      "wildlife",
+      "sea-otter",
+      "boat-trip",
+      "kamchatka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "kamchatka-commander-islands-nikolskoye",
+    "slug": "commander-islands-nikolskoye",
+    "region": "kamchatka",
+    "region_name_vi": "Vùng Kamchatka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Quần đảo Komandorsky và làng Nikolskoye (đọc: Cô-man-đo, Ni-côn-xcô-i-e)",
+    "name_ru": "Командорские острова (село Никольское)",
+    "name_en": "Commander Islands (Nikolskoye)",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 55.1975,
+      "lon": 165.9975
+    },
+    "address_vi": "Đảo Bering, quần đảo Komandorsky, huyện Aleutsky, cách Petropavlovsk-Kamchatsky khoảng 750 km về phía đông, Vùng Kamchatka",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Quần đảo hẻo lánh giữa biển Bering nơi nhà thám hiểm Vitus Bering qua đời năm 1741; nay là khu bảo tồn thiên nhiên rộng lớn với hải cẩu lông, sư tử biển, chim biển và ngôi làng Aleut duy nhất nước Nga - Nikolskoye.",
+    "presentation_long_vi": "Quần đảo Komandorsky (Komandorskie ostrova) gồm đảo Bering, đảo Medny và nhiều đảo nhỏ, nằm chơi vơi giữa biển Bering, cách bán đảo Kamchatka khoảng 750 km về phía đông - điểm cực đông có người ở của cả châu Á thuộc Nga. Quần đảo gắn liền với tên tuổi nhà thám hiểm Vitus Bering: chính tại đảo mang tên ông, đoàn thám hiểm bị đắm và Bering qua đời vì bệnh hoại huyết mùa đông 1741. Ngày nay toàn bộ vùng biển và đảo thuộc Khu bảo tồn thiên nhiên Komandorsky - khu bảo tồn biển lớn nhất nước Nga, nổi tiếng với những bãi hải cẩu lông (fur seal) và sư tử biển đông tới hàng chục nghìn con, quần thể rái cá biển, hàng triệu chim biển và là nơi thường gặp cá voi, cá heo. Trung tâm hành chính là làng Nikolskoye trên đảo Bering, nơi sinh sống của khoảng 700 người, trong đó cộng đồng người Aleut - tộc bản địa duy nhất còn lại ở Nga - gìn giữ ngôn ngữ và văn hóa riêng tại bảo tàng địa phương. Tới Komandorsky là một hành trình đặc biệt (bằng máy bay nhỏ hoặc tàu, phụ thuộc thời tiết), dành cho những ai mê thiên nhiên hoang dã tận cùng và lịch sử thám hiểm biển Bắc Thái Bình Dương.",
+    "highlights_vi": [
+      "Nơi nhà thám hiểm Vitus Bering qua đời năm 1741; khu bảo tồn biển lớn nhất Nga",
+      "Bãi hải cẩu lông và sư tử biển hàng chục nghìn con, rái cá biển, triệu chim biển",
+      "Làng Nikolskoye - cộng đồng người Aleut bản địa duy nhất ở Nga với bảo tàng riêng"
+    ],
+    "practical": {
+      "hours_vi": "Bảo tàng và làng mở giờ hành chính; khu bảo tồn tham quan có hướng dẫn/giấy phép.",
+      "ticket_vi": "Chi phí đi lại cao (máy bay nhỏ/tàu); một số khu bảo tồn thu phí.",
+      "duration_vi": "Thường 3-5 ngày do lịch bay thất thường vì thời tiết.",
+      "best_time_vi": "Tháng 7 đến tháng 9, mùa hải cẩu sinh sản và chim làm tổ đông.",
+      "tips_vi": "Đặt vé máy bay/tàu sớm và dự phòng ngày chờ thời tiết; xin phép khu bảo tồn trước; mang đồ ấm chống gió biển."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0%20%28%D1%81%D0%B5%D0%BB%D0%BE%20%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B5%29&ll=165.9975,55.1975&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Commander%20Islands%20%28Nikolskoye%29%2C%20Kamchatka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia — Commander Islands",
+        "url": "https://en.wikipedia.org/wiki/Commander_Islands"
+      },
+      {
+        "title": "Wikipedia — Komandorsky Nature Reserve",
+        "url": "https://en.wikipedia.org/wiki/Komandorsky_Nature_Reserve"
+      }
+    ],
+    "tags": [
+      "islands",
+      "nature-reserve",
+      "wildlife",
+      "aleut",
+      "vitus-bering",
+      "kamchatka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "kamchatka-trinity-cathedral-petropavlovsk",
+    "slug": "trinity-cathedral-petropavlovsk",
+    "region": "kamchatka",
+    "region_name_vi": "Vùng Kamchatka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Nhà thờ chính toà Ba Ngôi Chí Thánh, Petropavlovsk (đọc: Trô-i-txki)",
+    "name_ru": "Свято-Троицкий кафедральный собор",
+    "name_en": "Holy Trinity Cathedral, Petropavlovsk-Kamchatsky",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 53.0486,
+      "lon": 158.65017
+    },
+    "address_vi": "Đồi Nikolskaya / khu bắc thành phố Petropavlovsk-Kamchatsky, Vùng Kamchatka",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhà thờ chính toà Chính thống giáo lớn nhất Kamchatka, khánh thành năm 2010, với những mái vòm vàng rực nổi bật trên nền vịnh Avacha và các núi lửa - biểu tượng tôn giáo mới của thủ phủ.",
+    "presentation_long_vi": "Nhà thờ chính toà Ba Ngôi Chí Thánh (Svyato-Troitsky) là ngôi thánh đường Chính thống giáo lớn và quan trọng nhất Vùng Kamchatka, đồng thời là nhà thờ chính của Giáo phận Petropavlovsk và Kamchatka. Được khởi công đầu những năm 2000 và khánh thành trọng thể năm 2010, công trình ra đời nhằm khôi phục đời sống tôn giáo của bán đảo sau nhiều thập niên vắng bóng nhà thờ thời Xô Viết. Nhà thờ mang phong cách kiến trúc Nga truyền thống với thân màu trắng, những mái vòm 'củ hành' mạ vàng lấp lánh dưới nắng và tháp chuông cao vút; nội thất trang hoàng bằng tranh thánh (icon) và đèn chùm lộng lẫy. Nằm trên cao ở khu bắc thành phố gần đồi Nikolskaya, nhà thờ nổi bật trên đường chân trời và tạo nên khung hình đặc trưng: mái vòm vàng trên nền vịnh Avacha xanh biếc cùng những ngọn núi lửa phủ tuyết phía sau. Đây vừa là nơi hành lễ của cộng đồng tín hữu, vừa là điểm dừng quen thuộc để du khách chiêm ngưỡng kiến trúc và ngắm toàn cảnh thành phố - cảng biển từ khuôn viên.",
+    "highlights_vi": [
+      "Nhà thờ Chính thống giáo lớn nhất Kamchatka, khánh thành năm 2010",
+      "Mái vòm 'củ hành' mạ vàng nổi bật trên nền vịnh Avacha và núi lửa tuyết phủ",
+      "Nhà thờ chính của Giáo phận Petropavlovsk và Kamchatka, nội thất icon lộng lẫy"
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa hằng ngày, thường 8:00-19:00, có lễ sáng và chiều.",
+      "ticket_vi": "Vào cửa miễn phí (hoan nghênh quyên góp tùy tâm).",
+      "duration_vi": "Khoảng 30-45 phút tham quan.",
+      "best_time_vi": "Quanh năm; đẹp nhất khi trời quang thấy rõ núi lửa phía sau.",
+      "tips_vi": "Là nơi thờ phượng đang hoạt động: ăn mặc kín đáo, nữ nên trùm khăn; giữ yên lặng, xin phép trước khi chụp ảnh bên trong."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%81%D0%BE%D0%B1%D0%BE%D1%80&ll=158.65017,53.0486&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Holy%20Trinity%20Cathedral%2C%20Petropavlovsk-Kamchatsky%2C%20Kamchatka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikidata — Holy Trinity Cathedral (Q60852276)",
+        "url": "https://www.wikidata.org/wiki/Q60852276"
+      },
+      {
+        "title": "Wikimedia Commons — Holy Trinity Cathedral (Petropavlovsk-Kamchatsky)",
+        "url": "https://commons.wikimedia.org/wiki/Category:Holy_Trinity_Cathedral_(Petropavlovsk-Kamchatsky)"
+      }
+    ],
+    "tags": [
+      "cathedral",
+      "orthodox-church",
+      "landmark",
+      "petropavlovsk",
+      "religion",
+      "kamchatka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "kamchatka-kamchatka-regional-museum",
+    "slug": "kamchatka-regional-museum",
+    "region": "kamchatka",
+    "region_name_vi": "Vùng Kamchatka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Bảo tàng Liên hợp địa phương Kamchatka (đọc: Cra-e-vôi mu-dây)",
+    "name_ru": "Камчатский краевой объединённый музей",
+    "name_en": "Kamchatka Regional United Museum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 53.0111,
+      "lon": 158.65277
+    },
+    "address_vi": "Phố Leninskaya số 20, khu phố cổ ven vịnh, Petropavlovsk-Kamchatsky, Vùng Kamchatka",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng lâu đời nhất bán đảo (thành lập 1911) trong toà nhà lịch sử ven vịnh, lưu giữ hơn 120.000 hiện vật về thiên nhiên, khảo cổ, dân tộc bản địa và lịch sử khai phá - phòng thủ Kamchatka.",
+    "presentation_long_vi": "Bảo tàng Liên hợp địa phương Kamchatka (Kamchatsky kraevoy obyedinyonny muzey) là bảo tàng lớn và quan trọng bậc nhất của bán đảo, có lịch sử từ năm 1911 - một trong những cơ sở văn hóa lâu đời nhất Kamchatka. Bảo tàng đặt tại một toà nhà cổ kính bên phố Leninskaya trong khu phố lịch sử ven vịnh Avacha. Bộ sưu tập đồ sộ với hơn 120.000 hiện vật đưa khách đi suốt hành trình từ thời tiền sử đến đầu thế kỷ 20: các phát hiện khảo cổ, bộ sưu tập dân tộc học phong phú về các tộc bản địa Kamchatka (người Itelmen, Koryak, Even, Chukchi, Aleut) với trang phục, đồ dùng, tín ngưỡng shaman; những cuốn sách quý thế kỷ 17-21; tranh và ký họa của họa sĩ địa phương; cùng tư liệu về các đoàn thám hiểm Bering, về cuộc phòng thủ anh dũng năm 1854 và lịch sử vùng đất. Đây là điểm khởi đầu lý tưởng để hiểu bối cảnh tự nhiên và văn hóa trước khi tỏa đi khám phá núi lửa và thiên nhiên bán đảo, đồng thời là nơi tránh trú và tìm hiểu chiều sâu Kamchatka vào những ngày thời tiết xấu.",
+    "highlights_vi": [
+      "Bảo tàng lâu đời nhất Kamchatka (1911), hơn 120.000 hiện vật",
+      "Bộ sưu tập dân tộc học về người Itelmen, Koryak, Even, Chukchi, Aleut",
+      "Tư liệu về thám hiểm Bering và cuộc phòng thủ Petropavlovsk 1854"
+    ],
+    "practical": {
+      "hours_vi": "Mở thứ Tư đến Chủ nhật 10:30-18:00; nghỉ thứ Hai, thứ Ba và thứ Sáu cuối tháng.",
+      "ticket_vi": "Vé vào cửa vài trăm rúp; có giá riêng cho tour hướng dẫn.",
+      "duration_vi": "Khoảng 1-1,5 giờ tham quan.",
+      "best_time_vi": "Quanh năm; là lựa chọn tốt cho ngày mưa/thời tiết xấu.",
+      "tips_vi": "Ghé trước khi đi tour thiên nhiên để hiểu bối cảnh; đặt hướng dẫn viên nếu muốn tìm hiểu sâu về văn hóa bản địa."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D0%B0%D0%BC%D1%87%D0%B0%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D1%80%D0%B0%D0%B5%D0%B2%D0%BE%D0%B9%20%D0%BE%D0%B1%D1%8A%D0%B5%D0%B4%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9&ll=158.65277,53.0111&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kamchatka%20Regional%20United%20Museum%2C%20Russia"
+    },
+    "official_site": "http://kamchatka-museum.ru/",
+    "sources": [
+      {
+        "title": "Culture.ru — Камчатский краевой объединённый музей",
+        "url": "https://www.culture.ru/institutes/12173/kamchatskii-kraevoi-obedinennyi-muzei"
+      },
+      {
+        "title": "2GIS — Краевой объединённый музей, Ленинская 20",
+        "url": "https://2gis.ru/p_kamchatskiy/firm/13370589674735660"
+      }
+    ],
+    "tags": [
+      "museum",
+      "history",
+      "ethnography",
+      "indigenous",
+      "petropavlovsk",
+      "kamchatka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "kamchatka-nikolskaya-hill-1854-memorial",
+    "slug": "nikolskaya-hill-1854-memorial",
+    "region": "kamchatka",
+    "region_name_vi": "Vùng Kamchatka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Đồi Nikolskaya và đài tưởng niệm phòng thủ Petropavlovsk 1854 (đọc: Ni-côn-xcai-a)",
+    "name_ru": "Никольская сопка (мемориал обороны 1854 года)",
+    "name_en": "Nikolskaya Hill & 1854 Defence Memorial",
+    "categories": [
+      "monument",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 53.02028,
+      "lon": 158.64222
+    },
+    "address_vi": "Đồi Nikolskaya ('Đồi Tình Yêu'), trung tâm Petropavlovsk-Kamchatsky, Vùng Kamchatka",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Ngọn đồi phủ rừng ngay trung tâm thành phố, chiến trường chính của cuộc phòng thủ anh dũng năm 1854 chống hạm đội Anh - Pháp; nay là công viên ký ức với nhà nguyện, mộ chung, pháo cổ và đài tưởng niệm.",
+    "presentation_long_vi": "Đồi Nikolskaya (Nikolskaya Sopka), người dân trìu mến gọi là 'Đồi Tình Yêu' (Sopka Lyubvi), là ngọn đồi phủ rừng bạch dương nằm ngay giữa lòng Petropavlovsk-Kamchatsky, sát vịnh Avacha. Đây là địa danh lịch sử thiêng liêng nhất thành phố: tháng 8 năm 1854, trong thời Chiến tranh Krym, chính trên và quanh sườn đồi này, đội quân đồn trú ít ỏi cùng dân chúng Petropavlovsk đã kiên cường đẩy lui cuộc tấn công của hạm đội liên quân Anh - Pháp đông hơn nhiều lần - một trong những chiến thắng vang dội và bất ngờ nhất của nước Nga ở Viễn Đông. Ngày nay đồi Nikolskaya là một công viên ký ức: du khách có thể thăm nhà nguyện đá và mộ chung an táng những người ngã xuống cả hai phía, những khẩu pháo cổ đặt lại nơi từng là trận địa, đài tưởng niệm 'Vinh quang' và các bia đá kỷ niệm. Từ các lối mòn trên đồi và đài quan sát, tầm nhìn mở ra toàn cảnh vịnh Avacha, cảng biển và những ngọn núi lửa - khiến nơi đây vừa là điểm về nguồn lịch sử, vừa là chỗ dạo bộ, ngắm cảnh yêu thích của cả người dân lẫn du khách.",
+    "highlights_vi": [
+      "Chiến trường chính của cuộc phòng thủ Petropavlovsk 1854 chống hạm đội Anh - Pháp",
+      "Nhà nguyện đá, mộ chung, pháo cổ và đài tưởng niệm 'Vinh quang'",
+      "Đồi rừng giữa trung tâm với đài ngắm toàn cảnh vịnh Avacha và núi lửa"
+    ],
+    "practical": {
+      "hours_vi": "Công viên ngoài trời, mở tự do quanh năm.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 1 giờ dạo bộ và thăm các đài tưởng niệm.",
+      "best_time_vi": "Tháng 6 đến tháng 9 dễ chịu nhất; mùa đông cảnh tuyết đẹp nhưng lối dốc trơn.",
+      "tips_vi": "Đi giày thoải mái vì có dốc và bậc; kết hợp với dạo phố trung tâm và quảng trường gần đó."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%20%D1%81%D0%BE%D0%BF%D0%BA%D0%B0%20%28%D0%BC%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%20%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D1%8B%201854%20%D0%B3%D0%BE%D0%B4%D0%B0%29&ll=158.64222,53.02028&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Nikolskaya%20Hill%20%26%201854%20Defence%20Memorial%2C%20Kamchatka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia — Nikolskaya sopka",
+        "url": "https://en.wikipedia.org/wiki/Nikolskaya_sopka"
+      },
+      {
+        "title": "KamchatkaLand — Nikolskaya Sopka",
+        "url": "https://kamchatkaland.com/note/nikolskaya-sopka"
+      }
+    ],
+    "tags": [
+      "memorial",
+      "history",
+      "1854-defence",
+      "viewpoint",
+      "park",
+      "kamchatka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "kamchatka-mishennaya-hill-viewpoint",
+    "slug": "mishennaya-hill-viewpoint",
+    "region": "kamchatka",
+    "region_name_vi": "Vùng Kamchatka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Đồi Mishennaya - điểm ngắm toàn cảnh (đọc: Mi-sen-nai-a)",
+    "name_ru": "Мишенная сопка",
+    "name_en": "Mishennaya Hill Viewpoint",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 53.04361,
+      "lon": 158.63806
+    },
+    "address_vi": "Trong lòng thành phố Petropavlovsk-Kamchatsky, cao 382 m, Vùng Kamchatka",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Ngọn đồi núi lửa cao 382 m ngay trong thành phố, điểm ngắm toàn cảnh đẹp nhất Petropavlovsk: bao quát vịnh Avacha, hồ Kultuchnoye, cảng biển và ba ngọn núi lửa 'nhà'.",
+    "presentation_long_vi": "Đồi Mishennaya (Mishennaya Sopka) là ngọn đồi gốc núi lửa cao 382 m nằm ngay trong lòng Petropavlovsk-Kamchatsky, được xem là đài quan sát tự nhiên đẹp nhất thành phố. Cái tên 'Mishennaya' (nghĩa là 'Đồi Bia Ngắm') phản ánh quá khứ quân sự của nó. Từ đỉnh đồi, cả thành phố trải ra dưới chân: vịnh Avacha xanh biếc với những con tàu neo đậu, hồ Kultuchnoye lấp lánh, các khu phố bám theo triền đồi, và trên hết là đường chân trời hùng vĩ với ba 'núi lửa nhà' Avachinsky, Koryaksky, Kozelsky phủ tuyết trắng. Đây là địa điểm lý tưởng để ngắm bình minh và hoàng hôn, chụp toàn cảnh panorama và cảm nhận trọn vẹn thế đất 'thành phố giữa núi lửa và biển' của thủ phủ Kamchatka. Có thể lên đỉnh bằng ô tô theo đường mòn hoặc đi bộ theo các lối nhỏ từ phía biển; trên đỉnh có cột phát sóng và khoảng đất trống làm điểm ngắm. Vào những ngày trời quang sau cơn mưa, tầm nhìn từ Mishennaya trong veo và ngoạn mục đến khó quên.",
+    "highlights_vi": [
+      "Điểm ngắm panorama đẹp nhất Petropavlovsk từ độ cao 382 m",
+      "Bao quát vịnh Avacha, hồ Kultuchnoye, cảng biển và ba núi lửa 'nhà'",
+      "Lý tưởng cho bình minh, hoàng hôn và ảnh toàn cảnh thành phố"
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tự do; lên đỉnh bằng ô tô hoặc đi bộ, tốt nhất ban ngày và lúc bình minh/hoàng hôn.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 1-2 giờ gồm di chuyển và ngắm cảnh.",
+      "best_time_vi": "Ngày trời quang, đặc biệt sau mưa; tránh hôm nhiều mây mù che núi lửa.",
+      "tips_vi": "Đường lên gồ ghề, xe gầm cao thuận tiện hơn; mang áo gió vì trên đỉnh lộng gió; kiểm tra dự báo để thấy rõ núi lửa."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D0%B8%D1%88%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D1%81%D0%BE%D0%BF%D0%BA%D0%B0&ll=158.63806,53.04361&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Mishennaya%20Hill%20Viewpoint%2C%20Kamchatka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikidata — Mishennaya Sopka (Q1887064)",
+        "url": "https://www.wikidata.org/wiki/Q1887064"
+      },
+      {
+        "title": "PeakVisor — Mishennaya Sopka",
+        "url": "https://peakvisor.com/peak/mishennaya-sopka.html"
+      }
+    ],
+    "tags": [
+      "viewpoint",
+      "panorama",
+      "hill",
+      "petropavlovsk",
+      "photography",
+      "kamchatka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "kamchatka-lenin-square-petropavlovsk",
+    "slug": "lenin-square-petropavlovsk",
+    "region": "kamchatka",
+    "region_name_vi": "Vùng Kamchatka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Quảng trường Lenin, Petropavlovsk (đọc: Plô-sat Lê-nhin)",
+    "name_ru": "Площадь Ленина",
+    "name_en": "Lenin Square, Petropavlovsk-Kamchatsky",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 53.0243,
+      "lon": 158.6499
+    },
+    "address_vi": "Trung tâm hành chính, bên bờ vịnh Avacha và hồ Kultuchnoye, Petropavlovsk-Kamchatsky, Vùng Kamchatka",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Quảng trường trung tâm của thủ phủ Kamchatka bên bờ vịnh Avacha, nơi đặt trụ sở chính quyền vùng, nhà hát kịch, tượng đài Lenin, là điểm dạo bộ và tổ chức sự kiện lớn với tầm nhìn ra núi lửa.",
+    "presentation_long_vi": "Quảng trường Lenin (Ploshchad Lenina) là trái tim và không gian công cộng chính của Petropavlovsk-Kamchatsky, nằm ở khu trung tâm bên bờ vịnh Avacha, gần đồi Nikolskaya và hồ Kultuchnoye. Đây là nơi tọa lạc của nhiều công trình quan trọng: toà nhà Chính quyền Vùng Kamchatka, Nhà hát Kịch và Hài kịch Kamchatka, Bảo tàng Mỹ thuật vùng, cùng tượng đài Lenin đặt trên quảng trường theo mô-típ quen thuộc thời Xô Viết. Quảng trường rộng rãi, thoáng đãng, là điểm hẹn yêu thích của người dân và du khách: từ đây có thể phóng tầm mắt ra mặt nước vịnh Avacha, các ngọn đồi và những đỉnh núi lửa phía xa. Vào các dịp lễ lớn - Ngày Chiến thắng, Ngày Thành phố, đón năm mới - quảng trường trở thành sân khấu của diễu hành, hòa nhạc, hội chợ và bắn pháo hoa. Với vị trí trung tâm, Lenin là điểm khởi đầu tự nhiên cho một buổi dạo bộ khám phá phố cổ ven biển, kết nối tới đồi Nikolskaya, cảng và các đài tưởng niệm lịch sử của thành phố.",
+    "highlights_vi": [
+      "Quảng trường trung tâm bên vịnh Avacha với trụ sở chính quyền vùng và nhà hát kịch",
+      "Tượng đài Lenin và không gian dạo bộ, tổ chức lễ hội, hòa nhạc, pháo hoa",
+      "Tầm nhìn thoáng ra mặt vịnh, đồi Nikolskaya và núi lửa; điểm khởi đầu dạo phố cổ"
+    ],
+    "practical": {
+      "hours_vi": "Không gian mở, tự do quanh năm.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 30-45 phút dạo quanh; lâu hơn nếu ghé nhà hát/bảo tàng cạnh đó.",
+      "best_time_vi": "Quanh năm; sôi động nhất vào các dịp lễ lớn của thành phố.",
+      "tips_vi": "Kết hợp đi bộ tới đồi Nikolskaya và bến cảng gần đó; ghé nhà hát kịch hoặc bảo tàng mỹ thuật ngay cạnh quảng trường."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0&ll=158.6499,53.0243&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Lenin%20Square%2C%20Petropavlovsk-Kamchatsky%2C%20Kamchatka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "2GIS — Площадь Ленина, Петропавловск-Камчатский",
+        "url": "https://2gis.ru/p_kamchatskiy/geo/13370748588523582"
+      },
+      {
+        "title": "Sputnik Travel — Площадь Ленина в Петропавловске-Камчатском",
+        "url": "http://turizm.sputnik.ru/items/ploshchad-lenina-v-petropavlovske-kamchatskom"
+      }
+    ],
+    "tags": [
+      "square",
+      "city-center",
+      "landmark",
+      "petropavlovsk",
+      "monument",
+      "kamchatka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "kamchatka-bystrinsky-nature-park",
+    "slug": "bystrinsky-nature-park",
+    "region": "kamchatka",
+    "region_name_vi": "Vùng Kamchatka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Công viên tự nhiên Bystrinsky (đọc: Bư-xtrin-xki)",
+    "name_ru": "Быстринский природный парк",
+    "name_en": "Bystrinsky Nature Park",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 55.67833,
+      "lon": 157.71833
+    },
+    "address_vi": "Huyện Bystrinsky, trung tâm bán đảo quanh làng Esso và núi lửa Ichinsky, Vùng Kamchatka",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Công viên tự nhiên rộng lớn ở trung tâm Kamchatka, một phần của Di sản UNESCO 'Núi lửa Kamchatka', bao trọn núi lửa Ichinsky - đỉnh cao nhất dãy Sredinny - cùng thung lũng sông, rừng taiga và văn hóa tuần lộc Even.",
+    "presentation_long_vi": "Công viên tự nhiên Bystrinsky (Bystrinsky prirodny park) được thành lập năm 1995, trải rộng trên vùng núi trung tâm Kamchatka quanh làng Esso và Anavgai, thuộc dãy Sredinny. Đây là một trong bốn công viên - khu bảo tồn tạo nên Di sản Thế giới UNESCO 'Núi lửa Kamchatka'. Trung tâm của công viên là núi lửa Ichinsky (Ichinskaya Sopka) cao 3.607 m - đỉnh cao nhất và là núi lửa đang hoạt động duy nhất của toàn dãy Sredinny, với chỏm băng và những dòng sông băng phủ trên đỉnh. Khác với vùng đông đầy núi lửa phun trào, cảnh quan Bystrinsky là những rặng núi trầm mặc, thung lũng sông Bystraya trong vắt, rừng taiga bạch dương đá và lãnh nguyên vùng cao, nơi sinh sống của gấu nâu, cừu tuyết, tuần lộc hoang và nhiều loài chim. Công viên còn là quê hương của người Even và Koryak - các tộc du mục chăn tuần lộc - với văn hóa được gìn giữ tại làng Esso, nơi có bảo tàng dân tộc học Bystrinsky và suối nước nóng. Du khách đến đây để đi bộ đường dài, cưỡi ngựa, câu cá, tìm hiểu văn hóa bản địa và tận hưởng thiên nhiên yên tĩnh - một Kamchatka rất khác, dịu dàng và giàu bản sắc.",
+    "highlights_vi": [
+      "Một trong các vùng lõi của Di sản UNESCO 'Núi lửa Kamchatka'",
+      "Bao trọn núi lửa Ichinsky 3.607 m - đỉnh cao nhất dãy Sredinny, có chỏm băng",
+      "Văn hóa chăn tuần lộc của người Even, Koryak; đi bộ, cưỡi ngựa, câu cá quanh Esso"
+    ],
+    "practical": {
+      "hours_vi": "Công viên mở quanh năm; văn phòng và bảo tàng ở Esso theo giờ hành chính.",
+      "ticket_vi": "Vào công viên/tuyến tham quan có phí nhỏ; một số chương trình thu phí riêng.",
+      "duration_vi": "Từ 1 ngày đến vài ngày kết hợp lưu trú ở Esso.",
+      "best_time_vi": "Tháng 7-9 cho đi bộ, cưỡi ngựa; mùa đông cho trượt tuyết, xe chó/tuần lộc.",
+      "tips_vi": "Tới Esso bằng đường bộ (~9-10 giờ) hoặc máy bay nhỏ; liên hệ ban quản lý ở Esso để đặt tuyến và hướng dẫn viên; mang chống muỗi mùa hè."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%91%D1%8B%D1%81%D1%82%D1%80%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%B0%D1%80%D0%BA&ll=157.71833,55.67833&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Bystrinsky%20Nature%20Park%2C%20Kamchatka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikidata — Bystrinsky Nature Park (Q1018661)",
+        "url": "https://www.wikidata.org/wiki/Q1018661"
+      },
+      {
+        "title": "Wikipedia — Ichinsky",
+        "url": "https://en.wikipedia.org/wiki/Ichinsky"
+      }
+    ],
+    "tags": [
+      "nature-park",
+      "unesco",
+      "ichinsky",
+      "even-culture",
+      "esso",
+      "kamchatka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "kamchatka-vulkanarium-museum",
+    "slug": "vulkanarium-museum",
+    "region": "kamchatka",
+    "region_name_vi": "Vùng Kamchatka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Bảo tàng Núi lửa Vulkanarium (đọc: Vun-ca-na-ri-um)",
+    "name_ru": "Вулканариум",
+    "name_en": "Vulkanarium Museum of Volcanoes",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 53.034133,
+      "lon": 158.644976
+    },
+    "address_vi": "Ул. Ключевская, 34, thành phố Petropavlovsk-Kamchatsky, Vùng Kamchatka, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng núi lửa tương tác tư nhân do chính các nhà núi lửa học Kamchatka sáng lập, nơi du khách được chạm tay vào dung nham nguội, đi qua mô hình 'ống dung nham' và tìm hiểu vì sao bán đảo có tới hàng trăm ngọn núi lửa.",
+    "presentation_long_vi": "Vulkanarium là bảo tàng chuyên đề về núi lửa đầu tiên và nổi tiếng nhất Kamchatka, khai trương giữa thập niên 2010 và nhanh chóng trở thành điểm 'phải ghé' khi trời xấu không lên được núi. Điểm đặc biệt là bảo tàng do các nhà núi lửa học và hướng dẫn viên bản địa lập nên, nên cách kể chuyện rất sống động và chính xác về mặt khoa học. Không gian trưng bày được thiết kế theo hướng tương tác: khách có thể cầm nắm các mẫu đá bazan, bom núi lửa, tro, bọt đá (pumice) và obsidian; bước qua một 'ống dung nham' mô phỏng lòng núi lửa với hiệu ứng ánh sáng và hơi nóng; xem cách dung nham chảy, cách hình thành mạch nước phun và suối nước nóng. Hướng dẫn viên giải thích cặn kẽ 'vành đai lửa Thái Bình Dương', sự khác biệt giữa các kiểu phun trào, và kể những câu chuyện thực địa từ Klyuchevskaya, Tolbachik hay Mutnovsky. Bảo tàng phù hợp cho cả gia đình có trẻ nhỏ và là phần mở đầu lý tưởng trước khi bắt đầu các tour trekking núi lửa thật sự.",
+    "highlights_vi": [
+      "Bảo tàng núi lửa tương tác đầu tiên của Kamchatka, do các nhà núi lửa học lập nên.",
+      "Được chạm tay vào dung nham, bom núi lửa, bọt đá và đi qua mô hình 'ống dung nham'.",
+      "Điểm khởi động lý tưởng để hiểu về vành đai lửa trước khi trekking núi lửa thật."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa hằng ngày, thường 10:00-20:00; tham quan theo tour có hướng dẫn (đặt trước nên có suất).",
+      "ticket_vi": "Vé khoảng 700-1.000 RUB/người lớn, ưu đãi cho trẻ em; nên đặt trước.",
+      "duration_vi": "Khoảng 1-1,5 giờ theo tour.",
+      "best_time_vi": "Quanh năm; rất hợp làm phương án cho ngày thời tiết xấu.",
+      "tips_vi": "Có tour tiếng Nga và tiếng Anh; hỏi trước lịch suất tiếng Anh nếu cần."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D1%83%D0%BB%D0%BA%D0%B0%D0%BD%D0%B0%D1%80%D0%B8%D1%83%D0%BC&ll=158.644976,53.034133&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Vulkanarium%20Museum%20of%20Volcanoes%2C%20Kamchatka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Вулканариум",
+        "url": "https://ru.wikipedia.org/wiki/Вулканариум"
+      },
+      {
+        "title": "2GIS — Вулканариум, Петропавловск-Камчатский",
+        "url": "https://2gis.ru/petropavlovsk/firm/70000001024817641"
+      }
+    ],
+    "tags": [
+      "museum",
+      "volcano",
+      "interactive",
+      "science",
+      "petropavlovsk",
+      "kamchatka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "kamchatka-bystrinsky-ethnographic-museum-esso",
+    "slug": "bystrinsky-ethnographic-museum-esso",
+    "region": "kamchatka",
+    "region_name_vi": "Vùng Kamchatka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Bảo tàng Dân tộc học Bystrinsky (Esso) (đọc: Bư-xtrin-xki, Ét-xô)",
+    "name_ru": "Быстринский районный этнографический музей",
+    "name_en": "Bystrinsky Ethnographic Museum, Esso",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 55.927369,
+      "lon": 158.698998
+    },
+    "address_vi": "Làng Esso, ул. Набережная 14А, huyện Bystrinsky, Vùng Kamchatka, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Một trong những bảo tàng dân tộc học đặc sắc nhất Viễn Đông, đặt trong quần thể nhà gỗ ở làng Esso, giới thiệu văn hoá của người Even và Koryak - các dân tộc bản địa du mục chăn tuần lộc của vùng núi Kamchatka.",
+    "presentation_long_vi": "Nằm ở làng Esso xinh đẹp - nơi được ví là 'Thụy Sĩ của Kamchatka' - Bảo tàng Dân tộc học huyện Bystrinsky là điểm đến hàng đầu để tìm hiểu đời sống của các cư dân bản địa vùng núi bán đảo, đặc biệt là người Even (Эвены) và người Koryak (Коряки). Bảo tàng ra đời từ thập niên 1980 nhờ tâm huyết của những người yêu văn hoá địa phương, và điểm thu hút đầu tiên chính là kiến trúc: một quần thể nhà gỗ dựng theo lối truyền thống, gồm cả lều da tuần lộc (yurt/chum) và các công trình gỗ mộc mạc hoà vào rừng taiga. Bên trong trưng bày trang phục lông thú thêu cườm tinh xảo, dụng cụ săn bắn và chăn nuôi tuần lộc, đồ dùng sinh hoạt, xe trượt tuyết, các vật phẩm nghi lễ shaman và bộ sưu tập ảnh tư liệu quý về đời sống du mục. Khách tham quan hiểu được nhịp sống gắn với đàn tuần lộc, tín ngưỡng vạn vật hữu linh và nghệ thuật thủ công của các dân tộc phương Bắc. Kết hợp với suối nước nóng và không khí trong lành của Esso, bảo tàng mang lại trải nghiệm văn hoá sâu sắc, khác hẳn mảng thiên nhiên núi lửa quen thuộc của Kamchatka.",
+    "highlights_vi": [
+      "Bảo tàng dân tộc học nổi tiếng nhất Kamchatka, về người Even và Koryak bản địa.",
+      "Quần thể nhà gỗ và lều tuần lộc truyền thống giữa rừng taiga làng Esso.",
+      "Trang phục lông thú thêu cườm, đồ nghi lễ shaman và tư liệu đời sống du mục."
+    ],
+    "practical": {
+      "hours_vi": "Thường mở thứ Ba-Chủ nhật, khoảng 10:00-18:00; nên kiểm tra lịch trước khi tới.",
+      "ticket_vi": "Vé bình dân (khoảng 150-300 RUB); có phụ phí nếu chụp ảnh/quay phim.",
+      "duration_vi": "Khoảng 1-1,5 giờ.",
+      "best_time_vi": "Quanh năm; mùa đông có thể kết hợp lễ hội đua chó/tuần lộc ở Esso.",
+      "tips_vi": "Kết hợp tắm suối nước nóng ở Esso; đường từ Petropavlovsk khá xa (~500 km), nên đi cùng tour."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%91%D1%8B%D1%81%D1%82%D1%80%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9%20%D1%8D%D1%82%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9&ll=158.698998,55.927369&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Bystrinsky%20Ethnographic%20Museum%2C%20Esso%2C%20Kamchatka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Эссо",
+        "url": "https://ru.wikipedia.org/wiki/Эссо"
+      },
+      {
+        "title": "OpenStreetMap — Быстринский этнографический музей",
+        "url": "https://www.openstreetmap.org/way/192006921"
+      }
+    ],
+    "tags": [
+      "museum",
+      "ethnography",
+      "indigenous",
+      "even",
+      "koryak",
+      "esso",
+      "kamchatka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "kamchatka-kamchatka-art-museum",
+    "slug": "kamchatka-art-museum",
+    "region": "kamchatka",
+    "region_name_vi": "Vùng Kamchatka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Bảo tàng Mỹ thuật vùng Kamchatka (đọc: Ca-mchát-xki khu-đô-giét-xtven-nưi mu-dây)",
+    "name_ru": "Камчатский краевой художественный музей",
+    "name_en": "Kamchatka Regional Art Museum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 53.021221,
+      "lon": 158.647153
+    },
+    "address_vi": "Ул. Ленинская, 62, thành phố Petropavlovsk-Kamchatsky, Vùng Kamchatka, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng mỹ thuật của bán đảo, lưu giữ tranh, đồ hoạ, điêu khắc và nhất là nghệ thuật thủ công - trang trí độc đáo của các dân tộc phương Bắc: chạm xương, khảm da, thêu lông thú và điêu khắc gỗ.",
+    "presentation_long_vi": "Bảo tàng Mỹ thuật vùng Kamchatka được thành lập đầu thập niên 1990 và trở thành trung tâm nghệ thuật tạo hình chính của bán đảo. Bộ sưu tập gồm hội hoạ, đồ hoạ và điêu khắc của các hoạ sĩ Nga cùng nghệ sĩ địa phương, trong đó nhiều tác phẩm lấy cảm hứng từ thiên nhiên hùng vĩ của Kamchatka - núi lửa, biển và đời sống bản địa. Phần được yêu thích nhất là mảng nghệ thuật trang trí - ứng dụng của các dân tộc phương Bắc (Koryak, Chukchi, Even, Itelmen): những sản phẩm chạm khắc trên xương và ngà, khảm da hải cẩu, thảm lông thú, đồ thêu cườm và tượng gỗ nhỏ mang đậm tín ngưỡng vạn vật hữu linh. Bảo tàng thường xuyên tổ chức triển lãm chuyên đề, sự kiện giáo dục và các buổi giới thiệu tác giả, là điểm đến văn hoá đáng ghé ngay trung tâm phố cổ Petropavlovsk trên tuyến đi bộ Ленинская. Đây là lựa chọn lý tưởng để cảm nhận chiều sâu văn hoá - nghệ thuật của vùng đất vốn nổi tiếng bởi cảnh quan thiên nhiên.",
+    "highlights_vi": [
+      "Bảo tàng mỹ thuật chính của Kamchatka, thành lập đầu thập niên 1990.",
+      "Bộ sưu tập nghệ thuật trang trí độc đáo của các dân tộc phương Bắc: chạm xương, khảm da, thêu lông thú.",
+      "Nằm ngay trung tâm phố cổ trên tuyến đi bộ Ленинская, gần các điểm tham quan khác."
+    ],
+    "practical": {
+      "hours_vi": "Thường mở thứ Ba-Chủ nhật, khoảng 10:00-18:00; thứ Hai nghỉ.",
+      "ticket_vi": "Vé phổ thông bình dân (khoảng 150-300 RUB), ưu đãi cho học sinh, sinh viên.",
+      "duration_vi": "Khoảng 45-60 phút.",
+      "best_time_vi": "Quanh năm; hợp làm điểm ghé khi trời xấu.",
+      "tips_vi": "Kết hợp dạo phố Ленинская, ghé Bảo tàng Liên hợp địa phương và quảng trường trung tâm gần đó."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D0%B0%D0%BC%D1%87%D0%B0%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D1%80%D0%B0%D0%B5%D0%B2%D0%BE%D0%B9%20%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9&ll=158.647153,53.021221&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kamchatka%20Regional%20Art%20Museum%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Камчатский краевой художественный музей",
+        "url": "https://ru.wikipedia.org/wiki/Камчатский_краевой_художественный_музей"
+      },
+      {
+        "title": "2GIS — Художественный музей, Петропавловск-Камчатский",
+        "url": "https://2gis.ru/petropavlovsk/firm/13370589674735302"
+      }
+    ],
+    "tags": [
+      "museum",
+      "art",
+      "fine-arts",
+      "northern-peoples",
+      "petropavlovsk",
+      "kamchatka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "kamchatka-vitus-bering-monument",
+    "slug": "vitus-bering-monument",
+    "region": "kamchatka",
+    "region_name_vi": "Vùng Kamchatka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Đài tưởng niệm Vitus Bering (đọc: Vi-tút Bê-rinh)",
+    "name_ru": "Памятник Витусу Берингу",
+    "name_en": "Monument to Vitus Bering",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 53.01805,
+      "lon": 158.648939
+    },
+    "address_vi": "Khu trung tâm lịch sử, gần ул. Красинцев / Ленинская, thành phố Petropavlovsk-Kamchatsky, Vùng Kamchatka, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Đài kỷ niệm cổ nhất Petropavlovsk, dựng năm 1826, tôn vinh nhà hàng hải gốc Đan Mạch Vitus Bering - người chỉ huy các Cuộc thám hiểm Kamchatka và là người khai sinh thành phố năm 1740.",
+    "presentation_long_vi": "Vitus Bering (1681-1741), sĩ quan hải quân Nga gốc Đan Mạch, là nhân vật gắn liền với sự ra đời của Petropavlovsk-Kamchatsky: tháng 10 năm 1740, hai con tàu 'Thánh Piotr' và 'Thánh Pavel' trong Cuộc thám hiểm Kamchatka lần thứ hai của ông đã vào trú đông tại vịnh Avacha, đặt nền móng cho cảng và thành phố mang tên hai vị thánh - hai con tàu ấy. Đài tưởng niệm Bering, dựng năm 1826, được xem là công trình kỷ niệm cổ nhất còn lại của thành phố: một cột trụ gang thanh mảnh trên bệ đá, đỉnh gắn hình chóp cầu cách điệu, toát lên vẻ trang nghiêm giản dị của nghệ thuật đài kỷ niệm đầu thế kỷ XIX. Bering qua đời năm 1741 trên hòn đảo hoang ở biển Bering (nay là quần đảo Komandorsky) trên đường trở về sau khi đã tới được bờ tây bắc châu Mỹ. Nằm trong khu phố cổ trung tâm cùng cụm đài kỷ niệm các nhà hàng hải khác, tượng đài là điểm dừng ý nghĩa để hiểu lịch sử khám phá Bắc Thái Bình Dương và cội nguồn của chính thành phố.",
+    "highlights_vi": [
+      "Đài kỷ niệm cổ nhất Petropavlovsk, dựng năm 1826.",
+      "Tôn vinh Vitus Bering - người khai sinh thành phố năm 1740.",
+      "Cột gang thanh mảnh đầu thế kỷ XIX, giữa cụm đài các nhà hàng hải ở phố cổ."
+    ],
+    "practical": {
+      "hours_vi": "Không gian ngoài trời, tham quan tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 10-15 phút.",
+      "best_time_vi": "Quanh năm; đẹp nhất vào ngày trời quang.",
+      "tips_vi": "Kết hợp đi bộ phố Ленинская, đài tưởng niệm Laperuze gần đó và đồi Nikolskaya."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%D0%92%D0%B8%D1%82%D1%83%D1%81%D1%83%20%D0%91%D0%B5%D1%80%D0%B8%D0%BD%D0%B3%D1%83&ll=158.648939,53.01805&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Monument%20to%20Vitus%20Bering%2C%20Kamchatka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Петропавловск-Камчатский (памятники)",
+        "url": "https://ru.wikipedia.org/wiki/Петропавловск-Камчатский"
+      },
+      {
+        "title": "Wikipedia (RU) — Беринг, Витус",
+        "url": "https://ru.wikipedia.org/wiki/Беринг,_Витус"
+      }
+    ],
+    "tags": [
+      "monument",
+      "history",
+      "navigator",
+      "bering",
+      "petropavlovsk",
+      "kamchatka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "kamchatka-laperouse-monument",
+    "slug": "laperouse-monument",
+    "region": "kamchatka",
+    "region_name_vi": "Vùng Kamchatka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Đài tưởng niệm La Pérouse (đọc: La-pê-rúp)",
+    "name_ru": "Памятник Лаперузу",
+    "name_en": "Monument to La Pérouse",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 53.018071,
+      "lon": 158.648618
+    },
+    "address_vi": "Khu trung tâm lịch sử, gần ул. Красинцев / Ленинская, thành phố Petropavlovsk-Kamchatsky, Vùng Kamchatka, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Đài kỷ niệm nhà hàng hải Pháp Jean-François de La Pérouse, người đã ghé vịnh Avacha năm 1787 trong chuyến thám hiểm vòng quanh thế giới - một trong những tượng đài lâu đời của thành phố, biểu tượng cho mối giao lưu hàng hải quốc tế sớm ở Kamchatka.",
+    "presentation_long_vi": "Jean-François de La Pérouse là nhà hàng hải kiêm nhà thám hiểm Pháp lừng danh, được vua Louis XVI cử dẫn đầu chuyến thám hiểm khoa học vòng quanh thế giới cuối thế kỷ XVIII. Tháng 9 năm 1787, đoàn của ông ghé vịnh Avacha và Petropavlovsk để tiếp tế, nghỉ ngơi và gửi thư từ, nhật ký về Pháp qua đường bộ Siberia - một quyết định may mắn, bởi ít lâu sau cả đoàn mất tích ngoài Thái Bình Dương, và những tài liệu gửi từ Kamchatka trở thành phần tư liệu quý còn lại. Để tri ân, cư dân thành phố đã dựng đài kỷ niệm La Pérouse (bản đầu giữa thế kỷ XIX, sau được phục dựng), thường có dạng cột/obelisk kim loại giản dị trên bệ đá, gắn bảng ghi công. Cùng với đài Bering và đài Charles Clarke, tượng đài La Pérouse tạo thành bộ ba kỷ niệm các nhà hàng hải vĩ đại từng đặt chân tới vịnh Avacha, nhấn mạnh vai trò của Petropavlovsk như một cảng biển quan trọng trên bản đồ khám phá Bắc Thái Bình Dương. Đây là điểm dừng nhỏ nhưng giàu ý nghĩa lịch sử ở trung tâm phố cổ.",
+    "highlights_vi": [
+      "Tưởng niệm nhà hàng hải Pháp La Pérouse ghé vịnh Avacha năm 1787.",
+      "Một trong những đài kỷ niệm lâu đời của Petropavlovsk.",
+      "Cùng đài Bering và Clarke tạo bộ ba tượng đài các nhà hàng hải nổi tiếng."
+    ],
+    "practical": {
+      "hours_vi": "Không gian ngoài trời, tham quan tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 10 phút.",
+      "best_time_vi": "Quanh năm.",
+      "tips_vi": "Nằm sát đài Bering; kết hợp tham quan cụm phố cổ trung tâm và đồi Nikolskaya."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%D0%9B%D0%B0%D0%BF%D0%B5%D1%80%D1%83%D0%B7%D1%83&ll=158.648618,53.018071&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Monument%20to%20La%20P%C3%A9rouse%2C%20Kamchatka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Лаперуз, Жан Франсуа",
+        "url": "https://ru.wikipedia.org/wiki/Лаперуз,_Жан_Франсуа"
+      },
+      {
+        "title": "Wikipedia (RU) — Петропавловск-Камчатский",
+        "url": "https://ru.wikipedia.org/wiki/Петропавловск-Камчатский"
+      }
+    ],
+    "tags": [
+      "monument",
+      "history",
+      "navigator",
+      "laperouse",
+      "france",
+      "petropavlovsk",
+      "kamchatka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "kamchatka-apostles-peter-paul-monument",
+    "slug": "apostles-peter-paul-monument",
+    "region": "kamchatka",
+    "region_name_vi": "Vùng Kamchatka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Đài tưởng niệm hai Thánh Tông đồ Phêrô và Phaolô (đọc: a-pô-xtô-lam Piốt i Pa-ven)",
+    "name_ru": "Памятник апостолам Петру и Павлу",
+    "name_en": "Monument to the Apostles Peter and Paul",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 53.025455,
+      "lon": 158.642873
+    },
+    "address_vi": "Gần Озерновская коса, khu trung tâm ven vịnh, thành phố Petropavlovsk-Kamchatsky, Vùng Kamchatka, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Tượng đài đồng khánh thành năm 2005 nhân dịp 265 năm thành phố, khắc hoạ hai Thánh Tông đồ Phêrô và Phaolô - hai vị thánh bảo trợ mà tên hai con tàu (và cả thành phố) mang theo, trở thành biểu tượng tinh thần mới của Petropavlovsk.",
+    "presentation_long_vi": "Tên gọi Petropavlovsk-Kamchatsky bắt nguồn từ hai con tàu 'Thánh Piotr' (Phêrô) và 'Thánh Pavel' (Phaolô) trong đoàn thám hiểm của Bering đã vào vịnh Avacha năm 1740; hai con tàu lại mang tên hai vị Thánh Tông đồ. Để khắc ghi cội nguồn ấy, năm 2005 - đúng dịp kỷ niệm 265 năm thành lập - thành phố đã dựng tượng đài đồng khắc hoạ hai Thánh Phêrô và Phaolô: một vị cầm chìa khoá Nước Trời, một vị cầm sách/thanh gươm, đứng trang nghiêm hướng ra vịnh. Đặt gần khu Озерновская коса ven bờ vịnh ở trung tâm thành phố, tượng đài nhanh chóng trở thành một trong những biểu tượng được yêu thích và là điểm chụp ảnh quen thuộc. Công trình nhắc nhớ nguồn gốc tên gọi thành phố, kết nối lịch sử hàng hải với đời sống tâm linh, đồng thời làm đẹp thêm không gian đô thị hiện đại ven vịnh. Từ đây du khách có thể phóng tầm mắt ra cảng và những ngọn núi lửa bao quanh vịnh Avacha.",
+    "highlights_vi": [
+      "Tượng đài đồng khánh thành năm 2005, dịp 265 năm thành phố.",
+      "Khắc hoạ hai Thánh Phêrô và Phaolô - nguồn gốc tên gọi Petropavlovsk.",
+      "Biểu tượng tinh thần và điểm chụp ảnh ven vịnh ở trung tâm."
+    ],
+    "practical": {
+      "hours_vi": "Không gian ngoài trời, tham quan tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 10-15 phút.",
+      "best_time_vi": "Quanh năm; đẹp nhất khi trời quang thấy núi lửa quanh vịnh.",
+      "tips_vi": "Kết hợp dạo Озерновская коса và ngắm cảng, hồ Kultuchnoye gần đó."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%D0%B0%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D0%BB%D0%B0%D0%BC%20%D0%9F%D0%B5%D1%82%D1%80%D1%83%20%D0%B8%20%D0%9F%D0%B0%D0%B2%D0%BB%D1%83&ll=158.642873,53.025455&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Monument%20to%20the%20Apostles%20Peter%20and%20Paul%2C%20Kamchatka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Петропавловск-Камчатский",
+        "url": "https://ru.wikipedia.org/wiki/Петропавловск-Камчатский"
+      },
+      {
+        "title": "2GIS — Памятник апостолам Петру и Павлу",
+        "url": "https://2gis.ru/petropavlovsk"
+      }
+    ],
+    "tags": [
+      "monument",
+      "religion",
+      "apostles",
+      "city-symbol",
+      "petropavlovsk",
+      "kamchatka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "kamchatka-here-begins-russia-stele",
+    "slug": "here-begins-russia-stele",
+    "region": "kamchatka",
+    "region_name_vi": "Vùng Kamchatka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Bia đá 'Nước Nga bắt đầu từ đây' (tượng gấu) (đọc: Zđét na-chi-na-ét-xa Rát-xi-a)",
+    "name_ru": "Стела «Здесь начинается Россия»",
+    "name_en": "'Here Begins Russia' Stele (Bears Monument)",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 53.188327,
+      "lon": 158.425551
+    },
+    "address_vi": "Trên quốc lộ vào thành phố, gần Elizovo (sân bay), Vùng Kamchatka, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bia đài mang dòng chữ 'Nước Nga bắt đầu từ đây', nổi bật với tượng gấu nâu Kamchatka mẹ cùng con ngậm cá hồi - điểm chào đón và chụp ảnh nổi tiếng ngay cửa ngõ vào Petropavlovsk từ phía sân bay Elizovo.",
+    "presentation_long_vi": "Do nằm ở cực đông đất nước, Kamchatka là nơi mặt trời mọc sớm nhất nước Nga - cũng là nơi 'một ngày mới của nước Nga bắt đầu'. Ý tưởng ấy được thể hiện thành bia đài mang dòng chữ 'Здесь начинается Россия' (Nước Nga bắt đầu từ đây), dựng đầu thập niên 2010 bên quốc lộ nối sân bay Elizovo với thủ phủ. Điểm nhấn của công trình là cụm tượng gấu nâu Kamchatka - gấu mẹ dẫn theo gấu con, miệng ngậm con cá hồi - hình ảnh biểu trưng cho thiên nhiên hoang dã trù phú của bán đảo (gấu và cá hồi là 'thương hiệu' của Kamchatka). Với hầu hết du khách bay đến, đây là điểm dừng đầu tiên ngay khi rời sân bay: gần như ai cũng chụp một tấm ảnh kỷ niệm bên tượng gấu và tấm bia trước khi vào thành phố hoặc lên đường khám phá. Tuy giản dị, bia đài đã trở thành một biểu tượng nhận diện hiện đại của Kamchatka, xuất hiện dày đặc trên bưu thiếp và mạng xã hội.",
+    "highlights_vi": [
+      "Bia đài biểu tượng với dòng chữ 'Nước Nga bắt đầu từ đây'.",
+      "Tượng gấu nâu Kamchatka mẹ và con ngậm cá hồi - hình ảnh đặc trưng của bán đảo.",
+      "Điểm chào đón và chụp ảnh đầu tiên ngay cửa ngõ từ sân bay Elizovo."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời bên đường, tham quan tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 10-15 phút dừng chụp ảnh.",
+      "best_time_vi": "Quanh năm; ban ngày thuận cho chụp ảnh.",
+      "tips_vi": "Nằm trên đường sân bay - thành phố; tài xế/hướng dẫn thường dừng ở đây; chú ý an toàn giao thông."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D1%82%D0%B5%D0%BB%D0%B0%20%C2%AB%D0%97%D0%B4%D0%B5%D1%81%D1%8C%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D0%B5%D1%82%D1%81%D1%8F%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%C2%BB&ll=158.425551,53.188327&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=%27Here%20Begins%20Russia%27%20Stele%20%28Bears%20Monument%29%2C%20Kamchatka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Петропавловск-Камчатский",
+        "url": "https://ru.wikipedia.org/wiki/Петропавловск-Камчатский"
+      },
+      {
+        "title": "Wikipedia (RU) — Елизово",
+        "url": "https://ru.wikipedia.org/wiki/Елизово"
+      }
+    ],
+    "tags": [
+      "monument",
+      "city-symbol",
+      "bear",
+      "photo-spot",
+      "elizovo",
+      "kamchatka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "kamchatka-kamchatka-drama-comedy-theatre",
+    "slug": "kamchatka-drama-comedy-theatre",
+    "region": "kamchatka",
+    "region_name_vi": "Vùng Kamchatka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Nhà hát Kịch và Hài kịch Kamchatka (đọc: tê-a-tơ đra-mư i cô-mê-đi)",
+    "name_ru": "Камчатский театр драмы и комедии",
+    "name_en": "Kamchatka Theatre of Drama and Comedy",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 53.022036,
+      "lon": 158.645907
+    },
+    "address_vi": "Ул. Ленинская, 75 (Театральная площадь), thành phố Petropavlovsk-Kamchatsky, Vùng Kamchatka, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhà hát kịch chuyên nghiệp lâu đời và lớn nhất Kamchatka, hoạt động từ năm 1933, toạ lạc trên Quảng trường Nhà hát ở trung tâm - trái tim của đời sống sân khấu bán đảo.",
+    "presentation_long_vi": "Nhà hát Kịch và Hài kịch Kamchatka là đoàn kịch chuyên nghiệp đầu tiên và quan trọng nhất của bán đảo, được thành lập năm 1933, thuộc hàng những nhà hát lâu đời của vùng Viễn Đông. Trải qua nhiều thập niên, nhà hát dàn dựng cả kịch kinh điển Nga - thế giới lẫn hài kịch, nhạc kịch và các vở dành cho thiếu nhi, trở thành trung tâm văn hoá tinh thần của người dân xứ núi lửa. Toà nhà hiện nay nằm trên Театральная площадь (Quảng trường Nhà hát) ở trung tâm thành phố, sau đợt cải tạo lớn đã khoác diện mạo hiện đại với mặt tiền sáng, khán phòng tiện nghi và quảng trường - đài phun nước phía trước trở thành nơi tụ họp, dạo chơi được yêu thích. Với du khách, nhà hát vừa là điểm nhấn kiến trúc đô thị, vừa là cơ hội thưởng thức một buổi diễn để cảm nhận đời sống văn hoá đương đại của Kamchatka - mảng trải nghiệm ít người ngờ tới ở một vùng đất nổi tiếng vì thiên nhiên hoang dã.",
+    "highlights_vi": [
+      "Nhà hát kịch chuyên nghiệp lâu đời nhất Kamchatka, thành lập năm 1933.",
+      "Toạ lạc trên Quảng trường Nhà hát trung tâm, diện mạo hiện đại sau cải tạo.",
+      "Trung tâm đời sống sân khấu với kịch kinh điển, hài kịch và kịch thiếu nhi."
+    ],
+    "practical": {
+      "hours_vi": "Theo lịch diễn (thường buổi tối và cuối tuần); phòng vé mở ban ngày.",
+      "ticket_vi": "Vé xem kịch phổ thông (khoảng 400-1.500 RUB tuỳ vở và vị trí).",
+      "duration_vi": "Một buổi diễn khoảng 2-3 giờ; ngắm bên ngoài 10-15 phút.",
+      "best_time_vi": "Mùa diễn thu-xuân; mùa hè có thể tạm nghỉ hoặc lưu diễn.",
+      "tips_vi": "Xem lịch và đặt vé trước; kết hợp dạo Quảng trường Nhà hát và đài phun nước phía trước."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D0%B0%D0%BC%D1%87%D0%B0%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D1%82%D0%B5%D0%B0%D1%82%D1%80%20%D0%B4%D1%80%D0%B0%D0%BC%D1%8B%20%D0%B8%20%D0%BA%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D0%B8&ll=158.645907,53.022036&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kamchatka%20Theatre%20of%20Drama%20and%20Comedy%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Камчатский театр драмы и комедии",
+        "url": "https://ru.wikipedia.org/wiki/Камчатский_театр_драмы_и_комедии"
+      },
+      {
+        "title": "OpenStreetMap — Камчатский театр драмы и комедии",
+        "url": "https://www.openstreetmap.org/way/98328203"
+      }
+    ],
+    "tags": [
+      "theatre",
+      "culture",
+      "drama",
+      "petropavlovsk",
+      "kamchatka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "kamchatka-theatre-square-petropavlovsk",
+    "slug": "theatre-square-petropavlovsk",
+    "region": "kamchatka",
+    "region_name_vi": "Vùng Kamchatka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Quảng trường Nhà hát, Petropavlovsk (đọc: Tê-a-trans-nai-a plô-sat)",
+    "name_ru": "Театральная площадь",
+    "name_en": "Theatre Square, Petropavlovsk-Kamchatsky",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 53.0221,
+      "lon": 158.646
+    },
+    "address_vi": "Trung tâm thành phố, trước Nhà hát Kịch và Hài kịch (ул. Ленинская), Petropavlovsk-Kamchatsky, Vùng Kamchatka, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Quảng trường trung tâm hiện đại trước Nhà hát Kịch Kamchatka, nổi bật với đài phun nước nhạc nước - ánh sáng, là nơi tụ họp, dạo chơi và tổ chức sự kiện được người dân thủ phủ yêu thích nhất.",
+    "presentation_long_vi": "Театральная площадь (Quảng trường Nhà hát) là không gian công cộng trung tâm sầm uất bậc nhất Petropavlovsk-Kamchatsky, nằm ngay trước toà Nhà hát Kịch và Hài kịch trên trục phố Ленинская. Sau đợt cải tạo quy mô lớn, quảng trường trở thành điểm nhấn đô thị hiện đại: mặt lát đá gọn gàng, ghế nghỉ, cây xanh và đặc biệt là đài phun nước với hiệu ứng nhạc nước - ánh sáng buổi tối thu hút đông người tới ngắm và chụp ảnh. Đây là nơi diễn ra nhiều sự kiện của thành phố - lễ hội, hoà nhạc ngoài trời, chợ phiên, hoạt động ngày lễ - cũng là chốn hẹn hò, dạo bộ quen thuộc của cư dân và du khách. Nằm gần các bảo tàng, cửa hàng lưu niệm và tuyến đi bộ phố cổ, Quảng trường Nhà hát là điểm trung chuyển lý tưởng để bắt đầu khám phá trung tâm thủ phủ Kamchatka, cảm nhận nhịp sống đời thường giữa một vùng đất vốn nổi tiếng bởi thiên nhiên hoang dã.",
+    "highlights_vi": [
+      "Quảng trường trung tâm hiện đại trước Nhà hát Kịch Kamchatka.",
+      "Đài phun nước nhạc nước - ánh sáng, điểm tụ họp và chụp ảnh buổi tối.",
+      "Nơi tổ chức lễ hội, hoà nhạc và sự kiện của thành phố."
+    ],
+    "practical": {
+      "hours_vi": "Không gian mở, tự do mọi lúc; đài phun nước hoạt động mùa ấm.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 20-40 phút dạo chơi.",
+      "best_time_vi": "Mùa hè (đài phun nước chạy); buổi tối đẹp nhờ đèn nước.",
+      "tips_vi": "Kết hợp xem kịch, dạo phố Ленинская và ghé các bảo tàng gần đó."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A2%D0%B5%D0%B0%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C&ll=158.646,53.0221&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Theatre%20Square%2C%20Petropavlovsk-Kamchatsky%2C%20Kamchatka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Петропавловск-Камчатский",
+        "url": "https://ru.wikipedia.org/wiki/Петропавловск-Камчатский"
+      },
+      {
+        "title": "2GIS — Театральная площадь, Петропавловск-Камчатский",
+        "url": "https://2gis.ru/petropavlovsk"
+      }
+    ],
+    "tags": [
+      "square_street",
+      "modern",
+      "fountain",
+      "public-space",
+      "petropavlovsk",
+      "kamchatka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "kamchatka-moroznaya-ski-base",
+    "slug": "moroznaya-ski-base",
+    "region": "kamchatka",
+    "region_name_vi": "Vùng Kamchatka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Khu trượt tuyết Moroznaya (đọc: Mô-rô-dnai-a)",
+    "name_ru": "Горнолыжная база «Морозная»",
+    "name_en": "Moroznaya Ski Base",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 53.180952,
+      "lon": 158.284133
+    },
+    "address_vi": "Núi Moroznaya, ул. Олимпийская 60, thành phố Elizovo, Vùng Kamchatka, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Khu trượt tuyết và trung tâm biathlon nổi tiếng của Kamchatka trên núi Moroznaya gần Elizovo - cái nôi đào tạo nhiều vận động viên trượt tuyết, biathlon và là điểm vui chơi mùa đông của người dân địa phương.",
+    "presentation_long_vi": "Nằm trên sườn núi Moroznaya (nghĩa là 'Giá lạnh') gần thành phố Elizovo, cách Petropavlovsk khoảng 30 km, đây là khu thể thao mùa đông lâu đời và có tiếng nhất bán đảo. Với mùa đông dài, tuyết dày và chất lượng tốt, Moroznaya từ lâu là trung tâm huấn luyện trượt tuyết đổ đèo (alpine), trượt tuyết băng đồng và biathlon; nhiều vận động viên Kamchatka trưởng thành từ đây và giành thành tích quốc gia. Khu vực có hệ thống đường trượt với độ khó khác nhau, cáp/thang kéo, trường bắn biathlon và các cơ sở tập luyện. Vào mùa đông, Moroznaya cũng là nơi vui chơi cuối tuần của gia đình và du khách: trượt tuyết, trượt ván, thuê thiết bị, học trượt cơ bản và tận hưởng không khí thể thao náo nhiệt giữa khung cảnh núi non phủ tuyết trắng. Với du khách quốc tế, đây là cơ hội trải nghiệm mảng thể thao mùa đông của Kamchatka - bổ sung cho hình ảnh núi lửa và suối nước nóng quen thuộc.",
+    "highlights_vi": [
+      "Khu trượt tuyết và trung tâm biathlon lâu đời nhất Kamchatka.",
+      "Cái nôi đào tạo nhiều vận động viên trượt tuyết và biathlon quốc gia.",
+      "Điểm vui chơi mùa đông gần Elizovo: đường trượt, thuê đồ, học trượt."
+    ],
+    "practical": {
+      "hours_vi": "Mùa trượt tuyết thường từ khoảng tháng 12 đến tháng 4; giờ mở theo ngày.",
+      "ticket_vi": "Vé thang kéo và thuê thiết bị tính riêng (bình dân so với châu Âu).",
+      "duration_vi": "Nửa ngày đến cả ngày.",
+      "best_time_vi": "Giữa đông đến đầu xuân (tuyết tốt, nắng).",
+      "tips_vi": "Cách Petropavlovsk ~30 km qua Elizovo; mặc ấm, đặt thuê thiết bị trước dịp cao điểm."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%93%D0%BE%D1%80%D0%BD%D0%BE%D0%BB%D1%8B%D0%B6%D0%BD%D0%B0%D1%8F%20%D0%B1%D0%B0%D0%B7%D0%B0%20%C2%AB%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%BD%D0%B0%D1%8F%C2%BB&ll=158.284133,53.180952&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Moroznaya%20Ski%20Base%2C%20Kamchatka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Морозная (гора)",
+        "url": "https://ru.wikipedia.org/wiki/Морозная_(гора)"
+      },
+      {
+        "title": "2GIS — Горнолыжная база Морозная, Елизово",
+        "url": "https://2gis.ru/petropavlovsk/firm/70000001007303975"
+      }
+    ],
+    "tags": [
+      "other",
+      "ski",
+      "winter-sport",
+      "biathlon",
+      "elizovo",
+      "kamchatka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "kamchatka-vilyuchinsky-waterfall",
+    "slug": "vilyuchinsky-waterfall",
+    "region": "kamchatka",
+    "region_name_vi": "Vùng Kamchatka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Thác Vilyuchinsky (đọc: Vi-li-u-chin-xki)",
+    "name_ru": "Вилючинский водопад",
+    "name_en": "Vilyuchinsky Waterfall",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 52.718258,
+      "lon": 158.236945
+    },
+    "address_vi": "Sườn núi lửa Vilyuchik, gần đèo Vilyuchinsky, huyện Elizovsky, Vùng Kamchatka, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Thác nước cao khoảng 40 m đổ từ sườn núi lửa Vilyuchik, được nuôi bằng nước tuyết - băng tan; là điểm dừng chân ngoạn mục quen thuộc trên tuyến đi tới các núi lửa Mutnovsky và Gorely ở phía nam Kamchatka.",
+    "presentation_long_vi": "Vilyuchinsky (hay Vilyuchik) là một trong những thác nước đẹp và dễ tiếp cận nhất vùng Petropavlovsk, nằm trên sườn núi lửa Vilyuchik hùng vĩ. Dòng thác cao chừng 40 mét, đổ xuống từ vách đá dốc, được cung cấp nước quanh năm bởi tuyết và các dải băng vĩnh cửu tan chảy trên sườn núi. Đầu mùa hè, khi tuyết còn dày, thác chảy mạnh và khung cảnh xung quanh vẫn phủ trắng, tạo tương phản ấn tượng giữa nước bạc, đá đen và tuyết. Thác nằm ngay bên tuyến đường phổ biến dẫn tới đèo Vilyuchinsky và các núi lửa nổi tiếng Mutnovsky, Gorely, nên hầu hết các tour trong ngày hoặc nhiều ngày ở phía nam bán đảo đều ghé lại đây. Từ điểm đỗ xe, du khách đi bộ một quãng ngắn tới chân thác để ngắm và chụp ảnh; tuỳ mùa và lượng tuyết mà độ khó thay đổi. Với cảnh núi lửa làm nền, Vilyuchinsky là 'điểm khởi động' lý tưởng cho hành trình khám phá vùng núi lửa phía nam.",
+    "highlights_vi": [
+      "Thác nước cao khoảng 40 m đổ từ sườn núi lửa Vilyuchik.",
+      "Nước tuyết - băng tan, chảy mạnh và đẹp nhất đầu mùa hè.",
+      "Điểm dừng quen thuộc trên tuyến tới núi lửa Mutnovsky và Gorely."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tiếp cận theo mùa (chủ yếu tháng 6-10, tuỳ tuyết).",
+      "ticket_vi": "Không có phí vào; chi phí chủ yếu là tour/xe địa hình.",
+      "duration_vi": "Khoảng 30-60 phút dừng ngắm và chụp ảnh.",
+      "best_time_vi": "Đầu đến giữa hè (tuyết còn, thác mạnh); đường thông xe.",
+      "tips_vi": "Đường cần xe địa hình; đi cùng tour tới Mutnovsky/Gorely; mang giày chống trơn."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D0%B8%D0%BB%D1%8E%D1%87%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4&ll=158.236945,52.718258&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Vilyuchinsky%20Waterfall%2C%20Kamchatka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Вилючинский вулкан",
+        "url": "https://ru.wikipedia.org/wiki/Вилючинская_Сопка"
+      },
+      {
+        "title": "2GIS — Вилючинский водопад",
+        "url": "https://2gis.ru/petropavlovsk/geo/70030076217894472"
+      }
+    ],
+    "tags": [
+      "park_garden",
+      "waterfall",
+      "nature",
+      "vilyuchik",
+      "elizovsky",
+      "kamchatka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "kamchatka-kutkhiny-baty",
+    "slug": "kutkhiny-baty",
+    "region": "kamchatka",
+    "region_name_vi": "Vùng Kamchatka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Vách đá Kutkhiny Baty (đọc: Kút-khi-nư ba-tư)",
+    "name_ru": "Кутхины баты",
+    "name_en": "Kutkhiny Baty (Pumice Cliffs)",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 51.509064,
+      "lon": 156.993074
+    },
+    "address_vi": "Gần hồ Kuril / sông Ozernaya, huyện Ust-Bolsheretsky, Vùng Kamchatka, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Di tích tự nhiên độc đáo gồm những vách bọt đá (pumice) màu trắng ngà dựng đứng như một hàng thuyền độc mộc dựng nghiêng; theo truyền thuyết của người Itelmen, đây là nơi vị thần - quạ Kutkh phơi những chiếc xuồng của mình.",
+    "presentation_long_vi": "Kutkhiny Baty là một trong những di tích tự nhiên kỳ lạ và giàu huyền thoại nhất Nam Kamchatka, nằm gần hồ Kuril và sông Ozernaya. 'Baty' trong tiếng bản địa nghĩa là những chiếc xuồng độc mộc; và quả thật, các khối bọt núi lửa (pumice) màu trắng ngả vàng ở đây bị nước và gió bào mòn thành hình dáng thuôn dài, dựng nghiêng chụm vào nhau, trông hệt như một hàng thuyền độc mộc được ai đó dựng lên phơi khô. Theo thần thoại của người Itelmen, đây chính là nơi Kutkh - vị thần sáng thế mang hình con quạ, nhân vật trung tâm trong tín ngưỡng các dân tộc Kamchatka - đã dựng những chiếc xuồng của mình để hong khô. Về mặt địa chất, khối pumice khổng lồ này hình thành từ những vụ phun trào cổ xưa; màu sáng, kết cấu xốp nhẹ và hình thù kỳ dị khiến nơi đây nổi bật giữa khung cảnh rừng - sông. Kutkhiny Baty thường được ghép vào hành trình tới hồ Kuril ngắm gấu nâu và cá hồi, tạo nên một điểm dừng vừa đẹp mắt vừa đậm màu sắc văn hoá bản địa.",
+    "highlights_vi": [
+      "Vách bọt đá (pumice) trắng ngà hình những chiếc xuồng độc mộc dựng nghiêng.",
+      "Gắn với truyền thuyết thần - quạ Kutkh của người Itelmen.",
+      "Thường ghép cùng hành trình tới hồ Kuril ngắm gấu và cá hồi."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tiếp cận theo mùa (chủ yếu tháng 7-9).",
+      "ticket_vi": "Không có phí riêng; đi qua khu vực gần khu bảo tồn Nam Kamchatka nên có quy định/giấy phép tùy tuyến.",
+      "duration_vi": "Khoảng 30-45 phút.",
+      "best_time_vi": "Mùa hè đến đầu thu, kết hợp mùa cá hồi ở hồ Kuril.",
+      "tips_vi": "Vùng sâu, thường tới bằng tour trực thăng hoặc xe địa hình; không trèo/lấy mẫu pumice để bảo vệ di tích."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D1%83%D1%82%D1%85%D0%B8%D0%BD%D1%8B%20%D0%B1%D0%B0%D1%82%D1%8B&ll=156.993074,51.509064&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kutkhiny%20Baty%20%28Pumice%20Cliffs%29%2C%20Kamchatka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Кутхины баты",
+        "url": "https://ru.wikipedia.org/wiki/Кутхины_баты"
+      },
+      {
+        "title": "2GIS — Кутхины баты",
+        "url": "https://2gis.ru/petropavlovsk/geo/70030076222599997"
+      }
+    ],
+    "tags": [
+      "park_garden",
+      "nature",
+      "pumice",
+      "itelmen",
+      "legend",
+      "ust-bolsheretsky",
+      "kamchatka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "kamchatka-blue-lakes-elizovo",
+    "slug": "blue-lakes-elizovo",
+    "region": "kamchatka",
+    "region_name_vi": "Vùng Kamchatka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Hồ Xanh (Golubye Ozyora) gần Elizovo (đọc: Gô-lu-bư-e ô-dyô-ra)",
+    "name_ru": "Голубые озёра",
+    "name_en": "Blue Lakes (Golubye Ozyora)",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 53.156133,
+      "lon": 158.133172
+    },
+    "address_vi": "Vùng núi phía tây nam Elizovo (~20 km), di tích tự nhiên, huyện Elizovsky, Vùng Kamchatka, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Cụm hồ băng nhỏ trong thung lũng núi, nổi tiếng vì làn nước ánh lên màu xanh lam rực rỡ vào đầu hè khi băng dưới đáy chưa tan hết; là một trong những tuyến trekking trong ngày được yêu thích nhất quanh Petropavlovsk.",
+    "presentation_long_vi": "Голубые озёра (Hồ Xanh) là một di tích tự nhiên gồm ba hồ băng nhỏ nằm trong thung lũng núi cách Elizovo khoảng 20 km về phía tây nam. Sức hút đặc biệt của nơi đây đến từ màu nước: vào đầu mùa hè (thường tháng 6 - đầu tháng 7), khi lớp băng và tuyết dưới đáy cùng ven bờ chưa tan hết, ánh sáng phản chiếu khiến mặt hồ ánh lên sắc xanh lam - xanh ngọc rực rỡ đến khó tin, nổi bật giữa rừng và núi tuyết. Đây là một trong những tuyến đi bộ đường dài (trekking) trong ngày phổ biến và dễ chịu nhất gần thủ phủ: đường mòn xuyên qua rừng bạch dương lùn, đồng cỏ hoa và suối, dẫn lên các hồ ở độ cao vừa phải, phù hợp cả với người mới. Cảnh quan yên bình, không khí trong lành cùng màu nước huyền ảo khiến Голубые озёра trở thành điểm đến cuối tuần được cả dân địa phương lẫn du khách ưa thích; về sau hè khi băng tan hết, nước trở lại trong bình thường nên nên đi đúng mùa để thấy màu xanh đặc trưng.",
+    "highlights_vi": [
+      "Cụm hồ băng ánh màu xanh lam rực rỡ vào đầu hè khi băng đáy chưa tan.",
+      "Tuyến trekking trong ngày dễ chịu, phù hợp người mới, gần Elizovo.",
+      "Đường mòn qua rừng bạch dương lùn, đồng hoa và suối núi."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, đi theo mùa (đẹp nhất tháng 6 đến đầu tháng 7).",
+      "ticket_vi": "Miễn phí (khu vực di tích tự nhiên); chi phí là tour/di chuyển tùy chọn.",
+      "duration_vi": "Trekking khứ hồi khoảng nửa ngày (4-6 giờ).",
+      "best_time_vi": "Đầu hè để thấy màu nước xanh đặc trưng.",
+      "tips_vi": "Mang giày trekking, nước, áo ấm; thời tiết núi đổi nhanh; có thể đi cùng nhóm/tour dẫn đường."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%93%D0%BE%D0%BB%D1%83%D0%B1%D1%8B%D0%B5%20%D0%BE%D0%B7%D1%91%D1%80%D0%B0&ll=158.133172,53.156133&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Blue%20Lakes%20%28Golubye%20Ozyora%29%2C%20Kamchatka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Голубые озёра (Камчатка)",
+        "url": "https://ru.wikipedia.org/wiki/Голубые_озёра_(памятник_природы)"
+      },
+      {
+        "title": "OpenStreetMap — Голубые озёра",
+        "url": "https://www.openstreetmap.org/way/379892277"
+      }
+    ],
+    "tags": [
+      "park_garden",
+      "lake",
+      "nature",
+      "trekking",
+      "elizovsky",
+      "kamchatka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "kamchatka-dachnye-hot-springs",
+    "slug": "dachnye-hot-springs",
+    "region": "kamchatka",
+    "region_name_vi": "Vùng Kamchatka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Suối phun hơi Dachnye - 'Thung lũng Mạch nước phun nhỏ' (đọc: Đác-nư-e)",
+    "name_ru": "Дачные источники (Малая долина гейзеров)",
+    "name_en": "Dachnye Hot Springs (Little Valley of Geysers)",
+    "categories": [
+      "other",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 52.533346,
+      "lon": 158.195593
+    },
+    "address_vi": "Sườn bắc núi lửa Mutnovsky, gần nhà máy địa nhiệt Mutnovskaya, huyện Elizovsky, Vùng Kamchatka, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Cánh đồng địa nhiệt sôi sục với các lỗ phun hơi (fumarole), hố bùn sôi và suối nóng bốc khói ngùn ngụt dưới chân núi lửa Mutnovsky; được mệnh danh 'Thung lũng Mạch nước phun nhỏ' và là điểm dừng ấn tượng dễ tới hơn Thung lũng Mạch nước phun thật.",
+    "presentation_long_vi": "Dachnye (Дачные источники), thường được gọi là 'Malaya dolina geyzerov' - Thung lũng Mạch nước phun nhỏ, là một cánh đồng địa nhiệt hoạt động mạnh nằm ở sườn bắc núi lửa Mutnovsky, ngay gần nhà máy điện địa nhiệt Mutnovskaya. Trên một khu vực đầy màu sắc khoáng chất, mặt đất như 'thở': hàng loạt lỗ phun hơi (fumarole) rít lên, phun những cột hơi nóng và khí lưu huỳnh mù mịt; xen kẽ là những hố bùn sôi lục bục, suối nước nóng và mảng đất nhuộm vàng - đỏ - trắng của lưu huỳnh và các khoáng chất. Tuy không có những cột nước phun cao như ở Thung lũng Mạch nước phun thật (vốn nằm sâu trong khu bảo tồn Kronotsky và khó tới), Dachnye lại dễ tiếp cận hơn nhiều nhờ nằm trên tuyến đường tới núi lửa Mutnovsky và Gorely, nên trở thành nơi tuyệt vời để tận mắt chứng kiến hoạt động địa nhiệt của Kamchatka. Khung cảnh hơi nước bốc lên giữa nền núi lửa tạo cảm giác như đang đứng trên một hành tinh khác. Cần đi lại cẩn thận vì mặt đất mỏng, nóng và có khí độc.",
+    "highlights_vi": [
+      "Cánh đồng địa nhiệt với fumarole, bùn sôi và suối nóng dưới chân Mutnovsky.",
+      "'Thung lũng Mạch nước phun nhỏ' - dễ tiếp cận hơn Thung lũng Mạch nước phun thật.",
+      "Đất nhuộm màu lưu huỳnh, hơi nước mù mịt như cảnh quan ngoài hành tinh."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tiếp cận theo mùa (chủ yếu tháng 7-9).",
+      "ticket_vi": "Không có phí riêng; chi phí là tour/xe địa hình tới vùng Mutnovsky.",
+      "duration_vi": "Khoảng 1-1,5 giờ tham quan.",
+      "best_time_vi": "Giữa hè đến đầu thu khi đường thông và tuyết tan.",
+      "tips_vi": "Đi theo lối mòn/hướng dẫn viên; tránh giẫm lên lớp vỏ mỏng nóng; cẩn thận khí lưu huỳnh; mang giày cứng."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%94%D0%B0%D1%87%D0%BD%D1%8B%D0%B5%20%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8%20%28%D0%9C%D0%B0%D0%BB%D0%B0%D1%8F%20%D0%B4%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0%20%D0%B3%D0%B5%D0%B9%D0%B7%D0%B5%D1%80%D0%BE%D0%B2%29&ll=158.195593,52.533346&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Dachnye%20Hot%20Springs%20%28Little%20Valley%20of%20Geysers%29%2C%20Kamchatka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Мутновский",
+        "url": "https://ru.wikipedia.org/wiki/Мутновская_Сопка"
+      },
+      {
+        "title": "Портал «Иди лесом» — Дачные источники",
+        "url": "https://idilesom.com/kam"
+      }
+    ],
+    "tags": [
+      "other",
+      "geothermal",
+      "fumarole",
+      "hot-springs",
+      "mutnovsky",
+      "elizovsky",
+      "kamchatka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "kamchatka-petropavlovsk-lighthouse",
+    "slug": "petropavlovsk-lighthouse",
+    "region": "kamchatka",
+    "region_name_vi": "Vùng Kamchatka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Hải đăng Petropavlovsk (mũi Mayachny) (đọc: Ma-i-ác-nưi)",
+    "name_ru": "Петропавловский маяк",
+    "name_en": "Petropavlovsk Lighthouse (Cape Mayachny)",
+    "categories": [
+      "monument",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 52.8868,
+      "lon": 158.7068
+    },
+    "address_vi": "Mũi Mayachny, cửa vịnh Avacha, thành phố Petropavlovsk-Kamchatsky, Vùng Kamchatka, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Hải đăng cổ nhất vùng Viễn Đông Nga, hoạt động từ giữa thế kỷ XIX, đứng trên mũi Mayachny nơi cửa vịnh Avacha - vừa là cột mốc dẫn tàu vào cảng, vừa là điểm ngắm biển và các tảng đá 'Ba Anh Em' tuyệt đẹp.",
+    "presentation_long_vi": "Hải đăng Petropavlovsk trên mũi Mayachny được xây dựng và đưa vào hoạt động từ giữa thế kỷ XIX (khoảng năm 1850), được xem là ngọn hải đăng đầu tiên và cổ nhất trên bờ Thái Bình Dương của Nga. Suốt gần hai thế kỷ, ngọn đèn đứng nơi cửa vịnh Avacha, dẫn đường an toàn cho tàu thuyền ra vào một trong những vịnh nước sâu đẹp nhất thế giới. Toà tháp cùng khu nhà gác đèn nằm trên mỏm đất cao nhô ra biển, xung quanh là vách đá, đồng cỏ và tầm nhìn khoáng đạt ra Thái Bình Dương, cửa vịnh và các tảng đá nổi tiếng 'Ba Anh Em' (Tri Brata). Với du khách, cung đường tới hải đăng (đi bộ hoặc xe địa hình từ khu Zavoyko) là một trải nghiệm ngắm cảnh tuyệt vời: gió biển, vách đá dựng đứng, chim biển và khả năng bắt gặp cá voi, sư tử biển ngoài khơi. Là công trình đang hoạt động của ngành hàng hải, khu vực có thể hạn chế lại gần tháp đèn, nhưng khung cảnh và giá trị lịch sử khiến đây là điểm đến đáng nhớ ở ngoại vi thành phố.",
+    "highlights_vi": [
+      "Hải đăng cổ nhất vùng Viễn Đông Nga, hoạt động từ khoảng năm 1850.",
+      "Đứng nơi cửa vịnh Avacha, dẫn tàu vào cảng suốt gần hai thế kỷ.",
+      "Điểm ngắm Thái Bình Dương, cửa vịnh và tảng đá 'Ba Anh Em'."
+    ],
+    "practical": {
+      "hours_vi": "Khu vực ngoài trời; tháp đèn là công trình hàng hải đang hoạt động, có thể hạn chế lại gần.",
+      "ticket_vi": "Không có phí; chi phí là di chuyển/tour.",
+      "duration_vi": "Khoảng 1-2 giờ gồm đường đi và ngắm cảnh.",
+      "best_time_vi": "Mùa hè (đường khô, biển đẹp); ngày quang gió nhẹ.",
+      "tips_vi": "Đi từ khu Zavoyko bằng xe địa hình hoặc đi bộ; đường trơn dốc, mang giày tốt và áo chắn gió."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%B0%D1%8F%D0%BA&ll=158.7068,52.8868&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Petropavlovsk%20Lighthouse%20%28Cape%20Mayachny%29%2C%20Kamchatka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Петропавловский маяк",
+        "url": "https://ru.wikipedia.org/wiki/Петропавловский_маяк"
+      },
+      {
+        "title": "Маяки СССР — Петропавловский маяк (мыс Маячный)",
+        "url": "http://www.mayaki-sssr.spb.ru/"
+      }
+    ],
+    "tags": [
+      "monument",
+      "lighthouse",
+      "maritime",
+      "avacha-bay",
+      "viewpoint",
+      "petropavlovsk",
+      "kamchatka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "kamchatka-kultuchnoye-lake",
+    "slug": "kultuchnoye-lake",
+    "region": "kamchatka",
+    "region_name_vi": "Vùng Kamchatka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Hồ Kultuchnoye, Petropavlovsk (đọc: Kun-túch-nô-e)",
+    "name_ru": "Култучное озеро",
+    "name_en": "Kultuchnoye Lake",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 53.029,
+      "lon": 158.6432
+    },
+    "address_vi": "Trung tâm thành phố Petropavlovsk-Kamchatsky, gần Озерновская коса và vịnh Avacha, Vùng Kamchatka, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Hồ nước nhỏ ngay giữa trung tâm Petropavlovsk, nối với vịnh Avacha qua dải cát Озерновская коса; là không gian dạo bộ, thư giãn quen thuộc của cư dân với đường bờ kè, ghế nghỉ và tầm nhìn ra núi lửa.",
+    "presentation_long_vi": "Култучное озеро là hồ nước nằm ngay tại trung tâm lịch sử của Petropavlovsk-Kamchatsky, thông với vịnh Avacha qua dải cát hẹp Озерновская коса. Là một phần không thể tách rời của cảnh quan đô thị, mặt hồ phẳng lặng phản chiếu bầu trời, những dãy nhà và - vào ngày quang - cả bóng các ngọn núi lửa bao quanh thành phố. Sau khi khu vực ven hồ được chỉnh trang, đường bờ kè, lối đi bộ, ghế nghỉ và cây xanh biến nơi đây thành chốn dạo chơi, tập thể dục và ngắm cảnh yêu thích của người dân; nhiều điểm tham quan trung tâm - quảng trường, bảo tàng, tượng đài các nhà hàng hải, tượng hai Thánh Tông đồ - đều nằm trong bán kính đi bộ quanh hồ. Với du khách, một vòng dạo quanh Kultuchnoye là cách dễ chịu để cảm nhận nhịp sống thường ngày của thủ phủ Kamchatka, kết hợp chụp ảnh khung cảnh 'hồ - vịnh - núi lửa' rất đặc trưng. Vào mùa đông hồ đóng băng, tạo nên khung cảnh trắng xoá thanh bình giữa lòng phố.",
+    "highlights_vi": [
+      "Hồ nằm giữa trung tâm thành phố, nối vịnh Avacha qua dải cát Озерновская коса.",
+      "Bờ kè, lối đi bộ và ghế nghỉ - điểm dạo chơi, tập thể dục của cư dân.",
+      "Khung cảnh 'hồ - vịnh - núi lửa' đặc trưng, gần nhiều điểm tham quan trung tâm."
+    ],
+    "practical": {
+      "hours_vi": "Không gian mở ven hồ, tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 30-45 phút dạo quanh.",
+      "best_time_vi": "Quanh năm; hè dễ chịu, đông có băng phủ đẹp.",
+      "tips_vi": "Kết hợp tham quan cụm trung tâm: tượng đài các nhà hàng hải, tượng Phêrô - Phaolô, quảng trường."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D1%83%D0%BB%D1%82%D1%83%D1%87%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B7%D0%B5%D1%80%D0%BE&ll=158.6432,53.029&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kultuchnoye%20Lake%2C%20Kamchatka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Култучное озеро",
+        "url": "https://ru.wikipedia.org/wiki/Култучное_озеро"
+      },
+      {
+        "title": "OpenStreetMap — Култучное озеро",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "tags": [
+      "park_garden",
+      "lake",
+      "city-center",
+      "promenade",
+      "petropavlovsk",
+      "kamchatka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "kamchatka-nachikinskoye-lake",
+    "slug": "nachikinskoye-lake",
+    "region": "kamchatka",
+    "region_name_vi": "Vùng Kamchatka",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Hồ Nachikinskoye (đọc: Na-chi-kin-xcô-e)",
+    "name_ru": "Начикинское озеро",
+    "name_en": "Nachikinskoye Lake",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 53.020122,
+      "lon": 157.826399
+    },
+    "address_vi": "Gần làng Nachiki, trên tuyến đường Petropavlovsk - Milkovo, huyện Elizovsky, Vùng Kamchatka, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Hồ nước phong cảnh hữu tình bên đường quốc lộ gần làng Nachiki, được bao bọc bởi núi và rừng; là bãi đẻ của cá hồi, điểm câu cá và dừng chân ngắm cảnh quen thuộc trên hành trình vào trung tâm bán đảo.",
+    "presentation_long_vi": "Начикинское озеро là một hồ nước đẹp nằm gần làng Nachiki, ngay bên tuyến đường chính nối Petropavlovsk với các huyện miền trung bán đảo (hướng Milkovo/Esso). Hồ nông, trải rộng giữa thung lũng, được bao quanh bởi những dãy núi thấp và rừng bạch dương - taiga, cho khung cảnh phản chiếu mặt nước rất nên thơ, thay sắc theo mùa. Đây là một hồ có ý nghĩa sinh thái: nước hồ và các con suối đổ vào là nơi cá hồi lên đẻ, kéo theo hệ sinh vật phong phú; vào mùa, hồ là điểm câu cá được ưa chuộng và cũng thu hút chim nước. Nằm cạnh khu Nachiki vốn nổi tiếng với suối nước nóng, hồ là một điểm dừng chân dễ chịu để duỗi chân, chụp ảnh và ngắm cảnh giữa chặng đường dài. Với du khách đi tour vào Esso hay vùng trung tâm, Начикинское озеро cùng vùng Nachiki tạo thành một chặng nghỉ đẹp, giới thiệu vẻ dịu dàng của thiên nhiên Kamchatka bên cạnh những núi lửa dữ dội.",
+    "highlights_vi": [
+      "Hồ phong cảnh bên quốc lộ gần làng Nachiki, núi rừng bao quanh.",
+      "Bãi đẻ của cá hồi, điểm câu cá và ngắm chim nước theo mùa.",
+      "Chặng dừng chân đẹp trên đường vào Esso và vùng trung tâm bán đảo."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tự do mọi lúc; câu cá theo quy định mùa vụ.",
+      "ticket_vi": "Miễn phí ngắm cảnh; câu cá có thể cần giấy phép tùy khu vực/mùa.",
+      "duration_vi": "Khoảng 20-40 phút dừng chân.",
+      "best_time_vi": "Cuối xuân đến đầu thu; mùa cá hồi nhộn nhịp.",
+      "tips_vi": "Nằm trên tuyến Petropavlovsk - Milkovo; kết hợp tắm suối nước nóng Nachiki gần đó."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%B0%D1%87%D0%B8%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B5%20%D0%BE%D0%B7%D0%B5%D1%80%D0%BE&ll=157.826399,53.020122&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Nachikinskoye%20Lake%2C%20Kamchatka%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Начики",
+        "url": "https://ru.wikipedia.org/wiki/Начики"
+      },
+      {
+        "title": "OpenStreetMap — Начикинское озеро",
+        "url": "https://www.openstreetmap.org/node/11961784269"
+      }
+    ],
+    "tags": [
+      "park_garden",
+      "lake",
+      "nature",
+      "fishing",
+      "nachiki",
+      "elizovsky",
+      "kamchatka"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
   }
 ]

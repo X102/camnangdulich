@@ -2035,5 +2035,889 @@
     "status": "enriched",
     "last_updated": "2026-07-28",
     "country": "russia"
+  },
+  {
+    "id": "murmansk-murmansk-semyonovskoye-lake",
+    "slug": "murmansk-semyonovskoye-lake",
+    "region": "murmansk",
+    "region_name_vi": "Tỉnh Murmansk",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Hồ Semyonovskoye ở Murmansk (Semyonovskoye ozero)",
+    "name_ru": "Семёновское озеро",
+    "name_en": "Lake Semyonovskoye",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 68.97286,
+      "lon": 33.08539
+    },
+    "address_vi": "Quận Leninsky, phần phía bắc thành phố Murmansk, Tỉnh Murmansk.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Hồ nước tự nhiên nằm ngay trong lòng thành phố Murmansk, là khu vui chơi - nghỉ ngơi được yêu thích nhất của người dân. Quanh hồ có bờ kè dạo bộ, công viên trò chơi, vòng đu quay và thuỷ cung Murmansk bên bờ nước.",
+    "presentation_long_vi": "Nằm ở quận Leninsky phía bắc thành phố, Hồ Semyonovskoye là lá phổi xanh và không gian giải trí trung tâm của Murmansk. Theo truyền thuyết địa phương, hồ mang tên ông lão đánh cá Semyon Korzhnev từng sống ẩn dật một mình bên bờ nước. Ngày nay bờ hồ đã được cải tạo thành một quần thể dạo bộ hiện đại với lối đi lát đá, đài phun nước, sân khấu ngoài trời, khu vui chơi trẻ em và một vòng đu quay lớn cho tầm nhìn toàn cảnh thành phố. Ngay bên hồ là Thuỷ cung Murmansk - thuỷ cung ở cực bắc nhất châu Âu. Vào mùa hè vùng cực với những ngày trắng không đêm, mặt hồ phản chiếu ánh sáng dịu và trở thành nơi người dân đi dạo, chèo thuyền, câu cá; mùa đông hồ đóng băng và biến thành sân trượt tự nhiên. Đây là điểm dừng chân thư thái, dễ tiếp cận ngay giữa đô thị lớn nhất sau Vòng Bắc Cực.",
+    "highlights_vi": [
+      "Hồ tự nhiên giữa lòng thành phố - khu nghỉ ngơi, dạo bộ được yêu thích nhất Murmansk.",
+      "Bờ kè cải tạo hiện đại với công viên trò chơi và vòng đu quay ngắm toàn cảnh.",
+      "Thuỷ cung Murmansk - thuỷ cung cực bắc nhất châu Âu - nằm ngay bên hồ."
+    ],
+    "practical": {
+      "hours_vi": "Không gian ngoài trời, tham quan tự do mọi lúc; công viên trò chơi mở theo mùa.",
+      "ticket_vi": "Vào công viên miễn phí; trò chơi và thuỷ cung có vé riêng.",
+      "duration_vi": "Khoảng 1–2 giờ.",
+      "best_time_vi": "Mùa hè (đêm trắng) để dạo bộ; mùa đông cho cảnh băng tuyết.",
+      "tips_vi": "Kết hợp thăm Thuỷ cung Murmansk bên hồ; mặc ấm kể cả mùa hè."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%B5%D0%BC%D1%91%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B5%20%D0%BE%D0%B7%D0%B5%D1%80%D0%BE&ll=33.08539,68.97286&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Lake%20Semyonovskoye%2C%20Murmansk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Семёновское озеро",
+        "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BC%D1%91%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B5_%D0%BE%D0%B7%D0%B5%D1%80%D0%BE"
+      },
+      {
+        "title": "Openarium — Семёновское озеро в Мурманске",
+        "url": "https://openarium.ru/poi/62594966/"
+      }
+    ],
+    "tags": [
+      "park_garden",
+      "lake",
+      "city-park",
+      "recreation",
+      "murmansk",
+      "arctic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "murmansk-murmansk-waiting-monument",
+    "slug": "murmansk-waiting-monument",
+    "region": "murmansk",
+    "region_name_vi": "Tỉnh Murmansk",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Tượng đài «Người phụ nữ chờ đợi» (Zhduschaya)",
+    "name_ru": "Памятник «Ждущая»",
+    "name_en": "The Waiting Woman Monument",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 68.999797,
+      "lon": 33.064331
+    },
+    "address_vi": "Ул. Чумбарова-Лучинского, khu Rosta, phía bắc thành phố Murmansk, bên vịnh Kola.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Tượng đồng người phụ nữ hướng ra vịnh Kola, biểu tượng của những người vợ, người mẹ chờ đợi thuỷ thủ và ngư dân trở về từ biển. Khánh thành năm 2012, đây là một trong những đài tưởng niệm giàu cảm xúc nhất của thành phố cảng.",
+    "presentation_long_vi": "Đứng lặng lẽ bên bờ vịnh Kola ở phía bắc Murmansk, tượng đài «Ждущая» (Người đàn bà chờ đợi) khắc hoạ hình một người phụ nữ dõi mắt ra biển, mong ngóng con tàu đưa người thân trở về. Với một thành phố mà cuộc sống gắn liền với biển - hạm đội, đội tàu cá, những chuyến đi biển dài ngày - hình ảnh người phụ nữ chờ chồng, chờ con là một phần sâu thẳm của ký ức tập thể. Bức tượng đồng cao khoảng 3 mét do các nhà điêu khắc Igor Chumakov và Yuri Anushko thực hiện, đúc tại Smolensk, và khánh thành ngày 10 tháng 11 năm 2012. Tượng được đặt ở vị trí nhìn thẳng ra mặt nước, như đang «đón» và «tiễn» những con tàu ra vào cảng Murmansk. Đây trở thành nơi các cặp đôi mới cưới và du khách tới chụp ảnh, tưởng nhớ và suy ngẫm về cái giá của biển cả đối với những gia đình miền Bắc.",
+    "highlights_vi": [
+      "Tượng đồng cao ~3 m khắc hoạ người phụ nữ chờ người thân trở về từ biển.",
+      "Khánh thành 10/11/2012, tác giả I. Chumakov và Yu. Anushko, đúc tại Smolensk.",
+      "Đặt bên vịnh Kola, biểu tượng cảm động cho các gia đình thuỷ thủ, ngư dân."
+    ],
+    "practical": {
+      "hours_vi": "Không gian ngoài trời, tham quan tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 15–20 phút.",
+      "best_time_vi": "Mùa hè (đêm trắng); hoàng hôn trên vịnh Kola rất đẹp.",
+      "tips_vi": "Vị trí ở khu Rosta phía bắc thành phố; đi kèm ngắm cảnh vịnh Kola."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%C2%AB%D0%96%D0%B4%D1%83%D1%89%D0%B0%D1%8F%C2%BB&ll=33.064331,68.999797&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=The%20Waiting%20Woman%20Monument%2C%20Murmansk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "2ГИС — Памятник «Ждущая», Мурманск",
+        "url": "https://2gis.ru/murmansk/geo/13511494666813469"
+      },
+      {
+        "title": "Туристический портал Мурманска — Памятник «Ждущая»",
+        "url": "https://tour.citymurmansk.ru/dostoprimechatelnosti/9-dostoprimechatelnosti-goroda-murmanska/143-pamyatnik-zhdushchaya"
+      }
+    ],
+    "tags": [
+      "monument",
+      "bronze",
+      "sea",
+      "memorial",
+      "murmansk",
+      "kola-bay"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "murmansk-murmansk-cod-monument",
+    "slug": "murmansk-cod-monument",
+    "region": "murmansk",
+    "region_name_vi": "Tỉnh Murmansk",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Tượng đài Cá tuyết (Pamyatnik Treske)",
+    "name_ru": "Памятник треске",
+    "name_en": "The Cod Monument",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 68.969466,
+      "lon": 33.07828
+    },
+    "address_vi": "Vườn hoa trung tâm gần Quảng trường Năm Góc, khu vực ул. Пушкинская, thành phố Murmansk.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bức tượng con cá tuyết kích thước thật (~1,2 m) tôn vinh loài cá đã nuôi sống thành phố qua những năm tháng khó khăn. Cá tuyết là biểu tượng trên huy hiệu Murmansk, và đài tưởng niệm này được dựng năm 2015 bằng tiền quyên góp của chính người dân.",
+    "presentation_long_vi": "Nằm trong một vườn hoa nhỏ ở trung tâm Murmansk gần Quảng trường Năm Góc, Tượng đài Cá tuyết là một trong những biểu tượng đáng yêu và giàu ý nghĩa của thành phố. Con cá tuyết bằng đồng được tạc đúng kích thước thật - khoảng 1 mét 20 - đặt trên bệ, tôn vinh loài cá gắn bó mật thiết với lịch sử và kinh tế của Murmansk. Là một thành phố cảng cá lớn của Liên Xô và nước Nga, Murmansk từng sống nhờ nghề đánh bắt cá tuyết ở biển Barents; trong những năm chiến tranh và đói kém, chính cá tuyết đã giúp thành phố và cả vùng đứng vững. Không phải ngẫu nhiên mà loài cá này hiện diện trên huy hiệu Murmansk. Tượng đài được khánh thành năm 2015 bằng nguồn tiền do người dân tự nguyện đóng góp - một chi tiết cho thấy tình cảm của cư dân dành cho «người bạn» dưới biển. Với du khách, đây là điểm dừng thú vị để hiểu thêm về căn tính biển cả của Murmansk.",
+    "highlights_vi": [
+      "Tượng cá tuyết bằng đồng kích thước thật (~1,2 m) - biểu tượng trên huy hiệu thành phố.",
+      "Tôn vinh loài cá đã nuôi sống Murmansk qua những năm chiến tranh, khó khăn.",
+      "Khánh thành năm 2015 bằng tiền quyên góp của chính người dân."
+    ],
+    "practical": {
+      "hours_vi": "Không gian ngoài trời, tham quan tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 10–15 phút.",
+      "best_time_vi": "Quanh năm.",
+      "tips_vi": "Nằm gần Quảng trường Năm Góc; dễ kết hợp dạo trung tâm Murmansk."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%D1%82%D1%80%D0%B5%D1%81%D0%BA%D0%B5&ll=33.07828,68.969466&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=The%20Cod%20Monument%2C%20Murmansk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "murmansk.travel — Памятник треске",
+        "url": "https://murmansk.travel/places/21"
+      },
+      {
+        "title": "Sputnik8 — Памятник треске, Мурманск",
+        "url": "https://www.sputnik8.com/ru/murmansk/sights/pamyatnik-treske/info"
+      }
+    ],
+    "tags": [
+      "monument",
+      "bronze",
+      "fishing",
+      "city-symbol",
+      "murmansk",
+      "cod"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "murmansk-murmansk-railway-station",
+    "slug": "murmansk-railway-station",
+    "region": "murmansk",
+    "region_name_vi": "Tỉnh Murmansk",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Ga đường sắt Murmansk (Zheleznodorozhny vokzal)",
+    "name_ru": "Железнодорожный вокзал Мурманска",
+    "name_en": "Murmansk Railway Station",
+    "categories": [
+      "other",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 68.971855,
+      "lon": 33.069852
+    },
+    "address_vi": "Ул. Коминтерна, 14, thành phố Murmansk, Tỉnh Murmansk.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhà ga đường sắt của Murmansk - một trong những ga hành khách ở cực bắc nhất thế giới - và là điểm cuối của tuyến đường sắt Murman huyền thoại. Toà nhà ga hiện nay xây dựng năm 1954 theo phong cách 'Đế chế Stalin' bề thế, là công trình mốc ở lối vào thành phố.",
+    "presentation_long_vi": "Ga đường sắt Murmansk là cửa ngõ trên bộ của thành phố và là một trong những nhà ga hành khách nằm ở cực bắc nhất thế giới. Ga ra đời cùng tuyến đường sắt Murman năm 1916 - chính tuyến đường sắt này đã khai sinh ra Murmansk, thành phố cuối cùng được thành lập dưới thời Đế quốc Nga. Toà nhà ga đồ sộ hiện nay được dựng năm 1954 theo phong cách tân cổ điển «Đế chế Stalin» với mặt tiền màu sáng, hàng cột, tháp nhọn và sảnh trần cao trang trí công phu - một điểm nhấn kiến trúc ngay tại Quảng trường Trước ga. Từ đây, những chuyến tàu đường dài nối Murmansk với Saint Petersburg và Moskva xuyên qua vùng Karelia và bán đảo Kola, đưa du khách tới với «thủ đô của Bắc Cực Nga». Với nhiều người, khoảnh khắc bước ra khỏi ga và nhìn thấy dòng chữ tên thành phố ở vĩ độ gần 69° Bắc chính là dấu mốc bắt đầu hành trình phương Bắc.",
+    "highlights_vi": [
+      "Một trong những ga hành khách ở cực bắc nhất thế giới; điểm cuối tuyến đường sắt Murman.",
+      "Toà nhà ga xây năm 1954 theo phong cách 'Đế chế Stalin' bề thế.",
+      "Cửa ngõ trên bộ nối Murmansk với Saint Petersburg và Moskva."
+    ],
+    "practical": {
+      "hours_vi": "Mở phục vụ hành khách theo lịch tàu (thường cả ngày).",
+      "ticket_vi": "Vào ga tự do; mua vé tàu theo hành trình.",
+      "duration_vi": "Khoảng 15–20 phút (ngắm kiến trúc).",
+      "best_time_vi": "Quanh năm.",
+      "tips_vi": "Nằm ngay trung tâm, sát bến tàu biển; tiện làm điểm khởi đầu khám phá Murmansk."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D1%8B%D0%B9%20%D0%B2%D0%BE%D0%BA%D0%B7%D0%B0%D0%BB%20%D0%9C%D1%83%D1%80%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B0&ll=33.069852,68.971855&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Murmansk%20Railway%20Station%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "2ГИС — Вокзал Мурманск, ул. Коминтерна, 14",
+        "url": "https://2gis.ru/murmansk/firm/13511327163090579"
+      },
+      {
+        "title": "RUSSPASS — Железнодорожный вокзал Мурманска",
+        "url": "https://russpass.ru/place/672c6a80f397f246965d20dd"
+      }
+    ],
+    "tags": [
+      "other",
+      "monument",
+      "railway",
+      "stalin-architecture",
+      "landmark",
+      "murmansk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "murmansk-murmansk-sea-terminal",
+    "slug": "murmansk-sea-terminal",
+    "region": "murmansk",
+    "region_name_vi": "Tỉnh Murmansk",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Bến tàu biển Murmansk (Morskoy vokzal)",
+    "name_ru": "Морской вокзал Мурманска",
+    "name_en": "Murmansk Sea Terminal",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 68.975506,
+      "lon": 33.063236
+    },
+    "address_vi": "Портовый проезд, 25, bên vịnh Kola, trung tâm thành phố Murmansk.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bến tàu khách bên vịnh Kola ngay trung tâm thành phố - điểm khởi hành của các chuyến du hành Bắc Cực và là nơi neo đậu bảo tàng tàu phá băng nguyên tử 'Lenin'. Cửa ngõ hướng ra Tuyến đường Biển phương Bắc.",
+    "presentation_long_vi": "Nằm bên bờ vịnh Kola ngay trung tâm Murmansk, Bến tàu biển (Morskoy vokzal) là trái tim hàng hải của thành phố cảng lớn nhất Bắc Cực. Đây là nơi cập bến và khởi hành của các tàu khách, và đặc biệt là điểm xuất phát của những hành trình du lịch Bắc Cực nổi tiếng - trong đó có các chuyến đi bằng tàu phá băng nguyên tử tới quần đảo Franz Josef Land và tới đúng điểm Cực Bắc địa lý. Ngay sát bến là con tàu huyền thoại: tàu phá băng chạy bằng năng lượng hạt nhân đầu tiên trên thế giới «Lenin», nay là bảo tàng nổi mà du khách có thể lên tham quan. Từ Bến tàu biển, tầm mắt mở ra khung cảnh vịnh Kola tấp nập tàu bè, cần cẩu cảng và những sườn đồi bao quanh. Nằm cách ga đường sắt chỉ vài phút đi bộ, đây là một mắt xích quan trọng trong hành trình khám phá Murmansk và là biểu tượng cho vai trò của thành phố như cửa ngõ của Tuyến đường Biển phương Bắc.",
+    "highlights_vi": [
+      "Bến tàu khách bên vịnh Kola, điểm khởi hành các chuyến du hành Bắc Cực (Franz Josef Land, Cực Bắc).",
+      "Tàu phá băng nguyên tử 'Lenin' - bảo tàng nổi - neo đậu ngay bên cạnh.",
+      "Cửa ngõ của Tuyến đường Biển phương Bắc; cách ga đường sắt vài phút đi bộ."
+    ],
+    "practical": {
+      "hours_vi": "Khu bến mở ban ngày; tham quan tàu Lenin theo tour có lịch riêng.",
+      "ticket_vi": "Vào khu bến tự do; tham quan tàu phá băng Lenin có vé.",
+      "duration_vi": "Khoảng 30–60 phút (kèm tàu Lenin).",
+      "best_time_vi": "Mùa hè cho cảnh vịnh và các chuyến du hành.",
+      "tips_vi": "Đặt trước tour tàu Lenin; kết hợp ga đường sắt gần đó; kiểm tra lịch tàu du lịch."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B2%D0%BE%D0%BA%D0%B7%D0%B0%D0%BB%20%D0%9C%D1%83%D1%80%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B0&ll=33.063236,68.975506&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Murmansk%20Sea%20Terminal%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Tripster — Морской вокзал в Мурманске",
+        "url": "https://experience.tripster.ru/sights/morskoj-vokzal-v-murmanske/"
+      },
+      {
+        "title": "2ГИС — Морской вокзал, Портовый проезд, 25",
+        "url": "https://2gis.ru/murmansk/firm/13511327163092392"
+      }
+    ],
+    "tags": [
+      "other",
+      "sea-port",
+      "arctic-cruises",
+      "icebreaker",
+      "murmansk",
+      "kola-bay"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "murmansk-northern-fleet-drama-theatre",
+    "slug": "northern-fleet-drama-theatre",
+    "region": "murmansk",
+    "region_name_vi": "Tỉnh Murmansk",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Nhà hát kịch Hạm đội Phương Bắc (Dramaticheskiy teatr Severnogo flota)",
+    "name_ru": "Драматический театр Северного флота",
+    "name_en": "Northern Fleet Drama Theatre",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 68.904589,
+      "lon": 33.09333
+    },
+    "address_vi": "Кольский проспект, 186, thành phố Murmansk, Tỉnh Murmansk.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhà hát kịch của Hạm đội Phương Bắc - nhà hát kịch quân đội - hải quân độc đáo, thành lập năm 1933. Từng biểu diễn phục vụ thuỷ thủ ngoài mặt trận thời Thế chiến II, nay là một trong những sân khấu lâu đời và đặc sắc nhất vùng cực bắc.",
+    "presentation_long_vi": "Được thành lập ngày 8 tháng 12 năm 1933 theo mệnh lệnh của Đội tàu Quân sự phương Bắc, Nhà hát kịch Hạm đội Phương Bắc là nhà hát kịch chuyên nghiệp của một hạm đội hải quân - một hiện tượng hiếm có trong đời sống sân khấu. Có được vị thế chuyên nghiệp từ năm 1935, đoàn kịch phục vụ trước hết cho các thuỷ thủ, sĩ quan và gia đình quân nhân của Hạm đội Phương Bắc. Trong những năm Chiến tranh Vệ quốc Vĩ đại, các nghệ sĩ của nhà hát đã lưu diễn ngay tại các căn cứ, tàu chiến và trận địa ở vùng Bắc Cực, mang nghệ thuật đến với người lính giữa mưa bom bão đạn. Năm 1987 nhà hát chuyển về toà nhà hiện nay trên đại lộ Kolsky. Ngày nay sân khấu dàn dựng kịch kinh điển Nga và thế giới, các vở về đề tài biển - hải quân, hài kịch và chương trình cho thiếu nhi, tiếp nối truyền thống gần một thế kỷ. Với du khách, một buổi tối ở đây là dịp cảm nhận đời sống văn hoá đặc trưng của thành phố hải quân.",
+    "highlights_vi": [
+      "Nhà hát kịch của một hạm đội hải quân - hiện tượng hiếm có, thành lập năm 1933.",
+      "Nghệ sĩ từng lưu diễn phục vụ thuỷ thủ ngoài mặt trận Bắc Cực thời Thế chiến II.",
+      "Chuyển về toà nhà trên đại lộ Kolsky năm 1987; vẫn hoạt động sôi nổi."
+    ],
+    "practical": {
+      "hours_vi": "Diễn theo lịch mùa (thường buổi tối, cuối tuần); phòng vé giờ hành chính.",
+      "ticket_vi": "Mua vé theo buổi diễn, giá bình dân.",
+      "duration_vi": "Mỗi buổi khoảng 2 giờ.",
+      "best_time_vi": "Mùa diễn thu–xuân.",
+      "tips_vi": "Xem lịch và đặt vé trước; nằm trên đại lộ Kolsky, khu Pervomaysky."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%94%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D1%82%D0%B5%D0%B0%D1%82%D1%80%20%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%84%D0%BB%D0%BE%D1%82%D0%B0&ll=33.09333,68.904589&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Northern%20Fleet%20Drama%20Theatre%2C%20Murmansk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Драматический театр Северного флота",
+        "url": "https://ru.wikipedia.org/wiki/%D0%94%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE_%D1%84%D0%BB%D0%BE%D1%82%D0%B0"
+      },
+      {
+        "title": "Культура.РФ — Драматический театр Северного флота",
+        "url": "https://www.culture.ru/institutes/21328/dramaticheskii-teatr-severnogo-flota"
+      }
+    ],
+    "tags": [
+      "theatre",
+      "drama",
+      "navy",
+      "northern-fleet",
+      "murmansk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "murmansk-bolshoy-vudyavr-ski-resort",
+    "slug": "bolshoy-vudyavr-ski-resort",
+    "region": "murmansk",
+    "region_name_vi": "Tỉnh Murmansk",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Khu trượt tuyết Bolshoy Vudyavr ở Kirovsk",
+    "name_ru": "Горнолыжный комплекс «Большой Вудъявр»",
+    "name_en": "Bolshoy Vudyavr Ski Resort",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 67.609943,
+      "lon": 33.695349
+    },
+    "address_vi": "Sườn bắc núi Aikuayvenchorr, thành phố Kirovsk, dãy Khibiny, Tỉnh Murmansk.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Khu trượt tuyết lớn nhất phía trên Vòng Bắc Cực của nước Nga, trải trên hai sườn núi Aikuayvenchorr ở dãy Khibiny. Mùa trượt kéo dài nhiều tháng nhờ khí hậu cực, có thể trượt tuyết dưới ánh cực quang.",
+    "presentation_long_vi": "Nằm ngay cạnh thành phố mỏ Kirovsk dưới chân dãy núi Khibiny, «Bolshoy Vudyavr» là khu trượt tuyết lớn nhất và nổi tiếng nhất của nước Nga nằm phía trên Vòng Bắc Cực. Các đường trượt trải trên cả hai sườn bắc và nam của núi Aikuayvenchorr, phục vụ đủ trình độ từ người mới học đến dân trượt chuyên nghiệp, với hệ thống cáp treo, cabin và nhiều đường trượt được chuẩn bị kỹ. Điều khiến nơi đây đặc biệt là khí hậu vùng cực: tuyết dày và mùa trượt kéo dài từ khoảng cuối tháng 11 đến tận tháng 5 - đầu tháng 6, dài hơn hẳn phần lớn khu trượt khác. Vào đầu và cuối mùa, du khách còn có cơ hội trượt tuyết dưới bầu trời rực rỡ cực quang, hoặc tận hưởng ánh sáng mặt trời lúc nửa đêm của những ngày trắng. Ngoài các đường piste, Khibiny cũng là thánh địa của trượt tuyết ngoài đường (freeride) và ski-tour. Bolshoy Vudyavr biến Kirovsk thành một trong những trung tâm du lịch mùa đông hàng đầu của miền Bắc nước Nga.",
+    "highlights_vi": [
+      "Khu trượt tuyết lớn nhất nước Nga phía trên Vòng Bắc Cực, trên núi Aikuayvenchorr (Khibiny).",
+      "Mùa trượt dài (cuối tháng 11 đến tháng 5–6) nhờ khí hậu cực; có freeride và ski-tour.",
+      "Cơ hội trượt tuyết dưới ánh cực quang hoặc mặt trời nửa đêm."
+    ],
+    "practical": {
+      "hours_vi": "Mở theo mùa trượt tuyết (khoảng tháng 11–5); giờ chạy cáp theo lịch khu.",
+      "ticket_vi": "Mua ski-pass theo buổi/ngày; thuê đồ và huấn luyện có phí.",
+      "duration_vi": "Nửa ngày đến vài ngày.",
+      "best_time_vi": "Tháng 2–4 (ngày dài, tuyết tốt); đầu/cuối mùa có cực quang.",
+      "tips_vi": "Cách trung tâm Kirovsk vài km; đặt thuê đồ trước vào cao điểm; theo dõi dự báo thời tiết vùng núi."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%93%D0%BE%D1%80%D0%BD%D0%BE%D0%BB%D1%8B%D0%B6%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%20%C2%AB%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9%20%D0%92%D1%83%D0%B4%D1%8A%D1%8F%D0%B2%D1%80%C2%BB&ll=33.695349,67.609943&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Bolshoy%20Vudyavr%20Ski%20Resort%2C%20Murmansk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "murmansk.travel — Горнолыжный курорт «Большой Вудъявр»",
+        "url": "https://murmansk.travel/places/16"
+      },
+      {
+        "title": "Tourister.ru — Горнолыжный комплекс «Большой Вудъявр»",
+        "url": "https://www.tourister.ru/world/europe/russia/city/kirovsk/snow/31389"
+      }
+    ],
+    "tags": [
+      "other",
+      "ski-resort",
+      "khibiny",
+      "winter-sports",
+      "aurora",
+      "kirovsk",
+      "arctic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "murmansk-kanozero-petroglyphs",
+    "slug": "kanozero-petroglyphs",
+    "region": "murmansk",
+    "region_name_vi": "Tỉnh Murmansk",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Bãi khắc đá cổ Kanozero (Petroglify Kanozera)",
+    "name_ru": "Петроглифы Канозера (музей-заповедник)",
+    "name_en": "Kanozero Petroglyphs",
+    "categories": [
+      "monument",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 66.681101,
+      "lon": 34.341918
+    },
+    "address_vi": "Bảo tàng ở ул. Дзержинского, 36, посёлок Умба; các hình khắc nằm trên các đảo của hồ Kanozero, huyện Tersky, Tỉnh Murmansk.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Quần thể hơn 1.200 hình khắc trên đá có niên đại thiên niên kỷ IV–II trước Công nguyên, nằm trên các đảo của hồ Kanozero. Được phát hiện năm 1997, đây là một trong những di tích nghệ thuật đá cổ quan trọng nhất phương Bắc nước Nga, có bảo tàng - khu bảo tồn ở thị trấn Umba.",
+    "presentation_long_vi": "Ẩn mình trên các đảo đá của hồ Kanozero thuộc huyện Tersky, các hình khắc đá Kanozero là kho báu khảo cổ hàng đầu của Tỉnh Murmansk. Được phát hiện năm 1997, bộ sưu tập gồm hơn 1.200 hình khắc (petroglyph) có niên đại từ thiên niên kỷ IV đến II trước Công nguyên, phân bố trên các đảo Kamenny (Skalisty), Gorely (Bolshoy Podmunsky), Elovy (Maly Podmunsky) và trên vách đá ven bờ Odinokaya. Những người thợ săn - đánh cá thời đồ đá đã khắc lên mặt đá hình người, thuyền, hươu nai, cá voi trắng, gấu, cảnh săn bắn và các biểu tượng nghi lễ khó giải; riêng đảo Kamenny đã có hơn 600 hình. Đây là chứng tích sống động về đời sống tâm linh và tín ngưỡng của cư dân cổ vùng bán đảo Kola. Di tích được công nhận là đối tượng di sản văn hoá cấp liên bang, và trên nhóm hình chính người ta dựng mái che bảo vệ. Để tìm hiểu, du khách bắt đầu từ bảo tàng - khu bảo tồn «Petroglify Kanozera» đặt tại thị trấn Umba; việc ra tận các đảo cần thuyền và hướng dẫn.",
+    "highlights_vi": [
+      "Hơn 1.200 hình khắc đá niên đại thiên niên kỷ IV–II TCN trên các đảo hồ Kanozero.",
+      "Phát hiện năm 1997; hình thuyền, hươu nai, cá voi trắng, người và cảnh săn bắn.",
+      "Di sản văn hoá cấp liên bang; có bảo tàng - khu bảo tồn ở thị trấn Umba."
+    ],
+    "practical": {
+      "hours_vi": "Bảo tàng ở Umba mở theo lịch (nên gọi trước); ra đảo xem petroglyph theo tour mùa hè.",
+      "ticket_vi": "Vé bảo tàng bình dân; tour ra đảo có phí (thuyền, hướng dẫn).",
+      "duration_vi": "Bảo tàng ~1 giờ; tour ra hồ Kanozero cả ngày.",
+      "best_time_vi": "Mùa hè (tháng 7–8) khi hồ thông thuyền.",
+      "tips_vi": "Liên hệ bảo tàng-заповедник ở Umba để sắp xếp ra đảo; đường tới Umba xa, nên đi ô tô."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B3%D0%BB%D0%B8%D1%84%D1%8B%20%D0%9A%D0%B0%D0%BD%D0%BE%D0%B7%D0%B5%D1%80%D0%B0%20%28%D0%BC%D1%83%D0%B7%D0%B5%D0%B9-%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA%29&ll=34.341918,66.681101&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kanozero%20Petroglyphs%2C%20Murmansk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Терский район — Петроглифы Канозера",
+        "url": "https://terskyrayon.gov-murman.ru/tourism/ru/what-to-do/showplaces/natural-objects/petroglify-kanozera/"
+      },
+      {
+        "title": "umbatravel.ru — Музей наскального искусства «Петроглифы Канозера»",
+        "url": "https://umbatravel.ru/showplaces/mak_mzei_naskalnogo_isksstva_petroglifi_kanozera"
+      },
+      {
+        "title": "murmansk.travel — Канозерские петроглифы",
+        "url": "https://murmansk.travel/news/416"
+      }
+    ],
+    "tags": [
+      "monument",
+      "museum",
+      "petroglyphs",
+      "rock-art",
+      "archaeology",
+      "kanozero",
+      "umba",
+      "tersky"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "murmansk-kuzomen-sands",
+    "slug": "kuzomen-sands",
+    "region": "murmansk",
+    "region_name_vi": "Tỉnh Murmansk",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Làng Kuzomen và sa mạc cát (Kuzomenskie peski)",
+    "name_ru": "Кузомень и Кузоменьские пески",
+    "name_en": "Kuzomen Village and Sands",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 66.28691,
+      "lon": 36.867129
+    },
+    "address_vi": "Làng Kuzomen (Кузомень), huyện Tersky, cửa sông Varzuga, bờ Bạch Hải, Tỉnh Murmansk.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Làng chài Pomor cổ ở cửa sông Varzuga, nổi tiếng vì bị bao quanh bởi một dải cát đỏ mênh mông - được ví như 'sa mạc phương bắc'. Nơi đây còn có đàn ngựa hoang tự do rong ruổi trên cát, tạo nên khung cảnh siêu thực bên Bạch Hải.",
+    "presentation_long_vi": "Ở nơi con sông Varzuga đổ ra Bạch Hải, làng Kuzomen là một trong những điểm đến kỳ lạ và ấn tượng nhất của bán đảo Kola. Được người Pomor lập nên từ khoảng năm 1667, đây từng là một làng buôn bán và đánh cá sầm uất trên bờ biển Tersky. Ngày nay điều khiến Kuzomen nổi tiếng là dải cát đỏ khổng lồ bao quanh làng: một khối cát bất định rộng khoảng 1.600 ha, trải dài chừng 13 km dọc bờ biển hai bên cửa sông. «Sa mạc» này hình thành khoảng một thế kỷ trước do rừng bị chặt phá và chăn thả quá mức, khiến cát đỏ dần lấn tới, vùi lấp nhà cửa và đường sá - một bài học cảnh tỉnh về xói mòn môi trường. Giữa khung cảnh cát vàng đỏ trải dài tới tận mép biển là hình ảnh gây kinh ngạc: những con ngựa hoang tự do gặm cỏ, dạo bước - hậu duệ của đàn ngựa được đưa tới đây từ giữa thế kỷ 20. Cùng với những ngôi nhà gỗ Pomor cũ, nhà thờ và bãi biển Bạch Hải, Kuzomen mang đến trải nghiệm hoang sơ, độc đáo khó quên cho du khách ưa khám phá.",
+    "highlights_vi": [
+      "Làng chài Pomor cổ (lập ~1667) ở cửa sông Varzuga bên Bạch Hải.",
+      "Bao quanh bởi 'sa mạc' cát đỏ ~1.600 ha, dài ~13 km - hệ quả phá rừng một thế kỷ trước.",
+      "Đàn ngựa hoang rong ruổi tự do trên cát - khung cảnh siêu thực đặc trưng."
+    ],
+    "practical": {
+      "hours_vi": "Địa điểm ngoài trời, tham quan tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 2–3 giờ; có thể kết hợp lưu trú.",
+      "best_time_vi": "Mùa hè (tháng 6–9); đường cát cần xe gầm cao/dẫn động 4 bánh.",
+      "tips_vi": "Đường tới rất xa và khó (bờ Tersky); đi cùng tour hoặc xe địa hình; không cho ngựa hoang ăn tuỳ tiện."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D1%83%D0%B7%D0%BE%D0%BC%D0%B5%D0%BD%D1%8C%20%D0%B8%20%D0%9A%D1%83%D0%B7%D0%BE%D0%BC%D0%B5%D0%BD%D1%8C%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BF%D0%B5%D1%81%D0%BA%D0%B8&ll=36.867129,66.28691&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kuzomen%20Village%20and%20Sands%2C%20Murmansk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Кузоменьские пески",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B7%D0%BE%D0%BC%D0%B5%D0%BD%D1%8C%D1%81%D0%BA%D0%B8%D0%B5_%D0%BF%D0%B5%D1%81%D0%BA%D0%B8"
+      },
+      {
+        "title": "tourskazka.ru — Кузомень и дикие лошади",
+        "url": "https://tourskazka.ru/useful_info/vsye-o-kolskom-poluostrove/kuzomen-i-dikie-loshadi-samaya-severnaya-pustynya/"
+      }
+    ],
+    "tags": [
+      "park_garden",
+      "other",
+      "nature",
+      "desert",
+      "wild-horses",
+      "pomor",
+      "white-sea",
+      "tersky"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "murmansk-kola-sami-history-museum",
+    "slug": "kola-sami-history-museum",
+    "region": "murmansk",
+    "region_name_vi": "Tỉnh Murmansk",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Bảo tàng lịch sử người Sami Kola (Muzey istorii kolskikh saamov)",
+    "name_ru": "Музей истории, культуры и быта кольских саамов",
+    "name_en": "Museum of the History of the Kola Sami",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 68.003825,
+      "lon": 35.012532
+    },
+    "address_vi": "Ул. Советская, 28, село Ловозеро (Lovozero), huyện Lovozersky, Tỉnh Murmansk.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng dành riêng cho người Sami duy nhất ở nước Nga, đặt tại Lovozero - thủ phủ của người Sami vùng Kola. Trưng bày văn hoá, đời sống, nghề chăn nuôi tuần lộc và tín ngưỡng của một trong những dân tộc bản địa phương Bắc.",
+    "presentation_long_vi": "Nằm ở làng Lovozero - trung tâm văn hoá của người Sami (Lapp) vùng bán đảo Kola, Bảo tàng lịch sử, văn hoá và đời sống người Sami Kola là bảo tàng chuyên về người Sami duy nhất trên toàn nước Nga. Được thành lập năm 1962, và từ năm 1987 chuyển sang một toà nhà riêng rộng hơn 300 m² (nguyên là nhà văn hoá huyện), bảo tàng gìn giữ ký ức của một dân tộc du mục cổ xưa đã sống hàng nghìn năm giữa vùng lãnh nguyên. Các gian trưng bày giới thiệu nghề chăn nuôi tuần lộc - trụ cột của đời sống Sami, cùng trang phục truyền thống rực rỡ, đồ thủ công bằng da và xương, dụng cụ săn bắt - đánh cá, nhà lều kota, và cả thế giới tín ngưỡng - shaman với các phiến đá thiêng seyd. Bảo tàng cũng kể về lịch sử hiện đại đầy biến động của người Sami dưới thời Xô Viết, khi các cộng đồng bị dồn về Lovozero. Đây là điểm đến không thể bỏ qua để hiểu về dân tộc bản địa của phương Bắc nước Nga, thường được kết hợp cùng hành trình tới Seydozero linh thiêng.",
+    "highlights_vi": [
+      "Bảo tàng chuyên về người Sami duy nhất ở nước Nga; thành lập năm 1962.",
+      "Trưng bày nghề chăn nuôi tuần lộc, trang phục, thủ công và tín ngưỡng shaman Sami.",
+      "Đặt ở Lovozero - thủ phủ văn hoá của người Sami vùng Kola."
+    ],
+    "practical": {
+      "hours_vi": "Mở theo lịch bảo tàng (thường T3–CN); nên gọi trước.",
+      "ticket_vi": "Vé vào cửa bình dân; có phí hướng dẫn.",
+      "duration_vi": "Khoảng 1–1,5 giờ.",
+      "best_time_vi": "Quanh năm (trong nhà).",
+      "tips_vi": "Cách Murmansk ~170 km; kết hợp thăm hồ thiêng Seydozero và bản Sami."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%B9%20%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8%2C%20%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D1%8B%20%D0%B8%20%D0%B1%D1%8B%D1%82%D0%B0%20%D0%BA%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D1%85%20%D1%81%D0%B0%D0%B0%D0%BC%D0%BE%D0%B2&ll=35.012532,68.003825&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20the%20History%20of%20the%20Kola%20Sami%2C%20Murmansk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Музей истории кольских саамов",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D0%B7%D0%B5%D0%B9_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8_%D0%BA%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D1%85_%D1%81%D0%B0%D0%B0%D0%BC%D0%BE%D0%B2"
+      },
+      {
+        "title": "2ГИС — Отдел истории, культуры и быта кольских саамов, Ловозеро",
+        "url": "https://2gis.ru/murmansk/firm/70000001047055628"
+      }
+    ],
+    "tags": [
+      "museum",
+      "sami",
+      "indigenous",
+      "reindeer",
+      "ethnography",
+      "lovozero"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "murmansk-monchegorsk-stone-museum",
+    "slug": "monchegorsk-stone-museum",
+    "region": "murmansk",
+    "region_name_vi": "Tỉnh Murmansk",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Bảo tàng đá màu Monchegorsk mang tên V. N. Dava",
+    "name_ru": "Мончегорский музей цветного камня им. В. Н. Дава",
+    "name_en": "Monchegorsk Museum of Colored Stone named after V. N. Dava",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 67.9391,
+      "lon": 32.9493
+    },
+    "address_vi": "Проспект Металлургов, 46, thành phố Monchegorsk, Tỉnh Murmansk.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng khoáng vật - đá màu độc đáo với hơn 3.000 hiện vật, giới thiệu sự giàu có địa chất kỳ lạ của bán đảo Kola. Thành lập năm 1971 bởi nhà địa chất V. N. Dava, đây là một trong những bộ sưu tập đá quý và khoáng vật đặc sắc nhất phương Bắc.",
+    "presentation_long_vi": "Bán đảo Kola là một trong những khu vực giàu khoáng vật bậc nhất hành tinh, và Bảo tàng đá màu Monchegorsk chính là nơi kể câu chuyện đó bằng những viên đá lấp lánh. Bảo tàng được thành lập ngày 31 tháng 3 năm 1971 theo sáng kiến của nhà địa chất Xô Viết Vladimir Nikolaevich Dava, người mà bảo tàng mang tên. Với hơn 3.000 đơn vị hiện vật trưng bày trong các gian có tổng diện tích hàng trăm mét vuông, nơi đây phô bày bộ sưu tập khoáng vật, tinh thể và đá màu khai thác từ chính các mỏ của vùng Kola - từ apatit, amazonit xanh lục, eudialyt đỏ («máu lãnh nguyên») cho tới vô số khoáng vật hiếm của dãy Khibiny, Monchetundra và Lovozero. Các mẫu vật được sắp đặt vừa theo khoa học địa chất vừa để tôn lên vẻ đẹp tự nhiên rực rỡ của đá. Nằm ngay tại Monchegorsk - thành phố công nghiệp luyện kim màu bên hồ Imandra, bảo tàng là điểm đến hấp dẫn cho những ai yêu khoáng vật học, địa chất và vẻ đẹp của thế giới khoáng đá phương Bắc.",
+    "highlights_vi": [
+      "Bảo tàng khoáng vật - đá màu với hơn 3.000 hiện vật của bán đảo Kola.",
+      "Thành lập năm 1971 bởi nhà địa chất V. N. Dava, mang tên ông.",
+      "Trưng bày apatit, amazonit, eudialyt và khoáng vật hiếm của Khibiny, Lovozero."
+    ],
+    "practical": {
+      "hours_vi": "Thứ Ba–Chủ Nhật 12:00–18:00; nghỉ Thứ Hai (nên kiểm tra lại trước khi đến).",
+      "ticket_vi": "Vé vào cửa bình dân; có phí hướng dẫn.",
+      "duration_vi": "Khoảng 1–1,5 giờ.",
+      "best_time_vi": "Quanh năm (trong nhà).",
+      "tips_vi": "Nằm ở trung tâm Monchegorsk bên hồ Imandra; kết hợp thăm nhà thờ Ascension và Khu bảo tồn Lapland."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D0%BE%D0%BD%D1%87%D0%B5%D0%B3%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%20%D1%86%D0%B2%D0%B5%D1%82%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BA%D0%B0%D0%BC%D0%BD%D1%8F%20%D0%B8%D0%BC.%20%D0%92.%20%D0%9D.%20%D0%94%D0%B0%D0%B2%D0%B0&ll=32.9493,67.9391&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Monchegorsk%20Museum%20of%20Colored%20Stone%20named%20after%20V.%20N.%20Dava%2C%20Murmansk%2C%20Russia"
+    },
+    "official_site": "https://museumk.murm.muzkult.ru/",
+    "sources": [
+      {
+        "title": "Культура.РФ — Мончегорский музей цветного камня им. В. Н. Дава",
+        "url": "https://www.culture.ru/institutes/10732/monchegorskii-muzei-cvetnogo-kamnya-im-v-n-dava"
+      },
+      {
+        "title": "Мончегорское музейное объединение — Музей цветного камня им. В.Н. Дава",
+        "url": "https://mig.org.ru/muzey-tsvetnogo-kamnya-imeni-v-n-dava/"
+      }
+    ],
+    "tags": [
+      "museum",
+      "minerals",
+      "geology",
+      "gemstones",
+      "kola",
+      "monchegorsk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "murmansk-kildin-island",
+    "slug": "kildin-island",
+    "region": "murmansk",
+    "region_name_vi": "Tỉnh Murmansk",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Đảo Kildin (ostrov Kildin)",
+    "name_ru": "Остров Кильдин",
+    "name_en": "Kildin Island",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 69.321883,
+      "lon": 34.336229
+    },
+    "address_vi": "Biển Barents, cách bờ Murman khoảng 1,5 km, huyện Kolsky, Tỉnh Murmansk.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Hòn đảo lớn nhất ngoài khơi bờ biển Murman, nổi tiếng với hồ Mogilnoye kỳ lạ - một hồ 'phân tầng' hiếm có trên thế giới, nơi nước biển và nước ngọt cùng tồn tại theo lớp. Cảnh quan lãnh nguyên hoang sơ, vách đá và tổ chim biển giữa biển Barents.",
+    "presentation_long_vi": "Nằm ngoài khơi bờ biển Murman của bán đảo Kola, cách đất liền chỉ khoảng 1,5 km qua eo Kildin, đảo Kildin là hòn đảo lớn nhất trong số các đảo ven bờ vùng này, dài chừng 17 km và rộng tới 8 km. Đảo được nhắc tới trong các thư tịch và hải đồ từ thế kỷ 16. Báu vật thiên nhiên nổi tiếng nhất của Kildin là hồ Mogilnoye - một hồ meromictic độc đáo bậc nhất thế giới: nước trong hồ phân thành nhiều tầng không trộn lẫn, với lớp nước ngọt phía trên, lớp nước biển mặn ở giữa (nơi sinh sống của một quần thể cá tuyết và sứa biển bị cô lập từ xa xưa) và tầng đáy bão hoà hydro sulfua. Hồ được công nhận là di tích thiên nhiên. Bên cạnh đó, đảo còn có cao nguyên lãnh nguyên, những vách đá dựng đứng và các đàn chim biển làm tổ. Từng là khu vực quân sự - biên giới nên nhiều phần đảo có quá khứ khép kín; ngày nay Kildin thu hút du khách ưa mạo hiểm qua các tour thuyền từ vùng Murmansk. Đây là điểm đến đặc biệt cho những ai muốn chạm tới thiên nhiên nguyên sơ và bí ẩn của biển Barents.",
+    "highlights_vi": [
+      "Đảo lớn nhất ngoài khơi bờ Murman (~17 x 8 km), giữa biển Barents.",
+      "Hồ Mogilnoye 'phân tầng' hiếm có thế giới - nước ngọt và nước biển cùng tồn tại theo lớp.",
+      "Cao nguyên lãnh nguyên, vách đá, đàn chim biển; từng là khu quân sự - biên giới."
+    ],
+    "practical": {
+      "hours_vi": "Đảo hoang, không giờ mở cửa; tiếp cận bằng tour thuyền theo mùa.",
+      "ticket_vi": "Không có vé; chi phí theo tour thuyền/hướng dẫn.",
+      "duration_vi": "Chuyến trong ngày hoặc dài ngày tuỳ tour.",
+      "best_time_vi": "Mùa hè (tháng 7–8) khi biển lặng.",
+      "tips_vi": "Chỉ đi cùng tour có tổ chức; kiểm tra quy định ra vào vùng biên giới; chuẩn bị đồ chống lạnh, gió biển."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%20%D0%9A%D0%B8%D0%BB%D1%8C%D0%B4%D0%B8%D0%BD&ll=34.336229,69.321883&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kildin%20Island%2C%20Murmansk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Кильдин",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%BB%D1%8C%D0%B4%D0%B8%D0%BD"
+      },
+      {
+        "title": "Знание.Вики — Остров Кильдин",
+        "url": "https://znanierussia.ru/articles/%D0%9A%D0%B8%D0%BB%D1%8C%D0%B4%D0%B8%D0%BD"
+      }
+    ],
+    "tags": [
+      "other",
+      "island",
+      "nature",
+      "barents-sea",
+      "meromictic-lake",
+      "natural-monument",
+      "kola"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "murmansk-severomorsk-aviators-monument",
+    "slug": "severomorsk-aviators-monument",
+    "region": "murmansk",
+    "region_name_vi": "Tỉnh Murmansk",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Đài tưởng niệm phi công Hạm đội Phương Bắc ở Severomorsk",
+    "name_ru": "Памятник авиаторам-североморцам",
+    "name_en": "Monument to the Northern Fleet Aviators, Severomorsk",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 69.060183,
+      "lon": 33.418191
+    },
+    "address_vi": "Thành phố Severomorsk (thành phố khép kín/ZATO), Tỉnh Murmansk.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Đài tưởng niệm các phi công Hạm đội Phương Bắc tại Severomorsk - 'thủ đô' của Hạm đội Phương Bắc. Tưởng nhớ những phi công hải quân đã chiến đấu bảo vệ vùng biển Bắc Cực trong Thế chiến II; gần đó là chiếc máy bay ném bom Il-4 dựng làm đài kỷ niệm.",
+    "presentation_long_vi": "Severomorsk - thành phố nằm bên vịnh Kola phía bắc Murmansk - là căn cứ chính và «thủ đô» của Hạm đội Phương Bắc hùng mạnh của Nga. Tại đây, Đài tưởng niệm các phi công Hạm đội Phương Bắc (khánh thành năm 1968) tôn vinh những phi công hải quân đã bảo vệ bầu trời và vùng biển Bắc Cực trong Chiến tranh Vệ quốc Vĩ đại, khi không quân của hạm đội đóng vai trò then chốt trong việc bảo vệ các đoàn tàu tiếp tế đồng minh và tấn công tàu địch. Không xa đó, một chiếc máy bay ném bom ngư lôi Il-4 thật được đặt trên bệ như một tượng đài sống động, gợi nhớ những trận không chiến khốc liệt của các phi công Bắc Hải. Các công trình tưởng niệm này là một phần trong quần thể đài kỷ niệm quân sự làm nên diện mạo trang nghiêm của Severomorsk. Cần lưu ý: Severomorsk là thành phố khép kín (ZATO) của Bộ Quốc phòng, việc ra vào cần giấy phép và người nước ngoài thường không được phép tự do vào; do đó du khách nên tìm hiểu kỹ quy định trước khi lên kế hoạch.",
+    "highlights_vi": [
+      "Đài tưởng niệm phi công Hạm đội Phương Bắc (1968) tại 'thủ đô hạm đội' Severomorsk.",
+      "Tôn vinh phi công hải quân bảo vệ vùng biển Bắc Cực thời Thế chiến II.",
+      "Gần đó có máy bay ném bom Il-4 dựng làm đài kỷ niệm."
+    ],
+    "practical": {
+      "hours_vi": "Không gian ngoài trời; Severomorsk là thành phố khép kín (ZATO).",
+      "ticket_vi": "Miễn phí; nhưng cần giấy phép ra vào thành phố.",
+      "duration_vi": "Khoảng 20–30 phút.",
+      "best_time_vi": "Mùa hè; ngày 9/5 và Ngày Hải quân có sự kiện.",
+      "tips_vi": "Severomorsk là ZATO - cần giấy phép; người nước ngoài thường không được vào tự do, hãy kiểm tra kỹ trước."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%D0%B0%D0%B2%D0%B8%D0%B0%D1%82%D0%BE%D1%80%D0%B0%D0%BC-%D1%81%D0%B5%D0%B2%D0%B5%D1%80%D0%BE%D0%BC%D0%BE%D1%80%D1%86%D0%B0%D0%BC&ll=33.418191,69.060183&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Monument%20to%20the%20Northern%20Fleet%20Aviators%2C%20Severomorsk%2C%20Murmansk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "2ГИС — Памятник авиаторам-североморцам, Североморск",
+        "url": "https://2gis.ru/severomorsk/geo/70030076202055261"
+      },
+      {
+        "title": "Wikipedia (RU) — Североморск",
+        "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BE%D0%BC%D0%BE%D1%80%D1%81%D0%BA"
+      }
+    ],
+    "tags": [
+      "monument",
+      "memorial",
+      "aviation",
+      "northern-fleet",
+      "wwii",
+      "severomorsk",
+      "zato"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
   }
 ]

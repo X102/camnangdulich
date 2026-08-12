@@ -2055,5 +2055,1137 @@
     "status": "enriched",
     "last_updated": "2026-07-29",
     "country": "russia"
+  },
+  {
+    "id": "tomsk-kamenny-most-tomsk",
+    "slug": "kamenny-most-tomsk",
+    "region": "tomsk",
+    "region_name_vi": "Tỉnh Tomsk",
+    "federal_district": "Vùng Siberia",
+    "name_vi": "Cầu Đá qua sông Ushayka (Kamenny most)",
+    "name_ru": "Каменный мост через реку Ушайку",
+    "name_en": "Stone Bridge over the Ushayka River",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 56.487987,
+      "lon": 84.950803
+    },
+    "address_vi": "Bắc qua sông Ushayka, nối kè sông Ushayka với phố Rosa Luxemburg, trung tâm thành phố Tomsk, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Cây cầu đá cổ và đẹp nhất Tomsk, khánh thành năm 1916 theo thiết kế của kiến trúc sư Konstantin Lygin. Bốn góc cầu điểm những cột đá kiểu 'rostral', là di tích kiến trúc cấp liên bang và cũng là cầu tàu điện duy nhất của thành phố.",
+    "presentation_long_vi": "Bắc ngang dòng Ushayka nhỏ nơi nó chảy vào sông Tom, Cầu Đá (Kamenny most) là một trong những biểu tượng kiến trúc được yêu thích nhất của Tomsk. Trước đây tại đây là cây cầu gỗ Dumsky dựng năm 1819 theo bản vẽ của Gavriil Batenkov – người sau này trở thành một trong những nhà cách mạng Tháng Chạp. Đến năm 1916, cầu đá bê tông cốt thép hiện nay được khánh thành (20/10/1916) theo thiết kế của kiến trúc sư Konstantin Lygin, do các kỹ sư Tsezar Lyubinsky và Eduard Vekker thi công. Cầu dài khoảng 42 m, rộng gần 24 m; điểm nhấn là bốn cột đá kiểu 'rostral' (cột chiến thuyền) ở bốn góc, giữa chúng là những trụ vuông thấp gắn đèn. Đây là di tích kiến trúc mang ý nghĩa liên bang và cũng là cây cầu duy nhất ở Tomsk có tàu điện chạy qua, phục vụ đồng thời người đi bộ, ô tô và tàu điện suốt hơn một thế kỷ. Nằm ngay trung tâm, cạnh kè sông Ushayka đã được cải tạo, Cầu Đá là điểm dạo bộ và chụp ảnh quen thuộc của người dân lẫn du khách.",
+    "highlights_vi": [
+      "Cầu đá bê tông cốt thép khánh thành năm 1916, thiết kế của KTS Konstantin Lygin.",
+      "Bốn góc trang trí cột đá kiểu 'rostral'; là di tích kiến trúc cấp liên bang.",
+      "Cây cầu duy nhất ở Tomsk có tàu điện chạy qua; dựng trên nền cầu gỗ Dumsky (1819)."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tham quan tự do suốt ngày đêm.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 15–20 phút.",
+      "best_time_vi": "Bất kỳ lúc nào; đẹp vào chiều tà bên kè sông Ushayka.",
+      "tips_vi": "Kết hợp dạo kè sông Ushayka và trung tâm phố cổ; gần chợ và các quán ăn."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%BE%D1%81%D1%82%20%D1%87%D0%B5%D1%80%D0%B5%D0%B7%20%D1%80%D0%B5%D0%BA%D1%83%20%D0%A3%D1%88%D0%B0%D0%B9%D0%BA%D1%83&ll=84.950803,56.487987&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Stone%20Bridge%20over%20the%20Ushayka%20River%2C%20Tomsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Каменный мост (Томск)",
+        "url": "https://ru.wikipedia.org/wiki/Каменный_мост_(Томск)"
+      },
+      {
+        "title": "Культура.РФ — Каменный мост через реку Ушайку",
+        "url": "https://www.culture.ru/institutes/4378/kamennyi-most-cherez-reku-ushaiku"
+      },
+      {
+        "title": "2ГИС — Каменный мост, Томск",
+        "url": "https://2gis.ru/tomsk/geo/422908249768131"
+      }
+    ],
+    "tags": [
+      "bridge",
+      "architecture",
+      "landmark",
+      "federal-monument",
+      "tram",
+      "siberia",
+      "free"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "tomsk-tomsk-polytechnic-university",
+    "slug": "tomsk-polytechnic-university",
+    "region": "tomsk",
+    "region_name_vi": "Tỉnh Tomsk",
+    "federal_district": "Vùng Siberia",
+    "name_vi": "Đại học Bách khoa Tomsk (TPU) – toà nhà chính",
+    "name_ru": "Томский политехнический университет (главный корпус)",
+    "name_en": "Tomsk Polytechnic University (main building)",
+    "categories": [
+      "other",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 56.465278,
+      "lon": 84.950278
+    },
+    "address_vi": "Đại lộ Lenin, 30, thành phố Tomsk, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Trường kỹ thuật đại học lâu đời nhất phần châu Á của nước Nga, thành lập năm 1896 và khai giảng năm 1900. Toà nhà chính bề thế trên đại lộ Lenin là biểu tượng của 'thành phố sinh viên' Tomsk và cái nôi đào tạo kỹ sư của Siberia.",
+    "presentation_long_vi": "Nằm trên đại lộ Lenin ngay cạnh khu đại học lịch sử, Đại học Bách khoa Tomsk (TPU) là trường kỹ thuật bậc đại học đầu tiên và lâu đời nhất ở phần châu Á của nước Nga. Trường được thành lập năm 1896 dưới tên Viện Công nghệ Tomsk và khai giảng khoá đầu năm 1900, do sáng kiến gắn với D. I. Mendeleev và giới khoa học Nga nhằm đưa nền giáo dục kỹ thuật lên phương Đông. Toà nhà chính (главный корпус) là một công trình đồ sộ mang phong cách chiết trung – cổ điển, do kiến trúc sư R. R. (F. F.) Gut thiết kế, trở thành một trong những kiến trúc học đường tiêu biểu của Tomsk. Trải qua hơn một thế kỷ, TPU đã đào tạo nhiều thế hệ kỹ sư, nhà địa chất, nhà khoa học và là một trong những đại học nghiên cứu hàng đầu của Nga. Trong khuôn viên và các toà nhà lịch sử của trường còn có các bảo tàng khoáng vật, cổ sinh, lịch sử... mở cửa cho khách tham quan. Cùng với Đại học Tổng hợp Hoàng gia kề bên, TPU góp phần tạo nên bản sắc 'thành phố sinh viên' của Tomsk – nơi cứ khoảng năm cư dân lại có một sinh viên.",
+    "highlights_vi": [
+      "Trường kỹ thuật đại học lâu đời nhất phần châu Á của Nga (thành lập 1896, khai giảng 1900).",
+      "Toà nhà chính phong cách chiết trung – cổ điển, KTS R. R. Gut; biểu tượng học đường của Tomsk.",
+      "Một trong những đại học nghiên cứu hàng đầu Nga; có nhiều bảo tàng mở cho khách."
+    ],
+    "practical": {
+      "hours_vi": "Ngắm bên ngoài tự do; bảo tàng trong trường mở theo giờ hành chính, thường cần đăng ký trước.",
+      "ticket_vi": "Ngắm ngoài miễn phí; tham quan bảo tàng thường miễn phí (đăng ký trước).",
+      "duration_vi": "Khoảng 30–45 phút (kèm bảo tàng lâu hơn).",
+      "best_time_vi": "Quanh năm.",
+      "tips_vi": "Vào các toà nhà có kiểm soát, nên mang giấy tờ tuỳ thân; kết hợp thăm Vườn đại học và bảo tàng khoáng vật TPU gần đó."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A2%D0%BE%D0%BC%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%20%28%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81%29&ll=84.950278,56.465278&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Tomsk%20Polytechnic%20University%20%28main%20building%29%2C%20Russia"
+    },
+    "official_site": "https://tpu.ru/",
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Томский политехнический университет",
+        "url": "https://ru.wikipedia.org/wiki/Томский_политехнический_университет"
+      },
+      {
+        "title": "TPU — Экскурсии по университету",
+        "url": "https://tpu.ru/university/excursion/"
+      }
+    ],
+    "tags": [
+      "other",
+      "monument",
+      "university",
+      "architecture",
+      "student-city",
+      "siberia",
+      "tomsk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "tomsk-tpu-mineralogical-museum",
+    "slug": "tpu-mineralogical-museum",
+    "region": "tomsk",
+    "region_name_vi": "Tỉnh Tomsk",
+    "federal_district": "Vùng Siberia",
+    "name_vi": "Bảo tàng Khoáng vật học ĐH Bách khoa Tomsk (TPU)",
+    "name_ru": "Минералогический музей Томского политехнического университета",
+    "name_en": "TPU Mineralogical Museum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 56.466208,
+      "lon": 84.953218
+    },
+    "address_vi": "Toà nhà số 1 (Горный корпус) của TPU, phố Sovetskaya, 73, thành phố Tomsk, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Một trong những bảo tàng khoáng vật lâu đời và giàu có bậc nhất Siberia, hình thành từ đầu thế kỷ 20 trong toà Horny (Mỏ) của TPU. Nơi lưu giữ hàng vạn mẫu khoáng vật, đá quý và quặng do nhiều thế hệ nhà địa chất Tomsk sưu tầm.",
+    "presentation_long_vi": "Nằm trong toà nhà số 1 lịch sử (Горный/Mỏ) của Đại học Bách khoa Tomsk, Bảo tàng Khoáng vật học là một trong những bảo tàng khoáng vật lâu đời và phong phú nhất Siberia. Bộ sưu tập bắt nguồn từ cuối thế kỷ 19 – đầu thế kỷ 20, khi khoa Mỏ của trường được thành lập và các giáo sư địa chất bắt đầu gom góp mẫu vật phục vụ giảng dạy; bảo tàng chính thức định hình vào đầu thế kỷ 20. Qua nhiều thế hệ nhà địa chất, sưu tập lớn dần thành hàng chục nghìn mẫu khoáng vật, đá quý, tinh thể, quặng và thiên thạch đến từ khắp nước Nga và thế giới. Du khách được chiêm ngưỡng những khối tinh thể lớn, mẫu vàng, đá bán quý, các loại quặng đặc trưng của Siberia, cùng câu chuyện về lịch sử ngành địa chất – khai khoáng gắn với Tomsk. Bảo tàng nằm trong khuôn viên đại học đang hoạt động nên thường tham quan theo đoàn có đăng ký trước; đây là điểm đến hấp dẫn cho người yêu khoáng vật, học sinh và du khách muốn hiểu về sự giàu có lòng đất của vùng Siberia.",
+    "highlights_vi": [
+      "Bảo tàng khoáng vật lâu đời và giàu có bậc nhất Siberia, hình thành đầu thế kỷ 20.",
+      "Hàng vạn mẫu khoáng vật, tinh thể, đá quý, quặng và thiên thạch từ khắp nơi.",
+      "Nằm trong toà nhà số 1 (Горный корпус) lịch sử của TPU; tham quan theo đoàn có đăng ký."
+    ],
+    "practical": {
+      "hours_vi": "Thứ Hai–Thứ Năm 9:00–17:00, Thứ Sáu 9:00–16:00; tham quan theo đoàn, đăng ký trước qua điện thoại.",
+      "ticket_vi": "Vào cửa miễn phí (các bảo tàng của TPU).",
+      "duration_vi": "Khoảng 45–60 phút.",
+      "best_time_vi": "Quanh năm (trong nhà); nên tránh kỳ nghỉ của trường.",
+      "tips_vi": "Vào khuôn viên đại học cần mang giấy tờ tuỳ thân; đặt lịch trước để có hướng dẫn viên."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D0%B8%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%20%D0%A2%D0%BE%D0%BC%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D0%B0&ll=84.953218,56.466208&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=TPU%20Mineralogical%20Museum%2C%20Tomsk%2C%20Russia"
+    },
+    "official_site": "https://portal.tpu.ru/departments/museum/mineral",
+    "sources": [
+      {
+        "title": "TPU — Минералогический музей",
+        "url": "https://portal.tpu.ru/departments/museum/mineral"
+      },
+      {
+        "title": "Webmineral.ru — Минералогический музей ТПУ, Томск",
+        "url": "https://www.webmineral.ru/museums/item.php?id=148"
+      },
+      {
+        "title": "2ГИС — Минералогический музей, ТПУ, Советская 73, Томск",
+        "url": "https://2gis.ru/tomsk/firm/422740746107157"
+      }
+    ],
+    "tags": [
+      "museum",
+      "mineralogy",
+      "geology",
+      "university",
+      "science",
+      "siberia",
+      "tomsk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "tomsk-tomsk-philharmonic",
+    "slug": "tomsk-philharmonic",
+    "region": "tomsk",
+    "region_name_vi": "Tỉnh Tomsk",
+    "federal_district": "Vùng Siberia",
+    "name_vi": "Nhạc viện – Nhà hát Giao hưởng tỉnh Tomsk (Đại sảnh hoà nhạc BKZ và Phòng Đại phong cầm)",
+    "name_ru": "Томская областная государственная филармония",
+    "name_en": "Tomsk Regional State Philharmonic",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 56.486863,
+      "lon": 84.94998
+    },
+    "address_vi": "Đại sảnh hoà nhạc (BKZ), Quảng trường Lenin, 12A, thành phố Tomsk, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Trung tâm âm nhạc hàn lâm lớn nhất tỉnh Tomsk, với Đại sảnh hoà nhạc (BKZ) và Phòng Đại phong cầm nổi tiếng về âm học. Nơi diễn ra hàng trăm buổi hoà nhạc mỗi năm, quy tụ dàn nhạc, nghệ sĩ Nga và quốc tế.",
+    "presentation_long_vi": "Là thiết chế âm nhạc hàn lâm lớn nhất tỉnh Tomsk, Nhà hát Giao hưởng (filarmoniya) tỉnh Tomsk quản lý hai không gian biểu diễn chính: Đại sảnh hoà nhạc BKZ hiện đại bên Quảng trường Lenin và Phòng Đại phong cầm (Органный зал) trứ danh. Cây đại phong cầm của Tomsk được giới nhạc sĩ trong và ngoài nước đánh giá là một trong những phòng hoà nhạc có âm học tốt nhất nước Nga, nơi vang lên nhạc organ, thính phòng và cổ điển. Mỗi năm nhà hát tổ chức hàng trăm buổi diễn: giao hưởng, hợp xướng, dân ca Nga, nhạc jazz, chương trình cho thiếu nhi và các liên hoan âm nhạc, đón nhiều dàn nhạc và nghệ sĩ danh tiếng. Đại sảnh BKZ với sức chứa lớn cũng là nơi diễn ra các sự kiện văn hoá quan trọng của thành phố. Với du khách, một buổi tối ở filarmoniya – dù nghe organ trong Phòng Đại phong cầm hay xem giao hưởng ở BKZ – là cách tinh tế để cảm nhận đời sống văn hoá của 'thành phố đại học' Siberia.",
+    "highlights_vi": [
+      "Trung tâm âm nhạc hàn lâm lớn nhất tỉnh Tomsk; hàng trăm buổi diễn mỗi năm.",
+      "Phòng Đại phong cầm (Органный зал) nổi tiếng, được xem là một trong những phòng hoà nhạc âm học tốt nhất Nga.",
+      "Đại sảnh hoà nhạc BKZ bên Quảng trường Lenin – nơi diễn ra nhiều sự kiện văn hoá lớn."
+    ],
+    "practical": {
+      "hours_vi": "Biểu diễn theo lịch mùa (thường buổi tối, cuối tuần); phòng vé mở ban ngày.",
+      "ticket_vi": "Mua vé theo chương trình; giá đa dạng, khá bình dân.",
+      "duration_vi": "Mỗi buổi diễn khoảng 1,5–2 giờ.",
+      "best_time_vi": "Mùa diễn thu–xuân; dịp lễ có chương trình đặc biệt.",
+      "tips_vi": "Đặt vé trước cho buổi organ ở Phòng Đại phong cầm; lưu ý hai địa điểm (BKZ – pl. Ленина 12А, Органный зал – пр. Ленина 75)."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A2%D0%BE%D0%BC%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%BD%D0%B0%D1%8F%20%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D1%84%D0%B8%D0%BB%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F&ll=84.94998,56.486863&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Tomsk%20Regional%20State%20Philharmonic%2C%20Russia"
+    },
+    "official_site": "https://tomskfil.ru/",
+    "sources": [
+      {
+        "title": "Культура.РФ — Томская областная государственная филармония",
+        "url": "https://www.culture.ru/institutes/20335/tomskaya-oblastnaya-gosudarstvennaya-filarmoniya"
+      },
+      {
+        "title": "Официальный сайт — tomskfil.ru",
+        "url": "https://tomskfil.ru/"
+      },
+      {
+        "title": "2ГИС — Томская областная государственная филармония, пл. Ленина 12а",
+        "url": "https://2gis.ru/tomsk/firm/422740746055582"
+      }
+    ],
+    "tags": [
+      "theatre",
+      "concert-hall",
+      "philharmonic",
+      "organ",
+      "classical-music",
+      "siberia",
+      "tomsk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "tomsk-tomsk-1-railway-station",
+    "slug": "tomsk-1-railway-station",
+    "region": "tomsk",
+    "region_name_vi": "Tỉnh Tomsk",
+    "federal_district": "Vùng Siberia",
+    "name_vi": "Nhà ga Tomsk-I (vokzal Tomsk-1)",
+    "name_ru": "Железнодорожный вокзал Томск-I",
+    "name_en": "Tomsk-I Railway Station",
+    "categories": [
+      "other",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 56.460443,
+      "lon": 84.990836
+    },
+    "address_vi": "Quảng trường Privokzalnaya, 1 (đại lộ Kirov, 70), thành phố Tomsk, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhà ga đường sắt chính của Tomsk, cửa ngõ đường sắt đưa khách về 'thành phố đại học' Siberia. Toà nhà ga khang trang bên Quảng trường Privokzalnaya là điểm đến và tiễn đưa quen thuộc, gắn với lịch sử tuyến nhánh đường sắt tới Tomsk.",
+    "presentation_long_vi": "Tomsk-I là nhà ga đường sắt chính và là cửa ngõ đường sắt của thành phố Tomsk. Do tuyến đường sắt xuyên Siberia cuối thế kỷ 19 đi vòng qua, Tomsk chỉ được nối vào mạng lưới bằng một tuyến nhánh – và ga Tomsk-I trở thành điểm cuối quan trọng của tuyến này, đón những chuyến tàu đầu tiên từ đầu thế kỷ 20. Toà nhà ga ngày nay khang trang, nằm bên Quảng trường Privokzalnaya trên đại lộ Kirov, là nơi khởi hành và kết thúc hành trình của du khách tới Tomsk từ Novosibirsk, Taiga và các thành phố khác. Bên trong có phòng chờ, quầy vé và các tiện ích; xung quanh là các bến xe buýt, taxi đưa khách vào trung tâm. Đối với nhiều người, ga Tomsk-I là ấn tượng đầu tiên về thành phố – một nút giao thông sống động, đồng thời là chứng nhân của câu chuyện lịch sử vì sao tuyến đường sắt lớn đã 'né' Tomsk, ảnh hưởng đến vận mệnh phát triển của thành phố.",
+    "highlights_vi": [
+      "Nhà ga đường sắt chính và cửa ngõ đường sắt của Tomsk.",
+      "Điểm cuối của tuyến nhánh nối Tomsk vào mạng lưới đường sắt (đầu thế kỷ 20).",
+      "Bên Quảng trường Privokzalnaya, đầu mối giao thông đi trung tâm và các vùng lân cận."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa suốt ngày đêm (nhà ga hoạt động).",
+      "ticket_vi": "Vào ga miễn phí; vé tàu theo hành trình.",
+      "duration_vi": "Tuỳ nhu cầu; ngắm và chụp ảnh khoảng 15 phút.",
+      "best_time_vi": "Quanh năm.",
+      "tips_vi": "Từ ga có xe buýt/taxi vào trung tâm (~6–7 km); kiểm tra lịch tàu trước qua RZD."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D1%8B%D0%B9%20%D0%B2%D0%BE%D0%BA%D0%B7%D0%B0%D0%BB%20%D0%A2%D0%BE%D0%BC%D1%81%D0%BA-I&ll=84.990836,56.460443&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Tomsk-I%20Railway%20Station%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Томск-I",
+        "url": "https://ru.wikipedia.org/wiki/Томск-I"
+      },
+      {
+        "title": "2ГИС — Томск-1, железнодорожный вокзал, Привокзальная пл. 1",
+        "url": "https://2gis.ru/tomsk/firm/422740746059567"
+      }
+    ],
+    "tags": [
+      "other",
+      "monument",
+      "railway-station",
+      "transport",
+      "landmark",
+      "siberia",
+      "tomsk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "tomsk-house-with-firebirds-tomsk",
+    "slug": "house-with-firebirds-tomsk",
+    "region": "tomsk",
+    "region_name_vi": "Tỉnh Tomsk",
+    "federal_district": "Vùng Siberia",
+    "name_vi": "Ngôi nhà gỗ 'Chim Lửa' (Dom s zhar-ptitsami)",
+    "name_ru": "Дом с жар-птицами",
+    "name_en": "House with Firebirds",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 56.471031,
+      "lon": 84.964766
+    },
+    "address_vi": "Phố Krasnoarmeyskaya, 67/1, thành phố Tomsk, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Một trong những kiệt tác kiến trúc gỗ nổi tiếng nhất Tomsk, dựng năm 1903, với ô cửa lồi (erker) và mái đầu hồi được trang trí bằng những con Chim Lửa cách điệu. Biểu tượng của di sản nhà gỗ độc đáo làm nên danh tiếng 'thủ đô gỗ' của thành phố.",
+    "presentation_long_vi": "Trên phố Krasnoarmeyskaya – con phố tập trung nhiều nhà gỗ đẹp của Tomsk – 'Ngôi nhà Chim Lửa' là một trong những công trình kiến trúc gỗ trứ danh và được yêu thích nhất thành phố. Ngôi nhà được xây năm 1903 theo thiết kế của kiến trúc sư S. V. Khomich (một số nguồn nêu P. F. Fedorovsky), thuộc điền trang của thương nhân Leonty Zhelyabo. Điểm làm nên tên tuổi của nó là chiếc erker (ô cửa lồi) bề thế vươn ra, phía trên là các đầu hồi và mái được chạm khắc những con Chim Lửa (zhar-ptitsa) trong cổ tích Nga, cùng hoa văn gỗ tinh xảo phủ khắp mặt tiền. Tomsk từ lâu được mệnh danh là 'thủ đô kiến trúc gỗ' của nước Nga, và ngôi nhà này – bên cạnh 'Nhà Rồng' và 'Nhà có tháp nhọn' – là một trong 'bộ ba' nhà gỗ nổi tiếng mà du khách tìm đến. Công trình được trùng tu năm 2008; hiện vẫn là nhà ở, nhưng phần trang trí Chim Lửa và toàn bộ vẻ đẹp mặt tiền vẫn khiến ai đi qua cũng phải dừng lại ngắm và chụp ảnh.",
+    "highlights_vi": [
+      "Nhà gỗ dựng năm 1903 trong điền trang thương nhân Zhelyabo, phố Krasnoarmeyskaya.",
+      "Ô cửa lồi (erker) và mái đầu hồi trang trí những con Chim Lửa cổ tích cùng hoa văn gỗ tinh xảo.",
+      "Một trong 'bộ ba' nhà gỗ nổi tiếng của 'thủ đô kiến trúc gỗ' Tomsk (cùng Nhà Rồng, Nhà có tháp nhọn)."
+    ],
+    "practical": {
+      "hours_vi": "Ngắm bên ngoài tự do (là nhà ở tư nhân, không vào trong).",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 10–15 phút.",
+      "best_time_vi": "Ban ngày, mùa hè khi cây xanh và ánh sáng đẹp.",
+      "tips_vi": "Tôn trọng cư dân, chỉ ngắm/chụp từ bên ngoài; kết hợp đi bộ ngắm dãy nhà gỗ phố Krasnoarmeyskaya và Belinskogo."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%94%D0%BE%D0%BC%20%D1%81%20%D0%B6%D0%B0%D1%80-%D0%BF%D1%82%D0%B8%D1%86%D0%B0%D0%BC%D0%B8&ll=84.964766,56.471031&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=House%20with%20Firebirds%2C%20Tomsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Туристский портал Томска — Дом с жар-птицами",
+        "url": "https://travel-tomsk.ru/dom-s-zhar-pticami"
+      },
+      {
+        "title": "ТИЦ Томск — ул. Красноармейская, 67/1, Дом с жар-птицами",
+        "url": "http://tic-tomsk.ru/деревянное-зодчество/дом-с-жар-птицами/"
+      },
+      {
+        "title": "2ГИС — Дом с жар-птицами, Красноармейская 67/1",
+        "url": "https://2gis.ru/tomsk/geo/422848120228238"
+      }
+    ],
+    "tags": [
+      "monument",
+      "wooden-architecture",
+      "art-nouveau",
+      "landmark",
+      "siberia",
+      "tomsk",
+      "free"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "tomsk-house-with-spire-tomsk",
+    "slug": "house-with-spire-tomsk",
+    "region": "tomsk",
+    "region_name_vi": "Tỉnh Tomsk",
+    "federal_district": "Vùng Siberia",
+    "name_vi": "Ngôi nhà gỗ 'Tháp Nhọn' (Dom so shpilem)",
+    "name_ru": "Дом со шпилем",
+    "name_en": "House with a Spire",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 56.469113,
+      "lon": 84.954663
+    },
+    "address_vi": "Góc phố Kuznetsova, 17 / phố Kartashova, 9, thành phố Tomsk, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Ngôi nhà gỗ hai tầng theo phong cách 'gothic – modern', nổi bật với ô cửa lồi kết thúc bằng tháp nhọn có chóp. Là một trong những viên ngọc của kiến trúc gỗ Tomsk, di sản văn hoá cấp vùng.",
+    "presentation_long_vi": "Đứng ở góc phố Kuznetsova và Kartashova, 'Ngôi nhà Tháp Nhọn' là một trong những công trình gỗ đặc sắc nhất của Tomsk. Toà nhà hai tầng bằng gỗ được hình thành vào đầu thế kỷ 20 (khoảng 1900–1907), mang phong cách modern pha nét gothic với các đầu hồi nhọn và hoa văn gỗ. Điểm nhấn khiến nó có tên gọi này là chiếc erker (ô cửa lồi) ở góc nhà, phía trên vươn lên một tháp bốn mặt với các đầu hồi tam giác và mái chóp nhọn (shpil) ở giữa – tạo dáng vẻ như một lâu đài cổ tích thu nhỏ. Có giả thuyết công trình do kiến trúc sư Vikenty Orzheshko – tác giả nhiều kiệt tác gỗ của Tomsk – thiết kế. Ngôi nhà từng gắn với trường dạy nhạc tư đầu tiên của Tomsk (của bà Kamilla Tomashinskaya, 1902–1907) và về sau thuộc sở hữu của bác sĩ nhi V. I. Vasilkov. Năm 1978, nhà được công nhận là di sản văn hoá cấp vùng. Cùng với 'Nhà Rồng' và 'Nhà Chim Lửa', đây là điểm dừng chân không thể bỏ qua trong hành trình khám phá 'thủ đô kiến trúc gỗ' Tomsk.",
+    "highlights_vi": [
+      "Nhà gỗ hai tầng phong cách 'gothic – modern' đầu thế kỷ 20; erker kết thúc bằng tháp nhọn có chóp.",
+      "Được cho là do KTS Vikenty Orzheshko thiết kế; từng có trường dạy nhạc tư đầu tiên của Tomsk.",
+      "Di sản văn hoá cấp vùng (từ 1978); một trong những viên ngọc kiến trúc gỗ Tomsk."
+    ],
+    "practical": {
+      "hours_vi": "Ngắm bên ngoài tự do (là nhà ở, không vào trong).",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 10–15 phút.",
+      "best_time_vi": "Ban ngày; đẹp khi trời quang.",
+      "tips_vi": "Chỉ ngắm/chụp từ bên ngoài; gần trung tâm và khu TPU, dễ kết hợp đi bộ ngắm phố cổ."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%94%D0%BE%D0%BC%20%D1%81%D0%BE%20%D1%88%D0%BF%D0%B8%D0%BB%D0%B5%D0%BC&ll=84.954663,56.469113&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=House%20with%20a%20Spire%2C%20Tomsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Дом со шпилем (Томск)",
+        "url": "https://ru.wikipedia.org/wiki/Дом_со_шпилем_(Томск)"
+      },
+      {
+        "title": "ТИЦ Томск — ул. Кузнецова, 17, Дом со шпилем",
+        "url": "http://tic-tomsk.ru/деревянное-зодчество/дом-со-шпилем/"
+      },
+      {
+        "title": "2ГИС — Дом со шпилем, ул. Кузнецова 17",
+        "url": "https://2gis.ru/tomsk/geo/422848120236004"
+      }
+    ],
+    "tags": [
+      "monument",
+      "wooden-architecture",
+      "art-nouveau",
+      "gothic",
+      "landmark",
+      "siberia",
+      "tomsk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "tomsk-alexander-nevsky-church-tomsk",
+    "slug": "alexander-nevsky-church-tomsk",
+    "region": "tomsk",
+    "region_name_vi": "Tỉnh Tomsk",
+    "federal_district": "Vùng Siberia",
+    "name_vi": "Nhà thờ Thánh Aleksandr Nevsky ở Tomsk",
+    "name_ru": "Церковь Александра Невского",
+    "name_en": "Church of St Alexander Nevsky",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 56.471716,
+      "lon": 84.952812
+    },
+    "address_vi": "Phố Gertsena (Herzen), 3, thành phố Tomsk, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhà thờ Chính thống giáo xây năm 1877–1880 theo phong cách chiết trung, mang tên đại công tước - thánh Aleksandr Nevsky. Từ năm 1994 là nơi đặt Chủng viện Thần học Tomsk, vẫn hoạt động thờ phụng.",
+    "presentation_long_vi": "Nằm trên phố Gertsena ở trung tâm Tomsk, Nhà thờ Thánh Aleksandr Nevsky là một ngôi đền Chính thống giáo duyên dáng mang phong cách chiết trung (eclectic). Nhà thờ được xây trong các năm 1877–1880 theo thiết kế của kiến trúc sư A. P. Bekhter, gắn với khu nhà tù cũ trên phố Aleksandrovskaya (nay là Gertsena) – ban đầu phục vụ đời sống tâm linh cho một cơ sở từ thiện và người dân quanh vùng. Ngôi đền mang tên đại công tước Aleksandr Nevsky – vị thánh - anh hùng được tôn kính bậc nhất của nước Nga. Trong thời Xô Viết nhà thờ bị đóng cửa và chuyển đổi công năng, rồi được trả lại cho Giáo hội và khôi phục. Từ năm 1994, toà nhà trở thành nơi đặt Chủng viện Thần học Tomsk – trung tâm đào tạo giáo sĩ của giáo phận – đồng thời vẫn là nơi cử hành phụng vụ. Với mặt tiền trắng, các chi tiết trang trí gạch và vòm hành lễ ấm cúng, nhà thờ là một điểm dừng chân yên bình và giàu ý nghĩa cho du khách khám phá di sản tôn giáo của Tomsk.",
+    "highlights_vi": [
+      "Nhà thờ Chính thống giáo chiết trung, xây 1877–1880 (KTS A. P. Bekhter).",
+      "Mang tên đại công tước - thánh Aleksandr Nevsky, anh hùng dân tộc Nga.",
+      "Từ năm 1994 là nơi đặt Chủng viện Thần học Tomsk; vẫn hoạt động thờ phụng."
+    ],
+    "practical": {
+      "hours_vi": "Mở theo giờ lễ, ban ngày.",
+      "ticket_vi": "Miễn phí; quyên góp tuỳ tâm.",
+      "duration_vi": "Khoảng 20–30 phút.",
+      "best_time_vi": "Quanh năm.",
+      "tips_vi": "Ăn mặc kín đáo khi vào đền; nằm gần trung tâm, dễ kết hợp dạo phố cổ."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C%20%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B0%20%D0%9D%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE&ll=84.952812,56.471716&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Church%20of%20St%20Alexander%20Nevsky%2C%20Tomsk%2C%20Russia"
+    },
+    "official_site": "https://nevsky.cerkov.ru/",
+    "sources": [
+      {
+        "title": "sobory.ru — Томск, Церковь Александра Невского (obj. 11486)",
+        "url": "https://sobory.ru/article/?object=11486"
+      },
+      {
+        "title": "Культура.РФ — Храм Святого Благоверного Александра Невского в Томске",
+        "url": "https://www.culture.ru/institutes/4121/khram-svyatogo-blagovernogo-aleksandra-nevskogo-v-tomske"
+      }
+    ],
+    "tags": [
+      "church",
+      "orthodox",
+      "19th-century",
+      "seminary",
+      "eclectic",
+      "siberia",
+      "tomsk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "tomsk-white-mosque-tomsk",
+    "slug": "white-mosque-tomsk",
+    "region": "tomsk",
+    "region_name_vi": "Tỉnh Tomsk",
+    "federal_district": "Vùng Siberia",
+    "name_vi": "Nhà thờ Hồi giáo Trắng (Belaya sobornaya mechet)",
+    "name_ru": "Белая соборная мечеть",
+    "name_en": "White Mosque (White Cathedral Mosque)",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 56.467804,
+      "lon": 84.940087
+    },
+    "address_vi": "Đường Moskovsky trakt, 43, khu phố Tatar (Zaistochye), thành phố Tomsk, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Thánh đường Hồi giáo bằng đá màu trắng ở khu phố Tatar của Tomsk, xây khoảng năm 1913 theo phong cách modern pha nét Moor và Trung Á. Cùng với Nhà thờ Đỏ, đây là một trong hai thánh đường lịch sử làm nên bản sắc đa tôn giáo của thành phố.",
+    "presentation_long_vi": "Ở khu phố Tatar (Zaistochye) phía tây nam trung tâm Tomsk, Nhà thờ Hồi giáo Trắng vươn lên với mái vòm và tháp minaret thanh thoát. Đây là thánh đường thứ hai của cộng đồng Hồi giáo Tomsk, được xây bằng đá vào khoảng năm 1913 (một số nguồn nêu hoàn thiện các năm 1910–1914) theo thiết kế của kiến trúc sư tỉnh Andrey (Heinrich) Langer gốc Áo. Langer đã tạo nên một công trình mang phong cách modern kết hợp trang trí Hồi giáo: phần vòm và các chi tiết gợi kiến trúc đền thờ Trung Á và nét tân-Moor, khiến nhà thờ nổi bật giữa dãy nhà gỗ của khu phố Tatar. Trong thời Xô Viết, nhà thờ bị đóng cửa và dùng cho mục đích khác, rồi được trả lại cộng đồng và khôi phục, trở lại là nơi hành lễ. Cùng với Nhà thờ Đỏ (Krasnaya mechet) gần đó, Nhà thờ Trắng là chứng nhân cho lịch sử cộng đồng Tatar buôn bán, thủ công lâu đời ở Tomsk và cho bức tranh tôn giáo đa dạng của thành phố – nơi nhà thờ Chính thống giáo, Công giáo, hội đường và thánh đường Hồi giáo cùng tồn tại.",
+    "highlights_vi": [
+      "Thánh đường Hồi giáo bằng đá màu trắng, xây khoảng 1913 (KTS Andrey/Heinrich Langer).",
+      "Phong cách modern pha nét tân-Moor và kiến trúc đền thờ Trung Á; nổi bật giữa khu phố Tatar.",
+      "Cùng Nhà thờ Đỏ, làm nên bản sắc đa tôn giáo và di sản cộng đồng Tatar của Tomsk."
+    ],
+    "practical": {
+      "hours_vi": "Mở theo giờ cầu nguyện; du khách nên đến ngoài giờ lễ chính.",
+      "ticket_vi": "Miễn phí; quyên góp tuỳ tâm.",
+      "duration_vi": "Khoảng 20–30 phút.",
+      "best_time_vi": "Quanh năm.",
+      "tips_vi": "Cởi giày khi vào; ăn mặc kín đáo, nữ nên trùm khăn; giữ yên tĩnh, tôn trọng người hành lễ."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%91%D0%B5%D0%BB%D0%B0%D1%8F%20%D1%81%D0%BE%D0%B1%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C&ll=84.940087,56.467804&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=White%20Mosque%20%28White%20Cathedral%20Mosque%29%2C%20Tomsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Белая соборная мечеть (Томск)",
+        "url": "https://ru.wikipedia.org/wiki/Белая_соборная_мечеть_(Томск)"
+      },
+      {
+        "title": "IslamCenter.ru — Белая соборная мечеть, Томск",
+        "url": "https://islamcenter.ru/?item=619"
+      },
+      {
+        "title": "2ГИС — Белая соборная мечеть, Московский тракт 43",
+        "url": "https://2gis.ru/tomsk/firm/422740746055654"
+      }
+    ],
+    "tags": [
+      "church",
+      "mosque",
+      "islam",
+      "modern-style",
+      "tatar-heritage",
+      "siberia",
+      "tomsk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "tomsk-tatar-sloboda-tomsk",
+    "slug": "tatar-sloboda-tomsk",
+    "region": "tomsk",
+    "region_name_vi": "Tỉnh Tomsk",
+    "federal_district": "Vùng Siberia",
+    "name_vi": "Khu phố Tatar (Zaistochye)",
+    "name_ru": "Татарская слобода — Заисточье",
+    "name_en": "Tatar Sloboda (Zaistochye) Historic District",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 56.478994,
+      "lon": 84.944889
+    },
+    "address_vi": "Khu vực quanh phố Tatarskaya và đường Moskovsky trakt, phía tây nam trung tâm, thành phố Tomsk, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Khu phố lịch sử của cộng đồng Tatar hình thành từ đầu thế kỷ 17, còn gọi là Zaistochye. Nơi lưu giữ những dãy nhà gỗ cổ, hai thánh đường Hồi giáo Đỏ và Trắng cùng không khí đặc trưng của một 'phố cổ' Siberia.",
+    "presentation_long_vi": "Nằm phía tây nam trung tâm, Khu phố Tatar – tên cổ là Zaistochye ('bên kia lạch Istok') – là một trong những khu lịch sử lâu đời và giàu bản sắc nhất Tomsk. Khu định cư của người Tatar hình thành từ đầu thế kỷ 17 ở ranh giới tây nam của Tomsk thời sơ khai; trục chính là phố Tatarskaya. Cho tới năm 1914, nơi đây vốn là một cù lao tách khỏi thành phố bởi lạch Istok (nay đã chảy ngầm). Người Tatar cùng thương nhân, thợ thủ công đến từ Kazan, Tobolsk, Trung Á... đã tụ cư, buôn bán và dựng nên những dãy nhà gỗ chạm khắc tinh tế. Ngày nay đi giữa các phố Tatarskaya, Gorkogo, du khách vẫn cảm nhận được không khí 'phố cổ' với nhà gỗ hai tầng, cổng gỗ, và nổi bật là hai thánh đường Hồi giáo lịch sử: Nhà thờ Đỏ (Krasnaya mechet, 1904) và Nhà thờ Trắng (Belaya mechet, ~1913). Khu phố được xác định là vùng di sản văn hoá cần bảo tồn, tuy nhiều ngôi nhà đang xuống cấp. Đây là nơi lý tưởng để tản bộ, tìm hiểu lịch sử đa sắc tộc của Tomsk và chụp những khung hình gỗ - vòm minaret đặc trưng.",
+    "highlights_vi": [
+      "Khu định cư của người Tatar từ đầu thế kỷ 17 (Zaistochye), trục chính là phố Tatarskaya.",
+      "Những dãy nhà gỗ cổ chạm khắc, cổng gỗ; từng là cù lao tách khỏi thành phố tới 1914.",
+      "Có hai thánh đường Hồi giáo lịch sử: Nhà thờ Đỏ (1904) và Nhà thờ Trắng (~1913)."
+    ],
+    "practical": {
+      "hours_vi": "Không gian phố ngoài trời, tham quan tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 45–60 phút đi bộ.",
+      "best_time_vi": "Cuối xuân đến đầu thu; ban ngày thuận cho chụp ảnh nhà gỗ.",
+      "tips_vi": "Nhiều nhà là tư nhân, chỉ ngắm/chụp từ ngoài; kết hợp thăm Nhà thờ Đỏ và Nhà thờ Trắng."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A2%D0%B0%D1%82%D0%B0%D1%80%D1%81%D0%BA%D0%B0%D1%8F%20%D1%81%D0%BB%D0%BE%D0%B1%D0%BE%D0%B4%D0%B0%20%E2%80%94%20%D0%97%D0%B0%D0%B8%D1%81%D1%82%D0%BE%D1%87%D1%8C%D0%B5&ll=84.944889,56.478994&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Tatar%20Sloboda%20%28Zaistochye%29%20Historic%20District%2C%20Tomsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Татарская слобода — Заисточье",
+        "url": "https://ru.wikipedia.org/wiki/Татарская_слобода_—_Заисточье"
+      },
+      {
+        "title": "Товики — Татарская слобода (Томск)",
+        "url": "https://towiki.ru/view/Татарская_слобода"
+      }
+    ],
+    "tags": [
+      "square_street",
+      "historic-district",
+      "wooden-architecture",
+      "tatar-heritage",
+      "walking",
+      "siberia",
+      "tomsk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "tomsk-kolarovo-spasskaya-church-tomsk",
+    "slug": "kolarovo-spasskaya-church-tomsk",
+    "region": "tomsk",
+    "region_name_vi": "Tỉnh Tomsk",
+    "federal_district": "Vùng Siberia",
+    "name_vi": "Nhà thờ Đấng Cứu Thế ở làng Kolarovo (Spasskaya tserkov)",
+    "name_ru": "Церковь Спаса Нерукотворного Образа, село Коларово",
+    "name_en": "Church of the Saviour, Kolarovo",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 56.333988,
+      "lon": 84.941692
+    },
+    "address_vi": "Phố Kooperativnaya, 14, làng Kolarovo (Spasskoye), huyện Tomsky, tỉnh Tomsk, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhà thờ đá phong cách Baroque thánh hiến năm 1799, đứng trên bờ sông Tom ở làng Kolarovo cổ, cạnh danh thắng Vách đá Xanh (Siny Utyos). Một trong những ngôi đền cổ nhất còn lại của vùng Tomsk.",
+    "presentation_long_vi": "Bên bờ sông Tom, tại làng Kolarovo cổ (xưa gọi là Spasskoye) cách Tomsk khoảng 15 km về phía nam, Nhà thờ Đấng Cứu Thế (Spasskaya) là một trong những ngôi đền lâu đời và đẹp nhất của vùng. Ghi chép đầu tiên về nhà thờ Spasskoye có từ năm 1644; ngôi đền đá hiện nay được xây vào cuối thế kỷ 18 và thánh hiến ngày 11 tháng 6 năm 1799. Công trình mang phong cách Baroque Siberia với khối vòm và tháp chuông cân đối, đứng trên gò cao bên sông – ngay gần danh thắng thiên nhiên Vách đá Xanh (Siny Utyos). Trong thời Xô Viết nhà thờ bị đóng cửa và hư hại, nhưng đã được trùng tu và mở lại từ năm 1990, trở lại là nơi thờ phụng. Vị trí bên sông Tom với khung cảnh thoáng đãng khiến nơi đây vừa là điểm hành hương, vừa là điểm dừng chân ngắm cảnh lý tưởng. Du khách thường kết hợp thăm nhà thờ cổ Kolarovo với leo Vách đá Xanh và dạo chơi vùng ngoại ô phía nam Tomsk.",
+    "highlights_vi": [
+      "Nhà thờ đá Baroque thánh hiến năm 1799 (ghi chép đầu tiên về giáo xứ từ 1644).",
+      "Đứng trên bờ sông Tom ở làng Kolarovo cổ, ngay cạnh danh thắng Vách đá Xanh (Siny Utyos).",
+      "Bị đóng cửa thời Xô Viết, trùng tu và mở lại từ năm 1990; vẫn hoạt động."
+    ],
+    "practical": {
+      "hours_vi": "Mở theo giờ lễ, ban ngày; ngắm bên ngoài tự do.",
+      "ticket_vi": "Miễn phí; quyên góp tuỳ tâm.",
+      "duration_vi": "Khoảng 20–30 phút.",
+      "best_time_vi": "Cuối xuân đến đầu thu.",
+      "tips_vi": "Cách Tomsk ~15 km, có xe buýt; kết hợp thăm Vách đá Xanh; ăn mặc kín đáo khi vào đền."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C%20%D0%A1%D0%BF%D0%B0%D1%81%D0%B0%20%D0%9D%D0%B5%D1%80%D1%83%D0%BA%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%9E%D0%B1%D1%80%D0%B0%D0%B7%D0%B0%2C%20%D1%81%D0%B5%D0%BB%D0%BE%20%D0%9A%D0%BE%D0%BB%D0%B0%D1%80%D0%BE%D0%B2%D0%BE&ll=84.941692,56.333988&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Church%20of%20the%20Saviour%2C%20Kolarovo%2C%20Tomsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "sobory.ru — Коларово, Церковь Спаса Нерукотворного Образа (obj. 07330)",
+        "url": "https://sobory.ru/article/?object=07330"
+      },
+      {
+        "title": "Культура.РФ — Церковь Спаса Нерукотворного Образа в селе Коларово",
+        "url": "https://www.culture.ru/institutes/2343/cerkov-spasa-nerukotvornogo-obraza-v-sele-kolarovo-tomskaya-oblast"
+      }
+    ],
+    "tags": [
+      "church",
+      "orthodox",
+      "baroque",
+      "18th-century",
+      "tom-river",
+      "kolarovo",
+      "tomsk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "tomsk-mogochino-nikolsky-monastery-tomsk",
+    "slug": "mogochino-nikolsky-monastery-tomsk",
+    "region": "tomsk",
+    "region_name_vi": "Tỉnh Tomsk",
+    "federal_district": "Vùng Siberia",
+    "name_vi": "Tu viện nữ Thánh Nikolai ở Mogochino (Svyato-Nikolsky monastyr)",
+    "name_ru": "Свято-Никольский женский монастырь, село Могочино",
+    "name_en": "St Nicholas Convent, Mogochino",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 57.712951,
+      "lon": 83.589048
+    },
+    "address_vi": "Phố Sovetskaya, 19, làng Mogochino, huyện Molchanovsky, tỉnh Tomsk, Nga (bên sông Ob).",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Tu viện nữ Chính thống giáo bên dòng sông Ob, thành lập năm 1989 tại làng gỗ Mogochino xa xôi. Nổi tiếng với ngôi thánh đường gạch lớn được cộng đồng tự xây giữa vùng taiga, là một trung tâm hành hương độc đáo của phương bắc tỉnh Tomsk.",
+    "presentation_long_vi": "Ở làng Mogochino bên tả ngạn sông Ob thuộc huyện Molchanovsky, cách thành phố Tomsk hàng trăm cây số về phía tây bắc, Tu viện nữ Thánh Nikolai là một hiện tượng độc đáo của đời sống tôn giáo Siberia đương đại. Tu viện được thành lập năm 1989 tại một ngôi làng gỗ hẻo lánh vốn gắn với nghề khai thác - chế biến gỗ và với ký ức về những người bị lưu đày. Điều gây ấn tượng nhất là giữa vùng taiga xa xôi, cộng đồng tu sĩ và giáo dân đã tự tay dựng nên một quần thể bề thế: thánh đường gạch lớn mang tên Thánh Nikolai cùng tháp chuông cao, nhà tu, xưởng và trường học – một 'ốc đảo' tâm linh nổi bật giữa rừng và sông. Tu viện thu hút khách hành hương từ khắp nơi tìm đến cầu nguyện, tĩnh tâm và trải nghiệm nếp sống lao động - cầu nguyện của nhà dòng. Đường tới Mogochino khá gian nan (đi ô tô rồi qua phà/đò sông Ob), nhưng chính sự xa xôi ấy làm nên sức hấp dẫn riêng: một điểm đến cho những ai muốn khám phá chiều sâu tâm linh và cảnh quan sông nước, rừng taiga của phương bắc tỉnh Tomsk.",
+    "highlights_vi": [
+      "Tu viện nữ Chính thống giáo thành lập năm 1989 bên sông Ob, làng gỗ Mogochino.",
+      "Thánh đường gạch lớn và tháp chuông do cộng đồng tự xây giữa vùng taiga xa xôi.",
+      "Trung tâm hành hương độc đáo của phương bắc tỉnh Tomsk; đường đi qua phà sông Ob."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa ban ngày theo lịch tu viện; có giờ lễ sáng và chiều.",
+      "ticket_vi": "Miễn phí; quyên góp tuỳ tâm.",
+      "duration_vi": "Khoảng 1–2 giờ (chưa kể đường đi).",
+      "best_time_vi": "Mùa hè (tháng 6–9) khi đường và phà thuận lợi.",
+      "tips_vi": "Ở rất xa Tomsk, nên đi ô tô và tính thời gian qua phà sông Ob; ăn mặc kín đáo, nữ trùm khăn; nên liên hệ trước."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C%2C%20%D1%81%D0%B5%D0%BB%D0%BE%20%D0%9C%D0%BE%D0%B3%D0%BE%D1%87%D0%B8%D0%BD%D0%BE&ll=83.589048,57.712951&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=St%20Nicholas%20Convent%2C%20Mogochino%2C%20Tomsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "sobory.ru — Могочино, Никольский женский монастырь (obj. 20850)",
+        "url": "https://sobory.ru/article/?object=20850"
+      },
+      {
+        "title": "Монастырский вестник — Никольский женский монастырь с. Могочино",
+        "url": "https://monasterium.ru/monastyri/monastery/nikolskiy-zhenskiy-monastyr-s-mogochino/"
+      },
+      {
+        "title": "Томская епархия — Никольский женский монастырь в пос. Могочино",
+        "url": "https://tomskeparhia.ru/mitropolia/narymtemples/?id=479"
+      }
+    ],
+    "tags": [
+      "church",
+      "monastery",
+      "convent",
+      "pilgrimage",
+      "ob-river",
+      "mogochino",
+      "tomsk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "tomsk-seversk-zoo-tomsk",
+    "slug": "seversk-zoo-tomsk",
+    "region": "tomsk",
+    "region_name_vi": "Tỉnh Tomsk",
+    "federal_district": "Vùng Siberia",
+    "name_vi": "Công viên tự nhiên và Vườn thú Seversk (Seversky zoopark)",
+    "name_ru": "Северский природный парк (Северский зоопарк)",
+    "name_en": "Seversk Natural Park and Zoo",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 56.604176,
+      "lon": 84.867005
+    },
+    "address_vi": "Đại lộ Kommunistichesky, 45A, thành phố Seversk (ZATO), tỉnh Tomsk, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Công viên tự nhiên với vườn thú duy nhất của tỉnh Tomsk, nằm ở thành phố khép kín Seversk. Nơi trưng bày động vật bản địa và ngoại lai cùng khu vui chơi, là điểm dạo chơi gia đình được yêu thích bậc nhất vùng.",
+    "presentation_long_vi": "Ở thành phố Seversk – một 'thành phố khép kín' (ZATO) sát Tomsk – có Công viên tự nhiên Seversk với vườn thú (zoopark) duy nhất của cả tỉnh Tomsk. Vườn thú ra đời từ giữa thế kỷ 20 và qua nhiều thập niên đã trở thành một tổ hợp giải trí - giáo dục thân thiện: nơi quy tụ hàng trăm cá thể thuộc nhiều loài, từ thú và chim bản địa Siberia đến các loài ngoại lai như sư tử, hổ, gấu, khỉ, chim nước... Bên cạnh khu chuồng trại, công viên còn có khu trò chơi, sân khấu ngoài trời và tổ chức các ngày hội, khiến đây thành điểm dạo chơi gia đình được yêu thích bậc nhất vùng. Cần lưu ý Seversk là thành phố khép kín, việc ra vào bị kiểm soát và khách vãng lai thường cần giấy phép/đăng ký trước; tuy vậy vườn thú và công viên vẫn tổ chức các chuyến tham quan. Đối với du khách được vào Seversk, đây là dịp vừa gặp gỡ thế giới động vật vừa tìm hiểu một dạng đô thị đặc biệt của thời Xô Viết.",
+    "highlights_vi": [
+      "Vườn thú duy nhất của tỉnh Tomsk, trong Công viên tự nhiên Seversk.",
+      "Trưng bày nhiều loài thú và chim bản địa lẫn ngoại lai; có khu vui chơi, lễ hội.",
+      "Nằm ở thành phố khép kín Seversk (ZATO) – ra vào bị kiểm soát, thường cần giấy phép."
+    ],
+    "practical": {
+      "hours_vi": "Vườn thú thường mở 9:00–18:00 (kiểm tra lịch mùa).",
+      "ticket_vi": "Vé vào cửa bình dân; có phí cho một số trò chơi.",
+      "duration_vi": "Khoảng 1,5–2,5 giờ.",
+      "best_time_vi": "Cuối xuân đến đầu thu; ngày nắng ráo.",
+      "tips_vi": "Seversk là ZATO: cần giấy phép/đăng ký để vào thành phố – tìm hiểu quy định trước; kết hợp tour có tổ chức nếu không có hộ khẩu địa phương."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%B0%D1%80%D0%BA%20%28%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B7%D0%BE%D0%BE%D0%BF%D0%B0%D1%80%D0%BA%29&ll=84.867005,56.604176&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Seversk%20Natural%20Park%20and%20Zoo%2C%20Tomsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Северский зоопарк",
+        "url": "https://ru.wikipedia.org/wiki/Северский_зоопарк"
+      },
+      {
+        "title": "Культура.РФ — Северский природный парк",
+        "url": "https://www.culture.ru/institutes/35464/severskii-prirodnyi-park"
+      },
+      {
+        "title": "Туристский портал Томска — Северский природный парк",
+        "url": "https://travel-tomsk.ru/severskiy-prirodnyy-park"
+      }
+    ],
+    "tags": [
+      "park_garden",
+      "other",
+      "zoo",
+      "family",
+      "nature",
+      "seversk",
+      "tomsk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "tomsk-great-vasyugan-mire-tomsk",
+    "slug": "great-vasyugan-mire-tomsk",
+    "region": "tomsk",
+    "region_name_vi": "Tỉnh Tomsk",
+    "federal_district": "Vùng Siberia",
+    "name_vi": "Đại đầm lầy Vasyugan (Bolshoye Vasyuganskoye boloto)",
+    "name_ru": "Большое Васюганское болото",
+    "name_en": "The Great Vasyugan Mire",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 56.980833,
+      "lon": 79.69
+    },
+    "address_vi": "Vùng phân thuỷ Ob–Irtysh, huyện Bakcharsky và các huyện phía tây tỉnh Tomsk, Nga (toạ độ tham chiếu do UNESCO công bố).",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Một trong những đầm lầy than bùn lớn nhất thế giới, trải rộng khoảng 53.000 km² ở đồng bằng Tây Siberia. Nằm chủ yếu trên đất tỉnh Tomsk và Novosibirsk, là 'lá phổi' và bể chứa carbon khổng lồ, nằm trong danh sách dự kiến Di sản Thế giới UNESCO.",
+    "presentation_long_vi": "Đại đầm lầy Vasyugan là một trong những kỳ quan thiên nhiên tầm cỡ thế giới gắn với tỉnh Tomsk – vùng đầm lầy than bùn được xem là lớn nhất Bắc bán cầu và thuộc hàng lớn nhất hành tinh. Nằm ở phần trung tâm đồng bằng Tây Siberia, trên vùng phân thuỷ giữa hai con sông lớn Ob và Irtysh, đầm lầy trải rộng khoảng 53.000 km² – lớn hơn diện tích nhiều quốc gia – kéo dài hàng trăm km theo hướng tây - đông. Đầm bao gồm các dạng đầm cao (bog), đầm thấp (fen) và rừng - đầm lầy, là nơi hình thành nguồn nước cho nhiều nhánh sông, đồng thời tích trữ lượng carbon khổng lồ trong than bùn và sản sinh oxy – giữ vai trò sinh quyển đặc biệt quan trọng. Hệ sinh thái hoang sơ này là nơi sinh sống của gấu nâu, nai sừng tấm (elk/moose), chồn zibelin, linh miêu cùng gần 200 loài chim, trong đó có những loài quý hiếm. Phần lớn diện tích nằm trên đất tỉnh Tomsk (huyện Bakcharsky và lân cận), nơi đã lập Khu bảo tồn Vasyugansky. Do quá xa xôi và khó tiếp cận, đầm lầy hầu như không có dân cư và giữ được vẻ nguyên sinh; việc tham quan cần tổ chức chuyên biệt. Vasyugan đã được đưa vào danh sách dự kiến Di sản Thế giới của UNESCO – minh chứng cho giá trị toàn cầu của vùng đầm lầy độc nhất vô nhị này.",
+    "highlights_vi": [
+      "Một trong những đầm lầy than bùn lớn nhất thế giới (~53.000 km²), lớn nhất Bắc bán cầu.",
+      "Nằm trên vùng phân thuỷ Ob–Irtysh, chủ yếu thuộc tỉnh Tomsk (huyện Bakcharsky).",
+      "Bể chứa carbon và 'lá phổi' sinh quyển khổng lồ; trong danh sách dự kiến Di sản Thế giới UNESCO."
+    ],
+    "practical": {
+      "hours_vi": "Vùng thiên nhiên hoang dã, không có giờ mở cửa; cần tour tổ chức và giấy phép khu bảo tồn.",
+      "ticket_vi": "Không có vé thông thường; chi phí theo tour chuyên biệt.",
+      "duration_vi": "Chuyến đi nhiều ngày; một số điểm rìa đầm có thể đi trong ngày từ Bakchar.",
+      "best_time_vi": "Cuối đông (đường băng) hoặc mùa hè khô ráo, tuỳ tuyến.",
+      "tips_vi": "Chỉ đi cùng đơn vị tổ chức và có giấy phép; chuẩn bị chống muỗi, thể lực; toạ độ ở đây là điểm tham chiếu do UNESCO công bố cho khối phía đông của đầm lầy."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B5%20%D0%92%D0%B0%D1%81%D1%8E%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B1%D0%BE%D0%BB%D0%BE%D1%82%D0%BE&ll=79.69,56.980833&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=The%20Great%20Vasyugan%20Mire%2C%20Tomsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "UNESCO World Heritage Centre — The Great Vasyugan Mire (Tentative List, Ref. 5114)",
+        "url": "https://whc.unesco.org/en/tentativelists/5114/"
+      },
+      {
+        "title": "Wikipedia (RU) — Васюганские болота",
+        "url": "https://ru.wikipedia.org/wiki/Васюганские_болота"
+      },
+      {
+        "title": "Облкомприрода (green.tsu.ru) — Васюганский заказник",
+        "url": "https://green.tsu.ru/oopt/?p=432"
+      }
+    ],
+    "tags": [
+      "park_garden",
+      "other",
+      "nature",
+      "wetland",
+      "unesco-tentative",
+      "remote",
+      "tomsk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "tomsk-kolpashevo-museum-tomsk",
+    "slug": "kolpashevo-museum-tomsk",
+    "region": "tomsk",
+    "region_name_vi": "Tỉnh Tomsk",
+    "federal_district": "Vùng Siberia",
+    "name_vi": "Bảo tàng địa phương Kolpashevo (Kolpashevsky kraevedchesky muzei)",
+    "name_ru": "Колпашевский краеведческий музей",
+    "name_en": "Kolpashevo Museum of Local Lore",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 58.311469,
+      "lon": 82.899335
+    },
+    "address_vi": "Phố Lenin, 49, thành phố Kolpashevo, tỉnh Tomsk, Nga (bên sông Ob).",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng địa phương của thành phố Kolpashevo bên sông Ob, giới thiệu thiên nhiên và lịch sử vùng Narym: văn hoá người Selkup bản địa, nghề sông nước và trang sử bi thương của chốn lưu đày. Là chi nhánh của Bảo tàng tỉnh Tomsk.",
+    "presentation_long_vi": "Nằm bên dòng Ob ở thành phố Kolpashevo – trung tâm của vùng Narym rộng lớn phía bắc tỉnh Tomsk – Bảo tàng địa phương Kolpashevo là cửa ngõ tìm hiểu một vùng đất giàu bản sắc và nhiều thăng trầm. Trưng bày dẫn dắt người xem qua thiên nhiên taiga và sông nước phương bắc, đời sống và văn hoá của các dân tộc bản địa (đặc biệt là người Selkup), nghề đánh cá, săn bắn và giao thương đường sông vốn là mạch sống của vùng Narym. Một phần quan trọng dành cho lịch sử cận – hiện đại: Narym từ lâu là nơi lưu đày, và vùng Kolpashevo gắn với những trang sử bi thương của thời kỳ đàn áp – trong đó có thảm kịch 'Kolpashevsky yar' năm 1979, khi bờ sông Ob sạt lở làm lộ ra một hố chôn tập thể nạn nhân bị hành quyết. Bảo tàng (là chi nhánh của Bảo tàng tỉnh Tomsk) lưu giữ hiện vật khảo cổ, dân tộc học, tài liệu và ảnh tư liệu quý. Với du khách xuôi dòng Ob về phương bắc, đây là điểm dừng chân ý nghĩa để hiểu chiều sâu lịch sử của vùng Narym.",
+    "highlights_vi": [
+      "Bảo tàng địa phương của Kolpashevo bên sông Ob, trung tâm vùng Narym.",
+      "Giới thiệu văn hoá người Selkup bản địa, nghề sông nước và lịch sử vùng lưu đày.",
+      "Gắn với ký ức thảm kịch 'Kolpashevsky yar' (1979); là chi nhánh Bảo tàng tỉnh Tomsk."
+    ],
+    "practical": {
+      "hours_vi": "Thứ Hai–Thứ Sáu (thường 10:00–18:00); nên kiểm tra giờ và ngày nghỉ trước.",
+      "ticket_vi": "Vé vào cửa bình dân; có phí hướng dẫn.",
+      "duration_vi": "Khoảng 1–1,5 giờ.",
+      "best_time_vi": "Quanh năm (trong nhà).",
+      "tips_vi": "Kolpashevo cách Tomsk ~270 km về phía bắc; đi bằng ô tô hoặc đường sông; kết hợp tìm hiểu lịch sử vùng Narym."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D0%BE%D0%BB%D0%BF%D0%B0%D1%88%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D1%80%D0%B0%D0%B5%D0%B2%D0%B5%D0%B4%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9&ll=82.899335,58.311469&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kolpashevo%20Museum%20of%20Local%20Lore%2C%20Tomsk%2C%20Russia"
+    },
+    "official_site": "https://tomskmuseum.ru/kkmu/",
+    "sources": [
+      {
+        "title": "Томский областной краеведческий музей — Колпашевский краеведческий музей",
+        "url": "https://tomskmuseum.ru/kkmu/"
+      },
+      {
+        "title": "Культура.РФ — Колпашевский краеведческий музей",
+        "url": "https://www.culture.ru/institutes/8497/kolpashevskii-kraevedcheskii-muzei"
+      },
+      {
+        "title": "2ГИС — Колпашевский краеведческий музей, ул. Ленина 49",
+        "url": "https://2gis.ru/kolpashevo/firm/70000001039639392"
+      }
+    ],
+    "tags": [
+      "museum",
+      "local-history",
+      "narym",
+      "selkup",
+      "ob-river",
+      "repression",
+      "tomsk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "tomsk-timiryazevsky-bor-tomsk",
+    "slug": "timiryazevsky-bor-tomsk",
+    "region": "tomsk",
+    "region_name_vi": "Tỉnh Tomsk",
+    "federal_district": "Vùng Siberia",
+    "name_vi": "Rừng thông Timiryazevsky (Timiryazevsky bor)",
+    "name_ru": "Тимирязевский бор",
+    "name_en": "Timiryazevsky Pine Forest",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 56.470255,
+      "lon": 84.870157
+    },
+    "address_vi": "Vùng Ob–Tom междуречье, gần làng Timiryazevskoye, tả ngạn sông Tom đối diện thành phố Tomsk, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Cánh rừng thông rộng lớn ở vùng giữa hai sông Ob và Tom, đối diện Tomsk qua sông. Là điểm dạo chơi, hái nấm - hái quả và trượt tuyết được người dân yêu thích hơn một thế kỷ; đồng thời là di tích thiên nhiên và khảo cổ của tỉnh Tomsk.",
+    "presentation_long_vi": "Trải dài trên tả ngạn sông Tom, đối diện thành phố Tomsk, Rừng thông Timiryazevsky (Timiryazevsky bor) là một trong những cánh rừng gần đô thị được yêu thích nhất của tỉnh. Nằm trong vùng междуречье (giữa hai sông) Ob – Tom, quanh làng Timiryazevskoye, khu rừng thông cổ thụ này chỉ cách trung tâm Tomsk 15–20 phút đi xe. Suốt hơn một thế kỷ, người Tomsk đã coi đây là nơi nghỉ ngơi, đi bộ, đạp xe, hái nấm và quả rừng vào mùa hè - thu, và trượt tuyết vào mùa đông. Rừng được công nhận là di tích thiên nhiên (памятник природы) của tỉnh Tomsk nhờ giá trị sinh thái và cảnh quan. Không chỉ vậy, khu vực Timiryazevo còn là một di chỉ khảo cổ nổi tiếng với quần thể gò mộ (kurgan) cổ và khu bảo tồn khảo cổ, gợi mở lịch sử cư trú lâu đời của vùng. Với du khách, một buổi dạo trong rừng thông thơm mát, ngắm sông Tom và tận hưởng không khí trong lành là cách thư giãn dễ chịu, gần gũi thiên nhiên ngay cạnh thành phố.",
+    "highlights_vi": [
+      "Rừng thông rộng lớn ở vùng giữa hai sông Ob – Tom, đối diện Tomsk qua sông.",
+      "Nơi dạo chơi, hái nấm - quả và trượt tuyết được yêu thích hơn một thế kỷ; di tích thiên nhiên của tỉnh.",
+      "Vùng Timiryazevo còn có di chỉ khảo cổ với quần thể gò mộ (kurgan) cổ."
+    ],
+    "practical": {
+      "hours_vi": "Không gian rừng ngoài trời, tham quan tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 1–2 giờ (dạo bộ).",
+      "best_time_vi": "Mùa hè - thu (hái nấm, quả); mùa đông trượt tuyết.",
+      "tips_vi": "Cách trung tâm ~15–20 phút xe; mang đồ chống muỗi mùa hè; đi theo lối mòn, tránh lạc sâu vào rừng."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A2%D0%B8%D0%BC%D0%B8%D1%80%D1%8F%D0%B7%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B1%D0%BE%D1%80&ll=84.870157,56.470255&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Timiryazevsky%20Pine%20Forest%2C%20Tomsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Тимирязевский бор",
+        "url": "https://ru.wikipedia.org/wiki/Тимирязевский_бор"
+      },
+      {
+        "title": "Товики — Тимирязево (Томск)",
+        "url": "https://towiki.ru/view/Тимирязево"
+      }
+    ],
+    "tags": [
+      "park_garden",
+      "nature",
+      "pine-forest",
+      "recreation",
+      "archaeology",
+      "siberia",
+      "tomsk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
   }
 ]

@@ -2094,5 +2094,1081 @@
     "status": "enriched",
     "last_updated": "2026-07-28",
     "country": "russia"
+  },
+  {
+    "id": "komi-ib-ascension-church",
+    "slug": "ib-ascension-church",
+    "region": "komi",
+    "region_name_vi": "Cộng hoà Komi",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Nhà thờ Chúa Thăng Thiên ở làng Ib (Voznesenskaya tserkov)",
+    "name_ru": "Церковь Вознесения Господня, село Ыб",
+    "name_en": "Church of the Ascension, Yb (Ib)",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 61.269863,
+      "lon": 50.577865
+    },
+    "address_vi": "Làng Ib (Ыб), huyện Syktyvdinsky, bên tả ngạn sông Sysola, cách Syktyvkar khoảng 50 km về phía nam, Cộng hoà Komi.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Một trong những ngôi đền cổ và được tôn kính nhất của xứ Komi, dựng bằng đá năm 1825 theo phong cách classicism trên bờ trái sông Sysola. Nhà thờ trắng với vòm cao và tháp chuông bề thế từng nhìn thấy từ mọi ngọn đồi quanh làng Ib.",
+    "presentation_long_vi": "Vươn lên giữa làng Ib cổ kính bên tả ngạn sông Sysola, Nhà thờ Chúa Thăng Thiên là một trong những ngôi đền lâu đời và giàu ý nghĩa nhất của Cộng hoà Komi. Trên vị trí này từng có các nhà thờ gỗ; công trình bằng đá hiện nay được khởi dựng năm 1825 và hoàn thiện dần tới năm 1838, theo bản thiết kế của cha Pavel Ikonnikov từ Vologda sau khi phương án tự vẽ của giáo dân bị bác bỏ vì không hợp quy tắc kiến trúc. Nhà thờ mang phong cách classicism với ba bàn thờ – Thăng Thiên (chính), Thánh Nikolai và Tiên tri Ilya – cùng khối vòm lớn và tháp chuông cao vút. Theo hồi ức của dân làng, ngôi đền trắng đứng trên gò đất cao đến mức nhìn được toàn cảnh làng và tiếng chuông lớn «Tiếng Chúa» nặng hơn ba tấn vang xa tới 15 dặm. Bị đóng cửa năm 1936 trong thời đàn áp, nhà thờ được mở lại năm 1956 và đến nay vẫn là nơi thờ phụng. Ib ngày nay cũng nổi tiếng là một trong những cái nôi văn hoá và tâm linh của người Komi, gắn với tổ hợp du lịch dọc bờ Sysola.",
+    "highlights_vi": [
+      "Nhà thờ đá classicism dựng năm 1825 (hoàn thiện 1838) – một trong những ngôi đền cổ nhất Komi.",
+      "Ba bàn thờ, vòm cao và tháp chuông từng nhìn thấy từ mọi ngọn đồi quanh làng Ib.",
+      "Bị đóng cửa năm 1936 thời đàn áp, mở lại năm 1956; vẫn hoạt động đến nay."
+    ],
+    "practical": {
+      "hours_vi": "Mở theo giờ lễ, ban ngày.",
+      "ticket_vi": "Miễn phí; quyên góp tuỳ tâm.",
+      "duration_vi": "Khoảng 20–30 phút.",
+      "best_time_vi": "Cuối xuân đến đầu thu.",
+      "tips_vi": "Cách Syktyvkar ~50 km; kết hợp thăm Tu viện Serafimovsky và tổ hợp du lịch làng Ib; ăn mặc kín đáo khi vào đền."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C%20%D0%92%D0%BE%D0%B7%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%93%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D0%BD%D1%8F%2C%20%D1%81%D0%B5%D0%BB%D0%BE%20%D0%AB%D0%B1&ll=50.577865,61.269863&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Church%20of%20the%20Ascension%2C%20Yb%20%28Ib%29%2C%20Komi%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "sobory.ru — Ыб, Церковь Вознесения Господня (obj. 10480)",
+        "url": "https://sobory.ru/article/?object=10480"
+      },
+      {
+        "title": "Свято-Вознесенский храм села Ыб — история прихода",
+        "url": "http://ib-hram.prihod.ru/istorija_prikhoda"
+      }
+    ],
+    "tags": [
+      "church",
+      "classicism",
+      "19th-century",
+      "orthodox",
+      "sysola",
+      "ib",
+      "komi"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "komi-ib-serafimovsky-convent",
+    "slug": "ib-serafimovsky-convent",
+    "region": "komi",
+    "region_name_vi": "Cộng hoà Komi",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Tu viện nữ Serafimovsky ở làng Ib (Ybskii Serafimovskii monastyr)",
+    "name_ru": "Ыбский Серафимовский женский монастырь",
+    "name_en": "Yb (Ib) St Seraphim Convent",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 61.262159,
+      "lon": 50.57099
+    },
+    "address_vi": "Làng Ib (Ыб), huyện Syktyvdinsky, gần suối khoáng Serafimovsky, Cộng hoà Komi.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Tu viện nữ Chính thống giáo tại làng Ib, gắn với suối nước khoáng Serafimovsky được xem là linh thiêng. Là một trung tâm hành hương và du lịch tâm linh nổi bật của xứ Komi, với nhà thờ Thánh Serafim Sarovsky và quần thể công trình mới xây đầu thế kỷ 21.",
+    "presentation_long_vi": "Nằm trên vùng đồi bên làng Ib cổ, Tu viện nữ Serafimovsky là một trong những trung tâm hành hương lớn nhất của Cộng hoà Komi. Tu viện được thành lập đầu thế kỷ 21 quanh một dòng suối nước khoáng mà người dân từ lâu tôn là thiêng, đặt dưới sự bảo trợ của Thánh Serafim Sarovsky – vị thánh khổ tu được yêu kính bậc nhất của Chính thống giáo Nga. Quần thể gồm nhà thờ Thánh Serafim Sarovsky (dựng khoảng 2007–2009), các nhà nguyện, khu nhà tu và điểm lấy nước thánh; nhiều tín đồ tìm đến để cầu nguyện, chữa bệnh và nghỉ ngơi tĩnh tâm. Vị trí ở làng Ib – vốn được ví như «đất thánh» của người Komi với hàng chục ngọn đồi và nhiều nhà thờ – khiến tu viện trở thành điểm dừng ý nghĩa trong hành trình khám phá văn hoá, tôn giáo bản địa. Du khách thường kết hợp thăm tu viện, Nhà thờ Chúa Thăng Thiên cổ và tổ hợp du lịch dân tộc học dọc bờ Sysola.",
+    "highlights_vi": [
+      "Tu viện nữ thành lập đầu thế kỷ 21 quanh suối khoáng Serafimovsky được tôn là thiêng.",
+      "Nhà thờ Thánh Serafim Sarovsky (khoảng 2007–2009) cùng quần thể nhà nguyện, điểm lấy nước thánh.",
+      "Trung tâm hành hương và du lịch tâm linh nổi bật của làng Ib – 'đất thánh' của người Komi."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa ban ngày theo lịch tu viện; giờ lễ buổi sáng và chiều.",
+      "ticket_vi": "Miễn phí; quyên góp tuỳ tâm.",
+      "duration_vi": "Khoảng 45–60 phút.",
+      "best_time_vi": "Cuối xuân đến đầu thu; dịp lễ Thánh Serafim đông khách hành hương.",
+      "tips_vi": "Ăn mặc kín đáo, nữ nên trùm khăn; có thể lấy nước ở suối thánh; cách Syktyvkar ~55 km."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%AB%D0%B1%D1%81%D0%BA%D0%B8%D0%B9%20%D0%A1%D0%B5%D1%80%D0%B0%D1%84%D0%B8%D0%BC%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C&ll=50.57099,61.262159&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Yb%20%28Ib%29%20St%20Seraphim%20Convent%2C%20Komi%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "sobory.ru — Ыб, Церковь Серафима Саровского (Серафимовский монастырь, obj. 10547)",
+        "url": "https://sobory.ru/article/?object=10547"
+      },
+      {
+        "title": "sobory.ru — Ыбский Серафимовский женский монастырь (obj. 16610)",
+        "url": "https://sobory.ru/article/?object=16610"
+      }
+    ],
+    "tags": [
+      "church",
+      "monastery",
+      "convent",
+      "pilgrimage",
+      "holy-spring",
+      "ib",
+      "komi"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "komi-ukhta-stefan-church",
+    "slug": "ukhta-stefan-church",
+    "region": "komi",
+    "region_name_vi": "Cộng hoà Komi",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Nhà thờ Thánh Stefan xứ Perm ở Ukhta (Tserkov Stefana Permskogo)",
+    "name_ru": "Церковь Стефана Пермского, Ухта",
+    "name_en": "Church of St Stephen of Perm, Ukhta",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 63.556228,
+      "lon": 53.693581
+    },
+    "address_vi": "Ул. Октябрьская, 8, thành phố Ukhta, Cộng hoà Komi (đối diện Công viên Thiếu nhi).",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhà thờ Chính thống giáo mang tên Thánh Stefan xứ Perm – vị thánh truyền giáo và người sáng tạo chữ viết cho người Komi – được bố trí trong toà Nhà Văn hoá cũ xây thời Stalin (1951–1961). Là một trong những giáo đường chính của thành phố dầu khí Ukhta.",
+    "presentation_long_vi": "Toạ lạc ở trung tâm Ukhta đối diện Công viên Thiếu nhi, Nhà thờ Thánh Stefan xứ Perm được thành lập năm 1994 và bố trí trong toà Cung/Nhà Văn hoá cũ – một công trình bề thế mang phong cách tân cổ điển thời Stalin, xây trong các năm 1951–1961. Việc tận dụng toà nhà đồ sộ với hàng cột và mặt tiền cân đối làm nơi thờ phụng khiến ngôi đền có diện mạo khác biệt so với kiến trúc nhà thờ truyền thống. Nhà thờ được đặt dưới sự bảo trợ của Thánh Stefan xứ Perm (thế kỷ 14) – nhà truyền giáo đã đưa Chính thống giáo đến vùng đất này và sáng tạo bộ chữ cái cổ Anbur cho người Komi, một nhân vật có ý nghĩa đặc biệt với bản sắc dân tộc địa phương. Ngày nay đây là một trong những trung tâm tinh thần chính của Ukhta – thành phố được mệnh danh là «quê hương dầu mỏ đầu tiên của nước Nga». Với du khách, ngôi đền vừa là nơi chiêm bái vừa gợi mở câu chuyện về công cuộc Kitô hoá và văn hoá Komi.",
+    "highlights_vi": [
+      "Nhà thờ mang tên Thánh Stefan xứ Perm – người sáng tạo chữ viết cổ cho người Komi.",
+      "Bố trí trong toà Nhà Văn hoá tân cổ điển thời Stalin (1951–1961) ở trung tâm Ukhta.",
+      "Một trong những trung tâm tinh thần chính của thành phố dầu khí Ukhta."
+    ],
+    "practical": {
+      "hours_vi": "Mở theo giờ lễ, ban ngày.",
+      "ticket_vi": "Miễn phí; quyên góp tuỳ tâm.",
+      "duration_vi": "Khoảng 20–30 phút.",
+      "best_time_vi": "Quanh năm.",
+      "tips_vi": "Ăn mặc kín đáo khi vào đền; kết hợp dạo Công viên Thiếu nhi và trung tâm Ukhta."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C%20%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD%D0%B0%20%D0%9F%D0%B5%D1%80%D0%BC%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%2C%20%D0%A3%D1%85%D1%82%D0%B0&ll=53.693581,63.556228&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Church%20of%20St%20Stephen%20of%20Perm%2C%20Ukhta%2C%20Komi%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "sobory.ru — Ухта, Церковь Стефана Пермского (obj. 16388)",
+        "url": "https://sobory.ru/article/?object=16388"
+      }
+    ],
+    "tags": [
+      "church",
+      "orthodox",
+      "stefan-permsky",
+      "stalin-architecture",
+      "ukhta",
+      "komi"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "komi-ukhta-museum",
+    "slug": "ukhta-museum",
+    "region": "komi",
+    "region_name_vi": "Cộng hoà Komi",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Bảo tàng lịch sử - địa phương Ukhta (Istoriko-kraevedcheskii muzei)",
+    "name_ru": "Историко-краеведческий музей с кабинетом-музеем А. Я. Кремса, Ухта",
+    "name_en": "Ukhta Museum of Local History and Lore",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 63.55494,
+      "lon": 53.704705
+    },
+    "address_vi": "Ул. Мира, 5Б, thành phố Ukhta, Cộng hoà Komi.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng lịch sử - địa phương của Ukhta, giới thiệu lịch sử vùng đất, ngành dầu khí phương Bắc và số phận GULAG, cùng gian tưởng niệm nhà địa chất dầu Andrei Krems. Là nơi lưu giữ ký ức của 'quê hương dầu mỏ đầu tiên nước Nga'.",
+    "presentation_long_vi": "Mở cửa năm 1981, Bảo tàng lịch sử - địa phương Ukhta là nơi kể lại toàn bộ câu chuyện của một trong những thành phố công nghiệp trẻ đặc biệt nhất phương Bắc nước Nga. Trưng bày dẫn dắt người xem qua thiên nhiên và tự nhiên vùng taiga Komi, lịch sử khai phá dầu khí – từ những giếng dầu đầu tiên của Đoàn thám hiểm Ukhta năm 1929 đến sự hình thành khu định cư Chibyu và thành phố Ukhta hôm nay. Một phần quan trọng của bảo tàng nói về mặt tối của lịch sử: các trại lao động GULAG (Ukhtpechlag) đã dùng sức người tù để mở mỏ, xây thành phố và đường sá. Bảo tàng còn có gian tưởng niệm nhà địa chất lừng danh Andrei Yakovlevich Krems, người gắn bó với ngành dầu khí Komi. Với hiện vật, tài liệu, ảnh và mô hình, đây là điểm khởi đầu lý tưởng để du khách hiểu vì sao Ukhta được gọi là «quê hương dầu mỏ đầu tiên của nước Nga».",
+    "highlights_vi": [
+      "Bảo tàng lịch sử - địa phương của Ukhta, mở cửa năm 1981.",
+      "Kể lịch sử khai phá dầu khí phương Bắc (từ Đoàn thám hiểm Ukhta 1929) và số phận GULAG.",
+      "Có gian tưởng niệm nhà địa chất dầu Andrei Krems."
+    ],
+    "practical": {
+      "hours_vi": "Thứ Ba–Thứ Sáu 9:00–17:00, Thứ Bảy 9:00–16:00 (nghỉ trưa 13:00–14:00); nghỉ CN, T2.",
+      "ticket_vi": "Vé vào cửa bình dân; có phí hướng dẫn.",
+      "duration_vi": "Khoảng 1–1,5 giờ.",
+      "best_time_vi": "Quanh năm (trong nhà).",
+      "tips_vi": "Thứ Năm cuối tháng là ngày vệ sinh (đóng cửa); nên kiểm tra lịch trước."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%BE-%D0%BA%D1%80%D0%B0%D0%B5%D0%B2%D0%B5%D0%B4%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%20%D1%81%20%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D0%B5%D1%82%D0%BE%D0%BC-%D0%BC%D1%83%D0%B7%D0%B5%D0%B5%D0%BC%20%D0%90.%20%D0%AF.%20%D0%9A%D1%80%D0%B5%D0%BC%D1%81%D0%B0%2C%20%D0%A3%D1%85%D1%82%D0%B0&ll=53.704705,63.55494&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Ukhta%20Museum%20of%20Local%20History%20and%20Lore%2C%20Komi%2C%20Russia"
+    },
+    "official_site": "https://uhtamuseum.ru/",
+    "sources": [
+      {
+        "title": "Культура.РФ — Историко-краеведческий музей с кабинетом-музеем А. Я. Кремса, Ухта",
+        "url": "https://www.culture.ru/institutes/12260/istoriko-kraevedcheskii-muzei-s-kabinetom-muzeem-a-ya-kremsa"
+      },
+      {
+        "title": "Официальный сайт музея — uhtamuseum.ru",
+        "url": "https://uhtamuseum.ru/"
+      }
+    ],
+    "tags": [
+      "museum",
+      "local-history",
+      "oil-history",
+      "gulag",
+      "ukhta",
+      "komi"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "komi-ukhta-gdk",
+    "slug": "ukhta-gdk",
+    "region": "komi",
+    "region_name_vi": "Cộng hoà Komi",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Cung Văn hoá thành phố Ukhta (Gorodskoi dvorets kultury)",
+    "name_ru": "Городской дворец культуры, Ухта",
+    "name_en": "Ukhta City Palace of Culture",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 63.567912,
+      "lon": 53.666013
+    },
+    "address_vi": "Пр-т Ленина, 26, thành phố Ukhta, Cộng hoà Komi.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Thiết chế văn hoá lớn nhất Cộng hoà Komi, khánh thành năm 1983 trên đại lộ Lenin. Là sân khấu chính cho các buổi hoà nhạc, liên hoan, lễ hội và sự kiện quần chúng của thành phố dầu khí Ukhta.",
+    "presentation_long_vi": "Khánh thành ngày 24 tháng 12 năm 1983, Cung Văn hoá thành phố Ukhta là thiết chế văn hoá lớn nhất Cộng hoà Komi và là trung tâm đời sống tinh thần của thành phố. Công trình đồ sộ này ra đời nhờ sáng kiến của bộ trưởng ngành xây dựng dầu khí B. E. Shcherbina, với đại sảnh lớn trở thành sân khấu chính cho các sự kiện quần chúng của Ukhta. Tại đây thường xuyên diễn ra hoà nhạc, biểu diễn nghệ thuật, liên hoan, các cuộc thi và lễ hội thành phố; nhiều câu lạc bộ, nhóm sáng tạo và lớp năng khiếu cũng sinh hoạt trong toà nhà. Nằm trên đại lộ Lenin – trục trung tâm của Ukhta, Cung Văn hoá là điểm hẹn quen thuộc của người dân và là nơi du khách có thể bắt gặp nhịp sống văn hoá đương đại của «thủ phủ dầu khí» miền Bắc Komi.",
+    "highlights_vi": [
+      "Thiết chế văn hoá lớn nhất Cộng hoà Komi, khánh thành năm 1983.",
+      "Đại sảnh là sân khấu chính cho hoà nhạc, liên hoan và sự kiện quần chúng của Ukhta.",
+      "Nằm trên đại lộ Lenin – trục trung tâm thành phố."
+    ],
+    "practical": {
+      "hours_vi": "Mở theo lịch sự kiện và giờ hành chính; biểu diễn thường buổi tối/cuối tuần.",
+      "ticket_vi": "Nhiều sự kiện miễn phí; buổi diễn có vé theo chương trình.",
+      "duration_vi": "Tuỳ chương trình, khoảng 1,5–2 giờ mỗi buổi.",
+      "best_time_vi": "Mùa diễn thu–xuân; dịp lễ có sự kiện lớn.",
+      "tips_vi": "Xem lịch sự kiện trước; nằm ngay trung tâm, dễ kết hợp dạo phố Ukhta."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86%20%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D1%8B%2C%20%D0%A3%D1%85%D1%82%D0%B0&ll=53.666013,63.567912&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Ukhta%20City%20Palace%20of%20Culture%2C%20Komi%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Культура.РФ — Ухтинский городской дворец культуры",
+        "url": "https://www.culture.ru/institutes/30109/ukhtinskii-gorodskoi-dvorec-kultury"
+      }
+    ],
+    "tags": [
+      "other",
+      "culture",
+      "palace-of-culture",
+      "concert-hall",
+      "ukhta",
+      "komi"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "komi-vorkuta-drama-theatre",
+    "slug": "vorkuta-drama-theatre",
+    "region": "komi",
+    "region_name_vi": "Cộng hoà Komi",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Nhà hát kịch Vorkuta mang tên Mordvinov (Vorkutinskii dramaticheskii teatr)",
+    "name_ru": "Воркутинский драматический театр им. Б. А. Мордвинова",
+    "name_en": "Vorkuta State Drama Theatre named after B. A. Mordvinov",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 67.498041,
+      "lon": 64.060153
+    },
+    "address_vi": "Площадь Юбилейная, 1, thành phố Vorkuta, Cộng hoà Komi.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhà hát kịch chuyên nghiệp của thành phố Vorkuta ở vùng Bắc Cực, có nguồn gốc đặc biệt từ đoàn kịch của các tù nhân và nghệ sĩ lưu đày thời GULAG. Mang tên đạo diễn Boris Mordvinov, là trung tâm sân khấu quan trọng nhất vùng cực bắc Komi.",
+    "presentation_long_vi": "Nằm trên Quảng trường Yubileynaya ở trung tâm Vorkuta – thành phố nằm phía trên vòng Bắc Cực, Nhà hát kịch Vorkuta có một lịch sử ra đời hiếm có. Sân khấu chuyên nghiệp ở đây khởi nguồn từ thập niên 1940 giữa hệ thống trại lao động Vorkutlag, khi trong số tù nhân và người lưu đày có nhiều nghệ sĩ, đạo diễn, nhạc công tài năng bị đưa lên phương Bắc. Chính họ đã dựng nên những vở diễn đầu tiên, biến nhà hát thành một ốc đảo văn hoá giữa vùng đất khắc nghiệt của than và giá lạnh. Nhà hát mang tên đạo diễn Boris Arkadyevich Mordvinov – người từng làm việc tại Nhà hát Lớn Moskva, bị đày tới đây và có công gây dựng đời sống sân khấu Vorkuta. Ngày nay nhà hát tiếp tục dàn dựng kịch kinh điển Nga và thế giới, hài kịch, các vở cho thiếu nhi, phục vụ cư dân của một trong những thành phố ở cực bắc nhất châu Âu. Với du khách, một buổi tối tại đây vừa là trải nghiệm nghệ thuật vừa chạm tới trang sử bi tráng của Vorkuta.",
+    "highlights_vi": [
+      "Nhà hát kịch chuyên nghiệp của Vorkuta, khởi nguồn từ đoàn kịch tù nhân thời Vorkutlag.",
+      "Mang tên đạo diễn Boris Mordvinov – từng làm ở Nhà hát Lớn, bị đày tới đây.",
+      "Trung tâm sân khấu quan trọng nhất của thành phố vùng cực bắc châu Âu."
+    ],
+    "practical": {
+      "hours_vi": "Diễn theo lịch mùa (thường buổi tối, cuối tuần); phòng vé giờ hành chính.",
+      "ticket_vi": "Mua vé theo buổi diễn, giá bình dân.",
+      "duration_vi": "Mỗi buổi khoảng 2 giờ.",
+      "best_time_vi": "Mùa diễn thu–xuân.",
+      "tips_vi": "Đặt vé trước cho suất nổi bật; kết hợp tìm hiểu lịch sử GULAG của Vorkuta."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D0%BE%D1%80%D0%BA%D1%83%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D1%82%D0%B5%D0%B0%D1%82%D1%80%20%D0%B8%D0%BC.%20%D0%91.%20%D0%90.%20%D0%9C%D0%BE%D1%80%D0%B4%D0%B2%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0&ll=64.060153,67.498041&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Vorkuta%20State%20Drama%20Theatre%20named%20after%20B.%20A.%20Mordvinov%2C%20Komi%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Культура.РФ — Воркутинский драматический театр им. Б. А. Мордвинова",
+        "url": "https://www.culture.ru/institutes/10420/vorkutinskii-dramaticheskii-teatr-imeni-b-a-mordvinova"
+      }
+    ],
+    "tags": [
+      "theatre",
+      "drama",
+      "gulag-heritage",
+      "arctic",
+      "vorkuta",
+      "komi"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "komi-vorkuta-miners-palace",
+    "slug": "vorkuta-miners-palace",
+    "region": "komi",
+    "region_name_vi": "Cộng hoà Komi",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Cung Văn hoá Thợ mỏ Vorkuta (Dvorets kultury shakhtyorov)",
+    "name_ru": "Дворец культуры шахтёров, Воркута",
+    "name_en": "Miners' Palace of Culture, Vorkuta",
+    "categories": [
+      "other",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 67.494355,
+      "lon": 64.048361
+    },
+    "address_vi": "Площадь Мира, 1, thành phố Vorkuta, Cộng hoà Komi.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Công trình biểu tượng của Vorkuta, xây năm 1959–1961 theo phong cách tân cổ điển hoành tráng thời hậu Stalin, với các nhóm tượng thợ mỏ, nhà địa chất và công nhân ở hai bên. Đứng trên Quảng trường Mira, là trái tim kiến trúc của thành phố than vùng Bắc Cực.",
+    "presentation_long_vi": "Sừng sững trên Quảng trường Mira, Cung Văn hoá Thợ mỏ là công trình kiến trúc biểu tượng và bề thế nhất của Vorkuta. Sau khi toà nhà văn hoá bằng gỗ bị cháy năm 1958, thành phố quyết định xây một cung văn hoá bằng đá mới nhân dịp kỷ niệm 25 năm bể than Pechora. Công trình do kiến trúc sư V. N. Lunyov và kỹ sư S. A. Luban thiết kế, mở cửa ngày 30 tháng 8 năm 1959 và hoàn thiện tới năm 1961. Toà nhà mang phong cách tân cổ điển hoành tráng đặc trưng của thời kỳ đó, với hàng cột lớn, mặt tiền uy nghi và điểm nhấn là các nhóm tượng điêu khắc hai bên khắc hoạ thợ mỏ, nhà địa chất và người lao động – những con người đã dựng nên Vorkuta giữa vùng lãnh nguyên khắc nghiệt. Là trung tâm sinh hoạt văn hoá của thành phố, cung tổ chức hoà nhạc, liên hoan và các sự kiện quần chúng. Với du khách, đây là điểm tham quan không thể bỏ qua để cảm nhận tinh thần và bi hùng ca của Vorkuta – thành phố than được xây dựng phần lớn bằng bàn tay tù nhân GULAG.",
+    "highlights_vi": [
+      "Cung văn hoá tân cổ điển hoành tráng, xây 1959–1961 (KTS V. N. Lunyov) trên Quảng trường Mira.",
+      "Nổi bật với các nhóm tượng thợ mỏ, nhà địa chất, công nhân hai bên mặt tiền.",
+      "Công trình biểu tượng của Vorkuta, gắn với dịp 25 năm bể than Pechora."
+    ],
+    "practical": {
+      "hours_vi": "Mở theo lịch sự kiện và giờ hành chính.",
+      "ticket_vi": "Nhiều sự kiện miễn phí; buổi diễn có vé; ngắm kiến trúc bên ngoài miễn phí.",
+      "duration_vi": "Khoảng 20–30 phút (ngắm ngoài) hoặc theo buổi diễn.",
+      "best_time_vi": "Quanh năm; mùa hè dễ chụp ảnh mặt tiền và các nhóm tượng.",
+      "tips_vi": "Kết hợp dạo Quảng trường Mira – trung tâm kiến trúc Stalin của Vorkuta."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%94%D0%B2%D0%BE%D1%80%D0%B5%D1%86%20%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D1%8B%20%D1%88%D0%B0%D1%85%D1%82%D1%91%D1%80%D0%BE%D0%B2%2C%20%D0%92%D0%BE%D1%80%D0%BA%D1%83%D1%82%D0%B0&ll=64.048361,67.494355&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Miners%27%20Palace%20of%20Culture%2C%20Vorkuta%2C%20Komi%2C%20Russia"
+    },
+    "official_site": "https://dksh-vorkuta.ru/",
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Дворец культуры шахтёров (Воркута)",
+        "url": "https://ru.wikipedia.org/wiki/Дворец_культуры_шахтёров_(Воркута)"
+      },
+      {
+        "title": "Культура.РФ — Дворец культуры шахтёров г. Воркуты",
+        "url": "https://www.culture.ru/institutes/36129/dvorec-kultury-shakhterov-g-vorkuty"
+      }
+    ],
+    "tags": [
+      "other",
+      "monument",
+      "architecture",
+      "stalin-architecture",
+      "palace-of-culture",
+      "vorkuta",
+      "komi"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "komi-vorkuta-museum",
+    "slug": "vorkuta-museum",
+    "region": "komi",
+    "region_name_vi": "Cộng hoà Komi",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Bảo tàng địa phương Vorkuta (Vorkutinskii kraevedcheskii muzei)",
+    "name_ru": "Воркутинский краеведческий музей (музейно-выставочный центр)",
+    "name_en": "Vorkuta Museum of Local Lore",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 67.496098,
+      "lon": 64.058324
+    },
+    "address_vi": "Ул. Ленина, 38, thành phố Vorkuta, Cộng hoà Komi.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng địa phương của Vorkuta, mở cửa năm 1960, kể câu chuyện về bể than Pechora, lịch sử trại lao động Vorkutlag và thiên nhiên vùng lãnh nguyên Bắc Cực. Là nơi lưu giữ ký ức của thành phố than được xây bằng sức tù nhân.",
+    "presentation_long_vi": "Ra đời năm 1960, Bảo tàng địa phương Vorkuta gìn giữ ký ức của một thành phố có số phận đặc biệt bậc nhất nước Nga. Trưng bày đưa người xem qua thiên nhiên khắc nghiệt của vùng lãnh nguyên và Bắc Cực – hệ động thực vật, khí hậu, đời sống của người Nenets bản địa với đàn tuần lộc; qua lịch sử phát hiện và khai thác bể than Pechora khổng lồ; và qua trang sử bi thương của các trại lao động Vorkutlag, nơi hàng trăm nghìn tù nhân chính trị bị đưa tới, nhiều người đã bỏ mạng khi mở mỏ và dựng thành phố. Bảo tàng lưu giữ tài liệu, ảnh, hiện vật của người tù, khoáng vật, mẫu vật tự nhiên và các sưu tập nghệ thuật. Đối với du khách, đây là nơi giúp hiểu vì sao Vorkuta vừa là kỳ tích công nghiệp phương Bắc vừa là một tượng đài tưởng niệm sống động về thời kỳ GULAG.",
+    "highlights_vi": [
+      "Bảo tàng địa phương của Vorkuta, mở cửa năm 1960.",
+      "Kể về bể than Pechora, thiên nhiên lãnh nguyên Bắc Cực và người Nenets bản địa.",
+      "Trưng bày trang sử bi thương của các trại lao động Vorkutlag."
+    ],
+    "practical": {
+      "hours_vi": "Mở theo lịch bảo tàng (thường T3–CN); nên kiểm tra giờ trước.",
+      "ticket_vi": "Vé vào cửa bình dân; có phí hướng dẫn.",
+      "duration_vi": "Khoảng 1–1,5 giờ.",
+      "best_time_vi": "Quanh năm (trong nhà).",
+      "tips_vi": "Kết hợp thăm Quảng trường Mira và Cung Văn hoá Thợ mỏ gần đó."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D0%BE%D1%80%D0%BA%D1%83%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D1%80%D0%B0%D0%B5%D0%B2%D0%B5%D0%B4%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%20%28%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%D0%BD%D0%BE-%D0%B2%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D1%8B%D0%B9%20%D1%86%D0%B5%D0%BD%D1%82%D1%80%29&ll=64.058324,67.496098&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Vorkuta%20Museum%20of%20Local%20Lore%2C%20Komi%2C%20Russia"
+    },
+    "official_site": "https://museumworkuta.ru/",
+    "sources": [
+      {
+        "title": "Культура.РФ — Воркутинский музейно-выставочный центр",
+        "url": "https://www.culture.ru/institutes/11883/vorkutinskii-muzeino-vystavochnyi-centr"
+      },
+      {
+        "title": "Официальный сайт — museumworkuta.ru",
+        "url": "https://museumworkuta.ru/"
+      }
+    ],
+    "tags": [
+      "museum",
+      "local-history",
+      "gulag",
+      "coal",
+      "arctic",
+      "vorkuta",
+      "komi"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "komi-vorkuta-embankment",
+    "slug": "vorkuta-embankment",
+    "region": "komi",
+    "region_name_vi": "Cộng hoà Komi",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Bờ kè Thợ mỏ và đài tưởng niệm nạn nhân đàn áp (Shakhtyorskaya naberezhnaya)",
+    "name_ru": "Шахтёрская набережная и памятник жертвам политических репрессий, Воркута",
+    "name_en": "Miners' Embankment and Memorial to Victims of Repression, Vorkuta",
+    "categories": [
+      "square_street",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 67.504907,
+      "lon": 64.043073
+    },
+    "address_vi": "Шахтёрская набережная, bên sông Vorkuta, thành phố Vorkuta, Cộng hoà Komi.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Dải bờ kè ven sông Vorkuta – không gian dạo bộ trung tâm của thành phố – nơi đặt đài tưởng niệm nạn nhân đàn áp chính trị: một tảng đá lớn quấn dây thép gai dựng năm 1988. Điểm gợi nhắc quá khứ Vorkutlag của thành phố than.",
+    "presentation_long_vi": "Trải dọc bờ sông Vorkuta, Bờ kè Thợ mỏ (Shakhtyorskaya naberezhnaya) là một trong những không gian công cộng chính của thành phố, nơi người dân dạo mát, ngắm sông và tụ họp trong những ngày lễ. Nhưng điều khiến nơi đây mang chiều sâu đặc biệt là đài tưởng niệm các nạn nhân của đàn áp chính trị: một tảng đá xám lớn quấn dây thép gai đặt trên bệ, cùng tấm bảng tưởng niệm, được dựng năm 1988 khi xã hội bắt đầu nhìn thẳng vào quá khứ. Vorkuta ra đời và lớn lên quanh hệ thống trại lao động Vorkutlag – một trong những trại lớn nhất của xứ Komi, tồn tại đến năm 1960, nơi hàng trăm nghìn người từng đi qua và hàng vạn người đã ngã xuống. Bờ kè cùng đài tưởng niệm này, và xa hơn là nghĩa trang tưởng niệm ở làng Yur-Shor, tạo thành nơi để du khách và cư dân tưởng nhớ những con người đã bị đày ải trên vùng đất giá lạnh này. Đây là điểm dừng chân lặng lẽ nhưng đầy ý nghĩa khi khám phá Vorkuta.",
+    "highlights_vi": [
+      "Bờ kè ven sông Vorkuta – không gian dạo bộ trung tâm của thành phố Bắc Cực.",
+      "Đài tưởng niệm nạn nhân đàn áp: tảng đá quấn dây thép gai, dựng năm 1988.",
+      "Gợi nhắc quá khứ Vorkutlag – một trong những trại GULAG lớn nhất xứ Komi."
+    ],
+    "practical": {
+      "hours_vi": "Không gian ngoài trời, tham quan tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 20–30 phút.",
+      "best_time_vi": "Mùa hè (tháng 6–8) khi tuyết tan; ngày 30/10 có lễ tưởng niệm nạn nhân đàn áp.",
+      "tips_vi": "Mặc ấm kể cả mùa hè; giữ thái độ trang nghiêm tại đài tưởng niệm."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A8%D0%B0%D1%85%D1%82%D1%91%D1%80%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F%20%D0%B8%20%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%D0%B6%D0%B5%D1%80%D1%82%D0%B2%D0%B0%D0%BC%20%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85%20%D1%80%D0%B5%D0%BF%D1%80%D0%B5%D1%81%D1%81%D0%B8%D0%B9%2C%20%D0%92%D0%BE%D1%80%D0%BA%D1%83%D1%82%D0%B0&ll=64.043073,67.504907&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Miners%27%20Embankment%20and%20Memorial%20to%20Victims%20of%20Repression%2C%20Vorkuta%2C%20Komi%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Сахаровский центр — Памятники жертвам репрессий: Воркута",
+        "url": "https://www.sakharov-center.ru/asfcd/pam/?t=pam&id=278"
+      },
+      {
+        "title": "Komandirovka.ru — Памятник жертвам политических репрессий, Воркута",
+        "url": "https://www.komandirovka.ru/sights/vorkuta/pamyatnik-jertvam-politicheskih-repressiy/"
+      }
+    ],
+    "tags": [
+      "square_street",
+      "monument",
+      "memorial",
+      "gulag",
+      "repression",
+      "vorkuta",
+      "komi"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "komi-pechora-museum",
+    "slug": "pechora-museum",
+    "region": "komi",
+    "region_name_vi": "Cộng hoà Komi",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Bảo tàng lịch sử - địa phương Pechora (Pechorskii istoriko-kraevedcheskii muzei)",
+    "name_ru": "Печорский историко-краеведческий музей",
+    "name_en": "Pechora Museum of History and Local Lore",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 65.14777,
+      "lon": 57.223494
+    },
+    "address_vi": "Ул. Советская, 33, thành phố Pechora, Cộng hoà Komi.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng lịch sử - địa phương của thành phố Pechora bên dòng sông cùng tên, giới thiệu thiên nhiên vùng Pechora, lịch sử tuyến đường sắt Pechora và số phận GULAG, cùng văn hoá các dân tộc bản địa. Nằm ở khu trung tâm gần nhà ga.",
+    "presentation_long_vi": "Được thành lập năm 1969 theo sáng kiến của nhà nghiên cứu địa phương P. I. Terentyev và mở cửa cho công chúng năm 1975, Bảo tàng lịch sử - địa phương Pechora là cửa ngõ tìm hiểu vùng đất bên dòng sông Pechora hùng vĩ. Trưng bày giới thiệu thiên nhiên taiga và tundra phương Bắc, hệ động thực vật, cùng đời sống của các dân tộc bản địa vùng Pechora. Một phần quan trọng dành cho lịch sử hình thành thành phố: việc xây dựng tuyến đường sắt Pechora trong những năm Thế chiến II bằng sức lao động của tù nhân các trại GULAG (Pechorlag), và vai trò của Pechora như một đầu mối giao thông – năng lượng của miền Bắc Komi. Bảo tàng lưu giữ hiện vật khảo cổ, dân tộc học, tài liệu và ảnh tư liệu. Nằm ở khu trung tâm gần nhà ga, đây là điểm dừng chân ý nghĩa cho du khách trước khi ngược sông Pechora tới Khu bảo tồn Pechoro-Ilych hay cao nguyên Manpupuner.",
+    "highlights_vi": [
+      "Bảo tàng lịch sử - địa phương của Pechora, thành lập năm 1969.",
+      "Giới thiệu thiên nhiên sông Pechora, văn hoá bản địa và lịch sử tuyến đường sắt Pechora.",
+      "Trưng bày trang sử GULAG (Pechorlag) gắn với việc xây dựng thành phố."
+    ],
+    "practical": {
+      "hours_vi": "Mở theo lịch bảo tàng (thường T3–CN); nên kiểm tra giờ trước.",
+      "ticket_vi": "Vé vào cửa bình dân; có phí hướng dẫn.",
+      "duration_vi": "Khoảng 1–1,5 giờ.",
+      "best_time_vi": "Quanh năm (trong nhà).",
+      "tips_vi": "Cửa ngõ đi Khu bảo tồn Pechoro-Ilych và Manpupuner; kết hợp tìm hiểu trước khi ngược sông."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B5%D1%87%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%BE-%D0%BA%D1%80%D0%B0%D0%B5%D0%B2%D0%B5%D0%B4%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9&ll=57.223494,65.14777&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Pechora%20Museum%20of%20History%20and%20Local%20Lore%2C%20Komi%2C%20Russia"
+    },
+    "official_site": "https://muzeum-pechora.ru/",
+    "sources": [
+      {
+        "title": "Культура.РФ — Печорский историко-краеведческий музей",
+        "url": "https://www.culture.ru/institutes/20635/pechorskii-istoriko-kraevedcheskii-muzei"
+      },
+      {
+        "title": "Официальный сайт — muzeum-pechora.ru",
+        "url": "https://muzeum-pechora.ru/"
+      },
+      {
+        "title": "Яндекс Карты — Печорский историко-краеведческий музей",
+        "url": "https://yandex.ru/maps/org/pechorskiy_istoriko_krayevedcheskiy_muzey/1080045071/"
+      }
+    ],
+    "tags": [
+      "museum",
+      "local-history",
+      "pechora-river",
+      "gulag",
+      "railway",
+      "komi"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "komi-inta-water-tower",
+    "slug": "inta-water-tower",
+    "region": "komi",
+    "region_name_vi": "Cộng hoà Komi",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Tháp nước Inta (Intinskaya vodonapornaya bashnya)",
+    "name_ru": "Водонапорная башня, Инта",
+    "name_en": "Inta Water Tower",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 66.041104,
+      "lon": 60.135418
+    },
+    "address_vi": "Ул. Мира, thành phố Inta, Cộng hoà Komi.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Tháp nước bằng gạch cao khoảng 50 mét theo phong cách 'Gothic', do tù nhân các trại Intalag và Minlag xây trong các năm 1953–1955. Là biểu tượng và 'danh thiếp' kiến trúc của thành phố Inta, xuất hiện trên huy hiệu thành phố.",
+    "presentation_long_vi": "Vươn cao khoảng 50 mét giữa thành phố Inta, tháp nước bằng gạch là công trình đặc biệt nhất và là biểu tượng không thể nhầm lẫn của thành phố. Tháp được xây trong các năm 1953–1955 bằng sức lao động của tù nhân các trại Intalag và Minlag, theo thiết kế của I. A. Khomenko và kiến trúc sư (cũng là tù nhân) Arthur Tamvelius. Điều khiến tháp nổi tiếng là dáng vẻ khác thường: khối tháp gạch được trang trí như một toà lâu đài mang hơi hướng «Gothic», tinh xảo và uy nghi đến bất ngờ với một công trình kỹ thuật ở vùng lãnh nguyên phương Bắc. Tháp phục vụ cấp nước cho đến thập niên 1990 rồi ngừng hoạt động, nhưng vẫn được gìn giữ như một di tích lịch sử – văn hoá. Từ năm 1982, hình tháp nước đã trở thành biểu tượng trên huy hiệu Inta, và đến nay nó là hình ảnh gắn liền với thành phố. Với du khách, tháp nước Inta vừa là một tác phẩm kiến trúc độc đáo vừa là chứng tích lặng lẽ về thời kỳ trại lao động ở phương Bắc.",
+    "highlights_vi": [
+      "Tháp nước gạch cao ~50 m mang phong cách 'Gothic', xây 1953–1955.",
+      "Do tù nhân các trại Intalag/Minlag xây; thiết kế bởi kiến trúc sư - tù nhân A. Tamvelius.",
+      "Biểu tượng và 'danh thiếp' của Inta, xuất hiện trên huy hiệu thành phố từ 1982."
+    ],
+    "practical": {
+      "hours_vi": "Công trình ngoài trời, ngắm tự do mọi lúc (không vào bên trong).",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 15–20 phút.",
+      "best_time_vi": "Mùa hè (tháng 6–8); ngày dài ở vĩ độ cao thuận cho chụp ảnh.",
+      "tips_vi": "Mặc ấm kể cả mùa hè; đẹp nhất khi chụp toàn cảnh tháp giữa thành phố."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D0%BE%D0%B4%D0%BE%D0%BD%D0%B0%D0%BF%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D0%B1%D0%B0%D1%88%D0%BD%D1%8F%2C%20%D0%98%D0%BD%D1%82%D0%B0&ll=60.135418,66.041104&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Inta%20Water%20Tower%2C%20Komi%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Водонапорная башня (Инта)",
+        "url": "https://ru.wikipedia.org/wiki/Водонапорная_башня_(Инта)"
+      }
+    ],
+    "tags": [
+      "monument",
+      "architecture",
+      "water-tower",
+      "gulag-heritage",
+      "city-symbol",
+      "inta",
+      "komi"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "komi-yaksha-moose-farm",
+    "slug": "yaksha-moose-farm",
+    "region": "komi",
+    "region_name_vi": "Cộng hoà Komi",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Trại thuần dưỡng nai sừng tấm Yaksha (Loseferma v Yakshe)",
+    "name_ru": "Лосиная ферма, посёлок Якша (Печоро-Илычский заповедник)",
+    "name_en": "Yaksha Moose Farm (Pechoro-Ilych Reserve)",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 61.806689,
+      "lon": 56.850474
+    },
+    "address_vi": "Làng Yaksha (Якша), huyện Troitsko-Pechorsky, thuộc Khu bảo tồn thiên nhiên Pechoro-Ilych, Cộng hoà Komi.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Trại thuần dưỡng nai sừng tấm (moose) đầu tiên trên thế giới, thành lập năm 1949 trong Khu bảo tồn Pechoro-Ilych tại làng Yaksha. Nơi du khách có thể tận mắt gặp và cho nai sừng tấm ăn – một trải nghiệm thiên nhiên độc đáo của xứ Komi.",
+    "presentation_long_vi": "Nằm bên làng Yaksha thuộc Khu bảo tồn thiên nhiên Pechoro-Ilych, trại nai sừng tấm (loseferma) là một địa điểm có một không hai: đây được xem là trại thuần dưỡng nai sừng tấm (moose/elk) đầu tiên trên thế giới, ra đời năm 1949 theo một nghị quyết của chính phủ nhằm thí nghiệm thuần hoá loài thú rừng khổng lồ này. Suốt nhiều thập niên, các nhà khoa học ở đây đã nghiên cứu tập tính, khả năng thuần dưỡng, lấy sữa và sử dụng nai sừng tấm – loài vật gắn liền với rừng taiga phương Bắc. Ngày nay trại đóng vai trò quan trọng trong công tác giáo dục môi trường và du lịch sinh thái của khu bảo tồn: du khách có thể tới thăm khu nuôi (chia thành khu nai trưởng thành và khu nai con), quan sát, cho ăn và tìm hiểu về loài nai sừng tấm hiền lành. Đường tới Yaksha khá xa xôi, thường đi bằng ô tô rồi kết hợp tham quan khu bảo tồn – nơi cũng là điểm khởi hành tới cao nguyên Manpupuner huyền thoại.",
+    "highlights_vi": [
+      "Trại thuần dưỡng nai sừng tấm đầu tiên trên thế giới, thành lập năm 1949.",
+      "Thuộc Khu bảo tồn Pechoro-Ilych, có khu nai trưởng thành và khu nai con.",
+      "Du khách có thể quan sát, cho nai sừng tấm ăn – trải nghiệm thiên nhiên độc đáo."
+    ],
+    "practical": {
+      "hours_vi": "Tham quan theo lịch của khu bảo tồn; nên liên hệ/đặt trước.",
+      "ticket_vi": "Có phí tham quan; kèm hướng dẫn của khu bảo tồn.",
+      "duration_vi": "Khoảng 1–2 giờ tại trại.",
+      "best_time_vi": "Mùa hè (tháng 6–8); mùa nai sinh sản có nai con.",
+      "tips_vi": "Ở xa, nên đi ô tô và đặt trước; kết hợp tham quan Khu bảo tồn Pechoro-Ilych."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9B%D0%BE%D1%81%D0%B8%D0%BD%D0%B0%D1%8F%20%D1%84%D0%B5%D1%80%D0%BC%D0%B0%2C%20%D0%BF%D0%BE%D1%81%D1%91%D0%BB%D0%BE%D0%BA%20%D0%AF%D0%BA%D1%88%D0%B0%20%28%D0%9F%D0%B5%D1%87%D0%BE%D1%80%D0%BE-%D0%98%D0%BB%D1%8B%D1%87%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA%29&ll=56.850474,61.806689&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Yaksha%20Moose%20Farm%20%28Pechoro-Ilych%20Reserve%29%2C%20Komi%2C%20Russia"
+    },
+    "official_site": "https://pechora-reserve.ru/loseferma",
+    "sources": [
+      {
+        "title": "Печоро-Илычский заповедник — Лосеферма",
+        "url": "https://pechora-reserve.ru/loseferma"
+      },
+      {
+        "title": "Wikipedia (RU) — Печоро-Илычский заповедник",
+        "url": "https://ru.wikipedia.org/wiki/Печоро-Илычский_заповедник"
+      }
+    ],
+    "tags": [
+      "other",
+      "nature",
+      "moose-farm",
+      "ecotourism",
+      "pechoro-ilych",
+      "yaksha",
+      "komi"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "komi-koyp-mountain",
+    "slug": "koyp-mountain",
+    "region": "komi",
+    "region_name_vi": "Cộng hoà Komi",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Núi Koyp (gora Koyp) – 'chiếc trống của pháp sư'",
+    "name_ru": "Гора Койп (Барабан-Из)",
+    "name_en": "Mount Koyp",
+    "categories": [
+      "monument",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 62.083333,
+      "lon": 59.216667
+    },
+    "address_vi": "Dãy Poyasovy Kamen, Bắc Ural, huyện Troitsko-Pechorsky, Cộng hoà Komi (gần cao nguyên Manpupuner).",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Ngọn núi hình chóp cao 1087 mét ở Bắc Ural, gần cao nguyên Manpupuner nổi tiếng. Trong truyền thuyết của người Mansi, đây là nơi chiếc trống (bùa) của thầy pháp khổng lồ rơi xuống – gắn liền với huyền thoại về những cột đá Manpupuner hoá đá.",
+    "presentation_long_vi": "Vươn lên như một kim tự tháp giữa vùng hoang vu của dãy Poyasovy Kamen ở Bắc Ural, núi Koyp cao 1087 mét là một trong những đỉnh núi ấn tượng và giàu huyền thoại nhất của Cộng hoà Komi. Tên gọi «Koyp» trong tiếng Mansi nghĩa là «cái trống, cái bùa», còn người Komi gọi là Baraban-Iz («núi trống») – bởi dáng núi hình chóp gợi liên tưởng tới một chiếc trống lớn. Theo truyền thuyết Mansi, khi bầy người khổng lồ định vượt núi để tiêu diệt bộ tộc Vogul, vị thủ lĩnh - pháp sư của họ chợt trông thấy ngọn núi thánh phía trước; kinh hãi, ông ném chiếc trống của mình đi và nó rơi xuống đỉnh Koyp, còn những kẻ đồng hành thì hoá đá thành các cột đá Manpupuner ngày nay. Nằm ngay phía nam cao nguyên Manpupuner huyền thoại, Koyp là điểm mốc quen thuộc trên các hành trình trekking và trượt tuyết xuyên vùng núi hoang sơ này. Cũng như Manpupuner, đây là nơi cực kỳ xa xôi, chỉ tiếp cận được bằng những chuyến đi bộ, trượt tuyết dài ngày hoặc trực thăng.",
+    "highlights_vi": [
+      "Núi hình chóp cao 1087 m ở dãy Poyasovy Kamen, Bắc Ural.",
+      "Gắn với truyền thuyết Mansi: 'chiếc trống của pháp sư khổng lồ' rơi xuống đỉnh núi.",
+      "Nằm ngay cạnh cao nguyên Manpupuner; điểm mốc trên các hành trình trekking hoang sơ."
+    ],
+    "practical": {
+      "hours_vi": "Địa điểm hoang dã ngoài trời; không có giờ mở cửa; cần giấy phép và tour tổ chức.",
+      "ticket_vi": "Cần giấy phép vào khu bảo tồn/vườn quốc gia; chi phí tour cao.",
+      "duration_vi": "Cả chuyến đi nhiều ngày (đi bộ/trượt tuyết) hoặc trong ngày (trực thăng).",
+      "best_time_vi": "Cuối hè (tháng 7–8) cho đường bộ; cuối đông (tháng 2–3) cho hành trình trượt tuyết.",
+      "tips_vi": "Chỉ đi cùng tour có tổ chức và giấy phép; chuẩn bị thể lực, đồ chống lạnh; thường kết hợp thăm Manpupuner."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%93%D0%BE%D1%80%D0%B0%20%D0%9A%D0%BE%D0%B9%D0%BF%20%28%D0%91%D0%B0%D1%80%D0%B0%D0%B1%D0%B0%D0%BD-%D0%98%D0%B7%29&ll=59.216667,62.083333&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Mount%20Koyp%2C%20Komi%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Койп (гора)",
+        "url": "https://ru.wikipedia.org/wiki/Койп_(гора)"
+      }
+    ],
+    "tags": [
+      "monument",
+      "park_garden",
+      "nature",
+      "mountain",
+      "ural",
+      "legend",
+      "remote",
+      "komi"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "komi-kazhym-ironworks",
+    "slug": "kazhym-ironworks",
+    "region": "komi",
+    "region_name_vi": "Cộng hoà Komi",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Nhà máy luyện sắt Kazhym và nhà thờ Dmitry (Kazhimskii zavod)",
+    "name_ru": "Кажимский железоделательный завод и Дмитриевская церковь, посёлок Кажым",
+    "name_en": "Kazhym Ironworks and St Demetrius Church",
+    "categories": [
+      "other",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 60.332429,
+      "lon": 51.549344
+    },
+    "address_vi": "Làng Kazhym (Кажым), huyện Koygorodsky, phía nam Cộng hoà Komi.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Di tích quần thể nhà máy luyện sắt thế kỷ 18 – công trình kiến trúc công nghiệp cổ nhất còn lại của Cộng hoà Komi – cùng nhà thờ đá Thánh Dmitry Rostovsky (1817–1828). Chứng tích sống động về thời kỳ công nghiệp hoá đầu tiên của xứ Komi.",
+    "presentation_long_vi": "Nằm ở làng Kazhym thuộc huyện Koygorodsky phía nam cộng hoà, nhà máy luyện sắt Kazhym là di sản công nghiệp quý giá bậc nhất của Komi. Được lập từ nửa sau thế kỷ 18, nhà máy khai thác và luyện quặng sắt địa phương, hình thành nên cả một khu định cư công nghiệp với đập nước, hồ chứa và các công trình sản xuất. Ngày nay đây được coi là di tích kiến trúc công nghiệp thế kỷ 18 duy nhất còn tồn tại trên đất Komi, với những dãy tường đá và dấu tích đập – hồ nước còn lại kể về một thời kỳ tiền công nghiệp hiếm hoi của vùng. Gắn liền với nhà máy là nhà thờ đá Thánh Dmitry Rostovsky, do quản đốc kiêm quý tộc Nikolay Boborykin cho xây trong các năm 1817–1828 (thánh hiến năm 1828) để phục vụ đời sống tâm linh của thợ và dân làng. Quần thể nhà máy – nhà thờ – hồ nước tạo nên một cảnh quan lịch sử độc đáo giữa vùng rừng taiga phương nam Komi, là điểm đến hấp dẫn cho những ai yêu lịch sử công nghiệp và kiến trúc cổ.",
+    "highlights_vi": [
+      "Di tích nhà máy luyện sắt thế kỷ 18 – công trình kiến trúc công nghiệp cổ nhất còn lại của Komi.",
+      "Nhà thờ đá Thánh Dmitry Rostovsky (1817–1828) do quản đốc N. Boborykin cho xây.",
+      "Quần thể nhà máy – nhà thờ – hồ nước giữa rừng taiga phía nam Komi."
+    ],
+    "practical": {
+      "hours_vi": "Di tích ngoài trời, tham quan tự do; nhà thờ mở theo giờ lễ.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 45–60 phút.",
+      "best_time_vi": "Cuối xuân đến đầu thu; đường quê nên đi khi khô ráo.",
+      "tips_vi": "Ở xa (huyện Koygorodsky, nam Komi); nên đi ô tô; ăn mặc kín đáo khi vào nhà thờ."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D0%B0%D0%B6%D0%B8%D0%BC%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B6%D0%B5%D0%BB%D0%B5%D0%B7%D0%BE%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%20%D0%B8%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C%2C%20%D0%BF%D0%BE%D1%81%D1%91%D0%BB%D0%BE%D0%BA%20%D0%9A%D0%B0%D0%B6%D1%8B%D0%BC&ll=51.549344,60.332429&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kazhym%20Ironworks%20and%20St%20Demetrius%20Church%2C%20Komi%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Культурная карта Республики Коми — Кажимский железоделательный завод",
+        "url": "https://cultmap.nbrkomi.ru/ru/page/Brendi_respubliki.Kazhimskii_zavod/"
+      },
+      {
+        "title": "Культурный туризм — Кажимский железоделательный завод",
+        "url": "https://culttourism.ru/komi/kazhimskiy_zhelezodelatelnyy_zavod.html"
+      },
+      {
+        "title": "Wikipedia (RU) — Кажым (посёлок)",
+        "url": "https://ru.wikipedia.org/wiki/Кажым_(посёлок)"
+      }
+    ],
+    "tags": [
+      "other",
+      "monument",
+      "industrial-heritage",
+      "ironworks",
+      "church",
+      "18th-century",
+      "kazhym",
+      "komi"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "komi-ust-kulom-church",
+    "slug": "ust-kulom-church",
+    "region": "komi",
+    "region_name_vi": "Cộng hoà Komi",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Nhà thờ Thánh Phêrô và Phaolô ở Ust-Kulom (Petropavlovskaya tserkov)",
+    "name_ru": "Церковь Петра и Павла (храмовый комплекс), село Усть-Кулом",
+    "name_en": "Saints Peter and Paul Church, Ust-Kulom",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 61.686228,
+      "lon": 53.678635
+    },
+    "address_vi": "Ул. Центральная, thị trấn Ust-Kulom (Усть-Кулом), huyện Ust-Kulomsky, Cộng hoà Komi.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Quần thể nhà thờ đá bên sông Vychegda ở thị trấn Ust-Kulom: nhà thờ Thánh Phêrô và Phaolô (thánh hiến năm 1811) cùng nhà thờ Chúa Phục Sinh và tháp chuông (1859). Một trong những quần thể đền đá cổ của vùng thượng lưu Vychegda.",
+    "presentation_long_vi": "Bên dòng Vychegda ở thị trấn Ust-Kulom – trung tâm của huyện cùng tên vùng thượng lưu con sông – còn lưu giữ một quần thể nhà thờ đá giàu lịch sử. Nhà thờ Thánh Phêrô và Phaolô (Petropavlovskaya) được xây sau năm 1799 và thánh hiến ngày 29 tháng 9 năm 1811, thay cho các nhà thờ gỗ trước đó và trở thành trung tâm tinh thần của cộng đồng người Komi vùng thượng Vychegda. Đến năm 1857, bên cạnh được dựng thêm một toà nhà và tháp chuông mới, thánh hiến năm 1859 nhân danh Chúa Phục Sinh (Voskresenskaya). Cùng nhau, hai ngôi đền tạo thành một quần thể kiến trúc đá cân đối, tiêu biểu cho phong cách xây dựng nhà thờ tỉnh lẻ nửa đầu thế kỷ 19. Trải qua thời Xô Viết bị đóng cửa và hư hại, quần thể dần được khôi phục và trở lại việc thờ phụng. Với du khách khám phá vùng thượng Vychegda – cửa ngõ đi sâu vào các huyện xa xôi của Komi, Ust-Kulom là điểm dừng chân đáng giá để chiêm ngưỡng một quần thể đền đá cổ hiếm hoi.",
+    "highlights_vi": [
+      "Nhà thờ Thánh Phêrô và Phaolô bằng đá, thánh hiến năm 1811.",
+      "Kề bên là nhà thờ Chúa Phục Sinh và tháp chuông (1859), tạo thành quần thể đền đá.",
+      "Trung tâm tinh thần của người Komi vùng thượng lưu sông Vychegda."
+    ],
+    "practical": {
+      "hours_vi": "Mở theo giờ lễ, ban ngày; ngắm bên ngoài tự do.",
+      "ticket_vi": "Miễn phí; quyên góp tuỳ tâm.",
+      "duration_vi": "Khoảng 20–30 phút.",
+      "best_time_vi": "Cuối xuân đến đầu thu.",
+      "tips_vi": "Ở xa Syktyvkar (~180 km về phía đông); nên đi ô tô; ăn mặc kín đáo khi vào đền."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C%20%D0%9F%D0%B5%D1%82%D1%80%D0%B0%20%D0%B8%20%D0%9F%D0%B0%D0%B2%D0%BB%D0%B0%20%28%D1%85%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%29%2C%20%D1%81%D0%B5%D0%BB%D0%BE%20%D0%A3%D1%81%D1%82%D1%8C-%D0%9A%D1%83%D0%BB%D0%BE%D0%BC&ll=53.678635,61.686228&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Saints%20Peter%20and%20Paul%20Church%2C%20Ust-Kulom%2C%20Komi%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Церковь Петра и Павла (Усть-Кулом)",
+        "url": "https://ru.wikipedia.org/wiki/Церковь_Петра_и_Павла_(Усть-Кулом)"
+      }
+    ],
+    "tags": [
+      "church",
+      "orthodox",
+      "19th-century",
+      "vychegda",
+      "ust-kulom",
+      "komi"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "komi-izhma-preobrazhensky-church",
+    "slug": "izhma-preobrazhensky-church",
+    "region": "komi",
+    "region_name_vi": "Cộng hoà Komi",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Nhà thờ Chúa Biến Hình ở Izhma (Spaso-Preobrazhenskaya tserkov)",
+    "name_ru": "Церковь Спаса Преображения, село Ижма",
+    "name_en": "Church of the Transfiguration of the Saviour, Izhma",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 65.009378,
+      "lon": 53.9072
+    },
+    "address_vi": "Trung tâm làng Izhma (Ижма), huyện Izhemsky, Cộng hoà Komi.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhà thờ đá Chúa Biến Hình (1807–1828) ở trung tâm làng Izhma – công trình gạch đầu tiên của làng và là nhà thờ duy nhất ở Komi còn giữ gần như nguyên vẹn bộ iconostasis nhiều tầng đầu thế kỷ 19. Trung tâm tinh thần của người Komi-Izhemtsy.",
+    "presentation_long_vi": "Ở trung tâm làng Izhma – thủ phủ lịch sử của người Komi-Izhemtsy (một nhóm địa phương của người Komi nổi tiếng với nghề chăn nuôi tuần lộc và buôn bán), sừng sững Nhà thờ đá Chúa Biến Hình. Ngôi đền được đặt móng ngày 25 tháng 10 năm 1807 theo bản thiết kế của kiến trúc sư tỉnh được phê duyệt năm 1804, và xây dựng đến khoảng năm 1828 – trở thành công trình bằng gạch đầu tiên của Izhma, một toà nhà hai tầng bề thế với tháp chuông vươn lên trên tiền sảnh. Điều khiến ngôi đền đặc biệt quý giá là nó được xem là nhà thờ duy nhất ở Cộng hoà Komi còn giữ được gần như nguyên vẹn bộ iconostasis (vách ngăn thánh) nhiều tầng có từ một phần ba đầu thế kỷ 19 – một kho tàng nghệ thuật tôn giáo hiếm hoi. Cùng với nhà thờ Đức Mẹ An Giấc (Uspenskaya) kề bên, công trình tạo thành một quần thể đền đá là niềm tự hào và trung tâm tinh thần của vùng Izhma. Với du khách đi sâu về phương Bắc Komi, đây là điểm đến độc đáo để chiêm ngưỡng kiến trúc và nghệ thuật thánh cổ giữa vùng đất của người chăn tuần lộc.",
+    "highlights_vi": [
+      "Nhà thờ đá Chúa Biến Hình (1807–1828) – công trình gạch đầu tiên của làng Izhma.",
+      "Nhà thờ duy nhất ở Komi giữ gần nguyên bộ iconostasis nhiều tầng đầu thế kỷ 19.",
+      "Trung tâm tinh thần của người Komi-Izhemtsy – nhóm nổi tiếng nghề chăn tuần lộc."
+    ],
+    "practical": {
+      "hours_vi": "Mở theo giờ lễ, ban ngày; ngắm bên ngoài tự do.",
+      "ticket_vi": "Miễn phí; quyên góp tuỳ tâm.",
+      "duration_vi": "Khoảng 20–30 phút.",
+      "best_time_vi": "Cuối xuân đến đầu thu.",
+      "tips_vi": "Ở xa về phía bắc Komi (huyện Izhemsky); nên đi ô tô; ăn mặc kín đáo khi vào đền."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C%20%D0%A1%D0%BF%D0%B0%D1%81%D0%B0%20%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%2C%20%D1%81%D0%B5%D0%BB%D0%BE%20%D0%98%D0%B6%D0%BC%D0%B0&ll=53.9072,65.009378&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Church%20of%20the%20Transfiguration%20of%20the%20Saviour%2C%20Izhma%2C%20Komi%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "sobory.ru — Ижма, Церковь Спаса Преображения (obj. 12537)",
+        "url": "https://sobory.ru/article/?object=12537"
+      },
+      {
+        "title": "sobory.ru — Ижма, Храмовый комплекс (Преображения и Успения, obj. 22334)",
+        "url": "https://sobory.ru/article/?object=22334"
+      },
+      {
+        "title": "Wikipedia (RU) — Ижма (Коми)",
+        "url": "https://ru.wikipedia.org/wiki/Ижма_(Коми)"
+      }
+    ],
+    "tags": [
+      "church",
+      "orthodox",
+      "19th-century",
+      "iconostasis",
+      "izhemtsy",
+      "izhma",
+      "komi"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
   }
 ]

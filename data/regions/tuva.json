@@ -1965,5 +1965,813 @@
     "status": "enriched",
     "last_updated": "2026-07-29",
     "country": "russia"
+  },
+  {
+    "id": "tuva-durgen-canyon-waterfall",
+    "slug": "durgen-canyon-waterfall",
+    "region": "tuva",
+    "region_name_vi": "Cộng hoà Tuva",
+    "federal_district": "Vùng Siberia",
+    "name_vi": "Hẻm núi và thác Durgen (Dургенский каньон)",
+    "name_ru": "Дургенский каньон и водопад",
+    "name_en": "Durgen Canyon and Waterfall",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 51.1512,
+      "lon": 94.5147
+    },
+    "address_vi": "Trên sông Durgen, sườn bắc dãy Tannu-Ola, gần hồ Chagytai, huyện Tandinsky, Cộng hòa Tuva, Nga.",
+    "rating": null,
+    "review_summary_vi": "Du khách yêu thiên nhiên đánh giá cao Durgen như một điểm nhấn hiếm hoi giữa thảo nguyên khô của Tuva: nước trong vắt, thác đẹp, dễ tiếp cận bằng ô tô, nhưng gần như không có hạ tầng du lịch nên cần tự túc.",
+    "presentation_short_vi": "Hẻm núi Durgen với dòng thác trên sông cùng tên là một trong số ít thác - hẻm đá của Tuva, nằm ở sườn bắc dãy Tannu-Ola gần hồ Chagytai, huyện Tandinsky. Vách đá cao 20-40 m ôm lấy dòng nước trong lành đổ xuống giữa rừng taiga.",
+    "presentation_long_vi": "Trên vùng đất Tuva vốn khô cằn và hiếm sông thác, hẻm núi Durgen là một ngoại lệ đầy quyến rũ. Được đặt theo tên con sông Durgen chảy qua đây, hẻm nằm ở sườn bắc dãy Tannu-Ola, không xa hồ Chagytai thuộc huyện Tandinsky. Dòng sông miền núi len qua những vách đá cao từ hai chục đến bốn chục mét, tạo nên một thác nước và chuỗi ghềnh đẹp như tranh giữa rừng taiga nguyên sinh. Điều đặc biệt của Durgen là sự pha trộn hiếm thấy giữa thiên nhiên Trung Á và Đông Siberia: hệ thực - động vật của hai vùng sinh thái khác nhau cùng tồn tại bên nhau. Quanh hẻm còn lưu giữ những gò mộ cổ (kurgan) xếp bằng đá cuội nhẵn được nước bào mòn, nơi tương truyền từng an táng các thủ lĩnh quân sự; giới khảo cổ vẫn đang nghiên cứu chúng. Người địa phương gắn nơi này với truyền thuyết về Thành Cát Tư Hãn, cho rằng cái tên Durgen bắt nguồn từ tên một người vợ trẻ của ông. Dù thiếu hạ tầng du lịch, Durgen mỗi năm vẫn hút ngày càng nhiều người tìm đến để tắm mát, ngắm thác và tận hưởng vẻ hoang sơ. Có thể lái xe gần tới sát bờ sông (theo biển chỉ dẫn trên đường về hướng Bay-Khaak), rồi đi bộ một đoạn ngắn để tới thác.",
+    "highlights_vi": [
+      "Thác nước và hẻm đá hiếm hoi của Tuva, vách cao 20-40 m giữa rừng taiga",
+      "Giao thoa sinh thái Trung Á - Đông Siberia độc đáo quanh sông Durgen",
+      "Có các gò mộ cổ (kurgan) bằng đá cuội và gắn với truyền thuyết Thành Cát Tư Hãn"
+    ],
+    "practical": {
+      "hours_vi": "Điểm thiên nhiên ngoài trời, tham quan tự do ban ngày.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 1,5-3 giờ (kể cả đi bộ tiếp cận).",
+      "best_time_vi": "Cuối xuân đến đầu thu (tháng 5-9), khi nước nhiều và đường khô ráo.",
+      "tips_vi": "Đi xe gầm cao; mang giày lội nước, nước uống và đồ ăn vì không có dịch vụ; cẩn thận trên đá trơn cạnh thác."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%94%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B0%D0%BD%D1%8C%D0%BE%D0%BD%20%D0%B8%20%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4&ll=94.5147,51.1512&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Durgen%20Canyon%20and%20Waterfall%2C%20Tuva%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia — Дургенский каньон",
+        "url": "https://ru.wikipedia.org/wiki/%D0%94%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D0%BD%D1%8C%D0%BE%D0%BD"
+      },
+      {
+        "title": "Places.Moscow — Дургенский каньон",
+        "url": "https://places.moscow/trip/durgenskiy-kanon"
+      }
+    ],
+    "tags": [
+      "waterfall",
+      "canyon",
+      "nature",
+      "tannu-ola",
+      "tandinsky",
+      "tuva"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "tuva-kara-khol-lake-bai-taiga",
+    "slug": "kara-khol-lake-bai-taiga",
+    "region": "tuva",
+    "region_name_vi": "Cộng hoà Tuva",
+    "federal_district": "Vùng Siberia",
+    "name_vi": "Hồ Kara-Khol (Кара-Холь)",
+    "name_ru": "Озеро Кара-Холь",
+    "name_en": "Lake Kara-Khol",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 51.4113,
+      "lon": 89.4849
+    },
+    "address_vi": "Trên cao nguyên Alash, dãy Tây Sayan, huyện Bai-Taiga, Cộng hòa Tuva, Nga.",
+    "rating": null,
+    "review_summary_vi": "Được xem là một trong những hồ đẹp nhất Tuva, Kara-Khol chinh phục khách ưa hoang dã bằng làn nước núi, rừng taiga và những vách đá; đường vào khó, gần như không dân cư, nên hợp với dân phượt và câu cá hơn là du lịch tiện nghi.",
+    "presentation_short_vi": "Kara-Khol ('hồ Đen' trong tiếng Tuva) là hồ kiến tạo trên cao nguyên Alash thuộc dãy Tây Sayan, huyện Bai-Taiga, được coi là một trong những hồ đẹp nhất Tuva và là di tích thiên nhiên cấp vùng. Hồ dài 12 km, rộng khoảng 1,5 km, nằm ở độ cao 1461 m.",
+    "presentation_long_vi": "Nằm nép mình trong một đứt gãy kiến tạo trên cao nguyên Alash của dãy Tây Sayan, Kara-Khol là viên ngọc được nhiều người coi là hồ đẹp nhất Tuva. Hồ trải dài 12 km theo hướng bắc - nam, rộng chừng cây rưỡi, diện tích mặt nước khoảng 16 km2 và nằm ở độ cao hơn 1400 m so với mực biển. Từ phía bắc, các sông Monagy và Eldig-Khem đổ vào hồ, còn ở phía nam nước thoát ra thành sông Kara-Khol. Bao quanh là những triền đá lở, vách núi dựng đứng, các cánh rừng taiga và vài đồng cỏ nhỏ - bờ hồ gần như không có người ở, giữ nguyên vẻ hoang sơ. Chính sự tách biệt ấy tạo nên sức hút riêng: mặt nước lặng in bóng núi, không khí trong lành và cảm giác được đắm mình vào thiên nhiên nguyên thủy. Hồ được công nhận là di tích thiên nhiên cấp khu vực và là điểm đến ưa thích của những người mê cắm trại, câu cá và chụp ảnh phong cảnh. Đường tới Kara-Khol khá gian nan, đòi hỏi xe địa hình và sự chuẩn bị kỹ, nhưng bù lại là khung cảnh núi hồ ngoạn mục hiếm có ở vùng tây Tuva.",
+    "highlights_vi": [
+      "Hồ được xem là đẹp nhất Tuva, dài 12 km ở độ cao 1461 m giữa Tây Sayan",
+      "Di tích thiên nhiên cấp vùng, bờ hồ hoang sơ gần như không dân cư",
+      "Điểm lý tưởng cho cắm trại, câu cá và nhiếp ảnh phong cảnh núi non"
+    ],
+    "practical": {
+      "hours_vi": "Hồ thiên nhiên ngoài trời, tham quan tự do quanh năm (mùa hè thuận tiện nhất).",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Nên đi 1-2 ngày do đường xa và khó.",
+      "best_time_vi": "Tháng 6-9, khi đường mòn khô ráo và hồ ấm hơn.",
+      "tips_vi": "Bắt buộc xe địa hình và người dẫn quen đường; mang đủ lương thực, lều trại; tôn trọng vì đây là nơi thiêng của người địa phương."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9E%D0%B7%D0%B5%D1%80%D0%BE%20%D0%9A%D0%B0%D1%80%D0%B0-%D0%A5%D0%BE%D0%BB%D1%8C&ll=89.4849,51.4113&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Lake%20Kara-Khol%2C%20Tuva%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia — Кара-Холь (озеро)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B0-%D0%A5%D0%BE%D0%BB%D1%8C_%28%D0%BE%D0%B7%D0%B5%D1%80%D0%BE%29"
+      },
+      {
+        "title": "РГО — Озёра Тувы",
+        "url": "https://rgo.ru/activity/redaction/articles/ozyera-tuvy-raduzhnoe-ozherele-v-serdtse-azii/"
+      }
+    ],
+    "tags": [
+      "lake",
+      "mountain-lake",
+      "nature",
+      "western-sayan",
+      "bai-taiga",
+      "tuva"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "tuva-ak-khol-lake-mongun-taiga",
+    "slug": "ak-khol-lake-mongun-taiga",
+    "region": "tuva",
+    "region_name_vi": "Cộng hoà Tuva",
+    "federal_district": "Vùng Siberia",
+    "name_vi": "Hồ Ak-Khol (Ак-Холь, 'hồ Trắng')",
+    "name_ru": "Озеро Ак-Холь",
+    "name_en": "Lake Ak-Khol",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 50.26975,
+      "lon": 89.60325
+    },
+    "address_vi": "Trong lòng chảo liên sơn ở tây nam Tuva, huyện Mongun-Taiga, gần biên giới Cộng hòa Altai, Nga.",
+    "rating": null,
+    "review_summary_vi": "Khách yêu núi cao đánh giá cao Ak-Khol nhờ nước trong xanh, bãi bồi và khung cảnh khối núi Mongun-Taiga phủ tuyết; nơi rất xa xôi, hoang vắng, thích hợp cho du lịch mạo hiểm và tắm khoáng.",
+    "presentation_short_vi": "Ak-Khol ('hồ Trắng') là hồ băng hà nằm trong lòng chảo liên sơn ở tây nam Tuva, huyện Mongun-Taiga, gần biên giới với Cộng hòa Altai. Hồ rộng khoảng 3,8 km2, sâu tới 10 m, nằm ở độ cao trên 2000 m; mùa hè nước ấm lên tới 22 độ C và được cho là có tính chữa lành.",
+    "presentation_long_vi": "Dưới chân khối núi tuyết Mongun-Taiga - đỉnh cao nhất Đông Siberia, hồ Ak-Khol nằm lặng lẽ trong một lòng chảo liên sơn ở góc tây nam Tuva, sát biên giới Cộng hòa Altai. Tên hồ trong tiếng Tuva nghĩa là 'hồ Trắng', gợi làn nước trong veo và những bãi cát sáng ven bờ. Có nguồn gốc băng hà, hồ nằm ở độ cao hơn hai nghìn mét, diện tích chừng 3,8 km2, chiều dài và rộng đều khoảng 4 km, sâu tới mười mét. Nhờ nằm trong lòng chảo được núi che chắn, mùa hè lớp nước mặt của hồ có thể ấm lên tới 22 độ C - điều hiếm thấy ở độ cao này - khiến du khách có thể tắm và ngâm mình. Người dân địa phương tin rằng nước hồ khoáng nhẹ có tác dụng hỗ trợ chữa các bệnh về da, giãn tĩnh mạch và giúp mau lành vết thương. Xung quanh là cảnh quan núi cao khoáng đạt với đồng cỏ alpine, các dòng suối băng và phông nền là đỉnh Mongun-Taiga quanh năm tuyết phủ. Vì nằm ở vùng biên giới xa xôi, việc tới Ak-Khol đòi hỏi giấy tờ ra vào khu vực biên giới và phương tiện địa hình, nhưng đổi lại là một trong những khung cảnh núi hồ nguyên sơ và ngoạn mục bậc nhất của Tuva.",
+    "highlights_vi": [
+      "Hồ băng hà ở độ cao trên 2000 m dưới chân đỉnh tuyết Mongun-Taiga",
+      "Mùa hè nước ấm tới 22 độ C, được cho là có tính chữa lành",
+      "Cảnh quan núi cao nguyên sơ, thích hợp du lịch mạo hiểm và tắm khoáng"
+    ],
+    "practical": {
+      "hours_vi": "Hồ thiên nhiên vùng biên giới, tham quan tự do ban ngày mùa hè.",
+      "ticket_vi": "Miễn phí; lưu ý cần giấy phép vào khu vực biên giới.",
+      "duration_vi": "Nên bố trí nhiều ngày do đường rất xa.",
+      "best_time_vi": "Tháng 7-8, khi đèo và đường đã thông, nước hồ ấm nhất.",
+      "tips_vi": "Chuẩn bị giấy phép biên giới, xe địa hình, đồ ấm và lương thực; đi cùng người dẫn địa phương."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9E%D0%B7%D0%B5%D1%80%D0%BE%20%D0%90%D0%BA-%D0%A5%D0%BE%D0%BB%D1%8C&ll=89.60325,50.26975&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Lake%20Ak-Khol%2C%20Tuva%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia — Монгун-Тайгинский кожуун",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BD%D0%B3%D1%83%D0%BD-%D0%A2%D0%B0%D0%B9%D0%B3%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B6%D1%83%D1%83%D0%BD"
+      },
+      {
+        "title": "РГО — Озёра Тувы",
+        "url": "https://rgo.ru/activity/redaction/articles/ozyera-tuvy-raduzhnoe-ozherele-v-serdtse-azii/"
+      }
+    ],
+    "tags": [
+      "lake",
+      "glacial-lake",
+      "mongun-taiga",
+      "alpine",
+      "nature",
+      "tuva"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "tuva-choigan-mineral-springs",
+    "slug": "choigan-mineral-springs",
+    "region": "tuva",
+    "region_name_vi": "Cộng hoà Tuva",
+    "federal_district": "Vùng Siberia",
+    "name_vi": "Suối khoáng Choigan (Жойган / Аржаан Чойган)",
+    "name_ru": "Аржаан Чойган (Жойган)",
+    "name_en": "Choigan (Zhoigan) Mineral Springs",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 52.3445,
+      "lon": 98.4517
+    },
+    "address_vi": "Dưới chân đèo Choigan-Daban, thượng nguồn sông Arzhan-Khem, sườn Đông Sayan, huyện Todzha, giáp Cộng hòa Buryatia, Cộng hòa Tuva, Nga.",
+    "rating": null,
+    "review_summary_vi": "Một 'khu nghỉ hoang dã' huyền thoại: khách hành hương và du khách kỳ công vượt đường rừng khó khăn để ngâm mình trong hàng chục nguồn nước nóng - lạnh chứa CO2, tin rằng chúng chữa lành nhiều bệnh; đổi lại là trải nghiệm mộc mạc, cắm trại giữa thiên nhiên.",
+    "presentation_short_vi": "Aржаан Choigan (người Buryat gọi là Zhoigan) là một quần thể khoảng 30 nguồn nước khoáng nóng và lạnh giàu khí CO2, nằm dưới chân đèo Choigan-Daban ở sườn Đông Sayan, huyện Todzha, ngay sát biên giới Buryatia, độ cao khoảng 1685 m.",
+    "presentation_long_vi": "Ẩn sâu trong những dãy núi Đông Sayan hiểm trở nơi giáp ranh Tuva và Buryatia, Choigan là một 'khu nghỉ dưỡng hoang dã' đã đi vào truyền thuyết của cả hai vùng. Dưới chân đèo Choigan-Daban, dọc hai bờ sông Arzhan-Khem, có khoảng ba chục nguồn nước phun lên từ lòng đất, nhiệt độ chênh nhau rất lớn: từ những mạch lạnh buốt đến các suối nóng 41-43 độ C. Nước ở đây thuộc loại bicarbonat natri - canxi, bão hòa khí CO2, có thêm axit silicic, sắt và cả radon với hàm lượng đáng kể về mặt trị liệu, được dùng để hỗ trợ chữa các bệnh tim mạch, thần kinh, tiêu hóa, hô hấp và da liễu. Truyền thuyết địa phương kể về một người thợ săn già phát hiện ra suối nhờ con nai bị thương trốn xuống ngâm mình rồi hồi sức chạy đi. Vì nằm ở nơi khó tiếp cận, không có đường ô tô thuận tiện, Choigan giữ được vẻ nguyên sơ: du khách thường đi ngựa hoặc trekking nhiều ngày, dựng lều dọc bờ sông, tự ngâm trong những hồ nước nóng lộ thiên giữa rừng taiga. Mùa hè, người tìm đến đây không chỉ từ khắp nước Nga mà còn từ Mông Cổ và Kazakhstan, tạo nên một cộng đồng hành hương - dưỡng bệnh đặc biệt giữa hoang dã.",
+    "highlights_vi": [
+      "Khoảng 30 nguồn nước khoáng nóng - lạnh giàu CO2, có suối nóng tới 41-43 độ C",
+      "'Khu nghỉ hoang dã' nổi tiếng ở biên giới Tuva - Buryatia, chỉ tới được bằng ngựa hoặc trekking",
+      "Nước bicarbonat natri-canxi, chứa silic, sắt, radon, được dùng dưỡng bệnh"
+    ],
+    "practical": {
+      "hours_vi": "Điểm thiên nhiên hoang dã, không có giờ mở; tới được vào mùa ấm.",
+      "ticket_vi": "Miễn phí; chi phí chủ yếu là thuê ngựa/tour và trang bị.",
+      "duration_vi": "Thường 3-7 ngày cả đi lẫn về và lưu trú.",
+      "best_time_vi": "Tháng 7 đến đầu tháng 9, khi đèo thông và đường rừng khô.",
+      "tips_vi": "Đi theo nhóm có người dẫn; chuẩn bị lều, đồ ấm, lương thực; tôn trọng nghi thức và tục lệ của người hành hương địa phương."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%90%D1%80%D0%B6%D0%B0%D0%B0%D0%BD%20%D0%A7%D0%BE%D0%B9%D0%B3%D0%B0%D0%BD%20%28%D0%96%D0%BE%D0%B9%D0%B3%D0%B0%D0%BD%29&ll=98.4517,52.3445&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Choigan%20%28Zhoigan%29%20Mineral%20Springs%2C%20Tuva%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Тонкости туризма — Аржаан Чойган",
+        "url": "https://tonkosti.ru/%D0%90%D1%80%D0%B6%D0%B0%D0%B0%D0%BD_%D0%A7%D0%BE%D0%B9%D0%B3%D0%B0%D0%BD"
+      },
+      {
+        "title": "Places.Moscow — Источники Аржаан-Чойган",
+        "url": "https://places.moscow/trip/istochniki-arzhaan-choygan"
+      }
+    ],
+    "tags": [
+      "mineral-springs",
+      "hot-springs",
+      "wild-spa",
+      "todzha",
+      "east-sayan",
+      "tuva"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "tuva-tarys-hot-springs",
+    "slug": "tarys-hot-springs",
+    "region": "tuva",
+    "region_name_vi": "Cộng hoà Tuva",
+    "federal_district": "Vùng Siberia",
+    "name_vi": "Suối khoáng nóng Tarys (Аржаан Тарыс)",
+    "name_ru": "Аржаан Тарыс",
+    "name_en": "Tarys Hot Springs",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 50.3731514,
+      "lon": 98.1980327
+    },
+    "address_vi": "Thượng nguồn sông Kaa-Khem, vùng sumon Balyktyg, huyện Tere-Khol, đông nam Cộng hòa Tuva, Nga.",
+    "rating": null,
+    "review_summary_vi": "Một trong những aржаан trứ danh và xa xôi nhất Tuva: du khách kỳ công đến ngâm mình trong các hồ nước nóng lộ thiên giữa núi rừng đông nam, tin vào tác dụng chữa bệnh; hạ tầng tối giản, mang đậm chất hành hương.",
+    "presentation_short_vi": "Tarys là quần thể suối khoáng nóng nổi tiếng ở vùng thượng nguồn sông Kaa-Khem (Malyi Yenisei), huyện Tere-Khol xa xôi nơi đông nam Tuva. Đây là một trong những 'aржаан' - suối chữa lành thiêng của người Tuva, được người dân tìm đến từ lâu đời.",
+    "presentation_long_vi": "Nằm sâu trong vùng núi đông nam Tuva, nơi thượng nguồn sông Kaa-Khem (Tiểu Yenisei) thuộc huyện Tere-Khol, Tarys là một trong những suối khoáng nóng trứ danh và khó tới nhất của cả vùng. Trong văn hóa Tuva, 'aржаан' không chỉ là nguồn nước khoáng mà còn là nơi linh thiêng để tẩy trần và dưỡng bệnh; Tarys thuộc hàng nổi tiếng nhất trong hơn một trăm aржаан của cộng hòa. Các mạch nước nóng phun lên từ lòng đất tạo thành những vũng, hồ nước ấm lộ thiên mà người ta ngâm mình để hỗ trợ chữa các bệnh về khớp, da, tiêu hóa và thần kinh, kết hợp với chế độ nghỉ ngơi, kiêng khem theo tập tục. Vì nằm ở vùng biên viễn hiểm trở, gần như không có đường ô tô, hạ tầng ở Tarys rất tối giản: khách thường đi ngựa hoặc trekking nhiều ngày, tự dựng lều và sinh hoạt hòa vào nhịp sống chậm rãi của những người hành hương. Chính sự xa xôi và mộc mạc ấy khiến chuyến đi tới Tarys trở thành một trải nghiệm vừa dưỡng thân vừa gột rửa tinh thần, đậm màu sắc văn hóa - tâm linh Tuva giữa thiên nhiên hoang dã.",
+    "highlights_vi": [
+      "Suối khoáng nóng thiêng (aржаан) trứ danh ở vùng thượng nguồn Kaa-Khem",
+      "Các hồ nước nóng lộ thiên được dùng ngâm mình dưỡng bệnh theo tập tục Tuva",
+      "Điểm hành hương - dưỡng bệnh xa xôi, hạ tầng tối giản giữa núi rừng đông nam"
+    ],
+    "practical": {
+      "hours_vi": "Điểm suối khoáng hoang dã, tới được vào mùa ấm; không có giờ cố định.",
+      "ticket_vi": "Miễn phí; chi phí chủ yếu là phương tiện, hướng dẫn và trang bị.",
+      "duration_vi": "Thường vài ngày cả đi lẫn về.",
+      "best_time_vi": "Tháng 7-9, khi đường và đèo khô ráo, an toàn.",
+      "tips_vi": "Đi theo nhóm có người dẫn quen địa hình biên giới; mang lều, đồ ấm, lương thực; giữ vệ sinh và tôn trọng tục lệ nơi aржаан."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%90%D1%80%D0%B6%D0%B0%D0%B0%D0%BD%20%D0%A2%D0%B0%D1%80%D1%8B%D1%81&ll=98.1980327,50.3731514&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Tarys%20Hot%20Springs%2C%20Tuva%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "OpenStreetMap — Аржан Тарыс (тёплый источник)",
+        "url": "https://www.openstreetmap.org/node/9247043821"
+      },
+      {
+        "title": "Аржааны Тувы",
+        "url": "https://arjaanytuvy.ru/"
+      }
+    ],
+    "tags": [
+      "mineral-springs",
+      "hot-springs",
+      "arzhaan",
+      "tere-khol",
+      "wild-spa",
+      "tuva"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "tuva-tos-bulak-arzhaan-naadym",
+    "slug": "tos-bulak-arzhaan-naadym",
+    "region": "tuva",
+    "region_name_vi": "Cộng hoà Tuva",
+    "federal_district": "Vùng Siberia",
+    "name_vi": "Aржаан Tos-Bulak và bãi lễ hội Naadym",
+    "name_ru": "Аржаан Тос-Булак (место проведения Наадыма)",
+    "name_en": "Tos-Bulak Spring and Naadym Festival Grounds",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 51.6327594,
+      "lon": 94.4362351
+    },
+    "address_vi": "Bên đường Kyzyl - Erzin, sumon Tselinny, cách Kyzyl khoảng 20 km về phía nam, Cộng hòa Tuva, Nga.",
+    "rating": null,
+    "review_summary_vi": "Điểm dừng quen thuộc của người Tuva: uống nước aржаан giàu sắt bên đường, và mỗi mùa hè nơi đây biến thành 'thủ đô' của lễ hội chăn nuôi Naadym với đua ngựa, đấu vật, làng lều bạt - dịp tuyệt vời để chạm vào văn hóa du mục.",
+    "presentation_short_vi": "Tos-Bulak ('chín nguồn') là một aржаан - suối khoáng giàu sắt bên đường Kyzyl - Erzin gần Kyzyl, đồng thời là địa điểm truyền thống tổ chức Naadym, lễ hội lớn của những người chăn nuôi Tuva.",
+    "presentation_long_vi": "Nằm ngay bên đường Kyzyl - Erzin, cách thủ phủ Kyzyl chừng hai chục cây số về phía nam, Tos-Bulak (nghĩa là 'chín nguồn' trong tiếng Tuva) trước hết là một aржаан - suối nước khoáng giàu sắt mà người đi đường quen dừng lại để uống và lấy nước, tin vào tác dụng bồi bổ. Nhưng điều khiến Tos-Bulak thực sự đặc biệt là mỗi độ hè về, thảo nguyên rộng lớn quanh suối lại trở thành sân khấu chính của Naadym - lễ hội truyền thống tôn vinh nghề chăn nuôi và văn hóa du mục Tuva. Trong những ngày hội, hàng trăm chiếc lều bạt (өг) mọc lên thành cả một 'làng du mục', diễn ra các cuộc thi tài đậm bản sắc: đua ngựa đường trường, đấu vật khureš, bắn cung, cùng những cuộc thi lều đẹp, trang phục và ẩm thực dân tộc. Đây là dịp để các gia đình chăn nuôi khắp cộng hòa tụ hội, khoe đàn gia súc, tôn vinh những người chăn giỏi và gìn giữ phong tục. Với du khách, ghé Tos-Bulak vào mùa Naadym là cơ hội hiếm có để hòa mình vào không khí lễ hội thảo nguyên, thưởng thức âm nhạc cổ họng khoomei, món ăn du mục và chứng kiến kỹ nghệ cưỡi ngựa - đấu vật của người Tuva; còn ngày thường, đây đơn giản là một điểm dừng chân uống nước khoáng và ngắm thảo nguyên.",
+    "highlights_vi": [
+      "Aржаан (suối khoáng) giàu sắt bên đường, điểm dừng quen thuộc gần Kyzyl",
+      "Bãi tổ chức lễ hội Naadym: đua ngựa, đấu vật khureš, bắn cung, làng lều du mục",
+      "Nơi lý tưởng để trải nghiệm văn hóa du mục và âm nhạc khoomei của người Tuva"
+    ],
+    "practical": {
+      "hours_vi": "Điểm ngoài trời tự do quanh năm; sôi động nhất vào dịp Naadym (thường tháng 7-8).",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "15-30 phút ngày thường; cả ngày nếu trùng dịp lễ hội.",
+      "best_time_vi": "Mùa hè, đặc biệt các ngày diễn ra Naadym.",
+      "tips_vi": "Kiểm tra lịch Naadym trước khi đi; mang mũ nón chống nắng vì thảo nguyên trống trải; tôn trọng nghi thức khi lấy nước aржаан."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%90%D1%80%D0%B6%D0%B0%D0%B0%D0%BD%20%D0%A2%D0%BE%D1%81-%D0%91%D1%83%D0%BB%D0%B0%D0%BA%20%28%D0%BC%D0%B5%D1%81%D1%82%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%9D%D0%B0%D0%B0%D0%B4%D1%8B%D0%BC%D0%B0%29&ll=94.4362351,51.6327594&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Tos-Bulak%20Spring%20and%20Naadym%20Festival%20Grounds%2C%20Tuva%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "OpenStreetMap — Аржаан Тос-Булак",
+        "url": "https://www.openstreetmap.org/node/4268386791"
+      },
+      {
+        "title": "Тува Медиа Групп — Наадым в местечке Тос-Булак",
+        "url": "https://tmgnews.ru/novosti/naadym-2023-sostoitsya-13-avgusta-v-mestechke-tos-bulak-nedaleko-ot-kyzyla/"
+      }
+    ],
+    "tags": [
+      "arzhaan",
+      "mineral-spring",
+      "naadym",
+      "festival",
+      "nomadic-culture",
+      "kyzyl",
+      "tuva"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "tuva-dus-dag-salt-mountain",
+    "slug": "dus-dag-salt-mountain",
+    "region": "tuva",
+    "region_name_vi": "Cộng hoà Tuva",
+    "federal_district": "Vùng Siberia",
+    "name_vi": "Núi muối Dus-Dag (Гора Дус-Даг)",
+    "name_ru": "Гора Дус-Даг (соляная)",
+    "name_en": "Dus-Dag Salt Mountain",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 50.7257798,
+      "lon": 92.6975083
+    },
+    "address_vi": "Gần làng Dus-Dag, huyện Ovyur, tây nam Cộng hòa Tuva, Nga.",
+    "rating": null,
+    "review_summary_vi": "Một địa điểm dân tộc học độc đáo: người Tuva từ bao đời tới ngọn núi muối này để tự khai thác muối đá sạch, gắn với nghi lễ và phong tục; du khách tò mò văn hóa sẽ thấy đây là trải nghiệm khác lạ so với các danh thắng thiên nhiên thường thấy.",
+    "presentation_short_vi": "Dus-Dag (nghĩa đen là 'núi Muối') là ngọn núi chứa mỏ muối đá lộ thiên ở huyện Ovyur, tây nam Tuva, gần làng cùng tên. Từ xa xưa, người Tuva đã tới đây khai thác muối sạch cho sinh hoạt và chăn nuôi.",
+    "presentation_long_vi": "Ở vùng thảo nguyên khô hạn Ovyur nơi tây nam Tuva có một ngọn núi mang cái tên mộc mạc mà chính xác: Dus-Dag - 'núi Muối'. Trong lòng và trên sườn núi là những vỉa muối đá (muối mỏ) lộ thiên mà người Tuva đã khai thác từ nhiều thế kỷ. Không giống muối biển, muối ở Dus-Dag là muối tự nhiên đóng thành khối trong đá, được người dân tới đục lấy về dùng cho bữa ăn, ướp thực phẩm và cho gia súc liếm. Việc lấy muối ở đây không chỉ là hoạt động mưu sinh mà còn gắn với tập tục và nghi lễ: theo truyền thống, người ta xin phép các vị thần núi, để lại lễ vật nhỏ và giữ thái độ cung kính khi khai thác. Chính lớp văn hóa - tín ngưỡng ấy khiến Dus-Dag trở thành một điểm dân tộc học đặc sắc, nơi phản ánh mối quan hệ mật thiết giữa con người du mục và thiên nhiên khắc nghiệt. Với du khách, ghé Dus-Dag là dịp tận mắt thấy một 'mỏ muối trời cho' còn được khai thác theo cách thủ công truyền thống, đồng thời cảm nhận cảnh quan thảo nguyên - núi khô đặc trưng của vùng biên giới Tuva - Mông Cổ.",
+    "highlights_vi": [
+      "Ngọn núi chứa mỏ muối đá lộ thiên, người Tuva khai thác muối sạch từ bao đời",
+      "Việc lấy muối gắn với nghi lễ xin phép thần núi - nét dân tộc học độc đáo",
+      "Cảnh quan thảo nguyên - núi khô đặc trưng vùng biên giới tây nam Tuva"
+    ],
+    "practical": {
+      "hours_vi": "Điểm ngoài trời tự do ban ngày.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 1-2 giờ.",
+      "best_time_vi": "Cuối xuân đến đầu thu (tháng 5-9).",
+      "tips_vi": "Đi xe gầm cao trên đường thảo nguyên; mang nước và mũ chống nắng; tôn trọng tập tục địa phương, không lấy muối bừa bãi."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%93%D0%BE%D1%80%D0%B0%20%D0%94%D1%83%D1%81-%D0%94%D0%B0%D0%B3%20%28%D1%81%D0%BE%D0%BB%D1%8F%D0%BD%D0%B0%D1%8F%29&ll=92.6975083,50.7257798&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Dus-Dag%20Salt%20Mountain%2C%20Tuva%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "OpenStreetMap — Дус-Даг (вершина)",
+        "url": "https://www.openstreetmap.org/node/5537739564"
+      },
+      {
+        "title": "Wikipedia — Овюрский кожуун",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9E%D0%B2%D1%8E%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B6%D1%83%D1%83%D0%BD"
+      }
+    ],
+    "tags": [
+      "salt-mountain",
+      "ethnography",
+      "tradition",
+      "ovyur",
+      "steppe",
+      "tuva"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "tuva-samagaltai-khuree",
+    "slug": "samagaltai-khuree",
+    "region": "tuva",
+    "region_name_vi": "Cộng hoà Tuva",
+    "federal_district": "Vùng Siberia",
+    "name_vi": "Tu viện Samagaltai (Самагалтайский хурээ)",
+    "name_ru": "Самагалтайский хурээ",
+    "name_en": "Samagaltai Khuree",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 50.6087,
+      "lon": 95.0129
+    },
+    "address_vi": "Làng Samagaltai (thủ phủ cũ của Tuva), huyện Tes-Khem, nam Cộng hòa Tuva, Nga.",
+    "rating": null,
+    "review_summary_vi": "Điểm hành hương giàu ý nghĩa lịch sử: nơi gắn với một trong những tu viện Phật giáo đầu tiên và cố đô của Tuva; ngôi chùa hồi sinh ngày nay là biểu tượng cho sự phục hưng Phật giáo ở miền nam cộng hòa.",
+    "presentation_short_vi": "Samagaltai từng là thủ phủ đầu tiên của Tuva và là nơi dựng một trong những tu viện Phật giáo (khuree) sớm nhất vùng, khoảng thập niên 1770. Bị phá hủy thời Xô-viết, tu viện đã được phục dựng và nay là trung tâm Phật giáo quan trọng của huyện Tes-Khem.",
+    "presentation_long_vi": "Làng Samagaltai ở huyện Tes-Khem phía nam Tuva mang một vị thế lịch sử đặc biệt: đây từng là thủ phủ đầu tiên của Tuva và là cái nôi của Phật giáo trong vùng. Vào khoảng thập niên 1770, một trong những tu viện (khuree) sớm nhất của Tuva đã được xây dựng tại đây, đưa Samagaltai trở thành trung tâm tôn giáo - hành chính quan trọng suốt thời kỳ vùng đất còn nằm dưới ảnh hưởng của nhà Thanh và các hãn Mông Cổ. Qua nhiều thế kỷ, Samagaltai là nơi tu học của các vị lama, lưu giữ kinh sách và tổ chức những nghi lễ lớn. Đến thời Xô-viết, trong làn sóng bài tôn giáo thập niên 1930, tu viện bị đóng cửa và phá hủy như số phận chung của các khuree khắp Tuva. Sau khi tự do tín ngưỡng được khôi phục, cộng đồng địa phương đã chung tay dựng lại một ngôi chùa mới tại Samagaltai, tiếp nối truyền thống Phật giáo hàng trăm năm và đánh dấu sự hồi sinh tâm linh ở miền nam cộng hòa. Với du khách, đến Samagaltai là dịp tìm hiểu về cội nguồn Phật giáo Tuva, chiêm bái ngôi chùa hồi sinh và cảm nhận bề dày lịch sử của một cố đô nay đã trở thành làng quê yên bình bên thảo nguyên.",
+    "highlights_vi": [
+      "Gắn với một trong những tu viện Phật giáo đầu tiên của Tuva (khoảng thập niên 1770)",
+      "Nằm ở Samagaltai - thủ phủ đầu tiên trong lịch sử Tuva",
+      "Ngôi chùa hồi sinh, biểu tượng phục hưng Phật giáo ở miền nam cộng hòa"
+    ],
+    "practical": {
+      "hours_vi": "Nơi thờ tự đang hoạt động; tham quan ban ngày, tự do.",
+      "ticket_vi": "Miễn phí (có thể tùy tâm công đức).",
+      "duration_vi": "Khoảng 30-45 phút.",
+      "best_time_vi": "Cuối xuân đến đầu thu; đẹp vào các dịp lễ Phật giáo.",
+      "tips_vi": "Samagaltai cách Kyzyl khoảng 130 km về phía nam; ăn mặc lịch sự, giữ yên tĩnh và xin phép trước khi chụp ảnh người hành lễ."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%B0%D0%BC%D0%B0%D0%B3%D0%B0%D0%BB%D1%82%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20%D1%85%D1%83%D1%80%D1%8D%D1%8D&ll=95.0129,50.6087&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Samagaltai%20Khuree%2C%20Tuva%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Tuva.Asia — 350 лет Самагалтайского буддийского монастыря",
+        "url": "https://www.tuva.asia/news/tuva/4303-samagaltay350.html"
+      },
+      {
+        "title": "Wikipedia — Буддизм в Тыве",
+        "url": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%B4%D0%B4%D0%B8%D0%B7%D0%BC_%D0%B2_%D0%A2%D1%8B%D0%B2%D0%B5"
+      }
+    ],
+    "tags": [
+      "buddhism",
+      "monastery",
+      "khuree",
+      "history",
+      "tes-khem",
+      "tuva"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "tuva-innokenty-irkutsk-church-turan",
+    "slug": "innokenty-irkutsk-church-turan",
+    "region": "tuva",
+    "region_name_vi": "Cộng hoà Tuva",
+    "federal_district": "Vùng Siberia",
+    "name_vi": "Nhà thờ Thánh Innokenty vùng Irkutsk (Turan)",
+    "name_ru": "Храм святителя Иннокентия Иркутского",
+    "name_en": "Church of St. Innocent of Irkutsk (Turan)",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 52.149997,
+      "lon": 93.924594
+    },
+    "address_vi": "Phố Shchetinkina số 2, thị trấn Turan, huyện Piy-Khem, Cộng hòa Tuva, Nga.",
+    "rating": null,
+    "review_summary_vi": "Ngôi nhà thờ gỗ nhỏ nhắn ở thị trấn Nga cổ nhất Tuva: điểm dừng ý nghĩa để tìm hiểu lịch sử di dân Nga đầu thế kỷ 20 và kiến trúc gỗ Chính thống giáo Siberia.",
+    "presentation_short_vi": "Nhà thờ Thánh Innokenty vùng Irkutsk ở Turan là một trong những nhà thờ Chính thống giáo lâu đời của Tuva. Ngôi nhà thờ gỗ đầu tiên có từ năm 1914; sau thời Xô-viết bị đóng cửa, một nhà thờ gỗ mới đã được dựng lại năm 1995 trên nền truyền thống ấy.",
+    "presentation_long_vi": "Turan - thị trấn được những người Nga di cư lập nên năm 1885 và là đô thị đầu tiên của Tuva - lưu giữ một di sản tinh thần đặc biệt: nhà thờ Thánh Innokenty vùng Irkutsk. Được đặt theo tên vị thánh bảo trợ của miền Đông Siberia, ngôi nhà thờ gỗ đầu tiên ở đây dựng năm 1914, phục vụ cộng đồng nông dân Nga khai hoang giữa vùng đất Tuva xa xôi. Trong thời kỳ Xô-viết bài tôn giáo, nhà thờ bị đóng cửa và ngừng hoạt động suốt nhiều thập niên. Sau khi tự do tín ngưỡng được khôi phục, năm 1995 người dân Turan đã góp công góp của dựng lại một ngôi nhà thờ gỗ mới thờ Thánh Innokenty, nối tiếp truyền thống cũ. Công trình mang dáng dấp kiến trúc gỗ Chính thống giáo Siberia mộc mạc: tường gỗ, mái dốc và tháp chuông nhỏ, ẩn mình giữa khung cảnh thị trấn miền núi yên tĩnh. Với du khách, ngôi nhà thờ là một cửa sổ nhìn vào lịch sử di dân Nga đầu thế kỷ 20 ở Tuva, đồng thời là điểm ghé thăm hài hòa khi khám phá Turan cùng bảo tàng địa phương và những ngôi nhà gỗ cổ của thị trấn.",
+    "highlights_vi": [
+      "Nhà thờ Chính thống giáo ở Turan - thị trấn Nga cổ nhất Tuva (lập năm 1885)",
+      "Nhà thờ gỗ đầu tiên có từ 1914, được dựng lại năm 1995 sau thời Xô-viết",
+      "Kiến trúc gỗ Chính thống giáo Siberia mộc mạc, gắn với lịch sử di dân Nga"
+    ],
+    "practical": {
+      "hours_vi": "Nơi thờ tự đang hoạt động; tham quan ban ngày, ngoài giờ lễ.",
+      "ticket_vi": "Miễn phí (có thể tùy tâm công đức).",
+      "duration_vi": "Khoảng 20-30 phút.",
+      "best_time_vi": "Quanh năm; đẹp và ý nghĩa vào các dịp lễ Chính thống giáo.",
+      "tips_vi": "Turan cách Kyzyl khoảng 70 km; ăn mặc kín đáo, phụ nữ nên trùm khăn; kết hợp thăm bảo tàng địa phương Turan gần đó."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A5%D1%80%D0%B0%D0%BC%20%D1%81%D0%B2%D1%8F%D1%82%D0%B8%D1%82%D0%B5%D0%BB%D1%8F%20%D0%98%D0%BD%D0%BD%D0%BE%D0%BA%D0%B5%D0%BD%D1%82%D0%B8%D1%8F%20%D0%98%D1%80%D0%BA%D1%83%D1%82%D1%81%D0%BA%D0%BE%D0%B3%D0%BE&ll=93.924594,52.149997&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Church%20of%20St.%20Innocent%20of%20Irkutsk%20%28Turan%29%2C%20Tuva%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Sobory.ru — Туран, Церковь Иннокентия Иркутского",
+        "url": "https://sobory.ru/article/?object=20844"
+      },
+      {
+        "title": "Иннокентиевский храм — приходской сайт",
+        "url": "http://turanhram.cerkov.ru/"
+      }
+    ],
+    "tags": [
+      "orthodox-church",
+      "wooden-church",
+      "history",
+      "russian-settlers",
+      "turan",
+      "tuva"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "tuva-kyzyl-prayer-wheel",
+    "slug": "kyzyl-prayer-wheel",
+    "region": "tuva",
+    "region_name_vi": "Cộng hoà Tuva",
+    "federal_district": "Vùng Siberia",
+    "name_vi": "Bánh xe cầu nguyện Phật giáo (Kyzyl)",
+    "name_ru": "Буддийский молитвенный барабан",
+    "name_en": "Buddhist Prayer Wheel (Kyzyl)",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 51.71985,
+      "lon": 94.43918
+    },
+    "address_vi": "Quảng trường Arat, trước lối vào Nhà hát Nhạc kịch mang tên V. Kok-ool, trung tâm thành phố Kyzyl, Cộng hòa Tuva, Nga.",
+    "rating": null,
+    "review_summary_vi": "Một biểu tượng Phật giáo được yêu thích ở trung tâm Kyzyl: du khách và người dân quay bánh xe cầu nguyện trong ngôi đình hai tầng, tin rằng mỗi vòng quay tương đương đọc hàng triệu câu chú - một trải nghiệm tâm linh nhẹ nhàng ngay giữa phố.",
+    "presentation_short_vi": "Bánh xe cầu nguyện (khurde) ở quảng trường Arat là một điểm nhấn Phật giáo nổi bật của Kyzyl, được khánh thành năm 2006 và từng được xem là bánh xe cầu nguyện lớn nhất nước Nga khi ra đời. Bên trong trống đồng chứa hàng triệu câu chú, đặt trong một ngôi đình (pagoda) hai tầng chạm trổ tinh xảo.",
+    "presentation_long_vi": "Ngay trên quảng trường trung tâm Arat của Kyzyl, cạnh lối vào Nhà hát Nhạc kịch mang tên V. Kok-ool, có một công trình khiến du khách dừng chân: bánh xe cầu nguyện Phật giáo đặt trong một ngôi đình hai tầng theo phong cách pagoda. Được khánh thành năm 2006, đây từng được coi là bánh xe cầu nguyện lớn nhất nước Nga vào thời điểm ra đời. Trống đồng của bánh xe do các nhà sư tu viện Gyudmed ở Ấn Độ chế tác, làm từ tiền quyên góp của người dân Tuva trong ba năm liên tiếp khi họ dựng các mandala cát; bên trong chứa hàng triệu câu chú, đặc biệt là thần chú của Đức Đạt Lai Lạt Ma. Theo tín niệm Phật giáo, quay bánh xe một vòng theo chiều kim đồng hồ với tâm hồn thanh tịnh, hướng về điều thiện, tương đương với việc tụng đọc toàn bộ số chú đựng trong đó - nên càng quay nhiều, phúc lành càng lan tỏa. Ngôi đình che bánh xe được trang trí hoa văn rực rỡ, trở thành nơi người dân ghé qua mỗi ngày và du khách thường dừng lại để tìm hiểu, chụp ảnh và tự tay quay bánh xe cầu an. Nằm giữa lòng thủ phủ, cạnh nhà hát và quảng trường chính, đây là một điểm chạm nhẹ nhàng nhưng đầy ý nghĩa vào đời sống Phật giáo Tuva.",
+    "highlights_vi": [
+      "Bánh xe cầu nguyện từng lớn nhất nước Nga khi khánh thành (2006), trong đình hai tầng",
+      "Trống đồng do sư tu viện Gyudmed (Ấn Độ) chế tác, chứa hàng triệu câu chú",
+      "Vị trí trung tâm trên quảng trường Arat, cạnh Nhà hát Kok-ool - dễ kết hợp tham quan"
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tự do quay và tham quan cả ngày.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 10-15 phút.",
+      "best_time_vi": "Quanh năm; ban ngày thuận tiện nhất.",
+      "tips_vi": "Quay bánh xe theo chiều kim đồng hồ; giữ thái độ tôn kính; kết hợp tham quan quảng trường Arat, Nhà hát Kok-ool và chùa Tsechenling gần đó."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%91%D1%83%D0%B4%D0%B4%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BB%D0%B8%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%B1%D0%B0%D1%80%D0%B0%D0%B1%D0%B0%D0%BD&ll=94.43918,51.71985&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Buddhist%20Prayer%20Wheel%20%28Kyzyl%29%2C%20Tuva%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Культурный туризм — Буддийский молитвенный барабан",
+        "url": "https://culttourism.ru/tuva/kyzyl/buddiyskiy_molitvennyy_baraban.html"
+      },
+      {
+        "title": "101hotels — Молитвенный барабан",
+        "url": "https://101hotels.com/recreation/russia/kyzyl/points/monuments/molitvennyi_baraban"
+      }
+    ],
+    "tags": [
+      "buddhism",
+      "prayer-wheel",
+      "landmark",
+      "arat-square",
+      "kyzyl",
+      "tuva"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "tuva-tuvan-volunteers-monument-kyzyl",
+    "slug": "tuvan-volunteers-monument-kyzyl",
+    "region": "tuva",
+    "region_name_vi": "Cộng hoà Tuva",
+    "federal_district": "Vùng Siberia",
+    "name_vi": "Đài tưởng niệm tình nguyện quân Tuva ('Kyzyl-Kosh')",
+    "name_ru": "Памятник тувинским добровольцам («Кызыл-Кош»)",
+    "name_en": "Monument to Tuvan Volunteers (Kyzyl-Kosh)",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 51.7203347,
+      "lon": 94.4416717
+    },
+    "address_vi": "Phố Tuvinskikh Dobrovoltsev (Tình nguyện quân Tuva), trước tòa nhà trung tâm thương mại 'Kyzyl', trung tâm thành phố Kyzyl, Cộng hòa Tuva, Nga.",
+    "rating": null,
+    "review_summary_vi": "Đài tưởng niệm giàu cảm xúc tôn vinh đóng góp của Tuva trong Thế chiến II: tượng kỵ binh phi ngựa đầy khí thế cùng bức tường phù điêu kể chuyện 'đoàn xe đỏ' tiếp tế cho mặt trận - điểm không thể bỏ qua với ai muốn hiểu lịch sử Tuva.",
+    "presentation_short_vi": "Đài tưởng niệm tình nguyện quân Tuva, có tên 'Kyzyl-Kosh' ('Đoàn xe Đỏ'), khánh thành tháng 9 năm 2016, tôn vinh những người con Tuva đã ra mặt trận và sự giúp đỡ to lớn của Cộng hòa Nhân dân Tuva cho Hồng quân trong Chiến tranh Vệ quốc Vĩ đại.",
+    "presentation_long_vi": "Ít ai ngờ rằng Tuva - khi ấy còn là một quốc gia độc lập mang tên Cộng hòa Nhân dân Tuva - lại là một trong những nước đầu tiên trên thế giới tuyên bố sát cánh cùng Liên Xô ngay sau khi phát xít Đức tấn công năm 1941. Trong suốt cuộc chiến, Tuva đã trao gần như toàn bộ dự trữ vàng, hàng chục nghìn con ngựa chiến, gia súc, lương thực, quần áo ấm và cả những đoàn tình nguyện quân cho mặt trận; các chiến sĩ kỵ binh Tuva nổi danh đến mức quân địch đặt cho họ biệt danh 'Der Schwarze Tod' (Tử thần Đen). Để tri ân, năm 2016 thành phố Kyzyl dựng đài tưởng niệm 'Kyzyl-Kosh' trên con phố mang tên Tình nguyện quân Tuva, trước tòa trung tâm thương mại 'Kyzyl'. Trung tâm cụm tượng là hình một kỵ binh phi ngựa bằng đồng nặng hơn ba tấn, cao khoảng bốn mét rưỡi, được tạo hình đầy khí thế với thế đứng chỉ tựa trên hai chân sau của ngựa - một kỹ thuật điêu khắc hiếm gặp; nguyên mẫu được cho là Anh hùng Liên Xô, chỉ huy đoàn kỵ binh Tuva Tyulyush Kechil-ool. Bên cạnh là bức tường phù điêu granite khắc cảnh những đoàn xe tiếp tế lên đường ra trận. Được dựng bằng tiền quyên góp của hàng trăm tổ chức và người dân - trong đó có con cháu các tình nguyện quân - đài tưởng niệm là một biểu tượng đầy tự hào và xúc động về lòng quả cảm và tình đoàn kết của người Tuva.",
+    "highlights_vi": [
+      "Cụm tượng kỵ binh phi ngựa bằng đồng nặng hơn 3 tấn, thế đứng chỉ tựa hai chân sau",
+      "Tôn vinh tình nguyện quân Tuva và sự giúp đỡ của Tuva cho Hồng quân trong Thế chiến II",
+      "Có tường phù điêu granite tái hiện 'đoàn xe đỏ' tiếp tế ra mặt trận"
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tham quan tự do cả ngày.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 15-20 phút.",
+      "best_time_vi": "Quanh năm; ý nghĩa nhất vào dịp 1/9 (Ngày tưởng niệm tình nguyện quân) và 9/5.",
+      "tips_vi": "Nằm ngay trung tâm Kyzyl, dễ đi bộ; đọc kỹ các phù điêu để hiểu câu chuyện lịch sử; kết hợp dạo phố trung tâm."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%D1%82%D1%83%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%BC%20%D0%B4%D0%BE%D0%B1%D1%80%D0%BE%D0%B2%D0%BE%D0%BB%D1%8C%D1%86%D0%B0%D0%BC%20%28%C2%AB%D0%9A%D1%8B%D0%B7%D1%8B%D0%BB-%D0%9A%D0%BE%D1%88%C2%BB%29&ll=94.4416717,51.7203347&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Monument%20to%20Tuvan%20Volunteers%20%28Kyzyl-Kosh%29%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Histrf — Памятник тувинским добровольцам в Кызыле",
+        "url": "https://histrf.ru/read/monuments/pamyatnik-tuvinskim-dobrovolcam-v-kyzyle"
+      },
+      {
+        "title": "OpenStreetMap — Тувинским добровольцам",
+        "url": "https://www.openstreetmap.org/node/5639476152"
+      }
+    ],
+    "tags": [
+      "monument",
+      "wwii",
+      "memorial",
+      "history",
+      "kyzyl",
+      "tuva"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "tuva-kadarchy-shepherd-monument",
+    "slug": "kadarchy-shepherd-monument",
+    "region": "tuva",
+    "region_name_vi": "Cộng hoà Tuva",
+    "federal_district": "Vùng Siberia",
+    "name_vi": "Tượng đài mục đồng 'Kadarchy' (Người chăn)",
+    "name_ru": "Скульптура «Кадарчы» (Чабан)",
+    "name_en": "Kadarchy Shepherd Monument",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 51.6546721,
+      "lon": 94.432924
+    },
+    "address_vi": "Bên đường Kyzyl - Erzin, sumon Tselinny, trên đồi cách Kyzyl khoảng 18 km về phía nam, Cộng hòa Tuva, Nga.",
+    "rating": null,
+    "review_summary_vi": "Một biểu tượng được yêu mến của Tuva: tượng người chăn gia súc đứng hiên ngang trên đồi bên đường, phóng tầm mắt ra thảo nguyên - điểm dừng chân chụp ảnh quen thuộc và lời tôn vinh nghề chăn nuôi truyền thống.",
+    "presentation_short_vi": "Kadarchy (nghĩa là 'người chăn gia súc' trong tiếng Tuva) là bức tượng nổi tiếng đặt trên một quả đồi bên đường Kyzyl - Erzin, cách thủ phủ Kyzyl chừng 18 km về phía nam. Tượng khắc họa hình người chăn Tuva phóng khoáng, tôn vinh nghề chăn nuôi du mục - trụ cột của đời sống và văn hóa Tuva.",
+    "presentation_long_vi": "Trên hành trình rời Kyzyl xuôi về phương nam theo đường đi Erzin và biên giới Mông Cổ, du khách sẽ bắt gặp một bóng dáng quen thuộc in trên nền trời thảo nguyên: tượng đài Kadarchy - 'Người chăn'. Đặt trên đỉnh một quả đồi thoáng đãng cách Kyzyl khoảng mười tám cây số, bức tượng khắc họa hình một người chăn gia súc Tuva trong tư thế đứng vững chãi, tay cầm gậy, ánh mắt dõi ra đàn gia súc và thảo nguyên bao la. Đây là lời tôn vinh dành cho nghề chăn nuôi du mục - nghề nghiệp gắn bó với người Tuva từ ngàn đời và vẫn là trụ cột của đời sống, văn hóa nơi đây. Vị trí trên đồi cao khiến Kadarchy trở thành điểm ngắm cảnh lý tưởng: từ chân tượng, tầm mắt trải rộng ra lòng chảo Tuva, những dải núi xa và dòng xe qua lại trên con đường huyết mạch phía nam. Với người địa phương, đây là một biểu tượng thân thuộc; với du khách, đó là điểm dừng chân chụp ảnh gần như bắt buộc trên cung đường về nam Tuva, nơi vừa cảm nhận được vẻ đẹp khoáng đạt của thảo nguyên vừa hiểu thêm về linh hồn du mục của vùng đất trung tâm châu Á.",
+    "highlights_vi": [
+      "Tượng người chăn gia súc Tuva đứng trên đồi bên đường Kyzyl - Erzin",
+      "Biểu tượng tôn vinh nghề chăn nuôi du mục - trụ cột văn hóa Tuva",
+      "Điểm ngắm toàn cảnh thảo nguyên và điểm dừng chụp ảnh quen thuộc"
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tham quan tự do cả ngày.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 15-20 phút.",
+      "best_time_vi": "Cuối xuân đến đầu thu; đẹp lúc bình minh và hoàng hôn trên thảo nguyên.",
+      "tips_vi": "Dừng xe an toàn bên đường rồi đi bộ lên đồi; mang giày thoải mái và nước; chú ý gió lớn trên đỉnh đồi."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%BA%D1%83%D0%BB%D1%8C%D0%BF%D1%82%D1%83%D1%80%D0%B0%20%C2%AB%D0%9A%D0%B0%D0%B4%D0%B0%D1%80%D1%87%D1%8B%C2%BB%20%28%D0%A7%D0%B0%D0%B1%D0%B0%D0%BD%29&ll=94.432924,51.6546721&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kadarchy%20Shepherd%20Monument%2C%20Tuva%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "OpenStreetMap — Кадарчы (Монгуш Буян-Кадарчы)",
+        "url": "https://www.openstreetmap.org/node/357193423"
+      },
+      {
+        "title": "Wikipedia — Кызыл",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9A%D1%8B%D0%B7%D1%8B%D0%BB"
+      }
+    ],
+    "tags": [
+      "monument",
+      "sculpture",
+      "shepherd",
+      "nomadic-culture",
+      "viewpoint",
+      "kyzyl",
+      "tuva"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "tuva-turan-local-history-museum",
+    "slug": "turan-local-history-museum",
+    "region": "tuva",
+    "region_name_vi": "Cộng hoà Tuva",
+    "federal_district": "Vùng Siberia",
+    "name_vi": "Bảo tàng Lịch sử - Địa phương Turan (chi nhánh)",
+    "name_ru": "Историко-краеведческий музей, филиал имени Сафьяновых (Туран)",
+    "name_en": "Turan Local History Museum (Safyanov Branch)",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 52.1452054,
+      "lon": 93.9212257
+    },
+    "address_vi": "Phố Druzhby số 44, thị trấn Turan, huyện Piy-Khem, Cộng hòa Tuva, Nga.",
+    "rating": null,
+    "review_summary_vi": "Bảo tàng nhỏ nhưng giàu chuyện kể ở thị trấn Nga cổ nhất Tuva: nơi lưu giữ lịch sử di dân Nga, đời sống nông thôn đầu thế kỷ 20 và bước hình thành nhà nước Tuva - điểm đến hợp lý khi khám phá Turan.",
+    "presentation_short_vi": "Bảo tàng Lịch sử - Địa phương Turan là chi nhánh của Bảo tàng Quốc gia Cộng hòa Tuva mang tên Aldan-Maadyr, mở cửa năm 1981. Bảo tàng đặt trong ngôi nhà nơi từng diễn ra cuộc họp thành lập đảng cách mạng Tuva năm 1922, và mang tên dòng họ Safyanov gắn với lịch sử Turan.",
+    "presentation_long_vi": "Ở thị trấn Turan - đô thị đầu tiên của Tuva do những người Nga khai hoang lập nên năm 1885 - có một bảo tàng nhỏ nhưng đầy ắp câu chuyện: Bảo tàng Lịch sử - Địa phương, chi nhánh của Bảo tàng Quốc gia Tuva mang tên Aldan-Maadyr. Mở cửa đón khách từ năm 1981, ban đầu bảo tàng được gọi là 'bảo tàng lịch sử - cách mạng', bởi nó tọa lạc trong chính ngôi nhà nơi năm 1922 từng diễn ra cuộc họp bàn về việc thành lập đảng cách mạng nhân dân Tuva - một sự kiện quan trọng trên con đường hình thành nhà nước Tuva. Bảo tàng mang tên dòng họ Safyanov, những thương nhân - nhà khai hoang gắn bó mật thiết với lịch sử Turan và quan hệ Nga - Tuva. Các gian trưng bày kể lại quá trình di dân của người Nga đầu thế kỷ 20, đời sống nông nghiệp - thủ công của những gia đình khai hoang (rèn, mộc, xay bột, đánh cá, thả bè gỗ), cùng thiên nhiên và văn hóa vùng lòng chảo Turan - Uyuk. Với du khách, đây là nơi lý tưởng để hiểu về lớp lịch sử 'Nga' của Tuva - khía cạnh ít được biết đến bên cạnh văn hóa Tuva bản địa - và thường được kết hợp tham quan cùng nhà thờ gỗ Thánh Innokenty và những ngôi nhà cổ của thị trấn.",
+    "highlights_vi": [
+      "Chi nhánh Bảo tàng Quốc gia Tuva ở Turan, mở cửa từ năm 1981",
+      "Đặt trong ngôi nhà lịch sử gắn với cuộc họp thành lập đảng cách mạng Tuva (1922)",
+      "Kể chuyện di dân Nga, đời sống khai hoang và lịch sử lòng chảo Turan - Uyuk"
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa theo giờ hành chính; nên gọi trước để xác nhận (điện thoại +7 39435 2-12-89).",
+      "ticket_vi": "Vé vào cửa mức khiêm tốn (vài chục đến trăm rúp).",
+      "duration_vi": "Khoảng 45-60 phút.",
+      "best_time_vi": "Quanh năm; kết hợp khám phá Turan trong hành trình về tây bắc Tuva.",
+      "tips_vi": "Turan cách Kyzyl khoảng 70 km; kết hợp thăm nhà thờ gỗ Thánh Innokenty và các nhà cổ; hỏi thuyết minh để hiểu sâu hơn về lịch sử Nga - Tuva."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%BE-%D0%BA%D1%80%D0%B0%D0%B5%D0%B2%D0%B5%D0%B4%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%2C%20%D1%84%D0%B8%D0%BB%D0%B8%D0%B0%D0%BB%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%20%D0%A1%D0%B0%D1%84%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%8B%D1%85%20%28%D0%A2%D1%83%D1%80%D0%B0%D0%BD%29&ll=93.9212257,52.1452054&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Turan%20Local%20History%20Museum%20%28Safyanov%20Branch%29%2C%20Tuva%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Национальный музей Республики Тыва — Филиал «Туранский»",
+        "url": "http://museum.tuva.ru/?page_id=622"
+      },
+      {
+        "title": "OpenStreetMap — Историко-краеведческий музей (Туран)",
+        "url": "https://www.openstreetmap.org/way/1207468554"
+      }
+    ],
+    "tags": [
+      "museum",
+      "local-history",
+      "russian-settlers",
+      "turan",
+      "piy-khem",
+      "tuva"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
   }
 ]

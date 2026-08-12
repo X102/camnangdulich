@@ -2019,5 +2019,1156 @@
     "status": "enriched",
     "last_updated": "2026-08-08",
     "country": "russia"
+  },
+  {
+    "id": "kaluga-maloyaroslavets-1812-museum",
+    "slug": "maloyaroslavets-1812-museum",
+    "region": "kaluga",
+    "region_name_vi": "Tỉnh Kaluga",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Bảo tàng Chiến tranh Vệ quốc 1812 (Maloyaroslavets) (đọc: Ma-lô-ya-rô-xla-vét)",
+    "name_ru": "Военно-исторический музей 1812 года",
+    "name_en": "Maloyaroslavets Military History Museum of 1812",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 55.012361,
+      "lon": 36.474291
+    },
+    "address_vi": "Ул. Московская, 27, thành phố Maloyaroslavets, tỉnh Kaluga, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng lịch sử quân sự dành riêng cho trận Maloyaroslavets ngày 24/10/1812 - một trong những bước ngoặt của Chiến tranh Vệ quốc chống Napoleon. Đây là bảo tàng đầu tiên ở Nga được lập để tưởng nhớ cuộc chiến 1812, trưng bày vũ khí, quân trang, tranh và mô hình sa bàn trận đánh.",
+    "presentation_long_vi": "Maloyaroslavets là nơi diễn ra một trong những trận quyết định của Chiến tranh Vệ quốc 1812: ngày 24 tháng 10 năm 1812, quân Nga chặn đứng đội quân của Napoleon đang tháo lui, buộc chúng phải rút theo con đường Smolensk đã bị tàn phá - khởi đầu cho sự sụp đổ của Đại quân Pháp. Bảo tàng lịch sử quân sự tại đây được xem là bảo tàng đầu tiên ở Nga chuyên về cuộc chiến 1812 (khởi nguồn từ năm 1939, mở lại và mở rộng sau này). Các gian trưng bày giới thiệu vũ khí, quân phục, huân chương, tài liệu, tranh khắc và tranh sơn dầu về chiến dịch, cùng mô hình sa bàn tái hiện thế trận giằng co qua từng đợt đổi chủ của thị trấn. Khách tham quan hiểu được vì sao Maloyaroslavets được ví như nơi 'kết thúc cuộc tiến công và bắt đầu cuộc tháo chạy' của Napoleon. Bảo tàng nằm ngay trung tâm thị trấn, gần đài tưởng niệm và Tu viện Chernoostrovsky mang vết đạn 1812, tạo thành một cụm điểm đến lịch sử giàu ý nghĩa.",
+    "highlights_vi": [
+      "Bảo tàng đầu tiên ở Nga về Chiến tranh Vệ quốc 1812, tại chính chiến trường Maloyaroslavets.",
+      "Trưng bày vũ khí, quân phục, tranh và sa bàn tái hiện trận đánh ngày 24/10/1812.",
+      "Gần đài tưởng niệm và Tu viện Chernoostrovsky còn dấu đạn 1812."
+    ],
+    "practical": {
+      "hours_vi": "Thường mở thứ Ba-Chủ nhật, khoảng 10:00-17:00; thứ Hai nghỉ. Nên kiểm tra lịch trước.",
+      "ticket_vi": "Vé phổ thông bình dân (khoảng 100-250 RUB); ưu đãi cho học sinh, sinh viên.",
+      "duration_vi": "Khoảng 1-1,5 giờ (cả cụm bảo tàng nhiều toà).",
+      "best_time_vi": "Quanh năm; đông khách quanh dịp kỷ niệm trận đánh (tháng 10).",
+      "tips_vi": "Kết hợp thăm Tu viện Chernoostrovsky và các đài tưởng niệm 1812 ngay trung tâm thị trấn."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE-%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%201812%20%D0%B3%D0%BE%D0%B4%D0%B0&ll=36.474291,55.012361&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Maloyaroslavets%20Military%20History%20Museum%20of%201812%2C%20Kaluga%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Culture.ru — Малоярославецкий военно-исторический музей 1812 года",
+        "url": "https://www.culture.ru/institutes/9560"
+      },
+      {
+        "title": "Wikipedia (RU) — Малоярославецкое сражение",
+        "url": "https://ru.wikipedia.org/wiki/Малоярославецкое_сражение"
+      }
+    ],
+    "tags": [
+      "museum",
+      "history",
+      "war-of-1812",
+      "napoleon",
+      "maloyaroslavets",
+      "kaluga"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "kaluga-paustovsky-house-museum-tarusa",
+    "slug": "paustovsky-house-museum-tarusa",
+    "region": "kaluga",
+    "region_name_vi": "Tỉnh Kaluga",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Nhà lưu niệm nhà văn Paustovsky (Tarusa) (đọc: Pau-xtốp-xki)",
+    "name_ru": "Мемориальный дом-музей К. Г. Паустовского",
+    "name_en": "Konstantin Paustovsky House Museum, Tarusa",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 54.733182,
+      "lon": 37.173562
+    },
+    "address_vi": "Ул. Пролетарская, 2, thị trấn Tarusa, tỉnh Kaluga, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Ngôi nhà nhỏ bên sông Oka nơi nhà văn Konstantin Paustovsky sống những năm cuối đời và viết nhiều tác phẩm nổi tiếng. Bảo tàng giữ nguyên không gian sống giản dị của ông, giữa khu vườn yên tĩnh - một điểm hành hương văn học của Tarusa.",
+    "presentation_long_vi": "Tarusa - thị trấn nhỏ thơ mộng bên sông Oka - gắn liền với tên tuổi nhà văn Konstantin Paustovsky (1892-1968), người đã chọn nơi đây làm chốn đi về và an nghỉ. Trong ngôi nhà gỗ khiêm nhường trên phố Proletarskaya, ông đã sống, làm việc và viết nên nhiều trang văn thấm đẫm tình yêu thiên nhiên Nga. Bảo tàng lưu niệm giữ gần như nguyên vẹn bàn viết, đồ dùng, sách vở và không gian sinh hoạt thường ngày của nhà văn, cùng khu vườn nhỏ mà ông tự tay chăm sóc. Không gian ở đây toát lên sự bình dị, ấm áp đúng như văn phong của Paustovsky. Chính ông là người đã góp phần đưa Tarusa thành 'thủ đô của những tâm hồn nghệ sĩ', kêu gọi gìn giữ vẻ đẹp nguyên sơ của vùng đất. Với người yêu văn chương Nga, ghé thăm ngôi nhà - vườn này và mộ phần của ông trên bờ Oka là một trải nghiệm lắng đọng, gợi nhớ những truyện ngắn và tuỳ bút đã đi vào sách giáo khoa nhiều thế hệ.",
+    "highlights_vi": [
+      "Ngôi nhà - vườn nơi nhà văn Paustovsky sống và viết những năm cuối đời ở Tarusa.",
+      "Giữ nguyên bàn viết, đồ dùng và không gian sinh hoạt giản dị của nhà văn.",
+      "Điểm hành hương văn học bên sông Oka, gần mộ phần của ông."
+    ],
+    "practical": {
+      "hours_vi": "Thường mở thứ Tư-Chủ nhật, khoảng 10:00-17:00; nên đặt/kiểm tra trước vì nhà nhỏ.",
+      "ticket_vi": "Vé bình dân; có phí hướng dẫn theo đoàn.",
+      "duration_vi": "Khoảng 45-60 phút.",
+      "best_time_vi": "Cuối xuân đến đầu thu, khi vườn và bờ Oka đẹp nhất.",
+      "tips_vi": "Đi bộ kết hợp Bảo tàng gia đình Tsvetaev và bờ sông Oka; Tarusa thích hợp dạo chậm."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%B4%D0%BE%D0%BC-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%20%D0%9A.%20%D0%93.%20%D0%9F%D0%B0%D1%83%D1%81%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE&ll=37.173562,54.733182&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Konstantin%20Paustovsky%20House%20Museum%2C%20Tarusa%2C%20Kaluga%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Culture.ru — Мемориальный дом-музей К. Г. Паустовского",
+        "url": "https://www.culture.ru/institutes/92176"
+      },
+      {
+        "title": "Wikipedia (RU) — Паустовский, Константин Георгиевич",
+        "url": "https://ru.wikipedia.org/wiki/Паустовский,_Константин_Георгиевич"
+      }
+    ],
+    "tags": [
+      "museum",
+      "literature",
+      "writer",
+      "paustovsky",
+      "tarusa",
+      "oka-river"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "kaluga-tsvetaev-family-museum-tarusa",
+    "slug": "tsvetaev-family-museum-tarusa",
+    "region": "kaluga",
+    "region_name_vi": "Tỉnh Kaluga",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Bảo tàng Gia đình Tsvetaev (Tarusa) (đọc: Txvê-ta-ép)",
+    "name_ru": "Музей семьи Цветаевых",
+    "name_en": "Tsvetaev Family Museum, Tarusa",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 54.730868,
+      "lon": 37.175485
+    },
+    "address_vi": "Ул. Розы Люксембург, 30, thị trấn Tarusa, tỉnh Kaluga, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng dành cho gia đình Tsvetaev - đặc biệt là nữ thi sĩ Marina Tsvetaeva, người có tuổi thơ gắn bó với Tarusa. Trưng bày ảnh, thư từ, đồ dùng và tư liệu về một trong những dòng họ trí thức - nghệ sĩ nổi tiếng của nước Nga.",
+    "presentation_long_vi": "Tarusa là miền ký ức tuổi thơ của nữ thi sĩ Marina Tsvetaeva (1892-1941), một trong những nhà thơ lớn nhất của thi ca Nga thế kỷ XX. Gia đình Tsvetaev - với người cha Ivan Tsvetaev là nhà nghiên cứu, người sáng lập Bảo tàng Mỹ thuật Pushkin ở Moskva - từng có nhà nghỉ mát bên bờ Oka nơi đây. Bảo tàng Gia đình Tsvetaev mở trong một ngôi nhà cổ của thị trấn, kể lại câu chuyện của cả dòng họ: người cha học giả, hai chị em thi sĩ Marina và Anastasia, cùng bầu không khí văn hoá đã nuôi dưỡng tài năng của họ. Các gian phòng trưng bày ảnh tư liệu, thư từ, sách, đồ nội thất và kỷ vật, tái hiện không gian sống và tinh thần của một gia đình trí thức Nga. Với những ai yêu thơ Marina Tsvetaeva, Tarusa còn có 'phiến đá Tsvetaeva' bên sông - nơi bà từng mơ ước được yên nghỉ. Bảo tàng là điểm nhấn văn hoá không thể bỏ qua khi đến thị trấn nghệ sĩ bên dòng Oka này.",
+    "highlights_vi": [
+      "Bảo tàng về gia đình Tsvetaev, gắn với tuổi thơ nữ thi sĩ Marina Tsvetaeva ở Tarusa.",
+      "Trưng bày ảnh, thư từ, sách và kỷ vật của dòng họ trí thức - nghệ sĩ Nga.",
+      "Gần 'phiến đá Tsvetaeva' bên sông Oka - điểm hành hương thơ ca."
+    ],
+    "practical": {
+      "hours_vi": "Thường mở thứ Ba-Chủ nhật, khoảng 10:00-17:00; thứ Hai nghỉ.",
+      "ticket_vi": "Vé bình dân; có tour hướng dẫn.",
+      "duration_vi": "Khoảng 45-60 phút.",
+      "best_time_vi": "Quanh năm; đẹp nhất vào mùa ấm để kết hợp dạo bờ Oka.",
+      "tips_vi": "Đi cùng Nhà lưu niệm Paustovsky và bờ sông; hỏi đường tới 'phiến đá Tsvetaeva'."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%B9%20%D1%81%D0%B5%D0%BC%D1%8C%D0%B8%20%D0%A6%D0%B2%D0%B5%D1%82%D0%B0%D0%B5%D0%B2%D1%8B%D1%85&ll=37.175485,54.730868&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Tsvetaev%20Family%20Museum%2C%20Tarusa%2C%20Kaluga%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Culture.ru — Музей семьи Цветаевых",
+        "url": "https://www.culture.ru/institutes/24611"
+      },
+      {
+        "title": "Wikipedia (RU) — Музей семьи Цветаевых (Таруса)",
+        "url": "https://ru.wikipedia.org/wiki/Музей_семьи_Цветаевых_(Таруса)"
+      }
+    ],
+    "tags": [
+      "museum",
+      "literature",
+      "poetry",
+      "tsvetaeva",
+      "tarusa",
+      "oka-river"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "kaluga-dom-masterov-kaluga",
+    "slug": "dom-masterov-kaluga",
+    "region": "kaluga",
+    "region_name_vi": "Tỉnh Kaluga",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Bảo tàng Nhà Nghệ nhân - Dom Masterov (Kaluga) (đọc: Đôm Ma-xtê-rốp)",
+    "name_ru": "Дом мастеров",
+    "name_en": "House of Masters (Dom Masterov), Kaluga",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 54.506815,
+      "lon": 36.260467
+    },
+    "address_vi": "Griгorov pereulok (ngõ Grigorov), số 9, thành phố Kaluga, tỉnh Kaluga, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng nghệ thuật dân gian và nghề thủ công truyền thống vùng Kaluga, đặt trong một ngôi nhà gỗ chạm khắc tinh xảo cuối thế kỷ XIX. Trưng bày thêu, dệt, gốm, đồ gỗ, búp bê rơm cùng các workshop trải nghiệm nghề.",
+    "presentation_long_vi": "Ẩn trong con ngõ yên tĩnh ở trung tâm Kaluga, 'Dom Masterov' (Nhà Nghệ nhân) là một bảo tàng nhỏ nhưng đầy duyên, dành riêng cho nghệ thuật dân gian và nghề thủ công truyền thống của vùng đất Kaluga. Bản thân toà nhà đã là một tác phẩm: ngôi nhà gỗ hai tầng cuối thế kỷ XIX với những đường chạm khắc tinh vi trên khung cửa, mái hiên và diềm mái - kiểu 'ren gỗ' đặc trưng của kiến trúc dân gian Nga. Bên trong, bảo tàng giới thiệu các dòng nghề nổi tiếng của tỉnh: thêu Kaluga, dệt vải, gốm sứ, đồ chơi đất nung, búp bê rơm và rạ, chạm khắc gỗ, đan lát. Nhiều hiện vật là tác phẩm của các nghệ nhân đương đại tiếp nối truyền thống. Điểm hấp dẫn là các buổi hướng dẫn và workshop, nơi khách có thể tự tay thử làm búp bê rơm hay nặn gốm. Đây là nơi lý tưởng để hiểu đời sống văn hoá bình dân và mỹ nghệ của người dân Kaluga, đặc biệt hợp với gia đình có trẻ nhỏ.",
+    "highlights_vi": [
+      "Bảo tàng nghệ thuật dân gian và nghề thủ công vùng Kaluga trong nhà gỗ chạm khắc cổ.",
+      "Trưng bày thêu, dệt, gốm, đồ chơi đất nung, búp bê rơm, chạm khắc gỗ.",
+      "Có workshop trải nghiệm nghề - hợp với gia đình và trẻ em."
+    ],
+    "practical": {
+      "hours_vi": "Thường mở thứ Ba-Chủ nhật, khoảng 10:00-18:00; thứ Hai nghỉ.",
+      "ticket_vi": "Vé vào bình dân; workshop tính phí riêng, nên đặt trước.",
+      "duration_vi": "Khoảng 45-60 phút (thêm nếu tham gia workshop).",
+      "best_time_vi": "Quanh năm; hợp ngày mưa hoặc buổi dạo trung tâm Kaluga.",
+      "tips_vi": "Ở trung tâm, gần Bảo tàng Mỹ thuật và Quảng trường Cổ; hỏi lịch workshop làm đồ thủ công."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%94%D0%BE%D0%BC%20%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B2&ll=36.260467,54.506815&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=House%20of%20Masters%20%28Dom%20Masterov%29%2C%20Kaluga%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Cổng du lịch Kaluga (visit-kaluga.ru) — Дом мастеров",
+        "url": "https://visit-kaluga.ru/catalog/entry/dom-masterov/"
+      },
+      {
+        "title": "Culture.ru — Дом мастеров (Калуга)",
+        "url": "https://www.culture.ru/institutes/9526"
+      }
+    ],
+    "tags": [
+      "museum",
+      "folk-art",
+      "crafts",
+      "wooden-architecture",
+      "kaluga",
+      "city-center"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "kaluga-kazansky-convent-kaluga",
+    "slug": "kazansky-convent-kaluga",
+    "region": "kaluga",
+    "region_name_vi": "Tỉnh Kaluga",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Tu viện nữ Kazan (Kaluga) (đọc: Ka-dan-xki)",
+    "name_ru": "Казанский девичий монастырь",
+    "name_en": "Kazan Convent, Kaluga",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 54.503241,
+      "lon": 36.256171
+    },
+    "address_vi": "Ул. Дарвина/Монастырская, trung tâm lịch sử thành phố Kaluga, tỉnh Kaluga, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Tu viện nữ Chính thống giáo mang tên biểu tượng Đức Mẹ Kazan, thành lập từ thế kỷ XVII ở trung tâm Kaluga. Sau thời Xô Viết bị đóng cửa, tu viện được khôi phục và trở thành một trung tâm hành hương của thành phố.",
+    "presentation_long_vi": "Tu viện nữ Kazan là một trong những tu viện lâu đời và được tôn kính nhất của Kaluga, gắn với biểu tượng (icon) Đức Mẹ Kazan - vị thánh bảo trợ được người dân Nga đặc biệt sùng kính. Được thành lập từ khoảng thế kỷ XVII, tu viện từng là trung tâm đời sống tâm linh của phụ nữ mộ đạo trong vùng, với nhà thờ chính, các phòng tu và tường bao. Thời Xô Viết, tu viện bị đóng cửa và các công trình bị trưng dụng làm mục đích thế tục, nhiều phần bị hư hại. Sau khi tôn giáo được phục hồi, cộng đồng nữ tu trở lại và từng bước khôi phục sinh hoạt cùng diện mạo kiến trúc của tu viện. Ngày nay, đây là nơi cầu nguyện, hành hương và tìm sự tĩnh lặng ngay giữa trung tâm lịch sử Kaluga, gần các điểm tham quan như Quảng trường Cổ, Cầu đá Kamenny most và các nhà thờ cổ. Với du khách, ghé thăm tu viện là dịp cảm nhận nhịp sống đạo trầm mặc và nét kiến trúc tôn giáo truyền thống của Nga.",
+    "highlights_vi": [
+      "Tu viện nữ Chính thống lâu đời của Kaluga, gắn với icon Đức Mẹ Kazan.",
+      "Bị đóng cửa thời Xô Viết, được khôi phục và trở lại đời sống tu hành.",
+      "Nằm trong trung tâm lịch sử, gần Quảng trường Cổ và Cầu đá."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa hằng ngày quanh giờ lễ (sáng đến chiều tối); là nơi tu hành đang hoạt động.",
+      "ticket_vi": "Vào cửa miễn phí; hoan nghênh đóng góp tuỳ tâm.",
+      "duration_vi": "Khoảng 20-30 phút.",
+      "best_time_vi": "Quanh năm; đẹp và trang nghiêm vào các dịp lễ Chính thống.",
+      "tips_vi": "Ăn mặc kín đáo, nữ nên trùm khăn; kết hợp dạo trung tâm lịch sử Kaluga."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D0%B5%D0%B2%D0%B8%D1%87%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C&ll=36.256171,54.503241&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kazan%20Convent%2C%20Kaluga%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Sobory.ru — Казанский монастырь (Калуга)",
+        "url": "https://sobory.ru/article/?object=01852"
+      },
+      {
+        "title": "Wikipedia (RU) — Казанский монастырь (Калуга)",
+        "url": "https://ru.wikipedia.org/wiki/Казанский_монастырь_(Калуга)"
+      }
+    ],
+    "tags": [
+      "church",
+      "convent",
+      "orthodox",
+      "monastery",
+      "kaluga",
+      "city-center"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "kaluga-laurentiev-monastery-kaluga",
+    "slug": "laurentiev-monastery-kaluga",
+    "region": "kaluga",
+    "region_name_vi": "Tỉnh Kaluga",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Tu viện Thánh Lavrenty (Kaluga) (đọc: Láp-ren-ti-ép)",
+    "name_ru": "Свято-Лаврентьев монастырь",
+    "name_en": "St. Laurentius (Lavrentiev) Monastery, Kaluga",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 54.5348,
+      "lon": 36.2456
+    },
+    "address_vi": "Ул. Широкая, 49, thành phố Kaluga, tỉnh Kaluga, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Tu viện nam cổ kính gắn với thánh Lavrenty - vị thánh bảo trợ của thành phố Kaluga. Nơi từng là trung tâm tâm linh quan trọng, bị phá huỷ thời Xô Viết và đang được khôi phục dần trong khuôn viên rợp cây bên rìa thành phố.",
+    "presentation_long_vi": "Tu viện Thánh Lavrenty gắn liền với vị thánh khờ vì Chúa (yurodivy) Lavrenty của Kaluga - người theo truyền thuyết đã hiển linh giúp thành phố chống lại quân giặc đầu thế kỷ XVI và trở thành thánh bảo trợ của Kaluga. Tu viện được lập trên nơi ẩn tu của thánh, từng phát triển thành một quần thể lớn với nhà thờ, tháp chuông cao, khu mộ của nhiều dòng họ quý tộc và tướng lĩnh trong vùng. Đây cũng là nơi an nghỉ của một số nhân vật lịch sử địa phương. Thời Xô Viết, tu viện gần như bị phá huỷ hoàn toàn, nhiều công trình biến mất. Từ cuối thế kỷ XX, tu viện dần được khôi phục: các thánh đường mới được dựng lại, sinh hoạt tu hành trở lại, và khu vực trở thành điểm hành hương tưởng nhớ thánh Lavrenty. Nằm trong khuôn viên nhiều cây xanh ở khu vực yên tĩnh của thành phố, tu viện là nơi thích hợp để tìm hiểu lịch sử tâm linh Kaluga và tận hưởng bầu không khí tĩnh lặng.",
+    "highlights_vi": [
+      "Tu viện gắn với thánh Lavrenty - vị thánh bảo trợ của thành phố Kaluga.",
+      "Từng là quần thể lớn với khu mộ quý tộc; bị phá huỷ thời Xô Viết.",
+      "Đang được khôi phục, là điểm hành hương trong khuôn viên nhiều cây xanh."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa hằng ngày quanh giờ lễ; là nơi tu hành đang hoạt động.",
+      "ticket_vi": "Vào cửa miễn phí; hoan nghênh đóng góp tuỳ tâm.",
+      "duration_vi": "Khoảng 20-40 phút.",
+      "best_time_vi": "Quanh năm; đẹp vào mùa ấm khi khuôn viên xanh tốt.",
+      "tips_vi": "Ăn mặc kín đáo; ở rìa thành phố nên tiện đi ô tô/taxi; hỏi về lịch sử thánh Lavrenty."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%9B%D0%B0%D0%B2%D1%80%D0%B5%D0%BD%D1%82%D1%8C%D0%B5%D0%B2%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C&ll=36.2456,54.5348&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=St.%20Laurentius%20%28Lavrentiev%29%20Monastery%2C%20Kaluga%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Sobory.ru — Лаврентьев монастырь (Калуга)",
+        "url": "https://sobory.ru/article/?object=02530"
+      },
+      {
+        "title": "Wikipedia (RU) — Свято-Лаврентьев монастырь",
+        "url": "https://ru.wikipedia.org/wiki/Свято-Лаврентьев_монастырь"
+      }
+    ],
+    "tags": [
+      "church",
+      "monastery",
+      "orthodox",
+      "pilgrimage",
+      "kaluga",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "kaluga-spaso-preobrazhensky-za-verkhom-kaluga",
+    "slug": "spaso-preobrazhensky-za-verkhom-kaluga",
+    "region": "kaluga",
+    "region_name_vi": "Tỉnh Kaluga",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Nhà thờ Chúa Biến hình «Za Verkhom» (Kaluga) (đọc: Xpa-xô Prê-ô-bra-gien-xki)",
+    "name_ru": "Церковь Преображения Господня «за верхом»",
+    "name_en": "Church of the Transfiguration 'za Verkhom', Kaluga",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 54.509556,
+      "lon": 36.236981
+    },
+    "address_vi": "Ул. Смоленская, 8, thành phố Kaluga, tỉnh Kaluga, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhà thờ Chúa Biến hình xây đầu thế kỷ XVIII theo phong cách baroque Nga, với tên gọi dân gian «za verkhom» (bên kia khe/hẻm núi). Một trong những nhà thờ cổ đẹp còn giữ được nét kiến trúc gốc của Kaluga.",
+    "presentation_long_vi": "Nhà thờ Chúa Biến hình - dân gian quen gọi là 'za verkhom' (nghĩa là 'bên kia khe núi', vì nằm sát một khe rãnh cổ của địa hình Kaluga) - là một trong những ngôi đền cổ đáng chú ý của thành phố. Được xây bằng đá vào đầu thế kỷ XVIII (khoảng những năm 1700-1720) theo phong cách baroque Nga - Moskva, nhà thờ có khối chính nhiều tầng thanh thoát, các ô cửa trang trí đắp nổi và tháp chuông duyên dáng. Trải qua nhiều thế kỷ và cả giai đoạn khó khăn thời Xô Viết, ngôi đền vẫn giữ được nhiều nét kiến trúc nguyên bản, nay đã được trùng tu và trở lại hoạt động thờ phụng. Tên gọi và vị trí đặc biệt phản ánh cách thành phố cổ Kaluga phát triển men theo các khe rãnh và bờ dốc bên sông Oka. Với du khách quan tâm kiến trúc tôn giáo Nga, đây là điểm dừng đẹp để ngắm một mẫu nhà thờ baroque tỉnh lẻ còn khá nguyên vẹn, nằm trong khu phố cổ nhiều di tích của Kaluga.",
+    "highlights_vi": [
+      "Nhà thờ baroque Nga đầu thế kỷ XVIII, tên dân gian «za verkhom».",
+      "Giữ được nhiều nét kiến trúc gốc; đã trùng tu và hoạt động trở lại.",
+      "Nằm trong khu phố cổ Kaluga, phản ánh địa hình khe rãnh của thành phố."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa hằng ngày quanh giờ lễ (sáng đến chiều tối).",
+      "ticket_vi": "Vào cửa miễn phí; hoan nghênh đóng góp tuỳ tâm.",
+      "duration_vi": "Khoảng 15-25 phút.",
+      "best_time_vi": "Quanh năm (trong nhà).",
+      "tips_vi": "Ăn mặc kín đáo; kết hợp dạo phố cổ và các nhà thờ khác ở trung tâm Kaluga."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C%20%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%93%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D0%BD%D1%8F%20%C2%AB%D0%B7%D0%B0%20%D0%B2%D0%B5%D1%80%D1%85%D0%BE%D0%BC%C2%BB&ll=36.236981,54.509556&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Church%20of%20the%20Transfiguration%20%27za%20Verkhom%27%2C%20Kaluga%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Sobory.ru — Церковь Спаса Преображения «за верхом» (Калуга)",
+        "url": "https://sobory.ru/article/?object=00904"
+      },
+      {
+        "title": "Wikipedia (RU) — Церковь Спаса Преображения «за верхом»",
+        "url": "https://ru.wikipedia.org/wiki/Церковь_Спаса_Преображения_«за_верхом»"
+      }
+    ],
+    "tags": [
+      "church",
+      "orthodox",
+      "baroque",
+      "architecture",
+      "kaluga",
+      "old-town"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "kaluga-gremyacheva-pustyn-peremyshl",
+    "slug": "gremyacheva-pustyn-peremyshl",
+    "region": "kaluga",
+    "region_name_vi": "Tỉnh Kaluga",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Tu viện Gremyacheva (Peremyshl) (đọc: Grê-mya-tsê-va)",
+    "name_ru": "Свято-Успенская Гремячева пустынь",
+    "name_en": "Assumption Gremyacheva Hermitage, Peremyshl District",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 54.240318,
+      "lon": 36.264941
+    },
+    "address_vi": "Làng Gremyachevo, huyện Peremyshl (Peremyshlsky), tỉnh Kaluga, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Tu viện (skete/pustyn) nhỏ mang tên lễ Đức Mẹ An Giấc, nằm ở làng Gremyachevo bên bờ sông Oka. Nổi bật với ngôi tháp - nhà thờ nhiều tầng độc đáo kiểu 'cột trụ', một di tích kiến trúc hiếm của vùng Kaluga.",
+    "presentation_long_vi": "Ở làng Gremyachevo thuộc huyện Peremyshl, cách trung tâm huyện không xa và men theo dòng Oka, ẩn mình một tu viện nhỏ cổ kính: Gremyacheva pustyn (tu viện ẩn tu mang tên lễ Đức Mẹ An Giấc - Uspenie). Điểm đặc biệt nhất của quần thể là một công trình nhà thờ - tháp chuông nhiều tầng dạng 'cột trụ' (столпообразная) khá hiếm gặp, gợi liên tưởng những tháp canh cổ, được xây dựng qua nhiều thế kỷ và trùng tu lại về sau. Tu viện từng là nơi ẩn tu, cầu nguyện của các tu sĩ, gắn với truyền thống đời sống khổ hạnh của Chính thống giáo Nga. Vị trí bên sông, giữa khung cảnh đồng quê thanh bình của tỉnh Kaluga, khiến nơi đây mang vẻ tĩnh lặng đặc biệt. Sau thời gian suy tàn, tu viện được khôi phục sinh hoạt tôn giáo. Đây là điểm đến hợp cho những ai muốn kết hợp hành hương với khám phá kiến trúc tôn giáo độc đáo và phong cảnh sông nước yên ả, có thể ghép cùng hành trình thăm Optina Pustyn và Shamordino ở phía nam tỉnh.",
+    "highlights_vi": [
+      "Tu viện ẩn tu cổ bên sông Oka, tên theo lễ Đức Mẹ An Giấc.",
+      "Nhà thờ - tháp nhiều tầng dạng 'cột trụ' độc đáo, hiếm gặp ở Kaluga.",
+      "Khung cảnh đồng quê thanh bình; hợp ghép tour Optina - Shamordino."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa quanh giờ lễ; nên liên hệ trước vì là tu viện nhỏ ở nông thôn.",
+      "ticket_vi": "Vào cửa miễn phí; hoan nghênh đóng góp tuỳ tâm.",
+      "duration_vi": "Khoảng 30-45 phút.",
+      "best_time_vi": "Mùa ấm (cuối xuân đến đầu thu) khi đường quê dễ đi.",
+      "tips_vi": "Nên đi ô tô; ăn mặc kín đáo; kết hợp thăm Peremyshl và các tu viện phía nam tỉnh."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%93%D1%80%D0%B5%D0%BC%D1%8F%D1%87%D0%B5%D0%B2%D0%B0%20%D0%BF%D1%83%D1%81%D1%82%D1%8B%D0%BD%D1%8C&ll=36.264941,54.240318&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Assumption%20Gremyacheva%20Hermitage%2C%20Peremyshl%20District%2C%20Kaluga%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Sobory.ru — Гремячева пустынь (Гремячево)",
+        "url": "https://sobory.ru/article/?object=05240"
+      },
+      {
+        "title": "Cổng du lịch Kaluga (visit-kaluga.ru) — Гремячев монастырь",
+        "url": "https://visit-kaluga.ru/catalog/entry/gremyachev-monastyr/"
+      }
+    ],
+    "tags": [
+      "church",
+      "monastery",
+      "hermitage",
+      "orthodox",
+      "peremyshl",
+      "oka-river"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "kaluga-stepanovskoye-pavlishchevo-estate",
+    "slug": "stepanovskoye-pavlishchevo-estate",
+    "region": "kaluga",
+    "region_name_vi": "Tỉnh Kaluga",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Điền trang Stepanovskoye-Pavlishchevo (Yukhnov) (đọc: Xtê-pa-nốp-xkô-e Páp-li-sê-vô)",
+    "name_ru": "Усадьба Степановское-Павлищево",
+    "name_en": "Stepanovskoye-Pavlishchevo Manor, Yukhnov District",
+    "categories": [
+      "palace",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 54.564554,
+      "lon": 35.524367
+    },
+    "address_vi": "Làng Pavlishchev Bor (Stepanovskoye), huyện Yukhnov (Yukhnovsky), tỉnh Kaluga, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Điền trang quý tộc thế kỷ XIX với dinh thự kiểu tân cổ điển bề thế và công viên cổ nhiều cây quý bên sông. Còn được gọi là 'Pavlishchev Bor', là một trong những quần thể điền trang - công viên đẹp và lãng mạn còn sót lại của tỉnh Kaluga.",
+    "presentation_long_vi": "Ẩn sâu trong vùng rừng - đồng của huyện Yukhnov, điền trang Stepanovskoye-Pavlishchevo (dân quen gọi 'Pavlishchev Bor') là một trong những quần thể điền trang quý tộc ấn tượng nhất còn lại ở tỉnh Kaluga. Trung tâm là toà dinh thự lớn kiểu tân cổ điển (được xây dựng và cải tạo trong thế kỷ XIX), với mặt tiền cân đối, các gian phòng rộng và không gian bao quanh là công viên cổ trải dài bên dòng sông. Công viên được quy hoạch theo phong cách lãng mạn với các hàng cây gỗ quý, hồ nước, lối dạo và tầm nhìn ra thiên nhiên - dấu ấn của 'văn hoá điền trang' Nga thời hoàng kim. Trải qua thời Xô Viết, dinh thự từng được dùng làm nhà an dưỡng rồi rơi vào cảnh hoang phế, xuống cấp nhiều. Dù vậy, vẻ đẹp cổ điển và không khí hoài niệm nơi đây vẫn thu hút những người yêu kiến trúc, lịch sử và nhiếp ảnh tìm đến. Với du khách thích khám phá những 'viên ngọc bị lãng quên', Pavlishchev Bor là một điểm dừng gợi nhiều cảm xúc giữa thiên nhiên yên tĩnh của Kaluga.",
+    "highlights_vi": [
+      "Điền trang quý tộc thế kỷ XIX với dinh thự tân cổ điển và công viên cổ bên sông.",
+      "Còn gọi 'Pavlishchev Bor'; một trong những quần thể điền trang đẹp nhất tỉnh.",
+      "Không khí hoài niệm, hợp với người yêu kiến trúc, lịch sử và nhiếp ảnh."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, có thể ghé ban ngày; tình trạng bảo tồn hạn chế nên cẩn thận khi tiếp cận.",
+      "ticket_vi": "Thường không thu vé; tuỳ hiện trạng quản lý từng thời điểm.",
+      "duration_vi": "Khoảng 1-1,5 giờ (cả dạo công viên).",
+      "best_time_vi": "Cuối xuân đến đầu thu, khi công viên và đường quê đẹp, dễ đi.",
+      "tips_vi": "Nên đi ô tô; giày thoải mái; kiểm tra trước tình trạng cho phép vào tham quan."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A3%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0%20%D0%A1%D1%82%D0%B5%D0%BF%D0%B0%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B5-%D0%9F%D0%B0%D0%B2%D0%BB%D0%B8%D1%89%D0%B5%D0%B2%D0%BE&ll=35.524367,54.564554&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Stepanovskoye-Pavlishchevo%20Manor%2C%20Yukhnov%20District%2C%20Kaluga%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Степановское-Павлищево",
+        "url": "https://ru.wikipedia.org/wiki/Степановское-Павлищево"
+      },
+      {
+        "title": "Cổng du lịch Kaluga (visit-kaluga.ru) — Усадьба Степановское-Павлищево",
+        "url": "https://visit-kaluga.ru/catalog/entry/usadba-stepanovskoe-pavlishchevo/"
+      }
+    ],
+    "tags": [
+      "palace",
+      "estate",
+      "manor",
+      "park_garden",
+      "yukhnov",
+      "kaluga"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "kaluga-zaytseva-gora-memorial",
+    "slug": "zaytseva-gora-memorial",
+    "region": "kaluga",
+    "region_name_vi": "Tỉnh Kaluga",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Đài tưởng niệm Zaytseva Gora (đọc: Dai-txê-va Ga-ra)",
+    "name_ru": "Военно-исторический музей «Зайцева Гора»",
+    "name_en": "Zaytseva Gora War Memorial and Museum",
+    "categories": [
+      "monument",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 54.494027,
+      "lon": 34.44625
+    },
+    "address_vi": "Đường A-130 (Warsaw), gần làng Zaytseva Gora (bưu cục Tsvetovka), huyện Baryatino (Baryatinsky), tỉnh Kaluga, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Quần thể tưởng niệm và bảo tàng chiến tranh trên 'Cao điểm 269,8' bên đường Warsaw (A-130), nơi diễn ra các trận đánh đẫm máu 1942-1943 trong Thế chiến II. Có đài tưởng niệm, hố bom, pháo và mộ liệt sĩ.",
+    "presentation_long_vi": "'Zaytseva Gora' (Đồi Zaytsev) là một trong những địa danh bi tráng nhất của tỉnh Kaluga trong Chiến tranh Vệ quốc Vĩ đại. Trong các năm 1942-1943, quân đội Xô Viết đã tiến hành những trận đánh vô cùng ác liệt để giành quyền kiểm soát 'Cao điểm 269,8' và đoạn đường Warsaw chiến lược (nay là quốc lộ A-130) - tuyến huyết mạch mà quân Đức cố giữ. Hàng nghìn chiến sĩ đã ngã xuống nơi đây, trong đó có chiến công đào đường hầm và cho nổ khối thuốc lớn dưới trận địa phòng ngự của đối phương. Ngày nay, quần thể tưởng niệm gồm bảo tàng vinh quang chiến đấu, đài tưởng niệm với tượng đài và các khẩu pháo, một hố bom khổng lồ còn sót lại từ vụ nổ, cùng những ngôi mộ tập thể của binh sĩ. Bảo tàng trưng bày vũ khí, quân trang, tài liệu và hiện vật tìm thấy trên chiến trường. Đây là điểm đến giàu ý nghĩa lịch sử - giáo dục, nơi tưởng nhớ sự hy sinh to lớn của những người lính, nằm ngay bên đường lớn nên thuận tiện ghé thăm.",
+    "highlights_vi": [
+      "Quần thể tưởng niệm và bảo tàng về trận đánh đẫm máu 1942-1943 trên đường Warsaw.",
+      "Có đài tưởng niệm, pháo, hố bom khổng lồ và mộ tập thể liệt sĩ.",
+      "Bảo tàng trưng bày vũ khí, hiện vật tìm thấy trên chiến trường."
+    ],
+    "practical": {
+      "hours_vi": "Bảo tàng thường mở thứ Ba-Chủ nhật ban ngày; khu tưởng niệm ngoài trời vào tự do.",
+      "ticket_vi": "Vé bảo tàng bình dân; khu đài tưởng niệm miễn phí.",
+      "duration_vi": "Khoảng 1-1,5 giờ.",
+      "best_time_vi": "Quanh năm; trang nghiêm nhất quanh dịp 9/5 (Ngày Chiến thắng).",
+      "tips_vi": "Nằm ngay bên A-130; tiện dừng chân khi đi Kaluga - Bryansk; nên đi ô tô."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE-%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%20%C2%AB%D0%97%D0%B0%D0%B9%D1%86%D0%B5%D0%B2%D0%B0%20%D0%93%D0%BE%D1%80%D0%B0%C2%BB&ll=34.44625,54.494027&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Zaytseva%20Gora%20War%20Memorial%20and%20Museum%2C%20Kaluga%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Culture.ru — Военно-исторический музей «Зайцева Гора»",
+        "url": "https://www.culture.ru/institutes/2310"
+      },
+      {
+        "title": "Cổng du lịch Kaluga (visit-kaluga.ru) — Зайцева гора",
+        "url": "https://visit-kaluga.ru/catalog/entry/zajceva-gora/"
+      }
+    ],
+    "tags": [
+      "monument",
+      "memorial",
+      "wwii",
+      "museum",
+      "baryatino",
+      "kaluga"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "kaluga-bezymyannaya-vysota-memorial",
+    "slug": "bezymyannaya-vysota-memorial",
+    "region": "kaluga",
+    "region_name_vi": "Tỉnh Kaluga",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Đài tưởng niệm 'Cao điểm Vô danh' (đọc: Bê-di-mi-an-na-ya vư-xa-ta)",
+    "name_ru": "Мемориальный комплекс «Безымянная высота»",
+    "name_en": "Bezymyannaya Vysota (Nameless Height) Memorial",
+    "categories": [
+      "monument",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 54.05805,
+      "lon": 33.678754
+    },
+    "address_vi": "Gần làng Novye Kholmy (xưa là Rubezhenka), 'Cao điểm 224,1', huyện Kuybyshev (Kuybyshevsky), tỉnh Kaluga, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Quần thể tưởng niệm trên 'Cao điểm 224,1', nơi 18 chiến sĩ Xô Viết đã chiến đấu anh dũng đêm 13-14/9/1943 - nguồn cảm hứng cho bài hát nổi tiếng 'Trên cao điểm vô danh'. Có tượng đài, hầm trú, bảo tàng và bảo tàng ngoài trời.",
+    "presentation_long_vi": "'Bezymyannaya Vysota' (Cao điểm Vô danh - cao điểm 224,1) là một địa danh đã đi vào ký ức và âm nhạc Nga. Đêm 13 rạng 14 tháng 9 năm 1943, một nhóm 18 chiến sĩ Xô Viết thuộc Trung đoàn 718 đã giữ vững cao điểm này trước lực lượng Đức đông hơn gấp bội; sau trận đánh khốc liệt chỉ còn 2 người sống sót. Chiến công bi hùng ấy đã trở thành nguồn cảm hứng cho bài hát nổi tiếng 'Trên cao điểm vô danh' (Na bezymyannoy vysote) - một trong những ca khúc được yêu thích nhất về chiến tranh. Nằm ở góc tây nam tỉnh Kaluga, gần ranh giới với các tỉnh Smolensk và Bryansk, quần thể tưởng niệm được khánh thành để tưởng nhớ các anh hùng, gồm tượng đài, bức tường tưởng niệm, hầm trú ('zemlyanka') phục dựng, một bảo tàng nhỏ trưng bày hiện vật chiến trường và không gian ngoài trời. Đây là điểm đến giàu cảm xúc, nơi du khách và các đoàn học sinh đến tưởng niệm, tìm hiểu lịch sử và cảm nhận cái giá của hoà bình.",
+    "highlights_vi": [
+      "Nơi 18 chiến sĩ Xô Viết giữ 'Cao điểm 224,1' đêm 13-14/9/1943.",
+      "Cảm hứng cho bài hát nổi tiếng 'Trên cao điểm vô danh'.",
+      "Có tượng đài, hầm trú phục dựng và bảo tàng hiện vật chiến trường."
+    ],
+    "practical": {
+      "hours_vi": "Khu tưởng niệm ngoài trời vào tự do; bảo tàng mở ban ngày (nên liên hệ trước).",
+      "ticket_vi": "Khu tưởng niệm miễn phí; bảo tàng vé bình dân.",
+      "duration_vi": "Khoảng 45-60 phút.",
+      "best_time_vi": "Mùa ấm (đường quê dễ đi); trang nghiêm dịp 9/5 và giữa tháng 9.",
+      "tips_vi": "Ở vùng xa, nên đi ô tô; kết hợp tìm hiểu tuyến phòng thủ tây nam tỉnh Kaluga."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%20%C2%AB%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%B2%D1%8B%D1%81%D0%BE%D1%82%D0%B0%C2%BB&ll=33.678754,54.05805&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Bezymyannaya%20Vysota%20%28Nameless%20Height%29%20Memorial%2C%20Kaluga%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Culture.ru — Мемориальный комплекс «Безымянная высота»",
+        "url": "https://www.culture.ru/institutes/26105"
+      },
+      {
+        "title": "Wikipedia (RU) — Безымянная высота (мемориал)",
+        "url": "https://ru.wikipedia.org/wiki/Безымянная_высота_(мемориал)"
+      }
+    ],
+    "tags": [
+      "monument",
+      "memorial",
+      "wwii",
+      "museum",
+      "kuybyshevsky",
+      "kaluga"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "kaluga-birds-park-vorobyi",
+    "slug": "birds-park-vorobyi",
+    "region": "kaluga",
+    "region_name_vi": "Tỉnh Kaluga",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Công viên chim «Vorobyi» (đọc: Va-ra-bi)",
+    "name_ru": "Парк птиц «Воробьи»",
+    "name_en": "Vorobyi Bird Park",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 55.158489,
+      "lon": 36.779766
+    },
+    "address_vi": "Ул. Парк Птиц, 3/1, làng Sovkhoz Pobeda (gần làng Vorobyi), huyện Zhukov (Zhukovsky), tỉnh Kaluga, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Công viên chim đầu tiên và lớn nhất nước Nga, bên sông Istya ở huyện Zhukov. Quy tụ khoảng 300 loài chim từ khắp thế giới cùng khu thú, vườn nhiệt đới, thuỷ cung mini - điểm đến gia đình lý tưởng cách Moskva không xa.",
+    "presentation_long_vi": "Nằm ở huyện Zhukov, phía bắc tỉnh Kaluga và không quá xa Moskva theo đường M3, 'Vorobyi' là công viên chim đầu tiên và lớn nhất của nước Nga. Công viên ra đời từ bộ sưu tập chim của một gia đình đam mê, mở cửa đón khách từ năm 2005 và không ngừng mở rộng. Trên khuôn viên rộng bên dòng sông Istya, du khách được chiêm ngưỡng khoảng 300 loài chim đến từ nhiều châu lục: công, vẹt, hồng hạc, đà điểu, sếu, cò, chim săn mồi, các loài chim nhiệt đới rực rỡ cùng nhiều giống gà, thuỷ cầm quý hiếm. Ngoài chim, công viên còn có khu thú nhỏ (đông vật cưng, thú móng guốc, thú nhỏ), nhà kính cây nhiệt đới - xương rồng, khu bò sát - thuỷ cung mini và các khu vui chơi. Không gian được chăm chút, nhiều cây xanh, lối đi đẹp và các điểm cho ăn - tương tác, rất hợp với gia đình có trẻ nhỏ. Đây là một trong những điểm tham quan thiên nhiên - giải trí được yêu thích bậc nhất tỉnh Kaluga, có thể đi trong ngày từ Moskva hoặc kết hợp với Etnomir gần đó.",
+    "highlights_vi": [
+      "Công viên chim đầu tiên và lớn nhất nước Nga, mở từ 2005.",
+      "Khoảng 300 loài chim từ khắp thế giới cùng khu thú, nhà kính, thuỷ cung mini.",
+      "Điểm đến gia đình lý tưởng, dễ đi trong ngày từ Moskva; gần Etnomir."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa hằng ngày, khoảng 09:00-18:00 (mùa hè có thể muộn hơn); nên xem lịch trên web chính thức.",
+      "ticket_vi": "Vé người lớn khoảng 500-800 RUB, trẻ em giảm; một số khu tính vé riêng.",
+      "duration_vi": "Khoảng 2-4 giờ.",
+      "best_time_vi": "Mùa ấm (tháng 5-9) đẹp nhất; mùa đông một số khu ngoài trời hạn chế.",
+      "tips_vi": "Đi giày thoải mái; mang theo tiền lẻ để mua đồ cho chim ăn; kết hợp Etnomir (cùng khu vực)."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D1%80%D0%BA%20%D0%BF%D1%82%D0%B8%D1%86%20%C2%AB%D0%92%D0%BE%D1%80%D0%BE%D0%B1%D1%8C%D0%B8%C2%BB&ll=36.779766,55.158489&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Vorobyi%20Bird%20Park%2C%20Kaluga%2C%20Russia"
+    },
+    "official_site": "https://birdspark.ru/",
+    "sources": [
+      {
+        "title": "Trang chính thức — Парк птиц «Воробьи»",
+        "url": "https://birdspark.ru/"
+      },
+      {
+        "title": "Wikipedia (RU) — Воробьи (парк птиц)",
+        "url": "https://ru.wikipedia.org/wiki/Воробьи_(парк_птиц)"
+      }
+    ],
+    "tags": [
+      "park_garden",
+      "bird-park",
+      "zoo",
+      "family",
+      "nature",
+      "zhukovsky",
+      "kaluga"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "kaluga-chertovo-gorodishche-kozelsk",
+    "slug": "chertovo-gorodishche-kozelsk",
+    "region": "kaluga",
+    "region_name_vi": "Tỉnh Kaluga",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Chertovo Gorodishche - 'Thành của quỷ' (đọc: Chốp-ta-va Ga-ra-đi-sê)",
+    "name_ru": "Чёртово городище",
+    "name_en": "Chertovo Gorodishche (Devil's Settlement)",
+    "categories": [
+      "park_garden",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 54.068846,
+      "lon": 36.025155
+    },
+    "address_vi": "Trong Vườn Quốc gia Ugra, gần thành phố Sosensky, huyện Kozelsk (Kozelsky), tỉnh Kaluga, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Di chỉ đá sa thạch kỳ bí trong Vườn Quốc gia Ugra, với những khối đá lớn, hang hốc và loài dương xỉ - rêu quý hiếm chỉ mọc nơi đây. Gắn với nhiều truyền thuyết dân gian, là điểm dã ngoại - khám phá thiên nhiên hấp dẫn.",
+    "presentation_long_vi": "'Chertovo Gorodishche' (tạm dịch 'Thành của quỷ') là một trong những địa điểm thiên nhiên bí ẩn và độc đáo nhất tỉnh Kaluga, nằm sâu trong rừng thuộc Vườn Quốc gia Ugra, gần thành phố nhỏ Sosensky của huyện Kozelsk. Đây là một khối lộ thiên của lớp đá sa thạch cổ, tạo thành các tảng đá lớn với hình thù kỳ lạ, những hốc - hang nhỏ và bề mặt lồi lõm mà trí tưởng tượng dân gian gán cho đủ loại truyền thuyết về ma quỷ, phù thuỷ. Điều khiến giới khoa học chú ý là hệ thực vật hiếm bám trên đá: các loài dương xỉ và rêu phát sáng (có loài rêu 'schistostega' óng ánh trong hốc tối) vốn là di sản của thời kỳ khí hậu xa xưa, gần như không gặp ở nơi nào khác trong vùng. Chính vì vậy khu vực được bảo vệ như một di tích tự nhiên. Đường đến đây phải đi bộ qua rừng, băng suối - một cuộc dã ngoại thú vị cho người yêu thiên nhiên và thích cảm giác khám phá. Chertovo Gorodishche là điểm đến hợp ghép với hành trình thăm Kozelsk, Optina Pustyn và Vườn Quốc gia Ugra.",
+    "highlights_vi": [
+      "Di chỉ đá sa thạch kỳ bí trong Vườn Quốc gia Ugra, gắn nhiều truyền thuyết.",
+      "Nơi có dương xỉ và rêu phát sáng quý hiếm - di sản khí hậu cổ đại.",
+      "Điểm dã ngoại - trekking hấp dẫn, ghép cùng Kozelsk và Optina Pustyn."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tham quan ban ngày; trong ranh giới Vườn QG Ugra (có thể cần đăng ký/giấy phép).",
+      "ticket_vi": "Có thể có phí vào khu bảo tồn/hướng dẫn; tự đi thường miễn phí.",
+      "duration_vi": "Nửa ngày (gồm đi bộ đường rừng cả đi lẫn về).",
+      "best_time_vi": "Cuối xuân đến đầu thu; tránh sau mưa lớn vì đường rừng lầy.",
+      "tips_vi": "Giày trekking, chống muỗi, nước uống; nên đi cùng người biết đường hoặc theo tour."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A7%D1%91%D1%80%D1%82%D0%BE%D0%B2%D0%BE%20%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%89%D0%B5&ll=36.025155,54.068846&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Chertovo%20Gorodishche%20%28Devil%27s%20Settlement%29%2C%20Kaluga%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Чёртово городище (Калужская область)",
+        "url": "https://ru.wikipedia.org/wiki/Чёртово_городище_(Калужская_область)"
+      },
+      {
+        "title": "Vườn Quốc gia Ugra (parkugra.ru) — Чёртово городище",
+        "url": "http://www.parkugra.ru/"
+      }
+    ],
+    "tags": [
+      "park_garden",
+      "nature",
+      "geology",
+      "legend",
+      "ugra",
+      "kozelsk",
+      "kaluga"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "kaluga-kaluga-city-bor",
+    "slug": "kaluga-city-bor",
+    "region": "kaluga",
+    "region_name_vi": "Tỉnh Kaluga",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Rừng thông đô thị Kaluga - Kaluzhsky Bor (đọc: Ka-lu-gia-xki Bo)",
+    "name_ru": "Калужский городской бор",
+    "name_en": "Kaluga City Pine Forest (Kaluzhsky Bor)",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 54.54166,
+      "lon": 36.19749
+    },
+    "address_vi": "Khu Bor, giữa hồ chứa Yachenskoye và sông Oka, phía tây bắc thành phố Kaluga, tỉnh Kaluga, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Khu rừng thông cổ thụ rộng ~1.000 ha ngay trong lòng thành phố Kaluga, là di tích thiên nhiên được bảo vệ. Nhiều cây thông trên 100-200 năm tuổi, có lối dạo, đường mòn thể thao và tầm nhìn ra hồ Yachenskoye - 'lá phổi xanh' của Kaluga.",
+    "presentation_long_vi": "Kaluzhsky Bor là niềm tự hào thiên nhiên của thành phố Kaluga: một cánh rừng thông cổ rộng khoảng 1.000 ha nằm ngay sát trung tâm, được công nhận là di tích thiên nhiên cấp liên bang. Rừng chủ yếu là thông (một số cây đã 100-200 năm tuổi, thậm chí hơn), xen lẫn bạch dương, sồi, tạo nên không gian trong lành, mát mẻ và giàu đa dạng sinh học ngay trong đô thị. Bên rìa rừng là hồ chứa Yachenskoye rộng lớn với bãi tắm mùa hè, còn phía kia là bờ sông Oka. Trong bor có mạng lưới đường mòn, lối dạo bộ, đường chạy - trượt tuyết việt dã, các khu picnic và cả 'con đường sức khoẻ'. Đây là nơi người dân Kaluga đến đi bộ, chạy bộ, đạp xe, hái nấm - quả rừng vào mùa, hay đơn giản là hít thở không khí trong lành cuối tuần. Gần bor còn có Bảo tàng Du hành Vũ trụ và công viên Tsiolkovsky, nên khách tham quan dễ dàng kết hợp một buổi giữa thiên nhiên với các điểm văn hoá của thành phố.",
+    "highlights_vi": [
+      "Rừng thông cổ ~1.000 ha ngay trong thành phố, di tích thiên nhiên cấp liên bang.",
+      "Nhiều cây thông 100-200 năm tuổi; bên hồ Yachenskoye và sông Oka.",
+      "Có đường mòn dạo bộ, chạy - đạp xe, picnic; gần Bảo tàng Du hành Vũ trụ."
+    ],
+    "practical": {
+      "hours_vi": "Mở tự do quanh năm; đẹp nhất vào ban ngày.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "1-3 giờ tuỳ lộ trình dạo.",
+      "best_time_vi": "Mọi mùa: hè tắm hồ, thu lá vàng, đông trượt tuyết việt dã.",
+      "tips_vi": "Kết hợp Bảo tàng Du hành Vũ trụ và công viên Tsiolkovsky; mang nước, chống muỗi mùa hè."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D0%B0%D0%BB%D1%83%D0%B6%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B1%D0%BE%D1%80&ll=36.19749,54.54166&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kaluga%20City%20Pine%20Forest%20%28Kaluzhsky%20Bor%29%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Калужский бор",
+        "url": "https://ru.wikipedia.org/wiki/Калужский_бор"
+      },
+      {
+        "title": "Cổng du lịch Kaluga (visit-kaluga.ru) — Калужский бор",
+        "url": "https://visit-kaluga.ru/catalog/entry/kaluzhskij-bor/"
+      }
+    ],
+    "tags": [
+      "park_garden",
+      "nature",
+      "forest",
+      "protected-area",
+      "kaluga",
+      "recreation"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "kaluga-koltsovskie-caves",
+    "slug": "koltsovskie-caves",
+    "region": "kaluga",
+    "region_name_vi": "Tỉnh Kaluga",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Hang động Koltsovo (đọc: Kôn-txốp-xki-e pê-sê-rư)",
+    "name_ru": "Кольцовские пещеры",
+    "name_en": "Koltsovo Caves (Koltsovskie Peshchery)",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 54.427781,
+      "lon": 36.64469
+    },
+    "address_vi": "Gần làng Koltsovo, thung lũng/khe Lyubovets bên sông Oka, huyện Ferzikovo (Ferzikovsky), tỉnh Kaluga, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Hệ thống hang - hầm mỏ đá vôi cổ gần làng Koltsovo bên sông Oka, với nhiều lối ngách quanh co. Gắn với truyền thuyết dân gian về cướp và kho báu, là điểm khám phá mạo hiểm hấp dẫn giới ưa phiêu lưu ở tỉnh Kaluga.",
+    "presentation_long_vi": "Kolt­sovskie peshchery (hang động Koltsovo) là một điểm đến độc đáo nằm gần làng Koltsovo, trong khu vực khe - thung lũng bên bờ sông Oka thuộc huyện Ferzikovo. Về nguồn gốc, đây phần lớn là các hầm mỏ khai thác đá vôi - đá trắng từ nhiều thế kỷ trước, theo thời gian biến thành một mê cung hang ngách ngầm dưới lòng đất. Dân gian gắn nơi đây với nhiều truyền thuyết ly kỳ về những toán cướp đường, kho báu chôn giấu và các lối đi bí mật, khiến hang càng thêm phần huyền bí. Ngày nay, Koltsovskie peshchery thu hút những người yêu khám phá hang động (speleo) và du khách ưa mạo hiểm đến chui luồn qua các ngách hẹp, chiêm ngưỡng cấu trúc đá và không gian ngầm kỳ thú. Xung quanh là phong cảnh sông Oka và làng quê Kaluga thanh bình, thích hợp cho một chuyến dã ngoại kết hợp. Lưu ý đây là địa điểm tự nhiên - nhân tạo không được trang bị đầy đủ, nên cần hết sức thận trọng, có đèn, người dẫn đường và không đi một mình.",
+    "highlights_vi": [
+      "Mê cung hang - hầm mỏ đá vôi cổ bên sông Oka gần làng Koltsovo.",
+      "Gắn truyền thuyết về cướp đường và kho báu; điểm khám phá hang (speleo).",
+      "Cảnh sông Oka và làng quê thanh bình bao quanh, hợp dã ngoại mạo hiểm."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời/dưới lòng đất, tự do; không có quản lý chính thức nên cần tự trang bị.",
+      "ticket_vi": "Miễn phí (tự đi); tour hướng dẫn tính phí riêng.",
+      "duration_vi": "Nửa ngày (gồm đường tiếp cận và thời gian trong hang).",
+      "best_time_vi": "Mùa khô ráo (cuối xuân - đầu thu); tránh sau mưa lớn.",
+      "tips_vi": "BẮT BUỘC có đèn pin, giày chống trượt, đi theo nhóm và có người dẫn đường; không đi một mình."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D0%BE%D0%BB%D1%8C%D1%86%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D1%8B&ll=36.64469,54.427781&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Koltsovo%20Caves%20%28Koltsovskie%20Peshchery%29%2C%20Kaluga%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "AlterTravel — Кольцовские пещеры",
+        "url": "https://altertravel.ru/view.php?id=478"
+      },
+      {
+        "title": "Cổng du lịch Kaluga (visit-kaluga.ru) — Кольцовские пещеры",
+        "url": "https://visit-kaluga.ru/catalog/entry/kolcovskie-peshchery/"
+      }
+    ],
+    "tags": [
+      "park_garden",
+      "caves",
+      "nature",
+      "adventure",
+      "ferzikovo",
+      "oka-river",
+      "kaluga"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "kaluga-gorodnya-estate",
+    "slug": "gorodnya-estate",
+    "region": "kaluga",
+    "region_name_vi": "Tỉnh Kaluga",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Điền trang Gorodnya của dòng họ Golitsyn (đọc: Ga-rốt-nya)",
+    "name_ru": "Усадьба Городня (Голицыных)",
+    "name_en": "Gorodnya Estate (Golitsyn)",
+    "categories": [
+      "palace",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 54.531591,
+      "lon": 36.399861
+    },
+    "address_vi": "Làng Gorodnya, huyện Ferzikovo (Ferzikovsky), gần thành phố Kaluga, tỉnh Kaluga, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Điền trang quý tộc của dòng họ Golitsyn bên sông Oka, gần Kaluga. Toà dinh thự tân cổ điển được cho là do kiến trúc sư trứ danh Andrey Voronikhin thiết kế, kèm nhà thờ và công viên cổ - một 'viên ngọc' kiến trúc điền trang của tỉnh.",
+    "presentation_long_vi": "Điền trang Gorodnya nằm ở làng cùng tên thuộc huyện Ferzikovo, chỉ cách Kaluga vài kilômét, trên vùng đất cao đẹp gần sông Oka. Đây là dinh cơ của dòng họ quý tộc lừng lẫy Golitsyn, mà nữ chủ nhân Natalya Petrovna Golitsyna - người theo giai thoại đã trở thành nguyên mẫu cho nhân vật 'nữ bá tước' trong truyện 'Con đầm bích' của Pushkin. Toà dinh thự chính mang phong cách tân cổ điển thanh lịch, theo truyền thống được gán cho kiến trúc sư danh tiếng Andrey Voronikhin - tác giả Nhà thờ Kazan ở Sankt-Peterburg. Quần thể còn có nhà thờ (theo phong cách gần với baroque/cổ điển), các công trình phụ và một công viên cổ với hồ, hàng cây và tầm nhìn ra thiên nhiên - tất cả tạo nên khung cảnh trang nhã đặc trưng của 'văn hoá điền trang' Nga. Trải qua nhiều thăng trầm, quần thể không còn nguyên vẹn hoàn toàn nhưng vẫn giữ được nét đẹp cổ kính và giá trị lịch sử - kiến trúc. Với du khách yêu di sản, Gorodnya là điểm dừng thú vị rất gần Kaluga, dễ kết hợp trong hành trình khám phá vùng ven đô.",
+    "highlights_vi": [
+      "Điền trang của dòng họ Golitsyn bên sông Oka, rất gần thành phố Kaluga.",
+      "Dinh thự tân cổ điển gắn với tên kiến trúc sư Andrey Voronikhin.",
+      "Có nhà thờ và công viên cổ; liên hệ giai thoại 'Con đầm bích' của Pushkin."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, ghé ban ngày; một số công trình xuống cấp nên cẩn thận khi tiếp cận.",
+      "ticket_vi": "Thường không thu vé; tuỳ hiện trạng quản lý.",
+      "duration_vi": "Khoảng 45-60 phút (cả dạo công viên).",
+      "best_time_vi": "Cuối xuân đến đầu thu, khi công viên xanh và đường dễ đi.",
+      "tips_vi": "Rất gần Kaluga (đường đi Tarusa), tiện đi ô tô; kết hợp các điểm ven đô."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A3%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0%20%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D1%8F%20%28%D0%93%D0%BE%D0%BB%D0%B8%D1%86%D1%8B%D0%BD%D1%8B%D1%85%29&ll=36.399861,54.531591&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Gorodnya%20Estate%20%28Golitsyn%29%2C%20Kaluga%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Городня (усадьба)",
+        "url": "https://ru.wikipedia.org/wiki/Городня_(усадьба)"
+      },
+      {
+        "title": "Tonkosti.ru — Усадьба Голицыных в Городне",
+        "url": "https://tonkosti.ru/Усадьба_Голицыных_в_Городне"
+      }
+    ],
+    "tags": [
+      "palace",
+      "estate",
+      "manor",
+      "golitsyn",
+      "voronikhin",
+      "ferzikovo",
+      "kaluga"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "kaluga-maloyaroslavets-town",
+    "slug": "maloyaroslavets-town",
+    "region": "kaluga",
+    "region_name_vi": "Tỉnh Kaluga",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Thị trấn Maloyaroslavets (đọc: Ma-lô-ya-rô-xla-vét)",
+    "name_ru": "Малоярославец",
+    "name_en": "Maloyaroslavets Town",
+    "categories": [
+      "other",
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 55.0128,
+      "lon": 36.4614
+    },
+    "address_vi": "Trung tâm thị trấn Maloyaroslavets, huyện Maloyaroslavets (Maloyaroslavetsky), tỉnh Kaluga, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Thị trấn lịch sử bên sông Luzha ở phía bắc tỉnh Kaluga, nổi tiếng với trận đánh quyết định năm 1812 chống Napoleon. Trung tâm còn giữ nhà thờ, tu viện, đài tưởng niệm và các bảo tàng gắn với Chiến tranh Vệ quốc 1812.",
+    "presentation_long_vi": "Maloyaroslavets là một thị trấn nhỏ giàu lịch sử bên sông Luzha, cách Kaluga khoảng 60 km về phía bắc và không xa Moskva. Được nhắc đến trong sử liệu từ thế kỷ XIV, thị trấn khắc sâu vào lịch sử nước Nga bởi trận Maloyaroslavets ngày 24 tháng 10 năm 1812 - nơi quân Nga chặn bước tháo lui của Napoleon, buộc Đại quân Pháp rút theo con đường Smolensk hoang tàn, mở đầu cho thất bại toàn diện của cuộc xâm lược. Thị trấn từng đổi chủ nhiều lần trong trận đánh và gần như bị thiêu rụi. Ngày nay, trung tâm Maloyaroslavets là một quần thể di sản đáng yêu: Tu viện Chernoostrovsky với cổng vẫn còn in dấu đạn 1812, các đài tưởng niệm và tượng đài chiến trận, những bảo tàng chuyên đề về cuộc chiến 1812 và lịch sử địa phương, cùng những dãy phố cổ, nhà thờ và không gian yên bình. Đây là điểm đến lý tưởng cho một chuyến đi trong ngày để tìm hiểu trang sử hào hùng năm 1812, kết hợp tham quan bảo tàng, tu viện và tản bộ trong một thị trấn tỉnh lẻ mang đậm hồn Nga.",
+    "highlights_vi": [
+      "Thị trấn lịch sử bên sông Luzha, nơi diễn ra trận quyết định năm 1812.",
+      "Trung tâm còn Tu viện Chernoostrovsky in dấu đạn 1812, đài tưởng niệm và bảo tàng.",
+      "Điểm đi trong ngày lý tưởng để tìm hiểu Chiến tranh Vệ quốc 1812."
+    ],
+    "practical": {
+      "hours_vi": "Không gian đô thị mở tự do; bảo tàng và tu viện có giờ riêng.",
+      "ticket_vi": "Dạo phố miễn phí; bảo tàng thu vé bình dân.",
+      "duration_vi": "Nửa ngày đến một ngày.",
+      "best_time_vi": "Cuối xuân đến đầu thu; đông khách quanh dịp kỷ niệm trận đánh (tháng 10).",
+      "tips_vi": "Ghép Bảo tàng 1812 và Tu viện Chernoostrovsky; dễ đi tàu/ô tô từ Kaluga hoặc Moskva."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D0%B0%D0%BB%D0%BE%D1%8F%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%B5%D1%86&ll=36.4614,55.0128&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Maloyaroslavets%20Town%2C%20Kaluga%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Малоярославец",
+        "url": "https://ru.wikipedia.org/wiki/Малоярославец"
+      },
+      {
+        "title": "Cổng du lịch Kaluga (visit-kaluga.ru) — Малоярославец",
+        "url": "https://visit-kaluga.ru/catalog/entry/maloyaroslavec/"
+      }
+    ],
+    "tags": [
+      "other",
+      "town",
+      "history",
+      "war-of-1812",
+      "maloyaroslavets",
+      "kaluga"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
   }
 ]

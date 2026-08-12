@@ -2009,5 +2009,1011 @@
     "status": "enriched",
     "last_updated": "2026-07-29",
     "country": "russia"
+  },
+  {
+    "id": "ulyanovsk-sengileyevskie-gory-national-park",
+    "slug": "sengileyevskie-gory-national-park",
+    "region": "ulyanovsk",
+    "region_name_vi": "Tỉnh Ulyanovsk",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Vườn quốc gia 'Núi Sengiley' (Sengileyevskiye gory)",
+    "name_ru": "Национальный парк «Сенгилеевские горы»",
+    "name_en": "Sengileyevskie Gory National Park",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 53.916553,
+      "lon": 48.644902
+    },
+    "address_vi": "Huyện Sengileyevsky (khu vực giữa các làng Tushna, Shilovka, Artyushkino và thành phố Sengiley), hữu ngạn sông Volga, tỉnh Ulyanovsk, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Vườn quốc gia thành lập năm 2017, bảo vệ dải rừng - thảo nguyên nguyên sơ trên vùng cao Privolzhye bên hữu ngạn Volga. Nổi bật với những ngọn 'núi phấn' trắng, khe suối sâu, thảo nguyên đá vôi cùng hệ động thực vật quý hiếm và các cung đường sinh thái nhìn ra sông Volga.",
+    "presentation_long_vi": "Vườn quốc gia 'Núi Sengiley' được lập năm 2017, là khu bảo tồn thiên nhiên trẻ nhưng đặc sắc bậc nhất tỉnh Ulyanovsk, trải rộng hàng chục nghìn hecta trên vùng cao Privolzhskaya bên hữu ngạn sông Volga. Cảnh quan chủ đạo là kiểu rừng - thảo nguyên (lesostep) đặc trưng của đồng bằng Volga: những đồi phấn trắng, sườn dốc đá vôi, khe núi (ovrag) sâu hun hút xen giữa rừng sồi, rừng thông và những thảm cỏ thảo nguyên. Nơi đây được ví như một 'ốc đảo' sinh thái còn giữ nguyên sự cân bằng cổ xưa: hơn 800 loài thực vật, nhiều loài chim và thú, trong đó có các loài quý hiếm ghi trong Sách Đỏ như macmot thảo nguyên (baibak). Du khách có thể theo các tuyến đường mòn sinh thái được đánh dấu, tiêu biểu là tuyến 'Bờ Volga' (Volzhsky bereg), men theo vách bờ sông để phóng tầm mắt ra mặt nước mênh mông và những mỏm phấn trắng nhô ra khỏi rừng. Vào mùa xuân và đầu hè, thảo nguyên nở rộ nhiều loài hoa, còn mùa thu nhuộm vàng cả những sườn đồi. Vườn quốc gia là điểm đến lý tưởng cho những người yêu thiên nhiên, đi bộ đường dài và chụp ảnh phong cảnh, đồng thời là nơi bảo tồn cảnh quan Volga nguyên bản cho các thế hệ mai sau.",
+    "highlights_vi": [
+      "Rừng - thảo nguyên nguyên sơ trên vùng cao Volga với những đồi phấn trắng và khe núi sâu",
+      "Tuyến đường mòn sinh thái 'Bờ Volga' (Volzhsky bereg) nhìn ra sông Volga mênh mông",
+      "Đa dạng sinh học cao, nhiều loài trong Sách Đỏ như macmot thảo nguyên (baibak)"
+    ],
+    "practical": {
+      "hours_vi": "Khu vực tự nhiên mở quanh năm; tham quan các tuyến sinh thái nên đăng ký/liên hệ ban quản lý vườn trước.",
+      "ticket_vi": "Một số tuyến/khu vực có thu phí vào cửa hoặc phí hướng dẫn; nên hỏi trước qua trang chính thức.",
+      "duration_vi": "Nửa ngày đến trọn ngày tuỳ tuyến đi bộ.",
+      "best_time_vi": "Cuối xuân đến đầu thu (tháng 5-9); mùa thu lá vàng rất đẹp.",
+      "tips_vi": "Mang giày đi bộ, nước và mũ; đường dốc trơn khi mưa. Kiểm tra tuyến mở cửa và quy định trên npsenggory.ru."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%B0%D1%80%D0%BA%20%C2%AB%D0%A1%D0%B5%D0%BD%D0%B3%D0%B8%D0%BB%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B3%D0%BE%D1%80%D1%8B%C2%BB&ll=48.644902,53.916553&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Sengileyevskie%20Gory%20National%20Park%2C%20Ulyanovsk%2C%20Russia"
+    },
+    "official_site": "https://npsenggory.ru/",
+    "sources": [
+      {
+        "title": "Tourister.ru — Национальный парк «Сенгилеевские горы»",
+        "url": "https://www.tourister.ru/world/europe/russia/city/sengilei/nationalparks/37490"
+      },
+      {
+        "title": "Trang chính thức — npsenggory.ru",
+        "url": "https://npsenggory.ru/"
+      }
+    ],
+    "tags": [
+      "nature",
+      "national-park",
+      "forest-steppe",
+      "volga",
+      "hiking",
+      "sengiley"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "ulyanovsk-akshuat-dendropark",
+    "slug": "akshuat-dendropark",
+    "region": "ulyanovsk",
+    "region_name_vi": "Tỉnh Ulyanovsk",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Vườn bách thảo Akshuat (Akshuatsky dendropark)",
+    "name_ru": "Акшуатский дендропарк (Акшуатский парк-дендрарий)",
+    "name_en": "Akshuat Dendropark (Arboretum)",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 53.668709,
+      "lon": 47.437196
+    },
+    "address_vi": "Làng Akshuat, huyện Barysh, tỉnh Ulyanovsk, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Vườn bách thảo lâu đời hình thành từ thập ni 1880 trong điền trang của quý tộc Simbirsk V.N. Polivanov. Ban đầu là những rừng thông trồng để giữ cát, dần trở thành khu sưu tập hàng chục loài cây gỗ và cây bụi ngoại lai, nay được xếp hạng di tích thiên nhiên của tỉnh.",
+    "presentation_long_vi": "Vườn bách thảo Akshuat là một trong những khu cây xanh nhân tạo lâu đời và độc đáo nhất vùng Volga, nằm cạnh làng Akshuat thuộc huyện Barysh. Người khởi tạo là Vladimir Nikolayevich Polivanov (1848-1915) - đại điền chủ, nhà hoạt động xã hội và khảo cổ nổi tiếng của tỉnh Simbirsk. Từ thập niên 1880, trên vùng đất cát dễ xói mòn trong điền trang của mình, ông cho trồng những cánh rừng thông để cố định cát, rồi mở rộng thành một vườn sưu tập cây với nhiều loài ngoại lai được đưa từ khắp nước Nga và nước ngoài về thử nghiệm. Trải qua hơn một thế kỷ, nơi đây quy tụ hàng chục loài cây gỗ và cây bụi hiếm gặp ở vĩ độ này như thông rụng lá (larix), linh sam, vân sam xanh, tuyết tùng, sồi đỏ cùng nhiều loài khác, tạo nên những góc phong cảnh khác lạ giữa vùng rừng - thảo nguyên. Ngày nay Akshuat được công nhận là di tích thiên nhiên cấp tỉnh, vừa có giá trị khoa học - lâm học, vừa là điểm dạo chơi, tìm hiểu thiên nhiên yên bình cho du khách và học sinh. Đi giữa những hàng cây cao vút do bàn tay con người gây dựng cách đây hơn trăm năm, người ta cảm nhận rõ tâm huyết của một nhà quý tộc khai sáng đối với quê hương.",
+    "highlights_vi": [
+      "Vườn cây do điền chủ khai sáng V.N. Polivanov gây dựng từ thập niên 1880",
+      "Sưu tập hàng chục loài cây gỗ, cây bụi ngoại lai hiếm gặp ở vùng Volga",
+      "Di tích thiên nhiên cấp tỉnh, khởi đầu từ rừng thông trồng để giữ cát"
+    ],
+    "practical": {
+      "hours_vi": "Không gian ngoài trời, có thể dạo chơi ban ngày quanh năm.",
+      "ticket_vi": "Vào tự do; các tour có hướng dẫn có thể thu phí nhỏ.",
+      "duration_vi": "Khoảng 1-2 giờ.",
+      "best_time_vi": "Cuối xuân đến mùa thu; mùa thu lá đổi màu đẹp nhất.",
+      "tips_vi": "Đường tới Akshuat khá xa trung tâm, nên đi ô tô; kết hợp tìm hiểu về gia tộc Polivanov ở vùng Barysh."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%90%D0%BA%D1%88%D1%83%D0%B0%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D0%B5%D0%BD%D0%B4%D1%80%D0%BE%D0%BF%D0%B0%D1%80%D0%BA%20%28%D0%90%D0%BA%D1%88%D1%83%D0%B0%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D0%B0%D1%80%D0%BA-%D0%B4%D0%B5%D0%BD%D0%B4%D1%80%D0%B0%D1%80%D0%B8%D0%B9%29&ll=47.437196,53.668709&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Akshuat%20Dendropark%20%28Arboretum%29%2C%20Ulyanovsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Ulpressa — Акшуатский парк-дендрарий",
+        "url": "https://ulpressa.ru/placemarks/akshuatskiy-park-dendrariy/"
+      },
+      {
+        "title": "Wikipedia (RU) — Акшуатский дендропарк",
+        "url": "https://ru.wikipedia.org/wiki/Акшуатский_дендропарк"
+      }
+    ],
+    "tags": [
+      "nature",
+      "arboretum",
+      "dendropark",
+      "polivanov",
+      "barysh"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "ulyanovsk-zhadovsky-monastery",
+    "slug": "zhadovsky-monastery",
+    "region": "ulyanovsk",
+    "region_name_vi": "Tỉnh Ulyanovsk",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Tu viện nam Jadovsky (Chúa Trời-Mẹ Kazan) (đọc: Ja-đốp-xki)",
+    "name_ru": "Свято-Богородице-Казанский Жадовский мужской монастырь",
+    "name_en": "Zhadovsky (Holy Kazan-Theotokos) Monastery",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 53.572206,
+      "lon": 46.901081
+    },
+    "address_vi": "Làng Samorodki (gần làng Jadovka), huyện Barysh, tỉnh Ulyanovsk, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Tu viện nam Chính Thống giáo được lập năm 1714 tại nơi tìm thấy icon Đức Mẹ Kazan bên một mạch suối gần làng Jadovka. Đây là trung tâm hành hương lớn của tỉnh Ulyanovsk, gắn với icon Kazan-Jadovka linh thiêng và đám rước thánh giá thường niên về Simbirsk.",
+    "presentation_long_vi": "Nằm ở làng Samorodki gần Jadovka, huyện Barysh, tu viện nam Jadovsky là một trong những trung tâm tôn giáo và hành hương quan trọng nhất tỉnh Ulyanovsk. Theo truyền thuyết, năm 1714 tu viện được lập tại chính nơi một nông dân tên Tikhon tìm thấy icon Đức Mẹ Kazan bên một mạch suối trên đồi gần làng Jadovka; icon 'Kazan-Jadovka' từ đó trở thành thánh vật được sùng kính khắp vùng. Trải qua lịch sử thăng trầm - bị bãi bỏ năm 1764, phục hồi năm 1846, rồi lại bị đóng cửa và tàn phá thời Xô Viết năm 1930 - tu viện được hồi sinh từ năm 1996 và dần trùng tu lại quần thể kiến trúc. Trong thời kỳ khó khăn, icon linh thiêng được các tín hữu bí mật gìn giữ, đến năm 1997 mới được trao trả cho tu viện đang khôi phục. Ngày nay quần thể gồm nhà thờ chính kính Đức Mẹ Kazan, nhà nguyện bên 'suối ban sự sống', các dãy nhà tu và tường bao; hằng năm, đám rước thánh giá long trọng đưa icon Kazan-Jadovka về thành phố Ulyanovsk, thu hút đông đảo người hành hương. Với du khách, tu viện là nơi tĩnh lặng để tìm hiểu đời sống tu trì Chính Thống giáo, chiêm ngưỡng kiến trúc và uống nước từ mạch suối thiêng giữa khung cảnh đồng quê yên bình.",
+    "highlights_vi": [
+      "Lập năm 1714 tại nơi tìm thấy icon Đức Mẹ Kazan bên mạch suối thiêng",
+      "Trung tâm hành hương lớn với đám rước thánh giá icon Kazan-Jadovka thường niên",
+      "Suối 'ban sự sống' và quần thể tu viện được phục hồi sau năm 1996"
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa hằng ngày theo giờ lễ, thường khoảng 7:00-19:00; đông nhất vào dịp lễ Đức Mẹ Kazan (21/7, 4/11).",
+      "ticket_vi": "Vào tự do (miễn phí); quyên góp tuỳ tâm.",
+      "duration_vi": "Khoảng 40 phút đến 1 giờ, gồm cả nhà nguyện và suối thiêng.",
+      "best_time_vi": "Mùa ấm; đặc biệt các ngày lễ và mùa rước icon.",
+      "tips_vi": "Ăn mặc kín đáo, nữ trùm khăn; có thể lấy nước ở suối thiêng. Đường tới Samorodki nên đi ô tô."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D0%B5-%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%96%D0%B0%D0%B4%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D1%83%D0%B6%D1%81%D0%BA%D0%BE%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C&ll=46.901081,53.572206&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Zhadovsky%20%28Holy%20Kazan-Theotokos%29%20Monastery%2C%20Ulyanovsk%2C%20Russia"
+    },
+    "official_site": "http://barysh-eparhia.ru/mon.php",
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Жадовский монастырь",
+        "url": "https://ru.wikipedia.org/wiki/Жадовский_монастырь"
+      },
+      {
+        "title": "Барышская епархия — Жадовский монастырь",
+        "url": "http://barysh-eparhia.ru/mon.php"
+      }
+    ],
+    "tags": [
+      "church",
+      "monastery",
+      "orthodox",
+      "pilgrimage",
+      "kazan-icon",
+      "barysh"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "ulyanovsk-yazykovo-estate-park",
+    "slug": "yazykovo-estate-park",
+    "region": "ulyanovsk",
+    "region_name_vi": "Tỉnh Ulyanovsk",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Điền trang & công viên Yazykovo (nơi Pushkin ghé thăm)",
+    "name_ru": "Усадьба Языковых (Языковский парк)",
+    "name_en": "Yazykovo Estate and Park",
+    "categories": [
+      "park_garden",
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 54.295722,
+      "lon": 47.394955
+    },
+    "address_vi": "Phố Pushkin, số 13, thị trấn Yazykovo, huyện Karsun, tỉnh Ulyanovsk, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Điền trang cổ của dòng họ quý tộc Yazykov, gắn với nhà thơ N.M. Yazykov - bạn của Pushkin. Năm 1833 chính A.S. Pushkin từng ghé thăm và (theo truyền thống) trồng cây 'linh sam Pushkin'. Công viên điền trang là di tích thiên nhiên - văn học, nơi tổ chức lễ hội thơ hằng năm vào ngày sinh Pushkin.",
+    "presentation_long_vi": "Tại thị trấn Yazykovo, huyện Karsun, cách Ulyanovsk khoảng 70 km về phía tây, là điền trang cổ của dòng họ quý tộc Yazykov - một trong những địa chỉ văn học nổi tiếng nhất vùng Simbirsk. Nơi đây gắn với nhà thơ Nikolai Mikhailovich Yazykov, bạn thân của Aleksandr Pushkin. Mùa thu năm 1833, trên đường đi thu thập tư liệu về cuộc khởi nghĩa Pugachyov, Pushkin đã ghé thăm điền trang Yazykovo; theo truyền thống địa phương, ông đã trồng một cây linh sam mà nay được gọi là 'linh sam Pushkin' (Pushkinskaya yel), ước chừng đã hơn hai trăm năm tuổi. Công viên điền trang được gây dựng từ cuối thế kỷ 18 theo phong cách 'chính quy', có hồ nước, bậc thềm và những hàng cây cổ thụ, nay là di tích thiên nhiên cấp tỉnh. Toà nhà chính của gia tộc đã không còn nguyên vẹn sau các biến cố lịch sử, song trên nền cũ hình thành quần thể bảo tàng 'Điền trang Yazykov' (chi nhánh Bảo tàng Địa phương chí Ulyanovsk), giới thiệu lịch sử điền trang và làng. Từ năm 1968, mỗi dịp sinh nhật Pushkin, tại công viên Yazykovo lại diễn ra lễ hội thơ ca truyền thống, thu hút văn nghệ sĩ và du khách. Dạo bước dưới tán cây cổ thụ nơi từng in dấu chân thi hào, du khách như chạm vào một trang sống động của văn học Nga.",
+    "highlights_vi": [
+      "Điền trang gia tộc Yazykov, gắn với nhà thơ N.M. Yazykov - bạn của Pushkin",
+      "Nơi Pushkin ghé thăm năm 1833 và 'cây linh sam Pushkin' hơn 200 năm tuổi",
+      "Công viên di tích thiên nhiên - văn học, lễ hội thơ ca thường niên từ 1968"
+    ],
+    "practical": {
+      "hours_vi": "Công viên dạo chơi tự do ban ngày; bảo tàng thường mở thứ Ba - Chủ nhật, khoảng 9:00-17:00 (nên gọi trước).",
+      "ticket_vi": "Vào công viên tự do; bảo tàng có vé phổ thông bình dân.",
+      "duration_vi": "Khoảng 1-1,5 giờ cho công viên và bảo tàng.",
+      "best_time_vi": "Cuối xuân đến mùa thu; đặc biệt dịp lễ hội thơ Pushkin (đầu tháng 6).",
+      "tips_vi": "Kết hợp thăm quê hương danh hoạ A.A. Plastov (Prislonikha) cùng tuyến. Đi ô tô thuận tiện nhất."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A3%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0%20%D0%AF%D0%B7%D1%8B%D0%BA%D0%BE%D0%B2%D1%8B%D1%85%20%28%D0%AF%D0%B7%D1%8B%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D0%B0%D1%80%D0%BA%29&ll=47.394955,54.295722&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Yazykovo%20Estate%20and%20Park%2C%20Ulyanovsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Языково (Карсунский район)",
+        "url": "https://ru.wikipedia.org/wiki/Языково_(Карсунский_район)"
+      },
+      {
+        "title": "Tourister.ru — Усадьба Языково",
+        "url": "https://www.tourister.ru/world/europe/russia/city/ulyanovsk/placeofinterest/42229"
+      }
+    ],
+    "tags": [
+      "estate",
+      "park",
+      "pushkin",
+      "yazykov",
+      "literature",
+      "nature",
+      "karsun"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "ulyanovsk-beloye-lake-nikolaevsky",
+    "slug": "beloye-lake-nikolaevsky",
+    "region": "ulyanovsk",
+    "region_name_vi": "Tỉnh Ulyanovsk",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Hồ Trắng (Beloye ozero) - huyện Nikolaevsky",
+    "name_ru": "Белое озеро (Николаевский район)",
+    "name_en": "Beloye (White) Lake",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 53.020565,
+      "lon": 46.990273
+    },
+    "address_vi": "Gần làng Beloye Ozero, huyện Nikolaevsky, cực nam tỉnh Ulyanovsk (giáp tỉnh Penza), Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Hồ nước ngọt cổ nằm giữa rừng thông ở cực nam tỉnh Ulyanovsk, giáp ranh Penza. Nước trong, bờ cát, khí hậu trong lành giữa rừng khiến nơi đây trở thành khu nghỉ dưỡng - tắm mát nổi tiếng với nhiều nhà nghỉ và trại hè bên hồ.",
+    "presentation_long_vi": "Hồ Trắng (Beloye ozero) nằm ở cực nam tỉnh Ulyanovsk, thuộc huyện Nikolaevsky, sát ranh giới với tỉnh Penza, giữa một vùng rừng thông rộng lớn. Đây là một hồ có nguồn gốc cổ xưa, nước ngọt trong vắt, đáy và bờ nhiều cát, được người dân địa phương ví như 'viên ngọc' của vùng rừng phương nam. Không khí thoáng đãng, thơm mùi nhựa thông cùng làn nước sạch tạo nên điều kiện lý tưởng cho nghỉ dưỡng và tắm mát; quanh hồ hình thành nhiều nhà nghỉ (baza otdykha), khu điều dưỡng và trại hè thiếu nhi, đặc biệt đông khách vào mùa hè. Du khách tới đây để bơi lội, dạo rừng, hái nấm và quả mọng, câu cá hay đơn giản là tận hưởng sự yên tĩnh xa thành phố. Nhờ vẻ đẹp nguyên sơ và giá trị nghỉ dưỡng, cả khu vực hồ Trắng cùng rừng thông bao quanh được xem là một trong những điểm đến thiên nhiên hấp dẫn nhất phía nam tỉnh Ulyanovsk.",
+    "highlights_vi": [
+      "Hồ nước ngọt cổ, nước trong, bờ cát giữa rừng thông ở cực nam tỉnh",
+      "Khu nghỉ dưỡng - tắm mát nổi tiếng với nhiều nhà nghỉ và trại hè bên hồ",
+      "Không gian trong lành để bơi, dạo rừng, hái nấm - quả mọng và câu cá"
+    ],
+    "practical": {
+      "hours_vi": "Khu vực ngoài trời, tiếp cận quanh năm; nhộn nhịp nhất vào mùa hè.",
+      "ticket_vi": "Tự do tới hồ; lưu trú tại các baza otdykha/khu điều dưỡng tính phí riêng.",
+      "duration_vi": "Từ nửa ngày đến vài ngày nếu nghỉ dưỡng.",
+      "best_time_vi": "Mùa hè (tháng 6-8) để tắm; mùa thu để dạo rừng, hái nấm.",
+      "tips_vi": "Xa trung tâm tỉnh, nên đi ô tô và đặt chỗ nghỉ trước vào cao điểm hè."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%91%D0%B5%D0%BB%D0%BE%D0%B5%20%D0%BE%D0%B7%D0%B5%D1%80%D0%BE%20%28%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%29&ll=46.990273,53.020565&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Beloye%20%28White%29%20Lake%2C%20Ulyanovsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Ruwiki — Белое Озеро (Николаевский район)",
+        "url": "https://ru.ruwiki.ru/wiki/Белое_Озеро_(Николаевский_район)"
+      },
+      {
+        "title": "Mirturbaz — Базы отдыха посёлка Белое Озеро",
+        "url": "https://mirturbaz.ru/russia/ulyanovskaya/poselok-beloe-ozero"
+      }
+    ],
+    "tags": [
+      "nature",
+      "lake",
+      "forest",
+      "resort",
+      "swimming",
+      "nikolaevsky"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "ulyanovsk-nikolskaya-hill-surskoye",
+    "slug": "nikolskaya-hill-surskoye",
+    "region": "ulyanovsk",
+    "region_name_vi": "Tỉnh Ulyanovsk",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Đồi Thánh Nikolai (Nikolskaya gora) ở Surskoye",
+    "name_ru": "Никольская гора (Сурское)",
+    "name_en": "Nikolskaya (St. Nicholas) Hill",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 54.490865,
+      "lon": 46.731253
+    },
+    "address_vi": "Thị trấn Surskoye (trước là Promzino), bên tả ngạn sông Sura, huyện Sursky, tỉnh Ulyanovsk, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Ngọn đồi thiêng bên sông Sura ở thị trấn Surskoye, gắn với truyền thuyết Thánh Nikolai hiển linh bảo vệ làng Promzino khỏi quân du mục năm 1552. Trên đỉnh có nhà nguyện và mạch suối thánh; hằng năm ngày 22/5 hàng nghìn tín hữu hành hương lên đồi.",
+    "presentation_long_vi": "Đồi Thánh Nikolai (Nikolskaya gora, còn gọi là Belaya gora) vươn cao bên tả ngạn sông Sura, ngay cạnh thị trấn Surskoye - vốn có tên cũ là Promzino. Đây là một trong những địa điểm hành hương Chính Thống giáo nổi tiếng nhất tỉnh Ulyanovsk. Theo truyền thuyết địa phương, năm 1552 khi làng Promzino bị các toán du mục vây hãm, trên đỉnh đồi bỗng hiện ra hình bóng một ông lão tay cầm gươm và thánh giá - được tin là Thánh Nikolai Kỳ Diệu - khiến quân xâm lấn kinh hãi bỏ chạy; từ đó ngọn đồi trở thành nơi thờ kính. Trên đồi từng có nhà nguyện xây năm 1862 (đã bị phá giữa thế kỷ 20), nay được dựng lại nhà nguyện và cây thánh giá; dưới chân đồi là mạch suối thánh cùng nhà tắm nước thánh (kupel). Hằng năm vào ngày 22 tháng 5 - lễ Thánh Nikolai - hàng nghìn người từ khắp vùng hành hương lên đồi cầu nguyện và lấy nước suối. Ngoài ý nghĩa tâm linh, đỉnh đồi còn là điểm ngắm cảnh tuyệt đẹp, mở ra tầm nhìn bao quát dòng Sura uốn lượn và những cánh đồng, rừng cây trải dài. Với du khách, Nikolskaya gora là nơi giao hoà giữa đức tin, truyền thuyết và thiên nhiên khoáng đạt.",
+    "highlights_vi": [
+      "Đồi thiêng gắn với truyền thuyết Thánh Nikolai hiển linh cứu làng năm 1552",
+      "Nhà nguyện, cây thánh giá trên đỉnh và mạch suối thánh dưới chân đồi",
+      "Đại lễ hành hương ngày 22/5 và tầm nhìn toàn cảnh dòng sông Sura"
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, viếng thăm tự do quanh năm; đông nhất ngày lễ Thánh Nikolai 22/5.",
+      "ticket_vi": "Vào tự do (miễn phí).",
+      "duration_vi": "Khoảng 40 phút đến 1 giờ (leo đồi, viếng nhà nguyện, suối thánh).",
+      "best_time_vi": "Mùa ấm; đặc biệt dịp hành hương 22/5.",
+      "tips_vi": "Mang giày thoải mái để leo dốc; có thể lấy nước ở suối thánh. Ăn mặc kín đáo khi vào nhà nguyện."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B3%D0%BE%D1%80%D0%B0%20%28%D0%A1%D1%83%D1%80%D1%81%D0%BA%D0%BE%D0%B5%29&ll=46.731253,54.490865&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Nikolskaya%20%28St.%20Nicholas%29%20Hill%2C%20Ulyanovsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Живое наследие — Никольская гора в Сурском",
+        "url": "https://livingheritage.ru/brand/ulyanovskaya-oblast/nikolskaya-gora-v-poselke-surskoe"
+      },
+      {
+        "title": "Sobory.ru — Часовня на Никольской горе (Сурское)",
+        "url": "https://sobory.ru/article/?object=51782"
+      }
+    ],
+    "tags": [
+      "pilgrimage",
+      "holy-site",
+      "orthodox",
+      "spring",
+      "viewpoint",
+      "nature",
+      "sura",
+      "surskoye"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "ulyanovsk-vladimirsky-garden-ulyanovsk",
+    "slug": "vladimirsky-garden-ulyanovsk",
+    "region": "ulyanovsk",
+    "region_name_vi": "Tỉnh Ulyanovsk",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Vườn Vladimir (Vladimirsky sad)",
+    "name_ru": "Владимирский сад",
+    "name_en": "Vladimirsky (Vladimir) Garden",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 54.310911,
+      "lon": 48.403374
+    },
+    "address_vi": "Phố Plekhanov, số 10, trên sườn dốc hữu ngạn sông Volga, thành phố Ulyanovsk, tỉnh Ulyanovsk, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Công viên văn hoá - nghỉ ngơi lâu đời của Ulyanovsk, trải trên sườn dốc bên bờ Volga với những điểm ngắm cảnh đắc địa. Nơi đây có sân khấu ngoài trời lớn nhất thành phố, khu vui chơi trẻ em và các lối đi rợp bóng cây nhìn ra sông.",
+    "presentation_long_vi": "Vườn Vladimir (Vladimirsky sad) là một trong những công viên văn hoá - nghỉ ngơi lâu đời và được yêu thích của thành phố Ulyanovsk, nằm ở phần trên của sườn dốc hữu ngạn sông Volga. Vị trí trên cao giúp công viên sở hữu nhiều điểm ngắm cảnh đắc địa, phóng tầm mắt ra dòng Volga rộng lớn và vùng tả ngạn xa xa. Được hình thành và mang tên gọi từ thời trước cách mạng, khu vườn trải qua nhiều lần cải tạo và ngày nay là công viên trung tâm phục vụ đời sống giải trí của người dân. Trong khuôn viên rộng gần chín hecta có sân khấu ngoài trời lớn nhất thành phố - nơi diễn ra các buổi hoà nhạc, sự kiện và lễ hội; khu trò chơi cho trẻ em; cùng những lối đi rợp bóng cây yên tĩnh để dạo bộ. Vào mùa ấm, công viên nhộn nhịp với các hoạt động văn hoá, còn quanh năm vẫn là chốn tản bộ, hẹn hò và tận hưởng không khí trong lành ven sông quen thuộc của người Ulyanovsk. Với du khách, Vladimirsky sad là điểm dừng chân thư thái để cảm nhận nhịp sống thành phố và ngắm cảnh sông Volga từ trên cao.",
+    "highlights_vi": [
+      "Công viên lâu đời trên sườn dốc Volga với nhiều điểm ngắm cảnh đẹp",
+      "Sân khấu ngoài trời lớn nhất thành phố, nơi tổ chức hoà nhạc và lễ hội",
+      "Khu vui chơi trẻ em và lối đi rợp bóng cây ven sông"
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa hằng ngày, thường khoảng 8:00-22:00; các sự kiện theo lịch riêng.",
+      "ticket_vi": "Vào cửa tự do; một số trò chơi/sự kiện có thu phí.",
+      "duration_vi": "Khoảng 45 phút đến 1,5 giờ.",
+      "best_time_vi": "Cuối xuân đến đầu thu; buổi chiều mát để ngắm hoàng hôn trên sông Volga.",
+      "tips_vi": "Kết hợp dạo bờ kè Venets và các công viên ven sông lân cận; xem lịch sự kiện trước khi đến."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%B0%D0%B4&ll=48.403374,54.310911&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Vladimirsky%20%28Vladimir%29%20Garden%2C%20Ulyanovsk%2C%20Russia"
+    },
+    "official_site": "https://vladsad-73.ru/",
+    "sources": [
+      {
+        "title": "Trang chính thức — Владимирский Сад",
+        "url": "https://vladsad-73.ru/about/"
+      },
+      {
+        "title": "Ulyanovsk.travel — Парк «Владимирский сад»",
+        "url": "https://ulyanovsk.travel/position.php?id=132"
+      }
+    ],
+    "tags": [
+      "park",
+      "garden",
+      "volga",
+      "viewpoint",
+      "recreation",
+      "ulyanovsk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "ulyanovsk-bogdan-khitrovo-monument-ulyanovsk",
+    "slug": "bogdan-khitrovo-monument-ulyanovsk",
+    "region": "ulyanovsk",
+    "region_name_vi": "Tỉnh Ulyanovsk",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Đài tưởng niệm Bogdan Khitrovo (người sáng lập Simbirsk)",
+    "name_ru": "Памятник Богдану Хитрово",
+    "name_en": "Monument to Bogdan Khitrovo",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 54.318175,
+      "lon": 48.408039
+    },
+    "address_vi": "Bulvar Novy Venets, gần Quảng trường Lenin và nhà Goncharov, trung tâm thành phố Ulyanovsk, tỉnh Ulyanovsk, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Tượng đài kỵ mã khánh thành năm 2008 tôn vinh Bogdan Matveyevich Khitrovo - vị voivoda đã sáng lập thành phố Simbirsk (nay là Ulyanovsk) năm 1648. Tượng đặt trên bulvar Novy Venets, gần nhà Goncharov, do nhà điêu khắc O. Klyuev thực hiện.",
+    "presentation_long_vi": "Trên bulvar Novy Venets - dải đại lộ ven bờ dốc Volga ở trung tâm Ulyanovsk - sừng sững tượng đài Bogdan Matveyevich Khitrovo, người khai sinh thành phố. Năm 1648, theo lệnh của Sa hoàng, viên voivoda và okolnichy Khitrovo được cử đến vùng trung lưu Volga để xây dựng các tuyến phòng thủ chống các cuộc xâm nhập; tại đây ông đã cho lập nên pháo đài Simbirsk - tiền thân của thành phố Ulyanovsk ngày nay. Tượng đài được khánh thành ngày 1 tháng 9 năm 2008, do nhà điêu khắc bản địa Oleg Klyuev thực hiện, thể hiện hình ảnh Khitrovo trong tư thế cưỡi ngựa, khoác áo choàng tung bay đầy uy nghi; toàn bộ công trình cao khoảng 6,5 mét. Vị trí đặt tượng rất đắc địa - ngay đầu phố Goncharov lịch sử, đối diện ngôi nhà nơi văn hào Goncharov chào đời - biến nơi đây thành một trong những điểm nhấn và địa chỉ chụp ảnh quen thuộc ở trung tâm thành phố. Với du khách, tượng đài không chỉ là một tác phẩm điêu khắc đẹp mà còn là điểm khởi đầu lý tưởng để tìm hiểu về nguồn cội của Simbirsk - Ulyanovsk.",
+    "highlights_vi": [
+      "Tượng kỵ mã tôn vinh Bogdan Khitrovo - người sáng lập Simbirsk năm 1648",
+      "Khánh thành năm 2008, cao khoảng 6,5 m, tác giả O. Klyuev",
+      "Vị trí đắc địa đầu phố Goncharov, đối diện nhà Goncharov, trên bulvar Novy Venets"
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tham quan tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 10-15 phút.",
+      "best_time_vi": "Quanh năm; đẹp vào buổi chiều và khi lên đèn.",
+      "tips_vi": "Kết hợp dạo bulvar Novy Venets, nhà Goncharov và các bảo tàng khu trung tâm."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%D0%91%D0%BE%D0%B3%D0%B4%D0%B0%D0%BD%D1%83%20%D0%A5%D0%B8%D1%82%D1%80%D0%BE%D0%B2%D0%BE&ll=48.408039,54.318175&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Monument%20to%20Bogdan%20Khitrovo%2C%20Ulyanovsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Памятник Б. М. Хитрово",
+        "url": "https://ru.wikipedia.org/wiki/Памятник_Б._М._Хитрово"
+      },
+      {
+        "title": "Ulyanovsk.travel — Памятник Богдану Хитрово",
+        "url": "https://ulyanovsk.travel/position.php?id=258"
+      }
+    ],
+    "tags": [
+      "monument",
+      "history",
+      "founder",
+      "simbirsk",
+      "khitrovo",
+      "ulyanovsk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "ulyanovsk-livchak-house-museum-ulyanovsk",
+    "slug": "livchak-house-museum-ulyanovsk",
+    "region": "ulyanovsk",
+    "region_name_vi": "Tỉnh Ulyanovsk",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Bảo tàng 'Nhà - xưởng vẽ của kiến trúc sư F.O. Livchak'",
+    "name_ru": "Музей «Дом-ателье архитектора Ф.О. Ливчака»",
+    "name_en": "Museum House-Atelier of Architect F.O. Livchak",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 54.310005,
+      "lon": 48.380786
+    },
+    "address_vi": "Phố Arkhitektora Livchaka, số 4, thành phố Ulyanovsk, tỉnh Ulyanovsk, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng trong chính ngôi nhà - xưởng vẽ do kiến trúc sư Fyodor Livchak tự thiết kế và xây năm 1914, một kiệt tác phong cách Art Nouveau (modern) của Simbirsk. Nhà xây từ các khối bê tông rỗng do chính Livchak sáng chế; trưng bày giới thiệu sự nghiệp của ông và kiến trúc modern của thành phố.",
+    "presentation_long_vi": "Bảo tàng 'Nhà - xưởng vẽ của kiến trúc sư F.O. Livchak' toạ lạc tại chính ngôi nhà mà Fyodor Osipovich Livchak (1878-1919) - kiến trúc sư tài hoa của Simbirsk - đã tự thiết kế và xây dựng năm 1914 làm nơi ở kiêm xưởng sáng tác. Công trình là một trong những viên ngọc của phong cách Art Nouveau (modern) đầu thế kỷ 20 ở thành phố: khối nhà hình chữ L một - hai tầng với đường nét mềm mại, trang trí tinh tế, đặc biệt được dựng từ những khối bê tông rỗng do chính Livchak phát minh và cấp bằng sáng chế - một cải tiến xây dựng táo bạo thời bấy giờ. Ngày nay, trên tầng một, ngay trong không gian xưởng vẽ nguyên bản, bảo tàng bố trí phần trưng bày 'Xưởng của F.O. Livchak', giúp khách khám phá phương pháp sáng tạo và di sản của ông; các không gian khác giới thiệu về kiến trúc thời kỳ modern ở Simbirsk cùng số phận của người kiến trúc sư. Là một bảo tàng thuộc Khu bảo tồn lịch sử 'Quê hương V.I. Lenin', đây là điểm đến hấp dẫn cho những ai yêu kiến trúc, lịch sử đô thị và muốn hiểu diện mạo Simbirsk đầu thế kỷ 20.",
+    "highlights_vi": [
+      "Ngôi nhà - xưởng vẽ Art Nouveau do chính kiến trúc sư Livchak thiết kế, xây năm 1914",
+      "Xây từ khối bê tông rỗng do Livchak sáng chế và cấp bằng - cải tiến độc đáo",
+      "Trưng bày 'Xưởng của Livchak' và kiến trúc thời modern của Simbirsk"
+    ],
+    "practical": {
+      "hours_vi": "Thường mở thứ Ba - Chủ nhật, khoảng 10:00-18:00 (thứ Năm có thể muộn hơn); thứ Hai nghỉ. Nên kiểm tra trước.",
+      "ticket_vi": "Vé phổ thông bình dân; ưu đãi cho học sinh, sinh viên, người cao tuổi.",
+      "duration_vi": "Khoảng 45 phút đến 1 giờ.",
+      "best_time_vi": "Quanh năm.",
+      "tips_vi": "Có vé liên tuyến với các bảo tàng khác trong Khu bảo tồn 'Quê hương V.I. Lenin'; kết hợp tham quan cả khu phố bảo tàng."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%B9%20%C2%AB%D0%94%D0%BE%D0%BC-%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%B5%20%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B0%20%D0%A4.%D0%9E.%20%D0%9B%D0%B8%D0%B2%D1%87%D0%B0%D0%BA%D0%B0%C2%BB&ll=48.380786,54.310005&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Museum%20House-Atelier%20of%20Architect%20F.O.%20Livchak%2C%20Ulyanovsk%2C%20Russia"
+    },
+    "official_site": "https://ulzapovednik.ru/",
+    "sources": [
+      {
+        "title": "Culture.ru — Дом-ателье архитектора Ф.О. Ливчака",
+        "url": "https://www.culture.ru/institutes/22357/dom-atele-arkhitektora-f-o-livchaka"
+      },
+      {
+        "title": "Музей-заповедник «Родина В.И. Ленина»",
+        "url": "https://ulzapovednik.ru/muzei/dom-atele-arkhitektora-f-o-livchaka/"
+      }
+    ],
+    "tags": [
+      "museum",
+      "architecture",
+      "art-nouveau",
+      "modern",
+      "livchak",
+      "ulyanovsk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "ulyanovsk-palace-of-books-ulyanovsk",
+    "slug": "palace-of-books-ulyanovsk",
+    "region": "ulyanovsk",
+    "region_name_vi": "Tỉnh Ulyanovsk",
+    "federal_district": "Vùng Volga",
+    "name_vi": "'Cung Sách' - Thư viện Khoa học tỉnh Ulyanovsk mang tên V.I. Lenin",
+    "name_ru": "Дворец книги — Ульяновская областная научная библиотека имени В.И. Ленина",
+    "name_en": "Palace of Books — Ulyanovsk Regional Scientific Library",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 54.316401,
+      "lon": 48.405948
+    },
+    "address_vi": "Ngõ Karamzin, số 3/2, gần bulvar Novy Venets, trung tâm thành phố Ulyanovsk, tỉnh Ulyanovsk, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Thư viện khoa học lớn nhất tỉnh, quen gọi là 'Cung Sách', đặt trong toà nhà lịch sử bên khu Novy Venets - Vườn Karamzin. Đây là một trong những thư viện lâu đời của vùng, lưu giữ nhiều sách quý, bản in cổ và là trung tâm văn hoá - tri thức của thành phố.",
+    "presentation_long_vi": "'Cung Sách' (Dvorets knigi) là tên gọi trìu mến của Thư viện Khoa học tỉnh Ulyanovsk mang tên V.I. Lenin - thư viện lớn và lâu đời bậc nhất vùng, toạ lạc trong một toà nhà lịch sử bên khu bulvar Novy Venets và Vườn Karamzin ở trung tâm thành phố. Toà nhà chính vốn được xây từ giữa thế kỷ 19 cho tầng lớp quý tộc Simbirsk, mang dáng vẻ cổ điển trang nghiêm, sau này trở thành nơi đặt thư viện. Là hậu duệ của thư viện công cộng Karamzin danh tiếng của Simbirsk, 'Cung Sách' lưu giữ một kho tàng đồ sộ gồm hàng triệu ấn phẩm, trong đó có nhiều sách quý, bản in cổ, tài liệu địa phương chí và các bộ sưu tập độc bản vô giá về lịch sử vùng đất. Không chỉ là nơi đọc và nghiên cứu, thư viện còn thường xuyên tổ chức triển lãm sách, các buổi giao lưu văn học, sự kiện văn hoá và là địa chỉ gắn bó với đời sống tinh thần của người Ulyanovsk. Với du khách yêu sách và kiến trúc, việc ghé thăm toà nhà lịch sử này, ngắm những gian đọc trang nhã và tìm hiểu di sản chữ nghĩa của một thành phố tự hào là 'quê hương của những trí thức', là một trải nghiệm thú vị giữa lòng phố cổ.",
+    "highlights_vi": [
+      "Thư viện khoa học lớn và lâu đời nhất tỉnh, hậu duệ của thư viện Karamzin Simbirsk",
+      "Đặt trong toà nhà lịch sử giữa thế kỷ 19 bên khu Novy Venets - Vườn Karamzin",
+      "Kho sách quý, bản in cổ và các bộ sưu tập địa phương chí vô giá"
+    ],
+    "practical": {
+      "hours_vi": "Thường mở thứ Ba - Chủ nhật; giờ tham khảo khoảng 9:00-19:00 (cuối tuần 10:00-18:00); thứ Hai nghỉ. Nên kiểm tra trước.",
+      "ticket_vi": "Vào đọc/tham quan thường miễn phí (có thể cần đăng ký thẻ độc giả); một số sự kiện riêng.",
+      "duration_vi": "Khoảng 30-45 phút nếu tham quan toà nhà và triển lãm.",
+      "best_time_vi": "Quanh năm, trong giờ hành chính.",
+      "tips_vi": "Kết hợp thăm Vườn Karamzin và bulvar Novy Venets ngay bên cạnh; xem lịch triển lãm trên uonb.ru."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%94%D0%B2%D0%BE%D1%80%D0%B5%D1%86%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8%20%E2%80%94%20%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%BD%D0%B0%D1%8F%20%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%B0%D1%8F%20%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%20%D0%92.%D0%98.%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0&ll=48.405948,54.316401&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Palace%20of%20Books%20%E2%80%94%20Ulyanovsk%20Regional%20Scientific%20Library%2C%20Russia"
+    },
+    "official_site": "https://uonb.ru/",
+    "sources": [
+      {
+        "title": "Trang chính thức — uonb.ru",
+        "url": "https://uonb.ru/"
+      },
+      {
+        "title": "Culture.ru — Дворец книги (УОНБ им. В.И. Ленина)",
+        "url": "https://www.culture.ru/institutes/26577/dvorec-knigi-ulyanovskaya-oblastnaya-nauchnaya-biblioteka-imeni-v-i-lenina"
+      }
+    ],
+    "tags": [
+      "library",
+      "historic-building",
+      "culture",
+      "karamzin",
+      "ulyanovsk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "ulyanovsk-simbirsk-photography-museum-ulyanovsk",
+    "slug": "simbirsk-photography-museum-ulyanovsk",
+    "region": "ulyanovsk",
+    "region_name_vi": "Tỉnh Ulyanovsk",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Bảo tàng 'Nhiếp ảnh Simbirsk' (Simbirskaya fotografiya)",
+    "name_ru": "Музей «Симбирская фотография»",
+    "name_en": "Museum of Simbirsk Photography",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 54.313408,
+      "lon": 48.383542
+    },
+    "address_vi": "Phố Engels, số 1B, khu phố bảo tàng, trung tâm thành phố Ulyanovsk, tỉnh Ulyanovsk, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng độc đáo về lịch sử nhiếp ảnh, đặt trong khu nhà từng là hiệu ảnh của các nhiếp ảnh gia Simbirsk đầu thế kỷ 20. Trưng bày máy ảnh, thiết bị cổ và cả một studio chụp ảnh phong cách xưa còn hoạt động cho khách trải nghiệm.",
+    "presentation_long_vi": "Bảo tàng 'Nhiếp ảnh Simbirsk' là một trong những bảo tàng chuyên đề thú vị nhất trong khu phố bảo tàng của Ulyanovsk, tái hiện lịch sử nghề nhiếp ảnh ở tỉnh lỵ Simbirsk xưa. Bảo tàng đặt trong khu nhà - điền trang mà ngay từ đầu thế kỷ 20 đã là nơi có hiệu ảnh của những nhiếp ảnh gia Simbirsk nổi tiếng như Kholevin và Nikanorov. Được khai trương năm 2004, không gian trưng bày dẫn dắt người xem qua các chặng phát triển của nhiếp ảnh: từ những chiếc máy ảnh gỗ khổ lớn, ống kính, đèn chụp và phông nền của thời kỳ đầu, đến các bức chân dung, ảnh đời thường ghi lại diện mạo con người và phố phường Simbirsk cuối thế kỷ 19 - đầu thế kỷ 20. Điểm hấp dẫn đặc biệt là một studio chụp ảnh phong cách cổ được phục dựng, nơi du khách có thể hoá thân, tạo dáng và chụp những bức ảnh mang hơi thở hoài niệm. Qua ống kính của quá khứ, bảo tàng không chỉ kể câu chuyện của một nghề thủ công - nghệ thuật, mà còn lưu giữ ký ức hình ảnh sống động về đời sống thị dân Simbirsk một thời.",
+    "highlights_vi": [
+      "Đặt trong khu nhà từng có hiệu ảnh của các nhiếp ảnh gia Simbirsk đầu thế kỷ 20",
+      "Trưng bày máy ảnh, ống kính và thiết bị nhiếp ảnh cổ cùng ảnh tư liệu quý",
+      "Studio chụp ảnh phong cách xưa còn hoạt động cho khách trải nghiệm"
+    ],
+    "practical": {
+      "hours_vi": "Thường mở thứ Ba - Chủ nhật, khoảng 10:00-17:00 (thứ Năm muộn hơn, cuối tuần 10:00-18:00); thứ Hai nghỉ.",
+      "ticket_vi": "Vé phổ thông bình dân; dịch vụ chụp ảnh phong cách cổ tính phí riêng.",
+      "duration_vi": "Khoảng 40 phút đến 1 giờ.",
+      "best_time_vi": "Quanh năm.",
+      "tips_vi": "Nằm trong khu phố bảo tàng, dễ kết hợp với nhiều bảo tàng lân cận bằng vé liên tuyến của Khu bảo tồn."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%B9%20%C2%AB%D0%A1%D0%B8%D0%BC%D0%B1%D0%B8%D1%80%D1%81%D0%BA%D0%B0%D1%8F%20%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F%C2%BB&ll=48.383542,54.313408&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Simbirsk%20Photography%2C%20Ulyanovsk%2C%20Russia"
+    },
+    "official_site": "https://www.ulzapovednik.ru/",
+    "sources": [
+      {
+        "title": "Culture.ru — Музей «Симбирская фотография»",
+        "url": "https://www.culture.ru/institutes/10266/muzei-simbirskaya-fotografiya"
+      },
+      {
+        "title": "Музей-заповедник «Родина В.И. Ленина»",
+        "url": "https://www.ulzapovednik.ru/muzei/muzey-simbirskaya-fotografiya/"
+      }
+    ],
+    "tags": [
+      "museum",
+      "photography",
+      "history",
+      "simbirsk",
+      "ulyanovsk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "ulyanovsk-simbirsk-architecture-planning-museum-ulyanovsk",
+    "slug": "simbirsk-architecture-planning-museum-ulyanovsk",
+    "region": "ulyanovsk",
+    "region_name_vi": "Tỉnh Ulyanovsk",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Bảo tàng 'Quy hoạch đô thị và Kiến trúc Simbirsk - Ulyanovsk'",
+    "name_ru": "Музей «Градостроительство и архитектура Симбирска-Ульяновска»",
+    "name_en": "Museum of Urban Planning and Architecture of Simbirsk-Ulyanovsk",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 54.310918,
+      "lon": 48.383769
+    },
+    "address_vi": "Phố Lev Tolstoy, số 24, khu phố bảo tàng, trung tâm thành phố Ulyanovsk, tỉnh Ulyanovsk, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng chuyên về sự hình thành và biến đổi diện mạo đô thị Simbirsk - Ulyanovsk qua các thời kỳ. Đặt trong một dinh thự gỗ giữa thế kỷ 19, bảy gian trưng bày giới thiệu bản đồ, mô hình, bản vẽ và hình ảnh về quy hoạch và kiến trúc thành phố.",
+    "presentation_long_vi": "Bảo tàng 'Quy hoạch đô thị và Kiến trúc Simbirsk - Ulyanovsk' kể câu chuyện thành phố lớn lên và thay đổi diện mạo ra sao suốt hơn ba thế kỷ. Bảo tàng đặt trong một toà dinh thự cổ - vốn là một phần của quần thể điền trang tiêu biểu cho kiến trúc Simbirsk giữa thế kỷ 19 - nay bản thân toà nhà cũng là một hiện vật sống động. Trong bảy gian trưng bày, du khách lần lượt khám phá: từ buổi đầu Simbirsk là một pháo đài trên tuyến phòng thủ Volga, qua các quy hoạch thời đế chế với những dãy phố thẳng tắp và công trình cổ điển, đến trận đại hoả hoạn năm 1864 tàn phá thành phố, rồi công cuộc tái thiết và cuối cùng là diện mạo Ulyanovsk thời Xô Viết với những công trình kỷ niệm 100 năm ngày sinh Lenin. Các bản đồ cổ, mô hình, bản vẽ kiến trúc, ảnh tư liệu và maquette giúp hình dung rõ nét sự biến chuyển của không gian đô thị. Đây là điểm đến lý tưởng để 'đọc' thành phố như một cuốn sách kiến trúc, hiểu vì sao Ulyanovsk có được diện mạo hôm nay - đặc biệt bổ ích khi tham quan trước hoặc sau khi dạo khu phố bảo tàng và trung tâm lịch sử.",
+    "highlights_vi": [
+      "Chuyên đề về quy hoạch và kiến trúc Simbirsk - Ulyanovsk qua ba thế kỷ",
+      "Bản đồ cổ, mô hình, bản vẽ và maquette diện mạo đô thị các thời kỳ",
+      "Đặt trong dinh thự gỗ giữa thế kỷ 19 - bản thân là di sản kiến trúc"
+    ],
+    "practical": {
+      "hours_vi": "Thường mở thứ Ba - Chủ nhật, khoảng 10:00-17:00 (thứ Năm muộn hơn); thứ Hai nghỉ. Nên kiểm tra trước.",
+      "ticket_vi": "Vé phổ thông bình dân; ưu đãi cho học sinh, sinh viên.",
+      "duration_vi": "Khoảng 45 phút đến 1 giờ.",
+      "best_time_vi": "Quanh năm.",
+      "tips_vi": "Tham quan trước khi dạo khu phố bảo tàng để hiểu rõ hơn bố cục và kiến trúc trung tâm lịch sử."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%B9%20%C2%AB%D0%93%D1%80%D0%B0%D0%B4%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE%20%D0%B8%20%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0%20%D0%A1%D0%B8%D0%BC%D0%B1%D0%B8%D1%80%D1%81%D0%BA%D0%B0-%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%C2%BB&ll=48.383769,54.310918&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Urban%20Planning%20and%20Architecture%20of%20Simbirsk-Ulyanovsk%2C%20Russia"
+    },
+    "official_site": "https://ulzapovednik.ru/",
+    "sources": [
+      {
+        "title": "Culture.ru — Музей «Градостроительство и архитектура Симбирска-Ульяновска»",
+        "url": "https://www.culture.ru/institutes/10340/muzei-gradostroitelstvo-i-arkhitektura-simbirska-ulyanovska"
+      },
+      {
+        "title": "Музей-заповедник «Родина В.И. Ленина»",
+        "url": "https://ulzapovednik.ru/"
+      }
+    ],
+    "tags": [
+      "museum",
+      "architecture",
+      "urban-planning",
+      "history",
+      "simbirsk",
+      "ulyanovsk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "ulyanovsk-dimitrovgrad-drama-theatre",
+    "slug": "dimitrovgrad-drama-theatre",
+    "region": "ulyanovsk",
+    "region_name_vi": "Tỉnh Ulyanovsk",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Nhà hát Kịch Dimitrovgrad mang tên A.N. Ostrovsky",
+    "name_ru": "Димитровградский драматический театр имени А.Н. Островского",
+    "name_en": "Dimitrovgrad Drama Theatre named after A.N. Ostrovsky",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 54.216019,
+      "lon": 49.627346
+    },
+    "address_vi": "Phố 3 Internatsionala, số 74, thành phố Dimitrovgrad (Melekess cũ), tỉnh Ulyanovsk, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhà hát kịch chuyên nghiệp của Dimitrovgrad - thành phố lớn thứ hai của tỉnh, thành lập năm 1943. Sân khấu gắn bó với kịch cổ điển Nga, đặc biệt các vở của A.N. Ostrovsky, và là trung tâm văn hoá - nghệ thuật của vùng đông tỉnh Ulyanovsk.",
+    "presentation_long_vi": "Nhà hát Kịch Dimitrovgrad mang tên nhà viết kịch vĩ đại A.N. Ostrovsky là trung tâm sân khấu chuyên nghiệp của Dimitrovgrad - thành phố lớn thứ hai tỉnh Ulyanovsk, vốn có tên cũ là Melekess. Được thành lập năm 1943 giữa những năm tháng chiến tranh, nhà hát đã trải qua hơn tám thập kỷ gắn bó với đời sống tinh thần của người dân vùng công nghiệp bên sông. Trên sân khấu của mình, nhà hát đã dàn dựng gần như toàn bộ các vở kịch của Aleksandr Ostrovsky - bậc thầy của kịch nói Nga mà nhà hát mang tên - cùng nhiều tác phẩm của Chekhov, Gorky và các tác gia cổ điển, hiện đại khác. Toà nhà của nhà hát nằm trên phố 3 Internatsionala ở khu trung tâm, giữa những dãy phố còn lưu dấu vẻ đẹp của Melekess thương gia xưa. Với chương trình biểu diễn phong phú gồm cả kịch cho người lớn và trẻ em, nhà hát không chỉ là nơi thưởng thức nghệ thuật mà còn là điểm hẹn văn hoá quen thuộc, góp phần khẳng định Dimitrovgrad là một trung tâm văn hoá đáng kể ở phía đông tỉnh Ulyanovsk. Du khách có thể chọn xem một vở diễn để cảm nhận nhịp sống nghệ thuật của thành phố.",
+    "highlights_vi": [
+      "Nhà hát kịch chuyên nghiệp của Dimitrovgrad, thành lập năm 1943",
+      "Gắn bó với kịch cổ điển Nga, đặc biệt các vở của A.N. Ostrovsky",
+      "Trung tâm văn hoá - nghệ thuật của vùng đông tỉnh Ulyanovsk"
+    ],
+    "practical": {
+      "hours_vi": "Theo lịch diễn và giờ bán vé; phòng vé thường mở ban ngày, suất diễn buổi tối và cuối tuần.",
+      "ticket_vi": "Giá vé bình dân theo từng vở; đặt trước qua phòng vé hoặc trang chính thức.",
+      "duration_vi": "Mỗi buổi diễn khoảng 2-3 giờ.",
+      "best_time_vi": "Mùa diễn từ thu đến xuân; xem lịch trên dimdramteatr.ru.",
+      "tips_vi": "Đặt vé trước cho các vở nổi bật; kết hợp dạo trung tâm lịch sử Melekess của Dimitrovgrad."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%94%D0%B8%D0%BC%D0%B8%D1%82%D1%80%D0%BE%D0%B2%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D1%82%D0%B5%D0%B0%D1%82%D1%80%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%20%D0%90.%D0%9D.%20%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE&ll=49.627346,54.216019&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Dimitrovgrad%20Drama%20Theatre%20named%20after%20A.N.%20Ostrovsky%2C%20Ulyanovsk%2C%20Russia"
+    },
+    "official_site": "http://dimdramteatr.ru/",
+    "sources": [
+      {
+        "title": "Culture.ru — Димитровградский драматический театр им. А.Н. Островского",
+        "url": "https://www.culture.ru/institutes/21369/dimitrovgradskii-dramaticheskii-teatr-im-a-n-ostrovskogo"
+      },
+      {
+        "title": "Trang chính thức — dimdramteatr.ru",
+        "url": "http://dimdramteatr.ru/"
+      }
+    ],
+    "tags": [
+      "theatre",
+      "drama",
+      "ostrovsky",
+      "culture",
+      "dimitrovgrad"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "ulyanovsk-undory-resort-ulyanovsk",
+    "slug": "undory-resort-ulyanovsk",
+    "region": "ulyanovsk",
+    "region_name_vi": "Tỉnh Ulyanovsk",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Khu nghỉ dưỡng Undory và suối khoáng 'Volzhanka'",
+    "name_ru": "Курорт Ундоры (санаторий имени В.И. Ленина, минеральный источник «Волжанка»)",
+    "name_en": "Undory Health Resort and Mineral Springs",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 54.59115,
+      "lon": 48.40359
+    },
+    "address_vi": "Làng Undory, bên hữu ngạn hồ chứa Kuibyshev (sông Volga), huyện Ulyanovsky, tỉnh Ulyanovsk, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Khu nghỉ dưỡng - điều trị bằng nước khoáng nổi tiếng bên bờ Volga, cách Ulyanovsk khoảng 40 km. Điểm đặc biệt là nước khoáng 'Volzhanka' giàu hợp chất hữu cơ hiếm có và lớp đất sét xanh 'kimeridge'; xung quanh là bờ sông với các tầng hoá thạch cổ sinh.",
+    "presentation_long_vi": "Undory là một trong những khu nghỉ dưỡng - điều trị (kurort) độc đáo nhất nước Nga, nằm bên hữu ngạn sông Volga (hồ chứa Kuibyshev), cách thành phố Ulyanovsk khoảng 40 km về phía bắc. Trung tâm của khu nghỉ là các viện điều dưỡng, tiêu biểu là Sanatorium mang tên V.I. Lenin, khai thác nguồn nước khoáng 'Volzhanka' quý hiếm được lấy từ giếng khoan ngay trong khuôn viên. Điều làm nên danh tiếng đặc biệt của Undory là nước khoáng ở đây giàu các hợp chất hữu cơ - một đặc tính hiếm gặp, đưa Undory vào danh sách những khu nghỉ dưỡng có yếu tố thiên nhiên độc nhất của Bộ Y tế Nga; ngoài ra còn có lớp đất sét xanh 'kimeridge' dùng trong trị liệu. Cả vùng bờ dốc Volga quanh Undory còn là 'kho báu' cổ sinh vật học: các lớp đá lộ ra chứa hoá thạch bò sát biển kỷ Jura và Phấn trắng, gắn với Bảo tàng Cổ sinh vật học Undory gần đó. Đến Undory, du khách vừa có thể nghỉ dưỡng, uống nước khoáng và tắm bùn trị liệu, vừa dạo bờ sông tìm hoá thạch, hít thở không khí trong lành và ngắm khung cảnh Volga khoáng đạt - một sự kết hợp hiếm có giữa sức khoẻ, thiên nhiên và khoa học.",
+    "highlights_vi": [
+      "Nước khoáng 'Volzhanka' giàu hợp chất hữu cơ hiếm có, thuộc nhóm khu nghỉ đặc biệt của Nga",
+      "Đất sét xanh 'kimeridge' dùng trị liệu tại các viện điều dưỡng ven Volga",
+      "Bờ dốc Volga giàu hoá thạch cổ sinh kỷ Jura - Phấn trắng bao quanh khu nghỉ"
+    ],
+    "practical": {
+      "hours_vi": "Khu nghỉ hoạt động quanh năm; lưu trú và trị liệu theo gói của viện điều dưỡng.",
+      "ticket_vi": "Dịch vụ nghỉ dưỡng, uống nước khoáng, trị liệu tính phí theo gói; dạo bờ sông tự do.",
+      "duration_vi": "Từ nửa ngày tham quan đến nhiều ngày nếu nghỉ dưỡng.",
+      "best_time_vi": "Quanh năm; mùa ấm thuận tiện dạo bờ sông và tìm hoá thạch.",
+      "tips_vi": "Kết hợp thăm Bảo tàng Cổ sinh vật học Undory gần đó; đặt phòng viện điều dưỡng trước nếu muốn lưu trú."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D1%83%D1%80%D0%BE%D1%80%D1%82%20%D0%A3%D0%BD%D0%B4%D0%BE%D1%80%D1%8B%20%28%D1%81%D0%B0%D0%BD%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D0%B9%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%20%D0%92.%D0%98.%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0%2C%20%D0%BC%D0%B8%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%20%C2%AB%D0%92%D0%BE%D0%BB%D0%B6%D0%B0%D0%BD%D0%BA%D0%B0%C2%BB%29&ll=48.40359,54.59115&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Undory%20Health%20Resort%20and%20Mineral%20Springs%2C%20Ulyanovsk%2C%20Russia"
+    },
+    "official_site": "https://ulkurort.ru/",
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Ундоры",
+        "url": "https://ru.wikipedia.org/wiki/Ундоры"
+      },
+      {
+        "title": "Ульяновсккурорт — Санаторий им. В.И. Ленина (Ундоры)",
+        "url": "https://ulkurort.ru/sanatorii/im-v-i-lenina/about"
+      }
+    ],
+    "tags": [
+      "resort",
+      "spa",
+      "mineral-water",
+      "health",
+      "volga",
+      "nature",
+      "undory"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "ulyanovsk-spassky-convent-ulyanovsk",
+    "slug": "spassky-convent-ulyanovsk",
+    "region": "ulyanovsk",
+    "region_name_vi": "Tỉnh Ulyanovsk",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Tu viện nữ Chúa Cứu Thế (Spassky) Ulyanovsk",
+    "name_ru": "Спасский женский монастырь",
+    "name_en": "Spassky (Saviour) Convent",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 54.316804,
+      "lon": 48.399509
+    },
+    "address_vi": "Ngõ Pozharny, số 3, khu trung tâm lịch sử thành phố Ulyanovsk, tỉnh Ulyanovsk, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Tu viện nữ Chính Thống giáo cổ kính của Simbirsk, có nguồn gốc từ thế kỷ 17, từng là một trong những tu viện lâu đời nhất thành phố. Bị phá huỷ thời Xô Viết, tu viện đang được khôi phục với nhà thờ Chúa Cứu Thế (Spas Nerukotvorny) mới xây ở khu trung tâm.",
+    "presentation_long_vi": "Tu viện nữ Chúa Cứu Thế (Spassky) là một trong những cơ sở tôn giáo cổ kính nhất của Simbirsk - Ulyanovsk, có nguồn gốc từ thế kỷ 17, gần như cùng thời với việc lập nên pháo đài Simbirsk. Trong nhiều thế kỷ, tu viện là chốn tu hành của các nữ tu, nơi cầu nguyện và làm việc thiện của thành phố, với những nhà thờ và dãy nhà tu nằm ở khu trung tâm. Sau cách mạng, dưới thời Xô Viết, tu viện bị đóng cửa và phần lớn công trình bị phá huỷ, khu đất được sử dụng cho các mục đích khác. Từ những năm gần đây, đời sống tu trì nơi đây dần được hồi sinh: một nhà thờ mới kính icon Chúa Cứu Thế 'không do tay người vẽ' (Spas Nerukotvorny) cùng các công trình của tu viện được xây dựng lại, khôi phục sự hiện diện của một cộng đoàn nữ tu giữa lòng thành phố. Nằm ngay khu trung tâm lịch sử, không xa các bảo tàng và quảng trường chính, tu viện là một điểm dừng chân tĩnh lặng để du khách tìm hiểu chiều sâu tôn giáo của Simbirsk xưa và chứng kiến quá trình phục dựng di sản tinh thần của thành phố.",
+    "highlights_vi": [
+      "Tu viện nữ có nguồn gốc từ thế kỷ 17 - một trong những nơi tu hành lâu đời nhất Simbirsk",
+      "Bị phá huỷ thời Xô Viết và đang được khôi phục ở khu trung tâm lịch sử",
+      "Nhà thờ mới kính icon Chúa Cứu Thế 'không do tay người vẽ' (Spas Nerukotvorny)"
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa hằng ngày theo giờ lễ, thường khoảng 7:30-19:00.",
+      "ticket_vi": "Vào tự do (miễn phí); quyên góp tuỳ tâm.",
+      "duration_vi": "Khoảng 20-30 phút.",
+      "best_time_vi": "Quanh năm; yên tĩnh nhất ngoài giờ lễ lớn.",
+      "tips_vi": "Ăn mặc kín đáo, nữ nên trùm khăn khi vào; dễ kết hợp với các điểm ở khu trung tâm lịch sử."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%BF%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C&ll=48.399509,54.316804&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Spassky%20%28Saviour%29%20Convent%2C%20Ulyanovsk%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Симбирская митрополия — Спасский женский монастырь",
+        "url": "https://mitropolia-simbirsk.ru/"
+      },
+      {
+        "title": "Wikipedia (RU) — Симбирский Спасский монастырь",
+        "url": "https://ru.wikipedia.org/wiki/Симбирский_Спасский_монастырь"
+      }
+    ],
+    "tags": [
+      "church",
+      "convent",
+      "monastery",
+      "orthodox",
+      "simbirsk",
+      "ulyanovsk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
   }
 ]

@@ -1966,5 +1966,944 @@
     "status": "enriched",
     "last_updated": "2026-07-29",
     "country": "russia"
+  },
+  {
+    "id": "adygea-lake-psenodakh-adygea",
+    "slug": "lake-psenodakh-adygea",
+    "region": "adygea",
+    "region_name_vi": "Cộng hoà Adygea",
+    "federal_district": "Vùng Nam",
+    "name_vi": "Hồ Psenodakh (Pxê-nô-đác) - hồ lưỡi liềm trên Lagonaki",
+    "name_ru": "Озеро Псенодах",
+    "name_en": "Lake Psenodakh",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 44.010232,
+      "lon": 39.900227
+    },
+    "address_vi": "Đáy vòng băng tích giữa hai đỉnh Oshten và Pshekha-Su, cao nguyên Lagonaki, Khu bảo tồn Kavkaz, huyện Maykop, Cộng hoà Adygea, Nga (cao ~1938 m).",
+    "rating": null,
+    "review_summary_vi": "",
+    "presentation_short_vi": "Hồ núi băng tích - karst đẹp và nổi tiếng nhất Khu bảo tồn Kavkaz, nằm trên độ cao gần 1940 m giữa hai đỉnh Oshten và Pshekha-Su. Hình dáng cong như vầng trăng lưỡi liềm khiến hồ được ví là «viên ngọc» của cao nguyên Lagonaki. Tên tiếng Circassia nghĩa là «hồ đẹp».",
+    "presentation_long_vi": "Nằm dưới đáy một vòng băng tích (cirque) khép kín giữa hai đỉnh Oshten và Pshekha-Su, phía bắc đèo Fisht-Oshten, hồ Psenodakh là hồ núi được yêu thích nhất trên cao nguyên Lagonaki. Ở độ cao khoảng 1938 m, mặt hồ uốn cong mềm mại như một vầng trăng khuyết dài chừng 165 m, nơi rộng nhất khoảng 70 m, tên gọi trong tiếng Circassia (Adyghe) mang nghĩa «hồ đẹp». Đây là hồ vừa có nguồn gốc băng hà vừa mang tính karst: đáy hồ có các phễu hút nước ngầm, nên mực nước và diện tích thay đổi theo mùa - có lúc nước dâng đầy, có lúc rút cạn để lộ lòng hồ và những mạch nước. Bao quanh là thảm cỏ núi cao, đá tai mèo và tầm nhìn hùng vĩ ra khối Fisht - biểu tượng của Adygea. Hồ nằm trọn trong Khu bảo tồn sinh quyển Kavkaz nên để tới đây du khách phải mua vé qua chốt kiểm lâm và đi bộ đường dài từ cao nguyên Lagonaki. Với dân trekking, Psenodakh là điểm dừng chân, cắm trại và ngắm cảnh kinh điển trên hành trình chinh phục Oshten - Fisht.",
+    "highlights_vi": [
+      "Hồ băng tích - karst hình lưỡi liềm ở độ cao ~1938 m, đẹp nổi tiếng nhất Lagonaki.",
+      "Nằm giữa hai đỉnh Oshten và Pshekha-Su, trong Khu bảo tồn sinh quyển Kavkaz.",
+      "Mực nước thay đổi theo mùa do đáy hồ có các phễu karst hút nước ngầm."
+    ],
+    "practical": {
+      "hours_vi": "Địa điểm hoang dã trong khu bảo tồn; tiếp cận ban ngày, không có giờ cố định.",
+      "ticket_vi": "Cần mua vé vào Khu bảo tồn Kavkaz tại chốt kiểm lâm (khoảng 300 RUB, có thể thay đổi).",
+      "duration_vi": "Cả ngày (trekking dài từ cao nguyên Lagonaki).",
+      "best_time_vi": "Cuối tháng 6 đến tháng 9, khi tuyết tan và đường mòn khô ráo.",
+      "tips_vi": "Chỉ đi khi thời tiết tốt; mang giày trek, nước, đồ ấm và bản đồ; tuân thủ quy định khu bảo tồn, không cắm trại ngoài điểm cho phép."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9E%D0%B7%D0%B5%D1%80%D0%BE%20%D0%9F%D1%81%D0%B5%D0%BD%D0%BE%D0%B4%D0%B0%D1%85&ll=39.900227,44.010232&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Lake%20Psenodakh%2C%20Adygea%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) - Псенодах",
+        "url": "https://ru.wikipedia.org/wiki/Псенодах"
+      },
+      {
+        "title": "kishar.ru - Озеро Псенодах",
+        "url": "https://kishar.ru/attractions/ozero_psenodah.php"
+      }
+    ],
+    "tags": [
+      "nature",
+      "lake",
+      "karst",
+      "lagonaki",
+      "caucasus-reserve",
+      "trekking",
+      "adygea"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "adygea-mount-pshekha-su",
+    "slug": "mount-pshekha-su",
+    "region": "adygea",
+    "region_name_vi": "Cộng hoà Adygea",
+    "federal_district": "Vùng Nam",
+    "name_vi": "Núi Pshekha-Su (Psê-kha Xu) - đỉnh thứ ba của khối Fisht",
+    "name_ru": "Гора Пшеха-Су (Пшехо-Су)",
+    "name_en": "Mount Pshekha-Su",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 43.9895,
+      "lon": 39.8883
+    },
+    "address_vi": "Rìa nam cao nguyên Lagonaki, khối núi Fisht-Oshten, Khu bảo tồn Kavkaz, huyện Maykop, Cộng hoà Adygea, Nga (cao ~2743 m).",
+    "rating": null,
+    "review_summary_vi": "",
+    "presentation_short_vi": "Đỉnh cao 2743 m, cùng với Fisht và Oshten hợp thành khối núi Fisht-Oshten trứ danh - bức tường đá vôi khép lại phía nam cao nguyên Lagonaki. Là đỉnh thấp nhất trong bộ ba nhưng cảnh quan hùng vĩ; tên Adyghe nghĩa là «nước của công chúa».",
+    "presentation_long_vi": "Pshekha-Su (còn viết Pshekho-Su) là một trong ba đỉnh làm nên khối núi Fisht-Oshten - biểu tượng thiên nhiên của Adygea và điểm khởi đầu của dãy núi cao Tây Kavkaz. Cao 2743 m, đây là đỉnh thấp nhất trong bộ ba (thấp hơn Fisht 2867 m và Oshten 2804 m), án ngữ rìa nam cao nguyên Lagonaki cùng hai người anh em, tạo thành bức tường đá vôi đồ sộ nhìn thấy từ rất xa. Tên gọi trong tiếng Adyghe được diễn giải là «nước của công chúa», gắn với dòng sông Pshekha khởi nguồn quanh đây. Sườn núi có các vạt tuyết tồn lâu, thảm cỏ núi cao và địa hình karst đặc trưng; giữa Pshekha-Su và Oshten là chiếc hồ Psenodakh nổi tiếng. Toàn bộ khu vực nằm trong Khu bảo tồn sinh quyển Kavkaz, phải mua vé qua chốt kiểm lâm. Với người yêu leo núi, Pshekha-Su là mục tiêu hấp dẫn, thường được chinh phục kết hợp trong hành trình vòng quanh khối Fisht - Oshten cùng hồ Psenodakh.",
+    "highlights_vi": [
+      "Đỉnh cao 2743 m, một trong ba đỉnh của khối núi Fisht-Oshten - biểu tượng của Adygea.",
+      "Đỉnh thấp nhất bộ ba nhưng cảnh quan hùng vĩ; tên Adyghe nghĩa «nước của công chúa».",
+      "Nằm trong Khu bảo tồn Kavkaz, gần hồ Psenodakh; điểm leo núi phổ biến từ Lagonaki."
+    ],
+    "practical": {
+      "hours_vi": "Địa hình núi cao hoang dã; tiếp cận ban ngày theo mùa.",
+      "ticket_vi": "Cần mua vé vào Khu bảo tồn Kavkaz tại chốt kiểm lâm.",
+      "duration_vi": "1-2 ngày trekking (thường cắm trại qua đêm ở khu Fisht).",
+      "best_time_vi": "Tháng 7 đến tháng 9.",
+      "tips_vi": "Đòi hỏi thể lực và trang bị leo núi; nên đi cùng nhóm/hướng dẫn viên; theo dõi thời tiết vì vùng đỉnh đổi nhanh."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%93%D0%BE%D1%80%D0%B0%20%D0%9F%D1%88%D0%B5%D1%85%D0%B0-%D0%A1%D1%83%20%28%D0%9F%D1%88%D0%B5%D1%85%D0%BE-%D0%A1%D1%83%29&ll=39.8883,43.9895&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Mount%20Pshekha-Su%2C%20Adygea%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "fisht.ru - Гора Пшеха-Су (2743 м)",
+        "url": "https://fisht.ru/mountains/pshehasu/"
+      },
+      {
+        "title": "titam.ru - Гора Пшеха-Су на плато Лаго-Наки",
+        "url": "https://titam.ru/mesta/kategorii/gory/gora-psheha-su/"
+      }
+    ],
+    "tags": [
+      "nature",
+      "mountain",
+      "summit",
+      "fisht-oshten",
+      "lagonaki",
+      "trekking",
+      "adygea"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "adygea-mount-monakh-khamyshki",
+    "slug": "mount-monakh-khamyshki",
+    "region": "adygea",
+    "region_name_vi": "Cộng hoà Adygea",
+    "federal_district": "Vùng Nam",
+    "name_vi": "Núi Monakh (Mô-nác) - «Núi Thầy Tu» ở Khamyshki",
+    "name_ru": "Гора Монах",
+    "name_en": "Mount Monakh (Monk Mountain)",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 44.121734,
+      "lon": 40.113879
+    },
+    "address_vi": "Rìa bắc làng Khamyshki (Хамышки), huyện Maykop, Cộng hoà Adygea, Nga (đỉnh cao ~1050 m).",
+    "rating": null,
+    "review_summary_vi": "",
+    "presentation_short_vi": "Ngọn núi đá đỉnh bằng cao khoảng 1050 m ngay cạnh làng Khamyshki, với những vách đá lỗ chỗ hang, hốc và các «đá phô mai» vàng lạ mắt. Tên gọi «Thầy Tu» gắn với truyền thuyết về một nhà tu khổ hạnh từng ẩn cư trong hốc đá trên đỉnh.",
+    "presentation_long_vi": "Sừng sững ở rìa bắc làng Khamyshki bên thung lũng sông Belaya, núi Monakh («Thầy Tu») là một trong những điểm dạo chơi được yêu thích ở vùng Kamennomostsky - Guzeripl của Adygea. Khối núi đá vôi đỉnh bằng cao chừng 1050 m nổi bật bởi những vách đá phong hoá kỳ dị: nhiều hang, hốc, mái đá và các thành tạo được gọi là «đá phô mai» - sa thạch màu vàng lỗ chỗ những lỗ tròn. Theo truyền thuyết địa phương, tên núi bắt nguồn từ một nhà tu khổ hạnh nhiều năm sống ẩn dật trong một hốc đá nhỏ như phòng tu trên đỉnh; các hốc đá hướng nam ấm áp, kín gió, lại có mạch nước ngọt không cạn nên phù hợp cho lối sống ẩn tu. Đường lên đỉnh không quá khó, mất khoảng một giờ, thưởng cho du khách tầm nhìn đẹp ra thung lũng Belaya, làng Khamyshki và các dãy núi bao quanh. Đây là lựa chọn lý tưởng cho chuyến đi bộ nửa ngày, phù hợp cả với gia đình.",
+    "highlights_vi": [
+      "Núi đá đỉnh bằng ~1050 m ngay cạnh làng Khamyshki, nhiều hang hốc và «đá phô mai».",
+      "Tên «Thầy Tu» gắn với truyền thuyết nhà tu khổ hạnh ẩn cư trong hốc đá trên đỉnh.",
+      "Đường lên ngắn (~1 giờ), tầm nhìn đẹp ra thung lũng sông Belaya."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tham quan tự do ban ngày.",
+      "ticket_vi": "Miễn phí (tự leo).",
+      "duration_vi": "Khoảng 2-3 giờ cả lên và xuống.",
+      "best_time_vi": "Cuối xuân đến đầu thu.",
+      "tips_vi": "Đi giày bám tốt, cẩn thận ở mép vách; kết hợp thăm làng Khamyshki, núi Trezubets và hẻm núi Granite gần đó."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%93%D0%BE%D1%80%D0%B0%20%D0%9C%D0%BE%D0%BD%D0%B0%D1%85&ll=40.113879,44.121734&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Mount%20Monakh%20%28Monk%20Mountain%29%2C%20Adygea%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "kukarta.ru - Гора Монах, Хамышки",
+        "url": "https://kukarta.ru/gora-monah/"
+      },
+      {
+        "title": "2GIS - Гора Монах, Майкопский район",
+        "url": "https://2gis.ru/maikop/geo/70030076329641944"
+      }
+    ],
+    "tags": [
+      "nature",
+      "mountain",
+      "rock",
+      "legend",
+      "khamyshki",
+      "viewpoint",
+      "adygea"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "adygea-mount-trezubets-adygea",
+    "slug": "mount-trezubets-adygea",
+    "region": "adygea",
+    "region_name_vi": "Cộng hoà Adygea",
+    "federal_district": "Vùng Nam",
+    "name_vi": "Núi Trezubets (Tơ-rê-du-bét) - «Núi Đinh Ba»",
+    "name_ru": "Гора Трезубец",
+    "name_en": "Mount Trezubets (Trident Mountain)",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 44.15293,
+      "lon": 40.13872
+    },
+    "address_vi": "Gần làng Khamyshki, phía trên hẻm núi Granite của sông Belaya, huyện Maykop, Cộng hoà Adygea, Nga (đỉnh cao ~1050 m).",
+    "rating": null,
+    "review_summary_vi": "",
+    "presentation_short_vi": "Ngọn núi đá có ba mỏm nhọn nhô lên tựa cây đinh ba của thần biển, cao khoảng 1050 m, vươn cao phía trên hẻm núi Granite của sông Belaya. Silhouette độc đáo khiến Trezubets thành điểm chụp ảnh và leo ngắm cảnh nổi tiếng gần làng Khamyshki.",
+    "presentation_long_vi": "Với ba mỏm đá nhọn nhô lên trời như chiếc đinh ba (trezubets) của vị thần biển trong cổ tích, núi Trezubets sở hữu một trong những đường viền dễ nhận biết nhất vùng Khamyshki - Guzeripl của Adygea. Đỉnh cao khoảng 1050 m, là điểm cao của một nhánh thuộc dãy Du-Du-Gush, vươn lên ngay phía trên hẻm núi Granite - đoạn sông Belaya cắt sâu vào đá granite hồng. Đường mòn dẫn lên các mỏm đá không quá dài nhưng có đoạn dốc và lộ vách, thưởng cho người leo tầm nhìn ngoạn mục xuống hẻm Granite, thung lũng Belaya, làng Khamyshki và những rặng núi trùng điệp phía Kavkaz. Vào những ngày trời trong, đây là nơi đón bình minh và hoàng hôn tuyệt đẹp. Trezubets thường được kết hợp trong cùng hành trình với núi Monakh và hẻm núi Granite, tạo thành cụm điểm đến hấp dẫn cho khách ưa đi bộ và nhiếp ảnh.",
+    "highlights_vi": [
+      "Núi đá ba mỏm nhọn tựa «đinh ba», cao ~1050 m, đường viền độc đáo dễ nhận biết.",
+      "Vươn cao phía trên hẻm núi Granite của sông Belaya, gần làng Khamyshki.",
+      "Điểm leo ngắm cảnh và chụp ảnh, đón bình minh/hoàng hôn tuyệt đẹp."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tham quan tự do ban ngày.",
+      "ticket_vi": "Miễn phí (tự leo).",
+      "duration_vi": "Khoảng 3-4 giờ cả lên và xuống.",
+      "best_time_vi": "Cuối xuân đến đầu thu; tránh khi trời mưa trơn.",
+      "tips_vi": "Có đoạn dốc và lộ vách, cần giày trek và cẩn trọng; kết hợp thăm núi Monakh, hẻm núi Granite và làng Khamyshki."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%93%D0%BE%D1%80%D0%B0%20%D0%A2%D1%80%D0%B5%D0%B7%D1%83%D0%B1%D0%B5%D1%86&ll=40.13872,44.15293&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Mount%20Trezubets%20%28Trident%20Mountain%29%2C%20Adygea%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "yugarf.ru - Гора Трезубец в Адыгее",
+        "url": "https://yugarf.ru/gora-trezubec-v-adygee/"
+      },
+      {
+        "title": "titam.ru - Гора Трезубец, Хамышки (Адыгея)",
+        "url": "https://titam.ru/mesta/gora-trezubec-hamyshki-adygeja/"
+      }
+    ],
+    "tags": [
+      "nature",
+      "mountain",
+      "rock",
+      "granite-canyon",
+      "khamyshki",
+      "viewpoint",
+      "adygea"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "adygea-azish-tau-ridge",
+    "slug": "azish-tau-ridge",
+    "region": "adygea",
+    "region_name_vi": "Cộng hoà Adygea",
+    "federal_district": "Vùng Nam",
+    "name_vi": "Sống núi Azish-Tau (A-dít Tau) - vọng cảnh plateau Utyug",
+    "name_ru": "Хребет Азиш-Тау",
+    "name_en": "Azish-Tau Ridge",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 44.2482,
+      "lon": 40.1832
+    },
+    "address_vi": "Phần đông bắc cao nguyên Lagonaki, dọc trục Kamennomostsky - đèo Azishsky, huyện Maykop, Cộng hoà Adygea, Nga (cao tới ~1601 m).",
+    "rating": null,
+    "review_summary_vi": "",
+    "presentation_short_vi": "Sống núi dài khoảng 25 km nâng lên ở phần đông bắc cao nguyên Lagonaki, với hàng loạt đài quan sát và vách «Utyug» nhìn xuống thung lũng sông Kurdzhips. Trên sống núi còn có hang Azishskaya nổi tiếng; đây là dải phong cảnh mở đầu hành trình lên Lagonaki.",
+    "presentation_long_vi": "Azish-Tau là dải sống núi dài chừng 25 km tạo nên rìa đông bắc của cao nguyên Lagonaki, cao dần về phía nam tới khoảng 1601 m ở đỉnh Azish. Đây là cung đường phong cảnh mà hầu hết du khách đi qua khi lên Lagonaki: hai bên là rừng linh sam, thảo nguyên núi, và hàng loạt điểm dừng ngắm cảnh. Nổi tiếng nhất là vách đá «Utyug» (Bàn Là) cùng các đài quan sát bên đường, nơi mở ra tầm nhìn khoáng đạt xuống thung lũng sâu của sông Kurdzhips và trùng điệp núi non Adygea - đặc biệt huyền ảo khi biển mây phủ dưới chân. Trong lòng sống núi còn ẩn giấu hang động Bolshaya Azishskaya trứ danh, một trong những hang đẹp nhất Tây Kavkaz. Dọc tuyến có nhiều trại nghỉ, quán ăn, chợ đặc sản mật ong và phô mai địa phương. Với sự kết hợp giữa cảnh quan dễ tiếp cận, các đài quan sát và điểm tham quan phong phú, Azish-Tau là «cửa ngõ» lý tưởng để bắt đầu khám phá cao nguyên Lagonaki.",
+    "highlights_vi": [
+      "Sống núi dài ~25 km, cao tới ~1601 m, rìa đông bắc cao nguyên Lagonaki.",
+      "Vách «Utyug» và các đài quan sát nhìn xuống thung lũng sông Kurdzhips, biển mây.",
+      "Trong lòng sống núi có hang Bolshaya Azishskaya; dọc tuyến nhiều trại nghỉ, chợ đặc sản."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời dọc tuyến đường Lagonaki, tham quan tự do; các đài quan sát ban ngày.",
+      "ticket_vi": "Đi lại miễn phí; một số điểm/hang có phí riêng.",
+      "duration_vi": "Từ 1-2 giờ (dừng ngắm cảnh) đến cả ngày (kết hợp nhiều điểm).",
+      "best_time_vi": "Cuối xuân đến đầu thu; mùa đông có tuyết và trò chơi tuyết.",
+      "tips_vi": "Dừng ở các đài quan sát dọc đường; kết hợp thăm hang Azishskaya và đèo Azishsky; mang áo ấm vì trên cao lộng gió."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A5%D1%80%D0%B5%D0%B1%D0%B5%D1%82%20%D0%90%D0%B7%D0%B8%D1%88-%D0%A2%D0%B0%D1%83&ll=40.1832,44.2482&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Azish-Tau%20Ridge%2C%20Adygea%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "vetert.ru - Хребет Азиш-Тау (Лагонаки)",
+        "url": "http://vetert.ru/rossiya/adygeya/sights/272-hrebet-azish-tau.php"
+      },
+      {
+        "title": "worldroads.ru - Плато Лагонаки, хребет Азиш-Тау",
+        "url": "https://worldroads.ru/plato-lagonaki-hrebet-azish-tau"
+      }
+    ],
+    "tags": [
+      "nature",
+      "ridge",
+      "viewpoint",
+      "lagonaki",
+      "kurdzhips",
+      "adygea"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "adygea-universitetsky-waterfall-mezmay",
+    "slug": "universitetsky-waterfall-mezmay",
+    "region": "adygea",
+    "region_name_vi": "Cộng hoà Adygea",
+    "federal_district": "Vùng Nam",
+    "name_vi": "Thác Universitetsky (U-ni-véc-xi-tét) ở vùng Mezmay",
+    "name_ru": "Университетский водопад",
+    "name_en": "Universitetsky Waterfall",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 44.198996,
+      "lon": 40.037814
+    },
+    "address_vi": "Suối Gorelaya balka gần làng Mezmay (cụm du lịch Lagonaki), giáp ranh Adygea - huyện Apsheronsky, vùng Krasnodar, Nga.",
+    "rating": null,
+    "review_summary_vi": "",
+    "presentation_short_vi": "Thác nước nhiều bậc trong khe núi rậm rạp gần làng Mezmay, tổng chiều cao các bậc lên tới hàng chục mét. Được sinh viên Đại học Tổng hợp Kuban đặt tên trong các kỳ thực tập, nay là điểm trekking hấp dẫn của cụm du lịch Mezmay - Lagonaki.",
+    "presentation_long_vi": "Ẩn trong một khe núi rừng rậm gần làng Mezmay - ngôi làng nghệ sĩ nép mình ở rìa cao nguyên Lagonaki - thác Universitetsky là một trong những thác đẹp nhất khu vực. Dòng suối Gorelaya balka đổ xuống thành chuỗi bậc thác nối tiếp: riêng bậc chính cao khoảng 20 m, còn tổng chiều cao cả hệ thống thác theo nhiều nguồn lên tới 60-70 m. Tên gọi «Universitetsky» (Đại học) ra đời từ những đoàn sinh viên Đại học Tổng hợp Kuban thường tới đây thực tập địa chất - địa lý và đặt tên cho thác. Đường tới thác đi qua rừng sồi, dẻ gai và những vách đá phủ rêu, men theo suối với nhiều hồ nước nhỏ trong vắt - bản thân lối đi đã là một trải nghiệm thiên nhiên thú vị. Do làng Mezmay và hẻm núi Guam lân cận từ lâu được xem là một phần của cụm du lịch Lagonaki - Adygea, thác Universitetsky thường được khách khám phá kết hợp cùng Orlinaya Polka và hẻm Guam. Đây là điểm đến lý tưởng cho người thích đi bộ đường rừng và tắm mát mùa hè.",
+    "highlights_vi": [
+      "Thác nhiều bậc trong khe rừng gần Mezmay; bậc chính ~20 m, tổng cao tới 60-70 m.",
+      "Tên do sinh viên Đại học Tổng hợp Kuban đặt trong các kỳ thực tập.",
+      "Đường trek qua rừng và suối đẹp; thuộc cụm du lịch Mezmay - Lagonaki."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời trong rừng, không có giờ cố định; nên đi ban ngày.",
+      "ticket_vi": "Miễn phí (tự đi); có thể thuê hướng dẫn tại Mezmay.",
+      "duration_vi": "Khoảng 2-4 giờ cả đi và về (tuỳ tuyến).",
+      "best_time_vi": "Cuối xuân đến đầu thu; mùa hè mát mẻ, dòng nước dồi dào sau mưa.",
+      "tips_vi": "Đường trơn, lội suối - mang giày phù hợp; đi cùng người biết đường; kết hợp thăm Orlinaya Polka và làng Mezmay."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4&ll=40.037814,44.198996&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Universitetsky%20Waterfall%2C%20Adygea%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "tourister.ru - Университетский водопад, Мезмай",
+        "url": "https://www.tourister.ru/world/europe/russia/city/mezmai/waterfall/40357"
+      },
+      {
+        "title": "kukarta.ru - Университетский водопад",
+        "url": "https://kukarta.ru/universitetskiy-vodopad/"
+      }
+    ],
+    "tags": [
+      "nature",
+      "waterfall",
+      "mezmay",
+      "lagonaki",
+      "trekking",
+      "adygea"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "adygea-orlinaya-polka-mezmay",
+    "slug": "orlinaya-polka-mezmay",
+    "region": "adygea",
+    "region_name_vi": "Cộng hoà Adygea",
+    "federal_district": "Vùng Nam",
+    "name_vi": "Orlinaya Polka (Ac-li-na-ia Pôn-ca) - «Kệ Đại bàng»",
+    "name_ru": "Орлиная полка",
+    "name_en": "Orlinaya Polka (Eagle's Shelf)",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 44.209818,
+      "lon": 39.935451
+    },
+    "address_vi": "Vách đá phía trên hẻm núi Guam, gần làng Mezmay (cụm du lịch Lagonaki), giáp ranh Adygea - huyện Apsheronsky, vùng Krasnodar, Nga (cao ~1000 m).",
+    "rating": null,
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bệ đá tự nhiên nhô ra bên mép vực, có mái đá che phía trên, ở độ cao khoảng 1000 m nhìn xuống hẻm núi Guam. Là đài quan sát và điểm chụp ảnh nổi tiếng bậc nhất vùng Mezmay, thu hút khách ưa cảm giác mạnh và nhiếp ảnh.",
+    "presentation_long_vi": "Orlinaya Polka - «Kệ Đại bàng» - là điểm ngắm cảnh trứ danh nhất quanh làng Mezmay và có lẽ là một trong những vọng cảnh gây choáng ngợp nhất cả vùng Lagonaki. Đó là một bệ đá tự nhiên nhô ra khỏi vách núi ở độ cao khoảng 1000 m, phía trên có mái đá nhô che như mái hiên, còn bên dưới là vực sâu hun hút của hẻm núi Guam. Bệ đá rộng chừng vài mét, có chỗ thu hẹp lại, đứng trên đó du khách như treo mình giữa không trung, phóng tầm mắt ra thung lũng, những vách đá dựng đứng và rừng núi trùng điệp. Chính khung cảnh ngoạn mục ấy khiến «Kệ» trở thành phông nền chụp ảnh được săn đón, đặc biệt lúc bình minh khi biển mây len lỏi dưới chân. Đường lên bắt đầu gần Mezmay, dài khoảng 2-3 km men theo sườn dốc và rừng, đòi hỏi chút thể lực. Vì Mezmay và hẻm Guam lân cận từ lâu gắn với cụm du lịch Lagonaki - Adygea, đây là điểm không thể bỏ qua khi khám phá khu vực. Do nằm sát mép vực nên du khách cần hết sức thận trọng.",
+    "highlights_vi": [
+      "Bệ đá tự nhiên nhô ra mép vực ở độ cao ~1000 m, có mái đá che phía trên.",
+      "Vọng cảnh và điểm chụp ảnh nổi tiếng nhất vùng Mezmay, nhìn xuống hẻm núi Guam.",
+      "Đẹp nhất lúc bình minh khi biển mây phủ dưới chân; thuộc cụm du lịch Lagonaki."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tự do; nên lên ban ngày hoặc sớm để đón bình minh.",
+      "ticket_vi": "Miễn phí (tự đi); có dịch vụ dẫn đường/thuê xe địa hình từ Mezmay - Guamka.",
+      "duration_vi": "Khoảng 3-5 giờ cả đi và về.",
+      "best_time_vi": "Cuối xuân đến đầu thu; sáng sớm dễ gặp biển mây.",
+      "tips_vi": "Đứng sát mép vực rất nguy hiểm - hết sức cẩn trọng, không đùa giỡn; mang giày trek, nước; tránh khi mưa trơn hoặc gió mạnh."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9E%D1%80%D0%BB%D0%B8%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%BE%D0%BB%D0%BA%D0%B0&ll=39.935451,44.209818&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Orlinaya%20Polka%20%28Eagle%27s%20Shelf%29%2C%20Adygea%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "kp.ru - Орлиная полка в Мезмае",
+        "url": "https://www.kp.ru/russia/krasnodarskij-kraj/mesta/orlinaya-polka/"
+      },
+      {
+        "title": "yugarf.ru - Орлиная полка в пос. Мезмай",
+        "url": "https://yugarf.ru/orlinaya-polka-v-mezmae/"
+      }
+    ],
+    "tags": [
+      "nature",
+      "viewpoint",
+      "cliff",
+      "mezmay",
+      "guam-gorge",
+      "lagonaki",
+      "adygea"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "adygea-azishsky-pass-lagonaki",
+    "slug": "azishsky-pass-lagonaki",
+    "region": "adygea",
+    "region_name_vi": "Cộng hoà Adygea",
+    "federal_district": "Vùng Nam",
+    "name_vi": "Đèo Azishsky (A-dít-xki) - panorama cửa ngõ Lagonaki",
+    "name_ru": "Азишский перевал",
+    "name_en": "Azishsky Pass",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 44.0825,
+      "lon": 40.0062
+    },
+    "address_vi": "Trên đường lên cao nguyên Lagonaki, gần chốt Lago-Naki, huyện Maykop, Cộng hoà Adygea, Nga (cao ~1725 m).",
+    "rating": null,
+    "review_summary_vi": "",
+    "presentation_short_vi": "Đèo phong cảnh trên đường vào cao nguyên Lagonaki, nổi tiếng với các đài quan sát panorama tuyệt đẹp nhìn ra khối Fisht - Oshten và cao nguyên Lagonaki. Nơi đây cũng là «đèo Vinh quang chiến sĩ» với đài tưởng niệm những người bảo vệ Kavkaz thời Thế chiến II.",
+    "presentation_long_vi": "Azishsky là con đèo nằm trên tuyến đường bộ chính dẫn lên cao nguyên Lagonaki, được nhiều người xem là một trong những điểm ngắm toàn cảnh đẹp nhất của Lagonaki. Ở độ cao khoảng 1725 m, các đài quan sát bên đèo mở ra tầm nhìn bao la: phía xa là bức tường đá của khối Fisht - Oshten, bên dưới là những thung lũng, rừng núi và thảo nguyên trải rộng của Adygea; vào buổi sáng, biển mây thường dâng lấp đầy các thung lũng tạo nên khung cảnh siêu thực. Đèo Azishsky còn mang ý nghĩa lịch sử: nơi đây được gọi là «đèo Vinh quang chiến sĩ», có đài tưởng niệm và tấm bia dành cho những người lính đã chiến đấu bảo vệ các đèo Kavkaz trong Thế chiến II. Xung quanh đèo tập trung nhiều trại nghỉ, khách sạn, quán ăn và chợ bán mật ong, phô mai, dược liệu núi - biến nơi đây thành trạm dừng chân sầm uất trước khi du khách tiến sâu vào cao nguyên. Dễ tiếp cận bằng ô tô, giàu cảnh đẹp và tiện nghi, Azishsky là điểm mở màn kinh điển cho hành trình Lagonaki.",
+    "highlights_vi": [
+      "Đèo panorama ~1725 m trên đường lên Lagonaki, nhìn ra khối Fisht - Oshten và biển mây.",
+      "«Đèo Vinh quang chiến sĩ» với đài tưởng niệm người bảo vệ các đèo Kavkaz (Thế chiến II).",
+      "Nhiều trại nghỉ, quán ăn, chợ đặc sản; dễ đến bằng ô tô, trạm dừng chân sầm uất."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời dọc đường đèo, tham quan tự do mọi lúc.",
+      "ticket_vi": "Miễn phí (dừng ngắm cảnh).",
+      "duration_vi": "Khoảng 30-60 phút (dừng ngắm cảnh, chụp ảnh, mua đặc sản).",
+      "best_time_vi": "Quanh năm; sáng sớm dễ gặp biển mây, mùa đông có tuyết.",
+      "tips_vi": "Mang áo ấm vì trên đèo lộng gió; dừng ở các đài quan sát; kết hợp thăm hang Azishskaya và cao nguyên Lagonaki."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%90%D0%B7%D0%B8%D1%88%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB&ll=40.0062,44.0825&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Azishsky%20Pass%2C%20Adygea%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "esosedi - Азишский перевал",
+        "url": "http://ru.esosedi.org/RU/AD/239048/azishskiy_pereval/"
+      },
+      {
+        "title": "nunataka.ru - Азишский перевал",
+        "url": "https://nunataka.ru/azishskij-pereval-luchshaya-panorama-lagonakskogo-nagorya/"
+      }
+    ],
+    "tags": [
+      "nature",
+      "mountain-pass",
+      "viewpoint",
+      "lagonaki",
+      "memorial",
+      "adygea"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "adygea-mount-abadzesh-lagonaki",
+    "slug": "mount-abadzesh-lagonaki",
+    "region": "adygea",
+    "region_name_vi": "Cộng hoà Adygea",
+    "federal_district": "Vùng Nam",
+    "name_vi": "Núi Abadzesh (A-bát-dét) - đỉnh cao nguyên Lagonaki",
+    "name_ru": "Гора Абадзеш",
+    "name_en": "Mount Abadzesh",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 44.030278,
+      "lon": 39.968333
+    },
+    "address_vi": "Cao nguyên Lagonaki, sống núi Murzikao, Khu bảo tồn Kavkaz, huyện Maykop, Cộng hoà Adygea, Nga (cao ~2369 m).",
+    "rating": null,
+    "review_summary_vi": "",
+    "presentation_short_vi": "Đỉnh cao 2369 m, điểm cao của sống núi Murzikao trên cao nguyên Lagonaki. Là một trong những đỉnh dễ chinh phục và phổ biến nhất với người mới trek, mở ra tầm nhìn 360 độ ra khối Fisht - Oshten và toàn cao nguyên.",
+    "presentation_long_vi": "Abadzesh là ngọn núi cao 2369 m, điểm cao nhất của sống núi Murzikao thuộc cao nguyên Lagonaki. Nhờ độ dốc thoải và đường mòn rõ ràng xuất phát từ chốt Lago-Naki, đây được coi là một trong những đỉnh «đầu tay» dễ chinh phục nhất Adygea, phù hợp cả với người mới đi trek. Cung đường men theo cao nguyên, dọc theo sống núi Kamennoye More (Biển Đá) và qua đèo Abadzeshsky, đi giữa thảm cỏ núi cao, những cánh đồng hoa mùa hè và địa hình karst đặc trưng với hố sụt, phễu đá. Từ đỉnh, du khách được thưởng tầm nhìn gần như 360 độ: nổi bật là bức tường hùng vĩ của khối Fisht - Oshten, cùng toàn cảnh cao nguyên Lagonaki trải rộng. Toàn tuyến nằm trong Khu bảo tồn sinh quyển Kavkaz nên cần mua vé qua chốt kiểm lâm và tuân thủ quy định bảo tồn. Chuyến khứ hồi thường mất khoảng 6-9 giờ, là lựa chọn tuyệt vời cho ai muốn nếm trải cảm giác chinh phục đỉnh núi cao mà không đòi hỏi kỹ thuật leo phức tạp.",
+    "highlights_vi": [
+      "Đỉnh 2369 m, điểm cao của sống núi Murzikao trên cao nguyên Lagonaki.",
+      "Dễ chinh phục, phổ biến với người mới trek; khứ hồi ~6-9 giờ từ chốt Lago-Naki.",
+      "Tầm nhìn ~360 độ ra khối Fisht - Oshten và toàn cảnh cao nguyên Lagonaki."
+    ],
+    "practical": {
+      "hours_vi": "Địa hình núi cao trong khu bảo tồn; đi ban ngày theo mùa.",
+      "ticket_vi": "Cần mua vé vào Khu bảo tồn Kavkaz tại chốt Lago-Naki.",
+      "duration_vi": "Cả ngày (khứ hồi ~6-9 giờ).",
+      "best_time_vi": "Cuối tháng 6 đến tháng 9.",
+      "tips_vi": "Mang giày trek, nước, đồ ấm và chống nắng; xuất phát sớm; theo dõi thời tiết vì trên cao đổi nhanh."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%93%D0%BE%D1%80%D0%B0%20%D0%90%D0%B1%D0%B0%D0%B4%D0%B7%D0%B5%D1%88&ll=39.968333,44.030278&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Mount%20Abadzesh%2C%20Adygea%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "budetinteresno.info - Гора Абадзеш",
+        "url": "http://budetinteresno.info/geo/toponim_id.php?id=1698"
+      },
+      {
+        "title": "Кавказский заповедник - маршрут «Абадзеш»",
+        "url": "https://www.kavkazzapoved.ru/routes/no23-zimniy-abadzesh"
+      }
+    ],
+    "tags": [
+      "nature",
+      "mountain",
+      "summit",
+      "lagonaki",
+      "caucasus-reserve",
+      "trekking",
+      "adygea"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "adygea-holy-trinity-cathedral-maykop",
+    "slug": "holy-trinity-cathedral-maykop",
+    "region": "adygea",
+    "region_name_vi": "Cộng hoà Adygea",
+    "federal_district": "Vùng Nam",
+    "name_vi": "Nhà thờ chính toà Chúa Ba Ngôi (Svyato-Troitsky) ở Maykop",
+    "name_ru": "Свято-Троицкий кафедральный собор",
+    "name_en": "Holy Trinity Cathedral (Maykop)",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 44.60034,
+      "lon": 40.078432
+    },
+    "address_vi": "Ул. МОПРа, 94а, thành phố Maykop, Cộng hoà Adygea, Nga.",
+    "rating": null,
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhà thờ chính toà của Giáo phận Maykop và Adygea - trung tâm Chính thống giáo lớn nhất thủ phủ Maykop. Từ năm 1994, khi giáo phận được thành lập, ngôi đền trở thành nhà thờ chính toà mang tên Chúa Ba Ngôi (Svyato-Troitsky).",
+    "presentation_long_vi": "Nằm trên phố MOPRa ở trung tâm Maykop, Nhà thờ chính toà Chúa Ba Ngôi (Svyato-Troitsky sobor) là ngôi đền Chính thống giáo quan trọng nhất của thủ phủ Adygea. Sau khi Giáo phận Maykop và Armavir (nay là Maykop và Adygea) được lập ra năm 1994, ngôi thánh đường này được nâng lên hàng nhà thờ chính toà (kafedralny sobor) - nơi đặt toà của giám mục và diễn ra các đại lễ trọng của cả vùng. Công trình mang phong cách kiến trúc nhà thờ Nga truyền thống với những mái vòm hành và tháp chuông, nội thất trang hoàng các icon và bích hoạ. Là trái tim đời sống tâm linh của cộng đồng Chính thống giáo địa phương, nhà thờ nhộn nhịp tín đồ vào các dịp lễ lớn như Giáng sinh, Phục sinh, lễ Chúa Ba Ngôi. Bên cạnh vai trò tôn giáo, đây còn là một điểm nhấn kiến trúc của Maykop và bổ sung cho bức tranh đa dạng tín ngưỡng của thành phố - nơi Thánh đường Hồi giáo Trung tâm và nhà thờ Chính thống cùng tồn tại hoà hợp. Với du khách, ghé thăm nhà thờ là dịp cảm nhận không khí thành kính và tìm hiểu văn hoá Chính thống giáo vùng Bắc Kavkaz.",
+    "highlights_vi": [
+      "Nhà thờ chính toà của Giáo phận Maykop và Adygea, trung tâm Chính thống giáo lớn nhất thành phố.",
+      "Trở thành nhà thờ chính toà từ năm 1994 khi giáo phận được thành lập.",
+      "Kiến trúc nhà thờ Nga truyền thống; cùng Thánh đường Hồi giáo tạo bức tranh đa tín ngưỡng của Maykop."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa hằng ngày, thường khoảng 8:00-18:00 quanh các giờ lễ.",
+      "ticket_vi": "Vào cửa miễn phí; hoan nghênh quyên góp tuỳ tâm.",
+      "duration_vi": "Khoảng 20-40 phút.",
+      "best_time_vi": "Quanh năm; đông tín đồ vào các dịp đại lễ Chính thống.",
+      "tips_vi": "Ăn mặc kín đáo, nữ nên trùm khăn; giữ yên lặng, hỏi phép trước khi chụp ảnh bên trong."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%81%D0%BE%D0%B1%D0%BE%D1%80&ll=40.078432,44.60034&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Holy%20Trinity%20Cathedral%20%28Maykop%29%2C%20Adygea%2C%20Russia"
+    },
+    "official_site": "https://sobormaykop.ru/",
+    "sources": [
+      {
+        "title": "sobory.ru - Майкоп, Кафедральный собор Троицы Живоначальной (obj. 10514)",
+        "url": "https://sobory.ru/article/?object=10514"
+      },
+      {
+        "title": "Свято-Троицкий кафедральный собор Майкопа - trang chính thức",
+        "url": "https://sobormaykop.ru/"
+      }
+    ],
+    "tags": [
+      "church",
+      "cathedral",
+      "orthodox",
+      "maykop",
+      "religion",
+      "adygea"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "adygea-maykop-kurgan-oshad",
+    "slug": "maykop-kurgan-oshad",
+    "region": "adygea",
+    "region_name_vi": "Cộng hoà Adygea",
+    "federal_district": "Vùng Nam",
+    "name_vi": "Gò mộ Maykop «Oshad» (Ô-sát) - nôi văn hoá Maykop đồ đồng",
+    "name_ru": "Майкопский курган («Ошад»)",
+    "name_en": "Maykop Kurgan (Oshad)",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 44.6097,
+      "lon": 40.1312
+    },
+    "address_vi": "Giao lộ phố Kurgannaya và Podgornaya, phía đông thành phố Maykop, Cộng hoà Adygea, Nga.",
+    "rating": null,
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nơi từng có gò mộ hoàng gia thời sơ kỳ đồ đồng (nửa sau thiên niên kỷ 4 TCN) - địa điểm khai quật năm 1897 đã đặt tên cho cả «văn hoá Maykop» khảo cổ học. Hiện vật vàng, bạc quý giá được lưu giữ tại Bảo tàng Hermitage; trên nền gò nay có đài tưởng niệm hình bia đá.",
+    "presentation_long_vi": "«Ошад» - tên gọi cổ theo truyền thuyết Adyghe của gò mộ Maykop - là một trong những địa điểm khảo cổ danh tiếng nhất nước Nga, dù ngày nay bản thân gò đất không còn. Vào năm 1897, đoàn khảo cổ do nhà nghiên cứu N. I. Veselovsky khai quật gò đất cao hơn 10 m ở rìa đông Maykop và phát hiện một ngôi mộ hoàng gia thời sơ kỳ đồ đồng, niên đại khoảng nửa sau thiên niên kỷ 4 trước Công nguyên. Bên trong là hài cốt một nhân vật quyền quý cùng những đồ tuỳ táng lộng lẫy: baldachin (tán che) nạm các tượng bò bằng vàng và bạc, bình đựng bằng kim loại quý, đồ trang sức và vũ khí tinh xảo. Phát hiện chấn động này đã đặt tên cho cả một nền văn hoá khảo cổ - «văn hoá Maykop» - trải rộng khắp vùng Bắc Kavkaz thời đồ đồng sớm. Phần lớn hiện vật quý nay được trưng bày tại Bảo tàng Hermitage ở Sankt-Peterburg. Trên nền gò xưa, từ năm 1972 dựng một đài tưởng niệm - tấm bia đá trắng khắc hình người cổ đại và các huy chương biểu tượng. Với du khách yêu lịch sử, đây là điểm dừng giàu ý nghĩa để chạm vào cội nguồn văn minh cổ của vùng đất Adygea.",
+    "highlights_vi": [
+      "Nơi khai quật (1897) gò mộ hoàng gia sơ kỳ đồ đồng, niên đại nửa sau thiên niên kỷ 4 TCN.",
+      "Đặt tên cho «văn hoá Maykop» khảo cổ học trải khắp Bắc Kavkaz; hiện vật vàng bạc nay ở Hermitage.",
+      "Trên nền gò có đài tưởng niệm bia đá trắng dựng năm 1972."
+    ],
+    "practical": {
+      "hours_vi": "Đài tưởng niệm ngoài trời, tham quan tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 15-20 phút.",
+      "best_time_vi": "Quanh năm; đẹp nhất ban ngày.",
+      "tips_vi": "Nằm ở khu dân cư phía đông Maykop; để xem hiện vật thực, hãy tham quan phiên bản/trưng bày ở Bảo tàng Quốc gia Adygea hoặc Hermitage."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D0%B0%D0%B9%D0%BA%D0%BE%D0%BF%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D1%83%D1%80%D0%B3%D0%B0%D0%BD%20%28%C2%AB%D0%9E%D1%88%D0%B0%D0%B4%C2%BB%29&ll=40.1312,44.6097&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Maykop%20Kurgan%20%28Oshad%29%2C%20Adygea%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) - Майкопский курган",
+        "url": "https://ru.wikipedia.org/wiki/Майкопский_курган"
+      },
+      {
+        "title": "Культура.РФ - Майкопский курган",
+        "url": "https://www.culture.ru/institutes/34282/maikopskii-kurgan"
+      }
+    ],
+    "tags": [
+      "monument",
+      "archaeology",
+      "bronze-age",
+      "maykop-culture",
+      "history",
+      "adygea"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "adygea-edinenie-soglasie-monument-maykop",
+    "slug": "edinenie-soglasie-monument-maykop",
+    "region": "adygea",
+    "region_name_vi": "Cộng hoà Adygea",
+    "federal_district": "Vùng Nam",
+    "name_vi": "Đài «Đoàn kết và Hoà hợp» (Edinenie i Soglasie) - «Lò sưởi»",
+    "name_ru": "Монумент «Единение и Согласие» («Очаг»)",
+    "name_en": "Unity and Concord Monument (Maykop)",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 44.607402,
+      "lon": 40.099024
+    },
+    "address_vi": "Ул. Пионерская, 221 (quảng trường Druzhby, cạnh Thánh đường Hồi giáo và Nhạc viện), thành phố Maykop, Cộng hoà Adygea, Nga.",
+    "rating": null,
+    "review_summary_vi": "",
+    "presentation_short_vi": "Đài tưởng niệm cao 20 m hình chiếc «lò sưởi» (ochag) - biểu tượng thiêng liêng của người Adyghe, khánh thành năm 2013, tưởng niệm các nạn nhân Chiến tranh Kavkaz và tôn vinh sự đoàn kết, hoà hợp giữa các dân tộc. Tác giả là hoạ sĩ Nhân dân Abdulakh Bersirov.",
+    "presentation_long_vi": "Vươn cao 20 m giữa quần thể quảng trường Druzhby - nơi quy tụ Thánh đường Hồi giáo Trung tâm, Nhạc viện và Bảo tàng Quốc gia Adygea - đài «Đoàn kết và Hoà hợp» là một trong những công trình biểu tượng nhất của Maykop. Khánh thành ngày 19 tháng 7 năm 2013 sau nhiều năm thai nghén, đài do hoạ sĩ Nhân dân của Cộng hoà Adygea Abdulakh Bersirov thiết kế, lấy hình tượng trung tâm là chiếc «ochag» (lò sưởi/bếp lửa) - một biểu tượng có ý nghĩa vô cùng sâu sắc trong đời sống và văn hoá của người Adyghe, gắn với vô số nghi lễ của cái gọi là «văn hoá bếp lửa». Đài tưởng niệm những nạn nhân của Chiến tranh Kavkaz, đồng thời gửi gắm thông điệp về một «bếp lửa chung» cho mọi người Adyghe và lời mời gọi các dân tộc khác cùng đến với sự ấm áp, đối thoại và thấu hiểu. Công trình được chia thành nhiều tầng bậc, chạm khắc các phù điêu tái hiện nghi lễ, thần thoại (như tích anh hùng sử thi Nart mang lửa về cho loài người), cùng chân dung các danh nhân và biểu tượng huy hiệu của Adygea (ba mũi tên, mười hai ngôi sao vàng). Xung quanh là công viên và các sân nhỏ mang tính nghi lễ. Đây là điểm đến ý nghĩa để du khách hiểu thêm về bản sắc và tinh thần hoà hợp của người Adyghe.",
+    "highlights_vi": [
+      "Đài cao 20 m hình chiếc «lò sưởi» (ochag) - biểu tượng thiêng liêng của người Adyghe.",
+      "Khánh thành năm 2013, tưởng niệm nạn nhân Chiến tranh Kavkaz, tôn vinh đoàn kết - hoà hợp.",
+      "Chạm khắc phù điêu nghi lễ, sử thi Nart và biểu tượng huy hiệu Adygea; tác giả A. Bersirov."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời trên quảng trường Druzhby, tham quan tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 20-30 phút.",
+      "best_time_vi": "Quanh năm; đẹp nhất ban ngày để xem phù điêu.",
+      "tips_vi": "Đọc bảng thuyết minh cạnh đài để hiểu các phù điêu; kết hợp thăm Thánh đường Hồi giáo, Nhạc viện và Bảo tàng Quốc gia Adygea liền kề."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D0%BE%D0%BD%D1%83%D0%BC%D0%B5%D0%BD%D1%82%20%C2%AB%D0%95%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B8%20%D0%A1%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%B8%D0%B5%C2%BB%20%28%C2%AB%D0%9E%D1%87%D0%B0%D0%B3%C2%BB%29&ll=40.099024,44.607402&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Unity%20and%20Concord%20Monument%20%28Maykop%29%2C%20Adygea%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "rus.team - Монумент «Единение и Согласие» в Майкопе",
+        "url": "https://rus.team/landmarks/monument-edinenie-i-soglasie-v-majkope"
+      },
+      {
+        "title": "Yandex Карты - Единение и согласие, Майкоп",
+        "url": "https://yandex.com/maps/org/yedineniye_i_soglasiye/187430068519/"
+      }
+    ],
+    "tags": [
+      "monument",
+      "memorial",
+      "adyghe-culture",
+      "maykop",
+      "sculpture",
+      "adygea"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "adygea-dakhovskaya-sloboda-savranskaya",
+    "slug": "dakhovskaya-sloboda-savranskaya",
+    "region": "adygea",
+    "region_name_vi": "Cộng hoà Adygea",
+    "federal_district": "Vùng Nam",
+    "name_vi": "Dakhovskaya Sloboda và cáp treo Savranskaya (Đa-khốp-xcai-a)",
+    "name_ru": "Даховская слобода (Савранская канатная дорога)",
+    "name_en": "Dakhovskaya Sloboda & Savranskaya Cable Car",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 44.250534,
+      "lon": 40.205195
+    },
+    "address_vi": "Cửa ngõ vào станица Dakhovskaya (từ hướng Kamennomostsky), huyện Maykop, Cộng hoà Adygea, Nga.",
+    "rating": null,
+    "review_summary_vi": "",
+    "presentation_short_vi": "Khu nghỉ dưỡng - giải trí bên станица Dakhovskaya, nổi tiếng với cáp treo Savranskaya - tuyến cáp treo du lịch dài 1250 m duy nhất ở Adygea đưa khách lên đài quan sát và cụm hang - vách đá trên núi. Điểm dừng chân tiện nghi với khách sạn, nhà hàng, bể tắm.",
+    "presentation_long_vi": "Nằm ngay cửa ngõ vào станица Dakhovskaya, «Daxovskaya Sloboda» là một tổ hợp nghỉ dưỡng - giải trí kiểu trang trại Cossack, được biết đến nhiều nhất nhờ tuyến cáp treo Savranskaya (đặt theo tên người sáng lập Vasily Savransky). Đây là tuyến cáp treo du lịch dài khoảng 1250 m, được xem là cáp treo phục vụ du khách duy nhất ở Cộng hoà Adygea, đưa khách vượt sườn núi trong chừng 20 phút lên tới một đài quan sát trên cao. Từ trạm trên, du khách có thể ngắm toàn cảnh thung lũng sông Belaya và станица Dakhovskaya, đồng thời khám phá cả một cụm điểm tự nhiên hấp dẫn: hang «Điều Ước», vách đá «Ngón Tay Quỷ» (Chёртов палец), hang «Bụi», hang Dakhovskaya và nhiều mỏm đá đẹp. Bản thân khu Sloboda cung cấp dịch vụ lưu trú (khách sạn, nhà gỗ), nhà hàng ẩm thực Adyghe - Cossack, bể tắm và các hoạt động ngoài trời. Với vị trí thuận tiện ngay trên trục đường du lịch chính và sự kết hợp giữa nghỉ dưỡng, cáp treo và cảnh quan, đây là điểm dừng lý tưởng cho gia đình và nhóm bạn khi khám phá vùng Dakhovskaya - Lagonaki.",
+    "highlights_vi": [
+      "Cáp treo Savranskaya dài ~1250 m - tuyến cáp treo du lịch duy nhất ở Adygea, lên đài quan sát.",
+      "Trạm trên dẫn tới cụm hang - vách đá: hang «Điều Ước», «Ngón Tay Quỷ», hang Dakhovskaya...",
+      "Khu nghỉ tiện nghi với khách sạn, nhà hàng, bể tắm - điểm dừng chân cho gia đình."
+    ],
+    "practical": {
+      "hours_vi": "Cáp treo và khu nghỉ hoạt động theo lịch (thường ban ngày); nên kiểm tra giờ trước.",
+      "ticket_vi": "Có phí vé cáp treo và dịch vụ; lưu trú, ăn uống tính riêng.",
+      "duration_vi": "Từ 1-2 giờ (cáp treo + đài quan sát) đến cả ngày.",
+      "best_time_vi": "Cuối xuân đến đầu thu; mùa hè đông khách.",
+      "tips_vi": "Mang giày phù hợp để đi bộ tham quan hang - vách đá ở trạm trên; kết hợp thăm cầu đá Dakhovsky và станица Dakhovskaya."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%94%D0%B0%D1%85%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D1%81%D0%BB%D0%BE%D0%B1%D0%BE%D0%B4%D0%B0%20%28%D0%A1%D0%B0%D0%B2%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BA%D0%B0%D0%BD%D0%B0%D1%82%D0%BD%D0%B0%D1%8F%20%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B0%29&ll=40.205195,44.250534&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Dakhovskaya%20Sloboda%20%26%20Savranskaya%20Cable%20Car%2C%20Adygea%2C%20Russia"
+    },
+    "official_site": "https://dah-sl.ru/",
+    "sources": [
+      {
+        "title": "dah-sl.ru - Савранская канатная дорога, «Даховская Слобода» (trang chính thức)",
+        "url": "https://dah-sl.ru/sights/list/11/"
+      },
+      {
+        "title": "yugarf.ru - Савранская (Даховская) канатная дорога",
+        "url": "https://yugarf.ru/savranskaya-kanatnaya-doroga-v-dahovskoj/"
+      }
+    ],
+    "tags": [
+      "other",
+      "resort",
+      "cable-car",
+      "viewpoint",
+      "dakhovskaya",
+      "family",
+      "adygea"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "adygea-krasnodar-reservoir-adygea",
+    "slug": "krasnodar-reservoir-adygea",
+    "region": "adygea",
+    "region_name_vi": "Cộng hoà Adygea",
+    "federal_district": "Vùng Nam",
+    "name_vi": "Hồ chứa Krasnodar (Crát-nô-đa) - «Biển Kuban» bên Adygea",
+    "name_ru": "Краснодарское водохранилище",
+    "name_en": "Krasnodar Reservoir",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 44.985271,
+      "lon": 39.275607
+    },
+    "address_vi": "Trên sông Kuban, giáp ranh vùng Krasnodar và Cộng hoà Adygea (bờ nam thuộc các huyện Teuchezhsky, Takhtamukaysky và thành phố Adygeysk), Nga.",
+    "rating": null,
+    "review_summary_vi": "",
+    "presentation_short_vi": "Hồ chứa nhân tạo lớn nhất vùng Bắc Kavkaz trên sông Kuban, dân địa phương quen gọi là «Biển Kuban». Bờ nam của hồ thuộc Adygea - nơi có thành phố Adygeysk và thị trấn Tlyustenkhabl được lập cho dân di dời khi ngăn đập; là không gian câu cá, nghỉ ngơi và ngắm hoàng hôn trên mặt nước rộng.",
+    "presentation_long_vi": "Trải rộng trên sông Kuban ở ranh giới giữa vùng Krasnodar và Cộng hoà Adygea, hồ chứa Krasnodar là hồ nhân tạo lớn nhất vùng Bắc Kavkaz, với diện tích mặt nước tới hơn 400 km² - lớn đến mức người dân địa phương quen gọi là «Biển Kuban» (Kubanskoe more). Hồ được xây dựng thập niên 1970 để điều tiết lũ và tưới tiêu cho các cánh đồng lúa nước rộng lớn của Kuban và Adygea; khi ngăn đập, cả một vùng dân cư đã phải di dời, sinh ra thành phố mới Adygeysk và thị trấn Tlyustenkhabl bên bờ hồ. Chính bờ nam và tây nam của hồ nằm trên đất Adygea (các huyện Teuchezhsky, Takhtamukaysky), mang đến cho vùng cộng hoà miền núi này một sắc thái phong cảnh khác hẳn: mặt nước mênh mông, chân trời rộng mở và những buổi hoàng hôn rực rỡ soi bóng. Đây là địa điểm quen thuộc để câu cá (hồ nhiều cá chép, trắm, mè, cá măng), dạo bờ, ngắm chim nước và nghỉ ngơi cuối tuần của cư dân Maykop, Adygeysk và Krasnodar. Với du khách, hồ chứa Krasnodar là dịp trải nghiệm khía cạnh «đồng bằng - sông nước» của Adygea, bổ sung cho hình ảnh núi rừng quen thuộc.",
+    "highlights_vi": [
+      "Hồ chứa nhân tạo lớn nhất Bắc Kavkaz (>400 km²) trên sông Kuban - «Biển Kuban».",
+      "Bờ nam thuộc Adygea; có thành phố Adygeysk và thị trấn Tlyustenkhabl lập cho dân di dời.",
+      "Điểm câu cá, ngắm chim nước và hoàng hôn - sắc thái đồng bằng sông nước của Adygea."
+    ],
+    "practical": {
+      "hours_vi": "Không gian ngoài trời quanh hồ, tự do mọi lúc.",
+      "ticket_vi": "Miễn phí; dịch vụ câu cá, thuê thuyền tính riêng.",
+      "duration_vi": "Khoảng 1-3 giờ (dạo bờ, câu cá, ngắm cảnh).",
+      "best_time_vi": "Cuối xuân đến đầu thu; hoàng hôn đẹp quanh năm.",
+      "tips_vi": "Tiếp cận dễ từ Adygeysk hoặc Krasnodar; chú ý an toàn khi xuống nước, bờ có chỗ lầy; mang chống nắng, chống muỗi."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B2%D0%BE%D0%B4%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D0%BB%D0%B8%D1%89%D0%B5&ll=39.275607,44.985271&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Krasnodar%20Reservoir%2C%20Adygea%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) - Краснодарское водохранилище",
+        "url": "https://ru.wikipedia.org/wiki/Краснодарское_водохранилище"
+      },
+      {
+        "title": "yugarf.ru - Краснодарское водохранилище",
+        "url": "https://yugarf.ru/krasnodarskoe-vodohranilishche/"
+      }
+    ],
+    "tags": [
+      "other",
+      "reservoir",
+      "lake",
+      "kuban",
+      "fishing",
+      "adygeysk",
+      "adygea"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "adygea-caucasus-nature-reserve-guzeripl",
+    "slug": "caucasus-nature-reserve-guzeripl",
+    "region": "adygea",
+    "region_name_vi": "Cộng hoà Adygea",
+    "federal_district": "Vùng Nam",
+    "name_vi": "Khu bảo tồn sinh quyển Kavkaz (Cáp-ca) - Di sản UNESCO (cổng Guzeripl)",
+    "name_ru": "Кавказский государственный природный биосферный заповедник",
+    "name_en": "Caucasus State Nature Biosphere Reserve",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 43.999548,
+      "lon": 40.136078
+    },
+    "address_vi": "Cổng vào phía Adygea tại làng Guzeripl (кордон Гузерипль, ул. Заречная 5), huyện Maykop, Cộng hoà Adygea, Nga.",
+    "rating": null,
+    "review_summary_vi": "",
+    "presentation_short_vi": "Khu bảo tồn thiên nhiên lâu đời và lớn bậc nhất Nga, một phần Di sản Thiên nhiên Thế giới UNESCO «Tây Kavkaz». Bảo vệ vùng núi cao nguyên sinh với rừng nguyên sinh, bò rừng bison, đại bàng; làng Guzeripl ở Adygea là một trong những cổng vào chính, có bảo tàng thiên nhiên và các tuyến đường mòn.",
+    "presentation_long_vi": "Kavkazsky zapovednik - Khu bảo tồn sinh quyển nhà nước Kavkaz mang tên Kh. G. Shaposhnikov - là một trong những khu bảo tồn thiên nhiên lâu đời (thành lập năm 1924) và lớn nhất nước Nga, trải rộng trên diện tích khoảng 280.000 ha thuộc Adygea, vùng Krasnodar và Karachay-Cherkessia. Từ năm 1999, khu bảo tồn là hợp phần trung tâm của Di sản Thiên nhiên Thế giới UNESCO «Tây Kavkaz» - một trong số ít vùng núi rộng lớn ở châu Âu gần như chưa bị tác động của con người. Nơi đây gìn giữ những cánh rừng nguyên sinh sồi - dẻ gai - linh sam, đồng cỏ núi cao, sông băng, hồ và các đỉnh trên 3000 m; là mái nhà của bò rừng bison Kavkaz (được phục hồi từ bờ vực tuyệt chủng), hươu, gấu nâu, sơn dương chamois, đại bàng và vô số loài đặc hữu. Với Adygea, cổng vào chính là làng Guzeripl bên sông Belaya - nơi có trạm kiểm lâm (kordon), Bảo tàng Thiên nhiên của khu bảo tồn, một dolmen cổ và điểm khởi đầu của nhiều tuyến đường mòn sinh thái dẫn lên khối Fisht - Oshten. Đến đây, du khách vừa được hoà mình vào thiên nhiên hoang sơ đẳng cấp thế giới, vừa tìm hiểu công cuộc bảo tồn qua bảo tàng và khu nuôi thả động vật.",
+    "highlights_vi": [
+      "Khu bảo tồn thiên nhiên lâu đời (1924) và lớn bậc nhất Nga; hợp phần Di sản UNESCO «Tây Kavkaz» (1999).",
+      "Bảo vệ rừng nguyên sinh, đồng cỏ núi cao và loài quý như bò rừng bison Kavkaz, đại bàng.",
+      "Làng Guzeripl (Adygea) là cổng vào chính: có trạm kiểm lâm, bảo tàng thiên nhiên và nhiều tuyến trekking."
+    ],
+    "practical": {
+      "hours_vi": "Trạm kiểm lâm/cổng vào mở ban ngày (thường từ ~8:00-10:00); tuyến đường mòn theo mùa.",
+      "ticket_vi": "Cần mua vé vào khu bảo tồn tại chốt kiểm lâm (mỗi tuyến/điểm có mức phí riêng).",
+      "duration_vi": "Từ nửa ngày (Guzeripl, bảo tàng, đường mòn ngắn) đến nhiều ngày (trek Fisht - Oshten).",
+      "best_time_vi": "Tháng 5 đến tháng 10; vùng đỉnh cao đẹp nhất tháng 7-9.",
+      "tips_vi": "Đăng ký và mua vé tại chốt; tuân thủ nghiêm quy định (không rời đường mòn, không xả rác, không săn bắt); trek dài cần trang bị và có thể cần hướng dẫn viên."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D0%B0%D0%B2%D0%BA%D0%B0%D0%B7%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9%20%D0%B1%D0%B8%D0%BE%D1%81%D1%84%D0%B5%D1%80%D0%BD%D1%8B%D0%B9%20%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA&ll=40.136078,43.999548&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Caucasus%20State%20Nature%20Biosphere%20Reserve%2C%20Adygea%2C%20Russia"
+    },
+    "official_site": "https://kavkazzapoved.ru/",
+    "sources": [
+      {
+        "title": "Wikipedia (RU) - Кавказский заповедник",
+        "url": "https://ru.wikipedia.org/wiki/Кавказский_заповедник"
+      },
+      {
+        "title": "Кавказский заповедник им. Х. Г. Шапошникова - trang chính thức",
+        "url": "https://kavkazzapoved.ru/"
+      }
+    ],
+    "tags": [
+      "other",
+      "nature-reserve",
+      "unesco",
+      "biosphere",
+      "guzeripl",
+      "wildlife",
+      "adygea"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
   }
 ]

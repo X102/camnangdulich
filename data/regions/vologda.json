@@ -517,5 +517,1730 @@
     "status": "enriched",
     "last_updated": "2026-07-16",
     "country": "russia"
+  },
+  {
+    "id": "vologda-vologda-lace-museum",
+    "slug": "vologda-lace-museum",
+    "region": "vologda",
+    "region_name_vi": "Tỉnh Vologda",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Bảo tàng Ren Vologda (Музей кружева, đọc: Mu-dây Kru-gie-va)",
+    "name_ru": "Музей кружева",
+    "name_en": "Vologda Lace Museum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 59.224303,
+      "lon": 39.884935
+    },
+    "address_vi": "Quảng trường Kremlin (Кремлёвская площадь) 12, thành phố Vologda, tỉnh Vologda, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng chuyên đề lớn nhất nước Nga về nghệ thuật ren chỉ - đặc sản làm nên thương hiệu Vologda - trưng bày trong toà nhà cổ của Ngân hàng Nhà nước bên Quảng trường Kremlin.",
+    "presentation_long_vi": "Ren Vologda (vologodskoe kruzhevo) là một trong những biểu tượng thủ công nổi tiếng nhất của nước Nga, và bảo tàng này - khai trương năm 2010 - là nơi kể trọn vẹn câu chuyện đó. Trưng bày đặt trong toà nhà đá hai tầng của Ngân hàng Nhà nước cũ giữa trung tâm phố cổ, ngay cạnh điện Kremlin Vologda. Bộ sưu tập dẫn khách đi qua lịch sử nghề ren từ thế kỷ 18 đến nay: những tấm khăn, cổ áo, rèm cửa, khăn trải bàn dệt bằng suốt chỉ trên gối đệm, cho tới các tác phẩm nghệ thuật thời Xô-viết mô tả cả sao năm cánh, tên lửa hay bản đồ, và các sáng tác đương đại tinh xảo. Khách còn được xem dụng cụ, mẫu hoa văn và đôi khi có nghệ nhân trình diễn kỹ thuật dệt ren truyền thống, cùng gian bán đồ lưu niệm ren chính gốc. Đây là điểm dừng gần như bắt buộc để hiểu vì sao Vologda được mệnh danh là 'thủ đô ren' của nước Nga.",
+    "highlights_vi": [
+      "Bảo tàng ren lớn nhất nước Nga, khai trương 2010",
+      "Bộ sưu tập trải dài từ ren thế kỷ 18 đến tác phẩm đương đại",
+      "Xem nghệ nhân dệt ren và mua đồ ren Vologda chính gốc"
+    ],
+    "practical": {
+      "hours_vi": "Thường mở khoảng 10:00-17:30, nghỉ thứ Hai (kiểm tra lịch trên trang chính thức).",
+      "ticket_vi": "Có vé vào cửa; vé riêng cho từng khu/triển lãm tạm thời.",
+      "duration_vi": "Khoảng 1-1,5 giờ.",
+      "best_time_vi": "Quanh năm; kết hợp tham quan điện Kremlin ngay bên cạnh.",
+      "tips_vi": "Ngay trên Quảng trường Kremlin, đi bộ vài phút từ Nhà thờ Thánh Sophia."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%B9%20%D0%BA%D1%80%D1%83%D0%B6%D0%B5%D0%B2%D0%B0&ll=39.884935,59.224303&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Vologda%20Lace%20Museum%2C%20Russia"
+    },
+    "official_site": "https://www.vologdamuseum.ru/",
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Музей кружева (Вологда)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D0%B7%D0%B5%D0%B9_%D0%BA%D1%80%D1%83%D0%B6%D0%B5%D0%B2%D0%B0_%28%D0%92%D0%BE%D0%BB%D0%BE%D0%B3%D0%B4%D0%B0%29"
+      },
+      {
+        "title": "Culture.ru — Музей кружева г. Вологды",
+        "url": "https://www.culture.ru/institutes/11721/muzei-kruzheva-g-vologdy"
+      }
+    ],
+    "tags": [
+      "museum",
+      "lace",
+      "handicraft",
+      "folk-art",
+      "vologda"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "vologda-peter-house-museum-vologda",
+    "slug": "peter-house-museum-vologda",
+    "region": "vologda",
+    "region_name_vi": "Tỉnh Vologda",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Nhà lưu niệm Pyotr Đại đế (Домик Петра I, đọc: Đô-mík Piốt-ra Piếc-vô-va)",
+    "name_ru": "Дом-музей Петра I",
+    "name_en": "Peter the Great's House Museum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 59.209977,
+      "lon": 39.908216
+    },
+    "address_vi": "Đại lộ Sovetsky (Советский проспект) 47, thành phố Vologda, tỉnh Vologda, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng lâu đời nhất Vologda (mở năm 1885), đặt trong ngôi nhà đá thế kỷ 17 của thương nhân Gutman, nơi Sa hoàng Pyotr Đại đế từng lưu lại trong các chuyến đi qua thành phố.",
+    "presentation_long_vi": "Ngôi nhà đá nhỏ bên sông Vologda vốn thuộc gia đình thương nhân người Hà Lan Gutman, và theo truyền thống Pyotr Đại đế đã nhiều lần dừng chân tại đây trong những chuyến công cán về phương Bắc cuối thế kỷ 17 - đầu thế kỷ 18. Năm 1885, nhân kỷ niệm hoàng đế, nơi này được mở thành bảo tàng - trở thành bảo tàng đầu tiên và lâu đời nhất của Vologda. Bên trong trưng bày các hiện vật gắn với thời đại Pyotr: chân dung, y phục, vũ khí, đồ dùng, mặt nạ tử thần của hoàng đế (bản sao), cùng những vật dụng sinh hoạt của giới thương nhân thế kỷ 17. Kiến trúc nhà đá dày, cửa vòm và mái vòm thấp cho thấy phong cách xây dựng dân dụng hiếm hoi còn sót lại từ thời tiền-Pyotr ở miền Bắc nước Nga. Đây là điểm đến nhỏ nhưng giàu ý nghĩa lịch sử cho khách muốn tìm hiểu mối liên hệ giữa Vologda và công cuộc canh tân của Pyotr Đại đế.",
+    "highlights_vi": [
+      "Bảo tàng lâu đời nhất Vologda (mở năm 1885)",
+      "Nhà đá thế kỷ 17 gắn với những lần Pyotr Đại đế ghé qua",
+      "Hiện vật thời đại Pyotr: chân dung, y phục, đồ dùng"
+    ],
+    "practical": {
+      "hours_vi": "Thường mở khoảng 10:00-17:00, nghỉ một ngày đầu tuần (kiểm tra lịch).",
+      "ticket_vi": "Có vé vào cửa, giá bình dân.",
+      "duration_vi": "Khoảng 45 phút - 1 giờ.",
+      "best_time_vi": "Quanh năm; kết hợp dạo bờ kè sông Vologda.",
+      "tips_vi": "Nằm trên đại lộ Sovetsky, gần trung tâm; dễ đi bộ."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%94%D0%BE%D0%BC-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%20%D0%9F%D0%B5%D1%82%D1%80%D0%B0%20I&ll=39.908216,59.209977&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Peter%20the%20Great%27s%20House%20Museum%2C%20Vologda%2C%20Russia"
+    },
+    "official_site": "https://www.vologdamuseum.ru/",
+    "sources": [
+      {
+        "title": "Culture.ru — Дом-музей Петра I",
+        "url": "https://www.culture.ru/institutes/11726/dom-muzei-petra-i"
+      },
+      {
+        "title": "Wikipedia (RU) — Дом-музей Петра I (Вологда)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BC-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9_%D0%9F%D0%B5%D1%82%D1%80%D0%B0_I_%28%D0%92%D0%BE%D0%BB%D0%BE%D0%B3%D0%B4%D0%B0%29"
+      }
+    ],
+    "tags": [
+      "museum",
+      "peter-the-great",
+      "history",
+      "17th-century",
+      "vologda"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "vologda-monument-letter-o-vologda",
+    "slug": "monument-letter-o-vologda",
+    "region": "vologda",
+    "region_name_vi": "Tỉnh Vologda",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Đài tưởng niệm chữ 'O' (Памятник букве О, đọc: Pa-mít-ník búc-vê O)",
+    "name_ru": "Памятник букве «О»",
+    "name_en": "Monument to the letter O",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 59.224953,
+      "lon": 39.884359
+    },
+    "address_vi": "Đồi Sobornaya (Соборная горка), gần Quảng trường Kremlin, thành phố Vologda, tỉnh Vologda, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Tác phẩm điêu khắc bằng kim loại hình chữ 'O' hoa mỹ, tôn vinh giọng nói 'okanye' đặc trưng của người Vologda - một trong những điểm chụp ảnh vui nhộn nhất phố cổ.",
+    "presentation_long_vi": "Người vùng Vologda nổi tiếng với lối phát âm 'okanye' - nhấn rõ nguyên âm 'O' trong lời nói, khiến giọng địa phương nghe tròn vành và dễ nhận ra. Để tôn vinh nét đặc trưng ngôn ngữ ấy, một tác phẩm điêu khắc hình chữ 'O' được dựng năm 2012 nhân dịp thành phố tròn 865 tuổi, đặt trên đồi Sobornaya ngay gần điện Kremlin và nhà của nhà văn Varlam Shalamov. Chữ 'O' cao khoảng 2,5 m, uốn lượn hoa văn theo phong cách trang trí Nga, trở thành nơi du khách thích lồng khung chụp ảnh, đặc biệt khi có cảnh nhà thờ và mái vòm phía sau. Đây là một trong những đài tưởng niệm 'chữ cái' hiếm hoi và được yêu thích bậc nhất nước Nga, gắn liền với niềm tự hào của người Vologda về giọng nói quê hương mình.",
+    "highlights_vi": [
+      "Điêu khắc chữ 'O' tôn vinh giọng 'okanye' đặc trưng Vologda",
+      "Dựng năm 2012 nhân kỷ niệm 865 năm thành phố",
+      "Điểm chụp ảnh vui nhộn cạnh điện Kremlin và đồi Sobornaya"
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tham quan tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 10-15 phút.",
+      "best_time_vi": "Quanh năm; đẹp nhất khi kết hợp ánh sáng chiều.",
+      "tips_vi": "Đứng ngay khu đồi Sobornaya; dễ kết hợp với Kremlin, Bảo tàng ren và bờ sông."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%D0%B1%D1%83%D0%BA%D0%B2%D0%B5%20%C2%AB%D0%9E%C2%BB&ll=39.884359,59.224953&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Monument%20to%20the%20letter%20O%2C%20Vologda%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Culture.ru — Памятник букве «О»",
+        "url": "https://www.culture.ru/objects/2447/pamyatnik-bukve-o"
+      },
+      {
+        "title": "Wikipedia (RU) — Вологда",
+        "url": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%BB%D0%BE%D0%B3%D0%B4%D0%B0"
+      }
+    ],
+    "tags": [
+      "monument",
+      "sculpture",
+      "photo-spot",
+      "quirky",
+      "vologda"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "vologda-church-alexander-nevsky-vologda",
+    "slug": "church-alexander-nevsky-vologda",
+    "region": "vologda",
+    "region_name_vi": "Tỉnh Vologda",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Nhà thờ Alexander Nevsky (Церковь Александра Невского, đọc: Xéc-kốp A-lếc-xan-đra Nép-xkô-va)",
+    "name_ru": "Церковь Александра Невского",
+    "name_en": "Church of Alexander Nevsky",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 59.22435,
+      "lon": 39.884182
+    },
+    "address_vi": "Phố Sergeya Orlova (ул. Сергея Орлова) 10, gần Quảng trường Kremlin, thành phố Vologda, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Ngôi nhà thờ Baroque màu trắng - đỏ duyên dáng bên đồi Sobornaya, nổi bật với mái vòm xanh và tháp chuông thanh mảnh, dâng kính hoàng thân Alexander Nevsky.",
+    "presentation_long_vi": "Nhà thờ Alexander Nevsky đứng trên đồi Sobornaya, sát bờ sông Vologda và chỉ cách điện Kremlin vài bước chân. Vốn được dựng từ thế kỷ 18 với tên gọi ban đầu là nhà thờ Nikola tại Chợ Cá, công trình sau đó được đổi hiến cho thánh hoàng thân Alexander Nevsky vào giữa thế kỷ 19, gắn với sự kiện Sa hoàng Alexander II thoát nạn ám sát. Kiến trúc pha trộn nét Baroque tỉnh lỵ với mái vòm nhỏ màu xanh điểm sao vàng, tường trắng viền đỏ và một tháp chuông vươn cao thanh thoát, tạo nên bóng dáng quen thuộc trong khung cảnh trung tâm phố cổ. Nhà thờ vẫn hoạt động tôn giáo, mở cửa cho tín đồ và du khách; vị trí sát đài tưởng niệm chữ 'O', bờ kè sông và các bậc thang xuống bến khiến đây là một điểm đẹp để ngắm hoàng hôn và chụp ảnh trung tâm Vologda.",
+    "highlights_vi": [
+      "Nhà thờ Baroque tỉnh lỵ với mái vòm xanh điểm sao vàng",
+      "Đổi hiến cho thánh Alexander Nevsky giữa thế kỷ 19",
+      "Vị trí đẹp trên đồi Sobornaya, sát bờ sông và điện Kremlin"
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa theo giờ lễ và ban ngày; giữ trang phục kín đáo khi vào.",
+      "ticket_vi": "Miễn phí (có thể quyên góp).",
+      "duration_vi": "Khoảng 20-30 phút.",
+      "best_time_vi": "Quanh năm; buổi chiều ánh nắng đẹp cho ảnh.",
+      "tips_vi": "Nữ nên mang khăn trùm đầu; kết hợp đi bộ dọc bờ kè sông Vologda."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C%20%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B0%20%D0%9D%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE&ll=39.884182,59.22435&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Church%20of%20Alexander%20Nevsky%2C%20Vologda%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "sobory.ru — Церковь Александра Невского в Вологде",
+        "url": "https://sobory.ru/article/?object=00235"
+      },
+      {
+        "title": "Wikipedia (RU) — Церковь Александра Невского (Вологда)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B0_%D0%9D%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%28%D0%92%D0%BE%D0%BB%D0%BE%D0%B3%D0%B4%D0%B0%29"
+      }
+    ],
+    "tags": [
+      "church",
+      "orthodox",
+      "baroque",
+      "architecture",
+      "vologda"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "vologda-resurrection-cathedral-vologda",
+    "slug": "resurrection-cathedral-vologda",
+    "region": "vologda",
+    "region_name_vi": "Tỉnh Vologda",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Nhà thờ Phục Sinh và Phòng tranh Vologda (Воскресенский собор, đọc: Vô-xkrê-xen-xki xa-bo)",
+    "name_ru": "Воскресенский собор",
+    "name_en": "Resurrection Cathedral (Vologda Regional Picture Gallery)",
+    "categories": [
+      "church",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 59.224027,
+      "lon": 39.883421
+    },
+    "address_vi": "Quảng trường Kremlin (Кремлёвская площадь) 3, thành phố Vologda, tỉnh Vologda, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhà thờ Baroque 'ấm' xây năm 1772-1776 ngay trên Quảng trường Kremlin, nay là toà nhà trung tâm của Phòng trưng bày Mỹ thuật vùng Vologda.",
+    "presentation_long_vi": "Nhà thờ Phục Sinh được dựng năm 1772-1776 làm nhà thờ 'ấm' (dùng vào mùa đông) bên cạnh Nhà thờ Thánh Sophia lạnh lẽo trong quần thể điện Kremlin. Công trình mang phong cách Baroque muộn với tường màu hồng - trắng dịu mắt, các cửa vòm cong mềm mại và năm mái vòm bố cục cân đối, tạo nên một trong những mặt tiền đẹp nhất Quảng trường Kremlin. Sau thời Xô-viết, không gian bên trong được chuyển thành Phòng trưng bày Mỹ thuật vùng Vologda - một trong những bảo tàng nghệ thuật quan trọng của miền Bắc, lưu giữ tranh biểu tượng cổ, hội hoạ Nga thế kỷ 18-20, đồ hoạ và nghệ thuật trang trí. Việc ghé thăm cho phép du khách vừa chiêm ngưỡng kiến trúc nhà thờ Baroque, vừa thưởng lãm bộ sưu tập mỹ thuật, đồng thời cảm nhận cách người Nga tái sử dụng di sản tôn giáo cho đời sống văn hoá đương đại.",
+    "highlights_vi": [
+      "Nhà thờ Baroque 'ấm' (1772-1776) trên Quảng trường Kremlin",
+      "Nay là toà nhà trung tâm của Phòng trưng bày Mỹ thuật vùng Vologda",
+      "Bộ sưu tập tranh biểu tượng và hội hoạ Nga thế kỷ 18-20"
+    ],
+    "practical": {
+      "hours_vi": "Phòng tranh thường mở 10:00-18:00, nghỉ một ngày đầu tuần (kiểm tra lịch).",
+      "ticket_vi": "Có vé vào các triển lãm; vé kết hợp nhiều điểm của bảo tàng.",
+      "duration_vi": "Khoảng 1-1,5 giờ.",
+      "best_time_vi": "Quanh năm; kết hợp tham quan cả quần thể Kremlin.",
+      "tips_vi": "Ngay trên Quảng trường Kremlin, cạnh Nhà thờ Thánh Sophia và tháp chuông."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D0%BE%D1%81%D0%BA%D1%80%D0%B5%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D0%B1%D0%BE%D1%80&ll=39.883421,59.224027&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Resurrection%20Cathedral%20%28Vologda%20Regional%20Picture%20Gallery%29%2C%20Russia"
+    },
+    "official_site": "https://www.vologdamuseum.ru/",
+    "sources": [
+      {
+        "title": "sobory.ru — Воскресенский собор в Вологде",
+        "url": "https://sobory.ru/article/?object=00234"
+      },
+      {
+        "title": "Wikipedia (RU) — Воскресенский собор (Вологда)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D0%BA%D1%80%D0%B5%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%28%D0%92%D0%BE%D0%BB%D0%BE%D0%B3%D0%B4%D0%B0%29"
+      }
+    ],
+    "tags": [
+      "church",
+      "museum",
+      "art-gallery",
+      "baroque",
+      "vologda"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "vologda-sretenskaya-church-vologda",
+    "slug": "sretenskaya-church-vologda",
+    "region": "vologda",
+    "region_name_vi": "Tỉnh Vologda",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Nhà thờ Sretenskaya (Сретенская церковь, đọc: Xrê-ten-xka-ia xéc-kốp)",
+    "name_ru": "Сретенская церковь",
+    "name_en": "Sretenskaya (Presentation) Church",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 59.227435,
+      "lon": 39.879914
+    },
+    "address_vi": "Bờ kè Đội quân số 6 (набережная 6-й Армии) 85, khu Zarechye, thành phố Vologda, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Ngôi nhà thờ lộng lẫy bên bờ bắc sông Vologda, xây 1731-1735, nổi bật với trang trí pseudo-gothic tinh xảo và tháp chuông duyên dáng soi bóng nước.",
+    "presentation_long_vi": "Nhà thờ Sretenskaya (Dâng Chúa vào Đền thánh) đứng bên bờ Zarechye của sông Vologda, đối diện quần thể trung tâm phố cổ. Được xây năm 1731-1735, đây là một trong những nhà thờ đẹp và nhiều chi tiết nhất thành phố: tường trắng phủ dày các hoạ tiết trang trí, cửa sổ viền cầu kỳ, và về sau được bổ sung những yếu tố pseudo-gothic khiến diện mạo trở nên nhẹ nhàng, gần như 'ren đá'. Tháp chuông cao vươn lên phản chiếu xuống mặt nước, tạo nên một trong những khung hình được yêu thích nhất khi ngắm Vologda từ bờ đối diện. Bờ kè Đội quân số 6 nơi nhà thờ toạ lạc là tuyến đi dạo đẹp, nối liền nhiều nhà thờ cổ vùng Zarechye. Với du khách, Sretenskaya là điểm nhấn kiến trúc và cũng là góc chụp ảnh kinh điển của phố sông Vologda.",
+    "highlights_vi": [
+      "Nhà thờ 1731-1735 với trang trí pseudo-gothic tinh xảo",
+      "Vị trí bên bờ Zarechye, soi bóng xuống sông Vologda",
+      "Góc chụp ảnh kinh điển của phố cổ Vologda"
+    ],
+    "practical": {
+      "hours_vi": "Mở theo giờ lễ; bên ngoài ngắm và chụp ảnh tự do.",
+      "ticket_vi": "Miễn phí (có thể quyên góp).",
+      "duration_vi": "Khoảng 20-30 phút.",
+      "best_time_vi": "Chiều muộn khi ánh nắng chiếu vào mặt tiền và mặt nước.",
+      "tips_vi": "Đi dọc bờ kè Zarechye để ngắm dãy nhà thờ cổ và toàn cảnh trung tâm bên kia sông."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D1%80%D0%B5%D1%82%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C&ll=39.879914,59.227435&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Sretenskaya%20%28Presentation%29%20Church%2C%20Vologda%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "sobory.ru — Сретенская церковь в Вологде",
+        "url": "https://sobory.ru/article/?object=04563"
+      },
+      {
+        "title": "Wikipedia (RU) — Сретенская церковь (Вологда)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%A1%D1%80%D0%B5%D1%82%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%28%D0%92%D0%BE%D0%BB%D0%BE%D0%B3%D0%B4%D0%B0%29"
+      }
+    ],
+    "tags": [
+      "church",
+      "orthodox",
+      "pseudo-gothic",
+      "riverside",
+      "vologda"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "vologda-world-of-forgotten-things-vologda",
+    "slug": "world-of-forgotten-things-vologda",
+    "region": "vologda",
+    "region_name_vi": "Tỉnh Vologda",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Bảo tàng 'Thế giới những vật bị lãng quên' (Мир забытых вещей, đọc: Mir za-bư-tức vê-shêi)",
+    "name_ru": "Музей «Мир забытых вещей»",
+    "name_en": "Museum 'World of Forgotten Things'",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 59.224812,
+      "lon": 39.877104
+    },
+    "address_vi": "Phố Leningradskaya (ул. Ленинградская) 6, thành phố Vologda, tỉnh Vologda, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng đời thường độc đáo trong một biệt thự gỗ cổ, tái hiện nếp sinh hoạt và đồ dùng của giới thị dân, quý tộc Vologda thế kỷ 19.",
+    "presentation_long_vi": "Đặt trong một biệt thự gỗ hai tầng duyên dáng ở khu Verkhny Posad, bảo tàng 'Thế giới những vật bị lãng quên' mở cửa năm 1991 và nhanh chóng trở thành một trong những điểm đến được yêu thích nhất Vologda. Thay vì trưng bày hiện vật quý hiếm, nơi đây phục dựng không gian sống của gia đình thị dân và quý tộc tỉnh lỵ thế kỷ 19: phòng khách với đàn piano, phòng ăn, phòng đọc, những món đồ nội thất, đèn, đồng hồ, ảnh chân dung và vô số 'vật dụng bị lãng quên' của đời sống xưa. Một phần trưng bày dành cho chân dung hội hoạ vùng Vologda, giúp khách hình dung gương mặt của cư dân thành phố trong quá khứ. Không khí ấm cúng, chi tiết tỉ mỉ và lối kể chuyện gần gũi khiến bảo tàng như một chuyến 'du hành thời gian' về nước Nga tỉnh lỵ, đồng thời là ví dụ đẹp về kiến trúc gỗ dân dụng của Vologda.",
+    "highlights_vi": [
+      "Bảo tàng đời thường trong biệt thự gỗ cổ (mở 1991)",
+      "Tái hiện phòng khách, phòng ăn của thị dân thế kỷ 19",
+      "Sưu tập chân dung hội hoạ và đồ dùng sinh hoạt xưa"
+    ],
+    "practical": {
+      "hours_vi": "Thường mở 10:00-17:00, nghỉ một ngày đầu tuần (kiểm tra lịch).",
+      "ticket_vi": "Có vé vào cửa, giá bình dân.",
+      "duration_vi": "Khoảng 1 giờ.",
+      "best_time_vi": "Quanh năm; kết hợp dạo ngắm nhà gỗ khu Verkhny Posad.",
+      "tips_vi": "Nằm gần trung tâm; là ví dụ điển hình của kiến trúc gỗ Vologda."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%B9%20%C2%AB%D0%9C%D0%B8%D1%80%20%D0%B7%D0%B0%D0%B1%D1%8B%D1%82%D1%8B%D1%85%20%D0%B2%D0%B5%D1%89%D0%B5%D0%B9%C2%BB&ll=39.877104,59.224812&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Museum%20%27World%20of%20Forgotten%20Things%27%2C%20Vologda%2C%20Russia"
+    },
+    "official_site": "https://www.vologdamuseum.ru/",
+    "sources": [
+      {
+        "title": "Culture.ru — Мир забытых вещей",
+        "url": "https://www.culture.ru/institutes/11723/muzei-mir-zabytykh-veshei"
+      },
+      {
+        "title": "Cultinfo.ru — Мир забытых вещей",
+        "url": "https://cultinfo.ru/museums/regional-museums/the-vologda-museum-zapovednik/the-world-of-forgotten-things.php"
+      }
+    ],
+    "tags": [
+      "museum",
+      "everyday-life",
+      "wooden-architecture",
+      "19th-century",
+      "vologda"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "vologda-vologda-drama-theatre",
+    "slug": "vologda-drama-theatre",
+    "region": "vologda",
+    "region_name_vi": "Tỉnh Vologda",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Nhà hát Kịch Vologda (Вологодский драматический театр, đọc: Va-la-gốt-xki dra-ma-ti-tres-ki tia-átr)",
+    "name_ru": "Вологодский драматический театр",
+    "name_en": "Vologda State Drama Theatre",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 59.216779,
+      "lon": 39.897507
+    },
+    "address_vi": "Đại lộ Sovetsky (Советский проспект) 1, thành phố Vologda, tỉnh Vologda, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Một trong những nhà hát kịch lâu đời nhất nước Nga (thành lập năm 1849), sân khấu chính của đời sống văn hoá Vologda suốt gần hai thế kỷ.",
+    "presentation_long_vi": "Nhà hát Kịch Vologda thành lập năm 1849, thuộc hàng những nhà hát kịch tỉnh lâu đời nhất nước Nga. Trải qua nhiều địa điểm và biến thiên lịch sử, nhà hát ngày nay hoạt động trong toà nhà bề thế đầu đại lộ Sovetsky, gần trung tâm và bờ sông. Suốt gần hai thế kỷ, đây là sân khấu chính của Vologda, dàn dựng cả kịch cổ điển Nga (Ostrovsky, Chekhov, Gogol) lẫn kịch hiện đại và các vở dành cho thiếu nhi. Nhà hát cũng là nơi diễn ra các liên hoan sân khấu vùng và những sự kiện văn hoá lớn của thành phố. Với du khách quan tâm tới nghệ thuật biểu diễn, việc xem một buổi diễn ở đây là cách thú vị để hoà vào nhịp sống văn hoá đương đại của Vologda; ngay cả khi không xem kịch, toà nhà và quảng trường phía trước vẫn là điểm tham quan đẹp ở trung tâm.",
+    "highlights_vi": [
+      "Thành lập 1849 - một trong những nhà hát kịch lâu đời nhất Nga",
+      "Sân khấu chính của đời sống văn hoá Vologda",
+      "Diễn cả kịch cổ điển Nga lẫn kịch hiện đại và thiếu nhi"
+    ],
+    "practical": {
+      "hours_vi": "Buổi diễn thường vào buổi tối và cuối tuần; xem lịch trên trang chính thức.",
+      "ticket_vi": "Mua vé theo suất diễn, giá tuỳ vở và vị trí ghế.",
+      "duration_vi": "Buổi diễn khoảng 2-3 giờ.",
+      "best_time_vi": "Mùa diễn thu-đông-xuân; mùa hè có thể nghỉ hoặc lưu diễn.",
+      "tips_vi": "Đặt vé trước cho các vở nổi tiếng; đến sớm để kịp gửi áo khoác mùa đông."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D0%BE%D0%BB%D0%BE%D0%B3%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D1%82%D0%B5%D0%B0%D1%82%D1%80&ll=39.897507,59.216779&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Vologda%20State%20Drama%20Theatre%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Вологодский драматический театр",
+        "url": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%BB%D0%BE%D0%B3%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80"
+      },
+      {
+        "title": "Culture.ru — Вологодский драматический театр",
+        "url": "https://www.culture.ru/institutes/10357/vologodskii-dramaticheskii-teatr"
+      }
+    ],
+    "tags": [
+      "theatre",
+      "culture",
+      "performing-arts",
+      "history",
+      "vologda"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "vologda-vologda-exile-museum",
+    "slug": "vologda-exile-museum",
+    "region": "vologda",
+    "region_name_vi": "Tỉnh Vologda",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Bảo tàng 'Vologda lưu đày' (Дом-музей «Вологодская ссылка», đọc: Va-la-gốt-xka-ia xxứn-ka)",
+    "name_ru": "Дом-музей «Вологодская ссылка»",
+    "name_en": "House-Museum 'Vologda Exile'",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 59.215877,
+      "lon": 39.884486
+    },
+    "address_vi": "Phố Marii Ulyanovoy (ул. Марии Ульяновой) 33, thành phố Vologda, tỉnh Vologda, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng đặt trong ngôi nhà gỗ nơi Iosif Stalin từng sống thời bị lưu đày (1911-1912), kể về Vologda như một trong những nơi giam lỏng nổi tiếng của nước Nga Sa hoàng.",
+    "presentation_long_vi": "Cuối thế kỷ 19 - đầu thế kỷ 20, Vologda là một trong những địa điểm quen thuộc để chính quyền Sa hoàng đày ải những người hoạt động chính trị; hàng nghìn người - trong đó có nhiều nhân vật cách mạng nổi tiếng - từng bị giam lỏng tại đây, đến mức thành phố có biệt danh 'Siberia gần'. Bảo tàng 'Vologda lưu đày' mở trong ngôi nhà gỗ nơi Iosif Dzhugashvili (Stalin) sống những tháng cuối kỳ lưu đày 1911-1912. Trưng bày tái hiện nội thất một căn nhà thuê thời đó và kể câu chuyện rộng hơn về chế độ lưu đày chính trị: điều kiện sinh sống, sự giám sát của cảnh sát, đời sống của giới trí thức bị đày và mạng lưới liên lạc bí mật. Sau nhiều thay đổi về cách diễn giải qua các thời kỳ, bảo tàng ngày nay tập trung vào hiện tượng lịch sử - xã hội của việc lưu đày, giúp khách hiểu một mặt ít được nhắc tới trong lịch sử thành phố. Đây là điểm đến dành cho người quan tâm lịch sử chính trị Nga cận đại.",
+    "highlights_vi": [
+      "Ngôi nhà gỗ nơi Stalin sống thời lưu đày 1911-1912",
+      "Kể về Vologda như nơi lưu đày chính trị nổi tiếng ('Siberia gần')",
+      "Tái hiện đời sống trí thức bị đày đầu thế kỷ 20"
+    ],
+    "practical": {
+      "hours_vi": "Thường mở 10:00-17:00, nghỉ một ngày đầu tuần (kiểm tra lịch).",
+      "ticket_vi": "Có vé vào cửa, giá bình dân.",
+      "duration_vi": "Khoảng 45 phút - 1 giờ.",
+      "best_time_vi": "Quanh năm.",
+      "tips_vi": "Chủ đề lịch sử chính trị; nên đi cùng hướng dẫn để hiểu bối cảnh."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%94%D0%BE%D0%BC-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%20%C2%AB%D0%92%D0%BE%D0%BB%D0%BE%D0%B3%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%C2%BB&ll=39.884486,59.215877&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=House-Museum%20%27Vologda%20Exile%27%2C%20Russia"
+    },
+    "official_site": "https://www.vologdamuseum.ru/",
+    "sources": [
+      {
+        "title": "Culture.ru — Дом-музей «Вологодская ссылка»",
+        "url": "https://www.culture.ru/institutes/11722/dom-muzei-vologodskaya-ssylka"
+      },
+      {
+        "title": "Cultinfo.ru — Вологодская ссылка",
+        "url": "https://cultinfo.ru/museums/regional-museums/the-vologda-museum-zapovednik/vologda-exile.php"
+      }
+    ],
+    "tags": [
+      "museum",
+      "history",
+      "political-exile",
+      "20th-century",
+      "vologda"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "vologda-kremlin-square-embankment-vologda",
+    "slug": "kremlin-square-embankment-vologda",
+    "region": "vologda",
+    "region_name_vi": "Tỉnh Vologda",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Quảng trường Kremlin và bờ kè sông Vologda (Кремлёвская площадь, đọc: Krem-liốp-xka-ia plô-shạt)",
+    "name_ru": "Кремлёвская площадь и набережная реки Вологды",
+    "name_en": "Kremlin Square & Vologda River Embankment",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 59.2235,
+      "lon": 39.8837
+    },
+    "address_vi": "Quảng trường Kremlin và bờ kè sông Vologda, trung tâm thành phố Vologda, tỉnh Vologda, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Quảng trường lịch sử ngay dưới chân điện Kremlin, mở ra bờ kè sông Vologda - trục dạo bộ và ngắm cảnh đẹp nhất trung tâm phố cổ.",
+    "presentation_long_vi": "Quảng trường Kremlin là trái tim lịch sử của Vologda: nằm ngay dưới chân Nhà thờ Thánh Sophia, tháp chuông và Sân Giám mục, quảng trường lát đá được bao quanh bởi các công trình di sản như Nhà thờ Phục Sinh, Bảo tàng ren và nhiều toà nhà cổ. Từ đây, đồi Sobornaya thoải xuống bờ kè sông Vologda - tuyến đi dạo được yêu thích nhất thành phố, nơi du khách có thể ngắm dòng sông, những nhà thờ cổ bên bờ Zarechye đối diện và toàn cảnh mái vòm phố cổ. Quảng trường và bờ kè cũng là nơi diễn ra các lễ hội, hội chợ thủ công, biểu diễn ngoài trời và bắn pháo hoa trong những dịp lễ lớn. Đi bộ một vòng khu vực này là cách tốt nhất để cảm nhận nhịp sống, kiến trúc và cảnh quan sông nước đặc trưng của Vologda, đặc biệt vào lúc hoàng hôn khi tường trắng nhà thờ nhuộm vàng và mặt sông lấp lánh.",
+    "highlights_vi": [
+      "Quảng trường lịch sử dưới chân điện Kremlin và Nhà thờ Thánh Sophia",
+      "Bờ kè sông Vologda - tuyến đi dạo và ngắm cảnh đẹp nhất trung tâm",
+      "Nơi diễn ra lễ hội, hội chợ và bắn pháo hoa dịp lễ"
+    ],
+    "practical": {
+      "hours_vi": "Không gian ngoài trời, tham quan tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 1 giờ đi dạo.",
+      "best_time_vi": "Cuối xuân đến đầu thu; đặc biệt đẹp lúc hoàng hôn.",
+      "tips_vi": "Kết hợp tham quan Kremlin, Bảo tàng ren và nhà thờ khu Zarechye bên kia sông."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%91%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C%20%D0%B8%20%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B5%D0%BA%D0%B8%20%D0%92%D0%BE%D0%BB%D0%BE%D0%B3%D0%B4%D1%8B&ll=39.8837,59.2235&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kremlin%20Square%20%26%20Vologda%20River%20Embankment%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Кремлёвская площадь (Вологда)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%91%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C_%28%D0%92%D0%BE%D0%BB%D0%BE%D0%B3%D0%B4%D0%B0%29"
+      },
+      {
+        "title": "Culture.ru — Вологодский музей-заповедник",
+        "url": "https://www.culture.ru/institutes/11720/vologodskii-muzei-zapovednik"
+      }
+    ],
+    "tags": [
+      "square_street",
+      "riverside",
+      "promenade",
+      "historic-center",
+      "vologda"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "vologda-vereshchagin-house-museum-cherepovets",
+    "slug": "vereshchagin-house-museum-cherepovets",
+    "region": "vologda",
+    "region_name_vi": "Tỉnh Vologda",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Nhà lưu niệm gia đình Vereshchagin (Дом-музей Верещагиных, đọc: Vê-rê-sa-ghin)",
+    "name_ru": "Дом-музей Верещагиных",
+    "name_en": "Vereshchagin House-Museum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 59.120976,
+      "lon": 37.932094
+    },
+    "address_vi": "Phố Sotsialisticheskaya (ул. Социалистическая) 22, thành phố Cherepovets, tỉnh Vologda, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Ngôi nhà thời thơ ấu của danh hoạ chiến tranh Vasily Vereshchagin và người anh Nikolai - 'cha đẻ nghề làm bơ Nga', nay là bảo tàng gia đình quý tộc thế kỷ 19.",
+    "presentation_long_vi": "Cherepovets là quê hương của gia đình Vereshchagin, nổi bật với hai người con: hoạ sĩ Vasily Vereshchagin - bậc thầy tranh chiến tranh và phương Đông nổi tiếng thế giới, và Nikolai Vereshchagin - người tiên phong phát triển nghề làm bơ, phô mai công nghiệp ở Nga, được mệnh danh 'cha đẻ ngành bơ sữa Nga'. Bảo tàng đặt trong ngôi nhà gỗ thời thơ ấu của họ (cùng toà nhà kế bên), phục dựng nội thất một gia đình quý tộc tỉnh lỵ giữa thế kỷ 19: phòng khách, phòng làm việc, đồ nội thất, chân dung và các kỷ vật gia đình. Một phần trưng bày dành cho sự nghiệp hội hoạ của Vasily Vereshchagin qua bản sao, tư liệu và câu chuyện cuộc đời phiêu bạt của ông; phần khác kể về đóng góp của Nikolai cho nông nghiệp Nga. Đây là điểm đến văn hoá quan trọng bậc nhất của Cherepovets - thành phố công nghiệp lớn nhất tỉnh Vologda.",
+    "highlights_vi": [
+      "Nhà thời thơ ấu của danh hoạ Vasily Vereshchagin",
+      "Gắn với Nikolai Vereshchagin - 'cha đẻ nghề làm bơ Nga'",
+      "Phục dựng nếp sống gia đình quý tộc tỉnh lỵ thế kỷ 19"
+    ],
+    "practical": {
+      "hours_vi": "Thường mở 10:00-17:00, nghỉ một ngày đầu tuần (kiểm tra lịch).",
+      "ticket_vi": "Có vé vào cửa, giá bình dân.",
+      "duration_vi": "Khoảng 1-1,5 giờ.",
+      "best_time_vi": "Quanh năm.",
+      "tips_vi": "Điểm văn hoá chính của Cherepovets; kết hợp dạo đồi Sobornaya và nhà thờ Phục Sinh gần đó."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%94%D0%BE%D0%BC-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%20%D0%92%D0%B5%D1%80%D0%B5%D1%89%D0%B0%D0%B3%D0%B8%D0%BD%D1%8B%D1%85&ll=37.932094,59.120976&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Vereshchagin%20House-Museum%2C%20Vologda%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Дом-музей Верещагиных",
+        "url": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BC-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9_%D0%92%D0%B5%D1%80%D0%B5%D1%89%D0%B0%D0%B3%D0%B8%D0%BD%D1%8B%D1%85"
+      },
+      {
+        "title": "Culture.ru — Музей Верещагиных, Череповец",
+        "url": "https://www.culture.ru/institutes/12053/muzei-vereshaginykh"
+      }
+    ],
+    "tags": [
+      "museum",
+      "vereshchagin",
+      "art",
+      "history",
+      "cherepovets"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "vologda-cherepovets-resurrection-cathedral",
+    "slug": "cherepovets-resurrection-cathedral",
+    "region": "vologda",
+    "region_name_vi": "Tỉnh Vologda",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Nhà thờ Phục Sinh Cherepovets (Воскресенский собор, đọc: Vô-xkrê-xen-xki xa-bo)",
+    "name_ru": "Воскресенский собор (Череповец)",
+    "name_en": "Resurrection Cathedral (Cherepovets)",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 59.119157,
+      "lon": 37.92845
+    },
+    "address_vi": "Đồi Sobornaya (Соборная горка) 1, thành phố Cherepovets, tỉnh Vologda, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Ngôi nhà thờ cổ nhất Cherepovets, dấu tích của tu viện Phục Sinh - cội nguồn hình thành thành phố, toạ lạc trên đồi Sobornaya bên sông Sheksna.",
+    "presentation_long_vi": "Nhà thờ Phục Sinh là công trình cổ nhất và là cái nôi lịch sử của Cherepovets. Thành phố lớn ra từ một tu viện Phục Sinh do hai nhà tu hành Feodosy và Afanasy lập vào thế kỷ 14; sau khi tu viện bị bãi bỏ cuối thế kỷ 18, ngôi nhà thờ chính của nó vẫn được giữ lại và trở thành trung tâm tinh thần của khu định cư mới. Toà nhà thờ đá năm mái vòm mang nét kiến trúc tỉnh lỵ mộc mạc, đứng trên đồi Sobornaya nhìn ra sông Sheksna và hồ chứa Rybinsk phía xa. Sau thời kỳ Xô-viết bị đóng cửa, nhà thờ đã được phục hồi và trở lại hoạt động tôn giáo, đồng thời là điểm tham quan lịch sử gợi nhớ nguồn gốc tu viện của thành phố công nghiệp Cherepovets ngày nay. Khu đồi quanh nhà thờ là không gian dạo bộ đẹp với tượng đài hai nhà sáng lập tu viện.",
+    "highlights_vi": [
+      "Công trình cổ nhất Cherepovets, cội nguồn của thành phố",
+      "Dấu tích tu viện Phục Sinh lập từ thế kỷ 14",
+      "Vị trí đẹp trên đồi Sobornaya nhìn ra sông Sheksna"
+    ],
+    "practical": {
+      "hours_vi": "Mở theo giờ lễ và ban ngày; giữ trang phục kín đáo khi vào.",
+      "ticket_vi": "Miễn phí (có thể quyên góp).",
+      "duration_vi": "Khoảng 30-45 phút.",
+      "best_time_vi": "Quanh năm; mùa ấm thuận tiện dạo đồi Sobornaya.",
+      "tips_vi": "Nữ nên mang khăn trùm đầu; kết hợp thăm nhà Vereshchagin gần đó."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D0%BE%D1%81%D0%BA%D1%80%D0%B5%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D0%B1%D0%BE%D1%80%20%28%D0%A7%D0%B5%D1%80%D0%B5%D0%BF%D0%BE%D0%B2%D0%B5%D1%86%29&ll=37.92845,59.119157&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Resurrection%20Cathedral%20%28Cherepovets%29%2C%20Vologda%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "sobory.ru — Воскресенский собор в Череповце",
+        "url": "https://sobory.ru/article/?object=00242"
+      },
+      {
+        "title": "Wikipedia (RU) — Воскресенский собор (Череповец)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D0%BA%D1%80%D0%B5%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%28%D0%A7%D0%B5%D1%80%D0%B5%D0%BF%D0%BE%D0%B2%D0%B5%D1%86%29"
+      }
+    ],
+    "tags": [
+      "church",
+      "orthodox",
+      "monastery-origin",
+      "history",
+      "cherepovets"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "vologda-oktyabrsky-bridge-cherepovets",
+    "slug": "oktyabrsky-bridge-cherepovets",
+    "region": "vologda",
+    "region_name_vi": "Tỉnh Vologda",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Cầu Oktyabrsky (Октябрьский мост, đọc: Ac-tia-brxki môxt)",
+    "name_ru": "Октябрьский мост (Череповец)",
+    "name_en": "Oktyabrsky Bridge (Cherepovets)",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 59.114221,
+      "lon": 37.903425
+    },
+    "address_vi": "Bắc qua sông Sheksna, thành phố Cherepovets, tỉnh Vologda, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Cây cầu dây văng đầu tiên của nước Nga (khánh thành 1979), biểu tượng hiện đại của Cherepovets bắc qua sông Sheksna với tháp trụ cao 84 m.",
+    "presentation_long_vi": "Cầu Oktyabrsky bắc qua sông Sheksna là cây cầu dây văng đầu tiên được xây dựng ở nước Nga (khi đó là Liên Xô), khánh thành năm 1979 sau nhiều năm thi công. Với hệ dây văng buông từ tháp trụ bê tông cao khoảng 84 m, cầu không chỉ giải quyết nhu cầu giao thông giữa hai bờ của thành phố công nghiệp Cherepovets mà còn trở thành một biểu tượng kỹ thuật và thẩm mỹ hiện đại của cả vùng. Vào ban đêm, hệ dây và tháp trụ được chiếu sáng, tạo nên khung cảnh ấn tượng phản chiếu xuống mặt sông. Cầu là điểm nhấn cảnh quan đô thị hiếm có ở miền Bắc nước Nga và thường xuất hiện trong các bức ảnh biểu trưng của Cherepovets. Du khách có thể ngắm cầu từ bờ kè sông Sheksna hoặc khi di chuyển qua thành phố, cảm nhận sự tương phản giữa di sản cổ (đồi Sobornaya) và biểu tượng công nghiệp - kỹ thuật đương đại.",
+    "highlights_vi": [
+      "Cây cầu dây văng đầu tiên của nước Nga (1979)",
+      "Tháp trụ cao khoảng 84 m bắc qua sông Sheksna",
+      "Biểu tượng hiện đại và điểm chụp ảnh của Cherepovets"
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, ngắm tự do mọi lúc; đẹp nhất khi lên đèn buổi tối.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 20-30 phút ngắm cảnh.",
+      "best_time_vi": "Quanh năm; buổi tối cầu được chiếu sáng.",
+      "tips_vi": "Ngắm từ bờ kè sông Sheksna để có góc nhìn toàn cảnh dây văng."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9E%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D1%81%D1%82%20%28%D0%A7%D0%B5%D1%80%D0%B5%D0%BF%D0%BE%D0%B2%D0%B5%D1%86%29&ll=37.903425,59.114221&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Oktyabrsky%20Bridge%20%28Cherepovets%29%2C%20Vologda%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Октябрьский мост (Череповец)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D1%81%D1%82_%28%D0%A7%D0%B5%D1%80%D0%B5%D0%BF%D0%BE%D0%B2%D0%B5%D1%86%29"
+      },
+      {
+        "title": "Wikipedia (EN) — Oktyabrsky Bridge (Cherepovets)",
+        "url": "https://en.wikipedia.org/wiki/Oktyabrsky_Bridge_%28Cherepovets%29"
+      }
+    ],
+    "tags": [
+      "bridge",
+      "cable-stayed",
+      "engineering",
+      "modern",
+      "cherepovets"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "vologda-belozersk-kremlin",
+    "slug": "belozersk-kremlin",
+    "region": "vologda",
+    "region_name_vi": "Tỉnh Vologda",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Kremlin Belozersk - thành luỹ đất (Белозерский кремль, đọc: Bê-la-diốp-xki krem)",
+    "name_ru": "Белозерский кремль",
+    "name_en": "Belozersk Kremlin (earthen ramparts)",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 60.031738,
+      "lon": 37.784478
+    },
+    "address_vi": "Trung tâm thị trấn Belozersk, bên hồ Beloye, tỉnh Vologda, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Vòng thành đất khổng lồ đắp năm 1487 với hào bao quanh - trái tim của Belozersk, một trong những thị trấn cổ nhất nước Nga bên hồ Beloye.",
+    "presentation_long_vi": "Belozersk (Beloozero) được nhắc tới trong biên niên sử từ năm 862, thuộc hàng những thị trấn cổ nhất nước Nga và gắn với truyền thuyết về công tước Sineus - em của Rurik. Trung tâm lịch sử của thị trấn là 'kremlin' - nhưng không phải tường đá mà là một vòng thành đất đồ sộ được đắp năm 1487 theo lệnh của Đại công Ivan III, cao tới hàng chục mét và bao quanh bởi hào sâu. Đứng trên đỉnh luỹ đất, du khách có tầm nhìn bao quát toàn thị trấn và mặt hồ Beloye mênh mông. Bên trong vòng thành là Nhà thờ Chúa Biến Hình (Спасо-Преображенский собор) thế kỷ 17 với nội thất chạm khắc phong phú, cùng cây cầu gỗ bắc qua hào dẫn vào thành. Cụm di tích thành đất - nhà thờ - hồ nước tạo nên một trong những cảnh quan lịch sử nguyên sơ và giàu chất sử thi nhất miền Bắc nước Nga, hấp dẫn khách ưa lịch sử và nhiếp ảnh.",
+    "highlights_vi": [
+      "Vòng thành đất đắp năm 1487, cao hàng chục mét, có hào bao quanh",
+      "Trái tim của Belozersk - thị trấn cổ nhắc tới từ năm 862",
+      "Tầm nhìn bao quát thị trấn và hồ Beloye từ đỉnh luỹ"
+    ],
+    "practical": {
+      "hours_vi": "Thành đất ngoài trời tham quan tự do; nhà thờ bên trong mở theo giờ.",
+      "ticket_vi": "Vào khu thành miễn phí; bảo tàng/nhà thờ có thể bán vé riêng.",
+      "duration_vi": "Khoảng 1,5-2 giờ.",
+      "best_time_vi": "Cuối xuân đến đầu thu để leo luỹ và ngắm hồ.",
+      "tips_vi": "Cách Vologda ~215 km; đi giày thoải mái để leo luỹ đất, dốc và trơn khi ướt."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%91%D0%B5%D0%BB%D0%BE%D0%B7%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D1%80%D0%B5%D0%BC%D0%BB%D1%8C&ll=37.784478,60.031738&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Belozersk%20Kremlin%20%28earthen%20ramparts%29%2C%20Vologda%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Белозерский кремль",
+        "url": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D0%BE%D0%B7%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B5%D0%BC%D0%BB%D1%8C"
+      },
+      {
+        "title": "Wikipedia (EN) — Belozersk",
+        "url": "https://en.wikipedia.org/wiki/Belozersk"
+      }
+    ],
+    "tags": [
+      "fortress",
+      "kremlin",
+      "earthworks",
+      "ancient-town",
+      "belozersk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "vologda-belozersk-elijah-church",
+    "slug": "belozersk-elijah-church",
+    "region": "vologda",
+    "region_name_vi": "Tỉnh Vologda",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Nhà thờ gỗ Tiên tri Ilya (Церковь Ильи Пророка, đọc: Xéc-kốp I-li Pra-rô-ka)",
+    "name_ru": "Церковь Ильи Пророка (Белозерск)",
+    "name_en": "Wooden Church of the Prophet Elijah (Belozersk)",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 60.031793,
+      "lon": 37.772884
+    },
+    "address_vi": "Phố Shukshina (ул. Шукшина), thị trấn Belozersk, tỉnh Vologda, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhà thờ gỗ nhiều tầng dựng năm 1690-1696 - kiệt tác kiến trúc gỗ dân gian miền Bắc còn sót lại ở Belozersk.",
+    "presentation_long_vi": "Nhà thờ Tiên tri Ilya (Ilya Prorok) ở Belozersk là một trong số ít nhà thờ gỗ cổ còn nguyên vẹn của tỉnh Vologda, được dựng năm 1690-1696. Công trình mang kiểu 'nhiều tầng' (yarusnaya) đặc trưng của kiến trúc gỗ miền Bắc: các khối lăng trụ chồng lên nhau thu nhỏ dần, đỉnh là mái vòm nhỏ trên cổ trụ, toàn bộ ghép mộng bằng gỗ không dùng đinh sắt theo lối truyền thống. Nằm ở rìa phía tây khu thành đất, ngôi nhà thờ mộc mạc với lớp gỗ ngả màu thời gian gợi nhớ hình ảnh nước Nga cổ xưa và là ví dụ quý về nghệ thuật thợ mộc dân gian, gần gũi với các di sản gỗ nổi tiếng của Kizhi hay bảo tàng Semyonkovo. Dù nhiều thời điểm đang trong quá trình trùng tu, nhà thờ vẫn là điểm dừng đáng giá khi tham quan Belozersk, bổ sung cho quần thể thành đất và nhà thờ đá bên hồ Beloye.",
+    "highlights_vi": [
+      "Nhà thờ gỗ nhiều tầng dựng 1690-1696, ghép mộng không dùng đinh sắt",
+      "Ví dụ quý của kiến trúc gỗ dân gian miền Bắc nước Nga",
+      "Nằm sát khu thành đất Belozersk"
+    ],
+    "practical": {
+      "hours_vi": "Bên ngoài ngắm tự do; bên trong tuỳ tình trạng trùng tu.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 20-30 phút.",
+      "best_time_vi": "Cuối xuân đến đầu thu.",
+      "tips_vi": "Kết hợp tham quan thành đất Belozersk; kiểm tra xem có đang đóng để trùng tu không."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C%20%D0%98%D0%BB%D1%8C%D0%B8%20%D0%9F%D1%80%D0%BE%D1%80%D0%BE%D0%BA%D0%B0%20%28%D0%91%D0%B5%D0%BB%D0%BE%D0%B7%D0%B5%D1%80%D1%81%D0%BA%29&ll=37.772884,60.031793&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Wooden%20Church%20of%20the%20Prophet%20Elijah%20%28Belozersk%29%2C%20Vologda%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "sobory.ru — Церковь Илии Пророка в Белозерске",
+        "url": "https://sobory.ru/article/?object=00366"
+      },
+      {
+        "title": "Wikipedia (RU) — Церковь Илии Пророка (Белозерск)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%98%D0%BB%D0%B8%D0%B8_%D0%9F%D1%80%D0%BE%D1%80%D0%BE%D0%BA%D0%B0_%28%D0%91%D0%B5%D0%BB%D0%BE%D0%B7%D0%B5%D1%80%D1%81%D0%BA%29"
+      }
+    ],
+    "tags": [
+      "church",
+      "wooden-architecture",
+      "17th-century",
+      "folk-art",
+      "belozersk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "vologda-mount-maura",
+    "slug": "mount-maura",
+    "region": "vologda",
+    "region_name_vi": "Tỉnh Vologda",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Núi Maura (Гора Маура, đọc: Ga-ra Ma-u-ra)",
+    "name_ru": "Гора Маура",
+    "name_en": "Mount Maura",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 59.861853,
+      "lon": 38.272814
+    },
+    "address_vi": "Gần làng Goritsy, huyện Kirillov, tỉnh Vologda, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Ngọn đồi băng tích cao khoảng 185 m gần Goritsy và Kirillov, có đường mòn sinh thái dẫn lên đỉnh với tầm nhìn tuyệt đẹp xuống các tu viện và hồ nước.",
+    "presentation_long_vi": "Núi Maura là một ngọn đồi băng tích (do sông băng để lại) cao khoảng 185 m so với mực nước biển, nằm giữa làng Goritsy và thị trấn Kirillov - vùng tập trung các tu viện lừng danh của miền Bắc nước Nga. Một đường mòn sinh thái lát ván gỗ dẫn qua rừng lên đỉnh, nơi có 'phiến đá dấu chân' gắn với truyền thuyết về Thánh Kirill Belozersky - người tương truyền đã đứng trên đỉnh Maura, phóng tầm mắt và chọn nơi lập tu viện Kirillo-Belozersky. Từ đài quan sát trên đỉnh, du khách thu vào tầm mắt toàn cảnh tu viện Kirillo-Belozersky, tu viện Goritsky, dòng sông Sheksna và những mặt hồ trải rộng - một trong những khung cảnh đẹp và giàu ý nghĩa tâm linh nhất vùng. Cung đường leo nhẹ nhàng, phù hợp cả gia đình, kết hợp thiên nhiên, truyền thuyết và tầm nhìn toàn cảnh, là điểm bổ sung lý tưởng cho hành trình khám phá các tu viện quanh Kirillov.",
+    "highlights_vi": [
+      "Đồi băng tích cao ~185 m với đường mòn sinh thái lên đỉnh",
+      "Truyền thuyết 'phiến đá dấu chân' Thánh Kirill Belozersky",
+      "Tầm nhìn toàn cảnh các tu viện Kirillov, Goritsy và hồ nước"
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tham quan tự do ban ngày.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 1,5-2 giờ cả lên xuống.",
+      "best_time_vi": "Cuối xuân đến đầu thu; tránh ngày mưa vì đường trơn.",
+      "tips_vi": "Đi giày thể thao; kết hợp thăm tu viện Kirillo-Belozersky và Goritsy gần đó."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%93%D0%BE%D1%80%D0%B0%20%D0%9C%D0%B0%D1%83%D1%80%D0%B0&ll=38.272814,59.861853&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Mount%20Maura%2C%20Vologda%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Culttourism.ru — Гора Маура",
+        "url": "https://culttourism.ru/vologodskaya/kirillov/gora_maura.html"
+      },
+      {
+        "title": "Wikipedia (RU) — Маура (гора)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%83%D1%80%D0%B0_%28%D0%B3%D0%BE%D1%80%D0%B0%29"
+      }
+    ],
+    "tags": [
+      "nature",
+      "viewpoint",
+      "hiking",
+      "eco-trail",
+      "kirillov"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "vologda-votchina-ded-moroz",
+    "slug": "votchina-ded-moroz",
+    "region": "vologda",
+    "region_name_vi": "Tỉnh Vologda",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Điền trang Ông già Tuyết Ded Moroz (Вотчина Деда Мороза, đọc: Vốt-tsi-na Đê-đa Ma-rô-da)",
+    "name_ru": "Вотчина Деда Мороза",
+    "name_en": "Ded Moroz (Grandfather Frost) Estate",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 60.747766,
+      "lon": 46.18247
+    },
+    "address_vi": "Khu rừng cách Veliky Ustyug ~13 km, huyện Velikoustyugsky, tỉnh Vologda, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "'Quê hương' chính thức của Ông già Tuyết Nga (Ded Moroz): khu điền trang trong rừng thông với cung điện gỗ chạm trổ, đường mòn cổ tích, vườn thú và trò chơi mùa đông.",
+    "presentation_long_vi": "Từ năm 1999, Veliky Ustyug được chọn làm 'quê hương' chính thức của Ded Moroz - Ông già Tuyết trong văn hoá Nga, và trung tâm của dự án là khu điền trang (votchina) rộng lớn nằm trong rừng thông cách thành phố khoảng 13 km. Trái tim của khu là cung điện gỗ nhiều tầng chạm trổ cầu kỳ, nơi có 'phòng ngủ', 'phòng ngai' và căn phòng ước nguyện của Ded Moroz, dẫn khách qua các gian được trang trí theo chủ đề mùa đông và cổ tích. Xung quanh là 'con đường cổ tích' với các nhân vật dân gian Nga, bưu điện Ded Moroz nhận thư thiếu nhi từ khắp nước, xưởng thủ công, vườn thú nhỏ, sân trượt và nhiều trò chơi ngoài trời. Vào mùa đông và dịp Năm mới, nơi đây trở thành điểm đến đông vui bậc nhất, biến hành trình tới Veliky Ustyug thành một chuyến 'thăm nhà Ông già Tuyết' đúng nghĩa - đặc biệt hấp dẫn với gia đình có trẻ nhỏ.",
+    "highlights_vi": [
+      "'Quê hương' chính thức của Ông già Tuyết Ded Moroz (từ 1999)",
+      "Cung điện gỗ chạm trổ với phòng ngai và phòng ước nguyện",
+      "Đường cổ tích, bưu điện Ded Moroz, vườn thú và trò chơi mùa đông"
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa quanh năm; cao điểm và lung linh nhất vào mùa đông - Năm mới.",
+      "ticket_vi": "Bán vé vào cửa và vé combo cho từng khu; đặt trước dịp lễ.",
+      "duration_vi": "Nửa ngày (3-4 giờ) hoặc hơn.",
+      "best_time_vi": "Mùa đông (tháng 12-2) cho không khí Năm mới; mùa hè yên tĩnh, mát mẻ.",
+      "tips_vi": "Cách Veliky Ustyug ~13 km; mặc ấm và đặt vé/tour trước vào cao điểm."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D0%BE%D1%82%D1%87%D0%B8%D0%BD%D0%B0%20%D0%94%D0%B5%D0%B4%D0%B0%20%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%B0&ll=46.18247,60.747766&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Ded%20Moroz%20%28Grandfather%20Frost%29%20Estate%2C%20Vologda%2C%20Russia"
+    },
+    "official_site": "https://www.votchina-dm.ru/",
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Вотчина Деда Мороза",
+        "url": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%82%D1%87%D0%B8%D0%BD%D0%B0_%D0%94%D0%B5%D0%B4%D0%B0_%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%B0"
+      },
+      {
+        "title": "Culture.ru — Вотчина Деда Мороза",
+        "url": "https://www.culture.ru/institutes/12060/votchina-deda-moroza"
+      }
+    ],
+    "tags": [
+      "theme-park",
+      "ded-moroz",
+      "family",
+      "winter",
+      "veliky-ustyug"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "vologda-uspensky-cathedral-veliky-ustyug",
+    "slug": "uspensky-cathedral-veliky-ustyug",
+    "region": "vologda",
+    "region_name_vi": "Tỉnh Vologda",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Nhà thờ Uspensky và Sân Nhà thờ (Успенский собор, đọc: U-xpen-xki xa-bo)",
+    "name_ru": "Успенский собор (Соборное дворище)",
+    "name_en": "Assumption Cathedral (Cathedral Court)",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 60.76088,
+      "lon": 46.298356
+    },
+    "address_vi": "Sân Nhà thờ (Соборное дворище), bờ sông Sukhona, thành phố Veliky Ustyug, tỉnh Vologda, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhà thờ Đức Mẹ An Giấc là công trình cổ nhất Veliky Ustyug, trung tâm của quần thể 'Sân Nhà thờ' rực rỡ bên bờ sông Sukhona.",
+    "presentation_long_vi": "Nhà thờ Uspensky (Đức Mẹ An Giấc) là công trình đá lâu đời nhất Veliky Ustyug, với hình hài hiện tại chủ yếu định hình từ giữa thế kỷ 17 sau nhiều lần cháy và xây lại. Cùng với tháp chuông cao, nhà thờ tạo thành hạt nhân của 'Sân Nhà thờ' (Соборное дворище) - quần thể các nhà thờ, tháp chuông và toà nhà giáo hội quây quần bên bờ cao của sông Sukhona, tạo nên một trong những đường chân trời (skyline) nhà thờ đẹp nhất miền Bắc nước Nga. Veliky Ustyug xưa là một trung tâm thương mại - thủ công giàu có trên tuyến đường về phương Bắc, nhờ đó tích luỹ được nhiều nhà thờ tráng lệ và các nghề mỹ nghệ nổi tiếng (bạc niello, chạm bạch dương). Đứng ở Sân Nhà thờ nhìn ra sông Sukhona rộng, du khách cảm nhận rõ vẻ đẹp cổ kính, trầm mặc của thành phố - nơi mà ngày nay còn được biết đến như 'quê hương Ông già Tuyết'.",
+    "highlights_vi": [
+      "Công trình đá cổ nhất Veliky Ustyug (định hình từ thế kỷ 17)",
+      "Trung tâm quần thể 'Sân Nhà thờ' bên bờ sông Sukhona",
+      "Một trong những skyline nhà thờ đẹp nhất miền Bắc nước Nga"
+    ],
+    "practical": {
+      "hours_vi": "Mở theo giờ lễ và ban ngày; leo tháp chuông theo mùa/giờ mở.",
+      "ticket_vi": "Vào nhà thờ thường miễn phí; leo tháp chuông và bảo tàng có vé riêng.",
+      "duration_vi": "Khoảng 1-1,5 giờ cả quần thể Sân Nhà thờ.",
+      "best_time_vi": "Cuối xuân đến đầu thu; mùa đông kết hợp thăm Ded Moroz.",
+      "tips_vi": "Đứng bờ kè Sukhona để ngắm toàn cảnh cụm nhà thờ; nữ mang khăn trùm đầu."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D0%B1%D0%BE%D1%80%20%28%D0%A1%D0%BE%D0%B1%D0%BE%D1%80%D0%BD%D0%BE%D0%B5%20%D0%B4%D0%B2%D0%BE%D1%80%D0%B8%D1%89%D0%B5%29&ll=46.298356,60.76088&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Assumption%20Cathedral%20%28Cathedral%20Court%29%2C%20Vologda%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "sobory.ru — Успенский собор в Великом Устюге",
+        "url": "https://sobory.ru/article/?object=00246"
+      },
+      {
+        "title": "Wikipedia (RU) — Успенский собор (Великий Устюг)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%28%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9_%D0%A3%D1%81%D1%82%D1%8E%D0%B3%29"
+      }
+    ],
+    "tags": [
+      "church",
+      "orthodox",
+      "cathedral-court",
+      "riverside",
+      "veliky-ustyug"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "vologda-trinity-gleden-monastery",
+    "slug": "trinity-gleden-monastery",
+    "region": "vologda",
+    "region_name_vi": "Tỉnh Vologda",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Tu viện Troitse-Gledensky (Троице-Гледенский монастырь, đọc: Trô-i-txe Glê-đen-xki)",
+    "name_ru": "Троице-Гледенский монастырь",
+    "name_en": "Trinity-Gleden Monastery",
+    "categories": [
+      "church",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 60.71821,
+      "lon": 46.3087
+    },
+    "address_vi": "Làng Morozovitsa, gần Veliky Ustyug, huyện Velikoustyugsky, tỉnh Vologda, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Tu viện cổ trên gò Gleden nơi khởi nguồn của Veliky Ustyug, nổi tiếng thế giới với bộ khảm thờ (iconostasis) chạm khắc dát vàng lộng lẫy thế kỷ 18.",
+    "presentation_long_vi": "Tu viện Troitse-Gledensky nằm trên gò Gleden ở nơi hợp lưu của hai con sông Sukhona và Yug - chính là địa điểm khởi thuỷ của Veliky Ustyug trước khi cư dân chuyển sang bờ hiện nay. Tuy tu viện ngày nay không còn hoạt động tôn giáo, nhưng nó lưu giữ một trong những báu vật nghệ thuật quý giá bậc nhất miền Bắc nước Nga: bộ khảm thờ (iconostasis) của Nhà thờ Chúa Ba Ngôi, chạm khắc gỗ dát vàng cực kỳ tinh xảo theo phong cách Baroque giữa thế kỷ 18, với vô số tượng thiên thần, cột xoắn, hoa lá và các bức tượng tròn - được coi là kiệt tác điêu khắc tôn giáo hiếm có. Ngày nay tu viện là một chi nhánh bảo tàng, mở cửa cho khách chiêm ngưỡng bộ khảm thờ và không gian nhà thờ. Vị trí yên tĩnh giữa đồng quê, tách khỏi thành phố, càng làm nổi bật sự tương phản giữa vẻ ngoài mộc mạc và kho báu nghệ thuật rực rỡ bên trong.",
+    "highlights_vi": [
+      "Bộ khảm thờ chạm khắc dát vàng Baroque thế kỷ 18 - kiệt tác hiếm có",
+      "Nằm trên gò Gleden - nơi khởi nguồn của Veliky Ustyug",
+      "Nay là bảo tàng, mở cửa chiêm ngưỡng nội thất nhà thờ"
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa như bảo tàng, chủ yếu trong mùa ấm; kiểm tra lịch và cách qua sông.",
+      "ticket_vi": "Có vé vào cửa để xem bộ khảm thờ.",
+      "duration_vi": "Khoảng 1-1,5 giờ.",
+      "best_time_vi": "Mùa hè - đầu thu, khi đường và bến qua sông thuận tiện.",
+      "tips_vi": "Nằm bên kia sông so với Veliky Ustyug; hỏi trước về phà/đường vào theo mùa."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%B5-%D0%93%D0%BB%D0%B5%D0%B4%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C&ll=46.3087,60.71821&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Trinity-Gleden%20Monastery%2C%20Vologda%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Троице-Гледенский монастырь",
+        "url": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%B5-%D0%93%D0%BB%D0%B5%D0%B4%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+      },
+      {
+        "title": "sobory.ru — Троице-Гледенский монастырь",
+        "url": "https://sobory.ru/article/?object=06400"
+      }
+    ],
+    "tags": [
+      "monastery",
+      "iconostasis",
+      "baroque",
+      "museum",
+      "veliky-ustyug"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "vologda-mikhailo-arkhangelsky-monastery-ustyug",
+    "slug": "mikhailo-arkhangelsky-monastery-ustyug",
+    "region": "vologda",
+    "region_name_vi": "Tỉnh Vologda",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Tu viện Mikhailo-Arkhangelsky (Михайло-Архангельский монастырь, đọc: Mi-khai-la Ac-khan-ghen-xki)",
+    "name_ru": "Михайло-Архангельский монастырь",
+    "name_en": "Michael the Archangel Monastery",
+    "categories": [
+      "church",
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 60.76265,
+      "lon": 46.306633
+    },
+    "address_vi": "Trung tâm thành phố Veliky Ustyug, tỉnh Vologda, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Tu viện cổ nhất Veliky Ustyug (khởi lập 1212), quần thể đá thế kỷ 17 với tường bao, nhiều nhà thờ và tháp chuông giữa lòng thành phố.",
+    "presentation_long_vi": "Tu viện Mikhailo-Arkhangelsky (Tổng lãnh thiên thần Mikhail) là tu viện cổ nhất Veliky Ustyug, tương truyền khởi lập từ năm 1212, tuy quần thể đá còn lại chủ yếu được xây dựng trong thế kỷ 17 khi thành phố ở thời kỳ giàu có nhất. Bên trong vòng tường bao là cụm công trình phong phú: Nhà thờ chính Tổng lãnh thiên thần Mikhail, các nhà thờ phụ, tháp chuông, cổng thánh và nhà ăn, tạo nên một 'thành phố thu nhỏ' bằng đá trắng. Kiến trúc mang đặc trưng của trường phái xây dựng Ustyug - Rostov thế kỷ 17, với những khối vòm cân đối và trang trí mộc mạc mà bề thế. Sau thời Xô-viết được dùng vào nhiều mục đích, tu viện nay là điểm tham quan lịch sử - kiến trúc quan trọng ngay trung tâm thành phố, thuận tiện kết hợp với Sân Nhà thờ và các bảo tàng của Veliky Ustyug.",
+    "highlights_vi": [
+      "Tu viện cổ nhất Veliky Ustyug (khởi lập 1212)",
+      "Quần thể đá thế kỷ 17 với tường bao, nhiều nhà thờ và tháp chuông",
+      "Kiến trúc tiêu biểu của trường phái Ustyug - Rostov"
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa ban ngày; một số khu thuộc bảo tàng có giờ và vé riêng.",
+      "ticket_vi": "Vào khuôn viên thường miễn phí; một số trưng bày bán vé.",
+      "duration_vi": "Khoảng 45 phút - 1 giờ.",
+      "best_time_vi": "Quanh năm; mùa ấm dễ đi lại.",
+      "tips_vi": "Nằm ngay trung tâm; kết hợp Sân Nhà thờ và phố cổ Veliky Ustyug."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE-%D0%90%D1%80%D1%85%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C&ll=46.306633,60.76265&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Michael%20the%20Archangel%20Monastery%2C%20Vologda%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "sobory.ru — Михайло-Архангельский монастырь в Великом Устюге",
+        "url": "https://sobory.ru/article/?object=00247"
+      },
+      {
+        "title": "Wikipedia (RU) — Михайло-Архангельский монастырь (Великий Устюг)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE-%D0%90%D1%80%D1%85%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_%28%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9_%D0%A3%D1%81%D1%82%D1%8E%D0%B3%29"
+      }
+    ],
+    "tags": [
+      "monastery",
+      "orthodox",
+      "17th-century",
+      "architecture",
+      "veliky-ustyug"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "vologda-spaso-sumorin-monastery-totma",
+    "slug": "spaso-sumorin-monastery-totma",
+    "region": "vologda",
+    "region_name_vi": "Tỉnh Vologda",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Tu viện Spaso-Sumorin (Спасо-Суморин монастырь, đọc: Xpa-xa Xu-ma-rin)",
+    "name_ru": "Спасо-Суморин монастырь",
+    "name_en": "Spaso-Sumorin Monastery",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 59.97272,
+      "lon": 42.733001
+    },
+    "address_vi": "Rìa thị trấn Totma, bên sông Pesya Denga, tỉnh Vologda, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Tu viện lớn do Thánh Feodosy Totemsky lập năm 1554, quần thể đá đồ sộ bên rìa Totma với nhà thờ tân cổ điển hoành tráng.",
+    "presentation_long_vi": "Tu viện Spaso-Sumorin được Thánh Feodosy Totemsky sáng lập năm 1554 ở nơi hợp lưu hai dòng sông nhỏ bên rìa Totma, và nhanh chóng trở thành một trong những tu viện quan trọng, giàu có của vùng nhờ được các thương nhân, nhà thám hiểm Totma bảo trợ. Quần thể gồm nhiều nhà thờ, tháp và toà nhà tu, trong đó nổi bật là Nhà thờ chính (собор) mang phong cách tân cổ điển bề thế do kiến trúc sư nổi tiếng thiết kế đầu thế kỷ 19 - khác hẳn với phong cách 'baroque Totma' của các nhà thờ trong thị trấn. Trải qua thời Xô-viết bị tàn phá và sử dụng sai mục đích, tu viện nay đang dần được phục hồi; dù nhiều công trình còn dấu vết hoang phế, quy mô và vẻ tráng lệ xưa vẫn hiện rõ. Đây là điểm bổ sung giàu chiều sâu lịch sử cho hành trình khám phá Totma - thị trấn của những nhà hàng hải và kiến trúc baroque độc đáo.",
+    "highlights_vi": [
+      "Tu viện do Thánh Feodosy Totemsky lập năm 1554",
+      "Nhà thờ chính phong cách tân cổ điển hoành tráng đầu thế kỷ 19",
+      "Quần thể lớn đang phục hồi bên rìa Totma"
+    ],
+    "practical": {
+      "hours_vi": "Khuôn viên ngoài trời tham quan ban ngày; một số phần đang trùng tu.",
+      "ticket_vi": "Miễn phí (có thể quyên góp).",
+      "duration_vi": "Khoảng 45 phút - 1 giờ.",
+      "best_time_vi": "Cuối xuân đến đầu thu.",
+      "tips_vi": "Cách trung tâm Totma vài phút; kết hợp Bảo tàng Nhà hàng hải và nhà thờ baroque trong thị trấn."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%BF%D0%B0%D1%81%D0%BE-%D0%A1%D1%83%D0%BC%D0%BE%D1%80%D0%B8%D0%BD%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C&ll=42.733001,59.97272&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Spaso-Sumorin%20Monastery%2C%20Vologda%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "sobory.ru — Спасо-Суморин монастырь в Тотьме",
+        "url": "https://sobory.ru/article/?object=00367"
+      },
+      {
+        "title": "Wikipedia (RU) — Спасо-Суморин монастырь",
+        "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D1%81%D0%BE-%D0%A1%D1%83%D0%BC%D0%BE%D1%80%D0%B8%D0%BD_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+      }
+    ],
+    "tags": [
+      "monastery",
+      "orthodox",
+      "neoclassical",
+      "history",
+      "totma"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "vologda-totma-seafarers-museum-church",
+    "slug": "totma-seafarers-museum-church",
+    "region": "vologda",
+    "region_name_vi": "Tỉnh Vologda",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Bảo tàng Nhà hàng hải và Nhà thờ Vào Thành Jerusalem (Музей мореходов, đọc: Mu-dây ma-rê-khô-đốp)",
+    "name_ru": "Входоиерусалимская церковь (Музей мореходов)",
+    "name_en": "Museum of Seafarers (Entry into Jerusalem Church)",
+    "categories": [
+      "museum",
+      "church"
+    ],
+    "coordinates": {
+      "lat": 59.975276,
+      "lon": 42.7521
+    },
+    "address_vi": "Phố Naberezhnaya Kuskova, thị trấn Totma, tỉnh Vologda, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhà thờ 'baroque Totma' vút cao cuối thế kỷ 18, nay là Bảo tàng Nhà hàng hải kể về những thương nhân Totma từng vượt biển tới tận Alaska.",
+    "presentation_long_vi": "Totma là một thị trấn nhỏ nhưng có lịch sử phi thường: vào thế kỷ 18, các thương nhân - nhà hàng hải của Totma đã tổ chức hàng chục chuyến thám hiểm vượt Thái Bình Dương săn rái cá biển, tới tận quần đảo Aleut và Alaska, thậm chí góp phần lập 'Fort Ross' ở California. Sự giàu có từ những chuyến đi ấy đã sinh ra phong cách kiến trúc độc đáo mang tên 'baroque Totma' - những nhà thờ cao vút, thanh mảnh như cánh buồm, tường phủ các hoạ tiết trang trí (kartush) đắp nổi tựa hoa văn trên la bàn hàng hải. Nhà thờ Vào Thành Jerusalem là một trong những ví dụ đẹp nhất của phong cách này; ngày nay tầng dưới nhà thờ là Bảo tàng Nhà hàng hải (Музей мореходов), trưng bày bản đồ, mô hình tàu, hiện vật về các chuyến thám hiểm và số phận những người con Totma trên đại dương. Kết hợp kiến trúc kỳ lạ và câu chuyện phiêu lưu, đây là điểm nhấn không thể bỏ qua khi tới Totma.",
+    "highlights_vi": [
+      "Kiệt tác 'baroque Totma' với hoạ tiết kartush đắp nổi như cánh buồm",
+      "Bảo tàng Nhà hàng hải kể chuyện thám hiểm tới Aleut và Alaska",
+      "Trưng bày bản đồ, mô hình tàu và hiện vật hàng hải"
+    ],
+    "practical": {
+      "hours_vi": "Bảo tàng thường mở 10:00-17:00, nghỉ một ngày đầu tuần (kiểm tra lịch).",
+      "ticket_vi": "Có vé vào bảo tàng; leo tháp chuông (nếu mở) có thể tính riêng.",
+      "duration_vi": "Khoảng 1 giờ.",
+      "best_time_vi": "Cuối xuân đến đầu thu.",
+      "tips_vi": "Nếu tháp chuông mở, leo lên ngắm toàn cảnh Totma và sông Sukhona."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D1%85%D0%BE%D0%B4%D0%BE%D0%B8%D0%B5%D1%80%D1%83%D1%81%D0%B0%D0%BB%D0%B8%D0%BC%D1%81%D0%BA%D0%B0%D1%8F%20%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C%20%28%D0%9C%D1%83%D0%B7%D0%B5%D0%B9%20%D0%BC%D0%BE%D1%80%D0%B5%D1%85%D0%BE%D0%B4%D0%BE%D0%B2%29&ll=42.7521,59.975276&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Seafarers%20%28Entry%20into%20Jerusalem%20Church%29%2C%20Vologda%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "sobory.ru — Входоиерусалимская церковь в Тотьме",
+        "url": "https://sobory.ru/article/?object=00244"
+      },
+      {
+        "title": "Wikipedia (RU) — Тотемское барокко",
+        "url": "https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D1%82%D0%B5%D0%BC%D1%81%D0%BA%D0%BE%D0%B5_%D0%B1%D0%B0%D1%80%D0%BE%D0%BA%D0%BA%D0%BE"
+      }
+    ],
+    "tags": [
+      "museum",
+      "church",
+      "totma-baroque",
+      "seafarers",
+      "totma"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "vologda-opoki-sukhona",
+    "slug": "opoki-sukhona",
+    "region": "vologda",
+    "region_name_vi": "Tỉnh Vologda",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Opoki - vách đá sọc sông Sukhona (Опоки, đọc: A-pô-ki)",
+    "name_ru": "Опоки",
+    "name_en": "Opoki (Sukhona river cliffs)",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 60.597806,
+      "lon": 45.48625
+    },
+    "address_vi": "Gần làng Porog, huyện Velikoustyugsky, bên sông Sukhona, tỉnh Vologda, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Khúc uốn sông Sukhona nổi tiếng với vách đá dựng đứng nhiều tầng màu sọc và một suối phun nước ngầm (giếng phun) cao vọt - kỳ quan thiên nhiên của miền Bắc.",
+    "presentation_long_vi": "Opoki là một trong những cảnh quan thiên nhiên ngoạn mục nhất tỉnh Vologda, nằm ở khúc uốn gấp của sông Sukhona gần làng Porog. Tại đây, dòng nước bào mòn để lộ những vách đá dựng đứng cao tới hàng chục mét, xếp thành các lớp trầm tích kỷ Permi màu sắc xen kẽ - đỏ, xám, trắng - tạo hiệu ứng 'sọc' độc đáo trải dài theo bờ sông. Đây từng là đoạn ghềnh nguy hiểm nhất trên tuyến sông Sukhona, gắn với lịch sử bi thương của một trại lao động và đập thời Liên Xô. Cạnh bờ còn có một 'giếng phun' - suối nước khoáng tự phun lên thành cột nước cao vài mét quanh năm, vốn được tạo ra từ một mũi khoan thăm dò năm 1941 nhưng nay trở thành điểm nhấn nổi tiếng. Sự kết hợp giữa vách đá sọc, dòng sông uốn lượn và cột nước phun khiến Opoki thu hút du khách ưa thiên nhiên, nhiếp ảnh và những ai muốn khám phá vẻ hoang sơ của miền Bắc nước Nga.",
+    "highlights_vi": [
+      "Vách đá trầm tích kỷ Permi nhiều tầng màu 'sọc' cao hàng chục mét",
+      "Giếng phun nước khoáng tự phun quanh năm bên bờ sông",
+      "Khúc uốn ngoạn mục của sông Sukhona, thiên nhiên hoang sơ"
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tham quan tự do; đường tiếp cận là đường quê.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 1-2 giờ.",
+      "best_time_vi": "Cuối xuân đến đầu thu; nước cao và cây xanh làm cảnh đẹp hơn.",
+      "tips_vi": "Cách Veliky Ustyug ~70 km; nên đi ô tô/tour, đường xấu khi mưa; ngắm giếng phun ở bờ đối diện vách đá."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9E%D0%BF%D0%BE%D0%BA%D0%B8&ll=45.48625,60.597806&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Opoki%20%28Sukhona%20river%20cliffs%29%2C%20Vologda%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Опоки (Вологодская область)",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BF%D0%BE%D0%BA%D0%B8_%28%D0%92%D0%BE%D0%BB%D0%BE%D0%B3%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C%29"
+      },
+      {
+        "title": "Culture.ru — Урочище Опоки",
+        "url": "https://www.culture.ru/institutes/33470/urochishe-opoki"
+      }
+    ],
+    "tags": [
+      "nature",
+      "geology",
+      "river",
+      "landscape",
+      "veliky-ustyug"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "vologda-ustyuzhna-museum",
+    "slug": "ustyuzhna-museum",
+    "region": "vologda",
+    "region_name_vi": "Tỉnh Vologda",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Thị trấn Ustyuzhna và Bảo tàng địa phương (Устюжна, đọc: U-xchiu-gia-na)",
+    "name_ru": "Устюжна (краеведческий музей)",
+    "name_en": "Ustyuzhna (Local Lore Museum)",
+    "categories": [
+      "museum",
+      "church"
+    ],
+    "coordinates": {
+      "lat": 58.842531,
+      "lon": 36.434133
+    },
+    "address_vi": "Quảng trường Sobornaya (Соборная площадь) 5, thị trấn Ustyuzhna, tỉnh Vologda, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Thị trấn thương nhân cổ ở tây nam tỉnh Vologda, từng là trung tâm rèn sắt, với Nhà thờ Giáng Sinh thế kỷ 17 nay là bảo tàng địa phương giàu hiện vật.",
+    "presentation_long_vi": "Ustyuzhna là một thị trấn cổ ở góc tây nam tỉnh Vologda, được nhắc tới từ thế kỷ 13 và từng nổi danh là trung tâm rèn sắt, sản xuất vũ khí quan trọng của nước Nga (tên gọi gắn với 'Zhelezopolskaya' - vùng đồng sắt). Trung tâm thị trấn giữ được không khí phố thương nhân tỉnh lỵ thế kỷ 18-19 với các dãy nhà buôn, quảng trường và nhiều nhà thờ. Nổi bật nhất là Nhà thờ Giáng Sinh (Рождественский собор) xây năm 1685-1690, một công trình đá bề thế với bích hoạ và khảm thờ quý; từ năm 1936 nơi đây trở thành Bảo tàng địa phương Ustyuzhna, trưng bày sưu tập biểu tượng, đồ rèn, tranh chân dung và hiện vật lịch sử vùng. Ustyuzhna cũng được cho là một trong những nguyên mẫu bối cảnh cho vở kịch 'Quan thanh tra' của Gogol. Với du khách ưa khám phá những thị trấn nhỏ ít người biết, đây là điểm dừng chân yên tĩnh, đậm chất Nga tỉnh lỵ.",
+    "highlights_vi": [
+      "Thị trấn cổ, trung tâm rèn sắt - vũ khí xưa của nước Nga",
+      "Nhà thờ Giáng Sinh 1685-1690, nay là Bảo tàng địa phương",
+      "Được cho là nguyên mẫu bối cảnh 'Quan thanh tra' của Gogol"
+    ],
+    "practical": {
+      "hours_vi": "Bảo tàng thường mở 10:00-17:00, nghỉ một ngày đầu tuần (kiểm tra lịch).",
+      "ticket_vi": "Có vé vào bảo tàng, giá bình dân.",
+      "duration_vi": "Khoảng 1,5-2 giờ cả dạo thị trấn.",
+      "best_time_vi": "Cuối xuân đến đầu thu.",
+      "tips_vi": "Ở tây nam tỉnh, xa trung tâm; tiện kết hợp khi đi giữa Vologda/Cherepovets và vùng Tver/Novgorod."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A3%D1%81%D1%82%D1%8E%D0%B6%D0%BD%D0%B0%20%28%D0%BA%D1%80%D0%B0%D0%B5%D0%B2%D0%B5%D0%B4%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%29&ll=36.434133,58.842531&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Ustyuzhna%20%28Local%20Lore%20Museum%29%2C%20Vologda%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "sobory.ru — Рождественский собор в Устюжне",
+        "url": "https://sobory.ru/article/?object=00238"
+      },
+      {
+        "title": "Wikipedia (RU) — Устюжна",
+        "url": "https://ru.wikipedia.org/wiki/%D0%A3%D1%81%D1%82%D1%8E%D0%B6%D0%BD%D0%B0"
+      }
+    ],
+    "tags": [
+      "museum",
+      "church",
+      "historic-town",
+      "ironwork",
+      "ustyuzhna"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "vologda-darwin-nature-reserve",
+    "slug": "darwin-nature-reserve",
+    "region": "vologda",
+    "region_name_vi": "Tỉnh Vologda",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Khu bảo tồn thiên nhiên Darwin (Дарвинский заповедник, đọc: Đác-vin-xki da-pa-vét-ník)",
+    "name_ru": "Дарвинский заповедник",
+    "name_en": "Darwin Nature Reserve",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 58.637632,
+      "lon": 37.958811
+    },
+    "address_vi": "Làng Borok, huyện Cherepovets, bán đảo bên hồ chứa Rybinsk, tỉnh Vologda, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Khu bảo tồn sinh quyển trên bán đảo giữa hồ chứa Rybinsk, nổi tiếng với rừng taiga, đầm lầy nổi, quần thể đại bàng đuôi trắng và Bảo tàng Thiên nhiên.",
+    "presentation_long_vi": "Khu bảo tồn thiên nhiên Darwin (Darwinsky) được lập năm 1945 trên một bán đảo lớn nhô vào hồ chứa Rybinsk khổng lồ - một trong những hồ nhân tạo lớn nhất thế giới khi hình thành. Mục tiêu ban đầu là nghiên cứu tác động của hồ chứa lên tự nhiên vùng rừng - đầm lầy. Ngày nay đây là khu dự trữ sinh quyển UNESCO, bảo vệ hệ sinh thái taiga phương Nam, những bãi 'đầm lầy nổi' đặc thù và đời sống hoang dã phong phú: gấu nâu, đại bàng đuôi trắng, đại bàng biển osprey, nhiều loài chim nước và cá. Darwin đặc biệt nổi tiếng vì mật độ tổ đại bàng đuôi trắng thuộc hàng cao nhất châu Âu. Tại khu trung tâm ở làng Borok có Bảo tàng Thiên nhiên trưng bày động thực vật vùng, cùng các tuyến đường sinh thái và tham quan có hướng dẫn. Đây là điểm đến cho người yêu thiên nhiên, quan sát chim và muốn trải nghiệm sự hoang sơ của rừng - hồ miền Bắc nước Nga; việc vào sâu khu bảo tồn cần xin phép và đi theo tour.",
+    "highlights_vi": [
+      "Khu dự trữ sinh quyển UNESCO trên bán đảo hồ chứa Rybinsk (từ 1945)",
+      "Mật độ tổ đại bàng đuôi trắng thuộc hàng cao nhất châu Âu",
+      "Bảo tàng Thiên nhiên và tuyến sinh thái tại làng Borok"
+    ],
+    "practical": {
+      "hours_vi": "Khu trung tâm/Bảo tàng có giờ mở; vào sâu khu bảo tồn cần xin phép và đi tour.",
+      "ticket_vi": "Bảo tàng có vé; tham quan có hướng dẫn tính phí; liên hệ trước.",
+      "duration_vi": "Nửa ngày trở lên tuỳ tuyến.",
+      "best_time_vi": "Cuối xuân đến đầu thu để quan sát chim và cảnh quan; mùa đông hạn chế.",
+      "tips_vi": "Xa và biệt lập; đặt tour/hướng dẫn trước, chuẩn bị chống muỗi và giày lội đầm."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%94%D0%B0%D1%80%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA&ll=37.958811,58.637632&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Darwin%20Nature%20Reserve%2C%20Vologda%2C%20Russia"
+    },
+    "official_site": "https://www.darvinskiy.ru/",
+    "sources": [
+      {
+        "title": "Trang chính thức — Дарвинский заповедник",
+        "url": "https://www.darvinskiy.ru/"
+      },
+      {
+        "title": "Wikipedia (RU) — Дарвинский заповедник",
+        "url": "https://ru.wikipedia.org/wiki/%D0%94%D0%B0%D1%80%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA"
+      }
+    ],
+    "tags": [
+      "nature",
+      "biosphere-reserve",
+      "birdwatching",
+      "taiga",
+      "cherepovets"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "vologda-bryanchaninov-estate",
+    "slug": "bryanchaninov-estate",
+    "region": "vologda",
+    "region_name_vi": "Tỉnh Vologda",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Điền trang Bryanchaninov (Усадьба Брянчаниновых, đọc: U-xát-ba Bri-an-tra-ni-nô-vức)",
+    "name_ru": "Усадьба Брянчаниновых",
+    "name_en": "Bryanchaninov Estate",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 59.034304,
+      "lon": 39.958012
+    },
+    "address_vi": "Làng Pokrovskoye, huyện Gryazovetsky (cách Vologda ~28 km), tỉnh Vologda, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Điền trang quý tộc phong cách cổ điển sớm đầu thế kỷ 19 với dinh thự trắng, công viên cảnh quan và nhà thờ - quê hương của Thánh Ignaty Bryanchaninov.",
+    "presentation_long_vi": "Điền trang Bryanchaninov ở làng Pokrovskoye là một trong những dinh thự quý tộc đẹp và được phục hồi tốt nhất tỉnh Vologda. Toà nhà chính được xây dựng khoảng năm 1809-1812 theo phong cách cổ điển (classicism) sớm, với mặt tiền trắng thanh thoát, hàng cột, ban công và các chi tiết trang trí tinh tế, quây quanh là công viên cảnh quan kiểu Anh với ao, lối dạo và Nhà thờ Đức Mẹ Bảo Trợ (Покровская церковь) cùng thời. Đây là quê hương của dòng họ quý tộc Bryanchaninov, nổi bật nhất là Dmitry Bryanchaninov - về sau trở thành Thánh Ignaty Bryanchaninov, một trong những nhà thần học, tác giả tâm linh có ảnh hưởng của Chính Thống giáo Nga thế kỷ 19. Sau thời Xô-viết dùng làm nhà an dưỡng, điền trang đã được trùng tu công phu và mở cửa như một bảo tàng - trung tâm văn hoá, giới thiệu nội thất quý tộc, lịch sử gia tộc và di sản tâm linh của Thánh Ignaty. Không gian yên tĩnh, hài hoà giữa kiến trúc, công viên và nhà thờ khiến nơi đây là điểm dừng chân thanh nhã trên đường giữa Vologda và Gryazovets.",
+    "highlights_vi": [
+      "Dinh thự cổ điển sớm (1809-1812) với công viên cảnh quan kiểu Anh",
+      "Quê hương của Thánh Ignaty Bryanchaninov - nhà thần học Chính Thống giáo",
+      "Đã được trùng tu, mở cửa như bảo tàng - trung tâm văn hoá"
+    ],
+    "practical": {
+      "hours_vi": "Thường mở cửa tham quan ban ngày, nghỉ một ngày đầu tuần (kiểm tra lịch).",
+      "ticket_vi": "Có vé vào cửa; tham quan dinh thự có hướng dẫn tính phí.",
+      "duration_vi": "Khoảng 1,5 giờ cả dinh thự và công viên.",
+      "best_time_vi": "Cuối xuân đến đầu thu khi công viên xanh mát.",
+      "tips_vi": "Cách Vologda ~28 km theo hướng Gryazovets; tiện đi ô tô, kết hợp nhà thờ trong khuôn viên."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A3%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0%20%D0%91%D1%80%D1%8F%D0%BD%D1%87%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%B2%D1%8B%D1%85&ll=39.958012,59.034304&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Bryanchaninov%20Estate%2C%20Vologda%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Cultinfo.ru — Усадьба Брянчаниновых",
+        "url": "https://cultinfo.ru/historical-cultural-heritage/manor-brianchaninov/"
+      },
+      {
+        "title": "Wikipedia (RU) — Усадьба Брянчаниновых",
+        "url": "https://ru.wikipedia.org/wiki/%D0%A3%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0_%D0%91%D1%80%D1%8F%D0%BD%D1%87%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%B2%D1%8B%D1%85"
+      }
+    ],
+    "tags": [
+      "palace",
+      "estate",
+      "classicism",
+      "bryanchaninov",
+      "gryazovets"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
   }
 ]

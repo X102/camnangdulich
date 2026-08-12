@@ -1949,5 +1949,973 @@
     "status": "enriched",
     "last_updated": "2026-08-08",
     "country": "russia"
+  },
+  {
+    "id": "karelia-gogolev-museum-sortavala",
+    "slug": "gogolev-museum-sortavala",
+    "region": "karelia",
+    "region_name_vi": "Cộng hoà Karelia",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Bảo tàng Kronid Gogolev – nghệ thuật chạm khắc gỗ nổi (Sortavala)",
+    "name_ru": "Музей Кронида Гоголева",
+    "name_en": "Kronid Gogolev Museum, Sortavala",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 61.7011,
+      "lon": 30.69187
+    },
+    "address_vi": "Ул. Комсомольская, 6, thị trấn Sortavala, Cộng hoà Karelia, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng tư nhân trưng bày các tác phẩm chạm khắc gỗ nổi (relief) của Nghệ sĩ Nhân dân Kronid Gogolev – những «bức tranh bằng gỗ» khổ lớn khắc hoạ thiên nhiên Karelia, sử thi Kalevala và đời sống miền Bắc. Nằm ngay trung tâm thị trấn Sortavala.",
+    "presentation_long_vi": "Giữa trung tâm thị trấn Sortavala cổ kính bên hồ Ladoga, Bảo tàng Kronid Gogolev lưu giữ di sản của một trong những nghệ nhân điêu khắc gỗ độc đáo nhất nước Nga. Kronid Gogolev (1926–2013) – Nghệ sĩ Nhân dân Liên bang Nga – đã sáng tạo nên một dòng nghệ thuật riêng: chạm khắc gỗ nổi thành những bức phù điêu khổ lớn, có tấm rộng tới vài mét vuông, tinh vi như tranh vẽ. Dưới lưỡi đục của ông, mặt gỗ phẳng biến thành khung cảnh rừng taiga, hồ nước, những phiên chợ và lễ hội dân gian, chân dung con người miền Bắc và các trường đoạn trong sử thi Kalevala. Bộ sưu tập trưng bày trong toà nhà bảo tàng cho phép du khách chiêm ngưỡng ở khoảng cách gần sự tài hoa và kiên nhẫn phi thường ẩn trong từng thớ gỗ. Đây là điểm dừng chân không thể bỏ qua khi tới Sortavala, đặc biệt với những ai yêu mỹ thuật dân gian và văn hoá Karelia.",
+    "highlights_vi": [
+      "Sưu tập chạm khắc gỗ nổi (relief) khổ lớn của Nghệ sĩ Nhân dân Kronid Gogolev (1926–2013).",
+      "Những «bức tranh bằng gỗ» khắc hoạ thiên nhiên Karelia, đời sống miền Bắc và sử thi Kalevala.",
+      "Nằm ngay trung tâm Sortavala – dễ kết hợp trước/sau chuyến đi Valaam hoặc Ruskeala."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa ban ngày; thường nghỉ một ngày trong tuần – nên kiểm tra lịch trước.",
+      "ticket_vi": "Vé vào cửa mức bình dân; có thể thuê thuyết minh.",
+      "duration_vi": "Khoảng 40–60 phút.",
+      "best_time_vi": "Quanh năm (trong nhà).",
+      "tips_vi": "Kết hợp dạo phố cổ Sortavala; thuận đường trước/sau tour Valaam và Công viên Ruskeala."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%B9%20%D0%9A%D1%80%D0%BE%D0%BD%D0%B8%D0%B4%D0%B0%20%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0&ll=30.69187,61.7011&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kronid%20Gogolev%20Museum%2C%20Sortavala%2C%20Karelia%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Autotravel.ru — Музей Кронида Гоголева (Сортавала)",
+        "url": "https://autotravel.ru/otklik.php/6166"
+      },
+      {
+        "title": "Яндекс Карты — Музей Кронида Гоголева",
+        "url": "https://yandex.ru/maps/org/muzey_chastnoy_kollektsii_kronida_gogoleva/1084805667/"
+      }
+    ],
+    "tags": [
+      "museum",
+      "wood-carving",
+      "folk-art",
+      "gogolev",
+      "sortavala",
+      "karelia"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "karelia-gora-filina-museum",
+    "slug": "gora-filina-museum",
+    "region": "karelia",
+    "region_name_vi": "Cộng hoà Karelia",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Bảo tàng Núi Cú (Gora Filina) – hầm ngầm quân sự trong đá granite",
+    "name_ru": "Военно-исторический музей «Гора Филина»",
+    "name_en": "Gora Filina (Owl Mountain) Museum, Lahdenpohja",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 61.548857,
+      "lon": 30.199141
+    },
+    "address_vi": "Ул. Суворова, 8, thị trấn Lahdenpohja, Cộng hoà Karelia, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng lịch sử – quân sự nằm trong một hầm chỉ huy khổng lồ do quân đội Phần Lan khoét sâu vào khối đá granite thời Thế chiến II. Bên trong là các gian trưng bày về chiến tranh, địa chất và khoáng vật vùng Karelia.",
+    "presentation_long_vi": "«Gora Filina» (Núi Cú) là một trong những điểm tham quan độc đáo nhất của miền tây nam Karelia. Trái tim của bảo tàng là một đường hầm ngầm rộng khoảng hàng trăm mét vuông, được công binh Phần Lan cho nổ mìn và khoét thẳng vào lòng khối đá granite Huuhkanmäki trong những năm 1943–1944 để làm sở chỉ huy và hầm trú ẩn kiên cố. Sau chiến tranh, khu vực này thuộc về Liên Xô và bị bỏ hoang, đến năm 2016 mới được cải tạo thành bảo tàng. Đi giữa các hành lang đá lạnh và trần hầm thô mộc, du khách được chiêm ngưỡng khu trưng bày kép: một phần kể về cuộc chiến tranh giành vùng biên giới Karelia – Phần Lan với vũ khí, quân trang, hiện vật khảo cứu; phần còn lại giới thiệu địa chất và bộ sưu tập khoáng vật, đá quý phong phú của vùng đất granite này. Không gian ngầm ấn tượng cùng khu rừng và mỏm đá phía trên tạo nên một trải nghiệm vừa mang tính lịch sử vừa gần gũi thiên nhiên.",
+    "highlights_vi": [
+      "Hầm chỉ huy quân sự Phần Lan khoét vào đá granite trong Thế chiến II (1943–1944).",
+      "Trưng bày kép: hiện vật chiến tranh biên giới Karelia và bộ sưu tập địa chất – khoáng vật.",
+      "Không gian ngầm mát lạnh, thô mộc – trải nghiệm khác lạ, hợp cả gia đình."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa hằng ngày ban ngày (có thể thay đổi theo mùa) – nên kiểm tra trước.",
+      "ticket_vi": "Vé vào cửa; có thể mua thêm tour thuyết minh.",
+      "duration_vi": "Khoảng 1–1,5 giờ.",
+      "best_time_vi": "Quanh năm; trong hầm mát nên hè rất dễ chịu, mang thêm áo khoác.",
+      "tips_vi": "Cách Sortavala ~40 km; thuận đường trên tuyến đi Ruskeala/Lahdenpohja; mang áo ấm vì hầm lạnh."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE-%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%20%C2%AB%D0%93%D0%BE%D1%80%D0%B0%20%D0%A4%D0%B8%D0%BB%D0%B8%D0%BD%D0%B0%C2%BB&ll=30.199141,61.548857&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Gora%20Filina%20%28Owl%20Mountain%29%20Museum%2C%20Lahdenpohja%2C%20Karelia%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "anashina.com — Гора Филина (Лахденпохья)",
+        "url": "https://anashina.com/gora-filina/"
+      },
+      {
+        "title": "Яндекс Карты — Гора Филина",
+        "url": "https://yandex.ru/maps/org/gora_filina/1690379071/"
+      }
+    ],
+    "tags": [
+      "museum",
+      "military-history",
+      "wwii",
+      "bunker",
+      "geology",
+      "lahdenpohja",
+      "karelia"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "karelia-kem-assumption-cathedral",
+    "slug": "kem-assumption-cathedral",
+    "region": "karelia",
+    "region_name_vi": "Cộng hoà Karelia",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Nhà thờ gỗ Đức Mẹ Lên Trời ở Kem (Uspensky sobor)",
+    "name_ru": "Успенский собор (Кемь)",
+    "name_en": "Assumption (Uspensky) Wooden Cathedral, Kem",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 64.94662,
+      "lon": 34.616824
+    },
+    "address_vi": "Thị trấn Kem (Кемь), bên bờ sông Kem gần Biển Trắng, Cộng hoà Karelia, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhà thờ chính toà bằng gỗ theo lối mái lều (tent-roof) tuyệt đẹp, dựng trong các năm 1711–1717, là một trong những kiệt tác kiến trúc gỗ của người Pomor vùng Biển Trắng. Ba khối tháp lều vươn cao cùng hàng iconostas cổ thế kỷ 18.",
+    "presentation_long_vi": "Bên bờ sông Kem, không xa nơi dòng sông đổ ra Biển Trắng, sừng sững Nhà thờ Đức Mẹ Lên Trời – một trong những công trình kiến trúc gỗ cổ và giá trị nhất miền Bắc nước Nga. Ngôi đền được dựng hoàn toàn bằng gỗ trong các năm 1711–1717, tương truyền để tạ ơn sau khi vùng đất thoát khỏi hiểm hoạ; đây là tác phẩm tiêu biểu của các thợ mộc Pomor – cộng đồng cư dân ven Biển Trắng nổi danh về nghề đóng thuyền và dựng nhà gỗ. Nhà thờ gây ấn tượng bởi bố cục ba khối tháp mái lều (shatyor) vươn cao cân đối, đường nét mộc mạc mà uy nghi, cùng bộ iconostas (bàn thờ tranh thánh) chạm khắc từ thế kỷ 18 còn được gìn giữ bên trong. Được xếp hạng di tích kiến trúc cấp liên bang, công trình là điểm nhấn của thị trấn Kem và thường là chặng dừng chân của du khách trên đường ra quần đảo Solovki. Với những ai yêu kiến trúc gỗ Nga, đây là viên ngọc đích thực của miền Pomorye.",
+    "highlights_vi": [
+      "Nhà thờ gỗ mái lều dựng 1711–1717 – kiệt tác kiến trúc gỗ của người Pomor Biển Trắng.",
+      "Ba khối tháp lều (shatyor) vươn cao; bộ iconostas cổ thế kỷ 18 còn được bảo tồn.",
+      "Di tích kiến trúc cấp liên bang; chặng dừng quen thuộc trên đường ra Solovki."
+    ],
+    "practical": {
+      "hours_vi": "Mở theo giờ lễ và tham quan, ban ngày; hỏi trước tình trạng trùng tu.",
+      "ticket_vi": "Miễn phí; quyên góp tuỳ tâm.",
+      "duration_vi": "Khoảng 30 phút.",
+      "best_time_vi": "Cuối xuân đến đầu thu; ánh chiều làm nổi màu gỗ đẹp.",
+      "tips_vi": "Ở xa (~430 km bắc Petrozavodsk); kết hợp chuyến ra Solovki từ bến Rabocheostrovsk gần đó."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D0%B1%D0%BE%D1%80%20%28%D0%9A%D0%B5%D0%BC%D1%8C%29&ll=34.616824,64.94662&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Assumption%20%28Uspensky%29%20Wooden%20Cathedral%2C%20Kem%2C%20Karelia%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "sobory.ru — Собор Успения Пресвятой Богородицы, Кемь (obj. 03368)",
+        "url": "https://sobory.ru/article/?object=03368"
+      }
+    ],
+    "tags": [
+      "church",
+      "cathedral",
+      "wooden-architecture",
+      "pomor",
+      "18th-century",
+      "kem",
+      "karelia"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "karelia-round-square-petrozavodsk",
+    "slug": "round-square-petrozavodsk",
+    "region": "karelia",
+    "region_name_vi": "Cộng hoà Karelia",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Quảng trường Tròn / Quảng trường Lenin (Kruglaya ploshchad)",
+    "name_ru": "Круглая площадь (площадь Ленина)",
+    "name_en": "Round Square (Lenin Square), Petrozavodsk",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 61.7875,
+      "lon": 34.36444
+    },
+    "address_vi": "Площадь Ленина, trung tâm lịch sử thành phố Petrozavodsk, Cộng hoà Karelia, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Quần thể quảng trường cổ nhất Petrozavodsk, hình thành từ năm 1775 với hai dãy nhà hành chính uốn cong hình bán nguyệt – nay là Bảo tàng Quốc gia Karelia. Trung tâm quảng trường là tượng đài Lenin bằng đá granite dựng năm 1933.",
+    "presentation_long_vi": "Quảng trường Tròn (Kruglaya ploshchad), nay mang tên Quảng trường Lenin, là hạt nhân kiến trúc – lịch sử của Petrozavodsk và là quần thể đô thị cổ nhất thành phố. Được quy hoạch từ năm 1775 gắn với nhà máy Alexandrovsky, quảng trường nổi bật với hai toà nhà hành chính uốn cong ôm lấy khoảng sân tròn, tạo nên bố cục đối xứng thanh lịch mang phong cách cổ điển hiếm thấy ở miền Bắc. Hai dãy nhà này về sau trở thành trụ sở chính quyền tỉnh Olonets và ngày nay là nơi đặt Bảo tàng Quốc gia Cộng hoà Karelia. Giữa quảng trường, tượng đài Lenin bằng đá granite được dựng năm 1933 thay cho tượng đài Peter Đại đế trước đó; từ đó không gian được đổi tên. Với những vòm cây, lối đi và các công trình cổ bao quanh, quảng trường là điểm hẹn yêu thích của người dân và là nơi khởi đầu lý tưởng cho hành trình khám phá trung tâm lịch sử Petrozavodsk.",
+    "highlights_vi": [
+      "Quần thể quảng trường cổ nhất Petrozavodsk, quy hoạch từ 1775 với hai dãy nhà bán nguyệt.",
+      "Hai toà nhà cong nay là Bảo tàng Quốc gia Cộng hoà Karelia.",
+      "Tượng đài Lenin bằng đá granite (1933) ở trung tâm – biểu tượng đổi tên quảng trường."
+    ],
+    "practical": {
+      "hours_vi": "Không gian công cộng ngoài trời, tự do mọi lúc.",
+      "ticket_vi": "Miễn phí (quảng trường); bảo tàng bên trong bán vé riêng.",
+      "duration_vi": "Khoảng 20–30 phút (chưa kể vào bảo tàng).",
+      "best_time_vi": "Quanh năm; đẹp khi lên đèn hoặc mùa cây thay lá.",
+      "tips_vi": "Kết hợp vào Bảo tàng Quốc gia Karelia và Vườn Thống đốc kề bên."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D1%80%D1%83%D0%B3%D0%BB%D0%B0%D1%8F%20%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C%20%28%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0%29&ll=34.36444,61.7875&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Round%20Square%20%28Lenin%20Square%29%2C%20Petrozavodsk%2C%20Karelia%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Площадь Ленина (Петрозаводск)",
+        "url": "https://ru.wikipedia.org/wiki/Площадь_Ленина_(Петрозаводск)"
+      }
+    ],
+    "tags": [
+      "square_street",
+      "ensemble",
+      "18th-century",
+      "classicism",
+      "lenin-monument",
+      "petrozavodsk",
+      "karelia"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "karelia-krestovozdvizhensky-cathedral-petrozavodsk",
+    "slug": "krestovozdvizhensky-cathedral-petrozavodsk",
+    "region": "karelia",
+    "region_name_vi": "Cộng hoà Karelia",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Nhà thờ chính toà Suy tôn Thánh Giá (Krestovozdvizhensky sobor)",
+    "name_ru": "Крестовоздвиженский собор (Петрозаводск)",
+    "name_en": "Cathedral of the Exaltation of the Cross, Petrozavodsk",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 61.780021,
+      "lon": 34.390035
+    },
+    "address_vi": "Ул. Волховская, 1, nghĩa trang Zaretskoye, thành phố Petrozavodsk, Cộng hoà Karelia, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhà thờ chính toà theo phong cách Nga – Byzantine, xây trong các năm 1848–1852 tại nghĩa trang Zaretskoye. Là một trong số rất ít nhà thờ ở Petrozavodsk không bị đóng cửa suốt thời Xô Viết, nơi gìn giữ nhiều thánh tích quý.",
+    "presentation_long_vi": "Nằm trong khu nghĩa trang Zaretskoye ở phần đông thành phố, Nhà thờ Suy tôn Thánh Giá (Krestovozdvizhensky) là một trong những ngôi đền được người dân Petrozavodsk trân trọng nhất. Công trình bằng đá được xây dựng trong các năm 1848–1852 theo phong cách Nga – Byzantine với khối vòm trung tâm và những đường nét trang nghiêm, giản dị đặc trưng cho kiến trúc nhà thờ Nga giữa thế kỷ 19. Điều làm nên vị trí đặc biệt của nhà thờ trong đời sống tinh thần địa phương là việc nó gần như không bị đóng cửa trong suốt thời kỳ Xô Viết – khi đa số nhà thờ khác bị phá hoặc chuyển đổi công năng – nhờ đó trở thành nơi duy trì liên tục các nghi lễ Chính thống giáo và cất giữ nhiều thánh tích, ảnh thánh được đưa về từ những nhà thờ đã bị phá dỡ. Không gian bên trong ấm cúng, trầm mặc; khuôn viên yên tĩnh giữa hàng cây khiến nơi đây là điểm dừng chân thanh tịnh cho cả tín đồ lẫn du khách quan tâm lịch sử tôn giáo của vùng.",
+    "highlights_vi": [
+      "Nhà thờ đá phong cách Nga – Byzantine, xây 1848–1852 tại nghĩa trang Zaretskoye.",
+      "Một trong số ít nhà thờ ở Petrozavodsk không bị đóng cửa suốt thời Xô Viết.",
+      "Nơi gìn giữ nhiều thánh tích và ảnh thánh từ các nhà thờ đã bị phá dỡ."
+    ],
+    "practical": {
+      "hours_vi": "Mở theo giờ lễ, ban ngày.",
+      "ticket_vi": "Miễn phí; quyên góp tuỳ tâm.",
+      "duration_vi": "Khoảng 20–30 phút.",
+      "best_time_vi": "Quanh năm.",
+      "tips_vi": "Ăn mặc kín đáo khi vào đền; giữ yên tĩnh vì nằm trong khu nghĩa trang."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D1%80%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B7%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D0%B1%D0%BE%D1%80%20%28%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D1%81%D0%BA%29&ll=34.390035,61.780021&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Cathedral%20of%20the%20Exaltation%20of%20the%20Cross%2C%20Petrozavodsk%2C%20Karelia%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "sobory.ru — Крестовоздвиженский собор, Петрозаводск (obj. 01168)",
+        "url": "https://sobory.ru/article/?object=01168"
+      }
+    ],
+    "tags": [
+      "church",
+      "cathedral",
+      "russo-byzantine",
+      "19th-century",
+      "orthodox",
+      "petrozavodsk",
+      "karelia"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "karelia-vazheozersky-monastery",
+    "slug": "vazheozersky-monastery",
+    "region": "karelia",
+    "region_name_vi": "Cộng hoà Karelia",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Tu viện Vazheozersky (Spaso-Preobrazhensky Vazheozersky)",
+    "name_ru": "Спасо-Преображенский Важеозерский монастырь",
+    "name_en": "Spaso-Preobrazhensky Vazheozersky Monastery",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 61.33735,
+      "lon": 33.434625
+    },
+    "address_vi": "Пос. Интерпосёлок, bên hồ Vazheozero, huyện Olonets, Cộng hoà Karelia, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Tu viện Chính thống giáo cổ bên hồ Vazheozero, khởi lập đầu thế kỷ 16 (khoảng 1520) bởi hai tu sĩ Gennady và Nikifor – môn đệ của Thánh Alexander Svirsky. Sau thời Xô Viết bị đóng cửa, tu viện đã được khôi phục và là điểm hành hương thanh tịnh giữa rừng Karelia.",
+    "presentation_long_vi": "Ẩn mình bên bờ hồ Vazheozero giữa rừng taiga phía nam Karelia, Tu viện Vazheozersky là một trong những trung tâm tu hành lâu đời của vùng đất này. Theo truyền thống, tu viện được khởi lập vào đầu thế kỷ 16 (thường ghi khoảng năm 1520) bởi hai vị tu sĩ khổ hạnh Gennady và Nikifor – những môn đệ của Thánh Alexander Svirsky nổi tiếng. Trải qua nhiều thế kỷ, nơi đây từng bị tàn phá rồi lại được dựng lại, hình thành một quần thể gồm nhà thờ, nhà nguyện và các công trình phụ trợ soi bóng xuống mặt hồ. Sang thời Xô Viết, tu viện bị đóng cửa và sử dụng vào mục đích khác, nhiều công trình xuống cấp; từ thập niên 1990 tu viện được trả lại cho Giáo hội và dần được trùng tu, hồi sinh đời sống tu hành. Ngày nay Vazheozersky là điểm hành hương và tham quan yên bình, nơi du khách cảm nhận sự tĩnh lặng của một tu viện rừng miền Bắc, hoà quyện giữa kiến trúc mộc mạc và cảnh quan hồ nước – rừng thông đặc trưng Karelia.",
+    "highlights_vi": [
+      "Tu viện cổ bên hồ Vazheozero, khởi lập đầu thế kỷ 16 (~1520) bởi Gennady và Nikifor.",
+      "Gắn với truyền thống tu hành của môn đệ Thánh Alexander Svirsky.",
+      "Được khôi phục sau thời Xô Viết; điểm hành hương tĩnh lặng giữa rừng taiga."
+    ],
+    "practical": {
+      "hours_vi": "Mở ban ngày theo nếp sinh hoạt tu viện; giữ yên tĩnh và tôn trọng nghi lễ.",
+      "ticket_vi": "Miễn phí; quyên góp tuỳ tâm.",
+      "duration_vi": "Khoảng 30–45 phút.",
+      "best_time_vi": "Cuối xuân đến đầu thu.",
+      "tips_vi": "Cách Petrozavodsk ~90 km; nên đi ô tô; ăn mặc kín đáo khi vào khu tu viện."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%BF%D0%B0%D1%81%D0%BE-%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%92%D0%B0%D0%B6%D0%B5%D0%BE%D0%B7%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C&ll=33.434625,61.33735&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Spaso-Preobrazhensky%20Vazheozersky%20Monastery%2C%20Karelia%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "sobory.ru — Спасо-Преображенский Важеозерский монастырь (obj. 00148)",
+        "url": "https://sobory.ru/article/?object=00148"
+      }
+    ],
+    "tags": [
+      "church",
+      "monastery",
+      "orthodox",
+      "16th-century",
+      "pilgrimage",
+      "vazheozero",
+      "karelia"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "karelia-sheltozero-vepsian-museum",
+    "slug": "sheltozero-vepsian-museum",
+    "region": "karelia",
+    "region_name_vi": "Cộng hoà Karelia",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Bảo tàng dân tộc học người Veps ở Sheltozero (Shyoltozerskii vepsskii muzei)",
+    "name_ru": "Шёлтозерский вепсский этнографический музей имени Р. П. Лонина",
+    "name_en": "Sheltozero Vepsian Ethnographic Museum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 61.375389,
+      "lon": 35.358306
+    },
+    "address_vi": "Ул. Почтовая, 28, село Шёлтозеро (Sheltozero), huyện Prionezhsky, Cộng hoà Karelia, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng dân tộc học duy nhất ở Nga dành riêng cho người Veps – một dân tộc thiểu số Finno-Ugric bản địa. Thành lập năm 1967, bảo tàng đặt trong ngôi nhà gỗ Melkin đầu thế kỷ 19, trưng bày trang phục, nông cụ, đồ gia dụng và phong tục của người Veps.",
+    "presentation_long_vi": "Tại làng Sheltozero bên bờ tây hồ Onega – trung tâm của cộng đồng người Veps ở Karelia – Bảo tàng dân tộc học người Veps là nơi duy nhất trên nước Nga dành trọn cho việc gìn giữ văn hoá của dân tộc Finno-Ugric bản địa này. Bảo tàng ra đời năm 1967 nhờ công của nhà giáo, nhà nghiên cứu địa phương R. P. Lonin, người dày công sưu tầm hiện vật và ghi chép phong tục của đồng bào mình. Từ năm 1991, bảo tàng được chuyển vào ngôi nhà gỗ Melkin – một công trình kiến trúc gỗ dân gian đầu thế kỷ 19, bản thân đã là di tích quý với những đường chạm và kết cấu truyền thống. Bên trong, du khách khám phá đời sống người Veps qua trang phục thêu, khung cửi, nông cụ, ngư cụ, đồ gốm, vật dụng sinh hoạt và các gian tái hiện nếp nhà nông thôn miền Bắc. Bảo tàng còn giới thiệu tiếng Veps, tín ngưỡng và lễ hội, giúp bảo tồn một bản sắc văn hoá đang dần mai một. Đây là điểm đến ý nghĩa cho những ai muốn hiểu chiều sâu đa dân tộc của vùng đất Karelia.",
+    "highlights_vi": [
+      "Bảo tàng duy nhất ở Nga về người Veps – dân tộc Finno-Ugric bản địa của Karelia.",
+      "Thành lập năm 1967 (R. P. Lonin); đặt trong nhà gỗ Melkin đầu thế kỷ 19.",
+      "Trưng bày trang phục, nông cụ, ngư cụ và tái hiện nếp sống nông thôn người Veps."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa ban ngày; thường nghỉ đầu tuần – nên kiểm tra lịch trước.",
+      "ticket_vi": "Vé vào cửa mức bình dân; có thể đặt thuyết minh.",
+      "duration_vi": "Khoảng 45–60 phút.",
+      "best_time_vi": "Cuối xuân đến đầu thu.",
+      "tips_vi": "Cách Petrozavodsk ~85 km theo bờ tây hồ Onega; nên đi ô tô/tour."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A8%D1%91%D0%BB%D1%82%D0%BE%D0%B7%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B2%D0%B5%D0%BF%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D1%8D%D1%82%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%20%D0%A0.%20%D0%9F.%20%D0%9B%D0%BE%D0%BD%D0%B8%D0%BD%D0%B0&ll=35.358306,61.375389&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Sheltozero%20Vepsian%20Ethnographic%20Museum%2C%20Karelia%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Culture.ru — Шёлтозерский вепсский этнографический музей",
+        "url": "https://www.culture.ru/institutes/2434/"
+      }
+    ],
+    "tags": [
+      "museum",
+      "ethnography",
+      "vepsian",
+      "finno-ugric",
+      "wooden-house",
+      "sheltozero",
+      "karelia"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "karelia-gubernatorsky-garden-petrozavodsk",
+    "slug": "gubernatorsky-garden-petrozavodsk",
+    "region": "karelia",
+    "region_name_vi": "Cộng hoà Karelia",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Vườn Thống đốc và tượng đài Derzhavin (Gubernatorsky sad)",
+    "name_ru": "Губернаторский сад (Петрозаводск)",
+    "name_en": "Governor's Garden, Petrozavodsk",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 61.785898,
+      "lon": 34.364002
+    },
+    "address_vi": "Trung tâm lịch sử Petrozavodsk, cạnh Quảng trường Tròn và Bảo tàng Quốc gia Karelia, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Khu vườn cảnh quan lịch sử ở trung tâm Petrozavodsk, gắn với dinh thống đốc tỉnh Olonets xưa. Trong vườn có tượng đài nhà thơ – vị thống đốc dân sự đầu tiên Gavrila Derzhavin, dựng năm 2003.",
+    "presentation_long_vi": "Kề bên Quảng trường Tròn và Bảo tàng Quốc gia Karelia, Vườn Thống đốc (Gubernatorsky sad) là một trong những không gian xanh lâu đời và duyên dáng nhất trung tâm Petrozavodsk. Khu vườn hình thành gắn với dinh của các thống đốc tỉnh Olonets, mang phong cách vườn cảnh quan với lối đi rợp bóng cây, thảm cỏ và những hàng cây cổ thụ. Điểm nhấn của vườn là tượng đài Gavrila Derzhavin – nhà thơ lớn của nước Nga và cũng là vị thống đốc dân sự đầu tiên của tỉnh Olonets cuối thế kỷ 18 – được khánh thành năm 2003, tôn vinh mối liên hệ giữa văn chương và lịch sử hành chính của vùng. Là nơi người dân dạo bộ, nghỉ chân và chụp ảnh, khu vườn tạo thành một quần thể liền mạch với quảng trường cổ và bảo tàng, rất thuận tiện để du khách ghé thăm trong cùng một buổi khám phá trung tâm thành phố.",
+    "highlights_vi": [
+      "Vườn cảnh quan lịch sử gắn với dinh thống đốc tỉnh Olonets, ngay trung tâm Petrozavodsk.",
+      "Tượng đài nhà thơ – thống đốc đầu tiên Gavrila Derzhavin (khánh thành 2003).",
+      "Liền kề Quảng trường Tròn và Bảo tàng Quốc gia Karelia – dễ ghép tuyến tham quan."
+    ],
+    "practical": {
+      "hours_vi": "Không gian công cộng ngoài trời, tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 20–30 phút.",
+      "best_time_vi": "Mùa xuân–thu; đẹp khi cây xanh hoặc lá vàng.",
+      "tips_vi": "Ghép cùng Quảng trường Tròn và Bảo tàng Quốc gia Karelia liền kề."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%93%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B0%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%B0%D0%B4%20%28%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D1%81%D0%BA%29&ll=34.364002,61.785898&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Governor%27s%20Garden%2C%20Petrozavodsk%2C%20Karelia%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Губернаторский сад (Петрозаводск)",
+        "url": "https://ru.wikipedia.org/wiki/Губернаторский_сад_(Петрозаводск)"
+      }
+    ],
+    "tags": [
+      "park_garden",
+      "historic-garden",
+      "derzhavin",
+      "monument",
+      "petrozavodsk",
+      "karelia"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "karelia-kalevalsky-national-park",
+    "slug": "kalevalsky-national-park",
+    "region": "karelia",
+    "region_name_vi": "Cộng hoà Karelia",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Vườn quốc gia Kalevalsky (Kalevalskii natsionalnyi park)",
+    "name_ru": "Калевальский национальный парк",
+    "name_en": "Kalevalsky National Park",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 64.991667,
+      "lon": 30.2125
+    },
+    "address_vi": "Phía tây bắc Cộng hoà Karelia, gần thị trấn Kalevala, sát biên giới Phần Lan, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Vườn quốc gia bảo tồn một trong những vạt rừng thông nguyên sinh cổ nhất châu Âu, thành lập năm 2007, rộng khoảng 74.400 ha sát biên giới Phần Lan. Đây là vùng đất huyền thoại gắn với các nghệ nhân hát sử thi Kalevala.",
+    "presentation_long_vi": "Nằm ở cực tây bắc Karelia, sát đường biên với Phần Lan, Vườn quốc gia Kalevalsky bảo vệ một kho báu thiên nhiên hiếm có của châu Âu: những cánh rừng thông nguyên sinh chưa từng bị khai thác, với nhiều cây thông cổ thụ hàng trăm năm tuổi (có cây tới 400–500 năm). Được thành lập năm 2007 trên diện tích khoảng 74.400 ha, vườn gìn giữ hệ sinh thái taiga già với hồ nước trong vắt, đầm lầy, sông suối và đời sống hoang dã phong phú. Vùng đất này còn mang ý nghĩa văn hoá đặc biệt: đây chính là quê hương của những nghệ nhân hát rune (runopevtsy) – những người lưu truyền các bài ca dân gian mà nhà nghiên cứu Elias Lönnrot đã thu thập để soạn nên sử thi Kalevala bất hủ. Với du khách ưa thiên nhiên hoang sơ và muốn chạm vào cội nguồn của huyền thoại Karelia – Phần Lan, Kalevalsky là điểm đến độc đáo, dù còn khá xa xôi và hoang vắng.",
+    "highlights_vi": [
+      "Bảo tồn rừng thông nguyên sinh cổ (có cây 400–500 năm) – hiếm bậc nhất châu Âu.",
+      "Thành lập năm 2007, rộng ~74.400 ha, sát biên giới Phần Lan.",
+      "Vùng đất của các nghệ nhân hát rune – cội nguồn sử thi Kalevala."
+    ],
+    "practical": {
+      "hours_vi": "Khu thiên nhiên; tham quan cần liên hệ ban quản lý và tuân thủ quy định vùng bảo tồn.",
+      "ticket_vi": "Có thể yêu cầu phí vào và giấy phép; hỏi trước ban quản lý.",
+      "duration_vi": "Nửa ngày đến vài ngày (tuỳ tuyến).",
+      "best_time_vi": "Mùa hè và đầu thu; đông giá lạnh, cần chuẩn bị kỹ.",
+      "tips_vi": "Rất xa và hoang vắng; đi theo tour/hướng dẫn viên, chuẩn bị đầy đủ hậu cần."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D0%B0%D0%BB%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%B0%D1%80%D0%BA&ll=30.2125,64.991667&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kalevalsky%20National%20Park%2C%20Karelia%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Калевальский национальный парк",
+        "url": "https://ru.wikipedia.org/wiki/Калевальский_национальный_парк"
+      }
+    ],
+    "tags": [
+      "park_garden",
+      "national-park",
+      "old-growth-forest",
+      "taiga",
+      "kalevala",
+      "karelia"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "karelia-olonets-smolensky-cathedral",
+    "slug": "olonets-smolensky-cathedral",
+    "region": "karelia",
+    "region_name_vi": "Cộng hoà Karelia",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Nhà thờ chính toà Đức Mẹ Smolensk trên đảo (Smolenskii sobor, Olonets)",
+    "name_ru": "Собор иконы Смоленской Божией Матери (Олонец)",
+    "name_en": "Cathedral of the Smolensk Icon, Olonets",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 60.979879,
+      "lon": 32.959606
+    },
+    "address_vi": "Đảo Mariam giữa sông, thị trấn Olonets (Олонец), Cộng hoà Karelia, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhà thờ chính toà theo phong cách cổ điển (classicism), xây trong các năm 1824–1830, toạ lạc trên một hòn đảo nhỏ nơi hai con sông Olonka và Megrega hợp lưu. Là biểu tượng của Olonets – một trong những thị trấn cổ nhất Karelia.",
+    "presentation_long_vi": "Olonets được xem là một trong những thị trấn cổ nhất Cộng hoà Karelia, từng là trung tâm hành chính của cả vùng thời xưa. Điểm nhấn kiến trúc và tâm linh của thị trấn là Nhà thờ Đức Mẹ Smolensk, dựng trên hòn đảo nhỏ Mariam ngay tại chỗ hai dòng sông Olonka và Megrega gặp nhau – một vị trí hết sức nên thơ, khiến ngôi đền như nổi giữa mặt nước. Công trình bằng đá được xây trong các năm 1824–1830 theo phong cách cổ điển (classicism) với khối vòm cân đối và tháp chuông thanh thoát, thay cho những nhà thờ gỗ trước đó nhiều lần bị hoả hoạn. Cây cầu bắc qua sông dẫn tới đảo và nhà thờ tạo nên khung cảnh đặc trưng, thường xuất hiện trong ảnh chụp Olonets. Là trung tâm của các lễ hội tôn giáo và văn hoá Karelia bản địa, nhà thờ vừa mang giá trị kiến trúc vừa gắn bó với đời sống cộng đồng. Với du khách, Olonets và nhà thờ trên đảo là điểm dừng đáng giá để cảm nhận chiều sâu lịch sử ở cực nam Karelia. (Lưu ý: Olonets ở cực nam vùng, vĩ độ ~60,98.)",
+    "highlights_vi": [
+      "Nhà thờ classicism xây 1824–1830 trên đảo Mariam, nơi sông Olonka và Megrega hợp lưu.",
+      "Biểu tượng của Olonets – một trong những thị trấn cổ nhất Cộng hoà Karelia.",
+      "Khung cảnh nhà thờ «nổi» giữa mặt nước, gắn với lễ hội văn hoá Karelia bản địa."
+    ],
+    "practical": {
+      "hours_vi": "Mở theo giờ lễ, ban ngày.",
+      "ticket_vi": "Miễn phí; quyên góp tuỳ tâm.",
+      "duration_vi": "Khoảng 30 phút.",
+      "best_time_vi": "Cuối xuân đến đầu thu; nước sông làm khung cảnh đẹp hơn.",
+      "tips_vi": "Cách Petrozavodsk ~150 km về phía nam; ăn mặc kín đáo khi vào đền."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%BE%D0%B1%D0%BE%D1%80%20%D0%B8%D0%BA%D0%BE%D0%BD%D1%8B%20%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%B9%20%D0%91%D0%BE%D0%B6%D0%B8%D0%B5%D0%B9%20%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%20%28%D0%9E%D0%BB%D0%BE%D0%BD%D0%B5%D1%86%29&ll=32.959606,60.979879&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Cathedral%20of%20the%20Smolensk%20Icon%2C%20Olonets%2C%20Karelia%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "sobory.ru — Собор иконы Божией Матери Смоленская, Олонец (obj. 01161)",
+        "url": "https://sobory.ru/article/?object=01161"
+      }
+    ],
+    "tags": [
+      "church",
+      "cathedral",
+      "classicism",
+      "19th-century",
+      "island",
+      "olonets",
+      "karelia"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "karelia-sandarmokh-memorial",
+    "slug": "sandarmokh-memorial",
+    "region": "karelia",
+    "region_name_vi": "Cộng hoà Karelia",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Khu tưởng niệm Sandarmokh (Memorialnoye kladbishche Sandarmokh)",
+    "name_ru": "Мемориальное кладбище Сандармох",
+    "name_en": "Sandarmokh Memorial",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 62.888461,
+      "lon": 34.678914
+    },
+    "address_vi": "Khu rừng gần Medvezhyegorsk, trên đường đi Povenets, huyện Medvezhyegorsk, Cộng hoà Karelia, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Khu rừng – nghĩa trang tưởng niệm nơi diễn ra các cuộc hành quyết và chôn cất tập thể thời Đại Thanh trừng 1937–1938. Từ năm 1997, nơi đây trở thành quần thể tưởng niệm các nạn nhân của chính sách đàn áp chính trị, với nhà nguyện, thánh giá và các đài kỷ niệm.",
+    "presentation_long_vi": "Sandarmokh là một trong những địa điểm tưởng niệm bi thương và quan trọng nhất nước Nga về thời kỳ đàn áp chính trị. Trong khu rừng thông cách thị trấn Medvezhyegorsk khoảng 19 km trên đường đi Povenets, vào những năm 1937–1938 – đỉnh điểm của cuộc Đại Thanh trừng – đã diễn ra các cuộc hành quyết và chôn cất tập thể; số nạn nhân được ước tính lên tới hàng nghìn người thuộc nhiều dân tộc và tầng lớp, trong đó có cả những tù nhân bị đưa từ quần đảo Solovki. Các hố chôn tập thể được phát hiện và xác lập vào giữa thập niên 1990, và từ năm 1997 khu vực được lập thành nghĩa trang – quần thể tưởng niệm. Ngày nay giữa rừng cây là những tấm bia, thánh giá, nhà nguyện nhỏ và vô số tấm ảnh, bảng tên do thân nhân đặt để tưởng nhớ người đã khuất. Đây là nơi lặng lẽ và trang nghiêm, mời gọi du khách dừng lại suy ngẫm về một trang sử đau thương của thế kỷ 20. Khi tới thăm, hãy giữ thái độ tôn kính và trật tự.",
+    "highlights_vi": [
+      "Nơi diễn ra hành quyết và chôn cất tập thể thời Đại Thanh trừng 1937–1938.",
+      "Trong số nạn nhân có nhiều dân tộc và cả tù nhân đưa từ Solovki.",
+      "Quần thể tưởng niệm từ năm 1997: bia, thánh giá, nhà nguyện giữa rừng thông."
+    ],
+    "practical": {
+      "hours_vi": "Khu tưởng niệm ngoài trời, vào thăm tự do ban ngày.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 30–45 phút.",
+      "best_time_vi": "Mùa xuân–thu; đường rừng nên đi khi khô ráo.",
+      "tips_vi": "Cách Medvezhyegorsk ~19 km hướng Povenets; giữ thái độ tôn kính, trang nghiêm."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BA%D0%BB%D0%B0%D0%B4%D0%B1%D0%B8%D1%89%D0%B5%20%D0%A1%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D0%BC%D0%BE%D1%85&ll=34.678914,62.888461&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Sandarmokh%20Memorial%2C%20Karelia%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Сандармох",
+        "url": "https://ru.wikipedia.org/wiki/Сандармох"
+      }
+    ],
+    "tags": [
+      "monument",
+      "memorial",
+      "great-terror",
+      "history",
+      "medvezhyegorsk",
+      "karelia"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "karelia-sretenskaya-church-solomennoye",
+    "slug": "sretenskaya-church-solomennoye",
+    "region": "karelia",
+    "region_name_vi": "Cộng hoà Karelia",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Nhà thờ Dâng Chúa vào Đền thánh ở Solomennoye (Sretenskaya tserkov)",
+    "name_ru": "Сретенская церковь (Соломенное, Петрозаводск)",
+    "name_en": "Sretenskaya (Candlemas) Church, Solomennoye",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 61.84629,
+      "lon": 34.3598
+    },
+    "address_vi": "Khu Solomennoye (Соломенное), bên eo Logmozero, ngoại ô bắc Petrozavodsk, Cộng hoà Karelia, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhà thờ dựng năm 1775 trên một mỏm đá diorite bên eo nước Logmozero, tại nơi từng có tu viện Solomenskaya. Là một trong những công trình tôn giáo cổ và đẹp nhất khu vực Petrozavodsk, gắn với cảnh quan sông nước đặc trưng.",
+    "presentation_long_vi": "Ở khu Solomennoye phía bắc Petrozavodsk, nơi hồ Onega thông với hồ Logmozero qua một eo nước hẹp, Nhà thờ Sretenskaya (Dâng Chúa vào Đền thánh) đứng trên một mỏm đá diorite ngay sát mặt nước – một vị trí hết sức ngoạn mục. Ngôi đền được dựng năm 1775 bởi thương nhân địa phương Ilya Kononov, trên nền của tu viện Solomenskaya từng tồn tại trước đó. Trải qua các thời kỳ, quần thể gồm nhà thờ mùa đông và các công trình liên quan, kết hợp giữa truyền thống kiến trúc gỗ và đá của miền Bắc. Vị trí bên eo nước, soi bóng xuống dòng chảy nối hai hồ lớn, khiến nhà thờ trở thành một trong những khung cảnh nên thơ và được chụp ảnh nhiều nhất vùng ngoại vi Petrozavodsk. Sau thời Xô Viết bị đóng cửa và hư hại, nhà thờ đã được trùng tu và trả lại việc thờ phụng. Đây là điểm ghé thăm lý tưởng để kết hợp giữa di sản tôn giáo và cảnh quan sông nước, chỉ cách trung tâm thành phố một quãng ngắn.",
+    "highlights_vi": [
+      "Nhà thờ dựng năm 1775 trên mỏm đá diorite bên eo nước Logmozero.",
+      "Xây trên nền tu viện Solomenskaya xưa, do thương nhân Ilya Kononov khởi công.",
+      "Khung cảnh sông nước nên thơ, cách trung tâm Petrozavodsk một quãng ngắn."
+    ],
+    "practical": {
+      "hours_vi": "Mở theo giờ lễ, ban ngày.",
+      "ticket_vi": "Miễn phí; quyên góp tuỳ tâm.",
+      "duration_vi": "Khoảng 20–30 phút.",
+      "best_time_vi": "Cuối xuân đến đầu thu; mặt nước làm cảnh đẹp hơn.",
+      "tips_vi": "Cách trung tâm Petrozavodsk ~7–8 km; ăn mặc kín đáo khi vào đền."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D1%80%D0%B5%D1%82%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C%20%28%D0%A1%D0%BE%D0%BB%D0%BE%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5%2C%20%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D1%81%D0%BA%29&ll=34.3598,61.84629&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Sretenskaya%20%28Candlemas%29%20Church%2C%20Solomennoye%2C%20Karelia%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "sobory.ru — Церковь Сретения Господня, Соломенное (obj. 00182)",
+        "url": "https://sobory.ru/article/?object=00182"
+      }
+    ],
+    "tags": [
+      "church",
+      "18th-century",
+      "orthodox",
+      "solomennoye",
+      "logmozero",
+      "petrozavodsk",
+      "karelia"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "karelia-petrozavodsk-railway-station",
+    "slug": "petrozavodsk-railway-station",
+    "region": "karelia",
+    "region_name_vi": "Cộng hoà Karelia",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Nhà ga đường sắt Petrozavodsk (Zheleznodorozhnyi vokzal)",
+    "name_ru": "Железнодорожный вокзал Петрозаводска",
+    "name_en": "Petrozavodsk Railway Station",
+    "categories": [
+      "other",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 61.784995,
+      "lon": 34.344635
+    },
+    "address_vi": "Площадь Гагарина, thành phố Petrozavodsk, Cộng hoà Karelia, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Toà nhà ga đường sắt khánh thành năm 1955 theo phong cách Đế chế Stalin, nổi bật với ngọn tháp nhọn cao khoảng 17 m. Là điểm mốc kiến trúc của Quảng trường Gagarin và «cửa ngõ» đón khách vào Petrozavodsk.",
+    "presentation_long_vi": "Với nhiều du khách, ấn tượng đầu tiên về Petrozavodsk chính là toà nhà ga đường sắt bề thế nơi Quảng trường Gagarin. Công trình được khánh thành năm 1955, do kiến trúc sư V. Tsipulin (Leningrad) thiết kế theo phong cách Đế chế Stalin (Stalinist Empire) trang trọng, với mặt tiền cân đối, hàng cột và đặc biệt là ngọn tháp nhọn (spire) cao khoảng 17 m vươn lên như một cột mốc giữa thành phố. Nhà ga nằm ở đầu đại lộ Lenin – trục phố chính chạy thẳng xuống bờ hồ Onega, tạo nên một phối cảnh đô thị mạch lạc đặc trưng của quy hoạch Xô Viết hậu chiến. Không chỉ là đầu mối giao thông kết nối Petrozavodsk với Moskva, Saint Petersburg và Murmansk, toà nhà còn được xem là một biểu tượng kiến trúc và điểm chụp ảnh quen thuộc. Đến hay rời thành phố bằng tàu hoả, du khách đều có dịp chiêm ngưỡng công trình duyên dáng này – một «cửa ngõ» đúng nghĩa của thủ phủ Karelia.",
+    "highlights_vi": [
+      "Toà nhà ga khánh thành năm 1955, phong cách Đế chế Stalin, tháp nhọn cao ~17 m.",
+      "Điểm mốc kiến trúc của Quảng trường Gagarin, đầu đại lộ Lenin nối xuống hồ Onega.",
+      "Đầu mối tàu hoả nối Petrozavodsk với Moskva, Saint Petersburg, Murmansk."
+    ],
+    "practical": {
+      "hours_vi": "Nhà ga hoạt động; sảnh mở phục vụ hành khách theo lịch tàu.",
+      "ticket_vi": "Miễn phí (ngắm bên ngoài/sảnh).",
+      "duration_vi": "Khoảng 10–15 phút.",
+      "best_time_vi": "Quanh năm; đẹp khi lên đèn.",
+      "tips_vi": "Từ ga đi thẳng đại lộ Lenin ~15–20 phút là tới bờ kè hồ Onega."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D1%8B%D0%B9%20%D0%B2%D0%BE%D0%BA%D0%B7%D0%B0%D0%BB%20%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D1%81%D0%BA%D0%B0&ll=34.344635,61.784995&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Petrozavodsk%20Railway%20Station%2C%20Karelia%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Петрозаводск (станция)",
+        "url": "https://ru.wikipedia.org/wiki/Петрозаводск_(станция)"
+      }
+    ],
+    "tags": [
+      "other",
+      "monument",
+      "railway-station",
+      "stalinist-empire",
+      "architecture",
+      "petrozavodsk",
+      "karelia"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "karelia-kostomuksha-nature-reserve",
+    "slug": "kostomuksha-nature-reserve",
+    "region": "karelia",
+    "region_name_vi": "Cộng hoà Karelia",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Khu bảo tồn thiên nhiên nghiêm ngặt Kostomuksha (Kostomukshskii zapovednik)",
+    "name_ru": "Костомукшский заповедник",
+    "name_en": "Kostomuksha Strict Nature Reserve",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 64.473056,
+      "lon": 30.274167
+    },
+    "address_vi": "Gần thành phố Kostomuksha (Костомукша), sát biên giới Phần Lan, tây bắc Cộng hoà Karelia, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Khu bảo tồn thiên nhiên nghiêm ngặt (zapovednik) thành lập năm 1983, bảo vệ rừng taiga già, hồ Kamennoye trong vắt và quần thể cá hồi hồ quý hiếm. Từ năm 1990 là một phần của khu bảo tồn xuyên biên giới «Druzhba» với Phần Lan.",
+    "presentation_long_vi": "Ở vùng tây bắc xa xôi của Karelia, sát biên giới Phần Lan, Khu bảo tồn thiên nhiên nghiêm ngặt Kostomuksha (zapovednik) gìn giữ một mảng taiga phương Bắc gần như còn nguyên vẹn. Được thành lập năm 1983, khu bảo tồn bao trùm những cánh rừng thông và vân sam già, đầm lầy, sông suối và đặc biệt là hồ Kamennoye (Hồ Đá) rộng lớn với làn nước trong lành – nơi sinh sống của một quần thể cá hồi hồ (ozyorny losos) quý hiếm mang giá trị khoa học đặc biệt. Hệ động vật nơi đây gồm gấu nâu, chó sói, linh miêu, đại bàng và nhiều loài chim nước, chim rừng. Từ năm 1990, Kostomuksha cùng khu bảo tồn phía Phần Lan hợp thành khu bảo tồn xuyên biên giới đầu tiên giữa Nga và Phần Lan mang tên «Druzhba» (Tình hữu nghị), phục vụ nghiên cứu và bảo tồn chung. Là zapovednik, khu vực lõi hạn chế tham quan tự do, nhưng có các tuyến sinh thái và trung tâm giới thiệu dành cho khách; đây là điểm đến quý cho những ai đam mê thiên nhiên hoang dã và taiga nguyên sơ.",
+    "highlights_vi": [
+      "Zapovednik thành lập năm 1983, bảo vệ taiga già và hồ Kamennoye trong vắt.",
+      "Quần thể cá hồi hồ (ozyorny losos) quý hiếm; nhiều thú lớn và chim rừng.",
+      "Từ 1990 là một phần khu bảo tồn xuyên biên giới «Druzhba» Nga – Phần Lan."
+    ],
+    "practical": {
+      "hours_vi": "Vùng lõi hạn chế; tham quan theo tuyến sinh thái, cần liên hệ ban quản lý và giấy phép.",
+      "ticket_vi": "Có thể yêu cầu phí và giấy phép; hỏi trước ban quản lý.",
+      "duration_vi": "Nửa ngày trở lên tuỳ tuyến.",
+      "best_time_vi": "Mùa hè và đầu thu.",
+      "tips_vi": "Gần thành phố Kostomuksha; đăng ký trước với ban quản lý zapovednik để vào tuyến."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D0%BE%D1%81%D1%82%D0%BE%D0%BC%D1%83%D0%BA%D1%88%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA&ll=30.274167,64.473056&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kostomuksha%20Strict%20Nature%20Reserve%2C%20Karelia%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Костомукшский заповедник",
+        "url": "https://ru.wikipedia.org/wiki/Костомукшский_заповедник"
+      }
+    ],
+    "tags": [
+      "park_garden",
+      "nature-reserve",
+      "zapovednik",
+      "taiga",
+      "salmon",
+      "kostomuksha",
+      "karelia"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "karelia-medvezhyegorsk-museum",
+    "slug": "medvezhyegorsk-museum",
+    "region": "karelia",
+    "region_name_vi": "Cộng hoà Karelia",
+    "federal_district": "Vùng Tây Bắc",
+    "name_vi": "Bảo tàng huyện Medvezhyegorsk (Medvezhyegorskii raionnyi muzei)",
+    "name_ru": "Медвежьегорский районный музей",
+    "name_en": "Medvezhyegorsk Regional Museum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 62.915988,
+      "lon": 34.473813
+    },
+    "address_vi": "Ул. Дзержинского, 22, thị trấn Medvezhyegorsk (Медвежьегорск), Cộng hoà Karelia, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng địa phương đặt trong toà nhà từng là trụ sở quản lý công trình Kênh đào Biển Trắng – Baltic (thập niên 1930). Trưng bày lịch sử xây kênh, đời sống vùng, thiên nhiên Karelia; thị trấn cũng nổi tiếng là bối cảnh quay bộ phim «Tình yêu và bồ câu».",
+    "presentation_long_vi": "Bảo tàng huyện Medvezhyegorsk là nơi lưu giữ ký ức của một vùng đất gắn với những trang sử đặc biệt của thế kỷ 20. Bản thân toà nhà bảo tàng đã là một hiện vật: đây từng là trụ sở ban quản lý công trình Kênh đào Biển Trắng – Baltic (Belbaltlag), xây dựng giữa thập niên 1930 – một công trình đồ sộ được thực hiện chủ yếu bằng lao động của tù nhân trại giam. Các gian trưng bày giới thiệu lịch sử xây dựng con kênh, đời sống và số phận con người thời kỳ đó, cùng thiên nhiên, khảo cổ và văn hoá dân gian của huyện Medvezhyegorsk. Thị trấn còn được nhiều người Nga biết đến như bối cảnh quay bộ phim hài kinh điển «Tình yêu và bồ câu» (Lyubov i golubi, 1984) – yếu tố tạo thêm sức hút cho những ai muốn tìm lại khung cảnh phim xưa. Là điểm dừng chân thuận tiện trên tuyến từ Petrozavodsk đi phương Bắc (Belomorsk, Solovki) hay tới khu tưởng niệm Sandarmokh gần đó, bảo tàng giúp du khách hiểu sâu hơn bối cảnh lịch sử của cả vùng.",
+    "highlights_vi": [
+      "Đặt trong toà nhà từng là trụ sở quản lý Kênh đào Biển Trắng – Baltic (thập niên 1930).",
+      "Trưng bày lịch sử xây kênh, số phận con người, thiên nhiên và văn hoá địa phương.",
+      "Thị trấn nổi tiếng là bối cảnh phim «Tình yêu và bồ câu» (1984)."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa ban ngày; thường nghỉ đầu tuần – nên kiểm tra lịch trước.",
+      "ticket_vi": "Vé vào cửa mức bình dân.",
+      "duration_vi": "Khoảng 45–60 phút.",
+      "best_time_vi": "Quanh năm (trong nhà).",
+      "tips_vi": "Kết hợp thăm khu tưởng niệm Sandarmokh gần đó và tuyến đi Belomorsk/Solovki."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D0%B5%D0%B4%D0%B2%D0%B5%D0%B6%D1%8C%D0%B5%D0%B3%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9&ll=34.473813,62.915988&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Medvezhyegorsk%20Regional%20Museum%2C%20Karelia%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Autotravel.ru — Медвежьегорск (Медвежьегорский районный музей, здание управления ББК)",
+        "url": "https://autotravel.ru/gorod/medvezhyegorsk.html"
+      },
+      {
+        "title": "Culture.ru — Медвежьегорский районный музей",
+        "url": "https://www.culture.ru/institutes/12234/"
+      }
+    ],
+    "tags": [
+      "museum",
+      "local-history",
+      "white-sea-canal",
+      "cinema",
+      "medvezhyegorsk",
+      "karelia"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
   }
 ]

@@ -1959,5 +1959,943 @@
     "status": "enriched",
     "last_updated": "2026-07-29",
     "country": "russia"
+  },
+  {
+    "id": "altai-republic-shavlinskiye-lakes",
+    "slug": "shavlinskiye-lakes",
+    "region": "altai-republic",
+    "region_name_vi": "Cộng hoà Altai",
+    "federal_district": "Vùng Siberia",
+    "name_vi": "Cụm hồ Shavlinskiye",
+    "name_ru": "Шавлинские озёра",
+    "name_en": "Shavlinskiye Lakes",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 50.1024,
+      "lon": 87.4284
+    },
+    "address_vi": "Thượng nguồn sông Shavla, dãy Bắc Chuysky, huyện Kosh-Agachsky, Cộng hoà Altai, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Cụm hồ băng hà tuyệt đẹp nằm trên sông Shavla giữa dãy Bắc Chuysky, nước xanh ngọc lam - lục bảo soi bóng ba đỉnh tuyết Krasavitsa, Skazka và Mechta. Đây là một trong những đích đến kinh điển của các cung trekking dài ngày ở Altai.",
+    "presentation_long_vi": "Cụm hồ Shavlinskiye gồm chuỗi hồ trên dòng Shavla thuộc dãy Bắc Chuysky, trong đó Hồ Dưới (khoảng 1.983 m) và Hồ Trên (khoảng 2.164 m) nổi tiếng nhất. Màu nước xanh lam pha lục đặc trưng được tạo bởi bột đá băng hà mịn lơ lửng, phản chiếu ba ngọn núi tuyết mang tên thơ mộng: Krasavitsa (Người Đẹp), Skazka (Cổ Tích) và Mechta (Giấc Mơ). Quanh hồ là rừng thông rụng lá (listvennitsa) và tuyết tùng, những bãi cỏ núi cao và các mỏm đá dựng. Từ bao đời, đây là điểm hành hương của dân trekking và cưỡi ngựa - hành trình thường mất hai đến ba ngày đường mỗi chiều xuất phát từ làng Chibit, băng qua đèo và thảo nguyên. Cảnh sắc chuyển màu theo giờ nắng khiến Shavlinskiye được coi là một trong những kỳ quan thiên nhiên đẹp nhất vùng núi Altai.",
+    "highlights_vi": [
+      "Cụm hồ băng hà nước xanh ngọc lam soi bóng ba đỉnh Krasavitsa, Skazka, Mechta.",
+      "Đích đến kinh điển của các cung trekking - cưỡi ngựa nhiều ngày ở Bắc Chuysky.",
+      "Rừng tuyết tùng, đồng cỏ núi cao và khung cảnh núi tuyết hùng vĩ."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tự do; chỉ tiếp cận bằng đi bộ hoặc cưỡi ngựa nhiều ngày.",
+      "ticket_vi": "Miễn phí (chi phí tour, ngựa thồ, hướng dẫn viên tuỳ chọn).",
+      "duration_vi": "Cung trek 4-6 ngày khứ hồi; nghỉ lại bên hồ 1-2 ngày.",
+      "best_time_vi": "Giữa tháng 7 đến giữa tháng 9, khi đèo hết tuyết và thời tiết ổn định.",
+      "tips_vi": "Cần thể lực tốt, trang bị lều - đồ ấm và nên đi cùng hướng dẫn viên; thời tiết núi cao đổi nhanh."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A8%D0%B0%D0%B2%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BE%D0%B7%D1%91%D1%80%D0%B0&ll=87.4284,50.1024&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Shavlinskiye%20Lakes%2C%20Altai%20Republic%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Шавлинские озёра",
+        "url": "https://ru.wikipedia.org/wiki/Шавлинские_озёра"
+      },
+      {
+        "title": "Большая Страна — Шавлинские озёра",
+        "url": "https://bolshayastrana.com/dostoprimechatelnosti/altaj/shavlinskie-ozera-42"
+      }
+    ],
+    "tags": [
+      "lake",
+      "glacial-lake",
+      "north-chuysky",
+      "trekking",
+      "nature",
+      "altai"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "altai-republic-akkurum-stone-mushrooms",
+    "slug": "akkurum-stone-mushrooms",
+    "region": "altai-republic",
+    "region_name_vi": "Cộng hoà Altai",
+    "federal_district": "Vùng Siberia",
+    "name_vi": "Nấm đá Akkurum (Kamennye Griby)",
+    "name_ru": "Каменные грибы (урочище Аккурум)",
+    "name_en": "Stone Mushrooms of Akkurum",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 51.1106,
+      "lon": 87.9758
+    },
+    "address_vi": "Hữu ngạn sông Chulyshman, urochishche Akkurum, huyện Ulagansky, Cộng hoà Altai, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Những 'cây nấm đá' kỳ lạ do xói mòn tạo thành trên sườn dốc thung lũng Chulyshman: cột đất mềm đội chiếc 'mũ' đá cứng, có cây cao tới 7 m. Đây là một trong các thắng cảnh địa mạo độc đáo nhất Altai.",
+    "presentation_long_vi": "Tại urochishche Akkurum bên hữu ngạn sông Chulyshman, gần chỗ hợp lưu với sông Chulcha, thiên nhiên đã điêu khắc nên cả một 'rừng nấm' bằng đá. Qua hàng nghìn năm, mưa gió bào mòn lớp đất - sỏi mềm, chỉ chừa lại những cột trụ được 'đội mũ' bởi các tảng đá cứng phía trên che chắn - tạo hình hệt những cây nấm khổng lồ, thân cao tới 7 m, cổ nấm có nơi mảnh chỉ nửa mét. Để tới đây, du khách thường vượt sông Chulyshman bằng thuyền rồi leo bộ lên sườn dốc chừng 30-40 phút. Đứng giữa những cột nấm đá nhìn xuống thung lũng Chulyshman xanh thẳm là trải nghiệm ngoạn mục. Các 'chiếc mũ' đá vẫn đang chậm rãi dịch chuyển và đôi khi rơi xuống, cho thấy đây là quá trình địa chất còn sống động.",
+    "highlights_vi": [
+      "Cột 'nấm đá' cao tới 7 m do xói mòn chọn lọc tạo thành - hiếm gặp ở Nga.",
+      "Nằm bên thung lũng Chulyshman hùng vĩ, gần hợp lưu Chulcha.",
+      "Tiếp cận bằng vượt sông và leo bộ - trải nghiệm phiêu lưu thực thụ."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tự do; cần qua sông và leo dốc để lên tận nơi.",
+      "ticket_vi": "Miễn phí (phí đò qua sông và tour tuỳ chọn).",
+      "duration_vi": "Khoảng 2-3 giờ gồm qua sông và leo lên - xuống.",
+      "best_time_vi": "Cuối xuân đến đầu thu, khi đường vào thung lũng Chulyshman khô ráo.",
+      "tips_vi": "Không trèo lên các cột nấm (dễ gãy đổ). Mang giày leo tốt, nước uống; tránh ngày mưa trơn trượt."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B3%D1%80%D0%B8%D0%B1%D1%8B%20%28%D1%83%D1%80%D0%BE%D1%87%D0%B8%D1%89%D0%B5%20%D0%90%D0%BA%D0%BA%D1%83%D1%80%D1%83%D0%BC%29&ll=87.9758,51.1106&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Stone%20Mushrooms%20of%20Akkurum%2C%20Altai%20Republic%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "НГС.Туризм — Каменные грибы (урочище Аккурум)",
+        "url": "https://turizm.ngs.ru/altaiMountains/sights/ozero-kamennie-gribi-urochishhe-akkurum-1501/"
+      },
+      {
+        "title": "Rodnik-Altaya — урочище Аккурум (Каменные грибы)",
+        "url": "https://rodnik-altaya.com/about/articles/urochishche-akkurum-kamennye-griby/"
+      }
+    ],
+    "tags": [
+      "rock-formation",
+      "erosion",
+      "chulyshman",
+      "geology",
+      "nature",
+      "altai"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "altai-republic-krasnye-vorota-red-gates",
+    "slug": "krasnye-vorota-red-gates",
+    "region": "altai-republic",
+    "region_name_vi": "Cộng hoà Altai",
+    "federal_district": "Vùng Siberia",
+    "name_vi": "Cổng Đỏ (Krasnye Vorota)",
+    "name_ru": "Красные Ворота",
+    "name_en": "Krasnye Vorota (Red Gates)",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 50.364277,
+      "lon": 87.633361
+    },
+    "address_vi": "Đường Aktash - Ust-Ulagan, thung lũng sông Chibitka, huyện Ulagansky, Cộng hoà Altai, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "'Cổng Đỏ' là khe hẹp nơi con đường lên Ulagan luồn qua giữa hai vách đá đỏ rực cao khoảng 50 m. Màu đỏ hồng đặc trưng đến từ quặng chu sa (cinnabar) chứa thuỷ ngân trong đá.",
+    "presentation_long_vi": "Krasnye Vorota - 'Cổng Đỏ' - nằm cách làng Aktash chừng 15 km trên đường tới Ust-Ulagan, tại đoạn cây cầu nhỏ vắt qua dòng Chibitka. Ở đây hai khối đá đỏ au như tách ra hai bên để nhường lối cho con đường len qua khe hẹp, vách cao khoảng 50 m. Sắc hồng - đỏ rực của đá được tạo bởi khoáng chu sa (thuỷ ngân) lẫn nhiều trong nham thạch phun trào cổ. Con đường xẻ qua 'cổng' được cho nổ mìn mở vào giữa thế kỷ 20, khiến khung cảnh càng thêm ấn tượng. Ngay gần đó là chuỗi hồ Ulagan tuyệt đẹp, nên Krasnye Vorota thường là điểm dừng chân trên hành trình khám phá cao nguyên Ulagan. Đây là di tích thiên nhiên được bảo vệ của Cộng hoà Altai.",
+    "highlights_vi": [
+      "Khe đá đỏ rực cao ~50 m do khoáng chu sa (thuỷ ngân), con đường luồn qua giữa.",
+      "Cách Aktash ~15 km trên đường lên cao nguyên Ulagan.",
+      "Kết hợp tham quan chuỗi hồ Ulagan lân cận."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tự do suốt ngày đêm.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 20-30 phút dừng chân.",
+      "best_time_vi": "Cuối xuân đến đầu thu; ánh nắng làm vách đá đỏ nổi bật hơn.",
+      "tips_vi": "Đường đèo hẹp nhiều xe - dừng đúng chỗ, cẩn thận khi chụp ảnh sát mép đường."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B5%20%D0%92%D0%BE%D1%80%D0%BE%D1%82%D0%B0&ll=87.633361,50.364277&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Krasnye%20Vorota%20%28Red%20Gates%29%2C%20Altai%20Republic%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Красные Ворота (Республика Алтай)",
+        "url": "https://ru.wikipedia.org/wiki/Красные_Ворота_(Республика_Алтай)"
+      },
+      {
+        "title": "Visit Altai Republic — Красные ворота",
+        "url": "https://visit-altairepublic.ru/turizm-i-otdykh/obekty-turizma/priroda/krasnye-vorota/"
+      }
+    ],
+    "tags": [
+      "rock",
+      "gorge",
+      "ulagan",
+      "cinnabar",
+      "nature",
+      "altai"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "altai-republic-shirlak-waterfall",
+    "slug": "shirlak-waterfall",
+    "region": "altai-republic",
+    "region_name_vi": "Cộng hoà Altai",
+    "federal_district": "Vùng Siberia",
+    "name_vi": "Thác Shirlak ('Nước mắt Thiếu nữ')",
+    "name_ru": "Водопад Ширлак (Девичьи слёзы)",
+    "name_en": "Shirlak Waterfall (Maiden's Tears)",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 50.34548,
+      "lon": 87.219562
+    },
+    "address_vi": "Km 759 đường Chuysky Trakt, sườn nam dãy Aigulaksky, huyện Ulagansky, Cộng hoà Altai, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Thác 'Nước mắt Thiếu nữ' cao khoảng 15 m đổ xuống từ sườn nam dãy Aigulaksky, ngay sát đại lộ Chuysky Trakt. Đây là điểm dừng chân dễ tiếp cận trên hành trình về hướng Mông Cổ.",
+    "presentation_long_vi": "Thác Shirlak, tên dân gian là 'Devichyi slyozy' - 'Nước mắt Thiếu nữ', nằm trên một nhánh suối nhỏ đổ vào sông Chuya ở sườn nam dãy Aigulaksky. Điểm đặc biệt là thác chỉ cách đại lộ huyền thoại Chuysky Trakt vài chục mét (khoảng km 759), nên du khách có thể ghé xem rất nhanh mà không phải leo trèo. Dòng nước trắng xoá buông mình từ độ cao chừng 15-20 m qua vách đá, gắn với truyền thuyết buồn về một cô gái nên có tên gọi thi vị. Khu vực chân thác được lắp đặt chòi nghỉ, bãi đỗ xe, thùng rác và bảng thông tin, thuận tiện cho các đoàn xe dừng chân duỗi chân, chụp ảnh giữa cung đường dài. Vào mùa tuyết tan hoặc sau mưa, thác đầy nước và mạnh mẽ hơn hẳn.",
+    "highlights_vi": [
+      "Thác cao ~15-20 m ngay cạnh Chuysky Trakt (km 759) - cực dễ tiếp cận.",
+      "Gắn với truyền thuyết 'Nước mắt Thiếu nữ'.",
+      "Điểm dừng chân có bãi đỗ, chòi nghỉ giữa hành trình về Kosh-Agach/Mông Cổ."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tự do suốt ngày đêm.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 15-30 phút.",
+      "best_time_vi": "Cuối xuân - đầu hè (mùa tuyết tan) hoặc sau mưa, thác nhiều nước nhất.",
+      "tips_vi": "Chỉ cách đường ~100 m; đường đá dẫn lên chân thác trơn khi ướt - đi cẩn thận."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4%20%D0%A8%D0%B8%D1%80%D0%BB%D0%B0%D0%BA%20%28%D0%94%D0%B5%D0%B2%D0%B8%D1%87%D1%8C%D0%B8%20%D1%81%D0%BB%D1%91%D0%B7%D1%8B%29&ll=87.219562,50.34548&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Shirlak%20Waterfall%20%28Maiden%27s%20Tears%29%2C%20Altai%20Republic%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Welcome to Altai — Водопад Ширлак (Девичьи слёзы)",
+        "url": "http://welcometoaltai.ru/attractions/vodopad_devichi_slezy/"
+      },
+      {
+        "title": "Turistka.ru — Водопад Ширлак",
+        "url": "https://turistka.ru/altai/info.php?ob=1475"
+      }
+    ],
+    "tags": [
+      "waterfall",
+      "chuysky-trakt",
+      "chuya",
+      "roadside",
+      "nature",
+      "altai"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "altai-republic-beltertuyuk-waterfall",
+    "slug": "beltertuyuk-waterfall",
+    "region": "altai-republic",
+    "region_name_vi": "Cộng hoà Altai",
+    "federal_district": "Vùng Siberia",
+    "name_vi": "Thác Beltertuyuk",
+    "name_ru": "Водопад Бельтертуюк",
+    "name_en": "Beltertuyuk Waterfall",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 50.960545,
+      "lon": 86.288532
+    },
+    "address_vi": "Cách làng Kuyus ~8 km, cuối đường Chemal - Kuyus, huyện Chemalsky, Cộng hoà Altai, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Thác Beltertuyuk đổ hai bậc (khoảng 29 m và 11 m) xuống sông Katun tại điểm cuối con đường Chemal - Kuyus. Đây là một trong những thác đẹp và cao nhất vùng, được xếp hạng di tích thiên nhiên của Cộng hoà Altai.",
+    "presentation_long_vi": "Suối Beltertuyuk trước khi hoà vào sông Katun đã tạo nên một thác nước hai tầng ngoạn mục: bậc trên cao khoảng 29 m và bậc dưới chừng 11 m, nước trắng xoá tung bọt giữa vách đá. Thác nằm ở điểm cuối con đường ven hữu ngạn Katun từ Chemal qua làng Kuyus - đi khoảng 60 km từ Chemal và thêm 8 km sau Kuyus là tới nơi sông Beltertuyuk cùng tên đổ vào Katun. Có thể ngắm thác ngay từ cây cầu đường bộ bắc phía trên, nơi một phần dòng chảy len qua bên dưới. Cung đường Chemal - Kuyus dẫn tới thác cũng đi ngang nhiều petroglyph cổ, ghềnh đá và cảnh sông Katun ngọc lam, nên chuyến đi thường kết hợp nhiều điểm tham quan. Beltertuyuk được công nhận là đài kỷ niệm thiên nhiên của vùng.",
+    "highlights_vi": [
+      "Thác hai bậc (~29 m và ~11 m) đổ thẳng xuống sông Katun.",
+      "Nằm cuối cung đường Chemal - Kuyus ven hữu ngạn Katun.",
+      "Di tích thiên nhiên được bảo vệ của Cộng hoà Altai."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tự do suốt ngày đêm.",
+      "ticket_vi": "Miễn phí (đôi khi có phí nhỏ qua đất tư nhân trên đường).",
+      "duration_vi": "Khoảng 30-45 phút tại thác (chưa kể đường đi).",
+      "best_time_vi": "Cuối xuân - đầu hè thác mạnh nhất; mùa thu Katun lên màu ngọc lam.",
+      "tips_vi": "Đường Chemal - Kuyus phần cuối gồ ghề, hợp xe gầm cao; đứng ngắm cẩn thận trên cầu và mép vực."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4%20%D0%91%D0%B5%D0%BB%D1%8C%D1%82%D0%B5%D1%80%D1%82%D1%83%D1%8E%D0%BA&ll=86.288532,50.960545&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Beltertuyuk%20Waterfall%2C%20Altai%20Republic%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Visit Altai Republic — Водопад Бельтертуюк",
+        "url": "https://visit-altairepublic.ru/turizm-i-otdykh/obekty-turizma/priroda/vodopad-beltertuyuk/"
+      },
+      {
+        "title": "Turistka.ru — Водопад Бельтертуюк за селом Куюс",
+        "url": "https://www.turistka.ru/altai/info.php?ob=951"
+      }
+    ],
+    "tags": [
+      "waterfall",
+      "katun",
+      "kuyus",
+      "chemal",
+      "nature",
+      "altai"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "altai-republic-blue-lakes-katun",
+    "slug": "blue-lakes-katun",
+    "region": "altai-republic",
+    "region_name_vi": "Cộng hoà Altai",
+    "federal_district": "Vùng Siberia",
+    "name_vi": "Cụm Hồ Xanh Katun ('Mắt Katun')",
+    "name_ru": "Голубые озёра Катуни (Глаза Катуни)",
+    "name_en": "Blue Lakes of the Katun (Eyes of Katun)",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 51.566337,
+      "lon": 85.897256
+    },
+    "address_vi": "Tả ngạn sông Katun gần làng Askat, huyện Chemalsky, Cộng hoà Altai, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "'Mắt Katun' là cụm hồ nhỏ nước trong xanh biếc chỉ lộ ra khi mực nước sông Katun xuống thấp - từ cuối thu đến giữa xuân. Sắc nước ngọc lam - lam sẫm kỳ ảo khiến nơi đây thành điểm chụp ảnh nổi tiếng.",
+    "presentation_long_vi": "Голубые озёра - còn gọi trìu mến là 'Glaza Katuni' (Đôi Mắt Katun) - là những hồ nhỏ nằm trên bãi đá tả ngạn Katun, cách làng Askat vài km. Điều kỳ lạ là các hồ này chỉ 'xuất hiện' khi mực nước Katun hạ thấp vào mùa nước cạn (khoảng cuối tháng 8 đến giữa tháng 5); khi sông dâng cao mùa hè, chúng bị nhấn chìm và biến mất. Nước hồ trong vắt, ánh lên sắc lam - ngọc lục bảo huyền ảo dưới nắng, được nuôi bởi các mạch ngầm nên không đóng băng hoàn toàn ngay cả giữa đông. Tuỳ mùa và mực nước, số hồ có thể là hai hoặc ba 'con mắt'. Để tới nơi thường phải đi xe gầm cao theo đường đất rồi lội bộ trên bãi đá ven sông. Cảnh hồ xanh biếc tương phản với dòng Katun và núi tuyết mùa đông là khung hình được nhiều nhiếp ảnh gia săn đón.",
+    "highlights_vi": [
+      "Cụm hồ 'Mắt Katun' nước xanh ngọc lam chỉ hiện khi Katun cạn (thu - xuân).",
+      "Được nuôi bởi mạch ngầm nên hầu như không đóng băng giữa đông.",
+      "Điểm săn ảnh nổi tiếng bên tả ngạn Katun, gần làng Askat."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tự do; đẹp nhất khi mực nước Katun thấp.",
+      "ticket_vi": "Miễn phí (phí xe đưa đón/hướng dẫn tuỳ chọn).",
+      "duration_vi": "Khoảng 1-2 giờ gồm đi bộ ra bãi đá.",
+      "best_time_vi": "Cuối thu, mùa đông và đầu xuân - khi hồ lộ rõ và nước xanh nhất.",
+      "tips_vi": "Mùa hè hồ thường ngập mất; đi giày chống trơn trên bãi đá, thuê hướng dẫn nếu lần đầu."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%93%D0%BE%D0%BB%D1%83%D0%B1%D1%8B%D0%B5%20%D0%BE%D0%B7%D1%91%D1%80%D0%B0%20%D0%9A%D0%B0%D1%82%D1%83%D0%BD%D0%B8%20%28%D0%93%D0%BB%D0%B0%D0%B7%D0%B0%20%D0%9A%D0%B0%D1%82%D1%83%D0%BD%D0%B8%29&ll=85.897256,51.566337&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Blue%20Lakes%20of%20the%20Katun%20%28Eyes%20of%20Katun%29%2C%20Altai%20Republic%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Tourister.ru — Голубые озёра Катуни",
+        "url": "https://www.tourister.ru/world/europe/russia/city/askat/lakes/29894"
+      },
+      {
+        "title": "Turistka.ru — Голубые озёра Аската",
+        "url": "https://turistka.ru/altai/info.php?ob=861"
+      }
+    ],
+    "tags": [
+      "lake",
+      "katun",
+      "askat",
+      "chemal",
+      "nature",
+      "altai"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "altai-republic-roerich-house-museum",
+    "slug": "roerich-house-museum",
+    "region": "altai-republic",
+    "region_name_vi": "Cộng hoà Altai",
+    "federal_district": "Vùng Siberia",
+    "name_vi": "Bảo tàng tưởng niệm N. K. Roerich (Verkh-Uymon)",
+    "name_ru": "Мемориальный дом-музей Н. К. Рериха",
+    "name_en": "N. K. Roerich Memorial House-Museum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 50.213976,
+      "lon": 85.742829
+    },
+    "address_vi": "Phố Naberezhnaya 20A, làng Verkh-Uymon, huyện Ust-Koksinsky, Cộng hoà Altai, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng tưởng niệm hoạ sĩ - nhà thám hiểm Nikolai Roerich, dựng trên nền trang trại nơi đoàn thám hiểm Trung Á của ông dừng chân năm 1926 tại thung lũng Uymon. Nơi đây kể lại chặng Altai trong hành trình huyền thoại của gia đình Roerich.",
+    "presentation_long_vi": "Nằm trong ngôi làng cổ Verkh-Uymon giữa thung lũng Uymon xanh mướt, Bảo tàng tưởng niệm N. K. Roerich được lập trên nền dinh cơ cũ của nông dân Vakhramey Atamanov - nơi từ ngày 7 đến 19 tháng 8 năm 1926 đoàn thám hiểm Trung Á của hoạ sĩ, triết gia Nikolai Roerich đã dừng chân. Bảo tàng (mở cửa năm 2001 sau khi được Hội Roerich Siberia phục dựng) trưng bày tư liệu, ảnh, bản sao tranh và hiện vật về chặng Altai trong hành trình xuyên Á vĩ đại của gia đình Roerich, cùng đời sống, tín ngưỡng của cư dân Cổ tín đồ (staroverы) vùng Uymon. Roerich xem Altai và đỉnh Belukha là vùng đất thiêng gắn với truyền thuyết Belovodye và Shambhala, nên nơi đây thu hút cả du khách lẫn những người quan tâm triết học - tâm linh. Bảo tàng là điểm nhấn văn hoá giữa vùng núi hẻo lánh phía tây Cộng hoà Altai.",
+    "highlights_vi": [
+      "Dựng trên nền trang trại nơi đoàn thám hiểm Roerich dừng chân năm 1926.",
+      "Kể chặng Altai trong hành trình Trung Á và huyền thoại Belovodye - Belukha.",
+      "Giới thiệu văn hoá cư dân Cổ tín đồ thung lũng Uymon."
+    ],
+    "practical": {
+      "hours_vi": "Thường mở cửa hằng ngày mùa hè khoảng 9:00-19:00; ngoài mùa nên gọi hỏi trước.",
+      "ticket_vi": "Vé vào cửa thu phí ở mức khiêm tốn (vài trăm rúp).",
+      "duration_vi": "Khoảng 1-1,5 giờ.",
+      "best_time_vi": "Mùa hè (tháng 6-9), khi đường vào thung lũng Uymon thuận lợi.",
+      "tips_vi": "Verkh-Uymon khá xa (gần Ust-Koksa); nên kết hợp tham quan làng Cổ tín đồ và cảnh thung lũng."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%B4%D0%BE%D0%BC-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%20%D0%9D.%20%D0%9A.%20%D0%A0%D0%B5%D1%80%D0%B8%D1%85%D0%B0&ll=85.742829,50.213976&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=N.%20K.%20Roerich%20Memorial%20House-Museum%2C%20Altai%20Republic%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Culture.ru — Мемориальный дом-музей Н. К. Рериха, с. Верх-Уймон",
+        "url": "https://www.culture.ru/institutes/97738/memorialnyi-dom-muzei-n-k-rerikha-s-verkh-uimon"
+      },
+      {
+        "title": "2GIS — Мемориальный музей Н. К. Рериха, Верх-Уймон",
+        "url": "https://2gis.ru/gornoaltaysk/firm/70000001028253873"
+      }
+    ],
+    "tags": [
+      "museum",
+      "roerich",
+      "uymon",
+      "history",
+      "ethnography",
+      "altai"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "altai-republic-altai-botanical-garden-kamlak",
+    "slug": "altai-botanical-garden-kamlak",
+    "region": "altai-republic",
+    "region_name_vi": "Cộng hoà Altai",
+    "federal_district": "Vùng Siberia",
+    "name_vi": "Vườn thực vật Gorno-Altaysk (Kamlak)",
+    "name_ru": "Горно-Алтайский ботанический сад",
+    "name_en": "Gorno-Altaysk Botanical Garden",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 51.625104,
+      "lon": 85.701807
+    },
+    "address_vi": "Urochishche Chisty Lug, làng Kamlak, huyện Shebalinsky, Cộng hoà Altai, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Vườn thực vật Gorno-Altaysk là chi nhánh Altai của Vườn Bách thảo Trung Siberia (Viện Hàn lâm Khoa học Nga), sưu tập hàng nghìn loài cây thuốc và cây bản địa. Nằm bên Chuysky Trakt ở urochishche Chisty Lug thơ mộng.",
+    "presentation_long_vi": "Đặt tại urochishche Chisty Lug ('Đồng Cỏ Trong Lành') gần làng Kamlak, cách Gorno-Altaysk khoảng 77 km theo Chuysky Trakt, Vườn thực vật Gorno-Altaysk là cơ sở nghiên cứu khoa học - chi nhánh Altai của Vườn Bách thảo Trung Siberia thuộc Viện Hàn lâm Khoa học Nga. Trên diện tích rộng bên bờ suối Sema, vườn gìn giữ và trưng bày bộ sưu tập phong phú các loài cây thuốc, cây quý hiếm và thực vật bản địa của Altai lẫn nhiều vùng khác trên thế giới, được bố trí theo các khu vực sinh thái. Du khách có thể dạo giữa những luống dược thảo thơm ngát, tìm hiểu công dụng cây cỏ Altai, nếm trà thảo mộc và mua cây giống, hạt giống. Đây là điểm dừng chân dễ chịu, mang tính giáo dục trên hành trình Chuysky Trakt, phù hợp cả gia đình.",
+    "highlights_vi": [
+      "Chi nhánh Altai của Vườn Bách thảo Trung Siberia (Viện Hàn lâm Khoa học Nga).",
+      "Sưu tập cây thuốc, cây quý và thực vật bản địa Altai theo khu sinh thái.",
+      "Điểm dừng dễ chịu bên Chuysky Trakt: dạo vườn, uống trà thảo mộc, mua cây giống."
+    ],
+    "practical": {
+      "hours_vi": "Thường mở cửa mùa ấm (khoảng tháng 5-9), ban ngày; ngoài mùa nên hỏi trước.",
+      "ticket_vi": "Vé vào cửa thu phí mức khiêm tốn; có thể có phí hướng dẫn/trải nghiệm riêng.",
+      "duration_vi": "Khoảng 1-1,5 giờ.",
+      "best_time_vi": "Cuối xuân đến đầu thu, khi cây cối và dược thảo nở rộ.",
+      "tips_vi": "Nằm ngay gần Chuysky Trakt nên dễ ghé; mang nước và mũ vào ngày nắng."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%93%D0%BE%D1%80%D0%BD%D0%BE-%D0%90%D0%BB%D1%82%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%B0%D0%B4&ll=85.701807,51.625104&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Gorno-Altaysk%20Botanical%20Garden%2C%20Altai%20Republic%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "ООПТ России — Горно-Алтайский ботанический сад (филиал ЦСБС СО РАН)",
+        "url": "http://oopt.aari.ru/oopt/Горно-Алтайский-ботанический-сад-филиал-ЦСБС-СО-РАН"
+      },
+      {
+        "title": "2GIS — Горно-Алтайский ботанический сад, с. Камлак",
+        "url": "https://2gis.ru/gornoaltaysk/firm/3800440466609019"
+      }
+    ],
+    "tags": [
+      "botanical-garden",
+      "kamlak",
+      "chuysky-trakt",
+      "herbs",
+      "nature",
+      "altai"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "altai-republic-tarkhata-megalithic-complex",
+    "slug": "tarkhata-megalithic-complex",
+    "region": "altai-republic",
+    "region_name_vi": "Cộng hoà Altai",
+    "federal_district": "Vùng Siberia",
+    "name_vi": "Quần thể cự thạch Tarkhata ('Stonehenge của Altai')",
+    "name_ru": "Тархатинский мегалитический комплекс",
+    "name_en": "Tarkhata Megalithic Complex",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 49.798433,
+      "lon": 88.496069
+    },
+    "address_vi": "Rìa nam thảo nguyên Chuya, gần làng Kosh-Agach, huyện Kosh-Agachsky, Cộng hoà Altai, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Được mệnh danh 'Stonehenge của Altai', quần thể cự thạch Tarkhata là vòng tròn đá cổ đường kính khoảng 60 m với những khối đá cao tới 6 m, định hướng chính xác theo bốn phương - có thể là đài quan sát thiên văn thời đồ đồng.",
+    "presentation_long_vi": "Tọa lạc ở rìa nam thảo nguyên Chuya, không xa làng Kosh-Agach trên đường về phía cao nguyên Ukok và Dzhazator, Quần thể cự thạch Tarkhata là một di chỉ khảo cổ đặc biệt: những khối đá lớn được xếp thành vòng tròn đường kính khoảng 60 m, trong đó có tảng cao tới 6 m. Điều khiến các nhà nghiên cứu kinh ngạc là các phiến đá được định hướng theo bốn phương chính với sai số chỉ khoảng một độ, khiến nhiều người tin rằng đây từng là một 'lịch đá' - đài quan sát thiên văn của người cổ đại (niên đại ước cuối thiên niên kỷ 3 đến giữa thiên niên kỷ 2 trước Công nguyên). Người bản địa xem đây là nơi linh thiêng, 'chiếc nôi bằng đá'. Đứng giữa vòng đá khổng lồ trên nền thảo nguyên cao nguyên trơ trọi, bao quanh là các dãy núi biên giới, du khách cảm nhận rõ không khí cổ xưa và bí ẩn của vùng đất này.",
+    "highlights_vi": [
+      "Vòng tròn cự thạch đường kính ~60 m, khối đá cao tới 6 m - 'Stonehenge của Altai'.",
+      "Các phiến đá định hướng theo bốn phương chính xác đến ~1 độ - nghi là đài thiên văn cổ.",
+      "Niên đại thời đồ đồng, nằm giữa thảo nguyên Chuya hoang sơ."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tự do suốt ngày đêm.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 30-45 phút.",
+      "best_time_vi": "Mùa hè (tháng 6-9); thảo nguyên Chuya khí hậu khắc nghiệt, đông rất lạnh.",
+      "tips_vi": "Vùng biên giới cao nguyên - kiểm tra quy định giấy phép nếu đi sâu về Ukok; tôn trọng di tích, không xê dịch đá."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A2%D0%B0%D1%80%D1%85%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%B5%D0%B3%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81&ll=88.496069,49.798433&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Tarkhata%20Megalithic%20Complex%2C%20Altai%20Republic%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Тархатинский мегалитический комплекс",
+        "url": "https://ru.wikipedia.org/wiki/Тархатинский_мегалитический_комплекс"
+      },
+      {
+        "title": "Turistka.ru — Тархатинский мегалитический комплекс (Алтайский Стоунхендж)",
+        "url": "https://www.turistka.ru/altai/info.php?ob=2021"
+      }
+    ],
+    "tags": [
+      "megalith",
+      "archaeology",
+      "chuya-steppe",
+      "kosh-agach",
+      "ancient",
+      "altai"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "altai-republic-kuyus-petroglyphs",
+    "slug": "kuyus-petroglyphs",
+    "region": "altai-republic",
+    "region_name_vi": "Cộng hoà Altai",
+    "federal_district": "Vùng Siberia",
+    "name_vi": "Bãi khắc đá hang Kuyus",
+    "name_ru": "Петроглифы грота Куюс",
+    "name_en": "Kuyus Grotto Petroglyphs",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 50.986079,
+      "lon": 86.264943
+    },
+    "address_vi": "Hữu ngạn sông Katun, cách làng Kuyus ~5 km, huyện Chemalsky, Cộng hoà Altai, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Hốc đá Kuyus lưu giữ hơn hai trăm hình khắc cổ - hươu, nai sừng tấm, dê núi, thú săn mồi và hình người - có niên đại từ thời đồ đá mới đến sơ kỳ đồ sắt. Điểm khảo cổ hấp dẫn trên đường tới thác Beltertuyuk.",
+    "presentation_long_vi": "Nằm bên hữu ngạn sông Katun, cách làng Kuyus chừng 5 km trên cung đường dẫn tới thác Beltertuyuk, hang (hốc đá) Kuyus là một trong những địa điểm nghệ thuật đá đáng chú ý của Chemalsky. Trên vách hốc và các tảng đá lân cận, người xưa đã để lại hơn hai trăm hình khắc: hươu, nai sừng tấm, dê núi, những con thú săn mồi kỳ dị, hình người và nhiều biểu tượng khác. Phần lớn hình thuộc thời đồ đồng (khoảng bốn nghìn năm trước), nhưng những nét cổ nhất được cho có từ thời đồ đá mới (khoảng tám nghìn năm). Các petroglyph nằm cả bên trong khe đá lẫn ngoài trời, phản ánh đời sống săn bắn và tín ngưỡng của cư dân thung lũng Katun cổ. Ghé Kuyus, du khách như đọc được một 'bảo tàng ngoài trời' khắc trực tiếp lên đá của vùng núi Altai.",
+    "highlights_vi": [
+      "Hơn 200 hình khắc cổ: hươu, nai, dê núi, thú săn mồi và hình người.",
+      "Niên đại trải từ đồ đá mới đến sơ kỳ đồ sắt (tới ~8.000 năm).",
+      "Nằm trên cung đường Chemal - Kuyus tới thác Beltertuyuk."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tự do suốt ngày đêm.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 30-45 phút.",
+      "best_time_vi": "Cuối xuân đến đầu thu, khi đường ven Katun khô ráo.",
+      "tips_vi": "Không chạm/tô vẽ lên hình khắc; nên có hướng dẫn để tìm và hiểu các petroglyph."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B3%D0%BB%D0%B8%D1%84%D1%8B%20%D0%B3%D1%80%D0%BE%D1%82%D0%B0%20%D0%9A%D1%83%D1%8E%D1%81&ll=86.264943,50.986079&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kuyus%20Grotto%20Petroglyphs%2C%20Altai%20Republic%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Altai.Travel — Петроглифы грота Куюс",
+        "url": "https://altai.travel/tourism/places/petroglify-grota-kuyus"
+      },
+      {
+        "title": "Turistka.ru — Куюсский грот (петроглифы)",
+        "url": "https://www.turistka.ru/altai/info.php?ob=957"
+      }
+    ],
+    "tags": [
+      "petroglyphs",
+      "rock-art",
+      "archaeology",
+      "kuyus",
+      "katun",
+      "altai"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "altai-republic-che-chkysh-valley",
+    "slug": "che-chkysh-valley",
+    "region": "altai-republic",
+    "region_name_vi": "Cộng hoà Altai",
+    "federal_district": "Vùng Siberia",
+    "name_vi": "Hẻm Che-Chkysh ('Thung lũng Linh hồn Núi')",
+    "name_ru": "Урочище Че-Чкыш (Долина горных духов)",
+    "name_en": "Che-Chkysh (Valley of Mountain Spirits)",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 51.264976,
+      "lon": 86.074188
+    },
+    "address_vi": "Hẻm Che-Chkysh, cách Chemal ~17 km gần làng Elanda, huyện Chemalsky, Cộng hoà Altai, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "'Thung lũng Linh hồn Núi' là hẻm núi hẹp với vách đá dựng cao tới ~150 m, một thác nước nhỏ trong vắt và đài ngắm cảnh nhìn ra thung lũng Katun cùng những hình khắc đá cổ.",
+    "presentation_long_vi": "Urochishche Che-Chkysh, quen gọi là 'Dolina gornykh dukhov' - 'Thung lũng Linh hồn Núi' - nằm cách Chemal khoảng 17 km, gần làng Elanda. Con suối nhỏ Che-Chkysh len giữa hai bức vách đá dựng đứng cao tới chừng 150 m, tạo nên một hẻm núi kỳ vĩ mà chỉ mất khoảng mười phút đi bộ từ đường Chemalsky là tới. Trong hẻm có một thác nước nhỏ (cao chừng 4 m) với dòng nước lạnh trong vắt, và trên đường mòn du khách còn bắt gặp các petroglyph cổ khắc trên đá. Leo tiếp lên đài ngắm cảnh phía trên, cả thung lũng sông Katun xanh biếc và núi non trải ra trước mắt. Không gian tĩnh lặng, cây cỏ và những phiến đá phủ rêu khiến nơi đây được người bản địa xem là chốn linh thiêng - đúng như tên gọi thi vị của nó. Đây là điểm dạo bộ ngắn, đẹp và dễ chịu bậc nhất quanh Chemal.",
+    "highlights_vi": [
+      "Hẻm núi hẹp vách đá cao ~150 m, thác nhỏ nước trong và petroglyph cổ.",
+      "Đài ngắm cảnh nhìn bao quát thung lũng sông Katun.",
+      "Đường mòn ngắn (~10 phút) từ đường Chemalsky - hợp mọi lứa tuổi."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tự do; các điểm dịch vụ ven đường hoạt động ban ngày.",
+      "ticket_vi": "Thường thu phí vào cửa nhỏ (điểm tham quan có quản lý).",
+      "duration_vi": "Khoảng 1-1,5 giờ.",
+      "best_time_vi": "Cuối xuân đến đầu thu; sáng sớm ít người, ánh sáng đẹp.",
+      "tips_vi": "Đường mòn có đoạn dốc đá - đi giày bám tốt; không viết vẽ lên các hình khắc cổ."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A3%D1%80%D0%BE%D1%87%D0%B8%D1%89%D0%B5%20%D0%A7%D0%B5-%D0%A7%D0%BA%D1%8B%D1%88%20%28%D0%94%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0%20%D0%B3%D0%BE%D1%80%D0%BD%D1%8B%D1%85%20%D0%B4%D1%83%D1%85%D0%BE%D0%B2%29&ll=86.074188,51.264976&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Che-Chkysh%20%28Valley%20of%20Mountain%20Spirits%29%2C%20Altai%20Republic%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Turistka.ru — Водопад Чечкыш (Че-Чкыш) и Долина горных духов",
+        "url": "https://turistka.ru/altai/info.php?ob=809"
+      },
+      {
+        "title": "Travelask — урочище Чечкыш (Долина горных духов)",
+        "url": "https://travelask.ru/russia/chemal/vsyo-pro-urochische-chechkysh-dolina-gornyh-duhov-v-gornom-altae"
+      }
+    ],
+    "tags": [
+      "gorge",
+      "waterfall",
+      "viewpoint",
+      "petroglyphs",
+      "chemal",
+      "altai"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "altai-republic-dragons-teeth-katun",
+    "slug": "dragons-teeth-katun",
+    "region": "altai-republic",
+    "region_name_vi": "Cộng hoà Altai",
+    "federal_district": "Vùng Siberia",
+    "name_vi": "Ghềnh đá 'Răng Rồng' (Zuby Drakona)",
+    "name_ru": "Скалы Зубы дракона",
+    "name_en": "Dragon's Teeth Rocks",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 51.47499,
+      "lon": 85.986067
+    },
+    "address_vi": "Giữa dòng sông Katun gần làng Elekmonar, cách Chemal ~7-9 km, huyện Chemalsky, Cộng hoà Altai, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "'Răng Rồng' là hàng đá nhọn nhô lên giữa dòng Katun ngọc lam gần làng Elekmonar. Một cây cầu treo dành cho người đi bộ vắt qua đúng một trong những 'chiếc răng', tạo khung cảnh và trải nghiệm độc đáo.",
+    "presentation_long_vi": "Skaly 'Zuby drakona' - 'Răng Rồng' - là một dãy phiến đá sắc nhọn trồi lên ngay giữa lòng sông Katun, gần làng Elekmonar và cách Chemal chừng 7-9 km. Nhìn từ bờ, những mỏm đá xám xếp thành hàng như hàm răng khổng lồ xẻ dòng nước ngọc lam cuộn chảy, đặc biệt ấn tượng vào mùa thu khi Katun trong xanh. Một cây cầu treo đi bộ nối làng Elekmonar với khu nghỉ bên kia sông được bắc tựa lên một trong các 'chiếc răng', cho du khách bước ra tận giữa dòng để ngắm và chụp ảnh. Theo truyền thuyết địa phương, xưa có một con rồng bay qua sông bị người anh hùng bắn trúng, răng rồng rơi xuống cắm vào đáy Katun và hoá thành hàng đá này. 'Răng Rồng' là một trong những điểm ngắm sông được yêu thích nhất quanh Chemal.",
+    "highlights_vi": [
+      "Hàng đá nhọn 'Răng Rồng' trồi giữa dòng Katun ngọc lam.",
+      "Cầu treo đi bộ bắc lên một 'chiếc răng' - ngắm sông từ giữa dòng.",
+      "Gắn với truyền thuyết rồng bị bắn rơi răng xuống Katun."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tự do; cầu treo và dịch vụ ven bờ hoạt động ban ngày.",
+      "ticket_vi": "Ngắm từ bờ miễn phí; qua cầu treo tư nhân có thể thu phí nhỏ.",
+      "duration_vi": "Khoảng 30-45 phút.",
+      "best_time_vi": "Mùa thu (tháng 9-10) khi Katun lên màu ngọc lam đẹp nhất.",
+      "tips_vi": "Nước Katun chảy xiết và lạnh - không xuống tắm gần ghềnh; cẩn thận trên cầu treo."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%BA%D0%B0%D0%BB%D1%8B%20%D0%97%D1%83%D0%B1%D1%8B%20%D0%B4%D1%80%D0%B0%D0%BA%D0%BE%D0%BD%D0%B0&ll=85.986067,51.47499&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Dragon%27s%20Teeth%20Rocks%2C%20Altai%20Republic%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Sibalt.ru — Зубы дракона в Горном Алтае",
+        "url": "https://www.sibalt.ru/info-gornyj-altai/899-zuby-drakona-v-gornom-altae"
+      },
+      {
+        "title": "Turistka.ru — Скалы Зубы дракона",
+        "url": "https://turistka.ru/altai/info.php?ob=2192"
+      }
+    ],
+    "tags": [
+      "rock",
+      "katun",
+      "elekmonar",
+      "suspension-bridge",
+      "chemal",
+      "altai"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "altai-republic-aktru-gorge-glacier",
+    "slug": "aktru-gorge-glacier",
+    "region": "altai-republic",
+    "region_name_vi": "Cộng hoà Altai",
+    "federal_district": "Vùng Siberia",
+    "name_vi": "Thung lũng và sông băng Aktru",
+    "name_ru": "Ущелье и ледник Актру",
+    "name_en": "Aktru Gorge and Glacier",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 50.083531,
+      "lon": 87.778774
+    },
+    "address_vi": "Thung lũng sông Aktru, dãy Bắc Chuysky, huyện Kosh-Agachsky, Cộng hoà Altai, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Thung lũng băng hà Aktru dưới chân dãy Bắc Chuysky là cái nôi leo núi lâu đời nhất Altai (từ năm 1938), với hệ bảy sông băng, Hồ Xanh (Goluboye) treo cao và những đỉnh tuyết hùng vĩ vây quanh trại alплагерь.",
+    "presentation_long_vi": "Aktru là tên cả một lưu vực núi - băng hà của con sông cùng tên, gồm tới bảy sông băng với tổng diện tích khoảng 16 km2 nằm trên dãy Bắc Chuysky. Ở độ cao chừng 2.150 m, alплагерь (trại leo núi) Aktru được lập từ năm 1938 và là một trong những trung tâm leo núi lâu đời, quan trọng nhất của Altai, nơi hội tụ các tuyến từ dễ (1A) đến khó nhất (6A). Từ trại, du khách có thể đi bộ ngắn tới mỏm đá 'Trán Cừu' (Barani Lby) đá mài nhẵn bởi băng hà, hoặc leo khoảng ba giờ lên Hồ Xanh (Goluboye ozero) treo cao dưới lưỡi băng, ngắm toàn cảnh các đỉnh tuyết và dòng sông băng trắng xoá. Khung cảnh núi cao khắc nghiệt mà tráng lệ khiến Aktru là điểm đến mơ ước của dân leo núi, trekking và nhiếp ảnh; mùa hè lẫn mùa đông đều có hoạt động. Đường vào những chặng cuối phải dùng xe địa hình chuyên dụng (GAZ-66) hoặc đi bộ.",
+    "highlights_vi": [
+      "Lưu vực với 7 sông băng dưới dãy Bắc Chuysky; alплагерь Aktru có từ 1938.",
+      "Đi bộ tới 'Trán Cừu' đá mài băng hà và Hồ Xanh treo cao dưới lưỡi băng.",
+      "Cái nôi leo núi Altai với các tuyến từ 1A đến 6A - cảnh núi tuyết tráng lệ."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tự do; trại leo núi và cơ sở lưu trú hoạt động quanh năm.",
+      "ticket_vi": "Miễn phí tham quan; dịch vụ xe địa hình, chỗ ở, hướng dẫn leo núi thu phí.",
+      "duration_vi": "1-3 ngày (gồm di chuyển và các tuyến đi bộ trong thung lũng).",
+      "best_time_vi": "Tháng 7-9 cho trekking; mùa đông - xuân cho leo núi tuyết và trượt.",
+      "tips_vi": "Chặng cuối cần xe địa hình chuyên dụng hoặc đi bộ; núi cao lạnh và loãng khí - chuẩn bị kỹ, nên có hướng dẫn."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A3%D1%89%D0%B5%D0%BB%D1%8C%D0%B5%20%D0%B8%20%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA%20%D0%90%D0%BA%D1%82%D1%80%D1%83&ll=87.778774,50.083531&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Aktru%20Gorge%20and%20Glacier%2C%20Altai%20Republic%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Tourister.ru — Ледник Актру",
+        "url": "https://www.tourister.ru/world/europe/russia/city/kuray/glacier/38091"
+      },
+      {
+        "title": "Welcome to Altai — Ледник Актру",
+        "url": "http://welcometoaltai.ru/attractions/lednik_aktru/"
+      }
+    ],
+    "tags": [
+      "glacier",
+      "gorge",
+      "mountaineering",
+      "north-chuysky",
+      "nature",
+      "altai"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "altai-republic-yarlu-valley",
+    "slug": "yarlu-valley",
+    "region": "altai-republic",
+    "region_name_vi": "Cộng hoà Altai",
+    "federal_district": "Vùng Siberia",
+    "name_vi": "Thung lũng Yarlu ('Núi Cầu Vồng')",
+    "name_ru": "Долина Ярлу",
+    "name_en": "Yarlu Valley",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 49.921198,
+      "lon": 86.575884
+    },
+    "address_vi": "Hữu ngạn hồ Akkem, công viên tự nhiên Belukha, huyện Ust-Koksinsky, Cộng hoà Altai, Nga",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Thung lũng Yarlu gần hồ Akkem nổi tiếng với 'núi cầu vồng' - những sườn đá nhiều màu tím, lam, cam - cùng 'Thành phố Đá' và Đá Roerich giữa lòng thung lũng, dưới chân đỉnh Belukha.",
+    "presentation_long_vi": "Nằm bên hữu ngạn hồ Akkem, ngay dưới chân đỉnh thiêng Belukha trong công viên tự nhiên Belukha, thung lũng Yarlu là một trong những điểm đến ngoạn mục nhất của cung trek quanh Akkem. Tên Yarlu theo tiếng Altai nghĩa là 'hẻm có vách dốc', ứng với những sườn núi sạt lở bao quanh thung lũng. Điều làm Yarlu nổi tiếng là các dải đá nhiều màu - tím, xanh lam, cam - xếp lớp tạo nên cảnh 'núi cầu vồng' huyền ảo, đặc biệt rực rỡ dưới nắng. Giữa thung lũng có khối đá nguyên khối được gọi là 'Kamen Mudrosti' (Đá Trí Tuệ) hay Đá Roerich, quanh đó du khách và những người theo triết học Roerich đã xếp thêm nhiều bức tường, vòng đá tạo thành 'Thành phố Đá'. Đây cũng là nơi hiếm hoi tìm thấy hoa nhung tuyết edelweiss, nên Yarlu còn được gọi là 'Thung lũng Hoa Nhung Tuyết'. Không gian tĩnh lặng, sắc màu kỳ lạ và bầu không khí tâm linh khiến Yarlu để lại ấn tượng sâu đậm.",
+    "highlights_vi": [
+      "'Núi cầu vồng' - sườn đá nhiều màu tím, lam, cam xếp lớp huyền ảo.",
+      "'Thành phố Đá' và Đá Roerich (Đá Trí Tuệ) giữa lòng thung lũng.",
+      "Dưới chân Belukha, gần hồ Akkem - nơi có hoa nhung tuyết edelweiss."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tự do; chỉ tới được bằng trekking/cưỡi ngựa nhiều ngày qua hồ Akkem.",
+      "ticket_vi": "Miễn phí (chi phí tour, ngựa, hướng dẫn và phí công viên tự nhiên tuỳ chọn).",
+      "duration_vi": "Nửa ngày đi bộ khứ hồi từ khu hồ Akkem (trong cung trek dài ngày).",
+      "best_time_vi": "Giữa tháng 7 đến giữa tháng 9, khi đèo hết tuyết và thời tiết ổn định.",
+      "tips_vi": "Nằm trong cung trek Belukha vất vả - cần thể lực, trang bị và hướng dẫn viên; tôn trọng không gian linh thiêng, không xê dịch đá bừa bãi."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%94%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0%20%D0%AF%D1%80%D0%BB%D1%83&ll=86.575884,49.921198&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Yarlu%20Valley%2C%20Altai%20Republic%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Turistka.ru — Ущелье Ярлу около горы Белуха (Каменный город, камень Рериха)",
+        "url": "https://www.turistka.ru/altai/info.php?ob=1174"
+      },
+      {
+        "title": "Клуб Восход — Долина Ярлу и камень Рериха",
+        "url": "https://club-voshod.com/info/pohodnoe_info/dostoprimechatelnosti/altai/altay_dolina_yarlu_kamen_reriha/"
+      }
+    ],
+    "tags": [
+      "valley",
+      "rainbow-mountains",
+      "belukha",
+      "akkem",
+      "trekking",
+      "altai"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
   }
 ]

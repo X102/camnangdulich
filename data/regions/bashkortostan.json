@@ -2020,5 +2020,1217 @@
     "status": "enriched",
     "last_updated": "2026-08-08",
     "country": "russia"
+  },
+  {
+    "id": "bashkortostan-museum-archaeology-ethnography-ufa",
+    "slug": "museum-archaeology-ethnography-ufa",
+    "region": "bashkortostan",
+    "region_name_vi": "Cộng hoà Bashkortostan",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Bảo tàng Khảo cổ và Dân tộc học (Muzei arkheologii i etnografii)",
+    "name_ru": "Музей археологии и этнографии",
+    "name_en": "Museum of Archaeology and Ethnography",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 54.72105,
+      "lon": 55.939028
+    },
+    "address_vi": "Phố Karla Marksa 6, thành phố Ufa, Cộng hoà Bashkortostan, Nga (toà biệt thự cổ đầu thế kỷ 20).",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng chuyên đề về khảo cổ và dân tộc học vùng Nam Ural, nổi tiếng nhất với bộ sưu tập «Vàng của người Sarmat» khai quật từ các gò mộ Filippovka. Đặt trong toà biệt thự cổ đầu thế kỷ 20, nơi trưng bày hàng nghìn hiện vật từ thời đồ đá đến các dân tộc bản địa.",
+    "presentation_long_vi": "Nằm trong một toà biệt thự bằng đá kiểu cổ điển đầu thế kỷ 20 ở trung tâm Ufa, Bảo tàng Khảo cổ và Dân tộc học là kho báu học thuật của vùng Nam Ural, trực thuộc Trung tâm nghiên cứu khoa học Ufa (Viện Hàn lâm Khoa học Nga). Điểm hấp dẫn bậc nhất là bộ sưu tập trứ danh «Vàng của người Sarmat» (Zoloto sarmatov): những tượng hươu vàng, bình, vũ khí và trang sức tinh xảo có niên đại khoảng thế kỷ 4 trước Công nguyên, được tìm thấy trong các gò mộ hoàng gia Filippovka của người du mục Sarmat cổ. Bên cạnh đó, bảo tàng còn lưu giữ và giới thiệu một khối lượng lớn hiện vật khảo cổ trải dài từ thời đồ đá, đồ đồng đến thời trung đại, cùng bộ sưu tập dân tộc học phong phú về các dân tộc cùng sinh sống trên đất Bashkortostan như người Bashkir, Nga, Tatar, Chuvash, Mari, Udmurt — với trang phục, đồ dùng, tín ngưỡng và nghề thủ công truyền thống. Toà nhà bản thân nó cũng là một di tích kiến trúc, từng gắn với những trang sử của Ufa. Với du khách, đây là điểm đến sâu sắc để hiểu về quá khứ cổ xưa và bức tranh đa sắc tộc của vùng đất này.",
+    "highlights_vi": [
+      "Bộ sưu tập «Vàng của người Sarmat» từ gò mộ Filippovka — tượng hươu vàng thế kỷ 4 TCN.",
+      "Hiện vật khảo cổ vùng Nam Ural từ thời đồ đá, đồ đồng đến trung đại.",
+      "Trưng bày dân tộc học về người Bashkir, Nga, Tatar, Chuvash, Mari và các dân tộc bản địa."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa các ngày trong tuần (thường trừ thứ Hai); nên kiểm tra giờ và tình trạng trưng bày 'Vàng Sarmat' trước khi đến.",
+      "ticket_vi": "Vé vào cửa bình dân; phần trưng bày vàng có thể có vé riêng.",
+      "duration_vi": "Khoảng 1–1,5 giờ.",
+      "best_time_vi": "Quanh năm (trong nhà).",
+      "tips_vi": "Nằm ở trung tâm Ufa, dễ kết hợp với Bảo tàng Quốc gia và các điểm phố cổ; thuê thuyết minh để hiểu sâu bộ sưu tập Sarmat."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%B9%20%D0%B0%D1%80%D1%85%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8%20%D0%B8%20%D1%8D%D1%82%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%B8&ll=55.939028,54.72105&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Archaeology%20and%20Ethnography%2C%20Bashkortostan%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Культура.РФ — Музей археологии и этнографии (Уфа)",
+        "url": "https://www.culture.ru/institutes/3260/muzei-arkheologii-i-etnografii"
+      },
+      {
+        "title": "Wikipedia (RU) — Музей археологии и этнографии (Уфа)",
+        "url": "https://ru.wikipedia.org/wiki/Музей_археологии_и_этнографии_(Уфа)"
+      }
+    ],
+    "tags": [
+      "museum",
+      "archaeology",
+      "ethnography",
+      "sarmatian-gold",
+      "filippovka",
+      "ufa"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "bashkortostan-sterlitamak-museum",
+    "slug": "sterlitamak-museum",
+    "region": "bashkortostan",
+    "region_name_vi": "Cộng hoà Bashkortostan",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Bảo tàng Lịch sử - Địa phương Sterlitamak (Sterlitamakskii muzei)",
+    "name_ru": "Стерлитамакский историко-краеведческий музей",
+    "name_en": "Sterlitamak Museum of History and Local Lore",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 53.617136,
+      "lon": 55.964637
+    },
+    "address_vi": "Phố Karla Marksa 100, thành phố Sterlitamak, Cộng hoà Bashkortostan, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng lịch sử - địa phương chính của Sterlitamak — thành phố lớn thứ hai vùng Bashkortostan. Nơi kể lại lịch sử vùng đất từ thời cổ đại, quá trình hình thành thành phố muối bên sông Ashkadar cho tới đời sống công nghiệp và văn hoá đa dân tộc.",
+    "presentation_long_vi": "Ở thành phố Sterlitamak — đô thị lớn thứ hai của Bashkortostan, nằm dưới chân cụm núi shikhan trứ danh — Bảo tàng Lịch sử - Địa phương là nơi lưu giữ ký ức của cả một vùng đất phía nam nước cộng hoà. Bảo tàng giới thiệu quá trình hình thành thành phố: từ bến muối Ashkadar thế kỷ 18 (nơi trung chuyển muối từ hồ Iletsk) phát triển thành một trung tâm thương mại rồi công nghiệp hoá chất lớn thời Xô Viết. Các gian trưng bày dẫn dắt người xem qua nhiều chủ đề: thiên nhiên và địa chất vùng shikhan (những rạn san hô cổ nhô lên giữa thảo nguyên), khảo cổ và cổ sinh, lịch sử khai phá, đời sống của người Bashkir, Nga, Tatar, Ukraina cùng chung sống, thời kỳ chiến tranh và công cuộc xây dựng thành phố hiện đại. Bộ sưu tập gồm hiện vật dân tộc học, tài liệu, ảnh tư liệu, đồ dùng sinh hoạt và cả những mẫu vật hoá thạch quý từ núi shikhan. Với du khách khám phá miền nam Bashkortostan, đây là điểm dừng giúp hiểu chiều sâu lịch sử của Sterlitamak trước khi leo lên chiêm ngưỡng các đỉnh shikhan Toratau, Kushtau gần đó.",
+    "highlights_vi": [
+      "Bảo tàng chính của Sterlitamak — thành phố lớn thứ hai vùng Bashkortostan.",
+      "Kể lịch sử từ bến muối Ashkadar thế kỷ 18 đến trung tâm công nghiệp hoá chất.",
+      "Trưng bày thiên nhiên núi shikhan, khảo cổ và văn hoá đa dân tộc của vùng nam."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa các ngày trong tuần (thường trừ thứ Hai); nên kiểm tra giờ trước.",
+      "ticket_vi": "Vé vào cửa bình dân; có phí hướng dẫn.",
+      "duration_vi": "Khoảng 1–1,5 giờ.",
+      "best_time_vi": "Quanh năm (trong nhà).",
+      "tips_vi": "Sterlitamak cách Ufa ~120 km; kết hợp tham quan cụm núi shikhan Toratau, Kushtau và trung tâm thành phố."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D1%82%D0%B5%D1%80%D0%BB%D0%B8%D1%82%D0%B0%D0%BC%D0%B0%D0%BA%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%BE-%D0%BA%D1%80%D0%B0%D0%B5%D0%B2%D0%B5%D0%B4%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9&ll=55.964637,53.617136&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Sterlitamak%20Museum%20of%20History%20and%20Local%20Lore%2C%20Bashkortostan%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "2GIS — Стерлитамакский историко-краеведческий музей",
+        "url": "https://2gis.ru/sterlitamak/firm/7600352652167910"
+      },
+      {
+        "title": "Wikipedia (RU) — Стерлитамак",
+        "url": "https://ru.wikipedia.org/wiki/Стерлитамак"
+      }
+    ],
+    "tags": [
+      "museum",
+      "history",
+      "local-lore",
+      "ethnography",
+      "sterlitamak"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "bashkortostan-ufa-history-museum",
+    "slug": "ufa-history-museum",
+    "region": "bashkortostan",
+    "region_name_vi": "Cộng hoà Bashkortostan",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Bảo tàng Lịch sử thành phố Ufa (Muzei istorii goroda Ufy)",
+    "name_ru": "Музей истории города Уфы",
+    "name_en": "Museum of the History of Ufa",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 54.733641,
+      "lon": 55.951316
+    },
+    "address_vi": "Phố Lenina 72, thành phố Ufa, Cộng hoà Bashkortostan, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng dành riêng cho lịch sử thành phố Ufa — từ pháo đài Nga thế kỷ 16 bên sông Belaya đến thủ phủ hiện đại của Bashkortostan. Đặt trong một toà nhà lịch sử ở trung tâm, tái hiện đời sống đô thị qua các thời kỳ.",
+    "presentation_long_vi": "Nằm trong một toà nhà lịch sử ở trung tâm Ufa, Bảo tàng Lịch sử thành phố Ufa kể riêng câu chuyện của đô thị này — từ khi ra đời cho tới ngày nay. Ufa khởi nguồn là một pháo đài do người Nga lập nên vào nửa sau thế kỷ 16 (khoảng năm 1574) trên vùng đồi cao bên hợp lưu sông Belaya (Agidel) và Ufa, dần trở thành trung tâm hành chính, thương mại và cuối cùng là thủ phủ của Cộng hoà Bashkortostan. Bảo tàng bố trí theo các chủ đề và thời kỳ: lịch sử thành lập pháo đài, đời sống thương gia và thị dân thế kỷ 19, quá trình công nghiệp hoá, thành phố thời chiến tranh, và diện mạo hiện đại. Du khách được xem những bức ảnh cổ, bản đồ, đồ dùng sinh hoạt, mô hình phố xá, tư liệu về các nhân vật gắn với Ufa cùng những hiện vật gợi lại nếp sống đô thị đã qua. Không gian bảo tàng vừa phải, ấm cúng, phù hợp cho một buổi tham quan nhẹ nhàng. Đây là nơi lý tưởng để du khách nắm được mạch lịch sử của thành phố trước khi dạo bộ khám phá các con phố và công trình cổ của Ufa.",
+    "highlights_vi": [
+      "Bảo tàng chuyên về lịch sử thành phố Ufa từ pháo đài thế kỷ 16 đến ngày nay.",
+      "Trưng bày ảnh cổ, bản đồ, đồ dùng và mô hình tái hiện đời sống đô thị qua các thời kỳ.",
+      "Đặt trong toà nhà lịch sử ở trung tâm, dễ kết hợp dạo phố cổ Ufa."
+    ],
+    "practical": {
+      "hours_vi": "Mở cửa các ngày trong tuần (thường trừ thứ Hai); nên kiểm tra giờ trước.",
+      "ticket_vi": "Vé vào cửa bình dân; có phí hướng dẫn.",
+      "duration_vi": "Khoảng 1 giờ.",
+      "best_time_vi": "Quanh năm (trong nhà).",
+      "tips_vi": "Nằm trên phố Lenina ở trung tâm; kết hợp tham quan các bảo tàng và công trình cổ lân cận."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%B9%20%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8%20%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0%20%D0%A3%D1%84%D1%8B&ll=55.951316,54.733641&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20the%20History%20of%20Ufa%2C%20Bashkortostan%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Yandex Карты — Музей истории города Уфы",
+        "url": "https://yandex.com/maps/org/muzey_istorii_goroda_ufy/70776357822/"
+      },
+      {
+        "title": "2GIS — Музей истории города Уфы",
+        "url": "https://2gis.ru/ufa/firm/70000001039138754"
+      }
+    ],
+    "tags": [
+      "museum",
+      "history",
+      "city-history",
+      "ufa"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "bashkortostan-spassky-church-ufa",
+    "slug": "spassky-church-ufa",
+    "region": "bashkortostan",
+    "region_name_vi": "Cộng hoà Bashkortostan",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Nhà thờ Chúa Cứu Thế (Spasskii khram) ở Ufa",
+    "name_ru": "Спасский храм (Спасская церковь), Уфа",
+    "name_en": "Church of the Saviour (Spassky), Ufa",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 54.72054,
+      "lon": 55.95816
+    },
+    "address_vi": "Phố Oktyabrskoy revolyutsii 37а, thành phố Ufa, Cộng hoà Bashkortostan, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhà thờ Chính thống giáo phong cách cổ điển nửa đầu thế kỷ 19, nổi bật với hàng cột vòng cung (colonnade) mô phỏng Nhà thờ Kazan ở Sankt-Peterburg. Một trong những công trình tôn giáo cổ và độc đáo nhất còn lại của Ufa, đang được trùng tu.",
+    "presentation_long_vi": "Trên phố Oktyabrskoy revolyutsii ở khu phố cổ Ufa, Nhà thờ Chúa Cứu Thế (Spassky) gây ấn tượng bởi kiến trúc cổ điển bề thế hiếm gặp trong vùng: một hàng cột vòng cung (colonnade) uốn quanh mặt tiền, được cho là mô phỏng theo Nhà thờ Kazan trứ danh ở Sankt-Peterburg. Ngôi đền được xây dựng trong nửa đầu thế kỷ 19 (khoảng những năm 1824–1845) trên nền một nhà thờ cũ hơn, và từng là một trong những nhà thờ đẹp, quan trọng bậc nhất của thành phố. Sang thời Xô Viết, nhà thờ bị đóng cửa, mất phần chóp vòm và tháp chuông, bị trưng dụng làm rạp chiếu phim rồi nhà xưởng, xuống cấp nghiêm trọng. Từ đầu thế kỷ 21, công trình dần được trao trả cho Giáo hội và bước vào quá trình trùng tu, phục dựng lại dáng vẻ nguyên bản. Dù còn dang dở, hàng cột cổ điển và khối kiến trúc của Spassky vẫn là một điểm nhấn lịch sử quý giá, minh chứng cho di sản kiến trúc tôn giáo phong phú của Ufa xưa. Với du khách yêu kiến trúc và lịch sử, đây là một điểm dừng thú vị trong hành trình khám phá phố cổ.",
+    "highlights_vi": [
+      "Nhà thờ Chính thống cổ điển nửa đầu thế kỷ 19 với hàng cột vòng cung độc đáo.",
+      "Kiến trúc mô phỏng Nhà thờ Kazan ở Sankt-Peterburg — hiếm gặp ở vùng Ural.",
+      "Từng bị trưng dụng thời Xô Viết, đang được trùng tu phục dựng."
+    ],
+    "practical": {
+      "hours_vi": "Đang trùng tu và hoạt động tôn giáo; ngắm bên ngoài tự do, bên trong tuỳ tình trạng.",
+      "ticket_vi": "Miễn phí; quyên góp tuỳ tâm.",
+      "duration_vi": "Khoảng 15–25 phút.",
+      "best_time_vi": "Cuối xuân đến đầu thu; ban ngày để ngắm hàng cột.",
+      "tips_vi": "Nằm ở khu phố cổ Ufa; kết hợp dạo bộ và ăn mặc kín đáo nếu vào bên trong."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%BF%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D1%85%D1%80%D0%B0%D0%BC%20%28%D0%A1%D0%BF%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D1%8F%20%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C%29%2C%20%D0%A3%D1%84%D0%B0&ll=55.95816,54.72054&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Church%20of%20the%20Saviour%20%28Spassky%29%2C%20Ufa%2C%20Bashkortostan%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "2GIS — Спасский храм, Уфа",
+        "url": "https://2gis.ru/ufa/firm/2393065583345374"
+      },
+      {
+        "title": "Wikipedia (RU) — Спасская церковь (Уфа)",
+        "url": "https://ru.wikipedia.org/wiki/Спасская_церковь_(Уфа)"
+      }
+    ],
+    "tags": [
+      "church",
+      "orthodox",
+      "classicism",
+      "colonnade",
+      "heritage",
+      "ufa"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "bashkortostan-sergievsky-cathedral-ufa",
+    "slug": "sergievsky-cathedral-ufa",
+    "region": "bashkortostan",
+    "region_name_vi": "Cộng hoà Bashkortostan",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Nhà thờ chính toà Thánh Sergiy (Svyato-Sergievskii sobor)",
+    "name_ru": "Свято-Сергиевский кафедральный собор, Уфа",
+    "name_en": "St Sergius Cathedral, Ufa",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 54.710967,
+      "lon": 55.967701
+    },
+    "address_vi": "Phố Bekhtereva 2, khu phố cổ, thành phố Ufa, Cộng hoà Bashkortostan, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Một trong những nhà thờ Chính thống giáo cổ và liên tục hoạt động lâu đời nhất của Ufa, cung hiến cho Thánh Sergiy xứ Radonezh. Ngôi đền gỗ - gạch ấm cúng ở khu phố cổ, không bị đóng cửa suốt thời Xô Viết.",
+    "presentation_long_vi": "Ẩn mình trên con phố Bekhtereva yên tĩnh ở khu phố cổ của Ufa, Nhà thờ chính toà Thánh Sergiy là một trong những ngôi đền Chính thống giáo giàu tuổi đời và có số phận đặc biệt của thành phố. Lịch sử họ đạo Thánh Sergiy ở khu vực này (Sloboda Sergievskaya) có từ rất sớm; trải qua nhiều lần cháy và dựng lại, ngôi đền hiện nay mang dáng vẻ khiêm nhường mà ấm cúng, với các mái vòm và tháp chuông đặc trưng của kiến trúc nhà thờ Nga. Điều khiến nhà thờ đặc biệt được người dân trân trọng là nó gần như không bị đóng cửa trong suốt thời kỳ Xô Viết — khi phần lớn các nhà thờ khác của Ufa bị phá dỡ hoặc trưng dụng, Thánh Sergiy vẫn duy trì các buổi lễ, trở thành điểm tựa tâm linh và nơi gìn giữ nhiều thánh tích quý. Trong một giai đoạn, đây còn giữ vai trò nhà thờ chính toà của giáo phận Ufa. Nội thất với các bức icon, đèn nến và không gian cầu nguyện trầm mặc mang lại cảm giác thành kính. Với du khách, đây là nơi cảm nhận đời sống Chính thống giáo còn nguyên vẹn và tìm hiểu lịch sử tôn giáo bền bỉ của Ufa.",
+    "highlights_vi": [
+      "Một trong những nhà thờ Chính thống cổ và liên tục hoạt động lâu đời nhất Ufa.",
+      "Cung hiến cho Thánh Sergiy xứ Radonezh; gần như không đóng cửa suốt thời Xô Viết.",
+      "Từng giữ vai trò nhà thờ chính toà của giáo phận Ufa, lưu giữ nhiều thánh tích."
+    ],
+    "practical": {
+      "hours_vi": "Nhà thờ đang hoạt động, mở cửa hằng ngày quanh các giờ lễ (sáng đến chiều tối).",
+      "ticket_vi": "Miễn phí; quyên góp tuỳ tâm.",
+      "duration_vi": "Khoảng 20–30 phút.",
+      "best_time_vi": "Quanh năm; đông tín đồ vào các dịp lễ lớn.",
+      "tips_vi": "Ăn mặc kín đáo, nữ nên trùm khăn; nằm ở khu phố cổ, kết hợp dạo bộ Ufa."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%A1%D0%B5%D1%80%D0%B3%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%81%D0%BE%D0%B1%D0%BE%D1%80%2C%20%D0%A3%D1%84%D0%B0&ll=55.967701,54.710967&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=St%20Sergius%20Cathedral%2C%20Ufa%2C%20Bashkortostan%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "2GIS — Свято-Сергиевский кафедральный собор, Уфа",
+        "url": "https://2gis.ru/ufa/firm/2393065583019559"
+      },
+      {
+        "title": "Wikipedia (RU) — Сергиевский кафедральный собор (Уфа)",
+        "url": "https://ru.wikipedia.org/wiki/Сергиевский_кафедральный_собор_(Уфа)"
+      }
+    ],
+    "tags": [
+      "church",
+      "cathedral",
+      "orthodox",
+      "st-sergius",
+      "old-town",
+      "ufa"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "bashkortostan-bashkir-drama-theatre-ufa",
+    "slug": "bashkir-drama-theatre-ufa",
+    "region": "bashkortostan",
+    "region_name_vi": "Cộng hoà Bashkortostan",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Nhà hát Kịch Hàn lâm Bashkir mang tên Mazhit Gafuri",
+    "name_ru": "Башкирский государственный академический театр драмы имени Мажита Гафури",
+    "name_en": "Bashkir State Academic Drama Theatre named after Mazhit Gafuri",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 54.718583,
+      "lon": 55.9406
+    },
+    "address_vi": "Phố Zaki Validi 34, thành phố Ufa, Cộng hoà Bashkortostan, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhà hát kịch dân tộc lâu đời và hàng đầu của người Bashkir, thành lập năm 1919, mang tên nhà thơ - nhà văn kinh điển Mazhit Gafuri. Nơi dàn dựng kịch bằng tiếng Bashkir, gìn giữ và phát triển sân khấu dân tộc.",
+    "presentation_long_vi": "Là nhà hát kịch dân tộc đầu tiên và quan trọng bậc nhất của người Bashkir, Nhà hát Kịch Hàn lâm Bashkir được thành lập năm 1919, ngay trong những năm đầu của nền cộng hoà tự trị. Nhà hát mang tên Mazhit Gafuri (1880–1934) — nhà thơ, nhà văn kinh điển, một trong những người đặt nền móng cho văn học Bashkir và Tatar hiện đại. Trong hơn một thế kỷ, đây là trung tâm gìn giữ và phát triển nghệ thuật sân khấu bằng tiếng Bashkir: từ các vở kịch dựa trên sử thi, truyền thuyết và đời sống dân gian đến kịch cổ điển thế giới và tác phẩm đương đại, tất cả biểu diễn bằng ngôn ngữ mẹ đẻ (có hỗ trợ dịch cho khán giả). Nhà hát đã sản sinh nhiều nghệ sĩ nhân dân danh tiếng và thường xuyên lưu diễn, tham gia các liên hoan sân khấu trong và ngoài nước. Toà nhà biểu diễn hiện đại ở trung tâm Ufa là nơi diễn ra các suất kịch trang trọng, giàu bản sắc. Với du khách muốn chạm đến tâm hồn văn hoá Bashkir, một buổi xem kịch (hoặc chỉ tham quan toà nhà) tại đây là trải nghiệm đáng nhớ, bổ sung cho những điểm đến thiên nhiên của vùng.",
+    "highlights_vi": [
+      "Nhà hát kịch dân tộc đầu tiên và hàng đầu của người Bashkir, thành lập năm 1919.",
+      "Mang tên nhà văn kinh điển Mazhit Gafuri; biểu diễn bằng tiếng Bashkir.",
+      "Dàn dựng kịch từ sử thi, dân gian đến kinh điển thế giới và đương đại."
+    ],
+    "practical": {
+      "hours_vi": "Diễn theo lịch mùa (thường thu–xuân, buổi tối và cuối tuần); phòng vé giờ hành chính.",
+      "ticket_vi": "Vé theo suất diễn, giá bình dân đến trung bình.",
+      "duration_vi": "Mỗi suất khoảng 2–3 giờ; tham quan toà nhà ngắn hơn.",
+      "best_time_vi": "Mùa diễn thu–xuân; nên đặt vé trước.",
+      "tips_vi": "Kiểm tra xem suất diễn có phụ đề/dịch tiếng Nga; nằm ở trung tâm, dễ kết hợp dạo phố Ufa."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%91%D0%B0%D1%88%D0%BA%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D1%82%D0%B5%D0%B0%D1%82%D1%80%20%D0%B4%D1%80%D0%B0%D0%BC%D1%8B%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%20%D0%9C%D0%B0%D0%B6%D0%B8%D1%82%D0%B0%20%D0%93%D0%B0%D1%84%D1%83%D1%80%D0%B8&ll=55.9406,54.718583&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Bashkir%20State%20Academic%20Drama%20Theatre%20named%20after%20Mazhit%20Gafuri%2C%20Bashkortostan%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Yandex Карты — Башкирский театр драмы им. М. Гафури",
+        "url": "https://yandex.com/maps/org/bashkirskiy_gosudarstvenny_akademicheskiy_teatr_dramy_imeni_m_gafuri/1027137343/"
+      },
+      {
+        "title": "Wikipedia (RU) — Башкирский театр драмы имени Мажита Гафури",
+        "url": "https://ru.wikipedia.org/wiki/Башкирский_театр_драмы_имени_Мажита_Гафури"
+      }
+    ],
+    "tags": [
+      "theatre",
+      "drama",
+      "bashkir",
+      "national-theatre",
+      "gafuri",
+      "ufa"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "bashkortostan-victory-park-ufa",
+    "slug": "victory-park-ufa",
+    "region": "bashkortostan",
+    "region_name_vi": "Cộng hoà Bashkortostan",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Công viên Chiến thắng (Park Pobedy) ở Ufa",
+    "name_ru": "Парк Победы, Уфа",
+    "name_en": "Victory Park, Ufa",
+    "categories": [
+      "park_garden",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 54.823858,
+      "lon": 56.056019
+    },
+    "address_vi": "Khu Chernikovka, phía bắc thành phố Ufa (gần phố Komarova), Cộng hoà Bashkortostan, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Công viên tưởng niệm Chiến thắng ở phía bắc Ufa, trung tâm là đài tưởng niệm hai Anh hùng Aleksandr Matrosov và Minnigali Gubaidullin. Không gian xanh rộng lớn với bảo tàng ngoài trời trưng bày khí tài quân sự, nhìn ra sông Belaya.",
+    "presentation_long_vi": "Trải rộng trên vùng đồi cao ở khu Chernikovka phía bắc Ufa, nhìn xuống dòng sông Belaya, Công viên Chiến thắng là nơi tưởng niệm chính của thành phố dành cho các thế hệ đã chiến đấu trong Chiến tranh Vệ quốc Vĩ đại. Trung tâm công viên là đài tưởng niệm đồ sộ tôn vinh hai người Anh hùng: Aleksandr Matrosov và Minnigali Gubaidullin — cả hai đều đã hy sinh bằng hành động lấy thân mình lấp lỗ châu mai của hoả điểm địch để đồng đội xung phong, và cùng được truy tặng danh hiệu Anh hùng Liên Xô. Xung quanh là ngọn lửa vĩnh cửu, các tấm bia và không gian trang nghiêm cho lễ tưởng niệm. Điểm hấp dẫn thêm với du khách, nhất là gia đình có trẻ nhỏ, là bảo tàng khí tài ngoài trời: xe tăng, pháo, tên lửa, máy bay và các trang bị quân sự được trưng bày để tham quan. Bên cạnh phần tưởng niệm, công viên còn có lối đi dạo, cây xanh, đài quan sát nhìn ra thành phố và sông nước — biến nơi đây thành điểm vừa mang ý nghĩa lịch sử, vừa là chốn nghỉ ngơi, ngắm cảnh yêu thích của người dân Ufa.",
+    "highlights_vi": [
+      "Đài tưởng niệm hai Anh hùng Aleksandr Matrosov và Minnigali Gubaidullin.",
+      "Bảo tàng khí tài quân sự ngoài trời: xe tăng, pháo, tên lửa, máy bay.",
+      "Vị trí trên đồi cao nhìn ra sông Belaya, có ngọn lửa vĩnh cửu và đài quan sát."
+    ],
+    "practical": {
+      "hours_vi": "Công viên ngoài trời, mở cửa tự do; khu khí tài tham quan ban ngày.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 1–1,5 giờ.",
+      "best_time_vi": "Cuối xuân đến đầu thu; dịp 9/5 (Ngày Chiến thắng) rất đông và trang trọng.",
+      "tips_vi": "Nằm ở phía bắc Ufa (Chernikovka), cách trung tâm ~10 km; lý tưởng cho gia đình có trẻ nhỏ mê khí tài."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D1%80%D0%BA%20%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D1%8B%2C%20%D0%A3%D1%84%D0%B0&ll=56.056019,54.823858&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Victory%20Park%2C%20Ufa%2C%20Bashkortostan%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Yandex Карты — Парк Победы, Уфа",
+        "url": "https://yandex.com/maps/org/park_pobedy/224625177337/"
+      },
+      {
+        "title": "2GIS — Парк Победы, Уфа",
+        "url": "https://2gis.ru/ufa/firm/70000001078925892"
+      }
+    ],
+    "tags": [
+      "park_garden",
+      "monument",
+      "memorial",
+      "wwii",
+      "matrosov",
+      "ufa"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "bashkortostan-gafuri-park-ufa",
+    "slug": "gafuri-park-ufa",
+    "region": "bashkortostan",
+    "region_name_vi": "Cộng hoà Bashkortostan",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Công viên Văn hoá - Nghỉ ngơi mang tên Mazhit Gafuri",
+    "name_ru": "Парк культуры и отдыха имени Мажита Гафури",
+    "name_en": "Mazhit Gafuri Central Park of Culture and Leisure",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 54.771839,
+      "lon": 56.018632
+    },
+    "address_vi": "Thành phố Ufa (khu vực gần Chernikovka), Cộng hoà Bashkortostan, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Một trong những công viên vui chơi - giải trí lớn và được yêu thích của Ufa, mang tên nhà văn Mazhit Gafuri. Nổi bật với vòng đu quay khổng lồ (đại quan xa), khu trò chơi, hồ nước và không gian cây xanh rợp bóng.",
+    "presentation_long_vi": "Là một trong những công viên văn hoá - nghỉ ngơi lớn và nhộn nhịp bậc nhất Ufa, Công viên mang tên Mazhit Gafuri là điểm hẹn giải trí quen thuộc của người dân thành phố qua nhiều thế hệ. Công viên mang tên nhà thơ - nhà văn kinh điển Bashkir Mazhit Gafuri, trải rộng với những hàng cây rợp bóng, lối đi dạo, hồ nước và khu trò chơi phong phú. Điểm nhấn nổi bật là chiếc vòng đu quay (Ferris wheel / đại quan xa) cỡ lớn — một trong những biểu tượng vui chơi của Ufa, từ trên cao có thể phóng tầm mắt ngắm toàn cảnh khu vực. Bên cạnh đó là các trò chơi cảm giác mạnh, khu dành cho trẻ em, sân khấu ngoài trời, quán ăn nhẹ và không gian nghỉ ngơi cho gia đình. Vào mùa hè, công viên rộn ràng tiếng cười và các hoạt động lễ hội; mùa đông có khu trượt và trang trí đón năm mới. Với du khách, đặc biệt là gia đình đi cùng trẻ nhỏ, đây là nơi thư giãn dễ chịu, giải trí và tận hưởng nhịp sống thường nhật của người Ufa giữa những điểm tham quan lịch sử - văn hoá.",
+    "highlights_vi": [
+      "Công viên vui chơi - giải trí lớn của Ufa, mang tên nhà văn Mazhit Gafuri.",
+      "Vòng đu quay khổng lồ (đại quan xa) — biểu tượng ngắm toàn cảnh khu vực.",
+      "Khu trò chơi, hồ nước, sân khấu và không gian cây xanh cho gia đình."
+    ],
+    "practical": {
+      "hours_vi": "Công viên mở cửa tự do; các trò chơi hoạt động chủ yếu mùa ấm và cuối tuần.",
+      "ticket_vi": "Vào cửa miễn phí; các trò chơi và đu quay bán vé riêng.",
+      "duration_vi": "Khoảng 1–2 giờ.",
+      "best_time_vi": "Mùa hè (nhộn nhịp nhất); mùa đông có hoạt động đón năm mới.",
+      "tips_vi": "Lý tưởng cho gia đình có trẻ nhỏ; đi vòng đu quay để ngắm toàn cảnh Ufa."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D1%80%D0%BA%20%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D1%8B%20%D0%B8%20%D0%BE%D1%82%D0%B4%D1%8B%D1%85%D0%B0%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%20%D0%9C%D0%B0%D0%B6%D0%B8%D1%82%D0%B0%20%D0%93%D0%B0%D1%84%D1%83%D1%80%D0%B8&ll=56.018632,54.771839&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Mazhit%20Gafuri%20Central%20Park%20of%20Culture%20and%20Leisure%2C%20Bashkortostan%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Yandex Карты — Парк культуры и отдыха им. М. Гафури",
+        "url": "https://yandex.com/maps/org/park_kultury_i_otdykha_im_m_gafuri/20296443388/"
+      },
+      {
+        "title": "2GIS — Парк им. Мажита Гафури, Уфа",
+        "url": "https://2gis.ru/ufa/firm/2393065583019798"
+      }
+    ],
+    "tags": [
+      "park_garden",
+      "amusement-park",
+      "ferris-wheel",
+      "family",
+      "gafuri",
+      "ufa"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "bashkortostan-yakutov-park-ufa",
+    "slug": "yakutov-park-ufa",
+    "region": "bashkortostan",
+    "region_name_vi": "Cộng hoà Bashkortostan",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Công viên mang tên Yakutov (Park imeni Yakutova)",
+    "name_ru": "Парк имени Ивана Якутова",
+    "name_en": "Ivan Yakutov Park",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 54.740017,
+      "lon": 55.951384
+    },
+    "address_vi": "Phố Lenina 65, trung tâm thành phố Ufa, Cộng hoà Bashkortostan, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Công viên lâu đời nhất ở trung tâm Ufa, hình thành từ cuối thế kỷ 19, mang tên nhà cách mạng Ivan Yakutov. Nổi tiếng với hồ nước, tuyến đường sắt thiếu nhi và không gian dạo chơi cổ kính ngay giữa thành phố.",
+    "presentation_long_vi": "Ngay trung tâm Ufa, cạnh nhà ga đường sắt, Công viên mang tên Yakutov là công viên đô thị lâu đời nhất và giàu ký ức nhất của thành phố. Được hình thành từ cuối thế kỷ 19 (ban đầu mang tên «vườn Ushakovsky»), công viên về sau được đặt theo tên Ivan Yakutov — một nhà cách mạng, người lãnh đạo phong trào công nhân đường sắt Ufa đầu thế kỷ 20. Trải qua hơn một thế kỷ, nơi đây vẫn giữ vai trò lá phổi xanh và điểm vui chơi trung tâm: một hồ nước xinh xắn cho thuê thuyền đạp vịt vào mùa hè, những hàng cây cổ thụ, lối đi dạo, khu trò chơi và sân khấu. Điểm đặc biệt được nhiều thế hệ trẻ em Ufa yêu thích là tuyến đường sắt thiếu nhi (детская железная дорога) — một tuyến tàu hoả thu nhỏ do chính các em học sinh vận hành dưới sự hướng dẫn, chạy vòng quanh công viên. Vào mùa đông, hồ và công viên biến thành khu vui chơi trên tuyết. Với du khách, Yakutov là nơi cảm nhận nhịp sống đời thường thư thái của người Ufa và là điểm dừng dễ chịu, đặc biệt hợp với gia đình có trẻ nhỏ, ngay giữa lòng thành phố.",
+    "highlights_vi": [
+      "Công viên đô thị lâu đời nhất Ufa, hình thành từ cuối thế kỷ 19.",
+      "Tuyến đường sắt thiếu nhi do học sinh vận hành — điểm nhấn được trẻ em yêu thích.",
+      "Hồ nước, cây cổ thụ và khu vui chơi ngay trung tâm, gần nhà ga."
+    ],
+    "practical": {
+      "hours_vi": "Công viên mở cửa tự do; trò chơi và tàu thiếu nhi hoạt động chủ yếu mùa ấm.",
+      "ticket_vi": "Vào cửa miễn phí; thuê thuyền, trò chơi và tàu thiếu nhi bán vé riêng.",
+      "duration_vi": "Khoảng 45–90 phút.",
+      "best_time_vi": "Mùa hè cho hồ nước và tàu thiếu nhi; mùa đông có khu vui chơi trên tuyết.",
+      "tips_vi": "Nằm cạnh nhà ga Ufa, rất tiện; lý tưởng cho gia đình có trẻ nhỏ."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D1%80%D0%BA%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%20%D0%98%D0%B2%D0%B0%D0%BD%D0%B0%20%D0%AF%D0%BA%D1%83%D1%82%D0%BE%D0%B2%D0%B0&ll=55.951384,54.740017&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Ivan%20Yakutov%20Park%2C%20Bashkortostan%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Yandex Карты — Парк им. Ивана Якутова, Уфа",
+        "url": "https://yandex.com/maps/org/park_kultury_i_otdykha_imeni_ivana_yakutova/19938666123/"
+      },
+      {
+        "title": "2GIS — Парк им. Якутова, Уфа",
+        "url": "https://2gis.ru/ufa/firm/2393065583019741"
+      }
+    ],
+    "tags": [
+      "park_garden",
+      "historic-park",
+      "children-railway",
+      "lake",
+      "family",
+      "ufa"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "bashkortostan-shaimuratov-monument-ufa",
+    "slug": "shaimuratov-monument-ufa",
+    "region": "bashkortostan",
+    "region_name_vi": "Cộng hoà Bashkortostan",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Tượng đài Tướng Minnigali Shaimuratov (Pamyatnik Shaimuratovu)",
+    "name_ru": "Памятник генералу Минигали Шаймуратову",
+    "name_en": "Monument to General Minnigali Shaimuratov",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 54.721837,
+      "lon": 55.948223
+    },
+    "address_vi": "Quảng trường Sovetskaya (trước Nhà Cộng hoà - Dom Respubliki), thành phố Ufa, Cộng hoà Bashkortostan, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Tượng đài cưỡi ngựa hoành tráng của tướng Minnigali Shaimuratov — chỉ huy Sư đoàn Kỵ binh Bashkir số 112 anh hùng thời Chiến tranh Vệ quốc, được truy tặng danh hiệu Anh hùng nước Nga. Khánh thành năm 2022 trên quảng trường trung tâm Ufa.",
+    "presentation_long_vi": "Sừng sững trên quảng trường Sovetskaya ở trung tâm Ufa, trước Nhà Cộng hoà (Dom Respubliki), Tượng đài Tướng Minnigali Shaimuratov là một trong những công trình tưởng niệm mới và giàu ý nghĩa nhất của thành phố. Minnigali Shaimuratov (1899–1943) là vị tướng người Bashkir, chỉ huy Sư đoàn Kỵ binh số 112 (sau đổi thành Sư đoàn Kỵ binh Cận vệ số 16) — đơn vị được thành lập tại Bashkortostan trong Chiến tranh Vệ quốc Vĩ đại và đã lập nhiều chiến công vang dội, trở thành niềm tự hào của nhân dân nước cộng hoà. Ông hy sinh anh dũng năm 1943 trong chiến dịch ở vùng sông Đông. Chiến công và tên tuổi Shaimuratov đi vào bài hát dân gian nổi tiếng «Shaimuratov-general» và ký ức của bao thế hệ; đến năm 2020 ông chính thức được truy tặng danh hiệu Anh hùng Liên bang Nga. Bức tượng cưỡi ngựa bằng đồng bề thế, khắc hoạ vị tướng trên lưng chiến mã, được khánh thành năm 2022 nhân dịp trọng đại, trở thành điểm nhấn trang nghiêm của quảng trường trung tâm. Với du khách, đây là nơi tìm hiểu một trang sử hào hùng của người Bashkir và là điểm chụp ảnh gắn với biểu tượng lòng quả cảm của vùng đất này.",
+    "highlights_vi": [
+      "Tượng cưỡi ngựa của tướng Minnigali Shaimuratov, chỉ huy Sư đoàn Kỵ binh Bashkir số 112.",
+      "Anh hùng Liên bang Nga (truy tặng 2020), gắn với bài hát dân gian 'Shaimuratov-general'.",
+      "Khánh thành năm 2022 trên quảng trường Sovetskaya, trước Nhà Cộng hoà."
+    ],
+    "practical": {
+      "hours_vi": "Tượng đài ngoài trời, tham quan tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 15–20 phút.",
+      "best_time_vi": "Quanh năm; đẹp nhất ban ngày để chụp ảnh.",
+      "tips_vi": "Nằm ở quảng trường trung tâm Ufa; kết hợp dạo phố và các điểm lân cận."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%83%20%D0%9C%D0%B8%D0%BD%D0%B8%D0%B3%D0%B0%D0%BB%D0%B8%20%D0%A8%D0%B0%D0%B9%D0%BC%D1%83%D1%80%D0%B0%D1%82%D0%BE%D0%B2%D1%83&ll=55.948223,54.721837&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Monument%20to%20General%20Minnigali%20Shaimuratov%2C%20Bashkortostan%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "2GIS — Памятник Шаймуратову, Советская площадь (Уфа)",
+        "url": "https://2gis.ru/ufa/geo/2393224496807965"
+      },
+      {
+        "title": "Wikipedia (RU) — Шаймуратов, Минигали Мингазович",
+        "url": "https://ru.wikipedia.org/wiki/Шаймуратов,_Минигали_Мингазович"
+      }
+    ],
+    "tags": [
+      "monument",
+      "equestrian",
+      "wwii",
+      "shaimuratov",
+      "bashkir-cavalry",
+      "ufa"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "bashkortostan-kunitsa-sculpture-ufa",
+    "slug": "kunitsa-sculpture-ufa",
+    "region": "bashkortostan",
+    "region_name_vi": "Cộng hoà Bashkortostan",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Tác phẩm điêu khắc 'Ngôi nhà chồn' (Skulptura Dom kunitsy)",
+    "name_ru": "Скульптура «Дом куницы»",
+    "name_en": "House of the Marten Sculpture",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 54.725404,
+      "lon": 55.943785
+    },
+    "address_vi": "Gần Thương xá Gostiny Dvor (phố Lenina / Verkhnetorgovaya ploshchad), trung tâm Ufa, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhóm tượng đồng dí dỏm tạc hình những chú chồn (kunitsa) — biểu tượng của Ufa từ thế kỷ 17, xuất hiện trên huy hiệu thành phố. Khánh thành năm 2010, một điểm chụp ảnh được yêu thích, nhất là với các cặp đôi.",
+    "presentation_long_vi": "Con chồn (kunitsa) từ lâu đã là biểu tượng gắn với Ufa — hình ảnh chú chồn xuất hiện trên huy hiệu thành phố, gợi nhắc thời kỳ vùng đất này nổi tiếng với nghề săn và buôn bán lông thú quý. Tác phẩm điêu khắc «Dom kunitsy» (Ngôi nhà chồn) tôn vinh chính biểu tượng ấy một cách sinh động và dí dỏm: một nhóm tượng đồng khắc hoạ ngôi nhà nhỏ trên cây với những chú chồn — một con đang chạy trên cành, một con thò đầu ra khỏi tổ. Tác phẩm do nhà điêu khắc Khalit Galiullin (thành viên Hội Nghệ sĩ Bashkortostan) thực hiện và được khánh thành ngày 8 tháng 7 năm 2010, đúng Ngày Gia đình, Tình yêu và Lòng chung thuỷ. Nhờ ý nghĩa may mắn và hình ảnh đáng yêu, bức tượng nhanh chóng trở thành một điểm dừng được ưa thích ở trung tâm Ufa, đặc biệt với các cặp đôi mới cưới thường đến chụp ảnh và chạm vào tượng «lấy may». Nằm gần khu Thương xá Gostiny Dvor sầm uất, đây là một điểm nhấn nhỏ nhưng giàu màu sắc địa phương, dễ kết hợp trong hành trình dạo phố khám phá Ufa.",
+    "highlights_vi": [
+      "Nhóm tượng đồng hình những chú chồn — biểu tượng của Ufa trên huy hiệu thành phố.",
+      "Do nhà điêu khắc Khalit Galiullin thực hiện, khánh thành năm 2010.",
+      "Điểm chụp ảnh 'lấy may' được các cặp đôi yêu thích, gần Thương xá Gostiny Dvor."
+    ],
+    "practical": {
+      "hours_vi": "Tác phẩm ngoài trời, tham quan tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 10–15 phút.",
+      "best_time_vi": "Quanh năm; đẹp nhất ban ngày để chụp ảnh.",
+      "tips_vi": "Nằm ở khu trung tâm gần Gostiny Dvor; kết hợp dạo phố Lenina và mua sắm."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%BA%D1%83%D0%BB%D1%8C%D0%BF%D1%82%D1%83%D1%80%D0%B0%20%C2%AB%D0%94%D0%BE%D0%BC%20%D0%BA%D1%83%D0%BD%D0%B8%D1%86%D1%8B%C2%BB&ll=55.943785,54.725404&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=House%20of%20the%20Marten%20Sculpture%2C%20Bashkortostan%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Дом куницы (скульптура)",
+        "url": "https://ru.wikipedia.org/wiki/Дом_куницы_(скульптура)"
+      },
+      {
+        "title": "2GIS — Скульптура «Дом куницы», Уфа",
+        "url": "https://2gis.ru/ufa/firm/2393065583021424"
+      }
+    ],
+    "tags": [
+      "monument",
+      "sculpture",
+      "marten",
+      "city-symbol",
+      "gostiny-dvor",
+      "ufa"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "bashkortostan-belaya-cable-bridge-ufa",
+    "slug": "belaya-cable-bridge-ufa",
+    "region": "bashkortostan",
+    "region_name_vi": "Cộng hoà Bashkortostan",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Cầu dây văng qua sông Belaya (Vantovyi most cherez Beluyu)",
+    "name_ru": "Вантовый мост через реку Белую (Бельский мост)",
+    "name_en": "Belaya River Cable-Stayed Bridge",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 54.70924,
+      "lon": 55.953968
+    },
+    "address_vi": "Bắc qua sông Belaya (Agidel) ở phía tây nam thành phố Ufa, Cộng hoà Bashkortostan, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Cầu dây văng bắc qua sông Belaya (Agidel), với trụ tháp cao và hệ dây văng xoè hình cánh quạt — một biểu tượng kỹ thuật hiện đại và điểm nhận diện của Ufa. Cây cầu nối trung tâm thành phố với các khu vực phía tây và sân bay.",
+    "presentation_long_vi": "Bắc qua dòng Belaya (tiếng Bashkir gọi là Agidel) rộng lớn ở phía tây nam Ufa, cây cầu dây văng là một trong những công trình giao thông ấn tượng và mang tính biểu tượng của thành phố. Với trụ tháp bê tông cao vươn lên và hệ thống dây cáp thép xoè ra hình cánh quạt đỡ lấy nhịp cầu, công trình tạo nên một dáng vẻ hiện đại, thanh thoát nổi bật trên nền sông nước và những vách đồi xanh của Ufa. Cây cầu là tuyến huyết mạch nối khu trung tâm thành phố với các quận phía tây, đường ra sân bay và các tuyến đi tỉnh — góp phần giảm tải giao thông và mở rộng kết nối cho một trong những đô thị lớn nhất vùng Ural - Volga. Từ trên cầu hoặc các điểm ven sông, du khách có thể ngắm khung cảnh sông Belaya uốn lượn, vốn gắn liền với lịch sử hình thành Ufa trên vùng đồi cao bên sông. Vào buổi tối, cầu được chiếu sáng, trở thành một điểm nhấn lung linh của thành phố. Đây là một địa điểm thú vị để cảm nhận diện mạo hiện đại của Ufa bên cạnh những di sản lịch sử.",
+    "highlights_vi": [
+      "Cầu dây văng với trụ tháp cao và hệ dây xoè hình cánh quạt qua sông Belaya (Agidel).",
+      "Biểu tượng kỹ thuật hiện đại và điểm nhận diện của thành phố Ufa.",
+      "Tuyến huyết mạch nối trung tâm với khu phía tây và đường ra sân bay."
+    ],
+    "practical": {
+      "hours_vi": "Công trình giao thông ngoài trời, ngắm tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 10–20 phút (ngắm cảnh, chụp ảnh).",
+      "best_time_vi": "Quanh năm; đẹp vào hoàng hôn và buổi tối khi cầu lên đèn.",
+      "tips_vi": "Ngắm từ bờ sông hoặc điểm cao ven Belaya để có góc đẹp; là cửa ngõ giao thông nên tránh giờ cao điểm nếu đi ô tô."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BC%D0%BE%D1%81%D1%82%20%D1%87%D0%B5%D1%80%D0%B5%D0%B7%20%D1%80%D0%B5%D0%BA%D1%83%20%D0%91%D0%B5%D0%BB%D1%83%D1%8E%20%28%D0%91%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D1%81%D1%82%29&ll=55.953968,54.70924&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Belaya%20River%20Cable-Stayed%20Bridge%2C%20Bashkortostan%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "2GIS — Вантовый мост через Белую, Уфа",
+        "url": "https://2gis.ru/ufa/geo/70030076324132358"
+      },
+      {
+        "title": "Wikipedia (RU) — Уфа (мосты через Белую)",
+        "url": "https://ru.wikipedia.org/wiki/Уфа"
+      }
+    ],
+    "tags": [
+      "bridge",
+      "cable-stayed",
+      "belaya-river",
+      "landmark",
+      "modern",
+      "ufa"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "bashkortostan-kinderlinskaya-cave",
+    "slug": "kinderlinskaya-cave",
+    "region": "bashkortostan",
+    "region_name_vi": "Cộng hoà Bashkortostan",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Hang động Kinderlinskaya (hang Pobeda) - hang dài nhất Ural",
+    "name_ru": "Киндерлинская пещера (пещера имени 30-летия Победы)",
+    "name_en": "Kinderlinskaya Cave (Pobeda Cave)",
+    "categories": [
+      "other",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 54.158449,
+      "lon": 56.857682
+    },
+    "address_vi": "Bên sông Zilim, gần làng Tash-Asty, huyện Gafuriysky, Cộng hoà Bashkortostan, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Hang động dài nhất vùng Ural (khoảng 17 km đường hang), còn gọi là hang '30 năm Chiến thắng'. Hệ thống hang nhiều tầng bên sông Zilim, nổi tiếng với khu vực băng vĩnh cửu và sông băng ngầm, là thánh địa của dân thám hiểm hang động.",
+    "presentation_long_vi": "Ẩn trong vách đá đồ sộ bên dòng sông Zilim ở huyện Gafuriysky, Hang động Kinderlinskaya (tên đầy đủ là hang «mang tên 30 năm Chiến thắng», thường gọi tắt là hang Pobeda) là hang động dài nhất và nổi tiếng bậc nhất của cả vùng Ural. Với tổng chiều dài đường hang đo được lên tới khoảng 17 km, đây là một hệ thống nhiều tầng phức tạp gồm vô số hành lang, giếng đứng, phòng lớn và ngách hẹp, được phát hiện và khảo sát từ năm 1974. Cửa hang hình thang lớn mở về hướng nam, nằm trên vách đá cao gần một trăm mét so với mặt sông Zilim. Điểm đặc biệt hấp dẫn là khu vực gần cửa hang có khí hậu lạnh giá quanh năm, nơi hình thành lớp băng vĩnh cửu, những cột băng và cả một «sông băng» ngầm lấp lánh — cảnh tượng kỳ ảo hiếm thấy. Sâu bên trong là các phòng hang khổng lồ, hồ nước ngầm và thành tạo nhũ đá. Kinderlinskaya là điểm đến biểu tượng của dân thám hiểm hang động (speleotourism) và du khách ưa mạo hiểm, nhưng việc thâm nhập sâu đòi hỏi trang bị chuyên dụng, kinh nghiệm và hướng dẫn viên; du khách phổ thông thường chỉ tham quan khu vực cửa hang và vùng băng gần lối vào.",
+    "highlights_vi": [
+      "Hang động dài nhất vùng Ural — tổng đường hang khoảng 17 km, phát hiện năm 1974.",
+      "Khu vực băng vĩnh cửu và 'sông băng' ngầm gần cửa hang tạo cảnh tượng kỳ ảo.",
+      "Điểm đến biểu tượng của giới thám hiểm hang động bên sông Zilim."
+    ],
+    "practical": {
+      "hours_vi": "Hang tự nhiên hoang dã, không có giờ mở cửa cố định.",
+      "ticket_vi": "Miễn phí (tự khám phá); nên thuê hướng dẫn viên/tour chuyên nghiệp để vào sâu.",
+      "duration_vi": "Từ 1 giờ (khu cửa hang) đến cả ngày (thám hiểm sâu).",
+      "best_time_vi": "Mùa đông và đầu xuân để ngắm băng đẹp nhất; đường tới hang dễ hơn khi khô ráo.",
+      "tips_vi": "Cần đèn, quần áo ấm, giày chống trơn và mũ bảo hiểm nếu vào sâu; TUYỆT ĐỐI đi cùng người có kinh nghiệm — hang nhiều giếng đứng nguy hiểm. Cách Ufa ~120 km."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D0%B8%D0%BD%D0%B4%D0%B5%D1%80%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0%20%28%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%2030-%D0%BB%D0%B5%D1%82%D0%B8%D1%8F%20%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D1%8B%29&ll=56.857682,54.158449&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kinderlinskaya%20Cave%20%28Pobeda%20Cave%29%2C%20Bashkortostan%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Киндерлинская пещера",
+        "url": "https://ru.wikipedia.org/wiki/Киндерлинская_пещера"
+      },
+      {
+        "title": "Туристер.ру — Киндерлинская пещера (пещера Победы)",
+        "url": "https://www.tourister.ru/world/europe/russia/city/tash-asty/placeofinterest/40783"
+      }
+    ],
+    "tags": [
+      "other",
+      "cave",
+      "speleotourism",
+      "ice-cave",
+      "zilim-river",
+      "adventure",
+      "bashkortostan"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "bashkortostan-sibay-quarry",
+    "slug": "sibay-quarry",
+    "region": "bashkortostan",
+    "region_name_vi": "Cộng hoà Bashkortostan",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Mỏ lộ thiên Sibay (Sibaiskii karyer)",
+    "name_ru": "Сибайский карьер",
+    "name_en": "Sibay Open-Pit Mine (Quarry)",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 52.695135,
+      "lon": 58.628833
+    },
+    "address_vi": "Thành phố Sibay, phía đông nam Cộng hoà Bashkortostan, gần biên giới tỉnh Chelyabinsk, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Một trong những mỏ lộ thiên sâu nhất thế giới — hố mỏ đồng - kẽm khổng lồ hình phễu sâu hơn 500 m, đường kính khoảng 2 km, ngay cạnh thành phố Sibay. Một kỳ quan công nghiệp gây choáng ngợp ở miền đông nam Bashkortostan.",
+    "presentation_long_vi": "Ở rìa thành phố Sibay nơi miền đông nam Bashkortostan, gần dãy Ural và biên giới tỉnh Chelyabinsk, mở ra một trong những công trình do con người tạo nên gây choáng ngợp nhất vùng: Mỏ lộ thiên Sibay. Đây là một hố mỏ khổng lồ hình phễu xoáy trôn ốc, được khai thác để lấy quặng đồng - kẽm (pyrit) từ giữa thế kỷ 20. Với độ sâu có thời điểm vượt quá 500 mét và đường kính miệng hố khoảng 1,7–2 km, Sibay từng được xem là một trong những mỏ lộ thiên sâu nhất thế giới. Nhìn từ đài quan sát trên vành hố, những vòng bậc thang (tầng khai thác) xoáy tròn hun hút xuống lòng đất, xe tải và máy móc phía dưới nhỏ như đồ chơi — một cảnh tượng phô bày quy mô đáng kinh ngạc của công nghiệp khai khoáng Ural. Việc khai thác lộ thiên nay đã cơ bản chuyển sang khai thác hầm lò, nhưng bản thân hố mỏ vẫn là một địa danh nổi tiếng, biểu tượng của thành phố công nghiệp Sibay. Với du khách tò mò về di sản công nghiệp, ngắm hố mỏ khổng lồ này từ điểm quan sát an toàn là một trải nghiệm độc đáo, khác lạ hoàn toàn so với các điểm thiên nhiên của Bashkortostan.",
+    "highlights_vi": [
+      "Một trong những mỏ lộ thiên sâu nhất thế giới — hố phễu sâu hơn 500 m, đường kính ~2 km.",
+      "Mỏ đồng - kẽm khai thác từ giữa thế kỷ 20, biểu tượng của thành phố Sibay.",
+      "Cảnh tượng công nghiệp choáng ngợp với các tầng khai thác xoáy trôn ốc."
+    ],
+    "practical": {
+      "hours_vi": "Ngắm từ đài quan sát/vành hố ngoài trời; khu mỏ đang vận hành nên tuân thủ chỉ dẫn an toàn.",
+      "ticket_vi": "Miễn phí (điểm ngắm bên ngoài); tham quan sâu cần xin phép doanh nghiệp mỏ.",
+      "duration_vi": "Khoảng 30–45 phút.",
+      "best_time_vi": "Cuối xuân đến đầu thu; ngày quang để nhìn rõ toàn hố.",
+      "tips_vi": "Sibay cách Ufa ~450 km (miền đông nam); KHÔNG lại gần mép hố vì nguy cơ sạt lở; đứng ở điểm quan sát được chỉ định."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D0%B8%D0%B1%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B0%D1%80%D1%8C%D0%B5%D1%80&ll=58.628833,52.695135&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Sibay%20Open-Pit%20Mine%20%28Quarry%29%2C%20Bashkortostan%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Сибайский карьер",
+        "url": "https://ru.wikipedia.org/wiki/Сибайский_карьер"
+      },
+      {
+        "title": "tamtak.ru — Сибайский карьер: координаты и обзор",
+        "url": "https://tamtak.ru/places/posmotretiprogulyatsya/"
+      }
+    ],
+    "tags": [
+      "other",
+      "industrial-heritage",
+      "open-pit-mine",
+      "geology",
+      "sibay",
+      "bashkortostan"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "bashkortostan-bashkir-nature-reserve",
+    "slug": "bashkir-nature-reserve",
+    "region": "bashkortostan",
+    "region_name_vi": "Cộng hoà Bashkortostan",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Khu bảo tồn thiên nhiên Bashkir (Bashkirskii zapovednik)",
+    "name_ru": "Башкирский государственный природный заповедник",
+    "name_en": "Bashkir State Nature Reserve",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 53.344453,
+      "lon": 57.782579
+    },
+    "address_vi": "Trung tâm và Bảo tàng Thiên nhiên tại làng Sargaya (Saraevo), huyện Burzyansky, Cộng hoà Bashkortostan, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Một trong những khu bảo tồn thiên nhiên nghiêm ngặt lâu đời nhất vùng Ural, thành lập cuối thập niên 1920 - đầu 1930 giữa vùng núi rừng Nam Ural. Bảo vệ rừng taiga, thảo nguyên núi, gấu, nai và có Bảo tàng Thiên nhiên tại làng Sargaya.",
+    "presentation_long_vi": "Nằm giữa vùng núi rừng hiểm trở của Nam Ural, Khu bảo tồn thiên nhiên nhà nước Bashkir (zapovednik) là một trong những khu bảo tồn nghiêm ngặt lâu đời nhất của cả nước Nga và của vùng Ural, được thành lập từ cuối thập niên 1920 - đầu thập niên 1930. Trải rộng trên địa bàn các huyện Burzyansky, Abzelilovsky và Beloretsky, khu bảo tồn gìn giữ một hệ sinh thái đa dạng và gần như nguyên vẹn: rừng taiga lá kim và rừng hỗn giao, các sườn núi, thung lũng sông và những mảng thảo nguyên núi hiếm gặp. Đây là mái nhà của gấu nâu, nai sừng tấm (los), hươu, linh miêu, nhiều loài chim và thực vật quý — trong đó có những loài đặc hữu của dãy Ural. Với tính chất «zapovednik» (bảo tồn nghiêm ngặt), phần lớn diện tích không mở cho du lịch đại trà nhằm bảo vệ thiên nhiên; du khách tiếp cận chủ yếu qua trung tâm hành chính và Bảo tàng Thiên nhiên đặt tại làng Sargaya, cùng một số tuyến sinh thái và chương trình tham quan có tổ chức, kiểm soát. Bảo tàng giới thiệu hệ động - thực vật, địa chất và công tác bảo tồn của khu. Đây là điểm đến ý nghĩa cho những ai quan tâm đến thiên nhiên hoang dã nguyên sơ và lịch sử bảo tồn của nước Nga.",
+    "highlights_vi": [
+      "Một trong những khu bảo tồn thiên nhiên nghiêm ngặt lâu đời nhất Ural (thành lập ~1929–1930).",
+      "Bảo vệ rừng taiga, thảo nguyên núi, gấu nâu, nai và loài đặc hữu Nam Ural.",
+      "Có Bảo tàng Thiên nhiên và trung tâm tham quan tại làng Sargaya."
+    ],
+    "practical": {
+      "hours_vi": "Là khu bảo tồn nghiêm ngặt; tham quan theo tuyến/chương trình có tổ chức và cần xin phép trước.",
+      "ticket_vi": "Bảo tàng và tuyến sinh thái có phí; liên hệ ban quản lý để đăng ký.",
+      "duration_vi": "Từ vài giờ (bảo tàng, tuyến ngắn) đến cả ngày.",
+      "best_time_vi": "Cuối xuân đến đầu thu (tháng 6–9).",
+      "tips_vi": "Cách Ufa ~250 km; nên liên hệ trước qua ban quản lý; tuân thủ quy định bảo tồn, không tự ý đi sâu."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%91%D0%B0%D1%88%D0%BA%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9%20%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA&ll=57.782579,53.344453&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Bashkir%20State%20Nature%20Reserve%2C%20Bashkortostan%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Башкирский заповедник",
+        "url": "https://ru.wikipedia.org/wiki/Башкирский_заповедник"
+      },
+      {
+        "title": "Русское географическое общество — Башкирский заповедник",
+        "url": "https://www.rgo.ru/ru/article/bashkirskiy-zapovednik"
+      }
+    ],
+    "tags": [
+      "park_garden",
+      "other",
+      "nature-reserve",
+      "taiga",
+      "wildlife",
+      "southern-urals",
+      "bashkortostan"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "bashkortostan-yuzhno-uralsky-reserve",
+    "slug": "yuzhno-uralsky-reserve",
+    "region": "bashkortostan",
+    "region_name_vi": "Cộng hoà Bashkortostan",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Khu bảo tồn thiên nhiên Nam Ural (Yuzhno-Uralskii zapovednik)",
+    "name_ru": "Южно-Уральский государственный природный заповедник",
+    "name_en": "South Ural State Nature Reserve",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 54.188518,
+      "lon": 57.628105
+    },
+    "address_vi": "Trụ sở tại làng Revet (phố Zapovednaya 4а), huyện Beloretsky, Cộng hoà Bashkortostan, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Khu bảo tồn thiên nhiên lớn nhất của Bashkortostan, bảo vệ vùng núi cao nhất Nam Ural quanh đỉnh Yamantau và Bolshoy Iremel. Nơi có rừng taiga nguyên sinh, đầm lầy than bùn núi và hệ sinh thái miền núi độc đáo.",
+    "presentation_long_vi": "Trải rộng trên vùng núi cao nhất của toàn dãy Nam Ural, Khu bảo tồn thiên nhiên nhà nước Nam Ural (Yuzhno-Uralsky zapovednik) là khu bảo tồn lớn nhất của Bashkortostan (và còn vươn sang một phần tỉnh Chelyabinsk). Được thành lập năm 1978, khu bảo tồn bao trùm các dãy núi hùng vĩ nhất vùng, trong đó có đỉnh Yamantau — điểm cao nhất của Nam Ural — cùng các dải núi taiga trùng điệp. Đây là nơi gìn giữ những khu rừng lá kim nguyên sinh, các đầm lầy than bùn trên núi (sfagnum) độc đáo, thảm thực vật vùng núi phân tầng theo độ cao và hệ động vật phong phú gồm gấu nâu, nai, chồn zibelin (sable), nhiều loài chim và thực vật quý hiếm được ghi trong Sách Đỏ. Với vai trò bảo tồn nghiêm ngặt và địa hình hiểm trở (một phần liên quan đến khu vực hạn chế quanh Yamantau), phần lớn diện tích không mở cho du lịch tự do; khách tham quan tiếp cận qua trung tâm hành chính ở làng Revet, bảo tàng thiên nhiên và một số tuyến sinh thái được phép. Đây là điểm đến quý giá cho người yêu thiên nhiên hoang dã, muốn tìm hiểu về hệ sinh thái núi cao và công tác bảo tồn ở vùng lõi của dãy Ural phương Nam.",
+    "highlights_vi": [
+      "Khu bảo tồn thiên nhiên lớn nhất Bashkortostan, thành lập năm 1978.",
+      "Bao trùm vùng núi cao nhất Nam Ural quanh đỉnh Yamantau; rừng taiga nguyên sinh.",
+      "Đầm lầy than bùn núi độc đáo, gấu nâu, nai và nhiều loài trong Sách Đỏ."
+    ],
+    "practical": {
+      "hours_vi": "Khu bảo tồn nghiêm ngặt; tham quan theo tuyến được phép và cần đăng ký/xin phép trước.",
+      "ticket_vi": "Bảo tàng và tuyến sinh thái có phí; liên hệ ban quản lý ở Revet.",
+      "duration_vi": "Từ nửa ngày đến vài ngày (tuỳ tuyến).",
+      "best_time_vi": "Mùa hè (tháng 6–8); mùa đông tuyết dày, khó tiếp cận.",
+      "tips_vi": "Trụ sở ở làng Revet, huyện Beloretsky (cách Ufa ~170 km); KHÔNG tự ý vào khu vực hạn chế quanh Yamantau; tuân thủ hướng dẫn."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%AE%D0%B6%D0%BD%D0%BE-%D0%A3%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9%20%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA&ll=57.628105,54.188518&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=South%20Ural%20State%20Nature%20Reserve%2C%20Bashkortostan%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Южно-Уральский заповедник — trang chính thức",
+        "url": "http://south-ural-reserve.ru/"
+      },
+      {
+        "title": "Наш Урал — Южно-Уральский государственный заповедник",
+        "url": "https://nashural.ru/mesta/bashkortostan/yuzhno-uralskiy-zapovednik/"
+      }
+    ],
+    "tags": [
+      "park_garden",
+      "other",
+      "nature-reserve",
+      "yamantau",
+      "taiga",
+      "southern-urals",
+      "bashkortostan"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "bashkortostan-kuk-karauk-waterfall",
+    "slug": "kuk-karauk-waterfall",
+    "region": "bashkortostan",
+    "region_name_vi": "Cộng hoà Bashkortostan",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Thác Kuk-Karauk (Vodopad Kuk-Karauk)",
+    "name_ru": "Водопад Кук-Караук",
+    "name_en": "Kuk-Karauk Waterfall",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 53.601374,
+      "lon": 56.684455
+    },
+    "address_vi": "Trên suối Kukrauk, gần làng Makarovo, huyện Ishimbaysky, Cộng hoà Bashkortostan, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Thác nước bậc thang đẹp trên suối Kukrauk gần làng Makarovo, cao khoảng 10–12 m, là di tích thiên nhiên từ năm 1965. Đẹp và ồn ào nhất vào mùa xuân, gần vách đá Kalim-Uskan và hang Salavat Yulaev.",
+    "presentation_long_vi": "Nằm trong một thung lũng đẹp gần làng Makarovo ở huyện Ishimbaysky, Thác Kuk-Karauk (còn viết là Kukrauk) là một trong những thác nước được yêu thích của miền nam Bashkortostan. Dòng suối Kukrauk từ trên cao đổ xuống qua các bậc đá xếp tầng, tạo thành một thác nước dạng bậc thang cao khoảng 10–12 mét, ào ạt tung bọt trắng xoá. Thác được công nhận là di tích thiên nhiên (памятник природы) từ năm 1965 và nằm trong khu bảo tồn Ishimbaysky. Vẻ đẹp và sức mạnh của thác thay đổi rõ rệt theo mùa: hùng vĩ, ồn ào nhất vào mùa xuân khi tuyết tan làm nước dâng cao, còn giữa mùa hè khô hạn dòng chảy có thể mỏng đi nhiều. Quanh thác là cảnh quan thiên nhiên ngoạn mục với rừng cây, những khối đá lớn và không khí trong lành. Đặc biệt, Kuk-Karauk nằm rất gần hai điểm hấp dẫn khác: vách đá hùng vĩ Kalim-Uskan và hang Salavat Yulaev (gắn với người anh hùng dân tộc Bashkir) — cho phép kết hợp thành một tuyến khám phá lý thú. Con đường cũ Belaya (tuyến đường lịch sử) đi ngang khu vực này còn có một cây cầu đá cổ. Với du khách, đây là điểm dừng chân tuyệt vời để ngắm cảnh, chụp ảnh và tận hưởng thiên nhiên.",
+    "highlights_vi": [
+      "Thác bậc thang cao khoảng 10–12 m trên suối Kukrauk, di tích thiên nhiên từ 1965.",
+      "Đẹp và hùng vĩ nhất vào mùa xuân khi tuyết tan; nằm trong khu bảo tồn Ishimbaysky.",
+      "Gần vách đá Kalim-Uskan và hang Salavat Yulaev — dễ kết hợp tuyến tham quan."
+    ],
+    "practical": {
+      "hours_vi": "Điểm thiên nhiên ngoài trời, tham quan tự do mọi lúc.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 45–90 phút (kết hợp vách Kalim-Uskan lâu hơn).",
+      "best_time_vi": "Cuối tháng 4 - tháng 5 (mùa nước lớn) đẹp nhất; giữa hè nước ít.",
+      "tips_vi": "Cách Ufa ~170 km về phía nam; đường tới có đoạn xấu, nên đi xe gầm cao; kết hợp thăm hang Salavat Yulaev và vách Kalim-Uskan."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%92%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4%20%D0%9A%D1%83%D0%BA-%D0%9A%D0%B0%D1%80%D0%B0%D1%83%D0%BA&ll=56.684455,53.601374&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Kuk-Karauk%20Waterfall%2C%20Bashkortostan%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Русское географическое общество — Водопад Кук-Караук",
+        "url": "https://www.rgo.ru/ru/article/vodopad-kuk-karauk"
+      },
+      {
+        "title": "Ураловед — Водопад Кук-Караук, скала Калим-Ускан и пещера Салавата",
+        "url": "https://uraloved.ru/kuk-karauk-i-kalim-uskan"
+      }
+    ],
+    "tags": [
+      "park_garden",
+      "waterfall",
+      "nature",
+      "kukrauk",
+      "ishimbaysky",
+      "bashkortostan"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
+  },
+  {
+    "id": "bashkortostan-birsk-historic-town",
+    "slug": "birsk-historic-town",
+    "region": "bashkortostan",
+    "region_name_vi": "Cộng hoà Bashkortostan",
+    "federal_district": "Vùng Volga",
+    "name_vi": "Thành phố cổ Birsk (Birsk) - đô thị thương gia lịch sử",
+    "name_ru": "Бирск (исторический город)",
+    "name_en": "Birsk (historic town)",
+    "categories": [
+      "other",
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 55.417163,
+      "lon": 55.530095
+    },
+    "address_vi": "Thành phố Birsk, huyện Birsky, phía bắc Cộng hoà Bashkortostan, bên hữu ngạn sông Belaya, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Thành phố cổ bên sông Belaya, khởi nguồn là pháo đài Nga thế kỷ 17, nổi tiếng với khu trung tâm thương gia thế kỷ 19 gần như còn nguyên vẹn. Được xếp vào danh sách các đô thị lịch sử của Nga, với Nhà thờ chính toà Troitsky bề thế trên đồi.",
+    "presentation_long_vi": "Bên hữu ngạn sông Belaya ở phía bắc Bashkortostan, thành phố Birsk là một trong những đô thị giàu bề dày lịch sử và giữ được diện mạo cổ kính nhất của vùng. Birsk ra đời từ thế kỷ 17 (khoảng năm 1663) như một pháo đài của Nga trên vùng đất mới, canh giữ tuyến biên phòng và bến vượt sông Belaya. Sang thế kỷ 18–19, thành phố phát triển thành một trung tâm thương mại, hội chợ và tiểu thủ công nghiệp sầm uất, nổi tiếng với các vườn táo. Chính thời kỳ vàng son đó đã để lại cho Birsk một khu trung tâm lịch sử quý giá: những dãy nhà thương gia bằng gạch một - hai tầng, phố xá, nhà thờ và công trình công cộng mang phong cách thế kỷ 19 gần như còn nguyên vẹn — khiến Birsk được đưa vào danh sách các đô thị lịch sử của nước Nga. Trên một ngọn đồi cao nhìn ra sông là Nhà thờ chính toà Troitsky (Chúa Ba Ngôi) bề thế, điểm nhấn kiến trúc - tâm linh của thành phố. Dạo bước ở Birsk, du khách như trở về không khí một thị trấn tỉnh lẻ Nga xưa yên bình, với bảo tàng lịch sử - địa phương, những góc phố cổ và tầm nhìn khoáng đạt ra dòng Belaya. Đây là điểm đến hấp dẫn cho ai muốn khám phá chiều sâu lịch sử và kiến trúc của miền bắc Bashkortostan.",
+    "highlights_vi": [
+      "Đô thị lịch sử bên sông Belaya, khởi nguồn là pháo đài Nga thế kỷ 17 (khoảng 1663).",
+      "Khu trung tâm thương gia thế kỷ 19 gần như còn nguyên vẹn — có tên trong danh sách đô thị lịch sử Nga.",
+      "Nhà thờ chính toà Troitsky (Chúa Ba Ngôi) bề thế trên đồi nhìn ra sông."
+    ],
+    "practical": {
+      "hours_vi": "Thành phố ngoài trời, dạo phố tự do; bảo tàng và nhà thờ mở theo giờ riêng.",
+      "ticket_vi": "Miễn phí (dạo phố); bảo tàng có vé bình dân.",
+      "duration_vi": "Khoảng 2–3 giờ.",
+      "best_time_vi": "Cuối xuân đến đầu thu; mùa thu đẹp với các vườn táo.",
+      "tips_vi": "Birsk cách Ufa ~100 km về phía bắc; kết hợp thăm Nhà thờ Troitsky, bảo tàng địa phương và bờ sông Belaya."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%91%D0%B8%D1%80%D1%81%D0%BA%20%28%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%29&ll=55.530095,55.417163&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Birsk%20%28historic%20town%29%2C%20Bashkortostan%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "2GIS — Троицкий собор, Бирск",
+        "url": "https://2gis.ru/birsk/firm/70000001069867055"
+      },
+      {
+        "title": "Wikipedia (RU) — Бирск",
+        "url": "https://ru.wikipedia.org/wiki/Бирск"
+      }
+    ],
+    "tags": [
+      "other",
+      "square_street",
+      "historic-town",
+      "merchant-town",
+      "belaya-river",
+      "birsk",
+      "bashkortostan"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-12",
+    "country": "russia"
   }
 ]

@@ -2017,5 +2017,801 @@
     "status": "enriched",
     "last_updated": "2026-07-28",
     "country": "russia"
+  },
+  {
+    "id": "amur-khingan-nature-reserve",
+    "slug": "khingan-nature-reserve",
+    "region": "amur",
+    "region_name_vi": "Tỉnh Amur",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Khu bảo tồn thiên nhiên Khingan (Khinganskiy zapovednik)",
+    "name_ru": "Хинганский заповедник",
+    "name_en": "Khingan Nature Reserve",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 49.01694,
+      "lon": 130.44694
+    },
+    "address_vi": "Huyện Arkharinsky, phía đông nam tỉnh Amur (văn phòng quản lý đặt tại thị trấn Arkhara), Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Khu bảo tồn thiên nhiên thành lập năm 1963 ở đồng bằng Zeya–Bureya vùng đông nam Amur, nổi tiếng thế giới nhờ trạm nhân giống và tái thả sếu (sếu đầu đỏ, sếu cổ trắng) cùng cò trắng Viễn Đông. Mỗi cuối hè, đầm nước trong khu còn nở rộ hoa sen Komarov quý hiếm.",
+    "presentation_long_vi": "Hinganskiy zapovednik là một trong những khu bảo tồn thiên nhiên quan trọng bậc nhất của vùng Viễn Đông Nga, được lập từ năm 1963 trên vùng trũng Arkharinskaya thuộc đồng bằng Zeya–Bureya. Điểm làm nên tên tuổi của khu là công tác bảo tồn các loài chim quý: tại đây có trạm nhân giống và tái thả sếu (питомник журавлей) bên hồ Kleshenskoe, nơi những chú sếu đầu đỏ và sếu cổ trắng non được ấp nuôi rồi thả về tự nhiên — một chương trình đã đưa hàng trăm cá thể trở lại các đầm lầy hoang dã. Khu cũng là nơi trú ngụ của cò trắng Viễn Đông, loài chim biểu tượng của vùng Amur. Vào cuối tháng 7 – tháng 8, các hồ nước trong khu phủ kín hoa sen Komarov nở hồng, tạo nên cảnh sắc đặc trưng của rừng đầm lầy phương Nam. Với du khách yêu thiên nhiên, Khingan mở tuyến tham quan sinh thái có hướng dẫn, giúp hiểu vì sao vùng Amur được coi là một trong những cái nôi bảo tồn chim di cư của châu Á.",
+    "highlights_vi": [
+      "Trạm nhân giống và tái thả sếu (sếu đầu đỏ, sếu cổ trắng) nổi tiếng thế giới.",
+      "Nơi bảo tồn cò trắng Viễn Đông — loài chim biểu tượng vùng Amur.",
+      "Hồ nước nở rộ hoa sen Komarov quý hiếm vào cuối hè."
+    ],
+    "practical": {
+      "hours_vi": "Tham quan theo tuyến sinh thái có tổ chức; cần đăng ký trước với ban quản lý khu bảo tồn.",
+      "ticket_vi": "Có phí vào tuyến tham quan và phí hướng dẫn; liên hệ trước để sắp lịch.",
+      "duration_vi": "Từ nửa ngày đến vài ngày tuỳ tuyến, có tuyến «Hòn ngọc Khingan».",
+      "best_time_vi": "Cuối tháng 7 – tháng 8 (mùa sen nở, sếu con); mùa xuân và thu để ngắm chim di cư.",
+      "tips_vi": "Xuất phát từ thị trấn Arkhara; mang thuốc chống côn trùng, giày lội nước và ống nhòm."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A5%D0%B8%D0%BD%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA&ll=130.44694,49.01694&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Khingan%20Nature%20Reserve%2C%20Amur%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN) — Khingan Nature Reserve",
+        "url": "https://en.wikipedia.org/wiki/Khingan_Nature_Reserve"
+      },
+      {
+        "title": "Khingan Reserve — Станция реинтродукции журавлей",
+        "url": "http://www.khingan.ru/pitomnik.php"
+      }
+    ],
+    "tags": [
+      "nature-reserve",
+      "cranes",
+      "birds",
+      "lotus",
+      "arkhara",
+      "far-east"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "amur-ignatyevo-airport-blagoveshchensk",
+    "slug": "ignatyevo-airport-blagoveshchensk",
+    "region": "amur",
+    "region_name_vi": "Tỉnh Amur",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Sân bay Ignatyevo (Blagoveshchensk)",
+    "name_ru": "Аэропорт Игнатьево",
+    "name_en": "Ignatyevo Airport (Blagoveshchensk)",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 50.425,
+      "lon": 127.41333
+    },
+    "address_vi": "Làng Ignatyevo, cách trung tâm Blagoveshchensk khoảng 17 km về phía tây bắc, tỉnh Amur, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Sân bay chính của tỉnh Amur (mã IATA: BQS, ICAO: UHBB), cửa ngõ hàng không nối Blagoveshchensk với Moskva, vùng Viễn Đông và một số điểm quốc tế. Đây là điểm đến/đi thực tế cho hầu hết du khách bay tới vùng Amur.",
+    "presentation_long_vi": "Sân bay Ignatyevo là đầu mối hàng không quan trọng nhất của tỉnh Amur, phục vụ thủ phủ Blagoveshchensk cùng các huyện lân cận. Nằm cách trung tâm thành phố khoảng 17 km về phía tây bắc, sân bay khai thác các chuyến bay thẳng tới Moskva và nhiều thành phố Viễn Đông như Khabarovsk, Vladivostok, cùng các chuyến theo mùa. Với đa số khách du lịch Việt muốn khám phá vùng biên viễn bên sông Amur giáp Trung Quốc, Ignatyevo là điểm chạm đất đầu tiên: từ đây có thể bắt taxi hoặc xe buýt vào trung tâm để ra bờ kè, ngắm Hắc Hà bên kia sông. Sân bay cũng gắn với sự phát triển của tỉnh nhờ vị thế gần sân bay vũ trụ Vostochny và tuyến đường sắt BAM, khiến Amur trở thành một mắt xích giao thông đáng chú ý của nước Nga phía Đông.",
+    "highlights_vi": [
+      "Sân bay chính của tỉnh Amur, mã BQS/UHBB, cửa ngõ hàng không tới Blagoveshchensk.",
+      "Có đường bay thẳng tới Moskva và các thành phố Viễn Đông.",
+      "Điểm khởi đầu thực tế cho chuyến thăm vùng biên giới Amur – Trung Quốc."
+    ],
+    "practical": {
+      "hours_vi": "Hoạt động theo lịch chuyến bay; nhà ga mở cửa quanh các giờ khai thác.",
+      "ticket_vi": "Không có phí tham quan; chi phí phụ thuộc vé máy bay và phương tiện vào thành phố.",
+      "duration_vi": "Thời gian di chuyển sân bay – trung tâm khoảng 30–40 phút.",
+      "best_time_vi": "Quanh năm; mùa hè và đầu thu thời tiết dễ chịu để khám phá vùng Amur.",
+      "tips_vi": "Đặt taxi hoặc tra tuyến xe buýt trước; kiểm tra lịch bay theo mùa vì tần suất thay đổi."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%90%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82%20%D0%98%D0%B3%D0%BD%D0%B0%D1%82%D1%8C%D0%B5%D0%B2%D0%BE&ll=127.41333,50.425&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Ignatyevo%20Airport%20%28Blagoveshchensk%29%2C%20Amur%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN) — Ignatyevo Airport",
+        "url": "https://en.wikipedia.org/wiki/Ignatyevo_Airport"
+      },
+      {
+        "title": "SkyVector — UHBB Blagoveshchensk/Ignatyevo Airport",
+        "url": "https://skyvector.com/airport/UHBB/Blagoveshchensk-Ignatyevo-Airport"
+      }
+    ],
+    "tags": [
+      "airport",
+      "transport",
+      "blagoveshchensk",
+      "gateway",
+      "far-east"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "amur-tsiolkovsky-space-town",
+    "slug": "tsiolkovsky-space-town",
+    "region": "amur",
+    "region_name_vi": "Tỉnh Amur",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Thị trấn vũ trụ Tsiolkovsky (ZATO Tsiolkovsky)",
+    "name_ru": "Циолковский",
+    "name_en": "Tsiolkovsky (Amur Oblast)",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 51.76028,
+      "lon": 128.12111
+    },
+    "address_vi": "Thị trấn đóng cửa (ZATO) Tsiolkovsky, bên sông Bolshaya Pyora, cách Blagoveshchensk khoảng 180 km về phía bắc, tỉnh Amur, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Thị trấn hiện đại mang tên nhà tiên phong lý thuyết vũ trụ Konstantin Tsiolkovsky, được cải tổ từ khu quân sự Uglegorsk để phục vụ sân bay vũ trụ Vostochny. Đây là «thành phố của các nhà du hành» — nơi ở của kỹ sư, chuyên gia và gia đình gắn với ngành hàng không vũ trụ Nga.",
+    "presentation_long_vi": "Tsiolkovsky là một trong những thị trấn trẻ và đặc biệt nhất nước Nga: nó ra đời để phục vụ Kosmodrom Vostochny — sân bay vũ trụ dân sự lớn được xây trên đất Amur. Vốn là khu quân sự đóng (ZATO) mang tên Uglegorsk gắn với căn cứ tên lửa và sân bay vũ trụ Svobodny trước đây, nơi này được đổi tên thành Tsiolkovsky năm 2015 để vinh danh Konstantin Tsiolkovsky, cha đẻ lý thuyết du hành vũ trụ Nga. Thị trấn nằm bên sông Bolshaya Pyora, cách biên giới Trung Quốc khoảng 110 km, là nơi cư trú của đội ngũ kỹ sư, chuyên gia và gia đình họ. Vì là khu đóng, việc ra vào cần giấy phép, nhưng bản thân sự tồn tại của Tsiolkovsky kể một câu chuyện độc đáo: vùng taiga hẻo lánh của Amur đã trở thành bệ phóng cho tham vọng chinh phục không gian của nước Nga đương đại. Với người quan tâm ngành vũ trụ, cái tên Tsiolkovsky – Vostochny là biểu tượng mới của Viễn Đông.",
+    "highlights_vi": [
+      "«Thành phố của các nhà du hành» phục vụ sân bay vũ trụ Vostochny.",
+      "Mang tên Konstantin Tsiolkovsky — cha đẻ lý thuyết du hành vũ trụ Nga.",
+      "Là khu đóng (ZATO) trẻ, biểu tượng chinh phục không gian của Viễn Đông đương đại."
+    ],
+    "practical": {
+      "hours_vi": "Là thị trấn đóng: ra vào cần giấy phép; tham quan Vostochny theo tour có tổ chức.",
+      "ticket_vi": "Không có vé du lịch tự do; các chuyến thăm sân bay vũ trụ do cơ quan liên quan sắp xếp.",
+      "duration_vi": "Thường kết hợp trong tour tham quan Kosmodrom Vostochny.",
+      "best_time_vi": "Theo lịch phóng và lịch tour được công bố.",
+      "tips_vi": "Muốn tới gần cần đăng ký trước và có giấy phép; theo dõi thông tin chính thức về Vostochny."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A6%D0%B8%D0%BE%D0%BB%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9&ll=128.12111,51.76028&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Tsiolkovsky%20%28Amur%20Oblast%29%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (EN) — Tsiolkovsky, Amur Oblast",
+        "url": "https://en.wikipedia.org/wiki/Tsiolkovsky,_Amur_Oblast"
+      },
+      {
+        "title": "Wikidata — Tsiolkovsky (Q2096486)",
+        "url": "https://www.wikidata.org/wiki/Q2096486"
+      }
+    ],
+    "tags": [
+      "space",
+      "closed-town",
+      "vostochny",
+      "tsiolkovsky",
+      "modern"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "amur-srednebelaya-convent",
+    "slug": "srednebelaya-convent",
+    "region": "amur",
+    "region_name_vi": "Tỉnh Amur",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Tu viện nữ Srednebelaya (kính biểu tượng Đức Mẹ Albazin)",
+    "name_ru": "Среднебельский Богородичный женский монастырь",
+    "name_en": "Srednebelaya Convent of the Albazin Icon",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 50.65343,
+      "lon": 128.01335
+    },
+    "address_vi": "Làng Srednebeloye, huyện Ivanovsky, tỉnh Amur, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Tu viện nữ Chính Thống giáo ở làng Srednebeloye, cung hiến cho biểu tượng Đức Mẹ Albazin «Ngôi Lời hoá thành nhục thể» — thánh tượng bảo trợ của cả vùng Amur. Đây là một trong số ít tu viện của giáo phận Blagoveshchensk, điểm hành hương yên tĩnh giữa đồng bằng Amur.",
+    "presentation_long_vi": "Среднебельский монастырь là tu viện nữ hiếm hoi của vùng Amur, nằm ở làng Srednebeloye thuộc huyện Ivanovsky, được cung hiến cho biểu tượng Đức Mẹ Albazin — thánh tượng gắn liền với lịch sử pháo đài Albazin trên biên giới và được tôn kính là đấng bảo trợ của toàn vùng Amur. Địa điểm dựng nhà thờ kính biểu tượng «Ngôi Lời hoá thành nhục thể» (Slovo plot byst) được làm phép từ giữa thập niên 2000; sau đó, theo quyết định của Thánh Công đồng Giáo hội Chính Thống Nga, tu viện chuyển về vị trí hiện nay ở Srednebeloye. Giữa khung cảnh đồng bằng nông nghiệp yên ả, quần thể tu viện với nhà thờ, các dãy phòng của nữ tu và vườn tược trở thành nơi tĩnh tâm và hành hương của tín hữu địa phương. Với du khách, đây là dịp hiểu thêm về đời sống đan tu Chính Thống giáo nơi vùng đất biên viễn, đồng thời cảm nhận sợi dây tâm linh nối liền câu chuyện Albazin với đức tin đương đại của người Amur.",
+    "highlights_vi": [
+      "Tu viện nữ hiếm hoi của giáo phận Blagoveshchensk, cung hiến cho biểu tượng Đức Mẹ Albazin.",
+      "Gắn với thánh tượng bảo trợ vùng Amur, nối liền lịch sử pháo đài Albazin.",
+      "Điểm tĩnh tâm, hành hương yên tĩnh giữa đồng bằng nông nghiệp Amur."
+    ],
+    "practical": {
+      "hours_vi": "Đón khách theo giờ lễ và giờ mở của tu viện; nên liên hệ trước khi tới.",
+      "ticket_vi": "Miễn phí (là nơi thờ phụng đang hoạt động); có thể xin phép ở lại theo diện hành hương.",
+      "duration_vi": "Khoảng 30–60 phút.",
+      "best_time_vi": "Các ngày lễ kính biểu tượng Đức Mẹ Albazin và những dịp lễ lớn Chính Thống giáo.",
+      "tips_vi": "Ăn mặc kín đáo, nữ nên trùm khăn; giữ yên lặng và xin phép trước khi chụp ảnh."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B5%D0%B1%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B9%20%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C&ll=128.01335,50.65343&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Srednebelaya%20Convent%20of%20the%20Albazin%20Icon%2C%20Amur%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Sobory.ru — Среднебельский Богородичный монастырь",
+        "url": "https://sobory.ru/article/?object=35362"
+      },
+      {
+        "title": "Азбука паломника — Среднебельский Богородичный женский монастырь",
+        "url": "https://azbyka.ru/palomnik/Среднебельский_Богородичный_женский_монастырь"
+      }
+    ],
+    "tags": [
+      "convent",
+      "monastery",
+      "orthodox",
+      "albazin-icon",
+      "ivanovsky",
+      "pilgrimage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "amur-zeya-local-history-museum",
+    "slug": "zeya-local-history-museum",
+    "region": "amur",
+    "region_name_vi": "Tỉnh Amur",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Bảo tàng địa phương thành phố Zeya (Kraevedcheskiy muzey Zeya)",
+    "name_ru": "Краеведческий музей города Зеи",
+    "name_en": "Zeya Local History Museum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 53.731647,
+      "lon": 127.252334
+    },
+    "address_vi": "Ул. Мухина, 247, thành phố Zeya, tỉnh Amur, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng địa phương của thành phố Zeya bên bờ sông cùng tên, lưu giữ hơn 21.000 hiện vật về thiên nhiên, dân tộc bản địa Evenk và lịch sử khai thác vàng của vùng bắc Amur. Bảo tàng còn có phân khu về lịch sử khai thác vàng — nghề đã sinh ra chính thành phố Zeya.",
+    "presentation_long_vi": "Bảo tàng địa phương thành phố Zeya là cửa sổ nhìn vào vùng bắc Amur — nơi rừng taiga, sông lớn và những mỏ vàng đã định hình cuộc sống con người. Có nguồn gốc từ năm 1965 và trở thành cơ sở độc lập từ năm 2005, bảo tàng lưu giữ hơn 21.000 hiện vật trải rộng từ thế giới tự nhiên của lưu vực sông Zeya, văn hoá của người Evenk bản địa, tới lịch sử khai hoang và đặc biệt là nghề đào vàng từng biến Zeya thành trung tâm sầm uất. Trong cơ cấu bảo tàng còn có Bảo tàng Lịch sử khai thác vàng, kể lại thời kỳ «cơn sốt vàng» của Amur với dụng cụ, ảnh tư liệu và câu chuyện của các phu mỏ. Thành phố Zeya cũng nằm gần đập thuỷ điện Zeya và khu bảo tồn Zeysky, nên bảo tàng là điểm dừng lý tưởng để hiểu bối cảnh trước khi khám phá thiên nhiên hùng vĩ quanh hồ chứa Zeya.",
+    "highlights_vi": [
+      "Hơn 21.000 hiện vật về thiên nhiên, dân tộc Evenk và lịch sử vùng bắc Amur.",
+      "Có phân khu Bảo tàng Lịch sử khai thác vàng — nghề khai sinh ra thành phố Zeya.",
+      "Điểm dừng thuận tiện trước khi thăm đập và khu bảo tồn Zeya."
+    ],
+    "practical": {
+      "hours_vi": "Thường mở thứ Ba–thứ Bảy, nghỉ Chủ nhật và thứ Hai; nên kiểm tra lịch theo mùa.",
+      "ticket_vi": "Vé vào cửa giá bình dân; có phí thêm cho tour hướng dẫn.",
+      "duration_vi": "Khoảng 1–1,5 giờ.",
+      "best_time_vi": "Quanh năm; tiện kết hợp khi tham quan đập và hồ chứa Zeya.",
+      "tips_vi": "Kết hợp lịch trình với đập thuỷ điện Zeya và khu bảo tồn Zeysky ở gần."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9A%D1%80%D0%B0%D0%B5%D0%B2%D0%B5%D0%B4%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%20%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0%20%D0%97%D0%B5%D0%B8&ll=127.252334,53.731647&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Zeya%20Local%20History%20Museum%2C%20Amur%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Культура.РФ — Краеведческий музей г. Зеи",
+        "url": "https://www.culture.ru/institutes/20241/kraevedcheskii-muzei-g-zei"
+      },
+      {
+        "title": "Bảo tàng địa phương thành phố Zeya (trang chính thức)",
+        "url": "https://zeyamuseum.ru/"
+      }
+    ],
+    "tags": [
+      "museum",
+      "local-history",
+      "zeya",
+      "gold-mining",
+      "evenk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "amur-belogorsk-local-museum",
+    "slug": "belogorsk-local-museum",
+    "region": "amur",
+    "region_name_vi": "Tỉnh Amur",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Bảo tàng địa phương Belogorsk mang tên N. G. Elcheninov",
+    "name_ru": "Белогорский краеведческий музей имени Н. Г. Ельченинова",
+    "name_en": "Belogorsk Local History Museum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 50.920447,
+      "lon": 128.478608
+    },
+    "address_vi": "Ул. Кирова, 117, thành phố Belogorsk, tỉnh Amur, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng địa phương của Belogorsk — đầu mối giao thông lớn thứ hai của tỉnh Amur. Bắt nguồn từ một câu lạc bộ địa lý học đường năm 1953 và mở cửa chính thức năm 1961, bảo tàng kể lại lịch sử vùng thảo nguyên – nông nghiệp trung tâm tỉnh Amur.",
+    "presentation_long_vi": "Bảo tàng địa phương Belogorsk mang tên N. G. Elcheninov giới thiệu diện mạo của một thành phố từng có tên Kuybyshevka-Vostochnaya — nay là nút đường sắt và trung tâm nông nghiệp quan trọng ở trung tâm tỉnh Amur. Bảo tàng có gốc từ năm 1953, khi tại trường số 3 hình thành hội địa lý học sinh «Globus», rồi chính thức khai trương năm 1961. Các gian trưng bày dẫn khách đi qua thiên nhiên đồng bằng Zeya–Bureya, đời sống của những người khai hoang, thời kỳ hình thành và phát triển thành phố cùng vai trò của tuyến đường sắt xuyên Siberia. Nằm ngay trên phố Kirov trung tâm, bảo tàng là điểm dừng hợp lý cho du khách khám phá phần nội địa của tỉnh Amur — khác với thủ phủ Blagoveshchensk bên sông biên giới, Belogorsk mang nhịp sống của một đô thị đường sắt và nông nghiệp điển hình vùng Viễn Đông.",
+    "highlights_vi": [
+      "Bảo tàng thành phố Belogorsk, nút đường sắt lớn của tỉnh Amur.",
+      "Khởi nguồn từ hội địa lý học đường 1953, khai trương 1961.",
+      "Giới thiệu thiên nhiên đồng bằng Zeya–Bureya và lịch sử khai hoang, đường sắt."
+    ],
+    "practical": {
+      "hours_vi": "Thường mở thứ Ba–thứ Sáu 9:00–18:00, thứ Bảy–Chủ nhật 10:00–17:00, nghỉ thứ Hai.",
+      "ticket_vi": "Vé vào cửa giá bình dân; có phí thêm cho tour hướng dẫn.",
+      "duration_vi": "Khoảng 1 giờ.",
+      "best_time_vi": "Quanh năm; tiện ghé khi di chuyển bằng tàu qua Belogorsk.",
+      "tips_vi": "Belogorsk là ga trung chuyển; có thể kết hợp ghé bảo tàng giữa hành trình đường sắt."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%91%D0%B5%D0%BB%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D1%80%D0%B0%D0%B5%D0%B2%D0%B5%D0%B4%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%20%D0%9D.%20%D0%93.%20%D0%95%D0%BB%D1%8C%D1%87%D0%B5%D0%BD%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0&ll=128.478608,50.920447&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Belogorsk%20Local%20History%20Museum%2C%20Amur%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Культура.РФ — Белогорский краеведческий музей им. Н. Г. Ельченинова",
+        "url": "https://www.culture.ru/institutes/11067/belogorskii-kraevedcheskii-muzei-im-n-g-elcheninova"
+      },
+      {
+        "title": "Bảo tàng địa phương Belogorsk (trang chính thức)",
+        "url": "https://muzey-belogorsk.ru/"
+      }
+    ],
+    "tags": [
+      "museum",
+      "local-history",
+      "belogorsk",
+      "railway",
+      "far-east"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "amur-lenin-square-blagoveshchensk",
+    "slug": "lenin-square-blagoveshchensk",
+    "region": "amur",
+    "region_name_vi": "Tỉnh Amur",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Quảng trường Lenin (Ploshchad Lenina), Blagoveshchensk",
+    "name_ru": "Площадь Ленина",
+    "name_en": "Lenin Square (Blagoveshchensk)",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 50.257326,
+      "lon": 127.534578
+    },
+    "address_vi": "Площадь Ленина, trung tâm thành phố Blagoveshchensk, gần bờ kè sông Amur, tỉnh Amur, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Quảng trường trung tâm và chính trị của Blagoveshchensk, nơi đặt trụ sở chính quyền tỉnh Amur cùng tượng đài Lenin. Đây là điểm tổ chức các sự kiện, lễ hội và diễu hành lớn của thành phố, cách bờ kè sông Amur chỉ vài bước chân.",
+    "presentation_long_vi": "Площадь Ленина là trái tim hành chính của Blagoveshchensk — không gian rộng lớn nơi tập trung toà nhà chính quyền tỉnh Amur và tượng đài Vladimir Lenin quen thuộc của các đô thị Nga. Quảng trường là sân khấu chính cho những sự kiện quan trọng của thành phố: mít tinh, hoà nhạc ngoài trời, hội chợ, lễ hội mùa đông với cây thông và tượng băng, cùng các cuộc diễu hành ngày lễ. Nằm sát bờ kè sông Amur nhìn sang thành phố Hắc Hà (Trung Quốc), quảng trường thường là điểm khởi đầu cho hành trình dạo bộ khám phá trung tâm lịch sử Blagoveshchensk — từ đây du khách có thể dễ dàng đi bộ tới bờ kè, Khải Hoàn Môn, nhà thờ chính toà và các dãy phố buôn bán cổ. Vào buổi tối, quảng trường và bờ kè sáng đèn trở thành nơi người dân địa phương tản bộ, tạo nên nhịp sinh hoạt đô thị đặc trưng của vùng biên.",
+    "highlights_vi": [
+      "Quảng trường trung tâm với trụ sở chính quyền tỉnh và tượng đài Lenin.",
+      "Nơi diễn ra sự kiện, lễ hội và diễu hành lớn của Blagoveshchensk.",
+      "Sát bờ kè sông Amur, điểm khởi đầu dạo bộ khám phá trung tâm thành phố."
+    ],
+    "practical": {
+      "hours_vi": "Không gian công cộng mở cửa tự do cả ngày.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "Khoảng 20–40 phút, có thể lâu hơn vào dịp lễ hội.",
+      "best_time_vi": "Buổi tối mùa hè để tản bộ; mùa đông có trang trí năm mới và tượng băng.",
+      "tips_vi": "Kết hợp dạo bộ ra bờ kè và Khải Hoàn Môn ở gần; chú ý quy định khu vực biên giới ven sông."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9F%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0&ll=127.534578,50.257326&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Lenin%20Square%20%28Blagoveshchensk%29%2C%20Amur%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikivoyage (RU) — Благовещенск",
+        "url": "https://ru.wikivoyage.org/wiki/Благовещенск"
+      },
+      {
+        "title": "Wikipedia (RU) — Благовещенск",
+        "url": "https://ru.wikipedia.org/wiki/Благовещенск"
+      }
+    ],
+    "tags": [
+      "square",
+      "central-square",
+      "blagoveshchensk",
+      "lenin",
+      "city-life"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "amur-mavritania-building-blagoveshchensk",
+    "slug": "mavritania-building-blagoveshchensk",
+    "region": "amur",
+    "region_name_vi": "Tỉnh Amur",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Toà nhà «Mavritania» (dãy phố buôn bán cổ), Blagoveshchensk",
+    "name_ru": "Городские торговые ряды «Мавритания»",
+    "name_en": "Mavritania Building (Blagoveshchensk)",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 50.261101,
+      "lon": 127.519062
+    },
+    "address_vi": "Переулок Рёлочный, 1, trung tâm thành phố Blagoveshchensk, tỉnh Amur, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Dãy phố buôn bán bằng gạch xây năm 1907 theo phong cách chiết trung pha giả-Gothic, một di tích kiến trúc cấp liên bang của Blagoveshchensk. Vẻ ngoài kỳ lạ với các đầu hồi nhọn khiến người dân gọi là «Mavritania»; nay toà nhà là trụ sở Viện Địa chất và Sử dụng tài nguyên (ИГиП ДВО РАН).",
+    "presentation_long_vi": "«Mavritania» là một trong những công trình kiến trúc kỳ thú nhất Blagoveshchensk. Được xây năm 1907 theo thiết kế của kiến trúc sư Vyacheslav Oltarzhevsky (người sau này trở thành bậc thầy về nhà cao tầng ở Nga), toà nhà gạch một tầng vốn là dãy «phố buôn lạnh» — nơi bày bán bánh mì, bột, thịt và sữa. Kiểu dáng chiết trung pha những chi tiết giả-Gothic với hàng đầu hồi nhọn tạo dáng vẻ phương Đông huyền bí, khiến người dân đặt cho biệt danh «Mavritania» (xứ Moor). Ngày nay công trình là di tích kiến trúc cấp liên bang và là trụ sở của Viện Địa chất và Sử dụng tài nguyên thuộc Phân viện Viễn Đông Viện Hàn lâm Khoa học Nga (ИГиП ДВО РАН) — chính viện này gắn với công tác nghiên cứu các phát hiện khủng long trứ danh của vùng Amur. Với du khách yêu kiến trúc, «Mavritania» là điểm nhấn thị giác độc đáo giữa trung tâm lịch sử, tiện ghé cùng bảo tàng cổ sinh vật học và nhà thờ chính toà ở ngay gần.",
+    "highlights_vi": [
+      "Dãy phố buôn bán 1907, di tích kiến trúc cấp liên bang phong cách chiết trung giả-Gothic.",
+      "Biệt danh «Mavritania» vì kiểu dáng hàng đầu hồi nhọn kỳ lạ như xứ Moor.",
+      "Nay là trụ sở Viện Địa chất ĐVO RAN, gắn với nghiên cứu khủng long Amur."
+    ],
+    "practical": {
+      "hours_vi": "Là toà nhà cơ quan nghiên cứu; thường chỉ tham quan ngoại thất, nội thất theo dịp mở cửa.",
+      "ticket_vi": "Miễn phí khi ngắm bên ngoài.",
+      "duration_vi": "Khoảng 15–20 phút ngắm kiến trúc.",
+      "best_time_vi": "Ban ngày để chụp ảnh mặt tiền; đẹp khi ánh nắng chiếu vào hàng đầu hồi.",
+      "tips_vi": "Nằm ngay cạnh bảo tàng cổ sinh vật học và nhà thờ chính toà — dễ ghép thành cụm tham quan."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B5%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%D1%8B%D0%B5%20%D1%80%D1%8F%D0%B4%D1%8B%20%C2%AB%D0%9C%D0%B0%D0%B2%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F%C2%BB&ll=127.519062,50.261101&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Mavritania%20Building%20%28Blagoveshchensk%29%2C%20Amur%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Библиотеки Благовещенска — Памятники архитектуры Благовещенска",
+        "url": "https://www.biblioblag.ru/kraevedenie/pamyatniki-arxitekturyi-blagoveshhenska"
+      },
+      {
+        "title": "Амурская правда — «Мавритания» (Любимый Благовещенск)",
+        "url": "https://www.ampravda.ru/2016/06/03/blagoveshchensk-bylo---stalo-interaktivnyjj-fotoproekt-ap"
+      }
+    ],
+    "tags": [
+      "architecture",
+      "heritage-building",
+      "blagoveshchensk",
+      "eclectic",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "amur-blagoveshchensk-dinosaur-site",
+    "slug": "blagoveshchensk-dinosaur-site",
+    "region": "amur",
+    "region_name_vi": "Tỉnh Amur",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Nghĩa địa khủng long Blagoveshchensk (Blagoveshchenskoye mestonakhozhdenie)",
+    "name_ru": "Благовещенское местонахождение динозавров",
+    "name_en": "Blagoveshchensk Dinosaur Locality",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 50.26864,
+      "lon": 127.48062
+    },
+    "address_vi": "Khu phía tây thành phố Blagoveshchensk, tỉnh Amur, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "«Nghĩa địa khủng long» ngay trong lòng thành phố — được cho là điểm hoá thạch khủng long duy nhất trên thế giới nằm trong ranh giới đô thị. Nơi đây đã khai quật hơn 2.000 mảnh xương và mô tả hai loài mới: Amurosaurus riabinini và Kerberosaurus manakini.",
+    "presentation_long_vi": "Blagoveshchensk sở hữu một trong những di sản cổ sinh vật độc đáo nhất thế giới: một «nghĩa địa khủng long» nằm ngay trong ranh giới thành phố. Dấu tích đầu tiên được phát hiện từ đầu thế kỷ 20, trong quá trình xây dựng đường sắt, và các cuộc khai quật khoa học sau đó đã thu về hơn 2.000 mảnh xương thuộc kỷ Phấn Trắng muộn. Chính từ địa điểm này, các nhà cổ sinh vật học Nga và quốc tế đã mô tả hai loài khủng long mỏ vịt mới cho khoa học: Amurosaurus riabinini và Kerberosaurus manakini — những cái tên gắn liền với vùng Amur. Bộ sưu tập được nghiên cứu và trưng bày bởi Viện Địa chất và Sử dụng tài nguyên (ИГиП ДВО РАН) cùng Bảo tàng Cổ sinh vật học Amur ở trung tâm. Địa phương đang có kế hoạch biến khu khai quật thành điểm du lịch khoa học – giáo dục. Với du khách, cùng với địa điểm Kundur nổi tiếng, «nghĩa địa» Blagoveshchensk cho thấy Amur là một trong những vùng đất khủng long quan trọng bậc nhất nước Nga.",
+    "highlights_vi": [
+      "Được xem là điểm hoá thạch khủng long duy nhất thế giới nằm trong lòng một thành phố.",
+      "Hơn 2.000 mảnh xương; mô tả hai loài mới Amurosaurus riabinini và Kerberosaurus manakini.",
+      "Gắn với Viện Địa chất ĐVO RAN và Bảo tàng Cổ sinh vật học Amur ở trung tâm."
+    ],
+    "practical": {
+      "hours_vi": "Khu khai quật chưa mở tự do; tốt nhất tìm hiểu qua Bảo tàng Cổ sinh vật học Amur ở trung tâm.",
+      "ticket_vi": "Hiện chưa có vé tham quan tại chỗ; theo dõi kế hoạch mở cửa cho du lịch.",
+      "duration_vi": "Kết hợp tìm hiểu tại bảo tàng khoảng 1 giờ.",
+      "best_time_vi": "Quanh năm; ưu tiên ghé bảo tàng cổ sinh vật học để xem hiện vật.",
+      "tips_vi": "Xem xương và mô hình khủng long tại Bảo tàng Cổ sinh vật học Amur (đã có trong cẩm nang)."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%91%D0%BB%D0%B0%D0%B3%D0%BE%D0%B2%D0%B5%D1%89%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%B5%20%D0%BC%D0%B5%D1%81%D1%82%D0%BE%D0%BD%D0%B0%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%B8%D0%BD%D0%BE%D0%B7%D0%B0%D0%B2%D1%80%D0%BE%D0%B2&ll=127.48062,50.26864&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Blagoveshchensk%20Dinosaur%20Locality%2C%20Amur%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "ИГиП ДВО РАН — Благовещенское местонахождение. Раскопки",
+        "url": "https://ignm.ru/2022/08/11/blagoveshhenskoe-mestonahozhdenie-raskopki/"
+      },
+      {
+        "title": "VisitAmur — Благовещенское местонахождение динозавров",
+        "url": "https://visitamur.ru/news/blagoveshchenskoe-mestonakhozhdenie-dinozavrov-predlagayut-sdelat-obektom-nauchno-populyarnogo-turiz/"
+      }
+    ],
+    "tags": [
+      "dinosaurs",
+      "paleontology",
+      "blagoveshchensk",
+      "amurosaurus",
+      "science"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "amur-tokinsko-stanovoy-national-park",
+    "slug": "tokinsko-stanovoy-national-park",
+    "region": "amur",
+    "region_name_vi": "Tỉnh Amur",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Vườn quốc gia Tokinsko-Stanovoy (Tokinsko-Stanovoy natsionalnyy park)",
+    "name_ru": "Токинско-Становой национальный парк",
+    "name_en": "Tokinsko-Stanovoy National Park",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 55.68417,
+      "lon": 130.1525
+    },
+    "address_vi": "Huyện Zeysky, sườn nam dãy Stanovoy, phía bắc tỉnh Amur, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Vườn quốc gia thành lập năm 2019 trên sườn nam dãy núi Stanovoy — đường phân thuỷ chính giữa các lưu vực Lena, Amur và biển Okhotsk. Một vùng núi cao hoang sơ với hồ băng hà, cảnh quan băng tích và quần thể cừu tuyết (chubuk), gần hồ Bolshoye Toko trứ danh.",
+    "presentation_long_vi": "Tokinsko-Stanovoy là một trong những vườn quốc gia trẻ nhất của nước Nga, được lập năm 2019 ở phần bắc xa xôi của tỉnh Amur, trên sườn nam hùng vĩ của dãy Stanovoy. Đây là khu vực phân thuỷ chiến lược — nơi bắt nguồn của các dòng chảy hướng về ba lưu vực lớn: sông Lena, sông Amur và biển Okhotsk. Cảnh quan vườn mang vẻ đẹp núi cao khắc nghiệt: những đỉnh núi lởm chởm, thung lũng băng tích để lại từ kỷ băng hà, cùng chuỗi hồ trong vắt, trong đó nổi tiếng là hồ Bolshoye Toko ngay sát ranh giới với Cộng hoà Sakha (Yakutia). Vườn bảo vệ những quần thể động vật quý của vùng núi Viễn Đông như cừu tuyết (chubuk), gấu nâu và nhiều loài chim. Vì địa hình hiểm trở và hạ tầng gần như chưa có, đây là điểm đến dành cho các nhà thám hiểm và du khách ưa hoang dã đích thực, thường tiếp cận bằng chuyến đi có tổ chức. Sự ra đời của Tokinsko-Stanovoy đánh dấu nỗ lực bảo tồn vùng núi non nguyên sơ cuối cùng của tỉnh Amur.",
+    "highlights_vi": [
+      "Vườn quốc gia mới (2019) trên sườn nam dãy Stanovoy — phân thuỷ Lena–Amur–Okhotsk.",
+      "Cảnh quan núi cao, hồ băng hà và quần thể cừu tuyết (chubuk) quý hiếm.",
+      "Gần hồ Bolshoye Toko trứ danh ở ranh giới với Cộng hoà Sakha."
+    ],
+    "practical": {
+      "hours_vi": "Vùng hoang dã xa xôi; tham quan cần đăng ký với ban quản lý và có tổ chức.",
+      "ticket_vi": "Cần giấy phép vào vườn quốc gia; chi phí chủ yếu là hậu cần chuyến đi.",
+      "duration_vi": "Chuyến thám hiểm nhiều ngày.",
+      "best_time_vi": "Mùa hè ngắn (tháng 7–8) khi thời tiết vùng núi thuận lợi nhất.",
+      "tips_vi": "Chỉ nên đi theo đoàn có hướng dẫn và trang bị đầy đủ; liên hệ ban quản lý trước."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A2%D0%BE%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%BE-%D0%A1%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%B0%D1%80%D0%BA&ll=130.1525,55.68417&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Tokinsko-Stanovoy%20National%20Park%2C%20Amur%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Токинско-Становой национальный парк",
+        "url": "https://ru.wikipedia.org/wiki/Токинско-Становой_национальный_парк"
+      },
+      {
+        "title": "Правительство России — О создании национального парка «Токинско-Становой»",
+        "url": "http://government.ru/docs/38668/"
+      }
+    ],
+    "tags": [
+      "national-park",
+      "mountains",
+      "stanovoy-range",
+      "lake",
+      "wilderness",
+      "zeysky"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "amur-mukhinka-recreation-zone",
+    "slug": "mukhinka-recreation-zone",
+    "region": "amur",
+    "region_name_vi": "Tỉnh Amur",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Khu nghỉ dưỡng Mukhinka bên sông Zeya",
+    "name_ru": "Мухинка (рекреационная зона)",
+    "name_en": "Mukhinka Recreation Area",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 50.561391,
+      "lon": 127.647604
+    },
+    "address_vi": "Bờ phải sông Zeya, làng Mukhinka, thuộc thành phố Blagoveshchensk, cách trung tâm khoảng 35–40 km, tỉnh Amur, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Khu nghỉ dưỡng và cắm trại nổi tiếng nhất của người Blagoveshchensk, nằm giữa rừng thông trên bờ phải sông Zeya. Với bãi tắm sông, hồ nước ngọt và không khí trong lành của taiga, đây là điểm dã ngoại mùa hè quen thuộc của cư dân thủ phủ Amur.",
+    "presentation_long_vi": "Mukhinka là «lá phổi xanh» và nơi nghỉ cuối tuần được yêu thích nhất của người dân Blagoveshchensk. Cách trung tâm thành phố khoảng 35–40 km theo hướng Novotroitskoye, khu nằm trên bờ phải sông Zeya giữa những cánh rừng thông thơm mát — một vi khí hậu dễ chịu hiếm có ở vùng Amur. Từ thời Xô Viết, nơi đây đã phát triển thành cụm nhà nghỉ, trại hè thiếu nhi và các cơ sở an dưỡng; ngày nay Mukhinka có nhiều turbaza (khu nghỉ) với bãi tắm sông, hồ nước ngọt, đường mòn đi bộ và không gian dã ngoại. Vào mùa hè, người dân đổ về đây để tắm sông, câu cá, hái nấm và quả rừng, nướng thịt và tận hưởng thiên nhiên. Với du khách, Mukhinka là dịp cảm nhận nhịp sống thư giãn của người Amur và vẻ đẹp bình dị của rừng thông – sông Zeya, khác hẳn sự sôi động nơi bờ kè biên giới Blagoveshchensk.",
+    "highlights_vi": [
+      "Khu nghỉ dã ngoại được yêu thích nhất của người Blagoveshchensk, giữa rừng thông bên sông Zeya.",
+      "Có bãi tắm sông, hồ nước ngọt, đường mòn và nhiều turbaza (khu nghỉ).",
+      "Điểm mùa hè lý tưởng để tắm sông, câu cá, hái nấm và nướng thịt ngoài trời."
+    ],
+    "practical": {
+      "hours_vi": "Không gian thiên nhiên mở; các turbaza hoạt động theo mùa, sôi động nhất vào hè.",
+      "ticket_vi": "Miễn phí ở khu thiên nhiên; đặt phòng/khu nghỉ tính phí riêng.",
+      "duration_vi": "Từ nửa ngày dã ngoại tới vài ngày nghỉ dưỡng.",
+      "best_time_vi": "Mùa hè (tháng 6–8) cho tắm sông và cắm trại.",
+      "tips_vi": "Đi từ Blagoveshchensk theo hướng Novotroitskoye; đặt turbaza trước vào mùa cao điểm, mang thuốc chống côn trùng."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%9C%D1%83%D1%85%D0%B8%D0%BD%D0%BA%D0%B0%20%28%D1%80%D0%B5%D0%BA%D1%80%D0%B5%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%B7%D0%BE%D0%BD%D0%B0%29&ll=127.647604,50.561391&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Mukhinka%20Recreation%20Area%2C%20Amur%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Мухинка",
+        "url": "https://ru.wikipedia.org/wiki/Мухинка"
+      },
+      {
+        "title": "Turbazy.ru — Турбаза «Мухинка», Амурская область",
+        "url": "https://turbazy.ru/list/amurskaya_oblast/muhinka.html"
+      }
+    ],
+    "tags": [
+      "recreation",
+      "river",
+      "zeya",
+      "pine-forest",
+      "blagoveshchensk",
+      "summer"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "amur-blagoveshchensk-river-terminal",
+    "slug": "blagoveshchensk-river-terminal",
+    "region": "amur",
+    "region_name_vi": "Tỉnh Amur",
+    "federal_district": "Vùng Viễn Đông",
+    "name_vi": "Bến tàu khách sông Amur (Rechnoy vokzal), Blagoveshchensk",
+    "name_ru": "Речной вокзал Благовещенска",
+    "name_en": "Blagoveshchensk River Terminal",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 50.250095,
+      "lon": 127.553668
+    },
+    "address_vi": "Ул. Чайковского, khu bờ kè sông Amur, thành phố Blagoveshchensk, tỉnh Amur, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bến tàu khách trên bờ kè sông Amur — điểm xuất phát của các chuyến tàu và tàu đệm khí vượt sông sang thành phố Hắc Hà (Trung Quốc). Đây là một trong những cửa khẩu đường sông độc đáo bậc nhất nước Nga, nơi biên giới chỉ cách một dòng sông.",
+    "presentation_long_vi": "Речной вокзал Blagoveshchensk là biểu tượng cho vị thế đặc biệt của thành phố: một thủ phủ tỉnh của Nga nằm ngay đối diện đô thị Trung Quốc Hắc Hà (Heihe) qua bề rộng sông Amur. Từ bến tàu trên bờ kè, du khách và cư dân hai nước qua lại biên giới bằng tàu khách vào mùa nước, bằng tàu đệm khí khi sông đóng băng hoặc lúc giao mùa, và bằng phà cho hàng hoá — một nhịp giao thương sống động kéo dài nhiều thập niên. Việc khánh thành cầu quốc tế Blagoveshchensk – Hắc Hà đã bổ sung tuyến đường bộ, nhưng bến tàu vẫn giữ vai trò cửa khẩu đường sông và điểm ngắm cảnh hấp dẫn. Đứng ở đây, du khách nhìn thấy rõ những toà nhà cao tầng và bảng hiệu chữ Hán của Hắc Hà bên kia sông — một khung cảnh «hai quốc gia trong một tầm mắt» khó quên. Bến tàu cùng bờ kè Blagoveshchensk tạo thành không gian dạo chơi và cảm nhận đường biên giới hữu nghị giữa Nga và Trung Quốc.",
+    "highlights_vi": [
+      "Điểm xuất phát tàu và tàu đệm khí vượt sông Amur sang Hắc Hà (Trung Quốc).",
+      "Một trong những cửa khẩu đường sông độc đáo nhất nước Nga.",
+      "Nơi ngắm cảnh «hai quốc gia trong một tầm mắt» qua sông Amur."
+    ],
+    "practical": {
+      "hours_vi": "Hoạt động theo lịch tuyến qua biên giới; thủ tục xuất nhập cảnh áp dụng cho khách vượt sông.",
+      "ticket_vi": "Vé đi Hắc Hà mua theo tuyến; ngắm cảnh từ bờ kè miễn phí.",
+      "duration_vi": "Ngắm cảnh khoảng 20–30 phút; chuyến vượt sông sang Hắc Hà rất ngắn.",
+      "best_time_vi": "Mùa hè cho tàu khách; mùa đông có tàu đệm khí trên mặt sông băng.",
+      "tips_vi": "Muốn sang Hắc Hà cần hộ chiếu và thị thực hợp lệ; tuân thủ quy định khu vực biên giới ven sông."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?text=%D0%A0%D0%B5%D1%87%D0%BD%D0%BE%D0%B9%20%D0%B2%D0%BE%D0%BA%D0%B7%D0%B0%D0%BB%20%D0%91%D0%BB%D0%B0%D0%B3%D0%BE%D0%B2%D0%B5%D1%89%D0%B5%D0%BD%D1%81%D0%BA%D0%B0&ll=127.553668,50.250095&z=16",
+      "google": "https://www.google.com/maps/search/?api=1&query=Blagoveshchensk%20River%20Terminal%2C%20Amur%2C%20Russia"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Wikipedia (RU) — Благовещенск (набережная, речной вокзал)",
+        "url": "https://ru.wikipedia.org/wiki/Благовещенск"
+      },
+      {
+        "title": "2GIS — Благовещенск (набережная / речной вокзал)",
+        "url": "https://2gis.ru/blagoveshchensk"
+      }
+    ],
+    "tags": [
+      "river-terminal",
+      "border-crossing",
+      "amur-river",
+      "heihe",
+      "blagoveshchensk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-11",
+    "country": "russia"
   }
 ]
