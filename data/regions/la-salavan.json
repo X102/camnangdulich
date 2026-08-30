@@ -1,0 +1,139 @@
+[
+  {
+    "id": "la-salavan-tad-lo",
+    "slug": "tad-lo",
+    "region": "la-salavan",
+    "region_name_vi": "Salavan",
+    "country": "laos",
+    "name_vi": "Thác Tad Lo",
+    "name_en": "Tad Lo Waterfall",
+    "name_local": "ຕາດເລາະ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 15.5324,
+      "lon": 106.2731
+    },
+    "address_vi": "Bản Saenvang, huyện Lao Ngam, rìa cao nguyên Bolaven, tỉnh Salavan, Lào",
+    "presentation_short_vi": "Thác nước nhiều tầng bên rìa cao nguyên Bolaven, quanh làng Ban Saenvang — điểm nghỉ chân nổi tiếng để tắm mát và ngắm hoàng hôn.",
+    "rating": null,
+    "tags": [
+      "thac",
+      "bolaven",
+      "tam-mat",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "la-salavan-tad-hang",
+    "slug": "tad-hang",
+    "region": "la-salavan",
+    "region_name_vi": "Salavan",
+    "country": "laos",
+    "name_vi": "Thác Tad Hang",
+    "name_en": "Tad Hang Waterfall",
+    "name_local": "ຕາດຫາງ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 15.532108,
+      "lon": 106.271526
+    },
+    "address_vi": "Bên sông Xe Set, bản Saenvang, huyện Lao Ngam, tỉnh Salavan, Lào",
+    "presentation_short_vi": "Thác nằm ngay khu du lịch Ban Saenvang bên sông Xe Set, chỉ cách thác Tad Lo khoảng 500 m về phía hạ nguồn.",
+    "rating": null,
+    "tags": [
+      "thac",
+      "xe-set",
+      "bolaven"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "la-salavan-tad-soung",
+    "slug": "tad-soung",
+    "region": "la-salavan",
+    "region_name_vi": "Salavan",
+    "country": "laos",
+    "name_vi": "Thác Tad Soung",
+    "name_en": "Tad Soung Waterfall",
+    "name_local": "ຕາດສູງ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 15.499266,
+      "lon": 106.27373
+    },
+    "address_vi": "Thượng nguồn sông Xe Set, huyện Lao Ngam, cao nguyên Bolaven, tỉnh Salavan, Lào",
+    "presentation_short_vi": "Thác cao nhất trong cụm Tad Lo, nằm ở thượng nguồn sông Xe Set với tầm nhìn rộng ra cao nguyên Bolaven.",
+    "rating": null,
+    "tags": [
+      "thac",
+      "bolaven",
+      "view-cao",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "la-salavan-simongkhoun-temple",
+    "slug": "simongkhoun-temple",
+    "region": "la-salavan",
+    "region_name_vi": "Salavan",
+    "country": "laos",
+    "name_vi": "Chùa Simongkhoun",
+    "name_en": "Simongkhoun Temple",
+    "name_local": "ວັດສີມົງຄຸນ",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 15.71363,
+      "lon": 106.39233
+    },
+    "address_vi": "Phía đông bắc thị xã Salavan, tỉnh Salavan, Lào",
+    "presentation_short_vi": "Ngôi chùa hơn 200 năm tuổi ở đông bắc thị xã Salavan, đang được trùng tu, là điểm hành hương của người dân địa phương.",
+    "rating": null,
+    "tags": [
+      "chua",
+      "phat-giao",
+      "co-kinh"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "la-salavan-ong-keo-stupa",
+    "slug": "ong-keo-stupa",
+    "region": "la-salavan",
+    "region_name_vi": "Salavan",
+    "country": "laos",
+    "name_vi": "Tháp đá Ong Keo",
+    "name_en": "Ong Keo Stone Stupa Park",
+    "name_local": "ທາດອົງແກ້ວ",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 15.715,
+      "lon": 106.393
+    },
+    "address_vi": "Đông bắc thị xã Salavan, gần bệnh viện tỉnh, tỉnh Salavan, Lào",
+    "presentation_short_vi": "Công viên tháp đá tưởng niệm Ong Keo — thủ lĩnh cuộc khởi nghĩa đầu thế kỷ 20 trên cao nguyên Bolaven, được người dân Nam Lào tôn kính.",
+    "rating": null,
+    "tags": [
+      "thap",
+      "di-tich",
+      "lich-su"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

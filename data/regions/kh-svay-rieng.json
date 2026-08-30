@@ -1,0 +1,189 @@
+[
+  {
+    "id": "kh-svay-rieng-svay-rieng-city",
+    "slug": "svay-rieng-city",
+    "region": "kh-svay-rieng",
+    "region_name_vi": "Svay Rieng",
+    "country": "cambodia",
+    "name_vi": "Thành phố Svay Rieng",
+    "name_en": "Svay Rieng City",
+    "name_local": "ក្រុងស្វាយរៀង",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 11.0879,
+      "lon": 105.7993
+    },
+    "address_vi": "Thành phố Svay Rieng, tỉnh Svay Rieng",
+    "presentation_short_vi": "Thủ phủ tỉnh nằm bên sông Vaiko trên quốc lộ 1, thị trấn biên mậu nhộn nhịp với đài tưởng niệm và chợ trung tâm.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=105.7993,11.0879&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=11.0879,105.7993"
+    },
+    "tags": [
+      "provincial_capital",
+      "vaiko",
+      "market"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kh-svay-rieng-bavet-border",
+    "slug": "bavet-border",
+    "region": "kh-svay-rieng",
+    "region_name_vi": "Svay Rieng",
+    "country": "cambodia",
+    "name_vi": "Cửa khẩu quốc tế Bavet",
+    "name_en": "Bavet International Border Gate",
+    "name_local": "ច្រកទ្វារអន្តរជាតិបាវិត",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 11.0875,
+      "lon": 106.156
+    },
+    "address_vi": "TP. Bavet, huyện Chantrea, tỉnh Svay Rieng (giáp Mộc Bài, Việt Nam)",
+    "presentation_short_vi": "Cửa khẩu đường bộ quốc tế lớn nhất giữa Campuchia và Việt Nam trên quốc lộ 1, đối diện cửa khẩu Mộc Bài (Tây Ninh), sầm uất với casino và khu kinh tế.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=106.156,11.0875&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=11.0875,106.156"
+    },
+    "tags": [
+      "border",
+      "vietnam",
+      "moc_bai",
+      "casino"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kh-svay-rieng-prey-basac",
+    "slug": "prey-basac",
+    "region": "kh-svay-rieng",
+    "region_name_vi": "Svay Rieng",
+    "country": "cambodia",
+    "name_vi": "Khu du lịch Prey Basac",
+    "name_en": "Prey Basac Resort",
+    "name_local": "ព្រៃបាសាក់",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 11.03,
+      "lon": 105.86
+    },
+    "address_vi": "Cách TP. Svay Rieng ~8,5 km về phía đông nam, huyện Svay Rieng, tỉnh Svay Rieng",
+    "presentation_short_vi": "Khu rừng rậm trên gò đất nơi từng có đền cổ, được xem là mảng rừng đẹp và nguyên sơ nhất tỉnh, bao quanh bởi sông Vaiko.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=105.86,11.03&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=11.03,105.86"
+    },
+    "tags": [
+      "forest",
+      "nature",
+      "picnic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kh-svay-rieng-vaiko-river",
+    "slug": "vaiko-river",
+    "region": "kh-svay-rieng",
+    "region_name_vi": "Svay Rieng",
+    "country": "cambodia",
+    "name_vi": "Sông Vaiko (Waiko)",
+    "name_en": "Vaiko River",
+    "name_local": "ស្ទឹងវ៉ៃកូ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 11.086,
+      "lon": 105.797
+    },
+    "address_vi": "Chảy qua thành phố Svay Rieng, tỉnh Svay Rieng",
+    "presentation_short_vi": "Dòng sông cùng vùng đầm lầy rộng chảy qua tỉnh, tạo khung cảnh nên thơ và là nguồn nước tưới tiêu chính cho vùng lúa Svay Rieng.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=105.797,11.086&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=11.086,105.797"
+    },
+    "tags": [
+      "river",
+      "wetland",
+      "scenery"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kh-svay-rieng-central-market",
+    "slug": "central-market",
+    "region": "kh-svay-rieng",
+    "region_name_vi": "Svay Rieng",
+    "country": "cambodia",
+    "name_vi": "Chợ trung tâm Svay Rieng",
+    "name_en": "Svay Rieng Central Market",
+    "name_local": "ផ្សារស្វាយរៀង",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 11.0873,
+      "lon": 105.7987
+    },
+    "address_vi": "Trung tâm thành phố Svay Rieng, tỉnh Svay Rieng",
+    "presentation_short_vi": "Khu chợ sầm uất giữa lòng thành phố, nơi mua bán nông sản, đặc sản địa phương và hàng hóa biên mậu.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=105.7987,11.0873&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=11.0873,105.7987"
+    },
+    "tags": [
+      "market",
+      "local",
+      "shopping"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kh-svay-rieng-hun-sen-bridge",
+    "slug": "hun-sen-bridge",
+    "region": "kh-svay-rieng",
+    "region_name_vi": "Svay Rieng",
+    "country": "cambodia",
+    "name_vi": "Cầu Hun Sen",
+    "name_en": "Hun Sen Bridge",
+    "name_local": "ស្ពានហ៊ុនសែន",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 11.0885,
+      "lon": 105.7955
+    },
+    "address_vi": "Bắc qua sông Vaiko, thành phố Svay Rieng, tỉnh Svay Rieng",
+    "presentation_short_vi": "Cây cầu bắc qua sông Vaiko nối các khu vực của thành phố, công trình hạ tầng quen thuộc giữa trung tâm Svay Rieng.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=105.7955,11.0885&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=11.0885,105.7955"
+    },
+    "tags": [
+      "bridge",
+      "vaiko",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

@@ -1,0 +1,244 @@
+[
+  {
+    "id": "uz-tashkent-city-khast-imam",
+    "slug": "khast-imam",
+    "region": "uz-tashkent-city",
+    "region_name_vi": "Thành phố Tashkent",
+    "country": "uzbekistan",
+    "name_vi": "Quần thể Hazrati Imam (Khast Imam)",
+    "name_en": "Khast Imam Complex",
+    "name_local": "Hazrati Imom majmuasi",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 41.3339,
+      "lon": 69.2402
+    },
+    "address_vi": "Quận Olmazor, thành phố Tashkent, Uzbekistan",
+    "presentation_short_vi": "Quần thể Hazrati Imam (Khast Imam) là trung tâm tôn giáo của Tashkent, gồm nhiều nhà thờ, trường kinh và lăng mộ quây quanh một quảng trường rộng. Nơi đây lưu giữ bản Kinh Koran Uthman - được xem là một trong những bản Koran cổ nhất thế giới.",
+    "rating": null,
+    "tags": [
+      "top",
+      "mosque",
+      "islamic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "uz-tashkent-city-chorsu-bazaar",
+    "slug": "chorsu-bazaar",
+    "region": "uz-tashkent-city",
+    "region_name_vi": "Thành phố Tashkent",
+    "country": "uzbekistan",
+    "name_vi": "Chợ Chorsu",
+    "name_en": "Chorsu Bazaar",
+    "name_local": "Chorsu bozori",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 41.3263,
+      "lon": 69.2347
+    },
+    "address_vi": "Khu phố cổ Eski Shahar, thành phố Tashkent, Uzbekistan",
+    "presentation_short_vi": "Chợ Chorsu là khu chợ truyền thống biểu tượng của Tashkent, nổi bật với mái vòm lớn lợp gạch men xanh. Bên trong bày bán đủ loại gia vị, trái cây, thịt và đồ thủ công của vùng Trung Á.",
+    "rating": null,
+    "tags": [
+      "bazaar",
+      "local",
+      "food"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "uz-tashkent-city-kukeldash",
+    "slug": "kukeldash",
+    "region": "uz-tashkent-city",
+    "region_name_vi": "Thành phố Tashkent",
+    "country": "uzbekistan",
+    "name_vi": "Trường kinh Kukeldash",
+    "name_en": "Kukeldash Madrasa",
+    "name_local": "Koʻkaldosh madrasasi",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 41.3242,
+      "lon": 69.2369
+    },
+    "address_vi": "Gần chợ Chorsu, thành phố Tashkent, Uzbekistan",
+    "presentation_short_vi": "Trường kinh Kukeldash là madrasa lớn và cổ kính từ thế kỷ 16, nằm trên gò cao gần chợ Chorsu. Đây là một trong những công trình lịch sử tiêu biểu còn lại của khu phố cổ Tashkent.",
+    "rating": null,
+    "tags": [
+      "madrasa",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "uz-tashkent-city-amir-timur-square",
+    "slug": "amir-timur-square",
+    "region": "uz-tashkent-city",
+    "region_name_vi": "Thành phố Tashkent",
+    "country": "uzbekistan",
+    "name_vi": "Quảng trường Amir Timur",
+    "name_en": "Amir Timur Square",
+    "name_local": "Amir Temur xiyoboni",
+    "categories": [
+      "square_street",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 41.3114,
+      "lon": 69.2797
+    },
+    "address_vi": "Trung tâm thành phố Tashkent, Uzbekistan",
+    "presentation_short_vi": "Quảng trường Amir Timur là quảng trường trung tâm của Tashkent, với tượng đài Timur cưỡi ngựa đặt giữa vườn cây xanh mát. Xung quanh là nhiều công trình lịch sử và hiện đại tiêu biểu của thủ đô.",
+    "rating": null,
+    "tags": [
+      "square",
+      "monument",
+      "central"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "uz-tashkent-city-independence-square",
+    "slug": "independence-square",
+    "region": "uz-tashkent-city",
+    "region_name_vi": "Thành phố Tashkent",
+    "country": "uzbekistan",
+    "name_vi": "Quảng trường Độc Lập (Mustaqillik)",
+    "name_en": "Independence Square",
+    "name_local": "Mustaqillik maydoni",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 41.3111,
+      "lon": 69.2681
+    },
+    "address_vi": "Trung tâm thành phố Tashkent, Uzbekistan",
+    "presentation_short_vi": "Quảng trường Độc Lập (Mustaqillik) là quảng trường lớn nhất và quan trọng nhất Uzbekistan, nơi diễn ra các sự kiện trọng đại của quốc gia. Không gian rộng lớn với đài Độc Lập, đài tưởng niệm và những hàng đài phun nước.",
+    "rating": null,
+    "tags": [
+      "square",
+      "top",
+      "central"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "uz-tashkent-city-navoi-theatre",
+    "slug": "navoi-theatre",
+    "region": "uz-tashkent-city",
+    "region_name_vi": "Thành phố Tashkent",
+    "country": "uzbekistan",
+    "name_vi": "Nhà hát Opera & Ballet Alisher Navoi",
+    "name_en": "Alisher Navoi Opera and Ballet Theatre",
+    "name_local": "Alisher Navoiy nomidagi teatr",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 41.3119,
+      "lon": 69.2733
+    },
+    "address_vi": "Phố Ataturk, trung tâm thành phố Tashkent, Uzbekistan",
+    "presentation_short_vi": "Nhà hát Opera & Ballet Alisher Navoi là nhà hát tráng lệ bậc nhất Tashkent, mang tên đại thi hào Alisher Navoi. Công trình nổi bật với kiến trúc cổ điển và các sảnh trang trí theo phong cách các vùng miền Uzbekistan.",
+    "rating": null,
+    "tags": [
+      "theatre",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "uz-tashkent-city-minor-mosque",
+    "slug": "minor-mosque",
+    "region": "uz-tashkent-city",
+    "region_name_vi": "Thành phố Tashkent",
+    "country": "uzbekistan",
+    "name_vi": "Nhà thờ Hồi giáo Minor (Nhà thờ Trắng)",
+    "name_en": "Minor Mosque",
+    "name_local": "Minor masjidi",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 41.3494,
+      "lon": 69.2861
+    },
+    "address_vi": "Bờ kênh Ankhor, thành phố Tashkent, Uzbekistan",
+    "presentation_short_vi": "Nhà thờ Hồi giáo Minor (Nhà thờ Trắng) được ốp đá cẩm thạch trắng tinh khôi, nằm bên bờ kênh Ankhor. Đây là một trong những thánh đường mới, đẹp và thanh thoát nhất Tashkent.",
+    "rating": null,
+    "tags": [
+      "mosque",
+      "modern"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "uz-tashkent-city-tv-tower",
+    "slug": "tv-tower",
+    "region": "uz-tashkent-city",
+    "region_name_vi": "Thành phố Tashkent",
+    "country": "uzbekistan",
+    "name_vi": "Tháp truyền hình Tashkent",
+    "name_en": "Tashkent TV Tower",
+    "name_local": "Toshkent teleminorasi",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 41.3456,
+      "lon": 69.2846
+    },
+    "address_vi": "Đại lộ Amir Temur, thành phố Tashkent, Uzbekistan",
+    "presentation_short_vi": "Tháp truyền hình Tashkent cao hơn 375 mét, là một trong những công trình cao nhất Trung Á. Trên tháp có đài quan sát và nhà hàng xoay ngắm toàn cảnh thành phố.",
+    "rating": null,
+    "tags": [
+      "landmark",
+      "viewpoint",
+      "modern"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "uz-tashkent-city-history-museum",
+    "slug": "history-museum",
+    "region": "uz-tashkent-city",
+    "region_name_vi": "Thành phố Tashkent",
+    "country": "uzbekistan",
+    "name_vi": "Bảo tàng Lịch sử Nhà nước Uzbekistan",
+    "name_en": "State Museum of History of Uzbekistan",
+    "name_local": "Oʻzbekiston tarixi davlat muzeyi",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 41.3053,
+      "lon": 69.2694
+    },
+    "address_vi": "Phố Sharof Rashidov, trung tâm thành phố Tashkent, Uzbekistan",
+    "presentation_short_vi": "Bảo tàng Lịch sử Nhà nước Uzbekistan là bảo tàng lâu đời và lớn nhất nước, trưng bày hiện vật trải dài từ thời cổ đại đến hiện đại. Điểm nhấn là các cổ vật Phật giáo, trong đó có tượng Phật Fayaz-Tepa nổi tiếng.",
+    "rating": null,
+    "tags": [
+      "museum",
+      "history",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  }
+]

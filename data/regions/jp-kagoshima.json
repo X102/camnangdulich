@@ -1,0 +1,314 @@
+[
+  {
+    "id": "jp-kagoshima-sakurajima",
+    "slug": "sakurajima",
+    "region": "jp-kagoshima",
+    "country": "japan",
+    "region_name_vi": "Kagoshima",
+    "name_vi": "Núi lửa Sakurajima",
+    "name_en": "Sakurajima",
+    "name_local": "桜島",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 31.5931,
+      "lon": 130.6572
+    },
+    "address_vi": "Vịnh Kinkō, thành phố Kagoshima, tỉnh Kagoshima",
+    "presentation_short_vi": "Núi lửa còn hoạt động là biểu tượng của Kagoshima, nằm giữa vịnh Kinkō và thường xuyên phun cột tro; du khách đi phà từ trung tâm thành phố để ngắm cảnh và ngâm onsen quanh đảo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=31.5931,130.6572",
+      "yandex": "https://yandex.com/maps/?pt=130.6572,31.5931&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "volcano",
+      "nature",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-kagoshima-sengan-en",
+    "slug": "sengan-en",
+    "region": "jp-kagoshima",
+    "country": "japan",
+    "region_name_vi": "Kagoshima",
+    "name_vi": "Vườn Sengan-en (Iso)",
+    "name_en": "Sengan-en (Iso Garden)",
+    "name_local": "仙巌園",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 31.6217,
+      "lon": 130.5883
+    },
+    "address_vi": "9700-1 Yoshinocho, thành phố Kagoshima, tỉnh Kagoshima",
+    "presentation_short_vi": "Khu vườn Nhật kiểu 'cảnh mượn' do gia tộc Shimazu xây năm 1658, lấy núi lửa Sakurajima và vịnh biển làm phông nền; trong khuôn viên còn dinh thự cổ và di tích công nghiệp thời Minh Trị được UNESCO công nhận.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=31.6217,130.5883",
+      "yandex": "https://yandex.com/maps/?pt=130.5883,31.6217&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "garden",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-kagoshima-yakushima",
+    "slug": "yakushima",
+    "region": "jp-kagoshima",
+    "country": "japan",
+    "region_name_vi": "Kagoshima",
+    "name_vi": "Đảo Yakushima (rừng tuyết tùng Jōmon Sugi)",
+    "name_en": "Yakushima",
+    "name_local": "屋久島",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 30.3583,
+      "lon": 130.5089
+    },
+    "address_vi": "Đảo Yakushima, huyện Kumage, tỉnh Kagoshima",
+    "presentation_short_vi": "Đảo Di sản Thiên nhiên Thế giới UNESCO nổi tiếng với rừng nguyên sinh phủ rêu và cây tuyết tùng cổ thụ Jōmon Sugi hàng nghìn năm tuổi; cảnh sắc nơi đây truyền cảm hứng cho phim 'Công chúa Mononoke'.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=30.3583,130.5089",
+      "yandex": "https://yandex.com/maps/?pt=130.5089,30.3583&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "unesco",
+      "nature",
+      "forest"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-kagoshima-shiratani-unsuikyo",
+    "slug": "shiratani-unsuikyo",
+    "region": "jp-kagoshima",
+    "country": "japan",
+    "region_name_vi": "Kagoshima",
+    "name_vi": "Hẻm núi Shiratani Unsuikyo",
+    "name_en": "Shiratani Unsuikyo",
+    "name_local": "白谷雲水峡",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 30.3606,
+      "lon": 130.5406
+    },
+    "address_vi": "Đảo Yakushima, huyện Kumage, tỉnh Kagoshima",
+    "presentation_short_vi": "Thung lũng rừng rêu ẩm ướt trên đảo Yakushima với suối trong vắt và các lối mòn leo núi; khu rừng 'Mononoke' chính là nguồn cảm hứng thị giác cho phim hoạt hình của Studio Ghibli.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=30.3606,130.5406",
+      "yandex": "https://yandex.com/maps/?pt=130.5406,30.3606&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-kagoshima-kirishima-jingu",
+    "slug": "kirishima-jingu",
+    "region": "jp-kagoshima",
+    "country": "japan",
+    "region_name_vi": "Kagoshima",
+    "name_vi": "Đền Kirishima (Kirishima Jingū)",
+    "name_en": "Kirishima Shrine",
+    "name_local": "霧島神宮",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 31.8589,
+      "lon": 130.8719
+    },
+    "address_vi": "2608-5 Kirishima Taguchi, thành phố Kirishima, tỉnh Kagoshima",
+    "presentation_short_vi": "Ngôi đền Thần đạo cổ nằm trên sườn dãy núi lửa Kirishima, thờ vị thần Ninigi trong thần thoại Nhật Bản; các điện thờ sơn son rực rỡ hiện nay được dựng lại năm 1715.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=31.8589,130.8719",
+      "yandex": "https://yandex.com/maps/?pt=130.8719,31.8589&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "shrine",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-kagoshima-ibusuki-onsen",
+    "slug": "ibusuki-onsen",
+    "region": "jp-kagoshima",
+    "country": "japan",
+    "region_name_vi": "Kagoshima",
+    "name_vi": "Suối khoáng cát Ibusuki",
+    "name_en": "Ibusuki Sand Bath Onsen",
+    "name_local": "指宿温泉（砂むし温泉）",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 31.2286,
+      "lon": 130.6497
+    },
+    "address_vi": "Thành phố Ibusuki, tỉnh Kagoshima",
+    "presentation_short_vi": "Khu suối nước nóng ven biển nổi tiếng với liệu pháp vùi mình trong cát nóng tự nhiên được hơi địa nhiệt làm ấm; là một trong những trải nghiệm onsen độc đáo bậc nhất Nhật Bản.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=31.2286,130.6497",
+      "yandex": "https://yandex.com/maps/?pt=130.6497,31.2286&z=16&l=map"
+    },
+    "tags": [
+      "onsen",
+      "nature",
+      "beach"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-kagoshima-tsurumaru-castle",
+    "slug": "tsurumaru-castle",
+    "region": "jp-kagoshima",
+    "country": "japan",
+    "region_name_vi": "Kagoshima",
+    "name_vi": "Thành Tsurumaru (Bảo tàng Reimeikan)",
+    "name_en": "Kagoshima (Tsurumaru) Castle",
+    "name_local": "鹿児島城（鶴丸城）",
+    "categories": [
+      "palace",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 31.6017,
+      "lon": 130.5561
+    },
+    "address_vi": "7-2 Shiroyamacho, thành phố Kagoshima, tỉnh Kagoshima",
+    "presentation_short_vi": "Nền thành cũ của gia tộc Shimazu với hào nước, cổng đá và tường thành được phục dựng; trong khuôn viên là Bảo tàng Lịch sử Reimeikan giới thiệu văn hóa tỉnh Kagoshima.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=31.6017,130.5561",
+      "yandex": "https://yandex.com/maps/?pt=130.5561,31.6017&z=16&l=map"
+    },
+    "tags": [
+      "castle",
+      "historic",
+      "museum"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-kagoshima-cape-sata",
+    "slug": "cape-sata",
+    "region": "jp-kagoshima",
+    "country": "japan",
+    "region_name_vi": "Kagoshima",
+    "name_vi": "Mũi Sata (cực Nam Kyushu)",
+    "name_en": "Cape Sata",
+    "name_local": "佐多岬",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 30.9958,
+      "lon": 130.6597
+    },
+    "address_vi": "Minamiōsumi, huyện Kimotsuki, tỉnh Kagoshima",
+    "presentation_short_vi": "Mũi đất cực nam của đảo chính Kyushu với ngọn hải đăng trắng và đài quan sát nhìn ra biển; xung quanh là thảm thực vật cận nhiệt đới xanh mướt quanh năm.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=30.9958,130.6597",
+      "yandex": "https://yandex.com/maps/?pt=130.6597,30.9958&z=16&l=map"
+    },
+    "tags": [
+      "cape",
+      "viewpoint",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-kagoshima-chiran-peace-museum",
+    "slug": "chiran-peace-museum",
+    "region": "jp-kagoshima",
+    "country": "japan",
+    "region_name_vi": "Kagoshima",
+    "name_vi": "Bảo tàng Hòa bình Chiran",
+    "name_en": "Chiran Peace Museum for Kamikaze Pilots",
+    "name_local": "知覧特攻平和会館",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 31.363,
+      "lon": 130.4392
+    },
+    "address_vi": "17881 Chirancho Kori, thành phố Minamikyushu, tỉnh Kagoshima",
+    "presentation_short_vi": "Bảo tàng tưởng niệm các phi công cảm tử 'kamikaze' thời Thế chiến II, trưng bày thư từ, di vật và máy bay nhằm truyền tải thông điệp hòa bình.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=31.363,130.4392",
+      "yandex": "https://yandex.com/maps/?pt=130.4392,31.363&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-kagoshima-chiran-samurai-gardens",
+    "slug": "chiran-samurai-gardens",
+    "region": "jp-kagoshima",
+    "country": "japan",
+    "region_name_vi": "Kagoshima",
+    "name_vi": "Phố võ sĩ và vườn Chiran",
+    "name_en": "Chiran Samurai Residence Gardens",
+    "name_local": "知覧武家屋敷庭園",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 31.3707,
+      "lon": 130.4383
+    },
+    "address_vi": "Chirancho Kori, thành phố Minamikyushu, tỉnh Kagoshima",
+    "presentation_short_vi": "Dãy nhà võ sĩ (samurai) được bảo tồn từ thời Edo với những khu vườn Nhật thu nhỏ tinh tế bên các bức tường đá và hàng rào cắt tỉa; được ví như 'Tiểu Kyoto' của vùng Satsuma.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=31.3707,130.4383",
+      "yandex": "https://yandex.com/maps/?pt=130.4383,31.3707&z=16&l=map"
+    },
+    "tags": [
+      "historic",
+      "garden",
+      "street"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

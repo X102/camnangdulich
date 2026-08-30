@@ -1,0 +1,312 @@
+[
+  {
+    "id": "th-nan-wat-phumin",
+    "slug": "wat-phumin",
+    "region": "th-nan",
+    "country": "thailand",
+    "region_name_vi": "Nan",
+    "name_vi": "Chùa Phumin (Wat Phumin)",
+    "name_en": "Wat Phumin",
+    "name_local": "วัดภูมินทร์",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 18.7746,
+      "lon": 100.7716
+    },
+    "address_vi": "TP. Nan, tỉnh Nan",
+    "rating": null,
+    "presentation_short_vi": "Ngôi chùa biểu tượng của Nan với chánh điện hình chữ thập độc đáo, nổi tiếng nhờ bức bích họa 'Lời thì thầm của tình yêu' (Pu Man Ya Man) vẽ từ thế kỷ 19.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.7716,18.7746&z=17&pt=100.7716,18.7746",
+      "google": "https://www.google.com/maps/search/?api=1&query=18.7746,100.7716"
+    },
+    "tags": [
+      "temple",
+      "mural",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-nan-wat-phra-that-chae-haeng",
+    "slug": "wat-phra-that-chae-haeng",
+    "region": "th-nan",
+    "country": "thailand",
+    "region_name_vi": "Nan",
+    "name_vi": "Chùa Phra That Chae Haeng",
+    "name_en": "Wat Phra That Chae Haeng",
+    "name_local": "วัดพระธาตุแช่แห้ง",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 18.7607,
+      "lon": 100.7936
+    },
+    "address_vi": "Huyện Phu Phiang, tỉnh Nan",
+    "rating": null,
+    "presentation_short_vi": "Bảo tháp vàng linh thiêng bậc nhất tỉnh Nan tọa lạc trên đồi bên kia sông Nan, là điểm hành hương gắn với năm tuổi con Thỏ.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.7936,18.7607&z=17&pt=100.7936,18.7607",
+      "google": "https://www.google.com/maps/search/?api=1&query=18.7607,100.7936"
+    },
+    "tags": [
+      "temple",
+      "chedi",
+      "hilltop"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-nan-wat-phra-that-khao-noi",
+    "slug": "wat-phra-that-khao-noi",
+    "region": "th-nan",
+    "country": "thailand",
+    "region_name_vi": "Nan",
+    "name_vi": "Chùa Phra That Khao Noi",
+    "name_en": "Wat Phra That Khao Noi",
+    "name_local": "วัดพระธาตุเขาน้อย",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 18.7826,
+      "lon": 100.7514
+    },
+    "address_vi": "TP. Nan, tỉnh Nan",
+    "rating": null,
+    "presentation_short_vi": "Chùa trên đỉnh đồi phía tây thành phố với tượng Phật đứng lớn, nơi ngắm toàn cảnh thung lũng Nan tuyệt đẹp lúc hoàng hôn.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.7514,18.7826&z=17&pt=100.7514,18.7826",
+      "google": "https://www.google.com/maps/search/?api=1&query=18.7826,100.7514"
+    },
+    "tags": [
+      "temple",
+      "viewpoint",
+      "buddha"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-nan-nan-national-museum",
+    "slug": "nan-national-museum",
+    "region": "th-nan",
+    "country": "thailand",
+    "region_name_vi": "Nan",
+    "name_vi": "Bảo tàng Quốc gia Nan",
+    "name_en": "Nan National Museum",
+    "name_local": "พิพิธภัณฑสถานแห่งชาติน่าน",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 18.7792,
+      "lon": 100.7701
+    },
+    "address_vi": "TP. Nan, tỉnh Nan",
+    "rating": null,
+    "presentation_short_vi": "Bảo tàng đặt trong cung điện cũ của các lãnh chúa Nan, trưng bày cặp ngà voi đen quý hiếm cùng lịch sử và văn hóa vương quốc Nan.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.7701,18.7792&z=17&pt=100.7701,18.7792",
+      "google": "https://www.google.com/maps/search/?api=1&query=18.7792,100.7701"
+    },
+    "tags": [
+      "museum",
+      "history",
+      "palace"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-nan-wat-phra-that-chang-kham",
+    "slug": "wat-phra-that-chang-kham",
+    "region": "th-nan",
+    "country": "thailand",
+    "region_name_vi": "Nan",
+    "name_vi": "Chùa Phra That Chang Kham",
+    "name_en": "Wat Phra That Chang Kham",
+    "name_local": "วัดพระธาตุช้างค้ำวรวิหาร",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 18.7799,
+      "lon": 100.7713
+    },
+    "address_vi": "TP. Nan, tỉnh Nan",
+    "rating": null,
+    "presentation_short_vi": "Ngôi chùa cổ đối diện bảo tàng, nổi bật với bảo tháp vàng có hàng tượng voi đỡ quanh chân và tượng Phật đi bằng đồng thời Sukhothai.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.7713,18.7799&z=17&pt=100.7713,18.7799",
+      "google": "https://www.google.com/maps/search/?api=1&query=18.7799,100.7713"
+    },
+    "tags": [
+      "temple",
+      "chedi",
+      "elephant"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-nan-wat-ming-muang",
+    "slug": "wat-ming-muang",
+    "region": "th-nan",
+    "country": "thailand",
+    "region_name_vi": "Nan",
+    "name_vi": "Chùa Ming Muang",
+    "name_en": "Wat Ming Muang",
+    "name_local": "วัดมิ่งเมือง",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 18.7757,
+      "lon": 100.769
+    },
+    "address_vi": "TP. Nan, tỉnh Nan",
+    "rating": null,
+    "presentation_short_vi": "Ngôi chùa nổi bật với chánh điện đắp vữa trắng tinh xảo, đồng thời là nơi đặt cột trụ thành phố (lak mueang) của Nan.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.769,18.7757&z=17&pt=100.769,18.7757",
+      "google": "https://www.google.com/maps/search/?api=1&query=18.7757,100.769"
+    },
+    "tags": [
+      "temple",
+      "white",
+      "city_pillar"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-nan-doi-phu-kha-national-park",
+    "slug": "doi-phu-kha-national-park",
+    "region": "th-nan",
+    "country": "thailand",
+    "region_name_vi": "Nan",
+    "name_vi": "Vườn quốc gia Doi Phu Kha",
+    "name_en": "Doi Phu Kha National Park",
+    "name_local": "อุทยานแห่งชาติดอยภูคา",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 19.2006,
+      "lon": 101.0681
+    },
+    "address_vi": "Huyện Bo Kluea / Pua, tỉnh Nan",
+    "rating": null,
+    "presentation_short_vi": "Vườn quốc gia núi cao với biển mây, đường đèo ngoạn mục và cây chompoo phu kha quý hiếm nở hoa hồng vào mùa xuân.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=101.0681,19.2006&z=17&pt=101.0681,19.2006",
+      "google": "https://www.google.com/maps/search/?api=1&query=19.2006,101.0681"
+    },
+    "tags": [
+      "national_park",
+      "mountain",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-nan-sao-din-na-noi",
+    "slug": "sao-din-na-noi",
+    "region": "th-nan",
+    "country": "thailand",
+    "region_name_vi": "Nan",
+    "name_vi": "Hẻm núi Sao Din Na Noi",
+    "name_en": "Sao Din Na Noi",
+    "name_local": "เสาดินนาน้อย",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 18.336,
+      "lon": 100.717
+    },
+    "address_vi": "Huyện Na Noi, tỉnh Nan",
+    "rating": null,
+    "presentation_short_vi": "Quần thể cột đất và vách xói mòn kỳ vĩ được ví như 'Grand Canyon của Nan', hình thành qua hàng nghìn năm phong hóa.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.717,18.336&z=17&pt=100.717,18.336",
+      "google": "https://www.google.com/maps/search/?api=1&query=18.336,100.717"
+    },
+    "tags": [
+      "canyon",
+      "geology",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-nan-doi-samer-dao",
+    "slug": "doi-samer-dao",
+    "region": "th-nan",
+    "country": "thailand",
+    "region_name_vi": "Nan",
+    "name_vi": "Đồi Doi Samer Dao",
+    "name_en": "Doi Samer Dao",
+    "name_local": "ดอยเสมอดาว",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 18.243,
+      "lon": 100.775
+    },
+    "address_vi": "Vườn QG Sri Nan, huyện Na Noi, tỉnh Nan",
+    "rating": null,
+    "presentation_short_vi": "Điểm cắm trại và ngắm sao nổi tiếng trong Vườn quốc gia Sri Nan, sáng sớm phủ biển mây bên khúc uốn sông Nan.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.775,18.243&z=17&pt=100.775,18.243",
+      "google": "https://www.google.com/maps/search/?api=1&query=18.243,100.775"
+    },
+    "tags": [
+      "viewpoint",
+      "camping",
+      "stargazing"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-nan-bo-kluea-salt-wells",
+    "slug": "bo-kluea-salt-wells",
+    "region": "th-nan",
+    "country": "thailand",
+    "region_name_vi": "Nan",
+    "name_vi": "Giếng muối Bo Kluea",
+    "name_en": "Bo Kluea Salt Wells",
+    "name_local": "บ่อเกลือ",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 19.076,
+      "lon": 101.14
+    },
+    "address_vi": "Huyện Bo Kluea, tỉnh Nan",
+    "rating": null,
+    "presentation_short_vi": "Làng nghề nấu muối từ giếng nước mặn trên núi có lịch sử hàng trăm năm, một trong số ít nơi làm muối núi ở Thái Lan.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=101.14,19.076&z=17&pt=101.14,19.076",
+      "google": "https://www.google.com/maps/search/?api=1&query=19.076,101.14"
+    },
+    "tags": [
+      "salt_well",
+      "culture",
+      "village"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

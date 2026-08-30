@@ -1,0 +1,321 @@
+[
+  {
+    "id": "jp-kyoto-kinkaku-ji",
+    "slug": "kinkaku-ji",
+    "region": "jp-kyoto",
+    "country": "japan",
+    "region_name_vi": "Kyoto",
+    "name_vi": "Chùa Vàng (Kinkaku-ji)",
+    "name_en": "Kinkaku-ji (Golden Pavilion)",
+    "name_local": "金閣寺（鹿苑寺）",
+    "categories": [
+      "church",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.0394,
+      "lon": 135.7292
+    },
+    "address_vi": "1 Kinkakujicho, Quận Kita, Kyoto",
+    "presentation_short_vi": "Chùa Gác Vàng với hai tầng trên dát vàng lá phản chiếu xuống mặt hồ tĩnh lặng, một trong những biểu tượng đẹp nhất của Kyoto và là Di sản Thế giới UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.0394,135.7292",
+      "yandex": "https://yandex.com/maps/?pt=135.7292,35.0394&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "unesco",
+      "temple",
+      "garden"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "jp-kyoto-fushimi-inari",
+    "slug": "fushimi-inari",
+    "region": "jp-kyoto",
+    "country": "japan",
+    "region_name_vi": "Kyoto",
+    "name_vi": "Đền Fushimi Inari",
+    "name_en": "Fushimi Inari Taisha",
+    "name_local": "伏見稲荷大社",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 34.9671,
+      "lon": 135.7727
+    },
+    "address_vi": "68 Fukakusa Yabunouchicho, Quận Fushimi, Kyoto",
+    "presentation_short_vi": "Đền Thần đạo thờ thần Inari, nổi tiếng với hàng nghìn cổng torii đỏ nối tiếp nhau uốn lượn lên sườn núi Inari.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.9671,135.7727",
+      "yandex": "https://yandex.com/maps/?pt=135.7727,34.9671&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "shrine",
+      "torii",
+      "outdoor"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "jp-kyoto-kiyomizu-dera",
+    "slug": "kiyomizu-dera",
+    "region": "jp-kyoto",
+    "country": "japan",
+    "region_name_vi": "Kyoto",
+    "name_vi": "Chùa Kiyomizu-dera",
+    "name_en": "Kiyomizu-dera",
+    "name_local": "清水寺",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 34.9949,
+      "lon": 135.785
+    },
+    "address_vi": "1-294 Kiyomizu, Quận Higashiyama, Kyoto",
+    "presentation_short_vi": "Ngôi chùa cổ trên sườn đồi với sân gỗ nhô ra không dùng một chiếc đinh, nhìn xuống Kyoto giữa rừng phong; là Di sản Thế giới UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.9949,135.785",
+      "yandex": "https://yandex.com/maps/?pt=135.785,34.9949&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "unesco",
+      "temple",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "jp-kyoto-arashiyama-bamboo",
+    "slug": "arashiyama-bamboo",
+    "region": "jp-kyoto",
+    "country": "japan",
+    "region_name_vi": "Kyoto",
+    "name_vi": "Rừng tre Arashiyama",
+    "name_en": "Arashiyama Bamboo Grove",
+    "name_local": "嵐山 竹林の小径",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.017,
+      "lon": 135.6716
+    },
+    "address_vi": "Ukyo Ward, Arashiyama, Kyoto",
+    "presentation_short_vi": "Con đường xuyên qua rừng tre xanh cao vút ở vùng Arashiyama, một trong những khung cảnh mang tính biểu tượng nhất Nhật Bản.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.017,135.6716",
+      "yandex": "https://yandex.com/maps/?pt=135.6716,35.017&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "nature",
+      "outdoor",
+      "photo"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "jp-kyoto-ginkaku-ji",
+    "slug": "ginkaku-ji",
+    "region": "jp-kyoto",
+    "country": "japan",
+    "region_name_vi": "Kyoto",
+    "name_vi": "Chùa Bạc (Ginkaku-ji)",
+    "name_en": "Ginkaku-ji (Silver Pavilion)",
+    "name_local": "銀閣寺（慈照寺）",
+    "categories": [
+      "church",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.027,
+      "lon": 135.7982
+    },
+    "address_vi": "2 Ginkakujicho, Quận Sakyo, Kyoto",
+    "presentation_short_vi": "Chùa Gác Bạc thanh nhã với vườn cát khô và vườn rêu tinh tế, tiêu biểu cho mỹ học wabi-sabi; Di sản Thế giới UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.027,135.7982",
+      "yandex": "https://yandex.com/maps/?pt=135.7982,35.027&z=16&l=map"
+    },
+    "tags": [
+      "unesco",
+      "temple",
+      "garden"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "jp-kyoto-nijo-castle",
+    "slug": "nijo-castle",
+    "region": "jp-kyoto",
+    "country": "japan",
+    "region_name_vi": "Kyoto",
+    "name_vi": "Lâu đài Nijō",
+    "name_en": "Nijō Castle",
+    "name_local": "二条城",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 35.0142,
+      "lon": 135.7481
+    },
+    "address_vi": "541 Nijojocho, Quận Nakagyo, Kyoto",
+    "presentation_short_vi": "Lâu đài của các Tướng quân Tokugawa, nổi tiếng với sàn gỗ chim sơn ca biết kêu khi có người bước và các bức bình phong dát vàng; Di sản Thế giới UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.0142,135.7481",
+      "yandex": "https://yandex.com/maps/?pt=135.7481,35.0142&z=16&l=map"
+    },
+    "tags": [
+      "unesco",
+      "castle",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "jp-kyoto-ryoan-ji",
+    "slug": "ryoan-ji",
+    "region": "jp-kyoto",
+    "country": "japan",
+    "region_name_vi": "Kyoto",
+    "name_vi": "Chùa Ryōan-ji",
+    "name_en": "Ryōan-ji",
+    "name_local": "龍安寺",
+    "categories": [
+      "church",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.0345,
+      "lon": 135.7183
+    },
+    "address_vi": "13 Ryoanji Goryonoshitacho, Quận Ukyo, Kyoto",
+    "presentation_short_vi": "Ngôi chùa Thiền tông với khu vườn đá khô trứ danh gồm 15 tảng đá xếp trên nền sỏi trắng; Di sản Thế giới UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.0345,135.7183",
+      "yandex": "https://yandex.com/maps/?pt=135.7183,35.0345&z=16&l=map"
+    },
+    "tags": [
+      "unesco",
+      "temple",
+      "zen",
+      "garden"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "jp-kyoto-sanjusangen-do",
+    "slug": "sanjusangen-do",
+    "region": "jp-kyoto",
+    "country": "japan",
+    "region_name_vi": "Kyoto",
+    "name_vi": "Chùa Sanjūsangen-dō",
+    "name_en": "Sanjūsangen-dō",
+    "name_local": "三十三間堂",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 34.9879,
+      "lon": 135.7717
+    },
+    "address_vi": "657 Sanjusangendomawari, Quận Higashiyama, Kyoto",
+    "presentation_short_vi": "Chính điện gỗ dài nhất Nhật Bản khoảng 120 m, lưu giữ 1.001 pho tượng Quan Âm nghìn tay mạ vàng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.9879,135.7717",
+      "yandex": "https://yandex.com/maps/?pt=135.7717,34.9879&z=16&l=map"
+    },
+    "tags": [
+      "temple",
+      "historic",
+      "indoor"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "jp-kyoto-kyoto-imperial-palace",
+    "slug": "kyoto-imperial-palace",
+    "region": "jp-kyoto",
+    "country": "japan",
+    "region_name_vi": "Kyoto",
+    "name_vi": "Cố cung Kyoto",
+    "name_en": "Kyoto Imperial Palace",
+    "name_local": "京都御所",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 35.0254,
+      "lon": 135.7622
+    },
+    "address_vi": "3 Kyotogyoen, Quận Kamigyo, Kyoto",
+    "presentation_short_vi": "Cố cung của Thiên hoàng Nhật trước khi dời đô về Tokyo, với các cung điện truyền thống và khu vườn rộng thanh tịnh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.0254,135.7622",
+      "yandex": "https://yandex.com/maps/?pt=135.7622,35.0254&z=16&l=map"
+    },
+    "tags": [
+      "historic",
+      "garden",
+      "free"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "jp-kyoto-gion",
+    "slug": "gion",
+    "region": "jp-kyoto",
+    "country": "japan",
+    "region_name_vi": "Kyoto",
+    "name_vi": "Khu phố cổ Gion",
+    "name_en": "Gion District",
+    "name_local": "祇園",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 35.0037,
+      "lon": 135.7752
+    },
+    "address_vi": "Gion, Quận Higashiyama, Kyoto",
+    "presentation_short_vi": "Khu phố geisha nổi tiếng nhất Kyoto với những con đường lát đá, nhà gỗ machiya và các trà thất truyền thống.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.0037,135.7752",
+      "yandex": "https://yandex.com/maps/?pt=135.7752,35.0037&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "geisha",
+      "historic",
+      "night"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  }
+]

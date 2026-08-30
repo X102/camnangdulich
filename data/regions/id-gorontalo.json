@@ -1,0 +1,222 @@
+[
+  {
+    "id": "id-gorontalo-olele-marine-park",
+    "slug": "olele-marine-park",
+    "region": "id-gorontalo",
+    "country": "indonesia",
+    "region_name_vi": "Gorontalo",
+    "name_vi": "Công viên biển Olele",
+    "name_en": "Olele Marine Park",
+    "name_local": "Taman Laut Olele",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 0.485,
+      "lon": 123.281
+    },
+    "address_vi": "Làng Olele, huyện Kabila Bone, Bone Bolango, Gorontalo, Indonesia",
+    "presentation_short_vi": "Công viên biển Olele bên vịnh Tomini nổi tiếng với rạn san hô đa sắc, đặc biệt là san hô 'Salvador Dali' độc đáo, là điểm lặn biển và lặn ống thở hàng đầu của Gorontalo.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=123.281,0.485&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=0.485,123.281"
+    },
+    "tags": [
+      "marine",
+      "diving",
+      "snorkeling",
+      "coral"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-gorontalo-otanaha-fortress",
+    "slug": "otanaha-fortress",
+    "region": "id-gorontalo",
+    "country": "indonesia",
+    "region_name_vi": "Gorontalo",
+    "name_vi": "Pháo đài Otanaha",
+    "name_en": "Otanaha Fortress",
+    "name_local": "Benteng Otanaha",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 0.565,
+      "lon": 122.984
+    },
+    "address_vi": "Làng Dembe I, thành phố Gorontalo, Gorontalo, Indonesia",
+    "presentation_short_vi": "Pháo đài Otanaha do vua Ilato cùng thủy thủ Bồ Đào Nha xây năm 1522 từ hỗn hợp cát, vôi và trứng chim maleo, nằm trên đồi với 348 bậc thang nhìn ra hồ Limboto.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=122.984,0.565&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=0.565,122.984"
+    },
+    "tags": [
+      "heritage",
+      "history",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-gorontalo-lake-limboto",
+    "slug": "lake-limboto",
+    "region": "id-gorontalo",
+    "country": "indonesia",
+    "region_name_vi": "Gorontalo",
+    "name_vi": "Hồ Limboto",
+    "name_en": "Lake Limboto",
+    "name_local": "Danau Limboto",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 0.545,
+      "lon": 122.945
+    },
+    "address_vi": "Huyện Gorontalo và thành phố Gorontalo, Gorontalo, Indonesia",
+    "presentation_short_vi": "Hồ Limboto là hồ nước ngọt lớn nằm giữa lòng chảo Gorontalo, gắn với truyền thuyết địa phương và là nơi lý tưởng ngắm hoàng hôn, câu cá và quan sát chim nước.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=122.945,0.545&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=0.545,122.945"
+    },
+    "tags": [
+      "lake",
+      "nature",
+      "sunset"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-gorontalo-saronde-island",
+    "slug": "saronde-island",
+    "region": "id-gorontalo",
+    "country": "indonesia",
+    "region_name_vi": "Gorontalo",
+    "name_vi": "Đảo Saronde",
+    "name_en": "Saronde Island",
+    "name_local": "Pulau Saronde",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 0.876,
+      "lon": 122.876
+    },
+    "address_vi": "Kwandang, huyện Bắc Gorontalo, Gorontalo, Indonesia",
+    "presentation_short_vi": "Đảo Saronde ngoài khơi bờ biển phía bắc Gorontalo có bãi cát trắng mịn, làn nước trong xanh và rạn san hô, là điểm nghỉ dưỡng và lặn ống thở nổi tiếng.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=122.876,0.876&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=0.876,122.876"
+    },
+    "tags": [
+      "island",
+      "beach",
+      "snorkeling"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-gorontalo-botubarani-whale-shark",
+    "slug": "botubarani-whale-shark",
+    "region": "id-gorontalo",
+    "country": "indonesia",
+    "region_name_vi": "Gorontalo",
+    "name_vi": "Điểm ngắm cá nhám voi Botubarani",
+    "name_en": "Botubarani Whale Shark Site",
+    "name_local": "Wisata Hiu Paus Botubarani",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 0.47,
+      "lon": 123.11
+    },
+    "address_vi": "Làng Botubarani, huyện Kabila Bone, Bone Bolango, Gorontalo, Indonesia",
+    "presentation_short_vi": "Bờ biển Botubarani bên vịnh Tomini là nơi cá nhám voi khổng lồ thường xuyên xuất hiện gần bờ, cho du khách cơ hội bơi và ngắm loài cá lớn nhất đại dương.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=123.11,0.47&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=0.47,123.11"
+    },
+    "tags": [
+      "marine",
+      "wildlife",
+      "whale-shark",
+      "snorkeling"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-gorontalo-pulo-cinta",
+    "slug": "pulo-cinta",
+    "region": "id-gorontalo",
+    "country": "indonesia",
+    "region_name_vi": "Gorontalo",
+    "name_vi": "Đảo Pulo Cinta",
+    "name_en": "Pulo Cinta",
+    "name_local": "Pulo Cinta",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 0.452,
+      "lon": 122.303
+    },
+    "address_vi": "Vịnh Tomini, huyện Boalemo, Gorontalo, Indonesia",
+    "presentation_short_vi": "Pulo Cinta là khu nghỉ dưỡng sinh thái với các bungalow nổi hình trái tim giữa vịnh Tomini, được ví như 'Maldives của Indonesia' nhờ nước biển trong vắt và rạn san hô.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=122.303,0.452&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=0.452,122.303"
+    },
+    "tags": [
+      "island",
+      "resort",
+      "beach",
+      "romantic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-gorontalo-pentadio-hot-springs",
+    "slug": "pentadio-hot-springs",
+    "region": "id-gorontalo",
+    "country": "indonesia",
+    "region_name_vi": "Gorontalo",
+    "name_vi": "Suối nước nóng Pentadio",
+    "name_en": "Pentadio Hot Springs",
+    "name_local": "Pemandian Air Panas Pentadio",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 0.585,
+      "lon": 122.93
+    },
+    "address_vi": "Telaga Biru, huyện Gorontalo, Gorontalo, Indonesia",
+    "presentation_short_vi": "Khu suối nước nóng Pentadio bên hồ Limboto có các bể tắm khoáng nóng tự nhiên và cảnh quan thư giãn, là điểm nghỉ dưỡng quen thuộc của người dân Gorontalo.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=122.93,0.585&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=0.585,122.93"
+    },
+    "tags": [
+      "hot-spring",
+      "nature",
+      "relaxation"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

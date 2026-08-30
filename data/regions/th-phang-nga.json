@@ -1,0 +1,312 @@
+[
+  {
+    "id": "th-phang-nga-ao-phang-nga",
+    "slug": "ao-phang-nga",
+    "region": "th-phang-nga",
+    "country": "thailand",
+    "region_name_vi": "Phang Nga",
+    "name_vi": "Vịnh Phang Nga",
+    "name_en": "Ao Phang Nga (Phang Nga Bay)",
+    "name_local": "อ่าวพังงา",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 8.3,
+      "lon": 98.5
+    },
+    "address_vi": "Vườn quốc gia Ao Phang Nga, tỉnh Phang Nga",
+    "rating": null,
+    "presentation_short_vi": "Vịnh biển kỳ vĩ với hàng trăm núi đá vôi dựng đứng nhô lên từ mặt nước ngọc bích, hang động và rừng ngập mặn. Là điểm chèo kayak và đi tàu khám phá nổi tiếng bậc nhất miền nam Thái Lan.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=98.5,8.3&z=17&pt=98.5,8.3",
+      "google": "https://www.google.com/maps/search/?api=1&query=8.3,98.5"
+    },
+    "tags": [
+      "bay",
+      "limestone",
+      "national_park"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-phang-nga-james-bond-island",
+    "slug": "james-bond-island",
+    "region": "th-phang-nga",
+    "country": "thailand",
+    "region_name_vi": "Phang Nga",
+    "name_vi": "Đảo James Bond (Ko Tapu)",
+    "name_en": "James Bond Island (Ko Tapu)",
+    "name_local": "เขาตะปู (เกาะเจมส์บอนด์)",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 8.2745,
+      "lon": 98.4998
+    },
+    "address_vi": "Vịnh Phang Nga, huyện Mueang Phang Nga, tỉnh Phang Nga",
+    "rating": null,
+    "presentation_short_vi": "Hòn đảo đá vôi hình chiếc đinh nổi tiếng sau khi xuất hiện trong phim James Bond \"The Man with the Golden Gun\" (1974). Cùng vách núi Khao Phing Kan, đây là biểu tượng du lịch của vịnh Phang Nga.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=98.4998,8.2745&z=17&pt=98.4998,8.2745",
+      "google": "https://www.google.com/maps/search/?api=1&query=8.2745,98.4998"
+    },
+    "tags": [
+      "island",
+      "limestone",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-phang-nga-ko-panyi",
+    "slug": "ko-panyi",
+    "region": "th-phang-nga",
+    "country": "thailand",
+    "region_name_vi": "Phang Nga",
+    "name_vi": "Làng nổi Ko Panyi",
+    "name_en": "Ko Panyi Floating Village",
+    "name_local": "เกาะปันหยี",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 8.3356,
+      "lon": 98.5031
+    },
+    "address_vi": "Vịnh Phang Nga, huyện Mueang Phang Nga, tỉnh Phang Nga",
+    "rating": null,
+    "presentation_short_vi": "Ngôi làng chài Hồi giáo dựng trên nhà sàn giữa vịnh, tựa lưng vào vách núi đá vôi, có cả sân bóng đá nổi độc đáo. Du khách thường ghé ăn hải sản và tìm hiểu đời sống ngư dân.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=98.5031,8.3356&z=17&pt=98.5031,8.3356",
+      "google": "https://www.google.com/maps/search/?api=1&query=8.3356,98.5031"
+    },
+    "tags": [
+      "village",
+      "stilt_houses",
+      "culture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-phang-nga-similan-islands",
+    "slug": "similan-islands",
+    "region": "th-phang-nga",
+    "country": "thailand",
+    "region_name_vi": "Phang Nga",
+    "name_vi": "Quần đảo Similan",
+    "name_en": "Similan Islands",
+    "name_local": "หมู่เกาะสิมิลัน",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 8.6525,
+      "lon": 97.6408
+    },
+    "address_vi": "Vườn quốc gia Mu Ko Similan, huyện Khura Buri, tỉnh Phang Nga",
+    "rating": null,
+    "presentation_short_vi": "Quần đảo trên biển Andaman nổi tiếng thế giới với nước biển trong vắt, bãi cát trắng mịn và rạn san hô rực rỡ. Là thiên đường lặn biển, thường chỉ mở cửa từ khoảng tháng 10 đến tháng 5.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=97.6408,8.6525&z=17&pt=97.6408,8.6525",
+      "google": "https://www.google.com/maps/search/?api=1&query=8.6525,97.6408"
+    },
+    "tags": [
+      "islands",
+      "diving",
+      "national_park"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-phang-nga-surin-islands",
+    "slug": "surin-islands",
+    "region": "th-phang-nga",
+    "country": "thailand",
+    "region_name_vi": "Phang Nga",
+    "name_vi": "Quần đảo Surin",
+    "name_en": "Surin Islands (Mu Ko Surin)",
+    "name_local": "หมู่เกาะสุรินทร์",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 9.4167,
+      "lon": 97.8667
+    },
+    "address_vi": "Vườn quốc gia Mu Ko Surin, huyện Khura Buri, tỉnh Phang Nga",
+    "rating": null,
+    "presentation_short_vi": "Quần đảo gần biên giới Myanmar với rạn san hô nông tuyệt đẹp lý tưởng cho lặn ống thở, là nơi sinh sống của cộng đồng người biển Moken. Vùng biển hoang sơ, ít phát triển hơn Similan.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=97.8667,9.4167&z=17&pt=97.8667,9.4167",
+      "google": "https://www.google.com/maps/search/?api=1&query=9.4167,97.8667"
+    },
+    "tags": [
+      "islands",
+      "snorkeling",
+      "national_park"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-phang-nga-khao-lak",
+    "slug": "khao-lak",
+    "region": "th-phang-nga",
+    "country": "thailand",
+    "region_name_vi": "Phang Nga",
+    "name_vi": "Khao Lak (Bãi Nang Thong)",
+    "name_en": "Khao Lak",
+    "name_local": "เขาหลัก",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 8.638,
+      "lon": 98.245
+    },
+    "address_vi": "Huyện Takua Pa, tỉnh Phang Nga",
+    "rating": null,
+    "presentation_short_vi": "Dải bờ biển dài yên bình với bãi cát thoải, resort và rừng ven biển, là cửa ngõ ra quần đảo Similan và Surin. Không khí thư giãn, ít ồn ào hơn Phuket.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=98.245,8.638&z=17&pt=98.245,8.638",
+      "google": "https://www.google.com/maps/search/?api=1&query=8.638,98.245"
+    },
+    "tags": [
+      "beach",
+      "resort",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-phang-nga-wat-suwan-khuha",
+    "slug": "wat-suwan-khuha",
+    "region": "th-phang-nga",
+    "country": "thailand",
+    "region_name_vi": "Phang Nga",
+    "name_vi": "Chùa hang Suwan Khuha",
+    "name_en": "Wat Suwan Khuha (Cave Temple)",
+    "name_local": "วัดสุวรรณคูหา",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 8.437,
+      "lon": 98.4703
+    },
+    "address_vi": "Huyện Takua Thung, tỉnh Phang Nga",
+    "rating": null,
+    "presentation_short_vi": "Ngôi chùa nằm trong hang động đá vôi, thờ tượng Phật nằm lớn cùng nhiều tượng Phật giữa lòng hang. Bên ngoài có đàn khỉ sinh sống nên còn gọi là \"chùa Khỉ\".",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=98.4703,8.437&z=17&pt=98.4703,8.437",
+      "google": "https://www.google.com/maps/search/?api=1&query=8.437,98.4703"
+    },
+    "tags": [
+      "temple",
+      "cave",
+      "reclining_buddha"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-phang-nga-sarasin-bridge",
+    "slug": "sarasin-bridge",
+    "region": "th-phang-nga",
+    "country": "thailand",
+    "region_name_vi": "Phang Nga",
+    "name_vi": "Cầu Sarasin",
+    "name_en": "Sarasin Bridge",
+    "name_local": "สะพานสารสิน",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 8.2047,
+      "lon": 98.2997
+    },
+    "address_vi": "Huyện Takua Thung, nối tỉnh Phang Nga với đảo Phuket",
+    "rating": null,
+    "presentation_short_vi": "Cây cầu nối đảo Phuket với đất liền tỉnh Phang Nga, là điểm ngắm hoàng hôn và câu cá quen thuộc của người địa phương. Cầu cũ nay dành cho tản bộ, gắn với một câu chuyện tình nổi tiếng.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=98.2997,8.2047&z=17&pt=98.2997,8.2047",
+      "google": "https://www.google.com/maps/search/?api=1&query=8.2047,98.2997"
+    },
+    "tags": [
+      "bridge",
+      "sunset",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-phang-nga-samet-nangshe-viewpoint",
+    "slug": "samet-nangshe-viewpoint",
+    "region": "th-phang-nga",
+    "country": "thailand",
+    "region_name_vi": "Phang Nga",
+    "name_vi": "Điểm ngắm cảnh Samet Nangshe",
+    "name_en": "Samet Nangshe Viewpoint",
+    "name_local": "จุดชมวิวเสม็ดนางชี",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 8.372,
+      "lon": 98.533
+    },
+    "address_vi": "Huyện Mueang Phang Nga, tỉnh Phang Nga",
+    "rating": null,
+    "presentation_short_vi": "Đồi ngắm cảnh nổi tiếng nhìn bao quát vịnh Phang Nga với những núi đá vôi nhấp nhô, đẹp nhất vào lúc bình minh và khi có biển mây. Là điểm săn mây được nhiều du khách yêu thích.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=98.533,8.372&z=17&pt=98.533,8.372",
+      "google": "https://www.google.com/maps/search/?api=1&query=8.372,98.533"
+    },
+    "tags": [
+      "viewpoint",
+      "sunrise",
+      "bay"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-phang-nga-sri-phang-nga-national-park",
+    "slug": "sri-phang-nga-national-park",
+    "region": "th-phang-nga",
+    "country": "thailand",
+    "region_name_vi": "Phang Nga",
+    "name_vi": "Vườn quốc gia Sri Phang Nga",
+    "name_en": "Sri Phang Nga National Park",
+    "name_local": "อุทยานแห่งชาติศรีพังงา",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 8.933,
+      "lon": 98.39
+    },
+    "address_vi": "Huyện Khura Buri, tỉnh Phang Nga",
+    "rating": null,
+    "presentation_short_vi": "Vườn quốc gia rừng mưa nhiệt đới với thác Tam Nang nhiều tầng, suối trong và hệ động thực vật phong phú. Điểm đến thiên nhiên mát mẻ, ít khách giữa vùng núi phía bắc Phang Nga.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=98.39,8.933&z=17&pt=98.39,8.933",
+      "google": "https://www.google.com/maps/search/?api=1&query=8.933,98.39"
+    },
+    "tags": [
+      "national_park",
+      "waterfall",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

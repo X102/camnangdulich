@@ -1,0 +1,229 @@
+[
+  {
+    "id": "th-loei-phu-kradueng",
+    "slug": "phu-kradueng",
+    "region": "th-loei",
+    "country": "thailand",
+    "region_name_vi": "Loei",
+    "name_vi": "Vườn quốc gia Phu Kradueng",
+    "name_en": "Phu Kradueng National Park",
+    "name_local": "อุทยานแห่งชาติภูกระดึง",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 16.868055,
+      "lon": 101.775833
+    },
+    "address_vi": "Huyện Phu Kradueng, tỉnh Loei",
+    "rating": null,
+    "presentation_short_vi": "Vườn quốc gia trên cao nguyên ở độ cao khoảng 1.300 m, nổi tiếng với đường leo núi, đồng cỏ, thác nước và biển mây; thường chỉ mở theo mùa.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=101.775833,16.868055&z=17&pt=101.775833,16.868055",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.868055,101.775833"
+    },
+    "tags": [
+      "national_park",
+      "hiking",
+      "mountain",
+      "nature",
+      "seasonal"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-loei-phu-ruea",
+    "slug": "phu-ruea",
+    "region": "th-loei",
+    "country": "thailand",
+    "region_name_vi": "Loei",
+    "name_vi": "Vườn quốc gia Phu Ruea",
+    "name_en": "Phu Ruea National Park",
+    "name_local": "อุทยานแห่งชาติภูเรือ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 17.513658,
+      "lon": 101.344873
+    },
+    "address_vi": "Huyện Phu Ruea, tỉnh Loei",
+    "rating": null,
+    "presentation_short_vi": "Vườn quốc gia quanh đỉnh Phu Ruea (núi hình thuyền), một trong những nơi lạnh nhất Thái Lan vào mùa đông, nổi tiếng ngắm bình minh và biển mây.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=101.344873,17.513658&z=17&pt=101.344873,17.513658",
+      "google": "https://www.google.com/maps/search/?api=1&query=17.513658,101.344873"
+    },
+    "tags": [
+      "national_park",
+      "mountain",
+      "viewpoint",
+      "sunrise",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-loei-chiang-khan-old-town",
+    "slug": "chiang-khan-old-town",
+    "region": "th-loei",
+    "country": "thailand",
+    "region_name_vi": "Loei",
+    "name_vi": "Phố cổ Chiang Khan",
+    "name_en": "Chiang Khan Old Town",
+    "name_local": "เมืองเก่าเชียงคาน",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 17.894534,
+      "lon": 101.655957
+    },
+    "address_vi": "Huyện Chiang Khan, tỉnh Loei",
+    "rating": null,
+    "presentation_short_vi": "Phố cổ ven sông Mekong với dãy nhà gỗ, phố đi bộ về đêm, nghi thức khất thực buổi sáng và không khí hoài cổ.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=101.655957,17.894534&z=17&pt=101.655957,17.894534",
+      "google": "https://www.google.com/maps/search/?api=1&query=17.894534,101.655957"
+    },
+    "tags": [
+      "old_town",
+      "mekong",
+      "walking_street",
+      "riverside",
+      "culture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-loei-phra-that-si-song-rak",
+    "slug": "phra-that-si-song-rak",
+    "region": "th-loei",
+    "country": "thailand",
+    "region_name_vi": "Loei",
+    "name_vi": "Tháp Phra That Si Song Rak",
+    "name_en": "Phra That Si Song Rak",
+    "name_local": "พระธาตุศรีสองรัก",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 17.27003,
+      "lon": 101.14086
+    },
+    "address_vi": "Huyện Dan Sai, tỉnh Loei",
+    "rating": null,
+    "presentation_short_vi": "Tháp (that) kiểu Lào xây năm 1560 làm biểu tượng tình hữu nghị Lan Xang - Ayutthaya; địa điểm hành hương linh thiêng ở Dan Sai.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=101.14086,17.27003&z=17&pt=101.14086,17.27003",
+      "google": "https://www.google.com/maps/search/?api=1&query=17.27003,101.14086"
+    },
+    "tags": [
+      "stupa",
+      "pilgrimage",
+      "historical",
+      "lao_style"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-loei-chateau-de-loei",
+    "slug": "chateau-de-loei",
+    "region": "th-loei",
+    "country": "thailand",
+    "region_name_vi": "Loei",
+    "name_vi": "Vườn nho và nhà máy rượu Château de Loei",
+    "name_en": "Château de Loei Vineyard",
+    "name_local": "ไร่ไวน์ชาโต เดอ เลย",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 17.39105,
+      "lon": 101.30162
+    },
+    "address_vi": "Huyện Phu Ruea, tỉnh Loei",
+    "rating": null,
+    "presentation_short_vi": "Vườn nho và nhà máy rượu vang tiên phong của Thái Lan trên vùng đất mát Phu Ruea, có tham quan và nếm rượu.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=101.30162,17.39105&z=17&pt=101.30162,17.39105",
+      "google": "https://www.google.com/maps/search/?api=1&query=17.39105,101.30162"
+    },
+    "tags": [
+      "winery",
+      "vineyard",
+      "tasting"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-loei-suan-hin-pha-ngam",
+    "slug": "suan-hin-pha-ngam",
+    "region": "th-loei",
+    "country": "thailand",
+    "region_name_vi": "Loei",
+    "name_vi": "Công viên đá Suan Hin Pha Ngam (Kunming của Loei)",
+    "name_en": "Suan Hin Pha Ngam",
+    "name_local": "สวนหินผางาม",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 17.050533,
+      "lon": 101.74354
+    },
+    "address_vi": "Huyện Nong Hin, tỉnh Loei",
+    "rating": null,
+    "presentation_short_vi": "Rừng đá vôi với lối đi men theo các cột đá nhọn như mê cung, được ví là Côn Minh của Loei.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=101.74354,17.050533&z=17&pt=101.74354,17.050533",
+      "google": "https://www.google.com/maps/search/?api=1&query=17.050533,101.74354"
+    },
+    "tags": [
+      "nature",
+      "limestone",
+      "rock_garden",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-loei-wat-neramit-wipatsana",
+    "slug": "wat-neramit-wipatsana",
+    "region": "th-loei",
+    "country": "thailand",
+    "region_name_vi": "Loei",
+    "name_vi": "Chùa Neramit Wipatsana",
+    "name_en": "Wat Neramit Wipatsana",
+    "name_local": "วัดเนรมิตวิปัสสนา",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 17.263894,
+      "lon": 101.142044
+    },
+    "address_vi": "Huyện Dan Sai, tỉnh Loei",
+    "rating": null,
+    "presentation_short_vi": "Ngôi chùa xây bằng đá ong đỏ đồ sộ trên đồi ở Dan Sai, có tượng Phật lớn và tranh tường đẹp, gần Phra That Si Song Rak.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=101.142044,17.263894&z=17&pt=101.142044,17.263894",
+      "google": "https://www.google.com/maps/search/?api=1&query=17.263894,101.142044"
+    },
+    "tags": [
+      "temple",
+      "laterite",
+      "hilltop",
+      "art"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

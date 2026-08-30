@@ -1,0 +1,161 @@
+[
+  {
+    "id": "kh-kandal-oudong",
+    "slug": "oudong",
+    "region": "kh-kandal",
+    "region_name_vi": "Kandal",
+    "country": "cambodia",
+    "name_vi": "Cố đô Oudong (Phnom Udong)",
+    "name_en": "Oudong (Phnom Udong)",
+    "name_local": "ឧដុង្គ",
+    "categories": [
+      "monument",
+      "church"
+    ],
+    "coordinates": {
+      "lat": 11.8239,
+      "lon": 104.7425
+    },
+    "address_vi": "Huyện Ponhea Leu, tỉnh Kandal",
+    "presentation_short_vi": "Kinh đô cũ của Campuchia suốt hơn 250 năm (1618–1866), với quần thể tháp mộ hoàng gia và chùa trải dài trên sườn núi Phnom Udong.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.7425,11.8239&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=11.8239,104.7425"
+    },
+    "tags": [
+      "former_capital",
+      "royal_stupas",
+      "hilltop"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kh-kandal-koh-dach",
+    "slug": "koh-dach",
+    "region": "kh-kandal",
+    "region_name_vi": "Kandal",
+    "country": "cambodia",
+    "name_vi": "Đảo Koh Dach (Đảo Lụa)",
+    "name_en": "Koh Dach (Silk Island)",
+    "name_local": "កោះដាច់",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 11.6167,
+      "lon": 104.96
+    },
+    "address_vi": "Huyện Muk Kampul, tỉnh Kandal",
+    "presentation_short_vi": "Cù lao trên sông Mê Kông gần Phnom Penh, nổi tiếng với nghề dệt lụa thủ công truyền thống và khung cảnh làng quê thanh bình.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.96,11.6167&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=11.6167,104.96"
+    },
+    "tags": [
+      "mekong_island",
+      "silk_weaving",
+      "handicraft"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kh-kandal-kien-svay",
+    "slug": "kien-svay",
+    "region": "kh-kandal",
+    "region_name_vi": "Kandal",
+    "country": "cambodia",
+    "name_vi": "Khu du lịch Kien Svay (Koh Oknha Tey)",
+    "name_en": "Kien Svay (Koh Oknha Tey)",
+    "name_local": "កៀនស្វាយ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 11.5583,
+      "lon": 104.9833
+    },
+    "address_vi": "Huyện Kien Svay, tỉnh Kandal",
+    "presentation_short_vi": "Điểm nghỉ ven sông với những chòi lá nổi trên mặt nước, nơi người dân Phnom Penh thường lui tới thư giãn và ăn uống dịp cuối tuần.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.9833,11.5583&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=11.5583,104.9833"
+    },
+    "tags": [
+      "riverside",
+      "weekend",
+      "picnic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kh-kandal-phnom-prasith",
+    "slug": "phnom-prasith",
+    "region": "kh-kandal",
+    "region_name_vi": "Kandal",
+    "country": "cambodia",
+    "name_vi": "Đồi Phnom Prasith",
+    "name_en": "Phnom Prasith",
+    "name_local": "ភ្នំប្រសិទ្ធិ៍",
+    "categories": [
+      "church",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 11.6833,
+      "lon": 104.7833
+    },
+    "address_vi": "Huyện Ang Snuol, tỉnh Kandal",
+    "presentation_short_vi": "Cụm đồi với chùa và tượng Phật nằm, một điểm hành hương yên tĩnh cách Phnom Penh khoảng 24 km về phía tây bắc.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.7833,11.6833&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=11.6833,104.7833"
+    },
+    "tags": [
+      "hill",
+      "pagoda",
+      "pilgrimage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kh-kandal-phnom-saang",
+    "slug": "phnom-saang",
+    "region": "kh-kandal",
+    "region_name_vi": "Kandal",
+    "country": "cambodia",
+    "name_vi": "Núi Sa Ang (Phnom Saang)",
+    "name_en": "Sa Ang Mountain (Phnom Saang)",
+    "name_local": "ភ្នំសាំង",
+    "categories": [
+      "church",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 11.295,
+      "lon": 104.925
+    },
+    "address_vi": "Huyện Sa Ang, tỉnh Kandal",
+    "presentation_short_vi": "Ngọn đồi có chùa và hang động ở huyện Sa Ang bên sông Bassac, điểm dã ngoại và hành hương của người dân địa phương.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.925,11.295&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=11.295,104.925"
+    },
+    "tags": [
+      "hill",
+      "pagoda",
+      "cave"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

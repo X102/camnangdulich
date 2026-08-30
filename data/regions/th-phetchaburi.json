@@ -1,0 +1,309 @@
+[
+  {
+    "id": "th-phetchaburi-phra-nakhon-khiri",
+    "slug": "phra-nakhon-khiri",
+    "region": "th-phetchaburi",
+    "country": "thailand",
+    "region_name_vi": "Phetchaburi",
+    "name_vi": "Cung điện Phra Nakhon Khiri (Khao Wang)",
+    "name_en": "Phra Nakhon Khiri (Khao Wang)",
+    "name_local": "พระนครคีรี",
+    "categories": [
+      "palace",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 13.1097,
+      "lon": 99.9385
+    },
+    "address_vi": "Đồi Khao Wang, TP. Phetchaburi",
+    "rating": null,
+    "presentation_short_vi": "Cung điện mùa hè trên đỉnh đồi của vua Rama IV, kết hợp kiến trúc Thái, phương Tây và Trung Hoa. Từ đây nhìn bao quát toàn thành phố.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=99.9385,13.1097&z=17&pt=99.9385,13.1097",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.1097,99.9385"
+    },
+    "tags": [
+      "palace",
+      "historical",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-phetchaburi-wat-mahathat-worawihan",
+    "slug": "wat-mahathat-worawihan",
+    "region": "th-phetchaburi",
+    "country": "thailand",
+    "region_name_vi": "Phetchaburi",
+    "name_vi": "Chùa Mahathat Worawihan",
+    "name_en": "Wat Mahathat Worawihan",
+    "name_local": "วัดมหาธาตุวรวิหาร",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 13.1116,
+      "lon": 99.9407
+    },
+    "address_vi": "Trung tâm TP. Phetchaburi",
+    "rating": null,
+    "presentation_short_vi": "Ngôi chùa trung tâm thành phố với năm ngọn tháp prang trắng đặc trưng, là biểu tượng của Phetchaburi.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=99.9407,13.1116&z=17&pt=99.9407,13.1116",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.1116,99.9407"
+    },
+    "tags": [
+      "temple",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-phetchaburi-tham-khao-luang",
+    "slug": "tham-khao-luang",
+    "region": "th-phetchaburi",
+    "country": "thailand",
+    "region_name_vi": "Phetchaburi",
+    "name_vi": "Hang Khao Luang",
+    "name_en": "Khao Luang Cave",
+    "name_local": "ถ้ำเขาหลวง",
+    "categories": [
+      "park_garden",
+      "church"
+    ],
+    "coordinates": {
+      "lat": 13.1233,
+      "lon": 99.956
+    },
+    "address_vi": "Huyện Mueang Phetchaburi, tỉnh Phetchaburi",
+    "rating": null,
+    "presentation_short_vi": "Hang động tự nhiên chứa nhiều tượng Phật, được ánh sáng chiếu qua khe trần đá tạo khung cảnh huyền ảo. Hang gắn với hoàng gia Thái.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=99.956,13.1233&z=17&pt=99.956,13.1233",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.1233,99.956"
+    },
+    "tags": [
+      "cave",
+      "temple"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-phetchaburi-phra-ram-ratchaniwet",
+    "slug": "phra-ram-ratchaniwet",
+    "region": "th-phetchaburi",
+    "country": "thailand",
+    "region_name_vi": "Phetchaburi",
+    "name_vi": "Cung điện Phra Ram Ratchaniwet (Ban Puen)",
+    "name_en": "Phra Ram Ratchaniwet (Ban Puen Palace)",
+    "name_local": "พระรามราชนิเวศน์",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 13.103,
+      "lon": 99.9488
+    },
+    "address_vi": "Huyện Mueang Phetchaburi, tỉnh Phetchaburi",
+    "rating": null,
+    "presentation_short_vi": "Cung điện của vua Rama V xây theo phong cách Art Nouveau/Baroque châu Âu, với gạch men và cầu thang duyên dáng.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=99.9488,13.103&z=17&pt=99.9488,13.103",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.103,99.9488"
+    },
+    "tags": [
+      "palace",
+      "historical"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-phetchaburi-wat-kamphaeng-laeng",
+    "slug": "wat-kamphaeng-laeng",
+    "region": "th-phetchaburi",
+    "country": "thailand",
+    "region_name_vi": "Phetchaburi",
+    "name_vi": "Đền Kamphaeng Laeng",
+    "name_en": "Wat Kamphaeng Laeng",
+    "name_local": "วัดกำแพงแลง",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 13.1091,
+      "lon": 99.9441
+    },
+    "address_vi": "Trung tâm TP. Phetchaburi",
+    "rating": null,
+    "presentation_short_vi": "Di tích đền Khmer cổ bằng đá ong với các tháp prang, dấu tích ảnh hưởng văn hóa Angkor tại Phetchaburi.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=99.9441,13.1091&z=17&pt=99.9441,13.1091",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.1091,99.9441"
+    },
+    "tags": [
+      "khmer",
+      "temple",
+      "historical"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-phetchaburi-kaeng-krachan-national-park",
+    "slug": "kaeng-krachan-national-park",
+    "region": "th-phetchaburi",
+    "country": "thailand",
+    "region_name_vi": "Phetchaburi",
+    "name_vi": "Vườn Quốc gia Kaeng Krachan",
+    "name_en": "Kaeng Krachan National Park",
+    "name_local": "อุทยานแห่งชาติแก่งกระจาน",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 12.904,
+      "lon": 99.623
+    },
+    "address_vi": "Huyện Kaeng Krachan, tỉnh Phetchaburi",
+    "rating": null,
+    "presentation_short_vi": "Vườn quốc gia lớn nhất Thái Lan, Di sản Thế giới với rừng rậm, hồ nước, thác và đa dạng sinh học phong phú.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=99.623,12.904&z=17&pt=99.623,12.904",
+      "google": "https://www.google.com/maps/search/?api=1&query=12.904,99.623"
+    },
+    "tags": [
+      "national_park",
+      "nature",
+      "unesco"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-phetchaburi-cha-am-beach",
+    "slug": "cha-am-beach",
+    "region": "th-phetchaburi",
+    "country": "thailand",
+    "region_name_vi": "Phetchaburi",
+    "name_vi": "Bãi biển Cha-am",
+    "name_en": "Cha-am Beach",
+    "name_local": "หาดชะอำ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 12.8,
+      "lon": 99.966
+    },
+    "address_vi": "Thị trấn Cha-am, tỉnh Phetchaburi",
+    "rating": null,
+    "presentation_short_vi": "Bãi biển cát dài nổi tiếng, khu nghỉ dưỡng ven vịnh Thái Lan được người dân địa phương ưa chuộng.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=99.966,12.8&z=17&pt=99.966,12.8",
+      "google": "https://www.google.com/maps/search/?api=1&query=12.8,99.966"
+    },
+    "tags": [
+      "beach",
+      "seaside"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-phetchaburi-mrigadayavan-palace",
+    "slug": "mrigadayavan-palace",
+    "region": "th-phetchaburi",
+    "country": "thailand",
+    "region_name_vi": "Phetchaburi",
+    "name_vi": "Cung điện Mrigadayavan (Marukhathaiyawan)",
+    "name_en": "Mrigadayavan Palace",
+    "name_local": "พระราชนิเวศน์มฤคทายวัน",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 12.6872,
+      "lon": 99.966
+    },
+    "address_vi": "Huyện Cha-am, tỉnh Phetchaburi",
+    "rating": null,
+    "presentation_short_vi": "Cung điện gỗ tếch vàng bên biển của vua Rama VI, với dãy hành lang thoáng đãng nối các sảnh vươn ra bờ cát.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=99.966,12.6872&z=17&pt=99.966,12.6872",
+      "google": "https://www.google.com/maps/search/?api=1&query=12.6872,99.966"
+    },
+    "tags": [
+      "palace",
+      "seaside",
+      "historical"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-phetchaburi-wat-yai-suwannaram",
+    "slug": "wat-yai-suwannaram",
+    "region": "th-phetchaburi",
+    "country": "thailand",
+    "region_name_vi": "Phetchaburi",
+    "name_vi": "Chùa Yai Suwannaram",
+    "name_en": "Wat Yai Suwannaram",
+    "name_local": "วัดใหญ่สุวรรณาราม",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 13.1103,
+      "lon": 99.9425
+    },
+    "address_vi": "Trung tâm TP. Phetchaburi",
+    "rating": null,
+    "presentation_short_vi": "Chùa thời Ayutthaya với chính điện gỗ cổ và các bức bích họa lâu đời còn lưu giữ.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=99.9425,13.1103&z=17&pt=99.9425,13.1103",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.1103,99.9425"
+    },
+    "tags": [
+      "temple",
+      "historical"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-phetchaburi-hat-chao-samran",
+    "slug": "hat-chao-samran",
+    "region": "th-phetchaburi",
+    "country": "thailand",
+    "region_name_vi": "Phetchaburi",
+    "name_vi": "Bãi biển Chao Samran",
+    "name_en": "Hat Chao Samran",
+    "name_local": "หาดเจ้าสำราญ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 13.07,
+      "lon": 100.078
+    },
+    "address_vi": "Huyện Mueang Phetchaburi, tỉnh Phetchaburi",
+    "rating": null,
+    "presentation_short_vi": "Một trong những bãi biển lâu đời nhất của Thái Lan, không gian yên bình ven vịnh với nhiều quán hải sản.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.078,13.07&z=17&pt=100.078,13.07",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.07,100.078"
+    },
+    "tags": [
+      "beach",
+      "seaside"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

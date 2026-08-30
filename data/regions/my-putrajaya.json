@@ -1,0 +1,281 @@
+[
+  {
+    "id": "my-putrajaya-masjid-putra",
+    "slug": "masjid-putra",
+    "region": "my-putrajaya",
+    "region_name_vi": "Putrajaya",
+    "country": "malaysia",
+    "name_vi": "Thánh đường Putra (Masjid hồng)",
+    "name_en": "Putra Mosque",
+    "name_local": "Masjid Putra",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 2.9364,
+      "lon": 101.6906
+    },
+    "address_vi": "Persiaran Persekutuan, Precinct 1, Putrajaya",
+    "presentation_short_vi": "Thánh đường hồng bằng đá granite bên hồ Putrajaya, biểu tượng của thành phố với mái vòm hồng và tháp cao 116m soi bóng nước.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.6906,2.9364&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=2.9364,101.6906"
+    },
+    "tags": [
+      "pink_mosque",
+      "landmark",
+      "lakeside"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-putrajaya-perdana-putra",
+    "slug": "perdana-putra",
+    "region": "my-putrajaya",
+    "region_name_vi": "Putrajaya",
+    "country": "malaysia",
+    "name_vi": "Perdana Putra (Văn phòng Thủ tướng)",
+    "name_en": "Perdana Putra",
+    "name_local": "Perdana Putra",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 2.9378,
+      "lon": 101.6893
+    },
+    "address_vi": "Precinct 1, Putrajaya",
+    "presentation_short_vi": "Tòa nhà Văn phòng Thủ tướng với mái vòm xanh kiểu Mughal trên đỉnh đồi Putra, công trình biểu tượng của trung tâm hành chính.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.6893,2.9378&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=2.9378,101.6893"
+    },
+    "tags": [
+      "government",
+      "landmark",
+      "dome"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-putrajaya-jambatan-seri-wawasan",
+    "slug": "jambatan-seri-wawasan",
+    "region": "my-putrajaya",
+    "region_name_vi": "Putrajaya",
+    "country": "malaysia",
+    "name_vi": "Cầu Seri Wawasan",
+    "name_en": "Seri Wawasan Bridge",
+    "name_local": "Jambatan Seri Wawasan",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 2.9262,
+      "lon": 101.6745
+    },
+    "address_vi": "Precinct 2, Putrajaya",
+    "presentation_short_vi": "Cầu dây văng hình cánh buồm độc đáo bắc qua hồ Putrajaya, một trong những cây cầu đẹp và được chụp ảnh nhiều nhất thành phố.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.6745,2.9262&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=2.9262,101.6745"
+    },
+    "tags": [
+      "cable_bridge",
+      "landmark",
+      "lake"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-putrajaya-jambatan-putra",
+    "slug": "jambatan-putra",
+    "region": "my-putrajaya",
+    "region_name_vi": "Putrajaya",
+    "country": "malaysia",
+    "name_vi": "Cầu Putra",
+    "name_en": "Putra Bridge",
+    "name_local": "Jambatan Putra",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 2.935,
+      "lon": 101.6878
+    },
+    "address_vi": "Precinct 1, Putrajaya",
+    "presentation_short_vi": "Cầu Putra lấy cảm hứng từ cầu Khaju (Iran) nối Quảng trường Putra với đại lộ chính, điểm nhấn kiến trúc bên thánh đường hồng.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.6878,2.935&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=2.935,101.6878"
+    },
+    "tags": [
+      "bridge",
+      "heritage_style",
+      "boulevard"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-putrajaya-masjid-tuanku-mizan",
+    "slug": "masjid-tuanku-mizan",
+    "region": "my-putrajaya",
+    "region_name_vi": "Putrajaya",
+    "country": "malaysia",
+    "name_vi": "Thánh đường Sắt (Masjid Besi)",
+    "name_en": "Tuanku Mizan Zainal Abidin Mosque (Iron Mosque)",
+    "name_local": "Masjid Tuanku Mizan Zainal Abidin",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 2.931,
+      "lon": 101.6785
+    },
+    "address_vi": "Precinct 3, Putrajaya",
+    "presentation_short_vi": "Thánh đường 'Nhà thờ Sắt' khung thép mạ với tường lưới hoa văn, đối diện Cung Công lý ở Precinct 3.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.6785,2.931&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=2.931,101.6785"
+    },
+    "tags": [
+      "iron_mosque",
+      "modern",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-putrajaya-taman-botani-putrajaya",
+    "slug": "taman-botani-putrajaya",
+    "region": "my-putrajaya",
+    "region_name_vi": "Putrajaya",
+    "country": "malaysia",
+    "name_vi": "Vườn thực vật Putrajaya",
+    "name_en": "Putrajaya Botanical Garden",
+    "name_local": "Taman Botani Putrajaya",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 2.944,
+      "lon": 101.6825
+    },
+    "address_vi": "Precinct 1, Putrajaya",
+    "presentation_short_vi": "Vườn thực vật lớn nhất Malaysia với hàng ngàn loài cây nhiệt đới, hồ, đài quan sát và Astaka Morocco, điểm dạo bộ và đạp xe.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.6825,2.944&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=2.944,101.6825"
+    },
+    "tags": [
+      "botanical_garden",
+      "nature",
+      "cycling"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-putrajaya-monumen-alaf-baru",
+    "slug": "monumen-alaf-baru",
+    "region": "my-putrajaya",
+    "region_name_vi": "Putrajaya",
+    "country": "malaysia",
+    "name_vi": "Đài tưởng niệm Thiên niên kỷ",
+    "name_en": "Millennium Monument",
+    "name_local": "Monumen Alaf Baru",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 2.9235,
+      "lon": 101.6795
+    },
+    "address_vi": "Precinct 2, Putrajaya",
+    "presentation_short_vi": "Đài tưởng niệm Thiên niên kỷ hình tháp cao vút khắc dòng thời gian lịch sử Malaysia, tọa lạc trên đại lộ Putrajaya.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.6795,2.9235&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=2.9235,101.6795"
+    },
+    "tags": [
+      "monument",
+      "obelisk",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-putrajaya-istana-kehakiman",
+    "slug": "istana-kehakiman",
+    "region": "my-putrajaya",
+    "region_name_vi": "Putrajaya",
+    "country": "malaysia",
+    "name_vi": "Cung Công lý",
+    "name_en": "Palace of Justice",
+    "name_local": "Istana Kehakiman",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 2.93,
+      "lon": 101.6765
+    },
+    "address_vi": "Precinct 3, Putrajaya",
+    "presentation_short_vi": "Cung Công lý nguy nga pha trộn kiến trúc Mughal và Palladian, trụ sở tòa án, một trong những công trình tráng lệ nhất Putrajaya.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.6765,2.93&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=2.93,101.6765"
+    },
+    "tags": [
+      "courthouse",
+      "landmark",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-putrajaya-taman-wetland-putrajaya",
+    "slug": "taman-wetland-putrajaya",
+    "region": "my-putrajaya",
+    "region_name_vi": "Putrajaya",
+    "country": "malaysia",
+    "name_vi": "Công viên đất ngập nước Putrajaya",
+    "name_en": "Putrajaya Wetlands Park",
+    "name_local": "Taman Wetland Putrajaya",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 2.9575,
+      "lon": 101.6955
+    },
+    "address_vi": "Precinct 13, Putrajaya",
+    "presentation_short_vi": "Công viên đất ngập nước nhân tạo lớn với hồ, đầm lầy và hệ sinh thái chim nước phong phú, điểm ngắm chim và chèo thuyền.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.6955,2.9575&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=2.9575,101.6955"
+    },
+    "tags": [
+      "wetland",
+      "birdwatching",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

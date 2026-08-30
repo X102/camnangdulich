@@ -1,0 +1,189 @@
+[
+  {
+    "id": "kh-kampong-speu-kirirom-national-park",
+    "slug": "kirirom-national-park",
+    "region": "kh-kampong-speu",
+    "region_name_vi": "Kampong Speu",
+    "country": "cambodia",
+    "name_vi": "Vườn quốc gia Kirirom",
+    "name_en": "Kirirom National Park",
+    "name_local": "ឧទ្យានជាតិគិរីរម្យ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 11.3167,
+      "lon": 104.0333
+    },
+    "address_vi": "Huyện Phnom Sruoch, tỉnh Kampong Speu",
+    "presentation_short_vi": "Vườn quốc gia đầu tiên của Campuchia (1993) trên cao nguyên thông cao khoảng 675 m, có rừng thông, thác nước, hồ và khí hậu mát mẻ; tên nghĩa là 'Núi Hạnh Phúc'.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.0333,11.3167&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=11.3167,104.0333"
+    },
+    "tags": [
+      "national_park",
+      "pine_forest",
+      "waterfall",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kh-kampong-speu-phnom-aural",
+    "slug": "phnom-aural",
+    "region": "kh-kampong-speu",
+    "region_name_vi": "Kampong Speu",
+    "country": "cambodia",
+    "name_vi": "Núi Aural (Phnom Aural)",
+    "name_en": "Phnom Aural",
+    "name_local": "ភ្នំឱរ៉ាល់",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 12.0333,
+      "lon": 104.1667
+    },
+    "address_vi": "Huyện Aoral, tỉnh Kampong Speu",
+    "presentation_short_vi": "Đỉnh núi cao nhất Campuchia (1.813 m), nằm trong Khu bảo tồn động vật hoang dã Phnom Aural — điểm đến thử thách cho dân leo núi.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.1667,12.0333&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=12.0333,104.1667"
+    },
+    "tags": [
+      "mountain",
+      "highest_peak",
+      "hiking",
+      "wildlife_sanctuary"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kh-kampong-speu-chambok",
+    "slug": "chambok",
+    "region": "kh-kampong-speu",
+    "region_name_vi": "Kampong Speu",
+    "country": "cambodia",
+    "name_vi": "Khu du lịch sinh thái Chambok",
+    "name_en": "Chambok Ecotourism Site",
+    "name_local": "ចំបក់",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 11.36,
+      "lon": 104.08
+    },
+    "address_vi": "Xã Chambok, huyện Phnom Sruoch, tỉnh Kampong Speu",
+    "presentation_short_vi": "Khu du lịch sinh thái cộng đồng cạnh Kirirom với thác nước nhiều tầng, đường mòn đi bộ, cưỡi xe bò và ngắm chim.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.08,11.36&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=11.36,104.08"
+    },
+    "tags": [
+      "ecotourism",
+      "waterfall",
+      "community_tourism",
+      "trekking"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kh-kampong-speu-te-teuk-pus-hot-spring",
+    "slug": "te-teuk-pus-hot-spring",
+    "region": "kh-kampong-speu",
+    "region_name_vi": "Kampong Speu",
+    "country": "cambodia",
+    "name_vi": "Suối nước nóng Te Teuk Pus",
+    "name_en": "Te Teuk Pus Hot Spring",
+    "name_local": "តេទឹកពុះ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 11.55,
+      "lon": 104.1
+    },
+    "address_vi": "Huyện Aoral, tỉnh Kampong Speu",
+    "presentation_short_vi": "Suối nước nóng tự nhiên rộng khoảng 100 m nằm phía tây tỉnh, gắn với núi Phnom Te và tín ngưỡng dân gian địa phương.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.1,11.55&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=11.55,104.1"
+    },
+    "tags": [
+      "hot_spring",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kh-kampong-speu-ampe-phnom",
+    "slug": "ampe-phnom",
+    "region": "kh-kampong-speu",
+    "region_name_vi": "Kampong Speu",
+    "country": "cambodia",
+    "name_vi": "Khu du lịch Ampe Phnom",
+    "name_en": "Ampe Phnom",
+    "name_local": "អំពៅភ្នំ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 11.43,
+      "lon": 104.51
+    },
+    "address_vi": "Huyện Chbar Mon, tỉnh Kampong Speu",
+    "presentation_short_vi": "Khu nghỉ dã ngoại tự nhiên bên dòng suối với cây cổ thụ rợp bóng và lối đi bộ, cách Phnom Penh khoảng 48 km trên Quốc lộ 4.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.51,11.43&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=11.43,104.51"
+    },
+    "tags": [
+      "nature_resort",
+      "stream",
+      "picnic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kh-kampong-speu-phnom-prey-resort",
+    "slug": "phnom-prey-resort",
+    "region": "kh-kampong-speu",
+    "region_name_vi": "Kampong Speu",
+    "country": "cambodia",
+    "name_vi": "Khu du lịch Phnom Prey",
+    "name_en": "Phnom Prey Khmer Resort",
+    "name_local": "ភ្នំព្រៃ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 11.35,
+      "lon": 104.15
+    },
+    "address_vi": "Huyện Phnom Sruoch, tỉnh Kampong Speu",
+    "presentation_short_vi": "Khu du lịch tự nhiên với những ngọn đồi nhỏ nối tiếp nhau giữa vùng rừng núi, cách Phnom Penh khoảng 70 km.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.15,11.35&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=11.35,104.15"
+    },
+    "tags": [
+      "nature_resort",
+      "hills"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

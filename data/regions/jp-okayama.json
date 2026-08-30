@@ -1,0 +1,316 @@
+[
+  {
+    "id": "jp-okayama-korakuen",
+    "slug": "korakuen",
+    "region": "jp-okayama",
+    "country": "japan",
+    "region_name_vi": "Okayama",
+    "name_vi": "Vườn Kōrakuen",
+    "name_en": "Kōrakuen Garden",
+    "name_local": "後楽園",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 34.6672,
+      "lon": 133.9357
+    },
+    "address_vi": "1-5 Kōrakuen, Kita-ku, TP Okayama, Okayama",
+    "presentation_short_vi": "Một trong ba khu vườn đẹp nhất Nhật Bản, kiến tạo đầu thế kỷ 18 với bãi cỏ rộng, ao hồ và lối dạo ngắm cảnh, nhìn sang lâu đài Okayama.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.6672,133.9357",
+      "yandex": "https://yandex.com/maps/?pt=133.9357,34.6672&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "garden",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-okayama-okayama-castle",
+    "slug": "okayama-castle",
+    "region": "jp-okayama",
+    "country": "japan",
+    "region_name_vi": "Okayama",
+    "name_vi": "Lâu đài Okayama (Thành Quạ)",
+    "name_en": "Okayama Castle",
+    "name_local": "岡山城",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 34.6656,
+      "lon": 133.9361
+    },
+    "address_vi": "2-3-1 Marunouchi, Kita-ku, TP Okayama, Okayama",
+    "presentation_short_vi": "Toà thành bên sông Asahi với lớp ván đen tuyền khiến nó được gọi là “Thành Quạ” (Ujō); tháp thiên thủ phục dựng soi bóng ngay cạnh vườn Kōrakuen.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.6656,133.9361",
+      "yandex": "https://yandex.com/maps/?pt=133.9361,34.6656&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "castle",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-okayama-kurashiki-bikan",
+    "slug": "kurashiki-bikan",
+    "region": "jp-okayama",
+    "country": "japan",
+    "region_name_vi": "Okayama",
+    "name_vi": "Khu phố cổ Kurashiki Bikan",
+    "name_en": "Kurashiki Bikan Historical Quarter",
+    "name_local": "倉敷美観地区",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 34.5952,
+      "lon": 133.7718
+    },
+    "address_vi": "Chuo, TP Kurashiki, Okayama",
+    "presentation_short_vi": "Khu phố kho hàng thời Edo dọc con kênh liễu rủ, những dãy nhà tường trắng nay thành quán cà phê, cửa hiệu và bảo tàng; du khách có thể đi thuyền nhỏ trên kênh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.5952,133.7718",
+      "yandex": "https://yandex.com/maps/?pt=133.7718,34.5952&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "historic",
+      "edo",
+      "canal"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-okayama-ohara-museum",
+    "slug": "ohara-museum",
+    "region": "jp-okayama",
+    "country": "japan",
+    "region_name_vi": "Okayama",
+    "name_vi": "Bảo tàng Mỹ thuật Ōhara",
+    "name_en": "Ōhara Museum of Art",
+    "name_local": "大原美術館",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 34.5949,
+      "lon": 133.7726
+    },
+    "address_vi": "1-1-15 Chuo, TP Kurashiki, Okayama",
+    "presentation_short_vi": "Bảo tàng mỹ thuật phương Tây tư nhân đầu tiên của Nhật Bản (mở năm 1930), lưu giữ tác phẩm của El Greco, Monet, Renoir, Gauguin giữa khu phố cổ Kurashiki.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.5949,133.7726",
+      "yandex": "https://yandex.com/maps/?pt=133.7726,34.5949&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "art",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-okayama-kibitsu-shrine",
+    "slug": "kibitsu-shrine",
+    "region": "jp-okayama",
+    "country": "japan",
+    "region_name_vi": "Okayama",
+    "name_vi": "Đền Kibitsu",
+    "name_en": "Kibitsu Shrine",
+    "name_local": "吉備津神社",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 34.6718,
+      "lon": 133.8496
+    },
+    "address_vi": "931 Kibitsu, Kita-ku, TP Okayama, Okayama",
+    "presentation_short_vi": "Ngôi đền cổ gắn với truyền thuyết Momotarō, nổi bật với chính điện kiến trúc “Kibitsu-zukuri” là Quốc bảo và hành lang gỗ dài gần 400 m uốn theo sườn đồi.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.6718,133.8496",
+      "yandex": "https://yandex.com/maps/?pt=133.8496,34.6718&z=16&l=map"
+    },
+    "tags": [
+      "shrine",
+      "historic",
+      "legend"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-okayama-bitchu-matsuyama-castle",
+    "slug": "bitchu-matsuyama-castle",
+    "region": "jp-okayama",
+    "country": "japan",
+    "region_name_vi": "Okayama",
+    "name_vi": "Lâu đài Bitchū Matsuyama",
+    "name_en": "Bitchū Matsuyama Castle",
+    "name_local": "備中松山城",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 34.8093,
+      "lon": 133.622
+    },
+    "address_vi": "Uchisange, TP Takahashi, Okayama",
+    "presentation_short_vi": "Toà thành trên núi cao nhất Nhật Bản còn giữ tháp thiên thủ nguyên bản từ thời Edo; những sáng thu đông thành thường nổi bồng bềnh trên biển mây.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.8093,133.622",
+      "yandex": "https://yandex.com/maps/?pt=133.622,34.8093&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "castle",
+      "historic",
+      "mountain"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-okayama-washuzan",
+    "slug": "washuzan",
+    "region": "jp-okayama",
+    "country": "japan",
+    "region_name_vi": "Okayama",
+    "name_vi": "Đồi Washūzan",
+    "name_en": "Mount Washū",
+    "name_local": "鷲羽山",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 34.3767,
+      "lon": 133.8064
+    },
+    "address_vi": "Shimotsui, Kojima, TP Kurashiki, Okayama",
+    "presentation_short_vi": "Điểm ngắm cảnh nhìn ra vịnh Seto với hàng chục hòn đảo và cây cầu Seto Ōhashi vắt ngang biển, một trong những nơi ngắm hoàng hôn đẹp nhất vùng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.3767,133.8064",
+      "yandex": "https://yandex.com/maps/?pt=133.8064,34.3767&z=16&l=map"
+    },
+    "tags": [
+      "viewpoint",
+      "coast",
+      "scenic",
+      "sunset"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-okayama-bitchu-kokubunji",
+    "slug": "bitchu-kokubunji",
+    "region": "jp-okayama",
+    "country": "japan",
+    "region_name_vi": "Okayama",
+    "name_vi": "Chùa Bitchū Kokubun-ji (tháp 5 tầng)",
+    "name_en": "Bitchū Kokubun-ji Pagoda",
+    "name_local": "備中国分寺",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 34.6707,
+      "lon": 133.7561
+    },
+    "address_vi": "1046 Kamibayashi, TP Sōja, Okayama",
+    "presentation_short_vi": "Ngôi chùa với tháp gỗ năm tầng thời Edo vươn lên giữa đồng lúa vùng Kibiji, biểu tượng của tuyến đường đạp xe ngắm cảnh đồng quê nổi tiếng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.6707,133.7561",
+      "yandex": "https://yandex.com/maps/?pt=133.7561,34.6707&z=16&l=map"
+    },
+    "tags": [
+      "temple",
+      "pagoda",
+      "scenic",
+      "countryside"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-okayama-achi-shrine",
+    "slug": "achi-shrine",
+    "region": "jp-okayama",
+    "country": "japan",
+    "region_name_vi": "Okayama",
+    "name_vi": "Đền Achi",
+    "name_en": "Achi Shrine",
+    "name_local": "阿智神社",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 34.5968,
+      "lon": 133.7735
+    },
+    "address_vi": "12-1 Honmachi, TP Kurashiki, Okayama",
+    "presentation_short_vi": "Ngôi đền cổ trên ngọn đồi nhìn xuống khu phố cổ Kurashiki, nổi tiếng với vườn tử đằng cổ thụ và tầm nhìn bao quát những mái ngói phố Bikan.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.5968,133.7735",
+      "yandex": "https://yandex.com/maps/?pt=133.7735,34.5968&z=16&l=map"
+    },
+    "tags": [
+      "shrine",
+      "viewpoint",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-okayama-kojima-jeans-street",
+    "slug": "kojima-jeans-street",
+    "region": "jp-okayama",
+    "country": "japan",
+    "region_name_vi": "Okayama",
+    "name_vi": "Phố quần jean Kojima",
+    "name_en": "Kojima Jeans Street",
+    "name_local": "児島ジーンズストリート",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 34.4656,
+      "lon": 133.8039
+    },
+    "address_vi": "Kojima Ajino, TP Kurashiki, Okayama",
+    "presentation_short_vi": "Con phố ở Kojima – cái nôi của quần jean Nhật Bản, nơi hàng chục thương hiệu denim thủ công bày bán, đến cả cờ và băng rôn trang trí cũng làm bằng vải bò.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.4656,133.8039",
+      "yandex": "https://yandex.com/maps/?pt=133.8039,34.4656&z=16&l=map"
+    },
+    "tags": [
+      "shopping",
+      "denim",
+      "unique"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

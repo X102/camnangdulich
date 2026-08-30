@@ -1,0 +1,192 @@
+[
+  {
+    "id": "kh-pursat-kampong-luong",
+    "slug": "kampong-luong",
+    "region": "kh-pursat",
+    "region_name_vi": "Pursat",
+    "country": "cambodia",
+    "name_vi": "Làng nổi Kampong Luong",
+    "name_en": "Kampong Luong Floating Village",
+    "name_local": "ភូមិកំពង់ហ្លួង",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 12.57,
+      "lon": 104.19
+    },
+    "address_vi": "Huyện Krakor, tỉnh Pursat",
+    "presentation_short_vi": "Một trong những làng nổi lớn nhất trên Biển Hồ Tonle Sap, với nhà bè, trường học, chợ và nhà nguyện nổi; vị trí dịch chuyển theo mùa nước.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.19,12.57&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=12.57,104.19"
+    },
+    "tags": [
+      "floating_village",
+      "tonle_sap",
+      "boat_tour"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kh-pursat-wat-bakan",
+    "slug": "wat-bakan",
+    "region": "kh-pursat",
+    "region_name_vi": "Pursat",
+    "country": "cambodia",
+    "name_vi": "Chùa Bakan (Wat Bakan)",
+    "name_en": "Wat Bakan",
+    "name_local": "វត្តបាកាន",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 12.5755,
+      "lon": 103.7665
+    },
+    "address_vi": "Xã Trapeang Chorng, huyện Bakan, tỉnh Pursat",
+    "presentation_short_vi": "Một trong những ngôi chùa còn hoạt động cổ nhất Campuchia, tương truyền hơn 800 năm tuổi, là thánh địa Phật giáo được tôn kính.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=103.7665,12.5755&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=12.5755,103.7665"
+    },
+    "tags": [
+      "pagoda",
+      "buddhist_temple",
+      "ancient",
+      "pilgrimage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kh-pursat-koh-sampov-meas",
+    "slug": "koh-sampov-meas",
+    "region": "kh-pursat",
+    "region_name_vi": "Pursat",
+    "country": "cambodia",
+    "name_vi": "Đảo Koh Sampov Meas",
+    "name_en": "Koh Sampov Meas Island Park",
+    "name_local": "កោះសំពៅមាស",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 12.534,
+      "lon": 103.917
+    },
+    "address_vi": "Phường Phteah Prey, thị xã Pursat, tỉnh Pursat",
+    "presentation_short_vi": "Công viên đảo hình 'chiếc thuyền vàng' trên sông Pursat ngay trung tâm thị xã, điểm dạo mát và vui chơi quen thuộc của người dân.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=103.917,12.534&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=12.534,103.917"
+    },
+    "tags": [
+      "island",
+      "park",
+      "river",
+      "town_landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kh-pursat-neak-ta-khleang-moeung",
+    "slug": "neak-ta-khleang-moeung",
+    "region": "kh-pursat",
+    "region_name_vi": "Pursat",
+    "country": "cambodia",
+    "name_vi": "Đền thờ Neak Ta Khleang Moeung",
+    "name_en": "Neak Ta Khleang Moeung Shrine",
+    "name_local": "អ្នកតាខ្លាំងមឿង",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 12.48,
+      "lon": 103.91
+    },
+    "address_vi": "Xã Snam Preah, huyện Bakan, tỉnh Pursat",
+    "presentation_short_vi": "Đền thờ vị anh hùng dân tộc Khleang Moeung thế kỷ 16, nơi hành hương linh thiêng cách thị xã Pursat khoảng 6 km về phía nam.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=103.91,12.48&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=12.48,103.91"
+    },
+    "tags": [
+      "shrine",
+      "neak_ta",
+      "historic",
+      "pilgrimage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kh-pursat-chrok-la-eang",
+    "slug": "chrok-la-eang",
+    "region": "kh-pursat",
+    "region_name_vi": "Pursat",
+    "country": "cambodia",
+    "name_vi": "Thác Chrok La Eang",
+    "name_en": "Chrok La Eang Waterfall",
+    "name_local": "ទឹកធ្លាក់ច្រកល្អៀង",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 12.3,
+      "lon": 103.6
+    },
+    "address_vi": "Huyện Phnom Kravanh, tỉnh Pursat",
+    "presentation_short_vi": "Thác nước nhiều bậc giữa vùng núi Cardamom, điểm dã ngoại và tắm mát được yêu thích ở phía tây nam tỉnh.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=103.6,12.3&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=12.3,103.6"
+    },
+    "tags": [
+      "waterfall",
+      "cardamom_mountains",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kh-pursat-cardamom-mountains",
+    "slug": "cardamom-mountains",
+    "region": "kh-pursat",
+    "region_name_vi": "Pursat",
+    "country": "cambodia",
+    "name_vi": "Dãy núi Cardamom (Phnom Kravanh)",
+    "name_en": "Cardamom Mountains",
+    "name_local": "ជួរភ្នំក្រវាញ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 12.1,
+      "lon": 103.3
+    },
+    "address_vi": "Phía tây tỉnh Pursat",
+    "presentation_short_vi": "Dãy núi Cardamom trải dài phía tây tỉnh, nổi tiếng đa dạng sinh học, rừng nguyên sinh, thác nước và các hoạt động bảo tồn thiên nhiên.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=103.3,12.1&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=12.1,103.3"
+    },
+    "tags": [
+      "mountains",
+      "biodiversity",
+      "cardamom",
+      "conservation"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

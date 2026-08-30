@@ -1,0 +1,189 @@
+[
+  {
+    "id": "bn-temburong-ulu-temburong-national-park",
+    "slug": "ulu-temburong-national-park",
+    "region": "bn-temburong",
+    "region_name_vi": "Temburong",
+    "country": "brunei",
+    "name_vi": "Vườn quốc gia Ulu Temburong",
+    "name_en": "Ulu Temburong National Park",
+    "name_local": "Taman Negara Ulu Temburong",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 4.478,
+      "lon": 115.2077
+    },
+    "address_vi": "Rừng Batu Apoi, huyện Temburong",
+    "presentation_short_vi": "Vườn quốc gia đầu tiên của Brunei (1991) nằm sâu trong rừng mưa nguyên sinh Batu Apoi, nổi tiếng với lối đi trên tán cây (canopy walk) cao khoảng 50 m; du khách vào vườn bằng thuyền dài dọc sông Temburong.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=115.2077,4.478&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=4.478,115.2077"
+    },
+    "tags": [
+      "top",
+      "national_park",
+      "rainforest",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "bn-temburong-batang-duri-recreation-park",
+    "slug": "batang-duri-recreation-park",
+    "region": "bn-temburong",
+    "region_name_vi": "Temburong",
+    "country": "brunei",
+    "name_vi": "Công viên Batang Duri",
+    "name_en": "Batang Duri Recreation Park",
+    "name_local": "Taman Rekreasi Batang Duri",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 4.5953,
+      "lon": 115.1128
+    },
+    "address_vi": "Jalan Batang Duri, Kampung Sumbiling Baru, huyện Temburong",
+    "presentation_short_vi": "Công viên giải trí ở làng Batang Duri, điểm xuất phát bằng thuyền dài đi vào Vườn quốc gia Ulu Temburong, gần các nhà dài (longhouse) của người Iban.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=115.1128,4.5953&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=4.5953,115.1128"
+    },
+    "tags": [
+      "park",
+      "nature",
+      "river"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "bn-temburong-peradayan-forest-reserve",
+    "slug": "peradayan-forest-reserve",
+    "region": "bn-temburong",
+    "region_name_vi": "Temburong",
+    "country": "brunei",
+    "name_vi": "Khu bảo tồn rừng Peradayan",
+    "name_en": "Peradayan Forest Reserve",
+    "name_local": "Hutan Simpan Peradayan",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 4.6366,
+      "lon": 115.2126
+    },
+    "address_vi": "huyện Temburong",
+    "presentation_short_vi": "Khu rừng bảo tồn ở Temburong với các đường mòn leo núi lên đỉnh Bukit Patoi và Bukit Peradayan, phong phú thực vật rừng nhiệt đới.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=115.2126,4.6366&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=4.6366,115.2126"
+    },
+    "tags": [
+      "forest_reserve",
+      "hiking",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "bn-temburong-bukit-patoi-recreational-park",
+    "slug": "bukit-patoi-recreational-park",
+    "region": "bn-temburong",
+    "region_name_vi": "Temburong",
+    "country": "brunei",
+    "name_vi": "Đồi Bukit Patoi",
+    "name_en": "Bukit Patoi Recreational Park",
+    "name_local": "Taman Rekreasi Bukit Patoi",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 4.7577,
+      "lon": 115.1768
+    },
+    "address_vi": "Khu bảo tồn rừng Peradayan, huyện Temburong",
+    "presentation_short_vi": "Ngọn đồi trong Khu bảo tồn rừng Peradayan với đường mòn leo núi phổ biến dẫn lên đỉnh, nơi có tầm nhìn ra rừng Temburong.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=115.1768,4.7577&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=4.7577,115.1768"
+    },
+    "tags": [
+      "hiking",
+      "hill",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "bn-temburong-sultan-haji-omar-ali-saifuddien-bridge",
+    "slug": "sultan-haji-omar-ali-saifuddien-bridge",
+    "region": "bn-temburong",
+    "region_name_vi": "Temburong",
+    "country": "brunei",
+    "name_vi": "Cầu Sultan Haji Omar Ali Saifuddien",
+    "name_en": "Sultan Haji Omar Ali Saifuddien Bridge",
+    "name_local": "Jambatan Sultan Haji Omar Ali Saifuddien",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 4.8858,
+      "lon": 115.084
+    },
+    "address_vi": "Vịnh Brunei, nối huyện Brunei-Muara với huyện Temburong",
+    "presentation_short_vi": "Cầu vượt biển dài khoảng 30 km khánh thành năm 2020, nối huyện Brunei-Muara với huyện Temburong qua vịnh Brunei; là một trong những cây cầu vượt biển dài nhất Đông Nam Á.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=115.084,4.8858&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=4.8858,115.084"
+    },
+    "tags": [
+      "top",
+      "bridge",
+      "landmark",
+      "modern"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "bn-temburong-bangar",
+    "slug": "bangar",
+    "region": "bn-temburong",
+    "region_name_vi": "Temburong",
+    "country": "brunei",
+    "name_vi": "Thị trấn Bangar",
+    "name_en": "Bangar",
+    "name_local": "Pekan Bangar",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 4.7074,
+      "lon": 115.0727
+    },
+    "address_vi": "huyện Temburong",
+    "presentation_short_vi": "Thị trấn trung tâm của huyện Temburong bên sông Temburong, là cửa ngõ đến Vườn quốc gia Ulu Temburong và các khu rừng bảo tồn.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=115.0727,4.7074&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=4.7074,115.0727"
+    },
+    "tags": [
+      "town",
+      "gateway"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

@@ -1,0 +1,316 @@
+[
+  {
+    "id": "my-penang-george-town",
+    "slug": "george-town",
+    "region": "my-penang",
+    "region_name_vi": "Penang",
+    "country": "malaysia",
+    "name_vi": "Phố cổ George Town (Di sản UNESCO)",
+    "name_en": "George Town",
+    "name_local": "George Town",
+    "categories": [
+      "square_street",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 5.4145,
+      "lon": 100.3292
+    },
+    "address_vi": "Đảo Penang (Pulau Pinang)",
+    "presentation_short_vi": "Thủ phủ bang Penang, khu phố cổ được UNESCO công nhận Di sản Thế giới năm 2008 nhờ kiến trúc thuộc địa, nhà phố Hoa và tranh tường đường phố.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=100.3292,5.4145&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=5.4145,100.3292"
+    },
+    "tags": [
+      "unesco",
+      "heritage",
+      "old_town"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-penang-kek-lok-si",
+    "slug": "kek-lok-si",
+    "region": "my-penang",
+    "region_name_vi": "Penang",
+    "country": "malaysia",
+    "name_vi": "Chùa Cực Lạc (Kek Lok Si)",
+    "name_en": "Kek Lok Si Temple",
+    "name_local": "Kuil Kek Lok Si",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 5.3997,
+      "lon": 100.2735
+    },
+    "address_vi": "Air Itam, Penang",
+    "presentation_short_vi": "Ngôi chùa Phật giáo lớn nhất Malaysia trên sườn đồi Air Itam, nổi bật với bảo tháp bảy tầng và tượng Quán Âm bằng đồng cao hơn 30 m.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=100.2735,5.3997&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=5.3997,100.2735"
+    },
+    "tags": [
+      "buddhist_temple",
+      "pagoda",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-penang-penang-hill",
+    "slug": "penang-hill",
+    "region": "my-penang",
+    "region_name_vi": "Penang",
+    "country": "malaysia",
+    "name_vi": "Đồi Penang (Bukit Bendera)",
+    "name_en": "Penang Hill",
+    "name_local": "Bukit Bendera",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 5.4247,
+      "lon": 100.269
+    },
+    "address_vi": "Air Itam, Penang",
+    "presentation_short_vi": "Cụm đồi cao khoảng 833 m với tuyến tàu leo núi (funicular), khí hậu mát mẻ và tầm nhìn toàn cảnh George Town cùng cầu Penang.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=100.269,5.4247&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=5.4247,100.269"
+    },
+    "tags": [
+      "hill",
+      "funicular",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-penang-fort-cornwallis",
+    "slug": "fort-cornwallis",
+    "region": "my-penang",
+    "region_name_vi": "Penang",
+    "country": "malaysia",
+    "name_vi": "Pháo đài Cornwallis",
+    "name_en": "Fort Cornwallis",
+    "name_local": "Kota Cornwallis",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 5.4206,
+      "lon": 100.3436
+    },
+    "address_vi": "Jalan Tun Syed Sheh Barakbah, George Town, Penang",
+    "presentation_short_vi": "Pháo đài hình sao do Công ty Đông Ấn Anh xây từ cuối thế kỷ 18 tại nơi Francis Light đổ bộ năm 1786, pháo đài lớn nhất còn lại ở Malaysia.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=100.3436,5.4206&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=5.4206,100.3436"
+    },
+    "tags": [
+      "fort",
+      "colonial",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-penang-cheong-fatt-tze-mansion",
+    "slug": "cheong-fatt-tze-mansion",
+    "region": "my-penang",
+    "region_name_vi": "Penang",
+    "country": "malaysia",
+    "name_vi": "Dinh thự Cheong Fatt Tze (Biệt thự Xanh)",
+    "name_en": "Cheong Fatt Tze Mansion (Blue Mansion)",
+    "name_local": "Rumah Agam Cheong Fatt Tze",
+    "categories": [
+      "monument",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 5.4194,
+      "lon": 100.335
+    },
+    "address_vi": "Leith Street, George Town, Penang",
+    "presentation_short_vi": "Dinh thự màu chàm xây cuối thế kỷ 19 của thương nhân Trương Bật Sĩ, kiệt tác kiến trúc Hoa từng đoạt giải bảo tồn UNESCO, nay là khách sạn di sản.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=100.335,5.4194&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=5.4194,100.335"
+    },
+    "tags": [
+      "mansion",
+      "heritage",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-penang-kapitan-keling-mosque",
+    "slug": "kapitan-keling-mosque",
+    "region": "my-penang",
+    "region_name_vi": "Penang",
+    "country": "malaysia",
+    "name_vi": "Thánh đường Kapitan Keling",
+    "name_en": "Kapitan Keling Mosque",
+    "name_local": "Masjid Kapitan Keling",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 5.4161,
+      "lon": 100.3369
+    },
+    "address_vi": "Jalan Masjid Kapitan Keling, George Town, Penang",
+    "presentation_short_vi": "Thánh đường Hồi giáo thế kỷ 19 do cộng đồng Ấn theo đạo Hồi dựng, với mái vòm và tháp kiểu Mogul, biểu tượng của khu phố cổ đa văn hóa.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=100.3369,5.4161&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=5.4161,100.3369"
+    },
+    "tags": [
+      "mosque",
+      "heritage",
+      "indian_muslim"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-penang-khoo-kongsi",
+    "slug": "khoo-kongsi",
+    "region": "my-penang",
+    "region_name_vi": "Penang",
+    "country": "malaysia",
+    "name_vi": "Nhà tổ họ Khâu (Khoo Kongsi)",
+    "name_en": "Khoo Kongsi",
+    "name_local": "Rumah Kongsi Khoo",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 5.4148,
+      "lon": 100.3383
+    },
+    "address_vi": "Cannon Square, George Town, Penang",
+    "presentation_short_vi": "Nhà thờ dòng họ Khâu của người Hoa Phúc Kiến, một trong những kongsi lộng lẫy nhất Đông Nam Á với chạm khắc gỗ và đá tinh xảo.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=100.3383,5.4148&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=5.4148,100.3383"
+    },
+    "tags": [
+      "clan_house",
+      "chinese",
+      "heritage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-penang-chew-jetty",
+    "slug": "chew-jetty",
+    "region": "my-penang",
+    "region_name_vi": "Penang",
+    "country": "malaysia",
+    "name_vi": "Cầu tàu họ Chew (Chew Jetty)",
+    "name_en": "Chew Jetty",
+    "name_local": "Jeti Chew",
+    "categories": [
+      "square_street",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 5.4131,
+      "lon": 100.3406
+    },
+    "address_vi": "Weld Quay, George Town, Penang",
+    "presentation_short_vi": "Làng nhà sàn trên biển của dòng họ Chew người Hoa, một trong các Clan Jetty còn tồn tại, nay là điểm tham quan di sản ven cảng.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=100.3406,5.4131&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=5.4131,100.3406"
+    },
+    "tags": [
+      "clan_jetty",
+      "waterfront",
+      "heritage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-penang-batu-ferringhi",
+    "slug": "batu-ferringhi",
+    "region": "my-penang",
+    "region_name_vi": "Penang",
+    "country": "malaysia",
+    "name_vi": "Bãi biển Batu Ferringhi",
+    "name_en": "Batu Ferringhi Beach",
+    "name_local": "Pantai Batu Ferringhi",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 5.4728,
+      "lon": 100.2506
+    },
+    "address_vi": "Batu Ferringhi, Penang",
+    "presentation_short_vi": "Bãi biển nghỉ dưỡng nổi tiếng nhất Penang với dải cát dài, chuỗi resort ven biển và chợ đêm sầm uất.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=100.2506,5.4728&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=5.4728,100.2506"
+    },
+    "tags": [
+      "beach",
+      "resort",
+      "night_market"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-penang-penang-national-park",
+    "slug": "penang-national-park",
+    "region": "my-penang",
+    "region_name_vi": "Penang",
+    "country": "malaysia",
+    "name_vi": "Vườn Quốc gia Penang",
+    "name_en": "Penang National Park",
+    "name_local": "Taman Negara Pulau Pinang",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 5.4667,
+      "lon": 100.1917
+    },
+    "address_vi": "Teluk Bahang, Penang",
+    "presentation_short_vi": "Vườn quốc gia nhỏ nhất Malaysia nhưng đa dạng sinh học cao, có hồ meromictic hiếm gặp, bãi biển hoang sơ và các đường mòn rừng nhiệt đới.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=100.1917,5.4667&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=5.4667,100.1917"
+    },
+    "tags": [
+      "national_park",
+      "nature",
+      "beach"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

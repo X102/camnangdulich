@@ -1,0 +1,191 @@
+[
+  {
+    "id": "id-central-papua-puncak-jaya",
+    "slug": "puncak-jaya",
+    "region": "id-central-papua",
+    "country": "indonesia",
+    "region_name_vi": "Trung Papua",
+    "name_vi": "Đỉnh Puncak Jaya (Kim tự tháp Carstensz)",
+    "name_en": "Puncak Jaya (Carstensz Pyramid)",
+    "name_local": "Puncak Jaya",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": -4.0789,
+      "lon": 137.1583
+    },
+    "address_vi": "Dãy Sudirman, huyện Mimika, tỉnh Trung Papua, Indonesia",
+    "presentation_short_vi": "Đỉnh núi cao nhất Indonesia và cả châu Đại Dương (4.884 m) thuộc dãy Sudirman, huyện Mimika. Là một trong 'Bảy đỉnh cao' (Seven Summits) và là nơi hiếm hoi còn sông băng gần xích đạo.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=137.1583,-4.0789&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-4.0789,137.1583"
+    },
+    "tags": [
+      "top",
+      "mountain",
+      "climbing",
+      "glacier"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-central-papua-danau-paniai",
+    "slug": "danau-paniai",
+    "region": "id-central-papua",
+    "country": "indonesia",
+    "region_name_vi": "Trung Papua",
+    "name_vi": "Hồ Paniai",
+    "name_en": "Lake Paniai",
+    "name_local": "Danau Paniai",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": -3.9022,
+      "lon": 136.3177
+    },
+    "address_vi": "Huyện Paniai, tỉnh Trung Papua, Indonesia",
+    "presentation_short_vi": "Hồ nước ngọt ở độ cao khoảng 1.766 m giữa cao nguyên Papua, từng được vinh danh là một trong những hồ đẹp nhất Indonesia. Mặt hồ trong xanh bao quanh bởi núi non và các làng của người Mee.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=136.3177,-3.9022&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-3.9022,136.3177"
+    },
+    "tags": [
+      "top",
+      "lake",
+      "nature",
+      "highland"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-central-papua-kwatisore",
+    "slug": "kwatisore",
+    "region": "id-central-papua",
+    "country": "indonesia",
+    "region_name_vi": "Trung Papua",
+    "name_vi": "Kwatisore (điểm ngắm cá nhám voi)",
+    "name_en": "Kwatisore Whale Sharks",
+    "name_local": "Kwatisore",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": -3.08,
+      "lon": 134.98
+    },
+    "address_vi": "Vịnh Cenderawasih, huyện Nabire, tỉnh Trung Papua, Indonesia",
+    "presentation_short_vi": "Vùng biển Kwatisore ở vịnh Cenderawasih (huyện Nabire) nổi tiếng là nơi bơi cùng cá nhám voi quanh năm, khi chúng tụ tập quanh những bè cá 'bagan' của ngư dân. Điểm đến bậc nhất cho trải nghiệm cá nhám voi ở Indonesia.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=134.98,-3.08&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-3.08,134.98"
+    },
+    "tags": [
+      "marine",
+      "whale_shark",
+      "diving"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-central-papua-danau-tigi",
+    "slug": "danau-tigi",
+    "region": "id-central-papua",
+    "country": "indonesia",
+    "region_name_vi": "Trung Papua",
+    "name_vi": "Hồ Tigi",
+    "name_en": "Lake Tigi",
+    "name_local": "Danau Tigi",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": -4.02,
+      "lon": 136.22
+    },
+    "address_vi": "Huyện Deiyai, tỉnh Trung Papua, Indonesia",
+    "presentation_short_vi": "Một trong ba hồ Wissel (cùng Paniai và Tage) ở huyện Deiyai, mặt nước tĩnh lặng nằm giữa vùng cao nguyên mát mẻ. Cảnh quan hồ - núi và văn hóa bản địa hấp dẫn du khách ưa khám phá.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=136.22,-4.02&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-4.02,136.22"
+    },
+    "tags": [
+      "lake",
+      "highland",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-central-papua-nabire",
+    "slug": "nabire",
+    "region": "id-central-papua",
+    "country": "indonesia",
+    "region_name_vi": "Trung Papua",
+    "name_vi": "Nabire",
+    "name_en": "Nabire",
+    "name_local": "Nabire",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": -3.3667,
+      "lon": 135.4967
+    },
+    "address_vi": "Huyện Nabire, tỉnh Trung Papua, Indonesia",
+    "presentation_short_vi": "Thủ phủ tỉnh Trung Papua bên vịnh Cenderawasih, cửa ngõ chính để đến điểm ngắm cá nhám voi Kwatisore. Thị trấn ven biển với bãi tắm, đảo nhỏ và rạn san hô gần bờ.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=135.4967,-3.3667&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-3.3667,135.4967"
+    },
+    "tags": [
+      "city",
+      "capital",
+      "coast",
+      "gateway"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-central-papua-timika",
+    "slug": "timika",
+    "region": "id-central-papua",
+    "country": "indonesia",
+    "region_name_vi": "Trung Papua",
+    "name_vi": "Timika",
+    "name_en": "Timika",
+    "name_local": "Timika",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": -4.547,
+      "lon": 136.887
+    },
+    "address_vi": "Huyện Mimika, tỉnh Trung Papua, Indonesia",
+    "presentation_short_vi": "Trung tâm huyện Mimika, cửa ngõ hàng không tới đỉnh Puncak Jaya và mỏ Grasberg. Vùng đất của người Kamoro nổi tiếng với nghệ thuật chạm khắc gỗ tinh xảo.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=136.887,-4.547&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-4.547,136.887"
+    },
+    "tags": [
+      "city",
+      "gateway",
+      "culture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

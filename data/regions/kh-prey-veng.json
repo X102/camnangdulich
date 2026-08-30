@@ -1,0 +1,191 @@
+[
+  {
+    "id": "kh-prey-veng-ba-phnom",
+    "slug": "ba-phnom",
+    "region": "kh-prey-veng",
+    "region_name_vi": "Prey Veng",
+    "country": "cambodia",
+    "name_vi": "Núi thiêng Ba Phnom",
+    "name_en": "Ba Phnom",
+    "name_local": "បាភ្នំ",
+    "categories": [
+      "monument",
+      "church"
+    ],
+    "coordinates": {
+      "lat": 11.233,
+      "lon": 105.367
+    },
+    "address_vi": "Xã Chheu Kach, huyện Ba Phnom, tỉnh Prey Veng",
+    "presentation_short_vi": "Ngọn đồi thiêng cao 139m, trung tâm văn hóa – tôn giáo cổ của vương quốc Phù Nam, nay có chùa và các đền thờ hành hương.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=105.367,11.233&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=11.233,105.367"
+    },
+    "tags": [
+      "sacred_hill",
+      "funan",
+      "pilgrimage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kh-prey-veng-prey-veng-city",
+    "slug": "prey-veng-city",
+    "region": "kh-prey-veng",
+    "region_name_vi": "Prey Veng",
+    "country": "cambodia",
+    "name_vi": "Thành phố Prey Veng",
+    "name_en": "Prey Veng City",
+    "name_local": "ក្រុងព្រៃវែង",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 11.483,
+      "lon": 105.317
+    },
+    "address_vi": "Thành phố Prey Veng, tỉnh Prey Veng",
+    "presentation_short_vi": "Thủ phủ tỉnh với kiến trúc thời thuộc địa, chợ trung tâm lớn và hồ nước rộng phía tây thành phố.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=105.317,11.483&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=11.483,105.317"
+    },
+    "tags": [
+      "provincial_capital",
+      "colonial",
+      "market"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kh-prey-veng-neak-loeung-bridge",
+    "slug": "neak-loeung-bridge",
+    "region": "kh-prey-veng",
+    "region_name_vi": "Prey Veng",
+    "country": "cambodia",
+    "name_vi": "Cầu Neak Loeung (Tsubasa)",
+    "name_en": "Neak Loeung Bridge (Tsubasa Bridge)",
+    "name_local": "ស្ពានអ្នកលឿង",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 11.276,
+      "lon": 105.2798
+    },
+    "address_vi": "Thị trấn Neak Loeung, huyện Peam Ro, tỉnh Prey Veng",
+    "presentation_short_vi": "Cầu dây văng dài hơn 2,2km bắc qua sông Mê Kông trên quốc lộ 1, cầu Mê Kông lớn đầu tiên nối miền đông Campuchia, do Nhật Bản tài trợ.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=105.2798,11.276&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=11.276,105.2798"
+    },
+    "tags": [
+      "mekong",
+      "bridge",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kh-prey-veng-preah-vihear-chan",
+    "slug": "preah-vihear-chan",
+    "region": "kh-prey-veng",
+    "region_name_vi": "Prey Veng",
+    "country": "cambodia",
+    "name_vi": "Đền Preah Vihear Chan",
+    "name_en": "Preah Vihear Chan Temple",
+    "name_local": "ប្រាសាទព្រះវិហារចាន់",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 11.238,
+      "lon": 105.372
+    },
+    "address_vi": "Gần núi Ba Phnom, huyện Ba Phnom, tỉnh Prey Veng",
+    "presentation_short_vi": "Phế tích đền gạch cổ nằm gần chân núi thiêng Ba Phnom, một trong số ít di tích Khmer tiền Angkor còn lại ở Prey Veng.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=105.372,11.238&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=11.238,105.372"
+    },
+    "tags": [
+      "brick_temple",
+      "ruins",
+      "pre_angkorian"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kh-prey-veng-ba-ray-an-det",
+    "slug": "ba-ray-an-det",
+    "region": "kh-prey-veng",
+    "region_name_vi": "Prey Veng",
+    "country": "cambodia",
+    "name_vi": "Khu du lịch Ba Ray An Det",
+    "name_en": "Ba Ray An Det Resort",
+    "name_local": "បារាយណ៍អណ្ដែត",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 11.483,
+      "lon": 105.29
+    },
+    "address_vi": "Làng Baray, cách TP. Prey Veng ~3 km về phía tây, tỉnh Prey Veng",
+    "presentation_short_vi": "Khu đất cao rợp bóng cổ thụ ở phía tây thành phố, điểm dã ngoại và sinh hoạt tâm linh quen thuộc của người dân địa phương.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=105.29,11.483&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=11.483,105.29"
+    },
+    "tags": [
+      "picnic",
+      "grove",
+      "local"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kh-prey-veng-preah-theat-chong-srok",
+    "slug": "preah-theat-chong-srok",
+    "region": "kh-prey-veng",
+    "region_name_vi": "Prey Veng",
+    "country": "cambodia",
+    "name_vi": "Đền Preah Theat Prei Chong Srok",
+    "name_en": "Preah Theat Prei Chong Srok Temple",
+    "name_local": "ប្រាសាទព្រះធាតុព្រៃចុងស្រុក",
+    "categories": [
+      "monument",
+      "church"
+    ],
+    "coordinates": {
+      "lat": 11.76,
+      "lon": 105.36
+    },
+    "address_vi": "Huyện Sithor Kandal, tỉnh Prey Veng",
+    "presentation_short_vi": "Phế tích đền gạch – sa thạch niên đại khoảng thế kỷ 7, nổi bật với những rễ cây cổ thụ ôm phủ lên tường tháp.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=105.36,11.76&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=11.76,105.36"
+    },
+    "tags": [
+      "brick_temple",
+      "pre_angkorian",
+      "ruins"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

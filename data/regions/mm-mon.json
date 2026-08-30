@@ -1,0 +1,279 @@
+[
+  {
+    "id": "mm-mon-kyaiktiyo-pagoda",
+    "slug": "kyaiktiyo-pagoda",
+    "region": "mm-mon",
+    "country": "myanmar",
+    "region_name_vi": "Mon",
+    "name_vi": "Chùa Kyaiktiyo (Hòn Đá Vàng)",
+    "name_en": "Kyaiktiyo Pagoda (Golden Rock)",
+    "name_local": "ကျိုက်ထီးရိုးဘုရား",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 17.4816,
+      "lon": 97.0979
+    },
+    "address_vi": "Núi Kyaiktiyo, gần thị trấn Kyaikto, bang Mon",
+    "rating": null,
+    "presentation_short_vi": "Chùa Kyaiktiyo tọa lạc trên tảng đá thiêng dát vàng chênh vênh bên vách núi, tương truyền được giữ thăng bằng nhờ một sợi tóc của Đức Phật. Đây là điểm hành hương Phật giáo nổi tiếng bậc nhất bang Mon.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=97.0979,17.4816&z=17&pt=97.0979,17.4816",
+      "google": "https://www.google.com/maps/search/?api=1&query=17.4816,97.0979"
+    },
+    "tags": [
+      "pagoda",
+      "pilgrimage",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "mm-mon-kyaikthanlan-pagoda",
+    "slug": "kyaikthanlan-pagoda",
+    "region": "mm-mon",
+    "country": "myanmar",
+    "region_name_vi": "Mon",
+    "name_vi": "Chùa Kyaikthanlan",
+    "name_en": "Kyaikthanlan Pagoda",
+    "name_local": "ကျိုက်သလ္လံစေတီ",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 16.4897,
+      "lon": 97.627
+    },
+    "address_vi": "Đồi Kyaikthanlan, thành phố Mawlamyine, bang Mon",
+    "rating": null,
+    "presentation_short_vi": "Chùa Kyaikthanlan là ngôi chùa cao nhất Mawlamyine, xây từ thế kỷ 9 và gắn với bài thơ 'Mandalay' của Rudyard Kipling. Từ sân chùa có thể ngắm toàn cảnh thành phố và sông Thanlwin.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=97.627,16.4897&z=17&pt=97.627,16.4897",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.4897,97.627"
+    },
+    "tags": [
+      "pagoda",
+      "viewpoint",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "mm-mon-win-sein-taw-ya",
+    "slug": "win-sein-taw-ya",
+    "region": "mm-mon",
+    "country": "myanmar",
+    "region_name_vi": "Mon",
+    "name_vi": "Tượng Phật nằm Win Sein Taw Ya",
+    "name_en": "Win Sein Taw Ya Reclining Buddha",
+    "name_local": "ဝင်းစိန်တောရ",
+    "categories": [
+      "monument",
+      "church"
+    ],
+    "coordinates": {
+      "lat": 16.2247,
+      "lon": 97.7269
+    },
+    "address_vi": "Gần thị trấn Mudon, bang Mon",
+    "rating": null,
+    "presentation_short_vi": "Win Sein Taw Ya là tượng Phật nằm khổng lồ dài hơn 180 m gần thị trấn Mudon, được xem là một trong những tượng Phật nằm lớn nhất thế giới.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=97.7269,16.2247&z=17&pt=97.7269,16.2247",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.2247,97.7269"
+    },
+    "tags": [
+      "buddha",
+      "statue",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "mm-mon-kyaikkami-yele-pagoda",
+    "slug": "kyaikkami-yele-pagoda",
+    "region": "mm-mon",
+    "country": "myanmar",
+    "region_name_vi": "Mon",
+    "name_vi": "Chùa Yele Kyaikkami",
+    "name_en": "Kyaikkami Yele Pagoda",
+    "name_local": "ကျိုက္ခမီရေလယ်ဘုရား",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 16.0806,
+      "lon": 97.5619
+    },
+    "address_vi": "Thị trấn Kyaikkami, bang Mon",
+    "rating": null,
+    "presentation_short_vi": "Chùa Yele Kyaikkami được dựng trên các rạn đá ngoài biển, nối với bờ bằng một hành lang; khi thủy triều lên chùa như nổi giữa biển.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=97.5619,16.0806&z=17&pt=97.5619,16.0806",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.0806,97.5619"
+    },
+    "tags": [
+      "pagoda",
+      "seaside",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "mm-mon-uzina-pagoda",
+    "slug": "uzina-pagoda",
+    "region": "mm-mon",
+    "country": "myanmar",
+    "region_name_vi": "Mon",
+    "name_vi": "Chùa Uzina",
+    "name_en": "U Zina Pagoda",
+    "name_local": "ဦးဇိနဘုရား",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 16.4839,
+      "lon": 97.635
+    },
+    "address_vi": "Thành phố Mawlamyine, bang Mon",
+    "rating": null,
+    "presentation_short_vi": "Chùa Uzina nằm trên đồi ở Mawlamyine, tương truyền lưu giữ xá lợi tóc Phật và là điểm ngắm hoàng hôn được ưa thích.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=97.635,16.4839&z=17&pt=97.635,16.4839",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.4839,97.635"
+    },
+    "tags": [
+      "pagoda",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "mm-mon-thanbyuzayat-war-cemetery",
+    "slug": "thanbyuzayat-war-cemetery",
+    "region": "mm-mon",
+    "country": "myanmar",
+    "region_name_vi": "Mon",
+    "name_vi": "Nghĩa trang chiến tranh Thanbyuzayat",
+    "name_en": "Thanbyuzayat War Cemetery",
+    "name_local": "သံဖြူဇရပ်စစ်သင်္ချိုင်း",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 15.9578,
+      "lon": 97.7256
+    },
+    "address_vi": "Thị trấn Thanbyuzayat, bang Mon",
+    "rating": null,
+    "presentation_short_vi": "Nghĩa trang chiến tranh Thanbyuzayat tưởng niệm các tù binh Đồng minh tử nạn khi xây tuyến đường sắt Thái–Miến thời Thế chiến II, gần điểm khởi đầu của tuyến đường.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=97.7256,15.9578&z=17&pt=97.7256,15.9578",
+      "google": "https://www.google.com/maps/search/?api=1&query=15.9578,97.7256"
+    },
+    "tags": [
+      "memorial",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "mm-mon-bilu-kyun",
+    "slug": "bilu-kyun",
+    "region": "mm-mon",
+    "country": "myanmar",
+    "region_name_vi": "Mon",
+    "name_vi": "Đảo Bilu (Đảo Quỷ)",
+    "name_en": "Bilu Kyun (Ogre Island)",
+    "name_local": "ဘီးလူးကျွန်း",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 16.3833,
+      "lon": 97.5333
+    },
+    "address_vi": "Ngoài khơi Mawlamyine, bang Mon",
+    "rating": null,
+    "presentation_short_vi": "Bilu Kyun (Đảo Quỷ) là hòn đảo lớn ngoài khơi Mawlamyine, nổi tiếng với các làng nghề thủ công truyền thống của người Mon.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=97.5333,16.3833&z=17&pt=97.5333,16.3833",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.3833,97.5333"
+    },
+    "tags": [
+      "island",
+      "nature",
+      "culture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "mm-mon-setse-beach",
+    "slug": "setse-beach",
+    "region": "mm-mon",
+    "country": "myanmar",
+    "region_name_vi": "Mon",
+    "name_vi": "Bãi biển Setse",
+    "name_en": "Setse Beach",
+    "name_local": "စက်စဲကမ်းခြေ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 15.865,
+      "lon": 97.6
+    },
+    "address_vi": "Thị trấn Thanbyuzayat, bang Mon",
+    "rating": null,
+    "presentation_short_vi": "Bãi biển Setse là bãi cát dài ven vịnh Bengal ở bang Mon, điểm nghỉ dưỡng và ngắm hoàng hôn của người dân địa phương.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=97.6,15.865&z=17&pt=97.6,15.865",
+      "google": "https://www.google.com/maps/search/?api=1&query=15.865,97.6"
+    },
+    "tags": [
+      "beach",
+      "seaside"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "mm-mon-kyaikmaraw-pagoda",
+    "slug": "kyaikmaraw-pagoda",
+    "region": "mm-mon",
+    "country": "myanmar",
+    "region_name_vi": "Mon",
+    "name_vi": "Chùa Kyaikmaraw",
+    "name_en": "Kyaikmaraw Pagoda",
+    "name_local": "ကျိုက်မရောဘုရား",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 16.4247,
+      "lon": 97.7472
+    },
+    "address_vi": "Thị trấn Kyaikmaraw, bang Mon",
+    "rating": null,
+    "presentation_short_vi": "Chùa Kyaikmaraw do nữ hoàng Shin Saw Bu xây năm 1455, nổi bật với các tượng Phật ngồi kiểu phương Tây và nền lát gạch men.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=97.7472,16.4247&z=17&pt=97.7472,16.4247",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.4247,97.7472"
+    },
+    "tags": [
+      "pagoda",
+      "heritage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

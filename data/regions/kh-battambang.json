@@ -1,0 +1,222 @@
+[
+  {
+    "id": "kh-battambang-ek-phnom",
+    "slug": "ek-phnom",
+    "region": "kh-battambang",
+    "region_name_vi": "Battambang",
+    "country": "cambodia",
+    "name_vi": "Đền Ek Phnom",
+    "name_en": "Ek Phnom",
+    "name_local": "ប្រាសាទឯកភ្នំ",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 13.1627,
+      "lon": 103.1878
+    },
+    "address_vi": "~9 km bắc TP. Battambang, huyện Ek Phnom",
+    "presentation_short_vi": "Đền Hindu thời Angkor (thế kỷ 11) bằng sa thạch với các chạm khắc tinh xảo, nằm cạnh một ngôi chùa hiện đại ở phía bắc thành phố.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=103.1878,13.1627&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.1627,103.1878"
+    },
+    "tags": [
+      "temple",
+      "angkor",
+      "ruins"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kh-battambang-phnom-sampeau",
+    "slug": "phnom-sampeau",
+    "region": "kh-battambang",
+    "region_name_vi": "Battambang",
+    "country": "cambodia",
+    "name_vi": "Núi Phnom Sampeau",
+    "name_en": "Phnom Sampeau",
+    "name_local": "ភ្នំសំពៅ",
+    "categories": [
+      "park_garden",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 13.0238,
+      "lon": 103.0995
+    },
+    "address_vi": "~12 km tây nam TP. Battambang, đường đi Pailin",
+    "presentation_short_vi": "Ngọn núi đá vôi với chùa trên đỉnh, 'Hang Tử thần' tưởng niệm nạn nhân Khmer Đỏ và màn hàng triệu con dơi bay ra khỏi hang lúc hoàng hôn.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=103.0995,13.0238&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.0238,103.0995"
+    },
+    "tags": [
+      "mountain",
+      "cave",
+      "bats"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kh-battambang-prasat-banan",
+    "slug": "prasat-banan",
+    "region": "kh-battambang",
+    "region_name_vi": "Battambang",
+    "country": "cambodia",
+    "name_vi": "Đền Prasat Banan",
+    "name_en": "Prasat Banan (Wat Banan)",
+    "name_local": "ប្រាសាទបាណន់",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 12.9511,
+      "lon": 103.1403
+    },
+    "address_vi": "~22 km nam TP. Battambang, huyện Banan",
+    "presentation_short_vi": "Đền núi Angkor thế kỷ 11 với năm tháp gợi liên tưởng Angkor Wat, lên bằng bậc thang dài và ngắm cảnh đồng quê xung quanh.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=103.1403,12.9511&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=12.9511,103.1403"
+    },
+    "tags": [
+      "temple",
+      "angkor",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kh-battambang-provincial-museum",
+    "slug": "provincial-museum",
+    "region": "kh-battambang",
+    "region_name_vi": "Battambang",
+    "country": "cambodia",
+    "name_vi": "Bảo tàng tỉnh Battambang",
+    "name_en": "Battambang Provincial Museum",
+    "name_local": "សារមន្ទីរខេត្តបាត់ដំបង",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 13.0951,
+      "lon": 103.1983
+    },
+    "address_vi": "Đại lộ ven sông, trung tâm TP. Battambang",
+    "presentation_short_vi": "Bảo tàng tỉnh trưng bày tượng và hiện vật điêu khắc Khmer từ thời tiền Angkor đến Angkor được sưu tầm quanh vùng Battambang.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=103.1983,13.0951&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.0951,103.1983"
+    },
+    "tags": [
+      "museum",
+      "history",
+      "angkor"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kh-battambang-phare-ponleu-selpak",
+    "slug": "phare-ponleu-selpak",
+    "region": "kh-battambang",
+    "region_name_vi": "Battambang",
+    "country": "cambodia",
+    "name_vi": "Trường xiếc Phare Ponleu Selpak",
+    "name_en": "Phare Ponleu Selpak",
+    "name_local": "ផ្សារពន្លឺសិល្បៈ",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 13.1114,
+      "lon": 103.1861
+    },
+    "address_vi": "Làng Anh Chanh, ngoại ô TP. Battambang",
+    "presentation_short_vi": "Trường nghệ thuật và gánh xiếc nổi tiếng của Campuchia, nơi biểu diễn xiếc đương đại kết hợp kịch, nhạc và nhào lộn.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=103.1861,13.1114&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.1114,103.1861"
+    },
+    "tags": [
+      "circus",
+      "arts",
+      "show"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kh-battambang-bamboo-train",
+    "slug": "bamboo-train",
+    "region": "kh-battambang",
+    "region_name_vi": "Battambang",
+    "country": "cambodia",
+    "name_vi": "Tàu tre (Norry)",
+    "name_en": "Bamboo Train (Norry)",
+    "name_local": "ណូរី",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 13.0847,
+      "lon": 103.2378
+    },
+    "address_vi": "Ga O Dambong, phía đông TP. Battambang",
+    "presentation_short_vi": "Chuyến 'tàu tre' (norry) độc đáo chạy trên đường ray cũ: sàn tre đặt trên trục bánh sắt và động cơ nhỏ, một trải nghiệm du lịch biểu tượng của Battambang.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=103.2378,13.0847&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.0847,103.2378"
+    },
+    "tags": [
+      "train",
+      "unique",
+      "fun"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kh-battambang-psar-nat",
+    "slug": "psar-nat",
+    "region": "kh-battambang",
+    "region_name_vi": "Battambang",
+    "country": "cambodia",
+    "name_vi": "Chợ Nat (Psar Nat)",
+    "name_en": "Psar Nat Central Market",
+    "name_local": "ផ្សារណាត់",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 13.1017,
+      "lon": 103.2028
+    },
+    "address_vi": "Trung tâm TP. Battambang, ven sông Sangker",
+    "presentation_short_vi": "Chợ trung tâm Battambang kiểu Art Deco xây năm 1937, đầu mối buôn bán sầm uất và điểm nhấn kiến trúc giữa lòng phố.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=103.2028,13.1017&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.1017,103.2028"
+    },
+    "tags": [
+      "market",
+      "artdeco",
+      "town"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  }
+]

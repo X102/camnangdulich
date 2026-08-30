@@ -1,0 +1,132 @@
+[
+  {
+    "id": "uz-syrdarya-regional-museum",
+    "slug": "regional-museum",
+    "region": "uz-syrdarya",
+    "region_name_vi": "Syrdarya",
+    "country": "uzbekistan",
+    "name_vi": "Bảo tàng địa phương Syrdarya",
+    "name_en": "Syrdarya Regional Studies Museum",
+    "name_local": "Sirdaryo viloyat oʻlkashunoslik muzeyi",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 40.4889,
+      "lon": 68.7834
+    },
+    "address_vi": "TP Gulistan, tỉnh Syrdarya, Uzbekistan",
+    "presentation_short_vi": "Bảo tàng nghiên cứu địa phương ở trung tâm Gulistan, trưng bày khảo cổ, lịch sử và văn hoá vùng thảo nguyên Mirzachul.",
+    "rating": null,
+    "tags": [
+      "museum"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "uz-syrdarya-gulistan-independence-square",
+    "slug": "gulistan-independence-square",
+    "region": "uz-syrdarya",
+    "region_name_vi": "Syrdarya",
+    "country": "uzbekistan",
+    "name_vi": "Quảng trường Độc lập Gulistan",
+    "name_en": "Gulistan Independence Square",
+    "name_local": "Guliston Mustaqillik maydoni",
+    "categories": [
+      "square_street",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 40.4903,
+      "lon": 68.785
+    },
+    "address_vi": "Trung tâm TP Gulistan, tỉnh Syrdarya, Uzbekistan",
+    "presentation_short_vi": "Quảng trường trung tâm của Gulistan với đài tưởng niệm Độc lập, là không gian lễ hội và biểu tượng của thủ phủ tỉnh Syrdarya.",
+    "rating": null,
+    "tags": [
+      "square",
+      "monument"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "uz-syrdarya-sardoba-reservoir",
+    "slug": "sardoba-reservoir",
+    "region": "uz-syrdarya",
+    "region_name_vi": "Syrdarya",
+    "country": "uzbekistan",
+    "name_vi": "Hồ chứa Sardoba",
+    "name_en": "Sardoba Reservoir",
+    "name_local": "Sardoba suv ombori",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 40.337,
+      "lon": 68.421
+    },
+    "address_vi": "Huyện Sardoba, tỉnh Syrdarya, Uzbekistan",
+    "presentation_short_vi": "Hồ chứa nước tưới lớn trên thảo nguyên Mirzachul, cấp nước cho vùng nông nghiệp bông vải rộng lớn của tỉnh Syrdarya.",
+    "rating": null,
+    "tags": [
+      "reservoir",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "uz-syrdarya-mirzachul-steppe",
+    "slug": "mirzachul-steppe",
+    "region": "uz-syrdarya",
+    "region_name_vi": "Syrdarya",
+    "country": "uzbekistan",
+    "name_vi": "Thảo nguyên Mirzachul (Thảo nguyên Đói)",
+    "name_en": "Mirzachul Steppe (Hungry Steppe)",
+    "name_local": "Mirzachoʻl",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 40.45,
+      "lon": 68.55
+    },
+    "address_vi": "Vùng thảo nguyên Mirzachul, tỉnh Syrdarya, Uzbekistan",
+    "presentation_short_vi": "Thảo nguyên Mirzachul mênh mông — vùng đất khô hạn được khai hoang thành vựa bông của Uzbekistan, trải dài quanh thủ phủ Gulistan.",
+    "rating": null,
+    "tags": [
+      "nature",
+      "steppe"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "uz-syrdarya-farhad-reservoir",
+    "slug": "farhad-reservoir",
+    "region": "uz-syrdarya",
+    "region_name_vi": "Syrdarya",
+    "country": "uzbekistan",
+    "name_vi": "Hồ chứa Farhad (gần Shirin)",
+    "name_en": "Farhad Reservoir",
+    "name_local": "Farhod suv ombori",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 40.22,
+      "lon": 69.05
+    },
+    "address_vi": "Gần TP Shirin, sông Syr Darya, tỉnh Syrdarya, Uzbekistan",
+    "presentation_short_vi": "Hồ chứa Farhad trên sông Syr Darya gần thị trấn Shirin, gắn với đập Farhad và cụm nhà máy điện Syrdarya lớn của đất nước.",
+    "rating": null,
+    "tags": [
+      "reservoir",
+      "river"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

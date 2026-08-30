@@ -1,0 +1,258 @@
+[
+  {
+    "id": "kr-jeju-hallasan",
+    "slug": "hallasan",
+    "region": "kr-jeju",
+    "region_name_vi": "Đảo Jeju",
+    "country": "korea",
+    "name_vi": "Núi Hallasan (Núi Hán Ra)",
+    "name_en": "Hallasan",
+    "name_local": "한라산",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 33.3617,
+      "lon": 126.5292
+    },
+    "address_vi": "Trung tâm đảo Jeju, thành phố Seogwipo",
+    "presentation_short_vi": "Ngọn núi lửa cao 1.947 m – đỉnh cao nhất Hàn Quốc, nằm giữa đảo Jeju và được UNESCO ghi danh. Trên đỉnh là hồ miệng núi lửa Baengnokdam, xung quanh có nhiều tuyến leo núi nổi tiếng.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.5292,33.3617&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=33.3617,126.5292"
+    },
+    "tags": [
+      "mountain",
+      "unesco",
+      "nature",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-jeju-seongsan-ilchulbong",
+    "slug": "seongsan-ilchulbong",
+    "region": "kr-jeju",
+    "region_name_vi": "Đảo Jeju",
+    "country": "korea",
+    "name_vi": "Đỉnh Seongsan Ilchulbong (Đỉnh Bình Minh)",
+    "name_en": "Seongsan Ilchulbong (Sunrise Peak)",
+    "name_local": "성산일출봉",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 33.458,
+      "lon": 126.9426
+    },
+    "address_vi": "Seongsan-ri, thành phố Seogwipo, phía đông đảo Jeju",
+    "presentation_short_vi": "Miệng núi lửa tuff hình chiếc chén khổng lồ nhô lên từ biển, được UNESCO công nhận Di sản Thiên nhiên Thế giới. Leo lên miệng núi ngắm bình minh trên biển là trải nghiệm biểu tượng của Jeju.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.9426,33.458&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=33.458,126.9426"
+    },
+    "tags": [
+      "unesco",
+      "nature",
+      "sunrise",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-jeju-manjanggul",
+    "slug": "manjanggul",
+    "region": "kr-jeju",
+    "region_name_vi": "Đảo Jeju",
+    "country": "korea",
+    "name_vi": "Hang dung nham Manjanggul",
+    "name_en": "Manjanggul Cave",
+    "name_local": "만장굴",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 33.5285,
+      "lon": 126.7714
+    },
+    "address_vi": "Gimnyeong-ri, thành phố Jeju, phía đông bắc đảo",
+    "presentation_short_vi": "Một trong những ống dung nham dài và hoàn chỉnh bậc nhất thế giới, thuộc hệ thống hang được UNESCO ghi danh. Khoảng 1 km mở cửa cho khách tham quan, nổi bật là cột dung nham cao 7,6 m.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.7714,33.5285&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=33.5285,126.7714"
+    },
+    "tags": [
+      "unesco",
+      "cave",
+      "nature",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-jeju-jeongbang-waterfall",
+    "slug": "jeongbang-waterfall",
+    "region": "kr-jeju",
+    "region_name_vi": "Đảo Jeju",
+    "country": "korea",
+    "name_vi": "Thác Jeongbang",
+    "name_en": "Jeongbang Waterfall",
+    "name_local": "정방폭포",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 33.2447,
+      "lon": 126.5745
+    },
+    "address_vi": "37 Chilsimni-ro, thành phố Seogwipo, đảo Jeju",
+    "presentation_short_vi": "Thác nước hiếm hoi ở châu Á đổ thẳng xuống biển từ vách đá cao khoảng 23 m. Khung cảnh nước trắng xóa tung bọt bên bờ biển Seogwipo khiến đây thành thác nổi tiếng nhất Jeju.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.5745,33.2447&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=33.2447,126.5745"
+    },
+    "tags": [
+      "waterfall",
+      "nature",
+      "sea",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-jeju-jusangjeolli",
+    "slug": "jusangjeolli",
+    "region": "kr-jeju",
+    "region_name_vi": "Đảo Jeju",
+    "country": "korea",
+    "name_vi": "Vách đá cột Jusangjeolli",
+    "name_en": "Jusangjeolli Cliff",
+    "name_local": "주상절리",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 33.2378,
+      "lon": 126.427
+    },
+    "address_vi": "Daepo-dong, thành phố Seogwipo, đảo Jeju",
+    "presentation_short_vi": "Bờ biển với hàng nghìn cột đá bazan hình lục giác dựng đứng, hình thành khi dung nham núi Hallasan gặp biển nguội lạnh. Sóng đập vào chân cột đá tạo nên cảnh tượng kỳ vĩ.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.427,33.2378&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=33.2378,126.427"
+    },
+    "tags": [
+      "nature",
+      "geology",
+      "sea",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-jeju-seopjikoji",
+    "slug": "seopjikoji",
+    "region": "kr-jeju",
+    "region_name_vi": "Đảo Jeju",
+    "country": "korea",
+    "name_vi": "Mũi đất Seopjikoji",
+    "name_en": "Seopjikoji",
+    "name_local": "섭지코지",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 33.4239,
+      "lon": 126.9296
+    },
+    "address_vi": "Goseong-ri, Seongsan-eup, thành phố Seogwipo, đảo Jeju",
+    "presentation_short_vi": "Dải đất nhô ra biển ở phía đông Jeju với đồng cỏ, vách đá núi lửa và ngọn hải đăng trắng. Mùa xuân phủ vàng hoa cải, tầm nhìn hướng thẳng ra đỉnh Seongsan Ilchulbong.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.9296,33.4239&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=33.4239,126.9296"
+    },
+    "tags": [
+      "cape",
+      "nature",
+      "view",
+      "photo"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-jeju-hyeopjae-beach",
+    "slug": "hyeopjae-beach",
+    "region": "kr-jeju",
+    "region_name_vi": "Đảo Jeju",
+    "country": "korea",
+    "name_vi": "Bãi biển Hyeopjae",
+    "name_en": "Hyeopjae Beach",
+    "name_local": "협재해수욕장",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 33.3936,
+      "lon": 126.2396
+    },
+    "address_vi": "Hallim-eup, thành phố Jeju, phía tây đảo",
+    "presentation_short_vi": "Bãi biển nước trong màu ngọc bích với cát trắng pha vỏ sò, nhìn ra đảo nhỏ Biyangdo. Nước nông và lặng nên rất được các gia đình ưa chuộng, hoàng hôn ở đây đặc biệt đẹp.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.2396,33.3936&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=33.3936,126.2396"
+    },
+    "tags": [
+      "beach",
+      "nature",
+      "sunset",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-jeju-osulloc",
+    "slug": "osulloc",
+    "region": "kr-jeju",
+    "region_name_vi": "Đảo Jeju",
+    "country": "korea",
+    "name_vi": "Bảo tàng trà O'sulloc",
+    "name_en": "O'sulloc Tea Museum",
+    "name_local": "오설록 티 뮤지엄",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 33.3057,
+      "lon": 126.2893
+    },
+    "address_vi": "15 Sinhwayeoksa-ro, Andeok-myeon, thành phố Seogwipo, đảo Jeju",
+    "presentation_short_vi": "Bảo tàng trà xanh bên đồi chè Seogwang bát ngát, giới thiệu văn hóa trà Hàn Quốc. Du khách vừa ngắm đồng chè vừa thưởng thức kem trà xanh và bánh nổi tiếng của thương hiệu.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.2893,33.3057&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=33.3057,126.2893"
+    },
+    "tags": [
+      "museum",
+      "tea",
+      "nature",
+      "cafe"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  }
+]

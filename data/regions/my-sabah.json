@@ -1,0 +1,312 @@
+[
+  {
+    "id": "my-sabah-mount-kinabalu",
+    "slug": "mount-kinabalu",
+    "region": "my-sabah",
+    "region_name_vi": "Sabah",
+    "country": "malaysia",
+    "name_vi": "Núi Kinabalu",
+    "name_en": "Mount Kinabalu",
+    "name_local": "Gunung Kinabalu",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 6.075,
+      "lon": 116.5586
+    },
+    "address_vi": "Ranau, Sabah",
+    "presentation_short_vi": "Đỉnh núi cao nhất vùng Đông Nam Á hải đảo (4.095 m), nằm trong Di sản Thiên nhiên Thế giới UNESCO, điểm leo núi trứ danh với hệ sinh thái đặc hữu phong phú.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=116.5586,6.075&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=6.075,116.5586"
+    },
+    "tags": [
+      "mountain",
+      "unesco",
+      "trekking"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-sabah-kinabalu-park",
+    "slug": "kinabalu-park",
+    "region": "my-sabah",
+    "region_name_vi": "Sabah",
+    "country": "malaysia",
+    "name_vi": "Công viên Kinabalu",
+    "name_en": "Kinabalu Park",
+    "name_local": "Taman Kinabalu",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 6.0044,
+      "lon": 116.5386
+    },
+    "address_vi": "Kundasang, Ranau, Sabah",
+    "presentation_short_vi": "Vườn quốc gia đầu tiên của Malaysia được UNESCO công nhận (2000), bao quanh núi Kinabalu, nổi tiếng với hoa lan, cây nắp ấm và đa dạng sinh học.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=116.5386,6.0044&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=6.0044,116.5386"
+    },
+    "tags": [
+      "national_park",
+      "unesco",
+      "biodiversity"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-sabah-sipadan-island",
+    "slug": "sipadan-island",
+    "region": "my-sabah",
+    "region_name_vi": "Sabah",
+    "country": "malaysia",
+    "name_vi": "Đảo Sipadan",
+    "name_en": "Sipadan Island",
+    "name_local": "Pulau Sipadan",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 4.1147,
+      "lon": 118.6289
+    },
+    "address_vi": "Ngoài khơi Semporna, Sabah",
+    "presentation_short_vi": "Hòn đảo san hô đại dương duy nhất của Malaysia, một trong những điểm lặn biển hàng đầu thế giới với rùa biển, cá mập và vách san hô sâu.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=118.6289,4.1147&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=4.1147,118.6289"
+    },
+    "tags": [
+      "island",
+      "diving",
+      "marine"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-sabah-kota-kinabalu-city-mosque",
+    "slug": "kota-kinabalu-city-mosque",
+    "region": "my-sabah",
+    "region_name_vi": "Sabah",
+    "country": "malaysia",
+    "name_vi": "Thánh đường Thành phố Kota Kinabalu",
+    "name_en": "Kota Kinabalu City Mosque",
+    "name_local": "Masjid Bandaraya Kota Kinabalu",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 5.9908,
+      "lon": 116.1092
+    },
+    "address_vi": "Likas, Kota Kinabalu, Sabah",
+    "presentation_short_vi": "Thánh đường soi bóng trên hồ nhân tạo ven vịnh Likas với mái vòm vàng lộng lẫy, một biểu tượng và điểm chụp ảnh nổi tiếng của Kota Kinabalu.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=116.1092,5.9908&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=5.9908,116.1092"
+    },
+    "tags": [
+      "mosque",
+      "floating",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-sabah-tunku-abdul-rahman-park",
+    "slug": "tunku-abdul-rahman-park",
+    "region": "my-sabah",
+    "region_name_vi": "Sabah",
+    "country": "malaysia",
+    "name_vi": "Công viên Biển Tunku Abdul Rahman",
+    "name_en": "Tunku Abdul Rahman Marine Park",
+    "name_local": "Taman Negara Tunku Abdul Rahman",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 5.975,
+      "lon": 116.0083
+    },
+    "address_vi": "Ngoài khơi Kota Kinabalu, Sabah",
+    "presentation_short_vi": "Cụm năm đảo (Gaya, Sapi, Manukan, Mamutik, Sulug) ngay ngoài khơi Kota Kinabalu, thiên đường tắm biển, lặn ngắm san hô và thể thao dưới nước.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=116.0083,5.975&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=5.975,116.0083"
+    },
+    "tags": [
+      "marine_park",
+      "islands",
+      "snorkeling"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-sabah-sepilok-orangutan",
+    "slug": "sepilok-orangutan",
+    "region": "my-sabah",
+    "region_name_vi": "Sabah",
+    "country": "malaysia",
+    "name_vi": "Trung tâm Phục hồi Đười ươi Sepilok",
+    "name_en": "Sepilok Orangutan Rehabilitation Centre",
+    "name_local": "Pusat Pemulihan Orang Utan Sepilok",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 5.8742,
+      "lon": 117.9483
+    },
+    "address_vi": "Sepilok, Sandakan, Sabah",
+    "presentation_short_vi": "Trung tâm cứu hộ và phục hồi đười ươi nổi tiếng thế giới giữa rừng bảo tồn Kabili–Sepilok, nơi du khách ngắm đười ươi được tập cho về với tự nhiên.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=117.9483,5.8742&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=5.8742,117.9483"
+    },
+    "tags": [
+      "wildlife",
+      "orangutan",
+      "conservation"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-sabah-sabah-state-museum",
+    "slug": "sabah-state-museum",
+    "region": "my-sabah",
+    "region_name_vi": "Sabah",
+    "country": "malaysia",
+    "name_vi": "Bảo tàng Bang Sabah",
+    "name_en": "Sabah State Museum",
+    "name_local": "Muzium Sabah",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 5.9678,
+      "lon": 116.0797
+    },
+    "address_vi": "Jalan Muzium, Kota Kinabalu, Sabah",
+    "presentation_short_vi": "Bảo tàng bang lấy cảm hứng từ nhà dài truyền thống của người Rungus và Murut, trưng bày lịch sử, dân tộc học và thiên nhiên đặc sắc của Sabah.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=116.0797,5.9678&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=5.9678,116.0797"
+    },
+    "tags": [
+      "museum",
+      "culture",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-sabah-atkinson-clock-tower",
+    "slug": "atkinson-clock-tower",
+    "region": "my-sabah",
+    "region_name_vi": "Sabah",
+    "country": "malaysia",
+    "name_vi": "Tháp đồng hồ Atkinson",
+    "name_en": "Atkinson Clock Tower",
+    "name_local": "Menara Jam Atkinson",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 5.9825,
+      "lon": 116.0778
+    },
+    "address_vi": "Jalan Tugu, Kota Kinabalu, Sabah",
+    "presentation_short_vi": "Tháp đồng hồ bằng gỗ cao 15,7 m xây năm 1905, một trong số ít công trình còn sót lại từ trước Thế chiến II ở Kota Kinabalu.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=116.0778,5.9825&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=5.9825,116.0778"
+    },
+    "tags": [
+      "clock_tower",
+      "colonial",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-sabah-signal-hill",
+    "slug": "signal-hill",
+    "region": "my-sabah",
+    "region_name_vi": "Sabah",
+    "country": "malaysia",
+    "name_vi": "Đài quan sát Đồi Tín hiệu (Signal Hill)",
+    "name_en": "Signal Hill Observatory Platform",
+    "name_local": "Bukit Bendera Kota Kinabalu",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 5.9825,
+      "lon": 116.0819
+    },
+    "address_vi": "Braddon Road, Kota Kinabalu, Sabah",
+    "presentation_short_vi": "Điểm cao nhất trung tâm Kota Kinabalu với đài ngắm cảnh nhìn ra thành phố, cảng và các đảo ngoài khơi, đẹp nhất vào lúc hoàng hôn.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=116.0819,5.9825&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=5.9825,116.0819"
+    },
+    "tags": [
+      "viewpoint",
+      "hilltop",
+      "sunset"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-sabah-danum-valley",
+    "slug": "danum-valley",
+    "region": "my-sabah",
+    "region_name_vi": "Sabah",
+    "country": "malaysia",
+    "name_vi": "Khu Bảo tồn Thung lũng Danum",
+    "name_en": "Danum Valley Conservation Area",
+    "name_local": "Kawasan Konservasi Lembah Danum",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 4.9667,
+      "lon": 117.8
+    },
+    "address_vi": "Lahad Datu, Sabah",
+    "presentation_short_vi": "Một trong những khu rừng mưa nguyên sinh vùng đất thấp còn nguyên vẹn nhất thế giới, nơi cư trú của voi lùn Borneo, đười ươi và báo gấm mây.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=117.8,4.9667&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=4.9667,117.8"
+    },
+    "tags": [
+      "rainforest",
+      "wildlife",
+      "conservation"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

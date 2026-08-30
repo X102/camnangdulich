@@ -1,0 +1,306 @@
+[
+  {
+    "id": "jp-wakayama-koyasan-okunoin",
+    "slug": "koyasan-okunoin",
+    "region": "jp-wakayama",
+    "country": "japan",
+    "region_name_vi": "Wakayama",
+    "name_vi": "Okunoin (Núi Koya)",
+    "name_en": "Okunoin",
+    "name_local": "高野山 奥之院",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 34.2149,
+      "lon": 135.6051
+    },
+    "address_vi": "550 Koyasan, Koya",
+    "presentation_short_vi": "Nghĩa trang lớn nhất Nhật Bản dẫn tới lăng mộ đại sư Kukai, giữa rừng tuyết tùng cổ thụ và hàng vạn đèn đá.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.2149,135.6051",
+      "yandex": "https://yandex.com/maps/?pt=135.6051,34.2149&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "unesco",
+      "sacred"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-wakayama-kongobuji",
+    "slug": "kongobuji",
+    "region": "jp-wakayama",
+    "country": "japan",
+    "region_name_vi": "Wakayama",
+    "name_vi": "Chùa Kongobu-ji",
+    "name_en": "Kongōbu-ji",
+    "name_local": "金剛峯寺",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 34.2136,
+      "lon": 135.5837
+    },
+    "address_vi": "132 Koyasan, Koya",
+    "presentation_short_vi": "Chùa tổng bản sơn của phái Chân Ngôn (Shingon), nổi tiếng với vườn đá Banryutei lớn nhất Nhật Bản.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.2136,135.5837",
+      "yandex": "https://yandex.com/maps/?pt=135.5837,34.2136&z=16&l=map"
+    },
+    "tags": [
+      "temple",
+      "unesco"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-wakayama-danjo-garan",
+    "slug": "danjo-garan",
+    "region": "jp-wakayama",
+    "country": "japan",
+    "region_name_vi": "Wakayama",
+    "name_vi": "Danjo Garan (Núi Koya)",
+    "name_en": "Danjō Garan",
+    "name_local": "壇上伽藍",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 34.213,
+      "lon": 135.5806
+    },
+    "address_vi": "152 Koyasan, Koya",
+    "presentation_short_vi": "Quần thể trung tâm của Núi Koya với Căn Bản Đại Tháp (Konpon Daito) sơn son rực rỡ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.213,135.5806",
+      "yandex": "https://yandex.com/maps/?pt=135.5806,34.213&z=16&l=map"
+    },
+    "tags": [
+      "temple",
+      "unesco"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-wakayama-kumano-nachi-taisha",
+    "slug": "kumano-nachi-taisha",
+    "region": "jp-wakayama",
+    "country": "japan",
+    "region_name_vi": "Wakayama",
+    "name_vi": "Đền Kumano Nachi Taisha",
+    "name_en": "Kumano Nachi Taisha",
+    "name_local": "熊野那智大社",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 33.6685,
+      "lon": 135.8904
+    },
+    "address_vi": "1 Nachisan, Nachikatsuura",
+    "presentation_short_vi": "Một trong ba đại đền Kumano, nằm trên sườn núi nhìn ra thác Nachi hùng vĩ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=33.6685,135.8904",
+      "yandex": "https://yandex.com/maps/?pt=135.8904,33.6685&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "unesco",
+      "shrine"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-wakayama-nachi-falls",
+    "slug": "nachi-falls",
+    "region": "jp-wakayama",
+    "country": "japan",
+    "region_name_vi": "Wakayama",
+    "name_vi": "Thác Nachi",
+    "name_en": "Nachi Falls (Nachi no Taki)",
+    "name_local": "那智の滝",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 33.6725,
+      "lon": 135.8944
+    },
+    "address_vi": "Nachisan, Nachikatsuura",
+    "presentation_short_vi": "Thác nước một tầng cao nhất Nhật Bản (133m), được tôn thờ như một vị thần và là biểu tượng của Kumano.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=33.6725,135.8944",
+      "yandex": "https://yandex.com/maps/?pt=135.8944,33.6725&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "waterfall",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-wakayama-kumano-hongu-taisha",
+    "slug": "kumano-hongu-taisha",
+    "region": "jp-wakayama",
+    "country": "japan",
+    "region_name_vi": "Wakayama",
+    "name_vi": "Đền Kumano Hongu Taisha",
+    "name_en": "Kumano Hongū Taisha",
+    "name_local": "熊野本宮大社",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 33.8403,
+      "lon": 135.7736
+    },
+    "address_vi": "1110 Hongucho Hongu, Tanabe",
+    "presentation_short_vi": "Đền trung tâm của hệ thống ba đền Kumano, điểm đến linh thiêng của tuyến hành hương cổ Kumano Kodo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=33.8403,135.7736",
+      "yandex": "https://yandex.com/maps/?pt=135.7736,33.8403&z=16&l=map"
+    },
+    "tags": [
+      "unesco",
+      "shrine",
+      "pilgrimage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-wakayama-kumano-hayatama-taisha",
+    "slug": "kumano-hayatama-taisha",
+    "region": "jp-wakayama",
+    "country": "japan",
+    "region_name_vi": "Wakayama",
+    "name_vi": "Đền Kumano Hayatama Taisha",
+    "name_en": "Kumano Hayatama Taisha",
+    "name_local": "熊野速玉大社",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 33.7338,
+      "lon": 135.9868
+    },
+    "address_vi": "1 Shingu, Shingu",
+    "presentation_short_vi": "Ngôi đền sơn son bên cửa sông Kumano, một trong ba đại đền của vùng đất thiêng Kumano.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=33.7338,135.9868",
+      "yandex": "https://yandex.com/maps/?pt=135.9868,33.7338&z=16&l=map"
+    },
+    "tags": [
+      "unesco",
+      "shrine"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-wakayama-wakayama-castle",
+    "slug": "wakayama-castle",
+    "region": "jp-wakayama",
+    "country": "japan",
+    "region_name_vi": "Wakayama",
+    "name_vi": "Lâu đài Wakayama",
+    "name_en": "Wakayama Castle",
+    "name_local": "和歌山城",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 34.2275,
+      "lon": 135.1716
+    },
+    "address_vi": "3 Ichibancho, Wakayama",
+    "presentation_short_vi": "Toà thành của một nhánh gia tộc Tokugawa, với tháp canh phục dựng giữa công viên cây xanh trong lòng thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.2275,135.1716",
+      "yandex": "https://yandex.com/maps/?pt=135.1716,34.2275&z=16&l=map"
+    },
+    "tags": [
+      "castle",
+      "park"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-wakayama-shirarahama-beach",
+    "slug": "shirarahama-beach",
+    "region": "jp-wakayama",
+    "country": "japan",
+    "region_name_vi": "Wakayama",
+    "name_vi": "Bãi biển Shirarahama",
+    "name_en": "Shirarahama Beach",
+    "name_local": "白良浜",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 33.6857,
+      "lon": 135.3448
+    },
+    "address_vi": "Shirahama, huyện Nishimuro",
+    "presentation_short_vi": "Bãi biển cát trắng mịn nổi tiếng tại khu nghỉ dưỡng suối nước nóng Shirahama.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=33.6857,135.3448",
+      "yandex": "https://yandex.com/maps/?pt=135.3448,33.6857&z=16&l=map"
+    },
+    "tags": [
+      "beach",
+      "resort"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-wakayama-sandanbeki",
+    "slug": "sandanbeki",
+    "region": "jp-wakayama",
+    "country": "japan",
+    "region_name_vi": "Wakayama",
+    "name_vi": "Vách đá Sandanbeki",
+    "name_en": "Sandanbeki Cliffs",
+    "name_local": "三段壁",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 33.6644,
+      "lon": 135.3369
+    },
+    "address_vi": "Shirahama, huyện Nishimuro",
+    "presentation_short_vi": "Vách đá dựng đứng cao hơn 50m bên biển, có động biển cổ từng là nơi giấu thuyền của thủy quân xưa.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=33.6644,135.3369",
+      "yandex": "https://yandex.com/maps/?pt=135.3369,33.6644&z=16&l=map"
+    },
+    "tags": [
+      "scenic",
+      "cliff"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

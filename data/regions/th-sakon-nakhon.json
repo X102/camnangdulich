@@ -1,0 +1,227 @@
+[
+  {
+    "id": "th-sakon-nakhon-nong-han-lake",
+    "slug": "nong-han-lake",
+    "region": "th-sakon-nakhon",
+    "country": "thailand",
+    "region_name_vi": "Sakon Nakhon",
+    "name_vi": "Hồ Nong Han",
+    "name_en": "Nong Han Lake",
+    "name_local": "หนองหาร",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 17.216667,
+      "lon": 104.166664
+    },
+    "address_vi": "TP. Sakon Nakhon, tỉnh Sakon Nakhon",
+    "rating": null,
+    "presentation_short_vi": "Hồ nước ngọt tự nhiên lớn nhất vùng Đông Bắc Thái Lan, điểm dạo thuyền, ngắm hoàng hôn và thưởng thức đặc sản nước ngọt.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=104.166664,17.216667&z=17&pt=104.166664,17.216667",
+      "google": "https://www.google.com/maps/search/?api=1&query=17.216667,104.166664"
+    },
+    "tags": [
+      "lake",
+      "nature",
+      "sunset",
+      "boat"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-sakon-nakhon-phu-phan-national-park",
+    "slug": "phu-phan-national-park",
+    "region": "th-sakon-nakhon",
+    "country": "thailand",
+    "region_name_vi": "Sakon Nakhon",
+    "name_vi": "Vườn quốc gia Phu Phan",
+    "name_en": "Phu Phan National Park",
+    "name_local": "อุทยานแห่งชาติภูพาน",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 17.0625,
+      "lon": 103.972778
+    },
+    "address_vi": "Huyện Mueang Sakon Nakhon, tỉnh Sakon Nakhon",
+    "rating": null,
+    "presentation_short_vi": "Vườn quốc gia rừng núi Phu Phan với thác nước, hang động và điểm ngắm cảnh, từng là căn cứ lịch sử trong rừng.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=103.972778,17.0625&z=17&pt=103.972778,17.0625",
+      "google": "https://www.google.com/maps/search/?api=1&query=17.0625,103.972778"
+    },
+    "tags": [
+      "national-park",
+      "mountain",
+      "waterfall",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-sakon-nakhon-wat-phra-that-choeng-chum",
+    "slug": "wat-phra-that-choeng-chum",
+    "region": "th-sakon-nakhon",
+    "country": "thailand",
+    "region_name_vi": "Sakon Nakhon",
+    "name_vi": "Chùa Wat Phra That Choeng Chum",
+    "name_en": "Wat Phra That Choeng Chum",
+    "name_local": "วัดพระธาตุเชิงชุมวรวิหาร",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 17.164091,
+      "lon": 104.152908
+    },
+    "address_vi": "TP. Sakon Nakhon, tỉnh Sakon Nakhon",
+    "rating": null,
+    "presentation_short_vi": "Ngôi chùa biểu tượng của Sakon Nakhon với bảo tháp kiểu Lào bao ngoài tháp Khmer cổ, thờ dấu chân Phật.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=104.152908,17.164091&z=17&pt=104.152908,17.164091",
+      "google": "https://www.google.com/maps/search/?api=1&query=17.164091,104.152908"
+    },
+    "tags": [
+      "temple",
+      "stupa",
+      "khmer",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-sakon-nakhon-wat-tham-pha-daen",
+    "slug": "wat-tham-pha-daen",
+    "region": "th-sakon-nakhon",
+    "country": "thailand",
+    "region_name_vi": "Sakon Nakhon",
+    "name_vi": "Chùa Wat Tham Pha Daen",
+    "name_en": "Wat Tham Pha Daen",
+    "name_local": "วัดถ้ำผาแด่น",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 17.029945,
+      "lon": 104.072472
+    },
+    "address_vi": "Huyện Mueang Sakon Nakhon, tỉnh Sakon Nakhon",
+    "rating": null,
+    "presentation_short_vi": "Chùa trên núi nổi tiếng với các bức phù điêu chạm khắc tinh xảo trên vách đá và điểm ngắm biển mây.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=104.072472,17.029945&z=17&pt=104.072472,17.029945",
+      "google": "https://www.google.com/maps/search/?api=1&query=17.029945,104.072472"
+    },
+    "tags": [
+      "temple",
+      "mountain",
+      "carving",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-sakon-nakhon-phra-that-narai-cheng-weng",
+    "slug": "phra-that-narai-cheng-weng",
+    "region": "th-sakon-nakhon",
+    "country": "thailand",
+    "region_name_vi": "Sakon Nakhon",
+    "name_vi": "Tháp Phra That Narai Cheng Weng",
+    "name_en": "Phra That Narai Cheng Weng",
+    "name_local": "พระธาตุนารายณ์เจงเวง",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 17.1871,
+      "lon": 104.0958
+    },
+    "address_vi": "Huyện Mueang Sakon Nakhon, tỉnh Sakon Nakhon",
+    "rating": null,
+    "presentation_short_vi": "Bảo tháp (prang) bằng sa thạch kiểu Khmer thế kỷ 11, di tích tôn giáo cổ ở ngoại ô thành phố Sakon Nakhon.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=104.0958,17.1871&z=17&pt=104.0958,17.1871",
+      "google": "https://www.google.com/maps/search/?api=1&query=17.1871,104.0958"
+    },
+    "tags": [
+      "khmer",
+      "stupa",
+      "ancient",
+      "heritage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-sakon-nakhon-phra-that-phu-pek",
+    "slug": "phra-that-phu-pek",
+    "region": "th-sakon-nakhon",
+    "country": "thailand",
+    "region_name_vi": "Sakon Nakhon",
+    "name_vi": "Tháp Phra That Phu Pek",
+    "name_en": "Phra That Phu Pek",
+    "name_local": "พระธาตุภูเพ็ก",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 17.1922,
+      "lon": 103.9372
+    },
+    "address_vi": "Huyện Phanna Nikhom, tỉnh Sakon Nakhon",
+    "rating": null,
+    "presentation_short_vi": "Đền tháp Khmer cổ trên đỉnh núi, phải leo hàng trăm bậc đá, từ đây có tầm nhìn bao quát vùng Phu Phan.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=103.9372,17.1922&z=17&pt=103.9372,17.1922",
+      "google": "https://www.google.com/maps/search/?api=1&query=17.1922,103.9372"
+    },
+    "tags": [
+      "khmer",
+      "hilltop",
+      "ancient",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-sakon-nakhon-phra-that-dum",
+    "slug": "phra-that-dum",
+    "region": "th-sakon-nakhon",
+    "country": "thailand",
+    "region_name_vi": "Sakon Nakhon",
+    "name_vi": "Tháp Phra That Dum",
+    "name_en": "Phra That Dum",
+    "name_local": "พระธาตุดุม",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 17.1439,
+      "lon": 104.1642
+    },
+    "address_vi": "Huyện Mueang Sakon Nakhon, tỉnh Sakon Nakhon",
+    "rating": null,
+    "presentation_short_vi": "Tháp gạch Khmer cổ nằm cách trung tâm Sakon Nakhon vài km, di tích lịch sử yên tĩnh.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=104.1642,17.1439&z=17&pt=104.1642,17.1439",
+      "google": "https://www.google.com/maps/search/?api=1&query=17.1439,104.1642"
+    },
+    "tags": [
+      "khmer",
+      "stupa",
+      "ancient",
+      "heritage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

@@ -1,0 +1,250 @@
+[
+  {
+    "id": "kr-north-jeolla-jeonju-hanok-village",
+    "slug": "jeonju-hanok-village",
+    "region": "kr-north-jeolla",
+    "region_name_vi": "Jeolla Bắc",
+    "country": "korea",
+    "name_vi": "Làng cổ Hanok Jeonju",
+    "name_en": "Jeonju Hanok Village",
+    "name_local": "전주한옥마을",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 35.8153,
+      "lon": 127.1524
+    },
+    "address_vi": "Wansan-gu, Jeonju, Jeolla Bắc",
+    "presentation_short_vi": "Khu phố cổ với hơn 700 ngôi nhà truyền thống hanok mái ngói cong; trung tâm văn hoá – ẩm thực nổi tiếng bậc nhất Hàn Quốc và là quê hương món cơm trộn bibimbap Jeonju.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.1524,35.8153&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.8153,127.1524"
+    },
+    "tags": [
+      "hanok",
+      "historic",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-north-jeolla-gyeonggijeon",
+    "slug": "gyeonggijeon",
+    "region": "kr-north-jeolla",
+    "region_name_vi": "Jeolla Bắc",
+    "country": "korea",
+    "name_vi": "Điện Gyeonggijeon",
+    "name_en": "Gyeonggijeon Shrine",
+    "name_local": "경기전",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 35.8156,
+      "lon": 127.15
+    },
+    "address_vi": "Làng cổ Hanok, Wansan-gu, Jeonju",
+    "presentation_short_vi": "Điện thờ xây năm 1410 lưu giữ chân dung vua Taejo – vị vua sáng lập triều Joseon; quần thể di tích cổ kính nằm ngay trong làng cổ Jeonju.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.15,35.8156&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.8156,127.15"
+    },
+    "tags": [
+      "shrine",
+      "historic",
+      "joseon"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-north-jeolla-jeondong-catholic-church",
+    "slug": "jeondong-catholic-church",
+    "region": "kr-north-jeolla",
+    "region_name_vi": "Jeolla Bắc",
+    "country": "korea",
+    "name_vi": "Nhà thờ Công giáo Jeondong",
+    "name_en": "Jeondong Catholic Church",
+    "name_local": "전동성당",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 35.8137,
+      "lon": 127.1489
+    },
+    "address_vi": "Wansan-gu, Jeonju, Jeolla Bắc",
+    "presentation_short_vi": "Nhà thờ Công giáo bằng gạch đỏ xây đầu thế kỷ 20 theo phong cách Romanesque – Byzantine, một trong những nhà thờ đẹp nhất vùng Honam.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.1489,35.8137&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.8137,127.1489"
+    },
+    "tags": [
+      "church",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-north-jeolla-naejangsan",
+    "slug": "naejangsan",
+    "region": "kr-north-jeolla",
+    "region_name_vi": "Jeolla Bắc",
+    "country": "korea",
+    "name_vi": "Vườn quốc gia Naejangsan",
+    "name_en": "Naejangsan National Park",
+    "name_local": "내장산국립공원",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.4867,
+      "lon": 126.9086
+    },
+    "address_vi": "Jeongeup, Jeolla Bắc",
+    "presentation_short_vi": "Vườn quốc gia nổi tiếng nhất Hàn Quốc về lá phong mùa thu, với đường hầm cây phong, thác nước, cáp treo và chùa Naejangsa.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.9086,35.4867&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.4867,126.9086"
+    },
+    "tags": [
+      "nature",
+      "autumn",
+      "park"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-north-jeolla-maisan-tapsa",
+    "slug": "maisan-tapsa",
+    "region": "kr-north-jeolla",
+    "region_name_vi": "Jeolla Bắc",
+    "country": "korea",
+    "name_vi": "Núi Maisan & chùa Tapsa",
+    "name_en": "Maisan (Tapsa Temple)",
+    "name_local": "마이산 탑사",
+    "categories": [
+      "park_garden",
+      "church"
+    ],
+    "coordinates": {
+      "lat": 35.7584,
+      "lon": 127.4112
+    },
+    "address_vi": "Huyện Jinan, Jeolla Bắc",
+    "presentation_short_vi": "Ngọn núi đôi hình 'tai ngựa' độc đáo; dưới chân là chùa Tapsa với hàng chục tháp đá xếp tay kỳ lạ đứng vững hơn một thế kỷ.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.4112,35.7584&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.7584,127.4112"
+    },
+    "tags": [
+      "mountain",
+      "temple",
+      "unique"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-north-jeolla-geumsansa",
+    "slug": "geumsansa",
+    "region": "kr-north-jeolla",
+    "region_name_vi": "Jeolla Bắc",
+    "country": "korea",
+    "name_vi": "Chùa Geumsansa",
+    "name_en": "Geumsansa Temple",
+    "name_local": "금산사",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 35.723,
+      "lon": 127.0537
+    },
+    "address_vi": "Núi Moaksan, Gimje, Jeolla Bắc",
+    "presentation_short_vi": "Ngôi chùa cổ hơn 1.400 năm trên núi Moaksan, nổi bật với điện Mireukjeon ba tầng bằng gỗ – bảo vật quốc gia của Hàn Quốc.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.0537,35.723&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.723,127.0537"
+    },
+    "tags": [
+      "temple",
+      "historic",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-north-jeolla-deokjin-park",
+    "slug": "deokjin-park",
+    "region": "kr-north-jeolla",
+    "region_name_vi": "Jeolla Bắc",
+    "country": "korea",
+    "name_vi": "Công viên Deokjin",
+    "name_en": "Deokjin Park",
+    "name_local": "덕진공원",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.846,
+      "lon": 127.1328
+    },
+    "address_vi": "Deokjin-gu, Jeonju, Jeolla Bắc",
+    "presentation_short_vi": "Công viên có hồ sen lớn, cầu treo và đài phun nước; điểm dạo chơi được yêu thích của người dân Jeonju, rực rỡ nhất mùa sen nở.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.1328,35.846&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.846,127.1328"
+    },
+    "tags": [
+      "park",
+      "lake",
+      "lotus"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-north-jeolla-chaeseokgang",
+    "slug": "chaeseokgang",
+    "region": "kr-north-jeolla",
+    "region_name_vi": "Jeolla Bắc",
+    "country": "korea",
+    "name_vi": "Vách đá Chaeseokgang",
+    "name_en": "Chaeseokgang Cliffs",
+    "name_local": "채석강",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.6199,
+      "lon": 126.522
+    },
+    "address_vi": "Bán đảo Byeonsan, Buan, Jeolla Bắc",
+    "presentation_short_vi": "Vách đá trầm tích xếp lớp như chồng sách khổng lồ bên bờ biển Byeonsan; kỳ quan địa chất nổi tiếng lúc thuỷ triều rút.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.522,35.6199&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.6199,126.522"
+    },
+    "tags": [
+      "nature",
+      "coast",
+      "geology"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

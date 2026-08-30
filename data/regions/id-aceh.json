@@ -1,0 +1,316 @@
+[
+  {
+    "id": "id-aceh-baiturrahman",
+    "slug": "baiturrahman",
+    "region": "id-aceh",
+    "country": "indonesia",
+    "region_name_vi": "Aceh",
+    "name_vi": "Thánh đường lớn Baiturrahman",
+    "name_en": "Baiturrahman Grand Mosque",
+    "name_local": "Masjid Raya Baiturrahman",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 5.5544,
+      "lon": 95.3178
+    },
+    "address_vi": "Trung tâm Banda Aceh, Aceh, Indonesia",
+    "presentation_short_vi": "Thánh đường lớn Baiturrahman ở trung tâm Banda Aceh là biểu tượng của tỉnh Aceh, với mái vòm đen và những ngọn tháp trắng soi bóng xuống hồ nước. Công trình hiện nay do người Hà Lan xây năm 1881 và đã trụ vững qua trận sóng thần năm 2004.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=95.3178,5.5544&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=5.5544,95.3178"
+    },
+    "tags": [
+      "top",
+      "mosque",
+      "landmark",
+      "culture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-aceh-tsunami-museum",
+    "slug": "tsunami-museum",
+    "region": "id-aceh",
+    "country": "indonesia",
+    "region_name_vi": "Aceh",
+    "name_vi": "Bảo tàng Sóng thần Aceh",
+    "name_en": "Aceh Tsunami Museum",
+    "name_local": "Museum Tsunami Aceh",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 5.5477,
+      "lon": 95.3151
+    },
+    "address_vi": "Đường Sultan Iskandar Muda, Banda Aceh, Aceh, Indonesia",
+    "presentation_short_vi": "Bảo tàng Sóng thần Aceh do kiến trúc sư Ridwan Kamil thiết kế, khánh thành năm 2009 để tưởng niệm thảm họa sóng thần 2004. Không gian bên trong tái hiện cảm giác sóng dữ và tôn vinh những nạn nhân đã khuất.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=95.3151,5.5477&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=5.5477,95.3151"
+    },
+    "tags": [
+      "museum",
+      "history",
+      "memorial"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-aceh-pulau-weh",
+    "slug": "pulau-weh",
+    "region": "id-aceh",
+    "country": "indonesia",
+    "region_name_vi": "Aceh",
+    "name_vi": "Đảo Weh (Sabang)",
+    "name_en": "Weh Island",
+    "name_local": "Pulau Weh",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 5.82,
+      "lon": 95.28
+    },
+    "address_vi": "Thành phố Sabang, Aceh, Indonesia",
+    "presentation_short_vi": "Đảo Weh (Sabang) là hòn đảo cực tây bắc của Indonesia, nổi tiếng với nước biển trong vắt, rạn san hô và các điểm lặn tuyệt đẹp. Đây là điểm khởi đầu địa lý của quần đảo Indonesia và là thiên đường nghỉ dưỡng biển.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=95.28,5.82&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=5.82,95.28"
+    },
+    "tags": [
+      "top",
+      "island",
+      "beach",
+      "diving"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-aceh-kilometer-zero",
+    "slug": "kilometer-zero",
+    "region": "id-aceh",
+    "country": "indonesia",
+    "region_name_vi": "Aceh",
+    "name_vi": "Đài Cây số 0",
+    "name_en": "Kilometer Zero Monument of Indonesia",
+    "name_local": "Tugu Nol Kilometer Indonesia",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 5.8945,
+      "lon": 95.2137
+    },
+    "address_vi": "Iboih, Sukakarya, Sabang, Aceh, Indonesia",
+    "presentation_short_vi": "Đài Cây số 0 (Tugu Nol Kilometer) trên đảo Weh đánh dấu điểm cực tây của lãnh thổ Indonesia. Đài quan sát nhìn ra biển Andaman là nơi du khách chụp ảnh lưu niệm 'điểm bắt đầu' của đất nước.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=95.2137,5.8945&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=5.8945,95.2137"
+    },
+    "tags": [
+      "monument",
+      "landmark",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-aceh-iboih-beach",
+    "slug": "iboih-beach",
+    "region": "id-aceh",
+    "country": "indonesia",
+    "region_name_vi": "Aceh",
+    "name_vi": "Bãi biển Iboih",
+    "name_en": "Iboih Beach",
+    "name_local": "Pantai Iboih",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 5.8722,
+      "lon": 95.2589
+    },
+    "address_vi": "Iboih, Sukakarya, Sabang, Aceh, Indonesia",
+    "presentation_short_vi": "Bãi biển Iboih trên đảo Weh có làn nước xanh ngọc và rạn san hô ngay sát bờ, lý tưởng cho lặn ống thở và lặn bình khí. Từ đây có thể đi thuyền ngắn ra đảo Rubiah gần kề.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=95.2589,5.8722&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=5.8722,95.2589"
+    },
+    "tags": [
+      "beach",
+      "snorkeling",
+      "diving",
+      "island"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-aceh-pltd-apung",
+    "slug": "pltd-apung",
+    "region": "id-aceh",
+    "country": "indonesia",
+    "region_name_vi": "Aceh",
+    "name_vi": "Tàu điện PLTD Apung",
+    "name_en": "PLTD Apung (Tsunami Power Ship)",
+    "name_local": "Kapal PLTD Apung 1",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 5.5581,
+      "lon": 95.3089
+    },
+    "address_vi": "Punge Blang Cut, Banda Aceh, Aceh, Indonesia",
+    "presentation_short_vi": "Tàu phát điện PLTD Apung 1 nặng khoảng 2.600 tấn bị sóng thần 2004 cuốn sâu vào đất liền giữa thành phố Banda Aceh. Con tàu nay được giữ lại làm đài tưởng niệm và chứng tích sức mạnh khủng khiếp của thảm họa.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=95.3089,5.5581&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=5.5581,95.3089"
+    },
+    "tags": [
+      "monument",
+      "history",
+      "memorial"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-aceh-gunongan",
+    "slug": "gunongan",
+    "region": "id-aceh",
+    "country": "indonesia",
+    "region_name_vi": "Aceh",
+    "name_vi": "Gunongan",
+    "name_en": "Gunongan",
+    "name_local": "Gunongan",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 5.5561,
+      "lon": 95.3175
+    },
+    "address_vi": "Trung tâm Banda Aceh, Aceh, Indonesia",
+    "presentation_short_vi": "Gunongan là công trình lịch sử màu trắng do vua Iskandar Muda xây trong thế kỷ 17 làm nơi vui chơi cho hoàng hậu. Kiến trúc hình những đỉnh núi cách điệu này là di tích quý của vương quốc Hồi giáo Aceh xưa.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=95.3175,5.5561&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=5.5561,95.3175"
+    },
+    "tags": [
+      "monument",
+      "history",
+      "culture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-aceh-lampuuk-beach",
+    "slug": "lampuuk-beach",
+    "region": "id-aceh",
+    "country": "indonesia",
+    "region_name_vi": "Aceh",
+    "name_vi": "Bãi biển Lampuuk",
+    "name_en": "Lampuuk Beach",
+    "name_local": "Pantai Lampuuk",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 5.4869,
+      "lon": 95.2483
+    },
+    "address_vi": "Lhoknga, huyện Aceh Besar, Aceh, Indonesia",
+    "presentation_short_vi": "Bãi biển Lampuuk ở Aceh Besar nổi tiếng với dải cát trắng dài, sóng đẹp để lướt ván và hoàng hôn rực rỡ. Vùng biển này đã hồi sinh mạnh mẽ sau sóng thần và trở thành điểm dã ngoại cuối tuần được yêu thích.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=95.2483,5.4869&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=5.4869,95.2483"
+    },
+    "tags": [
+      "beach",
+      "surf",
+      "sunset"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-aceh-pulau-rubiah",
+    "slug": "pulau-rubiah",
+    "region": "id-aceh",
+    "country": "indonesia",
+    "region_name_vi": "Aceh",
+    "name_vi": "Đảo Rubiah",
+    "name_en": "Rubiah Island",
+    "name_local": "Pulau Rubiah",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 5.8817,
+      "lon": 95.2419
+    },
+    "address_vi": "Iboih, Sabang, Aceh, Indonesia",
+    "presentation_short_vi": "Đảo Rubiah nhỏ nằm ngoài khơi Iboih được mệnh danh là 'vườn biển' nhờ rạn san hô rực rỡ và đàn cá phong phú. Đây là một trong những điểm lặn ống thở đẹp nhất quanh đảo Weh.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=95.2419,5.8817&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=5.8817,95.2419"
+    },
+    "tags": [
+      "island",
+      "snorkeling",
+      "diving",
+      "marine"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-aceh-cut-nyak-dhien-house",
+    "slug": "cut-nyak-dhien-house",
+    "region": "id-aceh",
+    "country": "indonesia",
+    "region_name_vi": "Aceh",
+    "name_vi": "Nhà Cut Nyak Dhien",
+    "name_en": "Cut Nyak Dhien House",
+    "name_local": "Rumah Cut Nyak Dhien",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 5.5083,
+      "lon": 95.2611
+    },
+    "address_vi": "Lampisang, huyện Aceh Besar, Aceh, Indonesia",
+    "presentation_short_vi": "Nhà Cut Nyak Dhien ở Lampisang là bản phục dựng ngôi nhà gỗ truyền thống của nữ anh hùng dân tộc Cut Nyak Dhien, người lãnh đạo kháng chiến chống Hà Lan. Ngôi nhà nay là bảo tàng lưu giữ di vật và tinh thần đấu tranh của người Aceh.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=95.2611,5.5083&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=5.5083,95.2611"
+    },
+    "tags": [
+      "museum",
+      "history",
+      "culture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

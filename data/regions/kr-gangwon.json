@@ -1,0 +1,290 @@
+[
+  {
+    "id": "kr-gangwon-nami-island",
+    "slug": "nami-island",
+    "region": "kr-gangwon",
+    "region_name_vi": "Gangwon",
+    "country": "korea",
+    "name_vi": "Đảo Nami (Namiseom)",
+    "name_en": "Nami Island (Namiseom)",
+    "name_local": "남이섬",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 37.7906,
+      "lon": 127.5253
+    },
+    "address_vi": "Thành phố Chuncheon, tỉnh Gangwon",
+    "presentation_short_vi": "Hòn đảo hình nửa vầng trăng nổi tiếng với hàng cây metasequoia thẳng tắp, bối cảnh kinh điển của phim Bản tình ca mùa đông. Điểm hẹn lãng mạn rợp lá vàng, lá đỏ mỗi mùa thu.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.5253,37.7906&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=37.7906,127.5253"
+    },
+    "tags": [
+      "island",
+      "kdrama",
+      "autumn",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-gangwon-seoraksan",
+    "slug": "seoraksan",
+    "region": "kr-gangwon",
+    "region_name_vi": "Gangwon",
+    "country": "korea",
+    "name_vi": "Vườn quốc gia núi Seorak (Seoraksan)",
+    "name_en": "Seoraksan National Park",
+    "name_local": "설악산국립공원",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 38.1197,
+      "lon": 128.4655
+    },
+    "address_vi": "Thành phố Sokcho, tỉnh Gangwon",
+    "presentation_short_vi": "Dãy núi đẹp bậc nhất Hàn Quốc với đỉnh Daecheongbong cao 1.708 m, vách đá Ulsanbawi và cáp treo. Rực rỡ lá đỏ mùa thu, phủ tuyết mùa đông, thu hút người leo núi khắp nơi.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=128.4655,38.1197&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=38.1197,128.4655"
+    },
+    "tags": [
+      "mountain",
+      "nature",
+      "autumn",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-gangwon-sinheungsa",
+    "slug": "sinheungsa",
+    "region": "kr-gangwon",
+    "region_name_vi": "Gangwon",
+    "country": "korea",
+    "name_vi": "Chùa Sinheungsa (núi Seorak)",
+    "name_en": "Sinheungsa Temple",
+    "name_local": "신흥사",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 38.169,
+      "lon": 128.496
+    },
+    "address_vi": "Thành phố Sokcho, tỉnh Gangwon",
+    "presentation_short_vi": "Ngôi chùa cổ dưới chân núi Seorak, cửa ngõ vào vườn quốc gia, nổi bật với tượng Phật đồng Tongil Daebul khổng lồ cao 14,6 m. Điểm hành hương và khởi đầu các cung leo núi.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=128.496,38.169&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=38.169,128.496"
+    },
+    "tags": [
+      "temple",
+      "buddhism",
+      "seorak",
+      "big-buddha"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-gangwon-gyeongpo-beach",
+    "slug": "gyeongpo-beach",
+    "region": "kr-gangwon",
+    "region_name_vi": "Gangwon",
+    "country": "korea",
+    "name_vi": "Bãi biển Gyeongpo (Gangneung)",
+    "name_en": "Gyeongpo Beach",
+    "name_local": "경포해변",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 37.8055,
+      "lon": 128.9082
+    },
+    "address_vi": "Thành phố Gangneung, tỉnh Gangwon",
+    "presentation_short_vi": "Bãi biển cát trắng dài nổi tiếng nhất bờ Đông, cạnh hồ Gyeongpo và rừng thông. Điểm tắm biển mùa hè, ngắm bình minh và đón năm mới quen thuộc của người Hàn.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=128.9082,37.8055&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=37.8055,128.9082"
+    },
+    "tags": [
+      "beach",
+      "sunrise",
+      "east-coast",
+      "summer"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-gangwon-ojukheon",
+    "slug": "ojukheon",
+    "region": "kr-gangwon",
+    "region_name_vi": "Gangwon",
+    "country": "korea",
+    "name_vi": "Ojukheon (Ô Trúc Hiên)",
+    "name_en": "Ojukheon",
+    "name_local": "오죽헌",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 37.7786,
+      "lon": 128.8778
+    },
+    "address_vi": "Thành phố Gangneung, tỉnh Gangwon",
+    "presentation_short_vi": "Một trong những ngôi nhà gỗ cổ nhất Hàn Quốc, nơi sinh của học giả Yulgok Yi I và nữ danh họa Sin Saimdang in trên tờ tiền 5.000 và 50.000 won. Có bảo tàng và vườn trúc đen.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=128.8778,37.7786&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=37.7786,128.8778"
+    },
+    "tags": [
+      "historic-house",
+      "joseon",
+      "museum",
+      "hanok"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-gangwon-woljeongsa",
+    "slug": "woljeongsa",
+    "region": "kr-gangwon",
+    "region_name_vi": "Gangwon",
+    "country": "korea",
+    "name_vi": "Chùa Woljeongsa (núi Odae)",
+    "name_en": "Woljeongsa Temple",
+    "name_local": "월정사",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 37.7314,
+      "lon": 128.5924
+    },
+    "address_vi": "Huyện Pyeongchang, tỉnh Gangwon",
+    "presentation_short_vi": "Ngôi chùa nghìn năm tuổi trên núi Odaesan, nổi bật với tháp đá bát giác chín tầng thời Goryeo và con đường rừng tùng cổ thụ dẫn vào chùa. Điểm thiền tịnh giữa thiên nhiên.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=128.5924,37.7314&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=37.7314,128.5924"
+    },
+    "tags": [
+      "temple",
+      "goryeo",
+      "forest",
+      "buddhism"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-gangwon-naksansa",
+    "slug": "naksansa",
+    "region": "kr-gangwon",
+    "region_name_vi": "Gangwon",
+    "country": "korea",
+    "name_vi": "Chùa Naksansa (Yangyang)",
+    "name_en": "Naksansa Temple",
+    "name_local": "낙산사",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 38.123,
+      "lon": 128.6285
+    },
+    "address_vi": "Huyện Yangyang, tỉnh Gangwon",
+    "presentation_short_vi": "Ngôi chùa ven biển tuyệt đẹp trên vách đá nhìn ra biển Đông, với tượng Quan Âm trắng khổng lồ và gác Uisangdae ngắm bình minh. Một trong ba thánh địa Quan Âm của Hàn Quốc.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=128.6285,38.123&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=38.123,128.6285"
+    },
+    "tags": [
+      "temple",
+      "seaside",
+      "sunrise",
+      "gwaneum"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-gangwon-jeongdongjin",
+    "slug": "jeongdongjin",
+    "region": "kr-gangwon",
+    "region_name_vi": "Gangwon",
+    "country": "korea",
+    "name_vi": "Ga biển Jeongdongjin",
+    "name_en": "Jeongdongjin",
+    "name_local": "정동진",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 37.6912,
+      "lon": 129.0335
+    },
+    "address_vi": "Thành phố Gangneung, tỉnh Gangwon",
+    "presentation_short_vi": "Bãi biển có nhà ga nằm sát mép nước nhất thế giới, điểm ngắm bình minh trứ danh và bối cảnh phim Đồng hồ cát. Có đồng hồ cát khổng lồ và tàu du lịch trên đồi.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=129.0335,37.6912&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=37.6912,129.0335"
+    },
+    "tags": [
+      "beach",
+      "sunrise",
+      "railway",
+      "kdrama"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-gangwon-legoland-korea",
+    "slug": "legoland-korea",
+    "region": "kr-gangwon",
+    "region_name_vi": "Gangwon",
+    "country": "korea",
+    "name_vi": "Legoland Korea (Chuncheon)",
+    "name_en": "Legoland Korea Resort",
+    "name_local": "레고랜드 코리아",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 37.8118,
+      "lon": 127.7295
+    },
+    "address_vi": "Đảo Jungdo, thành phố Chuncheon, tỉnh Gangwon",
+    "presentation_short_vi": "Công viên giải trí chủ đề LEGO đầu tiên của Hàn Quốc, khai trương năm 2022 trên đảo Jungdo giữa sông Hàn. Có hơn 40 trò chơi, mô hình LEGO khổng lồ và khách sạn chủ đề.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.7295,37.8118&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=37.8118,127.7295"
+    },
+    "tags": [
+      "theme-park",
+      "lego",
+      "family",
+      "chuncheon"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  }
+]

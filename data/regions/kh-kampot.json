@@ -1,0 +1,191 @@
+[
+  {
+    "id": "kh-kampot-bokor-national-park",
+    "slug": "bokor-national-park",
+    "region": "kh-kampot",
+    "region_name_vi": "Kampot",
+    "country": "cambodia",
+    "name_vi": "Vườn quốc gia Bokor (Preah Monivong)",
+    "name_en": "Bokor National Park (Preah Monivong)",
+    "name_local": "ឧទ្យានជាតិព្រះមុនីវង្ស បូកគោ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 10.6248,
+      "lon": 104.0236
+    },
+    "address_vi": "Cao nguyên Bokor, huyện Tuek Chhou, tỉnh Kampot",
+    "presentation_short_vi": "Vườn quốc gia trên cao nguyên Bokor (~1.080 m) thuộc dãy Đàm Rei, nổi tiếng với khí hậu mát mẻ, rừng nguyên sinh và tầm nhìn ra vịnh Thái Lan.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.0236,10.6248&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=10.6248,104.0236"
+    },
+    "tags": [
+      "nature",
+      "mountain",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kh-kampot-bokor-hill-station",
+    "slug": "bokor-hill-station",
+    "region": "kh-kampot",
+    "region_name_vi": "Kampot",
+    "country": "cambodia",
+    "name_vi": "Trạm nghỉ trên núi Bokor (di tích Pháp)",
+    "name_en": "Bokor Hill Station",
+    "name_local": "ស្ថានីយភ្នំបូកគោ",
+    "categories": [
+      "monument",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 10.6355,
+      "lon": 104.0264
+    },
+    "address_vi": "Đỉnh Bokor, VQG Preah Monivong, tỉnh Kampot",
+    "presentation_short_vi": "Khu nghỉ mát trên núi do người Pháp xây từ thập niên 1920, còn lại phế tích khách sạn–casino Bokor Palace, nhà thờ Công giáo cổ và chùa Sampov Pram.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.0264,10.6355&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=10.6355,104.0264"
+    },
+    "tags": [
+      "colonial",
+      "ruins",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kh-kampot-kampot-old-town",
+    "slug": "kampot-old-town",
+    "region": "kh-kampot",
+    "region_name_vi": "Kampot",
+    "country": "cambodia",
+    "name_vi": "Phố cổ & Bờ sông Kampot",
+    "name_en": "Kampot Old Town & Riverside",
+    "name_local": "ក្រុងកំពត",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 10.6104,
+      "lon": 104.1815
+    },
+    "address_vi": "Trung tâm TP. Kampot, ven sông, tỉnh Kampot",
+    "presentation_short_vi": "Khu phố cổ ven sông Praek Tuek Chhu với dãy nhà kiểu Pháp–Hoa, chợ cũ và bờ sông thơ mộng, trung tâm của thành phố tiêu Kampot.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.1815,10.6104&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=10.6104,104.1815"
+    },
+    "tags": [
+      "colonial",
+      "riverside",
+      "town"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kh-kampot-phnom-chhnork",
+    "slug": "phnom-chhnork",
+    "region": "kh-kampot",
+    "region_name_vi": "Kampot",
+    "country": "cambodia",
+    "name_vi": "Đền hang Phnom Chhnork",
+    "name_en": "Phnom Chhnork Cave Temple",
+    "name_local": "ភ្នំឆ្ង៉ុក",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 10.6539,
+      "lon": 104.2306
+    },
+    "address_vi": "~8 km đông bắc TP. Kampot, tỉnh Kampot",
+    "presentation_short_vi": "Đền hang Hindu thờ thần Shiva có niên đại tiền Angkor (thế kỷ 7), nằm trong hang đá vôi, lên bằng bậc thang đá giữa đồng lúa.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.2306,10.6539&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=10.6539,104.2306"
+    },
+    "tags": [
+      "cave",
+      "temple",
+      "pre-angkor"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kh-kampot-teuk-chhou-rapids",
+    "slug": "teuk-chhou-rapids",
+    "region": "kh-kampot",
+    "region_name_vi": "Kampot",
+    "country": "cambodia",
+    "name_vi": "Thác ghềnh Teuk Chhou",
+    "name_en": "Teuk Chhou Rapids",
+    "name_local": "ទឹកឈូ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 10.6553,
+      "lon": 104.1319
+    },
+    "address_vi": "~8 km tây bắc TP. Kampot, huyện Tuek Chhou",
+    "presentation_short_vi": "Ghềnh đá và dòng suối mát ở thượng nguồn sông Kampot, điểm dã ngoại quen thuộc với các chòi tre dựng bên nước.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.1319,10.6553&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=10.6553,104.1319"
+    },
+    "tags": [
+      "nature",
+      "river",
+      "waterfall"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kh-kampot-kampot-pepper-la-plantation",
+    "slug": "kampot-pepper-la-plantation",
+    "region": "kh-kampot",
+    "region_name_vi": "Kampot",
+    "country": "cambodia",
+    "name_vi": "Nông trại tiêu Kampot (La Plantation)",
+    "name_en": "Kampot Pepper Farm (La Plantation)",
+    "name_local": "ស្រែម្រេចកំពត",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 10.5989,
+      "lon": 104.36
+    },
+    "address_vi": "Vùng Damnak Kantuot, đông bắc TP. Kampot",
+    "presentation_short_vi": "Nông trại tiêu Kampot trứ danh (có chỉ dẫn địa lý), nơi tham quan vườn tiêu, tìm hiểu quy trình trồng và nếm thử hồ tiêu nổi tiếng thế giới.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.36,10.5989&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=10.5989,104.36"
+    },
+    "tags": [
+      "pepper",
+      "farm",
+      "food"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  }
+]

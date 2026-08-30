@@ -1,0 +1,318 @@
+[
+  {
+    "id": "jp-toyama-tateyama-murodo",
+    "slug": "tateyama-murodo",
+    "region": "jp-toyama",
+    "country": "japan",
+    "region_name_vi": "Toyama",
+    "name_vi": "Cao nguyên Murodō (Tuyến Tateyama Kurobe)",
+    "name_en": "Murodō (Tateyama Kurobe Alpine Route)",
+    "name_local": "室堂（立山黒部アルペンルート）",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.5772,
+      "lon": 137.5944
+    },
+    "address_vi": "Ashikuraji, Tateyama, Nakaniikawa, Toyama",
+    "presentation_short_vi": "Điểm cao nhất của tuyến du lịch xuyên dãy Anpơ Nhật Bản ở độ cao 2.450 m, nổi tiếng với 'Tường tuyết' cao hàng chục mét mùa xuân và cảnh núi non hùng vĩ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.5772,137.5944",
+      "yandex": "https://yandex.com/maps/?pt=137.5944,36.5772&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "alpine",
+      "nature",
+      "snow-wall"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-toyama-kurobe-dam",
+    "slug": "kurobe-dam",
+    "region": "jp-toyama",
+    "country": "japan",
+    "region_name_vi": "Toyama",
+    "name_vi": "Đập Kurobe",
+    "name_en": "Kurobe Dam",
+    "name_local": "黒部ダム",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 36.5661,
+      "lon": 137.6603
+    },
+    "address_vi": "Tateyama, Nakaniikawa, Toyama",
+    "presentation_short_vi": "Đập vòm cao nhất Nhật Bản (186 m) giữa vùng núi hiểm trở, gây choáng ngợp với màn xả nước hùng vĩ mùa hè và hồ chứa xanh biếc.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.5661,137.6603",
+      "yandex": "https://yandex.com/maps/?pt=137.6603,36.5661&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "landmark",
+      "dam",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-toyama-gokayama-ainokura",
+    "slug": "gokayama-ainokura",
+    "region": "jp-toyama",
+    "country": "japan",
+    "region_name_vi": "Toyama",
+    "name_vi": "Làng cổ Ainokura (Gokayama)",
+    "name_en": "Ainokura Gasshō Village (Gokayama)",
+    "name_local": "五箇山 相倉合掌造り集落",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 36.4147,
+      "lon": 136.9342
+    },
+    "address_vi": "Ainokura, Nanto, Toyama",
+    "presentation_short_vi": "Ngôi làng miền núi hẻo lánh với những mái nhà gasshō dốc đứng lợp tranh, Di sản Thế giới UNESCO gìn giữ nếp sống truyền thống Nhật Bản.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.4147,136.9342",
+      "yandex": "https://yandex.com/maps/?pt=136.9342,36.4147&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "unesco",
+      "historic",
+      "village"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-toyama-zuiryu-ji",
+    "slug": "zuiryu-ji",
+    "region": "jp-toyama",
+    "country": "japan",
+    "region_name_vi": "Toyama",
+    "name_vi": "Chùa Zuiryū-ji",
+    "name_en": "Zuiryū-ji",
+    "name_local": "瑞龍寺",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 36.7411,
+      "lon": 137.0119
+    },
+    "address_vi": "Sekihonmachi, Takaoka, Toyama",
+    "presentation_short_vi": "Ngôi chùa Thiền tông thế kỷ 17 với bố cục đối xứng nghiêm cẩn, là Bảo vật Quốc gia tiêu biểu cho kiến trúc thiền viện thời Edo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.7411,137.0119",
+      "yandex": "https://yandex.com/maps/?pt=137.0119,36.7411&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "temple",
+      "national-treasure",
+      "zen"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-toyama-takaoka-daibutsu",
+    "slug": "takaoka-daibutsu",
+    "region": "jp-toyama",
+    "country": "japan",
+    "region_name_vi": "Toyama",
+    "name_vi": "Đại Phật Takaoka",
+    "name_en": "Great Buddha of Takaoka",
+    "name_local": "高岡大仏",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 36.7431,
+      "lon": 137.0242
+    },
+    "address_vi": "Ōtemachi, Takaoka, Toyama",
+    "presentation_short_vi": "Tượng Phật A Di Đà bằng đồng cao khoảng 16 m, một trong 'ba Đại Phật của Nhật Bản', kiệt tác của nghề đúc đồng thủ công Takaoka.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.7431,137.0242",
+      "yandex": "https://yandex.com/maps/?pt=137.0242,36.7431&z=16&l=map"
+    },
+    "tags": [
+      "buddha",
+      "landmark",
+      "craft"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-toyama-amaharashi-coast",
+    "slug": "amaharashi-coast",
+    "region": "jp-toyama",
+    "country": "japan",
+    "region_name_vi": "Toyama",
+    "name_vi": "Bờ biển Amaharashi",
+    "name_en": "Amaharashi Coast",
+    "name_local": "雨晴海岸",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.8064,
+      "lon": 137.0164
+    },
+    "address_vi": "Ōtomo, Takaoka, Toyama",
+    "presentation_short_vi": "Bãi biển hiếm hoi cho phép ngắm dãy Tateyama phủ tuyết nổi trên vịnh Toyama, với tảng đá Nữ Nham và cảnh bình minh mê hoặc.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.8064,137.0164",
+      "yandex": "https://yandex.com/maps/?pt=137.0164,36.8064&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "coast",
+      "scenic",
+      "mountain-view"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-toyama-kurobe-gorge",
+    "slug": "kurobe-gorge",
+    "region": "jp-toyama",
+    "country": "japan",
+    "region_name_vi": "Toyama",
+    "name_vi": "Hẻm núi Kurobe (đường sắt Torokko)",
+    "name_en": "Kurobe Gorge Railway",
+    "name_local": "黒部峡谷鉄道",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.8078,
+      "lon": 137.5928
+    },
+    "address_vi": "Unazuki, Kurobe, Toyama",
+    "presentation_short_vi": "Tuyến tàu toa mở chạy dọc một trong những hẻm núi sâu nhất Nhật Bản, băng qua cầu, hầm và suối nước nóng, rực rỡ nhất vào mùa lá đỏ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.8078,137.5928",
+      "yandex": "https://yandex.com/maps/?pt=137.5928,36.8078&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "gorge",
+      "railway",
+      "autumn"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-toyama-shomyo-falls",
+    "slug": "shomyo-falls",
+    "region": "jp-toyama",
+    "country": "japan",
+    "region_name_vi": "Toyama",
+    "name_vi": "Thác Shōmyō",
+    "name_en": "Shōmyō Falls",
+    "name_local": "称名滝",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.5753,
+      "lon": 137.5233
+    },
+    "address_vi": "Ashikuraji, Tateyama, Nakaniikawa, Toyama",
+    "presentation_short_vi": "Thác nước cao nhất Nhật Bản với độ rơi 350 m đổ xuống bốn tầng từ vách núi Tateyama, hùng vĩ nhất vào mùa tuyết tan khi thác đôi Hannoki xuất hiện.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.5753,137.5233",
+      "yandex": "https://yandex.com/maps/?pt=137.5233,36.5753&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "waterfall",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-toyama-toyama-castle",
+    "slug": "toyama-castle",
+    "region": "jp-toyama",
+    "country": "japan",
+    "region_name_vi": "Toyama",
+    "name_vi": "Lâu đài Toyama",
+    "name_en": "Toyama Castle",
+    "name_local": "富山城",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 36.6931,
+      "lon": 137.2128
+    },
+    "address_vi": "Honmaru, TP Toyama, Toyama",
+    "presentation_short_vi": "Toà thành phục dựng nằm giữa công viên xanh mát trong lòng thành phố, bên trong là bảo tàng địa phương, xung quanh là hào nước và hoa anh đào.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.6931,137.2128",
+      "yandex": "https://yandex.com/maps/?pt=137.2128,36.6931&z=16&l=map"
+    },
+    "tags": [
+      "castle",
+      "park",
+      "museum"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-toyama-toyama-glass-museum",
+    "slug": "toyama-glass-museum",
+    "region": "jp-toyama",
+    "country": "japan",
+    "region_name_vi": "Toyama",
+    "name_vi": "Bảo tàng Nghệ thuật Thuỷ tinh Toyama",
+    "name_en": "Toyama Glass Art Museum",
+    "name_local": "富山市ガラス美術館",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 36.6836,
+      "lon": 137.2101
+    },
+    "address_vi": "Nishichō, TP Toyama, Toyama",
+    "presentation_short_vi": "Bảo tàng nghệ thuật thuỷ tinh đương đại trong toà nhà 'TOYAMA Kirari' do kiến trúc sư Kengo Kuma thiết kế, hoà quyện gỗ, đá và kính lấp lánh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.6836,137.2101",
+      "yandex": "https://yandex.com/maps/?pt=137.2101,36.6836&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "art",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

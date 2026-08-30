@@ -1,0 +1,250 @@
+[
+  {
+    "id": "ph-cavite-aguinaldo-shrine",
+    "slug": "aguinaldo-shrine",
+    "region": "ph-cavite",
+    "country": "philippines",
+    "region_name_vi": "Cavite",
+    "name_vi": "Đền Aguinaldo (Kawit)",
+    "name_en": "Aguinaldo Shrine",
+    "name_local": "Bahay ni Aguinaldo",
+    "categories": [
+      "museum",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 14.445,
+      "lon": 120.9072
+    },
+    "address_vi": "Kawit, Cavite, Philippines",
+    "presentation_short_vi": "Đền Aguinaldo là dinh thự gỗ của tướng Emilio Aguinaldo ở Kawit, nơi tuyên bố Độc lập Philippines ngày 12/6/1898; nay là bảo tàng lịch sử quốc gia.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=120.9072,14.445&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=14.445,120.9072"
+    },
+    "tags": [
+      "top",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "ph-cavite-corregidor-island",
+    "slug": "corregidor-island",
+    "region": "ph-cavite",
+    "country": "philippines",
+    "region_name_vi": "Cavite",
+    "name_vi": "Đảo Corregidor",
+    "name_en": "Corregidor Island",
+    "name_local": "Pulo ng Corregidor",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 14.3856,
+      "lon": 120.5731
+    },
+    "address_vi": "TP. Cavite, Cavite, Philippines",
+    "presentation_short_vi": "Đảo Corregidor ở cửa vịnh Manila là pháo đài trọng yếu trong Thế chiến II, nay là bảo tàng ngoài trời với hầm Malinta, các khẩu pháo lớn và đài tưởng niệm.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=120.5731,14.3856&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=14.3856,120.5731"
+    },
+    "tags": [
+      "top",
+      "history",
+      "island"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "ph-cavite-peoples-park-in-the-sky",
+    "slug": "peoples-park-in-the-sky",
+    "region": "ph-cavite",
+    "country": "philippines",
+    "region_name_vi": "Cavite",
+    "name_vi": "Công viên Nhân dân trên Trời",
+    "name_en": "People's Park in the Sky",
+    "name_local": "Palasyo sa Langit",
+    "categories": [
+      "park_garden",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 14.1417,
+      "lon": 121.0219
+    },
+    "address_vi": "TP. Tagaytay, Cavite, Philippines",
+    "presentation_short_vi": "Công viên Nhân dân trên Trời nằm trên đỉnh núi Sungay cao nhất Tagaytay, từ đây ngắm toàn cảnh hồ và núi lửa Taal cùng vịnh Manila.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=121.0219,14.1417&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=14.1417,121.0219"
+    },
+    "tags": [
+      "viewpoint",
+      "park",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "ph-cavite-mount-pico-de-loro",
+    "slug": "mount-pico-de-loro",
+    "region": "ph-cavite",
+    "country": "philippines",
+    "region_name_vi": "Cavite",
+    "name_vi": "Núi Pico de Loro",
+    "name_en": "Mount Pico de Loro",
+    "name_local": "Bundok Pico de Loro",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 14.2143,
+      "lon": 120.6465
+    },
+    "address_vi": "Ternate - Maragondon, Cavite, Philippines",
+    "presentation_short_vi": "Núi Pico de Loro (Mỏ Vẹt) cao 688 m nằm giữa Cavite và Batangas, đỉnh có khối đá 'Monolith' đặc trưng, là cung leo núi nổi tiếng gần Manila.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=120.6465,14.2143&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=14.2143,120.6465"
+    },
+    "tags": [
+      "mountain",
+      "hiking",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "ph-cavite-kaybiang-tunnel",
+    "slug": "kaybiang-tunnel",
+    "region": "ph-cavite",
+    "country": "philippines",
+    "region_name_vi": "Cavite",
+    "name_vi": "Đường hầm Kaybiang",
+    "name_en": "Kaybiang Tunnel",
+    "name_local": "Tunnel ng Kaybiang",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 14.2341,
+      "lon": 120.6329
+    },
+    "address_vi": "Maragondon, Cavite, Philippines",
+    "presentation_short_vi": "Đường hầm Kaybiang dài khoảng 300 m xuyên núi Pico de Loro, nối Cavite với Batangas; là hầm đường bộ đẹp và được chụp ảnh nhiều bậc nhất Philippines.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=120.6329,14.2341&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=14.2341,120.6329"
+    },
+    "tags": [
+      "landmark",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "ph-cavite-picnic-grove",
+    "slug": "picnic-grove",
+    "region": "ph-cavite",
+    "country": "philippines",
+    "region_name_vi": "Cavite",
+    "name_vi": "Khu Picnic Grove (Tagaytay)",
+    "name_en": "Picnic Grove",
+    "name_local": "Picnic Grove",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 14.0938,
+      "lon": 120.9103
+    },
+    "address_vi": "TP. Tagaytay, Cavite, Philippines",
+    "presentation_short_vi": "Picnic Grove là công viên sinh thái trên vành đai Tagaytay với chòi picnic, đường zipline và cáp treo ngắm hồ Taal, điểm dã ngoại quen thuộc của du khách.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=120.9103,14.0938&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=14.0938,120.9103"
+    },
+    "tags": [
+      "park",
+      "viewpoint",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "ph-cavite-sky-ranch-tagaytay",
+    "slug": "sky-ranch-tagaytay",
+    "region": "ph-cavite",
+    "country": "philippines",
+    "region_name_vi": "Cavite",
+    "name_vi": "Công viên giải trí Sky Ranch",
+    "name_en": "Sky Ranch Tagaytay",
+    "name_local": "Sky Ranch",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 14.0953,
+      "lon": 120.9377
+    },
+    "address_vi": "TP. Tagaytay, Cavite, Philippines",
+    "presentation_short_vi": "Sky Ranch Tagaytay là công viên giải trí ven đường ngắm cảnh với vòng đu quay khổng lồ 'Sky Eye' nhìn xuống hồ và núi lửa Taal.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=120.9377,14.0953&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=14.0953,120.9377"
+    },
+    "tags": [
+      "family",
+      "recreation"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "ph-cavite-st-mary-magdalene-church-kawit",
+    "slug": "st-mary-magdalene-church-kawit",
+    "region": "ph-cavite",
+    "country": "philippines",
+    "region_name_vi": "Cavite",
+    "name_vi": "Nhà thờ Thánh Mary Magdalene (Kawit)",
+    "name_en": "St. Mary Magdalene Church",
+    "name_local": "Simbahan ni Santa Maria Magdalena",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 14.4447,
+      "lon": 120.9036
+    },
+    "address_vi": "Kawit, Cavite, Philippines",
+    "presentation_short_vi": "Nhà thờ Thánh Mary Magdalene ở Kawit (thế kỷ 18) là nơi tướng Emilio Aguinaldo được rửa tội, mang kiến trúc thuộc địa cổ kính bên vịnh Bacoor.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=120.9036,14.4447&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=14.4447,120.9036"
+    },
+    "tags": [
+      "church",
+      "heritage",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

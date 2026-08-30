@@ -1,0 +1,227 @@
+[
+  {
+    "id": "th-chaiyaphum-tat-ton-national-park",
+    "slug": "tat-ton-national-park",
+    "region": "th-chaiyaphum",
+    "country": "thailand",
+    "region_name_vi": "Chaiyaphum",
+    "name_vi": "Vườn quốc gia Tat Ton",
+    "name_en": "Tat Ton National Park",
+    "name_local": "อุทยานแห่งชาติตาดโตน",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 15.987778,
+      "lon": 102.041389
+    },
+    "address_vi": "Huyện Mueang Chaiyaphum, tỉnh Chaiyaphum (phía bắc thành phố)",
+    "rating": null,
+    "presentation_short_vi": "Vườn quốc gia nổi tiếng với thác Tat Ton chảy quanh năm và rừng cây họ dầu, điểm dã ngoại được yêu thích gần thành phố Chaiyaphum.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=102.041389,15.987778&z=17&pt=102.041389,15.987778",
+      "google": "https://www.google.com/maps/search/?api=1&query=15.987778,102.041389"
+    },
+    "tags": [
+      "national_park",
+      "waterfall",
+      "forest",
+      "picnic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-chaiyaphum-pa-hin-ngam-national-park",
+    "slug": "pa-hin-ngam-national-park",
+    "region": "th-chaiyaphum",
+    "country": "thailand",
+    "region_name_vi": "Chaiyaphum",
+    "name_vi": "Vườn quốc gia Pa Hin Ngam",
+    "name_en": "Pa Hin Ngam National Park",
+    "name_local": "อุทยานแห่งชาติป่าหินงาม",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 15.632,
+      "lon": 101.415
+    },
+    "address_vi": "Xã Ban Rai, huyện Thep Sathit, tỉnh Chaiyaphum",
+    "rating": null,
+    "presentation_short_vi": "Vườn quốc gia nổi tiếng với 'rừng đá' hình thù kỳ lạ, vách Sut Phaen Din và cánh đồng hoa Krachiao (tulip Xiêm) nở tím rực mùa mưa.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=101.415,15.632&z=17&pt=101.415,15.632",
+      "google": "https://www.google.com/maps/search/?api=1&query=15.632,101.415"
+    },
+    "tags": [
+      "national_park",
+      "rock_formation",
+      "siam_tulip",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-chaiyaphum-sai-thong-national-park",
+    "slug": "sai-thong-national-park",
+    "region": "th-chaiyaphum",
+    "country": "thailand",
+    "region_name_vi": "Chaiyaphum",
+    "name_vi": "Vườn quốc gia Sai Thong",
+    "name_en": "Sai Thong National Park",
+    "name_local": "อุทยานแห่งชาติไทรทอง",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 15.83,
+      "lon": 101.6
+    },
+    "address_vi": "Xã Wang Takhe, huyện Nong Bua Rawe, tỉnh Chaiyaphum",
+    "rating": null,
+    "presentation_short_vi": "Vườn quốc gia phía tây Chaiyaphum với thác Sai Thong, vách đá Pha Hua Nak ngắm cảnh và những cánh đồng hoa Krachiao (tulip Xiêm) mùa mưa.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=101.6,15.83&z=17&pt=101.6,15.83",
+      "google": "https://www.google.com/maps/search/?api=1&query=15.83,101.6"
+    },
+    "tags": [
+      "national_park",
+      "waterfall",
+      "siam_tulip",
+      "cliff"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-chaiyaphum-phu-laen-kha-national-park",
+    "slug": "phu-laen-kha-national-park",
+    "region": "th-chaiyaphum",
+    "country": "thailand",
+    "region_name_vi": "Chaiyaphum",
+    "name_vi": "Vườn quốc gia Phu Laen Kha",
+    "name_en": "Phu Laen Kha National Park",
+    "name_local": "อุทยานแห่งชาติภูแลนคา",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 16.08,
+      "lon": 101.86
+    },
+    "address_vi": "Xã Tha Hin Ngom, huyện Mueang Chaiyaphum, tỉnh Chaiyaphum",
+    "rating": null,
+    "presentation_short_vi": "Vườn quốc gia trên dãy núi Laen Kha với rừng, các điểm ngắm bình minh và những khối đá kỳ vĩ, nổi bật nhất là Mo Hin Khao.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=101.86,16.08&z=17&pt=101.86,16.08",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.08,101.86"
+    },
+    "tags": [
+      "national_park",
+      "mountain",
+      "viewpoint",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-chaiyaphum-mo-hin-khao",
+    "slug": "mo-hin-khao",
+    "region": "th-chaiyaphum",
+    "country": "thailand",
+    "region_name_vi": "Chaiyaphum",
+    "name_vi": "Mo Hin Khao (Stonehenge của Thái Lan)",
+    "name_en": "Mo Hin Khao",
+    "name_local": "มอหินขาว",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 16.0958,
+      "lon": 101.847
+    },
+    "address_vi": "Xã Tha Hin Ngom, huyện Mueang Chaiyaphum, tỉnh Chaiyaphum (trong VQG Phu Laen Kha)",
+    "rating": null,
+    "presentation_short_vi": "Cụm trụ đá sa thạch trắng cao tới hơn 12 m sừng sững giữa cao nguyên, được ví như 'Stonehenge của Thái Lan', điểm ngắm cảnh và cắm trại nổi tiếng.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=101.847,16.0958&z=17&pt=101.847,16.0958",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.0958,101.847"
+    },
+    "tags": [
+      "rock_pillars",
+      "stonehenge",
+      "camping",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-chaiyaphum-prang-ku",
+    "slug": "prang-ku",
+    "region": "th-chaiyaphum",
+    "country": "thailand",
+    "region_name_vi": "Chaiyaphum",
+    "name_vi": "Prang Ku Chaiyaphum (Đền tháp Khmer cổ)",
+    "name_en": "Prang Ku",
+    "name_local": "ปรางค์กู่",
+    "categories": [
+      "monument",
+      "church"
+    ],
+    "coordinates": {
+      "lat": 15.806629,
+      "lon": 102.044545
+    },
+    "address_vi": "Phường Nai Mueang, huyện Mueang Chaiyaphum, tỉnh Chaiyaphum",
+    "rating": null,
+    "presentation_short_vi": "Ngôi đền tháp (prang) bằng đá ong thời Khmer, từng là trạm nghỉ trên tuyến đường cổ, nay là di tích lịch sử thờ tượng Phật cổ ở trung tâm thành phố.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=102.044545,15.806629&z=17&pt=102.044545,15.806629",
+      "google": "https://www.google.com/maps/search/?api=1&query=15.806629,102.044545"
+    },
+    "tags": [
+      "khmer",
+      "ancient",
+      "monument",
+      "laterite"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-chaiyaphum-chao-pho-phaya-lae-monument",
+    "slug": "chao-pho-phaya-lae-monument",
+    "region": "th-chaiyaphum",
+    "country": "thailand",
+    "region_name_vi": "Chaiyaphum",
+    "name_vi": "Tượng đài Chao Pho Phaya Lae",
+    "name_en": "Chao Pho Phaya Lae Monument",
+    "name_local": "อนุสาวรีย์เจ้าพ่อพญาแล",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 15.8066,
+      "lon": 102.0324
+    },
+    "address_vi": "Huyện Mueang Chaiyaphum, tỉnh Chaiyaphum (gần trung tâm thành phố)",
+    "rating": null,
+    "presentation_short_vi": "Tượng đài Phraya Phakdi Chumphon (Chao Pho Phaya Lae) — vị anh hùng khai lập thành Chaiyaphum, được người dân tôn kính như biểu tượng của tỉnh.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=102.0324,15.8066&z=17&pt=102.0324,15.8066",
+      "google": "https://www.google.com/maps/search/?api=1&query=15.8066,102.0324"
+    },
+    "tags": [
+      "monument",
+      "hero",
+      "landmark",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

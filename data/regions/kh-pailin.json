@@ -1,0 +1,222 @@
+[
+  {
+    "id": "kh-pailin-phnom-yat",
+    "slug": "phnom-yat",
+    "region": "kh-pailin",
+    "region_name_vi": "Pailin",
+    "country": "cambodia",
+    "name_vi": "Chùa Phnom Yat",
+    "name_en": "Wat Phnom Yat",
+    "name_local": "វត្តភ្នំយ៉ាត",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 12.84581,
+      "lon": 102.61022
+    },
+    "address_vi": "Đồi Phnom Yat, trung tâm TP. Pailin",
+    "presentation_short_vi": "Ngôi chùa trên đồi cao 60 m với bảo tháp trắng kiểu Miến Điện, do người Kola dựng khoảng năm 1890 khi đến tìm đá quý. Lên 242 bậc để ngắm toàn cảnh Pailin và dãy Cardamom; được xem là trái tim thành phố.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=102.61022,12.84581&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=12.84581,102.61022"
+    },
+    "tags": [
+      "temple",
+      "hill",
+      "top",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kh-pailin-wat-rattanak-sopoan",
+    "slug": "wat-rattanak-sopoan",
+    "region": "kh-pailin",
+    "region_name_vi": "Pailin",
+    "country": "cambodia",
+    "name_vi": "Chùa Rattanak Sopoan",
+    "name_en": "Wat Rattanak Sopoan",
+    "name_local": "វត្តរតនសោភ័ណ",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 12.8464,
+      "lon": 102.611
+    },
+    "address_vi": "Cách chân đồi Phnom Yat ~50 m, TP. Pailin",
+    "presentation_short_vi": "Ngôi chùa nổi bật với các phù điêu chạm nổi trên tường rào kể tích 'Khuấy Biển Sữa', gợi nhớ phù điêu ở Angkor Wat. Nằm ngay dưới chân đồi Phnom Yat.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=102.611,12.8464&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=12.8464,102.611"
+    },
+    "tags": [
+      "temple",
+      "carving",
+      "art"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kh-pailin-pailin-gem-mines",
+    "slug": "pailin-gem-mines",
+    "region": "kh-pailin",
+    "region_name_vi": "Pailin",
+    "country": "cambodia",
+    "name_vi": "Khu mỏ đá quý Pailin",
+    "name_en": "Pailin Gem Mines",
+    "name_local": "រ៉ែត្បូងប៉ៃលិន",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 12.848,
+      "lon": 102.6
+    },
+    "address_vi": "Quanh TP. Pailin, tỉnh Pailin",
+    "presentation_short_vi": "Pailin nổi tiếng khắp Campuchia là 'thủ phủ đá quý' với các mỏ hồng ngọc (ruby) và lam ngọc (sapphire). Du khách có thể xem người dân đãi đá thủ công và ghé chợ đá quý địa phương.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=102.6,12.848&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=12.848,102.6"
+    },
+    "tags": [
+      "gems",
+      "mining",
+      "local"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kh-pailin-pailin-market",
+    "slug": "pailin-market",
+    "region": "kh-pailin",
+    "region_name_vi": "Pailin",
+    "country": "cambodia",
+    "name_vi": "Chợ Pailin",
+    "name_en": "Pailin Market (Phsar Pailin)",
+    "name_local": "ផ្សារប៉ៃលិន",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 12.849,
+      "lon": 102.609
+    },
+    "address_vi": "Trung tâm TP. Pailin",
+    "presentation_short_vi": "Khu chợ trung tâm sầm uất của Pailin, nơi mua bán nông sản, hàng hóa và cả đá quý địa phương. Điểm để cảm nhận nhịp sống thường nhật vùng biên giới.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=102.609,12.849&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=12.849,102.609"
+    },
+    "tags": [
+      "market",
+      "shopping",
+      "local"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kh-pailin-o-tavao",
+    "slug": "o-tavao",
+    "region": "kh-pailin",
+    "region_name_vi": "Pailin",
+    "country": "cambodia",
+    "name_vi": "Suối O'Tavao",
+    "name_en": "O'Tavao",
+    "name_local": "អូរតាវ៉ាវ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 12.835,
+      "lon": 102.625
+    },
+    "address_vi": "Sangkat O'Tavao, cách TP. Pailin ~5 km",
+    "presentation_short_vi": "Điểm dã ngoại bên dòng suối nước trong chảy từ núi Phnom Khieu, giữa khung cảnh rừng xanh. Có các vũng nước để tắm mát quanh năm, đông khách vào cuối tuần.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=102.625,12.835&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=12.835,102.625"
+    },
+    "tags": [
+      "stream",
+      "nature",
+      "swimming",
+      "picnic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kh-pailin-phnom-koy",
+    "slug": "phnom-koy",
+    "region": "kh-pailin",
+    "region_name_vi": "Pailin",
+    "country": "cambodia",
+    "name_vi": "Khu du lịch Phnom Koy",
+    "name_en": "Phnom Koy Resort",
+    "name_local": "រមណីយដ្ឋានភ្នំគយ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 12.99,
+      "lon": 102.625
+    },
+    "address_vi": "Sangkat Stung Kach, huyện Sala Krau, cách TP. Pailin ~20 km về phía bắc",
+    "presentation_short_vi": "Khu thiên nhiên rừng rậm với dây leo cổ thụ và suối chảy từ núi, cách Pailin khoảng 20 km. Điểm đến cho người thích khám phá cảnh rừng nguyên sơ.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=102.625,12.99&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=12.99,102.625"
+    },
+    "tags": [
+      "mountain",
+      "forest",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kh-pailin-phnom-khieu",
+    "slug": "phnom-khieu",
+    "region": "kh-pailin",
+    "region_name_vi": "Pailin",
+    "country": "cambodia",
+    "name_vi": "Núi Phnom Khieu",
+    "name_en": "Phnom Khieu (Blue Mountain)",
+    "name_local": "ភ្នំខៀវ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 12.825,
+      "lon": 102.66
+    },
+    "address_vi": "Gần Sangkat O'Tavao, TP. Pailin",
+    "presentation_short_vi": "Ngọn núi rừng là nguồn nước cho suối O'Tavao, cảnh quan xanh mát đặc trưng của Pailin. Điểm leo núi, ngắm cảnh cho khách ưa mạo hiểm.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=102.66,12.825&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=12.825,102.66"
+    },
+    "tags": [
+      "mountain",
+      "forest",
+      "hiking"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

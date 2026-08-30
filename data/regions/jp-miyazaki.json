@@ -1,0 +1,316 @@
+[
+  {
+    "id": "jp-miyazaki-takachiho-gorge",
+    "slug": "takachiho-gorge",
+    "region": "jp-miyazaki",
+    "country": "japan",
+    "region_name_vi": "Miyazaki",
+    "name_vi": "Hẻm núi Takachiho",
+    "name_en": "Takachiho Gorge",
+    "name_local": "高千穂峡",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 32.7106,
+      "lon": 131.3044
+    },
+    "address_vi": "Mukoyama, Takachiho-chō, Quận Nishiusuki, Miyazaki",
+    "presentation_short_vi": "Hẻm vực dung nham do sông Gokase bào mòn tạo thành vách đá bazan hình cột dựng đứng cao tới 100 m; thác Manai đổ xuống lòng vực là biểu tượng, du khách có thể chèo thuyền nhỏ ngắm cảnh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=32.7106,131.3044",
+      "yandex": "https://yandex.com/maps/?pt=131.3044,32.7106&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "gorge",
+      "nature",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-miyazaki-takachiho-shrine",
+    "slug": "takachiho-shrine",
+    "region": "jp-miyazaki",
+    "country": "japan",
+    "region_name_vi": "Miyazaki",
+    "name_vi": "Đền Takachiho",
+    "name_en": "Takachiho Shrine",
+    "name_local": "高千穂神社",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 32.7019,
+      "lon": 131.3111
+    },
+    "address_vi": "1037 Mitai, Takachiho-chō, Quận Nishiusuki, Miyazaki",
+    "presentation_short_vi": "Ngôi đền cổ hơn 1.900 năm tuổi ẩn trong rừng tuyết tùng cổ thụ, nơi mỗi đêm diễn màn múa thần thoại yokagura kể lại truyền thuyết nữ thần Mặt Trời Amaterasu.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=32.7019,131.3111",
+      "yandex": "https://yandex.com/maps/?pt=131.3111,32.7019&z=16&l=map"
+    },
+    "tags": [
+      "shrine",
+      "historic",
+      "kagura"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-miyazaki-amano-iwato-shrine",
+    "slug": "amano-iwato-shrine",
+    "region": "jp-miyazaki",
+    "country": "japan",
+    "region_name_vi": "Miyazaki",
+    "name_vi": "Đền Amano Iwato",
+    "name_en": "Amano Iwato Shrine",
+    "name_local": "天岩戸神社",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 32.7331,
+      "lon": 131.3567
+    },
+    "address_vi": "1073-1 Iwato, Takachiho-chō, Quận Nishiusuki, Miyazaki",
+    "presentation_short_vi": "Ngôi đền thờ hang đá thần thoại Amano Iwato, nơi tương truyền nữ thần Mặt Trời từng ẩn mình; gần đó là hang Amano Yasukawara bên suối chất đầy tháp đá cầu nguyện.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=32.7331,131.3567",
+      "yandex": "https://yandex.com/maps/?pt=131.3567,32.7331&z=16&l=map"
+    },
+    "tags": [
+      "shrine",
+      "mythology",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-miyazaki-udo-jingu",
+    "slug": "udo-jingu",
+    "region": "jp-miyazaki",
+    "country": "japan",
+    "region_name_vi": "Miyazaki",
+    "name_vi": "Đền Udo",
+    "name_en": "Udo Jingū",
+    "name_local": "鵜戸神宮",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 31.6389,
+      "lon": 131.4664
+    },
+    "address_vi": "3232 Miyaura, TP Nichinan, Miyazaki",
+    "presentation_short_vi": "Ngôi đền sơn son nằm trong hang động bên vách biển nhìn ra Thái Bình Dương; du khách ném viên undama cầu may xuống tảng đá hình rùa giữa sóng để nguyện ước.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=31.6389,131.4664",
+      "yandex": "https://yandex.com/maps/?pt=131.4664,31.6389&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "shrine",
+      "coast",
+      "cave"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-miyazaki-aoshima-shrine",
+    "slug": "aoshima-shrine",
+    "region": "jp-miyazaki",
+    "country": "japan",
+    "region_name_vi": "Miyazaki",
+    "name_vi": "Đền Aoshima",
+    "name_en": "Aoshima Shrine",
+    "name_local": "青島神社",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 31.7969,
+      "lon": 131.4772
+    },
+    "address_vi": "2-13-1 Aoshima, TP Miyazaki, Miyazaki",
+    "presentation_short_vi": "Ngôi đền trên hòn đảo nhỏ phủ đầy cọ nhiệt đới, bao quanh bởi rặng đá phiến sóng gợn mang tên Bàn giặt của quỷ, nối với đất liền bằng cây cầu qua bãi biển.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=31.7969,131.4772",
+      "yandex": "https://yandex.com/maps/?pt=131.4772,31.7969&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "shrine",
+      "island",
+      "coast"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-miyazaki-miyazaki-jingu",
+    "slug": "miyazaki-jingu",
+    "region": "jp-miyazaki",
+    "country": "japan",
+    "region_name_vi": "Miyazaki",
+    "name_vi": "Đền Miyazaki",
+    "name_en": "Miyazaki Shrine",
+    "name_local": "宮崎神宮",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 31.9397,
+      "lon": 131.4256
+    },
+    "address_vi": "2-4-1 Jingū, TP Miyazaki, Miyazaki",
+    "presentation_short_vi": "Ngôi đền lớn của thành phố thờ Thiên hoàng Jimmu, vị hoàng đế đầu tiên trong truyền thuyết Nhật Bản, nằm giữa khu rừng thiêng rộng lớn ngay trung tâm Miyazaki.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=31.9397,131.4256",
+      "yandex": "https://yandex.com/maps/?pt=131.4256,31.9397&z=16&l=map"
+    },
+    "tags": [
+      "shrine",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-miyazaki-heiwadai-park",
+    "slug": "heiwadai-park",
+    "region": "jp-miyazaki",
+    "country": "japan",
+    "region_name_vi": "Miyazaki",
+    "name_vi": "Công viên Heiwadai",
+    "name_en": "Heiwadai Park",
+    "name_local": "平和台公園",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 31.9497,
+      "lon": 131.4022
+    },
+    "address_vi": "Shimokitakata-chō, TP Miyazaki, Miyazaki",
+    "presentation_short_vi": "Công viên trên đồi với tháp Hòa Bình cao 37 m dựng năm 1940 và khu vườn bày hàng trăm tượng đất nung haniwa mô phỏng cổ vật, nhìn bao quát thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=31.9497,131.4022",
+      "yandex": "https://yandex.com/maps/?pt=131.4022,31.9497&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "monument",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-miyazaki-toimisaki",
+    "slug": "toimisaki",
+    "region": "jp-miyazaki",
+    "country": "japan",
+    "region_name_vi": "Miyazaki",
+    "name_vi": "Mũi Toi",
+    "name_en": "Cape Toi",
+    "name_local": "都井岬",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 31.3747,
+      "lon": 131.3419
+    },
+    "address_vi": "Ōaza Ōgawa, Kushima, Miyazaki",
+    "presentation_short_vi": "Mũi đất cực nam Miyazaki nổi tiếng với đàn ngựa hoang misaki-uma gặm cỏ tự do trên đồng cỏ ven biển, cùng ngọn hải đăng trắng nhìn ra biển Hyūga.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=31.3747,131.3419",
+      "yandex": "https://yandex.com/maps/?pt=131.3419,31.3747&z=16&l=map"
+    },
+    "tags": [
+      "cape",
+      "nature",
+      "wildlife",
+      "lighthouse"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-miyazaki-ebino-kogen",
+    "slug": "ebino-kogen",
+    "region": "jp-miyazaki",
+    "country": "japan",
+    "region_name_vi": "Miyazaki",
+    "name_vi": "Cao nguyên Ebino",
+    "name_en": "Ebino Kogen",
+    "name_local": "えびの高原",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 31.9331,
+      "lon": 130.8556
+    },
+    "address_vi": "Suenaga, TP Ebino, Miyazaki",
+    "presentation_short_vi": "Cao nguyên núi lửa ở độ cao 1.200 m trong dãy Kirishima, nổi tiếng với hồ miệng núi lửa, suối nước nóng và những cung đường bộ hành ngắm cỏ lau mùa thu.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=31.9331,130.8556",
+      "yandex": "https://yandex.com/maps/?pt=130.8556,31.9331&z=16&l=map"
+    },
+    "tags": [
+      "highland",
+      "volcano",
+      "nature",
+      "hiking"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-miyazaki-obi-castle",
+    "slug": "obi-castle",
+    "region": "jp-miyazaki",
+    "country": "japan",
+    "region_name_vi": "Miyazaki",
+    "name_vi": "Thành Obi",
+    "name_en": "Obi Castle",
+    "name_local": "飫肥城",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 31.625,
+      "lon": 131.3547
+    },
+    "address_vi": "10-1 Obi, TP Nichinan, Miyazaki",
+    "presentation_short_vi": "Di tích thành cổ của dòng họ Itō giữa phố cổ Obi được mệnh danh Tiểu Kyoto vùng Kyūshū, còn lưu tường đá, cổng thành phục dựng và các dinh thự samurai.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=31.625,131.3547",
+      "yandex": "https://yandex.com/maps/?pt=131.3547,31.625&z=16&l=map"
+    },
+    "tags": [
+      "castle",
+      "historic",
+      "samurai"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

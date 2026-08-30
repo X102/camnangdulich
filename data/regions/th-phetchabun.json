@@ -1,0 +1,195 @@
+[
+  {
+    "id": "th-phetchabun-wat-phra-that-pha-son-kaew",
+    "slug": "wat-phra-that-pha-son-kaew",
+    "region": "th-phetchabun",
+    "country": "thailand",
+    "region_name_vi": "Phetchabun",
+    "name_vi": "Chùa Phra That Pha Son Kaew",
+    "name_en": "Wat Phra That Pha Son Kaew",
+    "name_local": "วัดพระธาตุผาซ่อนแก้ว",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 16.7892,
+      "lon": 101.0503
+    },
+    "address_vi": "Huyện Khao Kho, tỉnh Phetchabun",
+    "rating": null,
+    "presentation_short_vi": "Ngôi chùa trên đỉnh núi ở Khao Kho, nổi bật với các bảo tháp trắng khảm hàng triệu mảnh sứ nhiều màu giữa biển mây.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=101.0503,16.7892&z=17&pt=101.0503,16.7892",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.7892,101.0503"
+    },
+    "tags": [
+      "temple",
+      "mountain",
+      "sea_of_mist",
+      "khao_kho",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-phetchabun-si-thep-historical-park",
+    "slug": "si-thep-historical-park",
+    "region": "th-phetchabun",
+    "country": "thailand",
+    "region_name_vi": "Phetchabun",
+    "name_vi": "Công viên Lịch sử Si Thep",
+    "name_en": "Si Thep Historical Park",
+    "name_local": "อุทยานประวัติศาสตร์ศรีเทพ",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 15.4661,
+      "lon": 101.1506
+    },
+    "address_vi": "Huyện Si Thep, tỉnh Phetchabun",
+    "rating": null,
+    "presentation_short_vi": "Đô thị cổ thời Dvaravati được UNESCO công nhận Di sản Thế giới năm 2023, với các gò tháp và di chỉ khảo cổ hơn ngàn năm tuổi.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=101.1506,15.4661&z=17&pt=101.1506,15.4661",
+      "google": "https://www.google.com/maps/search/?api=1&query=15.4661,101.1506"
+    },
+    "tags": [
+      "historical_park",
+      "unesco",
+      "dvaravati",
+      "ruins"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-phetchabun-phu-thap-boek",
+    "slug": "phu-thap-boek",
+    "region": "th-phetchabun",
+    "country": "thailand",
+    "region_name_vi": "Phetchabun",
+    "name_vi": "Núi Phu Thap Boek",
+    "name_en": "Phu Thap Boek",
+    "name_local": "ภูทับเบิก",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 16.9064,
+      "lon": 101.0872
+    },
+    "address_vi": "Huyện Lom Kao, tỉnh Phetchabun",
+    "rating": null,
+    "presentation_short_vi": "Đỉnh núi cao nhất tỉnh Phetchabun (~1.768 m), nổi tiếng với biển mây, ruộng bắp cải bậc thang và bản người Hmong.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=101.0872,16.9064&z=17&pt=101.0872,16.9064",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.9064,101.0872"
+    },
+    "tags": [
+      "mountain",
+      "viewpoint",
+      "sea_of_mist",
+      "camping"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-phetchabun-nam-nao-national-park",
+    "slug": "nam-nao-national-park",
+    "region": "th-phetchabun",
+    "country": "thailand",
+    "region_name_vi": "Phetchabun",
+    "name_vi": "Vườn quốc gia Nam Nao",
+    "name_en": "Nam Nao National Park",
+    "name_local": "อุทยานแห่งชาติน้ำหนาว",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 16.7336,
+      "lon": 101.5631
+    },
+    "address_vi": "Huyện Nam Nao, tỉnh Phetchabun",
+    "rating": null,
+    "presentation_short_vi": "Vườn quốc gia rừng núi rộng lớn có khí hậu mát lạnh quanh năm, rừng thông và nhiều loài thú hoang dã.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=101.5631,16.7336&z=17&pt=101.5631,16.7336",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.7336,101.5631"
+    },
+    "tags": [
+      "national_park",
+      "nature",
+      "forest",
+      "cool_weather"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-phetchabun-khao-kho",
+    "slug": "khao-kho",
+    "region": "th-phetchabun",
+    "country": "thailand",
+    "region_name_vi": "Phetchabun",
+    "name_vi": "Núi Khao Kho",
+    "name_en": "Khao Kho",
+    "name_local": "เขาค้อ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 16.62,
+      "lon": 100.99
+    },
+    "address_vi": "Huyện Khao Kho, tỉnh Phetchabun",
+    "rating": null,
+    "presentation_short_vi": "Vùng cao nguyên mát mẻ được ví như 'Thụy Sĩ của Thái Lan', nổi tiếng với biển mây, cánh đồng quạt gió và nhiều điểm ngắm cảnh, nghỉ dưỡng.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.99,16.62&z=17&pt=100.99,16.62",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.62,100.99"
+    },
+    "tags": [
+      "mountain",
+      "viewpoint",
+      "sea_of_mist",
+      "resort_town"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-phetchabun-anusorn-khao-kho",
+    "slug": "anusorn-khao-kho",
+    "region": "th-phetchabun",
+    "country": "thailand",
+    "region_name_vi": "Phetchabun",
+    "name_vi": "Đài tưởng niệm Liệt sĩ Khao Kho",
+    "name_en": "Khao Kho War Memorial Monument",
+    "name_local": "อนุสรณ์สถานผู้เสียสละเขาค้อ",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 16.6316,
+      "lon": 100.9975
+    },
+    "address_vi": "Huyện Khao Kho, tỉnh Phetchabun",
+    "rating": null,
+    "presentation_short_vi": "Đài tưởng niệm những người ngã xuống trong cuộc chiến chống cộng ở Khao Kho, nằm trên đỉnh đồi với tầm nhìn toàn cảnh núi non hùng vĩ.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.9975,16.6316&z=17&pt=100.9975,16.6316",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.6316,100.9975"
+    },
+    "tags": [
+      "monument",
+      "memorial",
+      "viewpoint",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

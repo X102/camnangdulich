@@ -1,0 +1,251 @@
+[
+  {
+    "id": "my-negeri-sembilan-istana-seri-menanti",
+    "slug": "istana-seri-menanti",
+    "region": "my-negeri-sembilan",
+    "region_name_vi": "Negeri Sembilan",
+    "country": "malaysia",
+    "name_vi": "Cung điện cổ Seri Menanti",
+    "name_en": "Seri Menanti Royal Palace (Istana Lama)",
+    "name_local": "Istana Lama Seri Menanti",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 2.7178,
+      "lon": 102.1889
+    },
+    "address_vi": "Seri Menanti, Kuala Pilah, Negeri Sembilan",
+    "presentation_short_vi": "Cung điện gỗ hoàng gia bốn tầng xây năm 1908 không dùng một chiếc đinh sắt, kiệt tác kiến trúc Minangkabau của bang, nay là bảo tàng hoàng gia.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=102.1889,2.7178&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=2.7178,102.1889"
+    },
+    "tags": [
+      "royal_palace",
+      "minangkabau",
+      "heritage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-negeri-sembilan-teluk-kemang",
+    "slug": "teluk-kemang",
+    "region": "my-negeri-sembilan",
+    "region_name_vi": "Negeri Sembilan",
+    "country": "malaysia",
+    "name_vi": "Bãi biển Teluk Kemang",
+    "name_en": "Teluk Kemang Beach",
+    "name_local": "Pantai Teluk Kemang",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 2.4489,
+      "lon": 101.8547
+    },
+    "address_vi": "Teluk Kemang, Port Dickson, Negeri Sembilan",
+    "presentation_short_vi": "Bãi biển nổi tiếng nhất Port Dickson với cát vàng và nước ấm bên eo biển Malacca, điểm tắm biển và thể thao dưới nước đông khách cuối tuần.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.8547,2.4489&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=2.4489,101.8547"
+    },
+    "tags": [
+      "beach",
+      "port_dickson",
+      "seaside"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-negeri-sembilan-tanjung-tuan",
+    "slug": "tanjung-tuan",
+    "region": "my-negeri-sembilan",
+    "region_name_vi": "Negeri Sembilan",
+    "country": "malaysia",
+    "name_vi": "Mũi Tanjung Tuan (Cape Rachado)",
+    "name_en": "Tanjung Tuan (Cape Rachado Lighthouse)",
+    "name_local": "Tanjung Tuan",
+    "categories": [
+      "monument",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 2.4056,
+      "lon": 101.8536
+    },
+    "address_vi": "Tanjung Tuan, Port Dickson, Negeri Sembilan",
+    "presentation_short_vi": "Mũi đất và ngọn hải đăng cổ từ thời Bồ Đào Nha, khu rừng bảo tồn ven biển nổi tiếng ngắm chim di cư và hoàng hôn.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.8536,2.4056&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=2.4056,101.8536"
+    },
+    "tags": [
+      "lighthouse",
+      "cape",
+      "nature_reserve"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-negeri-sembilan-taman-tasik-seremban",
+    "slug": "taman-tasik-seremban",
+    "region": "my-negeri-sembilan",
+    "region_name_vi": "Negeri Sembilan",
+    "country": "malaysia",
+    "name_vi": "Vườn hồ Seremban",
+    "name_en": "Seremban Lake Gardens",
+    "name_local": "Taman Tasik Seremban",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 2.7215,
+      "lon": 101.9365
+    },
+    "address_vi": "Jalan Dato' Hamzah, Seremban, Negeri Sembilan",
+    "presentation_short_vi": "Công viên hồ xanh mát giữa lòng thủ phủ Seremban với thảm cỏ, hồ nước và những mái nhà Minangkabau, nơi dạo bộ thư giãn.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.9365,2.7215&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=2.7215,101.9365"
+    },
+    "tags": [
+      "lake",
+      "garden",
+      "seremban"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-negeri-sembilan-muzium-negeri-sembilan",
+    "slug": "muzium-negeri-sembilan",
+    "region": "my-negeri-sembilan",
+    "region_name_vi": "Negeri Sembilan",
+    "country": "malaysia",
+    "name_vi": "Bảo tàng bang Negeri Sembilan",
+    "name_en": "Negeri Sembilan State Museum",
+    "name_local": "Muzium Negeri Sembilan",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 2.7282,
+      "lon": 101.9312
+    },
+    "address_vi": "Jalan Sungai Ujong, Seremban, Negeri Sembilan",
+    "presentation_short_vi": "Bảo tàng bang trưng bày lịch sử, văn hóa Minangkabau cùng cung điện gỗ cổ Istana Ampang Tinggi trong khuôn viên.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.9312,2.7282&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=2.7282,101.9312"
+    },
+    "tags": [
+      "museum",
+      "minangkabau",
+      "culture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-negeri-sembilan-ulu-bendul",
+    "slug": "ulu-bendul",
+    "region": "my-negeri-sembilan",
+    "region_name_vi": "Negeri Sembilan",
+    "country": "malaysia",
+    "name_vi": "Khu du lịch Ulu Bendul",
+    "name_en": "Ulu Bendul Recreational Park",
+    "name_local": "Taman Rekreasi Ulu Bendul",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 2.664,
+      "lon": 102.047
+    },
+    "address_vi": "Kuala Pilah, Negeri Sembilan",
+    "presentation_short_vi": "Khu du lịch sinh thái dưới chân núi Gunung Angsi với suối trong, thác nước và rừng nhiệt đới, điểm cắm trại và leo núi quen thuộc.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=102.047,2.664&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=2.664,102.047"
+    },
+    "tags": [
+      "nature",
+      "waterfall",
+      "hiking"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-negeri-sembilan-gunung-datuk",
+    "slug": "gunung-datuk",
+    "region": "my-negeri-sembilan",
+    "region_name_vi": "Negeri Sembilan",
+    "country": "malaysia",
+    "name_vi": "Núi Gunung Datuk",
+    "name_en": "Gunung Datuk (Mount Datuk)",
+    "name_local": "Gunung Datuk",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 2.533,
+      "lon": 102.067
+    },
+    "address_vi": "Rembau, Negeri Sembilan",
+    "presentation_short_vi": "Đỉnh núi cao khoảng 884m ở Rembau với đường mòn leo núi qua rừng, phần thưởng là tảng đá đỉnh và tầm nhìn toàn cảnh.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=102.067,2.533&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=2.533,102.067"
+    },
+    "tags": [
+      "mountain",
+      "hiking",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-negeri-sembilan-muzium-tentera-darat",
+    "slug": "muzium-tentera-darat",
+    "region": "my-negeri-sembilan",
+    "region_name_vi": "Negeri Sembilan",
+    "country": "malaysia",
+    "name_vi": "Bảo tàng Lục quân",
+    "name_en": "Army Museum Port Dickson",
+    "name_local": "Muzium Tentera Darat",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 2.5165,
+      "lon": 101.7985
+    },
+    "address_vi": "Jalan Pantai, Port Dickson, Negeri Sembilan",
+    "presentation_short_vi": "Bảo tàng Lục quân trưng bày xe tăng, pháo và khí tài quân sự ngoài trời bên bờ biển Port Dickson.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.7985,2.5165&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=2.5165,101.7985"
+    },
+    "tags": [
+      "museum",
+      "military",
+      "port_dickson"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

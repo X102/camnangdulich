@@ -1,0 +1,286 @@
+[
+  {
+    "id": "id-papua-danau-sentani",
+    "slug": "danau-sentani",
+    "region": "id-papua",
+    "country": "indonesia",
+    "region_name_vi": "Papua",
+    "name_vi": "Hồ Sentani",
+    "name_en": "Lake Sentani",
+    "name_local": "Danau Sentani",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": -2.6167,
+      "lon": 140.5333
+    },
+    "address_vi": "Huyện Jayapura, tỉnh Papua, Indonesia",
+    "presentation_short_vi": "Hồ nước ngọt lớn nhất Papua nằm dưới chân dãy Cyclops, rộng khoảng 9.360 ha và điểm xuyết hơn 20 đảo nhỏ cùng các làng nổi của người Sentani. Đây là nơi tổ chức Lễ hội Hồ Sentani hằng năm với thuyền và điệu múa truyền thống.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=140.5333,-2.6167&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-2.6167,140.5333"
+    },
+    "tags": [
+      "top",
+      "lake",
+      "nature",
+      "culture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-papua-cyclops",
+    "slug": "cyclops",
+    "region": "id-papua",
+    "country": "indonesia",
+    "region_name_vi": "Papua",
+    "name_vi": "Khu bảo tồn thiên nhiên Dãy núi Cyclops",
+    "name_en": "Cyclops Mountains Nature Reserve",
+    "name_local": "Cagar Alam Pegunungan Cyclops",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": -2.5164,
+      "lon": 140.5828
+    },
+    "address_vi": "Phía bắc Sentani, tỉnh Papua, Indonesia",
+    "presentation_short_vi": "Khu bảo tồn trải dài sát bờ biển phía bắc Jayapura với đỉnh cao nhất khoảng 2.160 m, rừng mưa nhiệt đới là nơi cư trú của nhiều loài chim và thú đặc hữu. Các cung trekking dẫn tới thác nước và điểm ngắm toàn cảnh hồ Sentani.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=140.5828,-2.5164&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-2.5164,140.5828"
+    },
+    "tags": [
+      "mountain",
+      "nature",
+      "trekking",
+      "wildlife"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-papua-tugu-macarthur",
+    "slug": "tugu-macarthur",
+    "region": "id-papua",
+    "country": "indonesia",
+    "region_name_vi": "Papua",
+    "name_vi": "Đài tưởng niệm MacArthur",
+    "name_en": "MacArthur Monument",
+    "name_local": "Tugu MacArthur",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": -2.575,
+      "lon": 140.515
+    },
+    "address_vi": "Ifar Gunung, Sentani, huyện Jayapura, tỉnh Papua, Indonesia",
+    "presentation_short_vi": "Đài tưởng niệm trên đồi Ifar Gunung gần Sentani, đánh dấu nơi tướng Douglas MacArthur đặt sở chỉ huy chiến dịch Thái Bình Dương năm 1944. Từ đây có tầm nhìn bao quát tuyệt đẹp xuống hồ Sentani.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=140.515,-2.575&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-2.575,140.515"
+    },
+    "tags": [
+      "monument",
+      "wwii",
+      "viewpoint",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-papua-base-g",
+    "slug": "base-g",
+    "region": "id-papua",
+    "country": "indonesia",
+    "region_name_vi": "Papua",
+    "name_vi": "Bãi biển Base G",
+    "name_en": "Base G Beach",
+    "name_local": "Pantai Base G",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": -2.505,
+      "lon": 140.685
+    },
+    "address_vi": "Thành phố Jayapura, tỉnh Papua, Indonesia",
+    "presentation_short_vi": "Bãi biển cát trắng nổi tiếng ở Jayapura, được đặt tên theo căn cứ quân sự Đồng minh thời Thế chiến II ('Base G'). Sóng êm và hoàng hôn đẹp khiến đây là điểm dã ngoại cuối tuần được yêu thích.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=140.685,-2.505&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-2.505,140.685"
+    },
+    "tags": [
+      "beach",
+      "wwii",
+      "sunset"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-papua-jembatan-youtefa",
+    "slug": "jembatan-youtefa",
+    "region": "id-papua",
+    "country": "indonesia",
+    "region_name_vi": "Papua",
+    "name_vi": "Cầu Youtefa",
+    "name_en": "Youtefa Bridge",
+    "name_local": "Jembatan Youtefa",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": -2.6083,
+      "lon": 140.735
+    },
+    "address_vi": "Vịnh Youtefa, thành phố Jayapura, tỉnh Papua, Indonesia",
+    "presentation_short_vi": "Cây cầu vòm thép màu đỏ dài gần 1,3 km bắc qua vịnh Youtefa, khánh thành năm 2019, nối Hamadi với Holtekamp. Cầu đã trở thành biểu tượng mới của thành phố Jayapura.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=140.735,-2.6083&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-2.6083,140.735"
+    },
+    "tags": [
+      "top",
+      "bridge",
+      "landmark",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-papua-hamadi",
+    "slug": "hamadi",
+    "region": "id-papua",
+    "country": "indonesia",
+    "region_name_vi": "Papua",
+    "name_vi": "Bãi biển Hamadi",
+    "name_en": "Hamadi Beach",
+    "name_local": "Pantai Hamadi",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": -2.5533,
+      "lon": 140.695
+    },
+    "address_vi": "Jayapura Selatan, thành phố Jayapura, tỉnh Papua, Indonesia",
+    "presentation_short_vi": "Bãi biển lịch sử ở nam Jayapura, nơi quân Đồng minh đổ bộ tháng 4/1944; ven bờ vẫn còn xác xe tăng lội nước thời chiến. Ngày nay là bãi tắm và chợ hải sản nhộn nhịp.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=140.695,-2.5533&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-2.5533,140.695"
+    },
+    "tags": [
+      "beach",
+      "wwii",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-papua-bosnik",
+    "slug": "bosnik",
+    "region": "id-papua",
+    "country": "indonesia",
+    "region_name_vi": "Papua",
+    "name_vi": "Bãi biển Bosnik",
+    "name_en": "Bosnik Beach",
+    "name_local": "Pantai Bosnik",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": -1.203,
+      "lon": 136.175
+    },
+    "address_vi": "Đảo Biak, huyện Biak Numfor, tỉnh Papua, Indonesia",
+    "presentation_short_vi": "Bãi biển cát trắng ở phía đông đảo Biak, cửa ngõ ra quần đảo Padaido với rạn san hô đẹp. Khu vực còn lưu giữ nhiều di tích Thế chiến II.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=136.175,-1.203&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-1.203,136.175"
+    },
+    "tags": [
+      "beach",
+      "island",
+      "snorkeling",
+      "wwii"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-papua-tablanusu",
+    "slug": "tablanusu",
+    "region": "id-papua",
+    "country": "indonesia",
+    "region_name_vi": "Papua",
+    "name_vi": "Bãi biển Tablanusu",
+    "name_en": "Tablanusu Beach",
+    "name_local": "Pantai Tablanusu",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": -2.46,
+      "lon": 140.305
+    },
+    "address_vi": "Depapre, huyện Jayapura, tỉnh Papua, Indonesia",
+    "presentation_short_vi": "Làng du lịch ven biển ở huyện Depapre với bãi 'cát' độc đáo phủ toàn sỏi đen bóng. Nơi đây gìn giữ nếp sống và văn hóa truyền thống của người Papua.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=140.305,-2.46&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-2.46,140.305"
+    },
+    "tags": [
+      "beach",
+      "village",
+      "culture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-papua-loka-budaya",
+    "slug": "loka-budaya",
+    "region": "id-papua",
+    "country": "indonesia",
+    "region_name_vi": "Papua",
+    "name_vi": "Bảo tàng Loka Budaya",
+    "name_en": "Loka Budaya Museum",
+    "name_local": "Museum Loka Budaya",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": -2.598,
+      "lon": 140.638
+    },
+    "address_vi": "Đại học Cenderawasih, Abepura, thành phố Jayapura, tỉnh Papua, Indonesia",
+    "presentation_short_vi": "Bảo tàng trong khuôn viên Đại học Cenderawasih (Abepura) trưng bày bộ sưu tập phong phú nghệ thuật Papua, nổi bật là tượng và mộc bản chạm khắc của người Asmat.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=140.638,-2.598&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-2.598,140.638"
+    },
+    "tags": [
+      "museum",
+      "culture",
+      "art"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

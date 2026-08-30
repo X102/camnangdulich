@@ -1,0 +1,256 @@
+[
+  {
+    "id": "kr-busan-haeundae-beach",
+    "slug": "haeundae-beach",
+    "region": "kr-busan",
+    "region_name_vi": "Busan",
+    "country": "korea",
+    "name_vi": "Bãi biển Haeundae",
+    "name_en": "Haeundae Beach",
+    "name_local": "해운대해수욕장",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.1587,
+      "lon": 129.1604
+    },
+    "address_vi": "Quận Haeundae, Busan",
+    "presentation_short_vi": "Bãi biển nổi tiếng nhất Hàn Quốc với dải cát dài khoảng 1,5 km bên vịnh, kín người vào mùa hè. Xung quanh là các khách sạn, quán cà phê và đảo nhỏ Dongbaekseom nhiều cây trà hoa.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=129.1604,35.1587&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.1587,129.1604"
+    },
+    "tags": [
+      "beach",
+      "top",
+      "summer"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-busan-gamcheon",
+    "slug": "gamcheon",
+    "region": "kr-busan",
+    "region_name_vi": "Busan",
+    "country": "korea",
+    "name_vi": "Làng văn hóa Gamcheon",
+    "name_en": "Gamcheon Culture Village",
+    "name_local": "감천문화마을",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 35.0975,
+      "lon": 129.0106
+    },
+    "address_vi": "203 Gamnae 2-ro, quận Saha, Busan",
+    "presentation_short_vi": "Khu làng trên sườn đồi với những ngôi nhà bậc thang sơn màu rực rỡ, được ví như 'Santorini của Hàn Quốc'. Các con hẻm đầy tranh tường và tác phẩm nghệ thuật khiến nơi đây thành điểm sống ảo nổi tiếng.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=129.0106,35.0975&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.0975,129.0106"
+    },
+    "tags": [
+      "village",
+      "art",
+      "photo",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-busan-haedong-yonggungsa",
+    "slug": "haedong-yonggungsa",
+    "region": "kr-busan",
+    "region_name_vi": "Busan",
+    "country": "korea",
+    "name_vi": "Chùa Haedong Yonggungsa (Hải Đông Long Cung Tự)",
+    "name_en": "Haedong Yonggungsa",
+    "name_local": "해동용궁사",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 35.1883,
+      "lon": 129.2233
+    },
+    "address_vi": "86 Yonggung-gil, quận Gijang, Busan",
+    "presentation_short_vi": "Ngôi chùa hiếm hoi nằm sát mép biển, sóng vỗ ngay dưới chân các điện thờ. Cảnh chùa vàng son trên vách đá nhìn ra biển Đông đẹp nhất vào lúc bình minh.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=129.2233,35.1883&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.1883,129.2233"
+    },
+    "tags": [
+      "temple",
+      "buddhism",
+      "sea",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-busan-gwangalli-beach",
+    "slug": "gwangalli-beach",
+    "region": "kr-busan",
+    "region_name_vi": "Busan",
+    "country": "korea",
+    "name_vi": "Bãi biển Gwangalli",
+    "name_en": "Gwangalli Beach",
+    "name_local": "광안리해수욕장",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.1532,
+      "lon": 129.1188
+    },
+    "address_vi": "Quận Suyeong, Busan",
+    "presentation_short_vi": "Bãi biển sôi động nổi tiếng với tầm nhìn thẳng ra cầu Gwangan (Diamond Bridge) lung linh ánh đèn về đêm. Bờ biển san sát quán cà phê, hải sản và là nơi diễn ra lễ hội pháo hoa Busan.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=129.1188,35.1532&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.1532,129.1188"
+    },
+    "tags": [
+      "beach",
+      "nightview",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-busan-jagalchi-market",
+    "slug": "jagalchi-market",
+    "region": "kr-busan",
+    "region_name_vi": "Busan",
+    "country": "korea",
+    "name_vi": "Chợ hải sản Jagalchi",
+    "name_en": "Jagalchi Market",
+    "name_local": "자갈치시장",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 35.0967,
+      "lon": 129.0305
+    },
+    "address_vi": "52 Jagalchihaean-ro, quận Jung, Busan",
+    "presentation_short_vi": "Chợ hải sản lớn nhất Hàn Quốc bên bến cảng, nơi có thể chọn hải sản tươi sống và thưởng thức tại chỗ. Không khí náo nhiệt gắn với hình ảnh các 'jagalchi ajumma' – những người phụ nữ bán cá.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=129.0305,35.0967&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.0967,129.0305"
+    },
+    "tags": [
+      "market",
+      "seafood",
+      "food",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-busan-beomeosa",
+    "slug": "beomeosa",
+    "region": "kr-busan",
+    "region_name_vi": "Busan",
+    "country": "korea",
+    "name_vi": "Chùa Beomeosa (Phạm Ngư Tự)",
+    "name_en": "Beomeosa Temple",
+    "name_local": "범어사",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 35.2841,
+      "lon": 129.0689
+    },
+    "address_vi": "250 Beomeosa-ro, quận Geumjeong, dưới chân núi Geumjeongsan, Busan",
+    "presentation_short_vi": "Một trong những ngôi cổ tự lớn nhất vùng đông nam Hàn Quốc, khởi dựng năm 678 dưới chân núi Geumjeongsan. Chùa yên tĩnh giữa rừng, nổi tiếng với cổng Iljumun và các bảo vật kiến trúc thời Joseon.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=129.0689,35.2841&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.2841,129.0689"
+    },
+    "tags": [
+      "temple",
+      "buddhism",
+      "mountain",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-busan-taejongdae",
+    "slug": "taejongdae",
+    "region": "kr-busan",
+    "region_name_vi": "Busan",
+    "country": "korea",
+    "name_vi": "Công viên Taejongdae",
+    "name_en": "Taejongdae",
+    "name_local": "태종대",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.0536,
+      "lon": 129.087
+    },
+    "address_vi": "24 Jeondae-ro, quận Yeongdo, Busan",
+    "presentation_short_vi": "Công viên trên mũi đảo Yeongdo với vách đá dựng đứng, rừng cây và hải đăng trắng nhìn ra biển. Xe điện Danubi đưa khách vòng quanh các điểm ngắm cảnh và đài quan sát.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=129.087,35.0536&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.0536,129.087"
+    },
+    "tags": [
+      "cliff",
+      "nature",
+      "view",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-busan-gukje-market",
+    "slug": "gukje-market",
+    "region": "kr-busan",
+    "region_name_vi": "Busan",
+    "country": "korea",
+    "name_vi": "Chợ Gukje (Chợ Quốc Tế) & phố BIFF",
+    "name_en": "Gukje Market & BIFF Square",
+    "name_local": "국제시장",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 35.0996,
+      "lon": 129.0269
+    },
+    "address_vi": "Sinchang-dong, quận Jung, Busan",
+    "presentation_short_vi": "Khu chợ truyền thống lớn hình thành sau chiến tranh, bán đủ thứ từ quần áo, đồ gia dụng đến ẩm thực đường phố. Ngay cạnh là quảng trường BIFF – cái nôi của Liên hoan phim quốc tế Busan.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=129.0269,35.0996&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.0996,129.0269"
+    },
+    "tags": [
+      "market",
+      "food",
+      "street",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  }
+]

@@ -1,0 +1,312 @@
+[
+  {
+    "id": "th-chiang-rai-wat-rong-khun",
+    "slug": "wat-rong-khun",
+    "region": "th-chiang-rai",
+    "country": "thailand",
+    "region_name_vi": "Chiang Rai",
+    "name_vi": "Chùa Trắng (Wat Rong Khun)",
+    "name_en": "Wat Rong Khun (White Temple)",
+    "name_local": "วัดร่องขุ่น",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 19.8247,
+      "lon": 99.7633
+    },
+    "address_vi": "Huyện Mueang Chiang Rai, tỉnh Chiang Rai",
+    "rating": null,
+    "presentation_short_vi": "Ngôi chùa trắng muốt phủ mảnh gương lấp lánh do nghệ sĩ Chalermchai Kositpipat thiết kế, là biểu tượng của Chiang Rai. Cầu vượt qua bàn tay tượng trưng cho hành trình từ luân hồi tới giác ngộ.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=99.7633,19.8247&z=17&pt=99.7633,19.8247",
+      "google": "https://www.google.com/maps/search/?api=1&query=19.8247,99.7633"
+    },
+    "tags": [
+      "temple",
+      "white_temple",
+      "art"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "th-chiang-rai-wat-rong-suea-ten",
+    "slug": "wat-rong-suea-ten",
+    "region": "th-chiang-rai",
+    "country": "thailand",
+    "region_name_vi": "Chiang Rai",
+    "name_vi": "Chùa Xanh (Wat Rong Suea Ten)",
+    "name_en": "Wat Rong Suea Ten (Blue Temple)",
+    "name_local": "วัดร่องเสือเต้น",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 19.9285,
+      "lon": 99.8339
+    },
+    "address_vi": "Huyện Mueang Chiang Rai, tỉnh Chiang Rai",
+    "rating": null,
+    "presentation_short_vi": "Ngôi chùa nổi bật với sắc xanh lam rực rỡ và tượng Phật trắng lớn bên trong. Kiến trúc hiện đại, huyền ảo khiến đây thành điểm check-in nổi tiếng của Chiang Rai.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=99.8339,19.9285&z=17&pt=99.8339,19.9285",
+      "google": "https://www.google.com/maps/search/?api=1&query=19.9285,99.8339"
+    },
+    "tags": [
+      "temple",
+      "blue_temple",
+      "art"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "th-chiang-rai-baan-dam-museum",
+    "slug": "baan-dam-museum",
+    "region": "th-chiang-rai",
+    "country": "thailand",
+    "region_name_vi": "Chiang Rai",
+    "name_vi": "Bảo tàng Nhà Đen (Baan Dam)",
+    "name_en": "Baan Dam Museum (Black House)",
+    "name_local": "พิพิธภัณฑ์บ้านดำ",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 19.9998,
+      "lon": 99.8247
+    },
+    "address_vi": "Xã Nang Lae, huyện Mueang Chiang Rai, tỉnh Chiang Rai",
+    "rating": null,
+    "presentation_short_vi": "Quần thể gần 40 công trình nhà gỗ đen của nghệ sĩ Thawan Duchanee, trưng bày xương, da thú và tác phẩm điêu khắc kỳ dị. Là đối trọng u tối với Chùa Trắng, thể hiện triết lý sinh - tử.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=99.8247,19.9998&z=17&pt=99.8247,19.9998",
+      "google": "https://www.google.com/maps/search/?api=1&query=19.9998,99.8247"
+    },
+    "tags": [
+      "museum",
+      "art",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "th-chiang-rai-wat-phra-kaew",
+    "slug": "wat-phra-kaew",
+    "region": "th-chiang-rai",
+    "country": "thailand",
+    "region_name_vi": "Chiang Rai",
+    "name_vi": "Chùa Phra Kaew Chiang Rai",
+    "name_en": "Wat Phra Kaew (Chiang Rai)",
+    "name_local": "วัดพระแก้ว",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 19.9105,
+      "lon": 99.829
+    },
+    "address_vi": "Huyện Mueang Chiang Rai, tỉnh Chiang Rai",
+    "rating": null,
+    "presentation_short_vi": "Ngôi chùa cổ nơi phát hiện tượng Phật Ngọc Bích danh tiếng của Thái Lan vào năm 1434. Ngày nay lưu giữ bản sao tượng Phật Ngọc và là chùa quan trọng bậc nhất tỉnh.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=99.829,19.9105&z=17&pt=99.829,19.9105",
+      "google": "https://www.google.com/maps/search/?api=1&query=19.9105,99.829"
+    },
+    "tags": [
+      "temple",
+      "emerald_buddha",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "th-chiang-rai-golden-triangle",
+    "slug": "golden-triangle-sop-ruak",
+    "region": "th-chiang-rai",
+    "country": "thailand",
+    "region_name_vi": "Chiang Rai",
+    "name_vi": "Tam giác Vàng (Sop Ruak)",
+    "name_en": "Golden Triangle (Sop Ruak)",
+    "name_local": "สามเหลี่ยมทองคำ",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 20.3519,
+      "lon": 100.0805
+    },
+    "address_vi": "Xã Wiang, huyện Chiang Saen, tỉnh Chiang Rai",
+    "rating": null,
+    "presentation_short_vi": "Nơi sông Ruak gặp sông Mekong, giao điểm biên giới Thái Lan - Lào - Myanmar nổi tiếng lịch sử. Điểm ngắm cảnh có tượng Phật lớn, du thuyền trên Mekong và bảo tàng thuốc phiện gần đó.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.0805,20.3519&z=17&pt=100.0805,20.3519",
+      "google": "https://www.google.com/maps/search/?api=1&query=20.3519,100.0805"
+    },
+    "tags": [
+      "viewpoint",
+      "river",
+      "border"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "th-chiang-rai-singha-park",
+    "slug": "singha-park",
+    "region": "th-chiang-rai",
+    "country": "thailand",
+    "region_name_vi": "Chiang Rai",
+    "name_vi": "Công viên Singha (Trại Boon Rawd)",
+    "name_en": "Singha Park",
+    "name_local": "สิงห์ปาร์ค",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 19.8656,
+      "lon": 99.7861
+    },
+    "address_vi": "Huyện Mueang Chiang Rai, tỉnh Chiang Rai",
+    "rating": null,
+    "presentation_short_vi": "Trang trại - công viên rộng lớn với đồi trà xanh, vườn hoa và biểu tượng sư tử vàng của hãng bia Singha. Du khách đạp xe, ngắm cảnh và chụp ảnh giữa những cánh đồng trải dài.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=99.7861,19.8656&z=17&pt=99.7861,19.8656",
+      "google": "https://www.google.com/maps/search/?api=1&query=19.8656,99.7861"
+    },
+    "tags": [
+      "park",
+      "tea",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "th-chiang-rai-wat-huay-pla-kang",
+    "slug": "wat-huay-pla-kang",
+    "region": "th-chiang-rai",
+    "country": "thailand",
+    "region_name_vi": "Chiang Rai",
+    "name_vi": "Chùa Huay Pla Kang (Đại Quan Âm)",
+    "name_en": "Wat Huay Pla Kang",
+    "name_local": "วัดห้วยปลากั้ง",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 19.9472,
+      "lon": 99.8039
+    },
+    "address_vi": "Huyện Mueang Chiang Rai, tỉnh Chiang Rai",
+    "rating": null,
+    "presentation_short_vi": "Ngôi chùa trên đồi nổi bật với tượng Quan Âm trắng khổng lồ cao khoảng 79 m nhìn xuống thành phố. Có tháp chín tầng kiểu Hoa và thang máy lên đỉnh tượng để ngắm toàn cảnh.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=99.8039,19.9472&z=17&pt=99.8039,19.9472",
+      "google": "https://www.google.com/maps/search/?api=1&query=19.9472,99.8039"
+    },
+    "tags": [
+      "temple",
+      "statue",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "th-chiang-rai-mae-fah-luang-doi-tung",
+    "slug": "mae-fah-luang-garden-doi-tung",
+    "region": "th-chiang-rai",
+    "country": "thailand",
+    "region_name_vi": "Chiang Rai",
+    "name_vi": "Vườn Mae Fah Luang & Doi Tung",
+    "name_en": "Mae Fah Luang Garden & Doi Tung",
+    "name_local": "สวนแม่ฟ้าหลวง ดอยตุง",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 20.2916,
+      "lon": 99.813
+    },
+    "address_vi": "Huyện Mae Fa Luang, tỉnh Chiang Rai",
+    "rating": null,
+    "presentation_short_vi": "Khu vườn hoa rực rỡ trên núi Doi Tung cùng biệt điện hoàng gia của Vương Thái hậu. Khí hậu mát mẻ, hoa nở quanh năm và gần đền Wat Phra That Doi Tung linh thiêng.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=99.813,20.2916&z=17&pt=99.813,20.2916",
+      "google": "https://www.google.com/maps/search/?api=1&query=20.2916,99.813"
+    },
+    "tags": [
+      "garden",
+      "mountain",
+      "royal"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "th-chiang-rai-chiang-rai-clock-tower",
+    "slug": "chiang-rai-clock-tower",
+    "region": "th-chiang-rai",
+    "country": "thailand",
+    "region_name_vi": "Chiang Rai",
+    "name_vi": "Tháp Đồng hồ Vàng Chiang Rai",
+    "name_en": "Chiang Rai Clock Tower",
+    "name_local": "หอนาฬิกาเฉลิมพระเกียรติ",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 19.9083,
+      "lon": 99.832
+    },
+    "address_vi": "Trung tâm thành phố Chiang Rai, tỉnh Chiang Rai",
+    "rating": null,
+    "presentation_short_vi": "Tháp đồng hồ mạ vàng do nghệ sĩ Chùa Trắng thiết kế, đứng giữa vòng xoay trung tâm thành phố. Mỗi tối có màn trình diễn đổi màu ánh sáng kèm nhạc thu hút du khách.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=99.832,19.9083&z=17&pt=99.832,19.9083",
+      "google": "https://www.google.com/maps/search/?api=1&query=19.9083,99.832"
+    },
+    "tags": [
+      "landmark",
+      "gold",
+      "city"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "th-chiang-rai-wat-phra-that-doi-chom-thong",
+    "slug": "wat-phra-that-doi-chom-thong",
+    "region": "th-chiang-rai",
+    "country": "thailand",
+    "region_name_vi": "Chiang Rai",
+    "name_vi": "Chùa Phra That Doi Chom Thong",
+    "name_en": "Wat Phra That Doi Chom Thong",
+    "name_local": "วัดพระธาตุดอยจอมทอง",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 19.9112,
+      "lon": 99.8247
+    },
+    "address_vi": "Huyện Mueang Chiang Rai, tỉnh Chiang Rai",
+    "rating": null,
+    "presentation_short_vi": "Ngôi chùa cổ nhất Chiang Rai trên đồi bên sông Kok, nơi đặt cột trụ thành phố (lak mueang). Bảo tháp vàng và tầm nhìn ra dòng sông khiến đây là điểm hành hương lâu đời.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=99.8247,19.9112&z=17&pt=99.8247,19.9112",
+      "google": "https://www.google.com/maps/search/?api=1&query=19.9112,99.8247"
+    },
+    "tags": [
+      "temple",
+      "chedi",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  }
+]

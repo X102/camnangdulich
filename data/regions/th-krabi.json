@@ -1,0 +1,308 @@
+[
+  {
+    "id": "th-krabi-railay-beach",
+    "slug": "railay-beach",
+    "region": "th-krabi",
+    "country": "thailand",
+    "region_name_vi": "Krabi",
+    "name_vi": "Bãi biển Railay",
+    "name_en": "Railay Beach",
+    "name_local": "หาดไร่เลย์",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 8.0106,
+      "lon": 98.8394
+    },
+    "address_vi": "Bán đảo Railay, huyện Mueang Krabi, tỉnh Krabi",
+    "rating": null,
+    "presentation_short_vi": "Bán đảo cát trắng bị vách núi đá vôi cô lập, chỉ tới được bằng thuyền đuôi dài. Railay nổi tiếng với bãi tắm đẹp và các vách leo núi hàng đầu Thái Lan.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=98.8394,8.0106&z=17&pt=98.8394,8.0106",
+      "google": "https://www.google.com/maps/search/?api=1&query=8.0106,98.8394"
+    },
+    "tags": [
+      "beach",
+      "rock_climbing"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "th-krabi-ao-nang-beach",
+    "slug": "ao-nang-beach",
+    "region": "th-krabi",
+    "country": "thailand",
+    "region_name_vi": "Krabi",
+    "name_vi": "Bãi biển Ao Nang",
+    "name_en": "Ao Nang Beach",
+    "name_local": "หาดอ่าวนาง",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 8.0324,
+      "lon": 98.8218
+    },
+    "address_vi": "Thị trấn Ao Nang, huyện Mueang Krabi, tỉnh Krabi",
+    "rating": null,
+    "presentation_short_vi": "Bãi biển và phố du lịch trung tâm của Krabi, là điểm xuất phát của hầu hết tour đảo. Bờ biển dài với hàng dừa cùng nhiều nhà hàng, khách sạn.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=98.8218,8.0324&z=17&pt=98.8218,8.0324",
+      "google": "https://www.google.com/maps/search/?api=1&query=8.0324,98.8218"
+    },
+    "tags": [
+      "beach",
+      "resort"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "th-krabi-phra-nang-cave-beach",
+    "slug": "phra-nang-cave-beach",
+    "region": "th-krabi",
+    "country": "thailand",
+    "region_name_vi": "Krabi",
+    "name_vi": "Bãi biển Hang Phra Nang",
+    "name_en": "Phra Nang Cave Beach",
+    "name_local": "หาดถ้ำพระนาง",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 8.0056,
+      "lon": 98.8384
+    },
+    "address_vi": "Bán đảo Railay, huyện Mueang Krabi, tỉnh Krabi",
+    "rating": null,
+    "presentation_short_vi": "Bãi biển thường được xếp hạng đẹp nhất Krabi, nằm dưới vách đá vôi có hang thờ Công chúa. Nước biển trong xanh, cát mịn và có đảo đá ngoài khơi.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=98.8384,8.0056&z=17&pt=98.8384,8.0056",
+      "google": "https://www.google.com/maps/search/?api=1&query=8.0056,98.8384"
+    },
+    "tags": [
+      "beach",
+      "cave"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "th-krabi-wat-tham-suea",
+    "slug": "wat-tham-suea",
+    "region": "th-krabi",
+    "country": "thailand",
+    "region_name_vi": "Krabi",
+    "name_vi": "Chùa Hang Cọp (Wat Tham Suea)",
+    "name_en": "Tiger Cave Temple (Wat Tham Suea)",
+    "name_local": "วัดถ้ำเสือ",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 8.1264,
+      "lon": 98.9245
+    },
+    "address_vi": "Huyện Mueang Krabi, tỉnh Krabi",
+    "rating": null,
+    "presentation_short_vi": "Ngôi chùa trong hang nổi tiếng với 1.237 bậc thang leo lên đỉnh núi, nơi có tượng Phật và tầm nhìn toàn cảnh. Là điểm hành hương và ngắm cảnh bậc nhất Krabi.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=98.9245,8.1264&z=17&pt=98.9245,8.1264",
+      "google": "https://www.google.com/maps/search/?api=1&query=8.1264,98.9245"
+    },
+    "tags": [
+      "temple",
+      "viewpoint",
+      "stairs"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "th-krabi-phi-phi-islands",
+    "slug": "phi-phi-islands",
+    "region": "th-krabi",
+    "country": "thailand",
+    "region_name_vi": "Krabi",
+    "name_vi": "Quần đảo Phi Phi",
+    "name_en": "Phi Phi Islands (Ko Phi Phi Don)",
+    "name_local": "หมู่เกาะพีพี",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 7.7407,
+      "lon": 98.7784
+    },
+    "address_vi": "Huyện Mueang Krabi, tỉnh Krabi",
+    "rating": null,
+    "presentation_short_vi": "Quần đảo biển nổi tiếng thế giới với nước biển ngọc bích, vách đá vôi và các vịnh kín. Ko Phi Phi Don là đảo chính có làng, bãi tắm và điểm lặn ngắm san hô.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=98.7784,7.7407&z=17&pt=98.7784,7.7407",
+      "google": "https://www.google.com/maps/search/?api=1&query=7.7407,98.7784"
+    },
+    "tags": [
+      "island",
+      "snorkeling",
+      "beach"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "th-krabi-maya-bay",
+    "slug": "maya-bay",
+    "region": "th-krabi",
+    "country": "thailand",
+    "region_name_vi": "Krabi",
+    "name_vi": "Vịnh Maya",
+    "name_en": "Maya Bay (Ko Phi Phi Le)",
+    "name_local": "อ่าวมาหยา",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 7.6786,
+      "lon": 98.7656
+    },
+    "address_vi": "Ko Phi Phi Le, huyện Mueang Krabi, tỉnh Krabi",
+    "rating": null,
+    "presentation_short_vi": "Vịnh nhỏ được vách đá vôi ôm trọn, nổi tiếng nhờ bộ phim The Beach. Bãi cát trắng cùng làn nước trong là biểu tượng du lịch của biển Andaman.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=98.7656,7.6786&z=17&pt=98.7656,7.6786",
+      "google": "https://www.google.com/maps/search/?api=1&query=7.6786,98.7656"
+    },
+    "tags": [
+      "bay",
+      "beach",
+      "snorkeling"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "th-krabi-emerald-pool",
+    "slug": "emerald-pool",
+    "region": "th-krabi",
+    "country": "thailand",
+    "region_name_vi": "Krabi",
+    "name_vi": "Hồ Ngọc Bích (Sa Morakot)",
+    "name_en": "Emerald Pool (Sa Morakot)",
+    "name_local": "สระมรกต",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 7.9245,
+      "lon": 99.2686
+    },
+    "address_vi": "Khu bảo tồn Khao Nor Chuchi, huyện Khlong Thom, tỉnh Krabi",
+    "rating": null,
+    "presentation_short_vi": "Hồ nước khoáng thiên nhiên màu xanh ngọc giữa rừng nhiệt đới Khao Nor Chuchi. Du khách có thể bơi trong làn nước ấm trong vắt và đi bộ tới hồ Xanh gần đó.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=99.2686,7.9245&z=17&pt=99.2686,7.9245",
+      "google": "https://www.google.com/maps/search/?api=1&query=7.9245,99.2686"
+    },
+    "tags": [
+      "natural_pool",
+      "forest",
+      "swimming"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "th-krabi-hong-islands",
+    "slug": "hong-islands",
+    "region": "th-krabi",
+    "country": "thailand",
+    "region_name_vi": "Krabi",
+    "name_vi": "Quần đảo Hong",
+    "name_en": "Hong Islands (Ko Hong)",
+    "name_local": "หมู่เกาะห้อง",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 8.0847,
+      "lon": 98.7156
+    },
+    "address_vi": "Vịnh Phang Nga, huyện Mueang Krabi, tỉnh Krabi",
+    "rating": null,
+    "presentation_short_vi": "Nhóm đảo đá vôi với đầm nước kín (lagoon) ở giữa và bãi cát trắng. Là điểm chèo kayak, bơi và ngắm san hô nổi tiếng trong vùng biển Krabi.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=98.7156,8.0847&z=17&pt=98.7156,8.0847",
+      "google": "https://www.google.com/maps/search/?api=1&query=8.0847,98.7156"
+    },
+    "tags": [
+      "island",
+      "lagoon",
+      "kayak"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "th-krabi-khao-khanab-nam",
+    "slug": "khao-khanab-nam",
+    "region": "th-krabi",
+    "country": "thailand",
+    "region_name_vi": "Krabi",
+    "name_vi": "Núi đôi Khao Khanab Nam",
+    "name_en": "Khao Khanab Nam",
+    "name_local": "เขาขนาบน้ำ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 8.0783,
+      "lon": 98.9089
+    },
+    "address_vi": "Cửa sông Krabi, huyện Mueang Krabi, tỉnh Krabi",
+    "rating": null,
+    "presentation_short_vi": "Hai ngọn núi đá vôi cao khoảng 100 m đứng hai bên cửa sông Krabi, là biểu tượng của thành phố. Trong lòng núi có hệ thống hang động từng phát hiện hài cốt cổ.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=98.9089,8.0783&z=17&pt=98.9089,8.0783",
+      "google": "https://www.google.com/maps/search/?api=1&query=8.0783,98.9089"
+    },
+    "tags": [
+      "mountain",
+      "river",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "th-krabi-wat-kaew-korawaram",
+    "slug": "wat-kaew-korawaram",
+    "region": "th-krabi",
+    "country": "thailand",
+    "region_name_vi": "Krabi",
+    "name_vi": "Chùa Wat Kaew Korawaram",
+    "name_en": "Wat Kaew Korawaram",
+    "name_local": "วัดแก้วโกรวาราม",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 8.0603,
+      "lon": 98.9186
+    },
+    "address_vi": "Trung tâm thành phố Krabi, tỉnh Krabi",
+    "rating": null,
+    "presentation_short_vi": "Ngôi chùa trắng nổi bật trên đồi giữa thành phố Krabi, lên bằng bậc thang có tượng rắn Naga. Kiến trúc màu trắng thanh thoát và là chùa trung tâm của tỉnh.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=98.9186,8.0603&z=17&pt=98.9186,8.0603",
+      "google": "https://www.google.com/maps/search/?api=1&query=8.0603,98.9186"
+    },
+    "tags": [
+      "temple",
+      "white_temple"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  }
+]

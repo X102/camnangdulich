@@ -1,0 +1,165 @@
+[
+  {
+    "id": "la-attapeu-nong-fa-lake",
+    "slug": "nong-fa-lake",
+    "region": "la-attapeu",
+    "region_name_vi": "Attapeu",
+    "country": "laos",
+    "name_vi": "Hồ Nong Fa",
+    "name_en": "Nong Fa Lake",
+    "name_local": "ໜອງຟ້າ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 15.106,
+      "lon": 107.424
+    },
+    "address_vi": "Huyện Sanxay, khu bảo tồn Dong Ampham, đông bắc tỉnh Attapeu, Lào",
+    "presentation_short_vi": "Hồ miệng núi lửa nước xanh biếc ở độ cao ~1.150 m giữa rừng thông và núi non, được xem là viên ngọc bí ẩn của Attapeu.",
+    "rating": null,
+    "tags": [
+      "ho-nuoc",
+      "mieng-nui-lua",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "la-attapeu-samakkhixay-town",
+    "slug": "samakkhixay-town",
+    "region": "la-attapeu",
+    "region_name_vi": "Attapeu",
+    "country": "laos",
+    "name_vi": "Thị trấn Attapeu (Samakkhixay)",
+    "name_en": "Attapeu Town (Samakkhixay)",
+    "name_local": "ເມືອງສາມັກຄີໄຊ",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 14.8194,
+      "lon": 106.8208
+    },
+    "address_vi": "Huyện Samakkhixay, tỉnh lỵ Attapeu, Lào",
+    "presentation_short_vi": "Thị trấn tỉnh lỵ xanh mát bên hợp lưu sông Xe Kong và Xe Kaman, thường được gọi là 'khu vườn phương Nam' của Lào.",
+    "rating": null,
+    "tags": [
+      "thi-tran",
+      "tinh-ly",
+      "song"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "la-attapeu-wat-luang-muang-mai",
+    "slug": "wat-luang-muang-mai",
+    "region": "la-attapeu",
+    "region_name_vi": "Attapeu",
+    "country": "laos",
+    "name_vi": "Chùa Wat Luang Muang Mai",
+    "name_en": "Wat Luang Muang Mai",
+    "name_local": "ວັດຫຼວງເມືອງໃໝ່",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 14.8205,
+      "lon": 106.8215
+    },
+    "address_vi": "Trung tâm thị trấn Attapeu, Lào",
+    "presentation_short_vi": "Ngôi chùa dựng năm 1939 ở trung tâm thị trấn, nổi bật với các diềm mái chạm hình rắn thần Naga nguyên bản.",
+    "rating": null,
+    "tags": [
+      "chua",
+      "kien-truc",
+      "di-tich"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "la-attapeu-that-saysettha",
+    "slug": "that-saysettha",
+    "region": "la-attapeu",
+    "region_name_vi": "Attapeu",
+    "country": "laos",
+    "name_vi": "Tháp That Saysettha",
+    "name_en": "That Saysettha Stupa",
+    "name_local": "ພະທາດໄຊເສດຖາທິລາດ",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 14.813,
+      "lon": 106.94
+    },
+    "address_vi": "Huyện Xaysetha, tỉnh Attapeu, Lào",
+    "presentation_short_vi": "Ngôi bảo tháp cổ dựng năm 1577, tương truyền lưu giữ di cốt vua Sayasetthathirath của vương quốc Lan Xang.",
+    "rating": null,
+    "tags": [
+      "thap",
+      "di-tich",
+      "lich-su"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "la-attapeu-dong-ampham-npa",
+    "slug": "dong-ampham-npa",
+    "region": "la-attapeu",
+    "region_name_vi": "Attapeu",
+    "country": "laos",
+    "name_vi": "Khu bảo tồn Dong Ampham",
+    "name_en": "Dong Ampham National Protected Area",
+    "name_local": "ເຂດປ່າສະຫງວນດົງອຳພຳ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 15.15,
+      "lon": 107.3
+    },
+    "address_vi": "Đông bắc tỉnh Attapeu, giáp Việt Nam, Lào",
+    "presentation_short_vi": "Khu bảo tồn rộng gần 2.000 km² bao trọn hồ Nong Fa, là nơi cư trú của vượn, báo, hổ, voi và hàng trăm loài chim.",
+    "rating": null,
+    "tags": [
+      "khu-bao-ton",
+      "thien-nhien",
+      "rung"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "la-attapeu-xe-pian-npa",
+    "slug": "xe-pian-npa",
+    "region": "la-attapeu",
+    "region_name_vi": "Attapeu",
+    "country": "laos",
+    "name_vi": "Khu bảo tồn Xe Pian",
+    "name_en": "Xe Pian National Protected Area",
+    "name_local": "ເຂດປ່າສະຫງວນເຊປຽນ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 14.45,
+      "lon": 106.55
+    },
+    "address_vi": "Tây nam tỉnh Attapeu, trải sang Champasak, Lào",
+    "presentation_short_vi": "Khu bảo tồn sinh thái dọc sông Xe Pian với nhiều thác nước và các loài thú quý như voi, hổ, vượn má vàng; có mô hình homestay du lịch cộng đồng.",
+    "rating": null,
+    "tags": [
+      "khu-bao-ton",
+      "thien-nhien",
+      "sinh-thai"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

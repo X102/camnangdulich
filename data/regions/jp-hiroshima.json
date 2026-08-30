@@ -1,0 +1,281 @@
+[
+  {
+    "id": "jp-hiroshima-itsukushima-shrine",
+    "slug": "itsukushima-shrine",
+    "region": "jp-hiroshima",
+    "country": "japan",
+    "region_name_vi": "Hiroshima",
+    "name_vi": "Đền Itsukushima",
+    "name_en": "Itsukushima Shrine",
+    "name_local": "厳島神社",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 34.2958,
+      "lon": 132.3197
+    },
+    "address_vi": "1-1 Miyajima-cho, Hatsukaichi, Hiroshima",
+    "presentation_short_vi": "Thần xã trên đảo Miyajima gắn liền cổng torii đỏ nổi trên mặt biển, một trong những cảnh biểu tượng nhất Nhật Bản và Di sản Thế giới UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.2958,132.3197",
+      "yandex": "https://yandex.com/maps/?pt=132.3197,34.2958&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "unesco",
+      "shrine",
+      "miyajima"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "jp-hiroshima-otorii-gate",
+    "slug": "otorii-gate",
+    "region": "jp-hiroshima",
+    "country": "japan",
+    "region_name_vi": "Hiroshima",
+    "name_vi": "Cổng Torii nổi (Ōtorii)",
+    "name_en": "Great Torii Gate of Miyajima",
+    "name_local": "嚴島神社大鳥居",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 34.296,
+      "lon": 132.3196
+    },
+    "address_vi": "Miyajima-cho, Hatsukaichi, Hiroshima",
+    "presentation_short_vi": "Cổng torii gỗ đỏ khổng lồ dựng ngoài khơi, như nổi trên mặt nước khi thủy triều lên, hình ảnh du lịch tiêu biểu của Nhật Bản.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.296,132.3196",
+      "yandex": "https://yandex.com/maps/?pt=132.3196,34.296&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "torii",
+      "icon",
+      "miyajima"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "jp-hiroshima-genbaku-dome",
+    "slug": "genbaku-dome",
+    "region": "jp-hiroshima",
+    "country": "japan",
+    "region_name_vi": "Hiroshima",
+    "name_vi": "Vòm Bom Nguyên tử (Genbaku Dome)",
+    "name_en": "Hiroshima Peace Memorial (Genbaku Dome)",
+    "name_local": "原爆ドーム",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 34.3955,
+      "lon": 132.4536
+    },
+    "address_vi": "1-10 Otemachi, Naka-ku, Hiroshima",
+    "presentation_short_vi": "Tàn tích tòa nhà gần tâm vụ nổ bom nguyên tử năm 1945, được giữ nguyên làm biểu tượng hòa bình và Di sản Thế giới UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.3955,132.4536",
+      "yandex": "https://yandex.com/maps/?pt=132.4536,34.3955&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "unesco",
+      "peace",
+      "memorial"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "jp-hiroshima-peace-memorial-park",
+    "slug": "peace-memorial-park",
+    "region": "jp-hiroshima",
+    "country": "japan",
+    "region_name_vi": "Hiroshima",
+    "name_vi": "Công viên Tưởng niệm Hòa bình",
+    "name_en": "Hiroshima Peace Memorial Park",
+    "name_local": "平和記念公園",
+    "categories": [
+      "park_garden",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 34.3915,
+      "lon": 132.4525
+    },
+    "address_vi": "1 Nakajimacho, Naka-ku, Hiroshima",
+    "presentation_short_vi": "Công viên với đài tưởng niệm, ngọn lửa hòa bình và tượng đài trẻ em, tưởng nhớ các nạn nhân bom nguyên tử.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.3915,132.4525",
+      "yandex": "https://yandex.com/maps/?pt=132.4525,34.3915&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "peace",
+      "park"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "jp-hiroshima-peace-memorial-museum",
+    "slug": "peace-memorial-museum",
+    "region": "jp-hiroshima",
+    "country": "japan",
+    "region_name_vi": "Hiroshima",
+    "name_vi": "Bảo tàng Tưởng niệm Hòa bình",
+    "name_en": "Hiroshima Peace Memorial Museum",
+    "name_local": "広島平和記念資料館",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 34.3913,
+      "lon": 132.4522
+    },
+    "address_vi": "1-2 Nakajimacho, Naka-ku, Hiroshima",
+    "presentation_short_vi": "Bảo tàng lưu giữ hiện vật và câu chuyện về thảm họa bom nguyên tử Hiroshima, truyền tải thông điệp hòa bình.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.3913,132.4522",
+      "yandex": "https://yandex.com/maps/?pt=132.4522,34.3913&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "peace"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "jp-hiroshima-hiroshima-castle",
+    "slug": "hiroshima-castle",
+    "region": "jp-hiroshima",
+    "country": "japan",
+    "region_name_vi": "Hiroshima",
+    "name_vi": "Lâu đài Hiroshima",
+    "name_en": "Hiroshima Castle",
+    "name_local": "広島城",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 34.4025,
+      "lon": 132.4592
+    },
+    "address_vi": "21-1 Motomachi, Naka-ku, Hiroshima",
+    "presentation_short_vi": "Tòa thành bên sông còn gọi là 'thành Cá chép', được phục dựng sau chiến tranh và nay là bảo tàng lịch sử.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.4025,132.4592",
+      "yandex": "https://yandex.com/maps/?pt=132.4592,34.4025&z=16&l=map"
+    },
+    "tags": [
+      "castle",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "jp-hiroshima-shukkeien",
+    "slug": "shukkeien",
+    "region": "jp-hiroshima",
+    "country": "japan",
+    "region_name_vi": "Hiroshima",
+    "name_vi": "Vườn Shukkei-en",
+    "name_en": "Shukkei-en Garden",
+    "name_local": "縮景園",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 34.4008,
+      "lon": 132.4653
+    },
+    "address_vi": "2-11 Kaminoborocho, Naka-ku, Hiroshima",
+    "presentation_short_vi": "Khu vườn Nhật kiểu ao dạo bộ từ thế kỷ 17, thu nhỏ nhiều phong cảnh nổi tiếng vào một không gian tĩnh lặng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.4008,132.4653",
+      "yandex": "https://yandex.com/maps/?pt=132.4653,34.4008&z=16&l=map"
+    },
+    "tags": [
+      "garden",
+      "edo"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "jp-hiroshima-mount-misen",
+    "slug": "mount-misen",
+    "region": "jp-hiroshima",
+    "country": "japan",
+    "region_name_vi": "Hiroshima",
+    "name_vi": "Núi Misen",
+    "name_en": "Mount Misen",
+    "name_local": "弥山",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 34.2775,
+      "lon": 132.3194
+    },
+    "address_vi": "Miyajima-cho, Hatsukaichi, Hiroshima",
+    "presentation_short_vi": "Đỉnh núi thiêng cao nhất đảo Miyajima, có cáp treo và đường mòn dẫn lên điểm ngắm toàn cảnh Biển Nội Địa Seto.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.2775,132.3194",
+      "yandex": "https://yandex.com/maps/?pt=132.3194,34.2775&z=16&l=map"
+    },
+    "tags": [
+      "mountain",
+      "view",
+      "miyajima"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "jp-hiroshima-daisho-in",
+    "slug": "daisho-in",
+    "region": "jp-hiroshima",
+    "country": "japan",
+    "region_name_vi": "Hiroshima",
+    "name_vi": "Chùa Daisho-in",
+    "name_en": "Daishō-in",
+    "name_local": "大聖院",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 34.2922,
+      "lon": 132.3172
+    },
+    "address_vi": "210 Takimachi, Miyajima-cho, Hatsukaichi, Hiroshima",
+    "presentation_short_vi": "Ngôi chùa Chân ngôn tông cổ kính dưới chân núi Misen, nổi bật với hàng tượng đá và những bánh xe kinh luân.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.2922,132.3172",
+      "yandex": "https://yandex.com/maps/?pt=132.3172,34.2922&z=16&l=map"
+    },
+    "tags": [
+      "temple",
+      "miyajima"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  }
+]

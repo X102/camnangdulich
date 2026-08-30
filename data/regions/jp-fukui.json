@@ -1,0 +1,317 @@
+[
+  {
+    "id": "jp-fukui-eiheiji",
+    "slug": "eiheiji",
+    "region": "jp-fukui",
+    "country": "japan",
+    "region_name_vi": "Fukui",
+    "name_vi": "Chùa Eihei-ji (Vĩnh Bình Tự)",
+    "name_en": "Eihei-ji Temple",
+    "name_local": "永平寺",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 36.0531,
+      "lon": 136.3556
+    },
+    "address_vi": "5-15 Shihi, Eiheiji, Yoshida, Fukui",
+    "presentation_short_vi": "Đại tùng lâm của Thiền phái Tào Động do thiền sư Dōgen lập năm 1244, quần thể hơn 70 điện đường ẩn trong rừng tuyết tùng cổ thụ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.0531,136.3556",
+      "yandex": "https://yandex.com/maps/?pt=136.3556,36.0531&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "temple",
+      "zen",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-fukui-tojinbo",
+    "slug": "tojinbo",
+    "region": "jp-fukui",
+    "country": "japan",
+    "region_name_vi": "Fukui",
+    "name_vi": "Vách đá Tōjinbō",
+    "name_en": "Tōjinbō Cliffs",
+    "name_local": "東尋坊",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.2378,
+      "lon": 136.1264
+    },
+    "address_vi": "Antō, Mikuni-chō, Sakai, Fukui",
+    "presentation_short_vi": "Dải vách đá cột bazan hiếm gặp cao tới 25 m dựng đứng bên biển Nhật Bản, là Danh thắng & Di tích thiên nhiên quốc gia.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.2378,136.1264",
+      "yandex": "https://yandex.com/maps/?pt=136.1264,36.2378&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "cliff",
+      "coast",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-fukui-dinosaur-museum",
+    "slug": "dinosaur-museum",
+    "region": "jp-fukui",
+    "country": "japan",
+    "region_name_vi": "Fukui",
+    "name_vi": "Bảo tàng Khủng long tỉnh Fukui",
+    "name_en": "Fukui Prefectural Dinosaur Museum",
+    "name_local": "福井県立恐竜博物館",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 36.0823,
+      "lon": 136.5065
+    },
+    "address_vi": "51-11 Terao, Muroko-chō, Katsuyama, Fukui",
+    "presentation_short_vi": "Một trong ba bảo tàng khủng long lớn nhất thế giới với hàng chục bộ xương thật, mái vòm bạc khổng lồ ở Katsuyama.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.0823,136.5065",
+      "yandex": "https://yandex.com/maps/?pt=136.5065,36.0823&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "museum",
+      "dinosaur",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-fukui-maruoka-castle",
+    "slug": "maruoka-castle",
+    "region": "jp-fukui",
+    "country": "japan",
+    "region_name_vi": "Fukui",
+    "name_vi": "Lâu đài Maruoka",
+    "name_en": "Maruoka Castle",
+    "name_local": "丸岡城",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 36.1523,
+      "lon": 136.2721
+    },
+    "address_vi": "1-59 Kasumi-chō, Maruoka, Sakai, Fukui",
+    "presentation_short_vi": "Một trong 12 tháp canh nguyên bản còn sót lại của Nhật, mang lối kiến trúc cổ nhất, nổi tiếng với hoa anh đào bao quanh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.1523,136.2721",
+      "yandex": "https://yandex.com/maps/?pt=136.2721,36.1523&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "castle",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-fukui-kehi-jingu",
+    "slug": "kehi-jingu",
+    "region": "jp-fukui",
+    "country": "japan",
+    "region_name_vi": "Fukui",
+    "name_vi": "Đền Kehi (Khí Bỉ Thần Cung)",
+    "name_en": "Kehi Jingū Shrine",
+    "name_local": "氣比神宮",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 35.6553,
+      "lon": 136.0697
+    },
+    "address_vi": "11-68 Akebono-chō, Tsuruga, Fukui",
+    "presentation_short_vi": "Đền chính của xứ Echizen với cổng torii gỗ đỏ cao 11 m thuộc hàng ba torii lớn nhất Nhật Bản.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.6553,136.0697",
+      "yandex": "https://yandex.com/maps/?pt=136.0697,35.6553&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "shrine",
+      "torii"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-fukui-ichijodani",
+    "slug": "ichijodani",
+    "region": "jp-fukui",
+    "country": "japan",
+    "region_name_vi": "Fukui",
+    "name_vi": "Di tích dòng họ Asakura ở Ichijōdani",
+    "name_en": "Ichijōdani Asakura Family Historic Ruins",
+    "name_local": "一乗谷朝倉氏遺跡",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 35.9942,
+      "lon": 136.2939
+    },
+    "address_vi": "Kidonouchi-chō, Fukui",
+    "presentation_short_vi": "Phố thị – thành lũy thời Chiến Quốc của gia tộc Asakura được khai quật và phục dựng, Di tích Đặc biệt cấp quốc gia.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.9942,136.2939",
+      "yandex": "https://yandex.com/maps/?pt=136.2939,35.9942&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "ruins",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-fukui-mikata-goko",
+    "slug": "mikata-goko",
+    "region": "jp-fukui",
+    "country": "japan",
+    "region_name_vi": "Fukui",
+    "name_vi": "Ngũ Hồ Mikata (Rainbow Line)",
+    "name_en": "Mikata Five Lakes",
+    "name_local": "三方五湖",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.5622,
+      "lon": 135.8853
+    },
+    "address_vi": "Mihama & Wakasa, Mikata-gun, Fukui",
+    "presentation_short_vi": "Năm hồ nối nhau mang sắc nước khác biệt, đầm Ramsar, ngắm toàn cảnh đẹp nhất từ đỉnh Baijōdake qua tuyến Rainbow Line.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.5622,135.8853",
+      "yandex": "https://yandex.com/maps/?pt=135.8853,35.5622&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "lake",
+      "nature",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-fukui-heisenji",
+    "slug": "heisenji",
+    "region": "jp-fukui",
+    "country": "japan",
+    "region_name_vi": "Fukui",
+    "name_vi": "Đền Heisenji Hakusan",
+    "name_en": "Heisenji Hakusan Shrine",
+    "name_local": "平泉寺白山神社",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 36.0736,
+      "lon": 136.4681
+    },
+    "address_vi": "Heisenji-chō, Katsuyama, Fukui",
+    "presentation_short_vi": "Ngôi đền cổ nổi tiếng với thảm rêu xanh mượt phủ kín nền rừng, từng là trung tâm tu hành núi Hakusan.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.0736,136.4681",
+      "yandex": "https://yandex.com/maps/?pt=136.4681,36.0736&z=16&l=map"
+    },
+    "tags": [
+      "shrine",
+      "moss",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-fukui-echizen-misaki",
+    "slug": "echizen-misaki",
+    "region": "jp-fukui",
+    "country": "japan",
+    "region_name_vi": "Fukui",
+    "name_vi": "Mũi Echizen (Bờ biển Echizen)",
+    "name_en": "Echizen Cape",
+    "name_local": "越前岬",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.9756,
+      "lon": 135.9506
+    },
+    "address_vi": "Echizen-chō, Nyū-gun, Fukui",
+    "presentation_short_vi": "Mũi đá nhô ra biển Nhật Bản với hải đăng trắng và những triền hoa thủy tiên nở rộ mùa đông.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.9756,135.9506",
+      "yandex": "https://yandex.com/maps/?pt=135.9506,35.9756&z=16&l=map"
+    },
+    "tags": [
+      "coast",
+      "cape",
+      "nature",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-fukui-kehi-matsubara",
+    "slug": "kehi-matsubara",
+    "region": "jp-fukui",
+    "country": "japan",
+    "region_name_vi": "Fukui",
+    "name_vi": "Rừng thông Kehi (Kehi no Matsubara)",
+    "name_en": "Kehi no Matsubara",
+    "name_local": "氣比の松原",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.6644,
+      "lon": 136.0578
+    },
+    "address_vi": "Matsushima-chō, Tsuruga, Fukui",
+    "presentation_short_vi": "Rừng thông xanh trải dọc bãi cát trắng dài 1,5 km, một trong ba rừng thông ven biển đẹp nhất Nhật Bản.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.6644,136.0578",
+      "yandex": "https://yandex.com/maps/?pt=136.0578,35.6644&z=16&l=map"
+    },
+    "tags": [
+      "beach",
+      "pine-grove",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

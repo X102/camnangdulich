@@ -1,0 +1,311 @@
+[
+  {
+    "id": "my-malacca-a-famosa",
+    "slug": "a-famosa",
+    "region": "my-malacca",
+    "region_name_vi": "Malacca (Melaka)",
+    "country": "malaysia",
+    "name_vi": "Pháo đài A Famosa (Porta de Santiago)",
+    "name_en": "A Famosa",
+    "name_local": "Kota A Famosa",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 2.1917,
+      "lon": 102.2497
+    },
+    "address_vi": "Đồi St. Paul, TP Melaka",
+    "presentation_short_vi": "Cổng Porta de Santiago còn sót lại của pháo đài Bồ Đào Nha xây năm 1511, một trong những công trình châu Âu cổ nhất Đông Nam Á.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=102.2497,2.1917&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=2.1917,102.2497"
+    },
+    "tags": [
+      "fort",
+      "portuguese",
+      "heritage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-malacca-christ-church",
+    "slug": "christ-church",
+    "region": "my-malacca",
+    "region_name_vi": "Malacca (Melaka)",
+    "country": "malaysia",
+    "name_vi": "Nhà thờ Christ Church Melaka",
+    "name_en": "Christ Church Melaka",
+    "name_local": "Gereja Christ Melaka",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 2.1946,
+      "lon": 102.2489
+    },
+    "address_vi": "Quảng trường Hà Lan, TP Melaka",
+    "presentation_short_vi": "Nhà thờ Tin Lành màu đỏ do người Hà Lan xây năm 1753, biểu tượng nổi tiếng nhất của phố cổ Melaka.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=102.2489,2.1946&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=2.1946,102.2489"
+    },
+    "tags": [
+      "church",
+      "dutch",
+      "heritage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-malacca-st-paul-church",
+    "slug": "st-paul-church",
+    "region": "my-malacca",
+    "region_name_vi": "Malacca (Melaka)",
+    "country": "malaysia",
+    "name_vi": "Nhà thờ St. Paul",
+    "name_en": "St. Paul's Church",
+    "name_local": "Gereja St. Paul",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 2.1919,
+      "lon": 102.2503
+    },
+    "address_vi": "Đồi St. Paul, TP Melaka",
+    "presentation_short_vi": "Nhà thờ Bồ Đào Nha xây năm 1521 trên đỉnh đồi St. Paul, nơi từng an táng Thánh Francis Xavier.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=102.2503,2.1919&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=2.1919,102.2503"
+    },
+    "tags": [
+      "church",
+      "portuguese",
+      "hilltop"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-malacca-stadthuys",
+    "slug": "stadthuys",
+    "region": "my-malacca",
+    "region_name_vi": "Malacca (Melaka)",
+    "country": "malaysia",
+    "name_vi": "Quảng trường Hà Lan (Stadthuys)",
+    "name_en": "The Stadthuys",
+    "name_local": "Stadthuys",
+    "categories": [
+      "monument",
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 2.1948,
+      "lon": 102.2486
+    },
+    "address_vi": "Dutch Square, TP Melaka",
+    "presentation_short_vi": "Tòa thị chính Hà Lan xây từ năm 1650, công trình Hà Lan cổ nhất phương Đông, trung tâm Quảng trường Đỏ Melaka.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=102.2486,2.1948&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=2.1948,102.2486"
+    },
+    "tags": [
+      "dutch",
+      "heritage",
+      "square"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-malacca-jonker-street",
+    "slug": "jonker-street",
+    "region": "my-malacca",
+    "region_name_vi": "Malacca (Melaka)",
+    "country": "malaysia",
+    "name_vi": "Phố Jonker (Jonker Walk)",
+    "name_en": "Jonker Street",
+    "name_local": "Jalan Hang Jebat",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 2.1957,
+      "lon": 102.2472
+    },
+    "address_vi": "Khu phố Tàu, TP Melaka",
+    "presentation_short_vi": "Con phố di sản sầm uất giữa khu phố Tàu, nổi tiếng với chợ đêm cuối tuần, đồ cổ và ẩm thực Peranakan.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=102.2472,2.1957&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=2.1957,102.2472"
+    },
+    "tags": [
+      "street",
+      "chinatown",
+      "night_market"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-malacca-cheng-hoon-teng",
+    "slug": "cheng-hoon-teng",
+    "region": "my-malacca",
+    "region_name_vi": "Malacca (Melaka)",
+    "country": "malaysia",
+    "name_vi": "Đền Cheng Hoon Teng",
+    "name_en": "Cheng Hoon Teng Temple",
+    "name_local": "Tokong Cheng Hoon Teng",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 2.1969,
+      "lon": 102.2464
+    },
+    "address_vi": "Jalan Tokong, TP Melaka",
+    "presentation_short_vi": "Ngôi chùa Trung Hoa cổ nhất Malaysia (thế kỷ 17), thờ tam giáo, nổi bật với nghệ thuật khảm sứ tinh xảo.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=102.2464,2.1969&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=2.1969,102.2464"
+    },
+    "tags": [
+      "temple",
+      "chinese",
+      "heritage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-malacca-straits-mosque",
+    "slug": "straits-mosque",
+    "region": "my-malacca",
+    "region_name_vi": "Malacca (Melaka)",
+    "country": "malaysia",
+    "name_vi": "Thánh đường Hồi giáo eo biển Malacca",
+    "name_en": "Malacca Straits Mosque",
+    "name_local": "Masjid Selat Melaka",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 2.17889,
+      "lon": 102.24917
+    },
+    "address_vi": "Đảo nhân tạo Pulau Melaka",
+    "presentation_short_vi": "Nhà thờ Hồi giáo 'nổi' trên eo biển Malacca, nổi tiếng với cảnh hoàng hôn tuyệt đẹp khi công trình như nổi trên mặt nước.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=102.24917,2.17889&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=2.17889,102.24917"
+    },
+    "tags": [
+      "mosque",
+      "floating",
+      "sunset"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-malacca-taming-sari",
+    "slug": "taming-sari",
+    "region": "my-malacca",
+    "region_name_vi": "Malacca (Melaka)",
+    "country": "malaysia",
+    "name_vi": "Tháp Taming Sari",
+    "name_en": "Menara Taming Sari",
+    "name_local": "Menara Taming Sari",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 2.1897,
+      "lon": 102.2492
+    },
+    "address_vi": "Jalan Merdeka, TP Melaka",
+    "presentation_short_vi": "Tháp quan sát xoay cao 110 m, đưa du khách lên cao ngắm toàn cảnh thành phố di sản Melaka.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=102.2492,2.1897&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=2.1897,102.2492"
+    },
+    "tags": [
+      "tower",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-malacca-sultanate-palace",
+    "slug": "sultanate-palace",
+    "region": "my-malacca",
+    "region_name_vi": "Malacca (Melaka)",
+    "country": "malaysia",
+    "name_vi": "Cung điện Vương quốc Hồi giáo Malacca",
+    "name_en": "Malacca Sultanate Palace",
+    "name_local": "Istana Kesultanan Melaka",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 2.1909,
+      "lon": 102.2503
+    },
+    "address_vi": "Chân đồi St. Paul, TP Melaka",
+    "presentation_short_vi": "Bản phục dựng bằng gỗ của cung điện Sultan Mansur Shah thế kỷ 15, nay là bảo tàng văn hóa Melaka.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=102.2503,2.1909&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=2.1909,102.2503"
+    },
+    "tags": [
+      "palace",
+      "museum",
+      "sultanate"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-malacca-kampung-kling",
+    "slug": "kampung-kling",
+    "region": "my-malacca",
+    "region_name_vi": "Malacca (Melaka)",
+    "country": "malaysia",
+    "name_vi": "Thánh đường Kampung Kling",
+    "name_en": "Kampung Kling Mosque",
+    "name_local": "Masjid Kampung Kling",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 2.1962,
+      "lon": 102.247
+    },
+    "address_vi": "Jalan Tukang Emas, TP Melaka",
+    "presentation_short_vi": "Thánh đường Hồi giáo cổ với kiến trúc pha trộn Sumatra, Trung Hoa và phương Tây, tháp minaret hình chùa độc đáo.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=102.247,2.1962&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=2.1962,102.247"
+    },
+    "tags": [
+      "mosque",
+      "heritage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

@@ -1,0 +1,261 @@
+[
+  {
+    "id": "mm-kayin-mount-zwegabin",
+    "slug": "mount-zwegabin",
+    "region": "mm-kayin",
+    "country": "myanmar",
+    "region_name_vi": "Kayin",
+    "name_vi": "Núi Zwegabin",
+    "name_en": "Mount Zwegabin",
+    "name_local": "ဇွယ်ကပင်တောင်",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 16.82,
+      "lon": 97.665
+    },
+    "address_vi": "Cách Hpa-An khoảng 7 km về phía nam, bang Kayin",
+    "rating": null,
+    "presentation_short_vi": "Ngọn núi đá vôi biểu tượng của Hpa-An cao khoảng 722 m với ngôi chùa trên đỉnh; đường leo hơn 700 bậc thưởng cho du khách tầm nhìn toàn cảnh đồng lúa và vườn Lumbini dưới chân núi.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=97.665,16.82&z=17&pt=97.665,16.82",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.82,97.665"
+    },
+    "tags": [
+      "mountain",
+      "limestone",
+      "hpa-an",
+      "hiking",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "mm-kayin-kyauk-kalap-pagoda",
+    "slug": "kyauk-kalap-pagoda",
+    "region": "mm-kayin",
+    "country": "myanmar",
+    "region_name_vi": "Kayin",
+    "name_vi": "Chùa Kyauk Kalap",
+    "name_en": "Kyauk Kalap Pagoda",
+    "name_local": "ကျောက်ကလပ်ဘုရား",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 16.8567,
+      "lon": 97.66
+    },
+    "address_vi": "Gần Hpa-An, bang Kayin",
+    "rating": null,
+    "presentation_short_vi": "Ngôi chùa nhỏ chênh vênh trên đỉnh cột đá vôi dựng đứng giữa hồ nước, phía sau là núi Zwegabin — một trong những khung cảnh siêu thực và được chụp nhiều nhất ở Kayin.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=97.66,16.8567&z=17&pt=97.66,16.8567",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.8567,97.66"
+    },
+    "tags": [
+      "pagoda",
+      "limestone-pinnacle",
+      "hpa-an",
+      "lake"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "mm-kayin-saddan-cave",
+    "slug": "saddan-cave",
+    "region": "mm-kayin",
+    "country": "myanmar",
+    "region_name_vi": "Kayin",
+    "name_vi": "Hang Saddan (Sadan)",
+    "name_en": "Saddan Cave",
+    "name_local": "ဆဒ္ဒန်ဂူ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 16.76,
+      "lon": 97.72
+    },
+    "address_vi": "Đầu phía nam dãy Zwegabin, cách Hpa-An khoảng 28 km, bang Kayin",
+    "rating": null,
+    "presentation_short_vi": "Hang động đá vôi khổng lồ xuyên núi với tượng Phật, bảo tháp và thạch nhũ; lối ra dẫn tới một hồ nước tĩnh lặng, có thể chèo thuyền xuyên hang trong mùa nước.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=97.72,16.76&z=17&pt=97.72,16.76",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.76,97.72"
+    },
+    "tags": [
+      "cave",
+      "limestone",
+      "hpa-an",
+      "boat"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "mm-kayin-kawgun-cave",
+    "slug": "kawgun-cave",
+    "region": "mm-kayin",
+    "country": "myanmar",
+    "region_name_vi": "Kayin",
+    "name_vi": "Hang Kawgun",
+    "name_en": "Kawgun Cave",
+    "name_local": "ကော့ဂွန်းဂူ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 16.82,
+      "lon": 97.58
+    },
+    "address_vi": "Cách Hpa-An khoảng 13 km về phía tây nam, bang Kayin",
+    "rating": null,
+    "presentation_short_vi": "Hang động phủ kín hàng nghìn phù điêu đất nung và tượng Phật thu nhỏ có niên đại nhiều thế kỷ, được ví như hang động nghìn tượng Phật của Kayin.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=97.58,16.82&z=17&pt=97.58,16.82",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.82,97.58"
+    },
+    "tags": [
+      "cave",
+      "buddha-reliefs",
+      "hpa-an",
+      "heritage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "mm-kayin-kaw-ka-thawng-cave",
+    "slug": "kaw-ka-thawng-cave",
+    "region": "mm-kayin",
+    "country": "myanmar",
+    "region_name_vi": "Kayin",
+    "name_vi": "Hang Kaw Ka Thawng",
+    "name_en": "Kaw Ka Thawng Cave",
+    "name_local": "ကော့ကသောင်းဂူ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 16.84,
+      "lon": 97.635
+    },
+    "address_vi": "Gần Hpa-An, bang Kayin",
+    "rating": null,
+    "presentation_short_vi": "Hang động mát lạnh với tượng Phật và suối nước tự nhiên để tắm gần đó; điểm dừng chân bình dị được người dân địa phương ưa thích quanh Hpa-An.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=97.635,16.84&z=17&pt=97.635,16.84",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.84,97.635"
+    },
+    "tags": [
+      "cave",
+      "spring",
+      "hpa-an",
+      "swimming"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "mm-kayin-lumbini-garden",
+    "slug": "lumbini-garden",
+    "region": "mm-kayin",
+    "country": "myanmar",
+    "region_name_vi": "Kayin",
+    "name_vi": "Vườn Lumbini (chân núi Zwegabin)",
+    "name_en": "Lumbini Garden",
+    "name_local": "လုမ္ဗိနီဥယျာဉ်",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 16.828,
+      "lon": 97.662
+    },
+    "address_vi": "Dưới chân núi Zwegabin, gần Hpa-An, bang Kayin",
+    "rating": null,
+    "presentation_short_vi": "Cánh đồng rộng với hơn một nghìn tượng Phật trắng ngồi thành hàng thẳng tắp dưới chân núi Zwegabin, tạo nên khung cảnh choáng ngợp khi nhìn từ trên cao.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=97.662,16.828&z=17&pt=97.662,16.828",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.828,97.662"
+    },
+    "tags": [
+      "buddha-statues",
+      "zwegabin",
+      "hpa-an",
+      "field"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "mm-kayin-bayin-nyi-cave",
+    "slug": "bayin-nyi-cave",
+    "region": "mm-kayin",
+    "country": "myanmar",
+    "region_name_vi": "Kayin",
+    "name_vi": "Hang Bayin Nyi",
+    "name_en": "Bayin Nyi Cave",
+    "name_local": "ဘုရင့်နည်ဂူ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 16.85,
+      "lon": 97.53
+    },
+    "address_vi": "Cách Hpa-An khoảng 20 km về phía tây, bang Kayin",
+    "rating": null,
+    "presentation_short_vi": "Quần thể hang động chùa chiền dưới một mỏm núi đá vôi, có suối khoáng nóng để ngâm chân và đàn cá dưới chân núi; điểm hành hương và nghỉ dưỡng của địa phương.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=97.53,16.85&z=17&pt=97.53,16.85",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.85,97.53"
+    },
+    "tags": [
+      "cave",
+      "hot-spring",
+      "hpa-an",
+      "pilgrimage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "mm-kayin-shweyinhmyaw-pagoda",
+    "slug": "shweyinhmyaw-pagoda",
+    "region": "mm-kayin",
+    "country": "myanmar",
+    "region_name_vi": "Kayin",
+    "name_vi": "Chùa Shweyinhmyaw",
+    "name_en": "Shweyinhmyaw Pagoda",
+    "name_local": "ရွှေရင်မျှော်ဘုရား",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 16.89,
+      "lon": 97.63
+    },
+    "address_vi": "Bên sông Thanlwin, thị trấn Hpa-An, bang Kayin",
+    "rating": null,
+    "presentation_short_vi": "Ngôi chùa vàng bên bờ sông Thanlwin ngay tại Hpa-An, là nơi ngắm hoàng hôn và cảnh núi đá vôi phản chiếu trên mặt nước được du khách yêu thích nhất thị trấn.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=97.63,16.89&z=17&pt=97.63,16.89",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.89,97.63"
+    },
+    "tags": [
+      "pagoda",
+      "thanlwin",
+      "hpa-an",
+      "sunset",
+      "riverside"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

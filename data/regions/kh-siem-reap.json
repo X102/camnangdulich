@@ -1,0 +1,319 @@
+[
+  {
+    "id": "kh-siem-reap-angkor-wat",
+    "slug": "angkor-wat",
+    "region": "kh-siem-reap",
+    "region_name_vi": "Siem Reap",
+    "country": "cambodia",
+    "name_vi": "Đền Angkor Wat",
+    "name_en": "Angkor Wat",
+    "name_local": "អង្គរវត្ត",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 13.4125,
+      "lon": 103.867
+    },
+    "address_vi": "Quần thể Angkor, TP. Siem Reap",
+    "presentation_short_vi": "Ngôi đền Hindu–Phật giáo lớn nhất thế giới, xây thế kỷ 12 thời vua Suryavarman II và là biểu tượng in trên quốc kỳ Campuchia. Nổi tiếng với năm tháp hình búp sen cùng cảnh bình minh soi bóng trên hồ nước phía trước.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=103.867,13.4125&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.4125,103.867"
+    },
+    "tags": [
+      "temple",
+      "unesco",
+      "top",
+      "sunrise"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kh-siem-reap-bayon",
+    "slug": "bayon",
+    "region": "kh-siem-reap",
+    "region_name_vi": "Siem Reap",
+    "country": "cambodia",
+    "name_vi": "Đền Bayon",
+    "name_en": "Bayon",
+    "name_local": "ប្រាសាទបាយ័ន",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 13.4413,
+      "lon": 103.8586
+    },
+    "address_vi": "Angkor Thom, Siem Reap",
+    "presentation_short_vi": "Đền trung tâm của kinh thành Angkor Thom, xây cuối thế kỷ 12 thời vua Jayavarman VII. Đặc trưng bởi hơn 200 khuôn mặt đá khổng lồ mỉm cười trên các tháp.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=103.8586,13.4413&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.4413,103.8586"
+    },
+    "tags": [
+      "temple",
+      "unesco",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kh-siem-reap-ta-prohm",
+    "slug": "ta-prohm",
+    "region": "kh-siem-reap",
+    "region_name_vi": "Siem Reap",
+    "country": "cambodia",
+    "name_vi": "Đền Ta Prohm",
+    "name_en": "Ta Prohm",
+    "name_local": "ប្រាសាទតាព្រហ្ម",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 13.4348,
+      "lon": 103.8891
+    },
+    "address_vi": "Quần thể Angkor, Siem Reap",
+    "presentation_short_vi": "Ngôi đền bị rễ cây tung khổng lồ ôm trùm, để gần như nguyên trạng giữa rừng. Bối cảnh từng xuất hiện trong phim 'Bí mật ngôi mộ cổ' nên rất được du khách yêu thích.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=103.8891,13.4348&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.4348,103.8891"
+    },
+    "tags": [
+      "temple",
+      "unesco",
+      "jungle",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kh-siem-reap-banteay-srei",
+    "slug": "banteay-srei",
+    "region": "kh-siem-reap",
+    "region_name_vi": "Siem Reap",
+    "country": "cambodia",
+    "name_vi": "Đền Banteay Srei",
+    "name_en": "Banteay Srei",
+    "name_local": "ប្រាសាទបន្ទាយស្រី",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 13.5988,
+      "lon": 103.9634
+    },
+    "address_vi": "Huyện Banteay Srei, Siem Reap",
+    "presentation_short_vi": "Đền Hindu bằng đá sa thạch hồng cách trung tâm Angkor khoảng 25 km, thờ thần Shiva. Nổi tiếng với những phù điêu chạm khắc tinh xảo bậc nhất Angkor.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=103.9634,13.5988&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.5988,103.9634"
+    },
+    "tags": [
+      "temple",
+      "unesco",
+      "carving"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kh-siem-reap-phnom-bakheng",
+    "slug": "phnom-bakheng",
+    "region": "kh-siem-reap",
+    "region_name_vi": "Siem Reap",
+    "country": "cambodia",
+    "name_vi": "Đền-núi Phnom Bakheng",
+    "name_en": "Phnom Bakheng",
+    "name_local": "ភ្នំបាខែង",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 13.4247,
+      "lon": 103.8582
+    },
+    "address_vi": "Quần thể Angkor, Siem Reap",
+    "presentation_short_vi": "Đền-núi thờ thần Shiva trên đỉnh đồi, là điểm ngắm hoàng hôn xuống Angkor Wat nổi tiếng. Xây cuối thế kỷ 9, sớm hơn Angkor Wat khoảng hai thế kỷ.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=103.8582,13.4247&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.4247,103.8582"
+    },
+    "tags": [
+      "temple",
+      "sunset",
+      "hill"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kh-siem-reap-pre-rup",
+    "slug": "pre-rup",
+    "region": "kh-siem-reap",
+    "region_name_vi": "Siem Reap",
+    "country": "cambodia",
+    "name_vi": "Đền Pre Rup",
+    "name_en": "Pre Rup",
+    "name_local": "ប្រាសាទប្រែរូប",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 13.4344,
+      "lon": 103.9018
+    },
+    "address_vi": "Quần thể Angkor, Siem Reap",
+    "presentation_short_vi": "Đền-núi bằng gạch và đá ong xây năm 961 thời vua Rajendravarman, mang sắc đỏ ấm khi nắng chiều. Là điểm ngắm hoàng hôn được ưa chuộng trong quần thể Angkor.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=103.9018,13.4344&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.4344,103.9018"
+    },
+    "tags": [
+      "temple",
+      "sunset"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kh-siem-reap-preah-khan",
+    "slug": "preah-khan",
+    "region": "kh-siem-reap",
+    "region_name_vi": "Siem Reap",
+    "country": "cambodia",
+    "name_vi": "Đền Preah Khan",
+    "name_en": "Preah Khan",
+    "name_local": "ប្រាសាទព្រះខ័ន",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 13.4617,
+      "lon": 103.8726
+    },
+    "address_vi": "Quần thể Angkor, Siem Reap",
+    "presentation_short_vi": "Đền lớn xây thời vua Jayavarman VII, từng là tu viện và trường học Phật giáo. Kiến trúc trải dài với nhiều hành lang, cây cổ thụ và mảng tường đổ còn hoang sơ.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=103.8726,13.4617&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.4617,103.8726"
+    },
+    "tags": [
+      "temple",
+      "unesco",
+      "jungle"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kh-siem-reap-angkor-national-museum",
+    "slug": "angkor-national-museum",
+    "region": "kh-siem-reap",
+    "region_name_vi": "Siem Reap",
+    "country": "cambodia",
+    "name_vi": "Bảo tàng Quốc gia Angkor",
+    "name_en": "Angkor National Museum",
+    "name_local": "សារមន្ទីរជាតិអង្គរ",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 13.3639,
+      "lon": 103.8556
+    },
+    "address_vi": "968 Vithei Charles de Gaulle, TP. Siem Reap",
+    "presentation_short_vi": "Bảo tàng hiện đại trong thành phố Siem Reap trưng bày cổ vật và tượng thời Angkor, có gian 'nghìn tượng Phật'. Giúp du khách hiểu bối cảnh trước khi tham quan các đền.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=103.8556,13.3639&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.3639,103.8556"
+    },
+    "tags": [
+      "museum",
+      "indoor"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kh-siem-reap-pub-street",
+    "slug": "pub-street",
+    "region": "kh-siem-reap",
+    "region_name_vi": "Siem Reap",
+    "country": "cambodia",
+    "name_vi": "Phố Pub Street",
+    "name_en": "Pub Street",
+    "name_local": "ផ្លូវបារ",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 13.3548,
+      "lon": 103.8548
+    },
+    "address_vi": "Sangkat Svay Dangkum, TP. Siem Reap",
+    "presentation_short_vi": "Khu phố đi bộ sầm uất nhất Siem Reap với nhà hàng, quán bar và chợ đêm. Là trung tâm ăn uống, giải trí về đêm của du khách.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=103.8548,13.3548&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.3548,103.8548"
+    },
+    "tags": [
+      "street",
+      "nightlife",
+      "food"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kh-siem-reap-kampong-phluk",
+    "slug": "kampong-phluk",
+    "region": "kh-siem-reap",
+    "region_name_vi": "Siem Reap",
+    "country": "cambodia",
+    "name_vi": "Làng nổi Kampong Phluk",
+    "name_en": "Kampong Phluk Floating Village",
+    "name_local": "ភូមិបណ្តែតទឹកកំពង់ភ្លុក",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 13.1936,
+      "lon": 103.9536
+    },
+    "address_vi": "Xã Kampong Phluk, huyện Prasat Bakong, Siem Reap",
+    "presentation_short_vi": "Làng nổi với nhà sàn cao và rừng ngập nước trên hồ Tonlé Sap, cách Siem Reap khoảng 30 km. Du khách đi thuyền tham quan đời sống sông nước và rừng ngập mặn.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=103.9536,13.1936&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.1936,103.9536"
+    },
+    "tags": [
+      "lake",
+      "boat",
+      "village"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  }
+]

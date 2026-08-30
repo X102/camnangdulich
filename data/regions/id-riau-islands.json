@@ -1,0 +1,309 @@
+[
+  {
+    "id": "id-riau-islands-pulau-penyengat",
+    "slug": "pulau-penyengat",
+    "region": "id-riau-islands",
+    "country": "indonesia",
+    "region_name_vi": "Quần đảo Riau",
+    "name_vi": "Đảo Penyengat",
+    "name_en": "Penyengat Island",
+    "name_local": "Pulau Penyengat",
+    "categories": [
+      "park_garden",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 0.9292,
+      "lon": 104.4233
+    },
+    "address_vi": "Ngoài khơi Tanjung Pinang, đảo Bintan, Quần đảo Riau",
+    "presentation_short_vi": "Đảo Penyengat là trung tâm lịch sử của vương quốc Riau-Lingga, lưu giữ thánh đường cổ, lăng mộ hoàng gia và di tích cung điện.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.4233,0.9292&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=0.9292,104.4233"
+    },
+    "tags": [
+      "top",
+      "island",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-riau-islands-masjid-raya-sultan-riau",
+    "slug": "masjid-raya-sultan-riau",
+    "region": "id-riau-islands",
+    "country": "indonesia",
+    "region_name_vi": "Quần đảo Riau",
+    "name_vi": "Thánh đường Sultan Riau",
+    "name_en": "Grand Mosque of the Sultan of Riau",
+    "name_local": "Masjid Raya Sultan Riau",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 0.9286,
+      "lon": 104.4242
+    },
+    "address_vi": "Đảo Penyengat, Tanjung Pinang, Quần đảo Riau",
+    "presentation_short_vi": "Thánh đường Sultan Riau màu vàng nghệ xây năm 1832, tương truyền dùng lòng trắng trứng trộn vữa, là biểu tượng tôn giáo của đảo Penyengat.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.4242,0.9286&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=0.9286,104.4242"
+    },
+    "tags": [
+      "top",
+      "mosque",
+      "heritage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-riau-islands-jembatan-barelang",
+    "slug": "jembatan-barelang",
+    "region": "id-riau-islands",
+    "country": "indonesia",
+    "region_name_vi": "Quần đảo Riau",
+    "name_vi": "Cầu Barelang",
+    "name_en": "Barelang Bridge",
+    "name_local": "Jembatan Barelang",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 0.7972,
+      "lon": 104.0025
+    },
+    "address_vi": "Nối Batam – Rempang – Galang, Quần đảo Riau",
+    "presentation_short_vi": "Cầu Barelang gồm sáu cây cầu nối các đảo Batam, Rempang và Galang; cầu dây văng Tengku Fisabilillah là biểu tượng của Batam.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.0025,0.7972&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=0.7972,104.0025"
+    },
+    "tags": [
+      "top",
+      "bridge",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-riau-islands-pantai-trikora",
+    "slug": "pantai-trikora",
+    "region": "id-riau-islands",
+    "country": "indonesia",
+    "region_name_vi": "Quần đảo Riau",
+    "name_vi": "Bãi biển Trikora",
+    "name_en": "Trikora Beach",
+    "name_local": "Pantai Trikora",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 1.0836,
+      "lon": 104.6489
+    },
+    "address_vi": "Bờ đông đảo Bintan, Quần đảo Riau",
+    "presentation_short_vi": "Bãi biển Trikora trải dài với cát trắng, nước trong và những chiếc thuyền kelong truyền thống, là bãi tắm bình dị nổi tiếng của Bintan.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.6489,1.0836&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=1.0836,104.6489"
+    },
+    "tags": [
+      "beach",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-riau-islands-teluk-lagoi",
+    "slug": "teluk-lagoi",
+    "region": "id-riau-islands",
+    "country": "indonesia",
+    "region_name_vi": "Quần đảo Riau",
+    "name_vi": "Vịnh Lagoi (Bintan Resorts)",
+    "name_en": "Lagoi Bay",
+    "name_local": "Teluk Lagoi",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 1.1628,
+      "lon": 104.4058
+    },
+    "address_vi": "Bắc đảo Bintan, Quần đảo Riau",
+    "presentation_short_vi": "Vịnh Lagoi là khu nghỉ dưỡng cao cấp Bintan Resorts với bãi biển đẹp, sân golf và nhiều resort quốc tế, chỉ cách Singapore một chuyến phà.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.4058,1.1628&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=1.1628,104.4058"
+    },
+    "tags": [
+      "beach",
+      "resort"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-riau-islands-kepulauan-anambas",
+    "slug": "kepulauan-anambas",
+    "region": "id-riau-islands",
+    "country": "indonesia",
+    "region_name_vi": "Quần đảo Riau",
+    "name_vi": "Quần đảo Anambas",
+    "name_en": "Anambas Islands",
+    "name_local": "Kepulauan Anambas",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 3.2136,
+      "lon": 106.2214
+    },
+    "address_vi": "Huyện Kepulauan Anambas, Quần đảo Riau",
+    "presentation_short_vi": "Quần đảo Anambas ở Biển Đông từng được bình chọn là quần đảo nhiệt đới đẹp nhất châu Á với rạn san hô, nước biển trong vắt và các làng chài yên bình.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=106.2214,3.2136&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=3.2136,106.2214"
+    },
+    "tags": [
+      "island",
+      "nature",
+      "diving"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-riau-islands-kepulauan-natuna",
+    "slug": "kepulauan-natuna",
+    "region": "id-riau-islands",
+    "country": "indonesia",
+    "region_name_vi": "Quần đảo Riau",
+    "name_vi": "Quần đảo Natuna",
+    "name_en": "Natuna Islands",
+    "name_local": "Kepulauan Natuna",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 3.9167,
+      "lon": 108.3853
+    },
+    "address_vi": "Huyện Natuna, Quần đảo Riau",
+    "presentation_short_vi": "Quần đảo Natuna nằm xa nhất về phía bắc Indonesia, nổi bật với các khối đá granit khổng lồ tại Alif Stone Park và bãi biển hoang sơ.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=108.3853,3.9167&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=3.9167,108.3853"
+    },
+    "tags": [
+      "island",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-riau-islands-maha-vihara-duta-maitreya",
+    "slug": "maha-vihara-duta-maitreya",
+    "region": "id-riau-islands",
+    "country": "indonesia",
+    "region_name_vi": "Quần đảo Riau",
+    "name_vi": "Chùa Maha Vihara Duta Maitreya",
+    "name_en": "Maha Vihara Duta Maitreya",
+    "name_local": "Maha Vihara Duta Maitreya",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 1.1289,
+      "lon": 104.0344
+    },
+    "address_vi": "Batam Centre, TP. Batam, Quần đảo Riau",
+    "presentation_short_vi": "Maha Vihara Duta Maitreya là một trong những ngôi chùa Phật giáo lớn nhất Indonesia, khuôn viên rộng với tượng Phật Di Lặc và vườn tượng.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.0344,1.1289&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=1.1289,104.0344"
+    },
+    "tags": [
+      "temple",
+      "buddhist"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-riau-islands-gunung-bintan",
+    "slug": "gunung-bintan",
+    "region": "id-riau-islands",
+    "country": "indonesia",
+    "region_name_vi": "Quần đảo Riau",
+    "name_vi": "Núi Bintan",
+    "name_en": "Mount Bintan",
+    "name_local": "Gunung Bintan",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 1.0881,
+      "lon": 104.4544
+    },
+    "address_vi": "Trung tâm đảo Bintan, Quần đảo Riau",
+    "presentation_short_vi": "Núi Bintan cao khoảng 340 m là đỉnh cao nhất đảo; đường mòn xuyên rừng nhiệt đới dẫn lên đỉnh ngắm toàn cảnh đảo và biển.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.4544,1.0881&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=1.0881,104.4544"
+    },
+    "tags": [
+      "mountain",
+      "hiking",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-riau-islands-pulau-abang",
+    "slug": "pulau-abang",
+    "region": "id-riau-islands",
+    "country": "indonesia",
+    "region_name_vi": "Quần đảo Riau",
+    "name_vi": "Đảo Abang",
+    "name_en": "Abang Island",
+    "name_local": "Pulau Abang",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 0.5183,
+      "lon": 104.2192
+    },
+    "address_vi": "Phía nam TP. Batam, Quần đảo Riau",
+    "presentation_short_vi": "Đảo Abang là điểm lặn biển nổi tiếng gần Batam với rạn san hô phong phú, được ví như một Bunaken thu nhỏ của Quần đảo Riau.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.2192,0.5183&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=0.5183,104.2192"
+    },
+    "tags": [
+      "island",
+      "diving",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

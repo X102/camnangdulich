@@ -1,0 +1,254 @@
+[
+  {
+    "id": "th-ubon-ratchathani-pha-taem-national-park",
+    "slug": "pha-taem-national-park",
+    "region": "th-ubon-ratchathani",
+    "country": "thailand",
+    "region_name_vi": "Ubon Ratchathani",
+    "name_vi": "Vườn quốc gia Pha Taem",
+    "name_en": "Pha Taem National Park",
+    "name_local": "อุทยานแห่งชาติผาแต้ม",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 15.3939,
+      "lon": 105.5361
+    },
+    "address_vi": "Huyện Khong Chiam, tỉnh Ubon Ratchathani",
+    "rating": null,
+    "presentation_short_vi": "Công viên quốc gia bên sông Mê Kông nổi tiếng với vách đá Pha Taem in tranh vẽ thời tiền sử hơn 3.000 năm và là điểm ngắm bình minh ở cực đông Thái Lan.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=105.5361,15.3939&z=17&pt=105.5361,15.3939",
+      "google": "https://www.google.com/maps/search/?api=1&query=15.3939,105.5361"
+    },
+    "tags": [
+      "national_park",
+      "cliff",
+      "rock_art",
+      "mekong",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-ubon-ratchathani-sam-phan-bok",
+    "slug": "sam-phan-bok",
+    "region": "th-ubon-ratchathani",
+    "country": "thailand",
+    "region_name_vi": "Ubon Ratchathani",
+    "name_vi": "Sam Phan Bok (Grand Canyon Thái Lan)",
+    "name_en": "Sam Phan Bok",
+    "name_local": "สามพันโบก",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 15.7186,
+      "lon": 105.464
+    },
+    "address_vi": "Huyện Pho Sai, tỉnh Ubon Ratchathani",
+    "rating": null,
+    "presentation_short_vi": "Bãi đá lòng sông Mê Kông với hàng nghìn hố xoáy bị bào mòn kỳ ảo, lộ ra vào mùa khô và được ví như 'Grand Canyon của Thái Lan'.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=105.464,15.7186&z=17&pt=105.464,15.7186",
+      "google": "https://www.google.com/maps/search/?api=1&query=15.7186,105.464"
+    },
+    "tags": [
+      "mekong",
+      "rock_formation",
+      "canyon",
+      "dry_season"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-ubon-ratchathani-wat-sirindhorn-wararam-phu-prao",
+    "slug": "wat-sirindhorn-wararam-phu-prao",
+    "region": "th-ubon-ratchathani",
+    "country": "thailand",
+    "region_name_vi": "Ubon Ratchathani",
+    "name_vi": "Chùa Sirindhorn Wararam (Chùa phát sáng Phu Prao)",
+    "name_en": "Wat Sirindhorn Wararam Phu Prao",
+    "name_local": "วัดสิรินธรวรารามภูพร้าว",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 15.1265,
+      "lon": 105.4547
+    },
+    "address_vi": "Huyện Sirindhorn, tỉnh Ubon Ratchathani",
+    "rating": null,
+    "presentation_short_vi": "Ngôi chùa trên đồi nổi tiếng với bức tranh 'cây Kalpapruek' phát sáng trong bóng tối phía sau chánh điện mỗi đêm.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=105.4547,15.1265&z=17&pt=105.4547,15.1265",
+      "google": "https://www.google.com/maps/search/?api=1&query=15.1265,105.4547"
+    },
+    "tags": [
+      "temple",
+      "glowing",
+      "mural",
+      "hilltop"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-ubon-ratchathani-wat-phra-that-nong-bua",
+    "slug": "wat-phra-that-nong-bua",
+    "region": "th-ubon-ratchathani",
+    "country": "thailand",
+    "region_name_vi": "Ubon Ratchathani",
+    "name_vi": "Chùa Phra That Nong Bua",
+    "name_en": "Wat Phra That Nong Bua",
+    "name_local": "วัดพระธาตุหนองบัว",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 15.2503,
+      "lon": 104.8586
+    },
+    "address_vi": "TP. Ubon Ratchathani, tỉnh Ubon Ratchathani",
+    "rating": null,
+    "presentation_short_vi": "Chùa với bảo tháp trắng mô phỏng đền Mahabodhi ở Bodh Gaya (Ấn Độ), một biểu tượng của thành phố Ubon.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=104.8586,15.2503&z=17&pt=104.8586,15.2503",
+      "google": "https://www.google.com/maps/search/?api=1&query=15.2503,104.8586"
+    },
+    "tags": [
+      "temple",
+      "chedi",
+      "bodhgaya_style"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-ubon-ratchathani-wat-thung-si-mueang",
+    "slug": "wat-thung-si-mueang",
+    "region": "th-ubon-ratchathani",
+    "country": "thailand",
+    "region_name_vi": "Ubon Ratchathani",
+    "name_vi": "Chùa Thung Si Mueang",
+    "name_en": "Wat Thung Si Mueang",
+    "name_local": "วัดทุ่งศรีเมือง",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 15.2291,
+      "lon": 104.8607
+    },
+    "address_vi": "TP. Ubon Ratchathani, tỉnh Ubon Ratchathani",
+    "rating": null,
+    "presentation_short_vi": "Chùa thế kỷ 19 nổi tiếng với thư viện kinh (hor trai) bằng gỗ tếch dựng trên cột giữa ao nước.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=104.8607,15.2291&z=17&pt=104.8607,15.2291",
+      "google": "https://www.google.com/maps/search/?api=1&query=15.2291,104.8607"
+    },
+    "tags": [
+      "temple",
+      "scripture_library",
+      "teak"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-ubon-ratchathani-kaeng-tana-national-park",
+    "slug": "kaeng-tana-national-park",
+    "region": "th-ubon-ratchathani",
+    "country": "thailand",
+    "region_name_vi": "Ubon Ratchathani",
+    "name_vi": "Vườn quốc gia Kaeng Tana",
+    "name_en": "Kaeng Tana National Park",
+    "name_local": "อุทยานแห่งชาติแก่งตะนะ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 15.2972,
+      "lon": 105.4736
+    },
+    "address_vi": "Huyện Khong Chiam, tỉnh Ubon Ratchathani",
+    "rating": null,
+    "presentation_short_vi": "Công viên quốc gia với ghềnh đá và đảo nhỏ trên sông Mun gần nơi hợp lưu với Mê Kông, có cầu treo qua ghềnh.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=105.4736,15.2972&z=17&pt=105.4736,15.2972",
+      "google": "https://www.google.com/maps/search/?api=1&query=15.2972,105.4736"
+    },
+    "tags": [
+      "national_park",
+      "rapids",
+      "mun_river"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-ubon-ratchathani-thung-si-mueang-park",
+    "slug": "thung-si-mueang-park",
+    "region": "th-ubon-ratchathani",
+    "country": "thailand",
+    "region_name_vi": "Ubon Ratchathani",
+    "name_vi": "Công viên Thung Si Mueang",
+    "name_en": "Thung Si Mueang Park",
+    "name_local": "ทุ่งศรีเมือง",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 15.2308,
+      "lon": 104.8562
+    },
+    "address_vi": "TP. Ubon Ratchathani, tỉnh Ubon Ratchathani",
+    "rating": null,
+    "presentation_short_vi": "Quảng trường công viên trung tâm thành phố, nơi tổ chức Lễ hội Nến (Khao Phansa) trứ danh với các xe rước tượng sáp ong chạm khắc khổng lồ.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=104.8562,15.2308&z=17&pt=104.8562,15.2308",
+      "google": "https://www.google.com/maps/search/?api=1&query=15.2308,104.8562"
+    },
+    "tags": [
+      "park",
+      "candle_festival",
+      "city_center"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-ubon-ratchathani-wat-nong-pa-phong",
+    "slug": "wat-nong-pa-phong",
+    "region": "th-ubon-ratchathani",
+    "country": "thailand",
+    "region_name_vi": "Ubon Ratchathani",
+    "name_vi": "Chùa Nong Pa Phong",
+    "name_en": "Wat Nong Pa Phong",
+    "name_local": "วัดหนองป่าพง",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 15.1789,
+      "lon": 104.8172
+    },
+    "address_vi": "Huyện Warin Chamrap, tỉnh Ubon Ratchathani",
+    "rating": null,
+    "presentation_short_vi": "Thiền viện rừng thanh tịnh do thiền sư Ajahn Chah lừng danh sáng lập, có bảo tàng tưởng niệm giữa rừng cây.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=104.8172,15.1789&z=17&pt=104.8172,15.1789",
+      "google": "https://www.google.com/maps/search/?api=1&query=15.1789,104.8172"
+    },
+    "tags": [
+      "temple",
+      "forest_monastery",
+      "meditation"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

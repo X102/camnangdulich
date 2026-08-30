@@ -1,0 +1,314 @@
+[
+  {
+    "id": "kr-north-gyeongsang-bulguksa",
+    "slug": "bulguksa",
+    "region": "kr-north-gyeongsang",
+    "region_name_vi": "Gyeongsang Bắc",
+    "country": "korea",
+    "name_vi": "Chùa Bulguksa",
+    "name_en": "Bulguksa",
+    "name_local": "불국사",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 35.79,
+      "lon": 129.3322
+    },
+    "address_vi": "Jinhyeon-dong, Gyeongju, Gyeongsang Bắc",
+    "presentation_short_vi": "Ngôi chùa Phật giáo cổ từ thời Silla, Di sản Thế giới UNESCO. Nổi tiếng với hai bảo tháp đá Dabotap và Seokgatap cùng các cầu, bậc thang bằng đá granite tinh xảo.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=129.3322,35.79&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.79,129.3322"
+    },
+    "tags": [
+      "temple",
+      "unesco",
+      "historic",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-north-gyeongsang-seokguram",
+    "slug": "seokguram",
+    "region": "kr-north-gyeongsang",
+    "region_name_vi": "Gyeongsang Bắc",
+    "country": "korea",
+    "name_vi": "Am đá Seokguram",
+    "name_en": "Seokguram Grotto",
+    "name_local": "석굴암",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 35.7947,
+      "lon": 129.3497
+    },
+    "address_vi": "Núi Tohamsan, Gyeongju, Gyeongsang Bắc",
+    "presentation_short_vi": "Am đá trên núi Tohamsan lưu giữ tượng Phật Thích Ca bằng đá granite thế kỷ 8, kiệt tác điêu khắc thời Silla và là Di sản Thế giới UNESCO cùng chùa Bulguksa.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=129.3497,35.7947&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.7947,129.3497"
+    },
+    "tags": [
+      "temple",
+      "unesco",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-north-gyeongsang-cheomseongdae",
+    "slug": "cheomseongdae",
+    "region": "kr-north-gyeongsang",
+    "region_name_vi": "Gyeongsang Bắc",
+    "country": "korea",
+    "name_vi": "Đài thiên văn Cheomseongdae",
+    "name_en": "Cheomseongdae",
+    "name_local": "첨성대",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 35.8347,
+      "lon": 129.2189
+    },
+    "address_vi": "Inwang-dong, Gyeongju, Gyeongsang Bắc",
+    "presentation_short_vi": "Đài quan sát thiên văn bằng đá xây thế kỷ 7 thời nữ hoàng Seondeok, được coi là một trong những đài thiên văn còn nguyên vẹn cổ nhất Đông Á.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=129.2189,35.8347&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.8347,129.2189"
+    },
+    "tags": [
+      "historic",
+      "landmark",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-north-gyeongsang-donggung-wolji",
+    "slug": "donggung-wolji",
+    "region": "kr-north-gyeongsang",
+    "region_name_vi": "Gyeongsang Bắc",
+    "country": "korea",
+    "name_vi": "Cung Donggung và hồ Wolji",
+    "name_en": "Donggung Palace and Wolji Pond",
+    "name_local": "동궁과 월지",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 35.8347,
+      "lon": 129.2264
+    },
+    "address_vi": "Wonhwa-ro, Gyeongju, Gyeongsang Bắc",
+    "presentation_short_vi": "Cung điện phụ và hồ nhân tạo Wolji (Anapji) của hoàng gia Silla, nổi tiếng với cảnh phản chiếu lung linh về đêm bên các gian điện đã được phục dựng.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=129.2264,35.8347&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.8347,129.2264"
+    },
+    "tags": [
+      "palace",
+      "night",
+      "photo",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-north-gyeongsang-daereungwon",
+    "slug": "daereungwon",
+    "region": "kr-north-gyeongsang",
+    "region_name_vi": "Gyeongsang Bắc",
+    "country": "korea",
+    "name_vi": "Quần thể lăng mộ Daereungwon",
+    "name_en": "Daereungwon Tomb Complex",
+    "name_local": "대릉원",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 35.83,
+      "lon": 129.2107
+    },
+    "address_vi": "Hwango-dong, Gyeongju, Gyeongsang Bắc",
+    "presentation_short_vi": "Quần thể lăng mộ hoàng gia Silla gồm nhiều gò mộ lớn phủ cỏ, trong đó có Cheonmachong (Mộ Thiên Mã) mở cửa cho khách tham quan phần bên trong.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=129.2107,35.83&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.83,129.2107"
+    },
+    "tags": [
+      "historic",
+      "tomb",
+      "park"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-north-gyeongsang-gyeongju-national-museum",
+    "slug": "gyeongju-national-museum",
+    "region": "kr-north-gyeongsang",
+    "region_name_vi": "Gyeongsang Bắc",
+    "country": "korea",
+    "name_vi": "Bảo tàng Quốc gia Gyeongju",
+    "name_en": "Gyeongju National Museum",
+    "name_local": "국립경주박물관",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 35.8305,
+      "lon": 129.2273
+    },
+    "address_vi": "Iljeong-ro, Gyeongju, Gyeongsang Bắc",
+    "presentation_short_vi": "Bảo tàng trưng bày cổ vật thời Silla, nổi bật là vương miện vàng, chuông đồng lớn Emile (Seongdeok) và nhiều bảo vật khai quật quanh Gyeongju.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=129.2273,35.8305&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.8305,129.2273"
+    },
+    "tags": [
+      "museum",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-north-gyeongsang-woljeonggyo",
+    "slug": "woljeonggyo",
+    "region": "kr-north-gyeongsang",
+    "region_name_vi": "Gyeongsang Bắc",
+    "country": "korea",
+    "name_vi": "Cầu Woljeonggyo",
+    "name_en": "Woljeonggyo Bridge",
+    "name_local": "월정교",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 35.8264,
+      "lon": 129.216
+    },
+    "address_vi": "Gyo-dong, Gyeongju, Gyeongsang Bắc",
+    "presentation_short_vi": "Cầu gỗ có mái che bắc qua sông Namcheon, phục dựng theo kiến trúc thời Silla; điểm ngắm cảnh và chụp ảnh nổi tiếng, đặc biệt khi lên đèn buổi tối.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=129.216,35.8264&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.8264,129.216"
+    },
+    "tags": [
+      "bridge",
+      "night",
+      "photo"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-north-gyeongsang-hahoe-village",
+    "slug": "hahoe-village",
+    "region": "kr-north-gyeongsang",
+    "region_name_vi": "Gyeongsang Bắc",
+    "country": "korea",
+    "name_vi": "Làng cổ Hahoe",
+    "name_en": "Hahoe Folk Village",
+    "name_local": "안동하회마을",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 36.539,
+      "lon": 128.5176
+    },
+    "address_vi": "Pungcheon-myeon, Andong, Gyeongsang Bắc",
+    "presentation_short_vi": "Làng cổ ven sông Nakdong của dòng họ Ryu, giữ nguyên nhà mái ngói và mái tranh truyền thống; Di sản Thế giới UNESCO nổi tiếng với mặt nạ và điệu múa Hahoe.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=128.5176,36.539&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=36.539,128.5176"
+    },
+    "tags": [
+      "village",
+      "unesco",
+      "historic",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-north-gyeongsang-dosan-seowon",
+    "slug": "dosan-seowon",
+    "region": "kr-north-gyeongsang",
+    "region_name_vi": "Gyeongsang Bắc",
+    "country": "korea",
+    "name_vi": "Học viện Dosan Seowon",
+    "name_en": "Dosan Seowon",
+    "name_local": "도산서원",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 36.7285,
+      "lon": 128.8448
+    },
+    "address_vi": "Dosan-myeon, Andong, Gyeongsang Bắc",
+    "presentation_short_vi": "Học viện Nho giáo do học giả Yi Hwang (Toegye) lập thời Joseon, nằm bên sông ở Andong; thuộc nhóm Seowon được UNESCO công nhận.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=128.8448,36.7285&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=36.7285,128.8448"
+    },
+    "tags": [
+      "historic",
+      "confucian",
+      "unesco"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-north-gyeongsang-juwangsan",
+    "slug": "juwangsan",
+    "region": "kr-north-gyeongsang",
+    "region_name_vi": "Gyeongsang Bắc",
+    "country": "korea",
+    "name_vi": "Vườn quốc gia Juwangsan",
+    "name_en": "Juwangsan National Park",
+    "name_local": "주왕산국립공원",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.3931,
+      "lon": 129.1531
+    },
+    "address_vi": "Cheongsong-gun, Gyeongsang Bắc",
+    "presentation_short_vi": "Vườn quốc gia với các vách đá dựng đứng, thác nước và hẻm núi; điểm leo núi và ngắm lá đỏ mùa thu nổi tiếng ở Cheongsong.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=129.1531,36.3931&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=36.3931,129.1531"
+    },
+    "tags": [
+      "mountain",
+      "nature",
+      "autumn"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  }
+]

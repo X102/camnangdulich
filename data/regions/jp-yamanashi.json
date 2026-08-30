@@ -1,0 +1,317 @@
+[
+  {
+    "id": "jp-yamanashi-kawaguchiko",
+    "slug": "kawaguchiko",
+    "region": "jp-yamanashi",
+    "country": "japan",
+    "region_name_vi": "Yamanashi",
+    "name_vi": "Hồ Kawaguchi (Kawaguchiko)",
+    "name_en": "Lake Kawaguchi",
+    "name_local": "河口湖",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.5171,
+      "lon": 138.7519
+    },
+    "address_vi": "Fujikawaguchiko, Minamitsuru, Yamanashi",
+    "presentation_short_vi": "Hồ dễ tiếp cận nhất trong Ngũ Hồ Phú Sĩ, nổi tiếng với hình núi Phú Sĩ soi bóng nước và các resort onsen ven hồ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.5171,138.7519",
+      "yandex": "https://yandex.com/maps/?pt=138.7519,35.5171&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "lake",
+      "fuji-view",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-yamanashi-chureito-pagoda",
+    "slug": "chureito-pagoda",
+    "region": "jp-yamanashi",
+    "country": "japan",
+    "region_name_vi": "Yamanashi",
+    "name_vi": "Tháp Chūreitō (Công viên Arakurayama Sengen)",
+    "name_en": "Chūreitō Pagoda (Arakurayama Sengen Park)",
+    "name_local": "忠霊塔（新倉山浅間公園）",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 35.4995,
+      "lon": 138.8003
+    },
+    "address_vi": "3353-1 Arakura, Fujiyoshida, Yamanashi",
+    "presentation_short_vi": "Ngôi tháp năm tầng đỏ rực trên đồi, tạo khung hình biểu tượng của Nhật với núi Phú Sĩ và hoa anh đào phía sau.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.4995,138.8003",
+      "yandex": "https://yandex.com/maps/?pt=138.8003,35.4995&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "pagoda",
+      "fuji-view",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-yamanashi-oshino-hakkai",
+    "slug": "oshino-hakkai",
+    "region": "jp-yamanashi",
+    "country": "japan",
+    "region_name_vi": "Yamanashi",
+    "name_vi": "Suối Oshino Hakkai (Bát Hải)",
+    "name_en": "Oshino Hakkai",
+    "name_local": "忍野八海",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.4597,
+      "lon": 138.8306
+    },
+    "address_vi": "Oshino, Minamitsuru, Yamanashi",
+    "presentation_short_vi": "Cụm tám ao nước trong vắt hình thành từ tuyết tan núi Phú Sĩ, nằm giữa ngôi làng cổ mái tranh yên bình.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.4597,138.8306",
+      "yandex": "https://yandex.com/maps/?pt=138.8306,35.4597&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "spring",
+      "village",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-yamanashi-yamanakako",
+    "slug": "yamanakako",
+    "region": "jp-yamanashi",
+    "country": "japan",
+    "region_name_vi": "Yamanashi",
+    "name_vi": "Hồ Yamanaka (Yamanakako)",
+    "name_en": "Lake Yamanaka",
+    "name_local": "山中湖",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.4186,
+      "lon": 138.8703
+    },
+    "address_vi": "Yamanakako, Minamitsuru, Yamanashi",
+    "presentation_short_vi": "Hồ lớn nhất và cao nhất trong Ngũ Hồ Phú Sĩ, điểm ngắm 'Diamond Fuji' và thiên nga trắng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.4186,138.8703",
+      "yandex": "https://yandex.com/maps/?pt=138.8703,35.4186&z=16&l=map"
+    },
+    "tags": [
+      "lake",
+      "fuji-view",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-yamanashi-fujiq-highland",
+    "slug": "fujiq-highland",
+    "region": "jp-yamanashi",
+    "country": "japan",
+    "region_name_vi": "Yamanashi",
+    "name_vi": "Công viên giải trí Fuji-Q Highland",
+    "name_en": "Fuji-Q Highland",
+    "name_local": "富士急ハイランド",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 35.4873,
+      "lon": 138.7806
+    },
+    "address_vi": "5-6-1 Shin-Nishihara, Fujiyoshida, Yamanashi",
+    "presentation_short_vi": "Công viên giải trí cảm giác mạnh dưới chân núi Phú Sĩ, quê hương của nhiều tàu lượn siêu tốc phá kỷ lục thế giới.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.4873,138.7806",
+      "yandex": "https://yandex.com/maps/?pt=138.7806,35.4873&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "amusement-park",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-yamanashi-shosenkyo",
+    "slug": "shosenkyo",
+    "region": "jp-yamanashi",
+    "country": "japan",
+    "region_name_vi": "Yamanashi",
+    "name_vi": "Hẻm núi Shōsenkyō",
+    "name_en": "Shōsenkyō Gorge",
+    "name_local": "昇仙峡",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.7292,
+      "lon": 138.5386
+    },
+    "address_vi": "Kōfu, Yamanashi",
+    "presentation_short_vi": "Một trong những hẻm núi đẹp nhất Nhật Bản với vách đá Kakuenbō, thác Sengataki và lá phong đỏ rực mùa thu.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.7292,138.5386",
+      "yandex": "https://yandex.com/maps/?pt=138.5386,35.7292&z=16&l=map"
+    },
+    "tags": [
+      "gorge",
+      "waterfall",
+      "nature",
+      "autumn"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-yamanashi-takeda-jinja",
+    "slug": "takeda-jinja",
+    "region": "jp-yamanashi",
+    "country": "japan",
+    "region_name_vi": "Yamanashi",
+    "name_vi": "Đền Takeda (Vũ Điền Thần Xã)",
+    "name_en": "Takeda Shrine",
+    "name_local": "武田神社",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 35.6853,
+      "lon": 138.5772
+    },
+    "address_vi": "2611 Kofu, Yamanashi",
+    "presentation_short_vi": "Đền thờ dựng trên nền dinh thự Tsutsujigasaki của lãnh chúa lừng danh Takeda Shingen.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.6853,138.5772",
+      "yandex": "https://yandex.com/maps/?pt=138.5772,35.6853&z=16&l=map"
+    },
+    "tags": [
+      "shrine",
+      "history",
+      "samurai"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-yamanashi-erinji",
+    "slug": "erinji",
+    "region": "jp-yamanashi",
+    "country": "japan",
+    "region_name_vi": "Yamanashi",
+    "name_vi": "Chùa Erin-ji (Huệ Lâm Tự)",
+    "name_en": "Erin-ji Temple",
+    "name_local": "恵林寺",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 35.7047,
+      "lon": 138.7292
+    },
+    "address_vi": "2280 Koyashiki, Enzan, Kōshū, Yamanashi",
+    "presentation_short_vi": "Thiền tự – chùa gia tộc của Takeda Shingen, sở hữu khu vườn danh tiếng do thiền sư Musō Soseki thiết kế.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.7047,138.7292",
+      "yandex": "https://yandex.com/maps/?pt=138.7292,35.7047&z=16&l=map"
+    },
+    "tags": [
+      "temple",
+      "zen",
+      "garden",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-yamanashi-motosuko",
+    "slug": "motosuko",
+    "region": "jp-yamanashi",
+    "country": "japan",
+    "region_name_vi": "Yamanashi",
+    "name_vi": "Hồ Motosu (Motosuko)",
+    "name_en": "Lake Motosu",
+    "name_local": "本栖湖",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.4636,
+      "lon": 138.5883
+    },
+    "address_vi": "Minobu & Fujikawaguchiko, Yamanashi",
+    "presentation_short_vi": "Hồ sâu nhất Ngũ Hồ Phú Sĩ; hình núi Phú Sĩ soi bóng nơi đây được in trên tờ 1.000 yên.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.4636,138.5883",
+      "yandex": "https://yandex.com/maps/?pt=138.5883,35.4636&z=16&l=map"
+    },
+    "tags": [
+      "lake",
+      "fuji-view",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-yamanashi-kofu-castle",
+    "slug": "kofu-castle",
+    "region": "jp-yamanashi",
+    "country": "japan",
+    "region_name_vi": "Yamanashi",
+    "name_vi": "Thành Kōfu (Công viên Maizuru)",
+    "name_en": "Kōfu Castle (Maizuru Park)",
+    "name_local": "甲府城（舞鶴城公園）",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 35.6647,
+      "lon": 138.5697
+    },
+    "address_vi": "Marunouchi, Kōfu, Yamanashi",
+    "presentation_short_vi": "Phế tích lâu đài trên đồi với tường đá đồ sộ và tháp canh phục dựng, nay là công viên trung tâm thành phố Kōfu.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.6647,138.5697",
+      "yandex": "https://yandex.com/maps/?pt=138.5697,35.6647&z=16&l=map"
+    },
+    "tags": [
+      "castle",
+      "history",
+      "park"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

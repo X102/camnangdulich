@@ -1,0 +1,318 @@
+[
+  {
+    "id": "jp-tochigi-nikko-toshogu",
+    "slug": "nikko-toshogu",
+    "region": "jp-tochigi",
+    "country": "japan",
+    "region_name_vi": "Tochigi",
+    "name_vi": "Đền Nikko Toshogu",
+    "name_en": "Nikkō Tōshō-gū",
+    "name_local": "日光東照宮",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 36.7581,
+      "lon": 139.5989
+    },
+    "address_vi": "2301 Sannai, TP Nikkō, Tochigi",
+    "presentation_short_vi": "Lăng đền lộng lẫy thờ tướng quân Tokugawa Ieyasu, Di sản Thế giới UNESCO, nổi tiếng với cổng Yōmeimon dát vàng chạm khắc tinh xảo và bức phù điêu ba chú khỉ thông thái.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.7581,139.5989",
+      "yandex": "https://yandex.com/maps/?pt=139.5989,36.7581&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "shrine",
+      "unesco",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-tochigi-rinnoji",
+    "slug": "rinnoji",
+    "region": "jp-tochigi",
+    "country": "japan",
+    "region_name_vi": "Tochigi",
+    "name_vi": "Chùa Rinno-ji",
+    "name_en": "Rinnō-ji",
+    "name_local": "輪王寺",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 36.7539,
+      "lon": 139.6008
+    },
+    "address_vi": "2300 Sannai, TP Nikkō, Tochigi",
+    "presentation_short_vi": "Ngôi chùa Phật giáo trung tâm của Nikkō với đại điện Sanbutsudō đặt ba pho tượng Phật dát vàng khổng lồ, thuộc quần thể Di sản Thế giới đền chùa Nikkō.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.7539,139.6008",
+      "yandex": "https://yandex.com/maps/?pt=139.6008,36.7539&z=16&l=map"
+    },
+    "tags": [
+      "temple",
+      "unesco",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-tochigi-nikko-futarasan",
+    "slug": "nikko-futarasan",
+    "region": "jp-tochigi",
+    "country": "japan",
+    "region_name_vi": "Tochigi",
+    "name_vi": "Đền Nikko Futarasan",
+    "name_en": "Nikkō Futarasan Shrine",
+    "name_local": "日光二荒山神社",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 36.7592,
+      "lon": 139.5958
+    },
+    "address_vi": "2307 Sannai, TP Nikkō, Tochigi",
+    "presentation_short_vi": "Ngôi đền cổ nhất Nikkō thờ các vị thần núi thiêng, khởi lập từ thế kỷ 8, là điểm khởi đầu của quần thể đền chùa Di sản Thế giới và cây cầu thiêng Shinkyō.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.7592,139.5958",
+      "yandex": "https://yandex.com/maps/?pt=139.5958,36.7592&z=16&l=map"
+    },
+    "tags": [
+      "shrine",
+      "unesco",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-tochigi-shinkyo-bridge",
+    "slug": "shinkyo-bridge",
+    "region": "jp-tochigi",
+    "country": "japan",
+    "region_name_vi": "Tochigi",
+    "name_vi": "Cầu Thần Shinkyo",
+    "name_en": "Shinkyō Bridge",
+    "name_local": "神橋",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 36.7519,
+      "lon": 139.6042
+    },
+    "address_vi": "Kamihatsuishi-machi, TP Nikkō, Tochigi",
+    "presentation_short_vi": "Cây cầu gỗ sơn son vắt qua sông Daiya, được xếp vào một trong ba cầu đẹp nhất Nhật Bản, là cổng biểu tượng dẫn vào quần thể đền chùa thiêng Nikkō.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.7519,139.6042",
+      "yandex": "https://yandex.com/maps/?pt=139.6042,36.7519&z=16&l=map"
+    },
+    "tags": [
+      "bridge",
+      "historic",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-tochigi-kegon-falls",
+    "slug": "kegon-falls",
+    "region": "jp-tochigi",
+    "country": "japan",
+    "region_name_vi": "Tochigi",
+    "name_vi": "Thác Kegon",
+    "name_en": "Kegon Falls",
+    "name_local": "華厳の滝",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.7386,
+      "lon": 139.5031
+    },
+    "address_vi": "2479-2 Chūgūshi, TP Nikkō, Tochigi",
+    "presentation_short_vi": "Một trong ba thác nước nổi tiếng nhất Nhật Bản, dòng nước từ hồ Chūzenji đổ thẳng xuống vách đá cao gần 97 m; thang máy đưa du khách xuống đài ngắm dưới chân thác.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.7386,139.5031",
+      "yandex": "https://yandex.com/maps/?pt=139.5031,36.7386&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "waterfall",
+      "nature",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-tochigi-lake-chuzenji",
+    "slug": "lake-chuzenji",
+    "region": "jp-tochigi",
+    "country": "japan",
+    "region_name_vi": "Tochigi",
+    "name_vi": "Hồ Chuzenji",
+    "name_en": "Lake Chūzenji",
+    "name_local": "中禅寺湖",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.7278,
+      "lon": 139.4839
+    },
+    "address_vi": "Chūgūshi, TP Nikkō, Tochigi",
+    "presentation_short_vi": "Hồ miệng núi lửa ở độ cao 1.269 m dưới chân núi Nantai, hình thành khi dung nham chặn dòng sông; nổi tiếng cảnh lá đỏ mùa thu và du thuyền ngắm cảnh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.7278,139.4839",
+      "yandex": "https://yandex.com/maps/?pt=139.4839,36.7278&z=16&l=map"
+    },
+    "tags": [
+      "lake",
+      "nature",
+      "scenic",
+      "autumn"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-tochigi-kinugawa-onsen",
+    "slug": "kinugawa-onsen",
+    "region": "jp-tochigi",
+    "country": "japan",
+    "region_name_vi": "Tochigi",
+    "name_vi": "Suối nước nóng Kinugawa",
+    "name_en": "Kinugawa Onsen",
+    "name_local": "鬼怒川温泉",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.8206,
+      "lon": 139.705
+    },
+    "address_vi": "Kinugawa Onsen, TP Nikkō, Tochigi",
+    "presentation_short_vi": "Khu suối nước nóng nổi tiếng dọc hẻm sông Kinugawa, điểm nghỉ dưỡng quen thuộc của vùng Kantō với các ryokan bên sông và trò chèo bè vượt ghềnh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.8206,139.705",
+      "yandex": "https://yandex.com/maps/?pt=139.705,36.8206&z=16&l=map"
+    },
+    "tags": [
+      "onsen",
+      "river",
+      "resort"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-tochigi-ashikaga-flower-park",
+    "slug": "ashikaga-flower-park",
+    "region": "jp-tochigi",
+    "country": "japan",
+    "region_name_vi": "Tochigi",
+    "name_vi": "Công viên Hoa Ashikaga",
+    "name_en": "Ashikaga Flower Park",
+    "name_local": "あしかがフラワーパーク",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.3147,
+      "lon": 139.5203
+    },
+    "address_vi": "607 Hasama-chō, TP Ashikaga, Tochigi",
+    "presentation_short_vi": "Công viên hoa nổi tiếng thế giới với giàn tử đằng khổng lồ hơn 150 năm tuổi buông rèm tím vào tháng Tư đến Năm và lễ hội đèn mùa đông rực rỡ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.3147,139.5203",
+      "yandex": "https://yandex.com/maps/?pt=139.5203,36.3147&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "flowers",
+      "garden",
+      "wisteria"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-tochigi-oya-history-museum",
+    "slug": "oya-history-museum",
+    "region": "jp-tochigi",
+    "country": "japan",
+    "region_name_vi": "Tochigi",
+    "name_vi": "Bảo tàng đá Oya",
+    "name_en": "Ōya History Museum",
+    "name_local": "大谷資料館",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 36.6017,
+      "lon": 139.8114
+    },
+    "address_vi": "909 Ōya-machi, TP Utsunomiya, Tochigi",
+    "presentation_short_vi": "Hầm mỏ khai thác đá Ōya khổng lồ dưới lòng đất sâu 30 m, không gian rộng như thánh đường ngầm với nhiệt độ mát lạnh, thường dùng làm bối cảnh phim và concert.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.6017,139.8114",
+      "yandex": "https://yandex.com/maps/?pt=139.8114,36.6017&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "cave",
+      "unique",
+      "quarry"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-tochigi-ryuokyo-ravine",
+    "slug": "ryuokyo-ravine",
+    "region": "jp-tochigi",
+    "country": "japan",
+    "region_name_vi": "Tochigi",
+    "name_vi": "Hẻm núi Ryuokyo",
+    "name_en": "Ryūōkyō Ravine",
+    "name_local": "龍王峡",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.8686,
+      "lon": 139.6889
+    },
+    "address_vi": "Fujiwara, TP Nikkō, Tochigi",
+    "presentation_short_vi": "Hẻm vực dài 3 km hình thành từ đá nham thạch bị dòng sông Kinugawa bào mòn suốt hàng triệu năm, với vách đá, thác nhỏ và đường mòn đi bộ ngắm lá thu.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.8686,139.6889",
+      "yandex": "https://yandex.com/maps/?pt=139.6889,36.8686&z=16&l=map"
+    },
+    "tags": [
+      "gorge",
+      "nature",
+      "hiking",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

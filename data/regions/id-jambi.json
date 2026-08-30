@@ -1,0 +1,191 @@
+[
+  {
+    "id": "id-jambi-candi-muaro-jambi",
+    "slug": "candi-muaro-jambi",
+    "region": "id-jambi",
+    "country": "indonesia",
+    "region_name_vi": "Jambi",
+    "name_vi": "Quần thể đền Muaro Jambi",
+    "name_en": "Muaro Jambi Temple Compounds",
+    "name_local": "Candi Muaro Jambi",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": -1.4773722,
+      "lon": 103.66815
+    },
+    "address_vi": "Huyện Muaro Jambi, tỉnh Jambi, Indonesia",
+    "presentation_short_vi": "Quần thể đền tháp Phật giáo bằng gạch rộng lớn thời Srivijaya bên sông Batanghari, khu di tích khảo cổ lớn nhất Đông Nam Á. Là điểm đến lịch sử tiêu biểu của Jambi.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=103.66815,-1.4773722&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-1.4773722,103.66815"
+    },
+    "tags": [
+      "top",
+      "temple",
+      "heritage",
+      "buddhist"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-jambi-gunung-kerinci",
+    "slug": "gunung-kerinci",
+    "region": "id-jambi",
+    "country": "indonesia",
+    "region_name_vi": "Jambi",
+    "name_vi": "Núi lửa Kerinci",
+    "name_en": "Mount Kerinci",
+    "name_local": "Gunung Kerinci",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": -1.696667,
+      "lon": 101.265556
+    },
+    "address_vi": "Ranh giới Kerinci (Jambi) và Solok Selatan (Tây Sumatra), Indonesia",
+    "presentation_short_vi": "Núi lửa còn hoạt động cao 3.805 m, là núi lửa cao nhất Indonesia và đỉnh cao nhất đảo Sumatra. Nằm trong Vườn quốc gia Kerinci Seblat, điểm leo núi nổi tiếng.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.265556,-1.696667&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-1.696667,101.265556"
+    },
+    "tags": [
+      "top",
+      "volcano",
+      "mountain",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-jambi-danau-gunung-tujuh",
+    "slug": "danau-gunung-tujuh",
+    "region": "id-jambi",
+    "country": "indonesia",
+    "region_name_vi": "Jambi",
+    "name_vi": "Hồ Gunung Tujuh",
+    "name_en": "Lake Gunung Tujuh",
+    "name_local": "Danau Gunung Tujuh",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": -1.70639,
+      "lon": 101.41167
+    },
+    "address_vi": "Huyện Kerinci, tỉnh Jambi, Indonesia",
+    "presentation_short_vi": "Hồ miệng núi lửa ở độ cao khoảng 1.950 m, được xem là hồ cao nhất Đông Nam Á, bao quanh bởi bảy đỉnh núi. Cảnh quan tuyệt đẹp trong Vườn quốc gia Kerinci Seblat.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.41167,-1.70639&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-1.70639,101.41167"
+    },
+    "tags": [
+      "lake",
+      "volcano",
+      "nature",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-jambi-danau-kerinci",
+    "slug": "danau-kerinci",
+    "region": "id-jambi",
+    "country": "indonesia",
+    "region_name_vi": "Jambi",
+    "name_vi": "Hồ Kerinci",
+    "name_en": "Lake Kerinci",
+    "name_local": "Danau Kerinci",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": -2.14861,
+      "lon": 101.49278
+    },
+    "address_vi": "Huyện Kerinci, tỉnh Jambi, Indonesia",
+    "presentation_short_vi": "Hồ nước ngọt lớn dưới chân dãy Kerinci, gắn với lễ hội Danau Kerinci hằng năm. Điểm ngắm cảnh và văn hóa của vùng cao nguyên Jambi.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.49278,-2.14861&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-2.14861,101.49278"
+    },
+    "tags": [
+      "lake",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-jambi-berbak",
+    "slug": "berbak",
+    "region": "id-jambi",
+    "country": "indonesia",
+    "region_name_vi": "Jambi",
+    "name_vi": "Vườn quốc gia Berbak",
+    "name_en": "Berbak National Park",
+    "name_local": "Taman Nasional Berbak",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": -1.26058,
+      "lon": 104.27811
+    },
+    "address_vi": "Huyện Tanjung Jabung Timur/Muaro Jambi, tỉnh Jambi, Indonesia",
+    "presentation_short_vi": "Vườn quốc gia đầm lầy than bùn và rừng ngập nước ven biển phía đông Jambi, khu Ramsar quan trọng cho chim di cư và hổ Sumatra.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.27811,-1.26058&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-1.26058,104.27811"
+    },
+    "tags": [
+      "national-park",
+      "nature",
+      "wetland"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-jambi-bukit-duabelas",
+    "slug": "bukit-duabelas",
+    "region": "id-jambi",
+    "country": "indonesia",
+    "region_name_vi": "Jambi",
+    "name_vi": "Vườn quốc gia Bukit Duabelas",
+    "name_en": "Bukit Duabelas National Park",
+    "name_local": "Taman Nasional Bukit Duabelas",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": -1.9568,
+      "lon": 102.7252
+    },
+    "address_vi": "Các huyện Sarolangun/Batanghari/Tebo, tỉnh Jambi, Indonesia",
+    "presentation_short_vi": "Vườn quốc gia rừng mưa nhiệt đới, quê hương của cộng đồng bản địa Orang Rimba (Suku Anak Dalam) ở Jambi.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=102.7252,-1.9568&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-1.9568,102.7252"
+    },
+    "tags": [
+      "national-park",
+      "nature",
+      "culture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

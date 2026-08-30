@@ -1,0 +1,158 @@
+[
+  {
+    "id": "kh-koh-kong-khemarak-phoumin",
+    "slug": "khemarak-phoumin",
+    "region": "kh-koh-kong",
+    "region_name_vi": "Koh Kong",
+    "country": "cambodia",
+    "name_vi": "Thị trấn Koh Kong (Khemarak Phoumin)",
+    "name_en": "Khemarak Phoumin (Koh Kong Town)",
+    "name_local": "ក្រុងខេមរភូមិន្ទ",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 11.6153,
+      "lon": 102.9838
+    },
+    "address_vi": "Thành phố Khemarak Phoumin, tỉnh Koh Kong",
+    "presentation_short_vi": "Thành phố tỉnh lỵ ven sông Kah Bpow, là cửa ngõ khám phá dãy núi Cardamom cùng các đảo và bãi biển hoang sơ của Koh Kong.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=102.9838,11.6153&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=11.6153,102.9838"
+    },
+    "tags": [
+      "town",
+      "riverside",
+      "gateway"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kh-koh-kong-tatai-waterfall",
+    "slug": "tatai-waterfall",
+    "region": "kh-koh-kong",
+    "region_name_vi": "Koh Kong",
+    "country": "cambodia",
+    "name_vi": "Thác Tatai",
+    "name_en": "Tatai Waterfall",
+    "name_local": "ទឹកជ្រោះតាតៃ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 11.587,
+      "lon": 103.0972
+    },
+    "address_vi": "Sông Tatai, huyện Thmar Bang, tỉnh Koh Kong",
+    "presentation_short_vi": "Thác nước hai tầng trên sông Tatai giữa rừng Cardamom, điểm dừng chân nổi tiếng để tắm thác và chèo thuyền.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=103.0972,11.587&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=11.587,103.0972"
+    },
+    "tags": [
+      "nature",
+      "waterfall",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kh-koh-kong-chi-phat",
+    "slug": "chi-phat",
+    "region": "kh-koh-kong",
+    "region_name_vi": "Koh Kong",
+    "country": "cambodia",
+    "name_vi": "Làng du lịch sinh thái Chi Phat",
+    "name_en": "Chi Phat Ecotourism Community",
+    "name_local": "ជីផាត",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 11.329,
+      "lon": 103.5225
+    },
+    "address_vi": "Xã Chi Phat, dãy Cardamom, tỉnh Koh Kong",
+    "presentation_short_vi": "Làng du lịch sinh thái cộng đồng nằm sâu trong dãy Cardamom, nổi tiếng với trekking, đạp xe rừng và ngắm động vật hoang dã.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=103.5225,11.329&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=11.329,103.5225"
+    },
+    "tags": [
+      "nature",
+      "ecotourism",
+      "cardamom"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kh-koh-kong-koh-kong-krao",
+    "slug": "koh-kong-krao",
+    "region": "kh-koh-kong",
+    "region_name_vi": "Koh Kong",
+    "country": "cambodia",
+    "name_vi": "Đảo Koh Kong Krao",
+    "name_en": "Koh Kong Krao (Koh Kong Island)",
+    "name_local": "កោះកុងក្រៅ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 11.33,
+      "lon": 103.0
+    },
+    "address_vi": "Ngoài khơi vịnh Thái Lan, tỉnh Koh Kong",
+    "presentation_short_vi": "Hòn đảo lớn nhất Campuchia với những bãi cát trắng dài hoang sơ và rừng nguyên sinh, thiên đường biển ít người biết đến.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=103.0,11.33&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=11.33,103.0"
+    },
+    "tags": [
+      "island",
+      "beach",
+      "nature",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kh-koh-kong-botum-sakor-national-park",
+    "slug": "botum-sakor-national-park",
+    "region": "kh-koh-kong",
+    "region_name_vi": "Koh Kong",
+    "country": "cambodia",
+    "name_vi": "Vườn quốc gia Botum Sakor",
+    "name_en": "Botum Sakor National Park",
+    "name_local": "ឧទ្យានជាតិបទុមសាគរ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 11.1147,
+      "lon": 103.3899
+    },
+    "address_vi": "Huyện Botum Sakor, tỉnh Koh Kong",
+    "presentation_short_vi": "Vườn quốc gia lớn nhất Campuchia trải dài ven vịnh Thái Lan, gồm rừng ngập mặn, rừng nhiệt đới và hệ động vật phong phú.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=103.3899,11.1147&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=11.1147,103.3899"
+    },
+    "tags": [
+      "nature",
+      "national-park",
+      "forest"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  }
+]

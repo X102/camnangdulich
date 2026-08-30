@@ -1,0 +1,290 @@
+[
+  {
+    "id": "sg-north-west-singapore-zoo",
+    "slug": "singapore-zoo",
+    "region": "sg-north-west",
+    "country": "singapore",
+    "region_name_vi": "Tây Bắc Singapore",
+    "name_vi": "Vườn thú Singapore",
+    "name_en": "Singapore Zoo",
+    "name_local": "Singapore Zoo (新加坡动物园)",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 1.4043,
+      "lon": 103.793
+    },
+    "address_vi": "80 Mandai Lake Road, Singapore 729826",
+    "rating": null,
+    "presentation_short_vi": "Vườn thú Singapore mở cửa năm 1973, nổi tiếng thế giới với mô hình 'sở thú mở' nơi thú sống trong môi trường tự nhiên ngăn cách bằng hào nước thay vì lồng sắt. Khu bảo tồn rộng lớn bên hồ chứa Seletar là nơi cư trú của hơn 4.000 động vật thuộc hàng trăm loài.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=103.793,1.4043&z=17&pt=103.793,1.4043",
+      "google": "https://www.google.com/maps/search/?api=1&query=1.4043,103.793"
+    },
+    "tags": [
+      "zoo",
+      "must-see",
+      "family",
+      "wildlife"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "sg-north-west-night-safari",
+    "slug": "night-safari",
+    "region": "sg-north-west",
+    "country": "singapore",
+    "region_name_vi": "Tây Bắc Singapore",
+    "name_vi": "Night Safari (Sở thú đêm)",
+    "name_en": "Night Safari",
+    "name_local": "Night Safari (夜间野生动物园)",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 1.4023,
+      "lon": 103.7879
+    },
+    "address_vi": "80 Mandai Lake Road, Singapore 729826",
+    "rating": null,
+    "presentation_short_vi": "Night Safari là công viên động vật hoang dã về đêm đầu tiên trên thế giới, khai trương năm 1994. Du khách đi tàu điện hoặc theo lối mòn đi bộ để ngắm hơn 900 con thú hoạt động về đêm dưới ánh sáng mô phỏng ánh trăng.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=103.7879,1.4023&z=17&pt=103.7879,1.4023",
+      "google": "https://www.google.com/maps/search/?api=1&query=1.4023,103.7879"
+    },
+    "tags": [
+      "zoo",
+      "night",
+      "must-see",
+      "wildlife"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "sg-north-west-river-wonders",
+    "slug": "river-wonders",
+    "region": "sg-north-west",
+    "country": "singapore",
+    "region_name_vi": "Tây Bắc Singapore",
+    "name_vi": "River Wonders",
+    "name_en": "River Wonders",
+    "name_local": "River Wonders (河川生态园)",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 1.4038,
+      "lon": 103.7941
+    },
+    "address_vi": "80 Mandai Lake Road, Singapore 729826",
+    "rating": null,
+    "presentation_short_vi": "River Wonders (trước đây là River Safari) là công viên động vật hoang dã chủ đề sông nước, tái hiện các hệ sinh thái ven những dòng sông lớn như Mekong, Amazon và Trường Giang. Điểm nhấn là khu gấu trúc khổng lồ và hồ cá Amazon Flooded Forest.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=103.7941,1.4038&z=17&pt=103.7941,1.4038",
+      "google": "https://www.google.com/maps/search/?api=1&query=1.4038,103.7941"
+    },
+    "tags": [
+      "wildlife",
+      "river",
+      "panda",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "sg-north-west-bird-paradise",
+    "slug": "bird-paradise",
+    "region": "sg-north-west",
+    "country": "singapore",
+    "region_name_vi": "Tây Bắc Singapore",
+    "name_vi": "Bird Paradise (Thiên đường Chim)",
+    "name_en": "Bird Paradise",
+    "name_local": "Bird Paradise (飞禽公园)",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 1.4009,
+      "lon": 103.7877
+    },
+    "address_vi": "20 Mandai Lake Road, Singapore 729825",
+    "rating": null,
+    "presentation_short_vi": "Bird Paradise khai trương năm 2023, kế thừa Vườn chim Jurong huyền thoại và là công viên chim lớn nhất châu Á với khoảng 3.500 con chim thuộc 400 loài. Tám lồng chim khổng lồ dạng đi bộ tái hiện các vùng sinh cảnh từ rừng mưa châu Phi đến đồng cỏ Nam Mỹ.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=103.7877,1.4009&z=17&pt=103.7877,1.4009",
+      "google": "https://www.google.com/maps/search/?api=1&query=1.4009,103.7877"
+    },
+    "tags": [
+      "birds",
+      "must-see",
+      "family",
+      "wildlife"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "sg-north-west-jurong-lake-gardens",
+    "slug": "jurong-lake-gardens",
+    "region": "sg-north-west",
+    "country": "singapore",
+    "region_name_vi": "Tây Bắc Singapore",
+    "name_vi": "Vườn Hồ Jurong",
+    "name_en": "Jurong Lake Gardens",
+    "name_local": "Jurong Lake Gardens (裕廊湖花园)",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 1.3392,
+      "lon": 103.7247
+    },
+    "address_vi": "Yuan Ching Road, Jurong, Singapore",
+    "rating": null,
+    "presentation_short_vi": "Vườn Hồ Jurong là công viên quốc gia ở phía tây Singapore gồm ba khu vườn liên hoàn quanh hồ Jurong: Lakeside Garden, Vườn Trung Hoa và Vườn Nhật Bản. Khánh thành giai đoạn đầu năm 2019, nơi đây có vườn chơi nước, rừng ngập nước và những đầm sen rộng lớn.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=103.7247,1.3392&z=17&pt=103.7247,1.3392",
+      "google": "https://www.google.com/maps/search/?api=1&query=1.3392,103.7247"
+    },
+    "tags": [
+      "park",
+      "garden",
+      "lake",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "sg-north-west-chinese-garden",
+    "slug": "chinese-garden",
+    "region": "sg-north-west",
+    "country": "singapore",
+    "region_name_vi": "Tây Bắc Singapore",
+    "name_vi": "Vườn Trung Hoa",
+    "name_en": "Chinese Garden",
+    "name_local": "Chinese Garden (裕华园)",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 1.3386,
+      "lon": 103.73
+    },
+    "address_vi": "1 Chinese Garden Road, Singapore 619795",
+    "rating": null,
+    "presentation_short_vi": "Vườn Trung Hoa (Yu Hua Yuan) khai trương năm 1975, thiết kế theo phong cách vườn hoàng gia phương Bắc Trung Quốc với tháp bảy tầng, cầu vòm trắng và cặp tháp đôi bên hồ Jurong. Đây là một biểu tượng nhiếp ảnh quen thuộc của khu vực phía tây.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=103.73,1.3386&z=17&pt=103.73,1.3386",
+      "google": "https://www.google.com/maps/search/?api=1&query=1.3386,103.73"
+    },
+    "tags": [
+      "garden",
+      "chinese",
+      "pagoda",
+      "photo"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "sg-north-west-bukit-timah-nature-reserve",
+    "slug": "bukit-timah-nature-reserve",
+    "region": "sg-north-west",
+    "country": "singapore",
+    "region_name_vi": "Tây Bắc Singapore",
+    "name_vi": "Khu bảo tồn thiên nhiên Bukit Timah",
+    "name_en": "Bukit Timah Nature Reserve",
+    "name_local": "Bukit Timah Nature Reserve (武吉知马自然保护区)",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 1.354,
+      "lon": 103.7765
+    },
+    "address_vi": "177 Hindhede Drive, Singapore 589333",
+    "rating": null,
+    "presentation_short_vi": "Khu bảo tồn thiên nhiên Bukit Timah bảo vệ một trong số ít mảng rừng mưa nguyên sinh còn lại của Singapore và bao trọn đỉnh Bukit Timah cao 165 m — điểm tự nhiên cao nhất cả nước. Các lối mòn xuyên rừng là nơi sinh sống của khỉ, tê tê cùng vô số loài chim và côn trùng.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=103.7765,1.354&z=17&pt=103.7765,1.354",
+      "google": "https://www.google.com/maps/search/?api=1&query=1.354,103.7765"
+    },
+    "tags": [
+      "nature",
+      "hiking",
+      "forest",
+      "wildlife"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "sg-north-west-sungei-buloh-wetland-reserve",
+    "slug": "sungei-buloh-wetland-reserve",
+    "region": "sg-north-west",
+    "country": "singapore",
+    "region_name_vi": "Tây Bắc Singapore",
+    "name_vi": "Khu bảo tồn đất ngập nước Sungei Buloh",
+    "name_en": "Sungei Buloh Wetland Reserve",
+    "name_local": "Sungei Buloh Wetland Reserve (双溪布洛湿地保护区)",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 1.4461,
+      "lon": 103.7289
+    },
+    "address_vi": "301 Neo Tiew Crescent, Singapore 718925",
+    "rating": null,
+    "presentation_short_vi": "Sungei Buloh là khu bảo tồn đất ngập nước đầu tiên của Singapore và được ghi danh trong mạng lưới Vườn Di sản ASEAN. Rừng ngập mặn cùng các đầm lầy nơi đây là trạm dừng chân của chim di cư theo đường bay Đông Á – Úc, bên cạnh cá thòi lòi, cua và cả cá sấu.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=103.7289,1.4461&z=17&pt=103.7289,1.4461",
+      "google": "https://www.google.com/maps/search/?api=1&query=1.4461,103.7289"
+    },
+    "tags": [
+      "nature",
+      "wetland",
+      "birdwatching",
+      "mangrove"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "sg-north-west-science-centre-singapore",
+    "slug": "science-centre-singapore",
+    "region": "sg-north-west",
+    "country": "singapore",
+    "region_name_vi": "Tây Bắc Singapore",
+    "name_vi": "Trung tâm Khoa học Singapore",
+    "name_en": "Science Centre Singapore",
+    "name_local": "Science Centre Singapore (新加坡科学馆)",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 1.3332,
+      "lon": 103.7356
+    },
+    "address_vi": "15 Science Centre Road, Singapore 609081",
+    "rating": null,
+    "presentation_short_vi": "Trung tâm Khoa học Singapore mở cửa năm 1977, là bảo tàng khoa học tương tác hàng đầu khu vực với hơn 850 mô hình trưng bày trải rộng nhiều lĩnh vực. Khuôn viên còn có nhà chiếu hình Omni-Theatre và khu trượt tuyết trong nhà Snow City liền kề.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=103.7356,1.3332&z=17&pt=103.7356,1.3332",
+      "google": "https://www.google.com/maps/search/?api=1&query=1.3332,103.7356"
+    },
+    "tags": [
+      "museum",
+      "science",
+      "family",
+      "interactive"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

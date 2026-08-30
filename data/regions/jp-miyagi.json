@@ -1,0 +1,308 @@
+[
+  {
+    "id": "jp-miyagi-matsushima-bay",
+    "slug": "matsushima-bay",
+    "region": "jp-miyagi",
+    "country": "japan",
+    "region_name_vi": "Miyagi",
+    "name_vi": "Vịnh Matsushima",
+    "name_en": "Matsushima Bay",
+    "name_local": "松島",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 38.3667,
+      "lon": 141.0631
+    },
+    "address_vi": "Thị trấn Matsushima, huyện Miyagi, tỉnh Miyagi",
+    "presentation_short_vi": "Một trong 'Ba thắng cảnh đẹp nhất Nhật Bản', vịnh Matsushima có hơn 260 hòn đảo nhỏ phủ thông xanh rải rác trên mặt biển; du khách ngắm cảnh bằng thuyền du ngoạn hoặc từ các đài quan sát trên đồi.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.3667,141.0631",
+      "yandex": "https://yandex.com/maps/?pt=141.0631,38.3667&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "bay",
+      "nature",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-miyagi-zuiganji",
+    "slug": "zuiganji",
+    "region": "jp-miyagi",
+    "country": "japan",
+    "region_name_vi": "Miyagi",
+    "name_vi": "Chùa Zuigan-ji",
+    "name_en": "Zuigan-ji",
+    "name_local": "瑞巌寺",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 38.3726,
+      "lon": 141.0586
+    },
+    "address_vi": "91 Matsushima Chonai, thị trấn Matsushima, tỉnh Miyagi",
+    "presentation_short_vi": "Ngôi thiền tự dòng Lâm Tế danh tiếng do lãnh chúa Date Masamune tái thiết năm 1609, nổi bật với chính điện chạm khắc lộng lẫy và những hang động thiền khoét trong vách đá.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.3726,141.0586",
+      "yandex": "https://yandex.com/maps/?pt=141.0586,38.3726&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "temple",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-miyagi-godaido",
+    "slug": "godaido",
+    "region": "jp-miyagi",
+    "country": "japan",
+    "region_name_vi": "Miyagi",
+    "name_vi": "Điện Godaidō",
+    "name_en": "Godaidō",
+    "name_local": "五大堂",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 38.3686,
+      "lon": 141.0637
+    },
+    "address_vi": "Matsushima Chonai, thị trấn Matsushima, tỉnh Miyagi",
+    "presentation_short_vi": "Ngôi điện thờ nhỏ dựng trên đảo đá nối với đất liền bằng cầu đỏ, là biểu tượng của vịnh Matsushima; công trình hiện nay có từ năm 1604 và được xem như 'gương mặt' của Matsushima.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.3686,141.0637",
+      "yandex": "https://yandex.com/maps/?pt=141.0637,38.3686&z=16&l=map"
+    },
+    "tags": [
+      "temple",
+      "historic",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-miyagi-entsuin",
+    "slug": "entsuin",
+    "region": "jp-miyagi",
+    "country": "japan",
+    "region_name_vi": "Miyagi",
+    "name_vi": "Chùa Entsūin",
+    "name_en": "Entsūin",
+    "name_local": "円通院",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 38.3722,
+      "lon": 141.0577
+    },
+    "address_vi": "67 Matsushima Chonai, thị trấn Matsushima, tỉnh Miyagi",
+    "presentation_short_vi": "Ngôi chùa gắn với lăng mộ cháu nội Date Masamune, nổi tiếng với vườn rêu và vườn hồng; đặc biệt rực rỡ khi lá phong đỏ được thắp sáng vào mùa thu.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.3722,141.0577",
+      "yandex": "https://yandex.com/maps/?pt=141.0577,38.3722&z=16&l=map"
+    },
+    "tags": [
+      "temple",
+      "garden"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-miyagi-sendai-castle",
+    "slug": "sendai-castle",
+    "region": "jp-miyagi",
+    "country": "japan",
+    "region_name_vi": "Miyagi",
+    "name_vi": "Thành Sendai (Aoba)",
+    "name_en": "Sendai Castle (Aoba Castle)",
+    "name_local": "仙台城（青葉城）",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 38.2525,
+      "lon": 140.8558
+    },
+    "address_vi": "1 Kawauchi, quận Aoba, thành phố Sendai, tỉnh Miyagi",
+    "presentation_short_vi": "Nền thành trên đồi Aoba do Date Masamune lập năm 1600, nhìn bao quát thành phố Sendai; nay còn tường đá, đền Gokoku và bức tượng cưỡi ngựa nổi tiếng của vị lãnh chúa.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.2525,140.8558",
+      "yandex": "https://yandex.com/maps/?pt=140.8558,38.2525&z=16&l=map"
+    },
+    "tags": [
+      "castle",
+      "historic",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-miyagi-zuihoden",
+    "slug": "zuihoden",
+    "region": "jp-miyagi",
+    "country": "japan",
+    "region_name_vi": "Miyagi",
+    "name_vi": "Lăng Zuihōden",
+    "name_en": "Zuihōden Mausoleum",
+    "name_local": "瑞鳳殿",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 38.2472,
+      "lon": 140.8583
+    },
+    "address_vi": "23-2 Otamayashita, quận Aoba, thành phố Sendai, tỉnh Miyagi",
+    "presentation_short_vi": "Lăng mộ lãnh chúa Date Masamune giữa rừng tuyết tùng cổ thụ, mang phong cách trang trí Momoyama sơn son thếp vàng rực rỡ; công trình được phục dựng sau chiến tranh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.2472,140.8583",
+      "yandex": "https://yandex.com/maps/?pt=140.8583,38.2472&z=16&l=map"
+    },
+    "tags": [
+      "mausoleum",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-miyagi-osaki-hachimangu",
+    "slug": "osaki-hachimangu",
+    "region": "jp-miyagi",
+    "country": "japan",
+    "region_name_vi": "Miyagi",
+    "name_vi": "Đền Ōsaki Hachimangū",
+    "name_en": "Ōsaki Hachimangū",
+    "name_local": "大崎八幡宮",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 38.2814,
+      "lon": 140.8449
+    },
+    "address_vi": "4-6-1 Hachiman, quận Aoba, thành phố Sendai, tỉnh Miyagi",
+    "presentation_short_vi": "Đền Thần đạo do Date Masamune cho xây năm 1607, là Bảo vật Quốc gia với kiến trúc 'gongen-zukuri' sơn đen ánh vàng tiêu biểu thời Momoyama; nổi tiếng với lễ hội lửa Dontosai đầu năm.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.2814,140.8449",
+      "yandex": "https://yandex.com/maps/?pt=140.8449,38.2814&z=16&l=map"
+    },
+    "tags": [
+      "shrine",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-miyagi-akiu-great-falls",
+    "slug": "akiu-great-falls",
+    "region": "jp-miyagi",
+    "country": "japan",
+    "region_name_vi": "Miyagi",
+    "name_vi": "Thác lớn Akiu",
+    "name_en": "Akiu Great Falls",
+    "name_local": "秋保大滝",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 38.2456,
+      "lon": 140.6431
+    },
+    "address_vi": "Akiumachi, quận Taihaku, thành phố Sendai, tỉnh Miyagi",
+    "presentation_short_vi": "Một trong ba thác nước đẹp nhất Nhật Bản, cao 55 m và rộng 6 m, đổ ầm ầm giữa khung cảnh rừng núi; đặc biệt ngoạn mục vào mùa lá đỏ và mùa băng giá.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.2456,140.6431",
+      "yandex": "https://yandex.com/maps/?pt=140.6431,38.2456&z=16&l=map"
+    },
+    "tags": [
+      "waterfall",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-miyagi-naruko-gorge",
+    "slug": "naruko-gorge",
+    "region": "jp-miyagi",
+    "country": "japan",
+    "region_name_vi": "Miyagi",
+    "name_vi": "Hẻm núi Naruko",
+    "name_en": "Naruko Gorge",
+    "name_local": "鳴子峡",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 38.7386,
+      "lon": 140.7217
+    },
+    "address_vi": "Narukoonsen, thành phố Ōsaki, tỉnh Miyagi",
+    "presentation_short_vi": "Hẻm núi sâu với vách đá dựng đứng và cây cầu vắt ngang, là một trong những điểm ngắm lá phong đỏ đẹp nhất vùng Tōhoku vào mùa thu; gần khu suối nóng Naruko Onsen.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.7386,140.7217",
+      "yandex": "https://yandex.com/maps/?pt=140.7217,38.7386&z=16&l=map"
+    },
+    "tags": [
+      "gorge",
+      "nature",
+      "autumn"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-miyagi-shiroishi-castle",
+    "slug": "shiroishi-castle",
+    "region": "jp-miyagi",
+    "country": "japan",
+    "region_name_vi": "Miyagi",
+    "name_vi": "Thành Shiroishi",
+    "name_en": "Shiroishi Castle",
+    "name_local": "白石城",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 38.0028,
+      "lon": 140.6186
+    },
+    "address_vi": "1-16 Masuoka, thành phố Shiroishi, tỉnh Miyagi",
+    "presentation_short_vi": "Tòa thành gỗ được phục dựng nguyên bản của gia tộc Katakura, gia thần thân tín của dòng họ Date; tháp canh ba tầng được phục chế hoàn toàn bằng kỹ thuật mộc truyền thống.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.0028,140.6186",
+      "yandex": "https://yandex.com/maps/?pt=140.6186,38.0028&z=16&l=map"
+    },
+    "tags": [
+      "castle",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

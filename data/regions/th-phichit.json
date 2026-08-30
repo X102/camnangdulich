@@ -1,0 +1,161 @@
+[
+  {
+    "id": "th-phichit-bueng-si-fai",
+    "slug": "bueng-si-fai",
+    "region": "th-phichit",
+    "country": "thailand",
+    "region_name_vi": "Phichit",
+    "name_vi": "Hồ Bueng Si Fai",
+    "name_en": "Bueng Si Fai",
+    "name_local": "บึงสีไฟ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 16.4248,
+      "lon": 100.3325
+    },
+    "address_vi": "Huyện Mueang Phichit, tỉnh Phichit",
+    "rating": null,
+    "presentation_short_vi": "Hồ nước ngọt lớn của tỉnh Phichit, biểu tượng địa phương gắn với truyền thuyết cá sấu thần Chalawan.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.3325,16.4248&z=17&pt=100.3325,16.4248",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.4248,100.3325"
+    },
+    "tags": [
+      "lake",
+      "landmark",
+      "recreation",
+      "chalawan"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-phichit-wat-tha-luang",
+    "slug": "wat-tha-luang",
+    "region": "th-phichit",
+    "country": "thailand",
+    "region_name_vi": "Phichit",
+    "name_vi": "Chùa Tha Luang",
+    "name_en": "Wat Tha Luang",
+    "name_local": "วัดท่าหลวง",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 16.44,
+      "lon": 100.3523
+    },
+    "address_vi": "Huyện Mueang Phichit, tỉnh Phichit (bên sông Nan)",
+    "rating": null,
+    "presentation_short_vi": "Ngôi chùa cổ bên sông Nan, nơi tôn trí tượng Luang Pho Phet linh thiêng và gắn với nhiều câu chuyện dân gian.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.3523,16.44&z=17&pt=100.3523,16.44",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.44,100.3523"
+    },
+    "tags": [
+      "temple",
+      "nan_river",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-phichit-wat-pho-prathap-chang",
+    "slug": "wat-pho-prathap-chang",
+    "region": "th-phichit",
+    "country": "thailand",
+    "region_name_vi": "Phichit",
+    "name_vi": "Chùa Pho Prathap Chang",
+    "name_en": "Wat Pho Prathap Chang",
+    "name_local": "วัดโพธิ์ประทับช้าง",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 16.3029,
+      "lon": 100.3157
+    },
+    "address_vi": "Huyện Pho Prathap Chang, tỉnh Phichit",
+    "rating": null,
+    "presentation_short_vi": "Ngôi chùa cổ do vua Suea thời Ayutthaya xây năm 1701 tại nơi tương truyền là quê sinh của ngài, có tường đôi bao quanh độc đáo.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.3157,16.3029&z=17&pt=100.3157,16.3029",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.3029,100.3157"
+    },
+    "tags": [
+      "temple",
+      "ayutthaya",
+      "historic",
+      "king_suea"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-phichit-mueang-kao-old-city-park",
+    "slug": "mueang-kao-old-city-park",
+    "region": "th-phichit",
+    "country": "thailand",
+    "region_name_vi": "Phichit",
+    "name_vi": "Công viên Thành cổ Phichit (Mueang Kao)",
+    "name_en": "Phichit Old City Park (Mueang Kao)",
+    "name_local": "อุทยานเมืองเก่าพิจิตร",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 16.4154,
+      "lon": 100.2918
+    },
+    "address_vi": "Xã Mueang Kao, huyện Mueang Phichit, tỉnh Phichit",
+    "rating": null,
+    "presentation_short_vi": "Công viên thành cổ Phichit với hào nước, nền thành và đền miếu xưa, gắn với truyền thuyết vua và thành Chalawan.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.2918,16.4154&z=17&pt=100.2918,16.4154",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.4154,100.2918"
+    },
+    "tags": [
+      "historical_park",
+      "old_city",
+      "ruins",
+      "chalawan"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-phichit-wat-hiranyaram",
+    "slug": "wat-hiranyaram",
+    "region": "th-phichit",
+    "country": "thailand",
+    "region_name_vi": "Phichit",
+    "name_vi": "Chùa Hiranyaram (Bang Khlan)",
+    "name_en": "Wat Hiranyaram (Wat Bang Khlan)",
+    "name_local": "วัดหิรัญญาราม (วัดบางคลาน)",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 16.16,
+      "lon": 100.29
+    },
+    "address_vi": "Huyện Pho Thale, tỉnh Phichit",
+    "rating": null,
+    "presentation_short_vi": "Ngôi chùa nổi tiếng bên sông Nan cũ, gắn với cao tăng Luang Pho Ngern và những lá bùa hộ mệnh linh thiêng bậc nhất Thái Lan.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.29,16.16&z=17&pt=100.29,16.16",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.16,100.29"
+    },
+    "tags": [
+      "temple",
+      "luang_pho_ngern",
+      "pilgrimage",
+      "nan_river"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

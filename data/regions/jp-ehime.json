@@ -1,0 +1,318 @@
+[
+  {
+    "id": "jp-ehime-dogo-onsen",
+    "slug": "dogo-onsen",
+    "region": "jp-ehime",
+    "country": "japan",
+    "region_name_vi": "Ehime",
+    "name_vi": "Suối nước nóng Dōgo (nhà tắm Honkan)",
+    "name_en": "Dōgo Onsen Honkan",
+    "name_local": "道後温泉本館",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 33.8519,
+      "lon": 132.7864
+    },
+    "address_vi": "5-6 Dōgomachi, TP Matsuyama, Ehime",
+    "presentation_short_vi": "Nhà tắm công cộng bằng gỗ ba tầng khánh thành năm 1894, biểu tượng của suối nước nóng Dōgo – một trong những onsen lâu đời nhất Nhật Bản và nguồn cảm hứng cho bối cảnh phim hoạt hình Spirited Away.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=33.8519,132.7864",
+      "yandex": "https://yandex.com/maps/?pt=132.7864,33.8519&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "onsen",
+      "historic",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-ehime-matsuyama-castle",
+    "slug": "matsuyama-castle",
+    "region": "jp-ehime",
+    "country": "japan",
+    "region_name_vi": "Ehime",
+    "name_vi": "Lâu đài Matsuyama",
+    "name_en": "Matsuyama Castle",
+    "name_local": "松山城",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 33.8456,
+      "lon": 132.7661
+    },
+    "address_vi": "1 Marunouchi, TP Matsuyama, Ehime",
+    "presentation_short_vi": "Toà thành trên đỉnh núi Katsuyama giữa lòng thành phố, một trong 12 toà thành Nhật còn giữ tháp thiên thủ nguyên bản thời Edo; du khách lên tới nơi bằng cáp treo hoặc ghế treo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=33.8456,132.7661",
+      "yandex": "https://yandex.com/maps/?pt=132.7661,33.8456&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "castle",
+      "historic",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-ehime-ishite-ji",
+    "slug": "ishite-ji",
+    "region": "jp-ehime",
+    "country": "japan",
+    "region_name_vi": "Ehime",
+    "name_vi": "Chùa Ishite-ji",
+    "name_en": "Ishite-ji Temple",
+    "name_local": "石手寺",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 33.8481,
+      "lon": 132.8069
+    },
+    "address_vi": "2-9-21 Ishite, TP Matsuyama, Ehime",
+    "presentation_short_vi": "Ngôi chùa thứ 51 trên hành trình 88 chùa Shikoku, nổi bật với cổng Niōmon và tháp ba tầng thời Kamakura được xếp hạng Quốc bảo, nằm gần khu suối Dōgo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=33.8481,132.8069",
+      "yandex": "https://yandex.com/maps/?pt=132.8069,33.8481&z=16&l=map"
+    },
+    "tags": [
+      "temple",
+      "pilgrimage",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-ehime-bansuiso",
+    "slug": "bansuiso",
+    "region": "jp-ehime",
+    "country": "japan",
+    "region_name_vi": "Ehime",
+    "name_vi": "Biệt thự Bansui-sō",
+    "name_en": "Bansui-sō Villa",
+    "name_local": "萬翠荘",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 33.8432,
+      "lon": 132.7648
+    },
+    "address_vi": "3-3-7 Ichibanchō, TP Matsuyama, Ehime",
+    "presentation_short_vi": "Dinh thự kiểu Pháp xây năm 1922 dưới chân núi lâu đài Matsuyama, được công nhận Di sản Văn hoá quan trọng, nay là phòng trưng bày mỹ thuật với kiến trúc tân cổ điển lộng lẫy.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=33.8432,132.7648",
+      "yandex": "https://yandex.com/maps/?pt=132.7648,33.8432&z=16&l=map"
+    },
+    "tags": [
+      "historic",
+      "architecture",
+      "museum"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-ehime-imabari-castle",
+    "slug": "imabari-castle",
+    "region": "jp-ehime",
+    "country": "japan",
+    "region_name_vi": "Ehime",
+    "name_vi": "Lâu đài Imabari",
+    "name_en": "Imabari Castle",
+    "name_local": "今治城",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 34.0664,
+      "lon": 133.0047
+    },
+    "address_vi": "3-1-3 Tōrōchō, TP Imabari, Ehime",
+    "presentation_short_vi": "Một trong ba toà thành biển tiêu biểu của Nhật Bản, có hào dẫn nước trực tiếp từ biển Seto cho thuyền ra vào; tháp thiên thủ phục dựng nhìn thẳng ra vùng biển nội địa.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.0664,133.0047",
+      "yandex": "https://yandex.com/maps/?pt=133.0047,34.0664&z=16&l=map"
+    },
+    "tags": [
+      "castle",
+      "coast",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-ehime-kurushima-kaikyo-bridge",
+    "slug": "kurushima-kaikyo-bridge",
+    "region": "jp-ehime",
+    "country": "japan",
+    "region_name_vi": "Ehime",
+    "name_vi": "Cầu eo biển Kurushima",
+    "name_en": "Kurushima-Kaikyō Bridge",
+    "name_local": "来島海峡大橋",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 34.1189,
+      "lon": 133.0086
+    },
+    "address_vi": "Nối TP Imabari với đảo Ōshima, Ehime",
+    "presentation_short_vi": "Hệ thống ba cầu treo nối tiếp dài hơn 4 km vắt qua eo biển Kurushima, chặng ngoạn mục nhất của cung đường đạp xe Shimanami Kaidō nối Honshū với Shikoku.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.1189,133.0086",
+      "yandex": "https://yandex.com/maps/?pt=133.0086,34.1189&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "bridge",
+      "cycling",
+      "coast",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-ehime-ozu-castle",
+    "slug": "ozu-castle",
+    "region": "jp-ehime",
+    "country": "japan",
+    "region_name_vi": "Ehime",
+    "name_vi": "Lâu đài Ōzu",
+    "name_en": "Ōzu Castle",
+    "name_local": "大洲城",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 33.5078,
+      "lon": 132.5447
+    },
+    "address_vi": "903 Ōzu, TP Ōzu, Ehime",
+    "presentation_short_vi": "Toà thành bên sông Hiji được phục dựng hoàn toàn bằng gỗ theo kỹ thuật truyền thống dựa trên tư liệu cổ; du khách còn có thể đăng ký nghỉ đêm ngay trong tháp thành.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=33.5078,132.5447",
+      "yandex": "https://yandex.com/maps/?pt=132.5447,33.5078&z=16&l=map"
+    },
+    "tags": [
+      "castle",
+      "historic",
+      "river"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-ehime-shimonada-station",
+    "slug": "shimonada-station",
+    "region": "jp-ehime",
+    "country": "japan",
+    "region_name_vi": "Ehime",
+    "name_vi": "Ga Shimonada",
+    "name_en": "Shimonada Station",
+    "name_local": "下灘駅",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 33.6786,
+      "lon": 132.6317
+    },
+    "address_vi": "Futami, TP Iyo, Ehime",
+    "presentation_short_vi": "Ga tàu nhỏ không người trực nằm sát bờ biển Seto, được xem là một trong những sân ga ngắm hoàng hôn đẹp nhất Nhật Bản, thường xuất hiện trong phim ảnh và quảng cáo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=33.6786,132.6317",
+      "yandex": "https://yandex.com/maps/?pt=132.6317,33.6786&z=16&l=map"
+    },
+    "tags": [
+      "railway",
+      "coast",
+      "sunset",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-ehime-uchiko-za",
+    "slug": "uchiko-za",
+    "region": "jp-ehime",
+    "country": "japan",
+    "region_name_vi": "Ehime",
+    "name_vi": "Nhà hát Uchiko-za",
+    "name_en": "Uchiko-za Theatre",
+    "name_local": "内子座",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 33.5311,
+      "lon": 132.6558
+    },
+    "address_vi": "2102 Uchiko, Uchiko-chō, Ehime",
+    "presentation_short_vi": "Nhà hát kabuki bằng gỗ dựng năm 1916 với sân khấu xoay và hầm sàn vận hành thủ công, nằm trong phố cổ Uchiko thời Edo–Meiji nổi tiếng nghề làm sáp nến.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=33.5311,132.6558",
+      "yandex": "https://yandex.com/maps/?pt=132.6558,33.5311&z=16&l=map"
+    },
+    "tags": [
+      "theatre",
+      "kabuki",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-ehime-cape-sada",
+    "slug": "cape-sada",
+    "region": "jp-ehime",
+    "country": "japan",
+    "region_name_vi": "Ehime",
+    "name_vi": "Mũi Sada (Sadamisaki)",
+    "name_en": "Cape Sada",
+    "name_local": "佐田岬",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 33.0206,
+      "lon": 132.0106
+    },
+    "address_vi": "Misaki, Ikata-chō, Ehime",
+    "presentation_short_vi": "Điểm cực tây của đảo Shikoku, mỏm đất hẹp vươn dài ra biển với ngọn hải đăng trắng và tầm nhìn sang tận Kyūshū qua eo biển Hōyo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=33.0206,132.0106",
+      "yandex": "https://yandex.com/maps/?pt=132.0106,33.0206&z=16&l=map"
+    },
+    "tags": [
+      "cape",
+      "lighthouse",
+      "coast",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

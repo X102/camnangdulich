@@ -1,0 +1,317 @@
+[
+  {
+    "id": "jp-niigata-sado-kinzan",
+    "slug": "sado-kinzan",
+    "region": "jp-niigata",
+    "country": "japan",
+    "region_name_vi": "Niigata",
+    "name_vi": "Mỏ vàng Sado (Sado Kinzan)",
+    "name_en": "Sado Gold Mine (Sado Kinzan)",
+    "name_local": "佐渡金山",
+    "categories": [
+      "monument",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 38.0424,
+      "lon": 138.2586
+    },
+    "address_vi": "Shimoaikawa, TP Sado, Niigata",
+    "presentation_short_vi": "Khu mỏ vàng lịch sử hoạt động hơn 400 năm với đường hầm khai thác thời Edo và bảo tàng tái hiện; được ghi danh Di sản Thế giới UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.0424,138.2586",
+      "yandex": "https://yandex.com/maps/?pt=138.2586,38.0424&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "historic",
+      "unesco",
+      "mine"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-niigata-kiyotsu-gorge",
+    "slug": "kiyotsu-gorge",
+    "region": "jp-niigata",
+    "country": "japan",
+    "region_name_vi": "Niigata",
+    "name_vi": "Hẻm núi Kiyotsu",
+    "name_en": "Kiyotsu Gorge (Tunnel of Light)",
+    "name_local": "清津峡",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 37.0736,
+      "lon": 138.7472
+    },
+    "address_vi": "Tokamachi, Niigata",
+    "presentation_short_vi": "Một trong ba hẻm núi lớn của Nhật Bản với vách đá cột bazan, nổi tiếng nhờ 'Đường hầm Ánh sáng' phản chiếu dòng nước như gương.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.0736,138.7472",
+      "yandex": "https://yandex.com/maps/?pt=138.7472,37.0736&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "gorge",
+      "nature",
+      "art"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-niigata-bandai-bridge",
+    "slug": "bandai-bridge",
+    "region": "jp-niigata",
+    "country": "japan",
+    "region_name_vi": "Niigata",
+    "name_vi": "Cầu Bandai",
+    "name_en": "Bandai Bridge (Bandaibashi)",
+    "name_local": "萬代橋",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 37.9166,
+      "lon": 139.0556
+    },
+    "address_vi": "Bắc qua sông Shinano, TP Niigata, Niigata",
+    "presentation_short_vi": "Cây cầu đá sáu nhịp vòm cong duyên dáng bắc qua sông Shinano, biểu tượng của TP Niigata và là Tài sản Văn hoá Quan trọng của quốc gia.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.9166,139.0556",
+      "yandex": "https://yandex.com/maps/?pt=139.0556,37.9166&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "bridge",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-niigata-yahiko-shrine",
+    "slug": "yahiko-shrine",
+    "region": "jp-niigata",
+    "country": "japan",
+    "region_name_vi": "Niigata",
+    "name_vi": "Đền Yahiko",
+    "name_en": "Yahiko Shrine (Yahiko-jinja)",
+    "name_local": "彌彦神社",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 37.7061,
+      "lon": 138.8286
+    },
+    "address_vi": "Yahiko, Nishikanbara, Niigata",
+    "presentation_short_vi": "Ngôi đền Thần đạo cổ hơn 2.400 năm nằm dưới chân núi Yahiko linh thiêng, giữa rừng tuyết tùng cổ thụ và có tuyến cáp treo lên đỉnh núi.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.7061,138.8286",
+      "yandex": "https://yandex.com/maps/?pt=138.8286,37.7061&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "shrine",
+      "nature",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-niigata-hoshitoge-tanada",
+    "slug": "hoshitoge-tanada",
+    "region": "jp-niigata",
+    "country": "japan",
+    "region_name_vi": "Niigata",
+    "name_vi": "Ruộng bậc thang Hoshitōge",
+    "name_en": "Hoshitōge Rice Terraces",
+    "name_local": "星峠の棚田",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 37.1519,
+      "lon": 138.7286
+    },
+    "address_vi": "Matsudai, Tokamachi, Niigata",
+    "presentation_short_vi": "Hơn 200 thửa ruộng bậc thang uốn lượn theo sườn đồi, mặt nước phản chiếu bình minh và biển mây, một cảnh quan được yêu thích bậc nhất vùng Echigo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.1519,138.7286",
+      "yandex": "https://yandex.com/maps/?pt=138.7286,37.1519&z=16&l=map"
+    },
+    "tags": [
+      "scenic",
+      "rice-terrace",
+      "nature",
+      "photography"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-niigata-takada-castle",
+    "slug": "takada-castle",
+    "region": "jp-niigata",
+    "country": "japan",
+    "region_name_vi": "Niigata",
+    "name_vi": "Lâu đài Takada",
+    "name_en": "Takada Castle",
+    "name_local": "高田城",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 37.1083,
+      "lon": 138.2431
+    },
+    "address_vi": "Motoshiromachi, Jōetsu, Niigata",
+    "presentation_short_vi": "Toà thành với tháp canh ba tầng phục dựng trong công viên rộng lớn, nổi tiếng với lễ hội hoa anh đào về đêm và đầm sen nở rộ mùa hè.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.1083,138.2431",
+      "yandex": "https://yandex.com/maps/?pt=138.2431,37.1083&z=16&l=map"
+    },
+    "tags": [
+      "castle",
+      "park",
+      "cherry-blossom"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-niigata-northern-culture-museum",
+    "slug": "northern-culture-museum",
+    "region": "jp-niigata",
+    "country": "japan",
+    "region_name_vi": "Niigata",
+    "name_vi": "Bảo tàng Văn hoá Phương Bắc",
+    "name_en": "Northern Culture Museum",
+    "name_local": "北方文化博物館",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 37.8336,
+      "lon": 139.1425
+    },
+    "address_vi": "Yokogoshi, TP Niigata, Niigata",
+    "presentation_short_vi": "Dinh thự của gia tộc địa chủ Itō thời Edo với kiến trúc gỗ tráng lệ, khu vườn Nhật rộng lớn và bộ sưu tập cổ vật quý giá.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.8336,139.1425",
+      "yandex": "https://yandex.com/maps/?pt=139.1425,37.8336&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "garden",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-niigata-naena-falls",
+    "slug": "naena-falls",
+    "region": "jp-niigata",
+    "country": "japan",
+    "region_name_vi": "Niigata",
+    "name_vi": "Thác Naena",
+    "name_en": "Naena Falls",
+    "name_local": "苗名滝",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.8858,
+      "lon": 138.1119
+    },
+    "address_vi": "Suginosawa, Myōkō, Niigata",
+    "presentation_short_vi": "Thác nước cao 55 m đổ ầm ầm giữa vách đá cột bazan, một trong '100 thác nước đẹp nhất Nhật Bản', rực rỡ lá đỏ vào mùa thu.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.8858,138.1119",
+      "yandex": "https://yandex.com/maps/?pt=138.1119,36.8858&z=16&l=map"
+    },
+    "tags": [
+      "waterfall",
+      "nature",
+      "autumn"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-niigata-toki-forest-park",
+    "slug": "toki-forest-park",
+    "region": "jp-niigata",
+    "country": "japan",
+    "region_name_vi": "Niigata",
+    "name_vi": "Công viên rừng Toki",
+    "name_en": "Toki Forest Park",
+    "name_local": "トキの森公園",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 38.0261,
+      "lon": 138.3608
+    },
+    "address_vi": "Niibo Kaneko, TP Sado, Niigata",
+    "presentation_short_vi": "Trung tâm bảo tồn loài cò quăm mào Nhật Bản (toki) quý hiếm trên đảo Sado, nơi du khách quan sát loài chim biểu tượng và tìm hiểu nỗ lực hồi sinh chúng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.0261,138.3608",
+      "yandex": "https://yandex.com/maps/?pt=138.3608,38.0261&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "wildlife",
+      "park"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-niigata-sasagawa-nagare",
+    "slug": "sasagawa-nagare",
+    "region": "jp-niigata",
+    "country": "japan",
+    "region_name_vi": "Niigata",
+    "name_vi": "Bờ biển Sasagawa Nagare",
+    "name_en": "Sasagawa Nagare Coast",
+    "name_local": "笹川流れ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 38.4361,
+      "lon": 139.5411
+    },
+    "address_vi": "Sanpoku, Murakami, Niigata",
+    "presentation_short_vi": "Dải bờ biển đá kỳ vĩ dài khoảng 11 km với hang động, vòm đá và làn nước trong xanh, được xếp hạng Danh thắng và Di tích Thiên nhiên quốc gia.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.4361,139.5411",
+      "yandex": "https://yandex.com/maps/?pt=139.5411,38.4361&z=16&l=map"
+    },
+    "tags": [
+      "coast",
+      "scenic",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

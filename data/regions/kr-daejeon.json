@@ -1,0 +1,311 @@
+[
+  {
+    "id": "kr-daejeon-daejeon-o-world",
+    "slug": "daejeon-o-world",
+    "region": "kr-daejeon",
+    "region_name_vi": "Daejeon",
+    "country": "korea",
+    "name_vi": "Công viên O-World Daejeon",
+    "name_en": "Daejeon O-World",
+    "name_local": "대전오월드",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.2967,
+      "lon": 127.3878
+    },
+    "address_vi": "Jung-gu, Daejeon",
+    "presentation_short_vi": "Tổ hợp giải trí gồm vườn thú, công viên trò chơi cảm giác mạnh và vườn hoa (Flower Land), điểm đến quen thuộc cho gia đình ở Daejeon.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.3878,36.2967&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=36.2967,127.3878"
+    },
+    "tags": [
+      "zoo",
+      "theme_park",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-daejeon-hanbit-tower",
+    "slug": "hanbit-tower",
+    "region": "kr-daejeon",
+    "region_name_vi": "Daejeon",
+    "country": "korea",
+    "name_vi": "Tháp Hanbit",
+    "name_en": "EXPO Hanbit Tower",
+    "name_local": "한빛탑",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 36.3746,
+      "lon": 127.3886
+    },
+    "address_vi": "Yuseong-gu, Daejeon",
+    "presentation_short_vi": "Tháp biểu tượng cao 93 m dựng cho Triển lãm Expo 1993, có đài quan sát nhìn toàn cảnh khu Expo và sông Gapcheon.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.3886,36.3746&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=36.3746,127.3886"
+    },
+    "tags": [
+      "landmark",
+      "tower",
+      "expo"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-daejeon-national-science-museum",
+    "slug": "national-science-museum",
+    "region": "kr-daejeon",
+    "region_name_vi": "Daejeon",
+    "country": "korea",
+    "name_vi": "Bảo tàng Khoa học Quốc gia",
+    "name_en": "National Science Museum",
+    "name_local": "국립중앙과학관",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 36.3762,
+      "lon": 127.3745
+    },
+    "address_vi": "Yuseong-gu, Daejeon",
+    "presentation_short_vi": "Bảo tàng khoa học lớn nhất Hàn Quốc với các gian trưng bày về tự nhiên, công nghệ và vũ trụ cùng nhà chiếu hình thiên văn.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.3745,36.3762&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=36.3762,127.3745"
+    },
+    "tags": [
+      "museum",
+      "science",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-daejeon-yuseong-hot-springs",
+    "slug": "yuseong-hot-springs",
+    "region": "kr-daejeon",
+    "region_name_vi": "Daejeon",
+    "country": "korea",
+    "name_vi": "Suối nước nóng Yuseong",
+    "name_en": "Yuseong Hot Springs",
+    "name_local": "유성온천",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 36.3547,
+      "lon": 127.3441
+    },
+    "address_vi": "Yuseong-gu, Daejeon",
+    "presentation_short_vi": "Khu suối nước nóng nổi tiếng với nguồn nước khoáng kiềm, nhiều khách sạn và nhà tắm công cộng cùng công viên chân suối miễn phí.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.3441,36.3547&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=36.3547,127.3441"
+    },
+    "tags": [
+      "hot_spring",
+      "relax"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-daejeon-daecheong-lake",
+    "slug": "daecheong-lake",
+    "region": "kr-daejeon",
+    "region_name_vi": "Daejeon",
+    "country": "korea",
+    "name_vi": "Hồ Daecheong",
+    "name_en": "Daecheong Lake",
+    "name_local": "대청호",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.479,
+      "lon": 127.4767
+    },
+    "address_vi": "Daedeok-gu, Daejeon",
+    "presentation_short_vi": "Hồ chứa rộng lớn hình thành sau đập Daecheong, có các tuyến 'đường ven hồ' đi bộ, đạp xe và nhiều điểm ngắm cảnh yên tĩnh.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.4767,36.479&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=36.479,127.4767"
+    },
+    "tags": [
+      "lake",
+      "scenery",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-daejeon-gyejoksan",
+    "slug": "gyejoksan",
+    "region": "kr-daejeon",
+    "region_name_vi": "Daejeon",
+    "country": "korea",
+    "name_vi": "Núi Gyejoksan",
+    "name_en": "Gyejoksan",
+    "name_local": "계족산",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.403,
+      "lon": 127.4453
+    },
+    "address_vi": "Daedeok-gu, Daejeon",
+    "presentation_short_vi": "Ngọn núi có con đường đất sét đỏ (hwangto) dài khoảng 14,5 km để đi chân trần, rợp bóng thông, kèm thành cổ Gyejoksanseong trên đỉnh.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.4453,36.403&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=36.403,127.4453"
+    },
+    "tags": [
+      "mountain",
+      "trail",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-daejeon-ppuri-park",
+    "slug": "ppuri-park",
+    "region": "kr-daejeon",
+    "region_name_vi": "Daejeon",
+    "country": "korea",
+    "name_vi": "Công viên Ppuri",
+    "name_en": "Ppuri Park (Roots Park)",
+    "name_local": "뿌리공원",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.2868,
+      "lon": 127.3757
+    },
+    "address_vi": "Jung-gu, Daejeon",
+    "presentation_short_vi": "Công viên theo chủ đề dòng họ với hàng loạt tượng đá tượng trưng cho các họ tộc Hàn Quốc, bên bờ sông và có đài ngắm cảnh.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.3757,36.2868&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=36.2868,127.3757"
+    },
+    "tags": [
+      "park",
+      "family",
+      "culture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-daejeon-jangtaesan",
+    "slug": "jangtaesan",
+    "region": "kr-daejeon",
+    "region_name_vi": "Daejeon",
+    "country": "korea",
+    "name_vi": "Rừng nghỉ dưỡng Jangtaesan",
+    "name_en": "Jangtaesan Recreational Forest",
+    "name_local": "장태산자연휴양림",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.2323,
+      "lon": 127.3232
+    },
+    "address_vi": "Seo-gu, Daejeon",
+    "presentation_short_vi": "Khu rừng nghỉ dưỡng nổi tiếng với rừng cây metasequoia cao vút và cầu đi bộ trên tán cây (skyway), đẹp rực rỡ vào mùa thu.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.3232,36.2323&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=36.2323,127.3232"
+    },
+    "tags": [
+      "forest",
+      "nature",
+      "metasequoia"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-daejeon-daejeon-skyroad",
+    "slug": "daejeon-skyroad",
+    "region": "kr-daejeon",
+    "region_name_vi": "Daejeon",
+    "country": "korea",
+    "name_vi": "Phố Skyroad Daejeon",
+    "name_en": "Daejeon Skyroad",
+    "name_local": "스카이로드",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 36.3283,
+      "lon": 127.4272
+    },
+    "address_vi": "Eunhaeng-dong, Jung-gu, Daejeon",
+    "presentation_short_vi": "Phố mua sắm đi bộ ở trung tâm cũ với mái vòm màn hình LED khổng lồ trình chiếu hiệu ứng ánh sáng vào buổi tối.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.4272,36.3283&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=36.3283,127.4272"
+    },
+    "tags": [
+      "street",
+      "shopping",
+      "night"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-daejeon-sikjangsan",
+    "slug": "sikjangsan",
+    "region": "kr-daejeon",
+    "region_name_vi": "Daejeon",
+    "country": "korea",
+    "name_vi": "Núi Sikjangsan",
+    "name_en": "Sikjangsan",
+    "name_local": "식장산",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.3168,
+      "lon": 127.4876
+    },
+    "address_vi": "Dong-gu, Daejeon",
+    "presentation_short_vi": "Ngọn núi cao nhất Daejeon với đài quan sát và quán cà phê trên đỉnh, là điểm ngắm cảnh đêm và hoàng hôn được yêu thích.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.4876,36.3168&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=36.3168,127.4876"
+    },
+    "tags": [
+      "mountain",
+      "night_view",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

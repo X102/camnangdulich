@@ -1,0 +1,310 @@
+[
+  {
+    "id": "ph-metro-manila-intramuros",
+    "slug": "intramuros",
+    "region": "ph-metro-manila",
+    "country": "philippines",
+    "region_name_vi": "Manila (Vùng Thủ đô)",
+    "name_vi": "Khu phố cổ Intramuros",
+    "name_en": "Intramuros",
+    "name_local": "Intramuros",
+    "categories": [
+      "fortress",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 14.5897,
+      "lon": 120.9747
+    },
+    "address_vi": "Quận 1, Manila, Philippines",
+    "presentation_short_vi": "Intramuros là khu thành cổ do người Tây Ban Nha xây từ thế kỷ 16, bao quanh bởi tường đá dày; đây là trung tâm lịch sử và biểu tượng thời thuộc địa của Manila.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=120.9747,14.5897&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=14.5897,120.9747"
+    },
+    "tags": [
+      "top",
+      "heritage",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "ph-metro-manila-fort-santiago",
+    "slug": "fort-santiago",
+    "region": "ph-metro-manila",
+    "country": "philippines",
+    "region_name_vi": "Manila (Vùng Thủ đô)",
+    "name_vi": "Pháo đài Santiago",
+    "name_en": "Fort Santiago",
+    "name_local": "Fort Santiago",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 14.5944,
+      "lon": 120.9706
+    },
+    "address_vi": "Intramuros, Manila, Philippines",
+    "presentation_short_vi": "Pháo đài Santiago là thành lũy đá bảo vệ cửa sông Pasig, nơi anh hùng dân tộc José Rizal bị giam trước khi hành hình; nay là công viên di tích.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=120.9706,14.5944&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=14.5944,120.9706"
+    },
+    "tags": [
+      "top",
+      "fortress",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "ph-metro-manila-rizal-park",
+    "slug": "rizal-park",
+    "region": "ph-metro-manila",
+    "country": "philippines",
+    "region_name_vi": "Manila (Vùng Thủ đô)",
+    "name_vi": "Công viên Rizal (Luneta)",
+    "name_en": "Rizal Park",
+    "name_local": "Liwasang Rizal",
+    "categories": [
+      "park_garden",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 14.5825,
+      "lon": 120.9797
+    },
+    "address_vi": "Ermita, Manila, Philippines",
+    "presentation_short_vi": "Công viên Rizal (Luneta) là công viên trung tâm rộng lớn với đài tưởng niệm anh hùng José Rizal, điểm hẹn lịch sử của người dân Manila.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=120.9797,14.5825&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=14.5825,120.9797"
+    },
+    "tags": [
+      "top",
+      "park",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "ph-metro-manila-manila-cathedral",
+    "slug": "manila-cathedral",
+    "region": "ph-metro-manila",
+    "country": "philippines",
+    "region_name_vi": "Manila (Vùng Thủ đô)",
+    "name_vi": "Nhà thờ chính tòa Manila",
+    "name_en": "Manila Cathedral",
+    "name_local": "Katedral ng Maynila",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 14.5917,
+      "lon": 120.9733
+    },
+    "address_vi": "Intramuros, Manila, Philippines",
+    "presentation_short_vi": "Nhà thờ chính tòa Manila là vương cung thánh đường của Tổng giáo phận Manila, kiến trúc La Mã hùng vĩ nằm trong khu thành cổ Intramuros.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=120.9733,14.5917&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=14.5917,120.9733"
+    },
+    "tags": [
+      "church",
+      "heritage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "ph-metro-manila-san-agustin-church",
+    "slug": "san-agustin-church",
+    "region": "ph-metro-manila",
+    "country": "philippines",
+    "region_name_vi": "Manila (Vùng Thủ đô)",
+    "name_vi": "Nhà thờ San Agustin",
+    "name_en": "San Agustin Church",
+    "name_local": "Simbahan ng San Agustin",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 14.5894,
+      "lon": 120.9747
+    },
+    "address_vi": "Intramuros, Manila, Philippines",
+    "presentation_short_vi": "Nhà thờ San Agustin hoàn thành năm 1607 là nhà thờ đá cổ nhất Philippines, Di sản thế giới UNESCO với trần vẽ giả nổi và nội thất Baroque.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=120.9747,14.5894&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=14.5894,120.9747"
+    },
+    "tags": [
+      "top",
+      "church",
+      "unesco"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "ph-metro-manila-national-museum-fine-arts",
+    "slug": "national-museum-fine-arts",
+    "region": "ph-metro-manila",
+    "country": "philippines",
+    "region_name_vi": "Manila (Vùng Thủ đô)",
+    "name_vi": "Bảo tàng Mỹ thuật Quốc gia",
+    "name_en": "National Museum of Fine Arts",
+    "name_local": "Pambansang Museo ng Sining",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 14.5869,
+      "lon": 120.9814
+    },
+    "address_vi": "Padre Burgos Ave, Ermita, Manila",
+    "presentation_short_vi": "Bảo tàng Mỹ thuật Quốc gia trưng bày kiệt tác Spoliarium của Juan Luna cùng bộ sưu tập hội họa và điêu khắc tiêu biểu của Philippines.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=120.9814,14.5869&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=14.5869,120.9814"
+    },
+    "tags": [
+      "museum",
+      "art",
+      "culture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "ph-metro-manila-binondo",
+    "slug": "binondo",
+    "region": "ph-metro-manila",
+    "country": "philippines",
+    "region_name_vi": "Manila (Vùng Thủ đô)",
+    "name_vi": "Phố người Hoa Binondo",
+    "name_en": "Binondo (Chinatown)",
+    "name_local": "Binondo",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 14.6,
+      "lon": 120.9748
+    },
+    "address_vi": "Binondo, Manila, Philippines",
+    "presentation_short_vi": "Binondo là khu phố Hoa lâu đời nhất thế giới (từ năm 1594), sôi động với hàng quán, tiệm thuốc bắc và ẩm thực Hoa - Phi đặc sắc.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=120.9748,14.6&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=14.6,120.9748"
+    },
+    "tags": [
+      "chinatown",
+      "food",
+      "street"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "ph-metro-manila-quiapo-church",
+    "slug": "quiapo-church",
+    "region": "ph-metro-manila",
+    "country": "philippines",
+    "region_name_vi": "Manila (Vùng Thủ đô)",
+    "name_vi": "Nhà thờ Quiapo (Chúa Nazareno Đen)",
+    "name_en": "Quiapo Church",
+    "name_local": "Simbahan ng Quiapo",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 14.5986,
+      "lon": 120.9836
+    },
+    "address_vi": "Quiapo, Manila, Philippines",
+    "presentation_short_vi": "Nhà thờ Quiapo lưu giữ tượng Chúa Nazareno Đen linh thiêng, nơi diễn ra cuộc rước Traslación thu hút hàng triệu tín đồ mỗi tháng Giêng.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=120.9836,14.5986&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=14.5986,120.9836"
+    },
+    "tags": [
+      "church",
+      "pilgrimage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "ph-metro-manila-malacanang-palace",
+    "slug": "malacanang-palace",
+    "region": "ph-metro-manila",
+    "country": "philippines",
+    "region_name_vi": "Manila (Vùng Thủ đô)",
+    "name_vi": "Dinh Malacañang",
+    "name_en": "Malacañang Palace",
+    "name_local": "Palasyo ng Malacañang",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 14.5949,
+      "lon": 120.9942
+    },
+    "address_vi": "Bờ sông Pasig, San Miguel, Manila",
+    "presentation_short_vi": "Dinh Malacañang bên sông Pasig là nơi ở và làm việc chính thức của Tổng thống Philippines, dinh thự thuộc địa trang nhã có bảo tàng mở cửa tham quan.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=120.9942,14.5949&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=14.5949,120.9942"
+    },
+    "tags": [
+      "palace",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "ph-metro-manila-manila-ocean-park",
+    "slug": "manila-ocean-park",
+    "region": "ph-metro-manila",
+    "country": "philippines",
+    "region_name_vi": "Manila (Vùng Thủ đô)",
+    "name_vi": "Công viên Đại dương Manila",
+    "name_en": "Manila Ocean Park",
+    "name_local": "Manila Ocean Park",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 14.5794,
+      "lon": 120.9722
+    },
+    "address_vi": "Sau Quirino Grandstand, Ermita, Manila",
+    "presentation_short_vi": "Manila Ocean Park là thủy cung ven vịnh Manila với đường hầm cá, khu chim cánh cụt và show sư tử biển, điểm vui chơi cho gia đình.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=120.9722,14.5794&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=14.5794,120.9722"
+    },
+    "tags": [
+      "aquarium",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

@@ -1,0 +1,250 @@
+[
+  {
+    "id": "kr-south-jeolla-suncheonman-wetland",
+    "slug": "suncheonman-wetland",
+    "region": "kr-south-jeolla",
+    "region_name_vi": "Jeolla Nam",
+    "country": "korea",
+    "name_vi": "Khu bảo tồn đất ngập nước Vịnh Suncheon",
+    "name_en": "Suncheonman Bay Wetland Reserve",
+    "name_local": "순천만습지",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 34.8853,
+      "lon": 127.5093
+    },
+    "address_vi": "Suncheon, Jeolla Nam",
+    "presentation_short_vi": "Vùng đất ngập nước ven biển rộng lớn với bãi lau sậy và bãi bùn nổi tiếng, thiên đường của sếu và chim di cư – một trong những đầm lầy đẹp nhất thế giới.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.5093,34.8853&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=34.8853,127.5093"
+    },
+    "tags": [
+      "wetland",
+      "nature",
+      "birds"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-south-jeolla-suncheonman-national-garden",
+    "slug": "suncheonman-national-garden",
+    "region": "kr-south-jeolla",
+    "region_name_vi": "Jeolla Nam",
+    "country": "korea",
+    "name_vi": "Vườn quốc gia Vịnh Suncheon",
+    "name_en": "Suncheonman Bay National Garden",
+    "name_local": "순천만국가정원",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 34.9183,
+      "lon": 127.5005
+    },
+    "address_vi": "Suncheon, Jeolla Nam",
+    "presentation_short_vi": "Vườn quốc gia đầu tiên của Hàn Quốc, quy tụ hàng trăm khu vườn chủ đề từ nhiều nước; biểu tượng xanh của thành phố sinh thái Suncheon.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.5005,34.9183&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=34.9183,127.5005"
+    },
+    "tags": [
+      "garden",
+      "nature",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-south-jeolla-hyangiram",
+    "slug": "hyangiram",
+    "region": "kr-south-jeolla",
+    "region_name_vi": "Jeolla Nam",
+    "country": "korea",
+    "name_vi": "Am Hyangiram",
+    "name_en": "Hyangiram Hermitage",
+    "name_local": "향일암",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 34.5916,
+      "lon": 127.8039
+    },
+    "address_vi": "Bán đảo Dolsan, Yeosu, Jeolla Nam",
+    "presentation_short_vi": "Am tự cheo leo trên vách đá đầu mũi Dolsan, một trong bốn đạo tràng Quan Âm của Hàn Quốc và điểm ngắm bình minh trên biển tuyệt đẹp.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.8039,34.5916&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=34.5916,127.8039"
+    },
+    "tags": [
+      "temple",
+      "sunrise",
+      "sea"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-south-jeolla-odongdo",
+    "slug": "odongdo",
+    "region": "kr-south-jeolla",
+    "region_name_vi": "Jeolla Nam",
+    "country": "korea",
+    "name_vi": "Đảo Odongdo",
+    "name_en": "Odongdo Island",
+    "name_local": "오동도",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 34.7472,
+      "lon": 127.7626
+    },
+    "address_vi": "Yeosu, Jeolla Nam",
+    "presentation_short_vi": "Hòn đảo nhỏ nối đất liền bằng đê chắn sóng, phủ kín rừng trúc và hoa trà đỏ (camellia); biểu tượng du lịch của thành phố biển Yeosu.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.7626,34.7472&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=34.7472,127.7626"
+    },
+    "tags": [
+      "island",
+      "nature",
+      "camellia"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-south-jeolla-boseong-green-tea",
+    "slug": "boseong-green-tea",
+    "region": "kr-south-jeolla",
+    "region_name_vi": "Jeolla Nam",
+    "country": "korea",
+    "name_vi": "Đồi chè Boseong (Daehan Dawon)",
+    "name_en": "Boseong Green Tea Field (Daehan Dawon)",
+    "name_local": "보성녹차밭 대한다원",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 34.7317,
+      "lon": 127.0789
+    },
+    "address_vi": "Boseong, Jeolla Nam",
+    "presentation_short_vi": "Đồi chè xanh bậc thang trải dài ngút mắt – vùng trồng chè nổi tiếng nhất Hàn Quốc, từng làm bối cảnh cho vô số phim và quảng cáo.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.0789,34.7317&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=34.7317,127.0789"
+    },
+    "tags": [
+      "tea",
+      "nature",
+      "scenery"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-south-jeolla-songgwangsa",
+    "slug": "songgwangsa",
+    "region": "kr-south-jeolla",
+    "region_name_vi": "Jeolla Nam",
+    "country": "korea",
+    "name_vi": "Chùa Songgwangsa",
+    "name_en": "Songgwangsa Temple",
+    "name_local": "송광사",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 35.0022,
+      "lon": 127.2756
+    },
+    "address_vi": "Núi Jogyesan, Suncheon, Jeolla Nam",
+    "presentation_short_vi": "Một trong 'Tam Bảo tự' của Phật giáo Hàn Quốc (đại diện Tăng bảo), ngôi tổ đình Thiền tông cổ kính bên núi Jogyesan.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.2756,35.0022&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.0022,127.2756"
+    },
+    "tags": [
+      "temple",
+      "historic",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-south-jeolla-daeheungsa",
+    "slug": "daeheungsa",
+    "region": "kr-south-jeolla",
+    "region_name_vi": "Jeolla Nam",
+    "country": "korea",
+    "name_vi": "Chùa Daeheungsa",
+    "name_en": "Daeheungsa Temple",
+    "name_local": "대흥사",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 34.4763,
+      "lon": 126.6159
+    },
+    "address_vi": "Núi Duryunsan, Haenam, Jeolla Nam",
+    "presentation_short_vi": "Quần thể chùa cổ dưới chân núi Duryunsan, thuộc di sản thế giới UNESCO 'Sansa – tự viện trên núi', gắn với thiền sư Seosan thời Joseon.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.6159,34.4763&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=34.4763,126.6159"
+    },
+    "tags": [
+      "temple",
+      "unesco",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-south-jeolla-naganeupseong",
+    "slug": "naganeupseong",
+    "region": "kr-south-jeolla",
+    "region_name_vi": "Jeolla Nam",
+    "country": "korea",
+    "name_vi": "Làng cổ thành Naganeupseong",
+    "name_en": "Naganeupseong Folk Village",
+    "name_local": "낙안읍성",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 34.9069,
+      "lon": 127.3389
+    },
+    "address_vi": "Nagan-myeon, Suncheon, Jeolla Nam",
+    "presentation_short_vi": "Toà thành đất – đá thời Joseon còn gần như nguyên vẹn, bên trong là làng dân gian với những ngôi nhà mái tranh vẫn có người sinh sống.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.3389,34.9069&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=34.9069,127.3389"
+    },
+    "tags": [
+      "folk-village",
+      "fortress",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

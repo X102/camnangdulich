@@ -1,0 +1,310 @@
+[
+  {
+    "id": "my-sarawak-gunung-mulu",
+    "slug": "gunung-mulu",
+    "region": "my-sarawak",
+    "region_name_vi": "Sarawak",
+    "country": "malaysia",
+    "name_vi": "Vườn quốc gia Gunung Mulu (Di sản UNESCO)",
+    "name_en": "Gunung Mulu National Park",
+    "name_local": "Taman Negara Gunung Mulu",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 4.0472,
+      "lon": 114.8147
+    },
+    "address_vi": "Miri, Sarawak",
+    "presentation_short_vi": "Công viên quốc gia được UNESCO công nhận Di sản Thế giới, nổi tiếng với hệ thống hang động đá vôi khổng lồ (Deer Cave, Clearwater) và núi đá Pinnacles.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=114.8147,4.0472&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=4.0472,114.8147"
+    },
+    "tags": [
+      "unesco",
+      "cave",
+      "park",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-sarawak-bako",
+    "slug": "bako",
+    "region": "my-sarawak",
+    "region_name_vi": "Sarawak",
+    "country": "malaysia",
+    "name_vi": "Vườn quốc gia Bako",
+    "name_en": "Bako National Park",
+    "name_local": "Taman Negara Bako",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 1.7167,
+      "lon": 110.4667
+    },
+    "address_vi": "Bán đảo Muara Tebas, gần Kuching",
+    "presentation_short_vi": "Công viên quốc gia lâu đời nhất Sarawak, nổi tiếng với khỉ vòi (proboscis), rừng ngập mặn và các mỏm đá biển kỳ thú.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=110.4667,1.7167&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=1.7167,110.4667"
+    },
+    "tags": [
+      "park",
+      "wildlife",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-sarawak-semenggoh",
+    "slug": "semenggoh",
+    "region": "my-sarawak",
+    "region_name_vi": "Sarawak",
+    "country": "malaysia",
+    "name_vi": "Trung tâm Động vật hoang dã Semenggoh",
+    "name_en": "Semenggoh Wildlife Centre",
+    "name_local": "Pusat Hidupan Liar Semenggoh",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 1.3997,
+      "lon": 110.3183
+    },
+    "address_vi": "Kuching, Sarawak",
+    "presentation_short_vi": "Khu bảo tồn thiên nhiên nơi phục hồi và thả bán hoang dã loài đười ươi Borneo, điểm ngắm đười ươi hàng đầu Sarawak.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=110.3183,1.3997&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=1.3997,110.3183"
+    },
+    "tags": [
+      "wildlife",
+      "orangutan",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-sarawak-cultural-village",
+    "slug": "cultural-village",
+    "region": "my-sarawak",
+    "region_name_vi": "Sarawak",
+    "country": "malaysia",
+    "name_vi": "Làng Văn hóa Sarawak",
+    "name_en": "Sarawak Cultural Village",
+    "name_local": "Kampung Budaya Sarawak",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 1.7469,
+      "lon": 110.3186
+    },
+    "address_vi": "Damai, Santubong, Kuching",
+    "presentation_short_vi": "Bảo tàng sống tái hiện nhà dài và văn hóa các dân tộc bản địa Sarawak, dưới chân núi Santubong.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=110.3186,1.7469&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=1.7469,110.3186"
+    },
+    "tags": [
+      "culture",
+      "heritage",
+      "village"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-sarawak-fort-margherita",
+    "slug": "fort-margherita",
+    "region": "my-sarawak",
+    "region_name_vi": "Sarawak",
+    "country": "malaysia",
+    "name_vi": "Pháo đài Margherita",
+    "name_en": "Fort Margherita",
+    "name_local": "Kubu Margherita",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 1.56056,
+      "lon": 110.34944
+    },
+    "address_vi": "Bờ bắc sông Sarawak, Kuching",
+    "presentation_short_vi": "Pháo đài do Rajah Charles Brooke xây năm 1879 theo kiểu lâu đài Anh, nay là Bảo tàng Brooke.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=110.34944,1.56056&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=1.56056,110.34944"
+    },
+    "tags": [
+      "fort",
+      "history",
+      "brooke"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-sarawak-the-astana",
+    "slug": "the-astana",
+    "region": "my-sarawak",
+    "region_name_vi": "Sarawak",
+    "country": "malaysia",
+    "name_vi": "Dinh Astana",
+    "name_en": "The Astana",
+    "name_local": "Astana",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 1.5628,
+      "lon": 110.3447
+    },
+    "address_vi": "Bờ bắc sông Sarawak, Kuching",
+    "presentation_short_vi": "Cung điện xây năm 1870 cho Rajah Charles Brooke, nay là dinh thự chính thức của Thống đốc Sarawak.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=110.3447,1.5628&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=1.5628,110.3447"
+    },
+    "tags": [
+      "palace",
+      "brooke",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-sarawak-state-museum",
+    "slug": "state-museum",
+    "region": "my-sarawak",
+    "region_name_vi": "Sarawak",
+    "country": "malaysia",
+    "name_vi": "Bảo tàng Bang Sarawak",
+    "name_en": "Sarawak State Museum",
+    "name_local": "Muzium Negeri Sarawak",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 1.5556,
+      "lon": 110.3475
+    },
+    "address_vi": "Jalan Tun Abang Haji Openg, Kuching",
+    "presentation_short_vi": "Một trong những bảo tàng lâu đời nhất Borneo (1891), trưng bày dân tộc học và lịch sử tự nhiên Sarawak.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=110.3475,1.5556&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=1.5556,110.3475"
+    },
+    "tags": [
+      "museum",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-sarawak-waterfront",
+    "slug": "waterfront",
+    "region": "my-sarawak",
+    "region_name_vi": "Sarawak",
+    "country": "malaysia",
+    "name_vi": "Bến sông Kuching",
+    "name_en": "Kuching Waterfront",
+    "name_local": "Tebingan Kuching",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 1.5595,
+      "lon": 110.3468
+    },
+    "address_vi": "Ven sông Sarawak, trung tâm Kuching",
+    "presentation_short_vi": "Phố đi bộ ven sông dài hơn 1 km, điểm dạo chơi ngắm cảnh nổi tiếng nhất thành phố Kuching.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=110.3468,1.5595&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=1.5595,110.3468"
+    },
+    "tags": [
+      "promenade",
+      "riverside"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-sarawak-darul-hana-bridge",
+    "slug": "darul-hana-bridge",
+    "region": "my-sarawak",
+    "region_name_vi": "Sarawak",
+    "country": "malaysia",
+    "name_vi": "Cầu Darul Hana",
+    "name_en": "Darul Hana Bridge",
+    "name_local": "Jambatan Darul Hana",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 1.5608,
+      "lon": 110.3452
+    },
+    "address_vi": "Sông Sarawak, Kuching",
+    "presentation_short_vi": "Cầu đi bộ hình chữ S bắc qua sông Sarawak, biểu tượng hiện đại kết nối hai bờ Kuching.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=110.3452,1.5608&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=1.5608,110.3452"
+    },
+    "tags": [
+      "bridge",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-sarawak-niah",
+    "slug": "niah",
+    "region": "my-sarawak",
+    "region_name_vi": "Sarawak",
+    "country": "malaysia",
+    "name_vi": "Vườn quốc gia Niah (Hang Niah)",
+    "name_en": "Niah National Park",
+    "name_local": "Taman Negara Niah",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 3.8175,
+      "lon": 113.7789
+    },
+    "address_vi": "Miri, Sarawak",
+    "presentation_short_vi": "Công viên quốc gia với hang động đá vôi khổng lồ, nơi tìm thấy dấu tích người tiền sử có niên đại hàng chục nghìn năm.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=113.7789,3.8175&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=3.8175,113.7789"
+    },
+    "tags": [
+      "cave",
+      "archaeology",
+      "park"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

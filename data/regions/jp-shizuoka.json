@@ -1,0 +1,311 @@
+[
+  {
+    "id": "jp-shizuoka-mount-fuji",
+    "slug": "mount-fuji",
+    "region": "jp-shizuoka",
+    "country": "japan",
+    "region_name_vi": "Shizuoka",
+    "name_vi": "Núi Phú Sĩ",
+    "name_en": "Mount Fuji",
+    "name_local": "富士山",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.3606,
+      "lon": 138.7274
+    },
+    "address_vi": "Ranh giới tỉnh Shizuoka và Yamanashi",
+    "presentation_short_vi": "Ngọn núi cao nhất Nhật Bản (3.776 m), núi lửa hình chóp cân đối được xem là biểu tượng thiêng liêng của đất nước và là Di sản Thế giới UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.3606,138.7274",
+      "yandex": "https://yandex.com/maps/?pt=138.7274,35.3606&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "mountain",
+      "unesco"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-shizuoka-miho-no-matsubara",
+    "slug": "miho-no-matsubara",
+    "region": "jp-shizuoka",
+    "country": "japan",
+    "region_name_vi": "Shizuoka",
+    "name_vi": "Bãi thông Miho no Matsubara",
+    "name_en": "Miho no Matsubara",
+    "name_local": "三保の松原",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 34.9958,
+      "lon": 138.5233
+    },
+    "address_vi": "Miho, Quận Shimizu, TP Shizuoka",
+    "presentation_short_vi": "Bãi biển trải dài với rừng thông xanh, nơi ngắm núi Phú Sĩ vươn lên qua eo biển; gắn với truyền thuyết áo lông vũ và là một phần Di sản Thế giới Phú Sĩ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.9958,138.5233",
+      "yandex": "https://yandex.com/maps/?pt=138.5233,34.9958&z=16&l=map"
+    },
+    "tags": [
+      "beach",
+      "pine",
+      "unesco"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-shizuoka-kunozan-toshogu",
+    "slug": "kunozan-toshogu",
+    "region": "jp-shizuoka",
+    "country": "japan",
+    "region_name_vi": "Shizuoka",
+    "name_vi": "Đền Kunōzan Tōshō-gū",
+    "name_en": "Kunōzan Tōshō-gū",
+    "name_local": "久能山東照宮",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 34.9683,
+      "lon": 138.4686
+    },
+    "address_vi": "390 Negoya, Quận Suruga, TP Shizuoka",
+    "presentation_short_vi": "Đền Thần đạo lộng lẫy trên đỉnh núi Kunō, nơi an táng đầu tiên của Tướng quân Tokugawa Ieyasu, chính điện sơn son thếp vàng là Quốc bảo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.9683,138.4686",
+      "yandex": "https://yandex.com/maps/?pt=138.4686,34.9683&z=16&l=map"
+    },
+    "tags": [
+      "shrine",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-shizuoka-fujisan-hongu-sengen",
+    "slug": "fujisan-hongu-sengen",
+    "region": "jp-shizuoka",
+    "country": "japan",
+    "region_name_vi": "Shizuoka",
+    "name_vi": "Đền Fujisan Hongū Sengen Taisha",
+    "name_en": "Fujisan Hongū Sengen Taisha",
+    "name_local": "富士山本宮浅間大社",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 35.2277,
+      "lon": 138.6106
+    },
+    "address_vi": "1-1 Miyacho, TP Fujinomiya, Shizuoka",
+    "presentation_short_vi": "Tổng đền của khoảng 1.300 đền Sengen thờ nữ thần núi Phú Sĩ trên toàn Nhật Bản, có chính điện hai tầng độc đáo và mạch nước ngầm từ núi.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.2277,138.6106",
+      "yandex": "https://yandex.com/maps/?pt=138.6106,35.2277&z=16&l=map"
+    },
+    "tags": [
+      "shrine",
+      "historic",
+      "unesco"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-shizuoka-shiraito-falls",
+    "slug": "shiraito-falls",
+    "region": "jp-shizuoka",
+    "country": "japan",
+    "region_name_vi": "Shizuoka",
+    "name_vi": "Thác Shiraito",
+    "name_en": "Shiraito Falls",
+    "name_local": "白糸の滝",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.3236,
+      "lon": 138.5936
+    },
+    "address_vi": "Kamiide, TP Fujinomiya, Shizuoka",
+    "presentation_short_vi": "Thác nước rộng như bức rèm trắng buông từ vách đá, tạo bởi mạch nước ngầm núi Phú Sĩ; là danh thắng quốc gia và Di sản Thế giới.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.3236,138.5936",
+      "yandex": "https://yandex.com/maps/?pt=138.5936,35.3236&z=16&l=map"
+    },
+    "tags": [
+      "waterfall",
+      "nature",
+      "unesco"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-shizuoka-sumpu-castle-park",
+    "slug": "sumpu-castle-park",
+    "region": "jp-shizuoka",
+    "country": "japan",
+    "region_name_vi": "Shizuoka",
+    "name_vi": "Công viên thành Sumpu",
+    "name_en": "Sunpu Castle Park",
+    "name_local": "駿府城公園",
+    "categories": [
+      "fortress",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 34.9797,
+      "lon": 138.3834
+    },
+    "address_vi": "1-1 Sumpujokoen, Quận Aoi, TP Shizuoka",
+    "presentation_short_vi": "Công viên trên nền toà thành nơi Tướng quân Tokugawa Ieyasu an dưỡng cuối đời, còn lại hào nước, tường đá và các tháp cổng được phục dựng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.9797,138.3834",
+      "yandex": "https://yandex.com/maps/?pt=138.3834,34.9797&z=16&l=map"
+    },
+    "tags": [
+      "castle",
+      "historic",
+      "park"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-shizuoka-nihondaira",
+    "slug": "nihondaira",
+    "region": "jp-shizuoka",
+    "country": "japan",
+    "region_name_vi": "Shizuoka",
+    "name_vi": "Cao nguyên Nihondaira",
+    "name_en": "Nihondaira",
+    "name_local": "日本平",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 34.9739,
+      "lon": 138.4536
+    },
+    "address_vi": "Kusanagi, Quận Shimizu, TP Shizuoka",
+    "presentation_short_vi": "Cao nguyên bên bờ vịnh Suruga, điểm ngắm toàn cảnh núi Phú Sĩ, biển và đồi trà; có cáp treo nối sang đền Kunōzan Tōshō-gū.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.9739,138.4536",
+      "yandex": "https://yandex.com/maps/?pt=138.4536,34.9739&z=16&l=map"
+    },
+    "tags": [
+      "viewpoint",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-shizuoka-jogasaki-coast",
+    "slug": "jogasaki-coast",
+    "region": "jp-shizuoka",
+    "country": "japan",
+    "region_name_vi": "Shizuoka",
+    "name_vi": "Bờ biển Jōgasaki",
+    "name_en": "Jōgasaki Coast",
+    "name_local": "城ヶ崎海岸",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 34.893,
+      "lon": 139.1345
+    },
+    "address_vi": "Futo, TP Itō, Shizuoka",
+    "presentation_short_vi": "Bờ biển đá dung nham hiểm trở trên bán đảo Izu, nổi bật với cầu treo Kadowaki và ngọn hải đăng nhìn ra Thái Bình Dương.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.893,139.1345",
+      "yandex": "https://yandex.com/maps/?pt=139.1345,34.893&z=16&l=map"
+    },
+    "tags": [
+      "coast",
+      "nature",
+      "bridge"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-shizuoka-mishima-skywalk",
+    "slug": "mishima-skywalk",
+    "region": "jp-shizuoka",
+    "country": "japan",
+    "region_name_vi": "Shizuoka",
+    "name_vi": "Cầu treo Mishima Skywalk",
+    "name_en": "Mishima Skywalk",
+    "name_local": "三島スカイウォーク",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 35.129,
+      "lon": 138.926
+    },
+    "address_vi": "313 Sasahara Shinden, TP Mishima, Shizuoka",
+    "presentation_short_vi": "Cầu treo dành cho người đi bộ dài nhất Nhật Bản (400 m), bắc ngang thung lũng với tầm nhìn thẳng tới núi Phú Sĩ và vịnh Suruga.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.129,138.926",
+      "yandex": "https://yandex.com/maps/?pt=138.926,35.129&z=16&l=map"
+    },
+    "tags": [
+      "bridge",
+      "viewpoint",
+      "modern"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-shizuoka-shuzenji-onsen",
+    "slug": "shuzenji-onsen",
+    "region": "jp-shizuoka",
+    "country": "japan",
+    "region_name_vi": "Shizuoka",
+    "name_vi": "Suối nước nóng Shuzenji",
+    "name_en": "Shuzenji Onsen",
+    "name_local": "修善寺温泉",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 34.9723,
+      "lon": 138.9247
+    },
+    "address_vi": "Shuzenji, TP Izu, Shizuoka",
+    "presentation_short_vi": "Thị trấn suối nước nóng cổ kính giữa bán đảo Izu bên dòng sông Katsura, nổi tiếng với con đường tre và ngôi chùa Shuzen-ji tương truyền do đại sư Kūkai khai lập.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.9723,138.9247",
+      "yandex": "https://yandex.com/maps/?pt=138.9247,34.9723&z=16&l=map"
+    },
+    "tags": [
+      "onsen",
+      "historic",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

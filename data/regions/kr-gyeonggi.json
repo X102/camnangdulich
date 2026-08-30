@@ -1,0 +1,290 @@
+[
+  {
+    "id": "kr-gyeonggi-hwaseong-fortress",
+    "slug": "hwaseong-fortress",
+    "region": "kr-gyeonggi",
+    "region_name_vi": "Gyeonggi",
+    "country": "korea",
+    "name_vi": "Pháo đài Hwaseong (Hoa Thành), Suwon",
+    "name_en": "Suwon Hwaseong Fortress",
+    "name_local": "수원 화성",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 37.2775,
+      "lon": 127.0169
+    },
+    "address_vi": "Thành phố Suwon, tỉnh Gyeonggi",
+    "presentation_short_vi": "Tòa thành đá đồ sộ do vua Jeongjo xây cuối thế kỷ 18, được UNESCO công nhận Di sản Thế giới. Tường thành dài gần 6 km với các cổng lớn, vọng lâu và pháo đài còn nguyên vẹn.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.0169,37.2775&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=37.2775,127.0169"
+    },
+    "tags": [
+      "unesco",
+      "fortress",
+      "joseon",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-gyeonggi-hwaseong-haenggung",
+    "slug": "hwaseong-haenggung",
+    "region": "kr-gyeonggi",
+    "region_name_vi": "Gyeonggi",
+    "country": "korea",
+    "name_vi": "Hành cung Hwaseong (Haenggung)",
+    "name_en": "Hwaseong Haenggung Palace",
+    "name_local": "화성행궁",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 37.2817,
+      "lon": 127.0136
+    },
+    "address_vi": "Thành phố Suwon, tỉnh Gyeonggi",
+    "presentation_short_vi": "Cung điện hành cung lớn nhất Hàn Quốc, nơi vua Jeongjo nghỉ lại khi viếng lăng cha. Nổi tiếng với lễ đổi gác, biểu diễn cổ phục và từng là bối cảnh phim Nàng Dae Jang Geum.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.0136,37.2817&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=37.2817,127.0136"
+    },
+    "tags": [
+      "palace",
+      "joseon",
+      "history",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-gyeonggi-korean-folk-village",
+    "slug": "korean-folk-village",
+    "region": "kr-gyeonggi",
+    "region_name_vi": "Gyeonggi",
+    "country": "korea",
+    "name_vi": "Làng dân tộc Hàn Quốc (Yongin)",
+    "name_en": "Korean Folk Village",
+    "name_local": "한국민속촌",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 37.2586,
+      "lon": 127.1176
+    },
+    "address_vi": "Thành phố Yongin, tỉnh Gyeonggi",
+    "presentation_short_vi": "Bảo tàng ngoài trời tái hiện làng quê Hàn Quốc thời Joseon với nhà tranh, xưởng thủ công và biểu diễn múa nông dân, cưỡi ngựa. Bối cảnh quen thuộc của nhiều phim cổ trang.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.1176,37.2586&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=37.2586,127.1176"
+    },
+    "tags": [
+      "folk",
+      "open-air",
+      "joseon",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-gyeonggi-everland",
+    "slug": "everland",
+    "region": "kr-gyeonggi",
+    "region_name_vi": "Gyeonggi",
+    "country": "korea",
+    "name_vi": "Công viên Everland",
+    "name_en": "Everland",
+    "name_local": "에버랜드",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 37.2942,
+      "lon": 127.2022
+    },
+    "address_vi": "Thành phố Yongin, tỉnh Gyeonggi",
+    "presentation_short_vi": "Công viên giải trí lớn nhất Hàn Quốc với tàu lượn gỗ T Express trứ danh, vườn thú Safari và lễ hội hoa tulip, hoa hồng theo mùa. Điểm vui chơi hàng đầu cho gia đình.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.2022,37.2942&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=37.2942,127.2022"
+    },
+    "tags": [
+      "theme-park",
+      "family",
+      "top",
+      "rollercoaster"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-gyeonggi-namhansanseong",
+    "slug": "namhansanseong",
+    "region": "kr-gyeonggi",
+    "region_name_vi": "Gyeonggi",
+    "country": "korea",
+    "name_vi": "Pháo đài Namhansanseong (Nam Hán Sơn Thành)",
+    "name_en": "Namhansanseong Fortress",
+    "name_local": "남한산성",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 37.4789,
+      "lon": 127.1811
+    },
+    "address_vi": "Thành phố Gwangju, tỉnh Gyeonggi",
+    "presentation_short_vi": "Thành lũy trên núi được UNESCO công nhận, từng là kinh đô lâm thời của triều Joseon khi bị quân Thanh vây hãm. Tường thành uốn lượn theo sườn núi, nay là điểm leo núi và ngắm cảnh.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.1811,37.4789&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=37.4789,127.1811"
+    },
+    "tags": [
+      "unesco",
+      "fortress",
+      "mountain",
+      "joseon"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-gyeonggi-petite-france",
+    "slug": "petite-france",
+    "region": "kr-gyeonggi",
+    "region_name_vi": "Gyeonggi",
+    "country": "korea",
+    "name_vi": "Làng Pháp Petite France (Gapyeong)",
+    "name_en": "Petite France",
+    "name_local": "쁘띠프랑스",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 37.8286,
+      "lon": 127.5165
+    },
+    "address_vi": "Huyện Gapyeong, tỉnh Gyeonggi",
+    "presentation_short_vi": "Ngôi làng phong cách Pháp đầy màu sắc lấy cảm hứng từ Hoàng tử bé, với những căn nhà mái đỏ, bảo tàng búp bê và quảng trường nhỏ. Bối cảnh nổi tiếng của nhiều phim và show Hàn.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.5165,37.8286&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=37.8286,127.5165"
+    },
+    "tags": [
+      "french-village",
+      "photo",
+      "kdrama",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-gyeonggi-garden-of-morning-calm",
+    "slug": "garden-of-morning-calm",
+    "region": "kr-gyeonggi",
+    "region_name_vi": "Gyeonggi",
+    "country": "korea",
+    "name_vi": "Vườn Bình Minh Yên Tĩnh (Morning Calm)",
+    "name_en": "The Garden of Morning Calm",
+    "name_local": "아침고요수목원",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 37.7442,
+      "lon": 127.352
+    },
+    "address_vi": "Huyện Gapyeong, tỉnh Gyeonggi",
+    "presentation_short_vi": "Vườn bách thảo tư nhân lâu đời với các khu vườn chủ đề theo mùa, đẹp nhất vào mùa thu và lễ hội ánh sáng mùa đông. Điểm dạo chơi, chụp ảnh giữa thiên nhiên bốn mùa.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.352,37.7442&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=37.7442,127.352"
+    },
+    "tags": [
+      "garden",
+      "seasonal",
+      "lights",
+      "photo"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-gyeonggi-gwangmyeong-cave",
+    "slug": "gwangmyeong-cave",
+    "region": "kr-gyeonggi",
+    "region_name_vi": "Gyeonggi",
+    "country": "korea",
+    "name_vi": "Hang động Gwangmyeong",
+    "name_en": "Gwangmyeong Cave",
+    "name_local": "광명동굴",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 37.4187,
+      "lon": 126.8641
+    },
+    "address_vi": "Thành phố Gwangmyeong, tỉnh Gyeonggi",
+    "presentation_short_vi": "Mỏ vàng cũ thời thuộc địa được cải tạo thành hang động ánh sáng nghệ thuật, với hồ ngầm, hầm rượu vang và mô hình rồng khổng lồ phát sáng. Điểm tham quan mát mẻ quanh năm.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.8641,37.4187&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=37.4187,126.8641"
+    },
+    "tags": [
+      "cave",
+      "art",
+      "lights",
+      "unique"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-gyeonggi-imjingak",
+    "slug": "imjingak",
+    "region": "kr-gyeonggi",
+    "region_name_vi": "Gyeonggi",
+    "country": "korea",
+    "name_vi": "Công viên Imjingak (gần DMZ)",
+    "name_en": "Imjingak",
+    "name_local": "임진각",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 37.8894,
+      "lon": 126.7407
+    },
+    "address_vi": "Thành phố Paju, tỉnh Gyeonggi",
+    "presentation_short_vi": "Công viên hòa bình bên sông Imjin sát khu phi quân sự DMZ, có cầu Tự Do, đầu máy xe lửa thủng lỗ đạn và đài tưởng niệm chiến tranh Triều Tiên. Cửa ngõ tham quan biên giới liên Triều.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.7407,37.8894&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=37.8894,126.7407"
+    },
+    "tags": [
+      "dmz",
+      "peace",
+      "history",
+      "monument"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  }
+]

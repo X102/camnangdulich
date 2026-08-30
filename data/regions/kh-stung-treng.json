@@ -1,0 +1,193 @@
+[
+  {
+    "id": "kh-stung-treng-city",
+    "slug": "stung-treng-city",
+    "region": "kh-stung-treng",
+    "region_name_vi": "Stung Treng",
+    "country": "cambodia",
+    "name_vi": "Thành phố Stung Treng",
+    "name_en": "Stung Treng City",
+    "name_local": "ក្រុងស្ទឹងត្រែង",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 13.5259,
+      "lon": 105.9683
+    },
+    "address_vi": "Thành phố Stung Treng, tỉnh Stung Treng",
+    "presentation_short_vi": "Thị xã bên bờ sông nơi hợp lưu của sông Sekong, Sesan và Mê Kông, cửa ngõ phía bắc đi Lào với bến thuyền và chợ ven sông nhộn nhịp.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=105.9683,13.5259&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.5259,105.9683"
+    },
+    "tags": [
+      "riverfront",
+      "mekong",
+      "confluence",
+      "gateway"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kh-stung-treng-preah-ko",
+    "slug": "preah-ko",
+    "region": "kh-stung-treng",
+    "region_name_vi": "Stung Treng",
+    "country": "cambodia",
+    "name_vi": "Đền Preah Ko (Thala Barivat)",
+    "name_en": "Preah Ko Temple (Thala Barivat)",
+    "name_local": "ប្រាសាទព្រះគោ",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 13.545,
+      "lon": 105.945
+    },
+    "address_vi": "Xã Thala Barivat, huyện Thala Barivat, tỉnh Stung Treng",
+    "presentation_short_vi": "Đền gạch tiền Angkor thế kỷ 7 với tượng bò thần Nandin, ngôi đền cổ giữ được hình dáng nguyên vẹn nhất tỉnh, nằm bên kia sông Mê Kông đối diện thị xã.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=105.945,13.545&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.545,105.945"
+    },
+    "tags": [
+      "pre_angkorian",
+      "brick_temple",
+      "nandin"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kh-stung-treng-anlong-cheuteal",
+    "slug": "anlong-cheuteal",
+    "region": "kh-stung-treng",
+    "region_name_vi": "Stung Treng",
+    "country": "cambodia",
+    "name_vi": "Vũng cá heo Anlong Cheuteal (Preah Rumkel)",
+    "name_en": "Anlong Cheuteal Irrawaddy Dolphin Pool",
+    "name_local": "អន្លង់ឈើទាល",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 13.955,
+      "lon": 105.96
+    },
+    "address_vi": "Xã Preah Rumkel, huyện Thala Barivat, tỉnh Stung Treng (sát biên giới Lào)",
+    "presentation_short_vi": "Một trong những vũng nước cuối cùng còn cá heo Irrawaddy trên sông Mê Kông sát biên giới Lào, gắn với du lịch cộng đồng Preah Rumkel và cảnh thác ghềnh hùng vĩ.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=105.96,13.955&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.955,105.96"
+    },
+    "tags": [
+      "irrawaddy_dolphin",
+      "mekong",
+      "ecotourism",
+      "laos_border"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kh-stung-treng-osvay-ramsar",
+    "slug": "osvay-ramsar",
+    "region": "kh-stung-treng",
+    "region_name_vi": "Stung Treng",
+    "country": "cambodia",
+    "name_vi": "Khu đất ngập nước Ramsar O'Svay",
+    "name_en": "O'Svay Ramsar Wetland & Ecotourism",
+    "name_local": "តំបន់អូរស្វាយ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 13.83,
+      "lon": 105.94
+    },
+    "address_vi": "Xã O'Svay, huyện Borei O'Svay Sen Chey, tỉnh Stung Treng",
+    "presentation_short_vi": "Đoạn sông Mê Kông được công nhận là vùng đất ngập nước Ramsar với rừng ngập nước, bãi cát và du lịch cộng đồng homestay, ngắm chim và cá heo.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=105.94,13.83&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.83,105.94"
+    },
+    "tags": [
+      "ramsar",
+      "wetland",
+      "mekong",
+      "ecotourism"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kh-stung-treng-koh-preah",
+    "slug": "koh-preah",
+    "region": "kh-stung-treng",
+    "region_name_vi": "Stung Treng",
+    "country": "cambodia",
+    "name_vi": "Đảo Koh Preah",
+    "name_en": "Koh Preah Island",
+    "name_local": "កោះព្រះ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 13.3,
+      "lon": 105.95
+    },
+    "address_vi": "Huyện Siem Bouk, giữa sông Mê Kông, tỉnh Stung Treng",
+    "presentation_short_vi": "Cù lao lớn giữa dòng Mê Kông dài khoảng 12 km với làng chài, rừng ngập nước và cảnh sông nước thanh bình, điểm khám phá đời sống ven sông.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=105.95,13.3&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.3,105.95"
+    },
+    "tags": [
+      "mekong_island",
+      "village",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kh-stung-treng-mekong-blue",
+    "slug": "mekong-blue",
+    "region": "kh-stung-treng",
+    "region_name_vi": "Stung Treng",
+    "country": "cambodia",
+    "name_vi": "Trung tâm dệt lụa Mekong Blue",
+    "name_en": "Mekong Blue Silk Weaving Centre",
+    "name_local": "មេគង្គប្លូ",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 13.51,
+      "lon": 105.99
+    },
+    "address_vi": "Ngoại ô phía đông TP. Stung Treng, ven sông Mê Kông, tỉnh Stung Treng",
+    "presentation_short_vi": "Xưởng dệt lụa tơ tằm truyền thống của Trung tâm Phát triển Phụ nữ Stung Treng, nơi tham quan quy trình dệt và mua khăn lụa thủ công nổi tiếng.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=105.99,13.51&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.51,105.99"
+    },
+    "tags": [
+      "silk",
+      "handicraft",
+      "women",
+      "souvenir"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

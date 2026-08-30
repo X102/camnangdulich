@@ -1,0 +1,314 @@
+[
+  {
+    "id": "jp-aomori-hirosaki-castle",
+    "slug": "hirosaki-castle",
+    "region": "jp-aomori",
+    "country": "japan",
+    "region_name_vi": "Aomori",
+    "name_vi": "Thành Hirosaki",
+    "name_en": "Hirosaki Castle",
+    "name_local": "弘前城",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 40.6076,
+      "lon": 140.4644
+    },
+    "address_vi": "1 Shimoshiroganecho, thành phố Hirosaki, tỉnh Aomori",
+    "presentation_short_vi": "Tòa thành hiếm hoi còn giữ tháp canh nguyên bản thời Edo, nằm giữa công viên Hirosaki; nổi tiếng khắp Nhật Bản với lễ hội hoa anh đào có hơn 2.500 cây nở rộ quanh hào nước.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=40.6076,140.4644",
+      "yandex": "https://yandex.com/maps/?pt=140.4644,40.6076&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "castle",
+      "cherry-blossom",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-aomori-oirase-gorge",
+    "slug": "oirase-gorge",
+    "region": "jp-aomori",
+    "country": "japan",
+    "region_name_vi": "Aomori",
+    "name_vi": "Suối khe Oirase",
+    "name_en": "Oirase Gorge",
+    "name_local": "奥入瀬渓流",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 40.545,
+      "lon": 140.945
+    },
+    "address_vi": "Thành phố Towada, tỉnh Aomori",
+    "presentation_short_vi": "Dòng suối trong vắt chảy từ hồ Towada qua khe núi rợp cây, len lỏi giữa những thác nước và tảng đá phủ rêu; lối đi bộ ven suối tuyệt đẹp vào mùa lá đỏ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=40.545,140.945",
+      "yandex": "https://yandex.com/maps/?pt=140.945,40.545&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "nature",
+      "gorge",
+      "autumn"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-aomori-lake-towada",
+    "slug": "lake-towada",
+    "region": "jp-aomori",
+    "country": "japan",
+    "region_name_vi": "Aomori",
+    "name_vi": "Hồ Towada",
+    "name_en": "Lake Towada",
+    "name_local": "十和田湖",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 40.4622,
+      "lon": 140.8836
+    },
+    "address_vi": "Ranh giới tỉnh Aomori và tỉnh Akita",
+    "presentation_short_vi": "Hồ miệng núi lửa sâu nhất đảo Honshu, nước trong xanh phản chiếu núi rừng bao quanh; điểm nhấn là bức tượng đồng 'Thiếu nữ' bên bờ và cảnh lá đỏ mùa thu.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=40.4622,140.8836",
+      "yandex": "https://yandex.com/maps/?pt=140.8836,40.4622&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "lake",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-aomori-hakkoda",
+    "slug": "hakkoda",
+    "region": "jp-aomori",
+    "country": "japan",
+    "region_name_vi": "Aomori",
+    "name_vi": "Dãy núi Hakkōda",
+    "name_en": "Hakkōda Mountains",
+    "name_local": "八甲田山",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 40.6592,
+      "lon": 140.8775
+    },
+    "address_vi": "Thành phố Aomori, tỉnh Aomori",
+    "presentation_short_vi": "Quần thể núi lửa nổi tiếng với cáp treo ngắm cảnh, suối nước nóng Sukayu và những 'quái vật tuyết' (cây phủ băng) vào mùa đông; mùa thu lá đỏ nhuộm rực sườn núi.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=40.6592,140.8775",
+      "yandex": "https://yandex.com/maps/?pt=140.8775,40.6592&z=16&l=map"
+    },
+    "tags": [
+      "mountain",
+      "nature",
+      "hiking"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-aomori-sannai-maruyama",
+    "slug": "sannai-maruyama",
+    "region": "jp-aomori",
+    "country": "japan",
+    "region_name_vi": "Aomori",
+    "name_vi": "Di chỉ Sannai-Maruyama",
+    "name_en": "Sannai-Maruyama Site",
+    "name_local": "三内丸山遺跡",
+    "categories": [
+      "monument",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 40.8103,
+      "lon": 140.6958
+    },
+    "address_vi": "305 Sannai, thành phố Aomori, tỉnh Aomori",
+    "presentation_short_vi": "Di chỉ khảo cổ thời Jōmon lớn nhất Nhật Bản với các nhà sàn và tháp gỗ phục dựng, được UNESCO công nhận là Di sản Thế giới; hé lộ đời sống định cư cách đây khoảng 5.900–4.200 năm.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=40.8103,140.6958",
+      "yandex": "https://yandex.com/maps/?pt=140.6958,40.8103&z=16&l=map"
+    },
+    "tags": [
+      "unesco",
+      "historic",
+      "archaeology"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-aomori-aomori-museum-art",
+    "slug": "aomori-museum-art",
+    "region": "jp-aomori",
+    "country": "japan",
+    "region_name_vi": "Aomori",
+    "name_vi": "Bảo tàng Mỹ thuật Aomori",
+    "name_en": "Aomori Museum of Art",
+    "name_local": "青森県立美術館",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 40.8127,
+      "lon": 140.6942
+    },
+    "address_vi": "185 Chikano, Yasuta, thành phố Aomori, tỉnh Aomori",
+    "presentation_short_vi": "Bảo tàng mỹ thuật hiện đại với kiến trúc trắng độc đáo, trưng bày tác phẩm của các nghệ sĩ quê Aomori như Nara Yoshitomo; biểu tượng là bức tượng 'Aomori-Ken' (chú chó khổng lồ) ngoài trời.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=40.8127,140.6942",
+      "yandex": "https://yandex.com/maps/?pt=140.6942,40.8127&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "art"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-aomori-nebuta-warasse",
+    "slug": "nebuta-warasse",
+    "region": "jp-aomori",
+    "country": "japan",
+    "region_name_vi": "Aomori",
+    "name_vi": "Bảo tàng Nebuta WA RASSE",
+    "name_en": "Nebuta Museum WA RASSE",
+    "name_local": "ねぶたの家 ワ・ラッセ",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 40.829,
+      "lon": 140.734
+    },
+    "address_vi": "1-1-1 Yasukata, thành phố Aomori, tỉnh Aomori",
+    "presentation_short_vi": "Bảo tàng bên cảng Aomori tái hiện lễ hội Nebuta Matsuri trứ danh, trưng bày những chiếc đèn lồng khổng lồ rực rỡ từng diễu hành thực tế; du khách tìm hiểu lịch sử và cách chế tác đèn.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=40.829,140.734",
+      "yandex": "https://yandex.com/maps/?pt=140.734,40.829&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "festival",
+      "culture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-aomori-osorezan",
+    "slug": "osorezan",
+    "region": "jp-aomori",
+    "country": "japan",
+    "region_name_vi": "Aomori",
+    "name_vi": "Núi thiêng Osorezan (chùa Bodai-ji)",
+    "name_en": "Mount Osore (Osorezan Bodaiji)",
+    "name_local": "恐山菩提寺",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 41.3271,
+      "lon": 141.0903
+    },
+    "address_vi": "Tanabu Usoriyama, thành phố Mutsu, tỉnh Aomori",
+    "presentation_short_vi": "Một trong ba ngọn núi linh thiêng nhất Nhật Bản, cảnh quan hoang liêu với suối lưu huỳnh bốc khói và hồ nước xanh ngọc được ví như cửa ngõ sang thế giới bên kia; nơi tọa lạc ngôi chùa Bodai-ji cổ kính.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=41.3271,141.0903",
+      "yandex": "https://yandex.com/maps/?pt=141.0903,41.3271&z=16&l=map"
+    },
+    "tags": [
+      "temple",
+      "sacred",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-aomori-tsuru-no-mai-bridge",
+    "slug": "tsuru-no-mai-bridge",
+    "region": "jp-aomori",
+    "country": "japan",
+    "region_name_vi": "Aomori",
+    "name_vi": "Cầu Tsuru-no-Mai",
+    "name_en": "Tsuru-no-Mai Bridge",
+    "name_local": "鶴の舞橋",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 40.8069,
+      "lon": 140.4419
+    },
+    "address_vi": "Tsuruta, huyện Kitatsugaru, tỉnh Aomori",
+    "presentation_short_vi": "Cây cầu gỗ ba nhịp vòng cung dài 300 m bắc qua hồ Tsugaru Fujimi, được xem là cầu gỗ ba nhịp dài nhất Nhật Bản; in bóng xuống mặt hồ với núi Iwaki làm nền.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=40.8069,140.4419",
+      "yandex": "https://yandex.com/maps/?pt=140.4419,40.8069&z=16&l=map"
+    },
+    "tags": [
+      "bridge",
+      "scenic",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-aomori-cape-tappi",
+    "slug": "cape-tappi",
+    "region": "jp-aomori",
+    "country": "japan",
+    "region_name_vi": "Aomori",
+    "name_vi": "Mũi Tappi (Tappizaki)",
+    "name_en": "Cape Tappi",
+    "name_local": "龍飛崎",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 41.2558,
+      "lon": 140.3428
+    },
+    "address_vi": "Sotogahama, huyện Higashitsugaru, tỉnh Aomori",
+    "presentation_short_vi": "Mũi đất cực bắc bán đảo Tsugaru lộng gió biển, nhìn ra eo biển Tsugaru và có thể thấy đảo Hokkaido phía xa; nổi tiếng với ngọn hải đăng trắng và 'con đường quốc lộ bậc thang' độc đáo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=41.2558,140.3428",
+      "yandex": "https://yandex.com/maps/?pt=140.3428,41.2558&z=16&l=map"
+    },
+    "tags": [
+      "cape",
+      "viewpoint",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

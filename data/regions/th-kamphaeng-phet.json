@@ -1,0 +1,195 @@
+[
+  {
+    "id": "th-kamphaeng-phet-kamphaeng-phet-historical-park",
+    "slug": "kamphaeng-phet-historical-park",
+    "region": "th-kamphaeng-phet",
+    "country": "thailand",
+    "region_name_vi": "Kamphaeng Phet",
+    "name_vi": "Công viên Lịch sử Kamphaeng Phet (Chùa Phra Kaeo)",
+    "name_en": "Kamphaeng Phet Historical Park (Wat Phra Kaeo)",
+    "name_local": "อุทยานประวัติศาสตร์กำแพงเพชร (วัดพระแก้ว)",
+    "categories": [
+      "monument",
+      "church"
+    ],
+    "coordinates": {
+      "lat": 16.4867,
+      "lon": 99.5212
+    },
+    "address_vi": "Huyện Mueang Kamphaeng Phet, tỉnh Kamphaeng Phet",
+    "rating": null,
+    "presentation_short_vi": "Quần thể di tích đền tháp cổ thế kỷ 14–16 với trung tâm là Wat Phra Kaeo, thuộc Di sản Thế giới UNESCO 'Sukhothai và các đô thị lịch sử liên quan'.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=99.5212,16.4867&z=17&pt=99.5212,16.4867",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.4867,99.5212"
+    },
+    "tags": [
+      "historical_park",
+      "unesco",
+      "ruins",
+      "temple",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-kamphaeng-phet-wat-chang-rop",
+    "slug": "wat-chang-rop",
+    "region": "th-kamphaeng-phet",
+    "country": "thailand",
+    "region_name_vi": "Kamphaeng Phet",
+    "name_vi": "Chùa Chang Rop",
+    "name_en": "Wat Chang Rop",
+    "name_local": "วัดช้างรอบ",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 16.5013,
+      "lon": 99.5154
+    },
+    "address_vi": "Khu Aranyik, huyện Mueang Kamphaeng Phet, tỉnh Kamphaeng Phet",
+    "rating": null,
+    "presentation_short_vi": "Ngôi chùa cổ trong khu rừng thiêng Aranyik với bảo tháp đặt trên bệ trang trí hàng chục tượng voi đỡ tháp.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=99.5154,16.5013&z=17&pt=99.5154,16.5013",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.5013,99.5154"
+    },
+    "tags": [
+      "temple",
+      "ruins",
+      "elephant_chedi",
+      "aranyik"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-kamphaeng-phet-national-museum",
+    "slug": "national-museum",
+    "region": "th-kamphaeng-phet",
+    "country": "thailand",
+    "region_name_vi": "Kamphaeng Phet",
+    "name_vi": "Bảo tàng Quốc gia Kamphaeng Phet",
+    "name_en": "Kamphaeng Phet National Museum",
+    "name_local": "พิพิธภัณฑสถานแห่งชาติ กำแพงเพชร",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 16.4881,
+      "lon": 99.5226
+    },
+    "address_vi": "Huyện Mueang Kamphaeng Phet, tỉnh Kamphaeng Phet",
+    "rating": null,
+    "presentation_short_vi": "Bảo tàng trưng bày cổ vật và tượng Phật khai quật từ khu di tích Kamphaeng Phet, nổi bật là tượng thần Shiva bằng đồng.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=99.5226,16.4881&z=17&pt=99.5226,16.4881",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.4881,99.5226"
+    },
+    "tags": [
+      "museum",
+      "artifacts",
+      "buddha_image"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-kamphaeng-phet-wat-phra-borommathat",
+    "slug": "wat-phra-borommathat",
+    "region": "th-kamphaeng-phet",
+    "country": "thailand",
+    "region_name_vi": "Kamphaeng Phet",
+    "name_vi": "Chùa Phra Borommathat (Nakhon Chum)",
+    "name_en": "Wat Phra Borommathat (Nakhon Chum)",
+    "name_local": "วัดพระบรมธาตุ นครชุม",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 16.4788,
+      "lon": 99.5101
+    },
+    "address_vi": "Xã Nakhon Chum, huyện Mueang Kamphaeng Phet, tỉnh Kamphaeng Phet",
+    "rating": null,
+    "presentation_short_vi": "Ngôi chùa bên bờ sông Ping ở làng cổ Nakhon Chum, nổi bật với bảo tháp mạ vàng kiểu Miến Điện.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=99.5101,16.4788&z=17&pt=99.5101,16.4788",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.4788,99.5101"
+    },
+    "tags": [
+      "temple",
+      "chedi",
+      "ping_river",
+      "nakhon_chum"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-kamphaeng-phet-khlong-lan-national-park",
+    "slug": "khlong-lan-national-park",
+    "region": "th-kamphaeng-phet",
+    "country": "thailand",
+    "region_name_vi": "Kamphaeng Phet",
+    "name_vi": "Vườn quốc gia Khlong Lan",
+    "name_en": "Khlong Lan National Park",
+    "name_local": "อุทยานแห่งชาติคลองลาน",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 16.1298,
+      "lon": 99.2751
+    },
+    "address_vi": "Huyện Khlong Lan, tỉnh Kamphaeng Phet",
+    "rating": null,
+    "presentation_short_vi": "Vườn quốc gia với thác Khlong Lan cao khoảng 100 m đổ xuống hồ nước rộng, một trong những thác đẹp nhất miền bắc Thái Lan.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=99.2751,16.1298&z=17&pt=99.2751,16.1298",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.1298,99.2751"
+    },
+    "tags": [
+      "national_park",
+      "waterfall",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-kamphaeng-phet-mae-wong-national-park",
+    "slug": "mae-wong-national-park",
+    "region": "th-kamphaeng-phet",
+    "country": "thailand",
+    "region_name_vi": "Kamphaeng Phet",
+    "name_vi": "Vườn quốc gia Mae Wong",
+    "name_en": "Mae Wong National Park",
+    "name_local": "อุทยานแห่งชาติแม่วงก์",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 16.0395,
+      "lon": 99.2332
+    },
+    "address_vi": "Huyện Khlong Lan, tỉnh Kamphaeng Phet (giáp Nakhon Sawan)",
+    "rating": null,
+    "presentation_short_vi": "Vườn quốc gia rừng núi rộng lớn nổi tiếng với điểm ngắm biển mây và hoàng hôn ở đỉnh Chong Yen.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=99.2332,16.0395&z=17&pt=99.2332,16.0395",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.0395,99.2332"
+    },
+    "tags": [
+      "national_park",
+      "nature",
+      "viewpoint",
+      "sea_of_mist"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

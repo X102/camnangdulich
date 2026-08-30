@@ -1,0 +1,143 @@
+[
+  {
+    "id": "la-xayaboury-elephant-conservation-center",
+    "slug": "elephant-conservation-center",
+    "region": "la-xayaboury",
+    "region_name_vi": "Xayaboury",
+    "country": "laos",
+    "name_vi": "Trung tâm Bảo tồn Voi Sayaboury",
+    "name_en": "Elephant Conservation Center",
+    "name_local": "ສູນອະນຸລັກຊ້າງ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 19.232588,
+      "lon": 101.653135
+    },
+    "address_vi": "Bản Nonesavanh, hồ Nam Tien, huyện Xayaboury, tỉnh Xayaboury, Lào",
+    "presentation_short_vi": "Trung tâm bảo tồn và nhân giống voi lớn nhất Lào, nằm trên hồ Nam Tien, cho khách lưu trú và tìm hiểu đời sống của voi giữa rừng.",
+    "rating": null,
+    "tags": [
+      "voi",
+      "bao-ton",
+      "ho-nuoc",
+      "sinh-thai",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "la-xayaboury-vat-sibounheuang",
+    "slug": "vat-sibounheuang",
+    "region": "la-xayaboury",
+    "region_name_vi": "Xayaboury",
+    "country": "laos",
+    "name_vi": "Chùa Sibounheuang",
+    "name_en": "Vat Sibounheuang",
+    "name_local": "ວັດສີບຸນເຮືອງ",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 19.2653,
+      "lon": 101.7059
+    },
+    "address_vi": "Trung tâm thị xã Xayaboury, tỉnh Xayaboury, Lào",
+    "presentation_short_vi": "Ngôi chùa cổ dựng năm 1456 trên đồi bên sông Nam Houng, nổi tiếng với tượng Phật nằm mạ vàng dài khoảng 7 m — lớn nhất tỉnh.",
+    "rating": null,
+    "tags": [
+      "chua",
+      "phat-giao",
+      "co-kinh",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "la-xayaboury-vat-sisavangvong",
+    "slug": "vat-sisavangvong",
+    "region": "la-xayaboury",
+    "region_name_vi": "Xayaboury",
+    "country": "laos",
+    "name_vi": "Chùa Sisavangvong",
+    "name_en": "Vat Sisavangvong",
+    "name_local": "ວັດສີສະຫວ່າງວົງ",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 19.265,
+      "lon": 101.7064
+    },
+    "address_vi": "Trung tâm thị xã Xayaboury (cạnh dinh Tỉnh trưởng), tỉnh Xayaboury, Lào",
+    "presentation_short_vi": "Một trong những ngôi chùa cấp cao bậc nhất của Lào, nổi bật với lan can hình rắn thần Naga và các tượng hổ trang trí.",
+    "rating": null,
+    "tags": [
+      "chua",
+      "phat-giao",
+      "naga"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "la-xayaboury-hongsa",
+    "slug": "hongsa",
+    "region": "la-xayaboury",
+    "region_name_vi": "Xayaboury",
+    "country": "laos",
+    "name_vi": "Thị trấn Hongsa",
+    "name_en": "Hongsa",
+    "name_local": "ເມືອງຫົງສາ",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 19.70681,
+      "lon": 101.34082
+    },
+    "address_vi": "Huyện Hongsa, tỉnh Xayaboury, Lào",
+    "presentation_short_vi": "Thị trấn miền núi yên bình nổi tiếng với trải nghiệm cưỡi voi và đời sống của các nài voi, cách thị xã Xayaboury khoảng 80 km.",
+    "rating": null,
+    "tags": [
+      "voi",
+      "thi-tran",
+      "van-hoa",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "la-xayaboury-pak-lay",
+    "slug": "pak-lay",
+    "region": "la-xayaboury",
+    "region_name_vi": "Xayaboury",
+    "country": "laos",
+    "name_vi": "Thị trấn Pak Lay",
+    "name_en": "Pak Lay",
+    "name_local": "ເມືອງປາກລາຍ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 18.2225,
+      "lon": 101.4098
+    },
+    "address_vi": "Huyện Paklai, tỉnh Xayaboury, Lào",
+    "presentation_short_vi": "Thị trấn cổ ven sông Mekong, điểm dừng của tàu du lịch, gần cụm hang động và suối nước nóng Paklai.",
+    "rating": null,
+    "tags": [
+      "mekong",
+      "hang-dong",
+      "suoi-nuoc-nong",
+      "thi-tran"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

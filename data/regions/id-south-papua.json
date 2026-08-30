@@ -1,0 +1,184 @@
+[
+  {
+    "id": "id-south-papua-taman-nasional-wasur",
+    "slug": "taman-nasional-wasur",
+    "region": "id-south-papua",
+    "country": "indonesia",
+    "region_name_vi": "Nam Papua",
+    "name_vi": "Vườn quốc gia Wasur",
+    "name_en": "Wasur National Park",
+    "name_local": "Taman Nasional Wasur",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": -8.55,
+      "lon": 140.75
+    },
+    "address_vi": "Huyện Merauke, tỉnh Nam Papua, Indonesia",
+    "presentation_short_vi": "Vườn quốc gia đất ngập nước rộng lớn được mệnh danh 'Serengeti của Papua' nhờ đa dạng sinh học phong phú: đồng cỏ savan, chuột túi cây, đà điểu đầu mèo, chim thiên đường. Nổi tiếng với các ụ mối khổng lồ musamus.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=140.75,-8.55&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-8.55,140.75"
+    },
+    "tags": [
+      "top",
+      "national_park",
+      "wildlife",
+      "savanna"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-south-papua-kota-merauke",
+    "slug": "kota-merauke",
+    "region": "id-south-papua",
+    "country": "indonesia",
+    "region_name_vi": "Nam Papua",
+    "name_vi": "Thành phố Merauke",
+    "name_en": "Merauke (Easternmost City)",
+    "name_local": "Kota Merauke",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": -8.4991,
+      "lon": 140.405
+    },
+    "address_vi": "Thủ phủ tỉnh Nam Papua, Indonesia",
+    "presentation_short_vi": "Thành phố cực đông của Indonesia, gắn với khẩu hiệu 'từ Sabang đến Merauke' biểu tượng cho sự thống nhất trải dài của đất nước. Cửa ngõ đến Vườn quốc gia Wasur và vùng biên giới Papua New Guinea.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=140.405,-8.4991&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-8.4991,140.405"
+    },
+    "tags": [
+      "city",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-south-papua-monumen-kapsul-waktu",
+    "slug": "monumen-kapsul-waktu",
+    "region": "id-south-papua",
+    "country": "indonesia",
+    "region_name_vi": "Nam Papua",
+    "name_vi": "Đài tưởng niệm Viên nang Thời gian",
+    "name_en": "Time Capsule Monument",
+    "name_local": "Monumen Kapsul Waktu",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": -8.496,
+      "lon": 140.401
+    },
+    "address_vi": "Kelapa Lima, thành phố Merauke, tỉnh Nam Papua, Indonesia",
+    "presentation_short_vi": "Công trình kiến trúc hiện đại khánh thành năm 2018, lưu giữ 'viên nang thời gian' chứa ước mơ của trẻ em Indonesia, dự kiến mở lại vào năm 2085. Biểu tượng cho hy vọng và sự phát triển ở điểm cực đông đất nước.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=140.401,-8.496&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-8.496,140.401"
+    },
+    "tags": [
+      "monument",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-south-papua-sota",
+    "slug": "sota",
+    "region": "id-south-papua",
+    "country": "indonesia",
+    "region_name_vi": "Nam Papua",
+    "name_vi": "Cửa khẩu Sota & Cột mốc 0 KM",
+    "name_en": "Sota Border Post & Zero Kilometer Monument",
+    "name_local": "PLBN Sota",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": -8.38,
+      "lon": 140.83
+    },
+    "address_vi": "Quận Sota, huyện Merauke, tỉnh Nam Papua, Indonesia",
+    "presentation_short_vi": "Cửa khẩu biên giới trên bộ giáp Papua New Guinea, cách Merauke khoảng 80 km. Nơi đặt cột mốc 'Sabang–Merauke 0 KM' đánh dấu điểm cực đông và là khu vực có nhiều ụ mối musamus.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=140.83,-8.38&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-8.38,140.83"
+    },
+    "tags": [
+      "border",
+      "monument"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-south-papua-pantai-lampu-satu",
+    "slug": "pantai-lampu-satu",
+    "region": "id-south-papua",
+    "country": "indonesia",
+    "region_name_vi": "Nam Papua",
+    "name_vi": "Bãi biển Lampu Satu",
+    "name_en": "Lampu Satu Beach",
+    "name_local": "Pantai Lampu Satu",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": -8.517,
+      "lon": 140.38
+    },
+    "address_vi": "Cách trung tâm Merauke khoảng 4 km, tỉnh Nam Papua, Indonesia",
+    "presentation_short_vi": "Bãi biển cát nâu vàng với ngọn hải đăng đặc trưng, điểm ngắm hoàng hôn nổi tiếng ở cực đông Indonesia. Gần trung tâm thành phố Merauke, là nơi thư giãn được người dân địa phương yêu thích.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=140.38,-8.517&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-8.517,140.38"
+    },
+    "tags": [
+      "beach",
+      "sunset"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-south-papua-danau-rawa-biru",
+    "slug": "danau-rawa-biru",
+    "region": "id-south-papua",
+    "country": "indonesia",
+    "region_name_vi": "Nam Papua",
+    "name_vi": "Hồ Rawa Biru",
+    "name_en": "Rawa Biru Lake",
+    "name_local": "Danau Rawa Biru",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": -8.65,
+      "lon": 140.87
+    },
+    "address_vi": "Trong Vườn quốc gia Wasur, huyện Merauke, tỉnh Nam Papua, Indonesia",
+    "presentation_short_vi": "Hồ nước ngọt trong xanh nằm trong Vườn quốc gia Wasur, là nguồn nước và điểm du lịch sinh thái quan trọng. Xung quanh là làng người Marind với văn hóa bản địa đặc sắc.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=140.87,-8.65&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-8.65,140.87"
+    },
+    "tags": [
+      "lake",
+      "ecotourism"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "th-yasothon-phra-that-kong-khao-noi",
+    "slug": "phra-that-kong-khao-noi",
+    "region": "th-yasothon",
+    "country": "thailand",
+    "region_name_vi": "Yasothon",
+    "name_vi": "Bảo tháp Kong Khao Noi (Giỏ cơm nhỏ)",
+    "name_en": "Phra That Kong Khao Noi",
+    "name_local": "พระธาตุก่องข้าวน้อย",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 15.76028,
+      "lon": 104.20389
+    },
+    "address_vi": "Xã Tat Thong, Huyện Mueang Yasothon, tỉnh Yasothon",
+    "rating": null,
+    "presentation_short_vi": "Ngôi tháp gạch cổ hình giỏ cơm gắn với truyền thuyết dân gian bi thương, biểu tượng nổi tiếng nhất của Yasothon.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=104.20389,15.76028&z=17&pt=104.20389,15.76028",
+      "google": "https://www.google.com/maps/search/?api=1&query=15.76028,104.20389"
+    },
+    "tags": [
+      "stupa",
+      "legend",
+      "ancient",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-yasothon-wat-maha-that",
+    "slug": "wat-maha-that",
+    "region": "th-yasothon",
+    "country": "thailand",
+    "region_name_vi": "Yasothon",
+    "name_vi": "Chùa Maha That (Phra That Anon)",
+    "name_en": "Wat Maha That (Phra That Anon)",
+    "name_local": "วัดมหาธาตุ",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 15.79278,
+      "lon": 104.14472
+    },
+    "address_vi": "Huyện Mueang Yasothon, tỉnh Yasothon",
+    "rating": null,
+    "presentation_short_vi": "Ngôi chùa cổ nhất tỉnh với bảo tháp Phra That Anon thờ xá lợi tôn giả A-Nan và Hỏ Trai (thư viện kinh dựng trên mặt nước).",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=104.14472,15.79278&z=17&pt=104.14472,15.79278",
+      "google": "https://www.google.com/maps/search/?api=1&query=15.79278,104.14472"
+    },
+    "tags": [
+      "temple",
+      "stupa",
+      "ho-trai",
+      "heritage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-yasothon-phaya-thaen-park",
+    "slug": "phaya-thaen-public-park",
+    "region": "th-yasothon",
+    "country": "thailand",
+    "region_name_vi": "Yasothon",
+    "name_vi": "Công viên Phaya Thaen",
+    "name_en": "Phaya Thaen Public Park",
+    "name_local": "สวนสาธารณะพญาแถน",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 15.79861,
+      "lon": 104.16472
+    },
+    "address_vi": "Huyện Mueang Yasothon, tỉnh Yasothon",
+    "rating": null,
+    "presentation_short_vi": "Công viên ven hồ Lam Thuan gắn với lễ hội bắn pháo thăng thiên Bun Bang Fai, có đài phun nước và khu vui chơi.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=104.16472,15.79861&z=17&pt=104.16472,15.79861",
+      "google": "https://www.google.com/maps/search/?api=1&query=15.79861,104.16472"
+    },
+    "tags": [
+      "park",
+      "lake",
+      "bun-bang-fai",
+      "recreation"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-yasothon-ban-sing-tha",
+    "slug": "ban-sing-tha",
+    "region": "th-yasothon",
+    "country": "thailand",
+    "region_name_vi": "Yasothon",
+    "name_vi": "Phố cổ Ban Sing Tha",
+    "name_en": "Ban Sing Tha Old Town",
+    "name_local": "บ้านสิงห์ท่า",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 15.79194,
+      "lon": 104.14306
+    },
+    "address_vi": "Huyện Mueang Yasothon, tỉnh Yasothon",
+    "rating": null,
+    "presentation_short_vi": "Khu phố cổ với dãy nhà kiến trúc Hoa – Âu (Sino-Portuguese) hơn trăm năm tuổi, nay là điểm dạo bộ và chụp ảnh.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=104.14306,15.79194&z=17&pt=104.14306,15.79194",
+      "google": "https://www.google.com/maps/search/?api=1&query=15.79194,104.14306"
+    },
+    "tags": [
+      "old-town",
+      "architecture",
+      "heritage",
+      "walk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-yasothon-viman-phaya-thaen",
+    "slug": "viman-phaya-thaen",
+    "region": "th-yasothon",
+    "country": "thailand",
+    "region_name_vi": "Yasothon",
+    "name_vi": "Viman Phaya Thaen (Cung Rắn thần)",
+    "name_en": "Viman Phaya Thaen",
+    "name_local": "วิมานพญาแถน",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 15.80083,
+      "lon": 104.16694
+    },
+    "address_vi": "Huyện Mueang Yasothon, tỉnh Yasothon",
+    "rating": null,
+    "presentation_short_vi": "Công trình hình Rắn thần Naga khổng lồ bên hồ Lam Thuan, điểm nhấn kiến trúc mới và nơi giới thiệu văn hoá pháo thăng thiên.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=104.16694,15.80083&z=17&pt=104.16694,15.80083",
+      "google": "https://www.google.com/maps/search/?api=1&query=15.80083,104.16694"
+    },
+    "tags": [
+      "naga",
+      "landmark",
+      "photo",
+      "culture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

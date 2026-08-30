@@ -1,0 +1,219 @@
+[
+  {
+    "id": "th-nonthaburi-ko-kret",
+    "slug": "ko-kret",
+    "region": "th-nonthaburi",
+    "country": "thailand",
+    "region_name_vi": "Nonthaburi",
+    "name_vi": "Đảo Ko Kret",
+    "name_en": "Ko Kret",
+    "name_local": "เกาะเกร็ด",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 13.9092,
+      "lon": 100.4791
+    },
+    "address_vi": "Huyện Pak Kret, tỉnh Nonthaburi",
+    "rating": null,
+    "presentation_short_vi": "Cù lao giữa sông Chao Phraya nổi tiếng với cộng đồng người Mon, nghề gốm truyền thống và khu chợ cuối tuần ẩm thực.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.4791,13.9092&z=17&pt=100.4791,13.9092",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.9092,100.4791"
+    },
+    "tags": [
+      "island",
+      "mon-culture",
+      "market"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-nonthaburi-wat-paramaiyikawat",
+    "slug": "wat-paramaiyikawat",
+    "region": "th-nonthaburi",
+    "country": "thailand",
+    "region_name_vi": "Nonthaburi",
+    "name_vi": "Chùa Paramaiyikawat",
+    "name_en": "Wat Paramaiyikawat (Wat Poramai Yikawat)",
+    "name_local": "วัดปรมัยยิกาวาสวรวิหาร",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 13.91271,
+      "lon": 100.48999
+    },
+    "address_vi": "Đảo Ko Kret, huyện Pak Kret, tỉnh Nonthaburi",
+    "rating": null,
+    "presentation_short_vi": "Chùa Mon cổ trên đảo Ko Kret với bảo tháp trắng nghiêng đặc trưng, biểu tượng của cù lao bên sông Chao Phraya.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.48999,13.91271&z=17&pt=100.48999,13.91271",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.91271,100.48999"
+    },
+    "tags": [
+      "temple",
+      "mon-culture",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-nonthaburi-wat-chaloem-phra-kiat",
+    "slug": "wat-chaloem-phra-kiat",
+    "region": "th-nonthaburi",
+    "country": "thailand",
+    "region_name_vi": "Nonthaburi",
+    "name_vi": "Chùa Chaloem Phra Kiat",
+    "name_en": "Wat Chaloem Phra Kiat Worawihan",
+    "name_local": "วัดเฉลิมพระเกียรติวรวิหาร",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 13.84797,
+      "lon": 100.48432
+    },
+    "address_vi": "Huyện Mueang Nonthaburi, tỉnh Nonthaburi",
+    "rating": null,
+    "presentation_short_vi": "Ngôi chùa hoàng gia bên sông do vua Rama III xây dựng, nổi bật với chính điện men sứ và tường thành cổ.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.48432,13.84797&z=17&pt=100.48432,13.84797",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.84797,100.48432"
+    },
+    "tags": [
+      "temple",
+      "riverside",
+      "royal"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-nonthaburi-wat-chomphuwek",
+    "slug": "wat-chomphuwek",
+    "region": "th-nonthaburi",
+    "country": "thailand",
+    "region_name_vi": "Nonthaburi",
+    "name_vi": "Chùa Chomphuwek",
+    "name_en": "Wat Chomphuwek",
+    "name_local": "วัดชมภูเวก",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 13.88718,
+      "lon": 100.49616
+    },
+    "address_vi": "Huyện Mueang Nonthaburi, tỉnh Nonthaburi",
+    "rating": null,
+    "presentation_short_vi": "Chùa Mon cổ thời Ayutthaya nổi tiếng với bích họa 'Mae Phra Thoranee' được xem là đẹp bậc nhất Thái Lan.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.49616,13.88718&z=17&pt=100.49616,13.88718",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.88718,100.49616"
+    },
+    "tags": [
+      "temple",
+      "mural",
+      "ayutthaya"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-nonthaburi-wat-sangkhathan",
+    "slug": "wat-sangkhathan",
+    "region": "th-nonthaburi",
+    "country": "thailand",
+    "region_name_vi": "Nonthaburi",
+    "name_vi": "Chùa Sangkhathan",
+    "name_en": "Wat Sangkhathan",
+    "name_local": "วัดสังฆทาน",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 13.82546,
+      "lon": 100.49163
+    },
+    "address_vi": "Huyện Mueang Nonthaburi, tỉnh Nonthaburi",
+    "rating": null,
+    "presentation_short_vi": "Trung tâm thiền nổi tiếng với tượng Phật Luang Pho To lớn, thu hút đông đảo Phật tử đến tu tập.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.49163,13.82546&z=17&pt=100.49163,13.82546",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.82546,100.49163"
+    },
+    "tags": [
+      "temple",
+      "meditation",
+      "buddha"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-nonthaburi-wat-bua-khwan",
+    "slug": "wat-bua-khwan",
+    "region": "th-nonthaburi",
+    "country": "thailand",
+    "region_name_vi": "Nonthaburi",
+    "name_vi": "Chùa Bua Khwan",
+    "name_en": "Wat Bua Khwan",
+    "name_local": "วัดบัวขวัญ",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 13.86971,
+      "lon": 100.53506
+    },
+    "address_vi": "Huyện Mueang Nonthaburi, tỉnh Nonthaburi",
+    "rating": null,
+    "presentation_short_vi": "Ngôi chùa lớn và trang nghiêm ở trung tâm Nonthaburi, là nơi hành hương quen thuộc của người dân địa phương.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.53506,13.86971&z=17&pt=100.53506,13.86971",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.86971,100.53506"
+    },
+    "tags": [
+      "temple",
+      "local",
+      "pilgrimage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-nonthaburi-wat-prasat",
+    "slug": "wat-prasat",
+    "region": "th-nonthaburi",
+    "country": "thailand",
+    "region_name_vi": "Nonthaburi",
+    "name_vi": "Chùa Prasat",
+    "name_en": "Wat Prasat",
+    "name_local": "วัดปราสาท",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 13.83901,
+      "lon": 100.45148
+    },
+    "address_vi": "Huyện Mueang Nonthaburi, tỉnh Nonthaburi",
+    "rating": null,
+    "presentation_short_vi": "Ngôi chùa cổ thời Ayutthaya với chính điện và tượng Phật cổ, lưu giữ nét kiến trúc và bích họa lâu đời.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.45148,13.83901&z=17&pt=100.45148,13.83901",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.83901,100.45148"
+    },
+    "tags": [
+      "temple",
+      "ayutthaya",
+      "heritage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

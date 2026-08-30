@@ -1,0 +1,312 @@
+[
+  {
+    "id": "kr-south-chungcheong-gongsanseong",
+    "slug": "gongsanseong",
+    "region": "kr-south-chungcheong",
+    "region_name_vi": "Chungcheong Nam",
+    "country": "korea",
+    "name_vi": "Thành Gongsanseong",
+    "name_en": "Gongsanseong",
+    "name_local": "공산성",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 36.4665,
+      "lon": 127.125
+    },
+    "address_vi": "Thành phố Gongju, Chungcheong Nam",
+    "presentation_short_vi": "Thành lũy của vương quốc Baekje bên sông Geum, được UNESCO công nhận trong quần thể Di sản Baekje, với tường thành uốn quanh đồi và cổng lầu phục dựng.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.125,36.4665&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=36.4665,127.125"
+    },
+    "tags": [
+      "fortress",
+      "unesco",
+      "baekje",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-south-chungcheong-muryeong-royal-tomb",
+    "slug": "muryeong-royal-tomb",
+    "region": "kr-south-chungcheong",
+    "region_name_vi": "Chungcheong Nam",
+    "country": "korea",
+    "name_vi": "Lăng mộ vua Muryeong",
+    "name_en": "Royal Tomb of King Muryeong (Songsan-ri Tombs)",
+    "name_local": "무령왕릉과 왕릉원",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 36.4593,
+      "lon": 127.1136
+    },
+    "address_vi": "Thành phố Gongju, Chungcheong Nam",
+    "presentation_short_vi": "Cụm lăng mộ hoàng gia Baekje, nổi tiếng với mộ vua Muryeong xây bằng gạch còn nguyên vẹn cùng nhiều bảo vật khai quật, thuộc Di sản thế giới UNESCO.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.1136,36.4593&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=36.4593,127.1136"
+    },
+    "tags": [
+      "tomb",
+      "unesco",
+      "baekje",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-south-chungcheong-busosanseong",
+    "slug": "busosanseong",
+    "region": "kr-south-chungcheong",
+    "region_name_vi": "Chungcheong Nam",
+    "country": "korea",
+    "name_vi": "Thành Busosanseong",
+    "name_en": "Busosanseong",
+    "name_local": "부소산성",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 36.2818,
+      "lon": 126.9108
+    },
+    "address_vi": "Thị trấn Buyeo, huyện Buyeo, Chungcheong Nam",
+    "presentation_short_vi": "Tòa thành cuối cùng của Baekje trên đồi Busosan bên sông Baengma, gắn với vách đá Nakhwaam nơi các cung nữ tuẫn tiết khi kinh đô Sabi thất thủ.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.9108,36.2818&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=36.2818,126.9108"
+    },
+    "tags": [
+      "fortress",
+      "baekje",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-south-chungcheong-gungnamji",
+    "slug": "gungnamji",
+    "region": "kr-south-chungcheong",
+    "region_name_vi": "Chungcheong Nam",
+    "country": "korea",
+    "name_vi": "Ao Gungnamji",
+    "name_en": "Gungnamji Pond",
+    "name_local": "궁남지",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.2696,
+      "lon": 126.9095
+    },
+    "address_vi": "Thị trấn Buyeo, huyện Buyeo, Chungcheong Nam",
+    "presentation_short_vi": "Ao vườn hoàng gia Baekje được coi là vườn nhân tạo cổ nhất Hàn Quốc, có đình nghỉ giữa hồ và cánh đồng sen nở rộ vào mùa hè.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.9095,36.2696&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=36.2696,126.9095"
+    },
+    "tags": [
+      "garden",
+      "pond",
+      "baekje"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-south-chungcheong-baekje-cultural-land",
+    "slug": "baekje-cultural-land",
+    "region": "kr-south-chungcheong",
+    "region_name_vi": "Chungcheong Nam",
+    "country": "korea",
+    "name_vi": "Khu văn hóa Baekje",
+    "name_en": "Baekje Cultural Land",
+    "name_local": "백제문화단지",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 36.3163,
+      "lon": 126.906
+    },
+    "address_vi": "Gyuam-myeon, huyện Buyeo, Chungcheong Nam",
+    "presentation_short_vi": "Khu tái hiện quy mô lớn cung điện, đền tháp và làng cổ của vương quốc Baekje, tái dựng cung Sabi và chùa Neungsa để du khách tìm hiểu lịch sử.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.906,36.3163&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=36.3163,126.906"
+    },
+    "tags": [
+      "history",
+      "baekje",
+      "theme_park"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-south-chungcheong-independence-hall-of-korea",
+    "slug": "independence-hall-of-korea",
+    "region": "kr-south-chungcheong",
+    "region_name_vi": "Chungcheong Nam",
+    "country": "korea",
+    "name_vi": "Nhà Độc lập Hàn Quốc",
+    "name_en": "Independence Hall of Korea",
+    "name_local": "독립기념관",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 36.7817,
+      "lon": 127.2367
+    },
+    "address_vi": "Mokcheon-eup, Dongnam-gu, Cheonan, Chungcheong Nam",
+    "presentation_short_vi": "Bảo tàng lịch sử lớn về phong trào giành độc lập của Hàn Quốc, gồm nhiều gian trưng bày và quảng trường tưởng niệm rộng lớn với đài Tượng đài Dân tộc.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.2367,36.7817&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=36.7817,127.2367"
+    },
+    "tags": [
+      "museum",
+      "history",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-south-chungcheong-hyeonchungsa",
+    "slug": "hyeonchungsa",
+    "region": "kr-south-chungcheong",
+    "region_name_vi": "Chungcheong Nam",
+    "country": "korea",
+    "name_vi": "Đền Hyeonchungsa",
+    "name_en": "Hyeonchungsa Shrine",
+    "name_local": "현충사",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 36.792,
+      "lon": 126.9931
+    },
+    "address_vi": "Yeomchi-eup, Asan, Chungcheong Nam",
+    "presentation_short_vi": "Đền thờ danh tướng Yi Sun-sin, đặt trong khuôn viên rộng có nhà cũ của ông, cây cổ thụ và bảo tàng trưng bày di vật thời chiến tranh Nhâm Thìn.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.9931,36.792&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=36.792,126.9931"
+    },
+    "tags": [
+      "shrine",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-south-chungcheong-haemieupseong",
+    "slug": "haemieupseong",
+    "region": "kr-south-chungcheong",
+    "region_name_vi": "Chungcheong Nam",
+    "country": "korea",
+    "name_vi": "Thành Haemieupseong",
+    "name_en": "Haemieupseong Fortress",
+    "name_local": "해미읍성",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 36.7013,
+      "lon": 126.4877
+    },
+    "address_vi": "Haemi-eup, Seosan, Chungcheong Nam",
+    "presentation_short_vi": "Tòa thành hành chính thời Joseon còn tường và cổng gần như nguyên vẹn, từng là nơi hành hình nhiều tín đồ Công giáo và là điểm hành hương.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.4877,36.7013&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=36.7013,126.4877"
+    },
+    "tags": [
+      "fortress",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-south-chungcheong-daecheon-beach",
+    "slug": "daecheon-beach",
+    "region": "kr-south-chungcheong",
+    "region_name_vi": "Chungcheong Nam",
+    "country": "korea",
+    "name_vi": "Bãi biển Daecheon",
+    "name_en": "Daecheon Beach",
+    "name_local": "대천해수욕장",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.3138,
+      "lon": 126.5108
+    },
+    "address_vi": "Thành phố Boryeong, Chungcheong Nam",
+    "presentation_short_vi": "Bãi biển cát dài nổi tiếng bờ tây, nơi tổ chức Lễ hội Bùn Boryeong thu hút đông du khách vào mỗi mùa hè.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.5108,36.3138&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=36.3138,126.5108"
+    },
+    "tags": [
+      "beach",
+      "summer",
+      "festival"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-south-chungcheong-oeam-folk-village",
+    "slug": "oeam-folk-village",
+    "region": "kr-south-chungcheong",
+    "region_name_vi": "Chungcheong Nam",
+    "country": "korea",
+    "name_vi": "Làng cổ Oeam",
+    "name_en": "Oeam Folk Village",
+    "name_local": "외암민속마을",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 36.7548,
+      "lon": 126.933
+    },
+    "address_vi": "Songak-myeon, Asan, Chungcheong Nam",
+    "presentation_short_vi": "Ngôi làng truyền thống còn giữ nhiều nhà mái tranh và nhà quý tộc mái ngói cùng tường đá, dòng suối và cây cối như cách đây vài trăm năm.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.933,36.7548&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=36.7548,126.933"
+    },
+    "tags": [
+      "village",
+      "folk",
+      "traditional"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

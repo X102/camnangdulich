@@ -1,0 +1,279 @@
+[
+  {
+    "id": "kr-sejong-sejong-lake-park",
+    "slug": "sejong-lake-park",
+    "region": "kr-sejong",
+    "region_name_vi": "Sejong",
+    "country": "korea",
+    "name_vi": "Công viên hồ Sejong",
+    "name_en": "Sejong Lake Park",
+    "name_local": "세종호수공원",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.5008,
+      "lon": 127.2612
+    },
+    "address_vi": "Sejong-si",
+    "presentation_short_vi": "Công viên hồ nhân tạo lớn ở trung tâm thành phố hành chính Sejong, với đảo nổi, đường dạo ven hồ và sân khấu biểu diễn ngoài trời.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.2612,36.5008&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=36.5008,127.2612"
+    },
+    "tags": [
+      "lake",
+      "park",
+      "city_center"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-sejong-sejong-national-arboretum",
+    "slug": "sejong-national-arboretum",
+    "region": "kr-sejong",
+    "region_name_vi": "Sejong",
+    "country": "korea",
+    "name_vi": "Vườn thực vật Quốc gia Sejong",
+    "name_en": "Sejong National Arboretum",
+    "name_local": "국립세종수목원",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.4958,
+      "lon": 127.2555
+    },
+    "address_vi": "Sejong-si",
+    "presentation_short_vi": "Vườn thực vật quốc gia đầu tiên đặt trong đô thị, nổi bật với nhà kính hình bán nguyệt trưng bày cây vùng Địa Trung Hải và nhiệt đới.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.2555,36.4958&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=36.4958,127.2555"
+    },
+    "tags": [
+      "arboretum",
+      "botanical",
+      "greenhouse"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-sejong-government-complex-rooftop-garden",
+    "slug": "government-complex-rooftop-garden",
+    "region": "kr-sejong",
+    "region_name_vi": "Sejong",
+    "country": "korea",
+    "name_vi": "Vườn trên mái Tổ hợp Chính phủ Sejong",
+    "name_en": "Sejong Government Complex Rooftop Garden",
+    "name_local": "정부세종청사 옥상정원",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.5045,
+      "lon": 127.2585
+    },
+    "address_vi": "Sejong-si",
+    "presentation_short_vi": "Khu vườn trên mái nối liền các toà nhà chính phủ, từng được ghi nhận là vườn trên mái dài nhất thế giới; tham quan theo lịch đăng ký trước.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.2585,36.5045&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=36.5045,127.2585"
+    },
+    "tags": [
+      "rooftop_garden",
+      "government",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-sejong-national-library-sejong",
+    "slug": "national-library-sejong",
+    "region": "kr-sejong",
+    "region_name_vi": "Sejong",
+    "country": "korea",
+    "name_vi": "Thư viện Quốc gia Sejong",
+    "name_en": "National Library of Korea, Sejong",
+    "name_local": "국립세종도서관",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 36.503,
+      "lon": 127.26
+    },
+    "address_vi": "Sejong-si",
+    "presentation_short_vi": "Thư viện quốc gia chuyên về chính sách với kiến trúc mái cong độc đáo mô phỏng trang sách đang lật, nằm bên bờ hồ Sejong.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.26,36.503&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=36.503,127.26"
+    },
+    "tags": [
+      "library",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-sejong-milmaru-observatory",
+    "slug": "milmaru-observatory",
+    "region": "kr-sejong",
+    "region_name_vi": "Sejong",
+    "country": "korea",
+    "name_vi": "Đài quan sát Milmaru",
+    "name_en": "Milmaru Observatory",
+    "name_local": "밀마루전망대",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 36.5079,
+      "lon": 127.2601
+    },
+    "address_vi": "Sejong-si",
+    "presentation_short_vi": "Tháp quan sát cao 42 m ở trung tâm Sejong, nơi ngắm toàn cảnh quá trình quy hoạch và phát triển của thành phố hành chính mới.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.2601,36.5079&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=36.5079,127.2601"
+    },
+    "tags": [
+      "observatory",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-sejong-beartree-park",
+    "slug": "beartree-park",
+    "region": "kr-sejong",
+    "region_name_vi": "Sejong",
+    "country": "korea",
+    "name_vi": "Công viên Beartree",
+    "name_en": "Beartree Park",
+    "name_local": "베어트리파크",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.5745,
+      "lon": 127.3253
+    },
+    "address_vi": "Jeondong-myeon, Sejong",
+    "presentation_short_vi": "Công viên vườn tư nhân rộng lớn với vườn cây cảnh, hồ cá koi, vườn hoa theo mùa và khu nuôi gấu, hươu; điểm dã ngoại gia đình nổi tiếng.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.3253,36.5745&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=36.5745,127.3253"
+    },
+    "tags": [
+      "garden",
+      "wildlife",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-sejong-biamsa-temple",
+    "slug": "biamsa-temple",
+    "region": "kr-sejong",
+    "region_name_vi": "Sejong",
+    "country": "korea",
+    "name_vi": "Chùa Biamsa",
+    "name_en": "Biamsa Temple",
+    "name_local": "비암사",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 36.68,
+      "lon": 127.194
+    },
+    "address_vi": "Jeonui-myeon, Sejong",
+    "presentation_short_vi": "Ngôi chùa cổ tương truyền có từ cuối thời Baekje, ẩn mình dưới chân núi ở Jeonui, lưu giữ những bia đá Phật giáo quý thời Tam Quốc.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.194,36.68&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=36.68,127.194"
+    },
+    "tags": [
+      "temple",
+      "buddhist",
+      "baekje"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-sejong-yeongpyeongsa-temple",
+    "slug": "yeongpyeongsa-temple",
+    "region": "kr-sejong",
+    "region_name_vi": "Sejong",
+    "country": "korea",
+    "name_vi": "Chùa Yeongpyeongsa",
+    "name_en": "Yeongpyeongsa Temple",
+    "name_local": "영평사",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 36.5335,
+      "lon": 127.2205
+    },
+    "address_vi": "Janggun-myeon, Sejong",
+    "presentation_short_vi": "Ngôi chùa dưới chân núi Janggunsan, nổi tiếng với lễ hội hoa loa kèn trắng (cửu tầng thảo) nở rộ vào mùa thu.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.2205,36.5335&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=36.5335,127.2205"
+    },
+    "tags": [
+      "temple",
+      "buddhist",
+      "flowers"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-sejong-unjusanseong-fortress",
+    "slug": "unjusanseong-fortress",
+    "region": "kr-sejong",
+    "region_name_vi": "Sejong",
+    "country": "korea",
+    "name_vi": "Thành núi Unjusanseong",
+    "name_en": "Unjusanseong Fortress",
+    "name_local": "운주산성",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 36.647,
+      "lon": 127.232
+    },
+    "address_vi": "Jeonui-myeon, Sejong",
+    "presentation_short_vi": "Thành luỹ đá trên đỉnh núi Unjusan có từ thời Baekje, tường thành chạy vòng quanh đỉnh và là điểm leo núi ngắm cảnh.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.232,36.647&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=36.647,127.232"
+    },
+    "tags": [
+      "fortress",
+      "baekje",
+      "hiking"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

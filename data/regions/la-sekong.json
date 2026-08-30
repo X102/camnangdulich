@@ -1,0 +1,164 @@
+[
+  {
+    "id": "la-sekong-xe-kong-river",
+    "slug": "xe-kong-river",
+    "region": "la-sekong",
+    "region_name_vi": "Sekong",
+    "country": "laos",
+    "name_vi": "Sông Xe Kong (Sekong)",
+    "name_en": "Xe Kong River (Sekong River)",
+    "name_local": "ແມ່ນ້ຳເຊກອງ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 15.29,
+      "lon": 106.735
+    },
+    "address_vi": "Chảy xuyên qua tỉnh Sekong, Nam Lào",
+    "presentation_short_vi": "Dòng sông lớn chảy xuyên tỉnh Sekong rồi xuôi về Campuchia; nổi tiếng với những chuyến thuyền đuôi dài và thi thoảng có cá heo nước ngọt ngược dòng lên tận thị trấn.",
+    "rating": null,
+    "tags": [
+      "song",
+      "du-thuyen",
+      "thien-nhien"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "la-sekong-tad-faek",
+    "slug": "tad-faek",
+    "region": "la-sekong",
+    "region_name_vi": "Sekong",
+    "country": "laos",
+    "name_vi": "Thác Tad Faek",
+    "name_en": "Tad Faek Waterfall",
+    "name_local": "ຕາດແຝກ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 15.2451,
+      "lon": 106.7513
+    },
+    "address_vi": "Cách thị trấn Sekong ~14 km về phía nam, gần Đường 11, tỉnh Sekong, Lào",
+    "presentation_short_vi": "Thác nước với hai hồ bơi tự nhiên bên Đường 11, điểm dừng chân được người dân địa phương ưa thích vào dịp cuối tuần và lễ tết.",
+    "rating": null,
+    "tags": [
+      "thac",
+      "tam-mat",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "la-sekong-tad-hua-khon",
+    "slug": "tad-hua-khon",
+    "region": "la-sekong",
+    "region_name_vi": "Sekong",
+    "country": "laos",
+    "name_vi": "Thác Tad Hua Khon (Tad Se Noi)",
+    "name_en": "Tad Hua Khon Waterfall (Tad Se Noi)",
+    "name_local": "ຕາດຫົວຂອນ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 15.2324,
+      "lon": 106.7447
+    },
+    "address_vi": "Cách thị trấn Sekong ~17 km về phía nam, thung lũng sông Xe Kong, tỉnh Sekong, Lào",
+    "presentation_short_vi": "Ghềnh thác rộng khoảng 100 m nơi dòng Xe Namnoy đổ xuống, có nhiều hồ tắm, đường ván gỗ xuyên rừng và khu cắm trại.",
+    "rating": null,
+    "tags": [
+      "thac",
+      "tam-mat",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "la-sekong-dakchung-plateau",
+    "slug": "dakchung-plateau",
+    "region": "la-sekong",
+    "region_name_vi": "Sekong",
+    "country": "laos",
+    "name_vi": "Cao nguyên Dakchung (Dak Cheung)",
+    "name_en": "Dakchung Plateau",
+    "name_local": "ດັກຈຶງ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 15.4667,
+      "lon": 107.2667
+    },
+    "address_vi": "Huyện Dak Cheung, phía đông tỉnh Sekong, giáp Việt Nam, Lào",
+    "presentation_short_vi": "Vùng cao nguyên mát lạnh ở độ cao ~1.200 m sát biên giới Việt Nam, nổi tiếng với rừng thông, đồng cỏ và là vùng chim quan trọng (IBA).",
+    "rating": null,
+    "tags": [
+      "cao-nguyen",
+      "thien-nhien",
+      "mat-me"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "la-sekong-xe-sap-npa",
+    "slug": "xe-sap-npa",
+    "region": "la-sekong",
+    "region_name_vi": "Sekong",
+    "country": "laos",
+    "name_vi": "Khu bảo tồn thiên nhiên Xe Sap",
+    "name_en": "Xe Sap National Protected Area",
+    "name_local": "ເຂດປ່າສະຫງວນເຊສາບ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 16.05,
+      "lon": 107.0
+    },
+    "address_vi": "Bắc tỉnh Sekong, trải sang Salavan, dọc dãy Trường Sơn, Lào",
+    "presentation_short_vi": "Khu bảo tồn rộng lớn giữa dãy Annamite (Trường Sơn) với rừng nguyên sinh và nhiều động vật hoang dã quý như gấu, hổ, bò tót.",
+    "rating": null,
+    "tags": [
+      "khu-bao-ton",
+      "thien-nhien",
+      "rung"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "la-sekong-lamam-town",
+    "slug": "lamam-town",
+    "region": "la-sekong",
+    "region_name_vi": "Sekong",
+    "country": "laos",
+    "name_vi": "Thị trấn Sekong (Muang Lamam)",
+    "name_en": "Sekong Town (Muang Lamam)",
+    "name_local": "ເມືອງລະມາມ",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 15.3486,
+      "lon": 106.7264
+    },
+    "address_vi": "Huyện Lamam, tỉnh lỵ Sekong, Lào",
+    "presentation_short_vi": "Thị trấn tỉnh lỵ nhỏ nằm bên sông Xe Kong, là cửa ngõ khám phá cao nguyên Bolaven và các bản làng dân tộc Katu, Talieng.",
+    "rating": null,
+    "tags": [
+      "thi-tran",
+      "tinh-ly",
+      "cua-ngo"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

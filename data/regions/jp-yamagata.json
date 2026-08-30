@@ -1,0 +1,316 @@
+[
+  {
+    "id": "jp-yamagata-yamadera",
+    "slug": "yamadera",
+    "region": "jp-yamagata",
+    "country": "japan",
+    "region_name_vi": "Yamagata",
+    "name_vi": "Chùa Yamadera (Risshaku-ji)",
+    "name_en": "Yamadera (Risshaku-ji)",
+    "name_local": "山寺 立石寺",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 38.3126,
+      "lon": 140.4374
+    },
+    "address_vi": "4456-1 Yamadera, TP Yamagata, Yamagata",
+    "presentation_short_vi": "Ngôi chùa cổ cheo leo trên vách núi với hơn 1.000 bậc đá dẫn lên chính điện nhìn xuống thung lũng, nơi thi hào Bashō từng dừng chân.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.3126,140.4374",
+      "yandex": "https://yandex.com/maps/?pt=140.4374,38.3126&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "temple",
+      "viewpoint",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-yamagata-ginzan-onsen",
+    "slug": "ginzan-onsen",
+    "region": "jp-yamagata",
+    "country": "japan",
+    "region_name_vi": "Yamagata",
+    "name_vi": "Suối nước nóng Ginzan",
+    "name_en": "Ginzan Onsen",
+    "name_local": "銀山温泉",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 38.581,
+      "lon": 140.533
+    },
+    "address_vi": "Ginzan, Obanazawa, Yamagata",
+    "presentation_short_vi": "Thị trấn suối nước nóng cổ kính với dãy nhà trọ gỗ ba, bốn tầng soi bóng hai bên dòng sông, lung linh ánh đèn khí đốt về đêm.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.581,140.533",
+      "yandex": "https://yandex.com/maps/?pt=140.533,38.581&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "onsen",
+      "retro",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-yamagata-zao-onsen",
+    "slug": "zao-onsen",
+    "region": "jp-yamagata",
+    "country": "japan",
+    "region_name_vi": "Yamagata",
+    "name_vi": "Suối nóng Zaō (băng tuyết)",
+    "name_en": "Zaō Onsen",
+    "name_local": "蔵王温泉",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 38.1618,
+      "lon": 140.3958
+    },
+    "address_vi": "Zao Onsen, TP Yamagata, Yamagata",
+    "presentation_short_vi": "Khu suối nóng và trượt tuyết trên núi Zaō, nổi tiếng khắp thế giới với những “quái vật tuyết” – rừng cây phủ băng tuyết kỳ ảo mùa đông.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.1618,140.3958",
+      "yandex": "https://yandex.com/maps/?pt=140.3958,38.1618&z=16&l=map"
+    },
+    "tags": [
+      "onsen",
+      "ski",
+      "snow",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-yamagata-haguro-pagoda",
+    "slug": "haguro-pagoda",
+    "region": "jp-yamagata",
+    "country": "japan",
+    "region_name_vi": "Yamagata",
+    "name_vi": "Tháp gỗ 5 tầng núi Haguro",
+    "name_en": "Mount Haguro Five-story Pagoda",
+    "name_local": "羽黒山五重塔",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 38.7043,
+      "lon": 139.9772
+    },
+    "address_vi": "Haguromachi Toge, TP Tsuruoka, Yamagata",
+    "presentation_short_vi": "Tháp gỗ năm tầng hơn 600 tuổi đứng giữa rừng tuyết tùng cổ thụ trên núi Haguro, Quốc bảo Nhật Bản và một phần Tam Sơn Dewa linh thiêng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.7043,139.9772",
+      "yandex": "https://yandex.com/maps/?pt=139.9772,38.7043&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "shrine",
+      "historic",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-yamagata-kajo-park",
+    "slug": "kajo-park",
+    "region": "jp-yamagata",
+    "country": "japan",
+    "region_name_vi": "Yamagata",
+    "name_vi": "Công viên Kajō (thành Yamagata)",
+    "name_en": "Yamagata Castle (Kajō Park)",
+    "name_local": "山形城 霞城公園",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 38.2562,
+      "lon": 140.3258
+    },
+    "address_vi": "1-7 Kajocho, TP Yamagata, Yamagata",
+    "presentation_short_vi": "Công viên trên nền thành Yamagata của dòng họ Mogami, còn hào nước và cổng thành phục dựng, một trong những điểm ngắm anh đào đẹp nhất vùng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.2562,140.3258",
+      "yandex": "https://yandex.com/maps/?pt=140.3258,38.2562&z=16&l=map"
+    },
+    "tags": [
+      "castle",
+      "historic",
+      "park"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-yamagata-mogami-river",
+    "slug": "mogami-river",
+    "region": "jp-yamagata",
+    "country": "japan",
+    "region_name_vi": "Yamagata",
+    "name_vi": "Du thuyền sông Mogami",
+    "name_en": "Mogami River Boat Ride",
+    "name_local": "最上峡",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 38.6478,
+      "lon": 140.1466
+    },
+    "address_vi": "Furukuchi, Tozawa, Quận Mogami, Yamagata",
+    "presentation_short_vi": "Chuyến du thuyền xuôi hẻm sông Mogami, người lái đò vừa chèo vừa cất tiếng hò dân ca giữa hai bờ núi rừng và thác nước.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.6478,140.1466",
+      "yandex": "https://yandex.com/maps/?pt=140.1466,38.6478&z=16&l=map"
+    },
+    "tags": [
+      "boat",
+      "nature",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-yamagata-yudonosan",
+    "slug": "yudonosan",
+    "region": "jp-yamagata",
+    "country": "japan",
+    "region_name_vi": "Yamagata",
+    "name_vi": "Đền Yudonosan",
+    "name_en": "Yudonosan Shrine",
+    "name_local": "湯殿山神社",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 38.5372,
+      "lon": 139.986
+    },
+    "address_vi": "Tamugimata, TP Tsuruoka, Yamagata",
+    "presentation_short_vi": "Đền thiêng nhất trong Tam Sơn Dewa, thờ một tảng đá suối nóng màu cam mà khách hành hương phải cởi giày đi chân trần chiêm bái.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.5372,139.986",
+      "yandex": "https://yandex.com/maps/?pt=139.986,38.5372&z=16&l=map"
+    },
+    "tags": [
+      "shrine",
+      "sacred",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-yamagata-gassan",
+    "slug": "gassan",
+    "region": "jp-yamagata",
+    "country": "japan",
+    "region_name_vi": "Yamagata",
+    "name_vi": "Núi Gassan",
+    "name_en": "Mount Gassan",
+    "name_local": "月山",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 38.5494,
+      "lon": 140.0269
+    },
+    "address_vi": "Ranh giới TP Tsuruoka và Nishikawa, Yamagata",
+    "presentation_short_vi": "Ngọn núi cao nhất Tam Sơn Dewa (1.984 m), với đồng cỏ cao sơn và cánh đồng tuyết còn đến mùa hè, điểm hành hương và đi bộ đường dài nổi tiếng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.5494,140.0269",
+      "yandex": "https://yandex.com/maps/?pt=140.0269,38.5494&z=16&l=map"
+    },
+    "tags": [
+      "mountain",
+      "hiking",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-yamagata-kaminoyama-castle",
+    "slug": "kaminoyama-castle",
+    "region": "jp-yamagata",
+    "country": "japan",
+    "region_name_vi": "Yamagata",
+    "name_vi": "Lâu đài Kaminoyama",
+    "name_en": "Kaminoyama Castle",
+    "name_local": "上山城",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 38.1497,
+      "lon": 140.268
+    },
+    "address_vi": "3-7 Motoshiro, Kaminoyama, Yamagata",
+    "presentation_short_vi": "Toà lâu đài phục dựng bên thị trấn suối nóng Kaminoyama, bên trong là bảo tàng địa phương và đài quan sát nhìn ra dãy núi Zaō.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.1497,140.268",
+      "yandex": "https://yandex.com/maps/?pt=140.268,38.1497&z=16&l=map"
+    },
+    "tags": [
+      "castle",
+      "museum",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-yamagata-zenpoji",
+    "slug": "zenpoji",
+    "region": "jp-yamagata",
+    "country": "japan",
+    "region_name_vi": "Yamagata",
+    "name_vi": "Chùa Zenpō-ji",
+    "name_en": "Zenpō-ji",
+    "name_local": "善宝寺",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 38.7531,
+      "lon": 139.8022
+    },
+    "address_vi": "Shimokawa, TP Tsuruoka, Yamagata",
+    "presentation_short_vi": "Ngôi chùa Thiền tông ven biển thờ Long Vương, nổi bật với tháp gỗ năm tầng và tương truyền là nơi cầu an cho ngư dân đi biển.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.7531,139.8022",
+      "yandex": "https://yandex.com/maps/?pt=139.8022,38.7531&z=16&l=map"
+    },
+    "tags": [
+      "temple",
+      "historic",
+      "pagoda"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

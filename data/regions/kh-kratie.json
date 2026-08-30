@@ -1,0 +1,157 @@
+[
+  {
+    "id": "kh-kratie-kampi-dolphin-pool",
+    "slug": "kampi-dolphin-pool",
+    "region": "kh-kratie",
+    "region_name_vi": "Kratie",
+    "country": "cambodia",
+    "name_vi": "Vũng cá heo Kampi",
+    "name_en": "Kampi Irrawaddy Dolphin Pool",
+    "name_local": "កាំពី",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 12.6063,
+      "lon": 106.0223
+    },
+    "address_vi": "Xã Sambok, huyện Chetr Borei, cách thị trấn Kratie ~15 km, tỉnh Kratie",
+    "presentation_short_vi": "Vũng nước trên sông Mekong nơi ngắm loài cá heo Irrawaddy nước ngọt cực kỳ quý hiếm, biểu tượng du lịch của Kratie.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=106.0223,12.6063&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=12.6063,106.0223"
+    },
+    "tags": [
+      "nature",
+      "dolphins",
+      "mekong",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kh-kratie-koh-trong",
+    "slug": "koh-trong",
+    "region": "kh-kratie",
+    "region_name_vi": "Kratie",
+    "country": "cambodia",
+    "name_vi": "Đảo Koh Trong",
+    "name_en": "Koh Trong Island",
+    "name_local": "កោះទ្រង",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 12.4967,
+      "lon": 105.9986
+    },
+    "address_vi": "Giữa sông Mekong, đối diện thị trấn Kratie, tỉnh Kratie",
+    "presentation_short_vi": "Cù lao xanh mát giữa sông Mekong đối diện Kratie, lý tưởng để đạp xe quanh đảo và trải nghiệm homestay làng quê.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=105.9986,12.4967&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=12.4967,105.9986"
+    },
+    "tags": [
+      "island",
+      "mekong",
+      "cycling"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kh-kratie-phnom-sambok",
+    "slug": "phnom-sambok",
+    "region": "kh-kratie",
+    "region_name_vi": "Kratie",
+    "country": "cambodia",
+    "name_vi": "Chùa núi Phnom Sambok",
+    "name_en": "Phnom Sambok",
+    "name_local": "ភ្នំសំបុក",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 12.56248,
+      "lon": 106.02058
+    },
+    "address_vi": "Xã Thma Krae, huyện Chetr Borei, tỉnh Kratie",
+    "presentation_short_vi": "Chùa nằm trên đồi với nhiều bậc thang, từ đỉnh nhìn bao quát dòng Mekong và vùng quê xung quanh.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=106.02058,12.56248&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=12.56248,106.02058"
+    },
+    "tags": [
+      "temple",
+      "hill",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kh-kratie-wat-roka-kandal",
+    "slug": "wat-roka-kandal",
+    "region": "kh-kratie",
+    "region_name_vi": "Kratie",
+    "country": "cambodia",
+    "name_vi": "Chùa Roka Kandal",
+    "name_en": "Wat Roka Kandal",
+    "name_local": "វត្តរកាកណ្តាល",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 12.46719,
+      "lon": 106.02661
+    },
+    "address_vi": "Xã Roka Kandal, thị trấn Kratie, tỉnh Kratie",
+    "presentation_short_vi": "Ngôi chùa gỗ cổ kính bậc nhất Kratie, được trùng tu để bảo tồn kiến trúc truyền thống Khmer.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=106.02661,12.46719&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=12.46719,106.02661"
+    },
+    "tags": [
+      "temple",
+      "heritage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kh-kratie-kratie-riverfront",
+    "slug": "kratie-riverfront",
+    "region": "kh-kratie",
+    "region_name_vi": "Kratie",
+    "country": "cambodia",
+    "name_vi": "Bờ sông Kratie",
+    "name_en": "Kratie Riverfront",
+    "name_local": "មាត់ទន្លេក្រចេះ",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 12.48,
+      "lon": 106.03
+    },
+    "address_vi": "Thị trấn Kratie, tỉnh Kratie",
+    "presentation_short_vi": "Bờ sông Mekong với dãy nhà kiến trúc Pháp và chợ trung tâm, điểm ngắm hoàng hôn nổi tiếng của thị trấn.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=106.03,12.48&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=12.48,106.03"
+    },
+    "tags": [
+      "riverside",
+      "colonial",
+      "sunset"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  }
+]

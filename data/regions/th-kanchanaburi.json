@@ -1,0 +1,312 @@
+[
+  {
+    "id": "th-kanchanaburi-bridge-over-river-kwai",
+    "slug": "bridge-over-river-kwai",
+    "region": "th-kanchanaburi",
+    "country": "thailand",
+    "region_name_vi": "Kanchanaburi",
+    "name_vi": "Cầu sông Kwai",
+    "name_en": "Bridge over the River Kwai",
+    "name_local": "สะพานข้ามแม่น้ำแคว",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 14.041,
+      "lon": 99.5048
+    },
+    "address_vi": "Thị trấn Kanchanaburi, tỉnh Kanchanaburi",
+    "rating": null,
+    "presentation_short_vi": "Cây cầu sắt lịch sử thuộc tuyến \"Đường sắt Tử thần\" do tù binh xây dưới thời Nhật chiếm đóng trong Thế chiến II. Là biểu tượng của Kanchanaburi, du khách có thể đi bộ qua cầu và ngắm sông Khwae Yai.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=99.5048,14.041&z=17&pt=99.5048,14.041",
+      "google": "https://www.google.com/maps/search/?api=1&query=14.041,99.5048"
+    },
+    "tags": [
+      "bridge",
+      "ww2",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "th-kanchanaburi-erawan-national-park",
+    "slug": "erawan-national-park",
+    "region": "th-kanchanaburi",
+    "country": "thailand",
+    "region_name_vi": "Kanchanaburi",
+    "name_vi": "Vườn quốc gia Erawan (Thác Erawan)",
+    "name_en": "Erawan National Park",
+    "name_local": "อุทยานแห่งชาติเอราวัณ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 14.3706,
+      "lon": 99.1436
+    },
+    "address_vi": "Huyện Si Sawat, tỉnh Kanchanaburi",
+    "rating": null,
+    "presentation_short_vi": "Thác nước bảy tầng nổi tiếng với làn nước xanh ngọc và hồ tắm tự nhiên giữa rừng. Tầng trên cùng có hình dáng như voi ba đầu Erawan, là điểm leo thác và bơi lội hàng đầu.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=99.1436,14.3706&z=17&pt=99.1436,14.3706",
+      "google": "https://www.google.com/maps/search/?api=1&query=14.3706,99.1436"
+    },
+    "tags": [
+      "waterfall",
+      "national_park",
+      "swimming"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "th-kanchanaburi-hellfire-pass",
+    "slug": "hellfire-pass",
+    "region": "th-kanchanaburi",
+    "country": "thailand",
+    "region_name_vi": "Kanchanaburi",
+    "name_vi": "Đèo Hellfire (Chỗng đèo Chặt)",
+    "name_en": "Hellfire Pass",
+    "name_local": "ช่องเขาขาด",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 14.3553,
+      "lon": 98.9525
+    },
+    "address_vi": "Huyện Sai Yok, tỉnh Kanchanaburi",
+    "rating": null,
+    "presentation_short_vi": "Đoạn đường sắt cắt xuyên núi đá do tù binh đào bằng tay, nơi rất nhiều người thiệt mạng vì lao dịch khổ sai. Nay là đài tưởng niệm và lối mòn đi bộ cùng bảo tàng tưởng nhớ nạn nhân.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=98.9525,14.3553&z=17&pt=98.9525,14.3553",
+      "google": "https://www.google.com/maps/search/?api=1&query=14.3553,98.9525"
+    },
+    "tags": [
+      "memorial",
+      "ww2",
+      "railway"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "th-kanchanaburi-kanchanaburi-war-cemetery",
+    "slug": "kanchanaburi-war-cemetery",
+    "region": "th-kanchanaburi",
+    "country": "thailand",
+    "region_name_vi": "Kanchanaburi",
+    "name_vi": "Nghĩa trang Chiến tranh Kanchanaburi (Don Rak)",
+    "name_en": "Kanchanaburi War Cemetery",
+    "name_local": "สุสานทหารสัมพันธมิตรดอนรัก",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 14.0264,
+      "lon": 99.5253
+    },
+    "address_vi": "Thị trấn Kanchanaburi, tỉnh Kanchanaburi",
+    "rating": null,
+    "presentation_short_vi": "Nghĩa trang yên tĩnh an nghỉ của gần 7.000 tù binh Đồng Minh chết khi xây Đường sắt Tử thần. Những hàng bia mộ và bãi cỏ được chăm sóc chỉn chu là nơi tưởng niệm trang nghiêm.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=99.5253,14.0264&z=17&pt=99.5253,14.0264",
+      "google": "https://www.google.com/maps/search/?api=1&query=14.0264,99.5253"
+    },
+    "tags": [
+      "memorial",
+      "ww2",
+      "cemetery"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "th-kanchanaburi-jeath-war-museum",
+    "slug": "jeath-war-museum",
+    "region": "th-kanchanaburi",
+    "country": "thailand",
+    "region_name_vi": "Kanchanaburi",
+    "name_vi": "Bảo tàng Chiến tranh JEATH",
+    "name_en": "JEATH War Museum",
+    "name_local": "พิพิธภัณฑ์สงคราม JEATH",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 14.0186,
+      "lon": 99.529
+    },
+    "address_vi": "Thị trấn Kanchanaburi, tỉnh Kanchanaburi",
+    "rating": null,
+    "presentation_short_vi": "Bảo tàng dựng lại lán tre của tù binh, trưng bày hình ảnh và hiện vật về Đường sắt Tử thần. Tên JEATH ghép từ các nước liên quan, giúp du khách hiểu nỗi thống khổ thời chiến.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=99.529,14.0186&z=17&pt=99.529,14.0186",
+      "google": "https://www.google.com/maps/search/?api=1&query=14.0186,99.529"
+    },
+    "tags": [
+      "museum",
+      "ww2",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "th-kanchanaburi-sai-yok-national-park",
+    "slug": "sai-yok-national-park",
+    "region": "th-kanchanaburi",
+    "country": "thailand",
+    "region_name_vi": "Kanchanaburi",
+    "name_vi": "Vườn quốc gia Sai Yok",
+    "name_en": "Sai Yok National Park",
+    "name_local": "อุทยานแห่งชาติไทรโยค",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 14.2333,
+      "lon": 98.86
+    },
+    "address_vi": "Huyện Sai Yok, tỉnh Kanchanaburi",
+    "rating": null,
+    "presentation_short_vi": "Khu rừng bên sông Khwae Noi với thác Sai Yok Yai đổ thẳng xuống dòng sông cùng hang động và nhà bè. Nổi tiếng nhờ cảnh sông núi hoang sơ và loài dơi nhỏ nhất thế giới sinh sống tại đây.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=98.86,14.2333&z=17&pt=98.86,14.2333",
+      "google": "https://www.google.com/maps/search/?api=1&query=14.2333,98.86"
+    },
+    "tags": [
+      "national_park",
+      "waterfall",
+      "river"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "th-kanchanaburi-prasat-muang-sing",
+    "slug": "prasat-muang-sing",
+    "region": "th-kanchanaburi",
+    "country": "thailand",
+    "region_name_vi": "Kanchanaburi",
+    "name_vi": "Công viên lịch sử Mueang Sing (Prasat Muang Sing)",
+    "name_en": "Mueang Sing Historical Park",
+    "name_local": "อุทยานประวัติศาสตร์เมืองสิงห์",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 14.0388,
+      "lon": 99.2435
+    },
+    "address_vi": "Huyện Sai Yok, tỉnh Kanchanaburi",
+    "rating": null,
+    "presentation_short_vi": "Phế tích đền - thành cổ theo phong cách Khmer bên sông Khwae Noi, có niên đại khoảng thế kỷ 12-13. Từng là tiền đồn xa nhất về phía tây của đế chế Khmer, nay là di tích lịch sử được bảo tồn.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=99.2435,14.0388&z=17&pt=99.2435,14.0388",
+      "google": "https://www.google.com/maps/search/?api=1&query=14.0388,99.2435"
+    },
+    "tags": [
+      "ruins",
+      "khmer",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "th-kanchanaburi-tham-krasae-bridge",
+    "slug": "tham-krasae-bridge",
+    "region": "th-kanchanaburi",
+    "country": "thailand",
+    "region_name_vi": "Kanchanaburi",
+    "name_vi": "Cầu Tham Krasae (Đường sắt Tử thần)",
+    "name_en": "Tham Krasae Bridge (Wang Pho Viaduct)",
+    "name_local": "สะพานถ้ำกระแซ",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 14.1045,
+      "lon": 99.1672
+    },
+    "address_vi": "Xã Lum Sum, huyện Sai Yok, tỉnh Kanchanaburi",
+    "rating": null,
+    "presentation_short_vi": "Đoạn cầu gỗ uốn cong ôm sát vách đá bên sông Khwae Noi, thuộc tuyến Đường sắt Tử thần lịch sử. Cảnh đoàn tàu men theo triền núi qua hang Krasae là hình ảnh ngoạn mục nổi tiếng.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=99.1672,14.1045&z=17&pt=99.1672,14.1045",
+      "google": "https://www.google.com/maps/search/?api=1&query=14.1045,99.1672"
+    },
+    "tags": [
+      "bridge",
+      "railway",
+      "ww2"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "th-kanchanaburi-wat-tham-suea",
+    "slug": "wat-tham-suea",
+    "region": "th-kanchanaburi",
+    "country": "thailand",
+    "region_name_vi": "Kanchanaburi",
+    "name_vi": "Chùa Hang Cọp (Wat Tham Suea)",
+    "name_en": "Wat Tham Suea (Tiger Cave Temple)",
+    "name_local": "วัดถ้ำเสือ",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 13.954,
+      "lon": 99.6059
+    },
+    "address_vi": "Huyện Tha Muang, tỉnh Kanchanaburi",
+    "rating": null,
+    "presentation_short_vi": "Ngôi chùa trên đồi với tượng Phật ngồi mạ vàng khổng lồ nhìn ra đồng ruộng và đập Mae Klong. Lên bằng bậc thang hoặc thang kéo, du khách được ngắm toàn cảnh vùng nông thôn Kanchanaburi.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=99.6059,13.954&z=17&pt=99.6059,13.954",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.954,99.6059"
+    },
+    "tags": [
+      "temple",
+      "buddha",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "th-kanchanaburi-three-pagodas-pass",
+    "slug": "three-pagodas-pass",
+    "region": "th-kanchanaburi",
+    "country": "thailand",
+    "region_name_vi": "Kanchanaburi",
+    "name_vi": "Đèo Ba Chùa (Three Pagodas Pass)",
+    "name_en": "Three Pagodas Pass",
+    "name_local": "ด่านเจดีย์สามองค์",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 15.3117,
+      "lon": 98.3878
+    },
+    "address_vi": "Huyện Sangkhla Buri, tỉnh Kanchanaburi",
+    "rating": null,
+    "presentation_short_vi": "Cửa khẩu biên giới Thái Lan - Myanmar đánh dấu bằng ba ngôi tháp trắng nhỏ đứng cạnh nhau. Từng là con đường giao thương và hành quân cổ, nay là điểm tham quan vùng biên hẻo lánh.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=98.3878,15.3117&z=17&pt=98.3878,15.3117",
+      "google": "https://www.google.com/maps/search/?api=1&query=15.3117,98.3878"
+    },
+    "tags": [
+      "border",
+      "landmark",
+      "pagoda"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  }
+]

@@ -1,0 +1,250 @@
+[
+  {
+    "id": "id-north-sumatra-danau-toba",
+    "slug": "danau-toba",
+    "region": "id-north-sumatra",
+    "country": "indonesia",
+    "region_name_vi": "Bắc Sumatra",
+    "name_vi": "Hồ Toba",
+    "name_en": "Lake Toba",
+    "name_local": "Danau Toba",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 2.6845,
+      "lon": 98.8756
+    },
+    "address_vi": "Bắc Sumatra, Indonesia",
+    "presentation_short_vi": "Hồ Toba là hồ miệng núi lửa lớn nhất thế giới, hình thành sau siêu phun trào cách đây khoảng 74.000 năm. Mặt hồ xanh thẳm bao quanh bởi núi non và văn hóa Batak đặc sắc.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=98.8756,2.6845&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=2.6845,98.8756"
+    },
+    "tags": [
+      "top",
+      "lake",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "id-north-sumatra-pulau-samosir",
+    "slug": "pulau-samosir",
+    "region": "id-north-sumatra",
+    "country": "indonesia",
+    "region_name_vi": "Bắc Sumatra",
+    "name_vi": "Đảo Samosir",
+    "name_en": "Samosir Island",
+    "name_local": "Pulau Samosir",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 2.5896,
+      "lon": 98.825
+    },
+    "address_vi": "Huyện Samosir, giữa hồ Toba, Bắc Sumatra, Indonesia",
+    "presentation_short_vi": "Đảo Samosir nằm giữa hồ Toba, là trung tâm văn hóa của người Batak với nhà mái cong truyền thống, mộ đá cổ và các làng Tomok, Ambarita. Đây là điểm nghỉ dưỡng và tìm hiểu văn hóa nổi tiếng.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=98.825,2.5896&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=2.5896,98.825"
+    },
+    "tags": [
+      "island",
+      "culture",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "id-north-sumatra-istana-maimun",
+    "slug": "istana-maimun",
+    "region": "id-north-sumatra",
+    "country": "indonesia",
+    "region_name_vi": "Bắc Sumatra",
+    "name_vi": "Cung điện Maimun",
+    "name_en": "Maimun Palace",
+    "name_local": "Istana Maimun",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 3.5752,
+      "lon": 98.6839
+    },
+    "address_vi": "Jl. Brigjend Katamso, Medan, Bắc Sumatra, Indonesia",
+    "presentation_short_vi": "Cung điện Maimun ở Medan là hoàng cung của vương quốc Deli, xây năm 1888 với kiến trúc pha trộn Mã Lai, Mughal, Ý và Tây Ban Nha. Sắc vàng đặc trưng khiến nơi đây trở thành biểu tượng của thành phố.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=98.6839,3.5752&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=3.5752,98.6839"
+    },
+    "tags": [
+      "palace",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "id-north-sumatra-masjid-raya-al-mashun",
+    "slug": "masjid-raya-al-mashun",
+    "region": "id-north-sumatra",
+    "country": "indonesia",
+    "region_name_vi": "Bắc Sumatra",
+    "name_vi": "Thánh đường Lớn Medan",
+    "name_en": "Great Mosque of Medan (Al-Mashun)",
+    "name_local": "Masjid Raya Al-Mashun",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 3.575,
+      "lon": 98.6878
+    },
+    "address_vi": "Jl. Sisingamangaraja, Medan, Bắc Sumatra, Indonesia",
+    "presentation_short_vi": "Thánh đường Lớn Medan (Al-Mashun) xây năm 1906 theo phong cách Maroc – Mughal, với mái vòm đen và nội thất lộng lẫy. Đây là một trong những thánh đường đẹp và cổ kính nhất Sumatra.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=98.6878,3.575&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=3.575,98.6878"
+    },
+    "tags": [
+      "mosque",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "id-north-sumatra-air-terjun-sipiso-piso",
+    "slug": "air-terjun-sipiso-piso",
+    "region": "id-north-sumatra",
+    "country": "indonesia",
+    "region_name_vi": "Bắc Sumatra",
+    "name_vi": "Thác Sipiso-piso",
+    "name_en": "Sipiso-piso Waterfall",
+    "name_local": "Air Terjun Sipiso-piso",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 2.9108,
+      "lon": 98.5167
+    },
+    "address_vi": "Tongging, huyện Karo, Bắc Sumatra, Indonesia",
+    "presentation_short_vi": "Thác Sipiso-piso cao khoảng 120 m, đổ thẳng xuống từ vách đá ở rìa bắc hồ Toba gần làng Tongging. Đây là một trong những thác nước cao và ấn tượng nhất Indonesia.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=98.5167,2.9108&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=2.9108,98.5167"
+    },
+    "tags": [
+      "waterfall",
+      "nature",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "id-north-sumatra-gunung-sibayak",
+    "slug": "gunung-sibayak",
+    "region": "id-north-sumatra",
+    "country": "indonesia",
+    "region_name_vi": "Bắc Sumatra",
+    "name_vi": "Núi Sibayak",
+    "name_en": "Mount Sibayak",
+    "name_local": "Gunung Sibayak",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 3.2392,
+      "lon": 98.5056
+    },
+    "address_vi": "Gần Berastagi, huyện Karo, Bắc Sumatra, Indonesia",
+    "presentation_short_vi": "Sibayak là núi lửa còn hoạt động gần thị trấn cao nguyên Berastagi, nổi tiếng với cung đường trekking dễ đi và suối nước nóng. Đỉnh núi cho tầm nhìn tuyệt đẹp xuống vùng cao nguyên Karo.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=98.5056,3.2392&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=3.2392,98.5056"
+    },
+    "tags": [
+      "volcano",
+      "trekking",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "id-north-sumatra-bukit-lawang",
+    "slug": "bukit-lawang",
+    "region": "id-north-sumatra",
+    "country": "indonesia",
+    "region_name_vi": "Bắc Sumatra",
+    "name_vi": "Bukit Lawang",
+    "name_en": "Bukit Lawang",
+    "name_local": "Bukit Lawang",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 3.5583,
+      "lon": 98.1372
+    },
+    "address_vi": "Rìa Vườn quốc gia Gunung Leuser, huyện Langkat, Bắc Sumatra, Indonesia",
+    "presentation_short_vi": "Bukit Lawang bên rìa vườn quốc gia Gunung Leuser là nơi tốt nhất để ngắm đười ươi Sumatra hoang dã. Ngôi làng ven sông cũng là điểm khởi đầu các tour trekking rừng nhiệt đới.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=98.1372,3.5583&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=3.5583,98.1372"
+    },
+    "tags": [
+      "nature",
+      "wildlife",
+      "trekking"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "id-north-sumatra-tjong-a-fie-mansion",
+    "slug": "tjong-a-fie-mansion",
+    "region": "id-north-sumatra",
+    "country": "indonesia",
+    "region_name_vi": "Bắc Sumatra",
+    "name_vi": "Dinh thự Tjong A Fie",
+    "name_en": "Tjong A Fie Mansion",
+    "name_local": "Rumah Tjong A Fie",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 3.585,
+      "lon": 98.6798
+    },
+    "address_vi": "Jl. Ahmad Yani, Kesawan, Medan, Bắc Sumatra, Indonesia",
+    "presentation_short_vi": "Dinh thự Tjong A Fie ở khu Kesawan, Medan là ngôi nhà cổ của thương gia người Hoa giàu có đầu thế kỷ 20, kiến trúc pha trộn Trung Hoa, Mã Lai và châu Âu. Nay là bảo tàng mở cửa đón khách tham quan.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=98.6798,3.585&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=3.585,98.6798"
+    },
+    "tags": [
+      "museum",
+      "heritage",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  }
+]

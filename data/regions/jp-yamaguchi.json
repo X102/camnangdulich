@@ -1,0 +1,315 @@
+[
+  {
+    "id": "jp-yamaguchi-kintaikyo",
+    "slug": "kintaikyo",
+    "region": "jp-yamaguchi",
+    "country": "japan",
+    "region_name_vi": "Yamaguchi",
+    "name_vi": "Cầu Kintai (Cẩm Đới Kiều)",
+    "name_en": "Kintaikyō Bridge",
+    "name_local": "錦帯橋",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 34.1676,
+      "lon": 132.1776
+    },
+    "address_vi": "1 Iwakuni, TP Iwakuni, Yamaguchi",
+    "presentation_short_vi": "Cây cầu gỗ năm nhịp vòng cung bắc qua sông Nishiki, dựng lần đầu năm 1673 bằng kỹ thuật mộng gỗ không dùng đinh, là biểu tượng của Iwakuni.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.1676,132.1776",
+      "yandex": "https://yandex.com/maps/?pt=132.1776,34.1676&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "bridge",
+      "historic",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-yamaguchi-iwakuni-castle",
+    "slug": "iwakuni-castle",
+    "region": "jp-yamaguchi",
+    "country": "japan",
+    "region_name_vi": "Yamaguchi",
+    "name_vi": "Lâu đài Iwakuni",
+    "name_en": "Iwakuni Castle",
+    "name_local": "岩国城",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 34.1712,
+      "lon": 132.1728
+    },
+    "address_vi": "TP Iwakuni, Yamaguchi",
+    "presentation_short_vi": "Toà thành phục dựng trên đỉnh núi Shiroyama nhìn xuống cầu Kintai và thành phố; lên tới nơi bằng cáp treo, từ đài quan sát thấy cả vùng biển Seto.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.1712,132.1728",
+      "yandex": "https://yandex.com/maps/?pt=132.1728,34.1712&z=16&l=map"
+    },
+    "tags": [
+      "castle",
+      "viewpoint",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-yamaguchi-akiyoshido",
+    "slug": "akiyoshido",
+    "region": "jp-yamaguchi",
+    "country": "japan",
+    "region_name_vi": "Yamaguchi",
+    "name_vi": "Động Akiyoshidō",
+    "name_en": "Akiyoshidō Cave",
+    "name_local": "秋芳洞",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 34.2287,
+      "lon": 131.3041
+    },
+    "address_vi": "Akiyoshi, Shūhō, TP Mine, Yamaguchi",
+    "presentation_short_vi": "Hang động đá vôi lớn và dài nhất Nhật Bản, với những khối thạch nhũ khổng lồ như “ruộng bậc thang trăm đĩa” và dòng suối ngầm chảy suốt lòng hang.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.2287,131.3041",
+      "yandex": "https://yandex.com/maps/?pt=131.3041,34.2287&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "cave",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-yamaguchi-akiyoshidai",
+    "slug": "akiyoshidai",
+    "region": "jp-yamaguchi",
+    "country": "japan",
+    "region_name_vi": "Yamaguchi",
+    "name_vi": "Cao nguyên Akiyoshidai",
+    "name_en": "Akiyoshidai Plateau",
+    "name_local": "秋吉台",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 34.236,
+      "lon": 131.303
+    },
+    "address_vi": "Shūhō, TP Mine, Yamaguchi",
+    "presentation_short_vi": "Cao nguyên karst rộng lớn nhất Nhật Bản với vô số tảng đá vôi trắng nhô lên khỏi thảo nguyên xanh, bên dưới là hệ thống hang động Akiyoshidō.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.236,131.303",
+      "yandex": "https://yandex.com/maps/?pt=131.303,34.236&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "karst",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-yamaguchi-motonosumi",
+    "slug": "motonosumi",
+    "region": "jp-yamaguchi",
+    "country": "japan",
+    "region_name_vi": "Yamaguchi",
+    "name_vi": "Đền Motonosumi Inari",
+    "name_en": "Motonosumi Inari Shrine",
+    "name_local": "元乃隅神社",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 34.4183,
+      "lon": 131.0637
+    },
+    "address_vi": "498 Yuyatsuo, Nagato, Yamaguchi",
+    "presentation_short_vi": "Ngôi đền ven biển với 123 cổng torii đỏ nối nhau chạy dốc xuống mỏm đá bên biển Nhật Bản, phía trên có hòm công đức đặt cao nổi tiếng khó ném tiền trúng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.4183,131.0637",
+      "yandex": "https://yandex.com/maps/?pt=131.0637,34.4183&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "shrine",
+      "coast",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-yamaguchi-tsunoshima-bridge",
+    "slug": "tsunoshima-bridge",
+    "region": "jp-yamaguchi",
+    "country": "japan",
+    "region_name_vi": "Yamaguchi",
+    "name_vi": "Cầu Tsunoshima",
+    "name_en": "Tsunoshima Bridge",
+    "name_local": "角島大橋",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 34.3532,
+      "lon": 130.8836
+    },
+    "address_vi": "Hōhoku, TP Shimonoseki, Yamaguchi",
+    "presentation_short_vi": "Cây cầu dài gần 1,8 km vắt qua làn nước biển xanh ngọc nối đất liền với đảo Tsunoshima, một trong những cung đường ven biển đẹp nhất Nhật Bản.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.3532,130.8836",
+      "yandex": "https://yandex.com/maps/?pt=130.8836,34.3532&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "bridge",
+      "coast",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-yamaguchi-rurikoji-pagoda",
+    "slug": "rurikoji-pagoda",
+    "region": "jp-yamaguchi",
+    "country": "japan",
+    "region_name_vi": "Yamaguchi",
+    "name_vi": "Tháp 5 tầng chùa Rurikō-ji",
+    "name_en": "Rurikō-ji Five-story Pagoda",
+    "name_local": "瑠璃光寺五重塔",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 34.1897,
+      "lon": 131.468
+    },
+    "address_vi": "7-1 Kozan-chō, TP Yamaguchi, Yamaguchi",
+    "presentation_short_vi": "Tháp gỗ năm tầng dựng khoảng năm 1442, được xem là một trong ba ngôi tháp năm tầng đẹp nhất Nhật Bản, đứng giữa công viên Kōzan xanh mát.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.1897,131.468",
+      "yandex": "https://yandex.com/maps/?pt=131.468,34.1897&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "pagoda",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-yamaguchi-karato-market",
+    "slug": "karato-market",
+    "region": "jp-yamaguchi",
+    "country": "japan",
+    "region_name_vi": "Yamaguchi",
+    "name_vi": "Chợ hải sản Karato",
+    "name_en": "Karato Market",
+    "name_local": "唐戸市場",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 33.9573,
+      "lon": 130.943
+    },
+    "address_vi": "5-50 Karatochō, Shimonoseki, Yamaguchi",
+    "presentation_short_vi": "Khu chợ hải sản sầm uất bên eo biển Kanmon, nổi tiếng với cá nóc fugu và những quầy sushi tươi bán theo miếng vào dịp cuối tuần.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=33.9573,130.943",
+      "yandex": "https://yandex.com/maps/?pt=130.943,33.9573&z=16&l=map"
+    },
+    "tags": [
+      "market",
+      "food",
+      "seafood"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-yamaguchi-akama-shrine",
+    "slug": "akama-shrine",
+    "region": "jp-yamaguchi",
+    "country": "japan",
+    "region_name_vi": "Yamaguchi",
+    "name_vi": "Đền Akama",
+    "name_en": "Akama Shrine",
+    "name_local": "赤間神宮",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 33.9585,
+      "lon": 130.9468
+    },
+    "address_vi": "4-1 Amidaijichō, Shimonoseki, Yamaguchi",
+    "presentation_short_vi": "Ngôi đền cổng nước sơn đỏ rực bên eo Kanmon, thờ Thiên hoàng nhỏ tuổi Antoku tử nạn trong trận thủy chiến Dan-no-ura năm 1185.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=33.9585,130.9468",
+      "yandex": "https://yandex.com/maps/?pt=130.9468,33.9585&z=16&l=map"
+    },
+    "tags": [
+      "shrine",
+      "historic",
+      "seaside"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-yamaguchi-kikko-park",
+    "slug": "kikko-park",
+    "region": "jp-yamaguchi",
+    "country": "japan",
+    "region_name_vi": "Yamaguchi",
+    "name_vi": "Công viên Kikkō",
+    "name_en": "Kikkō Park",
+    "name_local": "吉香公園",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 34.1685,
+      "lon": 132.177
+    },
+    "address_vi": "TP Iwakuni, Yamaguchi",
+    "presentation_short_vi": "Công viên trên nền dinh thự dòng họ Kikkawa cạnh cầu Kintai, với hào nước, vườn cũ và đàn cá chép, rực rỡ hoa anh đào vào mùa xuân.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.1685,132.177",
+      "yandex": "https://yandex.com/maps/?pt=132.177,34.1685&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "historic",
+      "cherry-blossom"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

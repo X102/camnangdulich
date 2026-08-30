@@ -1,0 +1,314 @@
+[
+  {
+    "id": "jp-iwate-chusonji",
+    "slug": "chusonji",
+    "region": "jp-iwate",
+    "country": "japan",
+    "region_name_vi": "Iwate",
+    "name_vi": "Chùa Chūson-ji (Konjikidō)",
+    "name_en": "Chūson-ji",
+    "name_local": "中尊寺",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 38.999,
+      "lon": 141.0992
+    },
+    "address_vi": "202 Koromonoseki, Hiraizumi, Quận Nishiiwai, Iwate",
+    "presentation_short_vi": "Ngôi chùa Thiên Thai tông hơn 850 năm tuổi, nổi tiếng với Konjikidō (Kim Sắc Đường) dát vàng ròng; là trung tâm quần thể Hiraizumi được UNESCO công nhận.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.999,141.0992",
+      "yandex": "https://yandex.com/maps/?pt=141.0992,38.999&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "temple",
+      "unesco",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-iwate-motsuji",
+    "slug": "motsuji",
+    "region": "jp-iwate",
+    "country": "japan",
+    "region_name_vi": "Iwate",
+    "name_vi": "Chùa Mōtsū-ji",
+    "name_en": "Mōtsū-ji",
+    "name_local": "毛越寺",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 38.9878,
+      "lon": 141.108
+    },
+    "address_vi": "58 Osawa, Hiraizumi, Quận Nishiiwai, Iwate",
+    "presentation_short_vi": "Ngôi chùa cổ với khu vườn Tịnh Độ và hồ nước tạo hình vào loại đẹp bậc nhất Nhật Bản, một phần Di sản Thế giới Hiraizumi.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.9878,141.108",
+      "yandex": "https://yandex.com/maps/?pt=141.108,38.9878&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "temple",
+      "garden",
+      "unesco"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-iwate-takkoku-iwaya",
+    "slug": "takkoku-iwaya",
+    "region": "jp-iwate",
+    "country": "japan",
+    "region_name_vi": "Iwate",
+    "name_vi": "Chùa hang Takkoku no Iwaya",
+    "name_en": "Takkoku no Iwaya",
+    "name_local": "達谷窟",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 38.977,
+      "lon": 141.0612
+    },
+    "address_vi": "16 Kitasawa, Hiraizumi, Quận Nishiiwai, Iwate",
+    "presentation_short_vi": "Ngôi chùa dựng nép vào vách hang đá, tương truyền do tướng quân Sakanoue no Tamuramaro lập để tạ ơn chiến thắng, bên cạnh có tượng Phật khắc trên vách đá.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.977,141.0612",
+      "yandex": "https://yandex.com/maps/?pt=141.0612,38.977&z=16&l=map"
+    },
+    "tags": [
+      "temple",
+      "historic",
+      "unique"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-iwate-geibikei",
+    "slug": "geibikei",
+    "region": "jp-iwate",
+    "country": "japan",
+    "region_name_vi": "Iwate",
+    "name_vi": "Hẻm vực Geibikei",
+    "name_en": "Geibikei Gorge",
+    "name_local": "猊鼻渓",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 38.977,
+      "lon": 141.264
+    },
+    "address_vi": "TP Ichinoseki, Iwate",
+    "presentation_short_vi": "Hẻm vực đá vôi dựng đứng ven sông Satetsu, du khách ngồi thuyền để người lái chèo tay đưa đi giữa vách đá cao và tiếng hò vọng vang.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.977,141.264",
+      "yandex": "https://yandex.com/maps/?pt=141.264,38.977&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "boat",
+      "gorge"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-iwate-genbikei",
+    "slug": "genbikei",
+    "region": "jp-iwate",
+    "country": "japan",
+    "region_name_vi": "Iwate",
+    "name_vi": "Hẻm núi Genbikei",
+    "name_en": "Genbikei Gorge",
+    "name_local": "厳美渓",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 38.9556,
+      "lon": 141.0876
+    },
+    "address_vi": "TP Ichinoseki, Iwate",
+    "presentation_short_vi": "Hẻm núi với dòng Iwai chảy xiết qua các ghềnh đá kỳ thú, nổi tiếng với món bánh dango được kéo qua sông bằng dây.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.9556,141.0876",
+      "yandex": "https://yandex.com/maps/?pt=141.0876,38.9556&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "gorge",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-iwate-morioka-castle",
+    "slug": "morioka-castle",
+    "region": "jp-iwate",
+    "country": "japan",
+    "region_name_vi": "Iwate",
+    "name_vi": "Công viên thành Morioka",
+    "name_en": "Morioka Castle Ruins",
+    "name_local": "盛岡城跡",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 39.701,
+      "lon": 141.153
+    },
+    "address_vi": "1-37 Uchimaru, TP Morioka, Iwate",
+    "presentation_short_vi": "Công viên trên nền thành cổ của dòng họ Nanbu, còn lại những bức tường đá granit đồ sộ, một điểm ngắm hoa anh đào và lá đỏ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=39.701,141.153",
+      "yandex": "https://yandex.com/maps/?pt=141.153,39.701&z=16&l=map"
+    },
+    "tags": [
+      "castle",
+      "historic",
+      "park"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-iwate-jodogahama",
+    "slug": "jodogahama",
+    "region": "jp-iwate",
+    "country": "japan",
+    "region_name_vi": "Iwate",
+    "name_vi": "Bãi biển Jōdogahama",
+    "name_en": "Jōdogahama Beach",
+    "name_local": "浄土ヶ浜",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 39.6494,
+      "lon": 141.972
+    },
+    "address_vi": "TP Miyako, Iwate",
+    "presentation_short_vi": "Bãi biển với những mỏm đá trắng và rừng thông nhô lên khỏi mặt nước xanh ngọc, được ví như cảnh cõi Tịnh Độ; có thuyền ngắm hang Blue Cave.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=39.6494,141.972",
+      "yandex": "https://yandex.com/maps/?pt=141.972,39.6494&z=16&l=map"
+    },
+    "tags": [
+      "beach",
+      "nature",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-iwate-ryusendo",
+    "slug": "ryusendo",
+    "region": "jp-iwate",
+    "country": "japan",
+    "region_name_vi": "Iwate",
+    "name_vi": "Động Ryūsendō",
+    "name_en": "Ryūsendō Cave",
+    "name_local": "龍泉洞",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 39.8425,
+      "lon": 141.7958
+    },
+    "address_vi": "1-1 Kannari, Iwaizumi, Quận Shimohei, Iwate",
+    "presentation_short_vi": "Một trong ba hang động đá vôi lớn nhất Nhật Bản, nổi tiếng với các hồ ngầm nước trong xanh thuộc hàng sâu và trong nhất thế giới.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=39.8425,141.7958",
+      "yandex": "https://yandex.com/maps/?pt=141.7958,39.8425&z=16&l=map"
+    },
+    "tags": [
+      "cave",
+      "nature",
+      "unique"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-iwate-koiwai-farm",
+    "slug": "koiwai-farm",
+    "region": "jp-iwate",
+    "country": "japan",
+    "region_name_vi": "Iwate",
+    "name_vi": "Nông trại Koiwai",
+    "name_en": "Koiwai Farm",
+    "name_local": "小岩井農場",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 39.7183,
+      "lon": 141.03
+    },
+    "address_vi": "36-1 Maruyachi, Shizukuishi, Quận Iwate, Iwate",
+    "presentation_short_vi": "Nông trại tư nhân lịch sử dưới chân núi Iwate với đồng cỏ rộng lớn, cây anh đào đơn độc nổi tiếng và các công trình gỗ từ thời Minh Trị.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=39.7183,141.03",
+      "yandex": "https://yandex.com/maps/?pt=141.03,39.7183&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "farm",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-iwate-kitayamazaki",
+    "slug": "kitayamazaki",
+    "region": "jp-iwate",
+    "country": "japan",
+    "region_name_vi": "Iwate",
+    "name_vi": "Vách biển Kitayamazaki",
+    "name_en": "Kitayamazaki Cliffs",
+    "name_local": "北山崎",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 39.8331,
+      "lon": 141.9558
+    },
+    "address_vi": "Tanohata, Quận Shimohei, Iwate",
+    "presentation_short_vi": "Dải bờ biển với vách đá cao gần 200 m dựng đứng trên bờ biển Sanriku, được xếp hạng là một trong những cảnh biển đẹp nhất Nhật Bản.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=39.8331,141.9558",
+      "yandex": "https://yandex.com/maps/?pt=141.9558,39.8331&z=16&l=map"
+    },
+    "tags": [
+      "coast",
+      "cliff",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "id": "id-riau-istana-siak",
+    "slug": "istana-siak",
+    "region": "id-riau",
+    "country": "indonesia",
+    "region_name_vi": "Riau",
+    "name_vi": "Cung điện Siak Sri Indrapura",
+    "name_en": "Siak Sri Indrapura Palace",
+    "name_local": "Istana Siak Sri Indrapura",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 0.79481,
+      "lon": 102.048985
+    },
+    "address_vi": "TP. Siak Sri Indrapura, huyện Siak, tỉnh Riau, Indonesia",
+    "presentation_short_vi": "Cung điện của vương quốc Hồi giáo Siak Sri Indrapura, xây năm 1889 với kiến trúc pha trộn Mã Lai, Ả Rập và châu Âu. Đây là di tích hoàng gia tráng lệ bậc nhất tỉnh Riau.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=102.048985,0.79481&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=0.79481,102.048985"
+    },
+    "tags": [
+      "top",
+      "palace",
+      "heritage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-riau-masjid-an-nur",
+    "slug": "masjid-an-nur",
+    "region": "id-riau",
+    "country": "indonesia",
+    "region_name_vi": "Riau",
+    "name_vi": "Thánh đường lớn An-Nur",
+    "name_en": "An-Nur Great Mosque",
+    "name_local": "Masjid Agung An-Nur",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 0.5267,
+      "lon": 101.450798
+    },
+    "address_vi": "TP. Pekanbaru, tỉnh Riau, Indonesia",
+    "presentation_short_vi": "Thánh đường lớn của Pekanbaru với kiến trúc gợi nhớ đền Taj Mahal, được mệnh danh là Taj Mahal của Riau. Là biểu tượng tôn giáo và điểm tham quan nổi bật của thành phố.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.450798,0.5267&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=0.5267,101.450798"
+    },
+    "tags": [
+      "top",
+      "mosque",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-riau-candi-muara-takus",
+    "slug": "candi-muara-takus",
+    "region": "id-riau",
+    "country": "indonesia",
+    "region_name_vi": "Riau",
+    "name_vi": "Đền Muara Takus",
+    "name_en": "Muara Takus Temple",
+    "name_local": "Candi Muara Takus",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 0.334,
+      "lon": 100.641
+    },
+    "address_vi": "Xã Muara Takus, huyện Kampar, tỉnh Riau, Indonesia",
+    "presentation_short_vi": "Quần thể đền tháp Phật giáo bằng gạch có từ thời vương quốc Srivijaya, là di tích cổ xưa và quan trọng nhất tỉnh Riau.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=100.641,0.334&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=0.334,100.641"
+    },
+    "tags": [
+      "top",
+      "temple",
+      "heritage",
+      "buddhist"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-riau-pulau-rupat",
+    "slug": "pulau-rupat",
+    "region": "id-riau",
+    "country": "indonesia",
+    "region_name_vi": "Riau",
+    "name_vi": "Đảo Rupat",
+    "name_en": "Rupat Island",
+    "name_local": "Pulau Rupat",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 1.8934,
+      "lon": 101.5808
+    },
+    "address_vi": "Huyện Bengkalis, tỉnh Riau (eo biển Malacca), Indonesia",
+    "presentation_short_vi": "Đảo ở eo biển Malacca nổi tiếng với bãi biển cát trắng Pantai Pesona tại Rupat Utara. Là điểm nghỉ dưỡng biển đang phát triển của Riau.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.5808,1.8934&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=1.8934,101.5808"
+    },
+    "tags": [
+      "beach",
+      "island",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-riau-pulau-jemur",
+    "slug": "pulau-jemur",
+    "region": "id-riau",
+    "country": "indonesia",
+    "region_name_vi": "Riau",
+    "name_vi": "Quần đảo Jemur",
+    "name_en": "Jemur Islands",
+    "name_local": "Pulau Jemur",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 2.88029,
+      "lon": 100.56662
+    },
+    "address_vi": "Huyện Rokan Hilir, tỉnh Riau (eo biển Malacca), Indonesia",
+    "presentation_short_vi": "Cụm đảo nhỏ giữa eo biển Malacca với bãi biển đẹp và là nơi rùa biển lên đẻ trứng. Điểm sinh thái biển hoang sơ thuộc huyện Rokan Hilir.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=100.56662,2.88029&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=2.88029,100.56662"
+    },
+    "tags": [
+      "island",
+      "beach",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-riau-ombak-bono",
+    "slug": "ombak-bono",
+    "region": "id-riau",
+    "country": "indonesia",
+    "region_name_vi": "Riau",
+    "name_vi": "Sóng triều Bono (sông Kampar)",
+    "name_en": "Bono Tidal Bore (Kampar River)",
+    "name_local": "Ombak Bono, Sungai Kampar",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 0.164883,
+      "lon": 102.56414
+    },
+    "address_vi": "Teluk Meranti, huyện Pelalawan, tỉnh Riau, Indonesia",
+    "presentation_short_vi": "Hiện tượng sóng triều (tidal bore) trên sông Kampar tại Teluk Meranti, tạo những con sóng cao liên tục được dân lướt sóng thế giới yêu thích. Được ví là bảy con ma trên sông Kampar.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=102.56414,0.164883&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=0.164883,102.56414"
+    },
+    "tags": [
+      "river",
+      "surfing",
+      "nature",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

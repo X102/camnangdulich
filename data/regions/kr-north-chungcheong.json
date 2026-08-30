@@ -1,0 +1,309 @@
+[
+  {
+    "id": "kr-north-chungcheong-beopjusa",
+    "slug": "beopjusa",
+    "region": "kr-north-chungcheong",
+    "region_name_vi": "Chungcheong Bắc",
+    "country": "korea",
+    "name_vi": "Chùa Beopjusa",
+    "name_en": "Beopjusa",
+    "name_local": "법주사",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 36.5424,
+      "lon": 127.8338
+    },
+    "address_vi": "Núi Songnisan, huyện Boeun, Chungcheong Bắc",
+    "presentation_short_vi": "Ngôi chùa Phật giáo cổ dựng từ thế kỷ 6 dưới chân núi Songnisan, nổi tiếng với tượng Phật Di Lặc mạ vàng cao 33 m và tháp gỗ Palsangjeon năm tầng.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.8338,36.5424&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=36.5424,127.8338"
+    },
+    "tags": [
+      "temple",
+      "buddhist",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-north-chungcheong-songnisan-national-park",
+    "slug": "songnisan-national-park",
+    "region": "kr-north-chungcheong",
+    "region_name_vi": "Chungcheong Bắc",
+    "country": "korea",
+    "name_vi": "Vườn quốc gia Songnisan",
+    "name_en": "Songnisan National Park",
+    "name_local": "속리산국립공원",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.5416,
+      "lon": 127.87
+    },
+    "address_vi": "Boeun – Sangju, Chungcheong Bắc",
+    "presentation_short_vi": "Vườn quốc gia núi non hiểm trở với các đỉnh đá granite như Munjangdae và Cheonwangbong, rừng thông và suối trong, đẹp nhất vào mùa lá đỏ.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.87,36.5416&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=36.5416,127.87"
+    },
+    "tags": [
+      "mountain",
+      "national_park",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-north-chungcheong-dodamsambong",
+    "slug": "dodamsambong",
+    "region": "kr-north-chungcheong",
+    "region_name_vi": "Chungcheong Bắc",
+    "country": "korea",
+    "name_vi": "Ghềnh đá Dodamsambong",
+    "name_en": "Dodamsambong",
+    "name_local": "도담삼봉",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 37.0022,
+      "lon": 128.3378
+    },
+    "address_vi": "Sông Namhan, huyện Danyang, Chungcheong Bắc",
+    "presentation_short_vi": "Ba khối đá vôi nhô lên giữa dòng sông Namhan, một trong 'Bát cảnh Danyang' gắn với giai thoại về danh thần Jeong Do-jeon thời đầu Joseon.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=128.3378,37.0022&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=37.0022,128.3378"
+    },
+    "tags": [
+      "scenery",
+      "river",
+      "nature",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-north-chungcheong-gosu-cave",
+    "slug": "gosu-cave",
+    "region": "kr-north-chungcheong",
+    "region_name_vi": "Chungcheong Bắc",
+    "country": "korea",
+    "name_vi": "Hang Gosu",
+    "name_en": "Gosu Cave",
+    "name_local": "고수동굴",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.9866,
+      "lon": 128.3652
+    },
+    "address_vi": "Huyện Danyang, Chungcheong Bắc",
+    "presentation_short_vi": "Hang động đá vôi dài khoảng 1,3 km với nhũ đá, măng đá và các hồ ngầm, được xếp hạng danh thắng tự nhiên của Hàn Quốc.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=128.3652,36.9866&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=36.9866,128.3652"
+    },
+    "tags": [
+      "cave",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-north-chungcheong-cheongnamdae",
+    "slug": "cheongnamdae",
+    "region": "kr-north-chungcheong",
+    "region_name_vi": "Chungcheong Bắc",
+    "country": "korea",
+    "name_vi": "Biệt thự Cheongnamdae",
+    "name_en": "Cheongnamdae",
+    "name_local": "청남대",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.4408,
+      "lon": 127.5178
+    },
+    "address_vi": "Munui-myeon, Sangdang-gu, Cheongju, Chungcheong Bắc",
+    "presentation_short_vi": "Nguyên là nhà nghỉ của tổng thống bên hồ Daecheong, nay mở cửa cho công chúng với khuôn viên vườn cây và lối đi ven hồ rộng lớn.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.5178,36.4408&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=36.4408,127.5178"
+    },
+    "tags": [
+      "garden",
+      "lake",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-north-chungcheong-sangdangsanseong",
+    "slug": "sangdangsanseong",
+    "region": "kr-north-chungcheong",
+    "region_name_vi": "Chungcheong Bắc",
+    "country": "korea",
+    "name_vi": "Thành Sangdangsanseong",
+    "name_en": "Sangdangsanseong",
+    "name_local": "상당산성",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 36.6358,
+      "lon": 127.5233
+    },
+    "address_vi": "Sangdang-gu, Cheongju, Chungcheong Bắc",
+    "presentation_short_vi": "Thành lũy trên núi bao quanh Cheongju, tường đá dài khoảng 4 km có từ thời Tam Quốc và được tu bổ dưới triều Joseon, là nơi đi dạo ngắm cảnh phổ biến.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.5233,36.6358&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=36.6358,127.5233"
+    },
+    "tags": [
+      "fortress",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-north-chungcheong-chungju-lake",
+    "slug": "chungju-lake",
+    "region": "kr-north-chungcheong",
+    "region_name_vi": "Chungcheong Bắc",
+    "country": "korea",
+    "name_vi": "Hồ Chungju",
+    "name_en": "Chungju Lake (Chungjuho)",
+    "name_local": "충주호",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 37.0058,
+      "lon": 127.9986
+    },
+    "address_vi": "Chungju, Chungcheong Bắc",
+    "presentation_short_vi": "Hồ nhân tạo lớn hình thành sau đập Chungju, nổi tiếng với các tuyến du thuyền ngắm vách núi và phong cảnh quanh Woraksan.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.9986,37.0058&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=37.0058,127.9986"
+    },
+    "tags": [
+      "lake",
+      "scenery",
+      "cruise"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-north-chungcheong-woraksan-national-park",
+    "slug": "woraksan-national-park",
+    "region": "kr-north-chungcheong",
+    "region_name_vi": "Chungcheong Bắc",
+    "country": "korea",
+    "name_vi": "Vườn quốc gia Woraksan",
+    "name_en": "Woraksan National Park",
+    "name_local": "월악산국립공원",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.8869,
+      "lon": 128.1103
+    },
+    "address_vi": "Jesan – Chungju – Danyang, Chungcheong Bắc",
+    "presentation_short_vi": "Vườn quốc gia với đỉnh Yeongbong đá dựng đứng cao 1.097 m nhìn xuống hồ Chungju, có nhiều tuyến leo núi và ngôi chùa cổ Deokjusa.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=128.1103,36.8869&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=36.8869,128.1103"
+    },
+    "tags": [
+      "mountain",
+      "national_park",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-north-chungcheong-guinsa",
+    "slug": "guinsa",
+    "region": "kr-north-chungcheong",
+    "region_name_vi": "Chungcheong Bắc",
+    "country": "korea",
+    "name_vi": "Chùa Guinsa",
+    "name_en": "Guinsa",
+    "name_local": "구인사",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 36.9668,
+      "lon": 128.4676
+    },
+    "address_vi": "Yeongchun-myeon, huyện Danyang, Chungcheong Bắc",
+    "presentation_short_vi": "Tổ đình của tông phái Cheontae Phật giáo Hàn Quốc, quần thể hàng chục điện đường xây chồng lớp trong thung lũng núi hẹp, có thể chứa hàng vạn người.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=128.4676,36.9668&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=36.9668,128.4676"
+    },
+    "tags": [
+      "temple",
+      "buddhist"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-north-chungcheong-suanbo-hot-springs",
+    "slug": "suanbo-hot-springs",
+    "region": "kr-north-chungcheong",
+    "region_name_vi": "Chungcheong Bắc",
+    "country": "korea",
+    "name_vi": "Suối nước nóng Suanbo",
+    "name_en": "Suanbo Hot Springs",
+    "name_local": "수안보온천",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 36.8419,
+      "lon": 127.9908
+    },
+    "address_vi": "Suanbo-myeon, Chungju, Chungcheong Bắc",
+    "presentation_short_vi": "Thị trấn suối nước nóng lâu đời với nguồn nước khoáng khoảng 53°C, được ưa chuộng để nghỉ dưỡng, nằm gần núi Woraksan và Suanbo.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.9908,36.8419&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=36.8419,127.9908"
+    },
+    "tags": [
+      "hot_spring",
+      "relax"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

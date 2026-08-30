@@ -1,0 +1,311 @@
+[
+  {
+    "id": "jp-kumamoto-kumamoto-castle",
+    "slug": "kumamoto-castle",
+    "region": "jp-kumamoto",
+    "country": "japan",
+    "region_name_vi": "Kumamoto",
+    "name_vi": "Lâu đài Kumamoto",
+    "name_en": "Kumamoto Castle",
+    "name_local": "熊本城",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 32.8061,
+      "lon": 130.7059
+    },
+    "address_vi": "1-1 Honmaru, Chuo, TP Kumamoto",
+    "presentation_short_vi": "Một trong ba tòa thành danh tiếng nhất Nhật Bản, nổi bật với những bức tường đá dốc 'musha-gaeshi' và tháp thiên thủ hùng vĩ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=32.8061,130.7059",
+      "yandex": "https://yandex.com/maps/?pt=130.7059,32.8061&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "castle",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-kumamoto-suizenji-jojuen",
+    "slug": "suizenji-jojuen",
+    "region": "jp-kumamoto",
+    "country": "japan",
+    "region_name_vi": "Kumamoto",
+    "name_vi": "Vườn Suizen-ji Jōju-en",
+    "name_en": "Suizen-ji Jōju-en",
+    "name_local": "水前寺成趣園",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 32.7911,
+      "lon": 130.7346
+    },
+    "address_vi": "8-1 Suizenji Koen, Chuo, TP Kumamoto",
+    "presentation_short_vi": "Vườn dạo Nhật Bản tái hiện 53 trạm dịch trên đường Tokaido, có gò đất mô phỏng núi Phú Sĩ soi bóng bên hồ nước trong.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=32.7911,130.7346",
+      "yandex": "https://yandex.com/maps/?pt=130.7346,32.7911&z=16&l=map"
+    },
+    "tags": [
+      "garden",
+      "top",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-kumamoto-mount-aso-nakadake",
+    "slug": "mount-aso-nakadake",
+    "region": "jp-kumamoto",
+    "country": "japan",
+    "region_name_vi": "Kumamoto",
+    "name_vi": "Núi lửa Aso (miệng Nakadake)",
+    "name_en": "Mount Aso (Nakadake Crater)",
+    "name_local": "阿蘇山 中岳火口",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 32.8844,
+      "lon": 131.0844
+    },
+    "address_vi": "Núi Aso, TP Aso",
+    "presentation_short_vi": "Núi lửa còn hoạt động với miệng phun Nakadake bốc khói, nằm trong một trong những vùng miệng núi lửa (caldera) lớn nhất thế giới.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=32.8844,131.0844",
+      "yandex": "https://yandex.com/maps/?pt=131.0844,32.8844&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "volcano",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-kumamoto-aso-shrine",
+    "slug": "aso-shrine",
+    "region": "jp-kumamoto",
+    "country": "japan",
+    "region_name_vi": "Kumamoto",
+    "name_vi": "Đền Aso",
+    "name_en": "Aso Shrine",
+    "name_local": "阿蘇神社",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 32.95,
+      "lon": 131.1192
+    },
+    "address_vi": "Ichinomiya, TP Aso",
+    "presentation_short_vi": "Một trong những ngôi đền cổ nhất Nhật Bản thờ thần núi Aso, nổi tiếng với cổng lâu 'rōmon' hai tầng đồ sộ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=32.95,131.1192",
+      "yandex": "https://yandex.com/maps/?pt=131.1192,32.95&z=16&l=map"
+    },
+    "tags": [
+      "shrine",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-kumamoto-kurokawa-onsen",
+    "slug": "kurokawa-onsen",
+    "region": "jp-kumamoto",
+    "country": "japan",
+    "region_name_vi": "Kumamoto",
+    "name_vi": "Suối nước nóng Kurokawa",
+    "name_en": "Kurokawa Onsen",
+    "name_local": "黒川温泉",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 33.0806,
+      "lon": 131.1442
+    },
+    "address_vi": "Manganji, Minamioguni, huyện Aso",
+    "presentation_short_vi": "Làng suối nước nóng nép bên khe suối với hàng chục quán trọ ryokan gỗ và bồn tắm lộ thiên, giữ trọn nét mộc mạc truyền thống.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=33.0806,131.1442",
+      "yandex": "https://yandex.com/maps/?pt=131.1442,33.0806&z=16&l=map"
+    },
+    "tags": [
+      "onsen",
+      "top",
+      "village"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-kumamoto-nabegataki",
+    "slug": "nabegataki",
+    "region": "jp-kumamoto",
+    "country": "japan",
+    "region_name_vi": "Kumamoto",
+    "name_vi": "Thác Nabegataki",
+    "name_en": "Nabegataki Falls",
+    "name_local": "鍋ヶ滝",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 33.1119,
+      "lon": 131.0261
+    },
+    "address_vi": "Kurokawa, Oguni, huyện Aso",
+    "presentation_short_vi": "Thác nước rộng rủ xuống như một tấm màn, du khách có thể đi vòng ra phía sau dòng nước để ngắm từ bên trong.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=33.1119,131.0261",
+      "yandex": "https://yandex.com/maps/?pt=131.0261,33.1119&z=16&l=map"
+    },
+    "tags": [
+      "waterfall",
+      "nature",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-kumamoto-daikanbo",
+    "slug": "daikanbo",
+    "region": "jp-kumamoto",
+    "country": "japan",
+    "region_name_vi": "Kumamoto",
+    "name_vi": "Đài ngắm cảnh Daikanbō",
+    "name_en": "Daikanbō Viewpoint",
+    "name_local": "大観峰",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 32.9808,
+      "lon": 131.0872
+    },
+    "address_vi": "Yamada, TP Aso",
+    "presentation_short_vi": "Điểm ngắm cao nhất trên vành caldera Aso, bao quát năm ngọn núi Aso xếp hình 'Đức Phật nằm' và biển mây buổi sớm.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=32.9808,131.0872",
+      "yandex": "https://yandex.com/maps/?pt=131.0872,32.9808&z=16&l=map"
+    },
+    "tags": [
+      "view",
+      "top",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-kumamoto-kikuchi-gorge",
+    "slug": "kikuchi-gorge",
+    "region": "jp-kumamoto",
+    "country": "japan",
+    "region_name_vi": "Kumamoto",
+    "name_vi": "Khe suối Kikuchi",
+    "name_en": "Kikuchi Gorge",
+    "name_local": "菊池渓谷",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 32.9772,
+      "lon": 131.0128
+    },
+    "address_vi": "Harayama, TP Kikuchi",
+    "presentation_short_vi": "Thung lũng suối trong vắt giữa rừng nguyên sinh với thác ghềnh và tán cây rợp bóng, mát lành mùa hè và rực đỏ mùa thu.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=32.9772,131.0128",
+      "yandex": "https://yandex.com/maps/?pt=131.0128,32.9772&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "valley",
+      "autumn"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-kumamoto-sakitsu-church",
+    "slug": "sakitsu-church",
+    "region": "jp-kumamoto",
+    "country": "japan",
+    "region_name_vi": "Kumamoto",
+    "name_vi": "Nhà thờ Sakitsu",
+    "name_en": "Sakitsu Church",
+    "name_local": "崎津教会",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 32.3277,
+      "lon": 130.0272
+    },
+    "address_vi": "Kawaura, TP Amakusa",
+    "presentation_short_vi": "Nhà thờ Công giáo kiểu Gothic nằm giữa làng chài, thuộc quần thể Di sản UNESCO về tín đồ Thiên Chúa giáo ẩn mình vùng Nagasaki–Amakusa.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=32.3277,130.0272",
+      "yandex": "https://yandex.com/maps/?pt=130.0272,32.3277&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "unesco",
+      "seaside"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-kumamoto-reigando",
+    "slug": "reigando",
+    "region": "jp-kumamoto",
+    "country": "japan",
+    "region_name_vi": "Kumamoto",
+    "name_vi": "Động Reigandō",
+    "name_en": "Reigandō Cave",
+    "name_local": "霊巌洞",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 32.7828,
+      "lon": 130.635
+    },
+    "address_vi": "Matsuo, Nishi-ku, TP Kumamoto",
+    "presentation_short_vi": "Hang đá linh thiêng nơi kiếm sĩ Miyamoto Musashi viết 'Ngũ Luân Thư', bao quanh là hàng trăm pho tượng La Hán bằng đá rêu phong.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=32.7828,130.635",
+      "yandex": "https://yandex.com/maps/?pt=130.635,32.7828&z=16&l=map"
+    },
+    "tags": [
+      "cave",
+      "historic",
+      "spiritual"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

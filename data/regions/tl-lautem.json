@@ -1,0 +1,219 @@
+[
+  {
+    "id": "tl-lautem-jaco-island",
+    "slug": "jaco-island",
+    "region": "tl-lautem",
+    "country": "timor-leste",
+    "region_name_vi": "Lautém",
+    "name_vi": "Đảo Jaco",
+    "name_en": "Jaco Island",
+    "name_local": "Ilha de Jaco",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": -8.425,
+      "lon": 127.325
+    },
+    "address_vi": "Mũi cực đông, Tutuala, Lautém, Timor-Leste",
+    "presentation_short_vi": "Hòn đảo thiêng không người ở tại cực đông Timor-Leste, bãi cát trắng và nước biển trong vắt; du khách đi thuyền nhỏ từ bãi Valu sang tắm biển và lặn ngắm san hô.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.325,-8.425&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-8.425,127.325"
+    },
+    "tags": [
+      "top",
+      "island",
+      "beach",
+      "snorkeling"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "tl-lautem-nino-konis-santana",
+    "slug": "nino-konis-santana",
+    "region": "tl-lautem",
+    "country": "timor-leste",
+    "region_name_vi": "Lautém",
+    "name_vi": "Vườn quốc gia Nino Konis Santana",
+    "name_en": "Nino Konis Santana National Park",
+    "name_local": "Parque Nacional Nino Konis Santana",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": -8.42,
+      "lon": 127.2
+    },
+    "address_vi": "Cực đông Timor-Leste, Lautém",
+    "presentation_short_vi": "Vườn quốc gia đầu tiên của Timor-Leste, bảo tồn rừng nhiệt đới, rạn san hô thuộc Tam giác San hô và đảo Jaco; nơi trú ngụ của nhiều loài chim đặc hữu và di chỉ nghệ thuật đá cổ.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.2,-8.42&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-8.42,127.2"
+    },
+    "tags": [
+      "top",
+      "national-park",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "tl-lautem-valu-beach",
+    "slug": "valu-beach",
+    "region": "tl-lautem",
+    "country": "timor-leste",
+    "region_name_vi": "Lautém",
+    "name_vi": "Bãi biển Valu (Valu Sere)",
+    "name_en": "Valu Beach",
+    "name_local": "Praia de Valu Sere",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": -8.4283,
+      "lon": 127.3092
+    },
+    "address_vi": "Cực đông đất liền, Tutuala, Lautém",
+    "presentation_short_vi": "Bãi biển ở điểm cực đông của đất liền Timor-Leste, đối diện đảo Jaco; là điểm xuất phát đi thuyền sang đảo và cắm trại ngắm hoàng hôn.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.3092,-8.4283&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-8.4283,127.3092"
+    },
+    "tags": [
+      "beach",
+      "camping"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "tl-lautem-tutuala",
+    "slug": "tutuala",
+    "region": "tl-lautem",
+    "country": "timor-leste",
+    "region_name_vi": "Lautém",
+    "name_vi": "Làng Tutuala và tranh đá Ili Kére Kére",
+    "name_en": "Tutuala and Ili Kére Kére rock art",
+    "name_local": "Tutuala / Ili Kére Kére",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": -8.3958,
+      "lon": 127.2669
+    },
+    "address_vi": "Tutuala, Lautém, Timor-Leste",
+    "presentation_short_vi": "Ngôi làng trên vách đá nhìn ra biển ở cực đông, gần hang Ili Kére Kére với những bức tranh đá cổ hàng nghìn năm tuổi; điểm dừng chân trước khi xuống bãi Valu.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.2669,-8.3958&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-8.3958,127.2669"
+    },
+    "tags": [
+      "village",
+      "rock-art",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "tl-lautem-com",
+    "slug": "com",
+    "region": "tl-lautem",
+    "country": "timor-leste",
+    "region_name_vi": "Lautém",
+    "name_vi": "Thị trấn biển Com",
+    "name_en": "Com",
+    "name_local": "Com",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": -8.3617,
+      "lon": 127.0489
+    },
+    "address_vi": "Bờ bắc Lautém, Timor-Leste",
+    "presentation_short_vi": "Làng chài yên bình bên bờ biển phía bắc với bãi cát và rạn san hô ven bờ; điểm nghỉ chân có bungalow, là cơ sở để khám phá vườn quốc gia phía đông.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.0489,-8.3617&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-8.3617,127.0489"
+    },
+    "tags": [
+      "beach",
+      "fishing-village",
+      "diving"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "tl-lautem-ira-lalaro",
+    "slug": "ira-lalaro",
+    "region": "tl-lautem",
+    "country": "timor-leste",
+    "region_name_vi": "Lautém",
+    "name_vi": "Hồ Ira Lalaro",
+    "name_en": "Lake Ira Lalaro",
+    "name_local": "Lagoa Ira Lalaro",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": -8.465,
+      "lon": 127.16
+    },
+    "address_vi": "Cao nguyên Fuiloro, Lautém, Timor-Leste",
+    "presentation_short_vi": "Hồ nước ngọt lớn nhất Timor-Leste nằm trong vườn quốc gia, là môi trường sống của cá sấu, chim nước và nhiều loài hoang dã; cảnh quan đầm lầy hoang sơ.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.16,-8.465&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-8.465,127.16"
+    },
+    "tags": [
+      "lake",
+      "wildlife",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "tl-lautem-lospalos",
+    "slug": "lospalos",
+    "region": "tl-lautem",
+    "country": "timor-leste",
+    "region_name_vi": "Lautém",
+    "name_vi": "Thị trấn Lospalos và nhà truyền thống Fataluku",
+    "name_en": "Lospalos",
+    "name_local": "Lospalos",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": -8.5172,
+      "lon": 127.0003
+    },
+    "address_vi": "Lospalos, thủ phủ Lautém, Timor-Leste",
+    "presentation_short_vi": "Thủ phủ của Lautém, nổi tiếng với những ngôi nhà truyền thống Fataluku mái cao vút độc đáo; là trung tâm văn hóa của người Fataluku vùng cực đông.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.0003,-8.5172&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-8.5172,127.0003"
+    },
+    "tags": [
+      "town",
+      "culture",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

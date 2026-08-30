@@ -1,0 +1,290 @@
+[
+  {
+    "id": "kr-incheon-chinatown",
+    "slug": "chinatown",
+    "region": "kr-incheon",
+    "region_name_vi": "Incheon",
+    "country": "korea",
+    "name_vi": "Khu phố Tàu Incheon (Chinatown)",
+    "name_en": "Incheon Chinatown",
+    "name_local": "인천 차이나타운",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 37.4749,
+      "lon": 126.6176
+    },
+    "address_vi": "Quận Jung, Incheon",
+    "presentation_short_vi": "Khu phố Tàu lâu đời và lớn nhất Hàn Quốc, hình thành từ năm 1883 gần cảng Incheon. Nổi tiếng với cổng tam quan rực rỡ, các quán mì tương đen jajangmyeon trứ danh và những con hẻm bích họa đầy màu sắc.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.6176,37.4749&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=37.4749,126.6176"
+    },
+    "tags": [
+      "chinatown",
+      "top",
+      "food",
+      "street"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-incheon-songdo-central-park",
+    "slug": "songdo-central-park",
+    "region": "kr-incheon",
+    "region_name_vi": "Incheon",
+    "country": "korea",
+    "name_vi": "Công viên Trung tâm Songdo",
+    "name_en": "Songdo Central Park",
+    "name_local": "송도 센트럴파크",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 37.3921,
+      "lon": 126.6397
+    },
+    "address_vi": "Quận Yeonsu, Incheon",
+    "presentation_short_vi": "Công viên hiện đại nằm giữa khu đô thị thông minh Songdo, lấy cảm hứng từ Central Park New York. Có kênh nước mặn cho thuyền chèo, thảm cỏ rộng và những tòa nhà chọc trời bao quanh.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.6397,37.3921&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=37.3921,126.6397"
+    },
+    "tags": [
+      "park",
+      "modern",
+      "top",
+      "songdo"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-incheon-wolmido",
+    "slug": "wolmido",
+    "region": "kr-incheon",
+    "region_name_vi": "Incheon",
+    "country": "korea",
+    "name_vi": "Đảo Wolmido",
+    "name_en": "Wolmido Island",
+    "name_local": "월미도",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 37.4736,
+      "lon": 126.5978
+    },
+    "address_vi": "Quận Jung, Incheon",
+    "presentation_short_vi": "Bán đảo ven biển nổi tiếng với phố văn hóa Wolmi, công viên giải trí, vòng đu quay và các quán hải sản. Điểm dạo chơi, ngắm hoàng hôn và đi phà quen thuộc của người Incheon.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.5978,37.4736&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=37.4736,126.5978"
+    },
+    "tags": [
+      "seaside",
+      "amusement",
+      "sunset",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-incheon-ganghwa-dolmen",
+    "slug": "ganghwa-dolmen",
+    "region": "kr-incheon",
+    "region_name_vi": "Incheon",
+    "country": "korea",
+    "name_vi": "Mộ đá Ganghwa (Bugeun-ri)",
+    "name_en": "Ganghwa Dolmen Site (Bugeun-ri)",
+    "name_local": "강화 부근리 지석묘",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 37.7419,
+      "lon": 126.4247
+    },
+    "address_vi": "Ganghwa-gun, Incheon",
+    "presentation_short_vi": "Ngôi mộ đá cự thạch (dolmen) khổng lồ thời tiền sử, biểu tượng của đảo Ganghwa và được UNESCO công nhận Di sản Thế giới. Phiến đá nắp nặng hàng chục tấn, minh chứng cho kỹ thuật của người xưa.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.4247,37.7419&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=37.7419,126.4247"
+    },
+    "tags": [
+      "unesco",
+      "dolmen",
+      "history",
+      "monument"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-incheon-grand-park",
+    "slug": "grand-park",
+    "region": "kr-incheon",
+    "region_name_vi": "Incheon",
+    "country": "korea",
+    "name_vi": "Công viên lớn Incheon (Incheon Grand Park)",
+    "name_en": "Incheon Grand Park",
+    "name_local": "인천대공원",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 37.4469,
+      "lon": 126.7569
+    },
+    "address_vi": "Quận Namdong, Incheon",
+    "presentation_short_vi": "Công viên rộng lớn dưới chân núi Gwanmosan với vườn thực vật, vườn hoa hồng, hồ nước và đường đạp xe. Điểm dã ngoại, ngắm lá đỏ mùa thu được người dân yêu thích.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.7569,37.4469&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=37.4469,126.7569"
+    },
+    "tags": [
+      "park",
+      "nature",
+      "cycling",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-incheon-sinpo-market",
+    "slug": "sinpo-market",
+    "region": "kr-incheon",
+    "region_name_vi": "Incheon",
+    "country": "korea",
+    "name_vi": "Chợ quốc tế Sinpo",
+    "name_en": "Sinpo International Market",
+    "name_local": "신포국제시장",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 37.4722,
+      "lon": 126.6262
+    },
+    "address_vi": "Quận Jung, Incheon",
+    "presentation_short_vi": "Khu chợ truyền thống hơn một thế kỷ tuổi ở trung tâm Incheon, nổi tiếng với gà rán Sinpo (dakgangjeong), bánh bao và các món ăn đường phố hấp dẫn.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.6262,37.4722&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=37.4722,126.6262"
+    },
+    "tags": [
+      "market",
+      "food",
+      "street",
+      "traditional"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-incheon-fairy-tale-village",
+    "slug": "fairy-tale-village",
+    "region": "kr-incheon",
+    "region_name_vi": "Incheon",
+    "country": "korea",
+    "name_vi": "Làng cổ tích Songwol-dong",
+    "name_en": "Songwol-dong Fairy Tale Village",
+    "name_local": "송월동 동화마을",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 37.4759,
+      "lon": 126.6152
+    },
+    "address_vi": "Quận Jung, Incheon",
+    "presentation_short_vi": "Ngôi làng được cải tạo thành thế giới cổ tích với những bức tường bích họa và mô hình nhân vật truyện quen thuộc như Bạch Tuyết, Peter Pan. Điểm chụp ảnh sống ảo cạnh Chinatown.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.6152,37.4759&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=37.4759,126.6152"
+    },
+    "tags": [
+      "mural",
+      "photo",
+      "family",
+      "street"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-incheon-jayu-park",
+    "slug": "jayu-park",
+    "region": "kr-incheon",
+    "region_name_vi": "Incheon",
+    "country": "korea",
+    "name_vi": "Công viên Tự Do (Jayu / Freedom Park)",
+    "name_en": "Jayu Park (Freedom Park)",
+    "name_local": "자유공원",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 37.4735,
+      "lon": 126.6205
+    },
+    "address_vi": "Quận Jung, Incheon",
+    "presentation_short_vi": "Công viên phương Tây đầu tiên của Hàn Quốc, mở năm 1888 trên đồi nhìn ra cảng Incheon. Có tượng tướng MacArthur và là điểm ngắm cảng, ngắm hoa anh đào mùa xuân.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.6205,37.4735&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=37.4735,126.6205"
+    },
+    "tags": [
+      "park",
+      "history",
+      "harbor-view",
+      "cherry-blossom"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-incheon-eurwangni-beach",
+    "slug": "eurwangni-beach",
+    "region": "kr-incheon",
+    "region_name_vi": "Incheon",
+    "country": "korea",
+    "name_vi": "Bãi biển Eurwangni",
+    "name_en": "Eurwangni Beach",
+    "name_local": "을왕리해수욕장",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 37.448,
+      "lon": 126.3738
+    },
+    "address_vi": "Đảo Yeongjong, quận Jung, Incheon",
+    "presentation_short_vi": "Bãi biển cát mịn trên đảo Yeongjong gần sân bay Incheon, nổi tiếng với hoàng hôn tuyệt đẹp và các nhà hàng hải sản, ngao nướng. Điểm nghỉ chân lý tưởng khi quá cảnh.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.3738,37.448&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=37.448,126.3738"
+    },
+    "tags": [
+      "beach",
+      "sunset",
+      "seafood",
+      "airport"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  }
+]

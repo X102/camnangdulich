@@ -1,0 +1,258 @@
+[
+  {
+    "id": "kr-seoul-gyeongbokgung",
+    "slug": "gyeongbokgung",
+    "region": "kr-seoul",
+    "region_name_vi": "Seoul",
+    "country": "korea",
+    "name_vi": "Cung Gyeongbokgung (Cảnh Phúc Cung)",
+    "name_en": "Gyeongbokgung Palace",
+    "name_local": "경복궁",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 37.5796,
+      "lon": 126.977
+    },
+    "address_vi": "161 Sajik-ro, quận Jongno, Seoul",
+    "presentation_short_vi": "Cung điện hoàng gia lớn và quan trọng nhất triều đại Joseon, xây năm 1395 dưới chân núi Bugaksan. Nổi tiếng với điện Geunjeongjeon, lầu Gyeonghoeru trên mặt nước và lễ đổi gác của lính canh mặc cổ phục.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.977,37.5796&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=37.5796,126.977"
+    },
+    "tags": [
+      "palace",
+      "top",
+      "history",
+      "joseon"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-seoul-changdeokgung",
+    "slug": "changdeokgung",
+    "region": "kr-seoul",
+    "region_name_vi": "Seoul",
+    "country": "korea",
+    "name_vi": "Cung Changdeokgung (Xương Đức Cung)",
+    "name_en": "Changdeokgung Palace",
+    "name_local": "창덕궁",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 37.5794,
+      "lon": 126.991
+    },
+    "address_vi": "99 Yulgok-ro, quận Jongno, Seoul",
+    "presentation_short_vi": "Cung điện triều Joseon được UNESCO công nhận Di sản Thế giới, nổi tiếng vì hòa hợp với địa hình tự nhiên. Điểm nhấn là Hậu Uyển (Biwon) – khu vườn bí mật thơ mộng phía sau cung.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.991,37.5794&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=37.5794,126.991"
+    },
+    "tags": [
+      "palace",
+      "unesco",
+      "top",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-seoul-bukchon-hanok",
+    "slug": "bukchon-hanok",
+    "region": "kr-seoul",
+    "region_name_vi": "Seoul",
+    "country": "korea",
+    "name_vi": "Làng cổ Bukchon Hanok",
+    "name_en": "Bukchon Hanok Village",
+    "name_local": "북촌한옥마을",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 37.5826,
+      "lon": 126.985
+    },
+    "address_vi": "Quận Jongno (giữa cung Gyeongbokgung và Changdeokgung), Seoul",
+    "presentation_short_vi": "Khu phố cổ với hàng trăm ngôi nhà truyền thống hanok nép trên sườn đồi giữa hai cung điện. Những con hẻm dốc lát đá là nơi lý tưởng để ngắm mái ngói cong và chụp ảnh Seoul xưa.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.985,37.5826&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=37.5826,126.985"
+    },
+    "tags": [
+      "hanok",
+      "top",
+      "history",
+      "photo"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-seoul-n-seoul-tower",
+    "slug": "n-seoul-tower",
+    "region": "kr-seoul",
+    "region_name_vi": "Seoul",
+    "country": "korea",
+    "name_vi": "Tháp N Seoul (Tháp Namsan)",
+    "name_en": "N Seoul Tower",
+    "name_local": "N서울타워",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 37.5512,
+      "lon": 126.9882
+    },
+    "address_vi": "105 Namsangongwon-gil, quận Yongsan, trên núi Namsan, Seoul",
+    "presentation_short_vi": "Tháp truyền hình cao 236 m trên đỉnh núi Namsan, biểu tượng của Seoul với đài quan sát ngắm toàn cảnh thành phố. Nổi tiếng với hàng rào 'khóa tình yêu' và tuyến cáp treo Namsan lên đỉnh.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.9882,37.5512&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=37.5512,126.9882"
+    },
+    "tags": [
+      "landmark",
+      "top",
+      "view",
+      "tower"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-seoul-myeongdong",
+    "slug": "myeongdong",
+    "region": "kr-seoul",
+    "region_name_vi": "Seoul",
+    "country": "korea",
+    "name_vi": "Phố mua sắm Myeongdong",
+    "name_en": "Myeongdong",
+    "name_local": "명동",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 37.5636,
+      "lon": 126.985
+    },
+    "address_vi": "Myeong-dong, quận Jung, Seoul",
+    "presentation_short_vi": "Khu mua sắm và ẩm thực sầm uất bậc nhất Seoul, thiên đường mỹ phẩm, thời trang và quà lưu niệm. Buổi tối các quầy ăn đường phố bày kín lối đi với đủ món ăn vặt Hàn Quốc.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.985,37.5636&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=37.5636,126.985"
+    },
+    "tags": [
+      "shopping",
+      "top",
+      "food",
+      "street"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-seoul-cheonggyecheon",
+    "slug": "cheonggyecheon",
+    "region": "kr-seoul",
+    "region_name_vi": "Seoul",
+    "country": "korea",
+    "name_vi": "Suối Cheonggyecheon",
+    "name_en": "Cheonggyecheon Stream",
+    "name_local": "청계천",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 37.5693,
+      "lon": 126.9784
+    },
+    "address_vi": "Bắt đầu từ quảng trường Cheonggye, quận Jongno, Seoul",
+    "presentation_short_vi": "Dòng suối dài gần 11 km chảy xuyên trung tâm Seoul, được phục hồi năm 2005 thành không gian đi bộ xanh mát. Buổi tối đèn và đài phun nước tạo nên khung cảnh lãng mạn giữa lòng phố.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.9784,37.5693&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=37.5693,126.9784"
+    },
+    "tags": [
+      "park",
+      "walk",
+      "urban",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-seoul-bongeunsa",
+    "slug": "bongeunsa",
+    "region": "kr-seoul",
+    "region_name_vi": "Seoul",
+    "country": "korea",
+    "name_vi": "Chùa Bongeunsa (Phụng Ân Tự)",
+    "name_en": "Bongeunsa Temple",
+    "name_local": "봉은사",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 37.5149,
+      "lon": 127.0577
+    },
+    "address_vi": "531 Bongeunsa-ro, quận Gangnam, Seoul",
+    "presentation_short_vi": "Ngôi chùa Phật giáo hơn nghìn năm tuổi nằm giữa khu Gangnam hiện đại, đối diện trung tâm COEX. Nổi bật với tượng Phật Di Lặc bằng đá cao 23 m và chương trình trải nghiệm ở lại chùa (templestay).",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.0577,37.5149&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=37.5149,127.0577"
+    },
+    "tags": [
+      "temple",
+      "buddhism",
+      "top",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-seoul-lotte-world-tower",
+    "slug": "lotte-world-tower",
+    "region": "kr-seoul",
+    "region_name_vi": "Seoul",
+    "country": "korea",
+    "name_vi": "Tháp Lotte World",
+    "name_en": "Lotte World Tower",
+    "name_local": "롯데월드타워",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 37.5126,
+      "lon": 127.1025
+    },
+    "address_vi": "300 Olympic-ro, quận Songpa, Seoul",
+    "presentation_short_vi": "Tòa nhà chọc trời cao 555 m với 123 tầng – công trình cao nhất Hàn Quốc và thuộc hàng cao nhất thế giới. Đài quan sát Seoul Sky trên đỉnh có sàn kính nhìn thẳng xuống thành phố.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=127.1025,37.5126&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=37.5126,127.1025"
+    },
+    "tags": [
+      "landmark",
+      "view",
+      "modern",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  }
+]

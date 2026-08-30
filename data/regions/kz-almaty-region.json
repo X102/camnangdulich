@@ -1,0 +1,205 @@
+[
+  {
+    "id": "kz-almaty-region-charyn-canyon",
+    "slug": "charyn-canyon",
+    "region": "kz-almaty-region",
+    "region_name_vi": "Vùng Almaty",
+    "country": "kazakhstan",
+    "name_vi": "Hẻm núi Charyn (Thung lũng Lâu đài)",
+    "name_en": "Charyn Canyon (Valley of Castles)",
+    "name_local": "Шарын шатқалы",
+    "name_ru": "Шарын шатқалы",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 43.3547,
+      "lon": 79.0783
+    },
+    "address_vi": "Vườn quốc gia Charyn, huyện Uygur, vùng Almaty, Kazakhstan (cách Almaty ~200 km về phía đông)",
+    "presentation_short_vi": "Hẻm núi Charyn với Thung lũng Lâu đài là kỳ quan thiên nhiên nổi tiếng nhất vùng Almaty, được ví như Grand Canyon của Kazakhstan. Những vách đá đỏ bị xói mòn thành hình lâu đài và cột tháp kỳ vĩ trải dài hàng cây số.",
+    "rating": null,
+    "tags": [
+      "top",
+      "nature",
+      "canyon",
+      "hiking"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kz-almaty-region-kaindy-lake",
+    "slug": "kaindy-lake",
+    "region": "kz-almaty-region",
+    "region_name_vi": "Vùng Almaty",
+    "country": "kazakhstan",
+    "name_vi": "Hồ Kaindy",
+    "name_en": "Lake Kaindy",
+    "name_local": "Қайыңды көлі",
+    "name_ru": "Қайыңды көлі",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 42.9848,
+      "lon": 78.4661
+    },
+    "address_vi": "Vườn quốc gia Kolsai, huyện Raiymbek, vùng Almaty, Kazakhstan",
+    "presentation_short_vi": "Hồ Kaindy nổi tiếng với khu rừng chìm - những thân cây vân sam khô vươn thẳng lên khỏi mặt nước xanh ngọc bích. Hồ hình thành sau trận động đất năm 1911 và là điểm đến độc đáo giữa núi rừng Thiên Sơn.",
+    "rating": null,
+    "tags": [
+      "nature",
+      "lake",
+      "forest",
+      "unique"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kz-almaty-region-kolsai-lakes",
+    "slug": "kolsai-lakes",
+    "region": "kz-almaty-region",
+    "region_name_vi": "Vùng Almaty",
+    "country": "kazakhstan",
+    "name_vi": "Hồ Kolsai",
+    "name_en": "Kolsai Lakes",
+    "name_local": "Көлсай көлдері",
+    "name_ru": "Көлсай көлдері",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 42.9247,
+      "lon": 78.3286
+    },
+    "address_vi": "Vườn quốc gia Kolsai, huyện Raiymbek, vùng Almaty, Kazakhstan",
+    "presentation_short_vi": "Hệ thống ba hồ Kolsai được mệnh danh là viên ngọc của Thiên Sơn, nằm giữa những sườn núi phủ rừng vân sam. Đây là điểm cắm trại, đi bộ đường dài và cưỡi ngựa được yêu thích bậc nhất vùng Almaty.",
+    "rating": null,
+    "tags": [
+      "nature",
+      "lake",
+      "mountain",
+      "hiking"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kz-almaty-region-big-almaty-lake",
+    "slug": "big-almaty-lake",
+    "region": "kz-almaty-region",
+    "region_name_vi": "Vùng Almaty",
+    "country": "kazakhstan",
+    "name_vi": "Hồ Almaty Lớn",
+    "name_en": "Big Almaty Lake",
+    "name_local": "Үлкен Алматы көлі",
+    "name_ru": "Үлкен Алматы көлі",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 43.0525,
+      "lon": 76.9847
+    },
+    "address_vi": "Vườn quốc gia Ile-Alatau, phía nam Almaty, vùng Almaty, Kazakhstan",
+    "presentation_short_vi": "Hồ Almaty Lớn là hồ băng tích màu xanh ngọc nằm ở độ cao khoảng 2.500 m, chỉ cách trung tâm Almaty chừng 15 km. Màu nước hồ đổi sắc theo mùa, được bao quanh bởi những đỉnh núi tuyết hùng vĩ.",
+    "rating": null,
+    "tags": [
+      "nature",
+      "lake",
+      "mountain",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kz-almaty-region-tamgaly-petroglyphs",
+    "slug": "tamgaly-petroglyphs",
+    "region": "kz-almaty-region",
+    "region_name_vi": "Vùng Almaty",
+    "country": "kazakhstan",
+    "name_vi": "Bãi khắc đá Tamgaly (UNESCO)",
+    "name_en": "Tamgaly Petroglyphs (UNESCO)",
+    "name_local": "Таңбалы петроглифтері",
+    "name_ru": "Таңбалы петроглифтері",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 43.8033,
+      "lon": 75.535
+    },
+    "address_vi": "Huyện Zhambyl, vùng Almaty, Kazakhstan (cách Almaty ~170 km về phía tây bắc)",
+    "presentation_short_vi": "Bãi khắc đá Tamgaly là Di sản Thế giới UNESCO với hơn 5.000 hình khắc trên đá có niên đại từ thời đồ đồng. Những hình mặt trời - thần, người và động vật phản ánh đời sống tín ngưỡng của cư dân thảo nguyên cổ xưa.",
+    "rating": null,
+    "tags": [
+      "unesco",
+      "history",
+      "petroglyphs",
+      "heritage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kz-almaty-region-issyk-lake",
+    "slug": "issyk-lake",
+    "region": "kz-almaty-region",
+    "region_name_vi": "Vùng Almaty",
+    "country": "kazakhstan",
+    "name_vi": "Hồ Issyk (Yesik)",
+    "name_en": "Lake Issyk (Yesik)",
+    "name_local": "Есік көлі",
+    "name_ru": "Есік көлі",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 43.2544,
+      "lon": 77.47
+    },
+    "address_vi": "Gần thị trấn Yesik, huyện Enbekshikazakh, vùng Almaty, Kazakhstan",
+    "presentation_short_vi": "Hồ Issyk là hồ núi cao màu xanh lam nằm trong hẻm núi cùng tên, cách Almaty khoảng 70 km. Gần đó là khu mộ cổ Issyk - nơi phát hiện Chiến binh Vàng (Golden Man) trứ danh của Kazakhstan.",
+    "rating": null,
+    "tags": [
+      "nature",
+      "lake",
+      "mountain",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kz-almaty-region-turgen-gorge",
+    "slug": "turgen-gorge",
+    "region": "kz-almaty-region",
+    "region_name_vi": "Vùng Almaty",
+    "country": "kazakhstan",
+    "name_vi": "Hẻm núi và thác Turgen",
+    "name_en": "Turgen Gorge and Waterfalls",
+    "name_local": "Түрген шатқалы",
+    "name_ru": "Түрген шатқалы",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 43.2,
+      "lon": 77.6
+    },
+    "address_vi": "Vườn quốc gia Ile-Alatau, gần làng Turgen, vùng Almaty, Kazakhstan",
+    "presentation_short_vi": "Hẻm núi Turgen nổi tiếng với chuỗi thác nước, suối khoáng nóng và những cánh rừng nguyên sinh trong Vườn quốc gia Ile-Alatau. Thác Gấu (Medvezhiy) cao khoảng 30 m là điểm đến được du khách yêu thích khi đi bộ đường dài.",
+    "rating": null,
+    "tags": [
+      "nature",
+      "waterfall",
+      "gorge",
+      "hiking"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "jp-chiba-tokyo-disneyland",
+    "slug": "tokyo-disneyland",
+    "region": "jp-chiba",
+    "country": "japan",
+    "region_name_vi": "Chiba",
+    "name_vi": "Tokyo Disneyland",
+    "name_en": "Tokyo Disneyland",
+    "name_local": "東京ディズニーランド",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.6329,
+      "lon": 139.8804
+    },
+    "address_vi": "1-1 Maihama, Urayasu",
+    "presentation_short_vi": "Công viên giải trí Disney đầu tiên ngoài nước Mỹ, mở cửa năm 1983, với lâu đài Cinderella biểu tượng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.6329,139.8804",
+      "yandex": "https://yandex.com/maps/?pt=139.8804,35.6329&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "themepark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-chiba-tokyo-disneysea",
+    "slug": "tokyo-disneysea",
+    "region": "jp-chiba",
+    "country": "japan",
+    "region_name_vi": "Chiba",
+    "name_vi": "Tokyo DisneySea",
+    "name_en": "Tokyo DisneySea",
+    "name_local": "東京ディズニーシー",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.6267,
+      "lon": 139.8851
+    },
+    "address_vi": "1-13 Maihama, Urayasu",
+    "presentation_short_vi": "Công viên chủ đề biển độc nhất thế giới của Disney, cảnh quan hải cảng lãng mạn và các khu phiêu lưu.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.6267,139.8851",
+      "yandex": "https://yandex.com/maps/?pt=139.8851,35.6267&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "themepark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-chiba-naritasan-shinshoji",
+    "slug": "naritasan-shinshoji",
+    "region": "jp-chiba",
+    "country": "japan",
+    "region_name_vi": "Chiba",
+    "name_vi": "Chùa Naritasan Shinshō-ji",
+    "name_en": "Naritasan Shinshō-ji",
+    "name_local": "成田山新勝寺",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 35.7862,
+      "lon": 140.3182
+    },
+    "address_vi": "1 Narita, Narita",
+    "presentation_short_vi": "Ngôi chùa Chân ngôn tông hơn 1.000 năm tuổi gần sân bay Narita, thu hút hàng triệu khách hành hương dịp năm mới.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.7862,140.3182",
+      "yandex": "https://yandex.com/maps/?pt=140.3182,35.7862&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "temple"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-chiba-mount-nokogiri",
+    "slug": "mount-nokogiri",
+    "region": "jp-chiba",
+    "country": "japan",
+    "region_name_vi": "Chiba",
+    "name_vi": "Núi Nokogiri (Nokogiriyama)",
+    "name_en": "Mount Nokogiri",
+    "name_local": "鋸山",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.1608,
+      "lon": 139.8281
+    },
+    "address_vi": "Kanaya, Futtsu",
+    "presentation_short_vi": "Núi 'lưỡi cưa' với vách đá 'Địa ngục soi bóng', tượng Phật khắc đá khổng lồ và chùa Nihon-ji cổ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.1608,139.8281",
+      "yandex": "https://yandex.com/maps/?pt=139.8281,35.1608&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "mountain",
+      "view"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-chiba-mother-farm",
+    "slug": "mother-farm",
+    "region": "jp-chiba",
+    "country": "japan",
+    "region_name_vi": "Chiba",
+    "name_vi": "Nông trại Mother Farm",
+    "name_en": "Mother Farm",
+    "name_local": "マザー牧場",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.2453,
+      "lon": 139.9075
+    },
+    "address_vi": "940-3 Tagura, Futtsu",
+    "presentation_short_vi": "Nông trại du lịch rộng lớn trên cao nguyên với cừu, bò, đồng hoa theo mùa và tầm nhìn ra vịnh Tokyo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.2453,139.9075",
+      "yandex": "https://yandex.com/maps/?pt=139.9075,35.2453&z=16&l=map"
+    },
+    "tags": [
+      "family",
+      "farm"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-chiba-kamogawa-sea-world",
+    "slug": "kamogawa-sea-world",
+    "region": "jp-chiba",
+    "country": "japan",
+    "region_name_vi": "Chiba",
+    "name_vi": "Thủy cung Kamogawa Sea World",
+    "name_en": "Kamogawa Sea World",
+    "name_local": "鴨川シーワールド",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 35.1114,
+      "lon": 140.0956
+    },
+    "address_vi": "1464-18 Higashicho, Kamogawa",
+    "presentation_short_vi": "Thủy cung biển nổi tiếng với màn trình diễn cá voi sát thủ (orca), cá heo và hơn 11.000 sinh vật biển.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.1114,140.0956",
+      "yandex": "https://yandex.com/maps/?pt=140.0956,35.1114&z=16&l=map"
+    },
+    "tags": [
+      "family",
+      "aquarium"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-chiba-inubosaki-lighthouse",
+    "slug": "inubosaki-lighthouse",
+    "region": "jp-chiba",
+    "country": "japan",
+    "region_name_vi": "Chiba",
+    "name_vi": "Hải đăng Inubōsaki",
+    "name_en": "Inubōsaki Lighthouse",
+    "name_local": "犬吠埼灯台",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 35.7078,
+      "lon": 140.8686
+    },
+    "address_vi": "9576 Inubosaki, Choshi",
+    "presentation_short_vi": "Ngọn hải đăng gạch trắng bên mũi Inubō, một trong những nơi đón bình minh sớm nhất Nhật Bản.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.7078,140.8686",
+      "yandex": "https://yandex.com/maps/?pt=140.8686,35.7078&z=16&l=map"
+    },
+    "tags": [
+      "view",
+      "lighthouse"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-chiba-chiba-port-tower",
+    "slug": "chiba-port-tower",
+    "region": "jp-chiba",
+    "country": "japan",
+    "region_name_vi": "Chiba",
+    "name_vi": "Tháp cảng Chiba",
+    "name_en": "Chiba Port Tower",
+    "name_local": "千葉ポートタワー",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 35.6001,
+      "lon": 140.1044
+    },
+    "address_vi": "1 Chuoko, Chuo, Chiba",
+    "presentation_short_vi": "Tháp quan sát bên vịnh Tokyo với sàn ngắm cảnh và quán cà phê, điểm ngắm hoàng hôn và đêm.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.6001,140.1044",
+      "yandex": "https://yandex.com/maps/?pt=140.1044,35.6001&z=16&l=map"
+    },
+    "tags": [
+      "view",
+      "tower"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-chiba-kujukuri-beach",
+    "slug": "kujukuri-beach",
+    "region": "jp-chiba",
+    "country": "japan",
+    "region_name_vi": "Chiba",
+    "name_vi": "Bãi biển Kujūkuri",
+    "name_en": "Kujūkuri Beach",
+    "name_local": "九十九里浜",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.5333,
+      "lon": 140.45
+    },
+    "address_vi": "Kujukuri, Sanmu",
+    "presentation_short_vi": "Bãi biển cát dài gần 60km ven Thái Bình Dương, nổi tiếng lướt sóng và ngắm bình minh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.5333,140.45",
+      "yandex": "https://yandex.com/maps/?pt=140.45,35.5333&z=16&l=map"
+    },
+    "tags": [
+      "beach"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-chiba-yoro-valley",
+    "slug": "yoro-valley",
+    "region": "jp-chiba",
+    "country": "japan",
+    "region_name_vi": "Chiba",
+    "name_vi": "Thung lũng Yōrō (Yorokeikoku)",
+    "name_en": "Yōrō Valley",
+    "name_local": "養老渓谷",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.2264,
+      "lon": 140.145
+    },
+    "address_vi": "Awamata, Otaki",
+    "presentation_short_vi": "Thung lũng suối với thác Awamata, đường hầm đá và rừng phong đỏ rực rỡ mùa thu.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.2264,140.145",
+      "yandex": "https://yandex.com/maps/?pt=140.145,35.2264&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "autumn"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

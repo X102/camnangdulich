@@ -1,0 +1,221 @@
+[
+  {
+    "id": "my-labuan-war-cemetery",
+    "slug": "war-cemetery",
+    "region": "my-labuan",
+    "region_name_vi": "Labuan",
+    "country": "malaysia",
+    "name_vi": "Nghĩa trang Chiến tranh Labuan",
+    "name_en": "Labuan War Cemetery",
+    "name_local": "Tanah Perkuburan Perang Labuan",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 5.28715,
+      "lon": 115.26228
+    },
+    "address_vi": "Jalan Tanjung Batu, Bandar Labuan",
+    "presentation_short_vi": "Nghĩa trang tưởng niệm gần 4.000 binh sĩ Khối Thịnh vượng chung tử trận trong Thế chiến II ở Bắc Borneo, những hàng bia mộ trắng trải giữa thảm cỏ xanh do CWGC chăm sóc.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=115.26228,5.28715&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=5.28715,115.26228"
+    },
+    "tags": [
+      "war_memorial",
+      "wwii",
+      "cwgc"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-labuan-peace-park",
+    "slug": "peace-park",
+    "region": "my-labuan",
+    "region_name_vi": "Labuan",
+    "country": "malaysia",
+    "name_vi": "Công viên Hòa bình & Điểm Đầu hàng",
+    "name_en": "Peace Park & Surrender Point",
+    "name_local": "Taman Damai / Tapak Penyerahan Diri",
+    "categories": [
+      "monument",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 5.33611,
+      "lon": 115.19944
+    },
+    "address_vi": "Kampung Layang-Layangan, Labuan",
+    "presentation_short_vi": "Công viên tưởng niệm nơi quân Nhật chính thức đầu hàng quân Đồng minh năm 1945, với khu vườn kiểu Nhật yên bình bên bãi biển Layang-Layangan.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=115.19944,5.33611&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=5.33611,115.19944"
+    },
+    "tags": [
+      "wwii",
+      "surrender_point",
+      "japanese_garden"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-labuan-chimney",
+    "slug": "chimney",
+    "region": "my-labuan",
+    "region_name_vi": "Labuan",
+    "country": "malaysia",
+    "name_vi": "Ống khói cổ Labuan (Bảo tàng Chimney)",
+    "name_en": "The Chimney (Chimney Museum)",
+    "name_local": "Cerobong Labuan / Muzium Chimney",
+    "categories": [
+      "monument",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 5.3877,
+      "lon": 115.2497
+    },
+    "address_vi": "Tanjung Kubong, Labuan",
+    "presentation_short_vi": "Ống khói gạch đỏ cao khoảng 32m ở Tanjung Kubong, di tích bí ẩn còn lại từ thời khai thác than thế kỷ 19, nay là bảo tàng kể lịch sử mỏ than của đảo.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=115.2497,5.3877&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=5.3877,115.2497"
+    },
+    "tags": [
+      "landmark",
+      "heritage",
+      "coal_mining"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-labuan-bird-park",
+    "slug": "bird-park",
+    "region": "my-labuan",
+    "region_name_vi": "Labuan",
+    "country": "malaysia",
+    "name_vi": "Vườn chim Labuan",
+    "name_en": "Labuan Bird Park",
+    "name_local": "Taman Burung Labuan",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 5.3808,
+      "lon": 115.24684
+    },
+    "address_vi": "Tanjung Kubong, Labuan",
+    "presentation_short_vi": "Vườn chim với ba mái vòm lớn nuôi nhiều loài chim nhiệt đới, điểm tham quan thiên nhiên nổi tiếng ở phía bắc đảo gần Tanjung Kubong.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=115.24684,5.3808&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=5.3808,115.24684"
+    },
+    "tags": [
+      "birds",
+      "nature",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-labuan-batu-manikar-beach",
+    "slug": "batu-manikar-beach",
+    "region": "my-labuan",
+    "region_name_vi": "Labuan",
+    "country": "malaysia",
+    "name_vi": "Bãi biển Batu Manikar",
+    "name_en": "Batu Manikar Beach",
+    "name_local": "Pantai Batu Manikar",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 5.36847,
+      "lon": 115.22289
+    },
+    "address_vi": "Batu Manikar, tây bắc Labuan",
+    "presentation_short_vi": "Bãi biển cát trắng thoai thoải ở phía tây bắc đảo, nước lặng và hoàng hôn đẹp, một trong những bãi tắm được yêu thích nhất Labuan.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=115.22289,5.36847&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=5.36847,115.22289"
+    },
+    "tags": [
+      "beach",
+      "sunset",
+      "swimming"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-labuan-marine-museum",
+    "slug": "marine-museum",
+    "region": "my-labuan",
+    "region_name_vi": "Labuan",
+    "country": "malaysia",
+    "name_vi": "Bảo tàng Hải dương Labuan",
+    "name_en": "Labuan Marine Museum",
+    "name_local": "Muzium Marin Labuan",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 5.274,
+      "lon": 115.253
+    },
+    "address_vi": "Kompleks Sukan Air Antarabangsa, Jalan Tanjung Purun, Bandar Labuan",
+    "presentation_short_vi": "Bảo tàng trưng bày hệ sinh thái biển, san hô và các loài sinh vật của vùng biển Labuan, nằm trong Khu liên hợp Thể thao Biển Quốc tế.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=115.253,5.274&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=5.274,115.253"
+    },
+    "tags": [
+      "marine_life",
+      "coral",
+      "sea_sports"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-labuan-labuan-museum",
+    "slug": "labuan-museum",
+    "region": "my-labuan",
+    "region_name_vi": "Labuan",
+    "country": "malaysia",
+    "name_vi": "Bảo tàng Labuan",
+    "name_en": "Labuan Museum",
+    "name_local": "Muzium Labuan",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 5.27684,
+      "lon": 115.24311
+    },
+    "address_vi": "Jalan Dewan, Bandar Labuan",
+    "presentation_short_vi": "Bảo tàng lịch sử - văn hóa trong tòa nhà kiểu thuộc địa trên phố Jalan Dewan, kể câu chuyện đa sắc tộc và quá khứ của đảo Labuan.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=115.24311,5.27684&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=5.27684,115.24311"
+    },
+    "tags": [
+      "history",
+      "culture",
+      "colonial"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

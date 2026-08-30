@@ -1,0 +1,281 @@
+[
+  {
+    "id": "my-kelantan-muhammadi-mosque",
+    "slug": "muhammadi-mosque",
+    "region": "my-kelantan",
+    "region_name_vi": "Kelantan",
+    "country": "malaysia",
+    "name_vi": "Thánh đường Muhammadi",
+    "name_en": "Muhammadi Mosque (Kelantan State Mosque)",
+    "name_local": "Masjid Muhammadi",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 6.1305,
+      "lon": 102.2398
+    },
+    "address_vi": "Kota Bharu, Kelantan",
+    "presentation_short_vi": "Thánh đường bang Kelantan khánh thành năm 1926, trung tâm sinh hoạt tôn giáo và học thuật Hồi giáo của bang.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=102.2398,6.1305&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=6.1305,102.2398"
+    },
+    "tags": [
+      "mosque",
+      "islamic",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-kelantan-istana-jahar",
+    "slug": "istana-jahar",
+    "region": "my-kelantan",
+    "region_name_vi": "Kelantan",
+    "country": "malaysia",
+    "name_vi": "Cung điện Istana Jahar",
+    "name_en": "Istana Jahar (Royal Customs Museum)",
+    "name_local": "Istana Jahar",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 6.1318,
+      "lon": 102.2372
+    },
+    "address_vi": "Khu văn hóa, Kota Bharu, Kelantan",
+    "presentation_short_vi": "Cung điện gỗ xây năm 1887, nay là Bảo tàng Nghi lễ và Phong tục Hoàng gia với hiện vật cưới hỏi, nghi thức truyền thống Kelantan.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=102.2372,6.1318&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=6.1318,102.2372"
+    },
+    "tags": [
+      "palace",
+      "museum",
+      "heritage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-kelantan-istana-balai-besar",
+    "slug": "istana-balai-besar",
+    "region": "my-kelantan",
+    "region_name_vi": "Kelantan",
+    "country": "malaysia",
+    "name_vi": "Cung điện Balai Besar",
+    "name_en": "Istana Balai Besar (Palace of the Grand Audience Hall)",
+    "name_local": "Istana Balai Besar",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 6.1323,
+      "lon": 102.2378
+    },
+    "address_vi": "Khu văn hóa, Kota Bharu, Kelantan",
+    "presentation_short_vi": "Cung điện hoàng gia xây năm 1844 dưới thời Sultan Muhammad II, nơi diễn ra các nghi lễ đăng quang và triều chính của vương triều Kelantan.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=102.2378,6.1323&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=6.1323,102.2378"
+    },
+    "tags": [
+      "palace",
+      "heritage",
+      "royal"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-kelantan-pasar-siti-khadijah",
+    "slug": "pasar-besar-siti-khadijah",
+    "region": "my-kelantan",
+    "region_name_vi": "Kelantan",
+    "country": "malaysia",
+    "name_vi": "Chợ Siti Khadijah",
+    "name_en": "Siti Khadijah Central Market",
+    "name_local": "Pasar Besar Siti Khadijah",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 6.1265,
+      "lon": 102.2388
+    },
+    "address_vi": "Kota Bharu, Kelantan",
+    "presentation_short_vi": "Khu chợ trung tâm mang tên nữ thương nhân Siti Khadijah, nổi bật với tiểu thương nữ, sản vật địa phương và tầng trên chụp ảnh toàn cảnh.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=102.2388,6.1265&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=6.1265,102.2388"
+    },
+    "tags": [
+      "market",
+      "local_life",
+      "food"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-kelantan-wat-photivihan",
+    "slug": "wat-photivihan",
+    "region": "my-kelantan",
+    "region_name_vi": "Kelantan",
+    "country": "malaysia",
+    "name_vi": "Chùa Wat Photivihan (Phật nằm)",
+    "name_en": "Wat Photivihan (Reclining Buddha)",
+    "name_local": "Wat Photivihan",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 6.1897,
+      "lon": 102.1615
+    },
+    "address_vi": "Kampung Jubakar, Tumpat, Kelantan",
+    "presentation_short_vi": "Chùa Phật giáo Thái với tượng Phật nằm dài khoảng 40m, một trong những tượng Phật nằm lớn nhất Đông Nam Á.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=102.1615,6.1897&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=6.1897,102.1615"
+    },
+    "tags": [
+      "temple",
+      "buddhist",
+      "statue"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-kelantan-pantai-cahaya-bulan",
+    "slug": "pantai-cahaya-bulan",
+    "region": "my-kelantan",
+    "region_name_vi": "Kelantan",
+    "country": "malaysia",
+    "name_vi": "Bãi biển Cahaya Bulan (PCB)",
+    "name_en": "Pantai Cahaya Bulan (Moonlight Beach)",
+    "name_local": "Pantai Cahaya Bulan",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 6.192,
+      "lon": 102.292
+    },
+    "address_vi": "Kota Bharu, Kelantan",
+    "presentation_short_vi": "Bãi biển nổi tiếng cách Kota Bharu khoảng 10km, có hàng dừa, quán hải sản và hoàng hôn đẹp.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=102.292,6.192&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=6.192,102.292"
+    },
+    "tags": [
+      "beach",
+      "seafood",
+      "sunset"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-kelantan-gunung-stong-state-park",
+    "slug": "gunung-stong-state-park",
+    "region": "my-kelantan",
+    "region_name_vi": "Kelantan",
+    "country": "malaysia",
+    "name_vi": "Công viên Bang Núi Stong",
+    "name_en": "Gunung Stong State Park",
+    "name_local": "Taman Negeri Gunung Stong",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 5.356,
+      "lon": 101.966
+    },
+    "address_vi": "Dabong, Kuala Krai, Kelantan",
+    "presentation_short_vi": "Khu rừng nguyên sinh với thác Jelawang bảy tầng (một trong những thác cao nhất Đông Nam Á), điểm leo núi và trekking.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.966,5.356&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=5.356,101.966"
+    },
+    "tags": [
+      "nature",
+      "waterfall",
+      "trekking"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-kelantan-kelantan-state-museum",
+    "slug": "kelantan-state-museum",
+    "region": "my-kelantan",
+    "region_name_vi": "Kelantan",
+    "country": "malaysia",
+    "name_vi": "Bảo tàng Bang Kelantan",
+    "name_en": "Kelantan State Museum",
+    "name_local": "Muzium Negeri Kelantan",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 6.1258,
+      "lon": 102.244
+    },
+    "address_vi": "Kota Bharu, Kelantan",
+    "presentation_short_vi": "Bảo tàng trưng bày lịch sử, văn hóa, nghệ thuật và đời sống hoàng gia của bang Kelantan trong tòa nhà cổ.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=102.244,6.1258&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=6.1258,102.244"
+    },
+    "tags": [
+      "museum",
+      "culture",
+      "heritage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-kelantan-wat-machimmaram",
+    "slug": "wat-machimmaram",
+    "region": "my-kelantan",
+    "region_name_vi": "Kelantan",
+    "country": "malaysia",
+    "name_vi": "Chùa Wat Machimmaram (Phật ngồi)",
+    "name_en": "Wat Machimmaram (Sitting Buddha)",
+    "name_local": "Wat Machimmaram",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 6.177,
+      "lon": 102.177
+    },
+    "address_vi": "Kampung Jambu, Tumpat, Kelantan",
+    "presentation_short_vi": "Chùa Thái với tượng Phật ngồi khổng lồ cao khoảng 30m, một trong những tượng Phật ngồi lớn nhất Đông Nam Á.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=102.177,6.177&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=6.177,102.177"
+    },
+    "tags": [
+      "temple",
+      "buddhist",
+      "statue"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

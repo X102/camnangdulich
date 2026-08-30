@@ -1,0 +1,222 @@
+[
+  {
+    "id": "kh-takeo-phnom-chisor",
+    "slug": "phnom-chisor",
+    "region": "kh-takeo",
+    "region_name_vi": "Takeo",
+    "country": "cambodia",
+    "name_vi": "Đền Phnom Chisor",
+    "name_en": "Phnom Chisor",
+    "name_local": "ភ្នំជីសូរ",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 11.1836,
+      "lon": 104.8237
+    },
+    "address_vi": "Huyện Samraong, tỉnh Takeo",
+    "presentation_short_vi": "Đền Hindu thế kỷ 11 thời vua Suryavarman I, tọa lạc trên đỉnh núi cao 133 m với bậc thang dài dẫn lên và tầm nhìn bao quát cả vùng đồng bằng.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.8237,11.1836&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=11.1836,104.8237"
+    },
+    "tags": [
+      "angkorian",
+      "hindu_temple",
+      "hilltop"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kh-takeo-ta-prohm-tonle-bati",
+    "slug": "ta-prohm-tonle-bati",
+    "region": "kh-takeo",
+    "region_name_vi": "Takeo",
+    "country": "cambodia",
+    "name_vi": "Đền Ta Prohm (Tonle Bati)",
+    "name_en": "Ta Prohm Temple (Tonle Bati)",
+    "name_local": "ប្រាសាទតាព្រហ្ម",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 11.3628,
+      "lon": 104.8272
+    },
+    "address_vi": "Xã Tonle Bati, huyện Bati, tỉnh Takeo",
+    "presentation_short_vi": "Đền đá ong thời vua Jayavarman VII (cuối thế kỷ 12) bên hồ Tonle Bati, nổi tiếng với những phù điêu chạm khắc tinh xảo còn khá nguyên vẹn.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.8272,11.3628&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=11.3628,104.8272"
+    },
+    "tags": [
+      "angkorian",
+      "laterite_temple",
+      "jayavarman_vii"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kh-takeo-yeay-peau",
+    "slug": "yeay-peau",
+    "region": "kh-takeo",
+    "region_name_vi": "Takeo",
+    "country": "cambodia",
+    "name_vi": "Đền Yeay Peau",
+    "name_en": "Yeay Peau Temple",
+    "name_local": "ប្រាសាទយាយពៅ",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 11.3641,
+      "lon": 104.8286
+    },
+    "address_vi": "Xã Tonle Bati, huyện Bati, tỉnh Takeo",
+    "presentation_short_vi": "Ngôi đền nhỏ nằm sát Ta Prohm, gắn với truyền thuyết dân gian về nàng Peau, nay tọa lạc trong khuôn viên một ngôi chùa.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.8286,11.3641&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=11.3641,104.8286"
+    },
+    "tags": [
+      "angkorian",
+      "legend"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kh-takeo-tonle-bati-lake",
+    "slug": "tonle-bati-lake",
+    "region": "kh-takeo",
+    "region_name_vi": "Takeo",
+    "country": "cambodia",
+    "name_vi": "Hồ Tonle Bati",
+    "name_en": "Tonle Bati Lake",
+    "name_local": "ទន្លេបាទី",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 11.3702,
+      "lon": 104.8319
+    },
+    "address_vi": "Huyện Bati, tỉnh Takeo",
+    "presentation_short_vi": "Hồ nước cách Phnom Penh khoảng 30 km về phía nam, điểm dã ngoại cuối tuần quen thuộc với những chòi lá nổi trên mặt nước.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.8319,11.3702&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=11.3702,104.8319"
+    },
+    "tags": [
+      "lake",
+      "picnic",
+      "weekend"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kh-takeo-angkor-borei",
+    "slug": "angkor-borei",
+    "region": "kh-takeo",
+    "region_name_vi": "Takeo",
+    "country": "cambodia",
+    "name_vi": "Thành cổ Angkor Borei & Bảo tàng",
+    "name_en": "Angkor Borei & Museum",
+    "name_local": "អង្គរបុរី",
+    "categories": [
+      "museum",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 10.9903,
+      "lon": 104.9706
+    },
+    "address_vi": "Huyện Angkor Borei, tỉnh Takeo",
+    "presentation_short_vi": "Đô thị cổ của vương quốc Phù Nam (Funan) — một trong những nơi định cư lâu đời nhất Campuchia, có bảo tàng trưng bày hiện vật thời tiền Angkor.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.9706,10.9903&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=10.9903,104.9706"
+    },
+    "tags": [
+      "funan",
+      "pre_angkorian",
+      "archaeology"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kh-takeo-phnom-da",
+    "slug": "phnom-da",
+    "region": "kh-takeo",
+    "region_name_vi": "Takeo",
+    "country": "cambodia",
+    "name_vi": "Đền Phnom Da",
+    "name_en": "Phnom Da",
+    "name_local": "ភ្នំដា",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 10.9683,
+      "lon": 104.9878
+    },
+    "address_vi": "Huyện Angkor Borei, tỉnh Takeo",
+    "presentation_short_vi": "Ngôi đền gạch thế kỷ 6 trên một quả đồi gần Angkor Borei, gắn với phong cách điêu khắc Phnom Da sớm nhất của nghệ thuật Khmer.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.9878,10.9683&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=10.9683,104.9878"
+    },
+    "tags": [
+      "funan",
+      "pre_angkorian",
+      "brick_temple"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kh-takeo-phnom-tamao",
+    "slug": "phnom-tamao",
+    "region": "kh-takeo",
+    "region_name_vi": "Takeo",
+    "country": "cambodia",
+    "name_vi": "Khu cứu hộ động vật hoang dã Phnom Tamao",
+    "name_en": "Phnom Tamao Wildlife Rescue Centre",
+    "name_local": "ភ្នំតាម៉ៅ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 11.3153,
+      "lon": 104.7814
+    },
+    "address_vi": "Huyện Bati, tỉnh Takeo",
+    "presentation_short_vi": "Trung tâm cứu hộ và bảo tồn động vật hoang dã lớn nhất Campuchia, chăm sóc hổ, voi, gấu và nhiều loài quý hiếm được giải cứu.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.7814,11.3153&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=11.3153,104.7814"
+    },
+    "tags": [
+      "wildlife",
+      "conservation",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

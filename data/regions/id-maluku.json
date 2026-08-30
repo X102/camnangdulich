@@ -1,0 +1,256 @@
+[
+  {
+    "id": "id-maluku-fort-belgica",
+    "slug": "fort-belgica",
+    "region": "id-maluku",
+    "country": "indonesia",
+    "region_name_vi": "Maluku",
+    "name_vi": "Pháo đài Belgica",
+    "name_en": "Fort Belgica",
+    "name_local": "Benteng Belgica",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": -4.526,
+      "lon": 129.897
+    },
+    "address_vi": "Banda Neira, quần đảo Banda, Trung Maluku, Maluku, Indonesia",
+    "presentation_short_vi": "Pháo đài Belgica hình ngũ giác do người Hà Lan xây năm 1611 trên đảo Banda Neira, từng canh giữ tuyến buôn nhục đậu khấu và nay nhìn bao quát núi lửa Banda Api cùng biển Banda.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=129.897,-4.526&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-4.526,129.897"
+    },
+    "tags": [
+      "heritage",
+      "history",
+      "fortress",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-maluku-banda-api-volcano",
+    "slug": "banda-api-volcano",
+    "region": "id-maluku",
+    "country": "indonesia",
+    "region_name_vi": "Maluku",
+    "name_vi": "Núi lửa Banda Api",
+    "name_en": "Banda Api Volcano",
+    "name_local": "Gunung Api Banda",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": -4.523,
+      "lon": 129.881
+    },
+    "address_vi": "Đảo Banda Api, quần đảo Banda, Trung Maluku, Maluku, Indonesia",
+    "presentation_short_vi": "Banda Api là núi lửa đang hoạt động vươn lên giữa quần đảo Banda, có thể leo lên đỉnh ngắm toàn cảnh và lặn ngắm rạn san hô hồi sinh quanh dòng dung nham cũ.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=129.881,-4.523&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-4.523,129.881"
+    },
+    "tags": [
+      "volcano",
+      "hiking",
+      "diving",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-maluku-pintu-kota-beach",
+    "slug": "pintu-kota-beach",
+    "region": "id-maluku",
+    "country": "indonesia",
+    "region_name_vi": "Maluku",
+    "name_vi": "Bãi biển Pintu Kota",
+    "name_en": "Pintu Kota Beach",
+    "name_local": "Pantai Pintu Kota",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": -3.795,
+      "lon": 128.115
+    },
+    "address_vi": "Latuhalat, Nam Leitimur, thành phố Ambon, Maluku, Indonesia",
+    "presentation_short_vi": "Bãi biển Pintu Kota ở nam đảo Ambon nổi tiếng với vòm đá lớn nhô ra biển tạo thành 'cổng thành' tự nhiên, là biểu tượng du lịch của Ambon.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=128.115,-3.795&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-3.795,128.115"
+    },
+    "tags": [
+      "beach",
+      "rock-arch",
+      "coast",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-maluku-natsepa-beach",
+    "slug": "natsepa-beach",
+    "region": "id-maluku",
+    "country": "indonesia",
+    "region_name_vi": "Maluku",
+    "name_vi": "Bãi biển Natsepa",
+    "name_en": "Natsepa Beach",
+    "name_local": "Pantai Natsepa",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": -3.626,
+      "lon": 128.302
+    },
+    "address_vi": "Suli, Salahutu, huyện Trung Maluku, Maluku, Indonesia",
+    "presentation_short_vi": "Bãi biển Natsepa có cát trắng thoai thoải và nước lặng, nổi tiếng với món gỏi xoài rujak Natsepa, là điểm tắm biển được yêu thích gần Ambon.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=128.302,-3.626&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-3.626,128.302"
+    },
+    "tags": [
+      "beach",
+      "swimming",
+      "family",
+      "food"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-maluku-liang-beach",
+    "slug": "liang-beach",
+    "region": "id-maluku",
+    "country": "indonesia",
+    "region_name_vi": "Maluku",
+    "name_vi": "Bãi biển Liang",
+    "name_en": "Liang Beach",
+    "name_local": "Pantai Liang (Hunimua)",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": -3.548,
+      "lon": 128.36
+    },
+    "address_vi": "Liang, Salahutu, huyện Trung Maluku, Maluku, Indonesia",
+    "presentation_short_vi": "Bãi biển Liang (Hunimua) ở đông bắc đảo Ambon có cát trắng mịn và làn nước xanh ngọc, từng được bình chọn là một trong những bãi biển đẹp nhất Indonesia.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=128.36,-3.548&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-3.548,128.36"
+    },
+    "tags": [
+      "beach",
+      "white-sand",
+      "swimming"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-maluku-ora-beach",
+    "slug": "ora-beach",
+    "region": "id-maluku",
+    "country": "indonesia",
+    "region_name_vi": "Maluku",
+    "name_vi": "Bãi biển Ora",
+    "name_en": "Ora Beach",
+    "name_local": "Pantai Ora",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": -2.958,
+      "lon": 129.653
+    },
+    "address_vi": "Bờ bắc đảo Seram, huyện Trung Maluku, Maluku, Indonesia",
+    "presentation_short_vi": "Bãi biển Ora bên bờ bắc đảo Seram có các nhà nghỉ nổi trên mặt nước trong vắt cùng rạn san hô sát bờ, được ví như thiên đường nhiệt đới của Maluku.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=129.653,-2.958&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-2.958,129.653"
+    },
+    "tags": [
+      "beach",
+      "resort",
+      "snorkeling",
+      "coral"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-maluku-manusela-national-park",
+    "slug": "manusela-national-park",
+    "region": "id-maluku",
+    "country": "indonesia",
+    "region_name_vi": "Maluku",
+    "name_vi": "Vườn quốc gia Manusela",
+    "name_en": "Manusela National Park",
+    "name_local": "Taman Nasional Manusela",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": -3.1,
+      "lon": 129.55
+    },
+    "address_vi": "Đảo Seram, huyện Trung Maluku, Maluku, Indonesia",
+    "presentation_short_vi": "Vườn quốc gia Manusela trải rộng giữa đảo Seram với rừng mưa, núi cao và nhiều loài chim đặc hữu như vẹt Moluccan, là điểm trekking và quan sát thiên nhiên hàng đầu.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=129.55,-3.1&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-3.1,129.55"
+    },
+    "tags": [
+      "national-park",
+      "rainforest",
+      "birdwatching",
+      "trekking"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "id-maluku-fort-amsterdam",
+    "slug": "fort-amsterdam",
+    "region": "id-maluku",
+    "country": "indonesia",
+    "region_name_vi": "Maluku",
+    "name_vi": "Pháo đài Amsterdam",
+    "name_en": "Fort Amsterdam",
+    "name_local": "Benteng Amsterdam",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": -3.596,
+      "lon": 128.083
+    },
+    "address_vi": "Hila, Leihitu, huyện Trung Maluku, đảo Ambon, Maluku, Indonesia",
+    "presentation_short_vi": "Pháo đài Amsterdam ở làng Hila (đảo Ambon) là công trình phòng thủ ba tầng của người Hà Lan thế kỷ 17 xây trên nền tháp Bồ Đào Nha, gắn với lịch sử buôn bán hương liệu.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=128.083,-3.596&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-3.596,128.083"
+    },
+    "tags": [
+      "heritage",
+      "history",
+      "fortress"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

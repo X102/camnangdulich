@@ -1,0 +1,308 @@
+[
+  {
+    "id": "th-rayong-ko-samet",
+    "slug": "ko-samet",
+    "region": "th-rayong",
+    "country": "thailand",
+    "region_name_vi": "Rayong",
+    "name_vi": "Đảo Ko Samet",
+    "name_en": "Ko Samet",
+    "name_local": "เกาะเสม็ด",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 12.5667,
+      "lon": 101.45
+    },
+    "address_vi": "Huyện Mueang Rayong, tỉnh Rayong",
+    "rating": null,
+    "presentation_short_vi": "Đảo nghỉ dưỡng nổi tiếng gần Bangkok với bãi cát trắng mịn và nước biển trong xanh, thuộc Vườn quốc gia Khao Laem Ya–Mu Ko Samet.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=101.45,12.5667&z=17&pt=101.45,12.5667",
+      "google": "https://www.google.com/maps/search/?api=1&query=12.5667,101.45"
+    },
+    "tags": [
+      "island",
+      "beach",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-rayong-hat-sai-kaew",
+    "slug": "hat-sai-kaew",
+    "region": "th-rayong",
+    "country": "thailand",
+    "region_name_vi": "Rayong",
+    "name_vi": "Bãi biển Sai Kaew",
+    "name_en": "Sai Kaew Beach (Hat Sai Kaew)",
+    "name_local": "หาดทรายแก้ว",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 12.5745,
+      "lon": 101.4581
+    },
+    "address_vi": "Đảo Ko Samet, huyện Mueang Rayong, tỉnh Rayong",
+    "rating": null,
+    "presentation_short_vi": "Bãi biển dài và nhộn nhịp nhất Ko Samet với cát trắng mịn như pha lê, nhiều resort, nhà hàng và show múa lửa buổi tối.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=101.4581,12.5745&z=17&pt=101.4581,12.5745",
+      "google": "https://www.google.com/maps/search/?api=1&query=12.5745,101.4581"
+    },
+    "tags": [
+      "beach",
+      "nightlife"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-rayong-ao-wong-duean",
+    "slug": "ao-wong-duean",
+    "region": "th-rayong",
+    "country": "thailand",
+    "region_name_vi": "Rayong",
+    "name_vi": "Vịnh Wong Duean",
+    "name_en": "Ao Wong Duean",
+    "name_local": "อ่าววงเดือน",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 12.5586,
+      "lon": 101.46
+    },
+    "address_vi": "Đảo Ko Samet, huyện Mueang Rayong, tỉnh Rayong",
+    "rating": null,
+    "presentation_short_vi": "Vịnh hình lưỡi liềm êm đềm ở bờ đông Ko Samet, nước lặng thích hợp tắm biển và các hoạt động dưới nước.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=101.46,12.5586&z=17&pt=101.46,12.5586",
+      "google": "https://www.google.com/maps/search/?api=1&query=12.5586,101.46"
+    },
+    "tags": [
+      "beach",
+      "bay"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-rayong-ao-phrao",
+    "slug": "ao-phrao",
+    "region": "th-rayong",
+    "country": "thailand",
+    "region_name_vi": "Rayong",
+    "name_vi": "Vịnh Phrao (Paradise Bay)",
+    "name_en": "Ao Phrao",
+    "name_local": "อ่าวพร้าว",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 12.5661,
+      "lon": 101.4497
+    },
+    "address_vi": "Đảo Ko Samet, huyện Mueang Rayong, tỉnh Rayong",
+    "rating": null,
+    "presentation_short_vi": "Bãi biển duy nhất ở bờ tây Ko Samet, yên tĩnh và là nơi ngắm hoàng hôn đẹp nhất đảo.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=101.4497,12.5661&z=17&pt=101.4497,12.5661",
+      "google": "https://www.google.com/maps/search/?api=1&query=12.5661,101.4497"
+    },
+    "tags": [
+      "beach",
+      "sunset"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-rayong-khao-laem-ya-national-park",
+    "slug": "khao-laem-ya-national-park",
+    "region": "th-rayong",
+    "country": "thailand",
+    "region_name_vi": "Rayong",
+    "name_vi": "Vườn quốc gia Khao Laem Ya–Mu Ko Samet",
+    "name_en": "Khao Laem Ya–Mu Ko Samet National Park",
+    "name_local": "อุทยานแห่งชาติเขาแหลมหญ้า-หมู่เกาะเสม็ด",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 12.6086,
+      "lon": 101.453
+    },
+    "address_vi": "Huyện Mueang Rayong, tỉnh Rayong",
+    "rating": null,
+    "presentation_short_vi": "Vườn quốc gia biển gồm mũi Laem Ya, bãi Mae Ramphueng và cụm đảo Samet, nổi tiếng với bãi cát trắng và rạn san hô.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=101.453,12.6086&z=17&pt=101.453,12.6086",
+      "google": "https://www.google.com/maps/search/?api=1&query=12.6086,101.453"
+    },
+    "tags": [
+      "national_park",
+      "cape",
+      "marine"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-rayong-ban-phe",
+    "slug": "ban-phe",
+    "region": "th-rayong",
+    "country": "thailand",
+    "region_name_vi": "Rayong",
+    "name_vi": "Thị trấn cảng Ban Phe",
+    "name_en": "Ban Phe",
+    "name_local": "บ้านเพ",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 12.6281,
+      "lon": 101.4285
+    },
+    "address_vi": "Huyện Mueang Rayong, tỉnh Rayong",
+    "rating": null,
+    "presentation_short_vi": "Thị trấn cảng cửa ngõ ra Ko Samet, nổi tiếng với chợ hải sản tươi và các món đặc sản khô của Rayong.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=101.4285,12.6281&z=17&pt=101.4285,12.6281",
+      "google": "https://www.google.com/maps/search/?api=1&query=12.6281,101.4285"
+    },
+    "tags": [
+      "pier",
+      "market",
+      "seafood"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-rayong-mae-ramphueng-beach",
+    "slug": "mae-ramphueng-beach",
+    "region": "th-rayong",
+    "country": "thailand",
+    "region_name_vi": "Rayong",
+    "name_vi": "Bãi biển Mae Ramphueng",
+    "name_en": "Mae Ramphueng Beach",
+    "name_local": "หาดแม่รำพึง",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 12.617,
+      "lon": 101.475
+    },
+    "address_vi": "Huyện Mueang Rayong, tỉnh Rayong",
+    "rating": null,
+    "presentation_short_vi": "Bãi biển cát trắng dài nhiều km trên đất liền gần Ban Phe, hàng phi lao rợp bóng, thích hợp dạo biển và cắm trại.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=101.475,12.617&z=17&pt=101.475,12.617",
+      "google": "https://www.google.com/maps/search/?api=1&query=12.617,101.475"
+    },
+    "tags": [
+      "beach",
+      "pine",
+      "camping"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-rayong-wat-pa-pradu",
+    "slug": "wat-pa-pradu",
+    "region": "th-rayong",
+    "country": "thailand",
+    "region_name_vi": "Rayong",
+    "name_vi": "Chùa Pa Pradu",
+    "name_en": "Wat Pa Pradu",
+    "name_local": "วัดป่าประดู่",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 12.6812,
+      "lon": 101.274
+    },
+    "address_vi": "TP. Rayong, tỉnh Rayong",
+    "rating": null,
+    "presentation_short_vi": "Chùa cổ ở trung tâm Rayong nổi tiếng với tượng Phật nằm nghiêng bên trái dài khoảng 12 m, tư thế hiếm gặp ở Thái Lan.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=101.274,12.6812&z=17&pt=101.274,12.6812",
+      "google": "https://www.google.com/maps/search/?api=1&query=12.6812,101.274"
+    },
+    "tags": [
+      "temple",
+      "reclining_buddha"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-rayong-phra-chedi-klang-nam",
+    "slug": "phra-chedi-klang-nam",
+    "region": "th-rayong",
+    "country": "thailand",
+    "region_name_vi": "Rayong",
+    "name_vi": "Bảo tháp Phra Chedi Klang Nam",
+    "name_en": "Phra Chedi Klang Nam",
+    "name_local": "พระเจดีย์กลางน้ำ",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 12.6603,
+      "lon": 101.2896
+    },
+    "address_vi": "TP. Rayong, tỉnh Rayong",
+    "rating": null,
+    "presentation_short_vi": "Bảo tháp trắng biểu tượng của Rayong dựng giữa cửa sông, xưa từng là mốc dẫn đường cho tàu thuyền vào cảng.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=101.2896,12.6603&z=17&pt=101.2896,12.6603",
+      "google": "https://www.google.com/maps/search/?api=1&query=12.6603,101.2896"
+    },
+    "tags": [
+      "chedi",
+      "landmark",
+      "riverside"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-rayong-khao-chamao-khao-wong-national-park",
+    "slug": "khao-chamao-khao-wong-national-park",
+    "region": "th-rayong",
+    "country": "thailand",
+    "region_name_vi": "Rayong",
+    "name_vi": "Vườn quốc gia Khao Chamao–Khao Wong",
+    "name_en": "Khao Chamao–Khao Wong National Park",
+    "name_local": "อุทยานแห่งชาติเขาชะเมา-เขาวง",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 12.925,
+      "lon": 101.687
+    },
+    "address_vi": "Huyện Khao Chamao, tỉnh Rayong",
+    "rating": null,
+    "presentation_short_vi": "Vườn quốc gia rừng núi với thác Khao Chamao nhiều tầng, hồ nước trong có đàn cá pla phluang và hệ thống hang động đá vôi.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=101.687,12.925&z=17&pt=101.687,12.925",
+      "google": "https://www.google.com/maps/search/?api=1&query=12.925,101.687"
+    },
+    "tags": [
+      "national_park",
+      "waterfall",
+      "cave"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

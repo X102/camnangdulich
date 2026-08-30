@@ -1,0 +1,305 @@
+[
+  {
+    "id": "th-bangkok-grand-palace",
+    "slug": "grand-palace",
+    "region": "th-bangkok",
+    "country": "thailand",
+    "region_name_vi": "Băng Cốc",
+    "name_vi": "Cung điện Hoàng gia (Grand Palace)",
+    "name_en": "Grand Palace",
+    "name_local": "พระบรมมหาราชวัง",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 13.75,
+      "lon": 100.4917
+    },
+    "address_vi": "Quận Phra Nakhon, Băng Cốc",
+    "rating": null,
+    "presentation_short_vi": "Cung điện Hoàng gia Băng Cốc do vua Rama I khởi dựng năm 1782, từng là nơi ở của các vua triều Chakri. Quần thể lộng lẫy với mái vàng, tháp nhọn cùng chùa Phật Ngọc là biểu tượng du lịch số một của Thái Lan.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.4917,13.75&z=17&pt=100.4917,13.75",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.75,100.4917"
+    },
+    "tags": [
+      "palace",
+      "landmark",
+      "must-see"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "th-bangkok-wat-phra-kaew",
+    "slug": "wat-phra-kaew",
+    "region": "th-bangkok",
+    "country": "thailand",
+    "region_name_vi": "Băng Cốc",
+    "name_vi": "Chùa Phật Ngọc (Wat Phra Kaew)",
+    "name_en": "Wat Phra Kaew (Temple of the Emerald Buddha)",
+    "name_local": "วัดพระแก้ว (วัดพระศรีรัตนศาสดาราม)",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 13.7515,
+      "lon": 100.4927
+    },
+    "address_vi": "Trong khuôn viên Cung điện Hoàng gia, quận Phra Nakhon, Băng Cốc",
+    "rating": null,
+    "presentation_short_vi": "Chùa Phật Ngọc nằm trong khuôn viên Cung điện Hoàng gia, là ngôi chùa linh thiêng nhất Thái Lan. Nơi đây thờ tượng Phật Ngọc Lục Bảo tạc từ một khối ngọc bích xanh, được xem là quốc bảo.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.4927,13.7515&z=17&pt=100.4927,13.7515",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.7515,100.4927"
+    },
+    "tags": [
+      "temple",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "th-bangkok-wat-arun",
+    "slug": "wat-arun",
+    "region": "th-bangkok",
+    "country": "thailand",
+    "region_name_vi": "Băng Cốc",
+    "name_vi": "Chùa Bình Minh (Wat Arun)",
+    "name_en": "Wat Arun (Temple of Dawn)",
+    "name_local": "วัดอรุณราชวราราม",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 13.7437,
+      "lon": 100.4889
+    },
+    "address_vi": "Quận Bangkok Yai, bờ tây sông Chao Phraya, Băng Cốc",
+    "rating": null,
+    "presentation_short_vi": "Chùa Bình Minh bên bờ tây sông Chao Phraya nổi bật với ngọn tháp (prang) cao hơn 70 m ốp sứ nhiều màu. Đây là một trong những ngôi chùa được chụp ảnh nhiều nhất Băng Cốc, đẹp nhất lúc hoàng hôn.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.4889,13.7437&z=17&pt=100.4889,13.7437",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.7437,100.4889"
+    },
+    "tags": [
+      "temple",
+      "riverside",
+      "sunset"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "th-bangkok-wat-pho",
+    "slug": "wat-pho",
+    "region": "th-bangkok",
+    "country": "thailand",
+    "region_name_vi": "Băng Cốc",
+    "name_vi": "Chùa Phật Nằm (Wat Pho)",
+    "name_en": "Wat Pho (Temple of the Reclining Buddha)",
+    "name_local": "วัดโพธิ์ (วัดพระเชตุพนวิมลมังคลาราม)",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 13.7466,
+      "lon": 100.4931
+    },
+    "address_vi": "Quận Phra Nakhon, sát Cung điện Hoàng gia, Băng Cốc",
+    "rating": null,
+    "presentation_short_vi": "Chùa Phật Nằm là một trong những ngôi chùa cổ và lớn nhất Băng Cốc, nổi tiếng với tượng Phật nằm dát vàng dài 46 m. Đây cũng được xem là cái nôi của nghệ thuật massage Thái truyền thống.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.4931,13.7466&z=17&pt=100.4931,13.7466",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.7466,100.4931"
+    },
+    "tags": [
+      "temple",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "th-bangkok-wat-traimit",
+    "slug": "wat-traimit",
+    "region": "th-bangkok",
+    "country": "thailand",
+    "region_name_vi": "Băng Cốc",
+    "name_vi": "Chùa Phật Vàng (Wat Traimit)",
+    "name_en": "Wat Traimit (Temple of the Golden Buddha)",
+    "name_local": "วัดไตรมิตรวิทยารามวรวิหาร",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 13.7378,
+      "lon": 100.5138
+    },
+    "address_vi": "Khu phố Tàu Yaowarat, quận Samphanthawong, Băng Cốc",
+    "rating": null,
+    "presentation_short_vi": "Chùa Phật Vàng ở khu phố Tàu (Yaowarat) lưu giữ tượng Phật bằng vàng nguyên khối nặng khoảng 5,5 tấn. Đây được coi là tượng Phật vàng lớn nhất thế giới.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.5138,13.7378&z=17&pt=100.5138,13.7378",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.7378,100.5138"
+    },
+    "tags": [
+      "temple",
+      "chinatown"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "th-bangkok-chatuchak-market",
+    "slug": "chatuchak-market",
+    "region": "th-bangkok",
+    "country": "thailand",
+    "region_name_vi": "Băng Cốc",
+    "name_vi": "Chợ cuối tuần Chatuchak",
+    "name_en": "Chatuchak Weekend Market",
+    "name_local": "ตลาดนัดจตุจักร",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 13.7999,
+      "lon": 100.5503
+    },
+    "address_vi": "Quận Chatuchak, Băng Cốc",
+    "rating": null,
+    "presentation_short_vi": "Chợ cuối tuần Chatuchak là một trong những khu chợ lớn nhất thế giới với hơn 15.000 gian hàng. Nơi đây bán đủ mọi thứ, từ quần áo, đồ thủ công đến cây cảnh và ẩm thực đường phố.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.5503,13.7999&z=17&pt=100.5503,13.7999",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.7999,100.5503"
+    },
+    "tags": [
+      "market",
+      "shopping"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "th-bangkok-khao-san-road",
+    "slug": "khao-san-road",
+    "region": "th-bangkok",
+    "country": "thailand",
+    "region_name_vi": "Băng Cốc",
+    "name_vi": "Phố Khao San",
+    "name_en": "Khaosan Road",
+    "name_local": "ถนนข้าวสาร",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 13.7589,
+      "lon": 100.4977
+    },
+    "address_vi": "Quận Phra Nakhon, Băng Cốc",
+    "rating": null,
+    "presentation_short_vi": "Phố Khao San là con phố ba lô sôi động bậc nhất Băng Cốc, thiên đường của khách du lịch bụi. Về đêm, phố rực rỡ với quán bar, hàng ăn đường phố và không khí náo nhiệt.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.4977,13.7589&z=17&pt=100.4977,13.7589",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.7589,100.4977"
+    },
+    "tags": [
+      "nightlife",
+      "street"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "th-bangkok-jim-thompson-house",
+    "slug": "jim-thompson-house",
+    "region": "th-bangkok",
+    "country": "thailand",
+    "region_name_vi": "Băng Cốc",
+    "name_vi": "Nhà Jim Thompson (Bảo tàng)",
+    "name_en": "Jim Thompson House",
+    "name_local": "พิพิธภัณฑ์บ้านจิม ทอมป์สัน",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 13.7492,
+      "lon": 100.5283
+    },
+    "address_vi": "Soi Kasemsan 2, quận Pathum Wan, Băng Cốc",
+    "rating": null,
+    "presentation_short_vi": "Nhà Jim Thompson là bảo tàng gồm các ngôi nhà gỗ tếch truyền thống của ông trùm tơ lụa người Mỹ. Nơi đây trưng bày bộ sưu tập nghệ thuật Đông Nam Á giữa khu vườn nhiệt đới xanh mát.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.5283,13.7492&z=17&pt=100.5283,13.7492",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.7492,100.5283"
+    },
+    "tags": [
+      "museum",
+      "garden"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "th-bangkok-lumphini-park",
+    "slug": "lumphini-park",
+    "region": "th-bangkok",
+    "country": "thailand",
+    "region_name_vi": "Băng Cốc",
+    "name_vi": "Công viên Lumphini",
+    "name_en": "Lumphini Park",
+    "name_local": "สวนลุมพินี",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 13.7311,
+      "lon": 100.5414
+    },
+    "address_vi": "Quận Pathum Wan, Băng Cốc",
+    "rating": null,
+    "presentation_short_vi": "Công viên Lumphini là 'lá phổi xanh' giữa trung tâm Băng Cốc với hồ nước, đường dạo và thảm cỏ rộng. Đây là nơi người dân tập thể dục, chèo thuyền và thư giãn, thỉnh thoảng bắt gặp cả kỳ đà.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.5414,13.7311&z=17&pt=100.5414,13.7311",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.7311,100.5414"
+    },
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "th-bangkok-asiatique",
+    "slug": "asiatique",
+    "region": "th-bangkok",
+    "country": "thailand",
+    "region_name_vi": "Băng Cốc",
+    "name_vi": "Asiatique The Riverfront (chợ đêm ven sông)",
+    "name_en": "Asiatique The Riverfront",
+    "name_local": "เอเชียทีค เดอะ ริเวอร์ฟร้อนท์",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 13.7044,
+      "lon": 100.5025
+    },
+    "address_vi": "Đường Charoen Krung, quận Bang Kho Laem, bờ sông Chao Phraya, Băng Cốc",
+    "rating": null,
+    "presentation_short_vi": "Asiatique The Riverfront là khu chợ đêm kết hợp trung tâm mua sắm ven sông Chao Phraya. Điểm nhấn là vòng đu quay khổng lồ cùng các nhà hàng và sân khấu biểu diễn.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.5025,13.7044&z=17&pt=100.5025,13.7044",
+      "google": "https://www.google.com/maps/search/?api=1&query=13.7044,100.5025"
+    },
+    "tags": [
+      "market",
+      "nightlife",
+      "riverside"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  }
+]

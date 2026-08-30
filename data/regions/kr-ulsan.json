@@ -1,0 +1,281 @@
+[
+  {
+    "id": "kr-ulsan-daewangam-park",
+    "slug": "daewangam-park",
+    "region": "kr-ulsan",
+    "region_name_vi": "Ulsan",
+    "country": "korea",
+    "name_vi": "Công viên Daewangam",
+    "name_en": "Daewangam Park",
+    "name_local": "대왕암공원",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.4914,
+      "lon": 129.4386
+    },
+    "address_vi": "Dong-gu, Ulsan",
+    "presentation_short_vi": "Công viên ven biển ở Dong-gu với rừng thông, vách đá và cầu bắc ra khối đá Daewangam giữa biển; điểm ngắm bình minh và dạo biển nổi tiếng của Ulsan.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=129.4386,35.4914&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.4914,129.4386"
+    },
+    "tags": [
+      "coastal",
+      "park",
+      "sunrise"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-ulsan-ganjeolgot",
+    "slug": "ganjeolgot",
+    "region": "kr-ulsan",
+    "region_name_vi": "Ulsan",
+    "country": "korea",
+    "name_vi": "Mũi Ganjeolgot",
+    "name_en": "Ganjeolgot",
+    "name_local": "간절곶",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.3597,
+      "lon": 129.3608
+    },
+    "address_vi": "Seosaeng-myeon, Ulju-gun, Ulsan",
+    "presentation_short_vi": "Mũi đất phía đông với ngọn hải đăng trắng, là một trong những nơi đón bình minh sớm nhất trên đất liền Hàn Quốc.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=129.3608,35.3597&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.3597,129.3608"
+    },
+    "tags": [
+      "cape",
+      "lighthouse",
+      "sunrise"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-ulsan-taehwagang-national-garden",
+    "slug": "taehwagang-national-garden",
+    "region": "kr-ulsan",
+    "region_name_vi": "Ulsan",
+    "country": "korea",
+    "name_vi": "Vườn Quốc gia Taehwagang",
+    "name_en": "Taehwagang National Garden",
+    "name_local": "태화강 국가정원",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.551,
+      "lon": 129.3113
+    },
+    "address_vi": "Jung-gu, Ulsan",
+    "presentation_short_vi": "Vườn quốc gia trải dọc sông Taehwa với rừng tre Simnidaebat và các cánh đồng hoa; là vườn quốc gia thứ hai của Hàn Quốc.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=129.3113,35.551&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.551,129.3113"
+    },
+    "tags": [
+      "garden",
+      "river",
+      "bamboo"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-ulsan-ulsan-grand-park",
+    "slug": "ulsan-grand-park",
+    "region": "kr-ulsan",
+    "region_name_vi": "Ulsan",
+    "country": "korea",
+    "name_vi": "Công viên lớn Ulsan",
+    "name_en": "Ulsan Grand Park",
+    "name_local": "울산대공원",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.5289,
+      "lon": 129.2989
+    },
+    "address_vi": "Nam-gu, Ulsan",
+    "presentation_short_vi": "Công viên đô thị lớn nhất Ulsan với vườn hồng, hồ nước và nhiều khu vui chơi, do tập đoàn SK tài trợ xây dựng.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=129.2989,35.5289&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.5289,129.2989"
+    },
+    "tags": [
+      "park",
+      "rose_garden",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-ulsan-jangsaengpo-whale-museum",
+    "slug": "jangsaengpo-whale-museum",
+    "region": "kr-ulsan",
+    "region_name_vi": "Ulsan",
+    "country": "korea",
+    "name_vi": "Bảo tàng Cá voi Jangsaengpo",
+    "name_en": "Jangsaengpo Whale Museum",
+    "name_local": "장생포 고래박물관",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 35.4989,
+      "lon": 129.3553
+    },
+    "address_vi": "Nam-gu, Ulsan",
+    "presentation_short_vi": "Bảo tàng cá voi duy nhất ở Hàn Quốc, tái hiện lịch sử săn bắt cá voi của làng chài Jangsaengpo với bộ xương và mô hình cá voi.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=129.3553,35.4989&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.4989,129.3553"
+    },
+    "tags": [
+      "whale",
+      "museum",
+      "jangsaengpo"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-ulsan-seongnamsa-temple",
+    "slug": "seongnamsa-temple",
+    "region": "kr-ulsan",
+    "region_name_vi": "Ulsan",
+    "country": "korea",
+    "name_vi": "Chùa Seongnamsa",
+    "name_en": "Seongnamsa Temple",
+    "name_local": "석남사",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 35.6127,
+      "lon": 129.0083
+    },
+    "address_vi": "Sangbuk-myeon, Ulju-gun, Ulsan",
+    "presentation_short_vi": "Ngôi chùa ni cổ dưới chân núi Gajisan, nổi tiếng với cảnh sắc bốn mùa và tháp đá Seungtap thời Silla.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=129.0083,35.6127&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.6127,129.0083"
+    },
+    "tags": [
+      "temple",
+      "buddhist",
+      "mountain"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-ulsan-ilsan-beach",
+    "slug": "ilsan-beach",
+    "region": "kr-ulsan",
+    "region_name_vi": "Ulsan",
+    "country": "korea",
+    "name_vi": "Bãi biển Ilsan",
+    "name_en": "Ilsan Beach",
+    "name_local": "일산해수욕장",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.4964,
+      "lon": 129.4258
+    },
+    "address_vi": "Dong-gu, Ulsan",
+    "presentation_short_vi": "Bãi tắm cát trắng ở Dong-gu gần Daewangam, một trong những bãi biển quen thuộc và lâu đời của Ulsan.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=129.4258,35.4964&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.4964,129.4258"
+    },
+    "tags": [
+      "beach",
+      "coastal",
+      "swimming"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-ulsan-sinbulsan",
+    "slug": "sinbulsan",
+    "region": "kr-ulsan",
+    "region_name_vi": "Ulsan",
+    "country": "korea",
+    "name_vi": "Núi Sinbulsan (Yeongnam Alps)",
+    "name_en": "Sinbulsan (Yeongnam Alps)",
+    "name_local": "신불산",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.5411,
+      "lon": 129.0472
+    },
+    "address_vi": "Sangbuk-myeon, Ulju-gun, Ulsan",
+    "presentation_short_vi": "Đỉnh núi cao 1.159 m thuộc dãy 'Yeongnam Alps', nổi tiếng với cao nguyên cỏ lau bạc (eoksae) mênh mông vào mùa thu.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=129.0472,35.5411&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.5411,129.0472"
+    },
+    "tags": [
+      "mountain",
+      "hiking",
+      "eoksae"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-ulsan-ulsan-bridge-observatory",
+    "slug": "ulsan-bridge-observatory",
+    "region": "kr-ulsan",
+    "region_name_vi": "Ulsan",
+    "country": "korea",
+    "name_vi": "Đài quan sát cầu Ulsan",
+    "name_en": "Ulsan Bridge Observatory",
+    "name_local": "울산대교 전망대",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 35.51,
+      "lon": 129.4008
+    },
+    "address_vi": "Dong-gu, Ulsan",
+    "presentation_short_vi": "Đài ngắm cảnh trên đồi Hwajeong nhìn ra cầu treo Ulsan cùng toàn cảnh khu công nghiệp và cảng biển; đẹp nhất về đêm.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=129.4008,35.51&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.51,129.4008"
+    },
+    "tags": [
+      "observatory",
+      "viewpoint",
+      "bridge"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

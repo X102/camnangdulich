@@ -1,0 +1,304 @@
+[
+  {
+    "id": "jp-hyogo-himeji-castle",
+    "slug": "himeji-castle",
+    "region": "jp-hyogo",
+    "country": "japan",
+    "region_name_vi": "Hyogo",
+    "name_vi": "Lâu đài Himeji (Bạch Lộ Thành)",
+    "name_en": "Himeji Castle",
+    "name_local": "姫路城",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 34.8394,
+      "lon": 134.6939
+    },
+    "address_vi": "68 Honmachi, Himeji",
+    "presentation_short_vi": "Toà lâu đài gỗ trắng nguyên bản đẹp nhất Nhật Bản, mệnh danh 'Bạch Lộ Thành', Di sản Thế giới UNESCO và Bảo vật Quốc gia.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.8394,134.6939",
+      "yandex": "https://yandex.com/maps/?pt=134.6939,34.8394&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "unesco",
+      "castle"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-hyogo-koko-en",
+    "slug": "koko-en",
+    "region": "jp-hyogo",
+    "country": "japan",
+    "region_name_vi": "Hyogo",
+    "name_vi": "Vườn Kōko-en",
+    "name_en": "Kōko-en",
+    "name_local": "好古園",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 34.8378,
+      "lon": 134.6906
+    },
+    "address_vi": "68 Honmachi, Himeji",
+    "presentation_short_vi": "Vườn Nhật kiểu Edo gồm 9 khu vườn riêng biệt nằm cạnh Lâu đài Himeji, nổi tiếng với hồ cá koi và trà thất.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.8378,134.6906",
+      "yandex": "https://yandex.com/maps/?pt=134.6906,34.8378&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "garden"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-hyogo-engyoji",
+    "slug": "engyoji",
+    "region": "jp-hyogo",
+    "country": "japan",
+    "region_name_vi": "Hyogo",
+    "name_vi": "Chùa Engyō-ji (núi Shosha)",
+    "name_en": "Engyō-ji",
+    "name_local": "圓教寺",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 34.8686,
+      "lon": 134.6636
+    },
+    "address_vi": "2968 Shosha, Himeji",
+    "presentation_short_vi": "Quần thể chùa cổ hơn 1.000 năm tuổi trên núi Shosha, bối cảnh phim 'The Last Samurai', lên bằng cáp treo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.8686,134.6636",
+      "yandex": "https://yandex.com/maps/?pt=134.6636,34.8686&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "temple"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-hyogo-kobe-port-tower",
+    "slug": "kobe-port-tower",
+    "region": "jp-hyogo",
+    "country": "japan",
+    "region_name_vi": "Hyogo",
+    "name_vi": "Tháp cảng Kobe",
+    "name_en": "Kobe Port Tower",
+    "name_local": "神戸ポートタワー",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 34.6828,
+      "lon": 135.1864
+    },
+    "address_vi": "5-5 Hatobacho, Chuo, Kobe",
+    "presentation_short_vi": "Tháp quan sát màu đỏ hình trống biểu tượng của cảng Kobe, ngắm toàn cảnh vịnh và thành phố về đêm.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.6828,135.1864",
+      "yandex": "https://yandex.com/maps/?pt=135.1864,34.6828&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "view",
+      "tower"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-hyogo-mount-rokko",
+    "slug": "mount-rokko",
+    "region": "jp-hyogo",
+    "country": "japan",
+    "region_name_vi": "Hyogo",
+    "name_vi": "Núi Rokkō",
+    "name_en": "Mount Rokkō",
+    "name_local": "六甲山",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 34.7783,
+      "lon": 135.2617
+    },
+    "address_vi": "Rokkosan, Nada, Kobe",
+    "presentation_short_vi": "Dãy núi sau lưng Kobe với đài ngắm cảnh đêm nổi tiếng, vườn hoa và tuyến cáp treo nhìn ra vịnh Osaka.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.7783,135.2617",
+      "yandex": "https://yandex.com/maps/?pt=135.2617,34.7783&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "view",
+      "mountain"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-hyogo-arima-onsen",
+    "slug": "arima-onsen",
+    "region": "jp-hyogo",
+    "country": "japan",
+    "region_name_vi": "Hyogo",
+    "name_vi": "Suối nước nóng Arima",
+    "name_en": "Arima Onsen",
+    "name_local": "有馬温泉",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 34.7975,
+      "lon": 135.2489
+    },
+    "address_vi": "Arimacho, Kita, Kobe",
+    "presentation_short_vi": "Một trong ba suối nước nóng cổ nhất Nhật Bản, nổi tiếng với 'kim tuyền' (nước sắt màu nâu) và 'ngân tuyền'.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.7975,135.2489",
+      "yandex": "https://yandex.com/maps/?pt=135.2489,34.7975&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "onsen"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-hyogo-akashi-kaikyo-bridge",
+    "slug": "akashi-kaikyo-bridge",
+    "region": "jp-hyogo",
+    "country": "japan",
+    "region_name_vi": "Hyogo",
+    "name_vi": "Cầu Akashi Kaikyō",
+    "name_en": "Akashi Kaikyō Bridge",
+    "name_local": "明石海峡大橋",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 34.6167,
+      "lon": 135.0212
+    },
+    "address_vi": "Higashimaikocho, Tarumi, Kobe",
+    "presentation_short_vi": "Cầu treo thuộc hàng dài nhất thế giới nối Kobe với đảo Awaji, dài gần 4km, biểu tượng kỹ thuật Nhật Bản.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.6167,135.0212",
+      "yandex": "https://yandex.com/maps/?pt=135.0212,34.6167&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "bridge"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-hyogo-ikuta-shrine",
+    "slug": "ikuta-shrine",
+    "region": "jp-hyogo",
+    "country": "japan",
+    "region_name_vi": "Hyogo",
+    "name_vi": "Đền Ikuta",
+    "name_en": "Ikuta Shrine",
+    "name_local": "生田神社",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 34.6947,
+      "lon": 135.1897
+    },
+    "address_vi": "1-2-1 Shimoyamatedori, Chuo, Kobe",
+    "presentation_short_vi": "Ngôi đền Thần đạo cổ giữa trung tâm Kobe, thờ nữ thần Wakahirume, điểm cầu duyên nổi tiếng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.6947,135.1897",
+      "yandex": "https://yandex.com/maps/?pt=135.1897,34.6947&z=16&l=map"
+    },
+    "tags": [
+      "shrine"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-hyogo-nunobiki-herb-garden",
+    "slug": "nunobiki-herb-garden",
+    "region": "jp-hyogo",
+    "country": "japan",
+    "region_name_vi": "Hyogo",
+    "name_vi": "Vườn thảo mộc Nunobiki",
+    "name_en": "Nunobiki Herb Garden",
+    "name_local": "布引ハーブ園",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 34.7089,
+      "lon": 135.1811
+    },
+    "address_vi": "1-4-3 Kitanocho, Chuo, Kobe",
+    "presentation_short_vi": "Vườn thảo mộc trên sườn núi với cáp treo, ngắm hoa bốn mùa và toàn cảnh cảng Kobe.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.7089,135.1811",
+      "yandex": "https://yandex.com/maps/?pt=135.1811,34.7089&z=16&l=map"
+    },
+    "tags": [
+      "garden",
+      "view"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-hyogo-kitano-ijinkan",
+    "slug": "kitano-ijinkan",
+    "region": "jp-hyogo",
+    "country": "japan",
+    "region_name_vi": "Hyogo",
+    "name_vi": "Khu nhà cổ phương Tây Kitano",
+    "name_en": "Kitano Ijinkan",
+    "name_local": "北野異人館街",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 34.7011,
+      "lon": 135.1878
+    },
+    "address_vi": "Kitanocho, Chuo, Kobe",
+    "presentation_short_vi": "Khu phố với những dinh thự phương Tây thời Minh Trị của thương nhân nước ngoài, kiến trúc châu Âu độc đáo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.7011,135.1878",
+      "yandex": "https://yandex.com/maps/?pt=135.1878,34.7011&z=16&l=map"
+    },
+    "tags": [
+      "historic",
+      "street"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

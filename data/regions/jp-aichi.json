@@ -1,0 +1,310 @@
+[
+  {
+    "id": "jp-aichi-nagoya-castle",
+    "slug": "nagoya-castle",
+    "region": "jp-aichi",
+    "country": "japan",
+    "region_name_vi": "Aichi",
+    "name_vi": "Lâu đài Nagoya",
+    "name_en": "Nagoya Castle",
+    "name_local": "名古屋城",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 35.1856,
+      "lon": 136.8992
+    },
+    "address_vi": "1-1 Honmaru, Naka-ku, Nagoya",
+    "presentation_short_vi": "Tòa thành biểu tượng của Nagoya với cặp cá vàng Shachihoko dát vàng trên nóc và cung điện Honmaru phục dựng tinh xảo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.1856,136.8992",
+      "yandex": "https://yandex.com/maps/?pt=136.8992,35.1856&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "castle",
+      "shachihoko"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "jp-aichi-atsuta-jingu",
+    "slug": "atsuta-jingu",
+    "region": "jp-aichi",
+    "country": "japan",
+    "region_name_vi": "Aichi",
+    "name_vi": "Đền Atsuta (Atsuta Jingu)",
+    "name_en": "Atsuta Shrine",
+    "name_local": "熱田神宮",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 35.1275,
+      "lon": 136.9083
+    },
+    "address_vi": "1-1-1 Jingu, Atsuta-ku, Nagoya",
+    "presentation_short_vi": "Một trong những thần xã linh thiêng nhất Nhật Bản, tương truyền lưu giữ thanh kiếm thiêng Kusanagi trong bộ Tam chủng thần khí.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.1275,136.9083",
+      "yandex": "https://yandex.com/maps/?pt=136.9083,35.1275&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "shrine",
+      "sacred"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "jp-aichi-osu-kannon",
+    "slug": "osu-kannon",
+    "region": "jp-aichi",
+    "country": "japan",
+    "region_name_vi": "Aichi",
+    "name_vi": "Chùa Osu Kannon",
+    "name_en": "Ōsu Kannon",
+    "name_local": "大須観音",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 35.1594,
+      "lon": 136.9006
+    },
+    "address_vi": "2-21-47 Osu, Naka-ku, Nagoya",
+    "presentation_short_vi": "Ngôi chùa nổi tiếng giữa khu phố mua sắm Osu sầm uất, lưu giữ nhiều thư tịch cổ quý giá.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.1594,136.9006",
+      "yandex": "https://yandex.com/maps/?pt=136.9006,35.1594&z=16&l=map"
+    },
+    "tags": [
+      "temple",
+      "shopping"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "jp-aichi-tokugawa-art-museum",
+    "slug": "tokugawa-art-museum",
+    "region": "jp-aichi",
+    "country": "japan",
+    "region_name_vi": "Aichi",
+    "name_vi": "Bảo tàng Nghệ thuật Tokugawa",
+    "name_en": "Tokugawa Art Museum",
+    "name_local": "徳川美術館",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 35.1896,
+      "lon": 136.9339
+    },
+    "address_vi": "1017 Tokugawacho, Higashi-ku, Nagoya",
+    "presentation_short_vi": "Bảo tàng trưng bày bảo vật của gia tộc Tokugawa, gồm áo giáp, kiếm và cuộn tranh Truyện Genji được xếp hạng quốc bảo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.1896,136.9339",
+      "yandex": "https://yandex.com/maps/?pt=136.9339,35.1896&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "tokugawa"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "jp-aichi-toyota-tech-museum",
+    "slug": "toyota-tech-museum",
+    "region": "jp-aichi",
+    "country": "japan",
+    "region_name_vi": "Aichi",
+    "name_vi": "Bảo tàng Công nghiệp và Kỹ thuật Toyota",
+    "name_en": "Toyota Commemorative Museum of Industry and Technology",
+    "name_local": "トヨタ産業技術記念館",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 35.1889,
+      "lon": 136.8825
+    },
+    "address_vi": "4-1-35 Noritakeshinmachi, Nishi-ku, Nagoya",
+    "presentation_short_vi": "Bảo tàng đặt trong nhà máy dệt cũ của Toyota, kể lại hành trình từ máy dệt tới ngành ô tô qua các mô hình vận hành thực tế.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.1889,136.8825",
+      "yandex": "https://yandex.com/maps/?pt=136.8825,35.1889&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "toyota",
+      "industry"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "jp-aichi-inuyama-castle",
+    "slug": "inuyama-castle",
+    "region": "jp-aichi",
+    "country": "japan",
+    "region_name_vi": "Aichi",
+    "name_vi": "Lâu đài Inuyama",
+    "name_en": "Inuyama Castle",
+    "name_local": "犬山城",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 35.3881,
+      "lon": 136.9394
+    },
+    "address_vi": "65-2 Kitakoken, Inuyama, Aichi",
+    "presentation_short_vi": "Một trong mười hai tháp thành gỗ nguyên bản còn sót lại của Nhật Bản, tháp canh cổ bên sông Kiso, được công nhận Quốc bảo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.3881,136.9394",
+      "yandex": "https://yandex.com/maps/?pt=136.9394,35.3881&z=16&l=map"
+    },
+    "tags": [
+      "castle",
+      "national-treasure",
+      "original"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "jp-aichi-nagoya-tv-tower",
+    "slug": "nagoya-tv-tower",
+    "region": "jp-aichi",
+    "country": "japan",
+    "region_name_vi": "Aichi",
+    "name_vi": "Tháp truyền hình Nagoya (Mirai Tower)",
+    "name_en": "Nagoya TV Tower (Mirai Tower)",
+    "name_local": "名古屋テレビ塔",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 35.172,
+      "lon": 136.9083
+    },
+    "address_vi": "3-6-15 Nishiki, Naka-ku, Nagoya",
+    "presentation_short_vi": "Tháp truyền hình lâu đời nhất Nhật Bản giữa công viên Hisaya-odori, có đài quan sát ngắm toàn cảnh trung tâm Nagoya.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.172,136.9083",
+      "yandex": "https://yandex.com/maps/?pt=136.9083,35.172&z=16&l=map"
+    },
+    "tags": [
+      "tower",
+      "view",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "jp-aichi-higashiyama-zoo",
+    "slug": "higashiyama-zoo",
+    "region": "jp-aichi",
+    "country": "japan",
+    "region_name_vi": "Aichi",
+    "name_vi": "Vườn thú và Thực vật Higashiyama",
+    "name_en": "Higashiyama Zoo and Botanical Gardens",
+    "name_local": "東山動植物園",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.1553,
+      "lon": 136.9772
+    },
+    "address_vi": "3-70 Higashiyamamotomachi, Chikusa-ku, Nagoya",
+    "presentation_short_vi": "Vườn thú kết hợp vườn thực vật lớn bậc nhất Nhật Bản, nổi tiếng với chú khỉ đột Shabani và nhà kính lịch sử.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.1553,136.9772",
+      "yandex": "https://yandex.com/maps/?pt=136.9772,35.1553&z=16&l=map"
+    },
+    "tags": [
+      "zoo",
+      "garden",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "jp-aichi-scmaglev-railway-park",
+    "slug": "scmaglev-railway-park",
+    "region": "jp-aichi",
+    "country": "japan",
+    "region_name_vi": "Aichi",
+    "name_vi": "Bảo tàng Đường sắt và Tàu đệm từ (Linear)",
+    "name_en": "SCMaglev and Railway Park",
+    "name_local": "リニア・鉄道館",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 35.0517,
+      "lon": 136.8497
+    },
+    "address_vi": "3-2-2 Kinjofuto, Minato-ku, Nagoya",
+    "presentation_short_vi": "Bảo tàng của JR Central trưng bày từ tàu hơi nước, Shinkansen đến tàu đệm từ siêu tốc từng lập kỷ lục thế giới.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.0517,136.8497",
+      "yandex": "https://yandex.com/maps/?pt=136.8497,35.0517&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "railway",
+      "shinkansen"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "jp-aichi-korankei",
+    "slug": "korankei",
+    "region": "jp-aichi",
+    "country": "japan",
+    "region_name_vi": "Aichi",
+    "name_vi": "Thung lũng Korankei",
+    "name_en": "Kōrankei Gorge",
+    "name_local": "香嵐渓",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.1531,
+      "lon": 137.3169
+    },
+    "address_vi": "Asuke-cho, Toyota, Aichi",
+    "presentation_short_vi": "Thung lũng dọc sông Tomoe nổi tiếng khắp Nhật Bản với hàng nghìn cây phong rực đỏ vào mùa thu.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.1531,137.3169",
+      "yandex": "https://yandex.com/maps/?pt=137.3169,35.1531&z=16&l=map"
+    },
+    "tags": [
+      "autumn",
+      "maple",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  }
+]

@@ -1,0 +1,159 @@
+[
+  {
+    "id": "tl-baucau-old-town",
+    "slug": "old-town",
+    "region": "tl-baucau",
+    "country": "timor-leste",
+    "region_name_vi": "Baucau",
+    "name_vi": "Phố cổ Baucau & Chợ cũ (Kota Velha)",
+    "name_en": "Baucau Old Town (Kota Velha) & Old Market",
+    "name_local": "Vila Antiga de Baucau / Mercado Municipal",
+    "categories": [
+      "square_street",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": -8.4762,
+      "lon": 126.456
+    },
+    "address_vi": "Kota Velha, Baucau, Timor-Leste",
+    "presentation_short_vi": "Khu phố cổ thời Bồ Đào Nha với dinh thự, quảng trường và toà Chợ cũ (Mercado Municipal) mái vòm màu hồng xây thập niên 1930 – biểu tượng kiến trúc thuộc địa của Baucau.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.456,-8.4762&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-8.4762,126.456"
+    },
+    "tags": [
+      "top",
+      "old-town",
+      "colonial",
+      "market"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "tl-baucau-pousada",
+    "slug": "pousada",
+    "region": "tl-baucau",
+    "country": "timor-leste",
+    "region_name_vi": "Baucau",
+    "name_vi": "Pousada de Baucau (khách sạn hồng cổ)",
+    "name_en": "Pousada de Baucau",
+    "name_local": "Pousada de Baucau",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": -8.475,
+      "lon": 126.455
+    },
+    "address_vi": "Phố cổ Baucau, Timor-Leste",
+    "presentation_short_vi": "Toà nhà màu hồng thời thuộc địa (nguyên là dinh hành chính), nay là khách sạn nổi tiếng với sân thượng nhìn ra biển – một trong những công trình lịch sử tiêu biểu của Baucau.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.455,-8.475&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-8.475,126.455"
+    },
+    "tags": [
+      "heritage",
+      "colonial",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "tl-baucau-wataboo-beach",
+    "slug": "wataboo-beach",
+    "region": "tl-baucau",
+    "country": "timor-leste",
+    "region_name_vi": "Baucau",
+    "name_vi": "Bãi biển Wataboo (Osolata)",
+    "name_en": "Wataboo Beach",
+    "name_local": "Praia de Wataboo",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": -8.445,
+      "lon": 126.462
+    },
+    "address_vi": "Bờ biển phía bắc Baucau, Timor-Leste",
+    "presentation_short_vi": "Bãi biển cát trắng dưới chân thành phố Baucau, nước trong xanh và hàng dừa ven bờ; xuống bãi bằng con đường quanh co qua các bậc đá.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.462,-8.445&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-8.445,126.462"
+    },
+    "tags": [
+      "beach",
+      "swimming"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "tl-baucau-piscina",
+    "slug": "piscina",
+    "region": "tl-baucau",
+    "country": "timor-leste",
+    "region_name_vi": "Baucau",
+    "name_vi": "Hồ bơi suối tự nhiên Baucau (Piscina)",
+    "name_en": "Baucau Spring Pool (Piscina)",
+    "name_local": "Piscina de Baucau",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": -8.471,
+      "lon": 126.4575
+    },
+    "address_vi": "Osolata, Baucau, Timor-Leste",
+    "presentation_short_vi": "Hồ bơi nước suối trong vắt nằm trong khu vườn rợp bóng ở rìa phố cổ – nơi người dân và du khách tắm mát, một điểm dã ngoại quen thuộc của Baucau.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.4575,-8.471&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-8.471,126.4575"
+    },
+    "tags": [
+      "spring",
+      "swimming",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "tl-baucau-venilale",
+    "slug": "venilale",
+    "region": "tl-baucau",
+    "country": "timor-leste",
+    "region_name_vi": "Baucau",
+    "name_vi": "Venilale – Nhà thờ & hang trú ẩn Nhật Bản",
+    "name_en": "Venilale (Church & Japanese Caves)",
+    "name_local": "Venilale / Grutas Japonesas",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": -8.6431,
+      "lon": 126.3783
+    },
+    "address_vi": "Venilale, Baucau, Timor-Leste",
+    "presentation_short_vi": "Thị trấn miền núi với nhà thờ Công giáo và trường học cổ thời Bồ Đào Nha, cùng hệ thống hang trú ẩn do quân Nhật đào trong Thế chiến II – điểm dừng chân lịch sử phía nam Baucau.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.3783,-8.6431&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-8.6431,126.3783"
+    },
+    "tags": [
+      "church",
+      "history",
+      "caves"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

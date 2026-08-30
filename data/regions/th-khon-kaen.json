@@ -1,0 +1,254 @@
+[
+  {
+    "id": "th-khon-kaen-wat-nong-wang",
+    "slug": "wat-nong-wang",
+    "region": "th-khon-kaen",
+    "country": "thailand",
+    "region_name_vi": "Khon Kaen",
+    "name_vi": "Chùa Nong Wang (Phra Mahathat Kaen Nakhon)",
+    "name_en": "Wat Nong Wang (Phra Mahathat Kaen Nakhon)",
+    "name_local": "วัดหนองแวง (พระมหาธาตุแก่นนคร)",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 16.4069,
+      "lon": 102.8367
+    },
+    "address_vi": "TP. Khon Kaen, tỉnh Khon Kaen",
+    "rating": null,
+    "presentation_short_vi": "Chùa có bảo tháp vàng chín tầng Phra Mahathat Kaen Nakhon bên hồ Bueng Kaen Nakhon, với tranh tường và tầng trên cùng ngắm toàn cảnh thành phố.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=102.8367,16.4069&z=17&pt=102.8367,16.4069",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.4069,102.8367"
+    },
+    "tags": [
+      "temple",
+      "pagoda",
+      "city_view",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-khon-kaen-bueng-kaen-nakhon",
+    "slug": "bueng-kaen-nakhon",
+    "region": "th-khon-kaen",
+    "country": "thailand",
+    "region_name_vi": "Khon Kaen",
+    "name_vi": "Hồ Bueng Kaen Nakhon",
+    "name_en": "Bueng Kaen Nakhon",
+    "name_local": "บึงแก่นนคร",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 16.4086,
+      "lon": 102.8403
+    },
+    "address_vi": "TP. Khon Kaen, tỉnh Khon Kaen",
+    "rating": null,
+    "presentation_short_vi": "Hồ lớn được bao quanh bởi công viên và quán cà phê ở trung tâm Khon Kaen, nơi đi bộ, đạp xe và ăn uống ven hồ.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=102.8403,16.4086&z=17&pt=102.8403,16.4086",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.4086,102.8403"
+    },
+    "tags": [
+      "lake",
+      "park",
+      "city_center"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-khon-kaen-phu-wiang-national-park",
+    "slug": "phu-wiang-national-park",
+    "region": "th-khon-kaen",
+    "country": "thailand",
+    "region_name_vi": "Khon Kaen",
+    "name_vi": "Vườn quốc gia Phu Wiang",
+    "name_en": "Phu Wiang National Park",
+    "name_local": "อุทยานแห่งชาติภูเวียง",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 16.6753,
+      "lon": 102.2419
+    },
+    "address_vi": "Huyện Wiang Kao, tỉnh Khon Kaen",
+    "rating": null,
+    "presentation_short_vi": "Dãy núi hình vành khăn nơi phát hiện hóa thạch khủng long đầu tiên của Thái Lan, có các hố khai quật và đường mòn leo núi.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=102.2419,16.6753&z=17&pt=102.2419,16.6753",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.6753,102.2419"
+    },
+    "tags": [
+      "national_park",
+      "dinosaur",
+      "mountain",
+      "fossils"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-khon-kaen-sirindhorn-museum",
+    "slug": "sirindhorn-museum",
+    "region": "th-khon-kaen",
+    "country": "thailand",
+    "region_name_vi": "Khon Kaen",
+    "name_vi": "Bảo tàng khủng long Sirindhorn (Phu Wiang)",
+    "name_en": "Sirindhorn Museum (Phu Wiang Dinosaur Museum)",
+    "name_local": "พิพิธภัณฑ์สิรินธร",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 16.6592,
+      "lon": 102.2431
+    },
+    "address_vi": "Huyện Wiang Kao, tỉnh Khon Kaen",
+    "rating": null,
+    "presentation_short_vi": "Bảo tàng khủng long gần các hố hóa thạch Phu Wiang, trưng bày bộ xương và hiện vật như Siamotyrannus và Phuwiangosaurus.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=102.2431,16.6592&z=17&pt=102.2431,16.6592",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.6592,102.2431"
+    },
+    "tags": [
+      "museum",
+      "dinosaur",
+      "fossils"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-khon-kaen-phra-that-kham-kaen",
+    "slug": "phra-that-kham-kaen",
+    "region": "th-khon-kaen",
+    "country": "thailand",
+    "region_name_vi": "Khon Kaen",
+    "name_vi": "Bảo tháp Phra That Kham Kaen",
+    "name_en": "Phra That Kham Kaen",
+    "name_local": "พระธาตุขามแก่น",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 16.6928,
+      "lon": 102.9614
+    },
+    "address_vi": "Huyện Nam Phong, tỉnh Khon Kaen",
+    "rating": null,
+    "presentation_short_vi": "Bảo tháp cổ linh thiêng gắn với tên gọi của tỉnh Khon Kaen ('thành phố lõi gỗ me'), một biểu tượng tâm linh của tỉnh.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=102.9614,16.6928&z=17&pt=102.9614,16.6928",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.6928,102.9614"
+    },
+    "tags": [
+      "chedi",
+      "ancient",
+      "pilgrimage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-khon-kaen-prasat-puai-noi",
+    "slug": "prasat-puai-noi",
+    "region": "th-khon-kaen",
+    "country": "thailand",
+    "region_name_vi": "Khon Kaen",
+    "name_vi": "Đền tháp Prasat Puai Noi",
+    "name_en": "Prasat Puai Noi",
+    "name_local": "ปราสาทเปือยน้อย",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 15.8564,
+      "lon": 102.9339
+    },
+    "address_vi": "Huyện Puai Noi, tỉnh Khon Kaen",
+    "rating": null,
+    "presentation_short_vi": "Đền tháp Khmer bằng sa thạch và đá ong thế kỷ 12 được bảo tồn tốt, công trình thời Angkor lớn nhất ở Khon Kaen.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=102.9339,15.8564&z=17&pt=102.9339,15.8564",
+      "google": "https://www.google.com/maps/search/?api=1&query=15.8564,102.9339"
+    },
+    "tags": [
+      "khmer",
+      "ruins",
+      "ancient"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-khon-kaen-ubolratana-dam",
+    "slug": "ubolratana-dam",
+    "region": "th-khon-kaen",
+    "country": "thailand",
+    "region_name_vi": "Khon Kaen",
+    "name_vi": "Đập Ubolratana",
+    "name_en": "Ubolratana Dam",
+    "name_local": "เขื่อนอุบลรัตน์",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 16.7728,
+      "lon": 102.6178
+    },
+    "address_vi": "Huyện Ubolratana, tỉnh Khon Kaen",
+    "rating": null,
+    "presentation_short_vi": "Đập thủy điện và hồ chứa lớn ở phía tây bắc Khon Kaen, điểm ngắm hoàng hôn, thưởng thức hải sản và đi thuyền.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=102.6178,16.7728&z=17&pt=102.6178,16.7728",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.7728,102.6178"
+    },
+    "tags": [
+      "dam",
+      "reservoir",
+      "scenic",
+      "sunset"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-khon-kaen-khon-kaen-national-museum",
+    "slug": "khon-kaen-national-museum",
+    "region": "th-khon-kaen",
+    "country": "thailand",
+    "region_name_vi": "Khon Kaen",
+    "name_vi": "Bảo tàng Quốc gia Khon Kaen",
+    "name_en": "Khon Kaen National Museum",
+    "name_local": "พิพิธภัณฑสถานแห่งชาติ ขอนแก่น",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 16.4416,
+      "lon": 102.8347
+    },
+    "address_vi": "TP. Khon Kaen, tỉnh Khon Kaen",
+    "rating": null,
+    "presentation_short_vi": "Bảo tàng quốc gia trưng bày trụ đá sema thời Dvaravati, hiện vật thời Ban Chiang và nghệ thuật vùng đông bắc Thái Lan.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=102.8347,16.4416&z=17&pt=102.8347,16.4416",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.4416,102.8347"
+    },
+    "tags": [
+      "museum",
+      "history",
+      "dvaravati"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

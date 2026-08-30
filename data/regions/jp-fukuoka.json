@@ -1,0 +1,313 @@
+[
+  {
+    "id": "jp-fukuoka-dazaifu-tenmangu",
+    "slug": "dazaifu-tenmangu",
+    "region": "jp-fukuoka",
+    "country": "japan",
+    "region_name_vi": "Fukuoka",
+    "name_vi": "Đền Dazaifu Tenmangū",
+    "name_en": "Dazaifu Tenmangū",
+    "name_local": "太宰府天満宮",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 33.5214,
+      "lon": 130.535
+    },
+    "address_vi": "4-7-1 Saifu, TP Dazaifu, Fukuoka",
+    "presentation_short_vi": "Đền Thần đạo thờ Sugawara no Michizane – vị thần của học vấn, nơi sĩ tử khắp Nhật tìm đến cầu thi cử; khuôn viên rợp hoa mơ và cây long não cổ thụ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=33.5214,130.535",
+      "yandex": "https://yandex.com/maps/?pt=130.535,33.5214&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "shrine",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-fukuoka-nanzoin",
+    "slug": "nanzoin",
+    "region": "jp-fukuoka",
+    "country": "japan",
+    "region_name_vi": "Fukuoka",
+    "name_vi": "Chùa Nanzō-in",
+    "name_en": "Nanzō-in",
+    "name_local": "南蔵院",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 33.611,
+      "lon": 130.5287
+    },
+    "address_vi": "1035 Sasaguri, Quận Kasuya, Fukuoka",
+    "presentation_short_vi": "Ngôi chùa nổi tiếng với pho tượng Phật nằm bằng đồng lớn nhất thế giới, dài 41 m và nặng khoảng 300 tấn.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=33.611,130.5287",
+      "yandex": "https://yandex.com/maps/?pt=130.5287,33.611&z=16&l=map"
+    },
+    "tags": [
+      "temple",
+      "buddha",
+      "unique"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-fukuoka-fukuoka-castle",
+    "slug": "fukuoka-castle",
+    "region": "jp-fukuoka",
+    "country": "japan",
+    "region_name_vi": "Fukuoka",
+    "name_vi": "Thành Fukuoka (Công viên Maizuru)",
+    "name_en": "Fukuoka Castle Ruins",
+    "name_local": "福岡城跡",
+    "categories": [
+      "fortress",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 33.5847,
+      "lon": 130.3831
+    },
+    "address_vi": "Jonai, Quận Chūō, TP Fukuoka",
+    "presentation_short_vi": "Dấu tích toà thành lớn nhất Kyūshū thời Edo, nay còn tường đá và tháp canh giữa công viên Maizuru, một điểm ngắm hoa anh đào nổi tiếng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=33.5847,130.3831",
+      "yandex": "https://yandex.com/maps/?pt=130.3831,33.5847&z=16&l=map"
+    },
+    "tags": [
+      "castle",
+      "historic",
+      "park"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-fukuoka-ohori-park",
+    "slug": "ohori-park",
+    "region": "jp-fukuoka",
+    "country": "japan",
+    "region_name_vi": "Fukuoka",
+    "name_vi": "Công viên Ōhori",
+    "name_en": "Ōhori Park",
+    "name_local": "大濠公園",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 33.5861,
+      "lon": 130.3789
+    },
+    "address_vi": "1-2 Ohorikoen, Quận Chūō, TP Fukuoka",
+    "presentation_short_vi": "Công viên thành phố xây quanh một hồ nước lớn với các đảo nhỏ nối bằng cầu đá, bên trong có vườn Nhật truyền thống thanh tịnh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=33.5861,130.3789",
+      "yandex": "https://yandex.com/maps/?pt=130.3789,33.5861&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "garden",
+      "outdoor"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-fukuoka-kushida-shrine",
+    "slug": "kushida-shrine",
+    "region": "jp-fukuoka",
+    "country": "japan",
+    "region_name_vi": "Fukuoka",
+    "name_vi": "Đền Kushida",
+    "name_en": "Kushida Shrine",
+    "name_local": "櫛田神社",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 33.5928,
+      "lon": 130.4106
+    },
+    "address_vi": "1-41 Kamikawabatamachi, Quận Hakata, TP Fukuoka",
+    "presentation_short_vi": "Đền thờ thần hộ mệnh của khu Hakata, gắn với lễ hội Hakata Gion Yamakasa và cỗ kiệu trang trí khổng lồ trưng bày quanh năm.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=33.5928,130.4106",
+      "yandex": "https://yandex.com/maps/?pt=130.4106,33.5928&z=16&l=map"
+    },
+    "tags": [
+      "shrine",
+      "festival",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-fukuoka-canal-city-hakata",
+    "slug": "canal-city-hakata",
+    "region": "jp-fukuoka",
+    "country": "japan",
+    "region_name_vi": "Fukuoka",
+    "name_vi": "Khu Canal City Hakata",
+    "name_en": "Canal City Hakata",
+    "name_local": "キャナルシティ博多",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 33.5896,
+      "lon": 130.4113
+    },
+    "address_vi": "1-2 Sumiyoshi, Quận Hakata, TP Fukuoka",
+    "presentation_short_vi": "Khu phức hợp mua sắm – giải trí uốn quanh một con kênh nhân tạo, nổi bật với màn trình diễn nhạc nước ngay giữa quảng trường.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=33.5896,130.4113",
+      "yandex": "https://yandex.com/maps/?pt=130.4113,33.5896&z=16&l=map"
+    },
+    "tags": [
+      "shopping",
+      "modern",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-fukuoka-fukuoka-tower",
+    "slug": "fukuoka-tower",
+    "region": "jp-fukuoka",
+    "country": "japan",
+    "region_name_vi": "Fukuoka",
+    "name_vi": "Tháp Fukuoka",
+    "name_en": "Fukuoka Tower",
+    "name_local": "福岡タワー",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 33.5934,
+      "lon": 130.3516
+    },
+    "address_vi": "2-3-26 Momochihama, Quận Sawara, TP Fukuoka",
+    "presentation_short_vi": "Tháp ven biển cao 234 m ốp gương, cao nhất trong các tháp bên bờ biển Nhật Bản, có đài quan sát ngắm toàn cảnh thành phố và vịnh Hakata.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=33.5934,130.3516",
+      "yandex": "https://yandex.com/maps/?pt=130.3516,33.5934&z=16&l=map"
+    },
+    "tags": [
+      "viewpoint",
+      "modern",
+      "night"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-fukuoka-tochoji",
+    "slug": "tochoji",
+    "region": "jp-fukuoka",
+    "country": "japan",
+    "region_name_vi": "Fukuoka",
+    "name_vi": "Chùa Tōchō-ji",
+    "name_en": "Tōchō-ji",
+    "name_local": "東長寺",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 33.5936,
+      "lon": 130.4154
+    },
+    "address_vi": "2-4 Gokushomachi, Quận Hakata, TP Fukuoka",
+    "presentation_short_vi": "Ngôi chùa phái Chân ngôn tương truyền do đại sư Kūkai lập, nơi đặt tượng Đại Phật Fukuoka bằng gỗ thuộc hàng lớn nhất Nhật Bản.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=33.5936,130.4154",
+      "yandex": "https://yandex.com/maps/?pt=130.4154,33.5936&z=16&l=map"
+    },
+    "tags": [
+      "temple",
+      "buddha",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-fukuoka-kokura-castle",
+    "slug": "kokura-castle",
+    "region": "jp-fukuoka",
+    "country": "japan",
+    "region_name_vi": "Fukuoka",
+    "name_vi": "Lâu đài Kokura",
+    "name_en": "Kokura Castle",
+    "name_local": "小倉城",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 33.8853,
+      "lon": 130.874
+    },
+    "address_vi": "2-1 Jonai, Quận Kokurakita, TP Kitakyūshū, Fukuoka",
+    "presentation_short_vi": "Toà thành phục dựng của dòng họ Ogasawara giữa lòng Kitakyūshū, bao quanh là vườn Nhật và công viên bên sông.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=33.8853,130.874",
+      "yandex": "https://yandex.com/maps/?pt=130.874,33.8853&z=16&l=map"
+    },
+    "tags": [
+      "castle",
+      "historic",
+      "park"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-fukuoka-mojiko-retro",
+    "slug": "mojiko-retro",
+    "region": "jp-fukuoka",
+    "country": "japan",
+    "region_name_vi": "Fukuoka",
+    "name_vi": "Khu cảng cổ Mojikō Retro",
+    "name_en": "Mojikō Retro",
+    "name_local": "門司港レトロ",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 33.945,
+      "lon": 130.9628
+    },
+    "address_vi": "Minatomachi, Quận Moji, TP Kitakyūshū, Fukuoka",
+    "presentation_short_vi": "Khu cảng với loạt kiến trúc phương Tây từ thời Minh Trị – Đại Chính được bảo tồn, nay là điểm dạo chơi lãng mạn bên bến nước.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=33.945,130.9628",
+      "yandex": "https://yandex.com/maps/?pt=130.9628,33.945&z=16&l=map"
+    },
+    "tags": [
+      "retro",
+      "harbor",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

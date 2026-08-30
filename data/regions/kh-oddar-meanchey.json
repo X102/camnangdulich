@@ -1,0 +1,158 @@
+[
+  {
+    "id": "kh-oddar-meanchey-ta-mok-lake",
+    "slug": "ta-mok-lake",
+    "region": "kh-oddar-meanchey",
+    "region_name_vi": "Oddar Meanchey",
+    "country": "cambodia",
+    "name_vi": "Hồ Ta Mok & thị trấn Anlong Veng",
+    "name_en": "Ta Mok's Lake, Anlong Veng",
+    "name_local": "បឹងតាម៉ុក",
+    "categories": [
+      "park_garden",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 14.23058,
+      "lon": 104.0793
+    },
+    "address_vi": "Thị trấn Anlong Veng, huyện Anlong Veng, tỉnh Oddar Meanchey",
+    "presentation_short_vi": "Hồ nhân tạo với rừng cây khô đặc trưng, từng là căn cứ của chỉ huy Khmer Đỏ Ta Mok; trung tâm du lịch hoài niệm vùng Anlong Veng.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.0793,14.23058&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=14.23058,104.0793"
+    },
+    "tags": [
+      "lake",
+      "dark_tourism",
+      "khmer_rouge"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kh-oddar-meanchey-pol-pot-cremation-site",
+    "slug": "pol-pot-cremation-site",
+    "region": "kh-oddar-meanchey",
+    "region_name_vi": "Oddar Meanchey",
+    "country": "cambodia",
+    "name_vi": "Nơi hỏa táng Pol Pot",
+    "name_en": "Pol Pot's Cremation Site",
+    "name_local": "កន្លែងបូជាសព ប៉ុល ពត",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 14.34277,
+      "lon": 104.05784
+    },
+    "address_vi": "Vùng Choam, dãy Dângrêk, huyện Anlong Veng, tỉnh Oddar Meanchey",
+    "presentation_short_vi": "Địa điểm hỏa táng thủ lĩnh Khmer Đỏ Pol Pot năm 1998, nay là điểm du lịch hoài niệm đơn sơ trên dãy Dângrêk sát biên giới Thái Lan.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.05784,14.34277&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=14.34277,104.05784"
+    },
+    "tags": [
+      "dark_tourism",
+      "khmer_rouge",
+      "historical_site"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kh-oddar-meanchey-dangrek-escarpment",
+    "slug": "dangrek-escarpment",
+    "region": "kh-oddar-meanchey",
+    "region_name_vi": "Oddar Meanchey",
+    "country": "cambodia",
+    "name_vi": "Vách núi Dângrêk & đền khắc Khmer Đỏ",
+    "name_en": "Dângrêk Escarpment & Khmer Rouge Carvings",
+    "name_local": "ជួរភ្នំដងរែក",
+    "categories": [
+      "monument",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 14.33737,
+      "lon": 104.06979
+    },
+    "address_vi": "Vùng Choam, dãy Dângrêk, huyện Anlong Veng, tỉnh Oddar Meanchey",
+    "presentation_short_vi": "Đoạn vách núi Dângrêk gần biên giới với các tượng, phù điêu đá thời Khmer Đỏ và tầm nhìn xuống đồng bằng Campuchia.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.06979,14.33737&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=14.33737,104.06979"
+    },
+    "tags": [
+      "dark_tourism",
+      "dangrek",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kh-oddar-meanchey-samraong",
+    "slug": "samraong",
+    "region": "kh-oddar-meanchey",
+    "region_name_vi": "Oddar Meanchey",
+    "country": "cambodia",
+    "name_vi": "Thành phố Samraong",
+    "name_en": "Samraong (Provincial Capital)",
+    "name_local": "ក្រុងសំរោង",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 14.1818,
+      "lon": 103.5176
+    },
+    "address_vi": "Thành phố Samraong, tỉnh Oddar Meanchey",
+    "presentation_short_vi": "Thủ phủ tỉnh Oddar Meanchey ở vùng tây bắc Campuchia, cửa ngõ tới các điểm biên giới và dãy núi Dângrêk.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=103.5176,14.1818&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=14.1818,103.5176"
+    },
+    "tags": [
+      "provincial_capital",
+      "gateway"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kh-oddar-meanchey-o-smach",
+    "slug": "o-smach",
+    "region": "kh-oddar-meanchey",
+    "region_name_vi": "Oddar Meanchey",
+    "country": "cambodia",
+    "name_vi": "Cửa khẩu O Smach",
+    "name_en": "O Smach Border Crossing",
+    "name_local": "អូរស្មាច់",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 14.41,
+      "lon": 103.69417
+    },
+    "address_vi": "Xã O Smach, tỉnh Oddar Meanchey (giáp biên giới Thái Lan)",
+    "presentation_short_vi": "Cửa khẩu quốc tế Campuchia–Thái Lan trên dãy Dângrêk, khu vực có sòng bạc, nhà hàng và khách sạn phục vụ khách qua biên giới.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=103.69417,14.41&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=14.41,103.69417"
+    },
+    "tags": [
+      "border_crossing",
+      "dangrek",
+      "casino_town"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

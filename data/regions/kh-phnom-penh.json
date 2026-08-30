@@ -1,0 +1,310 @@
+[
+  {
+    "id": "kh-phnom-penh-royal-palace",
+    "slug": "royal-palace",
+    "region": "kh-phnom-penh",
+    "region_name_vi": "Phnom Penh",
+    "country": "cambodia",
+    "name_vi": "Cung điện Hoàng gia",
+    "name_en": "Royal Palace",
+    "name_local": "ព្រះបរមរាជវាំង",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 11.5637,
+      "lon": 104.9314
+    },
+    "address_vi": "Đại lộ Sothearos, Phnom Penh",
+    "presentation_short_vi": "Cung điện Hoàng gia bên bờ sông Tonlé Sap, khởi dựng năm 1866 và là nơi ở của Quốc vương Campuchia. Quần thể mái vàng gồm phòng Khánh tiết cùng nhiều điện đường lộng lẫy.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.9314,11.5637&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=11.5637,104.9314"
+    },
+    "tags": [
+      "palace",
+      "top",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kh-phnom-penh-silver-pagoda",
+    "slug": "silver-pagoda",
+    "region": "kh-phnom-penh",
+    "region_name_vi": "Phnom Penh",
+    "country": "cambodia",
+    "name_vi": "Chùa Bạc",
+    "name_en": "Silver Pagoda",
+    "name_local": "វត្តព្រះកែវមរកត",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 11.5619,
+      "lon": 104.9316
+    },
+    "address_vi": "Trong khuôn viên Hoàng cung, Phnom Penh",
+    "presentation_short_vi": "Chùa trong khuôn viên Hoàng cung, nền lát hơn 5.000 viên gạch bạc nên có tên 'Chùa Bạc'. Nơi lưu giữ tượng Phật Ngọc lục bảo và tượng Phật vàng nạm kim cương.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.9316,11.5619&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=11.5619,104.9316"
+    },
+    "tags": [
+      "temple",
+      "palace",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kh-phnom-penh-wat-phnom",
+    "slug": "wat-phnom",
+    "region": "kh-phnom-penh",
+    "region_name_vi": "Phnom Penh",
+    "country": "cambodia",
+    "name_vi": "Chùa Wat Phnom",
+    "name_en": "Wat Phnom",
+    "name_local": "វត្តភ្នំ",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 11.5766,
+      "lon": 104.9174
+    },
+    "address_vi": "Đường 96, Phnom Penh",
+    "presentation_short_vi": "Ngôi chùa trên ngọn đồi nhân tạo cao 27 m, gắn với truyền thuyết bà Penh và là nguồn gốc tên gọi Phnom Penh. Điểm hành hương và công viên xanh giữa thủ đô.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.9174,11.5766&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=11.5766,104.9174"
+    },
+    "tags": [
+      "temple",
+      "hill",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kh-phnom-penh-tuol-sleng",
+    "slug": "tuol-sleng",
+    "region": "kh-phnom-penh",
+    "region_name_vi": "Phnom Penh",
+    "country": "cambodia",
+    "name_vi": "Bảo tàng Diệt chủng Tuol Sleng (S-21)",
+    "name_en": "Tuol Sleng Genocide Museum",
+    "name_local": "សារមន្ទីរឧក្រិដ្ឋកម្មប្រល័យពូជសាសន៍ទួលស្លែង",
+    "categories": [
+      "museum",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 11.5493,
+      "lon": 104.9177
+    },
+    "address_vi": "Đường 113, Boeng Keng Kang, Phnom Penh",
+    "presentation_short_vi": "Bảo tàng diệt chủng đặt trong nhà tù S-21 khét tiếng thời Khmer Đỏ. Trưng bày tư liệu, hình ảnh về giai đoạn 1975–1979, nhắc nhớ một chương bi thương của lịch sử.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.9177,11.5493&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=11.5493,104.9177"
+    },
+    "tags": [
+      "museum",
+      "history",
+      "memorial"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kh-phnom-penh-national-museum-cambodia",
+    "slug": "national-museum-cambodia",
+    "region": "kh-phnom-penh",
+    "region_name_vi": "Phnom Penh",
+    "country": "cambodia",
+    "name_vi": "Bảo tàng Quốc gia Campuchia",
+    "name_en": "National Museum of Cambodia",
+    "name_local": "សារមន្ទីរជាតិ",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 11.5651,
+      "lon": 104.9281
+    },
+    "address_vi": "Đại lộ Preah Ang Eng, Phnom Penh",
+    "presentation_short_vi": "Bảo tàng quốc gia màu đỏ gạch mang kiến trúc Khmer truyền thống, lưu giữ bộ sưu tập nghệ thuật và điêu khắc Khmer lớn nhất nước. Sân trong có hồ và vườn yên tĩnh.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.9281,11.5651&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=11.5651,104.9281"
+    },
+    "tags": [
+      "museum",
+      "art",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kh-phnom-penh-independence-monument",
+    "slug": "independence-monument",
+    "region": "kh-phnom-penh",
+    "region_name_vi": "Phnom Penh",
+    "country": "cambodia",
+    "name_vi": "Đài Độc lập",
+    "name_en": "Independence Monument",
+    "name_local": "វិមានឯករាជ្យ",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 11.5564,
+      "lon": 104.9282
+    },
+    "address_vi": "Đại lộ Norodom & Sihanouk, Phnom Penh",
+    "presentation_short_vi": "Đài Độc lập hình tháp sen đỏ dựng năm 1958 mừng Campuchia thoát ách thực dân Pháp. Nằm giữa vòng xoay lớn, là biểu tượng của thủ đô.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.9282,11.5564&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=11.5564,104.9282"
+    },
+    "tags": [
+      "monument",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kh-phnom-penh-central-market",
+    "slug": "central-market",
+    "region": "kh-phnom-penh",
+    "region_name_vi": "Phnom Penh",
+    "country": "cambodia",
+    "name_vi": "Chợ Lớn Mới (Phsar Thmei)",
+    "name_en": "Central Market (Phsar Thmei)",
+    "name_local": "ផ្សារធំថ្មី",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 11.5695,
+      "lon": 104.921
+    },
+    "address_vi": "Đại lộ Kampuchea Krom, Phnom Penh",
+    "presentation_short_vi": "Chợ Lớn Mới với mái vòm Art Deco màu vàng nổi bật, khánh thành năm 1937. Bán trang sức, đồng hồ, quần áo, đồ lưu niệm và ẩm thực địa phương.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.921,11.5695&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=11.5695,104.921"
+    },
+    "tags": [
+      "market",
+      "shopping",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kh-phnom-penh-choeung-ek",
+    "slug": "choeung-ek",
+    "region": "kh-phnom-penh",
+    "region_name_vi": "Phnom Penh",
+    "country": "cambodia",
+    "name_vi": "Cánh đồng chết Choeung Ek",
+    "name_en": "Choeung Ek Killing Fields",
+    "name_local": "ជើងឯក",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 11.484,
+      "lon": 104.9012
+    },
+    "address_vi": "Xã Choeung Ek, quận Dangkao, Phnom Penh",
+    "presentation_short_vi": "Cánh đồng chết Choeung Ek tưởng niệm nạn nhân thời Khmer Đỏ, cách trung tâm khoảng 15 km. Có bảo tháp kính lưu giữ hàng nghìn hộp sọ để tưởng niệm.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.9012,11.484&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=11.484,104.9012"
+    },
+    "tags": [
+      "history",
+      "memorial"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kh-phnom-penh-wat-ounalom",
+    "slug": "wat-ounalom",
+    "region": "kh-phnom-penh",
+    "region_name_vi": "Phnom Penh",
+    "country": "cambodia",
+    "name_vi": "Chùa Wat Ounalom",
+    "name_en": "Wat Ounalom",
+    "name_local": "វត្តឧណ្ណាលោម",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 11.5716,
+      "lon": 104.9306
+    },
+    "address_vi": "Đại lộ Sisowath Quay, Phnom Penh",
+    "presentation_short_vi": "Ngôi chùa trung tâm của Phật giáo Campuchia bên sông, trụ sở của Tăng thống. Xây từ thế kỷ 15, lưu giữ nhiều bảo vật và thư tịch Phật giáo.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.9306,11.5716&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=11.5716,104.9306"
+    },
+    "tags": [
+      "temple",
+      "riverside"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kh-phnom-penh-sisowath-quay",
+    "slug": "sisowath-quay",
+    "region": "kh-phnom-penh",
+    "region_name_vi": "Phnom Penh",
+    "country": "cambodia",
+    "name_vi": "Đại lộ ven sông Sisowath",
+    "name_en": "Sisowath Quay",
+    "name_local": "ផ្លូវស៊ីសុវត្ថិ",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 11.569,
+      "lon": 104.931
+    },
+    "address_vi": "Bờ sông Tonlé Sap, Phnom Penh",
+    "presentation_short_vi": "Đại lộ ven sông dọc bờ Tonlé Sap và Mekong, tập trung nhà hàng, quán cà phê và du thuyền. Là nơi dạo bộ, ngắm hoàng hôn được yêu thích ở thủ đô.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.931,11.569&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=11.569,104.931"
+    },
+    "tags": [
+      "street",
+      "riverside",
+      "sunset"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  }
+]

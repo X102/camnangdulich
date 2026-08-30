@@ -1,0 +1,197 @@
+[
+  {
+    "id": "th-roi-et-bueng-phlan-chai",
+    "slug": "bueng-phlan-chai",
+    "region": "th-roi-et",
+    "country": "thailand",
+    "region_name_vi": "Roi Et",
+    "name_vi": "Hồ Bueng Phlan Chai",
+    "name_en": "Bueng Phlan Chai",
+    "name_local": "บึงพลาญชัย",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 16.05667,
+      "lon": 103.65194
+    },
+    "address_vi": "Huyện Mueang Roi Et, tỉnh Roi Et",
+    "rating": null,
+    "presentation_short_vi": "Hồ nhân tạo giữa trung tâm thành phố với đảo nhỏ đặt đền thờ cột thành (Lak Mueang) — công viên biểu tượng của Roi Et.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=103.65194,16.05667&z=17&pt=103.65194,16.05667",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.05667,103.65194"
+    },
+    "tags": [
+      "lake",
+      "city-park",
+      "city-pillar",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-roi-et-wat-burapha-phiram",
+    "slug": "wat-burapha-phiram",
+    "region": "th-roi-et",
+    "country": "thailand",
+    "region_name_vi": "Roi Et",
+    "name_vi": "Chùa Burapha Phiram",
+    "name_en": "Wat Burapha Phiram",
+    "name_local": "วัดบูรพาภิราม",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 16.05611,
+      "lon": 103.65833
+    },
+    "address_vi": "Huyện Mueang Roi Et, tỉnh Roi Et",
+    "rating": null,
+    "presentation_short_vi": "Chùa nổi tiếng với tượng Phật đứng Phra Phuttha Rattana Mongkhon cao gần 68 m (cả bệ) — một trong những tượng Phật đứng cao nhất Thái Lan.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=103.65833,16.05611&z=17&pt=103.65833,16.05611",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.05611,103.65833"
+    },
+    "tags": [
+      "temple",
+      "tall-buddha",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-roi-et-phra-maha-chedi-chai-mongkhon",
+    "slug": "phra-maha-chedi-chai-mongkhon",
+    "region": "th-roi-et",
+    "country": "thailand",
+    "region_name_vi": "Roi Et",
+    "name_vi": "Đại bảo tháp Chai Mongkhon (Wat Pha Nam Yoi)",
+    "name_en": "Phra Maha Chedi Chai Mongkhon",
+    "name_local": "พระมหาเจดีย์ชัยมงคล",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 16.27389,
+      "lon": 104.30028
+    },
+    "address_vi": "Huyện Nong Phok, tỉnh Roi Et",
+    "rating": null,
+    "presentation_short_vi": "Đại bảo tháp trắng–vàng nguy nga trên núi Pha Nam Yoi, cao khoảng 101 m, một trong những chùa tháp lớn và lộng lẫy nhất vùng Isan.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=104.30028,16.27389&z=17&pt=104.30028,16.27389",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.27389,104.30028"
+    },
+    "tags": [
+      "pagoda",
+      "mountain",
+      "landmark",
+      "panorama"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-roi-et-ku-phra-kona",
+    "slug": "ku-phra-kona",
+    "region": "th-roi-et",
+    "country": "thailand",
+    "region_name_vi": "Roi Et",
+    "name_vi": "Đền Khmer Ku Phra Kona",
+    "name_en": "Ku Phra Kona",
+    "name_local": "กู่พระโกนา",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 15.60694,
+      "lon": 103.80917
+    },
+    "address_vi": "Huyện Suwannaphum, tỉnh Roi Et",
+    "rating": null,
+    "presentation_short_vi": "Cụm ba ngọn tháp (prang) Khmer thế kỷ 11 bằng gạch và đá ong, nay nằm trong khuôn viên một ngôi chùa đang hoạt động.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=103.80917,15.60694&z=17&pt=103.80917,15.60694",
+      "google": "https://www.google.com/maps/search/?api=1&query=15.60694,103.80917"
+    },
+    "tags": [
+      "khmer",
+      "prang",
+      "ruins",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-roi-et-ku-ka-sing",
+    "slug": "ku-ka-sing",
+    "region": "th-roi-et",
+    "country": "thailand",
+    "region_name_vi": "Roi Et",
+    "name_vi": "Đền Khmer Ku Ka Sing",
+    "name_en": "Ku Ka Sing",
+    "name_local": "กู่กาสิงห์",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 15.64306,
+      "lon": 103.55389
+    },
+    "address_vi": "Huyện Kaset Wisai, tỉnh Roi Et",
+    "rating": null,
+    "presentation_short_vi": "Quần thể đền tháp Khmer thời Baphuon (thế kỷ 11) với các prang gạch trên nền đá ong — di tích khảo cổ quan trọng của Roi Et.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=103.55389,15.64306&z=17&pt=103.55389,15.64306",
+      "google": "https://www.google.com/maps/search/?api=1&query=15.64306,103.55389"
+    },
+    "tags": [
+      "khmer",
+      "prang",
+      "ruins",
+      "archaeology"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-roi-et-national-museum",
+    "slug": "roi-et-national-museum",
+    "region": "th-roi-et",
+    "country": "thailand",
+    "region_name_vi": "Roi Et",
+    "name_vi": "Bảo tàng Quốc gia Roi Et",
+    "name_en": "Roi Et National Museum",
+    "name_local": "พิพิธภัณฑสถานแห่งชาติ ร้อยเอ็ด",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 16.0525,
+      "lon": 103.65083
+    },
+    "address_vi": "Huyện Mueang Roi Et, tỉnh Roi Et",
+    "rating": null,
+    "presentation_short_vi": "Bảo tàng trưng bày cổ vật, tơ lụa và lịch sử – văn hoá vùng đồng bằng Thung Kula Ronghai của tỉnh Roi Et.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=103.65083,16.0525&z=17&pt=103.65083,16.0525",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.0525,103.65083"
+    },
+    "tags": [
+      "museum",
+      "history",
+      "silk",
+      "culture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

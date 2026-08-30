@@ -1,0 +1,250 @@
+[
+  {
+    "id": "kr-daegu-donghwasa",
+    "slug": "donghwasa",
+    "region": "kr-daegu",
+    "region_name_vi": "Daegu",
+    "country": "korea",
+    "name_vi": "Chùa Donghwasa",
+    "name_en": "Donghwasa",
+    "name_local": "동화사",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 35.9931,
+      "lon": 128.7042
+    },
+    "address_vi": "Núi Palgong, Dong-gu, Daegu",
+    "presentation_short_vi": "Ngôi chùa cổ bên sườn núi Palgong, nổi bật với tượng Phật Dược Sư bằng đá cao 33 m ngoài trời; trung tâm Phật giáo lớn của vùng Daegu.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=128.7042,35.9931&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.9931,128.7042"
+    },
+    "tags": [
+      "temple",
+      "historic",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-daegu-gatbawi",
+    "slug": "gatbawi",
+    "region": "kr-daegu",
+    "region_name_vi": "Daegu",
+    "country": "korea",
+    "name_vi": "Tượng Phật đá Gatbawi",
+    "name_en": "Gatbawi",
+    "name_local": "갓바위",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 35.9647,
+      "lon": 128.736
+    },
+    "address_vi": "Núi Palgong (Gwanbong), Daegu",
+    "presentation_short_vi": "Tượng Phật Dược Sư bằng đá trên đỉnh Gwanbong của núi Palgong, đội 'mũ đá' phẳng; điểm hành hương nổi tiếng, người dân tin cầu một điều sẽ được ứng nghiệm.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=128.736,35.9647&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.9647,128.736"
+    },
+    "tags": [
+      "statue",
+      "pilgrimage",
+      "view"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-daegu-seomun-market",
+    "slug": "seomun-market",
+    "region": "kr-daegu",
+    "region_name_vi": "Daegu",
+    "country": "korea",
+    "name_vi": "Chợ Seomun",
+    "name_en": "Seomun Market",
+    "name_local": "서문시장",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 35.8693,
+      "lon": 128.5793
+    },
+    "address_vi": "Jung-gu, Daegu",
+    "presentation_short_vi": "Một trong những chợ truyền thống lớn và lâu đời nhất Daegu, nổi tiếng với hàng vải và khu chợ đêm ẩm thực đông đúc.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=128.5793,35.8693&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.8693,128.5793"
+    },
+    "tags": [
+      "market",
+      "food",
+      "night"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-daegu-yangnyeongsi",
+    "slug": "yangnyeongsi",
+    "region": "kr-daegu",
+    "region_name_vi": "Daegu",
+    "country": "korea",
+    "name_vi": "Chợ thuốc Đông y Yangnyeongsi",
+    "name_en": "Yangnyeongsi Herb Medicine Market",
+    "name_local": "약령시",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 35.8676,
+      "lon": 128.5908
+    },
+    "address_vi": "Jung-gu, Daegu",
+    "presentation_short_vi": "Khu chợ thuốc Đông y lâu đời hơn 350 năm ở Daegu, thơm mùi dược liệu, có bảo tàng y học cổ truyền giới thiệu lịch sử nghề thuốc.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=128.5908,35.8676&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.8676,128.5908"
+    },
+    "tags": [
+      "market",
+      "history",
+      "medicine"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-daegu-kim-kwang-seok-road",
+    "slug": "kim-kwang-seok-road",
+    "region": "kr-daegu",
+    "region_name_vi": "Daegu",
+    "country": "korea",
+    "name_vi": "Đường Kim Kwang-seok",
+    "name_en": "Kim Kwang-seok Road",
+    "name_local": "김광석다시그리기길",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 35.8628,
+      "lon": 128.6055
+    },
+    "address_vi": "Jung-gu, Daegu",
+    "presentation_short_vi": "Con đường tưởng nhớ ca sĩ nhạc folk Kim Kwang-seok gần chợ Bangcheon, dài khoảng 350 m với tranh tường và tượng về cuộc đời, âm nhạc của ông.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=128.6055,35.8628&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.8628,128.6055"
+    },
+    "tags": [
+      "art",
+      "street",
+      "photo"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-daegu-apsan-park",
+    "slug": "apsan-park",
+    "region": "kr-daegu",
+    "region_name_vi": "Daegu",
+    "country": "korea",
+    "name_vi": "Công viên Apsan",
+    "name_en": "Apsan Park",
+    "name_local": "앞산공원",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.801,
+      "lon": 128.576
+    },
+    "address_vi": "Nam-gu, Daegu",
+    "presentation_short_vi": "Công viên trên núi Apsan phía nam Daegu, có tuyến cáp treo lên đài quan sát ngắm toàn cảnh thành phố; nhiều đường mòn đi bộ và đền chùa nhỏ.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=128.576,35.801&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.801,128.576"
+    },
+    "tags": [
+      "mountain",
+      "view",
+      "cablecar"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-daegu-eworld-83tower",
+    "slug": "eworld-83tower",
+    "region": "kr-daegu",
+    "region_name_vi": "Daegu",
+    "country": "korea",
+    "name_vi": "E-World và Tháp 83",
+    "name_en": "E-World & 83 Tower",
+    "name_local": "이월드 83타워",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 35.8534,
+      "lon": 128.5648
+    },
+    "address_vi": "Duryu-dong, Dalseo-gu, Daegu",
+    "presentation_short_vi": "Công viên giải trí bên tháp quan sát 83 Tower cao 202 m ở khu Duryu; nổi tiếng với các trò chơi, lễ hội ánh sáng và tầm nhìn toàn cảnh Daegu.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=128.5648,35.8534&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.8534,128.5648"
+    },
+    "tags": [
+      "amusement",
+      "tower",
+      "view"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kr-daegu-gyesan-cathedral",
+    "slug": "gyesan-cathedral",
+    "region": "kr-daegu",
+    "region_name_vi": "Daegu",
+    "country": "korea",
+    "name_vi": "Nhà thờ Gyesan",
+    "name_en": "Gyesan Cathedral",
+    "name_local": "계산성당",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 35.8663,
+      "lon": 128.5877
+    },
+    "address_vi": "Jung-gu, Daegu",
+    "presentation_short_vi": "Nhà thờ Công giáo kiểu Gothic xây năm 1902, một trong những nhà thờ Tây phương cổ nhất vùng Yeongnam; nằm trong khu phố lịch sử cận đại của Daegu.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=128.5877,35.8663&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.8663,128.5877"
+    },
+    "tags": [
+      "church",
+      "historic",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  }
+]

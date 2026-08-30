@@ -1,0 +1,301 @@
+[
+  {
+    "id": "th-phuket-big-buddha",
+    "slug": "big-buddha",
+    "region": "th-phuket",
+    "country": "thailand",
+    "region_name_vi": "Phuket",
+    "name_vi": "Tượng Phật Lớn Phuket (Big Buddha)",
+    "name_en": "Great Buddha of Phuket",
+    "name_local": "พระพุทธมิ่งมงคลเอกนาคคีรี (พระใหญ่)",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 7.8277,
+      "lon": 98.312
+    },
+    "address_vi": "Đồi Nakkerd, xã Karon, huyện Mueang Phuket",
+    "rating": null,
+    "presentation_short_vi": "Tượng Phật Lớn Phuket cao 45 m bằng bê tông ốp đá cẩm thạch trắng, tọa lạc trên đồi Nakkerd. Từ đây du khách ngắm được toàn cảnh hòn đảo và nhiều bãi biển.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=98.312,7.8277&z=17&pt=98.312,7.8277",
+      "google": "https://www.google.com/maps/search/?api=1&query=7.8277,98.312"
+    },
+    "tags": [
+      "landmark",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "th-phuket-wat-chalong",
+    "slug": "wat-chalong",
+    "region": "th-phuket",
+    "country": "thailand",
+    "region_name_vi": "Phuket",
+    "name_vi": "Chùa Chalong",
+    "name_en": "Wat Chalong",
+    "name_local": "วัดฉลอง (วัดไชยธาราราม)",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 7.8446,
+      "lon": 98.3374
+    },
+    "address_vi": "Xã Chalong, huyện Mueang Phuket",
+    "rating": null,
+    "presentation_short_vi": "Chùa Chalong là ngôi chùa lớn và linh thiêng nhất Phuket, thờ các vị sư trụ trì được tôn kính. Kiến trúc rực rỡ và bảo tháp chứa xá lợi Phật là điểm nhấn.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=98.3374,7.8446&z=17&pt=98.3374,7.8446",
+      "google": "https://www.google.com/maps/search/?api=1&query=7.8446,98.3374"
+    },
+    "tags": [
+      "temple",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "th-phuket-patong-beach",
+    "slug": "patong-beach",
+    "region": "th-phuket",
+    "country": "thailand",
+    "region_name_vi": "Phuket",
+    "name_vi": "Bãi biển Patong",
+    "name_en": "Patong Beach",
+    "name_local": "หาดป่าตอง",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 7.8965,
+      "lon": 98.2966
+    },
+    "address_vi": "Thị trấn Patong, huyện Kathu, Phuket",
+    "rating": null,
+    "presentation_short_vi": "Bãi biển Patong là bãi biển nổi tiếng và nhộn nhịp nhất Phuket với cát trắng, nước biển xanh và các môn thể thao dưới nước. Về đêm, khu vực này sôi động bậc nhất đảo.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=98.2966,7.8965&z=17&pt=98.2966,7.8965",
+      "google": "https://www.google.com/maps/search/?api=1&query=7.8965,98.2966"
+    },
+    "tags": [
+      "beach",
+      "nightlife"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "th-phuket-promthep-cape",
+    "slug": "promthep-cape",
+    "region": "th-phuket",
+    "country": "thailand",
+    "region_name_vi": "Phuket",
+    "name_vi": "Mũi Promthep",
+    "name_en": "Laem Phromthep (Promthep Cape)",
+    "name_local": "แหลมพรหมเทพ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 7.7618,
+      "lon": 98.305
+    },
+    "address_vi": "Xã Rawai, huyện Mueang Phuket (cực nam đảo)",
+    "rating": null,
+    "presentation_short_vi": "Mũi Promthep là điểm cực nam của đảo Phuket, nổi tiếng là nơi ngắm hoàng hôn đẹp nhất. Khung cảnh biển Andaman và các hòn đảo nhỏ khiến nơi đây luôn đông du khách lúc chiều tà.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=98.305,7.7618&z=17&pt=98.305,7.7618",
+      "google": "https://www.google.com/maps/search/?api=1&query=7.7618,98.305"
+    },
+    "tags": [
+      "viewpoint",
+      "sunset"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "th-phuket-old-phuket-town",
+    "slug": "old-phuket-town",
+    "region": "th-phuket",
+    "country": "thailand",
+    "region_name_vi": "Phuket",
+    "name_vi": "Phố cổ Phuket",
+    "name_en": "Old Phuket Town",
+    "name_local": "ย่านเมืองเก่าภูเก็ต",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 7.8843,
+      "lon": 98.3878
+    },
+    "address_vi": "Đường Thalang, TP Phuket",
+    "rating": null,
+    "presentation_short_vi": "Phố cổ Phuket quyến rũ với những dãy nhà kiến trúc Hoa - Bồ (Sino-Portuguese) đầy màu sắc. Các con phố Thalang, Dibuk có nhiều quán cà phê, tiệm ăn và tranh bích họa nghệ thuật.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=98.3878,7.8843&z=17&pt=98.3878,7.8843",
+      "google": "https://www.google.com/maps/search/?api=1&query=7.8843,98.3878"
+    },
+    "tags": [
+      "heritage",
+      "street"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "th-phuket-kata-beach",
+    "slug": "kata-beach",
+    "region": "th-phuket",
+    "country": "thailand",
+    "region_name_vi": "Phuket",
+    "name_vi": "Bãi biển Kata",
+    "name_en": "Kata Beach",
+    "name_local": "หาดกะตะ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 7.8203,
+      "lon": 98.2986
+    },
+    "address_vi": "Xã Karon, huyện Mueang Phuket",
+    "rating": null,
+    "presentation_short_vi": "Bãi biển Kata là bãi tắm cát trắng mịn, nước trong, phù hợp cho gia đình và lướt sóng theo mùa. Không khí thư thái với nhiều nhà hàng và khu nghỉ dưỡng.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=98.2986,7.8203&z=17&pt=98.2986,7.8203",
+      "google": "https://www.google.com/maps/search/?api=1&query=7.8203,98.2986"
+    },
+    "tags": [
+      "beach"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "th-phuket-karon-beach",
+    "slug": "karon-beach",
+    "region": "th-phuket",
+    "country": "thailand",
+    "region_name_vi": "Phuket",
+    "name_vi": "Bãi biển Karon",
+    "name_en": "Karon Beach",
+    "name_local": "หาดกะรน",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 7.8461,
+      "lon": 98.2946
+    },
+    "address_vi": "Xã Karon, huyện Mueang Phuket",
+    "rating": null,
+    "presentation_short_vi": "Bãi biển Karon là bãi biển dài thứ hai Phuket với cát trắng mịn và ít đông đúc hơn Patong. Đây là nơi lý tưởng để tắm biển và ngắm hoàng hôn.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=98.2946,7.8461&z=17&pt=98.2946,7.8461",
+      "google": "https://www.google.com/maps/search/?api=1&query=7.8461,98.2946"
+    },
+    "tags": [
+      "beach",
+      "sunset"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "th-phuket-bangla-road",
+    "slug": "bangla-road",
+    "region": "th-phuket",
+    "country": "thailand",
+    "region_name_vi": "Phuket",
+    "name_vi": "Phố Bangla",
+    "name_en": "Bangla Road",
+    "name_local": "ถนนบางลา",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 7.8925,
+      "lon": 98.2969
+    },
+    "address_vi": "Thị trấn Patong, huyện Kathu, Phuket",
+    "rating": null,
+    "presentation_short_vi": "Phố Bangla ở Patong là trung tâm giải trí về đêm sôi động nhất Phuket. Con phố đi bộ rực rỡ ánh đèn với vô số quán bar, câu lạc bộ và biểu diễn đường phố.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=98.2969,7.8925&z=17&pt=98.2969,7.8925",
+      "google": "https://www.google.com/maps/search/?api=1&query=7.8925,98.2969"
+    },
+    "tags": [
+      "nightlife",
+      "street"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "th-phuket-nai-harn-beach",
+    "slug": "nai-harn-beach",
+    "region": "th-phuket",
+    "country": "thailand",
+    "region_name_vi": "Phuket",
+    "name_vi": "Bãi biển Nai Harn",
+    "name_en": "Nai Harn Beach",
+    "name_local": "หาดในหาน",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 7.7743,
+      "lon": 98.3042
+    },
+    "address_vi": "Xã Rawai, huyện Mueang Phuket",
+    "rating": null,
+    "presentation_short_vi": "Bãi biển Nai Harn là vịnh biển yên bình ở phía nam đảo, được bao quanh bởi đồi xanh. Nước biển trong vắt và khung cảnh thanh bình khiến nơi đây được yêu thích.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=98.3042,7.7743&z=17&pt=98.3042,7.7743",
+      "google": "https://www.google.com/maps/search/?api=1&query=7.7743,98.3042"
+    },
+    "tags": [
+      "beach",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "th-phuket-karon-viewpoint",
+    "slug": "karon-viewpoint",
+    "region": "th-phuket",
+    "country": "thailand",
+    "region_name_vi": "Phuket",
+    "name_vi": "Điểm ngắm cảnh Karon (Ba vịnh)",
+    "name_en": "Karon Viewpoint",
+    "name_local": "จุดชมวิวกะรน",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 7.7931,
+      "lon": 98.3039
+    },
+    "address_vi": "Đường 4233, giữa Nai Harn và Kata, Phuket",
+    "rating": null,
+    "presentation_short_vi": "Điểm ngắm cảnh Karon (còn gọi là điểm ngắm ba vịnh) nhìn xuống ba bãi biển Kata Noi, Kata và Karon. Đây là nơi chụp ảnh toàn cảnh bờ biển đẹp bậc nhất Phuket.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=98.3039,7.7931&z=17&pt=98.3039,7.7931",
+      "google": "https://www.google.com/maps/search/?api=1&query=7.7931,98.3039"
+    },
+    "tags": [
+      "viewpoint",
+      "sunset"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  }
+]

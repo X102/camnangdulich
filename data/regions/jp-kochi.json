@@ -1,0 +1,285 @@
+[
+  {
+    "id": "jp-kochi-kochi-castle",
+    "slug": "kochi-castle",
+    "region": "jp-kochi",
+    "country": "japan",
+    "region_name_vi": "Kochi",
+    "name_vi": "Lâu đài Kōchi",
+    "name_en": "Kōchi Castle",
+    "name_local": "高知城",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 33.5611,
+      "lon": 133.5314
+    },
+    "address_vi": "1-2-1 Marunouchi, TP Kōchi, Kōchi",
+    "presentation_short_vi": "Một trong 12 toà thành Nhật còn giữ tháp thiên thủ nguyên bản, và là toà duy nhất còn nguyên vẹn cả tháp lẫn dinh thự honmaru thời Edo, sừng sững giữa trung tâm thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=33.5611,133.5314",
+      "yandex": "https://yandex.com/maps/?pt=133.5314,33.5611&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "castle",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-kochi-katsurahama",
+    "slug": "katsurahama",
+    "region": "jp-kochi",
+    "country": "japan",
+    "region_name_vi": "Kochi",
+    "name_vi": "Bãi biển Katsurahama",
+    "name_en": "Katsurahama Beach",
+    "name_local": "桂浜",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 33.4972,
+      "lon": 133.5747
+    },
+    "address_vi": "Urado, TP Kōchi, Kōchi",
+    "presentation_short_vi": "Bãi biển hình vòng cung với bờ cát và rừng thông, nơi đặt tượng nhà duy tân Sakamoto Ryōma hướng ra Thái Bình Dương, được coi là biểu tượng của tỉnh Kōchi.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=33.4972,133.5747",
+      "yandex": "https://yandex.com/maps/?pt=133.5747,33.4972&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "beach",
+      "coast",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-kochi-chikurin-ji",
+    "slug": "chikurin-ji",
+    "region": "jp-kochi",
+    "country": "japan",
+    "region_name_vi": "Kochi",
+    "name_vi": "Chùa Chikurin-ji",
+    "name_en": "Chikurin-ji Temple",
+    "name_local": "竹林寺",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 33.5563,
+      "lon": 133.5828
+    },
+    "address_vi": "3577 Godaisan, TP Kōchi, Kōchi",
+    "presentation_short_vi": "Ngôi chùa thứ 31 trên hành trình 88 chùa Shikoku, toạ lạc trên đồi Godaisan với tháp năm tầng và khu vườn Nhật cổ được xếp hạng danh thắng quốc gia.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=33.5563,133.5828",
+      "yandex": "https://yandex.com/maps/?pt=133.5828,33.5563&z=16&l=map"
+    },
+    "tags": [
+      "temple",
+      "pilgrimage",
+      "garden",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-kochi-makino-botanical-garden",
+    "slug": "makino-botanical-garden",
+    "region": "jp-kochi",
+    "country": "japan",
+    "region_name_vi": "Kochi",
+    "name_vi": "Vườn Bách thảo Makino",
+    "name_en": "Makino Botanical Garden",
+    "name_local": "牧野植物園",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 33.5568,
+      "lon": 133.5842
+    },
+    "address_vi": "4200-6 Godaisan, TP Kōchi, Kōchi",
+    "presentation_short_vi": "Vườn thực vật rộng lớn trên đồi Godaisan tôn vinh Makino Tomitarō – cha đẻ của ngành thực vật học Nhật Bản, trồng hơn 3.000 loài cây cỏ bốn mùa.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=33.5568,133.5842",
+      "yandex": "https://yandex.com/maps/?pt=133.5842,33.5568&z=16&l=map"
+    },
+    "tags": [
+      "garden",
+      "nature",
+      "botanical"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-kochi-cape-ashizuri",
+    "slug": "cape-ashizuri",
+    "region": "jp-kochi",
+    "country": "japan",
+    "region_name_vi": "Kochi",
+    "name_vi": "Mũi Ashizuri",
+    "name_en": "Cape Ashizuri",
+    "name_local": "足摺岬",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 32.7267,
+      "lon": 133.0194
+    },
+    "address_vi": "Ashizurimisaki, TP Tosashimizu, Kōchi",
+    "presentation_short_vi": "Điểm cực nam của đảo Shikoku với vách đá dựng đứng cao gần 80 m, ngọn hải đăng trắng và tầm nhìn bao la ra Thái Bình Dương, trung tâm Vườn quốc gia Ashizuri–Uwakai.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=32.7267,133.0194",
+      "yandex": "https://yandex.com/maps/?pt=133.0194,32.7267&z=16&l=map"
+    },
+    "tags": [
+      "cape",
+      "lighthouse",
+      "coast",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-kochi-cape-muroto",
+    "slug": "cape-muroto",
+    "region": "jp-kochi",
+    "country": "japan",
+    "region_name_vi": "Kochi",
+    "name_vi": "Mũi Muroto",
+    "name_en": "Cape Muroto",
+    "name_local": "室戸岬",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 33.2453,
+      "lon": 134.1756
+    },
+    "address_vi": "Murotomisakichō, TP Muroto, Kōchi",
+    "presentation_short_vi": "Mỏm đất phía đông nam Shikoku với bờ đá gồ ghề nhô lên từ lòng biển, được UNESCO công nhận công viên địa chất toàn cầu, gắn với truyền thuyết tu hành của nhà sư Kūkai.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=33.2453,134.1756",
+      "yandex": "https://yandex.com/maps/?pt=134.1756,33.2453&z=16&l=map"
+    },
+    "tags": [
+      "cape",
+      "geopark",
+      "coast",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-kochi-hirome-market",
+    "slug": "hirome-market",
+    "region": "jp-kochi",
+    "country": "japan",
+    "region_name_vi": "Kochi",
+    "name_vi": "Chợ Hirome",
+    "name_en": "Hirome Market",
+    "name_local": "ひろめ市場",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 33.5601,
+      "lon": 133.5375
+    },
+    "address_vi": "2-3-1 Obiyamachi, TP Kōchi, Kōchi",
+    "presentation_short_vi": "Khu chợ ẩm thực sầm uất gần lâu đài Kōchi, nơi thực khách quây quần thưởng thức món cá ngừ nướng rơm katsuo no tataki trứ danh của xứ Tosa.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=33.5601,133.5375",
+      "yandex": "https://yandex.com/maps/?pt=133.5375,33.5601&z=16&l=map"
+    },
+    "tags": [
+      "market",
+      "food",
+      "local"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-kochi-ryugado-cave",
+    "slug": "ryugado-cave",
+    "region": "jp-kochi",
+    "country": "japan",
+    "region_name_vi": "Kochi",
+    "name_vi": "Động Ryūgadō",
+    "name_en": "Ryūgadō Cave",
+    "name_local": "龍河洞",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 33.6106,
+      "lon": 133.755
+    },
+    "address_vi": "1424 Kamino, Tosayamada-chō, TP Kami, Kōchi",
+    "presentation_short_vi": "Một trong ba hang động đá vôi lớn của Nhật Bản, dài khoảng 4 km với thạch nhũ, suối ngầm và cả di tích chum gốm thời tiền sử dính chặt vào nhũ đá.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=33.6106,133.755",
+      "yandex": "https://yandex.com/maps/?pt=133.755,33.6106&z=16&l=map"
+    },
+    "tags": [
+      "cave",
+      "nature",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-kochi-shimanto-river",
+    "slug": "shimanto-river",
+    "region": "jp-kochi",
+    "country": "japan",
+    "region_name_vi": "Kochi",
+    "name_vi": "Sông Shimanto",
+    "name_en": "Shimanto River",
+    "name_local": "四万十川",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 32.988,
+      "lon": 132.933
+    },
+    "address_vi": "TP Shimanto, Kōchi",
+    "presentation_short_vi": "Dòng sông dài nhất Shikoku, được mệnh danh dòng nước trong cuối cùng của Nhật Bản, nổi tiếng với những cây cầu chìm chinkabashi không lan can bắc qua làn nước xanh biếc.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=32.988,132.933",
+      "yandex": "https://yandex.com/maps/?pt=132.933,32.988&z=16&l=map"
+    },
+    "tags": [
+      "river",
+      "nature",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

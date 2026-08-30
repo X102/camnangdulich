@@ -1,0 +1,250 @@
+[
+  {
+    "id": "my-pahang-cameron-highlands",
+    "slug": "cameron-highlands",
+    "region": "my-pahang",
+    "region_name_vi": "Pahang",
+    "country": "malaysia",
+    "name_vi": "Cao nguyên Cameron",
+    "name_en": "Cameron Highlands",
+    "name_local": "Tanah Tinggi Cameron",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 4.4712,
+      "lon": 101.3801
+    },
+    "address_vi": "Huyện Cameron Highlands, Pahang",
+    "presentation_short_vi": "Cao nguyên nghỉ mát ở độ cao khoảng 1.500 m với khí hậu mát quanh năm, trứ danh về đồi chè xanh mướt, vườn dâu tây và rừng rêu.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.3801,4.4712&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=4.4712,101.3801"
+    },
+    "tags": [
+      "highland",
+      "tea",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-pahang-genting-highlands",
+    "slug": "genting-highlands",
+    "region": "my-pahang",
+    "region_name_vi": "Pahang",
+    "country": "malaysia",
+    "name_vi": "Cao nguyên Genting",
+    "name_en": "Genting Highlands",
+    "name_local": "Tanah Tinggi Genting",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 3.4227,
+      "lon": 101.7931
+    },
+    "address_vi": "Bentong, Pahang (giáp Selangor)",
+    "presentation_short_vi": "Khu nghỉ dưỡng trên đỉnh núi Ulu Kali cao khoảng 1.800 m, nổi tiếng với khách sạn khổng lồ, công viên giải trí ngoài trời, sòng bạc và cáp treo Awana SkyWay.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.7931,3.4227&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=3.4227,101.7931"
+    },
+    "tags": [
+      "highland",
+      "resort",
+      "theme_park"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-pahang-tioman-island",
+    "slug": "tioman-island",
+    "region": "my-pahang",
+    "region_name_vi": "Pahang",
+    "country": "malaysia",
+    "name_vi": "Đảo Tioman",
+    "name_en": "Tioman Island",
+    "name_local": "Pulau Tioman",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 2.7908,
+      "lon": 104.1608
+    },
+    "address_vi": "Huyện Rompin, ngoài khơi bờ đông Pahang",
+    "presentation_short_vi": "Hòn đảo núi rừng nhiệt đới ngoài khơi bờ đông, nổi tiếng với bãi biển cát trắng, rạn san hô lặn ngắm và làng chài yên bình.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=104.1608,2.7908&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=2.7908,104.1608"
+    },
+    "tags": [
+      "island",
+      "beach",
+      "diving"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-pahang-taman-negara",
+    "slug": "taman-negara",
+    "region": "my-pahang",
+    "region_name_vi": "Pahang",
+    "country": "malaysia",
+    "name_vi": "Vườn quốc gia Taman Negara",
+    "name_en": "Taman Negara National Park",
+    "name_local": "Taman Negara",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 4.3846,
+      "lon": 102.4062
+    },
+    "address_vi": "Kuala Tahan, Jerantut, Pahang",
+    "presentation_short_vi": "Một trong những khu rừng mưa nhiệt đới lâu đời nhất thế giới (~130 triệu năm), nổi tiếng với cầu treo tán rừng, sông và đa dạng sinh học phong phú.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=102.4062,4.3846&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=4.3846,102.4062"
+    },
+    "tags": [
+      "rainforest",
+      "national_park",
+      "canopy_walk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-pahang-frasers-hill",
+    "slug": "frasers-hill",
+    "region": "my-pahang",
+    "region_name_vi": "Pahang",
+    "country": "malaysia",
+    "name_vi": "Đồi Fraser (Bukit Fraser)",
+    "name_en": "Fraser's Hill",
+    "name_local": "Bukit Fraser",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 3.7145,
+      "lon": 101.7385
+    },
+    "address_vi": "Huyện Raub, Pahang",
+    "presentation_short_vi": "Trạm nghỉ mát vùng cao mang phong cách kiến trúc Anh, khí hậu mát mẻ, nổi tiếng là thiên đường ngắm chim với hàng trăm loài.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.7385,3.7145&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=3.7145,101.7385"
+    },
+    "tags": [
+      "highland",
+      "birdwatching",
+      "colonial"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-pahang-sultan-ahmad-shah-mosque",
+    "slug": "sultan-ahmad-shah-state-mosque",
+    "region": "my-pahang",
+    "region_name_vi": "Pahang",
+    "country": "malaysia",
+    "name_vi": "Thánh đường Hồi giáo bang Sultan Ahmad Shah",
+    "name_en": "Sultan Ahmad Shah State Mosque",
+    "name_local": "Masjid Sultan Ahmad Shah",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 3.8081,
+      "lon": 103.3261
+    },
+    "address_vi": "Trung tâm Kuantan, Pahang",
+    "presentation_short_vi": "Thánh đường bang của Pahang tại trung tâm Kuantan, công trình lớn nổi bật bên quảng trường Padang với các mái vòm và tháp giáo đường.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=103.3261,3.8081&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=3.8081,103.3261"
+    },
+    "tags": [
+      "mosque",
+      "landmark",
+      "kuantan"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-pahang-teluk-cempedak",
+    "slug": "teluk-cempedak",
+    "region": "my-pahang",
+    "region_name_vi": "Pahang",
+    "country": "malaysia",
+    "name_vi": "Bãi biển Teluk Cempedak",
+    "name_en": "Teluk Cempedak Beach",
+    "name_local": "Teluk Cempedak",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 3.813,
+      "lon": 103.372
+    },
+    "address_vi": "Kuantan, Pahang",
+    "presentation_short_vi": "Bãi biển nổi tiếng nhất Kuantan với bờ cát dài, ghềnh đá và lối đi dạo ven biển, điểm dạo chơi và ẩm thực được yêu thích.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=103.372,3.813&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=3.813,103.372"
+    },
+    "tags": [
+      "beach",
+      "kuantan",
+      "seaside"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-pahang-tasik-chini",
+    "slug": "tasik-chini",
+    "region": "my-pahang",
+    "region_name_vi": "Pahang",
+    "country": "malaysia",
+    "name_vi": "Hồ Chini (Tasik Chini)",
+    "name_en": "Chini Lake",
+    "name_local": "Tasik Chini",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 3.4333,
+      "lon": 102.9167
+    },
+    "address_vi": "Huyện Pekan, Pahang",
+    "presentation_short_vi": "Hồ nước ngọt lớn thứ hai Malaysia, khu dự trữ sinh quyển UNESCO, nổi tiếng với sen súng nở rộ và văn hóa người Orang Asli bản địa.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=102.9167,3.4333&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=3.4333,102.9167"
+    },
+    "tags": [
+      "lake",
+      "biosphere",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

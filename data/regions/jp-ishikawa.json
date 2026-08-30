@@ -1,0 +1,305 @@
+[
+  {
+    "id": "jp-ishikawa-kenrokuen",
+    "slug": "kenrokuen",
+    "region": "jp-ishikawa",
+    "country": "japan",
+    "region_name_vi": "Ishikawa",
+    "name_vi": "Vườn Kenroku-en",
+    "name_en": "Kenroku-en",
+    "name_local": "兼六園",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.5622,
+      "lon": 136.6625
+    },
+    "address_vi": "1 Kenrokumachi, Kanazawa",
+    "presentation_short_vi": "Một trong ba khu vườn đẹp nhất Nhật Bản (tam danh viên), kiệt tác vườn dạo bộ thời Edo với hồ, suối và đèn đá Kotoji.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.5622,136.6625",
+      "yandex": "https://yandex.com/maps/?pt=136.6625,36.5622&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "unesco",
+      "garden"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-ishikawa-kanazawa-castle",
+    "slug": "kanazawa-castle",
+    "region": "jp-ishikawa",
+    "country": "japan",
+    "region_name_vi": "Ishikawa",
+    "name_vi": "Lâu đài Kanazawa",
+    "name_en": "Kanazawa Castle",
+    "name_local": "金沢城",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 36.565,
+      "lon": 136.6592
+    },
+    "address_vi": "1-1 Marunouchi, Kanazawa",
+    "presentation_short_vi": "Toà thành lớn của gia tộc Maeda thời Edo, nổi bật với tường trắng và mái ngói chì, nằm cạnh vườn Kenroku-en.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.565,136.6592",
+      "yandex": "https://yandex.com/maps/?pt=136.6592,36.565&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "castle"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-ishikawa-higashi-chaya",
+    "slug": "higashi-chaya",
+    "region": "jp-ishikawa",
+    "country": "japan",
+    "region_name_vi": "Ishikawa",
+    "name_vi": "Khu phố cổ Higashi Chaya",
+    "name_en": "Higashi Chaya District",
+    "name_local": "ひがし茶屋街",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 36.572,
+      "lon": 136.6669
+    },
+    "address_vi": "Higashiyama, Kanazawa",
+    "presentation_short_vi": "Khu phố trà đạo (geisha) cổ được bảo tồn với những căn nhà gỗ hai tầng, quán trà và xưởng dát vàng lá.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.572,136.6669",
+      "yandex": "https://yandex.com/maps/?pt=136.6669,36.572&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "historic",
+      "street"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-ishikawa-kanazawa-21st-century-museum",
+    "slug": "kanazawa-21st-century-museum",
+    "region": "jp-ishikawa",
+    "country": "japan",
+    "region_name_vi": "Ishikawa",
+    "name_vi": "Bảo tàng Nghệ thuật Đương đại Thế kỷ 21",
+    "name_en": "21st Century Museum of Contemporary Art",
+    "name_local": "金沢21世紀美術館",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 36.5606,
+      "lon": 136.6583
+    },
+    "address_vi": "1-2-1 Hirosaka, Kanazawa",
+    "presentation_short_vi": "Bảo tàng nghệ thuật đương đại hình tròn bằng kính, nổi tiếng với tác phẩm 'Hồ bơi' của Leandro Erlich.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.5606,136.6583",
+      "yandex": "https://yandex.com/maps/?pt=136.6583,36.5606&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "museum",
+      "art"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-ishikawa-nagamachi-samurai",
+    "slug": "nagamachi-samurai",
+    "region": "jp-ishikawa",
+    "country": "japan",
+    "region_name_vi": "Ishikawa",
+    "name_vi": "Khu võ sĩ Nagamachi",
+    "name_en": "Nagamachi Samurai District",
+    "name_local": "長町武家屋敷跡",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 36.5678,
+      "lon": 136.6522
+    },
+    "address_vi": "Nagamachi, Kanazawa",
+    "presentation_short_vi": "Khu phố cổ với những dinh thự võ sĩ đạo, tường đất và kênh nước thời phong kiến được gìn giữ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.5678,136.6522",
+      "yandex": "https://yandex.com/maps/?pt=136.6522,36.5678&z=16&l=map"
+    },
+    "tags": [
+      "historic",
+      "street"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-ishikawa-omicho-market",
+    "slug": "omicho-market",
+    "region": "jp-ishikawa",
+    "country": "japan",
+    "region_name_vi": "Ishikawa",
+    "name_vi": "Chợ Ōmichō",
+    "name_en": "Ōmichō Market",
+    "name_local": "近江町市場",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 36.5714,
+      "lon": 136.6575
+    },
+    "address_vi": "50 Kamiomicho, Kanazawa",
+    "presentation_short_vi": "Chợ hải sản và thực phẩm nhộn nhịp hơn 300 năm tuổi, được gọi là 'gian bếp của Kanazawa'.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.5714,136.6575",
+      "yandex": "https://yandex.com/maps/?pt=136.6575,36.5714&z=16&l=map"
+    },
+    "tags": [
+      "market",
+      "food"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-ishikawa-myoryuji-ninja",
+    "slug": "myoryuji-ninja",
+    "region": "jp-ishikawa",
+    "country": "japan",
+    "region_name_vi": "Ishikawa",
+    "name_vi": "Chùa Myōryū-ji (Chùa Ninja)",
+    "name_en": "Myōryū-ji (Ninja Temple)",
+    "name_local": "妙立寺",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 36.5578,
+      "lon": 136.6539
+    },
+    "address_vi": "1-2-12 Nomachi, Kanazawa",
+    "presentation_short_vi": "Ngôi chùa với hệ thống cửa bẫy, cầu thang bí mật và lối đi ngầm tinh vi, được mệnh danh 'chùa Ninja'.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.5578,136.6539",
+      "yandex": "https://yandex.com/maps/?pt=136.6539,36.5578&z=16&l=map"
+    },
+    "tags": [
+      "temple",
+      "unique"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-ishikawa-oyama-shrine",
+    "slug": "oyama-shrine",
+    "region": "jp-ishikawa",
+    "country": "japan",
+    "region_name_vi": "Ishikawa",
+    "name_vi": "Đền Oyama",
+    "name_en": "Oyama Shrine",
+    "name_local": "尾山神社",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 36.5664,
+      "lon": 136.6547
+    },
+    "address_vi": "11-1 Oyamamachi, Kanazawa",
+    "presentation_short_vi": "Đền thờ lãnh chúa Maeda Toshiie với cổng thần đạo kiến trúc pha trộn Nhật - phương Tây độc đáo có ô kính màu.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.5664,136.6547",
+      "yandex": "https://yandex.com/maps/?pt=136.6547,36.5664&z=16&l=map"
+    },
+    "tags": [
+      "shrine",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-ishikawa-notojima-aquarium",
+    "slug": "notojima-aquarium",
+    "region": "jp-ishikawa",
+    "country": "japan",
+    "region_name_vi": "Ishikawa",
+    "name_vi": "Thủy cung Notojima",
+    "name_en": "Notojima Aquarium",
+    "name_local": "のとじま水族館",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 37.0906,
+      "lon": 136.9139
+    },
+    "address_vi": "15-40 Notojimamagarimachi, Nanao",
+    "presentation_short_vi": "Thủy cung lớn trên đảo Noto với cá mập voi, cá heo và các bể cá nổi tiếng vùng biển Nhật Bản.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.0906,136.9139",
+      "yandex": "https://yandex.com/maps/?pt=136.9139,37.0906&z=16&l=map"
+    },
+    "tags": [
+      "family",
+      "aquarium"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-ishikawa-chirihama-beach",
+    "slug": "chirihama-beach",
+    "region": "jp-ishikawa",
+    "country": "japan",
+    "region_name_vi": "Ishikawa",
+    "name_vi": "Bãi biển lái xe Chirihama",
+    "name_en": "Chirihama Nagisa Driveway",
+    "name_local": "千里浜なぎさドライブウェイ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.8797,
+      "lon": 136.7758
+    },
+    "address_vi": "Chirihamacho, Hakui",
+    "presentation_short_vi": "Bãi biển độc đáo dài khoảng 8km cho phép ô tô chạy trên nền cát ẩm ven biển Nhật Bản.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.8797,136.7758",
+      "yandex": "https://yandex.com/maps/?pt=136.7758,36.8797&z=16&l=map"
+    },
+    "tags": [
+      "beach",
+      "unique"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

@@ -1,0 +1,247 @@
+[
+  {
+    "id": "kr-gwangju-mudeungsan",
+    "slug": "mudeungsan",
+    "region": "kr-gwangju",
+    "region_name_vi": "Gwangju",
+    "country": "korea",
+    "name_vi": "Vườn quốc gia Mudeungsan",
+    "name_en": "Mudeungsan National Park",
+    "name_local": "무등산국립공원",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.134,
+      "lon": 126.9885
+    },
+    "address_vi": "Dong-gu, Gwangju (giáp Jeolla Nam)",
+    "presentation_short_vi": "Vườn quốc gia bao quanh thành phố với các cột đá lục lăng kỳ vĩ trên đỉnh (Jusangjeolli); điểm leo núi biểu tượng của Gwangju.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.9885,35.134&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.134,126.9885"
+    },
+    "tags": [
+      "mountain",
+      "nature",
+      "park"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-gwangju-asia-culture-center",
+    "slug": "asia-culture-center",
+    "region": "kr-gwangju",
+    "region_name_vi": "Gwangju",
+    "country": "korea",
+    "name_vi": "Trung tâm Văn hoá châu Á (ACC)",
+    "name_en": "National Asian Culture Center (ACC)",
+    "name_local": "국립아시아문화전당",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 35.1466,
+      "lon": 126.9192
+    },
+    "address_vi": "Dong-gu, Gwangju",
+    "presentation_short_vi": "Tổ hợp văn hoá – nghệ thuật châu Á quy mô lớn nằm chìm dưới lòng đất giữa trung tâm thành phố, gồm bảo tàng, nhà hát và không gian triển lãm.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.9192,35.1466&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.1466,126.9192"
+    },
+    "tags": [
+      "culture",
+      "museum",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-gwangju-gwangju-national-museum",
+    "slug": "gwangju-national-museum",
+    "region": "kr-gwangju",
+    "region_name_vi": "Gwangju",
+    "country": "korea",
+    "name_vi": "Bảo tàng Quốc gia Gwangju",
+    "name_en": "Gwangju National Museum",
+    "name_local": "국립광주박물관",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 35.1875,
+      "lon": 126.8817
+    },
+    "address_vi": "Buk-gu, Gwangju",
+    "presentation_short_vi": "Bảo tàng quốc gia trưng bày cổ vật vùng Honam, nổi bật với sưu tập gốm sứ vớt từ tàu đắm thời Nguyên ngoài khơi Sinan.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.8817,35.1875&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.1875,126.8817"
+    },
+    "tags": [
+      "museum",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-gwangju-yangnim-dong",
+    "slug": "yangnim-dong",
+    "region": "kr-gwangju",
+    "region_name_vi": "Gwangju",
+    "country": "korea",
+    "name_vi": "Phố cổ Yangnim & Làng chim cánh cụt",
+    "name_en": "Yangnim-dong & Penguin Village",
+    "name_local": "양림동 펭귄마을",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 35.1428,
+      "lon": 126.9128
+    },
+    "address_vi": "Nam-gu, Gwangju",
+    "presentation_short_vi": "Khu phố cổ với nhà truyền thống, nhà thờ và bảo tàng lịch sử; nổi tiếng với 'làng chim cánh cụt' đầy đồ vật hoài niệm và tranh tường.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.9128,35.1428&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.1428,126.9128"
+    },
+    "tags": [
+      "village",
+      "historic",
+      "art"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-gwangju-may-18-national-cemetery",
+    "slug": "may-18-national-cemetery",
+    "region": "kr-gwangju",
+    "region_name_vi": "Gwangju",
+    "country": "korea",
+    "name_vi": "Nghĩa trang Quốc gia 18/5",
+    "name_en": "May 18th National Cemetery",
+    "name_local": "국립5·18민주묘지",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 35.2392,
+      "lon": 126.9517
+    },
+    "address_vi": "Buk-gu, Gwangju",
+    "presentation_short_vi": "Nghĩa trang quốc gia tưởng niệm các nạn nhân phong trào dân chủ 18/5/1980 tại Gwangju; khu di tích lịch sử trang nghiêm.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.9517,35.2392&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.2392,126.9517"
+    },
+    "tags": [
+      "memorial",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-gwangju-jeungsimsa",
+    "slug": "jeungsimsa",
+    "region": "kr-gwangju",
+    "region_name_vi": "Gwangju",
+    "country": "korea",
+    "name_vi": "Chùa Jeungsimsa",
+    "name_en": "Jeungsimsa Temple",
+    "name_local": "증심사",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 35.1281,
+      "lon": 126.9585
+    },
+    "address_vi": "Núi Mudeungsan, Dong-gu, Gwangju",
+    "presentation_short_vi": "Ngôi chùa cổ hơn 1.100 năm dưới chân núi Mudeungsan, cửa ngõ hành hương và leo núi quen thuộc của người Gwangju.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.9585,35.1281&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.1281,126.9585"
+    },
+    "tags": [
+      "temple",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-gwangju-sajik-park",
+    "slug": "sajik-park",
+    "region": "kr-gwangju",
+    "region_name_vi": "Gwangju",
+    "country": "korea",
+    "name_vi": "Công viên Sajik",
+    "name_en": "Sajik Park",
+    "name_local": "사직공원",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.1418,
+      "lon": 126.9083
+    },
+    "address_vi": "Nam-gu, Gwangju",
+    "presentation_short_vi": "Công viên trên đồi với đài quan sát và tháp ngắm cảnh nhìn toàn thành phố, nổi tiếng với hoa anh đào mùa xuân.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.9083,35.1418&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.1418,126.9083"
+    },
+    "tags": [
+      "park",
+      "view",
+      "cherry-blossom"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "kr-gwangju-songjeong-market-1913",
+    "slug": "songjeong-market-1913",
+    "region": "kr-gwangju",
+    "region_name_vi": "Gwangju",
+    "country": "korea",
+    "name_vi": "Chợ ga Songjeong 1913",
+    "name_en": "1913 Songjeong Station Market",
+    "name_local": "1913송정역시장",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 35.1379,
+      "lon": 126.7924
+    },
+    "address_vi": "Gwangsan-gu, Gwangju",
+    "presentation_short_vi": "Khu chợ truyền thống hơn trăm năm tuổi được cải tạo giữ nét hoài cổ; thiên đường ẩm thực đường phố bên ga Gwangju-Songjeong.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=126.7924,35.1379&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=35.1379,126.7924"
+    },
+    "tags": [
+      "market",
+      "food",
+      "retro"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

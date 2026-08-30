@@ -1,0 +1,188 @@
+[
+  {
+    "id": "tl-bobonaro-marobo-hot-springs",
+    "slug": "marobo-hot-springs",
+    "region": "tl-bobonaro",
+    "country": "timor-leste",
+    "region_name_vi": "Bobonaro",
+    "name_vi": "Suối nước nóng Marobo",
+    "name_en": "Marobo Hot Springs",
+    "name_local": "Termas de Marobo",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": -8.986853,
+      "lon": 125.316261
+    },
+    "address_vi": "Marobo, huyện Bobonaro, Timor-Leste",
+    "presentation_short_vi": "Suối khoáng nóng với những bể tắm đá từ thời Bồ Đào Nha, nằm trong thung lũng núi phía nam Maliana; nước giàu lưu huỳnh giữa khung cảnh hoang sơ.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=125.316261,-8.986853&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-8.986853,125.316261"
+    },
+    "tags": [
+      "top",
+      "nature",
+      "hot_spring"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "tl-bobonaro-balibo-fort",
+    "slug": "balibo-fort",
+    "region": "tl-bobonaro",
+    "country": "timor-leste",
+    "region_name_vi": "Bobonaro",
+    "name_vi": "Pháo đài Balibo",
+    "name_en": "Balibo Fort",
+    "name_local": "Fortaleza de Balibó",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": -8.9667,
+      "lon": 125.0333
+    },
+    "address_vi": "Thị trấn Balibo, huyện Bobonaro, Timor-Leste",
+    "presentation_short_vi": "Pháo đài đá thời thuộc địa Bồ Đào Nha trên đỉnh đồi Balibo, nay là bảo tàng và điểm ngắm cảnh nhìn ra vùng biên giới phía tây.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=125.0333,-8.9667&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-8.9667,125.0333"
+    },
+    "tags": [
+      "top",
+      "fortress",
+      "history",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "tl-bobonaro-balibo-flag-house",
+    "slug": "balibo-flag-house",
+    "region": "tl-bobonaro",
+    "country": "timor-leste",
+    "region_name_vi": "Bobonaro",
+    "name_vi": "Nhà Cờ Balibo",
+    "name_en": "Balibo Flag House",
+    "name_local": "Casa da Bandeira de Balibó",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": -8.9664,
+      "lon": 125.0337
+    },
+    "address_vi": "Quảng trường Balibo, huyện Bobonaro, Timor-Leste",
+    "presentation_short_vi": "Ngôi nhà lịch sử tưởng niệm 'Balibo Five' — năm nhà báo Úc thiệt mạng năm 1975; bức bích họa cờ Úc trên tường là biểu tượng của thị trấn.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=125.0337,-8.9664&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-8.9664,125.0337"
+    },
+    "tags": [
+      "monument",
+      "history",
+      "memorial"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "tl-bobonaro-maliana",
+    "slug": "maliana",
+    "region": "tl-bobonaro",
+    "country": "timor-leste",
+    "region_name_vi": "Bobonaro",
+    "name_vi": "Thị trấn Maliana",
+    "name_en": "Maliana",
+    "name_local": "Maliana",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": -8.9916667,
+      "lon": 125.2197222
+    },
+    "address_vi": "Thủ phủ huyện Bobonaro, Timor-Leste",
+    "presentation_short_vi": "Thủ phủ huyện Bobonaro giữa vùng đồng lúa, nổi tiếng với khu chợ nhộn nhịp, kiến trúc thuộc địa và nghề dệt vải tais nền đen đặc trưng.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=125.2197222,-8.9916667&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-8.9916667,125.2197222"
+    },
+    "tags": [
+      "town",
+      "market",
+      "tais"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "tl-bobonaro-batugade-fort",
+    "slug": "batugade-fort",
+    "region": "tl-bobonaro",
+    "country": "timor-leste",
+    "region_name_vi": "Bobonaro",
+    "name_vi": "Pháo đài Batugadé",
+    "name_en": "Batugadé Fort",
+    "name_local": "Fortaleza de Batugadé",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": -8.947222,
+      "lon": 124.9725
+    },
+    "address_vi": "Batugadé, gần cửa khẩu biên giới Indonesia, huyện Bobonaro, Timor-Leste",
+    "presentation_short_vi": "Pháo đài Bồ Đào Nha cổ bên bờ biển Savu gần cửa khẩu biên giới phía tây, một trong những công trình phòng thủ lâu đời nhất Timor-Leste.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=124.9725,-8.947222&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-8.947222,124.9725"
+    },
+    "tags": [
+      "fortress",
+      "history",
+      "border"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "tl-bobonaro-bobonaro-town",
+    "slug": "bobonaro-town",
+    "region": "tl-bobonaro",
+    "country": "timor-leste",
+    "region_name_vi": "Bobonaro",
+    "name_vi": "Thị trấn Bobonaro",
+    "name_en": "Bobonaro",
+    "name_local": "Bobonaro",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": -9.031944,
+      "lon": 125.325
+    },
+    "address_vi": "Thị trấn Bobonaro, huyện Bobonaro, Timor-Leste",
+    "presentation_short_vi": "Thị trấn miền núi mát mẻ ở độ cao lớn, cửa ngõ tới suối nước nóng Marobo và các bản làng dệt vải truyền thống.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=125.325,-9.031944&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-9.031944,125.325"
+    },
+    "tags": [
+      "town",
+      "mountain"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "id": "kz-karaganda-karlag-museum",
+    "slug": "karlag-museum",
+    "region": "kz-karaganda",
+    "region_name_vi": "Karaganda",
+    "country": "kazakhstan",
+    "name_vi": "Bảo tàng KarLag (Dolinka)",
+    "name_en": "KarLag Museum, Dolinka",
+    "name_local": "КарЛАГ мұражайы (Долинка)",
+    "name_ru": "Музей памяти жертв политических репрессий (КарЛАГ), Долинка",
+    "categories": [
+      "museum",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 49.6777,
+      "lon": 72.682
+    },
+    "address_vi": "Làng Dolinka, cách Karaganda ~40 km, tỉnh Karaganda, Kazakhstan",
+    "presentation_short_vi": "Bảo tàng KarLag ở làng Dolinka tưởng niệm các nạn nhân của trại lao động cải tạo KarLag thời Xô Viết, đặt trong trụ sở cũ của trại.",
+    "rating": null,
+    "tags": [
+      "top",
+      "history",
+      "museum",
+      "memorial"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kz-karaganda-fatima-cathedral",
+    "slug": "fatima-cathedral",
+    "region": "kz-karaganda",
+    "region_name_vi": "Karaganda",
+    "country": "kazakhstan",
+    "name_vi": "Nhà thờ Đức Mẹ Fatima",
+    "name_en": "Cathedral of Our Lady of Fatima",
+    "name_local": "Фатима Богоматері соборы",
+    "name_ru": "Собор Пресвятой Девы Марии Фатимской",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 49.7813,
+      "lon": 73.1348
+    },
+    "address_vi": "Thành phố Karaganda, tỉnh Karaganda, Kazakhstan",
+    "presentation_short_vi": "Nhà thờ Đức Mẹ Fatima theo phong cách tân Gothic là thánh đường Công giáo lớn nhất Trung Á, cao 22 m.",
+    "rating": null,
+    "tags": [
+      "top",
+      "religion",
+      "church",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kz-karaganda-karkaraly-park",
+    "slug": "karkaraly-park",
+    "region": "kz-karaganda",
+    "region_name_vi": "Karaganda",
+    "country": "kazakhstan",
+    "name_vi": "Vườn quốc gia Karkaraly",
+    "name_en": "Karkaraly National Park",
+    "name_local": "Қарқаралы ұлттық табиғи паркі",
+    "name_ru": "Каркаралинский национальный парк",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 49.4167,
+      "lon": 75.4167
+    },
+    "address_vi": "Huyện Karkaraly, tỉnh Karaganda, Kazakhstan",
+    "presentation_short_vi": "Vườn quốc gia Karkaraly là ốc đảo núi rừng giữa thảo nguyên, với núi đá, hồ, rừng thông và nhiều di chỉ khảo cổ.",
+    "rating": null,
+    "tags": [
+      "top",
+      "nature",
+      "park_garden",
+      "mountain"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kz-karaganda-shaitankol",
+    "slug": "shaitankol",
+    "region": "kz-karaganda",
+    "region_name_vi": "Karaganda",
+    "country": "kazakhstan",
+    "name_vi": "Hồ Shaitankol (Hồ Quỷ)",
+    "name_en": "Lake Shaitankol (Devil's Lake)",
+    "name_local": "Шайтанкөл",
+    "name_ru": "Озеро Шайтанколь",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 49.3969,
+      "lon": 75.3939
+    },
+    "address_vi": "Vườn quốc gia Karkaraly, tỉnh Karaganda, Kazakhstan",
+    "presentation_short_vi": "Hồ Shaitankol ('Hồ Quỷ') nằm ở độ cao ~1.200 m trong vườn quốc gia Karkaraly, gắn với nhiều truyền thuyết huyền bí.",
+    "rating": null,
+    "tags": [
+      "nature",
+      "lake",
+      "legend"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kz-karaganda-spassk-memorial",
+    "slug": "spassk-memorial",
+    "region": "kz-karaganda",
+    "region_name_vi": "Karaganda",
+    "country": "kazakhstan",
+    "name_vi": "Đài tưởng niệm Spassk",
+    "name_en": "Spassk Memorial",
+    "name_local": "Спасск мемориалы",
+    "name_ru": "Мемориал Спасск",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 49.5404,
+      "lon": 73.2966
+    },
+    "address_vi": "Gần làng Spassk, cách Karaganda ~35 km, tỉnh Karaganda, Kazakhstan",
+    "presentation_short_vi": "Đài tưởng niệm Spassk cách Karaganda khoảng 35 km, tưởng nhớ tù nhân và tù binh nhiều quốc gia đã chết tại các trại KarLag.",
+    "rating": null,
+    "tags": [
+      "history",
+      "monument",
+      "memorial"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kz-karaganda-regional-history-museum",
+    "slug": "regional-history-museum",
+    "region": "kz-karaganda",
+    "region_name_vi": "Karaganda",
+    "country": "kazakhstan",
+    "name_vi": "Bảo tàng lịch sử vùng Karaganda",
+    "name_en": "Karaganda Regional Museum of Local History",
+    "name_local": "Қарағанды облыстық тарихи-өлкетану мұражайы",
+    "name_ru": "Карагандинский областной историко-краеведческий музей",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 49.8069,
+      "lon": 73.0851
+    },
+    "address_vi": "Phố Yerubaev 38, thành phố Karaganda, Kazakhstan",
+    "presentation_short_vi": "Bảo tàng lịch sử vùng Karaganda gần trăm năm tuổi, lưu giữ hơn 134.000 hiện vật qua 14 phòng trưng bày.",
+    "rating": null,
+    "tags": [
+      "museum",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "id": "kz-karaganda-ecological-museum",
+    "slug": "ecological-museum",
+    "region": "kz-karaganda",
+    "region_name_vi": "Karaganda",
+    "country": "kazakhstan",
+    "name_vi": "Bảo tàng Sinh thái Karaganda",
+    "name_en": "Karaganda Ecological Museum",
+    "name_local": "Қарағанды экологиялық мұражайы",
+    "name_ru": "Карагандинский экологический музей",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 49.8051,
+      "lon": 73.0872
+    },
+    "address_vi": "Đại lộ Bukhar-Zhyrau, thành phố Karaganda, Kazakhstan",
+    "presentation_short_vi": "Bảo tàng Sinh thái Karaganda (lập năm 1995) là bảo tàng môi trường duy nhất Kazakhstan, trưng bày mảnh tên lửa, máy bay và thiết bị công nghiệp.",
+    "rating": null,
+    "tags": [
+      "museum",
+      "ecology"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-29"
+  }
+]

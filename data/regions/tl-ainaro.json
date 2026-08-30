@@ -1,0 +1,161 @@
+[
+  {
+    "id": "tl-ainaro-ramelau",
+    "slug": "ramelau",
+    "region": "tl-ainaro",
+    "country": "timor-leste",
+    "region_name_vi": "Ainaro",
+    "name_vi": "Núi Ramelau (Tatamailau)",
+    "name_en": "Mount Ramelau (Tatamailau)",
+    "name_local": "Foho Tatamailau",
+    "categories": [
+      "park_garden",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": -8.9067,
+      "lon": 125.4933
+    },
+    "address_vi": "Hatubuilico, Ainaro, Timor-Leste",
+    "presentation_short_vi": "Đỉnh núi cao nhất Timor-Leste (2.963 m); trên đỉnh có tượng Đức Mẹ Maria cao 3 m dựng năm 1997. Du khách thường leo đêm để đón bình minh trên biển mây – điểm hành hương và trekking nổi tiếng nhất cả nước.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=125.4933,-8.9067&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-8.9067,125.4933"
+    },
+    "tags": [
+      "top",
+      "mountain",
+      "hiking",
+      "pilgrimage",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "tl-ainaro-hatubuilico",
+    "slug": "hatubuilico",
+    "region": "tl-ainaro",
+    "country": "timor-leste",
+    "region_name_vi": "Ainaro",
+    "name_vi": "Làng Hatubuilico",
+    "name_en": "Hatubuilico",
+    "name_local": "Hatu-Builico",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": -8.8842,
+      "lon": 125.5119
+    },
+    "address_vi": "Hatubuilico, Ainaro, Timor-Leste",
+    "presentation_short_vi": "Ngôi làng miền núi mát lạnh dưới chân Ramelau, là điểm xuất phát chính cho hành trình chinh phục đỉnh cao nhất Timor-Leste; xung quanh là ruộng bậc thang và rừng thông.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=125.5119,-8.8842&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-8.8842,125.5119"
+    },
+    "tags": [
+      "village",
+      "mountain",
+      "trekking-base"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "tl-ainaro-maubisse",
+    "slug": "maubisse",
+    "region": "tl-ainaro",
+    "country": "timor-leste",
+    "region_name_vi": "Ainaro",
+    "name_vi": "Thị trấn Maubisse",
+    "name_en": "Maubisse",
+    "name_local": "Maubisse",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": -8.8386,
+      "lon": 125.5983
+    },
+    "address_vi": "Maubisse, Ainaro, Timor-Leste",
+    "presentation_short_vi": "Thị trấn trên núi cao giữa đường Dili–Ainaro, khí hậu se lạnh, nổi tiếng với chợ phiên, đồn điền cà phê và ruộng bậc thang – điểm nghỉ cuối tuần được ưa chuộng.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=125.5983,-8.8386&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-8.8386,125.5983"
+    },
+    "tags": [
+      "hill-town",
+      "market",
+      "coffee",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "tl-ainaro-pousada-maubisse",
+    "slug": "pousada-maubisse",
+    "region": "tl-ainaro",
+    "country": "timor-leste",
+    "region_name_vi": "Ainaro",
+    "name_vi": "Pousada de Maubisse",
+    "name_en": "Pousada de Maubisse",
+    "name_local": "Pousada de Maubisse",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": -8.8375,
+      "lon": 125.599
+    },
+    "address_vi": "Đồi trung tâm Maubisse, Ainaro, Timor-Leste",
+    "presentation_short_vi": "Nhà nghỉ thời thuộc địa Bồ Đào Nha (nguyên là dinh quan cai trị) toạ lạc trên đồi nhìn xuống thị trấn Maubisse – công trình di sản với tầm nhìn toàn cảnh thung lũng.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=125.599,-8.8375&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-8.8375,125.599"
+    },
+    "tags": [
+      "heritage",
+      "colonial",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "tl-ainaro-ainaro-town",
+    "slug": "ainaro-town",
+    "region": "tl-ainaro",
+    "country": "timor-leste",
+    "region_name_vi": "Ainaro",
+    "name_vi": "Thị trấn Ainaro & Nhà thờ Ainaro",
+    "name_en": "Ainaro Town & Church",
+    "name_local": "Igreja de Ainaro",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": -8.9924,
+      "lon": 125.5082
+    },
+    "address_vi": "Ainaro, Timor-Leste",
+    "presentation_short_vi": "Thủ phủ huyện Ainaro nằm dưới chân dãy Ramelau, có nhà thờ Công giáo và là cửa ngõ vào vùng cà phê cùng các bản làng truyền thống miền cao.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=125.5082,-8.9924&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-8.9924,125.5082"
+    },
+    "tags": [
+      "town",
+      "church",
+      "coffee"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

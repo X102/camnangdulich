@@ -1,0 +1,319 @@
+[
+  {
+    "id": "jp-fukushima-tsuruga-castle",
+    "slug": "tsuruga-castle",
+    "region": "jp-fukushima",
+    "country": "japan",
+    "region_name_vi": "Fukushima",
+    "name_vi": "Lâu đài Tsuruga (Aizuwakamatsu)",
+    "name_en": "Tsuruga Castle (Aizuwakamatsu Castle)",
+    "name_local": "鶴ヶ城（会津若松城）",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 37.4879,
+      "lon": 139.9296
+    },
+    "address_vi": "Ōtemachi, TP Aizuwakamatsu, Fukushima",
+    "presentation_short_vi": "Toà thành biểu tượng của vùng Aizu với mái ngói đỏ độc đáo, gắn liền với lịch sử samurai và cuộc chiến Boshin; khuôn viên rực rỡ hoa anh đào mùa xuân.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.4879,139.9296",
+      "yandex": "https://yandex.com/maps/?pt=139.9296,37.4879&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "castle",
+      "historic",
+      "cherry-blossom"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-fukushima-ouchi-juku",
+    "slug": "ouchi-juku",
+    "region": "jp-fukushima",
+    "country": "japan",
+    "region_name_vi": "Fukushima",
+    "name_vi": "Phố cổ Ouchi-juku",
+    "name_en": "Ouchi-juku",
+    "name_local": "大内宿",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 37.1149,
+      "lon": 139.8567
+    },
+    "address_vi": "Ouchi, Shimogō, Minamiaizu, Fukushima",
+    "presentation_short_vi": "Thị trấn trạm dịch thời Edo với dãy nhà mái tranh hai bên con đường đất, tái hiện khung cảnh nước Nhật xưa; nổi tiếng món mì soba ăn bằng cọng hành.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.1149,139.8567",
+      "yandex": "https://yandex.com/maps/?pt=139.8567,37.1149&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "historic",
+      "post-town",
+      "thatched"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-fukushima-goshiki-numa",
+    "slug": "goshiki-numa",
+    "region": "jp-fukushima",
+    "country": "japan",
+    "region_name_vi": "Fukushima",
+    "name_vi": "Hồ Ngũ Sắc Goshiki-numa",
+    "name_en": "Goshiki-numa (Five Colored Lakes)",
+    "name_local": "五色沼",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 37.665,
+      "lon": 140.0724
+    },
+    "address_vi": "Kitashiobara, Yama, Fukushima",
+    "presentation_short_vi": "Chuỗi hồ nước núi lửa đổi màu từ xanh ngọc đến xanh lam tuỳ ánh sáng và thời tiết, nằm dưới chân núi Bandai với đường mòn đi bộ ngắm cảnh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.665,140.0724",
+      "yandex": "https://yandex.com/maps/?pt=140.0724,37.665&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "lake",
+      "nature",
+      "hiking"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-fukushima-to-no-hetsuri",
+    "slug": "to-no-hetsuri",
+    "region": "jp-fukushima",
+    "country": "japan",
+    "region_name_vi": "Fukushima",
+    "name_vi": "Vách đá Tō-no-Hetsuri",
+    "name_en": "Tō-no-Hetsuri",
+    "name_local": "塔のへつり",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 37.2737,
+      "lon": 139.9059
+    },
+    "address_vi": "Shimogō, Minamiaizu, Fukushima",
+    "presentation_short_vi": "Dãy vách đá tự nhiên hình tháp bị bào mòn qua hàng triệu năm bên dòng sông Ōkawa, nối với bờ bằng cây cầu treo nhỏ giữa rừng cây.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.2737,139.9059",
+      "yandex": "https://yandex.com/maps/?pt=139.9059,37.2737&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "nature",
+      "rock-formation",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-fukushima-aizu-sazaedo",
+    "slug": "aizu-sazaedo",
+    "region": "jp-fukushima",
+    "country": "japan",
+    "region_name_vi": "Fukushima",
+    "name_vi": "Chùa xoắn ốc Sazaedō",
+    "name_en": "Aizu Sazaedō",
+    "name_local": "会津さざえ堂（円通三匝堂）",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 37.4948,
+      "lon": 139.9336
+    },
+    "address_vi": "Iimoriyama, TP Aizuwakamatsu, Fukushima",
+    "presentation_short_vi": "Kiến trúc gỗ độc nhất xây năm 1796 với hai lối cầu thang xoắn ốc lên–xuống không giao nhau, được công nhận Di sản Văn hoá Quan trọng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.4948,139.9336",
+      "yandex": "https://yandex.com/maps/?pt=139.9336,37.4948&z=16&l=map"
+    },
+    "tags": [
+      "architecture",
+      "historic",
+      "unique"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-fukushima-iimoriyama",
+    "slug": "iimoriyama",
+    "region": "jp-fukushima",
+    "country": "japan",
+    "region_name_vi": "Fukushima",
+    "name_vi": "Đồi Iimoriyama",
+    "name_en": "Iimoriyama",
+    "name_local": "飯盛山",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 37.4955,
+      "lon": 139.9343
+    },
+    "address_vi": "Ikkimachi, TP Aizuwakamatsu, Fukushima",
+    "presentation_short_vi": "Ngọn đồi ghi dấu bi kịch của đội thiếu niên samurai Byakkotai thời chiến Boshin, nơi có phần mộ và đài tưởng niệm nhìn xuống thành Tsuruga.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.4955,139.9343",
+      "yandex": "https://yandex.com/maps/?pt=139.9343,37.4955&z=16&l=map"
+    },
+    "tags": [
+      "historic",
+      "memorial",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-fukushima-lake-inawashiro",
+    "slug": "lake-inawashiro",
+    "region": "jp-fukushima",
+    "country": "japan",
+    "region_name_vi": "Fukushima",
+    "name_vi": "Hồ Inawashiro",
+    "name_en": "Lake Inawashiro",
+    "name_local": "猪苗代湖",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 37.45,
+      "lon": 140.1
+    },
+    "address_vi": "Inawashiro, Yama, Fukushima",
+    "presentation_short_vi": "Hồ nước ngọt lớn thứ tư Nhật Bản với mặt nước trong vắt phản chiếu núi Bandai, còn gọi là 'Hồ Gương Trời', là nơi ngắm thiên nga về mùa đông.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.45,140.1",
+      "yandex": "https://yandex.com/maps/?pt=140.1,37.45&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "lake",
+      "nature",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-fukushima-abukuma-cave",
+    "slug": "abukuma-cave",
+    "region": "jp-fukushima",
+    "country": "japan",
+    "region_name_vi": "Fukushima",
+    "name_vi": "Hang động Abukuma",
+    "name_en": "Abukuma Cave (Abukumadō)",
+    "name_local": "あぶくま洞",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 37.2708,
+      "lon": 140.6156
+    },
+    "address_vi": "Takine, Tamura, Fukushima",
+    "presentation_short_vi": "Hang thạch nhũ dài khoảng 600 m hình thành qua 80 triệu năm với vô số măng đá, nhũ đá được chiếu sáng nghệ thuật trong lòng núi.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.2708,140.6156",
+      "yandex": "https://yandex.com/maps/?pt=140.6156,37.2708&z=16&l=map"
+    },
+    "tags": [
+      "cave",
+      "nature",
+      "geology"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-fukushima-hanamiyama",
+    "slug": "hanamiyama",
+    "region": "jp-fukushima",
+    "country": "japan",
+    "region_name_vi": "Fukushima",
+    "name_vi": "Công viên Hanamiyama",
+    "name_en": "Hanamiyama Park",
+    "name_local": "花見山公園",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 37.7267,
+      "lon": 140.4872
+    },
+    "address_vi": "Watari, TP Fukushima, Fukushima",
+    "presentation_short_vi": "Ngọn đồi nhà vườn mỗi mùa xuân phủ kín hoa anh đào, mơ và đào nở rực rỡ nhiều tầng màu, được ví như 'thiên đường hạ giới'.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.7267,140.4872",
+      "yandex": "https://yandex.com/maps/?pt=140.4872,37.7267&z=16&l=map"
+    },
+    "tags": [
+      "cherry-blossom",
+      "spring",
+      "flowers",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-fukushima-mount-bandai",
+    "slug": "mount-bandai",
+    "region": "jp-fukushima",
+    "country": "japan",
+    "region_name_vi": "Fukushima",
+    "name_vi": "Núi Bandai",
+    "name_en": "Mount Bandai",
+    "name_local": "磐梯山",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 37.5983,
+      "lon": 140.0725
+    },
+    "address_vi": "Bandai, Yama, Fukushima",
+    "presentation_short_vi": "Ngọn núi lửa biểu tượng cao 1.816 m được mệnh danh 'Phú Sĩ của Aizu', với các tuyến leo núi và cảnh quan hồ nước cao nguyên hình thành sau vụ phun trào năm 1888.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.5983,140.0725",
+      "yandex": "https://yandex.com/maps/?pt=140.0725,37.5983&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "mountain",
+      "volcano",
+      "hiking"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

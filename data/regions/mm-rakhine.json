@@ -1,0 +1,276 @@
+[
+  {
+    "id": "mm-rakhine-ngapali-beach",
+    "slug": "ngapali-beach",
+    "region": "mm-rakhine",
+    "country": "myanmar",
+    "region_name_vi": "Rakhine",
+    "name_vi": "Bãi biển Ngapali",
+    "name_en": "Ngapali Beach",
+    "name_local": "ငပလီကမ်းခြေ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 18.4333,
+      "lon": 94.3167
+    },
+    "address_vi": "Gần thị trấn Thandwe, bang Rakhine",
+    "rating": null,
+    "presentation_short_vi": "Ngapali là bãi biển đẹp nhất Myanmar với cát trắng và hàng dừa ven bờ vịnh Bengal, gần thị trấn Thandwe.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=94.3167,18.4333&z=17&pt=94.3167,18.4333",
+      "google": "https://www.google.com/maps/search/?api=1&query=18.4333,94.3167"
+    },
+    "tags": [
+      "beach",
+      "seaside",
+      "resort"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "mm-rakhine-mrauk-u",
+    "slug": "mrauk-u",
+    "region": "mm-rakhine",
+    "country": "myanmar",
+    "region_name_vi": "Rakhine",
+    "name_vi": "Cố đô Mrauk U",
+    "name_en": "Mrauk U Ancient City",
+    "name_local": "မြောက်ဦးမြို့",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 20.59,
+      "lon": 93.1925
+    },
+    "address_vi": "Thị trấn Mrauk U, bang Rakhine",
+    "rating": null,
+    "presentation_short_vi": "Mrauk U là kinh đô cổ của vương quốc Arakan thế kỷ 15–18, nổi tiếng với hàng trăm đền tháp bằng đá sa thạch giữa thung lũng sương mù.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=93.1925,20.59&z=17&pt=93.1925,20.59",
+      "google": "https://www.google.com/maps/search/?api=1&query=20.59,93.1925"
+    },
+    "tags": [
+      "ancient-city",
+      "heritage",
+      "temples"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "mm-rakhine-shite-thaung-temple",
+    "slug": "shite-thaung-temple",
+    "region": "mm-rakhine",
+    "country": "myanmar",
+    "region_name_vi": "Rakhine",
+    "name_vi": "Đền Shite-thaung",
+    "name_en": "Shite-thaung Temple",
+    "name_local": "ရှစ်သောင်းဘုရား",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 20.5934,
+      "lon": 93.1917
+    },
+    "address_vi": "Mrauk U, bang Rakhine",
+    "rating": null,
+    "presentation_short_vi": "Đền Shite-thaung ('đền 80.000 tượng Phật') do vua Min Bin xây năm 1535, là công trình tiêu biểu nhất của Mrauk U với các hành lang đá chạm khắc.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=93.1917,20.5934&z=17&pt=93.1917,20.5934",
+      "google": "https://www.google.com/maps/search/?api=1&query=20.5934,93.1917"
+    },
+    "tags": [
+      "temple",
+      "heritage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "mm-rakhine-koe-thaung-temple",
+    "slug": "koe-thaung-temple",
+    "region": "mm-rakhine",
+    "country": "myanmar",
+    "region_name_vi": "Rakhine",
+    "name_vi": "Đền Koe-thaung",
+    "name_en": "Koe-thaung Temple",
+    "name_local": "ကိုးသောင်းဘုရား",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 20.5982,
+      "lon": 93.211
+    },
+    "address_vi": "Mrauk U, bang Rakhine",
+    "rating": null,
+    "presentation_short_vi": "Đền Koe-thaung ('đền 90.000 tượng Phật') là ngôi đền lớn nhất Mrauk U, do vua Min Dikkha xây dựng vào thế kỷ 16.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=93.211,20.5982&z=17&pt=93.211,20.5982",
+      "google": "https://www.google.com/maps/search/?api=1&query=20.5982,93.211"
+    },
+    "tags": [
+      "temple",
+      "heritage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "mm-rakhine-htukkanthein-temple",
+    "slug": "htukkanthein-temple",
+    "region": "mm-rakhine",
+    "country": "myanmar",
+    "region_name_vi": "Rakhine",
+    "name_vi": "Đền Htukkanthein",
+    "name_en": "Htukkanthein Temple",
+    "name_local": "ထုက္ကန့်သိမ်",
+    "categories": [
+      "church",
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 20.5936,
+      "lon": 93.1906
+    },
+    "address_vi": "Mrauk U, bang Rakhine",
+    "rating": null,
+    "presentation_short_vi": "Đền Htukkanthein là giới đàn kiên cố hình khối với hành lang xoắn ốc chứa hàng trăm tượng Phật và phù điêu chạm khắc thời Arakan.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=93.1906,20.5936&z=17&pt=93.1906,20.5936",
+      "google": "https://www.google.com/maps/search/?api=1&query=20.5936,93.1906"
+    },
+    "tags": [
+      "temple",
+      "heritage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "mm-rakhine-ratanabon-pagoda",
+    "slug": "ratanabon-pagoda",
+    "region": "mm-rakhine",
+    "country": "myanmar",
+    "region_name_vi": "Rakhine",
+    "name_vi": "Bảo tháp Ratanabon",
+    "name_en": "Ratanabon Pagoda",
+    "name_local": "ရတနာပုံဘုရား",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 20.5941,
+      "lon": 93.1921
+    },
+    "address_vi": "Mrauk U, bang Rakhine",
+    "rating": null,
+    "presentation_short_vi": "Bảo tháp Ratanabon là ngôi tháp đá lớn được bao quanh bởi nhiều tháp nhỏ, nằm cạnh đền Shite-thaung ở Mrauk U.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=93.1921,20.5941&z=17&pt=93.1921,20.5941",
+      "google": "https://www.google.com/maps/search/?api=1&query=20.5941,93.1921"
+    },
+    "tags": [
+      "stupa",
+      "heritage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "mm-rakhine-andaw-thein-temple",
+    "slug": "andaw-thein-temple",
+    "region": "mm-rakhine",
+    "country": "myanmar",
+    "region_name_vi": "Rakhine",
+    "name_vi": "Đền Andaw-thein",
+    "name_en": "Andaw-thein Temple",
+    "name_local": "အံတော်သိမ်",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 20.5938,
+      "lon": 93.1912
+    },
+    "address_vi": "Mrauk U, bang Rakhine",
+    "rating": null,
+    "presentation_short_vi": "Đền Andaw-thein là giới đàn tám cạnh tương truyền lưu giữ xá lợi răng Phật, nằm gần đền Shite-thaung.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=93.1912,20.5938&z=17&pt=93.1912,20.5938",
+      "google": "https://www.google.com/maps/search/?api=1&query=20.5938,93.1912"
+    },
+    "tags": [
+      "temple",
+      "heritage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "mm-rakhine-wethali",
+    "slug": "wethali",
+    "region": "mm-rakhine",
+    "country": "myanmar",
+    "region_name_vi": "Rakhine",
+    "name_vi": "Di tích Wethali (Vesali)",
+    "name_en": "Wethali (Vesali) Ancient City",
+    "name_local": "ဝေသာလီ",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 20.6664,
+      "lon": 93.2331
+    },
+    "address_vi": "Gần Mrauk U, bang Rakhine",
+    "rating": null,
+    "presentation_short_vi": "Wethali (Vesali) là di tích kinh đô Arakan cổ thế kỷ 4, còn lưu tượng Phật Vesali bằng đá nguyên khối.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=93.2331,20.6664&z=17&pt=93.2331,20.6664",
+      "google": "https://www.google.com/maps/search/?api=1&query=20.6664,93.2331"
+    },
+    "tags": [
+      "ancient-city",
+      "ruins",
+      "heritage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "mm-rakhine-sittwe-view-point",
+    "slug": "sittwe-view-point",
+    "region": "mm-rakhine",
+    "country": "myanmar",
+    "region_name_vi": "Rakhine",
+    "name_vi": "Điểm ngắm cảnh Sittwe",
+    "name_en": "Sittwe View Point",
+    "name_local": "စစ်တွေမြို့",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 20.145,
+      "lon": 92.8956
+    },
+    "address_vi": "Thành phố Sittwe, bang Rakhine",
+    "rating": null,
+    "presentation_short_vi": "Điểm ngắm cảnh Sittwe nằm nơi sông Kaladan đổ ra vịnh Bengal, là chỗ ngắm hoàng hôn và chợ cá nhộn nhịp của thủ phủ bang Rakhine.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=92.8956,20.145&z=17&pt=92.8956,20.145",
+      "google": "https://www.google.com/maps/search/?api=1&query=20.145,92.8956"
+    },
+    "tags": [
+      "viewpoint",
+      "seaside"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

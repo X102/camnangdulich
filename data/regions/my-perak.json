@@ -1,0 +1,250 @@
+[
+  {
+    "id": "my-perak-ipoh-old-town",
+    "slug": "ipoh-old-town",
+    "region": "my-perak",
+    "region_name_vi": "Perak",
+    "country": "malaysia",
+    "name_vi": "Phố cổ Ipoh",
+    "name_en": "Ipoh Old Town",
+    "name_local": "Pekan Lama Ipoh",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 4.5965,
+      "lon": 101.079
+    },
+    "address_vi": "Bờ tây sông Kinta, Ipoh, Perak",
+    "presentation_short_vi": "Khu phố cổ thời thuộc địa của thủ phủ Ipoh với các dãy nhà phố, quán cà phê trăm tuổi, tranh tường và những con hẻm như Concubine Lane.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.079,4.5965&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=4.5965,101.079"
+    },
+    "tags": [
+      "old_town",
+      "heritage",
+      "cafe"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-perak-kellies-castle",
+    "slug": "kellies-castle",
+    "region": "my-perak",
+    "region_name_vi": "Perak",
+    "country": "malaysia",
+    "name_vi": "Lâu đài Kellie (Kellie's Castle)",
+    "name_en": "Kellie's Castle",
+    "name_local": "Istana Kellie",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 4.4356,
+      "lon": 101.0637
+    },
+    "address_vi": "Batu Gajah, Perak",
+    "presentation_short_vi": "Toà lâu đài gạch đỏ còn dang dở do điền chủ người Scotland William Kellie Smith khởi công đầu thế kỷ 20, pha trộn kiến trúc Moor, La Mã và Ấn Độ, gắn với nhiều truyền thuyết.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.0637,4.4356&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=4.4356,101.0637"
+    },
+    "tags": [
+      "mansion",
+      "colonial",
+      "heritage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-perak-sam-poh-tong",
+    "slug": "sam-poh-tong",
+    "region": "my-perak",
+    "region_name_vi": "Perak",
+    "country": "malaysia",
+    "name_vi": "Chùa hang Tam Bảo Động (Sam Poh Tong)",
+    "name_en": "Sam Poh Tong Temple",
+    "name_local": "Kuil Sam Poh Tong",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 4.5643,
+      "lon": 101.1215
+    },
+    "address_vi": "Gunung Rapat, phía nam Ipoh, Perak",
+    "presentation_short_vi": "Ngôi chùa Phật giáo nằm trong hang đá vôi ở Gunung Rapat, nổi tiếng với tượng Phật trong hang, ao rùa và khu vườn phía ngoài.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.1215,4.5643&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=4.5643,101.1215"
+    },
+    "tags": [
+      "cave_temple",
+      "buddhist",
+      "limestone"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-perak-perak-tong",
+    "slug": "perak-tong",
+    "region": "my-perak",
+    "region_name_vi": "Perak",
+    "country": "malaysia",
+    "name_vi": "Chùa hang Perak Tong",
+    "name_en": "Perak Tong Temple",
+    "name_local": "Kuil Perak Tong",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 4.6478,
+      "lon": 101.1228
+    },
+    "address_vi": "Gunung Tasek, phía bắc Ipoh, Perak",
+    "presentation_short_vi": "Chùa hang đá vôi xây năm 1926 với hàng chục bức bích họa Phật giáo và bậc thang dẫn lên đỉnh núi nhìn ra toàn cảnh Ipoh.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.1228,4.6478&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=4.6478,101.1228"
+    },
+    "tags": [
+      "cave_temple",
+      "buddhist",
+      "mural"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-perak-ubudiah-mosque",
+    "slug": "ubudiah-mosque",
+    "region": "my-perak",
+    "region_name_vi": "Perak",
+    "country": "malaysia",
+    "name_vi": "Thánh đường Hồi giáo Ubudiah",
+    "name_en": "Ubudiah Mosque",
+    "name_local": "Masjid Ubudiah",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 4.7628,
+      "lon": 100.9438
+    },
+    "address_vi": "Bukit Chandan, Kuala Kangsar, Perak",
+    "presentation_short_vi": "Thánh đường hoàng gia của Perak hoàn thành năm 1917, được xem là một trong những thánh đường đẹp nhất Malaysia với mái vòm vàng và các tháp cân xứng.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=100.9438,4.7628&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=4.7628,100.9438"
+    },
+    "tags": [
+      "mosque",
+      "royal",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-perak-pangkor-island",
+    "slug": "pangkor-island",
+    "region": "my-perak",
+    "region_name_vi": "Perak",
+    "country": "malaysia",
+    "name_vi": "Đảo Pangkor",
+    "name_en": "Pangkor Island",
+    "name_local": "Pulau Pangkor",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 4.2158,
+      "lon": 100.5536
+    },
+    "address_vi": "Huyện Manjung, ngoài khơi bờ tây Perak",
+    "presentation_short_vi": "Hòn đảo nghỉ dưỡng ở eo biển Malacca với bãi biển cát vàng, làng chài, pháo đài Hà Lan cổ và những con đường ven biển thanh bình.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=100.5536,4.2158&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=4.2158,100.5536"
+    },
+    "tags": [
+      "island",
+      "beach",
+      "fishing_village"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-perak-gua-tempurung",
+    "slug": "gua-tempurung",
+    "region": "my-perak",
+    "region_name_vi": "Perak",
+    "country": "malaysia",
+    "name_vi": "Hang Tempurung (Gua Tempurung)",
+    "name_en": "Gua Tempurung",
+    "name_local": "Gua Tempurung",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 4.418,
+      "lon": 101.1867
+    },
+    "address_vi": "Gopeng, Perak",
+    "presentation_short_vi": "Một trong những hệ hang đá vôi lớn nhất bán đảo Malaysia với thạch nhũ, măng đá và dòng sông ngầm, hấp dẫn khách tham quan và thám hiểm.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.1867,4.418&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=4.418,101.1867"
+    },
+    "tags": [
+      "cave",
+      "limestone",
+      "adventure"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-perak-kek-lok-tong",
+    "slug": "kek-lok-tong",
+    "region": "my-perak",
+    "region_name_vi": "Perak",
+    "country": "malaysia",
+    "name_vi": "Chùa hang Kek Lok Tong (Cực Lạc Động)",
+    "name_en": "Kek Lok Tong Temple",
+    "name_local": "Kuil Kek Lok Tong",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 4.5622,
+      "lon": 101.1293
+    },
+    "address_vi": "Gunung Rapat, phía nam Ipoh, Perak",
+    "presentation_short_vi": "Chùa hang đá vôi rộng lớn với các tượng Phật, nhũ đá và khu vườn cảnh phía sau có hồ và lối đi dạo giữa thiên nhiên.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.1293,4.5622&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=4.5622,101.1293"
+    },
+    "tags": [
+      "cave_temple",
+      "buddhist",
+      "garden"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

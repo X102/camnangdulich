@@ -1,0 +1,316 @@
+[
+  {
+    "id": "my-selangor-batu-caves",
+    "slug": "batu-caves",
+    "region": "my-selangor",
+    "region_name_vi": "Selangor",
+    "country": "malaysia",
+    "name_vi": "Động Batu (Batu Caves)",
+    "name_en": "Batu Caves",
+    "name_local": "Batu Caves",
+    "categories": [
+      "church",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 3.2374,
+      "lon": 101.6839
+    },
+    "address_vi": "Gombak, Selangor",
+    "presentation_short_vi": "Quần thể hang động đá vôi với đền Hindu và tượng thần Murugan mạ vàng cao 42,7m, 272 bậc thang sặc sỡ, điểm hành hương lễ Thaipusam.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.6839,3.2374&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=3.2374,101.6839"
+    },
+    "tags": [
+      "hindu_temple",
+      "cave",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-selangor-blue-mosque",
+    "slug": "sultan-salahuddin-abdul-aziz-mosque",
+    "region": "my-selangor",
+    "region_name_vi": "Selangor",
+    "country": "malaysia",
+    "name_vi": "Thánh đường Xanh (Sultan Salahuddin Abdul Aziz)",
+    "name_en": "Sultan Salahuddin Abdul Aziz Mosque (Blue Mosque)",
+    "name_local": "Masjid Sultan Salahuddin Abdul Aziz Shah",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 3.0793,
+      "lon": 101.5203
+    },
+    "address_vi": "Shah Alam, Selangor",
+    "presentation_short_vi": "Thánh đường bang Selangor với mái vòm xanh khổng lồ và bốn tháp cao 142,3m, sức chứa tới 24.000 người, biểu tượng của Shah Alam.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.5203,3.0793&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=3.0793,101.5203"
+    },
+    "tags": [
+      "mosque",
+      "islamic",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-selangor-sunway-lagoon",
+    "slug": "sunway-lagoon",
+    "region": "my-selangor",
+    "region_name_vi": "Selangor",
+    "country": "malaysia",
+    "name_vi": "Công viên Sunway Lagoon",
+    "name_en": "Sunway Lagoon",
+    "name_local": "Sunway Lagoon",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 3.0713,
+      "lon": 101.6068
+    },
+    "address_vi": "Bandar Sunway, Subang Jaya, Selangor",
+    "presentation_short_vi": "Công viên giải trí đa vùng gồm công viên nước, khu phiêu lưu, vườn thú và cầu treo, xây trên khu mỏ đá cải tạo.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.6068,3.0713&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=3.0713,101.6068"
+    },
+    "tags": [
+      "theme_park",
+      "water_park",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-selangor-i-city",
+    "slug": "i-city",
+    "region": "my-selangor",
+    "region_name_vi": "Selangor",
+    "country": "malaysia",
+    "name_vi": "i-City Shah Alam",
+    "name_en": "i-City",
+    "name_local": "i-City",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 3.0642,
+      "lon": 101.4882
+    },
+    "address_vi": "Seksyen 7, Shah Alam, Selangor",
+    "presentation_short_vi": "Khu du lịch nổi tiếng với 'rừng ánh sáng' LED, công viên chủ đề, thủy cung tuyết và trung tâm mua sắm.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.4882,3.0642&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=3.0642,101.4882"
+    },
+    "tags": [
+      "theme_park",
+      "lights",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-selangor-zoo-negara",
+    "slug": "zoo-negara",
+    "region": "my-selangor",
+    "region_name_vi": "Selangor",
+    "country": "malaysia",
+    "name_vi": "Vườn thú Quốc gia (Zoo Negara)",
+    "name_en": "National Zoo of Malaysia (Zoo Negara)",
+    "name_local": "Zoo Negara",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 3.2107,
+      "lon": 101.7592
+    },
+    "address_vi": "Ulu Klang, Ampang, Selangor",
+    "presentation_short_vi": "Vườn thú quốc gia rộng hơn 45ha với hơn 5.000 động vật, nổi bật là gấu trúc lớn do Trung Quốc tặng.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.7592,3.2107&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=3.2107,101.7592"
+    },
+    "tags": [
+      "zoo",
+      "family",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-selangor-bukit-melawati",
+    "slug": "bukit-melawati",
+    "region": "my-selangor",
+    "region_name_vi": "Selangor",
+    "country": "malaysia",
+    "name_vi": "Đồi Melawati",
+    "name_en": "Bukit Melawati",
+    "name_local": "Bukit Melawati",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 3.3436,
+      "lon": 101.247
+    },
+    "address_vi": "Kuala Selangor, Selangor",
+    "presentation_short_vi": "Ngọn đồi lịch sử với pháo đài thời Sultanate và Hà Lan, hải đăng Altingsburg, đàn khỉ lá bạc và tầm nhìn ra cửa sông.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.247,3.3436&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=3.3436,101.247"
+    },
+    "tags": [
+      "hill",
+      "history",
+      "viewpoint",
+      "monkeys"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-selangor-kuala-selangor-nature-park",
+    "slug": "kuala-selangor-nature-park",
+    "region": "my-selangor",
+    "region_name_vi": "Selangor",
+    "country": "malaysia",
+    "name_vi": "Công viên Thiên nhiên Kuala Selangor",
+    "name_en": "Kuala Selangor Nature Park",
+    "name_local": "Taman Alam Kuala Selangor",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 3.339,
+      "lon": 101.2445
+    },
+    "address_vi": "Kuala Selangor, Selangor",
+    "presentation_short_vi": "Khu bảo tồn rừng ngập mặn và đầm lầy ven biển với các loài chim di cư, khỉ lá bạc và đường mòn quan sát thiên nhiên.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.2445,3.339&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=3.339,101.2445"
+    },
+    "tags": [
+      "nature",
+      "mangrove",
+      "birdwatching"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-selangor-sky-mirror",
+    "slug": "sky-mirror",
+    "region": "my-selangor",
+    "region_name_vi": "Selangor",
+    "country": "malaysia",
+    "name_vi": "Gương Trời (Sky Mirror)",
+    "name_en": "Sky Mirror",
+    "name_local": "Sasaran Sky Mirror",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 3.2665,
+      "lon": 101.2445
+    },
+    "address_vi": "Sasaran, Kuala Selangor, Selangor",
+    "presentation_short_vi": "Bãi cát ngầm giữa biển chỉ nổi lên vài ngày quanh trăng non/tròn, tạo hiệu ứng 'gương trời' phản chiếu bầu trời, đi thuyền từ Sasaran/Jeram.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.2445,3.2665&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=3.2665,101.2445"
+    },
+    "tags": [
+      "beach",
+      "sandbar",
+      "photography"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-selangor-firefly-park-kampung-kuantan",
+    "slug": "kampung-kuantan-firefly-park",
+    "region": "my-selangor",
+    "region_name_vi": "Selangor",
+    "country": "malaysia",
+    "name_vi": "Công viên Đom đóm Kampung Kuantan",
+    "name_en": "Kampung Kuantan Firefly Park",
+    "name_local": "Taman Kelip-Kelip Kampung Kuantan",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 3.372,
+      "lon": 101.305
+    },
+    "address_vi": "Kampung Kuantan, Kuala Selangor, Selangor",
+    "presentation_short_vi": "Điểm ngắm đom đóm nổi tiếng dọc sông Selangor, du khách đi thuyền ban đêm xem hàng nghìn đom đóm phát sáng trên cây berembang.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.305,3.372&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=3.372,101.305"
+    },
+    "tags": [
+      "nature",
+      "fireflies",
+      "river",
+      "night"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-selangor-sultan-sulaiman-royal-mosque",
+    "slug": "sultan-sulaiman-royal-mosque",
+    "region": "my-selangor",
+    "region_name_vi": "Selangor",
+    "country": "malaysia",
+    "name_vi": "Thánh đường Hoàng gia Sultan Sulaiman",
+    "name_en": "Sultan Sulaiman Royal Mosque",
+    "name_local": "Masjid Diraja Sultan Sulaiman",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 3.0407,
+      "lon": 101.4468
+    },
+    "address_vi": "Klang, Selangor",
+    "presentation_short_vi": "Thánh đường hoàng gia ở Klang khánh thành năm 1934, kết hợp kiến trúc Art Deco và Hồi giáo, có kính màu và mái vòm đặc trưng.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.4468,3.0407&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=3.0407,101.4468"
+    },
+    "tags": [
+      "mosque",
+      "islamic",
+      "royal",
+      "heritage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

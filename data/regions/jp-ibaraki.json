@@ -1,0 +1,319 @@
+[
+  {
+    "id": "jp-ibaraki-hitachi-seaside-park",
+    "slug": "hitachi-seaside-park",
+    "region": "jp-ibaraki",
+    "country": "japan",
+    "region_name_vi": "Ibaraki",
+    "name_vi": "Công viên Bờ biển Hitachi",
+    "name_en": "Hitachi Seaside Park",
+    "name_local": "国営ひたち海浜公園",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.4017,
+      "lon": 140.5906
+    },
+    "address_vi": "605-4 Onuma-aza, Mawatari, TP Hitachinaka, Ibaraki",
+    "presentation_short_vi": "Công viên ven biển rộng 190 ha nổi tiếng toàn cầu với đồi Miharashi phủ 4,5 triệu bông nemophila xanh biếc mùa xuân và biển cỏ kochia đỏ rực mùa thu.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.4017,140.5906",
+      "yandex": "https://yandex.com/maps/?pt=140.5906,36.4017&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "park",
+      "flowers",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-ibaraki-kairakuen",
+    "slug": "kairakuen",
+    "region": "jp-ibaraki",
+    "country": "japan",
+    "region_name_vi": "Ibaraki",
+    "name_vi": "Vườn Kairakuen",
+    "name_en": "Kairakuen",
+    "name_local": "偕楽園",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.3767,
+      "lon": 140.4517
+    },
+    "address_vi": "1-3-3 Tokiwa-chō, TP Mito, Ibaraki",
+    "presentation_short_vi": "Một trong ba khu vườn đẹp nhất Nhật Bản, do lãnh chúa Mito lập năm 1842, nổi tiếng với rừng hơn 3.000 cây mơ nở rộ mỗi độ cuối đông đầu xuân.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.3767,140.4517",
+      "yandex": "https://yandex.com/maps/?pt=140.4517,36.3767&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "garden",
+      "historic",
+      "plum"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-ibaraki-ushiku-daibutsu",
+    "slug": "ushiku-daibutsu",
+    "region": "jp-ibaraki",
+    "country": "japan",
+    "region_name_vi": "Ibaraki",
+    "name_vi": "Đại Phật Ushiku",
+    "name_en": "Ushiku Daibutsu",
+    "name_local": "牛久大仏",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 35.9878,
+      "lon": 140.2247
+    },
+    "address_vi": "2083 Kunocho, TP Ushiku, Ibaraki",
+    "presentation_short_vi": "Tượng Phật A Di Đà bằng đồng cao 120 m, từng là tượng cao nhất thế giới; du khách đi thang máy lên đài quan sát trong lồng ngực tượng ngắm toàn cảnh đồng bằng Kantō.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.9878,140.2247",
+      "yandex": "https://yandex.com/maps/?pt=140.2247,35.9878&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "buddha",
+      "statue",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-ibaraki-fukuroda-falls",
+    "slug": "fukuroda-falls",
+    "region": "jp-ibaraki",
+    "country": "japan",
+    "region_name_vi": "Ibaraki",
+    "name_vi": "Thác Fukuroda",
+    "name_en": "Fukuroda Falls",
+    "name_local": "袋田の滝",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.7683,
+      "lon": 140.4056
+    },
+    "address_vi": "Fukuroda, Daigo-machi, Quận Kuji, Ibaraki",
+    "presentation_short_vi": "Một trong ba thác nước đẹp nhất Nhật Bản, cao 120 m đổ dàn qua bốn bậc đá; mùa đông nước đóng băng tạo nên bức tường băng ngoạn mục thu hút dân leo băng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.7683,140.4056",
+      "yandex": "https://yandex.com/maps/?pt=140.4056,36.7683&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "waterfall",
+      "nature",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-ibaraki-kashima-jingu",
+    "slug": "kashima-jingu",
+    "region": "jp-ibaraki",
+    "country": "japan",
+    "region_name_vi": "Ibaraki",
+    "name_vi": "Đền Kashima",
+    "name_en": "Kashima Shrine",
+    "name_local": "鹿島神宮",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 35.9683,
+      "lon": 140.6314
+    },
+    "address_vi": "2306-1 Kyūchū, TP Kashima, Ibaraki",
+    "presentation_short_vi": "Ngôi đền cổ hơn 2.600 năm tuổi thờ thần chiến tranh Takemikazuchi, đầu nguồn của hàng trăm đền Kashima khắp nước, có rừng thiêng, hồ nước và tảng đá thần kaname-ishi.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.9683,140.6314",
+      "yandex": "https://yandex.com/maps/?pt=140.6314,35.9683&z=16&l=map"
+    },
+    "tags": [
+      "shrine",
+      "historic",
+      "forest"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-ibaraki-oarai-isosaki-shrine",
+    "slug": "oarai-isosaki-shrine",
+    "region": "jp-ibaraki",
+    "country": "japan",
+    "region_name_vi": "Ibaraki",
+    "name_vi": "Đền Oarai Isosaki",
+    "name_en": "Ōarai Isosaki Shrine",
+    "name_local": "大洗磯前神社",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 36.3131,
+      "lon": 140.5892
+    },
+    "address_vi": "6890 Isohama-chō, Ōarai-machi, Quận Higashiibaraki, Ibaraki",
+    "presentation_short_vi": "Ngôi đền ven biển nổi tiếng với cổng torii Kamiiso dựng trên tảng đá giữa sóng biển, nơi đón bình minh linh thiêng bậc nhất vùng Kantō.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.3131,140.5892",
+      "yandex": "https://yandex.com/maps/?pt=140.5892,36.3131&z=16&l=map"
+    },
+    "tags": [
+      "shrine",
+      "coast",
+      "torii",
+      "sunrise"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-ibaraki-mount-tsukuba",
+    "slug": "mount-tsukuba",
+    "region": "jp-ibaraki",
+    "country": "japan",
+    "region_name_vi": "Ibaraki",
+    "name_vi": "Núi Tsukuba",
+    "name_en": "Mount Tsukuba",
+    "name_local": "筑波山",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.2256,
+      "lon": 140.1067
+    },
+    "address_vi": "Tsukuba, TP Tsukuba, Ibaraki",
+    "presentation_short_vi": "Ngọn núi đôi cao 877 m được mệnh danh Phú Sĩ phương Tây với sắc tím đặc trưng lúc hoàng hôn; du khách lên hai đỉnh Nyotai và Nantai bằng cáp treo và đường leo núi.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.2256,140.1067",
+      "yandex": "https://yandex.com/maps/?pt=140.1067,36.2256&z=16&l=map"
+    },
+    "tags": [
+      "mountain",
+      "nature",
+      "hiking",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-ibaraki-kodokan",
+    "slug": "kodokan",
+    "region": "jp-ibaraki",
+    "country": "japan",
+    "region_name_vi": "Ibaraki",
+    "name_vi": "Trường Kodokan",
+    "name_en": "Kōdōkan",
+    "name_local": "弘道館",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 36.3742,
+      "lon": 140.4778
+    },
+    "address_vi": "1-6-29 Sannomaru, TP Mito, Ibaraki",
+    "presentation_short_vi": "Ngôi trường phiên lớn nhất Nhật Bản thời Edo do phiên Mito lập năm 1841, cái nôi của tư tưởng duy tân Mito-gaku, nay còn lưu giảng đường và vườn mơ cổ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.3742,140.4778",
+      "yandex": "https://yandex.com/maps/?pt=140.4778,36.3742&z=16&l=map"
+    },
+    "tags": [
+      "historic",
+      "academy",
+      "edo"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-ibaraki-ryujin-suspension-bridge",
+    "slug": "ryujin-suspension-bridge",
+    "region": "jp-ibaraki",
+    "country": "japan",
+    "region_name_vi": "Ibaraki",
+    "name_vi": "Cầu treo Ryujin",
+    "name_en": "Ryūjin Large Suspension Bridge",
+    "name_local": "竜神大吊橋",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 36.6528,
+      "lon": 140.4083
+    },
+    "address_vi": "2133-6 Ōoka-chō, TP Hitachiōta, Ibaraki",
+    "presentation_short_vi": "Cây cầu treo dành cho người đi bộ dài 375 m bắc vắt qua hồ đập Ryūjin, nơi có trò nhảy bungee cao 100 m và tầm nhìn xuống hẻm núi rừng xanh mướt.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.6528,140.4083",
+      "yandex": "https://yandex.com/maps/?pt=140.4083,36.6528&z=16&l=map"
+    },
+    "tags": [
+      "bridge",
+      "gorge",
+      "scenic",
+      "adventure"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-ibaraki-kasama-inari-shrine",
+    "slug": "kasama-inari-shrine",
+    "region": "jp-ibaraki",
+    "country": "japan",
+    "region_name_vi": "Ibaraki",
+    "name_vi": "Đền Kasama Inari",
+    "name_en": "Kasama Inari Shrine",
+    "name_local": "笠間稲荷神社",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 36.3822,
+      "lon": 140.2611
+    },
+    "address_vi": "1 Kasama, TP Kasama, Ibaraki",
+    "presentation_short_vi": "Một trong ba đền Inari lớn nhất Nhật Bản với hơn 1.360 năm lịch sử, thu hút hàng triệu lượt viếng dịp năm mới, nổi bật cây tử đằng cổ thụ và các gian hàng ẩm thực.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.3822,140.2611",
+      "yandex": "https://yandex.com/maps/?pt=140.2611,36.3822&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "shrine",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

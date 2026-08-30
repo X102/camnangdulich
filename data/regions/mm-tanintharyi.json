@@ -1,0 +1,190 @@
+[
+  {
+    "id": "mm-tanintharyi-theindawgyi-pagoda",
+    "slug": "theindawgyi-pagoda",
+    "region": "mm-tanintharyi",
+    "country": "myanmar",
+    "region_name_vi": "Tanintharyi",
+    "name_vi": "Chùa Theindawgyi (Myeik)",
+    "name_en": "Theindawgyi Pagoda",
+    "name_local": "သိမ်တော်ကြီးစေတီတော်",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 12.4392,
+      "lon": 98.6003
+    },
+    "address_vi": "Trên đồi giữa thành phố Myeik (Mergui), vùng Tanintharyi",
+    "rating": null,
+    "presentation_short_vi": "Chùa Theindawgyi là bảo tháp vàng lớn nhất Myeik, tọa lạc trên đồi cao nhìn bao quát thành phố cảng và biển Andaman. Đây là điểm ngắm cảnh và hành hương nổi tiếng của vùng.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=98.6003,12.4392&z=17&pt=98.6003,12.4392",
+      "google": "https://www.google.com/maps/search/?api=1&query=12.4392,98.6003"
+    },
+    "tags": [
+      "pagoda",
+      "myeik",
+      "hilltop"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "mm-tanintharyi-myeik-archipelago",
+    "slug": "myeik-archipelago",
+    "region": "mm-tanintharyi",
+    "country": "myanmar",
+    "region_name_vi": "Tanintharyi",
+    "name_vi": "Quần đảo Myeik (Mergui)",
+    "name_en": "Myeik (Mergui) Archipelago",
+    "name_local": "မြိတ်ကျွန်းစု",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 11.75,
+      "lon": 98.25
+    },
+    "address_vi": "Vùng biển Andaman, ngoài khơi vùng Tanintharyi",
+    "rating": null,
+    "presentation_short_vi": "Quần đảo Myeik gồm hơn 800 hòn đảo hoang sơ trên biển Andaman, nổi tiếng với bãi biển vắng, rạn san hô và cộng đồng người Moken 'du mục biển'. Đây là thiên đường lặn biển và khám phá còn ít người biết đến.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=98.25,11.75&z=17&pt=98.25,11.75",
+      "google": "https://www.google.com/maps/search/?api=1&query=11.75,98.25"
+    },
+    "tags": [
+      "islands",
+      "diving",
+      "sea",
+      "must-see"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "mm-tanintharyi-shwe-taung-zar-pagoda",
+    "slug": "shwe-taung-zar-pagoda",
+    "region": "mm-tanintharyi",
+    "country": "myanmar",
+    "region_name_vi": "Tanintharyi",
+    "name_vi": "Chùa Shwe Taung Zar (Dawei)",
+    "name_en": "Shwe Taung Zar Pagoda",
+    "name_local": "ရွှေတောင်စားစေတီတော်",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 14.0817,
+      "lon": 98.1966
+    },
+    "address_vi": "Thành phố Dawei, vùng Tanintharyi",
+    "rating": null,
+    "presentation_short_vi": "Chùa Shwe Taung Zar là ngôi chùa trung tâm và linh thiêng nhất của Dawei, với bảo tháp vàng và khuôn viên rộng. Đây là nơi diễn ra nhiều lễ hội Phật giáo lớn của thành phố.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=98.1966,14.0817&z=17&pt=98.1966,14.0817",
+      "google": "https://www.google.com/maps/search/?api=1&query=14.0817,98.1966"
+    },
+    "tags": [
+      "pagoda",
+      "dawei"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "mm-tanintharyi-maungmagan-beach",
+    "slug": "maungmagan-beach",
+    "region": "mm-tanintharyi",
+    "country": "myanmar",
+    "region_name_vi": "Tanintharyi",
+    "name_vi": "Bãi biển Maungmagan",
+    "name_en": "Maungmagan Beach",
+    "name_local": "မောင်းမကန်ကမ်းခြေ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 14.1167,
+      "lon": 98.1167
+    },
+    "address_vi": "Cách Dawei ~12 km về phía tây bắc, vùng Tanintharyi",
+    "rating": null,
+    "presentation_short_vi": "Maungmagan là bãi biển dài cong hình lưỡi liềm bên biển Andaman, gần Dawei, với hàng dừa và làng chài yên bình. Bãi biển rộng thoáng, hoàng hôn đẹp và còn giữ nét mộc mạc.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=98.1167,14.1167&z=17&pt=98.1167,14.1167",
+      "google": "https://www.google.com/maps/search/?api=1&query=14.1167,98.1167"
+    },
+    "tags": [
+      "beach",
+      "sea",
+      "dawei"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "mm-tanintharyi-kawthaung",
+    "slug": "kawthaung",
+    "region": "mm-tanintharyi",
+    "country": "myanmar",
+    "region_name_vi": "Tanintharyi",
+    "name_vi": "Thị trấn Kawthaung (cực Nam Myanmar)",
+    "name_en": "Kawthaung",
+    "name_local": "ကော့သောင်း",
+    "categories": [
+      "monument",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 9.9833,
+      "lon": 98.55
+    },
+    "address_vi": "Cực Nam Myanmar, đối diện Ranong (Thái Lan)",
+    "rating": null,
+    "presentation_short_vi": "Kawthaung là thị trấn cảng ở điểm cực Nam Myanmar, nhìn sang Ranong của Thái Lan qua cửa sông. Nơi đây có tượng đài Bayintnaung hướng ra biển và là cửa khẩu, cửa ngõ ra quần đảo Myeik.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=98.55,9.9833&z=17&pt=98.55,9.9833",
+      "google": "https://www.google.com/maps/search/?api=1&query=9.9833,98.55"
+    },
+    "tags": [
+      "southernmost",
+      "border",
+      "town"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "mm-tanintharyi-lampi-marine-park",
+    "slug": "lampi-marine-park",
+    "region": "mm-tanintharyi",
+    "country": "myanmar",
+    "region_name_vi": "Tanintharyi",
+    "name_vi": "Vườn quốc gia biển đảo Lampi",
+    "name_en": "Lampi Island Marine National Park",
+    "name_local": "လန်ပိကျွန်း ပင်လယ်အမျိုးသားဥယျာဉ်",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 10.833,
+      "lon": 98.233
+    },
+    "address_vi": "Đảo Lampi, quần đảo Myeik, vùng Tanintharyi",
+    "rating": null,
+    "presentation_short_vi": "Lampi là vườn quốc gia biển đầu tiên của Myanmar, bảo tồn rừng nhiệt đới, rừng ngập mặn và rạn san hô còn nguyên vẹn. Trên đảo có cộng đồng người Moken (Salon) sinh sống gắn với biển.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=98.233,10.833&z=17&pt=98.233,10.833",
+      "google": "https://www.google.com/maps/search/?api=1&query=10.833,98.233"
+    },
+    "tags": [
+      "island",
+      "marine-park",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "id": "th-tak-thi-lo-su-waterfall",
+    "slug": "thi-lo-su-waterfall",
+    "region": "th-tak",
+    "country": "thailand",
+    "region_name_vi": "Tak",
+    "name_vi": "Thác Thi Lo Su",
+    "name_en": "Thi Lo Su Waterfall",
+    "name_local": "น้ำตกทีลอซู",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 15.9282,
+      "lon": 98.7535
+    },
+    "address_vi": "Huyện Umphang, tỉnh Tak",
+    "rating": null,
+    "presentation_short_vi": "Thác nước lớn và nổi tiếng bậc nhất Thái Lan trong Khu bảo tồn Umphang, cao khoảng 200 m, đổ thành nhiều tầng giữa rừng nguyên sinh.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=98.7535,15.9282&z=17&pt=98.7535,15.9282",
+      "google": "https://www.google.com/maps/search/?api=1&query=15.9282,98.7535"
+    },
+    "tags": [
+      "waterfall",
+      "umphang",
+      "nature",
+      "unseen_thailand"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-tak-bhumibol-dam",
+    "slug": "bhumibol-dam",
+    "region": "th-tak",
+    "country": "thailand",
+    "region_name_vi": "Tak",
+    "name_vi": "Đập Bhumibol",
+    "name_en": "Bhumibol Dam",
+    "name_local": "เขื่อนภูมิพล",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 17.2425,
+      "lon": 98.9722
+    },
+    "address_vi": "Huyện Sam Ngao, tỉnh Tak",
+    "rating": null,
+    "presentation_short_vi": "Đập vòm bê tông lớn nhất Thái Lan trên sông Ping, tạo hồ chứa mênh mông là điểm du thuyền, câu cá và ngắm cảnh nổi tiếng.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=98.9722,17.2425&z=17&pt=98.9722,17.2425",
+      "google": "https://www.google.com/maps/search/?api=1&query=17.2425,98.9722"
+    },
+    "tags": [
+      "dam",
+      "reservoir",
+      "ping_river",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-tak-taksin-maharat-national-park",
+    "slug": "taksin-maharat-national-park",
+    "region": "th-tak",
+    "country": "thailand",
+    "region_name_vi": "Tak",
+    "name_vi": "Vườn quốc gia Taksin Maharat",
+    "name_en": "Taksin Maharat National Park",
+    "name_local": "อุทยานแห่งชาติตากสินมหาราช",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 16.8393,
+      "lon": 98.8679
+    },
+    "address_vi": "Huyện Mueang Tak, tỉnh Tak",
+    "rating": null,
+    "presentation_short_vi": "Vườn quốc gia nổi tiếng với cây Krabak khổng lồ hơn 700 năm tuổi cao gần 50 m, cùng thác Mae Ya Pa và rừng núi xanh mát.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=98.8679,16.8393&z=17&pt=98.8679,16.8393",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.8393,98.8679"
+    },
+    "tags": [
+      "national_park",
+      "giant_tree",
+      "nature",
+      "waterfall"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-tak-namtok-pha-charoen-national-park",
+    "slug": "namtok-pha-charoen-national-park",
+    "region": "th-tak",
+    "country": "thailand",
+    "region_name_vi": "Tak",
+    "name_vi": "Vườn quốc gia Thác Pha Charoen",
+    "name_en": "Namtok Pha Charoen National Park",
+    "name_local": "อุทยานแห่งชาติน้ำตกพาเจริญ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 16.508,
+      "lon": 98.7031
+    },
+    "address_vi": "Huyện Phop Phra, tỉnh Tak",
+    "rating": null,
+    "presentation_short_vi": "Vườn quốc gia có thác Pha Charoen chảy tràn qua 97 tầng đá vôi phủ rêu xanh, một trong những thác đẹp trên tuyến Mae Sot–Umphang.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=98.7031,16.508&z=17&pt=98.7031,16.508",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.508,98.7031"
+    },
+    "tags": [
+      "waterfall",
+      "national_park",
+      "97_tiers",
+      "mae_sot"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-tak-san-somdet-phra-chao-taksin",
+    "slug": "san-somdet-phra-chao-taksin",
+    "region": "th-tak",
+    "country": "thailand",
+    "region_name_vi": "Tak",
+    "name_vi": "Đền thờ Vua Taksin Đại đế",
+    "name_en": "King Taksin the Great Shrine",
+    "name_local": "ศาลสมเด็จพระเจ้าตากสินมหาราช",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 16.883,
+      "lon": 99.121
+    },
+    "address_vi": "Huyện Mueang Tak, tỉnh Tak",
+    "rating": null,
+    "presentation_short_vi": "Đền thờ tôn vinh vua Taksin Đại đế – vị vua gắn với vùng đất Tak, là nơi thờ phụng và tổ chức lễ hội quan trọng của tỉnh.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=99.121,16.883&z=17&pt=99.121,16.883",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.883,99.121"
+    },
+    "tags": [
+      "shrine",
+      "king_taksin",
+      "landmark",
+      "culture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-tak-rim-moei-market",
+    "slug": "rim-moei-market",
+    "region": "th-tak",
+    "country": "thailand",
+    "region_name_vi": "Tak",
+    "name_vi": "Chợ Rim Moei",
+    "name_en": "Rim Moei Market",
+    "name_local": "ตลาดริมเมย",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 16.701,
+      "lon": 98.551
+    },
+    "address_vi": "Huyện Mae Sot, tỉnh Tak (bên sông Moei, biên giới Myanmar)",
+    "rating": null,
+    "presentation_short_vi": "Khu chợ biên giới sầm uất bên sông Moei đối diện Myawaddy (Myanmar), bán đá quý, gỗ, hàng thủ công và đặc sản hai nước.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=98.551,16.701&z=17&pt=98.551,16.701",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.701,98.551"
+    },
+    "tags": [
+      "market",
+      "border",
+      "mae_sot",
+      "myanmar_border"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

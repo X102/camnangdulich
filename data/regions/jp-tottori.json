@@ -1,0 +1,316 @@
+[
+  {
+    "id": "jp-tottori-tottori-sakyu",
+    "slug": "tottori-sakyu",
+    "region": "jp-tottori",
+    "country": "japan",
+    "region_name_vi": "Tottori",
+    "name_vi": "Cồn cát Tottori",
+    "name_en": "Tottori Sand Dunes",
+    "name_local": "鳥取砂丘",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.5425,
+      "lon": 134.2303
+    },
+    "address_vi": "Fukubechō Yuyama, TP Tottori, Tottori",
+    "presentation_short_vi": "Đồi cát ven biển lớn nhất Nhật Bản, trải dài khoảng 16 km bên bờ biển Nhật Bản với những triền cát cao tới 50 m; du khách có thể cưỡi lạc đà hoặc chơi dù lượn.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.5425,134.2303",
+      "yandex": "https://yandex.com/maps/?pt=134.2303,35.5425&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "dunes",
+      "nature",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-tottori-sand-museum",
+    "slug": "sand-museum",
+    "region": "jp-tottori",
+    "country": "japan",
+    "region_name_vi": "Tottori",
+    "name_vi": "Bảo tàng Cát",
+    "name_en": "The Sand Museum",
+    "name_local": "砂の美術館",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 35.5397,
+      "lon": 134.2322
+    },
+    "address_vi": "2083-17 Fukubechō Yuyama, TP Tottori, Tottori",
+    "presentation_short_vi": "Bảo tàng duy nhất trên thế giới trưng bày các tác phẩm điêu khắc bằng cát, mỗi năm đổi chủ đề theo một quốc gia hay nền văn minh khác nhau.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.5397,134.2322",
+      "yandex": "https://yandex.com/maps/?pt=134.2322,35.5397&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "art",
+      "unique"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-tottori-daisen",
+    "slug": "daisen",
+    "region": "jp-tottori",
+    "country": "japan",
+    "region_name_vi": "Tottori",
+    "name_vi": "Núi Daisen",
+    "name_en": "Mount Daisen",
+    "name_local": "大山",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.3708,
+      "lon": 133.5464
+    },
+    "address_vi": "Daisen, Quận Saihaku, Tottori",
+    "presentation_short_vi": "Ngọn núi lửa cao nhất vùng Chūgoku (1.729 m), được ví như “Phú Sĩ vùng Hōki”, là điểm leo núi, ngắm lá đỏ và trượt tuyết nổi tiếng phía tây Nhật Bản.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.3708,133.5464",
+      "yandex": "https://yandex.com/maps/?pt=133.5464,35.3708&z=16&l=map"
+    },
+    "tags": [
+      "mountain",
+      "hiking",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-tottori-mizuki-shigeru-road",
+    "slug": "mizuki-shigeru-road",
+    "region": "jp-tottori",
+    "country": "japan",
+    "region_name_vi": "Tottori",
+    "name_vi": "Phố Mizuki Shigeru",
+    "name_en": "Mizuki Shigeru Road",
+    "name_local": "水木しげるロード",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 35.5443,
+      "lon": 133.2264
+    },
+    "address_vi": "Sakaiminato, Tottori",
+    "presentation_short_vi": "Con phố từ ga Sakaiminato ra cảng với hơn 170 tượng đồng yêu quái, tôn vinh Mizuki Shigeru – cha đẻ bộ truyện tranh “GeGeGe no Kitarō”.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.5443,133.2264",
+      "yandex": "https://yandex.com/maps/?pt=133.2264,35.5443&z=16&l=map"
+    },
+    "tags": [
+      "street",
+      "anime",
+      "family",
+      "unique"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-tottori-nageiredo",
+    "slug": "nageiredo",
+    "region": "jp-tottori",
+    "country": "japan",
+    "region_name_vi": "Tottori",
+    "name_vi": "Chùa Sanbutsu-ji núi Mitoku (Nageiredō)",
+    "name_en": "Mitokusan Sanbutsu-ji Nageiredō",
+    "name_local": "三徳山三仏寺 投入堂",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 35.3968,
+      "lon": 133.929
+    },
+    "address_vi": "Mitoku, Misasa, Quận Tōhaku, Tottori",
+    "presentation_short_vi": "Chính điện Nageiredō chênh vênh trong hốc đá trên vách núi Mitoku, Quốc bảo được coi là công trình khó tiếp cận bậc nhất Nhật Bản, phải leo núi mới tới nơi.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.3968,133.929",
+      "yandex": "https://yandex.com/maps/?pt=133.929,35.3968&z=16&l=map"
+    },
+    "tags": [
+      "temple",
+      "sacred",
+      "hiking"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-tottori-uradome-coast",
+    "slug": "uradome-coast",
+    "region": "jp-tottori",
+    "country": "japan",
+    "region_name_vi": "Tottori",
+    "name_vi": "Bờ biển Uradome",
+    "name_en": "Uradome Coast",
+    "name_local": "浦富海岸",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.5877,
+      "lon": 134.322
+    },
+    "address_vi": "Iwami, Quận Iwami, Tottori",
+    "presentation_short_vi": "Dải bờ biển với vách đá, hang động và bãi cát trắng bên làn nước trong vắt, có thuyền du ngoạn len lỏi giữa những mỏm đá kỳ thú.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.5877,134.322",
+      "yandex": "https://yandex.com/maps/?pt=134.322,35.5877&z=16&l=map"
+    },
+    "tags": [
+      "coast",
+      "nature",
+      "scenic",
+      "boat"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-tottori-kurayoshi-shirakabe",
+    "slug": "kurayoshi-shirakabe",
+    "region": "jp-tottori",
+    "country": "japan",
+    "region_name_vi": "Tottori",
+    "name_vi": "Phố kho tường trắng Kurayoshi",
+    "name_en": "Kurayoshi Shirakabe Storehouses",
+    "name_local": "倉吉白壁土蔵群",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 35.4308,
+      "lon": 133.8262
+    },
+    "address_vi": "Shinmachi, TP Kurayoshi, Tottori",
+    "presentation_short_vi": "Khu phố cổ với dãy nhà kho tường trắng, mái ngói đỏ và bờ tường đá bên dòng kênh nhỏ, gợi lại khung cảnh thị trấn buôn bán thời Edo–Meiji.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.4308,133.8262",
+      "yandex": "https://yandex.com/maps/?pt=133.8262,35.4308&z=16&l=map"
+    },
+    "tags": [
+      "historic",
+      "edo",
+      "canal",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-tottori-misasa-onsen",
+    "slug": "misasa-onsen",
+    "region": "jp-tottori",
+    "country": "japan",
+    "region_name_vi": "Tottori",
+    "name_vi": "Suối nước nóng Misasa",
+    "name_en": "Misasa Onsen",
+    "name_local": "三朝温泉",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.4028,
+      "lon": 133.8848
+    },
+    "address_vi": "Misasa, Quận Tōhaku, Tottori",
+    "presentation_short_vi": "Thị trấn suối nước nóng radium cổ bên sông Mitoku, nổi tiếng với dòng nước được cho là tốt cho sức khoẻ và những quán trọ, bồn tắm lộ thiên ven sông.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.4028,133.8848",
+      "yandex": "https://yandex.com/maps/?pt=133.8848,35.4028&z=16&l=map"
+    },
+    "tags": [
+      "onsen",
+      "relax",
+      "retro"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-tottori-hakuto-shrine",
+    "slug": "hakuto-shrine",
+    "region": "jp-tottori",
+    "country": "japan",
+    "region_name_vi": "Tottori",
+    "name_vi": "Đền Hakuto",
+    "name_en": "Hakuto Shrine",
+    "name_local": "白兎神社",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 35.5232,
+      "lon": 134.137
+    },
+    "address_vi": "603 Shirousagi, TP Tottori, Tottori",
+    "presentation_short_vi": "Ngôi đền ven biển gắn với thần thoại “Thỏ trắng xứ Inaba”, được xem là nơi khởi nguồn của chuyện tình và tục cầu duyên trong thần thoại Nhật Bản.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.5232,134.137",
+      "yandex": "https://yandex.com/maps/?pt=134.137,35.5232&z=16&l=map"
+    },
+    "tags": [
+      "shrine",
+      "legend",
+      "seaside"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-tottori-tottori-castle",
+    "slug": "tottori-castle",
+    "region": "jp-tottori",
+    "country": "japan",
+    "region_name_vi": "Tottori",
+    "name_vi": "Di tích thành Tottori (công viên Kyūshō)",
+    "name_en": "Tottori Castle Ruins",
+    "name_local": "鳥取城跡",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 35.5064,
+      "lon": 134.2508
+    },
+    "address_vi": "Higashimachi, TP Tottori, Tottori",
+    "presentation_short_vi": "Nền thành cũ dưới chân núi Kyūshō với tường đá, hào nước và cổng phục dựng, nổi bật với bệ đá tròn hiếm thấy; điểm ngắm hoa anh đào của thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.5064,134.2508",
+      "yandex": "https://yandex.com/maps/?pt=134.2508,35.5064&z=16&l=map"
+    },
+    "tags": [
+      "castle",
+      "historic",
+      "park"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

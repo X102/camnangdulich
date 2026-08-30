@@ -1,0 +1,306 @@
+[
+  {
+    "id": "th-nakhon-ratchasima-khao-yai-national-park",
+    "slug": "khao-yai-national-park",
+    "region": "th-nakhon-ratchasima",
+    "country": "thailand",
+    "region_name_vi": "Nakhon Ratchasima",
+    "name_vi": "Vườn Quốc gia Khao Yai",
+    "name_en": "Khao Yai National Park",
+    "name_local": "อุทยานแห่งชาติเขาใหญ่",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 14.4393,
+      "lon": 101.3725
+    },
+    "address_vi": "Huyện Pak Chong, tỉnh Nakhon Ratchasima",
+    "rating": null,
+    "presentation_short_vi": "Vườn quốc gia đầu tiên của Thái Lan (1962), thuộc Di sản Thế giới Dong Phayayen–Khao Yai. Nổi tiếng với rừng nguyên sinh, thác nước và các loài thú hoang như voi, hươu, chim mỏ sừng.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=101.3725,14.4393&z=17&pt=101.3725,14.4393",
+      "google": "https://www.google.com/maps/search/?api=1&query=14.4393,101.3725"
+    },
+    "tags": [
+      "national_park",
+      "nature",
+      "unesco"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-nakhon-ratchasima-phimai-historical-park",
+    "slug": "phimai-historical-park",
+    "region": "th-nakhon-ratchasima",
+    "country": "thailand",
+    "region_name_vi": "Nakhon Ratchasima",
+    "name_vi": "Công viên Lịch sử Phimai (Prasat Hin Phimai)",
+    "name_en": "Phimai Historical Park",
+    "name_local": "ปราสาทหินพิมาย",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 15.2206,
+      "lon": 102.4938
+    },
+    "address_vi": "Thị trấn Phimai, huyện Phimai, tỉnh Nakhon Ratchasima",
+    "rating": null,
+    "presentation_short_vi": "Quần thể đền Khmer bằng đá sa thạch lớn nhất Thái Lan, xây thế kỷ 11–12 theo phong cách Angkor. Từng là trung tâm Phật giáo Đại thừa quan trọng của vùng Isan.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=102.4938,15.2206&z=17&pt=102.4938,15.2206",
+      "google": "https://www.google.com/maps/search/?api=1&query=15.2206,102.4938"
+    },
+    "tags": [
+      "khmer",
+      "historical",
+      "temple"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-nakhon-ratchasima-thao-suranari-monument",
+    "slug": "thao-suranari-monument",
+    "region": "th-nakhon-ratchasima",
+    "country": "thailand",
+    "region_name_vi": "Nakhon Ratchasima",
+    "name_vi": "Tượng đài Thao Suranari (Ya Mo)",
+    "name_en": "Thao Suranari Monument",
+    "name_local": "อนุสาวรีย์ท้าวสุรนารี",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 14.9723,
+      "lon": 102.098
+    },
+    "address_vi": "Cổng Chumphon, trung tâm TP. Nakhon Ratchasima",
+    "rating": null,
+    "presentation_short_vi": "Tượng đài nữ anh hùng Khun Ying Mo, người được tôn kính vì đã bảo vệ thành Korat. Đây là biểu tượng và nơi cầu nguyện của người dân thành phố.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=102.098,14.9723&z=17&pt=102.098,14.9723",
+      "google": "https://www.google.com/maps/search/?api=1&query=14.9723,102.098"
+    },
+    "tags": [
+      "landmark",
+      "monument"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-nakhon-ratchasima-sai-ngam",
+    "slug": "sai-ngam",
+    "region": "th-nakhon-ratchasima",
+    "country": "thailand",
+    "region_name_vi": "Nakhon Ratchasima",
+    "name_vi": "Cây Đa Khổng Lồ Sai Ngam",
+    "name_en": "Sai Ngam (Giant Banyan Tree)",
+    "name_local": "ไทรงาม",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 15.2434,
+      "lon": 102.5108
+    },
+    "address_vi": "Huyện Phimai, tỉnh Nakhon Ratchasima",
+    "rating": null,
+    "presentation_short_vi": "Rừng đa cổ thụ rộng lớn bên hồ chứa nước sông Mun, tán lá đan xen tạo bóng mát trải rộng. Điểm dạo chơi và picnic quen thuộc gần Phimai.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=102.5108,15.2434&z=17&pt=102.5108,15.2434",
+      "google": "https://www.google.com/maps/search/?api=1&query=15.2434,102.5108"
+    },
+    "tags": [
+      "nature",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-nakhon-ratchasima-phimai-national-museum",
+    "slug": "phimai-national-museum",
+    "region": "th-nakhon-ratchasima",
+    "country": "thailand",
+    "region_name_vi": "Nakhon Ratchasima",
+    "name_vi": "Bảo tàng Quốc gia Phimai",
+    "name_en": "Phimai National Museum",
+    "name_local": "พิพิธภัณฑสถานแห่งชาติ พิมาย",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 15.2249,
+      "lon": 102.4957
+    },
+    "address_vi": "Thị trấn Phimai, huyện Phimai, tỉnh Nakhon Ratchasima",
+    "rating": null,
+    "presentation_short_vi": "Bảo tàng trưng bày cổ vật và điêu khắc Khmer thu thập từ khắp vùng hạ Isan, gồm nhiều tượng đá và lanh-tô tinh xảo.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=102.4957,15.2249&z=17&pt=102.4957,15.2249",
+      "google": "https://www.google.com/maps/search/?api=1&query=15.2249,102.4957"
+    },
+    "tags": [
+      "museum",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-nakhon-ratchasima-prasat-phanom-wan",
+    "slug": "prasat-phanom-wan",
+    "region": "th-nakhon-ratchasima",
+    "country": "thailand",
+    "region_name_vi": "Nakhon Ratchasima",
+    "name_vi": "Đền Phanom Wan",
+    "name_en": "Prasat Phanom Wan",
+    "name_local": "ปราสาทพนมวัน",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 15.0303,
+      "lon": 102.2586
+    },
+    "address_vi": "Huyện Mueang Nakhon Ratchasima, tỉnh Nakhon Ratchasima",
+    "rating": null,
+    "presentation_short_vi": "Đền Khmer bằng đá sa thạch thế kỷ 11, hiện vẫn được dùng làm nơi thờ cúng. Kiến trúc cổ kính còn tương đối nguyên vẹn.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=102.2586,15.0303&z=17&pt=102.2586,15.0303",
+      "google": "https://www.google.com/maps/search/?api=1&query=15.0303,102.2586"
+    },
+    "tags": [
+      "khmer",
+      "temple",
+      "historical"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-nakhon-ratchasima-haew-suwat-waterfall",
+    "slug": "haew-suwat-waterfall",
+    "region": "th-nakhon-ratchasima",
+    "country": "thailand",
+    "region_name_vi": "Nakhon Ratchasima",
+    "name_vi": "Thác Haew Suwat",
+    "name_en": "Haew Suwat Waterfall",
+    "name_local": "น้ำตกเหวสุวัต",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 14.4373,
+      "lon": 101.443
+    },
+    "address_vi": "Vườn Quốc gia Khao Yai, tỉnh Nakhon Ratchasima",
+    "rating": null,
+    "presentation_short_vi": "Thác nước cao khoảng 20 m trong Vườn Quốc gia Khao Yai, từng xuất hiện trong phim 'The Beach'. Điểm đến được yêu thích khi trekking trong rừng.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=101.443,14.4373&z=17&pt=101.443,14.4373",
+      "google": "https://www.google.com/maps/search/?api=1&query=14.4373,101.443"
+    },
+    "tags": [
+      "waterfall",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-nakhon-ratchasima-haew-narok-waterfall",
+    "slug": "haew-narok-waterfall",
+    "region": "th-nakhon-ratchasima",
+    "country": "thailand",
+    "region_name_vi": "Nakhon Ratchasima",
+    "name_vi": "Thác Haew Narok",
+    "name_en": "Haew Narok Waterfall",
+    "name_local": "น้ำตกเหวนรก",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 14.3221,
+      "lon": 101.3902
+    },
+    "address_vi": "Vườn Quốc gia Khao Yai, tỉnh Nakhon Ratchasima",
+    "rating": null,
+    "presentation_short_vi": "Thác nước cao nhất Khao Yai với ba tầng đổ xuống khoảng 150 m. Cảnh quan hùng vĩ, nhất là vào mùa mưa.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=101.3902,14.3221&z=17&pt=101.3902,14.3221",
+      "google": "https://www.google.com/maps/search/?api=1&query=14.3221,101.3902"
+    },
+    "tags": [
+      "waterfall",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-nakhon-ratchasima-wat-ban-rai",
+    "slug": "wat-ban-rai",
+    "region": "th-nakhon-ratchasima",
+    "country": "thailand",
+    "region_name_vi": "Nakhon Ratchasima",
+    "name_vi": "Chùa Ban Rai (Điện Thep Wittayakhom)",
+    "name_en": "Wat Ban Rai (Thep Wittayakhom Vihara)",
+    "name_local": "วัดบ้านไร่",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 15.0876,
+      "lon": 101.729
+    },
+    "address_vi": "Xã Kut Phiman, huyện Dan Khun Thot, tỉnh Nakhon Ratchasima",
+    "rating": null,
+    "presentation_short_vi": "Ngôi chùa gắn với danh tăng Luang Phor Khoon, nổi bật với đại điện hình con voi khổng lồ ốp hàng triệu mảnh gốm sứ khảm màu.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=101.729,15.0876&z=17&pt=101.729,15.0876",
+      "google": "https://www.google.com/maps/search/?api=1&query=15.0876,101.729"
+    },
+    "tags": [
+      "temple",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-nakhon-ratchasima-wat-phra-narai-maharat",
+    "slug": "wat-phra-narai-maharat",
+    "region": "th-nakhon-ratchasima",
+    "country": "thailand",
+    "region_name_vi": "Nakhon Ratchasima",
+    "name_vi": "Chùa Phra Narai Maharat",
+    "name_en": "Wat Phra Narai Maharat",
+    "name_local": "วัดพระนารายณ์มหาราช",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 14.9758,
+      "lon": 102.1003
+    },
+    "address_vi": "Trung tâm TP. Nakhon Ratchasima",
+    "rating": null,
+    "presentation_short_vi": "Ngôi chùa cổ ở trung tâm Korat, nơi tôn trí tượng Phra Narai được người dân sùng kính.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=102.1003,14.9758&z=17&pt=102.1003,14.9758",
+      "google": "https://www.google.com/maps/search/?api=1&query=14.9758,102.1003"
+    },
+    "tags": [
+      "temple"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

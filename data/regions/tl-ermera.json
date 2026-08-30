@@ -1,0 +1,155 @@
+[
+  {
+    "id": "tl-ermera-gleno",
+    "slug": "gleno",
+    "region": "tl-ermera",
+    "country": "timor-leste",
+    "region_name_vi": "Ermera",
+    "name_vi": "Thị trấn Gleno",
+    "name_en": "Gleno",
+    "name_local": "Gleno",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": -8.723889,
+      "lon": 125.436111
+    },
+    "address_vi": "Thủ phủ huyện Ermera, Timor-Leste",
+    "presentation_short_vi": "Thủ phủ vùng cao của huyện Ermera ở độ cao khoảng 880m, nổi tiếng với những phiên chợ sầm uất và là cửa ngõ vào xứ sở cà phê.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=125.436111,-8.723889&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-8.723889,125.436111"
+    },
+    "tags": [
+      "town",
+      "market",
+      "coffee"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "tl-ermera-letefoho",
+    "slug": "letefoho",
+    "region": "tl-ermera",
+    "country": "timor-leste",
+    "region_name_vi": "Ermera",
+    "name_vi": "Letefoho",
+    "name_en": "Letefoho",
+    "name_local": "Letefoho",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": -8.834444,
+      "lon": 125.426389
+    },
+    "address_vi": "Letefoho, sườn núi Ramelau, huyện Ermera, Timor-Leste",
+    "presentation_short_vi": "Thị trấn trồng cà phê arabica trứ danh trên sườn tây núi Ramelau, khí hậu mát lạnh với những đồi cà phê trải dài.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=125.426389,-8.834444&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-8.834444,125.426389"
+    },
+    "tags": [
+      "coffee",
+      "mountain"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "tl-ermera-atsabe",
+    "slug": "atsabe",
+    "region": "tl-ermera",
+    "country": "timor-leste",
+    "region_name_vi": "Ermera",
+    "name_vi": "Atsabe",
+    "name_en": "Atsabe",
+    "name_local": "Atsabe",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": -8.925,
+      "lon": 125.398056
+    },
+    "address_vi": "Atsabe, vùng cao phía tây huyện Ermera, Timor-Leste",
+    "presentation_short_vi": "Thị trấn chợ vùng cao ở phía tây Ermera, một trung tâm thương mại truyền thống và điểm khởi hành cho các chuyến trekking miền núi.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=125.398056,-8.925&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-8.925,125.398056"
+    },
+    "tags": [
+      "town",
+      "market"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "tl-ermera-ermera-town",
+    "slug": "ermera-town",
+    "region": "tl-ermera",
+    "country": "timor-leste",
+    "region_name_vi": "Ermera",
+    "name_vi": "Thị trấn Ermera (Vila Ermera)",
+    "name_en": "Ermera",
+    "name_local": "Vila Ermera",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": -8.7522222,
+      "lon": 125.3969444
+    },
+    "address_vi": "Thị trấn Ermera, huyện Ermera, Timor-Leste",
+    "presentation_short_vi": "Thị trấn thủ phủ lịch sử của xứ cà phê, nằm giữa vùng cao rừng rậm dốc đứng với các đồn điền cà phê từ thời thuộc địa.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=125.3969444,-8.7522222&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-8.7522222,125.3969444"
+    },
+    "tags": [
+      "town",
+      "coffee",
+      "colonial"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "tl-ermera-fatubessi",
+    "slug": "fatubessi",
+    "region": "tl-ermera",
+    "country": "timor-leste",
+    "region_name_vi": "Ermera",
+    "name_vi": "Đồn điền cà phê Fatubessi",
+    "name_en": "Fatubessi",
+    "name_local": "Fatubessi",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": -8.748333,
+      "lon": 125.326111
+    },
+    "address_vi": "Fatubessi, huyện Ermera, Timor-Leste",
+    "presentation_short_vi": "Vùng trồng cà phê arabica dưới tán cây albizia cao lớn, nơi du khách tham quan đồn điền và trải nghiệm mùa thu hái cà phê.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=125.326111,-8.748333&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=-8.748333,125.326111"
+    },
+    "tags": [
+      "coffee",
+      "nature",
+      "plantation"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

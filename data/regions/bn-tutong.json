@@ -1,0 +1,157 @@
+[
+  {
+    "id": "bn-tutong-tasek-merimbun",
+    "slug": "tasek-merimbun",
+    "region": "bn-tutong",
+    "region_name_vi": "Tutong",
+    "country": "brunei",
+    "name_vi": "Hồ Tasek Merimbun",
+    "name_en": "Tasek Merimbun",
+    "name_local": "Tasek Merimbun",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 4.5884,
+      "lon": 114.6933
+    },
+    "address_vi": "huyện Tutong",
+    "presentation_short_vi": "Hồ tự nhiên lớn nhất Brunei, có hình chữ S và mặt nước sẫm màu do tanin từ lá cây; là công viên di sản ASEAN với hệ sinh thái đầm lầy phong phú, cách thủ đô khoảng 70 km.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=114.6933,4.5884&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=4.5884,114.6933"
+    },
+    "tags": [
+      "top",
+      "lake",
+      "heritage_park",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "bn-tutong-seri-kenangan-beach",
+    "slug": "seri-kenangan-beach",
+    "region": "bn-tutong",
+    "region_name_vi": "Tutong",
+    "country": "brunei",
+    "name_vi": "Bãi biển Seri Kenangan",
+    "name_en": "Seri Kenangan Beach",
+    "name_local": "Pantai Seri Kenangan",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 4.8071,
+      "lon": 114.6372
+    },
+    "address_vi": "Cách thị trấn Tutong khoảng 2 km về phía tây, huyện Tutong",
+    "presentation_short_vi": "Bãi biển nổi tiếng của Tutong nằm trên dải đất hẹp giữa sông Tutong và Biển Đông, là điểm dã ngoại và ngắm hoàng hôn được yêu thích.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=114.6372,4.8071&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=4.8071,114.6372"
+    },
+    "tags": [
+      "top",
+      "beach",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "bn-tutong-sungai-basong-recreational-park",
+    "slug": "sungai-basong-recreational-park",
+    "region": "bn-tutong",
+    "region_name_vi": "Tutong",
+    "country": "brunei",
+    "name_vi": "Công viên Sungai Basong",
+    "name_en": "Sungai Basong Recreational Park",
+    "name_local": "Taman Rekreasi Sungai Basong",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 4.8187,
+      "lon": 114.6701
+    },
+    "address_vi": "huyện Tutong",
+    "presentation_short_vi": "Công viên giải trí ven suối ở Tutong với hồ nước, đường dạo bộ và cây xanh, là nơi thư giãn của người dân địa phương.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=114.6701,4.8187&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=4.8187,114.6701"
+    },
+    "tags": [
+      "park",
+      "nature",
+      "recreation"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "bn-tutong-masjid-pengiran-anak-haji-mohammed-alam",
+    "slug": "masjid-pengiran-anak-haji-mohammed-alam",
+    "region": "bn-tutong",
+    "region_name_vi": "Tutong",
+    "country": "brunei",
+    "name_vi": "Thánh đường Pengiran Anak Haji Mohammed Alam",
+    "name_en": "Pengiran Anak Haji Mohammed Alam Mosque",
+    "name_local": "Masjid Pengiran Anak Haji Mohammed Alam",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 4.8138,
+      "lon": 114.6494
+    },
+    "address_vi": "Jalan Pantai Seri Kenangan, huyện Tutong",
+    "presentation_short_vi": "Thánh đường Hồi giáo bên đường ra bãi Seri Kenangan ở Tutong, phục vụ cộng đồng địa phương và là điểm dừng chân của du khách.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=114.6494,4.8138&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=4.8138,114.6494"
+    },
+    "tags": [
+      "mosque",
+      "religious_site"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "bn-tutong-istana-pantai",
+    "slug": "istana-pantai",
+    "region": "bn-tutong",
+    "region_name_vi": "Tutong",
+    "country": "brunei",
+    "name_vi": "Cung điện Istana Pantai",
+    "name_en": "Istana Pantai",
+    "name_local": "Istana Pantai",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 4.8073,
+      "lon": 114.6386
+    },
+    "address_vi": "Khu bãi Seri Kenangan, huyện Tutong",
+    "presentation_short_vi": "Cung điện bên biển từng là nơi nghỉ của Quốc vương Omar Ali Saifuddien III, tọa lạc tại khu bãi Seri Kenangan ở Tutong; nay là một di tích lịch sử.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=114.6386,4.8073&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=4.8073,114.6386"
+    },
+    "tags": [
+      "palace",
+      "royal",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

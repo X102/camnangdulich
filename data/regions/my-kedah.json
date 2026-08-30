@@ -1,0 +1,312 @@
+[
+  {
+    "id": "my-kedah-sky-bridge",
+    "slug": "sky-bridge",
+    "region": "my-kedah",
+    "region_name_vi": "Kedah",
+    "country": "malaysia",
+    "name_vi": "Cầu trời Langkawi (Sky Bridge)",
+    "name_en": "Langkawi Sky Bridge",
+    "name_local": "Jambatan Langit Langkawi",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 6.3861,
+      "lon": 99.6627
+    },
+    "address_vi": "Gunung Mat Cincang, đảo Langkawi",
+    "presentation_short_vi": "Cầu treo đi bộ cong dài 125 m ở độ cao ~700 m trên đỉnh Gunung Mat Cincang, tầm nhìn ngoạn mục ra quần đảo Langkawi.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=99.6627,6.3861&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=6.3861,99.6627"
+    },
+    "tags": [
+      "bridge",
+      "viewpoint",
+      "langkawi"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-kedah-cable-car",
+    "slug": "cable-car",
+    "region": "my-kedah",
+    "region_name_vi": "Kedah",
+    "country": "malaysia",
+    "name_vi": "Cáp treo Langkawi (Panorama)",
+    "name_en": "Langkawi Cable Car",
+    "name_local": "Kereta Kabel Langkawi",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 6.3714,
+      "lon": 99.6716
+    },
+    "address_vi": "Oriental Village, Teluk Burau, Langkawi",
+    "presentation_short_vi": "Tuyến cáp treo đưa du khách lên đỉnh Gunung Mat Cincang, một trong những tuyến cáp dốc nhất thế giới.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=99.6716,6.3714&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=6.3714,99.6716"
+    },
+    "tags": [
+      "cable_car",
+      "viewpoint",
+      "langkawi"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-kedah-eagle-square",
+    "slug": "eagle-square",
+    "region": "my-kedah",
+    "region_name_vi": "Kedah",
+    "country": "malaysia",
+    "name_vi": "Quảng trường Đại bàng (Dataran Lang)",
+    "name_en": "Eagle Square",
+    "name_local": "Dataran Lang",
+    "categories": [
+      "monument",
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 6.3095,
+      "lon": 99.849
+    },
+    "address_vi": "Kuah, đảo Langkawi",
+    "presentation_short_vi": "Quảng trường ven biển với tượng đại bàng khổng lồ cao 12 m, biểu tượng chào đón của đảo Langkawi.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=99.849,6.3095&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=6.3095,99.849"
+    },
+    "tags": [
+      "landmark",
+      "statue",
+      "langkawi"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-kedah-kilim-geoforest",
+    "slug": "kilim-geoforest",
+    "region": "my-kedah",
+    "region_name_vi": "Kedah",
+    "country": "malaysia",
+    "name_vi": "Công viên địa chất Kilim Karst",
+    "name_en": "Kilim Karst Geoforest Park",
+    "name_local": "Taman Geoforest Karst Kilim",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 6.4225,
+      "lon": 99.8556
+    },
+    "address_vi": "Đông bắc đảo Langkawi",
+    "presentation_short_vi": "Công viên địa chất thuộc Công viên Địa chất Toàn cầu UNESCO Langkawi, với rừng ngập mặn, hang động và núi đá vôi tuổi hàng trăm triệu năm.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=99.8556,6.4225&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=6.4225,99.8556"
+    },
+    "tags": [
+      "geopark",
+      "mangrove",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-kedah-pantai-cenang",
+    "slug": "pantai-cenang",
+    "region": "my-kedah",
+    "region_name_vi": "Kedah",
+    "country": "malaysia",
+    "name_vi": "Bãi biển Pantai Cenang",
+    "name_en": "Pantai Cenang",
+    "name_local": "Pantai Cenang",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 6.29,
+      "lon": 99.728
+    },
+    "address_vi": "Mukim Kedawang, đảo Langkawi",
+    "presentation_short_vi": "Bãi biển sôi động và nổi tiếng nhất Langkawi với cát trắng, thể thao dưới nước và hoàng hôn tuyệt đẹp.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=99.728,6.29&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=6.29,99.728"
+    },
+    "tags": [
+      "beach",
+      "langkawi"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-kedah-telaga-tujuh",
+    "slug": "telaga-tujuh",
+    "region": "my-kedah",
+    "region_name_vi": "Kedah",
+    "country": "malaysia",
+    "name_vi": "Thác Bảy Giếng (Telaga Tujuh)",
+    "name_en": "Seven Wells Waterfalls",
+    "name_local": "Air Terjun Telaga Tujuh",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 6.3806,
+      "lon": 99.671
+    },
+    "address_vi": "Chân Gunung Mat Cincang, Langkawi",
+    "presentation_short_vi": "Thác nước bảy tầng tạo thành bảy 'giếng' tự nhiên, điểm tắm thác và ngắm cảnh nổi tiếng gần cáp treo.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=99.671,6.3806&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=6.3806,99.671"
+    },
+    "tags": [
+      "waterfall",
+      "nature",
+      "langkawi"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-kedah-zahir-mosque",
+    "slug": "zahir-mosque",
+    "region": "my-kedah",
+    "region_name_vi": "Kedah",
+    "country": "malaysia",
+    "name_vi": "Thánh đường Zahir",
+    "name_en": "Zahir Mosque",
+    "name_local": "Masjid Zahir",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 6.1236,
+      "lon": 100.3671
+    },
+    "address_vi": "Alor Setar, Kedah",
+    "presentation_short_vi": "Một trong những thánh đường Hồi giáo lâu đời và đẹp nhất Malaysia (1912), biểu tượng của bang Kedah.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=100.3671,6.1236&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=6.1236,100.3671"
+    },
+    "tags": [
+      "mosque",
+      "heritage",
+      "alor_setar"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-kedah-gunung-jerai",
+    "slug": "gunung-jerai",
+    "region": "my-kedah",
+    "region_name_vi": "Kedah",
+    "country": "malaysia",
+    "name_vi": "Núi Jerai (Đỉnh Kedah)",
+    "name_en": "Gunung Jerai",
+    "name_local": "Gunung Jerai",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 5.7897,
+      "lon": 100.4356
+    },
+    "address_vi": "Yan / Kuala Muda, Kedah",
+    "presentation_short_vi": "Ngọn núi đá vôi cao ~1.217 m nổi bật giữa đồng lúa Kedah, có khu bảo tồn rừng và tầm nhìn ra eo biển Malacca.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=100.4356,5.7897&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=5.7897,100.4356"
+    },
+    "tags": [
+      "mountain",
+      "nature",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-kedah-bujang-valley",
+    "slug": "bujang-valley",
+    "region": "my-kedah",
+    "region_name_vi": "Kedah",
+    "country": "malaysia",
+    "name_vi": "Thung lũng Bujang (Di chỉ khảo cổ)",
+    "name_en": "Bujang Valley",
+    "name_local": "Lembah Bujang",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 5.6947,
+      "lon": 100.4269
+    },
+    "address_vi": "Merbok, Kedah",
+    "presentation_short_vi": "Quần thể khảo cổ cổ nhất Malaysia với các đền tháp (candi) Hindu-Phật giáo hơn 1.500 năm tuổi.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=100.4269,5.6947&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=5.6947,100.4269"
+    },
+    "tags": [
+      "archaeology",
+      "hindu_buddhist",
+      "heritage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-kedah-alor-setar-tower",
+    "slug": "alor-setar-tower",
+    "region": "my-kedah",
+    "region_name_vi": "Kedah",
+    "country": "malaysia",
+    "name_vi": "Tháp Alor Setar",
+    "name_en": "Alor Setar Tower",
+    "name_local": "Menara Alor Setar",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 6.1213,
+      "lon": 100.3687
+    },
+    "address_vi": "Alor Setar, Kedah",
+    "presentation_short_vi": "Tháp viễn thông cao 165,5 m với đài quan sát ngắm toàn cảnh thủ phủ Alor Setar và vùng đồng bằng Kedah.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=100.3687,6.1213&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=6.1213,100.3687"
+    },
+    "tags": [
+      "tower",
+      "viewpoint",
+      "alor_setar"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

@@ -1,0 +1,314 @@
+[
+  {
+    "id": "my-kuala-lumpur-petronas-twin-towers",
+    "slug": "petronas-twin-towers",
+    "region": "my-kuala-lumpur",
+    "region_name_vi": "Kuala Lumpur",
+    "country": "malaysia",
+    "name_vi": "Tháp đôi Petronas",
+    "name_en": "Petronas Twin Towers",
+    "name_local": "Menara Berkembar Petronas",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 3.1578,
+      "lon": 101.7117
+    },
+    "address_vi": "Trung tâm thành phố Kuala Lumpur (KLCC), Kuala Lumpur",
+    "presentation_short_vi": "Cặp tháp đôi cao 452 m hoàn thành năm 1998, từng là tòa nhà cao nhất thế giới, biểu tượng hiện đại của Malaysia với cầu trên không nối hai tháp ở tầng 41–42.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.7117,3.1578&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=3.1578,101.7117"
+    },
+    "tags": [
+      "skyscraper",
+      "landmark",
+      "must-see"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-kuala-lumpur-kl-tower",
+    "slug": "kl-tower",
+    "region": "my-kuala-lumpur",
+    "region_name_vi": "Kuala Lumpur",
+    "country": "malaysia",
+    "name_vi": "Tháp truyền hình Kuala Lumpur (Menara KL)",
+    "name_en": "Kuala Lumpur Tower",
+    "name_local": "Menara Kuala Lumpur",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 3.1528,
+      "lon": 101.7039
+    },
+    "address_vi": "Đồi Bukit Nanas, Kuala Lumpur",
+    "presentation_short_vi": "Tháp viễn thông cao 421 m khánh thành năm 1996, có đài quan sát và nhà hàng xoay, là điểm ngắm toàn cảnh thành phố nổi tiếng.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.7039,3.1528&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=3.1528,101.7039"
+    },
+    "tags": [
+      "tower",
+      "observation",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-kuala-lumpur-merdeka-square",
+    "slug": "merdeka-square",
+    "region": "my-kuala-lumpur",
+    "region_name_vi": "Kuala Lumpur",
+    "country": "malaysia",
+    "name_vi": "Quảng trường Độc lập (Dataran Merdeka)",
+    "name_en": "Merdeka Square",
+    "name_local": "Dataran Merdeka",
+    "categories": [
+      "square_street",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 3.1478,
+      "lon": 101.6935
+    },
+    "address_vi": "Jalan Raja, trung tâm Kuala Lumpur",
+    "presentation_short_vi": "Quảng trường lịch sử nơi lá cờ Malaysia lần đầu được kéo lên lúc nửa đêm 31/8/1957 đánh dấu độc lập, có cột cờ cao 95 m và thảm cỏ rộng.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.6935,3.1478&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=3.1478,101.6935"
+    },
+    "tags": [
+      "square",
+      "independence",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-kuala-lumpur-sultan-abdul-samad-building",
+    "slug": "sultan-abdul-samad-building",
+    "region": "my-kuala-lumpur",
+    "region_name_vi": "Kuala Lumpur",
+    "country": "malaysia",
+    "name_vi": "Tòa nhà Sultan Abdul Samad",
+    "name_en": "Sultan Abdul Samad Building",
+    "name_local": "Bangunan Sultan Abdul Samad",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 3.1489,
+      "lon": 101.6944
+    },
+    "address_vi": "Jalan Raja, đối diện Dataran Merdeka, Kuala Lumpur",
+    "presentation_short_vi": "Công trình gạch đỏ phong cách Moor–Ấn hoàn thành năm 1897 với tháp đồng hồ cao 41 m, từng là trụ sở chính quyền thuộc địa Anh.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.6944,3.1489&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=3.1489,101.6944"
+    },
+    "tags": [
+      "colonial",
+      "landmark",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-kuala-lumpur-national-mosque",
+    "slug": "national-mosque",
+    "region": "my-kuala-lumpur",
+    "region_name_vi": "Kuala Lumpur",
+    "country": "malaysia",
+    "name_vi": "Thánh đường Hồi giáo Quốc gia (Masjid Negara)",
+    "name_en": "National Mosque of Malaysia",
+    "name_local": "Masjid Negara",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 3.1417,
+      "lon": 101.6917
+    },
+    "address_vi": "Jalan Perdana, Kuala Lumpur",
+    "presentation_short_vi": "Thánh đường quốc gia khánh thành năm 1965 với mái xếp hình ngôi sao 18 cánh và tháp cao 73 m, sức chứa tới 15.000 người, biểu tượng độc lập của Malaysia.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.6917,3.1417&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=3.1417,101.6917"
+    },
+    "tags": [
+      "mosque",
+      "landmark",
+      "modernist"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-kuala-lumpur-thean-hou-temple",
+    "slug": "thean-hou-temple",
+    "region": "my-kuala-lumpur",
+    "region_name_vi": "Kuala Lumpur",
+    "country": "malaysia",
+    "name_vi": "Chùa Thiên Hậu (Thean Hou)",
+    "name_en": "Thean Hou Temple",
+    "name_local": "Kuil Thean Hou",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 3.1219,
+      "lon": 101.6883
+    },
+    "address_vi": "Đồi Robson, Jalan Persiaran Endah, Kuala Lumpur",
+    "presentation_short_vi": "Ngôi chùa sáu tầng của người Hoa thờ nữ thần biển Thiên Hậu, khánh thành năm 1987, nổi bật với kiến trúc lộng lẫy và tầm nhìn xuống thành phố.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.6883,3.1219&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=3.1219,101.6883"
+    },
+    "tags": [
+      "chinese_temple",
+      "mazu",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-kuala-lumpur-central-market",
+    "slug": "central-market",
+    "region": "my-kuala-lumpur",
+    "region_name_vi": "Kuala Lumpur",
+    "country": "malaysia",
+    "name_vi": "Chợ Trung tâm (Central Market)",
+    "name_en": "Central Market",
+    "name_local": "Pasar Seni",
+    "categories": [
+      "square_street",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 3.1458,
+      "lon": 101.6956
+    },
+    "address_vi": "Jalan Hang Kasturi, Kuala Lumpur",
+    "presentation_short_vi": "Khu chợ phong cách Art Deco xây năm 1928, xưa là chợ ẩm ướt, nay là trung tâm thủ công mỹ nghệ và quà lưu niệm được xếp hạng di sản.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.6956,3.1458&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=3.1458,101.6956"
+    },
+    "tags": [
+      "market",
+      "heritage",
+      "handicraft"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-kuala-lumpur-petaling-street",
+    "slug": "petaling-street",
+    "region": "my-kuala-lumpur",
+    "region_name_vi": "Kuala Lumpur",
+    "country": "malaysia",
+    "name_vi": "Phố Tàu Petaling (Chinatown)",
+    "name_en": "Petaling Street (Chinatown)",
+    "name_local": "Jalan Petaling",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 3.144,
+      "lon": 101.6981
+    },
+    "address_vi": "Jalan Petaling, Kuala Lumpur",
+    "presentation_short_vi": "Khu phố người Hoa sầm uất với chợ đêm mái vòm xanh, nổi tiếng về hàng hóa, đồ lưu niệm và ẩm thực đường phố.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.6981,3.144&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=3.144,101.6981"
+    },
+    "tags": [
+      "chinatown",
+      "market",
+      "street_food"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-kuala-lumpur-national-museum",
+    "slug": "national-museum",
+    "region": "my-kuala-lumpur",
+    "region_name_vi": "Kuala Lumpur",
+    "country": "malaysia",
+    "name_vi": "Bảo tàng Quốc gia (Muzium Negara)",
+    "name_en": "National Museum of Malaysia",
+    "name_local": "Muzium Negara",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 3.1378,
+      "lon": 101.6872
+    },
+    "address_vi": "Jalan Damansara, Kuala Lumpur",
+    "presentation_short_vi": "Bảo tàng quốc gia khai trương năm 1963, kiến trúc kiểu cung điện Mã Lai truyền thống, trưng bày lịch sử, văn hóa và thiên nhiên Malaysia.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.6872,3.1378&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=3.1378,101.6872"
+    },
+    "tags": [
+      "museum",
+      "history",
+      "culture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "my-kuala-lumpur-perdana-botanical-garden",
+    "slug": "perdana-botanical-garden",
+    "region": "my-kuala-lumpur",
+    "region_name_vi": "Kuala Lumpur",
+    "country": "malaysia",
+    "name_vi": "Vườn Bách thảo Perdana",
+    "name_en": "Perdana Botanical Garden",
+    "name_local": "Taman Botani Perdana",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 3.1436,
+      "lon": 101.6869
+    },
+    "address_vi": "Jalan Kebun Bunga, Kuala Lumpur",
+    "presentation_short_vi": "Khu vườn thực vật lâu đời nhất thành phố (thập niên 1880) rộng hơn 90 ha quanh hồ, có công viên chim, vườn lan và không gian xanh mát.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=101.6869,3.1436&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=3.1436,101.6869"
+    },
+    "tags": [
+      "garden",
+      "park",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

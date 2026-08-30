@@ -1,0 +1,319 @@
+[
+  {
+    "id": "jp-shiga-biwako",
+    "slug": "biwako",
+    "region": "jp-shiga",
+    "country": "japan",
+    "region_name_vi": "Shiga",
+    "name_vi": "Hồ Biwa (Biwako)",
+    "name_en": "Lake Biwa",
+    "name_local": "琵琶湖",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.25,
+      "lon": 136.0833
+    },
+    "address_vi": "Shiga (trung tâm tỉnh)",
+    "presentation_short_vi": "Hồ nước ngọt lớn nhất Nhật Bản, hình dáng tựa cây đàn tỳ bà (biwa), nguồn nước cho cả vùng Kansai.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.25,136.0833",
+      "yandex": "https://yandex.com/maps/?pt=136.0833,35.25&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "lake",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-shiga-hikone-castle",
+    "slug": "hikone-castle",
+    "region": "jp-shiga",
+    "country": "japan",
+    "region_name_vi": "Shiga",
+    "name_vi": "Lâu đài Hikone",
+    "name_en": "Hikone Castle",
+    "name_local": "彦根城",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 35.2764,
+      "lon": 136.2519
+    },
+    "address_vi": "1-1 Konki-chō, Hikone, Shiga",
+    "presentation_short_vi": "Một trong 12 tháp canh nguyên bản và 5 lâu đài Bảo vật Quốc gia của Nhật, gần như nguyên vẹn từ thế kỷ 17.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.2764,136.2519",
+      "yandex": "https://yandex.com/maps/?pt=136.2519,35.2764&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "castle",
+      "national-treasure",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-shiga-enryakuji",
+    "slug": "enryakuji",
+    "region": "jp-shiga",
+    "country": "japan",
+    "region_name_vi": "Shiga",
+    "name_vi": "Chùa Enryaku-ji (Diên Lịch Tự)",
+    "name_en": "Enryaku-ji Temple",
+    "name_local": "延暦寺",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 35.0706,
+      "lon": 135.8408
+    },
+    "address_vi": "4220 Sakamoto Honmachi, Ōtsu, Shiga",
+    "presentation_short_vi": "Tổng bản sơn của Thiên Thai tông trên núi Hiei, Di sản Thế giới UNESCO, cái nôi của nhiều tông phái Phật giáo Nhật.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.0706,135.8408",
+      "yandex": "https://yandex.com/maps/?pt=135.8408,35.0706&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "temple",
+      "unesco",
+      "mountain"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-shiga-miho-museum",
+    "slug": "miho-museum",
+    "region": "jp-shiga",
+    "country": "japan",
+    "region_name_vi": "Shiga",
+    "name_vi": "Bảo tàng Miho",
+    "name_en": "Miho Museum",
+    "name_local": "ミホミュージアム",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 34.9236,
+      "lon": 136.0181
+    },
+    "address_vi": "300 Momodani, Shigaraki-chō Tashiro, Kōka, Shiga",
+    "presentation_short_vi": "Bảo tàng do kiến trúc sư I. M. Pei thiết kế, ẩn trong núi và đến qua đường hầm cong, hòa quyện nghệ thuật với thiên nhiên.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.9236,136.0181",
+      "yandex": "https://yandex.com/maps/?pt=136.0181,34.9236&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "museum",
+      "architecture",
+      "art"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-shiga-shirahige-jinja",
+    "slug": "shirahige-jinja",
+    "region": "jp-shiga",
+    "country": "japan",
+    "region_name_vi": "Shiga",
+    "name_vi": "Đền Shirahige (cổng torii trên hồ)",
+    "name_en": "Shirahige Shrine",
+    "name_local": "白鬚神社",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 35.2744,
+      "lon": 136.0247
+    },
+    "address_vi": "215 Ukawa, Takashima, Shiga",
+    "presentation_short_vi": "Ngôi đền cổ với cổng torii đỏ đứng giữa mặt nước hồ Biwa, được ví như 'Itsukushima của xứ Ōmi'.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.2744,136.0247",
+      "yandex": "https://yandex.com/maps/?pt=136.0247,35.2744&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "shrine",
+      "torii",
+      "lake"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-shiga-hachimanbori",
+    "slug": "hachimanbori",
+    "region": "jp-shiga",
+    "country": "japan",
+    "region_name_vi": "Shiga",
+    "name_vi": "Kênh cổ Hachiman-bori (Ōmihachiman)",
+    "name_en": "Hachiman-bori Canal",
+    "name_local": "八幡堀",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 35.1386,
+      "lon": 136.0858
+    },
+    "address_vi": "Ōmihachiman, Shiga",
+    "presentation_short_vi": "Con kênh thương nhân thời Edo được bảo tồn với nhà kho trắng soi bóng nước, bối cảnh quen thuộc của nhiều phim cổ trang.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.1386,136.0858",
+      "yandex": "https://yandex.com/maps/?pt=136.0858,35.1386&z=16&l=map"
+    },
+    "tags": [
+      "canal",
+      "old-town",
+      "history",
+      "scenery"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-shiga-genkyuen",
+    "slug": "genkyuen",
+    "region": "jp-shiga",
+    "country": "japan",
+    "region_name_vi": "Shiga",
+    "name_vi": "Vườn Genkyū-en (cạnh lâu đài Hikone)",
+    "name_en": "Genkyū-en Garden",
+    "name_local": "玄宮園",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.2789,
+      "lon": 136.2528
+    },
+    "address_vi": "3 Konki-chō, Hikone, Shiga",
+    "presentation_short_vi": "Vườn dạo daimyō thời Edo bên lâu đài Hikone, hồ nước và đình tạ tạo khung ngắm tháp canh tuyệt đẹp.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.2789,136.2528",
+      "yandex": "https://yandex.com/maps/?pt=136.2528,35.2789&z=16&l=map"
+    },
+    "tags": [
+      "garden",
+      "history",
+      "scenery"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-shiga-metasequoia-namiki",
+    "slug": "metasequoia-namiki",
+    "region": "jp-shiga",
+    "country": "japan",
+    "region_name_vi": "Shiga",
+    "name_vi": "Hàng cây Metasequoia (Makino)",
+    "name_en": "Metasequoia Tree-lined Avenue",
+    "name_local": "メタセコイア並木",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.4083,
+      "lon": 136.0344
+    },
+    "address_vi": "Makino-chō, Takashima, Shiga",
+    "presentation_short_vi": "Đại lộ dài 2,4 km với khoảng 500 cây thủy sam, rực rỡ vào mùa thu lá đỏ và lãng mạn khi phủ tuyết mùa đông.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.4083,136.0344",
+      "yandex": "https://yandex.com/maps/?pt=136.0344,35.4083&z=16&l=map"
+    },
+    "tags": [
+      "avenue",
+      "trees",
+      "scenery",
+      "autumn"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-shiga-ishiyamadera",
+    "slug": "ishiyamadera",
+    "region": "jp-shiga",
+    "country": "japan",
+    "region_name_vi": "Shiga",
+    "name_vi": "Chùa Ishiyama-dera (Thạch Sơn Tự)",
+    "name_en": "Ishiyama-dera Temple",
+    "name_local": "石山寺",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 34.9611,
+      "lon": 135.9047
+    },
+    "address_vi": "1-1-1 Ishiyamadera, Ōtsu, Shiga",
+    "presentation_short_vi": "Chùa Chân Ngôn tông dựng trên nền đá wollastonite, nơi tương truyền Murasaki Shikibu khởi bút 'Truyện Genji'.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.9611,135.9047",
+      "yandex": "https://yandex.com/maps/?pt=135.9047,34.9611&z=16&l=map"
+    },
+    "tags": [
+      "temple",
+      "history",
+      "genji",
+      "autumn"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-shiga-miidera",
+    "slug": "miidera",
+    "region": "jp-shiga",
+    "country": "japan",
+    "region_name_vi": "Shiga",
+    "name_vi": "Chùa Mii-dera (Onjō-ji)",
+    "name_en": "Mii-dera (Onjō-ji) Temple",
+    "name_local": "三井寺（園城寺）",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 35.0131,
+      "lon": 135.8531
+    },
+    "address_vi": "246 Onjōji-chō, Ōtsu, Shiga",
+    "presentation_short_vi": "Tổng bản sơn của Thiên Thai Tự Môn tông nhìn ra hồ Biwa, nổi tiếng với tiếng chuông chiều 'Vãn chung Mii-dera'.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.0131,135.8531",
+      "yandex": "https://yandex.com/maps/?pt=135.8531,35.0131&z=16&l=map"
+    },
+    "tags": [
+      "temple",
+      "history",
+      "lake-view"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

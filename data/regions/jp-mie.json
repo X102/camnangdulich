@@ -1,0 +1,303 @@
+[
+  {
+    "id": "jp-mie-ise-jingu-naiku",
+    "slug": "ise-jingu-naiku",
+    "region": "jp-mie",
+    "country": "japan",
+    "region_name_vi": "Mie",
+    "name_vi": "Đền Ise – Naiku (Nội cung)",
+    "name_en": "Ise Grand Shrine – Naikū",
+    "name_local": "伊勢神宮 内宮（皇大神宮）",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 34.4549,
+      "lon": 136.7256
+    },
+    "address_vi": "1 Ujitachicho, Ise",
+    "presentation_short_vi": "Nội cung linh thiêng bậc nhất Nhật Bản thờ nữ thần Mặt Trời Amaterasu, giữa rừng bách cổ thụ bên sông Isuzu.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.4549,136.7256",
+      "yandex": "https://yandex.com/maps/?pt=136.7256,34.4549&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "shrine",
+      "sacred"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-mie-ise-jingu-geku",
+    "slug": "ise-jingu-geku",
+    "region": "jp-mie",
+    "country": "japan",
+    "region_name_vi": "Mie",
+    "name_vi": "Đền Ise – Geku (Ngoại cung)",
+    "name_en": "Ise Grand Shrine – Gekū",
+    "name_local": "伊勢神宮 外宮（豊受大神宮）",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 34.4873,
+      "lon": 136.7041
+    },
+    "address_vi": "279 Toyokawacho, Ise",
+    "presentation_short_vi": "Ngoại cung của Thần cung Ise thờ nữ thần nông nghiệp và ẩm thực Toyouke, được dựng lại 20 năm một lần.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.4873,136.7041",
+      "yandex": "https://yandex.com/maps/?pt=136.7041,34.4873&z=16&l=map"
+    },
+    "tags": [
+      "shrine",
+      "sacred"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-mie-meoto-iwa",
+    "slug": "meoto-iwa",
+    "region": "jp-mie",
+    "country": "japan",
+    "region_name_vi": "Mie",
+    "name_vi": "Đá vợ chồng Meoto Iwa",
+    "name_en": "Meoto Iwa (Wedded Rocks)",
+    "name_local": "夫婦岩",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 34.5138,
+      "lon": 136.7876
+    },
+    "address_vi": "Futami, Ise",
+    "presentation_short_vi": "Hai tảng đá nối bằng dây thừng thiêng shimenawa, biểu tượng cho tình phu thê, đẹp nhất lúc bình minh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.5138,136.7876",
+      "yandex": "https://yandex.com/maps/?pt=136.7876,34.5138&z=16&l=map"
+    },
+    "tags": [
+      "scenic",
+      "sea"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-mie-okage-yokocho",
+    "slug": "okage-yokocho",
+    "region": "jp-mie",
+    "country": "japan",
+    "region_name_vi": "Mie",
+    "name_vi": "Phố cổ Okage Yokocho",
+    "name_en": "Okage Yokochō / Oharaimachi",
+    "name_local": "おかげ横丁",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 34.459,
+      "lon": 136.7237
+    },
+    "address_vi": "Ujinakanokiricho, Ise",
+    "presentation_short_vi": "Khu phố tái hiện kiến trúc thời Edo trên đường dẫn vào Naiku, đầy quán ăn vặt và đặc sản địa phương.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.459,136.7237",
+      "yandex": "https://yandex.com/maps/?pt=136.7237,34.459&z=16&l=map"
+    },
+    "tags": [
+      "old-town",
+      "food"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-mie-toba-aquarium",
+    "slug": "toba-aquarium",
+    "region": "jp-mie",
+    "country": "japan",
+    "region_name_vi": "Mie",
+    "name_vi": "Thủy cung Toba",
+    "name_en": "Toba Aquarium",
+    "name_local": "鳥羽水族館",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 34.482,
+      "lon": 136.8434
+    },
+    "address_vi": "3-3-6 Toba, Toba",
+    "presentation_short_vi": "Thủy cung có số loài trưng bày vào hàng nhiều nhất Nhật Bản, nổi tiếng với bò biển dugong hiếm.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.482,136.8434",
+      "yandex": "https://yandex.com/maps/?pt=136.8434,34.482&z=16&l=map"
+    },
+    "tags": [
+      "family",
+      "aquarium"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-mie-mikimoto-pearl-island",
+    "slug": "mikimoto-pearl-island",
+    "region": "jp-mie",
+    "country": "japan",
+    "region_name_vi": "Mie",
+    "name_vi": "Đảo ngọc trai Mikimoto",
+    "name_en": "Mikimoto Pearl Island",
+    "name_local": "ミキモト真珠島",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 34.4813,
+      "lon": 136.8419
+    },
+    "address_vi": "1-7-1 Toba, Toba",
+    "presentation_short_vi": "Nơi khai sinh nghề nuôi cấy ngọc trai, có bảo tàng và màn trình diễn của các nữ thợ lặn ama truyền thống.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.4813,136.8419",
+      "yandex": "https://yandex.com/maps/?pt=136.8419,34.4813&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "pearl"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-mie-nabana-no-sato",
+    "slug": "nabana-no-sato",
+    "region": "jp-mie",
+    "country": "japan",
+    "region_name_vi": "Mie",
+    "name_vi": "Công viên hoa Nabana no Sato",
+    "name_en": "Nabana no Sato",
+    "name_local": "なばなの里",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.0862,
+      "lon": 136.6431
+    },
+    "address_vi": "Komae, Nagashima, Kuwana",
+    "presentation_short_vi": "Công viên hoa quy mô lớn nổi tiếng với lễ hội đèn LED mùa đông thuộc loại lớn nhất Nhật Bản.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.0862,136.6431",
+      "yandex": "https://yandex.com/maps/?pt=136.6431,35.0862&z=16&l=map"
+    },
+    "tags": [
+      "flowers",
+      "illumination"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-mie-nagashima-spa-land",
+    "slug": "nagashima-spa-land",
+    "region": "jp-mie",
+    "country": "japan",
+    "region_name_vi": "Mie",
+    "name_vi": "Công viên giải trí Nagashima Spa Land",
+    "name_en": "Nagashima Spa Land",
+    "name_local": "ナガシマスパーランド",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 35.0288,
+      "lon": 136.7318
+    },
+    "address_vi": "333 Urayasu, Nagashima, Kuwana",
+    "presentation_short_vi": "Công viên giải trí lớn với hệ thống tàu lượn siêu tốc thuộc hàng đồ sộ nhất châu Á.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.0288,136.7318",
+      "yandex": "https://yandex.com/maps/?pt=136.7318,35.0288&z=16&l=map"
+    },
+    "tags": [
+      "family",
+      "theme-park"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-mie-iga-ueno-castle",
+    "slug": "iga-ueno-castle",
+    "region": "jp-mie",
+    "country": "japan",
+    "region_name_vi": "Mie",
+    "name_vi": "Lâu đài Iga Ueno",
+    "name_en": "Iga Ueno Castle",
+    "name_local": "伊賀上野城",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 34.7684,
+      "lon": 136.1287
+    },
+    "address_vi": "106 Uenomarunouchi, Iga",
+    "presentation_short_vi": "Toà thành nổi bật với bức tường đá cao vào loại nhất Nhật Bản, tại quê hương của ninja Iga.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.7684,136.1287",
+      "yandex": "https://yandex.com/maps/?pt=136.1287,34.7684&z=16&l=map"
+    },
+    "tags": [
+      "castle",
+      "ninja"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "jp-mie-iga-ninja-museum",
+    "slug": "iga-ninja-museum",
+    "region": "jp-mie",
+    "country": "japan",
+    "region_name_vi": "Mie",
+    "name_vi": "Bảo tàng Ninja Iga-ryu",
+    "name_en": "Ninja Museum of Igaryu",
+    "name_local": "伊賀流忍者博物館",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 34.7669,
+      "lon": 136.1263
+    },
+    "address_vi": "117 Uenomarunouchi, Iga",
+    "presentation_short_vi": "Bảo tàng về nghệ thuật ninja với ngôi nhà đầy cửa và lối đi bí mật cùng màn biểu diễn võ thuật hấp dẫn.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.7669,136.1263",
+      "yandex": "https://yandex.com/maps/?pt=136.1263,34.7669&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "ninja"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]

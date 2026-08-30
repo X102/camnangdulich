@@ -1,0 +1,195 @@
+[
+  {
+    "id": "th-kalasin-sirindhorn-museum",
+    "slug": "sirindhorn-museum",
+    "region": "th-kalasin",
+    "country": "thailand",
+    "region_name_vi": "Kalasin",
+    "name_vi": "Bảo tàng Sirindhorn (Phu Kum Khao)",
+    "name_en": "Sirindhorn Museum & Phu Kum Khao Dinosaur Site",
+    "name_local": "พิพิธภัณฑ์สิรินธร (ภูกุ้มข้าว)",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 16.69222,
+      "lon": 103.52389
+    },
+    "address_vi": "Huyện Sahatsakhan, tỉnh Kalasin",
+    "rating": null,
+    "presentation_short_vi": "Bảo tàng khủng long lớn nhất Thái Lan tại khu khai quật hoá thạch Phu Kum Khao, trưng bày bộ xương khủng long sauropod nguyên vị.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=103.52389,16.69222&z=17&pt=103.52389,16.69222",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.69222,103.52389"
+    },
+    "tags": [
+      "museum",
+      "dinosaur",
+      "fossil",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-kalasin-lam-pao-dam",
+    "slug": "lam-pao-dam",
+    "region": "th-kalasin",
+    "country": "thailand",
+    "region_name_vi": "Kalasin",
+    "name_vi": "Đập Lam Pao",
+    "name_en": "Lam Pao Dam",
+    "name_local": "เขื่อนลำปาว",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 16.6092,
+      "lon": 103.4164
+    },
+    "address_vi": "Huyện Mueang Kalasin, tỉnh Kalasin",
+    "rating": null,
+    "presentation_short_vi": "Đập và hồ chứa nước lớn của Kalasin, điểm nghỉ mát, chèo thuyền và thưởng thức ẩm thực ven hồ.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=103.4164,16.6092&z=17&pt=103.4164,16.6092",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.6092,103.4164"
+    },
+    "tags": [
+      "dam",
+      "reservoir",
+      "nature",
+      "recreation"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-kalasin-phu-faek",
+    "slug": "phu-faek",
+    "region": "th-kalasin",
+    "country": "thailand",
+    "region_name_vi": "Kalasin",
+    "name_vi": "Vườn rừng Phu Faek",
+    "name_en": "Phu Faek Forest Park",
+    "name_local": "วนอุทยานภูแฝก",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 16.68225,
+      "lon": 103.945861
+    },
+    "address_vi": "Huyện Na Khu, tỉnh Kalasin",
+    "rating": null,
+    "presentation_short_vi": "Vườn rừng núi Phu Faek nổi tiếng với dấu chân khủng long hoá thạch và cảnh quan thiên nhiên hoang sơ.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=103.945861,16.68225&z=17&pt=103.945861,16.68225",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.68225,103.945861"
+    },
+    "tags": [
+      "forest-park",
+      "dinosaur",
+      "footprint",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-kalasin-phra-that-yakhu",
+    "slug": "phra-that-yakhu",
+    "region": "th-kalasin",
+    "country": "thailand",
+    "region_name_vi": "Kalasin",
+    "name_vi": "Tháp Phra That Yakhu (Mueang Fa Daet)",
+    "name_en": "Phra That Yakhu (Mueang Fa Daet Song Yang)",
+    "name_local": "พระธาตุยาคู",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 16.315277,
+      "lon": 103.516388
+    },
+    "address_vi": "Huyện Kamalasai, tỉnh Kalasin",
+    "rating": null,
+    "presentation_short_vi": "Bảo tháp bát giác thời Dvaravati tại thành cổ Mueang Fa Daet Song Yang, biểu tượng khảo cổ của Kalasin.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=103.516388,16.315277&z=17&pt=103.516388,16.315277",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.315277,103.516388"
+    },
+    "tags": [
+      "dvaravati",
+      "stupa",
+      "ancient",
+      "archaeology"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-kalasin-wat-phutthanimit-phu-kao",
+    "slug": "wat-phutthanimit-phu-kao",
+    "region": "th-kalasin",
+    "country": "thailand",
+    "region_name_vi": "Kalasin",
+    "name_vi": "Chùa Wat Phutthanimit (Phu Kao)",
+    "name_en": "Wat Phutthanimit (Phu Kao)",
+    "name_local": "วัดพุทธนิมิต (ภูค่าว)",
+    "categories": [
+      "church",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 16.725167,
+      "lon": 103.568583
+    },
+    "address_vi": "Huyện Sahatsakhan, tỉnh Kalasin",
+    "rating": null,
+    "presentation_short_vi": "Chùa trên đồi Phu Kao ở Sahatsakhan, nổi tiếng với tượng Phật nằm bằng đá cổ (Phra Phuttha Saiyat Phu Kao).",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=103.568583,16.725167&z=17&pt=103.568583,16.725167",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.725167,103.568583"
+    },
+    "tags": [
+      "temple",
+      "reclining-buddha",
+      "hill",
+      "ancient"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "th-kalasin-wat-klang",
+    "slug": "wat-klang",
+    "region": "th-kalasin",
+    "country": "thailand",
+    "region_name_vi": "Kalasin",
+    "name_vi": "Chùa Wat Klang",
+    "name_en": "Wat Klang",
+    "name_local": "วัดกลาง",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 16.4353,
+      "lon": 103.5022
+    },
+    "address_vi": "TP. Kalasin, tỉnh Kalasin",
+    "rating": null,
+    "presentation_short_vi": "Ngôi chùa cổ ở trung tâm thành phố Kalasin, gắn với lịch sử hình thành tỉnh.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=103.5022,16.4353&z=17&pt=103.5022,16.4353",
+      "google": "https://www.google.com/maps/search/?api=1&query=16.4353,103.5022"
+    },
+    "tags": [
+      "temple",
+      "city",
+      "buddhist",
+      "heritage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-08-30"
+  }
+]
