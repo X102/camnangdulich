@@ -1,0 +1,20 @@
+{
+  "id": "/camnangdulich/",
+  "name": "Cẩm nang Du lịch (nội bộ) — Phạm Đăng Hiển",
+  "short_name": "Cẩm nang Nội bộ",
+  "description": "Bản đồ, danh sách & bài thuyết minh chi tiết cho hướng dẫn viên — dùng được cả khi mất mạng.",
+  "lang": "vi",
+  "dir": "ltr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f7f4ec",
+  "theme_color": "#16293f",
+  "categories": ["travel", "navigation", "maps"],
+  "icons": [
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
