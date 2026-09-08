@@ -27,6 +27,7 @@ COUNTRY_NAMES = {
     "kazakhstan": "Kazakhstan", "uzbekistan": "Uzbekistan", "myanmar": "Myanmar",
     "malaysia": "Malaysia", "singapore": "Singapore", "philippines": "Philippines",
     "brunei": "Brunei", "timor-leste": "Đông Timor",
+    "usa": "Mỹ", "canada": "Canada", "france": "Pháp", "germany": "Đức", "uk": "Anh", "italy": "Ý", "spain": "Tây Ban Nha", "netherlands": "Hà Lan", "belgium": "Bỉ", "switzerland": "Thụy Sĩ", "austria": "Áo", "portugal": "Bồ Đào Nha", "greece": "Hy Lạp", "czech": "Séc", "poland": "Ba Lan", "hungary": "Hungary", "sweden": "Thụy Điển", "norway": "Na Uy", "denmark": "Đan Mạch", "finland": "Phần Lan", "ireland": "Ireland", "croatia": "Croatia",
 }
 
 # Quét thư mục tài liệu nội bộ MỘT LẦN (nhanh hơn os.path.exists từng điểm).
