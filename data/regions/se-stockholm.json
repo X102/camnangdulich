@@ -1,0 +1,415 @@
+[
+  {
+    "id": "se-stockholm-gamla-stan",
+    "slug": "gamla-stan",
+    "region": "se-stockholm",
+    "country": "sweden",
+    "region_name_vi": "Stockholm",
+    "name_vi": "Phố cổ Gamla Stan",
+    "name_en": "Gamla Stan (Old Town)",
+    "name_local": "Gamla stan",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 59.3251,
+      "lon": 18.0711
+    },
+    "address_vi": "Đảo Stadsholmen, trung tâm Stockholm",
+    "presentation_short_vi": "Khu phố cổ thời trung cổ hình thành từ thế kỷ 13, với những con hẻm đá cuội, nhà cổ màu vàng son và quảng trường Stortorget — trái tim lịch sử của Stockholm.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=59.3251,18.0711",
+      "yandex": "https://yandex.com/maps/?pt=18.0711,59.3251&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "old-town",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "se-stockholm-cung-dien-hoang-gia",
+    "slug": "cung-dien-hoang-gia",
+    "region": "se-stockholm",
+    "country": "sweden",
+    "region_name_vi": "Stockholm",
+    "name_vi": "Cung điện Hoàng gia Stockholm",
+    "name_en": "Stockholm Royal Palace",
+    "name_local": "Kungliga slottet",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 59.3268,
+      "lon": 18.0717
+    },
+    "address_vi": "Slottsbacken 1, Gamla stan, Stockholm",
+    "presentation_short_vi": "Nơi ở chính thức của Nhà vua Thụy Điển, cung điện Baroque hơn 600 phòng xây thế kỷ 18, nổi tiếng với lễ đổi gác và các bảo tàng hoàng gia bên trong.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=59.3268,18.0717",
+      "yandex": "https://yandex.com/maps/?pt=18.0717,59.3268&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "palace",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "se-stockholm-bao-tang-vasa",
+    "slug": "bao-tang-vasa",
+    "region": "se-stockholm",
+    "country": "sweden",
+    "region_name_vi": "Stockholm",
+    "name_vi": "Bảo tàng Vasa",
+    "name_en": "Vasa Museum",
+    "name_local": "Vasamuseet",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 59.328,
+      "lon": 18.0916
+    },
+    "address_vi": "Galärvarvsvägen 14, Djurgården, Stockholm",
+    "presentation_short_vi": "Bảo tàng hàng hải trưng bày chiến thuyền Vasa nguyên vẹn thế kỷ 17 được trục vớt từ đáy biển, hiện vật bảo tồn nổi tiếng và được viếng thăm nhiều nhất Bắc Âu.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=59.328,18.0916",
+      "yandex": "https://yandex.com/maps/?pt=18.0916,59.328&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "museum",
+      "maritime",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "se-stockholm-nha-tho-lon-stockholm",
+    "slug": "nha-tho-lon-stockholm",
+    "region": "se-stockholm",
+    "country": "sweden",
+    "region_name_vi": "Stockholm",
+    "name_vi": "Nhà thờ lớn Stockholm",
+    "name_en": "Stockholm Cathedral",
+    "name_local": "Storkyrkan",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 59.3256,
+      "lon": 18.0706
+    },
+    "address_vi": "Trångsund 1, Gamla stan, Stockholm",
+    "presentation_short_vi": "Nhà thờ cổ nhất Gamla Stan khởi dựng thế kỷ 13, nơi cử hành lễ đăng quang và hôn lễ hoàng gia, lưu giữ tượng gỗ Thánh George và Rồng nổi tiếng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=59.3256,18.0706",
+      "yandex": "https://yandex.com/maps/?pt=18.0706,59.3256&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "se-stockholm-toa-thi-chinh",
+    "slug": "toa-thi-chinh",
+    "region": "se-stockholm",
+    "country": "sweden",
+    "region_name_vi": "Stockholm",
+    "name_vi": "Tòa thị chính Stockholm",
+    "name_en": "Stockholm City Hall",
+    "name_local": "Stadshuset",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 59.3275,
+      "lon": 18.0546
+    },
+    "address_vi": "Hantverkargatan 1, Kungsholmen, Stockholm",
+    "presentation_short_vi": "Công trình gạch đỏ biểu tượng bên bờ nước hoàn thành năm 1923, nơi tổ chức tiệc chiêu đãi Giải Nobel hằng năm trong Đại sảnh Xanh và Đại sảnh Vàng dát vàng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=59.3275,18.0546",
+      "yandex": "https://yandex.com/maps/?pt=18.0546,59.3275&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "nobel",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "se-stockholm-skansen",
+    "slug": "skansen",
+    "region": "se-stockholm",
+    "country": "sweden",
+    "region_name_vi": "Stockholm",
+    "name_vi": "Bảo tàng ngoài trời Skansen",
+    "name_en": "Skansen Open-Air Museum",
+    "name_local": "Skansen",
+    "categories": [
+      "museum",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 59.3268,
+      "lon": 18.1035
+    },
+    "address_vi": "Djurgårdsslätten 49-51, Djurgården, Stockholm",
+    "presentation_short_vi": "Bảo tàng ngoài trời đầu tiên trên thế giới (1891), tái hiện làng quê Thụy Điển xưa với nhà cổ, thợ thủ công và vườn thú bản địa trên đảo Djurgården.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=59.3268,18.1035",
+      "yandex": "https://yandex.com/maps/?pt=18.1035,59.3268&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "open-air",
+      "family",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "se-stockholm-abba-museum",
+    "slug": "abba-museum",
+    "region": "se-stockholm",
+    "country": "sweden",
+    "region_name_vi": "Stockholm",
+    "name_vi": "Bảo tàng ABBA",
+    "name_en": "ABBA The Museum",
+    "name_local": "ABBA The Museum",
+    "categories": [
+      "museum",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 59.3238,
+      "lon": 18.0972
+    },
+    "address_vi": "Djurgårdsvägen 68, Djurgården, Stockholm",
+    "presentation_short_vi": "Bảo tàng tương tác hiện đại dành cho ban nhạc huyền thoại ABBA, trưng bày trang phục, nhạc cụ và trải nghiệm trình diễn ảo cho du khách.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=59.3238,18.0972",
+      "yandex": "https://yandex.com/maps/?pt=18.0972,59.3238&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "museum",
+      "music",
+      "interactive"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "se-stockholm-fotografiska",
+    "slug": "fotografiska",
+    "region": "se-stockholm",
+    "country": "sweden",
+    "region_name_vi": "Stockholm",
+    "name_vi": "Bảo tàng Nhiếp ảnh Fotografiska",
+    "name_en": "Fotografiska",
+    "name_local": "Fotografiska",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 59.3178,
+      "lon": 18.0847
+    },
+    "address_vi": "Stadsgårdshamnen 22, Södermalm, Stockholm",
+    "presentation_short_vi": "Trung tâm nhiếp ảnh đương đại hàng đầu thế giới trong tòa nhà công nghiệp cũ, nổi tiếng với các triển lãm quốc tế và quán cà phê tầng thượng nhìn ra vịnh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=59.3178,18.0847",
+      "yandex": "https://yandex.com/maps/?pt=18.0847,59.3178&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "museum",
+      "photography",
+      "art"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "se-stockholm-nha-tho-riddarholmen",
+    "slug": "nha-tho-riddarholmen",
+    "region": "se-stockholm",
+    "country": "sweden",
+    "region_name_vi": "Stockholm",
+    "name_vi": "Nhà thờ Riddarholmen",
+    "name_en": "Riddarholmen Church",
+    "name_local": "Riddarholmskyrkan",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 59.3247,
+      "lon": 18.0644
+    },
+    "address_vi": "Riddarholmen, Stockholm",
+    "presentation_short_vi": "Nhà thờ dòng Phanxicô thế kỷ 13 với tháp gang đặc trưng, là nơi an nghỉ của hầu hết các vị vua và hoàng hậu Thụy Điển suốt nhiều thế kỷ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=59.3247,18.0644",
+      "yandex": "https://yandex.com/maps/?pt=18.0644,59.3247&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "history",
+      "royal-tomb"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "se-stockholm-cung-dien-drottningholm",
+    "slug": "cung-dien-drottningholm",
+    "region": "se-stockholm",
+    "country": "sweden",
+    "region_name_vi": "Stockholm",
+    "name_vi": "Cung điện Drottningholm",
+    "name_en": "Drottningholm Palace",
+    "name_local": "Drottningholms slott",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 59.3216,
+      "lon": 17.8866
+    },
+    "address_vi": "Đảo Lovön, Ekerö, ngoại ô Stockholm",
+    "presentation_short_vi": "Nơi ở của Hoàng gia Thụy Điển, cung điện thế kỷ 17 theo phong cách Pháp cùng nhà hát cổ và vườn Baroque được UNESCO công nhận Di sản Thế giới.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=59.3216,17.8866",
+      "yandex": "https://yandex.com/maps/?pt=17.8866,59.3216&z=16&l=map"
+    },
+    "tags": [
+      "palace",
+      "unesco",
+      "garden",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "se-stockholm-dao-djurgarden",
+    "slug": "dao-djurgarden",
+    "region": "se-stockholm",
+    "country": "sweden",
+    "region_name_vi": "Stockholm",
+    "name_vi": "Đảo công viên Djurgården",
+    "name_en": "Djurgården Island",
+    "name_local": "Djurgården",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 59.3247,
+      "lon": 18.1156
+    },
+    "address_vi": "Đảo Djurgården, Stockholm",
+    "presentation_short_vi": "Hòn đảo xanh giữa lòng Stockholm với rừng cây, lối đi ven nước và nhiều bảo tàng, công viên — điểm dạo bộ và dã ngoại quen thuộc của người dân thủ đô.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=59.3247,18.1156",
+      "yandex": "https://yandex.com/maps/?pt=18.1156,59.3247&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "nature",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "se-stockholm-bao-tang-bac-au",
+    "slug": "bao-tang-bac-au",
+    "region": "se-stockholm",
+    "country": "sweden",
+    "region_name_vi": "Stockholm",
+    "name_vi": "Bảo tàng Bắc Âu",
+    "name_en": "Nordic Museum",
+    "name_local": "Nordiska museet",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 59.3283,
+      "lon": 18.1044
+    },
+    "address_vi": "Djurgårdsvägen 6-16, Djurgården, Stockholm",
+    "presentation_short_vi": "Bảo tàng văn hóa và đời sống Thụy Điển từ thế kỷ 16 đến nay, đặt trong tòa nhà tân Phục hưng tráng lệ với sảnh chính khổng lồ và tượng vua Gustav Vasa.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=59.3283,18.1044",
+      "yandex": "https://yandex.com/maps/?pt=18.1044,59.3283&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "culture",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "se-stockholm-avicii-arena",
+    "slug": "avicii-arena",
+    "region": "se-stockholm",
+    "country": "sweden",
+    "region_name_vi": "Stockholm",
+    "name_vi": "Nhà thi đấu Avicii Arena (Globen)",
+    "name_en": "Avicii Arena (Ericsson Globe)",
+    "name_local": "Avicii Arena",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 59.2934,
+      "lon": 18.0836
+    },
+    "address_vi": "Globentorget 2, Johanneshov, Stockholm",
+    "presentation_short_vi": "Công trình hình cầu lớn nhất thế giới, nhà thi đấu đa năng có cabin kính SkyView chạy dọc mái vòm đưa du khách lên đỉnh ngắm toàn cảnh thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=59.2934,18.0836",
+      "yandex": "https://yandex.com/maps/?pt=18.0836,59.2934&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "arena",
+      "viewpoint",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  }
+]

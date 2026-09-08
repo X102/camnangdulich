@@ -1,0 +1,438 @@
+[
+  {
+    "id": "gr-athens-ve-thanh-acropolis",
+    "slug": "ve-thanh-acropolis",
+    "region": "gr-athens",
+    "country": "greece",
+    "region_name_vi": "Athína",
+    "name_vi": "Vệ thành Acropolis",
+    "name_en": "Acropolis of Athens",
+    "name_local": "Ακρόπολη Αθηνών",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 37.9715,
+      "lon": 23.7257
+    },
+    "address_vi": "Athens 105 58, Hy Lạp",
+    "presentation_short_vi": "Vệ thành cổ đại trên đồi đá vôi giữa lòng Athens, quần thể di tích Hy Lạp cổ điển vĩ đại nhất và là Di sản Thế giới UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.9715,23.7257",
+      "yandex": "https://yandex.com/maps/?pt=23.7257,37.9715&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "landmark",
+      "iconic",
+      "unesco"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gr-athens-den-parthenon",
+    "slug": "den-parthenon",
+    "region": "gr-athens",
+    "country": "greece",
+    "region_name_vi": "Athína",
+    "name_vi": "Đền Parthenon",
+    "name_en": "Parthenon",
+    "name_local": "Παρθενώνας",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 37.9715,
+      "lon": 23.7267
+    },
+    "address_vi": "Athens 105 58, Hy Lạp",
+    "presentation_short_vi": "Ngôi đền Doric thờ nữ thần Athena trên đỉnh Acropolis, kiệt tác kiến trúc Hy Lạp cổ đại và biểu tượng của nền văn minh phương Tây.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.9715,23.7267",
+      "yandex": "https://yandex.com/maps/?pt=23.7267,37.9715&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "landmark",
+      "iconic",
+      "temple"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gr-athens-den-erechtheion",
+    "slug": "den-erechtheion",
+    "region": "gr-athens",
+    "country": "greece",
+    "region_name_vi": "Athína",
+    "name_vi": "Đền Erechtheion",
+    "name_en": "Erechtheion",
+    "name_local": "Ερέχθειο",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 37.972,
+      "lon": 23.7258
+    },
+    "address_vi": "Athens 105 58, Hy Lạp",
+    "presentation_short_vi": "Ngôi đền Ionic trên Acropolis nổi tiếng với hàng hiên Caryatid gồm sáu tượng thiếu nữ đá thay cho cột chống.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.972,23.7258",
+      "yandex": "https://yandex.com/maps/?pt=23.7258,37.972&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "temple",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gr-athens-nha-hat-odeon-herodes-atticus",
+    "slug": "nha-hat-odeon-herodes-atticus",
+    "region": "gr-athens",
+    "country": "greece",
+    "region_name_vi": "Athína",
+    "name_vi": "Nhà hát Odeon Herodes Atticus",
+    "name_en": "Odeon of Herodes Atticus",
+    "name_local": "Ωδείο Ηρώδου του Αττικού",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 37.9708,
+      "lon": 23.7247
+    },
+    "address_vi": "Dionysiou Areopagitou, Athens 117 42, Hy Lạp",
+    "presentation_short_vi": "Nhà hát đá La Mã cổ dưới chân Acropolis xây năm 161, ngày nay vẫn tổ chức hoà nhạc và biểu diễn trong Liên hoan Athens.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.9708,23.7247",
+      "yandex": "https://yandex.com/maps/?pt=23.7247,37.9708&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "theatre",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gr-athens-bao-tang-acropolis",
+    "slug": "bao-tang-acropolis",
+    "region": "gr-athens",
+    "country": "greece",
+    "region_name_vi": "Athína",
+    "name_vi": "Bảo tàng Acropolis",
+    "name_en": "Acropolis Museum",
+    "name_local": "Μουσείο Ακρόπολης",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 37.9683,
+      "lon": 23.7286
+    },
+    "address_vi": "Dionysiou Areopagitou 15, Athens 117 42, Hy Lạp",
+    "presentation_short_vi": "Bảo tàng hiện đại bằng kính và bê tông trưng bày cổ vật khai quật từ Acropolis, do kiến trúc sư Bernard Tschumi thiết kế.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.9683,23.7286",
+      "yandex": "https://yandex.com/maps/?pt=23.7286,37.9683&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "modern",
+      "art"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gr-athens-den-than-zeus-olympia",
+    "slug": "den-than-zeus-olympia",
+    "region": "gr-athens",
+    "country": "greece",
+    "region_name_vi": "Athína",
+    "name_vi": "Đền thần Zeus Olympia",
+    "name_en": "Temple of Olympian Zeus",
+    "name_local": "Ναός του Ολυμπίου Διός",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 37.9692,
+      "lon": 23.7332
+    },
+    "address_vi": "Athens 105 57, Hy Lạp",
+    "presentation_short_vi": "Tàn tích ngôi đền khổng lồ thờ thần Zeus, từng là đền lớn nhất Hy Lạp với những cột đá Corinth cao 17 m còn sót lại.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.9692,23.7332",
+      "yandex": "https://yandex.com/maps/?pt=23.7332,37.9692&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "temple",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gr-athens-san-van-dong-panathenaic",
+    "slug": "san-van-dong-panathenaic",
+    "region": "gr-athens",
+    "country": "greece",
+    "region_name_vi": "Athína",
+    "name_vi": "Sân vận động Panathenaic",
+    "name_en": "Panathenaic Stadium",
+    "name_local": "Παναθηναϊκό Στάδιο",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 37.9683,
+      "lon": 23.7408
+    },
+    "address_vi": "Vasileos Konstantinou Ave, Athens 116 35, Hy Lạp",
+    "presentation_short_vi": "Sân vận động hoàn toàn bằng đá cẩm thạch trắng, nơi tổ chức Thế vận hội Olympic hiện đại đầu tiên năm 1896.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.9683,23.7408",
+      "yandex": "https://yandex.com/maps/?pt=23.7408,37.9683&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "stadium",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gr-athens-quang-truong-agora-co-dai",
+    "slug": "quang-truong-agora-co-dai",
+    "region": "gr-athens",
+    "country": "greece",
+    "region_name_vi": "Athína",
+    "name_vi": "Quảng trường Agora Cổ đại",
+    "name_en": "Ancient Agora of Athens",
+    "name_local": "Αρχαία Αγορά Αθηνών",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 37.9749,
+      "lon": 23.7225
+    },
+    "address_vi": "Adrianou 24, Athens 105 55, Hy Lạp",
+    "presentation_short_vi": "Khu quảng trường và chợ cổ, trung tâm chính trị và xã hội của Athens cổ đại, nơi Socrates từng đàm luận và giảng dạy.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.9749,23.7225",
+      "yandex": "https://yandex.com/maps/?pt=23.7225,37.9749&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "historic",
+      "archaeology"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gr-athens-den-hephaestus",
+    "slug": "den-hephaestus",
+    "region": "gr-athens",
+    "country": "greece",
+    "region_name_vi": "Athína",
+    "name_vi": "Đền Hephaestus",
+    "name_en": "Temple of Hephaestus",
+    "name_local": "Ναός Ηφαίστου",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 37.9757,
+      "lon": 23.7216
+    },
+    "address_vi": "Adrianou 24, Athens 105 55, Hy Lạp",
+    "presentation_short_vi": "Ngôi đền Doric được bảo tồn nguyên vẹn nhất Hy Lạp, nằm ở rìa Agora Cổ đại và thờ thần thợ rèn Hephaestus.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.9757,23.7216",
+      "yandex": "https://yandex.com/maps/?pt=23.7216,37.9757&z=16&l=map"
+    },
+    "tags": [
+      "temple",
+      "historic",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gr-athens-khu-pho-co-plaka",
+    "slug": "khu-pho-co-plaka",
+    "region": "gr-athens",
+    "country": "greece",
+    "region_name_vi": "Athína",
+    "name_vi": "Khu phố cổ Plaka",
+    "name_en": "Plaka",
+    "name_local": "Πλάκα",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 37.9725,
+      "lon": 23.73
+    },
+    "address_vi": "Plaka, Athens, Hy Lạp",
+    "presentation_short_vi": "Khu phố cổ nhất Athens dưới chân Acropolis với những con hẻm lát đá, nhà tân cổ điển, quán ăn và cửa hàng lưu niệm.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.9725,23.73",
+      "yandex": "https://yandex.com/maps/?pt=23.73,37.9725&z=16&l=map"
+    },
+    "tags": [
+      "oldtown",
+      "shopping",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gr-athens-quang-truong-syntagma",
+    "slug": "quang-truong-syntagma",
+    "region": "gr-athens",
+    "country": "greece",
+    "region_name_vi": "Athína",
+    "name_vi": "Quảng trường Syntagma",
+    "name_en": "Syntagma Square",
+    "name_local": "Πλατεία Συντάγματος",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 37.9755,
+      "lon": 23.7348
+    },
+    "address_vi": "Plateia Syntagmatos, Athens 105 63, Hy Lạp",
+    "presentation_short_vi": "Quảng trường trung tâm của Athens trước toà nhà Quốc hội, nơi diễn ra lễ đổi gác của lính Evzone trong trang phục truyền thống.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.9755,23.7348",
+      "yandex": "https://yandex.com/maps/?pt=23.7348,37.9755&z=16&l=map"
+    },
+    "tags": [
+      "square",
+      "central",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gr-athens-toa-nha-quoc-hoi-hy-lap",
+    "slug": "toa-nha-quoc-hoi-hy-lap",
+    "region": "gr-athens",
+    "country": "greece",
+    "region_name_vi": "Athína",
+    "name_vi": "Toà nhà Quốc hội Hy Lạp",
+    "name_en": "Hellenic Parliament",
+    "name_local": "Βουλή των Ελλήνων",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 37.9755,
+      "lon": 23.7366
+    },
+    "address_vi": "Plateia Syntagmatos, Athens 100 21, Hy Lạp",
+    "presentation_short_vi": "Cung điện hoàng gia tân cổ điển cũ nay là trụ sở Quốc hội, phía trước có Mộ Chiến sĩ Vô danh và lính gác Evzone.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.9755,23.7366",
+      "yandex": "https://yandex.com/maps/?pt=23.7366,37.9755&z=16&l=map"
+    },
+    "tags": [
+      "palace",
+      "landmark",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gr-athens-doi-lycabettus",
+    "slug": "doi-lycabettus",
+    "region": "gr-athens",
+    "country": "greece",
+    "region_name_vi": "Athína",
+    "name_vi": "Đồi Lycabettus",
+    "name_en": "Mount Lycabettus",
+    "name_local": "Λόφος Λυκαβηττού",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 37.9707,
+      "lon": 23.7434
+    },
+    "address_vi": "Lycabettus Hill, Athens, Hy Lạp",
+    "presentation_short_vi": "Ngọn đồi cao nhất Athens (277 m) với nhà nguyện nhỏ trên đỉnh, điểm ngắm toàn cảnh thành phố và biển Aegean tuyệt đẹp.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.9707,23.7434",
+      "yandex": "https://yandex.com/maps/?pt=23.7434,37.9707&z=16&l=map"
+    },
+    "tags": [
+      "viewpoint",
+      "scenic",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gr-athens-bao-tang-khao-co-hoc-quoc-gia",
+    "slug": "bao-tang-khao-co-hoc-quoc-gia",
+    "region": "gr-athens",
+    "country": "greece",
+    "region_name_vi": "Athína",
+    "name_vi": "Bảo tàng Khảo cổ học Quốc gia",
+    "name_en": "National Archaeological Museum",
+    "name_local": "Εθνικό Αρχαιολογικό Μουσείο",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 37.9891,
+      "lon": 23.7326
+    },
+    "address_vi": "28is Oktovriou 44, Athens 106 82, Hy Lạp",
+    "presentation_short_vi": "Bảo tàng khảo cổ lớn nhất Hy Lạp, lưu giữ bộ sưu tập cổ vật đồ sộ như Mặt nạ Agamemnon và tượng thần biển bằng đồng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.9891,23.7326",
+      "yandex": "https://yandex.com/maps/?pt=23.7326,37.9891&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "art",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

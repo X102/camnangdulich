@@ -1,0 +1,421 @@
+[
+  {
+    "id": "fr-normandy-mont-saint-michel",
+    "slug": "mont-saint-michel",
+    "region": "fr-normandy",
+    "country": "france",
+    "region_name_vi": "Normandie",
+    "name_vi": "Tu viện Mont-Saint-Michel",
+    "name_en": "Mont-Saint-Michel Abbey",
+    "name_local": "Abbaye du Mont-Saint-Michel",
+    "categories": [
+      "church",
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 48.6361,
+      "lon": -1.5115
+    },
+    "address_vi": "Le Mont-Saint-Michel, Manche",
+    "presentation_short_vi": "Tu viện Gothic trên đảo đá giữa vịnh thủy triều, một trong những địa danh biểu tượng nhất nước Pháp; Di sản Thế giới UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.6361,-1.5115",
+      "yandex": "https://yandex.com/maps/?pt=-1.5115,48.6361&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "unesco",
+      "church",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fr-normandy-rouen-cathedral",
+    "slug": "rouen-cathedral",
+    "region": "fr-normandy",
+    "country": "france",
+    "region_name_vi": "Normandie",
+    "name_vi": "Nhà thờ chính tòa Rouen",
+    "name_en": "Rouen Cathedral",
+    "name_local": "Cathédrale Notre-Dame de Rouen",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 49.44,
+      "lon": 1.0944
+    },
+    "address_vi": "Place de la Cathédrale, Rouen",
+    "presentation_short_vi": "Nhà thờ Gothic với mặt tiền được Claude Monet vẽ thành loạt tranh; từng là công trình cao nhất thế giới (1876–1880).",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=49.44,1.0944",
+      "yandex": "https://yandex.com/maps/?pt=1.0944,49.44&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "church",
+      "gothic",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fr-normandy-bayeux-cathedral",
+    "slug": "bayeux-cathedral",
+    "region": "fr-normandy",
+    "country": "france",
+    "region_name_vi": "Normandie",
+    "name_vi": "Nhà thờ chính tòa Bayeux",
+    "name_en": "Bayeux Cathedral",
+    "name_local": "Cathédrale Notre-Dame de Bayeux",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 49.2764,
+      "lon": -0.7025
+    },
+    "address_vi": "Rue du Bienvenu, Bayeux",
+    "presentation_short_vi": "Nhà thờ Norman–Gothic thế kỷ 11–13, nơi từng là mái nhà của Thảm thêu Bayeux nổi tiếng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=49.2764,-0.7025",
+      "yandex": "https://yandex.com/maps/?pt=-0.7025,49.2764&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "gothic",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fr-normandy-chateau-de-caen",
+    "slug": "chateau-de-caen",
+    "region": "fr-normandy",
+    "country": "france",
+    "region_name_vi": "Normandie",
+    "name_vi": "Lâu đài Caen",
+    "name_en": "Caen Castle",
+    "name_local": "Château de Caen",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 49.1858,
+      "lon": -0.3628
+    },
+    "address_vi": "Le Château, Caen",
+    "presentation_short_vi": "Một trong những pháo đài trung cổ lớn nhất châu Âu, do William Nhà Chinh phục cho xây khoảng năm 1060.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=49.1858,-0.3628",
+      "yandex": "https://yandex.com/maps/?pt=-0.3628,49.1858&z=16&l=map"
+    },
+    "tags": [
+      "fortress",
+      "castle",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fr-normandy-normandy-american-cemetery",
+    "slug": "normandy-american-cemetery",
+    "region": "fr-normandy",
+    "country": "france",
+    "region_name_vi": "Normandie",
+    "name_vi": "Nghĩa trang & Đài tưởng niệm Lính Mỹ Normandy",
+    "name_en": "Normandy American Cemetery and Memorial",
+    "name_local": "Cimetière américain de Colleville-sur-Mer",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 49.3591,
+      "lon": -0.8555
+    },
+    "address_vi": "Colleville-sur-Mer, Calvados",
+    "presentation_short_vi": "Nghĩa trang tưởng niệm hơn 9.000 lính Mỹ hy sinh trong cuộc đổ bộ D-Day, nhìn ra bãi biển Omaha.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=49.3591,-0.8555",
+      "yandex": "https://yandex.com/maps/?pt=-0.8555,49.3591&z=16&l=map"
+    },
+    "tags": [
+      "monument",
+      "wwii",
+      "memorial",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fr-normandy-pointe-du-hoc",
+    "slug": "pointe-du-hoc",
+    "region": "fr-normandy",
+    "country": "france",
+    "region_name_vi": "Normandie",
+    "name_vi": "Pointe du Hoc",
+    "name_en": "Pointe du Hoc",
+    "name_local": "Pointe du Hoc",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 49.3958,
+      "lon": -0.9894
+    },
+    "address_vi": "Cricqueville-en-Bessin, Calvados",
+    "presentation_short_vi": "Mỏm đá cao 30 m giữa hai bãi đổ bộ Utah và Omaha, chiến trường D-Day nổi tiếng nay còn hố bom và lô cốt.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=49.3958,-0.9894",
+      "yandex": "https://yandex.com/maps/?pt=-0.9894,49.3958&z=16&l=map"
+    },
+    "tags": [
+      "monument",
+      "wwii",
+      "cliff",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fr-normandy-memorial-de-caen",
+    "slug": "memorial-de-caen",
+    "region": "fr-normandy",
+    "country": "france",
+    "region_name_vi": "Normandie",
+    "name_vi": "Bảo tàng Mémorial de Caen",
+    "name_en": "Caen Memorial Museum",
+    "name_local": "Mémorial de Caen",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 49.1986,
+      "lon": -0.3819
+    },
+    "address_vi": "Esplanade Général Eisenhower, Caen",
+    "presentation_short_vi": "Bảo tàng lớn về Thế chiến II, cuộc đổ bộ Normandy và thời Chiến tranh Lạnh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=49.1986,-0.3819",
+      "yandex": "https://yandex.com/maps/?pt=-0.3819,49.1986&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "wwii",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fr-normandy-etretat-cliffs",
+    "slug": "etretat-cliffs",
+    "region": "fr-normandy",
+    "country": "france",
+    "region_name_vi": "Normandie",
+    "name_vi": "Vách đá Étretat",
+    "name_en": "Cliffs of Étretat",
+    "name_local": "Falaises d'Étretat",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 49.7072,
+      "lon": 0.2044
+    },
+    "address_vi": "Étretat, Seine-Maritime",
+    "presentation_short_vi": "Những vách đá phấn trắng với vòm đá tự nhiên và mũi kim đá, nguồn cảm hứng cho nhiều họa sĩ Ấn tượng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=49.7072,0.2044",
+      "yandex": "https://yandex.com/maps/?pt=0.2044,49.7072&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "park_garden",
+      "nature",
+      "coast",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fr-normandy-giverny-monet-garden",
+    "slug": "giverny-monet-garden",
+    "region": "fr-normandy",
+    "country": "france",
+    "region_name_vi": "Normandie",
+    "name_vi": "Nhà và vườn Claude Monet ở Giverny",
+    "name_en": "Claude Monet's House and Gardens",
+    "name_local": "Maison et jardins de Claude Monet",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 49.0758,
+      "lon": 1.5339
+    },
+    "address_vi": "Rue Claude Monet, Giverny",
+    "presentation_short_vi": "Ngôi nhà và khu vườn hoa súng của danh họa Claude Monet, nơi ra đời loạt tranh 'Nymphéas'.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=49.0758,1.5339",
+      "yandex": "https://yandex.com/maps/?pt=1.5339,49.0758&z=16&l=map"
+    },
+    "tags": [
+      "park_garden",
+      "garden",
+      "art",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fr-normandy-honfleur-vieux-bassin",
+    "slug": "honfleur-vieux-bassin",
+    "region": "fr-normandy",
+    "country": "france",
+    "region_name_vi": "Normandie",
+    "name_vi": "Cảng cổ Honfleur (Vieux Bassin)",
+    "name_en": "Old Harbour of Honfleur",
+    "name_local": "Vieux Bassin de Honfleur",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 49.4186,
+      "lon": 0.2339
+    },
+    "address_vi": "Quai Sainte-Catherine, Honfleur",
+    "presentation_short_vi": "Bến cảng cổ với dãy nhà cao hẹp nhiều màu soi bóng nước, đề tài quen thuộc của trường phái Ấn tượng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=49.4186,0.2339",
+      "yandex": "https://yandex.com/maps/?pt=0.2339,49.4186&z=16&l=map"
+    },
+    "tags": [
+      "square_street",
+      "oldtown",
+      "scenic",
+      "harbor"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fr-normandy-pont-de-normandie",
+    "slug": "pont-de-normandie",
+    "region": "fr-normandy",
+    "country": "france",
+    "region_name_vi": "Normandie",
+    "name_vi": "Cầu Normandie",
+    "name_en": "Normandy Bridge",
+    "name_local": "Pont de Normandie",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 49.4333,
+      "lon": 0.2747
+    },
+    "address_vi": "Bắc qua cửa sông Seine, giữa Le Havre và Honfleur",
+    "presentation_short_vi": "Cầu dây văng dài 2.143 m bắc qua cửa sông Seine, từng là cầu dây văng dài nhất thế giới khi khánh thành năm 1995.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=49.4333,0.2747",
+      "yandex": "https://yandex.com/maps/?pt=0.2747,49.4333&z=16&l=map"
+    },
+    "tags": [
+      "bridge",
+      "modern",
+      "engineering",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fr-normandy-gros-horloge",
+    "slug": "gros-horloge",
+    "region": "fr-normandy",
+    "country": "france",
+    "region_name_vi": "Normandie",
+    "name_vi": "Đồng hồ lớn Gros-Horloge",
+    "name_en": "Gros-Horloge (Great Clock)",
+    "name_local": "Gros-Horloge",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 49.4431,
+      "lon": 1.092
+    },
+    "address_vi": "Rue du Gros-Horloge, Rouen",
+    "presentation_short_vi": "Đồng hồ thiên văn thế kỷ 14 gắn trên cổng vòm Phục Hưng, biểu tượng của phố cổ Rouen.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=49.4431,1.092",
+      "yandex": "https://yandex.com/maps/?pt=1.092,49.4431&z=16&l=map"
+    },
+    "tags": [
+      "monument",
+      "history",
+      "oldtown",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fr-normandy-bayeux-tapestry-museum",
+    "slug": "bayeux-tapestry-museum",
+    "region": "fr-normandy",
+    "country": "france",
+    "region_name_vi": "Normandie",
+    "name_vi": "Bảo tàng Thảm thêu Bayeux",
+    "name_en": "Bayeux Tapestry Museum",
+    "name_local": "Musée de la Tapisserie de Bayeux",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 49.2758,
+      "lon": -0.7047
+    },
+    "address_vi": "Rue de Nesmond, Bayeux",
+    "presentation_short_vi": "Nơi trưng bày tấm thảm thêu dài 70 m thế kỷ 11 kể chuyện chinh phục nước Anh năm 1066; Ký ức Thế giới UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=49.2758,-0.7047",
+      "yandex": "https://yandex.com/maps/?pt=-0.7047,49.2758&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "unesco",
+      "history",
+      "art"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

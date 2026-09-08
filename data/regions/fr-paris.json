@@ -1,0 +1,383 @@
+[
+  {
+    "id": "fr-paris-thap-eiffel",
+    "slug": "thap-eiffel",
+    "region": "fr-paris",
+    "country": "france",
+    "region_name_vi": "Paris",
+    "name_vi": "Tháp Eiffel",
+    "name_en": "Eiffel Tower",
+    "name_local": "Tour Eiffel",
+    "categories": [
+      "monument",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 48.8584,
+      "lon": 2.2945
+    },
+    "address_vi": "Champ de Mars, số 5 Đại lộ Anatole France, Quận 7, Paris",
+    "presentation_short_vi": "Ngọn tháp sắt cao 330 m do Gustave Eiffel dựng năm 1889, biểu tượng bất hủ của Paris và nước Pháp, có các đài quan sát nhìn toàn cảnh thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.8584,2.2945",
+      "yandex": "https://yandex.com/maps/?pt=2.2945,48.8584&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "landmark",
+      "iconic",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "fr-paris-bao-tang-louvre",
+    "slug": "bao-tang-louvre",
+    "region": "fr-paris",
+    "country": "france",
+    "region_name_vi": "Paris",
+    "name_vi": "Bảo tàng Louvre",
+    "name_en": "Louvre Museum",
+    "name_local": "Musée du Louvre",
+    "categories": [
+      "museum",
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 48.8606,
+      "lon": 2.3376
+    },
+    "address_vi": "Rue de Rivoli, Quận 1, Paris",
+    "presentation_short_vi": "Bảo tàng nghệ thuật lớn và được ghé thăm nhiều nhất thế giới, nguyên là cung điện hoàng gia, nơi trưng bày kiệt tác Mona Lisa cùng kim tự tháp kính nổi tiếng ở sân trong.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.8606,2.3376",
+      "yandex": "https://yandex.com/maps/?pt=2.3376,48.8606&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "museum",
+      "art",
+      "unesco"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "fr-paris-nha-tho-duc-ba-paris",
+    "slug": "nha-tho-duc-ba-paris",
+    "region": "fr-paris",
+    "country": "france",
+    "region_name_vi": "Paris",
+    "name_vi": "Nhà thờ Đức Bà Paris",
+    "name_en": "Notre-Dame Cathedral",
+    "name_local": "Cathédrale Notre-Dame de Paris",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 48.853,
+      "lon": 2.3499
+    },
+    "address_vi": "Parvis Notre-Dame, đảo Île de la Cité, Quận 4, Paris",
+    "presentation_short_vi": "Thánh đường Gothic thế kỷ 12–13 trên đảo Île de la Cité, kiệt tác kiến trúc với các cửa kính hoa hồng, vừa được trùng tu sau vụ cháy năm 2019.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.853,2.3499",
+      "yandex": "https://yandex.com/maps/?pt=2.3499,48.853&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "gothic",
+      "historic",
+      "cathedral"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "fr-paris-khai-hoan-mon",
+    "slug": "khai-hoan-mon",
+    "region": "fr-paris",
+    "country": "france",
+    "region_name_vi": "Paris",
+    "name_vi": "Khải Hoàn Môn",
+    "name_en": "Arc de Triomphe",
+    "name_local": "Arc de Triomphe de l'Étoile",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 48.8738,
+      "lon": 2.295
+    },
+    "address_vi": "Place Charles de Gaulle, Quận 8, Paris",
+    "presentation_short_vi": "Khải hoàn môn đồ sộ do Napoléon cho xây để vinh danh quân đội Pháp, đứng giữa quảng trường nơi 12 đại lộ tỏa ra; trên đỉnh có đài ngắm toàn cảnh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.8738,2.295",
+      "yandex": "https://yandex.com/maps/?pt=2.295,48.8738&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "monument",
+      "napoleon",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "fr-paris-cung-dien-versailles",
+    "slug": "cung-dien-versailles",
+    "region": "fr-paris",
+    "country": "france",
+    "region_name_vi": "Paris",
+    "name_vi": "Cung điện Versailles",
+    "name_en": "Palace of Versailles",
+    "name_local": "Château de Versailles",
+    "categories": [
+      "palace",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 48.8049,
+      "lon": 2.1204
+    },
+    "address_vi": "Place d'Armes, 78000 Versailles, ngoại ô tây nam Paris",
+    "presentation_short_vi": "Cung điện hoàng gia tráng lệ của các vua Pháp, nổi tiếng với Phòng Gương và những khu vườn kiểu Pháp mênh mông; là Di sản Thế giới UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.8049,2.1204",
+      "yandex": "https://yandex.com/maps/?pt=2.1204,48.8049&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "palace",
+      "unesco",
+      "garden"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "fr-paris-dai-lo-champs-elysees",
+    "slug": "dai-lo-champs-elysees",
+    "region": "fr-paris",
+    "country": "france",
+    "region_name_vi": "Paris",
+    "name_vi": "Đại lộ Champs-Élysées",
+    "name_en": "Avenue des Champs-Élysées",
+    "name_local": "Avenue des Champs-Élysées",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 48.8698,
+      "lon": 2.3079
+    },
+    "address_vi": "Quận 8, Paris (từ Quảng trường Concorde đến Khải Hoàn Môn)",
+    "presentation_short_vi": "Đại lộ nổi tiếng nhất Paris dài khoảng 2 km, rợp bóng cây với các cửa hiệu, quán cà phê và rạp hát, nối Quảng trường Concorde với Khải Hoàn Môn.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.8698,2.3079",
+      "yandex": "https://yandex.com/maps/?pt=2.3079,48.8698&z=16&l=map"
+    },
+    "tags": [
+      "avenue",
+      "shopping",
+      "iconic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "fr-paris-vuong-cung-thanh-duong-sacre-coeur",
+    "slug": "vuong-cung-thanh-duong-sacre-coeur",
+    "region": "fr-paris",
+    "country": "france",
+    "region_name_vi": "Paris",
+    "name_vi": "Vương cung thánh đường Sacré-Cœur",
+    "name_en": "Sacré-Cœur Basilica",
+    "name_local": "Basilique du Sacré-Cœur",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 48.8867,
+      "lon": 2.3431
+    },
+    "address_vi": "35 Rue du Chevalier de la Barre, đồi Montmartre, Quận 18, Paris",
+    "presentation_short_vi": "Vương cung thánh đường mái vòm trắng theo phong cách La Mã–Byzantine trên đỉnh đồi Montmartre, từ thềm nhà thờ có thể ngắm toàn cảnh Paris.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.8867,2.3431",
+      "yandex": "https://yandex.com/maps/?pt=2.3431,48.8867&z=16&l=map"
+    },
+    "tags": [
+      "basilica",
+      "montmartre",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "fr-paris-bao-tang-orsay",
+    "slug": "bao-tang-orsay",
+    "region": "fr-paris",
+    "country": "france",
+    "region_name_vi": "Paris",
+    "name_vi": "Bảo tàng Orsay",
+    "name_en": "Musée d'Orsay",
+    "name_local": "Musée d'Orsay",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 48.86,
+      "lon": 2.3266
+    },
+    "address_vi": "Esplanade Valéry Giscard d'Estaing, Quận 7, Paris",
+    "presentation_short_vi": "Bảo tàng cải tạo từ một nhà ga xe lửa Beaux-Arts, lưu giữ bộ sưu tập tranh Ấn tượng và Hậu Ấn tượng lừng danh của Monet, Van Gogh, Renoir.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.86,2.3266",
+      "yandex": "https://yandex.com/maps/?pt=2.3266,48.86&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "art",
+      "impressionism"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "fr-paris-trung-tam-pompidou",
+    "slug": "trung-tam-pompidou",
+    "region": "fr-paris",
+    "country": "france",
+    "region_name_vi": "Paris",
+    "name_vi": "Trung tâm Pompidou",
+    "name_en": "Centre Pompidou",
+    "name_local": "Centre Georges-Pompidou",
+    "categories": [
+      "museum",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 48.8607,
+      "lon": 2.3522
+    },
+    "address_vi": "Place Georges-Pompidou, Quận 4, Paris",
+    "presentation_short_vi": "Trung tâm nghệ thuật hiện đại với kiến trúc high-tech phô bày đường ống và thang cuốn bên ngoài, nơi đặt Bảo tàng Nghệ thuật Hiện đại Quốc gia.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.8607,2.3522",
+      "yandex": "https://yandex.com/maps/?pt=2.3522,48.8607&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "art",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "fr-paris-vuon-luxembourg",
+    "slug": "vuon-luxembourg",
+    "region": "fr-paris",
+    "country": "france",
+    "region_name_vi": "Paris",
+    "name_vi": "Vườn Luxembourg",
+    "name_en": "Luxembourg Gardens",
+    "name_local": "Jardin du Luxembourg",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 48.8462,
+      "lon": 2.3372
+    },
+    "address_vi": "Quận 6, Paris (bên cạnh Cung điện Luxembourg)",
+    "presentation_short_vi": "Khu vườn kiểu Pháp và kiểu Anh rộng lớn quanh Cung điện Luxembourg, với hồ nước, tượng đài và những hàng ghế xanh quen thuộc của người Paris.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.8462,2.3372",
+      "yandex": "https://yandex.com/maps/?pt=2.3372,48.8462&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "garden",
+      "relax"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "fr-paris-nha-nguyen-sainte-chapelle",
+    "slug": "nha-nguyen-sainte-chapelle",
+    "region": "fr-paris",
+    "country": "france",
+    "region_name_vi": "Paris",
+    "name_vi": "Nhà nguyện Sainte-Chapelle",
+    "name_en": "Sainte-Chapelle",
+    "name_local": "Sainte-Chapelle",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 48.8554,
+      "lon": 2.345
+    },
+    "address_vi": "10 Boulevard du Palais, đảo Île de la Cité, Quận 1, Paris",
+    "presentation_short_vi": "Nhà nguyện hoàng gia Gothic thế kỷ 13 nổi tiếng với 15 ô cửa kính màu cao vút kể các tích Kinh Thánh, một trong những công trình kính màu đẹp nhất thế giới.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.8554,2.345",
+      "yandex": "https://yandex.com/maps/?pt=2.345,48.8554&z=16&l=map"
+    },
+    "tags": [
+      "gothic",
+      "stained-glass",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "fr-paris-nha-hat-opera-garnier",
+    "slug": "nha-hat-opera-garnier",
+    "region": "fr-paris",
+    "country": "france",
+    "region_name_vi": "Paris",
+    "name_vi": "Nhà hát Opéra Garnier",
+    "name_en": "Palais Garnier (Opéra Garnier)",
+    "name_local": "Palais Garnier",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 48.872,
+      "lon": 2.3316
+    },
+    "address_vi": "Place de l'Opéra, Quận 9, Paris",
+    "presentation_short_vi": "Nhà hát opera lộng lẫy theo phong cách Beaux-Arts do Charles Garnier thiết kế, với cầu thang đá cẩm thạch và trần vẽ của Chagall; nguồn cảm hứng cho 'Bóng ma trong nhà hát'.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.872,2.3316",
+      "yandex": "https://yandex.com/maps/?pt=2.3316,48.872&z=16&l=map"
+    },
+    "tags": [
+      "opera",
+      "theatre",
+      "beaux-arts"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  }
+]

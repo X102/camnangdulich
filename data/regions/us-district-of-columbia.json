@@ -1,0 +1,377 @@
+[
+  {
+    "id": "us-district-of-columbia-white-house",
+    "slug": "white-house",
+    "region": "us-district-of-columbia",
+    "country": "usa",
+    "region_name_vi": "Washington, D.C.",
+    "name_vi": "Nhà Trắng",
+    "name_en": "The White House",
+    "name_local": "",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 38.8977,
+      "lon": -77.0365
+    },
+    "address_vi": "1600 Pennsylvania Avenue, Washington, D.C.",
+    "presentation_short_vi": "Nơi ở và làm việc chính thức của Tổng thống Hoa Kỳ từ năm 1800, biểu tượng của chính quyền liên bang Mỹ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.8977,-77.0365",
+      "yandex": "https://yandex.com/maps/?pt=-77.0365,38.8977&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "historic",
+      "government",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-district-of-columbia-us-capitol",
+    "slug": "us-capitol",
+    "region": "us-district-of-columbia",
+    "country": "usa",
+    "region_name_vi": "Washington, D.C.",
+    "name_vi": "Tòa nhà Quốc hội Hoa Kỳ (Điện Capitol)",
+    "name_en": "United States Capitol",
+    "name_local": "",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 38.8899,
+      "lon": -77.0091
+    },
+    "address_vi": "Đồi Capitol, Washington, D.C.",
+    "presentation_short_vi": "Trụ sở Quốc hội Hoa Kỳ với mái vòm trắng biểu tượng, nơi đặt Thượng viện và Hạ viện.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.8899,-77.0091",
+      "yandex": "https://yandex.com/maps/?pt=-77.0091,38.8899&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "government",
+      "historic",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-district-of-columbia-lincoln-memorial",
+    "slug": "lincoln-memorial",
+    "region": "us-district-of-columbia",
+    "country": "usa",
+    "region_name_vi": "Washington, D.C.",
+    "name_vi": "Đài tưởng niệm Lincoln",
+    "name_en": "Lincoln Memorial",
+    "name_local": "",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 38.8893,
+      "lon": -77.0502
+    },
+    "address_vi": "National Mall, Washington, D.C.",
+    "presentation_short_vi": "Đền tưởng niệm Tổng thống Abraham Lincoln theo phong cách đền Hy Lạp, với bức tượng Lincoln ngồi bằng đá cẩm thạch.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.8893,-77.0502",
+      "yandex": "https://yandex.com/maps/?pt=-77.0502,38.8893&z=16&l=map"
+    },
+    "tags": [
+      "memorial",
+      "monument",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-district-of-columbia-washington-monument",
+    "slug": "washington-monument",
+    "region": "us-district-of-columbia",
+    "country": "usa",
+    "region_name_vi": "Washington, D.C.",
+    "name_vi": "Đài tưởng niệm Washington",
+    "name_en": "Washington Monument",
+    "name_local": "",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 38.8895,
+      "lon": -77.0353
+    },
+    "address_vi": "National Mall, Washington, D.C.",
+    "presentation_short_vi": "Tháp đá obelisk cao 169 m tưởng niệm Tổng thống George Washington, từng là công trình cao nhất thế giới.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.8895,-77.0353",
+      "yandex": "https://yandex.com/maps/?pt=-77.0353,38.8895&z=16&l=map"
+    },
+    "tags": [
+      "monument",
+      "landmark",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-district-of-columbia-national-mall",
+    "slug": "national-mall",
+    "region": "us-district-of-columbia",
+    "country": "usa",
+    "region_name_vi": "Washington, D.C.",
+    "name_vi": "Công viên National Mall",
+    "name_en": "National Mall",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 38.8895,
+      "lon": -77.023
+    },
+    "address_vi": "Trung tâm Washington, D.C.",
+    "presentation_short_vi": "Đại lộ công viên trải dài nối Điện Capitol với đài Lincoln, quy tụ các đài tưởng niệm và bảo tàng Smithsonian.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.8895,-77.023",
+      "yandex": "https://yandex.com/maps/?pt=-77.023,38.8895&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "landmark",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-district-of-columbia-national-air-and-space-museum",
+    "slug": "national-air-and-space-museum",
+    "region": "us-district-of-columbia",
+    "country": "usa",
+    "region_name_vi": "Washington, D.C.",
+    "name_vi": "Bảo tàng Hàng không và Vũ trụ Quốc gia",
+    "name_en": "National Air and Space Museum",
+    "name_local": "",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 38.8882,
+      "lon": -77.0199
+    },
+    "address_vi": "National Mall, Washington, D.C.",
+    "presentation_short_vi": "Bảo tàng Smithsonian trưng bày máy bay Wright Flyer, tàu Apollo và nhiều hiện vật hàng không vũ trụ nổi tiếng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.8882,-77.0199",
+      "yandex": "https://yandex.com/maps/?pt=-77.0199,38.8882&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "science",
+      "smithsonian",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-district-of-columbia-national-museum-of-natural-history",
+    "slug": "national-museum-of-natural-history",
+    "region": "us-district-of-columbia",
+    "country": "usa",
+    "region_name_vi": "Washington, D.C.",
+    "name_vi": "Bảo tàng Lịch sử Tự nhiên Quốc gia",
+    "name_en": "National Museum of Natural History",
+    "name_local": "",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 38.8913,
+      "lon": -77.0261
+    },
+    "address_vi": "National Mall, Washington, D.C.",
+    "presentation_short_vi": "Bảo tàng Smithsonian nổi tiếng với viên kim cương Hope, bộ xương khủng long và hàng triệu mẫu vật tự nhiên.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.8913,-77.0261",
+      "yandex": "https://yandex.com/maps/?pt=-77.0261,38.8913&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "science",
+      "smithsonian"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-district-of-columbia-washington-national-cathedral",
+    "slug": "washington-national-cathedral",
+    "region": "us-district-of-columbia",
+    "country": "usa",
+    "region_name_vi": "Washington, D.C.",
+    "name_vi": "Nhà thờ lớn Quốc gia Washington",
+    "name_en": "Washington National Cathedral",
+    "name_local": "",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 38.9304,
+      "lon": -77.0707
+    },
+    "address_vi": "Tây Bắc, Washington, D.C.",
+    "presentation_short_vi": "Thánh đường Tân Gothic lớn thứ sáu thế giới, nơi diễn ra nhiều lễ tang cấp quốc gia và sự kiện tôn giáo trọng đại.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.9304,-77.0707",
+      "yandex": "https://yandex.com/maps/?pt=-77.0707,38.9304&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "gothic",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-district-of-columbia-jefferson-memorial",
+    "slug": "jefferson-memorial",
+    "region": "us-district-of-columbia",
+    "country": "usa",
+    "region_name_vi": "Washington, D.C.",
+    "name_vi": "Đài tưởng niệm Jefferson",
+    "name_en": "Thomas Jefferson Memorial",
+    "name_local": "",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 38.8814,
+      "lon": -77.0365
+    },
+    "address_vi": "Tidal Basin, Washington, D.C.",
+    "presentation_short_vi": "Đền tưởng niệm Tổng thống Thomas Jefferson với mái vòm tân cổ điển bên hồ Tidal Basin, tuyệt đẹp mùa hoa anh đào.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.8814,-77.0365",
+      "yandex": "https://yandex.com/maps/?pt=-77.0365,38.8814&z=16&l=map"
+    },
+    "tags": [
+      "memorial",
+      "monument",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-district-of-columbia-library-of-congress",
+    "slug": "library-of-congress",
+    "region": "us-district-of-columbia",
+    "country": "usa",
+    "region_name_vi": "Washington, D.C.",
+    "name_vi": "Thư viện Quốc hội (Tòa nhà Jefferson)",
+    "name_en": "Library of Congress – Thomas Jefferson Building",
+    "name_local": "",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 38.8887,
+      "lon": -77.0047
+    },
+    "address_vi": "Đồi Capitol, Washington, D.C.",
+    "presentation_short_vi": "Thư viện lớn nhất thế giới với tòa nhà Jefferson tráng lệ theo phong cách Beaux-Arts và Đại sảnh nguy nga.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.8887,-77.0047",
+      "yandex": "https://yandex.com/maps/?pt=-77.0047,38.8887&z=16&l=map"
+    },
+    "tags": [
+      "library",
+      "historic",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-district-of-columbia-fords-theatre",
+    "slug": "fords-theatre",
+    "region": "us-district-of-columbia",
+    "country": "usa",
+    "region_name_vi": "Washington, D.C.",
+    "name_vi": "Nhà hát Ford",
+    "name_en": "Ford's Theatre",
+    "name_local": "",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 38.8969,
+      "lon": -77.0257
+    },
+    "address_vi": "Phố 10, Washington, D.C.",
+    "presentation_short_vi": "Nhà hát lịch sử nơi Tổng thống Abraham Lincoln bị ám sát năm 1865, nay là nhà hát hoạt động kèm bảo tàng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.8969,-77.0257",
+      "yandex": "https://yandex.com/maps/?pt=-77.0257,38.8969&z=16&l=map"
+    },
+    "tags": [
+      "theatre",
+      "historic",
+      "museum"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-district-of-columbia-georgetown-historic-district",
+    "slug": "georgetown-historic-district",
+    "region": "us-district-of-columbia",
+    "country": "usa",
+    "region_name_vi": "Washington, D.C.",
+    "name_vi": "Khu phố cổ Georgetown",
+    "name_en": "Georgetown Historic District",
+    "name_local": "",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 38.9097,
+      "lon": -77.0654
+    },
+    "address_vi": "Georgetown, Washington, D.C.",
+    "presentation_short_vi": "Khu phố cổ nhất Washington với đường lát đá, nhà gạch thế kỷ 18-19, kênh đào C&O và phố mua sắm sầm uất.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.9097,-77.0654",
+      "yandex": "https://yandex.com/maps/?pt=-77.0654,38.9097&z=16&l=map"
+    },
+    "tags": [
+      "historic",
+      "square_street",
+      "shopping"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

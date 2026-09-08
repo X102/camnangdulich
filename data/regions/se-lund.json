@@ -1,0 +1,370 @@
+[
+  {
+    "id": "se-lund-domkyrka",
+    "slug": "domkyrka",
+    "region": "se-lund",
+    "country": "sweden",
+    "region_name_vi": "Lund",
+    "name_vi": "Nhà thờ chính tòa Lund",
+    "name_en": "Lund Cathedral",
+    "name_local": "Lunds domkyrka",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 55.7042,
+      "lon": 13.1939
+    },
+    "address_vi": "Kyrkogatan, trung tâm Lund",
+    "presentation_short_vi": "Nhà thờ Romanesque bằng đá sa thạch xây từ thế kỷ 12, biểu tượng của Lund, nổi tiếng với đồng hồ thiên văn Horologium mirabile và hầm mộ cổ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.7042,13.1939",
+      "yandex": "https://yandex.com/maps/?pt=13.1939,55.7042&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "church",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-lund-universitetshuset",
+    "slug": "universitetshuset",
+    "region": "se-lund",
+    "country": "sweden",
+    "region_name_vi": "Lund",
+    "name_vi": "Tòa nhà chính Đại học Lund",
+    "name_en": "Lund University Main Building",
+    "name_local": "Universitetshuset",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 55.7061,
+      "lon": 13.1958
+    },
+    "address_vi": "Paradisgatan, cạnh công viên Lundagård",
+    "presentation_short_vi": "Tòa nhà tân cổ điển màu trắng khánh thành năm 1882, trụ sở của Đại học Lund — một trong những đại học lâu đời và danh tiếng nhất Bắc Âu.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.7061,13.1958",
+      "yandex": "https://yandex.com/maps/?pt=13.1958,55.7061&z=16&l=map"
+    },
+    "tags": [
+      "university",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-lund-kulturen",
+    "slug": "kulturen",
+    "region": "se-lund",
+    "country": "sweden",
+    "region_name_vi": "Lund",
+    "name_vi": "Bảo tàng ngoài trời Kulturen",
+    "name_en": "Kulturen Open-Air Museum",
+    "name_local": "Kulturen i Lund",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 55.7047,
+      "lon": 13.1956
+    },
+    "address_vi": "Tegnérsplatsen, trung tâm Lund",
+    "presentation_short_vi": "Một trong những bảo tàng ngoài trời lâu đời nhất thế giới (từ 1892) với hơn 30 công trình lịch sử tái hiện đời sống vùng Skåne qua nhiều thế kỷ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.7047,13.1956",
+      "yandex": "https://yandex.com/maps/?pt=13.1956,55.7047&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "open-air",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-lund-historiska-museet",
+    "slug": "historiska-museet",
+    "region": "se-lund",
+    "country": "sweden",
+    "region_name_vi": "Lund",
+    "name_vi": "Bảo tàng Lịch sử Đại học Lund",
+    "name_en": "Lund University Historical Museum",
+    "name_local": "Historiska museet",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 55.7049,
+      "lon": 13.1929
+    },
+    "address_vi": "Kraftstorg, cạnh nhà thờ chính tòa",
+    "presentation_short_vi": "Bảo tàng khảo cổ và lịch sử lớn thứ hai Thụy Điển, trưng bày cổ vật thời đồ đá, thời Viking và bộ sưu tập nghệ thuật tôn giáo Trung cổ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.7049,13.1929",
+      "yandex": "https://yandex.com/maps/?pt=13.1929,55.7049&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "history",
+      "viking"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-lund-lundagard",
+    "slug": "lundagard",
+    "region": "se-lund",
+    "country": "sweden",
+    "region_name_vi": "Lund",
+    "name_vi": "Công viên Lundagård",
+    "name_en": "Lundagård Park",
+    "name_local": "Lundagård",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 55.7055,
+      "lon": 13.1949
+    },
+    "address_vi": "Trung tâm Lund, giữa nhà thờ và đại học",
+    "presentation_short_vi": "Công viên trung tâm nhất của Lund với hàng cây cổ thụ và tòa nhà Kungshuset thế kỷ 16, gắn liền với đời sống sinh viên.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.7055,13.1949",
+      "yandex": "https://yandex.com/maps/?pt=13.1949,55.7055&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "central"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-lund-botaniska",
+    "slug": "botaniska",
+    "region": "se-lund",
+    "country": "sweden",
+    "region_name_vi": "Lund",
+    "name_vi": "Vườn Bách thảo Lund",
+    "name_en": "Lund Botanical Garden",
+    "name_local": "Botaniska trädgården",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 55.7003,
+      "lon": 13.2036
+    },
+    "address_vi": "Östra Vallgatan, trung tâm Lund",
+    "presentation_short_vi": "Vườn bách thảo của Đại học Lund rộng khoảng 8 ha với hơn 7.000 loài thực vật và nhà kính nhiệt đới, mở cửa miễn phí.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.7003,13.2036",
+      "yandex": "https://yandex.com/maps/?pt=13.2036,55.7003&z=16&l=map"
+    },
+    "tags": [
+      "garden",
+      "botanical",
+      "free"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-lund-stadsparken",
+    "slug": "stadsparken",
+    "region": "se-lund",
+    "country": "sweden",
+    "region_name_vi": "Lund",
+    "name_vi": "Công viên Thành phố Lund",
+    "name_en": "Lund City Park",
+    "name_local": "Stadsparken",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 55.6981,
+      "lon": 13.1869
+    },
+    "address_vi": "Phía tây nam trung tâm Lund",
+    "presentation_short_vi": "Công viên thành phố lớn khai trương năm 1911 với hồ nước, vườn hoa và sân khấu ngoài trời, nơi diễn ra nhiều lễ hội của Lund.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.6981,13.1869",
+      "yandex": "https://yandex.com/maps/?pt=13.1869,55.6981&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-lund-skissernas-museum",
+    "slug": "skissernas-museum",
+    "region": "se-lund",
+    "country": "sweden",
+    "region_name_vi": "Lund",
+    "name_vi": "Bảo tàng Phác thảo Nghệ thuật Skissernas",
+    "name_en": "Skissernas Museum – Museum of Artistic Process and Public Art",
+    "name_local": "Skissernas Museum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 55.7092,
+      "lon": 13.2019
+    },
+    "address_vi": "Finngatan, khu đại học Lund",
+    "presentation_short_vi": "Bảo tàng độc đáo lưu giữ bản phác thảo và mô hình của các tác phẩm nghệ thuật công cộng khắp thế giới, kèm vườn điêu khắc ngoài trời.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.7092,13.2019",
+      "yandex": "https://yandex.com/maps/?pt=13.2019,55.7092&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "art",
+      "modern"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-lund-stortorget",
+    "slug": "stortorget",
+    "region": "se-lund",
+    "country": "sweden",
+    "region_name_vi": "Lund",
+    "name_vi": "Quảng trường Stortorget",
+    "name_en": "Stortorget (Great Square)",
+    "name_local": "Stortorget",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 55.7039,
+      "lon": 13.1928
+    },
+    "address_vi": "Trung tâm phố cổ Lund",
+    "presentation_short_vi": "Quảng trường trung tâm của Lund với tòa thị chính, tượng đài và các quán cà phê, là điểm hẹn nhộn nhịp giữa lòng phố cổ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.7039,13.1928",
+      "yandex": "https://yandex.com/maps/?pt=13.1928,55.7039&z=16&l=map"
+    },
+    "tags": [
+      "square",
+      "central"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-lund-drotten",
+    "slug": "drotten",
+    "region": "se-lund",
+    "country": "sweden",
+    "region_name_vi": "Lund",
+    "name_vi": "Di tích nhà thờ Drotten",
+    "name_en": "Drotten Church Ruins Museum",
+    "name_local": "Drottens kyrkoruin",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 55.7044,
+      "lon": 13.1919
+    },
+    "address_vi": "Kattesund, trung tâm Lund",
+    "presentation_short_vi": "Bảo tàng dưới lòng đất trưng bày nền móng nhà thờ Trung cổ Drotten, tái hiện Lund thời kỳ thịnh vượng thế kỷ 11–12.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.7044,13.1919",
+      "yandex": "https://yandex.com/maps/?pt=13.1919,55.7044&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "history",
+      "medieval"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-lund-krognoshuset",
+    "slug": "krognoshuset",
+    "region": "se-lund",
+    "country": "sweden",
+    "region_name_vi": "Lund",
+    "name_vi": "Nhà cổ Krognoshuset",
+    "name_en": "Krognoshuset",
+    "name_local": "Krognoshuset",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 55.7036,
+      "lon": 13.1942
+    },
+    "address_vi": "Quảng trường Mårtenstorget, Lund",
+    "presentation_short_vi": "Ngôi nhà gạch Gothic thế kỷ 14 — công trình dân dụng cổ nhất còn lại của Lund, nay là phòng trưng bày nghệ thuật Aura.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.7036,13.1942",
+      "yandex": "https://yandex.com/maps/?pt=13.1942,55.7036&z=16&l=map"
+    },
+    "tags": [
+      "monument",
+      "medieval",
+      "art"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-lund-sankt-hans-backar",
+    "slug": "sankt-hans-backar",
+    "region": "se-lund",
+    "country": "sweden",
+    "region_name_vi": "Lund",
+    "name_vi": "Đồi Sankt Hans",
+    "name_en": "Sankt Hans Backar",
+    "name_local": "Sankt Hans backar",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 55.7161,
+      "lon": 13.2147
+    },
+    "address_vi": "Phía bắc Lund",
+    "presentation_short_vi": "Khu đồi phủ cây xanh với đường mòn và tầm nhìn toàn cảnh thành phố, điểm dạo bộ và ngắm hoàng hôn quen thuộc của người dân Lund.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.7161,13.2147",
+      "yandex": "https://yandex.com/maps/?pt=13.2147,55.7161&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "viewpoint",
+      "park"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

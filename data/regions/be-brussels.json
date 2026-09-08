@@ -1,0 +1,383 @@
+[
+  {
+    "id": "be-brussels-grand-place",
+    "slug": "grand-place",
+    "region": "be-brussels",
+    "country": "belgium",
+    "region_name_vi": "Brussels",
+    "name_vi": "Quảng trường Grand-Place",
+    "name_en": "Grand-Place",
+    "name_local": "Grand-Place / Grote Markt",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 50.8467,
+      "lon": 4.3525
+    },
+    "address_vi": "Trung tâm Bruxelles",
+    "presentation_short_vi": "Quảng trường trung tâm tráng lệ của Bruxelles với Tòa Thị chính Gothic và các dinh phường hội baroque, Di sản Thế giới UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.8467,4.3525",
+      "yandex": "https://yandex.com/maps/?pt=4.3525,50.8467&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "unesco",
+      "square",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "be-brussels-atomium",
+    "slug": "atomium",
+    "region": "be-brussels",
+    "country": "belgium",
+    "region_name_vi": "Brussels",
+    "name_vi": "Atomium",
+    "name_en": "Atomium",
+    "name_local": "Atomium",
+    "categories": [
+      "monument",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 50.8947,
+      "lon": 4.3411
+    },
+    "address_vi": "Square de l'Atomium, Laeken, Bruxelles",
+    "presentation_short_vi": "Công trình biểu tượng cao 102 m mô phỏng ô mạng tinh thể sắt phóng đại 165 tỉ lần, xây cho Hội chợ Thế giới Expo 58.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.8947,4.3411",
+      "yandex": "https://yandex.com/maps/?pt=4.3411,50.8947&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "modern",
+      "landmark",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "be-brussels-manneken-pis",
+    "slug": "manneken-pis",
+    "region": "be-brussels",
+    "country": "belgium",
+    "region_name_vi": "Brussels",
+    "name_vi": "Tượng Manneken Pis",
+    "name_en": "Manneken Pis",
+    "name_local": "Manneken-Pis",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 50.845,
+      "lon": 4.3499
+    },
+    "address_vi": "Góc Rue de l'Étuve và Rue du Chêne, Bruxelles",
+    "presentation_short_vi": "Bức tượng đồng nhỏ hình cậu bé đang tiểu tiện có từ năm 1619, biểu tượng dí dỏm và được yêu thích bậc nhất của Bruxelles.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.845,4.3499",
+      "yandex": "https://yandex.com/maps/?pt=4.3499,50.845&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "statue",
+      "iconic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "be-brussels-royal-palace",
+    "slug": "royal-palace",
+    "region": "be-brussels",
+    "country": "belgium",
+    "region_name_vi": "Brussels",
+    "name_vi": "Cung điện Hoàng gia Bruxelles",
+    "name_en": "Royal Palace of Brussels",
+    "name_local": "Palais Royal de Bruxelles",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 50.8419,
+      "lon": 4.3625
+    },
+    "address_vi": "Place des Palais, Bruxelles",
+    "presentation_short_vi": "Dinh thự chính thức của Nhà vua Bỉ nhìn ra Công viên Bruxelles, mở cửa cho công chúng tham quan vào mùa hè.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.8419,4.3625",
+      "yandex": "https://yandex.com/maps/?pt=4.3625,50.8419&z=16&l=map"
+    },
+    "tags": [
+      "palace",
+      "landmark",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "be-brussels-cathedral-st-michael",
+    "slug": "cathedral-st-michael",
+    "region": "be-brussels",
+    "country": "belgium",
+    "region_name_vi": "Brussels",
+    "name_vi": "Nhà thờ chính tòa Thánh Michael và Thánh Gudula",
+    "name_en": "Cathedral of St. Michael and St. Gudula",
+    "name_local": "Cathédrale Saints-Michel-et-Gudule",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 50.8479,
+      "lon": 4.3601
+    },
+    "address_vi": "Place Sainte-Gudule, Bruxelles",
+    "presentation_short_vi": "Nhà thờ chính tòa Gothic thế kỷ 13-15 với hai tháp mặt tiền bề thế và các cửa kính màu tuyệt đẹp, nơi tổ chức nghi lễ hoàng gia Bỉ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.8479,4.3601",
+      "yandex": "https://yandex.com/maps/?pt=4.3601,50.8479&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "gothic",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "be-brussels-cinquantenaire-park",
+    "slug": "cinquantenaire-park",
+    "region": "be-brussels",
+    "country": "belgium",
+    "region_name_vi": "Brussels",
+    "name_vi": "Công viên Cinquantenaire",
+    "name_en": "Cinquantenaire Park",
+    "name_local": "Parc du Cinquantenaire / Jubelpark",
+    "categories": [
+      "park_garden",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 50.8397,
+      "lon": 4.3931
+    },
+    "address_vi": "Bruxelles",
+    "presentation_short_vi": "Công viên rộng lớn với Khải hoàn môn ba vòm dựng năm 1905 kỷ niệm 50 năm độc lập của Bỉ, bao quanh là các bảo tàng lớn.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.8397,4.3931",
+      "yandex": "https://yandex.com/maps/?pt=4.3931,50.8397&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "monument",
+      "scenic",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "be-brussels-royal-museums-fine-arts",
+    "slug": "royal-museums-fine-arts",
+    "region": "be-brussels",
+    "country": "belgium",
+    "region_name_vi": "Brussels",
+    "name_vi": "Bảo tàng Mỹ thuật Hoàng gia Bỉ",
+    "name_en": "Royal Museums of Fine Arts of Belgium",
+    "name_local": "Musées royaux des Beaux-Arts de Belgique",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 50.842,
+      "lon": 4.3585
+    },
+    "address_vi": "Rue de la Régence 3, Bruxelles",
+    "presentation_short_vi": "Quần thể bảo tàng mỹ thuật hàng đầu Bỉ, lưu giữ tác phẩm của Bruegel, Rubens, Magritte cùng nghệ thuật cổ điển và hiện đại.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.842,4.3585",
+      "yandex": "https://yandex.com/maps/?pt=4.3585,50.842&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "art",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "be-brussels-mont-des-arts",
+    "slug": "mont-des-arts",
+    "region": "be-brussels",
+    "country": "belgium",
+    "region_name_vi": "Brussels",
+    "name_vi": "Mont des Arts",
+    "name_en": "Mont des Arts",
+    "name_local": "Mont des Arts / Kunstberg",
+    "categories": [
+      "square_street",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 50.8443,
+      "lon": 4.3567
+    },
+    "address_vi": "Bruxelles",
+    "presentation_short_vi": "Khu vườn bậc thang giữa trung tâm thành phố, điểm ngắm toàn cảnh mái nhà cổ Bruxelles và cụm công trình văn hóa xung quanh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.8443,4.3567",
+      "yandex": "https://yandex.com/maps/?pt=4.3567,50.8443&z=16&l=map"
+    },
+    "tags": [
+      "scenic",
+      "garden",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "be-brussels-galeries-saint-hubert",
+    "slug": "galeries-saint-hubert",
+    "region": "be-brussels",
+    "country": "belgium",
+    "region_name_vi": "Brussels",
+    "name_vi": "Thương xá Hoàng gia Saint-Hubert",
+    "name_en": "Royal Galleries of Saint-Hubert",
+    "name_local": "Galeries Royales Saint-Hubert",
+    "categories": [
+      "other",
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 50.848,
+      "lon": 4.3546
+    },
+    "address_vi": "Bruxelles",
+    "presentation_short_vi": "Dãy phố mua sắm có mái vòm kính thế kỷ 19, một trong những thương xá có mái che lâu đời nhất châu Âu với cửa hiệu và quán cà phê sang trọng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.848,4.3546",
+      "yandex": "https://yandex.com/maps/?pt=4.3546,50.848&z=16&l=map"
+    },
+    "tags": [
+      "shopping",
+      "history",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "be-brussels-mini-europe",
+    "slug": "mini-europe",
+    "region": "be-brussels",
+    "country": "belgium",
+    "region_name_vi": "Brussels",
+    "name_vi": "Công viên Mini-Europe",
+    "name_en": "Mini-Europe",
+    "name_local": "Mini-Europe",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 50.8945,
+      "lon": 4.3405
+    },
+    "address_vi": "Bruparck, Laeken, Bruxelles",
+    "presentation_short_vi": "Công viên mô hình thu nhỏ các công trình biểu tượng của châu Âu ngay dưới chân Atomium, điểm tham quan giải trí hấp dẫn cho gia đình.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.8945,4.3405",
+      "yandex": "https://yandex.com/maps/?pt=4.3405,50.8945&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "park",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "be-brussels-basilica-koekelberg",
+    "slug": "basilica-koekelberg",
+    "region": "be-brussels",
+    "country": "belgium",
+    "region_name_vi": "Brussels",
+    "name_vi": "Vương cung thánh đường Thánh Tâm (Koekelberg)",
+    "name_en": "Basilica of the Sacred Heart",
+    "name_local": "Basilique du Sacré-Cœur de Koekelberg",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 50.8659,
+      "lon": 4.3181
+    },
+    "address_vi": "Parvis de la Basilique, Koekelberg, Bruxelles",
+    "presentation_short_vi": "Vương cung thánh đường phong cách Art Deco khổng lồ, một trong những nhà thờ lớn nhất thế giới, có đài quan sát trên vòm ngắm toàn cảnh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.8659,4.3181",
+      "yandex": "https://yandex.com/maps/?pt=4.3181,50.8659&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "landmark",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "be-brussels-comic-strip-center",
+    "slug": "comic-strip-center",
+    "region": "be-brussels",
+    "country": "belgium",
+    "region_name_vi": "Brussels",
+    "name_vi": "Trung tâm Truyện tranh Bỉ",
+    "name_en": "Belgian Comic Strip Center",
+    "name_local": "Centre belge de la bande dessinée",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 50.8506,
+      "lon": 4.3573
+    },
+    "address_vi": "Rue des Sables 20, Bruxelles",
+    "presentation_short_vi": "Bảo tàng tôn vinh nghệ thuật truyện tranh Bỉ (Tintin, Xì Trum...) trong tòa nhà Art Nouveau do Victor Horta thiết kế.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.8506,4.3573",
+      "yandex": "https://yandex.com/maps/?pt=4.3573,50.8506&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "art",
+      "architecture",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  }
+]

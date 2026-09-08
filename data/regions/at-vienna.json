@@ -1,0 +1,423 @@
+[
+  {
+    "id": "at-vienna-cung-dien-schonbrunn",
+    "slug": "cung-dien-schonbrunn",
+    "region": "at-vienna",
+    "country": "austria",
+    "region_name_vi": "Vienna",
+    "name_vi": "Cung điện Schönbrunn",
+    "name_en": "Schönbrunn Palace",
+    "name_local": "Schloss Schönbrunn",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 48.1858,
+      "lon": 16.3122
+    },
+    "address_vi": "Schönbrunner Schlossstraße 47, Quận 13 Hietzing, Vienna",
+    "presentation_short_vi": "Cung điện mùa hè lộng lẫy của hoàng gia Habsburg với 1.441 phòng theo phong cách Baroque, cùng khu vườn rộng lớn và vườn thú cổ nhất thế giới; Di sản Thế giới UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.1858,16.3122",
+      "yandex": "https://yandex.com/maps/?pt=16.3122,48.1858&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "palace",
+      "unesco",
+      "garden",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "at-vienna-nha-tho-thanh-stephen",
+    "slug": "nha-tho-thanh-stephen",
+    "region": "at-vienna",
+    "country": "austria",
+    "region_name_vi": "Vienna",
+    "name_vi": "Nhà thờ Chính tòa Thánh Stephen",
+    "name_en": "St. Stephen's Cathedral",
+    "name_local": "Stephansdom",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 48.2085,
+      "lon": 16.3735
+    },
+    "address_vi": "Stephansplatz 3, Quận 1, Vienna",
+    "presentation_short_vi": "Thánh đường Gothic biểu tượng của Vienna với tháp nam cao 136 m và mái ngói lợp hoa văn rực rỡ, trái tim tinh thần của thủ đô nước Áo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.2085,16.3735",
+      "yandex": "https://yandex.com/maps/?pt=16.3735,48.2085&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "church",
+      "gothic",
+      "iconic",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "at-vienna-cung-dien-hofburg",
+    "slug": "cung-dien-hofburg",
+    "region": "at-vienna",
+    "country": "austria",
+    "region_name_vi": "Vienna",
+    "name_vi": "Cung điện Hofburg",
+    "name_en": "Hofburg Palace",
+    "name_local": "Hofburg",
+    "categories": [
+      "palace",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 48.2065,
+      "lon": 16.3657
+    },
+    "address_vi": "Michaelerkuppel, Quận 1, Vienna",
+    "presentation_short_vi": "Hoàng cung mùa đông của nhà Habsburg suốt hơn 600 năm, nay là nơi đặt dinh Tổng thống, Bảo tàng Sisi, Thư viện Quốc gia và Trường đua ngựa Tây Ban Nha.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.2065,16.3657",
+      "yandex": "https://yandex.com/maps/?pt=16.3657,48.2065&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "palace",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "at-vienna-cung-dien-belvedere",
+    "slug": "cung-dien-belvedere",
+    "region": "at-vienna",
+    "country": "austria",
+    "region_name_vi": "Vienna",
+    "name_vi": "Cung điện Belvedere",
+    "name_en": "Belvedere Palace",
+    "name_local": "Schloss Belvedere",
+    "categories": [
+      "palace",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 48.1913,
+      "lon": 16.3805
+    },
+    "address_vi": "Prinz-Eugen-Straße 27, Quận 3, Vienna",
+    "presentation_short_vi": "Quần thể hai cung điện Baroque với vườn bậc thang, nay là bảo tàng lưu giữ kiệt tác Nụ hôn của Gustav Klimt cùng bộ sưu tập nghệ thuật Áo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.1913,16.3805",
+      "yandex": "https://yandex.com/maps/?pt=16.3805,48.1913&z=16&l=map"
+    },
+    "tags": [
+      "palace",
+      "museum",
+      "art",
+      "garden"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "at-vienna-nha-hat-opera-vienna",
+    "slug": "nha-hat-opera-vienna",
+    "region": "at-vienna",
+    "country": "austria",
+    "region_name_vi": "Vienna",
+    "name_vi": "Nhà hát Opera Quốc gia Vienna",
+    "name_en": "Vienna State Opera",
+    "name_local": "Wiener Staatsoper",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 48.203,
+      "lon": 16.369
+    },
+    "address_vi": "Opernring 2, Quận 1, Vienna",
+    "presentation_short_vi": "Nhà hát opera tân Phục hưng khánh thành năm 1869, một trong những thánh đường âm nhạc danh giá nhất thế giới và nơi tổ chức Dạ vũ Opera Vienna.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.203,16.369",
+      "yandex": "https://yandex.com/maps/?pt=16.369,48.203&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "theatre",
+      "music",
+      "culture",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "at-vienna-vong-quay-riesenrad-prater",
+    "slug": "vong-quay-riesenrad-prater",
+    "region": "at-vienna",
+    "country": "austria",
+    "region_name_vi": "Vienna",
+    "name_vi": "Vòng quay Riesenrad và công viên Prater",
+    "name_en": "Wiener Riesenrad (Prater)",
+    "name_local": "Wiener Riesenrad",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 48.2166,
+      "lon": 16.3958
+    },
+    "address_vi": "Riesenradplatz 1, Công viên Prater, Quận 2, Vienna",
+    "presentation_short_vi": "Vòng quay ngựa gỗ khổng lồ cao 65 m dựng năm 1897, biểu tượng của công viên giải trí Prater và là một trong những đu quay lâu đời nhất còn hoạt động.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.2166,16.3958",
+      "yandex": "https://yandex.com/maps/?pt=16.3958,48.2166&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "amusement",
+      "viewpoint",
+      "iconic",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "at-vienna-bao-tang-lich-su-nghe-thuat",
+    "slug": "bao-tang-lich-su-nghe-thuat",
+    "region": "at-vienna",
+    "country": "austria",
+    "region_name_vi": "Vienna",
+    "name_vi": "Bảo tàng Lịch sử Nghệ thuật",
+    "name_en": "Kunsthistorisches Museum",
+    "name_local": "Kunsthistorisches Museum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 48.2038,
+      "lon": 16.3617
+    },
+    "address_vi": "Maria-Theresien-Platz, Quận 1, Vienna",
+    "presentation_short_vi": "Bảo tàng mỹ thuật tráng lệ với bộ sưu tập hội họa của hoàng gia Habsburg, gồm tác phẩm của Bruegel, Vermeer, Raphael và Caravaggio.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.2038,16.3617",
+      "yandex": "https://yandex.com/maps/?pt=16.3617,48.2038&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "museum",
+      "art",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "at-vienna-toa-thi-chinh-vienna",
+    "slug": "toa-thi-chinh-vienna",
+    "region": "at-vienna",
+    "country": "austria",
+    "region_name_vi": "Vienna",
+    "name_vi": "Tòa thị chính Vienna",
+    "name_en": "Vienna City Hall",
+    "name_local": "Wiener Rathaus",
+    "categories": [
+      "monument",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 48.2108,
+      "lon": 16.3573
+    },
+    "address_vi": "Friedrich-Schmidt-Platz 1, Quận 1, Vienna",
+    "presentation_short_vi": "Tòa thị chính tân Gothic hoàn thành năm 1883 với tháp trung tâm cao 98 m, quảng trường phía trước là nơi diễn ra chợ Giáng sinh và các lễ hội quanh năm.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.2108,16.3573",
+      "yandex": "https://yandex.com/maps/?pt=16.3573,48.2108&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "architecture",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "at-vienna-nha-tho-karlskirche",
+    "slug": "nha-tho-karlskirche",
+    "region": "at-vienna",
+    "country": "austria",
+    "region_name_vi": "Vienna",
+    "name_vi": "Nhà thờ Thánh Charles",
+    "name_en": "Karlskirche (St. Charles Church)",
+    "name_local": "Karlskirche",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 48.1984,
+      "lon": 16.3719
+    },
+    "address_vi": "Karlsplatz, Quận 4, Vienna",
+    "presentation_short_vi": "Kiệt tác Baroque đầu thế kỷ 18 với mái vòm bầu dục và hai cột đắp phù điêu độc đáo lấy cảm hứng từ cột Trajan La Mã, soi bóng xuống hồ nước phía trước.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.1984,16.3719",
+      "yandex": "https://yandex.com/maps/?pt=16.3719,48.1984&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "baroque",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "at-vienna-thap-donauturm",
+    "slug": "thap-donauturm",
+    "region": "at-vienna",
+    "country": "austria",
+    "region_name_vi": "Vienna",
+    "name_vi": "Tháp Sông Danube",
+    "name_en": "Danube Tower",
+    "name_local": "Donauturm",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 48.24,
+      "lon": 16.4108
+    },
+    "address_vi": "Donauturmstraße 4, Donaupark, Quận 22, Vienna",
+    "presentation_short_vi": "Tháp quan sát cao 252 m — công trình cao nhất nước Áo, có đài ngắm cảnh và nhà hàng xoay nhìn toàn cảnh Vienna cùng dòng Danube.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.24,16.4108",
+      "yandex": "https://yandex.com/maps/?pt=16.4108,48.24&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "viewpoint",
+      "observation",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "at-vienna-toa-nha-quoc-hoi-ao",
+    "slug": "toa-nha-quoc-hoi-ao",
+    "region": "at-vienna",
+    "country": "austria",
+    "region_name_vi": "Vienna",
+    "name_vi": "Tòa nhà Quốc hội Áo",
+    "name_en": "Austrian Parliament Building",
+    "name_local": "Parlamentsgebäude",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 48.2082,
+      "lon": 16.3585
+    },
+    "address_vi": "Dr.-Karl-Renner-Ring 3, Quận 1, Vienna",
+    "presentation_short_vi": "Công trình tân cổ điển Hy Lạp khánh thành năm 1883 với đài phun nước nữ thần Pallas Athena phía trước, trụ sở lưỡng viện Quốc hội Áo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.2082,16.3585",
+      "yandex": "https://yandex.com/maps/?pt=16.3585,48.2082&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "architecture",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "at-vienna-nha-hundertwasser",
+    "slug": "nha-hundertwasser",
+    "region": "at-vienna",
+    "country": "austria",
+    "region_name_vi": "Vienna",
+    "name_vi": "Nhà Hundertwasser",
+    "name_en": "Hundertwasserhaus",
+    "name_local": "Hundertwasserhaus",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 48.2076,
+      "lon": 16.394
+    },
+    "address_vi": "Kegelgasse 36-38, Quận 3, Vienna",
+    "presentation_short_vi": "Khu chung cư nghệ thuật do Friedensreich Hundertwasser thiết kế với đường nét lượn sóng, màu sắc rực rỡ và cây xanh mọc trên mái, biểu tượng kiến trúc độc đáo của Vienna.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.2076,16.394",
+      "yandex": "https://yandex.com/maps/?pt=16.394,48.2076&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "architecture",
+      "art",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "at-vienna-cho-naschmarkt",
+    "slug": "cho-naschmarkt",
+    "region": "at-vienna",
+    "country": "austria",
+    "region_name_vi": "Vienna",
+    "name_vi": "Chợ Naschmarkt",
+    "name_en": "Naschmarkt",
+    "name_local": "Naschmarkt",
+    "categories": [
+      "square_street",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 48.1985,
+      "lon": 16.363
+    },
+    "address_vi": "Naschmarkt, Quận 6, Vienna",
+    "presentation_short_vi": "Khu chợ ngoài trời sôi động và nổi tiếng nhất Vienna với hàng trăm quầy gia vị, đặc sản, quán ăn quốc tế và chợ trời cuối tuần.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.1985,16.363",
+      "yandex": "https://yandex.com/maps/?pt=16.363,48.1985&z=16&l=map"
+    },
+    "tags": [
+      "market",
+      "food",
+      "local",
+      "shopping"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  }
+]

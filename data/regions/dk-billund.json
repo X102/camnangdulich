@@ -1,0 +1,342 @@
+[
+  {
+    "id": "dk-billund-legoland",
+    "slug": "legoland",
+    "region": "dk-billund",
+    "country": "denmark",
+    "region_name_vi": "Billund",
+    "name_vi": "Công viên Legoland Billund",
+    "name_en": "Legoland Billund",
+    "name_local": "Legoland Billund",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 55.7356,
+      "lon": 9.1261
+    },
+    "address_vi": "Nordmarksvej, Billund",
+    "presentation_short_vi": "Công viên Legoland đầu tiên trên thế giới (mở cửa 1968) với khu Miniland dựng từ hàng chục triệu viên gạch Lego, tàu lượn và các vùng chủ đề cho gia đình.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.7356,9.1261",
+      "yandex": "https://yandex.com/maps/?pt=9.1261,55.7356&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "family",
+      "theme-park",
+      "lego"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-billund-lego-house",
+    "slug": "lego-house",
+    "region": "dk-billund",
+    "country": "denmark",
+    "region_name_vi": "Billund",
+    "name_vi": "Ngôi nhà LEGO (LEGO House)",
+    "name_en": "LEGO House – Home of the Brick",
+    "name_local": "LEGO House",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 55.731,
+      "lon": 9.1149
+    },
+    "address_vi": "Ole Kirks Plads 1, trung tâm Billund",
+    "presentation_short_vi": "Công trình biểu tượng do kiến trúc sư Bjarke Ingels (BIG) thiết kế, khánh thành 2017, xếp chồng như 21 khối gạch Lego khổng lồ với các khu trải nghiệm sáng tạo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.731,9.1149",
+      "yandex": "https://yandex.com/maps/?pt=9.1149,55.731&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "modern",
+      "architecture",
+      "lego"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-billund-lalandia",
+    "slug": "lalandia",
+    "region": "dk-billund",
+    "country": "denmark",
+    "region_name_vi": "Billund",
+    "name_vi": "Khu nghỉ dưỡng Lalandia Billund",
+    "name_en": "Lalandia Billund",
+    "name_local": "Lalandia i Billund",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 55.7256,
+      "lon": 9.1042
+    },
+    "address_vi": "Ellehammers Allé, Billund",
+    "presentation_short_vi": "Khu nghỉ dưỡng gia đình với Aquadome — công viên nước trong nhà lớn nhất Bắc Âu — cùng sân trượt băng, phố mua sắm và nhà nghỉ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.7256,9.1042",
+      "yandex": "https://yandex.com/maps/?pt=9.1042,55.7256&z=16&l=map"
+    },
+    "tags": [
+      "family",
+      "waterpark",
+      "resort"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-billund-wow-park",
+    "slug": "wow-park",
+    "region": "dk-billund",
+    "country": "denmark",
+    "region_name_vi": "Billund",
+    "name_vi": "Công viên rừng WOW Park Billund",
+    "name_en": "WOW Park Billund",
+    "name_local": "WOW PARK Billund",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 55.7163,
+      "lon": 9.1439
+    },
+    "address_vi": "Havremarken 15, Billund",
+    "presentation_short_vi": "Công viên vui chơi giữa rừng với nhà trên cây, cầu treo, lưới nhún khổng lồ và đường trượt — điểm phiêu lưu ngoài trời cho cả gia đình.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.7163,9.1439",
+      "yandex": "https://yandex.com/maps/?pt=9.1439,55.7163&z=16&l=map"
+    },
+    "tags": [
+      "family",
+      "nature",
+      "adventure"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-billund-givskud-zoo",
+    "slug": "givskud-zoo",
+    "region": "dk-billund",
+    "country": "denmark",
+    "region_name_vi": "Billund",
+    "name_vi": "Vườn thú Givskud (Zootopia)",
+    "name_en": "Givskud Zoo – Zootopia",
+    "name_local": "Givskud Zoo",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 55.8117,
+      "lon": 9.3519
+    },
+    "address_vi": "Løveparkvej, Givskud, phía đông bắc Billund",
+    "presentation_short_vi": "Công viên safari thuộc Legoland Billund Resort, nơi du khách lái xe qua khu thả rông sư tử, voi, tê giác cùng hơn 700 con thú giữa thiên nhiên.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.8117,9.3519",
+      "yandex": "https://yandex.com/maps/?pt=9.3519,55.8117&z=16&l=map"
+    },
+    "tags": [
+      "family",
+      "safari",
+      "zoo"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-billund-teddy-bear-museum",
+    "slug": "teddy-bear-museum",
+    "region": "dk-billund",
+    "country": "denmark",
+    "region_name_vi": "Billund",
+    "name_vi": "Bảo tàng Nghệ thuật Gấu Bông",
+    "name_en": "Teddy Bear Art Museum",
+    "name_local": "Teddy Bear Art Museum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 55.729,
+      "lon": 9.117
+    },
+    "address_vi": "Trung tâm Billund",
+    "presentation_short_vi": "Bảo tàng độc đáo với hàng nghìn chú gấu bông và mô hình nghệ thuật tái hiện các cảnh phim, truyện cổ tích — điểm dừng thú vị gần LEGO House.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.729,9.117",
+      "yandex": "https://yandex.com/maps/?pt=9.117,55.729&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "family",
+      "art"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-billund-billund-kirke",
+    "slug": "billund-kirke",
+    "region": "dk-billund",
+    "country": "denmark",
+    "region_name_vi": "Billund",
+    "name_vi": "Nhà thờ Billund",
+    "name_en": "Billund Church",
+    "name_local": "Billund Kirke",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 55.73,
+      "lon": 9.108
+    },
+    "address_vi": "Trung tâm Billund",
+    "presentation_short_vi": "Nhà thờ giáo xứ của thị trấn Billund, không gian tĩnh lặng giữa khu du lịch sôi động.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.73,9.108",
+      "yandex": "https://yandex.com/maps/?pt=9.108,55.73&z=16&l=map"
+    },
+    "tags": [
+      "church"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-billund-grene-kirke",
+    "slug": "grene-kirke",
+    "region": "dk-billund",
+    "country": "denmark",
+    "region_name_vi": "Billund",
+    "name_vi": "Nhà thờ cổ Grene",
+    "name_en": "Grene Church",
+    "name_local": "Grene Kirke",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 55.7206,
+      "lon": 9.0892
+    },
+    "address_vi": "Grene, phía tây nam Billund",
+    "presentation_short_vi": "Nhà thờ thế kỷ 19 nằm giữa đồng quê yên bình cạnh Billund, là nhà thờ lịch sử của giáo xứ Grene.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.7206,9.0892",
+      "yandex": "https://yandex.com/maps/?pt=9.0892,55.7206&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "history",
+      "countryside"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-billund-randbol-hede",
+    "slug": "randbol-hede",
+    "region": "dk-billund",
+    "country": "denmark",
+    "region_name_vi": "Billund",
+    "name_vi": "Đồng thạch nam Randbøl",
+    "name_en": "Randbøl Heath",
+    "name_local": "Randbøl Hede",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 55.68,
+      "lon": 9.14
+    },
+    "address_vi": "Phía nam Billund, gần Randbøl",
+    "presentation_short_vi": "Một trong những vùng thạch nam nội địa lớn nhất Đan Mạch được bảo tồn, tím rực hoa thạch nam vào cuối hè với lối mòn đi bộ và đạp xe.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.68,9.14",
+      "yandex": "https://yandex.com/maps/?pt=9.14,55.68&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "heath",
+      "hiking"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-billund-grindsted-kirke",
+    "slug": "grindsted-kirke",
+    "region": "dk-billund",
+    "country": "denmark",
+    "region_name_vi": "Billund",
+    "name_vi": "Nhà thờ Grindsted",
+    "name_en": "Grindsted Church",
+    "name_local": "Grindsted Kirke",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 55.7555,
+      "lon": 8.93
+    },
+    "address_vi": "Grindsted, thủ phủ hạt Billund",
+    "presentation_short_vi": "Nhà thờ đá lịch sử của Grindsted — thị trấn lớn nhất hạt Billund — với phần cổ nhất từ thời Trung cổ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.7555,8.93",
+      "yandex": "https://yandex.com/maps/?pt=8.93,55.7555&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-billund-vorbasse",
+    "slug": "vorbasse",
+    "region": "dk-billund",
+    "country": "denmark",
+    "region_name_vi": "Billund",
+    "name_vi": "Thị trấn chợ Vorbasse",
+    "name_en": "Vorbasse",
+    "name_local": "Vorbasse",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 55.6231,
+      "lon": 9.0208
+    },
+    "address_vi": "Vorbasse, phía nam hạt Billund",
+    "presentation_short_vi": "Thị trấn lịch sử nổi tiếng với Hội chợ Vorbasse — một trong những phiên chợ lớn nhất Đan Mạch — cùng các di chỉ khảo cổ thời Viking.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.6231,9.0208",
+      "yandex": "https://yandex.com/maps/?pt=9.0208,55.6231&z=16&l=map"
+    },
+    "tags": [
+      "town",
+      "market",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

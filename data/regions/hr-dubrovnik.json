@@ -1,0 +1,437 @@
+[
+  {
+    "id": "hr-dubrovnik-tuong-thanh-dubrovnik",
+    "slug": "tuong-thanh-dubrovnik",
+    "region": "hr-dubrovnik",
+    "country": "croatia",
+    "region_name_vi": "Dubrovnik",
+    "name_vi": "Tường thành Dubrovnik",
+    "name_en": "Walls of Dubrovnik",
+    "name_local": "Gradske zidine Dubrovnik",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 42.6414,
+      "lon": 18.1075
+    },
+    "address_vi": "Ulica Svetog Dominika, 20000 Dubrovnik, Croatia",
+    "presentation_short_vi": "Hệ thống tường thành đá bao quanh phố cổ dài gần 2 km, gần như nguyên vẹn từ thời trung cổ, có thể đi bộ trọn vòng ngắm biển Adriatic.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=42.6414,18.1075",
+      "yandex": "https://yandex.com/maps/?pt=18.1075,42.6414&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "landmark",
+      "iconic",
+      "unesco"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "hr-dubrovnik-dai-lo-stradun",
+    "slug": "dai-lo-stradun",
+    "region": "hr-dubrovnik",
+    "country": "croatia",
+    "region_name_vi": "Dubrovnik",
+    "name_vi": "Đại lộ Stradun",
+    "name_en": "Stradun",
+    "name_local": "Stradun (Placa)",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 42.6413,
+      "lon": 18.109
+    },
+    "address_vi": "Stradun, 20000 Dubrovnik, Croatia",
+    "presentation_short_vi": "Đại lộ chính lát đá vôi bóng loáng chạy xuyên phố cổ, nối cổng Pile với tháp đồng hồ, hai bên là công trình baroque đồng bộ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=42.6413,18.109",
+      "yandex": "https://yandex.com/maps/?pt=18.109,42.6413&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "street",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "hr-dubrovnik-phao-dai-lovrijenac",
+    "slug": "phao-dai-lovrijenac",
+    "region": "hr-dubrovnik",
+    "country": "croatia",
+    "region_name_vi": "Dubrovnik",
+    "name_vi": "Pháo đài Lovrijenac",
+    "name_en": "Fort Lovrijenac",
+    "name_local": "Tvrđava Lovrijenac",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 42.6407,
+      "lon": 18.1044
+    },
+    "address_vi": "Ulica od Tabakarije 29, 20000 Dubrovnik, Croatia",
+    "presentation_short_vi": "Pháo đài đá sừng sững trên vách đá cao 37 m ngoài tường thành phía tây, được mệnh danh là 'Gibraltar của Dubrovnik'.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=42.6407,18.1044",
+      "yandex": "https://yandex.com/maps/?pt=18.1044,42.6407&z=16&l=map"
+    },
+    "tags": [
+      "fortress",
+      "landmark",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "hr-dubrovnik-phao-dai-minceta",
+    "slug": "phao-dai-minceta",
+    "region": "hr-dubrovnik",
+    "country": "croatia",
+    "region_name_vi": "Dubrovnik",
+    "name_vi": "Pháo đài Minčeta",
+    "name_en": "Minčeta Tower",
+    "name_local": "Tvrđava Minčeta",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 42.6421,
+      "lon": 18.1083
+    },
+    "address_vi": "Peline ul., 20000 Dubrovnik, Croatia",
+    "presentation_short_vi": "Tháp pháo đài tròn đồ sộ ở góc tây bắc tường thành, điểm cao nhất của hệ thống phòng thủ và biểu tượng sức mạnh của Cộng hoà Ragusa.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=42.6421,18.1083",
+      "yandex": "https://yandex.com/maps/?pt=18.1083,42.6421&z=16&l=map"
+    },
+    "tags": [
+      "fortress",
+      "landmark",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "hr-dubrovnik-dinh-tong-tran",
+    "slug": "dinh-tong-tran",
+    "region": "hr-dubrovnik",
+    "country": "croatia",
+    "region_name_vi": "Dubrovnik",
+    "name_vi": "Dinh Tổng trấn",
+    "name_en": "Rector's Palace",
+    "name_local": "Knežev dvor",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 42.6403,
+      "lon": 18.1108
+    },
+    "address_vi": "Ulica Pred Dvorom 3, 20000 Dubrovnik, Croatia",
+    "presentation_short_vi": "Cung điện phong cách gothic–phục hưng từng là nơi ở và làm việc của Tổng trấn Cộng hoà Ragusa, nay là bảo tàng lịch sử thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=42.6403,18.1108",
+      "yandex": "https://yandex.com/maps/?pt=18.1108,42.6403&z=16&l=map"
+    },
+    "tags": [
+      "palace",
+      "museum",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "hr-dubrovnik-cung-dien-sponza",
+    "slug": "cung-dien-sponza",
+    "region": "hr-dubrovnik",
+    "country": "croatia",
+    "region_name_vi": "Dubrovnik",
+    "name_vi": "Cung điện Sponza",
+    "name_en": "Sponza Palace",
+    "name_local": "Palača Sponza",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 42.6414,
+      "lon": 18.1104
+    },
+    "address_vi": "Stradun, 20000 Dubrovnik, Croatia",
+    "presentation_short_vi": "Cung điện thế kỷ 16 pha trộn gothic và phục hưng, từng là hải quan và xưởng đúc tiền, nay lưu giữ kho lưu trữ quốc gia.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=42.6414,18.1104",
+      "yandex": "https://yandex.com/maps/?pt=18.1104,42.6414&z=16&l=map"
+    },
+    "tags": [
+      "palace",
+      "historic",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "hr-dubrovnik-nha-tho-chinh-toa-dubrovnik",
+    "slug": "nha-tho-chinh-toa-dubrovnik",
+    "region": "hr-dubrovnik",
+    "country": "croatia",
+    "region_name_vi": "Dubrovnik",
+    "name_vi": "Nhà thờ chính toà Dubrovnik",
+    "name_en": "Dubrovnik Cathedral",
+    "name_local": "Katedrala Marijina Uznesenja",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 42.6398,
+      "lon": 18.1107
+    },
+    "address_vi": "Ulica kneza Damjana Jude 1, 20000 Dubrovnik, Croatia",
+    "presentation_short_vi": "Nhà thờ chính toà baroque thờ Đức Mẹ Lên Trời, lưu giữ kho báu thánh tích quý và các bức hoạ của trường phái Ý.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=42.6398,18.1107",
+      "yandex": "https://yandex.com/maps/?pt=18.1107,42.6398&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "historic",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "hr-dubrovnik-nha-tho-thanh-blaise",
+    "slug": "nha-tho-thanh-blaise",
+    "region": "hr-dubrovnik",
+    "country": "croatia",
+    "region_name_vi": "Dubrovnik",
+    "name_vi": "Nhà thờ Thánh Blaise",
+    "name_en": "Church of St. Blaise",
+    "name_local": "Crkva svetog Vlaha",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 42.6408,
+      "lon": 18.1102
+    },
+    "address_vi": "Luža ul., 20000 Dubrovnik, Croatia",
+    "presentation_short_vi": "Nhà thờ baroque thờ thánh bảo trợ Blaise của Dubrovnik, nổi bật với mặt tiền trang trí công phu và tượng thánh cầm mô hình thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=42.6408,18.1102",
+      "yandex": "https://yandex.com/maps/?pt=18.1102,42.6408&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "landmark",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "hr-dubrovnik-tu-vien-phanxico",
+    "slug": "tu-vien-phanxico",
+    "region": "hr-dubrovnik",
+    "country": "croatia",
+    "region_name_vi": "Dubrovnik",
+    "name_vi": "Tu viện Phanxicô",
+    "name_en": "Franciscan Monastery",
+    "name_local": "Franjevački samostan",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 42.6416,
+      "lon": 18.1083
+    },
+    "address_vi": "Placa 2, 20000 Dubrovnik, Croatia",
+    "presentation_short_vi": "Tu viện có hành lang romanesque–gothic và một trong những hiệu thuốc lâu đời nhất châu Âu, hoạt động liên tục từ năm 1317.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=42.6416,18.1083",
+      "yandex": "https://yandex.com/maps/?pt=18.1083,42.6416&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "monastery",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "hr-dubrovnik-dai-phun-nuoc-onofrio",
+    "slug": "dai-phun-nuoc-onofrio",
+    "region": "hr-dubrovnik",
+    "country": "croatia",
+    "region_name_vi": "Dubrovnik",
+    "name_vi": "Đài phun nước Onofrio",
+    "name_en": "Onofrio's Fountain",
+    "name_local": "Velika Onofrijeva fontana",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 42.6413,
+      "lon": 18.1071
+    },
+    "address_vi": "Poljana Paska Miličevića, 20000 Dubrovnik, Croatia",
+    "presentation_short_vi": "Đài phun nước tròn lớn xây năm 1438, điểm cuối của hệ thống dẫn nước cổ, nằm ngay bên trong cổng Pile.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=42.6413,18.1071",
+      "yandex": "https://yandex.com/maps/?pt=18.1071,42.6413&z=16&l=map"
+    },
+    "tags": [
+      "monument",
+      "historic",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "hr-dubrovnik-cong-pile",
+    "slug": "cong-pile",
+    "region": "hr-dubrovnik",
+    "country": "croatia",
+    "region_name_vi": "Dubrovnik",
+    "name_vi": "Cổng Pile",
+    "name_en": "Pile Gate",
+    "name_local": "Gradska vrata Pile",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 42.6417,
+      "lon": 18.1064
+    },
+    "address_vi": "Brsalje ul., 20000 Dubrovnik, Croatia",
+    "presentation_short_vi": "Cổng thành chính phía tây dẫn vào phố cổ qua cầu đá và cầu kéo, cửa ngõ lịch sử tấp nập nhất của Dubrovnik.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=42.6417,18.1064",
+      "yandex": "https://yandex.com/maps/?pt=18.1064,42.6417&z=16&l=map"
+    },
+    "tags": [
+      "gate",
+      "landmark",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "hr-dubrovnik-nui-srd",
+    "slug": "nui-srd",
+    "region": "hr-dubrovnik",
+    "country": "croatia",
+    "region_name_vi": "Dubrovnik",
+    "name_vi": "Núi Srđ",
+    "name_en": "Mount Srđ",
+    "name_local": "Brdo Srđ",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 42.6466,
+      "lon": 18.1108
+    },
+    "address_vi": "Srđ, 20000 Dubrovnik, Croatia",
+    "presentation_short_vi": "Ngọn núi cao 412 m sau lưng phố cổ với pháo đài Imperial và tầm nhìn toàn cảnh Dubrovnik cùng biển Adriatic, lên đỉnh bằng cáp treo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=42.6466,18.1108",
+      "yandex": "https://yandex.com/maps/?pt=18.1108,42.6466&z=16&l=map"
+    },
+    "tags": [
+      "viewpoint",
+      "scenic",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "hr-dubrovnik-dao-lokrum",
+    "slug": "dao-lokrum",
+    "region": "hr-dubrovnik",
+    "country": "croatia",
+    "region_name_vi": "Dubrovnik",
+    "name_vi": "Đảo Lokrum",
+    "name_en": "Lokrum Island",
+    "name_local": "Otok Lokrum",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 42.6247,
+      "lon": 18.1213
+    },
+    "address_vi": "Otok Lokrum, 20000 Dubrovnik, Croatia",
+    "presentation_short_vi": "Đảo tự nhiên xanh mướt cách phố cổ 15 phút đi thuyền, với tu viện Biển Đức cổ, vườn bách thảo và hồ nước mặn 'Biển Chết'.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=42.6247,18.1213",
+      "yandex": "https://yandex.com/maps/?pt=18.1213,42.6247&z=16&l=map"
+    },
+    "tags": [
+      "island",
+      "nature",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "hr-dubrovnik-cap-treo-dubrovnik",
+    "slug": "cap-treo-dubrovnik",
+    "region": "hr-dubrovnik",
+    "country": "croatia",
+    "region_name_vi": "Dubrovnik",
+    "name_vi": "Cáp treo Dubrovnik",
+    "name_en": "Dubrovnik Cable Car",
+    "name_local": "Dubrovačka žičara",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 42.6437,
+      "lon": 18.112
+    },
+    "address_vi": "Ulica kralja Petra Krešimira IV, 20000 Dubrovnik, Croatia",
+    "presentation_short_vi": "Tuyến cáp treo hiện đại đưa du khách từ rìa phố cổ lên đỉnh núi Srđ trong vài phút để ngắm toàn cảnh thành phố và biển.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=42.6437,18.112",
+      "yandex": "https://yandex.com/maps/?pt=18.112,42.6437&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "viewpoint",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

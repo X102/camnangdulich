@@ -1,0 +1,378 @@
+[
+  {
+    "id": "it-venice-vuong-cung-thanh-duong-thanh-macco",
+    "slug": "vuong-cung-thanh-duong-thanh-macco",
+    "region": "it-venice",
+    "country": "italy",
+    "region_name_vi": "Venezia",
+    "name_vi": "Vương cung thánh đường Thánh Máccô",
+    "name_en": "St Mark's Basilica",
+    "name_local": "Basilica di San Marco",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 45.4345,
+      "lon": 12.3397
+    },
+    "address_vi": "Piazza San Marco 328, 30124 Venezia, Ý",
+    "presentation_short_vi": "Vương cung thánh đường Thánh Máccô là nhà thờ chính của Venezia, kiệt tác kiến trúc Byzantine lộng lẫy với mái vòm dát vàng và những bức tranh khảm tinh xảo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=45.4345,12.3397",
+      "yandex": "https://yandex.com/maps/?pt=12.3397,45.4345&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "landmark",
+      "iconic",
+      "church"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-venice-quang-truong-thanh-macco",
+    "slug": "quang-truong-thanh-macco",
+    "region": "it-venice",
+    "country": "italy",
+    "region_name_vi": "Venezia",
+    "name_vi": "Quảng trường Thánh Máccô",
+    "name_en": "St Mark's Square",
+    "name_local": "Piazza San Marco",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 45.4341,
+      "lon": 12.3388
+    },
+    "address_vi": "Piazza San Marco, 30124 Venezia, Ý",
+    "presentation_short_vi": "Quảng trường lớn và nổi tiếng nhất Venezia, được Napoléon ca ngợi là phòng khách đẹp nhất châu Âu, bao quanh bởi những công trình lịch sử và quán cà phê cổ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=45.4341,12.3388",
+      "yandex": "https://yandex.com/maps/?pt=12.3388,45.4341&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "landmark",
+      "iconic",
+      "square"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-venice-cung-dien-tong-tran",
+    "slug": "cung-dien-tong-tran",
+    "region": "it-venice",
+    "country": "italy",
+    "region_name_vi": "Venezia",
+    "name_vi": "Cung điện Tổng trấn",
+    "name_en": "Doge's Palace",
+    "name_local": "Palazzo Ducale",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 45.4337,
+      "lon": 12.3405
+    },
+    "address_vi": "Piazza San Marco 1, 30124 Venezia, Ý",
+    "presentation_short_vi": "Cung điện Gothic tráng lệ từng là nơi ở của các Tổng trấn và trung tâm quyền lực của Cộng hòa Venezia, nay là bảo tàng nổi tiếng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=45.4337,12.3405",
+      "yandex": "https://yandex.com/maps/?pt=12.3405,45.4337&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "landmark",
+      "palace",
+      "museum"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-venice-cau-rialto",
+    "slug": "cau-rialto",
+    "region": "it-venice",
+    "country": "italy",
+    "region_name_vi": "Venezia",
+    "name_vi": "Cầu Rialto",
+    "name_en": "Rialto Bridge",
+    "name_local": "Ponte di Rialto",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 45.438,
+      "lon": 12.3359
+    },
+    "address_vi": "Sestiere San Polo, 30125 Venezia, Ý",
+    "presentation_short_vi": "Cây cầu đá cổ nhất và biểu tượng bắc qua Kênh Lớn, hoàn thành năm 1591 với dãy cửa hàng sầm uất hai bên.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=45.438,12.3359",
+      "yandex": "https://yandex.com/maps/?pt=12.3359,45.438&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "landmark",
+      "iconic",
+      "bridge"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-venice-thap-chuong-thanh-macco",
+    "slug": "thap-chuong-thanh-macco",
+    "region": "it-venice",
+    "country": "italy",
+    "region_name_vi": "Venezia",
+    "name_vi": "Tháp chuông Thánh Máccô",
+    "name_en": "St Mark's Campanile",
+    "name_local": "Campanile di San Marco",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 45.4341,
+      "lon": 12.3387
+    },
+    "address_vi": "Piazza San Marco, 30124 Venezia, Ý",
+    "presentation_short_vi": "Tháp chuông cao gần 99 m bên quảng trường Thánh Máccô, đài quan sát tuyệt đẹp toàn cảnh thành phố và đầm phá Venezia.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=45.4341,12.3387",
+      "yandex": "https://yandex.com/maps/?pt=12.3387,45.4341&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "viewpoint",
+      "tower"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-venice-cau-than-tho",
+    "slug": "cau-than-tho",
+    "region": "it-venice",
+    "country": "italy",
+    "region_name_vi": "Venezia",
+    "name_vi": "Cầu Than Thở",
+    "name_en": "Bridge of Sighs",
+    "name_local": "Ponte dei Sospiri",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 45.4341,
+      "lon": 12.3409
+    },
+    "address_vi": "Piazza San Marco 1, 30124 Venezia, Ý",
+    "presentation_short_vi": "Cây cầu vòm đá vôi trắng thế kỷ 17 nối Cung điện Tổng trấn với nhà tù cũ, gắn với truyền thuyết lãng mạn và những tiếng thở dài của tù nhân.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=45.4341,12.3409",
+      "yandex": "https://yandex.com/maps/?pt=12.3409,45.4341&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "iconic",
+      "bridge"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-venice-kenh-lon",
+    "slug": "kenh-lon",
+    "region": "it-venice",
+    "country": "italy",
+    "region_name_vi": "Venezia",
+    "name_vi": "Kênh Lớn",
+    "name_en": "Grand Canal",
+    "name_local": "Canal Grande",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 45.4404,
+      "lon": 12.3325
+    },
+    "address_vi": "Canal Grande, Venezia, Ý",
+    "presentation_short_vi": "Tuyến kênh chính hình chữ S dài gần 4 km xuyên qua trung tâm Venezia, hai bên là hàng trăm dinh thự cổ, đi lại bằng thuyền gondola và vaporetto.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=45.4404,12.3325",
+      "yandex": "https://yandex.com/maps/?pt=12.3325,45.4404&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "landmark",
+      "scenic",
+      "canal"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-venice-santa-maria-della-salute",
+    "slug": "santa-maria-della-salute",
+    "region": "it-venice",
+    "country": "italy",
+    "region_name_vi": "Venezia",
+    "name_vi": "Vương cung thánh đường Santa Maria della Salute",
+    "name_en": "Santa Maria della Salute",
+    "name_local": "Basilica di Santa Maria della Salute",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 45.4306,
+      "lon": 12.3347
+    },
+    "address_vi": "Dorsoduro 1, 30123 Venezia, Ý",
+    "presentation_short_vi": "Nhà thờ Baroque mái vòm trắng nổi bật ở cửa Kênh Lớn, xây để tạ ơn thoát khỏi dịch hạch năm 1630.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=45.4306,12.3347",
+      "yandex": "https://yandex.com/maps/?pt=12.3347,45.4306&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "church",
+      "baroque"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-venice-bao-tang-accademia",
+    "slug": "bao-tang-accademia",
+    "region": "it-venice",
+    "country": "italy",
+    "region_name_vi": "Venezia",
+    "name_vi": "Bảo tàng Accademia",
+    "name_en": "Gallerie dell'Accademia",
+    "name_local": "Gallerie dell'Accademia",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 45.4314,
+      "lon": 12.328
+    },
+    "address_vi": "Campo della Carità, Dorsoduro 1050, 30123 Venezia, Ý",
+    "presentation_short_vi": "Bảo tàng nghệ thuật hàng đầu lưu giữ bộ sưu tập hội họa Venezia từ thế kỷ 14 đến 18, gồm tác phẩm của Titian, Tintoretto và Bellini.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=45.4314,12.328",
+      "yandex": "https://yandex.com/maps/?pt=12.328,45.4314&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "art"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-venice-nha-hat-la-fenice",
+    "slug": "nha-hat-la-fenice",
+    "region": "it-venice",
+    "country": "italy",
+    "region_name_vi": "Venezia",
+    "name_vi": "Nhà hát La Fenice",
+    "name_en": "La Fenice",
+    "name_local": "Teatro La Fenice",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 45.4337,
+      "lon": 12.3339
+    },
+    "address_vi": "Campo San Fantin 1965, 30124 Venezia, Ý",
+    "presentation_short_vi": "Một trong những nhà hát opera danh giá nhất châu Âu, nhiều lần cháy rồi hồi sinh như phượng hoàng, nơi công diễn các kiệt tác của Verdi.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=45.4337,12.3339",
+      "yandex": "https://yandex.com/maps/?pt=12.3339,45.4337&z=16&l=map"
+    },
+    "tags": [
+      "theatre",
+      "opera",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-venice-dao-burano",
+    "slug": "dao-burano",
+    "region": "it-venice",
+    "country": "italy",
+    "region_name_vi": "Venezia",
+    "name_vi": "Đảo Burano",
+    "name_en": "Burano",
+    "name_local": "Burano",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 45.4853,
+      "lon": 12.4166
+    },
+    "address_vi": "Isola di Burano, 30142 Venezia, Ý",
+    "presentation_short_vi": "Hòn đảo chài lưới nổi tiếng với những ngôi nhà sơn màu rực rỡ và nghề ren truyền thống, nằm ở phía bắc đầm phá Venezia.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=45.4853,12.4166",
+      "yandex": "https://yandex.com/maps/?pt=12.4166,45.4853&z=16&l=map"
+    },
+    "tags": [
+      "scenic",
+      "island",
+      "colorful"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-venice-dao-murano",
+    "slug": "dao-murano",
+    "region": "it-venice",
+    "country": "italy",
+    "region_name_vi": "Venezia",
+    "name_vi": "Đảo Murano",
+    "name_en": "Murano",
+    "name_local": "Murano",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 45.459,
+      "lon": 12.3517
+    },
+    "address_vi": "Isola di Murano, 30141 Venezia, Ý",
+    "presentation_short_vi": "Quần đảo nổi danh thế giới về nghề thổi thủy tinh thủ công hàng thế kỷ, với các xưởng chế tác và bảo tàng thủy tinh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=45.459,12.3517",
+      "yandex": "https://yandex.com/maps/?pt=12.3517,45.459&z=16&l=map"
+    },
+    "tags": [
+      "scenic",
+      "island",
+      "glass"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

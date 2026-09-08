@@ -1,0 +1,383 @@
+[
+  {
+    "id": "es-barcelona-sagrada-familia",
+    "slug": "sagrada-familia",
+    "region": "es-barcelona",
+    "country": "spain",
+    "region_name_vi": "Barcelona",
+    "name_vi": "Nhà thờ Sagrada Família",
+    "name_en": "Sagrada Família",
+    "name_local": "Basílica de la Sagrada Família",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 41.4036,
+      "lon": 2.1744
+    },
+    "address_vi": "Carrer de Mallorca 401, 08013 Barcelona, Tây Ban Nha",
+    "presentation_short_vi": "Vương cung thánh đường kỳ vĩ của Antoni Gaudí, khởi công năm 1882 và vẫn đang xây dở, di sản UNESCO và biểu tượng của Barcelona.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=41.4036,2.1744",
+      "yandex": "https://yandex.com/maps/?pt=2.1744,41.4036&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "landmark",
+      "iconic",
+      "unesco",
+      "gaudi",
+      "church"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "es-barcelona-cong-vien-guell",
+    "slug": "cong-vien-guell",
+    "region": "es-barcelona",
+    "country": "spain",
+    "region_name_vi": "Barcelona",
+    "name_vi": "Công viên Güell",
+    "name_en": "Park Güell",
+    "name_local": "Park Güell",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 41.4145,
+      "lon": 2.1527
+    },
+    "address_vi": "Carrer d'Olot 5, 08024 Barcelona, Tây Ban Nha",
+    "presentation_short_vi": "Công viên nghệ thuật của Gaudí với những đường cong khảm gốm sặc sỡ, di sản UNESCO nhìn toàn cảnh thành phố ra biển.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=41.4145,2.1527",
+      "yandex": "https://yandex.com/maps/?pt=2.1527,41.4145&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "landmark",
+      "unesco",
+      "gaudi",
+      "park"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "es-barcelona-casa-batllo",
+    "slug": "casa-batllo",
+    "region": "es-barcelona",
+    "country": "spain",
+    "region_name_vi": "Barcelona",
+    "name_vi": "Casa Batlló",
+    "name_en": "Casa Batlló",
+    "name_local": "Casa Batlló",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 41.3916,
+      "lon": 2.1649
+    },
+    "address_vi": "Passeig de Gràcia 43, 08007 Barcelona, Tây Ban Nha",
+    "presentation_short_vi": "Kiệt tác kiến trúc hiện đại của Gaudí với mặt tiền lượn sóng và ban công hình xương, di sản UNESCO trên đại lộ Passeig de Gràcia.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=41.3916,2.1649",
+      "yandex": "https://yandex.com/maps/?pt=2.1649,41.3916&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "unesco",
+      "gaudi",
+      "modernist"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "es-barcelona-casa-mila",
+    "slug": "casa-mila",
+    "region": "es-barcelona",
+    "country": "spain",
+    "region_name_vi": "Barcelona",
+    "name_vi": "Casa Milà (La Pedrera)",
+    "name_en": "Casa Milà",
+    "name_local": "Casa Milà",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 41.3953,
+      "lon": 2.1619
+    },
+    "address_vi": "Passeig de Gràcia 92, 08008 Barcelona, Tây Ban Nha",
+    "presentation_short_vi": "Toà nhà đá uốn lượn còn gọi La Pedrera do Gaudí thiết kế, nổi tiếng với sân thượng đầy ống khói điêu khắc, di sản UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=41.3953,2.1619",
+      "yandex": "https://yandex.com/maps/?pt=2.1619,41.3953&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "unesco",
+      "gaudi",
+      "modernist"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "es-barcelona-dai-lo-la-rambla",
+    "slug": "dai-lo-la-rambla",
+    "region": "es-barcelona",
+    "country": "spain",
+    "region_name_vi": "Barcelona",
+    "name_vi": "Đại lộ La Rambla",
+    "name_en": "La Rambla",
+    "name_local": "La Rambla",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 41.3797,
+      "lon": 2.1746
+    },
+    "address_vi": "La Rambla, 08002 Barcelona, Tây Ban Nha",
+    "presentation_short_vi": "Đại lộ đi bộ sầm uất dài 1,2 km nối Plaça de Catalunya ra bến cảng, đầy quán xá, nghệ sĩ đường phố và chợ Boqueria.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=41.3797,2.1746",
+      "yandex": "https://yandex.com/maps/?pt=2.1746,41.3797&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "landmark",
+      "street",
+      "promenade"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "es-barcelona-nha-tho-chinh-toa-barcelona",
+    "slug": "nha-tho-chinh-toa-barcelona",
+    "region": "es-barcelona",
+    "country": "spain",
+    "region_name_vi": "Barcelona",
+    "name_vi": "Nhà thờ chính tòa Barcelona",
+    "name_en": "Barcelona Cathedral",
+    "name_local": "Catedral de Barcelona",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 41.3839,
+      "lon": 2.1762
+    },
+    "address_vi": "Pla de la Seu, 08002 Barcelona, Tây Ban Nha",
+    "presentation_short_vi": "Nhà thờ Gothic thế kỷ 13-15 ở trung tâm Khu phố Gothic, nổi bật với mặt tiền chạm trổ và khoảnh sân nuôi 13 con ngỗng trắng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=41.3839,2.1762",
+      "yandex": "https://yandex.com/maps/?pt=2.1762,41.3839&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "church",
+      "gothic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "es-barcelona-khu-pho-gothic",
+    "slug": "khu-pho-gothic",
+    "region": "es-barcelona",
+    "country": "spain",
+    "region_name_vi": "Barcelona",
+    "name_vi": "Khu phố Gothic",
+    "name_en": "Gothic Quarter",
+    "name_local": "Barri Gòtic",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 41.3833,
+      "lon": 2.177
+    },
+    "address_vi": "Barri Gòtic, Ciutat Vella, 08002 Barcelona, Tây Ban Nha",
+    "presentation_short_vi": "Khu phố cổ nhất Barcelona với mê cung ngõ hẹp thời trung cổ, quảng trường lịch sử và di tích La Mã còn sót lại.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=41.3833,2.177",
+      "yandex": "https://yandex.com/maps/?pt=2.177,41.3833&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "old-town",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "es-barcelona-san-van-dong-camp-nou",
+    "slug": "san-van-dong-camp-nou",
+    "region": "es-barcelona",
+    "country": "spain",
+    "region_name_vi": "Barcelona",
+    "name_vi": "Sân vận động Camp Nou",
+    "name_en": "Camp Nou",
+    "name_local": "Spotify Camp Nou",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 41.3809,
+      "lon": 2.1228
+    },
+    "address_vi": "C. d'Arístides Maillol 12, 08028 Barcelona, Tây Ban Nha",
+    "presentation_short_vi": "Sân nhà của FC Barcelona và là sân vận động lớn nhất châu Âu, cùng bảo tàng câu lạc bộ thu hút hàng triệu du khách.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=41.3809,2.1228",
+      "yandex": "https://yandex.com/maps/?pt=2.1228,41.3809&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "stadium",
+      "football",
+      "modern"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "es-barcelona-lau-dai-montjuic",
+    "slug": "lau-dai-montjuic",
+    "region": "es-barcelona",
+    "country": "spain",
+    "region_name_vi": "Barcelona",
+    "name_vi": "Lâu đài Montjuïc",
+    "name_en": "Montjuïc Castle",
+    "name_local": "Castell de Montjuïc",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 41.3634,
+      "lon": 2.1659
+    },
+    "address_vi": "Ctra. de Montjuïc 66, 08038 Barcelona, Tây Ban Nha",
+    "presentation_short_vi": "Pháo đài quân sự thế kỷ 17 trên đỉnh đồi Montjuïc, nay là điểm ngắm toàn cảnh thành phố và cảng biển tuyệt đẹp.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=41.3634,2.1659",
+      "yandex": "https://yandex.com/maps/?pt=2.1659,41.3634&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "fortress",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "es-barcelona-cung-am-nhac-catalana",
+    "slug": "cung-am-nhac-catalana",
+    "region": "es-barcelona",
+    "country": "spain",
+    "region_name_vi": "Barcelona",
+    "name_vi": "Cung Âm nhạc Catalana",
+    "name_en": "Palau de la Música Catalana",
+    "name_local": "Palau de la Música Catalana",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 41.3875,
+      "lon": 2.175
+    },
+    "address_vi": "C/ Palau de la Música 4-6, 08003 Barcelona, Tây Ban Nha",
+    "presentation_short_vi": "Phòng hòa nhạc theo phong cách Modernisme rực rỡ do Domènech i Montaner thiết kế, di sản UNESCO với mái kính màu lộng lẫy.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=41.3875,2.175",
+      "yandex": "https://yandex.com/maps/?pt=2.175,41.3875&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "unesco",
+      "concert-hall",
+      "modernist"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "es-barcelona-bao-tang-picasso",
+    "slug": "bao-tang-picasso",
+    "region": "es-barcelona",
+    "country": "spain",
+    "region_name_vi": "Barcelona",
+    "name_vi": "Bảo tàng Picasso",
+    "name_en": "Picasso Museum",
+    "name_local": "Museu Picasso",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 41.3851,
+      "lon": 2.1808
+    },
+    "address_vi": "C/ Montcada 15-23, 08003 Barcelona, Tây Ban Nha",
+    "presentation_short_vi": "Bảo tàng lưu giữ bộ sưu tập lớn nhất các tác phẩm thời trẻ của Picasso, đặt trong dãy dinh thự đá thời trung cổ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=41.3851,2.1808",
+      "yandex": "https://yandex.com/maps/?pt=2.1808,41.3851&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "art"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "es-barcelona-bai-bien-barceloneta",
+    "slug": "bai-bien-barceloneta",
+    "region": "es-barcelona",
+    "country": "spain",
+    "region_name_vi": "Barcelona",
+    "name_vi": "Bãi biển Barceloneta",
+    "name_en": "Barceloneta Beach",
+    "name_local": "Platja de la Barceloneta",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 41.3785,
+      "lon": 2.1925
+    },
+    "address_vi": "Passeig Marítim de la Barceloneta, 08003 Barcelona, Tây Ban Nha",
+    "presentation_short_vi": "Bãi biển thành phố nổi tiếng nhất Barcelona với bờ cát rộng, hàng dừa và các quán hải sản ven biển sôi động.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=41.3785,2.1925",
+      "yandex": "https://yandex.com/maps/?pt=2.1925,41.3785&z=16&l=map"
+    },
+    "tags": [
+      "beach",
+      "scenic",
+      "seaside"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

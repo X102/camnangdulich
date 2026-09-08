@@ -1,0 +1,399 @@
+[
+  {
+    "id": "us-colorado-rocky-mountain-national-park",
+    "slug": "rocky-mountain-national-park",
+    "region": "us-colorado",
+    "country": "usa",
+    "region_name_vi": "Colorado",
+    "name_vi": "Vườn Quốc gia Rocky Mountain",
+    "name_en": "Rocky Mountain National Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 40.3428,
+      "lon": -105.6836
+    },
+    "address_vi": "Hạt Larimer & Grand, phía bắc bang Colorado",
+    "presentation_short_vi": "Vườn quốc gia nổi tiếng với các đỉnh núi cao trên 4.000 m, hồ băng và cung đường Trail Ridge Road ngoạn mục. Là nơi lý tưởng để ngắm hươu nai, đi bộ đường dài và chiêm ngưỡng dãy Rocky hùng vĩ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=40.3428,-105.6836",
+      "yandex": "https://yandex.com/maps/?pt=-105.6836,40.3428&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "mountain",
+      "national-park",
+      "top",
+      "hiking"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-colorado-garden-of-the-gods",
+    "slug": "garden-of-the-gods",
+    "region": "us-colorado",
+    "country": "usa",
+    "region_name_vi": "Colorado",
+    "name_vi": "Công viên Garden of the Gods (Vườn của các vị Thần)",
+    "name_en": "Garden of the Gods",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 38.8783,
+      "lon": -104.8694
+    },
+    "address_vi": "Thành phố Colorado Springs, bang Colorado",
+    "presentation_short_vi": "Công viên tự nhiên với những khối đá sa thạch đỏ khổng lồ nhô lên giữa nền trời, tương phản với đỉnh Pikes Peak phía xa. Vào cửa miễn phí và là điểm leo núi, đạp xe được yêu thích.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.8783,-104.8694",
+      "yandex": "https://yandex.com/maps/?pt=-104.8694,38.8783&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "rock",
+      "park",
+      "free",
+      "colorado-springs"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-colorado-mesa-verde-national-park",
+    "slug": "mesa-verde-national-park",
+    "region": "us-colorado",
+    "country": "usa",
+    "region_name_vi": "Colorado",
+    "name_vi": "Vườn Quốc gia Mesa Verde",
+    "name_en": "Mesa Verde National Park",
+    "name_local": "",
+    "categories": [
+      "monument",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 37.2309,
+      "lon": -108.4618
+    },
+    "address_vi": "Hạt Montezuma, tây nam bang Colorado",
+    "presentation_short_vi": "Di sản Thế giới UNESCO bảo tồn hàng trăm công trình nhà đá của người Pueblo cổ, nổi bật là 'Cliff Palace' xây trong hốc vách đá. Minh chứng sống động cho nền văn minh bản địa hơn 700 năm trước.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.2309,-108.4618",
+      "yandex": "https://yandex.com/maps/?pt=-108.4618,37.2309&z=16&l=map"
+    },
+    "tags": [
+      "history",
+      "unesco",
+      "archaeology",
+      "native-american",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-colorado-pikes-peak",
+    "slug": "pikes-peak",
+    "region": "us-colorado",
+    "country": "usa",
+    "region_name_vi": "Colorado",
+    "name_vi": "Đỉnh Pikes Peak",
+    "name_en": "Pikes Peak",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 38.8409,
+      "lon": -105.0423
+    },
+    "address_vi": "Rừng Quốc gia Pike, gần Colorado Springs, bang Colorado",
+    "presentation_short_vi": "Ngọn núi cao 4.302 m thuộc dãy Front Range, có thể lên đỉnh bằng đường ô tô hoặc tàu răng cưa Cog Railway. Khung cảnh từ đỉnh đã truyền cảm hứng cho bài hát 'America the Beautiful'.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.8409,-105.0423",
+      "yandex": "https://yandex.com/maps/?pt=-105.0423,38.8409&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "mountain",
+      "summit",
+      "railway",
+      "colorado-springs"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-colorado-red-rocks-amphitheatre",
+    "slug": "red-rocks-amphitheatre",
+    "region": "us-colorado",
+    "country": "usa",
+    "region_name_vi": "Colorado",
+    "name_vi": "Nhà hát ngoài trời Red Rocks",
+    "name_en": "Red Rocks Amphitheatre",
+    "name_local": "",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 39.6654,
+      "lon": -105.2057
+    },
+    "address_vi": "Thị trấn Morrison, gần Denver, bang Colorado",
+    "presentation_short_vi": "Nhà hát ngoài trời tự nhiên nằm giữa hai khối đá đỏ khổng lồ, nổi tiếng thế giới về âm thanh và các buổi hòa nhạc. Cũng là công viên và điểm tập luyện thể thao được ưa chuộng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=39.6654,-105.2057",
+      "yandex": "https://yandex.com/maps/?pt=-105.2057,39.6654&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "concert",
+      "music",
+      "nature",
+      "denver"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-colorado-great-sand-dunes-national-park",
+    "slug": "great-sand-dunes-national-park",
+    "region": "us-colorado",
+    "country": "usa",
+    "region_name_vi": "Colorado",
+    "name_vi": "Vườn Quốc gia Great Sand Dunes (Cồn cát Lớn)",
+    "name_en": "Great Sand Dunes National Park and Preserve",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 37.7929,
+      "lon": -105.5943
+    },
+    "address_vi": "Hạt Saguache & Alamosa, nam-trung bang Colorado",
+    "presentation_short_vi": "Nơi có những cồn cát cao nhất Bắc Mỹ (tới 230 m) nằm dưới chân dãy núi Sangre de Cristo. Du khách có thể trượt cát, lội suối Medano và ngắm bầu trời sao tuyệt đẹp.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.7929,-105.5943",
+      "yandex": "https://yandex.com/maps/?pt=-105.5943,37.7929&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "sand-dunes",
+      "national-park",
+      "top",
+      "stargazing"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-colorado-denver-art-museum",
+    "slug": "denver-art-museum",
+    "region": "us-colorado",
+    "country": "usa",
+    "region_name_vi": "Colorado",
+    "name_vi": "Bảo tàng Nghệ thuật Denver",
+    "name_en": "Denver Art Museum",
+    "name_local": "",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 39.7372,
+      "lon": -104.9893
+    },
+    "address_vi": "Trung tâm thành phố Denver, bang Colorado",
+    "presentation_short_vi": "Một trong những bảo tàng nghệ thuật lớn nhất vùng Rocky Mountain, nổi bật với bộ sưu tập nghệ thuật thổ dân châu Mỹ và tòa nhà Hamilton kiến trúc góc cạnh táo bạo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=39.7372,-104.9893",
+      "yandex": "https://yandex.com/maps/?pt=-104.9893,39.7372&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "art",
+      "modern",
+      "denver",
+      "culture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-colorado-maroon-bells",
+    "slug": "maroon-bells",
+    "region": "us-colorado",
+    "country": "usa",
+    "region_name_vi": "Colorado",
+    "name_vi": "Đỉnh Maroon Bells",
+    "name_en": "Maroon Bells",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 39.0708,
+      "lon": -106.989
+    },
+    "address_vi": "Gần Aspen, Rừng Quốc gia White River, bang Colorado",
+    "presentation_short_vi": "Cặp đỉnh núi màu nâu đỏ soi bóng xuống hồ Maroon Lake, được xem là cảnh núi được chụp ảnh nhiều nhất Bắc Mỹ. Rực rỡ nhất vào mùa thu khi rừng cây dương chuyển vàng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=39.0708,-106.989",
+      "yandex": "https://yandex.com/maps/?pt=-106.989,39.0708&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "mountain",
+      "lake",
+      "photography",
+      "aspen"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-colorado-molly-brown-house-museum",
+    "slug": "molly-brown-house-museum",
+    "region": "us-colorado",
+    "country": "usa",
+    "region_name_vi": "Colorado",
+    "name_vi": "Bảo tàng Nhà Molly Brown",
+    "name_en": "Molly Brown House Museum",
+    "name_local": "",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 39.7376,
+      "lon": -104.9803
+    },
+    "address_vi": "Phố Pennsylvania, thành phố Denver, bang Colorado",
+    "presentation_short_vi": "Ngôi nhà lịch sử của bà Margaret 'Molly' Brown — người sống sót nổi tiếng trên tàu Titanic. Nay là bảo tàng tái hiện kiến trúc và đời sống Denver cuối thế kỷ 19.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=39.7376,-104.9803",
+      "yandex": "https://yandex.com/maps/?pt=-104.9803,39.7376&z=16&l=map"
+    },
+    "tags": [
+      "history",
+      "museum",
+      "titanic",
+      "victorian",
+      "denver"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-colorado-colorado-state-capitol",
+    "slug": "colorado-state-capitol",
+    "region": "us-colorado",
+    "country": "usa",
+    "region_name_vi": "Colorado",
+    "name_vi": "Tòa nhà Nghị viện bang Colorado",
+    "name_en": "Colorado State Capitol",
+    "name_local": "",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 39.7392,
+      "lon": -104.9847
+    },
+    "address_vi": "Đại lộ Colfax, thành phố Denver, bang Colorado",
+    "presentation_short_vi": "Tòa nhà nghị viện bang với mái vòm dát vàng lá 24k, mô phỏng Điện Capitol Hoa Kỳ. Bậc thềm thứ 13 được khắc dấu chính xác độ cao 'một dặm trên mực nước biển' (mile high).",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=39.7392,-104.9847",
+      "yandex": "https://yandex.com/maps/?pt=-104.9847,39.7392&z=16&l=map"
+    },
+    "tags": [
+      "history",
+      "architecture",
+      "landmark",
+      "denver",
+      "government"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-colorado-royal-gorge-bridge",
+    "slug": "royal-gorge-bridge",
+    "region": "us-colorado",
+    "country": "usa",
+    "region_name_vi": "Colorado",
+    "name_vi": "Cầu Royal Gorge",
+    "name_en": "Royal Gorge Bridge",
+    "name_local": "",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 38.47,
+      "lon": -105.3253
+    },
+    "address_vi": "Gần thành phố Cañon City, bang Colorado",
+    "presentation_short_vi": "Một trong những cầu treo cao nhất nước Mỹ, bắc qua hẻm núi Royal Gorge sâu 291 m trên sông Arkansas. Nằm trong công viên giải trí với cáp treo và trò zip-line mạo hiểm.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.47,-105.3253",
+      "yandex": "https://yandex.com/maps/?pt=-105.3253,38.47&z=16&l=map"
+    },
+    "tags": [
+      "bridge",
+      "modern",
+      "canyon",
+      "adventure",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-colorado-black-canyon-of-the-gunnison",
+    "slug": "black-canyon-of-the-gunnison",
+    "region": "us-colorado",
+    "country": "usa",
+    "region_name_vi": "Colorado",
+    "name_vi": "Vườn Quốc gia Black Canyon of the Gunnison",
+    "name_en": "Black Canyon of the Gunnison National Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 38.5754,
+      "lon": -107.7416
+    },
+    "address_vi": "Hạt Montrose, tây bang Colorado",
+    "presentation_short_vi": "Hẻm núi với vách đá dựng đứng tối màu sâu tới hơn 800 m do sông Gunnison bào mòn qua hàng triệu năm. Nổi tiếng vì độ sâu, hẹp và những bức tường đá gneiss dốc đứng ngoạn mục.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.5754,-107.7416",
+      "yandex": "https://yandex.com/maps/?pt=-107.7416,38.5754&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "canyon",
+      "national-park",
+      "river",
+      "hiking"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

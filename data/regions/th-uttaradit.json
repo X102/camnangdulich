@@ -1,0 +1,194 @@
+[
+  {
+    "id": "th-uttaradit-sirikit-dam",
+    "slug": "sirikit-dam",
+    "region": "th-uttaradit",
+    "country": "thailand",
+    "region_name_vi": "Uttaradit",
+    "name_vi": "Đập Sirikit",
+    "name_en": "Sirikit Dam",
+    "name_local": "เขื่อนสิริกิติ์",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 17.76389,
+      "lon": 100.56333
+    },
+    "address_vi": "Huyện Tha Pla, tỉnh Uttaradit",
+    "rating": null,
+    "presentation_short_vi": "Đập thủy điện lớn chắn sông Nan, tạo thành hồ nước rộng mênh mông giữa núi rừng — điểm ngắm cảnh, đi thuyền và cắm trại nổi tiếng của Uttaradit.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.56333,17.76389&z=17&pt=100.56333,17.76389",
+      "google": "https://www.google.com/maps/search/?api=1&query=17.76389,100.56333"
+    },
+    "tags": [
+      "dam",
+      "reservoir",
+      "nature",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "th-uttaradit-ton-sak-yai-national-park",
+    "slug": "ton-sak-yai-national-park",
+    "region": "th-uttaradit",
+    "country": "thailand",
+    "region_name_vi": "Uttaradit",
+    "name_vi": "Vườn quốc gia Ton Sak Yai",
+    "name_en": "Ton Sak Yai National Park",
+    "name_local": "อุทยานแห่งชาติต้นสักใหญ่",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 17.65,
+      "lon": 100.567
+    },
+    "address_vi": "Huyện Nam Pat, tỉnh Uttaradit",
+    "rating": null,
+    "presentation_short_vi": "Vườn quốc gia nổi tiếng với cây tếch (teak) lớn nhất thế giới, thân cổ thụ khổng lồ hàng trăm năm tuổi giữa rừng già.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.567,17.65&z=17&pt=100.567,17.65",
+      "google": "https://www.google.com/maps/search/?api=1&query=17.65,100.567"
+    },
+    "tags": [
+      "national_park",
+      "teak",
+      "nature",
+      "forest"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "th-uttaradit-phu-soi-dao-national-park",
+    "slug": "phu-soi-dao-national-park",
+    "region": "th-uttaradit",
+    "country": "thailand",
+    "region_name_vi": "Uttaradit",
+    "name_vi": "Vườn quốc gia Phu Soi Dao",
+    "name_en": "Phu Soi Dao National Park",
+    "name_local": "อุทยานแห่งชาติภูสอยดาว",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 17.733,
+      "lon": 101.0
+    },
+    "address_vi": "Huyện Nam Pat, tỉnh Uttaradit",
+    "rating": null,
+    "presentation_short_vi": "Vườn quốc gia vùng biên giới với đỉnh Phu Soi Dao và đồng cỏ thông trên cao, điểm trekking ngắm biển mây và thác nước hùng vĩ.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=101.0,17.733&z=17&pt=101.0,17.733",
+      "google": "https://www.google.com/maps/search/?api=1&query=17.733,101.0"
+    },
+    "tags": [
+      "national_park",
+      "trekking",
+      "mountain",
+      "waterfall"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "th-uttaradit-wat-phra-thaen-sila-at",
+    "slug": "wat-phra-thaen-sila-at",
+    "region": "th-uttaradit",
+    "country": "thailand",
+    "region_name_vi": "Uttaradit",
+    "name_vi": "Chùa Phra Thaen Sila At",
+    "name_en": "Wat Phra Thaen Sila At",
+    "name_local": "วัดพระแท่นศิลาอาสน์",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 17.5981,
+      "lon": 100.0439
+    },
+    "address_vi": "Huyện Laplae, tỉnh Uttaradit",
+    "rating": null,
+    "presentation_short_vi": "Ngôi chùa cổ linh thiêng trên đồi ở huyện Laplae, nổi tiếng với 'bệ đá' (phra thaen sila at) tương truyền là nơi Đức Phật từng ngồi thiền.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.0439,17.5981&z=17&pt=100.0439,17.5981",
+      "google": "https://www.google.com/maps/search/?api=1&query=17.5981,100.0439"
+    },
+    "tags": [
+      "temple",
+      "wat",
+      "sacred",
+      "laplae"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "th-uttaradit-wat-phra-borommathat-thung-yang",
+    "slug": "wat-phra-borommathat-thung-yang",
+    "region": "th-uttaradit",
+    "country": "thailand",
+    "region_name_vi": "Uttaradit",
+    "name_vi": "Chùa Phra Borommathat Thung Yang",
+    "name_en": "Wat Phra Borommathat Thung Yang",
+    "name_local": "วัดพระบรมธาตุทุ่งยั้ง",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 17.60029,
+      "lon": 100.05557
+    },
+    "address_vi": "Huyện Laplae, tỉnh Uttaradit",
+    "rating": null,
+    "presentation_short_vi": "Chùa cổ với bảo tháp (chedi) kiểu Lan Na cổ kính, một trong những trung tâm Phật giáo lâu đời của vùng Thung Yang – Laplae.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.05557,17.60029&z=17&pt=100.05557,17.60029",
+      "google": "https://www.google.com/maps/search/?api=1&query=17.60029,100.05557"
+    },
+    "tags": [
+      "temple",
+      "wat",
+      "chedi",
+      "ancient"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "th-uttaradit-wat-tha-thanon",
+    "slug": "wat-tha-thanon",
+    "region": "th-uttaradit",
+    "country": "thailand",
+    "region_name_vi": "Uttaradit",
+    "name_vi": "Chùa Tha Thanon",
+    "name_en": "Wat Tha Thanon",
+    "name_local": "วัดท่าถนน",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 17.6197,
+      "lon": 100.0986
+    },
+    "address_vi": "Huyện Mueang, tỉnh Uttaradit",
+    "rating": null,
+    "presentation_short_vi": "Chùa nằm bên bờ sông Nan giữa trung tâm thành phố, nơi thờ tượng Phật Luang Pho Phet linh thiêng được người dân Uttaradit tôn kính.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.0986,17.6197&z=17&pt=100.0986,17.6197",
+      "google": "https://www.google.com/maps/search/?api=1&query=17.6197,100.0986"
+    },
+    "tags": [
+      "temple",
+      "wat",
+      "riverside",
+      "city_center"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  }
+]

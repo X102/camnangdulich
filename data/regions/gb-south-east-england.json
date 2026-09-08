@@ -1,0 +1,383 @@
+[
+  {
+    "id": "gb-south-east-england-lau-dai-windsor",
+    "slug": "lau-dai-windsor",
+    "region": "gb-south-east-england",
+    "country": "uk",
+    "region_name_vi": "Đông Nam nước Anh (South East England)",
+    "name_vi": "Lâu đài Windsor",
+    "name_en": "Windsor Castle",
+    "name_local": "",
+    "categories": [
+      "palace",
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 51.4839,
+      "lon": -0.6044
+    },
+    "address_vi": "Windsor, Berkshire",
+    "presentation_short_vi": "Lâu đài hoàng gia có người ở lâu đời nhất và lớn nhất thế giới, dinh thự chính thức của hoàng gia Anh gần 1.000 năm với nhà nguyện St George tráng lệ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.4839,-0.6044",
+      "yandex": "https://yandex.com/maps/?pt=-0.6044,51.4839&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "royal",
+      "castle",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gb-south-east-england-nha-tho-canterbury",
+    "slug": "nha-tho-canterbury",
+    "region": "gb-south-east-england",
+    "country": "uk",
+    "region_name_vi": "Đông Nam nước Anh (South East England)",
+    "name_vi": "Nhà thờ chính tòa Canterbury",
+    "name_en": "Canterbury Cathedral",
+    "name_local": "",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 51.2798,
+      "lon": 1.083
+    },
+    "address_vi": "Canterbury, Kent",
+    "presentation_short_vi": "Nhà thờ chính tòa Gothic, trụ sở của Tổng Giám mục Canterbury và trung tâm của Anh giáo, Di sản Thế giới UNESCO nơi Thomas Becket bị sát hại năm 1170.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.2798,1.083",
+      "yandex": "https://yandex.com/maps/?pt=1.083,51.2798&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "unesco",
+      "historic",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gb-south-east-england-royal-pavilion-brighton",
+    "slug": "royal-pavilion-brighton",
+    "region": "gb-south-east-england",
+    "country": "uk",
+    "region_name_vi": "Đông Nam nước Anh (South East England)",
+    "name_vi": "Cung điện Hoàng gia Brighton (Royal Pavilion)",
+    "name_en": "Royal Pavilion",
+    "name_local": "",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 50.8225,
+      "lon": -0.1372
+    },
+    "address_vi": "4/5 Pavilion Buildings, Brighton, East Sussex",
+    "presentation_short_vi": "Cung điện nghỉ dưỡng ven biển xây cho vua George IV theo phong cách Ấn - Hồi kỳ ảo, với các mái vòm củ hành và nội thất Trung Hoa lộng lẫy.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.8225,-0.1372",
+      "yandex": "https://yandex.com/maps/?pt=-0.1372,50.8225&z=16&l=map"
+    },
+    "tags": [
+      "palace",
+      "historic",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gb-south-east-england-brighton-palace-pier",
+    "slug": "brighton-palace-pier",
+    "region": "gb-south-east-england",
+    "country": "uk",
+    "region_name_vi": "Đông Nam nước Anh (South East England)",
+    "name_vi": "Cầu tàu Brighton Palace Pier",
+    "name_en": "Brighton Palace Pier",
+    "name_local": "",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 50.8161,
+      "lon": -0.1367
+    },
+    "address_vi": "Madeira Drive, Brighton, East Sussex",
+    "presentation_short_vi": "Cầu tàu giải trí bằng gỗ mở cửa năm 1899 vươn ra biển Manche, với công viên trò chơi, quầy ăn vặt và không khí nghỉ dưỡng sôi động.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.8161,-0.1367",
+      "yandex": "https://yandex.com/maps/?pt=-0.1367,50.8161&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "seaside",
+      "family",
+      "amusement"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gb-south-east-england-lau-dai-leeds",
+    "slug": "lau-dai-leeds",
+    "region": "gb-south-east-england",
+    "country": "uk",
+    "region_name_vi": "Đông Nam nước Anh (South East England)",
+    "name_vi": "Lâu đài Leeds",
+    "name_en": "Leeds Castle",
+    "name_local": "",
+    "categories": [
+      "palace",
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 51.2486,
+      "lon": 0.6303
+    },
+    "address_vi": "Broomfield, Maidstone, Kent",
+    "presentation_short_vi": "Lâu đài thơ mộng xây trên hai hòn đảo giữa hồ ở hạt Kent, từng là nơi ở của các hoàng hậu Anh, được mệnh danh 'lâu đài đẹp nhất thế giới'.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.2486,0.6303",
+      "yandex": "https://yandex.com/maps/?pt=0.6303,51.2486&z=16&l=map"
+    },
+    "tags": [
+      "castle",
+      "historic",
+      "scenic",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gb-south-east-england-lau-dai-dover",
+    "slug": "lau-dai-dover",
+    "region": "gb-south-east-england",
+    "country": "uk",
+    "region_name_vi": "Đông Nam nước Anh (South East England)",
+    "name_vi": "Lâu đài Dover",
+    "name_en": "Dover Castle",
+    "name_local": "",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 51.1295,
+      "lon": 1.321
+    },
+    "address_vi": "Castle Hill, Dover, Kent",
+    "presentation_short_vi": "Pháo đài trung cổ lớn nhất nước Anh canh giữ eo biển Manche, với tháp canh Norman và mạng hầm ngầm bí mật thời Thế chiến.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.1295,1.321",
+      "yandex": "https://yandex.com/maps/?pt=1.321,51.1295&z=16&l=map"
+    },
+    "tags": [
+      "fortress",
+      "historic",
+      "military"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gb-south-east-england-vach-da-trang-dover",
+    "slug": "vach-da-trang-dover",
+    "region": "gb-south-east-england",
+    "country": "uk",
+    "region_name_vi": "Đông Nam nước Anh (South East England)",
+    "name_vi": "Vách đá trắng Dover",
+    "name_en": "White Cliffs of Dover",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 51.135,
+      "lon": 1.355
+    },
+    "address_vi": "Langdon Cliffs, Dover, Kent",
+    "presentation_short_vi": "Dải vách đá phấn trắng dựng đứng bên eo biển Manche, biểu tượng thiên nhiên của nước Anh và là điểm gần lục địa châu Âu nhất.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.135,1.355",
+      "yandex": "https://yandex.com/maps/?pt=1.355,51.135&z=16&l=map"
+    },
+    "tags": [
+      "scenic",
+      "nature",
+      "viewpoint",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gb-south-east-england-radcliffe-camera-oxford",
+    "slug": "radcliffe-camera-oxford",
+    "region": "gb-south-east-england",
+    "country": "uk",
+    "region_name_vi": "Đông Nam nước Anh (South East England)",
+    "name_vi": "Thư viện Radcliffe Camera (Đại học Oxford)",
+    "name_en": "Radcliffe Camera (University of Oxford)",
+    "name_local": "",
+    "categories": [
+      "monument",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 51.7534,
+      "lon": -1.254
+    },
+    "address_vi": "Radcliffe Square, Oxford, Oxfordshire",
+    "presentation_short_vi": "Thư viện hình tròn phong cách Palladian năm 1749, công trình biểu tượng giữa khuôn viên Đại học Oxford - đại học nói tiếng Anh lâu đời nhất thế giới.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.7534,-1.254",
+      "yandex": "https://yandex.com/maps/?pt=-1.254,51.7534&z=16&l=map"
+    },
+    "tags": [
+      "historic",
+      "landmark",
+      "university"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gb-south-east-england-vach-da-seven-sisters",
+    "slug": "vach-da-seven-sisters",
+    "region": "gb-south-east-england",
+    "country": "uk",
+    "region_name_vi": "Đông Nam nước Anh (South East England)",
+    "name_vi": "Vách đá Seven Sisters",
+    "name_en": "Seven Sisters Cliffs",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 50.745,
+      "lon": 0.155
+    },
+    "address_vi": "Seaford / Cuckmere Haven, East Sussex",
+    "presentation_short_vi": "Chuỗi vách đá phấn trắng nhấp nhô ven biển Đông Sussex, một trong những thắng cảnh bờ biển ngoạn mục nhất nước Anh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.745,0.155",
+      "yandex": "https://yandex.com/maps/?pt=0.155,50.745&z=16&l=map"
+    },
+    "tags": [
+      "scenic",
+      "nature",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gb-south-east-england-thap-spinnaker",
+    "slug": "thap-spinnaker",
+    "region": "gb-south-east-england",
+    "country": "uk",
+    "region_name_vi": "Đông Nam nước Anh (South East England)",
+    "name_vi": "Tháp Spinnaker",
+    "name_en": "Spinnaker Tower",
+    "name_local": "",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 50.7955,
+      "lon": -1.1085
+    },
+    "address_vi": "Gunwharf Quays, Portsmouth, Hampshire",
+    "presentation_short_vi": "Tháp quan sát cao 170 m hình cánh buồm bên cảng Portsmouth, với sàn kính 'Sky Walk' nhìn toàn cảnh bến cảng và eo biển Solent.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.7955,-1.1085",
+      "yandex": "https://yandex.com/maps/?pt=-1.1085,50.7955&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "viewpoint",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gb-south-east-england-nha-tho-winchester",
+    "slug": "nha-tho-winchester",
+    "region": "gb-south-east-england",
+    "country": "uk",
+    "region_name_vi": "Đông Nam nước Anh (South East England)",
+    "name_vi": "Nhà thờ chính tòa Winchester",
+    "name_en": "Winchester Cathedral",
+    "name_local": "",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 51.0606,
+      "lon": -1.3131
+    },
+    "address_vi": "The Close, Winchester, Hampshire",
+    "presentation_short_vi": "Một trong những nhà thờ chính tòa dài nhất châu Âu, kiệt tác Gothic thế kỷ 11–16 nơi an nghỉ của nữ văn sĩ Jane Austen.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.0606,-1.3131",
+      "yandex": "https://yandex.com/maps/?pt=-1.3131,51.0606&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "historic",
+      "gothic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gb-south-east-england-mui-da-the-needles",
+    "slug": "mui-da-the-needles",
+    "region": "gb-south-east-england",
+    "country": "uk",
+    "region_name_vi": "Đông Nam nước Anh (South East England)",
+    "name_vi": "Mũi đá The Needles",
+    "name_en": "The Needles",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 50.6626,
+      "lon": -1.59
+    },
+    "address_vi": "Alum Bay, Isle of Wight",
+    "presentation_short_vi": "Ba khối đá phấn nhọn nhô lên khỏi mặt biển cùng ngọn hải đăng đỏ trắng, thắng cảnh mang tính biểu tượng ở mũi tây đảo Wight.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.6626,-1.59",
+      "yandex": "https://yandex.com/maps/?pt=-1.59,50.6626&z=16&l=map"
+    },
+    "tags": [
+      "scenic",
+      "nature",
+      "viewpoint",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

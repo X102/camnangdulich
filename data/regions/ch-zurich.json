@@ -1,0 +1,418 @@
+[
+  {
+    "id": "ch-zurich-nha-tho-grossmunster",
+    "slug": "nha-tho-grossmunster",
+    "region": "ch-zurich",
+    "country": "switzerland",
+    "region_name_vi": "Zurich",
+    "name_vi": "Nhà thờ Grossmünster",
+    "name_en": "Grossmünster",
+    "name_local": "Grossmünster",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 47.3701,
+      "lon": 8.5443
+    },
+    "address_vi": "Grossmünsterplatz, khu phố cổ Altstadt, Zürich",
+    "presentation_short_vi": "Nhà thờ Tin Lành theo phong cách Roman với hai tháp đôi biểu tượng của Zürich, gắn liền với cuộc Cải cách của Huldrych Zwingli thế kỷ 16; leo tháp Karlsturm ngắm toàn cảnh thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.3701,8.5443",
+      "yandex": "https://yandex.com/maps/?pt=8.5443,47.3701&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "landmark",
+      "church",
+      "iconic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "ch-zurich-nha-tho-fraumunster",
+    "slug": "nha-tho-fraumunster",
+    "region": "ch-zurich",
+    "country": "switzerland",
+    "region_name_vi": "Zurich",
+    "name_vi": "Nhà thờ Fraumünster",
+    "name_en": "Fraumünster",
+    "name_local": "Fraumünster",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 47.3699,
+      "lon": 8.541
+    },
+    "address_vi": "Münsterhof 2, khu phố cổ Altstadt, Zürich",
+    "presentation_short_vi": "Nhà thờ cổ có nguồn gốc tu viện nữ thế kỷ 9, nổi tiếng thế giới với năm ô cửa kính màu do danh họa Marc Chagall thiết kế năm 1970.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.3699,8.541",
+      "yandex": "https://yandex.com/maps/?pt=8.541,47.3699&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "church",
+      "art",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "ch-zurich-nha-tho-st-peter",
+    "slug": "nha-tho-st-peter",
+    "region": "ch-zurich",
+    "country": "switzerland",
+    "region_name_vi": "Zurich",
+    "name_vi": "Nhà thờ St. Peter",
+    "name_en": "St. Peter Church",
+    "name_local": "Kirche St. Peter",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 47.3703,
+      "lon": 8.5407
+    },
+    "address_vi": "St. Peterhofstatt 1, Zürich",
+    "presentation_short_vi": "Nhà thờ lâu đời nhất Zürich, sở hữu mặt đồng hồ tháp lớn nhất châu Âu với đường kính 8,7 m.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.3703,8.5407",
+      "yandex": "https://yandex.com/maps/?pt=8.5407,47.3703&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "landmark",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "ch-zurich-pho-bahnhofstrasse",
+    "slug": "pho-bahnhofstrasse",
+    "region": "ch-zurich",
+    "country": "switzerland",
+    "region_name_vi": "Zurich",
+    "name_vi": "Đại lộ Bahnhofstrasse",
+    "name_en": "Bahnhofstrasse",
+    "name_local": "Bahnhofstrasse",
+    "categories": [
+      "square_street",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 47.3719,
+      "lon": 8.5389
+    },
+    "address_vi": "Bahnhofstrasse, trung tâm Zürich",
+    "presentation_short_vi": "Đại lộ mua sắm sang trọng bậc nhất thế giới dài khoảng 1,4 km nối ga chính tới hồ Zürich, tập trung các thương hiệu cao cấp và cửa hàng đồng hồ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.3719,8.5389",
+      "yandex": "https://yandex.com/maps/?pt=8.5389,47.3719&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "shopping",
+      "landmark",
+      "central"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "ch-zurich-quang-truong-lindenhof",
+    "slug": "quang-truong-lindenhof",
+    "region": "ch-zurich",
+    "country": "switzerland",
+    "region_name_vi": "Zurich",
+    "name_vi": "Đồi quảng trường Lindenhof",
+    "name_en": "Lindenhof",
+    "name_local": "Lindenhof",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 47.3728,
+      "lon": 8.541
+    },
+    "address_vi": "Lindenhof, khu phố cổ Altstadt, Zürich",
+    "presentation_short_vi": "Gò đất lịch sử nơi từng có pháo đài La Mã và hoàng cung Carolingian, nay là quảng trường yên tĩnh dưới hàng cây, điểm ngắm khu phố cổ và sông Limmat.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.3728,8.541",
+      "yandex": "https://yandex.com/maps/?pt=8.541,47.3728&z=16&l=map"
+    },
+    "tags": [
+      "history",
+      "viewpoint",
+      "square",
+      "central"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "ch-zurich-bao-tang-quoc-gia-thuy-si",
+    "slug": "bao-tang-quoc-gia-thuy-si",
+    "region": "ch-zurich",
+    "country": "switzerland",
+    "region_name_vi": "Zurich",
+    "name_vi": "Bảo tàng Quốc gia Thụy Sĩ",
+    "name_en": "Swiss National Museum",
+    "name_local": "Landesmuseum Zürich",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 47.3789,
+      "lon": 8.5407
+    },
+    "address_vi": "Museumstrasse 2, cạnh ga Zürich HB",
+    "presentation_short_vi": "Bảo tàng lịch sử văn hóa lớn nhất Thụy Sĩ nằm trong tòa nhà kiểu lâu đài cổ tích, trưng bày hiện vật từ thời tiền sử đến hiện đại.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.3789,8.5407",
+      "yandex": "https://yandex.com/maps/?pt=8.5407,47.3789&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "museum",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "ch-zurich-bao-tang-my-thuat-kunsthaus",
+    "slug": "bao-tang-my-thuat-kunsthaus",
+    "region": "ch-zurich",
+    "country": "switzerland",
+    "region_name_vi": "Zurich",
+    "name_vi": "Bảo tàng Mỹ thuật Kunsthaus",
+    "name_en": "Kunsthaus Zürich",
+    "name_local": "Kunsthaus Zürich",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 47.3702,
+      "lon": 8.5482
+    },
+    "address_vi": "Heimplatz 1, Zürich",
+    "presentation_short_vi": "Bảo tàng nghệ thuật lớn nhất Thụy Sĩ với bộ sưu tập từ Trung cổ đến đương đại, gồm tác phẩm của Munch, Giacometti, Monet và trường phái Dada.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.3702,8.5482",
+      "yandex": "https://yandex.com/maps/?pt=8.5482,47.3702&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "art",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "ch-zurich-nha-hat-opera-zurich",
+    "slug": "nha-hat-opera-zurich",
+    "region": "ch-zurich",
+    "country": "switzerland",
+    "region_name_vi": "Zurich",
+    "name_vi": "Nhà hát Opera Zürich",
+    "name_en": "Zurich Opera House",
+    "name_local": "Opernhaus Zürich",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 47.3652,
+      "lon": 8.5459
+    },
+    "address_vi": "Sechseläutenplatz 1, Zürich",
+    "presentation_short_vi": "Nhà hát opera tân cổ điển khánh thành năm 1891 bên quảng trường Sechseläutenplatz, một trong những sân khấu nhạc kịch danh giá của châu Âu.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.3652,8.5459",
+      "yandex": "https://yandex.com/maps/?pt=8.5459,47.3652&z=16&l=map"
+    },
+    "tags": [
+      "theatre",
+      "culture",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "ch-zurich-ho-zurich",
+    "slug": "ho-zurich",
+    "region": "ch-zurich",
+    "country": "switzerland",
+    "region_name_vi": "Zurich",
+    "name_vi": "Hồ Zürich",
+    "name_en": "Lake Zurich",
+    "name_local": "Zürichsee",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 47.3663,
+      "lon": 8.5416
+    },
+    "address_vi": "Bürkliplatz, bờ hồ Zürich",
+    "presentation_short_vi": "Hồ nước hình lưỡi liềm dài khoảng 40 km trải dài từ trung tâm thành phố, nơi du thuyền, dạo bộ ven bờ và tắm mát vào mùa hè, phông nền là dãy Alps.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.3663,8.5416",
+      "yandex": "https://yandex.com/maps/?pt=8.5416,47.3663&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "lake",
+      "scenic",
+      "boat"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "ch-zurich-nui-uetliberg",
+    "slug": "nui-uetliberg",
+    "region": "ch-zurich",
+    "country": "switzerland",
+    "region_name_vi": "Zurich",
+    "name_vi": "Núi Uetliberg",
+    "name_en": "Uetliberg",
+    "name_local": "Uetliberg",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 47.3494,
+      "lon": 8.4914
+    },
+    "address_vi": "Núi Uetliberg, Uitikon/Stallikon, ngoại ô Zürich",
+    "presentation_short_vi": "Ngọn núi cao 869 m được ví là nóc nhà của Zürich, có đường tàu leo núi và đài quan sát nhìn bao quát thành phố, hồ và dãy Alps.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.3494,8.4914",
+      "yandex": "https://yandex.com/maps/?pt=8.4914,47.3494&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "mountain",
+      "viewpoint",
+      "hiking"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "ch-zurich-bao-tang-bong-da-fifa",
+    "slug": "bao-tang-bong-da-fifa",
+    "region": "ch-zurich",
+    "country": "switzerland",
+    "region_name_vi": "Zurich",
+    "name_vi": "Bảo tàng Bóng đá Thế giới FIFA",
+    "name_en": "FIFA World Football Museum",
+    "name_local": "FIFA World Football Museum",
+    "categories": [
+      "museum",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 47.3562,
+      "lon": 8.532
+    },
+    "address_vi": "Seestrasse 27, khu Enge, Zürich",
+    "presentation_short_vi": "Bảo tàng hiện đại mở năm 2016 tôn vinh lịch sử bóng đá thế giới, trưng bày bản gốc Cúp Vàng World Cup cùng nhiều hiện vật tương tác.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.3562,8.532",
+      "yandex": "https://yandex.com/maps/?pt=8.532,47.3562&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "museum",
+      "sport",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "ch-zurich-vuon-thu-zurich",
+    "slug": "vuon-thu-zurich",
+    "region": "ch-zurich",
+    "country": "switzerland",
+    "region_name_vi": "Zurich",
+    "name_vi": "Vườn thú Zürich",
+    "name_en": "Zurich Zoo",
+    "name_local": "Zoo Zürich",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 47.3856,
+      "lon": 8.5744
+    },
+    "address_vi": "Zürichbergstrasse 221, Zürich",
+    "presentation_short_vi": "Một trong những vườn thú hiện đại hàng đầu châu Âu với khu rừng mưa Masoala mô phỏng Madagascar và công viên voi Kaeng Krachan.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.3856,8.5744",
+      "yandex": "https://yandex.com/maps/?pt=8.5744,47.3856&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "zoo",
+      "nature",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "ch-zurich-thap-prime-tower",
+    "slug": "thap-prime-tower",
+    "region": "ch-zurich",
+    "country": "switzerland",
+    "region_name_vi": "Zurich",
+    "name_vi": "Tháp Prime Tower",
+    "name_en": "Prime Tower",
+    "name_local": "Prime Tower",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 47.3877,
+      "lon": 8.5165
+    },
+    "address_vi": "Hardstrasse 201, khu Zürich-West",
+    "presentation_short_vi": "Tòa nhà chọc trời bằng kính cao 126 m ở khu công nghiệp cải tạo Zürich-West, từng là cao ốc cao nhất Thụy Sĩ, có quán bar ngắm cảnh trên đỉnh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.3877,8.5165",
+      "yandex": "https://yandex.com/maps/?pt=8.5165,47.3877&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "skyscraper",
+      "viewpoint",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  }
+]

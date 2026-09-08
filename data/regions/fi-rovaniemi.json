@@ -1,0 +1,372 @@
+[
+  {
+    "id": "fi-rovaniemi-santa-claus-village",
+    "slug": "santa-claus-village",
+    "region": "fi-rovaniemi",
+    "country": "finland",
+    "region_name_vi": "Rovaniemi",
+    "name_vi": "Làng Ông già Noel",
+    "name_en": "Santa Claus Village",
+    "name_local": "Joulupukin Pajakylä",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 66.5433,
+      "lon": 25.8475
+    },
+    "address_vi": "Tähtikuja 1, Napapiiri, Rovaniemi",
+    "presentation_short_vi": "Ngôi làng Ông già Noel nằm ngay Vòng Bắc Cực, mở cửa quanh năm với văn phòng Ông già Noel, bưu điện Giáng sinh và các cửa hàng quà tặng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=66.5433,25.8475",
+      "yandex": "https://yandex.com/maps/?pt=25.8475,66.5433&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "modern",
+      "christmas",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fi-rovaniemi-arctic-circle-napapiiri",
+    "slug": "arctic-circle-napapiiri",
+    "region": "fi-rovaniemi",
+    "country": "finland",
+    "region_name_vi": "Rovaniemi",
+    "name_vi": "Vòng Bắc Cực",
+    "name_en": "Arctic Circle",
+    "name_local": "Napapiiri",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 66.5436,
+      "lon": 25.8472
+    },
+    "address_vi": "Napapiiri, cách trung tâm Rovaniemi 8 km về phía đông bắc",
+    "presentation_short_vi": "Vạch Vòng Bắc Cực nổi tiếng chạy qua khu làng, nơi du khách chụp ảnh 'bước qua' vĩ tuyến 66°33' và nhận chứng nhận vượt Vòng Bắc Cực.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=66.5436,25.8472",
+      "yandex": "https://yandex.com/maps/?pt=25.8472,66.5436&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "nature",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fi-rovaniemi-santapark",
+    "slug": "santapark",
+    "region": "fi-rovaniemi",
+    "country": "finland",
+    "region_name_vi": "Rovaniemi",
+    "name_vi": "Công viên SantaPark",
+    "name_en": "SantaPark",
+    "name_local": "SantaPark",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 66.5486,
+      "lon": 25.839
+    },
+    "address_vi": "Tarvantie 1, Rovaniemi",
+    "presentation_short_vi": "Công viên chủ đề Giáng sinh nằm trong hang động ngầm gần Vòng Bắc Cực, có trường học yêu tinh, lò bánh gừng và tàu lượn băng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=66.5486,25.839",
+      "yandex": "https://yandex.com/maps/?pt=25.839,66.5486&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "family",
+      "christmas"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fi-rovaniemi-arktikum",
+    "slug": "arktikum",
+    "region": "fi-rovaniemi",
+    "country": "finland",
+    "region_name_vi": "Rovaniemi",
+    "name_vi": "Bảo tàng Arktikum",
+    "name_en": "Arktikum",
+    "name_local": "Arktikum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 66.5079,
+      "lon": 25.7267
+    },
+    "address_vi": "Pohjoisranta 4, Rovaniemi",
+    "presentation_short_vi": "Bảo tàng và trung tâm khoa học về vùng Bắc Cực bên bờ sông Ounasjoki, nổi bật với mái vòm kính dài hướng ra dòng sông.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=66.5079,25.7267",
+      "yandex": "https://yandex.com/maps/?pt=25.7267,66.5079&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "museum",
+      "arctic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fi-rovaniemi-pilke-science-centre",
+    "slug": "pilke-science-centre",
+    "region": "fi-rovaniemi",
+    "country": "finland",
+    "region_name_vi": "Rovaniemi",
+    "name_vi": "Trung tâm khoa học Pilke",
+    "name_en": "Pilke Science Centre",
+    "name_local": "Tiedekeskus Pilke",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 66.5083,
+      "lon": 25.728
+    },
+    "address_vi": "Ounasjoentie 6, Rovaniemi",
+    "presentation_short_vi": "Trung tâm khoa học tương tác về rừng và nghề rừng Phần Lan, trưng bày hoàn toàn bằng gỗ, phù hợp cho gia đình.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=66.5083,25.728",
+      "yandex": "https://yandex.com/maps/?pt=25.728,66.5083&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fi-rovaniemi-korundi-house-of-culture",
+    "slug": "korundi-house-of-culture",
+    "region": "fi-rovaniemi",
+    "country": "finland",
+    "region_name_vi": "Rovaniemi",
+    "name_vi": "Nhà văn hóa Korundi",
+    "name_en": "Korundi House of Culture",
+    "name_local": "Korundi",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 66.503,
+      "lon": 25.736
+    },
+    "address_vi": "Lapinkävijäntie 4, Rovaniemi",
+    "presentation_short_vi": "Trung tâm văn hóa cải tạo từ kho hàng cũ, gồm Bảo tàng Nghệ thuật Rovaniemi và phòng hòa nhạc của Dàn nhạc Giao hưởng Lapland.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=66.503,25.736",
+      "yandex": "https://yandex.com/maps/?pt=25.736,66.503&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "art",
+      "modern"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fi-rovaniemi-rovaniemi-church",
+    "slug": "rovaniemi-church",
+    "region": "fi-rovaniemi",
+    "country": "finland",
+    "region_name_vi": "Rovaniemi",
+    "name_vi": "Nhà thờ Rovaniemi",
+    "name_en": "Rovaniemi Church",
+    "name_local": "Rovaniemen kirkko",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 66.5017,
+      "lon": 25.7278
+    },
+    "address_vi": "Rauhankatu 70, Rovaniemi",
+    "presentation_short_vi": "Nhà thờ Tin Lành Luther xây năm 1950 sau chiến tranh, nổi bật với bức bích họa bàn thờ 'Nguồn Sự Sống' khổ lớn.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=66.5017,25.7278",
+      "yandex": "https://yandex.com/maps/?pt=25.7278,66.5017&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fi-rovaniemi-lappia-house",
+    "slug": "lappia-house",
+    "region": "fi-rovaniemi",
+    "country": "finland",
+    "region_name_vi": "Rovaniemi",
+    "name_vi": "Nhà Lappia",
+    "name_en": "Lappia House",
+    "name_local": "Lappia-talo",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 66.4972,
+      "lon": 25.7228
+    },
+    "address_vi": "Jorma Eton tie 8A, Rovaniemi",
+    "presentation_short_vi": "Công trình do kiến trúc sư Alvar Aalto thiết kế, là nhà hát, phòng hòa nhạc và trung tâm hội nghị trong quần thể Trung tâm Aalto.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=66.4972,25.7228",
+      "yandex": "https://yandex.com/maps/?pt=25.7228,66.4972&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "aalto",
+      "theatre"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fi-rovaniemi-rovaniemi-city-library",
+    "slug": "rovaniemi-city-library",
+    "region": "fi-rovaniemi",
+    "country": "finland",
+    "region_name_vi": "Rovaniemi",
+    "name_vi": "Thư viện thành phố Rovaniemi",
+    "name_en": "Rovaniemi City Library",
+    "name_local": "Rovaniemen kirjasto",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 66.4966,
+      "lon": 25.7238
+    },
+    "address_vi": "Jorma Eton tie 6, Rovaniemi",
+    "presentation_short_vi": "Thư viện thành phố do Alvar Aalto thiết kế với các gian đọc hình quạt đón ánh sáng tự nhiên, một biểu tượng kiến trúc hiện đại.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=66.4966,25.7238",
+      "yandex": "https://yandex.com/maps/?pt=25.7238,66.4966&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "aalto",
+      "library"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fi-rovaniemi-rovaniemi-town-hall",
+    "slug": "rovaniemi-town-hall",
+    "region": "fi-rovaniemi",
+    "country": "finland",
+    "region_name_vi": "Rovaniemi",
+    "name_vi": "Tòa thị chính Rovaniemi",
+    "name_en": "Rovaniemi Town Hall",
+    "name_local": "Rovaniemen kaupungintalo",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 66.4977,
+      "lon": 25.7245
+    },
+    "address_vi": "Hallituskatu 7, Rovaniemi",
+    "presentation_short_vi": "Tòa thị chính do Alvar Aalto thiết kế, hoàn thành năm 1988, hoàn thiện quần thể hành chính - văn hóa Trung tâm Aalto.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=66.4977,25.7245",
+      "yandex": "https://yandex.com/maps/?pt=25.7245,66.4977&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "aalto"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fi-rovaniemi-jatkankynttila-bridge",
+    "slug": "jatkankynttila-bridge",
+    "region": "fi-rovaniemi",
+    "country": "finland",
+    "region_name_vi": "Rovaniemi",
+    "name_vi": "Cầu Jätkänkynttilä",
+    "name_en": "Lumberjack's Candle Bridge",
+    "name_local": "Jätkänkynttiläsilta",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 66.4996,
+      "lon": 25.7369
+    },
+    "address_vi": "Bắc qua sông Kemijoki, Rovaniemi",
+    "presentation_short_vi": "Cầu dây văng bắc qua sông Kemijoki, nổi bật với 'ngọn nến của người tiều phu' - ngọn lửa vĩnh cửu trên đỉnh trụ cầu.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=66.4996,25.7369",
+      "yandex": "https://yandex.com/maps/?pt=25.7369,66.4996&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "bridge",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fi-rovaniemi-ounasvaara",
+    "slug": "ounasvaara",
+    "region": "fi-rovaniemi",
+    "country": "finland",
+    "region_name_vi": "Rovaniemi",
+    "name_vi": "Đồi Ounasvaara",
+    "name_en": "Ounasvaara",
+    "name_local": "Ounasvaara",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 66.493,
+      "lon": 25.766
+    },
+    "address_vi": "Ounasvaara, phía đông Rovaniemi",
+    "presentation_short_vi": "Ngọn đồi bên thành phố với khu trượt tuyết, đường mòn đi bộ và điểm ngắm toàn cảnh Rovaniemi cùng cực quang mùa đông.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=66.493,25.766",
+      "yandex": "https://yandex.com/maps/?pt=25.766,66.493&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "viewpoint",
+      "ski"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

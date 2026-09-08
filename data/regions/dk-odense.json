@@ -1,0 +1,397 @@
+[
+  {
+    "id": "dk-odense-hc-andersens-hus",
+    "slug": "hc-andersens-hus",
+    "region": "dk-odense",
+    "country": "denmark",
+    "region_name_vi": "Odense",
+    "name_vi": "Bảo tàng Hans Christian Andersen",
+    "name_en": "Hans Christian Andersen's House",
+    "name_local": "H.C. Andersens Hus",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 55.3983,
+      "lon": 10.3906
+    },
+    "address_vi": "Hans Jensens Stræde 21, Odense",
+    "presentation_short_vi": "Bảo tàng hiện đại mở năm 2021 dành cho nhà văn cổ tích Hans Christian Andersen, với kiến trúc vườn - nhà do Kengo Kuma thiết kế.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.3983,10.3906",
+      "yandex": "https://yandex.com/maps/?pt=10.3906,55.3983&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "museum",
+      "andersen"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-odense-hc-andersens-childhood-home",
+    "slug": "hc-andersens-childhood-home",
+    "region": "dk-odense",
+    "country": "denmark",
+    "region_name_vi": "Odense",
+    "name_vi": "Nhà thời thơ ấu của Andersen",
+    "name_en": "H.C. Andersen's Childhood Home",
+    "name_local": "H.C. Andersens Barndomshjem",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 55.3944,
+      "lon": 10.3856
+    },
+    "address_vi": "Munkemøllestræde 3-5, Odense",
+    "presentation_short_vi": "Ngôi nhà nhỏ nơi Andersen sống thời thơ ấu, nay là bảo tàng tái hiện tuổi thơ nghèo khó của ông.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.3944,10.3856",
+      "yandex": "https://yandex.com/maps/?pt=10.3856,55.3944&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "andersen",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-odense-st-canutes-cathedral",
+    "slug": "st-canutes-cathedral",
+    "region": "dk-odense",
+    "country": "denmark",
+    "region_name_vi": "Odense",
+    "name_vi": "Nhà thờ chính tòa Thánh Knud",
+    "name_en": "St. Canute's Cathedral",
+    "name_local": "Sankt Knuds Kirke",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 55.3954,
+      "lon": 10.389
+    },
+    "address_vi": "Klosterbakken 2, Odense",
+    "presentation_short_vi": "Nhà thờ chính tòa Gothic gạch đỏ thế kỷ 13-15, nơi lưu giữ hài cốt Vua Knud Thánh và bàn thờ mạ vàng nổi tiếng của Claus Berg.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.3954,10.389",
+      "yandex": "https://yandex.com/maps/?pt=10.389,55.3954&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "church",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-odense-st-albani-church",
+    "slug": "st-albani-church",
+    "region": "dk-odense",
+    "country": "denmark",
+    "region_name_vi": "Odense",
+    "name_vi": "Nhà thờ Thánh Alban",
+    "name_en": "St. Alban's Church",
+    "name_local": "Sankt Albani Kirke",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 55.3978,
+      "lon": 10.3872
+    },
+    "address_vi": "Adelgade 1, Odense",
+    "presentation_short_vi": "Nhà thờ Công giáo tân Gothic với tháp chuông cao 54 m, một trong những công trình dễ nhận biết nhất Odense.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.3978,10.3872",
+      "yandex": "https://yandex.com/maps/?pt=10.3872,55.3978&z=16&l=map"
+    },
+    "tags": [
+      "church"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-odense-odense-zoo",
+    "slug": "odense-zoo",
+    "region": "dk-odense",
+    "country": "denmark",
+    "region_name_vi": "Odense",
+    "name_vi": "Vườn thú Odense",
+    "name_en": "Odense Zoo",
+    "name_local": "Odense Zoo",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 55.3808,
+      "lon": 10.3822
+    },
+    "address_vi": "Sdr. Boulevard 306, Odense",
+    "presentation_short_vi": "Vườn thú bên sông Odense, nhiều lần được bình chọn thuộc hàng tốt nhất châu Âu, với khu Oceanium và đồng cỏ châu Phi.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.3808,10.3822",
+      "yandex": "https://yandex.com/maps/?pt=10.3822,55.3808&z=16&l=map"
+    },
+    "tags": [
+      "family",
+      "zoo"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-odense-den-fynske-landsby",
+    "slug": "den-fynske-landsby",
+    "region": "dk-odense",
+    "country": "denmark",
+    "region_name_vi": "Odense",
+    "name_vi": "Làng cổ Funen",
+    "name_en": "The Funen Village",
+    "name_local": "Den Fynske Landsby",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 55.3672,
+      "lon": 10.4083
+    },
+    "address_vi": "Sejerskovvej 20, Odense",
+    "presentation_short_vi": "Bảo tàng ngoài trời tái hiện làng quê đảo Funen thế kỷ 18-19 với nhà cổ, xưởng thủ công và ruộng vườn.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.3672,10.4083",
+      "yandex": "https://yandex.com/maps/?pt=10.4083,55.3672&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "history",
+      "openair"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-odense-brandts",
+    "slug": "brandts",
+    "region": "dk-odense",
+    "country": "denmark",
+    "region_name_vi": "Odense",
+    "name_vi": "Khu nghệ thuật Brandts",
+    "name_en": "Brandts",
+    "name_local": "Brandts Klædefabrik",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 55.3975,
+      "lon": 10.3844
+    },
+    "address_vi": "Brandts Torv 1, Odense",
+    "presentation_short_vi": "Khu nghệ thuật cải tạo từ nhà máy dệt cũ, gồm bảo tàng nghệ thuật, bảo tàng nhiếp ảnh và các phòng triển lãm đương đại.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.3975,10.3844",
+      "yandex": "https://yandex.com/maps/?pt=10.3844,55.3975&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "art",
+      "modern"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-odense-montergarden",
+    "slug": "montergarden",
+    "region": "dk-odense",
+    "country": "denmark",
+    "region_name_vi": "Odense",
+    "name_vi": "Bảo tàng Møntergården",
+    "name_en": "Møntergården",
+    "name_local": "Møntergården",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 55.3969,
+      "lon": 10.3878
+    },
+    "address_vi": "Møntestræde 1, Odense",
+    "presentation_short_vi": "Bảo tàng lịch sử đô thị Odense trong cụm nhà cổ thế kỷ 16-17, trưng bày về đời sống thành phố và khảo cổ Funen.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.3969,10.3878",
+      "yandex": "https://yandex.com/maps/?pt=10.3878,55.3969&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-odense-carl-nielsen-museum",
+    "slug": "carl-nielsen-museum",
+    "region": "dk-odense",
+    "country": "denmark",
+    "region_name_vi": "Odense",
+    "name_vi": "Bảo tàng Carl Nielsen",
+    "name_en": "Carl Nielsen Museum",
+    "name_local": "Carl Nielsen Museet",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 55.3972,
+      "lon": 10.3892
+    },
+    "address_vi": "Claus Bergs Gade 11, Odense",
+    "presentation_short_vi": "Bảo tàng tôn vinh nhà soạn nhạc lừng danh Carl Nielsen và vợ - nhà điêu khắc Anne Marie Carl-Nielsen, những người con nổi tiếng của Odense.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.3972,10.3892",
+      "yandex": "https://yandex.com/maps/?pt=10.3892,55.3972&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "music"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-odense-odense-radhus",
+    "slug": "odense-radhus",
+    "region": "dk-odense",
+    "country": "denmark",
+    "region_name_vi": "Odense",
+    "name_vi": "Tòa thị chính Odense",
+    "name_en": "Odense City Hall",
+    "name_local": "Odense Rådhus",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 55.3958,
+      "lon": 10.3878
+    },
+    "address_vi": "Flakhaven, Odense",
+    "presentation_short_vi": "Tòa thị chính xây theo phong cách tân Gothic Ý cuối thế kỷ 19, tọa lạc bên quảng trường Flakhaven ở trung tâm thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.3958,10.3878",
+      "yandex": "https://yandex.com/maps/?pt=10.3878,55.3958&z=16&l=map"
+    },
+    "tags": [
+      "history",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-odense-munke-mose",
+    "slug": "munke-mose",
+    "region": "dk-odense",
+    "country": "denmark",
+    "region_name_vi": "Odense",
+    "name_vi": "Công viên Munke Mose",
+    "name_en": "Munke Mose",
+    "name_local": "Munke Mose",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 55.3936,
+      "lon": 10.3806
+    },
+    "address_vi": "Munke Mose, trung tâm Odense",
+    "presentation_short_vi": "Công viên xanh ven sông Odense ở trung tâm, có bãi cỏ, lối dạo bộ và bến thuyền du ngoạn trên sông.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.3936,10.3806",
+      "yandex": "https://yandex.com/maps/?pt=10.3806,55.3936&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-odense-kongens-have-odense",
+    "slug": "kongens-have-odense",
+    "region": "dk-odense",
+    "country": "denmark",
+    "region_name_vi": "Odense",
+    "name_vi": "Vườn Nhà Vua",
+    "name_en": "The King's Garden",
+    "name_local": "Kongens Have",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 55.4006,
+      "lon": 10.3853
+    },
+    "address_vi": "Kongens Have, cạnh ga Odense",
+    "presentation_short_vi": "Vườn Hoàng gia rộng lớn trước Lâu đài Odense, hình thành từ đầu thế kỷ 18, nay là công viên trung tâm cạnh nhà ga.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.4006,10.3853",
+      "yandex": "https://yandex.com/maps/?pt=10.3853,55.4006&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-odense-nonnebakken",
+    "slug": "nonnebakken",
+    "region": "dk-odense",
+    "country": "denmark",
+    "region_name_vi": "Odense",
+    "name_vi": "Pháo đài Viking Nonnebakken",
+    "name_en": "Nonnebakken",
+    "name_local": "Nonnebakken",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 55.3922,
+      "lon": 10.3858
+    },
+    "address_vi": "Nonnebakken, phía nam sông Odense",
+    "presentation_short_vi": "Di chỉ pháo đài vòng thời Viking thế kỷ 10 của vua Harald Bluetooth, một trong các 'trelleborg' trứ danh ở Đan Mạch.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.3922,10.3858",
+      "yandex": "https://yandex.com/maps/?pt=10.3858,55.3922&z=16&l=map"
+    },
+    "tags": [
+      "history",
+      "viking",
+      "fortress"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

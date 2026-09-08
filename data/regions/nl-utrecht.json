@@ -1,0 +1,428 @@
+[
+  {
+    "id": "nl-utrecht-thap-dom",
+    "slug": "thap-dom",
+    "region": "nl-utrecht",
+    "country": "netherlands",
+    "region_name_vi": "Utrecht",
+    "name_vi": "Tháp Dom",
+    "name_en": "Dom Tower",
+    "name_local": "Domtoren",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 52.0908,
+      "lon": 5.1214
+    },
+    "address_vi": "Domplein 21, trung tâm thành phố Utrecht",
+    "presentation_short_vi": "Tháp nhà thờ cao 112 m xây từ thế kỷ 14, cao nhất Hà Lan và là biểu tượng của Utrecht; leo 465 bậc lên đài quan sát ngắm toàn cảnh thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.0908,5.1214",
+      "yandex": "https://yandex.com/maps/?pt=5.1214,52.0908&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "landmark",
+      "iconic",
+      "viewpoint",
+      "gothic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "nl-utrecht-nha-tho-dom",
+    "slug": "nha-tho-dom",
+    "region": "nl-utrecht",
+    "country": "netherlands",
+    "region_name_vi": "Utrecht",
+    "name_vi": "Nhà thờ Dom (Thánh đường St. Martin)",
+    "name_en": "Dom Church (St. Martin's Cathedral)",
+    "name_local": "Domkerk",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 52.091,
+      "lon": 5.1224
+    },
+    "address_vi": "Domplein, trung tâm Utrecht",
+    "presentation_short_vi": "Thánh đường Gothic từng nối liền với Tháp Dom trước khi gian giữa sụp đổ năm 1674; bên trong có mái vòm cao và khu vườn tu viện Pandhof yên tĩnh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.091,5.1224",
+      "yandex": "https://yandex.com/maps/?pt=5.1224,52.091&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "gothic",
+      "historic",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "nl-utrecht-kenh-co-oudegracht",
+    "slug": "kenh-co-oudegracht",
+    "region": "nl-utrecht",
+    "country": "netherlands",
+    "region_name_vi": "Utrecht",
+    "name_vi": "Kênh cổ Oudegracht",
+    "name_en": "Oudegracht (Old Canal)",
+    "name_local": "Oudegracht",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 52.0913,
+      "lon": 5.1189
+    },
+    "address_vi": "Oudegracht, trung tâm Utrecht",
+    "presentation_short_vi": "Con kênh trung tâm độc đáo với các bến hầm (werf) thấp ngang mặt nước, nay là chuỗi quán cà phê và nhà hàng ven kênh sầm uất bậc nhất Utrecht.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.0913,5.1189",
+      "yandex": "https://yandex.com/maps/?pt=5.1189,52.0913&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "canal",
+      "street",
+      "scenic",
+      "central"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "nl-utrecht-nha-rietveld-schroder",
+    "slug": "nha-rietveld-schroder",
+    "region": "nl-utrecht",
+    "country": "netherlands",
+    "region_name_vi": "Utrecht",
+    "name_vi": "Nhà Rietveld Schröder",
+    "name_en": "Rietveld Schröder House",
+    "name_local": "Rietveld Schröderhuis",
+    "categories": [
+      "other",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 52.0855,
+      "lon": 5.1479
+    },
+    "address_vi": "Prins Hendriklaan 50, Utrecht",
+    "presentation_short_vi": "Kiệt tác kiến trúc trường phái De Stijl do Gerrit Rietveld thiết kế năm 1924, Di sản Thế giới UNESCO với mặt đứng hình khối và màu cơ bản đặc trưng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.0855,5.1479",
+      "yandex": "https://yandex.com/maps/?pt=5.1479,52.0855&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "unesco",
+      "architecture",
+      "modern",
+      "design"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "nl-utrecht-lau-dai-de-haar",
+    "slug": "lau-dai-de-haar",
+    "region": "nl-utrecht",
+    "country": "netherlands",
+    "region_name_vi": "Utrecht",
+    "name_vi": "Lâu đài De Haar",
+    "name_en": "De Haar Castle",
+    "name_local": "Kasteel de Haar",
+    "categories": [
+      "palace",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 52.1193,
+      "lon": 4.9847
+    },
+    "address_vi": "Kasteellaan 1, Haarzuilens, tỉnh Utrecht",
+    "presentation_short_vi": "Lâu đài lớn nhất Hà Lan, được kiến trúc sư Pierre Cuypers tái dựng theo phong cách tân Gothic đầu thế kỷ 20, bao quanh là công viên và vườn Pháp rộng lớn.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.1193,4.9847",
+      "yandex": "https://yandex.com/maps/?pt=4.9847,52.1193&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "castle",
+      "neogothic",
+      "garden",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "nl-utrecht-bao-tang-duong-sat",
+    "slug": "bao-tang-duong-sat",
+    "region": "nl-utrecht",
+    "country": "netherlands",
+    "region_name_vi": "Utrecht",
+    "name_vi": "Bảo tàng Đường sắt Hà Lan",
+    "name_en": "Dutch Railway Museum",
+    "name_local": "Het Spoorwegmuseum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 52.0894,
+      "lon": 5.1408
+    },
+    "address_vi": "Maliebaanstation 16, Utrecht",
+    "presentation_short_vi": "Bảo tàng đường sắt quốc gia đặt trong nhà ga cổ Maliebaan, trưng bày đầu máy hơi nước, toa tàu lịch sử và các trải nghiệm tương tác cho gia đình.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.0894,5.1408",
+      "yandex": "https://yandex.com/maps/?pt=5.1408,52.0894&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "family",
+      "history",
+      "train"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "nl-utrecht-bao-tang-trung-tam",
+    "slug": "bao-tang-trung-tam",
+    "region": "nl-utrecht",
+    "country": "netherlands",
+    "region_name_vi": "Utrecht",
+    "name_vi": "Bảo tàng Trung tâm Utrecht",
+    "name_en": "Centraal Museum",
+    "name_local": "Centraal Museum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 52.0847,
+      "lon": 5.1256
+    },
+    "address_vi": "Agnietenstraat 1, Utrecht",
+    "presentation_short_vi": "Bảo tàng thành phố lâu đời nhất Hà Lan, lưu giữ tác phẩm của các họa sĩ trường phái Utrecht Caravaggisti, thời trang và bộ sưu tập thiết kế Rietveld.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.0847,5.1256",
+      "yandex": "https://yandex.com/maps/?pt=5.1256,52.0847&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "art",
+      "history",
+      "design"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "nl-utrecht-bao-tang-speelklok",
+    "slug": "bao-tang-speelklok",
+    "region": "nl-utrecht",
+    "country": "netherlands",
+    "region_name_vi": "Utrecht",
+    "name_vi": "Bảo tàng Speelklok",
+    "name_en": "Museum Speelklok",
+    "name_local": "Museum Speelklok",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 52.0919,
+      "lon": 5.1176
+    },
+    "address_vi": "Steenweg 6, Utrecht",
+    "presentation_short_vi": "Bảo tàng nhạc cụ tự động độc đáo với hộp nhạc, đàn organ hội chợ và đồng hồ biết chơi nhạc, thường có trình diễn sống động cho khách tham quan.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.0919,5.1176",
+      "yandex": "https://yandex.com/maps/?pt=5.1176,52.0919&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "music",
+      "family",
+      "unique"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "nl-utrecht-lau-dai-zuylen",
+    "slug": "lau-dai-zuylen",
+    "region": "nl-utrecht",
+    "country": "netherlands",
+    "region_name_vi": "Utrecht",
+    "name_vi": "Lâu đài Zuylen",
+    "name_en": "Zuylen Castle",
+    "name_local": "Slot Zuylen",
+    "categories": [
+      "palace",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 52.127,
+      "lon": 5.073
+    },
+    "address_vi": "Tournooiveld 1, Oud-Zuilen, tỉnh Utrecht",
+    "presentation_short_vi": "Lâu đài trung cổ bên sông Vecht, nay là bảo tàng lưu giữ nội thất quý và gắn với nữ văn sĩ Belle van Zuylen; nổi bật với bức tường rắn giữ nhiệt trồng cây ăn quả.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.127,5.073",
+      "yandex": "https://yandex.com/maps/?pt=5.073,52.127&z=16&l=map"
+    },
+    "tags": [
+      "castle",
+      "museum",
+      "history",
+      "garden"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "nl-utrecht-kim-tu-thap-austerlitz",
+    "slug": "kim-tu-thap-austerlitz",
+    "region": "nl-utrecht",
+    "country": "netherlands",
+    "region_name_vi": "Utrecht",
+    "name_vi": "Kim tự tháp Austerlitz",
+    "name_en": "Pyramid of Austerlitz",
+    "name_local": "Piramide van Austerlitz",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 52.0806,
+      "lon": 5.341
+    },
+    "address_vi": "Zeisterweg 98, Woudenberg, tỉnh Utrecht",
+    "presentation_short_vi": "Gò kim tự tháp bằng đất do binh lính Pháp của tướng Marmont đắp năm 1804 trên đồi Utrechtse Heuvelrug, có đài quan sát nhìn ra rừng xung quanh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.0806,5.341",
+      "yandex": "https://yandex.com/maps/?pt=5.341,52.0806&z=16&l=map"
+    },
+    "tags": [
+      "monument",
+      "history",
+      "viewpoint",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "nl-utrecht-dinh-thu-doorn",
+    "slug": "dinh-thu-doorn",
+    "region": "nl-utrecht",
+    "country": "netherlands",
+    "region_name_vi": "Utrecht",
+    "name_vi": "Dinh thự Doorn",
+    "name_en": "Huis Doorn (Doorn House)",
+    "name_local": "Huis Doorn",
+    "categories": [
+      "palace",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 52.0334,
+      "lon": 5.348
+    },
+    "address_vi": "Langbroekerweg 10, Doorn, tỉnh Utrecht",
+    "presentation_short_vi": "Trang viên nơi Hoàng đế Đức Wilhelm II sống lưu vong và qua đời sau Thế chiến I; nay là bảo tàng giữ nguyên nội thất hoàng gia và khu vườn cảnh rộng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.0334,5.348",
+      "yandex": "https://yandex.com/maps/?pt=5.348,52.0334&z=16&l=map"
+    },
+    "tags": [
+      "palace",
+      "museum",
+      "history",
+      "garden"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "nl-utrecht-tivolivredenburg",
+    "slug": "tivolivredenburg",
+    "region": "nl-utrecht",
+    "country": "netherlands",
+    "region_name_vi": "Utrecht",
+    "name_vi": "Trung tâm âm nhạc TivoliVredenburg",
+    "name_en": "TivoliVredenburg",
+    "name_local": "TivoliVredenburg",
+    "categories": [
+      "theatre",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 52.0925,
+      "lon": 5.113
+    },
+    "address_vi": "Vredenburg 10, Utrecht",
+    "presentation_short_vi": "Tổ hợp hòa nhạc hiện đại với nhiều khán phòng lồng vào nhau, từ nhạc cổ điển đến pop, là điểm nhấn kiến trúc đương đại giữa trung tâm Utrecht.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.0925,5.113",
+      "yandex": "https://yandex.com/maps/?pt=5.113,52.0925&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "music",
+      "concert",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "nl-utrecht-vuon-tu-vien-pandhof",
+    "slug": "vuon-tu-vien-pandhof",
+    "region": "nl-utrecht",
+    "country": "netherlands",
+    "region_name_vi": "Utrecht",
+    "name_vi": "Vườn tu viện Pandhof",
+    "name_en": "Pandhof Cloister Garden",
+    "name_local": "Pandhof van de Dom",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 52.0906,
+      "lon": 5.1226
+    },
+    "address_vi": "Achter de Dom, Utrecht",
+    "presentation_short_vi": "Khu vườn tu viện kiểu trung cổ nép bên Nhà thờ Dom, trồng thảo dược theo phong cách xưa và bao quanh bởi hành lang Gothic tĩnh lặng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.0906,5.1226",
+      "yandex": "https://yandex.com/maps/?pt=5.1226,52.0906&z=16&l=map"
+    },
+    "tags": [
+      "garden",
+      "historic",
+      "quiet",
+      "hidden"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

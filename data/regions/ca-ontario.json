@@ -1,0 +1,408 @@
+[
+  {
+    "id": "ca-ontario-cn-tower",
+    "slug": "cn-tower",
+    "region": "ca-ontario",
+    "region_name_vi": "Ontario",
+    "country": "canada",
+    "name_vi": "Tháp CN",
+    "name_en": "CN Tower",
+    "name_local": "",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 43.6426,
+      "lon": -79.3871
+    },
+    "address_vi": "Toronto, Ontario",
+    "presentation_short_vi": "Tháp truyền hình cao 553 m ở trung tâm Toronto, biểu tượng của thành phố với đài quan sát, sàn kính EdgeWalk và nhà hàng xoay ngắm toàn cảnh hồ Ontario.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-79.3871,43.6426&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=43.6426,-79.3871"
+    },
+    "tags": [
+      "modern",
+      "tower",
+      "observation",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-ontario-rogers-centre",
+    "slug": "rogers-centre",
+    "region": "ca-ontario",
+    "region_name_vi": "Ontario",
+    "country": "canada",
+    "name_vi": "Sân vận động Rogers Centre",
+    "name_en": "Rogers Centre",
+    "name_local": "",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 43.6414,
+      "lon": -79.3894
+    },
+    "address_vi": "Toronto, Ontario",
+    "presentation_short_vi": "Sân vận động mái vòm di động đầu tiên trên thế giới, sân nhà của đội bóng chày Toronto Blue Jays, nằm ngay dưới chân Tháp CN.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-79.3894,43.6414&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=43.6414,-79.3894"
+    },
+    "tags": [
+      "modern",
+      "stadium",
+      "sports"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-ontario-ripleys-aquarium",
+    "slug": "ripleys-aquarium",
+    "region": "ca-ontario",
+    "region_name_vi": "Ontario",
+    "country": "canada",
+    "name_vi": "Thủy cung Ripley's Canada",
+    "name_en": "Ripley's Aquarium of Canada",
+    "name_local": "",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 43.6424,
+      "lon": -79.386
+    },
+    "address_vi": "Toronto, Ontario",
+    "presentation_short_vi": "Thủy cung hiện đại cạnh Tháp CN với đường hầm kính dài đi xuyên bể cá mập và hơn 20.000 sinh vật biển.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-79.386,43.6424&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=43.6424,-79.386"
+    },
+    "tags": [
+      "modern",
+      "aquarium",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-ontario-royal-ontario-museum",
+    "slug": "royal-ontario-museum",
+    "region": "ca-ontario",
+    "region_name_vi": "Ontario",
+    "country": "canada",
+    "name_vi": "Bảo tàng Hoàng gia Ontario",
+    "name_en": "Royal Ontario Museum",
+    "name_local": "",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 43.6677,
+      "lon": -79.3948
+    },
+    "address_vi": "Toronto, Ontario",
+    "presentation_short_vi": "Một trong những bảo tàng lớn nhất Bắc Mỹ về lịch sử tự nhiên và văn hóa thế giới, nổi bật với khối kiến trúc pha lê Michael Lee-Chin bằng kính và thép.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-79.3948,43.6677&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=43.6677,-79.3948"
+    },
+    "tags": [
+      "museum",
+      "history",
+      "art"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-ontario-casa-loma",
+    "slug": "casa-loma",
+    "region": "ca-ontario",
+    "region_name_vi": "Ontario",
+    "country": "canada",
+    "name_vi": "Lâu đài Casa Loma",
+    "name_en": "Casa Loma",
+    "name_local": "",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 43.678,
+      "lon": -79.4094
+    },
+    "address_vi": "Toronto, Ontario",
+    "presentation_short_vi": "Lâu đài phong cách Gothic đầu thế kỷ 20 trên đồi cao ở Toronto, với tháp canh, vườn cảnh và đường hầm ngầm, nay là bảo tàng và điểm tham quan nổi tiếng.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-79.4094,43.678&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=43.678,-79.4094"
+    },
+    "tags": [
+      "castle",
+      "historic",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-ontario-fort-york",
+    "slug": "fort-york",
+    "region": "ca-ontario",
+    "region_name_vi": "Ontario",
+    "country": "canada",
+    "name_vi": "Pháo đài York",
+    "name_en": "Fort York",
+    "name_local": "",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 43.6386,
+      "lon": -79.4059
+    },
+    "address_vi": "Toronto, Ontario",
+    "presentation_short_vi": "Pháo đài do người Anh xây năm 1793 để bảo vệ Toronto (khi đó là York), nơi diễn ra Trận York năm 1813, nay bảo tồn công sự và doanh trại lịch sử.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-79.4059,43.6386&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=43.6386,-79.4059"
+    },
+    "tags": [
+      "fortress",
+      "history",
+      "military"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-ontario-parliament-hill",
+    "slug": "parliament-hill",
+    "region": "ca-ontario",
+    "region_name_vi": "Ontario",
+    "country": "canada",
+    "name_vi": "Đồi Nghị viện",
+    "name_en": "Parliament Hill",
+    "name_local": "",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 45.4236,
+      "lon": -75.7009
+    },
+    "address_vi": "Ottawa, Ontario",
+    "presentation_short_vi": "Quần thể tòa nhà Nghị viện Canada theo phong cách Tân Gothic bên sông Ottawa, với Tháp Hòa Bình (Peace Tower) là biểu tượng quốc gia.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-75.7009,45.4236&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=45.4236,-75.7009"
+    },
+    "tags": [
+      "landmark",
+      "government",
+      "historic",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-ontario-national-gallery-of-canada",
+    "slug": "national-gallery-of-canada",
+    "region": "ca-ontario",
+    "region_name_vi": "Ontario",
+    "country": "canada",
+    "name_vi": "Phòng trưng bày Quốc gia Canada",
+    "name_en": "National Gallery of Canada",
+    "name_local": "",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 45.4294,
+      "lon": -75.6989
+    },
+    "address_vi": "Ottawa, Ontario",
+    "presentation_short_vi": "Phòng trưng bày nghệ thuật quốc gia ở Ottawa với kiến trúc kính hiện đại, lưu giữ bộ sưu tập hội họa Canada và quốc tế, nổi bật với tượng nhện 'Maman' khổng lồ phía trước.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-75.6989,45.4294&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=45.4294,-75.6989"
+    },
+    "tags": [
+      "museum",
+      "art",
+      "modern"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-ontario-notre-dame-cathedral-basilica",
+    "slug": "notre-dame-cathedral-basilica",
+    "region": "ca-ontario",
+    "region_name_vi": "Ontario",
+    "country": "canada",
+    "name_vi": "Vương cung thánh đường Notre-Dame Ottawa",
+    "name_en": "Notre-Dame Cathedral Basilica",
+    "name_local": "",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 45.4292,
+      "lon": -75.6944
+    },
+    "address_vi": "Ottawa, Ontario",
+    "presentation_short_vi": "Nhà thờ Công giáo cổ nhất Ottawa, xây từ giữa thế kỷ 19 với hai tháp nhọn mạ bạc và nội thất chạm khắc gỗ tinh xảo.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-75.6944,45.4292&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=45.4292,-75.6944"
+    },
+    "tags": [
+      "church",
+      "historic",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-ontario-fort-henry",
+    "slug": "fort-henry",
+    "region": "ca-ontario",
+    "region_name_vi": "Ontario",
+    "country": "canada",
+    "name_vi": "Pháo đài Henry",
+    "name_en": "Fort Henry",
+    "name_local": "",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 44.232,
+      "lon": -76.4588
+    },
+    "address_vi": "Kingston, Ontario",
+    "presentation_short_vi": "Pháo đài quân sự thế kỷ 19 nhìn ra hồ Ontario và sông St. Lawrence ở Kingston, di sản UNESCO, nổi tiếng với nghi lễ đổi gác của Đội Vệ binh Fort Henry.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-76.4588,44.232&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=44.232,-76.4588"
+    },
+    "tags": [
+      "fortress",
+      "unesco",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-ontario-niagara-falls",
+    "slug": "niagara-falls",
+    "region": "ca-ontario",
+    "region_name_vi": "Ontario",
+    "country": "canada",
+    "name_vi": "Thác Niagara",
+    "name_en": "Niagara Falls",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 43.0774,
+      "lon": -79.0746
+    },
+    "address_vi": "Niagara Falls, Ontario",
+    "presentation_short_vi": "Thác nước hùng vĩ bậc nhất thế giới trên biên giới Canada–Mỹ, với thác Móng Ngựa (Horseshoe Falls) rộng khoảng 670 m nhìn từ phía Ontario đẹp nhất.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-79.0746,43.0774&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=43.0774,-79.0746"
+    },
+    "tags": [
+      "waterfall",
+      "nature",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-ontario-algonquin-provincial-park",
+    "slug": "algonquin-provincial-park",
+    "region": "ca-ontario",
+    "region_name_vi": "Ontario",
+    "country": "canada",
+    "name_vi": "Công viên tỉnh Algonquin",
+    "name_en": "Algonquin Provincial Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 45.8375,
+      "lon": -78.3803
+    },
+    "address_vi": "Ontario",
+    "presentation_short_vi": "Công viên tỉnh lâu đời nhất Ontario, rừng phong bạt ngàn với hàng nghìn hồ nước, nổi tiếng chèo canoe, ngắm lá đỏ mùa thu và nghe tiếng sói tru.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-78.3803,45.8375&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=45.8375,-78.3803"
+    },
+    "tags": [
+      "park",
+      "nature",
+      "autumn"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-ontario-thousand-islands",
+    "slug": "thousand-islands",
+    "region": "ca-ontario",
+    "region_name_vi": "Ontario",
+    "country": "canada",
+    "name_vi": "Quần đảo Ngàn Đảo",
+    "name_en": "Thousand Islands",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 44.3486,
+      "lon": -75.9636
+    },
+    "address_vi": "Sông St. Lawrence, Ontario",
+    "presentation_short_vi": "Quần đảo hơn 1.800 hòn đảo lớn nhỏ rải trên sông St. Lawrence giữa Canada và Mỹ, cảnh sông nước thơ mộng với nhiều biệt thự và lâu đài trên đảo.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-75.9636,44.3486&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=44.3486,-75.9636"
+    },
+    "tags": [
+      "islands",
+      "river",
+      "nature",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

@@ -1,0 +1,388 @@
+[
+  {
+    "id": "cz-kutna-hora-sedlec-ossuary",
+    "slug": "sedlec-ossuary",
+    "region": "cz-kutna-hora",
+    "country": "czech",
+    "region_name_vi": "Kutná Hora",
+    "name_vi": "Nhà thờ Xương Sedlec (Kostnice)",
+    "name_en": "Sedlec Ossuary",
+    "name_local": "Kostnice v Sedlci",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 49.9619,
+      "lon": 15.2883
+    },
+    "address_vi": "Zámecká 127, Sedlec, Kutná Hora",
+    "presentation_short_vi": "Nhà nguyện nghĩa trang trang trí bằng xương của khoảng 40.000–70.000 người, gồm cả chùm đèn làm từ đủ loại xương người — một trong những điểm rùng rợn nổi tiếng nhất châu Âu.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=49.9619,15.2883",
+      "yandex": "https://yandex.com/maps/?pt=15.2883,49.9619&z=16&l=map"
+    },
+    "tags": [
+      "ossuary",
+      "unesco",
+      "unique",
+      "gothic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-kutna-hora-st-barbara-church",
+    "slug": "st-barbara-church",
+    "region": "cz-kutna-hora",
+    "country": "czech",
+    "region_name_vi": "Kutná Hora",
+    "name_vi": "Nhà thờ Thánh Barbara",
+    "name_en": "St. Barbara's Church",
+    "name_local": "Chrám svaté Barbory",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 49.945,
+      "lon": 15.2636
+    },
+    "address_vi": "Barborská, Kutná Hora",
+    "presentation_short_vi": "Thánh đường Gothic tráng lệ khởi công năm 1388, dành cho thánh bảo trợ thợ mỏ; nổi bật với mái vòm hình lều, bích họa trung cổ và di sản UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=49.945,15.2636",
+      "yandex": "https://yandex.com/maps/?pt=15.2636,49.945&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "gothic",
+      "unesco",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-kutna-hora-sedlec-cathedral",
+    "slug": "sedlec-cathedral",
+    "region": "cz-kutna-hora",
+    "country": "czech",
+    "region_name_vi": "Kutná Hora",
+    "name_vi": "Nhà thờ chính tòa Đức Mẹ Lên Trời & Thánh Gioan Tẩy Giả",
+    "name_en": "Cathedral of the Assumption of Our Lady and St John the Baptist",
+    "name_local": "Katedrála Nanebevzetí Panny Marie a sv. Jana Křtitele",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 49.9598,
+      "lon": 15.2903
+    },
+    "address_vi": "Zámecká, Sedlec, Kutná Hora",
+    "presentation_short_vi": "Nhà thờ tu viện Xitô mang phong cách 'Gothic Baroque' độc đáo của Jan Santini Aichel, được UNESCO công nhận cùng trung tâm Kutná Hora.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=49.9598,15.2903",
+      "yandex": "https://yandex.com/maps/?pt=15.2903,49.9598&z=16&l=map"
+    },
+    "tags": [
+      "cathedral",
+      "unesco",
+      "baroque-gothic",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-kutna-hora-italian-court",
+    "slug": "italian-court",
+    "region": "cz-kutna-hora",
+    "country": "czech",
+    "region_name_vi": "Kutná Hora",
+    "name_vi": "Cung đình Ý (Vlašský dvůr)",
+    "name_en": "Italian Court",
+    "name_local": "Vlašský dvůr",
+    "categories": [
+      "palace",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 49.948,
+      "lon": 15.2682
+    },
+    "address_vi": "Havlíčkovo náměstí, Kutná Hora",
+    "presentation_short_vi": "Từng là xưởng đúc tiền hoàng gia và dinh vua Bohemia, nơi đúc đồng groschen Praha; nay là bảo tàng tiền tệ với nhà nguyện và các gian trưng bày.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=49.948,15.2682",
+      "yandex": "https://yandex.com/maps/?pt=15.2682,49.948&z=16&l=map"
+    },
+    "tags": [
+      "mint",
+      "palace",
+      "museum",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-kutna-hora-hradek-silver-museum",
+    "slug": "hradek-silver-museum",
+    "region": "cz-kutna-hora",
+    "country": "czech",
+    "region_name_vi": "Kutná Hora",
+    "name_vi": "Hrádek – Bảo tàng Bạc Séc",
+    "name_en": "Hrádek – Czech Museum of Silver",
+    "name_local": "Hrádek – České muzeum stříbra",
+    "categories": [
+      "museum",
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 49.9459,
+      "lon": 15.2642
+    },
+    "address_vi": "Barborská 28, Kutná Hora",
+    "presentation_short_vi": "Toà nhà kiểu lâu đài nhỏ thời Gothic, nay là bảo tàng bạc; tour 'Đường bạc' cho du khách đội mũ thợ mỏ khám phá đường hầm mỏ trung cổ dưới lòng đất.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=49.9459,15.2642",
+      "yandex": "https://yandex.com/maps/?pt=15.2642,49.9459&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "silver-mine",
+      "medieval",
+      "underground"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-kutna-hora-st-james-church",
+    "slug": "st-james-church",
+    "region": "cz-kutna-hora",
+    "country": "czech",
+    "region_name_vi": "Kutná Hora",
+    "name_vi": "Nhà thờ Thánh Giacôbê",
+    "name_en": "St. James's Church",
+    "name_local": "Kostel svatého Jakuba",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 49.9481,
+      "lon": 15.2673
+    },
+    "address_vi": "Havlíčkovo náměstí, Kutná Hora",
+    "presentation_short_vi": "Nhà thờ Gothic thế kỉ 14 với một tháp chuông cao 86 m — công trình tôn giáo lâu đời nhất khu phố cổ Kutná Hora.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=49.9481,15.2673",
+      "yandex": "https://yandex.com/maps/?pt=15.2673,49.9481&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "gothic",
+      "tower",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-kutna-hora-jesuit-college-gask",
+    "slug": "jesuit-college-gask",
+    "region": "cz-kutna-hora",
+    "country": "czech",
+    "region_name_vi": "Kutná Hora",
+    "name_vi": "Học viện Dòng Tên & Bảo tàng GASK",
+    "name_en": "Jesuit College (GASK Gallery)",
+    "name_local": "Jezuitská kolej / GASK",
+    "categories": [
+      "other",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 49.9454,
+      "lon": 15.2648
+    },
+    "address_vi": "Barborská 51-53, Kutná Hora",
+    "presentation_short_vi": "Toà nhà Baroque đồ sộ do Domenico Orsi thiết kế, phía trước có dãy tượng thánh kiểu cầu Charles; nay là Phòng trưng bày Nghệ thuật vùng Trung Bohemia (GASK).",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=49.9454,15.2648",
+      "yandex": "https://yandex.com/maps/?pt=15.2648,49.9454&z=16&l=map"
+    },
+    "tags": [
+      "baroque",
+      "gallery",
+      "art",
+      "museum"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-kutna-hora-stone-fountain",
+    "slug": "stone-fountain",
+    "region": "cz-kutna-hora",
+    "country": "czech",
+    "region_name_vi": "Kutná Hora",
+    "name_vi": "Đài phun nước Đá (Kamenná kašna)",
+    "name_en": "Stone Fountain",
+    "name_local": "Kamenná kašna",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 49.9483,
+      "lon": 15.2643
+    },
+    "address_vi": "Rejskovo náměstí, Kutná Hora",
+    "presentation_short_vi": "Bể chứa nước công cộng bằng đá kiểu Gothic muộn (khoảng 1495) với mặt ngoài chạm khắc tinh xảo, tác phẩm hiếm có của kiến trúc sư Matěj Rejsek.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=49.9483,15.2643",
+      "yandex": "https://yandex.com/maps/?pt=15.2643,49.9483&z=16&l=map"
+    },
+    "tags": [
+      "fountain",
+      "gothic",
+      "monument",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-kutna-hora-stone-house",
+    "slug": "stone-house",
+    "region": "cz-kutna-hora",
+    "country": "czech",
+    "region_name_vi": "Kutná Hora",
+    "name_vi": "Nhà Đá (Kamenný dům)",
+    "name_en": "Stone House",
+    "name_local": "Kamenný dům",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 49.9491,
+      "lon": 15.266
+    },
+    "address_vi": "Václavské náměstí, Kutná Hora",
+    "presentation_short_vi": "Ngôi nhà phố Gothic muộn cuối thế kỉ 15 với mặt tiền đầu hồi chạm khắc lộng lẫy, nay là bảo tàng trưng bày đời sống thị dân xưa.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=49.9491,15.266",
+      "yandex": "https://yandex.com/maps/?pt=15.266,49.9491&z=16&l=map"
+    },
+    "tags": [
+      "gothic",
+      "townhouse",
+      "museum",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-kutna-hora-plague-column",
+    "slug": "plague-column",
+    "region": "cz-kutna-hora",
+    "country": "czech",
+    "region_name_vi": "Kutná Hora",
+    "name_vi": "Cột Dịch hạch (Morový sloup)",
+    "name_en": "Plague Column",
+    "name_local": "Morový sloup",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 49.9489,
+      "lon": 15.2649
+    },
+    "address_vi": "Šultysova, Kutná Hora",
+    "presentation_short_vi": "Cột Baroque dựng năm 1713–1715 tưởng niệm các nạn nhân dịch hạch, trang trí tượng thánh và hình ảnh thợ mỏ đặc trưng của thành phố bạc.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=49.9489,15.2649",
+      "yandex": "https://yandex.com/maps/?pt=15.2649,49.9489&z=16&l=map"
+    },
+    "tags": [
+      "column",
+      "baroque",
+      "monument",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-kutna-hora-palacky-square",
+    "slug": "palacky-square",
+    "region": "cz-kutna-hora",
+    "country": "czech",
+    "region_name_vi": "Kutná Hora",
+    "name_vi": "Quảng trường Palacký",
+    "name_en": "Palacký Square",
+    "name_local": "Palackého náměstí",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 49.9484,
+      "lon": 15.2665
+    },
+    "address_vi": "Palackého náměstí, trung tâm Kutná Hora",
+    "presentation_short_vi": "Quảng trường trung tâm nhộn nhịp của phố cổ Kutná Hora, bao quanh là các toà nhà lịch sử, quán cà phê và điểm khởi đầu dạo bộ khám phá thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=49.9484,15.2665",
+      "yandex": "https://yandex.com/maps/?pt=15.2665,49.9484&z=16&l=map"
+    },
+    "tags": [
+      "square",
+      "old-town",
+      "center"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-kutna-hora-church-our-lady-namti",
+    "slug": "church-our-lady-namti",
+    "region": "cz-kutna-hora",
+    "country": "czech",
+    "region_name_vi": "Kutná Hora",
+    "name_vi": "Nhà thờ Đức Mẹ Na Náměti",
+    "name_en": "Church of Our Lady Na Náměti",
+    "name_local": "Kostel Matky Boží Na Náměti",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 49.9494,
+      "lon": 15.2653
+    },
+    "address_vi": "Kutná Hora, phố cổ",
+    "presentation_short_vi": "Nhà thờ Gothic ba gian thế kỉ 15 gần quảng trường trung tâm, từng gắn với các hội thợ mỏ giàu có của Kutná Hora thời hoàng kim.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=49.9494,15.2653",
+      "yandex": "https://yandex.com/maps/?pt=15.2653,49.9494&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "gothic",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

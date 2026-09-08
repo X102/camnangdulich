@@ -1,0 +1,391 @@
+[
+  {
+    "id": "us-texas-the-alamo",
+    "slug": "the-alamo",
+    "region": "us-texas",
+    "country": "usa",
+    "region_name_vi": "Texas",
+    "name_vi": "Pháo đài Alamo (The Alamo)",
+    "name_en": "The Alamo",
+    "name_local": "",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 29.4259,
+      "lon": -98.4861
+    },
+    "address_vi": "300 Alamo Plaza, thành phố San Antonio, bang Texas",
+    "presentation_short_vi": "Khu truyền giáo kiêm pháo đài lịch sử, nơi diễn ra trận Alamo năm 1836 trong Cách mạng Texas; biểu tượng thiêng liêng về tinh thần độc lập của bang Texas.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=29.4259,-98.4861",
+      "yandex": "https://yandex.com/maps/?pt=-98.4861,29.4259&z=16&l=map"
+    },
+    "tags": [
+      "fortress",
+      "historic",
+      "san-antonio",
+      "mission",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-texas-san-antonio-river-walk",
+    "slug": "san-antonio-river-walk",
+    "region": "us-texas",
+    "country": "usa",
+    "region_name_vi": "Texas",
+    "name_vi": "Phố đi bộ ven sông San Antonio (River Walk)",
+    "name_en": "San Antonio River Walk",
+    "name_local": "",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 29.4237,
+      "lon": -98.4889
+    },
+    "address_vi": "Trung tâm thành phố San Antonio, bang Texas",
+    "presentation_short_vi": "Mạng lưới lối đi bộ lát đá dọc hai bờ sông San Antonio với nhà hàng, quán cà phê và thuyền du ngoạn; một trong những điểm du lịch đô thị nổi tiếng nhất Texas.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=29.4237,-98.4889",
+      "yandex": "https://yandex.com/maps/?pt=-98.4889,29.4237&z=16&l=map"
+    },
+    "tags": [
+      "riverwalk",
+      "modern",
+      "san-antonio",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-texas-space-center-houston",
+    "slug": "space-center-houston",
+    "region": "us-texas",
+    "country": "usa",
+    "region_name_vi": "Texas",
+    "name_vi": "Trung tâm Vũ trụ Houston",
+    "name_en": "Space Center Houston",
+    "name_local": "",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 29.5519,
+      "lon": -95.0983
+    },
+    "address_vi": "1601 E NASA Parkway, thành phố Houston, bang Texas",
+    "presentation_short_vi": "Bảo tàng khoa học vũ trụ và trung tâm du khách chính thức của NASA Johnson Space Center, trưng bày tàu con thoi, tên lửa Saturn V và đá Mặt Trăng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=29.5519,-95.0983",
+      "yandex": "https://yandex.com/maps/?pt=-95.0983,29.5519&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "science",
+      "space",
+      "nasa",
+      "houston",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-texas-reunion-tower",
+    "slug": "reunion-tower",
+    "region": "us-texas",
+    "country": "usa",
+    "region_name_vi": "Texas",
+    "name_vi": "Tháp Reunion (Reunion Tower)",
+    "name_en": "Reunion Tower",
+    "name_local": "",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 32.7754,
+      "lon": -96.8089
+    },
+    "address_vi": "300 Reunion Boulevard, thành phố Dallas, bang Texas",
+    "presentation_short_vi": "Tháp quan sát cao 171 m với quả cầu đèn LED biểu tượng của Dallas; đài quan sát GeO-Deck cho tầm nhìn toàn cảnh 360 độ thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=32.7754,-96.8089",
+      "yandex": "https://yandex.com/maps/?pt=-96.8089,32.7754&z=16&l=map"
+    },
+    "tags": [
+      "observation",
+      "modern",
+      "dallas",
+      "skyline"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-texas-sixth-floor-museum-dealey-plaza",
+    "slug": "sixth-floor-museum-dealey-plaza",
+    "region": "us-texas",
+    "country": "usa",
+    "region_name_vi": "Texas",
+    "name_vi": "Bảo tàng Tầng Sáu tại Quảng trường Dealey",
+    "name_en": "The Sixth Floor Museum at Dealey Plaza",
+    "name_local": "",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 32.7797,
+      "lon": -96.8085
+    },
+    "address_vi": "411 Elm Street, thành phố Dallas, bang Texas",
+    "presentation_short_vi": "Bảo tàng về cuộc đời và vụ ám sát Tổng thống John F. Kennedy năm 1963, đặt tại chính tầng lầu nơi phát ra phát súng, nhìn ra Quảng trường Dealey.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=32.7797,-96.8085",
+      "yandex": "https://yandex.com/maps/?pt=-96.8085,32.7797&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "history",
+      "dallas",
+      "jfk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-texas-big-bend-national-park",
+    "slug": "big-bend-national-park",
+    "region": "us-texas",
+    "country": "usa",
+    "region_name_vi": "Texas",
+    "name_vi": "Vườn Quốc gia Big Bend",
+    "name_en": "Big Bend National Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 29.25,
+      "lon": -103.25
+    },
+    "address_vi": "Hạt Brewster, tây nam bang Texas (biên giới sông Rio Grande)",
+    "presentation_short_vi": "Vườn quốc gia rộng lớn ôm khúc uốn của sông Rio Grande, nổi tiếng với dãy núi Chisos, hẻm núi Santa Elena và bầu trời đêm đầy sao thuộc hàng đẹp nhất nước Mỹ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=29.25,-103.25",
+      "yandex": "https://yandex.com/maps/?pt=-103.25,29.25&z=16&l=map"
+    },
+    "tags": [
+      "national-park",
+      "nature",
+      "desert",
+      "mountains",
+      "rio-grande"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-texas-san-jacinto-monument",
+    "slug": "san-jacinto-monument",
+    "region": "us-texas",
+    "country": "usa",
+    "region_name_vi": "Texas",
+    "name_vi": "Đài tưởng niệm San Jacinto",
+    "name_en": "San Jacinto Monument",
+    "name_local": "",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 29.7494,
+      "lon": -95.0808
+    },
+    "address_vi": "One Monument Circle, thành phố La Porte, bang Texas",
+    "presentation_short_vi": "Cột đài tưởng niệm bằng đá cao 172 m — công trình tưởng niệm bằng đá cao nhất thế giới — đánh dấu chiến thắng San Jacinto năm 1836 giành độc lập cho Texas.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=29.7494,-95.0808",
+      "yandex": "https://yandex.com/maps/?pt=-95.0808,29.7494&z=16&l=map"
+    },
+    "tags": [
+      "monument",
+      "historic",
+      "houston",
+      "independence"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-texas-texas-state-capitol",
+    "slug": "texas-state-capitol",
+    "region": "us-texas",
+    "country": "usa",
+    "region_name_vi": "Texas",
+    "name_vi": "Toà nhà Nghị viện bang Texas",
+    "name_en": "Texas State Capitol",
+    "name_local": "",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 30.2747,
+      "lon": -97.7404
+    },
+    "address_vi": "1100 Congress Avenue, thành phố Austin, bang Texas",
+    "presentation_short_vi": "Trụ sở chính quyền bang hoàn thành năm 1888 bằng đá granite hồng, cao hơn cả Điện Capitol Hoa Kỳ ở Washington; biểu tượng kiến trúc của thủ phủ Austin.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=30.2747,-97.7404",
+      "yandex": "https://yandex.com/maps/?pt=-97.7404,30.2747&z=16&l=map"
+    },
+    "tags": [
+      "capitol",
+      "historic",
+      "austin",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-texas-fort-worth-stockyards",
+    "slug": "fort-worth-stockyards",
+    "region": "us-texas",
+    "country": "usa",
+    "region_name_vi": "Texas",
+    "name_vi": "Khu Fort Worth Stockyards",
+    "name_en": "Fort Worth Stockyards",
+    "name_local": "",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 32.7887,
+      "lon": -97.3472
+    },
+    "address_vi": "131 E Exchange Avenue, thành phố Fort Worth, bang Texas",
+    "presentation_short_vi": "Khu phố lịch sử về chăn nuôi gia súc với màn lùa đàn bò sừng dài mỗi ngày, tái hiện văn hoá cao bồi miền Viễn Tây của Texas.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=32.7887,-97.3472",
+      "yandex": "https://yandex.com/maps/?pt=-97.3472,32.7887&z=16&l=map"
+    },
+    "tags": [
+      "historic-district",
+      "cowboy",
+      "fort-worth",
+      "cattle"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-texas-att-stadium",
+    "slug": "att-stadium",
+    "region": "us-texas",
+    "country": "usa",
+    "region_name_vi": "Texas",
+    "name_vi": "Sân vận động AT&T (AT&T Stadium)",
+    "name_en": "AT&T Stadium",
+    "name_local": "",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 32.7473,
+      "lon": -97.0945
+    },
+    "address_vi": "1 AT&T Way, thành phố Arlington, bang Texas",
+    "presentation_short_vi": "Sân vận động mái vòm khổng lồ có mái đóng mở, sân nhà đội bóng bầu dục Dallas Cowboys; nổi tiếng với màn hình HD treo giữa sân thuộc loại lớn nhất thế giới.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=32.7473,-97.0945",
+      "yandex": "https://yandex.com/maps/?pt=-97.0945,32.7473&z=16&l=map"
+    },
+    "tags": [
+      "stadium",
+      "modern",
+      "arlington",
+      "football",
+      "cowboys"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-texas-guadalupe-mountains-national-park",
+    "slug": "guadalupe-mountains-national-park",
+    "region": "us-texas",
+    "country": "usa",
+    "region_name_vi": "Texas",
+    "name_vi": "Vườn Quốc gia Guadalupe Mountains",
+    "name_en": "Guadalupe Mountains National Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 31.917,
+      "lon": -104.867
+    },
+    "address_vi": "400 Pine Canyon Road, Salt Flat, hạt Culberson, bang Texas",
+    "presentation_short_vi": "Vườn quốc gia bảo tồn đỉnh Guadalupe Peak — điểm cao nhất Texas (2.667 m) — cùng rặng đá vôi cổ đại và hẻm McKittrick rực rỡ sắc thu.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=31.917,-104.867",
+      "yandex": "https://yandex.com/maps/?pt=-104.867,31.917&z=16&l=map"
+    },
+    "tags": [
+      "national-park",
+      "mountains",
+      "nature",
+      "hiking"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-texas-kimbell-art-museum",
+    "slug": "kimbell-art-museum",
+    "region": "us-texas",
+    "country": "usa",
+    "region_name_vi": "Texas",
+    "name_vi": "Bảo tàng Nghệ thuật Kimbell",
+    "name_en": "Kimbell Art Museum",
+    "name_local": "",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 32.7489,
+      "lon": -97.3651
+    },
+    "address_vi": "3333 Camp Bowie Boulevard, thành phố Fort Worth, bang Texas",
+    "presentation_short_vi": "Bảo tàng nghệ thuật nổi tiếng với công trình mái vòm ánh sáng của kiến trúc sư Louis Kahn, lưu giữ kiệt tác của Michelangelo, Caravaggio, Rembrandt và Monet.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=32.7489,-97.3651",
+      "yandex": "https://yandex.com/maps/?pt=-97.3651,32.7489&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "art",
+      "fort-worth",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

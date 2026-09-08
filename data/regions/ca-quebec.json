@@ -1,0 +1,374 @@
+[
+  {
+    "id": "ca-quebec-chateau-frontenac",
+    "slug": "chateau-frontenac",
+    "region": "ca-quebec",
+    "region_name_vi": "Québec",
+    "country": "canada",
+    "name_vi": "Lâu đài Frontenac",
+    "name_en": "Château Frontenac",
+    "name_local": "Château Frontenac",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 46.8119,
+      "lon": -71.2048
+    },
+    "address_vi": "Thành phố Québec",
+    "presentation_short_vi": "Khách sạn lịch sử mang dáng lâu đài Pháp bên sông St. Lawrence, biểu tượng của Thành phố Québec và là một trong những khách sạn được chụp ảnh nhiều nhất thế giới.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-71.2048,46.8119&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=46.8119,-71.2048"
+    },
+    "tags": [
+      "castle",
+      "historic",
+      "landmark",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-quebec-citadelle-de-quebec",
+    "slug": "citadelle-de-quebec",
+    "region": "ca-quebec",
+    "region_name_vi": "Québec",
+    "country": "canada",
+    "name_vi": "Thành Citadelle Québec",
+    "name_en": "Citadelle of Quebec",
+    "name_local": "Citadelle de Québec",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 46.8079,
+      "lon": -71.2065
+    },
+    "address_vi": "Thành phố Québec",
+    "presentation_short_vi": "Thành lũy hình sao còn hoạt động của quân đội Canada trên vách đá Cap Diamant, một phần hệ thống công sự cổ của Thành phố Québec (di sản UNESCO).",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-71.2065,46.8079&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=46.8079,-71.2065"
+    },
+    "tags": [
+      "fortress",
+      "unesco",
+      "military"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-quebec-vieux-quebec",
+    "slug": "vieux-quebec",
+    "region": "ca-quebec",
+    "region_name_vi": "Québec",
+    "country": "canada",
+    "name_vi": "Phố cổ Québec",
+    "name_en": "Old Quebec",
+    "name_local": "Vieux-Québec",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 46.8123,
+      "lon": -71.2056
+    },
+    "address_vi": "Thành phố Québec",
+    "presentation_short_vi": "Khu phố cổ duy nhất ở Bắc Mỹ còn giữ tường thành, với những con phố lát đá, nhà thờ và kiến trúc Pháp thế kỷ 17–18, được UNESCO công nhận.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-71.2056,46.8123&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=46.8123,-71.2056"
+    },
+    "tags": [
+      "oldtown",
+      "unesco",
+      "historic",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-quebec-notre-dame-de-quebec",
+    "slug": "notre-dame-de-quebec",
+    "region": "ca-quebec",
+    "region_name_vi": "Québec",
+    "country": "canada",
+    "name_vi": "Vương cung thánh đường Notre-Dame de Québec",
+    "name_en": "Notre-Dame de Québec Basilica-Cathedral",
+    "name_local": "Basilique-cathédrale Notre-Dame de Québec",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 46.8141,
+      "lon": -71.2065
+    },
+    "address_vi": "Thành phố Québec",
+    "presentation_short_vi": "Vương cung thánh đường Công giáo đầu tiên ở Bắc Mỹ phía bắc Mexico, nổi bật với nội thất mạ vàng và Cửa Thánh (Holy Door) hiếm có.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-71.2065,46.8141&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=46.8141,-71.2065"
+    },
+    "tags": [
+      "church",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-quebec-place-royale",
+    "slug": "place-royale",
+    "region": "ca-quebec",
+    "region_name_vi": "Québec",
+    "country": "canada",
+    "name_vi": "Quảng trường Place Royale",
+    "name_en": "Place Royale",
+    "name_local": "Place Royale",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 46.8129,
+      "lon": -71.2019
+    },
+    "address_vi": "Thành phố Québec",
+    "presentation_short_vi": "Quảng trường cổ nơi khai sinh Thành phố Québec năm 1608, bao quanh là những ngôi nhà đá cổ và nhà thờ Notre-Dame-des-Victoires.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-71.2019,46.8129&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=46.8129,-71.2019"
+    },
+    "tags": [
+      "square",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-quebec-montmorency-falls",
+    "slug": "montmorency-falls",
+    "region": "ca-quebec",
+    "region_name_vi": "Québec",
+    "country": "canada",
+    "name_vi": "Thác Montmorency",
+    "name_en": "Montmorency Falls",
+    "name_local": "Chute Montmorency",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 46.8906,
+      "lon": -71.1464
+    },
+    "address_vi": "Thành phố Québec",
+    "presentation_short_vi": "Thác nước cao 83 m — cao hơn thác Niagara — đổ xuống sông St. Lawrence gần Thành phố Québec, có cầu treo và cáp treo ngắm cảnh.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-71.1464,46.8906&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=46.8906,-71.1464"
+    },
+    "tags": [
+      "waterfall",
+      "nature",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-quebec-notre-dame-basilica-montreal",
+    "slug": "notre-dame-basilica-montreal",
+    "region": "ca-quebec",
+    "region_name_vi": "Québec",
+    "country": "canada",
+    "name_vi": "Vương cung thánh đường Notre-Dame Montréal",
+    "name_en": "Notre-Dame Basilica (Montreal)",
+    "name_local": "Basilique Notre-Dame de Montréal",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 45.5046,
+      "lon": -73.5566
+    },
+    "address_vi": "Montréal, Québec",
+    "presentation_short_vi": "Vương cung thánh đường phong cách Tân Gothic tráng lệ ở khu phố cổ Montréal, nổi tiếng với nội thất xanh lam dát vàng và đàn organ hoành tráng.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-73.5566,45.5046&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=45.5046,-73.5566"
+    },
+    "tags": [
+      "church",
+      "historic",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-quebec-mount-royal-park",
+    "slug": "mount-royal-park",
+    "region": "ca-quebec",
+    "region_name_vi": "Québec",
+    "country": "canada",
+    "name_vi": "Công viên Mont Royal",
+    "name_en": "Mount Royal Park",
+    "name_local": "Parc du Mont-Royal",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 45.504,
+      "lon": -73.5874
+    },
+    "address_vi": "Montréal, Québec",
+    "presentation_short_vi": "Công viên đồi xanh giữa lòng Montréal do kiến trúc sư Frederick Law Olmsted thiết kế, có đài ngắm cảnh nhìn bao quát toàn thành phố.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-73.5874,45.504&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=45.504,-73.5874"
+    },
+    "tags": [
+      "park",
+      "viewpoint",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-quebec-montreal-biosphere",
+    "slug": "montreal-biosphere",
+    "region": "ca-quebec",
+    "region_name_vi": "Québec",
+    "country": "canada",
+    "name_vi": "Biosphère Montréal",
+    "name_en": "Montreal Biosphere",
+    "name_local": "Biosphère de Montréal",
+    "categories": [
+      "other",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 45.5286,
+      "lon": -73.5326
+    },
+    "address_vi": "Montréal, Québec",
+    "presentation_short_vi": "Bảo tàng môi trường nằm trong quả cầu trắc địa khổng lồ bằng thép, vốn là gian hàng Mỹ tại Expo 67, biểu tượng kiến trúc hiện đại của Montréal.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-73.5326,45.5286&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=45.5286,-73.5326"
+    },
+    "tags": [
+      "modern",
+      "architecture",
+      "museum"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-quebec-olympic-stadium",
+    "slug": "olympic-stadium",
+    "region": "ca-quebec",
+    "region_name_vi": "Québec",
+    "country": "canada",
+    "name_vi": "Sân vận động Olympic Montréal",
+    "name_en": "Olympic Stadium (Montreal)",
+    "name_local": "Stade olympique de Montréal",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 45.5579,
+      "lon": -73.5514
+    },
+    "address_vi": "Montréal, Québec",
+    "presentation_short_vi": "Sân vận động của Thế vận hội 1976 với Tháp Montréal nghiêng cao 165 m — tháp nghiêng cao nhất thế giới — có đài quan sát nhìn toàn cảnh.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-73.5514,45.5579&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=45.5579,-73.5514"
+    },
+    "tags": [
+      "modern",
+      "stadium",
+      "observation"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-quebec-montreal-botanical-garden",
+    "slug": "montreal-botanical-garden",
+    "region": "ca-quebec",
+    "region_name_vi": "Québec",
+    "country": "canada",
+    "name_vi": "Vườn bách thảo Montréal",
+    "name_en": "Montreal Botanical Garden",
+    "name_local": "Jardin botanique de Montréal",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 45.5602,
+      "lon": -73.5626
+    },
+    "address_vi": "Montréal, Québec",
+    "presentation_short_vi": "Một trong những vườn bách thảo lớn nhất thế giới với vườn Trung Hoa, vườn Nhật Bản và nhà kính nhiệt đới, cạnh Sân Olympic.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-73.5626,45.5602&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=45.5602,-73.5626"
+    },
+    "tags": [
+      "park",
+      "garden",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-quebec-montreal-museum-of-fine-arts",
+    "slug": "montreal-museum-of-fine-arts",
+    "region": "ca-quebec",
+    "region_name_vi": "Québec",
+    "country": "canada",
+    "name_vi": "Bảo tàng Mỹ thuật Montréal",
+    "name_en": "Montreal Museum of Fine Arts",
+    "name_local": "Musée des beaux-arts de Montréal",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 45.4986,
+      "lon": -73.5794
+    },
+    "address_vi": "Montréal, Québec",
+    "presentation_short_vi": "Bảo tàng mỹ thuật lâu đời và lớn nhất Canada, trưng bày nghệ thuật từ cổ đại đến hiện đại qua nhiều tòa nhà nối nhau ở đại lộ Sherbrooke.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-73.5794,45.4986&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=45.4986,-73.5794"
+    },
+    "tags": [
+      "museum",
+      "art"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

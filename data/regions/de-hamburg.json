@@ -1,0 +1,422 @@
+[
+  {
+    "id": "de-hamburg-elbphilharmonie",
+    "slug": "elbphilharmonie",
+    "region": "de-hamburg",
+    "country": "germany",
+    "region_name_vi": "Hamburg",
+    "name_vi": "Nhà hát Giao hưởng Elbphilharmonie",
+    "name_en": "Elbphilharmonie",
+    "name_local": "Elbphilharmonie",
+    "categories": [
+      "theatre",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 53.5413,
+      "lon": 9.9843
+    },
+    "address_vi": "Platz der Deutschen Einheit 1, HafenCity, Hamburg",
+    "presentation_short_vi": "Phòng hòa nhạc biểu tượng khánh thành 2017 với mái kính lượn sóng đặt trên kho gạch cũ; đài quan sát Plaza cao 37 m nhìn toàn cảnh cảng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=53.5413,9.9843",
+      "yandex": "https://yandex.com/maps/?pt=9.9843,53.5413&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "modern",
+      "landmark",
+      "concert",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "de-hamburg-speicherstadt",
+    "slug": "speicherstadt",
+    "region": "de-hamburg",
+    "country": "germany",
+    "region_name_vi": "Hamburg",
+    "name_vi": "Khu kho hàng Speicherstadt",
+    "name_en": "Speicherstadt",
+    "name_local": "Speicherstadt",
+    "categories": [
+      "square_street",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 53.5443,
+      "lon": 9.9884
+    },
+    "address_vi": "HafenCity, Hamburg",
+    "presentation_short_vi": "Khu nhà kho gạch đỏ tân Gothic lớn nhất thế giới xây trên cọc gỗ dọc các kênh đào; Di sản Thế giới UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=53.5443,9.9884",
+      "yandex": "https://yandex.com/maps/?pt=9.9884,53.5443&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "unesco",
+      "historic",
+      "canal",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "de-hamburg-miniatur-wunderland",
+    "slug": "miniatur-wunderland",
+    "region": "de-hamburg",
+    "country": "germany",
+    "region_name_vi": "Hamburg",
+    "name_vi": "Thế giới mô hình Miniatur Wunderland",
+    "name_en": "Miniatur Wunderland",
+    "name_local": "Miniatur Wunderland",
+    "categories": [
+      "museum",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 53.5436,
+      "lon": 9.9884
+    },
+    "address_vi": "Kehrwieder 2-4, Speicherstadt, Hamburg",
+    "presentation_short_vi": "Mô hình đường sắt lớn nhất thế giới với hàng nghìn mét đường ray và tiểu cảnh tinh xảo tái hiện nhiều vùng đất - điểm đến hàng đầu cho gia đình.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=53.5436,9.9884",
+      "yandex": "https://yandex.com/maps/?pt=9.9884,53.5436&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "modern",
+      "family",
+      "museum"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "de-hamburg-st-michaelis",
+    "slug": "st-michaelis",
+    "region": "de-hamburg",
+    "country": "germany",
+    "region_name_vi": "Hamburg",
+    "name_vi": "Nhà thờ Thánh Michael (Michel)",
+    "name_en": "St. Michael's Church",
+    "name_local": "Hauptkirche Sankt Michaelis",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 53.5484,
+      "lon": 9.9788
+    },
+    "address_vi": "Englische Planke 1, Hamburg",
+    "presentation_short_vi": "Nhà thờ Baroque biểu tượng của Hamburg với tháp đồng cao 132 m; đài quan sát trên tháp cho tầm nhìn toàn cảnh thành phố và bến cảng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=53.5484,9.9788",
+      "yandex": "https://yandex.com/maps/?pt=9.9788,53.5484&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "landmark",
+      "viewpoint",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "de-hamburg-hamburg-rathaus",
+    "slug": "hamburg-rathaus",
+    "region": "de-hamburg",
+    "country": "germany",
+    "region_name_vi": "Hamburg",
+    "name_vi": "Tòa Thị chính Hamburg",
+    "name_en": "Hamburg City Hall",
+    "name_local": "Hamburger Rathaus",
+    "categories": [
+      "monument",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 53.5503,
+      "lon": 9.9925
+    },
+    "address_vi": "Rathausmarkt 1, Hamburg",
+    "presentation_short_vi": "Tòa thị chính tân Phục hưng xa hoa hoàn thành năm 1897 với 647 phòng và tháp cao 112 m, trung tâm chính quyền thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=53.5503,9.9925",
+      "yandex": "https://yandex.com/maps/?pt=9.9925,53.5503&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "historic",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "de-hamburg-aussenalster",
+    "slug": "aussenalster",
+    "region": "de-hamburg",
+    "country": "germany",
+    "region_name_vi": "Hamburg",
+    "name_vi": "Hồ Ngoại Alster",
+    "name_en": "Outer Alster Lake (Außenalster)",
+    "name_local": "Außenalster",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 53.5686,
+      "lon": 10.0
+    },
+    "address_vi": "Trung tâm Hamburg",
+    "presentation_short_vi": "Hồ nhân tạo rộng lớn giữa lòng thành phố, thiên đường chèo thuyền buồm, chèo SUP và dạo bộ ven bờ rợp bóng cây.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=53.5686,10.0",
+      "yandex": "https://yandex.com/maps/?pt=10.0,53.5686&z=16&l=map"
+    },
+    "tags": [
+      "scenic",
+      "lake",
+      "nature",
+      "sport"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "de-hamburg-planten-un-blomen",
+    "slug": "planten-un-blomen",
+    "region": "de-hamburg",
+    "country": "germany",
+    "region_name_vi": "Hamburg",
+    "name_vi": "Công viên Planten un Blomen",
+    "name_en": "Planten un Blomen",
+    "name_local": "Planten un Blomen",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 53.5606,
+      "lon": 9.9817
+    },
+    "address_vi": "St. Pauli, Hamburg",
+    "presentation_short_vi": "Công viên trung tâm rộng 47 ha với vườn Nhật, vườn nhiệt đới và màn trình diễn 'nhạc nước' ánh sáng vào các tối mùa hè.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=53.5606,9.9817",
+      "yandex": "https://yandex.com/maps/?pt=9.9817,53.5606&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "garden",
+      "scenic",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "de-hamburg-reeperbahn",
+    "slug": "reeperbahn",
+    "region": "de-hamburg",
+    "country": "germany",
+    "region_name_vi": "Hamburg",
+    "name_vi": "Phố Reeperbahn",
+    "name_en": "Reeperbahn",
+    "name_local": "Reeperbahn",
+    "categories": [
+      "square_street",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 53.5497,
+      "lon": 9.9622
+    },
+    "address_vi": "St. Pauli, Hamburg",
+    "presentation_short_vi": "Đại lộ giải trí về đêm sôi động nhất Hamburg với các quán bar, nhà hát nhạc kịch và câu lạc bộ - được mệnh danh 'dặm tội lỗi'.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=53.5497,9.9622",
+      "yandex": "https://yandex.com/maps/?pt=9.9622,53.5497&z=16&l=map"
+    },
+    "tags": [
+      "nightlife",
+      "entertainment",
+      "modern"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "de-hamburg-landungsbrucken",
+    "slug": "landungsbrucken",
+    "region": "de-hamburg",
+    "country": "germany",
+    "region_name_vi": "Hamburg",
+    "name_vi": "Bến tàu Landungsbrücken",
+    "name_en": "St. Pauli Landing Bridges",
+    "name_local": "St. Pauli-Landungsbrücken",
+    "categories": [
+      "other",
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 53.5457,
+      "lon": 9.9686
+    },
+    "address_vi": "St. Pauli, Hamburg",
+    "presentation_short_vi": "Dãy cầu tàu nổi dài bên sông Elbe, cửa ngõ ra bến cảng Hamburg với các chuyến du thuyền ngắm cảng và hải sản tươi.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=53.5457,9.9686",
+      "yandex": "https://yandex.com/maps/?pt=9.9686,53.5457&z=16&l=map"
+    },
+    "tags": [
+      "waterfront",
+      "harbour",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "de-hamburg-mahnmal-st-nikolai",
+    "slug": "mahnmal-st-nikolai",
+    "region": "de-hamburg",
+    "country": "germany",
+    "region_name_vi": "Hamburg",
+    "name_vi": "Đài tưởng niệm Thánh Nikolai",
+    "name_en": "St. Nikolai Memorial",
+    "name_local": "Mahnmal St. Nikolai",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 53.5476,
+      "lon": 9.9906
+    },
+    "address_vi": "Willy-Brandt-Straße, Hamburg",
+    "presentation_short_vi": "Tháp nhà thờ Gothic cao 147 m còn sót lại sau trận bom 1943, nay là đài tưởng niệm chiến tranh với thang máy lên đài quan sát.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=53.5476,9.9906",
+      "yandex": "https://yandex.com/maps/?pt=9.9906,53.5476&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "memorial",
+      "history",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "de-hamburg-chilehaus",
+    "slug": "chilehaus",
+    "region": "de-hamburg",
+    "country": "germany",
+    "region_name_vi": "Hamburg",
+    "name_vi": "Tòa nhà Chilehaus",
+    "name_en": "Chilehaus",
+    "name_local": "Chilehaus",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 53.5486,
+      "lon": 10.0006
+    },
+    "address_vi": "Fischertwiete 2, Kontorhausviertel, Hamburg",
+    "presentation_short_vi": "Kiệt tác kiến trúc Biểu hiện bằng gạch clinker thập niên 1920 với góc nhọn như mũi tàu; Di sản Thế giới UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=53.5486,10.0006",
+      "yandex": "https://yandex.com/maps/?pt=10.0006,53.5486&z=16&l=map"
+    },
+    "tags": [
+      "unesco",
+      "architecture",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "de-hamburg-maritimes-museum",
+    "slug": "maritimes-museum",
+    "region": "de-hamburg",
+    "country": "germany",
+    "region_name_vi": "Hamburg",
+    "name_vi": "Bảo tàng Hàng hải Quốc tế",
+    "name_en": "International Maritime Museum",
+    "name_local": "Internationales Maritimes Museum Hamburg",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 53.5443,
+      "lon": 9.9967
+    },
+    "address_vi": "Koreastraße 1, HafenCity, Hamburg",
+    "presentation_short_vi": "Bảo tàng hàng hải trong kho Kaispeicher B, trưng bày 3.000 năm lịch sử hàng hải qua mô hình tàu và hiện vật quý.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=53.5443,9.9967",
+      "yandex": "https://yandex.com/maps/?pt=9.9967,53.5443&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "maritime",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "de-hamburg-hafencity",
+    "slug": "hafencity",
+    "region": "de-hamburg",
+    "country": "germany",
+    "region_name_vi": "Hamburg",
+    "name_vi": "Khu đô thị cảng HafenCity",
+    "name_en": "HafenCity",
+    "name_local": "HafenCity",
+    "categories": [
+      "square_street",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 53.5417,
+      "lon": 9.993
+    },
+    "address_vi": "Trung tâm Hamburg",
+    "presentation_short_vi": "Khu tái phát triển đô thị ven sông lớn nhất châu Âu, biến vùng cảng cũ thành khu phố hiện đại với kiến trúc đương đại và không gian ven nước.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=53.5417,9.993",
+      "yandex": "https://yandex.com/maps/?pt=9.993,53.5417&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "waterfront",
+      "urban"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

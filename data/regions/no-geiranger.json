@@ -1,0 +1,373 @@
+[
+  {
+    "id": "no-geiranger-geirangerfjord",
+    "slug": "geirangerfjord",
+    "region": "no-geiranger",
+    "country": "norway",
+    "region_name_vi": "Geiranger",
+    "name_vi": "Vịnh hẹp Geirangerfjord",
+    "name_en": "Geirangerfjord",
+    "name_local": "Geirangerfjorden",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 62.1017,
+      "lon": 7.14
+    },
+    "address_vi": "Geiranger, Møre og Romsdal",
+    "presentation_short_vi": "Vịnh hẹp dài 15 km với vách núi dựng đứng và thác nước đổ thẳng xuống biển, một trong những fjord đẹp nhất thế giới và là Di sản UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=62.1017,7.14",
+      "yandex": "https://yandex.com/maps/?pt=7.14,62.1017&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "unesco",
+      "fjord",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-geiranger-de-syv-sostre",
+    "slug": "de-syv-sostre",
+    "region": "no-geiranger",
+    "country": "norway",
+    "region_name_vi": "Geiranger",
+    "name_vi": "Thác Bảy Cô Gái",
+    "name_en": "Seven Sisters Waterfall",
+    "name_local": "De syv søstre",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 62.1017,
+      "lon": 7.1339
+    },
+    "address_vi": "Bờ bắc Geirangerfjord, cách làng khoảng 6,5 km về phía tây",
+    "presentation_short_vi": "Cụm bảy dòng thác đổ song song từ vách đá cao khoảng 250 m xuống fjord — thác nước biểu tượng của Geiranger, ngắm trọn vẹn nhất từ thuyền.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=62.1017,7.1339",
+      "yandex": "https://yandex.com/maps/?pt=7.1339,62.1017&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "waterfall",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-geiranger-friaren",
+    "slug": "friaren",
+    "region": "no-geiranger",
+    "country": "norway",
+    "region_name_vi": "Geiranger",
+    "name_vi": "Thác Người Cầu Hôn (Friaren)",
+    "name_en": "The Suitor Waterfall",
+    "name_local": "Friaren",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 62.0983,
+      "lon": 7.1417
+    },
+    "address_vi": "Bờ nam Geirangerfjord, đối diện thác Bảy Cô Gái",
+    "presentation_short_vi": "Dòng thác đơn hình chiếc chai đối diện thác Bảy Cô Gái, gắn với truyền thuyết chàng trai mãi cầu hôn bảy nàng tiên bên kia vịnh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=62.0983,7.1417",
+      "yandex": "https://yandex.com/maps/?pt=7.1417,62.0983&z=16&l=map"
+    },
+    "tags": [
+      "waterfall",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-geiranger-brudesloret",
+    "slug": "brudesloret",
+    "region": "no-geiranger",
+    "country": "norway",
+    "region_name_vi": "Geiranger",
+    "name_vi": "Thác Voan Cô Dâu (Brudesløret)",
+    "name_en": "Bridal Veil Waterfall",
+    "name_local": "Brudesløret",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 62.1033,
+      "lon": 7.1583
+    },
+    "address_vi": "Bờ Geirangerfjord, gần thác Bảy Cô Gái",
+    "presentation_short_vi": "Thác nước mỏng manh như tấm voan trắng phủ trên vách đá, đẹp nhất khi ánh nắng tạo cầu vồng trên làn nước mờ sương.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=62.1033,7.1583",
+      "yandex": "https://yandex.com/maps/?pt=7.1583,62.1033&z=16&l=map"
+    },
+    "tags": [
+      "waterfall",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-geiranger-dalsnibba",
+    "slug": "dalsnibba",
+    "region": "no-geiranger",
+    "country": "norway",
+    "region_name_vi": "Geiranger",
+    "name_vi": "Đài quan sát Dalsnibba (Geiranger Skywalk)",
+    "name_en": "Dalsnibba – Geiranger Skywalk",
+    "name_local": "Dalsnibba",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 62.0489,
+      "lon": 7.2693
+    },
+    "address_vi": "Nibbevegen, phía nam Geiranger",
+    "presentation_short_vi": "Đài quan sát trên đỉnh núi cao gần 1.500 m với sàn ngắm vươn ra không trung, nhìn bao quát toàn cảnh Geirangerfjord và dãy núi tuyết.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=62.0489,7.2693",
+      "yandex": "https://yandex.com/maps/?pt=7.2693,62.0489&z=16&l=map"
+    },
+    "tags": [
+      "viewpoint",
+      "modern",
+      "mountain"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-geiranger-flydalsjuvet",
+    "slug": "flydalsjuvet",
+    "region": "no-geiranger",
+    "country": "norway",
+    "region_name_vi": "Geiranger",
+    "name_vi": "Điểm ngắm cảnh Flydalsjuvet",
+    "name_en": "Flydalsjuvet Viewpoint",
+    "name_local": "Flydalsjuvet",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 62.0908,
+      "lon": 7.222
+    },
+    "address_vi": "Đường Rv63, phía nam làng Geiranger",
+    "presentation_short_vi": "Điểm ngắm cảnh nổi tiếng với mỏm đá nhô ra nhìn xuống làng Geiranger và fjord — một trong những khung hình được chụp nhiều nhất Na Uy.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=62.0908,7.222",
+      "yandex": "https://yandex.com/maps/?pt=7.222,62.0908&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "viewpoint",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-geiranger-ornesvingen",
+    "slug": "ornesvingen",
+    "region": "no-geiranger",
+    "country": "norway",
+    "region_name_vi": "Geiranger",
+    "name_vi": "Đèo Đại Bàng Ørnesvingen",
+    "name_en": "Ørnesvingen – Eagle Road Viewpoint",
+    "name_local": "Ørnesvingen",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 62.1263,
+      "lon": 7.1667
+    },
+    "address_vi": "Đường Rv63 hướng Eidsdal, phía bắc Geiranger",
+    "presentation_short_vi": "Điểm ngắm ở đỉnh Đường Đại Bàng gồm 11 khúc cua tay áo, nhìn thẳng xuống làng Geiranger và thác Bảy Cô Gái.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=62.1263,7.1667",
+      "yandex": "https://yandex.com/maps/?pt=7.1667,62.1263&z=16&l=map"
+    },
+    "tags": [
+      "viewpoint",
+      "road",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-geiranger-norsk-fjordsenter",
+    "slug": "norsk-fjordsenter",
+    "region": "no-geiranger",
+    "country": "norway",
+    "region_name_vi": "Geiranger",
+    "name_vi": "Trung tâm Fjord Na Uy",
+    "name_en": "Norwegian Fjord Centre",
+    "name_local": "Norsk Fjordsenter",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 62.1004,
+      "lon": 7.2089
+    },
+    "address_vi": "Trung tâm làng Geiranger",
+    "presentation_short_vi": "Bảo tàng giới thiệu lịch sử, thiên nhiên và đời sống con người quanh các fjord Na Uy, kèm triển lãm về giao thông và du lịch vùng vịnh hẹp.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=62.1004,7.2089",
+      "yandex": "https://yandex.com/maps/?pt=7.2089,62.1004&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "fjord",
+      "culture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-geiranger-geiranger-kyrkje",
+    "slug": "geiranger-kyrkje",
+    "region": "no-geiranger",
+    "country": "norway",
+    "region_name_vi": "Geiranger",
+    "name_vi": "Nhà thờ Geiranger",
+    "name_en": "Geiranger Church",
+    "name_local": "Geiranger kyrkje",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 62.1017,
+      "lon": 7.2044
+    },
+    "address_vi": "Trung tâm làng Geiranger",
+    "presentation_short_vi": "Nhà thờ gỗ hình bát giác màu trắng dựng năm 1842 trên sườn đồi, biểu tượng bình yên của làng Geiranger.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=62.1017,7.2044",
+      "yandex": "https://yandex.com/maps/?pt=7.2044,62.1017&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "history",
+      "wooden"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-geiranger-storseterfossen",
+    "slug": "storseterfossen",
+    "region": "no-geiranger",
+    "country": "norway",
+    "region_name_vi": "Geiranger",
+    "name_vi": "Thác Storseterfossen",
+    "name_en": "Storseterfossen",
+    "name_local": "Storseterfossen",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 62.0983,
+      "lon": 7.1861
+    },
+    "address_vi": "Gần trang trại Vesterås, phía tây nam Geiranger",
+    "presentation_short_vi": "Thác nước đặc biệt cho phép du khách đi bộ vòng ra phía sau màn nước, đến được sau chặng đi bộ khoảng 45 phút từ trang trại Vesterås.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=62.0983,7.1861",
+      "yandex": "https://yandex.com/maps/?pt=7.1861,62.0983&z=16&l=map"
+    },
+    "tags": [
+      "waterfall",
+      "hiking",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-geiranger-skageflaa",
+    "slug": "skageflaa",
+    "region": "no-geiranger",
+    "country": "norway",
+    "region_name_vi": "Geiranger",
+    "name_vi": "Nông trại vách núi Skageflå",
+    "name_en": "Skageflå Mountain Farm",
+    "name_local": "Skageflå",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 62.1069,
+      "lon": 7.1567
+    },
+    "address_vi": "Bờ bắc Geirangerfjord",
+    "presentation_short_vi": "Nông trại bỏ hoang cheo leo trên vách núi cao khoảng 250 m nhìn xuống thác Bảy Cô Gái, đến bằng thuyền rồi leo bộ — điểm hiking kinh điển của fjord.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=62.1069,7.1567",
+      "yandex": "https://yandex.com/maps/?pt=7.1567,62.1069&z=16&l=map"
+    },
+    "tags": [
+      "farm",
+      "hiking",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-geiranger-knivsflaa",
+    "slug": "knivsflaa",
+    "region": "no-geiranger",
+    "country": "norway",
+    "region_name_vi": "Geiranger",
+    "name_vi": "Nông trại Knivsflå",
+    "name_en": "Knivsflå Farm",
+    "name_local": "Knivsflå",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 62.1039,
+      "lon": 7.14
+    },
+    "address_vi": "Bờ bắc Geirangerfjord, ngay trên thác Bảy Cô Gái",
+    "presentation_short_vi": "Nông trại vách núi bị bỏ hoang từ năm 1898 nằm ngay phía trên thác Bảy Cô Gái, chứng tích cho cuộc sống khắc nghiệt của cư dân fjord xưa.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=62.1039,7.14",
+      "yandex": "https://yandex.com/maps/?pt=7.14,62.1039&z=16&l=map"
+    },
+    "tags": [
+      "farm",
+      "history",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

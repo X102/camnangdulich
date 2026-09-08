@@ -1,0 +1,413 @@
+[
+  {
+    "id": "es-granada-cung-dien-alhambra",
+    "slug": "cung-dien-alhambra",
+    "region": "es-granada",
+    "country": "spain",
+    "region_name_vi": "Granada",
+    "name_vi": "Cung điện Alhambra",
+    "name_en": "Alhambra",
+    "name_local": "La Alhambra",
+    "categories": [
+      "palace",
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 37.1775,
+      "lon": -3.59
+    },
+    "address_vi": "Calle Real de la Alhambra, 18009 Granada, Tây Ban Nha",
+    "presentation_short_vi": "Quần thể cung điện–pháo đài Hồi giáo thế kỷ 13–14 của vương triều Nasrid, di sản UNESCO lừng danh với các sân trong, đài phun nước và hoạ tiết vữa tinh xảo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.1775,-3.59",
+      "yandex": "https://yandex.com/maps/?pt=-3.59,37.1775&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "unesco",
+      "palace",
+      "iconic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "es-granada-vuon-generalife",
+    "slug": "vuon-generalife",
+    "region": "es-granada",
+    "country": "spain",
+    "region_name_vi": "Granada",
+    "name_vi": "Vườn Generalife",
+    "name_en": "Generalife",
+    "name_local": "Generalife",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 37.1773,
+      "lon": -3.5844
+    },
+    "address_vi": "Alhambra, 18009 Granada, Tây Ban Nha",
+    "presentation_short_vi": "Khu vườn và cung điện nghỉ hè của các vua Nasrid trên đồi cạnh Alhambra, nổi bật với hệ thống nước, lối đi hoàng dương và tầm nhìn ra thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.1773,-3.5844",
+      "yandex": "https://yandex.com/maps/?pt=-3.5844,37.1773&z=16&l=map"
+    },
+    "tags": [
+      "unesco",
+      "garden",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "es-granada-cung-dien-carlos-v",
+    "slug": "cung-dien-carlos-v",
+    "region": "es-granada",
+    "country": "spain",
+    "region_name_vi": "Granada",
+    "name_vi": "Cung điện Carlos V",
+    "name_en": "Palace of Charles V",
+    "name_local": "Palacio de Carlos V",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 37.1767,
+      "lon": -3.5886
+    },
+    "address_vi": "Calle Real de la Alhambra, 18009 Granada, Tây Ban Nha",
+    "presentation_short_vi": "Cung điện Phục Hưng thế kỷ 16 nằm trong khuôn viên Alhambra, độc đáo với sân trong hình tròn hai tầng cột, nay là bảo tàng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.1767,-3.5886",
+      "yandex": "https://yandex.com/maps/?pt=-3.5886,37.1767&z=16&l=map"
+    },
+    "tags": [
+      "palace",
+      "historic",
+      "museum"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "es-granada-nha-tho-chinh-toa-granada",
+    "slug": "nha-tho-chinh-toa-granada",
+    "region": "es-granada",
+    "country": "spain",
+    "region_name_vi": "Granada",
+    "name_vi": "Nhà thờ chính toà Granada",
+    "name_en": "Granada Cathedral",
+    "name_local": "Catedral de Granada",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 37.1763,
+      "lon": -3.5989
+    },
+    "address_vi": "Calle Gran Vía de Colón 5, 18001 Granada, Tây Ban Nha",
+    "presentation_short_vi": "Đại giáo đường Phục Hưng đồ sộ khởi công năm 1523 trên nền một thánh đường Hồi giáo, với mặt tiền và gian giữa nguy nga.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.1763,-3.5989",
+      "yandex": "https://yandex.com/maps/?pt=-3.5989,37.1763&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "historic",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "es-granada-nha-nguyen-hoang-gia-granada",
+    "slug": "nha-nguyen-hoang-gia-granada",
+    "region": "es-granada",
+    "country": "spain",
+    "region_name_vi": "Granada",
+    "name_vi": "Nhà nguyện Hoàng gia Granada",
+    "name_en": "Royal Chapel of Granada",
+    "name_local": "Capilla Real de Granada",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 37.1759,
+      "lon": -3.5981
+    },
+    "address_vi": "Calle Oficios, 18001 Granada, Tây Ban Nha",
+    "presentation_short_vi": "Nhà nguyện Gothic thế kỷ 16 an táng Nhị vị Quân vương Công giáo Isabel và Fernando, với lăng mộ đá cẩm thạch tinh xảo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.1759,-3.5981",
+      "yandex": "https://yandex.com/maps/?pt=-3.5981,37.1759&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "historic",
+      "monument"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "es-granada-khu-pho-co-albaicin",
+    "slug": "khu-pho-co-albaicin",
+    "region": "es-granada",
+    "country": "spain",
+    "region_name_vi": "Granada",
+    "name_vi": "Khu phố cổ Albaicín",
+    "name_en": "Albaicín",
+    "name_local": "El Albaicín",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 37.1808,
+      "lon": -3.5922
+    },
+    "address_vi": "Albaicín, 18010 Granada, Tây Ban Nha",
+    "presentation_short_vi": "Khu phố Hồi giáo cổ với mê cung ngõ hẹp, nhà trắng và quảng trường nhỏ, được UNESCO công nhận cùng Alhambra.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.1808,-3.5922",
+      "yandex": "https://yandex.com/maps/?pt=-3.5922,37.1808&z=16&l=map"
+    },
+    "tags": [
+      "unesco",
+      "historic",
+      "square_street",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "es-granada-dai-ngam-canh-san-nicolas",
+    "slug": "dai-ngam-canh-san-nicolas",
+    "region": "es-granada",
+    "country": "spain",
+    "region_name_vi": "Granada",
+    "name_vi": "Đài ngắm cảnh San Nicolás",
+    "name_en": "Saint Nicholas Viewpoint",
+    "name_local": "Mirador de San Nicolás",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 37.1808,
+      "lon": -3.5926
+    },
+    "address_vi": "Plaza del Mirador de San Nicolás, 18010 Granada, Tây Ban Nha",
+    "presentation_short_vi": "Điểm ngắm cảnh nổi tiếng ở Albaicín với tầm nhìn toàn cảnh Alhambra trên nền dãy Sierra Nevada, đẹp nhất lúc hoàng hôn.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.1808,-3.5926",
+      "yandex": "https://yandex.com/maps/?pt=-3.5926,37.1808&z=16&l=map"
+    },
+    "tags": [
+      "viewpoint",
+      "scenic",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "es-granada-tu-vien-cartuja",
+    "slug": "tu-vien-cartuja",
+    "region": "es-granada",
+    "country": "spain",
+    "region_name_vi": "Granada",
+    "name_vi": "Tu viện Cartuja",
+    "name_en": "Charterhouse of Granada",
+    "name_local": "Monasterio de la Cartuja",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 37.1896,
+      "lon": -3.6045
+    },
+    "address_vi": "Paseo de Cartuja, 18011 Granada, Tây Ban Nha",
+    "presentation_short_vi": "Tu viện dòng Carthusian khởi dựng thế kỷ 16, lừng danh với nội thất Baroque và gian thánh (sacristy) trang trí cực kỳ tinh xảo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.1896,-3.6045",
+      "yandex": "https://yandex.com/maps/?pt=-3.6045,37.1896&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "historic",
+      "baroque"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "es-granada-khu-hang-dong-sacromonte",
+    "slug": "khu-hang-dong-sacromonte",
+    "region": "es-granada",
+    "country": "spain",
+    "region_name_vi": "Granada",
+    "name_vi": "Khu hang động Sacromonte",
+    "name_en": "Sacromonte",
+    "name_local": "Sacromonte",
+    "categories": [
+      "square_street",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 37.1826,
+      "lon": -3.5853
+    },
+    "address_vi": "Sacromonte, 18010 Granada, Tây Ban Nha",
+    "presentation_short_vi": "Khu đồi với những ngôi nhà hang truyền thống của cộng đồng Roma, cái nôi của điệu flamenco zambra đặc trưng ở Granada.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.1826,-3.5853",
+      "yandex": "https://yandex.com/maps/?pt=-3.5853,37.1826&z=16&l=map"
+    },
+    "tags": [
+      "historic",
+      "culture",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "es-granada-cho-to-lua-alcaiceria",
+    "slug": "cho-to-lua-alcaiceria",
+    "region": "es-granada",
+    "country": "spain",
+    "region_name_vi": "Granada",
+    "name_vi": "Chợ tơ lụa Alcaicería",
+    "name_en": "Alcaicería",
+    "name_local": "Alcaicería",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 37.1749,
+      "lon": -3.5986
+    },
+    "address_vi": "Calle Alcaicería, 18001 Granada, Tây Ban Nha",
+    "presentation_short_vi": "Khu chợ tơ lụa Hồi giáo xưa với những con ngõ hẹp nay bán đồ thủ công và quà lưu niệm, ngay cạnh Nhà thờ chính toà.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.1749,-3.5986",
+      "yandex": "https://yandex.com/maps/?pt=-3.5986,37.1749&z=16&l=map"
+    },
+    "tags": [
+      "historic",
+      "market",
+      "square_street"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "es-granada-nha-tam-a-rap-el-banuelo",
+    "slug": "nha-tam-a-rap-el-banuelo",
+    "region": "es-granada",
+    "country": "spain",
+    "region_name_vi": "Granada",
+    "name_vi": "Nhà tắm Ả Rập El Bañuelo",
+    "name_en": "El Bañuelo Arab Baths",
+    "name_local": "El Bañuelo",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 37.1783,
+      "lon": -3.5943
+    },
+    "address_vi": "Carrera del Darro 31, 18010 Granada, Tây Ban Nha",
+    "presentation_short_vi": "Nhà tắm công cộng Hồi giáo thế kỷ 11, một trong những công trình Hồi giáo cổ và được bảo tồn tốt nhất ở Tây Ban Nha.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.1783,-3.5943",
+      "yandex": "https://yandex.com/maps/?pt=-3.5943,37.1783&z=16&l=map"
+    },
+    "tags": [
+      "monument",
+      "historic",
+      "islamic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "es-granada-cong-vien-khoa-hoc-granada",
+    "slug": "cong-vien-khoa-hoc-granada",
+    "region": "es-granada",
+    "country": "spain",
+    "region_name_vi": "Granada",
+    "name_vi": "Công viên Khoa học Granada",
+    "name_en": "Granada Science Park",
+    "name_local": "Parque de las Ciencias",
+    "categories": [
+      "museum",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 37.1626,
+      "lon": -3.6061
+    },
+    "address_vi": "Av. de la Ciencia, 18006 Granada, Tây Ban Nha",
+    "presentation_short_vi": "Bảo tàng khoa học tương tác lớn nhất Andalucía với đài thiên văn, khu nhiệt đới bươm bướm và nhiều gian trưng bày hiện đại.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.1626,-3.6061",
+      "yandex": "https://yandex.com/maps/?pt=-3.6061,37.1626&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "museum",
+      "science",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "es-granada-day-nui-sierra-nevada",
+    "slug": "day-nui-sierra-nevada",
+    "region": "es-granada",
+    "country": "spain",
+    "region_name_vi": "Granada",
+    "name_vi": "Dãy núi Sierra Nevada",
+    "name_en": "Sierra Nevada",
+    "name_local": "Sierra Nevada",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 37.0961,
+      "lon": -3.3986
+    },
+    "address_vi": "Sierra Nevada, tỉnh Granada, Tây Ban Nha",
+    "presentation_short_vi": "Dãy núi cao nhất bán đảo Iberia với đỉnh Mulhacén, vừa là công viên quốc gia vừa là khu trượt tuyết ở cực nam châu Âu.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.0961,-3.3986",
+      "yandex": "https://yandex.com/maps/?pt=-3.3986,37.0961&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "mountains",
+      "nationalpark",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

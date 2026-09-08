@@ -1,0 +1,431 @@
+[
+  {
+    "id": "us-utah-zion-national-park",
+    "slug": "zion-national-park",
+    "region": "us-utah",
+    "country": "usa",
+    "region_name_vi": "Utah",
+    "name_vi": "Vườn quốc gia Zion",
+    "name_en": "Zion National Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 37.3,
+      "lon": -113.0
+    },
+    "address_vi": "Gần Springdale, bang Utah",
+    "presentation_short_vi": "Vườn quốc gia nổi tiếng với hẻm núi Zion dựng đứng bằng sa thạch đỏ, sông Virgin uốn lượn và các cung leo núi trứ danh như Angels Landing và The Narrows.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.3,-113.0",
+      "yandex": "https://yandex.com/maps/?pt=-113.0,37.3&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "nature",
+      "canyon",
+      "hiking",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-utah-bryce-canyon-national-park",
+    "slug": "bryce-canyon-national-park",
+    "region": "us-utah",
+    "country": "usa",
+    "region_name_vi": "Utah",
+    "name_vi": "Vườn quốc gia Bryce Canyon",
+    "name_en": "Bryce Canyon National Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 37.64,
+      "lon": -112.17
+    },
+    "address_vi": "Gần Bryce, bang Utah",
+    "presentation_short_vi": "Nổi tiếng thế giới với 'rừng' cột đá hoodoo màu cam đỏ san sát trong các vòng cung tự nhiên khổng lồ; cảnh bình minh và bầu trời đêm đầy sao ngoạn mục.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.64,-112.17",
+      "yandex": "https://yandex.com/maps/?pt=-112.17,37.64&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "nature",
+      "hoodoo",
+      "canyon",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-utah-arches-national-park",
+    "slug": "arches-national-park",
+    "region": "us-utah",
+    "country": "usa",
+    "region_name_vi": "Utah",
+    "name_vi": "Vườn quốc gia Arches",
+    "name_en": "Arches National Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 38.7281,
+      "lon": -109.54
+    },
+    "address_vi": "Gần Moab, bang Utah",
+    "presentation_short_vi": "Nơi tập trung hơn 2.000 vòm đá sa thạch tự nhiên, trong đó Delicate Arch là biểu tượng của bang Utah; phong cảnh sa mạc đỏ siêu thực gần thị trấn Moab.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.7281,-109.54",
+      "yandex": "https://yandex.com/maps/?pt=-109.54,38.7281&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "nature",
+      "arch",
+      "desert",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-utah-canyonlands-national-park",
+    "slug": "canyonlands-national-park",
+    "region": "us-utah",
+    "country": "usa",
+    "region_name_vi": "Utah",
+    "name_vi": "Vườn quốc gia Canyonlands",
+    "name_en": "Canyonlands National Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 38.1669,
+      "lon": -109.7597
+    },
+    "address_vi": "Gần Moab, bang Utah",
+    "presentation_short_vi": "Vườn quốc gia rộng lớn với những hẻm núi sâu do sông Colorado và Green bào mòn, chia thành các khu như Island in the Sky nổi tiếng với vòm đá Mesa Arch.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.1669,-109.7597",
+      "yandex": "https://yandex.com/maps/?pt=-109.7597,38.1669&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "canyon",
+      "desert",
+      "scenic",
+      "moab"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-utah-capitol-reef-national-park",
+    "slug": "capitol-reef-national-park",
+    "region": "us-utah",
+    "country": "usa",
+    "region_name_vi": "Utah",
+    "name_vi": "Vườn quốc gia Capitol Reef",
+    "name_en": "Capitol Reef National Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 38.2,
+      "lon": -111.167
+    },
+    "address_vi": "Gần Torrey, bang Utah",
+    "presentation_short_vi": "Bảo tồn 'Waterpocket Fold' - một nếp gấp địa chất dài gần 160 km với vách đá nhiều màu, vòm đá trắng hình mái vòm điện Capitol và vườn cây ăn quả lịch sử.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.2,-111.167",
+      "yandex": "https://yandex.com/maps/?pt=-111.167,38.2&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "geology",
+      "desert",
+      "scenic",
+      "utah"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-utah-temple-square",
+    "slug": "temple-square",
+    "region": "us-utah",
+    "country": "usa",
+    "region_name_vi": "Utah",
+    "name_vi": "Quảng trường Đền thờ (Temple Square)",
+    "name_en": "Temple Square",
+    "name_local": "",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 40.7708,
+      "lon": -111.891
+    },
+    "address_vi": "50 N Temple, Salt Lake City, bang Utah",
+    "presentation_short_vi": "Quần thể quảng trường rộng khoảng 4 ha ở trung tâm Salt Lake City, điểm tham quan nổi tiếng nhất thành phố với vườn hoa, đại sảnh Tabernacle và các công trình lịch sử.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=40.7708,-111.891",
+      "yandex": "https://yandex.com/maps/?pt=-111.891,40.7708&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "square",
+      "landmark",
+      "salt-lake-city",
+      "garden"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-utah-salt-lake-temple",
+    "slug": "salt-lake-temple",
+    "region": "us-utah",
+    "country": "usa",
+    "region_name_vi": "Utah",
+    "name_vi": "Đền thờ Salt Lake",
+    "name_en": "Salt Lake Temple",
+    "name_local": "",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 40.7707,
+      "lon": -111.8921
+    },
+    "address_vi": "50 W North Temple, Temple Square, Salt Lake City, bang Utah",
+    "presentation_short_vi": "Ngôi đền đá granite sáu tháp nhọn mất 40 năm xây dựng (1853-1893), công trình mang tính biểu tượng và lớn nhất của giáo hội tại đây; điểm nhấn kiến trúc của Temple Square.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=40.7707,-111.8921",
+      "yandex": "https://yandex.com/maps/?pt=-111.8921,40.7707&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "architecture",
+      "granite",
+      "salt-lake-city",
+      "iconic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-utah-utah-state-capitol",
+    "slug": "utah-state-capitol",
+    "region": "us-utah",
+    "country": "usa",
+    "region_name_vi": "Utah",
+    "name_vi": "Toà nhà Nghị viện bang Utah",
+    "name_en": "Utah State Capitol",
+    "name_local": "",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 40.7774,
+      "lon": -111.8881
+    },
+    "address_vi": "350 State St, Salt Lake City, bang Utah",
+    "presentation_short_vi": "Toà nhà nghị viện bang kiểu Phục hưng Cổ điển với mái vòm đồng bề thế, toạ lạc trên đồi Capitol nhìn xuống thung lũng Salt Lake; mở cửa tham quan miễn phí.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=40.7774,-111.8881",
+      "yandex": "https://yandex.com/maps/?pt=-111.8881,40.7774&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "architecture",
+      "monument",
+      "government",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-utah-bonneville-salt-flats",
+    "slug": "bonneville-salt-flats",
+    "region": "us-utah",
+    "country": "usa",
+    "region_name_vi": "Utah",
+    "name_vi": "Cánh đồng muối Bonneville",
+    "name_en": "Bonneville Salt Flats",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 40.7683,
+      "lon": -113.8236
+    },
+    "address_vi": "Gần Wendover, phía tây bang Utah",
+    "presentation_short_vi": "Cánh đồng muối phẳng lì trắng xoá trải rộng mênh mông, nơi lập nhiều kỷ lục tốc độ trên bộ của thế giới; khung cảnh siêu thực, tuyệt đẹp lúc hoàng hôn.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=40.7683,-113.8236",
+      "yandex": "https://yandex.com/maps/?pt=-113.8236,40.7683&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "salt-flats",
+      "landscape",
+      "scenic",
+      "unique"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-utah-antelope-island-state-park",
+    "slug": "antelope-island-state-park",
+    "region": "us-utah",
+    "country": "usa",
+    "region_name_vi": "Utah",
+    "name_vi": "Công viên bang Đảo Antelope",
+    "name_en": "Antelope Island State Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 40.9583,
+      "lon": -112.2139
+    },
+    "address_vi": "4528 W 1700 S, Syracuse, Hồ Great Salt Lake, bang Utah",
+    "presentation_short_vi": "Hòn đảo lớn nhất trên Hồ Muối Lớn (Great Salt Lake), nơi sinh sống của đàn bò bison hoang dã, linh dương và chim di cư; bãi biển nước mặn và cảnh hồ tuyệt đẹp.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=40.9583,-112.2139",
+      "yandex": "https://yandex.com/maps/?pt=-112.2139,40.9583&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "island",
+      "wildlife",
+      "great-salt-lake",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-utah-dead-horse-point-state-park",
+    "slug": "dead-horse-point-state-park",
+    "region": "us-utah",
+    "country": "usa",
+    "region_name_vi": "Utah",
+    "name_vi": "Công viên bang Dead Horse Point",
+    "name_en": "Dead Horse Point State Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 38.4886,
+      "lon": -109.7407
+    },
+    "address_vi": "Gần Moab, bang Utah",
+    "presentation_short_vi": "Điểm ngắm cảnh nổi tiếng trên vách đá cao khoảng 600 m nhìn xuống khúc uốn ngoạn mục của sông Colorado và hẻm núi Canyonlands; một trong những khung cảnh đẹp nhất miền Tây.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.4886,-109.7407",
+      "yandex": "https://yandex.com/maps/?pt=-109.7407,38.4886&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "viewpoint",
+      "canyon",
+      "scenic",
+      "moab"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-utah-park-city-main-street",
+    "slug": "park-city-main-street",
+    "region": "us-utah",
+    "country": "usa",
+    "region_name_vi": "Utah",
+    "name_vi": "Phố chính Park City",
+    "name_en": "Park City Main Street",
+    "name_local": "",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 40.6438,
+      "lon": -111.4958
+    },
+    "address_vi": "Main St, Park City, bang Utah",
+    "presentation_short_vi": "Con phố lịch sử của thị trấn trượt tuyết Park City với các toà nhà thời khai mỏ, cửa hàng, phòng tranh và nhà hàng; trung tâm của Liên hoan phim Sundance danh tiếng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=40.6438,-111.4958",
+      "yandex": "https://yandex.com/maps/?pt=-111.4958,40.6438&z=16&l=map"
+    },
+    "tags": [
+      "street",
+      "ski-town",
+      "historic",
+      "sundance",
+      "shopping"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-utah-natural-history-museum-of-utah",
+    "slug": "natural-history-museum-of-utah",
+    "region": "us-utah",
+    "country": "usa",
+    "region_name_vi": "Utah",
+    "name_vi": "Bảo tàng Lịch sử Tự nhiên Utah",
+    "name_en": "Natural History Museum of Utah",
+    "name_local": "",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 40.7644,
+      "lon": -111.8236
+    },
+    "address_vi": "301 Wakara Way, Salt Lake City, bang Utah",
+    "presentation_short_vi": "Bảo tàng hiện đại nép bên chân núi Wasatch, nổi bật với kiến trúc ốp đồng và bộ sưu tập hoá thạch khủng long đồ sộ của vùng Utah; tầm nhìn đẹp ra thung lũng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=40.7644,-111.8236",
+      "yandex": "https://yandex.com/maps/?pt=-111.8236,40.7644&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "modern",
+      "dinosaur",
+      "science",
+      "salt-lake-city"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

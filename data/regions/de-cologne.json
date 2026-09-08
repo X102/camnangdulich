@@ -1,0 +1,444 @@
+[
+  {
+    "id": "de-cologne-cologne-cathedral",
+    "slug": "cologne-cathedral",
+    "region": "de-cologne",
+    "country": "germany",
+    "region_name_vi": "Köln (Cologne)",
+    "name_vi": "Nhà thờ chính tòa Köln",
+    "name_en": "Cologne Cathedral",
+    "name_local": "Kölner Dom",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 50.9413,
+      "lon": 6.9583
+    },
+    "address_vi": "Domkloster 4, Köln",
+    "presentation_short_vi": "Thánh đường Gothic đôi tháp cao 157 m, công trình biểu tượng của nước Đức; Di sản Thế giới UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.9413,6.9583",
+      "yandex": "https://yandex.com/maps/?pt=6.9583,50.9413&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "unesco",
+      "church",
+      "gothic",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "de-cologne-great-st-martin",
+    "slug": "great-st-martin",
+    "region": "de-cologne",
+    "country": "germany",
+    "region_name_vi": "Köln (Cologne)",
+    "name_vi": "Nhà thờ Groß St. Martin",
+    "name_en": "Great Saint Martin Church",
+    "name_local": "Groß St. Martin",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 50.938,
+      "lon": 6.9603
+    },
+    "address_vi": "An Groß St. Martin, Köln",
+    "presentation_short_vi": "Nhà thờ Romanesque với tháp trung tâm đặc trưng, điểm nhấn trên đường chân trời phố cổ bên sông Rhine.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.938,6.9603",
+      "yandex": "https://yandex.com/maps/?pt=6.9603,50.938&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "romanesque",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "de-cologne-historic-town-hall",
+    "slug": "historic-town-hall",
+    "region": "de-cologne",
+    "country": "germany",
+    "region_name_vi": "Köln (Cologne)",
+    "name_vi": "Tòa thị chính lịch sử Köln",
+    "name_en": "Cologne Historic Town Hall",
+    "name_local": "Historisches Rathaus Köln",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 50.9384,
+      "lon": 6.9589
+    },
+    "address_vi": "Rathausplatz 2, Köln",
+    "presentation_short_vi": "Tòa thị chính lâu đời nhất nước Đức với tháp chuông Gothic và hành lang Phục Hưng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.9384,6.9589",
+      "yandex": "https://yandex.com/maps/?pt=6.9589,50.9384&z=16&l=map"
+    },
+    "tags": [
+      "monument",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "de-cologne-hohenzollern-bridge",
+    "slug": "hohenzollern-bridge",
+    "region": "de-cologne",
+    "country": "germany",
+    "region_name_vi": "Köln (Cologne)",
+    "name_vi": "Cầu Hohenzollern",
+    "name_en": "Hohenzollern Bridge",
+    "name_local": "Hohenzollernbrücke",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 50.9414,
+      "lon": 6.9667
+    },
+    "address_vi": "Bắc qua sông Rhine, Köln",
+    "presentation_short_vi": "Cầu vòm đường sắt nổi tiếng với hàng vạn 'khóa tình yêu' và tầm nhìn thẳng tới Nhà thờ Köln.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.9414,6.9667",
+      "yandex": "https://yandex.com/maps/?pt=6.9667,50.9414&z=16&l=map"
+    },
+    "tags": [
+      "bridge",
+      "landmark",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "de-cologne-romano-germanic-museum",
+    "slug": "romano-germanic-museum",
+    "region": "de-cologne",
+    "country": "germany",
+    "region_name_vi": "Köln (Cologne)",
+    "name_vi": "Bảo tàng La Mã–Germanic",
+    "name_en": "Roman-Germanic Museum",
+    "name_local": "Römisch-Germanisches Museum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 50.9407,
+      "lon": 6.9578
+    },
+    "address_vi": "Roncalliplatz 4, Köln",
+    "presentation_short_vi": "Bảo tàng khảo cổ trưng bày di sản La Mã của Colonia, nổi tiếng với sàn khảm Dionysus và mộ Poblicius.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.9407,6.9578",
+      "yandex": "https://yandex.com/maps/?pt=6.9578,50.9407&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "roman",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "de-cologne-museum-ludwig",
+    "slug": "museum-ludwig",
+    "region": "de-cologne",
+    "country": "germany",
+    "region_name_vi": "Köln (Cologne)",
+    "name_vi": "Bảo tàng Ludwig",
+    "name_en": "Museum Ludwig",
+    "name_local": "Museum Ludwig",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 50.9409,
+      "lon": 6.9645
+    },
+    "address_vi": "Heinrich-Böll-Platz, Köln",
+    "presentation_short_vi": "Bảo tàng nghệ thuật hiện đại hàng đầu với bộ sưu tập Pop Art, Picasso và Biểu hiện Đức lớn.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.9409,6.9645",
+      "yandex": "https://yandex.com/maps/?pt=6.9645,50.9409&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "art",
+      "modern"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "de-cologne-chocolate-museum",
+    "slug": "chocolate-museum",
+    "region": "de-cologne",
+    "country": "germany",
+    "region_name_vi": "Köln (Cologne)",
+    "name_vi": "Bảo tàng Sô-cô-la",
+    "name_en": "Cologne Chocolate Museum",
+    "name_local": "Schokoladenmuseum Köln",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 50.9317,
+      "lon": 6.9642
+    },
+    "address_vi": "Am Schokoladenmuseum 1a, Köln",
+    "presentation_short_vi": "Bảo tàng bên sông Rhine kể lịch sử ca cao với đài phun sô-cô-la cao 3 m.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.9317,6.9642",
+      "yandex": "https://yandex.com/maps/?pt=6.9642,50.9317&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "family",
+      "modern"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "de-cologne-kolntriangle",
+    "slug": "kolntriangle",
+    "region": "de-cologne",
+    "country": "germany",
+    "region_name_vi": "Köln (Cologne)",
+    "name_vi": "Đài quan sát KölnTriangle",
+    "name_en": "KölnTriangle Panorama",
+    "name_local": "KölnTriangle",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 50.9409,
+      "lon": 6.972
+    },
+    "address_vi": "Ottoplatz 1, Köln-Deutz",
+    "presentation_short_vi": "Tòa nhà cao 103 m với đài quan sát toàn cảnh nhìn ra Nhà thờ Köln và sông Rhine.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.9409,6.972",
+      "yandex": "https://yandex.com/maps/?pt=6.972,50.9409&z=16&l=map"
+    },
+    "tags": [
+      "other",
+      "modern",
+      "observation",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "de-cologne-kranhauser",
+    "slug": "kranhauser",
+    "region": "de-cologne",
+    "country": "germany",
+    "region_name_vi": "Köln (Cologne)",
+    "name_vi": "Cụm nhà Cần cẩu (Kranhäuser)",
+    "name_en": "Crane Houses (Kranhäuser)",
+    "name_local": "Kranhäuser",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 50.9353,
+      "lon": 6.9639
+    },
+    "address_vi": "Rheinauhafen, Köln",
+    "presentation_short_vi": "Ba tòa nhà hình cần cẩu ngược cao 60 m bên bến cảng Rheinauhafen, biểu tượng kiến trúc hiện đại của Köln.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.9353,6.9639",
+      "yandex": "https://yandex.com/maps/?pt=6.9639,50.9353&z=16&l=map"
+    },
+    "tags": [
+      "other",
+      "modern",
+      "architecture",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "de-cologne-rheinpark",
+    "slug": "rheinpark",
+    "region": "de-cologne",
+    "country": "germany",
+    "region_name_vi": "Köln (Cologne)",
+    "name_vi": "Công viên Rheinpark",
+    "name_en": "Rheinpark",
+    "name_local": "Rheinpark",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 50.9497,
+      "lon": 6.974
+    },
+    "address_vi": "Köln-Deutz, tả ngạn sông Rhine",
+    "presentation_short_vi": "Công viên ven sông rộng lớn với đài phun nước nhạc, cáp treo và thảm cỏ thư giãn.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.9497,6.974",
+      "yandex": "https://yandex.com/maps/?pt=6.974,50.9497&z=16&l=map"
+    },
+    "tags": [
+      "park_garden",
+      "nature",
+      "scenic",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "de-cologne-flora-botanical-garden",
+    "slug": "flora-botanical-garden",
+    "region": "de-cologne",
+    "country": "germany",
+    "region_name_vi": "Köln (Cologne)",
+    "name_vi": "Vườn bách thảo Flora Köln",
+    "name_en": "Flora and Botanical Garden Cologne",
+    "name_local": "Flora und Botanischer Garten Köln",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 50.9589,
+      "lon": 6.9739
+    },
+    "address_vi": "Amsterdamer Straße, Köln",
+    "presentation_short_vi": "Vườn bách thảo lịch sử với nhà kính, đài phun nước và hàng nghìn loài thực vật.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.9589,6.9739",
+      "yandex": "https://yandex.com/maps/?pt=6.9739,50.9589&z=16&l=map"
+    },
+    "tags": [
+      "park_garden",
+      "garden",
+      "nature",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "de-cologne-alter-markt",
+    "slug": "alter-markt",
+    "region": "de-cologne",
+    "country": "germany",
+    "region_name_vi": "Köln (Cologne)",
+    "name_vi": "Quảng trường Chợ Cổ (Alter Markt)",
+    "name_en": "Old Market (Alter Markt)",
+    "name_local": "Alter Markt",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 50.9378,
+      "lon": 6.9606
+    },
+    "address_vi": "Alter Markt, Köln-Altstadt",
+    "presentation_short_vi": "Quảng trường phố cổ với dãy nhà nhiều màu, đài phun Jan von Werth và các quán bia truyền thống.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.9378,6.9606",
+      "yandex": "https://yandex.com/maps/?pt=6.9606,50.9378&z=16&l=map"
+    },
+    "tags": [
+      "square_street",
+      "oldtown",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "de-cologne-st-gereon-basilica",
+    "slug": "st-gereon-basilica",
+    "region": "de-cologne",
+    "country": "germany",
+    "region_name_vi": "Köln (Cologne)",
+    "name_vi": "Vương cung thánh đường St. Gereon",
+    "name_en": "Basilica of St. Gereon",
+    "name_local": "Basilika St. Gereon",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 50.9436,
+      "lon": 6.9447
+    },
+    "address_vi": "Gereonsdriesch 2, Köln",
+    "presentation_short_vi": "Một trong 12 nhà thờ Romanesque của Köln, nổi bật với mái vòm decagon (mười cạnh) độc đáo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.9436,6.9447",
+      "yandex": "https://yandex.com/maps/?pt=6.9447,50.9436&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "romanesque",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "de-cologne-cologne-cable-car",
+    "slug": "cologne-cable-car",
+    "region": "de-cologne",
+    "country": "germany",
+    "region_name_vi": "Köln (Cologne)",
+    "name_vi": "Cáp treo Köln",
+    "name_en": "Cologne Cable Car",
+    "name_local": "Kölner Seilbahn",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 50.9575,
+      "lon": 6.9725
+    },
+    "address_vi": "Riehler Straße 180, Köln (ga cáp treo)",
+    "presentation_short_vi": "Tuyến cáp treo đầu tiên ở châu Âu bắc qua một dòng sông lớn, nối sở thú với công viên Rheinpark.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.9575,6.9725",
+      "yandex": "https://yandex.com/maps/?pt=6.9725,50.9575&z=16&l=map"
+    },
+    "tags": [
+      "other",
+      "modern",
+      "scenic",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

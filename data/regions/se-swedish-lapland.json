@@ -1,0 +1,387 @@
+[
+  {
+    "id": "se-swedish-lapland-icehotel",
+    "slug": "icehotel",
+    "region": "se-swedish-lapland",
+    "country": "sweden",
+    "region_name_vi": "Lapland Thụy Điển",
+    "name_vi": "Khách sạn Băng (Icehotel)",
+    "name_en": "Icehotel",
+    "name_local": "Ishotellet",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 67.8498,
+      "lon": 20.595
+    },
+    "address_vi": "Jukkasjärvi, Kiruna, Norrbotten",
+    "presentation_short_vi": "Khách sạn băng đầu tiên trên thế giới, xây lại mỗi mùa đông từ băng sông Torne với các phòng điêu khắc nghệ thuật.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=67.8498,20.595",
+      "yandex": "https://yandex.com/maps/?pt=20.595,67.8498&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "modern",
+      "ice",
+      "hotel",
+      "winter"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-swedish-lapland-aurora-sky-station",
+    "slug": "aurora-sky-station",
+    "region": "se-swedish-lapland",
+    "country": "sweden",
+    "region_name_vi": "Lapland Thụy Điển",
+    "name_vi": "Đài quan sát cực quang Aurora Sky Station",
+    "name_en": "Aurora Sky Station",
+    "name_local": "Aurora Sky Station",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 68.3561,
+      "lon": 18.7181
+    },
+    "address_vi": "Núi Nuolja, Abisko, Norrbotten",
+    "presentation_short_vi": "Đài quan sát trên núi Nuolja trong Vườn quốc gia Abisko, một trong những nơi ngắm bắc cực quang đẹp nhất thế giới.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=68.3561,18.7181",
+      "yandex": "https://yandex.com/maps/?pt=18.7181,68.3561&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "aurora",
+      "observation",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-swedish-lapland-treehotel",
+    "slug": "treehotel",
+    "region": "se-swedish-lapland",
+    "country": "sweden",
+    "region_name_vi": "Lapland Thụy Điển",
+    "name_vi": "Khách sạn trên cây Treehotel",
+    "name_en": "Treehotel",
+    "name_local": "Treehotel",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 66.0728,
+      "lon": 20.9818
+    },
+    "address_vi": "Harads, Boden, Norrbotten",
+    "presentation_short_vi": "Khu nghỉ dưỡng với các phòng thiết kế độc đáo treo trên cây giữa rừng thông, biểu tượng kiến trúc hiện đại của Lapland.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=66.0728,20.9818",
+      "yandex": "https://yandex.com/maps/?pt=20.9818,66.0728&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "design",
+      "hotel",
+      "forest"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-swedish-lapland-abisko-national-park",
+    "slug": "abisko-national-park",
+    "region": "se-swedish-lapland",
+    "country": "sweden",
+    "region_name_vi": "Lapland Thụy Điển",
+    "name_vi": "Vườn quốc gia Abisko",
+    "name_en": "Abisko National Park",
+    "name_local": "Abisko nationalpark",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 68.35,
+      "lon": 18.7833
+    },
+    "address_vi": "Kiruna, Norrbotten",
+    "presentation_short_vi": "Vườn quốc gia nổi tiếng với thung lũng Lapporten và bầu trời quang đãng lý tưởng ngắm cực quang, điểm khởi đầu đường mòn Kungsleden.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=68.35,18.7833",
+      "yandex": "https://yandex.com/maps/?pt=18.7833,68.35&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "nature",
+      "nationalpark",
+      "aurora",
+      "hiking"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-swedish-lapland-lapporten",
+    "slug": "lapporten",
+    "region": "se-swedish-lapland",
+    "country": "sweden",
+    "region_name_vi": "Lapland Thụy Điển",
+    "name_vi": "Thung lũng Lapporten",
+    "name_en": "Lapporten",
+    "name_local": "Tjuonavagge",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 68.3167,
+      "lon": 18.6667
+    },
+    "address_vi": "Abisko, Kiruna, Norrbotten",
+    "presentation_short_vi": "Thung lũng hình chữ U do băng hà tạo thành, biểu tượng thiên nhiên nổi tiếng nhất vùng Lapland Thụy Điển.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=68.3167,18.6667",
+      "yandex": "https://yandex.com/maps/?pt=18.6667,68.3167&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "valley",
+      "landmark",
+      "scenery"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-swedish-lapland-sarek-national-park",
+    "slug": "sarek-national-park",
+    "region": "se-swedish-lapland",
+    "country": "sweden",
+    "region_name_vi": "Lapland Thụy Điển",
+    "name_vi": "Vườn quốc gia Sarek",
+    "name_en": "Sarek National Park",
+    "name_local": "Sareks nationalpark",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 67.2833,
+      "lon": 17.7
+    },
+    "address_vi": "Jokkmokk, Norrbotten (Di sản Laponia)",
+    "presentation_short_vi": "Vườn quốc gia hoang dã bậc nhất châu Âu với hơn 100 sông băng và nhiều đỉnh núi cao, thuộc Di sản thế giới Laponia.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=67.2833,17.7",
+      "yandex": "https://yandex.com/maps/?pt=17.7,67.2833&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "nationalpark",
+      "mountains",
+      "wilderness"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-swedish-lapland-kebnekaise",
+    "slug": "kebnekaise",
+    "region": "se-swedish-lapland",
+    "country": "sweden",
+    "region_name_vi": "Lapland Thụy Điển",
+    "name_vi": "Đỉnh Kebnekaise",
+    "name_en": "Mount Kebnekaise",
+    "name_local": "Kebnekaise",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 67.901,
+      "lon": 18.514
+    },
+    "address_vi": "Kiruna, Norrbotten",
+    "presentation_short_vi": "Ngọn núi cao nhất Thụy Điển (khoảng 2.096 m), điểm leo núi hàng đầu vùng Bắc Cực.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=67.901,18.514",
+      "yandex": "https://yandex.com/maps/?pt=18.514,67.901&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "mountain",
+      "hiking",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-swedish-lapland-storforsen",
+    "slug": "storforsen",
+    "region": "se-swedish-lapland",
+    "country": "sweden",
+    "region_name_vi": "Lapland Thụy Điển",
+    "name_vi": "Thác ghềnh Storforsen",
+    "name_en": "Storforsen Rapids",
+    "name_local": "Storforsen",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 65.9247,
+      "lon": 20.0086
+    },
+    "address_vi": "Vidsel, Älvsbyn, Norrbotten",
+    "presentation_short_vi": "Một trong những ghềnh thác lớn nhất châu Âu trên sông Pite, nước đổ dữ dội qua khu bảo tồn thiên nhiên.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=65.9247,20.0086",
+      "yandex": "https://yandex.com/maps/?pt=20.0086,65.9247&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "waterfall",
+      "rapids",
+      "scenery"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-swedish-lapland-muddus-national-park",
+    "slug": "muddus-national-park",
+    "region": "se-swedish-lapland",
+    "country": "sweden",
+    "region_name_vi": "Lapland Thụy Điển",
+    "name_vi": "Vườn quốc gia Muddus",
+    "name_en": "Muddus National Park",
+    "name_local": "Muddus/Muttos nationalpark",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 66.9167,
+      "lon": 20.1667
+    },
+    "address_vi": "Jokkmokk & Gällivare, Norrbotten (Laponia)",
+    "presentation_short_vi": "Rừng nguyên sinh, đầm lầy và thác nước thuộc Di sản thế giới Laponia, nơi trú ngụ của nhiều loài chim.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=66.9167,20.1667",
+      "yandex": "https://yandex.com/maps/?pt=20.1667,66.9167&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "nationalpark",
+      "forest"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-swedish-lapland-gammelstad-church-town",
+    "slug": "gammelstad-church-town",
+    "region": "se-swedish-lapland",
+    "country": "sweden",
+    "region_name_vi": "Lapland Thụy Điển",
+    "name_vi": "Phố nhà thờ Gammelstad",
+    "name_en": "Gammelstad Church Town",
+    "name_local": "Gammelstads kyrkstad",
+    "categories": [
+      "church",
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 65.6436,
+      "lon": 22.0264
+    },
+    "address_vi": "Luleå, Norrbotten",
+    "presentation_short_vi": "Làng nhà thờ cổ được UNESCO công nhận với hơn 400 nhà gỗ đỏ quanh nhà thờ đá thời trung cổ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=65.6436,22.0264",
+      "yandex": "https://yandex.com/maps/?pt=22.0264,65.6436&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "unesco",
+      "historic",
+      "church"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-swedish-lapland-lulea-cathedral",
+    "slug": "lulea-cathedral",
+    "region": "se-swedish-lapland",
+    "country": "sweden",
+    "region_name_vi": "Lapland Thụy Điển",
+    "name_vi": "Nhà thờ chính tòa Luleå",
+    "name_en": "Luleå Cathedral",
+    "name_local": "Luleå domkyrka",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 65.5842,
+      "lon": 22.1547
+    },
+    "address_vi": "Trung tâm Luleå, Norrbotten",
+    "presentation_short_vi": "Nhà thờ gạch tân Gothic khánh thành năm 1893, công trình tôn giáo tiêu biểu của thành phố cảng Luleå.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=65.5842,22.1547",
+      "yandex": "https://yandex.com/maps/?pt=22.1547,65.5842&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "historic",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-swedish-lapland-ajtte-museum",
+    "slug": "ajtte-museum",
+    "region": "se-swedish-lapland",
+    "country": "sweden",
+    "region_name_vi": "Lapland Thụy Điển",
+    "name_vi": "Bảo tàng Ájtte (núi & người Sámi)",
+    "name_en": "Ájtte, Swedish Mountain and Sámi Museum",
+    "name_local": "Ájtte, Svenskt fjäll- och samemuseum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 66.6053,
+      "lon": 19.8283
+    },
+    "address_vi": "Jokkmokk, Norrbotten",
+    "presentation_short_vi": "Bảo tàng chính về văn hóa người Sámi và thiên nhiên vùng núi, trung tâm phiên chợ mùa đông Jokkmokk trứ danh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=66.6053,19.8283",
+      "yandex": "https://yandex.com/maps/?pt=19.8283,66.6053&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "sami",
+      "culture",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

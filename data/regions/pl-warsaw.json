@@ -1,0 +1,417 @@
+[
+  {
+    "id": "pl-warsaw-quang-truong-cho-co-warsaw",
+    "slug": "quang-truong-cho-co-warsaw",
+    "region": "pl-warsaw",
+    "country": "poland",
+    "region_name_vi": "Warsaw",
+    "name_vi": "Quảng trường Chợ Cổ Warsaw",
+    "name_en": "Old Town Market Square",
+    "name_local": "Rynek Starego Miasta",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 52.2497,
+      "lon": 21.0122
+    },
+    "address_vi": "Rynek Starego Miasta, khu Phố cổ (Stare Miasto), Warsaw",
+    "presentation_short_vi": "Quảng trường trung tâm khu Phố cổ được UNESCO công nhận, tái thiết tỉ mỉ sau Thế chiến II với dãy nhà phố nhiều màu và tượng nàng tiên cá Syrenka biểu tượng của thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.2497,21.0122",
+      "yandex": "https://yandex.com/maps/?pt=21.0122,52.2497&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "unesco",
+      "old-town",
+      "square"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "pl-warsaw-lau-dai-hoang-gia-warsaw",
+    "slug": "lau-dai-hoang-gia-warsaw",
+    "region": "pl-warsaw",
+    "country": "poland",
+    "region_name_vi": "Warsaw",
+    "name_vi": "Lâu đài Hoàng gia Warsaw",
+    "name_en": "Royal Castle",
+    "name_local": "Zamek Królewski",
+    "categories": [
+      "palace",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 52.2478,
+      "lon": 21.015
+    },
+    "address_vi": "Plac Zamkowy 4, Phố cổ, Warsaw",
+    "presentation_short_vi": "Cung điện gạch đỏ từng là nơi ở của vua Ba Lan và trụ sở Quốc hội; bị phá huỷ trong chiến tranh rồi phục dựng nguyên trạng, nay là bảo tàng trưng bày nội thất hoàng gia và tranh của Rembrandt.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.2478,21.015",
+      "yandex": "https://yandex.com/maps/?pt=21.015,52.2478&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "palace",
+      "museum",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "pl-warsaw-quang-truong-lau-dai-va-cot-sigismund",
+    "slug": "quang-truong-lau-dai-va-cot-sigismund",
+    "region": "pl-warsaw",
+    "country": "poland",
+    "region_name_vi": "Warsaw",
+    "name_vi": "Quảng trường Lâu đài và Cột Sigismund",
+    "name_en": "Castle Square and Sigismund Column",
+    "name_local": "Plac Zamkowy i Kolumna Zygmunta",
+    "categories": [
+      "square_street",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 52.2478,
+      "lon": 21.0136
+    },
+    "address_vi": "Plac Zamkowy, Phố cổ, Warsaw",
+    "presentation_short_vi": "Quảng trường hình tam giác ở cửa ngõ Phố cổ, nổi bật với Cột Sigismund III Vasa dựng năm 1644 là đài tưởng niệm thế tục cổ nhất Warsaw.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.2478,21.0136",
+      "yandex": "https://yandex.com/maps/?pt=21.0136,52.2478&z=16&l=map"
+    },
+    "tags": [
+      "square",
+      "monument",
+      "old-town"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "pl-warsaw-cung-van-hoa-va-khoa-hoc",
+    "slug": "cung-van-hoa-va-khoa-hoc",
+    "region": "pl-warsaw",
+    "country": "poland",
+    "region_name_vi": "Warsaw",
+    "name_vi": "Cung Văn hoá và Khoa học",
+    "name_en": "Palace of Culture and Science",
+    "name_local": "Pałac Kultury i Nauki",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 52.2319,
+      "lon": 21.0067
+    },
+    "address_vi": "Plac Defilad 1, quận Śródmieście, Warsaw",
+    "presentation_short_vi": "Toà nhà cao nhất Ba Lan (237 m) theo phong cách hiện thực xã hội chủ nghĩa, quà tặng của Liên Xô năm 1955; có đài quan sát tầng 30 ngắm toàn cảnh thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.2319,21.0067",
+      "yandex": "https://yandex.com/maps/?pt=21.0067,52.2319&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "landmark",
+      "modern",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "pl-warsaw-cong-vien-hoang-gia-azienki",
+    "slug": "cong-vien-hoang-gia-azienki",
+    "region": "pl-warsaw",
+    "country": "poland",
+    "region_name_vi": "Warsaw",
+    "name_vi": "Công viên Hoàng gia Łazienki",
+    "name_en": "Royal Baths Park",
+    "name_local": "Park Łazienki Królewskie",
+    "categories": [
+      "park_garden",
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 52.2153,
+      "lon": 21.0356
+    },
+    "address_vi": "Ul. Agrykola 1, quận Śródmieście, Warsaw",
+    "presentation_short_vi": "Công viên lớn nhất Warsaw với Cung điện trên Đảo soi bóng nước, vườn kiểu Anh và đài tưởng niệm nhạc sĩ Chopin nơi tổ chức hoà nhạc piano ngoài trời mùa hè.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.2153,21.0356",
+      "yandex": "https://yandex.com/maps/?pt=21.0356,52.2153&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "palace",
+      "chopin",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "pl-warsaw-cung-dien-wilanow",
+    "slug": "cung-dien-wilanow",
+    "region": "pl-warsaw",
+    "country": "poland",
+    "region_name_vi": "Warsaw",
+    "name_vi": "Cung điện Wilanów",
+    "name_en": "Wilanów Palace",
+    "name_local": "Pałac w Wilanowie",
+    "categories": [
+      "palace",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 52.1653,
+      "lon": 21.0903
+    },
+    "address_vi": "Ul. Stanisława Kostki Potockiego 10/16, quận Wilanów, Warsaw",
+    "presentation_short_vi": "Cung điện hoàng gia kiểu Baroque cuối thế kỷ 17 của vua Jan III Sobieski, được mệnh danh 'Versailles của Ba Lan', với vườn hoa và nội thất lộng lẫy còn nguyên vẹn.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.1653,21.0903",
+      "yandex": "https://yandex.com/maps/?pt=21.0903,52.1653&z=16&l=map"
+    },
+    "tags": [
+      "palace",
+      "baroque",
+      "garden",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "pl-warsaw-bao-tang-lich-su-nguoi-do-thai-ba-lan-polin",
+    "slug": "bao-tang-lich-su-nguoi-do-thai-ba-lan-polin",
+    "region": "pl-warsaw",
+    "country": "poland",
+    "region_name_vi": "Warsaw",
+    "name_vi": "Bảo tàng Lịch sử Người Do Thái Ba Lan POLIN",
+    "name_en": "POLIN Museum of the History of Polish Jews",
+    "name_local": "Muzeum Historii Żydów Polskich POLIN",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 52.2497,
+      "lon": 20.9933
+    },
+    "address_vi": "Ul. Mordechaja Anielewicza 6, quận Muranów, Warsaw",
+    "presentation_short_vi": "Bảo tàng hiện đại đoạt giải kiến trúc, kể lại một nghìn năm lịch sử cộng đồng Do Thái Ba Lan, toạ lạc tại khu vực từng là ghetto Warsaw.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.2497,20.9933",
+      "yandex": "https://yandex.com/maps/?pt=20.9933,52.2497&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "modern",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "pl-warsaw-bao-tang-khoi-nghia-warsaw",
+    "slug": "bao-tang-khoi-nghia-warsaw",
+    "region": "pl-warsaw",
+    "country": "poland",
+    "region_name_vi": "Warsaw",
+    "name_vi": "Bảo tàng Khởi nghĩa Warsaw",
+    "name_en": "Warsaw Uprising Museum",
+    "name_local": "Muzeum Powstania Warszawskiego",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 52.2323,
+      "lon": 20.9808
+    },
+    "address_vi": "Ul. Grzybowska 79, quận Wola, Warsaw",
+    "presentation_short_vi": "Bảo tàng tương tác tưởng niệm cuộc Khởi nghĩa Warsaw năm 1944 chống phát xít Đức, với hiện vật, phim tài liệu và bản sao máy bay ném bom Liberator.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.2323,20.9808",
+      "yandex": "https://yandex.com/maps/?pt=20.9808,52.2323&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "history",
+      "wwii"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "pl-warsaw-vuong-cung-thanh-duong-thanh-gioan",
+    "slug": "vuong-cung-thanh-duong-thanh-gioan",
+    "region": "pl-warsaw",
+    "country": "poland",
+    "region_name_vi": "Warsaw",
+    "name_vi": "Vương cung Thánh đường Thánh Gioan",
+    "name_en": "St. John's Archcathedral",
+    "name_local": "Archikatedra św. Jana Chrzciciela",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 52.2497,
+      "lon": 21.0139
+    },
+    "address_vi": "Ul. Świętojańska 8, Phố cổ, Warsaw",
+    "presentation_short_vi": "Nhà thờ chính toà cổ nhất Warsaw theo phong cách Gothic gạch, nơi diễn ra lễ đăng quang và tấn phong vua; được phục dựng sau khi bị phá huỷ năm 1944.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.2497,21.0139",
+      "yandex": "https://yandex.com/maps/?pt=21.0139,52.2497&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "gothic",
+      "old-town"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "pl-warsaw-thanh-barbican-warsaw",
+    "slug": "thanh-barbican-warsaw",
+    "region": "pl-warsaw",
+    "country": "poland",
+    "region_name_vi": "Warsaw",
+    "name_vi": "Thành Barbican Warsaw",
+    "name_en": "Warsaw Barbican",
+    "name_local": "Barbakan warszawski",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 52.2514,
+      "lon": 21.0083
+    },
+    "address_vi": "Ul. Nowomiejska, Phố cổ, Warsaw",
+    "presentation_short_vi": "Pháo đài phòng thủ hình bán nguyệt bằng gạch thế kỷ 16 nối Phố cổ với Phố Mới, một trong số ít công trình barbican còn sót lại ở châu Âu.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.2514,21.0083",
+      "yandex": "https://yandex.com/maps/?pt=21.0083,52.2514&z=16&l=map"
+    },
+    "tags": [
+      "fortress",
+      "old-town",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "pl-warsaw-trung-tam-khoa-hoc-copernicus",
+    "slug": "trung-tam-khoa-hoc-copernicus",
+    "region": "pl-warsaw",
+    "country": "poland",
+    "region_name_vi": "Warsaw",
+    "name_vi": "Trung tâm Khoa học Copernicus",
+    "name_en": "Copernicus Science Centre",
+    "name_local": "Centrum Nauki Kopernik",
+    "categories": [
+      "museum",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 52.2419,
+      "lon": 21.0286
+    },
+    "address_vi": "Wybrzeże Kościuszkowskie 20, quận Śródmieście, Warsaw",
+    "presentation_short_vi": "Bảo tàng khoa học tương tác hiện đại bên bờ sông Wisła với hàng trăm mô hình thí nghiệm tự trải nghiệm và một nhà chiếu hình vũ trụ (planetarium).",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.2419,21.0286",
+      "yandex": "https://yandex.com/maps/?pt=21.0286,52.2419&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "modern",
+      "science",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "pl-warsaw-cong-vien-dai-phun-nuoc-da-phuong-tien",
+    "slug": "cong-vien-dai-phun-nuoc-da-phuong-tien",
+    "region": "pl-warsaw",
+    "country": "poland",
+    "region_name_vi": "Warsaw",
+    "name_vi": "Công viên Đài phun nước Đa phương tiện",
+    "name_en": "Multimedia Fountain Park",
+    "name_local": "Multimedialny Park Fontann",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 52.253,
+      "lon": 21.008
+    },
+    "address_vi": "Skwer I Dywizji Pancernej, ven Phố cổ, Warsaw",
+    "presentation_short_vi": "Công viên bên sông cạnh Phố cổ, nổi tiếng với màn trình diễn nhạc nước, ánh sáng và laser vào các tối cuối tuần mùa hè.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.253,21.008",
+      "yandex": "https://yandex.com/maps/?pt=21.008,52.253&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "modern",
+      "show",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "pl-warsaw-tuyen-duong-hoang-gia-krakowskie-przedmiescie",
+    "slug": "tuyen-duong-hoang-gia-krakowskie-przedmiescie",
+    "region": "pl-warsaw",
+    "country": "poland",
+    "region_name_vi": "Warsaw",
+    "name_vi": "Tuyến đường Hoàng gia Krakowskie Przedmieście",
+    "name_en": "Royal Route - Krakowskie Przedmieście",
+    "name_local": "Krakowskie Przedmieście",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 52.2405,
+      "lon": 21.0157
+    },
+    "address_vi": "Ul. Krakowskie Przedmieście, quận Śródmieście, Warsaw",
+    "presentation_short_vi": "Đại lộ đẹp bậc nhất Warsaw nối Phố cổ với các cung điện, nhà thờ, Đại học Warsaw và Dinh Tổng thống, lát đá và rợp bóng cây.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.2405,21.0157",
+      "yandex": "https://yandex.com/maps/?pt=21.0157,52.2405&z=16&l=map"
+    },
+    "tags": [
+      "street",
+      "royal-route",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  }
+]

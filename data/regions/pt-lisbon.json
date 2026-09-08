@@ -1,0 +1,378 @@
+[
+  {
+    "id": "pt-lisbon-thap-belem",
+    "slug": "thap-belem",
+    "region": "pt-lisbon",
+    "country": "portugal",
+    "region_name_vi": "Lisboa",
+    "name_vi": "Tháp Belém",
+    "name_en": "Belém Tower",
+    "name_local": "Torre de Belém",
+    "categories": [
+      "fortress",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 38.6916,
+      "lon": -9.216
+    },
+    "address_vi": "Av. Brasília, 1400-038 Lisboa, Bồ Đào Nha",
+    "presentation_short_vi": "Tháp canh phòng thủ thế kỷ 16 bên sông Tagus theo phong cách Manueline, biểu tượng của Kỷ nguyên Khám phá và Di sản UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.6916,-9.216",
+      "yandex": "https://yandex.com/maps/?pt=-9.216,38.6916&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "landmark",
+      "unesco",
+      "iconic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "pt-lisbon-tu-vien-jeronimos",
+    "slug": "tu-vien-jeronimos",
+    "region": "pt-lisbon",
+    "country": "portugal",
+    "region_name_vi": "Lisboa",
+    "name_vi": "Tu viện Jerónimos",
+    "name_en": "Jerónimos Monastery",
+    "name_local": "Mosteiro dos Jerónimos",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 38.6979,
+      "lon": -9.2065
+    },
+    "address_vi": "Praça do Império, 1400-206 Lisboa, Bồ Đào Nha",
+    "presentation_short_vi": "Tu viện Manueline nguy nga thế kỷ 16, nơi an nghỉ của nhà thám hiểm Vasco da Gama, Di sản Thế giới UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.6979,-9.2065",
+      "yandex": "https://yandex.com/maps/?pt=-9.2065,38.6979&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "church",
+      "unesco"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "pt-lisbon-lau-dai-sao-jorge",
+    "slug": "lau-dai-sao-jorge",
+    "region": "pt-lisbon",
+    "country": "portugal",
+    "region_name_vi": "Lisboa",
+    "name_vi": "Lâu đài São Jorge",
+    "name_en": "São Jorge Castle",
+    "name_local": "Castelo de São Jorge",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 38.7139,
+      "lon": -9.1335
+    },
+    "address_vi": "R. de Santa Cruz do Castelo, 1100-129 Lisboa, Bồ Đào Nha",
+    "presentation_short_vi": "Toà lâu đài Moorish trên đồi cao nhất Lisbon, mang tầm nhìn toàn cảnh thành phố và sông Tagus.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.7139,-9.1335",
+      "yandex": "https://yandex.com/maps/?pt=-9.1335,38.7139&z=16&l=map"
+    },
+    "tags": [
+      "fortress",
+      "viewpoint",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "pt-lisbon-dai-tuong-niem-cac-nha-kham-pha",
+    "slug": "dai-tuong-niem-cac-nha-kham-pha",
+    "region": "pt-lisbon",
+    "country": "portugal",
+    "region_name_vi": "Lisboa",
+    "name_vi": "Đài tưởng niệm các nhà Khám phá",
+    "name_en": "Monument to the Discoveries",
+    "name_local": "Padrão dos Descobrimentos",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 38.6936,
+      "lon": -9.2058
+    },
+    "address_vi": "Av. Brasília, 1400-038 Lisboa, Bồ Đào Nha",
+    "presentation_short_vi": "Đài tưởng niệm bên sông Tagus tôn vinh các nhà hàng hải Bồ Đào Nha thời Kỷ nguyên Khám phá, tạo hình mũi tàu caravel.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.6936,-9.2058",
+      "yandex": "https://yandex.com/maps/?pt=-9.2058,38.6936&z=16&l=map"
+    },
+    "tags": [
+      "monument",
+      "landmark",
+      "riverside"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "pt-lisbon-quang-truong-thuong-mai",
+    "slug": "quang-truong-thuong-mai",
+    "region": "pt-lisbon",
+    "country": "portugal",
+    "region_name_vi": "Lisboa",
+    "name_vi": "Quảng trường Thương mại",
+    "name_en": "Praça do Comércio",
+    "name_local": "Praça do Comércio",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 38.7077,
+      "lon": -9.1366
+    },
+    "address_vi": "Praça do Comércio, 1100-148 Lisboa, Bồ Đào Nha",
+    "presentation_short_vi": "Quảng trường rộng lớn mở ra sông Tagus, trung tâm hành chính lịch sử được tái thiết sau trận động đất năm 1755.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.7077,-9.1366",
+      "yandex": "https://yandex.com/maps/?pt=-9.1366,38.7077&z=16&l=map"
+    },
+    "tags": [
+      "square",
+      "landmark",
+      "riverside"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "pt-lisbon-thang-may-santa-justa",
+    "slug": "thang-may-santa-justa",
+    "region": "pt-lisbon",
+    "country": "portugal",
+    "region_name_vi": "Lisboa",
+    "name_vi": "Thang máy Santa Justa",
+    "name_en": "Santa Justa Lift",
+    "name_local": "Elevador de Santa Justa",
+    "categories": [
+      "monument",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 38.7121,
+      "lon": -9.1394
+    },
+    "address_vi": "R. do Ouro, 1150-060 Lisboa, Bồ Đào Nha",
+    "presentation_short_vi": "Thang máy sắt tân Gothic năm 1902 nối khu Baixa với Chiado, có đài quan sát ngắm khu phố cổ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.7121,-9.1394",
+      "yandex": "https://yandex.com/maps/?pt=-9.1394,38.7121&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "viewpoint",
+      "iconic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "pt-lisbon-nha-tho-lisboa",
+    "slug": "nha-tho-lisboa",
+    "region": "pt-lisbon",
+    "country": "portugal",
+    "region_name_vi": "Lisboa",
+    "name_vi": "Nhà thờ chính tòa Lisboa",
+    "name_en": "Lisbon Cathedral",
+    "name_local": "Sé de Lisboa",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 38.7098,
+      "lon": -9.133
+    },
+    "address_vi": "Largo da Sé, 1100-585 Lisboa, Bồ Đào Nha",
+    "presentation_short_vi": "Nhà thờ chính tòa lâu đời nhất Lisbon (thế kỷ 12) mang kiến trúc Romanesque kiên cố tựa pháo đài.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.7098,-9.133",
+      "yandex": "https://yandex.com/maps/?pt=-9.133,38.7098&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "pt-lisbon-khu-pho-co-alfama",
+    "slug": "khu-pho-co-alfama",
+    "region": "pt-lisbon",
+    "country": "portugal",
+    "region_name_vi": "Lisboa",
+    "name_vi": "Khu phố cổ Alfama",
+    "name_en": "Alfama Old Town",
+    "name_local": "Alfama",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 38.7118,
+      "lon": -9.13
+    },
+    "address_vi": "Alfama, 1100 Lisboa, Bồ Đào Nha",
+    "presentation_short_vi": "Khu phố cổ nhất Lisbon với ngõ hẻm quanh co, nhà lát gạch men và các quán nhạc Fado truyền thống.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.7118,-9.13",
+      "yandex": "https://yandex.com/maps/?pt=-9.13,38.7118&z=16&l=map"
+    },
+    "tags": [
+      "oldtown",
+      "culture",
+      "walk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "pt-lisbon-cau-25-thang-4",
+    "slug": "cau-25-thang-4",
+    "region": "pt-lisbon",
+    "country": "portugal",
+    "region_name_vi": "Lisboa",
+    "name_vi": "Cầu 25 tháng 4",
+    "name_en": "25 de Abril Bridge",
+    "name_local": "Ponte 25 de Abril",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 38.6892,
+      "lon": -9.1773
+    },
+    "address_vi": "Ponte 25 de Abril, Lisboa, Bồ Đào Nha",
+    "presentation_short_vi": "Cầu treo dài hơn 2 km bắc qua sông Tagus, khánh thành năm 1966, gợi nhớ cầu Cổng Vàng của San Francisco.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.6892,-9.1773",
+      "yandex": "https://yandex.com/maps/?pt=-9.1773,38.6892&z=16&l=map"
+    },
+    "tags": [
+      "bridge",
+      "landmark",
+      "modern"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "pt-lisbon-thuy-cung-lisboa",
+    "slug": "thuy-cung-lisboa",
+    "region": "pt-lisbon",
+    "country": "portugal",
+    "region_name_vi": "Lisboa",
+    "name_vi": "Thủy cung Lisboa",
+    "name_en": "Lisbon Oceanarium",
+    "name_local": "Oceanário de Lisboa",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 38.7634,
+      "lon": -9.0937
+    },
+    "address_vi": "Esplanada Dom Carlos I, 1990-005 Lisboa, Bồ Đào Nha",
+    "presentation_short_vi": "Một trong những thủy cung lớn nhất châu Âu tại Parque das Nações, tái hiện các đại dương quanh một bể trung tâm khổng lồ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.7634,-9.0937",
+      "yandex": "https://yandex.com/maps/?pt=-9.0937,38.7634&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "family",
+      "aquarium"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "pt-lisbon-bao-tang-gach-men-quoc-gia",
+    "slug": "bao-tang-gach-men-quoc-gia",
+    "region": "pt-lisbon",
+    "country": "portugal",
+    "region_name_vi": "Lisboa",
+    "name_vi": "Bảo tàng Gạch men Quốc gia",
+    "name_en": "National Azulejo Museum",
+    "name_local": "Museu Nacional do Azulejo",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 38.725,
+      "lon": -9.1139
+    },
+    "address_vi": "R. Me. Deus 4, 1900-312 Lisboa, Bồ Đào Nha",
+    "presentation_short_vi": "Bảo tàng quốc gia về gạch men azulejo đặt trong tu viện thế kỷ 16, kể lại 500 năm nghệ thuật gạch men Bồ Đào Nha.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.725,-9.1139",
+      "yandex": "https://yandex.com/maps/?pt=-9.1139,38.725&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "art",
+      "culture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "pt-lisbon-lx-factory",
+    "slug": "lx-factory",
+    "region": "pt-lisbon",
+    "country": "portugal",
+    "region_name_vi": "Lisboa",
+    "name_vi": "Khu sáng tạo LX Factory",
+    "name_en": "LX Factory",
+    "name_local": "LX Factory",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 38.7036,
+      "lon": -9.1786
+    },
+    "address_vi": "R. Rodrigues de Faria 103, 1300-501 Lisboa, Bồ Đào Nha",
+    "presentation_short_vi": "Khu công nghiệp cũ được cải tạo thành tổ hợp sáng tạo với cửa hàng, quán cà phê và nghệ thuật đường phố dưới chân cầu 25 tháng 4.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.7036,-9.1786",
+      "yandex": "https://yandex.com/maps/?pt=-9.1786,38.7036&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "creative",
+      "shopping"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

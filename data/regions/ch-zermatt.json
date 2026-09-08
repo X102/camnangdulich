@@ -1,0 +1,463 @@
+[
+  {
+    "id": "ch-zermatt-nui-matterhorn",
+    "slug": "nui-matterhorn",
+    "region": "ch-zermatt",
+    "country": "switzerland",
+    "region_name_vi": "Zermatt",
+    "name_vi": "Núi Matterhorn",
+    "name_en": "Matterhorn",
+    "name_local": "Matterhorn",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 45.9763,
+      "lon": 7.6586
+    },
+    "address_vi": "Biên giới Thụy Sĩ - Ý, phía nam Zermatt, bang Valais",
+    "presentation_short_vi": "Đỉnh núi hình kim tự tháp cao 4.478 m nổi tiếng nhất dãy Alps, biểu tượng của Thụy Sĩ và của hãng sô-cô-la Toblerone; hình bóng phản chiếu trên các hồ quanh Zermatt là cảnh tượng kinh điển.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=45.9763,7.6586",
+      "yandex": "https://yandex.com/maps/?pt=7.6586,45.9763&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "mountain",
+      "nature",
+      "iconic",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-zermatt-matterhorn-glacier-paradise",
+    "slug": "matterhorn-glacier-paradise",
+    "region": "ch-zermatt",
+    "country": "switzerland",
+    "region_name_vi": "Zermatt",
+    "name_vi": "Matterhorn Glacier Paradise",
+    "name_en": "Matterhorn Glacier Paradise",
+    "name_local": "Klein Matterhorn",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 45.9383,
+      "lon": 7.7297
+    },
+    "address_vi": "Ga cáp treo Klein Matterhorn, độ cao 3.883 m, Zermatt",
+    "presentation_short_vi": "Đài quan sát và ga cáp treo cao nhất châu Âu (3.883 m) với sân thượng ngắm hơn 30 đỉnh núi bốn nghìn mét, cung điện băng (Glacier Palace) đục trong lòng sông băng và khu trượt tuyết quanh năm.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=45.9383,7.7297",
+      "yandex": "https://yandex.com/maps/?pt=7.7297,45.9383&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "modern",
+      "cablecar",
+      "glacier",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-zermatt-gornergrat",
+    "slug": "gornergrat",
+    "region": "ch-zermatt",
+    "country": "switzerland",
+    "region_name_vi": "Zermatt",
+    "name_vi": "Gornergrat",
+    "name_en": "Gornergrat",
+    "name_local": "Gornergrat",
+    "categories": [
+      "other",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 45.9836,
+      "lon": 7.7845
+    },
+    "address_vi": "Ga Gornergrat, độ cao 3.089 m, Zermatt",
+    "presentation_short_vi": "Đài quan sát 3.089 m tới bằng tuyến đường sắt răng cưa lộ thiên cao nhất châu Âu, mở toàn cảnh núi Matterhorn cùng sông băng Gorner và đỉnh Monte Rosa - nóc nhà Thụy Sĩ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=45.9836,7.7845",
+      "yandex": "https://yandex.com/maps/?pt=7.7845,45.9836&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "cograilway",
+      "viewpoint",
+      "mountain",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-zermatt-sunnegga",
+    "slug": "sunnegga",
+    "region": "ch-zermatt",
+    "country": "switzerland",
+    "region_name_vi": "Zermatt",
+    "name_vi": "Sân thượng Sunnegga",
+    "name_en": "Sunnegga",
+    "name_local": "Sunnegga",
+    "categories": [
+      "other",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 46.0244,
+      "lon": 7.7607
+    },
+    "address_vi": "Ga Sunnegga, độ cao 2.288 m, Zermatt",
+    "presentation_short_vi": "Sân thượng ngắm cảnh 2.288 m tới trong 3 phút bằng tàu điện leo dốc ngầm, điểm khởi đầu tuyến đi bộ tới hồ Leisee và hướng nhìn tuyệt đẹp về Matterhorn, lý tưởng cho gia đình.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.0244,7.7607",
+      "yandex": "https://yandex.com/maps/?pt=7.7607,46.0244&z=16&l=map"
+    },
+    "tags": [
+      "funicular",
+      "viewpoint",
+      "family",
+      "scenic",
+      "mountain"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-zermatt-rothorn",
+    "slug": "rothorn",
+    "region": "ch-zermatt",
+    "country": "switzerland",
+    "region_name_vi": "Zermatt",
+    "name_vi": "Đỉnh Rothorn",
+    "name_en": "Rothorn",
+    "name_local": "Unterrothorn",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 46.03,
+      "lon": 7.776
+    },
+    "address_vi": "Ga cáp treo Rothorn, độ cao 3.103 m, Zermatt",
+    "presentation_short_vi": "Đỉnh 3.103 m tới bằng cáp treo, một trong những ban công ngắm Matterhorn và biển núi Alps ngoạn mục nhất, điểm cuối của tuyến '5 hồ' (5-Seenweg) trứ danh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.03,7.776",
+      "yandex": "https://yandex.com/maps/?pt=7.776,46.03&z=16&l=map"
+    },
+    "tags": [
+      "cablecar",
+      "viewpoint",
+      "mountain",
+      "hiking",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-zermatt-hem-nui-gorner",
+    "slug": "hem-nui-gorner",
+    "region": "ch-zermatt",
+    "country": "switzerland",
+    "region_name_vi": "Zermatt",
+    "name_vi": "Hẻm núi Gorner",
+    "name_en": "Gorner Gorge",
+    "name_local": "Gornerschlucht",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 46.0125,
+      "lon": 7.7472
+    },
+    "address_vi": "Gornerschlucht, phía nam làng Zermatt",
+    "presentation_short_vi": "Hẻm núi sâu do dòng băng tan bào mòn đá phiến xanh qua hàng nghìn năm, len lỏi trên hệ thống cầu gỗ ván sát vách đá dựng đứng, một cảnh quan thiên nhiên kỳ thú gần làng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.0125,7.7472",
+      "yandex": "https://yandex.com/maps/?pt=7.7472,46.0125&z=16&l=map"
+    },
+    "tags": [
+      "gorge",
+      "nature",
+      "scenic",
+      "hiking"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-zermatt-song-bang-gorner",
+    "slug": "song-bang-gorner",
+    "region": "ch-zermatt",
+    "country": "switzerland",
+    "region_name_vi": "Zermatt",
+    "name_vi": "Sông băng Gorner",
+    "name_en": "Gorner Glacier",
+    "name_local": "Gornergletscher",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 45.98,
+      "lon": 7.79
+    },
+    "address_vi": "Gornergletscher, nhìn từ Gornergrat, Zermatt",
+    "presentation_short_vi": "Hệ thống sông băng dài khoảng 12 km, lớn thứ nhì dãy Alps, trải dài dưới chân Monte Rosa; nhìn rõ nhất từ đài Gornergrat với dòng băng trắng xanh uốn lượn giữa các đỉnh cao.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=45.98,7.79",
+      "yandex": "https://yandex.com/maps/?pt=7.79,45.98&z=16&l=map"
+    },
+    "tags": [
+      "glacier",
+      "nature",
+      "scenic",
+      "mountain"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-zermatt-ho-riffelsee",
+    "slug": "ho-riffelsee",
+    "region": "ch-zermatt",
+    "country": "switzerland",
+    "region_name_vi": "Zermatt",
+    "name_vi": "Hồ Riffelsee",
+    "name_en": "Riffelsee",
+    "name_local": "Riffelsee",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 45.9905,
+      "lon": 7.7712
+    },
+    "address_vi": "Riffelsee, khu Rotenboden, tuyến Gornergrat, Zermatt",
+    "presentation_short_vi": "Hồ núi nhỏ ở độ cao 2.757 m gần ga Rotenboden, nổi tiếng với mặt nước phẳng lặng phản chiếu hình núi Matterhorn hoàn hảo - một trong những khung hình được chụp nhiều nhất Thụy Sĩ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=45.9905,7.7712",
+      "yandex": "https://yandex.com/maps/?pt=7.7712,45.9905&z=16&l=map"
+    },
+    "tags": [
+      "lake",
+      "reflection",
+      "nature",
+      "scenic",
+      "photo"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-zermatt-ho-stellisee",
+    "slug": "ho-stellisee",
+    "region": "ch-zermatt",
+    "country": "switzerland",
+    "region_name_vi": "Zermatt",
+    "name_vi": "Hồ Stellisee",
+    "name_en": "Stellisee",
+    "name_local": "Stellisee",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 46.0139,
+      "lon": 7.8003
+    },
+    "address_vi": "Stellisee, khu Blauherd, Zermatt",
+    "presentation_short_vi": "Hồ trên núi ở độ cao 2.537 m gần ga Blauherd, mặt hồ tĩnh lặng in bóng Matterhorn vào lúc bình minh, điểm nhấn nổi tiếng nhất của tuyến đi bộ Năm Hồ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.0139,7.8003",
+      "yandex": "https://yandex.com/maps/?pt=7.8003,46.0139&z=16&l=map"
+    },
+    "tags": [
+      "lake",
+      "reflection",
+      "nature",
+      "hiking",
+      "photo"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-zermatt-ho-schwarzsee",
+    "slug": "ho-schwarzsee",
+    "region": "ch-zermatt",
+    "country": "switzerland",
+    "region_name_vi": "Zermatt",
+    "name_vi": "Hồ Schwarzsee",
+    "name_en": "Schwarzsee",
+    "name_local": "Schwarzsee",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 45.975,
+      "lon": 7.7075
+    },
+    "address_vi": "Schwarzsee, độ cao 2.552 m, Zermatt",
+    "presentation_short_vi": "Hồ nhỏ ở độ cao 2.552 m ngay dưới chân Matterhorn, bên hồ có nhà nguyện hành hương Maria zum See; điểm xuất phát đường leo lên trại Hörnli trên đường chinh phục đỉnh núi.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=45.975,7.7075",
+      "yandex": "https://yandex.com/maps/?pt=7.7075,45.975&z=16&l=map"
+    },
+    "tags": [
+      "lake",
+      "chapel",
+      "nature",
+      "hiking",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-zermatt-pho-co-hinterdorf",
+    "slug": "pho-co-hinterdorf",
+    "region": "ch-zermatt",
+    "country": "switzerland",
+    "region_name_vi": "Zermatt",
+    "name_vi": "Phố cổ Hinterdorf",
+    "name_en": "Hinterdorf Old Village",
+    "name_local": "Hinterdorf",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 46.0195,
+      "lon": 7.748
+    },
+    "address_vi": "Hinterdorf, trung tâm làng Zermatt",
+    "presentation_short_vi": "Khu phố cổ nhất Zermatt với những nhà kho và vựa lúa bằng gỗ thông sạm đen hàng trăm năm tuổi, dựng trên các trụ đá tròn chắn chuột, tái hiện đời sống làng núi Valais xưa.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.0195,7.748",
+      "yandex": "https://yandex.com/maps/?pt=7.748,46.0195&z=16&l=map"
+    },
+    "tags": [
+      "oldtown",
+      "history",
+      "wooden",
+      "heritage",
+      "walk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-zermatt-bao-tang-matterhorn",
+    "slug": "bao-tang-matterhorn",
+    "region": "ch-zermatt",
+    "country": "switzerland",
+    "region_name_vi": "Zermatt",
+    "name_vi": "Bảo tàng Matterhorn – Zermatlantis",
+    "name_en": "Matterhorn Museum – Zermatlantis",
+    "name_local": "Matterhorn Museum – Zermatlantis",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 46.0208,
+      "lon": 7.7466
+    },
+    "address_vi": "Kirchplatz, trung tâm làng Zermatt",
+    "presentation_short_vi": "Bảo tàng dưới mái vòm kính tái dựng một ngôi làng Zermatt thu nhỏ, kể câu chuyện chinh phục Matterhorn năm 1865 và bi kịch đứt dây khiến 4 nhà leo núi thiệt mạng, trưng bày cả sợi dây định mệnh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.0208,7.7466",
+      "yandex": "https://yandex.com/maps/?pt=7.7466,46.0208&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "history",
+      "culture",
+      "mountaineering"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-zermatt-nha-tho-thanh-mauritius",
+    "slug": "nha-tho-thanh-mauritius",
+    "region": "ch-zermatt",
+    "country": "switzerland",
+    "region_name_vi": "Zermatt",
+    "name_vi": "Nhà thờ Thánh Mauritius",
+    "name_en": "St. Mauritius Church",
+    "name_local": "Pfarrkirche St. Mauritius",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 46.0206,
+      "lon": 7.7469
+    },
+    "address_vi": "Kirchplatz, trung tâm làng Zermatt",
+    "presentation_short_vi": "Nhà thờ giáo xứ Công giáo ở trung tâm làng với tháp chuông cao vút, phía sau là nghĩa trang những nhà leo núi (Mountaineers' Cemetery) an nghỉ nhiều người ngã xuống trên Matterhorn.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.0206,7.7469",
+      "yandex": "https://yandex.com/maps/?pt=7.7469,46.0206&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "history",
+      "landmark",
+      "central"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-zermatt-cau-kirchbrucke",
+    "slug": "cau-kirchbrucke",
+    "region": "ch-zermatt",
+    "country": "switzerland",
+    "region_name_vi": "Zermatt",
+    "name_vi": "Cầu Kirchbrücke",
+    "name_en": "Kirchbrücke",
+    "name_local": "Kirchbrücke",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 46.0203,
+      "lon": 7.7477
+    },
+    "address_vi": "Kirchbrücke, bắc qua sông Matter Vispa, Zermatt",
+    "presentation_short_vi": "Cây cầu bắc qua dòng Matter Vispa ngay trung tâm làng, một trong những điểm ngắm và chụp Matterhorn nổi tiếng nhất Zermatt, đặc biệt rực rỡ khi đỉnh núi ánh vàng lúc hoàng hôn.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.0203,7.7477",
+      "yandex": "https://yandex.com/maps/?pt=7.7477,46.0203&z=16&l=map"
+    },
+    "tags": [
+      "bridge",
+      "viewpoint",
+      "central",
+      "photo",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

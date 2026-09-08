@@ -1,0 +1,197 @@
+[
+  {
+    "id": "th-uthai-thani-wat-tha-sung",
+    "slug": "wat-tha-sung",
+    "region": "th-uthai-thani",
+    "country": "thailand",
+    "region_name_vi": "Uthai Thani",
+    "name_vi": "Chùa Tha Sung (Chantharam)",
+    "name_en": "Wat Tha Sung (Wat Chantharam)",
+    "name_local": "วัดท่าซุง (วัดจันทาราม)",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 15.327968,
+      "lon": 100.071219
+    },
+    "address_vi": "Huyện Mueang, tỉnh Uthai Thani",
+    "rating": null,
+    "presentation_short_vi": "Ngôi chùa nổi tiếng với gian sảnh 'Lâu đài Thủy tinh' (Wihan Kaeo) ốp gương trắng lộng lẫy bên sông Sakae Krang, một trong những công trình tráng lệ nhất miền Trung Thái Lan.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.071219,15.327968&z=17&pt=100.071219,15.327968",
+      "google": "https://www.google.com/maps/search/?api=1&query=15.327968,100.071219"
+    },
+    "tags": [
+      "temple",
+      "wat",
+      "glass_hall",
+      "riverside"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "th-uthai-thani-wat-sangkat-rattana-khiri",
+    "slug": "wat-sangkat-rattana-khiri",
+    "region": "th-uthai-thani",
+    "country": "thailand",
+    "region_name_vi": "Uthai Thani",
+    "name_vi": "Chùa Sangkat Rattana Khiri (Khao Sakae Krang)",
+    "name_en": "Wat Sangkat Rattana Khiri (Khao Sakae Krang)",
+    "name_local": "วัดสังกัสรัตนคีรี",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 15.378751,
+      "lon": 100.016927
+    },
+    "address_vi": "Huyện Mueang, tỉnh Uthai Thani",
+    "rating": null,
+    "presentation_short_vi": "Ngôi chùa dưới chân đồi Khao Sakae Krang với 449 bậc thang rồng dẫn lên tượng Phật vàng và đỉnh ngắm toàn cảnh thành phố; nơi diễn ra lễ khất thực Tak Bat Thewo nổi tiếng.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.016927,15.378751&z=17&pt=100.016927,15.378751",
+      "google": "https://www.google.com/maps/search/?api=1&query=15.378751,100.016927"
+    },
+    "tags": [
+      "temple",
+      "wat",
+      "hilltop",
+      "viewpoint",
+      "golden_buddha"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "th-uthai-thani-huai-kha-khaeng-wildlife-sanctuary",
+    "slug": "huai-kha-khaeng-wildlife-sanctuary",
+    "region": "th-uthai-thani",
+    "country": "thailand",
+    "region_name_vi": "Uthai Thani",
+    "name_vi": "Khu bảo tồn ĐVHD Huai Kha Khaeng",
+    "name_en": "Huai Kha Khaeng Wildlife Sanctuary",
+    "name_local": "เขตรักษาพันธุ์สัตว์ป่าห้วยขาแข้ง",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 15.41806,
+      "lon": 99.2325
+    },
+    "address_vi": "Huyện Lan Sak, tỉnh Uthai Thani",
+    "rating": null,
+    "presentation_short_vi": "Khu bảo tồn động vật hoang dã được UNESCO công nhận Di sản Thế giới, một trong những vùng rừng nguyên sinh rộng lớn và đa dạng sinh học bậc nhất Đông Nam Á, nơi sinh sống của hổ và nhiều loài quý hiếm.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=99.2325,15.41806&z=17&pt=99.2325,15.41806",
+      "google": "https://www.google.com/maps/search/?api=1&query=15.41806,99.2325"
+    },
+    "tags": [
+      "wildlife_sanctuary",
+      "unesco",
+      "world_heritage",
+      "forest",
+      "tiger"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "th-uthai-thani-hup-pa-tat",
+    "slug": "hup-pa-tat",
+    "region": "th-uthai-thani",
+    "country": "thailand",
+    "region_name_vi": "Uthai Thani",
+    "name_vi": "Thung lũng Hup Pa Tat",
+    "name_en": "Hup Pa Tat",
+    "name_local": "หุบป่าตาด",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 15.377328,
+      "lon": 99.633424
+    },
+    "address_vi": "Huyện Lan Sak, tỉnh Uthai Thani",
+    "rating": null,
+    "presentation_short_vi": "Thung lũng đá vôi khép kín ẩn giữa vách núi, được ví như 'công viên kỷ Jura', với khu rừng cọ cổ độc đáo mà lối vào phải xuyên qua một hang động.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=99.633424,15.377328&z=17&pt=99.633424,15.377328",
+      "google": "https://www.google.com/maps/search/?api=1&query=15.377328,99.633424"
+    },
+    "tags": [
+      "valley",
+      "limestone",
+      "cave",
+      "prehistoric_forest",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "th-uthai-thani-wat-tham-khao-wong",
+    "slug": "wat-tham-khao-wong",
+    "region": "th-uthai-thani",
+    "country": "thailand",
+    "region_name_vi": "Uthai Thani",
+    "name_vi": "Chùa Tham Khao Wong",
+    "name_en": "Wat Tham Khao Wong",
+    "name_local": "วัดถ้ำเขาวง",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 15.03222,
+      "lon": 99.45611
+    },
+    "address_vi": "Huyện Ban Rai, tỉnh Uthai Thani",
+    "rating": null,
+    "presentation_short_vi": "Ngôi chùa trên núi độc đáo với các công trình dựng trên mỏm đá và hang động, khung cảnh thanh tịnh giữa thiên nhiên vùng Ban Rai.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=99.45611,15.03222&z=17&pt=99.45611,15.03222",
+      "google": "https://www.google.com/maps/search/?api=1&query=15.03222,99.45611"
+    },
+    "tags": [
+      "temple",
+      "wat",
+      "cave",
+      "mountain"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "th-uthai-thani-wat-khao-wong-phrommachan",
+    "slug": "wat-khao-wong-phrommachan",
+    "region": "th-uthai-thani",
+    "country": "thailand",
+    "region_name_vi": "Uthai Thani",
+    "name_vi": "Chùa Khao Wong Phrommachan",
+    "name_en": "Wat Khao Wong Phrommachan",
+    "name_local": "วัดเขาวงพรหมจรรย์",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 15.30306,
+      "lon": 99.75417
+    },
+    "address_vi": "Huyện Ban Rai, tỉnh Uthai Thani",
+    "rating": null,
+    "presentation_short_vi": "Ngôi chùa rừng thiền nằm giữa vùng đồi núi huyện Ban Rai, khung cảnh tĩnh lặng, là điểm chiêm bái và hành thiền trong vùng.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=99.75417,15.30306&z=17&pt=99.75417,15.30306",
+      "google": "https://www.google.com/maps/search/?api=1&query=15.30306,99.75417"
+    },
+    "tags": [
+      "temple",
+      "wat",
+      "forest_temple",
+      "meditation"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  }
+]

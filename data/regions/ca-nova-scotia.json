@@ -1,0 +1,407 @@
+[
+  {
+    "id": "ca-nova-scotia-halifax-waterfront",
+    "slug": "halifax-waterfront",
+    "region": "ca-nova-scotia",
+    "region_name_vi": "Nova Scotia",
+    "country": "canada",
+    "name_vi": "Bờ đi dạo Cảng Halifax",
+    "name_en": "Halifax Waterfront Boardwalk",
+    "name_local": "",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 44.6476,
+      "lon": -63.5686
+    },
+    "address_vi": "Halifax, Nova Scotia",
+    "presentation_short_vi": "Lối đi bộ ven cảng dài khoảng 4 km với nhà hàng, quán bar, bảo tàng và tàu cổ, là trục dạo chơi sôi động nhất Halifax.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-63.5686,44.6476&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=44.6476,-63.5686"
+    },
+    "tags": [
+      "modern",
+      "waterfront",
+      "promenade"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-nova-scotia-macdonald-bridge",
+    "slug": "macdonald-bridge",
+    "region": "ca-nova-scotia",
+    "region_name_vi": "Nova Scotia",
+    "country": "canada",
+    "name_vi": "Cầu Angus L. Macdonald",
+    "name_en": "Angus L. Macdonald Bridge",
+    "name_local": "",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 44.6614,
+      "lon": -63.5747
+    },
+    "address_vi": "Halifax, Nova Scotia",
+    "presentation_short_vi": "Cầu treo bắc qua cảng Halifax nối Halifax với Dartmouth, có làn đi bộ và xe đạp ngắm toàn cảnh vịnh.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-63.5747,44.6614&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=44.6614,-63.5747"
+    },
+    "tags": [
+      "modern",
+      "bridge",
+      "harbour"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-nova-scotia-halifax-citadel",
+    "slug": "halifax-citadel",
+    "region": "ca-nova-scotia",
+    "region_name_vi": "Nova Scotia",
+    "country": "canada",
+    "name_vi": "Thành cổ Halifax (Pháo đài George)",
+    "name_en": "Halifax Citadel (Fort George)",
+    "name_local": "",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 44.6475,
+      "lon": -63.58028
+    },
+    "address_vi": "Halifax, Nova Scotia",
+    "presentation_short_vi": "Pháo đài hình sao trên đồi giữa lòng Halifax, mỗi trưa vẫn bắn đại bác theo nghi thức và tái hiện đời sống quân đội thế kỷ 19.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-63.58028,44.6475&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=44.6475,-63.58028"
+    },
+    "tags": [
+      "historic",
+      "fort",
+      "citadel"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-nova-scotia-fortress-louisbourg",
+    "slug": "fortress-louisbourg",
+    "region": "ca-nova-scotia",
+    "region_name_vi": "Nova Scotia",
+    "country": "canada",
+    "name_vi": "Pháo đài Louisbourg",
+    "name_en": "Fortress of Louisbourg",
+    "name_local": "",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 45.8925,
+      "lon": -59.985
+    },
+    "address_vi": "Louisbourg, Cape Breton, Nova Scotia",
+    "presentation_short_vi": "Thành lũy Pháp thế kỷ 18 được phục dựng lớn nhất Bắc Mỹ trên đảo Cape Breton, tái hiện sống động một thị trấn thuộc địa nhộn nhịp.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-59.985,45.8925&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=45.8925,-59.985"
+    },
+    "tags": [
+      "historic",
+      "fort",
+      "french"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-nova-scotia-peggys-cove-lighthouse",
+    "slug": "peggys-cove-lighthouse",
+    "region": "ca-nova-scotia",
+    "region_name_vi": "Nova Scotia",
+    "country": "canada",
+    "name_vi": "Hải đăng Peggy's Cove",
+    "name_en": "Peggy's Point Lighthouse",
+    "name_local": "",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 44.491806,
+      "lon": -63.91861
+    },
+    "address_vi": "Peggy's Cove, Nova Scotia",
+    "presentation_short_vi": "Ngọn hải đăng đỏ trắng đứng trên bãi đá granite bên làng chài Peggy's Cove, một trong những biểu tượng được chụp ảnh nhiều nhất Canada.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-63.91861,44.491806&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=44.491806,-63.91861"
+    },
+    "tags": [
+      "landmark",
+      "lighthouse",
+      "coast",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-nova-scotia-maritime-museum-atlantic",
+    "slug": "maritime-museum-atlantic",
+    "region": "ca-nova-scotia",
+    "region_name_vi": "Nova Scotia",
+    "country": "canada",
+    "name_vi": "Bảo tàng Hàng hải Đại Tây Dương",
+    "name_en": "Maritime Museum of the Atlantic",
+    "name_local": "",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 44.6479,
+      "lon": -63.569
+    },
+    "address_vi": "Halifax, Nova Scotia",
+    "presentation_short_vi": "Bảo tàng hàng hải lâu đời của Canada bên cảng Halifax, nổi bật với hiện vật về thảm họa Titanic và vụ nổ Halifax năm 1917.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-63.569,44.6479&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=44.6479,-63.569"
+    },
+    "tags": [
+      "museum",
+      "maritime",
+      "titanic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-nova-scotia-pier-21",
+    "slug": "pier-21",
+    "region": "ca-nova-scotia",
+    "region_name_vi": "Nova Scotia",
+    "country": "canada",
+    "name_vi": "Bảo tàng Nhập cư Canada tại Bến 21",
+    "name_en": "Canadian Museum of Immigration at Pier 21",
+    "name_local": "",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 44.636,
+      "lon": -63.5665
+    },
+    "address_vi": "Halifax, Nova Scotia",
+    "presentation_short_vi": "Bảo tàng quốc gia đặt tại bến tàu nơi hơn một triệu người nhập cư đặt chân đến Canada giai đoạn 1928–1971.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-63.5665,44.636&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=44.636,-63.5665"
+    },
+    "tags": [
+      "museum",
+      "history",
+      "heritage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-nova-scotia-st-marys-basilica",
+    "slug": "st-marys-basilica",
+    "region": "ca-nova-scotia",
+    "region_name_vi": "Nova Scotia",
+    "country": "canada",
+    "name_vi": "Vương cung thánh đường St. Mary",
+    "name_en": "St. Mary's Cathedral Basilica",
+    "name_local": "",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 44.6445,
+      "lon": -63.573
+    },
+    "address_vi": "Halifax, Nova Scotia",
+    "presentation_short_vi": "Nhà thờ Công giáo tân Gothic với ngọn tháp đá granite cao vào loại nhất Bắc Mỹ, trung tâm tôn giáo lịch sử của Halifax.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-63.573,44.6445&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=44.6445,-63.573"
+    },
+    "tags": [
+      "historic",
+      "church",
+      "gothic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-nova-scotia-lunenburg-old-town",
+    "slug": "lunenburg-old-town",
+    "region": "ca-nova-scotia",
+    "region_name_vi": "Nova Scotia",
+    "country": "canada",
+    "name_vi": "Phố cổ Lunenburg",
+    "name_en": "Old Town Lunenburg",
+    "name_local": "",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 44.3778,
+      "lon": -64.3094
+    },
+    "address_vi": "Lunenburg, Nova Scotia",
+    "presentation_short_vi": "Thị trấn cảng thuộc địa Anh thế kỷ 18 với những ngôi nhà gỗ sơn màu rực rỡ, Di sản Thế giới UNESCO còn nguyên bố cục ô bàn cờ.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-64.3094,44.3778&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=44.3778,-64.3094"
+    },
+    "tags": [
+      "historic",
+      "unesco",
+      "old_town"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-nova-scotia-province-house",
+    "slug": "province-house",
+    "region": "ca-nova-scotia",
+    "region_name_vi": "Nova Scotia",
+    "country": "canada",
+    "name_vi": "Tòa nhà Nghị viện Nova Scotia",
+    "name_en": "Province House",
+    "name_local": "",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 44.6486,
+      "lon": -63.5736
+    },
+    "address_vi": "Halifax, Nova Scotia",
+    "presentation_short_vi": "Tòa nhà nghị viện phong cách Palladian khánh thành năm 1819, nơi họp lâu đời nhất của một cơ quan lập pháp tại Canada.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-63.5736,44.6486&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=44.6486,-63.5736"
+    },
+    "tags": [
+      "historic",
+      "government",
+      "georgian"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-nova-scotia-cape-breton-highlands",
+    "slug": "cape-breton-highlands",
+    "region": "ca-nova-scotia",
+    "region_name_vi": "Nova Scotia",
+    "country": "canada",
+    "name_vi": "Vườn quốc gia Cao nguyên Cape Breton",
+    "name_en": "Cape Breton Highlands National Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 46.73333,
+      "lon": -60.64167
+    },
+    "address_vi": "Đảo Cape Breton, Nova Scotia",
+    "presentation_short_vi": "Vườn quốc gia có cung đường Cabot Trail huyền thoại uốn lượn giữa cao nguyên và bờ biển dựng đứng nhìn ra Đại Tây Dương.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-60.64167,46.73333&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=46.73333,-60.64167"
+    },
+    "tags": [
+      "nature",
+      "coast",
+      "national_park",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-nova-scotia-kejimkujik",
+    "slug": "kejimkujik",
+    "region": "ca-nova-scotia",
+    "region_name_vi": "Nova Scotia",
+    "country": "canada",
+    "name_vi": "Vườn quốc gia Kejimkujik",
+    "name_en": "Kejimkujik National Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 44.39917,
+      "lon": -65.21833
+    },
+    "address_vi": "Maitland Bridge, Nova Scotia",
+    "presentation_short_vi": "Vườn quốc gia kiêm di tích lịch sử với hồ, rừng và các hình khắc đá cổ của người Mi'kmaq, nổi tiếng ngắm sao và chèo thuyền.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-65.21833,44.39917&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=44.39917,-65.21833"
+    },
+    "tags": [
+      "nature",
+      "lake",
+      "indigenous"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-nova-scotia-burntcoat-head",
+    "slug": "burntcoat-head",
+    "region": "ca-nova-scotia",
+    "region_name_vi": "Nova Scotia",
+    "country": "canada",
+    "name_vi": "Công viên Burntcoat Head (Vịnh Fundy)",
+    "name_en": "Burntcoat Head Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 45.305,
+      "lon": -63.8113
+    },
+    "address_vi": "Noel, Nova Scotia",
+    "presentation_short_vi": "Nơi ghi nhận thủy triều cao nhất thế giới ở Vịnh Fundy; khi triều rút du khách có thể đi bộ dưới đáy biển quanh mũi đất.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-63.8113,45.305&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=45.305,-63.8113"
+    },
+    "tags": [
+      "nature",
+      "tides",
+      "coast"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

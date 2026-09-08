@@ -1,0 +1,387 @@
+[
+  {
+    "id": "us-arizona-grand-canyon",
+    "slug": "grand-canyon",
+    "region": "us-arizona",
+    "country": "usa",
+    "region_name_vi": "Arizona",
+    "name_vi": "Hẻm núi Lớn (Grand Canyon)",
+    "name_en": "Grand Canyon National Park (South Rim)",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.0544,
+      "lon": -112.1401
+    },
+    "address_vi": "Grand Canyon Village, bang Arizona",
+    "presentation_short_vi": "Hẻm núi khổng lồ do sông Colorado bào mòn hàng triệu năm, sâu hơn 1,6 km, một trong bảy kỳ quan thiên nhiên và Di sản Thế giới UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.0544,-112.1401",
+      "yandex": "https://yandex.com/maps/?pt=-112.1401,36.0544&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "canyon",
+      "unesco",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-arizona-antelope-canyon",
+    "slug": "antelope-canyon",
+    "region": "us-arizona",
+    "country": "usa",
+    "region_name_vi": "Arizona",
+    "name_vi": "Hẻm núi Linh Dương (Antelope)",
+    "name_en": "Antelope Canyon",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.862,
+      "lon": -111.3743
+    },
+    "address_vi": "Gần Page, đất Navajo, bang Arizona",
+    "presentation_short_vi": "Hẻm núi khe hẹp trứ danh với những vách đá sa thạch cam đỏ uốn lượn và các tia nắng xuyên xuống tạo khung cảnh siêu thực, do người Navajo quản lý.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.862,-111.3743",
+      "yandex": "https://yandex.com/maps/?pt=-111.3743,36.862&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "canyon",
+      "slot-canyon",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-arizona-horseshoe-bend",
+    "slug": "horseshoe-bend",
+    "region": "us-arizona",
+    "country": "usa",
+    "region_name_vi": "Arizona",
+    "name_vi": "Khúc cua Móng Ngựa (Horseshoe Bend)",
+    "name_en": "Horseshoe Bend",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.8791,
+      "lon": -111.5104
+    },
+    "address_vi": "Gần Page, bang Arizona",
+    "presentation_short_vi": "Khúc uốn hình móng ngựa ngoạn mục của sông Colorado, nhìn từ vách đá cao khoảng 300 m, một trong những điểm chụp ảnh nổi tiếng nhất miền Tây nước Mỹ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.8791,-111.5104",
+      "yandex": "https://yandex.com/maps/?pt=-111.5104,36.8791&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "scenic",
+      "river",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-arizona-monument-valley",
+    "slug": "monument-valley",
+    "region": "us-arizona",
+    "country": "usa",
+    "region_name_vi": "Arizona",
+    "name_vi": "Thung lũng Đài tưởng niệm (Monument Valley)",
+    "name_en": "Monument Valley",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.983,
+      "lon": -110.1
+    },
+    "address_vi": "Ranh giới Arizona - Utah, đất Navajo",
+    "presentation_short_vi": "Vùng sa mạc với những khối đá sa thạch đỏ khổng lồ (butte) dựng đứng, biểu tượng của miền Tây hoang dã và bối cảnh vô số bộ phim cao bồi.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.983,-110.1",
+      "yandex": "https://yandex.com/maps/?pt=-110.1,36.983&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "scenic",
+      "desert",
+      "iconic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-arizona-cathedral-rock-sedona",
+    "slug": "cathedral-rock-sedona",
+    "region": "us-arizona",
+    "country": "usa",
+    "region_name_vi": "Arizona",
+    "name_vi": "Đá Nhà thờ Sedona",
+    "name_en": "Cathedral Rock (Sedona)",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 34.8206,
+      "lon": -111.7912
+    },
+    "address_vi": "Sedona, bang Arizona",
+    "presentation_short_vi": "Khối đá đỏ nổi tiếng của Sedona, điểm leo núi và ngắm hoàng hôn tuyệt đẹp, được xem là một trong những 'xoáy năng lượng' linh thiêng của vùng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.8206,-111.7912",
+      "yandex": "https://yandex.com/maps/?pt=-111.7912,34.8206&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "scenic",
+      "sedona",
+      "redrock"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-arizona-chapel-holy-cross",
+    "slug": "chapel-holy-cross",
+    "region": "us-arizona",
+    "country": "usa",
+    "region_name_vi": "Arizona",
+    "name_vi": "Nhà nguyện Thánh Giá",
+    "name_en": "Chapel of the Holy Cross",
+    "name_local": "",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 34.832,
+      "lon": -111.7668
+    },
+    "address_vi": "780 Chapel Rd, Sedona, bang Arizona",
+    "presentation_short_vi": "Nhà nguyện Công giáo hiện đại xây thẳng vào vách đá đỏ Sedona năm 1956, kiệt tác kiến trúc hoà quyện với thiên nhiên hùng vĩ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.832,-111.7668",
+      "yandex": "https://yandex.com/maps/?pt=-111.7668,34.832&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "modern",
+      "sedona",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-arizona-saguaro-national-park",
+    "slug": "saguaro-national-park",
+    "region": "us-arizona",
+    "country": "usa",
+    "region_name_vi": "Arizona",
+    "name_vi": "Vườn quốc gia Saguaro",
+    "name_en": "Saguaro National Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 32.2967,
+      "lon": -111.1666
+    },
+    "address_vi": "Gần Tucson, bang Arizona",
+    "presentation_short_vi": "Vườn quốc gia bảo tồn rừng xương rồng khổng lồ Saguaro - loài xương rồng biểu tượng của sa mạc Sonoran, có thể cao tới 12 m và sống hàng trăm năm.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=32.2967,-111.1666",
+      "yandex": "https://yandex.com/maps/?pt=-111.1666,32.2967&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "desert",
+      "cactus",
+      "park"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-arizona-petrified-forest",
+    "slug": "petrified-forest",
+    "region": "us-arizona",
+    "country": "usa",
+    "region_name_vi": "Arizona",
+    "name_vi": "Vườn quốc gia Rừng Hoá đá",
+    "name_en": "Petrified Forest National Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 34.91,
+      "lon": -109.8068
+    },
+    "address_vi": "Hạt Navajo & Apache, bang Arizona",
+    "presentation_short_vi": "Vườn quốc gia nổi tiếng với những thân cây hoá thạch óng ánh nhiều màu có niên đại hơn 200 triệu năm và vùng đất badland Painted Desert rực rỡ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.91,-109.8068",
+      "yandex": "https://yandex.com/maps/?pt=-109.8068,34.91&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "park",
+      "fossil",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-arizona-montezuma-castle",
+    "slug": "montezuma-castle",
+    "region": "us-arizona",
+    "country": "usa",
+    "region_name_vi": "Arizona",
+    "name_vi": "Lâu đài Montezuma",
+    "name_en": "Montezuma Castle National Monument",
+    "name_local": "",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 34.6111,
+      "lon": -111.8367
+    },
+    "address_vi": "Camp Verde, bang Arizona",
+    "presentation_short_vi": "Cụm nhà ở trong vách đá 5 tầng do người Sinagua bản địa xây dựng khoảng 900 năm trước, một trong những di tích khảo cổ được bảo tồn tốt nhất nước Mỹ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.6111,-111.8367",
+      "yandex": "https://yandex.com/maps/?pt=-111.8367,34.6111&z=16&l=map"
+    },
+    "tags": [
+      "historic",
+      "native",
+      "cliff-dwelling",
+      "monument"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-arizona-san-xavier-del-bac",
+    "slug": "san-xavier-del-bac",
+    "region": "us-arizona",
+    "country": "usa",
+    "region_name_vi": "Arizona",
+    "name_vi": "Nhà thờ Truyền giáo San Xavier del Bac",
+    "name_en": "Mission San Xavier del Bac",
+    "name_local": "",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 32.107,
+      "lon": -111.008
+    },
+    "address_vi": "Gần Tucson, đất Tohono O'odham, bang Arizona",
+    "presentation_short_vi": "Nhà thờ truyền giáo Tây Ban Nha kiểu Baroque xây từ cuối thế kỷ 18, được mệnh danh 'Bồ câu trắng của sa mạc', kiệt tác kiến trúc thuộc địa còn hoạt động.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=32.107,-111.008",
+      "yandex": "https://yandex.com/maps/?pt=-111.008,32.107&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "historic",
+      "mission",
+      "spanish"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-arizona-desert-botanical-garden",
+    "slug": "desert-botanical-garden",
+    "region": "us-arizona",
+    "country": "usa",
+    "region_name_vi": "Arizona",
+    "name_vi": "Vườn Thực vật Sa mạc",
+    "name_en": "Desert Botanical Garden",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 33.4617,
+      "lon": -111.9447
+    },
+    "address_vi": "1201 N Galvin Pkwy, Phoenix, bang Arizona",
+    "presentation_short_vi": "Vườn thực vật ngoài trời ở Phoenix trưng bày hàng nghìn loài xương rồng và cây sa mạc từ khắp thế giới, đẹp nhất vào mùa xuân khi hoa nở rộ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=33.4617,-111.9447",
+      "yandex": "https://yandex.com/maps/?pt=-111.9447,33.4617&z=16&l=map"
+    },
+    "tags": [
+      "garden",
+      "desert",
+      "phoenix",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-arizona-taliesin-west",
+    "slug": "taliesin-west",
+    "region": "us-arizona",
+    "country": "usa",
+    "region_name_vi": "Arizona",
+    "name_vi": "Taliesin West",
+    "name_en": "Taliesin West",
+    "name_local": "",
+    "categories": [
+      "other",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 33.6064,
+      "lon": -111.8453
+    },
+    "address_vi": "Scottsdale, bang Arizona",
+    "presentation_short_vi": "Nhà mùa đông và trường kiến trúc do Frank Lloyd Wright thiết kế giữa sa mạc, tuyệt tác kiến trúc hữu cơ và là Di sản Thế giới UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=33.6064,-111.8453",
+      "yandex": "https://yandex.com/maps/?pt=-111.8453,33.6064&z=16&l=map"
+    },
+    "tags": [
+      "architecture",
+      "modern",
+      "unesco",
+      "wright"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

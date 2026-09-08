@@ -1,0 +1,406 @@
+[
+  {
+    "id": "se-gothenburg-liseberg",
+    "slug": "liseberg",
+    "region": "se-gothenburg",
+    "country": "sweden",
+    "region_name_vi": "Gothenburg",
+    "name_vi": "Công viên giải trí Liseberg",
+    "name_en": "Liseberg",
+    "name_local": "Liseberg",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 57.6959,
+      "lon": 11.9922
+    },
+    "address_vi": "Örgrytevägen 5, Gothenburg",
+    "presentation_short_vi": "Công viên giải trí lớn và nổi tiếng nhất Bắc Âu, mở cửa từ 1923, với tàu lượn siêu tốc, khu vườn và lễ hội Giáng sinh rực rỡ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=57.6959,11.9922",
+      "yandex": "https://yandex.com/maps/?pt=11.9922,57.6959&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "amusement-park",
+      "modern",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "se-gothenburg-universeum",
+    "slug": "universeum",
+    "region": "se-gothenburg",
+    "country": "sweden",
+    "region_name_vi": "Gothenburg",
+    "name_vi": "Trung tâm khoa học Universeum",
+    "name_en": "Universeum",
+    "name_local": "Universeum",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 57.6958,
+      "lon": 11.9865
+    },
+    "address_vi": "Södra vägen 50, Gothenburg",
+    "presentation_short_vi": "Trung tâm khoa học hiện đại với rừng mưa nhiệt đới trong nhà, bể cá và không gian khám phá tương tác — điểm đến hàng đầu cho gia đình.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=57.6958,11.9865",
+      "yandex": "https://yandex.com/maps/?pt=11.9865,57.6958&z=16&l=map"
+    },
+    "tags": [
+      "science",
+      "modern",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "se-gothenburg-konstmuseum",
+    "slug": "konstmuseum",
+    "region": "se-gothenburg",
+    "country": "sweden",
+    "region_name_vi": "Gothenburg",
+    "name_vi": "Bảo tàng Nghệ thuật Gothenburg",
+    "name_en": "Gothenburg Museum of Art",
+    "name_local": "Göteborgs konstmuseum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 57.6976,
+      "lon": 11.9796
+    },
+    "address_vi": "Götaplatsen, Gothenburg",
+    "presentation_short_vi": "Bảo tàng lưu giữ bộ sưu tập nghệ thuật Bắc Âu tầm cỡ, đặc biệt các danh họa Thụy Điển thời kỳ hoàng kim cuối thế kỷ 19.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=57.6976,11.9796",
+      "yandex": "https://yandex.com/maps/?pt=11.9796,57.6976&z=16&l=map"
+    },
+    "tags": [
+      "art",
+      "museum",
+      "culture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "se-gothenburg-haga",
+    "slug": "haga",
+    "region": "se-gothenburg",
+    "country": "sweden",
+    "region_name_vi": "Gothenburg",
+    "name_vi": "Khu phố cổ Haga",
+    "name_en": "Haga",
+    "name_local": "Haga",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 57.6989,
+      "lon": 11.954
+    },
+    "address_vi": "Quận Haga, trung tâm Gothenburg",
+    "presentation_short_vi": "Khu phố cổ thế kỷ 17 với những dãy nhà gỗ 'landshövdingehus', đường lát đá cuội và các quán cà phê nổi tiếng với bánh quế khổng lồ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=57.6989,11.954",
+      "yandex": "https://yandex.com/maps/?pt=11.954,57.6989&z=16&l=map"
+    },
+    "tags": [
+      "old-town",
+      "history",
+      "walking"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "se-gothenburg-feskekorka",
+    "slug": "feskekorka",
+    "region": "se-gothenburg",
+    "country": "sweden",
+    "region_name_vi": "Gothenburg",
+    "name_vi": "Chợ cá Feskekôrka (Nhà thờ Cá)",
+    "name_en": "Feskekôrka (Fish Church)",
+    "name_local": "Feskekörka",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 57.7003,
+      "lon": 11.9583
+    },
+    "address_vi": "Rosenlundsgatan, Gothenburg",
+    "presentation_short_vi": "Chợ cá độc đáo trong tòa nhà xây năm 1874 mang dáng dấp nhà thờ tân Gothic, biểu tượng ẩm thực hải sản của thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=57.7003,11.9583",
+      "yandex": "https://yandex.com/maps/?pt=11.9583,57.7003&z=16&l=map"
+    },
+    "tags": [
+      "market",
+      "seafood",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "se-gothenburg-domkyrka",
+    "slug": "domkyrka",
+    "region": "se-gothenburg",
+    "country": "sweden",
+    "region_name_vi": "Gothenburg",
+    "name_vi": "Nhà thờ chính tòa Gothenburg",
+    "name_en": "Gothenburg Cathedral",
+    "name_local": "Göteborgs domkyrka",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 57.7057,
+      "lon": 11.9668
+    },
+    "address_vi": "Kyrkogatan 28, Gothenburg",
+    "presentation_short_vi": "Nhà thờ tân cổ điển hoàn thành năm 1815 (phiên bản thứ ba tại vị trí này), với mặt tiền trắng thanh lịch ở trung tâm phố cổ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=57.7057,11.9668",
+      "yandex": "https://yandex.com/maps/?pt=11.9668,57.7057&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "se-gothenburg-skansen-kronan",
+    "slug": "skansen-kronan",
+    "region": "se-gothenburg",
+    "country": "sweden",
+    "region_name_vi": "Gothenburg",
+    "name_vi": "Pháo đài Skansen Kronan",
+    "name_en": "Skansen Kronan",
+    "name_local": "Skansen Kronan",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 57.6969,
+      "lon": 11.956
+    },
+    "address_vi": "Đồi Risåsberget, Haga, Gothenburg",
+    "presentation_short_vi": "Pháo đài phòng thủ thế kỷ 17 trên đỉnh đồi, đội 'vương miện' đặc trưng, nay là điểm ngắm toàn cảnh thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=57.6969,11.956",
+      "yandex": "https://yandex.com/maps/?pt=11.956,57.6969&z=16&l=map"
+    },
+    "tags": [
+      "fortress",
+      "history",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "se-gothenburg-slottsskogen",
+    "slug": "slottsskogen",
+    "region": "se-gothenburg",
+    "country": "sweden",
+    "region_name_vi": "Gothenburg",
+    "name_vi": "Công viên Slottsskogen",
+    "name_en": "Slottsskogen",
+    "name_local": "Slottsskogen",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 57.6847,
+      "lon": 11.9439
+    },
+    "address_vi": "Slottsskogen, Gothenburg",
+    "presentation_short_vi": "Công viên đô thị lớn nhất Gothenburg với đồng cỏ, hồ nước, vườn thú nhỏ và đàn chim cánh cụt — lá phổi xanh của thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=57.6847,11.9439",
+      "yandex": "https://yandex.com/maps/?pt=11.9439,57.6847&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "nature",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "se-gothenburg-tradgardsforeningen",
+    "slug": "tradgardsforeningen",
+    "region": "se-gothenburg",
+    "country": "sweden",
+    "region_name_vi": "Gothenburg",
+    "name_vi": "Vườn Trädgårdsföreningen",
+    "name_en": "The Garden Society of Gothenburg",
+    "name_local": "Trädgårdsföreningen",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 57.7052,
+      "lon": 11.9793
+    },
+    "address_vi": "Slussgatan 1, Gothenburg",
+    "presentation_short_vi": "Một trong những vườn cảnh thế kỷ 19 được bảo tồn tốt nhất châu Âu, nổi bật với Nhà kính Cọ (Palm House) bằng kính và vườn hồng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=57.7052,11.9793",
+      "yandex": "https://yandex.com/maps/?pt=11.9793,57.7052&z=16&l=map"
+    },
+    "tags": [
+      "garden",
+      "park",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "se-gothenburg-maritiman",
+    "slug": "maritiman",
+    "region": "se-gothenburg",
+    "country": "sweden",
+    "region_name_vi": "Gothenburg",
+    "name_vi": "Bảo tàng hàng hải Maritiman",
+    "name_en": "Maritiman",
+    "name_local": "Maritiman",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 57.7092,
+      "lon": 11.9497
+    },
+    "address_vi": "Packhuskajen 8, Gothenburg",
+    "presentation_short_vi": "Bảo tàng hàng hải nổi lớn nhất thế giới gồm nhiều tàu thật, trong đó có tàu khu trục và tàu ngầm mà du khách có thể lên tham quan.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=57.7092,11.9497",
+      "yandex": "https://yandex.com/maps/?pt=11.9497,57.7092&z=16&l=map"
+    },
+    "tags": [
+      "maritime",
+      "museum",
+      "ships"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "se-gothenburg-avenyn",
+    "slug": "avenyn",
+    "region": "se-gothenburg",
+    "country": "sweden",
+    "region_name_vi": "Gothenburg",
+    "name_vi": "Đại lộ Avenyn",
+    "name_en": "Avenyn (Kungsportsavenyen)",
+    "name_local": "Kungsportsavenyen",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 57.701,
+      "lon": 11.9745
+    },
+    "address_vi": "Kungsportsavenyen, Gothenburg",
+    "presentation_short_vi": "Đại lộ chính dài khoảng 1 km, trục sầm uất của thành phố với hàng quán, nhà hàng, rạp hát, dẫn thẳng tới quảng trường Götaplatsen.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=57.701,11.9745",
+      "yandex": "https://yandex.com/maps/?pt=11.9745,57.701&z=16&l=map"
+    },
+    "tags": [
+      "boulevard",
+      "shopping",
+      "nightlife"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "se-gothenburg-alvsborg",
+    "slug": "alvsborg",
+    "region": "se-gothenburg",
+    "country": "sweden",
+    "region_name_vi": "Gothenburg",
+    "name_vi": "Pháo đài Nya Älvsborg",
+    "name_en": "New Älvsborg Fortress",
+    "name_local": "Nya Älvsborgs fästning",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 57.6858,
+      "lon": 11.8353
+    },
+    "address_vi": "Đảo trên vịnh Göta älv, Gothenburg",
+    "presentation_short_vi": "Pháo đài trên đảo thế kỷ 17 canh giữ cửa sông, từng chống lại các cuộc tấn công của Đan Mạch; đến thăm bằng thuyền vào mùa hè.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=57.6858,11.8353",
+      "yandex": "https://yandex.com/maps/?pt=11.8353,57.6858&z=16&l=map"
+    },
+    "tags": [
+      "fortress",
+      "island",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "se-gothenburg-sodra-skargarden",
+    "slug": "sodra-skargarden",
+    "region": "se-gothenburg",
+    "country": "sweden",
+    "region_name_vi": "Gothenburg",
+    "name_vi": "Quần đảo phía Nam Gothenburg",
+    "name_en": "Southern Gothenburg Archipelago",
+    "name_local": "Göteborgs södra skärgård",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 57.63,
+      "lon": 11.78
+    },
+    "address_vi": "Quần đảo phía nam, Gothenburg",
+    "presentation_short_vi": "Chuỗi đảo không có ô tô (Styrsö, Brännö, Vrångö…) với làng chài, bãi tắm và đường mòn ven biển — thiên đường nghỉ dưỡng gần thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=57.63,11.78",
+      "yandex": "https://yandex.com/maps/?pt=11.78,57.63&z=16&l=map"
+    },
+    "tags": [
+      "archipelago",
+      "nature",
+      "islands"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  }
+]

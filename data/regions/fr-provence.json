@@ -1,0 +1,423 @@
+[
+  {
+    "id": "fr-provence-palais-des-papes",
+    "slug": "palais-des-papes",
+    "region": "fr-provence",
+    "country": "france",
+    "region_name_vi": "Provence",
+    "name_vi": "Cung điện Giáo hoàng (Palais des Papes)",
+    "name_en": "Palais des Papes (Popes' Palace)",
+    "name_local": "Palais des Papes",
+    "categories": [
+      "palace",
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 43.9508,
+      "lon": 4.8075
+    },
+    "address_vi": "Place du Palais, Avignon",
+    "presentation_short_vi": "Cung điện Gothic đồ sộ thế kỷ 14 từng là nơi ở của các Giáo hoàng, một trong những công trình Gothic lớn nhất châu Âu; Di sản Thế giới UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=43.9508,4.8075",
+      "yandex": "https://yandex.com/maps/?pt=4.8075,43.9508&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "unesco",
+      "palace",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fr-provence-pont-saint-benezet",
+    "slug": "pont-saint-benezet",
+    "region": "fr-provence",
+    "country": "france",
+    "region_name_vi": "Provence",
+    "name_vi": "Cầu Saint-Bénézet (Cầu Avignon)",
+    "name_en": "Pont Saint-Benezet (Pont d'Avignon)",
+    "name_local": "Pont Saint-Bénézet",
+    "categories": [
+      "bridge",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 43.953,
+      "lon": 4.8051
+    },
+    "address_vi": "Sông Rhône, Avignon",
+    "presentation_short_vi": "Cây cầu đá thời trung cổ nổi tiếng qua bài hát 'Sur le pont d'Avignon', nay chỉ còn 4 nhịp vươn ra sông Rhône; Di sản UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=43.953,4.8051",
+      "yandex": "https://yandex.com/maps/?pt=4.8051,43.953&z=16&l=map"
+    },
+    "tags": [
+      "unesco",
+      "bridge",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fr-provence-arenes-arles",
+    "slug": "arenes-arles",
+    "region": "fr-provence",
+    "country": "france",
+    "region_name_vi": "Provence",
+    "name_vi": "Đấu trường La Mã Arles",
+    "name_en": "Arles Amphitheatre",
+    "name_local": "Arènes d'Arles",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 43.6776,
+      "lon": 4.631
+    },
+    "address_vi": "Rond-Point des Arènes, Arles",
+    "presentation_short_vi": "Đấu trường La Mã hai tầng xây khoảng năm 90 sau CN, sức chứa hơn 20.000 khán giả, nay vẫn tổ chức sự kiện; Di sản UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=43.6776,4.631",
+      "yandex": "https://yandex.com/maps/?pt=4.631,43.6776&z=16&l=map"
+    },
+    "tags": [
+      "unesco",
+      "roman",
+      "monument",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fr-provence-theatre-antique-orange",
+    "slug": "theatre-antique-orange",
+    "region": "fr-provence",
+    "country": "france",
+    "region_name_vi": "Provence",
+    "name_vi": "Nhà hát cổ La Mã Orange",
+    "name_en": "Ancient Theatre of Orange",
+    "name_local": "Théâtre antique d'Orange",
+    "categories": [
+      "theatre",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 44.1367,
+      "lon": 4.8083
+    },
+    "address_vi": "Orange, Vaucluse",
+    "presentation_short_vi": "Nhà hát La Mã cổ được bảo tồn tốt nhất châu Âu với bức tường sân khấu cao 37 m còn nguyên vẹn; Di sản Thế giới UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=44.1367,4.8083",
+      "yandex": "https://yandex.com/maps/?pt=4.8083,44.1367&z=16&l=map"
+    },
+    "tags": [
+      "unesco",
+      "roman",
+      "theatre",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fr-provence-gorges-du-verdon",
+    "slug": "gorges-du-verdon",
+    "region": "fr-provence",
+    "country": "france",
+    "region_name_vi": "Provence",
+    "name_vi": "Hẻm núi Verdon",
+    "name_en": "Verdon Gorge",
+    "name_local": "Gorges du Verdon",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 43.7378,
+      "lon": 6.3639
+    },
+    "address_vi": "Alpes-de-Haute-Provence / Var",
+    "presentation_short_vi": "Hẻm núi sâu tới 700 m với dòng Verdon xanh ngọc bích, được ví như 'Grand Canyon của châu Âu', thiên đường chèo thuyền và leo núi.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=43.7378,6.3639",
+      "yandex": "https://yandex.com/maps/?pt=6.3639,43.7378&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "canyon",
+      "scenic",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fr-provence-abbaye-de-senanque",
+    "slug": "abbaye-de-senanque",
+    "region": "fr-provence",
+    "country": "france",
+    "region_name_vi": "Provence",
+    "name_vi": "Tu viện Sénanque",
+    "name_en": "Sénanque Abbey",
+    "name_local": "Abbaye Notre-Dame de Sénanque",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 43.9283,
+      "lon": 5.1917
+    },
+    "address_vi": "Gordes, Vaucluse",
+    "presentation_short_vi": "Tu viện Xitô thế kỷ 12 nằm giữa thung lũng, nổi tiếng với cánh đồng oải hương tím rực trước mặt tiền đá mỗi mùa hè.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=43.9283,5.1917",
+      "yandex": "https://yandex.com/maps/?pt=5.1917,43.9283&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "abbey",
+      "scenic",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fr-provence-gordes",
+    "slug": "gordes",
+    "region": "fr-provence",
+    "country": "france",
+    "region_name_vi": "Provence",
+    "name_vi": "Làng cổ Gordes",
+    "name_en": "Gordes",
+    "name_local": "Gordes",
+    "categories": [
+      "square_street",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 43.9114,
+      "lon": 5.2003
+    },
+    "address_vi": "Vaucluse, Provence",
+    "presentation_short_vi": "Ngôi làng bậc thang tuyệt đẹp bám vào sườn đồi đá, được bình chọn là một trong những làng đẹp nhất nước Pháp.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=43.9114,5.2003",
+      "yandex": "https://yandex.com/maps/?pt=5.2003,43.9114&z=16&l=map"
+    },
+    "tags": [
+      "village",
+      "scenic",
+      "hilltop"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fr-provence-roussillon-ocres",
+    "slug": "roussillon-ocres",
+    "region": "fr-provence",
+    "country": "france",
+    "region_name_vi": "Provence",
+    "name_vi": "Làng đất son Roussillon",
+    "name_en": "Roussillon (Ochre Trail)",
+    "name_local": "Roussillon",
+    "categories": [
+      "park_garden",
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 43.9025,
+      "lon": 5.2925
+    },
+    "address_vi": "Vaucluse, Provence",
+    "presentation_short_vi": "Ngôi làng nổi tiếng với vách đá và nhà cửa nhuộm sắc đỏ - cam của mỏ đất son, có tuyến đi bộ 'Sentier des Ocres' độc đáo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=43.9025,5.2925",
+      "yandex": "https://yandex.com/maps/?pt=5.2925,43.9025&z=16&l=map"
+    },
+    "tags": [
+      "scenic",
+      "village",
+      "nature",
+      "ochre"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fr-provence-mont-ventoux",
+    "slug": "mont-ventoux",
+    "region": "fr-provence",
+    "country": "france",
+    "region_name_vi": "Provence",
+    "name_vi": "Núi Ventoux",
+    "name_en": "Mont Ventoux",
+    "name_local": "Mont Ventoux",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 44.1741,
+      "lon": 5.2786
+    },
+    "address_vi": "Vaucluse, Provence",
+    "presentation_short_vi": "Đỉnh núi cao 1.909 m mệnh danh 'Người khổng lồ xứ Provence', huyền thoại của Tour de France với đỉnh trắng trơ đá vôi.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=44.1741,5.2786",
+      "yandex": "https://yandex.com/maps/?pt=5.2786,44.1741&z=16&l=map"
+    },
+    "tags": [
+      "mountain",
+      "nature",
+      "scenic",
+      "cycling"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fr-provence-parc-national-calanques",
+    "slug": "parc-national-calanques",
+    "region": "fr-provence",
+    "country": "france",
+    "region_name_vi": "Provence",
+    "name_vi": "Vườn quốc gia Calanques",
+    "name_en": "Calanques National Park",
+    "name_local": "Parc national des Calanques",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 43.2119,
+      "lon": 5.4406
+    },
+    "address_vi": "Giữa Marseille và Cassis",
+    "presentation_short_vi": "Vườn quốc gia ven biển với các vịnh nhỏ (calanque) đá vôi trắng dựng đứng và nước biển xanh ngọc, tuyệt đẹp cho đi bộ và chèo thuyền.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=43.2119,5.4406",
+      "yandex": "https://yandex.com/maps/?pt=5.4406,43.2119&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "coast",
+      "scenic",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fr-provence-chateau-baux-de-provence",
+    "slug": "chateau-baux-de-provence",
+    "region": "fr-provence",
+    "country": "france",
+    "region_name_vi": "Provence",
+    "name_vi": "Lâu đài Les Baux-de-Provence",
+    "name_en": "Château des Baux-de-Provence",
+    "name_local": "Château des Baux-de-Provence",
+    "categories": [
+      "fortress",
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 43.7444,
+      "lon": 4.795
+    },
+    "address_vi": "Les Baux-de-Provence, Bouches-du-Rhône",
+    "presentation_short_vi": "Pháo đài đổ nát thời trung cổ trên mỏm đá vôi, cùng ngôi làng cổ bên dưới nằm trong danh sách những làng đẹp nhất nước Pháp.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=43.7444,4.795",
+      "yandex": "https://yandex.com/maps/?pt=4.795,43.7444&z=16&l=map"
+    },
+    "tags": [
+      "fortress",
+      "village",
+      "history",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fr-provence-carrieres-des-lumieres",
+    "slug": "carrieres-des-lumieres",
+    "region": "fr-provence",
+    "country": "france",
+    "region_name_vi": "Provence",
+    "name_vi": "Mỏ đá Ánh sáng (Carrières des Lumières)",
+    "name_en": "Carrières des Lumières",
+    "name_local": "Carrières des Lumières",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 43.746,
+      "lon": 4.7935
+    },
+    "address_vi": "Les Baux-de-Provence, Bouches-du-Rhône",
+    "presentation_short_vi": "Trung tâm nghệ thuật số trong mỏ đá vôi cũ, trình chiếu các kiệt tác hội họa khổng lồ lên vách đá kèm âm nhạc - trải nghiệm đắm chìm hiện đại.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=43.746,4.7935",
+      "yandex": "https://yandex.com/maps/?pt=4.7935,43.746&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "art",
+      "immersive"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fr-provence-plateau-de-valensole",
+    "slug": "plateau-de-valensole",
+    "region": "fr-provence",
+    "country": "france",
+    "region_name_vi": "Provence",
+    "name_vi": "Cao nguyên oải hương Valensole",
+    "name_en": "Plateau de Valensole",
+    "name_local": "Plateau de Valensole",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 43.8368,
+      "lon": 5.9836
+    },
+    "address_vi": "Alpes-de-Haute-Provence",
+    "presentation_short_vi": "Cao nguyên rộng lớn phủ kín cánh đồng oải hương tím và hoa hướng dương vàng vào mùa hè - biểu tượng cảnh sắc của Provence.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=43.8368,5.9836",
+      "yandex": "https://yandex.com/maps/?pt=5.9836,43.8368&z=16&l=map"
+    },
+    "tags": [
+      "scenic",
+      "lavender",
+      "nature",
+      "photo"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

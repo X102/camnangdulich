@@ -1,0 +1,455 @@
+[
+  {
+    "id": "cz-prague-lau-dai-praha",
+    "slug": "lau-dai-praha",
+    "region": "cz-prague",
+    "country": "czech",
+    "region_name_vi": "Praha",
+    "name_vi": "Lâu đài Praha",
+    "name_en": "Prague Castle",
+    "name_local": "Pražský hrad",
+    "categories": [
+      "fortress",
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 50.0911,
+      "lon": 14.4016
+    },
+    "address_vi": "Hradčany, Praha 1",
+    "presentation_short_vi": "Quần thể lâu đài lớn nhất thế giới theo sách Guinness, khởi dựng từ thế kỷ 9, nay là nơi ở của Tổng thống Séc, bao gồm cung điện, nhà thờ và vườn hoàng gia.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.0911,14.4016",
+      "yandex": "https://yandex.com/maps/?pt=14.4016,50.0911&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "fortress",
+      "palace",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "cz-prague-cau-charles",
+    "slug": "cau-charles",
+    "region": "cz-prague",
+    "country": "czech",
+    "region_name_vi": "Praha",
+    "name_vi": "Cầu Charles",
+    "name_en": "Charles Bridge",
+    "name_local": "Karlův most",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 50.0865,
+      "lon": 14.4114
+    },
+    "address_vi": "Karlův most, nối Malá Strana và Staré Město, Praha 1",
+    "presentation_short_vi": "Cầu đá Gothic khởi công năm 1357 dưới thời vua Charles IV, hai bên lan can là 30 bức tượng thánh, biểu tượng lãng mạn bậc nhất của Praha.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.0865,14.4114",
+      "yandex": "https://yandex.com/maps/?pt=14.4114,50.0865&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "bridge",
+      "gothic",
+      "iconic",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "cz-prague-quang-truong-pho-co",
+    "slug": "quang-truong-pho-co",
+    "region": "cz-prague",
+    "country": "czech",
+    "region_name_vi": "Praha",
+    "name_vi": "Quảng trường Phố Cổ",
+    "name_en": "Old Town Square",
+    "name_local": "Staroměstské náměstí",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 50.0875,
+      "lon": 14.4213
+    },
+    "address_vi": "Staroměstské náměstí, Staré Město, Praha 1",
+    "presentation_short_vi": "Quảng trường trung tâm lịch sử của Praha với các tòa nhà nhiều màu sắc, nhà thờ Týn và đồng hồ thiên văn, sôi động quanh năm và rực rỡ dịp chợ Giáng sinh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.0875,14.4213",
+      "yandex": "https://yandex.com/maps/?pt=14.4213,50.0875&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "square",
+      "history",
+      "central",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "cz-prague-dong-ho-thien-van-praha",
+    "slug": "dong-ho-thien-van-praha",
+    "region": "cz-prague",
+    "country": "czech",
+    "region_name_vi": "Praha",
+    "name_vi": "Đồng hồ Thiên văn Praha",
+    "name_en": "Prague Astronomical Clock",
+    "name_local": "Pražský orloj",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 50.087,
+      "lon": 14.4205
+    },
+    "address_vi": "Staroměstské náměstí 1, Tòa thị chính Cổ, Praha 1",
+    "presentation_short_vi": "Đồng hồ thiên văn thời trung cổ lắp năm 1410 — chiếc cổ nhất thế giới còn vận hành, mỗi giờ trình diễn màn diễu hành của Mười hai Tông đồ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.087,14.4205",
+      "yandex": "https://yandex.com/maps/?pt=14.4205,50.087&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "monument",
+      "history",
+      "iconic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "cz-prague-nha-tho-thanh-vitus",
+    "slug": "nha-tho-thanh-vitus",
+    "region": "cz-prague",
+    "country": "czech",
+    "region_name_vi": "Praha",
+    "name_vi": "Nhà thờ Chính tòa Thánh Vitus",
+    "name_en": "St. Vitus Cathedral",
+    "name_local": "Katedrála svatého Víta",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 50.0909,
+      "lon": 14.4006
+    },
+    "address_vi": "III. nádvoří 48/2, trong Lâu đài Praha, Praha 1",
+    "presentation_short_vi": "Thánh đường Gothic nằm trong Lâu đài Praha, mất gần 600 năm để hoàn thành, nơi lưu giữ vương miện hoàng gia Séc và mộ các vị vua Bohemia.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.0909,14.4006",
+      "yandex": "https://yandex.com/maps/?pt=14.4006,50.0909&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "church",
+      "gothic",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "cz-prague-quang-truong-wenceslas",
+    "slug": "quang-truong-wenceslas",
+    "region": "cz-prague",
+    "country": "czech",
+    "region_name_vi": "Praha",
+    "name_vi": "Quảng trường Wenceslas",
+    "name_en": "Wenceslas Square",
+    "name_local": "Václavské náměstí",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 50.081,
+      "lon": 14.4266
+    },
+    "address_vi": "Václavské náměstí, Nové Město, Praha 1",
+    "presentation_short_vi": "Đại lộ quảng trường dài 750 m ở khu Phố Mới, trung tâm thương mại và là nơi diễn ra nhiều sự kiện lịch sử như Cách mạng Nhung 1989, dưới chân là Bảo tàng Quốc gia.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.081,14.4266",
+      "yandex": "https://yandex.com/maps/?pt=14.4266,50.081&z=16&l=map"
+    },
+    "tags": [
+      "square",
+      "history",
+      "shopping",
+      "central"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "cz-prague-thap-petrin",
+    "slug": "thap-petrin",
+    "region": "cz-prague",
+    "country": "czech",
+    "region_name_vi": "Praha",
+    "name_vi": "Tháp quan sát Petřín",
+    "name_en": "Petřín Lookout Tower",
+    "name_local": "Petřínská rozhledna",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 50.0835,
+      "lon": 14.3951
+    },
+    "address_vi": "Petřínské sady 633, đồi Petřín, Praha 1",
+    "presentation_short_vi": "Tháp thép cao 63,5 m dựng năm 1891 phỏng theo tháp Eiffel, đứng trên đồi Petřín nên đỉnh tháp ngang tầm tháp Eiffel thật, cho tầm nhìn toàn cảnh Praha.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.0835,14.3951",
+      "yandex": "https://yandex.com/maps/?pt=14.3951,50.0835&z=16&l=map"
+    },
+    "tags": [
+      "viewpoint",
+      "observation",
+      "landmark",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "cz-prague-nha-nhay-mua",
+    "slug": "nha-nhay-mua",
+    "region": "cz-prague",
+    "country": "czech",
+    "region_name_vi": "Praha",
+    "name_vi": "Ngôi nhà Nhảy múa",
+    "name_en": "Dancing House",
+    "name_local": "Tančící dům",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 50.0755,
+      "lon": 14.4141
+    },
+    "address_vi": "Jiráskovo náměstí 1981/6, Praha 2",
+    "presentation_short_vi": "Tòa nhà văn phòng giải cấu trúc hoàn thành năm 1996 của Frank Gehry và Vlado Milunić, với hình khối uốn lượn như cặp vũ công, biểu tượng kiến trúc hiện đại của Praha.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.0755,14.4141",
+      "yandex": "https://yandex.com/maps/?pt=14.4141,50.0755&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "architecture",
+      "landmark",
+      "iconic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "cz-prague-bao-tang-quoc-gia-praha",
+    "slug": "bao-tang-quoc-gia-praha",
+    "region": "cz-prague",
+    "country": "czech",
+    "region_name_vi": "Praha",
+    "name_vi": "Bảo tàng Quốc gia Praha",
+    "name_en": "National Museum",
+    "name_local": "Národní muzeum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 50.0786,
+      "lon": 14.4306
+    },
+    "address_vi": "Václavské náměstí 68, Praha 1",
+    "presentation_short_vi": "Bảo tàng lớn và lâu đời nhất Séc trong tòa nhà tân Phục hưng đồ sộ cuối quảng trường Wenceslas, trưng bày lịch sử tự nhiên, khảo cổ và văn hóa dân tộc.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.0786,14.4306",
+      "yandex": "https://yandex.com/maps/?pt=14.4306,50.0786&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "cz-prague-nha-tho-tyn",
+    "slug": "nha-tho-tyn",
+    "region": "cz-prague",
+    "country": "czech",
+    "region_name_vi": "Praha",
+    "name_vi": "Nhà thờ Đức Bà trước Týn",
+    "name_en": "Church of Our Lady before Týn",
+    "name_local": "Chrám Matky Boží před Týnem",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 50.0879,
+      "lon": 14.4223
+    },
+    "address_vi": "Staroměstské náměstí, Staré Město, Praha 1",
+    "presentation_short_vi": "Nhà thờ Gothic thế kỷ 14 với hai tháp nhọn cao 80 m tựa cổ tích, chi phối đường chân trời của Quảng trường Phố Cổ Praha.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.0879,14.4223",
+      "yandex": "https://yandex.com/maps/?pt=14.4223,50.0879&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "gothic",
+      "landmark",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "cz-prague-thap-thuoc-sung",
+    "slug": "thap-thuoc-sung",
+    "region": "cz-prague",
+    "country": "czech",
+    "region_name_vi": "Praha",
+    "name_vi": "Tháp Thuốc súng",
+    "name_en": "Powder Tower",
+    "name_local": "Prašná brána",
+    "categories": [
+      "monument",
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 50.0873,
+      "lon": 14.4278
+    },
+    "address_vi": "náměstí Republiky 5, Staré Město, Praha 1",
+    "presentation_short_vi": "Cổng thành Gothic thế kỷ 15 từng là một trong 13 cửa ô của Phố Cổ, sau dùng làm kho thuốc súng, nay là điểm khởi đầu Con đường Hoàng gia.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.0873,14.4278",
+      "yandex": "https://yandex.com/maps/?pt=14.4278,50.0873&z=16&l=map"
+    },
+    "tags": [
+      "monument",
+      "gothic",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "cz-prague-phao-dai-vysehrad",
+    "slug": "phao-dai-vysehrad",
+    "region": "cz-prague",
+    "country": "czech",
+    "region_name_vi": "Praha",
+    "name_vi": "Pháo đài Vyšehrad",
+    "name_en": "Vyšehrad",
+    "name_local": "Vyšehrad",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 50.0642,
+      "lon": 14.4174
+    },
+    "address_vi": "V Pevnosti 159/5b, Praha 2",
+    "presentation_short_vi": "Thành lũy cổ trên vách đá bên sông Vltava gắn với truyền thuyết lập quốc của người Séc, có nhà thờ Thánh Peter và Paul cùng nghĩa trang danh nhân Slavín.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.0642,14.4174",
+      "yandex": "https://yandex.com/maps/?pt=14.4174,50.0642&z=16&l=map"
+    },
+    "tags": [
+      "fortress",
+      "history",
+      "viewpoint",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "cz-prague-cong-vien-letna",
+    "slug": "cong-vien-letna",
+    "region": "cz-prague",
+    "country": "czech",
+    "region_name_vi": "Praha",
+    "name_vi": "Công viên Letná",
+    "name_en": "Letná Park",
+    "name_local": "Letenské sady",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 50.0955,
+      "lon": 14.4165
+    },
+    "address_vi": "Letenské sady, Holešovice, Praha 7",
+    "presentation_short_vi": "Công viên trên cao bên bờ sông Vltava với chiếc máy nhịp khổng lồ (Metronome) nơi từng đặt tượng Stalin, là điểm ngắm toàn cảnh các cây cầu và Phố Cổ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.0955,14.4165",
+      "yandex": "https://yandex.com/maps/?pt=14.4165,50.0955&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "nature",
+      "viewpoint",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "cz-prague-nha-hat-quoc-gia-praha",
+    "slug": "nha-hat-quoc-gia-praha",
+    "region": "cz-prague",
+    "country": "czech",
+    "region_name_vi": "Praha",
+    "name_vi": "Nhà hát Quốc gia",
+    "name_en": "National Theatre",
+    "name_local": "Národní divadlo",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 50.081,
+      "lon": 14.4137
+    },
+    "address_vi": "Národní 2, Nové Město, Praha 1",
+    "presentation_short_vi": "Nhà hát tân Phục hưng bên sông Vltava khánh thành năm 1881, biểu tượng của phong trào phục hưng dân tộc Séc, nổi bật với mái vòm mạ vàng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.081,14.4137",
+      "yandex": "https://yandex.com/maps/?pt=14.4137,50.081&z=16&l=map"
+    },
+    "tags": [
+      "theatre",
+      "culture",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  }
+]

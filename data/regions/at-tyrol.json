@@ -1,0 +1,413 @@
+[
+  {
+    "id": "at-tyrol-swarovski-kristallwelten",
+    "slug": "swarovski-kristallwelten",
+    "region": "at-tyrol",
+    "country": "austria",
+    "region_name_vi": "Tyrol",
+    "name_vi": "Thế giới Pha lê Swarovski",
+    "name_en": "Swarovski Kristallwelten",
+    "name_local": "Swarovski Kristallwelten",
+    "categories": [
+      "museum",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 47.2939,
+      "lon": 11.6008
+    },
+    "address_vi": "Kristallweltenstraße 1, Wattens, Tyrol",
+    "presentation_short_vi": "Công viên nghệ thuật pha lê do Swarovski tạo dựng với 'Đầu Khổng Lồ' phun nước, các Phòng Kỳ Diệu (Chambers of Wonder) và khu vườn bàn tay pha lê; điểm tham quan hiện đại nổi tiếng của Tyrol.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.2939,11.6008",
+      "yandex": "https://yandex.com/maps/?pt=11.6008,47.2939&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "museum",
+      "art",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-tyrol-phao-dai-kufstein",
+    "slug": "phao-dai-kufstein",
+    "region": "at-tyrol",
+    "country": "austria",
+    "region_name_vi": "Tyrol",
+    "name_vi": "Pháo đài Kufstein",
+    "name_en": "Kufstein Fortress",
+    "name_local": "Festung Kufstein",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 47.5808,
+      "lon": 12.1687
+    },
+    "address_vi": "Festung 2, Kufstein, Tyrol",
+    "presentation_short_vi": "Pháo đài trung cổ sừng sững trên mỏm đá bên sông Inn, nổi tiếng với 'Đại phong cầm Anh Hùng' (Heldenorgel) lớn ngoài trời vang khắp thung lũng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.5808,12.1687",
+      "yandex": "https://yandex.com/maps/?pt=12.1687,47.5808&z=16&l=map"
+    },
+    "tags": [
+      "fortress",
+      "historic",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-tyrol-lau-dai-tratzberg",
+    "slug": "lau-dai-tratzberg",
+    "region": "at-tyrol",
+    "country": "austria",
+    "region_name_vi": "Tyrol",
+    "name_vi": "Lâu đài Tratzberg",
+    "name_en": "Tratzberg Castle",
+    "name_local": "Schloss Tratzberg",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 47.3847,
+      "lon": 11.7431
+    },
+    "address_vi": "Schloss Tratzberg, Jenbach/Stans, Tyrol",
+    "presentation_short_vi": "Lâu đài thời Phục Hưng được bảo tồn tuyệt hảo trên sườn núi phía trên Jenbach, nổi tiếng với bức bích hoạ 'cây phả hệ Habsburg' dài tới 46 m.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.3847,11.7431",
+      "yandex": "https://yandex.com/maps/?pt=11.7431,47.3847&z=16&l=map"
+    },
+    "tags": [
+      "palace",
+      "castle",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-tyrol-tu-vien-stams",
+    "slug": "tu-vien-stams",
+    "region": "at-tyrol",
+    "country": "austria",
+    "region_name_vi": "Tyrol",
+    "name_vi": "Tu viện Stams",
+    "name_en": "Stams Abbey",
+    "name_local": "Stift Stams",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 47.2772,
+      "lon": 10.9836
+    },
+    "address_vi": "Stiftshof 1, Stams, Tyrol",
+    "presentation_short_vi": "Tu viện Xitô thế kỷ 13 với nhà thờ Baroque hai tháp trắng lộng lẫy và 'Lưới Vàng' (Goldenes Gitter); nơi an nghỉ của nhiều vương công xứ Tyrol.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.2772,10.9836",
+      "yandex": "https://yandex.com/maps/?pt=10.9836,47.2772&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "abbey",
+      "historic",
+      "baroque"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-tyrol-ho-achensee",
+    "slug": "ho-achensee",
+    "region": "at-tyrol",
+    "country": "austria",
+    "region_name_vi": "Tyrol",
+    "name_vi": "Hồ Achensee",
+    "name_en": "Lake Achensee",
+    "name_local": "Achensee",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 47.452,
+      "lon": 11.706
+    },
+    "address_vi": "Hồ Achensee, gần Jenbach/Maurach, Tyrol",
+    "presentation_short_vi": "Hồ nước ngọc lam lớn nhất Tyrol nằm giữa dãy Karwendel và Rofan, mệnh danh 'biển của Tyrol'; nổi tiếng với du thuyền và tuyến đường sắt hơi nước Achenseebahn.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.452,11.706",
+      "yandex": "https://yandex.com/maps/?pt=11.706,47.452&z=16&l=map"
+    },
+    "tags": [
+      "lake",
+      "nature",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-tyrol-song-bang-hintertux",
+    "slug": "song-bang-hintertux",
+    "region": "at-tyrol",
+    "country": "austria",
+    "region_name_vi": "Tyrol",
+    "name_vi": "Sông băng Hintertux",
+    "name_en": "Hintertux Glacier",
+    "name_local": "Hintertuxer Gletscher",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 47.0619,
+      "lon": 11.6772
+    },
+    "address_vi": "Hintertux, Tux, thung lũng Zillertal, Tyrol",
+    "presentation_short_vi": "Sông băng duy nhất ở Áo mở cửa trượt tuyết quanh năm, với hang băng 'Cung điện Băng' (Natur Eis Palast) và tầm nhìn toàn cảnh dãy Alps từ độ cao hơn 3.250 m.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.0619,11.6772",
+      "yandex": "https://yandex.com/maps/?pt=11.6772,47.0619&z=16&l=map"
+    },
+    "tags": [
+      "glacier",
+      "nature",
+      "ski",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-tyrol-nui-wilder-kaiser",
+    "slug": "nui-wilder-kaiser",
+    "region": "at-tyrol",
+    "country": "austria",
+    "region_name_vi": "Tyrol",
+    "name_vi": "Dãy núi Wilder Kaiser",
+    "name_en": "Wilder Kaiser",
+    "name_local": "Wilder Kaiser",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 47.5583,
+      "lon": 12.3
+    },
+    "address_vi": "Dãy Wilder Kaiser, gần Kufstein/Ellmau, Tyrol",
+    "presentation_short_vi": "Dãy núi đá vôi hùng vĩ với những vách dựng đứng, thiên đường leo núi và đi bộ đường dài; bối cảnh của loạt phim truyền hình nổi tiếng nước Đức.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.5583,12.3",
+      "yandex": "https://yandex.com/maps/?pt=12.3,47.5583&z=16&l=map"
+    },
+    "tags": [
+      "mountain",
+      "nature",
+      "hiking"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-tyrol-thi-tran-kitzbuehel",
+    "slug": "thi-tran-kitzbuehel",
+    "region": "at-tyrol",
+    "country": "austria",
+    "region_name_vi": "Tyrol",
+    "name_vi": "Thị trấn Kitzbühel",
+    "name_en": "Kitzbühel",
+    "name_local": "Kitzbühel",
+    "categories": [
+      "square_street",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 47.4467,
+      "lon": 12.3925
+    },
+    "address_vi": "Phố cổ Kitzbühel, Tyrol",
+    "presentation_short_vi": "Thị trấn trượt tuyết thượng lưu với phố cổ đầy sắc màu, nổi tiếng toàn cầu nhờ đường đua Hahnenkamm-Streif hiểm trở bậc nhất thế giới.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.4467,12.3925",
+      "yandex": "https://yandex.com/maps/?pt=12.3925,47.4467&z=16&l=map"
+    },
+    "tags": [
+      "town",
+      "ski",
+      "resort",
+      "oldtown"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-tyrol-thi-tran-rattenberg",
+    "slug": "thi-tran-rattenberg",
+    "region": "at-tyrol",
+    "country": "austria",
+    "region_name_vi": "Tyrol",
+    "name_vi": "Thị trấn Rattenberg",
+    "name_en": "Rattenberg",
+    "name_local": "Rattenberg",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 47.4436,
+      "lon": 11.9008
+    },
+    "address_vi": "Rattenberg, thung lũng Inn, Tyrol",
+    "presentation_short_vi": "Thị trấn nhỏ nhất nước Áo, giữ nguyên khu phố cổ trung cổ nép dưới vách núi; nổi tiếng với nghề thổi và mài pha lê thủ công.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.4436,11.9008",
+      "yandex": "https://yandex.com/maps/?pt=11.9008,47.4436&z=16&l=map"
+    },
+    "tags": [
+      "town",
+      "historic",
+      "oldtown"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-tyrol-seefeld-in-tirol",
+    "slug": "seefeld-in-tirol",
+    "region": "at-tyrol",
+    "country": "austria",
+    "region_name_vi": "Tyrol",
+    "name_vi": "Cao nguyên Seefeld",
+    "name_en": "Seefeld in Tirol",
+    "name_local": "Seefeld in Tirol",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 47.3294,
+      "lon": 11.1883
+    },
+    "address_vi": "Seefeld in Tirol, Tyrol",
+    "presentation_short_vi": "Cao nguyên nghỉ dưỡng nắng ấm từng hai lần đăng cai môn trượt tuyết Bắc Âu tại Olympic; thiên đường trượt tuyết đồng bằng và đi bộ mùa hè.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.3294,11.1883",
+      "yandex": "https://yandex.com/maps/?pt=11.1883,47.3294&z=16&l=map"
+    },
+    "tags": [
+      "resort",
+      "ski",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-tyrol-st-anton-am-arlberg",
+    "slug": "st-anton-am-arlberg",
+    "region": "at-tyrol",
+    "country": "austria",
+    "region_name_vi": "Tyrol",
+    "name_vi": "St. Anton am Arlberg",
+    "name_en": "St. Anton am Arlberg",
+    "name_local": "St. Anton am Arlberg",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 47.129,
+      "lon": 10.2643
+    },
+    "address_vi": "St. Anton am Arlberg, Tyrol",
+    "presentation_short_vi": "Cái nôi của môn trượt tuyết Alpine và là một trong những khu trượt tuyết danh tiếng nhất Áo, trung tâm của vùng trượt tuyết Arlberg rộng lớn.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.129,10.2643",
+      "yandex": "https://yandex.com/maps/?pt=10.2643,47.129&z=16&l=map"
+    },
+    "tags": [
+      "ski",
+      "resort",
+      "modern"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-tyrol-soelden-otztal",
+    "slug": "soelden-otztal",
+    "region": "at-tyrol",
+    "country": "austria",
+    "region_name_vi": "Tyrol",
+    "name_vi": "Sölden (Ötztal)",
+    "name_en": "Sölden",
+    "name_local": "Sölden",
+    "categories": [
+      "other",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 46.966,
+      "lon": 11.0072
+    },
+    "address_vi": "Sölden, thung lũng Ötztal, Tyrol",
+    "presentation_short_vi": "Khu trượt tuyết trên hai sông băng với nhà hàng-đài quan sát Ice Q và bảo tàng '007 Elements' trên đỉnh Gaislachkogl 3.048 m; bối cảnh phim điệp viên James Bond 'Spectre'.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.966,11.0072",
+      "yandex": "https://yandex.com/maps/?pt=11.0072,46.966&z=16&l=map"
+    },
+    "tags": [
+      "ski",
+      "glacier",
+      "modern",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-tyrol-mayrhofen-zillertal",
+    "slug": "mayrhofen-zillertal",
+    "region": "at-tyrol",
+    "country": "austria",
+    "region_name_vi": "Tyrol",
+    "name_vi": "Mayrhofen (Zillertal)",
+    "name_en": "Mayrhofen",
+    "name_local": "Mayrhofen",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 47.1656,
+      "lon": 11.8686
+    },
+    "address_vi": "Mayrhofen, thung lũng Zillertal, Tyrol",
+    "presentation_short_vi": "Trung tâm nghỉ dưỡng sôi động của thung lũng Zillertal với cáp treo lên Penken, Ahorn và đường trượt dốc đứng 'Harakiri'; điểm xuất phát khám phá các sông băng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.1656,11.8686",
+      "yandex": "https://yandex.com/maps/?pt=11.8686,47.1656&z=16&l=map"
+    },
+    "tags": [
+      "resort",
+      "ski",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

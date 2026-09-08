@@ -1,0 +1,417 @@
+[
+  {
+    "id": "at-salzburg-phao-dai-hohensalzburg",
+    "slug": "phao-dai-hohensalzburg",
+    "region": "at-salzburg",
+    "country": "austria",
+    "region_name_vi": "Salzburg",
+    "name_vi": "Pháo đài Hohensalzburg",
+    "name_en": "Hohensalzburg Fortress",
+    "name_local": "Festung Hohensalzburg",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 47.7949,
+      "lon": 13.0475
+    },
+    "address_vi": "Mönchsberg 34, Salzburg",
+    "presentation_short_vi": "Một trong những pháo đài thời trung cổ lớn và được bảo tồn tốt nhất châu Âu (khởi dựng năm 1077), toạ lạc trên đồi Festungsberg, lên đỉnh bằng cáp treo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.7949,13.0475",
+      "yandex": "https://yandex.com/maps/?pt=13.0475,47.7949&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "fortress",
+      "medieval",
+      "view"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-salzburg-cung-dien-mirabell",
+    "slug": "cung-dien-mirabell",
+    "region": "at-salzburg",
+    "country": "austria",
+    "region_name_vi": "Salzburg",
+    "name_vi": "Cung điện và Vườn Mirabell",
+    "name_en": "Mirabell Palace and Gardens",
+    "name_local": "Schloss Mirabell",
+    "categories": [
+      "palace",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 47.8058,
+      "lon": 13.0424
+    },
+    "address_vi": "Mirabellplatz 4, Salzburg",
+    "presentation_short_vi": "Cung điện Baroque dựng năm 1606 cùng khu vườn hình học nổi tiếng qua phim 'The Sound of Music'; Sảnh Cẩm thạch là nơi tổ chức hoà nhạc.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.8058,13.0424",
+      "yandex": "https://yandex.com/maps/?pt=13.0424,47.8058&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "palace",
+      "garden",
+      "baroque"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-salzburg-nha-tho-chinh-toa-salzburg",
+    "slug": "nha-tho-chinh-toa-salzburg",
+    "region": "at-salzburg",
+    "country": "austria",
+    "region_name_vi": "Salzburg",
+    "name_vi": "Nhà thờ Chính toà Salzburg",
+    "name_en": "Salzburg Cathedral",
+    "name_local": "Salzburger Dom",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 47.7979,
+      "lon": 13.047
+    },
+    "address_vi": "Domplatz 1a, Salzburg",
+    "presentation_short_vi": "Thánh đường Baroque thế kỷ 17 với mặt tiền cẩm thạch và ba mái vòm, nơi Mozart được rửa tội và từng chơi đàn organ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.7979,13.047",
+      "yandex": "https://yandex.com/maps/?pt=13.047,47.7979&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "church",
+      "baroque",
+      "mozart"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-salzburg-nha-sinh-mozart",
+    "slug": "nha-sinh-mozart",
+    "region": "at-salzburg",
+    "country": "austria",
+    "region_name_vi": "Salzburg",
+    "name_vi": "Nhà nơi Mozart chào đời",
+    "name_en": "Mozart's Birthplace",
+    "name_local": "Mozarts Geburtshaus",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 47.8001,
+      "lon": 13.0435
+    },
+    "address_vi": "Getreidegasse 9, Salzburg",
+    "presentation_short_vi": "Ngôi nhà màu vàng nơi Wolfgang Amadeus Mozart sinh năm 1756, nay là bảo tàng trưng bày nhạc cụ, thư từ và di vật của nhà soạn nhạc.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.8001,13.0435",
+      "yandex": "https://yandex.com/maps/?pt=13.0435,47.8001&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "museum",
+      "mozart",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-salzburg-pho-getreidegasse",
+    "slug": "pho-getreidegasse",
+    "region": "at-salzburg",
+    "country": "austria",
+    "region_name_vi": "Salzburg",
+    "name_vi": "Phố Getreidegasse",
+    "name_en": "Getreidegasse",
+    "name_local": "Getreidegasse",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 47.8,
+      "lon": 13.0433
+    },
+    "address_vi": "Getreidegasse, Altstadt, Salzburg",
+    "presentation_short_vi": "Con phố mua sắm sầm uất nhất phố cổ, đặc trưng bởi những biển hiệu sắt rèn tinh xảo treo trước từng cửa hiệu.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.8,13.0433",
+      "yandex": "https://yandex.com/maps/?pt=13.0433,47.8&z=16&l=map"
+    },
+    "tags": [
+      "shopping",
+      "oldtown",
+      "street"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-salzburg-cung-dien-hellbrunn",
+    "slug": "cung-dien-hellbrunn",
+    "region": "at-salzburg",
+    "country": "austria",
+    "region_name_vi": "Salzburg",
+    "name_vi": "Cung điện Hellbrunn",
+    "name_en": "Hellbrunn Palace",
+    "name_local": "Schloss Hellbrunn",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 47.7622,
+      "lon": 13.0605
+    },
+    "address_vi": "Fürstenweg 37, Salzburg",
+    "presentation_short_vi": "Biệt điện Baroque đầu thế kỷ 17 nổi tiếng với các 'vòi phun nước tinh nghịch' (Wasserspiele) trêu đùa khách tham quan, cùng công viên rộng lớn.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.7622,13.0605",
+      "yandex": "https://yandex.com/maps/?pt=13.0605,47.7622&z=16&l=map"
+    },
+    "tags": [
+      "palace",
+      "garden",
+      "fountain",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-salzburg-quang-truong-residenzplatz",
+    "slug": "quang-truong-residenzplatz",
+    "region": "at-salzburg",
+    "country": "austria",
+    "region_name_vi": "Salzburg",
+    "name_vi": "Quảng trường Residenzplatz",
+    "name_en": "Residenzplatz",
+    "name_local": "Residenzplatz",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 47.7981,
+      "lon": 13.0458
+    },
+    "address_vi": "Residenzplatz, Altstadt, Salzburg",
+    "presentation_short_vi": "Quảng trường trung tâm phố cổ với đài phun nước cẩm thạch Residenzbrunnen cao vào loại nhất Trung Âu, bao quanh là dinh Tổng Giám mục.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.7981,13.0458",
+      "yandex": "https://yandex.com/maps/?pt=13.0458,47.7981&z=16&l=map"
+    },
+    "tags": [
+      "square",
+      "baroque",
+      "fountain",
+      "central"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-salzburg-tu-vien-thanh-peter",
+    "slug": "tu-vien-thanh-peter",
+    "region": "at-salzburg",
+    "country": "austria",
+    "region_name_vi": "Salzburg",
+    "name_vi": "Tu viện Thánh Peter",
+    "name_en": "St Peter's Abbey",
+    "name_local": "Stift Sankt Peter",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 47.7972,
+      "lon": 13.0448
+    },
+    "address_vi": "Sankt-Peter-Bezirk 1, Salzburg",
+    "presentation_short_vi": "Tu viện Biển Đức cổ nhất vùng nói tiếng Đức (thành lập năm 696) với nhà thờ, hầm mộ khoét vào vách đá và nghĩa trang cổ Petersfriedhof.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.7972,13.0448",
+      "yandex": "https://yandex.com/maps/?pt=13.0448,47.7972&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "abbey",
+      "historic",
+      "catacombs"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-salzburg-bao-tang-nghe-thuat-hien-dai",
+    "slug": "bao-tang-nghe-thuat-hien-dai",
+    "region": "at-salzburg",
+    "country": "austria",
+    "region_name_vi": "Salzburg",
+    "name_vi": "Bảo tàng Nghệ thuật Hiện đại Mönchsberg",
+    "name_en": "Museum der Moderne Mönchsberg",
+    "name_local": "Museum der Moderne Salzburg",
+    "categories": [
+      "museum",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 47.7976,
+      "lon": 13.0389
+    },
+    "address_vi": "Mönchsberg 32, Salzburg",
+    "presentation_short_vi": "Bảo tàng nghệ thuật hiện đại trong khối đá cẩm thạch trắng trên vách núi Mönchsberg (mở năm 2004), có sân thượng ngắm toàn cảnh thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.7976,13.0389",
+      "yandex": "https://yandex.com/maps/?pt=13.0389,47.7976&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "modern",
+      "art",
+      "view"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-salzburg-nha-mozart-wohnhaus",
+    "slug": "nha-mozart-wohnhaus",
+    "region": "at-salzburg",
+    "country": "austria",
+    "region_name_vi": "Salzburg",
+    "name_vi": "Nhà ở của gia đình Mozart",
+    "name_en": "Mozart Residence",
+    "name_local": "Mozart-Wohnhaus",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 47.802,
+      "lon": 13.043
+    },
+    "address_vi": "Makartplatz 8, Salzburg",
+    "presentation_short_vi": "Ngôi nhà bên tả ngạn sông Salzach nơi gia đình Mozart sống từ năm 1773, nay trưng bày về cuộc đời nhà soạn nhạc và tổ chức hoà nhạc.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.802,13.043",
+      "yandex": "https://yandex.com/maps/?pt=13.043,47.802&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "mozart",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-salzburg-nui-untersberg",
+    "slug": "nui-untersberg",
+    "region": "at-salzburg",
+    "country": "austria",
+    "region_name_vi": "Salzburg",
+    "name_vi": "Núi Untersberg",
+    "name_en": "Untersberg",
+    "name_local": "Untersberg",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 47.7043,
+      "lon": 13.0436
+    },
+    "address_vi": "Ga cáp treo Untersbergbahn, Grödig gần Salzburg",
+    "presentation_short_vi": "Khối núi đá vôi ở rìa nam Salzburg cao tới 1.853 m (đỉnh Salzburger Hochthron); cáp treo Untersbergbahn từ Grödig đưa du khách lên ngắm toàn cảnh dãy Alps.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.7043,13.0436",
+      "yandex": "https://yandex.com/maps/?pt=13.0436,47.7043&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "mountain",
+      "cablecar",
+      "view"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-salzburg-hangar-7",
+    "slug": "hangar-7",
+    "region": "at-salzburg",
+    "country": "austria",
+    "region_name_vi": "Salzburg",
+    "name_vi": "Hangar-7",
+    "name_en": "Hangar-7",
+    "name_local": "Hangar-7",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 47.7936,
+      "lon": 13.0025
+    },
+    "address_vi": "Wilhelm-Spazier-Straße 7A, Salzburg",
+    "presentation_short_vi": "Công trình kính-thép hình vòm bên sân bay Salzburg trưng bày phi đội máy bay lịch sử Flying Bulls và bộ sưu tập xe đua Công thức 1 của Red Bull.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.7936,13.0025",
+      "yandex": "https://yandex.com/maps/?pt=13.0025,47.7936&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "architecture",
+      "cars",
+      "aircraft"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-salzburg-tu-vien-nonnberg",
+    "slug": "tu-vien-nonnberg",
+    "region": "at-salzburg",
+    "country": "austria",
+    "region_name_vi": "Salzburg",
+    "name_vi": "Tu viện Nonnberg",
+    "name_en": "Nonnberg Abbey",
+    "name_local": "Stift Nonnberg",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 47.7956,
+      "lon": 13.0503
+    },
+    "address_vi": "Nonnberggasse 2, Salzburg",
+    "presentation_short_vi": "Tu viện nữ Biển Đức thành lập khoảng năm 714 dưới chân pháo đài, nơi nhân vật Maria trong 'The Sound of Music' từng tu tập.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.7956,13.0503",
+      "yandex": "https://yandex.com/maps/?pt=13.0503,47.7956&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "abbey",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

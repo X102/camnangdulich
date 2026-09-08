@@ -1,0 +1,408 @@
+[
+  {
+    "id": "fr-french-riviera-promenade-des-anglais",
+    "slug": "promenade-des-anglais",
+    "region": "fr-french-riviera",
+    "country": "france",
+    "region_name_vi": "Riviera Pháp (Côte d'Azur)",
+    "name_vi": "Đại lộ Anh quốc (Promenade des Anglais)",
+    "name_en": "Promenade des Anglais",
+    "name_local": "Promenade des Anglais",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 43.6947,
+      "lon": 7.262
+    },
+    "address_vi": "Bờ biển Nice, tỉnh Alpes-Maritimes",
+    "presentation_short_vi": "Đại lộ ven biển dài khoảng 7 km chạy dọc Vịnh Thiên Thần ở Nice, biểu tượng của Riviera Pháp với hàng ghế xanh và tầm nhìn ra Địa Trung Hải.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=43.6947,7.262",
+      "yandex": "https://yandex.com/maps/?pt=7.262,43.6947&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "landmark",
+      "waterfront",
+      "modern"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "fr-french-riviera-vieux-nice",
+    "slug": "vieux-nice",
+    "region": "fr-french-riviera",
+    "country": "france",
+    "region_name_vi": "Riviera Pháp (Côte d'Azur)",
+    "name_vi": "Phố cổ Nice (Vieux Nice)",
+    "name_en": "Old Town of Nice (Vieux Nice)",
+    "name_local": "Vieux Nice",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 43.6959,
+      "lon": 7.2758
+    },
+    "address_vi": "Quận phố cổ, Nice, Alpes-Maritimes",
+    "presentation_short_vi": "Khu phố cổ với những con hẻm màu pastel, chợ hoa Cours Saleya và các quảng trường Baroque sôi động bậc nhất Nice.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=43.6959,7.2758",
+      "yandex": "https://yandex.com/maps/?pt=7.2758,43.6959&z=16&l=map"
+    },
+    "tags": [
+      "oldtown",
+      "market",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "fr-french-riviera-colline-du-chateau",
+    "slug": "colline-du-chateau",
+    "region": "fr-french-riviera",
+    "country": "france",
+    "region_name_vi": "Riviera Pháp (Côte d'Azur)",
+    "name_vi": "Đồi Lâu đài Nice (Colline du Château)",
+    "name_en": "Castle Hill of Nice (Colline du Château)",
+    "name_local": "Colline du Château",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 43.6949,
+      "lon": 7.2799
+    },
+    "address_vi": "Colline du Château, Nice, Alpes-Maritimes",
+    "presentation_short_vi": "Công viên trên đồi cao nhìn bao quát phố cổ, cảng và toàn cảnh Vịnh Thiên Thần, có thác nước nhân tạo và đài quan sát.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=43.6949,7.2799",
+      "yandex": "https://yandex.com/maps/?pt=7.2799,43.6949&z=16&l=map"
+    },
+    "tags": [
+      "viewpoint",
+      "park",
+      "panorama"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "fr-french-riviera-cathedrale-saint-nicolas",
+    "slug": "cathedrale-saint-nicolas",
+    "region": "fr-french-riviera",
+    "country": "france",
+    "region_name_vi": "Riviera Pháp (Côte d'Azur)",
+    "name_vi": "Nhà thờ Chính thống giáo Nga Thánh Nicholas",
+    "name_en": "St Nicholas Russian Orthodox Cathedral, Nice",
+    "name_local": "Cathédrale Saint-Nicolas de Nice",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 43.7047,
+      "lon": 7.2588
+    },
+    "address_vi": "Đại lộ Nicolas II, Nice, Alpes-Maritimes",
+    "presentation_short_vi": "Thánh đường Chính thống giáo Nga lớn nhất Tây Âu, xây năm 1912 với sáu mái vòm củ hành rực rỡ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=43.7047,7.2588",
+      "yandex": "https://yandex.com/maps/?pt=7.2588,43.7047&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "orthodox",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "fr-french-riviera-la-croisette",
+    "slug": "la-croisette",
+    "region": "fr-french-riviera",
+    "country": "france",
+    "region_name_vi": "Riviera Pháp (Côte d'Azur)",
+    "name_vi": "Đại lộ La Croisette (Cannes)",
+    "name_en": "Boulevard de la Croisette",
+    "name_local": "La Croisette",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 43.5503,
+      "lon": 7.0212
+    },
+    "address_vi": "Boulevard de la Croisette, Cannes, Alpes-Maritimes",
+    "presentation_short_vi": "Đại lộ ven biển sang trọng của Cannes với bãi biển, khách sạn cổ điển và các cửa hiệu thời trang cao cấp.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=43.5503,7.0212",
+      "yandex": "https://yandex.com/maps/?pt=7.0212,43.5503&z=16&l=map"
+    },
+    "tags": [
+      "waterfront",
+      "luxury",
+      "promenade"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "fr-french-riviera-palais-des-festivals",
+    "slug": "palais-des-festivals",
+    "region": "fr-french-riviera",
+    "country": "france",
+    "region_name_vi": "Riviera Pháp (Côte d'Azur)",
+    "name_vi": "Cung Liên hoan phim Cannes",
+    "name_en": "Palais des Festivals et des Congrès",
+    "name_local": "Palais des Festivals et des Congrès",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 43.5506,
+      "lon": 7.0175
+    },
+    "address_vi": "1 Boulevard de la Croisette, Cannes",
+    "presentation_short_vi": "Trung tâm hội nghị hiện đại nơi tổ chức Liên hoan phim Cannes, nổi tiếng với thảm đỏ và Đại lộ Ngôi sao.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=43.5506,7.0175",
+      "yandex": "https://yandex.com/maps/?pt=7.0175,43.5506&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "festival",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "fr-french-riviera-fort-carre-antibes",
+    "slug": "fort-carre-antibes",
+    "region": "fr-french-riviera",
+    "country": "france",
+    "region_name_vi": "Riviera Pháp (Côte d'Azur)",
+    "name_vi": "Pháo đài Fort Carré (Antibes)",
+    "name_en": "Fort Carré",
+    "name_local": "Fort Carré",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 43.5875,
+      "lon": 7.123
+    },
+    "address_vi": "Avenue du 11 Novembre, Antibes",
+    "presentation_short_vi": "Pháo đài hình ngôi sao bốn cánh thế kỷ 16 canh giữ cảng Antibes, một trong những công trình quân sự cổ tiêu biểu của vùng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=43.5875,7.123",
+      "yandex": "https://yandex.com/maps/?pt=7.123,43.5875&z=16&l=map"
+    },
+    "tags": [
+      "fortress",
+      "historic",
+      "military"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "fr-french-riviera-musee-picasso-antibes",
+    "slug": "musee-picasso-antibes",
+    "region": "fr-french-riviera",
+    "country": "france",
+    "region_name_vi": "Riviera Pháp (Côte d'Azur)",
+    "name_vi": "Bảo tàng Picasso (Lâu đài Grimaldi)",
+    "name_en": "Picasso Museum (Château Grimaldi), Antibes",
+    "name_local": "Musée Picasso, Château Grimaldi",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 43.5808,
+      "lon": 7.1256
+    },
+    "address_vi": "Place Mariejol, Antibes",
+    "presentation_short_vi": "Bảo tàng đặt trong Lâu đài Grimaldi bên biển, nơi Picasso từng làm việc năm 1946 và để lại nhiều tác phẩm.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=43.5808,7.1256",
+      "yandex": "https://yandex.com/maps/?pt=7.1256,43.5808&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "art",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "fr-french-riviera-eze-village",
+    "slug": "eze-village",
+    "region": "fr-french-riviera",
+    "country": "france",
+    "region_name_vi": "Riviera Pháp (Côte d'Azur)",
+    "name_vi": "Làng cổ Èze và Vườn thực vật Èze",
+    "name_en": "Èze Village & Exotic Garden of Èze",
+    "name_local": "Village d'Èze / Jardin botanique d'Èze",
+    "categories": [
+      "square_street",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 43.7276,
+      "lon": 7.3616
+    },
+    "address_vi": "Èze, Alpes-Maritimes",
+    "presentation_short_vi": "Ngôi làng 'tổ đại bàng' trên vách đá cao 400 m, với vườn thực vật xương rồng và tầm nhìn ngoạn mục xuống Địa Trung Hải.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=43.7276,7.3616",
+      "yandex": "https://yandex.com/maps/?pt=7.3616,43.7276&z=16&l=map"
+    },
+    "tags": [
+      "village",
+      "garden",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "fr-french-riviera-villa-ephrussi-rothschild",
+    "slug": "villa-ephrussi-rothschild",
+    "region": "fr-french-riviera",
+    "country": "france",
+    "region_name_vi": "Riviera Pháp (Côte d'Azur)",
+    "name_vi": "Biệt thự & Vườn Ephrussi de Rothschild",
+    "name_en": "Villa Ephrussi de Rothschild",
+    "name_local": "Villa et Jardins Ephrussi de Rothschild",
+    "categories": [
+      "palace",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 43.6923,
+      "lon": 7.3307
+    },
+    "address_vi": "Saint-Jean-Cap-Ferrat, Alpes-Maritimes",
+    "presentation_short_vi": "Dinh thự phong cách Phục Hưng Ý trên mũi Cap Ferrat, bao quanh bởi chín khu vườn chủ đề nhìn ra biển hai phía.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=43.6923,7.3307",
+      "yandex": "https://yandex.com/maps/?pt=7.3307,43.6923&z=16&l=map"
+    },
+    "tags": [
+      "villa",
+      "garden",
+      "panorama"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "fr-french-riviera-saint-paul-de-vence",
+    "slug": "saint-paul-de-vence",
+    "region": "fr-french-riviera",
+    "country": "france",
+    "region_name_vi": "Riviera Pháp (Côte d'Azur)",
+    "name_vi": "Làng cổ Saint-Paul-de-Vence",
+    "name_en": "Saint-Paul-de-Vence",
+    "name_local": "Saint-Paul-de-Vence",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 43.6959,
+      "lon": 7.1215
+    },
+    "address_vi": "Saint-Paul-de-Vence, Alpes-Maritimes",
+    "presentation_short_vi": "Làng cổ có tường thành trên đồi, trung tâm nghệ thuật nổi tiếng với nhiều phòng tranh và Quỹ Maeght gần đó.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=43.6959,7.1215",
+      "yandex": "https://yandex.com/maps/?pt=7.1215,43.6959&z=16&l=map"
+    },
+    "tags": [
+      "village",
+      "art",
+      "medieval"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "fr-french-riviera-basilique-saint-michel-menton",
+    "slug": "basilique-saint-michel-menton",
+    "region": "fr-french-riviera",
+    "country": "france",
+    "region_name_vi": "Riviera Pháp (Côte d'Azur)",
+    "name_vi": "Vương cung thánh đường Thánh Michael, Menton",
+    "name_en": "Basilica of Saint-Michel-Archange, Menton",
+    "name_local": "Basilique Saint-Michel-Archange",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 43.7757,
+      "lon": 7.5045
+    },
+    "address_vi": "Parvis Saint-Michel, Menton",
+    "presentation_short_vi": "Thánh đường Baroque thế kỷ 17 nằm trên quảng trường lát đá nhìn ra biển, biểu tượng của phố cổ Menton.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=43.7757,7.5045",
+      "yandex": "https://yandex.com/maps/?pt=7.5045,43.7757&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "baroque",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "fr-french-riviera-massif-esterel",
+    "slug": "massif-esterel",
+    "region": "fr-french-riviera",
+    "country": "france",
+    "region_name_vi": "Riviera Pháp (Côte d'Azur)",
+    "name_vi": "Dãy núi đỏ Estérel",
+    "name_en": "Estérel Massif",
+    "name_local": "Massif de l'Estérel",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 43.4833,
+      "lon": 6.8667
+    },
+    "address_vi": "Massif de l'Estérel, Var / Alpes-Maritimes",
+    "presentation_short_vi": "Khối núi đá porphyr đỏ nhô ra biển giữa Cannes và Saint-Raphaël, nổi tiếng với vịnh nhỏ, đường ven biển và các mũi đá đỏ rực.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=43.4833,6.8667",
+      "yandex": "https://yandex.com/maps/?pt=6.8667,43.4833&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "coast",
+      "mountain"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  }
+]

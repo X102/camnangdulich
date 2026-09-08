@@ -1,0 +1,388 @@
+[
+  {
+    "id": "hu-eger-thanh-eger",
+    "slug": "thanh-eger",
+    "region": "hu-eger",
+    "country": "hungary",
+    "region_name_vi": "Eger",
+    "name_vi": "Thành Eger",
+    "name_en": "Eger Castle",
+    "name_local": "Egri vár",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 47.9048,
+      "lon": 20.3773
+    },
+    "address_vi": "Vár 1, Eger",
+    "presentation_short_vi": "Pháo đài trên đồi gắn với cuộc phòng thủ anh hùng năm 1552 chặn quân Ottoman, có bảo tàng, hầm ngục và tầm nhìn bao quát thành phố baroque bên dưới.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.9048,20.3773",
+      "yandex": "https://yandex.com/maps/?pt=20.3773,47.9048&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "fortress",
+      "history",
+      "landmark",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "hu-eger-thap-minaret-eger",
+    "slug": "thap-minaret-eger",
+    "region": "hu-eger",
+    "country": "hungary",
+    "region_name_vi": "Eger",
+    "name_vi": "Tháp Minaret Eger",
+    "name_en": "Eger Minaret",
+    "name_local": "Egri minaret",
+    "categories": [
+      "monument",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 47.899,
+      "lon": 20.3747
+    },
+    "address_vi": "Knézich Károly utca, Eger",
+    "presentation_short_vi": "Tháp minaret bằng đá sa thạch đỏ cao 40 m thời Ottoman, là minaret còn tồn tại xa nhất về phía bắc ở châu Âu; leo 97 bậc xoắn ốc lên ban công ngắm cảnh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.899,20.3747",
+      "yandex": "https://yandex.com/maps/?pt=20.3747,47.899&z=16&l=map"
+    },
+    "tags": [
+      "monument",
+      "ottoman",
+      "history",
+      "landmark",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "hu-eger-vuong-cung-thanh-duong-eger",
+    "slug": "vuong-cung-thanh-duong-eger",
+    "region": "hu-eger",
+    "country": "hungary",
+    "region_name_vi": "Eger",
+    "name_vi": "Vương cung Thánh đường Eger",
+    "name_en": "Eger Basilica",
+    "name_local": "Egri bazilika",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 47.8994,
+      "lon": 20.3739
+    },
+    "address_vi": "Pyrker János tér 1, Eger",
+    "presentation_short_vi": "Nhà thờ chính toà theo phong cách Tân cổ điển khánh thành năm 1837, nhà thờ lớn thứ nhì Hungary với mặt tiền hàng cột đồ sộ và đại phong cầm hoành tráng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.8994,20.3739",
+      "yandex": "https://yandex.com/maps/?pt=20.3739,47.8994&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "neoclassical",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "hu-eger-hoc-vien-liceum-bao-tang-thien-van",
+    "slug": "hoc-vien-liceum-bao-tang-thien-van",
+    "region": "hu-eger",
+    "country": "hungary",
+    "region_name_vi": "Eger",
+    "name_vi": "Học viện Líceum & Bảo tàng Thiên văn",
+    "name_en": "Lyceum & Astronomical Museum",
+    "name_local": "Líceum / Csillagászati Múzeum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 47.8985,
+      "lon": 20.3745
+    },
+    "address_vi": "Eszterházy tér 1, Eger",
+    "presentation_short_vi": "Toà nhà Baroque của Đại học Eszterházy đối diện nhà thờ, có đài thiên văn thế kỷ 18 với camera obscura chiếu hình ảnh sống động của toàn thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.8985,20.3745",
+      "yandex": "https://yandex.com/maps/?pt=20.3745,47.8985&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "baroque",
+      "science",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "hu-eger-quang-truong-dobo-istvan",
+    "slug": "quang-truong-dobo-istvan",
+    "region": "hu-eger",
+    "country": "hungary",
+    "region_name_vi": "Eger",
+    "name_vi": "Quảng trường Dobó István",
+    "name_en": "Dobó Square",
+    "name_local": "Dobó István tér",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 47.9016,
+      "lon": 20.3745
+    },
+    "address_vi": "Dobó István tér, trung tâm Eger",
+    "presentation_short_vi": "Quảng trường chính rực rỡ của Eger với tượng đài anh hùng István Dobó và nhóm tượng chiến binh, bao quanh là nhà thờ Minorite baroque và các quán café.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.9016,20.3745",
+      "yandex": "https://yandex.com/maps/?pt=20.3745,47.9016&z=16&l=map"
+    },
+    "tags": [
+      "square",
+      "central",
+      "baroque",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "hu-eger-nha-tho-minorite",
+    "slug": "nha-tho-minorite",
+    "region": "hu-eger",
+    "country": "hungary",
+    "region_name_vi": "Eger",
+    "name_vi": "Nhà thờ Minorite",
+    "name_en": "Minorite Church",
+    "name_local": "Minorita templom",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 47.9014,
+      "lon": 20.3756
+    },
+    "address_vi": "Dobó István tér 6, Eger",
+    "presentation_short_vi": "Một trong những nhà thờ Baroque đẹp nhất Trung Âu (thế kỷ 18) với mặt tiền hai tháp uốn lượn mềm mại, đứng nổi bật trên quảng trường Dobó.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.9014,20.3756",
+      "yandex": "https://yandex.com/maps/?pt=20.3756,47.9014&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "baroque",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "hu-eger-thung-lung-nguoi-dep",
+    "slug": "thung-lung-nguoi-dep",
+    "region": "hu-eger",
+    "country": "hungary",
+    "region_name_vi": "Eger",
+    "name_vi": "Thung lũng Người đẹp",
+    "name_en": "Valley of the Beautiful Women",
+    "name_local": "Szépasszony-völgy",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 47.8896,
+      "lon": 20.3567
+    },
+    "address_vi": "Szépasszonyvölgyi út, Eger",
+    "presentation_short_vi": "Thung lũng nổi tiếng với hàng chục hầm rượu vang đục vào sườn đồi, nơi thưởng thức rượu vang đỏ Bikavér (Máu Bò) trứ danh của vùng Eger.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.8896,20.3567",
+      "yandex": "https://yandex.com/maps/?pt=20.3567,47.8896&z=16&l=map"
+    },
+    "tags": [
+      "wine",
+      "nature",
+      "food",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "hu-eger-cung-dien-tong-giam-muc",
+    "slug": "cung-dien-tong-giam-muc",
+    "region": "hu-eger",
+    "country": "hungary",
+    "region_name_vi": "Eger",
+    "name_vi": "Cung điện Tổng Giám mục",
+    "name_en": "Archbishop's Palace",
+    "name_local": "Érseki Palota",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 47.8999,
+      "lon": 20.3742
+    },
+    "address_vi": "Széchenyi István utca 5, Eger",
+    "presentation_short_vi": "Dinh thự Baroque của các tổng giám mục Eger, nay là trung tâm trưng bày lịch sử giáo phận với sân vườn trong và bộ sưu tập lễ phục, đồ bạc quý.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.8999,20.3742",
+      "yandex": "https://yandex.com/maps/?pt=20.3742,47.8999&z=16&l=map"
+    },
+    "tags": [
+      "palace",
+      "baroque",
+      "museum",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "hu-eger-toa-nha-hoi-dong-tinh-heves",
+    "slug": "toa-nha-hoi-dong-tinh-heves",
+    "region": "hu-eger",
+    "country": "hungary",
+    "region_name_vi": "Eger",
+    "name_vi": "Toà nhà Hội đồng tỉnh Heves",
+    "name_en": "Heves County Hall",
+    "name_local": "Megyeháza",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 47.9008,
+      "lon": 20.3733
+    },
+    "address_vi": "Kossuth Lajos utca 9, Eger",
+    "presentation_short_vi": "Toà nhà Baroque thế kỷ 18 nổi tiếng với hai cánh cổng sắt rèn nghệ thuật tuyệt đẹp của thợ Henrik Fazola, một kiệt tác nghề rèn sắt của Hungary.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.9008,20.3733",
+      "yandex": "https://yandex.com/maps/?pt=20.3733,47.9008&z=16&l=map"
+    },
+    "tags": [
+      "monument",
+      "baroque",
+      "art",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "hu-eger-vuon-tong-giam-muc-ersekkert",
+    "slug": "vuon-tong-giam-muc-ersekkert",
+    "region": "hu-eger",
+    "country": "hungary",
+    "region_name_vi": "Eger",
+    "name_vi": "Vườn Tổng Giám mục (Érsekkert)",
+    "name_en": "Archbishop's Garden",
+    "name_local": "Érsekkert",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 47.9032,
+      "lon": 20.3808
+    },
+    "address_vi": "Klapka György utca, Eger",
+    "presentation_short_vi": "Công viên lâu đời và lớn nhất Eger vốn là khu vườn của tổng giám mục, nay là không gian xanh với hồ nước, đường dạo và sân chơi giữa lòng thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.9032,20.3808",
+      "yandex": "https://yandex.com/maps/?pt=20.3808,47.9032&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "nature",
+      "garden",
+      "relax"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "hu-eger-nha-tho-chinh-thong-serbia",
+    "slug": "nha-tho-chinh-thong-serbia",
+    "region": "hu-eger",
+    "country": "hungary",
+    "region_name_vi": "Eger",
+    "name_vi": "Nhà thờ Chính thống giáo Serbia",
+    "name_en": "Serbian Orthodox Church",
+    "name_local": "Rác templom",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 47.9068,
+      "lon": 20.3717
+    },
+    "address_vi": "Vitkovics Mihály utca 30, Eger",
+    "presentation_short_vi": "Nhà thờ Chính thống Serbia trên đồi phía bắc thành phố, nổi bật với bức tường ảnh thánh (iconostasis) mạ vàng lộng lẫy được xem là đẹp nhất Hungary.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.9068,20.3717",
+      "yandex": "https://yandex.com/maps/?pt=20.3717,47.9068&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "orthodox",
+      "art",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "hu-eger-nha-tam-tho-nhi-ky-eger",
+    "slug": "nha-tam-tho-nhi-ky-eger",
+    "region": "hu-eger",
+    "country": "hungary",
+    "region_name_vi": "Eger",
+    "name_vi": "Nhà tắm Thổ Nhĩ Kỳ Eger",
+    "name_en": "Eger Turkish Bath",
+    "name_local": "Török fürdő",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 47.9016,
+      "lon": 20.369
+    },
+    "address_vi": "Fürdő utca 3-4, Eger",
+    "presentation_short_vi": "Nhà tắm có mái vòm từ thời Ottoman thế kỷ 17 với bể nước khoáng nóng trung tâm dưới mái bát giác, một di sản tắm kiểu Thổ hiếm hoi còn hoạt động.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.9016,20.369",
+      "yandex": "https://yandex.com/maps/?pt=20.369,47.9016&z=16&l=map"
+    },
+    "tags": [
+      "thermal",
+      "ottoman",
+      "spa",
+      "relax"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

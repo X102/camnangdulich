@@ -1,0 +1,426 @@
+[
+  {
+    "id": "pl-gdansk-vuong-cung-thanh-duong-duc-me",
+    "slug": "vuong-cung-thanh-duong-duc-me",
+    "region": "pl-gdansk",
+    "country": "poland",
+    "region_name_vi": "Gdańsk",
+    "name_vi": "Vương cung Thánh đường Đức Mẹ",
+    "name_en": "St. Mary's Church",
+    "name_local": "Bazylika Mariacka",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 54.3497,
+      "lon": 18.6528
+    },
+    "address_vi": "Podkramarska 5, Phố Chính (Główne Miasto), Gdańsk",
+    "presentation_short_vi": "Nhà thờ gạch lớn nhất thế giới khởi công từ thế kỷ 14, có sức chứa khoảng 25.000 người; nổi bật với đồng hồ thiên văn cổ và tháp cao 82 m ngắm toàn cảnh phố cổ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=54.3497,18.6528",
+      "yandex": "https://yandex.com/maps/?pt=18.6528,54.3497&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "church",
+      "gothic",
+      "landmark",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "pl-gdansk-dai-phun-nuoc-than-neptune",
+    "slug": "dai-phun-nuoc-than-neptune",
+    "region": "pl-gdansk",
+    "country": "poland",
+    "region_name_vi": "Gdańsk",
+    "name_vi": "Đài phun nước Thần Neptune",
+    "name_en": "Neptune's Fountain",
+    "name_local": "Fontanna Neptuna",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 54.3486,
+      "lon": 18.6533
+    },
+    "address_vi": "Długi Targ, Phố Chính, Gdańsk",
+    "presentation_short_vi": "Đài phun nước bằng đồng hình thần biển Neptune dựng năm 1633, biểu tượng của Gdańsk đặt ngay trước Sân Artus trên Chợ Dài.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=54.3486,18.6533",
+      "yandex": "https://yandex.com/maps/?pt=18.6533,54.3486&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "monument",
+      "landmark",
+      "iconic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "pl-gdansk-cho-dai-dlugi-targ",
+    "slug": "cho-dai-dlugi-targ",
+    "region": "pl-gdansk",
+    "country": "poland",
+    "region_name_vi": "Gdańsk",
+    "name_vi": "Chợ Dài (Długi Targ)",
+    "name_en": "Long Market",
+    "name_local": "Długi Targ",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 54.3485,
+      "lon": 18.654
+    },
+    "address_vi": "Długi Targ, Phố Chính, Gdańsk",
+    "presentation_short_vi": "Quảng trường - phố đi bộ lộng lẫy với dãy nhà phố kiểu Hà Lan nhiều màu sắc, trục chính của khu phố cổ nối Cổng Vàng tới Cổng Xanh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=54.3485,18.654",
+      "yandex": "https://yandex.com/maps/?pt=18.654,54.3485&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "square",
+      "street",
+      "historic",
+      "central"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "pl-gdansk-san-artus",
+    "slug": "san-artus",
+    "region": "pl-gdansk",
+    "country": "poland",
+    "region_name_vi": "Gdańsk",
+    "name_vi": "Sân Artus",
+    "name_en": "Artus Court",
+    "name_local": "Dwór Artusa",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 54.3487,
+      "lon": 18.6535
+    },
+    "address_vi": "Długi Targ 43/44, Gdańsk",
+    "presentation_short_vi": "Toà nhà hội họp của giới thương nhân từ thời Trung cổ, nổi tiếng với lò sưởi gạch men cao 11 m; nay là bảo tàng trưng bày nội thất lịch sử.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=54.3487,18.6535",
+      "yandex": "https://yandex.com/maps/?pt=18.6535,54.3487&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "history",
+      "landmark",
+      "culture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "pl-gdansk-toa-thi-chinh-pho-chinh",
+    "slug": "toa-thi-chinh-pho-chinh",
+    "region": "pl-gdansk",
+    "country": "poland",
+    "region_name_vi": "Gdańsk",
+    "name_vi": "Toà Thị chính Phố Chính",
+    "name_en": "Main Town Hall",
+    "name_local": "Ratusz Głównego Miasta",
+    "categories": [
+      "museum",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 54.3489,
+      "lon": 18.6531
+    },
+    "address_vi": "Długa 46/47, Gdańsk",
+    "presentation_short_vi": "Toà thị chính Gothic - Phục hưng với tháp cao 81 m, nay là Bảo tàng Lịch sử Gdańsk; leo tháp để ngắm toàn cảnh khu phố cổ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=54.3489,18.6531",
+      "yandex": "https://yandex.com/maps/?pt=18.6531,54.3489&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "history",
+      "landmark",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "pl-gdansk-cong-vang",
+    "slug": "cong-vang",
+    "region": "pl-gdansk",
+    "country": "poland",
+    "region_name_vi": "Gdańsk",
+    "name_vi": "Cổng Vàng",
+    "name_en": "Golden Gate",
+    "name_local": "Złota Brama",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 54.3489,
+      "lon": 18.6511
+    },
+    "address_vi": "Długa, đầu phía tây Phố Dài, Gdańsk",
+    "presentation_short_vi": "Cổng thành kiểu Mannerism đầu thế kỷ 17 trang trí tượng đá tượng trưng cho các đức tính công dân, mở đầu tuyến phố Hoàng gia (Droga Królewska).",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=54.3489,18.6511",
+      "yandex": "https://yandex.com/maps/?pt=18.6511,54.3489&z=16&l=map"
+    },
+    "tags": [
+      "monument",
+      "gate",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "pl-gdansk-can-cau-co-gdansk",
+    "slug": "can-cau-co-gdansk",
+    "region": "pl-gdansk",
+    "country": "poland",
+    "region_name_vi": "Gdańsk",
+    "name_vi": "Cần cẩu cổ Gdańsk",
+    "name_en": "Gdańsk Crane",
+    "name_local": "Żuraw",
+    "categories": [
+      "monument",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 54.3506,
+      "lon": 18.6576
+    },
+    "address_vi": "Szeroka 67/68, bờ sông Motława, Gdańsk",
+    "presentation_short_vi": "Cần cẩu cảng bằng gỗ lớn nhất châu Âu thời Trung cổ (thế kỷ 15), biểu tượng bên sông Motława, nay là một phần Bảo tàng Hàng hải Quốc gia.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=54.3506,18.6576",
+      "yandex": "https://yandex.com/maps/?pt=18.6576,54.3506&z=16&l=map"
+    },
+    "tags": [
+      "monument",
+      "history",
+      "maritime",
+      "landmark",
+      "iconic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "pl-gdansk-pho-mariacka",
+    "slug": "pho-mariacka",
+    "region": "pl-gdansk",
+    "country": "poland",
+    "region_name_vi": "Gdańsk",
+    "name_vi": "Phố Mariacka",
+    "name_en": "Mariacka Street",
+    "name_local": "ulica Mariacka",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 54.3499,
+      "lon": 18.6547
+    },
+    "address_vi": "ulica Mariacka, Phố Chính, Gdańsk",
+    "presentation_short_vi": "Con phố lãng mạn nhất Gdańsk với những bậc thềm đá cổ (przedproża) và máng xối hình đầu thú, nổi tiếng là phố bán hổ phách (amber).",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=54.3499,18.6547",
+      "yandex": "https://yandex.com/maps/?pt=18.6547,54.3499&z=16&l=map"
+    },
+    "tags": [
+      "street",
+      "amber",
+      "historic",
+      "scenic",
+      "shopping"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "pl-gdansk-nha-tho-chinh-toa-oliwa",
+    "slug": "nha-tho-chinh-toa-oliwa",
+    "region": "pl-gdansk",
+    "country": "poland",
+    "region_name_vi": "Gdańsk",
+    "name_vi": "Nhà thờ Chính toà Oliwa",
+    "name_en": "Oliwa Cathedral",
+    "name_local": "Archikatedra Oliwska",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 54.4108,
+      "lon": 18.5578
+    },
+    "address_vi": "Biskupa Edmunda Nowickiego 5, quận Oliwa, Gdańsk",
+    "presentation_short_vi": "Nhà thờ tu viện Xitô có mặt tiền hai tháp cao vút, nổi tiếng thế giới với cây đại phong cầm Baroque nghìn ống thường xuyên biểu diễn.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=54.4108,18.5578",
+      "yandex": "https://yandex.com/maps/?pt=18.5578,54.4108&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "baroque",
+      "music",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "pl-gdansk-cong-vien-oliwa",
+    "slug": "cong-vien-oliwa",
+    "region": "pl-gdansk",
+    "country": "poland",
+    "region_name_vi": "Gdańsk",
+    "name_vi": "Công viên Oliwa",
+    "name_en": "Oliwa Park",
+    "name_local": "Park Oliwski",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 54.4095,
+      "lon": 18.556
+    },
+    "address_vi": "Opata Jacka Rybińskiego, quận Oliwa, Gdańsk",
+    "presentation_short_vi": "Công viên kiểu Pháp và Anh cạnh nhà thờ Oliwa với hồ nước, nhà kính cọ và vườn hương thơm, ốc đảo xanh yên tĩnh ở phía bắc thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=54.4095,18.556",
+      "yandex": "https://yandex.com/maps/?pt=18.556,54.4095&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "nature",
+      "garden",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "pl-gdansk-trung-tam-doan-ket-chau-au",
+    "slug": "trung-tam-doan-ket-chau-au",
+    "region": "pl-gdansk",
+    "country": "poland",
+    "region_name_vi": "Gdańsk",
+    "name_vi": "Trung tâm Đoàn kết châu Âu",
+    "name_en": "European Solidarity Centre",
+    "name_local": "Europejskie Centrum Solidarności",
+    "categories": [
+      "museum",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 54.3617,
+      "lon": 18.6489
+    },
+    "address_vi": "plac Solidarności 1, cạnh xưởng đóng tàu Gdańsk",
+    "presentation_short_vi": "Bảo tàng và toà nhà hiện đại ốp thép gỉ tưởng niệm phong trào Công đoàn Đoàn kết (Solidarność) của Lech Wałęsa, đặt cạnh cổng xưởng đóng tàu lịch sử.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=54.3617,18.6489",
+      "yandex": "https://yandex.com/maps/?pt=18.6489,54.3617&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "museum",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "pl-gdansk-bao-tang-the-chien-ii",
+    "slug": "bao-tang-the-chien-ii",
+    "region": "pl-gdansk",
+    "country": "poland",
+    "region_name_vi": "Gdańsk",
+    "name_vi": "Bảo tàng Thế chiến II",
+    "name_en": "Museum of the Second World War",
+    "name_local": "Muzeum II Wojny Światowej",
+    "categories": [
+      "museum",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 54.3562,
+      "lon": 18.6578
+    },
+    "address_vi": "plac Władysława Bartoszewskiego 1, Gdańsk",
+    "presentation_short_vi": "Bảo tàng hiện đại với toà tháp nghiêng màu đỏ đặc trưng, một trong những bảo tàng lịch sử lớn nhất Ba Lan kể về Thế chiến II khởi phát ngay tại Gdańsk.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=54.3562,18.6578",
+      "yandex": "https://yandex.com/maps/?pt=18.6578,54.3562&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "museum",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "pl-gdansk-ban-dao-westerplatte",
+    "slug": "ban-dao-westerplatte",
+    "region": "pl-gdansk",
+    "country": "poland",
+    "region_name_vi": "Gdańsk",
+    "name_vi": "Bán đảo Westerplatte",
+    "name_en": "Westerplatte",
+    "name_local": "Westerplatte",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 54.4075,
+      "lon": 18.6712
+    },
+    "address_vi": "Westerplatte, cửa cảng Gdańsk",
+    "presentation_short_vi": "Nơi nổ ra loạt súng đầu tiên của Thế chiến II ngày 1/9/1939, nay có đài tưởng niệm Bảo vệ Bờ biển bằng đá cao lớn nhìn ra cửa biển Baltic.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=54.4075,18.6712",
+      "yandex": "https://yandex.com/maps/?pt=18.6712,54.4075&z=16&l=map"
+    },
+    "tags": [
+      "monument",
+      "history",
+      "memorial",
+      "wwii"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

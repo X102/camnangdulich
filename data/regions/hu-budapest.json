@@ -1,0 +1,446 @@
+[
+  {
+    "id": "hu-budapest-nha-quoc-hoi-hungary",
+    "slug": "nha-quoc-hoi-hungary",
+    "region": "hu-budapest",
+    "country": "hungary",
+    "region_name_vi": "Budapest",
+    "name_vi": "Nhà Quốc hội Hungary",
+    "name_en": "Hungarian Parliament Building",
+    "name_local": "Országház",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 47.5072,
+      "lon": 19.0455
+    },
+    "address_vi": "Kossuth Lajos tér 1-3, quận V (Lipótváros), Budapest",
+    "presentation_short_vi": "Toà nhà Quốc hội theo phong cách Tân Gothic soi bóng sông Danube, hoàn thành năm 1902; là công trình lập pháp lớn nhất Hungary, nơi lưu giữ Vương miện Thánh Stephen.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.5072,19.0455",
+      "yandex": "https://yandex.com/maps/?pt=19.0455,47.5072&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "landmark",
+      "danube",
+      "iconic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "hu-budapest-cung-dien-buda",
+    "slug": "cung-dien-buda",
+    "region": "hu-budapest",
+    "country": "hungary",
+    "region_name_vi": "Budapest",
+    "name_vi": "Cung điện Buda",
+    "name_en": "Buda Castle",
+    "name_local": "Budavári Palota",
+    "categories": [
+      "palace",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 47.496,
+      "lon": 19.0397
+    },
+    "address_vi": "Szent György tér 2, Đồi Lâu đài, quận I, Budapest",
+    "presentation_short_vi": "Cung điện hoàng gia lịch sử trên Đồi Lâu đài (di sản UNESCO), nay là nơi đặt Phòng trưng bày Quốc gia Hungary và Bảo tàng Lịch sử Budapest.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.496,19.0397",
+      "yandex": "https://yandex.com/maps/?pt=19.0397,47.496&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "palace",
+      "unesco",
+      "museum"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "hu-budapest-phao-dai-ngu-dan",
+    "slug": "phao-dai-ngu-dan",
+    "region": "hu-budapest",
+    "country": "hungary",
+    "region_name_vi": "Budapest",
+    "name_vi": "Pháo đài Ngư dân",
+    "name_en": "Fisherman's Bastion",
+    "name_local": "Halászbástya",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 47.5019,
+      "lon": 19.0344
+    },
+    "address_vi": "Szentháromság tér, Đồi Lâu đài, quận I, Budapest",
+    "presentation_short_vi": "Sân thượng ngắm cảnh theo phong cách Tân Roman với bảy tháp chóp nhọn tượng trưng cho bảy bộ lạc Magyar, nơi ngắm toàn cảnh sông Danube và Nhà Quốc hội đẹp nhất.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.5019,19.0344",
+      "yandex": "https://yandex.com/maps/?pt=19.0344,47.5019&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "viewpoint",
+      "monument",
+      "iconic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "hu-budapest-nha-tho-matthias",
+    "slug": "nha-tho-matthias",
+    "region": "hu-budapest",
+    "country": "hungary",
+    "region_name_vi": "Budapest",
+    "name_vi": "Nhà thờ Matthias",
+    "name_en": "Matthias Church",
+    "name_local": "Mátyás-templom",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 47.502,
+      "lon": 19.0341
+    },
+    "address_vi": "Szentháromság tér 2, Đồi Lâu đài, quận I, Budapest",
+    "presentation_short_vi": "Nhà thờ Công giáo Gothic mái ngói men màu rực rỡ, nơi từng diễn ra lễ đăng quang các vua Hungary; có nguồn gốc từ thế kỷ 13 và được trùng tu công phu cuối thế kỷ 19.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.502,19.0341",
+      "yandex": "https://yandex.com/maps/?pt=19.0341,47.502&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "gothic",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "hu-budapest-cau-xich-szechenyi",
+    "slug": "cau-xich-szechenyi",
+    "region": "hu-budapest",
+    "country": "hungary",
+    "region_name_vi": "Budapest",
+    "name_vi": "Cầu Xích Széchenyi",
+    "name_en": "Széchenyi Chain Bridge",
+    "name_local": "Széchenyi Lánchíd",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 47.4988,
+      "lon": 19.0435
+    },
+    "address_vi": "Széchenyi Lánchíd, nối Buda và Pest, Budapest",
+    "presentation_short_vi": "Cây cầu vĩnh cửu đầu tiên bắc qua sông Danube ở Budapest (khánh thành năm 1849), với hai cặp sư tử đá canh gác hai đầu, là biểu tượng của thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.4988,19.0435",
+      "yandex": "https://yandex.com/maps/?pt=19.0435,47.4988&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "bridge",
+      "danube",
+      "iconic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "hu-budapest-vuong-cung-thanh-duong-thanh-stephen",
+    "slug": "vuong-cung-thanh-duong-thanh-stephen",
+    "region": "hu-budapest",
+    "country": "hungary",
+    "region_name_vi": "Budapest",
+    "name_vi": "Vương cung Thánh đường Thánh Stephen",
+    "name_en": "St. Stephen's Basilica",
+    "name_local": "Szent István-bazilika",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 47.5008,
+      "lon": 19.0537
+    },
+    "address_vi": "Szent István tér 1, quận V (Lipótváros), Budapest",
+    "presentation_short_vi": "Nhà thờ lớn nhất Budapest theo phong cách Tân Cổ điển với mái vòm cao 96 m, lưu giữ thánh tích bàn tay phải của vua Stephen I; có đài quan sát trên mái.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.5008,19.0537",
+      "yandex": "https://yandex.com/maps/?pt=19.0537,47.5008&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "viewpoint",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "hu-budapest-quang-truong-anh-hung",
+    "slug": "quang-truong-anh-hung",
+    "region": "hu-budapest",
+    "country": "hungary",
+    "region_name_vi": "Budapest",
+    "name_vi": "Quảng trường Anh hùng",
+    "name_en": "Heroes' Square",
+    "name_local": "Hősök tere",
+    "categories": [
+      "square_street",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 47.5149,
+      "lon": 19.0778
+    },
+    "address_vi": "Hősök tere, cuối đại lộ Andrássy, quận XIV, Budapest",
+    "presentation_short_vi": "Quảng trường lớn (di sản UNESCO) với Đài Thiên niên kỷ và tượng các thủ lĩnh Magyar cùng những vĩ nhân Hungary, nằm ở đầu Công viên Thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.5149,19.0778",
+      "yandex": "https://yandex.com/maps/?pt=19.0778,47.5149&z=16&l=map"
+    },
+    "tags": [
+      "square",
+      "monument",
+      "unesco"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "hu-budapest-nha-tam-nuoc-nong-szechenyi",
+    "slug": "nha-tam-nuoc-nong-szechenyi",
+    "region": "hu-budapest",
+    "country": "hungary",
+    "region_name_vi": "Budapest",
+    "name_vi": "Nhà tắm nước nóng Széchenyi",
+    "name_en": "Széchenyi Thermal Bath",
+    "name_local": "Széchenyi gyógyfürdő",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 47.5188,
+      "lon": 19.0827
+    },
+    "address_vi": "Állatkerti körút 9-11, Công viên Thành phố, quận XIV, Budapest",
+    "presentation_short_vi": "Một trong những khu tắm nước khoáng nóng lớn nhất châu Âu, kiến trúc Tân Baroque màu vàng với các bể ngoài trời bốc hơi quanh năm.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.5188,19.0827",
+      "yandex": "https://yandex.com/maps/?pt=19.0827,47.5188&z=16&l=map"
+    },
+    "tags": [
+      "thermal-bath",
+      "landmark",
+      "relax"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "hu-budapest-nha-hat-opera-quoc-gia-hungary",
+    "slug": "nha-hat-opera-quoc-gia-hungary",
+    "region": "hu-budapest",
+    "country": "hungary",
+    "region_name_vi": "Budapest",
+    "name_vi": "Nhà hát Opera Quốc gia Hungary",
+    "name_en": "Hungarian State Opera House",
+    "name_local": "Magyar Állami Operaház",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 47.5029,
+      "lon": 19.0608
+    },
+    "address_vi": "Andrássy út 22, quận VI (Terézváros), Budapest",
+    "presentation_short_vi": "Nhà hát opera Tân Phục Hưng lộng lẫy khánh thành năm 1884 trên đại lộ Andrássy, nổi tiếng về âm học và nội thất dát vàng cùng bích hoạ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.5029,19.0608",
+      "yandex": "https://yandex.com/maps/?pt=19.0608,47.5029&z=16&l=map"
+    },
+    "tags": [
+      "theatre",
+      "opera",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "hu-budapest-doi-gellert-va-thanh-citadella",
+    "slug": "doi-gellert-va-thanh-citadella",
+    "region": "hu-budapest",
+    "country": "hungary",
+    "region_name_vi": "Budapest",
+    "name_vi": "Đồi Gellért và Thành Citadella",
+    "name_en": "Gellért Hill and Citadella",
+    "name_local": "Gellérthegy és Citadella",
+    "categories": [
+      "fortress",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 47.4866,
+      "lon": 19.0459
+    },
+    "address_vi": "Citadella sétány, Đồi Gellért, quận XI, Budapest",
+    "presentation_short_vi": "Ngọn đồi đá dốc bên sông Danube với pháo đài Citadella thế kỷ 19 và Tượng đài Tự do trên đỉnh, là điểm ngắm toàn cảnh Budapest đẹp nhất.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.4866,19.0459",
+      "yandex": "https://yandex.com/maps/?pt=19.0459,47.4866&z=16&l=map"
+    },
+    "tags": [
+      "viewpoint",
+      "fortress",
+      "nature",
+      "unesco"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "hu-budapest-cho-trung-tam-lon",
+    "slug": "cho-trung-tam-lon",
+    "region": "hu-budapest",
+    "country": "hungary",
+    "region_name_vi": "Budapest",
+    "name_vi": "Chợ Trung tâm Lớn",
+    "name_en": "Great Market Hall",
+    "name_local": "Nagyvásárcsarnok",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 47.4874,
+      "lon": 19.0586
+    },
+    "address_vi": "Vámház körút 1-3, quận IX, cuối cầu Tự do, Budapest",
+    "presentation_short_vi": "Chợ có mái che lớn nhất và lâu đời nhất Budapest (1897), khung thép với mái ngói Zsolnay nhiều màu, bán nông sản, ớt bột paprika và đồ thủ công.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.4874,19.0586",
+      "yandex": "https://yandex.com/maps/?pt=19.0586,47.4874&z=16&l=map"
+    },
+    "tags": [
+      "market",
+      "architecture",
+      "food"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "hu-budapest-dao-margaret",
+    "slug": "dao-margaret",
+    "region": "hu-budapest",
+    "country": "hungary",
+    "region_name_vi": "Budapest",
+    "name_vi": "Đảo Margaret",
+    "name_en": "Margaret Island",
+    "name_local": "Margit-sziget",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 47.5275,
+      "lon": 19.048
+    },
+    "address_vi": "Margit-sziget, giữa sông Danube, Budapest",
+    "presentation_short_vi": "Hòn đảo công viên xanh giữa sông Danube với đài phun nhạc nước, vườn hồng, tháp nước lịch sử và tàn tích tu viện thời trung cổ, không có xe cộ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.5275,19.048",
+      "yandex": "https://yandex.com/maps/?pt=19.048,47.5275&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "nature",
+      "danube",
+      "relax"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "hu-budapest-giao-duong-do-thai-pho-dohany",
+    "slug": "giao-duong-do-thai-pho-dohany",
+    "region": "hu-budapest",
+    "country": "hungary",
+    "region_name_vi": "Budapest",
+    "name_vi": "Giáo đường Do Thái phố Dohány",
+    "name_en": "Dohány Street Synagogue",
+    "name_local": "Dohány utcai zsinagóga",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 47.4956,
+      "lon": 19.0608
+    },
+    "address_vi": "Dohány utca 2, quận VII (Erzsébetváros), Budapest",
+    "presentation_short_vi": "Giáo đường Do Thái lớn nhất châu Âu, xây năm 1859 theo phong cách Moorish, kèm khu vườn và đài tưởng niệm nạn nhân Holocaust.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.4956,19.0608",
+      "yandex": "https://yandex.com/maps/?pt=19.0608,47.4956&z=16&l=map"
+    },
+    "tags": [
+      "synagogue",
+      "history",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "hu-budapest-lau-dai-vajdahunyad",
+    "slug": "lau-dai-vajdahunyad",
+    "region": "hu-budapest",
+    "country": "hungary",
+    "region_name_vi": "Budapest",
+    "name_vi": "Lâu đài Vajdahunyad",
+    "name_en": "Vajdahunyad Castle",
+    "name_local": "Vajdahunyad vára",
+    "categories": [
+      "palace",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 47.5147,
+      "lon": 19.0824
+    },
+    "address_vi": "Városliget, Công viên Thành phố, quận XIV, Budapest",
+    "presentation_short_vi": "Quần thể lâu đài trong Công viên Thành phố mô phỏng nhiều phong cách kiến trúc Hungary (Roman, Gothic, Baroque), ban đầu dựng bằng gỗ cho triển lãm Thiên niên kỷ năm 1896.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.5147,19.0824",
+      "yandex": "https://yandex.com/maps/?pt=19.0824,47.5147&z=16&l=map"
+    },
+    "tags": [
+      "palace",
+      "park",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  }
+]

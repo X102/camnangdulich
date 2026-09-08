@@ -1,0 +1,380 @@
+[
+  {
+    "id": "it-rome-dau-truong-la-ma",
+    "slug": "dau-truong-la-ma",
+    "region": "it-rome",
+    "country": "italy",
+    "region_name_vi": "Roma",
+    "name_vi": "Đấu trường La Mã",
+    "name_en": "Colosseum",
+    "name_local": "Colosseo",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 41.8902,
+      "lon": 12.4922
+    },
+    "address_vi": "Piazza del Colosseo 1, Roma, Ý",
+    "presentation_short_vi": "Đấu trường La Mã (thế kỷ 1) là giác đấu trường lớn nhất từng được xây, biểu tượng bất hủ của Roma cổ đại và là Di sản Thế giới UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=41.8902,12.4922",
+      "yandex": "https://yandex.com/maps/?pt=12.4922,41.8902&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "landmark",
+      "iconic",
+      "unesco"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-rome-dien-dan-la-ma-co",
+    "slug": "dien-dan-la-ma-co",
+    "region": "it-rome",
+    "country": "italy",
+    "region_name_vi": "Roma",
+    "name_vi": "Diễn đàn La Mã cổ đại",
+    "name_en": "Roman Forum",
+    "name_local": "Foro Romano",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 41.8925,
+      "lon": 12.4853
+    },
+    "address_vi": "Via della Salara Vecchia 5/6, Roma, Ý",
+    "presentation_short_vi": "Quần thể di tích trung tâm chính trị và tôn giáo của La Mã cổ đại, với đền đài, khải hoàn môn và quảng trường nằm giữa các đồi Palatine và Capitoline.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=41.8925,12.4853",
+      "yandex": "https://yandex.com/maps/?pt=12.4853,41.8925&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "history",
+      "unesco",
+      "ruins"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-rome-den-pantheon",
+    "slug": "den-pantheon",
+    "region": "it-rome",
+    "country": "italy",
+    "region_name_vi": "Roma",
+    "name_vi": "Đền Pantheon",
+    "name_en": "Pantheon",
+    "name_local": "Pantheon",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 41.8986,
+      "lon": 12.4769
+    },
+    "address_vi": "Piazza della Rotonda, Roma, Ý",
+    "presentation_short_vi": "Đền thờ La Mã cổ được bảo tồn nguyên vẹn nhất, nổi tiếng với mái vòm bê tông và ô sáng tròn (oculus) ở đỉnh, nay là một nhà thờ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=41.8986,12.4769",
+      "yandex": "https://yandex.com/maps/?pt=12.4769,41.8986&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "history",
+      "iconic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-rome-vuong-cung-thanh-duong-thanh-phero",
+    "slug": "vuong-cung-thanh-duong-thanh-phero",
+    "region": "it-rome",
+    "country": "italy",
+    "region_name_vi": "Roma",
+    "name_vi": "Vương cung thánh đường Thánh Phêrô",
+    "name_en": "St. Peter's Basilica",
+    "name_local": "Basilica di San Pietro",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 41.9022,
+      "lon": 12.4539
+    },
+    "address_vi": "Piazza San Pietro, Thành Vatican",
+    "presentation_short_vi": "Vương cung thánh đường lớn nhất thế giới tại Vatican, kiệt tác kiến trúc Phục hưng và Baroque với mái vòm do Michelangelo thiết kế.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=41.9022,12.4539",
+      "yandex": "https://yandex.com/maps/?pt=12.4539,41.9022&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "church",
+      "unesco",
+      "iconic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-rome-dai-phun-nuoc-trevi",
+    "slug": "dai-phun-nuoc-trevi",
+    "region": "it-rome",
+    "country": "italy",
+    "region_name_vi": "Roma",
+    "name_vi": "Đài phun nước Trevi",
+    "name_en": "Trevi Fountain",
+    "name_local": "Fontana di Trevi",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 41.9009,
+      "lon": 12.4833
+    },
+    "address_vi": "Piazza di Trevi, Roma, Ý",
+    "presentation_short_vi": "Đài phun nước Baroque nổi tiếng nhất thế giới, nơi du khách ném đồng xu để ước nguyện quay lại Roma.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=41.9009,12.4833",
+      "yandex": "https://yandex.com/maps/?pt=12.4833,41.9009&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "landmark",
+      "iconic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-rome-bao-tang-vatican",
+    "slug": "bao-tang-vatican",
+    "region": "it-rome",
+    "country": "italy",
+    "region_name_vi": "Roma",
+    "name_vi": "Bảo tàng Vatican",
+    "name_en": "Vatican Museums",
+    "name_local": "Musei Vaticani",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 41.9065,
+      "lon": 12.4536
+    },
+    "address_vi": "Viale Vaticano, Thành Vatican",
+    "presentation_short_vi": "Hệ thống bảo tàng của Toà thánh Vatican trưng bày kho tàng nghệ thuật khổng lồ, đỉnh cao là Nhà nguyện Sistine với bích hoạ của Michelangelo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=41.9065,12.4536",
+      "yandex": "https://yandex.com/maps/?pt=12.4536,41.9065&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "museum",
+      "art",
+      "unesco"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-rome-lau-dai-thien-than",
+    "slug": "lau-dai-thien-than",
+    "region": "it-rome",
+    "country": "italy",
+    "region_name_vi": "Roma",
+    "name_vi": "Lâu đài Thiên Thần",
+    "name_en": "Castel Sant'Angelo",
+    "name_local": "Castel Sant'Angelo",
+    "categories": [
+      "fortress",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 41.9031,
+      "lon": 12.4663
+    },
+    "address_vi": "Lungotevere Castello 50, Roma, Ý",
+    "presentation_short_vi": "Pháo đài hình trụ bên sông Tiber, nguyên là lăng mộ hoàng đế Hadrian, sau trở thành thành luỹ của Giáo hoàng và nay là bảo tàng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=41.9031,12.4663",
+      "yandex": "https://yandex.com/maps/?pt=12.4663,41.9031&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "history",
+      "fortress"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-rome-bac-thang-tay-ban-nha",
+    "slug": "bac-thang-tay-ban-nha",
+    "region": "it-rome",
+    "country": "italy",
+    "region_name_vi": "Roma",
+    "name_vi": "Bậc thang Tây Ban Nha",
+    "name_en": "Spanish Steps",
+    "name_local": "Scalinata di Trinità dei Monti",
+    "categories": [
+      "square_street",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 41.906,
+      "lon": 12.4823
+    },
+    "address_vi": "Piazza di Spagna, Roma, Ý",
+    "presentation_short_vi": "Bậc thang Baroque 135 bậc nối quảng trường Spagna với nhà thờ Trinità dei Monti, điểm hẹn nổi tiếng giữa trung tâm Roma.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=41.906,12.4823",
+      "yandex": "https://yandex.com/maps/?pt=12.4823,41.906&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "iconic",
+      "square"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-rome-quang-truong-navona",
+    "slug": "quang-truong-navona",
+    "region": "it-rome",
+    "country": "italy",
+    "region_name_vi": "Roma",
+    "name_vi": "Quảng trường Navona",
+    "name_en": "Piazza Navona",
+    "name_local": "Piazza Navona",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 41.8992,
+      "lon": 12.4731
+    },
+    "address_vi": "Piazza Navona, Roma, Ý",
+    "presentation_short_vi": "Quảng trường Baroque tráng lệ trên nền sân vận động cổ Domitian, nổi bật với Đài phun nước Bốn Dòng Sông của Bernini.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=41.8992,12.4731",
+      "yandex": "https://yandex.com/maps/?pt=12.4731,41.8992&z=16&l=map"
+    },
+    "tags": [
+      "square",
+      "landmark",
+      "baroque"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-rome-bao-tang-borghese",
+    "slug": "bao-tang-borghese",
+    "region": "it-rome",
+    "country": "italy",
+    "region_name_vi": "Roma",
+    "name_vi": "Bảo tàng Borghese",
+    "name_en": "Galleria Borghese",
+    "name_local": "Galleria Borghese",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 41.9142,
+      "lon": 12.4922
+    },
+    "address_vi": "Piazzale Scipione Borghese 5, Roma, Ý",
+    "presentation_short_vi": "Bảo tàng nghệ thuật trong biệt thự Borghese, lưu giữ các kiệt tác điêu khắc của Bernini và hội hoạ của Caravaggio, Raphael, Titian.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=41.9142,12.4922",
+      "yandex": "https://yandex.com/maps/?pt=12.4922,41.9142&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "art"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-rome-dai-tuong-niem-vittoriano",
+    "slug": "dai-tuong-niem-vittoriano",
+    "region": "it-rome",
+    "country": "italy",
+    "region_name_vi": "Roma",
+    "name_vi": "Đài tưởng niệm Vittoriano",
+    "name_en": "Altare della Patria (Vittoriano)",
+    "name_local": "Vittoriano",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 41.8947,
+      "lon": 12.4833
+    },
+    "address_vi": "Piazza Venezia, Roma, Ý",
+    "presentation_short_vi": "Đài tưởng niệm hoành tráng bằng đá cẩm thạch trắng vinh danh vua Vittorio Emanuele II, có đài quan sát nhìn toàn cảnh Roma.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=41.8947,12.4833",
+      "yandex": "https://yandex.com/maps/?pt=12.4833,41.8947&z=16&l=map"
+    },
+    "tags": [
+      "monument",
+      "viewpoint",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-rome-cong-vien-villa-borghese",
+    "slug": "cong-vien-villa-borghese",
+    "region": "it-rome",
+    "country": "italy",
+    "region_name_vi": "Roma",
+    "name_vi": "Công viên Villa Borghese",
+    "name_en": "Villa Borghese Gardens",
+    "name_local": "Villa Borghese",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 41.9139,
+      "lon": 12.4863
+    },
+    "address_vi": "Piazzale Napoleone I, Roma, Ý",
+    "presentation_short_vi": "Công viên xanh lớn thứ ba của Roma với hồ nước, vườn cảnh và nhiều bảo tàng, là lá phổi xanh giữa lòng thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=41.9139,12.4863",
+      "yandex": "https://yandex.com/maps/?pt=12.4863,41.9139&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "nature",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

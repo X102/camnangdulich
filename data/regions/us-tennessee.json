@@ -1,0 +1,435 @@
+[
+  {
+    "id": "us-tennessee-graceland",
+    "slug": "graceland",
+    "region": "us-tennessee",
+    "country": "usa",
+    "region_name_vi": "Tennessee",
+    "name_vi": "Dinh thự Graceland (nhà Elvis Presley)",
+    "name_en": "Graceland",
+    "name_local": "",
+    "categories": [
+      "palace",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 35.0477,
+      "lon": -90.0237
+    },
+    "address_vi": "3764 Elvis Presley Blvd, Memphis, bang Tennessee",
+    "presentation_short_vi": "Dinh thự và nơi an nghỉ của 'Ông hoàng nhạc Rock and Roll' Elvis Presley, nay là nhà bảo tàng thu hút hàng triệu người hâm mộ mỗi năm - điểm hành hương âm nhạc nổi tiếng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.0477,-90.0237",
+      "yandex": "https://yandex.com/maps/?pt=-90.0237,35.0477&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "museum",
+      "elvis",
+      "music",
+      "memphis"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-tennessee-great-smoky-mountains-national-park",
+    "slug": "great-smoky-mountains-national-park",
+    "region": "us-tennessee",
+    "country": "usa",
+    "region_name_vi": "Tennessee",
+    "name_vi": "Vườn quốc gia Great Smoky Mountains",
+    "name_en": "Great Smoky Mountains National Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.6111,
+      "lon": -83.425
+    },
+    "address_vi": "Ranh giới Tennessee - North Carolina, gần Gatlinburg, bang Tennessee",
+    "presentation_short_vi": "Vườn quốc gia được ghé thăm nhiều nhất nước Mỹ, nổi tiếng với làn sương xanh phủ dãy Appalachia, rừng nguyên sinh, thác nước và đa dạng sinh học phong phú; Di sản Thế giới UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.6111,-83.425",
+      "yandex": "https://yandex.com/maps/?pt=-83.425,35.6111&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "nature",
+      "mountains",
+      "unesco",
+      "hiking"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-tennessee-grand-ole-opry-house",
+    "slug": "grand-ole-opry-house",
+    "region": "us-tennessee",
+    "country": "usa",
+    "region_name_vi": "Tennessee",
+    "name_vi": "Nhà hát Grand Ole Opry",
+    "name_en": "Grand Ole Opry House",
+    "name_local": "",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 36.2069,
+      "lon": -86.6924
+    },
+    "address_vi": "2804 Opryland Dr, Nashville, bang Tennessee",
+    "presentation_short_vi": "Sân khấu của chương trình nhạc đồng quê phát sóng trực tiếp lâu đời nhất thế giới, biểu tượng của 'thủ đô nhạc country' Nashville với hơn 4.000 chỗ ngồi.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.2069,-86.6924",
+      "yandex": "https://yandex.com/maps/?pt=-86.6924,36.2069&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "theatre",
+      "country-music",
+      "nashville",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-tennessee-ryman-auditorium",
+    "slug": "ryman-auditorium",
+    "region": "us-tennessee",
+    "country": "usa",
+    "region_name_vi": "Tennessee",
+    "name_vi": "Nhà hát Ryman",
+    "name_en": "Ryman Auditorium",
+    "name_local": "",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 36.1613,
+      "lon": -86.7784
+    },
+    "address_vi": "116 Rep. John Lewis Way N, Nashville, bang Tennessee",
+    "presentation_short_vi": "Khán phòng lịch sử mệnh danh 'Nhà thờ của nhạc country', mái nhà đầu tiên của Grand Ole Opry, nổi tiếng với âm thanh tuyệt hảo và những buổi diễn huyền thoại.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.1613,-86.7784",
+      "yandex": "https://yandex.com/maps/?pt=-86.7784,36.1613&z=16&l=map"
+    },
+    "tags": [
+      "historic",
+      "theatre",
+      "country-music",
+      "nashville",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-tennessee-country-music-hall-of-fame",
+    "slug": "country-music-hall-of-fame",
+    "region": "us-tennessee",
+    "country": "usa",
+    "region_name_vi": "Tennessee",
+    "name_vi": "Đại sảnh Danh vọng Nhạc đồng quê",
+    "name_en": "Country Music Hall of Fame and Museum",
+    "name_local": "",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 36.158,
+      "lon": -86.7761
+    },
+    "address_vi": "222 Rep. John Lewis Way S, Nashville, bang Tennessee",
+    "presentation_short_vi": "Bảo tàng đồ sộ lưu giữ lịch sử nhạc đồng quê Mỹ với nhạc cụ, trang phục và hiện vật của các huyền thoại; kiến trúc hiện đại mô phỏng phím đàn piano và nốt nhạc.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.158,-86.7761",
+      "yandex": "https://yandex.com/maps/?pt=-86.7761,36.158&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "country-music",
+      "nashville",
+      "modern",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-tennessee-parthenon-nashville",
+    "slug": "parthenon-nashville",
+    "region": "us-tennessee",
+    "country": "usa",
+    "region_name_vi": "Tennessee",
+    "name_vi": "Đền Parthenon Nashville",
+    "name_en": "The Parthenon (Nashville)",
+    "name_local": "",
+    "categories": [
+      "monument",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 36.1495,
+      "lon": -86.8138
+    },
+    "address_vi": "2500 West End Ave, Centennial Park, Nashville, bang Tennessee",
+    "presentation_short_vi": "Bản sao kích thước thật của đền Parthenon Hy Lạp trong Công viên Centennial, biểu tượng cho biệt danh 'Athens của miền Nam' của Nashville; bên trong là bảo tàng nghệ thuật.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.1495,-86.8138",
+      "yandex": "https://yandex.com/maps/?pt=-86.8138,36.1495&z=16&l=map"
+    },
+    "tags": [
+      "monument",
+      "replica",
+      "museum",
+      "nashville",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-tennessee-beale-street",
+    "slug": "beale-street",
+    "region": "us-tennessee",
+    "country": "usa",
+    "region_name_vi": "Tennessee",
+    "name_vi": "Phố Beale",
+    "name_en": "Beale Street",
+    "name_local": "",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 35.1394,
+      "lon": -90.0519
+    },
+    "address_vi": "Beale St, trung tâm Memphis, bang Tennessee",
+    "presentation_short_vi": "Con phố được coi là 'cái nôi của nhạc blues', rực rỡ đèn neon với hàng loạt câu lạc bộ nhạc sống, quán bar và nhà hàng; trái tim giải trí về đêm của Memphis.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.1394,-90.0519",
+      "yandex": "https://yandex.com/maps/?pt=-90.0519,35.1394&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "street",
+      "blues",
+      "music",
+      "nightlife"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-tennessee-national-civil-rights-museum",
+    "slug": "national-civil-rights-museum",
+    "region": "us-tennessee",
+    "country": "usa",
+    "region_name_vi": "Tennessee",
+    "name_vi": "Bảo tàng Nhân quyền Quốc gia",
+    "name_en": "National Civil Rights Museum",
+    "name_local": "",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 35.1344,
+      "lon": -90.0577
+    },
+    "address_vi": "450 Mulberry St, Memphis, bang Tennessee",
+    "presentation_short_vi": "Bảo tàng xây quanh Nhà nghỉ Lorraine - nơi mục sư Martin Luther King Jr. bị ám sát năm 1968 - kể lại lịch sử phong trào dân quyền Mỹ một cách sâu sắc.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.1344,-90.0577",
+      "yandex": "https://yandex.com/maps/?pt=-90.0577,35.1344&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "history",
+      "civil-rights",
+      "memphis",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-tennessee-ruby-falls",
+    "slug": "ruby-falls",
+    "region": "us-tennessee",
+    "country": "usa",
+    "region_name_vi": "Tennessee",
+    "name_vi": "Thác ngầm Ruby (Ruby Falls)",
+    "name_en": "Ruby Falls",
+    "name_local": "",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 35.0176,
+      "lon": -85.3391
+    },
+    "address_vi": "1720 Scenic Hwy, Lookout Mountain, Chattanooga, bang Tennessee",
+    "presentation_short_vi": "Thác nước ngầm cao 44 m nằm sâu trong lòng núi Lookout, một trong những thác trong hang sâu nhất nước Mỹ mở cho du khách; điểm tham quan kỳ thú của Chattanooga.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.0176,-85.3391",
+      "yandex": "https://yandex.com/maps/?pt=-85.3391,35.0176&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "cave",
+      "waterfall",
+      "chattanooga",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-tennessee-tennessee-aquarium",
+    "slug": "tennessee-aquarium",
+    "region": "us-tennessee",
+    "country": "usa",
+    "region_name_vi": "Tennessee",
+    "name_vi": "Thủy cung Tennessee",
+    "name_en": "Tennessee Aquarium",
+    "name_local": "",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 35.0558,
+      "lon": -85.3115
+    },
+    "address_vi": "1 Broad St, Chattanooga, bang Tennessee",
+    "presentation_short_vi": "Một trong những thủy cung nước ngọt lớn hàng đầu thế giới bên bờ sông Tennessee ở Chattanooga, với rừng mưa nhiệt đới trong nhà, hồ cá tầm khổng lồ và khu bướm.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.0558,-85.3115",
+      "yandex": "https://yandex.com/maps/?pt=-85.3115,35.0558&z=16&l=map"
+    },
+    "tags": [
+      "aquarium",
+      "modern",
+      "family",
+      "chattanooga",
+      "riverfront"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-tennessee-dollywood",
+    "slug": "dollywood",
+    "region": "us-tennessee",
+    "country": "usa",
+    "region_name_vi": "Tennessee",
+    "name_vi": "Công viên giải trí Dollywood",
+    "name_en": "Dollywood",
+    "name_local": "",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 35.7954,
+      "lon": -83.5305
+    },
+    "address_vi": "2700 Dollywood Parks Blvd, Pigeon Forge, bang Tennessee",
+    "presentation_short_vi": "Công viên chủ đề do ca sĩ Dolly Parton sáng lập tại chân dãy Smoky Mountains, kết hợp tàu lượn, nhạc sống miền núi và văn hoá Appalachia; điểm vui chơi gia đình nổi tiếng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.7954,-83.5305",
+      "yandex": "https://yandex.com/maps/?pt=-83.5305,35.7954&z=16&l=map"
+    },
+    "tags": [
+      "amusement-park",
+      "modern",
+      "family",
+      "pigeon-forge",
+      "fun"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-tennessee-sun-studio",
+    "slug": "sun-studio",
+    "region": "us-tennessee",
+    "country": "usa",
+    "region_name_vi": "Tennessee",
+    "name_vi": "Phòng thu Sun Studio",
+    "name_en": "Sun Studio",
+    "name_local": "",
+    "categories": [
+      "museum",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 35.1391,
+      "lon": -90.0356
+    },
+    "address_vi": "706 Union Ave, Memphis, bang Tennessee",
+    "presentation_short_vi": "Phòng thu huyền thoại được xem là 'nơi khai sinh nhạc Rock and Roll', nơi Elvis Presley, Johnny Cash và B.B. King từng ghi âm; nay là di tích và bảo tàng có tour tham quan.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.1391,-90.0356",
+      "yandex": "https://yandex.com/maps/?pt=-90.0356,35.1391&z=16&l=map"
+    },
+    "tags": [
+      "historic",
+      "museum",
+      "music",
+      "rock-and-roll",
+      "memphis"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-tennessee-lower-broadway-nashville",
+    "slug": "lower-broadway-nashville",
+    "region": "us-tennessee",
+    "country": "usa",
+    "region_name_vi": "Tennessee",
+    "name_vi": "Phố Lower Broadway (Honky Tonk Highway)",
+    "name_en": "Lower Broadway (Honky Tonk Highway)",
+    "name_local": "",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 36.1606,
+      "lon": -86.7756
+    },
+    "address_vi": "Broadway, trung tâm Nashville, bang Tennessee",
+    "presentation_short_vi": "Dãy phố sầm uất với các quán 'honky tonk' đèn neon rực rỡ, nhạc đồng quê chơi sống suốt ngày đêm; trung tâm giải trí về đêm biểu tượng của Nashville.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.1606,-86.7756",
+      "yandex": "https://yandex.com/maps/?pt=-86.7756,36.1606&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "street",
+      "country-music",
+      "nightlife",
+      "nashville"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

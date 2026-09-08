@@ -1,0 +1,380 @@
+[
+  {
+    "id": "ca-prince-edward-island-green-gables",
+    "slug": "green-gables",
+    "region": "ca-prince-edward-island",
+    "region_name_vi": "Đảo Hoàng tử Edward",
+    "country": "canada",
+    "name_vi": "Nhà Green Gables (Chái nhà xanh)",
+    "name_en": "Green Gables Heritage Place",
+    "name_local": "",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 46.4878,
+      "lon": -63.3821
+    },
+    "address_vi": "Cavendish",
+    "presentation_short_vi": "Ngôi nhà nông trại đã truyền cảm hứng cho tiểu thuyết \"Anne of Green Gables\" của L.M. Montgomery, nay là di tích – bảo tàng trong Vườn quốc gia PEI.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-63.3821,46.4878&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=46.4878,-63.3821"
+    },
+    "tags": [
+      "heritage",
+      "literary",
+      "historic",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-prince-edward-island-province-house",
+    "slug": "province-house",
+    "region": "ca-prince-edward-island",
+    "region_name_vi": "Đảo Hoàng tử Edward",
+    "country": "canada",
+    "name_vi": "Toà nhà Province House",
+    "name_en": "Province House",
+    "name_local": "",
+    "categories": [
+      "palace",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 46.2337,
+      "lon": -63.1265
+    },
+    "address_vi": "Charlottetown",
+    "presentation_short_vi": "Nơi diễn ra Hội nghị Charlottetown 1864 – \"cái nôi khai sinh Liên bang Canada\" – và là trụ sở Nghị viện tỉnh.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-63.1265,46.2337&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=46.2337,-63.1265"
+    },
+    "tags": [
+      "historic",
+      "government",
+      "landmark",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-prince-edward-island-confederation-bridge",
+    "slug": "confederation-bridge",
+    "region": "ca-prince-edward-island",
+    "region_name_vi": "Đảo Hoàng tử Edward",
+    "country": "canada",
+    "name_vi": "Cầu Confederation",
+    "name_en": "Confederation Bridge",
+    "name_local": "",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 46.2153,
+      "lon": -63.7458
+    },
+    "address_vi": "Borden-Carleton",
+    "presentation_short_vi": "Cầu vượt biển dài gần 13 km bắc qua eo Northumberland, nối đảo PEI với đất liền New Brunswick – cầu dài nhất thế giới qua vùng nước đóng băng.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-63.7458,46.2153&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=46.2153,-63.7458"
+    },
+    "tags": [
+      "bridge",
+      "modern",
+      "engineering",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-prince-edward-island-st-dunstans-basilica",
+    "slug": "st-dunstans-basilica",
+    "region": "ca-prince-edward-island",
+    "region_name_vi": "Đảo Hoàng tử Edward",
+    "country": "canada",
+    "name_vi": "Vương cung thánh đường St. Dunstan",
+    "name_en": "St. Dunstan's Basilica",
+    "name_local": "",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 46.2338,
+      "lon": -63.1287
+    },
+    "address_vi": "Charlottetown",
+    "presentation_short_vi": "Nhà thờ Công giáo tân Gothic ba tháp nhọn, một trong những thánh đường lớn và tráng lệ nhất Canada.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-63.1287,46.2338&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=46.2338,-63.1287"
+    },
+    "tags": [
+      "church",
+      "gothic",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-prince-edward-island-pei-national-park",
+    "slug": "pei-national-park",
+    "region": "ca-prince-edward-island",
+    "region_name_vi": "Đảo Hoàng tử Edward",
+    "country": "canada",
+    "name_vi": "Vườn quốc gia Đảo Hoàng tử Edward",
+    "name_en": "Prince Edward Island National Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 46.42,
+      "lon": -63.09
+    },
+    "address_vi": "Bờ bắc PEI (Cavendish–Brackley–Greenwich)",
+    "presentation_short_vi": "Công viên quốc gia ven biển với bãi cát trắng, cồn cát và vách đá sa thạch đỏ dọc vịnh St. Lawrence.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-63.09,46.42&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=46.42,-63.09"
+    },
+    "tags": [
+      "park",
+      "beach",
+      "nature",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-prince-edward-island-cavendish-beach",
+    "slug": "cavendish-beach",
+    "region": "ca-prince-edward-island",
+    "region_name_vi": "Đảo Hoàng tử Edward",
+    "country": "canada",
+    "name_vi": "Bãi biển Cavendish",
+    "name_en": "Cavendish Beach",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 46.4956,
+      "lon": -63.3897
+    },
+    "address_vi": "Cavendish",
+    "presentation_short_vi": "Bãi biển cát trắng nổi tiếng với cồn cát và vách đá đỏ, một trong những bãi tắm được yêu thích nhất PEI.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-63.3897,46.4956&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=46.4956,-63.3897"
+    },
+    "tags": [
+      "beach",
+      "nature",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-prince-edward-island-point-prim-lighthouse",
+    "slug": "point-prim-lighthouse",
+    "region": "ca-prince-edward-island",
+    "region_name_vi": "Đảo Hoàng tử Edward",
+    "country": "canada",
+    "name_vi": "Hải đăng Point Prim",
+    "name_en": "Point Prim Lighthouse",
+    "name_local": "",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 46.0502,
+      "lon": -63.0391
+    },
+    "address_vi": "Point Prim",
+    "presentation_short_vi": "Ngọn hải đăng tròn xây gạch cổ nhất PEI (1845), do kiến trúc sư Isaac Smith thiết kế.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-63.0391,46.0502&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=46.0502,-63.0391"
+    },
+    "tags": [
+      "lighthouse",
+      "historic",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-prince-edward-island-confederation-centre-of-the-arts",
+    "slug": "confederation-centre-of-the-arts",
+    "region": "ca-prince-edward-island",
+    "region_name_vi": "Đảo Hoàng tử Edward",
+    "country": "canada",
+    "name_vi": "Trung tâm Nghệ thuật Confederation",
+    "name_en": "Confederation Centre of the Arts",
+    "name_local": "",
+    "categories": [
+      "theatre",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 46.2345,
+      "lon": -63.127
+    },
+    "address_vi": "Charlottetown",
+    "presentation_short_vi": "Tổ hợp nhà hát và bảo tàng nghệ thuật, nơi công diễn nhạc kịch \"Anne of Green Gables\" hằng năm.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-63.127,46.2345&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=46.2345,-63.127"
+    },
+    "tags": [
+      "theatre",
+      "art",
+      "culture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-prince-edward-island-basin-head",
+    "slug": "basin-head",
+    "region": "ca-prince-edward-island",
+    "region_name_vi": "Đảo Hoàng tử Edward",
+    "country": "canada",
+    "name_vi": "Công viên Basin Head (Cát biết hát)",
+    "name_en": "Basin Head Provincial Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 46.3861,
+      "lon": -62.1072
+    },
+    "address_vi": "Gần Souris",
+    "presentation_short_vi": "Bãi biển \"cát biết hát\" phát ra tiếng rít khi bước đi, nước ấm và trong xanh ở đông PEI.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-62.1072,46.3861&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=46.3861,-62.1072"
+    },
+    "tags": [
+      "beach",
+      "nature",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-prince-edward-island-west-point-lighthouse",
+    "slug": "west-point-lighthouse",
+    "region": "ca-prince-edward-island",
+    "region_name_vi": "Đảo Hoàng tử Edward",
+    "country": "canada",
+    "name_vi": "Hải đăng West Point",
+    "name_en": "West Point Lighthouse",
+    "name_local": "",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 46.6175,
+      "lon": -64.3797
+    },
+    "address_vi": "West Point, O'Leary",
+    "presentation_short_vi": "Hải đăng sọc đen–trắng cao nhất PEI, nay kiêm khách sạn và bảo tàng bên Công viên Cedar Dunes.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-64.3797,46.6175&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=46.6175,-64.3797"
+    },
+    "tags": [
+      "lighthouse",
+      "historic",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-prince-edward-island-victoria-row",
+    "slug": "victoria-row",
+    "region": "ca-prince-edward-island",
+    "region_name_vi": "Đảo Hoàng tử Edward",
+    "country": "canada",
+    "name_vi": "Phố đi bộ Victoria Row",
+    "name_en": "Victoria Row",
+    "name_local": "",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 46.234,
+      "lon": -63.1279
+    },
+    "address_vi": "Charlottetown",
+    "presentation_short_vi": "Dãy phố đi bộ lát gạch với các toà nhà thời Victoria, quán ăn và nghệ thuật đường phố ở trung tâm Charlottetown.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-63.1279,46.234&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=46.234,-63.1279"
+    },
+    "tags": [
+      "street",
+      "historic",
+      "dining"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-prince-edward-island-anne-of-green-gables-museum",
+    "slug": "anne-of-green-gables-museum",
+    "region": "ca-prince-edward-island",
+    "region_name_vi": "Đảo Hoàng tử Edward",
+    "country": "canada",
+    "name_vi": "Bảo tàng Anne of Green Gables",
+    "name_en": "Anne of Green Gables Museum",
+    "name_local": "",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 46.4881,
+      "lon": -63.5017
+    },
+    "address_vi": "Park Corner",
+    "presentation_short_vi": "Ngôi nhà \"Silver Bush\" của gia đình L.M. Montgomery, nơi bà kết hôn, trưng bày kỷ vật gắn với tiểu thuyết.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-63.5017,46.4881&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=46.4881,-63.5017"
+    },
+    "tags": [
+      "museum",
+      "literary",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

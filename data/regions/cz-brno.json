@@ -1,0 +1,455 @@
+[
+  {
+    "id": "cz-brno-lau-dai-spilberk",
+    "slug": "lau-dai-spilberk",
+    "region": "cz-brno",
+    "country": "czech",
+    "region_name_vi": "Brno",
+    "name_vi": "Lâu đài Špilberk",
+    "name_en": "Špilberk Castle",
+    "name_local": "Hrad Špilberk",
+    "categories": [
+      "fortress",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 49.1943,
+      "lon": 16.5989
+    },
+    "address_vi": "Špilberk 210/1, trung tâm Brno",
+    "presentation_short_vi": "Pháo đài trên đồi thế kỷ 13 từng là nhà tù khét tiếng của đế quốc Áo–Hung, nay là bảo tàng thành phố Brno với đài quan sát nhìn bao quát toàn cảnh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=49.1943,16.5989",
+      "yandex": "https://yandex.com/maps/?pt=16.5989,49.1943&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "fortress",
+      "museum",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-brno-nha-tho-chinh-toa-phero-phaolo",
+    "slug": "nha-tho-chinh-toa-phero-phaolo",
+    "region": "cz-brno",
+    "country": "czech",
+    "region_name_vi": "Brno",
+    "name_vi": "Nhà thờ Chính tòa Thánh Phêrô và Phaolô",
+    "name_en": "Cathedral of Sts. Peter and Paul",
+    "name_local": "Katedrála svatého Petra a Pavla",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 49.1911,
+      "lon": 16.6075
+    },
+    "address_vi": "Petrov 9, đồi Petrov, Brno",
+    "presentation_short_vi": "Thánh đường Gothic–Baroque trên đồi Petrov với hai tháp nhọn cao 84 m là biểu tượng của Brno; chuông nơi đây đổ 12 tiếng vào lúc 11 giờ trưa theo một truyền thuyết cổ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=49.1911,16.6075",
+      "yandex": "https://yandex.com/maps/?pt=16.6075,49.1911&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "church",
+      "gothic",
+      "iconic",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-brno-biet-thu-tugendhat",
+    "slug": "biet-thu-tugendhat",
+    "region": "cz-brno",
+    "country": "czech",
+    "region_name_vi": "Brno",
+    "name_vi": "Biệt thự Tugendhat",
+    "name_en": "Villa Tugendhat",
+    "name_local": "Vila Tugendhat",
+    "categories": [
+      "other",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 49.2072,
+      "lon": 16.6158
+    },
+    "address_vi": "Černopolní 45, khu Černá Pole, Brno",
+    "presentation_short_vi": "Kiệt tác kiến trúc hiện đại do Mies van der Rohe thiết kế năm 1930 theo phong cách Bauhaus với không gian mở và vách kính lớn, Di sản Thế giới UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=49.2072,16.6158",
+      "yandex": "https://yandex.com/maps/?pt=16.6158,49.2072&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "architecture",
+      "unesco",
+      "museum",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-brno-toa-thi-chinh-cu",
+    "slug": "toa-thi-chinh-cu",
+    "region": "cz-brno",
+    "country": "czech",
+    "region_name_vi": "Brno",
+    "name_vi": "Tòa Thị chính Cũ",
+    "name_en": "Old Town Hall",
+    "name_local": "Stará radnice",
+    "categories": [
+      "monument",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 49.1925,
+      "lon": 16.6083
+    },
+    "address_vi": "Radnická 8, Phố Cổ, Brno",
+    "presentation_short_vi": "Tòa thị chính lâu đời nhất Brno với cổng Gothic cong độc đáo, treo hai vật lạ nổi tiếng là 'cá sấu Brno' và chiếc bánh xe gỗ trong truyền thuyết; tháp có đài ngắm cảnh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=49.1925,16.6083",
+      "yandex": "https://yandex.com/maps/?pt=16.6083,49.1925&z=16&l=map"
+    },
+    "tags": [
+      "monument",
+      "gothic",
+      "history",
+      "viewpoint",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-brno-quang-truong-tu-do",
+    "slug": "quang-truong-tu-do",
+    "region": "cz-brno",
+    "country": "czech",
+    "region_name_vi": "Brno",
+    "name_vi": "Quảng trường Tự do",
+    "name_en": "Freedom Square",
+    "name_local": "náměstí Svobody",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 49.1951,
+      "lon": 16.6083
+    },
+    "address_vi": "náměstí Svobody, trung tâm Brno",
+    "presentation_short_vi": "Quảng trường trung tâm hình thành từ thế kỷ 13, trái tim nhộn nhịp của Brno với cột dịch hạch Baroque, các cung điện lịch sử và chợ Giáng sinh mỗi mùa đông.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=49.1951,16.6083",
+      "yandex": "https://yandex.com/maps/?pt=16.6083,49.1951&z=16&l=map"
+    },
+    "tags": [
+      "square",
+      "central",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-brno-cho-bap-cai-zelny-trh",
+    "slug": "cho-bap-cai-zelny-trh",
+    "region": "cz-brno",
+    "country": "czech",
+    "region_name_vi": "Brno",
+    "name_vi": "Chợ Bắp cải Zelný trh",
+    "name_en": "Cabbage Market",
+    "name_local": "Zelný trh",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 49.1913,
+      "lon": 16.6083
+    },
+    "address_vi": "Zelný trh, Phố Cổ, Brno",
+    "presentation_short_vi": "Khu chợ ngoài trời hoạt động liên tục hơn 800 năm, nổi bật với đài phun nước Parnas kiểu Baroque và vẫn bày bán rau quả, hoa tươi mỗi ngày.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=49.1913,16.6083",
+      "yandex": "https://yandex.com/maps/?pt=16.6083,49.1913&z=16&l=map"
+    },
+    "tags": [
+      "square",
+      "market",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-brno-nha-tho-thanh-jacob",
+    "slug": "nha-tho-thanh-jacob",
+    "region": "cz-brno",
+    "country": "czech",
+    "region_name_vi": "Brno",
+    "name_vi": "Nhà thờ Thánh Jacob",
+    "name_en": "Church of St. James",
+    "name_local": "Kostel svatého Jakuba",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 49.1954,
+      "lon": 16.6089
+    },
+    "address_vi": "Jakubské náměstí, Brno",
+    "presentation_short_vi": "Nhà thờ Gothic với tháp cao 92 m, cao nhất khu trung tâm Brno; bên dưới là hầm mộ lớn thứ hai châu Âu chứa hài cốt hơn 50.000 người.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=49.1954,16.6089",
+      "yandex": "https://yandex.com/maps/?pt=16.6089,49.1954&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "gothic",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-brno-ham-mo-brno",
+    "slug": "ham-mo-brno",
+    "region": "cz-brno",
+    "country": "czech",
+    "region_name_vi": "Brno",
+    "name_vi": "Hầm mộ Brno",
+    "name_en": "Brno Ossuary",
+    "name_local": "Kostnice u svatého Jakuba",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 49.1953,
+      "lon": 16.6086
+    },
+    "address_vi": "Jakubské náměstí 11, Brno",
+    "presentation_short_vi": "Hầm mộ dưới lòng đất phát hiện năm 2001, lưu giữ hài cốt hơn 50.000 người xếp thành hoa văn, là ossuary lớn thứ hai châu Âu chỉ sau hầm mộ Paris.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=49.1953,16.6086",
+      "yandex": "https://yandex.com/maps/?pt=16.6086,49.1953&z=16&l=map"
+    },
+    "tags": [
+      "underground",
+      "history",
+      "unique"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-brno-ham-mo-tu-vien-capuchin",
+    "slug": "ham-mo-tu-vien-capuchin",
+    "region": "cz-brno",
+    "country": "czech",
+    "region_name_vi": "Brno",
+    "name_vi": "Hầm mộ Tu viện Capuchin",
+    "name_en": "Capuchin Crypt",
+    "name_local": "Hrobka kapucínského kláštera",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 49.1902,
+      "lon": 16.6104
+    },
+    "address_vi": "Kapucínské náměstí 5, Brno",
+    "presentation_short_vi": "Hầm mộ dưới tu viện Dòng Capuchin nơi thi hài được bảo quản tự nhiên nhờ điều kiện thông khí đặc biệt, trưng bày xác ướp các tu sĩ và quý tộc từ thế kỷ 18.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=49.1902,16.6104",
+      "yandex": "https://yandex.com/maps/?pt=16.6104,49.1902&z=16&l=map"
+    },
+    "tags": [
+      "underground",
+      "history",
+      "unique"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-brno-vuon-denis",
+    "slug": "vuon-denis",
+    "region": "cz-brno",
+    "country": "czech",
+    "region_name_vi": "Brno",
+    "name_vi": "Vườn Denis",
+    "name_en": "Denis Gardens",
+    "name_local": "Denisovy sady",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 49.1897,
+      "lon": 16.607
+    },
+    "address_vi": "Denisovy sady, đồi Petrov, Brno",
+    "presentation_short_vi": "Một trong những công viên công cộng lâu đời nhất Trung Âu mở năm 1818 trên sườn đồi Petrov, với đài obelisk tưởng niệm và tầm nhìn xuống thành phố cùng đồi Špilberk.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=49.1897,16.607",
+      "yandex": "https://yandex.com/maps/?pt=16.607,49.1897&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "nature",
+      "viewpoint",
+      "relax"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-brno-bao-tang-moravia",
+    "slug": "bao-tang-moravia",
+    "region": "cz-brno",
+    "country": "czech",
+    "region_name_vi": "Brno",
+    "name_vi": "Bảo tàng Moravia",
+    "name_en": "Moravian Museum",
+    "name_local": "Moravské zemské muzeum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 49.1917,
+      "lon": 16.6079
+    },
+    "address_vi": "Zelný trh 8 (Cung điện Dietrichstein), Brno",
+    "presentation_short_vi": "Bảo tàng lâu đời thứ hai của Séc đặt trong cung điện Dietrichstein kiểu Baroque, trưng bày khảo cổ, sinh vật học và cả tượng Venus vùng Věstonice hơn 25.000 năm tuổi.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=49.1917,16.6079",
+      "yandex": "https://yandex.com/maps/?pt=16.6079,49.1917&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "history",
+      "science",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-brno-bao-tang-mendel",
+    "slug": "bao-tang-mendel",
+    "region": "cz-brno",
+    "country": "czech",
+    "region_name_vi": "Brno",
+    "name_vi": "Bảo tàng Mendel",
+    "name_en": "Mendel Museum",
+    "name_local": "Mendelovo muzeum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 49.1919,
+      "lon": 16.5947
+    },
+    "address_vi": "Mendlovo náměstí 1a, tu viện Thánh Augustinô, khu Staré Brno",
+    "presentation_short_vi": "Bảo tàng trong tu viện nơi tu sĩ Gregor Mendel tiến hành thí nghiệm lai đậu Hà Lan, đặt nền móng cho di truyền học hiện đại; khu vườn thí nghiệm được phục dựng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=49.1919,16.5947",
+      "yandex": "https://yandex.com/maps/?pt=16.5947,49.1919&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "science",
+      "history",
+      "garden"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-brno-ho-brno",
+    "slug": "ho-brno",
+    "region": "cz-brno",
+    "country": "czech",
+    "region_name_vi": "Brno",
+    "name_vi": "Hồ Brno",
+    "name_en": "Brno Reservoir",
+    "name_local": "Brněnská přehrada",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 49.234,
+      "lon": 16.513
+    },
+    "address_vi": "Brněnská přehrada, khu Bystrc, tây bắc Brno",
+    "presentation_short_vi": "Hồ chứa nước hình thành năm 1940 trên sông Svratka, khu nghỉ dưỡng ưa thích của dân Brno với bãi tắm, du thuyền và lâu đài Veveří cổ kính bên bờ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=49.234,16.513",
+      "yandex": "https://yandex.com/maps/?pt=16.513,49.234&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "lake",
+      "recreation",
+      "boat"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-brno-thap-az-tower",
+    "slug": "thap-az-tower",
+    "region": "cz-brno",
+    "country": "czech",
+    "region_name_vi": "Brno",
+    "name_vi": "Tháp AZ Tower",
+    "name_en": "AZ Tower",
+    "name_local": "AZ Tower",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 49.1808,
+      "lon": 16.5876
+    },
+    "address_vi": "Pražákova 1008/69, khu Štýřice, Brno",
+    "presentation_short_vi": "Tòa nhà chọc trời cao 111 m hoàn thành năm 2013, công trình cao nhất Cộng hòa Séc, biểu tượng kiến trúc hiện đại ở phía nam Brno.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=49.1808,16.5876",
+      "yandex": "https://yandex.com/maps/?pt=16.5876,49.1808&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "skyscraper",
+      "architecture",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

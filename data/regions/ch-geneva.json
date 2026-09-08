@@ -1,0 +1,440 @@
+[
+  {
+    "id": "ch-geneva-dai-phun-nuoc-jet-d-eau",
+    "slug": "dai-phun-nuoc-jet-d-eau",
+    "region": "ch-geneva",
+    "country": "switzerland",
+    "region_name_vi": "Geneva",
+    "name_vi": "Đài phun nước Jet d'Eau",
+    "name_en": "Jet d'Eau",
+    "name_local": "Jet d'Eau",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 46.2074,
+      "lon": 6.1557
+    },
+    "address_vi": "Quai Gustave-Ador, bờ hồ Geneva (Lac Léman), Genève",
+    "presentation_short_vi": "Cột nước phun cao khoảng 140 m từ hồ Geneva với tốc độ lớn, là biểu tượng nổi tiếng nhất của thành phố, nhìn thấy từ khắp nơi quanh hồ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.2074,6.1557",
+      "yandex": "https://yandex.com/maps/?pt=6.1557,46.2074&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "landmark",
+      "lake",
+      "iconic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "ch-geneva-nha-tho-chinh-toa-thanh-peter",
+    "slug": "nha-tho-chinh-toa-thanh-peter",
+    "region": "ch-geneva",
+    "country": "switzerland",
+    "region_name_vi": "Geneva",
+    "name_vi": "Nhà thờ chính toà Thánh Peter",
+    "name_en": "St. Pierre Cathedral",
+    "name_local": "Cathédrale Saint-Pierre",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 46.2011,
+      "lon": 6.1483
+    },
+    "address_vi": "Cour Saint-Pierre, Vieille Ville (Phố cổ), Genève",
+    "presentation_short_vi": "Nhà thờ chính toà nơi nhà cải cách Jean Calvin từng giảng đạo thế kỷ 16; leo tháp ngắm toàn cảnh phố cổ và hồ, bên dưới có khu khảo cổ thời La Mã.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.2011,6.1483",
+      "yandex": "https://yandex.com/maps/?pt=6.1483,46.2011&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "old-town",
+      "viewpoint",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "ch-geneva-cung-dien-lien-hop-quoc",
+    "slug": "cung-dien-lien-hop-quoc",
+    "region": "ch-geneva",
+    "country": "switzerland",
+    "region_name_vi": "Geneva",
+    "name_vi": "Cung điện Liên Hợp Quốc",
+    "name_en": "Palace of Nations",
+    "name_local": "Palais des Nations",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 46.2266,
+      "lon": 6.1401
+    },
+    "address_vi": "Avenue de la Paix 14, khu quốc tế, Genève",
+    "presentation_short_vi": "Trụ sở châu Âu của Liên Hợp Quốc, từng là trụ sở Hội Quốc Liên; quần thể toà nhà lớn có thể tham quan có hướng dẫn, đối diện là quảng trường có tượng Broken Chair.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.2266,6.1401",
+      "yandex": "https://yandex.com/maps/?pt=6.1401,46.2266&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "un",
+      "international"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "ch-geneva-dong-ho-hoa-va-vuon-anh",
+    "slug": "dong-ho-hoa-va-vuon-anh",
+    "region": "ch-geneva",
+    "country": "switzerland",
+    "region_name_vi": "Geneva",
+    "name_vi": "Đồng hồ Hoa và Vườn Anh",
+    "name_en": "Flower Clock and English Garden",
+    "name_local": "Horloge fleurie, Jardin Anglais",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 46.205,
+      "lon": 6.1519
+    },
+    "address_vi": "Quai du Général-Guisan, Jardin Anglais, Genève",
+    "presentation_short_vi": "Đồng hồ làm bằng hàng nghìn cây hoa thay theo mùa trong Vườn Anh bên bờ hồ, biểu tượng cho ngành đồng hồ Thụy Sĩ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.205,6.1519",
+      "yandex": "https://yandex.com/maps/?pt=6.1519,46.205&z=16&l=map"
+    },
+    "tags": [
+      "garden",
+      "lake",
+      "iconic",
+      "photo"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "ch-geneva-ghe-gay-broken-chair",
+    "slug": "ghe-gay-broken-chair",
+    "region": "ch-geneva",
+    "country": "switzerland",
+    "region_name_vi": "Geneva",
+    "name_vi": "Ghế gãy Broken Chair",
+    "name_en": "Broken Chair",
+    "name_local": "Broken Chair",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 46.2261,
+      "lon": 6.1401
+    },
+    "address_vi": "Place des Nations, khu quốc tế, Genève",
+    "presentation_short_vi": "Tác phẩm điêu khắc gỗ khổng lồ cao 12 m hình chiếc ghế ba chân gãy trước Cung điện Liên Hợp Quốc, biểu tượng phản đối bom mìn và bom chùm.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.2261,6.1401",
+      "yandex": "https://yandex.com/maps/?pt=6.1401,46.2261&z=16&l=map"
+    },
+    "tags": [
+      "monument",
+      "art",
+      "international"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "ch-geneva-pho-co-va-quang-truong-bourg-de-four",
+    "slug": "pho-co-va-quang-truong-bourg-de-four",
+    "region": "ch-geneva",
+    "country": "switzerland",
+    "region_name_vi": "Geneva",
+    "name_vi": "Phố cổ và Quảng trường Bourg-de-Four",
+    "name_en": "Old Town and Place du Bourg-de-Four",
+    "name_local": "Vieille Ville, Place du Bourg-de-Four",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 46.2011,
+      "lon": 6.1469
+    },
+    "address_vi": "Place du Bourg-de-Four, Vieille Ville, Genève",
+    "presentation_short_vi": "Quảng trường lâu đời nhất Geneva ở trung tâm phố cổ, với đài phun nước, quán cà phê ngoài trời và những con phố lát đá quanh nhà thờ chính toà.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.2011,6.1469",
+      "yandex": "https://yandex.com/maps/?pt=6.1469,46.2011&z=16&l=map"
+    },
+    "tags": [
+      "old-town",
+      "square",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "ch-geneva-buc-tuong-cai-cach",
+    "slug": "buc-tuong-cai-cach",
+    "region": "ch-geneva",
+    "country": "switzerland",
+    "region_name_vi": "Geneva",
+    "name_vi": "Bức tường Cải cách",
+    "name_en": "Reformation Wall",
+    "name_local": "Mur des Réformateurs",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 46.1994,
+      "lon": 6.1456
+    },
+    "address_vi": "Parc des Bastions, Promenade des Bastions, Genève",
+    "presentation_short_vi": "Đài tưởng niệm dài khoảng 100 m tạc tượng các nhà lãnh đạo phong trào Cải cách Tin Lành (Calvin, Farel, Bèze, Knox), dựng năm 1909 trong công viên Bastions.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.1994,6.1456",
+      "yandex": "https://yandex.com/maps/?pt=6.1456,46.1994&z=16&l=map"
+    },
+    "tags": [
+      "monument",
+      "history",
+      "reformation"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "ch-geneva-cong-vien-bastions",
+    "slug": "cong-vien-bastions",
+    "region": "ch-geneva",
+    "country": "switzerland",
+    "region_name_vi": "Geneva",
+    "name_vi": "Công viên Bastions",
+    "name_en": "Parc des Bastions",
+    "name_local": "Parc des Bastions",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 46.1985,
+      "lon": 6.1451
+    },
+    "address_vi": "Promenade des Bastions 1, gần phố cổ, Genève",
+    "presentation_short_vi": "Công viên xanh cạnh Đại học Geneva với những bàn cờ vua khổng lồ trên nền đất, hàng cây dẻ cổ thụ và Bức tường Cải cách.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.1985,6.1451",
+      "yandex": "https://yandex.com/maps/?pt=6.1451,46.1985&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "nature",
+      "university"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "ch-geneva-bao-tang-nghe-thuat-va-lich-su",
+    "slug": "bao-tang-nghe-thuat-va-lich-su",
+    "region": "ch-geneva",
+    "country": "switzerland",
+    "region_name_vi": "Geneva",
+    "name_vi": "Bảo tàng Nghệ thuật và Lịch sử",
+    "name_en": "Museum of Art and History",
+    "name_local": "Musée d'art et d'histoire",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 46.1997,
+      "lon": 6.1512
+    },
+    "address_vi": "Rue Charles-Galland 2, khu Tranchées, Genève",
+    "presentation_short_vi": "Bảo tàng lớn nhất Geneva với bộ sưu tập khảo cổ, mỹ thuật và nghệ thuật ứng dụng trải dài từ thời tiền sử đến thế kỷ 20.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.1997,6.1512",
+      "yandex": "https://yandex.com/maps/?pt=6.1512,46.1997&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "art",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "ch-geneva-bao-tang-chu-thap-do-quoc-te",
+    "slug": "bao-tang-chu-thap-do-quoc-te",
+    "region": "ch-geneva",
+    "country": "switzerland",
+    "region_name_vi": "Geneva",
+    "name_vi": "Bảo tàng Chữ thập đỏ Quốc tế",
+    "name_en": "International Red Cross and Red Crescent Museum",
+    "name_local": "Musée international de la Croix-Rouge",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 46.2262,
+      "lon": 6.1373
+    },
+    "address_vi": "Avenue de la Paix 17, khu quốc tế, Genève",
+    "presentation_short_vi": "Bảo tàng hiện đại kể câu chuyện nhân đạo qua ba không gian đa phương tiện về bảo vệ nhân phẩm, nằm đối diện Cung điện Liên Hợp Quốc.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.2262,6.1373",
+      "yandex": "https://yandex.com/maps/?pt=6.1373,46.2262&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "modern",
+      "humanitarian"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "ch-geneva-vuon-bach-thao-geneva",
+    "slug": "vuon-bach-thao-geneva",
+    "region": "ch-geneva",
+    "country": "switzerland",
+    "region_name_vi": "Geneva",
+    "name_vi": "Vườn Bách thảo Geneva",
+    "name_en": "Botanical Garden of Geneva",
+    "name_local": "Conservatoire et Jardin botaniques",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 46.2283,
+      "lon": 6.1469
+    },
+    "address_vi": "Chemin de l'Impératrice 1, Chambésy, Genève",
+    "presentation_short_vi": "Vườn bách thảo miễn phí ven hồ với hơn mười hai nghìn loài thực vật, nhà kính, vườn đá và một khu nuôi thú nhỏ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.2283,6.1469",
+      "yandex": "https://yandex.com/maps/?pt=6.1469,46.2283&z=16&l=map"
+    },
+    "tags": [
+      "garden",
+      "nature",
+      "free",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "ch-geneva-toa-nha-forces-motrices",
+    "slug": "toa-nha-forces-motrices",
+    "region": "ch-geneva",
+    "country": "switzerland",
+    "region_name_vi": "Geneva",
+    "name_vi": "Toà nhà Forces Motrices",
+    "name_en": "Bâtiment des Forces Motrices",
+    "name_local": "Bâtiment des Forces Motrices",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 46.2033,
+      "lon": 6.1367
+    },
+    "address_vi": "Place des Volontaires 2, trên sông Rhône, Genève",
+    "presentation_short_vi": "Nhà máy thuỷ điện cuối thế kỷ 19 xây giữa sông Rhône, nay được cải tạo thành nhà hát opera và không gian biểu diễn nghệ thuật.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.2033,6.1367",
+      "yandex": "https://yandex.com/maps/?pt=6.1367,46.2033&z=16&l=map"
+    },
+    "tags": [
+      "theatre",
+      "architecture",
+      "rhone"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "ch-geneva-qua-cau-khoa-hoc-va-sang-tao-cern",
+    "slug": "qua-cau-khoa-hoc-va-sang-tao-cern",
+    "region": "ch-geneva",
+    "country": "switzerland",
+    "region_name_vi": "Geneva",
+    "name_vi": "Quả cầu Khoa học và Sáng tạo CERN",
+    "name_en": "Globe of Science and Innovation (CERN)",
+    "name_local": "Globe de la science et de l'innovation",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 46.2334,
+      "lon": 6.0557
+    },
+    "address_vi": "Esplanade des Particules 1, Meyrin, bang Genève",
+    "presentation_short_vi": "Công trình gỗ hình cầu cao 27 m tại CERN, tổ chức nghiên cứu hạt nhân châu Âu vận hành máy gia tốc hạt lớn nhất thế giới; có trưng bày khoa học tương tác.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.2334,6.0557",
+      "yandex": "https://yandex.com/maps/?pt=6.0557,46.2334&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "science",
+      "cern"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "ch-geneva-cau-mont-blanc",
+    "slug": "cau-mont-blanc",
+    "region": "ch-geneva",
+    "country": "switzerland",
+    "region_name_vi": "Geneva",
+    "name_vi": "Cầu Mont-Blanc",
+    "name_en": "Mont Blanc Bridge",
+    "name_local": "Pont du Mont-Blanc",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 46.2065,
+      "lon": 6.1497
+    },
+    "address_vi": "Pont du Mont-Blanc, nơi sông Rhône chảy ra khỏi hồ, Genève",
+    "presentation_short_vi": "Cây cầu chính bắc qua cửa hồ Geneva, treo cờ các bang Thụy Sĩ, là điểm ngắm Jet d'Eau và dãy Alps trong những ngày trời quang.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.2065,6.1497",
+      "yandex": "https://yandex.com/maps/?pt=6.1497,46.2065&z=16&l=map"
+    },
+    "tags": [
+      "bridge",
+      "lake",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  }
+]

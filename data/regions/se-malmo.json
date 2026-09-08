@@ -1,0 +1,379 @@
+[
+  {
+    "id": "se-malmo-turning-torso",
+    "slug": "turning-torso",
+    "region": "se-malmo",
+    "country": "sweden",
+    "region_name_vi": "Malmö",
+    "name_vi": "Tháp Turning Torso",
+    "name_en": "Turning Torso",
+    "name_local": "Turning Torso",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 55.6132,
+      "lon": 12.9761
+    },
+    "address_vi": "Lilla Varvsgatan 14, khu Västra Hamnen, Malmö",
+    "presentation_short_vi": "Toà nhà xoắn cao 190 m do Santiago Calatrava thiết kế (2005), biểu tượng hiện đại và là nhà chọc trời cao nhất Bắc Âu khi khánh thành.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.6132,12.9761",
+      "yandex": "https://yandex.com/maps/?pt=12.9761,55.6132&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "modern",
+      "landmark",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-malmo-malmohus-castle",
+    "slug": "malmohus-castle",
+    "region": "se-malmo",
+    "country": "sweden",
+    "region_name_vi": "Malmö",
+    "name_vi": "Lâu đài Malmöhus",
+    "name_en": "Malmöhus Castle",
+    "name_local": "Malmöhus slott",
+    "categories": [
+      "fortress",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 55.6053,
+      "lon": 12.9631
+    },
+    "address_vi": "Malmöhusvägen 6, Malmö",
+    "presentation_short_vi": "Pháo đài hoàng gia thế kỷ 16 — lâu đài phục hưng cổ nhất còn tồn tại ở Bắc Âu, nay là bảo tàng Malmö (Malmö Museer).",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.6053,12.9631",
+      "yandex": "https://yandex.com/maps/?pt=12.9631,55.6053&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "history",
+      "castle",
+      "museum"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-malmo-stortorget",
+    "slug": "stortorget",
+    "region": "se-malmo",
+    "country": "sweden",
+    "region_name_vi": "Malmö",
+    "name_vi": "Quảng trường Stortorget",
+    "name_en": "Stortorget (Big Square)",
+    "name_local": "Stortorget",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 55.6062,
+      "lon": 13.0002
+    },
+    "address_vi": "Trung tâm phố cổ Gamla staden, Malmö",
+    "presentation_short_vi": "Quảng trường trung tâm mở từ năm 1540, bao quanh là Toà thị chính phong cách phục hưng Hà Lan và tượng vua Karl X Gustav.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.6062,13.0002",
+      "yandex": "https://yandex.com/maps/?pt=13.0002,55.6062&z=16&l=map"
+    },
+    "tags": [
+      "square",
+      "history",
+      "center"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-malmo-lilla-torg",
+    "slug": "lilla-torg",
+    "region": "se-malmo",
+    "country": "sweden",
+    "region_name_vi": "Malmö",
+    "name_vi": "Quảng trường Lilla Torg",
+    "name_en": "Lilla Torg (Little Square)",
+    "name_local": "Lilla torg",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 55.6049,
+      "lon": 12.9981
+    },
+    "address_vi": "Gamla staden, Malmö",
+    "presentation_short_vi": "Quảng trường lát đá cuội từ thế kỷ 16 với những ngôi nhà khung gỗ nhiều màu, nay là khu quán cà phê và nhà hàng sầm uất nhất Malmö.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.6049,12.9981",
+      "yandex": "https://yandex.com/maps/?pt=12.9981,55.6049&z=16&l=map"
+    },
+    "tags": [
+      "square",
+      "old-town",
+      "cafe"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-malmo-sankt-petri-kyrka",
+    "slug": "sankt-petri-kyrka",
+    "region": "se-malmo",
+    "country": "sweden",
+    "region_name_vi": "Malmö",
+    "name_vi": "Nhà thờ Thánh Petri",
+    "name_en": "St. Peter's Church",
+    "name_local": "Sankt Petri kyrka",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 55.6072,
+      "lon": 13.0033
+    },
+    "address_vi": "Göran Olsgatan 4, Malmö",
+    "presentation_short_vi": "Nhà thờ gạch đỏ phong cách Gothic vùng Baltic từ đầu thế kỷ 14, nhà thờ lâu đời nhất Malmö với tháp cao khoảng 105 m.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.6072,13.0033",
+      "yandex": "https://yandex.com/maps/?pt=13.0033,55.6072&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "gothic",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-malmo-oresund-bridge",
+    "slug": "oresund-bridge",
+    "region": "se-malmo",
+    "country": "sweden",
+    "region_name_vi": "Malmö",
+    "name_vi": "Cầu Öresund",
+    "name_en": "Øresund Bridge",
+    "name_local": "Öresundsbron",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 55.5719,
+      "lon": 12.8797
+    },
+    "address_vi": "Eo biển Öresund, nối Malmö với Copenhagen (Đan Mạch)",
+    "presentation_short_vi": "Cầu dây văng kết hợp đường hầm với tổng tuyến 16 km nối Malmö và Copenhagen từ năm 2000, biểu tượng kỹ thuật của Bắc Âu.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.5719,12.8797",
+      "yandex": "https://yandex.com/maps/?pt=12.8797,55.5719&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "bridge",
+      "modern",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-malmo-vastra-hamnen",
+    "slug": "vastra-hamnen",
+    "region": "se-malmo",
+    "country": "sweden",
+    "region_name_vi": "Malmö",
+    "name_vi": "Khu bến cảng phía Tây",
+    "name_en": "Western Harbour",
+    "name_local": "Västra Hamnen",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 55.614,
+      "lon": 12.976
+    },
+    "address_vi": "Västra Hamnen, Malmö",
+    "presentation_short_vi": "Khu đô thị sinh thái hiện đại ven biển với kiến trúc đương đại, lối đi dạo bên vịnh và bãi tắm, nơi ngắm hoàng hôn nổi tiếng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.614,12.976",
+      "yandex": "https://yandex.com/maps/?pt=12.976,55.614&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "waterfront",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-malmo-ribersborg-beach",
+    "slug": "ribersborg-beach",
+    "region": "se-malmo",
+    "country": "sweden",
+    "region_name_vi": "Malmö",
+    "name_vi": "Bãi biển Ribersborg",
+    "name_en": "Ribersborg Beach",
+    "name_local": "Ribersborgsstranden",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 55.5931,
+      "lon": 12.9614
+    },
+    "address_vi": "Ribersborg, Malmö",
+    "presentation_short_vi": "Bãi biển nhân tạo dài khoảng 2,5 km ven eo Öresund, quen gọi là 'Riviera của Malmö', có nhà tắm nước lạnh ngoài trời Ribersborgs Kallbadhus.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.5931,12.9614",
+      "yandex": "https://yandex.com/maps/?pt=12.9614,55.5931&z=16&l=map"
+    },
+    "tags": [
+      "beach",
+      "nature",
+      "relax"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-malmo-malmo-opera",
+    "slug": "malmo-opera",
+    "region": "se-malmo",
+    "country": "sweden",
+    "region_name_vi": "Malmö",
+    "name_vi": "Nhà hát Opera Malmö",
+    "name_en": "Malmö Opera",
+    "name_local": "Malmö Opera",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 55.5978,
+      "lon": 12.9887
+    },
+    "address_vi": "Östra Rönneholmsvägen 20, Malmö",
+    "presentation_short_vi": "Nhà hát opera phong cách công năng khánh thành năm 1944, một trong những sân khấu lớn nhất Bắc Âu với khán phòng gần 1.500 chỗ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.5978,12.9887",
+      "yandex": "https://yandex.com/maps/?pt=12.9887,55.5978&z=16&l=map"
+    },
+    "tags": [
+      "theatre",
+      "opera",
+      "culture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-malmo-mollevangstorget",
+    "slug": "mollevangstorget",
+    "region": "se-malmo",
+    "country": "sweden",
+    "region_name_vi": "Malmö",
+    "name_vi": "Quảng trường Möllevången",
+    "name_en": "Möllevångstorget",
+    "name_local": "Möllevångstorget",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 55.5906,
+      "lon": 13.0113
+    },
+    "address_vi": "Möllevången, Malmö",
+    "presentation_short_vi": "Quảng trường chợ đa văn hoá sôi động, nổi tiếng với sạp rau quả, hàng ăn quốc tế và không khí về đêm nhộn nhịp.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.5906,13.0113",
+      "yandex": "https://yandex.com/maps/?pt=13.0113,55.5906&z=16&l=map"
+    },
+    "tags": [
+      "square",
+      "market",
+      "multicultural"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-malmo-folkets-park",
+    "slug": "folkets-park",
+    "region": "se-malmo",
+    "country": "sweden",
+    "region_name_vi": "Malmö",
+    "name_vi": "Công viên Folkets Park",
+    "name_en": "Folkets Park (People's Park)",
+    "name_local": "Folkets park",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 55.5926,
+      "lon": 13.0128
+    },
+    "address_vi": "Amiralsgatan 35, Malmö",
+    "presentation_short_vi": "Công viên giải trí công cộng lâu đời nhất Thụy Điển (từ 1891) với sân khấu, hồ nước, vườn thú nhỏ và lễ hội quanh năm.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.5926,13.0128",
+      "yandex": "https://yandex.com/maps/?pt=13.0128,55.5926&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "family",
+      "entertainment"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-malmo-malmo-live",
+    "slug": "malmo-live",
+    "region": "se-malmo",
+    "country": "sweden",
+    "region_name_vi": "Malmö",
+    "name_vi": "Trung tâm Malmö Live",
+    "name_en": "Malmö Live Concert Hall",
+    "name_local": "Malmö Live",
+    "categories": [
+      "theatre",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 55.6095,
+      "lon": 12.9836
+    },
+    "address_vi": "Dag Hammarskjölds torg 4, Malmö",
+    "presentation_short_vi": "Tổ hợp phòng hoà nhạc, trung tâm hội nghị và khách sạn hiện đại khánh thành 2015, nơi biểu diễn của Dàn nhạc Giao hưởng Malmö.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.6095,12.9836",
+      "yandex": "https://yandex.com/maps/?pt=12.9836,55.6095&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "concert",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

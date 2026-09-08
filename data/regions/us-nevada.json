@@ -1,0 +1,401 @@
+[
+  {
+    "id": "us-nevada-las-vegas-strip",
+    "slug": "las-vegas-strip",
+    "region": "us-nevada",
+    "country": "usa",
+    "region_name_vi": "Nevada",
+    "name_vi": "Đại lộ Las Vegas (The Strip)",
+    "name_en": "Las Vegas Strip",
+    "name_local": "",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 36.1147,
+      "lon": -115.1728
+    },
+    "address_vi": "Đại lộ Las Vegas Boulevard South, khu Paradise / Las Vegas, bang Nevada",
+    "presentation_short_vi": "Đoạn đại lộ dài khoảng 6,8 km tập trung các sòng bạc và khu nghỉ dưỡng khổng lồ nổi tiếng thế giới, rực rỡ ánh đèn và biểu diễn suốt đêm.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.1147,-115.1728",
+      "yandex": "https://yandex.com/maps/?pt=-115.1728,36.1147&z=16&l=map"
+    },
+    "tags": [
+      "nightlife",
+      "casino",
+      "entertainment",
+      "modern",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-nevada-hoover-dam",
+    "slug": "hoover-dam",
+    "region": "us-nevada",
+    "country": "usa",
+    "region_name_vi": "Nevada",
+    "name_vi": "Đập Hoover",
+    "name_en": "Hoover Dam",
+    "name_local": "",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 36.0161,
+      "lon": -114.7377
+    },
+    "address_vi": "Hẻm núi Black Canyon, sông Colorado, biên giới Nevada – Arizona",
+    "presentation_short_vi": "Đập vòm bê tông khổng lồ hoàn thành năm 1935 trên sông Colorado, kỳ tích kỹ thuật thời Đại Suy thoái, tạo nên hồ Mead phía sau.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.0161,-114.7377",
+      "yandex": "https://yandex.com/maps/?pt=-114.7377,36.0161&z=16&l=map"
+    },
+    "tags": [
+      "engineering",
+      "historic",
+      "landmark",
+      "modern",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-nevada-bellagio-fountains",
+    "slug": "bellagio-fountains",
+    "region": "us-nevada",
+    "country": "usa",
+    "region_name_vi": "Nevada",
+    "name_vi": "Đài phun nước Bellagio",
+    "name_en": "Fountains of Bellagio",
+    "name_local": "",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 36.1126,
+      "lon": -115.1767
+    },
+    "address_vi": "Khách sạn Bellagio, Đại lộ Las Vegas, bang Nevada",
+    "presentation_short_vi": "Màn trình diễn nước, nhạc và ánh sáng ngoạn mục trên hồ nhân tạo trước khách sạn Bellagio, một trong những cảnh tượng miễn phí nổi tiếng nhất Las Vegas.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.1126,-115.1767",
+      "yandex": "https://yandex.com/maps/?pt=-115.1767,36.1126&z=16&l=map"
+    },
+    "tags": [
+      "show",
+      "fountain",
+      "entertainment",
+      "modern",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-nevada-fremont-street",
+    "slug": "fremont-street",
+    "region": "us-nevada",
+    "country": "usa",
+    "region_name_vi": "Nevada",
+    "name_vi": "Phố Fremont (Fremont Street Experience)",
+    "name_en": "Fremont Street Experience",
+    "name_local": "",
+    "categories": [
+      "square_street",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 36.1699,
+      "lon": -115.1421
+    },
+    "address_vi": "Khu trung tâm cũ (Downtown), thành phố Las Vegas, bang Nevada",
+    "presentation_short_vi": "Phố đi bộ có mái vòm màn hình LED khổng lồ ở khu Las Vegas cổ, nổi tiếng với trình diễn ánh sáng, nhạc sống và trò đu dây zipline.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.1699,-115.1421",
+      "yandex": "https://yandex.com/maps/?pt=-115.1421,36.1699&z=16&l=map"
+    },
+    "tags": [
+      "nightlife",
+      "light-show",
+      "entertainment",
+      "downtown",
+      "modern"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-nevada-sand-harbor",
+    "slug": "sand-harbor",
+    "region": "us-nevada",
+    "country": "usa",
+    "region_name_vi": "Nevada",
+    "name_vi": "Bãi Sand Harbor (Hồ Tahoe)",
+    "name_en": "Sand Harbor, Lake Tahoe",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 39.1981,
+      "lon": -119.9312
+    },
+    "address_vi": "Công viên bang Hồ Tahoe Nevada, gần Incline Village, bang Nevada",
+    "presentation_short_vi": "Bãi biển cát trắng và những tảng đá granit bên bờ đông trong xanh của hồ Tahoe, điểm bơi lội, chèo thuyền và ngắm hoàng hôn nổi tiếng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=39.1981,-119.9312",
+      "yandex": "https://yandex.com/maps/?pt=-119.9312,39.1981&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "lake",
+      "beach",
+      "scenic",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-nevada-red-rock-canyon",
+    "slug": "red-rock-canyon",
+    "region": "us-nevada",
+    "country": "usa",
+    "region_name_vi": "Nevada",
+    "name_vi": "Hẻm núi Đá Đỏ (Red Rock Canyon)",
+    "name_en": "Red Rock Canyon National Conservation Area",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.1358,
+      "lon": -115.4275
+    },
+    "address_vi": "Cách trung tâm Las Vegas khoảng 27 km về phía tây, bang Nevada",
+    "presentation_short_vi": "Khu bảo tồn sa mạc Mojave với các vách đá sa thạch đỏ rực, tuyến lái xe vòng cảnh quan và các cung leo núi, đi bộ nổi tiếng gần Las Vegas.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.1358,-115.4275",
+      "yandex": "https://yandex.com/maps/?pt=-115.4275,36.1358&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "desert",
+      "hiking",
+      "scenic",
+      "landscape"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-nevada-valley-of-fire",
+    "slug": "valley-of-fire",
+    "region": "us-nevada",
+    "country": "usa",
+    "region_name_vi": "Nevada",
+    "name_vi": "Công viên Thung lũng Lửa (Valley of Fire)",
+    "name_en": "Valley of Fire State Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.4722,
+      "lon": -114.5375
+    },
+    "address_vi": "Cách Las Vegas khoảng 80 km về phía đông bắc, bang Nevada",
+    "presentation_short_vi": "Công viên bang lâu đời nhất Nevada, nổi tiếng với những khối sa thạch đỏ như lửa, tranh khắc đá cổ của người bản địa và các thành tạo đá kỳ lạ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.4722,-114.5375",
+      "yandex": "https://yandex.com/maps/?pt=-114.5375,36.4722&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "desert",
+      "rock-formation",
+      "scenic",
+      "state-park"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-nevada-lake-mead",
+    "slug": "lake-mead",
+    "region": "us-nevada",
+    "country": "usa",
+    "region_name_vi": "Nevada",
+    "name_vi": "Hồ Mead",
+    "name_en": "Lake Mead",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.1447,
+      "lon": -114.3922
+    },
+    "address_vi": "Khu Giải trí Quốc gia Hồ Mead, sông Colorado, bang Nevada – Arizona",
+    "presentation_short_vi": "Hồ chứa nhân tạo lớn nhất Hoa Kỳ tính theo dung tích, hình thành sau đập Hoover, là điểm chèo thuyền, câu cá và các hoạt động dưới nước.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.1447,-114.3922",
+      "yandex": "https://yandex.com/maps/?pt=-114.3922,36.1447&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "lake",
+      "recreation",
+      "boating",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-nevada-great-basin-national-park",
+    "slug": "great-basin-national-park",
+    "region": "us-nevada",
+    "country": "usa",
+    "region_name_vi": "Nevada",
+    "name_vi": "Vườn quốc gia Great Basin (Đại Bồn Địa)",
+    "name_en": "Great Basin National Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 38.9833,
+      "lon": -114.3
+    },
+    "address_vi": "Gần thị trấn Baker, hạt White Pine, đông bang Nevada",
+    "presentation_short_vi": "Vườn quốc gia yên tĩnh với đỉnh Wheeler cao gần 4.000 m, hang động Lehman, rừng thông bristlecone cổ thụ và bầu trời đêm đầy sao trong lành.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=38.9833,-114.3",
+      "yandex": "https://yandex.com/maps/?pt=-114.3,38.9833&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "national-park",
+      "mountain",
+      "cave",
+      "dark-sky"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-nevada-sphere-las-vegas",
+    "slug": "sphere-las-vegas",
+    "region": "us-nevada",
+    "country": "usa",
+    "region_name_vi": "Nevada",
+    "name_vi": "Sphere Las Vegas (nhà hát hình cầu)",
+    "name_en": "Sphere",
+    "name_local": "",
+    "categories": [
+      "other",
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 36.1211,
+      "lon": -115.1619
+    },
+    "address_vi": "Cạnh khu The Venetian, Đại lộ Las Vegas, bang Nevada",
+    "presentation_short_vi": "Nhà hát hình cầu khổng lồ khai trương năm 2023, phủ màn hình LED lớn nhất thế giới cả trong lẫn ngoài, dùng cho hòa nhạc và trình chiếu thị giác choáng ngợp.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.1211,-115.1619",
+      "yandex": "https://yandex.com/maps/?pt=-115.1619,36.1211&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "venue",
+      "entertainment",
+      "architecture",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-nevada-strat-tower",
+    "slug": "strat-tower",
+    "region": "us-nevada",
+    "country": "usa",
+    "region_name_vi": "Nevada",
+    "name_vi": "Tháp STRAT (Stratosphere)",
+    "name_en": "The STRAT Tower",
+    "name_local": "",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 36.1475,
+      "lon": -115.1566
+    },
+    "address_vi": "Đầu bắc Đại lộ Las Vegas, thành phố Las Vegas, bang Nevada",
+    "presentation_short_vi": "Tháp quan sát cao 350 m — cao nhất Hoa Kỳ ở phía tây sông Mississippi, có đài ngắm cảnh, nhà hàng xoay và các trò chơi cảm giác mạnh trên đỉnh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.1475,-115.1566",
+      "yandex": "https://yandex.com/maps/?pt=-115.1566,36.1475&z=16&l=map"
+    },
+    "tags": [
+      "observation",
+      "tower",
+      "view",
+      "thrill",
+      "modern"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-nevada-virginia-city",
+    "slug": "virginia-city",
+    "region": "us-nevada",
+    "country": "usa",
+    "region_name_vi": "Nevada",
+    "name_vi": "Thị trấn cổ Virginia City",
+    "name_en": "Virginia City",
+    "name_local": "",
+    "categories": [
+      "square_street",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 39.3096,
+      "lon": -119.6502
+    },
+    "address_vi": "Hạt Storey, tây bắc bang Nevada",
+    "presentation_short_vi": "Thị trấn khai mỏ bạc thời cơn sốt Comstock thập niên 1860, nay là khu di tích lịch sử quốc gia với phố cổ, nhà gỗ và tàu hỏa hơi nước cổ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=39.3096,-119.6502",
+      "yandex": "https://yandex.com/maps/?pt=-119.6502,39.3096&z=16&l=map"
+    },
+    "tags": [
+      "historic",
+      "old-town",
+      "mining",
+      "heritage",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

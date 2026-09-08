@@ -1,0 +1,378 @@
+[
+  {
+    "id": "cz-cesky-krumlov-lau-dai-cesky-krumlov",
+    "slug": "lau-dai-cesky-krumlov",
+    "region": "cz-cesky-krumlov",
+    "country": "czech",
+    "region_name_vi": "Český Krumlov",
+    "name_vi": "Lâu đài Český Krumlov",
+    "name_en": "Český Krumlov Castle",
+    "name_local": "Státní hrad a zámek Český Krumlov",
+    "categories": [
+      "palace",
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 48.8127,
+      "lon": 14.3153
+    },
+    "address_vi": "Zámek 59, Latrán, Český Krumlov",
+    "presentation_short_vi": "Quần thể lâu đài lớn thứ hai Cộng hoà Séc (khởi dựng thế kỷ 13) với hơn 40 công trình và nội thất Phục hưng–Baroque; Di sản Thế giới UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.8127,14.3153",
+      "yandex": "https://yandex.com/maps/?pt=14.3153,48.8127&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "castle",
+      "unesco",
+      "baroque"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-cesky-krumlov-thap-lau-dai",
+    "slug": "thap-lau-dai",
+    "region": "cz-cesky-krumlov",
+    "country": "czech",
+    "region_name_vi": "Český Krumlov",
+    "name_vi": "Tháp Lâu đài",
+    "name_en": "Castle Tower",
+    "name_local": "Zámecká věž",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 48.8129,
+      "lon": 14.3151
+    },
+    "address_vi": "Zámek 59, Český Krumlov",
+    "presentation_short_vi": "Tháp tròn thế kỷ 13 sơn hoạ tiết Phục hưng nhiều màu, biểu tượng dễ nhận nhất của Krumlov; leo lên đỉnh ngắm toàn cảnh mái ngói phố cổ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.8129,14.3151",
+      "yandex": "https://yandex.com/maps/?pt=14.3151,48.8129&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "tower",
+      "view",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-cesky-krumlov-cau-choang-plastovy-most",
+    "slug": "cau-choang-plastovy-most",
+    "region": "cz-cesky-krumlov",
+    "country": "czech",
+    "region_name_vi": "Český Krumlov",
+    "name_vi": "Cầu Áo Choàng",
+    "name_en": "Cloak Bridge",
+    "name_local": "Plášťový most",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 48.8134,
+      "lon": 14.3143
+    },
+    "address_vi": "Zámek, Český Krumlov",
+    "presentation_short_vi": "Cây cầu cạn ba tầng bắc qua hào sâu, nối các khu của lâu đài với nhà hát và vườn thượng uyển — kỳ công kiến trúc Baroque thế kỷ 18.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.8134,14.3143",
+      "yandex": "https://yandex.com/maps/?pt=14.3143,48.8134&z=16&l=map"
+    },
+    "tags": [
+      "bridge",
+      "baroque",
+      "castle"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-cesky-krumlov-nha-hat-baroque",
+    "slug": "nha-hat-baroque",
+    "region": "cz-cesky-krumlov",
+    "country": "czech",
+    "region_name_vi": "Český Krumlov",
+    "name_vi": "Nhà hát Baroque Lâu đài",
+    "name_en": "Castle Baroque Theatre",
+    "name_local": "Zámecké barokní divadlo",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 48.8131,
+      "lon": 14.3138
+    },
+    "address_vi": "Zámek, Český Krumlov",
+    "presentation_short_vi": "Một trong những nhà hát Baroque được bảo tồn nguyên vẹn nhất thế giới (1766), còn nguyên sân khấu, phông cảnh và máy móc chuyển cảnh cổ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.8131,14.3138",
+      "yandex": "https://yandex.com/maps/?pt=14.3138,48.8131&z=16&l=map"
+    },
+    "tags": [
+      "theatre",
+      "baroque",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-cesky-krumlov-vuon-lau-dai",
+    "slug": "vuon-lau-dai",
+    "region": "cz-cesky-krumlov",
+    "country": "czech",
+    "region_name_vi": "Český Krumlov",
+    "name_vi": "Vườn Lâu đài",
+    "name_en": "Castle Gardens",
+    "name_local": "Zámecká zahrada",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 48.814,
+      "lon": 14.3105
+    },
+    "address_vi": "Zámecká zahrada, Český Krumlov",
+    "presentation_short_vi": "Khu vườn Baroque rộng 11 ha với đài phun nước tạc tượng, đình Bellaria và sân khấu xoay ngoài trời độc đáo phục vụ các buổi diễn mùa hè.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.814,14.3105",
+      "yandex": "https://yandex.com/maps/?pt=14.3105,48.814&z=16&l=map"
+    },
+    "tags": [
+      "garden",
+      "baroque",
+      "park"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-cesky-krumlov-nha-tho-thanh-vitus",
+    "slug": "nha-tho-thanh-vitus",
+    "region": "cz-cesky-krumlov",
+    "country": "czech",
+    "region_name_vi": "Český Krumlov",
+    "name_vi": "Nhà thờ Thánh Vitus",
+    "name_en": "St Vitus Church",
+    "name_local": "Kostel svatého Víta",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 48.8106,
+      "lon": 14.3166
+    },
+    "address_vi": "Kostelní 162, Český Krumlov",
+    "presentation_short_vi": "Nhà thờ Gothic thế kỷ 15 với tháp nhọn vươn cao, công trình tôn giáo quan trọng nhất phố cổ và điểm nhấn thứ hai trên đường chân trời Krumlov.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.8106,14.3166",
+      "yandex": "https://yandex.com/maps/?pt=14.3166,48.8106&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "gothic",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-cesky-krumlov-quang-truong-svornosti",
+    "slug": "quang-truong-svornosti",
+    "region": "cz-cesky-krumlov",
+    "country": "czech",
+    "region_name_vi": "Český Krumlov",
+    "name_vi": "Quảng trường Svornosti",
+    "name_en": "Concord Square",
+    "name_local": "Náměstí Svornosti",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 48.8107,
+      "lon": 14.3156
+    },
+    "address_vi": "Náměstí Svornosti, Český Krumlov",
+    "presentation_short_vi": "Quảng trường trung tâm phố cổ với Toà Thị chính Phục hưng, cột dịch hạch Baroque và những ngôi nhà sơn màu rực rỡ bao quanh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.8107,14.3156",
+      "yandex": "https://yandex.com/maps/?pt=14.3156,48.8107&z=16&l=map"
+    },
+    "tags": [
+      "square",
+      "oldtown",
+      "renaissance"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-cesky-krumlov-song-vltava",
+    "slug": "song-vltava",
+    "region": "cz-cesky-krumlov",
+    "country": "czech",
+    "region_name_vi": "Český Krumlov",
+    "name_vi": "Sông Vltava",
+    "name_en": "Vltava River",
+    "name_local": "Řeka Vltava",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 48.81,
+      "lon": 14.315
+    },
+    "address_vi": "Vltava, Český Krumlov",
+    "presentation_short_vi": "Khúc sông Vltava uốn hình móng ngựa ôm trọn phố cổ, nơi du khách chèo bè và kayak ngắm lâu đài từ mặt nước.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.81,14.315",
+      "yandex": "https://yandex.com/maps/?pt=14.315,48.81&z=16&l=map"
+    },
+    "tags": [
+      "river",
+      "nature",
+      "rafting",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-cesky-krumlov-trung-tam-nghe-thuat-egon-schiele",
+    "slug": "trung-tam-nghe-thuat-egon-schiele",
+    "region": "cz-cesky-krumlov",
+    "country": "czech",
+    "region_name_vi": "Český Krumlov",
+    "name_vi": "Trung tâm Nghệ thuật Egon Schiele",
+    "name_en": "Egon Schiele Art Centrum",
+    "name_local": "Egon Schiele Art Centrum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 48.811,
+      "lon": 14.3139
+    },
+    "address_vi": "Široká 71, Český Krumlov",
+    "presentation_short_vi": "Bảo tàng nghệ thuật trong xưởng bia cổ thế kỷ 16, trưng bày tác phẩm của danh hoạ người Áo Egon Schiele cùng nghệ thuật hiện đại quốc tế.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.811,14.3139",
+      "yandex": "https://yandex.com/maps/?pt=14.3139,48.811&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "art",
+      "modern"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-cesky-krumlov-cau-lazebnicky",
+    "slug": "cau-lazebnicky",
+    "region": "cz-cesky-krumlov",
+    "country": "czech",
+    "region_name_vi": "Český Krumlov",
+    "name_vi": "Cầu Lazebnický",
+    "name_en": "Barber's Bridge",
+    "name_local": "Lazebnický most",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 48.8116,
+      "lon": 14.3159
+    },
+    "address_vi": "Lazebnický most, Český Krumlov",
+    "presentation_short_vi": "Cây cầu bắc qua sông Vltava nối phố cổ với khu lâu đài, hai bên có tượng thánh; một điểm chụp ảnh nổi tiếng của thị trấn.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.8116,14.3159",
+      "yandex": "https://yandex.com/maps/?pt=14.3159,48.8116&z=16&l=map"
+    },
+    "tags": [
+      "bridge",
+      "historic",
+      "photo"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-cesky-krumlov-bao-tang-vung-cesky-krumlov",
+    "slug": "bao-tang-vung-cesky-krumlov",
+    "region": "cz-cesky-krumlov",
+    "country": "czech",
+    "region_name_vi": "Český Krumlov",
+    "name_vi": "Bảo tàng Vùng Český Krumlov",
+    "name_en": "Regional Museum in Český Krumlov",
+    "name_local": "Regionální muzeum v Českém Krumlově",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 48.8098,
+      "lon": 14.3169
+    },
+    "address_vi": "Horní 152, Český Krumlov",
+    "presentation_short_vi": "Bảo tàng lịch sử vùng Nam Bohemia, nổi bật với mô hình sứ tái hiện toàn cảnh thị trấn năm 1800 cùng bộ sưu tập khảo cổ và dân gian.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.8098,14.3169",
+      "yandex": "https://yandex.com/maps/?pt=14.3169,48.8098&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "history",
+      "local"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-cesky-krumlov-bao-tang-anh-seidel",
+    "slug": "bao-tang-anh-seidel",
+    "region": "cz-cesky-krumlov",
+    "country": "czech",
+    "region_name_vi": "Český Krumlov",
+    "name_vi": "Bảo tàng Xưởng ảnh Seidel",
+    "name_en": "Seidel Photo Studio Museum",
+    "name_local": "Museum Fotoateliér Seidel",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 48.8088,
+      "lon": 14.3176
+    },
+    "address_vi": "Linecká 272, Český Krumlov",
+    "presentation_short_vi": "Xưởng ảnh đầu thế kỷ 20 của Josef Seidel được bảo tồn nguyên vẹn cùng kho phim kính quý về vùng Šumava, nay là bảo tàng nhiếp ảnh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.8088,14.3176",
+      "yandex": "https://yandex.com/maps/?pt=14.3176,48.8088&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "photography",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

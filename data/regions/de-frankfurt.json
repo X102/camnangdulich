@@ -1,0 +1,381 @@
+[
+  {
+    "id": "de-frankfurt-quang-truong-romerberg",
+    "slug": "quang-truong-romerberg",
+    "region": "de-frankfurt",
+    "country": "germany",
+    "region_name_vi": "Frankfurt am Main",
+    "name_vi": "Quảng trường Römerberg",
+    "name_en": "Römerberg & Römer",
+    "name_local": "Römerberg & Römer",
+    "categories": [
+      "square_street",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 50.1106,
+      "lon": 8.682
+    },
+    "address_vi": "Römerberg, Altstadt, Frankfurt am Main",
+    "presentation_short_vi": "Quảng trường phố cổ với tòa thị chính Römer mái đầu hồi bậc thang, trung tâm lịch sử của Frankfurt được phục dựng sau chiến tranh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.1106,8.682",
+      "yandex": "https://yandex.com/maps/?pt=8.682,50.1106&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "historic",
+      "square",
+      "old-town"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "de-frankfurt-nha-tho-frankfurt",
+    "slug": "nha-tho-frankfurt",
+    "region": "de-frankfurt",
+    "country": "germany",
+    "region_name_vi": "Frankfurt am Main",
+    "name_vi": "Nhà thờ chính tòa Frankfurt (Kaiserdom)",
+    "name_en": "Frankfurt Cathedral (St Bartholomew)",
+    "name_local": "Kaiserdom St. Bartholomäus",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 50.1104,
+      "lon": 8.6857
+    },
+    "address_vi": "Domplatz 1, Frankfurt am Main",
+    "presentation_short_vi": "Nhà thờ chính tòa Gothic bằng sa thạch đỏ thế kỷ 14–15, nơi từng bầu chọn và đăng quang các hoàng đế Thánh chế La Mã, có tháp cao 95 m.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.1104,8.6857",
+      "yandex": "https://yandex.com/maps/?pt=8.6857,50.1104&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "historic",
+      "gothic",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "de-frankfurt-thap-main-tower",
+    "slug": "thap-main-tower",
+    "region": "de-frankfurt",
+    "country": "germany",
+    "region_name_vi": "Frankfurt am Main",
+    "name_vi": "Tháp Main Tower",
+    "name_en": "Main Tower",
+    "name_local": "Main Tower",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 50.1122,
+      "lon": 8.6719
+    },
+    "address_vi": "Neue Mainzer Straße 52-58, Frankfurt am Main",
+    "presentation_short_vi": "Tòa nhà chọc trời cao 200 m với đài quan sát ngoài trời duy nhất mở cho công chúng ở Frankfurt, nhìn toàn cảnh skyline 'Mainhattan'.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.1122,8.6719",
+      "yandex": "https://yandex.com/maps/?pt=8.6719,50.1122&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "viewpoint",
+      "skyscraper",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "de-frankfurt-bao-tang-stadel",
+    "slug": "bao-tang-stadel",
+    "region": "de-frankfurt",
+    "country": "germany",
+    "region_name_vi": "Frankfurt am Main",
+    "name_vi": "Bảo tàng Städel",
+    "name_en": "Städel Museum",
+    "name_local": "Städel Museum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 50.1026,
+      "lon": 8.6742
+    },
+    "address_vi": "Schaumainkai 63, Frankfurt am Main",
+    "presentation_short_vi": "Một trong những bảo tàng nghệ thuật quan trọng nhất nước Đức, trưng bày 700 năm hội họa châu Âu từ Botticelli, Vermeer đến Picasso.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.1026,8.6742",
+      "yandex": "https://yandex.com/maps/?pt=8.6742,50.1026&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "art",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "de-frankfurt-vuon-palmengarten",
+    "slug": "vuon-palmengarten",
+    "region": "de-frankfurt",
+    "country": "germany",
+    "region_name_vi": "Frankfurt am Main",
+    "name_vi": "Vườn bách thảo Palmengarten",
+    "name_en": "Palmengarten Botanical Garden",
+    "name_local": "Palmengarten",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 50.1236,
+      "lon": 8.6581
+    },
+    "address_vi": "Siesmayerstraße 61, Frankfurt am Main",
+    "presentation_short_vi": "Vườn bách thảo rộng lớn mở cửa từ năm 1871 với các nhà kính nhiệt đới, hồ nước và vườn hoa theo mùa ngay giữa lòng thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.1236,8.6581",
+      "yandex": "https://yandex.com/maps/?pt=8.6581,50.1236&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "garden",
+      "nature",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "de-frankfurt-nha-hat-alte-oper",
+    "slug": "nha-hat-alte-oper",
+    "region": "de-frankfurt",
+    "country": "germany",
+    "region_name_vi": "Frankfurt am Main",
+    "name_vi": "Nhà hát Opera cũ (Alte Oper)",
+    "name_en": "Old Opera House (Alte Oper)",
+    "name_local": "Alte Oper",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 50.1155,
+      "lon": 8.6716
+    },
+    "address_vi": "Opernplatz 1, Frankfurt am Main",
+    "presentation_short_vi": "Nhà hát opera cũ phong cách Phục hưng Ý khánh thành năm 1880, biểu tượng văn hóa được tái thiết thành trung tâm hòa nhạc sang trọng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.1155,8.6716",
+      "yandex": "https://yandex.com/maps/?pt=8.6716,50.1155&z=16&l=map"
+    },
+    "tags": [
+      "theatre",
+      "historic",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "de-frankfurt-cau-eiserner-steg",
+    "slug": "cau-eiserner-steg",
+    "region": "de-frankfurt",
+    "country": "germany",
+    "region_name_vi": "Frankfurt am Main",
+    "name_vi": "Cầu Sắt Eiserner Steg",
+    "name_en": "Eiserner Steg (Iron Bridge)",
+    "name_local": "Eiserner Steg",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 50.1088,
+      "lon": 8.6819
+    },
+    "address_vi": "Eiserner Steg, Frankfurt am Main",
+    "presentation_short_vi": "Cầu đi bộ bằng sắt bắc qua sông Main từ năm 1868, nối phố cổ với khu Sachsenhausen, treo đầy 'khóa tình yêu' và nhìn ra hàng skyline.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.1088,8.6819",
+      "yandex": "https://yandex.com/maps/?pt=8.6819,50.1088&z=16&l=map"
+    },
+    "tags": [
+      "bridge",
+      "historic",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "de-frankfurt-bao-tang-senckenberg",
+    "slug": "bao-tang-senckenberg",
+    "region": "de-frankfurt",
+    "country": "germany",
+    "region_name_vi": "Frankfurt am Main",
+    "name_vi": "Bảo tàng Tự nhiên Senckenberg",
+    "name_en": "Senckenberg Natural History Museum",
+    "name_local": "Senckenberg Naturmuseum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 50.1175,
+      "lon": 8.6519
+    },
+    "address_vi": "Senckenberganlage 25, Frankfurt am Main",
+    "presentation_short_vi": "Bảo tàng lịch sử tự nhiên lớn nhất nước Đức, nổi tiếng với bộ sưu tập khủng long và hóa thạch phong phú bậc nhất châu Âu.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.1175,8.6519",
+      "yandex": "https://yandex.com/maps/?pt=8.6519,50.1175&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "family",
+      "dinosaur"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "de-frankfurt-nha-goethe",
+    "slug": "nha-goethe",
+    "region": "de-frankfurt",
+    "country": "germany",
+    "region_name_vi": "Frankfurt am Main",
+    "name_vi": "Nhà Goethe",
+    "name_en": "Goethe House",
+    "name_local": "Goethe-Haus",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 50.1112,
+      "lon": 8.6786
+    },
+    "address_vi": "Großer Hirschgraben 23-25, Frankfurt am Main",
+    "presentation_short_vi": "Ngôi nhà nơi đại văn hào Johann Wolfgang von Goethe chào đời năm 1749, được phục dựng theo nguyên bản thế kỷ 18 cùng bảo tàng bên cạnh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.1112,8.6786",
+      "yandex": "https://yandex.com/maps/?pt=8.6786,50.1112&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "historic",
+      "literature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "de-frankfurt-nha-tho-paulskirche",
+    "slug": "nha-tho-paulskirche",
+    "region": "de-frankfurt",
+    "country": "germany",
+    "region_name_vi": "Frankfurt am Main",
+    "name_vi": "Nhà thờ St. Paul (Paulskirche)",
+    "name_en": "St Paul's Church (Paulskirche)",
+    "name_local": "Paulskirche",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 50.1114,
+      "lon": 8.6805
+    },
+    "address_vi": "Paulsplatz 11, Frankfurt am Main",
+    "presentation_short_vi": "Nhà thờ tròn nơi họp Quốc hội đầu tiên của nước Đức năm 1848, được xem là cái nôi của nền dân chủ Đức.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.1114,8.6805",
+      "yandex": "https://yandex.com/maps/?pt=8.6805,50.1114&z=16&l=map"
+    },
+    "tags": [
+      "historic",
+      "monument",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "de-frankfurt-thap-commerzbank",
+    "slug": "thap-commerzbank",
+    "region": "de-frankfurt",
+    "country": "germany",
+    "region_name_vi": "Frankfurt am Main",
+    "name_vi": "Tháp Commerzbank",
+    "name_en": "Commerzbank Tower",
+    "name_local": "Commerzbank Tower",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 50.1109,
+      "lon": 8.6742
+    },
+    "address_vi": "Kaiserplatz, Frankfurt am Main",
+    "presentation_short_vi": "Tòa nhà chọc trời cao 259 m do Norman Foster thiết kế, từng là cao ốc cao nhất châu Âu và là biểu tượng của khu tài chính Frankfurt.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.1109,8.6742",
+      "yandex": "https://yandex.com/maps/?pt=8.6742,50.1109&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "skyscraper",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "de-frankfurt-pho-zeil-myzeil",
+    "slug": "pho-zeil-myzeil",
+    "region": "de-frankfurt",
+    "country": "germany",
+    "region_name_vi": "Frankfurt am Main",
+    "name_vi": "Phố mua sắm Zeil (MyZeil)",
+    "name_en": "Zeil / MyZeil",
+    "name_local": "Zeil / MyZeil",
+    "categories": [
+      "square_street",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 50.115,
+      "lon": 8.682
+    },
+    "address_vi": "Zeil 106, Frankfurt am Main",
+    "presentation_short_vi": "Đại lộ mua sắm sầm uất bậc nhất nước Đức với trung tâm thương mại MyZeil có mặt kính uốn lượn độc đáo, thiên đường mua sắm - giải trí của thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.115,8.682",
+      "yandex": "https://yandex.com/maps/?pt=8.682,50.115&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "shopping",
+      "street"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

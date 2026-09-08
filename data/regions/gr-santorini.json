@@ -1,0 +1,377 @@
+[
+  {
+    "id": "gr-santorini-lang-oia",
+    "slug": "lang-oia",
+    "region": "gr-santorini",
+    "country": "greece",
+    "region_name_vi": "Santoríni",
+    "name_vi": "Làng Oia",
+    "name_en": "Oia",
+    "name_local": "Οία",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 36.4618,
+      "lon": 25.3753
+    },
+    "address_vi": "Oia 847 02, Hy Lạp",
+    "presentation_short_vi": "Ngôi làng trứ danh trên vách đá phía bắc đảo với nhà tường trắng, mái vòm xanh và điểm ngắm hoàng hôn đẹp bậc nhất thế giới.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.4618,25.3753",
+      "yandex": "https://yandex.com/maps/?pt=25.3753,36.4618&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "iconic",
+      "viewpoint",
+      "village"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gr-santorini-thi-tran-fira",
+    "slug": "thi-tran-fira",
+    "region": "gr-santorini",
+    "country": "greece",
+    "region_name_vi": "Santoríni",
+    "name_vi": "Thị trấn Fira",
+    "name_en": "Fira",
+    "name_local": "Φηρά",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 36.4165,
+      "lon": 25.4326
+    },
+    "address_vi": "Fira 847 00, Hy Lạp",
+    "presentation_short_vi": "Thủ phủ của Santorini nằm chênh vênh trên vách miệng núi lửa, trung tâm nhộn nhịp với quán cà phê, cửa hàng và tầm nhìn ra caldera.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.4165,25.4326",
+      "yandex": "https://yandex.com/maps/?pt=25.4326,36.4165&z=16&l=map"
+    },
+    "tags": [
+      "capital",
+      "viewpoint",
+      "village"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gr-santorini-lau-dai-oia",
+    "slug": "lau-dai-oia",
+    "region": "gr-santorini",
+    "country": "greece",
+    "region_name_vi": "Santoríni",
+    "name_vi": "Lâu đài Oia",
+    "name_en": "Oia Castle",
+    "name_local": "Κάστρο της Οίας",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 36.4626,
+      "lon": 25.3743
+    },
+    "address_vi": "Oia 847 02, Hy Lạp",
+    "presentation_short_vi": "Tàn tích pháo đài Venice bên rìa làng Oia, địa điểm ngắm hoàng hôn nổi tiếng nhất đảo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.4626,25.3743",
+      "yandex": "https://yandex.com/maps/?pt=25.3743,36.4626&z=16&l=map"
+    },
+    "tags": [
+      "fortress",
+      "viewpoint",
+      "sunset"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gr-santorini-nha-tho-mai-vom-xanh-fira",
+    "slug": "nha-tho-mai-vom-xanh-fira",
+    "region": "gr-santorini",
+    "country": "greece",
+    "region_name_vi": "Santoríni",
+    "name_vi": "Nhà thờ mái vòm xanh Ba Chuông",
+    "name_en": "Three Bells of Fira",
+    "name_local": "Καθολικός Ναός Παναγίας",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 36.4232,
+      "lon": 25.4272
+    },
+    "address_vi": "Firostefani 847 00, Hy Lạp",
+    "presentation_short_vi": "Nhà thờ mái vòm xanh với ba quả chuông nhìn ra caldera, một trong những hình ảnh biểu tượng nhất của Santorini.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.4232,25.4272",
+      "yandex": "https://yandex.com/maps/?pt=25.4272,36.4232&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "iconic",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gr-santorini-di-chi-akrotiri",
+    "slug": "di-chi-akrotiri",
+    "region": "gr-santorini",
+    "country": "greece",
+    "region_name_vi": "Santoríni",
+    "name_vi": "Di chỉ khảo cổ Akrotiri",
+    "name_en": "Akrotiri Archaeological Site",
+    "name_local": "Ακρωτήρι",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 36.3517,
+      "lon": 25.4036
+    },
+    "address_vi": "Akrotiri 847 00, Hy Lạp",
+    "presentation_short_vi": "Thành phố thời đại đồ đồng Minoan bị chôn vùi bởi phun trào núi lửa, được mệnh danh Pompeii của Hy Lạp với bích hoạ và nhà cổ được bảo tồn.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.3517,25.4036",
+      "yandex": "https://yandex.com/maps/?pt=25.4036,36.3517&z=16&l=map"
+    },
+    "tags": [
+      "history",
+      "ruins",
+      "archaeology"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gr-santorini-thanh-co-thera",
+    "slug": "thanh-co-thera",
+    "region": "gr-santorini",
+    "country": "greece",
+    "region_name_vi": "Santoríni",
+    "name_vi": "Thành cổ Thera",
+    "name_en": "Ancient Thera",
+    "name_local": "Αρχαία Θήρα",
+    "categories": [
+      "monument",
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 36.3622,
+      "lon": 25.4783
+    },
+    "address_vi": "Mesa Vouno, Santorini, Hy Lạp",
+    "presentation_short_vi": "Di chỉ thành phố cổ trên đỉnh núi Mesa Vouno cao 360 m, có di tích từ thời Hy Lạp hoá, La Mã và Byzantine cùng tầm nhìn ra biển.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.3622,25.4783",
+      "yandex": "https://yandex.com/maps/?pt=25.4783,36.3622&z=16&l=map"
+    },
+    "tags": [
+      "history",
+      "ruins",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gr-santorini-bao-tang-tien-su-thera",
+    "slug": "bao-tang-tien-su-thera",
+    "region": "gr-santorini",
+    "country": "greece",
+    "region_name_vi": "Santoríni",
+    "name_vi": "Bảo tàng Tiền sử Thera",
+    "name_en": "Museum of Prehistoric Thera",
+    "name_local": "Μουσείο Προϊστορικής Θήρας",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 36.4157,
+      "lon": 25.4315
+    },
+    "address_vi": "Mitropoleos, Fira 847 00, Hy Lạp",
+    "presentation_short_vi": "Bảo tàng trưng bày hiện vật khai quật từ Akrotiri, gồm bích hoạ, gốm và đồ tạo tác thời đại đồ đồng Cyclades.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.4157,25.4315",
+      "yandex": "https://yandex.com/maps/?pt=25.4315,36.4157&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "history",
+      "archaeology"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gr-santorini-bai-bien-do",
+    "slug": "bai-bien-do",
+    "region": "gr-santorini",
+    "country": "greece",
+    "region_name_vi": "Santoríni",
+    "name_vi": "Bãi biển Đỏ",
+    "name_en": "Red Beach",
+    "name_local": "Κόκκινη Παραλία",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.3487,
+      "lon": 25.3937
+    },
+    "address_vi": "Akrotiri 847 00, Hy Lạp",
+    "presentation_short_vi": "Bãi biển nổi tiếng với vách đá và cát đỏ rực do dung nham núi lửa, một trong những bãi biển đặc sắc nhất Santorini.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.3487,25.3937",
+      "yandex": "https://yandex.com/maps/?pt=25.3937,36.3487&z=16&l=map"
+    },
+    "tags": [
+      "beach",
+      "nature",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gr-santorini-bai-bien-perissa",
+    "slug": "bai-bien-perissa",
+    "region": "gr-santorini",
+    "country": "greece",
+    "region_name_vi": "Santoríni",
+    "name_vi": "Bãi biển Perissa",
+    "name_en": "Perissa Beach",
+    "name_local": "Περίσσα",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.3555,
+      "lon": 25.469
+    },
+    "address_vi": "Perissa 847 03, Hy Lạp",
+    "presentation_short_vi": "Bãi biển cát đen dài dưới chân núi Mesa Vouno, nổi tiếng với nước trong và các quán bar bãi biển sôi động.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.3555,25.469",
+      "yandex": "https://yandex.com/maps/?pt=25.469,36.3555&z=16&l=map"
+    },
+    "tags": [
+      "beach",
+      "nature",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gr-santorini-nui-lua-nea-kameni",
+    "slug": "nui-lua-nea-kameni",
+    "region": "gr-santorini",
+    "country": "greece",
+    "region_name_vi": "Santoríni",
+    "name_vi": "Đảo núi lửa Nea Kameni",
+    "name_en": "Nea Kameni",
+    "name_local": "Νέα Καμένη",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.404,
+      "lon": 25.396
+    },
+    "address_vi": "Nea Kameni, Santorini, Hy Lạp",
+    "presentation_short_vi": "Đảo núi lửa còn hoạt động giữa caldera Santorini, du khách leo lên miệng núi lửa và tắm suối nước nóng lưu huỳnh gần đó.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.404,25.396",
+      "yandex": "https://yandex.com/maps/?pt=25.396,36.404&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "volcano",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gr-santorini-vach-da-skaros",
+    "slug": "vach-da-skaros",
+    "region": "gr-santorini",
+    "country": "greece",
+    "region_name_vi": "Santoríni",
+    "name_vi": "Vách đá Skaros",
+    "name_en": "Skaros Rock",
+    "name_local": "Σκάρος",
+    "categories": [
+      "park_garden",
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 36.4335,
+      "lon": 25.4268
+    },
+    "address_vi": "Imerovigli 847 00, Hy Lạp",
+    "presentation_short_vi": "Mỏm đá nhô ra caldera ở Imerovigli, từng là pháo đài thời trung cổ, nay là điểm đi bộ ngắm cảnh ngoạn mục.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.4335,25.4268",
+      "yandex": "https://yandex.com/maps/?pt=25.4268,36.4335&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "viewpoint",
+      "hiking"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gr-santorini-nha-may-ruou-santo-wines",
+    "slug": "nha-may-ruou-santo-wines",
+    "region": "gr-santorini",
+    "country": "greece",
+    "region_name_vi": "Santoríni",
+    "name_vi": "Nhà máy rượu Santo Wines",
+    "name_en": "Santo Wines Winery",
+    "name_local": "Σάντο Γουάινς",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 36.3838,
+      "lon": 25.433
+    },
+    "address_vi": "Pyrgos Kallistis 847 00, Hy Lạp",
+    "presentation_short_vi": "Hầm rượu hợp tác xã lớn nhất đảo trên vách caldera ở Pyrgos, điểm thưởng rượu vang địa phương và ngắm hoàng hôn nổi tiếng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.3838,25.433",
+      "yandex": "https://yandex.com/maps/?pt=25.433,36.3838&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "wine",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

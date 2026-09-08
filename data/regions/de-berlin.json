@@ -1,0 +1,378 @@
+[
+  {
+    "id": "de-berlin-cong-brandenburg",
+    "slug": "cong-brandenburg",
+    "region": "de-berlin",
+    "country": "germany",
+    "region_name_vi": "Berlin",
+    "name_vi": "Cổng Brandenburg",
+    "name_en": "Brandenburg Gate",
+    "name_local": "Brandenburger Tor",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 52.5163,
+      "lon": 13.3777
+    },
+    "address_vi": "Pariser Platz, quận Mitte, Berlin",
+    "presentation_short_vi": "Cổng thành tân cổ điển thế kỷ 18 với cỗ xe nữ thần Chiến thắng trên đỉnh, biểu tượng của Berlin và của sự thống nhất nước Đức.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.5163,13.3777",
+      "yandex": "https://yandex.com/maps/?pt=13.3777,52.5163&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "landmark",
+      "iconic",
+      "monument"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "de-berlin-toa-nha-quoc-hoi-reichstag",
+    "slug": "toa-nha-quoc-hoi-reichstag",
+    "region": "de-berlin",
+    "country": "germany",
+    "region_name_vi": "Berlin",
+    "name_vi": "Tòa nhà Quốc hội Reichstag",
+    "name_en": "Reichstag Building",
+    "name_local": "Reichstagsgebäude",
+    "categories": [
+      "monument",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 52.5186,
+      "lon": 13.3762
+    },
+    "address_vi": "Platz der Republik 1, quận Mitte, Berlin",
+    "presentation_short_vi": "Tòa nhà nghị viện Đức từ thế kỷ 19, nổi bật với mái vòm kính hiện đại của kiến trúc sư Norman Foster cho du khách lên ngắm toàn cảnh thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.5186,13.3762",
+      "yandex": "https://yandex.com/maps/?pt=13.3762,52.5186&z=16&l=map"
+    },
+    "tags": [
+      "parliament",
+      "historic",
+      "modern",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "de-berlin-thap-truyen-hinh-berlin",
+    "slug": "thap-truyen-hinh-berlin",
+    "region": "de-berlin",
+    "country": "germany",
+    "region_name_vi": "Berlin",
+    "name_vi": "Tháp truyền hình Berlin",
+    "name_en": "Berlin TV Tower (Fernsehturm)",
+    "name_local": "Berliner Fernsehturm",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 52.5208,
+      "lon": 13.4094
+    },
+    "address_vi": "Panoramastraße 1A, Alexanderplatz, quận Mitte, Berlin",
+    "presentation_short_vi": "Tháp truyền hình cao 368 m ở Alexanderplatz, công trình cao nhất nước Đức, có đài quan sát và nhà hàng xoay nhìn toàn cảnh Berlin.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.5208,13.4094",
+      "yandex": "https://yandex.com/maps/?pt=13.4094,52.5208&z=16&l=map"
+    },
+    "tags": [
+      "tower",
+      "viewpoint",
+      "modern"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "de-berlin-dao-bao-tang",
+    "slug": "dao-bao-tang",
+    "region": "de-berlin",
+    "country": "germany",
+    "region_name_vi": "Berlin",
+    "name_vi": "Đảo Bảo tàng",
+    "name_en": "Museum Island",
+    "name_local": "Museumsinsel",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 52.5169,
+      "lon": 13.4019
+    },
+    "address_vi": "Bodestraße, đảo trên sông Spree, quận Mitte, Berlin",
+    "presentation_short_vi": "Quần thể năm bảo tàng danh tiếng trên sông Spree (trong đó có Bảo tàng Pergamon), Di sản Thế giới UNESCO về nghệ thuật và cổ vật.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.5169,13.4019",
+      "yandex": "https://yandex.com/maps/?pt=13.4019,52.5169&z=16&l=map"
+    },
+    "tags": [
+      "unesco",
+      "museum",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "de-berlin-nha-tho-lon-berlin",
+    "slug": "nha-tho-lon-berlin",
+    "region": "de-berlin",
+    "country": "germany",
+    "region_name_vi": "Berlin",
+    "name_vi": "Nhà thờ lớn Berlin",
+    "name_en": "Berlin Cathedral",
+    "name_local": "Berliner Dom",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 52.5192,
+      "lon": 13.401
+    },
+    "address_vi": "Am Lustgarten, Đảo Bảo tàng, quận Mitte, Berlin",
+    "presentation_short_vi": "Thánh đường Tin Lành mái vòm đồ sộ theo phong cách Tân Baroque bên Đảo Bảo tàng, có hầm mộ hoàng gia Hohenzollern và đài ngắm quanh vòm.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.5192,13.401",
+      "yandex": "https://yandex.com/maps/?pt=13.401,52.5192&z=16&l=map"
+    },
+    "tags": [
+      "cathedral",
+      "baroque",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "de-berlin-east-side-gallery",
+    "slug": "east-side-gallery",
+    "region": "de-berlin",
+    "country": "germany",
+    "region_name_vi": "Berlin",
+    "name_vi": "East Side Gallery (Bức tường Berlin)",
+    "name_en": "East Side Gallery",
+    "name_local": "East Side Gallery",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 52.505,
+      "lon": 13.4394
+    },
+    "address_vi": "Mühlenstraße, quận Friedrichshain, Berlin",
+    "presentation_short_vi": "Đoạn Bức tường Berlin dài 1,3 km còn lại được các nghệ sĩ vẽ tranh tường, phòng trưng bày ngoài trời dài nhất thế giới về tự do và lịch sử chia cắt.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.505,13.4394",
+      "yandex": "https://yandex.com/maps/?pt=13.4394,52.505&z=16&l=map"
+    },
+    "tags": [
+      "berlin-wall",
+      "street-art",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "de-berlin-quang-truong-gendarmenmarkt",
+    "slug": "quang-truong-gendarmenmarkt",
+    "region": "de-berlin",
+    "country": "germany",
+    "region_name_vi": "Berlin",
+    "name_vi": "Quảng trường Gendarmenmarkt",
+    "name_en": "Gendarmenmarkt",
+    "name_local": "Gendarmenmarkt",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 52.5136,
+      "lon": 13.3925
+    },
+    "address_vi": "Gendarmenmarkt, quận Mitte, Berlin",
+    "presentation_short_vi": "Quảng trường được xem là đẹp nhất Berlin, với Nhà hát Hòa nhạc ở giữa và hai nhà thờ Đức–Pháp song sinh hai bên.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.5136,13.3925",
+      "yandex": "https://yandex.com/maps/?pt=13.3925,52.5136&z=16&l=map"
+    },
+    "tags": [
+      "square",
+      "architecture",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "de-berlin-lau-dai-charlottenburg",
+    "slug": "lau-dai-charlottenburg",
+    "region": "de-berlin",
+    "country": "germany",
+    "region_name_vi": "Berlin",
+    "name_vi": "Cung điện Charlottenburg",
+    "name_en": "Charlottenburg Palace",
+    "name_local": "Schloss Charlottenburg",
+    "categories": [
+      "palace",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 52.5209,
+      "lon": 13.2957
+    },
+    "address_vi": "Spandauer Damm 10–22, quận Charlottenburg, Berlin",
+    "presentation_short_vi": "Cung điện Baroque và Rococo lớn nhất Berlin của hoàng gia Phổ, với nội thất xa hoa và khu vườn cảnh rộng lớn bên sông Spree.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.5209,13.2957",
+      "yandex": "https://yandex.com/maps/?pt=13.2957,52.5209&z=16&l=map"
+    },
+    "tags": [
+      "palace",
+      "baroque",
+      "garden"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "de-berlin-cong-vien-tiergarten",
+    "slug": "cong-vien-tiergarten",
+    "region": "de-berlin",
+    "country": "germany",
+    "region_name_vi": "Berlin",
+    "name_vi": "Công viên Tiergarten",
+    "name_en": "Tiergarten",
+    "name_local": "Großer Tiergarten",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 52.5145,
+      "lon": 13.3501
+    },
+    "address_vi": "Quận Mitte, Berlin (giữa Cổng Brandenburg và Bahnhof Zoo)",
+    "presentation_short_vi": "Công viên trung tâm lớn nhất Berlin với đường dạo rợp bóng cây, hồ nước và Cột Chiến thắng, lá phổi xanh của thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.5145,13.3501",
+      "yandex": "https://yandex.com/maps/?pt=13.3501,52.5145&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "relax",
+      "green"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "de-berlin-checkpoint-charlie",
+    "slug": "checkpoint-charlie",
+    "region": "de-berlin",
+    "country": "germany",
+    "region_name_vi": "Berlin",
+    "name_vi": "Checkpoint Charlie",
+    "name_en": "Checkpoint Charlie",
+    "name_local": "Checkpoint Charlie",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 52.5075,
+      "lon": 13.3904
+    },
+    "address_vi": "Friedrichstraße 43–45, quận Mitte/Kreuzberg, Berlin",
+    "presentation_short_vi": "Trạm kiểm soát nổi tiếng nhất giữa Đông và Tây Berlin thời Chiến tranh Lạnh, nay là điểm tưởng niệm lịch sử với chòi gác phục dựng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.5075,13.3904",
+      "yandex": "https://yandex.com/maps/?pt=13.3904,52.5075&z=16&l=map"
+    },
+    "tags": [
+      "cold-war",
+      "history",
+      "checkpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "de-berlin-quang-truong-alexanderplatz",
+    "slug": "quang-truong-alexanderplatz",
+    "region": "de-berlin",
+    "country": "germany",
+    "region_name_vi": "Berlin",
+    "name_vi": "Quảng trường Alexanderplatz",
+    "name_en": "Alexanderplatz",
+    "name_local": "Alexanderplatz",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 52.5219,
+      "lon": 13.4132
+    },
+    "address_vi": "Alexanderplatz, quận Mitte, Berlin",
+    "presentation_short_vi": "Quảng trường sầm uất bậc nhất Berlin với Đồng hồ Thế giới Urania và chân Tháp truyền hình, đầu mối giao thông và mua sắm lớn.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.5219,13.4132",
+      "yandex": "https://yandex.com/maps/?pt=13.4132,52.5219&z=16&l=map"
+    },
+    "tags": [
+      "square",
+      "shopping",
+      "central"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "de-berlin-dai-tuong-niem-holocaust",
+    "slug": "dai-tuong-niem-holocaust",
+    "region": "de-berlin",
+    "country": "germany",
+    "region_name_vi": "Berlin",
+    "name_vi": "Đài tưởng niệm Holocaust",
+    "name_en": "Memorial to the Murdered Jews of Europe",
+    "name_local": "Denkmal für die ermordeten Juden Europas",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 52.5139,
+      "lon": 13.3789
+    },
+    "address_vi": "Cora-Berliner-Straße 1, quận Mitte, Berlin",
+    "presentation_short_vi": "Đài tưởng niệm gồm 2.711 khối bê tông xám trải trên khu đất dốc gần Cổng Brandenburg, tưởng nhớ các nạn nhân Do Thái ở châu Âu.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.5139,13.3789",
+      "yandex": "https://yandex.com/maps/?pt=13.3789,52.5139&z=16&l=map"
+    },
+    "tags": [
+      "memorial",
+      "history",
+      "monument"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  }
+]

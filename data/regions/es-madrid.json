@@ -1,0 +1,375 @@
+[
+  {
+    "id": "es-madrid-cung-dien-hoang-gia-madrid",
+    "slug": "cung-dien-hoang-gia-madrid",
+    "region": "es-madrid",
+    "country": "spain",
+    "region_name_vi": "Madrid",
+    "name_vi": "Cung điện Hoàng gia Madrid",
+    "name_en": "Royal Palace of Madrid",
+    "name_local": "Palacio Real de Madrid",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 40.418,
+      "lon": -3.7143
+    },
+    "address_vi": "Calle de Bailén, 28071 Madrid, Tây Ban Nha",
+    "presentation_short_vi": "Cung điện Hoàng gia lớn nhất Tây Âu với hơn 3.000 phòng, nơi tổ chức các nghi lễ quốc gia của Hoàng gia Tây Ban Nha.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=40.418,-3.7143",
+      "yandex": "https://yandex.com/maps/?pt=-3.7143,40.418&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "palace",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "es-madrid-bao-tang-prado",
+    "slug": "bao-tang-prado",
+    "region": "es-madrid",
+    "country": "spain",
+    "region_name_vi": "Madrid",
+    "name_vi": "Bảo tàng Prado",
+    "name_en": "Prado Museum",
+    "name_local": "Museo del Prado",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 40.4138,
+      "lon": -3.6921
+    },
+    "address_vi": "Calle de Ruiz de Alarcón 23, 28014 Madrid, Tây Ban Nha",
+    "presentation_short_vi": "Bảo tàng nghệ thuật quốc gia hàng đầu thế giới, trưng bày kiệt tác của Velázquez, Goya, El Greco và các bậc thầy châu Âu.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=40.4138,-3.6921",
+      "yandex": "https://yandex.com/maps/?pt=-3.6921,40.4138&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "museum",
+      "art"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "es-madrid-quang-truong-plaza-mayor",
+    "slug": "quang-truong-plaza-mayor",
+    "region": "es-madrid",
+    "country": "spain",
+    "region_name_vi": "Madrid",
+    "name_vi": "Quảng trường Plaza Mayor",
+    "name_en": "Plaza Mayor",
+    "name_local": "Plaza Mayor",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 40.4155,
+      "lon": -3.7074
+    },
+    "address_vi": "Plaza Mayor, 28012 Madrid, Tây Ban Nha",
+    "presentation_short_vi": "Quảng trường trung tâm mang kiến trúc thời Habsburg, bao quanh bởi dãy nhà mái vòm, từng là nơi diễn ra hội chợ và sự kiện lịch sử.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=40.4155,-3.7074",
+      "yandex": "https://yandex.com/maps/?pt=-3.7074,40.4155&z=16&l=map"
+    },
+    "tags": [
+      "square",
+      "landmark",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "es-madrid-quang-truong-puerta-del-sol",
+    "slug": "quang-truong-puerta-del-sol",
+    "region": "es-madrid",
+    "country": "spain",
+    "region_name_vi": "Madrid",
+    "name_vi": "Quảng trường Puerta del Sol",
+    "name_en": "Puerta del Sol",
+    "name_local": "Puerta del Sol",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 40.4169,
+      "lon": -3.7035
+    },
+    "address_vi": "Puerta del Sol, 28013 Madrid, Tây Ban Nha",
+    "presentation_short_vi": "Quảng trường sầm uất bậc nhất Madrid, điểm 'Km 0' của mạng lưới đường bộ Tây Ban Nha và nơi đón giao thừa nổi tiếng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=40.4169,-3.7035",
+      "yandex": "https://yandex.com/maps/?pt=-3.7035,40.4169&z=16&l=map"
+    },
+    "tags": [
+      "square",
+      "landmark",
+      "central"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "es-madrid-cong-vien-retiro",
+    "slug": "cong-vien-retiro",
+    "region": "es-madrid",
+    "country": "spain",
+    "region_name_vi": "Madrid",
+    "name_vi": "Công viên Retiro",
+    "name_en": "Retiro Park",
+    "name_local": "Parque del Buen Retiro",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 40.4153,
+      "lon": -3.6844
+    },
+    "address_vi": "Plaza de la Independencia 7, 28001 Madrid, Tây Ban Nha",
+    "presentation_short_vi": "Công viên hoàng gia rộng lớn giữa trung tâm với hồ chèo thuyền, Cung Pha Lê và vườn cảnh, thuộc Di sản Thế giới UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=40.4153,-3.6844",
+      "yandex": "https://yandex.com/maps/?pt=-3.6844,40.4153&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "nature",
+      "unesco"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "es-madrid-bao-tang-reina-sofia",
+    "slug": "bao-tang-reina-sofia",
+    "region": "es-madrid",
+    "country": "spain",
+    "region_name_vi": "Madrid",
+    "name_vi": "Bảo tàng Reina Sofía",
+    "name_en": "Reina Sofía Museum",
+    "name_local": "Museo Nacional Centro de Arte Reina Sofía",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 40.4079,
+      "lon": -3.6947
+    },
+    "address_vi": "Calle de Santa Isabel 52, 28012 Madrid, Tây Ban Nha",
+    "presentation_short_vi": "Bảo tàng nghệ thuật hiện đại và đương đại quốc gia, nơi trưng bày bức 'Guernica' trứ danh của Picasso.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=40.4079,-3.6947",
+      "yandex": "https://yandex.com/maps/?pt=-3.6947,40.4079&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "art",
+      "modern"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "es-madrid-nha-tho-almudena",
+    "slug": "nha-tho-almudena",
+    "region": "es-madrid",
+    "country": "spain",
+    "region_name_vi": "Madrid",
+    "name_vi": "Nhà thờ chính tòa Almudena",
+    "name_en": "Almudena Cathedral",
+    "name_local": "Catedral de la Almudena",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 40.4159,
+      "lon": -3.7145
+    },
+    "address_vi": "Calle de Bailén 10, 28013 Madrid, Tây Ban Nha",
+    "presentation_short_vi": "Nhà thờ chính tòa của Madrid đối diện Cung điện Hoàng gia, khánh thành năm 1993 với kiến trúc pha trộn tân cổ điển và tân Gothic.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=40.4159,-3.7145",
+      "yandex": "https://yandex.com/maps/?pt=-3.7145,40.4159&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "es-madrid-san-van-dong-santiago-bernabeu",
+    "slug": "san-van-dong-santiago-bernabeu",
+    "region": "es-madrid",
+    "country": "spain",
+    "region_name_vi": "Madrid",
+    "name_vi": "Sân vận động Santiago Bernabéu",
+    "name_en": "Santiago Bernabéu Stadium",
+    "name_local": "Estadio Santiago Bernabéu",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 40.4531,
+      "lon": -3.6883
+    },
+    "address_vi": "Avenida de Concha Espina 1, 28036 Madrid, Tây Ban Nha",
+    "presentation_short_vi": "Sân vận động biểu tượng của câu lạc bộ Real Madrid, một trong những sân bóng nổi tiếng nhất thế giới sau đợt cải tạo hiện đại.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=40.4531,-3.6883",
+      "yandex": "https://yandex.com/maps/?pt=-3.6883,40.4531&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "stadium",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "es-madrid-cong-alcala",
+    "slug": "cong-alcala",
+    "region": "es-madrid",
+    "country": "spain",
+    "region_name_vi": "Madrid",
+    "name_vi": "Cổng Alcalá",
+    "name_en": "Puerta de Alcalá",
+    "name_local": "Puerta de Alcalá",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 40.42,
+      "lon": -3.6889
+    },
+    "address_vi": "Plaza de la Independencia, 28001 Madrid, Tây Ban Nha",
+    "presentation_short_vi": "Cổng khải hoàn tân cổ điển bằng đá granite dựng thế kỷ 18, một trong những biểu tượng của Madrid.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=40.42,-3.6889",
+      "yandex": "https://yandex.com/maps/?pt=-3.6889,40.42&z=16&l=map"
+    },
+    "tags": [
+      "monument",
+      "landmark",
+      "iconic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "es-madrid-dai-lo-gran-via",
+    "slug": "dai-lo-gran-via",
+    "region": "es-madrid",
+    "country": "spain",
+    "region_name_vi": "Madrid",
+    "name_vi": "Đại lộ Gran Vía",
+    "name_en": "Gran Vía",
+    "name_local": "Gran Vía",
+    "categories": [
+      "square_street",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 40.42,
+      "lon": -3.7038
+    },
+    "address_vi": "Gran Vía, 28013 Madrid, Tây Ban Nha",
+    "presentation_short_vi": "Đại lộ sầm uất mệnh danh 'Broadway của Madrid', tập trung nhà hát, rạp phim, khách sạn và trung tâm mua sắm.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=40.42,-3.7038",
+      "yandex": "https://yandex.com/maps/?pt=-3.7038,40.42&z=16&l=map"
+    },
+    "tags": [
+      "street",
+      "shopping",
+      "modern"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "es-madrid-den-debod",
+    "slug": "den-debod",
+    "region": "es-madrid",
+    "country": "spain",
+    "region_name_vi": "Madrid",
+    "name_vi": "Đền Debod",
+    "name_en": "Temple of Debod",
+    "name_local": "Templo de Debod",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 40.424,
+      "lon": -3.7176
+    },
+    "address_vi": "Calle de Ferraz 1, 28008 Madrid, Tây Ban Nha",
+    "presentation_short_vi": "Ngôi đền Ai Cập cổ hơn 2.000 năm được Ai Cập tặng Tây Ban Nha, dựng lại tại Madrid và nổi tiếng với cảnh hoàng hôn.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=40.424,-3.7176",
+      "yandex": "https://yandex.com/maps/?pt=-3.7176,40.424&z=16&l=map"
+    },
+    "tags": [
+      "monument",
+      "history",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "es-madrid-cung-dien-cibeles",
+    "slug": "cung-dien-cibeles",
+    "region": "es-madrid",
+    "country": "spain",
+    "region_name_vi": "Madrid",
+    "name_vi": "Cung điện Cibeles",
+    "name_en": "Cibeles Palace",
+    "name_local": "Palacio de Cibeles",
+    "categories": [
+      "palace",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 40.4193,
+      "lon": -3.6926
+    },
+    "address_vi": "Plaza de Cibeles 1, 28014 Madrid, Tây Ban Nha",
+    "presentation_short_vi": "Toà nhà tân Baroque tráng lệ bên quảng trường Cibeles, nay là trụ sở Hội đồng thành phố với đài quan sát ngắm toàn cảnh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=40.4193,-3.6926",
+      "yandex": "https://yandex.com/maps/?pt=-3.6926,40.4193&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "viewpoint",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

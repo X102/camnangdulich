@@ -1,0 +1,375 @@
+[
+  {
+    "id": "ca-manitoba-the-forks",
+    "slug": "the-forks",
+    "region": "ca-manitoba",
+    "region_name_vi": "Manitoba",
+    "country": "canada",
+    "name_vi": "Khu The Forks",
+    "name_en": "The Forks",
+    "name_local": "",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 49.8879,
+      "lon": -97.1306
+    },
+    "address_vi": "Winnipeg, Manitoba",
+    "presentation_short_vi": "Điểm gặp gỡ lịch sử tại ngã ba sông Red và Assiniboine, nay là khu chợ, quảng trường và bờ sông sầm uất bậc nhất Winnipeg.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-97.1306,49.8879&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=49.8879,-97.1306"
+    },
+    "tags": [
+      "modern",
+      "market",
+      "waterfront",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-manitoba-museum-human-rights",
+    "slug": "museum-human-rights",
+    "region": "ca-manitoba",
+    "region_name_vi": "Manitoba",
+    "country": "canada",
+    "name_vi": "Bảo tàng Nhân quyền Canada",
+    "name_en": "Canadian Museum for Human Rights",
+    "name_local": "",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 49.8908,
+      "lon": -97.1307
+    },
+    "address_vi": "Winnipeg, Manitoba",
+    "presentation_short_vi": "Bảo tàng quốc gia với kiến trúc hiện đại ấn tượng bằng kính và đá, có tháp Hy Vọng cao 100 m nhìn toàn cảnh Winnipeg.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-97.1307,49.8908&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=49.8908,-97.1307"
+    },
+    "tags": [
+      "modern",
+      "museum",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-manitoba-esplanade-riel",
+    "slug": "esplanade-riel",
+    "region": "ca-manitoba",
+    "region_name_vi": "Manitoba",
+    "country": "canada",
+    "name_vi": "Cầu đi bộ Esplanade Riel",
+    "name_en": "Esplanade Riel",
+    "name_local": "",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 49.8952,
+      "lon": -97.1289
+    },
+    "address_vi": "Winnipeg, Manitoba",
+    "presentation_short_vi": "Cầu treo dành cho người đi bộ bắc qua sông Red, có nhà hàng ngay trên cầu, nối trung tâm Winnipeg với khu phố Pháp St. Boniface.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-97.1289,49.8952&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=49.8952,-97.1289"
+    },
+    "tags": [
+      "modern",
+      "bridge",
+      "pedestrian"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-manitoba-manitoba-legislature",
+    "slug": "manitoba-legislature",
+    "region": "ca-manitoba",
+    "region_name_vi": "Manitoba",
+    "country": "canada",
+    "name_vi": "Tòa nhà Nghị viện Manitoba",
+    "name_en": "Manitoba Legislative Building",
+    "name_local": "",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 49.8844,
+      "lon": -97.1469
+    },
+    "address_vi": "Winnipeg, Manitoba",
+    "presentation_short_vi": "Trụ sở nghị viện tỉnh theo phong cách Beaux-Arts, đỉnh mái là tượng 'Golden Boy' mạ vàng nổi tiếng.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-97.1469,49.8844&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=49.8844,-97.1469"
+    },
+    "tags": [
+      "historic",
+      "government",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-manitoba-st-boniface-cathedral",
+    "slug": "st-boniface-cathedral",
+    "region": "ca-manitoba",
+    "region_name_vi": "Manitoba",
+    "country": "canada",
+    "name_vi": "Nhà thờ chính tòa St. Boniface",
+    "name_en": "Saint Boniface Cathedral",
+    "name_local": "Cathédrale de Saint-Boniface",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 49.8895,
+      "lon": -97.1205
+    },
+    "address_vi": "Winnipeg, Manitoba",
+    "presentation_short_vi": "Nhà thờ Công giáo lịch sử của cộng đồng nói tiếng Pháp; mặt tiền đá cổ còn lại sau hỏa hoạn 1968 được giữ làm phế tích trước ngôi nhà thờ mới.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-97.1205,49.8895&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=49.8895,-97.1205"
+    },
+    "tags": [
+      "historic",
+      "church",
+      "french"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-manitoba-lower-fort-garry",
+    "slug": "lower-fort-garry",
+    "region": "ca-manitoba",
+    "region_name_vi": "Manitoba",
+    "country": "canada",
+    "name_vi": "Pháo đài Lower Fort Garry",
+    "name_en": "Lower Fort Garry",
+    "name_local": "",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 50.11222,
+      "lon": -96.93194
+    },
+    "address_vi": "St. Andrews, Manitoba",
+    "presentation_short_vi": "Pháo đài đá thời Công ty Vịnh Hudson được bảo tồn nguyên vẹn, tái hiện đời sống thương điếm lông thú thế kỷ 19 bên sông Red.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-96.93194,50.11222&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=50.11222,-96.93194"
+    },
+    "tags": [
+      "historic",
+      "fort",
+      "fur_trade"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-manitoba-manitoba-museum",
+    "slug": "manitoba-museum",
+    "region": "ca-manitoba",
+    "region_name_vi": "Manitoba",
+    "country": "canada",
+    "name_vi": "Bảo tàng Manitoba",
+    "name_en": "The Manitoba Museum",
+    "name_local": "",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 49.9,
+      "lon": -97.13667
+    },
+    "address_vi": "Winnipeg, Manitoba",
+    "presentation_short_vi": "Bảo tàng lịch sử tự nhiên và văn hóa lớn nhất tỉnh, nổi bật với mô hình tàu buồm Nonsuch thế kỷ 17 và phòng chiếu thiên văn.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-97.13667,49.9&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=49.9,-97.13667"
+    },
+    "tags": [
+      "museum",
+      "history",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-manitoba-upper-fort-garry",
+    "slug": "upper-fort-garry",
+    "region": "ca-manitoba",
+    "region_name_vi": "Manitoba",
+    "country": "canada",
+    "name_vi": "Cổng Upper Fort Garry",
+    "name_en": "Upper Fort Garry",
+    "name_local": "",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 49.8869,
+      "lon": -97.1399
+    },
+    "address_vi": "Winnipeg, Manitoba",
+    "presentation_short_vi": "Di tích cổng đá còn sót lại của pháo đài Công ty Vịnh Hudson năm 1835, nay là công viên di sản kể lại nguồn gốc thành phố Winnipeg.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-97.1399,49.8869&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=49.8869,-97.1399"
+    },
+    "tags": [
+      "historic",
+      "heritage",
+      "gate"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-manitoba-assiniboine-park",
+    "slug": "assiniboine-park",
+    "region": "ca-manitoba",
+    "region_name_vi": "Manitoba",
+    "country": "canada",
+    "name_vi": "Công viên Assiniboine",
+    "name_en": "Assiniboine Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 49.86278,
+      "lon": -97.24444
+    },
+    "address_vi": "Winnipeg, Manitoba",
+    "presentation_short_vi": "Công viên đô thị rộng lớn với vườn kiểu Anh, vườn điêu khắc Leo Mol và vườn thú nổi tiếng khu trưng bày gấu Bắc Cực.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-97.24444,49.86278&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=49.86278,-97.24444"
+    },
+    "tags": [
+      "nature",
+      "park",
+      "zoo"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-manitoba-riding-mountain",
+    "slug": "riding-mountain",
+    "region": "ca-manitoba",
+    "region_name_vi": "Manitoba",
+    "country": "canada",
+    "name_vi": "Vườn quốc gia Riding Mountain",
+    "name_en": "Riding Mountain National Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 50.86389,
+      "lon": -100.03611
+    },
+    "address_vi": "Manitoba",
+    "presentation_short_vi": "Cao nguyên rừng nổi lên giữa đồng bằng thảo nguyên, có đàn bò rừng bizon, hồ Clear Lake và thị trấn nghỉ dưỡng Wasagaming.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-100.03611,50.86389&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=50.86389,-100.03611"
+    },
+    "tags": [
+      "nature",
+      "national_park",
+      "wildlife"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-manitoba-fortwhyte-alive",
+    "slug": "fortwhyte-alive",
+    "region": "ca-manitoba",
+    "region_name_vi": "Manitoba",
+    "country": "canada",
+    "name_vi": "Khu thiên nhiên FortWhyte Alive",
+    "name_en": "FortWhyte Alive",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 49.8145,
+      "lon": -97.236
+    },
+    "address_vi": "Winnipeg, Manitoba",
+    "presentation_short_vi": "Khu bảo tồn thiên nhiên ngay trong Winnipeg với hồ, rừng và đàn bò rừng bizon, điểm ngắm chim và đi bộ đường mòn quen thuộc.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-97.236,49.8145&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=49.8145,-97.236"
+    },
+    "tags": [
+      "nature",
+      "wildlife",
+      "bison"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-manitoba-wapusk-national-park",
+    "slug": "wapusk-national-park",
+    "region": "ca-manitoba",
+    "region_name_vi": "Manitoba",
+    "country": "canada",
+    "name_vi": "Vườn quốc gia Wapusk",
+    "name_en": "Wapusk National Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 57.77389,
+      "lon": -93.37139
+    },
+    "address_vi": "Churchill, Manitoba",
+    "presentation_short_vi": "Vườn quốc gia vùng cực gần Churchill, một trong những nơi làm ổ của gấu Bắc Cực lớn nhất thế giới giữa đài nguyên bên Vịnh Hudson.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-93.37139,57.77389&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=57.77389,-93.37139"
+    },
+    "tags": [
+      "nature",
+      "polar_bear",
+      "tundra"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

@@ -1,0 +1,388 @@
+[
+  {
+    "id": "us-louisiana-french-quarter",
+    "slug": "french-quarter",
+    "region": "us-louisiana",
+    "country": "usa",
+    "region_name_vi": "Louisiana",
+    "name_vi": "Khu phố Pháp (French Quarter)",
+    "name_en": "French Quarter",
+    "name_local": "",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 29.9584,
+      "lon": -90.0644
+    },
+    "address_vi": "Vieux Carré, thành phố New Orleans, bang Louisiana",
+    "presentation_short_vi": "Khu phố cổ nhất New Orleans với kiến trúc thuộc địa Pháp – Tây Ban Nha, ban công sắt uốn và nhạc jazz; trái tim văn hoá và du lịch của Louisiana.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=29.9584,-90.0644",
+      "yandex": "https://yandex.com/maps/?pt=-90.0644,29.9584&z=16&l=map"
+    },
+    "tags": [
+      "historic-district",
+      "new-orleans",
+      "jazz",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-louisiana-st-louis-cathedral",
+    "slug": "st-louis-cathedral",
+    "region": "us-louisiana",
+    "country": "usa",
+    "region_name_vi": "Louisiana",
+    "name_vi": "Nhà thờ Chính toà St. Louis",
+    "name_en": "St. Louis Cathedral",
+    "name_local": "",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 29.9578,
+      "lon": -90.0631
+    },
+    "address_vi": "615 Pere Antoine Alley, thành phố New Orleans, bang Louisiana",
+    "presentation_short_vi": "Nhà thờ Công giáo hoạt động liên tục lâu đời nhất nước Mỹ với ba ngọn tháp nhọn nhìn ra Quảng trường Jackson; biểu tượng của khu phố Pháp New Orleans.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=29.9578,-90.0631",
+      "yandex": "https://yandex.com/maps/?pt=-90.0631,29.9578&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "historic",
+      "new-orleans",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-louisiana-jackson-square",
+    "slug": "jackson-square",
+    "region": "us-louisiana",
+    "country": "usa",
+    "region_name_vi": "Louisiana",
+    "name_vi": "Quảng trường Jackson (Jackson Square)",
+    "name_en": "Jackson Square",
+    "name_local": "",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 29.9575,
+      "lon": -90.0629
+    },
+    "address_vi": "700 Decatur Street, thành phố New Orleans, bang Louisiana",
+    "presentation_short_vi": "Quảng trường lịch sử giữa khu phố Pháp với tượng đài Tướng Andrew Jackson cưỡi ngựa, bao quanh là nghệ sĩ đường phố và các toà nhà Pontalba cổ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=29.9575,-90.0629",
+      "yandex": "https://yandex.com/maps/?pt=-90.0629,29.9575&z=16&l=map"
+    },
+    "tags": [
+      "square",
+      "historic",
+      "new-orleans"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-louisiana-national-wwii-museum",
+    "slug": "national-wwii-museum",
+    "region": "us-louisiana",
+    "country": "usa",
+    "region_name_vi": "Louisiana",
+    "name_vi": "Bảo tàng Thế chiến II Quốc gia",
+    "name_en": "The National WWII Museum",
+    "name_local": "",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 29.943,
+      "lon": -90.0703
+    },
+    "address_vi": "945 Magazine Street, thành phố New Orleans, bang Louisiana",
+    "presentation_short_vi": "Bảo tàng quốc gia về Thế chiến thứ hai được đánh giá hàng đầu nước Mỹ, trưng bày máy bay, xe tăng và tư liệu sống động về cuộc chiến của Hoa Kỳ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=29.943,-90.0703",
+      "yandex": "https://yandex.com/maps/?pt=-90.0703,29.943&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "history",
+      "new-orleans",
+      "wwii",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-louisiana-bourbon-street",
+    "slug": "bourbon-street",
+    "region": "us-louisiana",
+    "country": "usa",
+    "region_name_vi": "Louisiana",
+    "name_vi": "Phố Bourbon (Bourbon Street)",
+    "name_en": "Bourbon Street",
+    "name_local": "",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 29.9591,
+      "lon": -90.0654
+    },
+    "address_vi": "Bourbon Street, khu phố Pháp, thành phố New Orleans, bang Louisiana",
+    "presentation_short_vi": "Con phố sôi động bậc nhất khu phố Pháp với quán bar, âm nhạc trực tiếp và lễ hội Mardi Gras; trung tâm đời sống về đêm của New Orleans.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=29.9591,-90.0654",
+      "yandex": "https://yandex.com/maps/?pt=-90.0654,29.9591&z=16&l=map"
+    },
+    "tags": [
+      "street",
+      "nightlife",
+      "new-orleans",
+      "mardi-gras"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-louisiana-louisiana-state-capitol",
+    "slug": "louisiana-state-capitol",
+    "region": "us-louisiana",
+    "country": "usa",
+    "region_name_vi": "Louisiana",
+    "name_vi": "Toà nhà Nghị viện bang Louisiana",
+    "name_en": "Louisiana State Capitol",
+    "name_local": "",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 30.457,
+      "lon": -91.1873
+    },
+    "address_vi": "900 North 3rd Street, thành phố Baton Rouge, bang Louisiana",
+    "presentation_short_vi": "Toà nhà nghị viện bang cao nhất nước Mỹ (137 m, 34 tầng) theo phong cách Art Deco, khánh thành 1932; đài quan sát tầng 27 nhìn toàn cảnh Baton Rouge.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=30.457,-91.1873",
+      "yandex": "https://yandex.com/maps/?pt=-91.1873,30.457&z=16&l=map"
+    },
+    "tags": [
+      "capitol",
+      "art-deco",
+      "baton-rouge",
+      "observation"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-louisiana-oak-alley-plantation",
+    "slug": "oak-alley-plantation",
+    "region": "us-louisiana",
+    "country": "usa",
+    "region_name_vi": "Louisiana",
+    "name_vi": "Đồn điền Oak Alley",
+    "name_en": "Oak Alley Plantation",
+    "name_local": "",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 30.0043,
+      "lon": -90.7759
+    },
+    "address_vi": "3645 Highway 18, thị trấn Vacherie, bang Louisiana",
+    "presentation_short_vi": "Dinh thự đồn điền phong cách Hy Lạp phục hưng (1839) nổi tiếng với lối đi hai hàng 28 cây sồi cổ thụ 300 năm tuổi bên bờ sông Mississippi.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=30.0043,-90.7759",
+      "yandex": "https://yandex.com/maps/?pt=-90.7759,30.0043&z=16&l=map"
+    },
+    "tags": [
+      "plantation",
+      "historic",
+      "mansion",
+      "vacherie",
+      "oaks"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-louisiana-city-park-new-orleans",
+    "slug": "city-park-new-orleans",
+    "region": "us-louisiana",
+    "country": "usa",
+    "region_name_vi": "Louisiana",
+    "name_vi": "Công viên Thành phố (City Park)",
+    "name_en": "City Park, New Orleans",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 29.9938,
+      "lon": -90.0967
+    },
+    "address_vi": "1 Palm Drive, thành phố New Orleans, bang Louisiana",
+    "presentation_short_vi": "Công viên đô thị rộng lớn với rừng sồi sống cổ thụ, vườn bách thảo và khu giải trí cổ điển Carousel Gardens; một trong những công viên lâu đời nhất nước Mỹ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=29.9938,-90.0967",
+      "yandex": "https://yandex.com/maps/?pt=-90.0967,29.9938&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "garden",
+      "new-orleans",
+      "oaks"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-louisiana-new-orleans-museum-of-art",
+    "slug": "new-orleans-museum-of-art",
+    "region": "us-louisiana",
+    "country": "usa",
+    "region_name_vi": "Louisiana",
+    "name_vi": "Bảo tàng Nghệ thuật New Orleans",
+    "name_en": "New Orleans Museum of Art",
+    "name_local": "",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 29.9868,
+      "lon": -90.0936
+    },
+    "address_vi": "1 Collins Diboll Circle, City Park, thành phố New Orleans, bang Louisiana",
+    "presentation_short_vi": "Bảo tàng nghệ thuật lâu đời nhất New Orleans (1911) nằm trong City Park, nổi bật với vườn điêu khắc Besthoff trưng bày ngoài trời giữa những cây sồi.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=29.9868,-90.0936",
+      "yandex": "https://yandex.com/maps/?pt=-90.0936,29.9868&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "art",
+      "new-orleans",
+      "sculpture-garden"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-louisiana-mardi-gras-world",
+    "slug": "mardi-gras-world",
+    "region": "us-louisiana",
+    "country": "usa",
+    "region_name_vi": "Louisiana",
+    "name_vi": "Mardi Gras World",
+    "name_en": "Blaine Kern's Mardi Gras World",
+    "name_local": "",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 29.942,
+      "lon": -90.064
+    },
+    "address_vi": "1380 Port of New Orleans Place, thành phố New Orleans, bang Louisiana",
+    "presentation_short_vi": "Xưởng chế tác và trưng bày những chiếc xe diễu hành khổng lồ của lễ hội Mardi Gras; điểm tham quan hé lộ hậu trường lễ hội nổi tiếng nhất New Orleans.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=29.942,-90.064",
+      "yandex": "https://yandex.com/maps/?pt=-90.064,29.942&z=16&l=map"
+    },
+    "tags": [
+      "attraction",
+      "mardi-gras",
+      "new-orleans",
+      "floats"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-louisiana-audubon-park",
+    "slug": "audubon-park",
+    "region": "us-louisiana",
+    "country": "usa",
+    "region_name_vi": "Louisiana",
+    "name_vi": "Công viên Audubon (Audubon Park)",
+    "name_en": "Audubon Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 29.9227,
+      "lon": -90.1287
+    },
+    "address_vi": "6500 Magazine Street, thành phố New Orleans, bang Louisiana",
+    "presentation_short_vi": "Công viên xanh mát dọc sông Mississippi ở khu Uptown với đường chạy bộ dưới tán sồi và vườn thú Audubon Zoo nổi tiếng, do John Charles Olmsted thiết kế cảnh quan.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=29.9227,-90.1287",
+      "yandex": "https://yandex.com/maps/?pt=-90.1287,29.9227&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "garden",
+      "new-orleans",
+      "zoo",
+      "uptown"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-louisiana-poverty-point",
+    "slug": "poverty-point",
+    "region": "us-louisiana",
+    "country": "usa",
+    "region_name_vi": "Louisiana",
+    "name_vi": "Di chỉ Poverty Point",
+    "name_en": "Poverty Point",
+    "name_local": "",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 32.6367,
+      "lon": -91.4114
+    },
+    "address_vi": "6859 Highway 577, Pioneer, hạt West Carroll, bang Louisiana",
+    "presentation_short_vi": "Di chỉ khảo cổ với hệ thống gò đất và bờ đắp bán nguyệt do người bản địa dựng cách đây hơn 3.000 năm; Di sản Thế giới UNESCO của Louisiana.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=32.6367,-91.4114",
+      "yandex": "https://yandex.com/maps/?pt=-91.4114,32.6367&z=16&l=map"
+    },
+    "tags": [
+      "unesco",
+      "archaeology",
+      "monument",
+      "native-american"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

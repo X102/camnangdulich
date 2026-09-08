@@ -1,0 +1,423 @@
+[
+  {
+    "id": "be-ghent-lau-dai-ba-tuoc-gravensteen",
+    "slug": "lau-dai-ba-tuoc-gravensteen",
+    "region": "be-ghent",
+    "country": "belgium",
+    "region_name_vi": "Gent (Ghent)",
+    "name_vi": "Lâu đài Bá tước (Gravensteen)",
+    "name_en": "Castle of the Counts",
+    "name_local": "Gravensteen",
+    "categories": [
+      "fortress",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 51.0574,
+      "lon": 3.7208
+    },
+    "address_vi": "Sint-Veerleplein 11, Gent",
+    "presentation_short_vi": "Pháo đài đá thời trung cổ có hào nước do Bá tước xứ Flanders xây năm 1180, nay mở cửa cho khách leo tường thành ngắm toàn cảnh phố cổ Gent.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.0574,3.7208",
+      "yandex": "https://yandex.com/maps/?pt=3.7208,51.0574&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "castle",
+      "medieval",
+      "landmark",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "be-ghent-thanh-duong-thanh-bavo",
+    "slug": "thanh-duong-thanh-bavo",
+    "region": "be-ghent",
+    "country": "belgium",
+    "region_name_vi": "Gent (Ghent)",
+    "name_vi": "Thánh đường Thánh Bavo",
+    "name_en": "St Bavo's Cathedral",
+    "name_local": "Sint-Baafskathedraal",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 51.0525,
+      "lon": 3.7273
+    },
+    "address_vi": "Sint-Baafsplein, Gent",
+    "presentation_short_vi": "Thánh đường Gothic lưu giữ kiệt tác 'Thờ phượng Chiên Con thần bí' của anh em Van Eyck (1432), một trong những tác phẩm quan trọng nhất lịch sử hội họa.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.0525,3.7273",
+      "yandex": "https://yandex.com/maps/?pt=3.7273,51.0525&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "church",
+      "gothic",
+      "art",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "be-ghent-thap-chuong-belfort",
+    "slug": "thap-chuong-belfort",
+    "region": "be-ghent",
+    "country": "belgium",
+    "region_name_vi": "Gent (Ghent)",
+    "name_vi": "Tháp chuông Belfort",
+    "name_en": "Belfry of Ghent",
+    "name_local": "Belfort van Gent",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 51.0536,
+      "lon": 3.7247
+    },
+    "address_vi": "Sint-Baafsplein, Gent",
+    "presentation_short_vi": "Tháp chuông cao 91 m từ thế kỷ 14, Di sản Thế giới UNESCO, có thang máy lên đài quan sát và bộ chuông ngân vang biểu tượng cho quyền tự trị của thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.0536,3.7247",
+      "yandex": "https://yandex.com/maps/?pt=3.7247,51.0536&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "unesco",
+      "tower",
+      "viewpoint",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "be-ghent-nha-tho-thanh-nicholas",
+    "slug": "nha-tho-thanh-nicholas",
+    "region": "be-ghent",
+    "country": "belgium",
+    "region_name_vi": "Gent (Ghent)",
+    "name_vi": "Nhà thờ Thánh Nicholas",
+    "name_en": "Saint Nicholas' Church",
+    "name_local": "Sint-Niklaaskerk",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 51.0544,
+      "lon": 3.7217
+    },
+    "address_vi": "Cataloniëstraat, Gent",
+    "presentation_short_vi": "Nhà thờ theo phong cách Gothic Scheldt bằng đá xanh Tournai từ thế kỷ 13, một trong những công trình lâu đời và dễ nhận biết nhất trên trục tháp cổ của Gent.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.0544,3.7217",
+      "yandex": "https://yandex.com/maps/?pt=3.7217,51.0544&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "gothic",
+      "historic",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "be-ghent-ben-kenh-graslei-korenlei",
+    "slug": "ben-kenh-graslei-korenlei",
+    "region": "be-ghent",
+    "country": "belgium",
+    "region_name_vi": "Gent (Ghent)",
+    "name_vi": "Bến kênh Graslei và Korenlei",
+    "name_en": "Graslei and Korenlei",
+    "name_local": "Graslei en Korenlei",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 51.0559,
+      "lon": 3.7196
+    },
+    "address_vi": "Graslei, Gent",
+    "presentation_short_vi": "Hai bến cảng cổ hai bên sông Leie với dãy nhà phường hội thời trung cổ tuyệt đẹp, nơi tụ họp và ngắm hoàng hôn nổi tiếng nhất Gent.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.0559,3.7196",
+      "yandex": "https://yandex.com/maps/?pt=3.7196,51.0559&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "canal",
+      "scenic",
+      "historic",
+      "central"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "be-ghent-toa-thi-chinh",
+    "slug": "toa-thi-chinh",
+    "region": "be-ghent",
+    "country": "belgium",
+    "region_name_vi": "Gent (Ghent)",
+    "name_vi": "Tòa Thị chính Gent",
+    "name_en": "Ghent City Hall",
+    "name_local": "Stadhuis van Gent",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 51.0548,
+      "lon": 3.7238
+    },
+    "address_vi": "Botermarkt 1, Gent",
+    "presentation_short_vi": "Tòa thị chính pha trộn hai phong cách Gothic hoa mỹ và Phục hưng, phản ánh nhiều thế kỷ xây dựng; bên trong có phòng nơi ký Hòa ước Ghent năm 1576.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.0548,3.7238",
+      "yandex": "https://yandex.com/maps/?pt=3.7238,51.0548&z=16&l=map"
+    },
+    "tags": [
+      "monument",
+      "gothic",
+      "renaissance",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "be-ghent-bao-tang-thanh-pho-stam",
+    "slug": "bao-tang-thanh-pho-stam",
+    "region": "be-ghent",
+    "country": "belgium",
+    "region_name_vi": "Gent (Ghent)",
+    "name_vi": "Bảo tàng Thành phố Gent (STAM)",
+    "name_en": "STAM – Ghent City Museum",
+    "name_local": "STAM Stadsmuseum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 51.0378,
+      "lon": 3.7233
+    },
+    "address_vi": "Godshuizenlaan 2, Gent",
+    "presentation_short_vi": "Bảo tàng đặt trong tu viện Bijloke cổ, kể lại lịch sử Gent qua bản đồ, mô hình và một bức ảnh hàng không khổng lồ trải dưới sàn kính.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.0378,3.7233",
+      "yandex": "https://yandex.com/maps/?pt=3.7233,51.0378&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "history",
+      "family",
+      "culture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "be-ghent-bao-tang-my-thuat",
+    "slug": "bao-tang-my-thuat",
+    "region": "be-ghent",
+    "country": "belgium",
+    "region_name_vi": "Gent (Ghent)",
+    "name_vi": "Bảo tàng Mỹ thuật Gent",
+    "name_en": "Museum of Fine Arts (MSK)",
+    "name_local": "Museum voor Schone Kunsten",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 51.0356,
+      "lon": 3.7259
+    },
+    "address_vi": "Fernand Scribedreef 1, Citadelpark, Gent",
+    "presentation_short_vi": "Bảo tàng mỹ thuật lâu đời trưng bày tác phẩm từ thời Trung cổ đến thế kỷ 20, gồm cả Hieronymus Bosch, James Ensor và các bậc thầy Flanders.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.0356,3.7259",
+      "yandex": "https://yandex.com/maps/?pt=3.7259,51.0356&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "art",
+      "classic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "be-ghent-bao-tang-nghe-thuat-duong-dai",
+    "slug": "bao-tang-nghe-thuat-duong-dai",
+    "region": "be-ghent",
+    "country": "belgium",
+    "region_name_vi": "Gent (Ghent)",
+    "name_vi": "Bảo tàng Nghệ thuật Đương đại (S.M.A.K.)",
+    "name_en": "Museum of Contemporary Art (S.M.A.K.)",
+    "name_local": "S.M.A.K.",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 51.0361,
+      "lon": 3.7222
+    },
+    "address_vi": "Jan Hoetplein 1, Citadelpark, Gent",
+    "presentation_short_vi": "Bảo tàng nghệ thuật đương đại hàng đầu Bỉ với các tác phẩm của Bacon, Broodthaers, Nauman cùng những triển lãm thử nghiệm luôn thay đổi.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.0361,3.7222",
+      "yandex": "https://yandex.com/maps/?pt=3.7222,51.0361&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "modern",
+      "contemporary",
+      "art"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "be-ghent-bao-tang-thiet-ke",
+    "slug": "bao-tang-thiet-ke",
+    "region": "be-ghent",
+    "country": "belgium",
+    "region_name_vi": "Gent (Ghent)",
+    "name_vi": "Bảo tàng Thiết kế Gent",
+    "name_en": "Design Museum Gent",
+    "name_local": "Design Museum Gent",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 51.0566,
+      "lon": 3.7202
+    },
+    "address_vi": "Jan Breydelstraat 5, Gent",
+    "presentation_short_vi": "Bảo tàng thiết kế kết hợp dinh thự cổ và cánh mới hiện đại, trưng bày nội thất Art Nouveau, Art Deco và thiết kế đương đại quốc tế.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.0566,3.7202",
+      "yandex": "https://yandex.com/maps/?pt=3.7202,51.0566&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "design",
+      "modern"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "be-ghent-quang-truong-vrijdagmarkt",
+    "slug": "quang-truong-vrijdagmarkt",
+    "region": "be-ghent",
+    "country": "belgium",
+    "region_name_vi": "Gent (Ghent)",
+    "name_vi": "Quảng trường Chợ Thứ Sáu",
+    "name_en": "Friday Market Square",
+    "name_local": "Vrijdagmarkt",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 51.0568,
+      "lon": 3.7266
+    },
+    "address_vi": "Vrijdagmarkt, Gent",
+    "presentation_short_vi": "Quảng trường lịch sử sầm uất là nơi họp chợ và tụ họp chính trị suốt nhiều thế kỷ, nay vây quanh bởi quán ăn, quán bia và tượng Jacob van Artevelde.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.0568,3.7266",
+      "yandex": "https://yandex.com/maps/?pt=3.7266,51.0568&z=16&l=map"
+    },
+    "tags": [
+      "square",
+      "central",
+      "historic",
+      "market"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "be-ghent-tu-vien-thanh-peter",
+    "slug": "tu-vien-thanh-peter",
+    "region": "be-ghent",
+    "country": "belgium",
+    "region_name_vi": "Gent (Ghent)",
+    "name_vi": "Tu viện Thánh Peter",
+    "name_en": "St Peter's Abbey",
+    "name_local": "Sint-Pietersabdij",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 51.0409,
+      "lon": 3.7269
+    },
+    "address_vi": "Sint-Pietersplein 9, Gent",
+    "presentation_short_vi": "Tu viện Biển Đức cổ với nhà thờ mái vòm kiểu Baroque, vườn nho và khu trưng bày lịch sử; sân trước là nơi tổ chức lễ hội và hội chợ của Gent.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.0409,3.7269",
+      "yandex": "https://yandex.com/maps/?pt=3.7269,51.0409&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "abbey",
+      "baroque",
+      "garden",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "be-ghent-cong-vien-citadelpark",
+    "slug": "cong-vien-citadelpark",
+    "region": "be-ghent",
+    "country": "belgium",
+    "region_name_vi": "Gent (Ghent)",
+    "name_vi": "Công viên Citadelpark",
+    "name_en": "Citadel Park",
+    "name_local": "Citadelpark",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 51.0361,
+      "lon": 3.7228
+    },
+    "address_vi": "Citadelpark, Gent",
+    "presentation_short_vi": "Công viên thành phố lớn hình thành trên nền pháo đài thế kỷ 19, với hồ nước, hang nhân tạo, thác nhỏ và là nơi tọa lạc của các bảo tàng MSK và S.M.A.K.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.0361,3.7228",
+      "yandex": "https://yandex.com/maps/?pt=3.7228,51.0361&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "garden",
+      "nature",
+      "central"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

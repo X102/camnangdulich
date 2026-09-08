@@ -1,0 +1,378 @@
+[
+  {
+    "id": "ca-yukon-ss-klondike",
+    "slug": "ss-klondike",
+    "region": "ca-yukon",
+    "region_name_vi": "Yukon",
+    "country": "canada",
+    "name_vi": "Tàu hơi nước SS Klondike",
+    "name_en": "SS Klondike",
+    "name_local": "",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 60.7133,
+      "lon": -135.0475
+    },
+    "address_vi": "Whitehorse",
+    "presentation_short_vi": "Tàu bánh guồng chở hàng lớn trên sông Yukon, nay là di tích lịch sử quốc gia neo bên bờ Whitehorse.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-135.0475,60.7133&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=60.7133,-135.0475"
+    },
+    "tags": [
+      "museum",
+      "historic",
+      "riverboat",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-yukon-miles-canyon",
+    "slug": "miles-canyon",
+    "region": "ca-yukon",
+    "region_name_vi": "Yukon",
+    "country": "canada",
+    "name_vi": "Hẻm núi Miles",
+    "name_en": "Miles Canyon",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 60.6839,
+      "lon": -135.0433
+    },
+    "address_vi": "Whitehorse",
+    "presentation_short_vi": "Hẻm đá bazan vách dựng đứng ôm dòng Yukon xanh ngọc, có cầu treo bắc qua ngay ngoại ô Whitehorse.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-135.0433,60.6839&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=60.6839,-135.0433"
+    },
+    "tags": [
+      "nature",
+      "canyon",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-yukon-kluane-national-park",
+    "slug": "kluane-national-park",
+    "region": "ca-yukon",
+    "region_name_vi": "Yukon",
+    "country": "canada",
+    "name_vi": "Vườn quốc gia Kluane",
+    "name_en": "Kluane National Park and Reserve",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 60.6194,
+      "lon": -138.331
+    },
+    "address_vi": "Haines Junction",
+    "presentation_short_vi": "Di sản UNESCO chứa núi Logan – đỉnh cao nhất Canada (5.959 m) – cùng những sông băng lớn nhất ngoài vùng cực.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-138.331,60.6194&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=60.6194,-138.331"
+    },
+    "tags": [
+      "park",
+      "unesco",
+      "mountain",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-yukon-dawson-city",
+    "slug": "dawson-city",
+    "region": "ca-yukon",
+    "region_name_vi": "Yukon",
+    "country": "canada",
+    "name_vi": "Thị trấn Dawson",
+    "name_en": "Dawson City",
+    "name_local": "",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 64.06,
+      "lon": -139.4319
+    },
+    "address_vi": "Dawson City",
+    "presentation_short_vi": "Thị trấn di sản của Cơn sốt vàng Klondike với phố gỗ, sòng bạc và nhà hát còn giữ nét năm 1898.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-139.4319,64.06&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=64.06,-139.4319"
+    },
+    "tags": [
+      "historic",
+      "goldrush",
+      "heritage",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-yukon-tombstone-territorial-park",
+    "slug": "tombstone-territorial-park",
+    "region": "ca-yukon",
+    "region_name_vi": "Yukon",
+    "country": "canada",
+    "name_vi": "Công viên lãnh thổ Tombstone",
+    "name_en": "Tombstone Territorial Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 64.0829,
+      "lon": -138.5109
+    },
+    "address_vi": "Đường Dempster",
+    "presentation_short_vi": "Vùng núi granite đen nhọn, lãnh nguyên và tuần lộc, được ví như \"Patagonia của phương Bắc\".",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-138.5109,64.0829&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=64.0829,-138.5109"
+    },
+    "tags": [
+      "park",
+      "mountain",
+      "tundra",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-yukon-sign-post-forest",
+    "slug": "sign-post-forest",
+    "region": "ca-yukon",
+    "region_name_vi": "Yukon",
+    "country": "canada",
+    "name_vi": "Rừng biển báo Watson Lake",
+    "name_en": "Sign Post Forest",
+    "name_local": "",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 60.0636,
+      "lon": -128.7106
+    },
+    "address_vi": "Watson Lake",
+    "presentation_short_vi": "\"Khu rừng\" hơn 100.000 tấm biển do du khách khắp thế giới treo lên, khởi nguồn từ năm 1942 dọc đường cao tốc Alaska.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-128.7106,60.0636&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=60.0636,-128.7106"
+    },
+    "tags": [
+      "landmark",
+      "quirky",
+      "roadside"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-yukon-emerald-lake",
+    "slug": "emerald-lake",
+    "region": "ca-yukon",
+    "region_name_vi": "Yukon",
+    "country": "canada",
+    "name_vi": "Hồ Emerald (Hồ Ngọc Lục Bảo)",
+    "name_en": "Emerald Lake",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 60.2663,
+      "lon": -134.7507
+    },
+    "address_vi": "Đường South Klondike, gần Carcross",
+    "presentation_short_vi": "Hồ nhỏ nổi tiếng với sắc nước xanh ngọc do lớp marl trắng dưới đáy, còn gọi là \"Rainbow Lake\".",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-134.7507,60.2663&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=60.2663,-134.7507"
+    },
+    "tags": [
+      "lake",
+      "scenic",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-yukon-carcross-desert",
+    "slug": "carcross-desert",
+    "region": "ca-yukon",
+    "region_name_vi": "Yukon",
+    "country": "canada",
+    "name_vi": "Sa mạc Carcross",
+    "name_en": "Carcross Desert",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 60.1889,
+      "lon": -134.6975
+    },
+    "address_vi": "Carcross",
+    "presentation_short_vi": "Được gọi là \"sa mạc nhỏ nhất thế giới\" – cồn cát hình thành từ đáy một hồ băng hà cổ.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-134.6975,60.1889&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=60.1889,-134.6975"
+    },
+    "tags": [
+      "desert",
+      "nature",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-yukon-macbride-museum",
+    "slug": "macbride-museum",
+    "region": "ca-yukon",
+    "region_name_vi": "Yukon",
+    "country": "canada",
+    "name_vi": "Bảo tàng Lịch sử Yukon MacBride",
+    "name_en": "MacBride Museum of Yukon History",
+    "name_local": "",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 60.7217,
+      "lon": -135.0506
+    },
+    "address_vi": "Whitehorse",
+    "presentation_short_vi": "Bảo tàng về lịch sử tự nhiên, Cơn sốt vàng và văn hoá Bản địa của Yukon bên bờ sông.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-135.0506,60.7217&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=60.7217,-135.0506"
+    },
+    "tags": [
+      "museum",
+      "history",
+      "culture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-yukon-beringia-centre",
+    "slug": "beringia-centre",
+    "region": "ca-yukon",
+    "region_name_vi": "Yukon",
+    "country": "canada",
+    "name_vi": "Trung tâm Beringia Yukon",
+    "name_en": "Yukon Beringia Interpretive Centre",
+    "name_local": "",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 60.7092,
+      "lon": -135.0731
+    },
+    "address_vi": "Whitehorse",
+    "presentation_short_vi": "Bảo tàng về kỷ Băng Hà – voi ma mút, sư tử hang và vùng đất Beringia thời tiền sử.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-135.0731,60.7092&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=60.7092,-135.0731"
+    },
+    "tags": [
+      "museum",
+      "iceage",
+      "science"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-yukon-dredge-no-4",
+    "slug": "dredge-no-4",
+    "region": "ca-yukon",
+    "region_name_vi": "Yukon",
+    "country": "canada",
+    "name_vi": "Máy đào vàng Dredge No. 4",
+    "name_en": "Dredge No. 4",
+    "name_local": "",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 63.9878,
+      "lon": -139.2664
+    },
+    "address_vi": "Bonanza Creek, Dawson City",
+    "presentation_short_vi": "Cỗ máy nạo vét vàng bằng gỗ lớn nhất Bắc Mỹ, di tích lịch sử quốc gia bên suối Bonanza.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-139.2664,63.9878&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=63.9878,-139.2664"
+    },
+    "tags": [
+      "goldrush",
+      "historic",
+      "monument"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-yukon-five-finger-rapids",
+    "slug": "five-finger-rapids",
+    "region": "ca-yukon",
+    "region_name_vi": "Yukon",
+    "country": "canada",
+    "name_vi": "Ghềnh Five Finger",
+    "name_en": "Five Finger Rapids",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 62.2731,
+      "lon": -136.3639
+    },
+    "address_vi": "Klondike Highway, gần Carmacks",
+    "presentation_short_vi": "Ghềnh sông Yukon với năm cột đá chia dòng thành năm luồng, mốc lịch sử của tàu bánh guồng.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-136.3639,62.2731&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=62.2731,-136.3639"
+    },
+    "tags": [
+      "nature",
+      "river",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

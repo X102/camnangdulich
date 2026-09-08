@@ -1,0 +1,388 @@
+[
+  {
+    "id": "us-hawaii-waikiki-beach",
+    "slug": "waikiki-beach",
+    "region": "us-hawaii",
+    "country": "usa",
+    "region_name_vi": "Hawaii",
+    "name_vi": "Bãi biển Waikiki",
+    "name_en": "Waikiki Beach",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 21.2767,
+      "lon": -157.8267
+    },
+    "address_vi": "Honolulu, đảo Oʻahu, bang Hawaii",
+    "presentation_short_vi": "Bãi biển nổi tiếng nhất Hawaii với hàng dừa, sóng lý tưởng cho lướt ván và tầm nhìn ra núi lửa Diamond Head.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=21.2767,-157.8267",
+      "yandex": "https://yandex.com/maps/?pt=-157.8267,21.2767&z=16&l=map"
+    },
+    "tags": [
+      "beach",
+      "surf",
+      "nature",
+      "honolulu",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-hawaii-pearl-harbor-uss-arizona",
+    "slug": "pearl-harbor-uss-arizona",
+    "region": "us-hawaii",
+    "country": "usa",
+    "region_name_vi": "Hawaii",
+    "name_vi": "Trân Châu Cảng – Đài tưởng niệm USS Arizona",
+    "name_en": "Pearl Harbor – USS Arizona Memorial",
+    "name_local": "",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 21.3649,
+      "lon": -157.95
+    },
+    "address_vi": "Honolulu, đảo Oʻahu, bang Hawaii",
+    "presentation_short_vi": "Đài tưởng niệm nổi trên xác tàu USS Arizona, tưởng nhớ các nạn nhân trong trận tập kích Trân Châu Cảng năm 1941.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=21.3649,-157.95",
+      "yandex": "https://yandex.com/maps/?pt=-157.95,21.3649&z=16&l=map"
+    },
+    "tags": [
+      "memorial",
+      "historic",
+      "wwii",
+      "honolulu"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-hawaii-diamond-head",
+    "slug": "diamond-head",
+    "region": "us-hawaii",
+    "country": "usa",
+    "region_name_vi": "Hawaii",
+    "name_vi": "Núi lửa Diamond Head (Lēʻahi)",
+    "name_en": "Diamond Head",
+    "name_local": "Lēʻahi",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 21.262,
+      "lon": -157.8055
+    },
+    "address_vi": "Honolulu, đảo Oʻahu, bang Hawaii",
+    "presentation_short_vi": "Miệng núi lửa đã tắt hình nón nổi tiếng với đường mòn leo núi dẫn lên đỉnh ngắm toàn cảnh Waikiki và Thái Bình Dương.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=21.262,-157.8055",
+      "yandex": "https://yandex.com/maps/?pt=-157.8055,21.262&z=16&l=map"
+    },
+    "tags": [
+      "volcano",
+      "nature",
+      "hiking",
+      "honolulu"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-hawaii-hawaii-volcanoes-national-park",
+    "slug": "hawaii-volcanoes-national-park",
+    "region": "us-hawaii",
+    "country": "usa",
+    "region_name_vi": "Hawaii",
+    "name_vi": "Vườn quốc gia Núi lửa Hawaii",
+    "name_en": "Hawaiʻi Volcanoes National Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 19.4194,
+      "lon": -155.2885
+    },
+    "address_vi": "Đảo Hawaiʻi (Big Island), bang Hawaii",
+    "presentation_short_vi": "Di sản thế giới UNESCO bao quanh hai núi lửa đang hoạt động Kīlauea và Mauna Loa, nơi có thể quan sát dòng dung nham.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=19.4194,-155.2885",
+      "yandex": "https://yandex.com/maps/?pt=-155.2885,19.4194&z=16&l=map"
+    },
+    "tags": [
+      "national_park",
+      "volcano",
+      "nature",
+      "unesco",
+      "big-island"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-hawaii-haleakala-national-park",
+    "slug": "haleakala-national-park",
+    "region": "us-hawaii",
+    "country": "usa",
+    "region_name_vi": "Hawaii",
+    "name_vi": "Vườn quốc gia Haleakalā",
+    "name_en": "Haleakalā National Park",
+    "name_local": "Haleakalā",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 20.7204,
+      "lon": -156.1552
+    },
+    "address_vi": "Đảo Maui, bang Hawaii",
+    "presentation_short_vi": "Núi lửa khổng lồ cao hơn 3.000 m nổi tiếng với cảnh bình minh trên biển mây và cảnh quan miệng núi lửa như trên Sao Hỏa.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=20.7204,-156.1552",
+      "yandex": "https://yandex.com/maps/?pt=-156.1552,20.7204&z=16&l=map"
+    },
+    "tags": [
+      "national_park",
+      "volcano",
+      "sunrise",
+      "maui"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-hawaii-na-pali-coast",
+    "slug": "na-pali-coast",
+    "region": "us-hawaii",
+    "country": "usa",
+    "region_name_vi": "Hawaii",
+    "name_vi": "Bờ biển Nā Pali",
+    "name_en": "Nā Pali Coast State Park",
+    "name_local": "Nā Pali",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 22.1755,
+      "lon": -159.6436
+    },
+    "address_vi": "Đảo Kauaʻi, bang Hawaii",
+    "presentation_short_vi": "Dải bờ biển hoang sơ với những vách núi xanh dựng đứng cao tới 1.200 m, thác nước và thung lũng, chỉ ngắm được từ thuyền, trực thăng hoặc đường mòn.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=22.1755,-159.6436",
+      "yandex": "https://yandex.com/maps/?pt=-159.6436,22.1755&z=16&l=map"
+    },
+    "tags": [
+      "coast",
+      "cliffs",
+      "nature",
+      "kauai",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-hawaii-iolani-palace",
+    "slug": "iolani-palace",
+    "region": "us-hawaii",
+    "country": "usa",
+    "region_name_vi": "Hawaii",
+    "name_vi": "Cung điện ʻIolani",
+    "name_en": "ʻIolani Palace",
+    "name_local": "ʻIolani Palace",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 21.3069,
+      "lon": -157.8583
+    },
+    "address_vi": "Honolulu, đảo Oʻahu, bang Hawaii",
+    "presentation_short_vi": "Cung điện hoàng gia duy nhất trên đất Mỹ, từng là nơi ở của các vua chúa vương quốc Hawaii cuối thế kỷ 19.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=21.3069,-157.8583",
+      "yandex": "https://yandex.com/maps/?pt=-157.8583,21.3069&z=16&l=map"
+    },
+    "tags": [
+      "palace",
+      "historic",
+      "royal",
+      "honolulu"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-hawaii-waimea-canyon",
+    "slug": "waimea-canyon",
+    "region": "us-hawaii",
+    "country": "usa",
+    "region_name_vi": "Hawaii",
+    "name_vi": "Hẻm núi Waimea",
+    "name_en": "Waimea Canyon State Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 22.0964,
+      "lon": -159.6631
+    },
+    "address_vi": "Đảo Kauaʻi, bang Hawaii",
+    "presentation_short_vi": "Hẻm núi sâu gần 1.000 m được mệnh danh là 'Grand Canyon của Thái Bình Dương' với vách đá đỏ và thác nước ngoạn mục.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=22.0964,-159.6631",
+      "yandex": "https://yandex.com/maps/?pt=-159.6631,22.0964&z=16&l=map"
+    },
+    "tags": [
+      "canyon",
+      "nature",
+      "kauai",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-hawaii-road-to-hana",
+    "slug": "road-to-hana",
+    "region": "us-hawaii",
+    "country": "usa",
+    "region_name_vi": "Hawaii",
+    "name_vi": "Cung đường đến Hāna",
+    "name_en": "Road to Hana (Hāna Highway)",
+    "name_local": "Hāna Highway",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 20.7579,
+      "lon": -155.9906
+    },
+    "address_vi": "Đảo Maui, bang Hawaii",
+    "presentation_short_vi": "Cung đường ven biển quanh co với hơn 600 khúc cua và khoảng 50 cây cầu, đi qua rừng nhiệt đới, thác nước và bãi biển tuyệt đẹp.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=20.7579,-155.9906",
+      "yandex": "https://yandex.com/maps/?pt=-155.9906,20.7579&z=16&l=map"
+    },
+    "tags": [
+      "scenic_drive",
+      "nature",
+      "maui"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-hawaii-mauna-kea",
+    "slug": "mauna-kea",
+    "region": "us-hawaii",
+    "country": "usa",
+    "region_name_vi": "Hawaii",
+    "name_vi": "Đài quan sát Mauna Kea",
+    "name_en": "Mauna Kea Observatories",
+    "name_local": "Mauna Kea",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 19.8207,
+      "lon": -155.4681
+    },
+    "address_vi": "Đảo Hawaiʻi (Big Island), bang Hawaii",
+    "presentation_short_vi": "Đỉnh núi cao nhất Hawaii (4.207 m) là nơi đặt cụm đài thiên văn hàng đầu thế giới, điểm ngắm sao và hoàng hôn tuyệt vời.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=19.8207,-155.4681",
+      "yandex": "https://yandex.com/maps/?pt=-155.4681,19.8207&z=16&l=map"
+    },
+    "tags": [
+      "observatory",
+      "mountain",
+      "stargazing",
+      "big-island"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-hawaii-polynesian-cultural-center",
+    "slug": "polynesian-cultural-center",
+    "region": "us-hawaii",
+    "country": "usa",
+    "region_name_vi": "Hawaii",
+    "name_vi": "Trung tâm Văn hóa Polynesia",
+    "name_en": "Polynesian Cultural Center",
+    "name_local": "",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 21.6403,
+      "lon": -157.921
+    },
+    "address_vi": "Lāʻie, đảo Oʻahu, bang Hawaii",
+    "presentation_short_vi": "Công viên văn hóa tái hiện đời sống của các dân tộc Polynesia qua các làng truyền thống, biểu diễn và ẩm thực đảo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=21.6403,-157.921",
+      "yandex": "https://yandex.com/maps/?pt=-157.921,21.6403&z=16&l=map"
+    },
+    "tags": [
+      "culture",
+      "entertainment",
+      "polynesian",
+      "oahu"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-hawaii-lanikai-beach",
+    "slug": "lanikai-beach",
+    "region": "us-hawaii",
+    "country": "usa",
+    "region_name_vi": "Hawaii",
+    "name_vi": "Bãi biển Lanikai",
+    "name_en": "Lanikai Beach",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 21.3931,
+      "lon": -157.7139
+    },
+    "address_vi": "Kailua, đảo Oʻahu, bang Hawaii",
+    "presentation_short_vi": "Bãi biển cát trắng mịn với làn nước trong xanh nhìn ra hai đảo nhỏ Mokulua, thường được xếp hạng trong nhóm đẹp nhất thế giới.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=21.3931,-157.7139",
+      "yandex": "https://yandex.com/maps/?pt=-157.7139,21.3931&z=16&l=map"
+    },
+    "tags": [
+      "beach",
+      "nature",
+      "kailua",
+      "oahu"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

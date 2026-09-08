@@ -1,0 +1,380 @@
+[
+  {
+    "id": "no-tromso-arctic-cathedral",
+    "slug": "arctic-cathedral",
+    "region": "no-tromso",
+    "country": "norway",
+    "region_name_vi": "Tromsø",
+    "name_vi": "Nhà thờ Bắc Cực",
+    "name_en": "Arctic Cathedral",
+    "name_local": "Ishavskatedralen",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 69.6489,
+      "lon": 18.9895
+    },
+    "address_vi": "Hans Nilsens veg 41, Tromsdalen, Tromsø",
+    "presentation_short_vi": "Nhà thờ hiện đại năm 1965 với mặt tiền hình tam giác gợi tảng băng, biểu tượng kiến trúc của Tromsø và điểm ngắm cực quang.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=69.6489,18.9895",
+      "yandex": "https://yandex.com/maps/?pt=18.9895,69.6489&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "modern",
+      "church",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-tromso-tromso-cathedral",
+    "slug": "tromso-cathedral",
+    "region": "no-tromso",
+    "country": "norway",
+    "region_name_vi": "Tromsø",
+    "name_vi": "Nhà thờ chính toà Tromsø",
+    "name_en": "Tromsø Cathedral",
+    "name_local": "Tromsø domkirke",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 69.6486,
+      "lon": 18.9557
+    },
+    "address_vi": "Storgata 25, trung tâm Tromsø",
+    "presentation_short_vi": "Một trong những nhà thờ gỗ lớn nhất Na Uy, xây theo phong cách tân Gothic năm 1861 ở trung tâm thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=69.6486,18.9557",
+      "yandex": "https://yandex.com/maps/?pt=18.9557,69.6486&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "wooden",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-tromso-fjellheisen",
+    "slug": "fjellheisen",
+    "region": "no-tromso",
+    "country": "norway",
+    "region_name_vi": "Tromsø",
+    "name_vi": "Cáp treo Fjellheisen",
+    "name_en": "Fjellheisen Cable Car",
+    "name_local": "Fjellheisen",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 69.6339,
+      "lon": 19.0086
+    },
+    "address_vi": "Solliveien 12, Tromsdalen, Tromsø",
+    "presentation_short_vi": "Cáp treo đưa du khách lên đài Storsteinen ở độ cao 421 m trong vài phút, điểm ngắm toàn cảnh Tromsø và săn cực quang.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=69.6339,19.0086",
+      "yandex": "https://yandex.com/maps/?pt=19.0086,69.6339&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "viewpoint",
+      "cable-car",
+      "aurora"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-tromso-storsteinen",
+    "slug": "storsteinen",
+    "region": "no-tromso",
+    "country": "norway",
+    "region_name_vi": "Tromsø",
+    "name_vi": "Đài quan sát Storsteinen",
+    "name_en": "Storsteinen Viewpoint",
+    "name_local": "Storsteinen",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 69.6357,
+      "lon": 19.0231
+    },
+    "address_vi": "Núi Storsteinen, Tromsdalen, Tromsø",
+    "presentation_short_vi": "Mỏm đá ở độ cao 421 m trên đỉnh tuyến cáp treo, nơi ngắm thành phố, vịnh hẹp và mặt trời lúc nửa đêm mùa hè.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=69.6357,19.0231",
+      "yandex": "https://yandex.com/maps/?pt=19.0231,69.6357&z=16&l=map"
+    },
+    "tags": [
+      "viewpoint",
+      "nature",
+      "panorama",
+      "aurora"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-tromso-polaria",
+    "slug": "polaria",
+    "region": "no-tromso",
+    "country": "norway",
+    "region_name_vi": "Tromsø",
+    "name_vi": "Trung tâm Polaria",
+    "name_en": "Polaria",
+    "name_local": "Polaria",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 69.647,
+      "lon": 18.9533
+    },
+    "address_vi": "Hjalmar Johansens gate 12, Tromsø",
+    "presentation_short_vi": "Trung tâm trải nghiệm Bắc Cực với thuỷ cung hải cẩu râu và rạp phim toàn cảnh, kiến trúc như những tảng băng xô nghiêng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=69.647,18.9533",
+      "yandex": "https://yandex.com/maps/?pt=18.9533,69.647&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "aquarium",
+      "family",
+      "arctic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-tromso-polar-museum",
+    "slug": "polar-museum",
+    "region": "no-tromso",
+    "country": "norway",
+    "region_name_vi": "Tromsø",
+    "name_vi": "Bảo tàng Địa cực",
+    "name_en": "Polar Museum",
+    "name_local": "Polarmuseet",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 69.6541,
+      "lon": 18.9645
+    },
+    "address_vi": "Søndre Tollbodgate 11B, Tromsø",
+    "presentation_short_vi": "Bảo tàng trong nhà kho hải quan năm 1830, kể về lịch sử săn bắt và thám hiểm địa cực cùng các nhà thám hiểm như Roald Amundsen.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=69.6541,18.9645",
+      "yandex": "https://yandex.com/maps/?pt=18.9645,69.6541&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "history",
+      "exploration"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-tromso-arctic-botanic-garden",
+    "slug": "arctic-botanic-garden",
+    "region": "no-tromso",
+    "country": "norway",
+    "region_name_vi": "Tromsø",
+    "name_vi": "Vườn thực vật Bắc Cực",
+    "name_en": "Arctic-Alpine Botanic Garden",
+    "name_local": "Tromsø arktisk-alpine botaniske hage",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 69.6798,
+      "lon": 18.9629
+    },
+    "address_vi": "Stakkevollvegen, Breivika, Tromsø",
+    "presentation_short_vi": "Vườn thực vật cực bắc thế giới, trưng bày hoa vùng núi cao và Bắc Cực từ khắp nơi, mở cửa tự do quanh năm.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=69.6798,18.9629",
+      "yandex": "https://yandex.com/maps/?pt=18.9629,69.6798&z=16&l=map"
+    },
+    "tags": [
+      "garden",
+      "nature",
+      "botanic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-tromso-tromso-bridge",
+    "slug": "tromso-bridge",
+    "region": "no-tromso",
+    "country": "norway",
+    "region_name_vi": "Tromsø",
+    "name_vi": "Cầu Tromsø",
+    "name_en": "Tromsø Bridge",
+    "name_local": "Tromsøbrua",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 69.6497,
+      "lon": 18.9762
+    },
+    "address_vi": "Nối đảo Tromsøya với Tromsdalen, Tromsø",
+    "presentation_short_vi": "Cầu bê tông dạng dầm hẫng dài 1.036 m khánh thành năm 1960, nối trung tâm đảo với đất liền và Nhà thờ Bắc Cực.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=69.6497,18.9762",
+      "yandex": "https://yandex.com/maps/?pt=18.9762,69.6497&z=16&l=map"
+    },
+    "tags": [
+      "bridge",
+      "landmark",
+      "modern"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-tromso-storgata",
+    "slug": "storgata",
+    "region": "no-tromso",
+    "country": "norway",
+    "region_name_vi": "Tromsø",
+    "name_vi": "Phố Storgata",
+    "name_en": "Storgata (Main Street)",
+    "name_local": "Storgata",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 69.6493,
+      "lon": 18.956
+    },
+    "address_vi": "Storgata, trung tâm Tromsø",
+    "presentation_short_vi": "Phố đi bộ chính của Tromsø với những ngôi nhà gỗ sơn màu thế kỷ 19, cửa hàng, quán cà phê và không khí Bắc Âu ấm cúng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=69.6493,18.956",
+      "yandex": "https://yandex.com/maps/?pt=18.956,69.6493&z=16&l=map"
+    },
+    "tags": [
+      "street",
+      "shopping",
+      "center"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-tromso-telegrafbukta",
+    "slug": "telegrafbukta",
+    "region": "no-tromso",
+    "country": "norway",
+    "region_name_vi": "Tromsø",
+    "name_vi": "Vịnh Telegrafbukta",
+    "name_en": "Telegrafbukta",
+    "name_local": "Telegrafbukta",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 69.6386,
+      "lon": 18.927
+    },
+    "address_vi": "Phía nam đảo Tromsøya, Tromsø",
+    "presentation_short_vi": "Công viên bãi biển ở mũi nam đảo, điểm dã ngoại mùa hè và một trong những nơi ngắm bắc cực quang gần trung tâm được ưa chuộng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=69.6386,18.927",
+      "yandex": "https://yandex.com/maps/?pt=18.927,69.6386&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "beach",
+      "aurora",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-tromso-prestvannet",
+    "slug": "prestvannet",
+    "region": "no-tromso",
+    "country": "norway",
+    "region_name_vi": "Tromsø",
+    "name_vi": "Hồ Prestvannet",
+    "name_en": "Prestvannet Lake",
+    "name_local": "Prestvannet",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 69.665,
+      "lon": 18.942
+    },
+    "address_vi": "Đỉnh đảo Tromsøya, Tromsø",
+    "presentation_short_vi": "Hồ nước và khu bảo tồn chim ở điểm cao của đảo Tromsøya, nơi ngắm cực quang, đi bộ và trượt tuyết băng đồng mùa đông.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=69.665,18.942",
+      "yandex": "https://yandex.com/maps/?pt=18.942,69.665&z=16&l=map"
+    },
+    "tags": [
+      "lake",
+      "nature",
+      "aurora"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-tromso-tromso-university-museum",
+    "slug": "tromso-university-museum",
+    "region": "no-tromso",
+    "country": "norway",
+    "region_name_vi": "Tromsø",
+    "name_vi": "Bảo tàng Đại học Tromsø",
+    "name_en": "Tromsø University Museum",
+    "name_local": "Norges arktiske universitetsmuseum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 69.6352,
+      "lon": 18.9188
+    },
+    "address_vi": "Lars Thørings veg 10, Folkeparken, Tromsø",
+    "presentation_short_vi": "Bảo tàng lâu đời nhất Bắc Na Uy (1872), trưng bày văn hoá Sámi, khảo cổ và hiện tượng bắc cực quang.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=69.6352,18.9188",
+      "yandex": "https://yandex.com/maps/?pt=18.9188,69.6352&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "sami",
+      "history",
+      "aurora"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

@@ -1,0 +1,407 @@
+[
+  {
+    "id": "dk-aarhus-aros",
+    "slug": "aros",
+    "region": "dk-aarhus",
+    "country": "denmark",
+    "region_name_vi": "Aarhus",
+    "name_vi": "Bảo tàng nghệ thuật ARoS",
+    "name_en": "ARoS Aarhus Art Museum",
+    "name_local": "ARoS Aarhus Kunstmuseum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 56.1533,
+      "lon": 10.1996
+    },
+    "address_vi": "Aros Allé 2, Aarhus",
+    "presentation_short_vi": "Bảo tàng nghệ thuật lớn bậc nhất Bắc Âu, nổi tiếng với tác phẩm vòng tròn cầu vồng 'Your Rainbow Panorama' của Olafur Eliasson trên mái.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=56.1533,10.1996",
+      "yandex": "https://yandex.com/maps/?pt=10.1996,56.1533&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "art",
+      "museum",
+      "modern"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "dk-aarhus-den-gamle-by",
+    "slug": "den-gamle-by",
+    "region": "dk-aarhus",
+    "country": "denmark",
+    "region_name_vi": "Aarhus",
+    "name_vi": "Bảo tàng ngoài trời Den Gamle By (Phố Cổ)",
+    "name_en": "Den Gamle By (The Old Town)",
+    "name_local": "Den Gamle By",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 56.158,
+      "lon": 10.1929
+    },
+    "address_vi": "Viborgvej 2, Aarhus",
+    "presentation_short_vi": "Bảo tàng thị trấn lịch sử ngoài trời với hàng chục ngôi nhà cổ được di dời và phục dựng, tái hiện đời sống Đan Mạch qua các thế kỷ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=56.158,10.1929",
+      "yandex": "https://yandex.com/maps/?pt=10.1929,56.158&z=16&l=map"
+    },
+    "tags": [
+      "open-air",
+      "museum",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "dk-aarhus-domkirke",
+    "slug": "domkirke",
+    "region": "dk-aarhus",
+    "country": "denmark",
+    "region_name_vi": "Aarhus",
+    "name_vi": "Nhà thờ chính tòa Aarhus",
+    "name_en": "Aarhus Cathedral",
+    "name_local": "Aarhus Domkirke",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 56.1572,
+      "lon": 10.2107
+    },
+    "address_vi": "Store Torv, Aarhus",
+    "presentation_short_vi": "Nhà thờ dài nhất Đan Mạch (~93 m) khởi dựng thế kỷ 12, nổi bật với bích họa trung cổ và bàn thờ chạm khắc của Bernt Notke.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=56.1572,10.2107",
+      "yandex": "https://yandex.com/maps/?pt=10.2107,56.1572&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "gothic",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "dk-aarhus-moesgaard",
+    "slug": "moesgaard",
+    "region": "dk-aarhus",
+    "country": "denmark",
+    "region_name_vi": "Aarhus",
+    "name_vi": "Bảo tàng Moesgaard",
+    "name_en": "Moesgaard Museum",
+    "name_local": "Moesgaard Museum (MOMU)",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 56.0847,
+      "lon": 10.238
+    },
+    "address_vi": "Moesgård Allé 15, Højbjerg, Aarhus",
+    "presentation_short_vi": "Bảo tàng khảo cổ và dân tộc học với kiến trúc mái cỏ dốc nổi tiếng, trưng bày 'Người Grauballe' xác ướp đầm lầy thời đồ sắt.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=56.0847,10.238",
+      "yandex": "https://yandex.com/maps/?pt=10.238,56.0847&z=16&l=map"
+    },
+    "tags": [
+      "archaeology",
+      "museum",
+      "modern"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "dk-aarhus-marselisborg",
+    "slug": "marselisborg",
+    "region": "dk-aarhus",
+    "country": "denmark",
+    "region_name_vi": "Aarhus",
+    "name_vi": "Cung điện Marselisborg",
+    "name_en": "Marselisborg Palace",
+    "name_local": "Marselisborg Slot",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 56.1308,
+      "lon": 10.2058
+    },
+    "address_vi": "Kongevejen 100, Aarhus",
+    "presentation_short_vi": "Dinh thự mùa hè của hoàng gia Đan Mạch xây năm 1902, với khu vườn cảnh mở cửa cho công chúng khi hoàng gia vắng mặt.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=56.1308,10.2058",
+      "yandex": "https://yandex.com/maps/?pt=10.2058,56.1308&z=16&l=map"
+    },
+    "tags": [
+      "royal",
+      "palace",
+      "garden"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "dk-aarhus-tivoli-friheden",
+    "slug": "tivoli-friheden",
+    "region": "dk-aarhus",
+    "country": "denmark",
+    "region_name_vi": "Aarhus",
+    "name_vi": "Công viên giải trí Tivoli Friheden",
+    "name_en": "Tivoli Friheden",
+    "name_local": "Tivoli Friheden",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 56.1351,
+      "lon": 10.1969
+    },
+    "address_vi": "Skovbrynet 5, Aarhus",
+    "presentation_short_vi": "Công viên giải trí bên rừng Marselisborg với tàu lượn, trò chơi và hòa nhạc mùa hè — điểm vui chơi gia đình quen thuộc của thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=56.1351,10.1969",
+      "yandex": "https://yandex.com/maps/?pt=10.1969,56.1351&z=16&l=map"
+    },
+    "tags": [
+      "amusement-park",
+      "family",
+      "modern"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "dk-aarhus-dokk1",
+    "slug": "dokk1",
+    "region": "dk-aarhus",
+    "country": "denmark",
+    "region_name_vi": "Aarhus",
+    "name_vi": "Thư viện Dokk1",
+    "name_en": "Dokk1",
+    "name_local": "Dokk1",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 56.1521,
+      "lon": 10.2141
+    },
+    "address_vi": "Hack Kampmanns Plads 2, Aarhus",
+    "presentation_short_vi": "Thư viện công cộng và không gian văn hóa hiện đại lớn nhất Bắc Âu bên bến cảng, biểu tượng kiến trúc mới của Aarhus.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=56.1521,10.2141",
+      "yandex": "https://yandex.com/maps/?pt=10.2141,56.1521&z=16&l=map"
+    },
+    "tags": [
+      "library",
+      "modern",
+      "waterfront"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "dk-aarhus-infinite-bridge",
+    "slug": "infinite-bridge",
+    "region": "dk-aarhus",
+    "country": "denmark",
+    "region_name_vi": "Aarhus",
+    "name_vi": "Cầu Vô Cực (Den Uendelige Bro)",
+    "name_en": "The Infinite Bridge",
+    "name_local": "Den Uendelige Bro",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 56.118,
+      "lon": 10.235
+    },
+    "address_vi": "Bãi biển Ballehage, Varna, Aarhus",
+    "presentation_short_vi": "Cây cầu đi bộ hình tròn nhô ra biển tại vịnh Aarhus, tác phẩm nghệ thuật công cộng nổi tiếng (mở theo mùa) tạo khung ngắm biển và thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=56.118,10.235",
+      "yandex": "https://yandex.com/maps/?pt=10.235,56.118&z=16&l=map"
+    },
+    "tags": [
+      "art",
+      "bridge",
+      "seaside",
+      "modern"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "dk-aarhus-radhus",
+    "slug": "radhus",
+    "region": "dk-aarhus",
+    "country": "denmark",
+    "region_name_vi": "Aarhus",
+    "name_vi": "Tòa thị chính Aarhus",
+    "name_en": "Aarhus City Hall",
+    "name_local": "Aarhus Rådhus",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 56.1497,
+      "lon": 10.2033
+    },
+    "address_vi": "Rådhuspladsen 2, Aarhus",
+    "presentation_short_vi": "Tòa thị chính theo phong cách hiện đại chức năng do Arne Jacobsen thiết kế (1941), ốp cẩm thạch với tháp đồng hồ đặc trưng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=56.1497,10.2033",
+      "yandex": "https://yandex.com/maps/?pt=10.2033,56.1497&z=16&l=map"
+    },
+    "tags": [
+      "architecture",
+      "modern",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "dk-aarhus-vor-frue-kirke",
+    "slug": "vor-frue-kirke",
+    "region": "dk-aarhus",
+    "country": "denmark",
+    "region_name_vi": "Aarhus",
+    "name_vi": "Nhà thờ Đức Bà (Vor Frue Kirke)",
+    "name_en": "Church of Our Lady",
+    "name_local": "Vor Frue Kirke",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 56.1585,
+      "lon": 10.2044
+    },
+    "address_vi": "Vestergade 21, Aarhus",
+    "presentation_short_vi": "Quần thể nhà thờ có hầm mộ (crypt) từ thế kỷ 11 — không gian nhà thờ đá cổ nhất Scandinavia còn được bảo tồn bên dưới công trình hiện tại.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=56.1585,10.2044",
+      "yandex": "https://yandex.com/maps/?pt=10.2044,56.1585&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "crypt",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "dk-aarhus-botanisk-have",
+    "slug": "botanisk-have",
+    "region": "dk-aarhus",
+    "country": "denmark",
+    "region_name_vi": "Aarhus",
+    "name_vi": "Vườn bách thảo Aarhus",
+    "name_en": "Aarhus Botanical Gardens",
+    "name_local": "Botanisk Have",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 56.1607,
+      "lon": 10.1893
+    },
+    "address_vi": "Peter Holms Vej, Aarhus",
+    "presentation_short_vi": "Vườn bách thảo bên Den Gamle By với các khu vườn theo chủ đề và nhà kính nhiệt đới hình vòm kính hiện đại.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=56.1607,10.1893",
+      "yandex": "https://yandex.com/maps/?pt=10.1893,56.1607&z=16&l=map"
+    },
+    "tags": [
+      "garden",
+      "greenhouse",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "dk-aarhus-latinerkvarteret",
+    "slug": "latinerkvarteret",
+    "region": "dk-aarhus",
+    "country": "denmark",
+    "region_name_vi": "Aarhus",
+    "name_vi": "Khu phố Latinh (Latinerkvarteret)",
+    "name_en": "The Latin Quarter",
+    "name_local": "Latinerkvarteret",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 56.1583,
+      "lon": 10.2079
+    },
+    "address_vi": "Latinerkvarteret, trung tâm Aarhus",
+    "presentation_short_vi": "Khu phố cổ nhất thành phố với những con đường hẹp lát đá, nhà cổ đầy màu sắc, quán cà phê và cửa hàng thủ công.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=56.1583,10.2079",
+      "yandex": "https://yandex.com/maps/?pt=10.2079,56.1583&z=16&l=map"
+    },
+    "tags": [
+      "old-town",
+      "shopping",
+      "walking"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "dk-aarhus-marselisborg-skov",
+    "slug": "marselisborg-skov",
+    "region": "dk-aarhus",
+    "country": "denmark",
+    "region_name_vi": "Aarhus",
+    "name_vi": "Rừng & Công viên Hươu Marselisborg",
+    "name_en": "Marselisborg Deer Park",
+    "name_local": "Marselisborg Dyrehave",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 56.123,
+      "lon": 10.22
+    },
+    "address_vi": "Ørneredevej, Aarhus",
+    "presentation_short_vi": "Khu rừng ven biển phía nam thành phố với công viên hươu thả rông, đường mòn đi bộ và tầm nhìn ra vịnh Aarhus.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=56.123,10.22",
+      "yandex": "https://yandex.com/maps/?pt=10.22,56.123&z=16&l=map"
+    },
+    "tags": [
+      "forest",
+      "nature",
+      "deer-park"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  }
+]

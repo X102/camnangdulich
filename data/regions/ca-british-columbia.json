@@ -1,0 +1,378 @@
+[
+  {
+    "id": "ca-british-columbia-capilano-suspension-bridge",
+    "slug": "capilano-suspension-bridge",
+    "region": "ca-british-columbia",
+    "region_name_vi": "British Columbia",
+    "country": "canada",
+    "name_vi": "Cầu treo Capilano",
+    "name_en": "Capilano Suspension Bridge",
+    "name_local": "",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 49.3427,
+      "lon": -123.1149
+    },
+    "address_vi": "Bắc Vancouver, British Columbia",
+    "presentation_short_vi": "Cầu treo dài 137 m bắc qua hẻm núi sông Capilano ở độ cao 70 m giữa rừng, kèm lối đi trên ngọn cây và vách đá đầy hồi hộp.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-123.1149,49.3427&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=49.3427,-123.1149"
+    },
+    "tags": [
+      "bridge",
+      "nature",
+      "adventure",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-british-columbia-canada-place",
+    "slug": "canada-place",
+    "region": "ca-british-columbia",
+    "region_name_vi": "British Columbia",
+    "country": "canada",
+    "name_vi": "Canada Place",
+    "name_en": "Canada Place",
+    "name_local": "",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 49.2884,
+      "lon": -123.1114
+    },
+    "address_vi": "Vancouver, British Columbia",
+    "presentation_short_vi": "Công trình bên cảng Vancouver với mái buồm trắng đặc trưng, là trung tâm hội nghị, bến tàu du lịch và điểm ngắm cảnh vịnh Burrard.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-123.1114,49.2884&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=49.2884,-123.1114"
+    },
+    "tags": [
+      "modern",
+      "landmark",
+      "waterfront"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-british-columbia-vancouver-lookout",
+    "slug": "vancouver-lookout",
+    "region": "ca-british-columbia",
+    "region_name_vi": "British Columbia",
+    "country": "canada",
+    "name_vi": "Đài quan sát Vancouver Lookout",
+    "name_en": "Vancouver Lookout",
+    "name_local": "",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 49.2847,
+      "lon": -123.1119
+    },
+    "address_vi": "Vancouver, British Columbia",
+    "presentation_short_vi": "Đài quan sát trên tòa Harbour Centre với thang máy kính, cho tầm nhìn 360 độ bao quát trung tâm Vancouver, núi và biển.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-123.1119,49.2847&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=49.2847,-123.1119"
+    },
+    "tags": [
+      "modern",
+      "observation",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-british-columbia-science-world",
+    "slug": "science-world",
+    "region": "ca-british-columbia",
+    "region_name_vi": "British Columbia",
+    "country": "canada",
+    "name_vi": "Trung tâm Khoa học Science World",
+    "name_en": "Science World",
+    "name_local": "",
+    "categories": [
+      "museum",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 49.2733,
+      "lon": -123.1036
+    },
+    "address_vi": "Vancouver, British Columbia",
+    "presentation_short_vi": "Trung tâm khoa học tương tác nằm trong mái vòm trắc địa sáng đèn bên vịnh False Creek, biểu tượng dễ nhận biết của Vancouver.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-123.1036,49.2733&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=49.2733,-123.1036"
+    },
+    "tags": [
+      "modern",
+      "museum",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-british-columbia-stanley-park",
+    "slug": "stanley-park",
+    "region": "ca-british-columbia",
+    "region_name_vi": "British Columbia",
+    "country": "canada",
+    "name_vi": "Công viên Stanley",
+    "name_en": "Stanley Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 49.3017,
+      "lon": -123.1417
+    },
+    "address_vi": "Vancouver, British Columbia",
+    "presentation_short_vi": "Công viên đô thị rộng hơn 400 ha bao quanh bởi lối đi biển (seawall), với rừng cổ thụ, cột totem và tầm nhìn ra vịnh và núi.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-123.1417,49.3017&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=49.3017,-123.1417"
+    },
+    "tags": [
+      "park",
+      "nature",
+      "seawall",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-british-columbia-grouse-mountain",
+    "slug": "grouse-mountain",
+    "region": "ca-british-columbia",
+    "region_name_vi": "British Columbia",
+    "country": "canada",
+    "name_vi": "Núi Grouse",
+    "name_en": "Grouse Mountain",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 49.3801,
+      "lon": -123.0806
+    },
+    "address_vi": "Bắc Vancouver, British Columbia",
+    "presentation_short_vi": "Núi cao ngay ngoại ô Vancouver với cáp treo, đường mòn 'Grouse Grind', trượt tuyết mùa đông và tầm nhìn toàn thành phố.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-123.0806,49.3801&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=49.3801,-123.0806"
+    },
+    "tags": [
+      "mountain",
+      "nature",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-british-columbia-fairmont-empress",
+    "slug": "fairmont-empress",
+    "region": "ca-british-columbia",
+    "region_name_vi": "British Columbia",
+    "country": "canada",
+    "name_vi": "Khách sạn Fairmont Empress",
+    "name_en": "Fairmont Empress",
+    "name_local": "",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 48.4214,
+      "lon": -123.3656
+    },
+    "address_vi": "Victoria, British Columbia",
+    "presentation_short_vi": "Khách sạn cổ điển kiểu château bên cảng Victoria, khai trương năm 1908, nổi tiếng với truyền thống dùng trà chiều kiểu Anh.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-123.3656,48.4214&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=48.4214,-123.3656"
+    },
+    "tags": [
+      "historic",
+      "hotel",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-british-columbia-bc-parliament-buildings",
+    "slug": "bc-parliament-buildings",
+    "region": "ca-british-columbia",
+    "region_name_vi": "British Columbia",
+    "country": "canada",
+    "name_vi": "Tòa nhà Nghị viện British Columbia",
+    "name_en": "British Columbia Parliament Buildings",
+    "name_local": "",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 48.4197,
+      "lon": -123.3703
+    },
+    "address_vi": "Victoria, British Columbia",
+    "presentation_short_vi": "Quần thể tòa nhà nghị viện tiểu bang cuối thế kỷ 19 bên cảng Victoria, lung linh ánh đèn về đêm, mở cửa cho khách tham quan.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-123.3703,48.4197&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=48.4197,-123.3703"
+    },
+    "tags": [
+      "landmark",
+      "government",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-british-columbia-craigdarroch-castle",
+    "slug": "craigdarroch-castle",
+    "region": "ca-british-columbia",
+    "region_name_vi": "British Columbia",
+    "country": "canada",
+    "name_vi": "Lâu đài Craigdarroch",
+    "name_en": "Craigdarroch Castle",
+    "name_local": "",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 48.4253,
+      "lon": -123.3419
+    },
+    "address_vi": "Victoria, British Columbia",
+    "presentation_short_vi": "Dinh thự đá kiểu 'lâu đài' thời Victoria do một ông trùm than đá xây dựng ở Victoria, với nội thất gỗ, kính màu và tháp ngắm cảnh.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-123.3419,48.4253&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=48.4253,-123.3419"
+    },
+    "tags": [
+      "castle",
+      "historic",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-british-columbia-royal-bc-museum",
+    "slug": "royal-bc-museum",
+    "region": "ca-british-columbia",
+    "region_name_vi": "British Columbia",
+    "country": "canada",
+    "name_vi": "Bảo tàng Hoàng gia BC",
+    "name_en": "Royal BC Museum",
+    "name_local": "",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 48.4198,
+      "lon": -123.3672
+    },
+    "address_vi": "Victoria, British Columbia",
+    "presentation_short_vi": "Bảo tàng lịch sử tự nhiên và văn hóa hàng đầu của tỉnh, nổi tiếng với bộ sưu tập nghệ thuật thổ dân First Nations và các phục dựng sống động.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-123.3672,48.4198&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=48.4198,-123.3672"
+    },
+    "tags": [
+      "museum",
+      "history",
+      "culture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-british-columbia-butchart-gardens",
+    "slug": "butchart-gardens",
+    "region": "ca-british-columbia",
+    "region_name_vi": "British Columbia",
+    "country": "canada",
+    "name_vi": "Vườn Butchart",
+    "name_en": "The Butchart Gardens",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 48.5636,
+      "lon": -123.4689
+    },
+    "address_vi": "Central Saanich, British Columbia",
+    "presentation_short_vi": "Vườn cảnh nổi tiếng thế giới rộng khoảng 22 ha cải tạo từ mỏ đá vôi cũ gần Victoria, rực rỡ hoa bốn mùa và là di tích lịch sử quốc gia.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-123.4689,48.5636&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=48.5636,-123.4689"
+    },
+    "tags": [
+      "garden",
+      "nature",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-british-columbia-whistler",
+    "slug": "whistler",
+    "region": "ca-british-columbia",
+    "region_name_vi": "British Columbia",
+    "country": "canada",
+    "name_vi": "Whistler",
+    "name_en": "Whistler",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 50.1163,
+      "lon": -122.9574
+    },
+    "address_vi": "Whistler, British Columbia",
+    "presentation_short_vi": "Khu nghỉ dưỡng núi hàng đầu Bắc Mỹ, nơi tổ chức Thế vận hội Mùa đông 2010, nổi tiếng trượt tuyết Whistler Blackcomb và làng nghỉ dưỡng nhộn nhịp.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-122.9574,50.1163&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=50.1163,-122.9574"
+    },
+    "tags": [
+      "mountain",
+      "ski",
+      "resort",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

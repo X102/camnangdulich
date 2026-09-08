@@ -1,0 +1,411 @@
+[
+  {
+    "id": "it-milan-nha-tho-chinh-toa-milano",
+    "slug": "nha-tho-chinh-toa-milano",
+    "region": "it-milan",
+    "country": "italy",
+    "region_name_vi": "Milano",
+    "name_vi": "Nhà thờ chính toà Milano",
+    "name_en": "Milan Cathedral",
+    "name_local": "Duomo di Milano",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 45.4642,
+      "lon": 9.19
+    },
+    "address_vi": "Piazza del Duomo, 20122 Milano, Ý",
+    "presentation_short_vi": "Nhà thờ Gothic bằng đá cẩm thạch lớn nhất Ý, xây gần sáu thế kỷ với rừng tháp nhọn và tượng, biểu tượng của Milano; sân thượng cho phép dạo bước giữa các chóp tháp.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=45.4642,9.19",
+      "yandex": "https://yandex.com/maps/?pt=9.19,45.4642&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "landmark",
+      "iconic",
+      "church"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-milan-thuong-xa-vittorio-emanuele-ii",
+    "slug": "thuong-xa-vittorio-emanuele-ii",
+    "region": "it-milan",
+    "country": "italy",
+    "region_name_vi": "Milano",
+    "name_vi": "Thương xá Vittorio Emanuele II",
+    "name_en": "Galleria Vittorio Emanuele II",
+    "name_local": "Galleria Vittorio Emanuele II",
+    "categories": [
+      "square_street",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 45.4659,
+      "lon": 9.19
+    },
+    "address_vi": "Piazza del Duomo, 20123 Milano, Ý",
+    "presentation_short_vi": "Thương xá mái vòm kính–sắt tráng lệ khánh thành năm 1877, nối Quảng trường Duomo với Nhà hát La Scala, quy tụ thương hiệu cao cấp và quán cà phê lâu đời.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=45.4659,9.19",
+      "yandex": "https://yandex.com/maps/?pt=9.19,45.4659&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "historic",
+      "shopping",
+      "iconic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-milan-nha-hat-la-scala",
+    "slug": "nha-hat-la-scala",
+    "region": "it-milan",
+    "country": "italy",
+    "region_name_vi": "Milano",
+    "name_vi": "Nhà hát La Scala",
+    "name_en": "La Scala",
+    "name_local": "Teatro alla Scala",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 45.4674,
+      "lon": 9.1895
+    },
+    "address_vi": "Via Filodrammatici 2, 20121 Milano, Ý",
+    "presentation_short_vi": "Một trong những nhà hát opera danh giá nhất thế giới, mở cửa năm 1778, gắn liền với các tên tuổi Verdi, Puccini và Toscanini.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=45.4674,9.1895",
+      "yandex": "https://yandex.com/maps/?pt=9.1895,45.4674&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "theatre",
+      "culture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-milan-nha-tho-santa-maria-delle-grazie",
+    "slug": "nha-tho-santa-maria-delle-grazie",
+    "region": "it-milan",
+    "country": "italy",
+    "region_name_vi": "Milano",
+    "name_vi": "Nhà thờ Santa Maria delle Grazie",
+    "name_en": "Santa Maria delle Grazie",
+    "name_local": "Santa Maria delle Grazie",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 45.4659,
+      "lon": 9.1707
+    },
+    "address_vi": "Piazza di Santa Maria delle Grazie, 20123 Milano, Ý",
+    "presentation_short_vi": "Nhà thờ Phục Hưng được UNESCO công nhận, nổi tiếng vì lưu giữ bức bích hoạ 'Bữa Tiệc Ly' của Leonardo da Vinci trên tường phòng ăn tu viện.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=45.4659,9.1707",
+      "yandex": "https://yandex.com/maps/?pt=9.1707,45.4659&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "unesco",
+      "church",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-milan-lau-dai-sforzesco",
+    "slug": "lau-dai-sforzesco",
+    "region": "it-milan",
+    "country": "italy",
+    "region_name_vi": "Milano",
+    "name_vi": "Lâu đài Sforzesco",
+    "name_en": "Sforza Castle",
+    "name_local": "Castello Sforzesco",
+    "categories": [
+      "fortress",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 45.4705,
+      "lon": 9.1791
+    },
+    "address_vi": "Piazza Castello, 20121 Milano, Ý",
+    "presentation_short_vi": "Toà thành thế kỷ 15 của dòng họ Sforza, nay là quần thể bảo tàng lưu giữ tác phẩm điêu khắc Rondanini Pietà dang dở của Michelangelo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=45.4705,9.1791",
+      "yandex": "https://yandex.com/maps/?pt=9.1791,45.4705&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "fortress",
+      "museum",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-milan-bao-tang-tranh-brera",
+    "slug": "bao-tang-tranh-brera",
+    "region": "it-milan",
+    "country": "italy",
+    "region_name_vi": "Milano",
+    "name_vi": "Bảo tàng tranh Brera",
+    "name_en": "Brera Art Gallery",
+    "name_local": "Pinacoteca di Brera",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 45.472,
+      "lon": 9.1879
+    },
+    "address_vi": "Via Brera 28, 20121 Milano, Ý",
+    "presentation_short_vi": "Phòng trưng bày nghệ thuật hàng đầu Ý với các kiệt tác hội hoạ của Raffaello, Caravaggio, Mantegna và Piero della Francesca.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=45.472,9.1879",
+      "yandex": "https://yandex.com/maps/?pt=9.1879,45.472&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "art",
+      "culture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-milan-vuong-cung-thanh-duong-sant-ambrogio",
+    "slug": "vuong-cung-thanh-duong-sant-ambrogio",
+    "region": "it-milan",
+    "country": "italy",
+    "region_name_vi": "Milano",
+    "name_vi": "Vương cung thánh đường Sant'Ambrogio",
+    "name_en": "Basilica of Sant'Ambrogio",
+    "name_local": "Basilica di Sant'Ambrogio",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 45.4623,
+      "lon": 9.1756
+    },
+    "address_vi": "Piazza Sant'Ambrogio 15, 20123 Milano, Ý",
+    "presentation_short_vi": "Một trong những nhà thờ cổ nhất Milano, khởi dựng từ thế kỷ 4 dưới thời thánh Ambrôsiô, mẫu mực của kiến trúc Romanesque vùng Lombardy.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=45.4623,9.1756",
+      "yandex": "https://yandex.com/maps/?pt=9.1756,45.4623&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "historic",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-milan-cong-vien-sempione",
+    "slug": "cong-vien-sempione",
+    "region": "it-milan",
+    "country": "italy",
+    "region_name_vi": "Milano",
+    "name_vi": "Công viên Sempione",
+    "name_en": "Sempione Park",
+    "name_local": "Parco Sempione",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 45.4726,
+      "lon": 9.1749
+    },
+    "address_vi": "Piazza Sempione, 20154 Milano, Ý",
+    "presentation_short_vi": "Công viên xanh rộng lớn sau Lâu đài Sforzesco, có hồ nước, cầu dạo và Tháp Branca để ngắm toàn cảnh thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=45.4726,9.1749",
+      "yandex": "https://yandex.com/maps/?pt=9.1749,45.4726&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "nature",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-milan-khai-hoan-mon-hoa-binh",
+    "slug": "khai-hoan-mon-hoa-binh",
+    "region": "it-milan",
+    "country": "italy",
+    "region_name_vi": "Milano",
+    "name_vi": "Khải hoàn môn Hoà Bình",
+    "name_en": "Arch of Peace",
+    "name_local": "Arco della Pace",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 45.4756,
+      "lon": 9.172
+    },
+    "address_vi": "Piazza Sempione, 20154 Milano, Ý",
+    "presentation_short_vi": "Khải hoàn môn tân cổ điển bằng đá hoa hoàn thành năm 1838, đỉnh gắn cỗ xe sáu ngựa bằng đồng, nằm ở rìa Công viên Sempione.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=45.4756,9.172",
+      "yandex": "https://yandex.com/maps/?pt=9.172,45.4756&z=16&l=map"
+    },
+    "tags": [
+      "monument",
+      "historic",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-milan-rung-thang-dung-bosco-verticale",
+    "slug": "rung-thang-dung-bosco-verticale",
+    "region": "it-milan",
+    "country": "italy",
+    "region_name_vi": "Milano",
+    "name_vi": "Rừng thẳng đứng Bosco Verticale",
+    "name_en": "Vertical Forest",
+    "name_local": "Bosco Verticale",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 45.4858,
+      "lon": 9.1903
+    },
+    "address_vi": "Via Gaetano de Castillia, 20124 Milano, Ý",
+    "presentation_short_vi": "Cặp tháp căn hộ phủ hàng nghìn cây xanh khánh thành năm 2014, biểu tượng kiến trúc sinh thái hiện đại của khu Porta Nuova.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=45.4858,9.1903",
+      "yandex": "https://yandex.com/maps/?pt=9.1903,45.4858&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "architecture",
+      "iconic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-milan-toa-thap-pirelli",
+    "slug": "toa-thap-pirelli",
+    "region": "it-milan",
+    "country": "italy",
+    "region_name_vi": "Milano",
+    "name_vi": "Toà tháp Pirelli",
+    "name_en": "Pirelli Tower",
+    "name_local": "Grattacielo Pirelli",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 45.485,
+      "lon": 9.2033
+    },
+    "address_vi": "Via Fabio Filzi 22, 20124 Milano, Ý",
+    "presentation_short_vi": "Toà nhà chọc trời cao 127 m hoàn thành năm 1958 do Gio Ponti thiết kế, một biểu tượng của kiến trúc hiện đại Ý thời hậu chiến.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=45.485,9.2033",
+      "yandex": "https://yandex.com/maps/?pt=9.2033,45.485&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "architecture",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-milan-san-van-dong-san-siro",
+    "slug": "san-van-dong-san-siro",
+    "region": "it-milan",
+    "country": "italy",
+    "region_name_vi": "Milano",
+    "name_vi": "Sân vận động San Siro",
+    "name_en": "San Siro Stadium",
+    "name_local": "Stadio Giuseppe Meazza",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 45.4781,
+      "lon": 9.1239
+    },
+    "address_vi": "Piazzale Angelo Moratti, 20151 Milano, Ý",
+    "presentation_short_vi": "Sân vận động bóng đá lớn nhất Ý với sức chứa trên 75.000 chỗ, sân nhà của hai câu lạc bộ AC Milan và Inter Milan.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=45.4781,9.1239",
+      "yandex": "https://yandex.com/maps/?pt=9.1239,45.4781&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "stadium",
+      "sport"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-milan-khu-kenh-dao-navigli",
+    "slug": "khu-kenh-dao-navigli",
+    "region": "it-milan",
+    "country": "italy",
+    "region_name_vi": "Milano",
+    "name_vi": "Khu kênh đào Navigli",
+    "name_en": "Navigli Canals",
+    "name_local": "Navigli",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 45.4515,
+      "lon": 9.177
+    },
+    "address_vi": "Naviglio Grande, 20144 Milano, Ý",
+    "presentation_short_vi": "Khu kênh đào lịch sử với Naviglio Grande và Naviglio Pavese, nổi tiếng về đời sống về đêm, quán bar và chợ đồ cổ ven bờ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=45.4515,9.177",
+      "yandex": "https://yandex.com/maps/?pt=9.177,45.4515&z=16&l=map"
+    },
+    "tags": [
+      "scenic",
+      "nightlife",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

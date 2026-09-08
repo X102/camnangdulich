@@ -1,0 +1,440 @@
+[
+  {
+    "id": "fi-helsinki-helsinki-cathedral",
+    "slug": "helsinki-cathedral",
+    "region": "fi-helsinki",
+    "country": "finland",
+    "region_name_vi": "Helsinki",
+    "name_vi": "Nhà thờ chính toà Helsinki",
+    "name_en": "Helsinki Cathedral",
+    "name_local": "Helsingin tuomiokirkko",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 60.1704,
+      "lon": 24.9522
+    },
+    "address_vi": "Unioninkatu 29, Senaatintori, Helsinki",
+    "presentation_short_vi": "Nhà thờ Luther màu trắng mái vòm xanh (1852) theo phong cách tân cổ điển, biểu tượng nổi bật nhất của Helsinki bên Quảng trường Thượng viện.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=60.1704,24.9522",
+      "yandex": "https://yandex.com/maps/?pt=24.9522,60.1704&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "church",
+      "landmark",
+      "neoclassical"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fi-helsinki-senate-square",
+    "slug": "senate-square",
+    "region": "fi-helsinki",
+    "country": "finland",
+    "region_name_vi": "Helsinki",
+    "name_vi": "Quảng trường Thượng viện",
+    "name_en": "Senate Square",
+    "name_local": "Senaatintori",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 60.1695,
+      "lon": 24.952
+    },
+    "address_vi": "Senaatintori, trung tâm Helsinki",
+    "presentation_short_vi": "Quảng trường tân cổ điển do Carl Ludvig Engel quy hoạch, bao quanh bởi Nhà thờ lớn, Dinh Chính phủ và Đại học Helsinki.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=60.1695,24.952",
+      "yandex": "https://yandex.com/maps/?pt=24.952,60.1695&z=16&l=map"
+    },
+    "tags": [
+      "square",
+      "history",
+      "center"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fi-helsinki-uspenski-cathedral",
+    "slug": "uspenski-cathedral",
+    "region": "fi-helsinki",
+    "country": "finland",
+    "region_name_vi": "Helsinki",
+    "name_vi": "Nhà thờ Uspenski",
+    "name_en": "Uspenski Cathedral",
+    "name_local": "Uspenskin katedraali",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 60.1683,
+      "lon": 24.9603
+    },
+    "address_vi": "Kanavakatu 1, Katajanokka, Helsinki",
+    "presentation_short_vi": "Nhà thờ Chính thống giáo phương Đông lớn nhất Tây Âu (1868), gạch đỏ và mái vòm vàng, đứng trên đồi nhìn ra cảng Helsinki.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=60.1683,24.9603",
+      "yandex": "https://yandex.com/maps/?pt=24.9603,60.1683&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "orthodox",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fi-helsinki-temppeliaukio-church",
+    "slug": "temppeliaukio-church",
+    "region": "fi-helsinki",
+    "country": "finland",
+    "region_name_vi": "Helsinki",
+    "name_vi": "Nhà thờ Đá Temppeliaukio",
+    "name_en": "Temppeliaukio Church (Rock Church)",
+    "name_local": "Temppeliaukion kirkko",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 60.1732,
+      "lon": 24.9253
+    },
+    "address_vi": "Lutherinkatu 3, Töölö, Helsinki",
+    "presentation_short_vi": "Nhà thờ khoét thẳng vào nền đá granite (1969) với mái vòm đồng và ánh sáng tự nhiên, nổi tiếng về âm học và kiến trúc độc đáo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=60.1732,24.9253",
+      "yandex": "https://yandex.com/maps/?pt=24.9253,60.1732&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "church",
+      "modern",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fi-helsinki-suomenlinna",
+    "slug": "suomenlinna",
+    "region": "fi-helsinki",
+    "country": "finland",
+    "region_name_vi": "Helsinki",
+    "name_vi": "Pháo đài biển Suomenlinna",
+    "name_en": "Suomenlinna Sea Fortress",
+    "name_local": "Suomenlinna",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 60.1454,
+      "lon": 24.9881
+    },
+    "address_vi": "Quần đảo Suomenlinna, ngoài khơi Helsinki",
+    "presentation_short_vi": "Pháo đài biển thế kỷ 18 trải trên sáu hòn đảo, Di sản Thế giới UNESCO, đến bằng phà từ Chợ Cảng trong khoảng 15 phút.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=60.1454,24.9881",
+      "yandex": "https://yandex.com/maps/?pt=24.9881,60.1454&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "fortress",
+      "unesco",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fi-helsinki-market-square",
+    "slug": "market-square",
+    "region": "fi-helsinki",
+    "country": "finland",
+    "region_name_vi": "Helsinki",
+    "name_vi": "Quảng trường Chợ Cảng",
+    "name_en": "Market Square (Kauppatori)",
+    "name_local": "Kauppatori",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 60.1675,
+      "lon": 24.9524
+    },
+    "address_vi": "Eteläranta, cảng nam, Helsinki",
+    "presentation_short_vi": "Quảng trường chợ ngoài trời bên bến cảng, bán đặc sản, đồ thủ công và là điểm khởi hành phà đi Suomenlinna.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=60.1675,24.9524",
+      "yandex": "https://yandex.com/maps/?pt=24.9524,60.1675&z=16&l=map"
+    },
+    "tags": [
+      "square",
+      "market",
+      "waterfront"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fi-helsinki-oodi-library",
+    "slug": "oodi-library",
+    "region": "fi-helsinki",
+    "country": "finland",
+    "region_name_vi": "Helsinki",
+    "name_vi": "Thư viện trung tâm Oodi",
+    "name_en": "Oodi Central Library",
+    "name_local": "Keskustakirjasto Oodi",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 60.1738,
+      "lon": 24.9382
+    },
+    "address_vi": "Töölönlahdenkatu 4, Helsinki",
+    "presentation_short_vi": "Thư viện trung tâm bằng gỗ vân sam và kính khánh thành 2018, công trình biểu tượng hiện đại đối diện Nhà Quốc hội.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=60.1738,24.9382",
+      "yandex": "https://yandex.com/maps/?pt=24.9382,60.1738&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "library",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fi-helsinki-ateneum",
+    "slug": "ateneum",
+    "region": "fi-helsinki",
+    "country": "finland",
+    "region_name_vi": "Helsinki",
+    "name_vi": "Bảo tàng Nghệ thuật Ateneum",
+    "name_en": "Ateneum Art Museum",
+    "name_local": "Ateneum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 60.1699,
+      "lon": 24.944
+    },
+    "address_vi": "Kaivokatu 2, Helsinki",
+    "presentation_short_vi": "Bảo tàng nghệ thuật cổ điển lớn nhất Phần Lan, lưu giữ bộ sưu tập hội hoạ quốc gia từ thế kỷ 18 đến giữa thế kỷ 20.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=60.1699,24.944",
+      "yandex": "https://yandex.com/maps/?pt=24.944,60.1699&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "art",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fi-helsinki-esplanadi",
+    "slug": "esplanadi",
+    "region": "fi-helsinki",
+    "country": "finland",
+    "region_name_vi": "Helsinki",
+    "name_vi": "Công viên Esplanadi",
+    "name_en": "Esplanadi Park",
+    "name_local": "Esplanadin puisto",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 60.1668,
+      "lon": 24.946
+    },
+    "address_vi": "Pohjoisesplanadi, trung tâm Helsinki",
+    "presentation_short_vi": "Đại lộ công viên cây xanh giữa hai phố mua sắm sang trọng, có sân khấu ngoài trời và tượng thi hào Runeberg.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=60.1668,24.946",
+      "yandex": "https://yandex.com/maps/?pt=24.946,60.1668&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "promenade",
+      "center"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fi-helsinki-sibelius-monument",
+    "slug": "sibelius-monument",
+    "region": "fi-helsinki",
+    "country": "finland",
+    "region_name_vi": "Helsinki",
+    "name_vi": "Đài tưởng niệm Sibelius",
+    "name_en": "Sibelius Monument",
+    "name_local": "Sibelius-monumentti",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 60.1756,
+      "lon": 24.9127
+    },
+    "address_vi": "Công viên Sibelius, Töölö, Helsinki",
+    "presentation_short_vi": "Tác phẩm điêu khắc gồm hơn 600 ống thép của Eila Hiltunen (1967) tôn vinh nhà soạn nhạc Jean Sibelius.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=60.1756,24.9127",
+      "yandex": "https://yandex.com/maps/?pt=24.9127,60.1756&z=16&l=map"
+    },
+    "tags": [
+      "monument",
+      "art",
+      "park"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fi-helsinki-kiasma",
+    "slug": "kiasma",
+    "region": "fi-helsinki",
+    "country": "finland",
+    "region_name_vi": "Helsinki",
+    "name_vi": "Bảo tàng Nghệ thuật Đương đại Kiasma",
+    "name_en": "Kiasma Museum of Contemporary Art",
+    "name_local": "Kiasma",
+    "categories": [
+      "museum",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 60.1719,
+      "lon": 24.9364
+    },
+    "address_vi": "Mannerheiminaukio 2, Helsinki",
+    "presentation_short_vi": "Bảo tàng nghệ thuật đương đại với kiến trúc cong uốn lượn của Steven Holl (1998), trung tâm nghệ thuật hiện đại của Phần Lan.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=60.1719,24.9364",
+      "yandex": "https://yandex.com/maps/?pt=24.9364,60.1719&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "modern",
+      "art"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fi-helsinki-linnanmaki",
+    "slug": "linnanmaki",
+    "region": "fi-helsinki",
+    "country": "finland",
+    "region_name_vi": "Helsinki",
+    "name_vi": "Công viên giải trí Linnanmäki",
+    "name_en": "Linnanmäki Amusement Park",
+    "name_local": "Linnanmäki",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 60.1875,
+      "lon": 24.9394
+    },
+    "address_vi": "Tivolikuja 1, Helsinki",
+    "presentation_short_vi": "Công viên giải trí lâu đời (1950) với tàu lượn gỗ Vuoristorata và hơn 40 trò chơi, doanh thu dành cho quỹ phúc lợi trẻ em.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=60.1875,24.9394",
+      "yandex": "https://yandex.com/maps/?pt=24.9394,60.1875&z=16&l=map"
+    },
+    "tags": [
+      "amusement",
+      "family",
+      "entertainment"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fi-helsinki-central-station",
+    "slug": "central-station",
+    "region": "fi-helsinki",
+    "country": "finland",
+    "region_name_vi": "Helsinki",
+    "name_vi": "Ga trung tâm Helsinki",
+    "name_en": "Helsinki Central Station",
+    "name_local": "Helsingin rautatieasema",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 60.1712,
+      "lon": 24.9414
+    },
+    "address_vi": "Kaivokatu 1, Helsinki",
+    "presentation_short_vi": "Nhà ga phong cách Tân nghệ thuật của Eliel Saarinen (1919), nổi tiếng với hai cặp tượng người cầm đèn bằng đá granite.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=60.1712,24.9414",
+      "yandex": "https://yandex.com/maps/?pt=24.9414,60.1712&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "architecture",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fi-helsinki-national-museum",
+    "slug": "national-museum",
+    "region": "fi-helsinki",
+    "country": "finland",
+    "region_name_vi": "Helsinki",
+    "name_vi": "Bảo tàng Quốc gia Phần Lan",
+    "name_en": "National Museum of Finland",
+    "name_local": "Suomen kansallismuseo",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 60.1758,
+      "lon": 24.9312
+    },
+    "address_vi": "Mannerheimintie 34, Helsinki",
+    "presentation_short_vi": "Bảo tàng lịch sử quốc gia trong toà nhà lãng mạn dân tộc với tháp cao, trưng bày hiện vật từ thời tiền sử đến hiện đại.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=60.1758,24.9312",
+      "yandex": "https://yandex.com/maps/?pt=24.9312,60.1758&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "history",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

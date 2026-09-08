@@ -1,0 +1,380 @@
+[
+  {
+    "id": "ch-bern-zytglogge",
+    "slug": "zytglogge",
+    "region": "ch-bern",
+    "country": "switzerland",
+    "region_name_vi": "Bern",
+    "name_vi": "Tháp đồng hồ Zytglogge",
+    "name_en": "Zytglogge Clock Tower",
+    "name_local": "Zytglogge",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 46.9479,
+      "lon": 7.4477
+    },
+    "address_vi": "Bim Zytglogge 1, Altstadt, Bern",
+    "presentation_short_vi": "Tháp đồng hồ thiên văn thời trung cổ thế kỷ 13, biểu tượng của Bern với màn trình diễn cơ khí xoay hình rối trước mỗi giờ điểm chuông.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.9479,7.4477",
+      "yandex": "https://yandex.com/maps/?pt=7.4477,46.9479&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "landmark",
+      "historic",
+      "clock"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-bern-nha-tho-lon-bern",
+    "slug": "nha-tho-lon-bern",
+    "region": "ch-bern",
+    "country": "switzerland",
+    "region_name_vi": "Bern",
+    "name_vi": "Nhà thờ lớn Bern",
+    "name_en": "Bern Minster",
+    "name_local": "Berner Münster",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 46.9469,
+      "lon": 7.4515
+    },
+    "address_vi": "Münsterplatz 1, Altstadt, Bern",
+    "presentation_short_vi": "Thánh đường Gothic lớn nhất Thụy Sĩ (khởi công năm 1421) với tháp chuông cao 100 m — cao nhất cả nước; leo 312 bậc để ngắm toàn cảnh phố cổ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.9469,7.4515",
+      "yandex": "https://yandex.com/maps/?pt=7.4515,46.9469&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "church",
+      "gothic",
+      "view"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-bern-toa-nha-quoc-hoi-bundeshaus",
+    "slug": "toa-nha-quoc-hoi-bundeshaus",
+    "region": "ch-bern",
+    "country": "switzerland",
+    "region_name_vi": "Bern",
+    "name_vi": "Toà nhà Quốc hội Liên bang",
+    "name_en": "Federal Palace of Switzerland",
+    "name_local": "Bundeshaus",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 46.9466,
+      "lon": 7.4441
+    },
+    "address_vi": "Bundesplatz 3, Bern",
+    "presentation_short_vi": "Trụ sở Quốc hội và Chính phủ Liên bang Thụy Sĩ, công trình tân Phục hưng khánh thành năm 1902 với mái vòm bề thế và quảng trường phun nước phía trước.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.9466,7.4441",
+      "yandex": "https://yandex.com/maps/?pt=7.4441,46.9466&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "government",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-bern-pho-co-bern",
+    "slug": "pho-co-bern",
+    "region": "ch-bern",
+    "country": "switzerland",
+    "region_name_vi": "Bern",
+    "name_vi": "Phố cổ Bern",
+    "name_en": "Old City of Bern",
+    "name_local": "Berner Altstadt",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 46.948,
+      "lon": 7.451
+    },
+    "address_vi": "Altstadt, Bern",
+    "presentation_short_vi": "Khu phố cổ thời trung cổ với 6 km hành lang có mái che (Lauben) và loạt đài phun nước tạc tượng, được UNESCO công nhận Di sản Thế giới.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.948,7.451",
+      "yandex": "https://yandex.com/maps/?pt=7.451,46.948&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "unesco",
+      "oldtown",
+      "shopping"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-bern-cong-vien-gau-barenpark",
+    "slug": "cong-vien-gau-barenpark",
+    "region": "ch-bern",
+    "country": "switzerland",
+    "region_name_vi": "Bern",
+    "name_vi": "Công viên Gấu",
+    "name_en": "Bear Park",
+    "name_local": "BärenPark",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 46.9484,
+      "lon": 7.4595
+    },
+    "address_vi": "Grosser Muristalden 4, Bern",
+    "presentation_short_vi": "Công viên bên sông Aare nuôi những chú gấu — biểu tượng của thành phố Bern; nối tiếp hố gấu Bärengraben lịch sử.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.9484,7.4595",
+      "yandex": "https://yandex.com/maps/?pt=7.4595,46.9484&z=16&l=map"
+    },
+    "tags": [
+      "family",
+      "animals",
+      "riverside"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-bern-vuon-hong-rosengarten",
+    "slug": "vuon-hong-rosengarten",
+    "region": "ch-bern",
+    "country": "switzerland",
+    "region_name_vi": "Bern",
+    "name_vi": "Vườn Hồng Rosengarten",
+    "name_en": "Rose Garden",
+    "name_local": "Rosengarten",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 46.9503,
+      "lon": 7.4614
+    },
+    "address_vi": "Alter Aargauerstalden 31b, Bern",
+    "presentation_short_vi": "Vườn hoa hồng trên đồi với hơn 200 giống hồng và diên vĩ, nơi ngắm toàn cảnh phố cổ và khúc sông Aare đẹp nhất Bern.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.9503,7.4614",
+      "yandex": "https://yandex.com/maps/?pt=7.4614,46.9503&z=16&l=map"
+    },
+    "tags": [
+      "view",
+      "garden",
+      "free"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-bern-trung-tam-paul-klee",
+    "slug": "trung-tam-paul-klee",
+    "region": "ch-bern",
+    "country": "switzerland",
+    "region_name_vi": "Bern",
+    "name_vi": "Trung tâm Paul Klee",
+    "name_en": "Zentrum Paul Klee",
+    "name_local": "Zentrum Paul Klee",
+    "categories": [
+      "museum",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 46.9486,
+      "lon": 7.4737
+    },
+    "address_vi": "Monument im Fruchtland 3, Bern",
+    "presentation_short_vi": "Bảo tàng dành riêng cho danh hoạ Paul Klee, nằm trong công trình ba gợn sóng thép-kính do kiến trúc sư Renzo Piano thiết kế.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.9486,7.4737",
+      "yandex": "https://yandex.com/maps/?pt=7.4737,46.9486&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "art",
+      "modern",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-bern-nha-einstein",
+    "slug": "nha-einstein",
+    "region": "ch-bern",
+    "country": "switzerland",
+    "region_name_vi": "Bern",
+    "name_vi": "Nhà Einstein",
+    "name_en": "Einstein House",
+    "name_local": "Einsteinhaus",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 46.9476,
+      "lon": 7.4519
+    },
+    "address_vi": "Kramgasse 49, Altstadt, Bern",
+    "presentation_short_vi": "Căn hộ nơi Albert Einstein sống và hoàn thiện thuyết tương đối hẹp năm 1905, nay là bảo tàng nhỏ tái hiện không gian sống của ông.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.9476,7.4519",
+      "yandex": "https://yandex.com/maps/?pt=7.4519,46.9476&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "history",
+      "einstein"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-bern-doi-gurten",
+    "slug": "doi-gurten",
+    "region": "ch-bern",
+    "country": "switzerland",
+    "region_name_vi": "Bern",
+    "name_vi": "Đồi Gurten",
+    "name_en": "Gurten Hill",
+    "name_local": "Gurten",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 46.9269,
+      "lon": 7.4459
+    },
+    "address_vi": "Gurten – Park im Grünen, Wabern bei Bern",
+    "presentation_short_vi": "Ngọn đồi 858 m nhìn ra Bern và dãy Alps, lên bằng tàu leo núi (funicular); có công viên, đường mòn và khu vui chơi trẻ em.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.9269,7.4459",
+      "yandex": "https://yandex.com/maps/?pt=7.4459,46.9269&z=16&l=map"
+    },
+    "tags": [
+      "view",
+      "nature",
+      "funicular",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-bern-thap-kafigturm",
+    "slug": "thap-kafigturm",
+    "region": "ch-bern",
+    "country": "switzerland",
+    "region_name_vi": "Bern",
+    "name_vi": "Tháp Käfigturm",
+    "name_en": "Prison Tower",
+    "name_local": "Käfigturm",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 46.9484,
+      "lon": 7.4432
+    },
+    "address_vi": "Marktgasse 67, Bern",
+    "presentation_short_vi": "Tháp cổng thành thế kỷ 17 từng là nhà tù, nay là đài tưởng niệm và không gian đối thoại chính trị công cộng giữa phố mua sắm Marktgasse.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.9484,7.4432",
+      "yandex": "https://yandex.com/maps/?pt=7.4432,46.9484&z=16&l=map"
+    },
+    "tags": [
+      "historic",
+      "tower",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-bern-quang-truong-lien-bang",
+    "slug": "quang-truong-lien-bang",
+    "region": "ch-bern",
+    "country": "switzerland",
+    "region_name_vi": "Bern",
+    "name_vi": "Quảng trường Liên bang",
+    "name_en": "Federal Square",
+    "name_local": "Bundesplatz",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 46.9469,
+      "lon": 7.4444
+    },
+    "address_vi": "Bundesplatz, Bern",
+    "presentation_short_vi": "Quảng trường trước toà nhà Quốc hội với 26 vòi phun nước tượng trưng cho 26 bang; nơi họp chợ và trình diễn ánh sáng mùa đông.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.9469,7.4444",
+      "yandex": "https://yandex.com/maps/?pt=7.4444,46.9469&z=16&l=map"
+    },
+    "tags": [
+      "square",
+      "fountain",
+      "central"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-bern-bao-tang-lich-su-bern",
+    "slug": "bao-tang-lich-su-bern",
+    "region": "ch-bern",
+    "country": "switzerland",
+    "region_name_vi": "Bern",
+    "name_vi": "Bảo tàng Lịch sử Bern",
+    "name_en": "Bern Historical Museum",
+    "name_local": "Bernisches Historisches Museum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 46.9433,
+      "lon": 7.4498
+    },
+    "address_vi": "Helvetiaplatz 5, Bern",
+    "presentation_short_vi": "Bảo tàng lịch sử lớn thứ hai Thụy Sĩ mang dáng lâu đài, bao gồm cả Bảo tàng Einstein trưng bày cuộc đời và công trình của nhà bác học.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.9433,7.4498",
+      "yandex": "https://yandex.com/maps/?pt=7.4498,46.9433&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "history",
+      "castle"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

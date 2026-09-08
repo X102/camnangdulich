@@ -1,0 +1,409 @@
+[
+  {
+    "id": "dk-aalborg-utzon-center",
+    "slug": "utzon-center",
+    "region": "dk-aalborg",
+    "country": "denmark",
+    "region_name_vi": "Aalborg",
+    "name_vi": "Trung tâm Utzon",
+    "name_en": "Utzon Center",
+    "name_local": "Utzon Center",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 57.0533,
+      "lon": 9.9186
+    },
+    "address_vi": "Slotspladsen, bờ sông Limfjord, Aalborg",
+    "presentation_short_vi": "Trung tâm văn hóa và kiến trúc bên bến cảng do Jørn Utzon — kiến trúc sư Nhà hát Opera Sydney — thiết kế, khánh thành năm 2008.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=57.0533,9.9186",
+      "yandex": "https://yandex.com/maps/?pt=9.9186,57.0533&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "architecture",
+      "landmark",
+      "waterfront"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-aalborg-aalborghus-castle",
+    "slug": "aalborghus-castle",
+    "region": "dk-aalborg",
+    "country": "denmark",
+    "region_name_vi": "Aalborg",
+    "name_vi": "Lâu đài Aalborghus",
+    "name_en": "Aalborghus Castle",
+    "name_local": "Aalborghus Slot",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 57.0522,
+      "lon": 9.921
+    },
+    "address_vi": "Slotspladsen, trung tâm Aalborg",
+    "presentation_short_vi": "Lâu đài nửa gỗ nửa đá xây năm 1539–1555, có hào nước, hầm ngục và đường hầm ngầm — nay là công sở nhưng mở cửa cho khách tham quan.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=57.0522,9.921",
+      "yandex": "https://yandex.com/maps/?pt=9.921,57.0522&z=16&l=map"
+    },
+    "tags": [
+      "castle",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-aalborg-budolfi-cathedral",
+    "slug": "budolfi-cathedral",
+    "region": "dk-aalborg",
+    "country": "denmark",
+    "region_name_vi": "Aalborg",
+    "name_vi": "Nhà thờ chính tòa Budolfi",
+    "name_en": "Budolfi Cathedral",
+    "name_local": "Budolfi Kirke",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 57.048,
+      "lon": 9.9206
+    },
+    "address_vi": "Algade, trung tâm Aalborg",
+    "presentation_short_vi": "Nhà thờ chính tòa gạch trắng phong cách Gothic có từ thế kỷ 14, với tháp chuông mạ vàng là biểu tượng trung tâm Aalborg.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=57.048,9.9206",
+      "yandex": "https://yandex.com/maps/?pt=9.9206,57.048&z=16&l=map"
+    },
+    "tags": [
+      "cathedral",
+      "gothic",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-aalborg-jens-bangs-stenhus",
+    "slug": "jens-bangs-stenhus",
+    "region": "dk-aalborg",
+    "country": "denmark",
+    "region_name_vi": "Aalborg",
+    "name_vi": "Nhà đá Jens Bang",
+    "name_en": "Jens Bang's Stone House",
+    "name_local": "Jens Bangs Stenhus",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 57.0484,
+      "lon": 9.92
+    },
+    "address_vi": "Østerågade, trung tâm Aalborg",
+    "presentation_short_vi": "Dinh thự thương gia bằng đá phong cách Phục Hưng Hà Lan xây năm 1624, một trong những nhà phố Phục Hưng lớn nhất Bắc Âu còn lại.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=57.0484,9.92",
+      "yandex": "https://yandex.com/maps/?pt=9.92,57.0484&z=16&l=map"
+    },
+    "tags": [
+      "renaissance",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-aalborg-lindholm-hoje",
+    "slug": "lindholm-hoje",
+    "region": "dk-aalborg",
+    "country": "denmark",
+    "region_name_vi": "Aalborg",
+    "name_vi": "Di chỉ Viking Lindholm Høje",
+    "name_en": "Lindholm Høje",
+    "name_local": "Lindholm Høje",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 57.0725,
+      "lon": 9.9086
+    },
+    "address_vi": "Nørresundby, phía bắc Aalborg",
+    "presentation_short_vi": "Nghĩa địa và làng cổ thời Viking–đồ Sắt với gần 700 ngôi mộ đá, kèm bảo tàng tái hiện đời sống người Viking.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=57.0725,9.9086",
+      "yandex": "https://yandex.com/maps/?pt=9.9086,57.0725&z=16&l=map"
+    },
+    "tags": [
+      "viking",
+      "history",
+      "archaeology",
+      "museum"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-aalborg-kunsten-museum",
+    "slug": "kunsten-museum",
+    "region": "dk-aalborg",
+    "country": "denmark",
+    "region_name_vi": "Aalborg",
+    "name_vi": "Bảo tàng Nghệ thuật Hiện đại KUNSTEN",
+    "name_en": "KUNSTEN Museum of Modern Art",
+    "name_local": "Kunsten Museum of Modern Art Aalborg",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 57.0428,
+      "lon": 9.8975
+    },
+    "address_vi": "Kong Christians Allé, Aalborg",
+    "presentation_short_vi": "Bảo tàng nghệ thuật hiện đại trong tòa nhà đá marble do Alvar Aalto thiết kế, mở cửa năm 1972, nằm giữa công viên Kildeparken.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=57.0428,9.8975",
+      "yandex": "https://yandex.com/maps/?pt=9.8975,57.0428&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "modern-art",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-aalborg-musikkens-hus",
+    "slug": "musikkens-hus",
+    "region": "dk-aalborg",
+    "country": "denmark",
+    "region_name_vi": "Aalborg",
+    "name_vi": "Nhà Âm nhạc (Musikkens Hus)",
+    "name_en": "House of Music (Musikkens Hus)",
+    "name_local": "Musikkens Hus",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 57.0562,
+      "lon": 9.9268
+    },
+    "address_vi": "Musikkens Plads, bờ sông Limfjord, Aalborg",
+    "presentation_short_vi": "Trung tâm hòa nhạc hiện đại bên bến cảng do hãng Coop Himmelb(l)au thiết kế, khánh thành năm 2014.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=57.0562,9.9268",
+      "yandex": "https://yandex.com/maps/?pt=9.9268,57.0562&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "concert-hall",
+      "architecture",
+      "waterfront"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-aalborg-aalborg-tower",
+    "slug": "aalborg-tower",
+    "region": "dk-aalborg",
+    "country": "denmark",
+    "region_name_vi": "Aalborg",
+    "name_vi": "Tháp Aalborg",
+    "name_en": "Aalborg Tower",
+    "name_local": "Aalborgtårnet",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 57.0428,
+      "lon": 9.9056
+    },
+    "address_vi": "Đồi Skovbakken, Aalborg",
+    "presentation_short_vi": "Tháp ngắm cảnh cao 55 m dựng năm 1933 trên đồi, cho tầm nhìn toàn cảnh thành phố và eo biển Limfjord.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=57.0428,9.9056",
+      "yandex": "https://yandex.com/maps/?pt=9.9056,57.0428&z=16&l=map"
+    },
+    "tags": [
+      "tower",
+      "viewpoint",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-aalborg-jomfru-ane-gade",
+    "slug": "jomfru-ane-gade",
+    "region": "dk-aalborg",
+    "country": "denmark",
+    "region_name_vi": "Aalborg",
+    "name_vi": "Phố Jomfru Ane Gade",
+    "name_en": "Jomfru Ane Gade",
+    "name_local": "Jomfru Ane Gade",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 57.0492,
+      "lon": 9.9169
+    },
+    "address_vi": "Trung tâm Aalborg",
+    "presentation_short_vi": "Con phố đi bộ nổi tiếng bậc nhất Đan Mạch về nhà hàng, quán bar và đời sống về đêm, nằm trong khu phố Latin.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=57.0492,9.9169",
+      "yandex": "https://yandex.com/maps/?pt=9.9169,57.0492&z=16&l=map"
+    },
+    "tags": [
+      "street",
+      "nightlife",
+      "dining"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-aalborg-aalborg-waterfront",
+    "slug": "aalborg-waterfront",
+    "region": "dk-aalborg",
+    "country": "denmark",
+    "region_name_vi": "Aalborg",
+    "name_vi": "Bến cảng Aalborg (Havnefronten)",
+    "name_en": "Aalborg Waterfront",
+    "name_local": "Aalborg Havnefront",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 57.051,
+      "lon": 9.921
+    },
+    "address_vi": "Bờ nam sông Limfjord, Aalborg",
+    "presentation_short_vi": "Dải bến cảng cải tạo hiện đại dọc sông Limfjord với lối đi dạo, quảng trường và các công trình văn hóa mới.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=57.051,9.921",
+      "yandex": "https://yandex.com/maps/?pt=9.921,57.051&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "promenade",
+      "waterfront"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-aalborg-aalborg-zoo",
+    "slug": "aalborg-zoo",
+    "region": "dk-aalborg",
+    "country": "denmark",
+    "region_name_vi": "Aalborg",
+    "name_vi": "Vườn thú Aalborg",
+    "name_en": "Aalborg Zoo",
+    "name_local": "Aalborg Zoo",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 57.0331,
+      "lon": 9.8983
+    },
+    "address_vi": "Mølleparkvej, Aalborg",
+    "presentation_short_vi": "Vườn thú mở cửa năm 1935 với hơn 1.500 con vật, một trong những vườn thú được yêu thích nhất Đan Mạch.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=57.0331,9.8983",
+      "yandex": "https://yandex.com/maps/?pt=9.8983,57.0331&z=16&l=map"
+    },
+    "tags": [
+      "zoo",
+      "family",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-aalborg-rebild-bakker",
+    "slug": "rebild-bakker",
+    "region": "dk-aalborg",
+    "country": "denmark",
+    "region_name_vi": "Aalborg",
+    "name_vi": "Đồi Rebild Bakker",
+    "name_en": "Rebild Bakker (Rebild Hills)",
+    "name_local": "Rebild Bakker",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 56.8342,
+      "lon": 9.825
+    },
+    "address_vi": "Rebild, phía nam Aalborg",
+    "presentation_short_vi": "Vườn quốc gia đồi thạch thảo giáp rừng Rold Skov, nổi tiếng với lễ hội Quốc khánh Mỹ lớn nhất tổ chức ngoài nước Mỹ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=56.8342,9.825",
+      "yandex": "https://yandex.com/maps/?pt=9.825,56.8342&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "national-park",
+      "hiking",
+      "scenery"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-aalborg-limfjord",
+    "slug": "limfjord",
+    "region": "dk-aalborg",
+    "country": "denmark",
+    "region_name_vi": "Aalborg",
+    "name_vi": "Eo biển Limfjord",
+    "name_en": "Limfjord",
+    "name_local": "Limfjorden",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 57.055,
+      "lon": 9.92
+    },
+    "address_vi": "Chảy qua trung tâm Aalborg",
+    "presentation_short_vi": "Eo biển nối Biển Bắc với Kattegat, chia đôi Aalborg và Nørresundby — trục cảnh quan và giao thông đường thủy của thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=57.055,9.92",
+      "yandex": "https://yandex.com/maps/?pt=9.92,57.055&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "water",
+      "scenery"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

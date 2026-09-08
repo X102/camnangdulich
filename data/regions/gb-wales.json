@@ -1,0 +1,449 @@
+[
+  {
+    "id": "gb-wales-cardiff-castle",
+    "slug": "cardiff-castle",
+    "region": "gb-wales",
+    "country": "uk",
+    "region_name_vi": "Wales (Xứ Wales)",
+    "name_vi": "Lâu đài Cardiff",
+    "name_en": "Cardiff Castle",
+    "name_local": "",
+    "categories": [
+      "fortress",
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 51.4822,
+      "lon": -3.1815
+    },
+    "address_vi": "Castle Street, Cardiff",
+    "presentation_short_vi": "Lâu đài có lịch sử gần 2.000 năm từ pháo đài La Mã đến dinh thự tân Gothic lộng lẫy thời Victoria, ngay trung tâm thủ đô xứ Wales.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.4822,-3.1815",
+      "yandex": "https://yandex.com/maps/?pt=-3.1815,51.4822&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "castle",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gb-wales-snowdon-yr-wyddfa",
+    "slug": "snowdon-yr-wyddfa",
+    "region": "gb-wales",
+    "country": "uk",
+    "region_name_vi": "Wales (Xứ Wales)",
+    "name_vi": "Núi Snowdon (Yr Wyddfa)",
+    "name_en": "Snowdon (Yr Wyddfa)",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 53.0685,
+      "lon": -4.0762
+    },
+    "address_vi": "Vườn quốc gia Eryri (Snowdonia), Gwynedd",
+    "presentation_short_vi": "Đỉnh núi cao 1.085 m - cao nhất xứ Wales, có tàu leo núi Snowdon Mountain Railway đưa du khách lên đỉnh ngắm toàn cảnh Eryri.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=53.0685,-4.0762",
+      "yandex": "https://yandex.com/maps/?pt=-4.0762,53.0685&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "mountain",
+      "nature",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gb-wales-caernarfon-castle",
+    "slug": "caernarfon-castle",
+    "region": "gb-wales",
+    "country": "uk",
+    "region_name_vi": "Wales (Xứ Wales)",
+    "name_vi": "Lâu đài Caernarfon",
+    "name_en": "Caernarfon Castle",
+    "name_local": "",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 53.1394,
+      "lon": -4.2769
+    },
+    "address_vi": "Caernarfon, Gwynedd",
+    "presentation_short_vi": "Pháo đài đồ sộ thế kỷ 13 của vua Edward I với các tháp đa giác, nơi tấn phong Thái tử xứ Wales; Di sản Thế giới UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=53.1394,-4.2769",
+      "yandex": "https://yandex.com/maps/?pt=-4.2769,53.1394&z=16&l=map"
+    },
+    "tags": [
+      "unesco",
+      "castle",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gb-wales-conwy-castle",
+    "slug": "conwy-castle",
+    "region": "gb-wales",
+    "country": "uk",
+    "region_name_vi": "Wales (Xứ Wales)",
+    "name_vi": "Lâu đài Conwy",
+    "name_en": "Conwy Castle",
+    "name_local": "",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 53.2801,
+      "lon": -3.8256
+    },
+    "address_vi": "Conwy",
+    "presentation_short_vi": "Lâu đài đá thế kỷ 13 với 8 tháp tròn và tường thành bao quanh thị trấn cổ Conwy gần như nguyên vẹn; Di sản Thế giới UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=53.2801,-3.8256",
+      "yandex": "https://yandex.com/maps/?pt=-3.8256,53.2801&z=16&l=map"
+    },
+    "tags": [
+      "unesco",
+      "castle",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gb-wales-harlech-castle",
+    "slug": "harlech-castle",
+    "region": "gb-wales",
+    "country": "uk",
+    "region_name_vi": "Wales (Xứ Wales)",
+    "name_vi": "Lâu đài Harlech",
+    "name_en": "Harlech Castle",
+    "name_local": "",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 52.8599,
+      "lon": -4.1093
+    },
+    "address_vi": "Harlech, Gwynedd",
+    "presentation_short_vi": "Pháo đài trên vách đá dốc đứng nhìn ra biển, nổi tiếng qua khúc quân hành 'Men of Harlech'; Di sản Thế giới UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.8599,-4.1093",
+      "yandex": "https://yandex.com/maps/?pt=-4.1093,52.8599&z=16&l=map"
+    },
+    "tags": [
+      "unesco",
+      "castle",
+      "history",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gb-wales-beaumaris-castle",
+    "slug": "beaumaris-castle",
+    "region": "gb-wales",
+    "country": "uk",
+    "region_name_vi": "Wales (Xứ Wales)",
+    "name_vi": "Lâu đài Beaumaris",
+    "name_en": "Beaumaris Castle",
+    "name_local": "",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 53.2648,
+      "lon": -4.0899
+    },
+    "address_vi": "Beaumaris, đảo Anglesey",
+    "presentation_short_vi": "Lâu đài đồng tâm cuối cùng và hoàn hảo nhất của vua Edward I dù chưa hoàn thành, kiệt tác kiến trúc quân sự; Di sản UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=53.2648,-4.0899",
+      "yandex": "https://yandex.com/maps/?pt=-4.0899,53.2648&z=16&l=map"
+    },
+    "tags": [
+      "unesco",
+      "castle",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gb-wales-st-davids-cathedral",
+    "slug": "st-davids-cathedral",
+    "region": "gb-wales",
+    "country": "uk",
+    "region_name_vi": "Wales (Xứ Wales)",
+    "name_vi": "Nhà thờ chính tòa St Davids",
+    "name_en": "St Davids Cathedral",
+    "name_local": "",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 51.882,
+      "lon": -5.2685
+    },
+    "address_vi": "St Davids, Pembrokeshire",
+    "presentation_short_vi": "Nhà thờ chính tòa thế kỷ 12 nằm trong thành phố nhỏ nhất nước Anh, điểm hành hương quan trọng gắn với thánh bổn mạng xứ Wales.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.882,-5.2685",
+      "yandex": "https://yandex.com/maps/?pt=-5.2685,51.882&z=16&l=map"
+    },
+    "tags": [
+      "cathedral",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gb-wales-tintern-abbey",
+    "slug": "tintern-abbey",
+    "region": "gb-wales",
+    "country": "uk",
+    "region_name_vi": "Wales (Xứ Wales)",
+    "name_vi": "Tu viện Tintern",
+    "name_en": "Tintern Abbey",
+    "name_local": "",
+    "categories": [
+      "church",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 51.6975,
+      "lon": -2.6774
+    },
+    "address_vi": "Tintern, thung lũng Wye, Monmouthshire",
+    "presentation_short_vi": "Phế tích tu viện Xitô thế kỷ 12 bên sông Wye, khung cảnh lãng mạn từng truyền cảm hứng cho thơ Wordsworth và tranh Turner.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.6975,-2.6774",
+      "yandex": "https://yandex.com/maps/?pt=-2.6774,51.6975&z=16&l=map"
+    },
+    "tags": [
+      "abbey",
+      "ruins",
+      "history",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gb-wales-portmeirion",
+    "slug": "portmeirion",
+    "region": "gb-wales",
+    "country": "uk",
+    "region_name_vi": "Wales (Xứ Wales)",
+    "name_vi": "Làng Portmeirion",
+    "name_en": "Portmeirion",
+    "name_local": "",
+    "categories": [
+      "square_street",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 52.9113,
+      "lon": -4.0982
+    },
+    "address_vi": "Gwynedd",
+    "presentation_short_vi": "Ngôi làng du lịch phong cách Ý do kiến trúc sư Clough Williams-Ellis xây dựng, nổi tiếng qua loạt phim 'The Prisoner'.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.9113,-4.0982",
+      "yandex": "https://yandex.com/maps/?pt=-4.0982,52.9113&z=16&l=map"
+    },
+    "tags": [
+      "village",
+      "architecture",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gb-wales-wales-millennium-centre",
+    "slug": "wales-millennium-centre",
+    "region": "gb-wales",
+    "country": "uk",
+    "region_name_vi": "Wales (Xứ Wales)",
+    "name_vi": "Trung tâm nghệ thuật Wales Millennium",
+    "name_en": "Wales Millennium Centre",
+    "name_local": "",
+    "categories": [
+      "theatre",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 51.4649,
+      "lon": -3.1631
+    },
+    "address_vi": "Cardiff Bay, Cardiff",
+    "presentation_short_vi": "Nhà hát nghệ thuật biểu diễn biểu tượng ở Vịnh Cardiff, mặt tiền đồng vòm khắc thơ song ngữ - công trình hiện đại nổi bật.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.4649,-3.1631",
+      "yandex": "https://yandex.com/maps/?pt=-3.1631,51.4649&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "arts",
+      "landmark",
+      "waterfront"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gb-wales-principality-stadium",
+    "slug": "principality-stadium",
+    "region": "gb-wales",
+    "country": "uk",
+    "region_name_vi": "Wales (Xứ Wales)",
+    "name_vi": "Sân vận động Principality",
+    "name_en": "Principality Stadium",
+    "name_local": "",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 51.4782,
+      "lon": -3.1827
+    },
+    "address_vi": "Westgate Street, Cardiff",
+    "presentation_short_vi": "Sân vận động quốc gia có mái che di động, sức chứa 74.500 chỗ, thánh địa bóng bầu dục Wales ngay trung tâm thủ đô.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.4782,-3.1827",
+      "yandex": "https://yandex.com/maps/?pt=-3.1827,51.4782&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "stadium",
+      "sport",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gb-wales-national-museum-cardiff",
+    "slug": "national-museum-cardiff",
+    "region": "gb-wales",
+    "country": "uk",
+    "region_name_vi": "Wales (Xứ Wales)",
+    "name_vi": "Bảo tàng Quốc gia Cardiff",
+    "name_en": "National Museum Cardiff",
+    "name_local": "",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 51.4857,
+      "lon": -3.1768
+    },
+    "address_vi": "Cathays Park, Cardiff",
+    "presentation_short_vi": "Bảo tàng nghệ thuật và lịch sử tự nhiên với bộ sưu tập tranh Ấn tượng hàng đầu châu Âu cùng các trưng bày về địa chất, tiến hóa.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.4857,-3.1768",
+      "yandex": "https://yandex.com/maps/?pt=-3.1768,51.4857&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "art",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gb-wales-pontcysyllte-aqueduct",
+    "slug": "pontcysyllte-aqueduct",
+    "region": "gb-wales",
+    "country": "uk",
+    "region_name_vi": "Wales (Xứ Wales)",
+    "name_vi": "Cầu máng nước Pontcysyllte",
+    "name_en": "Pontcysyllte Aqueduct",
+    "name_local": "",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 52.9698,
+      "lon": -3.0871
+    },
+    "address_vi": "Trevor, Wrexham",
+    "presentation_short_vi": "Cầu máng dẫn kênh cao 38 m do Thomas Telford thiết kế năm 1805, kỳ quan kỹ thuật thời Cách mạng Công nghiệp; Di sản UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.9698,-3.0871",
+      "yandex": "https://yandex.com/maps/?pt=-3.0871,52.9698&z=16&l=map"
+    },
+    "tags": [
+      "unesco",
+      "aqueduct",
+      "engineering",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "gb-wales-brecon-beacons-pen-y-fan",
+    "slug": "brecon-beacons-pen-y-fan",
+    "region": "gb-wales",
+    "country": "uk",
+    "region_name_vi": "Wales (Xứ Wales)",
+    "name_vi": "Núi Pen y Fan (Brecon Beacons)",
+    "name_en": "Pen y Fan, Brecon Beacons",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 51.8842,
+      "lon": -3.436
+    },
+    "address_vi": "Vườn quốc gia Bannau Brycheiniog (Brecon Beacons), Powys",
+    "presentation_short_vi": "Đỉnh núi cao 886 m - cao nhất miền nam nước Anh, trung tâm vườn quốc gia với đồng cỏ, thác nước và đường mòn đi bộ nổi tiếng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.8842,-3.436",
+      "yandex": "https://yandex.com/maps/?pt=-3.436,51.8842&z=16&l=map"
+    },
+    "tags": [
+      "mountain",
+      "nature",
+      "scenic",
+      "hiking"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

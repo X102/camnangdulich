@@ -1,0 +1,414 @@
+[
+  {
+    "id": "no-trondheim-nidaros-cathedral",
+    "slug": "nidaros-cathedral",
+    "region": "no-trondheim",
+    "country": "norway",
+    "region_name_vi": "Trondheim",
+    "name_vi": "Nhà thờ chính tòa Nidaros",
+    "name_en": "Nidaros Cathedral",
+    "name_local": "Nidarosdomen",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 63.4269,
+      "lon": 10.3964
+    },
+    "address_vi": "Kongsgårdsgata, Midtbyen, Trondheim",
+    "presentation_short_vi": "Nhà thờ Gothic lớn nhất Bắc Âu, xây trên mộ Thánh Olav, nơi đăng quang truyền thống của các vua Na Uy.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=63.4269,10.3964",
+      "yandex": "https://yandex.com/maps/?pt=10.3964,63.4269&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "church",
+      "gothic",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-trondheim-archbishops-palace",
+    "slug": "archbishops-palace",
+    "region": "no-trondheim",
+    "country": "norway",
+    "region_name_vi": "Trondheim",
+    "name_vi": "Cung điện Tổng giám mục",
+    "name_en": "Archbishop's Palace",
+    "name_local": "Erkebispegården",
+    "categories": [
+      "palace",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 63.4261,
+      "lon": 10.3956
+    },
+    "address_vi": "Cạnh nhà thờ Nidaros, Trondheim",
+    "presentation_short_vi": "Dinh thự đá thời trung cổ cạnh nhà thờ Nidaros, nay là bảo tàng trưng bày vương miện hoàng gia Na Uy.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=63.4261,10.3956",
+      "yandex": "https://yandex.com/maps/?pt=10.3956,63.4261&z=16&l=map"
+    },
+    "tags": [
+      "palace",
+      "historic",
+      "museum"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-trondheim-old-town-bridge",
+    "slug": "old-town-bridge",
+    "region": "no-trondheim",
+    "country": "norway",
+    "region_name_vi": "Trondheim",
+    "name_vi": "Cầu Phố Cổ (Gamle Bybro)",
+    "name_en": "Old Town Bridge",
+    "name_local": "Gamle Bybro",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 63.4281,
+      "lon": 10.3986
+    },
+    "address_vi": "Bắc qua sông Nidelva, Trondheim",
+    "presentation_short_vi": "Cây cầu gỗ với cổng đỏ 'Cổng Hạnh Phúc', điểm ngắm khu nhà kho ven sông Bakklandet nổi tiếng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=63.4281,10.3986",
+      "yandex": "https://yandex.com/maps/?pt=10.3986,63.4281&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "bridge",
+      "landmark",
+      "photo"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-trondheim-bakklandet",
+    "slug": "bakklandet",
+    "region": "no-trondheim",
+    "country": "norway",
+    "region_name_vi": "Trondheim",
+    "name_vi": "Khu phố cổ Bakklandet",
+    "name_en": "Bakklandet",
+    "name_local": "Bakklandet",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 63.4293,
+      "lon": 10.401
+    },
+    "address_vi": "Bờ đông sông Nidelva, Trondheim",
+    "presentation_short_vi": "Khu phố cổ với nhà gỗ nhiều màu, quán cà phê và đường lát đá, một trong những góc lãng mạn nhất Trondheim.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=63.4293,10.401",
+      "yandex": "https://yandex.com/maps/?pt=10.401,63.4293&z=16&l=map"
+    },
+    "tags": [
+      "historic",
+      "street",
+      "cafe",
+      "photo"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-trondheim-kristiansten-fortress",
+    "slug": "kristiansten-fortress",
+    "region": "no-trondheim",
+    "country": "norway",
+    "region_name_vi": "Trondheim",
+    "name_vi": "Pháo đài Kristiansten",
+    "name_en": "Kristiansten Fortress",
+    "name_local": "Kristiansten festning",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 63.4293,
+      "lon": 10.4156
+    },
+    "address_vi": "Đồi phía đông trung tâm, Trondheim",
+    "presentation_short_vi": "Pháo đài thế kỷ 17 từng bảo vệ thành phố khỏi quân Thụy Điển, nay là điểm ngắm toàn cảnh Trondheim.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=63.4293,10.4156",
+      "yandex": "https://yandex.com/maps/?pt=10.4156,63.4293&z=16&l=map"
+    },
+    "tags": [
+      "fortress",
+      "historic",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-trondheim-munkholmen",
+    "slug": "munkholmen",
+    "region": "no-trondheim",
+    "country": "norway",
+    "region_name_vi": "Trondheim",
+    "name_vi": "Đảo Munkholmen",
+    "name_en": "Munkholmen",
+    "name_local": "Munkholmen",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 63.4506,
+      "lon": 10.3811
+    },
+    "address_vi": "Vịnh Trondheim, ngoài khơi bến cảng",
+    "presentation_short_vi": "Đảo nhỏ từng là tu viện, pháo đài và nhà tù, nay là điểm tham quan và tắm biển đi thuyền từ trung tâm.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=63.4506,10.3811",
+      "yandex": "https://yandex.com/maps/?pt=10.3811,63.4506&z=16&l=map"
+    },
+    "tags": [
+      "island",
+      "fortress",
+      "historic",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-trondheim-stiftsgarden",
+    "slug": "stiftsgarden",
+    "region": "no-trondheim",
+    "country": "norway",
+    "region_name_vi": "Trondheim",
+    "name_vi": "Dinh thự Stiftsgården",
+    "name_en": "Stiftsgården",
+    "name_local": "Stiftsgården",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 63.4322,
+      "lon": 10.3969
+    },
+    "address_vi": "Munkegata, Midtbyen, Trondheim",
+    "presentation_short_vi": "Cung điện gỗ hoàng gia lớn nhất Bắc Âu (thế kỷ 18), nơi lưu trú chính thức của nhà vua khi tới Trondheim.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=63.4322,10.3969",
+      "yandex": "https://yandex.com/maps/?pt=10.3969,63.4322&z=16&l=map"
+    },
+    "tags": [
+      "palace",
+      "royal",
+      "historic",
+      "wooden"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-trondheim-rockheim",
+    "slug": "rockheim",
+    "region": "no-trondheim",
+    "country": "norway",
+    "region_name_vi": "Trondheim",
+    "name_vi": "Bảo tàng nhạc Rockheim",
+    "name_en": "Rockheim",
+    "name_local": "Rockheim",
+    "categories": [
+      "museum",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 63.4358,
+      "lon": 10.4103
+    },
+    "address_vi": "Bến cảng Brattøra, Trondheim",
+    "presentation_short_vi": "Bảo tàng quốc gia về nhạc pop và rock Na Uy với khối 'hộp đèn' hiện đại nổi bật bên bến cảng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=63.4358,10.4103",
+      "yandex": "https://yandex.com/maps/?pt=10.4103,63.4358&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "modern",
+      "music"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-trondheim-ringve-museum",
+    "slug": "ringve-museum",
+    "region": "no-trondheim",
+    "country": "norway",
+    "region_name_vi": "Trondheim",
+    "name_vi": "Bảo tàng âm nhạc Ringve",
+    "name_en": "Ringve Music Museum",
+    "name_local": "Ringve Musikkmuseum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 63.4436,
+      "lon": 10.4506
+    },
+    "address_vi": "Lade, Trondheim",
+    "presentation_short_vi": "Bảo tàng nhạc cụ quốc gia trong trang viên cổ, bao quanh bởi vườn thực vật Ringve.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=63.4436,10.4506",
+      "yandex": "https://yandex.com/maps/?pt=10.4506,63.4436&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "music",
+      "garden"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-trondheim-sverresborg",
+    "slug": "sverresborg",
+    "region": "no-trondheim",
+    "country": "norway",
+    "region_name_vi": "Trondheim",
+    "name_vi": "Bảo tàng dân gian Sverresborg",
+    "name_en": "Sverresborg Trøndelag Folk Museum",
+    "name_local": "Sverresborg Trøndelag Folkemuseum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 63.4131,
+      "lon": 10.36
+    },
+    "address_vi": "Sverresborg, Trondheim",
+    "presentation_short_vi": "Bảo tàng ngoài trời với hơn 80 công trình lịch sử quanh phế tích lâu đài vua Sverre thế kỷ 12.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=63.4131,10.36",
+      "yandex": "https://yandex.com/maps/?pt=10.36,63.4131&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "openair",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-trondheim-tyholt-tower",
+    "slug": "tyholt-tower",
+    "region": "no-trondheim",
+    "country": "norway",
+    "region_name_vi": "Trondheim",
+    "name_vi": "Tháp Tyholt",
+    "name_en": "Tyholt Tower",
+    "name_local": "Tyholttårnet",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 63.4222,
+      "lon": 10.4333
+    },
+    "address_vi": "Tyholt, Trondheim",
+    "presentation_short_vi": "Tháp truyền hình cao 124 m với nhà hàng xoay và đài quan sát nhìn toàn cảnh thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=63.4222,10.4333",
+      "yandex": "https://yandex.com/maps/?pt=10.4333,63.4222&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "tower",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-trondheim-torvet",
+    "slug": "torvet",
+    "region": "no-trondheim",
+    "country": "norway",
+    "region_name_vi": "Trondheim",
+    "name_vi": "Quảng trường trung tâm & tượng Olav Tryggvason",
+    "name_en": "Trondheim Central Square (Torvet)",
+    "name_local": "Torvet",
+    "categories": [
+      "square_street",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 63.4305,
+      "lon": 10.3951
+    },
+    "address_vi": "Trung tâm Midtbyen, Trondheim",
+    "presentation_short_vi": "Quảng trường chính của thành phố với cột tượng đài Olav Tryggvason — người sáng lập Trondheim năm 997.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=63.4305,10.3951",
+      "yandex": "https://yandex.com/maps/?pt=10.3951,63.4305&z=16&l=map"
+    },
+    "tags": [
+      "square",
+      "monument",
+      "central"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-trondheim-bymarka",
+    "slug": "bymarka",
+    "region": "no-trondheim",
+    "country": "norway",
+    "region_name_vi": "Trondheim",
+    "name_vi": "Khu rừng Bymarka",
+    "name_en": "Bymarka",
+    "name_local": "Bymarka",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 63.4,
+      "lon": 10.3167
+    },
+    "address_vi": "Phía tây Trondheim",
+    "presentation_short_vi": "Khu rừng và hồ rộng lớn ven thành phố, thiên đường đi bộ, trượt tuyết và ngắm cảnh của người Trondheim.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=63.4,10.3167",
+      "yandex": "https://yandex.com/maps/?pt=10.3167,63.4&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "forest",
+      "hiking",
+      "recreation"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

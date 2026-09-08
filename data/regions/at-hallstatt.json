@@ -1,0 +1,419 @@
+[
+  {
+    "id": "at-hallstatt-marktplatz",
+    "slug": "marktplatz",
+    "region": "at-hallstatt",
+    "country": "austria",
+    "region_name_vi": "Hallstatt",
+    "name_vi": "Quảng trường Chợ Hallstatt",
+    "name_en": "Hallstatt Market Square",
+    "name_local": "Marktplatz Hallstatt",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 47.5615,
+      "lon": 13.6493
+    },
+    "address_vi": "Marktplatz, trung tâm phố cổ Hallstatt",
+    "presentation_short_vi": "Quảng trường trung tâm của làng cổ Hallstatt với những ngôi nhà gỗ pastel thế kỉ 16, đài phun nước và cột Ba Ngôi (Dreifaltigkeitssäule).",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.5615,13.6493",
+      "yandex": "https://yandex.com/maps/?pt=13.6493,47.5615&z=16&l=map"
+    },
+    "tags": [
+      "old-town",
+      "square",
+      "unesco",
+      "iconic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-hallstatt-evangelical-church",
+    "slug": "evangelical-church",
+    "region": "at-hallstatt",
+    "country": "austria",
+    "region_name_vi": "Hallstatt",
+    "name_vi": "Nhà thờ Tin Lành Hallstatt",
+    "name_en": "Hallstatt Evangelical Church",
+    "name_local": "Evangelische Pfarrkirche (Christuskirche)",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 47.5622,
+      "lon": 13.647
+    },
+    "address_vi": "Landungsplatz, ven hồ, Hallstatt",
+    "presentation_short_vi": "Nhà thờ Tin Lành tân Gothic với tháp chuông nhọn soi bóng xuống hồ — hình ảnh bưu thiếp kinh điển và biểu tượng của Hallstatt.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.5622,13.647",
+      "yandex": "https://yandex.com/maps/?pt=13.647,47.5622&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "iconic",
+      "lakeside",
+      "photo"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-hallstatt-charnel-house",
+    "slug": "charnel-house",
+    "region": "at-hallstatt",
+    "country": "austria",
+    "region_name_vi": "Hallstatt",
+    "name_vi": "Nhà thờ Công giáo & Nhà xương (Beinhaus)",
+    "name_en": "Catholic Parish Church & Charnel House",
+    "name_local": "Kath. Pfarrkirche & Beinhaus",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 47.5628,
+      "lon": 13.6482
+    },
+    "address_vi": "Kirchenweg, trên đồi phía nam làng Hallstatt",
+    "presentation_short_vi": "Nhà thờ Công giáo Mariä Himmelfahrt với bàn thờ cánh Gothic muộn và nhà xương lưu giữ hơn 600 hộp sọ được vẽ trang trí độc đáo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.5628,13.6482",
+      "yandex": "https://yandex.com/maps/?pt=13.6482,47.5628&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "charnel-house",
+      "gothic",
+      "unique"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-hallstatt-hallstatter-see",
+    "slug": "hallstatter-see",
+    "region": "at-hallstatt",
+    "country": "austria",
+    "region_name_vi": "Hallstatt",
+    "name_vi": "Hồ Hallstatt",
+    "name_en": "Lake Hallstatt",
+    "name_local": "Hallstätter See",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 47.575,
+      "lon": 13.647
+    },
+    "address_vi": "Hồ Hallstätter See, vùng Salzkammergut",
+    "presentation_short_vi": "Hồ băng hà xanh thẳm dài khoảng 8 km giữa dãy Dachstein và núi non Salzkammergut, có thể dạo bằng thuyền chèo tay hoặc tàu điện–phà cổ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.575,13.647",
+      "yandex": "https://yandex.com/maps/?pt=13.647,47.575&z=16&l=map"
+    },
+    "tags": [
+      "lake",
+      "nature",
+      "boat",
+      "unesco"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-hallstatt-salt-mine",
+    "slug": "salt-mine",
+    "region": "at-hallstatt",
+    "country": "austria",
+    "region_name_vi": "Hallstatt",
+    "name_vi": "Mỏ muối Hallstatt (Salzwelten)",
+    "name_en": "Hallstatt Salt Mine",
+    "name_local": "Salzwelten Hallstatt",
+    "categories": [
+      "other",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 47.5555,
+      "lon": 13.6432
+    },
+    "address_vi": "Salzberg, phía trên làng Hallstatt (đi cáp Salzbergbahn)",
+    "presentation_short_vi": "Mỏ muối lâu đời nhất thế giới với hơn 7.000 năm khai thác; tham quan bằng máng trượt gỗ của thợ mỏ, hồ muối ngầm và khu khảo cổ thời đại Hallstatt.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.5555,13.6432",
+      "yandex": "https://yandex.com/maps/?pt=13.6432,47.5555&z=16&l=map"
+    },
+    "tags": [
+      "salt-mine",
+      "history",
+      "underground",
+      "funicular"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-hallstatt-skywalk-welterbeblick",
+    "slug": "skywalk-welterbeblick",
+    "region": "at-hallstatt",
+    "country": "austria",
+    "region_name_vi": "Hallstatt",
+    "name_vi": "Đài quan sát Skywalk 'Welterbeblick'",
+    "name_en": "Hallstatt Skywalk Welterbeblick",
+    "name_local": "Welterbeblick Skywalk",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 47.5607,
+      "lon": 13.646
+    },
+    "address_vi": "Salzberg, cạnh khu mỏ muối, phía trên Hallstatt",
+    "presentation_short_vi": "Sân ngắm cảnh bằng thép nhô ra 12 m khỏi vách núi ở độ cao 360 m, cho tầm nhìn thẳng xuống toàn cảnh làng Hallstatt và hồ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.5607,13.646",
+      "yandex": "https://yandex.com/maps/?pt=13.646,47.5607&z=16&l=map"
+    },
+    "tags": [
+      "viewpoint",
+      "skywalk",
+      "modern",
+      "panorama"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-hallstatt-rudolfsturm",
+    "slug": "rudolfsturm",
+    "region": "at-hallstatt",
+    "country": "austria",
+    "region_name_vi": "Hallstatt",
+    "name_vi": "Tháp Rudolf (Rudolfsturm)",
+    "name_en": "Rudolf Tower",
+    "name_local": "Rudolfsturm",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 47.5606,
+      "lon": 13.6452
+    },
+    "address_vi": "Salzberg, phía trên làng Hallstatt",
+    "presentation_short_vi": "Tháp canh xây từ cuối thế kỉ 13 để bảo vệ mỏ muối, nay là nhà hàng với ban công nhìn bao quát làng và hồ Hallstatt.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.5606,13.6452",
+      "yandex": "https://yandex.com/maps/?pt=13.6452,47.5606&z=16&l=map"
+    },
+    "tags": [
+      "tower",
+      "medieval",
+      "viewpoint",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-hallstatt-world-heritage-museum",
+    "slug": "world-heritage-museum",
+    "region": "at-hallstatt",
+    "country": "austria",
+    "region_name_vi": "Hallstatt",
+    "name_vi": "Bảo tàng Di sản Thế giới Hallstatt",
+    "name_en": "Hallstatt World Heritage Museum",
+    "name_local": "Welterbemuseum Hallstatt",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 47.5619,
+      "lon": 13.6489
+    },
+    "address_vi": "Seestraße 56, trung tâm Hallstatt",
+    "presentation_short_vi": "Bảo tàng trưng bày 7.000 năm lịch sử Hallstatt — từ nền văn hóa Hallstatt thời đồ sắt, nghề muối cổ đến đời sống làng ven hồ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.5619,13.6489",
+      "yandex": "https://yandex.com/maps/?pt=13.6489,47.5619&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "history",
+      "archaeology",
+      "culture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-hallstatt-krippenstein-5fingers",
+    "slug": "krippenstein-5fingers",
+    "region": "at-hallstatt",
+    "country": "austria",
+    "region_name_vi": "Hallstatt",
+    "name_vi": "Krippenstein & đài 5fingers",
+    "name_en": "Dachstein Krippenstein & 5fingers",
+    "name_local": "Krippenstein & 5fingers",
+    "categories": [
+      "other",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 47.509,
+      "lon": 13.6908
+    },
+    "address_vi": "Núi Krippenstein, Obertraun, khối núi Dachstein",
+    "presentation_short_vi": "Đỉnh Krippenstein (2.100 m) đi bằng cáp treo, nổi tiếng với sàn ngắm cảnh 5fingers hình bàn tay nhô ra vách đá và World Heritage Spiral.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.509,13.6908",
+      "yandex": "https://yandex.com/maps/?pt=13.6908,47.509&z=16&l=map"
+    },
+    "tags": [
+      "mountain",
+      "viewpoint",
+      "cable-car",
+      "platform"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-hallstatt-dachstein-ice-cave",
+    "slug": "dachstein-ice-cave",
+    "region": "at-hallstatt",
+    "country": "austria",
+    "region_name_vi": "Hallstatt",
+    "name_vi": "Hang băng khổng lồ Dachstein",
+    "name_en": "Dachstein Giant Ice Cave",
+    "name_local": "Dachstein Rieseneishöhle",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 47.534,
+      "lon": 13.701
+    },
+    "address_vi": "Schönbergalm, Obertraun, khối núi Dachstein",
+    "presentation_short_vi": "Hang động băng vĩnh cửu trong lòng núi Dachstein với những khối băng và thác băng khổng lồ được chiếu sáng nghệ thuật; đi tới bằng cáp treo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.534,13.701",
+      "yandex": "https://yandex.com/maps/?pt=13.701,47.534&z=16&l=map"
+    },
+    "tags": [
+      "cave",
+      "ice",
+      "nature",
+      "dachstein"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-hallstatt-gosausee",
+    "slug": "gosausee",
+    "region": "at-hallstatt",
+    "country": "austria",
+    "region_name_vi": "Hallstatt",
+    "name_vi": "Hồ Gosausee",
+    "name_en": "Vorderer Gosausee",
+    "name_local": "Vorderer Gosausee",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 47.5343,
+      "lon": 13.4881
+    },
+    "address_vi": "Gosau, vùng Salzkammergut",
+    "presentation_short_vi": "Hồ núi tĩnh lặng phản chiếu sông băng Dachstein, điểm khởi đầu nhiều tuyến đi bộ đường dài đẹp nhất vùng Salzkammergut.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.5343,13.4881",
+      "yandex": "https://yandex.com/maps/?pt=13.4881,47.5343&z=16&l=map"
+    },
+    "tags": [
+      "lake",
+      "nature",
+      "reflection",
+      "hiking"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-hallstatt-waldbachstrub-waterfall",
+    "slug": "waldbachstrub-waterfall",
+    "region": "at-hallstatt",
+    "country": "austria",
+    "region_name_vi": "Hallstatt",
+    "name_vi": "Thác Waldbachstrub",
+    "name_en": "Waldbachstrub Waterfall",
+    "name_local": "Waldbachstrub-Wasserfall",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 47.547,
+      "lon": 13.63
+    },
+    "address_vi": "Thung lũng Echerntal, phía nam Hallstatt",
+    "presentation_short_vi": "Thác nước ba tầng trong thung lũng băng hà Echerntal, nằm trên tuyến đi bộ 'Vườn kỉ băng hà' (Gletschergarten) gần Hallstatt.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.547,13.63",
+      "yandex": "https://yandex.com/maps/?pt=13.63,47.547&z=16&l=map"
+    },
+    "tags": [
+      "waterfall",
+      "nature",
+      "hiking"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-hallstatt-lakeside-promenade",
+    "slug": "lakeside-promenade",
+    "region": "at-hallstatt",
+    "country": "austria",
+    "region_name_vi": "Hallstatt",
+    "name_vi": "Phố ven hồ Seestraße",
+    "name_en": "Hallstatt Lakeside Promenade",
+    "name_local": "Seestraße",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 47.5618,
+      "lon": 13.648
+    },
+    "address_vi": "Seestraße, dọc bờ hồ Hallstatt",
+    "presentation_short_vi": "Con phố ven hồ chính của Hallstatt với dãy nhà gỗ san sát, quán cà phê và những góc ngắm cảnh bưu thiếp nổi tiếng khắp thế giới.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.5618,13.648",
+      "yandex": "https://yandex.com/maps/?pt=13.648,47.5618&z=16&l=map"
+    },
+    "tags": [
+      "street",
+      "promenade",
+      "old-town",
+      "photo"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

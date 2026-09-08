@@ -1,0 +1,381 @@
+[
+  {
+    "id": "nl-amsterdam-rijksmuseum",
+    "slug": "rijksmuseum",
+    "region": "nl-amsterdam",
+    "country": "netherlands",
+    "region_name_vi": "Amsterdam",
+    "name_vi": "Bảo tàng Quốc gia Rijksmuseum",
+    "name_en": "Rijksmuseum",
+    "name_local": "Rijksmuseum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 52.36,
+      "lon": 4.8852
+    },
+    "address_vi": "Museumstraat 1, Amsterdam",
+    "presentation_short_vi": "Bảo tàng quốc gia Hà Lan với hơn 8.000 hiện vật, nổi bật là kiệt tác 'Tuần canh đêm' của Rembrandt và các danh họa Thời hoàng kim.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.36,4.8852",
+      "yandex": "https://yandex.com/maps/?pt=4.8852,52.36&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "museum",
+      "landmark",
+      "art"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "nl-amsterdam-van-gogh-museum",
+    "slug": "van-gogh-museum",
+    "region": "nl-amsterdam",
+    "country": "netherlands",
+    "region_name_vi": "Amsterdam",
+    "name_vi": "Bảo tàng Van Gogh",
+    "name_en": "Van Gogh Museum",
+    "name_local": "Van Gogh Museum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 52.3584,
+      "lon": 4.8811
+    },
+    "address_vi": "Museumplein 6, Amsterdam",
+    "presentation_short_vi": "Nơi lưu giữ bộ sưu tập tranh và thư từ của Vincent van Gogh lớn nhất thế giới, gồm 'Hoa hướng dương' và 'Những người ăn khoai'.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.3584,4.8811",
+      "yandex": "https://yandex.com/maps/?pt=4.8811,52.3584&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "museum",
+      "art"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "nl-amsterdam-anne-frank-house",
+    "slug": "anne-frank-house",
+    "region": "nl-amsterdam",
+    "country": "netherlands",
+    "region_name_vi": "Amsterdam",
+    "name_vi": "Nhà Anne Frank",
+    "name_en": "Anne Frank House",
+    "name_local": "Anne Frank Huis",
+    "categories": [
+      "museum",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 52.3752,
+      "lon": 4.884
+    },
+    "address_vi": "Prinsengracht 263-267, Amsterdam",
+    "presentation_short_vi": "Ngôi nhà nơi Anne Frank cùng gia đình ẩn náu thời Đức Quốc xã, nay là bảo tàng tưởng niệm nổi tiếng thế giới về nạn diệt chủng Holocaust.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.3752,4.884",
+      "yandex": "https://yandex.com/maps/?pt=4.884,52.3752&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "museum",
+      "history",
+      "memorial"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "nl-amsterdam-koninklijk-paleis",
+    "slug": "koninklijk-paleis",
+    "region": "nl-amsterdam",
+    "country": "netherlands",
+    "region_name_vi": "Amsterdam",
+    "name_vi": "Cung điện Hoàng gia Amsterdam",
+    "name_en": "Royal Palace of Amsterdam",
+    "name_local": "Koninklijk Paleis Amsterdam",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 52.3731,
+      "lon": 4.8913
+    },
+    "address_vi": "Nieuwezijds Voorburgwal 147, Quảng trường Dam, Amsterdam",
+    "presentation_short_vi": "Cung điện thế kỷ 17 xây theo phong cách cổ điển Hà Lan trên Quảng trường Dam, hiện là một trong ba dinh thự chính thức của Nhà vua Hà Lan.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.3731,4.8913",
+      "yandex": "https://yandex.com/maps/?pt=4.8913,52.3731&z=16&l=map"
+    },
+    "tags": [
+      "palace",
+      "landmark",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "nl-amsterdam-dam-square",
+    "slug": "dam-square",
+    "region": "nl-amsterdam",
+    "country": "netherlands",
+    "region_name_vi": "Amsterdam",
+    "name_vi": "Quảng trường Dam",
+    "name_en": "Dam Square",
+    "name_local": "De Dam",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 52.3731,
+      "lon": 4.8926
+    },
+    "address_vi": "Trung tâm Amsterdam",
+    "presentation_short_vi": "Quảng trường trung tâm lịch sử của Amsterdam, nơi tọa lạc Cung điện Hoàng gia, Nhà thờ Mới và Đài tưởng niệm Quốc gia.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.3731,4.8926",
+      "yandex": "https://yandex.com/maps/?pt=4.8926,52.3731&z=16&l=map"
+    },
+    "tags": [
+      "square",
+      "landmark",
+      "central"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "nl-amsterdam-westerkerk",
+    "slug": "westerkerk",
+    "region": "nl-amsterdam",
+    "country": "netherlands",
+    "region_name_vi": "Amsterdam",
+    "name_vi": "Nhà thờ Westerkerk",
+    "name_en": "Westerkerk (Western Church)",
+    "name_local": "Westerkerk",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 52.3742,
+      "lon": 4.8836
+    },
+    "address_vi": "Prinsengracht 281, Amsterdam",
+    "presentation_short_vi": "Nhà thờ Tin Lành thế kỷ 17 với tháp chuông Westertoren cao 85 m — công trình cao nhất khu phố cổ; Rembrandt được an táng tại đây.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.3742,4.8836",
+      "yandex": "https://yandex.com/maps/?pt=4.8836,52.3742&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "landmark",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "nl-amsterdam-vondelpark",
+    "slug": "vondelpark",
+    "region": "nl-amsterdam",
+    "country": "netherlands",
+    "region_name_vi": "Amsterdam",
+    "name_vi": "Công viên Vondelpark",
+    "name_en": "Vondelpark",
+    "name_local": "Vondelpark",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 52.358,
+      "lon": 4.8686
+    },
+    "address_vi": "Amsterdam-Zuid",
+    "presentation_short_vi": "Công viên đô thị lớn và nổi tiếng nhất Amsterdam rộng 47 ha, điểm dạo bộ, đạp xe và thư giãn quen thuộc của người dân và du khách.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.358,4.8686",
+      "yandex": "https://yandex.com/maps/?pt=4.8686,52.358&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "nature",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "nl-amsterdam-grachtengordel",
+    "slug": "grachtengordel",
+    "region": "nl-amsterdam",
+    "country": "netherlands",
+    "region_name_vi": "Amsterdam",
+    "name_vi": "Vành đai Kênh đào (Grachtengordel)",
+    "name_en": "Amsterdam Canal Ring",
+    "name_local": "Grachtengordel",
+    "categories": [
+      "square_street",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 52.3667,
+      "lon": 4.885
+    },
+    "address_vi": "Trung tâm lịch sử Amsterdam",
+    "presentation_short_vi": "Hệ thống kênh đào hình vòng cung thế kỷ 17 được UNESCO công nhận Di sản Thế giới, biểu tượng cảnh quan đặc trưng của Amsterdam.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.3667,4.885",
+      "yandex": "https://yandex.com/maps/?pt=4.885,52.3667&z=16&l=map"
+    },
+    "tags": [
+      "unesco",
+      "scenic",
+      "canal",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "nl-amsterdam-adam-lookout",
+    "slug": "adam-lookout",
+    "region": "nl-amsterdam",
+    "country": "netherlands",
+    "region_name_vi": "Amsterdam",
+    "name_vi": "Đài quan sát A'DAM Lookout",
+    "name_en": "A'DAM Lookout",
+    "name_local": "A'DAM Lookout",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 52.3839,
+      "lon": 4.902
+    },
+    "address_vi": "Overhoeksplein 5, Amsterdam-Noord",
+    "presentation_short_vi": "Đài quan sát trên đỉnh tháp A'DAM Tower cao 100 m, có xích đu 'Over the Edge' nhìn toàn cảnh thành phố — công trình giải trí hiện đại.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.3839,4.902",
+      "yandex": "https://yandex.com/maps/?pt=4.902,52.3839&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "viewpoint",
+      "observation"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "nl-amsterdam-nemo-science-museum",
+    "slug": "nemo-science-museum",
+    "region": "nl-amsterdam",
+    "country": "netherlands",
+    "region_name_vi": "Amsterdam",
+    "name_vi": "Bảo tàng Khoa học NEMO",
+    "name_en": "NEMO Science Museum",
+    "name_local": "NEMO Science Museum",
+    "categories": [
+      "museum",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 52.3739,
+      "lon": 4.9121
+    },
+    "address_vi": "Oosterdok 2, Amsterdam",
+    "presentation_short_vi": "Bảo tàng khoa học tương tác lớn nhất Hà Lan trong tòa nhà hình mũi tàu màu xanh của kiến trúc sư Renzo Piano, có sân thượng ngắm cảnh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.3739,4.9121",
+      "yandex": "https://yandex.com/maps/?pt=4.9121,52.3739&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "museum",
+      "science",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "nl-amsterdam-rembrandt-house",
+    "slug": "rembrandt-house",
+    "region": "nl-amsterdam",
+    "country": "netherlands",
+    "region_name_vi": "Amsterdam",
+    "name_vi": "Bảo tàng Nhà Rembrandt",
+    "name_en": "Rembrandt House Museum",
+    "name_local": "Museum Het Rembrandthuis",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 52.3693,
+      "lon": 4.9013
+    },
+    "address_vi": "Jodenbreestraat 4, Amsterdam",
+    "presentation_short_vi": "Ngôi nhà nơi danh họa Rembrandt sống và làm việc gần 20 năm, được phục dựng cùng xưởng vẽ và bộ sưu tập tranh khắc của ông.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.3693,4.9013",
+      "yandex": "https://yandex.com/maps/?pt=4.9013,52.3693&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "art",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "nl-amsterdam-nieuwe-kerk",
+    "slug": "nieuwe-kerk",
+    "region": "nl-amsterdam",
+    "country": "netherlands",
+    "region_name_vi": "Amsterdam",
+    "name_vi": "Nhà thờ Nieuwe Kerk",
+    "name_en": "Nieuwe Kerk (New Church)",
+    "name_local": "De Nieuwe Kerk",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 52.3739,
+      "lon": 4.8909
+    },
+    "address_vi": "Quảng trường Dam, Amsterdam",
+    "presentation_short_vi": "Nhà thờ Gothic bên Quảng trường Dam, nơi diễn ra lễ đăng quang các quốc vương Hà Lan và nhiều triển lãm nghệ thuật lớn.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.3739,4.8909",
+      "yandex": "https://yandex.com/maps/?pt=4.8909,52.3739&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  }
+]

@@ -1,0 +1,423 @@
+[
+  {
+    "id": "ie-cork-st-fin-barres-cathedral",
+    "slug": "st-fin-barres-cathedral",
+    "region": "ie-cork",
+    "country": "ireland",
+    "region_name_vi": "Cork",
+    "name_vi": "Nhà thờ Chính tòa St Fin Barre",
+    "name_en": "Saint Fin Barre's Cathedral",
+    "name_local": "",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 51.8938,
+      "lon": -8.4808
+    },
+    "address_vi": "Bishop Street, Cork",
+    "presentation_short_vi": "Nhà thờ Anh giáo tân Gothic Pháp hoàn thành năm 1879, nổi bật với ba ngọn tháp nhọn và tượng thiên thần vàng 'Resurrection Angel' trên nóc.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.8938,-8.4808",
+      "yandex": "https://yandex.com/maps/?pt=-8.4808,51.8938&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "church",
+      "cathedral",
+      "gothic",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ie-cork-english-market",
+    "slug": "english-market",
+    "region": "ie-cork",
+    "country": "ireland",
+    "region_name_vi": "Cork",
+    "name_vi": "Chợ English Market",
+    "name_en": "The English Market",
+    "name_local": "",
+    "categories": [
+      "square_street",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 51.8979,
+      "lon": -8.4736
+    },
+    "address_vi": "Grand Parade, Cork",
+    "presentation_short_vi": "Khu chợ ẩm thực có mái che hoạt động từ năm 1788, thiên đường đặc sản địa phương với đài phun nước trung tâm và kiến trúc Victoria.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.8979,-8.4736",
+      "yandex": "https://yandex.com/maps/?pt=-8.4736,51.8979&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "market",
+      "food",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ie-cork-blarney-castle",
+    "slug": "blarney-castle",
+    "region": "ie-cork",
+    "country": "ireland",
+    "region_name_vi": "Cork",
+    "name_vi": "Lâu đài Blarney & Hòn đá Hùng biện",
+    "name_en": "Blarney Castle & Gardens",
+    "name_local": "",
+    "categories": [
+      "fortress",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 51.924,
+      "lon": -8.5692
+    },
+    "address_vi": "Blarney, Co. Cork",
+    "presentation_short_vi": "Pháo đài trung cổ thế kỷ 15 nổi tiếng với Hòn đá Blarney - hôn vào được cho là ban tài ăn nói - cùng khu vườn và Vườn Độc dược quyến rũ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.924,-8.5692",
+      "yandex": "https://yandex.com/maps/?pt=-8.5692,51.924&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "castle",
+      "fortress",
+      "gardens",
+      "legend"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ie-cork-shandon-bells",
+    "slug": "shandon-bells",
+    "region": "ie-cork",
+    "country": "ireland",
+    "region_name_vi": "Cork",
+    "name_vi": "Chuông Shandon (Nhà thờ St Anne)",
+    "name_en": "Shandon Bells & Tower (St Anne's Church)",
+    "name_local": "",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 51.9024,
+      "lon": -8.4744
+    },
+    "address_vi": "Church Street, Shandon, Cork",
+    "presentation_short_vi": "Tháp chuông thế kỷ 18 với đồng hồ bốn mặt và cá hồi mạ vàng trên đỉnh; du khách có thể tự kéo chuông và ngắm toàn cảnh thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.9024,-8.4744",
+      "yandex": "https://yandex.com/maps/?pt=-8.4744,51.9024&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "tower",
+      "viewpoint",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ie-cork-cork-city-gaol",
+    "slug": "cork-city-gaol",
+    "region": "ie-cork",
+    "country": "ireland",
+    "region_name_vi": "Cork",
+    "name_vi": "Nhà tù Thành phố Cork",
+    "name_en": "Cork City Gaol",
+    "name_local": "",
+    "categories": [
+      "monument",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 51.8992,
+      "lon": -8.4949
+    },
+    "address_vi": "Convent Avenue, Sunday's Well, Cork",
+    "presentation_short_vi": "Nhà tù kiểu lâu đài thế kỷ 19 nay là bảo tàng, tái hiện đời sống tù nhân bằng tượng sáp và không gian nguyên bản đầy ấn tượng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.8992,-8.4949",
+      "yandex": "https://yandex.com/maps/?pt=-8.4949,51.8992&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ie-cork-university-college-cork",
+    "slug": "university-college-cork",
+    "region": "ie-cork",
+    "country": "ireland",
+    "region_name_vi": "Cork",
+    "name_vi": "Đại học Cork (UCC)",
+    "name_en": "University College Cork",
+    "name_local": "",
+    "categories": [
+      "other",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 51.8935,
+      "lon": -8.4919
+    },
+    "address_vi": "College Road, Cork",
+    "presentation_short_vi": "Khuôn viên đại học tân Gothic thế kỷ 19 với sân quad cổ kính, khu vườn ven sông Lee và phòng trưng bày đá khắc chữ Ogham cổ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.8935,-8.4919",
+      "yandex": "https://yandex.com/maps/?pt=-8.4919,51.8935&z=16&l=map"
+    },
+    "tags": [
+      "historic",
+      "campus",
+      "scenic",
+      "garden"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ie-cork-fitzgerald-park",
+    "slug": "fitzgerald-park",
+    "region": "ie-cork",
+    "country": "ireland",
+    "region_name_vi": "Cork",
+    "name_vi": "Công viên Fitzgerald & Bảo tàng Cork",
+    "name_en": "Fitzgerald Park & Cork Public Museum",
+    "name_local": "",
+    "categories": [
+      "park_garden",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 51.8963,
+      "lon": -8.4874
+    },
+    "address_vi": "Mardyke, Cork",
+    "presentation_short_vi": "Công viên Victoria ven sông Lee với vườn cây, hồ nước, đài phun và Bảo tàng Công cộng Cork, nối sang thành phố qua 'Cầu Daly'.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.8963,-8.4874",
+      "yandex": "https://yandex.com/maps/?pt=-8.4874,51.8963&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "scenic",
+      "museum",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ie-cork-elizabeth-fort",
+    "slug": "elizabeth-fort",
+    "region": "ie-cork",
+    "country": "ireland",
+    "region_name_vi": "Cork",
+    "name_vi": "Pháo đài Elizabeth",
+    "name_en": "Elizabeth Fort",
+    "name_local": "",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 51.8949,
+      "lon": -8.4772
+    },
+    "address_vi": "Barrack Street, Cork",
+    "presentation_short_vi": "Pháo đài hình sao thế kỷ 17 nằm trên gò cao giữa lòng thành phố, nay mở cửa miễn phí với lối đi trên tường thành ngắm toàn cảnh Cork.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.8949,-8.4772",
+      "yandex": "https://yandex.com/maps/?pt=-8.4772,51.8949&z=16&l=map"
+    },
+    "tags": [
+      "fortress",
+      "historic",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ie-cork-crawford-art-gallery",
+    "slug": "crawford-art-gallery",
+    "region": "ie-cork",
+    "country": "ireland",
+    "region_name_vi": "Cork",
+    "name_vi": "Phòng trưng bày Nghệ thuật Crawford",
+    "name_en": "Crawford Art Gallery",
+    "name_local": "",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 51.8994,
+      "lon": -8.4728
+    },
+    "address_vi": "Emmet Place, Cork",
+    "presentation_short_vi": "Bảo tàng mỹ thuật quốc gia trong tòa Nhà Hải quan gạch đỏ 1724, trưng bày tranh Ireland và bộ tượng thạch cao cổ điển danh tiếng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.8994,-8.4728",
+      "yandex": "https://yandex.com/maps/?pt=-8.4728,51.8994&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "art",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ie-cork-cork-opera-house",
+    "slug": "cork-opera-house",
+    "region": "ie-cork",
+    "country": "ireland",
+    "region_name_vi": "Cork",
+    "name_vi": "Nhà hát Opera Cork",
+    "name_en": "Cork Opera House",
+    "name_local": "",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 51.8998,
+      "lon": -8.4736
+    },
+    "address_vi": "Emmet Place, Cork",
+    "presentation_short_vi": "Nhà hát chính của thành phố, tòa nhà hiện đại xây lại năm 1965 bên sông Lee, sân khấu trọng điểm cho opera, kịch và hòa nhạc.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.8998,-8.4736",
+      "yandex": "https://yandex.com/maps/?pt=-8.4736,51.8998&z=16&l=map"
+    },
+    "tags": [
+      "theatre",
+      "modern",
+      "culture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ie-cork-st-colmans-cathedral-cobh",
+    "slug": "st-colmans-cathedral-cobh",
+    "region": "ie-cork",
+    "country": "ireland",
+    "region_name_vi": "Cork",
+    "name_vi": "Nhà thờ Chính tòa St Colman (Cobh)",
+    "name_en": "St Colman's Cathedral, Cobh",
+    "name_local": "",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 51.8508,
+      "lon": -8.2942
+    },
+    "address_vi": "Cobh, Co. Cork",
+    "presentation_short_vi": "Thánh đường tân Gothic bề thế trên đồi nhìn xuống cảng Cobh, tháp cao 91,4 m với bộ chuông carillon 49 quả lớn nhất Ireland và Anh quốc.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.8508,-8.2942",
+      "yandex": "https://yandex.com/maps/?pt=-8.2942,51.8508&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "church",
+      "cathedral",
+      "scenic",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ie-cork-fota-wildlife-park",
+    "slug": "fota-wildlife-park",
+    "region": "ie-cork",
+    "country": "ireland",
+    "region_name_vi": "Cork",
+    "name_vi": "Vườn thú hoang dã Fota",
+    "name_en": "Fota Wildlife Park",
+    "name_local": "",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 51.887,
+      "lon": -8.3067
+    },
+    "address_vi": "Fota Island, Carrigtwohill, Co. Cork",
+    "presentation_short_vi": "Vườn thú mở nơi nhiều loài như vượn cáo, hươu cao cổ và kangaroo đi lại tự do giữa khách tham quan, đặt trên đảo Fota xanh mát.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.887,-8.3067",
+      "yandex": "https://yandex.com/maps/?pt=-8.3067,51.887&z=16&l=map"
+    },
+    "tags": [
+      "family",
+      "wildlife",
+      "nature",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ie-cork-charles-fort-kinsale",
+    "slug": "charles-fort-kinsale",
+    "region": "ie-cork",
+    "country": "ireland",
+    "region_name_vi": "Cork",
+    "name_vi": "Pháo đài Charles (Kinsale)",
+    "name_en": "Charles Fort",
+    "name_local": "",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 51.6987,
+      "lon": -8.4996
+    },
+    "address_vi": "Summercove, Kinsale, Co. Cork",
+    "presentation_short_vi": "Pháo đài hình sao ven biển cuối thế kỷ 17 canh giữ cửa cảng Kinsale, một trong những công trình quân sự còn nguyên vẹn nhất Ireland.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.6987,-8.4996",
+      "yandex": "https://yandex.com/maps/?pt=-8.4996,51.6987&z=16&l=map"
+    },
+    "tags": [
+      "fortress",
+      "historic",
+      "coast",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

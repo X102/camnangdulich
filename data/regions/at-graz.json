@@ -1,0 +1,463 @@
+[
+  {
+    "id": "at-graz-thap-dong-ho-uhrturm",
+    "slug": "thap-dong-ho-uhrturm",
+    "region": "at-graz",
+    "country": "austria",
+    "region_name_vi": "Graz",
+    "name_vi": "Tháp Đồng hồ (Uhrturm)",
+    "name_en": "Clock Tower (Uhrturm)",
+    "name_local": "Uhrturm",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 47.0737,
+      "lon": 15.4372
+    },
+    "address_vi": "Schlossberg, trung tâm Graz",
+    "presentation_short_vi": "Tháp đồng hồ thế kỷ 16 trên đồi Schlossberg với mặt đồng hồ khổng lồ đảo ngược kim (kim giờ dài, kim phút ngắn), biểu tượng được yêu mến nhất của thành phố Graz.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.0737,15.4372",
+      "yandex": "https://yandex.com/maps/?pt=15.4372,47.0737&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "monument",
+      "landmark",
+      "iconic",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-graz-doi-schlossberg",
+    "slug": "doi-schlossberg",
+    "region": "at-graz",
+    "country": "austria",
+    "region_name_vi": "Graz",
+    "name_vi": "Đồi Schlossberg",
+    "name_en": "Schlossberg",
+    "name_local": "Schlossberg",
+    "categories": [
+      "park_garden",
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 47.0743,
+      "lon": 15.4378
+    },
+    "address_vi": "Schlossberg, trung tâm Graz",
+    "presentation_short_vi": "Ngọn đồi đá dolomit cao 473 m giữa lòng Graz, vốn là pháo đài bất khả xâm phạm; nay là công viên xanh với tháp đồng hồ, tháp chuông và tầm nhìn bao quát mái ngói đỏ phố cổ, lên bằng đường sắt leo dốc hoặc thang máy trong lòng núi.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.0743,15.4378",
+      "yandex": "https://yandex.com/maps/?pt=15.4378,47.0743&z=16&l=map"
+    },
+    "tags": [
+      "fortress",
+      "park",
+      "viewpoint",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-graz-thap-chuong-glockenturm",
+    "slug": "thap-chuong-glockenturm",
+    "region": "at-graz",
+    "country": "austria",
+    "region_name_vi": "Graz",
+    "name_vi": "Tháp Chuông (Glockenturm)",
+    "name_en": "Bell Tower (Glockenturm)",
+    "name_local": "Glockenturm",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 47.0748,
+      "lon": 15.4388
+    },
+    "address_vi": "Schlossberg, trung tâm Graz",
+    "presentation_short_vi": "Tháp chuông bát giác năm 1588 trên đồi Schlossberg, lưu giữ 'Liesl' - quả chuông lớn và được yêu mến nhất Graz nặng gần 5 tấn, ngân vang ba lần mỗi ngày.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.0748,15.4388",
+      "yandex": "https://yandex.com/maps/?pt=15.4388,47.0748&z=16&l=map"
+    },
+    "tags": [
+      "monument",
+      "tower",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-graz-nha-tho-chinh-toa-graz",
+    "slug": "nha-tho-chinh-toa-graz",
+    "region": "at-graz",
+    "country": "austria",
+    "region_name_vi": "Graz",
+    "name_vi": "Nhà thờ Chính toà Graz",
+    "name_en": "Graz Cathedral",
+    "name_local": "Grazer Dom",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 47.0709,
+      "lon": 15.4433
+    },
+    "address_vi": "Burggasse 3, trung tâm Graz",
+    "presentation_short_vi": "Nhà thờ chính toà Gothic thế kỷ 15 từng là nhà thờ hoàng gia của Hoàng đế Friedrich III, còn lưu bích họa 'Tai họa của Chúa' và nội thất Baroque lộng lẫy bên trong.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.0709,15.4433",
+      "yandex": "https://yandex.com/maps/?pt=15.4433,47.0709&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "gothic",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-graz-lang-mo-ferdinand-ii",
+    "slug": "lang-mo-ferdinand-ii",
+    "region": "at-graz",
+    "country": "austria",
+    "region_name_vi": "Graz",
+    "name_vi": "Lăng mộ Hoàng đế Ferdinand II",
+    "name_en": "Mausoleum of Ferdinand II",
+    "name_local": "Mausoleum Kaiser Ferdinands II.",
+    "categories": [
+      "monument",
+      "church"
+    ],
+    "coordinates": {
+      "lat": 47.071,
+      "lon": 15.4429
+    },
+    "address_vi": "Burggasse 2A, cạnh Nhà thờ Chính toà, Graz",
+    "presentation_short_vi": "Lăng mộ hoàng gia Mannerism - Baroque với mái vòm xanh đặc trưng, nơi an nghỉ của Hoàng đế Ferdinand II, phần nội thất do danh họa - kiến trúc sư Johann Bernhard Fischer von Erlach thiết kế.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.071,15.4429",
+      "yandex": "https://yandex.com/maps/?pt=15.4429,47.071&z=16&l=map"
+    },
+    "tags": [
+      "monument",
+      "mausoleum",
+      "baroque",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-graz-kho-vu-khi-landeszeughaus",
+    "slug": "kho-vu-khi-landeszeughaus",
+    "region": "at-graz",
+    "country": "austria",
+    "region_name_vi": "Graz",
+    "name_vi": "Kho Vũ khí bang (Landeszeughaus)",
+    "name_en": "Styrian Armoury",
+    "name_local": "Landeszeughaus",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 47.0698,
+      "lon": 15.4383
+    },
+    "address_vi": "Herrengasse 16, trung tâm Graz",
+    "presentation_short_vi": "Kho vũ khí lịch sử lớn nhất thế giới còn nguyên vẹn, lưu giữ khoảng 32.000 áo giáp, gươm, súng và mũ trận từ thế kỷ 15-18, chứng tích thời Graz là tiền đồn chống quân Ottoman.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.0698,15.4383",
+      "yandex": "https://yandex.com/maps/?pt=15.4383,47.0698&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "history",
+      "armoury",
+      "landmark",
+      "unique"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-graz-landhaus-graz",
+    "slug": "landhaus-graz",
+    "region": "at-graz",
+    "country": "austria",
+    "region_name_vi": "Graz",
+    "name_vi": "Toà Landhaus",
+    "name_en": "Landhaus",
+    "name_local": "Landhaus",
+    "categories": [
+      "monument",
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 47.0701,
+      "lon": 15.4381
+    },
+    "address_vi": "Herrengasse 16, trung tâm Graz",
+    "presentation_short_vi": "Trụ sở nghị viện bang Styria kiểu Phục hưng Ý thế kỷ 16, nổi bật với sân trong ba tầng hành lang vòm cung (arcade) tao nhã bậc nhất vùng Trung Âu.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.0701,15.4381",
+      "yandex": "https://yandex.com/maps/?pt=15.4381,47.0701&z=16&l=map"
+    },
+    "tags": [
+      "renaissance",
+      "architecture",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-graz-kunsthaus-graz",
+    "slug": "kunsthaus-graz",
+    "region": "at-graz",
+    "country": "austria",
+    "region_name_vi": "Graz",
+    "name_vi": "Bảo tàng Nghệ thuật Kunsthaus",
+    "name_en": "Kunsthaus Graz",
+    "name_local": "Kunsthaus Graz",
+    "categories": [
+      "museum",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 47.0715,
+      "lon": 15.4336
+    },
+    "address_vi": "Lendkai 1, bờ tây sông Mur, Graz",
+    "presentation_short_vi": "Bảo tàng nghệ thuật đương đại với khối kiến trúc bong bóng xanh dương kỳ dị được gọi thân mật là 'Người ngoài hành tinh thân thiện', biểu tượng kiến trúc hiện đại đối lập thú vị với phố cổ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.0715,15.4336",
+      "yandex": "https://yandex.com/maps/?pt=15.4336,47.0715&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "architecture",
+      "museum",
+      "art",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-graz-dao-murinsel",
+    "slug": "dao-murinsel",
+    "region": "at-graz",
+    "country": "austria",
+    "region_name_vi": "Graz",
+    "name_vi": "Đảo Murinsel",
+    "name_en": "Murinsel (Mur Island)",
+    "name_local": "Murinsel",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 47.0726,
+      "lon": 15.4331
+    },
+    "address_vi": "Sông Mur, giữa Lendkai và Mariahilferplatz, Graz",
+    "presentation_short_vi": "Hòn đảo nhân tạo bằng thép và kính hình vỏ sò nổi trên sông Mur do nghệ sĩ Vito Acconci thiết kế năm 2003, bên trong có quán café, sân khấu và sân chơi trẻ em nối hai bờ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.0726,15.4331",
+      "yandex": "https://yandex.com/maps/?pt=15.4331,47.0726&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "architecture",
+      "landmark",
+      "cafe",
+      "unique"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-graz-quang-truong-chinh-hauptplatz",
+    "slug": "quang-truong-chinh-hauptplatz",
+    "region": "at-graz",
+    "country": "austria",
+    "region_name_vi": "Graz",
+    "name_vi": "Quảng trường Chính Hauptplatz",
+    "name_en": "Main Square (Hauptplatz)",
+    "name_local": "Hauptplatz",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 47.0708,
+      "lon": 15.4383
+    },
+    "address_vi": "Hauptplatz, trung tâm Graz",
+    "presentation_short_vi": "Quảng trường trung tâm hình thành từ năm 1160, bao quanh là các dinh thự lịch sử nhiều màu và Toà Thị chính, có đài phun nước Archduke Johann; điểm hẹn nhộn nhịp với các quầy ăn đường phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.0708,15.4383",
+      "yandex": "https://yandex.com/maps/?pt=15.4383,47.0708&z=16&l=map"
+    },
+    "tags": [
+      "square",
+      "central",
+      "history",
+      "landmark",
+      "food"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-graz-cung-dien-eggenberg",
+    "slug": "cung-dien-eggenberg",
+    "region": "at-graz",
+    "country": "austria",
+    "region_name_vi": "Graz",
+    "name_vi": "Cung điện Eggenberg",
+    "name_en": "Eggenberg Palace",
+    "name_local": "Schloss Eggenberg",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 47.0739,
+      "lon": 15.3913
+    },
+    "address_vi": "Eggenberger Allee 90, quận Eggenberg, Graz",
+    "presentation_short_vi": "Cung điện Baroque tráng lệ nhất Styria (Di sản UNESCO) thiết kế theo biểu tượng vũ trụ và lịch: 365 cửa sổ, 24 phòng khánh tiết, đỉnh cao là Sảnh Hành tinh dát tranh; bao quanh là công viên rộng có công thả rông.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.0739,15.3913",
+      "yandex": "https://yandex.com/maps/?pt=15.3913,47.0739&z=16&l=map"
+    },
+    "tags": [
+      "palace",
+      "baroque",
+      "unesco",
+      "garden",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-graz-nha-tho-herz-jesu",
+    "slug": "nha-tho-herz-jesu",
+    "region": "at-graz",
+    "country": "austria",
+    "region_name_vi": "Graz",
+    "name_vi": "Nhà thờ Thánh Tâm (Herz-Jesu)",
+    "name_en": "Sacred Heart Church",
+    "name_local": "Herz-Jesu-Kirche",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 47.0688,
+      "lon": 15.453
+    },
+    "address_vi": "Sparbersbachgasse 60, Graz",
+    "presentation_short_vi": "Nhà thờ Tân Gothic lớn nhất Graz với tháp nhọn cao 109,6 m - tháp nhà thờ cao thứ ba nước Áo, nổi bật với các cửa kính màu tinh xảo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.0688,15.453",
+      "yandex": "https://yandex.com/maps/?pt=15.453,47.0688&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "neogothic",
+      "landmark",
+      "tallest"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-graz-nha-hat-opera-graz",
+    "slug": "nha-hat-opera-graz",
+    "region": "at-graz",
+    "country": "austria",
+    "region_name_vi": "Graz",
+    "name_vi": "Nhà hát Opera Graz",
+    "name_en": "Graz Opera House",
+    "name_local": "Grazer Oper",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 47.0693,
+      "lon": 15.447
+    },
+    "address_vi": "Kaiser-Josef-Platz 10, Graz",
+    "presentation_short_vi": "Nhà hát opera tân Baroque khánh thành năm 1899, nhà hát nhạc kịch lớn thứ nhì nước Áo, lộng lẫy với nội thất mạ vàng và chương trình opera, ballet phong phú.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.0693,15.447",
+      "yandex": "https://yandex.com/maps/?pt=15.447,47.0693&z=16&l=map"
+    },
+    "tags": [
+      "theatre",
+      "opera",
+      "baroque",
+      "culture",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "at-graz-nha-tho-dong-phanxico",
+    "slug": "nha-tho-dong-phanxico",
+    "region": "at-graz",
+    "country": "austria",
+    "region_name_vi": "Graz",
+    "name_vi": "Nhà thờ dòng Phanxicô",
+    "name_en": "Franciscan Church",
+    "name_local": "Franziskanerkirche",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 47.0704,
+      "lon": 15.4368
+    },
+    "address_vi": "Franziskanerplatz 14, trung tâm Graz",
+    "presentation_short_vi": "Cụm nhà thờ và tu viện Phanxicô có từ thế kỷ 13 với tháp gạch cao, nằm giữa khu phố cổ quyến rũ nhiều ngõ nhỏ và quán ăn quanh quảng trường Franziskanerplatz.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.0704,15.4368",
+      "yandex": "https://yandex.com/maps/?pt=15.4368,47.0704&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "gothic",
+      "history",
+      "oldtown"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

@@ -1,0 +1,379 @@
+[
+  {
+    "id": "gb-london-big-ben-cung-dien-westminster",
+    "slug": "big-ben-cung-dien-westminster",
+    "region": "gb-london",
+    "country": "uk",
+    "region_name_vi": "London",
+    "name_vi": "Tháp Big Ben và Cung điện Westminster",
+    "name_en": "Big Ben & Palace of Westminster",
+    "name_local": "",
+    "categories": [
+      "palace",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 51.4995,
+      "lon": -0.1248
+    },
+    "address_vi": "Westminster, London SW1A 0AA",
+    "presentation_short_vi": "Tòa nhà Nghị viện Anh theo phong cách Tân Gothic bên bờ sông Thames, nổi tiếng với tháp đồng hồ Big Ben (Tháp Elizabeth); là Di sản Thế giới UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.4995,-0.1248",
+      "yandex": "https://yandex.com/maps/?pt=-0.1248,51.4995&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "landmark",
+      "parliament",
+      "unesco"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "gb-london-thap-luan-don",
+    "slug": "thap-luan-don",
+    "region": "gb-london",
+    "country": "uk",
+    "region_name_vi": "London",
+    "name_vi": "Tháp Luân Đôn",
+    "name_en": "Tower of London",
+    "name_local": "",
+    "categories": [
+      "fortress",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 51.5081,
+      "lon": -0.0759
+    },
+    "address_vi": "St Katharine's & Wapping, London EC3N 4AB",
+    "presentation_short_vi": "Pháo đài hoàng gia lịch sử gần 1.000 năm tuổi bên sông Thames, nơi cất giữ Vương miện Bảo vật Hoàng gia và có các Lính gác Beefeater; Di sản Thế giới UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.5081,-0.0759",
+      "yandex": "https://yandex.com/maps/?pt=-0.0759,51.5081&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "fortress",
+      "castle",
+      "unesco"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "gb-london-cau-thap",
+    "slug": "cau-thap",
+    "region": "gb-london",
+    "country": "uk",
+    "region_name_vi": "London",
+    "name_vi": "Cầu Tháp",
+    "name_en": "Tower Bridge",
+    "name_local": "",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 51.5055,
+      "lon": -0.0754
+    },
+    "address_vi": "Tower Bridge Road, London SE1 2UP",
+    "presentation_short_vi": "Cầu treo và cầu nâng kiểu Victoria với hai tháp tân Gothic bắc qua sông Thames, biểu tượng nổi tiếng của London với lối đi kính trên cao.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.5055,-0.0754",
+      "yandex": "https://yandex.com/maps/?pt=-0.0754,51.5055&z=16&l=map"
+    },
+    "tags": [
+      "bridge",
+      "iconic",
+      "victorian"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "gb-london-vong-quay-london-eye",
+    "slug": "vong-quay-london-eye",
+    "region": "gb-london",
+    "country": "uk",
+    "region_name_vi": "London",
+    "name_vi": "Vòng quay London Eye",
+    "name_en": "London Eye",
+    "name_local": "",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 51.5033,
+      "lon": -0.1195
+    },
+    "address_vi": "Riverside Building, County Hall, Bờ Nam sông Thames, London SE1 7PB",
+    "presentation_short_vi": "Vòng quay quan sát cao 135 m bên bờ sông Thames, một trong những đài ngắm cảnh nổi tiếng nhất châu Âu nhìn ra toàn cảnh trung tâm London.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.5033,-0.1195",
+      "yandex": "https://yandex.com/maps/?pt=-0.1195,51.5033&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "viewpoint",
+      "ferris-wheel"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "gb-london-bao-tang-anh",
+    "slug": "bao-tang-anh",
+    "region": "gb-london",
+    "country": "uk",
+    "region_name_vi": "London",
+    "name_vi": "Bảo tàng Anh",
+    "name_en": "British Museum",
+    "name_local": "",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 51.5194,
+      "lon": -0.127
+    },
+    "address_vi": "Great Russell Street, Bloomsbury, London WC1B 3DG",
+    "presentation_short_vi": "Bảo tàng bách khoa lừng danh với bộ sưu tập cổ vật khổng lồ như Đá Rosetta và điêu khắc Parthenon; vào cửa miễn phí.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.5194,-0.127",
+      "yandex": "https://yandex.com/maps/?pt=-0.127,51.5194&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "museum",
+      "history",
+      "free"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "gb-london-cung-dien-buckingham",
+    "slug": "cung-dien-buckingham",
+    "region": "gb-london",
+    "country": "uk",
+    "region_name_vi": "London",
+    "name_vi": "Cung điện Buckingham",
+    "name_en": "Buckingham Palace",
+    "name_local": "",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 51.5014,
+      "lon": -0.1419
+    },
+    "address_vi": "Westminster, London SW1A 1AA",
+    "presentation_short_vi": "Nơi ở chính thức của quốc vương Anh tại London, nổi tiếng với nghi lễ đổi gác trước cổng và các phòng khánh tiết lộng lẫy mở cửa vào mùa hè.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.5014,-0.1419",
+      "yandex": "https://yandex.com/maps/?pt=-0.1419,51.5014&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "palace",
+      "royal"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "gb-london-nha-tho-chinh-toa-st-paul",
+    "slug": "nha-tho-chinh-toa-st-paul",
+    "region": "gb-london",
+    "country": "uk",
+    "region_name_vi": "London",
+    "name_vi": "Nhà thờ chính tòa Thánh Paul",
+    "name_en": "St Paul's Cathedral",
+    "name_local": "",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 51.5138,
+      "lon": -0.0984
+    },
+    "address_vi": "St Paul's Churchyard, London EC4M 8AD",
+    "presentation_short_vi": "Thánh đường mái vòm kiệt tác Baroque do Sir Christopher Wren thiết kế sau Đại hỏa hoạn 1666, với Phòng Thì thầm và đài ngắm trên mái vòm.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.5138,-0.0984",
+      "yandex": "https://yandex.com/maps/?pt=-0.0984,51.5138&z=16&l=map"
+    },
+    "tags": [
+      "cathedral",
+      "baroque",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "gb-london-tu-vien-westminster",
+    "slug": "tu-vien-westminster",
+    "region": "gb-london",
+    "country": "uk",
+    "region_name_vi": "London",
+    "name_vi": "Tu viện Westminster",
+    "name_en": "Westminster Abbey",
+    "name_local": "",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 51.4994,
+      "lon": -0.1273
+    },
+    "address_vi": "20 Deans Yard, Westminster, London SW1P 3PA",
+    "presentation_short_vi": "Nhà thờ Gothic nơi đăng quang và an nghỉ của các vị vua Anh suốt gần một nghìn năm, nơi diễn ra các lễ hoàng gia; Di sản Thế giới UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.4994,-0.1273",
+      "yandex": "https://yandex.com/maps/?pt=-0.1273,51.4994&z=16&l=map"
+    },
+    "tags": [
+      "gothic",
+      "royal",
+      "unesco"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "gb-london-cong-vien-hyde-park",
+    "slug": "cong-vien-hyde-park",
+    "region": "gb-london",
+    "country": "uk",
+    "region_name_vi": "London",
+    "name_vi": "Công viên Hyde Park",
+    "name_en": "Hyde Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 51.5073,
+      "lon": -0.1657
+    },
+    "address_vi": "Westminster, London W2 2UH",
+    "presentation_short_vi": "Công viên hoàng gia rộng lớn ở trung tâm London với hồ Serpentine, Góc Diễn thuyết và những thảm cỏ xanh, nơi thư giãn ưa thích của người dân.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.5073,-0.1657",
+      "yandex": "https://yandex.com/maps/?pt=-0.1657,51.5073&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "royal",
+      "relax"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "gb-london-quang-truong-trafalgar",
+    "slug": "quang-truong-trafalgar",
+    "region": "gb-london",
+    "country": "uk",
+    "region_name_vi": "London",
+    "name_vi": "Quảng trường Trafalgar",
+    "name_en": "Trafalgar Square",
+    "name_local": "",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 51.508,
+      "lon": -0.1281
+    },
+    "address_vi": "Trafalgar Square, London WC2N 5DN",
+    "presentation_short_vi": "Quảng trường trung tâm nổi tiếng với Cột Nelson, các đài phun nước và sư tử đồng, cạnh Phòng trưng bày Quốc gia; nơi tụ họp và lễ hội của London.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.508,-0.1281",
+      "yandex": "https://yandex.com/maps/?pt=-0.1281,51.508&z=16&l=map"
+    },
+    "tags": [
+      "square",
+      "central",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "gb-london-toa-nha-the-shard",
+    "slug": "toa-nha-the-shard",
+    "region": "gb-london",
+    "country": "uk",
+    "region_name_vi": "London",
+    "name_vi": "Tòa nhà The Shard",
+    "name_en": "The Shard",
+    "name_local": "",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 51.5045,
+      "lon": -0.0865
+    },
+    "address_vi": "32 London Bridge Street, London SE1 9SG",
+    "presentation_short_vi": "Tòa nhà chọc trời bằng kính cao 310 m do Renzo Piano thiết kế, cao nhất Vương quốc Anh, có đài quan sát 'The View' nhìn toàn cảnh London.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.5045,-0.0865",
+      "yandex": "https://yandex.com/maps/?pt=-0.0865,51.5045&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "skyscraper",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "gb-london-bao-tang-lich-su-tu-nhien",
+    "slug": "bao-tang-lich-su-tu-nhien",
+    "region": "gb-london",
+    "country": "uk",
+    "region_name_vi": "London",
+    "name_vi": "Bảo tàng Lịch sử Tự nhiên",
+    "name_en": "Natural History Museum",
+    "name_local": "",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 51.4967,
+      "lon": -0.1764
+    },
+    "address_vi": "Cromwell Road, South Kensington, London SW7 5BD",
+    "presentation_short_vi": "Bảo tàng lịch sử tự nhiên trong tòa nhà Romanesque tráng lệ ở South Kensington, nổi tiếng với bộ xương khủng long và sảnh Hintze; vào cửa miễn phí.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.4967,-0.1764",
+      "yandex": "https://yandex.com/maps/?pt=-0.1764,51.4967&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "family",
+      "free"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  }
+]

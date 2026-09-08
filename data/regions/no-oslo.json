@@ -1,0 +1,415 @@
+[
+  {
+    "id": "no-oslo-nha-hat-opera-oslo",
+    "slug": "nha-hat-opera-oslo",
+    "region": "no-oslo",
+    "country": "norway",
+    "region_name_vi": "Oslo",
+    "name_vi": "Nhà hát Opera Oslo",
+    "name_en": "Oslo Opera House",
+    "name_local": "Operahuset",
+    "categories": [
+      "theatre",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 59.9075,
+      "lon": 10.7533
+    },
+    "address_vi": "Kirsten Flagstads plass 1, Bjørvika, Oslo",
+    "presentation_short_vi": "Nhà hát opera quốc gia bằng đá cẩm thạch trắng khánh thành năm 2008, có mái dốc thoải cho khách đi bộ lên đỉnh — biểu tượng kiến trúc hiện đại của Oslo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=59.9075,10.7533",
+      "yandex": "https://yandex.com/maps/?pt=10.7533,59.9075&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "modern",
+      "architecture",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "no-oslo-cong-vien-vigeland",
+    "slug": "cong-vien-vigeland",
+    "region": "no-oslo",
+    "country": "norway",
+    "region_name_vi": "Oslo",
+    "name_vi": "Công viên điêu khắc Vigeland",
+    "name_en": "Vigeland Sculpture Park",
+    "name_local": "Vigelandsparken",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 59.927,
+      "lon": 10.7003
+    },
+    "address_vi": "Nobels gate 32, Frogner, Oslo",
+    "presentation_short_vi": "Công viên điêu khắc lớn nhất thế giới của một nghệ sĩ duy nhất, trưng bày hơn 200 tác phẩm của Gustav Vigeland, nổi bật là cột đá Monolitten và tượng Sinnataggen.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=59.927,10.7003",
+      "yandex": "https://yandex.com/maps/?pt=10.7003,59.927&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "park",
+      "sculpture",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "no-oslo-phao-dai-akershus",
+    "slug": "phao-dai-akershus",
+    "region": "no-oslo",
+    "country": "norway",
+    "region_name_vi": "Oslo",
+    "name_vi": "Pháo đài Akershus",
+    "name_en": "Akershus Fortress",
+    "name_local": "Akershus festning",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 59.9077,
+      "lon": 10.7361
+    },
+    "address_vi": "Akershus festning, trung tâm Oslo",
+    "presentation_short_vi": "Pháo đài kiêm lâu đài trung cổ khởi dựng khoảng năm 1300 bên bờ vịnh Oslo, từng bảo vệ thành phố và nay là nơi tổ chức nghi lễ nhà nước cùng bảo tàng quân sự.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=59.9077,10.7361",
+      "yandex": "https://yandex.com/maps/?pt=10.7361,59.9077&z=16&l=map"
+    },
+    "tags": [
+      "fortress",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "no-oslo-cung-dien-hoang-gia-oslo",
+    "slug": "cung-dien-hoang-gia-oslo",
+    "region": "no-oslo",
+    "country": "norway",
+    "region_name_vi": "Oslo",
+    "name_vi": "Cung điện Hoàng gia Oslo",
+    "name_en": "Royal Palace, Oslo",
+    "name_local": "Det kongelige slott",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 59.9169,
+      "lon": 10.7276
+    },
+    "address_vi": "Slottsplassen 1, Oslo",
+    "presentation_short_vi": "Cung điện tân cổ điển thế kỷ 19 là nơi ở của Nhà vua Na Uy, nằm cuối đại lộ Karl Johans gate với công viên hoàng cung và lễ đổi gác hằng ngày.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=59.9169,10.7276",
+      "yandex": "https://yandex.com/maps/?pt=10.7276,59.9169&z=16&l=map"
+    },
+    "tags": [
+      "palace",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "no-oslo-bao-tang-munch",
+    "slug": "bao-tang-munch",
+    "region": "no-oslo",
+    "country": "norway",
+    "region_name_vi": "Oslo",
+    "name_vi": "Bảo tàng Munch",
+    "name_en": "Munch Museum",
+    "name_local": "Munchmuseet",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 59.9058,
+      "lon": 10.7565
+    },
+    "address_vi": "Edvard Munchs plass 1, Bjørvika, Oslo",
+    "presentation_short_vi": "Bảo tàng cao 13 tầng khánh thành năm 2021 dành riêng cho danh họa Edvard Munch, lưu giữ bộ sưu tập lớn nhất thế giới về ông gồm kiệt tác 'Tiếng thét'.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=59.9058,10.7565",
+      "yandex": "https://yandex.com/maps/?pt=10.7565,59.9058&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "museum",
+      "art",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "no-oslo-bao-tang-fram",
+    "slug": "bao-tang-fram",
+    "region": "no-oslo",
+    "country": "norway",
+    "region_name_vi": "Oslo",
+    "name_vi": "Bảo tàng Fram",
+    "name_en": "Fram Museum",
+    "name_local": "Frammuseet",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 59.9028,
+      "lon": 10.6997
+    },
+    "address_vi": "Bygdøynesveien 39, Bygdøy, Oslo",
+    "presentation_short_vi": "Bảo tàng thám hiểm vùng cực trưng bày con tàu gỗ Fram nguyên vẹn — con tàu từng đi xa nhất về phương Bắc và phương Nam trong các chuyến thám hiểm địa cực.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=59.9028,10.6997",
+      "yandex": "https://yandex.com/maps/?pt=10.6997,59.9028&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "polar",
+      "history",
+      "maritime"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "no-oslo-bao-tang-kon-tiki",
+    "slug": "bao-tang-kon-tiki",
+    "region": "no-oslo",
+    "country": "norway",
+    "region_name_vi": "Oslo",
+    "name_vi": "Bảo tàng Kon-Tiki",
+    "name_en": "Kon-Tiki Museum",
+    "name_local": "Kon-Tiki Museet",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 59.9036,
+      "lon": 10.6986
+    },
+    "address_vi": "Bygdøynesveien 36, Bygdøy, Oslo",
+    "presentation_short_vi": "Bảo tàng lưu giữ bè Kon-Tiki và thuyền Ra II của nhà thám hiểm Thor Heyerdahl, người đã vượt Thái Bình Dương năm 1947 để chứng minh các giả thuyết di cư cổ đại.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=59.9036,10.6986",
+      "yandex": "https://yandex.com/maps/?pt=10.6986,59.9036&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "maritime",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "no-oslo-doi-nhay-holmenkollen",
+    "slug": "doi-nhay-holmenkollen",
+    "region": "no-oslo",
+    "country": "norway",
+    "region_name_vi": "Oslo",
+    "name_vi": "Đồi nhảy trượt tuyết Holmenkollen",
+    "name_en": "Holmenkollen Ski Jump",
+    "name_local": "Holmenkollbakken",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 59.9639,
+      "lon": 10.6683
+    },
+    "address_vi": "Kongeveien 5, Holmenkollen, Oslo",
+    "presentation_short_vi": "Đồi nhảy ski bằng thép hiện đại biểu tượng của Oslo, có đài quan sát trên đỉnh nhìn toàn cảnh thành phố và bảo tàng trượt tuyết lâu đời nhất thế giới bên dưới.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=59.9639,10.6683",
+      "yandex": "https://yandex.com/maps/?pt=10.6683,59.9639&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "viewpoint",
+      "sport",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "no-oslo-nha-tho-chinh-toa-oslo",
+    "slug": "nha-tho-chinh-toa-oslo",
+    "region": "no-oslo",
+    "country": "norway",
+    "region_name_vi": "Oslo",
+    "name_vi": "Nhà thờ chính tòa Oslo",
+    "name_en": "Oslo Cathedral",
+    "name_local": "Oslo domkirke",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 59.9127,
+      "lon": 10.7461
+    },
+    "address_vi": "Karl Johans gate 11, Oslo",
+    "presentation_short_vi": "Nhà thờ chính tòa của Oslo khánh thành năm 1697, nơi diễn ra các nghi lễ hoàng gia và quốc gia, nổi bật với trần vòm sơn màu và cửa đồng chạm trổ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=59.9127,10.7461",
+      "yandex": "https://yandex.com/maps/?pt=10.7461,59.9127&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "no-oslo-bao-tang-quoc-gia",
+    "slug": "bao-tang-quoc-gia",
+    "region": "no-oslo",
+    "country": "norway",
+    "region_name_vi": "Oslo",
+    "name_vi": "Bảo tàng Quốc gia Na Uy",
+    "name_en": "National Museum of Norway",
+    "name_local": "Nasjonalmuseet",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 59.9113,
+      "lon": 10.7285
+    },
+    "address_vi": "Brynjulf Bulls plass 3, Oslo",
+    "presentation_short_vi": "Bảo tàng nghệ thuật lớn nhất Bắc Âu khánh thành năm 2022, quy tụ bộ sưu tập mỹ thuật, thiết kế và cả bản gốc 'Tiếng thét' của Munch trong Phòng Ánh sáng trên mái.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=59.9113,10.7285",
+      "yandex": "https://yandex.com/maps/?pt=10.7285,59.9113&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "museum",
+      "art",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "no-oslo-aker-brygge",
+    "slug": "aker-brygge",
+    "region": "no-oslo",
+    "country": "norway",
+    "region_name_vi": "Oslo",
+    "name_vi": "Khu bến cảng Aker Brygge",
+    "name_en": "Aker Brygge",
+    "name_local": "Aker brygge",
+    "categories": [
+      "square_street",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 59.9107,
+      "lon": 10.728
+    },
+    "address_vi": "Aker Brygge, Oslo",
+    "presentation_short_vi": "Khu bến cảng cũ được cải tạo thành phố đi bộ ven vịnh sầm uất với nhà hàng, cửa hàng và bảo tàng nghệ thuật Astrup Fearnley — điểm hẹn hiện đại bên nước của Oslo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=59.9107,10.728",
+      "yandex": "https://yandex.com/maps/?pt=10.728,59.9107&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "waterfront",
+      "shopping",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "no-oslo-bao-tang-dan-gian",
+    "slug": "bao-tang-dan-gian",
+    "region": "no-oslo",
+    "country": "norway",
+    "region_name_vi": "Oslo",
+    "name_vi": "Bảo tàng Văn hóa Dân gian Na Uy",
+    "name_en": "Norwegian Museum of Cultural History",
+    "name_local": "Norsk Folkemuseum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 59.9046,
+      "lon": 10.6847
+    },
+    "address_vi": "Museumsveien 10, Bygdøy, Oslo",
+    "presentation_short_vi": "Bảo tàng ngoài trời với hơn 150 công trình cổ từ khắp Na Uy, nổi bật là nhà thờ gỗ cột Gol Stave Church thế kỷ 13 được di dời và bảo tồn tại đây.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=59.9046,10.6847",
+      "yandex": "https://yandex.com/maps/?pt=10.6847,59.9046&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "open-air",
+      "history",
+      "culture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "no-oslo-trung-tam-nobel-hoa-binh",
+    "slug": "trung-tam-nobel-hoa-binh",
+    "region": "no-oslo",
+    "country": "norway",
+    "region_name_vi": "Oslo",
+    "name_vi": "Trung tâm Nobel Hòa bình",
+    "name_en": "Nobel Peace Center",
+    "name_local": "Nobels Fredssenter",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 59.9114,
+      "lon": 10.7327
+    },
+    "address_vi": "Brynjulf Bulls plass 1, Oslo",
+    "presentation_short_vi": "Bảo tàng giới thiệu Giải Nobel Hòa bình và những người đoạt giải, đặt trong nhà ga xe lửa cũ bên bến cảng — điểm tìm hiểu về hòa bình và nhân quyền của Oslo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=59.9114,10.7327",
+      "yandex": "https://yandex.com/maps/?pt=10.7327,59.9114&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "history",
+      "peace"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  }
+]

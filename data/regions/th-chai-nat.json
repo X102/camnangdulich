@@ -1,0 +1,166 @@
+[
+  {
+    "id": "th-chai-nat-chao-phraya-dam",
+    "slug": "chao-phraya-dam",
+    "region": "th-chai-nat",
+    "country": "thailand",
+    "region_name_vi": "Chai Nat",
+    "name_vi": "Đập Chao Phraya",
+    "name_en": "Chao Phraya Dam",
+    "name_local": "เขื่อนเจ้าพระยา",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 15.15806,
+      "lon": 100.18
+    },
+    "address_vi": "Huyện Sapphaya, tỉnh Chai Nat",
+    "rating": null,
+    "presentation_short_vi": "Đập thủy lợi lớn đầu tiên của Thái Lan trên sông Chao Phraya, điều tiết nước cho vùng đồng bằng trung tâm; điểm ngắm cảnh và chụp ảnh nổi tiếng của tỉnh.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.18,15.15806&z=17&pt=100.18,15.15806",
+      "google": "https://www.google.com/maps/search/?api=1&query=15.15806,100.18"
+    },
+    "tags": [
+      "dam",
+      "river",
+      "irrigation",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "th-chai-nat-wat-thammamun-worawihan",
+    "slug": "wat-thammamun-worawihan",
+    "region": "th-chai-nat",
+    "country": "thailand",
+    "region_name_vi": "Chai Nat",
+    "name_vi": "Chùa Thammamun Worawihan",
+    "name_en": "Wat Thammamun Worawihan",
+    "name_local": "วัดธรรมามูลวรวิหาร",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 15.2485674,
+      "lon": 100.0836887
+    },
+    "address_vi": "Huyện Mueang, tỉnh Chai Nat",
+    "rating": null,
+    "presentation_short_vi": "Ngôi chùa cổ tựa lưng vào đồi Thammamun bên bờ sông Chao Phraya, thờ tượng Phật đứng linh thiêng Luang Pho Thammachak, là ngôi chùa quan trọng bậc nhất tỉnh Chai Nat.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.0836887,15.2485674&z=17&pt=100.0836887,15.2485674",
+      "google": "https://www.google.com/maps/search/?api=1&query=15.2485674,100.0836887"
+    },
+    "tags": [
+      "temple",
+      "wat",
+      "riverside",
+      "hillside",
+      "standing_buddha"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "th-chai-nat-wat-pak-khlong-makham-thao",
+    "slug": "wat-pak-khlong-makham-thao",
+    "region": "th-chai-nat",
+    "country": "thailand",
+    "region_name_vi": "Chai Nat",
+    "name_vi": "Chùa Pak Khlong Makham Thao",
+    "name_en": "Wat Pak Khlong Makham Thao",
+    "name_local": "วัดปากคลองมะขามเฒ่า",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 15.262052,
+      "lon": 100.056797
+    },
+    "address_vi": "Huyện Wat Sing, tỉnh Chai Nat",
+    "rating": null,
+    "presentation_short_vi": "Ngôi chùa nổi tiếng gắn với cao tăng Luang Pu Suk, lưu giữ bích họa cổ và điện thờ Hoàng thân Chumphon; điểm hành hương linh thiêng bên sông.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.056797,15.262052&z=17&pt=100.056797,15.262052",
+      "google": "https://www.google.com/maps/search/?api=1&query=15.262052,100.056797"
+    },
+    "tags": [
+      "temple",
+      "wat",
+      "luang_pu_suk",
+      "mural",
+      "pilgrimage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "th-chai-nat-chai-nat-bird-park",
+    "slug": "chai-nat-bird-park",
+    "region": "th-chai-nat",
+    "country": "thailand",
+    "region_name_vi": "Chai Nat",
+    "name_vi": "Vườn chim Chai Nat",
+    "name_en": "Chai Nat Bird Park",
+    "name_local": "สวนนกชัยนาท",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 15.206065,
+      "lon": 100.1523548
+    },
+    "address_vi": "Huyện Mueang, tỉnh Chai Nat",
+    "rating": null,
+    "presentation_short_vi": "Vườn chim tại chân đồi Khao Phlong với lồng chim khổng lồ từng thuộc hàng lớn nhất châu Á, trưng bày nhiều loài chim quý và là biểu tượng du lịch của tỉnh Chai Nat.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.1523548,15.206065&z=17&pt=100.1523548,15.206065",
+      "google": "https://www.google.com/maps/search/?api=1&query=15.206065,100.1523548"
+    },
+    "tags": [
+      "bird_park",
+      "zoo",
+      "aviary",
+      "family",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "th-chai-nat-wat-phra-borommathat-worawihan",
+    "slug": "wat-phra-borommathat-worawihan",
+    "region": "th-chai-nat",
+    "country": "thailand",
+    "region_name_vi": "Chai Nat",
+    "name_vi": "Chùa Phra Borommathat Worawihan",
+    "name_en": "Wat Phra Borommathat Worawihan",
+    "name_local": "วัดพระบรมธาตุวรวิหาร",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 15.160149,
+      "lon": 100.15275
+    },
+    "address_vi": "Huyện Mueang, tỉnh Chai Nat",
+    "rating": null,
+    "presentation_short_vi": "Ngôi chùa hoàng gia cổ kính với bảo tháp Phra Borommathat thờ xá lợi Phật, nằm cạnh Bảo tàng Quốc gia Chainat Muni, là di tích quan trọng của vùng.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.15275,15.160149&z=17&pt=100.15275,15.160149",
+      "google": "https://www.google.com/maps/search/?api=1&query=15.160149,100.15275"
+    },
+    "tags": [
+      "temple",
+      "wat",
+      "ancient_chedi",
+      "royal_temple",
+      "relics"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  }
+]

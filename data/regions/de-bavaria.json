@@ -1,0 +1,409 @@
+[
+  {
+    "id": "de-bavaria-neuschwanstein",
+    "slug": "neuschwanstein",
+    "region": "de-bavaria",
+    "country": "germany",
+    "region_name_vi": "Bang Bayern (Bavaria)",
+    "name_vi": "Lâu đài Neuschwanstein",
+    "name_en": "Neuschwanstein Castle",
+    "name_local": "Schloss Neuschwanstein",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 47.5576,
+      "lon": 10.7498
+    },
+    "address_vi": "Neuschwansteinstraße 20, Schwangau",
+    "presentation_short_vi": "Lâu đài cổ tích thế kỷ 19 của vua Ludwig II trên đỉnh đồi vùng Alpen, nguồn cảm hứng cho lâu đài Disney.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.5576,10.7498",
+      "yandex": "https://yandex.com/maps/?pt=10.7498,47.5576&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "castle",
+      "iconic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "de-bavaria-marienplatz",
+    "slug": "marienplatz",
+    "region": "de-bavaria",
+    "country": "germany",
+    "region_name_vi": "Bang Bayern (Bavaria)",
+    "name_vi": "Quảng trường Marienplatz & Tòa thị chính Mới",
+    "name_en": "Marienplatz & New Town Hall",
+    "name_local": "Marienplatz / Neues Rathaus",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 48.1374,
+      "lon": 11.5755
+    },
+    "address_vi": "Marienplatz, München",
+    "presentation_short_vi": "Quảng trường trung tâm Munich với Tòa thị chính Mới kiểu Tân Gothic và đồng hồ Glockenspiel nổi tiếng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.1374,11.5755",
+      "yandex": "https://yandex.com/maps/?pt=11.5755,48.1374&z=16&l=map"
+    },
+    "tags": [
+      "square",
+      "historic",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "de-bavaria-frauenkirche-munich",
+    "slug": "frauenkirche-munich",
+    "region": "de-bavaria",
+    "country": "germany",
+    "region_name_vi": "Bang Bayern (Bavaria)",
+    "name_vi": "Nhà thờ Đức Bà Munich (Frauenkirche)",
+    "name_en": "Munich Frauenkirche (Cathedral of Our Lady)",
+    "name_local": "Münchner Frauenkirche",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 48.1385,
+      "lon": 11.5733
+    },
+    "address_vi": "Frauenplatz 12, München",
+    "presentation_short_vi": "Nhà thờ chính tòa Gothic gạch đỏ với hai tháp mái vòm đặc trưng, biểu tượng trên đường chân trời Munich.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.1385,11.5733",
+      "yandex": "https://yandex.com/maps/?pt=11.5733,48.1385&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "gothic",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "de-bavaria-nymphenburg",
+    "slug": "nymphenburg",
+    "region": "de-bavaria",
+    "country": "germany",
+    "region_name_vi": "Bang Bayern (Bavaria)",
+    "name_vi": "Cung điện Nymphenburg",
+    "name_en": "Nymphenburg Palace",
+    "name_local": "Schloss Nymphenburg",
+    "categories": [
+      "palace",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 48.1583,
+      "lon": 11.5033
+    },
+    "address_vi": "Schloß Nymphenburg 1, München",
+    "presentation_short_vi": "Cung điện Baroque mùa hè của các Tuyển hầu tước Bavaria, với khu vườn cảnh và kênh đào rộng lớn.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.1583,11.5033",
+      "yandex": "https://yandex.com/maps/?pt=11.5033,48.1583&z=16&l=map"
+    },
+    "tags": [
+      "palace",
+      "baroque",
+      "garden"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "de-bavaria-englischer-garten",
+    "slug": "englischer-garten",
+    "region": "de-bavaria",
+    "country": "germany",
+    "region_name_vi": "Bang Bayern (Bavaria)",
+    "name_vi": "Vườn Anh (Englischer Garten)",
+    "name_en": "English Garden (Englischer Garten)",
+    "name_local": "Englischer Garten",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 48.1642,
+      "lon": 11.6056
+    },
+    "address_vi": "Englischer Garten, München",
+    "presentation_short_vi": "Một trong những công viên đô thị lớn nhất thế giới, với tháp Trung Hoa, hồ và làn sóng nhân tạo Eisbach cho lướt sóng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.1642,11.6056",
+      "yandex": "https://yandex.com/maps/?pt=11.6056,48.1642&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "nature",
+      "recreation"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "de-bavaria-bmw-welt-museum",
+    "slug": "bmw-welt-museum",
+    "region": "de-bavaria",
+    "country": "germany",
+    "region_name_vi": "Bang Bayern (Bavaria)",
+    "name_vi": "BMW Welt & Bảo tàng BMW",
+    "name_en": "BMW Welt & BMW Museum",
+    "name_local": "BMW Welt und BMW Museum",
+    "categories": [
+      "other",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 48.1772,
+      "lon": 11.5561
+    },
+    "address_vi": "Am Olympiapark 1, München",
+    "presentation_short_vi": "Tổ hợp trưng bày và bảo tàng hiện đại của hãng BMW với kiến trúc tương lai bên cạnh trụ sở 'bốn xy-lanh'.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.1772,11.5561",
+      "yandex": "https://yandex.com/maps/?pt=11.5561,48.1772&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "museum",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "de-bavaria-allianz-arena",
+    "slug": "allianz-arena",
+    "region": "de-bavaria",
+    "country": "germany",
+    "region_name_vi": "Bang Bayern (Bavaria)",
+    "name_vi": "Sân vận động Allianz Arena",
+    "name_en": "Allianz Arena",
+    "name_local": "Allianz Arena",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 48.2188,
+      "lon": 11.6247
+    },
+    "address_vi": "Werner-Heisenberg-Allee 25, München",
+    "presentation_short_vi": "Sân vận động của Bayern Munich nổi bật với lớp vỏ ngoài bằng nệm khí đổi màu, kiệt tác kiến trúc thể thao hiện đại.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.2188,11.6247",
+      "yandex": "https://yandex.com/maps/?pt=11.6247,48.2188&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "stadium",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "de-bavaria-olympiapark-munich",
+    "slug": "olympiapark-munich",
+    "region": "de-bavaria",
+    "country": "germany",
+    "region_name_vi": "Bang Bayern (Bavaria)",
+    "name_vi": "Công viên Olympic Munich",
+    "name_en": "Olympiapark Munich",
+    "name_local": "Olympiapark München",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 48.1755,
+      "lon": 11.5516
+    },
+    "address_vi": "Spiridon-Louis-Ring 21, München",
+    "presentation_short_vi": "Công viên xây cho Olympic 1972 với mái lều kính uốn lượn và tháp Olympic cao 291 m có đài quan sát.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.1755,11.5516",
+      "yandex": "https://yandex.com/maps/?pt=11.5516,48.1755&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "modern",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "de-bavaria-residenz-munich",
+    "slug": "residenz-munich",
+    "region": "de-bavaria",
+    "country": "germany",
+    "region_name_vi": "Bang Bayern (Bavaria)",
+    "name_vi": "Cung điện Residenz Munich",
+    "name_en": "Munich Residenz",
+    "name_local": "Münchner Residenz",
+    "categories": [
+      "palace",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 48.1411,
+      "lon": 11.5786
+    },
+    "address_vi": "Residenzstraße 1, München",
+    "presentation_short_vi": "Dinh thự nội đô nguy nga của hoàng tộc Wittelsbach, nay là bảo tàng với các sảnh và kho báu tráng lệ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.1411,11.5786",
+      "yandex": "https://yandex.com/maps/?pt=11.5786,48.1411&z=16&l=map"
+    },
+    "tags": [
+      "palace",
+      "museum",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "de-bavaria-deutsches-museum",
+    "slug": "deutsches-museum",
+    "region": "de-bavaria",
+    "country": "germany",
+    "region_name_vi": "Bang Bayern (Bavaria)",
+    "name_vi": "Bảo tàng Deutsches (Khoa học & Kỹ thuật)",
+    "name_en": "Deutsches Museum",
+    "name_local": "Deutsches Museum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 48.1298,
+      "lon": 11.5832
+    },
+    "address_vi": "Museumsinsel 1, München",
+    "presentation_short_vi": "Bảo tàng khoa học và công nghệ lớn nhất thế giới, nằm trên đảo giữa sông Isar.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.1298,11.5832",
+      "yandex": "https://yandex.com/maps/?pt=11.5832,48.1298&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "science",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "de-bavaria-zugspitze",
+    "slug": "zugspitze",
+    "region": "de-bavaria",
+    "country": "germany",
+    "region_name_vi": "Bang Bayern (Bavaria)",
+    "name_vi": "Đỉnh Zugspitze",
+    "name_en": "Zugspitze",
+    "name_local": "Zugspitze",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 47.4211,
+      "lon": 10.9853
+    },
+    "address_vi": "Zugspitze, Garmisch-Partenkirchen",
+    "presentation_short_vi": "Đỉnh núi cao nhất nước Đức (2.962 m) trên biên giới Áo, có sông băng, cáp treo và đài quan sát toàn cảnh dãy Alpen.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.4211,10.9853",
+      "yandex": "https://yandex.com/maps/?pt=10.9853,47.4211&z=16&l=map"
+    },
+    "tags": [
+      "mountain",
+      "nature",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "de-bavaria-nuremberg-castle",
+    "slug": "nuremberg-castle",
+    "region": "de-bavaria",
+    "country": "germany",
+    "region_name_vi": "Bang Bayern (Bavaria)",
+    "name_vi": "Lâu đài Hoàng gia Nürnberg (Kaiserburg)",
+    "name_en": "Nuremberg Castle (Kaiserburg)",
+    "name_local": "Nürnberger Burg / Kaiserburg",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 49.4577,
+      "lon": 11.0765
+    },
+    "address_vi": "Burg 17, Nürnberg",
+    "presentation_short_vi": "Quần thể lâu đài hoàng gia thời Trung cổ trên đồi sa thạch, biểu tượng lịch sử của thành phố Nürnberg.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=49.4577,11.0765",
+      "yandex": "https://yandex.com/maps/?pt=11.0765,49.4577&z=16&l=map"
+    },
+    "tags": [
+      "castle",
+      "medieval",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "de-bavaria-rothenburg-ob-der-tauber",
+    "slug": "rothenburg-ob-der-tauber",
+    "region": "de-bavaria",
+    "country": "germany",
+    "region_name_vi": "Bang Bayern (Bavaria)",
+    "name_vi": "Phố cổ Rothenburg ob der Tauber",
+    "name_en": "Rothenburg ob der Tauber Old Town",
+    "name_local": "Rothenburg ob der Tauber",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 49.3777,
+      "lon": 10.179
+    },
+    "address_vi": "Rothenburg ob der Tauber, Bayern",
+    "presentation_short_vi": "Thị trấn thời Trung cổ được bảo tồn nguyên vẹn với tường thành, nhà khung gỗ và cổng vòm trên 'Con đường Lãng mạn'.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=49.3777,10.179",
+      "yandex": "https://yandex.com/maps/?pt=10.179,49.3777&z=16&l=map"
+    },
+    "tags": [
+      "oldtown",
+      "medieval",
+      "romantic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  }
+]

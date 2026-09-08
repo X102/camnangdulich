@@ -1,0 +1,397 @@
+[
+  {
+    "id": "se-uppsala-uppsala-cathedral",
+    "slug": "uppsala-cathedral",
+    "region": "se-uppsala",
+    "country": "sweden",
+    "region_name_vi": "Uppsala",
+    "name_vi": "Nhà thờ chính tòa Uppsala",
+    "name_en": "Uppsala Cathedral",
+    "name_local": "Uppsala domkyrka",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 59.8581,
+      "lon": 17.6333
+    },
+    "address_vi": "Domkyrkoplan, Uppsala",
+    "presentation_short_vi": "Nhà thờ chính tòa Gothic cao 118,7 m - lớn nhất vùng Bắc Âu, nơi an nghỉ của Vua Gustav Vasa và nhà khoa học Carl Linnaeus.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=59.8581,17.6333",
+      "yandex": "https://yandex.com/maps/?pt=17.6333,59.8581&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "church",
+      "gothic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-uppsala-uppsala-castle",
+    "slug": "uppsala-castle",
+    "region": "se-uppsala",
+    "country": "sweden",
+    "region_name_vi": "Uppsala",
+    "name_vi": "Lâu đài Uppsala",
+    "name_en": "Uppsala Castle",
+    "name_local": "Uppsala slott",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 59.8533,
+      "lon": 17.6353
+    },
+    "address_vi": "Drottning Christinas väg, Uppsala",
+    "presentation_short_vi": "Lâu đài hoàng gia màu hồng do Vua Gustav Vasa khởi dựng năm 1549 trên đồi cao, nay có bảo tàng và dinh tỉnh trưởng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=59.8533,17.6353",
+      "yandex": "https://yandex.com/maps/?pt=17.6353,59.8533&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "palace",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-uppsala-gamla-uppsala-mounds",
+    "slug": "gamla-uppsala-mounds",
+    "region": "se-uppsala",
+    "country": "sweden",
+    "region_name_vi": "Uppsala",
+    "name_vi": "Gò mộ hoàng gia Gamla Uppsala",
+    "name_en": "Royal Mounds of Gamla Uppsala",
+    "name_local": "Kungshögarna",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 59.8981,
+      "lon": 17.6297
+    },
+    "address_vi": "Gamla Uppsala, cách trung tâm 5 km về phía bắc",
+    "presentation_short_vi": "Ba gò mộ hoàng gia khổng lồ thời tiền Viking thế kỷ 5-6, trung tâm tín ngưỡng và quyền lực cổ xưa của Thụy Điển.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=59.8981,17.6297",
+      "yandex": "https://yandex.com/maps/?pt=17.6297,59.8981&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "viking",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-uppsala-gamla-uppsala-museum",
+    "slug": "gamla-uppsala-museum",
+    "region": "se-uppsala",
+    "country": "sweden",
+    "region_name_vi": "Uppsala",
+    "name_vi": "Bảo tàng Gamla Uppsala",
+    "name_en": "Gamla Uppsala Museum",
+    "name_local": "Gamla Uppsala museum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 59.8968,
+      "lon": 17.6339
+    },
+    "address_vi": "Disavägen 15, Gamla Uppsala",
+    "presentation_short_vi": "Bảo tàng khảo cổ bên các gò mộ hoàng gia, trưng bày hiện vật và lịch sử Gamla Uppsala thời ngoại giáo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=59.8968,17.6339",
+      "yandex": "https://yandex.com/maps/?pt=17.6339,59.8968&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "viking",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-uppsala-university-main-building",
+    "slug": "university-main-building",
+    "region": "se-uppsala",
+    "country": "sweden",
+    "region_name_vi": "Uppsala",
+    "name_vi": "Tòa nhà chính Đại học Uppsala",
+    "name_en": "Uppsala University Main Building",
+    "name_local": "Universitetshuset",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 59.8564,
+      "lon": 17.6339
+    },
+    "address_vi": "Biskopsgatan 3, Uppsala",
+    "presentation_short_vi": "Tòa nhà chính của Đại học Uppsala xây 1879-1887 theo phong cách Phục Hưng Ý, biểu tượng của trường đại học lâu đời nhất Bắc Âu.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=59.8564,17.6339",
+      "yandex": "https://yandex.com/maps/?pt=17.6339,59.8564&z=16&l=map"
+    },
+    "tags": [
+      "history",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-uppsala-gustavianum",
+    "slug": "gustavianum",
+    "region": "se-uppsala",
+    "country": "sweden",
+    "region_name_vi": "Uppsala",
+    "name_vi": "Bảo tàng Gustavianum",
+    "name_en": "Gustavianum",
+    "name_local": "Gustavianum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 59.8576,
+      "lon": 17.6339
+    },
+    "address_vi": "Akademigatan 3, Uppsala",
+    "presentation_short_vi": "Tòa nhà đại học cổ năm 1625 với mái vòm và giảng đường giải phẫu thế kỷ 17, nay là bảo tàng của Đại học Uppsala.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=59.8576,17.6339",
+      "yandex": "https://yandex.com/maps/?pt=17.6339,59.8576&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-uppsala-carolina-rediviva",
+    "slug": "carolina-rediviva",
+    "region": "se-uppsala",
+    "country": "sweden",
+    "region_name_vi": "Uppsala",
+    "name_vi": "Thư viện Carolina Rediviva",
+    "name_en": "Carolina Rediviva",
+    "name_local": "Carolina Rediviva",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 59.8556,
+      "lon": 17.6314
+    },
+    "address_vi": "Dag Hammarskjölds väg 1, Uppsala",
+    "presentation_short_vi": "Thư viện đại học lớn nhất Thụy Điển, lưu giữ bản thảo Codex Argenteus (Kinh Thánh Bạc) và bản đồ Carta Marina.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=59.8556,17.6314",
+      "yandex": "https://yandex.com/maps/?pt=17.6314,59.8556&z=16&l=map"
+    },
+    "tags": [
+      "library",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-uppsala-linnaeus-garden",
+    "slug": "linnaeus-garden",
+    "region": "se-uppsala",
+    "country": "sweden",
+    "region_name_vi": "Uppsala",
+    "name_vi": "Vườn Linnaeus",
+    "name_en": "Linnaeus Garden",
+    "name_local": "Linnéträdgården",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 59.8639,
+      "lon": 17.632
+    },
+    "address_vi": "Svartbäcksgatan 27, Uppsala",
+    "presentation_short_vi": "Vườn thực vật lâu đời nhất Thụy Điển, được Carl Linnaeus phục dựng và sắp xếp theo hệ thống phân loại của ông.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=59.8639,17.632",
+      "yandex": "https://yandex.com/maps/?pt=17.632,59.8639&z=16&l=map"
+    },
+    "tags": [
+      "garden",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-uppsala-botanical-garden",
+    "slug": "botanical-garden",
+    "region": "se-uppsala",
+    "country": "sweden",
+    "region_name_vi": "Uppsala",
+    "name_vi": "Vườn thực vật Uppsala",
+    "name_en": "Uppsala Botanical Garden",
+    "name_local": "Botaniska trädgården",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 59.8515,
+      "lon": 17.63
+    },
+    "address_vi": "Villavägen 8, Uppsala",
+    "presentation_short_vi": "Vườn thực vật lớn của Đại học Uppsala cạnh lâu đài, có vườn baroque, nhà kính nhiệt đới và hàng nghìn loài cây.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=59.8515,17.63",
+      "yandex": "https://yandex.com/maps/?pt=17.63,59.8515&z=16&l=map"
+    },
+    "tags": [
+      "garden",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-uppsala-holy-trinity-church",
+    "slug": "holy-trinity-church",
+    "region": "se-uppsala",
+    "country": "sweden",
+    "region_name_vi": "Uppsala",
+    "name_vi": "Nhà thờ Chúa Ba Ngôi",
+    "name_en": "Holy Trinity Church",
+    "name_local": "Helga Trefaldighets kyrka",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 59.8571,
+      "lon": 17.632
+    },
+    "address_vi": "Domkyrkoplan 2, Uppsala",
+    "presentation_short_vi": "Nhà thờ giáo xứ thời trung cổ cạnh nhà thờ chính tòa, nổi bật với các bích họa thế kỷ 15.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=59.8571,17.632",
+      "yandex": "https://yandex.com/maps/?pt=17.632,59.8571&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-uppsala-upplandsmuseet",
+    "slug": "upplandsmuseet",
+    "region": "se-uppsala",
+    "country": "sweden",
+    "region_name_vi": "Uppsala",
+    "name_vi": "Bảo tàng Uppland",
+    "name_en": "Uppland Museum",
+    "name_local": "Upplandsmuseet",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 59.8586,
+      "lon": 17.6361
+    },
+    "address_vi": "Fyristorg 2, Uppsala",
+    "presentation_short_vi": "Bảo tàng tỉnh Uppland trong tòa nhà máy xay cũ bên sông Fyris, trưng bày lịch sử và văn hóa vùng Uppland.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=59.8586,17.6361",
+      "yandex": "https://yandex.com/maps/?pt=17.6361,59.8586&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-uppsala-uppsala-konsert-kongress",
+    "slug": "uppsala-konsert-kongress",
+    "region": "se-uppsala",
+    "country": "sweden",
+    "region_name_vi": "Uppsala",
+    "name_vi": "Trung tâm hòa nhạc UKK",
+    "name_en": "Uppsala Concert & Congress",
+    "name_local": "Uppsala Konsert & Kongress",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 59.8583,
+      "lon": 17.6456
+    },
+    "address_vi": "Vaksala torg 1, Uppsala",
+    "presentation_short_vi": "Trung tâm hòa nhạc và hội nghị hiện đại khánh thành năm 2007, khối kiến trúc màu đồng nổi bật bên quảng trường Vaksala.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=59.8583,17.6456",
+      "yandex": "https://yandex.com/maps/?pt=17.6456,59.8583&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "theatre",
+      "music"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-uppsala-stadstradgarden",
+    "slug": "stadstradgarden",
+    "region": "se-uppsala",
+    "country": "sweden",
+    "region_name_vi": "Uppsala",
+    "name_vi": "Công viên thành phố Uppsala",
+    "name_en": "Uppsala City Park",
+    "name_local": "Stadsträdgården",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 59.85,
+      "lon": 17.641
+    },
+    "address_vi": "Sjukhusvägen, ven sông Fyris, Uppsala",
+    "presentation_short_vi": "Công viên thành phố lớn nhất Uppsala ven sông Fyris, nơi tổ chức lễ hội và hòa nhạc mùa hè.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=59.85,17.641",
+      "yandex": "https://yandex.com/maps/?pt=17.641,59.85&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

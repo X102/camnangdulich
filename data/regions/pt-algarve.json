@@ -1,0 +1,411 @@
+[
+  {
+    "id": "pt-algarve-mui-ponta-da-piedade",
+    "slug": "mui-ponta-da-piedade",
+    "region": "pt-algarve",
+    "country": "portugal",
+    "region_name_vi": "Algarve",
+    "name_vi": "Mũi Ponta da Piedade",
+    "name_en": "Ponta da Piedade",
+    "name_local": "Ponta da Piedade",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 37.0817,
+      "lon": -8.6683
+    },
+    "address_vi": "Lagos, Faro, Bồ Đào Nha",
+    "presentation_short_vi": "Mũi đá với những vách và cột đá vôi vàng rực bên làn nước xanh gần Lagos, nổi tiếng với hang động biển và các tua thuyền kayak.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.0817,-8.6683",
+      "yandex": "https://yandex.com/maps/?pt=-8.6683,37.0817&z=16&l=map"
+    },
+    "tags": [
+      "scenic",
+      "coast",
+      "nature",
+      "iconic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "pt-algarve-bai-bien-praia-da-marinha",
+    "slug": "bai-bien-praia-da-marinha",
+    "region": "pt-algarve",
+    "country": "portugal",
+    "region_name_vi": "Algarve",
+    "name_vi": "Bãi biển Praia da Marinha",
+    "name_en": "Praia da Marinha",
+    "name_local": "Praia da Marinha",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 37.0905,
+      "lon": -8.4122
+    },
+    "address_vi": "Caramujeira, Lagoa, Faro, Bồ Đào Nha",
+    "presentation_short_vi": "Một trong những bãi biển đẹp nhất Bồ Đào Nha với vách đá vôi, nước trong veo và vòm đá đôi hình chữ 'M' biểu tượng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.0905,-8.4122",
+      "yandex": "https://yandex.com/maps/?pt=-8.4122,37.0905&z=16&l=map"
+    },
+    "tags": [
+      "scenic",
+      "beach",
+      "coast",
+      "iconic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "pt-algarve-hang-bien-benagil",
+    "slug": "hang-bien-benagil",
+    "region": "pt-algarve",
+    "country": "portugal",
+    "region_name_vi": "Algarve",
+    "name_vi": "Hang biển Benagil",
+    "name_en": "Benagil Sea Cave",
+    "name_local": "Algar de Benagil",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 37.0873,
+      "lon": -8.425
+    },
+    "address_vi": "Benagil, Lagoa, Faro, Bồ Đào Nha",
+    "presentation_short_vi": "Hang động biển nổi tiếng với mái vòm thủng ('mắt trời') mở lên bãi cát bên trong, chỉ tới được bằng thuyền, kayak hoặc bơi.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.0873,-8.425",
+      "yandex": "https://yandex.com/maps/?pt=-8.425,37.0873&z=16&l=map"
+    },
+    "tags": [
+      "scenic",
+      "cave",
+      "coast",
+      "iconic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "pt-algarve-mui-sao-vicente",
+    "slug": "mui-sao-vicente",
+    "region": "pt-algarve",
+    "country": "portugal",
+    "region_name_vi": "Algarve",
+    "name_vi": "Mũi São Vicente",
+    "name_en": "Cape St. Vincent",
+    "name_local": "Cabo de São Vicente",
+    "categories": [
+      "other",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 37.025,
+      "lon": -8.9944
+    },
+    "address_vi": "Sagres, Vila do Bispo, Faro, Bồ Đào Nha",
+    "presentation_short_vi": "Mũi đất tây nam cùng nhất lục địa châu Âu với ngọn hải đăng trên vách đá cao, điểm ngắm hoàng hôn Đại Tây Dương nổi tiếng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.025,-8.9944",
+      "yandex": "https://yandex.com/maps/?pt=-8.9944,37.025&z=16&l=map"
+    },
+    "tags": [
+      "scenic",
+      "lighthouse",
+      "coast",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "pt-algarve-phao-dai-sagres",
+    "slug": "phao-dai-sagres",
+    "region": "pt-algarve",
+    "country": "portugal",
+    "region_name_vi": "Algarve",
+    "name_vi": "Pháo đài Sagres",
+    "name_en": "Fortress of Sagres",
+    "name_local": "Fortaleza de Sagres",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 37.0023,
+      "lon": -8.9476
+    },
+    "address_vi": "Sagres, Vila do Bispo, Faro, Bồ Đào Nha",
+    "presentation_short_vi": "Pháo đài trên mũi đá gắn với Hoàng tử Henrique Nhà Hàng hải và thời đại Khám phá, nổi bật với 'la bàn gió' bằng đá bí ẩn.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.0023,-8.9476",
+      "yandex": "https://yandex.com/maps/?pt=-8.9476,37.0023&z=16&l=map"
+    },
+    "tags": [
+      "fortress",
+      "historic",
+      "coast"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "pt-algarve-pho-co-faro",
+    "slug": "pho-co-faro",
+    "region": "pt-algarve",
+    "country": "portugal",
+    "region_name_vi": "Algarve",
+    "name_vi": "Phố cổ Faro",
+    "name_en": "Faro Old Town",
+    "name_local": "Cidade Velha de Faro",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 37.0104,
+      "lon": -7.935
+    },
+    "address_vi": "Cidade Velha, 8000 Faro, Bồ Đào Nha",
+    "presentation_short_vi": "Khu phố cổ có tường thành bao quanh, vào qua cổng Arco da Vila, với ngõ lát đá, nhà thờ chính toà và quảng trường yên tĩnh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.0104,-7.935",
+      "yandex": "https://yandex.com/maps/?pt=-7.935,37.0104&z=16&l=map"
+    },
+    "tags": [
+      "historic",
+      "square_street",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "pt-algarve-nha-tho-chinh-toa-faro",
+    "slug": "nha-tho-chinh-toa-faro",
+    "region": "pt-algarve",
+    "country": "portugal",
+    "region_name_vi": "Algarve",
+    "name_vi": "Nhà thờ chính toà Faro",
+    "name_en": "Faro Cathedral",
+    "name_local": "Sé de Faro",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 37.0125,
+      "lon": -7.9352
+    },
+    "address_vi": "Largo da Sé, 8000 Faro, Bồ Đào Nha",
+    "presentation_short_vi": "Nhà thờ chính toà khởi dựng thế kỷ 13 pha trộn Gothic, Phục Hưng và Baroque, có sân thượng tháp chuông nhìn ra đầm Ria Formosa.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.0125,-7.9352",
+      "yandex": "https://yandex.com/maps/?pt=-7.9352,37.0125&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "historic",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "pt-algarve-nha-nguyen-xuong-faro",
+    "slug": "nha-nguyen-xuong-faro",
+    "region": "pt-algarve",
+    "country": "portugal",
+    "region_name_vi": "Algarve",
+    "name_vi": "Nhà nguyện Xương Faro",
+    "name_en": "Chapel of Bones",
+    "name_local": "Capela dos Ossos",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 37.0186,
+      "lon": -7.9377
+    },
+    "address_vi": "Igreja do Carmo, Largo do Carmo, 8000 Faro, Bồ Đào Nha",
+    "presentation_short_vi": "Nhà nguyện nhỏ sau nhà thờ Carmo, tường ốp bằng xương và hộp sọ của hàng trăm tu sĩ, một điểm tham quan độc đáo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.0186,-7.9377",
+      "yandex": "https://yandex.com/maps/?pt=-7.9377,37.0186&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "historic",
+      "unique"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "pt-algarve-lau-dai-silves",
+    "slug": "lau-dai-silves",
+    "region": "pt-algarve",
+    "country": "portugal",
+    "region_name_vi": "Algarve",
+    "name_vi": "Lâu đài Silves",
+    "name_en": "Silves Castle",
+    "name_local": "Castelo de Silves",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 37.19,
+      "lon": -8.4386
+    },
+    "address_vi": "Silves, Faro, Bồ Đào Nha",
+    "presentation_short_vi": "Toà thành đá sa thạch đỏ thời Moor trên đỉnh đồi, pháo đài Hồi giáo được bảo tồn tốt nhất vùng Algarve, nhìn xuống thị trấn Silves cổ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.19,-8.4386",
+      "yandex": "https://yandex.com/maps/?pt=-8.4386,37.19&z=16&l=map"
+    },
+    "tags": [
+      "fortress",
+      "historic",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "pt-algarve-cong-vien-bien-zoomarine",
+    "slug": "cong-vien-bien-zoomarine",
+    "region": "pt-algarve",
+    "country": "portugal",
+    "region_name_vi": "Algarve",
+    "name_vi": "Công viên biển Zoomarine",
+    "name_en": "Zoomarine Algarve",
+    "name_local": "Zoomarine",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 37.1288,
+      "lon": -8.2829
+    },
+    "address_vi": "N125, Guia, Albufeira, Faro, Bồ Đào Nha",
+    "presentation_short_vi": "Công viên giải trí biển hiện đại với trình diễn cá heo, thủy cung, hồ bơi và trò chơi nước, điểm đến gia đình nổi tiếng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.1288,-8.2829",
+      "yandex": "https://yandex.com/maps/?pt=-8.2829,37.1288&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "themepark",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "pt-algarve-vuon-quoc-gia-ria-formosa",
+    "slug": "vuon-quoc-gia-ria-formosa",
+    "region": "pt-algarve",
+    "country": "portugal",
+    "region_name_vi": "Algarve",
+    "name_vi": "Vườn quốc gia Ria Formosa",
+    "name_en": "Ria Formosa Natural Park",
+    "name_local": "Parque Natural da Ria Formosa",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 37.0089,
+      "lon": -7.84
+    },
+    "address_vi": "Olhão, Faro, Bồ Đào Nha",
+    "presentation_short_vi": "Hệ đầm phá và cồn cát ven biển trải dài trên 60 km, thiên đường chim di cư và đặc sản nghêu sò của vùng Algarve.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.0089,-7.84",
+      "yandex": "https://yandex.com/maps/?pt=-7.84,37.0089&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "lagoon",
+      "wildlife",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "pt-algarve-lau-dai-tavira",
+    "slug": "lau-dai-tavira",
+    "region": "pt-algarve",
+    "country": "portugal",
+    "region_name_vi": "Algarve",
+    "name_vi": "Lâu đài Tavira",
+    "name_en": "Tavira Castle",
+    "name_local": "Castelo de Tavira",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 37.1265,
+      "lon": -7.6512
+    },
+    "address_vi": "Tavira, Faro, Bồ Đào Nha",
+    "presentation_short_vi": "Tàn tích thành luỹ thời Moor giữa lòng thị trấn Tavira, có vườn trong tường thành và tầm nhìn ra mái ngói cùng sông Gilão.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.1265,-7.6512",
+      "yandex": "https://yandex.com/maps/?pt=-7.6512,37.1265&z=16&l=map"
+    },
+    "tags": [
+      "fortress",
+      "historic",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "pt-algarve-bai-bien-praia-da-rocha",
+    "slug": "bai-bien-praia-da-rocha",
+    "region": "pt-algarve",
+    "country": "portugal",
+    "region_name_vi": "Algarve",
+    "name_vi": "Bãi biển Praia da Rocha",
+    "name_en": "Praia da Rocha",
+    "name_local": "Praia da Rocha",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 37.1173,
+      "lon": -8.5349
+    },
+    "address_vi": "Portimão, Faro, Bồ Đào Nha",
+    "presentation_short_vi": "Bãi biển cát vàng rộng lớn ở Portimão nổi bật với các khối đá vôi và pháo đài Santa Catarina cổ ở một đầu bãi.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.1173,-8.5349",
+      "yandex": "https://yandex.com/maps/?pt=-8.5349,37.1173&z=16&l=map"
+    },
+    "tags": [
+      "beach",
+      "coast",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

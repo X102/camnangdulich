@@ -1,0 +1,415 @@
+[
+  {
+    "id": "no-stavanger-preikestolen",
+    "slug": "preikestolen",
+    "region": "no-stavanger",
+    "country": "norway",
+    "region_name_vi": "Stavanger",
+    "name_vi": "Vách đá Preikestolen (Bàn Giảng Kinh)",
+    "name_en": "Preikestolen (Pulpit Rock)",
+    "name_local": "Preikestolen",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 58.9867,
+      "lon": 6.1875
+    },
+    "address_vi": "Forsand, vịnh Lysefjord, Rogaland",
+    "presentation_short_vi": "Vách đá phẳng cao 604 m dựng đứng trên vịnh Lysefjord, một trong những điểm ngắm cảnh nổi tiếng nhất Na Uy.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=58.9867,6.1875",
+      "yandex": "https://yandex.com/maps/?pt=6.1875,58.9867&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "nature",
+      "cliff",
+      "fjord",
+      "hiking"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-stavanger-lysefjord",
+    "slug": "lysefjord",
+    "region": "no-stavanger",
+    "country": "norway",
+    "region_name_vi": "Stavanger",
+    "name_vi": "Vịnh hẹp Lysefjord",
+    "name_en": "Lysefjord",
+    "name_local": "Lysefjorden",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 58.9333,
+      "lon": 6.6167
+    },
+    "address_vi": "Rogaland, phía đông Stavanger",
+    "presentation_short_vi": "Vịnh hẹp dài 42 km với vách đá dựng đứng hai bên, nơi tọa lạc của Preikestolen và Kjerag — biểu tượng thiên nhiên vùng Stavanger.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=58.9333,6.6167",
+      "yandex": "https://yandex.com/maps/?pt=6.6167,58.9333&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "fjord",
+      "scenery"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-stavanger-kjeragbolten",
+    "slug": "kjeragbolten",
+    "region": "no-stavanger",
+    "country": "norway",
+    "region_name_vi": "Stavanger",
+    "name_vi": "Tảng đá Kjeragbolten",
+    "name_en": "Kjeragbolten",
+    "name_local": "Kjeragbolten",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 59.0337,
+      "lon": 6.593
+    },
+    "address_vi": "Núi Kjerag, Lysefjord, Rogaland",
+    "presentation_short_vi": "Tảng đá tròn mắc kẹt giữa khe núi Kjerag ở độ cao gần 1.000 m trên vịnh Lysefjord — điểm chụp ảnh mạo hiểm nổi tiếng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=59.0337,6.593",
+      "yandex": "https://yandex.com/maps/?pt=6.593,59.0337&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "mountain",
+      "hiking",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-stavanger-gamle-stavanger",
+    "slug": "gamle-stavanger",
+    "region": "no-stavanger",
+    "country": "norway",
+    "region_name_vi": "Stavanger",
+    "name_vi": "Phố cổ Gamle Stavanger",
+    "name_en": "Old Stavanger (Gamle Stavanger)",
+    "name_local": "Gamle Stavanger",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 58.9709,
+      "lon": 5.729
+    },
+    "address_vi": "Trung tâm Stavanger",
+    "presentation_short_vi": "Khu phố cổ với hơn 170 ngôi nhà gỗ trắng thế kỷ 18–19 dọc các con hẻm lát đá — quần thể nhà gỗ được bảo tồn lớn nhất Bắc Âu.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=58.9709,5.729",
+      "yandex": "https://yandex.com/maps/?pt=5.729,58.9709&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "old-town",
+      "wooden-houses",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-stavanger-stavanger-cathedral",
+    "slug": "stavanger-cathedral",
+    "region": "no-stavanger",
+    "country": "norway",
+    "region_name_vi": "Stavanger",
+    "name_vi": "Nhà thờ chính tòa Stavanger",
+    "name_en": "Stavanger Cathedral",
+    "name_local": "Stavanger domkirke",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 58.97,
+      "lon": 5.7332
+    },
+    "address_vi": "Haakon VIIs gate, trung tâm Stavanger",
+    "presentation_short_vi": "Nhà thờ chính tòa lâu đời nhất Na Uy còn hoạt động, khởi dựng khoảng năm 1125 theo phong cách Roman và Gothic.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=58.97,5.7332",
+      "yandex": "https://yandex.com/maps/?pt=5.7332,58.97&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "cathedral",
+      "medieval",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-stavanger-norwegian-petroleum-museum",
+    "slug": "norwegian-petroleum-museum",
+    "region": "no-stavanger",
+    "country": "norway",
+    "region_name_vi": "Stavanger",
+    "name_vi": "Bảo tàng Dầu khí Na Uy",
+    "name_en": "Norwegian Petroleum Museum",
+    "name_local": "Norsk Oljemuseum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 58.9744,
+      "lon": 5.7307
+    },
+    "address_vi": "Kjeringholmen, bến cảng Stavanger",
+    "presentation_short_vi": "Bảo tàng hiện đại bên vịnh giới thiệu lịch sử khai thác dầu khí Biển Bắc — ngành đã biến Stavanger thành 'thủ đô dầu mỏ' của Na Uy.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=58.9744,5.7307",
+      "yandex": "https://yandex.com/maps/?pt=5.7307,58.9744&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "modern",
+      "oil",
+      "science"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-stavanger-sverd-i-fjell",
+    "slug": "sverd-i-fjell",
+    "region": "no-stavanger",
+    "country": "norway",
+    "region_name_vi": "Stavanger",
+    "name_vi": "Đài Ba Thanh Kiếm (Sverd i fjell)",
+    "name_en": "Swords in Rock (Sverd i fjell)",
+    "name_local": "Sverd i fjell",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 58.9469,
+      "lon": 5.7086
+    },
+    "address_vi": "Møllebukta, vịnh Hafrsfjord, Stavanger",
+    "presentation_short_vi": "Tượng đài ba thanh kiếm bằng đồng cao 9–10 m cắm vào đá, kỷ niệm trận Hafrsfjord năm 872 thống nhất Na Uy.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=58.9469,5.7086",
+      "yandex": "https://yandex.com/maps/?pt=5.7086,58.9469&z=16&l=map"
+    },
+    "tags": [
+      "monument",
+      "viking",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-stavanger-fargegaten",
+    "slug": "fargegaten",
+    "region": "no-stavanger",
+    "country": "norway",
+    "region_name_vi": "Stavanger",
+    "name_vi": "Phố Sắc Màu (Øvre Holmegate)",
+    "name_en": "Fargegaten (Øvre Holmegate)",
+    "name_local": "Øvre Holmegate",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 58.9702,
+      "lon": 5.7343
+    },
+    "address_vi": "Øvre Holmegate, trung tâm Stavanger",
+    "presentation_short_vi": "Con phố đi bộ với dãy nhà sơn đủ màu rực rỡ, đầy quán cà phê và cửa hàng — góc chụp ảnh sống động nhất Stavanger.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=58.9702,5.7343",
+      "yandex": "https://yandex.com/maps/?pt=5.7343,58.9702&z=16&l=map"
+    },
+    "tags": [
+      "street",
+      "colorful",
+      "cafe",
+      "modern"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-stavanger-valbergtarnet",
+    "slug": "valbergtarnet",
+    "region": "no-stavanger",
+    "country": "norway",
+    "region_name_vi": "Stavanger",
+    "name_vi": "Tháp canh Valberg",
+    "name_en": "Valberg Tower",
+    "name_local": "Valbergtårnet",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 58.9719,
+      "lon": 5.7357
+    },
+    "address_vi": "Valberget, trung tâm Stavanger",
+    "presentation_short_vi": "Tháp canh lửa bằng đá xây năm 1850–1853 trên điểm cao nhất phố cổ, nay là đài ngắm toàn cảnh thành phố và bến cảng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=58.9719,5.7357",
+      "yandex": "https://yandex.com/maps/?pt=5.7357,58.9719&z=16&l=map"
+    },
+    "tags": [
+      "tower",
+      "history",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-stavanger-utstein-abbey",
+    "slug": "utstein-abbey",
+    "region": "no-stavanger",
+    "country": "norway",
+    "region_name_vi": "Stavanger",
+    "name_vi": "Tu viện Utstein",
+    "name_en": "Utstein Abbey",
+    "name_local": "Utstein kloster",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 59.1031,
+      "lon": 5.5906
+    },
+    "address_vi": "Đảo Klosterøy, Mosterøy, phía bắc Stavanger",
+    "presentation_short_vi": "Tu viện thời trung cổ được bảo tồn tốt nhất Na Uy, có nguồn gốc từ thế kỷ 13 và từng là điền trang hoàng gia.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=59.1031,5.5906",
+      "yandex": "https://yandex.com/maps/?pt=5.5906,59.1031&z=16&l=map"
+    },
+    "tags": [
+      "monastery",
+      "medieval",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-stavanger-stavanger-concert-hall",
+    "slug": "stavanger-concert-hall",
+    "region": "no-stavanger",
+    "country": "norway",
+    "region_name_vi": "Stavanger",
+    "name_vi": "Nhà hát Hòa nhạc Stavanger",
+    "name_en": "Stavanger Concert Hall",
+    "name_local": "Stavanger konserthus",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 58.9662,
+      "lon": 5.7289
+    },
+    "address_vi": "Sandvigå, bờ vịnh Stavanger",
+    "presentation_short_vi": "Công trình hòa nhạc hiện đại khánh thành năm 2012 với hai khán phòng bên vịnh, trung tâm âm nhạc của thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=58.9662,5.7289",
+      "yandex": "https://yandex.com/maps/?pt=5.7289,58.9662&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "concert-hall",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-stavanger-geoparken",
+    "slug": "geoparken",
+    "region": "no-stavanger",
+    "country": "norway",
+    "region_name_vi": "Stavanger",
+    "name_vi": "Công viên Geopark Stavanger",
+    "name_en": "Geopark Stavanger",
+    "name_local": "Geoparken",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 58.9736,
+      "lon": 5.7318
+    },
+    "address_vi": "Cạnh Bảo tàng Dầu khí, bến cảng Stavanger",
+    "presentation_short_vi": "Công viên đô thị sáng tạo làm từ vật liệu tái chế của ngành dầu khí, có sân trượt ván và khu vui chơi ngoài trời.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=58.9736,5.7318",
+      "yandex": "https://yandex.com/maps/?pt=5.7318,58.9736&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "modern",
+      "recycled",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "no-stavanger-ledaal",
+    "slug": "ledaal",
+    "region": "no-stavanger",
+    "country": "norway",
+    "region_name_vi": "Stavanger",
+    "name_vi": "Dinh thự Ledaal",
+    "name_en": "Ledaal Manor",
+    "name_local": "Ledaal",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 58.9641,
+      "lon": 5.7178
+    },
+    "address_vi": "Eiganesveien, Stavanger",
+    "presentation_short_vi": "Dinh thự trang viên xây khoảng 1799–1803, nay là nơi ở chính thức của Hoàng gia tại Stavanger và là bảo tàng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=58.9641,5.7178",
+      "yandex": "https://yandex.com/maps/?pt=5.7178,58.9641&z=16&l=map"
+    },
+    "tags": [
+      "manor",
+      "royal",
+      "history",
+      "museum"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

@@ -1,0 +1,436 @@
+[
+  {
+    "id": "dk-bornholm-hammershus",
+    "slug": "hammershus",
+    "region": "dk-bornholm",
+    "country": "denmark",
+    "region_name_vi": "Bornholm",
+    "name_vi": "Phế tích lâu đài Hammershus",
+    "name_en": "Hammershus",
+    "name_local": "Hammershus",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 55.2717,
+      "lon": 14.7594
+    },
+    "address_vi": "Bờ tây bắc đảo Bornholm",
+    "presentation_short_vi": "Phế tích pháo đài trung cổ lớn nhất Bắc Âu, đứng trên vách đá cao 74 m nhìn ra biển Baltic, với trung tâm du khách hiện đại bên cạnh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.2717,14.7594",
+      "yandex": "https://yandex.com/maps/?pt=14.7594,55.2717&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "fortress",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-bornholm-osterlars-rundkirke",
+    "slug": "osterlars-rundkirke",
+    "region": "dk-bornholm",
+    "country": "denmark",
+    "region_name_vi": "Bornholm",
+    "name_vi": "Nhà thờ tròn Østerlars",
+    "name_en": "Osterlars Round Church",
+    "name_local": "Østerlars Rundkirke",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 55.1489,
+      "lon": 14.9403
+    },
+    "address_vi": "Østerlars, trung tâm đảo Bornholm",
+    "presentation_short_vi": "Nhà thờ tròn lớn nhất và cổ nhất Bornholm (khoảng năm 1150), với trụ giữa khổng lồ và bích họa thời trung cổ — công trình biểu tượng của đảo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.1489,14.9403",
+      "yandex": "https://yandex.com/maps/?pt=14.9403,55.1489&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "church",
+      "round-church"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-bornholm-nylars-rundkirke",
+    "slug": "nylars-rundkirke",
+    "region": "dk-bornholm",
+    "country": "denmark",
+    "region_name_vi": "Bornholm",
+    "name_vi": "Nhà thờ tròn Nylars",
+    "name_en": "Nylars Round Church",
+    "name_local": "Nylars Rundkirke",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 55.0783,
+      "lon": 14.7386
+    },
+    "address_vi": "Nylars, phía nam đảo Bornholm",
+    "presentation_short_vi": "Nhà thờ tròn ba tầng được bảo tồn tốt (khoảng năm 1150), nổi bật với bích họa cổ và các dòng chữ rune khắc trên trụ trung tâm.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.0783,14.7386",
+      "yandex": "https://yandex.com/maps/?pt=14.7386,55.0783&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "round-church",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-bornholm-ols-kirke",
+    "slug": "ols-kirke",
+    "region": "dk-bornholm",
+    "country": "denmark",
+    "region_name_vi": "Bornholm",
+    "name_vi": "Nhà thờ tròn Ols (Olsker)",
+    "name_en": "Ols Church (Olsker)",
+    "name_local": "Ols Kirke",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 55.2394,
+      "lon": 14.7908
+    },
+    "address_vi": "Olsker, phía bắc đảo Bornholm",
+    "presentation_short_vi": "Nhà thờ tròn cao và thanh mảnh nhất trong bốn nhà thờ tròn của Bornholm, dâng kính Thánh Olaf của Na Uy.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.2394,14.7908",
+      "yandex": "https://yandex.com/maps/?pt=14.7908,55.2394&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "round-church"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-bornholm-dueodde",
+    "slug": "dueodde",
+    "region": "dk-bornholm",
+    "country": "denmark",
+    "region_name_vi": "Bornholm",
+    "name_vi": "Bãi biển Dueodde",
+    "name_en": "Dueodde",
+    "name_local": "Dueodde",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 54.9917,
+      "lon": 15.0742
+    },
+    "address_vi": "Mũi cực nam đảo Bornholm",
+    "presentation_short_vi": "Bãi biển cát trắng mịn như bột trải dài ở cực nam đảo, với ngọn hải đăng cao nhất Đan Mạch mở cửa cho khách leo ngắm cảnh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=54.9917,15.0742",
+      "yandex": "https://yandex.com/maps/?pt=15.0742,54.9917&z=16&l=map"
+    },
+    "tags": [
+      "beach",
+      "lighthouse",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-bornholm-ronne",
+    "slug": "ronne",
+    "region": "dk-bornholm",
+    "country": "denmark",
+    "region_name_vi": "Bornholm",
+    "name_vi": "Thị trấn Rønne",
+    "name_en": "Ronne",
+    "name_local": "Rønne",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 55.0989,
+      "lon": 14.7014
+    },
+    "address_vi": "Bờ tây đảo Bornholm",
+    "presentation_short_vi": "Thị trấn lớn nhất và cửa ngõ của Bornholm, với những con phố lát đá cuội, nhà gỗ sơn màu và cảng phà nhộn nhịp.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.0989,14.7014",
+      "yandex": "https://yandex.com/maps/?pt=14.7014,55.0989&z=16&l=map"
+    },
+    "tags": [
+      "town",
+      "old-town",
+      "harbour"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-bornholm-svaneke",
+    "slug": "svaneke",
+    "region": "dk-bornholm",
+    "country": "denmark",
+    "region_name_vi": "Bornholm",
+    "name_vi": "Thị trấn Svaneke",
+    "name_en": "Svaneke",
+    "name_local": "Svaneke",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 55.1361,
+      "lon": 15.1417
+    },
+    "address_vi": "Cực đông đảo Bornholm",
+    "presentation_short_vi": "Thị trấn cực đông của Đan Mạch, từng đoạt giải thị trấn đẹp nhất nước, nổi tiếng với xưởng kẹo bơ, xưởng thổi thủy tinh và nhà cổ được bảo tồn.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.1361,15.1417",
+      "yandex": "https://yandex.com/maps/?pt=15.1417,55.1361&z=16&l=map"
+    },
+    "tags": [
+      "town",
+      "charming",
+      "crafts"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-bornholm-gudhjem",
+    "slug": "gudhjem",
+    "region": "dk-bornholm",
+    "country": "denmark",
+    "region_name_vi": "Bornholm",
+    "name_vi": "Làng chài Gudhjem",
+    "name_en": "Gudhjem",
+    "name_local": "Gudhjem",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 55.2103,
+      "lon": 14.9719
+    },
+    "address_vi": "Bờ bắc đảo Bornholm",
+    "presentation_short_vi": "Làng chài xinh đẹp bên sườn dốc nhìn ra biển, nổi tiếng với món cá trích hun khói 'Sol over Gudhjem' và các lò hun khói truyền thống.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.2103,14.9719",
+      "yandex": "https://yandex.com/maps/?pt=14.9719,55.2103&z=16&l=map"
+    },
+    "tags": [
+      "village",
+      "seaside",
+      "food"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-bornholm-helligdomsklipperne",
+    "slug": "helligdomsklipperne",
+    "region": "dk-bornholm",
+    "country": "denmark",
+    "region_name_vi": "Bornholm",
+    "name_vi": "Vách đá Helligdomsklipperne",
+    "name_en": "Helligdomsklipperne (Sanctuary Cliffs)",
+    "name_local": "Helligdomsklipperne",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 55.2247,
+      "lon": 14.9506
+    },
+    "address_vi": "Gần Gudhjem, bờ bắc đảo Bornholm",
+    "presentation_short_vi": "Dãy vách đá granit dựng đứng với hang động và khe nứt kỳ vĩ ven biển, ngắm đẹp nhất từ thuyền hoặc đường mòn ven bờ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.2247,14.9506",
+      "yandex": "https://yandex.com/maps/?pt=14.9506,55.2247&z=16&l=map"
+    },
+    "tags": [
+      "cliffs",
+      "nature",
+      "coast"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-bornholm-bornholms-kunstmuseum",
+    "slug": "bornholms-kunstmuseum",
+    "region": "dk-bornholm",
+    "country": "denmark",
+    "region_name_vi": "Bornholm",
+    "name_vi": "Bảo tàng Nghệ thuật Bornholm",
+    "name_en": "Bornholm Art Museum",
+    "name_local": "Bornholms Kunstmuseum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 55.2278,
+      "lon": 14.9556
+    },
+    "address_vi": "Helligdommen, gần Gudhjem, Bornholm",
+    "presentation_short_vi": "Bảo tàng nghệ thuật hiện đại tựa lưng vào vách đá, trưng bày tranh của 'trường phái Bornholm' với dòng suối chảy xuyên qua sảnh — kiến trúc được ca ngợi.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.2278,14.9556",
+      "yandex": "https://yandex.com/maps/?pt=14.9556,55.2278&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "art",
+      "modern"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-bornholm-christianso",
+    "slug": "christianso",
+    "region": "dk-bornholm",
+    "country": "denmark",
+    "region_name_vi": "Bornholm",
+    "name_vi": "Quần đảo Christiansø (Ertholmene)",
+    "name_en": "Christianso (Ertholmene)",
+    "name_local": "Christiansø",
+    "categories": [
+      "fortress",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 55.32,
+      "lon": 15.1867
+    },
+    "address_vi": "Ngoài khơi đông bắc Bornholm khoảng 18 km",
+    "presentation_short_vi": "Cụm đảo nhỏ cực đông Đan Mạch, từng là pháo đài hải quân thế kỷ 17 với hai tháp canh, nay là cộng đồng chài lưới yên bình không xe cộ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.32,15.1867",
+      "yandex": "https://yandex.com/maps/?pt=15.1867,55.32&z=16&l=map"
+    },
+    "tags": [
+      "island",
+      "fortress",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-bornholm-naturbornholm",
+    "slug": "naturbornholm",
+    "region": "dk-bornholm",
+    "country": "denmark",
+    "region_name_vi": "Bornholm",
+    "name_vi": "Trung tâm thiên nhiên NaturBornholm",
+    "name_en": "NaturBornholm",
+    "name_local": "NaturBornholm",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 55.0703,
+      "lon": 14.9142
+    },
+    "address_vi": "Aakirkeby, trung tâm đảo Bornholm",
+    "presentation_short_vi": "Trung tâm trải nghiệm thiên nhiên hiện đại do kiến trúc sư Henning Larsen thiết kế, giới thiệu địa chất và sinh vật đảo qua các mô hình tương tác.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.0703,14.9142",
+      "yandex": "https://yandex.com/maps/?pt=14.9142,55.0703&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "nature",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-bornholm-almindingen",
+    "slug": "almindingen",
+    "region": "dk-bornholm",
+    "country": "denmark",
+    "region_name_vi": "Bornholm",
+    "name_vi": "Rừng Almindingen và tháp Kongemindet",
+    "name_en": "Almindingen Forest & Kongemindet",
+    "name_local": "Almindingen",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 55.1178,
+      "lon": 14.7994
+    },
+    "address_vi": "Trung tâm đảo Bornholm",
+    "presentation_short_vi": "Khu rừng lớn thứ ba Đan Mạch, ôm trọn điểm cao nhất đảo Rytterknægten (162 m) với tháp ngắm cảnh Kongemindet nhìn bao quát Bornholm.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.1178,14.7994",
+      "yandex": "https://yandex.com/maps/?pt=14.7994,55.1178&z=16&l=map"
+    },
+    "tags": [
+      "forest",
+      "viewpoint",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-bornholm-braendesgardshaven",
+    "slug": "braendesgardshaven",
+    "region": "dk-bornholm",
+    "country": "denmark",
+    "region_name_vi": "Bornholm",
+    "name_vi": "Công viên giải trí Brændesgårdshaven (Joboland)",
+    "name_en": "Braendesgardshaven (Joboland)",
+    "name_local": "Brændesgårdshaven",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 55.1856,
+      "lon": 15.0975
+    },
+    "address_vi": "Gần Svaneke, phía đông đảo Bornholm",
+    "presentation_short_vi": "Công viên giải trí và vườn thú nước lâu đời của Bornholm với trò chơi, hồ nước và khu vui chơi — điểm đến gia đình được yêu thích trên đảo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.1856,15.0975",
+      "yandex": "https://yandex.com/maps/?pt=15.0975,55.1856&z=16&l=map"
+    },
+    "tags": [
+      "amusement-park",
+      "family",
+      "modern"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

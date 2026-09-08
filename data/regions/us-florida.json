@@ -1,0 +1,388 @@
+[
+  {
+    "id": "us-florida-walt-disney-world",
+    "slug": "walt-disney-world",
+    "region": "us-florida",
+    "country": "usa",
+    "region_name_vi": "Florida",
+    "name_vi": "Thế giới Walt Disney (Magic Kingdom)",
+    "name_en": "Walt Disney World – Magic Kingdom",
+    "name_local": "",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 28.4177,
+      "lon": -81.5812
+    },
+    "address_vi": "Bay Lake, gần Orlando, bang Florida",
+    "presentation_short_vi": "Khu nghỉ dưỡng giải trí lớn nhất thế giới với công viên Magic Kingdom biểu tượng và lâu đài Cinderella. Điểm đến gia đình nổi tiếng bậc nhất nước Mỹ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=28.4177,-81.5812",
+      "yandex": "https://yandex.com/maps/?pt=-81.5812,28.4177&z=16&l=map"
+    },
+    "tags": [
+      "theme_park",
+      "modern",
+      "family",
+      "top",
+      "orlando"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-florida-universal-studios-florida",
+    "slug": "universal-studios-florida",
+    "region": "us-florida",
+    "country": "usa",
+    "region_name_vi": "Florida",
+    "name_vi": "Universal Studios Florida",
+    "name_en": "Universal Studios Florida",
+    "name_local": "",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 28.4749,
+      "lon": -81.4664
+    },
+    "address_vi": "Orlando, bang Florida",
+    "presentation_short_vi": "Công viên chủ đề điện ảnh nổi tiếng với khu Thế giới Phù thủy Harry Potter cùng nhiều trò chơi cảm giác mạnh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=28.4749,-81.4664",
+      "yandex": "https://yandex.com/maps/?pt=-81.4664,28.4749&z=16&l=map"
+    },
+    "tags": [
+      "theme_park",
+      "modern",
+      "family",
+      "orlando"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-florida-kennedy-space-center",
+    "slug": "kennedy-space-center",
+    "region": "us-florida",
+    "country": "usa",
+    "region_name_vi": "Florida",
+    "name_vi": "Trung tâm Vũ trụ Kennedy (Khu tham quan)",
+    "name_en": "Kennedy Space Center Visitor Complex",
+    "name_local": "",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 28.5233,
+      "lon": -80.6816
+    },
+    "address_vi": "Đảo Merritt, bang Florida",
+    "presentation_short_vi": "Trung tâm phóng tàu vũ trụ của NASA với bảo tàng trưng bày tàu con thoi Atlantis và tên lửa Saturn V. Nơi khởi hành nhiều sứ mệnh không gian lịch sử.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=28.5233,-80.6816",
+      "yandex": "https://yandex.com/maps/?pt=-80.6816,28.5233&z=16&l=map"
+    },
+    "tags": [
+      "space",
+      "science",
+      "museum",
+      "modern",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-florida-south-beach-miami",
+    "slug": "south-beach-miami",
+    "region": "us-florida",
+    "country": "usa",
+    "region_name_vi": "Florida",
+    "name_vi": "Bãi biển South Beach (Miami Beach)",
+    "name_en": "South Beach",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 25.7826,
+      "lon": -80.1341
+    },
+    "address_vi": "Miami Beach, bang Florida",
+    "presentation_short_vi": "Bãi biển cát trắng sôi động nổi tiếng với nước biển xanh ngọc, đời sống về đêm và văn hóa bãi biển đặc trưng của Miami.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=25.7826,-80.1341",
+      "yandex": "https://yandex.com/maps/?pt=-80.1341,25.7826&z=16&l=map"
+    },
+    "tags": [
+      "beach",
+      "nature",
+      "modern",
+      "miami"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-florida-art-deco-historic-district",
+    "slug": "art-deco-historic-district",
+    "region": "us-florida",
+    "country": "usa",
+    "region_name_vi": "Florida",
+    "name_vi": "Khu phố cổ Art Deco (Ocean Drive)",
+    "name_en": "Miami Beach Architectural District (Art Deco)",
+    "name_local": "",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 25.7805,
+      "lon": -80.1301
+    },
+    "address_vi": "Ocean Drive, Miami Beach, bang Florida",
+    "presentation_short_vi": "Quần thể kiến trúc Art Deco thập niên 1930 lớn nhất thế giới dọc đại lộ Ocean Drive, với những tòa nhà pastel rực rỡ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=25.7805,-80.1301",
+      "yandex": "https://yandex.com/maps/?pt=-80.1301,25.7805&z=16&l=map"
+    },
+    "tags": [
+      "historic",
+      "architecture",
+      "square_street",
+      "miami"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-florida-everglades-national-park",
+    "slug": "everglades-national-park",
+    "region": "us-florida",
+    "country": "usa",
+    "region_name_vi": "Florida",
+    "name_vi": "Vườn quốc gia Everglades",
+    "name_en": "Everglades National Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 25.3184,
+      "lon": -80.9
+    },
+    "address_vi": "Nam Florida",
+    "presentation_short_vi": "Vùng đất ngập nước cận nhiệt đới rộng lớn, di sản thế giới UNESCO, nơi cư trú của cá sấu Mỹ, lợn biển và nhiều loài chim quý.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=25.3184,-80.9",
+      "yandex": "https://yandex.com/maps/?pt=-80.9,25.3184&z=16&l=map"
+    },
+    "tags": [
+      "national_park",
+      "nature",
+      "wetland",
+      "unesco"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-florida-castillo-de-san-marcos",
+    "slug": "castillo-de-san-marcos",
+    "region": "us-florida",
+    "country": "usa",
+    "region_name_vi": "Florida",
+    "name_vi": "Pháo đài Castillo de San Marcos",
+    "name_en": "Castillo de San Marcos",
+    "name_local": "",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 29.8975,
+      "lon": -81.3114
+    },
+    "address_vi": "St. Augustine, bang Florida",
+    "presentation_short_vi": "Pháo đài bằng đá coquina cổ nhất nước Mỹ, do người Tây Ban Nha xây từ thế kỷ 17 để canh giữ thành phố St. Augustine.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=29.8975,-81.3114",
+      "yandex": "https://yandex.com/maps/?pt=-81.3114,29.8975&z=16&l=map"
+    },
+    "tags": [
+      "fortress",
+      "historic",
+      "spanish",
+      "st-augustine"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-florida-vizcaya-museum-gardens",
+    "slug": "vizcaya-museum-gardens",
+    "region": "us-florida",
+    "country": "usa",
+    "region_name_vi": "Florida",
+    "name_vi": "Bảo tàng và Vườn Vizcaya",
+    "name_en": "Vizcaya Museum and Gardens",
+    "name_local": "",
+    "categories": [
+      "palace",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 25.7444,
+      "lon": -80.2103
+    },
+    "address_vi": "Miami, bang Florida",
+    "presentation_short_vi": "Dinh thự phong cách Phục Hưng Ý bên vịnh Biscayne với khu vườn kiểu Âu tráng lệ, xây đầu thế kỷ 20.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=25.7444,-80.2103",
+      "yandex": "https://yandex.com/maps/?pt=-80.2103,25.7444&z=16&l=map"
+    },
+    "tags": [
+      "palace",
+      "garden",
+      "historic",
+      "miami"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-florida-dali-museum",
+    "slug": "dali-museum",
+    "region": "us-florida",
+    "country": "usa",
+    "region_name_vi": "Florida",
+    "name_vi": "Bảo tàng Salvador Dalí",
+    "name_en": "The Dalí Museum",
+    "name_local": "",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 27.7606,
+      "lon": -82.6323
+    },
+    "address_vi": "St. Petersburg, bang Florida",
+    "presentation_short_vi": "Bảo tàng lưu giữ bộ sưu tập tranh Salvador Dalí lớn nhất ngoài châu Âu, nổi bật với kiến trúc mái kính siêu thực.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=27.7606,-82.6323",
+      "yandex": "https://yandex.com/maps/?pt=-82.6323,27.7606&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "art",
+      "modern",
+      "st-petersburg"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-florida-southernmost-point",
+    "slug": "southernmost-point",
+    "region": "us-florida",
+    "country": "usa",
+    "region_name_vi": "Florida",
+    "name_vi": "Cột mốc Cực Nam (Key West)",
+    "name_en": "Southernmost Point Buoy",
+    "name_local": "",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 24.5465,
+      "lon": -81.7975
+    },
+    "address_vi": "Key West, bang Florida",
+    "presentation_short_vi": "Cột mốc đánh dấu điểm cực nam của lục địa Hoa Kỳ, chỉ cách Cuba 90 dặm và là biểu tượng của Key West.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=24.5465,-81.7975",
+      "yandex": "https://yandex.com/maps/?pt=-81.7975,24.5465&z=16&l=map"
+    },
+    "tags": [
+      "monument",
+      "landmark",
+      "key-west"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-florida-dry-tortugas-fort-jefferson",
+    "slug": "dry-tortugas-fort-jefferson",
+    "region": "us-florida",
+    "country": "usa",
+    "region_name_vi": "Florida",
+    "name_vi": "Vườn quốc gia Dry Tortugas (Pháo đài Jefferson)",
+    "name_en": "Dry Tortugas National Park – Fort Jefferson",
+    "name_local": "",
+    "categories": [
+      "fortress",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 24.6287,
+      "lon": -82.8732
+    },
+    "address_vi": "Vịnh Mexico, ngoài khơi Key West, bang Florida",
+    "presentation_short_vi": "Pháo đài gạch lớn nhất nước Mỹ nằm trên đảo san hô biệt lập giữa biển, chỉ đến được bằng thuyền hoặc thủy phi cơ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=24.6287,-82.8732",
+      "yandex": "https://yandex.com/maps/?pt=-82.8732,24.6287&z=16&l=map"
+    },
+    "tags": [
+      "fortress",
+      "national_park",
+      "island",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-florida-clearwater-beach",
+    "slug": "clearwater-beach",
+    "region": "us-florida",
+    "country": "usa",
+    "region_name_vi": "Florida",
+    "name_vi": "Bãi biển Clearwater",
+    "name_en": "Clearwater Beach",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 27.9775,
+      "lon": -82.8271
+    },
+    "address_vi": "Clearwater, bang Florida",
+    "presentation_short_vi": "Bãi biển cát trắng mịn bên Vịnh Mexico, nhiều lần được bình chọn là một trong những bãi biển đẹp nhất nước Mỹ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=27.9775,-82.8271",
+      "yandex": "https://yandex.com/maps/?pt=-82.8271,27.9775&z=16&l=map"
+    },
+    "tags": [
+      "beach",
+      "nature",
+      "gulf-coast"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

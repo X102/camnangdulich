@@ -1,0 +1,408 @@
+[
+  {
+    "id": "ca-alberta-calgary-tower",
+    "slug": "calgary-tower",
+    "region": "ca-alberta",
+    "region_name_vi": "Alberta",
+    "country": "canada",
+    "name_vi": "Tháp Calgary",
+    "name_en": "Calgary Tower",
+    "name_local": "",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 51.0447,
+      "lon": -114.0631
+    },
+    "address_vi": "Calgary, Alberta",
+    "presentation_short_vi": "Tháp quan sát cao 191 m ở trung tâm Calgary, có sàn kính nhìn thẳng xuống phố và đài ngắm toàn cảnh dãy Rocky Mountains phía xa.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-114.0631,51.0447&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=51.0447,-114.0631"
+    },
+    "tags": [
+      "modern",
+      "tower",
+      "observation"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-alberta-west-edmonton-mall",
+    "slug": "west-edmonton-mall",
+    "region": "ca-alberta",
+    "region_name_vi": "Alberta",
+    "country": "canada",
+    "name_vi": "Trung tâm mua sắm West Edmonton",
+    "name_en": "West Edmonton Mall",
+    "name_local": "",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 53.52278,
+      "lon": -113.62306
+    },
+    "address_vi": "Edmonton, Alberta",
+    "presentation_short_vi": "Trung tâm thương mại lớn nhất Bắc Mỹ với công viên nước trong nhà, khu giải trí, sân trượt băng và hàng trăm cửa hàng.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-113.62306,53.52278&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=53.52278,-113.62306"
+    },
+    "tags": [
+      "modern",
+      "shopping",
+      "entertainment"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-alberta-scotiabank-saddledome",
+    "slug": "scotiabank-saddledome",
+    "region": "ca-alberta",
+    "region_name_vi": "Alberta",
+    "country": "canada",
+    "name_vi": "Nhà thi đấu Scotiabank Saddledome",
+    "name_en": "Scotiabank Saddledome",
+    "name_local": "",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 51.0375,
+      "lon": -114.05194
+    },
+    "address_vi": "Calgary, Alberta",
+    "presentation_short_vi": "Nhà thi đấu mái cong hình yên ngựa đặc trưng, sân nhà đội khúc côn cầu Calgary Flames, xây cho Thế vận hội Mùa đông 1988.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-114.05194,51.0375&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=51.0375,-114.05194"
+    },
+    "tags": [
+      "modern",
+      "arena",
+      "sports"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-alberta-head-smashed-in-buffalo-jump",
+    "slug": "head-smashed-in-buffalo-jump",
+    "region": "ca-alberta",
+    "region_name_vi": "Alberta",
+    "country": "canada",
+    "name_vi": "Vách săn bò rừng Head-Smashed-In",
+    "name_en": "Head-Smashed-In Buffalo Jump",
+    "name_local": "",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 49.74944,
+      "lon": -113.625
+    },
+    "address_vi": "Fort Macleod, Alberta",
+    "presentation_short_vi": "Di sản Thế giới UNESCO ghi dấu tập tục săn bò bizon của người bản địa suốt gần 6.000 năm, có trung tâm diễn giải xây trong vách đá đồng cỏ.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-113.625,49.74944&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=49.74944,-113.625"
+    },
+    "tags": [
+      "historic",
+      "unesco",
+      "indigenous"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-alberta-royal-alberta-museum",
+    "slug": "royal-alberta-museum",
+    "region": "ca-alberta",
+    "region_name_vi": "Alberta",
+    "country": "canada",
+    "name_vi": "Bảo tàng Hoàng gia Alberta",
+    "name_en": "Royal Alberta Museum",
+    "name_local": "",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 53.5449,
+      "lon": -113.4923
+    },
+    "address_vi": "Edmonton, Alberta",
+    "presentation_short_vi": "Bảo tàng lớn nhất miền tây Canada, trưng bày lịch sử tự nhiên, văn hóa người bản địa và di sản tỉnh Alberta.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-113.4923,53.5449&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=53.5449,-113.4923"
+    },
+    "tags": [
+      "museum",
+      "history",
+      "culture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-alberta-fort-calgary",
+    "slug": "fort-calgary",
+    "region": "ca-alberta",
+    "region_name_vi": "Alberta",
+    "country": "canada",
+    "name_vi": "Pháo đài Fort Calgary",
+    "name_en": "Fort Calgary",
+    "name_local": "",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 51.0447,
+      "lon": -114.043
+    },
+    "address_vi": "Calgary, Alberta",
+    "presentation_short_vi": "Pháo đài do Cảnh sát Kỵ mã Tây Bắc dựng năm 1875 tại ngã ba sông Bow và Elbow, nơi khai sinh thành phố Calgary.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-114.043,51.0447&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=51.0447,-114.043"
+    },
+    "tags": [
+      "historic",
+      "fort",
+      "heritage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-alberta-alberta-legislature",
+    "slug": "alberta-legislature",
+    "region": "ca-alberta",
+    "region_name_vi": "Alberta",
+    "country": "canada",
+    "name_vi": "Tòa nhà Nghị viện Alberta",
+    "name_en": "Alberta Legislature Building",
+    "name_local": "",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 53.533694,
+      "lon": -113.506611
+    },
+    "address_vi": "Edmonton, Alberta",
+    "presentation_short_vi": "Trụ sở nghị viện tỉnh theo phong cách Beaux-Arts bên bờ sông Bắc Saskatchewan, nổi bật với mái vòm lớn và vườn bậc thang.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-113.506611,53.533694&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=53.533694,-113.506611"
+    },
+    "tags": [
+      "historic",
+      "government",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-alberta-banff-national-park",
+    "slug": "banff-national-park",
+    "region": "ca-alberta",
+    "region_name_vi": "Alberta",
+    "country": "canada",
+    "name_vi": "Vườn quốc gia Banff",
+    "name_en": "Banff National Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 51.17778,
+      "lon": -115.57361
+    },
+    "address_vi": "Banff, Alberta",
+    "presentation_short_vi": "Vườn quốc gia lâu đời nhất Canada giữa dãy Rocky Mountains, nổi tiếng với đỉnh núi tuyết, suối nước nóng và thị trấn Banff nhộn nhịp.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-115.57361,51.17778&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=51.17778,-115.57361"
+    },
+    "tags": [
+      "nature",
+      "mountains",
+      "national_park",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-alberta-lake-louise",
+    "slug": "lake-louise",
+    "region": "ca-alberta",
+    "region_name_vi": "Alberta",
+    "country": "canada",
+    "name_vi": "Hồ Louise",
+    "name_en": "Lake Louise",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 51.41167,
+      "lon": -116.22806
+    },
+    "address_vi": "Lake Louise, Alberta",
+    "presentation_short_vi": "Hồ băng hà nước xanh ngọc bích soi bóng sông băng Victoria, một trong những cảnh hồ núi đẹp nhất thế giới trong Vườn quốc gia Banff.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-116.22806,51.41167&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=51.41167,-116.22806"
+    },
+    "tags": [
+      "nature",
+      "lake",
+      "mountains",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-alberta-moraine-lake",
+    "slug": "moraine-lake",
+    "region": "ca-alberta",
+    "region_name_vi": "Alberta",
+    "country": "canada",
+    "name_vi": "Hồ Moraine",
+    "name_en": "Moraine Lake",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 51.3225,
+      "lon": -116.18556
+    },
+    "address_vi": "Valley of the Ten Peaks, Alberta",
+    "presentation_short_vi": "Hồ băng hà xanh biếc nằm giữa Thung lũng Mười Đỉnh núi, khung cảnh biểu tượng từng in trên tờ tiền Canada.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-116.18556,51.3225&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=51.3225,-116.18556"
+    },
+    "tags": [
+      "nature",
+      "lake",
+      "mountains"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-alberta-jasper-national-park",
+    "slug": "jasper-national-park",
+    "region": "ca-alberta",
+    "region_name_vi": "Alberta",
+    "country": "canada",
+    "name_vi": "Vườn quốc gia Jasper",
+    "name_en": "Jasper National Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 52.8,
+      "lon": -117.9
+    },
+    "address_vi": "Jasper, Alberta",
+    "presentation_short_vi": "Vườn quốc gia lớn nhất vùng Rocky Mountains của Canada, khu bảo tồn bầu trời tối với hồ Maligne, hẻm núi và nhiều động vật hoang dã.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-117.9,52.8&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=52.8,-117.9"
+    },
+    "tags": [
+      "nature",
+      "mountains",
+      "national_park"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-alberta-athabasca-glacier",
+    "slug": "athabasca-glacier",
+    "region": "ca-alberta",
+    "region_name_vi": "Alberta",
+    "country": "canada",
+    "name_vi": "Sông băng Athabasca",
+    "name_en": "Athabasca Glacier",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 52.19861,
+      "lon": -117.24361
+    },
+    "address_vi": "Columbia Icefield, Alberta",
+    "presentation_short_vi": "Lưỡi sông băng dễ tiếp cận nhất của cánh đồng băng Columbia, du khách có thể đi xe chuyên dụng ra tận mặt băng trên đường Icefields Parkway.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-117.24361,52.19861&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=52.19861,-117.24361"
+    },
+    "tags": [
+      "nature",
+      "glacier",
+      "mountains"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-alberta-waterton-lakes",
+    "slug": "waterton-lakes",
+    "region": "ca-alberta",
+    "region_name_vi": "Alberta",
+    "country": "canada",
+    "name_vi": "Vườn quốc gia Hồ Waterton",
+    "name_en": "Waterton Lakes National Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 49.04583,
+      "lon": -113.91528
+    },
+    "address_vi": "Waterton, Alberta",
+    "presentation_short_vi": "Vườn quốc gia nơi thảo nguyên gặp dãy núi, cùng Glacier (Mỹ) tạo thành Công viên Hòa bình Quốc tế đầu tiên trên thế giới.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-113.91528,49.04583&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=49.04583,-113.91528"
+    },
+    "tags": [
+      "nature",
+      "lake",
+      "mountains",
+      "unesco"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

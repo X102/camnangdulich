@@ -1,0 +1,195 @@
+[
+  {
+    "id": "th-phrae-wat-phra-that-cho-hae",
+    "slug": "wat-phra-that-cho-hae",
+    "region": "th-phrae",
+    "country": "thailand",
+    "region_name_vi": "Phrae",
+    "name_vi": "Chùa Phra That Cho Hae",
+    "name_en": "Wat Phra That Cho Hae",
+    "name_local": "วัดพระธาตุช่อแฮ",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 18.0865,
+      "lon": 100.2047
+    },
+    "address_vi": "Huyện Mueang, tỉnh Phrae",
+    "rating": null,
+    "presentation_short_vi": "Ngôi chùa quan trọng nhất tỉnh Phrae, với bảo tháp dát vàng trên đồi Cho Hae thờ xá lợi Phật, là điểm hành hương lớn của vùng Bắc Thái.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.2047,18.0865&z=17&pt=100.2047,18.0865",
+      "google": "https://www.google.com/maps/search/?api=1&query=18.0865,100.2047"
+    },
+    "tags": [
+      "temple",
+      "wat",
+      "golden_chedi",
+      "pilgrimage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "th-phrae-phae-mueang-phi",
+    "slug": "phae-mueang-phi",
+    "region": "th-phrae",
+    "country": "thailand",
+    "region_name_vi": "Phrae",
+    "name_vi": "Công viên rừng Phae Mueang Phi",
+    "name_en": "Phae Mueang Phi Forest Park",
+    "name_local": "แพะเมืองผี",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 18.1853,
+      "lon": 100.2106
+    },
+    "address_vi": "Huyện Mueang, tỉnh Phrae",
+    "rating": null,
+    "presentation_short_vi": "Công viên rừng với những cột đất và mỏm đá bị xói mòn thành hình thù kỳ dị, được ví như 'thành phố ma' với khung cảnh siêu thực độc đáo.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.2106,18.1853&z=17&pt=100.2106,18.1853",
+      "google": "https://www.google.com/maps/search/?api=1&query=18.1853,100.2106"
+    },
+    "tags": [
+      "forest_park",
+      "erosion",
+      "geology",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "th-phrae-mae-yom-national-park",
+    "slug": "mae-yom-national-park",
+    "region": "th-phrae",
+    "country": "thailand",
+    "region_name_vi": "Phrae",
+    "name_vi": "Vườn quốc gia Mae Yom",
+    "name_en": "Mae Yom National Park",
+    "name_local": "อุทยานแห่งชาติแม่ยม",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 18.7458,
+      "lon": 100.1958
+    },
+    "address_vi": "Huyện Song, tỉnh Phrae",
+    "rating": null,
+    "presentation_short_vi": "Vườn quốc gia dọc sông Yom, nổi tiếng với rừng tếch (golden teak) tự nhiên rộng lớn cùng thác nước và hang động.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.1958,18.7458&z=17&pt=100.1958,18.7458",
+      "google": "https://www.google.com/maps/search/?api=1&query=18.7458,100.1958"
+    },
+    "tags": [
+      "national_park",
+      "teak_forest",
+      "river",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "th-phrae-vongburi-house",
+    "slug": "vongburi-house",
+    "region": "th-phrae",
+    "country": "thailand",
+    "region_name_vi": "Phrae",
+    "name_vi": "Nhà cổ Vongburi",
+    "name_en": "Vongburi House",
+    "name_local": "บ้านวงศ์บุรี",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 18.1434,
+      "lon": 100.1363
+    },
+    "address_vi": "Huyện Mueang, tỉnh Phrae",
+    "rating": null,
+    "presentation_short_vi": "Dinh thự gỗ tếch màu hồng hai tầng kiểu thuộc địa của dòng họ quý tộc Vongburi, nay là bảo tàng lưu giữ đồ cổ và chạm khắc tinh xảo.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.1363,18.1434&z=17&pt=100.1363,18.1434",
+      "google": "https://www.google.com/maps/search/?api=1&query=18.1434,100.1363"
+    },
+    "tags": [
+      "teak_mansion",
+      "museum",
+      "heritage",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "th-phrae-khum-chao-luang",
+    "slug": "khum-chao-luang",
+    "region": "th-phrae",
+    "country": "thailand",
+    "region_name_vi": "Phrae",
+    "name_vi": "Dinh Chao Luang",
+    "name_en": "Khum Chao Luang",
+    "name_local": "คุ้มเจ้าหลวง",
+    "categories": [
+      "palace",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 18.1443,
+      "lon": 100.1388
+    },
+    "address_vi": "Huyện Mueang, tỉnh Phrae",
+    "rating": null,
+    "presentation_short_vi": "Dinh thự cổ của lãnh chúa (chao luang) cai quản Phrae, kiến trúc gỗ pha Âu – Á đặc sắc, nay là bảo tàng của tỉnh.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.1388,18.1443&z=17&pt=100.1388,18.1443",
+      "google": "https://www.google.com/maps/search/?api=1&query=18.1443,100.1388"
+    },
+    "tags": [
+      "mansion",
+      "museum",
+      "heritage",
+      "governor"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "th-phrae-wat-chom-sawan",
+    "slug": "wat-chom-sawan",
+    "region": "th-phrae",
+    "country": "thailand",
+    "region_name_vi": "Phrae",
+    "name_vi": "Chùa Chom Sawan",
+    "name_en": "Wat Chom Sawan",
+    "name_local": "วัดจอมสวรรค์",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 18.1508,
+      "lon": 100.1511
+    },
+    "address_vi": "Huyện Mueang, tỉnh Phrae",
+    "rating": null,
+    "presentation_short_vi": "Ngôi chùa kiểu Miến Điện/Shan bằng gỗ tếch tinh xảo do cộng đồng người Shan xây dựng, nổi bật với chính điện và tháp trang trí cầu kỳ.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.1511,18.1508&z=17&pt=100.1511,18.1508",
+      "google": "https://www.google.com/maps/search/?api=1&query=18.1508,100.1511"
+    },
+    "tags": [
+      "temple",
+      "wat",
+      "burmese_style",
+      "teak"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  }
+]

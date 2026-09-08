@@ -1,0 +1,412 @@
+[
+  {
+    "id": "fi-tampere-nasinneula",
+    "slug": "nasinneula",
+    "region": "fi-tampere",
+    "country": "finland",
+    "region_name_vi": "Tampere",
+    "name_vi": "Tháp quan sát Näsinneula",
+    "name_en": "Näsinneula Observation Tower",
+    "name_local": "Näsinneula",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 61.505,
+      "lon": 23.7433
+    },
+    "address_vi": "Khu Särkänniemi, Tampere",
+    "presentation_short_vi": "Tháp quan sát cao 168 m bên hồ Näsijärvi, tháp cao nhất Phần Lan, có đài ngắm cảnh và nhà hàng xoay trên đỉnh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=61.505,23.7433",
+      "yandex": "https://yandex.com/maps/?pt=23.7433,61.505&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "tower",
+      "viewpoint",
+      "modern"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fi-tampere-sarkanniemi",
+    "slug": "sarkanniemi",
+    "region": "fi-tampere",
+    "country": "finland",
+    "region_name_vi": "Tampere",
+    "name_vi": "Công viên giải trí Särkänniemi",
+    "name_en": "Särkänniemi Amusement Park",
+    "name_local": "Särkänniemi",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 61.5079,
+      "lon": 23.7442
+    },
+    "address_vi": "Laiskanlahdenkatu, Tampere",
+    "presentation_short_vi": "Khu vui chơi giải trí bên hồ với công viên trò chơi, thủy cung và đài quan sát Näsinneula — điểm đến gia đình nổi tiếng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=61.5079,23.7442",
+      "yandex": "https://yandex.com/maps/?pt=23.7442,61.5079&z=16&l=map"
+    },
+    "tags": [
+      "amusement-park",
+      "family",
+      "modern"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fi-tampere-pyynikki-tower",
+    "slug": "pyynikki-tower",
+    "region": "fi-tampere",
+    "country": "finland",
+    "region_name_vi": "Tampere",
+    "name_vi": "Tháp quan sát Pyynikki",
+    "name_en": "Pyynikki Observation Tower",
+    "name_local": "Pyynikin näkötorni",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 61.4939,
+      "lon": 23.7325
+    },
+    "address_vi": "Đồi Pyynikki, Tampere",
+    "presentation_short_vi": "Tháp đá granite cao 26 m xây năm 1929 trên đỉnh đồi băng tích, nổi tiếng với quán cà phê bánh rán doughnut truyền thống.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=61.4939,23.7325",
+      "yandex": "https://yandex.com/maps/?pt=23.7325,61.4939&z=16&l=map"
+    },
+    "tags": [
+      "tower",
+      "viewpoint",
+      "history",
+      "cafe"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fi-tampere-tampere-cathedral",
+    "slug": "tampere-cathedral",
+    "region": "fi-tampere",
+    "country": "finland",
+    "region_name_vi": "Tampere",
+    "name_vi": "Nhà thờ chính tòa Tampere",
+    "name_en": "Tampere Cathedral",
+    "name_local": "Tampereen tuomiokirkko",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 61.4969,
+      "lon": 23.7717
+    },
+    "address_vi": "Tuomiokirkonkatu, Tampere",
+    "presentation_short_vi": "Nhà thờ đá granite phong cách Lãng mạn Dân tộc hoàn thành năm 1907, nổi tiếng với các bức bích họa gây tranh cãi của Hugo Simberg.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=61.4969,23.7717",
+      "yandex": "https://yandex.com/maps/?pt=23.7717,61.4969&z=16&l=map"
+    },
+    "tags": [
+      "cathedral",
+      "art-nouveau",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fi-tampere-vapriikki",
+    "slug": "vapriikki",
+    "region": "fi-tampere",
+    "country": "finland",
+    "region_name_vi": "Tampere",
+    "name_vi": "Trung tâm Bảo tàng Vapriikki",
+    "name_en": "Vapriikki Museum Centre",
+    "name_local": "Museokeskus Vapriikki",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 61.4986,
+      "lon": 23.7717
+    },
+    "address_vi": "Alaverstaanraitti, khu Tampella, Tampere",
+    "presentation_short_vi": "Tổ hợp bảo tàng trong nhà máy cũ, trưng bày lịch sử, khảo cổ và cả Bảo tàng Khúc côn cầu trên băng Phần Lan.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=61.4986,23.7717",
+      "yandex": "https://yandex.com/maps/?pt=23.7717,61.4986&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "history",
+      "industrial"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fi-tampere-tampere-hall",
+    "slug": "tampere-hall",
+    "region": "fi-tampere",
+    "country": "finland",
+    "region_name_vi": "Tampere",
+    "name_vi": "Cung Hòa nhạc Tampere-talo",
+    "name_en": "Tampere Hall",
+    "name_local": "Tampere-talo",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 61.4958,
+      "lon": 23.7806
+    },
+    "address_vi": "Yliopistonkatu, Tampere",
+    "presentation_short_vi": "Trung tâm hội nghị và hòa nhạc lớn nhất vùng Bắc Âu, khánh thành năm 1990, cũng là nơi đặt Bảo tàng Moomin.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=61.4958,23.7806",
+      "yandex": "https://yandex.com/maps/?pt=23.7806,61.4958&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "concert-hall",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fi-tampere-moomin-museum",
+    "slug": "moomin-museum",
+    "region": "fi-tampere",
+    "country": "finland",
+    "region_name_vi": "Tampere",
+    "name_vi": "Bảo tàng Moomin",
+    "name_en": "Moomin Museum",
+    "name_local": "Muumimuseo",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 61.4957,
+      "lon": 23.7808
+    },
+    "address_vi": "Trong Tampere-talo, Yliopistonkatu, Tampere",
+    "presentation_short_vi": "Bảo tàng dành riêng cho thế giới Moomin của Tove Jansson, trưng bày tranh gốc và mô hình ngôi nhà Moomin năm tầng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=61.4957,23.7808",
+      "yandex": "https://yandex.com/maps/?pt=23.7808,61.4957&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "moomin",
+      "family",
+      "art"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fi-tampere-finlayson-area",
+    "slug": "finlayson-area",
+    "region": "fi-tampere",
+    "country": "finland",
+    "region_name_vi": "Tampere",
+    "name_vi": "Khu nhà máy Finlayson",
+    "name_en": "Finlayson Area",
+    "name_local": "Finlaysonin alue",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 61.5008,
+      "lon": 23.7594
+    },
+    "address_vi": "Bên thác Tammerkoski, Tampere",
+    "presentation_short_vi": "Quần thể nhà máy dệt gạch đỏ thế kỷ 19 nay thành khu văn hóa với bảo tàng, rạp phim, quán ăn và cửa hàng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=61.5008,23.7594",
+      "yandex": "https://yandex.com/maps/?pt=23.7594,61.5008&z=16&l=map"
+    },
+    "tags": [
+      "industrial",
+      "history",
+      "district",
+      "dining"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fi-tampere-tammerkoski",
+    "slug": "tammerkoski",
+    "region": "fi-tampere",
+    "country": "finland",
+    "region_name_vi": "Tampere",
+    "name_vi": "Thác ghềnh Tammerkoski",
+    "name_en": "Tammerkoski Rapids",
+    "name_local": "Tammerkoski",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 61.498,
+      "lon": 23.765
+    },
+    "address_vi": "Chảy qua trung tâm Tampere",
+    "presentation_short_vi": "Dòng ghềnh nối hai hồ Näsijärvi và Pyhäjärvi chảy giữa lòng thành phố, được xếp là một trong những cảnh quan quốc gia của Phần Lan.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=61.498,23.765",
+      "yandex": "https://yandex.com/maps/?pt=23.765,61.498&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "landscape",
+      "rapids",
+      "heritage"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fi-tampere-pyynikki-ridge",
+    "slug": "pyynikki-ridge",
+    "region": "fi-tampere",
+    "country": "finland",
+    "region_name_vi": "Tampere",
+    "name_vi": "Đồi băng tích Pyynikki",
+    "name_en": "Pyynikki Ridge",
+    "name_local": "Pyynikin harju",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 61.4936,
+      "lon": 23.735
+    },
+    "address_vi": "Giữa hai hồ Näsijärvi và Pyhäjärvi, Tampere",
+    "presentation_short_vi": "Đồi băng tích (esker) phủ rừng thông cổ thụ, với các đường mòn dạo bộ và tầm nhìn ra hai hồ lớn của thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=61.4936,23.735",
+      "yandex": "https://yandex.com/maps/?pt=23.735,61.4936&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "forest",
+      "hiking",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fi-tampere-pispala",
+    "slug": "pispala",
+    "region": "fi-tampere",
+    "country": "finland",
+    "region_name_vi": "Tampere",
+    "name_vi": "Khu phố đồi Pispala",
+    "name_en": "Pispala",
+    "name_local": "Pispala",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 61.4989,
+      "lon": 23.71
+    },
+    "address_vi": "Sườn đồi Pyynikki, phía tây Tampere",
+    "presentation_short_vi": "Khu dân cư nhà gỗ đầy màu sắc trải trên sườn dốc giữa hai hồ, từng là làng công nhân, nay nổi tiếng với cảnh quan độc đáo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=61.4989,23.71",
+      "yandex": "https://yandex.com/maps/?pt=23.71,61.4989&z=16&l=map"
+    },
+    "tags": [
+      "district",
+      "wooden-houses",
+      "history",
+      "scenery"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fi-tampere-rajaportti-sauna",
+    "slug": "rajaportti-sauna",
+    "region": "fi-tampere",
+    "country": "finland",
+    "region_name_vi": "Tampere",
+    "name_vi": "Nhà tắm hơi Rajaportti",
+    "name_en": "Rajaportti Sauna",
+    "name_local": "Rajaportin sauna",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 61.4972,
+      "lon": 23.7106
+    },
+    "address_vi": "Pispala, Tampere",
+    "presentation_short_vi": "Nhà tắm hơi công cộng lâu đời nhất Phần Lan còn hoạt động, mở từ năm 1906 — di sản văn hóa sauna truyền thống.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=61.4972,23.7106",
+      "yandex": "https://yandex.com/maps/?pt=23.7106,61.4972&z=16&l=map"
+    },
+    "tags": [
+      "sauna",
+      "history",
+      "culture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "fi-tampere-aleksanteri-church",
+    "slug": "aleksanteri-church",
+    "region": "fi-tampere",
+    "country": "finland",
+    "region_name_vi": "Tampere",
+    "name_vi": "Nhà thờ Aleksanteri",
+    "name_en": "Aleksanteri Church",
+    "name_local": "Aleksanterin kirkko",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 61.4954,
+      "lon": 23.7586
+    },
+    "address_vi": "Công viên Aleksanteri, Tampere",
+    "presentation_short_vi": "Nhà thờ Tin Lành phong cách Tân Gothic bằng gạch đỏ hoàn thành năm 1881, một trong những nhà thờ lớn của Tampere.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=61.4954,23.7586",
+      "yandex": "https://yandex.com/maps/?pt=23.7586,61.4954&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "neogothic",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

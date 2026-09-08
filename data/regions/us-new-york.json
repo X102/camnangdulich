@@ -1,0 +1,399 @@
+[
+  {
+    "id": "us-new-york-statue-of-liberty",
+    "slug": "statue-of-liberty",
+    "region": "us-new-york",
+    "country": "usa",
+    "region_name_vi": "New York",
+    "name_vi": "Tượng Nữ thần Tự do (Statue of Liberty)",
+    "name_en": "Statue of Liberty",
+    "name_local": "",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 40.6892,
+      "lon": -74.0445
+    },
+    "address_vi": "Đảo Liberty, cảng New York, bang New York",
+    "presentation_short_vi": "Bức tượng đồng khổng lồ do Pháp tặng Hoa Kỳ năm 1886, biểu tượng của tự do và của nước Mỹ; Di sản Thế giới UNESCO đứng giữa cảng New York.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=40.6892,-74.0445",
+      "yandex": "https://yandex.com/maps/?pt=-74.0445,40.6892&z=16&l=map"
+    },
+    "tags": [
+      "monument",
+      "unesco",
+      "iconic",
+      "top",
+      "new-york-city"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-new-york-empire-state-building",
+    "slug": "empire-state-building",
+    "region": "us-new-york",
+    "country": "usa",
+    "region_name_vi": "New York",
+    "name_vi": "Tòa nhà Empire State",
+    "name_en": "Empire State Building",
+    "name_local": "",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 40.7484,
+      "lon": -73.9857
+    },
+    "address_vi": "Số 350 Đại lộ 5, khu Midtown Manhattan, thành phố New York",
+    "presentation_short_vi": "Tòa nhà chọc trời phong cách Art Deco hoàn thành năm 1931, từng cao nhất thế giới; đài quan sát tầng 86 và 102 mang tầm nhìn toàn cảnh Manhattan.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=40.7484,-73.9857",
+      "yandex": "https://yandex.com/maps/?pt=-73.9857,40.7484&z=16&l=map"
+    },
+    "tags": [
+      "skyscraper",
+      "art-deco",
+      "observation",
+      "iconic",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-new-york-times-square",
+    "slug": "times-square",
+    "region": "us-new-york",
+    "country": "usa",
+    "region_name_vi": "New York",
+    "name_vi": "Quảng trường Thời Đại (Times Square)",
+    "name_en": "Times Square",
+    "name_local": "",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 40.758,
+      "lon": -73.9855
+    },
+    "address_vi": "Giao lộ Broadway và Đại lộ 7, khu Midtown Manhattan, thành phố New York",
+    "presentation_short_vi": "Quảng trường rực rỡ biển quảng cáo điện tử ở trung tâm Manhattan, nổi tiếng với nhà hát Broadway và lễ đếm ngược đón Năm mới cùng quả cầu pha lê.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=40.758,-73.9855",
+      "yandex": "https://yandex.com/maps/?pt=-73.9855,40.758&z=16&l=map"
+    },
+    "tags": [
+      "square",
+      "nightlife",
+      "broadway",
+      "iconic",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-new-york-central-park",
+    "slug": "central-park",
+    "region": "us-new-york",
+    "country": "usa",
+    "region_name_vi": "New York",
+    "name_vi": "Công viên Trung tâm (Central Park)",
+    "name_en": "Central Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 40.7829,
+      "lon": -73.9654
+    },
+    "address_vi": "Khu Manhattan, thành phố New York",
+    "presentation_short_vi": "Công viên đô thị rộng khoảng 340 ha giữa lòng Manhattan với hồ nước, đồng cỏ, đường dạo và sân băng, là lá phổi xanh nổi tiếng nhất nước Mỹ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=40.7829,-73.9654",
+      "yandex": "https://yandex.com/maps/?pt=-73.9654,40.7829&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "nature",
+      "urban",
+      "top",
+      "new-york-city"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-new-york-brooklyn-bridge",
+    "slug": "brooklyn-bridge",
+    "region": "us-new-york",
+    "country": "usa",
+    "region_name_vi": "New York",
+    "name_vi": "Cầu Brooklyn",
+    "name_en": "Brooklyn Bridge",
+    "name_local": "",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 40.7061,
+      "lon": -73.9969
+    },
+    "address_vi": "Bắc qua sông Đông (East River), nối Manhattan và Brooklyn, thành phố New York",
+    "presentation_short_vi": "Cầu treo dây văng lịch sử hoàn thành năm 1883 bằng đá và thép, nối Manhattan với Brooklyn; lối đi bộ trên cầu là điểm ngắm cảnh nổi tiếng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=40.7061,-73.9969",
+      "yandex": "https://yandex.com/maps/?pt=-73.9969,40.7061&z=16&l=map"
+    },
+    "tags": [
+      "bridge",
+      "historic",
+      "landmark",
+      "top",
+      "new-york-city"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-new-york-met-museum",
+    "slug": "met-museum",
+    "region": "us-new-york",
+    "country": "usa",
+    "region_name_vi": "New York",
+    "name_vi": "Bảo tàng Nghệ thuật Metropolitan (The Met)",
+    "name_en": "Metropolitan Museum of Art",
+    "name_local": "",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 40.7794,
+      "lon": -73.9632
+    },
+    "address_vi": "Số 1000 Đại lộ 5, ven Công viên Trung tâm, thành phố New York",
+    "presentation_short_vi": "Bảo tàng nghệ thuật lớn nhất Tây bán cầu với hơn hai triệu hiện vật trải khắp 5.000 năm lịch sử văn hóa nhân loại.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=40.7794,-73.9632",
+      "yandex": "https://yandex.com/maps/?pt=-73.9632,40.7794&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "art",
+      "culture",
+      "top",
+      "new-york-city"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-new-york-one-world-trade-center",
+    "slug": "one-world-trade-center",
+    "region": "us-new-york",
+    "country": "usa",
+    "region_name_vi": "New York",
+    "name_vi": "Trung tâm Thương mại Thế giới Một & Đài tưởng niệm 11/9",
+    "name_en": "One World Trade Center & 9/11 Memorial",
+    "name_local": "",
+    "categories": [
+      "other",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 40.7127,
+      "lon": -74.0134
+    },
+    "address_vi": "Khu Hạ Manhattan (Lower Manhattan), thành phố New York",
+    "presentation_short_vi": "Tòa nhà cao nhất Tây bán cầu (541 m) cùng khu tưởng niệm hai hồ nước nơi Tháp Đôi từng đứng, tưởng nhớ nạn nhân vụ khủng bố 11/9/2001.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=40.7127,-74.0134",
+      "yandex": "https://yandex.com/maps/?pt=-74.0134,40.7127&z=16&l=map"
+    },
+    "tags": [
+      "skyscraper",
+      "memorial",
+      "observation",
+      "modern",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-new-york-niagara-falls",
+    "slug": "niagara-falls",
+    "region": "us-new-york",
+    "country": "usa",
+    "region_name_vi": "New York",
+    "name_vi": "Thác Niagara (Công viên bang Niagara Falls)",
+    "name_en": "Niagara Falls State Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 43.0842,
+      "lon": -79.0686
+    },
+    "address_vi": "Thành phố Niagara Falls, bang New York (biên giới Hoa Kỳ – Canada)",
+    "presentation_short_vi": "Công viên bang lâu đời nhất nước Mỹ bao quanh thác Niagara hùng vĩ, nơi ngắm thác Mỹ và thác Móng Ngựa cùng tour thuyền Maid of the Mist.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=43.0842,-79.0686",
+      "yandex": "https://yandex.com/maps/?pt=-79.0686,43.0842&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "waterfall",
+      "state-park",
+      "top",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-new-york-rockefeller-center",
+    "slug": "rockefeller-center",
+    "region": "us-new-york",
+    "country": "usa",
+    "region_name_vi": "New York",
+    "name_vi": "Trung tâm Rockefeller",
+    "name_en": "Rockefeller Center",
+    "name_local": "",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 40.7587,
+      "lon": -73.9787
+    },
+    "address_vi": "Khu Midtown Manhattan, thành phố New York",
+    "presentation_short_vi": "Quần thể tòa nhà Art Deco với đài quan sát Top of the Rock, sân trượt băng mùa đông và cây thông Giáng sinh nổi tiếng thế giới.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=40.7587,-73.9787",
+      "yandex": "https://yandex.com/maps/?pt=-73.9787,40.7587&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "art-deco",
+      "observation",
+      "shopping",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-new-york-st-patricks-cathedral",
+    "slug": "st-patricks-cathedral",
+    "region": "us-new-york",
+    "country": "usa",
+    "region_name_vi": "New York",
+    "name_vi": "Nhà thờ chính tòa Thánh Patrick",
+    "name_en": "St. Patrick's Cathedral",
+    "name_local": "",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 40.7585,
+      "lon": -73.976
+    },
+    "address_vi": "Đại lộ 5, khu Midtown Manhattan, thành phố New York",
+    "presentation_short_vi": "Nhà thờ Công giáo phong cách Tân Gothic hoàn thành năm 1878, với hai tháp nhọn cao và cửa kính màu lộng lẫy, đối diện Trung tâm Rockefeller.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=40.7585,-73.976",
+      "yandex": "https://yandex.com/maps/?pt=-73.976,40.7585&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "gothic",
+      "historic",
+      "landmark",
+      "new-york-city"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-new-york-grand-central-terminal",
+    "slug": "grand-central-terminal",
+    "region": "us-new-york",
+    "country": "usa",
+    "region_name_vi": "New York",
+    "name_vi": "Nhà ga Grand Central",
+    "name_en": "Grand Central Terminal",
+    "name_local": "",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 40.7527,
+      "lon": -73.9772
+    },
+    "address_vi": "Đại lộ Park và Phố 42, khu Midtown Manhattan, thành phố New York",
+    "presentation_short_vi": "Nhà ga xe lửa lịch sử phong cách Beaux-Arts khánh thành năm 1913, nổi tiếng với đại sảnh trần vẽ bầu trời sao và đồng hồ bốn mặt mang tính biểu tượng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=40.7527,-73.9772",
+      "yandex": "https://yandex.com/maps/?pt=-73.9772,40.7527&z=16&l=map"
+    },
+    "tags": [
+      "historic",
+      "architecture",
+      "landmark",
+      "transit",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-new-york-amnh",
+    "slug": "amnh",
+    "region": "us-new-york",
+    "country": "usa",
+    "region_name_vi": "New York",
+    "name_vi": "Bảo tàng Lịch sử Tự nhiên Hoa Kỳ",
+    "name_en": "American Museum of Natural History",
+    "name_local": "",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 40.7813,
+      "lon": -73.974
+    },
+    "address_vi": "Công viên Theodore Roosevelt, Upper West Side, thành phố New York",
+    "presentation_short_vi": "Một trong những bảo tàng lịch sử tự nhiên lớn nhất thế giới, nổi tiếng với bộ xương khủng long, mô hình cá voi xanh và cung thiên văn Hayden.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=40.7813,-73.974",
+      "yandex": "https://yandex.com/maps/?pt=-73.974,40.7813&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "science",
+      "dinosaurs",
+      "family",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "id": "nl-the-hague-binnenhof",
+    "slug": "binnenhof",
+    "region": "nl-the-hague",
+    "country": "netherlands",
+    "region_name_vi": "The Hague (Den Haag)",
+    "name_vi": "Quần thể Binnenhof & Ridderzaal",
+    "name_en": "Binnenhof & Hall of Knights",
+    "name_local": "Binnenhof / Ridderzaal",
+    "categories": [
+      "monument",
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 52.0799,
+      "lon": 4.3113
+    },
+    "address_vi": "Binnenhof, Den Haag",
+    "presentation_short_vi": "Quần thể nghị viện Gothic thế kỷ 13 quanh sân trong bên hồ Hofvijver, trung tâm chính trị của Hà Lan với Ridderzaal (Sảnh Hiệp sĩ) nổi tiếng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.0799,4.3113",
+      "yandex": "https://yandex.com/maps/?pt=4.3113,52.0799&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "historic",
+      "landmark",
+      "parliament"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "nl-the-hague-mauritshuis",
+    "slug": "mauritshuis",
+    "region": "nl-the-hague",
+    "country": "netherlands",
+    "region_name_vi": "The Hague (Den Haag)",
+    "name_vi": "Bảo tàng Mauritshuis",
+    "name_en": "Mauritshuis",
+    "name_local": "Mauritshuis",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 52.0801,
+      "lon": 4.3145
+    },
+    "address_vi": "Plein 29, Den Haag",
+    "presentation_short_vi": "Bảo tàng nghệ thuật trong dinh thự thế kỷ 17, trưng bày kiệt tác Hoàng kim Hà Lan gồm 'Thiếu nữ đeo hoa tai ngọc trai' của Vermeer.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.0801,4.3145",
+      "yandex": "https://yandex.com/maps/?pt=4.3145,52.0801&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "museum",
+      "art",
+      "vermeer"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "nl-the-hague-vredespaleis",
+    "slug": "vredespaleis",
+    "region": "nl-the-hague",
+    "country": "netherlands",
+    "region_name_vi": "The Hague (Den Haag)",
+    "name_vi": "Cung điện Hòa bình",
+    "name_en": "Peace Palace",
+    "name_local": "Vredespaleis",
+    "categories": [
+      "monument",
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 52.0866,
+      "lon": 4.2958
+    },
+    "address_vi": "Carnegieplein 2, Den Haag",
+    "presentation_short_vi": "Công trình tân Gothic khánh thành 1913, trụ sở Tòa án Công lý Quốc tế và Tòa Trọng tài Thường trực, biểu tượng của công pháp quốc tế.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.0866,4.2958",
+      "yandex": "https://yandex.com/maps/?pt=4.2958,52.0866&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "landmark",
+      "historic",
+      "justice"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "nl-the-hague-madurodam",
+    "slug": "madurodam",
+    "region": "nl-the-hague",
+    "country": "netherlands",
+    "region_name_vi": "The Hague (Den Haag)",
+    "name_vi": "Công viên mô hình Madurodam",
+    "name_en": "Madurodam",
+    "name_local": "Madurodam",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 52.0995,
+      "lon": 4.2975
+    },
+    "address_vi": "George Maduroplein 1, Den Haag",
+    "presentation_short_vi": "Công viên thu nhỏ tái hiện các công trình biểu tượng của Hà Lan theo tỷ lệ 1:25, điểm đến gia đình hàng đầu mở cửa từ năm 1952.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.0995,4.2975",
+      "yandex": "https://yandex.com/maps/?pt=4.2975,52.0995&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "family",
+      "miniature",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "nl-the-hague-scheveningen",
+    "slug": "scheveningen",
+    "region": "nl-the-hague",
+    "country": "netherlands",
+    "region_name_vi": "The Hague (Den Haag)",
+    "name_vi": "Bãi biển & Cầu tàu Scheveningen",
+    "name_en": "Scheveningen Beach & Pier",
+    "name_local": "Scheveningen",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 52.1094,
+      "lon": 4.274
+    },
+    "address_vi": "Scheveningen, Den Haag",
+    "presentation_short_vi": "Bãi biển nổi tiếng nhất Hà Lan với cầu tàu vươn ra biển, đu quay, bánh xe quan sát và khu nghỉ dưỡng sôi động ven Biển Bắc.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.1094,4.274",
+      "yandex": "https://yandex.com/maps/?pt=4.274,52.1094&z=16&l=map"
+    },
+    "tags": [
+      "beach",
+      "scenic",
+      "seaside",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "nl-the-hague-escher-in-het-paleis",
+    "slug": "escher-in-het-paleis",
+    "region": "nl-the-hague",
+    "country": "netherlands",
+    "region_name_vi": "The Hague (Den Haag)",
+    "name_vi": "Bảo tàng Escher (Escher in Het Paleis)",
+    "name_en": "Escher in The Palace",
+    "name_local": "Escher in Het Paleis",
+    "categories": [
+      "museum",
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 52.0842,
+      "lon": 4.3097
+    },
+    "address_vi": "Lange Voorhout 74, Den Haag",
+    "presentation_short_vi": "Bảo tàng trong cung điện mùa đông cũ của hoàng gia, trưng bày các tác phẩm đồ họa ảo giác tài tình của danh họa M.C. Escher.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.0842,4.3097",
+      "yandex": "https://yandex.com/maps/?pt=4.3097,52.0842&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "art",
+      "escher"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "nl-the-hague-kunstmuseum-den-haag",
+    "slug": "kunstmuseum-den-haag",
+    "region": "nl-the-hague",
+    "country": "netherlands",
+    "region_name_vi": "The Hague (Den Haag)",
+    "name_vi": "Bảo tàng Nghệ thuật Den Haag",
+    "name_en": "Kunstmuseum Den Haag",
+    "name_local": "Kunstmuseum Den Haag",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 52.0919,
+      "lon": 4.2778
+    },
+    "address_vi": "Stadhouderslaan 41, Den Haag",
+    "presentation_short_vi": "Bảo tàng nghệ thuật hiện đại do Berlage thiết kế, sở hữu bộ sưu tập Piet Mondrian lớn nhất thế giới gồm cả kiệt tác 'Victory Boogie Woogie'.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.0919,4.2778",
+      "yandex": "https://yandex.com/maps/?pt=4.2778,52.0919&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "art",
+      "mondrian",
+      "modern"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "nl-the-hague-grote-kerk",
+    "slug": "grote-kerk",
+    "region": "nl-the-hague",
+    "country": "netherlands",
+    "region_name_vi": "The Hague (Den Haag)",
+    "name_vi": "Nhà thờ Lớn (Grote of Sint-Jacobskerk)",
+    "name_en": "Great Church (St James)",
+    "name_local": "Grote of Sint-Jacobskerk",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 52.0776,
+      "lon": 4.3078
+    },
+    "address_vi": "Rond de Grote Kerk 12, Den Haag",
+    "presentation_short_vi": "Nhà thờ Gothic thế kỷ 15 với tháp lục giác cao 92 m đặc trưng, một trong những công trình cổ nhất còn lại của thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.0776,4.3078",
+      "yandex": "https://yandex.com/maps/?pt=4.3078,52.0776&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "historic",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "nl-the-hague-paleis-noordeinde",
+    "slug": "paleis-noordeinde",
+    "region": "nl-the-hague",
+    "country": "netherlands",
+    "region_name_vi": "The Hague (Den Haag)",
+    "name_vi": "Cung điện Noordeinde",
+    "name_en": "Noordeinde Palace",
+    "name_local": "Paleis Noordeinde",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 52.0819,
+      "lon": 4.3061
+    },
+    "address_vi": "Noordeinde 68, Den Haag",
+    "presentation_short_vi": "Cung điện làm việc chính thức của Nhà vua Hà Lan, dinh thự thế kỷ 17 phong cách cổ điển với khu vườn hoàng gia mở cửa cho công chúng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.0819,4.3061",
+      "yandex": "https://yandex.com/maps/?pt=4.3061,52.0819&z=16&l=map"
+    },
+    "tags": [
+      "palace",
+      "royal",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "nl-the-hague-panorama-mesdag",
+    "slug": "panorama-mesdag",
+    "region": "nl-the-hague",
+    "country": "netherlands",
+    "region_name_vi": "The Hague (Den Haag)",
+    "name_vi": "Toàn cảnh họa Panorama Mesdag",
+    "name_en": "Panorama Mesdag",
+    "name_local": "Panorama Mesdag",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 52.0847,
+      "lon": 4.305
+    },
+    "address_vi": "Zeestraat 65, Den Haag",
+    "presentation_short_vi": "Bức tranh toàn cảnh 360 độ cao 14 m, chu vi 120 m do Hendrik Mesdag vẽ năm 1881, tái hiện làng chài Scheveningen xưa - tranh panorama cổ nhất còn nguyên vị trí.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.0847,4.305",
+      "yandex": "https://yandex.com/maps/?pt=4.305,52.0847&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "art",
+      "panorama",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "nl-the-hague-japanse-tuin-clingendael",
+    "slug": "japanse-tuin-clingendael",
+    "region": "nl-the-hague",
+    "country": "netherlands",
+    "region_name_vi": "The Hague (Den Haag)",
+    "name_vi": "Vườn Nhật Bản Clingendael",
+    "name_en": "Japanese Garden (Clingendael Park)",
+    "name_local": "Japanse Tuin Clingendael",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 52.1053,
+      "lon": 4.3428
+    },
+    "address_vi": "Park Clingendael, Den Haag",
+    "presentation_short_vi": "Khu vườn Nhật Bản quý hiếm lập năm 1910 trong công viên Clingendael, chỉ mở cửa vài tuần mỗi năm để bảo tồn thảm rêu và cây cối tinh tế.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.1053,4.3428",
+      "yandex": "https://yandex.com/maps/?pt=4.3428,52.1053&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "garden",
+      "scenic",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "nl-the-hague-stadhuis-den-haag",
+    "slug": "stadhuis-den-haag",
+    "region": "nl-the-hague",
+    "country": "netherlands",
+    "region_name_vi": "The Hague (Den Haag)",
+    "name_vi": "Tòa Thị chính Den Haag (Richard Meier)",
+    "name_en": "The Hague City Hall",
+    "name_local": "Stadhuis Den Haag / Het IJspaleis",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 52.0806,
+      "lon": 4.3243
+    },
+    "address_vi": "Spui 70, Den Haag",
+    "presentation_short_vi": "Tòa thị chính hiện đại màu trắng do Richard Meier thiết kế (1995) với đại sảnh có mái kính khổng lồ, được mệnh danh 'Cung điện Băng'.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.0806,4.3243",
+      "yandex": "https://yandex.com/maps/?pt=4.3243,52.0806&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "architecture",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

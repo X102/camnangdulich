@@ -1,0 +1,437 @@
+[
+  {
+    "id": "no-bergen-bryggen",
+    "slug": "bryggen",
+    "region": "no-bergen",
+    "country": "norway",
+    "region_name_vi": "Bergen",
+    "name_vi": "Khu phố cổ Bryggen",
+    "name_en": "Bryggen (Hanseatic Wharf)",
+    "name_local": "Bryggen",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 60.3975,
+      "lon": 5.3242
+    },
+    "address_vi": "Bryggen, trung tâm Bergen",
+    "presentation_short_vi": "Dãy nhà gỗ thương điếm Hanse thời trung cổ bên bến cảng, Di sản UNESCO — biểu tượng nổi tiếng nhất của Bergen.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=60.3975,5.3242",
+      "yandex": "https://yandex.com/maps/?pt=5.3242,60.3975&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "unesco",
+      "old-town",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "no-bergen-floyen",
+    "slug": "floyen",
+    "region": "no-bergen",
+    "country": "norway",
+    "region_name_vi": "Bergen",
+    "name_vi": "Núi Fløyen & tàu Fløibanen",
+    "name_en": "Mount Fløyen & Fløibanen Funicular",
+    "name_local": "Fløyen / Fløibanen",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 60.3966,
+      "lon": 5.3503
+    },
+    "address_vi": "Fløyfjellet, Bergen",
+    "presentation_short_vi": "Đỉnh núi cao 320 m với tầm nhìn toàn cảnh thành phố và vịnh hẹp, lên bằng tàu leo núi Fløibanen chỉ vài phút từ trung tâm.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=60.3966,5.3503",
+      "yandex": "https://yandex.com/maps/?pt=5.3503,60.3966&z=16&l=map"
+    },
+    "tags": [
+      "viewpoint",
+      "mountain",
+      "funicular"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "no-bergen-ulriken",
+    "slug": "ulriken",
+    "region": "no-bergen",
+    "country": "norway",
+    "region_name_vi": "Bergen",
+    "name_vi": "Núi Ulriken",
+    "name_en": "Mount Ulriken",
+    "name_local": "Ulriken",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 60.3762,
+      "lon": 5.3899
+    },
+    "address_vi": "Ulriken, Bergen",
+    "presentation_short_vi": "Đỉnh cao nhất trong bảy ngọn núi của Bergen (643 m), lên bằng cáp treo Ulriken643, điểm ngắm cảnh và đi bộ đường dài tuyệt đẹp.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=60.3762,5.3899",
+      "yandex": "https://yandex.com/maps/?pt=5.3899,60.3762&z=16&l=map"
+    },
+    "tags": [
+      "mountain",
+      "cable-car",
+      "viewpoint",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "no-bergen-bergenhus",
+    "slug": "bergenhus",
+    "region": "no-bergen",
+    "country": "norway",
+    "region_name_vi": "Bergen",
+    "name_vi": "Pháo đài Bergenhus",
+    "name_en": "Bergenhus Fortress",
+    "name_local": "Bergenhus festning",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 60.3997,
+      "lon": 5.3178
+    },
+    "address_vi": "Bergenhus, Bergen",
+    "presentation_short_vi": "Một trong những pháo đài cổ và được bảo tồn tốt nhất Na Uy, canh giữ cửa cảng từ thế kỷ 13.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=60.3997,5.3178",
+      "yandex": "https://yandex.com/maps/?pt=5.3178,60.3997&z=16&l=map"
+    },
+    "tags": [
+      "fortress",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "no-bergen-hakonshallen",
+    "slug": "hakonshallen",
+    "region": "no-bergen",
+    "country": "norway",
+    "region_name_vi": "Bergen",
+    "name_vi": "Đại sảnh Håkon (Håkonshallen)",
+    "name_en": "Håkon's Hall",
+    "name_local": "Håkonshallen",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 60.399,
+      "lon": 5.3186
+    },
+    "address_vi": "Bergenhus, Bergen",
+    "presentation_short_vi": "Đại sảnh nghi lễ hoàng gia bằng đá xây giữa thế kỷ 13 dưới thời vua Håkon Håkonsson, công trình trung cổ hoành tráng nhất còn lại.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=60.399,5.3186",
+      "yandex": "https://yandex.com/maps/?pt=5.3186,60.399&z=16&l=map"
+    },
+    "tags": [
+      "medieval",
+      "royal",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "no-bergen-bergen-domkirke",
+    "slug": "bergen-domkirke",
+    "region": "no-bergen",
+    "country": "norway",
+    "region_name_vi": "Bergen",
+    "name_vi": "Nhà thờ chính tòa Bergen",
+    "name_en": "Bergen Cathedral",
+    "name_local": "Bergen domkirke",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 60.3939,
+      "lon": 5.3299
+    },
+    "address_vi": "Domkirkeplassen, Bergen",
+    "presentation_short_vi": "Nhà thờ chính tòa có nguồn gốc từ thế kỷ 12, mang dấu ấn nhiều thời kỳ; tường ngoài còn gắn viên đạn đại bác từ trận hải chiến 1665.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=60.3939,5.3299",
+      "yandex": "https://yandex.com/maps/?pt=5.3299,60.3939&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "no-bergen-mariakirken",
+    "slug": "mariakirken",
+    "region": "no-bergen",
+    "country": "norway",
+    "region_name_vi": "Bergen",
+    "name_vi": "Nhà thờ Đức Mẹ (Mariakirken)",
+    "name_en": "St. Mary's Church",
+    "name_local": "Mariakirken",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 60.3987,
+      "lon": 5.3232
+    },
+    "address_vi": "Dreggen, Bergen",
+    "presentation_short_vi": "Nhà thờ đá kiểu Roman thế kỷ 12, công trình lâu đời nhất còn nguyên vẹn của Bergen, gắn với cộng đồng thương nhân Hanse.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=60.3987,5.3232",
+      "yandex": "https://yandex.com/maps/?pt=5.3232,60.3987&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "romanesque",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "no-bergen-fisketorget",
+    "slug": "fisketorget",
+    "region": "no-bergen",
+    "country": "norway",
+    "region_name_vi": "Bergen",
+    "name_vi": "Chợ cá Bergen (Fisketorget)",
+    "name_en": "Bergen Fish Market",
+    "name_local": "Fisketorget",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 60.3955,
+      "lon": 5.3256
+    },
+    "address_vi": "Torget, Bergen",
+    "presentation_short_vi": "Chợ cá ngoài trời sôi động bên bến cảng có lịch sử từ thập niên 1200, nơi thưởng thức hải sản tươi và đặc sản địa phương.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=60.3955,5.3256",
+      "yandex": "https://yandex.com/maps/?pt=5.3256,60.3955&z=16&l=map"
+    },
+    "tags": [
+      "market",
+      "seafood",
+      "waterfront"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "no-bergen-kode",
+    "slug": "kode",
+    "region": "no-bergen",
+    "country": "norway",
+    "region_name_vi": "Bergen",
+    "name_vi": "Bảo tàng nghệ thuật KODE",
+    "name_en": "KODE Art Museums",
+    "name_local": "KODE",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 60.3924,
+      "lon": 5.3266
+    },
+    "address_vi": "Rasmus Meyers allé, Bergen",
+    "presentation_short_vi": "Tổ hợp bảo tàng nghệ thuật và thiết kế lớn bậc nhất Bắc Âu bên hồ Lille Lungegårdsvann, gồm nhiều tòa nhà và bộ sưu tập Edvard Munch.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=60.3924,5.3266",
+      "yandex": "https://yandex.com/maps/?pt=5.3266,60.3924&z=16&l=map"
+    },
+    "tags": [
+      "art",
+      "museum",
+      "culture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "no-bergen-troldhaugen",
+    "slug": "troldhaugen",
+    "region": "no-bergen",
+    "country": "norway",
+    "region_name_vi": "Bergen",
+    "name_vi": "Troldhaugen — nhà của Edvard Grieg",
+    "name_en": "Troldhaugen (Edvard Grieg Museum)",
+    "name_local": "Troldhaugen",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 60.3388,
+      "lon": 5.3675
+    },
+    "address_vi": "Troldhaugvegen 65, Bergen",
+    "presentation_short_vi": "Ngôi nhà biệt thự bên hồ của nhà soạn nhạc Edvard Grieg, nay là bảo tàng kèm phòng hòa nhạc, giữ nguyên căn lều sáng tác ven nước.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=60.3388,5.3675",
+      "yandex": "https://yandex.com/maps/?pt=5.3675,60.3388&z=16&l=map"
+    },
+    "tags": [
+      "music",
+      "museum",
+      "grieg"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "no-bergen-fantoft",
+    "slug": "fantoft",
+    "region": "no-bergen",
+    "country": "norway",
+    "region_name_vi": "Bergen",
+    "name_vi": "Nhà thờ gỗ Fantoft",
+    "name_en": "Fantoft Stave Church",
+    "name_local": "Fantoft stavkirke",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 60.3404,
+      "lon": 5.3474
+    },
+    "address_vi": "Fantoftvegen 38, Bergen",
+    "presentation_short_vi": "Nhà thờ gỗ 'stave' kiểu Viking dựng lại theo nguyên bản thế kỷ 12, nằm giữa rừng thông — kiến trúc gỗ đặc trưng của Na Uy.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=60.3404,5.3474",
+      "yandex": "https://yandex.com/maps/?pt=5.3474,60.3404&z=16&l=map"
+    },
+    "tags": [
+      "stave-church",
+      "wooden",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "no-bergen-gamle-bergen",
+    "slug": "gamle-bergen",
+    "region": "no-bergen",
+    "country": "norway",
+    "region_name_vi": "Bergen",
+    "name_vi": "Bảo tàng Gamle Bergen (Bergen Cổ)",
+    "name_en": "Gamle Bergen Museum (Old Bergen)",
+    "name_local": "Gamle Bergen Museum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 60.4161,
+      "lon": 5.3019
+    },
+    "address_vi": "Nyhavnsveien 4, Sandviken, Bergen",
+    "presentation_short_vi": "Bảo tàng ngoài trời tái hiện phố phường Bergen thế kỷ 18–19 với khoảng 50 ngôi nhà gỗ trắng nguyên bản.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=60.4161,5.3019",
+      "yandex": "https://yandex.com/maps/?pt=5.3019,60.4161&z=16&l=map"
+    },
+    "tags": [
+      "open-air",
+      "museum",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "no-bergen-grieghallen",
+    "slug": "grieghallen",
+    "region": "no-bergen",
+    "country": "norway",
+    "region_name_vi": "Bergen",
+    "name_vi": "Nhà hòa nhạc Grieghallen",
+    "name_en": "Grieg Hall (Grieghallen)",
+    "name_local": "Grieghallen",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 60.3894,
+      "lon": 5.3251
+    },
+    "address_vi": "Edvard Griegs plass 1, Bergen",
+    "presentation_short_vi": "Nhà hòa nhạc hiện đại khánh thành năm 1978, trụ sở Dàn nhạc Giao hưởng Bergen và trung tâm sự kiện văn hóa lớn nhất thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=60.3894,5.3251",
+      "yandex": "https://yandex.com/maps/?pt=5.3251,60.3894&z=16&l=map"
+    },
+    "tags": [
+      "concert-hall",
+      "modern",
+      "music"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "no-bergen-akvariet",
+    "slug": "akvariet",
+    "region": "no-bergen",
+    "country": "norway",
+    "region_name_vi": "Bergen",
+    "name_vi": "Thủy cung Bergen (Akvariet)",
+    "name_en": "Bergen Aquarium",
+    "name_local": "Akvariet i Bergen",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 60.4028,
+      "lon": 5.304
+    },
+    "address_vi": "Nordnesbakken 4, Bergen",
+    "presentation_short_vi": "Một trong những thủy cung lớn nhất Bắc Âu tại mũi Nordnes, với hải cẩu, chim cánh cụt và các bể sinh vật biển — điểm đến gia đình nổi tiếng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=60.4028,5.304",
+      "yandex": "https://yandex.com/maps/?pt=5.304,60.4028&z=16&l=map"
+    },
+    "tags": [
+      "aquarium",
+      "family",
+      "modern"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  }
+]

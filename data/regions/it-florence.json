@@ -1,0 +1,407 @@
+[
+  {
+    "id": "it-florence-nha-tho-chinh-toa-firenze",
+    "slug": "nha-tho-chinh-toa-firenze",
+    "region": "it-florence",
+    "country": "italy",
+    "region_name_vi": "Firenze",
+    "name_vi": "Nhà thờ chính toà Firenze",
+    "name_en": "Florence Cathedral",
+    "name_local": "Cattedrale di Santa Maria del Fiore",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 43.7731,
+      "lon": 11.256
+    },
+    "address_vi": "Piazza del Duomo, 50122 Firenze, Ý",
+    "presentation_short_vi": "Nhà thờ chính toà của Firenze với mái vòm gạch khổng lồ do Brunelleschi thiết kế, biểu tượng của kiến trúc Phục Hưng và là mái vòm gạch lớn nhất thế giới.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=43.7731,11.256",
+      "yandex": "https://yandex.com/maps/?pt=11.256,43.7731&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "landmark",
+      "iconic",
+      "church"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-florence-nha-rua-toi-thanh-gioan",
+    "slug": "nha-rua-toi-thanh-gioan",
+    "region": "it-florence",
+    "country": "italy",
+    "region_name_vi": "Firenze",
+    "name_vi": "Nhà rửa tội Thánh Gioan",
+    "name_en": "Florence Baptistery",
+    "name_local": "Battistero di San Giovanni",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 43.7729,
+      "lon": 11.2551
+    },
+    "address_vi": "Piazza San Giovanni, 50122 Firenze, Ý",
+    "presentation_short_vi": "Nhà rửa tội bát giác nổi tiếng với bộ cửa đồng mạ vàng 'Cổng Thiên Đường' của Ghiberti, một trong những công trình cổ nhất Firenze.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=43.7729,11.2551",
+      "yandex": "https://yandex.com/maps/?pt=11.2551,43.7729&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "historic",
+      "church"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-florence-thap-chuong-giotto",
+    "slug": "thap-chuong-giotto",
+    "region": "it-florence",
+    "country": "italy",
+    "region_name_vi": "Firenze",
+    "name_vi": "Tháp chuông Giotto",
+    "name_en": "Giotto's Campanile",
+    "name_local": "Campanile di Giotto",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 43.7726,
+      "lon": 11.2555
+    },
+    "address_vi": "Piazza del Duomo, 50122 Firenze, Ý",
+    "presentation_short_vi": "Tháp chuông cao 84,7 m ốp đá cẩm thạch nhiều màu bên cạnh nhà thờ chính toà, du khách có thể leo lên đỉnh ngắm toàn cảnh thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=43.7726,11.2555",
+      "yandex": "https://yandex.com/maps/?pt=11.2555,43.7726&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "viewpoint",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-florence-phong-trung-bay-uffizi",
+    "slug": "phong-trung-bay-uffizi",
+    "region": "it-florence",
+    "country": "italy",
+    "region_name_vi": "Firenze",
+    "name_vi": "Phòng trưng bày Uffizi",
+    "name_en": "Uffizi Gallery",
+    "name_local": "Galleria degli Uffizi",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 43.7681,
+      "lon": 11.2553
+    },
+    "address_vi": "Piazzale degli Uffizi 6, 50122 Firenze, Ý",
+    "presentation_short_vi": "Một trong những bảo tàng nghệ thuật nổi tiếng nhất thế giới, lưu giữ kiệt tác của Botticelli, Leonardo da Vinci, Michelangelo và Raphael.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=43.7681,11.2553",
+      "yandex": "https://yandex.com/maps/?pt=11.2553,43.7681&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "museum",
+      "art"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-florence-cau-vecchio",
+    "slug": "cau-vecchio",
+    "region": "it-florence",
+    "country": "italy",
+    "region_name_vi": "Firenze",
+    "name_vi": "Cầu Vecchio",
+    "name_en": "Ponte Vecchio",
+    "name_local": "Ponte Vecchio",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 43.7678,
+      "lon": 11.2531
+    },
+    "address_vi": "Ponte Vecchio, 50125 Firenze, Ý",
+    "presentation_short_vi": "Cây cầu đá cổ bắc qua sông Arno với những cửa hàng kim hoàn san sát hai bên, biểu tượng lãng mạn và lâu đời nhất của Firenze.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=43.7678,11.2531",
+      "yandex": "https://yandex.com/maps/?pt=11.2531,43.7678&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "landmark",
+      "iconic",
+      "bridge"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-florence-cung-dien-vecchio",
+    "slug": "cung-dien-vecchio",
+    "region": "it-florence",
+    "country": "italy",
+    "region_name_vi": "Firenze",
+    "name_vi": "Cung điện Vecchio",
+    "name_en": "Palazzo Vecchio",
+    "name_local": "Palazzo Vecchio",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 43.7695,
+      "lon": 11.2561
+    },
+    "address_vi": "Piazza della Signoria, 50122 Firenze, Ý",
+    "presentation_short_vi": "Toà thị chính lịch sử của Firenze với tháp đồng hồ cao vút, từng là trung tâm quyền lực của dòng họ Medici và nay là bảo tàng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=43.7695,11.2561",
+      "yandex": "https://yandex.com/maps/?pt=11.2561,43.7695&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "palace",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-florence-quang-truong-signoria",
+    "slug": "quang-truong-signoria",
+    "region": "it-florence",
+    "country": "italy",
+    "region_name_vi": "Firenze",
+    "name_vi": "Quảng trường Signoria",
+    "name_en": "Piazza della Signoria",
+    "name_local": "Piazza della Signoria",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 43.7697,
+      "lon": 11.2558
+    },
+    "address_vi": "Piazza della Signoria, 50122 Firenze, Ý",
+    "presentation_short_vi": "Quảng trường trung tâm lịch sử của Firenze, một bảo tàng điêu khắc ngoài trời với bản sao tượng David và mái hiên Loggia dei Lanzi.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=43.7697,11.2558",
+      "yandex": "https://yandex.com/maps/?pt=11.2558,43.7697&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "square",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-florence-phong-trung-bay-accademia",
+    "slug": "phong-trung-bay-accademia",
+    "region": "it-florence",
+    "country": "italy",
+    "region_name_vi": "Firenze",
+    "name_vi": "Phòng trưng bày Accademia",
+    "name_en": "Galleria dell'Accademia",
+    "name_local": "Galleria dell'Accademia",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 43.7767,
+      "lon": 11.2594
+    },
+    "address_vi": "Via Ricasoli 58/60, 50129 Firenze, Ý",
+    "presentation_short_vi": "Bảo tàng lưu giữ nguyên bản tượng David của Michelangelo, một trong những tác phẩm điêu khắc nổi tiếng nhất mọi thời đại.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=43.7767,11.2594",
+      "yandex": "https://yandex.com/maps/?pt=11.2594,43.7767&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "museum",
+      "art"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-florence-vuong-cung-thanh-duong-santa-croce",
+    "slug": "vuong-cung-thanh-duong-santa-croce",
+    "region": "it-florence",
+    "country": "italy",
+    "region_name_vi": "Firenze",
+    "name_vi": "Vương cung thánh đường Santa Croce",
+    "name_en": "Basilica of Santa Croce",
+    "name_local": "Basilica di Santa Croce",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 43.7686,
+      "lon": 11.2621
+    },
+    "address_vi": "Piazza di Santa Croce 16, 50122 Firenze, Ý",
+    "presentation_short_vi": "Nhà thờ dòng Phanxicô lớn nhất thế giới, nơi an nghỉ của Michelangelo, Galileo và Machiavelli.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=43.7686,11.2621",
+      "yandex": "https://yandex.com/maps/?pt=11.2621,43.7686&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "church",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-florence-cung-dien-pitti",
+    "slug": "cung-dien-pitti",
+    "region": "it-florence",
+    "country": "italy",
+    "region_name_vi": "Firenze",
+    "name_vi": "Cung điện Pitti",
+    "name_en": "Pitti Palace",
+    "name_local": "Palazzo Pitti",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 43.765,
+      "lon": 11.25
+    },
+    "address_vi": "Piazza de' Pitti 1, 50125 Firenze, Ý",
+    "presentation_short_vi": "Cung điện Phục Hưng đồ sộ bên bờ nam sông Arno, từng là dinh thự của nhà Medici, nay chứa nhiều bảo tàng và phòng tranh quý.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=43.765,11.25",
+      "yandex": "https://yandex.com/maps/?pt=11.25,43.765&z=16&l=map"
+    },
+    "tags": [
+      "palace",
+      "museum",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-florence-vuon-boboli",
+    "slug": "vuon-boboli",
+    "region": "it-florence",
+    "country": "italy",
+    "region_name_vi": "Firenze",
+    "name_vi": "Vườn Boboli",
+    "name_en": "Boboli Gardens",
+    "name_local": "Giardino di Boboli",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 43.7626,
+      "lon": 11.248
+    },
+    "address_vi": "Piazza de' Pitti 1, 50125 Firenze, Ý",
+    "presentation_short_vi": "Khu vườn kiểu Ý rộng lớn phía sau cung điện Pitti với tượng, đài phun nước và lối đi rợp bóng cây, hình mẫu cho nhiều vườn hoàng gia châu Âu.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=43.7626,11.248",
+      "yandex": "https://yandex.com/maps/?pt=11.248,43.7626&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "scenic",
+      "garden"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-florence-quang-truong-michelangelo",
+    "slug": "quang-truong-michelangelo",
+    "region": "it-florence",
+    "country": "italy",
+    "region_name_vi": "Firenze",
+    "name_vi": "Quảng trường Michelangelo",
+    "name_en": "Piazzale Michelangelo",
+    "name_local": "Piazzale Michelangelo",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 43.7629,
+      "lon": 11.2652
+    },
+    "address_vi": "Piazzale Michelangelo, 50125 Firenze, Ý",
+    "presentation_short_vi": "Quảng trường trên đồi phía nam thành phố, điểm ngắm toàn cảnh Firenze đẹp nhất với tầm nhìn bao trọn mái vòm Duomo và sông Arno.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=43.7629,11.2652",
+      "yandex": "https://yandex.com/maps/?pt=11.2652,43.7629&z=16&l=map"
+    },
+    "tags": [
+      "viewpoint",
+      "scenic",
+      "square"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "it-florence-cho-trung-tam-firenze",
+    "slug": "cho-trung-tam-firenze",
+    "region": "it-florence",
+    "country": "italy",
+    "region_name_vi": "Firenze",
+    "name_vi": "Chợ Trung tâm Firenze",
+    "name_en": "Mercato Centrale",
+    "name_local": "Mercato Centrale",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 43.7766,
+      "lon": 11.2537
+    },
+    "address_vi": "Piazza del Mercato Centrale, 50123 Firenze, Ý",
+    "presentation_short_vi": "Khu chợ trong toà nhà khung sắt kính thế kỷ 19, nay là khu ẩm thực sầm uất với đặc sản Toscana và các quầy ăn hiện đại.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=43.7766,11.2537",
+      "yandex": "https://yandex.com/maps/?pt=11.2537,43.7766&z=16&l=map"
+    },
+    "tags": [
+      "food",
+      "shopping",
+      "modern"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

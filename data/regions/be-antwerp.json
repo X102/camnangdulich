@@ -1,0 +1,381 @@
+[
+  {
+    "id": "be-antwerp-nha-tho-duc-ba",
+    "slug": "nha-tho-duc-ba",
+    "region": "be-antwerp",
+    "country": "belgium",
+    "region_name_vi": "Antwerp",
+    "name_vi": "Nhà thờ Đức Bà Antwerp",
+    "name_en": "Cathedral of Our Lady",
+    "name_local": "Onze-Lieve-Vrouwekathedraal",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 51.2205,
+      "lon": 4.4003
+    },
+    "address_vi": "Handschoenmarkt, 2000 Antwerpen",
+    "presentation_short_vi": "Thánh đường Gothic cao 123 m, nhà thờ lớn nhất vùng Benelux, lưu giữ bốn kiệt tác của danh hoạ Rubens.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.2205,4.4003",
+      "yandex": "https://yandex.com/maps/?pt=4.4003,51.2205&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "church",
+      "gothic",
+      "unesco"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "be-antwerp-ga-trung-tam",
+    "slug": "ga-trung-tam",
+    "region": "be-antwerp",
+    "country": "belgium",
+    "region_name_vi": "Antwerp",
+    "name_vi": "Ga Trung tâm Antwerp",
+    "name_en": "Antwerp Central Station",
+    "name_local": "Antwerpen-Centraal",
+    "categories": [
+      "other",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 51.2172,
+      "lon": 4.421
+    },
+    "address_vi": "Koningin Astridplein 27, 2018 Antwerpen",
+    "presentation_short_vi": "Nhà ga đầu thế kỷ 20 tráng lệ với mái vòm kính và sảnh đá cẩm thạch, được mệnh danh 'thánh đường đường sắt'.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.2172,4.421",
+      "yandex": "https://yandex.com/maps/?pt=4.421,51.2172&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "historic",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "be-antwerp-grote-markt",
+    "slug": "grote-markt",
+    "region": "be-antwerp",
+    "country": "belgium",
+    "region_name_vi": "Antwerp",
+    "name_vi": "Quảng trường Grote Markt",
+    "name_en": "Grote Markt & City Hall",
+    "name_local": "Grote Markt",
+    "categories": [
+      "square_street",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 51.2213,
+      "lon": 4.3997
+    },
+    "address_vi": "Grote Markt, 2000 Antwerpen",
+    "presentation_short_vi": "Quảng trường trung tâm với Toà thị chính thời Phục Hưng và đài phun nước Brabo, bao quanh là các nhà phường hội kiểu Flemish.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.2213,4.3997",
+      "yandex": "https://yandex.com/maps/?pt=4.3997,51.2213&z=16&l=map"
+    },
+    "tags": [
+      "square",
+      "historic",
+      "oldtown"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "be-antwerp-mas-museum",
+    "slug": "mas-museum",
+    "region": "be-antwerp",
+    "country": "belgium",
+    "region_name_vi": "Antwerp",
+    "name_vi": "Bảo tàng MAS",
+    "name_en": "Museum aan de Stroom (MAS)",
+    "name_local": "Museum aan de Stroom",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 51.229,
+      "lon": 4.4053
+    },
+    "address_vi": "Hanzestedenplaats 1, 2000 Antwerpen",
+    "presentation_short_vi": "Bảo tàng hiện đại cao 60 m bằng đá sa thạch đỏ và kính uốn lượn, có sân thượng ngắm toàn cảnh thành phố miễn phí.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.229,4.4053",
+      "yandex": "https://yandex.com/maps/?pt=4.4053,51.229&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "modern",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "be-antwerp-nha-rubens",
+    "slug": "nha-rubens",
+    "region": "be-antwerp",
+    "country": "belgium",
+    "region_name_vi": "Antwerp",
+    "name_vi": "Nhà Rubens",
+    "name_en": "Rubens House",
+    "name_local": "Rubenshuis",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 51.2197,
+      "lon": 4.413
+    },
+    "address_vi": "Wapper 9-11, 2000 Antwerpen",
+    "presentation_short_vi": "Nhà ở và xưởng vẽ của danh hoạ Peter Paul Rubens, nay là bảo tàng trưng bày tác phẩm và nội thất Baroque.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.2197,4.413",
+      "yandex": "https://yandex.com/maps/?pt=4.413,51.2197&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "art",
+      "baroque",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "be-antwerp-het-steen",
+    "slug": "het-steen",
+    "region": "be-antwerp",
+    "country": "belgium",
+    "region_name_vi": "Antwerp",
+    "name_vi": "Pháo đài Het Steen",
+    "name_en": "Het Steen",
+    "name_local": "Het Steen",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 51.2233,
+      "lon": 4.3966
+    },
+    "address_vi": "Steenplein 1, 2000 Antwerpen",
+    "presentation_short_vi": "Pháo đài ven sông Scheldt có từ thế kỷ 13, công trình còn sót lại lâu đời nhất Antwerp.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.2233,4.3966",
+      "yandex": "https://yandex.com/maps/?pt=4.3966,51.2233&z=16&l=map"
+    },
+    "tags": [
+      "historic",
+      "fortress",
+      "castle"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "be-antwerp-plantin-moretus",
+    "slug": "plantin-moretus",
+    "region": "be-antwerp",
+    "country": "belgium",
+    "region_name_vi": "Antwerp",
+    "name_vi": "Bảo tàng Plantin-Moretus",
+    "name_en": "Plantin-Moretus Museum",
+    "name_local": "Museum Plantin-Moretus",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 51.2188,
+      "lon": 4.3987
+    },
+    "address_vi": "Vrijdagmarkt 22, 2000 Antwerpen",
+    "presentation_short_vi": "Xưởng in cổ được UNESCO công nhận, lưu giữ hai máy in lâu đời nhất thế giới và bộ sưu tập sách quý.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.2188,4.3987",
+      "yandex": "https://yandex.com/maps/?pt=4.3987,51.2188&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "unesco",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "be-antwerp-nha-tho-thanh-paul",
+    "slug": "nha-tho-thanh-paul",
+    "region": "be-antwerp",
+    "country": "belgium",
+    "region_name_vi": "Antwerp",
+    "name_vi": "Nhà thờ Thánh Paul",
+    "name_en": "St. Paul's Church",
+    "name_local": "Sint-Pauluskerk",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 51.2246,
+      "lon": 4.401
+    },
+    "address_vi": "Veemarkt 13, 2000 Antwerpen",
+    "presentation_short_vi": "Nhà thờ Gothic muộn - Baroque thế kỷ 16-17, nổi bật với nội thất chạm khắc gỗ và tranh của Rubens, Van Dyck.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.2246,4.401",
+      "yandex": "https://yandex.com/maps/?pt=4.401,51.2246&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "baroque",
+      "art"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "be-antwerp-boerentoren",
+    "slug": "boerentoren",
+    "region": "be-antwerp",
+    "country": "belgium",
+    "region_name_vi": "Antwerp",
+    "name_vi": "Tháp Boerentoren",
+    "name_en": "Boerentoren (KBC Tower)",
+    "name_local": "Boerentoren",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 51.219,
+      "lon": 4.4056
+    },
+    "address_vi": "Schoenmarkt 35, 2000 Antwerpen",
+    "presentation_short_vi": "Toà tháp Art Deco cao 96 m hoàn thành năm 1932, một trong những nhà chọc trời đầu tiên của châu Âu.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.219,4.4056",
+      "yandex": "https://yandex.com/maps/?pt=4.4056,51.219&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "artdeco",
+      "skyscraper"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "be-antwerp-stadspark",
+    "slug": "stadspark",
+    "region": "be-antwerp",
+    "country": "belgium",
+    "region_name_vi": "Antwerp",
+    "name_vi": "Công viên Thành phố Stadspark",
+    "name_en": "Antwerp City Park",
+    "name_local": "Stadspark",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 51.213,
+      "lon": 4.4137
+    },
+    "address_vi": "Rubenslei, 2018 Antwerpen",
+    "presentation_short_vi": "Công viên cảnh quan kiểu Anh giữa lòng thành phố với hồ nước và cầu treo, không gian xanh thư giãn.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.213,4.4137",
+      "yandex": "https://yandex.com/maps/?pt=4.4137,51.213&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "nature",
+      "walk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "be-antwerp-middelheim",
+    "slug": "middelheim",
+    "region": "be-antwerp",
+    "country": "belgium",
+    "region_name_vi": "Antwerp",
+    "name_vi": "Bảo tàng điêu khắc Middelheim",
+    "name_en": "Middelheim Open Air Sculpture Museum",
+    "name_local": "Middelheimmuseum",
+    "categories": [
+      "park_garden",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 51.1861,
+      "lon": 4.4079
+    },
+    "address_vi": "Middelheimlaan 61, 2020 Antwerpen",
+    "presentation_short_vi": "Bảo tàng điêu khắc ngoài trời rộng lớn trưng bày hơn 200 tác phẩm hiện đại giữa khung cảnh công viên.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.1861,4.4079",
+      "yandex": "https://yandex.com/maps/?pt=4.4079,51.1861&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "park",
+      "art",
+      "sculpture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "be-antwerp-vuon-thu-antwerp",
+    "slug": "vuon-thu-antwerp",
+    "region": "be-antwerp",
+    "country": "belgium",
+    "region_name_vi": "Antwerp",
+    "name_vi": "Vườn thú Antwerp",
+    "name_en": "Antwerp Zoo",
+    "name_local": "ZOO Antwerpen",
+    "categories": [
+      "other",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 51.2158,
+      "lon": 4.423
+    },
+    "address_vi": "Koningin Astridplein 20-26, 2018 Antwerpen",
+    "presentation_short_vi": "Một trong những vườn thú lâu đời nhất thế giới (1843), ngay cạnh Ga Trung tâm, với kiến trúc chuồng thú cổ điển.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.2158,4.423",
+      "yandex": "https://yandex.com/maps/?pt=4.423,51.2158&z=16&l=map"
+    },
+    "tags": [
+      "zoo",
+      "family",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

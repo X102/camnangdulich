@@ -1,0 +1,441 @@
+[
+  {
+    "id": "ch-lucerne-cau-kapellbrucke",
+    "slug": "cau-kapellbrucke",
+    "region": "ch-lucerne",
+    "country": "switzerland",
+    "region_name_vi": "Lucerne",
+    "name_vi": "Cầu Kapellbrücke (Cầu Nhà nguyện)",
+    "name_en": "Chapel Bridge (Kapellbrücke)",
+    "name_local": "Kapellbrücke",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 47.0517,
+      "lon": 8.3076
+    },
+    "address_vi": "Kapellbrücke, sông Reuss, phố cổ, Luzern",
+    "presentation_short_vi": "Cầu gỗ có mái che lâu đời nhất châu Âu (thế kỷ 14) bắc qua sông Reuss, gắn với tháp nước bát giác Wasserturm và loạt tranh trần hình tam giác; biểu tượng nổi tiếng nhất của Lucerne.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.0517,8.3076",
+      "yandex": "https://yandex.com/maps/?pt=8.3076,47.0517&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "landmark",
+      "bridge",
+      "iconic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-lucerne-cau-spreuer",
+    "slug": "cau-spreuer",
+    "region": "ch-lucerne",
+    "country": "switzerland",
+    "region_name_vi": "Lucerne",
+    "name_vi": "Cầu Spreuer",
+    "name_en": "Spreuer Bridge",
+    "name_local": "Spreuerbrücke",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 47.0509,
+      "lon": 8.3025
+    },
+    "address_vi": "Spreuerbrücke, sông Reuss, Luzern",
+    "presentation_short_vi": "Cầu gỗ có mái che thế kỷ 15 bắc qua sông Reuss, trưng bày loạt tranh 'Vũ điệu Thần Chết' (Totentanz) thời trung cổ trên các vì kèo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.0509,8.3025",
+      "yandex": "https://yandex.com/maps/?pt=8.3025,47.0509&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "bridge",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-lucerne-tuong-dai-su-tu",
+    "slug": "tuong-dai-su-tu",
+    "region": "ch-lucerne",
+    "country": "switzerland",
+    "region_name_vi": "Lucerne",
+    "name_vi": "Tượng đài Sư tử Lucerne",
+    "name_en": "Lion Monument",
+    "name_local": "Löwendenkmal",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 47.0583,
+      "lon": 8.3106
+    },
+    "address_vi": "Denkmalstrasse 4, Luzern",
+    "presentation_short_vi": "Tượng sư tử hấp hối tạc vào vách đá (1821) tưởng niệm lính đánh thuê Thụy Sĩ hy sinh trong Cách mạng Pháp; Mark Twain gọi đây là 'tảng đá bi tráng nhất thế giới'.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.0583,8.3106",
+      "yandex": "https://yandex.com/maps/?pt=8.3106,47.0583&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "monument",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-lucerne-tuong-thanh-musegg",
+    "slug": "tuong-thanh-musegg",
+    "region": "ch-lucerne",
+    "country": "switzerland",
+    "region_name_vi": "Lucerne",
+    "name_vi": "Tường thành Musegg",
+    "name_en": "Musegg Wall",
+    "name_local": "Museggmauer",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 47.057,
+      "lon": 8.3047
+    },
+    "address_vi": "Museggmauer, phố cổ Altstadt, Luzern",
+    "presentation_short_vi": "Đoạn tường thành trung cổ còn gần nguyên vẹn với 9 tháp canh; du khách có thể leo một số tháp (tháp Zyt có đồng hồ cổ nhất thành phố) để ngắm toàn cảnh phố cổ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.057,8.3047",
+      "yandex": "https://yandex.com/maps/?pt=8.3047,47.057&z=16&l=map"
+    },
+    "tags": [
+      "fortress",
+      "historic",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-lucerne-nha-tho-jesuit",
+    "slug": "nha-tho-jesuit",
+    "region": "ch-lucerne",
+    "country": "switzerland",
+    "region_name_vi": "Lucerne",
+    "name_vi": "Nhà thờ Dòng Tên Jesuitenkirche",
+    "name_en": "Jesuit Church",
+    "name_local": "Jesuitenkirche Luzern",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 47.051,
+      "lon": 8.3068
+    },
+    "address_vi": "Bahnhofstrasse 11a, Luzern",
+    "presentation_short_vi": "Nhà thờ Baroque quy mô lớn đầu tiên ở Thụy Sĩ (thế kỷ 17) bên bờ sông Reuss, nổi bật với hai tháp hành củ hành và nội thất trắng-hồng lộng lẫy.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.051,8.3068",
+      "yandex": "https://yandex.com/maps/?pt=8.3068,47.051&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "historic",
+      "baroque"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-lucerne-nha-tho-hofkirche",
+    "slug": "nha-tho-hofkirche",
+    "region": "ch-lucerne",
+    "country": "switzerland",
+    "region_name_vi": "Lucerne",
+    "name_vi": "Nhà thờ Hofkirche St. Leodegar",
+    "name_en": "Church of St. Leodegar (Hofkirche)",
+    "name_local": "Hofkirche St. Leodegar",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 47.0546,
+      "lon": 8.3143
+    },
+    "address_vi": "St. Leodegarstrasse 6, Luzern",
+    "presentation_short_vi": "Nhà thờ phong cách Phục Hưng với hai tháp nhọn đặc trưng của đường chân trời Lucerne, sở hữu một trong những cây đại phong cầm nổi tiếng nhất Thụy Sĩ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.0546,8.3143",
+      "yandex": "https://yandex.com/maps/?pt=8.3143,47.0546&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "historic",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-lucerne-trung-tam-kkl-luzern",
+    "slug": "trung-tam-kkl-luzern",
+    "region": "ch-lucerne",
+    "country": "switzerland",
+    "region_name_vi": "Lucerne",
+    "name_vi": "Trung tâm Văn hoá và Hội nghị KKL",
+    "name_en": "KKL Lucerne Culture and Congress Centre",
+    "name_local": "KKL Luzern",
+    "categories": [
+      "other",
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 47.0503,
+      "lon": 8.3126
+    },
+    "address_vi": "Europaplatz 1, Luzern",
+    "presentation_short_vi": "Trung tâm văn hoá và hội nghị hiện đại do kiến trúc sư Jean Nouvel thiết kế với mái vươn khổng lồ bên hồ, nổi tiếng nhờ khán phòng hoà nhạc có âm học vào loại tốt nhất thế giới.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.0503,8.3126",
+      "yandex": "https://yandex.com/maps/?pt=8.3126,47.0503&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "architecture",
+      "concert"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-lucerne-bao-tang-giao-thong",
+    "slug": "bao-tang-giao-thong",
+    "region": "ch-lucerne",
+    "country": "switzerland",
+    "region_name_vi": "Lucerne",
+    "name_vi": "Bảo tàng Giao thông Thụy Sĩ",
+    "name_en": "Swiss Museum of Transport",
+    "name_local": "Verkehrshaus der Schweiz",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 47.0537,
+      "lon": 8.3356
+    },
+    "address_vi": "Lidostrasse 5, Luzern",
+    "presentation_short_vi": "Bảo tàng giao thông lớn và được yêu thích nhất Thụy Sĩ, trưng bày tàu hoả, ô tô, máy bay, tàu vũ trụ cùng rạp phim vòm và cung thiên văn.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.0537,8.3356",
+      "yandex": "https://yandex.com/maps/?pt=8.3356,47.0537&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "modern",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-lucerne-bourbaki-panorama",
+    "slug": "bourbaki-panorama",
+    "region": "ch-lucerne",
+    "country": "switzerland",
+    "region_name_vi": "Lucerne",
+    "name_vi": "Bảo tàng tranh toàn cảnh Bourbaki",
+    "name_en": "Bourbaki Panorama",
+    "name_local": "Bourbaki Panorama",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 47.0575,
+      "lon": 8.311
+    },
+    "address_vi": "Löwenplatz 11, Luzern",
+    "presentation_short_vi": "Bức tranh toàn cảnh vòng tròn khổng lồ (thế kỷ 19) tái hiện đoàn quân Bourbaki của Pháp lánh nạn sang Thụy Sĩ năm 1871, một trong số ít tranh panorama còn lại của thế giới.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.0575,8.311",
+      "yandex": "https://yandex.com/maps/?pt=8.311,47.0575&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "historic",
+      "panorama"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-lucerne-vuon-bang-ha-gletschergarten",
+    "slug": "vuon-bang-ha-gletschergarten",
+    "region": "ch-lucerne",
+    "country": "switzerland",
+    "region_name_vi": "Lucerne",
+    "name_vi": "Vườn Băng hà Gletschergarten",
+    "name_en": "Glacier Garden",
+    "name_local": "Gletschergarten Luzern",
+    "categories": [
+      "museum",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 47.0583,
+      "lon": 8.3123
+    },
+    "address_vi": "Denkmalstrasse 4, Luzern",
+    "presentation_short_vi": "Công viên địa chất với các hố băng hà hình thành từ Kỷ Băng Hà, bảo tàng và mê cung gương Alhambra; di sản thiên nhiên độc đáo giữa lòng thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.0583,8.3123",
+      "yandex": "https://yandex.com/maps/?pt=8.3123,47.0583&z=16&l=map"
+    },
+    "tags": [
+      "park_garden",
+      "museum",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-lucerne-nui-pilatus",
+    "slug": "nui-pilatus",
+    "region": "ch-lucerne",
+    "country": "switzerland",
+    "region_name_vi": "Lucerne",
+    "name_vi": "Núi Pilatus",
+    "name_en": "Mount Pilatus",
+    "name_local": "Pilatus",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 46.9739,
+      "lon": 8.2411
+    },
+    "address_vi": "Pilatus Kulm, Kriens/Alpnach, bang Obwalden/Luzern",
+    "presentation_short_vi": "Ngọn núi huyền thoại cao hơn 2.100 m soi bóng xuống Lucerne, lên đỉnh bằng tuyến đường sắt răng cưa dốc nhất thế giới hoặc cáp treo; gắn với truyền thuyết về rồng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.9739,8.2411",
+      "yandex": "https://yandex.com/maps/?pt=8.2411,46.9739&z=16&l=map"
+    },
+    "tags": [
+      "mountain",
+      "nature",
+      "viewpoint",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-lucerne-nui-rigi",
+    "slug": "nui-rigi",
+    "region": "ch-lucerne",
+    "country": "switzerland",
+    "region_name_vi": "Lucerne",
+    "name_vi": "Núi Rigi",
+    "name_en": "Mount Rigi",
+    "name_local": "Rigi",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 47.0567,
+      "lon": 8.4856
+    },
+    "address_vi": "Rigi Kulm, bang Schwyz/Luzern",
+    "presentation_short_vi": "'Nữ hoàng của những ngọn núi' cao 1.798 m, điểm ngắm bình minh và toàn cảnh dãy Alps cùng nhiều hồ; lên đỉnh bằng tuyến đường sắt leo núi đầu tiên của châu Âu (1871).",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.0567,8.4856",
+      "yandex": "https://yandex.com/maps/?pt=8.4856,47.0567&z=16&l=map"
+    },
+    "tags": [
+      "mountain",
+      "nature",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-lucerne-ho-lucerne-vierwaldstattersee",
+    "slug": "ho-lucerne-vierwaldstattersee",
+    "region": "ch-lucerne",
+    "country": "switzerland",
+    "region_name_vi": "Lucerne",
+    "name_vi": "Hồ Lucerne (Vierwaldstättersee)",
+    "name_en": "Lake Lucerne",
+    "name_local": "Vierwaldstättersee",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 47.0136,
+      "lon": 8.4372
+    },
+    "address_vi": "Vierwaldstättersee, vùng trung Thụy Sĩ",
+    "presentation_short_vi": "Hồ hình nhánh cây tuyệt đẹp giữa vùng núi trung Thụy Sĩ, nơi khai sinh Liên bang Thụy Sĩ; du thuyền hơi nước cổ đưa khách qua các làng ven hồ và chân núi Rigi, Pilatus.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.0136,8.4372",
+      "yandex": "https://yandex.com/maps/?pt=8.4372,47.0136&z=16&l=map"
+    },
+    "tags": [
+      "lake",
+      "nature",
+      "scenic",
+      "cruise"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-lucerne-pho-co-weinmarkt",
+    "slug": "pho-co-weinmarkt",
+    "region": "ch-lucerne",
+    "country": "switzerland",
+    "region_name_vi": "Lucerne",
+    "name_vi": "Phố cổ Weinmarkt",
+    "name_en": "Old Town (Weinmarkt)",
+    "name_local": "Weinmarkt / Altstadt Luzern",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 47.0524,
+      "lon": 8.3068
+    },
+    "address_vi": "Weinmarkt, phố cổ Altstadt, Luzern",
+    "presentation_short_vi": "Khu phố cổ với các quảng trường lát đá và nhà tường bích hoạ rực rỡ như Weinmarkt, Hirschenplatz; trung tâm sinh hoạt và mua sắm lịch sử của Lucerne.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.0524,8.3068",
+      "yandex": "https://yandex.com/maps/?pt=8.3068,47.0524&z=16&l=map"
+    },
+    "tags": [
+      "square_street",
+      "historic",
+      "oldtown"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

@@ -1,0 +1,407 @@
+[
+  {
+    "id": "se-visby-ringmur",
+    "slug": "ringmur",
+    "region": "se-visby",
+    "country": "sweden",
+    "region_name_vi": "Visby",
+    "name_vi": "Tường thành cổ Visby (Ringmur)",
+    "name_en": "Visby City Wall",
+    "name_local": "Visby ringmur",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 57.6389,
+      "lon": 18.2981
+    },
+    "address_vi": "Vòng quanh phố cổ Visby, Gotland",
+    "presentation_short_vi": "Tường thành trung cổ dài 3,4 km với gần 30 tháp canh bao quanh phố cổ, được xem là tường thành thời trung cổ được bảo tồn tốt nhất Bắc Âu — Di sản UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=57.6389,18.2981",
+      "yandex": "https://yandex.com/maps/?pt=18.2981,57.6389&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "unesco",
+      "fortress",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-visby-kruttornet",
+    "slug": "kruttornet",
+    "region": "se-visby",
+    "country": "sweden",
+    "region_name_vi": "Visby",
+    "name_vi": "Tháp thuốc súng Kruttornet",
+    "name_en": "The Powder Tower",
+    "name_local": "Kruttornet",
+    "categories": [
+      "fortress",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 57.6422,
+      "lon": 18.2914
+    },
+    "address_vi": "Strandgatan, cạnh bến cảng Visby",
+    "presentation_short_vi": "Tháp phòng thủ bằng đá lâu đời nhất Visby (thế kỷ 12), từng canh giữ cảng cổ và là một trong những công trình thế tục cổ nhất còn lại ở Bắc Âu.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=57.6422,18.2914",
+      "yandex": "https://yandex.com/maps/?pt=18.2914,57.6422&z=16&l=map"
+    },
+    "tags": [
+      "fortress",
+      "history",
+      "tower"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-visby-domkyrka",
+    "slug": "domkyrka",
+    "region": "se-visby",
+    "country": "sweden",
+    "region_name_vi": "Visby",
+    "name_vi": "Nhà thờ chính tòa Visby (Thánh Maria)",
+    "name_en": "Visby Cathedral (St. Mary's)",
+    "name_local": "Sankta Maria domkyrka",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 57.6415,
+      "lon": 18.2966
+    },
+    "address_vi": "Kyrkberget, phố cổ Visby",
+    "presentation_short_vi": "Nhà thờ trung cổ duy nhất ở Visby còn nguyên vẹn và đang hoạt động, khánh thành năm 1225 với các tháp chuông đặc trưng nhìn ra biển Baltic.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=57.6415,18.2966",
+      "yandex": "https://yandex.com/maps/?pt=18.2966,57.6415&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "church",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-visby-sankt-nikolai",
+    "slug": "sankt-nikolai",
+    "region": "se-visby",
+    "country": "sweden",
+    "region_name_vi": "Visby",
+    "name_vi": "Phế tích nhà thờ Thánh Nikolai",
+    "name_en": "St. Nicholas Church Ruins",
+    "name_local": "Sankt Nikolai kyrkoruin",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 57.6428,
+      "lon": 18.2952
+    },
+    "address_vi": "Norra Kyrkogatan, phố cổ Visby",
+    "presentation_short_vi": "Phế tích nhà thờ tu viện Dominican thế kỷ 13, nay là sân khấu ngoài trời cho các buổi hòa nhạc và lễ hội trung cổ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=57.6428,18.2952",
+      "yandex": "https://yandex.com/maps/?pt=18.2952,57.6428&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "ruins",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-visby-sankta-karin",
+    "slug": "sankta-karin",
+    "region": "se-visby",
+    "country": "sweden",
+    "region_name_vi": "Visby",
+    "name_vi": "Phế tích nhà thờ Thánh Karin",
+    "name_en": "St. Catherine's Church Ruins",
+    "name_local": "Sankta Karins kyrkoruin",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 57.6404,
+      "lon": 18.2957
+    },
+    "address_vi": "Stora Torget, phố cổ Visby",
+    "presentation_short_vi": "Phế tích nhà thờ dòng Phanxicô thế kỷ 13 ngay bên quảng trường trung tâm, nổi bật với các vòm cửa sổ Gothic tinh xảo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=57.6404,18.2957",
+      "yandex": "https://yandex.com/maps/?pt=18.2957,57.6404&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "ruins",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-visby-gotlands-museum",
+    "slug": "gotlands-museum",
+    "region": "se-visby",
+    "country": "sweden",
+    "region_name_vi": "Visby",
+    "name_vi": "Bảo tàng Gotland (Fornsalen)",
+    "name_en": "Gotland Museum (Fornsalen)",
+    "name_local": "Gotlands Museum - Fornsalen",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 57.6402,
+      "lon": 18.2946
+    },
+    "address_vi": "Strandgatan 14, Visby",
+    "presentation_short_vi": "Bảo tàng trưng bày cổ vật Viking, bia đá khắc hình (picture stones) và những kho báu bạc thời Viking tìm thấy trên đảo Gotland.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=57.6402,18.2946",
+      "yandex": "https://yandex.com/maps/?pt=18.2946,57.6402&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "viking",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-visby-stora-torget",
+    "slug": "stora-torget",
+    "region": "se-visby",
+    "country": "sweden",
+    "region_name_vi": "Visby",
+    "name_vi": "Quảng trường trung tâm Stora Torget",
+    "name_en": "Stora Torget (Main Square)",
+    "name_local": "Stora Torget",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 57.6407,
+      "lon": 18.2958
+    },
+    "address_vi": "Trung tâm phố cổ Visby",
+    "presentation_short_vi": "Quảng trường chính của phố cổ, sôi động với quán cà phê, chợ và lễ hội — trung tâm của Tuần lễ Trung cổ nổi tiếng hằng năm.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=57.6407,18.2958",
+      "yandex": "https://yandex.com/maps/?pt=18.2958,57.6407&z=16&l=map"
+    },
+    "tags": [
+      "square",
+      "old-town",
+      "food"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-visby-almedalen",
+    "slug": "almedalen",
+    "region": "se-visby",
+    "country": "sweden",
+    "region_name_vi": "Visby",
+    "name_vi": "Công viên Almedalen",
+    "name_en": "Almedalen Park",
+    "name_local": "Almedalen",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 57.6389,
+      "lon": 18.292
+    },
+    "address_vi": "Ven cảng, phía tây phố cổ Visby",
+    "presentation_short_vi": "Công viên xanh ven biển từng là bến cảng trung cổ, nổi tiếng với Tuần lễ Almedalen — sự kiện chính trị lớn nhất Thụy Điển.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=57.6389,18.292",
+      "yandex": "https://yandex.com/maps/?pt=18.292,57.6389&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "seaside",
+      "relax"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-visby-botaniska-tradgarden",
+    "slug": "botaniska-tradgarden",
+    "region": "se-visby",
+    "country": "sweden",
+    "region_name_vi": "Visby",
+    "name_vi": "Vườn bách thảo DBW",
+    "name_en": "DBW's Botanical Garden",
+    "name_local": "DBW:s botaniska tradgard",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 57.644,
+      "lon": 18.2958
+    },
+    "address_vi": "Phía bắc phố cổ Visby",
+    "presentation_short_vi": "Khu vườn bách thảo hơn 160 năm tuổi với cây vả, cây dâu tằm và hoa hồng, góp phần cho Visby biệt danh 'Thành phố Hoa hồng'.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=57.644,18.2958",
+      "yandex": "https://yandex.com/maps/?pt=18.2958,57.644&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "garden",
+      "relax"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-visby-hogklint",
+    "slug": "hogklint",
+    "region": "se-visby",
+    "country": "sweden",
+    "region_name_vi": "Visby",
+    "name_vi": "Vách đá Högklint",
+    "name_en": "Hogklint Cliff",
+    "name_local": "Hogklint",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 57.6156,
+      "lon": 18.2258
+    },
+    "address_vi": "Cách Visby khoảng 5 km về phía nam, Gotland",
+    "presentation_short_vi": "Vách đá vôi cao gần 50 m nhìn ra biển Baltic, điểm ngắm hoàng hôn và toàn cảnh Visby đẹp bậc nhất Gotland.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=57.6156,18.2258",
+      "yandex": "https://yandex.com/maps/?pt=18.2258,57.6156&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "viewpoint",
+      "sunset"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-visby-lummelundagrottan",
+    "slug": "lummelundagrottan",
+    "region": "se-visby",
+    "country": "sweden",
+    "region_name_vi": "Visby",
+    "name_vi": "Hang động Lummelunda",
+    "name_en": "Lummelunda Cave",
+    "name_local": "Lummelundagrottan",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 57.7508,
+      "lon": 18.4183
+    },
+    "address_vi": "Cách Visby khoảng 13 km về phía bắc, Gotland",
+    "presentation_short_vi": "Một trong những hang đá vôi dài nhất Thụy Điển với nhũ đá và dòng suối ngầm, mở cửa cho khách tham quan theo lối đi chiếu sáng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=57.7508,18.4183",
+      "yandex": "https://yandex.com/maps/?pt=18.4183,57.7508&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "cave",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-visby-faro",
+    "slug": "faro",
+    "region": "se-visby",
+    "country": "sweden",
+    "region_name_vi": "Visby",
+    "name_vi": "Đảo Fårö và cột đá rauk",
+    "name_en": "Faro Island & Rauk Sea Stacks",
+    "name_local": "Faro",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 57.9167,
+      "lon": 19.15
+    },
+    "address_vi": "Phía bắc Gotland, qua phà từ Fårösund",
+    "presentation_short_vi": "Hòn đảo hoang sơ nổi tiếng với các cột đá vôi 'rauk' kỳ dị ở Langhammars, bãi cát trắng và là nơi gắn với đạo diễn Ingmar Bergman.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=57.9167,19.15",
+      "yandex": "https://yandex.com/maps/?pt=19.15,57.9167&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "island",
+      "rauk"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "se-visby-kneippbyn",
+    "slug": "kneippbyn",
+    "region": "se-visby",
+    "country": "sweden",
+    "region_name_vi": "Visby",
+    "name_vi": "Công viên giải trí Kneippbyn",
+    "name_en": "Kneippbyn Resort (Villa Villekulla)",
+    "name_local": "Kneippbyn",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 57.6217,
+      "lon": 18.2606
+    },
+    "address_vi": "Cách Visby khoảng 4 km về phía nam, Gotland",
+    "presentation_short_vi": "Công viên giải trí và công viên nước ven biển với ngôi nhà Villa Villekulla của Pippi Tất Dài — điểm đến gia đình nổi tiếng nhất Gotland.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=57.6217,18.2606",
+      "yandex": "https://yandex.com/maps/?pt=18.2606,57.6217&z=16&l=map"
+    },
+    "tags": [
+      "amusement-park",
+      "family",
+      "modern"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

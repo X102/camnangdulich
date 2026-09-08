@@ -1,0 +1,425 @@
+[
+  {
+    "id": "ie-kerry-vuon-quoc-gia-killarney",
+    "slug": "vuon-quoc-gia-killarney",
+    "region": "ie-kerry",
+    "country": "ireland",
+    "region_name_vi": "Hạt Kerry",
+    "name_vi": "Vườn Quốc gia Killarney",
+    "name_en": "Killarney National Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 52.0128,
+      "lon": -9.551
+    },
+    "address_vi": "Killarney, Hạt Kerry",
+    "presentation_short_vi": "Vườn quốc gia đầu tiên của Ireland rộng hơn 100 km², gồm ba hồ Killarney, rừng sồi cổ, núi non và đàn hươu đỏ bản địa duy nhất còn lại của đất nước.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.0128,-9.551",
+      "yandex": "https://yandex.com/maps/?pt=-9.551,52.0128&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "nature",
+      "park",
+      "lake",
+      "mountain"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ie-kerry-lau-dai-ross",
+    "slug": "lau-dai-ross",
+    "region": "ie-kerry",
+    "country": "ireland",
+    "region_name_vi": "Hạt Kerry",
+    "name_vi": "Lâu đài Ross",
+    "name_en": "Ross Castle",
+    "name_local": "",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 52.0489,
+      "lon": -9.5305
+    },
+    "address_vi": "Ross Road, Killarney, Hạt Kerry",
+    "presentation_short_vi": "Tháp phòng thủ thế kỷ 15 của tù trưởng O'Donoghue bên hồ Lough Leane, một trong những pháo đài cuối cùng ở Munster thất thủ trước quân Cromwell.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.0489,-9.5305",
+      "yandex": "https://yandex.com/maps/?pt=-9.5305,52.0489&z=16&l=map"
+    },
+    "tags": [
+      "castle",
+      "medieval",
+      "lake",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ie-kerry-dinh-thu-muckross",
+    "slug": "dinh-thu-muckross",
+    "region": "ie-kerry",
+    "country": "ireland",
+    "region_name_vi": "Hạt Kerry",
+    "name_vi": "Dinh thự và Vườn Muckross",
+    "name_en": "Muckross House and Gardens",
+    "name_local": "",
+    "categories": [
+      "palace",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 52.0197,
+      "lon": -9.5049
+    },
+    "address_vi": "Muckross, Vườn Quốc gia Killarney, Hạt Kerry",
+    "presentation_short_vi": "Biệt thự kiểu Tudor thế kỷ 19 bên hồ Muckross, từng đón Nữ hoàng Victoria, nay là bảo tàng dân gian với vườn cảnh và trại truyền thống bao quanh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.0197,-9.5049",
+      "yandex": "https://yandex.com/maps/?pt=-9.5049,52.0197&z=16&l=map"
+    },
+    "tags": [
+      "mansion",
+      "garden",
+      "history",
+      "lake"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ie-kerry-tu-vien-muckross",
+    "slug": "tu-vien-muckross",
+    "region": "ie-kerry",
+    "country": "ireland",
+    "region_name_vi": "Hạt Kerry",
+    "name_vi": "Tu viện Muckross",
+    "name_en": "Muckross Abbey",
+    "name_local": "",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 52.027,
+      "lon": -9.4967
+    },
+    "address_vi": "Vườn Quốc gia Killarney, Hạt Kerry",
+    "presentation_short_vi": "Tu viện Dòng Phanxicô thế kỷ 15 còn khá nguyên vẹn, nổi bật với sân trong ôm lấy một cây thủy tùng cổ thụ và là nơi an nghỉ của các thi sĩ Gael.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.027,-9.4967",
+      "yandex": "https://yandex.com/maps/?pt=-9.4967,52.027&z=16&l=map"
+    },
+    "tags": [
+      "abbey",
+      "church",
+      "ruins",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ie-kerry-thac-torc",
+    "slug": "thac-torc",
+    "region": "ie-kerry",
+    "country": "ireland",
+    "region_name_vi": "Hạt Kerry",
+    "name_vi": "Thác Torc",
+    "name_en": "Torc Waterfall",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 51.9975,
+      "lon": -9.5003
+    },
+    "address_vi": "N71, Vườn Quốc gia Killarney, Hạt Kerry",
+    "presentation_short_vi": "Thác nước cao khoảng 20 m đổ qua rừng rêu phong ngay cạnh đường Ring of Kerry, chỉ vài phút đi bộ và có lối leo lên điểm ngắm hồ phía trên.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.9975,-9.5003",
+      "yandex": "https://yandex.com/maps/?pt=-9.5003,51.9975&z=16&l=map"
+    },
+    "tags": [
+      "waterfall",
+      "nature",
+      "forest",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ie-kerry-deo-dunloe",
+    "slug": "deo-dunloe",
+    "region": "ie-kerry",
+    "country": "ireland",
+    "region_name_vi": "Hạt Kerry",
+    "name_vi": "Đèo Dunloe",
+    "name_en": "Gap of Dunloe",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 52.01,
+      "lon": -9.639
+    },
+    "address_vi": "Gap of Dunloe, gần Killarney, Hạt Kerry",
+    "presentation_short_vi": "Hẻm núi băng hà hẹp uốn lượn giữa dãy MacGillycuddy's Reeks và núi Purple, với chuỗi hồ nhỏ cùng đường mòn đi bộ hoặc xe ngựa ngoạn mục.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.01,-9.639",
+      "yandex": "https://yandex.com/maps/?pt=-9.639,52.01&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "mountain",
+      "valley",
+      "scenic",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ie-kerry-diem-ngam-ladies-view",
+    "slug": "diem-ngam-ladies-view",
+    "region": "ie-kerry",
+    "country": "ireland",
+    "region_name_vi": "Hạt Kerry",
+    "name_vi": "Điểm ngắm Ladies View",
+    "name_en": "Ladies View",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 51.9838,
+      "lon": -9.6167
+    },
+    "address_vi": "N71, Vườn Quốc gia Killarney, Hạt Kerry",
+    "presentation_short_vi": "Điểm dừng ngắm cảnh trứ danh trên đường N71 nhìn bao quát ba hồ Killarney, được đặt tên theo các thị nữ của Nữ hoàng Victoria từng trầm trồ nơi đây.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.9838,-9.6167",
+      "yandex": "https://yandex.com/maps/?pt=-9.6167,51.9838&z=16&l=map"
+    },
+    "tags": [
+      "viewpoint",
+      "scenic",
+      "lake",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ie-kerry-dao-skellig-michael",
+    "slug": "dao-skellig-michael",
+    "region": "ie-kerry",
+    "country": "ireland",
+    "region_name_vi": "Hạt Kerry",
+    "name_vi": "Đảo Skellig Michael",
+    "name_en": "Skellig Michael",
+    "name_local": "",
+    "categories": [
+      "monument",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 51.7708,
+      "lon": -10.5386
+    },
+    "address_vi": "Ngoài khơi Portmagee, Hạt Kerry",
+    "presentation_short_vi": "Đảo đá dốc đứng ngoài Đại Tây Dương với tu viện đá thế kỷ 6 gồm các lều đá hình tổ ong, Di sản Thế giới UNESCO và bối cảnh nổi tiếng trong phim Star Wars.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.7708,-10.5386",
+      "yandex": "https://yandex.com/maps/?pt=-10.5386,51.7708&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "unesco",
+      "island",
+      "monastery",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ie-kerry-nui-carrauntoohil",
+    "slug": "nui-carrauntoohil",
+    "region": "ie-kerry",
+    "country": "ireland",
+    "region_name_vi": "Hạt Kerry",
+    "name_vi": "Núi Carrauntoohil",
+    "name_en": "Carrauntoohil",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 52.0,
+      "lon": -9.7422
+    },
+    "address_vi": "MacGillycuddy's Reeks, Hạt Kerry",
+    "presentation_short_vi": "Đỉnh núi cao nhất Ireland (1.038 m) thuộc dãy MacGillycuddy's Reeks, đích đến của dân leo núi với những lối lên hiểm trở như Devil's Ladder.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.0,-9.7422",
+      "yandex": "https://yandex.com/maps/?pt=-9.7422,52.0&z=16&l=map"
+    },
+    "tags": [
+      "mountain",
+      "hiking",
+      "nature",
+      "highest"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ie-kerry-nha-nguyen-gallarus",
+    "slug": "nha-nguyen-gallarus",
+    "region": "ie-kerry",
+    "country": "ireland",
+    "region_name_vi": "Hạt Kerry",
+    "name_vi": "Nhà nguyện Gallarus",
+    "name_en": "Gallarus Oratory",
+    "name_local": "",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 52.1739,
+      "lon": -10.3521
+    },
+    "address_vi": "Bán đảo Dingle, Hạt Kerry",
+    "presentation_short_vi": "Nhà nguyện đá khô hình con thuyền úp có tuổi đời khoảng 1.200 năm, xếp khít không cần vữa mà vẫn khô ráo, một trong những công trình Kitô giáo sơ khai nguyên vẹn nhất Ireland.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.1739,-10.3521",
+      "yandex": "https://yandex.com/maps/?pt=-10.3521,52.1739&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "early-christian",
+      "historic",
+      "stone"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ie-kerry-vach-da-kerry",
+    "slug": "vach-da-kerry",
+    "region": "ie-kerry",
+    "country": "ireland",
+    "region_name_vi": "Hạt Kerry",
+    "name_vi": "Vách đá Kerry",
+    "name_en": "Kerry Cliffs",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 51.8656,
+      "lon": -10.3864
+    },
+    "address_vi": "Portmagee, bán đảo Iveragh, Hạt Kerry",
+    "presentation_short_vi": "Dải vách đá biển cao khoảng 300 m được xem là hùng vĩ nhất vùng Ring of Kerry, nhìn ra quần đảo Skellig và đảo chim Puffin Island.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.8656,-10.3864",
+      "yandex": "https://yandex.com/maps/?pt=-10.3864,51.8656&z=16&l=map"
+    },
+    "tags": [
+      "cliffs",
+      "sea",
+      "viewpoint",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ie-kerry-vong-tron-da-kenmare",
+    "slug": "vong-tron-da-kenmare",
+    "region": "ie-kerry",
+    "country": "ireland",
+    "region_name_vi": "Hạt Kerry",
+    "name_vi": "Vòng tròn đá Kenmare",
+    "name_en": "Kenmare Stone Circle",
+    "name_local": "",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 51.8807,
+      "lon": -9.5849
+    },
+    "address_vi": "Kenmare, Hạt Kerry",
+    "presentation_short_vi": "Vòng tròn đá thời Đồ Đồng gồm 15 khối đá lớn quây quanh một mộ đá trung tâm, một trong những di tích cự thạch lớn nhất tây nam Ireland.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.8807,-9.5849",
+      "yandex": "https://yandex.com/maps/?pt=-9.5849,51.8807&z=16&l=map"
+    },
+    "tags": [
+      "monument",
+      "prehistoric",
+      "stone-circle",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ie-kerry-thi-tran-cang-dingle",
+    "slug": "thi-tran-cang-dingle",
+    "region": "ie-kerry",
+    "country": "ireland",
+    "region_name_vi": "Hạt Kerry",
+    "name_vi": "Thị trấn cảng Dingle",
+    "name_en": "Dingle Town and Harbour",
+    "name_local": "",
+    "categories": [
+      "square_street",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 52.1409,
+      "lon": -10.2667
+    },
+    "address_vi": "Dingle, bán đảo Dingle, Hạt Kerry",
+    "presentation_short_vi": "Thị trấn cảng cá đầy màu sắc nổi tiếng với quán pub nhạc truyền thống, hải sản tươi và là điểm khởi đầu vòng cung ven biển Slea Head ngoạn mục.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=52.1409,-10.2667",
+      "yandex": "https://yandex.com/maps/?pt=-10.2667,52.1409&z=16&l=map"
+    },
+    "tags": [
+      "town",
+      "harbour",
+      "music",
+      "seaside",
+      "food"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

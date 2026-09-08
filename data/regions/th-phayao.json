@@ -1,0 +1,226 @@
+[
+  {
+    "id": "th-phayao-kwan-phayao",
+    "slug": "kwan-phayao",
+    "region": "th-phayao",
+    "country": "thailand",
+    "region_name_vi": "Phayao",
+    "name_vi": "Hồ Kwan Phayao",
+    "name_en": "Kwan Phayao (Phayao Lake)",
+    "name_local": "กว๊านพะเยา",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 19.1653,
+      "lon": 99.9036
+    },
+    "address_vi": "Huyện Mueang, tỉnh Phayao",
+    "rating": null,
+    "presentation_short_vi": "Hồ nước ngọt lớn nhất miền Bắc Thái Lan, biểu tượng của tỉnh Phayao với bờ hồ ngắm hoàng hôn, đi thuyền và thưởng thức đặc sản cá nước ngọt.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=99.9036,19.1653&z=17&pt=99.9036,19.1653",
+      "google": "https://www.google.com/maps/search/?api=1&query=19.1653,99.9036"
+    },
+    "tags": [
+      "lake",
+      "sunset",
+      "boat",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "th-phayao-wat-si-khom-kham",
+    "slug": "wat-si-khom-kham",
+    "region": "th-phayao",
+    "country": "thailand",
+    "region_name_vi": "Phayao",
+    "name_vi": "Chùa Si Khom Kham",
+    "name_en": "Wat Si Khom Kham",
+    "name_local": "วัดศรีโคมคำ",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 19.1767,
+      "lon": 99.8897
+    },
+    "address_vi": "Huyện Mueang, tỉnh Phayao",
+    "rating": null,
+    "presentation_short_vi": "Ngôi chùa cổ bên hồ Kwan Phayao, thờ Phra Chao Ton Luang — tượng Phật kiểu Lan Na lớn nhất tỉnh, cao khoảng 18 m.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=99.8897,19.1767&z=17&pt=99.8897,19.1767",
+      "google": "https://www.google.com/maps/search/?api=1&query=19.1767,99.8897"
+    },
+    "tags": [
+      "temple",
+      "wat",
+      "big_buddha",
+      "lanna"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "th-phayao-wat-tilok-aram",
+    "slug": "wat-tilok-aram",
+    "region": "th-phayao",
+    "country": "thailand",
+    "region_name_vi": "Phayao",
+    "name_vi": "Chùa Tilok Aram",
+    "name_en": "Wat Tilok Aram",
+    "name_local": "วัดติโลกอาราม",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 19.1587,
+      "lon": 99.8997
+    },
+    "address_vi": "Huyện Mueang, tỉnh Phayao",
+    "rating": null,
+    "presentation_short_vi": "Ngôi chùa cổ 500 năm nằm giữa lòng hồ Kwan Phayao, chỉ đến được bằng thuyền — 'ngôi chùa dưới nước' độc đáo của Phayao.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=99.8997,19.1587&z=17&pt=99.8997,19.1587",
+      "google": "https://www.google.com/maps/search/?api=1&query=19.1587,99.8997"
+    },
+    "tags": [
+      "temple",
+      "wat",
+      "lake",
+      "underwater"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "th-phayao-wat-analayo-thipphayaram",
+    "slug": "wat-analayo-thipphayaram",
+    "region": "th-phayao",
+    "country": "thailand",
+    "region_name_vi": "Phayao",
+    "name_vi": "Chùa Analayo Thipphayaram",
+    "name_en": "Wat Analayo Thipphayaram",
+    "name_local": "วัดอนาลโยทิพยาราม",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 19.155,
+      "lon": 99.823
+    },
+    "address_vi": "Huyện Mueang, tỉnh Phayao",
+    "rating": null,
+    "presentation_short_vi": "Ngôi chùa trên đồi Doi Busarakham ở bờ tây hồ, quần thể tượng và điện thờ tinh xảo cùng tầm nhìn bao quát hồ Kwan Phayao.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=99.823,19.155&z=17&pt=99.823,19.155",
+      "google": "https://www.google.com/maps/search/?api=1&query=19.155,99.823"
+    },
+    "tags": [
+      "temple",
+      "wat",
+      "hilltop",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "th-phayao-wat-nantaram",
+    "slug": "wat-nantaram",
+    "region": "th-phayao",
+    "country": "thailand",
+    "region_name_vi": "Phayao",
+    "name_vi": "Chùa Nantaram",
+    "name_en": "Wat Nantaram",
+    "name_local": "วัดนันตาราม",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 19.5282,
+      "lon": 100.3026
+    },
+    "address_vi": "Huyện Chiang Kham, tỉnh Phayao",
+    "rating": null,
+    "presentation_short_vi": "Ngôi chùa gỗ tếch kiểu Tai Yai (Shan) đẹp bậc nhất, chính điện chạm khắc công phu, ở thị trấn Chiang Kham nơi nhiều người Tai Lue sinh sống.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.3026,19.5282&z=17&pt=100.3026,19.5282",
+      "google": "https://www.google.com/maps/search/?api=1&query=19.5282,100.3026"
+    },
+    "tags": [
+      "temple",
+      "wat",
+      "tai_yai",
+      "teak"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "th-phayao-phu-sang-national-park",
+    "slug": "phu-sang-national-park",
+    "region": "th-phayao",
+    "country": "thailand",
+    "region_name_vi": "Phayao",
+    "name_vi": "Vườn quốc gia Phu Sang",
+    "name_en": "Phu Sang National Park",
+    "name_local": "อุทยานแห่งชาติภูซาง",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 19.53,
+      "lon": 100.45
+    },
+    "address_vi": "Huyện Phu Sang, tỉnh Phayao",
+    "rating": null,
+    "presentation_short_vi": "Vườn quốc gia với thác Phu Sang chảy từ dòng suối nước ấm, cùng rừng nguyên sinh và suối nước nóng giữa vùng biên giới.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.45,19.53&z=17&pt=100.45,19.53",
+      "google": "https://www.google.com/maps/search/?api=1&query=19.53,100.45"
+    },
+    "tags": [
+      "national_park",
+      "waterfall",
+      "hot_spring",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "th-phayao-doi-phu-nang-national-park",
+    "slug": "doi-phu-nang-national-park",
+    "region": "th-phayao",
+    "country": "thailand",
+    "region_name_vi": "Phayao",
+    "name_vi": "Vườn quốc gia Doi Phu Nang",
+    "name_en": "Doi Phu Nang National Park",
+    "name_local": "อุทยานแห่งชาติดอยภูนาง",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 19.0,
+      "lon": 100.16
+    },
+    "address_vi": "Huyện Dok Khamtai, tỉnh Phayao",
+    "rating": null,
+    "presentation_short_vi": "Vườn quốc gia rừng núi phía nam Phayao, nơi trú ngụ của công (peacock) hoang dã và có thác Than Sawan đẹp.",
+    "maps": {
+      "yandex": "https://yandex.com/maps/?ll=100.16,19.0&z=17&pt=100.16,19.0",
+      "google": "https://www.google.com/maps/search/?api=1&query=19.0,100.16"
+    },
+    "tags": [
+      "national_park",
+      "peacock",
+      "waterfall",
+      "forest"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  }
+]

@@ -1,0 +1,412 @@
+[
+  {
+    "id": "ie-galway-quang-truong-eyre",
+    "slug": "quang-truong-eyre",
+    "region": "ie-galway",
+    "country": "ireland",
+    "region_name_vi": "Galway",
+    "name_vi": "Quảng trường Eyre",
+    "name_en": "Eyre Square",
+    "name_local": "",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 53.2743,
+      "lon": -9.049
+    },
+    "address_vi": "Eyre Square, Galway",
+    "presentation_short_vi": "Quảng trường trung tâm mang tên Công viên Tưởng niệm J.F. Kennedy, điểm hẹn sôi động giữa lòng phố cổ Galway.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=53.2743,-9.049",
+      "yandex": "https://yandex.com/maps/?pt=-9.049,53.2743&z=16&l=map"
+    },
+    "tags": [
+      "square",
+      "central",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ie-galway-cong-vom-tay-ban-nha",
+    "slug": "cong-vom-tay-ban-nha",
+    "region": "ie-galway",
+    "country": "ireland",
+    "region_name_vi": "Galway",
+    "name_vi": "Cổng vòm Tây Ban Nha",
+    "name_en": "Spanish Arch",
+    "name_local": "",
+    "categories": [
+      "monument",
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 53.2701,
+      "lon": -9.0547
+    },
+    "address_vi": "Spanish Parade, Galway",
+    "presentation_short_vi": "Cổng vòm đá thế kỷ 16 còn sót lại từ tường thành cũ, bên bờ sông Corrib, gắn với thời giao thương với Tây Ban Nha.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=53.2701,-9.0547",
+      "yandex": "https://yandex.com/maps/?pt=-9.0547,53.2701&z=16&l=map"
+    },
+    "tags": [
+      "historic",
+      "landmark",
+      "riverside"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ie-galway-nha-tho-galway",
+    "slug": "nha-tho-galway",
+    "region": "ie-galway",
+    "country": "ireland",
+    "region_name_vi": "Galway",
+    "name_vi": "Nhà thờ chính tòa Galway",
+    "name_en": "Galway Cathedral",
+    "name_local": "",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 53.2758,
+      "lon": -9.0577
+    },
+    "address_vi": "Gaol Road, Galway",
+    "presentation_short_vi": "Nhà thờ chính tòa Công giáo khánh thành năm 1965 với mái vòm đá xanh đồ sộ, một trong những công trình lớn cuối cùng xây bằng đá ở châu Âu.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=53.2758,-9.0577",
+      "yandex": "https://yandex.com/maps/?pt=-9.0577,53.2758&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "landmark",
+      "dome"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ie-galway-nha-tho-thanh-nicholas",
+    "slug": "nha-tho-thanh-nicholas",
+    "region": "ie-galway",
+    "country": "ireland",
+    "region_name_vi": "Galway",
+    "name_vi": "Nhà thờ Thánh Nicholas",
+    "name_en": "Collegiate Church of St Nicholas",
+    "name_local": "",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 53.2721,
+      "lon": -9.0553
+    },
+    "address_vi": "Lombard Street, Galway",
+    "presentation_short_vi": "Nhà thờ giáo xứ trung cổ lớn nhất còn hoạt động ở Ireland (1320), tương truyền Christopher Columbus từng ghé cầu nguyện.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=53.2721,-9.0553",
+      "yandex": "https://yandex.com/maps/?pt=-9.0553,53.2721&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "medieval",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ie-galway-bao-tang-galway",
+    "slug": "bao-tang-galway",
+    "region": "ie-galway",
+    "country": "ireland",
+    "region_name_vi": "Galway",
+    "name_vi": "Bảo tàng Thành phố Galway",
+    "name_en": "Galway City Museum",
+    "name_local": "",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 53.2699,
+      "lon": -9.0543
+    },
+    "address_vi": "Spanish Parade, Galway",
+    "presentation_short_vi": "Bảo tàng thành phố bên Cổng vòm Tây Ban Nha, giới thiệu lịch sử, khảo cổ và đời sống biển của Galway.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=53.2699,-9.0543",
+      "yandex": "https://yandex.com/maps/?pt=-9.0543,53.2699&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "history",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ie-galway-lau-dai-lynch",
+    "slug": "lau-dai-lynch",
+    "region": "ie-galway",
+    "country": "ireland",
+    "region_name_vi": "Galway",
+    "name_vi": "Lâu đài Lynch",
+    "name_en": "Lynch's Castle",
+    "name_local": "",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 53.2726,
+      "lon": -9.0537
+    },
+    "address_vi": "Shop Street, Galway",
+    "presentation_short_vi": "Dinh thự - lâu đài đá thế kỷ 16 của gia tộc Lynch, nay là ngân hàng, công trình trung cổ đẹp nhất còn lại ở trung tâm.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=53.2726,-9.0537",
+      "yandex": "https://yandex.com/maps/?pt=-9.0537,53.2726&z=16&l=map"
+    },
+    "tags": [
+      "historic",
+      "castle",
+      "medieval"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ie-galway-khu-pho-latinh",
+    "slug": "khu-pho-latinh",
+    "region": "ie-galway",
+    "country": "ireland",
+    "region_name_vi": "Galway",
+    "name_vi": "Khu phố Latinh",
+    "name_en": "Latin Quarter (Shop Street)",
+    "name_local": "",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 53.2718,
+      "lon": -9.053
+    },
+    "address_vi": "Shop Street / Quay Street, Galway",
+    "presentation_short_vi": "Khu phố cổ đi bộ nhộn nhịp quanh Shop Street với quán pub, nhạc sống và nghệ sĩ đường phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=53.2718,-9.053",
+      "yandex": "https://yandex.com/maps/?pt=-9.053,53.2718&z=16&l=map"
+    },
+    "tags": [
+      "oldtown",
+      "street",
+      "nightlife",
+      "music"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ie-galway-salthill",
+    "slug": "salthill",
+    "region": "ie-galway",
+    "country": "ireland",
+    "region_name_vi": "Galway",
+    "name_vi": "Đường dạo biển Salthill",
+    "name_en": "Salthill Promenade",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 53.2588,
+      "lon": -9.072
+    },
+    "address_vi": "Salthill Promenade, Galway",
+    "presentation_short_vi": "Đường dạo biển dài ven vịnh Galway, nổi tiếng với truyền thống 'đá tường' và hoàng hôn Đại Tây Dương.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=53.2588,-9.072",
+      "yandex": "https://yandex.com/maps/?pt=-9.072,53.2588&z=16&l=map"
+    },
+    "tags": [
+      "seaside",
+      "promenade",
+      "scenic",
+      "sunset"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ie-galway-kylemore-abbey",
+    "slug": "kylemore-abbey",
+    "region": "ie-galway",
+    "country": "ireland",
+    "region_name_vi": "Galway",
+    "name_vi": "Tu viện Kylemore",
+    "name_en": "Kylemore Abbey",
+    "name_local": "",
+    "categories": [
+      "palace",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 53.5606,
+      "lon": -9.8894
+    },
+    "address_vi": "Pollacappul, Connemara, Co. Galway",
+    "presentation_short_vi": "Lâu đài tân Gothic soi bóng bên hồ giữa vùng Connemara, nay là tu viện dòng Biển Đức với khu vườn tường bao Victoria.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=53.5606,-9.8894",
+      "yandex": "https://yandex.com/maps/?pt=-9.8894,53.5606&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "castle",
+      "scenic",
+      "garden"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ie-galway-connemara",
+    "slug": "connemara",
+    "region": "ie-galway",
+    "country": "ireland",
+    "region_name_vi": "Galway",
+    "name_vi": "Vườn quốc gia Connemara",
+    "name_en": "Connemara National Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 53.5311,
+      "lon": -9.8803
+    },
+    "address_vi": "Letterfrack, Co. Galway",
+    "presentation_short_vi": "Vườn quốc gia hoang sơ với núi Diamond Hill, đầm lầy than bùn và đường mòn ngắm cảnh vùng Connemara.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=53.5311,-9.8803",
+      "yandex": "https://yandex.com/maps/?pt=-9.8803,53.5311&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "mountain",
+      "hiking",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ie-galway-dunguaire",
+    "slug": "dunguaire",
+    "region": "ie-galway",
+    "country": "ireland",
+    "region_name_vi": "Galway",
+    "name_vi": "Lâu đài Dunguaire",
+    "name_en": "Dunguaire Castle",
+    "name_local": "",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 53.1408,
+      "lon": -8.9308
+    },
+    "address_vi": "Kinvara, Co. Galway",
+    "presentation_short_vi": "Lâu đài tháp thế kỷ 16 bên vịnh Kinvara, một trong những toà lâu đài được chụp ảnh nhiều nhất Ireland.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=53.1408,-8.9308",
+      "yandex": "https://yandex.com/maps/?pt=-8.9308,53.1408&z=16&l=map"
+    },
+    "tags": [
+      "castle",
+      "scenic",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ie-galway-dun-aonghasa",
+    "slug": "dun-aonghasa",
+    "region": "ie-galway",
+    "country": "ireland",
+    "region_name_vi": "Galway",
+    "name_vi": "Pháo đài Dún Aonghasa",
+    "name_en": "Dún Aonghasa",
+    "name_local": "",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 53.1264,
+      "lon": -9.7681
+    },
+    "address_vi": "Kilmurvey, Inishmore, Aran Islands, Co. Galway",
+    "presentation_short_vi": "Pháo đài đá thời tiền sử trên đảo Inishmore (quần đảo Aran), dựng bên rìa vách đá cao 100 m nhìn ra Đại Tây Dương.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=53.1264,-9.7681",
+      "yandex": "https://yandex.com/maps/?pt=-9.7681,53.1264&z=16&l=map"
+    },
+    "tags": [
+      "prehistoric",
+      "fortress",
+      "cliff",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ie-galway-atlantaquaria",
+    "slug": "atlantaquaria",
+    "region": "ie-galway",
+    "country": "ireland",
+    "region_name_vi": "Galway",
+    "name_vi": "Thủy cung Quốc gia Ireland",
+    "name_en": "Galway Atlantaquaria",
+    "name_local": "",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 53.2596,
+      "lon": -9.0787
+    },
+    "address_vi": "Toft Park, Salthill, Galway",
+    "presentation_short_vi": "Thủy cung quốc gia lớn nhất Ireland tại Salthill, tái hiện sinh vật biển bờ Đại Tây Dương và sông ngòi Ireland.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=53.2596,-9.0787",
+      "yandex": "https://yandex.com/maps/?pt=-9.0787,53.2596&z=16&l=map"
+    },
+    "tags": [
+      "aquarium",
+      "family",
+      "seaside"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

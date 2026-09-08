@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ca-newfoundland-and-labrador-signal-hill",
+    "slug": "signal-hill",
+    "region": "ca-newfoundland-and-labrador",
+    "region_name_vi": "Newfoundland and Labrador",
+    "country": "canada",
+    "name_vi": "Đồi Signal & Tháp Cabot",
+    "name_en": "Signal Hill (Cabot Tower)",
+    "name_local": "",
+    "categories": [
+      "fortress",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 47.5706,
+      "lon": -52.6816
+    },
+    "address_vi": "St. John's, Newfoundland and Labrador",
+    "presentation_short_vi": "Đồi lịch sử canh giữ cửa cảng St. John's, nơi Marconi nhận tín hiệu vô tuyến xuyên Đại Tây Dương đầu tiên năm 1901; trên đỉnh là Tháp Cabot.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-52.6816,47.5706&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=47.5706,-52.6816"
+    },
+    "tags": [
+      "historic",
+      "di tích",
+      "điểm ngắm cảnh"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-newfoundland-and-labrador-cape-spear",
+    "slug": "cape-spear",
+    "region": "ca-newfoundland-and-labrador",
+    "region_name_vi": "Newfoundland and Labrador",
+    "country": "canada",
+    "name_vi": "Mũi Spear",
+    "name_en": "Cape Spear",
+    "name_local": "",
+    "categories": [
+      "park_garden",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 47.52361,
+      "lon": -52.61944
+    },
+    "address_vi": "St. John's, Newfoundland and Labrador",
+    "presentation_short_vi": "Điểm cực đông của Bắc Mỹ với ngọn hải đăng cổ nhất còn lại của Newfoundland, nơi đón bình minh sớm nhất lục địa.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-52.61944,47.52361&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=47.52361,-52.61944"
+    },
+    "tags": [
+      "nature",
+      "thắng cảnh",
+      "hải đăng"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-newfoundland-and-labrador-gros-morne-national-park",
+    "slug": "gros-morne-national-park",
+    "region": "ca-newfoundland-and-labrador",
+    "region_name_vi": "Newfoundland and Labrador",
+    "country": "canada",
+    "name_vi": "Vườn Quốc gia Gros Morne",
+    "name_en": "Gros Morne National Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 49.68944,
+      "lon": -57.73806
+    },
+    "address_vi": "Rocky Harbour, Newfoundland and Labrador",
+    "presentation_short_vi": "Di sản Thế giới UNESCO với vịnh hẹp (fjord), dãy Tablelands lộ lớp manti Trái Đất và cảnh quan băng hà ngoạn mục.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-57.73806,49.68944&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=49.68944,-57.73806"
+    },
+    "tags": [
+      "nature",
+      "UNESCO",
+      "vườn quốc gia"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-newfoundland-and-labrador-the-rooms",
+    "slug": "the-rooms",
+    "region": "ca-newfoundland-and-labrador",
+    "region_name_vi": "Newfoundland and Labrador",
+    "country": "canada",
+    "name_vi": "Bảo tàng The Rooms",
+    "name_en": "The Rooms",
+    "name_local": "",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 47.56624,
+      "lon": -52.71184
+    },
+    "address_vi": "St. John's, Newfoundland and Labrador",
+    "presentation_short_vi": "Tổ hợp bảo tàng, phòng trưng bày nghệ thuật và lưu trữ lớn nhất tỉnh, toà nhà hiện đại trên đồi nhìn ra thành phố St. John's.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-52.71184,47.56624&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=47.56624,-52.71184"
+    },
+    "tags": [
+      "modern",
+      "bảo tàng",
+      "nghệ thuật"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-newfoundland-and-labrador-lanse-aux-meadows",
+    "slug": "lanse-aux-meadows",
+    "region": "ca-newfoundland-and-labrador",
+    "region_name_vi": "Newfoundland and Labrador",
+    "country": "canada",
+    "name_vi": "L'Anse aux Meadows",
+    "name_en": "L'Anse aux Meadows",
+    "name_local": "L'Anse aux Meadows",
+    "categories": [
+      "monument",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 51.59639,
+      "lon": -55.53333
+    },
+    "address_vi": "L'Anse aux Meadows, Newfoundland and Labrador",
+    "presentation_short_vi": "Di sản Thế giới UNESCO, khu định cư của người Viking khoảng năm 1000, bằng chứng sớm nhất về người châu Âu đặt chân tới Bắc Mỹ.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-55.53333,51.59639&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=51.59639,-55.53333"
+    },
+    "tags": [
+      "historic",
+      "UNESCO",
+      "di sản"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-newfoundland-and-labrador-cape-bonavista-lighthouse",
+    "slug": "cape-bonavista-lighthouse",
+    "region": "ca-newfoundland-and-labrador",
+    "region_name_vi": "Newfoundland and Labrador",
+    "country": "canada",
+    "name_vi": "Hải đăng Mũi Bonavista",
+    "name_en": "Cape Bonavista Lighthouse",
+    "name_local": "",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 48.701389,
+      "lon": -53.085306
+    },
+    "address_vi": "Bonavista, Newfoundland and Labrador",
+    "presentation_short_vi": "Ngọn hải đăng sọc đỏ trắng năm 1843 nơi tương truyền John Cabot đặt chân tới Tân Thế giới năm 1497; vùng biển ngắm cá voi và chim biển.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-53.085306,48.701389&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=48.701389,-53.085306"
+    },
+    "tags": [
+      "historic",
+      "hải đăng",
+      "di tích"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-newfoundland-and-labrador-basilica-st-john-baptist",
+    "slug": "basilica-st-john-baptist",
+    "region": "ca-newfoundland-and-labrador",
+    "region_name_vi": "Newfoundland and Labrador",
+    "country": "canada",
+    "name_vi": "Vương cung Thánh đường Thánh Gioan Tẩy Giả",
+    "name_en": "Basilica Cathedral of St. John the Baptist",
+    "name_local": "",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 47.567379,
+      "lon": -52.710133
+    },
+    "address_vi": "St. John's, Newfoundland and Labrador",
+    "presentation_short_vi": "Nhà thờ Công giáo phong cách Phục hưng La Mã (1855), công trình biểu tượng trên nền cao nhìn xuống thành phố St. John's.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-52.710133,47.567379&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=47.567379,-52.710133"
+    },
+    "tags": [
+      "historic",
+      "nhà thờ",
+      "di tích"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-newfoundland-and-labrador-quidi-vidi",
+    "slug": "quidi-vidi",
+    "region": "ca-newfoundland-and-labrador",
+    "region_name_vi": "Newfoundland and Labrador",
+    "country": "canada",
+    "name_vi": "Làng chài Quidi Vidi",
+    "name_en": "Quidi Vidi Village",
+    "name_local": "",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 47.5744,
+      "lon": -52.6844
+    },
+    "address_vi": "St. John's, Newfoundland and Labrador",
+    "presentation_short_vi": "Làng chài cổ nép bên vụng biển kín gió, nay có xưởng bia thủ công nổi tiếng, một trong những góc nên thơ nhất St. John's.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-52.6844,47.5744&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=47.5744,-52.6844"
+    },
+    "tags": [
+      "historic",
+      "làng chài",
+      "thắng cảnh"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-newfoundland-and-labrador-twillingate",
+    "slug": "twillingate",
+    "region": "ca-newfoundland-and-labrador",
+    "region_name_vi": "Newfoundland and Labrador",
+    "country": "canada",
+    "name_vi": "Thị trấn Twillingate",
+    "name_en": "Twillingate",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 49.64444,
+      "lon": -54.74361
+    },
+    "address_vi": "Twillingate, Newfoundland and Labrador",
+    "presentation_short_vi": "Thị trấn ven biển được mệnh danh 'thủ đô băng trôi thế giới', điểm lý tưởng ngắm núi băng và cá voi dọc 'Iceberg Alley'.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-54.74361,49.64444&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=49.64444,-54.74361"
+    },
+    "tags": [
+      "nature",
+      "thắng cảnh",
+      "núi băng"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-newfoundland-and-labrador-terra-nova-national-park",
+    "slug": "terra-nova-national-park",
+    "region": "ca-newfoundland-and-labrador",
+    "region_name_vi": "Newfoundland and Labrador",
+    "country": "canada",
+    "name_vi": "Vườn Quốc gia Terra Nova",
+    "name_en": "Terra Nova National Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 48.53056,
+      "lon": -53.92806
+    },
+    "address_vi": "Newfoundland and Labrador",
+    "presentation_short_vi": "Vườn quốc gia cực đông Canada với vịnh hẹp, rừng phương bắc và bờ biển lởm chởm, nơi chèo kayak và ngắm núi băng.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-53.92806,48.53056&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=48.53056,-53.92806"
+    },
+    "tags": [
+      "nature",
+      "thắng cảnh",
+      "vườn quốc gia"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-newfoundland-and-labrador-johnson-geo-centre",
+    "slug": "johnson-geo-centre",
+    "region": "ca-newfoundland-and-labrador",
+    "region_name_vi": "Newfoundland and Labrador",
+    "country": "canada",
+    "name_vi": "Trung tâm Địa chất Johnson",
+    "name_en": "Johnson Geo Centre",
+    "name_local": "",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 47.5757,
+      "lon": -52.6875
+    },
+    "address_vi": "St. John's, Newfoundland and Labrador",
+    "presentation_short_vi": "Bảo tàng địa chất phần lớn nằm dưới lòng đất trên Đồi Signal, giới thiệu đá 3,5 tỷ năm tuổi và câu chuyện con tàu Titanic.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-52.6875,47.5757&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=47.5757,-52.6875"
+    },
+    "tags": [
+      "modern",
+      "bảo tàng",
+      "khoa học"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ca-newfoundland-and-labrador-george-street",
+    "slug": "george-street",
+    "region": "ca-newfoundland-and-labrador",
+    "region_name_vi": "Newfoundland and Labrador",
+    "country": "canada",
+    "name_vi": "Phố George",
+    "name_en": "George Street",
+    "name_local": "",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 47.5666,
+      "lon": -52.7106
+    },
+    "address_vi": "St. John's, Newfoundland and Labrador",
+    "presentation_short_vi": "Con phố ngắn nổi tiếng với mật độ quán bar, pub bậc nhất Bắc Mỹ, trung tâm đời sống về đêm sôi động của St. John's.",
+    "rating": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=-52.7106,47.5666&z=16&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=47.5666,-52.7106"
+    },
+    "tags": [
+      "modern",
+      "giải trí",
+      "về đêm"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

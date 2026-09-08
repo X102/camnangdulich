@@ -1,0 +1,380 @@
+[
+  {
+    "id": "ie-dublin-trinity-college",
+    "slug": "trinity-college",
+    "region": "ie-dublin",
+    "country": "ireland",
+    "region_name_vi": "Dublin",
+    "name_vi": "Đại học Trinity College và Sách Kells",
+    "name_en": "Trinity College Dublin (Book of Kells)",
+    "name_local": "",
+    "categories": [
+      "other",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 53.3438,
+      "lon": -6.2546
+    },
+    "address_vi": "College Green, Dublin 2",
+    "presentation_short_vi": "Trường đại học lâu đời nhất Ireland (1592), có Thư viện Cổ với Long Room tráng lệ và bản thảo minh họa Sách Kells thế kỷ 9 trứ danh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=53.3438,-6.2546",
+      "yandex": "https://yandex.com/maps/?pt=-6.2546,53.3438&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "history",
+      "library",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "ie-dublin-dublin-castle",
+    "slug": "dublin-castle",
+    "region": "ie-dublin",
+    "country": "ireland",
+    "region_name_vi": "Dublin",
+    "name_vi": "Lâu đài Dublin",
+    "name_en": "Dublin Castle",
+    "name_local": "",
+    "categories": [
+      "palace",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 53.3429,
+      "lon": -6.2674
+    },
+    "address_vi": "Dame Street, Dublin 2",
+    "presentation_short_vi": "Lâu đài có từ thế kỷ 13, trung tâm quyền lực Anh tại Ireland suốt 700 năm, nay là quần thể lịch sử với các phòng khánh tiết lộng lẫy.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=53.3429,-6.2674",
+      "yandex": "https://yandex.com/maps/?pt=-6.2674,53.3429&z=16&l=map"
+    },
+    "tags": [
+      "palace",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "ie-dublin-st-patricks-cathedral",
+    "slug": "st-patricks-cathedral",
+    "region": "ie-dublin",
+    "country": "ireland",
+    "region_name_vi": "Dublin",
+    "name_vi": "Nhà thờ chính tòa Thánh Patrick",
+    "name_en": "St Patrick's Cathedral",
+    "name_local": "",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 53.3395,
+      "lon": -6.2717
+    },
+    "address_vi": "St Patrick's Close, Dublin 8",
+    "presentation_short_vi": "Nhà thờ lớn nhất Ireland, xây từ năm 1220 tại nơi tương truyền Thánh Patrick làm lễ rửa tội; văn hào Jonathan Swift từng làm chủ giáo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=53.3395,-6.2717",
+      "yandex": "https://yandex.com/maps/?pt=-6.2717,53.3395&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "gothic",
+      "history",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "ie-dublin-christ-church-cathedral",
+    "slug": "christ-church-cathedral",
+    "region": "ie-dublin",
+    "country": "ireland",
+    "region_name_vi": "Dublin",
+    "name_vi": "Nhà thờ chính tòa Christ Church",
+    "name_en": "Christ Church Cathedral",
+    "name_local": "",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 53.3434,
+      "lon": -6.2711
+    },
+    "address_vi": "Christchurch Place, Dublin 8",
+    "presentation_short_vi": "Nhà thờ chính tòa cổ nhất Dublin, khởi dựng khoảng năm 1030, nổi tiếng với hầm mộ rộng lớn và kiến trúc Romanesque - Gothic.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=53.3434,-6.2711",
+      "yandex": "https://yandex.com/maps/?pt=-6.2711,53.3434&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "ie-dublin-guinness-storehouse",
+    "slug": "guinness-storehouse",
+    "region": "ie-dublin",
+    "country": "ireland",
+    "region_name_vi": "Dublin",
+    "name_vi": "Guinness Storehouse",
+    "name_en": "Guinness Storehouse",
+    "name_local": "",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 53.3419,
+      "lon": -6.2867
+    },
+    "address_vi": "St. James's Gate, Dublin 8",
+    "presentation_short_vi": "Trung tâm trải nghiệm bia Guinness bảy tầng hình cốc bia khổng lồ, kết thúc ở Gravity Bar ngắm toàn cảnh Dublin — điểm hút khách số một Ireland.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=53.3419,-6.2867",
+      "yandex": "https://yandex.com/maps/?pt=-6.2867,53.3419&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "modern",
+      "experience",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "ie-dublin-kilmainham-gaol",
+    "slug": "kilmainham-gaol",
+    "region": "ie-dublin",
+    "country": "ireland",
+    "region_name_vi": "Dublin",
+    "name_vi": "Nhà tù Kilmainham Gaol",
+    "name_en": "Kilmainham Gaol",
+    "name_local": "",
+    "categories": [
+      "museum",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 53.3417,
+      "lon": -6.3094
+    },
+    "address_vi": "Inchicore Road, Kilmainham, Dublin 8",
+    "presentation_short_vi": "Nhà tù thế kỷ 18 nay là bảo tàng, nơi giam giữ và hành quyết nhiều thủ lĩnh phong trào giành độc lập Ireland — biểu tượng lịch sử dân tộc.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=53.3417,-6.3094",
+      "yandex": "https://yandex.com/maps/?pt=-6.3094,53.3417&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "history",
+      "memorial"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "ie-dublin-phoenix-park",
+    "slug": "phoenix-park",
+    "region": "ie-dublin",
+    "country": "ireland",
+    "region_name_vi": "Dublin",
+    "name_vi": "Công viên Phoenix",
+    "name_en": "Phoenix Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 53.3559,
+      "lon": -6.3298
+    },
+    "address_vi": "Dublin 8",
+    "presentation_short_vi": "Một trong những công viên đô thị có tường bao lớn nhất châu Âu (707 ha), nơi có đàn hươu hoang, Dinh Tổng thống và Vườn thú Dublin.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=53.3559,-6.3298",
+      "yandex": "https://yandex.com/maps/?pt=-6.3298,53.3559&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "nature",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "ie-dublin-st-stephens-green",
+    "slug": "st-stephens-green",
+    "region": "ie-dublin",
+    "country": "ireland",
+    "region_name_vi": "Dublin",
+    "name_vi": "Công viên St Stephen's Green",
+    "name_en": "St Stephen's Green",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 53.3382,
+      "lon": -6.2591
+    },
+    "address_vi": "Dublin 2",
+    "presentation_short_vi": "Công viên trung tâm kiểu Victoria rợp bóng cây với hồ nước và tượng đài, ốc đảo xanh ngay cạnh phố mua sắm Grafton Street.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=53.3382,-6.2591",
+      "yandex": "https://yandex.com/maps/?pt=-6.2591,53.3382&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "scenic",
+      "central"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "ie-dublin-ha-penny-bridge",
+    "slug": "ha-penny-bridge",
+    "region": "ie-dublin",
+    "country": "ireland",
+    "region_name_vi": "Dublin",
+    "name_vi": "Cầu Ha'penny",
+    "name_en": "Ha'penny Bridge",
+    "name_local": "",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 53.3461,
+      "lon": -6.263
+    },
+    "address_vi": "Bắc qua sông Liffey, Dublin",
+    "presentation_short_vi": "Cây cầu đi bộ bằng gang duyên dáng bắc qua sông Liffey từ năm 1816, biểu tượng lãng mạn và được chụp ảnh nhiều nhất của Dublin.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=53.3461,-6.263",
+      "yandex": "https://yandex.com/maps/?pt=-6.263,53.3461&z=16&l=map"
+    },
+    "tags": [
+      "bridge",
+      "landmark",
+      "iconic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "ie-dublin-temple-bar",
+    "slug": "temple-bar",
+    "region": "ie-dublin",
+    "country": "ireland",
+    "region_name_vi": "Dublin",
+    "name_vi": "Khu phố Temple Bar",
+    "name_en": "Temple Bar",
+    "name_local": "",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 53.3453,
+      "lon": -6.2635
+    },
+    "address_vi": "Dublin 2",
+    "presentation_short_vi": "Khu phố cổ lát đá cuội bên bờ nam sông Liffey, trung tâm văn hóa - giải trí về đêm nổi tiếng với các quán pub nhạc sống truyền thống.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=53.3453,-6.2635",
+      "yandex": "https://yandex.com/maps/?pt=-6.2635,53.3453&z=16&l=map"
+    },
+    "tags": [
+      "nightlife",
+      "culture",
+      "street"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "ie-dublin-spire-of-dublin",
+    "slug": "spire-of-dublin",
+    "region": "ie-dublin",
+    "country": "ireland",
+    "region_name_vi": "Dublin",
+    "name_vi": "Tháp Spire of Dublin",
+    "name_en": "Spire of Dublin",
+    "name_local": "",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 53.3498,
+      "lon": -6.2603
+    },
+    "address_vi": "O'Connell Street, Dublin 1",
+    "presentation_short_vi": "Cột tháp thép không gỉ cao 120 m dựng năm 2003 giữa đại lộ O'Connell, công trình điêu khắc đô thị hiện đại cao nhất thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=53.3498,-6.2603",
+      "yandex": "https://yandex.com/maps/?pt=-6.2603,53.3498&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "monument",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "ie-dublin-national-museum-archaeology",
+    "slug": "national-museum-archaeology",
+    "region": "ie-dublin",
+    "country": "ireland",
+    "region_name_vi": "Dublin",
+    "name_vi": "Bảo tàng Quốc gia Ireland – Khảo cổ học",
+    "name_en": "National Museum of Ireland – Archaeology",
+    "name_local": "",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 53.3406,
+      "lon": -6.2546
+    },
+    "address_vi": "Kildare Street, Dublin 2",
+    "presentation_short_vi": "Bảo tàng trưng bày cổ vật vàng thời đồ đồng, kho báu Celtic - Trung cổ và các xác ướp đầm lầy trứ danh của Ireland.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=53.3406,-6.2546",
+      "yandex": "https://yandex.com/maps/?pt=-6.2546,53.3406&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "history",
+      "archaeology"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  }
+]

@@ -1,0 +1,437 @@
+[
+  {
+    "id": "gb-scotland-edinburgh-castle",
+    "slug": "edinburgh-castle",
+    "region": "gb-scotland",
+    "country": "uk",
+    "region_name_vi": "Scotland (Xcốt-len)",
+    "name_vi": "Lâu đài Edinburgh",
+    "name_en": "Edinburgh Castle",
+    "name_local": "",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 55.9486,
+      "lon": -3.1999
+    },
+    "address_vi": "Castlehill, Edinburgh",
+    "presentation_short_vi": "Pháo đài cổ ngự trên đỉnh đá núi lửa, biểu tượng của Edinburgh với Đá Định Mệnh và vương miện Scotland.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.9486,-3.1999",
+      "yandex": "https://yandex.com/maps/?pt=-3.1999,55.9486&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "castle",
+      "iconic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "gb-scotland-royal-mile",
+    "slug": "royal-mile",
+    "region": "gb-scotland",
+    "country": "uk",
+    "region_name_vi": "Scotland (Xcốt-len)",
+    "name_vi": "Phố cổ Royal Mile, Edinburgh",
+    "name_en": "The Royal Mile (Old Town Edinburgh)",
+    "name_local": "",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 55.95,
+      "lon": -3.1858
+    },
+    "address_vi": "Royal Mile, Old Town, Edinburgh",
+    "presentation_short_vi": "Trục phố cổ lát đá nối Lâu đài Edinburgh với Cung điện Holyroodhouse, trái tim lịch sử của thủ đô Scotland.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.95,-3.1858",
+      "yandex": "https://yandex.com/maps/?pt=-3.1858,55.95&z=16&l=map"
+    },
+    "tags": [
+      "oldtown",
+      "historic",
+      "street"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "gb-scotland-holyroodhouse",
+    "slug": "holyroodhouse",
+    "region": "gb-scotland",
+    "country": "uk",
+    "region_name_vi": "Scotland (Xcốt-len)",
+    "name_vi": "Cung điện Holyroodhouse",
+    "name_en": "Palace of Holyroodhouse",
+    "name_local": "",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 55.9527,
+      "lon": -3.1722
+    },
+    "address_vi": "Canongate, Edinburgh",
+    "presentation_short_vi": "Dinh thự chính thức của quốc vương Anh tại Scotland, gắn với Nữ hoàng Mary xứ Scots và tu viện đổ nát bên cạnh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.9527,-3.1722",
+      "yandex": "https://yandex.com/maps/?pt=-3.1722,55.9527&z=16&l=map"
+    },
+    "tags": [
+      "palace",
+      "royal",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "gb-scotland-arthurs-seat",
+    "slug": "arthurs-seat",
+    "region": "gb-scotland",
+    "country": "uk",
+    "region_name_vi": "Scotland (Xcốt-len)",
+    "name_vi": "Đỉnh Arthur's Seat (Công viên Holyrood)",
+    "name_en": "Arthur's Seat, Holyrood Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 55.9444,
+      "lon": -3.1618
+    },
+    "address_vi": "Holyrood Park, Edinburgh",
+    "presentation_short_vi": "Ngọn đồi núi lửa cổ cao 251 m ngay trong lòng Edinburgh, điểm ngắm toàn cảnh thành phố được yêu thích.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.9444,-3.1618",
+      "yandex": "https://yandex.com/maps/?pt=-3.1618,55.9444&z=16&l=map"
+    },
+    "tags": [
+      "hill",
+      "nature",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "gb-scotland-scott-monument",
+    "slug": "scott-monument",
+    "region": "gb-scotland",
+    "country": "uk",
+    "region_name_vi": "Scotland (Xcốt-len)",
+    "name_vi": "Đài tưởng niệm Scott",
+    "name_en": "Scott Monument",
+    "name_local": "",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 55.9522,
+      "lon": -3.1936
+    },
+    "address_vi": "East Princes Street Gardens, Edinburgh",
+    "presentation_short_vi": "Tháp tưởng niệm Gothic cao 61 m dành cho văn hào Walter Scott, đài kỷ niệm văn học lớn nhất thế giới.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.9522,-3.1936",
+      "yandex": "https://yandex.com/maps/?pt=-3.1936,55.9522&z=16&l=map"
+    },
+    "tags": [
+      "monument",
+      "gothic",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "gb-scotland-national-museum-scotland",
+    "slug": "national-museum-scotland",
+    "region": "gb-scotland",
+    "country": "uk",
+    "region_name_vi": "Scotland (Xcốt-len)",
+    "name_vi": "Bảo tàng Quốc gia Scotland",
+    "name_en": "National Museum of Scotland",
+    "name_local": "",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 55.9469,
+      "lon": -3.1897
+    },
+    "address_vi": "Chambers Street, Edinburgh",
+    "presentation_short_vi": "Bảo tàng lớn trưng bày lịch sử tự nhiên, khoa học, văn hóa Scotland và thế giới, gồm cả cừu nhân bản Dolly.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.9469,-3.1897",
+      "yandex": "https://yandex.com/maps/?pt=-3.1897,55.9469&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "history",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "gb-scotland-stirling-castle",
+    "slug": "stirling-castle",
+    "region": "gb-scotland",
+    "country": "uk",
+    "region_name_vi": "Scotland (Xcốt-len)",
+    "name_vi": "Lâu đài Stirling",
+    "name_en": "Stirling Castle",
+    "name_local": "",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 56.1239,
+      "lon": -3.9478
+    },
+    "address_vi": "Castle Esplanade, Stirling",
+    "presentation_short_vi": "Một trong những lâu đài lớn và quan trọng nhất Scotland trên vách đá, gắn liền các vua Stuart.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=56.1239,-3.9478",
+      "yandex": "https://yandex.com/maps/?pt=-3.9478,56.1239&z=16&l=map"
+    },
+    "tags": [
+      "castle",
+      "historic",
+      "royal"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "gb-scotland-urquhart-loch-ness",
+    "slug": "urquhart-loch-ness",
+    "region": "gb-scotland",
+    "country": "uk",
+    "region_name_vi": "Scotland (Xcốt-len)",
+    "name_vi": "Lâu đài Urquhart bên hồ Loch Ness",
+    "name_en": "Urquhart Castle & Loch Ness",
+    "name_local": "",
+    "categories": [
+      "fortress",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 57.3242,
+      "lon": -4.4425
+    },
+    "address_vi": "Drumnadrochit, Loch Ness",
+    "presentation_short_vi": "Phế tích lâu đài thời Trung cổ soi bóng xuống hồ Loch Ness huyền thoại nơi lưu truyền quái vật Nessie.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=57.3242,-4.4425",
+      "yandex": "https://yandex.com/maps/?pt=-4.4425,57.3242&z=16&l=map"
+    },
+    "tags": [
+      "castle",
+      "lake",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "gb-scotland-eilean-donan",
+    "slug": "eilean-donan",
+    "region": "gb-scotland",
+    "country": "uk",
+    "region_name_vi": "Scotland (Xcốt-len)",
+    "name_vi": "Lâu đài Eilean Donan",
+    "name_en": "Eilean Donan Castle",
+    "name_local": "",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 57.274,
+      "lon": -5.5164
+    },
+    "address_vi": "Dornie, Kyle of Lochalsh",
+    "presentation_short_vi": "Lâu đài trên đảo nhỏ nơi ba hồ nước gặp nhau, nối bờ bằng cầu đá vòm, một trong những lâu đài được chụp ảnh nhiều nhất Scotland.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=57.274,-5.5164",
+      "yandex": "https://yandex.com/maps/?pt=-5.5164,57.274&z=16&l=map"
+    },
+    "tags": [
+      "castle",
+      "iconic",
+      "highlands"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "gb-scotland-ben-nevis",
+    "slug": "ben-nevis",
+    "region": "gb-scotland",
+    "country": "uk",
+    "region_name_vi": "Scotland (Xcốt-len)",
+    "name_vi": "Đỉnh Ben Nevis",
+    "name_en": "Ben Nevis",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 56.7969,
+      "lon": -5.0036
+    },
+    "address_vi": "Fort William, Highland",
+    "presentation_short_vi": "Ngọn núi cao nhất Vương quốc Anh (1.345 m), điểm leo núi và đi bộ đường dài nổi tiếng vùng Cao nguyên.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=56.7969,-5.0036",
+      "yandex": "https://yandex.com/maps/?pt=-5.0036,56.7969&z=16&l=map"
+    },
+    "tags": [
+      "mountain",
+      "nature",
+      "hiking"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "gb-scotland-glenfinnan-viaduct",
+    "slug": "glenfinnan-viaduct",
+    "region": "gb-scotland",
+    "country": "uk",
+    "region_name_vi": "Scotland (Xcốt-len)",
+    "name_vi": "Cầu cạn Glenfinnan",
+    "name_en": "Glenfinnan Viaduct",
+    "name_local": "",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 56.8726,
+      "lon": -5.4331
+    },
+    "address_vi": "Glenfinnan, Highland",
+    "presentation_short_vi": "Cầu cạn đường sắt hình vòng cung 21 nhịp giữa cảnh núi hồ, nổi tiếng qua loạt phim Harry Potter.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=56.8726,-5.4331",
+      "yandex": "https://yandex.com/maps/?pt=-5.4331,56.8726&z=16&l=map"
+    },
+    "tags": [
+      "bridge",
+      "railway",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "gb-scotland-old-man-of-storr",
+    "slug": "old-man-of-storr",
+    "region": "gb-scotland",
+    "country": "uk",
+    "region_name_vi": "Scotland (Xcốt-len)",
+    "name_vi": "Núi đá Old Man of Storr, đảo Skye",
+    "name_en": "The Old Man of Storr, Isle of Skye",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 57.5069,
+      "lon": -6.1836
+    },
+    "address_vi": "Trotternish, Isle of Skye",
+    "presentation_short_vi": "Cột đá bazan cao vút trên sườn đồi đảo Skye, một trong những cảnh quan tự nhiên mang tính biểu tượng của Scotland.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=57.5069,-6.1836",
+      "yandex": "https://yandex.com/maps/?pt=-6.1836,57.5069&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "rock",
+      "hiking"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "gb-scotland-the-kelpies",
+    "slug": "the-kelpies",
+    "region": "gb-scotland",
+    "country": "uk",
+    "region_name_vi": "Scotland (Xcốt-len)",
+    "name_vi": "Tượng ngựa The Kelpies",
+    "name_en": "The Kelpies",
+    "name_local": "",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 56.0197,
+      "lon": -3.7556
+    },
+    "address_vi": "The Helix, Falkirk",
+    "presentation_short_vi": "Cặp tượng đầu ngựa thép cao 30 m bên kênh đào, tác phẩm điêu khắc hiện đại lớn nhất Scotland.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=56.0197,-3.7556",
+      "yandex": "https://yandex.com/maps/?pt=-3.7556,56.0197&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "sculpture",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "gb-scotland-glasgow-cathedral",
+    "slug": "glasgow-cathedral",
+    "region": "gb-scotland",
+    "country": "uk",
+    "region_name_vi": "Scotland (Xcốt-len)",
+    "name_vi": "Nhà thờ lớn Glasgow",
+    "name_en": "Glasgow Cathedral",
+    "name_local": "",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 55.8628,
+      "lon": -4.235
+    },
+    "address_vi": "Castle Street, Glasgow",
+    "presentation_short_vi": "Thánh đường Gothic thời Trung cổ hiếm hoi còn nguyên vẹn ở Scotland, xây trên mộ Thánh Mungo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.8628,-4.235",
+      "yandex": "https://yandex.com/maps/?pt=-4.235,55.8628&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "gothic",
+      "medieval"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  }
+]

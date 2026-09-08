@@ -1,0 +1,400 @@
+[
+  {
+    "id": "us-california-golden-gate-bridge",
+    "slug": "golden-gate-bridge",
+    "region": "us-california",
+    "country": "usa",
+    "region_name_vi": "California",
+    "name_vi": "Cầu Cổng Vàng (Golden Gate)",
+    "name_en": "Golden Gate Bridge",
+    "name_local": "",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 37.8199,
+      "lon": -122.4783
+    },
+    "address_vi": "Eo biển Cổng Vàng, thành phố San Francisco, bang California",
+    "presentation_short_vi": "Cây cầu treo màu đỏ cam mang tính biểu tượng bắc qua eo biển Cổng Vàng, nối San Francisco với hạt Marin. Hoàn thành năm 1937 và là một trong những công trình được chụp ảnh nhiều nhất thế giới.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.8199,-122.4783",
+      "yandex": "https://yandex.com/maps/?pt=-122.4783,37.8199&z=16&l=map"
+    },
+    "tags": [
+      "bridge",
+      "landmark",
+      "modern",
+      "top",
+      "san-francisco"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-california-alcatraz-island",
+    "slug": "alcatraz-island",
+    "region": "us-california",
+    "country": "usa",
+    "region_name_vi": "California",
+    "name_vi": "Đảo Alcatraz (An-ca-trát)",
+    "name_en": "Alcatraz Island",
+    "name_local": "",
+    "categories": [
+      "fortress",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 37.8267,
+      "lon": -122.423
+    },
+    "address_vi": "Giữa vịnh San Francisco, bang California",
+    "presentation_short_vi": "Hòn đảo từng là pháo đài quân sự rồi nhà tù liên bang khét tiếng giữa vịnh San Francisco, nay là điểm tham quan lịch sử nổi tiếng do Cục Công viên Quốc gia quản lý.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.8267,-122.423",
+      "yandex": "https://yandex.com/maps/?pt=-122.423,37.8267&z=16&l=map"
+    },
+    "tags": [
+      "historic",
+      "prison",
+      "island",
+      "top",
+      "san-francisco"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-california-hollywood-sign",
+    "slug": "hollywood-sign",
+    "region": "us-california",
+    "country": "usa",
+    "region_name_vi": "California",
+    "name_vi": "Biển hiệu Hollywood",
+    "name_en": "Hollywood Sign",
+    "name_local": "",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 34.1341,
+      "lon": -118.3215
+    },
+    "address_vi": "Núi Lee, khu Hollywood Hills, thành phố Los Angeles, bang California",
+    "presentation_short_vi": "Biển hiệu chữ trắng khổng lồ trên sườn núi Lee, biểu tượng của kinh đô điện ảnh Hollywood và của cả thành phố Los Angeles.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.1341,-118.3215",
+      "yandex": "https://yandex.com/maps/?pt=-118.3215,34.1341&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "iconic",
+      "los-angeles",
+      "modern",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-california-disneyland-park",
+    "slug": "disneyland-park",
+    "region": "us-california",
+    "country": "usa",
+    "region_name_vi": "California",
+    "name_vi": "Công viên Disneyland",
+    "name_en": "Disneyland Park",
+    "name_local": "",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 33.8121,
+      "lon": -117.919
+    },
+    "address_vi": "Thành phố Anaheim, bang California",
+    "presentation_short_vi": "Công viên giải trí Disneyland đầu tiên trên thế giới, khai trương năm 1955, nổi tiếng với lâu đài công chúa và các khu vui chơi theo chủ đề dành cho mọi lứa tuổi.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=33.8121,-117.919",
+      "yandex": "https://yandex.com/maps/?pt=-117.919,33.8121&z=16&l=map"
+    },
+    "tags": [
+      "theme-park",
+      "entertainment",
+      "family",
+      "modern",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-california-yosemite-national-park",
+    "slug": "yosemite-national-park",
+    "region": "us-california",
+    "country": "usa",
+    "region_name_vi": "California",
+    "name_vi": "Vườn quốc gia Yosemite (Yô-xê-mi-tê)",
+    "name_en": "Yosemite National Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 37.8651,
+      "lon": -119.5383
+    },
+    "address_vi": "Dãy Sierra Nevada, bang California",
+    "presentation_short_vi": "Vườn quốc gia nổi tiếng thế giới với các vách đá granit khổng lồ như El Capitan và Half Dome, thác nước cao và rừng tùng bách cổ thụ; Di sản Thế giới UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=37.8651,-119.5383",
+      "yandex": "https://yandex.com/maps/?pt=-119.5383,37.8651&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "national-park",
+      "unesco",
+      "waterfall",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-california-lake-tahoe",
+    "slug": "lake-tahoe",
+    "region": "us-california",
+    "country": "usa",
+    "region_name_vi": "California",
+    "name_vi": "Hồ Tahoe (Ta-hô)",
+    "name_en": "Lake Tahoe",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 39.0968,
+      "lon": -120.0324
+    },
+    "address_vi": "Ranh giới California – Nevada, dãy Sierra Nevada",
+    "presentation_short_vi": "Hồ nước ngọt trên núi lớn và sâu, nổi tiếng với làn nước trong xanh, các bãi biển và những khu trượt tuyết quanh năm nhộn nhịp du khách.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=39.0968,-120.0324",
+      "yandex": "https://yandex.com/maps/?pt=-120.0324,39.0968&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "lake",
+      "mountain",
+      "skiing",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-california-death-valley-national-park",
+    "slug": "death-valley-national-park",
+    "region": "us-california",
+    "country": "usa",
+    "region_name_vi": "California",
+    "name_vi": "Vườn quốc gia Thung lũng Chết (Death Valley)",
+    "name_en": "Death Valley National Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.4617,
+      "lon": -116.8666
+    },
+    "address_vi": "Sa mạc Mojave, đông nam bang California (một phần thuộc Nevada)",
+    "presentation_short_vi": "Vườn quốc gia sa mạc rộng lớn, là nơi thấp nhất và nóng nhất Bắc Mỹ với đồng muối Badwater, cồn cát và những dãy núi nhiều màu sắc.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.4617,-116.8666",
+      "yandex": "https://yandex.com/maps/?pt=-116.8666,36.4617&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "national-park",
+      "desert",
+      "landscape",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-california-griffith-observatory",
+    "slug": "griffith-observatory",
+    "region": "us-california",
+    "country": "usa",
+    "region_name_vi": "California",
+    "name_vi": "Đài thiên văn Griffith",
+    "name_en": "Griffith Observatory",
+    "name_local": "",
+    "categories": [
+      "other",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 34.1184,
+      "lon": -118.3004
+    },
+    "address_vi": "Công viên Griffith, thành phố Los Angeles, bang California",
+    "presentation_short_vi": "Đài quan sát thiên văn miễn phí trên đồi Mount Hollywood, nổi tiếng với triển lãm khoa học vũ trụ và tầm nhìn toàn cảnh Los Angeles cùng biển hiệu Hollywood.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.1184,-118.3004",
+      "yandex": "https://yandex.com/maps/?pt=-118.3004,34.1184&z=16&l=map"
+    },
+    "tags": [
+      "observatory",
+      "science",
+      "view",
+      "los-angeles",
+      "modern"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-california-getty-center",
+    "slug": "getty-center",
+    "region": "us-california",
+    "country": "usa",
+    "region_name_vi": "California",
+    "name_vi": "Trung tâm Getty (Bảo tàng Getty)",
+    "name_en": "Getty Center",
+    "name_local": "",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 34.078,
+      "lon": -118.4741
+    },
+    "address_vi": "Khu Brentwood, thành phố Los Angeles, bang California",
+    "presentation_short_vi": "Bảo tàng nghệ thuật danh tiếng với kiến trúc hiện đại bằng đá travertine, sân vườn đẹp và bộ sưu tập hội họa châu Âu; vào cửa miễn phí.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.078,-118.4741",
+      "yandex": "https://yandex.com/maps/?pt=-118.4741,34.078&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "art",
+      "architecture",
+      "los-angeles",
+      "view"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-california-santa-monica-pier",
+    "slug": "santa-monica-pier",
+    "region": "us-california",
+    "country": "usa",
+    "region_name_vi": "California",
+    "name_vi": "Cầu tàu Santa Monica",
+    "name_en": "Santa Monica Pier",
+    "name_local": "",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 34.0089,
+      "lon": -118.4973
+    },
+    "address_vi": "Thành phố Santa Monica, vùng Los Angeles, bang California",
+    "presentation_short_vi": "Cầu tàu giải trí lịch sử bên bờ Thái Bình Dương với công viên trò chơi, vòng đu quay và là điểm kết thúc biểu tượng của Đường 66 (Route 66).",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=34.0089,-118.4973",
+      "yandex": "https://yandex.com/maps/?pt=-118.4973,34.0089&z=16&l=map"
+    },
+    "tags": [
+      "pier",
+      "beach",
+      "entertainment",
+      "route66",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-california-sequoia-national-park",
+    "slug": "sequoia-national-park",
+    "region": "us-california",
+    "country": "usa",
+    "region_name_vi": "California",
+    "name_vi": "Vườn quốc gia Sequoia (Xê-koi-a)",
+    "name_en": "Sequoia National Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.5816,
+      "lon": -118.7514
+    },
+    "address_vi": "Dãy Sierra Nevada, bang California",
+    "presentation_short_vi": "Vườn quốc gia bảo tồn những rừng tùng khổng lồ (giant sequoia), trong đó có cây General Sherman — cây lớn nhất thế giới tính theo thể tích.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.5816,-118.7514",
+      "yandex": "https://yandex.com/maps/?pt=-118.7514,36.5816&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "national-park",
+      "forest",
+      "giant-trees",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-california-san-diego-zoo",
+    "slug": "san-diego-zoo",
+    "region": "us-california",
+    "country": "usa",
+    "region_name_vi": "California",
+    "name_vi": "Vườn thú San Diego",
+    "name_en": "San Diego Zoo",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 32.7353,
+      "lon": -117.149
+    },
+    "address_vi": "Công viên Balboa, thành phố San Diego, bang California",
+    "presentation_short_vi": "Một trong những vườn thú nổi tiếng và lớn nhất thế giới, nằm trong công viên Balboa, nuôi dưỡng hàng nghìn con thú thuộc hàng trăm loài, kể cả gấu trúc.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=32.7353,-117.149",
+      "yandex": "https://yandex.com/maps/?pt=-117.149,32.7353&z=16&l=map"
+    },
+    "tags": [
+      "zoo",
+      "family",
+      "nature",
+      "san-diego",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

@@ -1,0 +1,441 @@
+[
+  {
+    "id": "cz-karlovy-vary-hanh-lang-coi-xay-mlynska",
+    "slug": "hanh-lang-coi-xay-mlynska",
+    "region": "cz-karlovy-vary",
+    "country": "czech",
+    "region_name_vi": "Karlovy Vary",
+    "name_vi": "Hành lang Cối xay (Mlýnská kolonáda)",
+    "name_en": "Mill Colonnade",
+    "name_local": "Mlýnská kolonáda",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 50.223,
+      "lon": 12.881
+    },
+    "address_vi": "Mlýnské nábřeží, Karlovy Vary",
+    "presentation_short_vi": "Dãy hành lang tân Phục Hưng nguy nga với 124 cột và 5 suối khoáng nóng; công trình biểu tượng nhất trong các dãy colonnade của thành phố suối khoáng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.223,12.881",
+      "yandex": "https://yandex.com/maps/?pt=12.881,50.223&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "architecture",
+      "spa",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-karlovy-vary-hanh-lang-suoi-nong-vridlo",
+    "slug": "hanh-lang-suoi-nong-vridlo",
+    "region": "cz-karlovy-vary",
+    "country": "czech",
+    "region_name_vi": "Karlovy Vary",
+    "name_vi": "Hành lang Suối nóng Vřídlo",
+    "name_en": "Hot Spring Colonnade",
+    "name_local": "Vřídelní kolonáda",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 50.2214,
+      "lon": 12.8835
+    },
+    "address_vi": "Divadelní náměstí, Karlovy Vary",
+    "presentation_short_vi": "Dãy hành lang hiện đại bao quanh mạch phun Vřídlo cao tới 12 m, suối khoáng nóng và mạnh nhất Karlovy Vary (khoảng 72°C); nơi du khách nếm nước khoáng bằng cốc sứ có vòi.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.2214,12.8835",
+      "yandex": "https://yandex.com/maps/?pt=12.8835,50.2214&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "spa",
+      "geyser",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-karlovy-vary-hanh-lang-cho-trzni",
+    "slug": "hanh-lang-cho-trzni",
+    "region": "cz-karlovy-vary",
+    "country": "czech",
+    "region_name_vi": "Karlovy Vary",
+    "name_vi": "Hành lang Chợ (Tržní)",
+    "name_en": "Market Colonnade",
+    "name_local": "Tržní kolonáda",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 50.2222,
+      "lon": 12.8826
+    },
+    "address_vi": "Tržiště, Karlovy Vary",
+    "presentation_short_vi": "Hành lang gỗ trắng chạm khắc tinh xảo phong cách Thụy Sĩ, che các suối khoáng gần nơi tương truyền vua Karel IV phát hiện nguồn nước nóng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.2222,12.8826",
+      "yandex": "https://yandex.com/maps/?pt=12.8826,50.2222&z=16&l=map"
+    },
+    "tags": [
+      "architecture",
+      "spa",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-karlovy-vary-hanh-lang-cong-vien-sadova",
+    "slug": "hanh-lang-cong-vien-sadova",
+    "region": "cz-karlovy-vary",
+    "country": "czech",
+    "region_name_vi": "Karlovy Vary",
+    "name_vi": "Hành lang Công viên (Sadová)",
+    "name_en": "Park Colonnade",
+    "name_local": "Sadová kolonáda",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 50.2268,
+      "lon": 12.8793
+    },
+    "address_vi": "Sady Karla IV, Karlovy Vary",
+    "presentation_short_vi": "Hành lang gang đúc duyên dáng phong cách tân Baroque nằm trong công viên Dvořák, di tích còn lại của khu nhà kính Blanenský năm 1880.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.2268,12.8793",
+      "yandex": "https://yandex.com/maps/?pt=12.8793,50.2268&z=16&l=map"
+    },
+    "tags": [
+      "architecture",
+      "park_garden",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-karlovy-vary-nha-tho-thanh-maria-magdalena",
+    "slug": "nha-tho-thanh-maria-magdalena",
+    "region": "cz-karlovy-vary",
+    "country": "czech",
+    "region_name_vi": "Karlovy Vary",
+    "name_vi": "Nhà thờ Thánh Maria Magdalena",
+    "name_en": "Church of St. Mary Magdalene",
+    "name_local": "Kostel sv. Máří Magdalény",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 50.2207,
+      "lon": 12.8838
+    },
+    "address_vi": "Kostelní náměstí, Karlovy Vary",
+    "presentation_short_vi": "Nhà thờ Baroque kiệt tác của kiến trúc sư Kilian Ignaz Dientzenhofer (thế kỷ 18) với hai tháp và mặt tiền cong đặc trưng, ngay phía trên suối Vřídlo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.2207,12.8838",
+      "yandex": "https://yandex.com/maps/?pt=12.8838,50.2207&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "baroque",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-karlovy-vary-nha-tho-chinh-thong-peter-paul",
+    "slug": "nha-tho-chinh-thong-peter-paul",
+    "region": "cz-karlovy-vary",
+    "country": "czech",
+    "region_name_vi": "Karlovy Vary",
+    "name_vi": "Nhà thờ Chính thống giáo Thánh Peter và Paul",
+    "name_en": "Church of Sts Peter and Paul",
+    "name_local": "Chrám sv. Petra a Pavla",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 50.2288,
+      "lon": 12.8762
+    },
+    "address_vi": "Krále Jiřího 2c, Karlovy Vary",
+    "presentation_short_vi": "Nhà thờ Chính thống giáo Nga với năm mái vòm hành củ hành mạ vàng lộng lẫy, xây cuối thế kỷ 19 phục vụ giới quý tộc Nga đến nghỉ dưỡng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.2288,12.8762",
+      "yandex": "https://yandex.com/maps/?pt=12.8762,50.2288&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "orthodox",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-karlovy-vary-thap-quan-sat-diana",
+    "slug": "thap-quan-sat-diana",
+    "region": "cz-karlovy-vary",
+    "country": "czech",
+    "region_name_vi": "Karlovy Vary",
+    "name_vi": "Tháp quan sát Diana",
+    "name_en": "Diana Lookout Tower",
+    "name_local": "Rozhledna Diana",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 50.2213,
+      "lon": 12.8676
+    },
+    "address_vi": "Vrch Přátelství, Karlovy Vary",
+    "presentation_short_vi": "Tháp quan sát trên đồi cao 562 m, lên bằng tuyến cáp kéo (funicular) từ khách sạn Pupp; đài ngắm toàn cảnh thành phố suối khoáng trong thung lũng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.2213,12.8676",
+      "yandex": "https://yandex.com/maps/?pt=12.8676,50.2213&z=16&l=map"
+    },
+    "tags": [
+      "viewpoint",
+      "tower",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-karlovy-vary-grandhotel-pupp",
+    "slug": "grandhotel-pupp",
+    "region": "cz-karlovy-vary",
+    "country": "czech",
+    "region_name_vi": "Karlovy Vary",
+    "name_vi": "Grandhotel Pupp",
+    "name_en": "Grandhotel Pupp",
+    "name_local": "Grandhotel Pupp",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 50.2194,
+      "lon": 12.8789
+    },
+    "address_vi": "Mírové náměstí 2, Karlovy Vary",
+    "presentation_short_vi": "Khách sạn sang trọng lừng danh có lịch sử từ năm 1701, biểu tượng của Karlovy Vary và bối cảnh nhiều bộ phim (Casino Royale, Last Holiday); trung tâm của Liên hoan phim quốc tế.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.2194,12.8789",
+      "yandex": "https://yandex.com/maps/?pt=12.8789,50.2194&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "historic",
+      "film",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-karlovy-vary-nha-tam-hoang-gia-cisarske-lazne",
+    "slug": "nha-tam-hoang-gia-cisarske-lazne",
+    "region": "cz-karlovy-vary",
+    "country": "czech",
+    "region_name_vi": "Karlovy Vary",
+    "name_vi": "Nhà tắm Hoàng gia (Císařské lázně)",
+    "name_en": "Imperial Spa",
+    "name_local": "Císařské lázně (Lázně I)",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 50.2168,
+      "lon": 12.8772
+    },
+    "address_vi": "Mariánskolázeňská 2, Karlovy Vary",
+    "presentation_short_vi": "Toà nhà tắm khoáng tráng lệ phong cách tân Phục Hưng (1895) mô phỏng cung điện Pháp, biểu tượng thời hoàng kim của thành phố suối khoáng, nay là không gian văn hoá.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.2168,12.8772",
+      "yandex": "https://yandex.com/maps/?pt=12.8772,50.2168&z=16&l=map"
+    },
+    "tags": [
+      "historic",
+      "architecture",
+      "spa"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-karlovy-vary-bao-tang-thuy-tinh-moser",
+    "slug": "bao-tang-thuy-tinh-moser",
+    "region": "cz-karlovy-vary",
+    "country": "czech",
+    "region_name_vi": "Karlovy Vary",
+    "name_vi": "Bảo tàng Thuỷ tinh Moser",
+    "name_en": "Moser Glass Museum",
+    "name_local": "Muzeum skla Moser",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 50.2072,
+      "lon": 12.8386
+    },
+    "address_vi": "Kpt. Jaroše 46/19, Karlovy Vary",
+    "presentation_short_vi": "Bảo tàng và xưởng thổi thuỷ tinh Moser danh giá ('vua của các loại pha lê'), trưng bày hơn 2.000 tác phẩm và cho khách xem thợ thổi thuỷ tinh thủ công.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.2072,12.8386",
+      "yandex": "https://yandex.com/maps/?pt=12.8386,50.2072&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "glass",
+      "craft"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-karlovy-vary-nha-hat-thanh-pho",
+    "slug": "nha-hat-thanh-pho",
+    "region": "cz-karlovy-vary",
+    "country": "czech",
+    "region_name_vi": "Karlovy Vary",
+    "name_vi": "Nhà hát Thành phố",
+    "name_en": "Karlovy Vary Municipal Theatre",
+    "name_local": "Městské divadlo Karlovy Vary",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 50.2216,
+      "lon": 12.8818
+    },
+    "address_vi": "Divadelní náměstí 21, Karlovy Vary",
+    "presentation_short_vi": "Nhà hát tân Baroque cuối thế kỷ 19 với nội thất mạ vàng và bức màn sân khấu do các hoạ sĩ nhóm Gustav Klimt vẽ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.2216,12.8818",
+      "yandex": "https://yandex.com/maps/?pt=12.8818,50.2216&z=16&l=map"
+    },
+    "tags": [
+      "theatre",
+      "historic",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-karlovy-vary-diem-ngam-jeleni-skok",
+    "slug": "diem-ngam-jeleni-skok",
+    "region": "cz-karlovy-vary",
+    "country": "czech",
+    "region_name_vi": "Karlovy Vary",
+    "name_vi": "Điểm ngắm Bước nhảy Hươu (Jelení skok)",
+    "name_en": "Stag's Leap",
+    "name_local": "Jelení skok",
+    "categories": [
+      "monument",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 50.2185,
+      "lon": 12.8726
+    },
+    "address_vi": "Jelení skok, Karlovy Vary",
+    "presentation_short_vi": "Điểm ngắm cảnh trên vách đá với tượng đồng chú sơn dương, gắn với truyền thuyết vua Karel IV phát hiện suối khoáng; toàn cảnh thành phố tuyệt đẹp.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.2185,12.8726",
+      "yandex": "https://yandex.com/maps/?pt=12.8726,50.2185&z=16&l=map"
+    },
+    "tags": [
+      "viewpoint",
+      "monument",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-karlovy-vary-bao-tang-becherovka",
+    "slug": "bao-tang-becherovka",
+    "region": "cz-karlovy-vary",
+    "country": "czech",
+    "region_name_vi": "Karlovy Vary",
+    "name_vi": "Bảo tàng Becherovka (Jan Becher)",
+    "name_en": "Jan Becher Museum",
+    "name_local": "Muzeum Jana Bechera",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 50.232,
+      "lon": 12.869
+    },
+    "address_vi": "T. G. Masaryka 57, Karlovy Vary",
+    "presentation_short_vi": "Bảo tàng rượu Becherovka trong xưởng chưng cất nguyên bản, kể câu chuyện loại rượu bổ thảo mộc trứ danh được ví như 'suối khoáng thứ 13' của Karlovy Vary.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.232,12.869",
+      "yandex": "https://yandex.com/maps/?pt=12.869,50.232&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "drink",
+      "culture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "cz-karlovy-vary-khach-san-thermal",
+    "slug": "khach-san-thermal",
+    "region": "cz-karlovy-vary",
+    "country": "czech",
+    "region_name_vi": "Karlovy Vary",
+    "name_vi": "Khách sạn Thermal",
+    "name_en": "Hotel Thermal",
+    "name_local": "Hotel Thermal",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 50.2277,
+      "lon": 12.8777
+    },
+    "address_vi": "I. P. Pavlova 11, Karlovy Vary",
+    "presentation_short_vi": "Khách sạn kiến trúc Hiện đại (Brutalism) thập niên 1970 với bể bơi khoáng nóng ngoài trời trên cao; địa điểm chính tổ chức Liên hoan phim quốc tế Karlovy Vary.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=50.2277,12.8777",
+      "yandex": "https://yandex.com/maps/?pt=12.8777,50.2277&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "architecture",
+      "film",
+      "spa"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

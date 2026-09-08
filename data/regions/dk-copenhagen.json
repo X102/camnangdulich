@@ -1,0 +1,417 @@
+[
+  {
+    "id": "dk-copenhagen-tuong-nang-tien-ca",
+    "slug": "tuong-nang-tien-ca",
+    "region": "dk-copenhagen",
+    "country": "denmark",
+    "region_name_vi": "Copenhagen",
+    "name_vi": "Tượng Nàng tiên cá",
+    "name_en": "The Little Mermaid",
+    "name_local": "Den lille Havfrue",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 55.6929,
+      "lon": 12.5993
+    },
+    "address_vi": "Langelinie, Copenhagen",
+    "presentation_short_vi": "Bức tượng đồng nhỏ bên bến cảng Langelinie dựng năm 1913 lấy cảm hứng từ truyện cổ Andersen, là biểu tượng nổi tiếng nhất và được chụp ảnh nhiều nhất Đan Mạch.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.6929,12.5993",
+      "yandex": "https://yandex.com/maps/?pt=12.5993,55.6929&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "monument",
+      "landmark",
+      "iconic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "dk-copenhagen-vuon-tivoli",
+    "slug": "vuon-tivoli",
+    "region": "dk-copenhagen",
+    "country": "denmark",
+    "region_name_vi": "Copenhagen",
+    "name_vi": "Vườn Tivoli",
+    "name_en": "Tivoli Gardens",
+    "name_local": "Tivoli",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 55.6736,
+      "lon": 12.5681
+    },
+    "address_vi": "Vesterbrogade 3, Copenhagen",
+    "presentation_short_vi": "Công viên giải trí mở cửa từ năm 1843, một trong những công viên lâu đời nhất thế giới, nổi tiếng với vườn hoa, đèn lồng và các trò chơi cổ điển lẫn hiện đại.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.6736,12.5681",
+      "yandex": "https://yandex.com/maps/?pt=12.5681,55.6736&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "amusement",
+      "garden",
+      "family"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "dk-copenhagen-ben-cang-nyhavn",
+    "slug": "ben-cang-nyhavn",
+    "region": "dk-copenhagen",
+    "country": "denmark",
+    "region_name_vi": "Copenhagen",
+    "name_vi": "Bến cảng Nyhavn",
+    "name_en": "Nyhavn",
+    "name_local": "Nyhavn",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 55.6799,
+      "lon": 12.5913
+    },
+    "address_vi": "Nyhavn, Copenhagen",
+    "presentation_short_vi": "Kênh đào và bến cảng thế kỷ 17 viền bởi những ngôi nhà nhiều màu sắc và thuyền gỗ cổ, khu ăn uống nhộn nhịp và là khung cảnh biểu tượng của Copenhagen.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.6799,12.5913",
+      "yandex": "https://yandex.com/maps/?pt=12.5913,55.6799&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "harbor",
+      "scenic",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "dk-copenhagen-lau-dai-rosenborg",
+    "slug": "lau-dai-rosenborg",
+    "region": "dk-copenhagen",
+    "country": "denmark",
+    "region_name_vi": "Copenhagen",
+    "name_vi": "Lâu đài Rosenborg",
+    "name_en": "Rosenborg Castle",
+    "name_local": "Rosenborg Slot",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 55.6857,
+      "lon": 12.5772
+    },
+    "address_vi": "Øster Voldgade 4A, Copenhagen",
+    "presentation_short_vi": "Lâu đài Phục hưng Hà Lan đầu thế kỷ 17 của vua Christian IV, nơi trưng bày vương miện và bảo vật hoàng gia Đan Mạch giữa khu vườn King's Garden xanh mát.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.6857,12.5772",
+      "yandex": "https://yandex.com/maps/?pt=12.5772,55.6857&z=16&l=map"
+    },
+    "tags": [
+      "palace",
+      "history",
+      "royal",
+      "garden"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "dk-copenhagen-cung-dien-amalienborg",
+    "slug": "cung-dien-amalienborg",
+    "region": "dk-copenhagen",
+    "country": "denmark",
+    "region_name_vi": "Copenhagen",
+    "name_vi": "Cung điện Amalienborg",
+    "name_en": "Amalienborg Palace",
+    "name_local": "Amalienborg",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 55.6841,
+      "lon": 12.5934
+    },
+    "address_vi": "Amalienborg Slotsplads, Copenhagen",
+    "presentation_short_vi": "Nơi ở mùa đông của Hoàng gia Đan Mạch gồm bốn dinh thự Rococo giống nhau quây quanh quảng trường bát giác, nổi tiếng với lễ đổi gác của Đội Cận vệ Hoàng gia.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.6841,12.5934",
+      "yandex": "https://yandex.com/maps/?pt=12.5934,55.6841&z=16&l=map"
+    },
+    "tags": [
+      "palace",
+      "royal",
+      "history",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "dk-copenhagen-cung-dien-christiansborg",
+    "slug": "cung-dien-christiansborg",
+    "region": "dk-copenhagen",
+    "country": "denmark",
+    "region_name_vi": "Copenhagen",
+    "name_vi": "Cung điện Christiansborg",
+    "name_en": "Christiansborg Palace",
+    "name_local": "Christiansborg Slot",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 55.6761,
+      "lon": 12.5797
+    },
+    "address_vi": "Prins Jørgens Gård 1, đảo Slotsholmen, Copenhagen",
+    "presentation_short_vi": "Tòa nhà quyền lực trên đảo Slotsholmen, nơi đặt Nghị viện, Văn phòng Thủ tướng và Tòa án Tối cao Đan Mạch, có tháp cao nhất thành phố mở cửa miễn phí cho du khách.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.6761,12.5797",
+      "yandex": "https://yandex.com/maps/?pt=12.5797,55.6761&z=16&l=map"
+    },
+    "tags": [
+      "palace",
+      "government",
+      "history",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "dk-copenhagen-nha-tho-dang-cuu-the",
+    "slug": "nha-tho-dang-cuu-the",
+    "region": "dk-copenhagen",
+    "country": "denmark",
+    "region_name_vi": "Copenhagen",
+    "name_vi": "Nhà thờ Đấng Cứu Thế",
+    "name_en": "Church of Our Saviour",
+    "name_local": "Vor Frelsers Kirke",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 55.6725,
+      "lon": 12.5936
+    },
+    "address_vi": "Sankt Annæ Gade 29, Christianshavn, Copenhagen",
+    "presentation_short_vi": "Nhà thờ Baroque nổi tiếng với tháp chuông xoắn ốc mạ vàng có cầu thang ngoài trời 400 bậc leo lên đỉnh, ngắm toàn cảnh Copenhagen từ độ cao 90 m.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.6725,12.5936",
+      "yandex": "https://yandex.com/maps/?pt=12.5936,55.6725&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "baroque",
+      "viewpoint",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "dk-copenhagen-nha-tho-cam-thach",
+    "slug": "nha-tho-cam-thach",
+    "region": "dk-copenhagen",
+    "country": "denmark",
+    "region_name_vi": "Copenhagen",
+    "name_vi": "Nhà thờ Cẩm thạch",
+    "name_en": "Marble Church (Frederik's Church)",
+    "name_local": "Frederiks Kirke",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 55.6847,
+      "lon": 12.5921
+    },
+    "address_vi": "Frederiksgade 4, Copenhagen",
+    "presentation_short_vi": "Nhà thờ Tin Lành có mái vòm lớn nhất Scandinavia đường kính 31 m, hoàn thành năm 1894 bằng đá cẩm thạch, nằm thẳng trục với cung điện Amalienborg.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.6847,12.5921",
+      "yandex": "https://yandex.com/maps/?pt=12.5921,55.6847&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "dome",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "dk-copenhagen-thap-tron",
+    "slug": "thap-tron",
+    "region": "dk-copenhagen",
+    "country": "denmark",
+    "region_name_vi": "Copenhagen",
+    "name_vi": "Tháp Tròn",
+    "name_en": "Round Tower",
+    "name_local": "Rundetårn",
+    "categories": [
+      "monument",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 55.6813,
+      "lon": 12.5758
+    },
+    "address_vi": "Købmagergade 52A, Copenhagen",
+    "presentation_short_vi": "Đài thiên văn thế kỷ 17 lâu đời nhất châu Âu còn hoạt động, nổi tiếng với đường dốc xoắn ốc bên trong dẫn lên sân thượng ngắm phố cổ Copenhagen.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.6813,12.5758",
+      "yandex": "https://yandex.com/maps/?pt=12.5758,55.6813&z=16&l=map"
+    },
+    "tags": [
+      "monument",
+      "observatory",
+      "viewpoint",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "dk-copenhagen-bao-tang-quoc-gia-dan-mach",
+    "slug": "bao-tang-quoc-gia-dan-mach",
+    "region": "dk-copenhagen",
+    "country": "denmark",
+    "region_name_vi": "Copenhagen",
+    "name_vi": "Bảo tàng Quốc gia Đan Mạch",
+    "name_en": "National Museum of Denmark",
+    "name_local": "Nationalmuseet",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 55.6741,
+      "lon": 12.575
+    },
+    "address_vi": "Ny Vestergade 10, Copenhagen",
+    "presentation_short_vi": "Bảo tàng lịch sử văn hóa lớn nhất Đan Mạch, trưng bày hiện vật từ thời đồ đá, kho báu Viking cho tới cỗ xe Mặt trời Trundholm nổi tiếng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.6741,12.575",
+      "yandex": "https://yandex.com/maps/?pt=12.575,55.6741&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "history",
+      "viking"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "dk-copenhagen-thanh-luy-kastellet",
+    "slug": "thanh-luy-kastellet",
+    "region": "dk-copenhagen",
+    "country": "denmark",
+    "region_name_vi": "Copenhagen",
+    "name_vi": "Thành lũy Kastellet",
+    "name_en": "Kastellet (The Citadel)",
+    "name_local": "Kastellet",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 55.6906,
+      "lon": 12.5947
+    },
+    "address_vi": "Gl. Hovedvagt, Kastellet 1, Copenhagen",
+    "presentation_short_vi": "Một trong những thành lũy hình ngôi sao được bảo tồn tốt nhất Bắc Âu, xây từ thế kỷ 17, nay là công viên yên tĩnh với cối xay gió, doanh trại và hào nước.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.6906,12.5947",
+      "yandex": "https://yandex.com/maps/?pt=12.5947,55.6906&z=16&l=map"
+    },
+    "tags": [
+      "fortress",
+      "history",
+      "park",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "dk-copenhagen-nha-hat-opera-copenhagen",
+    "slug": "nha-hat-opera-copenhagen",
+    "region": "dk-copenhagen",
+    "country": "denmark",
+    "region_name_vi": "Copenhagen",
+    "name_vi": "Nhà hát Opera Copenhagen",
+    "name_en": "Copenhagen Opera House",
+    "name_local": "Operaen",
+    "categories": [
+      "theatre"
+    ],
+    "coordinates": {
+      "lat": 55.6802,
+      "lon": 12.6003
+    },
+    "address_vi": "Ekvipagemestervej 10, đảo Holmen, Copenhagen",
+    "presentation_short_vi": "Nhà hát opera quốc gia hiện đại khánh thành năm 2005 bên bờ nước đối diện Amalienborg, một trong những nhà hát opera đắt giá nhất từng được xây dựng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.6802,12.6003",
+      "yandex": "https://yandex.com/maps/?pt=12.6003,55.6802&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "architecture",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "dk-copenhagen-thuy-cung-blue-planet",
+    "slug": "thuy-cung-blue-planet",
+    "region": "dk-copenhagen",
+    "country": "denmark",
+    "region_name_vi": "Copenhagen",
+    "name_vi": "Thủy cung Den Blå Planet",
+    "name_en": "The Blue Planet",
+    "name_local": "Den Blå Planet",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 55.6414,
+      "lon": 12.6519
+    },
+    "address_vi": "Jacob Fortlingsvej 1, Kastrup, Copenhagen",
+    "presentation_short_vi": "Thủy cung lớn nhất Bắc Âu hình xoáy nước bằng nhôm, khánh thành năm 2013 với hàng trăm loài sinh vật biển trong đường hầm kính và bể đại dương khổng lồ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.6414,12.6519",
+      "yandex": "https://yandex.com/maps/?pt=12.6519,55.6414&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "aquarium",
+      "family",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  }
+]

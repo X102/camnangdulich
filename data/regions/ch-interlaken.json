@@ -1,0 +1,452 @@
+[
+  {
+    "id": "ch-interlaken-jungfraujoch",
+    "slug": "jungfraujoch",
+    "region": "ch-interlaken",
+    "country": "switzerland",
+    "region_name_vi": "Interlaken",
+    "name_vi": "Jungfraujoch – Nóc nhà châu Âu",
+    "name_en": "Jungfraujoch – Top of Europe",
+    "name_local": "Jungfraujoch",
+    "categories": [
+      "park_garden",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 46.5474,
+      "lon": 7.9806
+    },
+    "address_vi": "Yên núi giữa đỉnh Mönch và Jungfrau, dãy Alps Bernese",
+    "presentation_short_vi": "Ga tàu cao nhất châu Âu (3.454 m) với đài quan sát Sphinx, Cung điện Băng và cao nguyên tuyết vĩnh cửu; điểm đến biểu tượng của vùng Jungfrau.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.5474,7.9806",
+      "yandex": "https://yandex.com/maps/?pt=7.9806,46.5474&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "landmark",
+      "mountain",
+      "viewpoint",
+      "iconic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-interlaken-harder-kulm",
+    "slug": "harder-kulm",
+    "region": "ch-interlaken",
+    "country": "switzerland",
+    "region_name_vi": "Interlaken",
+    "name_vi": "Đài ngắm cảnh Harder Kulm",
+    "name_en": "Harder Kulm",
+    "name_local": "Harder Kulm",
+    "categories": [
+      "other",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 46.7,
+      "lon": 7.85
+    },
+    "address_vi": "Đỉnh Harder phía trên Interlaken, đi bằng đường sắt leo núi",
+    "presentation_short_vi": "Đài quan sát 'Two Lakes Bridge' ở độ cao 1.322 m nhìn bao quát Interlaken cùng hai hồ Thun và Brienz, phông nền là bộ ba đỉnh Eiger–Mönch–Jungfrau.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.7,7.85",
+      "yandex": "https://yandex.com/maps/?pt=7.85,46.7&z=16&l=map"
+    },
+    "tags": [
+      "viewpoint",
+      "funicular",
+      "panorama",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-interlaken-schilthorn-piz-gloria",
+    "slug": "schilthorn-piz-gloria",
+    "region": "ch-interlaken",
+    "country": "switzerland",
+    "region_name_vi": "Interlaken",
+    "name_vi": "Đỉnh Schilthorn – Piz Gloria",
+    "name_en": "Schilthorn – Piz Gloria",
+    "name_local": "Schilthorn",
+    "categories": [
+      "other",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 46.5583,
+      "lon": 7.835
+    },
+    "address_vi": "Đỉnh Schilthorn (2.970 m), phía trên làng Mürren",
+    "presentation_short_vi": "Đỉnh núi 2.970 m nổi tiếng với nhà hàng xoay Piz Gloria từng xuất hiện trong phim James Bond, đài quan sát 360° và lối đi Skyline Walk.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.5583,7.835",
+      "yandex": "https://yandex.com/maps/?pt=7.835,46.5583&z=16&l=map"
+    },
+    "tags": [
+      "mountain",
+      "viewpoint",
+      "cable-car",
+      "revolving-restaurant"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-interlaken-lake-thun",
+    "slug": "lake-thun",
+    "region": "ch-interlaken",
+    "country": "switzerland",
+    "region_name_vi": "Interlaken",
+    "name_vi": "Hồ Thun",
+    "name_en": "Lake Thun",
+    "name_local": "Thunersee",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 46.6833,
+      "lon": 7.7167
+    },
+    "address_vi": "Hồ Thun, phía tây Interlaken, bang Bern",
+    "presentation_short_vi": "Hồ băng hà xanh ngọc rộng lớn viền bởi núi non và lâu đài, nổi tiếng với các chuyến du thuyền và thị trấn ven hồ như Spiez, Thun.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.6833,7.7167",
+      "yandex": "https://yandex.com/maps/?pt=7.7167,46.6833&z=16&l=map"
+    },
+    "tags": [
+      "lake",
+      "nature",
+      "boat",
+      "scenery"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-interlaken-lake-brienz",
+    "slug": "lake-brienz",
+    "region": "ch-interlaken",
+    "country": "switzerland",
+    "region_name_vi": "Interlaken",
+    "name_vi": "Hồ Brienz",
+    "name_en": "Lake Brienz",
+    "name_local": "Brienzersee",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 46.7333,
+      "lon": 7.9667
+    },
+    "address_vi": "Hồ Brienz, phía đông Interlaken, bang Bern",
+    "presentation_short_vi": "Hồ nước màu ngọc lam nổi tiếng trong xanh, bao quanh là vách núi và thác nước; điểm xuất phát tới thác Giessbach và làng Iseltwald.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.7333,7.9667",
+      "yandex": "https://yandex.com/maps/?pt=7.9667,46.7333&z=16&l=map"
+    },
+    "tags": [
+      "lake",
+      "turquoise",
+      "nature",
+      "boat"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-interlaken-trummelbach-falls",
+    "slug": "trummelbach-falls",
+    "region": "ch-interlaken",
+    "country": "switzerland",
+    "region_name_vi": "Interlaken",
+    "name_vi": "Thác Trümmelbach",
+    "name_en": "Trümmelbach Falls",
+    "name_local": "Trümmelbachfälle",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 46.5817,
+      "lon": 7.9086
+    },
+    "address_vi": "Thung lũng Lauterbrunnen, gần Stechelberg",
+    "presentation_short_vi": "Hệ thống mười thác nước băng hà nằm sâu trong lòng núi, thoát nước từ các đỉnh Eiger, Mönch, Jungfrau; tham quan bằng thang máy trong đá.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.5817,7.9086",
+      "yandex": "https://yandex.com/maps/?pt=7.9086,46.5817&z=16&l=map"
+    },
+    "tags": [
+      "waterfall",
+      "nature",
+      "cave",
+      "unesco"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-interlaken-staubbach-falls",
+    "slug": "staubbach-falls",
+    "region": "ch-interlaken",
+    "country": "switzerland",
+    "region_name_vi": "Interlaken",
+    "name_vi": "Thác Staubbach",
+    "name_en": "Staubbach Falls",
+    "name_local": "Staubbachfall",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 46.592,
+      "lon": 7.906
+    },
+    "address_vi": "Làng Lauterbrunnen, thung lũng Lauterbrunnen",
+    "presentation_short_vi": "Một trong những thác nước rơi tự do cao nhất Thụy Sĩ (gần 300 m), buông mình từ vách đá phía trên làng Lauterbrunnen như dải sương mù.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.592,7.906",
+      "yandex": "https://yandex.com/maps/?pt=7.906,46.592&z=16&l=map"
+    },
+    "tags": [
+      "waterfall",
+      "nature",
+      "iconic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-interlaken-st-beatus-caves",
+    "slug": "st-beatus-caves",
+    "region": "ch-interlaken",
+    "country": "switzerland",
+    "region_name_vi": "Interlaken",
+    "name_vi": "Hang động St. Beatus",
+    "name_en": "St. Beatus Caves",
+    "name_local": "St. Beatus-Höhlen",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 46.6836,
+      "lon": 7.744
+    },
+    "address_vi": "Sundlauenen, bờ bắc hồ Thun",
+    "presentation_short_vi": "Hệ hang động thạch nhũ với dòng suối ngầm và thác nước, gắn với truyền thuyết tu sĩ Beatus; lối tham quan dài hơn 1 km trong lòng núi.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.6836,7.744",
+      "yandex": "https://yandex.com/maps/?pt=7.744,46.6836&z=16&l=map"
+    },
+    "tags": [
+      "cave",
+      "nature",
+      "legend"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-interlaken-giessbach-falls",
+    "slug": "giessbach-falls",
+    "region": "ch-interlaken",
+    "country": "switzerland",
+    "region_name_vi": "Interlaken",
+    "name_vi": "Thác Giessbach",
+    "name_en": "Giessbach Falls",
+    "name_local": "Giessbachfälle",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 46.7275,
+      "lon": 8.0225
+    },
+    "address_vi": "Brienz, bờ nam hồ Brienz",
+    "presentation_short_vi": "Chuỗi thác đổ 14 tầng cao gần 500 m xuống hồ Brienz, cạnh khách sạn Grandhotel Giessbach cổ điển và tuyến cáp kéo lâu đời nhất châu Âu.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.7275,8.0225",
+      "yandex": "https://yandex.com/maps/?pt=8.0225,46.7275&z=16&l=map"
+    },
+    "tags": [
+      "waterfall",
+      "nature",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-interlaken-grindelwald-first",
+    "slug": "grindelwald-first",
+    "region": "ch-interlaken",
+    "country": "switzerland",
+    "region_name_vi": "Interlaken",
+    "name_vi": "Grindelwald–First (Cliff Walk)",
+    "name_en": "Grindelwald–First",
+    "name_local": "First",
+    "categories": [
+      "other",
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 46.6588,
+      "lon": 8.0546
+    },
+    "address_vi": "Trạm First phía trên làng Grindelwald",
+    "presentation_short_vi": "Điểm đến trên núi phía trên Grindelwald với lối đi vách đá First Cliff Walk, cáp trượt, xe đạp núi và tầm nhìn thẳng ra vách bắc đỉnh Eiger.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.6588,8.0546",
+      "yandex": "https://yandex.com/maps/?pt=8.0546,46.6588&z=16&l=map"
+    },
+    "tags": [
+      "mountain",
+      "viewpoint",
+      "cliff-walk",
+      "adventure"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-interlaken-lauterbrunnen-valley",
+    "slug": "lauterbrunnen-valley",
+    "region": "ch-interlaken",
+    "country": "switzerland",
+    "region_name_vi": "Interlaken",
+    "name_vi": "Thung lũng Lauterbrunnen",
+    "name_en": "Lauterbrunnen Valley",
+    "name_local": "Lauterbrunnental",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 46.5936,
+      "lon": 7.9089
+    },
+    "address_vi": "Thung lũng Lauterbrunnen, vùng Jungfrau",
+    "presentation_short_vi": "Thung lũng băng hà hình chữ U với 72 thác nước và vách đá dựng đứng, một trong những cảnh quan alpine mang tính biểu tượng nhất Thụy Sĩ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.5936,7.9089",
+      "yandex": "https://yandex.com/maps/?pt=7.9089,46.5936&z=16&l=map"
+    },
+    "tags": [
+      "valley",
+      "waterfall",
+      "nature",
+      "iconic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-interlaken-hoheweg-promenade",
+    "slug": "hoheweg-promenade",
+    "region": "ch-interlaken",
+    "country": "switzerland",
+    "region_name_vi": "Interlaken",
+    "name_vi": "Đại lộ đi bộ Höheweg",
+    "name_en": "Höheweg Promenade",
+    "name_local": "Höheweg",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 46.6853,
+      "lon": 7.862
+    },
+    "address_vi": "Höheweg, trung tâm Interlaken",
+    "presentation_short_vi": "Đại lộ đi bộ trung tâm Interlaken với công viên Höhematte, khách sạn cổ, sòng bạc Kursaal và tầm nhìn thẳng tới đỉnh Jungfrau.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.6853,7.862",
+      "yandex": "https://yandex.com/maps/?pt=7.862,46.6853&z=16&l=map"
+    },
+    "tags": [
+      "street",
+      "promenade",
+      "shopping",
+      "center"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-interlaken-schynige-platte",
+    "slug": "schynige-platte",
+    "region": "ch-interlaken",
+    "country": "switzerland",
+    "region_name_vi": "Interlaken",
+    "name_vi": "Schynige Platte",
+    "name_en": "Schynige Platte",
+    "name_local": "Schynige Platte",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 46.6577,
+      "lon": 7.906
+    },
+    "address_vi": "Đỉnh Schynige Platte, phía trên Wilderswil",
+    "presentation_short_vi": "Cao nguyên núi đi tới bằng tàu răng cưa cổ điển, có vườn thực vật alpine hơn 600 loài và đường mòn ngắm toàn cảnh bộ ba Eiger–Mönch–Jungfrau.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.6577,7.906",
+      "yandex": "https://yandex.com/maps/?pt=7.906,46.6577&z=16&l=map"
+    },
+    "tags": [
+      "mountain",
+      "botanical-garden",
+      "cog-railway",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "ch-interlaken-ballenberg-open-air-museum",
+    "slug": "ballenberg-open-air-museum",
+    "region": "ch-interlaken",
+    "country": "switzerland",
+    "region_name_vi": "Interlaken",
+    "name_vi": "Bảo tàng ngoài trời Ballenberg",
+    "name_en": "Ballenberg Open-Air Museum",
+    "name_local": "Freilichtmuseum Ballenberg",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 46.7566,
+      "lon": 8.029
+    },
+    "address_vi": "Hofstetten bei Brienz, gần hồ Brienz",
+    "presentation_short_vi": "Bảo tàng ngoài trời quy tụ hơn 100 ngôi nhà nông thôn lịch sử từ khắp Thụy Sĩ cùng nghề thủ công truyền thống và vật nuôi trang trại.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.7566,8.029",
+      "yandex": "https://yandex.com/maps/?pt=8.029,46.7566&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "open-air",
+      "culture",
+      "history"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

@@ -1,0 +1,416 @@
+[
+  {
+    "id": "be-bruges-belfort",
+    "slug": "belfort",
+    "region": "be-bruges",
+    "country": "belgium",
+    "region_name_vi": "Bruges (Brugge)",
+    "name_vi": "Tháp chuông Belfort",
+    "name_en": "Belfry of Bruges",
+    "name_local": "Belfort van Brugge",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 51.2081,
+      "lon": 3.2245
+    },
+    "address_vi": "Markt 7, Brugge",
+    "presentation_short_vi": "Tháp chuông thời trung cổ cao 83 m nhìn xuống quảng trường Markt, biểu tượng của Bruges với 366 bậc thang và bộ chuông 47 quả; Di sản UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.2081,3.2245",
+      "yandex": "https://yandex.com/maps/?pt=3.2245,51.2081&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "unesco",
+      "landmark",
+      "viewpoint",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "be-bruges-markt",
+    "slug": "markt",
+    "region": "be-bruges",
+    "country": "belgium",
+    "region_name_vi": "Bruges (Brugge)",
+    "name_vi": "Quảng trường Chợ (Markt)",
+    "name_en": "Market Square",
+    "name_local": "Markt",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 51.2088,
+      "lon": 3.2244
+    },
+    "address_vi": "Markt, Brugge",
+    "presentation_short_vi": "Quảng trường trung tâm rộng lớn viền quanh bởi các nhà phường hội đầu hồi bậc thang đầy màu sắc và tháp Belfort, trái tim của phố cổ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.2088,3.2244",
+      "yandex": "https://yandex.com/maps/?pt=3.2244,51.2088&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "square",
+      "historic",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "be-bruges-heilig-bloedbasiliek",
+    "slug": "heilig-bloedbasiliek",
+    "region": "be-bruges",
+    "country": "belgium",
+    "region_name_vi": "Bruges (Brugge)",
+    "name_vi": "Vương cung Thánh đường Máu Thánh",
+    "name_en": "Basilica of the Holy Blood",
+    "name_local": "Heilig-Bloedbasiliek",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 51.2085,
+      "lon": 3.2278
+    },
+    "address_vi": "Burg 13, Brugge",
+    "presentation_short_vi": "Thánh đường hai tầng (Romanesque và Gothic) lưu giữ thánh tích được cho là máu của Chúa Kitô, trung tâm của lễ rước Máu Thánh hằng năm.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.2085,3.2278",
+      "yandex": "https://yandex.com/maps/?pt=3.2278,51.2085&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "relic",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "be-bruges-onze-lieve-vrouwekerk",
+    "slug": "onze-lieve-vrouwekerk",
+    "region": "be-bruges",
+    "country": "belgium",
+    "region_name_vi": "Bruges (Brugge)",
+    "name_vi": "Nhà thờ Đức Bà Bruges",
+    "name_en": "Church of Our Lady",
+    "name_local": "Onze-Lieve-Vrouwekerk",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 51.2043,
+      "lon": 3.2244
+    },
+    "address_vi": "Mariastraat, Brugge",
+    "presentation_short_vi": "Nhà thờ gạch Gothic có tháp cao 115,5 m, nơi trưng bày tượng 'Đức Mẹ và Chúa Hài đồng' bằng cẩm thạch của Michelangelo - tác phẩm hiếm hoi của ông ngoài nước Ý.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.2043,3.2244",
+      "yandex": "https://yandex.com/maps/?pt=3.2244,51.2043&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "church",
+      "michelangelo",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "be-bruges-burg",
+    "slug": "burg",
+    "region": "be-bruges",
+    "country": "belgium",
+    "region_name_vi": "Bruges (Brugge)",
+    "name_vi": "Quảng trường Burg",
+    "name_en": "Burg Square",
+    "name_local": "Burg",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 51.2087,
+      "lon": 3.228
+    },
+    "address_vi": "Burg, Brugge",
+    "presentation_short_vi": "Quảng trường lịch sử nơi đặt Tòa Thị chính Gothic, Vương cung Máu Thánh và các mặt tiền nhiều thời kỳ - trung tâm quyền lực xưa của Bruges.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.2087,3.228",
+      "yandex": "https://yandex.com/maps/?pt=3.228,51.2087&z=16&l=map"
+    },
+    "tags": [
+      "square",
+      "historic",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "be-bruges-stadhuis-brugge",
+    "slug": "stadhuis-brugge",
+    "region": "be-bruges",
+    "country": "belgium",
+    "region_name_vi": "Bruges (Brugge)",
+    "name_vi": "Tòa Thị chính Bruges",
+    "name_en": "Bruges City Hall",
+    "name_local": "Stadhuis Brugge",
+    "categories": [
+      "monument",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 51.2084,
+      "lon": 3.2281
+    },
+    "address_vi": "Burg 12, Brugge",
+    "presentation_short_vi": "Tòa thị chính Gothic đẹp bậc nhất Bỉ, xây từ 1376 với mặt tiền chạm trổ tinh xảo và Sảnh Gothic có trần vòm sơn son thếp vàng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.2084,3.2281",
+      "yandex": "https://yandex.com/maps/?pt=3.2281,51.2084&z=16&l=map"
+    },
+    "tags": [
+      "historic",
+      "gothic",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "be-bruges-rozenhoedkaai",
+    "slug": "rozenhoedkaai",
+    "region": "be-bruges",
+    "country": "belgium",
+    "region_name_vi": "Bruges (Brugge)",
+    "name_vi": "Bến Rozenhoedkaai",
+    "name_en": "Rozenhoedkaai (Rosary Quay)",
+    "name_local": "Rozenhoedkaai",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 51.2073,
+      "lon": 3.2262
+    },
+    "address_vi": "Rozenhoedkaai, Brugge",
+    "presentation_short_vi": "Góc kênh đào được chụp ảnh nhiều nhất Bruges, nơi hai dòng kênh gặp nhau soi bóng những ngôi nhà cổ và tháp Belfort phía xa.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.2073,3.2262",
+      "yandex": "https://yandex.com/maps/?pt=3.2262,51.2073&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "scenic",
+      "canal",
+      "photo"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "be-bruges-begijnhof",
+    "slug": "begijnhof",
+    "region": "be-bruges",
+    "country": "belgium",
+    "region_name_vi": "Bruges (Brugge)",
+    "name_vi": "Tu viện nữ Begijnhof",
+    "name_en": "Beguinage (Ten Wijngaerde)",
+    "name_local": "Prinselijk Begijnhof Ten Wijngaerde",
+    "categories": [
+      "park_garden",
+      "church"
+    ],
+    "coordinates": {
+      "lat": 51.2026,
+      "lon": 3.2242
+    },
+    "address_vi": "Begijnhof, Brugge",
+    "presentation_short_vi": "Khu tu viện nữ yên tĩnh lập năm 1245 với những ngôi nhà trắng quây quanh sân cỏ rợp bóng dương liễu và thủy tiên; Di sản Thế giới UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.2026,3.2242",
+      "yandex": "https://yandex.com/maps/?pt=3.2242,51.2026&z=16&l=map"
+    },
+    "tags": [
+      "unesco",
+      "scenic",
+      "historic",
+      "peaceful"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "be-bruges-minnewater",
+    "slug": "minnewater",
+    "region": "be-bruges",
+    "country": "belgium",
+    "region_name_vi": "Bruges (Brugge)",
+    "name_vi": "Hồ Tình yêu Minnewater",
+    "name_en": "Minnewater (Lake of Love)",
+    "name_local": "Minnewater",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 51.2005,
+      "lon": 3.2258
+    },
+    "address_vi": "Minnewater, Brugge",
+    "presentation_short_vi": "Hồ nước lãng mạn cùng công viên và cầu đá cổ ở rìa nam phố cổ, gắn với truyền thuyết tình yêu và là điểm dạo bộ thơ mộng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.2005,3.2258",
+      "yandex": "https://yandex.com/maps/?pt=3.2258,51.2005&z=16&l=map"
+    },
+    "tags": [
+      "scenic",
+      "lake",
+      "park",
+      "romantic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "be-bruges-groeningemuseum",
+    "slug": "groeningemuseum",
+    "region": "be-bruges",
+    "country": "belgium",
+    "region_name_vi": "Bruges (Brugge)",
+    "name_vi": "Bảo tàng Groeninge",
+    "name_en": "Groeningemuseum",
+    "name_local": "Groeningemuseum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 51.2054,
+      "lon": 3.2261
+    },
+    "address_vi": "Dijver 12, Brugge",
+    "presentation_short_vi": "Bảo tàng mỹ thuật trứ danh với bộ sưu tập 'Họa sĩ Nguyên thủy Flemish' gồm Jan van Eyck, Hans Memling và nhiều kiệt tác sáu thế kỷ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.2054,3.2261",
+      "yandex": "https://yandex.com/maps/?pt=3.2261,51.2054&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "art",
+      "flemish"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "be-bruges-sint-salvatorskathedraal",
+    "slug": "sint-salvatorskathedraal",
+    "region": "be-bruges",
+    "country": "belgium",
+    "region_name_vi": "Bruges (Brugge)",
+    "name_vi": "Nhà thờ Chính tòa Thánh Salvator",
+    "name_en": "St. Saviour's Cathedral",
+    "name_local": "Sint-Salvatorskathedraal",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 51.2062,
+      "lon": 3.2214
+    },
+    "address_vi": "Sint-Salvatorskerkhof, Brugge",
+    "presentation_short_vi": "Nhà thờ chính tòa lâu đời nhất Bruges, khởi dựng thế kỷ 10, với tháp gạch đồ sộ, kho báu nghệ thuật và các tấm thảm treo quý giá.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.2062,3.2214",
+      "yandex": "https://yandex.com/maps/?pt=3.2214,51.2062&z=16&l=map"
+    },
+    "tags": [
+      "church",
+      "cathedral",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "be-bruges-concertgebouw-brugge",
+    "slug": "concertgebouw-brugge",
+    "region": "be-bruges",
+    "country": "belgium",
+    "region_name_vi": "Bruges (Brugge)",
+    "name_vi": "Cung Hòa nhạc Bruges",
+    "name_en": "Concertgebouw Brugge",
+    "name_local": "Concertgebouw Brugge",
+    "categories": [
+      "theatre",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 51.2033,
+      "lon": 3.221
+    },
+    "address_vi": "'t Zand 34, Brugge",
+    "presentation_short_vi": "Nhà hát hòa nhạc hiện đại khánh thành năm 2002 ốp gạch đất nung đỏ, biểu tượng kiến trúc đương đại hiếm hoi giữa phố cổ trung cổ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.2033,3.221",
+      "yandex": "https://yandex.com/maps/?pt=3.221,51.2033&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "architecture",
+      "concert"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "be-bruges-sint-janshuismolen",
+    "slug": "sint-janshuismolen",
+    "region": "be-bruges",
+    "country": "belgium",
+    "region_name_vi": "Bruges (Brugge)",
+    "name_vi": "Cối xay gió Sint-Janshuis",
+    "name_en": "Sint-Janshuis Mill",
+    "name_local": "Sint-Janshuismolen",
+    "categories": [
+      "monument",
+      "other"
+    ],
+    "coordinates": {
+      "lat": 51.2119,
+      "lon": 3.2361
+    },
+    "address_vi": "Kruisvest, Brugge",
+    "presentation_short_vi": "Cối xay gió bằng gỗ dựng năm 1770 trên bờ thành cũ phía đông, vẫn xay bột và mở cửa tham quan - chứng tích của các cối xay từng bao quanh Bruges.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=51.2119,3.2361",
+      "yandex": "https://yandex.com/maps/?pt=3.2361,51.2119&z=16&l=map"
+    },
+    "tags": [
+      "historic",
+      "windmill",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

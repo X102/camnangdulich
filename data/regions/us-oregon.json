@@ -1,0 +1,398 @@
+[
+  {
+    "id": "us-oregon-crater-lake-national-park",
+    "slug": "crater-lake-national-park",
+    "region": "us-oregon",
+    "country": "usa",
+    "region_name_vi": "Oregon",
+    "name_vi": "Vườn Quốc gia Crater Lake (Hồ Miệng Núi Lửa)",
+    "name_en": "Crater Lake National Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 42.9446,
+      "lon": -122.109
+    },
+    "address_vi": "Hạt Klamath, nam bang Oregon",
+    "presentation_short_vi": "Hồ sâu nhất nước Mỹ (594 m), hình thành trong miệng núi lửa Mazama sụp đổ, nổi tiếng với làn nước xanh thẳm tinh khiết. Đảo Phù thủy (Wizard Island) nhô lên giữa hồ tạo cảnh quan độc nhất.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=42.9446,-122.109",
+      "yandex": "https://yandex.com/maps/?pt=-122.109,42.9446&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "lake",
+      "national-park",
+      "volcano",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-oregon-multnomah-falls",
+    "slug": "multnomah-falls",
+    "region": "us-oregon",
+    "country": "usa",
+    "region_name_vi": "Oregon",
+    "name_vi": "Thác Multnomah",
+    "name_en": "Multnomah Falls",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 45.5762,
+      "lon": -122.1158
+    },
+    "address_vi": "Hẻm núi sông Columbia, bang Oregon",
+    "presentation_short_vi": "Thác nước hai tầng cao 189 m — cao nhất bang Oregon — với cây cầu đá Benson bắc ngang giữa hai tầng thác. Là điểm tham quan tự nhiên được ghé thăm nhiều nhất vùng Tây Bắc Thái Bình Dương.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=45.5762,-122.1158",
+      "yandex": "https://yandex.com/maps/?pt=-122.1158,45.5762&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "waterfall",
+      "top",
+      "columbia-gorge",
+      "hiking"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-oregon-haystack-rock-cannon-beach",
+    "slug": "haystack-rock-cannon-beach",
+    "region": "us-oregon",
+    "country": "usa",
+    "region_name_vi": "Oregon",
+    "name_vi": "Đá Haystack Rock, bãi biển Cannon",
+    "name_en": "Haystack Rock, Cannon Beach",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 45.8847,
+      "lon": -123.9686
+    },
+    "address_vi": "Bãi biển Cannon Beach, bờ biển bang Oregon",
+    "presentation_short_vi": "Khối đá bazan cao 72 m sừng sững ngay mép nước, là biểu tượng của bờ biển Oregon và nơi trú ngụ của chim hải âu cổ rụt. Khi thủy triều xuống lộ ra các hồ đá đầy sinh vật biển.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=45.8847,-123.9686",
+      "yandex": "https://yandex.com/maps/?pt=-123.9686,45.8847&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "beach",
+      "rock",
+      "seabirds",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-oregon-mount-hood",
+    "slug": "mount-hood",
+    "region": "us-oregon",
+    "country": "usa",
+    "region_name_vi": "Oregon",
+    "name_vi": "Núi Hood",
+    "name_en": "Mount Hood",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 45.3735,
+      "lon": -121.6959
+    },
+    "address_vi": "Rừng Quốc gia Mount Hood, bắc bang Oregon",
+    "presentation_short_vi": "Ngọn núi lửa dạng tầng cao 3.429 m — đỉnh cao nhất bang Oregon — quanh năm phủ tuyết và sông băng. Là thiên đường trượt tuyết, leo núi, in bóng trên nhiều bức ảnh biểu tượng của bang.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=45.3735,-121.6959",
+      "yandex": "https://yandex.com/maps/?pt=-121.6959,45.3735&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "mountain",
+      "volcano",
+      "skiing",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-oregon-painted-hills",
+    "slug": "painted-hills",
+    "region": "us-oregon",
+    "country": "usa",
+    "region_name_vi": "Oregon",
+    "name_vi": "Đồi Sơn Màu (Painted Hills)",
+    "name_en": "Painted Hills",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 44.6615,
+      "lon": -120.2731
+    },
+    "address_vi": "Khu Painted Hills, Di tích Hóa thạch John Day, bang Oregon",
+    "presentation_short_vi": "Một trong bảy kỳ quan của Oregon với những quả đồi sọc vằn đỏ, vàng, đen do các tầng trầm tích cổ tạo thành. Màu sắc thay đổi theo ánh sáng và độ ẩm, đẹp nhất lúc hoàng hôn.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=44.6615,-120.2731",
+      "yandex": "https://yandex.com/maps/?pt=-120.2731,44.6615&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "geology",
+      "hills",
+      "fossil",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-oregon-portland-japanese-garden",
+    "slug": "portland-japanese-garden",
+    "region": "us-oregon",
+    "country": "usa",
+    "region_name_vi": "Oregon",
+    "name_vi": "Vườn Nhật Bản Portland",
+    "name_en": "Portland Japanese Garden",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 45.5188,
+      "lon": -122.708
+    },
+    "address_vi": "Công viên Washington Park, thành phố Portland, bang Oregon",
+    "presentation_short_vi": "Khu vườn Nhật được đánh giá là chân thực và đẹp bậc nhất bên ngoài Nhật Bản, gồm nhiều tiểu cảnh vườn thiền, hồ, thác và trà thất. Đặc biệt rực rỡ vào mùa lá phong đỏ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=45.5188,-122.708",
+      "yandex": "https://yandex.com/maps/?pt=-122.708,45.5188&z=16&l=map"
+    },
+    "tags": [
+      "garden",
+      "japanese",
+      "culture",
+      "portland",
+      "zen"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-oregon-powells-city-of-books",
+    "slug": "powells-city-of-books",
+    "region": "us-oregon",
+    "country": "usa",
+    "region_name_vi": "Oregon",
+    "name_vi": "Hiệu sách Powell's City of Books",
+    "name_en": "Powell's City of Books",
+    "name_local": "",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 45.5232,
+      "lon": -122.6814
+    },
+    "address_vi": "Khu Pearl District, thành phố Portland, bang Oregon",
+    "presentation_short_vi": "Hiệu sách độc lập lớn nhất thế giới, chiếm trọn một dãy phố với hơn một triệu đầu sách mới và cũ. Là điểm đến văn hóa biểu tượng của Portland dành cho người yêu sách.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=45.5232,-122.6814",
+      "yandex": "https://yandex.com/maps/?pt=-122.6814,45.5232&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "bookstore",
+      "culture",
+      "portland",
+      "shopping"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-oregon-omsi",
+    "slug": "omsi",
+    "region": "us-oregon",
+    "country": "usa",
+    "region_name_vi": "Oregon",
+    "name_vi": "Bảo tàng Khoa học và Công nghiệp Oregon (OMSI)",
+    "name_en": "Oregon Museum of Science and Industry",
+    "name_local": "",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 45.5085,
+      "lon": -122.6656
+    },
+    "address_vi": "Bờ đông sông Willamette, thành phố Portland, bang Oregon",
+    "presentation_short_vi": "Bảo tàng khoa học tương tác hàng đầu vùng Tây Bắc với rạp phim vòm, cung thiên văn và một tàu ngầm thật USS Blueback neo bên sông. Điểm đến hấp dẫn cho gia đình và trẻ em.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=45.5085,-122.6656",
+      "yandex": "https://yandex.com/maps/?pt=-122.6656,45.5085&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "science",
+      "modern",
+      "family",
+      "portland"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-oregon-pittock-mansion",
+    "slug": "pittock-mansion",
+    "region": "us-oregon",
+    "country": "usa",
+    "region_name_vi": "Oregon",
+    "name_vi": "Dinh thự Pittock",
+    "name_en": "Pittock Mansion",
+    "name_local": "",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 45.5252,
+      "lon": -122.7163
+    },
+    "address_vi": "Đồi West Hills, thành phố Portland, bang Oregon",
+    "presentation_short_vi": "Dinh thự phong cách Phục hưng Pháp xây năm 1914 trên đồi cao, từng là nhà của ông trùm báo chí Henry Pittock. Từ khuôn viên có tầm nhìn toàn cảnh Portland và núi Hood.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=45.5252,-122.7163",
+      "yandex": "https://yandex.com/maps/?pt=-122.7163,45.5252&z=16&l=map"
+    },
+    "tags": [
+      "history",
+      "mansion",
+      "architecture",
+      "viewpoint",
+      "portland"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-oregon-timberline-lodge",
+    "slug": "timberline-lodge",
+    "region": "us-oregon",
+    "country": "usa",
+    "region_name_vi": "Oregon",
+    "name_vi": "Nhà nghỉ Timberline Lodge",
+    "name_en": "Timberline Lodge",
+    "name_local": "",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 45.3311,
+      "lon": -121.711
+    },
+    "address_vi": "Sườn nam núi Hood, bang Oregon",
+    "presentation_short_vi": "Nhà nghỉ trượt tuyết lịch sử xây năm 1937, được công nhận Di tích Lịch sử Quốc gia và nổi tiếng nhờ xuất hiện trong phim 'The Shining'. Mở cửa quanh năm nhờ khu trượt tuyết trên sông băng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=45.3311,-121.711",
+      "yandex": "https://yandex.com/maps/?pt=-121.711,45.3311&z=16&l=map"
+    },
+    "tags": [
+      "history",
+      "lodge",
+      "mountain",
+      "skiing",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-oregon-st-johns-bridge",
+    "slug": "st-johns-bridge",
+    "region": "us-oregon",
+    "country": "usa",
+    "region_name_vi": "Oregon",
+    "name_vi": "Cầu St. Johns",
+    "name_en": "St. Johns Bridge",
+    "name_local": "",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 45.5851,
+      "lon": -122.7644
+    },
+    "address_vi": "Bắc qua sông Willamette, thành phố Portland, bang Oregon",
+    "presentation_short_vi": "Cầu treo phong cách Gothic với hai tháp nhọn cao và màu xanh lục đặc trưng, được xem là cây cầu đẹp nhất Portland. Công viên Cathedral Park ngay dưới chân cầu là điểm ngắm cảnh nổi tiếng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=45.5851,-122.7644",
+      "yandex": "https://yandex.com/maps/?pt=-122.7644,45.5851&z=16&l=map"
+    },
+    "tags": [
+      "bridge",
+      "gothic",
+      "modern",
+      "portland",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-oregon-pioneer-courthouse-square",
+    "slug": "pioneer-courthouse-square",
+    "region": "us-oregon",
+    "country": "usa",
+    "region_name_vi": "Oregon",
+    "name_vi": "Quảng trường Pioneer Courthouse",
+    "name_en": "Pioneer Courthouse Square",
+    "name_local": "",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 45.5188,
+      "lon": -122.679
+    },
+    "address_vi": "Trung tâm thành phố Portland, bang Oregon",
+    "presentation_short_vi": "Quảng trường lát gạch được mệnh danh là 'phòng khách của Portland', nơi tổ chức sự kiện, chợ phiên và tụ họp cộng đồng. Trung tâm sinh hoạt công cộng sôi động nhất thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=45.5188,-122.679",
+      "yandex": "https://yandex.com/maps/?pt=-122.679,45.5188&z=16&l=map"
+    },
+    "tags": [
+      "square",
+      "public-space",
+      "downtown",
+      "portland",
+      "events"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

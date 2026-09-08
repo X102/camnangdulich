@@ -1,0 +1,312 @@
+[
+  {
+    "id": "jp-saitama-kawagoe-kurazukuri",
+    "slug": "kawagoe-kurazukuri",
+    "region": "jp-saitama",
+    "country": "japan",
+    "region_name_vi": "Saitama",
+    "name_vi": "Phố nhà kho Kawagoe (Tiểu Edo)",
+    "name_en": "Kawagoe Kurazukuri Street",
+    "name_local": "川越 蔵造りの町並み",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 35.9256,
+      "lon": 139.4849
+    },
+    "address_vi": "Saiwaicho–Motomachi, TP Kawagoe, Saitama",
+    "presentation_short_vi": "Khu phố cổ 'Tiểu Edo' với dãy nhà kho kurazukuri tường đất đen thời Edo–Meiji, gợi lại khung cảnh Tokyo xưa cùng nhiều cửa hàng truyền thống.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.9256,139.4849",
+      "yandex": "https://yandex.com/maps/?pt=139.4849,35.9256&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "street",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "jp-saitama-toki-no-kane",
+    "slug": "toki-no-kane",
+    "region": "jp-saitama",
+    "country": "japan",
+    "region_name_vi": "Saitama",
+    "name_vi": "Tháp chuông Toki no Kane",
+    "name_en": "Toki no Kane Bell Tower",
+    "name_local": "時の鐘",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 35.9256,
+      "lon": 139.4854
+    },
+    "address_vi": "15-7 Saiwaicho, TP Kawagoe, Saitama",
+    "presentation_short_vi": "Tháp chuông báo giờ bằng gỗ ba tầng, biểu tượng của Kawagoe gần 400 năm, ngày nay vẫn điểm chuông bốn lần mỗi ngày.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.9256,139.4854",
+      "yandex": "https://yandex.com/maps/?pt=139.4854,35.9256&z=16&l=map"
+    },
+    "tags": [
+      "landmark",
+      "monument",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "jp-saitama-kitain-temple",
+    "slug": "kitain-temple",
+    "region": "jp-saitama",
+    "country": "japan",
+    "region_name_vi": "Saitama",
+    "name_vi": "Chùa Kita-in",
+    "name_en": "Kita-in Temple",
+    "name_local": "喜多院",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 35.9175,
+      "lon": 139.489
+    },
+    "address_vi": "1-20-1 Kosenba-machi, TP Kawagoe, Saitama",
+    "presentation_short_vi": "Chùa Thiên Thai tông danh tiếng gắn với dòng họ Tokugawa, lưu giữ các gian điện dời từ lâu đài Edo và vườn 540 tượng La Hán (Gohyaku Rakan).",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.9175,139.489",
+      "yandex": "https://yandex.com/maps/?pt=139.489,35.9175&z=16&l=map"
+    },
+    "tags": [
+      "temple",
+      "historic",
+      "garden"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "jp-saitama-kawagoe-hikawa-shrine",
+    "slug": "kawagoe-hikawa-shrine",
+    "region": "jp-saitama",
+    "country": "japan",
+    "region_name_vi": "Saitama",
+    "name_vi": "Đền Hikawa Kawagoe",
+    "name_en": "Kawagoe Hikawa Shrine",
+    "name_local": "川越氷川神社",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 35.9276,
+      "lon": 139.4885
+    },
+    "address_vi": "2-11-3 Miyashita-machi, TP Kawagoe, Saitama",
+    "presentation_short_vi": "Đền cầu duyên và hôn nhân nổi tiếng, thu hút du khách với cổng torii gỗ khổng lồ và 'đường hầm chuông gió' fūrin rực rỡ mùa hè.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.9276,139.4885",
+      "yandex": "https://yandex.com/maps/?pt=139.4885,35.9276&z=16&l=map"
+    },
+    "tags": [
+      "shrine",
+      "romance",
+      "summer"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "jp-saitama-chichibu-shrine",
+    "slug": "chichibu-shrine",
+    "region": "jp-saitama",
+    "country": "japan",
+    "region_name_vi": "Saitama",
+    "name_vi": "Đền Chichibu",
+    "name_en": "Chichibu Shrine",
+    "name_local": "秩父神社",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 35.9975,
+      "lon": 139.0842
+    },
+    "address_vi": "1-3 Bamba-machi, TP Chichibu, Saitama",
+    "presentation_short_vi": "Đền hơn 2.000 năm tuổi ở trung tâm Chichibu, nổi tiếng các bức chạm khắc gỗ tinh xảo và lễ hội đêm Chichibu Yomatsuri tháng 12.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.9975,139.0842",
+      "yandex": "https://yandex.com/maps/?pt=139.0842,35.9975&z=16&l=map"
+    },
+    "tags": [
+      "shrine",
+      "historic",
+      "festival"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "jp-saitama-mitsumine-shrine",
+    "slug": "mitsumine-shrine",
+    "region": "jp-saitama",
+    "country": "japan",
+    "region_name_vi": "Saitama",
+    "name_vi": "Đền Mitsumine",
+    "name_en": "Mitsumine Shrine",
+    "name_local": "三峯神社",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 35.9254,
+      "lon": 138.9317
+    },
+    "address_vi": "298-1 Mitsumine, TP Chichibu, Saitama",
+    "presentation_short_vi": "Đền linh thiêng trên núi cao gần 1.100m giữa dãy Chichibu, nổi tiếng cổng torii ba mặt và tín ngưỡng thờ 'chó sói thần' (ōkami), thường mây phủ huyền ảo.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.9254,138.9317",
+      "yandex": "https://yandex.com/maps/?pt=138.9317,35.9254&z=16&l=map"
+    },
+    "tags": [
+      "shrine",
+      "mountain",
+      "nature"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "jp-saitama-hitsujiyama-park",
+    "slug": "hitsujiyama-park",
+    "region": "jp-saitama",
+    "country": "japan",
+    "region_name_vi": "Saitama",
+    "name_vi": "Công viên Hitsujiyama (Đồi chi anh)",
+    "name_en": "Hitsujiyama Park (Shibazakura Hill)",
+    "name_local": "羊山公園（芝桜の丘）",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 35.9847,
+      "lon": 139.0915
+    },
+    "address_vi": "6360 Omiya, TP Chichibu, Saitama",
+    "presentation_short_vi": "Đồi Shibazakura với hơn 400.000 gốc chi anh (phlox) nở thành thảm hoa hồng–tím rực rỡ mỗi tháng 4–5, nhìn ra dãy núi Buko.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.9847,139.0915",
+      "yandex": "https://yandex.com/maps/?pt=139.0915,35.9847&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "flower",
+      "spring"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "jp-saitama-nagatoro-iwadatami",
+    "slug": "nagatoro-iwadatami",
+    "region": "jp-saitama",
+    "country": "japan",
+    "region_name_vi": "Saitama",
+    "name_vi": "Nagatoro (Bãi đá Iwadatami)",
+    "name_en": "Nagatoro (Iwadatami)",
+    "name_local": "長瀞（岩畳）",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 36.0972,
+      "lon": 139.1138
+    },
+    "address_vi": "Nagatoro, huyện Chichibu, Saitama",
+    "presentation_short_vi": "Thắng cảnh sông Arakawa với bãi đá phiến Iwadatami trải rộng, nổi tiếng trò chèo thuyền vượt ghềnh và ngắm lá đỏ mùa thu.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.0972,139.1138",
+      "yandex": "https://yandex.com/maps/?pt=139.1138,36.0972&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "river",
+      "autumn"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "jp-saitama-musashi-ichinomiya-hikawa-shrine",
+    "slug": "musashi-ichinomiya-hikawa-shrine",
+    "region": "jp-saitama",
+    "country": "japan",
+    "region_name_vi": "Saitama",
+    "name_vi": "Đền Hikawa Musashi Ichinomiya (Omiya)",
+    "name_en": "Musashi Ichinomiya Hikawa Shrine",
+    "name_local": "武蔵一宮氷川神社",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 35.9176,
+      "lon": 139.6297
+    },
+    "address_vi": "1-407 Takahana-cho, Omiya-ku, TP Saitama",
+    "presentation_short_vi": "Đền tổng bản của khoảng 280 đền Hikawa khắp vùng Kanto, nổi tiếng lối vào dài 2km rợp bóng cây — cội nguồn của địa danh 'Omiya'.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.9176,139.6297",
+      "yandex": "https://yandex.com/maps/?pt=139.6297,35.9176&z=16&l=map"
+    },
+    "tags": [
+      "shrine",
+      "historic",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "id": "jp-saitama-railway-museum",
+    "slug": "railway-museum",
+    "region": "jp-saitama",
+    "country": "japan",
+    "region_name_vi": "Saitama",
+    "name_vi": "Bảo tàng Đường sắt",
+    "name_en": "The Railway Museum",
+    "name_local": "鉄道博物館",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 35.9188,
+      "lon": 139.6291
+    },
+    "address_vi": "3-47 Onari-cho, Omiya-ku, TP Saitama",
+    "presentation_short_vi": "Bảo tàng đường sắt lớn bậc nhất Nhật Bản ở Omiya, trưng bày hàng chục đầu máy và toa tàu thực, mô hình diorama và khu mô phỏng lái tàu.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=35.9188,139.6291",
+      "yandex": "https://yandex.com/maps/?pt=139.6291,35.9188&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "family",
+      "train"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-07"
+  }
+]

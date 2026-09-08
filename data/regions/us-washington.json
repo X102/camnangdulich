@@ -1,0 +1,381 @@
+[
+  {
+    "id": "us-washington-space-needle",
+    "slug": "space-needle",
+    "region": "us-washington",
+    "country": "usa",
+    "region_name_vi": "Washington",
+    "name_vi": "Tháp Không gian (Space Needle)",
+    "name_en": "Space Needle",
+    "name_local": "",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 47.6205,
+      "lon": -122.3493
+    },
+    "address_vi": "400 Broad St, Seattle, bang Washington",
+    "presentation_short_vi": "Tháp quan sát cao 184 m xây cho Hội chợ Thế giới 1962, biểu tượng của Seattle với đài ngắm cảnh xoay và sàn kính nhìn xuống thành phố.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.6205,-122.3493",
+      "yandex": "https://yandex.com/maps/?pt=-122.3493,47.6205&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "observation",
+      "top",
+      "seattle"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-washington-pike-place-market",
+    "slug": "pike-place-market",
+    "region": "us-washington",
+    "country": "usa",
+    "region_name_vi": "Washington",
+    "name_vi": "Chợ Pike Place",
+    "name_en": "Pike Place Market",
+    "name_local": "",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 47.6097,
+      "lon": -122.3421
+    },
+    "address_vi": "85 Pike St, Seattle, bang Washington",
+    "presentation_short_vi": "Khu chợ công cộng lâu đời nhất nước Mỹ (từ 1907), nổi tiếng với màn 'ném cá', quán Starbucks đầu tiên và biển hiệu neon rực rỡ bên vịnh.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.6097,-122.3421",
+      "yandex": "https://yandex.com/maps/?pt=-122.3421,47.6097&z=16&l=map"
+    },
+    "tags": [
+      "market",
+      "historic",
+      "top",
+      "seattle"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-washington-chihuly-garden-glass",
+    "slug": "chihuly-garden-glass",
+    "region": "us-washington",
+    "country": "usa",
+    "region_name_vi": "Washington",
+    "name_vi": "Vườn và Kính Chihuly",
+    "name_en": "Chihuly Garden and Glass",
+    "name_local": "",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 47.6205,
+      "lon": -122.3502
+    },
+    "address_vi": "305 Harrison St, Seattle, bang Washington",
+    "presentation_short_vi": "Bảo tàng trưng bày các tác phẩm thuỷ tinh nghệ thuật lộng lẫy của Dale Chihuly, với nhà kính và khu vườn điêu khắc dưới chân Space Needle.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.6205,-122.3502",
+      "yandex": "https://yandex.com/maps/?pt=-122.3502,47.6205&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "art",
+      "glass",
+      "seattle"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-washington-mopop",
+    "slug": "mopop",
+    "region": "us-washington",
+    "country": "usa",
+    "region_name_vi": "Washington",
+    "name_vi": "Bảo tàng Văn hoá Đại chúng (MoPOP)",
+    "name_en": "Museum of Pop Culture (MoPOP)",
+    "name_local": "",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 47.6216,
+      "lon": -122.3481
+    },
+    "address_vi": "325 5th Ave N, Seattle, bang Washington",
+    "presentation_short_vi": "Bảo tàng văn hoá đại chúng trong toà nhà uốn lượn nhiều màu do Frank Gehry thiết kế, tôn vinh âm nhạc, phim khoa học viễn tưởng và trò chơi điện tử.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.6216,-122.3481",
+      "yandex": "https://yandex.com/maps/?pt=-122.3481,47.6216&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "modern",
+      "music",
+      "seattle"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-washington-mount-rainier",
+    "slug": "mount-rainier",
+    "region": "us-washington",
+    "country": "usa",
+    "region_name_vi": "Washington",
+    "name_vi": "Vườn quốc gia Núi Rainier",
+    "name_en": "Mount Rainier National Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 46.8523,
+      "lon": -121.7603
+    },
+    "address_vi": "Bang Washington",
+    "presentation_short_vi": "Ngọn núi lửa phủ tuyết cao 4.392 m - đỉnh cao nhất bang Washington, bao quanh là rừng già, đồng hoa dại và sông băng trong vườn quốc gia lâu đời.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.8523,-121.7603",
+      "yandex": "https://yandex.com/maps/?pt=-121.7603,46.8523&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "mountain",
+      "park",
+      "top"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-washington-olympic-national-park",
+    "slug": "olympic-national-park",
+    "region": "us-washington",
+    "country": "usa",
+    "region_name_vi": "Washington",
+    "name_vi": "Vườn quốc gia Olympic",
+    "name_en": "Olympic National Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 47.9694,
+      "lon": -123.4979
+    },
+    "address_vi": "Bán đảo Olympic, bang Washington",
+    "presentation_short_vi": "Vườn quốc gia đa dạng bậc nhất nước Mỹ với rừng mưa ôn đới Hoh, đỉnh núi tuyết và bờ biển hoang sơ, được UNESCO công nhận là Di sản Thế giới.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.9694,-123.4979",
+      "yandex": "https://yandex.com/maps/?pt=-123.4979,47.9694&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "park",
+      "unesco",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-washington-north-cascades",
+    "slug": "north-cascades",
+    "region": "us-washington",
+    "country": "usa",
+    "region_name_vi": "Washington",
+    "name_vi": "Vườn quốc gia Bắc Cascades",
+    "name_en": "North Cascades National Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 48.7718,
+      "lon": -121.2985
+    },
+    "address_vi": "Bang Washington",
+    "presentation_short_vi": "Vườn quốc gia núi non hiểm trở với hơn 300 sông băng, hồ nước xanh ngọc Diablo và những đỉnh núi lởm chởm mệnh danh 'Alps của nước Mỹ'.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.7718,-121.2985",
+      "yandex": "https://yandex.com/maps/?pt=-121.2985,48.7718&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "mountain",
+      "park",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-washington-mount-st-helens",
+    "slug": "mount-st-helens",
+    "region": "us-washington",
+    "country": "usa",
+    "region_name_vi": "Washington",
+    "name_vi": "Núi lửa St. Helens",
+    "name_en": "Mount St. Helens",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 46.1912,
+      "lon": -122.1944
+    },
+    "address_vi": "Hạt Skamania, bang Washington",
+    "presentation_short_vi": "Ngọn núi lửa nổi tiếng với vụ phun trào thảm khốc năm 1980 để lại miệng núi hình móng ngựa, nay là đài tưởng niệm núi lửa quốc gia hấp dẫn.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.1912,-122.1944",
+      "yandex": "https://yandex.com/maps/?pt=-122.1944,46.1912&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "volcano",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-washington-snoqualmie-falls",
+    "slug": "snoqualmie-falls",
+    "region": "us-washington",
+    "country": "usa",
+    "region_name_vi": "Washington",
+    "name_vi": "Thác Snoqualmie",
+    "name_en": "Snoqualmie Falls",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 47.5415,
+      "lon": -121.8373
+    },
+    "address_vi": "Snoqualmie, bang Washington",
+    "presentation_short_vi": "Thác nước cao 82 m - cao hơn cả thác Niagara, một trong những điểm tham quan thiên nhiên nổi tiếng nhất bang Washington với đài ngắm và công viên.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.5415,-121.8373",
+      "yandex": "https://yandex.com/maps/?pt=-121.8373,47.5415&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "waterfall",
+      "scenic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-washington-deception-pass-bridge",
+    "slug": "deception-pass-bridge",
+    "region": "us-washington",
+    "country": "usa",
+    "region_name_vi": "Washington",
+    "name_vi": "Cầu Deception Pass",
+    "name_en": "Deception Pass Bridge",
+    "name_local": "",
+    "categories": [
+      "bridge"
+    ],
+    "coordinates": {
+      "lat": 48.4061,
+      "lon": -122.645
+    },
+    "address_vi": "Nối đảo Whidbey và Fidalgo, bang Washington",
+    "presentation_short_vi": "Cây cầu thép cong khánh thành năm 1935 bắc qua eo biển Deception Pass, cao gần 55 m trên dòng nước xoáy, một trong những cầu ngắm cảnh đẹp nhất bang.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=48.4061,-122.645",
+      "yandex": "https://yandex.com/maps/?pt=-122.645,48.4061&z=16&l=map"
+    },
+    "tags": [
+      "bridge",
+      "scenic",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-washington-seattle-great-wheel",
+    "slug": "seattle-great-wheel",
+    "region": "us-washington",
+    "country": "usa",
+    "region_name_vi": "Washington",
+    "name_vi": "Vòng đu quay Seattle Great Wheel",
+    "name_en": "Seattle Great Wheel",
+    "name_local": "",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 47.6062,
+      "lon": -122.3425
+    },
+    "address_vi": "1301 Alaskan Way, Pier 57, Seattle, bang Washington",
+    "presentation_short_vi": "Vòng đu quay khổng lồ cao 53 m nằm trên bến tàu Pier 57 bên vịnh Elliott, mang lại tầm nhìn toàn cảnh đường chân trời Seattle và dãy núi Olympic.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.6062,-122.3425",
+      "yandex": "https://yandex.com/maps/?pt=-122.3425,47.6062&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "waterfront",
+      "seattle"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "us-washington-gas-works-park",
+    "slug": "gas-works-park",
+    "region": "us-washington",
+    "country": "usa",
+    "region_name_vi": "Washington",
+    "name_vi": "Công viên Gas Works",
+    "name_en": "Gas Works Park",
+    "name_local": "",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 47.6456,
+      "lon": -122.3344
+    },
+    "address_vi": "2101 N Northlake Way, Seattle, bang Washington",
+    "presentation_short_vi": "Công viên độc đáo cải tạo từ nhà máy khí đốt cũ bên hồ Union, giữ lại các tháp máy công nghiệp làm điểm nhấn và là nơi ngắm đường chân trời Seattle.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=47.6456,-122.3344",
+      "yandex": "https://yandex.com/maps/?pt=-122.3344,47.6456&z=16&l=map"
+    },
+    "tags": [
+      "park",
+      "modern",
+      "seattle"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

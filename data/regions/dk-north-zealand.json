@@ -1,0 +1,420 @@
+[
+  {
+    "id": "dk-north-zealand-kronborg-castle",
+    "slug": "kronborg-castle",
+    "region": "dk-north-zealand",
+    "country": "denmark",
+    "region_name_vi": "Bắc Zealand",
+    "name_vi": "Lâu đài Kronborg (Hamlet)",
+    "name_en": "Kronborg Castle",
+    "name_local": "Kronborg Slot",
+    "categories": [
+      "palace",
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 56.0392,
+      "lon": 12.6214
+    },
+    "address_vi": "Helsingør, Bắc Zealand",
+    "presentation_short_vi": "Lâu đài Phục Hưng bên eo Øresund, bối cảnh vở kịch Hamlet và là Di sản thế giới UNESCO.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=56.0392,12.6214",
+      "yandex": "https://yandex.com/maps/?pt=12.6214,56.0392&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "unesco",
+      "castle",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-north-zealand-frederiksborg-castle",
+    "slug": "frederiksborg-castle",
+    "region": "dk-north-zealand",
+    "country": "denmark",
+    "region_name_vi": "Bắc Zealand",
+    "name_vi": "Lâu đài Frederiksborg",
+    "name_en": "Frederiksborg Castle",
+    "name_local": "Frederiksborg Slot",
+    "categories": [
+      "palace",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 55.9353,
+      "lon": 12.3006
+    },
+    "address_vi": "Hillerød, Bắc Zealand",
+    "presentation_short_vi": "Lâu đài Phục Hưng lộng lẫy trên ba hòn đảo giữa hồ, nay là Bảo tàng Lịch sử Quốc gia Đan Mạch.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.9353,12.3006",
+      "yandex": "https://yandex.com/maps/?pt=12.3006,55.9353&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "castle",
+      "museum",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-north-zealand-fredensborg-palace",
+    "slug": "fredensborg-palace",
+    "region": "dk-north-zealand",
+    "country": "denmark",
+    "region_name_vi": "Bắc Zealand",
+    "name_vi": "Cung điện Fredensborg",
+    "name_en": "Fredensborg Palace",
+    "name_local": "Fredensborg Slot",
+    "categories": [
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 55.9711,
+      "lon": 12.4017
+    },
+    "address_vi": "Fredensborg, Bắc Zealand",
+    "presentation_short_vi": "Dinh thự mùa xuân–thu của hoàng gia Đan Mạch bên hồ Esrum, nổi tiếng với khu vườn baroque rộng lớn.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.9711,12.4017",
+      "yandex": "https://yandex.com/maps/?pt=12.4017,55.9711&z=16&l=map"
+    },
+    "tags": [
+      "palace",
+      "royal",
+      "garden",
+      "historic"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-north-zealand-louisiana-museum",
+    "slug": "louisiana-museum",
+    "region": "dk-north-zealand",
+    "country": "denmark",
+    "region_name_vi": "Bắc Zealand",
+    "name_vi": "Bảo tàng Nghệ thuật Hiện đại Louisiana",
+    "name_en": "Louisiana Museum of Modern Art",
+    "name_local": "Louisiana Museum for Moderne Kunst",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 55.9697,
+      "lon": 12.5378
+    },
+    "address_vi": "Humlebæk, Bắc Zealand",
+    "presentation_short_vi": "Bảo tàng nghệ thuật hiện đại nổi tiếng thế giới, hòa quyện kiến trúc, vườn điêu khắc và tầm nhìn ra biển.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.9697,12.5378",
+      "yandex": "https://yandex.com/maps/?pt=12.5378,55.9697&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "museum",
+      "modern",
+      "art"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-north-zealand-ms-maritime-museum",
+    "slug": "ms-maritime-museum",
+    "region": "dk-north-zealand",
+    "country": "denmark",
+    "region_name_vi": "Bắc Zealand",
+    "name_vi": "Bảo tàng Hàng hải Đan Mạch (M/S)",
+    "name_en": "M/S Maritime Museum of Denmark",
+    "name_local": "M/S Museet for Søfart",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 56.0367,
+      "lon": 12.6119
+    },
+    "address_vi": "Helsingør, cạnh Kronborg",
+    "presentation_short_vi": "Bảo tàng hàng hải xây ngầm quanh ụ tàu cũ do Bjarke Ingels thiết kế, một kiệt tác kiến trúc hiện đại.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=56.0367,12.6119",
+      "yandex": "https://yandex.com/maps/?pt=12.6119,56.0367&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "modern",
+      "maritime",
+      "architecture"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-north-zealand-kulturvaerftet",
+    "slug": "kulturvaerftet",
+    "region": "dk-north-zealand",
+    "country": "denmark",
+    "region_name_vi": "Bắc Zealand",
+    "name_vi": "Xưởng Văn hóa Helsingør",
+    "name_en": "Culture Yard",
+    "name_local": "Kulturværftet",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 56.0353,
+      "lon": 12.6136
+    },
+    "address_vi": "Bến cảng Helsingør, Bắc Zealand",
+    "presentation_short_vi": "Trung tâm văn hóa và thư viện hiện đại cải tạo từ xưởng đóng tàu cũ, ngay cạnh lâu đài Kronborg.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=56.0353,12.6136",
+      "yandex": "https://yandex.com/maps/?pt=12.6136,56.0353&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "culture",
+      "library",
+      "harbour"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-north-zealand-karen-blixen-museum",
+    "slug": "karen-blixen-museum",
+    "region": "dk-north-zealand",
+    "country": "denmark",
+    "region_name_vi": "Bắc Zealand",
+    "name_vi": "Bảo tàng Karen Blixen (Rungstedlund)",
+    "name_en": "Karen Blixen Museum",
+    "name_local": "Karen Blixen Museet, Rungstedlund",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 55.8869,
+      "lon": 12.545
+    },
+    "address_vi": "Rungsted, Hørsholm, Bắc Zealand",
+    "presentation_short_vi": "Nhà và khu vườn của nữ văn sĩ Karen Blixen ('Out of Africa'), nay là bảo tàng và khu bảo tồn chim.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.8869,12.545",
+      "yandex": "https://yandex.com/maps/?pt=12.545,55.8869&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "literature",
+      "historic",
+      "garden"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-north-zealand-esrum-kloster",
+    "slug": "esrum-kloster",
+    "region": "dk-north-zealand",
+    "country": "denmark",
+    "region_name_vi": "Bắc Zealand",
+    "name_vi": "Tu viện Esrum",
+    "name_en": "Esrum Abbey",
+    "name_local": "Esrum Kloster",
+    "categories": [
+      "church",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 56.0264,
+      "lon": 12.3661
+    },
+    "address_vi": "Esrum, Gribskov, Bắc Zealand",
+    "presentation_short_vi": "Tu viện Xitô thời trung cổ, một trong những công trình tu viện lâu đời còn lại của Đan Mạch.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=56.0264,12.3661",
+      "yandex": "https://yandex.com/maps/?pt=12.3661,56.0264&z=16&l=map"
+    },
+    "tags": [
+      "historic",
+      "monastery",
+      "medieval"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-north-zealand-bakken",
+    "slug": "bakken",
+    "region": "dk-north-zealand",
+    "country": "denmark",
+    "region_name_vi": "Bắc Zealand",
+    "name_vi": "Công viên giải trí Bakken",
+    "name_en": "Dyrehavsbakken (Bakken)",
+    "name_local": "Dyrehavsbakken",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 55.7783,
+      "lon": 12.5744
+    },
+    "address_vi": "Klampenborg, Dyrehaven, Bắc Zealand",
+    "presentation_short_vi": "Công viên giải trí lâu đời nhất thế giới (từ năm 1583) nằm ngay bìa rừng hươu Dyrehaven.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.7783,12.5744",
+      "yandex": "https://yandex.com/maps/?pt=12.5744,55.7783&z=16&l=map"
+    },
+    "tags": [
+      "amusement",
+      "historic",
+      "family",
+      "modern"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-north-zealand-dyrehaven",
+    "slug": "dyrehaven",
+    "region": "dk-north-zealand",
+    "country": "denmark",
+    "region_name_vi": "Bắc Zealand",
+    "name_vi": "Rừng hươu Dyrehaven",
+    "name_en": "Jægersborg Dyrehave",
+    "name_local": "Jægersborg Dyrehave",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 55.79,
+      "lon": 12.57
+    },
+    "address_vi": "Klampenborg, Bắc Zealand",
+    "presentation_short_vi": "Công viên rừng săn bắn hoàng gia với hàng nghìn con hươu tự do, được UNESCO công nhận là cảnh quan săn bắn parforce.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.79,12.57",
+      "yandex": "https://yandex.com/maps/?pt=12.57,55.79&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "unesco",
+      "forest",
+      "deer"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-north-zealand-gilleleje",
+    "slug": "gilleleje",
+    "region": "dk-north-zealand",
+    "country": "denmark",
+    "region_name_vi": "Bắc Zealand",
+    "name_vi": "Làng chài Gilleleje",
+    "name_en": "Gilleleje",
+    "name_local": "Gilleleje",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 56.1256,
+      "lon": 12.3097
+    },
+    "address_vi": "Mũi bắc đảo Zealand, Gribskov",
+    "presentation_short_vi": "Làng chài cực bắc đảo Zealand với cảng cá, nhà mái rạ và bãi biển, gắn với cuộc giải cứu người Do Thái năm 1943.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=56.1256,12.3097",
+      "yandex": "https://yandex.com/maps/?pt=12.3097,56.1256&z=16&l=map"
+    },
+    "tags": [
+      "coastal",
+      "fishing",
+      "historic",
+      "beach"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-north-zealand-tisvildeleje",
+    "slug": "tisvildeleje",
+    "region": "dk-north-zealand",
+    "country": "denmark",
+    "region_name_vi": "Bắc Zealand",
+    "name_vi": "Bãi biển Tisvildeleje",
+    "name_en": "Tisvildeleje",
+    "name_local": "Tisvildeleje",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 56.0553,
+      "lon": 12.0917
+    },
+    "address_vi": "Tisvilde, Gribskov, Bắc Zealand",
+    "presentation_short_vi": "Bãi biển và rừng Tisvilde Hegn nổi tiếng, điểm nghỉ dưỡng ven biển được ưa chuộng gần thủ đô.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=56.0553,12.0917",
+      "yandex": "https://yandex.com/maps/?pt=12.0917,56.0553&z=16&l=map"
+    },
+    "tags": [
+      "beach",
+      "nature",
+      "forest",
+      "coastal"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "dk-north-zealand-gribskov-esrum-so",
+    "slug": "gribskov-esrum-so",
+    "region": "dk-north-zealand",
+    "country": "denmark",
+    "region_name_vi": "Bắc Zealand",
+    "name_vi": "Rừng Gribskov & hồ Esrum",
+    "name_en": "Gribskov Forest & Lake Esrum",
+    "name_local": "Gribskov & Esrum Sø",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 55.9833,
+      "lon": 12.3167
+    },
+    "address_vi": "Bắc Zealand, gần Hillerød & Fredensborg",
+    "presentation_short_vi": "Khu rừng lớn thứ hai Đan Mạch bên hồ Esrum, trung tâm Vườn quốc gia Kongernes Nordsjælland.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=55.9833,12.3167",
+      "yandex": "https://yandex.com/maps/?pt=12.3167,55.9833&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "forest",
+      "lake",
+      "nationalpark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]

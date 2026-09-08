@@ -1,0 +1,422 @@
+[
+  {
+    "id": "hu-lake-balaton-ho-balaton",
+    "slug": "ho-balaton",
+    "region": "hu-lake-balaton",
+    "country": "hungary",
+    "region_name_vi": "Hồ Balaton",
+    "name_vi": "Hồ Balaton",
+    "name_en": "Lake Balaton",
+    "name_local": "Balaton",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 46.83,
+      "lon": 17.7167
+    },
+    "address_vi": "Vùng hồ Balaton, Tây Hungary",
+    "presentation_short_vi": "Hồ nước ngọt lớn nhất Trung Âu, dài khoảng 77 km với mặt nước nông ấm áp, được mệnh danh là 'biển Hungary', thiên đường tắm mát, chèo thuyền và nghỉ dưỡng mùa hè.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.83,17.7167",
+      "yandex": "https://yandex.com/maps/?pt=17.7167,46.83&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "nature",
+      "lake",
+      "scenic",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "hu-lake-balaton-tu-vien-tihany",
+    "slug": "tu-vien-tihany",
+    "region": "hu-lake-balaton",
+    "country": "hungary",
+    "region_name_vi": "Hồ Balaton",
+    "name_vi": "Tu viện Tihany",
+    "name_en": "Tihany Benedictine Abbey",
+    "name_local": "Tihanyi bencés apátság",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 46.9139,
+      "lon": 17.8894
+    },
+    "address_vi": "I. András tér 1, bán đảo Tihany",
+    "presentation_short_vi": "Tu viện Biển Đức nổi bật với hai tháp mái vàng trên bán đảo Tihany, thành lập năm 1055; văn kiện thành lập là tư liệu cổ nhất còn ghi lại các từ tiếng Hungary.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.9139,17.8894",
+      "yandex": "https://yandex.com/maps/?pt=17.8894,46.9139&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "church",
+      "history",
+      "viewpoint",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "hu-lake-balaton-ban-dao-tihany",
+    "slug": "ban-dao-tihany",
+    "region": "hu-lake-balaton",
+    "country": "hungary",
+    "region_name_vi": "Hồ Balaton",
+    "name_vi": "Bán đảo Tihany",
+    "name_en": "Tihany Peninsula",
+    "name_local": "Tihanyi-félsziget",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 46.908,
+      "lon": 17.889
+    },
+    "address_vi": "Bán đảo Tihany, bờ bắc hồ Balaton",
+    "presentation_short_vi": "Bán đảo núi lửa cổ nhô ra hồ Balaton, khu bảo tồn thiên nhiên với hồ Trong (Belső-tó), những cánh đồng oải hương tím và các miệng suối nước nóng đã tắt.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.908,17.889",
+      "yandex": "https://yandex.com/maps/?pt=17.889,46.908&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "peninsula",
+      "scenic",
+      "hiking"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "hu-lake-balaton-cung-dien-festetics",
+    "slug": "cung-dien-festetics",
+    "region": "hu-lake-balaton",
+    "country": "hungary",
+    "region_name_vi": "Hồ Balaton",
+    "name_vi": "Cung điện Festetics",
+    "name_en": "Festetics Palace",
+    "name_local": "Festetics-kastély",
+    "categories": [
+      "palace",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 46.7692,
+      "lon": 17.2389
+    },
+    "address_vi": "Kastély utca 1, Keszthely",
+    "presentation_short_vi": "Cung điện Baroque tráng lệ với hơn 100 phòng ở thành phố Keszthely, nổi tiếng nhờ Thư viện Helikon cổ, khu vườn cảnh rộng lớn và các buổi hòa nhạc trong sảnh gương.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.7692,17.2389",
+      "yandex": "https://yandex.com/maps/?pt=17.2389,46.7692&z=16&l=map"
+    },
+    "tags": [
+      "top",
+      "palace",
+      "museum",
+      "baroque",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "hu-lake-balaton-lau-dai-szigliget",
+    "slug": "lau-dai-szigliget",
+    "region": "hu-lake-balaton",
+    "country": "hungary",
+    "region_name_vi": "Hồ Balaton",
+    "name_vi": "Lâu đài Szigliget",
+    "name_en": "Szigliget Castle",
+    "name_local": "Szigligeti vár",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 46.8017,
+      "lon": 17.4356
+    },
+    "address_vi": "Đồi Várhegy, làng Szigliget, bờ tây bắc hồ Balaton",
+    "presentation_short_vi": "Pháo đài thế kỷ 13 trên đỉnh đồi núi lửa, từng đứng vững trước quân Mông Cổ và Ottoman; nay là phế tích cho tầm nhìn toàn cảnh hồ Balaton tuyệt đẹp.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.8017,17.4356",
+      "yandex": "https://yandex.com/maps/?pt=17.4356,46.8017&z=16&l=map"
+    },
+    "tags": [
+      "fortress",
+      "history",
+      "viewpoint",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "hu-lake-balaton-lau-dai-sumeg",
+    "slug": "lau-dai-sumeg",
+    "region": "hu-lake-balaton",
+    "country": "hungary",
+    "region_name_vi": "Hồ Balaton",
+    "name_vi": "Lâu đài Sümeg",
+    "name_en": "Sümeg Castle",
+    "name_local": "Sümegi vár",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 46.98,
+      "lon": 17.283
+    },
+    "address_vi": "Đồi Vár, thị trấn Sümeg (bắc hồ Balaton)",
+    "presentation_short_vi": "Một trong những pháo đài thời Trung cổ lớn và được bảo tồn tốt nhất Hungary, dựng trên đồi đá vôi thế kỷ 13, thường tổ chức các màn trình diễn hiệp sĩ và đấu ngựa.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.98,17.283",
+      "yandex": "https://yandex.com/maps/?pt=17.283,46.98&z=16&l=map"
+    },
+    "tags": [
+      "fortress",
+      "history",
+      "medieval",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "hu-lake-balaton-nui-badacsony",
+    "slug": "nui-badacsony",
+    "region": "hu-lake-balaton",
+    "country": "hungary",
+    "region_name_vi": "Hồ Balaton",
+    "name_vi": "Đồi núi lửa Badacsony",
+    "name_en": "Badacsony",
+    "name_local": "Badacsony",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 46.7966,
+      "lon": 17.4977
+    },
+    "address_vi": "Badacsonytomaj, bờ bắc hồ Balaton",
+    "presentation_short_vi": "Ngọn đồi bazan hình bàn cờ cao 437 m bên bờ hồ Balaton, vùng trồng nho và làm rượu vang trứ danh với các điểm ngắm cảnh và đường mòn dạo giữa rừng đá.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.7966,17.4977",
+      "yandex": "https://yandex.com/maps/?pt=17.4977,46.7966&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "hill",
+      "wine",
+      "viewpoint"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "hu-lake-balaton-pho-di-bo-balatonfured",
+    "slug": "pho-di-bo-balatonfured",
+    "region": "hu-lake-balaton",
+    "country": "hungary",
+    "region_name_vi": "Hồ Balaton",
+    "name_vi": "Phố đi bộ Balatonfüred",
+    "name_en": "Balatonfüred (Tagore Promenade)",
+    "name_local": "Balatonfüred, Tagore sétány",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 46.9486,
+      "lon": 17.8869
+    },
+    "address_vi": "Tagore sétány, Balatonfüred, bờ bắc hồ Balaton",
+    "presentation_short_vi": "Thị trấn nghỉ dưỡng và suối khoáng lâu đời bên hồ Balaton, nổi tiếng với con đường dạo bộ Tagore rợp cây bên bến du thuyền và những biệt thự cổ kiểu tân cổ điển.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.9486,17.8869",
+      "yandex": "https://yandex.com/maps/?pt=17.8869,46.9486&z=16&l=map"
+    },
+    "tags": [
+      "town",
+      "promenade",
+      "spa",
+      "relax"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "hu-lake-balaton-thap-nuoc-siofok",
+    "slug": "thap-nuoc-siofok",
+    "region": "hu-lake-balaton",
+    "country": "hungary",
+    "region_name_vi": "Hồ Balaton",
+    "name_vi": "Tháp nước Siófok",
+    "name_en": "Siófok Water Tower",
+    "name_local": "Siófoki víztorony",
+    "categories": [
+      "other"
+    ],
+    "coordinates": {
+      "lat": 46.9044,
+      "lon": 18.0553
+    },
+    "address_vi": "Szabadság tér, Siófok, bờ nam hồ Balaton",
+    "presentation_short_vi": "Tháp nước cao 45 m xây năm 1912 giữa trung tâm Siófok, nay được cải tạo thành đài quan sát xoay và là biểu tượng của 'thủ phủ mùa hè' sôi động phía nam hồ Balaton.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.9044,18.0553",
+      "yandex": "https://yandex.com/maps/?pt=18.0553,46.9044&z=16&l=map"
+    },
+    "tags": [
+      "modern",
+      "landmark",
+      "viewpoint",
+      "town"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "hu-lake-balaton-ho-nuoc-nong-heviz",
+    "slug": "ho-nuoc-nong-heviz",
+    "region": "hu-lake-balaton",
+    "country": "hungary",
+    "region_name_vi": "Hồ Balaton",
+    "name_vi": "Hồ nước nóng Hévíz",
+    "name_en": "Lake Hévíz",
+    "name_local": "Hévízi-tó",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 46.7872,
+      "lon": 17.1931
+    },
+    "address_vi": "Hévíz (gần Keszthely), tây hồ Balaton",
+    "presentation_short_vi": "Hồ nước khoáng nóng tự nhiên có thể tắm lớn nhất thế giới, nước ấm quanh năm cùng loài hoa súng nở trên mặt hồ, nổi tiếng về trị liệu và nghỉ dưỡng.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.7872,17.1931",
+      "yandex": "https://yandex.com/maps/?pt=17.1931,46.7872&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "thermal",
+      "spa",
+      "unique"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "hu-lake-balaton-lau-dai-kinizsi-nagyvazsony",
+    "slug": "lau-dai-kinizsi-nagyvazsony",
+    "region": "hu-lake-balaton",
+    "country": "hungary",
+    "region_name_vi": "Hồ Balaton",
+    "name_vi": "Lâu đài Kinizsi",
+    "name_en": "Kinizsi Castle (Nagyvázsony)",
+    "name_local": "Kinizsi-vár",
+    "categories": [
+      "fortress"
+    ],
+    "coordinates": {
+      "lat": 46.9835,
+      "lon": 17.6941
+    },
+    "address_vi": "Vár utca, Nagyvázsony (bắc hồ Balaton)",
+    "presentation_short_vi": "Lâu đài thế kỷ 15 với tháp canh cao gắn liền với danh tướng Pál Kinizsi thời vua Matthias, nay là bảo tàng lâu đài trưng bày vũ khí và tổ chức lễ hội thời trung cổ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.9835,17.6941",
+      "yandex": "https://yandex.com/maps/?pt=17.6941,46.9835&z=16&l=map"
+    },
+    "tags": [
+      "fortress",
+      "history",
+      "medieval",
+      "museum"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "hu-lake-balaton-hang-ho-tapolca",
+    "slug": "hang-ho-tapolca",
+    "region": "hu-lake-balaton",
+    "country": "hungary",
+    "region_name_vi": "Hồ Balaton",
+    "name_vi": "Hang hồ Tapolca",
+    "name_en": "Tapolca Lake Cave",
+    "name_local": "Tapolcai-tavasbarlang",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 46.8817,
+      "lon": 17.4389
+    },
+    "address_vi": "Kisfaludy utca 3, thị trấn Tapolca (bắc hồ Balaton)",
+    "presentation_short_vi": "Hang động đá vôi độc đáo giữa lòng thị trấn Tapolca, du khách chèo thuyền trên dòng nước ngầm trong vắt qua các mái vòm hang; là di sản thiên nhiên được bảo vệ.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.8817,17.4389",
+      "yandex": "https://yandex.com/maps/?pt=17.4389,46.8817&z=16&l=map"
+    },
+    "tags": [
+      "nature",
+      "cave",
+      "boat",
+      "unique"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "id": "hu-lake-balaton-bao-tang-balaton",
+    "slug": "bao-tang-balaton",
+    "region": "hu-lake-balaton",
+    "country": "hungary",
+    "region_name_vi": "Hồ Balaton",
+    "name_vi": "Bảo tàng Balaton",
+    "name_en": "Balaton Museum",
+    "name_local": "Balatoni Múzeum",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 46.7647,
+      "lon": 17.2472
+    },
+    "address_vi": "Múzeum utca 2, Keszthely",
+    "presentation_short_vi": "Bảo tàng vùng đặt trong tòa nhà tân Baroque năm 1928, giới thiệu lịch sử tự nhiên, khảo cổ và đời sống ngư nghiệp quanh hồ Balaton.",
+    "rating": null,
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=46.7647,17.2472",
+      "yandex": "https://yandex.com/maps/?pt=17.2472,46.7647&z=16&l=map"
+    },
+    "tags": [
+      "museum",
+      "history",
+      "nature",
+      "landmark"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-08"
+  }
+]
