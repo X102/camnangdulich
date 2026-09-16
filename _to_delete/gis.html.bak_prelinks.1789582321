@@ -39,7 +39,7 @@
   .coord-readout { position: absolute; left: 50%; transform: translateX(-50%); top: 8px; z-index: 650; background: rgba(21,44,78,.9); color: #fff; font-size: 11.5px; font-weight: 600; padding: 4px 10px; border-radius: 7px; pointer-events: none; font-family: ui-monospace,Menlo,Consolas,monospace; letter-spacing: .02em; box-shadow: 0 2px 8px rgba(0,0,0,.25); }
   .coord-readout:empty { display: none; }
   .tools-row { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
-  .tool-btn.active, .base-btn.active, .mm-btn.active { background: var(--navy); color: #fff; border-color: var(--navy); }
+  .tool-btn.active, .base-btn.active { background: var(--navy); color: #fff; border-color: var(--navy); }
   .tool-out { margin-top: 8px; }
   .tool-hint { font-size: 12px; color: var(--muted); }
   .tool-res { font-size: 13px; background: #f6f7fb; border: 1px solid var(--line); border-radius: 8px; padding: 7px 9px; line-height: 1.5; }
@@ -292,11 +292,6 @@
         <button class="btn sm base-btn active" id="baseStreetsBtn">🗺️ Đường phố</button>
         <button class="btn sm base-btn" id="baseSatBtn">🛰️ Vệ tinh</button>
         <button class="btn sm base-btn" id="baseHybridBtn">🛰️+🏷️ Vệ tinh &amp; nhãn</button>
-      </div>
-      <div class="tools-row" style="margin-top:8px;padding-top:8px;border-top:1px solid var(--line);flex-wrap:wrap;">
-        <span class="muted" style="font-size:12px;width:100%;margin-bottom:3px;">🔎 Mở bản đồ / tìm kiếm theo:</span>
-        <button class="btn sm mm-btn" id="mmName" data-mm="name" title="Ghép tên + thành phố + quốc gia — tránh trùng tên ở nơi khác">📛 Tên (cụ thể)</button>
-        <button class="btn sm mm-btn" id="mmCoord" data-mm="coord" title="Dùng đúng toạ độ — ghim chính xác vị trí">🧭 Toạ độ</button>
       </div>
       <div id="toolOut" class="tool-out"></div>
       <div class="muted" style="font-size:11px;margin-top:8px;padding-top:8px;border-top:1px solid var(--line);line-height:1.5;">⚠️ Các vị trí chỉ mang tính tham khảo, không tránh khỏi sai sót và đang được cập nhật thường xuyên, có thể lệch so với toạ độ gốc. Mọi ý kiến góp ý và liên hệ hợp tác vui lòng liên hệ tác giả. Tác giả không chịu trách nhiệm về những sự cố liên quan đến nội dung web.</div>
@@ -700,14 +695,13 @@
         '<button class="btn sm ' + (isIn ? "primary" : "") + '" onclick="RTGIS.toggleTour(\'' + p.id + '\')">' + (isIn ? RT.uiText("inTour") : RT.uiText("addTour")) + '</button>' +
       '</div>' +
       '<div class="pop-actions">' +
-        '<a class="btn sm" href="' + RT.escapeHtml(RT.ymapLink(p)) + '" target="_blank" rel="noopener">📍 Ya Maps</a>' +
-        '<a class="btn sm" href="' + RT.escapeHtml(RT.gmapLink(p)) + '" target="_blank" rel="noopener">🗺️ GG Maps</a>' +
+        (p.maps && p.maps.yandex ? '<a class="btn sm" href="' + p.maps.yandex + '" target="_blank" rel="noopener">📍 Ya Maps</a>' : '') +
+        (p.maps && p.maps.google ? '<a class="btn sm" href="' + p.maps.google + '" target="_blank" rel="noopener">🗺️ GG Maps</a>' : '') +
       '</div>' +
       '<div class="pop-actions">' +
-        '<a class="btn sm" href="' + RT.escapeHtml(RT.gsearchLink(p)) + '" target="_blank" rel="noopener">🔎 Google (VI)</a>' +
-        '<a class="btn sm" href="' + RT.escapeHtml(RT.ysearchLink(p)) + '" target="_blank" rel="noopener">🔎 Yandex (RU)</a>' +
+        '<a class="btn sm" href="https://www.google.com/search?hl=vi&q=' + encodeURIComponent(RT.t(p, "name") || p.name_vi || "") + '" target="_blank" rel="noopener">🔎 Google (VI)</a>' +
+        '<a class="btn sm" href="https://yandex.ru/search/?text=' + encodeURIComponent(p.name_ru || RT.t(p, "name") || p.name_vi || "") + '" target="_blank" rel="noopener">🔎 Yandex (RU)</a>' +
       '</div>' +
-      (RT.docUrlOf(p) ? '<div class="pop-actions"><a class="btn sm gold" href="' + RT.escapeHtml(RT.docUrlOf(p)) + '" target="_blank" rel="noopener" title="Mở file thuyết minh nội bộ">📄 Mở bài thuyết minh chi tiết</a></div>' : '') +
     '</div>';
   }
 
@@ -784,8 +778,8 @@
   function inTour(pid) { return tour.some(function (s) { return s.pid === pid; }); }
   /* ---- link bản đồ cho mỗi điểm (theo tên hoặc theo toạ độ) ---- */
   function linkModeOf(s, p) { var m = s && s.linkMode; if (m === "name" || m === "coord" || m === "off") return m; return (p && p.custom) ? "coord" : "name"; }
-  function gLink(p, mode) { return RT.gmapLink(p, mode); }
-  function yLink(p, mode) { return RT.ymapLink(p, mode); }
+  function gLink(p, mode) { if (!p || mode === "off") return ""; var c = pcoord(p); if (mode === "name") { if (p.maps && p.maps.google) return p.maps.google; return "https://www.google.com/maps/search/?api=1&query=" + encodeURIComponent(RT.t(p, "name") || ""); } return "https://www.google.com/maps/search/?api=1&query=" + c.lat + "," + c.lon; }
+  function yLink(p, mode) { if (!p || mode === "off") return ""; var c = pcoord(p); if (mode === "name") { if (p.maps && p.maps.yandex) return p.maps.yandex; return "https://yandex.com/maps/?text=" + encodeURIComponent(RT.t(p, "name") || ""); } return "https://yandex.com/maps/?ll=" + c.lon + "," + c.lat + "&z=17&pt=" + c.lon + "," + c.lat; }
   function docUrlOf(p) { return (p && !p.custom && p.has_doc && p.doc_url) ? p.doc_url : ""; }   // link file thuyết minh nội bộ (nếu đã tạo)
   var SITE_BASE = "https://x102.github.io/camnangdulich/";
   var CREDIT_LINE = "Nguồn: " + SITE_BASE + " · Tác giả: Phạm Đăng Hiển · lopmaybay@gmail.com · fb.com/lopmaybay";
@@ -1419,11 +1413,10 @@
         '<div style="display:flex;gap:6px;flex-wrap:wrap;margin-bottom:8px;">' +
           '<button class="btn sm gold" onclick="RTGIS.speak(\'' + p.id + '\')">' + RT.uiText("listenLong") + '</button>' +
           '<a class="btn sm" href="diem.html?id=' + encodeURIComponent(p.id) + '" target="_blank" rel="noopener">🔗 Trang riêng</a>' +
-          '<a class="btn sm" href="' + RT.escapeHtml(RT.ymapLink(p)) + '" target="_blank" rel="noopener">📍 Ya Maps</a>' +
-          '<a class="btn sm" href="' + RT.escapeHtml(RT.gmapLink(p)) + '" target="_blank" rel="noopener">🗺️ GG Maps</a>' +
-          '<a class="btn sm" href="' + RT.escapeHtml(RT.gsearchLink(p)) + '" target="_blank" rel="noopener">🔎 Google (VI)</a>' +
-          '<a class="btn sm" href="' + RT.escapeHtml(RT.ysearchLink(p)) + '" target="_blank" rel="noopener">🔎 Yandex (RU)</a>' +
-          (RT.docUrlOf(p) ? '<a class="btn sm gold" href="' + RT.escapeHtml(RT.docUrlOf(p)) + '" target="_blank" rel="noopener">📄 Bài thuyết minh chi tiết</a>' : '') +
+          (p.maps && p.maps.yandex ? '<a class="btn sm" href="' + p.maps.yandex + '" target="_blank" rel="noopener">📍 Ya Maps</a>' : '') +
+          (p.maps && p.maps.google ? '<a class="btn sm" href="' + p.maps.google + '" target="_blank" rel="noopener">🗺️ GG Maps</a>' : '') +
+          '<a class="btn sm" href="https://www.google.com/search?hl=vi&q=' + encodeURIComponent(RT.t(p, "name") || p.name_vi || "") + '" target="_blank" rel="noopener">🔎 Google (VI)</a>' +
+          '<a class="btn sm" href="https://yandex.ru/search/?text=' + encodeURIComponent(p.name_ru || RT.t(p, "name") || p.name_vi || "") + '" target="_blank" rel="noopener">🔎 Yandex (RU)</a>' +
         '</div>' +
         '<h4>' + RT.uiText("detailPres") + '</h4><p style="font-size:14px;">' + RT.escapeHtml(RT.t(p, "presentation_long")) + '</p>' +
         (hl ? '<h4>' + RT.uiText("highlights") + '</h4><ul style="font-size:13.5px;">' + hl + '</ul>' : '') +
@@ -1806,16 +1799,6 @@
   window.addEventListener("resize", sizeMap);
   window.addEventListener("orientationchange", function () { setTimeout(sizeMap, 200); });
   setTimeout(sizeMap, 60);
-})();
-</script>
-<script>
-(function(){
-  function upd(){ var m=(window.RT&&RT.getMapMode)?RT.getMapMode():"name";
-    var a=document.getElementById("mmName"), b=document.getElementById("mmCoord");
-    if(a) a.classList.toggle("active", m==="name"); if(b) b.classList.toggle("active", m==="coord"); }
-  document.addEventListener("click", function(e){ var t=e.target&&e.target.closest?e.target.closest("[data-mm]"):null;
-    if(!t) return; var m=t.getAttribute("data-mm"); if(window.RT&&RT.setMapMode){ RT.setMapMode(m); upd(); } });
-  if(document.readyState!=="loading") upd(); else document.addEventListener("DOMContentLoaded", upd);
 })();
 </script>
 </body>

@@ -36,7 +36,6 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
 <meta name="apple-mobile-web-app-title" content="Cẩm nang Nga">
 <script src="assets/pwa.js" defer></script>
-<style>.mm-btn.active{background:#152c4e;color:#fff;border-color:#152c4e;}</style>
 </head>
 <body>
 <header class="site-header">
@@ -68,11 +67,6 @@
     </select>
     <select id="country" title="Quốc gia"><option value="">Tất cả quốc gia</option></select>
     <select id="region"><option value="">Tất cả vùng</option></select>
-    <div class="mm-toggle" style="display:inline-flex;align-items:center;gap:5px;flex-wrap:wrap;">
-      <span class="muted" style="font-size:12px;">🔎 Mở theo:</span>
-      <button type="button" class="btn sm mm-btn" data-mm="name" title="Tên + thành phố + quốc gia (cụ thể)">📛 Tên</button>
-      <button type="button" class="btn sm mm-btn" data-mm="coord" title="Đúng toạ độ">🧭 Toạ độ</button>
-    </div>
     <div class="tts-global">
       <span class="muted" style="font-size:12px;">Tốc độ đọc</span>
       <input type="range" id="rate" min="0.6" max="1.4" step="0.1" value="1" />
@@ -242,11 +236,8 @@
           '<button class="btn sm toggle-detail">' + RT.uiText("detail") + '</button>' +
           '<a class="btn sm" href="gis.html?focus=' + encodeURIComponent(p.id) + '">' + RT.uiText("map") + '</a>' +
           '<a class="btn sm" href="diem.html?id=' + encodeURIComponent(p.id) + '">🔗 Trang riêng</a>' +
-          '<a class="btn sm" href="' + RT.escapeHtml(RT.ymapLink(p)) + '" target="_blank" rel="noopener">📍 Ya Maps</a>' +
-          '<a class="btn sm" href="' + RT.escapeHtml(RT.gmapLink(p)) + '" target="_blank" rel="noopener">🗺️ GG Maps</a>' +
-          '<a class="btn sm" href="' + RT.escapeHtml(RT.gsearchLink(p)) + '" target="_blank" rel="noopener">🔎 Google (VI)</a>' +
-          '<a class="btn sm" href="' + RT.escapeHtml(RT.ysearchLink(p)) + '" target="_blank" rel="noopener">🔎 Yandex (RU)</a>' +
-          (RT.docUrlOf(p) ? '<a class="btn sm gold" href="' + RT.escapeHtml(RT.docUrlOf(p)) + '" target="_blank" rel="noopener">📄 Bài thuyết minh</a>' : '') +
+          (p.maps && p.maps.yandex ? '<a class="btn sm" href="' + p.maps.yandex + '" target="_blank" rel="noopener">📍 Yandex</a>' : '') +
+          (p.maps && p.maps.google ? '<a class="btn sm" href="' + p.maps.google + '" target="_blank" rel="noopener">🗺️ Google</a>' : '') +
         '</div>' +
         '<div class="detail">' +
           '<h4>' + RT.uiText("detailPres") + '</h4>' +

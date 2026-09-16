@@ -235,44 +235,6 @@
     global.addEventListener("beforeunload", function () { try { TTS.stop(); } catch (e) {} });
   }
 
-  /* ---------- Link bản đồ & tìm kiếm CỤ THỂ (tránh trùng tên khác thành phố/quốc gia) ---------- */
-  var COUNTRY_EN = {
-    russia:"Russia", vietnam:"Vietnam", usa:"United States", canada:"Canada", france:"France",
-    germany:"Germany", uk:"United Kingdom", italy:"Italy", spain:"Spain", netherlands:"Netherlands",
-    belgium:"Belgium", switzerland:"Switzerland", austria:"Austria", portugal:"Portugal", greece:"Greece",
-    czech:"Czech Republic", poland:"Poland", hungary:"Hungary", sweden:"Sweden", norway:"Norway",
-    denmark:"Denmark", finland:"Finland", ireland:"Ireland", croatia:"Croatia", china:"China",
-    japan:"Japan", korea:"South Korea", thailand:"Thailand", singapore:"Singapore", malaysia:"Malaysia",
-    cambodia:"Cambodia", laos:"Laos", myanmar:"Myanmar", philippines:"Philippines", indonesia:"Indonesia",
-    kazakhstan:"Kazakhstan", uzbekistan:"Uzbekistan", "timor-leste":"Timor-Leste"
-  };
-  function _titleCase(s){ return String(s||"").replace(/[-_]+/g," ").replace(/\b\w/g,function(c){return c.toUpperCase();}).trim(); }
-  function countryEN(p){ var c=(p&&p.country)||""; return COUNTRY_EN[c] || _titleCase(c); }
-  function _pcoord(p){ return p && p.coordinates ? p.coordinates : null; }
-  function hasCoord(p){ var c=_pcoord(p); return !!(c && typeof c.lat==="number" && typeof c.lon==="number" && !(c.lat===0 && c.lon===0)); }
-  function _cleanSeg(s){ return String(s||"").trim().replace(/^(tỉnh|bang|thành phố|tp\.?|vùng|khu vực|khu|quận|huyện)\s+/i,"").trim(); }
-  function locBits(p){
-    var a=(p&&p.address_vi)||"";
-    var parts=a.split(",").map(function(x){return _cleanSeg(x);}).filter(Boolean).slice(0,2);
-    var loc=parts.join(", ");
-    if(!loc) loc=_cleanSeg((p&&p.region_name_vi)||"");
-    return loc;
-  }
-  function nameQuery(p){ var nm=(p&&(p.name_local||p.name_en||p.name_vi))||""; return [nm, locBits(p), countryEN(p)].filter(Boolean).join(", "); }
-  function nameQueryRu(p){ var nm=(p&&(p.name_ru||p.name_local||p.name_en||p.name_vi))||""; return [nm, locBits(p), countryEN(p)].filter(Boolean).join(", "); }
-  var MAP_MODE_KEY="cndlMapMode";
-  function getMapMode(){ try{ var m=global.localStorage&&localStorage.getItem(MAP_MODE_KEY); if(m==="coord"||m==="name") return m; }catch(e){} return "name"; }
-  function setMapMode(m){ if(m!=="coord"&&m!=="name") return; try{ localStorage.setItem(MAP_MODE_KEY,m); }catch(e){} }
-  function gmapLink(p,mode){ if(!p||mode==="off") return ""; mode=(mode==="name"||mode==="coord")?mode:getMapMode();
-    if(mode==="coord"&&hasCoord(p)){ var c=_pcoord(p); return "https://www.google.com/maps/search/?api=1&query="+c.lat+","+c.lon; }
-    return "https://www.google.com/maps/search/?api=1&query="+encodeURIComponent(nameQuery(p)); }
-  function ymapLink(p,mode){ if(!p||mode==="off") return ""; mode=(mode==="name"||mode==="coord")?mode:getMapMode();
-    if(mode==="coord"&&hasCoord(p)){ var c=_pcoord(p); return "https://yandex.com/maps/?ll="+c.lon+","+c.lat+"&z=17&pt="+c.lon+","+c.lat; }
-    return "https://yandex.com/maps/?text="+encodeURIComponent(nameQueryRu(p)); }
-  function gsearchLink(p){ return "https://www.google.com/search?hl=vi&q="+encodeURIComponent(nameQuery(p)); }
-  function ysearchLink(p){ return "https://yandex.ru/search/?text="+encodeURIComponent(nameQueryRu(p)); }
-  function docUrlOf(p){ return (p && !p.custom && p.has_doc && p.doc_url) ? p.doc_url : ""; }
-
   /* ---------- Xuất API ---------- */
   global.RT = {
     CATEGORIES: CATEGORIES,
@@ -294,26 +256,7 @@
     haversineKm: haversineKm,
     nearestRoute: nearestRoute,
     routeDistanceKm: routeDistanceKm,
-    countryEN: countryEN,
-    locBits: locBits,
-    nameQuery: nameQuery,
-    nameQueryRu: nameQueryRu,
-    hasCoord: hasCoord,
-    getMapMode: getMapMode,
-    setMapMode: setMapMode,
-    gmapLink: gmapLink,
-    ymapLink: ymapLink,
-    gsearchLink: gsearchLink,
-    ysearchLink: ysearchLink,
-    docUrlOf: docUrlOf,
     TTS: TTS,
     CONTACT: { email: "lopmaybay@gmail.com", fb: "https://fb.com/lopmaybay" },
   };
-  /* ---------- Tự gắn nút chọn cách mở bản đồ (mọi trang có [data-mm]) ---------- */
-  function _syncMM(){ var m=getMapMode(); var bs=document.querySelectorAll("[data-mm]"); for(var i=0;i<bs.length;i++){ bs[i].classList.toggle("active", bs[i].getAttribute("data-mm")===m); } }
-  if (global.document) {
-    document.addEventListener("click", function(e){ var t=(e.target&&e.target.closest)?e.target.closest("[data-mm]"):null; if(!t) return; setMapMode(t.getAttribute("data-mm")); _syncMM(); });
-    if (document.readyState!=="loading") _syncMM(); else document.addEventListener("DOMContentLoaded", _syncMM);
-  }
-
 })(window);
