@@ -279,7 +279,6 @@
       <input type="range" id="minStar" class="rng" min="0" max="5" step="0.5" value="0" />
       <div class="fc-row" id="filterCats" style="margin-top:10px;"></div>
       <label style="display:flex;align-items:center;gap:7px;font-size:12.5px;margin-top:12px;cursor:pointer;font-weight:600;color:var(--navy);"><input type="checkbox" id="showLabels" style="width:15px;height:15px;cursor:pointer;" /> 🏷️ Hiện tên địa điểm trên bản đồ</label>
-      <button type="button" class="btn sm" id="pinFilter" style="margin-top:10px;width:100%;justify-content:center;">📌 Chỉ hiện điểm đã ghim (<span id="pinCount">0</span>)</button>
     </div>
 
     <div class="sec">
@@ -308,18 +307,6 @@
       <h3>💍 Vành đai du lịch Nga</h3>
       <div class="muted" style="font-size:11.5px;margin:-4px 0 8px;line-height:1.45;">Các tuyến vòng cổ điển nối những thành phố cổ. Bấm “xem” để phóng tới vành đai.</div>
       <div id="ringsBox"></div>
-    </div>
-
-    <div class="sec">
-      <h3>⬇️ Lưu vùng để dùng offline</h3>
-      <div class="muted" style="font-size:11.5px;margin:-4px 0 8px;line-height:1.45;">Lưu <b>địa điểm + bài thuyết minh</b> của vùng đang lọc (Quốc gia/Vùng) để xem cả khi mất mạng.</div>
-      <div id="offInfo" class="muted" style="font-size:12px;margin-bottom:6px;"></div>
-      <button class="btn sm primary" id="offSave" style="width:100%;justify-content:center;">⬇️ Lưu vùng đang chọn</button>
-      <div id="offProg" style="display:none;margin-top:8px;"></div>
-      <div style="display:flex;gap:6px;margin-top:6px;">
-        <button class="btn sm" id="offList" style="flex:1;">📦 Đã lưu…</button>
-        <button class="btn sm" id="offClear" style="flex:1;">🗑️ Xoá</button>
-      </div>
     </div>
 
     <div class="sec">
@@ -414,7 +401,6 @@
                exLinks: true };
   var diagram = { on: false, names: false };   // chế độ sơ đồ trên bản đồ
   var markers = {};          // id -> marker
-  var pinOnly = false;       // lọc: chỉ hiện điểm đã ghim
   var routeLayer = null;
   var labelsOn = false;      // hiện tên trên bản đồ
   var currentDetailId = null; // id đang mở ở panel chi tiết (để render lại khi đổi ngôn ngữ)
@@ -712,7 +698,6 @@
         '<button class="btn sm gold" onclick="RTGIS.speak(\'' + p.id + '\')">' + RT.uiText("listen") + '</button>' +
         '<button class="btn sm" onclick="RTGIS.detail(\'' + p.id + '\')">' + RT.uiText("detail") + '</button>' +
         '<button class="btn sm ' + (isIn ? "primary" : "") + '" onclick="RTGIS.toggleTour(\'' + p.id + '\')">' + (isIn ? RT.uiText("inTour") : RT.uiText("addTour")) + '</button>' +
-        RT.pinBtnHTML(p) +
       '</div>' +
       '<div class="pop-actions">' +
         '<a class="btn sm" href="' + RT.escapeHtml(RT.ymapLink(p)) + '" target="_blank" rel="noopener">📍 Ya Maps</a>' +
@@ -741,7 +726,6 @@
     var region = document.getElementById("region").value;
     var minStar = parseFloat(document.getElementById("minStar").value) || 0;
     var catKeys = Object.keys(activeCats);
-    if (pinOnly && !RT.pinHas(p.id)) return false;
     if (country && (p.country || "russia") !== country) return false;
     if (region && p.region !== region) return false;
     if (minStar && ((p.rating || {}).value || 0) < minStar) return false;
@@ -1440,7 +1424,6 @@
           '<a class="btn sm" href="' + RT.escapeHtml(RT.gsearchLink(p)) + '" target="_blank" rel="noopener">🔎 Google (VI)</a>' +
           '<a class="btn sm" href="' + RT.escapeHtml(RT.ysearchLink(p)) + '" target="_blank" rel="noopener">🔎 Yandex (RU)</a>' +
           (RT.docUrlOf(p) ? '<a class="btn sm gold" href="' + RT.escapeHtml(RT.docUrlOf(p)) + '" target="_blank" rel="noopener">📄 Bài thuyết minh chi tiết</a>' : '') +
-          RT.pinBtnHTML(p) +
         '</div>' +
         '<h4>' + RT.uiText("detailPres") + '</h4><p style="font-size:14px;">' + RT.escapeHtml(RT.t(p, "presentation_long")) + '</p>' +
         (hl ? '<h4>' + RT.uiText("highlights") + '</h4><ul style="font-size:13.5px;">' + hl + '</ul>' : '') +
@@ -1636,42 +1619,6 @@
   };
   document.getElementById("minStar").oninput = function () { document.getElementById("starVal").textContent = this.value; renderMarkers(); };
   document.getElementById("showLabels").onchange = function () { labelsOn = this.checked; renderMarkers(); };
-
-  /* ---- Ghim + Lưu offline theo vùng ---- */
-  function updatePinUI(){ var pc=document.getElementById("pinCount"); if(pc) pc.textContent=RT.pinCount(); var pf=document.getElementById("pinFilter"); if(pf) pf.classList.toggle("active", pinOnly); }
-  (function(){ var pf=document.getElementById("pinFilter"); if(pf) pf.onclick=function(){ pinOnly=!pinOnly; updatePinUI(); renderMarkers(); if(pinOnly){ var pts=places.filter(function(p){return RT.pinHas(p.id)&&p.coordinates;}).map(function(p){return [p.coordinates.lat,p.coordinates.lon];}); if(pts.length){ try{ map.fitBounds(pts,{padding:[50,50],maxZoom:12}); }catch(e){} } else { try{ showToast("Chưa ghim điểm nào — bấm 📌 Ghim ở mỗi điểm."); }catch(e){} } } }; })();
-  window.addEventListener("cndl-pins", function(){ updatePinUI(); if(pinOnly) renderMarkers(); });
-  updatePinUI();
-
-  function offRegionData(){ var cy=document.getElementById("country").value, rg=document.getElementById("region").value;
-    var inReg=places.filter(function(p){ if(cy && (p.country||"russia")!==cy) return false; if(rg && p.region!==rg) return false; return true; });
-    var docs=[]; inReg.forEach(function(p){ var u=RT.docUrlOf(p); if(u && docs.indexOf(u)<0) docs.push(u); });
-    var lbl=""; try{ if(rg){ var o=document.querySelector('#region option[value="'+((window.CSS&&CSS.escape)?CSS.escape(rg):rg)+'"]'); lbl=o?o.textContent:rg; } else if(cy){ var o2=document.querySelector('#country option[value="'+((window.CSS&&CSS.escape)?CSS.escape(cy):cy)+'"]'); lbl=o2?o2.textContent:cy; } }catch(e){ lbl=rg||cy||""; }
-    return { country:cy, region:rg, count:inReg.length, docs:docs, label:(lbl||"").trim() }; }
-  function updateOffInfo(){ var el=document.getElementById("offInfo"); if(!el) return; var d=offRegionData(); el.innerHTML='Vùng: <b>'+RT.escapeHtml(d.label||"Tất cả")+'</b> — '+d.count+' địa điểm · '+d.docs.length+' bài thuyết minh'; }
-  document.getElementById("country").addEventListener("change", function(){ setTimeout(updateOffInfo,0); });
-  document.getElementById("region").addEventListener("change", updateOffInfo);
-  updateOffInfo();
-  (function(){
-    var offBtn=document.getElementById("offSave");
-    if(offBtn) offBtn.onclick=function(){
-      if(!(navigator.serviceWorker && navigator.serviceWorker.controller)){ alert("Hãy mở lại trang khi CÒN MẠNG một lần để bật chế độ offline, rồi thử lại."); return; }
-      var d=offRegionData();
-      if(!d.country && !d.region){ if(!confirm("Chưa chọn Quốc gia/Vùng — sẽ lưu TẤT CẢ ("+d.docs.length+" bài thuyết minh) + toàn bộ dữ liệu. Tiếp tục?")) return; }
-      var prog=document.getElementById("offProg"); prog.style.display="block"; offBtn.disabled=true;
-      prog.innerHTML='<div class="muted" style="font-size:12px;" id="offMsg">Bắt đầu…</div><div class="off-prog"><i id="offBar"></i></div>';
-      function setBar(pct,msg){ var b=document.getElementById("offBar"); if(b) b.style.width=Math.max(3,Math.min(100,pct))+"%"; var m=document.getElementById("offMsg"); if(m&&msg) m.textContent=msg; }
-      RT.saveRegionOffline(d.docs, function(stage,done,total){
-        if(stage==="data"){ setBar(total?Math.round(done/total*40):20, "Đang lưu dữ liệu địa điểm… "+(total?Math.round(done/total*100)+"%":"")); }
-        else { setBar(total?40+Math.round(done/total*60):100, "Đang lưu bài thuyết minh… "+done+"/"+total); }
-      }).then(function(r){
-        setBar(100, "✓ Đã lưu offline vùng “"+(d.label||"Tất cả")+"”: "+d.count+" địa điểm"+(d.docs.length?(" · "+d.docs.length+" bài thuyết minh"):"")+". Dùng được khi mất mạng.");
-        offBtn.disabled=false;
-      });
-    };
-    var lB=document.getElementById("offList"); if(lB) lB.onclick=function(){ RT.offlineInfo().then(function(i){ alert("Đang lưu offline: "+i.count+" bài thuyết minh trong máy.\n(Dữ liệu địa điểm + giao diện lưu riêng, luôn sẵn sàng offline sau khi đã tải một lần khi còn mạng.)"); }); };
-    var cB=document.getElementById("offClear"); if(cB) cB.onclick=function(){ if(confirm("Xoá các bài thuyết minh đã lưu offline? (Dữ liệu địa điểm & giao diện vẫn giữ.)")) RT.clearOffline().then(function(){ alert("Đã xoá gói thuyết minh offline."); }); };
-  })();
   // (phần ước tính chi phí/ngày cũ đã được thay bằng Bảng lịch trình chi tiết)
   // Đóng gợi ý khi bấm ra ngoài
   document.addEventListener("mousedown", function (e) {

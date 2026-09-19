@@ -280,7 +280,6 @@
       '<a class="btn" href="' + esc(RT.gsearchLink(place)) + '" target="_blank" rel="noopener">🔎 Google</a>' +
       '<a class="btn" href="' + esc(RT.ysearchLink(place)) + '" target="_blank" rel="noopener">🔎 Yandex</a>' +
       (RT.docUrlOf(place) ? '<a class="btn gold" href="' + esc(RT.docUrlOf(place)) + '" target="_blank" rel="noopener">📄 Bài thuyết minh chi tiết</a>' : '') +
-      RT.pinBtnHTML(place) +
       '<button type="button" class="btn" id="btnShare">' + esc(RT.uiText("share")) + '</button>' +
       '<a class="btn" id="btnFb" target="_blank" rel="noopener" href="https://www.facebook.com/sharer/sharer.php?u=' +
         encodeURIComponent(location.href) + '">📘 Facebook</a>' +
