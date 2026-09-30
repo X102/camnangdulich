@@ -1009,8 +1009,8 @@
       "church"
     ],
     "coordinates": {
-      "lat": 57.46083,
-      "lon": 41.51111
+      "lat": 57.4573,
+      "lon": 41.526418
     },
     "address_vi": "Đồi Levitan (Gora Levitana), thị trấn Plyos, huyện Privolzhsky, tỉnh Ivanovo, Nga.",
     "rating": {
@@ -1037,8 +1037,8 @@
     "photo": null,
     "photo_credit": null,
     "maps": {
-      "yandex": "https://yandex.com/maps/?text=%D0%92%D0%BE%D1%81%D0%BA%D1%80%D0%B5%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C%20%28%D0%93%D0%BE%D1%80%D0%B0%20%D0%9B%D0%B5%D0%B2%D0%B8%D1%82%D0%B0%D0%BD%D0%B0%29&ll=41.51111,57.46083&z=16",
-      "google": "https://www.google.com/maps/search/?api=1&query=Wooden%20Resurrection%20Church%20on%20Levitan%20Hill%2C%20Plyos%2C%20Ivanovo%2C%20Russia"
+      "yandex": "https://yandex.com/maps/?pt=41.526418,57.4573&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=57.4573,41.526418"
     },
     "official_site": null,
     "sources": [
@@ -1056,7 +1056,7 @@
       "volga"
     ],
     "status": "enriched",
-    "last_updated": "2026-08-08",
+    "last_updated": "2026-09-30",
     "country": "russia"
   },
   {
@@ -3018,6 +3018,485 @@
     ],
     "status": "enriched",
     "last_updated": "2026-08-11",
+    "country": "russia"
+  },
+  {
+    "id": "ivanovo-plyos-cat-monument",
+    "slug": "plyos-cat-monument",
+    "region": "ivanovo",
+    "region_name_vi": "Tỉnh Ivanovo",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Tượng đài Chú mèo Mukha, Plyos (Pa-mi-át-nhic cô-shcơ)",
+    "name_ru": "Памятник кошке (Муха)",
+    "name_en": "Monument to the Cat (Mukha), Plyos",
+    "categories": [
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 57.4592,
+      "lon": 41.5227
+    },
+    "address_vi": "Ул. Советская, gần bến tàu ven sông, thị trấn Plyos, huyện Privolzhsky, tỉnh Ivanovo, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bức tượng chú mèo bằng bê tông ngồi trầm ngâm nhìn ra sông Volga trên phố Sovetskaya, ngay cạnh bến tàu. Tượng tưởng nhớ chú mèo tên Mukha của hoạ sĩ V. Panchenko – con mèo đã chết khi bảo vệ đàn con khỏi một con chó dữ. Nay Chú mèo Plyos thành biểu tượng dễ thương mà ai đến cũng dừng lại chụp ảnh.",
+    "presentation_long_vi": "Trên bờ kè Plyos, cạnh bến tàu ven sông Volga, có một chú mèo bê tông nhỏ ngồi lặng lẽ ngắm dòng sông – một trong những hình ảnh được chụp nhiều nhất của thị trấn. Chú mèo có tên thật là Mukha, thú cưng của gia đình hoạ sĩ Vitaly Panchenko sống ở Plyos. Theo câu chuyện được người dân kể lại, Mukha đã lao ra bảo vệ đàn con của mình trước một con chó dữ và thiệt mạng vì lòng dũng cảm ấy. Để tưởng nhớ, nhà điêu khắc người Belarus O. Illarionov – bạn thân của gia đình – đã tạc bức tượng đặt bên bờ Volga. Tượng được đúc bằng bê tông thay vì kim loại để tránh bị lấy trộm hay phá hoại. Vị trí đặt tượng nằm gần bến tàu, đúng nơi con tàu hơi nước cập bến trong bộ phim kinh điển Nga Mối tình tàn nhẫn (Жестокий романс, 1984) từng quay tại Plyos. Với du khách, chú mèo không chỉ là chỗ chụp ảnh vui mà còn là lời nhắc dịu dàng về sự trung thành của những con vật nuôi. Nhiều người tin xoa nhẹ đầu mèo sẽ mang lại may mắn.",
+    "highlights_vi": [
+      "Tượng chú mèo Mukha – thú cưng của hoạ sĩ Panchenko, chết khi bảo vệ đàn con.",
+      "Đúc bằng bê tông, do nhà điêu khắc Belarus O. Illarionov thực hiện.",
+      "Đặt cạnh bến tàu trên phố Sovetskaya – nơi từng quay phim Mối tình tàn nhẫn (1984)."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tham quan tự do cả ngày.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "10–15 phút.",
+      "best_time_vi": "Đẹp nhất lúc chiều tà bên sông Volga.",
+      "tips_vi": "Kết hợp dạo bờ kè và phố cổ Sovetskaya; là điểm chụp ảnh check-in được yêu thích."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=41.5227,57.4592&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=57.4592,41.5227"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Visit Ivanovo — Памятник кошке (Плёс)",
+        "url": "https://visitivanovo.ru/ples/pamyatnikkoshke"
+      },
+      {
+        "title": "Tonkosti — Плёсская кошка",
+        "url": "https://tonkosti.ru/Плёсская_кошка"
+      }
+    ],
+    "tags": [
+      "monument",
+      "cat",
+      "sculpture",
+      "plyos",
+      "volga",
+      "embankment",
+      "selfie",
+      "golden-ring"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-30",
+    "country": "russia"
+  },
+  {
+    "id": "ivanovo-plyos-volga-embankment",
+    "slug": "plyos-volga-embankment",
+    "region": "ivanovo",
+    "region_name_vi": "Tỉnh Ivanovo",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Bờ kè sông Volga ở Plyos (Na-be-rê-gia-na-ia)",
+    "name_ru": "Плёсская набережная",
+    "name_en": "Plyos Volga Embankment",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 57.4601,
+      "lon": 41.5185
+    },
+    "address_vi": "Dọc hữu ngạn sông Volga, giữa phố Sovetskaya và phố Lunacharsky, thị trấn Plyos, tỉnh Ivanovo, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bờ kè ven sông Volga là trục dạo bộ đẹp và sống động nhất Plyos, hình thành từ năm 1781 theo sắc lệnh của Nữ hoàng Ekaterina II. Dọc bờ kè là những dinh thự thương gia thế kỉ 19, các phòng tranh ngoài trời, tượng đài Levitan, tượng Chú mèo và tượng Cô gái nghỉ mát (Дачница). Đây là nơi lý tưởng để ngắm hoàng hôn trên sông.",
+    "presentation_long_vi": "Bờ kè Plyos trải dài theo hữu ngạn sông Volga, giữa hai phố Sovetskaya và Lunacharsky, là nơi hội tụ mọi nét đẹp của thị trấn. Con đường ven sông này được quy hoạch từ năm 1781 theo sắc lệnh của Nữ hoàng Ekaterina II, cùng đợt chỉnh trang đô thị với Moskva và Sankt-Peterburg. Ngày nay bờ kè được ví như một phòng tranh ngoài trời: những ngôi nhà gỗ và biệt thự gạch của giới thương gia thế kỉ 19 nối nhau soi bóng xuống sông, xen giữa là quán cà phê, bến tàu và bãi tắm nhỏ của thị trấn. Đi dọc bờ kè, du khách sẽ gặp tượng đài danh hoạ Isaac Levitan bên giá vẽ, bức tượng Chú mèo Mukha đáng yêu và tượng Cô gái nghỉ mát (Дачница) – cô tiểu thư cầm ô đứng ngắm sông. Từ các bến tàu, tàu du lịch từ những thành phố khác vẫn cập vào Plyos. Buổi chiều, khi nắng vàng rải trên mặt nước và các hoạ sĩ bày giá vẽ, bờ kè trở thành nơi đẹp nhất để cảm nhận sự bình yên đã khiến Levitan phải lòng thị trấn nhỏ này.",
+    "highlights_vi": [
+      "Trục dạo bộ ven sông đẹp nhất Plyos, quy hoạch từ 1781 thời Ekaterina II.",
+      "Tập trung tượng đài Levitan, tượng Chú mèo và tượng Cô gái nghỉ mát (Дачница).",
+      "Nhà thương gia thế kỉ 19, quán cà phê, bến tàu, bãi tắm – lý tưởng ngắm hoàng hôn."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tự do cả ngày.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "45–90 phút đi dạo.",
+      "best_time_vi": "Chiều tà – hoàng hôn trên sông Volga.",
+      "tips_vi": "Mang giày êm; kết hợp leo Đồi Levitan và ghé phố Sovetskaya gần đó."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=41.5185,57.4601&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=57.4601,41.5185"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Visit Ivanovo — Плёсская набережная",
+        "url": "https://visitivanovo.ru/ples/naberezhnaya"
+      }
+    ],
+    "tags": [
+      "embankment",
+      "volga",
+      "promenade",
+      "plyos",
+      "scenic",
+      "levitan",
+      "golden-ring",
+      "riverside"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-30",
+    "country": "russia"
+  },
+  {
+    "id": "ivanovo-plyos-levitan-hill",
+    "slug": "plyos-levitan-hill",
+    "region": "ivanovo",
+    "region_name_vi": "Tỉnh Ivanovo",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Đồi Levitan – điểm ngắm cảnh, Plyos (Ga-ra Lê-vi-ta-na)",
+    "name_ru": "Гора Левитана (Петропавловская гора)",
+    "name_en": "Levitan Hill, Plyos",
+    "categories": [
+      "park_garden"
+    ],
+    "coordinates": {
+      "lat": 57.4573,
+      "lon": 41.5261
+    },
+    "address_vi": "Ул. Гора Левитана, thị trấn Plyos, huyện Privolzhsky, tỉnh Ivanovo, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Đồi Levitan (xưa gọi là đồi Piotr–Pavel) là điểm ngắm toàn cảnh Plyos và sông Volga đẹp nhất thị trấn. Chính khung cảnh từ đây đã khiến danh hoạ Isaac Levitan phải lòng và ở lại sáng tác. Trên đỉnh đồi có nhà thờ gỗ Phục Sinh cổ kính và tượng đài Levitan; đến nay các hoạ sĩ khắp nước Nga vẫn lên đây bày giá vẽ.",
+    "presentation_long_vi": "Ngọn đồi cao bên hữu ngạn Volga này vốn mang tên đồi Piotr–Pavel, nhưng người Plyos gọi bằng cái tên trìu mến: Đồi Levitan. Mùa hè 1888, khi danh hoạ phong cảnh Isaac Levitan cùng bạn bè ngược dòng Volga tìm cảnh vẽ, chính tầm nhìn từ ngọn đồi này đã khiến ông quyết định dừng chân ở Plyos. Từ đỉnh đồi, cả thị trấn với những mái nhà gỗ, các tháp nhà thờ và khúc sông Volga mềm mại hiện ra như một bức tranh sống. Trên đồi từng có nhà thờ gỗ nhỏ đi vào kiệt tác Trên chốn yên nghỉ vĩnh hằng (Над вечным покоем) của Levitan; ngôi nhà thờ ấy cháy năm 1903, nên năm 1982 người ta đưa về đây nhà thờ gỗ Phục Sinh (Воскресенская) dựng năm 1699 từ làng Bilyukovo – gần giống hệt ngôi cũ, giúp khung cảnh giữ nguyên hồn xưa. Cạnh đó là tượng đài Levitan lặng lẽ nhìn ra sông. Ngày nay Đồi Levitan vừa là nơi hành hương của người yêu hội hoạ, vừa là điểm ngắm hoàng hôn tuyệt đẹp; gần như lúc nào cũng có hoạ sĩ đứng vẽ đúng góc nhìn năm xưa.",
+    "highlights_vi": [
+      "Điểm ngắm toàn cảnh Plyos và sông Volga đẹp nhất thị trấn.",
+      "Khung cảnh từ đây khiến Levitan ở lại vẽ; gắn với tranh Trên chốn yên nghỉ vĩnh hằng.",
+      "Trên đỉnh có nhà thờ gỗ Phục Sinh (1699, chuyển về 1982) và tượng đài Levitan."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tự do; leo bộ theo bậc thang lên đỉnh.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "30–60 phút.",
+      "best_time_vi": "Sáng sớm hoặc chiều tà; đẹp nhất mùa lá vàng.",
+      "tips_vi": "Đường dốc, nên đi giày thể thao; mang áo khoác vì trên đồi lộng gió."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=41.5261,57.4573&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=57.4573,41.5261"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Visit Ivanovo — Гора Левитана",
+        "url": "https://visitivanovo.ru/ples/goralevitana"
+      },
+      {
+        "title": "Былое — Гора Левитана (Петропавловская гора)",
+        "url": "https://history.pravorg.ru/2015/01/01/gora-levitana-petropavlovskaya-gora-v-plyose/"
+      }
+    ],
+    "tags": [
+      "viewpoint",
+      "hill",
+      "levitan",
+      "volga",
+      "plyos",
+      "scenic",
+      "art",
+      "golden-ring"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-30",
+    "country": "russia"
+  },
+  {
+    "id": "ivanovo-plyos-prisutstvennye-mesta",
+    "slug": "plyos-prisutstvennye-mesta",
+    "region": "ivanovo",
+    "region_name_vi": "Tỉnh Ivanovo",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Bảo tàng Công đường xưa trên Đồi Nhà thờ, Plyos (Pri-xút-xtven-nứe me-xta)",
+    "name_ru": "Музейно-выставочный комплекс «Присутственные места»",
+    "name_en": "Prisutstvennye Mesta Museum (Ancient Plyos), Cathedral Hill",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 57.4587,
+      "lon": 41.5152
+    },
+    "address_vi": "Ул. Соборная гора, 1 (Đồi Nhà thờ), thị trấn Plyos, huyện Privolzhsky, tỉnh Ivanovo, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nằm trên Đồi Nhà thờ ngay cạnh nhà thờ Đức Mẹ Lên Trời, bảo tàng đặt trong toà nhà công đường cổ – nơi từng là toà thị chính, ngân hàng, trường học và kho lưu trữ. Đây là bảo tàng lịch sử Plyos cổ đại, trưng bày kho báu Alabuzha gồm 400 món trang sức thế kỉ 7 và tượng bán thân Đại công tước Vasily I – người khai sinh Plyos năm 1410.",
+    "presentation_long_vi": "Trên đỉnh Đồi Nhà thờ (Соборная гора), cạnh nhà thờ Đức Mẹ Lên Trời cổ nhất Plyos, là toà nhà mang tên Присутственные места – Công đường. Suốt thế kỉ 19, đây lần lượt là toà thị chính, ngân hàng, trường học và kho lưu trữ của thị trấn, nên có tên gọi ấy. Ngày nay toà nhà là bảo tàng lịch sử chủ đạo của Khu bảo tồn Plyos, kể câu chuyện về vùng đất từ thuở sơ khai. Khách tham quan gặp lại di chỉ khảo cổ của làng cổ Chuvil, của pháo đài và trạm thuế Plyos xưa; ấn tượng nhất là kho báu Alabuzha – khoảng 400 món trang sức tinh xảo từ thế kỉ 7, minh chứng cho sự giao thoa giữa tín ngưỡng ngoại giáo và Kitô giáo trên dòng Volga. Trong sân và trong nhà đặt hai bức tượng bán thân Đại công tước Vasily I (Vasily Đệ Nhất) – vị vua được xem là người lập nên Plyos như một pháo đài phòng thủ năm 1410: bản gốc năm 1910 và bản sao dựng sau đúng một thế kỉ. Với hướng dẫn viên, đây là nơi lý tưởng để mở đầu câu chuyện lịch sử Plyos trước khi dẫn khách xuống phố cổ và bờ sông.",
+    "highlights_vi": [
+      "Bảo tàng lịch sử Plyos cổ, đặt trong toà công đường thế kỉ 19 trên Đồi Nhà thờ.",
+      "Kho báu Alabuzha: khoảng 400 món trang sức thế kỉ 7 tìm thấy bên sông Volga.",
+      "Hai tượng bán thân Đại công tước Vasily I – người lập Plyos năm 1410."
+    ],
+    "practical": {
+      "hours_vi": "Thứ Ba–Chủ nhật 09:30–17:30; thứ Hai đóng cửa; thứ Ba đầu tháng là ngày vệ sinh.",
+      "ticket_vi": "Vé bình dân; có vé gộp các bảo tàng Plyos.",
+      "duration_vi": "45–60 phút.",
+      "best_time_vi": "Quanh năm; kết hợp lên Đồi Nhà thờ ngắm sông.",
+      "tips_vi": "Nên đi cùng nhà thờ Đức Mẹ Lên Trời ngay cạnh; kiểm tra lịch mở cửa trước."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=41.5152,57.4587&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=57.4587,41.5152"
+    },
+    "official_site": "https://ples-museum.ru/",
+    "sources": [
+      {
+        "title": "Visit Ivanovo — Присутственные места",
+        "url": "https://visitivanovo.ru/ples/prisutstvennyemesta"
+      },
+      {
+        "title": "Плёсский музей-заповедник — Присутственные места",
+        "url": "https://ples-museum.ru/museums/muzeyno-vystavochnyy-kompleks-prisutstvennye-mesta/"
+      },
+      {
+        "title": "Культура.РФ — Исторический музей «Древний Плёс и Ивановская земля»",
+        "url": "https://www.culture.ru/institutes/34892/istoricheskii-muzei-drevnii-plyos-i-ivanovskaya-zemlya"
+      }
+    ],
+    "tags": [
+      "museum",
+      "history",
+      "archaeology",
+      "plyos",
+      "sobornaya-gora",
+      "volga",
+      "golden-ring"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-30",
+    "country": "russia"
+  },
+  {
+    "id": "ivanovo-plyos-sovetskaya-street",
+    "slug": "plyos-sovetskaya-street",
+    "region": "ivanovo",
+    "region_name_vi": "Tỉnh Ivanovo",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Phố cổ Sovetskaya, Plyos (U-li-txa Xa-vét-xcai-a)",
+    "name_ru": "Советская улица (Плёс)",
+    "name_en": "Sovetskaya Street, Plyos",
+    "categories": [
+      "square_street"
+    ],
+    "coordinates": {
+      "lat": 57.4603,
+      "lon": 41.5168
+    },
+    "address_vi": "Ул. Советская, chạy dọc bờ sông Volga, thị trấn Plyos, huyện Privolzhsky, tỉnh Ivanovo, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Phố Sovetskaya là con phố cổ chính của Plyos, chạy song song bờ sông Volga. Hai bên là những ngôi nhà gỗ và biệt thự gạch của thương gia thế kỉ 19, nay thành quán cà phê, tiệm đồ lưu niệm và phòng tranh nhỏ. Đây cũng là nơi đặt tượng Chú mèo và từng là bối cảnh phim Mối tình tàn nhẫn.",
+    "presentation_long_vi": "Nếu bờ kè là mặt tiền của Plyos hướng ra sông, thì phố Sovetskaya chính là xương sống của khu phố cổ. Con phố lát đá chạy song song với sông Volga, hai bên là dãy nhà một–hai tầng của các thương gia buôn vải, buôn cá thế kỉ 19 – những ngôi nhà gỗ chạm trổ và biệt thự gạch nay được gìn giữ gần như nguyên vẹn. Dạo bước trên phố, du khách bắt gặp các tiệm đồ lưu niệm, xưởng gốm, phòng tranh nhỏ, quán trà và tiệm bánh đặc sản; đây cũng là nơi đặt bức tượng Chú mèo Mukha nổi tiếng. Nhịp sống chậm rãi, mái nhà thấp và ánh đèn ấm buổi tối khiến cả con phố như một phim trường cổ điển – và quả thật, Plyos cùng phố Sovetskaya từng là bối cảnh cho bộ phim kinh điển Mối tình tàn nhẫn (Жестокий романс, 1984). Với hướng dẫn viên, phố Sovetskaya là nơi lý tưởng để kể chuyện đời thường của một thị trấn thương hồ Volga và cho khách thời gian mua chút quà lưu niệm.",
+    "highlights_vi": [
+      "Phố cổ chính của Plyos, chạy dọc bờ sông Volga.",
+      "Nhà thương gia thế kỉ 19, nay là quán cà phê, tiệm lưu niệm, phòng tranh.",
+      "Nơi đặt tượng Chú mèo và từng là bối cảnh phim Mối tình tàn nhẫn (1984)."
+    ],
+    "practical": {
+      "hours_vi": "Ngoài trời, tự do; các cửa tiệm thường mở ban ngày.",
+      "ticket_vi": "Miễn phí.",
+      "duration_vi": "30–60 phút.",
+      "best_time_vi": "Ban ngày để ghé tiệm; chiều tối để dạo và chụp ảnh.",
+      "tips_vi": "Nhiều quán đóng cửa khá sớm – nên mua quà và ăn uống trước khi trời tối."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=41.5168,57.4603&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=57.4603,41.5168"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Visit Ivanovo — Плёсская набережная",
+        "url": "https://visitivanovo.ru/ples/naberezhnaya"
+      },
+      {
+        "title": "Travel.ru — Города России: Плёс",
+        "url": "https://guide.travel.ru/russia/ivanovo_region/plyos/"
+      }
+    ],
+    "tags": [
+      "street",
+      "historic",
+      "merchant-houses",
+      "plyos",
+      "volga",
+      "shopping",
+      "golden-ring"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-30",
+    "country": "russia"
+  },
+  {
+    "id": "ivanovo-plyos-varvara-church",
+    "slug": "plyos-varvara-church",
+    "region": "ivanovo",
+    "region_name_vi": "Tỉnh Ivanovo",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Nhà thờ Thánh nữ Varvara & tháp chuông nghiêng, Plyos (Va-rơ-va-rin-xcai-a)",
+    "name_ru": "Церковь Варвары великомученицы (Варваринская)",
+    "name_en": "Church of St. Barbara (Varvarinskaya), Plyos",
+    "categories": [
+      "church"
+    ],
+    "coordinates": {
+      "lat": 57.458409,
+      "lon": 41.527844
+    },
+    "address_vi": "Ул. Варваринская, 2, thị trấn Plyos, huyện Privolzhsky, tỉnh Ivanovo, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Nhà thờ Thánh nữ Varvara dựng năm 1821 theo phong cách cổ điển chín muồi, với năm mái vòm trên các trụ tròn cao và tháp chuông ba tầng hơi nghiêng – được ví là tháp nghiêng Pisa của Plyos. Chính tháp chuông này hiện lên trong kiệt tác Buổi chiều. Plyos vàng của Levitan (1889). Nhà thờ nằm dưới chân Đồi Levitan.",
+    "presentation_long_vi": "Nằm dưới chân Đồi Levitan, nhà thờ Thánh nữ đại tử đạo Varvara là một trong những công trình duyên dáng nhất Plyos. Ngôi nhà thờ hiện nay xây năm 1821 bằng đá theo phong cách cổ điển chín muồi: khối chính hai tầng vuông vức đội năm mái vòm đặt trên các trụ tròn thanh mảnh, nối với một tháp chuông ba tầng cao vút, cửa vòm rộng và trang trí tinh tế. Tháp chuông nghiêng nhẹ khoảng vài độ nên người dân trìu mến gọi là tháp nghiêng Pisa của Plyos. Điều khiến nhà thờ đặc biệt nổi tiếng là nó đã đi vào hội hoạ: chính dáng tháp chuông và khúc sông nơi đây hiện lên trong kiệt tác Buổi chiều. Plyos vàng (Вечер. Золотой Плёс, 1889) của danh hoạ Isaac Levitan – bức tranh đưa Plyos thành biểu tượng của trường phái phong cảnh trữ tình Nga. Từ khoảng sân trước nhà thờ có thể ngắm sông Volga và toàn cảnh phần đông thị trấn. Ngày nay nhà thờ là giáo phần của tu viện Nikolo-Shartomsky, vẫn hành lễ. Với khách Việt, đây là điểm dừng lý tưởng để nối câu chuyện kiến trúc – hội hoạ trước khi leo lên Đồi Levitan kề bên.",
+    "highlights_vi": [
+      "Xây 1821, phong cách cổ điển chín muồi, năm mái vòm và tháp chuông ba tầng.",
+      "Tháp chuông nghiêng nhẹ – được gọi vui là tháp nghiêng Pisa của Plyos.",
+      "Hiện trong tranh Buổi chiều. Plyos vàng (1889) của Levitan; nằm dưới chân Đồi Levitan."
+    ],
+    "practical": {
+      "hours_vi": "Theo giờ lễ; sân ngoài tham quan tự do.",
+      "ticket_vi": "Miễn phí (công đức tuỳ tâm).",
+      "duration_vi": "20–30 phút.",
+      "best_time_vi": "Chiều tà – đúng ánh sáng trong tranh Levitan.",
+      "tips_vi": "Kết hợp leo Đồi Levitan ngay cạnh; ăn mặc kín đáo khi vào nhà thờ."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=41.527844,57.458409&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=57.458409,41.527844"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Sobory.ru — Церковь Варвары великомученицы (Плёс)",
+        "url": "https://sobory.ru/article/?object=00940"
+      },
+      {
+        "title": "Visit Ivanovo — Церковь Варвары великомученицы",
+        "url": "https://visitivanovo.ru/ples/varvara"
+      },
+      {
+        "title": "Wikipedia (RU) — Варваринская церковь (Плёс)",
+        "url": "https://ru.wikipedia.org/wiki/Варваринская_церковь_(Плёс)"
+      }
+    ],
+    "tags": [
+      "church",
+      "bell-tower",
+      "classicism",
+      "plyos",
+      "levitan",
+      "volga",
+      "golden-ring"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-30",
+    "country": "russia"
+  },
+  {
+    "id": "ivanovo-plyos-wedding-museum",
+    "slug": "plyos-wedding-museum",
+    "region": "ivanovo",
+    "region_name_vi": "Tỉnh Ivanovo",
+    "federal_district": "Vùng Trung tâm",
+    "name_vi": "Bảo tàng Cưới hỏi (Đám cưới Nga), Plyos (Mu-dây xvát-bư)",
+    "name_ru": "Музей свадьбы",
+    "name_en": "Wedding Museum, Plyos",
+    "categories": [
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 57.45725,
+      "lon": 41.51777
+    },
+    "address_vi": "Спуск Горы Свободы, 7, thị trấn Plyos, huyện Privolzhsky, tỉnh Ivanovo, Nga.",
+    "rating": {
+      "value": null,
+      "count": null,
+      "source": null,
+      "as_of": null
+    },
+    "review_summary_vi": "",
+    "presentation_short_vi": "Bảo tàng tư nhân nhỏ ấm cúng kể về phong tục cưới hỏi của thị dân Nga xưa. Đặt trong ngôi nhà của một dược sĩ giàu có từng tổ chức đám cưới cho con gái, bảo tàng trưng bày của hồi môn, y phục và các nghi lễ mai mối; khách được trải nghiệm vai trong một đám cưới truyền thống.",
+    "presentation_long_vi": "Nép trên con dốc Спуск Горы Свободы gần Đồi Nhà thờ, Bảo tàng Cưới hỏi là một điểm dừng nhỏ nhưng thú vị, hé lộ đời sống thị dân Plyos qua lăng kính của chuyện trăm năm. Bảo tàng đặt trong ngôi nhà ấm cúng từng thuộc về một dược sĩ giàu có của thị trấn – người đã tổ chức đám cưới cho con gái mình ngay tại đây. Không gian trưng bày tập trung vào phong tục cưới hỏi của tầng lớp thị dân tỉnh lẻ Nga thế kỉ 19: cách các gia đình mai mối, sắp đặt những cuộc hôn nhân môn đăng hộ đối, các món của hồi môn, trang phục và vật dụng cưới. Phần lớn đồ đạc trong nhà đều là hiện vật thật, từng là của hồi môn của các cô dâu xưa. Người thuyết minh sẽ kể cho khách nghe những nghi thức, kiêng kị và cả mẹo vặt để cưới được nhà giàu, đôi khi mời khách nhập vai cô dâu chú rể trong một nghi lễ mô phỏng. Đây là điểm bổ trợ nhẹ nhàng, giàu tính đời thường, rất hợp để đổi không khí giữa các bảo tàng hội hoạ và nhà thờ của Plyos.",
+    "highlights_vi": [
+      "Bảo tàng tư nhân về phong tục cưới hỏi của thị dân Nga xưa.",
+      "Đặt trong nhà một dược sĩ giàu từng tổ chức cưới cho con gái.",
+      "Trưng bày của hồi môn, y phục, nghi lễ mai mối; có trải nghiệm nhập vai."
+    ],
+    "practical": {
+      "hours_vi": "Bảo tàng nhỏ, giờ mở thất thường – nên gọi hỏi trước khi tới.",
+      "ticket_vi": "Vé bình dân.",
+      "duration_vi": "30–45 phút.",
+      "best_time_vi": "Quanh năm.",
+      "tips_vi": "Nên đặt/gọi trước; kết hợp với Đồi Nhà thờ và phố cổ gần đó."
+    },
+    "photo": null,
+    "photo_credit": null,
+    "maps": {
+      "yandex": "https://yandex.com/maps/?pt=41.51777,57.45725&z=17&l=map",
+      "google": "https://www.google.com/maps/search/?api=1&query=57.45725,41.51777"
+    },
+    "official_site": null,
+    "sources": [
+      {
+        "title": "Культурный туризм — Музей свадьбы (Плёс)",
+        "url": "https://culttourism.ru/ivanovskaya/plyos/muzey_svadby.html"
+      }
+    ],
+    "tags": [
+      "museum",
+      "wedding",
+      "tradition",
+      "ethnography",
+      "plyos",
+      "daily-life",
+      "golden-ring"
+    ],
+    "status": "enriched",
+    "last_updated": "2026-09-30",
     "country": "russia"
   }
 ]
