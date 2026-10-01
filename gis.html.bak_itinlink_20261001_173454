@@ -412,7 +412,7 @@
   var trip = { name: "", pax: 4, cur: "₽", date: "", time: "08:00",
                startName: "", startLat: null, startLon: null,
                hotel: 0, hotelU: "g", meal: 0, mealU: "p", other: 0, otherU: "g",
-               exLinks: true, exMine: true };
+               exLinks: true };
   var diagram = { on: false, names: false };   // chế độ sơ đồ trên bản đồ
   var markers = {};          // id -> marker
   var pinOnly = false;       // lọc: chỉ hiện điểm đã ghim
@@ -981,7 +981,6 @@
       '<label>Giờ xuất phát<input type="time" data-tfield="time" value="' + attrEsc(trip.time) + '"/></label>' +
       '<label>Điểm xuất phát<input data-tfield="startName" value="' + attrEsc(trip.startName) + '" placeholder="VD: Khách sạn ..."/></label>' +
       '<label class="pl-check"><input type="checkbox" data-tfield="exLinks"' + (trip.exLinks === false ? "" : " checked") + '/> Kèm link bản đồ (Google/Yandex) khi xuất file</label>' +
-      '<label class="pl-check"><input type="checkbox" data-tfield="exMine"' + (trip.exMine === false ? "" : " checked") + '/> 🧭 Kèm link mở điểm trên Bản đồ GIS của web mình khi xuất file</label>' +
       '</div><div class="muted" style="font-size:11.5px;margin-top:6px;">💡 Ngày & số khách có thể chỉnh riêng cho từng ngày ở tiêu đề mỗi ngày bên dưới (ngày có thể cách quãng, số khách có thể khác nhau).</div></div>';
     // ---- Chi phí chung ----
     h += '<div class="pl-card"><div class="pl-h">💵 Chi phí chung (tuỳ chọn)</div><div class="pl-grid">' +
@@ -1114,8 +1113,7 @@
       return { i: i + 1, name: RT.t(p, "name"), lat: c.lat, lon: c.lon, day: tl[i].day,
         arr: fmtHM(tl[i].arr), dep: fmtHM(tl[i].dep), mode: modeInfo(s.mode), travel: +s.travel || 0, stay: +s.stay || 0,
         cv: +s.cv || 0, cvu: s.cvu, ct: +s.ct || 0, ctu: s.ctu, note: s.note || "",
-        gmap: gLink(p, lm), ymap: yLink(p, lm), doc: absUrl(docUrlOf(p)), custom: !!p.custom,
-        mine: (p && !p.custom && p.id) ? absUrl("gis.html?focus=" + encodeURIComponent(p.id)) : "" };
+        gmap: gLink(p, lm), ymap: yLink(p, lm), doc: absUrl(docUrlOf(p)), custom: !!p.custom };
     });
   }
   function tripTitle() { return trip.name || "Lịch trình du lịch"; }
@@ -1135,7 +1133,6 @@
       if (cost.length) L.push("     💰 " + cost.join(" · "));
       if (r.note) L.push("     📝 " + r.note);
       if (links) { var lk = []; if (r.gmap) lk.push("Google: " + r.gmap); if (r.ymap) lk.push("Yandex: " + r.ymap); if (lk.length) L.push("     🔗 " + lk.join("  |  ")); }
-      if (trip.exMine !== false && r.mine) L.push("     🧭 Bản đồ của tôi: " + r.mine);
       if (r.doc) L.push("     📄 Thuyết minh: " + r.doc);
     });
     L.push("");
@@ -1153,7 +1150,6 @@
       if (r.day !== curDay) { curDay = r.day; h += '<tr class="day"><td colspan="7">🗓 ' + he(dayHeadTxt(curDay)) + '</td></tr>'; }
       var pc = '<b>' + he(r.name) + '</b>';
       if (links && (r.gmap || r.ymap)) pc += '<div class="lk">🔗 ' + (r.gmap ? '<a href="' + he(r.gmap) + '" target="_blank" rel="noopener">Google</a>' : "") + (r.ymap ? '<a href="' + he(r.ymap) + '" target="_blank" rel="noopener">Yandex</a>' : "") + '</div>';
-      if (trip.exMine !== false && r.mine) pc += '<div class="lk"><a href="' + he(r.mine) + '" target="_blank" rel="noopener">🧭 Mở trên bản đồ của tôi</a></div>';
       if (r.doc) pc += '<div class="lk doc"><a href="' + he(r.doc) + '" target="_blank" rel="noopener">📄 Bài thuyết minh</a></div>';
       h += '<tr><td>' + r.i + '</td><td>' + r.arr + '–' + r.dep + '</td><td>' + pc + '</td>' +
         '<td>' + r.mode.e + ' ' + modeLabel(r.mode) + '<br>' + r.travel + '′ đi · ' + r.stay + '′ tham quan</td>' +
@@ -1170,9 +1166,9 @@
   function slugName() { return (tripTitle().normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/[^a-zA-Z0-9]+/g, "-").toLowerCase() || "lich-trinh"); }
   function exportCSV() {
     var rows = itinRows(), t = totals();
-    var head = ["STT", "Ngay", "Ngay_thang", "So_khach", "Den", "Roi", "Dia_diem", "Lat", "Lon", "Phuong_tien", "Di_phut", "Tham_quan_phut", "Ve", "Ve_don_vi", "Chi_phi_di", "Di_don_vi", "Ghi_chu", "Google_map", "Yandex_map", "Thuyet_minh", "Ban_do_GIS_cua_toi"];
+    var head = ["STT", "Ngay", "Ngay_thang", "So_khach", "Den", "Roi", "Dia_diem", "Lat", "Lon", "Phuong_tien", "Di_phut", "Tham_quan_phut", "Ve", "Ve_don_vi", "Chi_phi_di", "Di_don_vi", "Ghi_chu", "Google_map", "Yandex_map", "Thuyet_minh"];
     var out = [head];
-    rows.forEach(function (r) { out.push([r.i, r.day, fmtDate(dayDateOf(r.day)), dayPaxOf(r.day), r.arr, r.dep, r.name, r.lat, r.lon, modeLabel(r.mode), r.travel, r.stay, r.cv, r.cvu === "p" ? "nguoi" : "doan", r.ct, r.ctu === "p" ? "nguoi" : "doan", r.note, r.gmap, r.ymap, r.doc, r.mine]); });
+    rows.forEach(function (r) { out.push([r.i, r.day, fmtDate(dayDateOf(r.day)), dayPaxOf(r.day), r.arr, r.dep, r.name, r.lat, r.lon, modeLabel(r.mode), r.travel, r.stay, r.cv, r.cvu === "p" ? "nguoi" : "doan", r.ct, r.ctu === "p" ? "nguoi" : "doan", r.note, r.gmap, r.ymap, r.doc]); });
     function pad(a) { while (a.length < head.length) a.push(""); return a; }
     out.push([]); out.push(pad(["TONG/nguoi", Math.round(t.per)])); out.push(pad(["TONG ca doan", Math.round(t.group)]));
     var csv = "﻿" + out.map(function (r) { return r.map(function (c) { return '"' + String(c == null ? "" : c).replace(/"/g, '""') + '"'; }).join(","); }).join("\n");
@@ -1251,7 +1247,6 @@
       if (r.day !== curDay) { curDay = r.day; tbl += "<w:tr>" + cell(para(run("🗓 " + dayHeadTxt(curDay), { b: true, color: "5A4300", sz: 18 })), { span: NC, shade: "F6E7C2" }) + "</w:tr>"; }
       var placeInner = para(run(r.name, { b: true }));
       if (links && (r.gmap || r.ymap)) { var lk = run("🔗 ", { sz: 16, color: "667085" }); if (r.gmap) lk += hyper("Google", r.gmap); if (r.gmap && r.ymap) lk += run("   ", {}); if (r.ymap) lk += hyper("Yandex", r.ymap); placeInner += para(lk); }
-      if (trip.exMine !== false && r.mine) placeInner += para(hyper("🧭 Bản đồ của tôi", r.mine));
       if (r.doc) placeInner += para(hyper("📄 Bài thuyết minh", r.doc));
       var moveTxt = r.mode.e + " " + modeLabel(r.mode) + "\n" + r.travel + "′ đi · " + r.stay + "′ tham quan";
       tbl += "<w:tr>" +
@@ -1383,7 +1378,6 @@
     if (!st || !st.trip || !st.tour) { alert("File không chứa dữ liệu lịch trình hợp lệ."); return; }
     trip = st.trip; tour = st.tour; customPlaces = st.custom || {}; dayStart = st.dayStart || {}; dayDate = st.dayDate || {}; dayPax = st.dayPax || {}; activeDay = st.activeDay || 1;
     if (trip.exLinks == null) trip.exLinks = true;
-    if (trip.exMine == null) trip.exMine = true;
     var mu = 0, mc = 0;
     tour.forEach(function (s) { var n = parseInt((s.uid || "").replace(/\D/g, ""), 10) || 0; if (n > mu) mu = n; });
     Object.keys(customPlaces).forEach(function (k) { var n = parseInt(k.replace(/\D/g, ""), 10) || 0; if (n > mc) mc = n; });
