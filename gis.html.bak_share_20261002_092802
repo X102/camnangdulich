@@ -715,7 +715,6 @@
         '<button class="btn sm" onclick="RTGIS.detail(\'' + p.id + '\')">' + RT.uiText("detail") + '</button>' +
         '<button class="btn sm ' + (isIn ? "primary" : "") + '" onclick="RTGIS.toggleTour(\'' + p.id + '\')">' + (isIn ? RT.uiText("inTour") : RT.uiText("addTour")) + '</button>' +
         RT.pinBtnHTML(p) +
-        RT.shareBtnHTML('gis.html?focus=' + p.id, (RT.t(p, "name") || p.name_vi || "")) +
       '</div>' +
       '<div class="pop-actions">' +
         '<a class="btn sm" href="' + RT.escapeHtml(RT.ymapLink(p)) + '" target="_blank" rel="noopener">📍 Ya Maps</a>' +
@@ -1450,7 +1449,6 @@
           '<a class="btn sm" href="' + RT.escapeHtml(RT.ysearchLink(p)) + '" target="_blank" rel="noopener">🔎 Yandex (RU)</a>' +
           (RT.docUrlOf(p) ? '<a class="btn sm gold" href="' + RT.escapeHtml(RT.docUrlOf(p)) + '" target="_blank" rel="noopener">📄 Bài thuyết minh chi tiết</a>' : '') +
           RT.pinBtnHTML(p) +
-          RT.shareBtnHTML('gis.html?focus=' + p.id, (RT.t(p, "name") || p.name_vi || "")) +
         '</div>' +
         '<h4>' + RT.uiText("detailPres") + '</h4><p style="font-size:14px;">' + RT.escapeHtml(RT.t(p, "presentation_long")) + '</p>' +
         (hl ? '<h4>' + RT.uiText("highlights") + '</h4><ul style="font-size:13.5px;">' + hl + '</ul>' : '') +

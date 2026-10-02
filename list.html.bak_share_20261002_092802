@@ -251,7 +251,6 @@
           '<a class="btn sm" href="' + RT.escapeHtml(RT.ysearchLink(p)) + '" target="_blank" rel="noopener">🔎 Yandex (RU)</a>' +
           (RT.docUrlOf(p) ? '<a class="btn sm gold" href="' + RT.escapeHtml(RT.docUrlOf(p)) + '" target="_blank" rel="noopener">📄 Bài thuyết minh</a>' : '') +
           RT.pinBtnHTML(p) +
-          RT.shareBtnHTML('gis.html?focus=' + p.id, (RT.t(p, "name") || p.name_vi || "")) +
         '</div>' +
         '<div class="detail">' +
           '<h4>' + RT.uiText("detailPres") + '</h4>' +
