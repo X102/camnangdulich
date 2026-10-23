@@ -1,0 +1,94 @@
+{
+  "restaurant": {
+    "id": "ryba-kolomna",
+    "brand": "Рыба",
+    "type": "restaurant",
+    "name_vi": "Quán Nga «Ryba» (Русский трактир «Рыба»)",
+    "name_en": "Ryba Russian Tavern, Kolomna",
+    "name_ru": "Русский трактир «Рыба»",
+    "cuisine_vi": "Ẩm thực Nga, chuyên món cá & món lò",
+    "cuisine_en": "Russian cuisine, fish & oven dishes",
+    "cuisine_ru": "Русская кухня, рыба и печные блюда",
+    "cities": [
+      "Kolomna"
+    ],
+    "address_vi": "Москворецкая ул., 7, Kolomna, tỉnh Moskva, Nga.",
+    "hours": "Theo giờ nhà hàng; có chương trình điểm tâm.",
+    "phone": "",
+    "site": "",
+    "site_url": "",
+    "map_url": "https://yandex.com/maps/?text=%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D1%82%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%80%20%D0%A0%D1%8B%D0%B1%D0%B0%20%D0%9A%D0%BE%D0%BB%D0%BE%D0%BC%D0%BD%D0%B0%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%BE%D1%80%D0%B5%D1%86%D0%BA%D0%B0%D1%8F%207",
+    "price_level": "₽₽",
+    "about_vi": "«Ryba» (nghĩa là «Cá») là quán trọ (traktir) kiểu Nga chuyên các món cá và món nấu trong lò. Nổi bật có chương trình điểm tâm với các món truyền thống và câu chuyện lịch sử Kolomna, trong đó có món cháo ngọt Gurievskaya trứ danh. Không gian ấm cúng kiểu Nga, hợp cho bữa no bụng.",
+    "about_en": "Ryba is a Russian tavern specialising in fish and oven-baked dishes, with a traditional breakfast program featuring Kolomna history and the famous Guryev porridge.",
+    "about_ru": "Русский трактир «Рыба»: рыбные и печные блюда, печные завтраки, гурьевская каша.",
+    "tags": [
+      "russian",
+      "traktir",
+      "fish",
+      "kolomna",
+      "breakfast",
+      "moscow-oblast"
+    ]
+  },
+  "dishes": [
+    {
+      "cat": "soups",
+      "name_vi": "Súp cá Ukha",
+      "name_en": "Ukha fish soup",
+      "name_ru": "Уха",
+      "weight": "",
+      "price": "",
+      "currency": "RUB",
+      "veg": false,
+      "spicy": false,
+      "intro_vi": "Súp cá Nga cổ điển, nước dùng trong, ngọt thanh; ấm bụng.",
+      "intro_en": "Classic Russian clear fish soup.",
+      "intro_ru": "Классическая русская уха.",
+      "tips_vi": "",
+      "tags": [
+        "soup",
+        "fish"
+      ]
+    },
+    {
+      "cat": "hot",
+      "name_vi": "Cá nấu lò kiểu Nga",
+      "name_en": "Russian oven-baked fish",
+      "name_ru": "Рыба из печи",
+      "weight": "",
+      "price": "",
+      "currency": "RUB",
+      "veg": false,
+      "spicy": false,
+      "intro_vi": "Cá tươi nấu/nướng trong lò Nga, giữ trọn vị ngọt; ăn kèm khoai và rau.",
+      "intro_en": "Fresh fish baked in a Russian oven with potato and vegetables.",
+      "intro_ru": "Рыба, запечённая в русской печи.",
+      "tips_vi": "",
+      "tags": [
+        "fish",
+        "hot"
+      ]
+    },
+    {
+      "cat": "porridge",
+      "name_vi": "Cháo ngọt Gurievskaya",
+      "name_en": "Guryev porridge",
+      "name_ru": "Гурьевская каша",
+      "weight": "",
+      "price": "",
+      "currency": "RUB",
+      "veg": false,
+      "spicy": false,
+      "intro_vi": "Cháo semolina ngọt với các lớp váng sữa, hạt và mứt – món tráng miệng quý tộc Nga.",
+      "intro_en": "Sweet semolina porridge layered with milk skins, nuts and jam — a classic Russian dessert.",
+      "intro_ru": "Сладкая гурьевская каша с орехами и вареньем.",
+      "tips_vi": "Món tráng miệng đáng thử.",
+      "tags": [
+        "porridge",
+        "sweet",
+        "local"
+      ]
+    }
+  ]
+}

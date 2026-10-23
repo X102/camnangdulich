@@ -1,0 +1,94 @@
+{
+  "restaurant": {
+    "id": "nameki-kolomna",
+    "brand": "Намёки",
+    "type": "restaurant",
+    "name_vi": "Nhà hàng-bar «Námëki» (Намёки)",
+    "name_en": "Nameki Bar & Restaurant, Kolomna",
+    "name_ru": "Бар «Намёки»",
+    "cuisine_vi": "Ẩm thực Âu–Nga hiện đại, bar",
+    "cuisine_en": "Modern European–Russian, bar",
+    "cuisine_ru": "Современная европейско-русская кухня, бар",
+    "cities": [
+      "Kolomna"
+    ],
+    "address_vi": "Ул. Лажечникова, phố cổ trong thành, Kolomna, tỉnh Moskva, Nga.",
+    "hours": "Theo giờ nhà hàng; nên kiểm tra cuối tuần.",
+    "phone": "",
+    "site": "",
+    "site_url": "",
+    "map_url": "https://yandex.com/maps/?text=%D0%9D%D0%B0%D0%BC%D1%91%D0%BA%D0%B8%20%D0%B1%D0%B0%D1%80%20%D0%9A%D0%BE%D0%BB%D0%BE%D0%BC%D0%BD%D0%B0%20%D0%9B%D0%B0%D0%B6%D0%B5%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0",
+    "price_level": "₽₽",
+    "about_vi": "Námëki là quán bar – nhà hàng hiện đại nằm ngay trên phố cổ Lazhechnikova trong thành Kolomna, được giới trẻ và du khách ưa thích. Không gian trẻ trung, thực đơn Âu–Nga hiện đại cùng đồ uống phong phú – điểm dừng hợp lý giữa hành trình tham quan phố cổ. Giờ mở và thực đơn có thể đổi, nên kiểm tra trước.",
+    "about_en": "Nameki is a modern bar-restaurant on Lazhechnikova street in the Kolomna Kremlin, popular with younger visitors — a lively stop with a European–Russian menu.",
+    "about_ru": "«Намёки» — современный бар-ресторан на улице Лажечникова в Коломенском кремле.",
+    "tags": [
+      "russian",
+      "european",
+      "bar",
+      "kolomna",
+      "central",
+      "modern",
+      "moscow-oblast"
+    ]
+  },
+  "dishes": [
+    {
+      "cat": "bread",
+      "name_vi": "Bánh Kalach Kolomna",
+      "name_en": "Kolomna kalach",
+      "name_ru": "Коломенский калач",
+      "weight": "",
+      "price": "",
+      "currency": "RUB",
+      "veg": false,
+      "spicy": false,
+      "intro_vi": "Bánh mì trắng hình quai xách trứ danh của Kolomna, nướng lò củi, vỏ giòn ruột mềm; ăn nóng rất ngon.",
+      "intro_en": "Kolomna's signature handle-shaped white bread, wood-oven baked, crisp outside and soft inside.",
+      "intro_ru": "Знаменитый коломенский калач, выпеченный в дровяной печи.",
+      "tips_vi": "Đặc sản phải thử; ăn nóng.",
+      "tags": [
+        "signature",
+        "local",
+        "bread"
+      ]
+    },
+    {
+      "cat": "hot",
+      "name_vi": "Món chính Âu–Nga",
+      "name_en": "European–Russian mains",
+      "name_ru": "Горячие блюда",
+      "weight": "",
+      "price": "",
+      "currency": "RUB",
+      "veg": false,
+      "spicy": false,
+      "intro_vi": "Các món chính kiểu Âu–Nga hiện đại, trình bày đẹp; đổi theo mùa.",
+      "intro_en": "Modern European–Russian main courses, seasonal.",
+      "intro_ru": "Современные горячие блюда, по сезону.",
+      "tips_vi": "",
+      "tags": [
+        "hot"
+      ]
+    },
+    {
+      "cat": "drinks",
+      "name_vi": "Rượu mật ong Medovukha",
+      "name_en": "Medovukha (honey mead)",
+      "name_ru": "Медовуха",
+      "weight": "",
+      "price": "",
+      "currency": "RUB",
+      "veg": false,
+      "spicy": false,
+      "intro_vi": "Thức uống lên men từ mật ong, nhẹ và thơm, truyền thống của các thành phố Nga cổ.",
+      "intro_en": "Lightly fermented honey mead, a traditional Old-Russian drink.",
+      "intro_ru": "Традиционный медовый напиток русских городов.",
+      "tips_vi": "",
+      "tags": [
+        "drink",
+        "local"
+      ]
+    }
+  ]
+}

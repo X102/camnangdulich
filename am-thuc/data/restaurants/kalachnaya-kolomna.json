@@ -1,0 +1,94 @@
+{
+  "restaurant": {
+    "id": "kalachnaya-kolomna",
+    "brand": "Калачная",
+    "type": "cafe",
+    "name_vi": "Lò bánh «Kalachnaya» (Музей-калачная)",
+    "name_en": "Kalachnaya Bakery & Museum, Kolomna",
+    "name_ru": "Музей-калачная",
+    "cuisine_vi": "Lò bánh: kalach, bánh nướng Nga",
+    "cuisine_en": "Bakery: kalach & Russian pastries",
+    "cuisine_ru": "Калачи и русская выпечка",
+    "cities": [
+      "Kolomna"
+    ],
+    "address_vi": "Ул. Зайцева, 14, cạnh Cổng Pyatnitsky, Kolomna, tỉnh Moskva, Nga.",
+    "hours": "Hằng ngày 10:00–20:00; tham quan theo suất, cần đặt trước.",
+    "phone": "",
+    "site": "",
+    "site_url": "https://kolomnposad.ru/",
+    "map_url": "https://yandex.com/maps/?text=%D0%9A%D0%B0%D0%BB%D0%B0%D1%87%D0%BD%D0%B0%D1%8F%20%D0%9A%D0%BE%D0%BB%D0%BE%D0%BC%D0%BD%D0%B0%20%D0%97%D0%B0%D0%B9%D1%86%D0%B5%D0%B2%D0%B0%2014",
+    "price_level": "₽₽",
+    "about_vi": "«Kalachnaya» vừa là bảo tàng-lò bánh vừa là nơi thưởng thức bánh kalach nóng – bánh mì quai xách trứ danh của Kolomna, nướng trong lò củi theo công thức thế kỷ 14. Có tour biểu diễn kèm nếm bánh và trà. Ngoài kalach còn có kulebyaka nhân ngỗng, krendel, bánh papushnik để mua mang về.",
+    "about_en": "Kalachnaya is a museum-bakery by the Pyatnitsky Gates where you taste hot Kolomna kalach baked in a wood oven to a 14th-century recipe, with a theatrical tour and tea.",
+    "about_ru": "Музей-калачная у Пятницких ворот: горячие коломенские калачи из дровяной печи, театрализованная экскурсия с дегустацией.",
+    "tags": [
+      "bakery",
+      "kalach",
+      "food",
+      "museum",
+      "kolomna",
+      "central",
+      "moscow-oblast"
+    ]
+  },
+  "dishes": [
+    {
+      "cat": "bread",
+      "name_vi": "Bánh Kalach Kolomna",
+      "name_en": "Kolomna kalach",
+      "name_ru": "Коломенский калач",
+      "weight": "",
+      "price": "",
+      "currency": "RUB",
+      "veg": false,
+      "spicy": false,
+      "intro_vi": "Bánh mì trắng hình quai xách trứ danh của Kolomna, nướng lò củi, vỏ giòn ruột mềm; ăn nóng rất ngon.",
+      "intro_en": "Kolomna's signature handle-shaped white bread, wood-oven baked, crisp outside and soft inside.",
+      "intro_ru": "Знаменитый коломенский калач, выпеченный в дровяной печи.",
+      "tips_vi": "Đặc sản phải thử; ăn nóng.",
+      "tags": [
+        "signature",
+        "local",
+        "bread"
+      ]
+    },
+    {
+      "cat": "pies",
+      "name_vi": "Bánh Kulebyaka nhân ngỗng",
+      "name_en": "Goose kulebyaka pie",
+      "name_ru": "Кулебяка с гусём",
+      "weight": "",
+      "price": "",
+      "currency": "RUB",
+      "veg": false,
+      "spicy": false,
+      "intro_vi": "Bánh nướng lớn nhân ngỗng theo kiểu Nga cổ, thơm và đầy đặn.",
+      "intro_en": "A large Old-Russian pie filled with goose.",
+      "intro_ru": "Кулебяка с гусём по старинному рецепту.",
+      "tips_vi": "",
+      "tags": [
+        "pie",
+        "local"
+      ]
+    },
+    {
+      "cat": "bread",
+      "name_vi": "Bánh Krendel & Papushnik",
+      "name_en": "Krendel & papushnik bread",
+      "name_ru": "Крендель и папушник",
+      "weight": "",
+      "price": "",
+      "currency": "RUB",
+      "veg": false,
+      "spicy": false,
+      "intro_vi": "Bánh krendel ngọt và bánh mì papushnik truyền thống, ngon để mua mang về.",
+      "intro_en": "Sweet krendel and traditional papushnik bread to take away.",
+      "intro_ru": "Крендель и папушник.",
+      "tips_vi": "",
+      "tags": [
+        "bread"
+      ]
+    }
+  ]
+}

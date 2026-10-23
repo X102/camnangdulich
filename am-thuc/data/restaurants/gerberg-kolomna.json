@@ -1,0 +1,93 @@
+{
+  "restaurant": {
+    "id": "gerberg-kolomna",
+    "brand": "Гербергъ 1-го нумера",
+    "type": "restaurant",
+    "name_vi": "Nhà hàng «Gérberg số 1» (Гербергъ 1-го нумера)",
+    "name_en": "Gerberg No.1 City Estate, Kolomna",
+    "name_ru": "Городская усадьба «Гербергъ 1-го нумера»",
+    "cuisine_vi": "Ẩm thực Nga, chuyên rượu chưng cất truyền thống",
+    "cuisine_en": "Russian cuisine, traditional distillates",
+    "cuisine_ru": "Русская кухня, история русских дистиллятов",
+    "cities": [
+      "Kolomna"
+    ],
+    "address_vi": "Ул. Лажечникова, 10, trong thành Kolomna, tỉnh Moskva, Nga.",
+    "hours": "Theo giờ nhà hàng; nên đặt bàn.",
+    "phone": "",
+    "site": "",
+    "site_url": "",
+    "map_url": "https://yandex.com/maps/?text=%D0%93%D0%B5%D1%80%D0%B1%D0%B5%D1%80%D0%B3%D1%8A%201-%D0%B3%D0%BE%20%D0%BD%D1%83%D0%BC%D0%B5%D1%80%D0%B0%20%D0%9A%D0%BE%D0%BB%D0%BE%D0%BC%D0%BD%D0%B0%20%D0%9B%D0%B0%D0%B6%D0%B5%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%2010",
+    "price_level": "₽₽₽",
+    "about_vi": "«Gérberg số 1» là nhà hàng trong một dinh thự thương gia phục dựng trên phố Lazhechnikova, theo phong cách «trạm trọ» (gerberg) Nga xưa. Chuyên ẩm thực Nga truyền thống và kể câu chuyện về các loại rượu chưng cất Nga. Không gian cổ sang trọng, hợp cho bữa chính và trải nghiệm văn hoá ẩm thực.",
+    "about_en": "Gerberg No.1 is a restaurant in a restored merchant estate on Lazhechnikova street, serving traditional Russian cuisine and telling the story of Russian distillates.",
+    "about_ru": "Ресторан в городской усадьбе на Лажечникова: русская кухня и история русских дистиллятов.",
+    "tags": [
+      "russian",
+      "restaurant",
+      "historic",
+      "distillates",
+      "kolomna",
+      "central",
+      "moscow-oblast"
+    ]
+  },
+  "dishes": [
+    {
+      "cat": "appetizers",
+      "name_vi": "Khai vị Nga (zakuski)",
+      "name_en": "Russian zakuski",
+      "name_ru": "Русские закуски",
+      "weight": "",
+      "price": "",
+      "currency": "RUB",
+      "veg": false,
+      "spicy": false,
+      "intro_vi": "Mâm khai vị Nga: dưa muối, cá, nấm, bánh mì đen – dùng kèm rượu chưng cất.",
+      "intro_en": "Russian zakuski — pickles, fish, mushrooms, rye bread, served with distillates.",
+      "intro_ru": "Русские закуски под дистилляты.",
+      "tips_vi": "",
+      "tags": [
+        "cold",
+        "local"
+      ]
+    },
+    {
+      "cat": "hot",
+      "name_vi": "Món chính Nga truyền thống",
+      "name_en": "Traditional Russian mains",
+      "name_ru": "Русские горячие блюда",
+      "weight": "",
+      "price": "",
+      "currency": "RUB",
+      "veg": false,
+      "spicy": false,
+      "intro_vi": "Các món chính Nga cổ điển nấu theo công thức truyền thống.",
+      "intro_en": "Classic traditional Russian main courses.",
+      "intro_ru": "Классические русские горячие блюда.",
+      "tips_vi": "",
+      "tags": [
+        "hot"
+      ]
+    },
+    {
+      "cat": "drinks",
+      "name_vi": "Rượu mật ong Medovukha",
+      "name_en": "Medovukha (honey mead)",
+      "name_ru": "Медовуха",
+      "weight": "",
+      "price": "",
+      "currency": "RUB",
+      "veg": false,
+      "spicy": false,
+      "intro_vi": "Thức uống lên men từ mật ong, nhẹ và thơm, truyền thống của các thành phố Nga cổ.",
+      "intro_en": "Lightly fermented honey mead, a traditional Old-Russian drink.",
+      "intro_ru": "Традиционный медовый напиток русских городов.",
+      "tips_vi": "",
+      "tags": [
+        "drink",
+        "local"
+      ]
+    }
+  ]
+}
