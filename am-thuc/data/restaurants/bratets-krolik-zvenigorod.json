@@ -1,0 +1,99 @@
+{
+  "restaurant": {
+    "id": "bratets-krolik-zvenigorod",
+    "brand": "Братец Кролик",
+    "type": "restaurant",
+    "name_vi": "Bratets Krolik (Chú Thỏ) — gastropub thịt thỏ",
+    "name_en": "Bratets Krolik — rabbit gastropub",
+    "name_ru": "Братец Кролик",
+    "cuisine_vi": "Gastropub, chuyên món thịt thỏ",
+    "cuisine_en": "gastropub, rabbit specialties",
+    "cuisine_ru": "гастропаб, блюда из кролика",
+    "cities": [
+      "Zvenigorod"
+    ],
+    "address_vi": "Khu vực phố Московская (ул. Московская), trung tâm Zvenigorod",
+    "hours": "theo giờ nhà hàng (cần kiểm chứng)",
+    "phone": "",
+    "site": "",
+    "site_url": "",
+    "map_url": "https://yandex.com/maps/?text=%D0%91%D1%80%D0%B0%D1%82%D0%B5%D1%86%20%D0%9A%D1%80%D0%BE%D0%BB%D0%B8%D0%BA%2C%20Zvenigorod%2C%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F",
+    "price_level": "₽₽₽",
+    "about_vi": "Gastropub nổi tiếng của Zvenigorod chuyên các món từ thịt thỏ nuôi tự nhiên: từ pelmeni, xúc xích đến burger. Giá ngang Moskva và khẩu phần không lớn, nhưng quán rất đông cả khách địa phương lẫn du khách — nên đặt trước hoặc đến sớm.",
+    "about_en": "A popular Zvenigorod gastropub specializing in dishes from naturally raised rabbit: dumplings, sausages, burgers. Moscow-level prices and modest portions, but often full with locals and tourists — book ahead or come early.",
+    "about_ru": "Известный звенигородский гастропаб с блюдами из фермерского кролика: от пельменей до бургеров. Цены московские, порции небольшие, но часто аншлаг — лучше бронировать.",
+    "tags": [
+      "Zvenigorod",
+      "thịt thỏ",
+      "gastropub",
+      "đặc sản",
+      "nên đặt trước"
+    ]
+  },
+  "dishes": [
+    {
+      "cat": "dumplings",
+      "name_vi": "Pelmeni nhân thỏ",
+      "name_en": "Rabbit pelmeni",
+      "name_ru": "Пельмени с кроликом",
+      "weight": "",
+      "price": "",
+      "currency": "RUB",
+      "veg": false,
+      "spicy": false,
+      "intro_vi": "Bánh bao hấp/luộc nhân thịt thỏ — món ký hiệu của quán.",
+      "intro_en": "Dumplings filled with rabbit — the signature dish.",
+      "intro_ru": "Пельмени с начинкой из кролика — визитная карточка.",
+      "tips_vi": "",
+      "tags": []
+    },
+    {
+      "cat": "appetizers",
+      "name_vi": "Xúc xích thỏ",
+      "name_en": "Rabbit sausage",
+      "name_ru": "Колбаска из кролика",
+      "weight": "",
+      "price": "",
+      "currency": "RUB",
+      "veg": false,
+      "spicy": false,
+      "intro_vi": "Xúc xích thỏ tự làm, đặc sản được nhắc nhiều.",
+      "intro_en": "House-made rabbit sausage, a much-mentioned specialty.",
+      "intro_ru": "Домашняя колбаска из кролика.",
+      "tips_vi": "",
+      "tags": []
+    },
+    {
+      "cat": "hot",
+      "name_vi": "Thỏ hầm kiểu nhà",
+      "name_en": "Home-style braised rabbit",
+      "name_ru": "Кролик тушёный",
+      "weight": "",
+      "price": "",
+      "currency": "RUB",
+      "veg": false,
+      "spicy": false,
+      "intro_vi": "Thịt thỏ hầm mềm, phục vụ nóng.",
+      "intro_en": "Tender braised rabbit, served hot.",
+      "intro_ru": "Нежный тушёный кролик.",
+      "tips_vi": "",
+      "tags": []
+    },
+    {
+      "cat": "hotsnacks",
+      "name_vi": "Burger thỏ",
+      "name_en": "Rabbit burger",
+      "name_ru": "Бургер с кроликом",
+      "weight": "",
+      "price": "",
+      "currency": "RUB",
+      "veg": false,
+      "spicy": false,
+      "intro_vi": "Burger nhân thịt thỏ, biến tấu hiện đại.",
+      "intro_en": "Burger with rabbit patty, a modern twist.",
+      "intro_ru": "Бургер с котлетой из кролика.",
+      "tips_vi": "",
+      "tags": []
+    }
+  ]
+}

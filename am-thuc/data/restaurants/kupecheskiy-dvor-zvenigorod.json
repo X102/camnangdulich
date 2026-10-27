@@ -1,0 +1,99 @@
+{
+  "restaurant": {
+    "id": "kupecheskiy-dvor-zvenigorod",
+    "brand": "Купеческий двор",
+    "type": "cafe",
+    "name_vi": "Купecheskiy Dvor (Khu ẩm thực & chợ thủ công)",
+    "name_en": "Kupecheskiy Dvor (food court & craft market)",
+    "name_ru": "Купеческий двор (Купчий двор)",
+    "cuisine_vi": "Nga, đồ ăn nhanh dân dã, chợ quà lưu niệm",
+    "cuisine_en": "Russian, street food, craft market",
+    "cuisine_ru": "русская кухня, стритфуд, ярмарка",
+    "cities": [
+      "Zvenigorod"
+    ],
+    "address_vi": "Khu nhà gỗ trên phố Московская (ул. Московская), trung tâm Zvenigorod",
+    "hours": "10:00–20:00 (theo mùa, cần kiểm chứng)",
+    "phone": "",
+    "site": "",
+    "site_url": "",
+    "map_url": "https://yandex.com/maps/?text=%D0%9A%D1%83%D0%BF%D0%B5%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D0%B2%D0%BE%D1%80%20%28%D0%9A%D1%83%D0%BF%D1%87%D0%B8%D0%B9%20%D0%B4%D0%B2%D0%BE%D1%80%29%2C%20Zvenigorod%2C%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F",
+    "price_level": "₽₽",
+    "about_vi": "Tổ hợp nhà gỗ nhiều màu dưới cổng gỗ trên phố Московская: vừa là khu ẩm thực có sân ngoài trời, vừa bán đồ thủ công, mỹ phẩm, hoa và quà lưu niệm, có cả phòng tranh. Điểm dừng tiện lợi giữa hành trình dạo phố cổ.",
+    "about_en": "A cluster of colorful wooden huts on Moskovskaya street: a food court with an outdoor patio that also sells crafts, cosmetics, flowers and souvenirs, with an art gallery. A convenient stop while walking the old town.",
+    "about_ru": "Комплекс разноцветных деревянных домиков под деревянной аркой на Московской улице: фудкорт с летней верандой, а также народные промыслы, косметика, цветы, сувениры и галерея.",
+    "tags": [
+      "Zvenigorod",
+      "phố Московская",
+      "chợ thủ công",
+      "check-in",
+      "tiện đoàn"
+    ]
+  },
+  "dishes": [
+    {
+      "cat": "pancakes",
+      "name_vi": "Blin Nga (bánh kếp)",
+      "name_en": "Russian blini",
+      "name_ru": "Блины",
+      "weight": "",
+      "price": "",
+      "currency": "RUB",
+      "veg": false,
+      "spicy": false,
+      "intro_vi": "Bánh kếp mỏng ăn kèm mật ong, mứt hoặc nhân mặn.",
+      "intro_en": "Thin pancakes with honey, jam or savory fillings.",
+      "intro_ru": "Тонкие блины с мёдом, вареньем или начинкой.",
+      "tips_vi": "",
+      "tags": []
+    },
+    {
+      "cat": "pies",
+      "name_vi": "Bánh pirozhki",
+      "name_en": "Pirozhki (baked pies)",
+      "name_ru": "Пирожки",
+      "weight": "",
+      "price": "",
+      "currency": "RUB",
+      "veg": false,
+      "spicy": false,
+      "intro_vi": "Bánh nướng nhân mặn/ngọt, tiện ăn nhanh khi dạo phố.",
+      "intro_en": "Baked buns with savory or sweet fillings.",
+      "intro_ru": "Печёные пирожки со сладкой или солёной начинкой.",
+      "tips_vi": "",
+      "tags": []
+    },
+    {
+      "cat": "drinks",
+      "name_vi": "Trà thảo mộc / cà phê",
+      "name_en": "Herbal tea / coffee",
+      "name_ru": "Травяной чай / кофе",
+      "weight": "",
+      "price": "",
+      "currency": "RUB",
+      "veg": false,
+      "spicy": false,
+      "intro_vi": "Đồ uống nóng nghỉ chân giữa buổi dạo.",
+      "intro_en": "Hot drinks for a break between walks.",
+      "intro_ru": "Горячие напитки для отдыха.",
+      "tips_vi": "",
+      "tags": []
+    },
+    {
+      "cat": "desserts",
+      "name_vi": "Bánh ngọt & mứt địa phương",
+      "name_en": "Local sweets & preserves",
+      "name_ru": "Сладости и варенье",
+      "weight": "",
+      "price": "",
+      "currency": "RUB",
+      "veg": false,
+      "spicy": false,
+      "intro_vi": "Đồ ngọt dân dã và mứt làm theo kiểu địa phương.",
+      "intro_en": "Local sweets and homestyle preserves.",
+      "intro_ru": "Домашние сладости и варенье.",
+      "tips_vi": "",
+      "tags": []
+    }
+  ]
+}

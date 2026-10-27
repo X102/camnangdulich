@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-23T20:57:41",
-  "total_places": 9947,
+  "generated": "2026-10-27T05:54:45",
+  "total_places": 9957,
   "regions": [
     {
       "slug": "adygea",
@@ -5787,7 +5787,7 @@
       "name_vi": "Tỉnh Moskva",
       "federal_district": "Vùng Trung tâm",
       "country": "russia",
-      "count": 84,
+      "count": 94,
       "bbox": [
         35.817,
         54.75667,
@@ -5795,8 +5795,8 @@
         56.495869
       ],
       "center": [
-        55.76540838095235,
-        37.816850142857156
+        55.77271074468083,
+        37.714155148936186
       ]
     },
     {
@@ -9983,19 +9983,19 @@
     }
   ],
   "categories": {
-    "park_garden": 3169,
+    "park_garden": 3174,
     "other": 1940,
-    "church": 2067,
-    "museum": 1485,
+    "church": 2070,
+    "museum": 1487,
     "theatre": 268,
-    "monument": 2084,
+    "monument": 2089,
     "bridge": 187,
     "square_street": 750,
     "palace": 349,
     "fortress": 396
   },
   "countries": {
-    "russia": 4101,
+    "russia": 4111,
     "austria": 80,
     "belgium": 50,
     "brunei": 25,
@@ -10083,7 +10083,7 @@
     82.217
   ],
   "center": [
-    37.982030997446486,
-    68.74561418447479
+    37.99996011224267,
+    68.71358235060468
   ]
 }

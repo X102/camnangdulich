@@ -1,0 +1,99 @@
+{
+  "restaurant": {
+    "id": "vinski-podrum-istra",
+    "brand": "Вински Подрум",
+    "type": "restaurant",
+    "name_vi": "Vinski Podrum — nhà hàng Balkan",
+    "name_en": "Vinski Podrum — Balkan restaurant",
+    "name_ru": "Ресторан «Вински Подрум»",
+    "cuisine_vi": "Balkan (Serbia)",
+    "cuisine_en": "Balkan (Serbian)",
+    "cuisine_ru": "балканская кухня",
+    "cities": [
+      "Istra"
+    ],
+    "address_vi": "Воскресенская пл., 2а, trung tâm Istra",
+    "hours": "theo giờ nhà hàng (cần kiểm chứng)",
+    "phone": "",
+    "site": "",
+    "site_url": "",
+    "map_url": "https://yandex.com/maps/?text=%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%20%C2%AB%D0%92%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%20%D0%9F%D0%BE%D0%B4%D1%80%D1%83%D0%BC%C2%BB%2C%20Istra%2C%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F",
+    "price_level": "₽₽",
+    "about_vi": "Nhà hàng Balkan ở trung tâm Istra, nổi tiếng khẩu phần lớn: pljeskavica (thịt viên nướng), cá hồi, cuốn thịt heo và món halva nóng. Trung bình ~1500₽/khách (theo bài review). Lựa chọn đổi vị so với ẩm thực Nga, nằm ở trung tâm thành phố hơn là ngay cạnh tu viện.",
+    "about_en": "A Balkan restaurant in central Istra known for large portions: pljeskavica (grilled meat patty), trout, pork rolls and warm halva. Average check about 1500 rubles. A change of pace from Russian cuisine, located in the town center rather than beside the monastery.",
+    "about_ru": "Балканский ресторан в центре Истры с большими порциями: плескавица, форель, свиные рулеты и тёплая халва. Средний чек около 1500₽.",
+    "tags": [
+      "Istra",
+      "Balkan",
+      "khẩu phần lớn",
+      "trung tâm",
+      "đổi vị"
+    ]
+  },
+  "dishes": [
+    {
+      "cat": "grill",
+      "name_vi": "Pljeskavica (thịt viên nướng)",
+      "name_en": "Pljeskavica (grilled patty)",
+      "name_ru": "Плескавица",
+      "weight": "",
+      "price": "",
+      "currency": "RUB",
+      "veg": false,
+      "spicy": false,
+      "intro_vi": "Miếng thịt băm nướng lớn kiểu Balkan.",
+      "intro_en": "Large Balkan-style grilled meat patty.",
+      "intro_ru": "Большая балканская рубленая котлета на гриле.",
+      "tips_vi": "",
+      "tags": []
+    },
+    {
+      "cat": "grill",
+      "name_vi": "Cá hồi nướng",
+      "name_en": "Grilled trout",
+      "name_ru": "Форель на гриле",
+      "weight": "",
+      "price": "",
+      "currency": "RUB",
+      "veg": false,
+      "spicy": false,
+      "intro_vi": "Cá hồi nướng, phần ăn lớn.",
+      "intro_en": "Grilled trout, generous portion.",
+      "intro_ru": "Форель на гриле, большая порция.",
+      "tips_vi": "",
+      "tags": []
+    },
+    {
+      "cat": "hot",
+      "name_vi": "Cuốn thịt heo",
+      "name_en": "Pork rolls",
+      "name_ru": "Свиные рулеты",
+      "weight": "",
+      "price": "",
+      "currency": "RUB",
+      "veg": false,
+      "spicy": false,
+      "intro_vi": "Thịt heo cuộn, đậm đà kiểu Balkan.",
+      "intro_en": "Rolled pork, hearty Balkan style.",
+      "intro_ru": "Свиные рулеты по-балкански.",
+      "tips_vi": "",
+      "tags": []
+    },
+    {
+      "cat": "desserts",
+      "name_vi": "Halva nóng",
+      "name_en": "Warm halva",
+      "name_ru": "Тёплая халва",
+      "weight": "",
+      "price": "",
+      "currency": "RUB",
+      "veg": false,
+      "spicy": false,
+      "intro_vi": "Món tráng miệng halva ăn nóng đặc trưng.",
+      "intro_en": "Signature warm halva dessert.",
+      "intro_ru": "Фирменная тёплая халва.",
+      "tips_vi": "",
+      "tags": []
+    }
+  ]
+}

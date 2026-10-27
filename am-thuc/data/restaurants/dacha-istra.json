@@ -1,0 +1,99 @@
+{
+  "restaurant": {
+    "id": "dacha-istra",
+    "brand": "Дача",
+    "type": "cafe",
+    "name_vi": "Semeynoe kafe «Dacha» (Quán gia đình)",
+    "name_en": "Family cafe «Dacha»",
+    "name_ru": "Семейное кафе «Дача»",
+    "cuisine_vi": "Nga, Ý, Âu",
+    "cuisine_en": "Russian, Italian, European",
+    "cuisine_ru": "русская, итальянская, европейская",
+    "cities": [
+      "Istra"
+    ],
+    "address_vi": "ул. Главного Конструктора В.И. Адасько, 11, Istra",
+    "hours": "từ 8:00 (cần kiểm chứng giờ đóng)",
+    "phone": "",
+    "site": "",
+    "site_url": "",
+    "map_url": "https://yandex.com/maps/?text=%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9%D0%BD%D0%BE%D0%B5%20%D0%BA%D0%B0%D1%84%D0%B5%20%C2%AB%D0%94%D0%B0%D1%87%D0%B0%C2%BB%2C%20Istra%2C%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F",
+    "price_level": "₽₽",
+    "about_vi": "Quán cà phê gia đình mở cửa sớm (từ 8:00), thực đơn rộng: món Nga truyền thống (borscht, vareniki, bò Stroganoff), mì Ý – risotto – pizza, và cả món Pháp. Trung bình ~1500₽/khách (theo bài review). Hợp đoàn gia đình và bữa ăn no sau khi thăm tu viện.",
+    "about_en": "A family cafe that opens early (8 a.m.) with a broad menu: traditional Russian (borscht, vareniki, beef stroganoff), Italian pasta/risotto/pizza and French dishes. Average check about 1500 rubles. Good for families and a full meal after the monastery.",
+    "about_ru": "Семейное кафе с ранним открытием (с 8:00) и широким меню: русская классика (борщ, вареники, бефстроганов), итальянская паста, ризотто, пицца и французские блюда. Средний чек около 1500₽.",
+    "tags": [
+      "Istra",
+      "quán gia đình",
+      "mở sớm",
+      "đa dạng",
+      "hợp đoàn"
+    ]
+  },
+  "dishes": [
+    {
+      "cat": "soups",
+      "name_vi": "Borscht",
+      "name_en": "Borscht",
+      "name_ru": "Борщ",
+      "weight": "",
+      "price": "",
+      "currency": "RUB",
+      "veg": false,
+      "spicy": false,
+      "intro_vi": "Súp củ dền Nga cổ điển.",
+      "intro_en": "Classic Russian beet soup.",
+      "intro_ru": "Классический борщ.",
+      "tips_vi": "",
+      "tags": []
+    },
+    {
+      "cat": "dumplings",
+      "name_vi": "Vareniki",
+      "name_en": "Vareniki",
+      "name_ru": "Вареники",
+      "weight": "",
+      "price": "",
+      "currency": "RUB",
+      "veg": false,
+      "spicy": false,
+      "intro_vi": "Bánh vareniki nhân theo mùa.",
+      "intro_en": "Vareniki with seasonal fillings.",
+      "intro_ru": "Вареники с начинкой.",
+      "tips_vi": "",
+      "tags": []
+    },
+    {
+      "cat": "hot",
+      "name_vi": "Bò Stroganoff",
+      "name_en": "Beef stroganoff",
+      "name_ru": "Бефстроганов",
+      "weight": "",
+      "price": "",
+      "currency": "RUB",
+      "veg": false,
+      "spicy": false,
+      "intro_vi": "Thịt bò thái mỏng sốt kem, ăn kèm khoai.",
+      "intro_en": "Sliced beef in cream sauce with potato.",
+      "intro_ru": "Говядина в сливочном соусе с картофелем.",
+      "tips_vi": "",
+      "tags": []
+    },
+    {
+      "cat": "other",
+      "name_vi": "Pizza / mì Ý",
+      "name_en": "Pizza / pasta",
+      "name_ru": "Пицца / паста",
+      "weight": "",
+      "price": "",
+      "currency": "RUB",
+      "veg": false,
+      "spicy": false,
+      "intro_vi": "Lựa chọn Ý cho trẻ em và khách đổi vị.",
+      "intro_en": "Italian options for kids and variety.",
+      "intro_ru": "Итальянские блюда для детей и разнообразия.",
+      "tips_vi": "",
+      "tags": []
+    }
+  ]
+}

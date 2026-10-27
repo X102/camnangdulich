@@ -1,0 +1,83 @@
+{
+  "restaurant": {
+    "id": "zdes-byl-chekhov-zvenigorod",
+    "brand": "Здесь был Чехов",
+    "type": "cafe",
+    "name_vi": "Zdes byl Chekhov (Chekhov từng ở đây) — quán cà phê",
+    "name_en": "Zdes byl Chekhov — coffee shop",
+    "name_ru": "Здесь был Чехов",
+    "cuisine_vi": "Cà phê, đồ ngọt",
+    "cuisine_en": "coffee, desserts",
+    "cuisine_ru": "кофейня, десерты",
+    "cities": [
+      "Zvenigorod"
+    ],
+    "address_vi": "Gần Купеческий двор, trung tâm Zvenigorod",
+    "hours": "theo giờ quán (cần kiểm chứng)",
+    "phone": "",
+    "site": "",
+    "site_url": "",
+    "map_url": "https://yandex.com/maps/?text=%D0%97%D0%B4%D0%B5%D1%81%D1%8C%20%D0%B1%D1%8B%D0%BB%20%D0%A7%D0%B5%D1%85%D0%BE%D0%B2%2C%20Zvenigorod%2C%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F",
+    "price_level": "₽₽",
+    "about_vi": "Quán cà phê nhỏ gần Купеческий двор, nổi tiếng cà phê ngon và bán bưu thiếp để khách tự gửi cho mình. Thú vị ở chỗ tầng hầm toà nhà từng là hiệu thuốc nơi Chekhov mua thuốc — đúng tinh thần «địa chỉ Chekhov» của Zvenigorod.",
+    "about_en": "A small coffee shop near Kupecheskiy Dvor, known for good coffee and postcards you can mail to yourself. Its basement once held the pharmacy where Chekhov bought medicine.",
+    "about_ru": "Небольшая кофейня рядом с Купеческим двором: хороший кофе и открытки, которые можно отправить себе. В подвале здания когда-то была аптека, где Чехов покупал лекарства.",
+    "tags": [
+      "Zvenigorod",
+      "cà phê",
+      "Chekhov",
+      "check-in",
+      "bưu thiếp"
+    ]
+  },
+  "dishes": [
+    {
+      "cat": "drinks",
+      "name_vi": "Cà phê đặc sản",
+      "name_en": "Specialty coffee",
+      "name_ru": "Кофе",
+      "weight": "",
+      "price": "",
+      "currency": "RUB",
+      "veg": false,
+      "spicy": false,
+      "intro_vi": "Cà phê pha ngon, điểm mạnh của quán.",
+      "intro_en": "Well-made coffee, the cafe's strong point.",
+      "intro_ru": "Хорошо сваренный кофе.",
+      "tips_vi": "",
+      "tags": []
+    },
+    {
+      "cat": "desserts",
+      "name_vi": "Bánh ngọt & pryaniki",
+      "name_en": "Pastries & pryaniki",
+      "name_ru": "Выпечка и пряники",
+      "weight": "",
+      "price": "",
+      "currency": "RUB",
+      "veg": false,
+      "spicy": false,
+      "intro_vi": "Đồ ngọt nhẹ ăn kèm cà phê.",
+      "intro_en": "Light sweets to go with coffee.",
+      "intro_ru": "Лёгкая выпечка к кофе.",
+      "tips_vi": "",
+      "tags": []
+    },
+    {
+      "cat": "drinks",
+      "name_vi": "Trà & đồ uống nóng",
+      "name_en": "Tea & hot drinks",
+      "name_ru": "Чай и горячие напитки",
+      "weight": "",
+      "price": "",
+      "currency": "RUB",
+      "veg": false,
+      "spicy": false,
+      "intro_vi": "Lựa chọn ấm áp cho ngày lạnh.",
+      "intro_en": "Warming options for a cold day.",
+      "intro_ru": "Тёплые напитки в холодный день.",
+      "tips_vi": "",
+      "tags": []
+    }
+  ]
+}
