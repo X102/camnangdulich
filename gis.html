@@ -329,6 +329,7 @@
       <div id="tourStat"></div>
       <div style="display:flex;gap:6px;flex-wrap:wrap;margin-top:10px;">
         <button class="btn sm primary" id="openPlanner" style="flex:1 1 auto;justify-content:center;">🧾 Bảng lịch trình chi tiết</button>
+        <button class="btn sm gold" id="tvOpen" style="flex:1 1 auto;justify-content:center;" title="Video thuyết trình chuyến đi: xuất MP4 hoặc trình chiếu có giọng đọc">🎬 Video thuyết trình</button>
       </div>
       <div style="display:flex;gap:6px;flex-wrap:wrap;margin-top:6px;">
         <button class="btn sm" id="optimize">🧮 Tối ưu thứ tự</button>
@@ -380,6 +381,7 @@
       <button class="btn sm" id="plPng">🖼️ PNG</button>
       <button class="btn sm" id="plJpg">🖼️ JPG</button>
       <button class="btn sm" id="plSvg">SVG</button>
+      <button class="btn sm gold" id="plVideo" title="Video thuyết trình: xuất MP4 hoặc trình chiếu có giọng đọc">🎬 Video</button>
       <span style="width:1px;height:20px;background:var(--line);margin:0 2px;"></span>
       <button class="btn sm" id="plSave">💾 Lưu file</button>
       <label class="btn sm" id="plImportLbl" style="cursor:pointer;">📂 Mở/Nhập<input type="file" id="plImport" accept=".json,.html,.htm" style="display:none;"/></label>
@@ -392,6 +394,39 @@
 <script src="assets/vendor/leaflet.markercluster.js"></script>
 <script src="assets/common.js"></script>
 <script src="data/bundle.js"></script>
+<script src="am-thuc/data/cities.js"></script>
+<script>
+/* Bản đồ ↔ Ẩm thực: nút "🍲 Quán ăn ở <thành phố>" trong popup / khung chi tiết của điểm tham quan.
+   Dữ liệu thành phố: am-thuc/data/cities.js (sinh bởi am-thuc/tools/build_menu.py từ am-thuc/data/cities.json). */
+window.RTFOOD = (function () {
+  function cities() { return (window.FOOD_CITIES && window.FOOD_CITIES.cities) || []; }
+  function km(a, b, c, d) { var r = Math.PI / 180, x = (c - a) * r, y = (d - b) * r;
+    var h = Math.sin(x / 2) * Math.sin(x / 2) + Math.cos(a * r) * Math.cos(c * r) * Math.sin(y / 2) * Math.sin(y / 2);
+    return 12742 * Math.asin(Math.min(1, Math.sqrt(h))); }
+  function cityFor(p) {
+    if (!p) return null;
+    var co = p.coordinates || {}, best = null, bd = Infinity;
+    cities().forEach(function (c) {
+      if (!c.n_restaurants) return;
+      var d = null;
+      if ((c.place_regions || []).indexOf(p.region) >= 0) d = 0;
+      else if (c.radius_km && co.lat != null && co.lon != null && c.lat != null) { var k = km(co.lat, co.lon, c.lat, c.lon); if (k <= c.radius_km) d = k; }
+      if (d != null && d < bd) { bd = d; best = c; }
+    });
+    return best;
+  }
+  function lang() { try { return (window.RT && RT.getLang && RT.getLang()) || "vi"; } catch (e) { return "vi"; } }
+  function esc(s) { return String(s == null ? "" : s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;"); }
+  function label(c) { var l = lang(), nm = c["name_" + l] || c.name_vi, n = c.n_restaurants;
+    return l === "en" ? "🍲 Where to eat in " + nm + " (" + n + ")" : l === "ru" ? "🍲 Где поесть: " + nm + " (" + n + ")" : "🍲 Quán ăn ở " + nm + " (" + n + " quán)"; }
+  function btnRow(p, detail) {
+    var c = cityFor(p); if (!c) return "";
+    var a = '<a class="btn sm gold" style="flex:1;justify-content:center;text-align:center" href="am-thuc/index.html#' + encodeURIComponent(c.key) + '" target="_blank" rel="noopener">' + esc(label(c)) + '</a>';
+    return detail ? '<div style="display:flex;margin:0 0 10px;">' + a + '</div>' : '<div class="pop-actions">' + a + '</div>';
+  }
+  return { cityFor: cityFor, btnRow: btnRow };
+})();
+</script>
 <script src="data/vn-archipelago.js"></script>
 <script src="data/rings.js"></script>
 <script>
@@ -717,6 +752,7 @@
         RT.pinBtnHTML(p) +
         RT.shareBtnHTML('gis.html?focus=' + p.id, (RT.t(p, "name") || p.name_vi || "")) +
       '</div>' +
+      RTFOOD.btnRow(p) +
       '<div class="pop-actions">' +
         '<a class="btn sm" href="' + RT.escapeHtml(RT.ymapLink(p)) + '" target="_blank" rel="noopener">📍 Ya Maps</a>' +
         '<a class="btn sm" href="' + RT.escapeHtml(RT.gmapLink(p)) + '" target="_blank" rel="noopener">🗺️ GG Maps</a>' +
@@ -1406,6 +1442,32 @@
   }
 
   /* ---------- API popup ---------- */
+  /* ---- 🎬 Video thuyết trình: gom dữ liệu lịch trình, nạp assets/tour-video.js khi bấm ---- */
+  function videoData() {
+    var tl = timeline(), t = totals(), days = [];
+    for (var d = 1; d <= tripDays(); d++) days.push({ day: d, date: dayDateOf(d), start: dayStartOf(d), pax: dayPaxOf(d) });
+    return {
+      title: tripTitle(), hasTitle: !!trip.name, date: trip.date || "", time: trip.time || "", startName: trip.startName || "",
+      pax: paxLabel(t), cur: trip.cur, days: days, nDays: t.days, nights: t.nights,
+      km: RT.routeDistanceKm(tourPlaces()), perPerson: money(t.per), group: money(t.group),
+      lang: RT.getLang(),
+      stops: tour.map(function (s, i) {
+        var p = getPlace(s.pid); if (!p) return null;
+        var m = modeInfo(s.mode);
+        return { i: i + 1, day: tl[i].day, arr: fmtHM(tl[i].arr), dep: fmtHM(tl[i].dep), stay: +s.stay || 0, travel: +s.travel || 0,
+          mode: { k: m.k, e: m.e, vi: m.vi, en: m.en, ru: m.ru }, note: s.note || "", cv: +s.cv || 0, cvu: s.cvu, place: p };
+      }).filter(Boolean)
+    };
+  }
+  function openVideo() {
+    if (!tour.length) { alert("Lịch trình đang trống — hãy thêm điểm vào tour trước (➕ Thêm vào tour trên bản đồ, hoặc trong Bảng lịch trình)."); return; }
+    var go = function () { try { window.TourVideo.open(videoData()); } catch (e) { alert("Lỗi mở Video thuyết trình: " + (e && e.message || e)); } };
+    if (window.TourVideo) return go();
+    var sc = document.createElement("script"); sc.src = "assets/tour-video.js?v=1"; sc.onload = go;
+    sc.onerror = function () { alert("Không tải được assets/tour-video.js — kiểm tra kết nối mạng."); };
+    document.head.appendChild(sc);
+  }
+
   window.RTGIS = {
     focus: focusPlace,
     speak: function (id) {
@@ -1452,6 +1514,7 @@
           RT.pinBtnHTML(p) +
           RT.shareBtnHTML('gis.html?focus=' + p.id, (RT.t(p, "name") || p.name_vi || "")) +
         '</div>' +
+        RTFOOD.btnRow(p, true) +
         '<h4>' + RT.uiText("detailPres") + '</h4><p style="font-size:14px;">' + RT.escapeHtml(RT.t(p, "presentation_long")) + '</p>' +
         (hl ? '<h4>' + RT.uiText("highlights") + '</h4><ul style="font-size:13.5px;">' + hl + '</ul>' : '') +
         '<h4>' + RT.uiText("visitInfo") + '</h4><div style="font-size:13.5px;line-height:1.7;">' +
@@ -1806,6 +1869,8 @@
   document.getElementById("plHtml").onclick = exportHTMLfile;
   document.getElementById("plWord").onclick = exportWordDoc;
   document.getElementById("plSvg").onclick = exportSVG;
+  document.getElementById("plVideo").onclick = openVideo;
+  document.getElementById("tvOpen").onclick = openVideo;
   document.getElementById("plPdf").onclick = exportPDF;
   document.getElementById("plPng").onclick = exportPNG;
   document.getElementById("plJpg").onclick = exportJPEG;
@@ -1832,6 +1897,13 @@
   renderMarkers();
   renderTour();
 
+  // ?ll=lat,lon&z=13 — mở bản đồ tại một vị trí (vd từ trang Ẩm thực: "Điểm tham quan ở Kolomna")
+  function _llView(ps) {
+    var ll = (ps.get("ll") || "").split(","), la = parseFloat(ll[0]), lo = parseFloat(ll[1]), z = parseInt(ps.get("z") || "13", 10);
+    if (!isFinite(la) || !isFinite(lo)) return false;
+    map.setView([la, lo], isFinite(z) ? Math.max(3, Math.min(18, z)) : 13);
+    return true;
+  }
   // Đọc ?focus=<id> (fallback ?slug=<slug>) và zoom tới điểm sau khi vẽ marker
   var params = new URLSearchParams(location.search || "");
   var fParam = params.get("focus");
@@ -1850,7 +1922,7 @@
     }
     fitFiltered();
     setTimeout(function () { focusPlace(target.id); }, 350);
-  } else {
+  } else if (!_llView(params)) {
     fitFiltered();                                   // tải lần đầu: fit theo Nga
   }
 

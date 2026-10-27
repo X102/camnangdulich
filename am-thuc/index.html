@@ -4,45 +4,98 @@
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/>
 <link rel="icon" type="image/svg+xml" href="../assets/favicon.svg"/>
-<title>Ẩm thực Nga — Tra cứu món & thực đơn nhà hàng (VI/EN/RU) · Cẩm nang Du lịch</title>
-<meta name="description" content="Tra cứu bất kỳ món ăn nào ở nhiều nhà hàng Nga, 3 ngôn ngữ Việt/Anh/Nga, kèm mô tả, lưu ý và giá — chọn món để lên kế hoạch bữa ăn và xuất ra nhiều định dạng."/>
+<title>Ẩm thực Nga — Quán ăn theo thành phố · Cẩm nang Du lịch</title>
+<meta name="description" content="Chọn thành phố bạn đang ở hoặc sắp đến (Moskva, Sergiev Posad, Kolomna, Zvenigorod, Istra, Pereslavl-Zalessky, Plyos, Saint Petersburg) để xem quán ăn và thực đơn 3 ngôn ngữ Việt/Anh/Nga — chọn món để lên kế hoạch bữa ăn và xuất ra nhiều định dạng."/>
 <style>
-:root{--navy:#152c4e;--navy2:#0f2138;--gold:#c8a24b;--gold2:#a9863a;--ink:#1e2733;--muted:#5c6773;--line:#e7e3d6;--card:#fff;--red:#b23b34;--green:#3c7a4e}
+:root{--navy:#152c4e;--navy2:#0f2138;--gold:#c8a24b;--gold2:#a9863a;--ink:#1e2733;--muted:#5c6773;--line:#e7e3d6;--card:#fff;--soft:#efeadd;--red:#b23b34;--green:#3c7a4e}
 *{box-sizing:border-box}html,body{margin:0;padding:0}
-body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Noto Sans","Helvetica Neue",Arial,sans-serif;color:var(--ink);background:var(--bg,#f7f4ec);line-height:1.5;-webkit-text-size-adjust:100%}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Noto Sans","Helvetica Neue",Arial,sans-serif;color:var(--ink);background:#f7f4ec;line-height:1.5;-webkit-text-size-adjust:100%}
 a{text-decoration:none;color:inherit}
-.hero{background:linear-gradient(135deg,var(--navy),var(--navy2));color:#fff;padding:12px 0 10px;position:sticky;top:0;z-index:50;box-shadow:0 3px 14px rgba(10,20,35,.28)}
+button{font-family:inherit}
 .wrap{max-width:1080px;margin:0 auto;padding:0 14px}
+/* ---------- thanh trên cùng (dính) ---------- */
+.hero{background:linear-gradient(135deg,var(--navy),var(--navy2));color:#fff;padding:10px 0;position:sticky;top:0;z-index:50;box-shadow:0 3px 14px rgba(10,20,35,.28)}
 .toprow{display:flex;align-items:center;gap:10px}
-.k{letter-spacing:.14em;text-transform:uppercase;font-size:10px;color:var(--gold);font-weight:800}
-.hero h1{font-size:17px;margin:1px 0 0}
-.langbar{display:flex;gap:5px;margin-left:auto}
-.langbar button{border:1px solid rgba(255,255,255,.3);background:rgba(255,255,255,.08);color:#fff;border-radius:8px;padding:6px 9px;font-weight:800;font-size:12px;cursor:pointer;font-family:inherit;min-height:34px}
+.home{flex:0 0 auto;width:36px;height:36px;border-radius:10px;border:1px solid rgba(255,255,255,.3);background:rgba(255,255,255,.08);display:flex;align-items:center;justify-content:center;font-size:16px}
+.ttl{min-width:0;flex:1 1 auto}
+.k{letter-spacing:.14em;text-transform:uppercase;font-size:10px;color:var(--gold);font-weight:800;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.hero h1{font-size:16px;margin:1px 0 0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.langbar{display:flex;gap:5px;flex:0 0 auto}
+.langbar button{border:1px solid rgba(255,255,255,.3);background:rgba(255,255,255,.08);color:#fff;border-radius:8px;padding:6px 8px;font-weight:800;font-size:12px;cursor:pointer;min-height:36px}
 .langbar button.on{background:var(--gold);border-color:var(--gold);color:#1a1305}
-.searchwrap{position:relative;margin-top:9px}
-#q{width:100%;border:none;border-radius:11px;padding:12px 38px 12px 14px;font-size:16px;font-family:inherit}
-#qx{position:absolute;right:8px;top:50%;transform:translateY(-50%);border:none;background:#e7e9ef;color:#556;border-radius:50%;width:26px;height:26px;font-size:14px;cursor:pointer;display:none}
-.row2{display:flex;gap:8px;margin-top:8px;align-items:center;flex-wrap:wrap}
-.selrest{flex:1;min-width:150px;border:none;border-radius:9px;padding:9px 11px;font-size:13.5px;font-family:inherit;min-height:38px}
-.mini{color:#cdd7e6;font-size:12px;white-space:nowrap}
-.chips{display:flex;gap:6px;margin-top:8px;overflow-x:auto;flex-wrap:nowrap;-webkit-overflow-scrolling:touch;padding-bottom:3px;scrollbar-width:thin}
-.chips::-webkit-scrollbar{height:5px}.chips::-webkit-scrollbar-thumb{background:rgba(255,255,255,.25);border-radius:4px}
-.chip{background:rgba(255,255,255,.10);border:1px solid rgba(255,255,255,.22);color:#eef2f8;border-radius:999px;padding:6px 11px;font-size:12px;font-weight:700;cursor:pointer;white-space:nowrap;flex:0 0 auto}
-.chip.on{background:var(--gold);border-color:var(--gold);color:#1a1305}
-.chip.veg.on{background:var(--green);border-color:var(--green);color:#fff}
+.bar{display:flex;gap:8px;margin-top:9px}
+.citybtn{flex:0 1 auto;max-width:46%;display:flex;align-items:center;gap:5px;border:1px solid rgba(255,255,255,.35);background:rgba(255,255,255,.1);color:#fff;border-radius:11px;padding:0 11px;font-weight:800;font-size:13.5px;cursor:pointer;min-height:44px;white-space:nowrap}
+.citybtn .n{overflow:hidden;text-overflow:ellipsis}
+.citybtn .caret{font-size:11px;opacity:.8}
+.citybtn.on{background:var(--gold);border-color:var(--gold);color:#1a1305}
+.searchwrap{position:relative;flex:1 1 auto;min-width:0}
+#q{width:100%;height:44px;border:none;border-radius:11px;padding:0 38px 0 13px;font-size:16px;font-family:inherit;color:var(--ink)}
+#qx{position:absolute;right:8px;top:50%;transform:translateY(-50%);border:none;background:#e7e9ef;color:#556;border-radius:50%;width:28px;height:28px;font-size:14px;cursor:pointer;display:none}
 main{padding:14px 0 96px}
-h2.sec{font-size:14.5px;color:var(--navy);display:flex;align-items:center;gap:8px;margin:16px 0 9px}
-h2.sec .bar{width:4px;height:16px;background:var(--gold);border-radius:2px;display:inline-block;flex:0 0 auto}
-.rgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:11px}
-.rcard{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:13px;box-shadow:0 5px 14px rgba(20,30,50,.05);cursor:pointer;transition:.15s;display:flex;flex-direction:column;gap:3px}
-.rcard:active{transform:scale(.99)}
-.rcard:hover{border-color:var(--navy)}
-.rcard h3{margin:0;font-size:15px;color:var(--navy)}
-.rcard .ru{font-size:11.8px;color:var(--muted);font-style:italic}
-.rcard .cz{font-size:12.2px;color:#48505a;margin-top:2px}
-.rcard .mt{display:flex;flex-wrap:wrap;gap:5px;margin-top:6px}
-.tag{background:#efeadd;color:var(--navy);border-radius:6px;padding:2px 7px;font-size:10.3px;font-weight:700}
+/* ---------- trang chọn thành phố ---------- */
+.intro h2{font-size:18px;color:var(--navy);margin:4px 0 4px;line-height:1.3}
+.intro p{margin:0;color:var(--muted);font-size:13.5px}
+.rhead{display:flex;align-items:baseline;gap:7px;flex-wrap:wrap;font-size:15.5px;color:var(--navy);margin:22px 0 10px;padding-bottom:6px;border-bottom:2px solid var(--line)}
+.rhead .ricon{font-size:18px}
+.rhead .rsub{font-size:12.5px;color:var(--muted);font-weight:600}
+.cgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(155px,1fr));gap:10px}
+.rgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:11px}
+.ccard,.rcard{display:flex;flex-direction:column;gap:4px;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px;box-shadow:0 5px 14px rgba(20,30,50,.05);transition:border-color .15s,transform .1s}
+.ccard{padding:12px 12px 11px;gap:3px}
+.ccard:hover,.rcard:hover{border-color:var(--navy)}
+.ccard:active,.rcard:active{transform:scale(.99)}
+.cname{font-size:16px;font-weight:800;color:var(--navy);line-height:1.25;overflow-wrap:anywhere}
+.cru{font-size:12.5px;color:var(--muted);font-style:italic;font-weight:500}
+.ccard .cru{display:block;font-size:12px}
+.cmeta{font-size:12.3px;color:var(--muted)}
+.cnames{font-size:12.3px;color:#48505a;margin-top:2px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.cfoot{display:flex;justify-content:space-between;align-items:center;gap:6px;margin-top:auto;padding-top:8px}
+.cnum{background:var(--soft);color:var(--navy);border-radius:999px;padding:3px 9px;font-size:11.8px;font-weight:800;white-space:nowrap}
+.cgo{color:var(--gold2);font-weight:800;font-size:13px;white-space:nowrap}
+.cgot,.h1x{display:none}
+/* ---------- đầu trang thành phố / quán ---------- */
+.chead{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--gold);border-radius:14px;padding:10px 14px 13px;margin-bottom:12px}
+.crumb{display:inline-block;color:var(--gold2);font-weight:800;font-size:13px;padding:5px 0}
+.chead h2{margin:2px 0;font-size:20px;color:var(--navy);line-height:1.25}
+.chead .rus{font-size:13px;color:var(--muted);font-style:italic}
+.cstat{font-size:12.8px;color:var(--navy);font-weight:700;margin-top:4px}
+.cacts{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}
+.act{display:inline-flex;align-items:center;gap:5px;border:1px solid var(--gold);color:var(--gold2);background:#fff;border-radius:10px;padding:8px 12px;font-size:13px;font-weight:800;min-height:40px}
+.about{font-size:13.5px;color:#454c54;margin:8px 0 0}
+.info{font-size:12.8px;color:#48505a;margin-top:8px;line-height:1.6}
+/* ---------- bộ lọc trong thành phố ---------- */
+.filters{margin:0 0 4px}
+.selrest{width:100%;border:1px solid var(--line);background:#fff;border-radius:10px;padding:9px 11px;font-size:14px;font-family:inherit;min-height:42px;color:var(--ink)}
+.chips{display:flex;gap:6px;margin-top:8px;overflow-x:auto;flex-wrap:nowrap;-webkit-overflow-scrolling:touch;padding-bottom:4px;scrollbar-width:thin}
+.chip{background:#fff;border:1px solid var(--line);color:var(--navy);border-radius:999px;padding:7px 12px;font-size:12.5px;font-weight:700;cursor:pointer;white-space:nowrap;flex:0 0 auto;min-height:36px}
+.chip.on{background:var(--navy);border-color:var(--navy);color:#fff}
+.chip.veg.on{background:var(--green);border-color:var(--green)}
+h3.sec{font-size:14.5px;color:var(--navy);display:flex;align-items:center;gap:8px;margin:16px 0 9px}
+h3.sec .bar{width:4px;height:16px;background:var(--gold);border-radius:2px;flex:0 0 auto}
+h4.csec{font-size:13px;color:#40506a;margin:14px 0 8px;display:flex;align-items:center;gap:7px}
+h4.csec:before{content:"";width:4px;height:13px;background:var(--gold);border-radius:2px}
+h4.csec span{color:var(--muted);font-weight:600}
+/* ---------- thẻ quán ---------- */
+.rtop{display:flex;justify-content:space-between;align-items:flex-start;gap:8px}
+.rcard h4{margin:0;font-size:15.5px;color:var(--navy);line-height:1.3}
+.rru{font-size:12px;color:var(--muted);font-style:italic}
+.mt{display:flex;flex-wrap:wrap;gap:5px;margin-top:3px}
+.tag{background:var(--soft);color:var(--navy);border-radius:6px;padding:2px 7px;font-size:10.8px;font-weight:700}
 .tag.lux{background:#f3e6c8;color:#8a6a1e}
+.cz{font-size:12.4px;color:#48505a}
+.rab{font-size:12.4px;color:var(--muted);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+/* ---------- thành phố lân cận, kết quả nhóm theo thành phố ---------- */
+.near{margin-top:22px;padding-top:12px;border-top:1px dashed #d9d2bd}
+.near h4{margin:0 0 8px;font-size:13px;color:var(--muted)}
+.nl,.quick{display:flex;gap:7px;flex-wrap:wrap}
+.quick{margin:2px 0 4px}
+.qchip{display:inline-flex;align-items:center;gap:5px;background:#fff;border:1px solid var(--line);border-radius:999px;padding:7px 12px;font-size:12.8px;font-weight:700;color:var(--navy);min-height:36px}
+.qchip.city{border-color:var(--gold);color:var(--gold2)}
+.cgroup{margin-top:14px}
+.cghead{display:flex;justify-content:space-between;align-items:center;gap:10px;background:var(--navy);color:#fff;border-radius:10px;padding:8px 12px;margin-bottom:8px;font-size:13.5px}
+.cghead a{color:var(--gold);font-weight:800;font-size:12.5px;white-space:nowrap}
+a.b.rest{text-decoration:none}
+.lnk{color:var(--gold2);font-weight:800;font-style:normal}
 .dish{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:11px 12px;margin-bottom:8px}
 .dh{display:flex;justify-content:space-between;align-items:flex-start;gap:10px}
 .dn{font-weight:800;color:var(--navy);font-size:14.6px}
@@ -62,7 +115,6 @@ h2.sec .bar{width:4px;height:16px;background:var(--gold);border-radius:2px;displ
 .addp{margin-top:7px;border:1px solid var(--gold);background:#fff;color:var(--gold2);border-radius:9px;padding:7px 12px;font-size:12.5px;font-weight:800;cursor:pointer;min-height:36px}
 .addp.in{background:var(--green);border-color:var(--green);color:#fff}
 .empty{color:var(--muted);text-align:center;padding:26px;font-style:italic}
-.back{display:inline-block;margin-top:8px;font-size:12px;color:#cdd7e6;border:1px solid rgba(255,255,255,.3);border-radius:8px;padding:5px 10px}
 /* meal-plan tray */
 #tray{position:fixed;left:0;right:0;bottom:0;z-index:80;background:var(--navy);color:#fff;box-shadow:0 -6px 22px rgba(0,0,0,.32);transform:translateY(calc(100% - 46px));transition:transform .25s;padding-bottom:env(safe-area-inset-bottom)}
 #tray.open{transform:translateY(0)}
@@ -78,9 +130,14 @@ h2.sec .bar{width:4px;height:16px;background:var(--gold);border-radius:2px;displ
 .bx{background:var(--gold);color:#1a1305}.bclr{background:#33465f;color:#fff}
 footer{padding:14px;text-align:center;color:var(--muted);font-size:11.5px}
 @media (min-width:760px){
-  .hero{padding:16px 0 13px}.hero h1{font-size:20px}.k{font-size:10.5px}
+  .hero{padding:13px 0 12px}.hero h1{font-size:19px}.k{font-size:10.5px}
   .chips{flex-wrap:wrap;overflow:visible}
   #q{font-size:15px}
+  .citybtn{max-width:340px}
+  .cgrid{grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:11px}
+  .ccard{padding:14px}
+  .cname{font-size:17px}
+  .cgot,.h1x{display:inline}
 }
 </style>
 <!-- PWA / offline (chèn tự động) -->
@@ -94,26 +151,24 @@ footer{padding:14px;text-align:center;color:var(--muted);font-size:11.5px}
 <script src="../assets/pwa.js" defer></script>
 </head>
 <body>
-<div class="hero"><div class="wrap">
+<header class="hero"><div class="wrap">
   <div class="toprow">
-    <div><div class="k">Cẩm nang Du lịch · Ẩm thực Nga</div><h1 id="apptitle">🍲 Tra cứu món & thực đơn nhà hàng</h1></div>
+    <a class="home" href="../index.html" title="Trung tâm điều hành" aria-label="Trung tâm điều hành">🏠</a>
+    <div class="ttl"><div class="k">Cẩm nang Du lịch</div><h1 id="apptitle">🍲 Ẩm thực Nga<span class="h1x"> — quán ăn theo thành phố</span></h1></div>
     <div class="langbar">
       <button data-l="vi" class="on" onclick="setLang('vi')">🇻🇳</button>
       <button data-l="en" onclick="setLang('en')">🇬🇧</button>
       <button data-l="ru" onclick="setLang('ru')">🇷🇺</button>
     </div>
   </div>
-  <div class="searchwrap">
-    <input id="q" inputmode="search" placeholder="🔎 Tìm món ở mọi quán… vd: bò, borscht, plov, blini" oninput="onSearch()"/>
-    <button id="qx" onclick="clearQ()" title="Xoá">✕</button>
+  <div class="bar">
+    <button id="citybtn" class="citybtn" onclick="go('')">📍 <span class="n" id="citylbl">Mọi thành phố</span> <span class="caret">▾</span></button>
+    <div class="searchwrap">
+      <input id="q" inputmode="search" enterkeyhint="search" autocomplete="off" placeholder="🔎 Tìm món…" oninput="onSearch()" onkeydown="if(event.key==='Enter')this.blur()"/>
+      <button id="qx" onclick="clearQ()" title="Xoá" aria-label="Xoá">✕</button>
+    </div>
   </div>
-  <div class="row2">
-    <select class="selrest" id="selrest" onchange="onFilter()"><option value="">Tất cả quán</option></select>
-    <span class="mini" id="stat"></span>
-  </div>
-  <div class="chips" id="catchips"></div>
-  <a class="back" href="../index.html">← Trung tâm điều hành</a>
-</div></div>
+</div></header>
 
 <main class="wrap" id="main"></main>
 
@@ -134,65 +189,247 @@ footer{padding:14px;text-align:center;color:var(--muted);font-size:11.5px}
   </div>
 </div>
 
-<footer>Cẩm nang Du lịch · CSDL ẩm thực đa nhà hàng (VI/EN/RU) · Phạm Đăng Hiển · fb.com/lopmaybay</footer>
+<footer>Cẩm nang Du lịch · CSDL ẩm thực đa nhà hàng theo thành phố (VI/EN/RU) · Phạm Đăng Hiển · fb.com/lopmaybay</footer>
 
+<script src="data/cities.js"></script>
 <script src="data/menu-bundle.js"></script>
 <script>
 var DB = window.MENU_DB || {restaurants:[],dishes:[],categories:{}};
-var LANG='vi', CAT='', REST='', Q='', VEG=false;
+var LANG='vi', CITY='', REST='', CAT='', Q='', VEG=false;
 var REST_BY={}; DB.restaurants.forEach(function(r){REST_BY[r.id]=r;});
 function norm(s){ return (s||'').toString().toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'').replace(/đ/g,'d'); }
 function catLabel(slug,l){ var c=DB.categories[slug]; l=l||LANG; return c?(c[l]||c.vi):slug; }
-// chỉ mục tìm kiếm: GỘP MỌI trường (tên/mô tả 3 ngôn ngữ + tips + tags + danh mục + tên quán)
+function L(o,base){ return o ? (o[base+'_'+LANG] || o[base+'_vi'] || o[base+'_en'] || '') : ''; }
+function tr(vi,en,ru){ return LANG==='en'?en:(LANG==='ru'?ru:vi); }
+function esc(s){ return (s==null?'':String(s)).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
+function slugify(s){ return norm(s).replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'') || 'x'; }
+// Tên gọn của quán: lấy phần trong «…» nếu có, nếu không bỏ phần (mô tả) và "— mô tả"
+function shortName(r){ if(!r) return ''; var s=L(r,'name')||r.brand||r.id||''; var m=s.match(/«([^»]+)»/); if(m) return m[1].trim();
+  var t=s.replace(/\s*\([^)]*\)/g,'').replace(/\s+[—–-]\s+.*$/,'').trim(); return t||s; }
+var TYPES={restaurant:['🍽','Nhà hàng','Restaurant','Ресторан'],traktir:['🪵','Quán traktir (kiểu Nga)','Traktir','Трактир'],
+           cafe:['☕','Café · bánh · quán nhỏ','Café','Кафе'],chain:['🔗','Chuỗi bình dân','Chain','Сеть']};
+function typeTag(r){ var t=TYPES[r.type]; return t?'<span class="tag">'+t[0]+' '+esc(tr(t[1],t[2],t[3]))+'</span>':''; }
+function priceTag(r){ if(!r.price_level) return ''; var lux=(r.price_level==='₽₽₽₽'); return '<span class="tag'+(lux?' lux':'')+'" title="'+esc(tr('Mức giá','Price level','Уровень цен'))+'">'+esc(r.price_level)+(lux?' ✦':'')+'</span>'; }
+function nQuan(n){ return n+' '+tr('quán','places','заведений'); }
+function nMon(n){ return n+' '+tr('món','dishes','блюд'); }
+
+// ---------- chỉ mục tìm kiếm: gộp mọi trường (tên/mô tả 3 ngôn ngữ + lưu ý + tags + danh mục + tên quán) ----------
 DB.dishes.forEach(function(d){
   var r=REST_BY[d.rid]||{};
   var names=[d.name_vi,d.name_en,d.name_ru].join(' ');
-  var all=[d.name_vi,d.name_en,d.name_ru,d.intro_vi,d.intro_en,d.intro_ru,d.tips_vi,
-    (d.tags||[]).join(' '),catLabel(d.cat,'vi'),catLabel(d.cat,'en'),catLabel(d.cat,'ru'),
-    r.name_vi,r.name_en,r.name_ru].join(' ');
-  d._s   = norm(all);                       // gộp mọi trường, bỏ dấu -> lọc must-match
-  d._sn  = norm(names);                      // chỉ tên, bỏ dấu
-  d._raw = (all||'').toString().toLowerCase();   // GIỮ DẤU -> phân biệt bò/bơ
-  d._rawn= (names||'').toString().toLowerCase();
+  var all=[d.name_vi,d.name_en,d.name_ru,d.intro_vi,d.intro_en,d.intro_ru,d.tips_vi,(d.tags||[]).join(' '),
+    catLabel(d.cat,'vi'),catLabel(d.cat,'en'),catLabel(d.cat,'ru'),r.name_vi,r.name_en,r.name_ru].join(' ');
+  d._s=norm(all); d._sn=norm(names); d._raw=(all||'').toString().toLowerCase(); d._rawn=(names||'').toString().toLowerCase();
 });
-function scoreOf(d, terms, rawterms){
+function scoreOf(d,terms,rawterms){
   var s=0;
   for(var i=0;i<rawterms.length;i++){ var tw=rawterms[i]; if(!tw)continue; if(d._rawn.indexOf(tw)>=0) s+=200; else if(d._raw.indexOf(tw)>=0) s+=80; }
   var alln=true; for(var j=0;j<terms.length;j++){ if(d._sn.indexOf(terms[j])<0){alln=false;break;} } if(alln) s+=30;
   if(terms.length && d._sn.indexOf(terms[0])===0) s+=12;
   return s;
 }
-function L(o,base){ return o[base+'_'+LANG] || o[base+'_vi'] || o[base+'_en'] || ''; }
-function tr(vi,en,ru){ return LANG==='en'?en:(LANG==='ru'?ru:vi); }
-function esc(s){ return (s==null?'':String(s)).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
+function sortByScore(list){ var terms=norm(Q).split(/\s+/).filter(Boolean), raw=Q.toLowerCase().split(/\s+/).filter(Boolean);
+  return list.slice().sort(function(a,b){ return scoreOf(b,terms,raw)-scoreOf(a,terms,raw); }); }
 
-// ---- init ----
+// ---------- MÔ HÌNH THÀNH PHỐ: quán thuộc thành phố nào, thành phố thuộc vùng nào ----------
+// Nguồn: data/cities.js (FOOD_CITIES) -> dự phòng: MENU_DB.cities -> dự phòng cuối: tự gom theo restaurant.cities
+var REGIONS=[], REGION_BY={}, CITIES=[], CITY_BY={};
 (function(){
-  var sel=document.getElementById('selrest');
-  DB.restaurants.slice().sort(function(a,b){return (a.name_vi||'').localeCompare(b.name_vi||'');}).forEach(function(r){
-    var n=DB.dishes.filter(function(d){return d.rid===r.id;}).length;
-    var o=document.createElement('option'); o.value=r.id; o.textContent=r.name_vi+' ('+n+')'; sel.appendChild(o);
+  var FC=window.FOOD_CITIES||{};
+  var src=(FC.cities&&FC.cities.length)?FC:{regions:DB.regions||[],cities:DB.cities||[]};
+  var cfg=(src.cities||[]).map(function(c){ var o={}; for(var k in c) o[k]=c[k]; return o; });
+  REGIONS=(src.regions||[]).slice();
+  var M={}, CFG={};
+  function addM(n,k){ if(n) M[String(n).trim().toLowerCase()]=k; }
+  cfg.forEach(function(c){ CFG[c.key]=c; [c.key,c.name_vi,c.name_en,c.name_ru].concat(c.match||[]).forEach(function(n){ addM(n,c.key); }); });
+  (DB.cities||[]).forEach(function(c){ (c.match||[]).forEach(function(n){ if(CFG[c.key]) addM(n,c.key); }); });
+  var adhoc={};
+  function ensure(k,name){ if(CFG[k]||adhoc[k]) return; var dc=(DB.cities||[]).filter(function(c){return c.key===k;})[0];
+    adhoc[k]=dc?{key:dc.key,region:dc.region||'other',name_vi:dc.name_vi,name_en:dc.name_en,name_ru:dc.name_ru,lat:dc.lat,lon:dc.lon,zoom:dc.zoom}
+               :{key:k,region:'other',name_vi:name||k,name_en:name||k,name_ru:name||k}; }
+  DB.restaurants.forEach(function(r){
+    var ks=[];
+    (r.cities||[]).forEach(function(n){ var k=M[String(n).trim().toLowerCase()]; if(!k){ k=slugify(n); ensure(k,n); } if(ks.indexOf(k)<0) ks.push(k); });
+    if(!ks.length) (r.city_keys||[]).forEach(function(k){ ensure(k); if(ks.indexOf(k)<0) ks.push(k); });
+    if(!ks.length){ ks=['chua-ro']; ensure('chua-ro', tr('Chưa rõ thành phố','Unknown city','Город не указан')); }
+    r._ck=ks;
   });
-  var used={}; DB.dishes.forEach(function(d){used[d.cat]=(used[d.cat]||0)+1;});
-  var chips=document.getElementById('catchips');
-  var veg=document.createElement('span'); veg.className='chip veg'; veg.id='vegchip'; veg.textContent='🌱 '+tr('Chay','Veg','Вег'); veg.onclick=function(){ VEG=!VEG; veg.classList.toggle('on',VEG); render(); }; chips.appendChild(veg);
-  Object.keys(DB.categories).forEach(function(slug){ if(!used[slug])return; var el=document.createElement('span'); el.className='chip'; el.dataset.cat=slug; el.textContent=catLabel(slug)+' ('+used[slug]+')'; el.onclick=function(){ CAT=(CAT===slug?'':slug); paint(); render(); }; chips.appendChild(el); });
+  var all=cfg.concat(Object.keys(adhoc).map(function(k){ return adhoc[k]; }));
+  all.forEach(function(c){ c.region=c.region||'other';
+    if(!REGIONS.some(function(g){ return g.key===c.region; })) REGIONS.push({key:c.region,icon:'📍',name_vi:'Nơi khác',name_en:'Other places',name_ru:'Другие места'}); });
+  REGIONS.forEach(function(g,i){ g._i=i; REGION_BY[g.key]=g; });
+  var TYPE_ORDER={restaurant:0,traktir:1,cafe:2,chain:3}, nd={};
+  DB.dishes.forEach(function(d){ nd[d.rid]=(nd[d.rid]||0)+1; });
+  all.forEach(function(c,i){
+    var rs=DB.restaurants.filter(function(r){ return r._ck.indexOf(c.key)>=0; });
+    rs.sort(function(a,b){ var ta=TYPE_ORDER[a.type], tb=TYPE_ORDER[b.type]; ta=(ta==null?9:ta); tb=(tb==null?9:tb);
+      return (ta-tb) || shortName(a).localeCompare(shortName(b)); });
+    c.rests=rs; c.rset={}; c.nd={}; c.ndish=0; c._i=i;
+    rs.forEach(function(r){ c.rset[r.id]=1; c.nd[r.id]=nd[r.id]||0; c.ndish+=(nd[r.id]||0); });
+  });
+  CITIES=all.filter(function(c){ return c.rests.length; });
+  CITIES.sort(function(a,b){ return (REGION_BY[a.region]._i-REGION_BY[b.region]._i) || (a._i-b._i); });
+  CITIES.forEach(function(c){ CITY_BY[c.key]=c; });
 })();
-function paint(){ document.querySelectorAll('.chip[data-cat]').forEach(function(c){c.classList.toggle('on',c.dataset.cat===CAT);}); }
+function restCities(r){ return ((r&&r._ck)||[]).map(function(k){ var c=CITY_BY[k]; return c?L(c,'name'):k; }).join(', '); }
 
+// ---------- ĐIỀU HƯỚNG bằng #: (trống)=chọn thành phố · #kolomna · #kolomna/<id quán> ----------
+function parseHash(){ var h=(location.hash||'').replace(/^#\/?/,''); try{ h=decodeURIComponent(h); }catch(e){}
+  var p=h.split('/'); return {city:p[0]||'', rest:p[1]||''}; }
+function depth(){ return CITY?(REST?2:1):0; }
+function go(city,rest){ var h=city?(city+(rest?'/'+rest:'')):''; var cur=(location.hash||'').replace(/^#/,'');
+  if(cur===h){ route(); return; } location.hash=h; }
+var SCROLL={};
+function scopeList(){ return DB.dishes.filter(function(d){ return REST ? d.rid===REST : (CITY ? !!CITY_BY[CITY].rset[d.rid] : true); }); }
+function fixFilters(){ if(!CITY){ CAT=''; VEG=false; return; } var s=scopeList();
+  if(CAT && !s.some(function(d){ return d.cat===CAT; })) CAT='';
+  if(VEG && !s.some(function(d){ return d.veg; })) VEG=false; }
+function route(){
+  var oldDepth=depth(); SCROLL[CITY+'/'+REST]=window.pageYOffset||0;     // nhớ chỗ đang cuộn của trang vừa rời
+  var r=parseHash(), c=CITY_BY[r.city]?r.city:'';
+  if(c!==CITY){ CAT=''; VEG=false; }
+  CITY=c; REST=(c && r.rest && CITY_BY[c].rset[r.rest]) ? r.rest : '';
+  fixFilters(); syncHeader(); render();
+  var y=(depth()<oldDepth && SCROLL[CITY+'/'+REST]!=null) ? SCROLL[CITY+'/'+REST] : 0;   // quay lui -> về đúng chỗ cũ
+  window.scrollTo(0,y);
+}
+window.addEventListener('hashchange', route);
+
+function syncHeader(){
+  var c=CITY_BY[CITY];
+  document.getElementById('citylbl').textContent = c ? L(c,'name') : tr('Mọi thành phố','All cities','Все города');
+  var b=document.getElementById('citybtn'); b.classList.toggle('on',!!c);
+  b.title = tr('Chọn thành phố khác','Choose another city','Выбрать другой город');
+  document.getElementById('q').placeholder = c
+    ? tr('🔎 Tìm món ở ','🔎 Search dishes in ','🔎 Поиск блюд: ')+L(c,'name')+'…'
+    : tr('🔎 Tìm món ở mọi nơi…','🔎 Search all cities…','🔎 Поиск во всех городах…');
+  document.title=(c?L(c,'name')+' — ':'')+tr('Ẩm thực Nga · Quán ăn theo thành phố','Russian food · Where to eat, by city','Русская кухня · Где поесть по городам')+' · Cẩm nang Du lịch';
+}
+
+// ---------- bộ lọc ----------
 function onSearch(){ Q=document.getElementById('q').value.trim(); document.getElementById('qx').style.display=Q?'block':'none'; render(); }
-function clearQ(){ document.getElementById('q').value=''; Q=''; document.getElementById('qx').style.display='none'; render(); }
-function onFilter(){ REST=document.getElementById('selrest').value; render(); }
-
+function clearQ(){ var q=document.getElementById('q'); q.value=''; Q=''; document.getElementById('qx').style.display='none'; render(); q.focus(); }
+function toFilters(){ var f=document.querySelector('.filters'); if(!f) return; var top=f.getBoundingClientRect().top, hh=document.querySelector('.hero').offsetHeight;
+  if(top<hh) window.scrollTo(0, (window.pageYOffset||0)+top-hh-8); }
+function setCat(slug){ CAT=(CAT===slug?'':slug); render(); toFilters(); }
+function toggleVeg(){ VEG=!VEG; render(); toFilters(); }
+function pickRest(id){ go(CITY,id); }
 function filtered(){
   var terms=norm(Q).split(/\s+/).filter(Boolean);
-  return DB.dishes.filter(function(d){
-    if(REST && d.rid!==REST) return false;
+  return scopeList().filter(function(d){
     if(CAT && d.cat!==CAT) return false;
     if(VEG && !d.veg) return false;
     for(var i=0;i<terms.length;i++){ if(d._s.indexOf(terms[i])<0) return false; }
     return true;
   });
+}
+
+// ---------- các khối giao diện ----------
+// "~115 km từ Moskva" (bản gọn cho thẻ thành phố; câu đầy đủ hiện ở đầu trang thành phố)
+function distShort(c){ var m=String(c.dist_vi||c.dist_en||'').match(/~\s?(\d+)\s?(km|км)/); return m?'~'+m[1]+tr(' km từ Moskva',' km from Moscow',' км от Москвы'):''; }
+function cityCard(c){
+  var names=c.rests.slice(0,3).map(function(r){ return esc(shortName(r)); }).join(' · ')+(c.rests.length>3?' · +'+(c.rests.length-3):'');
+  var ds=distShort(c), meta=ds?'🚗 '+ds:L(c,'admin');
+  return '<a class="ccard" href="#'+encodeURIComponent(c.key)+'">'
+    +'<div class="cname">'+esc(L(c,'name'))+(LANG!=='ru'&&c.name_ru?' <span class="cru">'+esc(c.name_ru)+'</span>':'')+'</div>'
+    +(meta?'<div class="cmeta">'+esc(meta)+'</div>':'')
+    +'<div class="cnames">'+names+'</div>'
+    +'<div class="cfoot"><span class="cnum">'+nQuan(c.rests.length)+' · '+nMon(c.ndish)+'</span><span class="cgo"><span class="cgot">'+tr('Xem quán','See places','Смотреть')+' </span>→</span></div></a>';
+}
+function landing(){
+  var h='<section class="intro"><h2>'+tr('📍 Bạn đang ở hoặc sắp đến thành phố nào?','📍 Where are you, or where are you heading?','📍 Где вы сейчас или куда едете?')+'</h2>'
+    +'<p>'+tr('Chọn thành phố để xem quán ăn và thực đơn ở đó','Pick a city to see its restaurants and menus','Выберите город, чтобы увидеть заведения и меню')
+    +' · '+CITIES.length+' '+tr('thành phố','cities','городов')+' · '+nQuan(DB.restaurants.length)+' · '+nMon(DB.dishes.length)+'</p></section>';
+  REGIONS.forEach(function(g){
+    var cs=CITIES.filter(function(c){ return c.region===g.key; }); if(!cs.length) return;
+    h+='<h3 class="rhead"><span class="ricon">'+esc(g.icon||'📍')+'</span>'+esc(L(g,'name'))+(L(g,'sub')?'<span class="rsub">· '+esc(L(g,'sub'))+'</span>':'')+'</h3><div class="cgrid">';
+    cs.forEach(function(c){ h+=cityCard(c); });
+    h+='</div>';
+  });
+  return h;
+}
+function landingSearch(){
+  var nq=norm(Q), h='';
+  var mc=CITIES.filter(function(c){ return [c.key,c.name_vi,c.name_en,c.name_ru].concat(c.match||[]).some(function(x){ return x && norm(x).indexOf(nq)>=0; }); });
+  var mr=DB.restaurants.filter(function(r){ return norm([r.name_vi,r.name_en,r.name_ru,r.brand].join(' ')).indexOf(nq)>=0; });
+  if(mc.length||mr.length){
+    h+='<div class="quick">';
+    mc.forEach(function(c){ h+='<a class="qchip city" href="#'+c.key+'">📍 '+esc(L(c,'name'))+' · '+nQuan(c.rests.length)+'</a>'; });
+    mr.forEach(function(r){ r._ck.forEach(function(k){ var c=CITY_BY[k]; if(c) h+='<a class="qchip" href="#'+k+'/'+r.id+'">🍽 '+esc(shortName(r))+' · '+esc(L(c,'name'))+'</a>'; }); });
+    h+='</div>';
+  }
+  var list=filtered();
+  if(!list.length) return h+'<div class="empty">'+tr('Không tìm thấy món phù hợp. Thử từ khoá khác (vd: bò, gà, cá, súp…).','No matching dishes. Try another word.','Ничего не найдено. Попробуйте другое слово.')+'</div>';
+  h+='<h3 class="sec"><span class="bar"></span>'+tr('Kết quả ở mọi thành phố','Results in all cities','Результаты во всех городах')+' — '+nMon(list.length)+'</h3>';
+  CITIES.forEach(function(c){
+    var g=list.filter(function(d){ return c.rset[d.rid]; }); if(!g.length) return;
+    h+='<div class="cgroup"><div class="cghead"><span>📍 <b>'+esc(L(c,'name'))+'</b> · '+nMon(g.length)+'</span><a href="#'+c.key+'">'+tr('Xem ở ','Open ','Открыть: ')+esc(L(c,'name'))+' →</a></div>';
+    sortByScore(g).forEach(function(d){ h+=dishCard(d,c.key); });
+    h+='</div>';
+  });
+  return h;
+}
+function cityHeader(c){
+  var meta=[L(c,'admin'),L(c,'dist')].filter(Boolean).join(' · ');
+  var gis=(c.lat!=null&&c.lon!=null)?'../gis.html?ll='+c.lat+','+c.lon+'&z='+(c.zoom||13):'';
+  return '<section class="chead"><a class="crumb" href="#">← '+tr('Chọn thành phố khác','Choose another city','Другой город')+'</a>'
+    +'<h2>📍 '+esc(L(c,'name'))+(LANG!=='ru'&&c.name_ru?' <span class="rus">'+esc(c.name_ru)+'</span>':'')+'</h2>'
+    +(meta?'<div class="cmeta">'+esc(meta)+'</div>':'')
+    +'<div class="cstat">'+nQuan(c.rests.length)+' · '+nMon(c.ndish)+'</div>'
+    +(gis?'<div class="cacts"><a class="act" href="'+gis+'">🏛️ '+tr('Điểm tham quan ở ','Sights in ','Достопримечательности: ')+esc(L(c,'name'))+' ('+tr('bản đồ','map','карта')+')</a></div>':'')
+    +'</section>';
+}
+function restHeader(r,c){
+  var info=[], acts='';
+  if(r.address_vi) info.push('📍 '+esc(r.address_vi));
+  if(r.hours) info.push('🕒 '+esc(r.hours));
+  if(r.phone) info.push('☎ '+esc(r.phone));
+  if(r.map_url) acts+='<a class="act" href="'+esc(r.map_url)+'" target="_blank" rel="noopener">📍 '+tr('Bản đồ','Map','Карта')+'</a>';
+  var site=r.site_url||(/^https?:/.test(r.site||'')?r.site:'');
+  if(site) acts+='<a class="act" href="'+esc(site)+'" target="_blank" rel="noopener">🌐 '+tr('Trang web','Website','Сайт')+'</a>';
+  return '<section class="chead"><a class="crumb" href="#'+c.key+'">← '+tr('Quán khác ở ','Other places in ','Другие заведения: ')+esc(L(c,'name'))+'</a>'
+    +'<h2>'+esc(L(r,'name'))+'</h2>'
+    +(LANG!=='ru'&&r.name_ru?'<div class="rus">'+esc(r.name_ru)+'</div>':'')
+    +'<div class="mt">'+typeTag(r)+priceTag(r)+(L(r,'cuisine')?'<span class="tag">'+esc(L(r,'cuisine'))+'</span>':'')+'</div>'
+    +(L(r,'about')?'<p class="about">'+esc(L(r,'about'))+'</p>':'')
+    +(info.length?'<div class="info">'+info.join('<br>')+'</div>':'')
+    +(acts?'<div class="cacts">'+acts+'</div>':'')
+    +'</section>';
+}
+function filtersHTML(c){
+  var sel='<select class="selrest" onchange="pickRest(this.value)" aria-label="'+esc(tr('Chọn quán','Choose a place','Выбрать заведение'))+'">'
+    +'<option value="">'+tr('Tất cả quán ở ','All places in ','Все заведения: ')+esc(L(c,'name'))+' ('+c.rests.length+')</option>';
+  c.rests.forEach(function(r){ sel+='<option value="'+r.id+'"'+(r.id===REST?' selected':'')+'>'+esc(shortName(r))+' ('+(c.nd[r.id]||0)+')</option>'; });
+  sel+='</select>';
+  var used={}, nveg=0; scopeList().forEach(function(d){ used[d.cat]=(used[d.cat]||0)+1; if(d.veg) nveg++; });
+  var chips='';
+  if(nveg) chips+='<button class="chip veg'+(VEG?' on':'')+'" onclick="toggleVeg()">🌱 '+tr('Chay','Veg','Вег')+' ('+nveg+')</button>';
+  Object.keys(DB.categories).forEach(function(s){ if(!used[s]) return;
+    chips+='<button class="chip'+(CAT===s?' on':'')+'" onclick="setCat(\''+s+'\')">'+esc(catLabel(s))+' ('+used[s]+')</button>'; });
+  return '<div class="filters">'+sel+(chips?'<div class="chips">'+chips+'</div>':'')+'</div>';
+}
+function restCard(r,c){
+  return '<a class="rcard" href="#'+c.key+'/'+r.id+'">'
+    +'<div class="rtop"><h4>'+esc(shortName(r))+'</h4>'+priceTag(r)+'</div>'
+    +(LANG!=='ru'&&r.name_ru?'<div class="rru">'+esc(r.name_ru)+'</div>':'')
+    +'<div class="mt">'+typeTag(r)+'<span class="tag">'+nMon(c.nd[r.id]||0)+'</span>'+(r._ck.length>1?'<span class="tag">'+esc(restCities(r))+'</span>':'')+'</div>'
+    +(L(r,'cuisine')?'<div class="cz">'+esc(L(r,'cuisine'))+'</div>':'')
+    +(L(r,'about')?'<div class="rab">'+esc(L(r,'about'))+'</div>':'')
+    +'</a>';
+}
+function nearby(c){
+  var g=REGION_BY[c.region]||{}, others=CITIES.filter(function(x){ return x.region===c.region && x.key!==c.key; });
+  var h='<div class="near"><h4>🧭 '+(others.length?tr('Thành phố khác trong vùng ','Other cities in ','Другие города: ')+esc(L(g,'name')):tr('Xem thành phố khác','Other cities','Другие города'))+'</h4><div class="nl">';
+  others.forEach(function(x){ h+='<a class="qchip city" href="#'+x.key+'">📍 '+esc(L(x,'name'))+' · '+nQuan(x.rests.length)+'</a>'; });
+  return h+'<a class="qchip" href="#">🗺️ '+tr('Tất cả thành phố','All cities','Все города')+'</a></div></div>';
+}
+function byCategory(list,ck){
+  var byCat={}; list.forEach(function(d){ (byCat[d.cat]=byCat[d.cat]||[]).push(d); });
+  var b='';
+  Object.keys(DB.categories).forEach(function(s){ if(!byCat[s]) return;
+    b+='<h4 class="csec">'+esc(catLabel(s))+' <span>('+byCat[s].length+')</span></h4>';
+    byCat[s].forEach(function(d){ b+=dishCard(d,ck); }); });
+  return b;
 }
 function altNames(d){
   var p=[];
@@ -201,66 +438,43 @@ function altNames(d){
   if(LANG!=='en' && d.name_en) p.push('<span class="nen">'+esc(d.name_en)+'</span>');
   return p.length ? '<div class="dn2">'+p.join(' · ')+'</div>' : '';
 }
-function dishCard(d){
+function dishCard(d,ck){
   var r=REST_BY[d.rid]||{};
   var wt=d.weight?'<span class="wt">'+esc(d.weight)+'</span>':'';
   var price=d.price?'<span class="price">'+esc(d.price)+' ₽</span>':'';
-  var badges='<span class="b rest">'+esc(r.name_vi||d.rid)+'</span><span class="b cat">'+esc(catLabel(d.cat))+'</span>'
-    +(d.veg?'<span class="b veg">🌱</span>':'')+(d.spicy?'<span class="b spicy">🌶️</span>':'');
+  var rb=(ck && REST!==d.rid) ? '<a class="b rest" href="#'+ck+'/'+d.rid+'">'+esc(shortName(r))+' ›</a>' : '<span class="b rest">'+esc(shortName(r))+'</span>';
+  var badges=rb+'<span class="b cat">'+esc(catLabel(d.cat))+'</span>'+(d.veg?'<span class="b veg">🌱</span>':'')+(d.spicy?'<span class="b spicy">🌶️</span>':'');
   var tip=(d.tips_vi&&LANG==='vi')?'<div class="tip">💡 '+esc(d.tips_vi)+'</div>':'';
   var inp=PLAN.indexOf(d.id)>=0;
   return '<div class="dish"><div class="dh"><div class="dnwrap"><div class="dn">'+esc(L(d,'name'))+'</div>'+altNames(d)+'</div><div class="dp">'+wt+price+'</div></div>'
     +'<div class="badges">'+badges+'</div><div class="di">'+esc(L(d,'intro'))+'</div>'+tip
     +'<button class="addp'+(inp?' in':'')+'" onclick="togglePlan(\''+d.id+'\',this)">'+(inp?'✓ '+tr('Đã thêm','Added','Добавлено'):'＋ '+tr('Kế hoạch','Plan','В план'))+'</button></div>';
 }
+function results(c){
+  var list=filtered(), where=REST?shortName(REST_BY[REST]):L(c,'name');
+  var h='<h3 class="sec"><span class="bar"></span>'+tr('Kết quả ở ','Results in ','Результаты: ')+esc(where)+' — '+nMon(list.length)+'</h3>';
+  if(!list.length) return h+'<div class="empty">'+tr('Không có món phù hợp ở đây.','No matching dishes here.','Здесь ничего не найдено.')
+    +(Q?' <a class="lnk" href="#">'+tr('Tìm “','Search “','Искать «')+esc(Q)+tr('” ở mọi thành phố →','” in all cities →','» во всех городах →')+'</a>':'')+'</div>';
+  return h+(Q ? sortByScore(list).map(function(d){ return dishCard(d,c.key); }).join('') : byCategory(list,c.key));
+}
 function render(){
   var m=document.getElementById('main');
-  var active=(Q||CAT||REST||VEG);
-  var list=filtered();
-  document.getElementById('stat').textContent = active ? (list.length+' '+tr('món','dishes','блюд')) : (DB.restaurants.length+' '+tr('quán','places','мест')+' · '+DB.dishes.length+' '+tr('món','dishes','блюд'));
-  if(!active){
-    var html='<h2 class="sec"><span class="bar"></span>'+tr('Nhà hàng','Restaurants','Рестораны')+'</h2><div class="rgrid">';
-    DB.restaurants.forEach(function(r){
-      var n=DB.dishes.filter(function(d){return d.rid===r.id;}).length;
-      var lux=(r.price_level==='₽₽₽₽');
-      html+='<div class="rcard" onclick="pickRest(\''+r.id+'\')"><h3>'+esc(r.name_vi)+'</h3><div class="ru">'+esc(r.name_ru)+(r.type==='chain'?' · '+tr('chuỗi','chain','сеть'):'')+'</div>'
-        +'<div class="cz">'+esc(L(r,'cuisine'))+'</div><div class="mt">'
-        +'<span class="tag'+(lux?' lux':'')+'">'+esc(r.price_level||'')+(lux?' ✦':'')+'</span>'
-        +'<span class="tag">'+ (r.cities?esc(r.cities.join(', ')):'') +'</span>'
-        +'<span class="tag">'+n+' '+tr('món','dishes','блюд')+'</span></div></div>';
-    });
-    m.innerHTML=html+'</div>'; return;
-  }
-  if(!list.length){ m.innerHTML='<div class="empty">'+tr('Không tìm thấy món phù hợp. Thử từ khoá khác (vd: bò, gà, cá, súp…).','No matching dishes.','Ничего не найдено.')+'</div>'; return; }
-  var head;
-  if(REST && !Q && !CAT && !VEG){ var r=REST_BY[REST]; head='<h2 class="sec"><span class="bar"></span>'+esc(r.name_vi)+' — '+list.length+' '+tr('món','dishes','блюд')+'</h2>'
-      +'<div style="margin:-4px 0 8px;color:#5c6773;font-size:12.5px">'+esc(L(r,'about')||'')+(r.map_url?' · <a href="'+esc(r.map_url)+'" target="_blank" style="color:#a9863a;font-weight:700">📍 '+tr('Bản đồ','Map','Карта')+'</a>':'')+'</div>'; }
-  else head='<h2 class="sec"><span class="bar"></span>'+tr('Kết quả','Results','Результаты')+' — '+list.length+' '+tr('món','dishes','блюд')+'</h2>';
-  var body='';
-  if(Q){ // tìm theo chữ -> XẾP theo độ liên quan (tên khớp dấu lên đầu), danh sách phẳng
-    var terms=norm(Q).split(/\s+/).filter(Boolean), rawterms=Q.toLowerCase().split(/\s+/).filter(Boolean);
-    list=list.slice().sort(function(a,b){ return scoreOf(b,terms,rawterms)-scoreOf(a,terms,rawterms); });
-    list.forEach(function(d){ body+=dishCard(d); });
-  } else { // chỉ lọc -> nhóm theo danh mục
-    var byCat={}; list.forEach(function(d){(byCat[d.cat]=byCat[d.cat]||[]).push(d);});
-    Object.keys(DB.categories).forEach(function(slug){ if(!byCat[slug])return;
-      body+='<h2 class="sec" style="font-size:13px;color:#40506a"><span class="bar" style="height:13px"></span>'+esc(catLabel(slug))+' ('+byCat[slug].length+')</h2>';
-      byCat[slug].forEach(function(d){ body+=dishCard(d); });
-    });
-  }
-  m.innerHTML=head+body;
+  if(!CITY){ m.innerHTML = Q ? landingSearch() : landing(); return; }
+  var c=CITY_BY[CITY], active=!!(Q||CAT||VEG);
+  var h=(REST ? restHeader(REST_BY[REST],c) : cityHeader(c)) + filtersHTML(c);
+  if(active) h+=results(c);
+  else if(REST) h+='<h3 class="sec"><span class="bar"></span>'+tr('Thực đơn','Menu','Меню')+' — '+nMon(c.nd[REST]||0)+'</h3>'+byCategory(scopeList(),c.key);
+  else h+='<h3 class="sec"><span class="bar"></span>'+tr('Quán ăn ở ','Places to eat in ','Где поесть: ')+esc(L(c,'name'))+' · '+c.rests.length+'</h3>'
+       +'<div class="rgrid">'+c.rests.map(function(r){ return restCard(r,c); }).join('')+'</div>'+nearby(c);
+  m.innerHTML=h;
 }
-function pickRest(id){ REST=id; document.getElementById('selrest').value=id; CAT='';Q='';VEG=false; document.getElementById('q').value=''; document.getElementById('qx').style.display='none'; document.getElementById('vegchip').classList.remove('on'); paint(); render(); window.scrollTo(0,0); }
-
-function setLang(l){ LANG=l; document.documentElement.lang=l;
-  document.querySelectorAll('.langbar button').forEach(function(b){b.classList.toggle('on',b.dataset.l===l);});
-  document.getElementById('apptitle').textContent=tr('🍲 Tra cứu món & thực đơn nhà hàng','🍲 Search dishes & restaurant menus','🍲 Поиск блюд и меню');
-  document.getElementById('q').placeholder=tr('🔎 Tìm món ở mọi quán… vd: bò, borscht, plov','🔎 Search any dish… e.g. beef, borscht, plov','🔎 Поиск блюда… напр. говядина, борщ, плов');
+function setLang(l){ LANG=(l==='en'||l==='ru')?l:'vi'; document.documentElement.lang=LANG;
+  try{ localStorage.setItem('rd_lang',LANG); }catch(e){}
+  document.querySelectorAll('.langbar button').forEach(function(b){ b.classList.toggle('on',b.dataset.l===LANG); });
+  document.getElementById('apptitle').innerHTML=esc(tr('🍲 Ẩm thực Nga','🍲 Russian food','🍲 Русская кухня'))
+    +'<span class="h1x">'+esc(tr(' — quán ăn theo thành phố',' — where to eat, by city',' — где поесть по городам'))+'</span>';
   document.getElementById('traytitle').textContent=tr('Kế hoạch bữa ăn','Meal plan','План питания');
-  // cập nhật nhãn chip
-  var vc=document.getElementById('vegchip'); if(vc) vc.textContent='🌱 '+tr('Chay','Veg','Вег');
-  document.querySelectorAll('.chip[data-cat]').forEach(function(c){ var n=DB.dishes.filter(function(d){return d.cat===c.dataset.cat;}).length; c.textContent=catLabel(c.dataset.cat)+' ('+n+')'; });
-  render(); renderTray();
+  syncHeader(); render(); renderTray();
 }
 
 // ================= KẾ HOẠCH BỮA ĂN =================
@@ -269,20 +483,19 @@ function savePlan(){ try{ localStorage.setItem('rd_plan',JSON.stringify(PLAN)); 
 function dishById(id){ for(var i=0;i<DB.dishes.length;i++) if(DB.dishes[i].id===id) return DB.dishes[i]; return null; }
 function togglePlan(id,btn){ var i=PLAN.indexOf(id); if(i>=0)PLAN.splice(i,1); else PLAN.push(id); savePlan();
   if(btn){ var inp=PLAN.indexOf(id)>=0; btn.classList.toggle('in',inp); btn.textContent=inp?'✓ '+tr('Đã thêm','Added','Добавлено'):'＋ '+tr('Kế hoạch','Plan','В план'); }
-  renderTray(); if(PLAN.length===1) document.getElementById('tray').classList.add('open'); }
+  if(!btn) render(); renderTray(); if(PLAN.length===1) document.getElementById('tray').classList.add('open'); }
 function renderTray(){
   document.getElementById('traycount').textContent=PLAN.length;
   var el=document.getElementById('traylist');
-  if(!PLAN.length){ el.innerHTML='<div class="mini" style="color:#aebdd0;padding:6px 0">'+tr('Bấm “＋ Kế hoạch” ở mỗi món để thêm. Dữ liệu lưu trên máy anh.','Tap “＋ Plan” on dishes to add.','Нажмите «＋ В план».')+'</div>'; return; }
+  if(!PLAN.length){ el.innerHTML='<div class="mini" style="color:#aebdd0;padding:6px 0">'+tr('Bấm “＋ Kế hoạch” ở mỗi món để thêm. Dữ liệu lưu trên máy của bạn.','Tap “＋ Plan” on dishes to add.','Нажмите «＋ В план».')+'</div>'; return; }
   var h=''; PLAN.forEach(function(id){ var d=dishById(id); if(!d)return; var r=REST_BY[d.rid]||{};
-    h+='<div class="pi"><span>'+esc(L(d,'name'))+' <span style="color:#aebdd0;font-size:11.5px">· '+esc(r.name_vi||'')+(d.price?' · '+esc(d.price)+'₽':'')+'</span></span><span class="x" onclick="togglePlan(\''+id+'\')">✕</span></div>'; });
+    h+='<div class="pi"><span>'+esc(L(d,'name'))+' <span style="color:#aebdd0;font-size:11.5px">· '+esc(shortName(r))+(restCities(r)?' ('+esc(restCities(r))+')':'')+(d.price?' · '+esc(d.price)+'₽':'')+'</span></span><span class="x" onclick="togglePlan(\''+id+'\')">✕</span></div>'; });
   el.innerHTML=h;
 }
 function toggleTray(){ var t=document.getElementById('tray'); t.classList.toggle('open'); document.getElementById('trayhint').textContent=t.classList.contains('open')?'▼ đóng':'▲ mở'; }
 function clearPlan(){ if(PLAN.length && !confirm(tr('Xoá hết món trong kế hoạch?','Clear all?','Очистить план?')))return; PLAN=[]; savePlan(); renderTray(); document.querySelectorAll('.addp.in').forEach(function(b){b.classList.remove('in');b.textContent='＋ '+tr('Kế hoạch','Plan','В план');}); }
 function planLabel(){ return document.getElementById('planlabel').value.trim()||tr('Kế hoạch bữa ăn','Meal plan','План питания'); }
 function planGroups(){ var g=[],idx={}; PLAN.forEach(function(id){var d=dishById(id); if(!d)return; if(!(d.rid in idx)){idx[d.rid]=g.length; g.push({r:REST_BY[d.rid]||{id:d.rid},items:[]});} g[idx[d.rid]].items.push(d);}); return g; }
-
 // ---- tải file ----
 function dl(content,type,name){ var b=new Blob([content],{type:type}); var a=document.createElement('a'); a.href=URL.createObjectURL(b); a.download=name; document.body.appendChild(a); a.click(); setTimeout(function(){a.remove();URL.revokeObjectURL(a.href);},200); }
 function dlBlob(blob,name){ var a=document.createElement('a'); a.href=URL.createObjectURL(blob); a.download=name; document.body.appendChild(a); a.click(); setTimeout(function(){a.remove();URL.revokeObjectURL(a.href);},200); }
@@ -290,7 +503,7 @@ function slugName(){ return norm(planLabel()).replace(/[^a-z0-9]+/g,'-').replace
 function noplan(){ if(!PLAN.length){ alert(tr('Chưa chọn món nào.','No dishes selected.','Не выбрано.')); return true;} return false; }
 
 // ---- Copy / text ----
-function buildText(){ var L=[]; L.push('# '+planLabel()); planGroups().forEach(function(g){ L.push(''); L.push('== '+(g.r.name_vi||g.r.id)+(g.r.name_ru?(' ('+g.r.name_ru+')'):'')+' =='); if(g.r.map_url)L.push('📍 '+g.r.map_url);
+function buildText(){ var L=[]; L.push('# '+planLabel()); planGroups().forEach(function(g){ L.push(''); L.push('== '+(g.r.name_vi||g.r.id)+(g.r.name_ru?(' ('+g.r.name_ru+')'):'')+(restCities(g.r)?' — '+restCities(g.r):'')+' =='); if(g.r.map_url)L.push('📍 '+g.r.map_url);
   g.items.forEach(function(d){ L.push(''); L.push('• '+d.name_vi+' | '+d.name_en+' | '+d.name_ru+(d.price?('  —  '+d.price+' ₽'):'')+(d.weight?(' ('+d.weight+')'):'')); if(d.intro_vi)L.push('   '+d.intro_vi); if(d.tips_vi)L.push('   ⚠ Lưu ý: '+d.tips_vi); }); }); return L.join('\n'); }
 function copyPlan(){ if(noplan())return; var t=buildText(); if(navigator.clipboard){navigator.clipboard.writeText(t).then(function(){alert('✓ '+tr('Đã sao chép!','Copied!','Скопировано!'));},function(){prompt('Copy:',t);});} else prompt('Copy:',t); }
 
@@ -300,7 +513,7 @@ function buildHTMLdoc(forPrint){
   var h='<!DOCTYPE html><html lang="vi"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>'+esc(planLabel())+'</title><style>'+css+'</style></head><body>';
   if(forPrint) h+='<div class="noprint" style="text-align:right"><button onclick="window.print()" style="padding:8px 14px;font-weight:800;background:#c8a24b;border:none;border-radius:8px;cursor:pointer">🖨️ In / Lưu PDF</button></div>';
   h+='<h1>🧾 '+esc(planLabel())+'</h1><div class="alt">Cẩm nang Du lịch · thực đơn 3 ngôn ngữ · giá tham khảo (₽)</div>';
-  planGroups().forEach(function(g){ h+='<h2>'+esc(g.r.name_vi||g.r.id)+(g.r.name_ru?(' <span class="alt">'+esc(g.r.name_ru)+'</span>'):'')+'</h2>';
+  planGroups().forEach(function(g){ h+='<h2>'+esc(g.r.name_vi||g.r.id)+(g.r.name_ru?(' <span class="alt">'+esc(g.r.name_ru)+'</span>'):'')+(restCities(g.r)?' <span class="alt">· 📍 '+esc(restCities(g.r))+'</span>':'')+'</h2>';
     if(g.r.map_url) h+='<div class="mp">📍 <a href="'+esc(g.r.map_url)+'" target="_blank">'+tr('Bản đồ Yandex','Yandex Map','Яндекс Карта')+'</a></div>';
     g.items.forEach(function(d){ h+='<div class="d"><div><span class="n">'+esc(d.name_vi)+'</span>'+(d.price?' — <span class="pr">'+esc(d.price)+' ₽</span>':'')+(d.weight?' <span class="alt">('+esc(d.weight)+')</span>':'')+'</div>'
       +'<div class="alt">'+esc(d.name_en)+' · '+esc(d.name_ru)+'</div>'
@@ -313,15 +526,15 @@ function printPlan(){ if(noplan())return; var w=window.open('','_blank'); if(!w)
 
 // ---- CSV ----
 function exportCSV(){ if(noplan())return;
-  var head=['Nhan','Quan','Mon_VI','Mon_EN','Mon_RU','Dinh_luong','Gia_RUB','Danh_muc','Mo_ta','Luu_y','Ban_do'];
+  var head=['Nhan','Thanh_pho','Quan','Mon_VI','Mon_EN','Mon_RU','Dinh_luong','Gia_RUB','Danh_muc','Mo_ta','Luu_y','Ban_do'];
   var out=[head], lbl=planLabel();
-  planGroups().forEach(function(g){ g.items.forEach(function(d){ out.push([lbl,g.r.name_vi||g.r.id,d.name_vi,d.name_en,d.name_ru,d.weight||'',d.price||'',catLabel(d.cat,'vi'),d.intro_vi||'',d.tips_vi||'',g.r.map_url||'']); }); });
+  planGroups().forEach(function(g){ g.items.forEach(function(d){ out.push([lbl,restCities(g.r),g.r.name_vi||g.r.id,d.name_vi,d.name_en,d.name_ru,d.weight||'',d.price||'',catLabel(d.cat,'vi'),d.intro_vi||'',d.tips_vi||'',g.r.map_url||'']); }); });
   var csv='﻿'+out.map(function(r){return r.map(function(c){return '"'+String(c==null?'':c).replace(/"/g,'""')+'"';}).join(',');}).join('\n');
   dl(csv,'text/csv;charset=utf-8;',slugName()+'.csv');
 }
 // ---- JSON ----
 function exportJSON(){ if(noplan())return;
-  var data={label:planLabel(),generated:new Date().toISOString(),groups:planGroups().map(function(g){return {restaurant:{id:g.r.id,name_vi:g.r.name_vi,name_ru:g.r.name_ru,map_url:g.r.map_url||''},dishes:g.items.map(function(d){return {id:d.id,cat:d.cat,name_vi:d.name_vi,name_en:d.name_en,name_ru:d.name_ru,weight:d.weight,price:d.price,intro_vi:d.intro_vi,tips_vi:d.tips_vi};})};})};
+  var data={label:planLabel(),generated:new Date().toISOString(),groups:planGroups().map(function(g){return {restaurant:{id:g.r.id,name_vi:g.r.name_vi,name_ru:g.r.name_ru,map_url:g.r.map_url||'',cities:restCities(g.r)},dishes:g.items.map(function(d){return {id:d.id,cat:d.cat,name_vi:d.name_vi,name_en:d.name_en,name_ru:d.name_ru,weight:d.weight,price:d.price,intro_vi:d.intro_vi,tips_vi:d.tips_vi};})};})};
   dl(JSON.stringify(data,null,2),'application/json;charset=utf-8;',slugName()+'.json');
 }
 // ---- Word .docx THẬT (OOXML + zip store, không cần thư viện ngoài) ----
@@ -344,7 +557,7 @@ function buildPlanDocx(){
   body+=para(run('🧾 '+planLabel(),{b:true,sz:34,color:'16293F'}),{after:40});
   body+=para(run('Cẩm nang Du lịch · thực đơn 3 ngôn ngữ · giá tham khảo (₽)',{color:'8A97A8',sz:18}),{after:140});
   planGroups().forEach(function(g){
-    body+=para(run((g.r.name_vi||g.r.id),{b:true,sz:26,color:'16293F'})+run(g.r.name_ru?('   ·   '+g.r.name_ru):'',{i:true,sz:18,color:'8A97A8'}),{after:20});
+    body+=para(run((g.r.name_vi||g.r.id),{b:true,sz:26,color:'16293F'})+run(g.r.name_ru?('   ·   '+g.r.name_ru):'',{i:true,sz:18,color:'8A97A8'})+run(restCities(g.r)?('   ·   📍 '+restCities(g.r)):'',{sz:18,color:'A9863A'}),{after:20});
     if(g.r.map_url) body+=para(run('📍 ',{sz:18,color:'8A97A8'})+hyper(tr('Bản đồ Yandex','Yandex Map','Яндекс'),g.r.map_url),{after:40});
     g.items.forEach(function(d){
       body+=para(run(d.name_vi,{b:true,sz:22,color:'16293F'})+(d.price?run('    '+d.price+' ₽'+(d.weight?(' · '+d.weight):''),{b:true,sz:20,color:'B23B34'}):''),{after:8});
@@ -361,8 +574,20 @@ function buildPlanDocx(){
   return _zipStore([{name:'[Content_Types].xml',data:ct},{name:'_rels/.rels',data:rootRels},{name:'word/document.xml',data:docXml},{name:'word/_rels/document.xml.rels',data:relsXml},{name:'word/styles.xml',data:styles}]);
 }
 function exportWord(){ if(noplan())return; try{ dlBlob(new Blob([buildPlanDocx()],{type:'application/vnd.openxmlformats-officedocument.wordprocessingml.document'}),slugName()+'.docx'); }catch(e){ dl('﻿'+buildHTMLdoc(false),'application/msword',slugName()+'.doc'); } }
-
-setLang('vi'); render(); renderTray();
+// ---------- khởi động ----------
+(function(){
+  try{ history.scrollRestoration='manual'; }catch(e){}
+  // link dạng ?city=kolomna (hoặc tên thành phố) -> chuyển thành #kolomna
+  try{
+    var qc=new URLSearchParams(location.search||'').get('city');
+    if(qc && !location.hash){ var n=qc.trim().toLowerCase(), k='';
+      CITIES.forEach(function(c){ if(!k && [c.key,c.name_vi,c.name_en,c.name_ru].concat(c.match||[]).some(function(x){ return x && String(x).toLowerCase()===n; })) k=c.key; });
+      if(k) history.replaceState(null,'',location.pathname+location.search+'#'+k); }
+  }catch(e){}
+  var r=parseHash(); CITY=CITY_BY[r.city]?r.city:''; REST=(CITY&&r.rest&&CITY_BY[CITY].rset[r.rest])?r.rest:'';
+  var l0='vi'; try{ l0=localStorage.getItem('rd_lang')||'vi'; }catch(e){}
+  setLang(l0);
+})();
 </script>
 </body>
 </html>

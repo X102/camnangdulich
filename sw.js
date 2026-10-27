@@ -2,7 +2,7 @@
    Cho phép web CHẠY KHI MẤT MẠNG (offline): lưu sẵn giao diện + dữ liệu địa điểm,
    và lưu lại các ô bản đồ đã xem. Đường dẫn tương đối = gốc site (nơi đặt sw.js). */
 const APP   = 'cndl-camnang';
-const VER   = 'v1';                       // tăng số này khi đổi giao diện (html/css/js)
+const VER   = 'v2';                       // tăng số này khi đổi giao diện (html/css/js)
 const SHELL_CACHE = APP + '-shell-' + VER;
 const DATA_CACHE  = APP + '-data';        // bundle.js, index.json… (giữ qua các phiên bản)
 const TILE_CACHE  = APP + '-tiles';       // ô bản đồ tải lúc dùng
@@ -12,7 +12,7 @@ const TILE_MAX    = 1600;                 // trần số ô để không phình 
 // Giao diện + thư viện (file nhỏ) — lưu sẵn khi cài đặt.
 const SHELL = [
   './', 'index.html', 'gis.html', 'list.html',
-  'diem.html',
+  'diem.html', 'am-thuc/index.html',
   'manifest.webmanifest', 'offline.html',
   'assets/app.css', 'assets/common.js', 'assets/pwa.js', 'assets/favicon.svg',
   'assets/vendor/leaflet.css', 'assets/vendor/leaflet.js', 'assets/vendor/leaflet.markercluster.js',
@@ -22,7 +22,8 @@ const SHELL = [
   'assets/icon-192.png', 'assets/icon-512.png'
 ];
 // Dữ liệu lớn — nạp trước để dùng offline (khi bấm "lưu dữ liệu").
-const DATA = ['data/bundle.js', 'data/index.json', 'data/vn-archipelago.js', 'data/rings.js'];
+const DATA = ['data/bundle.js', 'data/index.json', 'data/vn-archipelago.js', 'data/rings.js',
+              'am-thuc/data/cities.js', 'am-thuc/data/menu-bundle.js'];
 // Thư viện ngoài (xuất PDF) — lưu để xuất được cả khi offline.
 const EXTRA = ['https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js'];
 
