@@ -19,12 +19,14 @@
 
    v2.1: TourVideo.lib (bộ công cụ dùng chung cho nghe-thuat/art-video.js), exportVideo nhận V.preload/V.ensure/V.render,
          thêm 2 bản nhạc: 🎋 Ngũ cung (đàn tranh, sáo — điệu ngũ cung Việt) và 🕯️ Suy ngẫm (piano, nền tĩnh).
+   v2.2: giọng AI đa ngôn ngữ — chọn giọng theo từng tiếng (O.voices); thêm giọng Trung Piper «Chaowen» (pinyin) và
+         10 giọng Supertonic 3 (Việt, Anh, Nhật, Hàn, Nga…) chạy trong Web Worker, WebGPU khi có. Video tour giữ nguyên giọng cũ.
 
    Gọi: TourVideo.open(data)  — data do gis.html gom (xem videoData() trong gis.html).
    ===================================================================== */
 (function (global) {
   "use strict";
-  var VERSION = "2.1";
+  var VERSION = "2.2";
   var BASE = (function () {
     try { var s = document.currentScript && document.currentScript.src; if (s) return s.replace(/[^\/?#]*([?#].*)?$/, ""); } catch (e) { }
     return "assets/";
@@ -1567,36 +1569,70 @@
     if (fs.sc.stop && V.O.photo) await loadPhoto(fs.sc.stop);
   }
 
-  /* ================= 9. GIỌNG ĐỌC AI (Piper) — chạy ngay trong trình duyệt =================
-     onnxruntime-web (MIT, cdnjs) + piper-phonemize/espeak-ng (wasm, jsDelivr) + mô hình giọng Piper (Hugging Face):
-       🇻🇳 vi_VN-vais1000-medium (dữ liệu VAIS-1000, CC BY 4.0) · 🇷🇺 ru_RU-denis-medium (CC0) · 🇬🇧 en_US-ljspeech-medium (LJSpeech, public domain)
-     Lần đầu tải ~60 MB mỗi giọng + ~30 MB bộ chạy, lưu trong Cache Storage của trình duyệt cho lần sau.
-     Câu đã đọc cũng được lưu lại (Cache Storage) nên xuất lại video chỉ đọc những câu mới sửa. */
+  /* ================= 9. GIỌNG ĐỌC AI — chạy ngay trong trình duyệt =================
+     (1) Piper: onnxruntime-web 1.18 (MIT, cdnjs) + piper-phonemize/espeak-ng (wasm, jsDelivr) + mô hình giọng Piper (Hugging Face):
+           🇻🇳 vi_VN-vais1000-medium (dữ liệu VAIS-1000, CC BY 4.0) · 🇷🇺 ru_RU-denis-medium (CC0) · 🇬🇧 en_US-ljspeech-medium (LJSpeech, public domain)
+           🇨🇳 zh_CN-chaowen-medium (CC0): giọng phiên âm pinyin — chữ Hán → pinyin bằng pinyin-pro (MIT, jsDelivr), rồi tách thanh mẫu /
+               vận mẫu / thanh điệu và đánh số y như phonemize_chinese.py của OHF-Voice/piper1-gpl (đoạn mã đó theo giấy phép Apache-2.0).
+         Lần đầu tải ~60 MB mỗi giọng + ~30 MB bộ chạy.
+     (2) Supertonic 3 (Supertone Inc.; mô hình OpenRAIL-M, mã mẫu MIT): 10 giọng — nữ F1–F5, nam M1–M5 — đọc được Việt, Anh, Nhật, Hàn,
+         Nga… (31 tiếng, chưa có tiếng Trung). Chạy bằng onnxruntime-web 1.23 trong một Web Worker riêng: WebGPU nếu máy có, không thì WASM.
+         Lần đầu tải ~400 MB. Phần suy luận chuyển từ web/helper.js của supertone-inc/supertonic (MIT): chuẩn hoá chữ + thẻ ngôn ngữ,
+         duration_predictor → text_encoder → vector_estimator (khử nhiễu 8 bước) → vocoder, cắt theo thời lượng dự đoán.
+         Giấy phép OpenRAIL-M đòi ghi rõ nội dung do máy tạo — video giải mã đã có nhãn «Có dùng AI».
+     Tất cả lưu trong Cache Storage của trình duyệt; câu đã đọc cũng được lưu nên xuất lại chỉ đọc những câu mới sửa.
+     Chọn giọng theo ngôn ngữ: O.voices = { vi: "vi", en: "st:F2", ja: "st:M1", … } — không chọn thì dùng giọng Piper trùng tên ngôn ngữ. */
   var AIV = (function () {
     var ORT_JS = "https://cdnjs.cloudflare.com/ajax/libs/onnxruntime-web/1.18.0/ort.wasm.min.js";
     var ORT_BASE = "https://cdnjs.cloudflare.com/ajax/libs/onnxruntime-web/1.18.0/";
     var PH_BASE = "https://cdn.jsdelivr.net/npm/@diffusionstudio/piper-wasm@1.0.0/build/";
+    var PINYIN_JS = "https://cdn.jsdelivr.net/npm/pinyin-pro@3.29.5/dist/index.js";
     var HF = ["https://huggingface.co/diffusionstudio/piper-voices/resolve/main/", "https://huggingface.co/rhasspy/piper-voices/resolve/main/"];
+    var LNAME = { vi: "Việt", ru: "Nga", en: "Anh", zh: "Trung", ja: "Nhật", ko: "Hàn" };
     var VOICES = {
-      vi: { path: "vi/vi_VN/vais1000/medium/vi_VN-vais1000-medium.onnx", mb: 61, name: "VAIS-1000", lic: "CC BY 4.0", g: "nữ" },
-      ru: { path: "ru/ru_RU/denis/medium/ru_RU-denis-medium.onnx", mb: 61, name: "Denis", lic: "CC0", g: "nam" },
-      en: { path: "en/en_US/ljspeech/medium/en_US-ljspeech-medium.onnx", mb: 64, name: "LJSpeech", lic: "public domain", g: "nữ" }
+      vi: { eng: "piper", lang: "vi", path: "vi/vi_VN/vais1000/medium/vi_VN-vais1000-medium.onnx", mb: 61, name: "VAIS-1000", lic: "CC BY 4.0", g: "nữ" },
+      ru: { eng: "piper", lang: "ru", path: "ru/ru_RU/denis/medium/ru_RU-denis-medium.onnx", mb: 61, name: "Denis", lic: "CC0", g: "nam" },
+      en: { eng: "piper", lang: "en", path: "en/en_US/ljspeech/medium/en_US-ljspeech-medium.onnx", mb: 64, name: "LJSpeech", lic: "public domain", g: "nữ" },
+      zh: { eng: "piper", lang: "zh", ph: "pinyin", path: "zh/zh_CN/chaowen/medium/zh_CN-chaowen-medium.onnx", mb: 61, name: "Chaowen", lic: "CC0", g: "" }
     };
+    var ST = {
+      repos: ["https://huggingface.co/supertone-oss-archive/supertonic-3/resolve/aafc6e32416a594460b32413efc49d7fe4ce6d46/",
+              "https://huggingface.co/Supertone/supertonic-3/resolve/main/"],
+      parts: [["duration_predictor", 3.7], ["text_encoder", 36.4], ["vector_estimator", 257], ["vocoder", 101]],
+      mb: 400, steps: 8, speed: 1.05,
+      // bộ chạy: thử ORT 1.18 (gói UMD có sẵn lõi, chạy chắc trong Worker cổ điển) rồi tới ORT 1.23 (hỗ trợ WebGPU rộng hơn)
+      orts: [{ v: "1.18", js: "https://cdn.jsdelivr.net/npm/onnxruntime-web@1.18.0/dist/ort.webgpu.min.js", base: "https://cdn.jsdelivr.net/npm/onnxruntime-web@1.18.0/dist/" },
+             { v: "1.23", js: "https://cdn.jsdelivr.net/npm/onnxruntime-web@1.23.2/dist/ort.webgpu.min.js", base: "https://cdn.jsdelivr.net/npm/onnxruntime-web@1.23.2/dist/" }],
+      styles: ["F1", "F2", "F3", "F4", "F5", "M1", "M2", "M3", "M4", "M5"],
+      langs: ["en", "ko", "ja", "ar", "bg", "cs", "da", "de", "el", "es", "et", "fi", "fr", "hi", "hr", "hu", "id", "it", "lt", "lv", "nl", "pl", "pt", "ro", "ru", "sk", "sl", "sv", "tr", "uk", "vi"]
+    };
+    ST.styles.forEach(function (s) { VOICES["st:" + s] = { eng: "st", style: s, mb: ST.mb, name: "Supertonic " + s, lic: "OpenRAIL-M", g: s.charAt(0) === "F" ? "nữ" : "nam" }; });
+    function canSpeak(vid, l) { var v = VOICES[vid]; if (!v) return false; return v.eng === "st" ? ST.langs.indexOf(l) >= 0 : v.lang === l; }
+    function voiceFor(l, O) { var v = O && O.voices && O.voices[l]; if (v && canSpeak(v, l)) return v; return VOICES[l] ? l : null; }
+    function voicesFor(l) { return Object.keys(VOICES).filter(function (k) { return canSpeak(k, l); }); }
     var CACHE = "tv-piper-v1", SAYC = "tv-say-v1";
-    var MODEL = {}, CFG = {}, SESS = {}, pend = {}, ortP = null, phP = null, PH = null, memo = new Map(), W = {}, wseq = 0, noWorker = false;
+    var MODEL = {}, CFG = {}, SESS = {}, pend = {}, ortP = null, phP = null, pyP = null, PH = null, memo = new Map(), W = {}, wseq = 0, noWorker = false;
     function supported() { return !!(global.WebAssembly && global.fetch && typeof BigInt64Array !== "undefined"); }
     async function cacheOpen(n) { try { return global.caches ? await caches.open(n) : null; } catch (e) { return null; } }
     async function fetchCached(url, onProg) {
       var c = await cacheOpen(CACHE);
       if (c) { try { var hit = await c.match(url); if (hit) { var b0 = await hit.arrayBuffer(); if (onProg) onProg(b0.byteLength, b0.byteLength, true); return b0; } } catch (e) { } }
       var res = await fetch(url, { mode: "cors" }); if (!res.ok) throw new Error("HTTP " + res.status + " — " + url);
-      var total = +res.headers.get("content-length") || 0, buf;
+      var total = +res.headers.get("content-length") || 0, buf, big = total > 30e6;
+      // tệp lớn (mô hình Supertonic 100–260 MB): ghi thẳng luồng tải vào bộ nhớ đệm, không chép thêm một bản trong bộ nhớ
+      var putP = c && big ? c.put(url, res.clone()).then(function () { return true; }, function () { return false; }) : null;
       if (res.body && res.body.getReader) {
-        var rd = res.body.getReader(), parts = [], got = 0;
-        for (;;) { var r = await rd.read(); if (r.done) break; parts.push(r.value); got += r.value.length; if (onProg) onProg(got, total); }
-        buf = new Uint8Array(got); var o = 0; parts.forEach(function (p) { buf.set(p, o); o += p.length; }); buf = buf.buffer;
+        var rd = res.body.getReader(), parts = [], got = 0, pre = total > 0 ? new Uint8Array(total) : null;
+        for (;;) {
+          var r = await rd.read(); if (r.done) break;
+          if (pre && got + r.value.length <= total) pre.set(r.value, got); else { if (pre) { parts.push(pre.subarray(0, got)); pre = null; } parts.push(r.value); }
+          got += r.value.length; if (onProg) onProg(got, total);
+        }
+        if (pre && got === total) buf = pre.buffer;
+        else { var all = new Uint8Array(got), o = 0; if (pre) parts.unshift(pre.subarray(0, got)); parts.forEach(function (p) { all.set(p, o); o += p.length; }); buf = all.buffer; }
       } else buf = await res.arrayBuffer();
-      if (c) { try { await c.put(url, new Response(buf.slice(0), { headers: { "content-type": "application/octet-stream" } })); } catch (e) { } }
+      if (putP) await putP;
+      else if (c) { try { await c.put(url, new Response(buf.slice(0), { headers: { "content-type": "application/octet-stream" } })); } catch (e) { } }
       return buf;
     }
     async function fetchVoice(file, onProg) {
@@ -1604,7 +1640,14 @@
       for (var i = 0; i < HF.length; i++) { try { return await fetchCached(HF[i] + file, onProg); } catch (e) { err = e; } }
       throw err;
     }
-    async function isCached(lang) { var c = await cacheOpen(CACHE); if (!c) return false; try { for (var i = 0; i < HF.length; i++) if (await c.match(HF[i] + VOICES[lang].path)) return true; } catch (e) { } return false; }
+    async function isCached(vid) {
+      var v = VOICES[vid], c = await cacheOpen(CACHE); if (!c || !v) return false;
+      try {
+        if (v.eng === "st") { for (var j = 0; j < ST.repos.length; j++) if (await c.match(ST.repos[j] + "onnx/vector_estimator.onnx")) return true; return false; }
+        for (var i = 0; i < HF.length; i++) if (await c.match(HF[i] + v.path)) return true;
+      } catch (e) { }
+      return false;
+    }
     function ensureOrt() { return ortP || (ortP = (async function () { if (!global.ort) await loadScript(ORT_JS); ort.env.wasm.wasmPaths = ORT_BASE; ort.env.wasm.numThreads = 1; })()); }
     function ensurePhon(onProg) {
       return phP || (phP = (async function () {
@@ -1623,18 +1666,70 @@
       for (var i = 0; i < outs.length; i++) { try { var j = JSON.parse(outs[i]); if (j && j.phoneme_ids) return j.phoneme_ids; } catch (e) { } }
       return [];
     }
-    // tải giọng (mô hình + cấu hình); onProg(phần đã tải, tổng, từ bộ nhớ đệm?)
-    function load(lang, onProg) {
-      if (MODEL[lang]) return Promise.resolve();
-      if (pend[lang]) return pend[lang];
-      var v = VOICES[lang]; if (!v) return Promise.reject(new Error("Chưa có giọng AI cho " + lang));
-      pend[lang] = (async function () {
-        CFG[lang] = JSON.parse(new TextDecoder().decode(await fetchVoice(v.path + ".json")));
-        MODEL[lang] = await fetchVoice(v.path, onProg);
-      })().catch(function (e) { pend[lang] = null; throw e; });
-      return pend[lang];
+
+    /* ---- tiếng Trung: chữ Hán → pinyin (pinyin-pro) → mã âm vị của giọng Piper kiểu "pinyin" ---- */
+    function ensurePinyin() {
+      return pyP || (pyP = (global.pinyinPro ? Promise.resolve() : loadScript(PINYIN_JS)).then(function () {
+        if (!global.pinyinPro || typeof global.pinyinPro.pinyin !== "function") throw new Error("Không tải được bộ phiên âm pinyin");
+      }).catch(function (e) { pyP = null; throw e; }));
     }
-    // ---- chạy mô hình: nhiều Web Worker song song (nhanh hơn), lỗi thì chạy ngay trên trang ----
+    var PY_INI = ["zh", "ch", "sh", "b", "p", "m", "f", "d", "t", "n", "l", "g", "k", "h", "j", "q", "x", "r", "z", "c", "s", "y", "w"];   // dài trước, ngắn sau
+    var ZD = "零一二三四五六七八九";
+    function zhInt(n) {
+      if (!isFinite(n) || n < 0) return String(n); if (n === 0) return "零";
+      var U = ["", "十", "百", "千"];
+      function sec(x) { var s = "", zero = false; for (var p = 3; p >= 0; p--) { var d = Math.floor(x / Math.pow(10, p)) % 10; if (!d) { if (s) zero = true; continue; } if (zero) { s += "零"; zero = false; } s += ZD.charAt(d) + U[p]; } return s; }
+      var yi = Math.floor(n / 1e8), wan = Math.floor(n / 1e4) % 1e4, rest = n % 1e4, out = "";
+      if (yi) out += sec(yi) + "亿";
+      if (wan) out += (out && wan < 1000 ? "零" : "") + sec(wan) + "万";
+      if (rest) out += (out && rest < 1000 ? "零" : "") + sec(rest);
+      return out.replace(/零+/g, "零").replace(/^一十/, "十");
+    }
+    function zhDigits(s) { return s.split("").map(function (d) { return ZD.charAt(+d); }).join("").replace(/零/g, "〇"); }
+    function zhNumbers(s) {
+      s = s.replace(/(\d{3,4})(?=\s*年)/g, function (m) { return zhDigits(m); });
+      s = s.replace(/(\d+)\.(\d+)/g, function (m, a, b) { return zhInt(+a) + "点" + b.split("").map(function (d) { return ZD.charAt(+d); }).join(""); });
+      s = s.replace(/(\d+)\s*[%％]/g, function (m, a) { return "百分之" + zhInt(+a); });
+      return s.replace(/\d+/g, function (m) { return m.length > 9 ? zhDigits(m) : zhInt(+m); });
+    }
+    async function phonemizePinyin(text, cfg) {
+      await ensurePinyin();
+      var map = cfg.phoneme_id_map || {}, PAD = (map._ || [0])[0], ids = (map["^"] || [1]).slice(), run = "";
+      function push(sym, groupEnd) { var v = map[sym]; if (!v) return false; ids.push.apply(ids, v); if (groupEnd) ids.push(PAD); return true; }
+      function flush() {
+        if (!run) return;
+        var arr = global.pinyinPro.pinyin(run, { toneType: "num", type: "array", v: true });
+        for (var i = 0; i < arr.length; i++) {
+          var m = String(arr[i] || "").toLowerCase().replace(/ü/g, "v").match(/^([a-zv]+?)([0-5]?)$/); if (!m) continue;
+          var base = m[1], tone = !m[2] || m[2] === "0" ? "5" : m[2], ini = "";
+          for (var k = 0; k < PY_INI.length; k++) if (base.indexOf(PY_INI[k]) === 0 && base.length > PY_INI[k].length) { ini = PY_INI[k]; break; }
+          var fin = base.slice(ini.length); if (!map[fin]) continue;
+          push(ini || "Ø"); push(fin); push(tone, true);
+        }
+        run = "";
+      }
+      text = zhNumbers(String(text || "")).replace(/[“”"‘’'《》〈〉「」『』（）()\[\]【】]/g, "");
+      for (var ch of text) {
+        if (/\p{Script=Han}/u.test(ch)) { run += ch; continue; }
+        flush();
+        if (/\s/.test(ch)) push(" ", true); else if (/[。.？?！!—…、，,：:；;]/.test(ch)) push(ch, true);
+      }
+      flush(); ids.push.apply(ids, map.$ || [2]);
+      return ids;
+    }
+
+    // tải giọng Piper (mô hình + cấu hình); onProg(phần đã tải, tổng, từ bộ nhớ đệm?)
+    function load(vid, onProg) {
+      if (MODEL[vid]) return Promise.resolve();
+      if (pend[vid]) return pend[vid];
+      var v = VOICES[vid]; if (!v || v.eng !== "piper") return Promise.reject(new Error("Chưa có giọng AI " + vid));
+      pend[vid] = (async function () {
+        CFG[vid] = JSON.parse(new TextDecoder().decode(await fetchVoice(v.path + ".json")));
+        MODEL[vid] = await fetchVoice(v.path, onProg);
+      })().catch(function (e) { pend[vid] = null; throw e; });
+      return pend[vid];
+    }
+    // ---- chạy mô hình Piper: nhiều Web Worker song song (nhanh hơn), lỗi thì chạy ngay trên trang ----
     var WSRC = "self.onmessage=async function(e){var d=e.data;try{" +
       "if(d.t==='init'){importScripts(d.ort);ort.env.wasm.wasmPaths=d.base;ort.env.wasm.numThreads=1;self.S={};postMessage({t:'ok',id:d.id});}" +
       "else if(d.t==='load'){self.S[d.lang]={s:await ort.InferenceSession.create(new Uint8Array(d.model),{executionProviders:['wasm']}),cfg:d.cfg};postMessage({t:'ok',id:d.id});}" +
@@ -1645,37 +1740,146 @@
       "if((c.num_speakers||1)>1)f.sid=new ort.Tensor('int64',BigInt64Array.from([BigInt(0)]),[1]);" +
       "var r=await L.s.run(f);var pcm=new Float32Array(r.output.data);postMessage({t:'ok',id:d.id,pcm:pcm},[pcm.buffer]);}" +
       "}catch(err){postMessage({t:'err',id:d.id,msg:String(err&&err.message||err)})}};";
-    function mkWorker() {
-      var url = URL.createObjectURL(new Blob([WSRC], { type: "text/javascript" })), w = new Worker(url), o = { w: w, cb: {} };
+    function mkWorker(src) {
+      var url = URL.createObjectURL(new Blob([src || WSRC], { type: "text/javascript" })), w = new Worker(url), o = { w: w, cb: {} };
       setTimeout(function () { URL.revokeObjectURL(url); }, 60000);
       w.onmessage = function (e) { var d = e.data, f = o.cb[d.id]; if (f) { delete o.cb[d.id]; f(d); } };
       w.onerror = function (e) { var cbs = o.cb; o.cb = {}; o.dead = true; for (var k in cbs) cbs[k]({ t: "err", msg: (e && e.message) || "worker error" }); };
       return o;
     }
-    function wcall(o, msg, tr) { return new Promise(function (res, rej) { var id = ++wseq; msg.id = id; o.cb[id] = function (d) { if (d.t === "err") rej(new Error(d.msg)); else res(d); }; o.w.postMessage(msg, tr || []); }); }
-    function nWorkers(lang) { var hc = navigator.hardwareConcurrency || 4, mem = navigator.deviceMemory || 4; return lang === "vi" || lang === "en" ? clamp(Math.min(Math.floor(hc / 2), mem >= 8 ? 3 : 2), 1, 3) : 1; }
-    async function workersFor(lang) {
+    function wcall(o, msg, tr) { return new Promise(function (res, rej) { if (o.dead) return rej(new Error("worker đã dừng")); var id = ++wseq; msg.id = id; o.cb[id] = function (d) { if (d.t === "err") rej(new Error(d.msg)); else res(d); }; o.w.postMessage(msg, tr || []); }); }
+    function nWorkers(vid) { var l = VOICES[vid].lang, hc = navigator.hardwareConcurrency || 4, mem = navigator.deviceMemory || 4; return l === "vi" || l === "en" ? clamp(Math.min(Math.floor(hc / 2), mem >= 8 ? 3 : 2), 1, 3) : 1; }
+    async function workersFor(vid) {
       if (noWorker || !global.Worker) return null;
-      if (W[lang]) return W[lang];
-      var list = [], n = nWorkers(lang);
+      if (W[vid]) return W[vid];
+      var list = [], n = nWorkers(vid);
       try {
-        for (var i = 0; i < n; i++) { var o = mkWorker(); await wcall(o, { t: "init", ort: ORT_JS, base: ORT_BASE }); await wcall(o, { t: "load", lang: lang, model: MODEL[lang], cfg: CFG[lang] }); list.push(o); }
+        for (var i = 0; i < n; i++) { var o = mkWorker(); await wcall(o, { t: "init", ort: ORT_JS, base: ORT_BASE }); await wcall(o, { t: "load", lang: vid, model: MODEL[vid], cfg: CFG[vid] }); list.push(o); }
       } catch (e) { list.forEach(function (o) { try { o.w.terminate(); } catch (er) { } }); if (!list.length) { noWorker = true; return null; } }
-      W[lang] = list; return list;
+      W[vid] = list; return list;
     }
-    async function sessMain(lang) {
-      if (SESS[lang]) return SESS[lang];
-      await ensureOrt(); SESS[lang] = await ort.InferenceSession.create(new Uint8Array(MODEL[lang]), { executionProviders: ["wasm"] }); return SESS[lang];
+    async function sessMain(vid) {
+      if (SESS[vid]) return SESS[vid];
+      await ensureOrt(); SESS[vid] = await ort.InferenceSession.create(new Uint8Array(MODEL[vid]), { executionProviders: ["wasm"] }); return SESS[vid];
     }
-    async function runMain(lang, ids, rate) {
-      var s = await sessMain(lang), c = CFG[lang], inf = c.inference || {};
+    async function runMain(vid, ids, rate) {
+      var s = await sessMain(vid), c = CFG[vid], inf = c.inference || {};
       var f = { input: new ort.Tensor("int64", BigInt64Array.from(ids, function (x) { return BigInt(x); }), [1, ids.length]),
         input_lengths: new ort.Tensor("int64", BigInt64Array.from([BigInt(ids.length)]), [1]),
         scales: new ort.Tensor("float32", Float32Array.from([inf.noise_scale == null ? 0.667 : inf.noise_scale, (inf.length_scale == null ? 1 : inf.length_scale) / (rate || 1), inf.noise_w == null ? 0.8 : inf.noise_w]), [3]) };
       if ((c.num_speakers || 1) > 1) f.sid = new ort.Tensor("int64", BigInt64Array.from([BigInt(0)]), [1]);
       var r = await s.run(f); return new Float32Array(r.output.data);
     }
-    // cắt khoảng lặng đầu/cuối, chuẩn hoá độ to cho giọng Việt và giọng Nga nghe đều nhau
+
+    /* ---- Supertonic 3: một Web Worker giữ 4 mô hình ONNX (chuyển từ web/helper.js của supertone-inc/supertonic, MIT) ---- */
+    function stWorkerMain() {
+      var S = null, cfg = null, idx = null, styles = {}, ep = "wasm";
+      var LANGS = ["en", "ko", "ja", "ar", "bg", "cs", "da", "de", "el", "es", "et", "fi", "fr", "hi", "hr", "hu", "id", "it", "lt", "lv", "nl", "pl", "pt", "ro", "ru", "sk", "sl", "sv", "tr", "uk", "vi", "na"];
+      var EMO = /[\u{1F600}-\u{1F64F}\u{1F300}-\u{1F5FF}\u{1F680}-\u{1F6FF}\u{1F700}-\u{1F77F}\u{1F780}-\u{1F7FF}\u{1F800}-\u{1F8FF}\u{1F900}-\u{1F9FF}\u{1FA00}-\u{1FA6F}\u{1FA70}-\u{1FAFF}\u{2600}-\u{26FF}\u{2700}-\u{27BF}\u{1F1E6}-\u{1F1FF}]+/gu;
+      var REP = [["–", "-"], ["‑", "-"], ["—", "-"], ["_", " "], ["“", "\""], ["”", "\""], ["‘", "'"], ["’", "'"], ["´", "'"], ["`", "'"], ["[", " "], ["]", " "], ["|", " "], ["/", " "], ["#", " "], ["→", " "], ["←", " "]];
+      function prep(text, lang) {
+        text = String(text || "").normalize("NFKD").replace(EMO, "");
+        REP.forEach(function (r) { text = text.split(r[0]).join(r[1]); });
+        text = text.replace(/[♥☆♡©\\]/g, "").split("@").join(" at ").split("e.g.,").join("for example, ").split("i.e.,").join("that is, ");
+        text = text.replace(/ ,/g, ",").replace(/ \./g, ".").replace(/ !/g, "!").replace(/ \?/g, "?").replace(/ ;/g, ";").replace(/ :/g, ":").replace(/ '/g, "'");
+        while (text.indexOf("\"\"") >= 0) text = text.replace("\"\"", "\"");
+        while (text.indexOf("''") >= 0) text = text.replace("''", "'");
+        text = text.replace(/\s+/g, " ").trim();
+        if (!/[.!?;:,'"')\]}…。」』】〉》›»]$/.test(text)) text += ".";
+        if (LANGS.indexOf(lang) < 0) lang = "na";
+        return "<" + lang + ">" + text + "</" + lang + ">";
+      }
+      function ids(t) { var a = new BigInt64Array(t.length); for (var j = 0; j < t.length; j++) { var cp = t.codePointAt(j); a[j] = BigInt(cp < idx.length ? idx[cp] : -1); } return a; }
+      function gauss(n) { var x = new Float32Array(n); for (var i = 0; i < n; i++) { var u1 = Math.max(0.0001, Math.random()), u2 = Math.random(); x[i] = Math.sqrt(-2 * Math.log(u1)) * Math.cos(2 * Math.PI * u2); } return x; }
+      async function once(text, lang, st, total, speed) {
+        var t = prep(text, lang), n = t.length, tid = new ort.Tensor("int64", ids(t), [1, n]), tmask = new ort.Tensor("float32", new Float32Array(n).fill(1), [1, 1, n]);
+        var dp = await S.dp.run({ text_ids: tid, style_dp: st.dp, text_mask: tmask }), dur = Number(dp.duration.data[0]) / speed;
+        var te = await S.te.run({ text_ids: tid, style_ttl: st.ttl, text_mask: tmask });
+        var sr = cfg.ae.sample_rate, cc = cfg.ttl.chunk_compress_factor, chunk = cfg.ae.base_chunk_size * cc, D = cfg.ttl.latent_dim * cc;
+        var wavLen = Math.max(1, Math.floor(dur * sr)), Lt = Math.max(1, Math.floor((wavLen + chunk - 1) / chunk));
+        var x = gauss(D * Lt), lmask = new ort.Tensor("float32", new Float32Array(Lt).fill(1), [1, 1, Lt]), tot = new ort.Tensor("float32", new Float32Array([total]), [1]);
+        for (var s = 0; s < total; s++) {
+          var out = await S.ve.run({ noisy_latent: new ort.Tensor("float32", x, [1, D, Lt]), text_emb: te.text_emb, style_ttl: st.ttl, latent_mask: lmask,
+                                     text_mask: tmask, current_step: new ort.Tensor("float32", new Float32Array([s]), [1]), total_step: tot });
+          x = new Float32Array(out.denoised_latent.data);
+        }
+        var voc = await S.voc.run({ latent: new ort.Tensor("float32", x, [1, D, Lt]) }), wav = voc.wav_tts.data;
+        return Float32Array.from(wav.subarray ? wav.subarray(0, Math.min(wav.length, wavLen)) : Array.prototype.slice.call(wav, 0, wavLen));
+      }
+      // câu quá dài (Nhật/Hàn > 120 ký tự, tiếng khác > 300): tách theo dấu phẩy rồi nối, chèn 0,3 giây lặng như mã mẫu
+      function chunks(text, lang) {
+        var max = lang === "ko" || lang === "ja" ? 120 : 300; if (text.length <= max) return [text];
+        var parts = text.split(/(?<=[,，、;；:：])\s*/), out = [], cur = "";
+        parts.forEach(function (p) { if ((cur + p).length > max && cur) { out.push(cur); cur = p; } else cur += (cur && !/[、，；：]$/.test(cur) ? " " : "") + p; });
+        if (cur) out.push(cur);
+        return out.reduce(function (a, p) { while (p.length > max) { a.push(p.slice(0, max)); p = p.slice(max); } if (p) a.push(p); return a; }, []);
+      }
+      self.onmessage = async function (e) {
+        var d = e.data;
+        try {
+          if (d.t === "init") { importScripts(d.ort); ort.env.wasm.wasmPaths = d.base; ort.env.wasm.numThreads = 1; postMessage({ t: "ok", id: d.id }); }
+          else if (d.t === "load") {
+            cfg = d.cfg; idx = d.idx;
+            var eps = self.navigator && self.navigator.gpu ? [["webgpu"], ["wasm"]] : [["wasm"]], last = null;
+            for (var i = 0; i < eps.length && !S; i++) {
+              try {
+                var o = { executionProviders: eps[i], graphOptimizationLevel: "all" };
+                S = { dp: await ort.InferenceSession.create(new Uint8Array(d.models.duration_predictor), o), te: await ort.InferenceSession.create(new Uint8Array(d.models.text_encoder), o),
+                      ve: await ort.InferenceSession.create(new Uint8Array(d.models.vector_estimator), o), voc: await ort.InferenceSession.create(new Uint8Array(d.models.vocoder), o) };
+                ep = eps[i][0];
+              } catch (er) { S = null; last = er; }
+            }
+            if (!S) throw last || new Error("Không mở được mô hình Supertonic");
+            postMessage({ t: "ok", id: d.id, ep: ep, sr: cfg.ae.sample_rate });
+          }
+          else if (d.t === "style") {
+            var j = d.json;
+            styles[d.name] = { ttl: new ort.Tensor("float32", Float32Array.from(j.style_ttl.data.flat(Infinity)), j.style_ttl.dims),
+                               dp: new ort.Tensor("float32", Float32Array.from(j.style_dp.data.flat(Infinity)), j.style_dp.dims) };
+            postMessage({ t: "ok", id: d.id });
+          }
+          else if (d.t === "run") {
+            var st = styles[d.style]; if (!st) throw new Error("Chưa nạp giọng " + d.style);
+            var cs = chunks(String(d.text || ""), d.lang), outs = [], len = 0, gap = Math.floor(0.3 * cfg.ae.sample_rate);
+            for (var c = 0; c < cs.length; c++) { var w = await once(cs[c], d.lang, st, d.steps || 8, d.speed || 1.05); outs.push(w); len += w.length + (c ? gap : 0); }
+            var pcm = new Float32Array(len), off = 0;
+            outs.forEach(function (w, k) { if (k) off += gap; pcm.set(w, off); off += w.length; });
+            postMessage({ t: "ok", id: d.id, pcm: pcm, sr: cfg.ae.sample_rate }, [pcm.buffer]);
+          }
+        } catch (err) { postMessage({ t: "err", id: d.id, msg: String(err && err.message || err) }); }
+      };
+    }
+    var stP = null, stW = null, stSR = 44100, stEP = "", stStyleP = {};
+    async function stFetch(file, onProg) { var err = null; for (var i = 0; i < ST.repos.length; i++) { try { return await fetchCached(ST.repos[i] + file, onProg); } catch (e) { err = e; } } throw err; }
+    function stEnsure(onProg) {
+      return stP || (stP = (async function () {
+        var dec = new TextDecoder(), cfg = JSON.parse(dec.decode(await stFetch("onnx/tts.json"))), idx = JSON.parse(dec.decode(await stFetch("onnx/unicode_indexer.json"))), errs = [];
+        for (var a = 0; a < ST.orts.length; a++) {
+          var models = {}, done = 0, tot = ST.parts.reduce(function (s, p) { return s + p[1]; }, 0);
+          for (var i = 0; i < ST.parts.length; i++) {          // lần thử sau lấy lại từ bộ nhớ đệm (bộ nhớ đã chuyển sang worker trước)
+            var p = ST.parts[i];
+            models[p[0]] = await stFetch("onnx/" + p[0] + ".onnx", function (got, t, cached) { if (onProg) onProg((done + (t ? got / t : 1) * p[1]) * 1048576, tot * 1048576, cached); });
+            done += p[1];
+          }
+          var o = mkWorker("(" + stWorkerMain.toString() + ")();");
+          try {
+            await wcall(o, { t: "init", ort: ST.orts[a].js, base: ST.orts[a].base });
+            var r = await wcall(o, { t: "load", cfg: cfg, idx: idx, models: models }, ST.parts.map(function (q) { return models[q[0]]; }));
+            stW = o; stSR = r.sr || 44100; stEP = (r.ep || "wasm") + " · ORT " + ST.orts[a].v; stStyleP = {};
+            return o;
+          } catch (e) { errs.push("ORT " + ST.orts[a].v + ": " + (e && e.message || e)); try { o.w.terminate(); } catch (er) { } }
+        }
+        throw new Error("Trình duyệt này chưa chạy được giọng Supertonic (" + errs.join("; ") + ") — hãy chọn giọng Piper.");
+      })().catch(function (e) { stP = null; stW = null; throw e; }));
+    }
+    function stStyle(s) {
+      return stStyleP[s] || (stStyleP[s] = (async function () {
+        var j = JSON.parse(new TextDecoder().decode(await stFetch("voice_styles/" + s + ".json")));
+        await wcall(stW, { t: "style", name: s, json: j });
+      })().catch(function (e) { delete stStyleP[s]; throw e; }));
+    }
+
+    // cắt khoảng lặng đầu/cuối, chuẩn hoá độ to cho các giọng nghe đều nhau
     function tidy(pcm, sr) {
       var n = pcm.length, th = 0.008, i0 = 0, i1 = n - 1, pad = Math.round(sr * 0.035);
       while (i0 < n && Math.abs(pcm[i0]) < th) i0++;
@@ -1689,69 +1893,88 @@
       for (k = 0; k < fz; k++) { out[k] *= k / fz; out[out.length - 1 - k] *= k / fz; }
       return out;
     }
-    function skey(lang, rate, text) { return "https://tv-say.local/" + lang + "/" + rate + "/" + md5(VOICES[lang].path + "|" + text); }
-    async function getSaved(lang, rate, text) {
+    function vsig(vid, l) { var v = VOICES[vid]; return v.eng === "st" ? "st3|" + v.style + "|" + ST.steps + "|" + l : v.path; }
+    function skey(vid, l, rate, text) { return "https://tv-say.local/" + vid.replace(":", "-") + "/" + rate + "/" + md5(vsig(vid, l) + "|" + text); }
+    async function getSaved(vid, l, rate, text) {
       var c = await cacheOpen(SAYC); if (!c) return null;
-      try { var r = await c.match(skey(lang, rate, text)); if (!r) return null; var sr = +r.headers.get("x-sr") || 22050, b = await r.arrayBuffer(), i16 = new Int16Array(b), f = new Float32Array(i16.length);
+      try { var r = await c.match(skey(vid, l, rate, text)); if (!r) return null; var sr = +r.headers.get("x-sr") || 22050, b = await r.arrayBuffer(), i16 = new Int16Array(b), f = new Float32Array(i16.length);
         for (var i = 0; i < i16.length; i++) f[i] = i16[i] / 32767; return { pcm: f, sr: sr }; } catch (e) { return null; }
     }
-    async function putSaved(lang, rate, text, clip) {
+    async function putSaved(vid, l, rate, text, clip) {
       var c = await cacheOpen(SAYC); if (!c) return;
       try { var i16 = new Int16Array(clip.pcm.length); for (var i = 0; i < i16.length; i++) i16[i] = Math.max(-32767, Math.min(32767, Math.round(clip.pcm[i] * 32767)));
-        await c.put(skey(lang, rate, text), new Response(i16.buffer, { headers: { "content-type": "application/octet-stream", "x-sr": String(clip.sr) } })); } catch (e) { }
+        await c.put(skey(vid, l, rate, text), new Response(i16.buffer, { headers: { "content-type": "application/octet-stream", "x-sr": String(clip.sr) } })); } catch (e) { }
     }
     function sayText(seg) { var t = seg.t; if (seg.l === "ru" && !/[.!?,;:]$/.test(t)) t += ","; return t; }
+    function voicesUsed(NR, O) { var o = {}; for (var k in NR) NR[k].forEach(function (s) { s.segs.forEach(function (g) { var v = voiceFor(g.l, O); if (v) o[v] = 1; }); }); return Object.keys(o); }
     /* Đọc toàn bộ lời thuyết minh → AP = { scenes: { key: { dur, sents:[{t0,t1}], clips:[{t, pcm, sr}] } } } */
     async function synthNarration(NR, O, ui, isCancelled) {
       var rate = +O.rate || 1, need = {}, jobs = [], seen = {}, k, key;
-      for (key in NR) NR[key].forEach(function (s) { s.segs.forEach(function (g) { if (!VOICES[g.l]) return; need[g.l] = 1; var t = sayText(g), id = g.l + "|" + t; if (!seen[id]) { seen[id] = 1; jobs.push({ l: g.l, t: t }); } }); });
-      var langs = Object.keys(need);
+      for (key in NR) NR[key].forEach(function (s) { s.segs.forEach(function (g) { var vid = voiceFor(g.l, O); if (!vid) return; need[vid] = 1; var t = sayText(g), id = vid + "|" + g.l + "|" + t; if (!seen[id]) { seen[id] = 1; jobs.push({ l: g.l, v: vid, t: t }); } }); });
+      var vids = Object.keys(need), eng = function (v) { return VOICES[v].eng; };
       // 1) tải bộ chạy + giọng
-      var steps = [{ k: "phon", label: "bộ phân tích phát âm", mb: 19 }].concat(langs.map(function (l) { return { k: l, label: "giọng " + (l === "vi" ? "Việt" : l === "ru" ? "Nga" : "Anh"), mb: VOICES[l].mb }; }));
+      var steps = [];
+      if (vids.some(function (v) { return eng(v) === "piper" && !VOICES[v].ph; })) steps.push({ k: "phon", label: "bộ phân tích phát âm", mb: 19 });
+      if (vids.some(function (v) { return VOICES[v].ph === "pinyin"; })) steps.push({ k: "pinyin", label: "bộ phiên âm tiếng Trung", mb: 1 });
+      vids.forEach(function (v) { if (eng(v) === "piper") steps.push({ k: v, label: "giọng " + (LNAME[VOICES[v].lang] || VOICES[v].lang) + " " + VOICES[v].name, mb: VOICES[v].mb }); });
+      if (vids.some(function (v) { return eng(v) === "st"; })) steps.push({ k: "st", label: "bộ giọng Supertonic (10 giọng)", mb: ST.mb });
       var totMB = steps.reduce(function (s, x) { return s + x.mb; }, 0), doneMB = 0;
       for (var si = 0; si < steps.length; si++) {
         var st = steps[si];
         var prog = function (got, tot, cached) { var f = tot ? got / tot : 0; ui.phase((cached ? "Đã có sẵn " : "Đang tải ") + st.label + (tot && !cached ? ": " + (got / 1048576).toFixed(0) + "/" + (tot / 1048576).toFixed(0) + " MB" : "") + " (lần đầu cần ~" + totMB + " MB, lần sau dùng lại)", (doneMB + st.mb * f) / totMB * 0.3); };
-        if (st.k === "phon") { await ensureOrt(); await ensurePhon(prog); } else await load(st.k, prog);
+        if (st.k === "phon") { await ensureOrt(); await ensurePhon(prog); }
+        else if (st.k === "pinyin") { await ensureOrt(); await ensurePinyin(); }
+        else if (st.k === "st") { await stEnsure(prog); }
+        else { await ensureOrt(); await load(st.k, prog); }
         doneMB += st.mb; if (isCancelled && isCancelled()) throw new Error("cancel");
       }
       // 2) đọc từng đoạn (dùng lại câu đã đọc lần trước)
       var todo = [], t0 = Date.now(), nDone = 0;
+      function mk(j) { return j.v + "|" + j.l + "|" + rate + "|" + j.t; }
       for (k = 0; k < jobs.length; k++) {
-        var j = jobs[k], mk = j.l + "|" + rate + "|" + j.t;
-        if (memo.has(mk)) { j.clip = memo.get(mk); continue; }
-        var sv = await getSaved(j.l, rate, j.t); if (sv) { j.clip = sv; memo.set(mk, sv); continue; }
+        var j = jobs[k];
+        if (memo.has(mk(j))) { j.clip = memo.get(mk(j)); continue; }
+        var sv = await getSaved(j.v, j.l, rate, j.t); if (sv) { j.clip = sv; memo.set(mk(j), sv); continue; }
         todo.push(j);
       }
       function tick() { nDone++; var el = (Date.now() - t0) / 1000, eta = nDone > 2 ? el / nDone * (todo.length - nDone) : 0; ui.phase("Đang tạo giọng đọc AI: " + nDone + "/" + todo.length + " đoạn" + (eta > 3 ? " · còn ~" + fmtClock(eta) : ""), 0.3 + 0.7 * nDone / Math.max(1, todo.length)); }
       if (todo.length) ui.phase("Đang tạo giọng đọc AI: 0/" + todo.length + " đoạn…", 0.3);
-      var byL = {}; todo.forEach(function (j) { (byL[j.l] = byL[j.l] || []).push(j); });
-      async function finish(j, pcm) { var sr = CFG[j.l].audio.sample_rate || 22050, clip = { pcm: tidy(pcm, sr), sr: sr }; j.clip = clip; memo.set(j.l + "|" + rate + "|" + j.t, clip); putSaved(j.l, rate, j.t, clip); tick(); }
-      await Promise.all(Object.keys(byL).map(async function (l) {
-        var q = byL[l], voice = CFG[l].espeak && CFG[l].espeak.voice || l, ws = await workersFor(l);
-        for (var i = 0; i < q.length; i++) q[i].ids = null;
+      var byV = {}; todo.forEach(function (j) { (byV[j.v] = byV[j.v] || []).push(j); });
+      function finish(j, pcm, sr) { var clip = { pcm: tidy(pcm, sr), sr: sr }; j.clip = clip; memo.set(mk(j), clip); putSaved(j.v, j.l, rate, j.t, clip); tick(); }
+      await Promise.all(Object.keys(byV).map(async function (v) {
+        var q = byV[v], d = VOICES[v];
+        if (d.eng === "st") {                                         // Supertonic: một worker, đọc lần lượt
+          await stStyle(d.style);
+          for (var i = 0; i < q.length; i++) {
+            if (isCancelled && isCancelled()) throw new Error("cancel");
+            var r = await wcall(stW, { t: "run", text: q[i].t, lang: q[i].l, style: d.style, steps: ST.steps, speed: ST.speed * rate });
+            finish(q[i], r.pcm, r.sr || stSR);
+          }
+          return;
+        }
+        var voice = CFG[v].espeak && CFG[v].espeak.voice || d.lang, sr0 = CFG[v].audio && CFG[v].audio.sample_rate || 22050, ws = await workersFor(v);
         async function lane(o) {
           while (q.length) {
             if (isCancelled && isCancelled()) throw new Error("cancel");
-            var j = q.shift(); j.ids = await phonemize(j.t, voice);
-            if (!j.ids.length) { await finish(j, new Float32Array(0)); continue; }
-            var pcm = o ? (await wcall(o, { t: "run", lang: l, ids: j.ids, rate: rate })).pcm : await runMain(l, j.ids, rate);
-            await finish(j, pcm);
+            var jj = q.shift(), ids = d.ph === "pinyin" ? await phonemizePinyin(jj.t, CFG[v]) : await phonemize(jj.t, voice);
+            if (ids.length < 3) { finish(jj, new Float32Array(0), sr0); continue; }
+            var pcm = o ? (await wcall(o, { t: "run", lang: v, ids: ids, rate: rate })).pcm : await runMain(v, ids, rate);
+            finish(jj, pcm, sr0);
             if (!o) await sleep(0);
           }
         }
         if (ws && ws.length) await Promise.all(ws.map(lane)); else await lane(null);
       }));
       // 3) xếp thời gian từng cảnh
-      var clipOf = {}; jobs.forEach(function (j) { clipOf[j.l + "|" + j.t] = j.clip; });
-      var AP = { rate: rate, scenes: {} }, gr = 1 / Math.max(0.7, rate);
+      var clipOf = {}; jobs.forEach(function (j) { clipOf[j.v + "|" + j.l + "|" + j.t] = j.clip; });
+      var AP = { rate: rate, voices: vids, scenes: {} }, gr = 1 / Math.max(0.7, rate);
       for (key in NR) {
         var t = 0, sents = [], clips = [];
-        NR[key].forEach(function (s, si2) {
+        NR[key].forEach(function (s) {
           var st0 = t, prevEnd = "";
           s.segs.forEach(function (g, gi) {
-            var c = clipOf[g.l + "|" + sayText(g)]; if (!c || !c.pcm.length) return;
-            if (gi > 0) t += (/[.!?]$/.test(prevEnd) ? 0.28 : /[,;:]$/.test(prevEnd) ? 0.14 : 0.05) * gr;
+            var c = clipOf[voiceFor(g.l, O) + "|" + g.l + "|" + sayText(g)]; if (!c || !c.pcm.length) return;
+            if (gi > 0) t += (/[.!?。！？]$/.test(prevEnd) ? 0.28 : /[,;:，、；：]$/.test(prevEnd) ? 0.14 : 0.05) * gr;
             clips.push({ t: t, pcm: c.pcm, sr: c.sr, l: g.l }); t += c.pcm.length / c.sr; prevEnd = g.t.trim();
           });
           sents.push({ t0: st0, t1: t }); t += 0.36 * gr;
@@ -1760,11 +1983,16 @@
       }
       return AP;
     }
-    function dispose() { for (var l in W) (W[l] || []).forEach(function (o) { try { o.w.terminate(); } catch (e) { } }); W = {}; }
+    function dispose() {
+      for (var l in W) (W[l] || []).forEach(function (o) { try { o.w.terminate(); } catch (e) { } }); W = {};
+      if (stW) { try { stW.w.terminate(); } catch (e) { } } stW = null; stP = null; stStyleP = {};
+    }
     async function storageInfo() { var o = {}; for (var l in VOICES) o[l] = await isCached(l); return o; }
     async function clearAll() { try { await caches.delete(CACHE); await caches.delete(SAYC); } catch (e) { } MODEL = {}; CFG = {}; SESS = {}; pend = {}; memo.clear(); dispose(); }
-    return { VOICES: VOICES, supported: supported, load: load, synthNarration: synthNarration, phonemize: phonemize, dispose: dispose, storageInfo: storageInfo, clearAll: clearAll,
-             credit: function (langs) { return (langs || ["vi", "ru"]).map(function (l) { var v = VOICES[l]; return v ? v.name + " (" + v.lic + ")" : ""; }).filter(Boolean).join(", "); } };
+    function credit(vids) { var seen = {}; return (vids || ["vi", "ru"]).map(function (l) { var v = VOICES[l]; if (!v) return ""; var s = v.eng === "st" ? "Supertonic 3 (Supertone, OpenRAIL-M)" : v.name + " (" + v.lic + ")"; if (seen[s]) return ""; seen[s] = 1; return s; }).filter(Boolean).join(", "); }
+    return { VOICES: VOICES, ST: ST, LNAME: LNAME, supported: supported, load: load, synthNarration: synthNarration, phonemize: phonemize, phonemizePinyin: phonemizePinyin, zhNumbers: zhNumbers,
+             dispose: dispose, storageInfo: storageInfo, isCached: isCached, clearAll: clearAll, credit: credit, voiceFor: voiceFor, voicesFor: voicesFor, canSpeak: canSpeak, voicesUsed: voicesUsed,
+             engineInfo: function () { return { st: stEP || "", stLoaded: !!stW }; } };
   })();
 
   /* ================= 10. NHẠC NỀN + TRỘN TIẾNG + MÃ HOÁ ÂM THANH =================

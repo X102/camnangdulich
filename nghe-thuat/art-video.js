@@ -20,14 +20,21 @@
      PHẢI chốt trước khi xuất (cả khi xuất hàng loạt), chèn ảnh bìa vào 0,8 giây đầu video; 📤 tự tải về máy, lưu thẳng vào
      thư mục (File System Access), tự đăng YouTube (OAuth Google Identity Services + tải lên resumable như mẫu
      youtube/api-samples cors_upload.js, đặt ảnh thu nhỏ, khai báo nội dung tổng hợp), nút đăng nhanh Facebook/TikTok/Instagram.
-   Phụ thuộc: ../assets/tour-video.js (v2.1+, TourVideo.lib).
+   v1.3: trang Facebook «Giải mã Nghệ Thuật» (chữ ký, mã QR, logo ở màn kết — brand/brand.js); 🌐 video 6 thứ tiếng: Việt, Anh, Nhật,
+     Trung (giản thể), Nga, Hàn — kịch bản dịch sẵn ở data/i18n/<lang>.js (dạng {chữ hiện|cách đọc} để giọng AI đọc đúng số, năm, tên),
+     nhờ AI dịch cho tác phẩm của anh; phông và xuống dòng riêng cho chữ Nhật/Trung/Hàn; chữ đăng bài, hashtag, tiêu đề + ngôn ngữ
+     YouTube, mục lục, phụ đề theo ngôn ngữ; chọn giọng cho từng tiếng: Piper (Việt, Anh, Nga, Trung «Chaowen» qua pinyin) hoặc
+     10 giọng Supertonic 3 (Việt, Anh, Nhật, Hàn, Nga); xuất hàng loạt nhiều ngôn ngữ một lượt.
+     Tham khảo mã nguồn mở: supertone-inc/supertonic (web/helper.js, MIT), OHF-Voice/piper1-gpl (phonemize_chinese.py — cách đánh số
+     pinyin), pinyin-pro (MIT), ayutaz/piper-plus (so sánh cách làm giọng Nhật/Trung/Hàn trong trình duyệt).
+   Phụ thuộc: ../assets/tour-video.js (v2.2+, TourVideo.lib).
    Gọi: ArtVideo.open(work)  ·  ArtVideo.edit(work)  ·  ArtVideo.newWork()
    ===================================================================== */
 (function (global) {
   "use strict";
   var TVv = global.TourVideo;
   if (!TVv || !TVv.lib) { if (global.console) console.error("art-video.js cần assets/tour-video.js (v2.1+)"); return; }
-  var L = TVv.lib, VERSION = "1.2";
+  var L = TVv.lib, VERSION = "1.3";
   var clamp = L.clamp, lerp = L.lerp, seg = L.seg, ease = L.ease, easeOut = L.easeOut, F = L.F, C = L.C, wrap = L.wrap, rr = L.rr, escH = L.escH,
       fmtClock = L.fmtClock, SAY = L.SAY, AIV = L.AIV, MUSIC = L.MUSIC, sleep = L.sleep;
   var SERIF = '"Times New Roman", "Noto Serif", "Liberation Serif", Georgia, serif';
@@ -36,6 +43,361 @@
   var DB = function () { return global.ART_DB || { types: [], eras: [], works: [] }; };
   function typeOf(id) { var t = (DB().types || []).filter(function (x) { return x.id === id; })[0]; return t || { id: id, vi: id, icon: "🎨", noun: "một tác phẩm" }; }
   function clone(o) { return JSON.parse(JSON.stringify(o)); }
+
+  /* ---------------- 1b. NGÔN NGỮ VIDEO (v1.3) ----------------
+     Video xuất được bằng 6 thứ tiếng: 🇻🇳 Việt · 🇬🇧 Anh · 🇯🇵 Nhật · 🇨🇳 Trung (giản thể) · 🇷🇺 Nga · 🇰🇷 Hàn.
+     - Kịch bản dịch nằm ở data/i18n/<lang>.js (ART_I18N[lang].works[id]) — tải khi chọn ngôn ngữ; bản dịch của anh (nhờ AI dịch)
+       lưu ở localStorage «av_tr_<lang>_<id>» và được ưu tiên.
+     - Chữ hiện / chữ đọc: {hiển thị|cách đọc} — người xem thấy «1930», giọng đọc đọc «nineteen thirty» (số, năm, thế kỷ, chữ khó).
+     - Phông riêng cho Nhật/Trung/Hàn, xuống dòng theo từ (Intl.Segmenter) và không để dấu câu đứng đầu dòng (kinsoku).
+     - Chữ trên video (nhãn, lời nhắc AI, lời mời theo dõi, chữ đăng bài, tiêu đề YouTube, mục lục) theo bảng TX bên dưới. */
+  var LANGS = ["vi", "en", "ja", "zh", "ru", "ko"], I18N_V = 1;
+  var LINFO = { vi: { name: "Tiếng Việt", flag: "🇻🇳", yt: "vi" }, en: { name: "English", flag: "🇬🇧", yt: "en" }, ja: { name: "日本語", flag: "🇯🇵", yt: "ja" },
+                zh: { name: "中文 (简体)", flag: "🇨🇳", yt: "zh-Hans" }, ru: { name: "Русский", flag: "🇷🇺", yt: "ru" }, ko: { name: "한국어", flag: "🇰🇷", yt: "ko" } };
+  var LCUR = "vi";                                           // ngôn ngữ của khung hình đang vẽ (phông, xuống dòng)
+  function isCJK(l) { return l === "ja" || l === "zh"; }
+  function plRu(n, a, b, c) { n = Math.abs(n) % 100; var n1 = n % 10; if (n > 10 && n < 20) return c; if (n1 > 1 && n1 < 5) return b; if (n1 === 1) return a; return c; }
+  function koHas(word) { var s = String(word || "").replace(/[\s》」』)\]”"'.!?…]+$/, ""), c = s.charCodeAt(s.length - 1); return c >= 0xAC00 && c <= 0xD7A3 ? (c - 0xAC00) % 28 !== 0 : false; }
+  function josa(word, a, b) { return word + (koHas(word) ? a : b); }
+  function quoteT(title, l) {
+    var t = String(title || ""); if (/[«»“”"『』「」《》]/.test(t)) return t;
+    return l === "en" ? "“" + t + "”" : l === "ja" ? "『" + t + "』" : l === "zh" || l === "ko" ? "《" + t + "》" : l === "ru" ? "«" + t + "»" : "«" + t + "»";
+  }
+  var EN_N = ["zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve", "thirteen", "fourteen"];
+  var JA_TSU = ["", "ひとつ", "ふたつ", "みっつ", "よっつ", "いつつ", "むっつ", "ななつ", "やっつ", "ここのつ"], JA_KO = { 10: "じゅっこ", 11: "じゅういっこ", 12: "じゅうにこ", 13: "じゅうさんこ", 14: "じゅうよんこ" };
+  var RU_NF = ["ноль", "одна", "две", "три", "четыре", "пять", "шесть", "семь", "восемь", "девять", "десять", "одиннадцать", "двенадцать", "тринадцать", "четырнадцать"];
+  var KO_N = ["", "한", "두", "세", "네", "다섯", "여섯", "일곱", "여덟", "아홉", "열", "열한", "열두", "열세", "열네"];
+  function cap1(s) { return s ? s.charAt(0).toUpperCase() + s.slice(1) : s; }
+  // số đếm chi tiết kèm cách đọc, dùng trong mẫu câu mở đầu
+  function numX(l, n, capital) {
+    if (l === "en") return "{" + n + "|" + (capital ? cap1(EN_N[n] || String(n)) : (EN_N[n] || String(n))) + "}";
+    if (l === "ja") return n <= 9 ? "{" + n + "つ|" + JA_TSU[n] + "}" : "{" + n + "個|" + (JA_KO[n] || n + "こ") + "}";
+    if (l === "zh") return "{" + n + "个|" + (n === 2 ? "两" : AIV.zhNumbers(String(n))) + "个}";
+    if (l === "ru") return "{" + n + "|" + (capital ? cap1(RU_NF[n] || String(n)) : (RU_NF[n] || String(n))) + "}";
+    if (l === "ko") return "{" + n + "가지|" + (KO_N[n] || n) + " 가지}";
+    return String(n);
+  }
+  var TX = {
+    vi: {
+      types: { folk: ["Tranh dân gian", "một bức tranh"], painting: ["Hội họa", "một bức tranh"], sculpture: ["Điêu khắc", "một pho tượng"], artifact: ["Cổ vật", "một cổ vật"], architecture: ["Kiến trúc", "một công trình"], music: ["Âm nhạc", "một bài hát"] },
+      detail: "❓ CHI TIẾT ", src: "📚 Nguồn: ", cta: "💬 Chi tiết số mấy làm bạn bất ngờ nhất? Bình luận số nhé!",
+      aiBadge: "🤖 Có dùng AI", aiStart: "🤖 Video có dùng AI và có thể còn sai sót — rất mong bạn góp ý.",
+      follow: "Theo dõi để xem những tác phẩm tiếp theo nhé.", followCta: "Theo dõi để xem tác phẩm tiếp theo ✦", outroHead: "🎨 GIẢI MÃ TÁC PHẨM",
+      refs: "📚 Nguồn tham khảo", photos: "📷 Ảnh: ", musicOwn: "Nhạc: do tác giả video chọn", musicSyn: "Nhạc nền tự tổng hợp", voice: "Giọng đọc AI: ",
+      ownPhoto: "Ảnh: tư liệu của tác giả video", commons: "Ảnh: Wikimedia Commons", noImg: "Chưa tải được ảnh", noImgUser: "📂 Hãy nạp ảnh của anh cho tác phẩm này",
+      coverL1: "GIỜ THÌ TÔI MỚI HIỂU…", coverL1b: "GIẢI MÃ TÁC PHẨM", coverL3: "{n} chi tiết ít ai để ý",
+      chIntro: "Mở đầu", chEnd: "Lời kết", inVideo: "Trong video:", comment: "Bạn đã để ý chi tiết nào trước khi xem video? Bình luận nhé 👇", postRefs: "📚 Nguồn tham khảo:",
+      hashtags: ["#GiờThìTôiMớiHiểu", "#NghệThuậtViệtNam"], tagline: "Giải mã nghệ thuật Việt Nam",
+      sample: "Xin chào! Đây là giọng đọc thử cho các video giải mã tác phẩm nghệ thuật Việt Nam."
+    },
+    en: {
+      types: { folk: ["Folk print", "folk print"], painting: ["Painting", "painting"], sculpture: ["Sculpture", "statue"], artifact: ["Artifact", "artifact"], architecture: ["Architecture", "building"], music: ["Music", "song"] },
+      head: /^(Now I (?:finally )?(?:understand|get it|see))[,:]?\s*(.*)$/i,
+      trend: function (noun, music) { return music ? "Now I finally understand why people can listen to one song for hours…" : "Now I finally understand why people can spend hours looking at a single " + noun + "…"; },
+      detail: "❓ DETAIL ", src: "📚 Source: ", cta: "💬 Which detail surprised you most? Comment its number!",
+      aiBadge: "🤖 Made with AI", aiStart: "🤖 This video uses AI and may contain mistakes — corrections are welcome.",
+      aiText: "This video was made with AI assistance (AI voice, automated editing). The creator is not an art historian, so there may be mistakes — please check the sources and let us know.",
+      aiSay: "This video uses artificial intelligence and may contain mistakes. Corrections are always welcome.",
+      follow: "Follow for more Vietnamese art, decoded.", followCta: "Follow for the next artwork ✦", outroHead: "🎨 VIETNAMESE ART, DECODED",
+      refs: "📚 Sources", photos: "📷 Images: ", musicOwn: "Music: chosen by the creator", musicSyn: "Music: synthesized", voice: "AI voice: ",
+      ownPhoto: "Photo: the creator's own", commons: "Image: Wikimedia Commons", noImg: "Image not available",
+      coverL1: "NOW I GET IT…", coverL1b: "ART, DECODED", coverL3: "{n} details most people miss",
+      chIntro: "Intro", chEnd: "Conclusion", inVideo: "In this video:", comment: "Which detail did you notice before watching? Tell us in the comments 👇", postRefs: "📚 Sources:",
+      hashtags: ["#VietnameseArt", "#ArtHistory", "#ArtExplained", "#Vietnam"], tagline: "Vietnamese art, decoded",
+      yt: function (t, n) { return "Decoding " + t + ": " + n + " details most people miss"; },
+      end: function (T) { return "Now you understand why people can spend hours with " + T + "."; },
+      sample: "Hello! This is a sample of the AI voice for our Vietnamese art videos.",
+      pos: { tl: "top-left corner", tr: "top-right corner", bl: "bottom-left corner", br: "bottom-right corner", t: "top", b: "bottom", l: "left side", r: "right side", c: "center" },
+      openers: function (T, F, n, music, pos) {
+        var a = /^[aeiou]/i.test(F) ? "an " : "a ";
+        return music ? ["You've heard " + T + " many times, but have you ever really listened?", n >= 2 ? numX("en", n, true) + " stories behind " + T + " that not everyone knows." : "",
+          "Everyone has heard " + T + ", but few know how it was born.", "Wait! Hear the story behind this " + F + "."]
+        : ["There's a detail in " + T + " that most people look right past.", n >= 2 ? numX("en", n, true) + " small details in " + T + " tell one big story." : "",
+          "You've seen " + T + " many times, but have you ever really looked?", pos ? "Wait! Look at the " + pos + " of this " + F + "." : "Wait! Take a closer look at this " + F + ".",
+          "Pause the video and count: how many strange details can you find in this " + F + "?", "Everyone has seen " + T + ", but few know the story behind it.", "Think this is just " + a + F + "? Look again."];
+      }
+    },
+    ja: {
+      types: { folk: ["民間版画", "版画"], painting: ["絵画", "絵"], sculpture: ["彫刻", "像"], artifact: ["古美術", "古美術品"], architecture: ["建築", "建物"], music: ["音楽", "歌"] },
+      trend: function (noun, music) { return music ? "一曲の歌を何時間も聴いていられる理由が、やっと分かった…" : noun + "を何時間も眺めていられる理由が、やっと分かった…"; },
+      detail: "❓ 細部 ", src: "📚 出典：", cta: "💬 いちばん驚いたのは何番？番号でコメントしてね！",
+      aiBadge: "🤖 AI使用", aiStart: "🤖 この動画はAIを使用しており、誤りがあるかもしれません。ご指摘お待ちしています。",
+      aiText: "この動画はAIの支援で制作しています（AI音声・自動編集）。制作者は専門家ではないため、誤りが含まれる可能性があります。出典もあわせてご確認ください。",
+      aiSay: "この動画は人工知能を使っており、誤りがあるかもしれません。ご指摘をお待ちしています。",
+      follow: "フォローして、次の作品もお楽しみに。", followCta: "フォローして次の作品へ ✦", outroHead: "🎨 ベトナム美術を読み解く",
+      refs: "📚 参考資料", photos: "📷 画像：", musicOwn: "音楽：制作者が選曲", musicSyn: "音楽：自動生成", voice: "AI音声：",
+      ownPhoto: "写真：制作者所蔵", commons: "画像：ウィキメディア・コモンズ", noImg: "画像を読み込めません",
+      coverL1: "やっと分かった…", coverL1b: "名作を読み解く", coverL3: "見落としがちな{nつ}の秘密",
+      chIntro: "はじめに", chEnd: "まとめ", inVideo: "この動画で紹介する細部：", comment: "動画を見る前に気づいた細部はありましたか？コメントで教えてください👇", postRefs: "📚 参考資料：",
+      hashtags: ["#ベトナム美術", "#美術解説", "#アート", "#ベトナム"], tagline: "ベトナム美術を、ひとつずつ読み解く",
+      yt: function (t, n) { return t + " 見落としがちな" + n + (n <= 9 ? "つ" : "") + "の秘密"; },
+      end: function (T) { return "これで、" + T + "を何時間も眺めていられる理由が分かりましたね。"; },
+      sample: "こんにちは。ベトナム美術を読み解く動画の、AI音声のサンプルです。",
+      pos: { tl: "左上の隅", tr: "右上の隅", bl: "左下の隅", br: "右下の隅", t: "上の部分", b: "下の部分", l: "左側", r: "右側", c: "真ん中" },
+      openers: function (T, F, n, music, pos) {
+        return music ? [T + "を何度も聞いたことがあっても、本当に耳を傾けたことはありますか？", n >= 2 ? T + "には、あまり知られていない" + numX("ja", n) + "の物語があります。" : "",
+          "誰もが" + T + "を知っています。でも、この歌がどう生まれたかを知る人は多くありません。", "スクロールする前に、この歌の物語を聞いてください。"]
+        : [T + "には、多くの人が見過ごしてしまう細部があります。", n >= 2 ? T + "の" + numX("ja", n) + "の小さな細部が、ひとつの大きな物語を語っています。" : "",
+          T + "を何度も見たことがあっても、じっくり見たことはありますか？", pos ? "ちょっと待って！この作品の" + pos + "を見てください。" : "ちょっと待って！この作品をよく見てください。",
+          "動画を止めて数えてみてください。この作品の不思議な細部、いくつ見つかりますか？", "誰もが" + T + "を見たことがあります。でも、その裏の物語を知る人は多くありません。", "ただの" + F + "だと思いますか？もう一度よく見てください。"];
+      }
+    },
+    zh: {
+      types: { folk: ["民间年画", "年画"], painting: ["绘画", "画作"], sculpture: ["雕塑", "雕像"], artifact: ["文物", "文物"], architecture: ["建筑", "建筑"], music: ["音乐", "歌曲"] },
+      trend: function (noun, music) { return music ? "现在我终于明白，为什么有人能把一首歌听上好几个小时……" : "现在我终于明白，为什么有人能盯着" + noun + "看上好几个小时……"; },
+      head: /^(现在我终于明白)[，,]?\s*(.*)$/,
+      detail: "❓ 细节 ", src: "📚 出处：", cta: "💬 哪个细节最让你意外？评论区打出编号！",
+      aiBadge: "🤖 AI辅助制作", aiStart: "🤖 本视频使用了AI，内容可能有误，欢迎指正。",
+      aiText: "本视频在AI辅助下制作（AI配音、自动剪辑）。作者并非艺术史专家，内容可能存在错误，欢迎核对出处并指正。",
+      aiSay: "本视频使用了人工智能，内容可能有误，欢迎指正。",
+      follow: "关注我们，下期继续解读越南艺术。", followCta: "关注我们，看下一件作品 ✦", outroHead: "🎨 解码越南艺术",
+      refs: "📚 参考资料", photos: "📷 图片：", musicOwn: "音乐：作者自选", musicSyn: "音乐：自动合成", voice: "AI配音：",
+      ownPhoto: "图片：作者自有", commons: "图片：维基共享资源", noImg: "图片无法加载",
+      coverL1: "现在我终于明白了……", coverL1b: "名作解码", coverL3: "{n}个容易被忽略的细节",
+      chIntro: "开场", chEnd: "结语", inVideo: "本期细节：", comment: "看视频之前，你注意到哪个细节了？评论区告诉我们👇", postRefs: "📚 参考资料：",
+      hashtags: ["#越南艺术", "#艺术解读", "#名画解读", "#越南"], tagline: "一件一件，读懂越南艺术",
+      yt: function (t, n) { return "解码" + t + "：" + n + "个容易被忽略的细节"; },
+      end: function (T) { return "现在你明白了，为什么有人能对着" + T + "看上好几个小时。"; },
+      sample: "你好！这是越南艺术解读视频的AI配音试听。",
+      pos: { tl: "左上角", tr: "右上角", bl: "左下角", br: "右下角", t: "上方", b: "下方", l: "左侧", r: "右侧", c: "正中间" },
+      openers: function (T, F, n, music, pos) {
+        return music ? [T + "你可能听过很多遍，可你真的仔细听过吗？", n >= 2 ? "关于" + T + "，有" + numX("zh", n) + "不为人知的故事。" : "",
+          "人人都听过" + T + "，却很少有人知道它是怎么诞生的。", "先别划走！听听这首歌背后的故事。"]
+        : [T + "里有一个细节，很多人看了却没看见。", n >= 2 ? T + "里的" + numX("zh", n) + "小细节，讲的是一个大故事。" : "",
+          T + "你可能看过很多次，但真的仔细看过吗？", pos ? "先别划走！看看这件作品的" + pos + "。" : "先别划走！仔细看看这件作品。",
+          "暂停视频数一数：这件作品里，你能找到几个奇怪的细节？", "人人都见过" + T + "，却很少有人知道背后的故事。", "你以为这只是普通的" + F + "？再仔细看看。"];
+      }
+    },
+    ru: {
+      types: { folk: ["Народная гравюра", "гравюра", "гравюру", "гравюре", "этой гравюры", "этой гравюре"], painting: ["Живопись", "картина", "картину", "картине", "этой картины", "этой картине"],
+               sculpture: ["Скульптура", "статуя", "статую", "статуе", "этой статуи", "этой статуе"], artifact: ["Древности", "артефакт", "артефакт", "артефакте", "этого артефакта", "этом артефакте"],
+               architecture: ["Архитектура", "постройка", "постройку", "постройке", "этой постройки", "этой постройке"], music: ["Музыка", "песня", "песню", "песне", "этой песни", "этой песне"] },
+      head: /^(Теперь я (?:наконец )?понимаю)[,:]?\s*(.*)$/i,
+      trend: function (noun, music) { return music ? "Теперь я понимаю, почему одну песню можно слушать часами…" : "Теперь я понимаю, почему на одно произведение можно смотреть часами…"; },
+      detail: "❓ ДЕТАЛЬ ", src: "📚 Источник: ", cta: "💬 Какая деталь удивила вас больше всего? Напишите её номер!",
+      aiBadge: "🤖 Сделано с ИИ", aiStart: "🤖 В видео использован ИИ, возможны ошибки — будем рады поправкам.",
+      aiText: "Видео создано с помощью ИИ (синтез речи, автоматический монтаж). Автор не искусствовед, поэтому возможны неточности — сверяйтесь с источниками и пишите нам.",
+      aiSay: "В этом видео использован искусственный интеллект, возможны ошибки. Будем рады вашим поправкам.",
+      follow: "Подписывайтесь, чтобы не пропустить новые разборы.", followCta: "Подписывайтесь — дальше новое произведение ✦", outroHead: "🎨 ВЬЕТНАМСКОЕ ИСКУССТВО: РАЗБОР",
+      refs: "📚 Источники", photos: "📷 Изображения: ", musicOwn: "Музыка: выбор автора", musicSyn: "Музыка: синтезирована", voice: "ИИ-голос: ",
+      ownPhoto: "Фото: из архива автора", commons: "Изображение: Викисклад", noImg: "Изображение недоступно",
+      coverL1: "ТЕПЕРЬ Я ПОНИМАЮ…", coverL1b: "РАЗБОР ШЕДЕВРА", coverL3: "{n} {n:деталь|детали|деталей}, которые мало кто замечает",
+      chIntro: "Вступление", chEnd: "Итог", inVideo: "В этом видео:", comment: "Какую деталь вы заметили ещё до просмотра? Пишите в комментариях 👇", postRefs: "📚 Источники:",
+      hashtags: ["#ВьетнамскоеИскусство", "#ИсторияИскусства", "#Искусство", "#Вьетнам"], tagline: "Вьетнамское искусство — деталь за деталью",
+      yt: function (t, n) { return t + ": " + n + " " + plRu(n, "деталь", "детали", "деталей") + ", которые мало кто замечает"; },
+      end: function (T) { return "Теперь вы понимаете, почему на произведение " + T + " можно смотреть часами."; },
+      sample: "Здравствуйте! Это пример ИИ-голоса для наших видео о вьетнамском искусстве.",
+      pos: { tl: "левый верхний угол", tr: "правый верхний угол", bl: "левый нижний угол", br: "правый нижний угол", t: "верхнюю часть", b: "нижнюю часть", l: "левую сторону", r: "правую сторону", c: "центр" },
+      openers: function (T, F, n, music, pos, f) {
+        f = f || ["", "произведение", "произведение", "произведении", "этого произведения", "этом произведении"];
+        return music ? ["Вы слышали " + T + " много раз, но вслушивались ли по-настоящему?", n >= 2 ? numX("ru", n, true) + " " + plRu(n, "история", "истории", "историй") + " о песне " + T + ", которые знает не каждый." : "",
+          "Все слышали песню " + T + ", но мало кто знает, как она родилась.", "Не листайте! Послушайте историю этой песни."]
+        : ["В " + f[3] + " " + T + " есть деталь, которую большинство не замечает.", n >= 2 ? numX("ru", n, true) + " " + plRu(n, "маленькая деталь", "маленькие детали", "маленьких деталей") + " в " + f[3] + " " + T + " рассказывают целую историю." : "",
+          "Вы видели " + f[2] + " " + T + " много раз, но присматривались ли по-настоящему?", pos ? "Не листайте! Посмотрите на " + pos + " " + f[4] + "." : "Не листайте! Присмотритесь к " + f[5].replace(/^этом /, "этому ").replace(/^этой /, "этой ") + ".",
+          "Поставьте видео на паузу и посчитайте: сколько странных деталей вы найдёте в " + f[5] + "?", "Все видели " + f[2] + " " + T + ", но мало кто знает историю этого произведения.", "Думаете, это просто " + f[1] + "? Посмотрите ещё раз."];
+      }
+    },
+    ko: {
+      types: { folk: ["민화", "민화"], painting: ["회화", "그림"], sculpture: ["조각", "조각상"], artifact: ["유물", "유물"], architecture: ["건축", "건축물"], music: ["음악", "노래"] },
+      head: /^(이제야 알겠다)[,，]?\s*(.*)$/,
+      trend: function (noun, music) { return music ? "이제야 알겠다, 왜 사람들이 노래 한 곡을 몇 시간씩 듣는지…" : "이제야 알겠다, 왜 사람들이 " + noun + " 하나를 몇 시간씩 바라보는지…"; },
+      detail: "❓ 디테일 ", src: "📚 출처: ", cta: "💬 가장 놀라웠던 디테일은 몇 번인가요? 번호로 댓글 남겨 주세요!",
+      aiBadge: "🤖 AI 활용", aiStart: "🤖 이 영상은 AI를 활용해 만들어서 오류가 있을 수 있어요. 바로잡아 주시면 감사하겠습니다.",
+      aiText: "이 영상은 AI의 도움을 받아 만들었습니다(AI 음성, 자동 편집). 제작자는 전문가가 아니어서 오류가 있을 수 있어요. 출처를 함께 확인해 주세요.",
+      aiSay: "이 영상은 인공지능을 활용해서 오류가 있을 수 있어요. 의견을 남겨 주세요.",
+      follow: "팔로우하고 다음 작품도 함께 봐요.", followCta: "팔로우하고 다음 작품 보기 ✦", outroHead: "🎨 베트남 미술 해설",
+      refs: "📚 참고 자료", photos: "📷 이미지: ", musicOwn: "음악: 제작자 선택", musicSyn: "음악: 자동 합성", voice: "AI 음성: ",
+      ownPhoto: "사진: 제작자 소장", commons: "이미지: 위키미디어 공용", noImg: "이미지를 불러올 수 없어요",
+      coverL1: "이제야 알겠다…", coverL1b: "명작 해설", coverL3: "대부분 놓치는 디테일 {n}가지",
+      chIntro: "인트로", chEnd: "마무리", inVideo: "이번 영상의 디테일:", comment: "영상을 보기 전에 눈치챈 디테일이 있었나요? 댓글로 알려 주세요 👇", postRefs: "📚 참고 자료:",
+      hashtags: ["#베트남미술", "#미술해설", "#명화", "#베트남"], tagline: "베트남 미술, 하나씩 풀어 보기",
+      yt: function (t, n) { return t + " 대부분 놓치는 디테일 " + n + "가지"; },
+      end: function (T) { return "이제 " + josa(T, "을", "를") + " 몇 시간씩 바라보는 이유를 아시겠죠?"; },
+      sample: "안녕하세요! 베트남 미술 해설 영상의 AI 음성 샘플이에요.",
+      pos: { tl: "왼쪽 위 구석을", tr: "오른쪽 위 구석을", bl: "왼쪽 아래 구석을", br: "오른쪽 아래 구석을", t: "위쪽을", b: "아래쪽을", l: "왼쪽을", r: "오른쪽을", c: "한가운데를" },
+      openers: function (T, F, n, music, pos) {
+        return music ? [T + ", 여러 번 들어 보셨죠? 그런데 정말 귀 기울여 들어 본 적 있나요?", n >= 2 ? T + "에 숨은, 잘 알려지지 않은 이야기 " + numX("ko", n) + "." : "",
+          "누구나 아는 노래 " + T + ". 하지만 이 노래가 어떻게 태어났는지 아는 사람은 많지 않아요.", "넘기지 마세요! 이 노래에 얽힌 이야기를 들어 보세요."]
+        : [T + "에는 많은 사람이 그냥 지나치는 디테일이 있어요.", n >= 2 ? T + " 속 작은 디테일 " + numX("ko", n) + "가 하나의 큰 이야기를 들려줘요." : "",
+          T + ", 여러 번 보셨죠? 그런데 정말 자세히 본 적 있나요?", pos ? "넘기지 마세요! 이 " + F + "의 " + pos + " 보세요." : "넘기지 마세요! 이 " + josa(F, "을", "를") + " 자세히 보세요.",
+          "영상을 멈추고 세어 보세요. 이 " + F + "에서 이상한 디테일을 몇 개나 찾을 수 있나요?", "누구나 본 적 있는 " + T + ". 하지만 그 뒤에 숨은 이야기를 아는 사람은 많지 않아요.", "그냥 평범한 " + josa(F, "이라고요", "라고요") + "? 다시 한번 보세요."];
+      }
+    }
+  };
+  function TXL(l) { return TX[l] || TX.vi; }
+  function typeName(type, l) { var t = TXL(l).types[type]; return t ? t[0] : typeOf(type).vi; }
+
+  /* phông chữ theo ngôn ngữ (chữ La-tinh vẫn lấy Segoe UI/Times; chữ Nhật/Trung/Hàn lấy phông đúng vùng để không lẫn nét chữ Hán) */
+  var FONTS = {
+    ja: { s: '"Segoe UI", "Yu Gothic UI", "Yu Gothic", YuGothic, "Hiragino Sans", "Hiragino Kaku Gothic ProN", Meiryo, "Noto Sans CJK JP", "Noto Sans JP", "Segoe UI Emoji", "Apple Color Emoji", "Noto Color Emoji", sans-serif',
+          r: '"Times New Roman", "Yu Mincho", YuMincho, "Hiragino Mincho ProN", "Noto Serif CJK JP", "Noto Serif JP", "MS PMincho", "Segoe UI Emoji", "Noto Color Emoji", serif' },
+    zh: { s: '"Segoe UI", "Microsoft YaHei UI", "Microsoft YaHei", "PingFang SC", "Noto Sans CJK SC", "Noto Sans SC", "Source Han Sans SC", "Segoe UI Emoji", "Apple Color Emoji", "Noto Color Emoji", sans-serif',
+          r: '"Times New Roman", "Noto Serif CJK SC", "Noto Serif SC", "Songti SC", STSong, SimSun, "Segoe UI Emoji", "Noto Color Emoji", serif' },
+    ko: { s: '"Segoe UI", "Malgun Gothic", "Apple SD Gothic Neo", "Noto Sans CJK KR", "Noto Sans KR", "Segoe UI Emoji", "Apple Color Emoji", "Noto Color Emoji", sans-serif',
+          r: '"Times New Roman", "Noto Serif CJK KR", "Noto Serif KR", Batang, "Nanum Myeongjo", "Segoe UI Emoji", "Noto Color Emoji", serif' }
+  };
+  F = function (weight, px, italic) { var f = FONTS[LCUR]; return f ? weight + " " + Math.max(1, Math.round(px)) + "px " + f.s : L.F(weight, px, italic); };
+  FS = function (weight, px, italic) { var f = FONTS[LCUR]; return (italic && !f ? "italic " : "") + weight + " " + Math.max(1, Math.round(px)) + "px " + (f ? f.r : SERIF); };
+  // xuống dòng: Nhật/Trung theo từ (Intl.Segmenter), không để dấu câu đứng đầu dòng / ngoặc mở đứng cuối dòng
+  var SEGR = {}, KCLOSE = /^[、。，．,.！？!?：:；;）)」』】〉》”’…ー〜~％%・]+$/, KOPEN = /^[（(「『【〈《“‘]+$/;
+  var KSTART = /^[、。，．,.！？!?：:；;）)」』】〉》”’…ー〜~％%・ぁぃぅぇぉっゃゅょゎゕゖァィゥェォッャュョヮヵヶ々]+/;   // không đứng đầu dòng (kinsoku)
+  function segOf(l) { if (SEGR[l] !== undefined) return SEGR[l]; try { SEGR[l] = new Intl.Segmenter(l === "zh" ? "zh-Hans" : l, { granularity: "word" }); } catch (e) { SEGR[l] = null; } return SEGR[l]; }
+  function cjkTokens(text, l) {
+    var sg = segOf(l), raw = [], out = [];
+    if (sg) { var it = sg.segment(text)[Symbol.iterator](), r; while (!(r = it.next()).done) raw.push(r.value.segment); } else raw = Array.from(text);
+    raw.forEach(function (t) { if (out.length && (KCLOSE.test(t) || KOPEN.test(out[out.length - 1]))) out[out.length - 1] += t; else out.push(t); });
+    return out;
+  }
+  wrap = function (ctx, text, maxW, maxLines) {
+    if (!isCJK(LCUR)) return L.wrap(ctx, text, maxW, maxLines);
+    text = String(text || "").replace(/\s+/g, " ").trim(); if (!text) return [];
+    var toks = cjkTokens(text, LCUR), lines = [], cur = "", trunc = false;
+    for (var i = 0; i < toks.length && !trunc; i++) {
+      var tk = toks[i];
+      if (ctx.measureText(cur + tk).width <= maxW) { cur += tk; continue; }
+      var km = cur && tk.match(KSTART); if (km) { cur += km[0]; tk = tk.slice(km[0].length); if (!tk) continue; if (ctx.measureText(cur + tk).width <= maxW) { cur += tk; continue; } }
+      if (cur) { lines.push(cur); cur = ""; if (maxLines && lines.length >= maxLines) { trunc = true; break; } }
+      var ch = Array.from(tk.replace(/^\s+/, ""));
+      for (var c = 0; c < ch.length; c++) {
+        if (cur && ctx.measureText(cur + ch[c]).width > maxW && !KSTART.test(ch[c])) { lines.push(cur); cur = ""; if (maxLines && lines.length >= maxLines) { trunc = true; break; } }
+        cur += ch[c];
+      }
+    }
+    if (!trunc && cur) lines.push(cur);
+    if (maxLines && lines.length > maxLines) { lines.length = maxLines; trunc = true; }
+    if (trunc && lines.length) { var last = lines[lines.length - 1]; while (last.length > 1 && ctx.measureText(last + "…").width > maxW) last = last.slice(0, -1); lines[lines.length - 1] = last.replace(/[、。，\s]+$/, "") + "…"; }
+    return lines.map(function (s) { return s.trim(); });
+  };
+  function wordsOf(line) { return isCJK(LCUR) ? cjkTokens(line, LCUR) : line.split(" "); }
+  function JOIN() { return isCJK(LCUR) ? 0 : 1; }
+
+  /* chữ hiện / chữ đọc */
+  var MK = /\{([^{}|]*)\|([^{}|]*)\}/g;
+  function disp(s) { return String(s == null ? "" : s).replace(MK, "$1"); }
+  function spk(s) { return String(s == null ? "" : s).replace(MK, "$2"); }
+  var EMOX = /[\u{1F000}-\u{1FAFF}\u{2600}-\u{27BF}\u{2B00}-\u{2BFF}\u{2300}-\u{23FF}\u{FE0F}\u{200D}\u{20E3}]/gu;
+  // tách câu (giữ nguyên các cặp {…|…})
+  function splitX(text, l) {
+    var M = [], s = String(text || "").replace(MK, function (m) { M.push(m); return "\u0001" + (M.length - 1) + "\u0002"; }).replace(/\s+/g, " ").trim();
+    if (!s) return [];
+    var out = isCJK(l) ? (s.match(/[^。！？!?]+(?:[。！？!?]+[」』）)”"’]*|$)/g) || [s])
+      : s.split(/(?<![A-Z][a-z]?\.)(?<=[.!?…]+["»”’)]*)\s+(?=["«“(]?[\p{Lu}\p{Lo}\d\u0001])/u);
+    return out.map(function (x) { return x.trim().replace(/\u0001(\d+)\u0002/g, function (m, i) { return M[+i]; }); }).filter(Boolean);
+  }
+  // chuẩn hoá chữ cho giọng đọc từng tiếng
+  function speakX(s, l) {
+    s = spk(s).replace(EMOX, " ").replace(/[«»“”„"『』「」《》〈〉【】]/g, "");
+    if (l === "en") s = s.normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/đ/g, "d").replace(/Đ/g, "D").replace(/\s*&\s*/g, " and ").replace(/(\d)\s*%/g, "$1 percent");
+    if (l === "ja") s = s.replace(/・/g, "");
+    s = s.replace(/\s*[—–]\s*/g, isCJK(l) ? "、" : ", ").replace(/\s*[·•]\s*/g, isCJK(l) ? "、" : ", ").replace(/\s*\(\s*/g, isCJK(l) ? "、" : ", ").replace(/\s*\)\s*/g, isCJK(l) ? "、" : ", ");
+    s = s.replace(/\s*（\s*/g, "、").replace(/\s*）\s*/g, "、").replace(/、+/g, "、").replace(/、([。！？])/g, "$1");
+    return s.replace(/\s+([,.!?;:])/g, "$1").replace(/,\s*([.!?])/g, "$1").replace(/^[\s,、]+|[\s,、]+$/g, "").replace(/\s{2,}/g, " ").trim();
+  }
+  // số → chữ tiếng Việt (chỉ dùng khi đọc bằng giọng Supertonic: giọng này không tự đọc số)
+  var VD = ["không", "một", "hai", "ba", "bốn", "năm", "sáu", "bảy", "tám", "chín"];
+  function vi3(n, full) {
+    var tr = Math.floor(n / 100), ch = Math.floor(n / 10) % 10, dv = n % 10, out = [];
+    if (tr || full) out.push(VD[tr] + " trăm");
+    if (ch === 0) { if (dv && (tr || full)) out.push("linh"); } else if (ch === 1) out.push("mười"); else out.push(VD[ch] + " mươi");
+    if (dv) out.push(dv === 1 && ch > 1 ? "mốt" : dv === 5 && ch > 0 ? "lăm" : dv === 4 && ch > 1 ? "tư" : VD[dv]);
+    return out.join(" ");
+  }
+  function viInt(n) {
+    if (!n) return "không"; var U = ["", " nghìn", " triệu", " tỷ"], parts = [], i = 0;
+    while (n > 0 && i < 4) { parts.unshift({ v: n % 1000, u: U[i] }); n = Math.floor(n / 1000); i++; }
+    return parts.map(function (p, k) { return !p.v && k > 0 ? "" : vi3(p.v, k > 0) + p.u; }).filter(Boolean).join(" ");
+  }
+  function viNumbers(s) { return String(s || "").replace(/\d+/g, function (m) { return m.length > 12 ? m.split("").map(function (d) { return VD[+d]; }).join(" ") : viInt(+m); }); }
+
+  /* bản dịch */
+  function trKey(l, id) { return "av_tr_" + l + "_" + id; }
+  function trOf(w, l) {
+    if (!l || l === "vi" || !w) return null;
+    var my = lsGet(trKey(l, w.id), null); if (my && typeof my === "object") { my._mine = true; return my; }
+    var b = global.ART_I18N && global.ART_I18N[l] && global.ART_I18N[l].works && global.ART_I18N[l].works[w.id];
+    return b || null;
+  }
+  function ensureLang(l) {
+    if (!l || l === "vi" || (global.ART_I18N && global.ART_I18N[l])) return Promise.resolve(true);
+    return L.loadScript("data/i18n/" + l + ".js?v=" + I18N_V).then(function () { return !!(global.ART_I18N && global.ART_I18N[l]); }).catch(function () { return false; });
+  }
+  function baseWork(id) { return (DB().works || []).filter(function (x) { return x.id === id; })[0] || null; }
+  // tác phẩm theo ngôn ngữ video: thay chữ bằng bản dịch, giữ nguyên ảnh, khung chi tiết, nguồn
+  function localize(w, l) {
+    if (!w || !l || l === "vi") return w;
+    var t = trOf(w, l), o = clone(w); o.lang = l; o.titleVi = w.title; o.trMissing = 0; o.trMine = !!(t && t._mine);
+    if (!t) { o.trMissing = -1; return o; }
+    ["title", "artist", "date", "medium", "where", "hook", "intro", "end", "trendLine"].forEach(function (k) { if (t[k]) o[k] = t[k]; });
+    if (!t.trendLine) delete o.trendLine;
+    if (t.place && o.place) o.place = Object.assign({}, o.place, { name: t.place.name || o.place.name, prov: t.place.prov || o.place.prov });
+    if (Array.isArray(t.tags)) o.tags = t.tags.slice();
+    o.openers = Array.isArray(t.openers) ? t.openers.slice() : [];
+    if (Array.isArray(t.img)) o.img = o.img.map(function (m, i) { var x = t.img[i]; return x ? Object.assign({}, m, { by: x.by || m.by, lic: x.lic || m.lic }) : m; });
+    var base = w.custom ? null : baseWork(w.id), ts = Array.isArray(t.steps) ? t.steps : []; o.trStale = 0;
+    o.steps = o.steps.map(function (st, i) {
+      var j = i;
+      if (t._mine) { if (t.n != null && t.n !== w.steps.length) j = -1; }          // bản dịch của anh: theo đúng thứ tự kịch bản lúc dịch
+      else if (w.edited && base) {                                                  // bản có sẵn: dò theo câu hỏi / nhãn của kịch bản gốc
+        j = -1; (base.steps || []).some(function (b, k) { if ((b.q && b.q === st.q) || (b.tag && b.tag === st.tag)) { j = k; return true; } return false; });
+        if (j >= 0 && (base.steps[j].q !== st.q || base.steps[j].a !== st.a)) o.trStale++;
+      }
+      var x = j >= 0 ? ts[j] : null;
+      if (!x || !(x.q || x.a)) { o.trMissing++; var keep = clone(st); keep.untr = 1; return keep; }
+      var s2 = Object.assign({}, st, { tag: x.tag || st.tag, q: x.q || st.q, a: x.a || st.a });
+      if (st.s || x.s) s2.s = x.s || null;
+      if (st.card) s2.card = x.card ? { big: x.card.big || st.card.big, sub: x.card.sub || "" } : st.card;
+      return s2;
+    });
+    return o;
+  }
+  function trStatus(w, l) {
+    if (!l || l === "vi") return { ok: true };
+    var lw = localize(w, l); return { ok: lw.trMissing === 0, none: lw.trMissing < 0, miss: Math.max(0, lw.trMissing), mine: lw.trMine, stale: lw.trStale || 0 };
+  }
+  // lệnh nhờ AI dịch (khi tác phẩm là của anh hoặc anh đã sửa kịch bản tiếng Việt)
+  var TR_NOTE = {
+    en: "tiếng Anh (Mỹ), giọng kể tự nhiên, câu ngắn; giữ tên riêng tiếng Việt có dấu (Tô Ngọc Vân, Đông Hồ).",
+    ja: "tiếng Nhật, thể です・ます, dấu câu toàn khổ; tên người Việt viết katakana có «・» (トー・ゴック・ヴァン), tên tác phẩm trong 『』.",
+    zh: "tiếng Trung giản thể; tên người Việt viết bằng chữ Hán tương ứng (苏玉云, 阮潘正), tên tác phẩm trong 《》, không để chữ La-tinh trong lời đọc.",
+    ru: "tiếng Nga; tên tiếng Việt phiên âm Kirin theo lối quen dùng (То Нгок Ван, Донгхо), tên tác phẩm trong «».",
+    ko: "tiếng Hàn thể 해요체; tên tiếng Việt phiên âm Hangul theo quy tắc Viện Quốc ngữ Hàn (또 응옥 번, 동호), tên tác phẩm trong 《》."
+  };
+  var TR_NUM = { en: "{1930|nineteen thirty}, {17th century|seventeenth century}", ja: "{1930年|せんきゅうひゃくさんじゅうねん}, {17世紀|じゅうななせいき}",
+                 zh: "{1930年|一九三〇年}, {17世纪|十七世纪}", ru: "{в 1930 году|в тысяча девятьсот тридцатом году}, {XVII века|семнадцатого века}", ko: "{1930년|천구백삼십 년}, {17세기|십칠 세기}" };
+  function trSource(w) {
+    return { title: w.title, artist: w.artist || "", date: w.date || "", medium: w.medium || "", where: w.where || "", place: { name: w.place && w.place.name || "", prov: w.place && w.place.prov || "" },
+      tags: w.tags || [], hook: w.hook || "", intro: w.intro || "", openers: w.openers || [], trendLine: w.trendLine || "", end: w.end || "",
+      img: (w.img || []).map(function (m) { return { by: m.by || "", lic: m.lic || "" }; }),
+      steps: (w.steps || []).map(function (s) { var x = { tag: s.tag || "", q: s.q || "", a: s.a || "" }; if (s.s) x.s = s.s; if (s.card) x.card = { big: s.card.big || "", sub: s.card.sub || "" }; return x; }) };
+  }
+  function trPrompt(w, l) {
+    var src = trSource(w);
+    return ["Bạn là dịch giả kịch bản video ngắn giới thiệu nghệ thuật Việt Nam cho khán giả quốc tế (TikTok/Reels/Shorts). Kịch bản được giọng AI đọc thành tiếng và hiện thành phụ đề.",
+      "Hãy dịch JSON dưới đây sang " + (TR_NOTE[l] || l) + " Trả về DUY NHẤT một khối JSON cùng cấu trúc, cùng số phần tử và cùng thứ tự các mảng (steps, img, openers).",
+      "", "YÊU CẦU",
+      "1. Dịch trung thành, giọng kể sinh động, không thêm sự kiện, con số hay tên riêng không có trong bản gốc; giữ các cách nói rào đón («theo một số tài liệu», «theo các nghệ nhân»).",
+      "2. Mỗi «q» là câu hỏi, kết thúc bằng dấu hỏi. «tag» giữ nguyên emoji đầu, ngắn (≤ 24 ký tự La-tinh, ≤ 12 ký tự Nhật/Trung/Hàn). «trendLine» là một câu kiểu «Giờ thì tôi mới hiểu vì sao người ta có thể ngắm … hàng giờ…».",
+      "3. Chữ hiện khác cách đọc (số, năm, thế kỷ, số La Mã, chữ viết tắt) thì viết {chữ hiện|cách đọc}, ví dụ: " + (TR_NUM[l] || "") + ". Không dùng { } | vào việc khác; các trường title, artist, date, medium, where, place, tags, img, tag, card chỉ để hiện, không dùng cách viết này.",
+      "4. Không trích hay dịch lời bài hát; tên bài hát thì được.",
+      "5. «tags»: 3–5 từ khoá để làm hashtag (không có dấu #).",
+      "", "JSON CẦN DỊCH:", JSON.stringify(src, null, 1)].join("\n");
+  }
+  function applyTr(w, l, o) {
+    if (!o || typeof o !== "object") throw new Error("Không có JSON");
+    if (o.works && o.works[w.id]) o = o.works[w.id];
+    var n = (w.steps || []).length, ns = Array.isArray(o.steps) ? o.steps.length : 0;
+    if (!ns) throw new Error("Bản dịch không có mục «steps».");
+    if (ns !== n) throw new Error("Bản dịch có " + ns + " chi tiết, kịch bản tiếng Việt có " + n + " — hãy dịch lại cho đủ, đúng thứ tự.");
+    var keep = { n: n, at: Date.now() };
+    ["title", "artist", "date", "medium", "where", "hook", "intro", "end", "trendLine"].forEach(function (k) { if (o[k] != null) keep[k] = String(o[k]).slice(0, 900); });
+    if (o.place) keep.place = { name: String(o.place.name || "").slice(0, 120), prov: String(o.place.prov || "").slice(0, 80) };
+    if (Array.isArray(o.tags)) keep.tags = o.tags.map(function (x) { return String(x).replace(/^#/, "").slice(0, 40); }).filter(Boolean).slice(0, 6);
+    if (Array.isArray(o.openers)) keep.openers = o.openers.map(function (x) { return String(x).slice(0, 220); }).filter(Boolean).slice(0, 6);
+    if (Array.isArray(o.img)) keep.img = o.img.map(function (x) { return { by: String(x && x.by || "").slice(0, 160), lic: String(x && x.lic || "").slice(0, 60) }; });
+    keep.steps = o.steps.map(function (x) { var s = { tag: String(x.tag || "").slice(0, 60), q: String(x.q || "").slice(0, 300), a: String(x.a || "").slice(0, 1200) }; if (x.s) s.s = String(x.s).slice(0, 400); if (x.card) s.card = { big: String(x.card.big || "").slice(0, 30), sub: String(x.card.sub || "").slice(0, 120) }; return s; });
+    lsSet(trKey(l, w.id), keep);
+    return { n: n };
+  }
 
   /* ---------------- 1. ảnh: Wikimedia Commons (có CORS) · ảnh của anh (IndexedDB) ---------------- */
   function commonsParts(file) {
@@ -125,8 +487,11 @@
   async function hasUserImage(id, k) { return !!(await IDB.get(id + "#" + k)); }
 
   /* ---------------- 2. lời đọc ---------------- */
+  // trang Facebook «Giải mã Nghệ Thuật» (v1.3): chữ ký, mã QR, logo cuối video
+  var BRAND_NAME = "Giải mã Nghệ Thuật", BRAND_URL = "https://www.facebook.com/profile.php?id=61596148916409", OLD_CREDIT = "Phạm Đăng Hiển · fb.com/lopmaybay", OLD_QR = "https://fb.com/lopmaybay";
   var DEF = { aspect: "9:16", res: 720, len: "full", pace: "mid", voice: "ai", rate: 1, music: "auto", musicVol: 0.5, trend: true, caps: true,
-              qcard: true, nums: true, spot: true, credit: "Phạm Đăng Hiển · fb.com/lopmaybay", qr: true, qrUrl: "https://fb.com/lopmaybay", srcs: true, lang: "vi",
+              qcard: true, nums: true, spot: true, credit: BRAND_NAME, qr: true, qrUrl: BRAND_URL, srcs: true, lang: "vi", vlang: "vi", brand: true,
+              voices: { vi: "vi", en: "en", ja: "st:F1", zh: "zh", ru: "ru", ko: "st:F2" },
               srcStep: true, imgCredit: true, ai: true, aiPos: "both", aiBadge: true, aiSay: false, aiText: "", safe: true, capSize: "m", cta: true,
               coverIntro: true, autoDl: true, ytAuto: false, ytPrivacy: "private", ytTitle: "" };
   // lời nhắc minh bạch về AI (anh sửa được trong studio)
@@ -138,8 +503,15 @@
   function srcLabel(s) { return s ? (s.s || String(s.t || "").split(" — ")[0] || domainOf(s.u)) : ""; }
   function domainOf(u) { var m = String(u || "").match(/^https?:\/\/(?:www\.)?([^\/?#]+)/i); return m ? m[1] : ""; }
   function stepSources(w, st) { return (st && st.src || []).map(function (i) { return (w.sources || [])[i]; }).filter(Boolean); }
-  function imgCreditOf(d, m) { if (m && m.src === "user") return "Ảnh: tư liệu của tác giả video"; if (!d) return ""; return (d.by || "Ảnh: Wikimedia Commons") + (d.lic && !/Phạm vi|CC0/.test(d.by || "") ? " · " + d.lic : ""); }
-  function loadOpts() { var o = {}, s = lsGet("av_opts", {}); for (var k in DEF) o[k] = (s && s[k] !== undefined) ? s[k] : DEF[k]; o.lang = "vi"; return o; }
+  function imgCreditOf(d, m) { var T = TXL(LCUR); if (m && m.src === "user") return T.ownPhoto; if (!d) return ""; var by = d.by || T.commons; return by + (d.lic && by.indexOf(d.lic) < 0 && !/Phạm vi|CC0/.test(d.by || "") ? " · " + d.lic : ""); }
+  function loadOpts() {
+    var o = {}, s = lsGet("av_opts", {}) || {};
+    if ((s.v || 0) < 13) { if (s.credit === OLD_CREDIT) delete s.credit; if (s.qrUrl === OLD_QR) delete s.qrUrl; }   // đổi sang trang mới nếu anh chưa tự sửa
+    for (var k in DEF) o[k] = (s[k] !== undefined) ? s[k] : DEF[k];
+    o.voices = Object.assign({}, DEF.voices, s.voices && typeof s.voices === "object" ? s.voices : {});
+    if (LANGS.indexOf(o.vlang) < 0) o.vlang = "vi";
+    o.lang = "vi"; o.v = 13; return o;
+  }
   function saveOpts(O) { var c = {}; for (var k in O) if (k !== "trendText") c[k] = O[k]; lsSet("av_opts", c); }
   function musicFor(w, O) { if (O.music && O.music !== "auto") return O.music; return w.type === "painting" || w.type === "music" ? "zen" : "ngu"; }
   function trendLine(w, O) {
@@ -155,6 +527,7 @@
     return h && v ? "góc " + v + " bên " + h : v ? "phần " + (v === "trên" ? "phía trên" : "phía dưới") : h ? "phía bên " + h : "chính giữa";
   }
   function openerList(w, O) {
+    var lx = O && O.vlang || "vi"; if (lx !== "vi") return openerListX(w, O, lx);
     var t = typeOf(w.type), music = w.type === "music", noun = (w.trend && !/^(nghe|đứng|ngồi|lắng)/.test(w.trend) ? w.trend : t.noun) || "một tác phẩm";
     var noun2 = noun.replace(/^một\s+/, ""), n = pickSteps(w, O || {}).length, T = w.title;
     var first = (w.steps || []).filter(function (s) { return !s.card && s.b && s.b[2] * s.b[3] < 0.4; })[0], out = [];
@@ -190,6 +563,7 @@
               [/\bAI\b/g, "trí tuệ nhân tạo"], [/\bTikTok\b/g, "Tích Tóc"], [/\bReels\b/g, "Rin"]];
   function speakable(c) { var t = String(c || ""); PRON.forEach(function (p) { t = t.replace(p[0], p[1]); }); return t; }
   function narrate(w, O, steps) {
+    if ((O.vlang || "vi") !== "vi") return narrateX(w, O, steps, O.vlang);
     var NR = {}, ctx = { lang: "vi", ru: false };
     // chỉ dùng giọng Việt cho video giải mã (không tải thêm giọng Nga/Anh): đoạn bị nhận nhầm là tiếng nước ngoài thì đọc bằng chữ gốc
     function sent(c) { var segs = SAY.segs(speakable(c), ctx).map(function (g) { return g.l === "vi" ? g : { l: "vi", t: (g.o != null && g.o !== "") ? g.o : g.t }; }); return { c: c, segs: L.mergeSegs(segs) }; }
@@ -208,9 +582,57 @@
     if (O.qr && O.qrUrl) out.push(sent("Theo dõi để xem những tác phẩm tiếp theo nhé."));
     NR.outro = out;
     Object.keys(NR).forEach(function (k) { if (!NR[k].length) delete NR[k]; });
+    // giọng Supertonic không tự đọc chữ số → đổi số sang chữ (giọng Piper/espeak vẫn đọc số như cũ)
+    var vv = AIV.VOICES[AIV.voiceFor("vi", O)]; if (vv && vv.eng === "st") Object.keys(NR).forEach(function (k) { NR[k].forEach(function (s) { s.segs.forEach(function (g) { if (g.l === "vi") g.t = viNumbers(g.t); }); }); });
     return NR;
   }
 
+  // lời đọc cho video tiếng nước ngoài: mỗi câu một đoạn, đọc bằng giọng của ngôn ngữ đó; chi tiết chưa dịch thì đọc tiếng Việt
+  function readSecL(chars, l) { return chars / (isCJK(l) ? 6.5 : l === "ko" ? 8 : 14.5) + 0.35; }
+  function trendLineX(w, O, l) {
+    if (O && O.trendText && String(O.trendText).trim()) return String(O.trendText).trim();
+    if (w.trendLine && w.lang === l) return w.trendLine;
+    var T = TXL(l), ty = T.types[w.type]; return T.trend ? T.trend(ty ? ty[1] : "", w.type === "music") : trendLine(w, O);
+  }
+  function trendLineV(V) { var l = V.lang || "vi"; return l === "vi" ? trendLine(V.w, V.O) : trendLineX(V.w, V.O, l); }
+  function posKey(b) { var cx = b[0] + b[2] / 2, cy = b[1] + b[3] / 2, h = cx < 0.36 ? "l" : cx > 0.64 ? "r" : "", v = cy < 0.36 ? "t" : cy > 0.64 ? "b" : ""; return h && v ? v + h : v || h || "c"; }
+  function openerListX(w, O, l) {
+    var T = TXL(l), out = [], n = pickSteps(w, O || {}).length, music = w.type === "music", ty = T.types[w.type] || [], noun = ty[1] || "";
+    var first = (w.steps || []).filter(function (s) { return !s.card && s.b && s.b[2] * s.b[3] < 0.4; })[0], pos = first && T.pos ? T.pos[posKey(first.b)] : "";
+    (w.openers || []).forEach(function (x) { if (x && String(x).trim()) out.push({ t: String(x).trim(), g: "Riêng cho tác phẩm này" }); });
+    if (T.openers) T.openers(quoteT(w.title, l), noun, n, music, pos, l === "ru" ? ty : null).forEach(function (x) { if (x) out.push({ t: x, g: "Mẫu chung" }); });
+    return out;
+  }
+  function shortAnswerX(st, l) { if (st.s) return st.s; var ss = splitX(st.a, l), out = ss[0] || ""; if (disp(out).length < (isCJK(l) ? 30 : l === "ko" ? 40 : 70) && ss[1]) out += (isCJK(l) ? "" : " ") + ss[1]; return out; }
+  function viSent(c) { var segs = SAY.segs(speakable(c), { lang: "vi", ru: false }).map(function (g) { return g.l === "vi" ? g : { l: "vi", t: (g.o != null && g.o !== "") ? g.o : g.t }; }); return { c: c, segs: L.mergeSegs(segs) }; }
+  function narrateX(w, O, steps, l) {
+    var NR = {}, T = TXL(l);
+    function sent(raw) { var c = disp(raw).replace(/\s+/g, " ").trim(), t = speakX(raw, l); return { c: c, segs: t ? [{ l: l, t: t }] : [] }; }
+    function many(text, vi) { return vi ? sentencesOf(text).map(viSent) : splitX(text, l).map(sent).filter(function (s) { return s.c; }); }
+    if (O.trend) NR.trend = [sent(trendLineX(w, O, l).replace(/\s*(?:…+|\.{3,})$/, isCJK(l) ? "。" : "."))];
+    NR.hook = many(w.hook || "");
+    var info = w.intro || [w.title, w.artist, w.date].filter(Boolean).join(isCJK(l) ? "、" : ", ") + (isCJK(l) ? "。" : ".");
+    if (O.len !== "short") NR.info = many(info);
+    steps.forEach(function (st, i) {
+      NR["q:" + i] = many(st.q || "", st.untr);
+      NR["a:" + i] = many(O.len === "short" ? (st.untr ? shortAnswer(st) : shortAnswerX(st, l)) : (st.a || ""), st.untr);
+    });
+    NR.end = many(w.end || (T.end ? T.end(quoteT(w.title, l)) : ""));
+    var out = [];
+    if (O.ai && O.aiSay) out = out.concat(many(T.aiSay || AI_SAY));
+    if (O.qr && O.qrUrl) out.push(sent(T.follow));
+    NR.outro = out;
+    Object.keys(NR).forEach(function (k) { if (!NR[k].length) delete NR[k]; });
+    return NR;
+  }
+
+  var BRAND = { img: null, p: null };
+  function ensureBrand() {
+    return BRAND.p || (BRAND.p = (global.ART_BRAND ? Promise.resolve() : L.loadScript("brand/brand.js?v=1").catch(function () { })).then(function () {
+      var src = global.ART_BRAND && global.ART_BRAND.logo; if (!src) return null;
+      return new Promise(function (res) { var im = new Image(); im.onload = function () { BRAND.img = im; res(im); }; im.onerror = function () { res(null); }; im.src = src; });
+    }));
+  }
   /* ---------------- 3. ảnh của video: tải + khung cắt + nền mờ ---------------- */
   async function loadWorkImages(w, onProg) {
     var res = [], n = w.img.length;
@@ -248,7 +670,7 @@
   }
   function safeRects(W, H, O, st) {
     var Ly = LY(W, H, O), u = Ly.u, gap = 24 * u, top = 0.05 * H;
-    if (O.qcard) top = Math.max(qCardBottom(Ly, st.q, false), qCardBottom(Ly, st.q, true) + (st.tag ? 49 * u : 0)) + gap;
+    if (O.qcard) top = Math.max(qCardBottom(Ly, disp(st.q), false), qCardBottom(Ly, disp(st.q), true) + (st.tag ? 49 * u : 0)) + gap;
     else if (st.tag) top = Ly.qY + 49 * u + gap;
     var bot = O.caps ? Ly.capY - capHalf(Ly) - 12 * u : (Ly.safe ? Ly.botY : H - 34 * u);
     var mx = (Ly.port || Ly.sq ? 0.035 : 0.03) * W, A = { x0: mx, y0: top, x1: W - mx, y1: bot };
@@ -290,6 +712,7 @@
   /* ---------------- 5. dựng cảnh ---------------- */
   function readSec(chars) { return chars / 14.5 + 0.35; }
   function build(w, O, W, H, NR, AP, I) {
+    var lang = O.vlang || "vi"; LCUR = lang;
     var FA = W / H, pace = O.pace === "fast" ? 0.8 : O.pace === "slow" ? 1.3 : 1, steps = pickSteps(w, O), scenes = [], tt = 0;
     var k0 = 0; for (var q = 0; q < I.length; q++) if (I[q] && I[q].ok) { k0 = q; break; }
     function push(sc) { sc.t0 = tt; tt += sc.dur; sc.idx = scenes.length; scenes.push(sc); return sc; }
@@ -300,7 +723,7 @@
         sc.dur = Math.max(minDur || 0, sc.fly || 0, lead + ap.dur + tail); sc.ap = ap;
         sc.sentT = ap.sents.map(function (x) { return { t0: lead + x.t0, t1: lead + x.t1 }; });
       } else {
-        var t = lead; sc.sentT = sc.narr.map(function (s) { var d = readSec((s.c || "").length) * pace, r = { t0: t, t1: t + d }; t = r.t1 + 0.3; return r; });
+        var t = lead; sc.sentT = sc.narr.map(function (s) { var d = readSecL((s.c || "").length, lang) * pace, r = { t0: t, t1: t + d }; t = r.t1 + 0.3; return r; });
         sc.dur = Math.max(minDur || 0, sc.fly || 0, t - 0.3 + tail);
       }
       return sc;
@@ -324,7 +747,7 @@
     push(voiced({ key: "end", type: "end", A: last, B: drift(endV, 0.03), fly: 1.7 * pace, xfade: last.k !== endV.k, steps: steps }, sh ? 1.1 : 1.3, sh ? 1.0 : 1.4, sh ? 4.5 : 5.5));
     var outMin = (O.qr && O.qrUrl ? (sh ? 5.2 : 6.2) : 4.2) + (O.srcs && (w.sources || []).length ? (sh ? 0.8 : 1.4) : 0) + (aiAt(O, "end") ? (sh ? 0.8 : 1.2) : 0);
     push(voiced({ key: "outro", type: "outro", A: drift(endV, 0.03), B: drift(endV, 0.05) }, 0.6, 0.6, outMin));
-    var V = { scenes: scenes, total: tt, W: W, H: H, FA: FA, O: O, w: w, I: I, NR: NR, AP: AP || null, steps: steps, k0: k0, C: O.coverC || coverDefaults(w, O) };
+    var V = { scenes: scenes, total: tt, W: W, H: H, FA: FA, O: O, w: w, I: I, NR: NR, AP: AP || null, steps: steps, k0: k0, C: O.coverC || coverDefaults(w, O), lang: lang };
     V.render = renderArt; V.preload = function () { return Promise.resolve({}); }; V.ensure = function () { return Promise.resolve(); };
     return V;
   }
@@ -420,18 +843,18 @@
     ctx.save(); ctx.font = F(opts.weight || 700, px); var lines = wrap(ctx, text, maxW, 0), lh = px * 1.32;
     var maxL = opts.maxLines || 3, total = text.length, said = Math.floor(total * clamp(p, 0, 1));
     // cửa sổ trượt khi câu dài hơn số dòng tối đa
-    var startL = 0; if (lines.length > maxL) { var acc = 0, cur = 0; for (var i = 0; i < lines.length; i++) { acc += lines[i].length + 1; if (acc >= said) { cur = i; break; } cur = i; } startL = clamp(cur - (maxL - 2), 0, lines.length - maxL); }
+    var startL = 0; if (lines.length > maxL) { var acc = 0, cur = 0; for (var i = 0; i < lines.length; i++) { acc += lines[i].length + JOIN(); if (acc >= said) { cur = i; break; } cur = i; } startL = clamp(cur - (maxL - 2), 0, lines.length - maxL); }
     var shown = lines.slice(startL, startL + maxL), bw = 0; shown.forEach(function (l) { bw = Math.max(bw, ctx.measureText(l).width); });
     var bh = shown.length * lh + px * 0.7, bx = V.W / 2 - bw / 2 - px * 0.55, by = y - bh / 2;
     if (opts.box !== false) panel(ctx, bx, by, bw + px * 1.1, bh, px * 0.45, "rgba(8,14,26," + (opts.boxA || 0.66) + ")");
-    var before = 0; for (var j = 0; j < startL; j++) before += lines[j].length + 1;
+    var before = 0, jn = JOIN(); for (var j = 0; j < startL; j++) before += lines[j].length + jn;
     ctx.textAlign = "left"; ctx.textBaseline = "middle";
     shown.forEach(function (l, i) {
       var lx = V.W / 2 - ctx.measureText(l).width / 2, ly = by + px * 0.35 + lh * (i + 0.5);
       ctx.fillStyle = "#ffffff"; ctx.shadowColor = "rgba(0,0,0,0.6)"; ctx.shadowBlur = 4; ctx.fillText(l, lx, ly); ctx.shadowBlur = 0;
       var k = clamp(said - before, 0, l.length);
       if (k > 0 && opts.karaoke !== false) { var sw = ctx.measureText(l.slice(0, k)).width; ctx.save(); ctx.beginPath(); ctx.rect(lx - 2, ly - lh / 2, sw + 2, lh); ctx.clip(); ctx.fillStyle = GOLD; ctx.fillText(l, lx, ly); ctx.restore(); }
-      before += l.length + 1;
+      before += l.length + jn;
     });
     ctx.restore();
     return { y0: by, y1: by + bh };
@@ -440,6 +863,7 @@
   function currentCaption(sc, tau) { var i = sentIdx(sc, tau); if (i < 0 || !sc.narr[i]) return null; var st = sc.sentT[i]; if (tau > st.t1 + 0.6 && i === sc.narr.length - 1) return null; return { text: sc.narr[i].c, p: sentProgress(sc, tau, i) }; }
 
   function renderArt(ctx, V, t) {
+    LCUR = V.lang || "vi";
     var W = V.W, H = V.H, O = V.O, Ly = LY(W, H, O), u = Ly.u, i = sceneAt(V, t), sc = V.scenes[i], tau = t - sc.t0;
     if (sc.type === "cover") { renderCover(ctx, V, V.C); return; }
     ctx.save(); ctx.fillStyle = "#070b14"; ctx.fillRect(0, 0, W, H);
@@ -474,12 +898,12 @@
       }
     }
     if (O.ai && O.aiBadge) {
-      ctx.save(); ctx.font = F(800, 12.5 * u); var bt = "🤖 Có dùng AI", bw = ctx.measureText(bt).width + 16 * u, bh = 22 * u, bx = Ly.pad * 0.6, by = Ly.badgeY;
+      ctx.save(); ctx.font = F(800, 12.5 * u); var bt = TXL(V.lang).aiBadge, bw = ctx.measureText(bt).width + 16 * u, bh = 22 * u, bx = Ly.pad * 0.6, by = Ly.badgeY;
       panel(ctx, bx, by, bw, bh, bh / 2, "rgba(10,18,32,0.55)"); ctx.fillStyle = "rgba(255,255,255,0.85)"; ctx.textBaseline = "middle"; ctx.textAlign = "left"; ctx.fillText(bt, bx + 8 * u, by + bh / 2 + 0.5 * u); ctx.restore();
     }
     if (idx === (V.scenes[0] && V.scenes[0].type === "cover" ? 1 : 0) && aiAt(O, "start")) {
       var a = seg(tau, 0.4, 1.0) * (1 - seg(tau, sc.dur - 0.5, sc.dur));
-      if (a > 0.01) { ctx.save(); ctx.globalAlpha = a; notice(ctx, V, "🤖 Video có dùng AI và có thể còn sai sót — rất mong bạn góp ý.", Ly.port ? Ly.botY - 30 * u : H * 0.9, W * (Ly.port ? 0.86 : 0.6), 15.5 * u, 0.6); ctx.restore(); }
+      if (a > 0.01) { ctx.save(); ctx.globalAlpha = a; notice(ctx, V, TXL(V.lang).aiStart, Ly.port ? Ly.botY - 30 * u : H * 0.9, W * (Ly.port ? 0.86 : 0.6), 15.5 * u, 0.6); ctx.restore(); }
     }
   }
   // hộp chữ nhỏ canh giữa (lời nhắc, câu hỏi gợi bình luận)
@@ -496,30 +920,30 @@
     var W = V.W, H = V.H, u = Math.min(W, H) / 720, g = ctx.createLinearGradient(0, 0, W, H); g.addColorStop(0, "#1b2f52"); g.addColorStop(1, "#0b1424");
     ctx.fillStyle = g; ctx.fillRect(0, 0, W, H);
     ctx.save(); ctx.textAlign = "center"; ctx.textBaseline = "middle"; ctx.fillStyle = "rgba(255,255,255,0.18)"; ctx.font = F(400, 160 * u); ctx.fillText(typeOf(V.w.type).icon, W / 2, H * 0.36);
-    ctx.fillStyle = "rgba(255,255,255,0.75)"; ctx.font = F(800, 26 * u); ctx.fillText(V.w.img.some(function (d) { return d.user; }) ? "📂 Hãy nạp ảnh của anh cho tác phẩm này" : "Chưa tải được ảnh", W / 2, H * 0.5);
+    ctx.fillStyle = "rgba(255,255,255,0.75)"; ctx.font = F(800, 26 * u); ctx.fillText(V.w.img.some(function (d) { return d.user; }) && (V.lang || "vi") === "vi" ? TX.vi.noImgUser : TXL(V.lang).noImg, W / 2, H * 0.5);
     ctx.restore();
   }
   // hiện từng chữ (từ) một
   function wordsReveal(ctx, lines, x, y, lh, p, align) {
-    var total = 0; lines.forEach(function (l) { total += l.split(" ").length; });
+    var total = 0, sep = isCJK(LCUR) ? "" : " "; lines.forEach(function (l) { total += wordsOf(l).length; });
     var shown = p * total, gi = 0;
     ctx.textAlign = "left";
     lines.forEach(function (l, k) {
-      var lw = ctx.measureText(l).width, sx = align === "center" ? x - lw / 2 : x, parts = l.split(" "), acc = "";
+      var lw = ctx.measureText(l).width, sx = align === "center" ? x - lw / 2 : x, parts = wordsOf(l), acc = "";
       parts.forEach(function (wd, j) {
-        if (j) acc += " "; var before = ctx.measureText(acc).width; acc += wd;
+        if (j) acc += sep; var before = ctx.measureText(acc).width; acc += wd;
         var a = clamp(shown - gi, 0, 1); gi++; if (a <= 0) return;
         ctx.save(); ctx.globalAlpha *= a; ctx.fillText(wd, sx + before, y + k * lh + (1 - a) * lh * 0.25); ctx.restore();
       });
     });
   }
   function drawTrend(ctx, V, sc, tau, Ly) {
-    var W = V.W, H = V.H, u = Ly.u, line = trendLine(V.w, V.O), a = seg(tau, 0.1, 0.6) * (1 - seg(tau, sc.dur - 0.45, sc.dur));
+    var W = V.W, H = V.H, u = Ly.u, line = disp(trendLineV(V)), a = seg(tau, 0.1, 0.6) * (1 - seg(tau, sc.dur - 0.45, sc.dur)), TL = TXL(V.lang);
     ctx.save(); ctx.globalAlpha = a;
     var g = ctx.createLinearGradient(0, H * 0.2, 0, H * 0.8); g.addColorStop(0, "rgba(4,7,14,0)"); g.addColorStop(0.3, "rgba(4,7,14,0.72)"); g.addColorStop(0.7, "rgba(4,7,14,0.72)"); g.addColorStop(1, "rgba(4,7,14,0)");
     ctx.fillStyle = g; ctx.fillRect(0, 0, W, H);
     line = line.replace(/\s*\|\s*/g, " ");
-    var m = line.match(/^(Giờ thì tôi mới hiểu)\s*(.*)$/i) || line.match(/^(.{2,34}?[!?:])\s+(.{12,})$/), head = m ? (m[1].length <= 24 ? m[1].toUpperCase() : m[1]) : "", rest = m ? m[2] : line;
+    var m = (V.lang || "vi") === "vi" ? (line.match(/^(Giờ thì tôi mới hiểu)\s*(.*)$/i) || line.match(/^(.{2,34}?[!?:])\s+(.{12,})$/)) : (TL.head ? line.match(TL.head) : null), head = m ? (m[1].length <= 24 ? m[1].toUpperCase() : m[1]) : "", rest = m ? m[2] : line;
     var maxW = W * (Ly.port || Ly.sq ? 0.86 : 0.7), y = Ly.trendY;
     if (head) { ctx.font = F(900, (Ly.port ? 46 : 52) * u); var hl = wrap(ctx, head, maxW, 2); ctx.fillStyle = GOLD; ctx.textBaseline = "middle"; wordsReveal(ctx, hl, W / 2, y, 56 * u, seg(tau, 0.2, 1.0), "center"); y += hl.length * 56 * u + 18 * u; }
     ctx.font = FS(700, (Ly.port ? 36 : 40) * u, true); var rl = wrap(ctx, rest, maxW, 4); ctx.fillStyle = "#ffffff"; ctx.textBaseline = "middle";
@@ -537,12 +961,12 @@
     var x = Ly.pad, maxW = W - Ly.pad * 2, t = typeOf(w.type);
     ctx.save(); ctx.globalAlpha = a * out;
     ctx.font = FS(800, (Ly.port ? 44 : 46) * u); var tl = wrap(ctx, w.title, maxW - 30 * u, 3);
-    ctx.font = F(600, 21 * u); var meta = [w.artist, w.date].filter(Boolean).join(" · "), ml = wrap(ctx, meta, maxW - 30 * u, 2);
+    ctx.font = F(600, 21 * u); var meta = [w.titleVi && w.titleVi !== w.title ? "🇻🇳 " + w.titleVi : "", w.artist, w.date].filter(Boolean).join(" · "), ml = wrap(ctx, meta, maxW - 30 * u, 3);
     var sub = [w.medium, w.where].filter(Boolean).join(" · "); ctx.font = F(500, 18 * u); var sl = wrap(ctx, sub, maxW - 30 * u, 3);
     var h = 40 * u + tl.length * 50 * u + ml.length * 27 * u + sl.length * 24 * u + 30 * u, y = Ly.infoY - h / 2 + (1 - a) * 40 * u;
     panel(ctx, x, y, maxW, h, 22 * u, "rgba(9,16,30,0.84)");
     ctx.fillStyle = GOLD; ctx.fillRect(x, y + 22 * u, 5 * u, h - 44 * u);
-    chip(ctx, x + 18 * u, y - 18 * u, t.icon + " " + t.vi, 17 * u, GOLD, NAVY);
+    chip(ctx, x + 18 * u, y - 18 * u, t.icon + " " + typeName(w.type, V.lang), 17 * u, GOLD, NAVY);
     var yy = y + 38 * u; ctx.textBaseline = "middle"; ctx.textAlign = "left";
     ctx.font = FS(800, (Ly.port ? 44 : 46) * u); ctx.fillStyle = "#fff"; tl.forEach(function (l) { ctx.fillText(l, x + 22 * u, yy + 12 * u); yy += 50 * u; });
     ctx.font = F(700, 21 * u); ctx.fillStyle = GOLD; ml.forEach(function (l) { ctx.fillText(l, x + 22 * u, yy + 4 * u); yy += 27 * u; });
@@ -567,12 +991,12 @@
     panel(ctx, x, y, Ly.qW, h, 20 * u, "rgba(12,24,46,0.86)");
     ctx.strokeStyle = "rgba(242,193,78,0.55)"; ctx.lineWidth = 1.5 * u; rr(ctx, x, y, Ly.qW, h, 20 * u); ctx.stroke();
     ctx.font = F(900, 16 * u); ctx.fillStyle = GOLD; ctx.textAlign = "left"; ctx.textBaseline = "middle";
-    ctx.fillText("❓ CHI TIẾT " + sc.num + "/" + sc.of, x + 22 * u, y + 24 * u);
+    ctx.fillText(TXL(V.lang).detail + sc.num + "/" + sc.of, x + 22 * u, y + 24 * u);
     // chấm tiến độ
     for (var d = 0; d < sc.of && sc.of <= 14; d++) { ctx.beginPath(); ctx.arc(x + Ly.qW - 22 * u - (sc.of - 1 - d) * 13 * u, y + 24 * u, 4 * u, 0, Math.PI * 2); ctx.fillStyle = d < sc.num ? GOLD : "rgba(255,255,255,0.28)"; ctx.fill(); }
     ctx.font = F(800, px); ctx.fillStyle = "#fff";
     var total = text.length, shown = Math.floor(total * clamp(p, 0, 1)), acc = 0;
-    lines.forEach(function (l, i) { var k = clamp(shown - acc, 0, l.length); if (k > 0) ctx.fillText(l.slice(0, k), x + 22 * u, y + 46 * u + lh * (i + 0.5)); acc += l.length + 1; });
+    lines.forEach(function (l, i) { var k = clamp(shown - acc, 0, l.length); if (k > 0) ctx.fillText(l.slice(0, k), x + 22 * u, y + 46 * u + lh * (i + 0.5)); acc += l.length + JOIN(); });
     ctx.restore();
     return y + h;
   }
@@ -589,7 +1013,7 @@
     }
     var qBottom = Ly.qY;
     if (O.qcard) {
-      var qtext = (st.q || "");
+      var qtext = disp(st.q || "");
       var qp = sc.type === "q" ? (qs.sentT && qs.sentT.length ? clamp((tau - qs.sentT[0].t0) / Math.max(0.4, qs.sentT[qs.sentT.length - 1].t1 - qs.sentT[0].t0) * 1.15, 0, 1) : seg(tau, 0.2, 0.2 + qtext.length / 22)) : 1;
       var qa = sc.type === "q" ? seg(tau, 0.0, 0.35) : 1 - 0.25 * seg(tau, 0.2, 0.8);
       qBottom = drawQuestion(ctx, V, sc, qtext, qp, Ly, qa, sc.type === "a");
@@ -601,7 +1025,7 @@
         var ss = stepSources(V.w, st).slice(0, 3);
         if (ss.length) {
           var fa = seg(tau, 0.5, 1.1); ctx.save(); ctx.globalAlpha = fa; ctx.font = FS(700, 15 * u * Ly.cs, true);
-          var ft = wrap(ctx, "📚 Nguồn: " + ss.map(srcLabel).join(" · "), Ly.capW, 1)[0] || "", fy = (O.caps ? Ly.capY + capHalf(Ly) : Ly.capY) + 13 * u * Ly.cs;
+          var ft = wrap(ctx, TXL(V.lang).src + ss.map(srcLabel).join(" · "), Ly.capW, 1)[0] || "", fy = (O.caps ? Ly.capY + capHalf(Ly) : Ly.capY) + 13 * u * Ly.cs;
           ctx.textAlign = "center"; ctx.textBaseline = "middle"; ctx.fillStyle = "rgba(255,255,255,0.8)"; ctx.shadowColor = "rgba(0,0,0,0.85)"; ctx.shadowBlur = 5;
           ctx.fillText(ft, W / 2, fy); ctx.restore();
         }
@@ -622,14 +1046,16 @@
     var c = currentCaption(sc, tau); if (c && V.O.caps) caption(ctx, V, c.text, c.p, Ly.endY, Ly.capW, 30 * u * Ly.cs, { weight: 800, maxLines: 4 });
     if (V.O.cta) {
       var ca = seg(tau, fly + 0.6, fly + 1.2);
-      if (ca > 0.01) { ctx.save(); ctx.globalAlpha = ca; notice(ctx, V, "💬 Chi tiết số mấy làm bạn bất ngờ nhất? Bình luận số nhé!", Ly.qY + 26 * u, W * (Ly.port ? 0.9 : 0.62), 20 * u, 0.78, GOLD); ctx.restore(); }
+      if (ca > 0.01) { ctx.save(); ctx.globalAlpha = ca; notice(ctx, V, TXL(V.lang).cta, Ly.qY + 26 * u, W * (Ly.port ? 0.9 : 0.62), 20 * u, 0.78, GOLD); ctx.restore(); }
     }
   }
   function imgCredits(V) {
     var w = V.w, O = V.O, cred = [], seen = {};
-    w.img.forEach(function (d, k) { if (V.I[k] && V.I[k].ok) { var c = imgCreditOf(d, V.I[k]).replace(/^Ảnh:\s*/i, ""); if (c && !seen[c]) { seen[c] = 1; cred.push(c); } } });
-    var mu = O.music === "file" ? "Nhạc: do tác giả video chọn" : (O.music !== "off" ? "Nhạc nền tự tổng hợp" : "");
-    return { img: cred, other: [mu, V.AP ? "Giọng đọc AI: Piper (VAIS-1000, CC BY 4.0)" : ""].filter(Boolean) };
+    var T = TXL(V.lang), prevL = LCUR; LCUR = V.lang || "vi";
+    w.img.forEach(function (d, k) { if (V.I[k] && V.I[k].ok) { var c = imgCreditOf(d, V.I[k]).replace(/^(?:Ảnh|Photo|Image|写真|画像|图片|Фото|Изображение|사진|이미지)\s*[:：]\s*/i, ""); if (c && !seen[c]) { seen[c] = 1; cred.push(c); } } });
+    LCUR = prevL;
+    var mu = O.music === "file" ? T.musicOwn : (O.music !== "off" ? T.musicSyn : "");
+    return { img: cred, other: [mu, V.AP ? T.voice + AIV.credit(V.AP.voices || AIV.voicesUsed(V.NR, O)) : ""].filter(Boolean) };
   }
   function drawOutro(ctx, V, sc, tau, Ly) {
     var W = V.W, H = V.H, u = Ly.u, O = V.O, w = V.w, a = easeOut(seg(tau, 0.1, 0.8)), port = Ly.port;
@@ -639,23 +1065,23 @@
     var x = Ly.pad, maxW = W - Ly.pad * 2 - (!port && qrOn ? qrS + 40 * u : 0), y = port ? H * (Ly.safe ? 0.1 : 0.12) : H * 0.08;
     var yLim = port ? (qrOn ? (Ly.safe ? H * 0.47 : H * 0.6) : ctaY - 40 * u) : ctaY - 44 * u;      // chữ không lấn xuống mã QR / lời mời
     ctx.textAlign = "left"; ctx.textBaseline = "top";
-    ctx.font = F(900, 18 * u); ctx.fillStyle = GOLD; ctx.fillText("🎨 GIẢI MÃ TÁC PHẨM", x, y); y += 32 * u;
+    var TL = TXL(V.lang); ctx.font = F(900, 18 * u); ctx.fillStyle = GOLD; ctx.fillText(TL.outroHead, x, y); y += 32 * u;
     ctx.font = FS(800, 38 * u); ctx.fillStyle = "#fff"; wrap(ctx, w.title, maxW, 2).forEach(function (l) { ctx.fillText(l, x, y); y += 44 * u; });
     ctx.font = F(600, 18 * u); ctx.fillStyle = "rgba(255,255,255,0.85)"; wrap(ctx, [w.artist, w.date].filter(Boolean).join(" · "), maxW, 2).forEach(function (l) { ctx.fillText(l, x, y); y += 24 * u; });
     y += 10 * u;
     function line(t, font, color, lh, max) { if (y + lh > yLim) return false; ctx.font = font; ctx.fillStyle = color; wrap(ctx, t, maxW, max || 1).forEach(function (l) { if (y + lh <= yLim) { ctx.fillText(l, x, y); y += lh; } }); return true; }
     // ô lời nhắc AI (vẽ trước khi hết chỗ)
     var aiLines = [];
-    if (aiAt(O, "end")) { ctx.font = F(600, 14.5 * u); aiLines = wrap(ctx, "🤖 " + aiText(O), maxW - 24 * u, 4); }
+    if (aiAt(O, "end")) { ctx.font = F(600, 14.5 * u); aiLines = wrap(ctx, "🤖 " + ((V.lang || "vi") === "vi" ? aiText(O) : TL.aiText), maxW - 24 * u, 4); }
     var aiH = aiLines.length ? aiLines.length * 19.5 * u + 18 * u + 10 * u : 0;
     if (O.srcs) {
       var refs = (w.sources || []).filter(function (r) { return r && (r.t || r.u); }), cr = imgCredits(V), keep = yLim - aiH;
       var yl = yLim; yLim = keep;
-      if (refs.length && line("📚 Nguồn tham khảo", F(800, 15.5 * u), GOLD, 22 * u)) {
+      if (refs.length && line(TL.refs, F(800, 15.5 * u), GOLD, 22 * u)) {
         refs.slice(0, port ? 7 : 5).forEach(function (r) { line("• " + srcLabel(r) + (r.u ? " — " + domainOf(r.u) : ""), F(500, 14 * u), "rgba(255,255,255,0.78)", 19 * u); });
         y += 6 * u;
       }
-      if (cr.img.length) line("📷 Ảnh: " + cr.img.join(" · "), F(500, 14 * u), "rgba(255,255,255,0.7)", 19 * u, 2);
+      if (cr.img.length) line(TL.photos + cr.img.join(" · "), F(500, 14 * u), "rgba(255,255,255,0.7)", 19 * u, 2);
       if (cr.other.length) line("🎵 " + cr.other.join(" · "), F(500, 14 * u), "rgba(255,255,255,0.7)", 19 * u, 2);
       yLim = yl;
     }
@@ -672,11 +1098,17 @@
       var cv = L.qrCanvas(O.qrUrl);
       if (cv) { ctx.fillStyle = "#fff"; rr(ctx, qx - 10 * u, qy - 10 * u, qrS + 20 * u, qrS + 20 * u, 14 * u); ctx.fill(); ctx.imageSmoothingEnabled = false; ctx.drawImage(cv, qx, qy, qrS, qrS); ctx.imageSmoothingEnabled = true; }
       ctx.font = F(700, 16 * u); ctx.fillStyle = "#fff"; ctx.textAlign = port ? "center" : "left";
-      ctx.fillText(L.shortUrl(O.qrUrl), port ? W / 2 : qx, qy + qrS + 16 * u);
+      ctx.fillText(/facebook\.com\/profile\.php\?id=/.test(O.qrUrl) ? "Facebook · " + (O.credit || BRAND_NAME) : L.shortUrl(O.qrUrl), port ? W / 2 : qx, qy + qrS + 16 * u);
     }
     ctx.textAlign = "center"; ctx.font = F(900, 25 * u); ctx.fillStyle = GOLD;
-    ctx.fillText("Theo dõi để xem tác phẩm tiếp theo ✦", W / 2, ctaY);
-    if (O.credit) { ctx.font = F(700, 17 * u); ctx.fillStyle = "rgba(255,255,255,0.85)"; ctx.fillText(O.credit, W / 2, ctaY + (Ly.sq || Ly.safe ? 31 : 36) * u); }
+    ctx.fillText(TL.followCta, W / 2, ctaY);
+    if (O.credit) {
+      var cy2 = ctaY + (Ly.sq || Ly.safe ? 31 : 36) * u, logo = O.brand !== false && BRAND.img && BRAND.img.complete && BRAND.img.naturalWidth ? BRAND.img : null, ls = 28 * u, lcy = cy2 + 9 * u;
+      ctx.font = F(700, 17 * u); var cw2 = ctx.measureText(O.credit).width, gx = W / 2 - (cw2 + (logo ? ls + 8 * u : 0)) / 2;
+      if (logo) { ctx.save(); ctx.beginPath(); ctx.arc(gx + ls / 2, lcy, ls / 2, 0, Math.PI * 2); ctx.clip(); ctx.drawImage(logo, gx, lcy - ls / 2, ls, ls); ctx.restore(); ctx.save(); ctx.strokeStyle = "rgba(242,193,78,0.85)"; ctx.lineWidth = 1.5 * u; ctx.beginPath(); ctx.arc(gx + ls / 2, lcy, ls / 2, 0, Math.PI * 2); ctx.stroke(); ctx.restore(); gx += ls + 8 * u; }
+      ctx.fillStyle = "rgba(255,255,255,0.85)"; ctx.textAlign = "left"; ctx.fillText(O.credit, gx, cy2);
+      if ((V.lang || "vi") !== "vi" && TL.tagline) { ctx.font = F(600, 13.5 * u); ctx.fillStyle = "rgba(242,193,78,0.85)"; ctx.textAlign = "center"; ctx.fillText(TL.tagline, W / 2, cy2 + 21 * u); }
+    }
     ctx.restore();
   }
 
@@ -686,7 +1118,7 @@
      và SoTrxII/thumbnail-generator (preset nền + tiêu đề + phụ đề, tự co cỡ chữ cho vừa khung).
      C = { src: "img"|"frame"|"user", k: số ảnh, focus: chi tiết làm tâm (-1 = cả bức), zoom, px, py (tâm 0–1), fit: "fill"|"fit",
            t: giây (khi lấy khung hình), l1/l2/l3: 3 dòng chữ ({tên}, {n} tự thay), pos: "top"|"mid"|"bot", dim: độ tối nền chữ } */
-  var COVER_KEYS = ["src", "k", "focus", "zoom", "px", "py", "fit", "t", "l1", "l2", "l3", "pos", "dim"];
+  var COVER_KEYS = ["src", "k", "focus", "zoom", "px", "py", "fit", "t", "l1", "l2", "l3", "pos", "dim", "tx"];
   function coverDefaults(w, O) {
     var k0 = 0; (w.img || []).some(function (d, k) { if (d && d.file) { k0 = k; return true; } return false; });
     return { src: "img", k: k0, focus: -1, zoom: 1, px: 0.5, py: 0.5, fit: "fill", t: 3, l1: O && O.trend === false ? "GIẢI MÃ TÁC PHẨM" : "GIỜ THÌ TÔI MỚI HIỂU…", l2: "{tên}", l3: "{n} chi tiết ít ai để ý", pos: "mid", dim: 0.55 };
@@ -704,7 +1136,16 @@
     return ok;
   }
   function coverIsOk(w, O) { var st = coverLoad(w, O); return !!st.ok[O.aspect]; }
-  function coverText(x, V) { return String(x || "").replace(/\{n\}/g, String((V.steps || []).length)).replace(/\{tên\}/g, V.w.title).replace(/\s+/g, " ").trim(); }
+  function coverText(x, V) {
+    var n = (V.steps || []).length;
+    return disp(String(x || "").replace(/\{n:([^|{}]+)\|([^|{}]+)\|([^|{}]+)\}/g, function (m, a, b, c) { return plRu(n, a, b, c); }).replace(/\{nつ\}/g, n <= 9 ? n + "つ" : String(n)).replace(/\{n\}/g, String(n)).replace(/\{tên\}/g, V.w.title)).replace(/\s+/g, " ").trim();
+  }
+  // 3 dòng chữ của ảnh bìa theo ngôn ngữ video (tiếng Việt: l1/l2/l3 như cũ; tiếng khác: C.tx[lang] hoặc mẫu mặc định)
+  function coverLines(C, l, O) {
+    if (!l || l === "vi") return { l1: C.l1, l2: C.l2, l3: C.l3 };
+    var x = C.tx && C.tx[l], T = TXL(l);
+    return x || { l1: O && O.trend === false ? T.coverL1b : T.coverL1, l2: "{tên}", l3: T.coverL3 };
+  }
   // vùng ảnh nguồn sẽ lấp khung bìa (đơn vị điểm ảnh gốc)
   function coverView(V, C) {
     var W = V.W, H = V.H, FA = W / H, el = null, R = null, I = V.I || [];
@@ -728,6 +1169,7 @@
     return { el: el, R: R, cx: cx, cy: cy, vw: vw, vh: vh, IW: IW, IH: IH, blur: (I[C.k] && I[C.k].blur) || null };
   }
   function renderCover(ctx, V, C, guides) {
+    LCUR = V.lang || "vi";
     var W = V.W, H = V.H, O = V.O, Ly = LY(W, H, O), u = Ly.u; C = C || V.C || coverDefaults(V.w, O);
     ctx.save(); ctx.fillStyle = "#070b14"; ctx.fillRect(0, 0, W, H);
     if (C.src === "frame") {
@@ -747,7 +1189,7 @@
       } else drawMissing(ctx, V);
     }
     // chữ: 3 dòng, tự co cỡ chữ cho vừa
-    var l1 = coverText(C.l1, V), l2 = coverText(C.l2, V), l3 = coverText(C.l3, V);
+    var CL = coverLines(C, V.lang, O), l1 = coverText(CL.l1, V), l2 = coverText(CL.l2, V), l3 = coverText(CL.l3, V);
     if (l1 || l2 || l3) {
       var port = Ly.port, maxW = W * (port ? 0.86 : Ly.sq ? 0.86 : 0.78), p2 = (port ? 76 : Ly.sq ? 64 : 70) * u, lines2 = [];
       if (l2) { for (; p2 > 30 * u; p2 -= 3 * u) { ctx.font = FS(800, p2); lines2 = wrap(ctx, l2, maxW, 0); if (lines2.length <= (port ? 3 : 2)) break; } if (lines2.length > (port ? 3 : 2)) lines2 = wrap(ctx, l2, maxW, port ? 3 : 2); }
@@ -777,22 +1219,25 @@
 
   /* ---------------- 7. tiện ích đầu ra: chữ đăng bài, mục lục, phụ đề, ảnh bìa ---------------- */
   function chapters(V) {
-    var out = ["0:00 Mở đầu"], last = 0;
-    V.scenes.forEach(function (sc) { if (sc.type !== "q") return; if (sc.t0 - last < 6) return; out.push(fmtClock(sc.t0) + " " + sc.num + ". " + String(sc.st.tag || sc.st.q).replace(/^(?:[\d#*]\uFE0F?\u20E3|[^\wÀ-ỹ])+/u, "").trim().slice(0, 60)); last = sc.t0; });
-    var e = V.scenes.filter(function (s) { return s.type === "end"; })[0]; if (e) out.push(fmtClock(e.t0) + " Lời kết");
+    var TL = TXL(V.lang), out = ["0:00 " + TL.chIntro], last = 0;
+    V.scenes.forEach(function (sc) { if (sc.type !== "q") return; if (sc.t0 - last < 6) return; out.push(fmtClock(sc.t0) + " " + sc.num + ". " + disp(String(sc.st.tag || sc.st.q)).replace(/^(?:[\d#*]\uFE0F?\u20E3|[\p{Extended_Pictographic}\p{Regional_Indicator}\uFE0F\u200D\p{P}\p{S}\s])+/u, "").trim().slice(0, 60)); last = sc.t0; });
+    var e = V.scenes.filter(function (s) { return s.type === "end"; })[0]; if (e) out.push(fmtClock(e.t0) + " " + TL.chEnd);
     return out.join("\n");
   }
   function hashTag(x) { return "#" + String(x).normalize("NFC").split(/[^\p{L}\p{N}]+/u).filter(Boolean).map(function (p) { return p.charAt(0).toUpperCase() + p.slice(1); }).join(""); }
   function postText(w, V) {
-    var t = typeOf(w.type), tags = ["#GiờThìTôiMớiHiểu", "#NghệThuậtViệtNam", hashTag(t.vi)].concat((w.tags || []).slice(0, 4).map(hashTag));
-    var lines = [trendLine(w, V.O), "", "🎨 " + w.title + (w.artist ? " — " + w.artist : "") + (w.date ? " (" + w.date + ")" : ""), "", w.hook || ""];
-    lines.push("", "Trong video:"); V.steps.slice(0, 8).forEach(function (s, i) { lines.push((i + 1) + ". " + (s.q || "")); });
+    var l = V.lang || "vi", TL = TXL(l), tags = TL.hashtags.concat([hashTag(typeName(w.type, l))]).concat((w.tags || []).slice(0, 4).map(hashTag));
+    if (l !== "vi") tags.push("#GiảiMãNghệThuật");
+    var tl = l === "vi" ? trendLine(w, V.O) : trendLineX(w, V.O, l);
+    var lines = [disp(tl), "", "🎨 " + w.title + (w.titleVi && w.titleVi !== w.title ? " (" + w.titleVi + ")" : "") + (w.artist ? " — " + w.artist : "") + (w.date ? " (" + w.date + ")" : ""), "", disp(w.hook || "")];
+    lines.push("", TL.inVideo); V.steps.slice(0, 8).forEach(function (s, i) { lines.push((i + 1) + ". " + disp(s.q || "")); });
     if (w.where) lines.push("", "📍 " + w.where);
-    lines.push("", "Bạn đã để ý chi tiết nào trước khi xem video? Bình luận nhé 👇");
+    lines.push("", TL.comment);
     var O = V.O || {}, refs = (w.sources || []).filter(function (r) { return r && r.u; });
-    if (refs.length) { lines.push("", "📚 Nguồn tham khảo:"); refs.slice(0, 8).forEach(function (r) { lines.push("• " + srcLabel(r) + ": " + r.u); }); }
-    if (V.I) { var cr = imgCredits(V); if (cr.img.length) lines.push("📷 Ảnh: " + cr.img.join(" · ")); }
-    if (O.ai) lines.push("", "🤖 " + aiText(O));
+    if (refs.length) { lines.push("", TL.postRefs); refs.slice(0, 8).forEach(function (r) { lines.push("• " + srcLabel(r) + ": " + r.u); }); }
+    if (V.I) { var cr = imgCredits(V); if (cr.img.length) lines.push(TL.photos + cr.img.join(" · ")); }
+    if (O.ai) lines.push("", "🤖 " + (l === "vi" ? aiText(O) : TL.aiText));
+    if (l !== "vi" && O.qrUrl) lines.push("", "✦ " + (O.credit || BRAND_NAME) + " · " + O.qrUrl);
     lines.push("", tags.filter(function (x, i, a) { return x.length > 2 && a.indexOf(x) === i; }).join(" "));
     return lines.join("\n");
   }
@@ -964,6 +1409,7 @@
     var b = (DB().works || []).filter(function (x) { return x.id === id; })[0]; return b ? resolve(b) : null;
   }
   async function produce(w, o, I, ui, isC, onCancel) {
+    await ensureBrand();
     var steps = pickSteps(w, o), NR = narrate(w, o, steps), AP = null;
     if (o.voice === "ai") AP = await AIV.synthNarration(NR, o, ui, isC);
     if (isC()) throw new Error("cancel");
@@ -973,14 +1419,17 @@
     var r = await L.exportVideo(V, { phase: ui.phase, onCancel: onCancel }, mix);
     return { r: r, V: V };
   }
+  function openKeyOf(id, l) { return "av_open_" + id + (l && l !== "vi" ? "@" + l : ""); }
   function batch(ids, bo) {
     bo = bo || {}; var O = loadOpts(), works = (ids || []).map(findWork).filter(Boolean);
-    var S = { aspect: O.aspect, len: "short", res: O.res, voice: O.voice, music: O.music === "file" ? "auto" : O.music, extras: true, dl: O.autoDl !== false, dir: false, yt: !!(O.ytAuto && YT.cid()), ytPrivacy: O.ytPrivacy || "private" };
+    var S = { aspect: O.aspect, len: "short", res: O.res, voice: O.voice, music: O.music === "file" ? "auto" : O.music, extras: true, dl: O.autoDl !== false, dir: false, yt: !!(O.ytAuto && YT.cid()), ytPrivacy: O.ytPrivacy || "private", langs: [O.vlang || "vi"] };
     function segB(k, label, opts) { return '<div><b>' + label + '</b><div class="av-bseg" data-bk="' + k + '">' + opts.map(function (x) { return '<button data-dlg="seg" data-v="' + x[0] + '"' + (String(S[k]) === String(x[0]) ? ' class="on"' : "") + ">" + x[1] + "</button>"; }).join("") + "</div></div>"; }
     var d = dialog(document.body, "📦 Xuất hàng loạt (" + works.length + " tác phẩm)",
       '<div class="av-tip">Máy dựng lần lượt từng video. Hãy để trang này mở (không thu nhỏ trình duyệt) cho tới khi xong; lần đầu Chrome có thể hỏi «cho phép tải nhiều tệp» — bấm Cho phép. Các tuỳ chọn khác (nguồn, nhãn AI, vùng an toàn, chữ ký, mã QR, câu mở đầu, ảnh bìa đã chốt) lấy theo studio.</div>' +
       '<div class="av-grid2">' + segB("aspect", "Khung hình", [["9:16", "▯ Dọc"], ["16:9", "▭ Ngang"], ["1:1", "◻ Vuông"]]) + segB("len", "Độ dài", [["short", "⚡ Ngắn"], ["full", "📖 Đầy đủ"]]) +
       segB("res", "Độ nét", [[720, "720p"], [1080, "1080p"]]) + segB("voice", "Lời đọc", [["ai", "🤖 Giọng AI"], ["off", "🔇 Không"]]) + segB("music", "Nhạc nền", [["auto", "✨ Tự chọn"], ["off", "Tắt"]]) + "</div>" +
+      '<div><b>🌐 Ngôn ngữ video</b><div class="av-bseg">' + LANGS.map(function (l) { return '<label class="av-inl"><input type="checkbox" data-blang="' + l + '"' + (S.langs.indexOf(l) >= 0 ? " checked" : "") + "/> " + LINFO[l].flag + " " + LINFO[l].name + "</label>"; }).join("") +
+      '</div><div class="av-tip">Mỗi tác phẩm xuất một video cho mỗi ngôn ngữ được chọn (giọng đọc theo lựa chọn trong studio). Ảnh bìa chốt một lần cho mỗi khung hình; chữ trên ảnh bìa tự đổi theo ngôn ngữ. Tác phẩm chưa có bản dịch sẽ bị bỏ qua.</div></div>' +
       '<div class="tv-row"><button class="av-mini" data-dlg="all">Chọn tất cả</button><button class="av-mini" data-dlg="none">Bỏ chọn</button><span class="av-tip" data-dlg="cnt"></span></div>' +
       '<div class="av-bl">' + works.map(function (w, i) { var need = (w.img || []).some(function (m) { return m.user; }); return '<label><input type="checkbox" data-bi="' + i + '" checked/> ' + typeOf(w.type).icon + " " + escH(w.title) + (need ? ' <span class="av-tip">(cần ảnh của anh)</span>' : "") + "</label>"; }).join("") + "</div>" +
       '<b>🖼️ Ảnh bìa — phải chốt trước khi xuất</b><div class="av-tip">Xem từng ảnh bìa bên dưới; ảnh nào chưa ưng thì bấm ✏️ để sửa trong studio. Tick «Chốt» (hoặc bấm «Chốt tất cả») rồi mới bắt đầu được.</div>' +
@@ -997,11 +1446,12 @@
     $d('[data-dlg="ytpriv"]').value = S.ytPrivacy;
     FSX.get().then(function (h) { dirH = h; var dn = $d('[data-dlg="dirname"]'); if (dn) dn.textContent = h ? h.name : "(chưa chọn)"; var dc = $d('[data-dlg="dir"]'); if (dc && h) dc.checked = true; });
     function picked() { return Array.prototype.map.call(d.querySelectorAll("[data-bi]:checked"), function (c) { return works[+c.dataset.bi]; }); }
-    function cnt() { $d('[data-dlg="cnt"]').textContent = d.querySelectorAll("[data-bi]:checked").length + " / " + works.length + " được chọn"; }
-    function optsFor(w) { var o = loadOpts(); Object.keys(S).forEach(function (k) { if (["aspect", "len", "res", "voice", "music"].indexOf(k) >= 0) o[k] = S[k]; }); o.music = musicFor(w, o); o.trendText = lsGet("av_open_" + w.id, "") || ""; o.ytPrivacy = S.ytPrivacy; o.coverC = coverLoad(w, o).C; return o; }
+    function cnt() { var nb = d.querySelectorAll("[data-bi]:checked").length; $d('[data-dlg="cnt"]').textContent = nb + " / " + works.length + " được chọn" + (S.langs.length > 1 ? " × " + S.langs.length + " ngôn ngữ = " + nb * S.langs.length + " video" : ""); }
+    function optsFor(w, l) { var o = loadOpts(); Object.keys(S).forEach(function (k) { if (["aspect", "len", "res", "voice", "music"].indexOf(k) >= 0) o[k] = S[k]; }); o.vlang = l || S.langs[0] || "vi"; o.music = musicFor(w, o); o.trendText = lsGet(openKeyOf(w.id, o.vlang), "") || ""; o.ytPrivacy = S.ytPrivacy; o.coverC = coverLoad(w, o).C; return o; }
     var covTok = 0;
     async function covers() {                                   // vẽ ảnh bìa của các tác phẩm đang chọn
-      var my = ++covTok, box = $d('[data-dlg="covers"]'), list = picked(); box.innerHTML = "";
+      var my = ++covTok, box = $d('[data-dlg="covers"]'), list = picked(), l0 = S.langs[0] || "vi"; box.innerHTML = "";
+      await ensureLang(l0); if (my !== covTok) return;
       for (var i = 0; i < list.length; i++) {
         if (my !== covTok) return;
         var w = list[i], o = optsFor(w), ok = !!coverLoad(w, o).ok[S.aspect], it = document.createElement("div");
@@ -1010,7 +1460,7 @@
         box.appendChild(it);
         try {
           var I = IMGS[w.id] || (IMGS[w.id] = await loadWorkImages(w)); if (my !== covTok) return;
-          var dd = L.dims(o), sc = 300 / Math.max(dd.W, dd.H), cw = Math.round(dd.W * sc), ch = Math.round(dd.H * sc), Vs = build(w, o, cw, ch, narrate(w, o, pickSteps(w, o)), null, I), c = it.querySelector("canvas");
+          var dd = L.dims(o), sc = 300 / Math.max(dd.W, dd.H), cw = Math.round(dd.W * sc), ch = Math.round(dd.H * sc), lw = localize(w, l0), Vs = build(lw, o, cw, ch, narrate(lw, o, pickSteps(lw, o)), null, I), c = it.querySelector("canvas");
           c.width = cw; c.height = ch; renderCover(c.getContext("2d"), Vs, o.coverC);
         } catch (er) { it.querySelector("div").innerHTML += ' <span class="av-tip">(lỗi ảnh)</span>'; }
       }
@@ -1024,6 +1474,7 @@
       var t = e.target;
       if (t.dataset.bi != null) { cnt(); clearTimeout(t._t); t._t = setTimeout(covers, 250); }
       if (t.dataset.cok) setOk(t.dataset.cok, t.checked);
+      if (t.dataset.blang) { S.langs = LANGS.filter(function (l) { var c = d.querySelector('[data-blang="' + l + '"]'); return c && c.checked; }); if (!S.langs.length) { t.checked = true; S.langs = [t.dataset.blang]; } cnt(); covers(); }
       if (t.dataset.dlg === "extras") S.extras = t.checked; if (t.dataset.dlg === "dl") S.dl = t.checked; if (t.dataset.dlg === "yt") S.yt = t.checked; if (t.dataset.dlg === "ytpriv") S.ytPrivacy = t.value;
     });
     d.addEventListener("click", async function (e) {
@@ -1044,35 +1495,38 @@
       if (useYt) { try { await YT.token(); } catch (er) { alert("⚠️ YouTube: " + (er && er.message || er) + "\nVideo vẫn được xuất, chưa đăng YouTube."); useYt = false; } }
       if (useDir && !(await FSX.ensure(dirH))) { useDir = false; alert("Trình duyệt chưa cho ghi vào thư mục — video sẽ được tải về thư mục Tải về."); }
       running = true; cancelled = false; b2(true); done = [];
+      for (var li = 0; li < S.langs.length; li++) await ensureLang(S.langs[li]);
+      var jobs = []; pick.forEach(function (w) { S.langs.forEach(function (l) { jobs.push({ w: w, l: l }); }); });
       try { if (navigator.wakeLock) lock = await navigator.wakeLock.request("screen"); } catch (e) { lock = null; }
       var prog = $d('[data-dlg="prog"]'), ph = $d('[data-dlg="ph"]'), bar = prog.querySelector(".tv-bar i"), res = $d('[data-dlg="res"]'), ok = 0;
       prog.style.display = "block";
-      for (var n = 0; n < pick.length && !cancelled; n++) {
-        var w = pick[n], head = "[" + (n + 1) + "/" + pick.length + "] " + w.title + " · ";
-        var ui = { phase: function (txt, f) { ph.textContent = head + txt; bar.style.width = Math.round(clamp((n + clamp(f || 0, 0, 1)) / pick.length, 0, 1) * 100) + "%"; } };
-        var row = document.createElement("div"); row.className = "av-brow"; row.innerHTML = "⏳ " + escH(w.title); res.appendChild(row);
+      for (var n = 0; n < jobs.length && !cancelled; n++) {
+        var w0 = jobs[n].w, lg = jobs[n].l, w = localize(w0, lg), tag = (S.langs.length > 1 || lg !== "vi" ? LINFO[lg].flag + " " : ""), head = "[" + (n + 1) + "/" + jobs.length + "] " + tag + w0.title + " · ";
+        var ui = { phase: function (txt, f) { ph.textContent = head + txt; bar.style.width = Math.round(clamp((n + clamp(f || 0, 0, 1)) / jobs.length, 0, 1) * 100) + "%"; } };
+        var row = document.createElement("div"); row.className = "av-brow"; row.innerHTML = "⏳ " + tag + escH(w0.title); res.appendChild(row);
         try {
+          if (lg !== "vi" && w.trMissing < 0) { row.innerHTML = "⏭️ " + tag + escH(w0.title) + ' <span class="av-tip">— bỏ qua: chưa có bản dịch ' + escH(LINFO[lg].name) + " (mở studio → 🌐 → 🤖 Nhờ AI dịch)</span>"; continue; }
           ui.phase("Đang tải ảnh…", 0);
-          var I = IMGS[w.id] || (IMGS[w.id] = await loadWorkImages(w));
-          if (!I.some(function (m) { return m && m.ok; })) { row.innerHTML = "⏭️ " + escH(w.title) + ' <span class="av-tip">— bỏ qua: chưa có ảnh (tranh còn bản quyền cần ảnh của anh)</span>'; continue; }
-          var o = optsFor(w);
+          var I = IMGS[w0.id] || (IMGS[w0.id] = await loadWorkImages(w0));
+          if (!I.some(function (m) { return m && m.ok; })) { row.innerHTML = "⏭️ " + tag + escH(w0.title) + ' <span class="av-tip">— bỏ qua: chưa có ảnh (tranh còn bản quyền cần ảnh của anh)</span>'; continue; }
+          var o = optsFor(w0, lg);
           var out = await produce(w, o, I, ui, function () { return cancelled; }, function (fn) { cancelFn = fn; });
-          var base = L.slug(w.title) + "-" + o.aspect.replace(":", "x") + (o.len === "short" ? "-ngan" : ""), name = base + "." + out.r.ext, url = URL.createObjectURL(out.r.blob); urls.push(url);
+          var base = L.slug(w0.title) + "-" + o.aspect.replace(":", "x") + (o.len === "short" ? "-ngan" : "") + (lg !== "vi" ? "-" + lg : ""), name = base + "." + out.r.ext, url = URL.createObjectURL(out.r.blob); urls.push(url);
           var files = S.extras ? await bundleFiles(w, out.V, out.r, base) : [{ name: name, blob: out.r.blob, kind: "video" }], notes = [];
           if (S.dl) { files.forEach(function (f, i) { setTimeout(function () { L.dl(f.blob, f.name); }, i * 450); }); notes.push("đã tải về"); }
-          if (useDir) { try { for (var fi = 0; fi < files.length; fi++) await FSX.write(dirH, L.slug(w.title), files[fi].name, files[fi].blob); notes.push("đã lưu vào «" + escH(dirH.name + "/" + L.slug(w.title)) + "»"); } catch (er) { notes.push("⚠️ lưu thư mục lỗi: " + escH(er.message)); } }
-          ok++; row.innerHTML = '✅ <a href="' + url + '" download="' + escH(name) + '">' + escH(name) + "</a> · " + (out.r.blob.size / 1048576).toFixed(1) + " MB · " + fmtClock(out.V.total) + (notes.length ? " · " + notes.join(" · ") : "");
+          if (useDir) { try { for (var fi = 0; fi < files.length; fi++) await FSX.write(dirH, L.slug(w0.title), files[fi].name, files[fi].blob); notes.push("đã lưu vào «" + escH(dirH.name + "/" + L.slug(w0.title)) + "»"); } catch (er) { notes.push("⚠️ lưu thư mục lỗi: " + escH(er.message)); } }
+          ok++; row.innerHTML = "✅ " + tag + '<a href="' + url + '" download="' + escH(name) + '">' + escH(name) + "</a> · " + (out.r.blob.size / 1048576).toFixed(1) + " MB · " + fmtClock(out.V.total) + (notes.length ? " · " + notes.join(" · ") : "");
           var item = { w: w, o: o, V: out.V, files: files.length > 1 ? files : await bundleFiles(w, out.V, out.r, base), row: row, yt: null }; done.push(item);
           if (useYt && !cancelled) { ui.phase("Đang đăng YouTube…", 1); await ytOne(item); }
         } catch (er) {
-          if (String(er && er.message) === "cancel" || cancelled) { row.innerHTML = "⏹ " + escH(w.title) + " — đã dừng"; break; }
-          row.innerHTML = "⚠️ " + escH(w.title) + " — lỗi: " + escH(er && er.message || er);
+          if (String(er && er.message) === "cancel" || cancelled) { row.innerHTML = "⏹ " + tag + escH(w0.title) + " — đã dừng"; break; }
+          row.innerHTML = "⚠️ " + tag + escH(w0.title) + " — lỗi: " + escH(er && er.message || er);
         }
         cancelFn = null; await sleep(300);
       }
       try { AIV.dispose(); } catch (e) { }
       if (lock) try { await lock.release(); } catch (e) { } lock = null;
-      ph.textContent = (cancelled ? "Đã dừng. " : "Xong! ") + ok + "/" + pick.length + " video đã xuất."; if (!cancelled) bar.style.width = "100%";
+      ph.textContent = (cancelled ? "Đã dừng. " : "Xong! ") + ok + "/" + jobs.length + " video đã xuất."; if (!cancelled) bar.style.width = "100%";
       var miss = done.filter(function (x) { return !x.yt; });
       if (useYt && miss.length) { var rr2 = document.createElement("div"); rr2.innerHTML = '<button class="tv-b" data-dlg="ytrest">▶️ Đăng nốt ' + miss.length + " video lên YouTube</button>"; res.appendChild(rr2); }
       running = false; b2(false);
@@ -1092,7 +1546,7 @@
       for (var i = 0; i < miss.length; i++) await ytOne(miss[i]);
       btn.closest("div").remove();
     }
-    function b2(on) { $d('[data-dlg="start"]').classList.toggle("tv-hide", on); $d('[data-dlg="stop"]').classList.toggle("tv-hide", !on); d.querySelectorAll("[data-bi],[data-dlg=all],[data-dlg=none],[data-dlg=extras],[data-dlg=dl],[data-dlg=dir],[data-dlg=yt],[data-dlg=okall],[data-cok]").forEach(function (x) { x.disabled = on; }); }
+    function b2(on) { $d('[data-dlg="start"]').classList.toggle("tv-hide", on); $d('[data-dlg="stop"]').classList.toggle("tv-hide", !on); d.querySelectorAll("[data-bi],[data-blang],[data-dlg=all],[data-dlg=none],[data-dlg=extras],[data-dlg=dl],[data-dlg=dir],[data-dlg=yt],[data-dlg=okall],[data-cok]").forEach(function (x) { x.disabled = on; }); }
     return d;
   }
 
@@ -1164,12 +1618,14 @@
     if (x.status === 401) YT.tok = null;
     return new Error("YouTube báo lỗi " + x.status + (m ? ": " + m : "") + (x.status === 403 && /quota/i.test(m) ? " (đã hết hạn mức tải lên trong ngày)" : ""));
   }
-  function ytTitle(w, V, O) { var t = O && O.ytTitle && String(O.ytTitle).trim(); return (t || "Giải mã " + (/[«»"]/.test(w.title) ? w.title : "«" + w.title + "»") + (/:/.test(w.title) ? " — " : ": ") + V.steps.length + " chi tiết ít ai để ý").replace(/[<>]/g, "").slice(0, 100); }
+  function ytTitle(w, V, O) {
+    var l = V.lang || "vi"; if (l !== "vi") return TXL(l).yt(quoteT(w.title, l), V.steps.length).replace(/[<>]/g, "").slice(0, 100);
+    var t = O && O.ytTitle && String(O.ytTitle).trim(); return (t || "Giải mã " + (/[«»"]/.test(w.title) ? w.title : "«" + w.title + "»") + (/:/.test(w.title) ? " — " : ": ") + V.steps.length + " chi tiết ít ai để ý").replace(/[<>]/g, "").slice(0, 100); }
   function ytMeta(w, V, O) {
     var desc = postText(w, V) + "\n\n" + chapters(V) + (V.H > V.W ? "\n\n#Shorts" : ""), seen = {};
-    var tags = (desc.match(/#[\p{L}\p{N}_]+/gu) || []).map(function (x) { return x.slice(1); }).concat(["giải mã tác phẩm", w.title]).filter(function (x) { var k = x.toLowerCase(); if (seen[k]) return false; seen[k] = 1; return true; });
+    var tags = (desc.match(/#[\p{L}\p{N}_]+/gu) || []).map(function (x) { return x.slice(1); }).concat(["giải mã tác phẩm", w.title, w.titleVi || ""]).filter(Boolean).filter(function (x) { var k = x.toLowerCase(); if (seen[k]) return false; seen[k] = 1; return true; });
     var tl = 0; tags = tags.filter(function (x) { tl += x.length + 3; return tl < 480; });
-    return { snippet: { title: ytTitle(w, V, O), description: desc.replace(/[<>]/g, "").slice(0, 4900), tags: tags, categoryId: "27", defaultLanguage: "vi", defaultAudioLanguage: "vi" },
+    return { snippet: { title: ytTitle(w, V, O), description: desc.replace(/[<>]/g, "").slice(0, 4900), tags: tags, categoryId: "27", defaultLanguage: LINFO[V.lang || "vi"].yt, defaultAudioLanguage: LINFO[V.lang || "vi"].yt },
              status: { privacyStatus: O.ytPrivacy || "private", selfDeclaredMadeForKids: false, containsSyntheticMedia: !!(O.ai && O.voice === "ai") } };
   }
   // 14c. các tệp đi kèm một video
@@ -1194,7 +1650,7 @@
   /* ---------------- 9. studio ---------------- */
   function open(work0, opts) {
     opts = opts || {}; ensureCSS();
-    var w = resolve(work0), O = loadOpts(), I = [], V = null, NRc = null, AUD = { nk: null, AP: null, mk: null, mix: null }, player = L.AudioPlayer();
+    var w0 = resolve(work0), w = w0, O = loadOpts(), I = [], V = null, NRc = null, AUD = { nk: null, AP: null, mk: null, mix: null }, player = L.AudioPlayer();
     var userMusic = null, userMusicName = "", playing = false, raf = 0, last = 0, t = 0, atPoster = false, busy = false, cancelFn = null, dirty = true, editMode = false;
     var ov = document.createElement("div"); ov.className = "tv-ov";
     function seg3(k, label, o) { return '<div class="tv-f"><b>' + label + '</b><div class="tv-seg" data-k="' + k + '">' + o.map(function (x) { return '<button data-val="' + x[0] + '"' + (x[2] ? ' title="' + escH(x[2]) + '"' : "") + ">" + x[1] + "</button>"; }).join("") + "</div></div>"; }
@@ -1210,9 +1666,11 @@
       '<div class="tv-prog" data-v="prog"><b data-v="phase">…</b><div class="tv-bar"><i></i></div><button class="tv-b" data-a="cancel">Huỷ</button></div>' +
       '<div class="tv-res" data-v="res"></div></div>' +
       '<div class="tv-set">' +
+      '<div class="tv-f tv-sub"><b>🌐 Ngôn ngữ video</b><div class="tv-seg av-langs" data-k="vlang">' + LANGS.map(function (l) { return '<button data-val="' + l + '">' + LINFO[l].flag + " " + LINFO[l].name + "</button>"; }).join("") + "</div>" +
+      '<div class="tv-note" data-v="trinfo"></div><div class="tv-row av-btns" data-v="trbtns"><button data-a="trai">🤖 Nhờ AI dịch / dịch lại</button><button data-a="trclear">↺ Dùng bản dịch có sẵn</button></div></div>' +
       '<div class="tv-f tv-sub"><b>💬 Câu mở đầu</b><div class="tv-chk">' + chk("trend", "Có câu mở đầu (chữ lớn + lời đọc)") + '</div>' +
       '<div class="tv-row av-op"><select data-v="opsel" title="Gợi ý câu mở đầu"></select><button class="tv-b" data-a="oprnd" title="Đổi sang một gợi ý khác">🎲 Gợi ý khác</button></div>' +
-      '<input type="text" data-o="trendText"/><div class="tv-note">Chọn gợi ý hoặc tự gõ; để trống là câu trend «Giờ thì tôi mới hiểu…». Câu đã chọn được nhớ riêng cho tác phẩm này.</div></div>' +
+      '<input type="text" data-o="trendText"/><div class="tv-note">Chọn gợi ý hoặc tự gõ; để trống là câu trend «Giờ thì tôi mới hiểu…». Câu đã chọn được nhớ riêng cho tác phẩm này (và riêng từng ngôn ngữ). Viết {chữ hiện|cách đọc} để giọng AI đọc đúng số, ví dụ {10|ten}.</div></div>' +
       '<div class="tv-f tv-sub av-cov" data-v="covbox"><b>🖼️ Ảnh bìa <span class="av-covst" data-v="covst"></span></b>' +
       '<div class="tv-row"><button class="tv-b" data-a="covview">👁 Xem ảnh bìa</button><button class="tv-b gold" data-a="covok">✅ Chốt ảnh bìa</button></div>' +
       '<div class="av-g2"><label>Nền<select data-cv="bg"></select></label><label>Tâm điểm<select data-cv="focus"></select></label></div>' +
@@ -1228,6 +1686,7 @@
       seg3("res", "Độ nét", [[720, "720p"], [1080, "1080p (nét)"]]) +
       seg3("pace", "Nhịp máy quay", [["fast", "Nhanh"], ["mid", "Vừa"], ["slow", "Chậm"]]) +
       '<div class="tv-f tv-sub"><b>🎙️ Thuyết minh</b><div class="tv-seg" data-k="voice"><button data-val="ai">🤖 Giọng AI — có tiếng trong video</button><button data-val="off">🔇 Không đọc (chỉ chữ)</button></div>' +
+      '<div class="tv-row av-op" data-show="ai"><select data-v="vsel" title="Giọng đọc cho ngôn ngữ đang chọn"></select><button class="tv-b" data-a="vtest">▶ Nghe thử giọng</button></div>' +
       '<div class="tv-seg" data-k="rate" data-show="ai"><button data-val="0.9">🐢 Chậm</button><button data-val="1">Vừa</button><button data-val="1.12">🐇 Nhanh</button></div><div class="tv-note" data-v="aiinfo"></div></div>' +
       '<div class="tv-f tv-sub"><b>🎵 Nhạc nền</b><div class="tv-seg" data-k="music">' + musicBtns + '</div>' +
       '<input type="file" accept="audio/*,.mp3,.m4a,.aac,.wav,.ogg,.opus,.flac" data-v="mfile" class="tv-hide"/>' +
@@ -1249,13 +1708,13 @@
       '<div class="tv-row"><button class="tv-b" data-a="ytconn">🔑 Kết nối YouTube</button><span class="tv-lbl" data-v="ytst"></span><button class="tv-b" data-a="ytset">⚙️ Cài đặt</button></div></div>' +
       '<div class="tv-note">Facebook, TikTok, Instagram chỉ cho đăng thẳng qua máy chủ riêng, nên sau khi xuất sẽ có nút cho từng mạng: lời đăng được chép sẵn, trang đăng mở ra, anh kéo tệp video vào.</div></div>' +
       '<div class="tv-go"><button class="tv-b navy" data-a="export">⬇️ Xuất video MP4</button><button class="tv-b" data-a="post">📋 Chữ đăng bài + hashtag</button></div>' +
-      '<div class="tv-note">Ảnh: Wikimedia Commons (phạm vi công cộng / giấy phép mở, tên tác giả ảnh hiện ở cuối video) hoặc ảnh của anh. Giọng AI chạy ngay trên máy: Piper — VAIS-1000 (CC BY 4.0). Nhạc dựng sẵn do trình duyệt tự tổng hợp. Video không trích lời bài hát.</div>' +
+      '<div class="tv-note">Ảnh: Wikimedia Commons (phạm vi công cộng / giấy phép mở, tên tác giả ảnh hiện ở cuối video) hoặc ảnh của anh. Giọng AI chạy ngay trên máy: Piper (VAIS-1000 CC BY 4.0, Denis CC0, LJSpeech, Chaowen CC0) hoặc Supertonic 3 (10 giọng, OpenRAIL-M — phải ghi rõ có dùng AI). Nhạc dựng sẵn do trình duyệt tự tổng hợp. Video không trích lời bài hát.</div>' +
       "</div></div>" +
       '<div class="tv-main tv-hide" data-v="editor"></div></div>';
     document.body.appendChild(ov);
     var $ = function (s) { return ov.querySelector(s); }, canvas = $("canvas"), ctx = canvas.getContext("2d", { alpha: false });
     $('[data-o="credit"]').value = O.credit || ""; $('[data-o="qrUrl"]').value = O.qrUrl || ""; $('[data-o="musicVol"]').value = Math.round((+O.musicVol || 0) * 100); $('[data-o="aiText"]').value = O.aiText || "";
-    var trendInp = $('[data-o="trendText"]'); trendInp.value = lsGet("av_open_" + w.id, "") || "";
+    var trendInp = $('[data-o="trendText"]'); trendInp.value = lsGet(openKeyOf(w0.id, O.vlang), "") || "";
     var CV = coverLoad(w, O), coverMode = false, dirH = null, cvSaveT = 0;
     $('[data-o="ytTitle"]').value = O.ytTitle || "";
     FSX.get().then(function (h) { dirH = h; syncPub(); });
@@ -1271,7 +1730,7 @@
       (w.steps || []).forEach(function (s2, j) { if (!s2.card && s2.b && (s2.i || 0) === C.k) fh += '<option value="' + j + '"' + (C.focus === j ? " selected" : "") + ">Chi tiết " + (j + 1) + " · " + escH(String(s2.tag || "").slice(0, 34)) + "</option>"; });
       fo.innerHTML = fh; fo.disabled = C.src !== "img";
       $('[data-cv="zoom"]').value = Math.round((+C.zoom || 1) * 100); $('[data-cv="dim"]').value = Math.round((C.dim == null ? 0.55 : +C.dim) * 100);
-      ["l1", "l2", "l3"].forEach(function (k) { var el = $('[data-cv="' + k + '"]'); if (document.activeElement !== el) el.value = C[k] || ""; });
+      var CLn = coverLines(C, O.vlang, O); ["l1", "l2", "l3"].forEach(function (k) { var el = $('[data-cv="' + k + '"]'); if (document.activeElement !== el) el.value = CLn[k] || ""; });
       ov.querySelectorAll('[data-a="covfit"]').forEach(function (b) { b.classList.toggle("on", (C.fit || "fill") === b.dataset.val); });
       ov.querySelectorAll('[data-a="covpos"]').forEach(function (b) { b.classList.toggle("on", (C.pos || "mid") === b.dataset.val); });
       $('[data-a="covview"]').textContent = coverMode ? "🎬 Về xem video" : "👁 Xem ảnh bìa";
@@ -1291,34 +1750,88 @@
       $('[data-v="ytst"]').textContent = YT.has() ? "✅ " + (YT.ch || "đã kết nối") : YT.cid() ? "chưa kết nối" : "chưa cài đặt — bấm ⚙️";
       if (O.ytAuto && YT.cid()) YT.gis().catch(function () { });
     }
-    function saveOpener() { lsSet("av_open_" + w.id, trendInp.value.trim() ? trendInp.value.trim() : null); }
+    function saveOpener() { lsSet(openKeyOf(w0.id, O.vlang), trendInp.value.trim() ? trendInp.value.trim() : null); }
     function fillOpeners() {
-      var sel = $('[data-v="opsel"]'), list = openerList(w, effO()), cur = trendInp.value.trim(), g = "", html = '<option value="">— Câu trend «Giờ thì tôi mới hiểu…» —</option>';
-      list.forEach(function (o, i) { if (o.g !== g) { if (g) html += "</optgroup>"; html += '<optgroup label="' + escH(o.g) + '">'; g = o.g; } html += '<option value="' + i + '"' + (o.t === cur ? " selected" : "") + ">" + escH(o.t.length > 92 ? o.t.slice(0, 90) + "…" : o.t) + "</option>"; });
+      var sel = $('[data-v="opsel"]'), list = openerList(w, effO()), cur = trendInp.value.trim(), g = "", html = '<option value="">— ' + ((O.vlang || "vi") === "vi" ? "Câu trend «Giờ thì tôi mới hiểu…»" : "Câu trend (" + LINFO[O.vlang].name + ")") + " —</option>";
+      list.forEach(function (o, i) { if (o.g !== g) { if (g) html += "</optgroup>"; html += '<optgroup label="' + escH(o.g) + '">'; g = o.g; } var lb = disp(o.t); html += '<option value="' + i + '"' + (o.t === cur ? " selected" : "") + ">" + escH(lb.length > 92 ? lb.slice(0, 90) + "…" : lb) + "</option>"; });
       if (g) html += "</optgroup>";
       if (cur && !list.some(function (o) { return o.t === cur; })) html += '<option value="custom" selected>✏️ Câu anh tự gõ</option>';
       sel.innerHTML = html; sel._list = list; sel.disabled = !O.trend;
     }
-    function narrKey() { return JSON.stringify([w.id, w.edited ? JSON.stringify(w.steps).length + (w.hook || "").length : 0, O.len, O.voice, O.rate, O.trend, trendLine(w, effO()), O.qr && O.qrUrl ? 1 : 0, O.ai && O.aiSay ? (O.aiText || 1) : 0]); }
+    function curTrend(o) { return (O.vlang || "vi") === "vi" ? trendLine(w, o) : trendLineX(w, o, O.vlang); }
+    function narrKey() { var tr = (O.vlang || "vi") !== "vi" ? lsGet(trKey(O.vlang, w0.id), null) : null; return JSON.stringify([w.id, O.vlang || "vi", AIV.voiceFor(O.vlang || "vi", O), tr && tr.at || 0, w.edited ? JSON.stringify(w.steps).length + (w.hook || "").length : 0, O.len, O.voice, O.rate, O.trend, curTrend(effO()), O.qr && O.qrUrl ? 1 : 0, O.ai && O.aiSay ? (O.aiText || 1) : 0]); }
     function mixKey(Vx) { return narrKey() + "|" + musicFor(w, O) + "|" + O.musicVol + "|" + userMusicName + "|" + Vx.total.toFixed(3); }
     function syncUI() {
-      $('[data-v="title"]').textContent = w.title;
+      $('[data-v="title"]').textContent = w.title + (w.titleVi && w.titleVi !== w.title ? " · " + w.titleVi : "");
       ov.querySelectorAll(".tv-seg").forEach(function (sg) { var k = sg.dataset.k; sg.querySelectorAll("button").forEach(function (b) { b.classList.toggle("on", String(O[k]) === b.dataset.val); }); });
       ov.querySelectorAll("[data-c]").forEach(function (c) { c.checked = !!O[c.dataset.c]; });
       ov.querySelectorAll("[data-show]").forEach(function (el) { el.classList.toggle("tv-hide", el.dataset.show.split(" ").indexOf(O.voice) < 0); });
       ov.querySelectorAll("[data-show-qr]").forEach(function (el) { el.classList.toggle("tv-hide", !O.qr); });
-      trendInp.placeholder = trendLine(w, Object.assign({}, O, { trendText: "" })); trendInp.disabled = !O.trend; fillOpeners();
+      trendInp.placeholder = disp(curTrend(Object.assign({}, O, { trendText: "" }))); trendInp.disabled = !O.trend; fillOpeners();
       ov.querySelectorAll("[data-show-ai]").forEach(function (el) { el.classList.toggle("tv-hide", !O.ai); });
       CV.ok = coverLoad(w, O).ok; syncCover(); syncPub();
       $('[data-a="export"]').textContent = "⬇️ Xuất video MP4 " + (O.voice === "ai" ? (O.music !== "off" ? "(lời đọc + nhạc)" : "(có lời đọc)") : O.music !== "off" ? "(chỉ có nhạc)" : "(không tiếng)");
       var mu = musicFor(w, O); $('[data-v="minfo"]').textContent = O.music === "file" ? (userMusicName ? "🎵 " + userMusicName : "Chọn một tệp nhạc trên máy (MP3, M4A, WAV…)") : O.music === "off" ? "" : (O.music === "auto" ? "Tự chọn: " + (MUSIC.PRE[mu] ? MUSIC.PRE[mu].name : mu) + " · " : "") + "Nhạc tự nhỏ lại khi có lời đọc.";
-      aiInfo(); audLabel();
+      aiInfo(); audLabel(); trInfo(); fillVoices();
+    }
+    function trInfo() {
+      var l = O.vlang || "vi", el = $('[data-v="trinfo"]'), bt = $('[data-v="trbtns"]');
+      bt.classList.toggle("tv-hide", l === "vi");
+      if (l === "vi") { el.innerHTML = "Video tiếng Việt — kịch bản gốc."; return; }
+      var st = trStatus(w0, l), nm = LINFO[l].name;
+      $('[data-a="trclear"]').classList.toggle("tv-hide", !st.mine);
+      el.innerHTML = st.none ? '<b style="color:#b23b34">⚠️ Tác phẩm này chưa có bản dịch ' + escH(nm) + "</b> — bấm 🤖 Nhờ AI dịch (dán kết quả JSON vào là xong)."
+        : st.miss ? "⚠️ " + st.miss + " chi tiết chưa có bản dịch (anh đã sửa kịch bản tiếng Việt) — các chi tiết này sẽ được đọc bằng tiếng Việt. Bấm 🤖 để dịch lại cả bài."
+        : "✅ Bản dịch " + escH(nm) + (st.mine ? " của anh (nhờ AI dịch)." : " có sẵn (Claude dịch, đã kiểm tra tên riêng và cách đọc số).") + " Tên tác phẩm gốc tiếng Việt vẫn hiện trên video. Nên nhờ người biết tiếng xem lại trước khi đăng." +
+          (st.stale ? " ⚠️ " + st.stale + " chi tiết anh đã sửa tiếng Việt sau khi dịch — nếu đã đổi ý thì bấm 🤖 để dịch lại." : "");
+    }
+    function voiceLabel(v) { var d = AIV.VOICES[v]; if (!d) return v; if (d.eng === "st") return "🌟 Supertonic · " + (d.g === "nữ" ? "Nữ " : "Nam ") + d.style.slice(1) + " (" + d.style + ")"; return "🎙️ Piper · " + d.name + (d.g ? " (" + d.g + ")" : "") + " · " + d.lic; }
+    function fillVoices() {
+      var sel = $('[data-v="vsel"]'), l = O.vlang || "vi", cur = AIV.voiceFor(l, O);
+      sel.innerHTML = AIV.voicesFor(l).map(function (v) { return '<option value="' + v + '"' + (v === cur ? " selected" : "") + ">" + escH(voiceLabel(v)) + "</option>"; }).join("");
+    }
+    async function setLang(l) {
+      if (LANGS.indexOf(l) < 0) l = "vi";
+      O.vlang = l; saveOpts(O);
+      if (l !== "vi") { $('[data-v="scene"]').textContent = "⏳ Đang tải bản dịch " + LINFO[l].name + "…"; await ensureLang(l); }
+      w = localize(w0, l); AUD.nk = null; AUD.mk = null; player.set(null);
+      trendInp.value = lsGet(openKeyOf(w0.id, l), "") || "";
+      syncUI(); rebuild();
+    }
+    function openTrAI() {
+      var l = O.vlang || "vi"; if (l === "vi") return;
+      var d = dialog(ov, "🤖 Nhờ AI dịch sang " + escH(LINFO[l].name),
+        '<div class="av-tip"><b>Cách dùng:</b> bấm <b>📋 Chép lệnh</b>, dán vào Claude hoặc ChatGPT, rồi dán khối JSON trả về vào ô dưới và bấm <b>📥 Lưu bản dịch</b>. Bản dịch lưu trên máy này và được ưu tiên hơn bản có sẵn. Hãy đọc lại tên riêng và nhờ người biết tiếng xem giúp trước khi đăng.</div>' +
+        '<div class="tv-go" style="flex-direction:row;flex-wrap:wrap"><button class="tv-b navy" data-dlg="copy">📋 Chép lệnh</button><button class="tv-b" data-dlg="show">👁 Xem lệnh</button><button class="tv-b" data-dlg="cur">📤 Chép bản dịch đang dùng (để sửa tay)</button></div>' +
+        '<textarea class="av-post tv-hide" data-dlg="prompt" readonly></textarea>' +
+        '<label>Dán JSON bản dịch vào đây<textarea class="av-post" data-dlg="json" placeholder="{ &quot;title&quot;: …, &quot;steps&quot;: [ … ] }"></textarea></label>' +
+        '<div class="tv-go" style="flex-direction:row;flex-wrap:wrap"><button class="tv-b navy" data-dlg="imp">📥 Lưu bản dịch</button></div><div class="av-tip" data-dlg="rep"></div>');
+      d.addEventListener("click", async function (e) {
+        var b2 = e.target.closest("[data-dlg]"); if (!b2) return; var k = b2.dataset.dlg, ta = d.querySelector('[data-dlg="prompt"]'), rep2 = d.querySelector('[data-dlg="rep"]');
+        if (k === "copy") { var txt = trPrompt(w0, l); ta.value = txt; if (await copyText(txt)) b2.textContent = "✅ Đã chép — dán vào Claude/ChatGPT"; else { ta.classList.remove("tv-hide"); ta.select(); } }
+        else if (k === "show") { ta.value = trPrompt(w0, l); ta.classList.toggle("tv-hide"); }
+        else if (k === "cur") { var cur = trOf(w0, l); var tx = JSON.stringify(cur ? Object.assign({}, cur, { _mine: undefined }) : {}, null, 1); d.querySelector('[data-dlg="json"]').value = tx; await copyText(tx); b2.textContent = "✅ Đã chép và dán vào ô dưới"; }
+        else if (k === "imp") {
+          try { var r2 = applyTr(w0, l, parseAIJSON(d.querySelector('[data-dlg="json"]').value)); w = localize(w0, l); AUD.nk = null; AUD.mk = null; player.set(null); syncUI(); rebuild(); rep2.style.color = "#1d6b43"; rep2.textContent = "✅ Đã lưu bản dịch (" + r2.n + " chi tiết)."; }
+          catch (er) { rep2.style.color = "#b23b34"; rep2.textContent = "⚠️ " + (er && er.message || er); }
+        }
+      });
+    }
+    async function voiceTest(btn) {
+      var o = effO(), l = o.vlang || "vi", T = TXL(l), NRs = { s: [{ c: T.sample, segs: [{ l: l, t: l === "vi" ? T.sample : speakX(T.sample, l) }] }] };
+      var ap = await withProgress(function (u2, isC) { return AIV.synthNarration(NRs, o, u2, isC); }); if (!ap) return;
+      var cl = ap.scenes.s && ap.scenes.s.clips[0]; if (!cl) return;
+      try { var AC = global.AudioContext || global.webkitAudioContext, ac = new AC(), buf = ac.createBuffer(1, cl.pcm.length, cl.sr); buf.getChannelData(0).set(cl.pcm); var sn = ac.createBufferSource(); sn.buffer = buf; sn.connect(ac.destination); sn.start(); sn.onended = function () { try { ac.close(); } catch (e) { } }; } catch (e) { }
+      aiInfo();
     }
     async function aiInfo() {
       var el = $('[data-v="aiinfo"]'); if (O.voice !== "ai") { el.textContent = ""; return; }
       if (!AIV.supported()) { el.textContent = "⚠️ Trình duyệt này chưa chạy được giọng AI — hãy dùng Chrome hoặc Edge bản mới."; return; }
       var info = {}; try { info = await AIV.storageInfo(); } catch (e) { }
-      el.textContent = "Giọng AI tiếng Việt: " + AIV.VOICES.vi.name + " (" + AIV.VOICES.vi.g + "). " + (info.vi ? "✅ Đã có sẵn trên máy." : "Lần đầu cần tải khoảng " + (AIV.VOICES.vi.mb + 30) + " MB (lưu lại, lần sau dùng ngay).");
+      var l = O.vlang || "vi", vid = AIV.voiceFor(l, O), vd = AIV.VOICES[vid]; if (!vd) { el.textContent = "⚠️ Chưa có giọng AI cho " + LINFO[l].name + "."; return; }
+      var st = vd.eng === "st", has = !!info[vid], ei = AIV.engineInfo ? AIV.engineInfo() : {};
+      el.textContent = "Giọng " + LINFO[l].name + ": " + (st ? "Supertonic 3 · " + (vd.g === "nữ" ? "nữ " : "nam ") + vd.style.slice(1) : "Piper · " + vd.name + (vd.g ? " (" + vd.g + ")" : "")) + " — giấy phép " + vd.lic + ". " + (has ? "✅ Đã có sẵn trên máy." : "Lần đầu cần tải khoảng " + (vd.mb + (st ? 0 : 30)) + " MB (lưu lại, lần sau dùng ngay).") +
+        (st ? " Supertonic chạy nhanh hơn nhiều trên máy có WebGPU (Chrome/Edge bản mới)" + (ei.st ? " — đang dùng " + ei.st.toUpperCase() : "") + "." : "") + (l === "zh" ? " Giọng Trung đọc qua phiên âm pinyin." : "");
     }
     function audLabel() {
       var need = O.voice === "ai" || O.music !== "off", ok = player.has();
@@ -1376,6 +1889,7 @@
     // xuất: phải chốt ảnh bìa; xin quyền YouTube / thư mục ngay lúc bấm (trình duyệt chỉ cho mở cửa sổ đăng nhập khi người dùng vừa bấm)
     async function startExport() {
       if (busy) return;
+      if ((O.vlang || "vi") !== "vi" && w.trMissing < 0) { alert("Tác phẩm này chưa có bản dịch " + LINFO[O.vlang].name + ". Bấm 🤖 Nhờ AI dịch (mục 🌐 Ngôn ngữ video) hoặc chọn lại tiếng Việt."); return; }
       CV.ok = coverLoad(w, O).ok; if (!CV.ok[O.aspect]) { coverGate(); return; }
       var pre = {};
       if (O.ytAuto && YT.cid()) { try { await YT.token(); pre.yt = true; YT.channel().then(syncPub).catch(function () { }); } catch (er) { pre.ytErr = er && er.message || String(er); } }
@@ -1401,13 +1915,14 @@
       pre = pre || {};
       var res = $('[data-v="res"]'); res.style.display = "none";
       var out = await withProgress(async function (u2, isC) {
+        await ensureBrand();
         var b = (O.voice === "ai" || O.music !== "off") ? await buildAudio(u2, isC) : { V: V, mix: null };
         if (O.qr && O.qrUrl) { await L.ensureQR(); L.qrCanvas(O.qrUrl); }
         var x = await L.exportVideo(b.V, { phase: u2.phase, onCancel: function (fn) { cancelFn = fn; } }, b.mix);
         return { r: x, V: b.V };
       });
       if (!out) return; rebuild();
-      var r = out.r, Vx = out.V, url = URL.createObjectURL(r.blob), base = L.slug(w.title) + "-" + O.aspect.replace(":", "x") + (O.len === "short" ? "-ngan" : ""), name = base + "." + r.ext, mb = (r.blob.size / 1048576).toFixed(1);
+      var r = out.r, Vx = out.V, url = URL.createObjectURL(r.blob), base = L.slug(w0.title) + "-" + O.aspect.replace(":", "x") + (O.len === "short" ? "-ngan" : "") + ((O.vlang || "vi") !== "vi" ? "-" + O.vlang : ""), name = base + "." + r.ext, mb = (r.blob.size / 1048576).toFixed(1);
       res.style.display = "block";
       res.innerHTML = "<b>✅ Xong: " + escH(name) + " · " + mb + " MB · " + fmtClock(Vx.total) + (r.audio ? (O.voice === "ai" ? " · 🔊 có lời đọc" + (O.music !== "off" ? " + nhạc" : "") : " · 🎵 có nhạc nền") : " · 🔇 không tiếng") + "</b>" +
         (r.noAudioCodec ? '<div class="tv-note" style="color:#b23b34">⚠️ Trình duyệt này không mã hoá được âm thanh — hãy dùng Chrome hoặc Edge bản mới.</div>' : "") +
@@ -1418,7 +1933,7 @@
         '<div class="tv-go" style="flex-direction:row;flex-wrap:wrap"><button class="tv-b navy" data-a="ytup">▶️ Đăng YouTube ngay</button>' + PUB.map(function (p) { return '<button class="tv-b" data-a="pub" data-p="' + p.id + '">' + p.name + " ↗</button>"; }).join("") +
         (navigator.canShare ? '<button class="tv-b" data-a="share">📲 Chia sẻ (điện thoại)</button>' : "") + "</div>" +
         '<div class="tv-note">Bấm nút một mạng: lời đăng được chép sẵn và trang đăng mở ở thẻ mới — kéo tệp video vào, chọn ảnh bìa (tệp «…-anh-bia.jpg» hoặc khung hình đầu), dán lời đăng và bật mục khai báo nội dung AI.' +
-        (Vx.total > 90 ? " ⚠️ Video dài " + fmtClock(Vx.total) + ": Facebook Reels chỉ nhận tối đa 90 giây — dùng bản ngắn với ít chi tiết hơn, hoặc đăng như video thường." : "") + "</div></div>" +
+        (Vx.total > 180 && Vx.H >= Vx.W ? " ⚠️ Video dài " + fmtClock(Vx.total) + ": YouTube sẽ không tính là Shorts, Instagram có thể không nhận làm Reels — nên dùng bản ⚡ Ngắn." : "") + "</div></div>" +
         '<div class="tv-note">Mã hoá: ' + escH(r.codec || "") + "</div>";
       res._blob = r.blob; res._name = name; res._V = Vx; res._base = base;
       afterExport(res, Vx, r, base, pre);
@@ -1433,7 +1948,7 @@
       if (O.ytAuto) { if (pre.yt) ytRun(res); else pubLine(res, "▶️ Chưa đăng YouTube: " + escH(pre.ytErr || "chưa kết nối") + ' — <button class="av-mini" data-a="ytup">Đăng ngay</button>'); }
     }
     async function saveFiles(res, h) {
-      var files = await filesOf(res), sub = L.slug(w.title), row = pubLine(res, "💾 Đang lưu vào thư mục…");
+      var files = await filesOf(res), sub = L.slug(w0.title), row = pubLine(res, "💾 Đang lưu vào thư mục…");
       try { for (var i = 0; i < files.length; i++) await FSX.write(h, sub, files[i].name, files[i].blob); row.innerHTML = "💾 Đã lưu " + files.length + " tệp vào «" + escH(h.name + "/" + sub) + "»."; }
       catch (er) { row.innerHTML = "⚠️ Không lưu được vào thư mục: " + escH(er && er.message || er); }
     }
@@ -1496,6 +2011,7 @@
       var b = e.target.closest("button, a"); if (!b || !ov.contains(b)) return;
       var a = b.dataset.a, sg = b.closest(".tv-seg");
       if (sg && b.dataset.val != null) {
+        if (sg.dataset.k === "vlang") { if (!busy) setLang(b.dataset.val); return; }
         var k = sg.dataset.k, val = b.dataset.val; O[k] = (k === "res") ? +val : (k === "rate" ? +val : val);
         if (k === "music" && val === "file" && !userMusic) $('[data-v="mfile"]').click();
         saveOpts(O); syncUI(); rebuild(); return;
@@ -1516,7 +2032,10 @@
       else if (a === "covfit") { CV.C.fit = b.dataset.val; coverChanged(); }
       else if (a === "covpos") { CV.C.pos = b.dataset.val; coverChanged(); }
       else if (a === "covframe") { var c0 = V.scenes[0] && V.scenes[0].type === "cover" ? V.scenes[0].dur : 0; CV.C.src = "frame"; CV.C.t = Math.max(t, c0 + 0.3); coverChanged(); }
-      else if (a === "covreset") { CV.C = coverDefaults(w, O); rebuild(); coverChanged(); }
+      else if (a === "covreset") { var keepTx = CV.C.tx; CV.C = coverDefaults(w0, O); if (keepTx && (O.vlang || "vi") !== "vi") { delete keepTx[O.vlang]; CV.C.tx = keepTx; } rebuild(); coverChanged(); }
+      else if (a === "trai") openTrAI();
+      else if (a === "trclear") { if (confirm("Bỏ bản dịch của anh, dùng lại bản dịch có sẵn?")) { lsSet(trKey(O.vlang, w0.id), null); w = localize(w0, O.vlang); AUD.nk = null; syncUI(); rebuild(); } }
+      else if (a === "vtest") voiceTest(b);
       else if (a === "covup") {
         var ci = document.createElement("input"); ci.type = "file"; ci.accept = "image/*";
         ci.onchange = async function () { var f = ci.files && ci.files[0]; if (!f) return; await setUserImage(w.id, "cover", f); I = await loadWorkImages(w); CV.C.src = "user"; CV.C.px = 0.5; CV.C.py = 0.5; CV.C.zoom = 1; rebuild(); coverChanged(); };
@@ -1556,7 +2075,11 @@
     ov.addEventListener("input", function (e) {
       var el = e.target;
       if (el.dataset.a === "seek") { atPoster = false; if (coverMode) { coverMode = false; syncCover(); } t = (+el.value / 1000) * V.total; if (playing && player.has()) player.play(t); frame(); return; }
-      if (el.dataset.cv === "l1" || el.dataset.cv === "l2" || el.dataset.cv === "l3") { CV.C[el.dataset.cv] = el.value; coverChanged(true); return; }
+      if (el.dataset.cv === "l1" || el.dataset.cv === "l2" || el.dataset.cv === "l3") {
+        var lc = O.vlang || "vi";
+        if (lc === "vi") CV.C[el.dataset.cv] = el.value; else { CV.C.tx = CV.C.tx || {}; CV.C.tx[lc] = CV.C.tx[lc] || clone(coverLines(CV.C, lc, O)); CV.C.tx[lc][el.dataset.cv] = el.value; }
+        coverChanged(true); return;
+      }
       if (el.dataset.cv === "zoom") { CV.C.zoom = clamp(+el.value / 100, 1, 4); coverChanged(true); return; }
       if (el.dataset.cv === "dim") { CV.C.dim = clamp(+el.value / 100, 0, 0.9); coverChanged(true); return; }
       if (el.dataset.o === "musicVol") { O.musicVol = (+el.value) / 100; saveOpts(O); clearTimeout(el._t); el._t = setTimeout(rebuild, 300); return; }
@@ -1568,6 +2091,7 @@
       if (el.dataset.c) { O[el.dataset.c] = el.checked; saveOpts(O); syncUI(); rebuild(); }
       if (el.dataset.cv === "bg") { var bv = el.value; if (bv === "frame") { CV.C.src = "frame"; } else if (bv === "user") { CV.C.src = "user"; } else { CV.C.src = "img"; CV.C.k = +bv.split(":")[1] || 0; CV.C.focus = -1; } CV.C.px = 0.5; CV.C.py = 0.5; CV.C.zoom = 1; coverChanged(); return; }
       if (el.dataset.cv === "focus") { CV.C.focus = +el.value; CV.C.px = 0.5; CV.C.py = 0.5; CV.C.zoom = 1; coverChanged(); return; }
+      if (el.dataset.v === "vsel") { O.voices = Object.assign({}, O.voices || {}); O.voices[O.vlang || "vi"] = el.value; saveOpts(O); AUD.nk = null; AUD.mk = null; player.set(null); aiInfo(); rebuild(); return; }
       if (el.dataset.v === "opsel") { var oi = el.value; if (oi !== "custom") trendInp.value = oi === "" ? "" : ((el._list || [])[+oi] || {}).t || ""; saveOpener(); syncUI(); rebuild(); }
       if (el.dataset.v === "mfile" && el.files && el.files[0]) {
         var f = el.files[0]; try { userMusic = await MUSIC.decodeFile(f); userMusicName = f.name; O.music = "file"; } catch (er) { alert("Không đọc được tệp nhạc này."); }
@@ -1586,7 +2110,7 @@
     var cvObs = null;
     function close() {
       setPlay(false); player.close(); try { AIV.dispose(); } catch (e) { } if (hearNode) try { hearNode.stop(); } catch (e) { }
-      document.removeEventListener("keydown", onKey); ov.remove(); if (opts.onClose) try { opts.onClose(w); } catch (e) { }
+      document.removeEventListener("keydown", onKey); ov.remove(); if (opts.onClose) try { opts.onClose(w0); } catch (e) { }
     }
     function onKey(e) { var dl = ov.querySelector(".av-dlg"); if (e.key === "Escape" && dl) { dl.remove(); return; } if (e.key === "Escape" && !busy) { if (editMode) toggleEditor(false); else close(); } else if (e.key === " " && !editMode && document.activeElement && !/INPUT|TEXTAREA|SELECT/.test(document.activeElement.tagName)) { e.preventDefault(); setPlay(!playing); } }
     document.addEventListener("keydown", onKey);
@@ -1655,6 +2179,7 @@
     var ED = { k: 0, sel: -1, mode: "box" };
     function toggleEditor(on) {
       editMode = on; setPlay(false);
+      if (on) w = w0; else { w0 = w; w = localize(w0, O.vlang || "vi"); }
       $('[data-v="main"]').classList.toggle("tv-hide", on); $('[data-v="editor"]').classList.toggle("tv-hide", !on);
       $('[data-a="edit"]').textContent = on ? "🎬 Về video" : "✏️ Chỉnh chi tiết";
       if (on) renderEditor(); else { syncUI(); rebuild(); frame(); }
@@ -1785,12 +2310,14 @@
     syncUI();
     (async function () {
       var ph = $('[data-v="scene"]'); ph.textContent = "⏳ Đang tải ảnh tác phẩm…";
-      I = await loadWorkImages(w, function (d, n) { ph.textContent = "⏳ Đang tải ảnh " + d + "/" + n + "…"; });
+      if ((O.vlang || "vi") !== "vi") { await ensureLang(O.vlang); w = localize(w0, O.vlang); syncUI(); }
+      ensureBrand().then(function () { if (!playing) frame(); });
+      I = await loadWorkImages(w0, function (d, n) { ph.textContent = "⏳ Đang tải ảnh " + d + "/" + n + "…"; });
       rebuild(); t = posterT(V); atPoster = true; syncCover(); frame();
       if (opts.edit) toggleEditor(true);
       if (opts.ai) { if (!editMode) toggleEditor(true); openAI(); }
     })();
-    return { close: close, get V() { return V; }, get work() { return w; } };
+    return { close: close, get V() { return V; }, get work() { return w; }, setLang: setLang };
   }
 
   /* tác phẩm mới của anh */
@@ -1807,7 +2334,9 @@
     resolve: resolve, listCustom: listCustom, saveCustom: saveCustom, deleteCustom: deleteCustom, getOverride: getOverride,
     userImageURL: userImageURL, hasUserImage: hasUserImage, commonsThumb: commonsThumb, commonsPage: commonsPage, typeOf: typeOf, trendLine: trendLine,
     batch: batch, aiPrompt: aiPrompt, commonsSearch: commonsSearch, srcLabel: srcLabel, openerList: openerList,
+    LANGS: LANGS, LINFO: LINFO, ensureLang: ensureLang, localize: localize, trStatus: trStatus, trPrompt: trPrompt,
     _t: { narrate: narrate, build: build, renderArt: renderArt, pickSteps: pickSteps, loadWorkImages: loadWorkImages, prepImage: prepImage, commonsCands: commonsCands, boxView: boxView, fullView: fullView,
-          chapters: chapters, postText: postText, cover: cover, DEF: DEF, sceneAt: sceneAt, LY: LY, applyAI: applyAI, parseAIJSON: parseAIJSON, produce: produce }
+          chapters: chapters, postText: postText, cover: cover, DEF: DEF, sceneAt: sceneAt, LY: LY, applyAI: applyAI, parseAIJSON: parseAIJSON, produce: produce,
+          splitX: splitX, speakX: speakX, disp: disp, spk: spk, viNumbers: viNumbers, narrateX: narrateX, openerListX: openerListX, ytMeta: ytMeta, ytTitle: ytTitle, renderCover: renderCover, coverLines: coverLines, loadOpts: loadOpts, applyTr: applyTr }
   };
 })(window);
