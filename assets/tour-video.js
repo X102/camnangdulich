@@ -17,11 +17,14 @@
      Dự phòng cuối: MediaRecorder. Trình chiếu toàn màn hình: giọng AI hoặc giọng có sẵn của máy (Việt + Nga).
    Chạy hoàn toàn trên trình duyệt. Ô bản đồ (Esri/OSM) và ảnh Wikimedia được tải với CORS.
 
+   v2.1: TourVideo.lib (bộ công cụ dùng chung cho nghe-thuat/art-video.js), exportVideo nhận V.preload/V.ensure/V.render,
+         thêm 2 bản nhạc: 🎋 Ngũ cung (đàn tranh, sáo — điệu ngũ cung Việt) và 🕯️ Suy ngẫm (piano, nền tĩnh).
+
    Gọi: TourVideo.open(data)  — data do gis.html gom (xem videoData() trong gis.html).
    ===================================================================== */
 (function (global) {
   "use strict";
-  var VERSION = "2.0";
+  var VERSION = "2.1";
   var BASE = (function () {
     try { var s = document.currentScript && document.currentScript.src; if (s) return s.replace(/[^\/?#]*([?#].*)?$/, ""); } catch (e) { }
     return "assets/";
@@ -1767,12 +1770,15 @@
   /* ================= 10. NHẠC NỀN + TRỘN TIẾNG + MÃ HOÁ ÂM THANH =================
      Nhạc dựng sẵn do chính trình duyệt tổng hợp (không dùng bản ghi của ai → không vướng bản quyền):
        calm (Nhẹ nhàng) · upbeat (Rộn ràng) · journey (Hành trình) · folk (giai điệu dân ca Nga «Коробейники», thế kỷ 19 — phạm vi công cộng)
+       · ngu (Ngũ cung — giai điệu tự soạn, đàn tranh + sáo) · zen (Suy ngẫm — piano mềm, nền tĩnh)
      Hoặc nhạc của anh (MP3/M4A/WAV…). Nhạc tự nhỏ lại khi có lời đọc, mở/kết mượt. */
   var MUSIC = (function () {
     var PRE = {
       calm: { name: "🌿 Nhẹ nhàng", bpm: 72 }, upbeat: { name: "☀️ Rộn ràng", bpm: 112 },
-      journey: { name: "🏔️ Hành trình", bpm: 66 }, folk: { name: "🪕 Dân ca Nga", bpm: 104 }
+      journey: { name: "🏔️ Hành trình", bpm: 66 }, folk: { name: "🪕 Dân ca Nga", bpm: 104 },
+      ngu: { name: "🎋 Ngũ cung", bpm: 64 }, zen: { name: "🕯️ Suy ngẫm", bpm: 58 }
     };
+    var BARS = { calm: 8, journey: 8, ngu: 8, zen: 8 };
     var NAMES = { C: 0, D: 2, E: 4, F: 5, G: 7, A: 9, B: 11 };
     function midi(n) { var m = /^([A-G])(#|b)?(-?\d)$/.exec(n); return 12 * (+m[3] + 1) + NAMES[m[1]] + (m[2] === "#" ? 1 : m[2] === "b" ? -1 : 0); }
     function hz(m) { return 440 * Math.pow(2, (m - 69) / 12); }
@@ -1914,11 +1920,74 @@
       });
       return 16 * bar;
     }
-    var FN = { calm: sCalm, upbeat: sUpbeat, journey: sJourney, folk: sFolk };
+    // 🎋 Ngũ cung — giai điệu tự soạn theo thang âm ngũ cung (Đô Rê Fa Son La): đàn tranh gảy có "nhấn" (luyến cao độ),
+    // sáo trúc hát giai điệu, tiếng mõ gỗ điểm nhịp, nền trầm ngân dài. Không dựa trên bài hát có bản quyền nào.
+    function pluckBend(ctx, out, m, t, len, vol, bend, opt) {
+      opt = opt || {};
+      var s = ctx.createBufferSource(); s.buffer = ksBuf(ctx, m, 1.8, opt.bright || 0.55, opt.decay || 0.9975);
+      var g = ctx.createGain(); g.gain.setValueAtTime(vol, t); g.gain.setValueAtTime(vol, t + len); g.gain.exponentialRampToValueAtTime(0.0008, t + len + (opt.rel || 0.8));
+      var f = ctx.createBiquadFilter(); f.type = "lowpass"; f.frequency.value = opt.lp || 4200;
+      if (bend) { var r = s.playbackRate; r.setValueAtTime(1, t); r.setValueAtTime(1, t + 0.16); r.linearRampToValueAtTime(Math.pow(2, bend / 12), t + 0.3); r.linearRampToValueAtTime(1, t + 0.62); }
+      s.connect(f); f.connect(g); g.connect(out); s.start(t); s.stop(t + len + (opt.rel || 0.8) + 0.05);
+    }
+    function woodblock(ctx, out, t, vol, hz0) {
+      var o = ctx.createOscillator(), g = ctx.createGain(), f = ctx.createBiquadFilter(); o.type = "sine"; o.frequency.setValueAtTime(hz0 || 880, t); o.frequency.exponentialRampToValueAtTime((hz0 || 880) * 0.82, t + 0.06);
+      f.type = "bandpass"; f.frequency.value = hz0 || 880; f.Q.value = 6;
+      g.gain.setValueAtTime(0, t); g.gain.linearRampToValueAtTime(vol, t + 0.002); g.gain.exponentialRampToValueAtTime(0.0005, t + 0.12);
+      o.connect(f); f.connect(g); g.connect(out); o.start(t); o.stop(t + 0.14);
+    }
+    var NGU_MEL = "A4:2 G4:1 A4:1 C5:4|D5:2 C5:1 A4:1 G4:4|F4:2 G4:1 A4:1 G4:2 F4:2|D4:6 R:2|C5:2 D5:1 F5:1 D5:4|C5:2 A4:1 G4:1 A4:4|G4:2 F4:1 D4:1 F4:2 G4:2|C4:6 R:2";
+    var NGU_BASS = ["C3", "G2", "F2", "D3", "A2", "F2", "G2", "C3"];
+    function sNgu(ctx, out, t0) {
+      var spb = 60 / 64, e8 = spb / 2, bar = spb * 4, bus = verbBus(ctx, out, 0.42), zl = pan(ctx, -0.3), fl = pan(ctx, 0.22); zl.connect(bus); fl.connect(bus);
+      var bars = NGU_MEL.split("|").map(function (b) { return b.trim().split(/\s+/).map(function (x) { var p = x.split(":"); return { n: p[0], d: +p[1] }; }); });
+      var PENT = [0, 2, 5, 7, 9];
+      bars.forEach(function (notes, bi) {
+        var tb = t0 + bi * bar, root = midi(NGU_BASS[bi]);
+        tone(ctx, bus, root - 12, tb, bar - 0.2, 0.06, { types: ["sine"], a: 0.8, r: 1.4, lp: 420 });
+        tone(ctx, bus, root - 5, tb, bar - 0.2, 0.025, { types: ["triangle"], a: 1.2, r: 1.6, lp: 600 });
+        // đàn tranh: chuỗi gảy rải lên xuống trên thang ngũ cung, có nhấn ở nốt đầu phách
+        var base = root + 12, arp = [0, 7, 12, 14, 17, 14, 12, 7];
+        arp.forEach(function (iv, k) {
+          var m = base + iv; var pc = ((m - 60) % 12 + 12) % 12; if (PENT.indexOf(pc) < 0) m += 2;
+          pluckBend(ctx, zl, m, tb + k * e8, e8 * 0.9, k % 4 === 0 ? 0.075 : 0.05, (k === 0 && bi % 2 === 1) ? 2 : 0, { bright: 0.6, rel: 1.1 });
+        });
+        // sáo: giai điệu (vòng 2 của bản lặp mới thổi để mở đầu nhẹ nhàng)
+        var pos = 0;
+        notes.forEach(function (nt) {
+          var t = tb + pos * e8, len = nt.d * e8; pos += nt.d; if (nt.n === "R") return;
+          var m = midi(nt.n) + 12;
+          tone(ctx, fl, m, t, len * 0.94, 0.045, { types: ["sine", "triangle"], det: [0, 4], lp: 3200, a: 0.09, r: 0.28, vib: 5.2, vibD: nt.d >= 4 ? 14 : 6 });
+          hat(ctx, fl, t, 0.006, 0.09, 2200);
+        });
+        woodblock(ctx, out, tb, 0.07, 940); woodblock(ctx, out, tb + spb * 2, 0.045, 760);
+        if (bi % 4 === 3) bell(ctx, bus, 84, tb + spb * 3, 0.035);
+      });
+      return bars.length * bar;
+    }
+    // 🕯️ Suy ngẫm — tiếng "piano" mềm thưa nốt trên nền dây êm, vang dài; hợp video chậm, chiêm nghiệm
+    var PROG_Z = [["D3", "m"], ["A#2", ""], ["F3", ""], ["C3", ""], ["D3", "m"], ["G2", "m"], ["A#2", ""], ["A2", ""]];
+    function sZen(ctx, out, t0) {
+      var spb = 60 / 58, bar = spb * 4, bus = verbBus(ctx, out, 0.55), pno = pan(ctx, 0.12), pad = pan(ctx, -0.1); pno.connect(bus); pad.connect(bus);
+      var top = [74, 72, 69, 67, 69, 70, 72, 69];
+      PROG_Z.forEach(function (c, b) {
+        var t = t0 + b * bar, ch = chord(c[0], c[1]);
+        ch.forEach(function (m) { tone(ctx, pad, m + 12, t, bar - 0.1, 0.022, { types: ["sawtooth", "triangle"], det: [-7, 7], lp: 780, a: 1.6, r: 1.8 }); });
+        tone(ctx, bus, ch[0] - 12, t, bar - 0.2, 0.05, { types: ["sine"], a: 0.4, r: 1.2, lp: 380 });
+        [ch[0] + 12, ch[1] + 12, ch[2] + 12].forEach(function (m, k) {
+          pluck(ctx, pno, m, t + k * spb * 0.5, spb * 1.6, 0.05, { bright: 0.28, lp: 2400, rel: 2.2, decay: 0.9985 });
+          tone(ctx, pno, m, t + k * spb * 0.5, 0.05, 0.018, { types: ["sine"], a: 0.004, r: 1.4, lp: 3000 });
+        });
+        pluck(ctx, pno, top[b], t + spb * 2.5, spb * 1.4, 0.06, { bright: 0.3, lp: 2600, rel: 2.4, decay: 0.9985 });
+        if (b % 2 === 1) pluck(ctx, pno, top[(b + 3) % top.length] + 12, t + spb * 3.25, spb, 0.035, { bright: 0.3, lp: 3000, rel: 2.6, decay: 0.9985 });
+      });
+      return PROG_Z.length * bar;
+    }
+    var FN = { calm: sCalm, upbeat: sUpbeat, journey: sJourney, folk: sFolk, ngu: sNgu, zen: sZen };
     var LOOPS = {};
     async function loop(preset, sr) {
       var k = preset + "@" + sr; if (LOOPS[k]) return LOOPS[k];
-      var spb = 60 / PRE[preset].bpm, est = preset === "calm" || preset === "journey" ? 8 * 4 * spb : 16 * 4 * spb, tail = 3;
+      var spb = 60 / PRE[preset].bpm, est = (BARS[preset] || 16) * 4 * spb, tail = 3.5;
       var ctx = new OfflineAudioContext(2, Math.ceil((est + tail) * sr), sr), g = ctx.createGain(); g.gain.value = 0.9; g.connect(ctx.destination);
       var len = FN[preset](ctx, g, 0), buf = await ctx.startRendering();
       KS = {};
@@ -2070,9 +2139,12 @@
     ui.phase("Chuẩn bị bộ mã hoá…", 0);
     var enc = await pickEncoder(W, H, fps, bitrate), ac = audio ? await pickAudioCodec() : null;
     if (V.O.qr && V.O.qrUrl) { await ensureQR(); qrCanvas(V.O.qrUrl); }
-    var info = await preloadAll(V, function (kind, d, n) {
-      ui.phase(kind === "photo" ? "Tải ảnh các điểm: " + d + "/" + n : "Tải ô bản đồ: " + d + "/" + n, n ? d / n : 0);
-    }, function () { return cancelled; }) || {};
+    // V.preload / V.ensure / V.render: cho phép mô-đun khác (vd. video giải mã tác phẩm) dùng chung bộ xuất video này
+    var info = await (V.preload ? V.preload(function (d, n, label) { ui.phase((label || "Tải ảnh: ") + d + "/" + n, n ? d / n : 0); }, function () { return cancelled; })
+      : preloadAll(V, function (kind, d, n) {
+        ui.phase(kind === "photo" ? "Tải ảnh các điểm: " + d + "/" + n : "Tải ô bản đồ: " + d + "/" + n, n ? d / n : 0);
+      }, function () { return cancelled; })) || {};
+    var draw = V.render || renderFrame;
     if (cancelled) throw new Error("cancel");
     if (enc) {
       if (!global.Mp4Muxer) await loadScript(BASE + "vendor/mp4-muxer.min.js");
@@ -2089,8 +2161,8 @@
         if (cancelled) { try { encoder.close(); } catch (e) { } throw new Error("cancel"); }
         if (encErr) throw encErr;
         var t = f / fps;
-        await ensureFrame(V, t);
-        renderFrame(ctx, V, t, t);
+        if (V.ensure) await V.ensure(t); else await ensureFrame(V, t);
+        draw(ctx, V, t, t);
         var vf = new VideoFrame(canvas, { timestamp: Math.round(f * 1e6 / fps), duration: Math.round(1e6 / fps) });
         encoder.encode(vf, { keyFrame: f % (fps * 2) === 0 }); vf.close();
         while (encoder.encodeQueueSize > 4) await sleep(4);
@@ -2125,8 +2197,8 @@
       function tick() {
         if (cancelled) { rec.stop(); return res(); }
         var t = (performance.now() - start) / 1000;
-        if (t >= V.total) { renderFrame(ctx, V, V.total - 0.001, t); rec.stop(); return res(); }
-        renderFrame(ctx, V, t, t); ui.phase("Đang ghi video (thời gian thực): " + Math.round(t / V.total * 100) + "%", t / V.total);
+        if (t >= V.total) { draw(ctx, V, V.total - 0.001, t); rec.stop(); return res(); }
+        draw(ctx, V, t, t); ui.phase("Đang ghi video (thời gian thực): " + Math.round(t / V.total * 100) + "%", t / V.total);
         requestAnimationFrame(tick);
       }
       requestAnimationFrame(tick);
@@ -2666,5 +2738,10 @@
   global.TourVideo = { open: open, present: present, version: VERSION,
     _t: { md5: md5, photoCandidates: photoCandidates, prepare: prepare, narrate: narrate, buildScenes: buildScenes, renderFrame: renderFrame, exportVideo: exportVideo,
           frameState: frameState, collectTiles: collectTiles, dims: dims, DEF: DEF, SAY: SAY, AIV: AIV, MUSIC: MUSIC, mixAudio: mixAudio, makeSRT: makeSRT,
-          makeChapters: makeChapters, coverBlob: coverBlob, SysVoice: SysVoice, qrCanvas: qrCanvas, ensureQR: ensureQR, cardModel: cardModel, pageState: pageState } };
+          makeChapters: makeChapters, coverBlob: coverBlob, SysVoice: SysVoice, qrCanvas: qrCanvas, ensureQR: ensureQR, cardModel: cardModel, pageState: pageState },
+    // bộ công cụ dùng chung (nghe-thuat/art-video.js)
+    lib: { VERSION: VERSION, BASE: BASE, clamp: clamp, lerp: lerp, seg: seg, ease: ease, easeOut: easeOut, easeOutBack: easeOutBack, escH: escH, fmtClock: fmtClock, sleep: sleep,
+           F: F, FONT: FONT, C: C, wrap: wrap, wrapAll: wrapAll, fitLine: fitLine, rr: rr, spacing: spacing, md5: md5, dims: dims, SAY: SAY, AIV: AIV, MUSIC: MUSIC,
+           mixAudio: mixAudio, exportVideo: exportVideo, makeSRT: makeSRT, ensureQR: ensureQR, qrCanvas: qrCanvas, shortUrl: shortUrl, AudioPlayer: AudioPlayer,
+           CSS: CSS, dl: dl, slug: slug, mergeSegs: mergeSegs, loadScript: loadScript, estimateSents: estimateSents, SysVoice: SysVoice, wfEnc: wfEnc, pickAudioCodec: pickAudioCodec } };
 })(window);

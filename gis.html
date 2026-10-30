@@ -1463,7 +1463,7 @@ window.RTFOOD = (function () {
     if (!tour.length) { alert("Lịch trình đang trống — hãy thêm điểm vào tour trước (➕ Thêm vào tour trên bản đồ, hoặc trong Bảng lịch trình)."); return; }
     var go = function () { try { window.TourVideo.open(videoData()); } catch (e) { alert("Lỗi mở Video thuyết trình: " + (e && e.message || e)); } };
     if (window.TourVideo) return go();
-    var sc = document.createElement("script"); sc.src = "assets/tour-video.js?v=2"; sc.onload = go;
+    var sc = document.createElement("script"); sc.src = "assets/tour-video.js?v=3"; sc.onload = go;
     sc.onerror = function () { alert("Không tải được assets/tour-video.js — kiểm tra kết nối mạng."); };
     document.head.appendChild(sc);
   }
