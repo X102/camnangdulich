@@ -91,6 +91,8 @@
   .qa .it h4 em { font-style: normal; display: inline-block; background: var(--gold2); color: var(--navy2); border-radius: 999px; padding: 0 8px; margin-right: 6px; font-size: 12.5px; }
   .qa .it p { margin: 0; line-height: 1.55; font-size: 14px; color: #2f3a48; }
   .qa .it .tg { font-size: 12px; color: #7a5d16; font-weight: 800; margin-top: 4px; }
+  .qa .it .sr { font-size: 12px; color: var(--muted); margin-top: 4px; }
+  .qa .it .sr a { color: var(--muted); }
   .note { font-size: 12.5px; color: var(--muted); line-height: 1.55; }
   .warn { background: #fff4f2; border: 1px solid #f3cdc7; color: #8a2b1f; border-radius: 12px; padding: 9px 12px; font-size: 13px; }
   ul.src { margin: 4px 0 0; padding-left: 18px; font-size: 13px; line-height: 1.6; }
@@ -112,8 +114,8 @@
   <span class="badge-int">Bản nội bộ · công cụ làm video</span>
   <h1>🎨 Giải mã tác phẩm Việt Nam</h1>
   <div class="trend">«Giờ thì tôi mới hiểu vì sao người ta có thể dành hàng giờ ngắm nhìn một bức tranh…»</div>
-  <p>Mỗi tác phẩm có sẵn kịch bản: câu hỏi gợi tò mò cho từng chi tiết, lời giải đã đối chiếu nguồn, vị trí từng chi tiết trên ảnh. Bấm <b>🎬 Tạo video</b> để dựng video dọc/ngang có giọng đọc AI, nhạc nền, phụ đề — xuất MP4 đăng Facebook, TikTok, YouTube. Có thể <b>✏️ chỉnh</b> mọi chi tiết, nạp ảnh của anh, hoặc <b>➕ thêm tác phẩm mới</b>.</p>
-  <div class="hero-act"><button class="btn gold" id="add">➕ Thêm tác phẩm của anh</button><p class="note" id="stats"></p></div>
+  <p>Mỗi tác phẩm có sẵn kịch bản: câu hỏi gợi tò mò cho từng chi tiết, lời giải đã đối chiếu nguồn, vị trí từng chi tiết trên ảnh. Bấm <b>🎬 Tạo video</b> để dựng video dọc/ngang có giọng đọc AI, nhạc nền, phụ đề — xuất MP4 đăng Facebook, TikTok, YouTube. Có thể <b>✏️ chỉnh</b> mọi chi tiết, nạp ảnh của anh, <b>➕ thêm tác phẩm mới</b> (nhờ AI soạn kịch bản, tìm ảnh trên Wikimedia Commons) hoặc <b>📦 xuất hàng loạt</b>. Video ghi rõ nguồn và có thể kèm lời nhắc «có dùng AI, có thể còn sai sót».</p>
+  <div class="hero-act"><button class="btn gold" id="add">➕ Thêm tác phẩm của anh</button><button class="btn navy" id="batch" title="Dựng lần lượt nhiều video (theo bộ lọc đang chọn)">📦 Xuất hàng loạt</button><p class="note" id="stats"></p></div>
 </section>
 <div class="bar">
   <input type="search" id="q" placeholder="🔎 Tìm tác phẩm, tác giả, địa danh, chi tiết…" />
@@ -131,8 +133,8 @@
 </main>
 <script src="../assets/vendor/leaflet.js"></script>
 <script src="../assets/tour-video.js?v=3"></script>
-<script src="data/works.js?v=1"></script>
-<script src="art-video.js?v=1"></script>
+<script src="data/works.js?v=3"></script>
+<script src="art-video.js?v=4"></script>
 <script>
 (function () {
   "use strict";
@@ -240,9 +242,10 @@
     }).join("") : '<div class="empty">Không có tác phẩm nào khớp bộ lọc.</div>';
     el.querySelectorAll(".ti").forEach(function (r) { var w = byId(r.dataset.id), th = r.querySelector(".th"); thumbStyle(w, function (bg, svg) { if (bg) { th.style.backgroundImage = bg; if (svg) th.style.backgroundColor = "#fff"; } }); });
   }
+  var LIST = [];
   function byId(id) { return WORKS.filter(function (w) { return w.id === id; })[0]; }
   function render() {
-    var list = sorted(WORKS.filter(matches));
+    var list = sorted(WORKS.filter(matches)); LIST = list;
     $("#count").textContent = list.length + " / " + WORKS.length + " tác phẩm";
     $("#vGrid").hidden = state.view !== "grid"; $("#vMap").hidden = state.view !== "map"; $("#vTl").hidden = state.view !== "tl";
     document.querySelectorAll("[data-view]").forEach(function (b) { b.classList.toggle("on", b.dataset.view === state.view); });
@@ -260,10 +263,13 @@
       '<div class="note" data-credit></div>' +
       (w.rights === "copyright" ? '<div class="warn">© ' + esc(w.rightsNote || "Tác phẩm còn bản quyền.") + "</div>" : "") +
       '<div class="facts">' + facts.map(function (f) { return "<div><b>" + esc(f[0]) + "</b>" + esc(f[1]) + "</div>"; }).join("") + "</div>" +
-      '<div class="qa">' + (w.steps || []).map(function (s, j) { return '<div class="it" id="qa-' + j + '" data-j="' + j + '"><h4><em>' + (j + 1) + "</em>" + esc(s.q || "") + "</h4><p>" + esc(s.a || "") + "</p>" + (s.tag ? '<div class="tg">' + esc(s.tag) + "</div>" : "") + "</div>"; }).join("") + "</div>" +
+      '<div class="qa">' + (w.steps || []).map(function (s, j) {
+        var sr = (s.src || []).map(function (i) { var r = (w.sources || [])[i]; return r ? '<a href="' + esc(r.u || "#") + '" target="_blank" rel="noopener">[' + (i + 1) + "] " + esc(AV.srcLabel(r)) + "</a>" : ""; }).filter(Boolean).join(" · ");
+        return '<div class="it" id="qa-' + j + '" data-j="' + j + '"><h4><em>' + (j + 1) + "</em>" + esc(s.q || "") + "</h4><p>" + esc(s.a || "") + "</p>" + (s.tag ? '<div class="tg">' + esc(s.tag) + "</div>" : "") + (sr ? '<div class="sr">📚 ' + sr + "</div>" : "") + "</div>";
+      }).join("") + "</div>" +
       (w.end ? '<p class="hookq" style="font-size:17px">' + esc(w.end) + "</p>" : "") +
       ((w.facts || []).length ? "<div><b>Ghi chú thêm</b><ul class=\"src\">" + w.facts.map(function (f) { return "<li>" + esc(f) + "</li>"; }).join("") + "</ul></div>" : "") +
-      ((w.sources || []).length ? "<div><b>Nguồn tư liệu</b><ul class=\"src\">" + w.sources.map(function (s) { return '<li><a href="' + esc(s.u) + '" target="_blank" rel="noopener">' + esc(s.t) + "</a></li>"; }).join("") + "</ul></div>" : "") +
+      ((w.sources || []).length ? "<div><b>Nguồn tư liệu</b><ol class=\"src\">" + w.sources.map(function (s) { return '<li>' + (s.u ? '<a href="' + esc(s.u) + '" target="_blank" rel="noopener">' + esc(s.t || s.u) + "</a>" : esc(s.t)) + "</li>"; }).join("") + "</ol></div>" : "") +
       (w.place && w.place.lat != null ? '<div><a class="btn" href="../gis.html?ll=' + w.place.lat + "," + w.place.lon + '&z=15" target="_blank" rel="noopener">📍 Mở trên bản đồ chính</a></div>' : "") +
       "</div></div>";
     document.body.appendChild(m); document.body.style.overflow = "hidden";
@@ -324,8 +330,9 @@
   $("#sort").addEventListener("change", function (e) { state.sort = e.target.value; render(); });
   $("#add").addEventListener("click", function () {
     var title = prompt("Tên tác phẩm mới (tranh, tượng, công trình, bài hát…):", ""); if (!title) return;
-    var w = AV.newWork({ title: title.trim() }); refresh(); AV.edit(AV.resolve(w), { onClose: function () { refresh(); } });
+    var w = AV.newWork({ title: title.trim() }); refresh(); AV.edit(AV.resolve(w), { onClose: function () { refresh(); }, ai: true });
   });
+  $("#batch").addEventListener("click", function () { AV.batch((LIST.length ? LIST : WORKS).map(function (w) { return w.id; })); });
   refresh();
   var h = decodeURIComponent(location.hash.slice(1)); if (h) { if (h.indexOf("video=") === 0) openVideo(h.slice(6)); else if (byId(h)) openReader(h); }
 })();
