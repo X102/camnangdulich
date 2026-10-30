@@ -27,6 +27,11 @@
      10 giọng Supertonic 3 (Việt, Anh, Nhật, Hàn, Nga); xuất hàng loạt nhiều ngôn ngữ một lượt.
      Tham khảo mã nguồn mở: supertone-inc/supertonic (web/helper.js, MIT), OHF-Voice/piper1-gpl (phonemize_chinese.py — cách đánh số
      pinyin), pinyin-pro (MIT), ayutaz/piper-plus (so sánh cách làm giọng Nhật/Trung/Hàn trong trình duyệt).
+   v1.4: thể loại «🎭 Di sản phi vật thể» (di sản âm nhạc — trend bắt đầu bằng «nghe»/«lắng nghe» — dùng nhạc nền và câu mở đầu kiểu nghe),
+     thời kỳ Chăm Pa, Nhà Nguyễn; loạt «🏛️ Bảo vật quốc gia» / «🌏 Di sản UNESCO» (trường series + honor): dòng huy hiệu trên thẻ tên
+     tác phẩm theo ngôn ngữ video, dòng huy hiệu + hashtag trong chữ đăng bài; ảnh nhúng sẵn cho tranh còn bản quyền (img.emb →
+     data/img/<khoá>.js chứa data URI nên canvas không «bẩn» khi mở trang bằng file://, ảnh nhỏ <khoá>-500.jpg cho danh mục; ảnh của anh
+     vẫn đè lên được); video không phải tiếng Việt ký tên trang bằng tiếng Anh «Vietnamese Art Decoded».
    Phụ thuộc: ../assets/tour-video.js (v2.2+, TourVideo.lib).
    Gọi: ArtVideo.open(work)  ·  ArtVideo.edit(work)  ·  ArtVideo.newWork()
    ===================================================================== */
@@ -34,7 +39,7 @@
   "use strict";
   var TVv = global.TourVideo;
   if (!TVv || !TVv.lib) { if (global.console) console.error("art-video.js cần assets/tour-video.js (v2.1+)"); return; }
-  var L = TVv.lib, VERSION = "1.3";
+  var L = TVv.lib, VERSION = "1.4";
   var clamp = L.clamp, lerp = L.lerp, seg = L.seg, ease = L.ease, easeOut = L.easeOut, F = L.F, C = L.C, wrap = L.wrap, rr = L.rr, escH = L.escH,
       fmtClock = L.fmtClock, SAY = L.SAY, AIV = L.AIV, MUSIC = L.MUSIC, sleep = L.sleep;
   var SERIF = '"Times New Roman", "Noto Serif", "Liberation Serif", Georgia, serif';
@@ -42,6 +47,9 @@
   var GOLD = "#f2c14e", GOLD2 = "#c8a24b", NAVY = "#0f2138";
   var DB = function () { return global.ART_DB || { types: [], eras: [], works: [] }; };
   function typeOf(id) { var t = (DB().types || []).filter(function (x) { return x.id === id; })[0]; return t || { id: id, vi: id, icon: "🎨", noun: "một tác phẩm" }; }
+  // v1.4: tác phẩm «để nghe» — bài hát, hoặc di sản phi vật thể có trend «nghe…»/«lắng nghe…» (ca trù, nhã nhạc…): nhạc nền và câu mở đầu kiểu nghe
+  function isListen(w) { return !!w && (w.type === "music" || (w.type === "intangible" && /^(nghe|lắng)/.test(w.trend || ""))); }
+  function listenMode(w) { return isListen(w) ? (w.type === "music" ? 1 : 2) : 0; }      // 1 = bài hát, 2 = di sản âm nhạc (mẫu câu không gọi là «bài hát»)
   function clone(o) { return JSON.parse(JSON.stringify(o)); }
 
   /* ---------------- 1b. NGÔN NGỮ VIDEO (v1.3) ----------------
@@ -51,7 +59,7 @@
      - Chữ hiện / chữ đọc: {hiển thị|cách đọc} — người xem thấy «1930», giọng đọc đọc «nineteen thirty» (số, năm, thế kỷ, chữ khó).
      - Phông riêng cho Nhật/Trung/Hàn, xuống dòng theo từ (Intl.Segmenter) và không để dấu câu đứng đầu dòng (kinsoku).
      - Chữ trên video (nhãn, lời nhắc AI, lời mời theo dõi, chữ đăng bài, tiêu đề YouTube, mục lục) theo bảng TX bên dưới. */
-  var LANGS = ["vi", "en", "ja", "zh", "ru", "ko"], I18N_V = 1;
+  var LANGS = ["vi", "en", "ja", "zh", "ru", "ko"], I18N_V = 2, IMG_V = 1;      // IMG_V: phiên bản ảnh nhúng data/img/<khoá>.js
   var LINFO = { vi: { name: "Tiếng Việt", flag: "🇻🇳", yt: "vi" }, en: { name: "English", flag: "🇬🇧", yt: "en" }, ja: { name: "日本語", flag: "🇯🇵", yt: "ja" },
                 zh: { name: "中文 (简体)", flag: "🇨🇳", yt: "zh-Hans" }, ru: { name: "Русский", flag: "🇷🇺", yt: "ru" }, ko: { name: "한국어", flag: "🇰🇷", yt: "ko" } };
   var LCUR = "vi";                                           // ngôn ngữ của khung hình đang vẽ (phông, xuống dòng)
@@ -79,7 +87,8 @@
   }
   var TX = {
     vi: {
-      types: { folk: ["Tranh dân gian", "một bức tranh"], painting: ["Hội họa", "một bức tranh"], sculpture: ["Điêu khắc", "một pho tượng"], artifact: ["Cổ vật", "một cổ vật"], architecture: ["Kiến trúc", "một công trình"], music: ["Âm nhạc", "một bài hát"] },
+      types: { folk: ["Tranh dân gian", "một bức tranh"], painting: ["Hội họa", "một bức tranh"], sculpture: ["Điêu khắc", "một pho tượng"], artifact: ["Cổ vật", "một cổ vật"], architecture: ["Kiến trúc", "một công trình"], music: ["Âm nhạc", "một bài hát"], intangible: ["Di sản phi vật thể", "một di sản"] },
+      honor: { bvqg: "🏛️ Bảo vật quốc gia", unesco: "🌏 Di sản UNESCO", usl: "🌏 UNESCO · cần bảo vệ khẩn cấp" }, honorTags: { bvqg: ["#BảoVậtQuốcGia"], unesco: ["#DiSảnUNESCO", "#DiSảnVănHóaPhiVậtThể"] },
       detail: "❓ CHI TIẾT ", src: "📚 Nguồn: ", cta: "💬 Chi tiết số mấy làm bạn bất ngờ nhất? Bình luận số nhé!",
       aiBadge: "🤖 Có dùng AI", aiStart: "🤖 Video có dùng AI và có thể còn sai sót — rất mong bạn góp ý.",
       follow: "Theo dõi để xem những tác phẩm tiếp theo nhé.", followCta: "Theo dõi để xem tác phẩm tiếp theo ✦", outroHead: "🎨 GIẢI MÃ TÁC PHẨM",
@@ -91,19 +100,20 @@
       sample: "Xin chào! Đây là giọng đọc thử cho các video giải mã tác phẩm nghệ thuật Việt Nam."
     },
     en: {
-      types: { folk: ["Folk print", "folk print"], painting: ["Painting", "painting"], sculpture: ["Sculpture", "statue"], artifact: ["Artifact", "artifact"], architecture: ["Architecture", "building"], music: ["Music", "song"] },
+      types: { folk: ["Folk print", "folk print"], painting: ["Painting", "painting"], sculpture: ["Sculpture", "statue"], artifact: ["Artifact", "artifact"], architecture: ["Architecture", "building"], music: ["Music", "song"], intangible: ["Intangible heritage", "living tradition"] },
+      honor: { bvqg: "🏛️ National Treasure of Vietnam", unesco: "🌏 UNESCO Intangible Heritage", usl: "🌏 UNESCO Intangible Heritage in Need of Urgent Safeguarding" }, honorTags: { bvqg: ["#NationalTreasure"], unesco: ["#UNESCO", "#IntangibleHeritage"] },
       head: /^(Now I (?:finally )?(?:understand|get it|see))[,:]?\s*(.*)$/i,
-      trend: function (noun, music) { return music ? "Now I finally understand why people can listen to one song for hours…" : "Now I finally understand why people can spend hours looking at a single " + noun + "…"; },
+      trend: function (noun, music) { return music === 2 ? "Now I finally understand why people can listen to this music for hours…" : music ? "Now I finally understand why people can listen to one song for hours…" : "Now I finally understand why people can spend hours looking at a single " + noun + "…"; },
       detail: "❓ DETAIL ", src: "📚 Source: ", cta: "💬 Which detail surprised you most? Comment its number!",
       aiBadge: "🤖 Made with AI", aiStart: "🤖 This video uses AI and may contain mistakes — corrections are welcome.",
       aiText: "This video was made with AI assistance (AI voice, automated editing). The creator is not an art historian, so there may be mistakes — please check the sources and let us know.",
       aiSay: "This video uses artificial intelligence and may contain mistakes. Corrections are always welcome.",
-      follow: "Follow for more Vietnamese art, decoded.", followCta: "Follow for the next artwork ✦", outroHead: "🎨 VIETNAMESE ART, DECODED",
+      follow: "Follow Vietnamese Art Decoded for more.", followCta: "Follow for the next artwork ✦", outroHead: "🎨 VIETNAMESE ART DECODED",
       refs: "📚 Sources", photos: "📷 Images: ", musicOwn: "Music: chosen by the creator", musicSyn: "Music: synthesized", voice: "AI voice: ",
       ownPhoto: "Photo: the creator's own", commons: "Image: Wikimedia Commons", noImg: "Image not available",
       coverL1: "NOW I GET IT…", coverL1b: "ART, DECODED", coverL3: "{n} details most people miss",
       chIntro: "Intro", chEnd: "Conclusion", inVideo: "In this video:", comment: "Which detail did you notice before watching? Tell us in the comments 👇", postRefs: "📚 Sources:",
-      hashtags: ["#VietnameseArt", "#ArtHistory", "#ArtExplained", "#Vietnam"], tagline: "Vietnamese art, decoded",
+      hashtags: ["#VietnameseArt", "#ArtHistory", "#ArtExplained", "#Vietnam"], tagline: "Vietnamese art, one detail at a time",
       yt: function (t, n) { return "Decoding " + t + ": " + n + " details most people miss"; },
       end: function (T) { return "Now you understand why people can spend hours with " + T + "."; },
       sample: "Hello! This is a sample of the AI voice for our Vietnamese art videos.",
@@ -118,13 +128,14 @@
       }
     },
     ja: {
-      types: { folk: ["民間版画", "版画"], painting: ["絵画", "絵"], sculpture: ["彫刻", "像"], artifact: ["古美術", "古美術品"], architecture: ["建築", "建物"], music: ["音楽", "歌"] },
-      trend: function (noun, music) { return music ? "一曲の歌を何時間も聴いていられる理由が、やっと分かった…" : noun + "を何時間も眺めていられる理由が、やっと分かった…"; },
+      types: { folk: ["民間版画", "版画"], painting: ["絵画", "絵"], sculpture: ["彫刻", "像"], artifact: ["古美術", "古美術品"], architecture: ["建築", "建物"], music: ["音楽", "歌"], intangible: ["無形文化遺産", "無形文化遺産"] },
+      honor: { bvqg: "🏛️ ベトナム国宝", unesco: "🌏 ユネスコ無形文化遺産", usl: "🌏 ユネスコ無形文化遺産（緊急保護）" }, honorTags: { bvqg: ["#ベトナム国宝"], unesco: ["#ユネスコ", "#無形文化遺産"] },
+      trend: function (noun, music) { return music === 2 ? "この音楽を何時間も聴いていられる理由が、やっと分かった…" : music ? "一曲の歌を何時間も聴いていられる理由が、やっと分かった…" : noun + "を何時間も眺めていられる理由が、やっと分かった…"; },
       detail: "❓ 細部 ", src: "📚 出典：", cta: "💬 いちばん驚いたのは何番？番号でコメントしてね！",
       aiBadge: "🤖 AI使用", aiStart: "🤖 この動画はAIを使用しており、誤りがあるかもしれません。ご指摘お待ちしています。",
       aiText: "この動画はAIの支援で制作しています（AI音声・自動編集）。制作者は専門家ではないため、誤りが含まれる可能性があります。出典もあわせてご確認ください。",
       aiSay: "この動画は人工知能を使っており、誤りがあるかもしれません。ご指摘をお待ちしています。",
-      follow: "フォローして、次の作品もお楽しみに。", followCta: "フォローして次の作品へ ✦", outroHead: "🎨 ベトナム美術を読み解く",
+      follow: "{Vietnamese Art Decoded|ベトナミーズ・アート・デコーデッド}をフォローして、次の作品もお楽しみに。", followCta: "フォローして次の作品へ ✦", outroHead: "🎨 ベトナム美術を読み解く",
       refs: "📚 参考資料", photos: "📷 画像：", musicOwn: "音楽：制作者が選曲", musicSyn: "音楽：自動生成", voice: "AI音声：",
       ownPhoto: "写真：制作者所蔵", commons: "画像：ウィキメディア・コモンズ", noImg: "画像を読み込めません",
       coverL1: "やっと分かった…", coverL1b: "名作を読み解く", coverL3: "見落としがちな{nつ}の秘密",
@@ -135,22 +146,24 @@
       sample: "こんにちは。ベトナム美術を読み解く動画の、AI音声のサンプルです。",
       pos: { tl: "左上の隅", tr: "右上の隅", bl: "左下の隅", br: "右下の隅", t: "上の部分", b: "下の部分", l: "左側", r: "右側", c: "真ん中" },
       openers: function (T, F, n, music, pos) {
+        var song = music === 2 ? F : "歌";
         return music ? [T + "を何度も聞いたことがあっても、本当に耳を傾けたことはありますか？", n >= 2 ? T + "には、あまり知られていない" + numX("ja", n) + "の物語があります。" : "",
-          "誰もが" + T + "を知っています。でも、この歌がどう生まれたかを知る人は多くありません。", "スクロールする前に、この歌の物語を聞いてください。"]
+          "誰もが" + T + "を知っています。でも、この" + song + "がどう生まれたかを知る人は多くありません。", "スクロールする前に、この" + song + "の物語を聞いてください。"]
         : [T + "には、多くの人が見過ごしてしまう細部があります。", n >= 2 ? T + "の" + numX("ja", n) + "の小さな細部が、ひとつの大きな物語を語っています。" : "",
           T + "を何度も見たことがあっても、じっくり見たことはありますか？", pos ? "ちょっと待って！この作品の" + pos + "を見てください。" : "ちょっと待って！この作品をよく見てください。",
           "動画を止めて数えてみてください。この作品の不思議な細部、いくつ見つかりますか？", "誰もが" + T + "を見たことがあります。でも、その裏の物語を知る人は多くありません。", "ただの" + F + "だと思いますか？もう一度よく見てください。"];
       }
     },
     zh: {
-      types: { folk: ["民间年画", "年画"], painting: ["绘画", "画作"], sculpture: ["雕塑", "雕像"], artifact: ["文物", "文物"], architecture: ["建筑", "建筑"], music: ["音乐", "歌曲"] },
-      trend: function (noun, music) { return music ? "现在我终于明白，为什么有人能把一首歌听上好几个小时……" : "现在我终于明白，为什么有人能盯着" + noun + "看上好几个小时……"; },
+      types: { folk: ["民间年画", "年画"], painting: ["绘画", "画作"], sculpture: ["雕塑", "雕像"], artifact: ["文物", "文物"], architecture: ["建筑", "建筑"], music: ["音乐", "歌曲"], intangible: ["非物质文化遗产", "非遗"] },
+      honor: { bvqg: "🏛️ 越南国宝", unesco: "🌏 联合国教科文组织人类非遗", usl: "🌏 联合国教科文组织急需保护的非遗" }, honorTags: { bvqg: ["#越南国宝"], unesco: ["#联合国教科文组织", "#非物质文化遗产"] },
+      trend: function (noun, music) { return music === 2 ? "现在我终于明白，为什么有人能把这种音乐听上好几个小时……" : music ? "现在我终于明白，为什么有人能把一首歌听上好几个小时……" : "现在我终于明白，为什么有人能盯着" + noun + "看上好几个小时……"; },
       head: /^(现在我终于明白)[，,]?\s*(.*)$/,
       detail: "❓ 细节 ", src: "📚 出处：", cta: "💬 哪个细节最让你意外？评论区打出编号！",
       aiBadge: "🤖 AI辅助制作", aiStart: "🤖 本视频使用了AI，内容可能有误，欢迎指正。",
       aiText: "本视频在AI辅助下制作（AI配音、自动剪辑）。作者并非艺术史专家，内容可能存在错误，欢迎核对出处并指正。",
       aiSay: "本视频使用了人工智能，内容可能有误，欢迎指正。",
-      follow: "关注我们，下期继续解读越南艺术。", followCta: "关注我们，看下一件作品 ✦", outroHead: "🎨 解码越南艺术",
+      follow: "关注{Vietnamese Art Decoded|我们}，下期继续解读越南艺术。", followCta: "关注我们，看下一件作品 ✦", outroHead: "🎨 解码越南艺术",
       refs: "📚 参考资料", photos: "📷 图片：", musicOwn: "音乐：作者自选", musicSyn: "音乐：自动合成", voice: "AI配音：",
       ownPhoto: "图片：作者自有", commons: "图片：维基共享资源", noImg: "图片无法加载",
       coverL1: "现在我终于明白了……", coverL1b: "名作解码", coverL3: "{n}个容易被忽略的细节",
@@ -162,7 +175,7 @@
       pos: { tl: "左上角", tr: "右上角", bl: "左下角", br: "右下角", t: "上方", b: "下方", l: "左侧", r: "右侧", c: "正中间" },
       openers: function (T, F, n, music, pos) {
         return music ? [T + "你可能听过很多遍，可你真的仔细听过吗？", n >= 2 ? "关于" + T + "，有" + numX("zh", n) + "不为人知的故事。" : "",
-          "人人都听过" + T + "，却很少有人知道它是怎么诞生的。", "先别划走！听听这首歌背后的故事。"]
+          "人人都听过" + T + "，却很少有人知道它是怎么诞生的。", "先别划走！听听" + (music === 2 ? "这项" + F : "这首歌") + "背后的故事。"]
         : [T + "里有一个细节，很多人看了却没看见。", n >= 2 ? T + "里的" + numX("zh", n) + "小细节，讲的是一个大故事。" : "",
           T + "你可能看过很多次，但真的仔细看过吗？", pos ? "先别划走！看看这件作品的" + pos + "。" : "先别划走！仔细看看这件作品。",
           "暂停视频数一数：这件作品里，你能找到几个奇怪的细节？", "人人都见过" + T + "，却很少有人知道背后的故事。", "你以为这只是普通的" + F + "？再仔细看看。"];
@@ -171,14 +184,16 @@
     ru: {
       types: { folk: ["Народная гравюра", "гравюра", "гравюру", "гравюре", "этой гравюры", "этой гравюре"], painting: ["Живопись", "картина", "картину", "картине", "этой картины", "этой картине"],
                sculpture: ["Скульптура", "статуя", "статую", "статуе", "этой статуи", "этой статуе"], artifact: ["Древности", "артефакт", "артефакт", "артефакте", "этого артефакта", "этом артефакте"],
-               architecture: ["Архитектура", "постройка", "постройку", "постройке", "этой постройки", "этой постройке"], music: ["Музыка", "песня", "песню", "песне", "этой песни", "этой песне"] },
+               architecture: ["Архитектура", "постройка", "постройку", "постройке", "этой постройки", "этой постройке"], music: ["Музыка", "песня", "песню", "песне", "этой песни", "этой песне"],
+               intangible: ["Нематериальное наследие", "традиция", "традицию", "традиции", "этой традиции", "этой традиции"] },
+      honor: { bvqg: "🏛️ Национальное сокровище Вьетнама", unesco: "🌏 Нематериальное наследие ЮНЕСКО", usl: "🌏 ЮНЕСКО · требует срочной охраны" }, honorTags: { bvqg: ["#НациональноеСокровище"], unesco: ["#ЮНЕСКО", "#НематериальноеНаследие"] },
       head: /^(Теперь я (?:наконец )?понимаю)[,:]?\s*(.*)$/i,
-      trend: function (noun, music) { return music ? "Теперь я понимаю, почему одну песню можно слушать часами…" : "Теперь я понимаю, почему на одно произведение можно смотреть часами…"; },
+      trend: function (noun, music) { return music === 2 ? "Теперь я понимаю, почему эту музыку можно слушать часами…" : music ? "Теперь я понимаю, почему одну песню можно слушать часами…" : "Теперь я понимаю, почему на одно произведение можно смотреть часами…"; },
       detail: "❓ ДЕТАЛЬ ", src: "📚 Источник: ", cta: "💬 Какая деталь удивила вас больше всего? Напишите её номер!",
       aiBadge: "🤖 Сделано с ИИ", aiStart: "🤖 В видео использован ИИ, возможны ошибки — будем рады поправкам.",
       aiText: "Видео создано с помощью ИИ (синтез речи, автоматический монтаж). Автор не искусствовед, поэтому возможны неточности — сверяйтесь с источниками и пишите нам.",
       aiSay: "В этом видео использован искусственный интеллект, возможны ошибки. Будем рады вашим поправкам.",
-      follow: "Подписывайтесь, чтобы не пропустить новые разборы.", followCta: "Подписывайтесь — дальше новое произведение ✦", outroHead: "🎨 ВЬЕТНАМСКОЕ ИСКУССТВО: РАЗБОР",
+      follow: "Подписывайтесь на {Vietnamese Art Decoded|Вьетнамиз Арт Дикоудид}, чтобы не пропустить новые разборы.", followCta: "Подписывайтесь — дальше новое произведение ✦", outroHead: "🎨 ВЬЕТНАМСКОЕ ИСКУССТВО: РАЗБОР",
       refs: "📚 Источники", photos: "📷 Изображения: ", musicOwn: "Музыка: выбор автора", musicSyn: "Музыка: синтезирована", voice: "ИИ-голос: ",
       ownPhoto: "Фото: из архива автора", commons: "Изображение: Викисклад", noImg: "Изображение недоступно",
       coverL1: "ТЕПЕРЬ Я ПОНИМАЮ…", coverL1b: "РАЗБОР ШЕДЕВРА", coverL3: "{n} {n:деталь|детали|деталей}, которые мало кто замечает",
@@ -190,22 +205,24 @@
       pos: { tl: "левый верхний угол", tr: "правый верхний угол", bl: "левый нижний угол", br: "правый нижний угол", t: "верхнюю часть", b: "нижнюю часть", l: "левую сторону", r: "правую сторону", c: "центр" },
       openers: function (T, F, n, music, pos, f) {
         f = f || ["", "произведение", "произведение", "произведении", "этого произведения", "этом произведении"];
-        return music ? ["Вы слышали " + T + " много раз, но вслушивались ли по-настоящему?", n >= 2 ? numX("ru", n, true) + " " + plRu(n, "история", "истории", "историй") + " о песне " + T + ", которые знает не каждый." : "",
-          "Все слышали песню " + T + ", но мало кто знает, как она родилась.", "Не листайте! Послушайте историю этой песни."]
+        var sg = music === 2 ? f : ["", "песня", "песню", "песне", "этой песни"];
+        return music ? ["Вы слышали " + T + " много раз, но вслушивались ли по-настоящему?", n >= 2 ? numX("ru", n, true) + " " + plRu(n, "история", "истории", "историй") + " о " + sg[3] + " " + T + ", которые знает не каждый." : "",
+          "Все слышали " + sg[2] + " " + T + ", но мало кто знает, как она родилась.", "Не листайте! Послушайте историю " + sg[4] + "."]
         : ["В " + f[3] + " " + T + " есть деталь, которую большинство не замечает.", n >= 2 ? numX("ru", n, true) + " " + plRu(n, "маленькая деталь", "маленькие детали", "маленьких деталей") + " в " + f[3] + " " + T + " рассказывают целую историю." : "",
           "Вы видели " + f[2] + " " + T + " много раз, но присматривались ли по-настоящему?", pos ? "Не листайте! Посмотрите на " + pos + " " + f[4] + "." : "Не листайте! Присмотритесь к " + f[5].replace(/^этом /, "этому ").replace(/^этой /, "этой ") + ".",
           "Поставьте видео на паузу и посчитайте: сколько странных деталей вы найдёте в " + f[5] + "?", "Все видели " + f[2] + " " + T + ", но мало кто знает историю этого произведения.", "Думаете, это просто " + f[1] + "? Посмотрите ещё раз."];
       }
     },
     ko: {
-      types: { folk: ["민화", "민화"], painting: ["회화", "그림"], sculpture: ["조각", "조각상"], artifact: ["유물", "유물"], architecture: ["건축", "건축물"], music: ["음악", "노래"] },
+      types: { folk: ["민화", "민화"], painting: ["회화", "그림"], sculpture: ["조각", "조각상"], artifact: ["유물", "유물"], architecture: ["건축", "건축물"], music: ["음악", "노래"], intangible: ["무형유산", "무형유산"] },
+      honor: { bvqg: "🏛️ 베트남 국보", unesco: "🌏 유네스코 인류무형유산", usl: "🌏 유네스코 긴급보호 무형유산" }, honorTags: { bvqg: ["#베트남국보"], unesco: ["#유네스코", "#무형유산"] },
       head: /^(이제야 알겠다)[,，]?\s*(.*)$/,
-      trend: function (noun, music) { return music ? "이제야 알겠다, 왜 사람들이 노래 한 곡을 몇 시간씩 듣는지…" : "이제야 알겠다, 왜 사람들이 " + noun + " 하나를 몇 시간씩 바라보는지…"; },
+      trend: function (noun, music) { return music === 2 ? "이제야 알겠다, 왜 사람들이 이 음악을 몇 시간씩 듣는지…" : music ? "이제야 알겠다, 왜 사람들이 노래 한 곡을 몇 시간씩 듣는지…" : "이제야 알겠다, 왜 사람들이 " + noun + " 하나를 몇 시간씩 바라보는지…"; },
       detail: "❓ 디테일 ", src: "📚 출처: ", cta: "💬 가장 놀라웠던 디테일은 몇 번인가요? 번호로 댓글 남겨 주세요!",
       aiBadge: "🤖 AI 활용", aiStart: "🤖 이 영상은 AI를 활용해 만들어서 오류가 있을 수 있어요. 바로잡아 주시면 감사하겠습니다.",
       aiText: "이 영상은 AI의 도움을 받아 만들었습니다(AI 음성, 자동 편집). 제작자는 전문가가 아니어서 오류가 있을 수 있어요. 출처를 함께 확인해 주세요.",
       aiSay: "이 영상은 인공지능을 활용해서 오류가 있을 수 있어요. 의견을 남겨 주세요.",
-      follow: "팔로우하고 다음 작품도 함께 봐요.", followCta: "팔로우하고 다음 작품 보기 ✦", outroHead: "🎨 베트남 미술 해설",
+      follow: "{Vietnamese Art Decoded|베트나미즈 아트 디코디드}를 팔로우하고 다음 작품도 함께 봐요.", followCta: "팔로우하고 다음 작품 보기 ✦", outroHead: "🎨 베트남 미술 해설",
       refs: "📚 참고 자료", photos: "📷 이미지: ", musicOwn: "음악: 제작자 선택", musicSyn: "음악: 자동 합성", voice: "AI 음성: ",
       ownPhoto: "사진: 제작자 소장", commons: "이미지: 위키미디어 공용", noImg: "이미지를 불러올 수 없어요",
       coverL1: "이제야 알겠다…", coverL1b: "명작 해설", coverL3: "대부분 놓치는 디테일 {n}가지",
@@ -216,8 +233,9 @@
       sample: "안녕하세요! 베트남 미술 해설 영상의 AI 음성 샘플이에요.",
       pos: { tl: "왼쪽 위 구석을", tr: "오른쪽 위 구석을", bl: "왼쪽 아래 구석을", br: "오른쪽 아래 구석을", t: "위쪽을", b: "아래쪽을", l: "왼쪽을", r: "오른쪽을", c: "한가운데를" },
       openers: function (T, F, n, music, pos) {
+        var song = music === 2 ? F : "노래";
         return music ? [T + ", 여러 번 들어 보셨죠? 그런데 정말 귀 기울여 들어 본 적 있나요?", n >= 2 ? T + "에 숨은, 잘 알려지지 않은 이야기 " + numX("ko", n) + "." : "",
-          "누구나 아는 노래 " + T + ". 하지만 이 노래가 어떻게 태어났는지 아는 사람은 많지 않아요.", "넘기지 마세요! 이 노래에 얽힌 이야기를 들어 보세요."]
+          "누구나 아는 " + song + " " + T + ". 하지만 이 " + josa(song, "이", "가") + " 어떻게 태어났는지 아는 사람은 많지 않아요.", "넘기지 마세요! 이 " + song + "에 얽힌 이야기를 들어 보세요."]
         : [T + "에는 많은 사람이 그냥 지나치는 디테일이 있어요.", n >= 2 ? T + " 속 작은 디테일 " + numX("ko", n) + "가 하나의 큰 이야기를 들려줘요." : "",
           T + ", 여러 번 보셨죠? 그런데 정말 자세히 본 적 있나요?", pos ? "넘기지 마세요! 이 " + F + "의 " + pos + " 보세요." : "넘기지 마세요! 이 " + josa(F, "을", "를") + " 자세히 보세요.",
           "영상을 멈추고 세어 보세요. 이 " + F + "에서 이상한 디테일을 몇 개나 찾을 수 있나요?", "누구나 본 적 있는 " + T + ". 하지만 그 뒤에 숨은 이야기를 아는 사람은 많지 않아요.", "그냥 평범한 " + josa(F, "이라고요", "라고요") + "? 다시 한번 보세요."];
@@ -226,6 +244,16 @@
   };
   function TXL(l) { return TX[l] || TX.vi; }
   function typeName(type, l) { var t = TXL(l).types[type]; return t ? t[0] : typeOf(type).vi; }
+  // loạt (v1.4): w.series = "bvqg" | "unesco"; w.honor = { kind: "bvqg", decision, date, batch } | { kind: "unesco", list: "RL" | "USL", year, masterpiece? }
+  function seriesOf(w) { var s = (w && (w.series || (w.honor && w.honor.kind))) || ""; return s === "bvqg" || s === "unesco" ? s : ""; }
+  // năm hiện trên huy hiệu: BVQG theo ngày quyết định; UNESCO theo năm được công nhận Kiệt tác (nếu có, vd nhã nhạc 2003), không thì năm ghi danh
+  function honorYear(h) { var y = h ? String(h.date || h.masterpiece || h.year || "").slice(0, 4) : ""; return /^\d{4}$/.test(y) ? y : ""; }
+  // dòng huy hiệu theo ngôn ngữ video: «🏛️ Bảo vật quốc gia · 2012», «🌏 Di sản UNESCO · 2009», «🌏 UNESCO · cần bảo vệ khẩn cấp · 2022»
+  function honorLine(w, l) {
+    var s = seriesOf(w), H = TXL(l).honor; if (!s || !H) return "";
+    var y = honorYear(w.honor); return H[s === "unesco" && w.honor && w.honor.list === "USL" ? "usl" : s] + (y ? " · " + y : "");
+  }
+  function honorTags(w, l) { var s = seriesOf(w), H = TXL(l).honorTags; return (s && H && H[s]) || []; }
 
   /* phông chữ theo ngôn ngữ (chữ La-tinh vẫn lấy Segoe UI/Times; chữ Nhật/Trung/Hàn lấy phông đúng vùng để không lẫn nét chữ Hán) */
   var FONTS = {
@@ -437,6 +465,17 @@
     return IMGC[url];
   }
   async function loadCands(cands) { for (var i = 0; i < cands.length; i++) { var im = await loadOne(cands[i]); if (im) return im; } return null; }
+  // ảnh nhúng sẵn (v1.4, tranh còn bản quyền): img[i].emb = khoá; data/img/<khoá>.js gán ART_IMG[khoá] = "data:image/jpeg;base64,…"
+  // — data URI nên canvas không «bẩn» khi mở trang bằng file:// (giống brand/brand.js); ảnh nhỏ data/img/<khoá>-500.jpg cho danh mục
+  var EMBP = {};
+  function embKey(im) { var k = im && im.emb; return typeof k === "string" && /^[\w.-]+$/.test(k) ? k : ""; }
+  function embData(key) {
+    function got() { var s = global.ART_IMG && global.ART_IMG[key]; return typeof s === "string" && /^data:image\//.test(s) ? s : ""; }
+    if (!key) return Promise.resolve(""); if (got()) return Promise.resolve(got());
+    return EMBP[key] || (EMBP[key] = L.loadScript("data/img/" + key + ".js?v=" + IMG_V).catch(function () { }).then(function () { var s = got(); if (!s) delete EMBP[key]; return s; }));
+  }
+  function embURL(im) { return embData(embKey(im)); }                                   // Promise → data URI (trình xem ảnh lớn)
+  function embThumb(im) { var k = embKey(im); return k ? "data/img/" + k + "-500.jpg" : ""; }
 
   // IndexedDB: ảnh của anh (blob) theo khoá "<id>#<số ảnh>"
   var IDB = (function () {
@@ -489,6 +528,10 @@
   /* ---------------- 2. lời đọc ---------------- */
   // trang Facebook «Giải mã Nghệ Thuật» (v1.3): chữ ký, mã QR, logo cuối video
   var BRAND_NAME = "Giải mã Nghệ Thuật", BRAND_URL = "https://www.facebook.com/profile.php?id=61596148916409", OLD_CREDIT = "Phạm Đăng Hiển · fb.com/lopmaybay", OLD_QR = "https://fb.com/lopmaybay";
+  var BRAND_NAME_EN = "Vietnamese Art Decoded";                 // v1.4: tên tiếng Anh của trang, dùng cho video không phải tiếng Việt
+  // chữ ký theo ngôn ngữ video: chữ ký là tên trang mặc định → video tiếng nước ngoài ký tên tiếng Anh; chữ ký anh tự sửa thì giữ nguyên.
+  // fb = true: chữ ký trống thì lấy tên trang (nhãn dưới mã QR, dòng «✦ … · URL» trong lời đăng)
+  function creditL(O, l, fb) { var c = (O && O.credit) || (fb ? BRAND_NAME : ""); return c === BRAND_NAME && (l || "vi") !== "vi" ? BRAND_NAME_EN : c; }
   var DEF = { aspect: "9:16", res: 720, len: "full", pace: "mid", voice: "ai", rate: 1, music: "auto", musicVol: 0.5, trend: true, caps: true,
               qcard: true, nums: true, spot: true, credit: BRAND_NAME, qr: true, qrUrl: BRAND_URL, srcs: true, lang: "vi", vlang: "vi", brand: true,
               voices: { vi: "vi", en: "en", ja: "st:F1", zh: "zh", ru: "ru", ko: "st:F2" },
@@ -503,7 +546,7 @@
   function srcLabel(s) { return s ? (s.s || String(s.t || "").split(" — ")[0] || domainOf(s.u)) : ""; }
   function domainOf(u) { var m = String(u || "").match(/^https?:\/\/(?:www\.)?([^\/?#]+)/i); return m ? m[1] : ""; }
   function stepSources(w, st) { return (st && st.src || []).map(function (i) { return (w.sources || [])[i]; }).filter(Boolean); }
-  function imgCreditOf(d, m) { var T = TXL(LCUR); if (m && m.src === "user") return T.ownPhoto; if (!d) return ""; var by = d.by || T.commons; return by + (d.lic && by.indexOf(d.lic) < 0 && !/Phạm vi|CC0/.test(d.by || "") ? " · " + d.lic : ""); }
+  function imgCreditOf(d, m) { var T = TXL(LCUR); if (m && m.src === "user") return T.ownPhoto; if (!d) return ""; var by = d.by || (embKey(d) ? "" : T.commons); if (!by) return d.lic || ""; return by + (d.lic && by.indexOf(d.lic) < 0 && !/Phạm vi|CC0/.test(d.by || "") ? " · " + d.lic : ""); }
   function loadOpts() {
     var o = {}, s = lsGet("av_opts", {}) || {};
     if ((s.v || 0) < 13) { if (s.credit === OLD_CREDIT) delete s.credit; if (s.qrUrl === OLD_QR) delete s.qrUrl; }   // đổi sang trang mới nếu anh chưa tự sửa
@@ -513,7 +556,7 @@
     o.lang = "vi"; o.v = 13; return o;
   }
   function saveOpts(O) { var c = {}; for (var k in O) if (k !== "trendText") c[k] = O[k]; lsSet("av_opts", c); }
-  function musicFor(w, O) { if (O.music && O.music !== "auto") return O.music; return w.type === "painting" || w.type === "music" ? "zen" : "ngu"; }
+  function musicFor(w, O) { if (O.music && O.music !== "auto") return O.music; return w.type === "painting" || isListen(w) ? "zen" : "ngu"; }
   function trendLine(w, O) {
     if (O.trendText && String(O.trendText).trim()) return String(O.trendText).trim();
     if (w.trendLine) return w.trendLine;
@@ -528,14 +571,14 @@
   }
   function openerList(w, O) {
     var lx = O && O.vlang || "vi"; if (lx !== "vi") return openerListX(w, O, lx);
-    var t = typeOf(w.type), music = w.type === "music", noun = (w.trend && !/^(nghe|đứng|ngồi|lắng)/.test(w.trend) ? w.trend : t.noun) || "một tác phẩm";
+    var t = typeOf(w.type), music = isListen(w), noun = (w.trend && !/^(nghe|đứng|ngồi|lắng)/.test(w.trend) ? w.trend : t.noun) || "một tác phẩm";
     var noun2 = noun.replace(/^một\s+/, ""), n = pickSteps(w, O || {}).length, T = w.title;
     var first = (w.steps || []).filter(function (s) { return !s.card && s.b && s.b[2] * s.b[3] < 0.4; })[0], out = [];
     (w.openers || []).forEach(function (x) { if (x && String(x).trim()) out.push({ t: String(x).trim(), g: "Riêng cho tác phẩm này" }); });
     (music ? [
       "Bạn đã nghe " + T + " rất nhiều lần, nhưng đã bao giờ thật sự lắng nghe?",
       n >= 2 ? n + " câu chuyện phía sau " + T + " mà không phải ai cũng biết." : "",
-      "Ai cũng từng nghe " + T + ", nhưng ít ai biết bài hát đã ra đời thế nào.",
+      "Ai cũng từng nghe " + T + ", nhưng ít ai biết " + (w.type === "music" ? "bài hát" : noun2 + " này") + " đã ra đời thế nào.",
       "Khoan lướt! Hãy nghe câu chuyện phía sau " + noun2 + " này."
     ] : [
       "Có một chi tiết trong " + T + " mà rất nhiều người nhìn qua mà không thấy.",
@@ -592,12 +635,12 @@
   function trendLineX(w, O, l) {
     if (O && O.trendText && String(O.trendText).trim()) return String(O.trendText).trim();
     if (w.trendLine && w.lang === l) return w.trendLine;
-    var T = TXL(l), ty = T.types[w.type]; return T.trend ? T.trend(ty ? ty[1] : "", w.type === "music") : trendLine(w, O);
+    var T = TXL(l), ty = T.types[w.type]; return T.trend ? T.trend(ty ? ty[1] : "", listenMode(w)) : trendLine(w, O);
   }
   function trendLineV(V) { var l = V.lang || "vi"; return l === "vi" ? trendLine(V.w, V.O) : trendLineX(V.w, V.O, l); }
   function posKey(b) { var cx = b[0] + b[2] / 2, cy = b[1] + b[3] / 2, h = cx < 0.36 ? "l" : cx > 0.64 ? "r" : "", v = cy < 0.36 ? "t" : cy > 0.64 ? "b" : ""; return h && v ? v + h : v || h || "c"; }
   function openerListX(w, O, l) {
-    var T = TXL(l), out = [], n = pickSteps(w, O || {}).length, music = w.type === "music", ty = T.types[w.type] || [], noun = ty[1] || "";
+    var T = TXL(l), out = [], n = pickSteps(w, O || {}).length, music = listenMode(w), ty = T.types[w.type] || [], noun = ty[1] || "";
     var first = (w.steps || []).filter(function (s) { return !s.card && s.b && s.b[2] * s.b[3] < 0.4; })[0], pos = first && T.pos ? T.pos[posKey(first.b)] : "";
     (w.openers || []).forEach(function (x) { if (x && String(x).trim()) out.push({ t: String(x).trim(), g: "Riêng cho tác phẩm này" }); });
     if (T.openers) T.openers(quoteT(w.title, l), noun, n, music, pos, l === "ru" ? ty : null).forEach(function (x) { if (x) out.push({ t: x, g: "Mẫu chung" }); });
@@ -628,7 +671,7 @@
 
   var BRAND = { img: null, p: null };
   function ensureBrand() {
-    return BRAND.p || (BRAND.p = (global.ART_BRAND ? Promise.resolve() : L.loadScript("brand/brand.js?v=1").catch(function () { })).then(function () {
+    return BRAND.p || (BRAND.p = (global.ART_BRAND ? Promise.resolve() : L.loadScript("brand/brand.js?v=2").catch(function () { })).then(function () {
       var src = global.ART_BRAND && global.ART_BRAND.logo; if (!src) return null;
       return new Promise(function (res) { var im = new Image(); im.onload = function () { BRAND.img = im; res(im); }; im.onerror = function () { res(null); }; im.src = src; });
     }));
@@ -639,7 +682,8 @@
     for (var k = 0; k < n; k++) {
       var d = w.img[k], el = null, src = "";
       var uu = await userImageURL(w.id, k);
-      if (uu) { el = await loadOne(uu); src = "user"; }
+      if (uu) { el = await loadOne(uu); src = "user"; }                                   // thứ tự: ảnh của anh → ảnh nhúng sẵn → Commons
+      if (!el && embKey(d)) { var du = await embData(embKey(d)); if (du) { el = await loadOne(du); src = "emb"; } }
       if (!el && d.file) { el = await loadCands(commonsCands(d)); src = "commons"; }
       if (onProg) onProg(k + 1, n);
       res.push(prepImage(el, d, src));
@@ -882,7 +926,7 @@
     // minh bạch: tên tác giả ảnh (dọc mép trái), nhãn «Có dùng AI», lời nhắc ở cảnh đầu
     if (T !== "outro") overlays(ctx, V, sc, tau, Ly, cam, i);
     // chữ ký góc + thanh tiến độ
-    if (O.credit && T !== "outro") { ctx.save(); ctx.font = F(700, 15 * u); ctx.fillStyle = "rgba(255,255,255,0.72)"; ctx.textAlign = "right"; ctx.textBaseline = "bottom"; ctx.shadowColor = "rgba(0,0,0,0.7)"; ctx.shadowBlur = 4; ctx.fillText("✦ " + O.credit, W - Ly.pad * 0.6, H - 10 * u); ctx.restore(); }
+    if (O.credit && T !== "outro") { ctx.save(); ctx.font = F(700, 15 * u); ctx.fillStyle = "rgba(255,255,255,0.72)"; ctx.textAlign = "right"; ctx.textBaseline = "bottom"; ctx.shadowColor = "rgba(0,0,0,0.7)"; ctx.shadowBlur = 4; ctx.fillText("✦ " + creditL(O, V.lang), W - Ly.pad * 0.6, H - 10 * u); ctx.restore(); }
     ctx.fillStyle = "rgba(255,255,255,0.14)"; ctx.fillRect(0, H - 4 * u, W, 4 * u); ctx.fillStyle = GOLD; ctx.fillRect(0, H - 4 * u, W * clamp(t / V.total, 0, 1), 4 * u);
     ctx.restore();
   }
@@ -956,6 +1000,12 @@
     ctx.fillStyle = fill; rr(ctx, xx, y, w, h, h / 2); ctx.fill(); ctx.fillStyle = color; ctx.textBaseline = "middle"; ctx.textAlign = "left"; ctx.fillText(text, xx + px * 0.6, y + h / 2 + px * 0.04);
     ctx.restore(); return { w: w, h: h, x: xx };
   }
+  // dòng huy hiệu loạt (v1.4): chữ co lại cho vừa một dòng; dài quá (vd tiếng Anh «… in Need of Urgent Safeguarding») thì xuống 2 dòng
+  function honorFit(ctx, text, maxW, u) {
+    if (!text) return null; var px = 17 * u;
+    for (; px > 14 * u; px -= 0.5 * u) { ctx.font = F(800, px); if (ctx.measureText(text).width <= maxW) return { lines: [text], px: px }; }
+    ctx.font = F(800, px); return { lines: wrap(ctx, text, maxW, 2), px: px };
+  }
   function drawInfo(ctx, V, sc, tau, Ly) {
     var W = V.W, H = V.H, u = Ly.u, w = V.w, a = easeOut(seg(tau, 0.15, 0.85)), out = 1 - seg(tau, sc.dur - 0.4, sc.dur);
     var x = Ly.pad, maxW = W - Ly.pad * 2, t = typeOf(w.type);
@@ -963,12 +1013,24 @@
     ctx.font = FS(800, (Ly.port ? 44 : 46) * u); var tl = wrap(ctx, w.title, maxW - 30 * u, 3);
     ctx.font = F(600, 21 * u); var meta = [w.titleVi && w.titleVi !== w.title ? "🇻🇳 " + w.titleVi : "", w.artist, w.date].filter(Boolean).join(" · "), ml = wrap(ctx, meta, maxW - 30 * u, 3);
     var sub = [w.medium, w.where].filter(Boolean).join(" · "); ctx.font = F(500, 18 * u); var sl = wrap(ctx, sub, maxW - 30 * u, 3);
-    var h = 40 * u + tl.length * 50 * u + ml.length * 27 * u + sl.length * 24 * u + 30 * u, y = Ly.infoY - h / 2 + (1 - a) * 40 * u;
+    // v1.4: dòng huy hiệu loạt ngay dưới tên tác phẩm (🏛️ Bảo vật quốc gia · 2012 / 🌏 Di sản UNESCO · 2009), theo ngôn ngữ video
+    var hb = honorFit(ctx, honorLine(w, V.lang), maxW - 64 * u, u), hlh = hb ? hb.px * 1.3 : 0, hbH = hb ? hb.lines.length * hlh + 12 * u : 0;
+    var h = 40 * u + tl.length * 50 * u + (hb ? hbH + 14 * u : 0) + ml.length * 27 * u + sl.length * 24 * u + 30 * u, y0 = Ly.infoY - h / 2;
+    // thẻ tên không lấn xuống phụ đề (tối đa 2 dòng) bên dưới, cũng không lên tới nhãn «Có dùng AI» ở góc trên
+    if (V.O.caps && sc.narr && sc.narr.length) { var cpx = 25 * u * Ly.cs; y0 = Math.max(Math.min(y0, Ly.capY + (Ly.safe ? 0 : 30 * u) - (2 * cpx * 1.32 + 0.7 * cpx) / 2 - 14 * u - h), Ly.badgeY + 48 * u); }
+    var y = y0 + (1 - a) * 40 * u;
     panel(ctx, x, y, maxW, h, 22 * u, "rgba(9,16,30,0.84)");
     ctx.fillStyle = GOLD; ctx.fillRect(x, y + 22 * u, 5 * u, h - 44 * u);
     chip(ctx, x + 18 * u, y - 18 * u, t.icon + " " + typeName(w.type, V.lang), 17 * u, GOLD, NAVY);
     var yy = y + 38 * u; ctx.textBaseline = "middle"; ctx.textAlign = "left";
     ctx.font = FS(800, (Ly.port ? 44 : 46) * u); ctx.fillStyle = "#fff"; tl.forEach(function (l) { ctx.fillText(l, x + 22 * u, yy + 12 * u); yy += 50 * u; });
+    if (hb) {
+      ctx.font = F(800, hb.px); var bw = 0; hb.lines.forEach(function (l) { bw = Math.max(bw, ctx.measureText(l).width); });
+      var hx = x + 22 * u, hy = yy - 6 * u;
+      ctx.save(); rr(ctx, hx, hy, bw + 20 * u, hbH, Math.min(hbH / 2, 14 * u)); ctx.fillStyle = "rgba(242,193,78,0.15)"; ctx.fill(); ctx.strokeStyle = "rgba(242,193,78,0.85)"; ctx.lineWidth = 1.4 * u; ctx.stroke(); ctx.restore();
+      ctx.fillStyle = "#ffe2a0"; hb.lines.forEach(function (l, i) { ctx.fillText(l, hx + 10 * u, hy + 6 * u + hlh * (i + 0.5)); });
+      yy += hbH + 14 * u;
+    }
     ctx.font = F(700, 21 * u); ctx.fillStyle = GOLD; ml.forEach(function (l) { ctx.fillText(l, x + 22 * u, yy + 4 * u); yy += 27 * u; });
     ctx.font = F(500, 18 * u); ctx.fillStyle = "rgba(255,255,255,0.82)"; sl.forEach(function (l) { ctx.fillText(l, x + 22 * u, yy + 4 * u); yy += 24 * u; });
     ctx.restore();
@@ -1097,17 +1159,20 @@
       if (port && qy + qrS + 34 * u > ctaY - 16 * u) { var s2 = Math.max(W * 0.16, ctaY - 50 * u - qy); qx += (qrS - s2) / 2; qrS = s2; }
       var cv = L.qrCanvas(O.qrUrl);
       if (cv) { ctx.fillStyle = "#fff"; rr(ctx, qx - 10 * u, qy - 10 * u, qrS + 20 * u, qrS + 20 * u, 14 * u); ctx.fill(); ctx.imageSmoothingEnabled = false; ctx.drawImage(cv, qx, qy, qrS, qrS); ctx.imageSmoothingEnabled = true; }
-      ctx.font = F(700, 16 * u); ctx.fillStyle = "#fff"; ctx.textAlign = port ? "center" : "left";
-      ctx.fillText(/facebook\.com\/profile\.php\?id=/.test(O.qrUrl) ? "Facebook · " + (O.credit || BRAND_NAME) : L.shortUrl(O.qrUrl), port ? W / 2 : qx, qy + qrS + 16 * u);
+      // nhãn dưới mã QR; khung ngang/vuông: canh giữa mã QR, co chữ cho vừa (không tràn mép phải, không lấn cột chữ bên trái)
+      var ql = /facebook\.com\/profile\.php\?id=/.test(O.qrUrl) ? "Facebook · " + creditL(O, V.lang, true) : L.shortUrl(O.qrUrl), qcx = port ? W / 2 : qx + qrS / 2;
+      var qmw = port ? W - 2 * Ly.pad : 2 * Math.min(qrS / 2 + 30 * u, W - 8 * u - qcx);
+      ctx.font = F(700, 16 * u); var qtw = ctx.measureText(ql).width; if (qtw > qmw) ctx.font = F(700, Math.max(11 * u, 16 * u * qmw / qtw));
+      ctx.fillStyle = "#fff"; ctx.textAlign = "center"; ctx.fillText(ql, qcx, qy + qrS + 16 * u);
     }
     ctx.textAlign = "center"; ctx.font = F(900, 25 * u); ctx.fillStyle = GOLD;
     ctx.fillText(TL.followCta, W / 2, ctaY);
     if (O.credit) {
       var cy2 = ctaY + (Ly.sq || Ly.safe ? 31 : 36) * u, logo = O.brand !== false && BRAND.img && BRAND.img.complete && BRAND.img.naturalWidth ? BRAND.img : null, ls = 28 * u, lcy = cy2 + 9 * u;
-      ctx.font = F(700, 17 * u); var cw2 = ctx.measureText(O.credit).width, gx = W / 2 - (cw2 + (logo ? ls + 8 * u : 0)) / 2;
+      var crd = creditL(O, V.lang); ctx.font = F(700, 17 * u); var cw2 = ctx.measureText(crd).width, gx = W / 2 - (cw2 + (logo ? ls + 8 * u : 0)) / 2;
       if (logo) { ctx.save(); ctx.beginPath(); ctx.arc(gx + ls / 2, lcy, ls / 2, 0, Math.PI * 2); ctx.clip(); ctx.drawImage(logo, gx, lcy - ls / 2, ls, ls); ctx.restore(); ctx.save(); ctx.strokeStyle = "rgba(242,193,78,0.85)"; ctx.lineWidth = 1.5 * u; ctx.beginPath(); ctx.arc(gx + ls / 2, lcy, ls / 2, 0, Math.PI * 2); ctx.stroke(); ctx.restore(); gx += ls + 8 * u; }
-      ctx.fillStyle = "rgba(255,255,255,0.85)"; ctx.textAlign = "left"; ctx.fillText(O.credit, gx, cy2);
-      if ((V.lang || "vi") !== "vi" && TL.tagline) { ctx.font = F(600, 13.5 * u); ctx.fillStyle = "rgba(242,193,78,0.85)"; ctx.textAlign = "center"; ctx.fillText(TL.tagline, W / 2, cy2 + 21 * u); }
+      ctx.fillStyle = "rgba(255,255,255,0.85)"; ctx.textAlign = "left"; ctx.fillText(crd, gx, cy2);
+      if ((V.lang || "vi") !== "vi" && TL.tagline) { ctx.font = F(600, 13.5 * u); ctx.fillStyle = "rgba(242,193,78,0.85)"; ctx.textAlign = "center"; ctx.fillText(TL.tagline, W / 2, cy2 + (logo ? 26 : 21) * u); }   // dưới vòng logo
     }
     ctx.restore();
   }
@@ -1120,7 +1185,7 @@
            t: giây (khi lấy khung hình), l1/l2/l3: 3 dòng chữ ({tên}, {n} tự thay), pos: "top"|"mid"|"bot", dim: độ tối nền chữ } */
   var COVER_KEYS = ["src", "k", "focus", "zoom", "px", "py", "fit", "t", "l1", "l2", "l3", "pos", "dim", "tx"];
   function coverDefaults(w, O) {
-    var k0 = 0; (w.img || []).some(function (d, k) { if (d && d.file) { k0 = k; return true; } return false; });
+    var k0 = 0; (w.img || []).some(function (d, k) { if (d && (d.file || embKey(d))) { k0 = k; return true; } return false; });
     return { src: "img", k: k0, focus: -1, zoom: 1, px: 0.5, py: 0.5, fit: "fill", t: 3, l1: O && O.trend === false ? "GIẢI MÃ TÁC PHẨM" : "GIỜ THÌ TÔI MỚI HIỂU…", l2: "{tên}", l3: "{n} chi tiết ít ai để ý", pos: "mid", dim: 0.55 };
   }
   function coverSig(C) { return JSON.stringify(COVER_KEYS.map(function (k) { return C[k]; })); }
@@ -1226,10 +1291,10 @@
   }
   function hashTag(x) { return "#" + String(x).normalize("NFC").split(/[^\p{L}\p{N}]+/u).filter(Boolean).map(function (p) { return p.charAt(0).toUpperCase() + p.slice(1); }).join(""); }
   function postText(w, V) {
-    var l = V.lang || "vi", TL = TXL(l), tags = TL.hashtags.concat([hashTag(typeName(w.type, l))]).concat((w.tags || []).slice(0, 4).map(hashTag));
+    var l = V.lang || "vi", TL = TXL(l), tags = TL.hashtags.concat([hashTag(typeName(w.type, l))]).concat(honorTags(w, l)).concat((w.tags || []).slice(0, 4).map(hashTag));
     if (l !== "vi") tags.push("#GiảiMãNghệThuật");
-    var tl = l === "vi" ? trendLine(w, V.O) : trendLineX(w, V.O, l);
-    var lines = [disp(tl), "", "🎨 " + w.title + (w.titleVi && w.titleVi !== w.title ? " (" + w.titleVi + ")" : "") + (w.artist ? " — " + w.artist : "") + (w.date ? " (" + w.date + ")" : ""), "", disp(w.hook || "")];
+    var tl = l === "vi" ? trendLine(w, V.O) : trendLineX(w, V.O, l), hl = honorLine(w, l);
+    var lines = [disp(tl), "", "🎨 " + w.title + (w.titleVi && w.titleVi !== w.title ? " (" + w.titleVi + ")" : "") + (w.artist ? " — " + w.artist : "") + (w.date ? " (" + w.date + ")" : "")].concat(hl ? [hl] : [], ["", disp(w.hook || "")]);
     lines.push("", TL.inVideo); V.steps.slice(0, 8).forEach(function (s, i) { lines.push((i + 1) + ". " + disp(s.q || "")); });
     if (w.where) lines.push("", "📍 " + w.where);
     lines.push("", TL.comment);
@@ -1237,7 +1302,7 @@
     if (refs.length) { lines.push("", TL.postRefs); refs.slice(0, 8).forEach(function (r) { lines.push("• " + srcLabel(r) + ": " + r.u); }); }
     if (V.I) { var cr = imgCredits(V); if (cr.img.length) lines.push(TL.photos + cr.img.join(" · ")); }
     if (O.ai) lines.push("", "🤖 " + (l === "vi" ? aiText(O) : TL.aiText));
-    if (l !== "vi" && O.qrUrl) lines.push("", "✦ " + (O.credit || BRAND_NAME) + " · " + O.qrUrl);
+    if (l !== "vi" && O.qrUrl) lines.push("", "✦ " + creditL(O, l, true) + " · " + O.qrUrl);
     lines.push("", tags.filter(function (x, i, a) { return x.length > 2 && a.indexOf(x) === i; }).join(" "));
     return lines.join("\n");
   }
@@ -1508,7 +1573,7 @@
           if (lg !== "vi" && w.trMissing < 0) { row.innerHTML = "⏭️ " + tag + escH(w0.title) + ' <span class="av-tip">— bỏ qua: chưa có bản dịch ' + escH(LINFO[lg].name) + " (mở studio → 🌐 → 🤖 Nhờ AI dịch)</span>"; continue; }
           ui.phase("Đang tải ảnh…", 0);
           var I = IMGS[w0.id] || (IMGS[w0.id] = await loadWorkImages(w0));
-          if (!I.some(function (m) { return m && m.ok; })) { row.innerHTML = "⏭️ " + tag + escH(w0.title) + ' <span class="av-tip">— bỏ qua: chưa có ảnh (tranh còn bản quyền cần ảnh của anh)</span>'; continue; }
+          if (!I.some(function (m) { return m && m.ok; })) { row.innerHTML = "⏭️ " + tag + escH(w0.title) + ' <span class="av-tip">— bỏ qua: ' + ((w0.img || []).some(function (m) { return m.user; }) ? "chưa có ảnh (tranh còn bản quyền cần ảnh của anh)" : "không tải được ảnh") + "</span>"; continue; }
           var o = optsFor(w0, lg);
           var out = await produce(w, o, I, ui, function () { return cancelled; }, function (fn) { cancelFn = fn; });
           var base = L.slug(w0.title) + "-" + o.aspect.replace(":", "x") + (o.len === "short" ? "-ngan" : "") + (lg !== "vi" ? "-" + lg : ""), name = base + "." + out.r.ext, url = URL.createObjectURL(out.r.blob); urls.push(url);
@@ -1722,7 +1787,7 @@
       var C = CV.C, okA = !!CV.ok[O.aspect];
       var st = $('[data-v="covst"]'); st.textContent = okA ? "✅ đã chốt (" + O.aspect + ")" : "⚠️ chưa chốt (" + O.aspect + ")"; st.className = "av-covst " + (okA ? "ok" : "no");
       var bg = $('[data-cv="bg"]'), html = "";
-      w.img.forEach(function (d, k) { if (I[k] && I[k].ok) html += '<option value="img:' + k + '"' + (C.src === "img" && C.k === k ? " selected" : "") + ">Ảnh " + (k + 1) + " · " + escH(String(d.file || "ảnh của anh").replace(/\.[a-z]+$/i, "").slice(0, 40)) + "</option>"; });
+      w.img.forEach(function (d, k) { if (I[k] && I[k].ok) html += '<option value="img:' + k + '"' + (C.src === "img" && C.k === k ? " selected" : "") + ">Ảnh " + (k + 1) + " · " + escH(String(d.file || (embKey(d) ? "ảnh nhúng " + embKey(d) : "ảnh của anh")).replace(/\.[a-z]+$/i, "").slice(0, 40)) + "</option>"; });
       if (I.coverEl) html += '<option value="user"' + (C.src === "user" ? " selected" : "") + ">📂 Ảnh bìa của anh</option>";
       html += '<option value="frame"' + (C.src === "frame" ? " selected" : "") + ">📸 Khung hình lúc " + fmtClock(+C.t || 0) + "</option>";
       bg.innerHTML = html;
@@ -2333,10 +2398,12 @@
     version: VERSION, open: open, edit: function (w, o) { o = o || {}; o.edit = true; return open(w, o); }, newWork: newWork,
     resolve: resolve, listCustom: listCustom, saveCustom: saveCustom, deleteCustom: deleteCustom, getOverride: getOverride,
     userImageURL: userImageURL, hasUserImage: hasUserImage, commonsThumb: commonsThumb, commonsPage: commonsPage, typeOf: typeOf, trendLine: trendLine,
+    embThumb: embThumb, embURL: embURL, seriesOf: seriesOf, honorYear: honorYear, honorLine: honorLine, BRAND_NAME_EN: BRAND_NAME_EN,
     batch: batch, aiPrompt: aiPrompt, commonsSearch: commonsSearch, srcLabel: srcLabel, openerList: openerList,
     LANGS: LANGS, LINFO: LINFO, ensureLang: ensureLang, localize: localize, trStatus: trStatus, trPrompt: trPrompt,
     _t: { narrate: narrate, build: build, renderArt: renderArt, pickSteps: pickSteps, loadWorkImages: loadWorkImages, prepImage: prepImage, commonsCands: commonsCands, boxView: boxView, fullView: fullView,
           chapters: chapters, postText: postText, cover: cover, DEF: DEF, sceneAt: sceneAt, LY: LY, applyAI: applyAI, parseAIJSON: parseAIJSON, produce: produce,
-          splitX: splitX, speakX: speakX, disp: disp, spk: spk, viNumbers: viNumbers, narrateX: narrateX, openerListX: openerListX, ytMeta: ytMeta, ytTitle: ytTitle, renderCover: renderCover, coverLines: coverLines, loadOpts: loadOpts, applyTr: applyTr }
+          splitX: splitX, speakX: speakX, disp: disp, spk: spk, viNumbers: viNumbers, narrateX: narrateX, openerListX: openerListX, ytMeta: ytMeta, ytTitle: ytTitle, renderCover: renderCover, coverLines: coverLines, loadOpts: loadOpts, applyTr: applyTr,
+          isListen: isListen, musicFor: musicFor, trendLineX: trendLineX, imgCreditOf: imgCreditOf, imgCredits: imgCredits, coverDefaults: coverDefaults }
   };
 })(window);
