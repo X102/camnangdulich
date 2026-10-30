@@ -21,12 +21,17 @@
          thêm 2 bản nhạc: 🎋 Ngũ cung (đàn tranh, sáo — điệu ngũ cung Việt) và 🕯️ Suy ngẫm (piano, nền tĩnh).
    v2.2: giọng AI đa ngôn ngữ — chọn giọng theo từng tiếng (O.voices); thêm giọng Trung Piper «Chaowen» (pinyin) và
          10 giọng Supertonic 3 (Việt, Anh, Nhật, Hàn, Nga…) chạy trong Web Worker, WebGPU khi có. Video tour giữ nguyên giọng cũ.
+  v2.3: nhạc nền mở rộng — 16 bản trong ô chọn <select> 3 nhóm: Chung · Âm hưởng dân ca Việt Nam (🎋 Ngũ cung, 🎐 Đàn bầu,
+         🏯 Cung đình Huế, 🌙 Tài tử Nam Bộ, 🥁 Cồng chiêng Tây Nguyên, 🌿 Tây Bắc, 🐘 Chăm) · Âm hưởng dân ca Nga (🪕 Коробейники,
+         💃 Плясовая, 🌾 Протяжная, 🎼 Гусли, 🔔 Колокольный звон). Giai điệu các bản mới tự soạn theo âm hưởng từng vùng (thang âm,
+         nhịp, màu nhạc cụ, lối nhấn nhá) — không chép bài nào có sẵn. MUSIC.GROUPS / MUSIC.info(); chiêng, chuông, trống, tiếng gõ
+         tổng hợp sẵn thành mẫu, bộ lọc dùng chung cho từng nhạc cụ → dựng một vòng nhạc nhẹ CPU. Id cũ («folk», «ngu»…) giữ nguyên.
 
    Gọi: TourVideo.open(data)  — data do gis.html gom (xem videoData() trong gis.html).
    ===================================================================== */
 (function (global) {
   "use strict";
-  var VERSION = "2.2";
+  var VERSION = "2.3";
   var BASE = (function () {
     try { var s = document.currentScript && document.currentScript.src; if (s) return s.replace(/[^\/?#]*([?#].*)?$/, ""); } catch (e) { }
     return "assets/";
@@ -1999,14 +2004,37 @@
      Nhạc dựng sẵn do chính trình duyệt tổng hợp (không dùng bản ghi của ai → không vướng bản quyền):
        calm (Nhẹ nhàng) · upbeat (Rộn ràng) · journey (Hành trình) · folk (giai điệu dân ca Nga «Коробейники», thế kỷ 19 — phạm vi công cộng)
        · ngu (Ngũ cung — giai điệu tự soạn, đàn tranh + sáo) · zen (Suy ngẫm — piano mềm, nền tĩnh)
+       · v2.3: 10 bản «âm hưởng» dân ca — Việt: bau, hue, nam, taynguyen, taybac, cham · Nga: plyaska, protyazhnaya, gusli, zvon.
+         Giai điệu của các bản này đều tự soạn theo thang âm, tiết tấu, lối nhấn nhá và màu nhạc cụ của từng vùng — không chép, không phỏng theo bài nào có thật.
      Hoặc nhạc của anh (MP3/M4A/WAV…). Nhạc tự nhỏ lại khi có lời đọc, mở/kết mượt. */
   var MUSIC = (function () {
+    // group: chung | vn | ru (nhóm trong ô chọn) · desc: một dòng mô tả · lvl: độ to riêng (nhân với RMS chuẩn 0.12)
     var PRE = {
-      calm: { name: "🌿 Nhẹ nhàng", bpm: 72 }, upbeat: { name: "☀️ Rộn ràng", bpm: 112 },
-      journey: { name: "🏔️ Hành trình", bpm: 66 }, folk: { name: "🪕 Dân ca Nga", bpm: 104 },
-      ngu: { name: "🎋 Ngũ cung", bpm: 64 }, zen: { name: "🕯️ Suy ngẫm", bpm: 58 }
+      calm: { name: "🌿 Nhẹ nhàng", bpm: 72, group: "chung", desc: "Hợp âm êm, đàn gảy rải, chuông nhỏ — nhẹ nhàng, trong trẻo" },
+      upbeat: { name: "☀️ Rộn ràng", bpm: 112, group: "chung", desc: "Đàn gảy nhịp nhanh, trống nhẹ — tươi vui, rộn ràng" },
+      journey: { name: "🏔️ Hành trình", bpm: 66, group: "chung", desc: "Dàn dây ngân dài, trống trầm — rộng mở, xa xăm" },
+      zen: { name: "🕯️ Suy ngẫm", bpm: 58, group: "chung", desc: "Piano mềm thưa nốt trên nền dây êm — tĩnh lặng, chiêm nghiệm" },
+      ngu: { name: "🎋 Ngũ cung", bpm: 64, group: "vn", desc: "Đàn tranh rải, sáo trúc, mõ gỗ — giai điệu ngũ cung tự soạn" },
+      bau: { name: "🎐 Đàn bầu", bpm: 60, group: "vn", desc: "Đàn bầu luyến láy, đàn tranh rải — âm hưởng trữ tình Bắc Bộ" },
+      hue: { name: "🏯 Cung đình Huế", bpm: 76, group: "vn", desc: "Kèn bầu, trống lớn, chuông đồng, tỳ bà — âm hưởng nhạc lễ cung đình, trang nghiêm" },
+      nam: { name: "🌙 Tài tử Nam Bộ", bpm: 70, group: "vn", desc: "Đàn kìm vuốt nhấn, đàn cò, đàn tranh, song lang — âm hưởng hơi Oán, man mác" },
+      taynguyen: { name: "🥁 Cồng chiêng Tây Nguyên", bpm: 96, group: "vn", desc: "Dàn chiêng đánh xen kẽ, trống, đàn T'rưng — âm hưởng nghi lễ đại ngàn" },
+      taybac: { name: "🌿 Tây Bắc (khèn, sáo, xòe)", bpm: 92, group: "vn", desc: "Khèn phập phồng theo hơi thở, sáo láy, nhịp xòe 2/4 — âm hưởng Tây Bắc, vui nhẹ" },
+      cham: { name: "🐘 Âm hưởng Chăm (saranai, ginăng)", bpm: 104, group: "vn", desc: "Kèn saranai láy nhanh, trống ginăng và baranưng đan nhịp — âm hưởng Chăm, xoáy, thôi miên" },
+      folk: { name: "🪕 Коробейники (balalaika)", bpm: 104, group: "ru", desc: "Giai điệu dân ca Nga «Коробейники» (thế kỷ 19, phạm vi công cộng): balalaika gảy rung, bayan đệm" },
+      plyaska: { name: "💃 Плясовая (balalaika, domra)", bpm: 132, group: "ru", desc: "Balalaika quạt, domra vê, bayan «um-pa» — âm hưởng điệu múa Nga, rộn ràng" },
+      protyazhnaya: { name: "🌾 Протяжная (bayan, domra)", bpm: 60, group: "ru", desc: "Bayan kéo phồng, domra vê câu dài — âm hưởng dân ca trữ tình thảo nguyên Nga" },
+      gusli: { name: "🎼 Гусли (sử thi)", bpm: 76, group: "ru", desc: "Đàn gusli quãng 5 rỗng, kèn рожок, trống khung — âm hưởng kể chuyện sử thi Nga" },
+      zvon: { name: "🔔 Колокольный звон (chuông nhà thờ Nga)", bpm: 90, group: "ru", lvl: 0.8, desc: "Chuông lớn, chuông trung, chuông nhỏ đổ hồi (trezvon) — âm hưởng chuông nhà thờ Nga, không giai điệu" }
     };
-    var BARS = { calm: 8, journey: 8, ngu: 8, zen: 8 };
+    // nhóm hiển thị trong ô chọn nhạc (cả hai studio): [{ id, name, ids }]
+    var GROUPS = [["chung", "Chung"], ["vn", "Âm hưởng dân ca Việt Nam"], ["ru", "Âm hưởng dân ca Nga"]].map(function (g) {
+      return { id: g[0], name: g[1], ids: Object.keys(PRE).filter(function (k) { return PRE[k].group === g[0]; }) };
+    });
+    var BARS = { calm: 8, journey: 8, ngu: 8, zen: 8, bau: 8, hue: 8, nam: 8, taynguyen: 16, taybac: 16, cham: 8, plyaska: 16, protyazhnaya: 8, gusli: 8, zvon: 12 };
+    var BEATS = { taybac: 2, plyaska: 2 };                     // số phách mỗi ô (mặc định 4/4)
+    var TAIL = { bau: 4.5, hue: 5.5, nam: 4.5, taynguyen: 6.5, cham: 4, protyazhnaya: 4.5, gusli: 5.5, zvon: 9.5 };   // đuôi ngân (giây, mặc định 3.5)
+    function info(k) { var p = PRE[k]; if (!p) return null; var bars = BARS[k] || 16, beats = BEATS[k] || 4; return { bars: bars, beats: beats, bpm: p.bpm, sec: bars * beats * 60 / p.bpm, tail: TAIL[k] || 3.5 }; }
     var NAMES = { C: 0, D: 2, E: 4, F: 5, G: 7, A: 9, B: 11 };
     function midi(n) { var m = /^([A-G])(#|b)?(-?\d)$/.exec(n); return 12 * (+m[3] + 1) + NAMES[m[1]] + (m[2] === "#" ? 1 : m[2] === "b" ? -1 : 0); }
     function hz(m) { return 440 * Math.pow(2, (m - 69) / 12); }
@@ -2211,11 +2239,473 @@
       });
       return PROG_Z.length * bar;
     }
-    var FN = { calm: sCalm, upbeat: sUpbeat, journey: sJourney, folk: sFolk, ngu: sNgu, zen: sZen };
+
+    /* ---- v2.3: nhạc cụ nhỏ dùng lại cho các bản «âm hưởng» dân ca Việt Nam & Nga ----
+       Tất cả giai điệu bên dưới là sáng tác mới theo âm hưởng (thang âm, nhịp, màu nhạc cụ, lối trang trí) của từng vùng,
+       không chép hay phỏng theo bài hát/bản nhạc có thật nào. Không lời ca.
+       Nhẹ CPU: mỗi nhạc cụ một bộ lọc dùng chung (không lọc riêng từng nốt); tiếng gõ, trống, chiêng, chuông, tạp âm ngắn được tổng hợp
+       sẵn bằng JS thành mẫu (sbuf) rồi phát lại — mỗi nốt chỉ còn 1 nguồn + 1 gain. */
+    var RS = 1, NV = 0;                                            // RS: ngẫu nhiên có hạt giống, NV: luân phiên biến thể mẫu — đặt lại ở đầu mỗi bản → vòng nhạc dựng lại y hệt
+    function rnd() { RS = (RS * 16807) % 2147483647; return (RS - 1) / 2147483646; }
+    // giai điệu: "nốt:độ dài" (đơn vị u giây, được lẻ 0.5), ô nhịp ngăn bằng «|», R = lặng. Dấu đứng trước nốt:
+    //   ~ luyến từ nốt trước (không gảy/tu lại) · ' láy từ nốt trên · , láy từ nốt dưới · / vuốt lên vào nốt
+    //   ^ nhấn (đẩy cao độ lên rồi trả về) · * rung (vibrato) cuối nốt · _ thở dài (trượt xuống ở cuối nốt)
+    function mel(s, t0, bar, u) {
+      var out = [];
+      s.split("|").forEach(function (b, bi) {
+        var pos = 0;
+        b.trim().split(/\s+/).forEach(function (x) {
+          var p = /^([~'^*,\/_]*)([A-G][#b]?-?\d|R):([\d.]+)$/.exec(x), d = +p[3];
+          out.push({ f: p[1], m: p[2] === "R" ? null : midi(p[2]), d: d, t: t0 + bi * bar + pos * u, len: d * u, bar: bi });
+          pos += d;
+        });
+      });
+      return out;
+    }
+    function nb(m, sc, dir) { if (sc) for (var k = 1; k < 6; k++) { var x = m + k * dir; if (sc.indexOf(((x % 12) + 12) % 12) >= 0) return x; } return m + 2 * dir; }
+    // gom các nốt luyến thành một «hơi» (một lần gảy/tu) và dựng đường cao độ: P = [[giây, bán cung so với nốt đầu], …], V = [[từ, đến, độ sâu rung]]
+    function phrases(ns, o) {
+      o = o || {}; var out = [], cur = null, gl = o.glide || 0.16;
+      ns.forEach(function (n) { if (n.m == null) { cur = null; return; } if (cur && n.f.indexOf("~") >= 0) cur.ns.push(n); else { cur = { ns: [n] }; out.push(cur); } });
+      return out.map(function (v) {
+        var a = v.ns[0], z = v.ns[v.ns.length - 1], P = [], V = [];
+        v.ns.forEach(function (n, k) {
+          var x = n.t - a.t, s = n.m - a.m, L = n.len, f = n.f, last = P.length ? P[P.length - 1] : null;
+          if (k === 0) {
+            var g = f.indexOf("'") >= 0 ? nb(n.m, o.scale, 1) - n.m : f.indexOf(",") >= 0 ? nb(n.m, o.scale, -1) - n.m : 0;
+            if (g) P.push([0, g], [Math.min(0.06, L * 0.2), g], [Math.min(0.095, L * 0.32), 0]);
+            else if (f.indexOf("/") >= 0) P.push([0, -1.5], [Math.min(0.14, L * 0.4), 0]);
+            else P.push([0, 0]);
+          } else { var g0 = Math.min(gl, L * 0.5, x - last[0]); P.push([x - g0 * 0.5, last[1]], [x + g0 * 0.5, s]); }
+          if (f.indexOf("^") >= 0) { var up = Math.min(o.push || 2, nb(n.m, o.scale, 1) - n.m), xa = x + Math.max(0.1, L * 0.28), sc = Math.min(1, L * 0.62 / 0.5); P.push([xa, s], [xa + 0.12 * sc, s + up], [xa + 0.24 * sc, s + up], [xa + 0.5 * sc, s]); }
+          if (f.indexOf("_") >= 0) P.push([x + L * 0.55, s], [x + L + 0.35, s - (o.sigh || 2.5)]);
+          if (f.indexOf("*") >= 0) V.push([x + Math.max(0.18, L * 0.35), x + L + 0.4, o.vib || 0.18]);
+        });
+        return { t: a.t, m: a.m, len: z.t + z.len - a.t, P: P, V: V };
+      });
+    }
+    // lấy mẫu đường cao độ 200 điểm/giây (bán cung): nối thẳng các điểm P, cộng rung trong các khoảng V
+    function pcurve(P, len, V, rate) {
+      P = (P || [[0, 0]]).slice().sort(function (p, q) { return p[0] - q[0]; });
+      var n = Math.max(2, Math.ceil(len * 200) + 1), c = new Float32Array(n), j = 0;
+      for (var i = 0; i < n; i++) {
+        var x = i / 200; while (j < P.length - 1 && P[j + 1][0] <= x) j++;
+        var p = P[j], q = P[j + 1], v = q && x > p[0] ? lerp(p[1], q[1], (x - p[0]) / Math.max(1e-6, q[0] - p[0])) : p[1];
+        (V || []).forEach(function (w) { if (x > w[0] && x < w[1]) v += w[2] * Math.min(1, (x - w[0]) / 0.3, (w[1] - x) / 0.15) * Math.sin(2 * PI * (rate || 5.5) * (x - w[0])); });
+        c[i] = v;
+      }
+      return c;
+    }
+    function hzc(m, c, mul) { var o = new Float32Array(c.length), f = hz(m) * (mul || 1); for (var i = 0; i < c.length; i++) o[i] = f * Math.pow(2, c[i] / 12); return o; }
+    function voicing(ch, lo) { return ch.map(function (m) { while (m < lo) m += 12; while (m >= lo + 12) m -= 12; return m; }).sort(function (a, b) { return a - b; }); }
+    function filt(ctx, out, type, f, q, gain) { var x = ctx.createBiquadFilter(); x.type = type; x.frequency.value = f; if (q != null) x.Q.value = q; if (gain != null) x.gain.value = gain; x.connect(out); return x; }
+    // ---- mẫu âm tổng hợp sẵn bằng JS (lưu trong KS, xoá sau mỗi vòng) ----
+    function sbuf(ctx, key, sec, fill) { var sr = ctx.sampleRate; key = "S" + key + "|" + sr; if (KS[key]) return KS[key]; var b = ctx.createBuffer(1, Math.ceil(sec * sr), sr); fill(b.getChannelData(0), sr); KS[key] = b; return b; }
+    function play(ctx, out, b, t, vol, glide) {
+      var s = ctx.createBufferSource(), g = ctx.createGain(); s.buffer = b; g.gain.value = vol;
+      if (glide) { s.playbackRate.setValueAtTime(1 + glide, t); s.playbackRate.exponentialRampToValueAtTime(1, t + 0.35); }
+      s.connect(g); g.connect(out); s.start(t); s.stop(t + b.duration);
+    }
+    function jsNoise(y, seed) { var s = seed * 7919 + 1; for (var i = 0; i < y.length; i++) { s = (s * 1103515245 + 12345) & 0x7fffffff; y[i] = s / 0x3fffffff - 1; } }
+    function jsFilt(y, sr, type, f, q) {                           // biquad (RBJ) chạy thẳng trên mảng; bandpass: 0 dB ở tâm
+      var w = 2 * PI * Math.min(f, sr * 0.45) / sr, cs = Math.cos(w), al = Math.sin(w) / (2 * q), a0 = 1 + al, a1 = -2 * cs / a0, a2 = (1 - al) / a0, b0, b1, b2;
+      if (type === "lowpass") { b1 = (1 - cs) / a0; b0 = b2 = b1 / 2; } else if (type === "highpass") { b1 = -(1 + cs) / a0; b0 = b2 = -b1 / 2; } else { b0 = al / a0; b1 = 0; b2 = -b0; }
+      for (var i = 0, x1 = 0, x2 = 0, y1 = 0, y2 = 0; i < y.length; i++) { var x0 = y[i], o = b0 * x0 + b1 * x1 + b2 * x2 - a1 * y1 - a2 * y2; x2 = x1; x1 = x0; y2 = y1; y1 = o; y[i] = o; }
+    }
+    // cộng một sine tắt dần (−60 dB sau dec giây); drop: cao độ đầu = f·drop rồi trượt về f trong gt giây (dùi trống, mõ)
+    function jsTone(y, sr, f, amp, dec, drop, gt) {
+      var ph = 0, k = Math.exp(-6.9 / (dec * sr)), e = amp, at = Math.round(0.002 * sr), n = Math.min(y.length, Math.ceil(dec * sr)), td = (gt || 0.035) * sr;
+      for (var i = 0; i < n; i++) { ph += 2 * PI * (drop && i < td ? f * Math.pow(drop, 1 - i / td) : f) / sr; y[i] += Math.sin(ph) * e * (i < at ? i / at : 1); e *= k; }
+    }
+    // cộng một xung tạp âm lọc, tắt dần (tới 0.0004 sau len giây)
+    function jsBurst(y, sr, seed, type, f, q, amp, len) {
+      var z = new Float32Array(Math.min(y.length, Math.ceil(len * sr) + 1)), k = Math.exp(Math.log(0.0004) / (len * sr)), e = amp;
+      jsNoise(z, seed); jsFilt(z, sr, type, f, q); for (var i = 0; i < z.length; i++) { y[i] += z[i] * e; e *= k; }
+    }
+    // xung tạp âm ngắn: tiếng gảy, dùi, tay vỗ, quả lắc (3 biến thể luân phiên cho khỏi «máy móc»)
+    function burst(ctx, out, t, vol, f, q, len, type) {
+      var v = NV++ % 3; f = Math.round(f);
+      play(ctx, out, sbuf(ctx, ["N", type || "bandpass", f, q, len, v].join("|"), len + 0.01, function (y, sr) { jsBurst(y, sr, v + 1, type || "bandpass", f, q, 1, len); }), t, vol);
+    }
+    // trống da: thân (sine trượt cao độ xuống) + mode phụ 1,59× + tiếng dùi/tay vỗ (snap = tần số tạp âm, sv = độ to, sd = độ dài)
+    function skin(ctx, out, t, vol, f0, dec, opt) {
+      opt = opt || {}; var m2 = opt.m2 == null ? 0.3 : opt.m2, dr = opt.drop || 1.5, v = NV++ % 2;
+      play(ctx, out, sbuf(ctx, ["K", f0, dec, dr, m2, opt.snap || 0, opt.sv || 0.4, opt.sq || 1.1, opt.sd || 0.05, v].join("|"), dec + 0.02, function (y, sr) {
+        jsTone(y, sr, f0, 1, dec, dr); if (m2) jsTone(y, sr, f0 * 1.59, m2, dec * 0.4, dr);
+        if (opt.snap) jsBurst(y, sr, v + 7, "bandpass", opt.snap, opt.sq || 1.1, opt.sv || 0.4, opt.sd || 0.05);
+      }), t, vol);
+    }
+    // tiếng gỗ/tre khô (song lang, gõ ống tre, thìa gỗ ложки): sine cộng hưởng tắt nhanh + xung tạp âm lọc dải
+    function knock(ctx, out, t, vol, f, dec, opt) {
+      opt = opt || {}; var v = NV++ % 2, nf = opt.nf || 1.7, q = opt.q || 4, nv = opt.nv == null ? 0.7 : opt.nv;
+      play(ctx, out, sbuf(ctx, ["W", f, dec, nf, q, nv, v].join("|"), dec + 0.02, function (y, sr) { jsTone(y, sr, f, 1, dec, 1.05, 0.012); jsBurst(y, sr, v + 3, "bandpass", f * nf, q, nv, Math.min(dec, 0.025)); }), t, vol);
+    }
+    // chũm chọe / xập xèng (khẽ): tạp âm lọc cao + cộng hưởng kim loại
+    function cym(ctx, out, t, vol, len) {
+      var v = NV++ % 2;
+      play(ctx, out, sbuf(ctx, ["C", len, v].join("|"), len + 0.01, function (y, sr) { jsBurst(y, sr, v + 11, "highpass", 5200, 0.7, 1, len); jsBurst(y, sr, v + 13, "bandpass", 7600, 2, 0.8, len * 0.8); }), t, vol);
+    }
+    // đàn T'rưng (ống tre gõ): âm ấm, ngắn, bồi phụ ~2,76× tắt rất nhanh, tiếng dùi gỗ
+    function trung(ctx, out, m, t, vol, opt) {
+      opt = opt || {}; var f = hz(m), dec = opt.dec || 0.45, v = NV++ % 2;
+      play(ctx, out, sbuf(ctx, ["T", m, dec, v].join("|"), dec + 0.02, function (y, sr) {
+        jsTone(y, sr, f, 1, dec); jsTone(y, sr, f * 2.76, 0.2, dec * 0.2); jsTone(y, sr, f * 5.2, 0.05, 0.04); jsBurst(y, sr, v + 5, "bandpass", Math.min(5000, f * 3), 3, 0.3, 0.015);
+      }), t, vol);
+    }
+    // tiếng kim loại (chiêng, chuông) tổng hợp sẵn MỘT lần: cộng các bồi tắt dần theo hàm mũ (dao động đệ quy, rất nhanh), mode kép lệch vài Hz → «đập»
+    // parts: [[tỉ lệ tần số, độ to, thời gian tắt −60 dB (giây)], …] · beat(i) → [lệch Hz, độ to] của mode kép (hoặc null)
+    function metalBuf(ctx, key, f0, parts, beat) {
+      var dmax = 0; parts.forEach(function (p) { dmax = Math.max(dmax, p[2]); });
+      return sbuf(ctx, "M" + key, dmax + 0.06, function (y, sr) {
+        var n = y.length, at = Math.round(0.003 * sr), j;
+        parts.forEach(function (p, i) {
+          [[0, 1], beat ? beat(i) : null].forEach(function (x) {
+            if (!x || !x[1]) return;
+            var w = 2 * PI * (f0 * p[0] + x[0]) / sr; if (w >= PI * 0.95) return;
+            var r = Math.exp(-6.9 / (p[2] * sr)), c1 = 2 * r * Math.cos(w), c2 = r * r, s0 = 0, s1 = p[1] * x[1] * r * Math.sin(w), m = Math.min(n, Math.ceil(p[2] * sr));
+            y[1] += s1 / at;
+            for (j = 2; j < m; j++) { var s2 = c1 * s1 - c2 * s0; s0 = s1; s1 = s2; y[j] += j < at ? s2 * j / at : s2; }   // s[n] = a·rⁿ·sin(wn)
+          });
+        });
+        var fo = Math.round(0.05 * sr); for (j = 0; j < fo; j++) y[n - 1 - j] *= j / fo;
+      });
+    }
+    // chiêng/cồng: bồi không hài hoà, tấn công nhanh, ngân dài. Chiêng núm: âm chính rõ; chiêng bằng: nhiều bồi, «đập» rõ, tiếng xèo kim loại.
+    var G_BOSS = [[1, 1, 1], [2.02, 0.26, 0.55], [2.96, 0.15, 0.38], [4.07, 0.07, 0.24], [5.31, 0.04, 0.16]];
+    var G_FLAT = [[1, 0.55, 1], [1.47, 0.4, 0.72], [2.13, 0.32, 0.5], [2.71, 0.22, 0.38], [3.35, 0.15, 0.28], [4.08, 0.09, 0.2], [4.95, 0.05, 0.14]];
+    function gong(ctx, out, f0, t, vol, opt) {
+      opt = opt || {}; var P = opt.flat ? G_FLAT : G_BOSS, dec = opt.dec || 3, bt = opt.flat ? 1.6 : 0.6;
+      play(ctx, out, metalBuf(ctx, ["G", f0.toFixed(2), dec, opt.flat ? 1 : 0].join("|"), f0, P.map(function (p) { return [p[0], p[1], dec * p[2]]; }), function (i) { return [bt * (1 + i * 0.5), 0.45]; }), t, vol, opt.glide == null ? 0.006 : opt.glide);   // chiêng to: cao độ trượt nhẹ lúc đầu
+      burst(ctx, out, t, vol * 0.4, Math.min(2000, f0 * 5), 0.7, 0.05, "lowpass");          // dùi bọc vải: «bụp» trầm
+      if (opt.flat) burst(ctx, out, t, vol * 0.05, 3200, 0.8, 0.35);                         // chiêng bằng: xèo kim loại
+    }
+    // chuông đúc (chuông nhà thờ Nga, chuông đồng): bồi hum 0.5 · prime 1 · tierce 1.2 · quint 1.5 · nominal 2 · 2.5 · 3 · 4.2;
+    // bồi cao tắt nhanh hơn; hum/prime/tierce có mode kép → «đập» chậm; tiếng quả lắc ngắn
+    var BELL_P = [[0.5, 0.42, 1], [1, 0.38, 0.62], [1.2, 0.3, 0.46], [1.5, 0.13, 0.32], [2, 0.5, 0.36], [2.5, 0.14, 0.18], [3, 0.1, 0.12], [4.2, 0.06, 0.07]];
+    function cbell(ctx, out, f0, t, vol, dec) {
+      play(ctx, out, metalBuf(ctx, ["B", f0, dec].join("|"), f0, BELL_P.map(function (p) { return [p[0], p[1], Math.max(0.25, dec * p[2])]; }), function (i) { return i < 3 ? [0.35 + f0 * BELL_P[i][0] * 0.0015, 0.5] : null; }), t, vol, 0);
+      burst(ctx, out, t, vol * 0.18, Math.min(4200, f0 * 7), 1.4, 0.035);
+    }
+    // ---- nhạc cụ có cao độ liên tục: dao động theo đường cao độ, qua kênh lọc CHUNG của nhạc cụ ----
+    function oscs(ctx, dest, m, t, dur, c, types) {                // types = [[kiểu sóng, bội số, độ to, lệch cent], …]
+      types.forEach(function (x) {
+        var o = ctx.createOscillator(), og = ctx.createGain(); o.type = x[0]; og.gain.value = x[2]; if (x[3]) o.detune.value = x[3];
+        o.frequency.setValueCurveAtTime(hzc(m, c, x[1]), t, dur); o.connect(og); og.connect(dest); o.start(t); o.stop(t + dur + 0.02);
+      });
+    }
+    function env(ctx, out, t, len, vol, a, r) { var g = ctx.createGain(); g.gain.setValueAtTime(0, t); g.gain.linearRampToValueAtTime(vol, t + a); g.gain.setValueAtTime(vol, t + Math.max(a, len)); g.gain.linearRampToValueAtTime(0, t + len + r); g.connect(out); return g; }
+    // 🎐 đàn bầu: âm bồi trong như chuông (sine + bồi 2, 3 rất nhẹ), tiếng gảy đầu nốt rất ngắn, tắt dần chậm; luyến/nhấn/rung theo path
+    function bauNote(ctx, out, m, t, len, vol, path, opt) {
+      opt = opt || {}; var rel = opt.rel || 0.8, dur = len + rel, c = pcurve(path && path.P, dur, path && path.V, 5.2), g = ctx.createGain();
+      g.gain.setValueAtTime(0, t); g.gain.linearRampToValueAtTime(vol, t + 0.005);
+      g.gain.exponentialRampToValueAtTime(vol * Math.max(0.16, Math.exp(-len / (opt.tau || 3.4))), t + Math.max(0.03, len));
+      g.gain.exponentialRampToValueAtTime(0.0004, t + dur); g.connect(out);
+      oscs(ctx, g, m, t, dur, c, [["sine", 1, 1], ["sine", 2, 0.1], ["sine", 3, 0.03]]);
+      burst(ctx, out, t, vol * 0.35, Math.min(5000, hz(m) * 4), 1.6, 0.03);
+    }
+    // kèn dăm kép (kèn bầu, saranai, рожок): răng cưa + vuông lệch nhẹ; hornCh = kênh lọc chung: lọc dải «mũi» (formant fm) + chút thân trầm (lp)
+    function hornCh(ctx, out, o) {
+      var hp = ctx.createBiquadFilter(), bg = ctx.createGain(); hp.type = "highpass"; hp.frequency.value = o.hp || 300; bg.gain.value = o.body == null ? 0.35 : o.body;
+      hp.connect(filt(ctx, out, "bandpass", o.fm || 1300, o.fq || 2.2)); hp.connect(filt(ctx, bg, "lowpass", o.lp || 1000)); bg.connect(out); return hp;
+    }
+    function horn(ctx, ch, m, t, len, vol, path, opt) {
+      opt = opt || {}; var r = opt.r || 0.09, c = pcurve(path && path.P, len + r, path && path.V, opt.vr || 5.8);
+      oscs(ctx, env(ctx, ch, t, len, vol, opt.a || 0.03, r), m, t, len + r, c, [["sawtooth", 1, 0.7], ["square", 1, 0.3, 7]]);
+    }
+    // đàn kéo (đàn cò): răng cưa đôi lệch nhẹ, vào chậm, rung theo path; fiddleCh = kênh chung: cộng hưởng «mũi» + lọc thấp, tiếng vĩ
+    function fiddleCh(ctx, out, o) { return { i: filt(ctx, filt(ctx, out, "lowpass", o.lp || 2100, 0.9), "peaking", o.fm || 1000, 1.4, 7), n: filt(ctx, out, "bandpass", 2600, 0.8) }; }
+    function fiddle(ctx, ch, m, t, len, vol, path, opt) {
+      opt = opt || {}; var a = opt.a || 0.22, r = opt.r || 0.3, c = pcurve(path && path.P, len + r, path && path.V, opt.vr || 5.6);
+      oscs(ctx, env(ctx, ch.i, t, len, vol, a, r), m, t, len + r, c, [["sawtooth", 1, 0.5, -5], ["sawtooth", 1, 0.5, 5]]);
+      var s = ctx.createBufferSource(); s.buffer = noise(ctx); s.loop = true; s.connect(env(ctx, ch.n, t, len, vol * 0.06, a, r)); s.start(t, rnd() * 0.5); s.stop(t + len + r + 0.02);
+    }
+    // sáo trúc / pí: sine + chút tam giác (pí thêm vuông — chất lưỡi gà), «chíp» đầu nốt; fluteCh = kênh chung: lọc thấp + dải hơi gió
+    function fluteCh(ctx, out, o) { return { i: filt(ctx, out, "lowpass", o.lp || 3400), n: filt(ctx, out, "bandpass", o.nf || 1500, 1.5) }; }
+    function flute(ctx, ch, m, t, len, vol, path, opt) {
+      opt = opt || {}; var a = opt.a || 0.04, r = opt.r || 0.12, c = pcurve(path && path.P, len + r, path && path.V, opt.vr || 5.3);
+      oscs(ctx, env(ctx, ch.i, t, len, vol, a, r), m, t, len + r, c, [["sine", 1, 1], ["triangle", 1, 0.2]].concat(opt.reed ? [["square", 1, opt.reed]] : []));
+      var s = ctx.createBufferSource(), ng = ctx.createGain(); s.buffer = noise(ctx); s.loop = true; s.connect(ng); ng.connect(ch.n);
+      ng.gain.setValueAtTime(0, t); ng.gain.linearRampToValueAtTime(vol * 0.45, t + 0.02); ng.gain.linearRampToValueAtTime(vol * 0.08, t + 0.09);
+      ng.gain.setValueAtTime(vol * 0.08, t + Math.max(0.09, len)); ng.gain.linearRampToValueAtTime(0, t + len + r); s.start(t, rnd() * 0.5); s.stop(t + len + r + 0.02);
+    }
+    // lưỡi gà rung tự do (khèn, bayan) — nối vào bộ lọc chung của nhạc cụ: mỗi nốt 2 lưỡi lệch nhẹ;
+    // pulse = chu kỳ hơi thở vào/ra (khèn) hoặc kéo/đẩy hộp hơi (bayan) → âm lượng phập phồng
+    function reeds(ctx, out, ms, t, len, vol, opt) {
+      opt = opt || {}; var a = opt.a || 0.06, r = opt.r || 0.18, g = ctx.createGain(), per = opt.pulse || 0, dip = opt.dip == null ? 0.55 : opt.dip;
+      g.connect(out); g.gain.setValueAtTime(0, t);
+      if (per) for (var x = 0; x < len - 0.01; x += per) {
+        var e = Math.min(len, x + per), w = e - x;
+        g.gain.linearRampToValueAtTime(vol, t + x + Math.max(a, w * 0.35)); g.gain.linearRampToValueAtTime(vol * 0.86, t + x + w * 0.8);
+        if (e < len - 0.01) g.gain.linearRampToValueAtTime(vol * dip, t + e);
+      }
+      else { g.gain.linearRampToValueAtTime(vol, t + a); g.gain.setValueAtTime(vol, t + Math.max(a, len)); }
+      g.gain.linearRampToValueAtTime(0, t + len + r);
+      ms.forEach(function (m) {
+        (opt.types || ["sawtooth", "sawtooth"]).forEach(function (ty, i) {
+          var o = ctx.createOscillator(); o.type = ty; o.frequency.value = hz(m); o.detune.value = (i ? 1 : -1) * (opt.det || 6); o.connect(g); o.start(t); o.stop(t + len + r + 0.02);
+        });
+      });
+    }
+    // Karplus-Strong cho các bản mới (khoá riêng «L», không đụng ksBuf của 6 bản cũ): kích dây bằng hình tam giác (điểm gảy ở 27% dây →
+    // bồi giảm ~1/n², tiếng ấm như gảy thật) trộn tạp âm theo bright (0 = ấm/tròn … 1 = sáng/kim loại); dur = độ dài bộ đệm (gusli ngân lâu)
+    function ksLong(ctx, m, dur, bright, decay) {
+      var sr = ctx.sampleRate, key = "L" + m + "|" + dur + "|" + bright + "|" + decay + "|" + sr; if (KS[key]) return KS[key];
+      var n = Math.round(sr * dur), b = ctx.createBuffer(1, n, sr), y = b.getChannelData(0), N = Math.max(2, Math.round(sr / hz(m))), seed = (m * 9301 + 49297) % 233280, i, prev = 0, mean = 0, P = Math.max(1, Math.round(N * 0.27));
+      for (i = 0; i < N; i++) { seed = (seed * 9301 + 49297) % 233280; var r = seed / 233280 * 2 - 1; prev = prev + (r - prev) * bright; y[i] = (1 - bright) * (i < P ? i / P : (N - i) / (N - P)) + bright * prev; mean += y[i] / N; }
+      for (i = 0; i < N; i++) y[i] -= mean;
+      for (i = N; i < n; i++) y[i] = decay * 0.5 * (y[i - N] + y[i - N + 1]);
+      var pk = 0; for (i = 0; i < Math.min(n, N * 4); i++) pk = Math.max(pk, Math.abs(y[i])); if (pk > 0) for (i = 0; i < n; i++) y[i] /= pk;
+      KS[key] = b; return b;
+    }
+    // gảy dây có đường cao độ (vuốt, nhấn, rung — đàn kìm, đàn tranh, domra, gusli…) — nối vào bộ lọc chung của nhạc cụ;
+    // pair = dây kép lệch (cent); dur = bộ đệm dài (giây). Luôn tắt hẳn trước khi bộ đệm hết (không bị «cụt» tiếng).
+    function pluckP(ctx, out, m, t, len, vol, path, opt) {
+      opt = opt || {}; var rel = opt.rel || 0.5, b = ksLong(ctx, m, opt.dur || 1.8, opt.bright || 0.5, opt.decay || 0.996),
+          c = path ? pcurve(path.P, len + rel, path.V, opt.vr || 5.5) : null, mx = (opt.pair || 0) / 100, i;
+      if (c) for (i = 0; i < c.length; i++) mx = Math.max(mx, c[i] + (opt.pair || 0) / 100);
+      var end = Math.min(t + len + rel, t + b.duration / Math.pow(2, mx / 12) - 0.03), hold = Math.min(t + len, end - 0.05), g = ctx.createGain();
+      g.connect(out); g.gain.setValueAtTime(vol, t); if (hold > t) g.gain.setValueAtTime(vol, hold); g.gain.exponentialRampToValueAtTime(0.0008, end);
+      [0].concat(opt.pair ? [opt.pair] : []).forEach(function (d, j) {
+        var s = ctx.createBufferSource(); s.buffer = b;
+        if (c) { var rc = new Float32Array(c.length); for (var k = 0; k < c.length; k++) rc[k] = Math.pow(2, (c[k] + d / 100) / 12); s.playbackRate.setValueCurveAtTime(rc, t, len + rel); }
+        else if (d) s.playbackRate.value = Math.pow(2, d / 1200);
+        if (j) { var sg = ctx.createGain(); sg.gain.value = 0.75; s.connect(sg); sg.connect(g); } else s.connect(g);
+        s.start(t + j * 0.007); s.stop(end + 0.02);
+      });
+    }
+    // vê (tremolo — domra, tỳ bà): gảy xuống–lên liên tục, nhát xuống mạnh hơn, lệch nhịp rất nhẹ; path (nếu có) áp cho cả chuỗi
+    function trem(ctx, out, m, t, len, vol, path, opt) {
+      opt = opt || {}; var n = Math.max(2, Math.round(len * (opt.rate || 12))), dt = len / n, c = path ? pcurve(path.P, len + 0.5, path.V, 5.2) : null;
+      function at(x) { return c ? c[Math.max(0, Math.min(c.length - 1, Math.round(x * 200)))] : 0; }
+      for (var k = 0; k < n; k++) {
+        var x = Math.max(0, k * dt + (k % 2 ? dt * 0.07 : 0) + (rnd() - 0.5) * dt * 0.1), last = k === n - 1, w = (k % 2 ? 0.72 : 1) * (0.88 + rnd() * 0.12), L = last ? dt + (opt.tail || 0.2) : dt * 0.9;
+        pluckP(ctx, out, m, t + x, L, vol * w, c ? { P: [[0, at(x)], [L + 0.1, at(x + L + 0.1)]] } : null, { bright: opt.bright || 0.7, rel: last ? (opt.rel || 0.4) : 0.06, decay: opt.decay || 0.996 });
+      }
+    }
+    // quạt balalaika: dir 1 = quạt xuống (dây trầm → bổng), -1 = quạt lên (nhẹ hơn); dây tắt nhanh vì tay chặn
+    function strum(ctx, out, ms, t, vol, dir, opt) {
+      opt = opt || {}; var L = dir > 0 ? ms : ms.slice().reverse();
+      L.forEach(function (m, i) { pluckP(ctx, out, m, t + i * (opt.sp || 0.011), opt.len || 0.15, vol * (dir > 0 ? 1 : 0.66) * (1 - i * 0.07), null, { bright: opt.bright || 0.8, rel: opt.rel || 0.1, decay: 0.995 }); });
+    }
+    // bus nhạc cụ: panner → vang (bus); lp > 0 thì thêm bộ lọc thấp chung
+    function chan(ctx, bus, p, lp) { var n = pan(ctx, p); n.connect(bus); return lp ? filt(ctx, n, "lowpass", lp) : n; }
+
+    // ---- các bản âm hưởng dân ca Việt Nam ----
+    // 🎐 Đàn bầu — trữ tình Bắc Bộ, ngũ cung Đô Rê Fa Son La (dừng ở Son): đàn bầu luyến/nhấn/rung, đàn tranh rải thưa, nền trầm Son–Rê
+    var BAU_MEL = "D5:3 ~C5:1 ~*A4:4|G4:2 A4:1 C5:1 ^D5:3 ~C5:1|A4:3 C5:1 ~D5:2 C5:1 A4:1|*G4:6 R:2|C5:2 D5:1 F5:1 ~*G5:4|A5:1 G5:1 ^F5:2 D5:3 ~C5:1|A4:2 C5:1 ~D5:1 C5:2 ~A4:2|*G4:6 A4:1 C5:1";
+    var BAU_ZT = [[0, 4, [55, 62, 67]], [1, 0, [43, 55, 62]], [3, 2, [43, 50, 55, 57, 62, 67]], [4, 4, [60, 67, 72]], [5, 0, [48, 55, 60]], [7, 2, [67, 62, 60, 57, 55, 50]]];
+    function sBau(ctx, out, t0) {
+      RS = 3; NV = 0; var spb = 60 / 60, u = spb / 2, bar = spb * 4, bus = verbBus(ctx, out, 0.42), bau = chan(ctx, bus, 0.1), zit = chan(ctx, bus, -0.35, 4000);
+      var vs = phrases(mel(BAU_MEL, t0, bar, u), { scale: [0, 2, 5, 7, 9], glide: 0.24, push: 2, vib: 0.22 });
+      vs.forEach(function (v, i) {                           // một dây duy nhất: gảy nốt mới thì nốt cũ tắt; trước chỗ lặng thì ngân tự nhiên
+        var nx = vs[i + 1], tie = nx && nx.t - (v.t + v.len) < 0.05;
+        bauNote(ctx, bau, v.m, v.t, tie ? nx.t - v.t - 0.03 : v.len, 0.12, v, { rel: tie ? 0.06 : 0.9 });
+      });
+      for (var b = 0; b < 8; b += 2) {                       // nền trầm ngân: Son–Rê (ô 5–6: Đô–Son khi giai điệu lên cao)
+        var r = b === 4 ? 48 : 43;
+        tone(ctx, bus, r, t0 + b * bar, bar * 2 - 0.3, 0.05, { types: ["sine"], a: 1.2, r: 1.8, lp: 380 });
+        tone(ctx, bus, r + 7, t0 + b * bar, bar * 2 - 0.3, 0.016, { types: ["triangle"], a: 1.6, r: 2, lp: 520 });
+      }
+      BAU_ZT.forEach(function (z) {                           // đàn tranh rải thưa, nốt cuối có nhấn
+        z[2].forEach(function (m, k) {
+          var lst = k === z[2].length - 1;
+          pluckP(ctx, zit, m, t0 + z[0] * bar + z[1] * u + k * u * 0.5, u * 0.9, lst ? 0.06 : 0.045, lst && z[0] % 2 ? { P: [[0, 0], [0.25, 0], [0.4, 1], [0.7, 0]] } : null, { bright: 0.55, rel: 1.1, decay: 0.9975 });
+        });
+      });
+      return 8 * bar;
+    }
+    // 🏯 Cung đình Huế — kiểu đám rước, trang nghiêm: kèn bầu (mũi, láy, rung), trống lớn phách mạnh, trống nhỏ điểm, chuông đồng cuối câu,
+    // tỳ bà gảy rung; ngũ cung Rê Mi Son La Si, câu 4 ô vuông vức
+    var HUE_MEL = "'D5:3 E5:1 D5:2 B4:2|A4:2 B4:1 A4:1 *G4:4|A4:2 B4:2 D5:2 E5:2|*D5:6 R:2|G5:3 E5:1 D5:2 E5:2|'B4:3 A4:1 G4:2 A4:2|B4:2 A4:1 G4:1 E4:2 G4:2|*A4:6 R:2";
+    function sHue(ctx, out, t0) {
+      RS = 5; NV = 0; var spb = 60 / 76, u = spb / 2, bar = spb * 4, bus = verbBus(ctx, out, 0.3), ken = hornCh(ctx, chan(ctx, bus, 0.12), { fm: 1300, fq: 2.2, hp: 320, lp: 1100, body: 0.4 }), tyb = chan(ctx, bus, -0.3, 4000);
+      var ns = mel(HUE_MEL, t0, bar, u);
+      phrases(ns, { scale: [2, 4, 7, 9, 11], vib: 0.16 }).forEach(function (v) { horn(ctx, ken, v.m, v.t, v.len - 0.035, 0.1, v, { a: 0.035, r: 0.1, vr: 6 }); });
+      ns.forEach(function (n) {                               // tỳ bà theo khung giai điệu (thấp một bát độ), nốt dài thì vê
+        if (n.m == null) return;
+        if (n.d >= 4) trem(ctx, tyb, n.m - 12, n.t, n.len * 0.8, 0.05, null, { rate: 10, bright: 0.75, rel: 0.35 });
+        else if (n.d >= 2) pluckP(ctx, tyb, n.m - 12, n.t, n.len, 0.06, null, { bright: 0.75, rel: 0.3, decay: 0.995 });
+      });
+      for (var b = 0; b < 8; b++) {
+        var tb = t0 + b * bar, end = b % 4 === 3;
+        skin(ctx, out, tb, 0.25, 62, 1.1, { snap: 500, sv: 0.25, sd: 0.06 });                        // trống lớn: phách mạnh
+        skin(ctx, out, tb + 2 * spb, 0.14, 62, 0.9, { snap: 500, sv: 0.2 });
+        skin(ctx, out, tb + 1.5 * spb, 0.11, 210, 0.22, { snap: 2400, sv: 0.4, sd: 0.04, m2: 0.4 });     // trống nhỏ điểm
+        skin(ctx, out, tb + 3 * spb, 0.08, 210, 0.2, { snap: 2400, sv: 0.4, sd: 0.04, m2: 0.4 });
+        if (end) {
+          skin(ctx, out, tb + 3.5 * spb, 0.2, 62, 0.8, { snap: 500, sv: 0.2 });
+          for (var k = 1; k < 4; k++) skin(ctx, out, tb + 3 * spb + k * spb / 4, 0.07 + k * 0.03, 220, 0.18, { snap: 2600, sv: 0.4, sd: 0.03 });
+          cbell(ctx, bus, b === 3 ? 293.7 : 220, tb + spb, 0.13, 4.4);                                   // chuông đồng cuối câu
+        }
+      }
+      return 8 * bar;
+    }
+    // 🌙 Tài tử Nam Bộ — hơi Oán (Đô Mi♭ Fa Son La; Mi♭ rung, La nhấn): đàn kìm vuốt/nhấn (và bè trầm nốt khung), đàn cò bè dài vào chậm,
+    // đàn tranh điểm xuyết, song lang gõ phách mạnh
+    var NAM_MEL = "C5:3 ^A4:1 G4:2 F4:2|*Eb4:3 F4:1 G4:4|/A4:2 C5:1 A4:1 G4:2 F4:1 G4:1|*C4:6 R:2|F4:2 G4:1 ^A4:1 C5:3 Eb5:1|*C5:4 ^A4:2 G4:2|F4:2 G4:1 F4:1 *Eb4:2 F4:2|*G4:6 R:2";
+    var NAM_CO = "C5:4 ~G4:4|*Eb5:4 ~C5:4|^A4:4 ~G4:4|*C5:6 R:2|G4:4 ~C5:4|*C5:4 ~^A4:4|F4:4 ~*Eb4:4|*G4:6 R:2";
+    var NAM_ZT = [[3, 4, [79, 77, 75, 72, 67]], [7, 4, [84, 81, 79, 77, 72]], [0, 2, [60, 67]], [4, 2, [65, 72]]], NAM_BASS = [48, 43, 41, 48, 41, 48, 41, 43];
+    function sNam(ctx, out, t0) {
+      RS = 7; NV = 0; var spb = 60 / 70, u = spb / 2, bar = spb * 4, bus = verbBus(ctx, out, 0.36), kim = chan(ctx, bus, -0.18, 1800), kimB = chan(ctx, bus, -0.1, 700),
+          co = fiddleCh(ctx, chan(ctx, bus, 0.3), { lp: 1300, fm: 750 }), zit = chan(ctx, bus, -0.42, 2600), SC = [0, 3, 5, 7, 9];
+      phrases(mel(NAM_MEL, t0, bar, u), { scale: SC, push: 1, vib: 0.35, glide: 0.12 }).forEach(function (v) { pluckP(ctx, kim, v.m, v.t, v.len, 0.11, v, { bright: 0.24, rel: 0.5, decay: 0.997, vr: 5 }); });
+      phrases(mel(NAM_CO, t0, bar, u), { scale: SC, push: 1, vib: 0.28, glide: 0.3 }).forEach(function (v) { fiddle(ctx, co, v.m, v.t + 0.04, v.len - 0.1, 0.026, v, { a: 0.32, r: 0.4 }); });
+      NAM_ZT.forEach(function (z) { z[2].forEach(function (m, k) { pluckP(ctx, zit, m, t0 + z[0] * bar + z[1] * u + k * u * 0.5, u * 0.8, 0.04, null, { bright: 0.45, rel: 1, decay: 0.9975 }); }); });
+      NAM_BASS.forEach(function (r, b) {                      // bè trầm của đàn kìm: nốt khung ở phách 1 và 3
+        pluckP(ctx, kimB, r, t0 + b * bar, spb * 1.8, 0.12, null, { bright: 0.14, rel: 0.8, decay: 0.997 });
+        pluckP(ctx, kimB, r + 7, t0 + b * bar + 2 * spb, spb * 1.6, 0.07, null, { bright: 0.14, rel: 0.7, decay: 0.997 });
+      });
+      for (var b = 0; b < 8; b++) {                           // song lang: phách mạnh mỗi ô, ô chẵn thêm phách 3 (gõ khẽ)
+        knock(ctx, out, t0 + b * bar, 0.12, 1150, 0.05, { q: 6, nf: 1.5, nv: 0.5 });
+        if (b % 2) knock(ctx, out, t0 + b * bar + 2 * spb, 0.06, 1150, 0.045, { q: 6, nf: 1.5, nv: 0.5 });
+      }
+      return 8 * bar;
+    }
+    // 🥁 Cồng chiêng Tây Nguyên — nghi lễ: 8 chiêng mỗi chiếc một âm (A C D E G), đánh xen kẽ thành chuỗi vòng 16 phách (32 móc đơn);
+    // chiêng trầm lớn ở phách 1; trống cái; nửa sau đàn T'rưng chạy giai điệu ngũ cung
+    var CHIENG = [[45, -18, 0, 4.6], [50, 12, 0, 3.6], [52, -22, 0, 3.3], [55, 20, 1, 2.8], [57, -15, 1, 2.6], [60, 24, 1, 2.4], [62, -12, 1, 2.2], [64, 17, 1, 2]];  // [nốt, lệch cent, chiêng bằng?, ngân]
+    var CH_HIT = [[0, 0, 0.62], [16, 0, 0.36], [6, 1, 0.4], [14, 1, 0.36], [22, 1, 0.4], [30, 1, 0.34], [4, 2, 0.34], [10, 2, 0.3], [20, 2, 0.34], [26, 2, 0.3]];  // [vị trí, chiêng, độ to]
+    var CH_OST = [7, 6, 5, 4, 5, 6, 7, 6, 5, 4, 3, 4, 5, 6, 5, 4];      // chiêng bằng ở các móc đơn lẻ (E D C A C D E D C A G A C D C A)
+    var TRUNG_MEL = "A5:1 G5:1 E5:1 D5:1 E5:2 G5:1 A5:1|C6:1 A5:1 G5:1 E5:1 D5:2 C5:1 D5:1|E5:1 G5:1 E5:1 D5:1 C5:1 A4:1 C5:1 D5:1|E5:3 D5:1 *A4:4|A5:1 C6:1 A5:1 G5:1 E5:2 D5:1 E5:1|G5:1 E5:1 D5:1 C5:1 D5:2 E5:1 G5:1|A5:1 G5:1 E5:1 G5:1 A5:1 C6:1 D6:1 C6:1|*A5:4 E5:2 D5:1 C5:1";
+    var TN_DRUM = [[0, 0.6, 0], [8, 0.34, 0], [11, 0.14, 1], [14, 0.16, 1], [16, 0.5, 0], [24, 0.34, 0], [27, 0.14, 1], [29, 0.14, 1], [30, 0.24, 0]];  // [vị trí, độ to, gõ ven?]
+    function sTayNguyen(ctx, out, t0) {
+      RS = 11; NV = 0; var spb = 60 / 96, e8 = spb / 2, cyc = 32 * e8, bus = verbBus(ctx, out, 0.3), tr = chan(ctx, bus, 0.28);
+      var GP = CHIENG.map(function (c, i) { return chan(ctx, bus, (i / 7 - 0.5) * 0.7); });
+      function hit(i, t, v) { var c = CHIENG[i]; gong(ctx, GP[i], hz(c[0]) * Math.pow(2, c[1] / 1200), t, v, { flat: !!c[2], dec: c[3] }); }
+      for (var y = 0; y < 4; y++) {
+        var tc = t0 + y * cyc;
+        CH_HIT.forEach(function (h) { hit(h[1], tc + h[0] * e8, h[2]); });
+        CH_OST.forEach(function (g, k) { hit(g, tc + (2 * k + 1) * e8, 0.2 + (k % 4 === 0 ? 0.05 : 0)); });
+        TN_DRUM.forEach(function (d) { if (d[2]) skin(ctx, out, tc + d[0] * e8, d[1], 190, 0.12, { snap: 1300, sv: 0.5, sd: 0.04, m2: 0.5 }); else skin(ctx, out, tc + d[0] * e8, d[1], 68, 0.7, { snap: 350, sv: 0.18 }); });
+        if (y === 3) for (var k = 0; k < 4; k++) skin(ctx, out, tc + (28 + k) * e8 + e8 / 2, 0.1 + k * 0.04, 190, 0.12, { snap: 1300, sv: 0.5, sd: 0.04, m2: 0.5 });   // dồn trống về đầu vòng
+      }
+      mel(TRUNG_MEL, t0 + 2 * cyc, 8 * e8, e8).forEach(function (n) {    // nửa sau: đàn T'rưng (nốt dài: gõ rền)
+        if (n.m == null) return;
+        var roll = n.f.indexOf("*") >= 0, reps = roll ? Math.round(n.len * 9) : n.d >= 2 ? 2 : 1;
+        for (var k = 0; k < reps; k++) trung(ctx, tr, n.m, n.t + k * n.len / reps, (k ? 0.13 : 0.17) * (roll ? 1 - k / reps * 0.5 : 1), { dec: 0.42 });
+      });
+      return 4 * cyc;
+    }
+    // 🌿 Tây Bắc — khèn (hợp âm quãng 4/5 ngân, phập phồng theo hơi thở mỗi phách), pí/sáo dẫn giai điệu ngũ cung có láy,
+    // nhịp xòe 2/4: trống nhỏ, chũm chọe khẽ, gõ ống tre
+    var TB_MEL = "D5:1 'E5:1 G5:1 E5:1|D5:1 B4:1 *A4:2|B4:1 D5:1 E5:0.5 D5:0.5 B4:1|*D5:3 R:1|G5:1 'A5:1 G5:1 E5:1|D5:1 E5:1 *G5:2|E5:1 D5:1 B4:0.5 D5:0.5 E5:1|*A4:3 R:1|B4:1 'D5:1 B4:1 A4:1|G4:1 A4:1 *B4:2|D5:1 E5:1 G5:0.5 E5:0.5 D5:1|*E5:3 R:1|G5:1 E5:1 D5:1 E5:1|B4:1 D5:1 *A4:2|B4:1 A4:1 G4:0.5 A4:0.5 B4:1|*G4:3 R:1";
+    var KHEN = [[55, 62, 67], [55, 62, 69], [57, 62, 64]], KHEN_B = [0, 0, 1, 2, 0, 2, 1, 0];
+    function sTayBac(ctx, out, t0) {
+      RS = 13; NV = 0; var spb = 60 / 92, u = spb / 2, bar = spb * 2, bus = verbBus(ctx, out, 0.3), khen = chan(ctx, bus, -0.25, 1500), sao = fluteCh(ctx, chan(ctx, bus, 0.2), { nf: 1500 });
+      phrases(mel(TB_MEL, t0, bar, u), { scale: [7, 9, 11, 2, 4], vib: 0.2 }).forEach(function (v) { flute(ctx, sao, v.m, v.t, v.len * 0.95, 0.075, v, { reed: 0.1 }); });
+      KHEN_B.forEach(function (k, i) { reeds(ctx, khen, KHEN[k], t0 + i * 2 * bar, bar * 2, 0.024, { pulse: spb, dip: 0.45, types: ["square", "sawtooth"], det: 5, a: 0.05, r: 0.12 }); });
+      for (var b = 0; b < 16; b++) {
+        var tb = t0 + b * bar;
+        skin(ctx, out, tb, 0.42, 150, 0.32, { snap: 900, sv: 0.25 }); skin(ctx, out, tb + spb, 0.26, 150, 0.28, { snap: 900, sv: 0.2 });
+        if (b % 2) skin(ctx, out, tb + spb * 1.5, 0.15, 165, 0.2, { snap: 1100, sv: 0.2 });
+        cym(ctx, out, tb + spb, 0.035, 0.4);
+        for (var k = 0; k < 4; k++) knock(ctx, out, tb + k * u, k % 2 ? 0.12 : 0.07, k % 2 ? 640 : 760, 0.1, { q: 5 });
+      }
+      return 16 * bar;
+    }
+    // 🐘 Âm hưởng Chăm — xoáy, thôi miên: kèn saranai (rất mũi, cao, láy nhanh, luyến bán cung), trống ginăng (tùng trầm + tắc vỗ đanh)
+    // và baranưng đan nhịp lệch phách (chu kỳ 2 ô = 8 phách, ô 4 và 8 dồn), nền trầm Rê–La
+    var CHAM_MEL = "A5:2 'C6:1 A5:1 G5:1 A5:1 F5:1 G5:1|A5:3 G5:0.5 F5:0.5 G5:2 F5:1 D5:1|F5:1 G5:1 A5:1 C6:1 'D6:2 C6:0.5 A5:0.5 G5:1|A5:2 G5:1 F5:1 G5:1 F5:1 ~Eb5:0.5 ~D5:1.5|D5:1 F5:1 G5:1 A5:1 C6:1 A5:1 G5:1 A5:1|'D6:3 C6:1 A5:1 C6:1 A5:1 G5:1|F5:1 G5:1 A5:0.5 G5:0.5 F5:1 G5:1 F5:1 D5:1 C5:1|*D5:6 R:2";
+    var GIN = ["T..k..T...k.T.k.", "T..k..T.k.T.kk.k"], BRN = "..b..t.b..b..t.t";       // 16 móc kép mỗi ô
+    function sCham(ctx, out, t0) {
+      RS = 17; NV = 0; var spb = 60 / 104, u = spb / 2, s16 = spb / 4, bar = spb * 4, bus = verbBus(ctx, out, 0.26), sar = hornCh(ctx, chan(ctx, bus, 0.15), { fm: 1750, fq: 2.6, hp: 450, lp: 1300, body: 0.25 });
+      phrases(mel(CHAM_MEL, t0, bar, u), { scale: [2, 5, 7, 9, 0], vib: 0.22, glide: 0.06 }).forEach(function (v) { horn(ctx, sar, v.m, v.t, v.len - 0.02, 0.065, v, { a: 0.02, r: 0.07, vr: 6.4 }); });
+      for (var b = 0; b < 8; b += 2) {                        // nền trầm Rê–La ngân
+        tone(ctx, bus, 38, t0 + b * bar, bar * 2 - 0.2, 0.04, { types: ["sine", "triangle"], det: [0, 3], a: 0.9, r: 1.4, lp: 360 });
+        tone(ctx, bus, 45, t0 + b * bar, bar * 2 - 0.2, 0.018, { types: ["triangle"], a: 1.2, r: 1.6, lp: 500 });
+      }
+      for (b = 0; b < 8; b++) {
+        var tb = t0 + b * bar, gp = GIN[b % 4 === 3 ? 1 : 0];
+        for (var k = 0; k < 16; k++) {
+          var g = gp.charAt(k), r = BRN.charAt(k), tk = tb + k * s16;
+          if (g === "T") skin(ctx, out, tk, 0.3, 92, 0.42, { snap: 300, sv: 0.15 });
+          else if (g === "k") skin(ctx, out, tk, 0.11, 300, 0.07, { snap: 1900, sv: 0.6, sd: 0.05, sq: 1.3 });
+          if (r === "b") skin(ctx, out, tk, 0.16, 175, 0.2, { snap: 700, sv: 0.3, m2: 0.4 });
+          else if (r === "t") skin(ctx, out, tk, 0.06, 420, 0.04, { snap: 3000, sv: 0.6, sd: 0.035 });
+        }
+      }
+      return 8 * bar;
+    }
+
+    // ---- các bản âm hưởng dân ca Nga ----
+    // 💃 Плясовая — điệu múa 2/4 rộn ràng: balalaika quạt xuống–lên, domra vê giai điệu, bayan «um-pa»; La thứ → Đô trưởng,
+    // nửa sau cao trào nhẹ (quạt dày hơn, thìa gỗ ложки)
+    var PLY_MEL = "E5:0.5 E5:0.5 E5:1 A5:1 E5:1|G5:0.5 F5:0.5 E5:1 D5:1 E5:1|F5:0.5 F5:0.5 F5:1 A5:1 F5:1|E5:2 D5:1 B4:1|E5:0.5 D5:0.5 C5:1 E5:1 A4:1|F5:0.5 E5:0.5 D5:1 F5:1 A4:1|C5:1 B4:1 G#4:1 B4:1|A4:3 R:1|" +
+                  "G5:0.5 G5:0.5 G5:1 C6:1 G5:1|A5:0.5 G5:0.5 F5:1 E5:1 G5:1|D5:0.5 D5:0.5 D5:1 G5:1 F5:1|E5:2 G5:1 E5:1|F5:0.5 G5:0.5 A5:1 F5:1 C5:1|E5:0.5 F5:0.5 G5:1 E5:1 C5:1|D5:1 B4:1 G#4:1 B4:1|E5:2 B4:1 D5:1";
+    var PLY_CH = [["A2", "m"], ["A2", "m"], ["D3", "m"], ["E2", ""], ["A2", "m"], ["D3", "m"], ["E2", ""], ["A2", "m"], ["C3", ""], ["C3", ""], ["G2", ""], ["C3", ""], ["F2", ""], ["C3", ""], ["E2", ""], ["E2", ""]];
+    function sPlyaska(ctx, out, t0) {
+      RS = 19; NV = 0; var spb = 60 / 132, u = spb / 2, s16 = spb / 4, bar = spb * 2, bus = verbBus(ctx, out, 0.2), bal = chan(ctx, bus, -0.3, 4200), dom = chan(ctx, bus, 0.22, 4600),
+          bay = chan(ctx, bus, 0.05), bayB = filt(ctx, bay, "lowpass", 650), bayC = filt(ctx, bay, "lowpass", 1900);
+      mel(PLY_MEL, t0, bar, u).forEach(function (n) {           // domra: nốt dài vê, nốt ngắn gảy
+        if (n.m == null) return;
+        if (n.d >= 2) trem(ctx, dom, n.m, n.t, n.len * 0.95, 0.07, null, { rate: 13, bright: 0.72, rel: 0.25 });
+        else pluckP(ctx, dom, n.m, n.t, n.len * 0.9, 0.085, null, { bright: 0.72, rel: 0.18, decay: 0.995 });
+      });
+      PLY_CH.forEach(function (c, b) {
+        var tb = t0 + b * bar, ch = chord(c[0], c[1]), hi = b >= 8, v = voicing(ch, 62), pat = hi ? "DUDUD.DU" : "D.DUD.DU";
+        for (var k = 0; k < 8; k++) { var p = pat.charAt(k); if (p !== ".") strum(ctx, bal, v, tb + k * s16, (k % 4 === 0 ? 0.07 : 0.05) * (hi ? 1.1 : 1), p === "D" ? 1 : -1, { bright: 0.75 }); }
+        // bayan «um-pa»: bass phách 1 (gốc) và 2 (quãng 5), hợp âm ngắn ở nửa phách
+        reeds(ctx, bayB, [ch[0] - 12, ch[0]], tb, spb * 0.42, 0.05, { det: 4, types: ["sawtooth", "square"], a: 0.01, r: 0.06 });
+        reeds(ctx, bayB, [ch[0] - 5, ch[0] + 7], tb + spb, spb * 0.42, 0.045, { det: 4, types: ["sawtooth", "square"], a: 0.01, r: 0.06 });
+        [u, spb + u].forEach(function (x) { reeds(ctx, bayC, voicing(ch, 55), tb + x, spb * 0.22, hi ? 0.03 : 0.024, { det: 7, a: 0.008, r: 0.05 }); });
+        if (hi) for (k = 0; k < 8; k++) if ("x.xxx.xx".charAt(k) === "x") knock(ctx, out, tb + k * s16, k % 4 === 0 ? 0.08 : 0.045, 1700, 0.03, { q: 3, nf: 1.3 });   // ложки
+      });
+      return 16 * bar;
+    }
+    // 🌾 Протяжная — trữ tình, thảo nguyên: bayan hợp âm (lưỡi kép lệch, kéo phồng chậm), domra vê câu dài, cuối câu «thở dài»; Rê thứ tự nhiên
+    var PRO_MEL = "F5:3 E5:1 D5:2 E5:2|*G5:4 F5:2 E5:2|D5:3 C5:1 D5:2 A4:2|_E5:6 R:2|C5:2 F5:2 A5:3 G5:1|*G5:4 E5:2 F5:2|E5:2 D5:1 C5:1 D5:2 E5:2|_D5:6 R:2";
+    var PRO_CH = [["D3", "m"], ["C3", ""], ["D3", "m"], ["A2", "m"], ["F3", ""], ["C3", ""], ["A2", "m"], ["D3", "m"]];
+    function sProtyazh(ctx, out, t0) {
+      RS = 23; NV = 0; var spb = 60 / 60, u = spb / 2, bar = spb * 4, bus = verbBus(ctx, out, 0.45), dom = chan(ctx, bus, 0.2, 2300), bay = chan(ctx, bus, -0.2), bayC = filt(ctx, bay, "lowpass", 1500), bayB = filt(ctx, bay, "lowpass", 480);
+      phrases(mel(PRO_MEL, t0, bar, u), { vib: 0.2, sigh: 2.5 }).forEach(function (v) { trem(ctx, dom, v.m, v.t, v.len, 0.075, v, { rate: 11, bright: 0.3, rel: 0.6, decay: 0.996, tail: 0.3 }); });
+      PRO_CH.forEach(function (c, b) {
+        var t = t0 + b * bar, ch = chord(c[0], c[1]);
+        reeds(ctx, bayC, voicing(ch, 50), t, bar, 0.02, { pulse: bar, dip: 0.8, det: 8, a: 0.4, r: 0.5 });
+        reeds(ctx, bayB, [ch[0] - 12, ch[0]], t, bar, 0.026, { pulse: bar, dip: 0.82, det: 4, a: 0.3, r: 0.5 });
+      });
+      return 8 * bar;
+    }
+    // 🎼 Гусли — kể chuyện sử thi: gusli gảy quãng 5 rỗng (dây kép lệch nhẹ, ngân dài) và giai điệu Rê Dorian kiểu kể, рожок (kèn chăn cừu,
+    // mũi) chen một câu ngắn, trống khung khẽ
+    var GUS_MEL = "A4:1 A4:1 A4:1 B4:1 C5:2 B4:1 A4:1|G4:2 A4:2 D4:4|C5:1 C5:1 C5:1 D5:1 E5:2 D5:1 C5:1|B4:2 A4:1 G4:1 A4:4|R:8|R:4 D5:1 C5:1 A4:1 B4:1|D5:1 C5:1 B4:1 A4:1 G4:2 F4:1 E4:1|D4:6 R:2";
+    var GUS_ROG = "R:8|R:8|R:8|R:8|C5:1 D5:1 'F5:2 E5:1 D5:1 C5:2|D5:1 C5:1 A4:2 *G4:4|R:8|R:8";
+    var GUS_Q5 = [50, 50, 48, 50, 53, 48, 43, 50];              // gốc quãng 5 rỗng theo ô: Rê Rê Đô Rê Fa Đô Son Rê
+    function sGusli(ctx, out, t0) {
+      RS = 29; NV = 0; var spb = 60 / 76, u = spb / 2, bar = spb * 4, bus = verbBus(ctx, out, 0.4), gus = chan(ctx, bus, -0.12, 1900), rog = hornCh(ctx, chan(ctx, bus, 0.35), { fm: 1050, fq: 1.6, hp: 260, lp: 900, body: 0.55 });
+      var GO = { dur: 3.2, bright: 0.2, decay: 0.9985, pair: 5, rel: 1.6 };
+      mel(GUS_MEL, t0, bar, u).forEach(function (n) { if (n.m != null) pluckP(ctx, gus, n.m, n.t, n.len, 0.085, null, GO); });
+      phrases(mel(GUS_ROG, t0, bar, u), { scale: [2, 4, 5, 7, 9, 11, 0], vib: 0.18 }).forEach(function (v) { horn(ctx, rog, v.m, v.t, v.len - 0.04, 0.07, v, { a: 0.04, r: 0.12, vr: 5.2 }); });
+      GUS_Q5.forEach(function (r, b) {
+        var tb = t0 + b * bar;
+        [0, 2].forEach(function (q) { [r, r + 7, r + 12].forEach(function (m, k) { pluckP(ctx, gus, m, tb + q * spb + k * 0.028, spb * 1.6, q ? 0.035 : 0.05, null, GO); }); });
+        skin(ctx, out, tb, 0.1, 105, 0.38, { snap: 600, sv: 0.15 }); skin(ctx, out, tb + 2 * spb, 0.07, 105, 0.32, { snap: 600, sv: 0.12 });   // trống khung khẽ
+        [1, 3].forEach(function (q) { skin(ctx, out, tb + q * spb, 0.035, 260, 0.06, { snap: 1200, sv: 0.4, sd: 0.03 }); });
+      });
+      return 8 * bar;
+    }
+    // 🔔 Колокольный звон — chuông nhà thờ Nga đổ hồi (trezvon): chuông lớn благовест mỗi ô, chuông trung đánh tiết tấu,
+    // chuông nhỏ зазвонные hình mẫu nhanh lặp; thưa → dày → lắng. Không giai điệu.
+    var ZV_DENS = [0, 1, 2, 3, 3, 3, 3, 3, 3, 2, 1, 0], ZV_SM = [3, 0, 1, 0, 2, 0, 1, 0];
+    function sZvon(ctx, out, t0) {
+      RS = 31; NV = 0; var spb = 60 / 90, s16 = spb / 4, bar = spb * 4, bus = verbBus(ctx, out, 0.38), hp = filt(ctx, bus, "highpass", 45);
+      var big = chan(ctx, hp, 0), mid = chan(ctx, hp, -0.3), sml = chan(ctx, hp, 0.32), M = [146.8, 220], S = [587.3, 659.3, 784, 880];
+      for (var b = 0; b < 12; b++) {
+        var tb = t0 + b * bar, d = ZV_DENS[b];
+        cbell(ctx, big, 98, tb, 0.55, 9);                                         // благовест
+        if (d >= 1) cbell(ctx, mid, M[0], tb + 2 * spb, 0.26, 5.5);
+        if (d >= 2) { cbell(ctx, mid, M[1], tb + spb, 0.22, 5); cbell(ctx, mid, M[0], tb + 3 * spb, 0.2, 5.5); }
+        if (d >= 3) { cbell(ctx, mid, M[1], tb + 2.5 * spb, 0.17, 5); cbell(ctx, mid, M[0], tb + 1.5 * spb, 0.15, 5.5); }
+        if (d >= 2) for (var k = 0; k < 16; k++) { if (d === 2 && k % 2) continue; cbell(ctx, sml, S[ZV_SM[k % 8]], tb + k * s16, 0.07 * (k % 4 === 0 ? 1 : 0.6), 1.8); }   // зазвонные
+      }
+      return 12 * bar;
+    }
+
+    var FN = { calm: sCalm, upbeat: sUpbeat, journey: sJourney, folk: sFolk, ngu: sNgu, zen: sZen,
+               bau: sBau, hue: sHue, nam: sNam, taynguyen: sTayNguyen, taybac: sTayBac, cham: sCham, plyaska: sPlyaska, protyazhnaya: sProtyazh, gusli: sGusli, zvon: sZvon };
     var LOOPS = {};
     async function loop(preset, sr) {
       var k = preset + "@" + sr; if (LOOPS[k]) return LOOPS[k];
-      var spb = 60 / PRE[preset].bpm, est = (BARS[preset] || 16) * 4 * spb, tail = 3.5;
+      var spb = 60 / PRE[preset].bpm, est = (BARS[preset] || 16) * (BEATS[preset] || 4) * spb, tail = TAIL[preset] || 3.5;
       var ctx = new OfflineAudioContext(2, Math.ceil((est + tail) * sr), sr), g = ctx.createGain(); g.gain.value = 0.9; g.connect(ctx.destination);
       var len = FN[preset](ctx, g, 0), buf = await ctx.startRendering();
       KS = {};
@@ -2250,7 +2740,7 @@
       }
       if (!FN[O.music]) return null;
       var lp = await loop(O.music, sr);
-      return norm(tile(lp.buf, lp.len, total, sr, 0), 0.12);
+      return norm(tile(lp.buf, lp.len, total, sr, 0), 0.12 * (PRE[O.music].lvl || 1));
     }
     async function resample(buf, sr) {
       var ctx = new OfflineAudioContext(Math.min(2, buf.numberOfChannels), Math.ceil(buf.duration * sr), sr), s = ctx.createBufferSource(); s.buffer = buf; s.connect(ctx.destination); s.start(0);
@@ -2260,7 +2750,7 @@
       var ab = await file.arrayBuffer(), ctx = new OfflineAudioContext(2, 48000, 48000);
       return await new Promise(function (res, rej) { var p = ctx.decodeAudioData(ab, res, rej); if (p && p.then) p.then(res, rej); });
     }
-    return { PRE: PRE, track: track, decodeFile: decodeFile, loop: loop };
+    return { PRE: PRE, GROUPS: GROUPS, info: info, track: track, decodeFile: decodeFile, loop: loop };
   })();
 
   // khoảng thời gian có lời đọc (để giảm nhỏ nhạc), gộp các khoảng gần nhau cho khỏi "nhấp nhô"
@@ -2536,7 +3026,7 @@
     ".tv-f{display:flex;flex-direction:column;gap:6px}.tv-f>b{font-size:12.5px;color:#152c4e}" +
     ".tv-sub{background:#fff;border:1px solid #e7e3d6;border-radius:12px;padding:10px}" +
     ".tv-f input[type=text]{border:1px solid #d9d2bd;border-radius:9px;padding:9px 10px;font-size:14px;font-family:inherit}" +
-    ".tv-f select{border:1px solid #d9d2bd;border-radius:9px;padding:7px 8px;font-size:13px;font-family:inherit;background:#fff;max-width:100%;min-height:36px}" +
+    ".tv-f select{border:1px solid #d9d2bd;border-radius:9px;padding:7px 8px;font-size:13px;font-family:inherit;background:#fff;max-width:100%;min-height:36px}.tv-f select.tv-msel{width:100%;font-size:13.5px}" +
     ".tv-seg{display:flex;flex-wrap:wrap;gap:6px}.tv-seg button{border:1px solid #d9d2bd;background:#fff;border-radius:999px;padding:6px 11px;font-size:12.5px;font-weight:700;color:#152c4e;cursor:pointer;min-height:34px;font-family:inherit}" +
     ".tv-seg button.on{background:#152c4e;border-color:#152c4e;color:#fff}.tv-chk{display:flex;flex-wrap:wrap;gap:6px 12px;font-size:13px}.tv-chk label{display:flex;gap:5px;align-items:center;cursor:pointer}" +
     ".tv-row{display:flex;gap:8px;align-items:center;flex-wrap:wrap;font-size:13px}.tv-row input[type=range]{flex:1;min-width:120px}.tv-row label{display:flex;flex-direction:column;gap:3px;flex:1 1 180px;font-size:12px;color:#5c6773}" +
@@ -2555,7 +3045,14 @@
     var o = {}; try { o = JSON.parse(localStorage.getItem("tv_opts") || "{}") || {}; } catch (e) { }
     if (typeof o.voice === "boolean") o.voice = o.voice ? "ai" : "off";       // bản 1: voice = true/false
     if (o.music === "file") o.music = DEF.music;                               // nhạc của anh không lưu được qua phiên
+    if (o.music && o.music !== "off" && !MUSIC.PRE[o.music]) o.music = DEF.music;  // id nhạc lạ (bản khác) → mặc định
     var r = {}; for (var k in DEF) r[k] = (o[k] != null ? o[k] : DEF[k]); return r;
+  }
+  // ô chọn nhạc nền theo nhóm (v2.3): Tắt · Chung · Âm hưởng dân ca Việt Nam · Âm hưởng dân ca Nga · 📂 Nhạc của anh…
+  function musicSelect() {
+    return '<select data-v="msel" class="tv-msel" title="Nhạc nền"><option value="off">Tắt</option>' + MUSIC.GROUPS.map(function (g) {
+      return '<optgroup label="' + escH(g.name) + '">' + g.ids.map(function (k) { return '<option value="' + k + '">' + escH(MUSIC.PRE[k].name) + "</option>"; }).join("") + "</optgroup>";
+    }).join("") + '<option value="file">📂 Nhạc của anh…</option></select>';
   }
   function saveOpts(O) { try { var c = {}; for (var k in O) if (k !== "title") c[k] = O[k]; localStorage.setItem("tv_opts", JSON.stringify(c)); } catch (e) { } }
   function slug(s) { return String(s || "video").normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/đ/g, "d").replace(/Đ/g, "D").replace(/[^a-zA-Z0-9]+/g, "-").replace(/^-+|-+$/g, "").toLowerCase().slice(0, 60) || "video-chuyen-di"; }
@@ -2603,7 +3100,7 @@
       '<div class="tv-note" data-show="sys" data-v="sysinfo"></div>' +
       '<div class="tv-row" data-show="ai sys"><button class="tv-b" data-a="hear">🔊 Nghe thử giọng</button><span class="tv-lbl" data-v="hearst"></span></div></div>' +
       '<div class="tv-f tv-sub"><b>🎵 Nhạc nền</b>' +
-      '<div class="tv-seg" data-k="music"><button data-val="off">Tắt</button>' + Object.keys(MUSIC.PRE).map(function (k) { return '<button data-val="' + k + '">' + MUSIC.PRE[k].name + "</button>"; }).join("") + '<button data-val="file">📂 Nhạc của anh…</button></div>' +
+      musicSelect() +
       '<input type="file" accept="audio/*,.mp3,.m4a,.aac,.wav,.ogg,.opus,.flac" data-v="mfile" class="tv-hide"/>' +
       '<div class="tv-row" data-show-music="1"><span>Âm lượng</span><input type="range" min="0" max="100" step="5" data-o="musicVol"/><button class="tv-b" data-a="hearm">▶ Nghe thử</button></div>' +
       '<div class="tv-note" data-v="minfo"></div></div>' +
@@ -2615,7 +3112,7 @@
       '<div class="tv-lbl" data-v="est"></div>' +
       '<div class="tv-go"><button class="tv-b gold" data-a="show">▶ Trình chiếu toàn màn hình</button><button class="tv-b navy" data-a="export">⬇️ Xuất video MP4</button></div>' +
       '<div class="tv-note">Giọng AI chạy ngay trên máy (không gửi chữ đi đâu): Piper — VAIS-1000 (CC BY 4.0), Denis (CC0), LJSpeech (public domain). ' +
-      'Nhạc dựng sẵn do trình duyệt tự tổng hợp (giai điệu «Коробейники» là dân ca Nga, phạm vi công cộng). Ảnh: Wikimedia Commons. Nền bản đồ: Esri / © OpenStreetMap.</div>' +
+      'Nhạc dựng sẵn do trình duyệt tự tổng hợp: giai điệu tự soạn theo âm hưởng từng vùng (không phải bản ghi, không chép bài có sẵn); «Коробейники» là dân ca Nga, phạm vi công cộng. Ảnh: Wikimedia Commons. Nền bản đồ: Esri / © OpenStreetMap.</div>' +
       "</div></div></div>";
     document.body.appendChild(ov);
     var $ = function (sel) { return ov.querySelector(sel); };
@@ -2642,7 +3139,8 @@
       ov.querySelectorAll("[data-show-music]").forEach(function (el) { el.classList.toggle("tv-hide", O.music === "off"); });
       ov.querySelectorAll("[data-show-qr]").forEach(function (el) { el.classList.toggle("tv-hide", !O.qr); });
       $('[data-a="export"]').textContent = "⬇️ Xuất video MP4 " + (O.voice === "ai" ? (O.music !== "off" ? "(lời đọc + nhạc)" : "(có lời đọc)") : O.music !== "off" ? "(chỉ có nhạc)" : "(không tiếng)");
-      $('[data-v="minfo"]').textContent = O.music === "file" ? (userMusicName ? "🎵 " + userMusicName : "Chọn một tệp nhạc trên máy (MP3, M4A, WAV…)") : (O.music === "off" ? "" : "Nhạc tự nhỏ lại khi có lời đọc, mở đầu và kết thúc mượt.");
+      var msel = $('[data-v="msel"]'), pm = MUSIC.PRE[O.music]; if (msel.value !== O.music) msel.value = O.music;
+      $('[data-v="minfo"]').textContent = O.music === "file" ? (userMusicName ? "🎵 " + userMusicName : "Chọn một tệp nhạc trên máy (MP3, M4A, WAV…)") : (O.music === "off" ? "" : (pm && pm.desc ? pm.desc + " · " : "") + "Nhạc tự nhỏ lại khi có lời đọc, mở đầu và kết thúc mượt.");
       fillVoices(); aiInfo();
     }
     async function aiInfo() {
@@ -2805,7 +3303,6 @@
       var b = e.target.closest("[data-a],[data-val]"); if (!b || b.disabled) return;
       if (b.dataset.val != null && b.parentNode.dataset.k) {
         var k = b.parentNode.dataset.k, v = b.dataset.val;
-        if (k === "music" && v === "file") { if (!userMusic) { mfile.click(); return; } }
         O[k] = (k === "res" || k === "rate") ? +v : v; hearStop(); syncUI(); rebuild(); return;
       }
       var a = b.dataset.a;
@@ -2834,6 +3331,10 @@
     ov.addEventListener("change", function (e) {
       var el = e.target;
       if (el.dataset.c) { O[el.dataset.c] = el.checked; syncUI(); rebuild(); }
+      else if (el.dataset.v === "msel") {                                     // ô chọn nhạc: «Nhạc của anh…» chưa có tệp → mở hộp chọn tệp, giữ lựa chọn cũ
+        if (el.value === "file" && !userMusic) { el.value = O.music; mfile.click(); return; }
+        O.music = el.value; hearStop(); syncUI(); rebuild();
+      }
       else if (el.tagName === "SELECT" && el.dataset.o) { O[el.dataset.o] = el.value; saveOpts(O); if (el.dataset.o === SysVoice.key(O.lang)) fillVoices(); }
     });
     $('[data-a="cancel"]').onclick = function (e) { e.stopPropagation(); if (cancelFn) cancelFn(); };

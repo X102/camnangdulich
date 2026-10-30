@@ -32,14 +32,18 @@
      tác phẩm theo ngôn ngữ video, dòng huy hiệu + hashtag trong chữ đăng bài; ảnh nhúng sẵn cho tranh còn bản quyền (img.emb →
      data/img/<khoá>.js chứa data URI nên canvas không «bẩn» khi mở trang bằng file://, ảnh nhỏ <khoá>-500.jpg cho danh mục; ảnh của anh
      vẫn đè lên được); video không phải tiếng Việt ký tên trang bằng tiếng Anh «Vietnamese Art Decoded».
-   Phụ thuộc: ../assets/tour-video.js (v2.2+, TourVideo.lib).
+   v1.5: «🎵 Nhạc nền» thành ô chọn <select> theo nhóm (Tắt · ✨ Tự chọn · Chung · Âm hưởng dân ca Việt Nam · Âm hưởng dân ca Nga ·
+     📂 Nhạc của anh…) kèm dòng mô tả bản đang chọn; «✨ Tự chọn» theo tác phẩm (bảng MUSIC_AUTO + quy tắc thời kỳ/thể loại): Cồng chiêng →
+     🥁 cồng chiêng Tây Nguyên; Nhã nhạc, Cửu đỉnh, Bài Chòi → 🏯 cung đình Huế; Đờn ca tài tử → 🌙 tài tử Nam Bộ; Ca trù, Quan họ → 🎐 đàn bầu;
+     Chăm Pa (đài thờ Trà Kiệu, Mỹ Sơn E1, gốm Chăm) → 🐘 âm hưởng Chăm; cổ vật Đông Sơn → 🥁 cồng chiêng; tranh dân gian, kiến trúc → 🎋 ngũ cung.
+   Phụ thuộc: ../assets/tour-video.js (v2.3 — 16 bản nhạc nền; v2.2 vẫn chạy được, bản nhạc chưa có thì lùi về «🎋 Ngũ cung»).
    Gọi: ArtVideo.open(work)  ·  ArtVideo.edit(work)  ·  ArtVideo.newWork()
    ===================================================================== */
 (function (global) {
   "use strict";
   var TVv = global.TourVideo;
   if (!TVv || !TVv.lib) { if (global.console) console.error("art-video.js cần assets/tour-video.js (v2.1+)"); return; }
-  var L = TVv.lib, VERSION = "1.4";
+  var L = TVv.lib, VERSION = "1.5";
   var clamp = L.clamp, lerp = L.lerp, seg = L.seg, ease = L.ease, easeOut = L.easeOut, F = L.F, C = L.C, wrap = L.wrap, rr = L.rr, escH = L.escH,
       fmtClock = L.fmtClock, SAY = L.SAY, AIV = L.AIV, MUSIC = L.MUSIC, sleep = L.sleep;
   var SERIF = '"Times New Roman", "Noto Serif", "Liberation Serif", Georgia, serif';
@@ -553,10 +557,27 @@
     for (var k in DEF) o[k] = (s[k] !== undefined) ? s[k] : DEF[k];
     o.voices = Object.assign({}, DEF.voices, s.voices && typeof s.voices === "object" ? s.voices : {});
     if (LANGS.indexOf(o.vlang) < 0) o.vlang = "vi";
+    if (["auto", "off", "file"].indexOf(o.music) < 0 && !MUSIC.PRE[o.music]) o.music = "auto";      // bản nhạc không có trong tour-video.js đang dùng
     o.lang = "vi"; o.v = 13; return o;
   }
   function saveOpts(O) { var c = {}; for (var k in O) if (k !== "trendText") c[k] = O[k]; lsSet("av_opts", c); }
-  function musicFor(w, O) { if (O.music && O.music !== "auto") return O.music; return w.type === "painting" || isListen(w) ? "zen" : "ngu"; }
+  // v1.5: nhạc nền «✨ Tự chọn» theo tác phẩm — trước hết bảng theo id, rồi quy tắc theo thời kỳ (era) và thể loại (type);
+  // bản không có trong MUSIC.PRE (tour-video.js cũ) → «ngu»
+  var MUSIC_AUTO = { "cong-chieng-tay-nguyen": "taynguyen", "nha-nhac-cung-dinh-hue": "hue", "cuu-dinh-hue": "hue", "bai-choi": "hue", "don-ca-tai-tu": "nam",
+                     "ca-tru": "bau", "quan-ho-nguoi-oi-nguoi-o-dung-ve": "bau", "dai-tho-tra-kieu": "cham", "dai-tho-my-son-e1": "cham", "gom-cham": "cham" };
+  function musicAuto(w) {
+    var k = MUSIC_AUTO[w.id] || (w.era === "champa" ? "cham" : w.era === "dong-son" ? "taynguyen" : w.type === "folk" || w.type === "architecture" ? "ngu" :
+            w.type === "painting" || isListen(w) ? "zen" : "ngu");
+    return MUSIC.PRE[k] ? k : "ngu";
+  }
+  function musicFor(w, O) { var m = O && O.music; if (m && m !== "auto") return m === "off" || m === "file" || MUSIC.PRE[m] ? m : "ngu"; return musicAuto(w); }
+  // ô chọn nhạc nền theo nhóm (MUSIC.GROUPS — tour-video.js v2.3; bản cũ: một nhóm chung)
+  function musicSelect() {
+    var G = MUSIC.GROUPS || [{ name: "Nhạc dựng sẵn", ids: Object.keys(MUSIC.PRE) }];
+    return '<select data-v="msel" class="tv-msel av-msel" title="Nhạc nền"><option value="off">Tắt</option><option value="auto">✨ Tự chọn (theo tác phẩm)</option>' + G.map(function (g) {
+      return '<optgroup label="' + escH(g.name) + '">' + g.ids.filter(function (k) { return MUSIC.PRE[k]; }).map(function (k) { return '<option value="' + k + '">' + escH(MUSIC.PRE[k].name) + "</option>"; }).join("") + "</optgroup>";
+    }).join("") + '<option value="file">📂 Nhạc của anh…</option></select>';
+  }
   function trendLine(w, O) {
     if (O.trendText && String(O.trendText).trim()) return String(O.trendText).trim();
     if (w.trendLine) return w.trendLine;
@@ -1327,6 +1348,7 @@
     ".av-imgs{display:flex;gap:6px;flex-wrap:wrap}.av-imgs button{border:1px solid #d9d2bd;background:#fff;border-radius:9px;padding:5px 9px;font-weight:700;cursor:pointer;font-size:12.5px}.av-imgs button.on{background:#152c4e;color:#fff;border-color:#152c4e}" +
     ".av-post{width:100%;min-height:150px;font-size:12.5px;border:1px solid #d9d2bd;border-radius:8px;padding:8px;box-sizing:border-box}" +
     ".av-op select{flex:1 1 0;width:0;min-width:0;border:1px solid #d9d2bd;border-radius:8px;padding:7px;font-size:13px;font-family:inherit;background:#fff}" +
+    ".av-msel{width:100%;box-sizing:border-box;border:1px solid #d9d2bd;border-radius:9px;padding:7px 8px;font-size:13.5px;font-family:inherit;background:#fff;min-height:36px}" +
     ".tv-ov .tv-main>*{min-width:0}.tv-ov .tv-set{min-width:0}" +
     ".av-ta{width:100%;box-sizing:border-box;border:1px solid #d9d2bd;border-radius:8px;padding:7px 8px;font-size:12.5px;line-height:1.45;font-family:inherit;resize:vertical;margin-top:6px}" +
     ".av-dlg{position:fixed;inset:0;z-index:100000;background:rgba(5,10,20,.55);display:flex;align-items:flex-start;justify-content:center;padding:4vh 12px;overflow:auto}" +
@@ -1720,7 +1742,6 @@
     var ov = document.createElement("div"); ov.className = "tv-ov";
     function seg3(k, label, o) { return '<div class="tv-f"><b>' + label + '</b><div class="tv-seg" data-k="' + k + '">' + o.map(function (x) { return '<button data-val="' + x[0] + '"' + (x[2] ? ' title="' + escH(x[2]) + '"' : "") + ">" + x[1] + "</button>"; }).join("") + "</div></div>"; }
     function chk(k, label) { return '<label><input type="checkbox" data-c="' + k + '"/> ' + label + "</label>"; }
-    var musicBtns = '<button data-val="auto">✨ Tự chọn</button><button data-val="off">Tắt</button>' + Object.keys(MUSIC.PRE).map(function (k) { return '<button data-val="' + k + '">' + MUSIC.PRE[k].name + "</button>"; }).join("") + '<button data-val="file">📂 Nhạc của anh…</button>';
     ov.innerHTML = '<div class="tv-box"><div class="tv-top"><h2>🎨 Video giải mã: <span data-v="title"></span></h2><button class="tv-x" data-a="edit">✏️ Chỉnh chi tiết</button><button class="tv-x" data-a="close">✕ Đóng</button></div>' +
       '<div class="tv-main" data-v="main"><div><div class="tv-prev"><canvas></canvas></div>' +
       '<div class="tv-ctl"><button class="tv-b" data-a="prev" title="Chi tiết trước">⏮</button><button class="tv-b navy" data-a="play">▶ Xem thử</button><button class="tv-b" data-a="next" title="Chi tiết sau">⏭</button>' +
@@ -1753,7 +1774,7 @@
       '<div class="tv-f tv-sub"><b>🎙️ Thuyết minh</b><div class="tv-seg" data-k="voice"><button data-val="ai">🤖 Giọng AI — có tiếng trong video</button><button data-val="off">🔇 Không đọc (chỉ chữ)</button></div>' +
       '<div class="tv-row av-op" data-show="ai"><select data-v="vsel" title="Giọng đọc cho ngôn ngữ đang chọn"></select><button class="tv-b" data-a="vtest">▶ Nghe thử giọng</button></div>' +
       '<div class="tv-seg" data-k="rate" data-show="ai"><button data-val="0.9">🐢 Chậm</button><button data-val="1">Vừa</button><button data-val="1.12">🐇 Nhanh</button></div><div class="tv-note" data-v="aiinfo"></div></div>' +
-      '<div class="tv-f tv-sub"><b>🎵 Nhạc nền</b><div class="tv-seg" data-k="music">' + musicBtns + '</div>' +
+      '<div class="tv-f tv-sub"><b>🎵 Nhạc nền</b>' + musicSelect() +
       '<input type="file" accept="audio/*,.mp3,.m4a,.aac,.wav,.ogg,.opus,.flac" data-v="mfile" class="tv-hide"/>' +
       '<div class="tv-row"><span>Âm lượng</span><input type="range" min="0" max="100" step="5" data-o="musicVol"/><button class="tv-b" data-a="hearm">▶ Nghe thử</button></div><div class="tv-note" data-v="minfo"></div></div>' +
       '<div class="tv-f"><b>Hiện trên video</b><div class="tv-chk">' + chk("caps", "Phụ đề lời đọc") + chk("qcard", "Thẻ câu hỏi") + chk("spot", "Khung sáng chi tiết") + chk("nums", "Đánh số chi tiết") + chk("cta", "Câu hỏi gợi bình luận ở cuối") + chk("qr", "Mã QR cuối video") + chk("safe", "📱 Chừa chỗ nút bấm TikTok/Reels (khung dọc)") + "</div>" +
@@ -1836,7 +1857,9 @@
       ov.querySelectorAll("[data-show-ai]").forEach(function (el) { el.classList.toggle("tv-hide", !O.ai); });
       CV.ok = coverLoad(w, O).ok; syncCover(); syncPub();
       $('[data-a="export"]').textContent = "⬇️ Xuất video MP4 " + (O.voice === "ai" ? (O.music !== "off" ? "(lời đọc + nhạc)" : "(có lời đọc)") : O.music !== "off" ? "(chỉ có nhạc)" : "(không tiếng)");
-      var mu = musicFor(w, O); $('[data-v="minfo"]').textContent = O.music === "file" ? (userMusicName ? "🎵 " + userMusicName : "Chọn một tệp nhạc trên máy (MP3, M4A, WAV…)") : O.music === "off" ? "" : (O.music === "auto" ? "Tự chọn: " + (MUSIC.PRE[mu] ? MUSIC.PRE[mu].name : mu) + " · " : "") + "Nhạc tự nhỏ lại khi có lời đọc.";
+      var mu = musicFor(w, O), pm = MUSIC.PRE[mu], msel = $('[data-v="msel"]'); if (msel.value !== O.music) msel.value = O.music;
+      $('[data-v="minfo"]').textContent = O.music === "file" ? (userMusicName ? "🎵 " + userMusicName : "Chọn một tệp nhạc trên máy (MP3, M4A, WAV…)") : O.music === "off" ? "" :
+        (O.music === "auto" ? "Tự chọn: " + (pm ? pm.name : mu) + " · " : "") + (pm && pm.desc ? pm.desc + " · " : "") + "Nhạc tự nhỏ lại khi có lời đọc.";
       aiInfo(); audLabel(); trInfo(); fillVoices();
     }
     function trInfo() {
@@ -2078,7 +2101,6 @@
       if (sg && b.dataset.val != null) {
         if (sg.dataset.k === "vlang") { if (!busy) setLang(b.dataset.val); return; }
         var k = sg.dataset.k, val = b.dataset.val; O[k] = (k === "res") ? +val : (k === "rate" ? +val : val);
-        if (k === "music" && val === "file" && !userMusic) $('[data-v="mfile"]').click();
         saveOpts(O); syncUI(); rebuild(); return;
       }
       if (a === "close") close();
@@ -2154,6 +2176,7 @@
     ov.addEventListener("change", async function (e) {
       var el = e.target;
       if (el.dataset.c) { O[el.dataset.c] = el.checked; saveOpts(O); syncUI(); rebuild(); }
+      if (el.dataset.v === "msel") { O.music = el.value; if (O.music === "file" && !userMusic) $('[data-v="mfile"]').click(); saveOpts(O); syncUI(); rebuild(); return; }
       if (el.dataset.cv === "bg") { var bv = el.value; if (bv === "frame") { CV.C.src = "frame"; } else if (bv === "user") { CV.C.src = "user"; } else { CV.C.src = "img"; CV.C.k = +bv.split(":")[1] || 0; CV.C.focus = -1; } CV.C.px = 0.5; CV.C.py = 0.5; CV.C.zoom = 1; coverChanged(); return; }
       if (el.dataset.cv === "focus") { CV.C.focus = +el.value; CV.C.px = 0.5; CV.C.py = 0.5; CV.C.zoom = 1; coverChanged(); return; }
       if (el.dataset.v === "vsel") { O.voices = Object.assign({}, O.voices || {}); O.voices[O.vlang || "vi"] = el.value; saveOpts(O); AUD.nk = null; AUD.mk = null; player.set(null); aiInfo(); rebuild(); return; }
